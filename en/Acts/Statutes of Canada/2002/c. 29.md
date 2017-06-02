@@ -2590,6 +2590,8 @@ Wedgemussel, Dwarf (*Alasmidonta heterodon*)<br />- <i>Alasmidonte naine</i>
 
 Blue, Karner (*Lycaeides melissa samuelis*)<br />- <i>Bleu mélissa</i>
 
+Burying Beetle, American (*Nicrophorus americanus*)<br />- <i>Nécrophore d’Amérique</i>
+
 Elfin, Frosted (*Callophrys irus*)<br />- <i>Lutin givré</i>
 
 Marble, Island (*Euchloe ausonides insulanus*)<br />- <i>Marbré insulaire</i>
@@ -2739,6 +2741,10 @@ Frog, Rocky Mountain Tailed (*Ascaphus montanus*)<br />- <i>Grenouille-à-queue 
 
 Salamander, Allegheny Mountain Dusky (*Desmognathus ochrophaeus*) Carolinian population<br />- <i>Salamandre sombre des montagnes population carolinienne</i>
 
+Salamander, Jefferson (*Ambystoma jeffersonianum*)<br />- <i>Salamandre de Jefferson</i>
+
+Salamander, Northern Dusky (*Desmognathus fuscus*) Carolinian population<br />- <i>Salamandre sombre du Nord population carolinienne</i>
+
 Salamander, Small-mouthed (*Ambystoma texanum*)<br />- <i>Salamandre à nez court</i>
 
 Salamander, Tiger (*Ambystoma tigrinum*) Southern Mountain population<br />- <i>Salamandre tigrée population des montagnes du Sud</i>
@@ -2753,6 +2759,8 @@ Toad, Fowler’s (*Anaxyrus fowleri*)<br />- <i>Crapaud de Fowler</i>
 Foxsnake, Eastern (*Pantherophis gloydi*) Carolinian population<br />- <i>Couleuvre fauve de l’Est population carolinienne</i>
 
 Foxsnake, Eastern (*Pantherophis gloydi*) Great Lakes / St. Lawrence population<br />- <i>Couleuvre fauve de l’Est population des Grands Lacs et du Saint-Laurent</i>
+
+Gartersnake, Butler’s (*Thamnophis butleri*)<br />- <i>Couleuvre à petite tête</i>
 
 Lizard, Greater Short-horned (*Phrynosoma hernandesi*)<br />- <i>Grand iguane à petites cornes</i>
 
@@ -2897,11 +2905,17 @@ Clubtail, Olive (*Stylurus olivaceus*)<br />- <i>Gomphe olive</i>
 
 Clubtail, Rapids (*Gomphus quadricolor*)<br />- <i>Gomphe des rapides</i>
 
+Clubtail, Skillet (*Gomphus ventricosus*)<br />- <i>Gomphe ventru</i>
+
+Crawling Water Beetle, Hungerford’s (*Brychius hungerfordi*)<br />- <i>Haliplide de Hungerford</i>
+
 Diving Beetle, Bert’s Predaceous (*Sanfilippodytes bertae*)<br />- <i>Hydropore de Bertha</i>
 
 Duskywing, Eastern Persius (*Erynnis persius persius*)<br />- <i>Hespérie Persius de l’Est</i>
 
 Efferia, Okanagan (*Efferia okanagana*)<br />- <i>Asile de l’Okanagan</i>
+
+Emerald, Hine’s (*Somatochlora hineana*)<br />- <i>Cordulie de Hine</i>
 
 Flower Moth, White (*Schinia bimatris*)<br />- <i>Héliotin blanc satiné</i>
 
@@ -3096,8 +3110,6 @@ Spike-rush, Horsetail (*Eleocharis equisetoides*)<br />- <i>Éléocharide fausse
 
 Sundew, Thread-leaved (*Drosera filiformis*)<br />- <i>Droséra filiforme</i>
 
-Thistle, Pitcher’s (*Cirsium pitcheri*)<br />- <i>Chardon de Pitcher</i>
-
 Tonella, Small-flowered (*Tonella tenella*)<br />- <i>Tonelle délicate</i>
 
 Toothcup (*Rotala ramosior*)<br />- <i>Rotala rameux</i>
@@ -3109,8 +3121,6 @@ Trefoil, Bog Bird’s-foot (*Lotus pinnatus*)<br />- <i>Lotier à feuilles penn�
 Trillium, Drooping (*Trillium flexipes*)<br />- <i>Trille à pédoncule incliné</i>
 
 Triteleia, Howell’s (*Triteleia howellii*)<br />- <i>Tritéléia de Howell</i>
-
-Twayblade, Purple (*Liparis liliifolia*)<br />- <i>Liparis à feuilles de lis</i>
 
 Violet, Bird’s-foot (*Viola pedata*)<br />- <i>Violette pédalée</i>
 
@@ -3261,7 +3271,7 @@ Salamander, Allegheny Mountain Dusky (*Desmognathus ochrophaeus*) Great Lakes �
 
 Salamander, Coastal Giant (*Dicamptodon tenebrosus*)<br />- <i>Grande salamandre</i>
 
-Salamander, Jefferson (*Ambystoma jeffersonianum*)<br />- <i>Salamandre de Jefferson</i>
+Salamander, Spring (*Gyrinophilus porphyriticus*) Adirondack / Appalachian population<br />- <i>Salamandre pourpre population des Adirondacks et des Appalaches</i>
 
 Spadefoot, Great Basin (*Spea intermontana*)<br />- <i>Crapaud du Grand Bassin</i>
 
@@ -3269,8 +3279,6 @@ Spadefoot, Great Basin (*Spea intermontana*)<br />- <i>Crapaud du Grand Bassin</
 
 
 ##### Reptiles
-
-Gartersnake, Butler’s (*Thamnophis butleri*)<br />- <i>Couleuvre à petite tête</i>
 
 Gophersnake, Great Basin (*Pituophis catenifer deserticola*)<br />- <i>Couleuvre à nez mince du Grand Bassin</i>
 
@@ -3370,6 +3378,8 @@ Aster, White Wood (*Eurybia divaricata*)<br />- <i>Aster à rameaux étalés</i>
 
 Aster, Willowleaf (*Symphyotrichum praealtum*)<br />- <i>Aster très élevé</i>
 
+Baccharis, Eastern (*Baccharis halimifolia*)<br />- <i>Baccharis à feuilles d’arroche</i>
+
 Bartonia, Branched (*Bartonia paniculata* ssp. *paniculata*)<br />- <i>Bartonie paniculée</i>
 
 Blazing Star, Dense (*Liatris spicata*)<br />- <i>Liatris à épi</i>
@@ -3396,8 +3406,6 @@ Gentian, Plymouth (*Sabatia kennedyana*)<br />- <i>Sabatie de Kennedy</i>
 
 Gentian, Victorin’s (*Gentianopsis virgata* ssp. *victorinii*)<br />- <i>Gentiane de Victorin</i>
 
-Golden Crest (*Lophiola aurea*)<br />- <i>Lophiolie dorée</i>
-
 Goldenseal (*Hydrastis canadensis*)<br />- <i>Hydraste du Canada</i>
 
 Goosefoot, Smooth (*Chenopodium subglabrum*)<br />- <i>Chénopode glabre</i>
@@ -3409,8 +3417,6 @@ Hackberry, Dwarf (*Celtis tenuifolia*)<br />- <i>Micocoulier rabougri</i>
 Hoptree, Common (*Ptelea trifoliata*)<br />- <i>Ptéléa trifolié</i>
 
 Hyacinth, Wild (*Camassia scilloides*)<br />- <i>Camassie faux-scille</i>
-
-Iris, Dwarf Lake (*Iris lacustris*)<br />- <i>Iris lacustre</i>
 
 Jacob’s-ladder, Van Brunt’s (*Polemonium vanbruntiae*)<br />- <i>Polémoine de Van Brunt</i>
 
@@ -3441,6 +3447,8 @@ Soapweed (*Yucca glauca*)<br />- <i>Yucca glauque</i>
 Spiderwort, Western (*Tradescantia occidentalis*)<br />- <i>Tradescantie de l’Ouest</i>
 
 Thistle, Hill’s (*Cirsium hillii*)<br />- <i>Chardon de Hill</i>
+
+Twayblade, Purple (*Liparis liliifolia*)<br />- <i>Liparis à feuilles de lis</i>
 
 Water-pennywort (*Hydrocotyle umbellata*)<br />- <i>Hydrocotyle à ombelle</i>
 
@@ -3582,8 +3590,6 @@ Frog, Northern Leopard (*Lithobates pipiens*) Western Boreal/Prairie populations
 Frog, Red-legged (*Rana aurora*)<br />- <i>Grenouille à pattes rouges</i>
 
 Salamander, Coeur d’Alene (*Plethodon idahoensis*)<br />- <i>Salamandre de Coeur d’Alène</i>
-
-Salamander, Spring (*Gyrinophilus porphyriticus*)<br />- <i>Salamandre pourpre</i>
 
 Toad, Great Plains (*Anaxyrus cognatus*)<br />- <i>Crapaud des steppes</i>
 
@@ -3732,6 +3738,8 @@ Fern, American Hart’s-tongue (*Asplenium scolopendrium*)<br />- <i>Scolopendre
 
 Fern, Coastal Wood (*Dryopteris arguta*)<br />- <i>Dryoptéride côtière</i>
 
+Goldencrest (*Lophiola aurea*)<br />- <i>Lophiolie dorée</i>
+
 Goldenrod, Houghton’s (*Solidago houghtonii*)<br />- <i>Verge d’or de Houghton</i>
 
 Goldenrod, Riddell’s (*Solidago riddellii*)<br />- <i>Verge d’or de Riddell</i>
@@ -3739,6 +3747,8 @@ Goldenrod, Riddell’s (*Solidago riddellii*)<br />- <i>Verge d’or de Riddell<
 Hairgrass, Mackenzie (*Deschampsia mackenzieana*)<br />- <i>Deschampsie du bassin du Mackenzie</i>
 
 Indian-plantain, Tuberous (*Arnoglossum plantagineum*)<br />- <i>Arnoglosse plantain</i>
+
+Iris, Dwarf Lake (*Iris lacustris*)<br />- <i>Iris lacustre</i>
 
 Lilaeopsis, Eastern (*Lilaeopsis chinensis*)<br />- <i>Liléopsis de l’Est</i>
 
@@ -3767,6 +3777,8 @@ Rush, New Jersey (*Juncus caesariensis*)<br />- <i>Jonc du New Jersey</i>
 Spike-rush, Tubercled (*Eleocharis tuberculosa*)<br />- <i>Éléocharide tuberculée</i>
 
 Tansy, Floccose (*Tanacetum huronense* var. *floccosum*)<br />- <i>Tanaisie floconneuse</i>
+
+Thistle, Pitcher’s (*Cirsium pitcheri*)<br />- <i>Chardon de Pitcher</i>
 
 Thrift, Athabasca (*Armeria maritima interior*)<br />- <i>Arméria de l’Athabasca</i>
 
@@ -3802,6 +3814,8 @@ Moss, Twisted Oak (*Syntrichia laevipila*)<br />- <i>Tortule à poils lisses</i>
 
 Glass-whiskers, Frosted (*Sclerophora peronella*) Nova Scotia population<br />- <i>Sclérophore givré population de la Nouvelle-Écosse</i>
 
+Lichen, Blue Felt (*Degelia plumbea*)<br />- <i>Dégélie plombée</i>
+
 Lichen, Boreal Felt (*Erioderma pedicallatum*) Boreal population<br />- <i>Érioderme boréal population boréale</i>
 
 Lichen, Cryptic Paw (*Nephroma occultum*)<br />- <i>Néphrome cryptique</i>
@@ -3811,7 +3825,7 @@ Lichen, Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseu
 Lichen, Peacock Vinyl (*Leptogium polycarpum*)<br />- <i>Leptoge à quatre spores</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10; SOR/2017-59.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112.
 
 
 
