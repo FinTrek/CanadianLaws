@@ -25881,8 +25881,8 @@ and only the L forms of the amino acids have been added.
 	- **(c)** on any panel
 		- **(i)** the name and address of the manufacturer of the drug,
 		- **(ii)** the lot number of the drug,
-		- **(iii)** adequate directions for use of the drug,
-		- **(iv)** a quantitative list of the medicinal ingredients of the drug by their proper names or, if they have no proper names, by their common names,
+		- **(iii)** adequate directions for use of the drug, except in the case of a drug to which section C.01.004.02 applies,
+		- **(iv)** a quantitative list of the medicinal ingredients of the drug by their proper names or, if they have no proper names, by their common names, except in the case of a drug to which section C.01.004.02 applies,
 		- **(v)** the expiration date of the drug, and
 		- **(vi)** in the case of a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01, the following statement, displayed in capital letters and in a legible manner:“HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [naming purpose] BASED ON LIMITED CLINICAL TESTING IN HUMANS.
 
@@ -25890,21 +25890,9 @@ and only the L forms of the amino acids have been added.
 
 
 
-- **(1.1)** In addition to the requirements of subsection (1), when a drug is intended for human use, its outer label must contain a list of all non-medicinal ingredients, or, if the outer label is too small, the list must appear on a tag, tape or card that is attached to the package.
+- **(1.1) to (1.5)** [Repealed, SOR/2014-158, s. 3]
 
-- **(1.2)** The non-medicinal ingredients must be listed in alphabetical order or in descending order of predominance by their proportion in the drug, preceded by words that clearly distinguish them from the medicinal ingredients.
-
-- **(1.3)** In the case of flavour, fragrance or pharmaceutical ink, the expressions “flavour/*saveur*”, “fragrance/*parfum*” and “pharmaceutical ink/*encre pharmaceutique*”, respectively, may be included in the list to indicate that such ingredients have been added to the drug, instead of listing those ingredients or combinations of them individually.
-
-- **(1.4)** When the composition of the drug varies from one lot to another, the outer label must include a reference to all non-medicinal ingredient alternatives that may be present in the drug, preceded by the symbol “+/–” or “±” or the expression “or/*ou*” or “may contain/*peut contenir*”.
-
-- **(1.5)** Subsections (1.1) to (1.4) do not apply to
-	- **(a)** a prescription drug;
-	- **(b)** a drug that is not required to be sold pursuant to a prescription but is administered only under the supervision of a practitioner;
-	- **(c)** a drug that is represented as being solely for use as a disinfectant on hard non-porous surfaces; or
-	- **(d)** a drug for veterinary use.
-
-- **(2)** In addition to the requirements of subsection (1) and, if applicable, subsections (1.1) to (1.4), the outer label of a drug must show all of the following information:
+- **(2)** In addition to the requirements of subsection (1), the outer label of a drug shall display the following information:
 	- **(a)** the net amount of the drug in the container in terms of weight, measure or number;
 	- **(b)** in the case of a drug intended for parenteral use, a quantitative list of any preservatives present therein by their proper names or, if they have no proper names, by their common names; and
 	- **(c)** in the case of a drug for human use that contains mercury or a salt or derivative thereof as a preservative, a quantitative list of all mercurial preservatives present therein by their proper names or, if they have no proper names, by their common names.
@@ -25926,7 +25914,7 @@ and only the L forms of the amino acids have been added.
 - **(5)** This section does not apply to
 	- **(a)** a drug sold to a drug manufacturer; or
 	- **(b)** a drug dispensed pursuant to a prescription, if its label carries suitable directions for use and complies with the requirements of section C.01.005.
-> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1; SOR/2013-122, ss. 4, 5.
+> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1; SOR/2013-122, ss. 4, 5; SOR/2014-158, s. 3.
 
 
 
@@ -25937,8 +25925,52 @@ and only the L forms of the amino acids have been added.
 	- **(a)** a telephone number, email address, website address, postal address or any other information that enables communication with a contact person in Canada; and
 	- **(b)** a statement to the effect that any injury to a person’s health that is suspected of being associated with the use of the drug may be reported to the contact person.
 
-- **(2)** Subsection (1) does not apply to the labels of a drug that is listed in Schedule C or D to the Act and that is in dosage form.
+- **(2)** Subsection (1) does not apply to
+	- **(a)** the labels of a drug that is listed in Schedule C or D to the Act and that is in dosage form; or
+	- **(b)** the inner and outer labels of a drug to which section C.01.004.02 applies.
 > SOR/2014-158, s. 4.
+
+
+
+
+**C.01.004.02** 
+
+- **(1)** In addition to the requirements of section C.01.004, the outer label of a drug for human use in dosage form shall display, either one bilingual table, placed on any panel, that contains only the following information in both English and French or one table in English and one table in French, each of which is placed on any panel, that contains only the following information:
+	- **(a)** adequate directions for use of the drug;
+	- **(b)** a quantitative list of the drug’s medicinal ingredients by their proper names or, if they have no proper names, by their common names;
+	- **(c)** the drug’s non-medicinal ingredients listed in alphabetical order or in descending order of predominance by their proportion in the drug, preceded by words that clearly distinguish them from the medicinal ingredients; and
+	- **(d)** the information referred to in subsection C.01.004.01(1).
+
+- **(2)** If a package is too small to accommodate an outer label that displays one bilingual table that lists all of the drug’s non-medicinal ingredients or two unilingual tables, each of which lists all of the drug’s non-medicinal ingredients, the list of non-medicinal ingredients shall be displayed in both English and French on a tag, tape or card that is attached to the package.
+
+- **(3)** If pharmaceutical ink, a fragrance or a flavour has been added to the drug, the following expressions may be included in the list of non-medicinal ingredients to indicate that those ingredients have been added to the drug, instead of listing them or combinations of them individually:
+	- **(a)** in the case where a bilingual table referred to in subsection (1) is displayed, the expressions “flavour/*saveur*”, “fragrance/*parfum*” and “pharmaceutical ink/*encre pharmaceutique*”; or
+	- **(b)** in the case where two unilingual tables referred to in subsection (1) are displayed, the expressions
+		- **(i)** “*encre pharmaceutique*”, “*parfum*” and “*saveur*” in the table in French, and
+		- **(ii)** “flavour”, “fragrance” and “pharmaceutical ink” in the table in English.
+
+- **(4)** If the composition of the drug varies from one lot to another with respect to its non-medicinal ingredients,
+	- **(a)** in the case where a bilingual table referred to in subsection (1) is displayed, the table shall include a reference to all non-medicinal ingredient alternatives that may be present in the drug, preceded by the symbol “+/–” or “±” or the expression “or/*ou*” or “may contain/*peut contenir*”; or
+	- **(b)** in the case where two unilingual tables referred to in subsection (1) are displayed,
+		- **(i)** the table in French shall list all non-medicinal ingredient alternatives that may be present in the drug, preceded by the symbol “+/–” or “±” or the expression “*ou*” or “*peut contenir*”, and
+		- **(ii)** the table in English shall list all non-medicinal ingredient alternatives that may be present in the drug, preceded by the symbol “+/–” or “±” or the expression “or” or “may contain”.
+
+- **(5)** For the purposes of paragraphs (3)(a) and (4)(a), the French terms in the expressions may appear first.
+
+- **(6)** Subsections (1) to (5) do not apply to
+	- **(a)** prescription drugs;
+	- **(b)** drugs that are permitted to be sold without a prescription but that are administered only under the supervision of a practitioner; and
+	- **(c)** drugs that are represented as being solely for use as a disinfectant on hard non-porous surfaces.
+> SOR/2014-158, s. 5; SOR/2017-18, s. 23.
+
+
+
+
+**C.01.004.03** In addition to the requirements of section C.01.004, the inner label of a drug to which section C.01.004.02 applies shall display on any panel
+- **(a)** adequate directions for use of the drug;
+- **(b)** a quantitative list of the drug’s medicinal ingredients by their proper names or, if they have no proper names, by their common names; and
+- **(c)** the information referred to in subsection C.01.004.01(1).
+> SOR/2014-158, s. 5.
 
 
 
