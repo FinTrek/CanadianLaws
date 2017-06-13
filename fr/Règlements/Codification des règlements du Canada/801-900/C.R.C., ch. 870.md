@@ -25849,7 +25849,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** si une norme est prescrite pour la drogue au titre 6 de la présente partie, une déclaration attestant que la drogue est conforme à la norme canadienne, pour laquelle l’abréviation D.N.C. peut être utilisée,
 		- **(iv)** si une norme n’est pas prescrite pour la drogue au titre 6 de la présente partie mais figure dans une publication mentionnée à l’annexe B de la Loi, le nom de la publication qui contient cette norme, ou son abréviation donnée à l’annexe B de la Loi, ou, s’il s’agit d’une norme du fabricant, une déclaration en ce sens,
 		- **(v)** en français et en anglais, la mention « *stérile* » « *sterile* » s’il s’agit d’une drogue dont l’état stérile est exigé par le présent règlement;
-	- **b)** sur le quart supérieur gauche de l’espace principal :
+	- **b)** sur le quart supérieur gauche de l’espace principal :
 		- **(i)** le symbole « Pr », s’il s’agit d’une drogue sur ordonnance, lequel symbole ne peut figurer sur l’étiquette d’aucune autre drogue,
 		- **(ii)** le symbole « 
 > Image: Symbole qui consiste en un losange dans lequel un C majuscule est centré.
@@ -25861,8 +25861,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 	- **c)** sur une partie quelconque :
 		- **(i)** le nom et l’adresse du fabricant de la drogue,
 		- **(ii)** le numéro de lot de la drogue,
-		- **(iii)** le mode d’emploi approprié de la drogue,
-		- **(iv)** une liste quantitative de tous les ingrédients médicinaux de la drogue, désignés par leur nom propre ou, à défaut, par leur nom usuel,
+		- **(iii)** le mode d’emploi approprié de la drogue, sauf s’il s’agit d’une drogue à laquelle s’applique l’article C.01.004.02,
+		- **(iv)** une liste quantitative des ingrédients médicinaux de la drogue, désignés par leurs noms propres ou, à défaut, par leurs noms usuels, sauf s’il s’agit d’une drogue à laquelle s’applique l’article C.01.004.02,
 		- **(v)** la date limite d’utilisation de la drogue,
 		- **(vi)** dans le cas d’une drogue nouvelle pour usage exceptionnel à l’égard de laquelle un avis de conformité a été délivré en application de l’article C.08.004.01, la mention suivante, inscrite en majuscules et de façon lisible :« SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.
 
@@ -25870,21 +25870,9 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-- **(1.1)** En outre, lorsque la drogue est pour usage humain, la liste de ses ingrédients non médicinaux figure sur l’étiquette extérieure de la drogue ou, si l’étiquette est trop petite, elle est placée sur une étiquette mobile, un ruban ou une carte attaché à l’emballage.
+- **(1.1) à (1.5)** [Abrogés, DORS/2014-158, art. 3]
 
-- **(1.2)** Les ingrédients non médicinaux figurent sur la liste par ordre alphabétique ou par ordre décroissant de leurs proportions respectives dans la drogue et un libellé qui les distingue clairement des ingrédients médicinaux précède cette liste.
-
-- **(1.3)** Dans le cas d’une encre pharmaceutique, d’un parfum ou d’une saveur, les mentions « encre pharmaceutique/*pharmaceutical ink* », « parfum/*fragrance* » ou « saveur/*flavour* » peuvent figurer sur la liste, pour en indiquer l’ajout, au lieu que chacun des ingrédients ou mélange d’ingrédients soit énuméré.
-
-- **(1.4)** Si la composition de la drogue varie de lot en lot, l’étiquette extérieure indique la présence possible de tout substitut à un ingrédient non médicinal en le faisant précéder du symbole « +/– » ou « ± » ou bien des termes « ou/*or* » ou « peut contenir/*may contain* ».
-
-- **(1.5)** Les paragraphes (1.1) à (1.4) ne s’appliquent pas à une drogue :
-	- **a)** qui est une drogue sur ordonnance;
-	- **b)** qui peut être vendue sans ordonnance mais qui doit être administrée uniquement sous la surveillance d’un praticien;
-	- **c)** qui est présentée comme étant destinée exclusivement à la désinfection de surfaces dures non poreuses;
-	- **d)** pour usage vétérinaire.
-
-- **(2)** Outre les exigences du paragraphe (1) et, s’il y a lieu, des paragraphes (1.1) à (1.4), les renseignements ci-après figurent sur l’étiquette extérieure d’une drogue :
+- **(2)** Outre les exigences du paragraphe (1), les renseignements ci-après figurent sur l’étiquette extérieure d’une drogue :
 	- **a)** le contenu net du contenant de la drogue, en termes de poids, de volume ou de nombre;
 	- **b)** dans le cas d’une drogue à usage parentéral, une liste quantitative de tous les agents de conservation incorporés à la drogue, désignés par leur nom propre ou, à défaut, par leur nom usuel; et
 	- **c)** dans le cas d’une drogue pour usage humain qui contient du mercure ou l’un de ses sels ou dérivés utilisé comme agent de conservation, une liste quantitative de tous les agents de conservation mercuriels incorporés à la drogue, désignés par leur nom propre ou, à défaut, par leur nom usuel.
@@ -25906,7 +25894,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 - **(5)** Le présent article ne s’applique pas
 	- **a)** à une drogue vendue à un fabricant de drogues; ni
 	- **b)** à une drogue vendue sur ordonnance si l’étiquette de la drogue porte le mode d’emploi convenable de la drogue et est conforme à l’article C.01.005.
-> DORS/80-543, art. 2; DORS/81-334, art. 1(A); DORS/85-715, art. 2; DORS/89-229, art. 1; DORS/90-216, art. 1; DORS/90-586, art. 1; DORS/92-654, art. 2; DORS/93-202, art. 2; DORS/97-228, art. 1; DORS/97-515, art. 1; DORS/2000-219, art. 1; DORS/2001-181, art. 4; DORS/2010-105, art. 2; DORS/2011-88, art. 1; DORS/2013-122, art. 4 et 5.
+> DORS/80-543, art. 2; DORS/81-334, art. 1(A); DORS/85-715, art. 2; DORS/89-229, art. 1; DORS/90-216, art. 1; DORS/90-586, art. 1; DORS/92-654, art. 2; DORS/93-202, art. 2; DORS/97-228, art. 1; DORS/97-515, art. 1; DORS/2000-219, art. 1; DORS/2001-181, art. 4; DORS/2010-105, art. 2; DORS/2011-88, art. 1; DORS/2013-122, art. 4 et 5; DORS/2014-158, art. 3.
 
 
 
@@ -25917,8 +25905,52 @@ si seulement des acides aminés de forme L ont été ajoutés.
 	- **a)** le numéro de téléphone, l’adresse électronique, l’adresse du site Web ou l’adresse postale d’une personne-ressource au Canada, ou tout autre renseignement permettant de contacter cette dernière;
 	- **b)** une mention que tout préjudice à l’égard de la santé d’une personne soupçonné d’être lié à l’utilisation de la drogue peut être porté à l’attention de cette personne-ressource.
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux étiquettes d’une drogue mentionnée aux annexes C ou D de la Loi et qui est sous forme posologique.
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux étiquettes d’une drogue mentionnée aux annexes C ou D de la Loi et qui est sous forme posologique;
+	- **b)** aux étiquettes intérieure et extérieure d’une drogue à laquelle s’applique l’article C.01.004.02.
 > DORS/2014-158, art. 4.
+
+
+
+
+**C.01.004.02** 
+
+- **(1)** Outre les exigences de l’article C.01.004, l’étiquette extérieure d’une drogue pour usage humain sous forme posologique porte soit un tableau bilingue, placé sur un espace quelconque, qui ne présente que les renseignements ci-après en français et en anglais, soit un tableau en français et un tableau en anglais — chaque tableau étant placé sur un espace quelconque —, qui ne présentent que ces renseignements :
+	- **a)** le mode d’emploi approprié de la drogue;
+	- **b)** une liste quantitative des ingrédients médicinaux de la drogue, désignés par leurs noms propres ou, à défaut, par leurs noms usuels;
+	- **c)** la liste des ingrédients non médicinaux de la drogue, par ordre alphabétique ou par ordre décroissant de leur proportion respective dans celle-ci, précédée d’une mention qui les distingue clairement des ingrédients médicinaux;
+	- **d)** les renseignements visés au paragraphe C.01.004.01(1).
+
+- **(2)** Dans le cas où l’emballage est trop petit pour avoir une étiquette extérieure où figurent soit un tableau bilingue qui donne la liste des ingrédients non médicinaux, soit deux tableaux unilingues qui donnent cette liste, celle-ci est présentée en français et en anglais sur une étiquette mobile, un ruban ou une carte attachés à l’emballage.
+
+- **(3)** Dans le cas où une encre pharmaceutique, un parfum ou une saveur sont ajoutés à la drogue, les mentions ci-après peuvent remplacer, sur la liste des ingrédients non médicinaux, l’énumération de chacun des ingrédients en question, ou des mélanges de ceux-ci, pour en indiquer l’ajout :
+	- **a)** s’agissant du tableau bilingue visé au paragraphe (1), les mentions « encre pharmaceutique/*pharmaceutical ink* », « parfum/*fragrance* » ou « saveur/*flavour* »;
+	- **b)** s’agissant des tableaux unilingues visés au paragraphe (1) :
+		- **(i)** pour ce qui est du tableau en français, les mentions « encre pharmaceutique », « parfum » ou « saveur »,
+		- **(ii)** pour ce qui est du tableau en anglais, les mentions « *flavour* », « *fragrance* » ou « *pharmaceutical ink* ».
+
+- **(4)** Dans le cas où la composition de la drogue varie de lot en lot relativement à ses ingrédients non médicinaux :
+	- **a)** s’agissant du tableau bilingue visé au paragraphe (1), ce tableau porte une mention de tout substitut d’ingrédient non médicinal susceptible de se trouver dans la drogue, précédée du symbole « +/– » ou « ± » ou de la mention « ou/*or* » ou « peut contenir/*may contain* »;
+	- **b)** s’agissant des tableaux unilingues visés au paragraphe (1) :
+		- **(i)** pour ce qui est du tableau en français, ce tableau porte une mention de tout substitut d’ingrédient non médicinal susceptible de se trouver dans la drogue, précédée du symbole « +/– » ou « ± » ou de la mention « ou » ou « peut contenir »,
+		- **(ii)** pour ce qui est du tableau en anglais, ce tableau porte une mention de tout substitut d’ingrédient non médicinal susceptible de se trouver dans la drogue, précédée du symbole « +/– » ou « ± » ou de la mention « *or* » ou « *may contain* ».
+
+- **(5)** Pour l’application des alinéas (3)a) et (4)a), les termes anglais des mentions qui y sont prévues peuvent paraître en premier.
+
+- **(6)** Les paragraphes (1) à (5) ne s’appliquent pas :
+	- **a)** aux drogues sur ordonnance;
+	- **b)** aux drogues qui peuvent être vendues sans ordonnance mais qui sont administrées uniquement sous la surveillance d’un praticien;
+	- **c)** aux drogues qui sont présentées comme étant destinées exclusivement à la désinfection de surfaces dures non poreuses.
+> DORS/2014-158, art. 5; DORS/2017-18, art. 23.
+
+
+
+
+**C.01.004.03** Outre les exigences de l’article C.01.004, l’étiquette intérieure d’une drogue à laquelle s’applique l’article C.01.004.02 porte, sur un espace quelconque :
+- **a)** le mode d’emploi approprié de la drogue;
+- **b)** une liste quantitative des ingrédients médicinaux de la drogue, désignés par leurs noms propres ou, à défaut, par leurs noms usuels;
+- **c)** les renseignements visés au paragraphe C.01.004.01(1).
+> DORS/2014-158, art. 5.
 
 
 
