@@ -60,7 +60,7 @@ Autorités habilitantes :
 
 ***articles facultatifs***[Abrogée, DORS/2008-258, art. 1]
 
-***ASTM****American Society for Testing Materials*; (*ASTM*)
+***ASTM*** *American Society for Testing Materials*; (*ASTM*)
 
 ***attache*** Pièce de connexion à déblocage rapide qui permet de maintenir une personne dans une ceinture de sécurité ou un ensemble intégré de retenue; (*buckle*)
 
@@ -68,7 +68,11 @@ Autorités habilitantes :
 
 ***autobus multifonction pour les activités scolaires*** Autobus scolaire qui est conçu pour faire monter et déposer des élèves dans des circonstances où le contrôle de la circulation n’est pas nécessaire; (*multifunction school activity bus*)
 
+***autobus muni de sièges de périmètre*** Autobus qui comporte, à l’arrière de la place assise désignée du conducteur, sept places assises désignées ou moins qui font face à l’avant ou qui peuvent être changées de direction à laquelle elles font face sans l’aide d’outil; (*perimeter-seating bus*)
+
 ***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école ou à des événements liés à celle-ci et en revenir; (*school bus*)
+
+***autobus urbain*** Autobus qui est spécialement conçu avec un espace où des passagers peuvent se tenir debout et qui est muni d’un système d’arrêt sur demande; (*transit bus*)
 
 ***autocaravane*** Véhicule de tourisme à usages multiples conçu pour servir de local d’habitation temporaire comme en témoigne la présence d’au moins quatre des éléments suivants :
 - **a)** une installation qui permet de faire la cuisine;
@@ -240,7 +244,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***encrassement***[Abrogée, DORS/2007-180, art. 1]
 
-***enfant*** Personne dont la masse est de plus de 10 kg et d’au plus 30 kg; (*child*)
+***enfant*** Personne dont la masse est de plus de 10 kg et d’au plus 30 kg; (*child*)
 
 ***ensemble de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
@@ -501,13 +505,13 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating** or **GAWR*)
 
-***point de référence de l’épaule*** S’entend du point situé à 563 mm au-dessus du point H le long de la ligne de torse; (*shoulder reference point*)
+***point de référence de l’épaule*** S’entend du point situé à 563 mm au-dessus du point H le long de la ligne de torse; (*shoulder reference point*)
 
 ***point de référence de position assise*** L’unique « *Design H-Point* », au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), qui :
 - **a)** établit la position nominale normale la plus reculée du conducteur ou d’un passager pour chacune des places assises désignées, compte tenu de tous les réglages possibles dans un véhicule, à l’horizontale, à la verticale et en inclinaison;
 - **b)** a des coordonnées X, Y et Z, au sens de l’article 3.3 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), établies par rapport à la structure du véhicule conçu;
 - **c)** simule la position de l’articulation de la hanche humaine;
-- **d)** est le point de référence permettant de mettre en place le gabarit point H avec la jambe du 95<sup>e</sup> percentile, décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) ou, si ce gabarit point H ne peut être mis en place, le point de référence lorsque le siège est dans sa position la plus reculée; (*seating reference point*)
+- **d)** est le point de référence permettant de mettre en place le gabarit point H avec la jambe du 95<sup>e</sup> percentile, décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) ou, si ce gabarit point H ne peut être mis en place, le point de référence lorsque le siège est dans sa position la plus reculée; (*seating reference point*)
 
 ***point H*** Le point d’articulation mécanique des hanches d’un mannequin qui simule le point d’articulation de la hanche humaine décrit dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995); (*H-point*)
 
@@ -743,9 +747,9 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***vélomoteur***[Abrogée, DORS/88-268, art. 1]
 
-***vitesse à 1,6 km (1 mille)*** Vitesse que peut atteindre un véhicule après un parcours de 1,6 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale; (*speed attainable in 1.6 km (1 mile)*)
+***vitesse à 1,6 km (1 mille)*** Vitesse que peut atteindre un véhicule après un parcours de 1,6 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale; (*speed attainable in 1.6 km (1 mile)*)
 
-***vitesse à 3,2 km (2 milles)*** Vitesse que peut atteindre un véhicule après un parcours de 3,2 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale; (*speed attainable in 3.2 km (2 miles)*)
+***vitesse à 3,2 km (2 milles)*** Vitesse que peut atteindre un véhicule après un parcours de 3,2 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale; (*speed attainable in 3.2 km (2 miles)*)
 
 ***vitesse maximale*** S’agissant d’une motocyclette, la vitesse spécifiée par le fabricant comme étant la vitesse la plus élevée, mesurée conformément à l’article 5.3, pouvant être atteinte par celle-ci; (*maximum speed*)
 
@@ -764,7 +768,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Pour l’application du présent règlement, si un document disponible dans les deux langues officielles est incorporé par renvoi avec ses modifications successives, la modification apportée à ce document dans l’une des langues officielles n’est pas incorporée tant que la modification correspondante n’est pas apportée dans l’autre langue officielle.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1.
 
 
 
@@ -1788,7 +1792,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>110</td>
-<td>Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de 4 536 kg ou moins</td>
+<td>Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de 4 536 kg ou moins</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -1921,7 +1925,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>120</td>
-<td>Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de plus de 4 536 kg</td>
+<td>Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de plus de 4 536 kg</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -2016,7 +2020,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>126</td>
-<td>Systèmes de contrôle électronique de la stabilité</td>
+<td>Systèmes de contrôle électronique de la stabilité pour les véhicules légers</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2822,7 +2826,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2.
 
 
 
@@ -3137,7 +3141,7 @@ ou
 <td>Rouge ou rouge- orange</td>
 </tr>
 <tr>
-<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité</td>
+<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité des véhicules assujettis à la NSVAC 126</td>
 <td>
 > Image: Symbole montrant, en silhouette, la vue arrière d’une voiture au-dessus de deux lignes verticales qui sont sinueuses et épaisses.
 </td>
@@ -3147,7 +3151,7 @@ ou
 <td>Jaune</td>
 </tr>
 <tr>
-<td>Désactivation du système de contrôle électronique de la stabilité</td>
+<td>Désactivation du système de contrôle électronique de la stabilité des véhicules assujettis à la NSVAC 126</td>
 <td>
 > Image: Symbole montrant, en silhouette, la vue arrière d’une voiture au-dessus de deux lignes verticales qui sont sinueuses et épaisses et en dessous desquelles figure le mot OFF.
 </td>
@@ -3474,7 +3478,7 @@ ou
 </tr>
 </table>
 
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 et 4..
 
 
 
@@ -3520,15 +3524,15 @@ ou
 
 - **(1)** Dans le présent article,
 
-***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*)
+***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*) 
 
-***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*)
+***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*) 
 
-***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*)
+***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*) 
 
-***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*)
+***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*) 
 
-***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*)
+***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*) 
 
 - **(2)** Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
 
@@ -3560,9 +3564,9 @@ ou
 
 - **(1)** Dans le présent article,
 
-***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*)
+***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*) 
 
-***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*)
+***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*) 
 
 ***ligne de référence longitudinale*** désigne 
 - **a)** dans un véhicule à banquette avant, une ligne parallèle à l’axe longitudinal du véhicule, située à une distance du centre du volant, vers l’extérieur, égale aux 15 centièmes de la différence entre la moitié de l’espace d’épaules et la distance entre l’axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903a (mai 1966) de la SAE, et
@@ -3570,7 +3574,7 @@ ou
 	- **(i)** une ligne parallèle à l’axe longitudinal du véhicule passant par le centre de la place assise désignée du conducteur, ou
 	- **(ii)** une ligne parallèle à l’axe longitudinal du véhicule située de manière que le centre géométrique des 95 pour cent du contour de portée visuelle se trouve sur l’axe longitudinal de la place assise désignée du conducteur; (*plan view reference line*)
 
-***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966); (*glazing surface reference line*)
+***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966); (*glazing surface reference line*) 
 
 ***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*) 
 
@@ -3871,7 +3875,7 @@ ou
 
 
 
-### Système d’éclairage et dispositifs rétroréfléchissants (Norme 108)
+### Système d’éclairage et dispositifs rétroréfléchissants (Norme 108)
 
 
 #### Dispositions générales
@@ -3928,7 +3932,7 @@ ou
 
 - **(15)** [Réservé]
 
-#### Exigences spéciales relatives au câblage — Disposition S5.5 du DNT 108
+#### Exigences spéciales relatives au câblage — Disposition S5.5 du DNT 108
 
 
 - **(16)** Les dispositions S5.5.1 et S5.5.2 du DNT 108 ne s’appliquent pas aux motocyclettes qui sont munies d’un projecteur à un seul faisceau.
@@ -3956,12 +3960,13 @@ ou
 #### TABLEAU
 <table>
 <tr>
-<th>Article</th>
+<th></th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
 </tr>
 <tr>
+<th>Article</th>
 <th>Catégorie</th>
 <th>Degré d’angle d’éclairage</th>
 <th>Coefficient de rétroréflection minimum (cd/lx/m<sup>2</sup>)</th>
@@ -4227,7 +4232,7 @@ ou
 
 
 
-### Sélection des pneus et des jantes pour les véhicules automobiles d’un pnbv de 4 536 kg ou moins (norme 110)
+### Sélection des pneus et des jantes pour les véhicules automobiles d’un pnbv de 4 536 kg ou moins (norme 110)
 
 
 #### Disposition générale
@@ -4670,7 +4675,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES 
 
 - **(10)** Lorsqu’un caractère du numéro d’identification du véhicule représente la puissance nette du moteur, celle-ci ne doit pas s’écarter de plus de 10 % par rapport à la puissance nette réelle du moteur.
 
-- **(11)** Les fabricants des véhicules visés par le présent article doivent s’adresser à l’Association canadienne des constructeurs de véhicules pour obtenir les caractères visés aux alinéas (3)a) et *a.1*) qui désignent de manière exclusive le fabricant et la catégorie du véhicule.
+- **(11)** Les fabricants des véhicules visés par le présent article doivent s’adresser à l’Association canadienne des constructeurs de véhicules pour obtenir les caractères visés aux alinéas (3)a) et a.1) qui désignent de manière exclusive le fabricant et la catégorie du véhicule.
 
 - **(12)** Malgré les paragraphes (1) à (11), les véhicules de l’année de modèle 2009 et des années de modèle antérieures doivent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 
@@ -4678,11 +4683,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES 
 #### TABLEAU I
 <table>
 <tr>
-<th>Article</th>
+<th></th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
+<th>Article</th>
 <th>Catégorie de véhicule</th>
 <th>Renseignements déchiffrables</th>
 </tr>
@@ -5126,7 +5132,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Toute motocyclette doit être conforme :
 	- **a)** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
-	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 des Nations Unies).
+	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L 1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 des Nations Unies).
 
 - **(2)** Toute motocyclette conçue pour fonctionner avec ou sans un side-car doit, dans chacune de ces configurations, être conforme aux exigences du paragraphe (1).
 
@@ -5256,11 +5262,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de contrôle électronique de la stabilité (Norme 126)
+### Systèmes de contrôle électronique de la stabilité pour les véhicules légers (Norme 126)
 
 **126** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques n° 126 — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques no 126 — Systèmes de contrôle électronique de la stabilité pour véhicules légers (DNT 126), avec ses modifications successives.
 
 - **(2)** Au lieu d’être conformes au paragraphe (1), les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins peuvent être conformes aux exigences de l’annexe 9 du règlement n<sup>o</sup> 13-H des Nations Unies intitulé Prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le freinage, tel qu’il est modifié par tout amendement antérieur à la série 01 d’amendements avec les adaptations suivantes :
 	- **a)** le paragraphe 3.3.1 de cette annexe doit être lu de manière à permettre le calcul du déplacement latéral uniquement au moyen de la formule par double intégration;
@@ -5268,7 +5274,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 	- **c)** le paragraphe 4.1.1 de cette annexe doit être lu comme exigeant que la température ambiante soit comprise entre 7 et 40 °C;
 	- **d)** le paragraphe 4.2.2.2 de cette annexe ne s’applique pas;
 	- **e)** les pneumatiques mentionnés au paragraphe 4.3.3 de cette annexe sont ceux installés sur le véhicule avant sa vente au premier usager.
-> DORS/2013-55, art. 1; DORS/2014-307, art. 11; DORS/2017-57, art. 4..
+> DORS/2013-55, art. 1; DORS/2014-307, art. 11; DORS/2017-57, art. 4; DORS/2017-104, art. 6..
 
 
 
@@ -5319,11 +5325,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Dans le présent article,
 
-***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po); (*measuring device*)
+***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po); (*measuring device*) 
 
-***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*)
+***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*) 
 
-***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique :
+***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique : 
 - **a)** à chaque place assise désignée, placer le pivot de l’appareil de mesure,
 	- **(i)** pour les sièges réglables,
 		- **(A)** au point de référence de position assise, et
@@ -5636,7 +5642,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(12)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture-baudrier doit s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin.
 
-#### Document de normes techniques n<sup>o</sup> 208
+#### Document de normes techniques n<sup>o</sup> 208
 
 
 - **(13)** Les voitures de tourisme, les véhicules à trois roues, les camions, les véhicules de tourisme à usages multiples et les autobus, ainsi que leur manuels de l’usager, doivent être conformes aux exigences du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
@@ -6455,9 +6461,9 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*)
+***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
 
-***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*)
+***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
 
 - **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
 
@@ -6584,7 +6590,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(3)** Les mentions prévues aux sous-alinéas b)(i) et (ii) et à l’alinéa c) doivent être reproduites dans le manuel de l’usager.
 
-#### Document de normes techniques n<sup>o</sup> 214
+#### Document de normes techniques n<sup>o</sup> 214
 
 
 - **(4)** Pour l’application du présent article :
@@ -6923,19 +6929,19 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(1)** Dans le présent article,
 
-***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*)
+***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*) 
 
-***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*)
+***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*) 
 
-***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas; (*W*)
+***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas; (*W*) 
 
-***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants :
+***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants : 
 - **a)** les plans horizontaux situés à 300 mm (12 po) et à 1 016 mm (40 po) au-dessus du point de référence de position assise,
 - **b)** un plan longitudinal vertical tangent au rebord intérieur (côté de l’allée) du siège,
 - **c)** un plan longitudinal vertical situé à 83 mm (3,25 po) à l’intérieur du rebord extérieur du siège, et
 - **d)** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
 
-***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*)
+***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*) 
 
 - **(2)** Les autobus scolaires, lorsqu’ils sont soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Siège pour passager d’autobus scolaire et protection en cas de collision » (19 décembre 1983) doivent, pour les places assises désignées autres que le siège du conducteur, satisfaire aux exigences des paragraphes (6) à (12).
 
@@ -7029,7 +7035,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 ***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*)
 
-***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
+***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière : 
 - **a)** les feux arrière;
 - **b)** les pare-chocs en caoutchouc;
 - **c)** les charnières et les loquets;
@@ -7563,11 +7569,11 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*)
+***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*) 
 
-***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*)
+***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*) 
 
-***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*)
+***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*) 
 
 - **(2)** Le présent article s’applique aux remorques, conçues pour transporter des chargements, qui ont un PNBV égal ou supérieur à 10 000 kg, sont constituées d’un châssis porteur et d’une plate-forme de chargement et n’ont ni toit ni côtés permanents, telles que les remorques plateaux, les remorques lourdes, les remorques de manutention, les remorques porte-engins surbaissées et les remorques avec plancher surbaissé.
 
