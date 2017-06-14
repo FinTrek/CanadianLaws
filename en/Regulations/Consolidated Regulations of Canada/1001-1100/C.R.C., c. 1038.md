@@ -512,6 +512,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***pelvic restraint*** means a seat belt assembly or portion thereof intended to restrain movement of the pelvis; (*ceinture sous-abdominale*)
 
+***perimeter-seating bus*** means a bus with seven or fewer designated seating positions rearward of the driver’s designated seating position that are forward-facing or that can be adjusted to change the direction they are facing to forward-facing without the use of tools; (*autobus muni de sièges de périmètre*)
+
 ***permanently attached hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
 ***plant of manufacture*** means the plant at which the manufacturer affixes the vehicle identification number; (*usine de construction*)
@@ -677,6 +679,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***trailer converter dolly*** means a conversion chassis that is equipped with one or more axles, a lower half of a fifth-wheel coupling and one or two drawbars, but does not include a vehicle imported temporarily for special purposes; (*chariot de conversion*)
 
+***transit bus*** means a bus that is specially designed with space for standing passengers and that is equipped with a stop-request system; (*autobus urbain*)
+
 ***transparent cover***[Repealed, SOR/96-366, s. 1]
 
 ***truck*** means a vehicle designed primarily for the transportation of property or special-purpose equipment, but does not include a competition vehicle, a crawler-mounted vehicle, a three-wheeled vehicle, a trailer, a work vehicle, a vehicle imported temporarily for special purposes, a vehicle designed for operation exclusively off-road or a low-speed vehicle; (*camion*)
@@ -762,7 +766,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** In these Regulations, if a document that is available in both official languages is incorporated by reference as amended from time to time, an amendment to one language version of that document is not incorporated until the corresponding amendment is made to the other language version.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1; SOR/2017-104, s. 1.
 
 
 
@@ -2014,7 +2018,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>126</td>
-<td>Electronic Stability Control Systems</td>
+<td>Electronic Stability Control Systems for Light Vehicles</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2820,7 +2824,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8; SOR/2017-104, s. 2.
 
 
 
@@ -3135,7 +3139,7 @@ or
 <td>Red or red-orange</td>
 </tr>
 <tr>
-<td>Electronic stability control system malfunction</td>
+<td>Electronic stability control system malfunction for vehicles subject to CMVSS 126</td>
 <td>
 > Image: Symbol showing, in silhouette, the back view of a car above two thick, squiggly, vertical lines.
 </td>
@@ -3145,7 +3149,7 @@ or
 <td>Yellow</td>
 </tr>
 <tr>
-<td>Electronic stability control system off</td>
+<td>Electronic stability control system off for vehicles subject to CMVSS 126</td>
 <td>
 > Image: Symbol showing, in silhouette, the back view of a car above two thick, squiggly, vertical lines below which appears the word OFF.
 </td>
@@ -3470,7 +3474,7 @@ or
 </tr>
 </table>
 
-> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3; SOR/2017-104, ss. 3, 4..
 
 
 
@@ -3867,7 +3871,7 @@ or
 
 
 
-### Lighting System and Retroreflective Devices (Standard 108)
+### Lighting System and Retroreflective Devices (Standard 108)
 
 
 #### General
@@ -3924,7 +3928,7 @@ or
 
 - **(15)** [Reserved]
 
-#### Special Wiring Requirements — S5.5 of TSD 108
+#### Special Wiring Requirements — S5.5 of TSD 108
 
 
 - **(16)** S5.5.1 and S5.5.2 of TSD 108 do not apply to a motorcycle that is fitted with a single beam headlamp.
@@ -3952,12 +3956,13 @@ or
 #### TABLE
 <table>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Grade</th>
 <th>Entrance Angle (in degrees)</th>
 <th>Minimum Coefficient of Retroreflection (cd/lx/m<sup>2</sup>)</th>
@@ -4232,7 +4237,7 @@ or
 
 - **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
 
-#### Technical Standards Document No. 110
+#### Technical Standards Document No. 110
 
 
 - **(2)** Except as provided in subsections (3) and (4), the information specified in S4.3 and S4.3.5 of TSD 110 shall appear, at the option of the manufacturer, either
@@ -4674,11 +4679,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 #### TABLE I
 <table>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column I</th>
 <th>Column II</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Class of Vehicle</th>
 <th>Decipherable Information</th>
 </tr>
@@ -5252,11 +5258,11 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 
-### Electronic Stability Control Systems (Standard 126)
+### Electronic Stability Control Systems for Light Vehicles (Standard 126)
 
 **126** 
 
-- **(1)** Every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems (TSD 126), as amended from time to time.
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less must conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems for Light Vehicles (TSD 126), as amended from time to time.
 
 - **(2)** Instead of conforming to the requirements of subsection (1), every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, may comply with the requirements set out in Annex 9 of United Nations Regulation No. 13H, Uniform provisions concerning the approval of passenger cars with regard to braking, as amended by any amendment prior to the 01 series of amendments, with the following adaptations:
 	- **(a)** paragraph 3.3.1 of that Annex is to be read as allowing the lateral displacement to only be calculated using the double integration formula;
@@ -5264,7 +5270,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 	- **(c)** paragraph 4.1.1 of that Annex is to be read as requiring the ambient temperature to be between 7°C and 40°C;
 	- **(d)** paragraph 4.2.2.2 of that Annex does not apply; and
 	- **(e)** the tires referred to in paragraph 4.3.3 of that Annex shall be the tires installed on the vehicle before it is sold to the first retail purchaser.
-> SOR/2013-55, s. 1; SOR/2014-307, s. 11; SOR/2017-57, s. 4..
+> SOR/2013-55, s. 1; SOR/2014-307, s. 11; SOR/2017-57, s. 4; SOR/2017-104, s. 6..
 
 
 
@@ -5632,7 +5638,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(12)** When the vehicle seat is placed in any position, and the seat back is placed in the manufacturer’s nominal design riding position and any adjustable seat belt anchorage is placed in the manufacturer’s nominal design position for a 50th percentile adult male occupant, every upper torso restraint shall be adjustable to fit any occupant whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male.
 
-#### Technical Standards Document No. 208
+#### Technical Standards Document No. 208
 
 
 - **(13)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle, and their owner’s manuals, shall conform to the requirements of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
@@ -6581,7 +6587,7 @@ Note: Drawing not to scale
 
 - **(3)** The statements set out in subparagraphs (b)(i) and (ii) and in paragraph (c) shall be included in the owner’s manual.
 
-#### Technical Standards Document No. 214
+#### Technical Standards Document No. 214
 
 
 - **(4)** For the purposes of this section,
