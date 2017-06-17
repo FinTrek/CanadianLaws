@@ -126,7 +126,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application**
 
-**5** La présente partie s’applique aux personnes et entités suivantes :
+**5** La présente partie s’applique aux personnes et entités suivantes :
 - **a)** les banques régies par la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et les banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), dans le cadre des activités que ces dernières exercent au Canada;
 - **b)** les coopératives de crédit, caisses d’épargne et de crédit et caisses populaires régies par une loi provinciale et les associations régies par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **c)** les sociétés d’assurance-vie et sociétés d’assurance-vie étrangères régies par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ainsi que les sociétés d’assurance-vie régies par une loi provinciale;
@@ -137,7 +137,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **h)** les personnes et les entités qui se livrent aux opérations de change, ou qui exploitent une entreprise qui remet des fonds ou transmet des fonds par tout moyen ou par l’intermédiaire d’une personne, d’une entité ou d’un réseau de télévirement ou qui émet ou rachète des mandats-poste, des chèques de voyage ou d’autres titres négociables semblables, à l’exclusion des chèques libellés au nom d’une personne ou d’une entité;
 - **i)** les personnes et les entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession ou d’activités visées par un règlement pris en vertu de l’alinéa 73(1)a);
 - **j)** les personnes et les entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession visées par un règlement pris en vertu de l’alinéa 73(1)b) lorsqu’elles exercent les activités mentionnées aux règlements;
-- **k)** les casinos, au sens des règlements, y compris ceux qui sont contrôlés par Sa Majesté ou dont elle est propriétaire;
+- **k)** le gouvernement d’une province qui, dans le cadre de l’alinéa 207(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+	- **(i)** met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes,
+	- **(ii)** met sur pied et exploite des jeux au moyen d’un appareil à sous, au sens du paragraphe 198(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ou autre dispositif de jeu électronique semblable dans tout autre établissement permanent où se trouvent plus de cinquante de ces appareils à sous ou autres dispositifs semblables;
+- **k.1)** le gouvernement d’une province qui, dans le cadre de l’alinéa 207(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie, à l’exclusion d’un bingo ou de la vente de billets de loterie, accessible au public par Internet ou autre réseau numérique, à l’exception d’un réseau numérique interne d’un établissement visé au sous-alinéa k)(ii);
+- **k.2)** l’organisme qui, dans le cadre de l’alinéa 207(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes, sauf dans le cas où l’organisme en question est un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et que la loterie est mise sur pied et exploitée pendant deux jours consécutifs ou moins à la fois;
+- **k.3)** le conseil d’une foire ou d’une exposition, ou l’exploitant d’une concession louée auprès du conseil, qui, dans le cadre de l’alinéa 207(1)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes;
 - **l)** les ministères et mandataires de Sa Majesté du chef du Canada ou d’une province qui se livrent à l’acceptation de dépôts, qui vendent des mandats-poste au public ou qui vendent des métaux précieux réglementaires, lorsqu’ils exercent les activités mentionnées aux règlements pris en vertu de l’alinéa 73(1)c);
 - **m)** les employés des personnes et entités visées à l’un des alinéas a) à l), pour l’application de l’article 7.
 > 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256.
@@ -244,31 +249,69 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Mesures**
+**Personnes politiquement exposées**
 
 **9.3** 
 
-- **(1)** Il incombe à toute personne ou entité mentionnée à l’article 5 et visée par règlement d’établir, dans les cas prévus par les règlements et en conformité avec ceux-ci, si elle fait affaire avec un étranger politiquement vulnérable.
+- **(1)** Il incombe à toute personne ou entité mentionnée à l’article 5 et visée par règlement d’établir, dans les cas prévus par les règlements et en conformité avec ceux-ci, si elle fait affaire avec l’une des personnes suivantes :
+	- **a)** un étranger politiquement vulnérable, tout membre de la famille de celui-ci visé par règlement ou une personne dont la personne ou l’entité sait ou devrait normalement savoir qu’elle est étroitement associée à cet étranger pour des raisons personnelles ou d’affaires;
+	- **b)** un national politiquement vulnérable, tout membre de la famille de celle-ci visé par règlement ou une personne dont la personne ou l’entité sait ou devrait normalement savoir qu’elle est étroitement associée à ce national politiquement vulnérable pour des raisons personnelles ou d’affaires;
+	- **c)** le dirigeant d’une organisation internationale, tout membre de la famille de celui-ci visé par règlement ou une personne dont la personne ou l’entité sait ou devrait normalement savoir qu’elle est étroitement associée à ce dirigeant pour des raisons personnelles ou d’affaires.
 
-**Mesures**
+**Mesures — étranger politiquement vulnérable**
 
-- **(2)** Si elle fait affaire avec un étranger politiquement vulnérable, elle obtient l’agrément de la haute direction dans les cas prévus par règlement et prend les mesures réglementaires.
+- **(2)** Si elle fait affaire avec une personne visée à l’alinéa (1)a), elle obtient l’agrément de la haute direction dans les cas prévus par règlement et prend les mesures réglementaires.
 
-**Définition de étranger politiquement vulnérable**
+**Mesures — autres personnes**
 
-- **(3)** Pour l’application du présent article, ***étranger politiquement vulnérable*** s’entend de la personne qui occupe ou a occupé l’une des charges ci-après au sein d’un État étranger ou pour son compte :
-	- **a)** chef d’État ou chef de gouvernement;
-	- **b)** membre du conseil exécutif de gouvernement ou membre d’une assemblée législative;
-	- **c)** sous-ministre ou titulaire d’une charge de rang équivalent;
-	- **d)** ambassadeur, ou attaché ou conseiller d’un ambassadeur;
-	- **e)** officier ayant le rang de général ou un rang supérieur;
-	- **f)** dirigeant d’une société d’État ou d’une banque d’État;
-	- **g)** chef d’un organisme gouvernemental;
-	- **h)** juge;
-	- **i)** leader ou président d’un parti politique représenté au sein d’une assemblée législative;
-	- **j)** titulaire d’un poste ou d’une charge visés par règlement.
-Est assimilé à la personne tout membre de sa famille visé par règlement.
-> 2006, ch. 12, art. 8.
+- **(2.1)** Si elle fait affaire avec une personne visée à l’un des alinéas (1)b) ou c) et qu’elle considère, en se fondant sur l’évaluation visée au paragraphe 9.6(2), que cette personne présente un risque élevé de commettre une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes, la personne ou l’entité obtient l’agrément de la haute direction dans les cas prévus par règlement et prend les mesures réglementaires.
+
+**Définitions**
+
+- **(3)** Les définitions qui suivent s’appliquent au présent article.
+
+***dirigeant d’une organisation internationale*** Dirigeant d’une organisation internationale créée par les gouvernements de divers États ou dirigeant d’une institution de cette organisation. (*head of an international organization*)
+
+***étranger politiquement vulnérable*** Personne qui occupe ou a occupé l’une des charges ci-après au sein d’un État étranger ou pour son compte :
+- **a)** chef d’État ou chef de gouvernement;
+- **b)** membre du conseil exécutif de gouvernement ou membre d’une assemblée législative;
+- **c)** sous-ministre ou titulaire d’une charge de rang équivalent;
+- **d)** ambassadeur, ou attaché ou conseiller d’un ambassadeur;
+- **e)** officier ayant le rang de général ou un rang supérieur;
+- **f)** dirigeant d’une société d’État ou d’une banque d’État;
+- **g)** chef d’un organisme gouvernemental;
+- **h)** juge de la cour suprême, de la cour constitutionnelle ou d’une autre cour de dernier ressort;
+- **i)** chef ou président d’un parti politique représenté au sein d’une assemblée législative;
+- **j)** titulaire d’un poste ou d’une charge visés par règlement. (*politically exposed foreign person*)
+
+***national politiquement vulnérable*** Personne qui, à un moment donné, occupe — ou a occupé au cours d’une période qui est antérieure prévue par règlement — l’une des charges prévues aux alinéas a) à j) au sein de l’administration fédérale ou provinciale ou pour le compte d’elles ou la charge prévue à l’alinéa k) :
+- **a)** gouverneur général, lieutenant gouverneur ou chef de gouvernement;
+- **b)** membre du Sénat ou de la Chambre des communes ou membre d’une assemblée législative;
+- **c)** sous-ministre ou titulaire d’une charge de rang équivalent;
+- **d)** ambassadeur, ou attaché ou conseiller d’un ambassadeur;
+- **e)** officier ayant le rang de général ou un rang supérieur;
+- **f)** dirigeant d’une société appartenant directement à cent pour cent à Sa Majesté du chef du Canada ou d’une province;
+- **g)** chef d’un organisme gouvernemental;
+- **h)** juge d’une cour d’appel provinciale, de la Cour d’appel fédérale ou de la Cour suprême du Canada;
+- **i)** chef ou président d’un parti politique représenté au sein de l’assemblée législative;
+- **j)** titulaire d’un poste ou d’une charge visés par règlement;
+- **k)** maire. (*politically exposed domestic person*)
+> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258.
+
+
+
+
+
+**Interdiction : absence d’inscription**
+
+**9.31** 
+
+- **(1)** Il est interdit à toute entité visée aux alinéas 5a), b), d) et e) et à toute autre entité mentionnée à l’article 5 et visée par règlement d’ouvrir ou de maintenir un compte pour une personne ou entité visée à l’alinéa 5h.1) ou d’avoir une relation de correspondant bancaire avec cette personne ou entité, à moins que cette personne ou entité ne soit inscrite auprès du Centre en application de l’article 11.1.
+
+**Définition de relation de correspondant bancaire**
+
+- **(2)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d) et e) ou une autre entité mentionnée à l’article 5 et visée par règlement s’engage à fournir à une personne ou entité visée à l’alinéa 5h.1) des services tels les télévirements internationaux, la gestion de trésorerie, la compensation de chèques et tout service prévu par règlement.
+> 2014, ch. 20, art. 258.
 
 
 
@@ -2679,15 +2722,17 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 	- **e.1)** préciser les renseignements qui doivent figurer dans la déclaration faite au titre des articles 7 ou 7.1 ou du paragraphe 9(1);
 	- **e.2)** préciser, pour les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités —, les modalités à respecter pour l’application des articles 7, 7.1, 9 et 9.1;
 	- **f)** préciser les mesures à prendre par les personnes ou entités afin de vérifier l’identité des personnes ou entités qui demandent l’ouverture d’un compte ou pour lesquelles un document doit être tenu ou une déclaration faite et prévoir les délais pour la prise de ces mesures;
-	- **g)** définir les termes ***casino***, ***effets*** et ***messager***;
+	- **g)** définir les termes effets et messager;
 	- **h)** prévoir les modalités de déclaration des espèces et effets pour l’application du paragraphe 12(1), y compris le délai pour faire la déclaration, et les renseignements à inclure dans le formulaire de déclaration;
 	- **i)** prévoir les cas visés par l’article 9.2;
-	- **j)** prévoir, pour l’application du paragraphe 9.3(1), la façon d’établir qu’une personne est un étranger politiquement vulnérable et les circonstances dans lesquelles il est nécessaire de le faire;
-	- **k)** prévoir, pour l’application du paragraphe 9.3(2), les cas où l’agrément de la haute direction est nécessaire et les mesures à prendre dans le cas où une personne ou entité fait affaire avec un étranger politiquement vulnérable;
-	- **l)** prévoir, pour l’application de l’alinéa 9.3(3)j), les postes ou charges dont les titulaires sont des étrangers politiquement vulnérables, préciser quels membres de leur famille sont assimilés à un ***étranger politiquement vulnérable*** au sens du paragraphe 9.3(3) et définir ***État étranger*** pour l’application de ce paragraphe;
+	- **j)** prévoir, pour l’application du paragraphe 9.3(1), la façon d’établir si une personne est visée aux alinéas 9.3(1)a) à c) et les circonstances dans lesquelles il est nécessaire de l’établir;
+	- **k)** prévoir, pour l’application des paragraphes 9.3(2) et (2.1), les cas où l’agrément de la haute direction est nécessaire et les mesures à prendre;
+	- **l)** prévoir les postes ou charges pour l’application de l’alinéa j) de la définition de étranger politiquement vulnérable au paragraphe 9.3(3) ou de l’alinéa j) de la définition de national politiquement vulnérable à ce paragraphe;
+	- **l.1)** préciser les membres de la famille visés au paragraphe 9.3(1);
+	- **l.2)** définir État étranger pour l’application de la définition de étranger politiquement vulnérable au paragraphe 9.3(3);
 	- **m)** prévoir quelles entités étrangères sont visées par le paragraphe 9.4(1), et pour l’application de ce paragraphe, préciser les renseignements à obtenir à leur égard et prévoir toute autre mesure nécessaire;
-	- **n)** définir l’expression ***banque fictive*** visée à l’article 9.4;
-	- **o)** prévoir les services visés par l’expression « relation de correspondant bancaire » au sens du paragraphe 9.4(3);
+	- **n)** définir l’expression banque fictive visée à l’article 9.4;
+	- **o)** prévoir les services visés par l’expression relation de correspondant bancaire au sens du paragraphe 9.4(3);
 	- **p)** prévoir les télévirements visés par l’article 9.5, les renseignements à inclure avec ceux-ci et les mesures à prendre pour l’application de cet article;
 	- **q)** prévoir le mode d’établissement et de mise en oeuvre du programme visé au paragraphe 9.6(1);
 	- **r)** prévoir les mesures spéciales à prendre en vertu du paragraphe 9.6(3);
@@ -2699,7 +2744,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 	- **x)** prévoir les modalités à remplir en vue de communiquer au Centre les précisions visées au paragraphe 11.14(1) et celles visées au paragraphe 11.17(1);
 	- **y)** prévoir, pour l’application de l’article 11.19, les modalités de renouvellement d’inscription et fixer le délai plus long applicable au renouvellement de l’inscription;
 	- **y.1) et y.2)** [Abrogés, 2014, ch. 20, art. 294]
-	- **z)** définir ***renseignements identificateurs*** pour l’application du paragraphe 54.1(3);
+	- **z)** définir renseignements identificateurs pour l’application du paragraphe 54.1(3);
 	- **z.1)** prendre toute autre mesure réglementaire prévue par la présente loi.
 
 - **(2) et (3)** [Abrogés, 2001, ch. 41, art. 73]
