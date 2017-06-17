@@ -139,7 +139,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 - **(h)** persons and entities engaged in the business of foreign exchange dealing, of remitting funds or transmitting funds by any means or through any person, entity or electronic funds transfer network, or of issuing or redeeming money orders, traveller’s cheques or other similar negotiable instruments except for cheques payable to a named person or entity;
 - **(i)** persons and entities engaged in a business, profession or activity described in regulations made under paragraph 73(1)(a);
 - **(j)** persons and entities engaged in a business or profession described in regulations made under paragraph 73(1)(b), while carrying out the activities described in the regulations;
-- **(k)** casinos, as defined in the regulations, including those owned or controlled by Her Majesty;
+- **(k)** the government of a province that, in accordance with paragraph 207(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+	- **(i)** in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games, or
+	- **(ii)** in any other permanent establishment, conducts and manages games that are operated on or through a slot machine, as defined in subsection 198(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or any other similar electronic gaming device, if there are more than 50 of those machines or other devices in the establishment;
+- **(k.1)** the government of a province that, in accordance with paragraph 207(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), conducts and manages a lottery scheme, other than bingo or the sale of lottery tickets, that is accessible to the public through the Internet or other digital network, except if the network is an internal network within an establishment described in subparagraph (k)(ii);
+- **(k.2)** an organization that, in accordance with paragraph 207(1)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games, unless the organization is a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and the lottery scheme is conducted or managed for a period of not more than two consecutive days at a time;
+- **(k.3)** the board of a fair or of an exhibition, or the operator of a concession leased by such a board, that, in accordance with paragraph 207(1)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games;
 - **(l)** departments and agents of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that sell money orders to the public or that sell prescribed precious metals, while carrying out the activities described in regulations made under paragraph 73(1)(c); and
 - **(m)** for the purposes of section 7, employees of a person or entity referred to in any of paragraphs (a) to (l).
 > 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256.
@@ -246,31 +251,69 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-**Politically exposed foreign persons**
+**Politically exposed persons**
 
 **9.3** 
 
-- **(1)** Every person or entity that is referred to in section 5 and that is prescribed shall determine, in the prescribed circumstances and in accordance with the regulations, whether it is dealing with a politically exposed foreign person.
+- **(1)** Every person or entity that is referred to in section 5 and that is prescribed shall determine, in the prescribed circumstances and in accordance with the regulations, whether it is dealing with
+	- **(a)** a politically exposed foreign person, a prescribed family member of a politically exposed foreign person, or a person who the person or entity knows or should reasonably know is closely associated, for personal or business reasons, with a politically exposed foreign person;
+	- **(b)** a politically exposed domestic person, a prescribed family member of a politically exposed domestic person, or a person who the person or entity knows or should reasonably know is closely associated, for personal or business reasons, with a politically exposed domestic person; or
+	- **(c)** the head of an international organization, a prescribed family member of the head of an international organization, or a person who the person or entity knows or should reasonably know is closely associated, for personal or business reasons, with the head of an international organization.
 
-**Measures**
+**Measures — politically exposed foreign persons**
 
-- **(2)** If the person or entity determines that it is dealing with a politically exposed foreign person, the person or entity shall obtain the approval of senior management in the prescribed circumstances and take prescribed measures.
+- **(2)** If the person or entity determines that it is dealing with a person described in paragraph (1)(a), the person or entity shall obtain the approval of senior management in the prescribed circumstances and take the prescribed measures.
 
-**Definition of politically exposed foreign person**
+**Measures — other persons**
 
-- **(3)** For the purposes of this section, ***politically exposed foreign person*** means a person who holds or has held one of the following offices or positions in or on behalf of a foreign state:
-	- **(a)** head of state or head of government;
-	- **(b)** member of the executive council of government or member of a legislature;
-	- **(c)** deputy minister or equivalent rank;
-	- **(d)** ambassador or attaché or counsellor of an ambassador;
-	- **(e)** military officer with a rank of general or above;
-	- **(f)** president of a state-owned company or a state-owned bank;
-	- **(g)** head of a government agency;
-	- **(h)** judge;
-	- **(i)** leader or president of a political party represented in a legislature; or
-	- **(j)** holder of any prescribed office or position.
-It includes any prescribed family member of such a person.
-> 2006, c. 12, s. 8.
+- **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that the person poses a high risk of committing a money laundering offence or a terrorist activity financing offence, the person or entity shall obtain the approval of senior management in the prescribed circumstances and take the prescribed measures.
+
+**Definitions**
+
+- **(3)** The following definitions apply in this section.
+
+***head of an international organization*** means the head of an international organization that is established by the governments of states or the head of an institution of any such organization. (*dirigeant d’une organisation internationale*)
+
+***politically exposed domestic person*** means a person who, at a given time, holds — or has held within a prescribed period before that time — one of the offices or positions referred to in any of paragraphs (a) to (j) in or on behalf of the federal government or a provincial government or the office or position referred to in paragraph (k) in a municipal government:
+- **(a)** Governor General, lieutenant governor or head of government;
+- **(b)** member of the Senate or House of Commons or member of a legislature;
+- **(c)** deputy minister or equivalent rank;
+- **(d)** ambassador, or attaché or counsellor of an ambassador;
+- **(e)** military officer with a rank of general or above;
+- **(f)** president of a corporation that is wholly owned directly by Her Majesty in right of Canada or a province;
+- **(g)** head of a government agency;
+- **(h)** judge of an appellate court in a province, the Federal Court of Appeal or the Supreme Court of Canada;
+- **(i)** leader or president of a political party represented in a legislature;
+- **(j)** holder of any prescribed office or position; or
+- **(k)** mayor. (*national politiquement vulnérable*)
+
+***politically exposed foreign person*** means a person who holds or has held one of the following offices or positions in or on behalf of a foreign state:
+- **(a)** head of state or head of government;
+- **(b)** member of the executive council of government or member of a legislature;
+- **(c)** deputy minister or equivalent rank;
+- **(d)** ambassador, or attaché or counsellor of an ambassador;
+- **(e)** military officer with a rank of general or above;
+- **(f)** president of a state-owned company or a state-owned bank;
+- **(g)** head of a government agency;
+- **(h)** judge of a supreme court, constitutional court or other court of last resort;
+- **(i)** leader or president of a political party represented in a legislature; or
+- **(j)** holder of any prescribed office or position. (*étranger politiquement vulnérable*)
+> 2006, c. 12, s. 8; 2014, c. 20, s. 258.
+
+
+
+
+
+**Prohibition if unregistered**
+
+**9.31** 
+
+- **(1)** No entity referred to in paragraph 5(a), (b), (d) or (e) and no other entity that is referred to in section 5 and that is prescribed shall open or maintain an account for, or have a correspondent banking relationship with, a person or entity referred to in paragraph 5(h.1) unless that person or entity is registered with the Centre under section 11.1.
+
+**Definition of correspondent banking relationship**
+
+- **(2)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in paragraph 5(a), (b), (d) or (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a person or entity referred to in paragraph 5(h.1) services such as international electronic funds transfers, cash management, cheque clearing and any prescribed services.
+> 2014, c. 20, s. 258.
 
 
 
@@ -2683,15 +2726,17 @@ The order must be complied with within the period following the service of the o
 	- **(e.1)** specifying the information to be contained in a report under section 7 or 7.1 or subsection 9(1);
 	- **(e.2)** prescribing the form and manner in which persons or entities or classes of persons or entities shall report under section 7, 7.1, 9 or 9.1;
 	- **(f)** specifying measures, and the periods within which those measures must be taken, that persons or entities are to take to identify any person or entity that requests the opening of an account or any person or entity in respect of which a record is required to be kept or a report made;
-	- **(g)** defining ***casinos***, ***courier*** and ***monetary instruments***;
+	- **(g)** defining courier and monetary instruments;
 	- **(h)** specifying the form and manner of reporting currency and monetary instruments for the purpose of subsection 12(1), and the information to be contained in the form, and specifying the period within which the reporting must be made;
 	- **(i)** prescribing the circumstances referred to in section 9.2;
-	- **(j)** prescribing, for the purposes of subsection 9.3(1), the manner for determining whether a person is a politically exposed foreign person and the circumstances in which it is necessary to make that determination;
-	- **(k)** prescribing, for the purposes of subsection 9.3(2), the circumstances in which it is necessary to obtain the approval of senior management and the measures to be taken when dealing with a politically exposed foreign person;
-	- **(l)** prescribing the offices and positions whose holders are politically exposed foreign persons for the purposes of paragraph 9.3(3)(j), prescribing the family members that are included in the definition ***politically exposed foreign person*** in subsection 9.3(3) and defining ***foreign state*** for the purposes of that subsection;
+	- **(j)** prescribing, for the purposes of subsection 9.3(1), the manner for determining whether a person is a person described in any of paragraphs 9.3(1)(a) to (c) and the circumstances in which it is necessary to make that determination;
+	- **(k)** prescribing, for the purposes of subsections 9.3(2) and (2.1), the circumstances in which it is necessary to obtain the approval of senior management and the measures to be taken;
+	- **(l)** prescribing offices and positions for the purposes of paragraph (j) of the definition politically exposed domestic person in subsection 9.3(3) or paragraph (j) of the definition politically exposed foreign person in that subsection;
+	- **(l.1)** prescribing family members for the purposes of subsection 9.3(1);
+	- **(l.2)** defining foreign state for the purposes of the definition politically exposed foreign person in subsection 9.3(3);
 	- **(m)** prescribing the foreign entities to which subsection 9.4(1) applies and, for the purposes of that subsection, prescribing the information to be obtained about those entities and prescribing the measures to be taken;
-	- **(n)** defining the expression ***shell bank*** referred to in section 9.4;
-	- **(o)** prescribing the services referred to in the definition ***correspondent banking relationship*** in subsection 9.4(3);
+	- **(n)** defining the expression shell bank referred to in section 9.4;
+	- **(o)** prescribing the services referred to in the definition correspondent banking relationship in subsection 9.4(3);
 	- **(p)** prescribing the electronic funds transfers to which section 9.5 applies, the information to be included with those transfers and the measures to be taken under that section;
 	- **(q)** specifying the manner for establishing and implementing the program referred to in subsection 9.6(1);
 	- **(r)** prescribing the special measures to be taken under subsection 9.6(3);
@@ -2703,7 +2748,7 @@ The order must be complied with within the period following the service of the o
 	- **(x)** prescribing the form and manner of providing the Centre with any clarifications under subsection 11.14(1) and any clarifications under subsection 11.17(1);
 	- **(y)** prescribing, for the purposes of section 11.19, the form and manner for renewing registration and any longer renewal period;
 	- **(y.1) and (y.2)** [Repealed, 2014, c. 20, s. 294]
-	- **(z)** defining ***identifying information*** for the purposes of subsection 54.1(3); and
+	- **(z)** defining identifying information for the purposes of subsection 54.1(3); and
 	- **(z.1)** prescribing anything else that by this Act is to be prescribed.
 
 - **(2) and (3)** [Repealed, 2001, c. 41, s. 73]
