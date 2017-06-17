@@ -1814,7 +1814,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 - <sup><a href='#fn_Ind3EB0_hq_14292'>[*]</a></sup>**(3)** Subsections 256(2) and (3), sections 257, 258 and 261, subsection 262(3) and sections 263 to 266 and 293, subsections 294(1) to (5) and section 296 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind3EB0_hq_14292'><sup>*</sup></a>: [Note: Subsections 256(2) and (3), sections 257, 258 and 261, subsection 262(3), sections 263 to 266 and 293, subsections 294(1) to (5) and section 296 not in force.]<br />
+<a name='fn_Ind3EB0_hq_14292'><sup>*</sup></a>: [Note: Subsection 256(3), section 258 and subsections 294(2) and (4) in force June 17, 2017, *see* SI/2016-35.]<br />
 
 
 
