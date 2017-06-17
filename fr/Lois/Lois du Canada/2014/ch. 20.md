@@ -1804,7 +1804,7 @@ où :
 
 - <sup><a href='#fn_Ind8733_hq_14296'>[*]</a></sup>**(1)** L’article 260 entre en vigueur un an après la date de la sanction de la présente loi.
 
-<a name='fn_Ind8733_hq_14296'><sup>*</sup></a>: [Note : Article 260 en vigueur le 19 juin 2015.]<br />
+<a name='fn_Ind8733_hq_14296'><sup>*</sup></a>: [Note : Article 260 en vigueur le 19 juin 2015.]<br />
 
 **1<sup>er</sup> janvier 2015**
 
@@ -1814,7 +1814,7 @@ où :
 
 - <sup><a href='#fn_IndB8F4_hq_14276'>[*]</a></sup>**(3)** Les paragraphes 256(2) et (3), les articles 257, 258, 261, le paragraphe 262(3), les articles 263 à 266 et 293, les paragraphes 294(1) à (5) et l’article 296 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndB8F4_hq_14276'><sup>*</sup></a>: [Note : Paragraphes 256(2) et (3), articles 257, 258, 261, paragraphe 262(3), articles 263 à 266 et 293, paragraphes 294(1) à (5) et article 296 non en vigueur.]<br />
+<a name='fn_IndB8F4_hq_14276'><sup>*</sup></a>: [Note : Paragraphe 256(3), article 258 et paragraphes 294(2) et (4) en vigueur le 17 Juin 2017, *voir* TR/2016-35.]<br />
 
 
 
