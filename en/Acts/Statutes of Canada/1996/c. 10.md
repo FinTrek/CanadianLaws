@@ -6937,12 +6937,12 @@ Wheat germ
 <tr>
 <td>2</td>
 <td>Operation of a railway that includes the carriage, per calendar year, of less than 4 000 tonnes of TIH (Toxic Inhalation Hazard) materials, of less than 100 000 tonnes of crude oil or of at least 40 000 tonnes of other dangerous goods as defined in section 2 of the [Transportation of Dangerous Goods Act, 1992](/en/Acts/Statutes%20of%20Canada/1992/c.%2034.md)</td>
-<td>$50 million per occurrence</td>
+<td>$100 million per occurrence</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Operation of a railway that includes the carriage, per calendar year, of at least 4 000 tonnes but less than 50 000 tonnes of TIH (Toxic Inhalation Hazard) materials or of at least 100 000 tonnes but less than 1.5 million tonnes of crude oil</td>
-<td>$125 million per occurrence</td>
+<td>$250 million per occurrence</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6951,6 +6951,6 @@ Wheat germ
 </tr>
 </table>
 
-> 1996, c. 10, Sch. IV; 2000, c. 16, s. 19; 2015, c. 31, s. 14.
+> 1996, c. 10, Sch. IV; 2000, c. 16, s. 19; 2015, c. 31, ss. 14 to 16.
 
 
