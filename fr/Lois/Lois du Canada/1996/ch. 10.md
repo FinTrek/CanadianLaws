@@ -6840,12 +6840,12 @@ Triticale
 <tr>
 <td>2</td>
 <td>Exploitation de chemin de fer comprenant le transport, par année civile, de moins de 4 000 tonnes de matières toxiques par inhalation, de moins de 100 000 tonnes de pétrole brut ou d’au moins 40 000 tonnes d’autres marchandises dangereuses au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md)</td>
-<td>50 000 000 $ par évènement</td>
+<td>100 000 000 $ par évènement</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Exploitation de chemin de fer comprenant le transport, par année civile, d’au moins 4 000 tonnes mais de moins de 50 000 tonnes de matières toxiques par inhalation ou d’au moins 100 000 tonnes mais de moins de 1 500 000 tonnes de pétrole brut</td>
-<td>125 000 000 $ par évènement</td>
+<td>250 000 000 $ par évènement</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6854,6 +6854,6 @@ Triticale
 </tr>
 </table>
 
-> 1996, ch. 10, ann. IV; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14.
+> 1996, ch. 10, ann. IV; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14 à 16.
 
 
