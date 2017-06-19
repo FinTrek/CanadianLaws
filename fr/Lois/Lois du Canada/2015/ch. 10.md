@@ -68,19 +68,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de l’autorité*** Toute personne désignée, individuellement ou au titre de son appartenance à une catégorie, en vertu de l’article 24.
+***agent de l’autorité*** Toute personne désignée, individuellement ou au titre de son appartenance à une catégorie, en vertu de l’article 24. (*enforcement officer*)
 
-***directeur*** Personne nommée en vertu du paragraphe 13(1) de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md) qui occupe le poste de directeur du parc. Est assimilée au directeur toute personne nommée en vertu de cette loi qu’il autorise à agir en son nom.
+***directeur*** Personne nommée en vertu du paragraphe 13(1) de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md) qui occupe le poste de directeur du parc. Est assimilée au directeur toute personne nommée en vertu de cette loi qu’il autorise à agir en son nom. (*superintendent*)
 
-***garde de parc*** Toute personne désignée en vertu de l’article 23.
+***garde de parc*** Toute personne désignée en vertu de l’article 23. (*park warden*)
 
-***lieu historique national*** Emplacement, bâtiment ou autre endroit d’intérêt ou d’importance historique national qui a été signalé en vertu de l’article 3 de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md).
+***intégrité écologique*** L’état du parc jugé caractéristique de la région naturelle dont il fait partie et qui sera vraisemblablement maintenu, notamment les éléments abiotiques, la composition et l’abondance des espèces indigènes et des communautés biologiques ainsi que le rythme des changements et le maintien des processus écologiques. (*ecological integrity*)
 
-***ministre*** Le ministre responsable de l’Agence Parcs Canada.
+***lieu historique national*** Emplacement, bâtiment ou autre endroit d’intérêt ou d’importance historique national qui a été signalé en vertu de l’article 3 de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md). (*national historic site*)
 
-***parc*** Le parc urbain national de la Rouge créé par l’article 4.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada. (*Minister*)
 
-***terres domaniales*** Terres, y compris celles qui sont immergées, appartenant à Sa Majesté du chef du Canada ou dont le gouvernement du Canada peut disposer, que la disposition soit subordonnée ou non à un accord éventuel conclu avec le gouvernement de l’Ontario.
+***parc*** Le parc urbain national de la Rouge créé par l’article 4. (*Park*)
+
+***terres domaniales*** Terres, y compris celles qui sont immergées, appartenant à Sa Majesté du chef du Canada ou dont le gouvernement du Canada peut disposer, que la disposition soit subordonnée ou non à un accord éventuel conclu avec le gouvernement de l’Ontario. (*public lands*)
+> 2015, ch. 10, art. 2; 2017, ch. 10, art. 1.
+
 
 
 
@@ -120,7 +124,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Facteurs à considérer**
 
-**6** Dans le cadre de la gestion du parc, le ministre prend en considération la protection des paysages culturels et des écosystèmes naturels du parc, la préservation des espèces sauvages indigènes de celui-ci et le maintien de la santé de ces écosystèmes.
+**6** 
+
+- **(1)** La préservation ou le rétablissement de l’intégrité écologique par la protection des ressources naturelles et des processus écologiques sont la première priorité du ministre pour tous les aspects de la gestion du parc.
+
+**Précision**
+
+- **(2)** Il est entendu que le paragraphe (1) n’a pas pour effet d’empêcher l’exercice d’activités agricoles prévu par la présente loi.
+> 2015, ch. 10, art. 6; 2017, ch. 10, art. 2.
+
 
 
 
@@ -1032,5 +1044,43 @@ comprenant 163,30 hectares, plus ou moins.
 
 
 
+Quatrièmement :
+
+Les parcelles 1, 2, 3 et 4, plan 105195 CLSR, étant une partie des lots 26, 27, 28, 29 et une partie du 3/4 est du lot 30, concession 8, une partie des lots 26, 27, 28, 29 et 30, concession 9, et la totalité des lots 26, 27, 28, 29 et 30, concession 10,
+
+
+
+contenant 773, 68 hectares, soit 7,7368 kilomètres carrés, plus ou moins.
+
+
+
+
+
+Cinquièmement :
+
+Les parcelles 1 et 2, plan 105196 CLSR, étant une partie des lots 21, 22, 23, 24 et 25, concession 9, et la totalité des lots 21, 22 et 23, la totalité de la demie sud du lot 24, la totalité de la demie nord du lot 24, la totalité de la demie ouest du lot 25 et la totalité de la partie est du lot 25, concession 10,
+
+
+
+contenant 678 hectares, soit 6,78 kilomètres carrés, plus ou moins.
+
+
+
+
+
+Sixièmement :
+
+La parcelle 1, plan 105197 CLSR, étant une partie du lot 17 et la totalité des lots 18, 19 et 20, concession 10,
+
+
+
+contenant 217 hectares, soit 2,17 kilomètres carrés, plus ou moins.
+
+
+
+
+
+
+> 2015, ch. 10, ann.; 2017, ch. 10, art. 3.
 
 
