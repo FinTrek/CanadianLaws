@@ -49,28 +49,28 @@
 
 **3** Les définitions qui suivent s’appliquent à la présente partie.
 
-***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation, et dont l’accréditation n’a pas été révoquée.
+***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation, et dont l’accréditation n’a pas été révoquée. (*bargaining agent*)
 
-***arbitre*** Sous réserve du paragraphe 66(4), commissaire chargé d’entendre et de régler un grief renvoyé à l’arbitrage, ainsi que, selon le contexte, le conseil d’arbitrage constitué au titre de l’article 65 ou la personne ainsi dénommée dans une convention collective aux fins de celle-ci.
+***arbitre*** Sous réserve du paragraphe 66(4), commissaire chargé d’entendre et de régler un grief renvoyé à l’arbitrage, ainsi que, selon le contexte, le conseil d’arbitrage constitué au titre de l’article 65 ou la personne ainsi dénommée dans une convention collective aux fins de celle-ci. (*adjudicator*)
 
-***commissaire*** Membre, à temps plein ou partiel, de la Commission.
+***commissaire*** Membre, à temps plein ou partiel, de la Commission. (*member*)
 
-***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique. 
+***Commission*** La Commission des relations de travail et de l’emploi dans le secteur public fédéral visée par le paragraphe 4(1) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md). (*Board*)
 
-***conciliateur*** Personne nommée par le président en application de l’article 40.
+***conciliateur*** Personne nommée par le président en application de l’article 40. (*conciliator*)
 
-***convention collective*** Convention écrite, conclue en application de la présente partie entre l’employeur et l’agent négociateur et renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes.
+***convention collective*** Convention écrite, conclue en application de la présente partie entre l’employeur et l’agent négociateur et renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes. (*collective agreement*)
 
-***décision arbitrale*** Décision rendue sur un différend par la Commission ou par un arbitre nommé en application de l’article 49.
+***décision arbitrale*** Décision rendue sur un différend par la Commission ou par un arbitre nommé en application de l’article 49. (*arbitral award*)
 
-***différend*** Désaccord survenant à l’occasion de la conclusion, du renouvellement ou de la révision d’une convention collective et faisant l’objet d’une demande d’arbitrage dans les conditions prévues à l’article 50.
+***différend*** Désaccord survenant à l’occasion de la conclusion, du renouvellement ou de la révision d’une convention collective et faisant l’objet d’une demande d’arbitrage dans les conditions prévues à l’article 50. (*dispute*)
 
-***employé*** Personne attachée à l’employeur, même si elle a perdu cette qualité par suite d’un congédiement contraire à la présente partie ou à une autre loi fédérale, mais à l’exclusion des personnes :
+***employé*** Personne attachée à l’employeur, même si elle a perdu cette qualité par suite d’un congédiement contraire à la présente partie ou à une autre loi fédérale, mais à l’exclusion des personnes :
 - **a)** nommées par le gouverneur en conseil;
 - **b)** qui ne sont pas habituellement astreintes à travailler plus de sept cents heures par année civile ou, si cette période est supérieure, plus du tiers du temps normalement exigé de personnes exécutant des tâches semblables;
 - **c)** employées à titre occasionnel ou temporaire et ayant travaillé à ce titre pendant moins de six mois;
 - **d)** occupant un poste de direction ou de confiance;
-- **e)** échappant, aux termes de l’article 4, à l’application de la présente partie.
+- **e)** échappant, aux termes de l’article 4, à l’application de la présente partie. (*employee*)
 
 ***employeur***
 - **a)** Le Sénat, représenté par la personne ou le comité qu’il désigne pour l’application de la présente partie par une règle ou un ordre;
@@ -78,21 +78,21 @@
 - **c)** la Bibliothèque du Parlement, représentée par le bibliothécaire parlementaire agissant, sous réserve du paragraphe 74(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), au nom des deux chambres;
 - **d)** le bureau du conseiller sénatorial en éthique, représenté par le conseiller sénatorial en éthique;
 - **e)** le bureau du commissaire aux conflits d’intérêts et à l’éthique, représenté par le commissaire aux conflits d’intérêts et à l’éthique;
-- **f)** le Service de protection parlementaire, représenté par le directeur du Service de protection parlementaire agissant au nom des présidents des deux chambres.
+- **f)** le Service de protection parlementaire, représenté par le directeur du Service de protection parlementaire agissant au nom des présidents des deux chambres. (*employer*)
 
-***grève*** S’entend notamment d’un arrêt de travail ou du refus de travailler, par des employés agissant conjointement, de concert ou de connivence; lui sont assimilés le ralentissement du travail ou toute autre activité concertée, de la part des employés, ayant pour objet la diminution ou la limitation du rendement.
+***grève*** S’entend notamment d’un arrêt de travail ou du refus de travailler, par des employés agissant conjointement, de concert ou de connivence; lui sont assimilés le ralentissement du travail ou toute autre activité concertée, de la part des employés, ayant pour objet la diminution ou la limitation du rendement. (*strike*)
 
-***grief*** Plainte écrite déposée conformément à la présente partie par un employé, soit pour son propre compte, soit pour son compte et celui de un ou plusieurs autres employés. Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs :
-- **a)** aux personnes visées à l’alinéa d) de la définition de ***employé***;
-- **b)** en ce qui concerne les mesures portant congédiement ou suspension, aux anciens employés, ainsi qu’aux personnes qui auraient eu le statut d’employés si le poste qu’elles occupaient au moment de leur congédiement ou suspension n’avait pas été un poste de direction ou de confiance.
+***grief*** Plainte écrite déposée conformément à la présente partie par un employé, soit pour son propre compte, soit pour son compte et celui de un ou plusieurs autres employés. Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs :
+- **a)** aux personnes visées à l’alinéa d) de la définition de employé;
+- **b)** en ce qui concerne les mesures portant congédiement ou suspension, aux anciens employés, ainsi qu’aux personnes qui auraient eu le statut d’employés si le poste qu’elles occupaient au moment de leur congédiement ou suspension n’avait pas été un poste de direction ou de confiance. (*grievance*)
 
-***organisation syndicale*** Organisation regroupant des employés en vue, notamment, de la réglementation des relations entre l’employeur et ses employés pour l’application de la présente partie; s’entend en outre, sauf indication contraire du contexte, d’un regroupement d’organisations syndicales.
+***organisation syndicale*** Organisation regroupant des employés en vue, notamment, de la réglementation des relations entre l’employeur et ses employés pour l’application de la présente partie; s’entend en outre, sauf indication contraire du contexte, d’un regroupement d’organisations syndicales. (*employee organization*)
 
 ***parties***
 - **a)** L’employeur et un agent négociateur, dans le cas de négociations collectives, d’un arbitrage ou d’un différend;
-- **b)** l’employeur et l’employé qui a présenté un grief.
+- **b)** l’employeur et l’employé qui a présenté un grief. (*parties*)
 
-***personne occupant un poste de direction ou de confiance*** Personne qui : 
+***personne occupant un poste de direction ou de confiance*** Personne qui :
 - **a)** occupe un poste de confiance auprès de qui exerce les fonctions reconnues de président du Sénat, de président de la Chambre des communes, de greffier du Sénat, de greffier de la Chambre des communes, d’administrateur de la Chambre des communes, de gentilhomme huissier de la verge noire, de sergent d’armes ou de conseiller parlementaire de l’une ou l’autre chambre;
 - **b)** est employée en qualité de conseiller parlementaire dans l’une ou l’autre chambre ou en qualité de conseiller juridique d’un comité de l’une ou l’autre chambre ou d’un comité mixte;
 - **c)** est attachée à l’employeur et qui, sur désignation par la Commission, dans le cas d’une demande d’accréditation d’un agent négociateur pour une unité de négociation, ou, si un tel agent a déjà été accrédité par la Commission, sur désignation dans les formes réglementaires par l’employeur, ou par cette dernière lorsque l’agent négociateur s’y oppose, est classée comme :
@@ -100,18 +100,18 @@
 	- **(ii)** occupant un poste dont les attributions comprennent les fonctions d’administrateur du personnel, ou l’amènent à participer directement au processus de négociations collectives pour le compte de l’employeur,
 	- **(iii)** s’occupant officiellement pour le compte de l’employeur, en raison de ses attributions, d’un grief présenté selon la procédure établie en application de la présente partie,
 	- **(iv)** occupant un poste de confiance auprès de l’une des personnes mentionnées à l’alinéa b) ou aux sous-alinéas (i), (ii) ou (iii),
-	- **(v)** ne devant pas, selon la Commission, bien que non mentionnée aux sous-alinéas (i), (ii), (iii) ou (iv), faire partie d’une unité de négociation en raison de ses attributions auprès de l’employeur.
+	- **(v)** ne devant pas, selon la Commission, bien que non mentionnée aux sous-alinéas (i), (ii), (iii) ou (iv), faire partie d’une unité de négociation en raison de ses attributions auprès de l’employeur. (*person employed in a managerial or confidential capacity*)
 
-***président*** Le président de la Commission.
+***président*** Le président de la Commission. (*Chairperson*)
 
 ***président suppléant***[Abrogée, 2003, ch. 22, art. 182]
 
- et ***règlement*** Règlement pris par la Commission; ***réglementaire*** comporte le même sens.
+***règlement*** et ***réglementaire*** Règlement pris par la Commission; ***réglementaire*** comporte le même sens. (*prescribed*)
 
-***unité de négociation*** Groupe d’employés déclaré constituer, sous le régime de la présente partie, une unité habile à négocier collectivement.
+***unité de négociation*** Groupe d’employés déclaré constituer, sous le régime de la présente partie, une unité habile à négocier collectivement. (*bargaining unit*)
 
-***vice-président*** Un vice-président de la Commission.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33; 2006, ch. 9, art. 31; 2013, ch. 40, art. 425; 2015, ch. 36, art. 141
+***vice-président*** Un vice-président de la Commission. (*Vice-Chairperson*)
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33; 2006, ch. 9, art. 31; 2013, ch. 40, art. 425; 2015, ch. 36, art. 141; 2017, ch. 9, art. 45
 
 
 
@@ -220,7 +220,7 @@
 
 
 **SECTION I** 
-### Commission des relations de travail et de l’emploi dans la fonction publique
+### Commission des relations de travail et de l’emploi dans le secteur public fédéral
 
 
 
@@ -230,10 +230,10 @@
 
 **Application de certaines lois**
 
-**9** Sous réserve des autres dispositions de la présente partie, les dispositions de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique et de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) concernant la Commission s’appliquent dans le cadre de la présente partie. À cet effet :
+**9** Sous réserve des autres dispositions de la présente partie, les dispositions de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) et de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) concernant la Commission s’appliquent dans le cadre de la présente partie. À cet effet :
 - **a)** toute mention de ces lois dans les dispositions en cause vaut mention de la présente partie;
 - **b)** les termes employés dans les mêmes dispositions et qui sont définis dans la présente partie s’entendent au sens de celle-ci.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 9; 2003, ch. 22, art. 184; 2013, ch. 40, art. 426
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 9; 2003, ch. 22, art. 184; 2013, ch. 40, art. 426; 2017, ch. 9, art. 46
 
 
 
@@ -867,12 +867,12 @@
 
 **Pouvoirs de l’arbitre**
 
-- **(3)** L’arbitre nommé en vertu du présent article est investi de tous les pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20d) et e) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+- **(3)** L’arbitre nommé en vertu du présent article est investi de tous les pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20d) et e) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md).
 
 **Application circonstancielle des art. 52 à 61**
 
 - **(4)** Les articles 52 à 61 s’appliquent, compte tenu des adaptations de circonstance, aux différends renvoyés à un arbitre nommé en application du paragraphe (1).
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 49; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 429
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 49; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 429; 2017, ch. 9, art. 56
 
 
 
@@ -1197,8 +1197,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Précision sur l’arbitre**
 
-- **(4)** Cet arbitre ne peut ni être commissaire, ni avoir un intérêt direct ou indirect dans le grief ou dans l’instruction ou le règlement de celui-ci; toutefois, dans le cadre de l’arbitrage, il dispose de tous les pouvoirs de la Commission, sauf celui de prendre des règlements en vertu de l’article 12 de la présente loi ou de l’article 36 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 432
+- **(4)** Cet arbitre ne peut ni être commissaire, ni avoir un intérêt direct ou indirect dans le grief ou dans l’instruction ou le règlement de celui-ci; toutefois, dans le cadre de l’arbitrage, il dispose de tous les pouvoirs de la Commission, sauf celui de prendre des règlements en vertu de l’article 12 de la présente loi ou de l’article 36 de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A); 2013, ch. 40, art. 432; 2017, ch. 9, art. 56
 
 
 
@@ -1206,8 +1206,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Pouvoirs de l’arbitre**
 
-**66.1** Dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre des alinéas 63(1)a), b) ou c), l’arbitre est investi des pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20a) et d) à f) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique pour l’audition ou le règlement de tout grief qui lui est soumis.
-> 1992, ch. 1, art. 111; 2013, ch. 40, art. 433
+**66.1** Dans le cas d’un grief qui peut être renvoyé à l’arbitrage au titre des alinéas 63(1)a), b) ou c), l’arbitre est investi des pouvoirs de la Commission prévus à l’alinéa 15d) de la présente loi et aux alinéas 20a) et d) à f) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) pour l’audition ou le règlement de tout grief qui lui est soumis.
+> 1992, ch. 1, art. 111; 2013, ch. 40, art. 433; 2017, ch. 9, art. 56
 
 
 
