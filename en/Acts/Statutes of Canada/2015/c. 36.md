@@ -1478,17 +1478,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Division.
 
-***application period*** means the period of four years that begins on the effective date.
+***application period*** means the period of four years that begins on the effective date. (*période d’application*)
 
-***effective date*** means the date specified in an order made under section 266 on which the short-term disability program becomes effective.
+***effective date*** means the date specified in an order made under section 266 on which the short-term disability program becomes effective. (*date de mise en oeuvre*)
 
-***employee*** means a person employed in the core public administration, other than a person referred to in any of paragraphs (b) to (g) and (j) of the definition employee in subsection 2(1) of the Public Service Labour Relations Act.
+***employee*** means a person employed in the core public administration, other than a person referred to in any of paragraphs (b) to (g) and (j) of the definition employee in subsection 2(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). (*fonctionnaire*)
 
-***short-term disability program*** means the program established under section 260.
+***short-term disability program*** means the program established under section 260. (*programme d’invalidité de courte durée*)
 
 **Same meaning**
 
-- **(2)** Unless a contrary intention appears, words and expressions used in this Division have the same meaning as in the Public Service Labour Relations Act.
+- **(2)** Unless a contrary intention appears, words and expressions used in this Division have the same meaning as in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 2015, c. 36, s. 253; 2017, c. 9, s. 55.
+
 
 
 
@@ -1501,7 +1503,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **254** 
 
-- **(1)** Despite the Public Service Labour Relations Act, the Treasury Board may, during the period that begins on a day to be fixed by order made under subsection (3) and that ends immediately before the effective date, in the exercise of its responsibilities under section 11.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), establish terms and conditions of employment related to the sick leave of employees in any particular bargaining unit and modify any such term or condition that is established during that period.
+- **(1)** Despite the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Treasury Board may, during the period that begins on a day to be fixed by order made under subsection (3) and that ends immediately before the effective date, in the exercise of its responsibilities under section 11.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), establish terms and conditions of employment related to the sick leave of employees in any particular bargaining unit and modify any such term or condition that is established during that period.
 
 **Clarification**
 
@@ -1513,6 +1515,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Order in council**
 
 - **(3)** The Governor in Council may, by order made on the recommendation of the President of the Treasury Board, specify a day for the purposes of subsection (1).
+> 2015, c. 36, s. 254; 2017, c. 9, s. 55.
+
 
 
 
@@ -1533,7 +1537,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Replacement of terms and conditions**
 
-**257** Every term and condition of employment of the employees in the bargaining unit that is continued in force, on the effective date, by section 107 of the Public Service Labour Relations Act and that is inconsistent with a term or condition of employment that is established as permitted by section 254 in respect of those employees is, on the effective date, replaced by that term or condition, as it is drafted to comply with section 255.
+**257** Every term and condition of employment of the employees in the bargaining unit that is continued in force, on the effective date, by section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and that is inconsistent with a term or condition of employment that is established as permitted by section 254 in respect of those employees is, on the effective date, replaced by that term or condition, as it is drafted to comply with section 255.
+> 2015, c. 36, s. 257; 2017, c. 9, s. 55.
+
 
 
 
@@ -1572,7 +1578,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **260** 
 
-- **(1)** Despite the Public Service Labour Relations Act, the Treasury Board may, in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), establish a short-term disability program for employees in the bargaining units specified by order made by the Treasury Board, and for any other persons or classes of persons that the Treasury Board may designate, and take any measure necessary for that purpose. It may also, during the period that begins on the day on which the program is established and that ends on the expiry of the application period, and after taking into account the recommendations of the committee established under section 265, modify the program.
+- **(1)** Despite the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Treasury Board may, in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), establish a short-term disability program for employees in the bargaining units specified by order made by the Treasury Board, and for any other persons or classes of persons that the Treasury Board may designate, and take any measure necessary for that purpose. It may also, during the period that begins on the day on which the program is established and that ends on the expiry of the application period, and after taking into account the recommendations of the committee established under section 265, modify the program.
 
 **Time specification can be made**
 
@@ -1581,6 +1587,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deeming**
 
 - **(3)** Every bargaining unit of employees that has not been specified by the Treasury Board for the purposes of subsection (1) before the effective date is deemed to have been specified by order of the Treasury Board made immediately before the effective date.
+> 2015, c. 36, s. 260; 2017, c. 9, s. 55.
+
 
 
 
@@ -1607,7 +1615,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The short-term disability program applies to the employees referred to in subsection 260(1), and to the other persons referred to in that subsection, during the application period despite
 	- **(a)** any provision to the contrary of any collective agreement or arbitral award that is binding on those employees and that is in force on the effective date; and
-	- **(b)** any terms and conditions of employment of those employees that are continued in force by section 107 of the Public Service Labour Relations Act and that are in force on the effective date.
+	- **(b)** any terms and conditions of employment of those employees that are continued in force by section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and that are in force on the effective date.
 
 **Provisions are of no effect**
 
@@ -1616,6 +1624,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Program continues**
 
 - **(3)** The short-term disability program continues to apply to employees referred to in subsection 260(1), and to the other persons referred to in that subsection, after the expiry of the application period and until the program is abolished or replaced.
+> 2015, c. 36, s. 262; 2017, c. 9, s. 55.
+
 
 
 
@@ -1664,7 +1674,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Modifications**
 
-**267** Despite the Public Service Labour Relations Act, the Treasury Board may, during the period that begins on the day on which the short-term disability program is established and that ends on the expiry of the application period, in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), modify any long-term disability program in respect of the period during which an employee is not entitled to be paid benefits under the program.
+**267** Despite the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Treasury Board may, during the period that begins on the day on which the short-term disability program is established and that ends on the expiry of the application period, in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), modify any long-term disability program in respect of the period during which an employee is not entitled to be paid benefits under the program.
+> 2015, c. 36, s. 267; 2017, c. 9, s. 55.
+
 
 
 
@@ -1675,7 +1687,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The modifications made as permitted by section 267 apply to employees during the application period despite
 	- **(a)** every provision to the contrary of any collective agreement or arbitral award that is binding on the employees and that is in force on the effective date; and
-	- **(b)** any terms and conditions of employment of the employees that are continued in force by section 107 of the Public Service Labour Relations Act and that are in force on the effective date.
+	- **(b)** any terms and conditions of employment of the employees that are continued in force by section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and that are in force on the effective date.
 
 **Provisions are of no effect**
 
@@ -1684,6 +1696,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provisions continue**
 
 - **(3)** Every provision of any long-term disability program that is modified as permitted by section 267 continues to apply to employees after the expiry of the application period until the provision is struck out or replaced.
+> 2015, c. 36, s. 268; 2017, c. 9, s. 55.
+
 
 
 
@@ -1701,14 +1715,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Right to bargain collectively**
 
-**270** Subject to the other provisions of this Division, the right to bargain collectively under the Public Service Labour Relations Act is continued.
+**270** Subject to the other provisions of this Division, the right to bargain collectively under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) is continued.
+> 2015, c. 36, s. 270; 2017, c. 9, s. 55.
+
 
 
 
 
 **Right to strike**
 
-**271** Nothing in this Division affects the right to strike under the Public Service Labour Relations Act.
+**271** Nothing in this Division affects the right to strike under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 2015, c. 36, s. 271; 2017, c. 9, s. 55.
+
 
 
 
