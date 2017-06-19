@@ -1733,9 +1733,9 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Exception**
 
 **51** Sous réserve des paragraphes 19.1(4) et 21.8(4), la présente loi ne porte pas atteinte :
-- **a)** au droit du fonctionnaire de présenter un grief individuel en vertu du paragraphe 208(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md);
+- **a)** au droit du fonctionnaire de présenter un grief individuel en vertu du paragraphe 208(1) ou de l’article 238.24 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md);
 - **b)** au droit de l’arbitre de procéder à l’instruction d’une plainte sous le régime de l’article 242 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
-> 2005, ch. 46, art. 51; 2006, ch. 9, art. 218.
+> 2005, ch. 46, art. 51; 2006, ch. 9, art. 218; 2017, ch. 9, art. 49.
 
 
 
