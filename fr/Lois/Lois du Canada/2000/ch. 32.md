@@ -2861,27 +2861,27 @@ Premièrement : toutes ces terres situées à l’intérieur de la réserve ind
 
 
 
-Deuxièmement : dans le canton 124, rang 10, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant le lot 6 de la partie de la réserve indienne de Thebathi n<sup>o</sup> 196 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85625, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126326, ces terres ayant ensemble une superficie d’environ 1,81 kilomètre carré (181 hectares); sont inclus les mines et les minéraux;
+Deuxièmement : dans le township 124, rang 10, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant le lot 6 de la partie de la réserve indienne de Thebathi n<sup>o</sup> 196 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85625, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126326, ces terres ayant ensemble une superficie d’environ 1,81 kilomètre carré (181 hectares); sont inclus les mines et les minéraux;
 
 
 
-Troisièmement : dans le canton théorique 121, rang 9, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Eejeré k’elni kue n<sup>o</sup> 196I (site de Hay Camp) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 84988, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0123033, ces terres ayant ensemble une superficie d’environ 2,13 kilomètres carrés (213 hectares); sont inclus les mines et les minéraux;
+Troisièmement : dans le township théorique 121, rang 9, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Eejeré k’elni kue n<sup>o</sup> 196I (site de Hay Camp) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 84988, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0123033, ces terres ayant ensemble une superficie d’environ 2,13 kilomètres carrés (213 hectares); sont inclus les mines et les minéraux;
 
 
 
-Quatrièmement : dans le canton théorique 121, rang 14, et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux;
+Quatrièmement : dans le township théorique 121, rang 14, et le township théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux;
 
 
 
-Cinquièmement : dans le canton théorique 121, rang 13, à l’ouest du 4<sup>e</sup> méridien et dans le canton théorique 121, rang 14, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Dehneeah Túe n<sup>o</sup> 195D (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92668, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727787, ces terres ayant ensemble une superficie d’environ 3,95 kilomètres carrés (395,3 hectares); sont inclus les mines et les minéraux;
+Cinquièmement : dans le township théorique 121, rang 13, à l’ouest du 4<sup>e</sup> méridien et dans le township théorique 121, rang 14, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Dehneeah Túe n<sup>o</sup> 195D (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92668, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727787, ces terres ayant ensemble une superficie d’environ 3,95 kilomètres carrés (395,3 hectares); sont inclus les mines et les minéraux;
 
 
 
-Sixièmement : dans le canton théorique 124, rang 12, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Delttho Tthén n<sup>o</sup> 195C (site de la rivière Salt) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92669, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727788, ces terres ayant ensemble une superficie d’environ 0,41 kilomètres carrés (41,1 hectares); sont inclus les mines et les minéraux;
+Sixièmement : dans le township théorique 124, rang 12, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Delttho Tthén n<sup>o</sup> 195C (site de la rivière Salt) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92669, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727788, ces terres ayant ensemble une superficie d’environ 0,41 kilomètres carrés (41,1 hectares); sont inclus les mines et les minéraux;
 
 
 
-Septièmement : dans le canton théorique 125, rang 15, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Deneyutchelea n<sup>o</sup> 195B (site du lac Parsons) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92670, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727789, ces terres ayant ensemble une superficie d’environ 2,41 kilomètres carrés (241 hectares); sont inclus les mines et les minéraux;
+Septièmement : dans le township théorique 125, rang 15, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Deneyutchelea n<sup>o</sup> 195B (site du lac Parsons) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92670, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727789, ces terres ayant ensemble une superficie d’environ 2,41 kilomètres carrés (241 hectares); sont inclus les mines et les minéraux;
 
 
 
@@ -2889,7 +2889,7 @@ Huitièmement : la totalité des lots 1000 et 1001, Quad 85A/2, constituant les
 
 
 
-Le reste représentant une superficie d’environ 44 778 kilomètres carrés (4 477 832 hectares).
+Neuvièmement : à l’intérieur du township théorique 112, rang 23, à l’ouest du 4<sup>e</sup> méridien et à l’intérieur des townships théoriques 111 et 112, rang 24, à l’ouest du 4<sup>e</sup> méridien, tous ces terrains et terres recouvertes d’eau, appelés réserve indienne de Garden River n<sup>o</sup> 238 tels que montrés sur le plan d’arpentage 100429 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, enregistré au bureau des titres de biens-fonds de l’Alberta, à Edmonton, sous le numéro de plan 1222163, ladite réserve indienne de Garden River n<sup>o</sup> 238 ayant une superficie d’environ 37,41 kilomètres carrés (3 741 hectares), ainsi que toutes les mines et minéraux.
 
 
 
@@ -6720,7 +6720,7 @@ Y compris toutes les matières ou tous les matériaux qui peuvent être aliéné
 
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2; 2017, ch. 10, art. 5 et 6(F).
 
 
 
