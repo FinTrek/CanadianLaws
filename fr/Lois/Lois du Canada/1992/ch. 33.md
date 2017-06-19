@@ -169,9 +169,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 - **(3)** La présente partie ne s’applique pas, pour les activités qui relèvent de leurs fonctions :
-	- **a)** aux fonctionnaires — au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) — notamment déterminés par la Commission des relations de travail et de l’emploi dans la fonction publique ou faisant partie d’une unité de négociation accréditée par celle-ci;
+	- **a)** aux fonctionnaires — au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) — notamment déterminés par la Commission des relations de travail et de l’emploi dans le secteur public fédéral ou faisant partie d’une unité de négociation accréditée par celle-ci;
 	- **b)** aux employés — au sens de la partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) — notamment déterminés par le Conseil ou faisant partie d’une unité de négociation accréditée par celui-ci.
-> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A); 2012, ch. 19, art. 533; 2013, ch. 40, art. 466.
+> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A); 2012, ch. 19, art. 533; 2013, ch. 40, art. 466; 2017, ch. 9, art. 47.
 
 
 
