@@ -52,60 +52,60 @@ and, except as provided in this Act, nothing in any other Act of Parliament that
 
 **3** In this Part,
 
-***adjudicator*** means, subject to subsection 66(4), a member of the Board assigned to hear and determine a grievance referred to adjudication and includes, where the context permits, a board of adjudication established under section 65 and an adjudicator named in a collective agreement for the purposes of that agreement;
+***adjudicator*** means, subject to subsection 66(4), a member of the Board assigned to hear and determine a grievance referred to adjudication and includes, where the context permits, a board of adjudication established under section 65 and an adjudicator named in a collective agreement for the purposes of that agreement; (*arbitre*)
 
-***arbitral award*** means an award made by the Board or an arbitrator appointed under section 49 in respect of a dispute;
+***arbitral award*** means an award made by the Board or an arbitrator appointed under section 49 in respect of a dispute; (*décision arbitrale*)
 
-***bargaining agent*** means an employee organization
+***bargaining agent*** means an employee organization
 - **(a)** that has been certified by the Board as bargaining agent for a bargaining unit, and
-- **(b)** the certification of which has not been revoked;
+- **(b)** the certification of which has not been revoked; (*agent négociateur*)
 
-***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining;
+***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining; (*unité de négociation*)
 
-***Board*** means the Public Service Labour Relations and Employment Board established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act;
+***Board*** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md); (*Commission*)
 
 ***Chairman***[Repealed, 2003, c. 22, s. 182]
 
-***Chairperson*** means the Chairperson of the Board.
+***Chairperson*** means the Chairperson of the Board; (*président*)
 
-***collective agreement*** means an agreement in writing entered into under this Part between an employer, on the one hand, and a bargaining agent, on the other hand, containing provisions respecting terms and conditions of employment and related matters;
+***collective agreement*** means an agreement in writing entered into under this Part between an employer, on the one hand, and a bargaining agent, on the other hand, containing provisions respecting terms and conditions of employment and related matters; (*convention collective*)
 
-***conciliator*** means a person appointed by the Chairperson under section 40 to assist the parties to collective bargaining in reaching agreement;
+***conciliator*** means a person appointed by the Chairperson under section 40 to assist the parties to collective bargaining in reaching agreement; (*conciliateur*)
 
 ***Deputy Chairman***[Repealed, 2003, c. 22, s. 182]
 
-***dispute*** means a dispute or difference arising in connection with the conclusion, renewal or revision of a collective agreement, in respect of which arbitration is requested pursuant to section 50;
+***dispute*** means a dispute or difference arising in connection with the conclusion, renewal or revision of a collective agreement, in respect of which arbitration is requested pursuant to section 50; (*différend*)
 
-***employee*** means a person employed by an employer, other than
+***employee*** means a person employed by an employer, other than
 - **(a)** a person appointed by the Governor in Council,
 - **(b)** a person not ordinarily required to work more than seven hundred hours in a calendar year or one-third of the normal period for persons doing similar work, whichever is greater,
 - **(c)** a person employed on a casual or temporary basis, unless the person has been so employed for a period of six months or more,
 - **(d)** a person employed in a managerial or confidential capacity, or
 - **(e)** a person excluded from the application of this Part by section 4,
 
-and for the purposes of this definition a person does not cease to be employed by an employer by reason only of the person’s discharge contrary to this Part or any other Act of Parliament;
+and for the purposes of this definition a person does not cease to be employed by an employer by reason only of the person’s discharge contrary to this Part or any other Act of Parliament; (*employé*)
 
-***employee organization*** means any organization of employees the purposes of which include the regulation of relations between an employer and its employees for the purposes of this Part and includes, unless the context otherwise requires, a council of employee organizations;
+***employee organization*** means any organization of employees the purposes of which include the regulation of relations between an employer and its employees for the purposes of this Part and includes, unless the context otherwise requires, a council of employee organizations; (*organisation syndicale*)
 
-***employer*** means
+***employer*** means
 - **(a)** the Senate as represented by such committee or person as the Senate by its rules or orders designates for the purposes of this Part,
 - **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part,
 - **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament,
 - **(d)** the office of the Senate Ethics Officer as represented by the Ethics Officer,
 - **(e)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner, or
-- **(f)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament;
+- **(f)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament; (*employeur*)
 
-***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that
+***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that
 - **(a)** for the purposes of any of the provisions of this Part respecting grievances, a reference to an “employee” includes a person who would be an employee but for the fact that the person is a person employed in a managerial or confidential capacity, and
-- **(b)** for the purposes of any of the provisions of this Part respecting grievances with respect to action resulting in termination or suspension, a reference to an “employee” includes a former employee or a person who would be a former employee but for the fact that at the time of the person’s termination or suspension, the person was a person employed in a managerial or confidential capacity;
+- **(b)** for the purposes of any of the provisions of this Part respecting grievances with respect to action resulting in termination or suspension, a reference to an “employee” includes a former employee or a person who would be a former employee but for the fact that at the time of the person’s termination or suspension, the person was a person employed in a managerial or confidential capacity; (*grief*)
 
-***member***, in respect of a member of the Board, includes a full-time member and a part-time member;
+***member***, in respect of a member of the Board, includes a full-time member and a part-time member; (*commissaire*)
 
-***parties*** means
+***parties*** means
 - **(a)** in relation to collective bargaining, arbitration or a dispute, an employer and a bargaining agent, and
-- **(b)** in relation to a grievance, an employer and the employee who presented the grievance;
+- **(b)** in relation to a grievance, an employer and the employee who presented the grievance; (*parties*)
 
-***person employed in a managerial or confidential capacity*** means any person who
+***person employed in a managerial or confidential capacity*** means any person who
 - **(a)** is employed in a position confidential to the person occupying the recognized position of Speaker of the Senate, Speaker of the House of Commons, Clerk of the Senate, Clerk of the House of Commons, Administrator of the House of Commons, Gentleman Usher of the Black Rod, Sergeant-at-Arms or Law Clerk and Parliamentary Counsel of either House,
 - **(b)** is employed as parliamentary counsel in either House or as legal counsel to a committee of either or both Houses, or
 - **(c)** is employed by an employer and, in connection with an application for certification of a bargaining agent for a bargaining unit, is designated by the Board, or, in any case where a bargaining agent for a bargaining unit has been certified by the Board, is designated in prescribed manner by the employer or by the Board on objection thereto by the bargaining agent, to be a person
@@ -113,16 +113,16 @@ and for the purposes of this definition a person does not cease to be employed b
 	- **(ii)** whose duties include those of a personnel administrator or who has duties that cause the person to be directly involved in the process of collective bargaining on behalf of the employer,
 	- **(iii)** who is required by reason of the duties and responsibilities of that person to deal formally on behalf of the employer with a grievance presented in accordance with the grievance process provided by this Part,
 	- **(iv)** who is employed in a position confidential to any person described in paragraph (b) or subparagraph (i), (ii) or (iii), or
-	- **(v)** who is not otherwise described in subparagraph (i), (ii), (iii) or (iv) but who, in the opinion of the Board, should not be included in a bargaining unit by reason of his duties and responsibilities to the employer;
+	- **(v)** who is not otherwise described in subparagraph (i), (ii), (iii) or (iv) but who, in the opinion of the Board, should not be included in a bargaining unit by reason of his duties and responsibilities to the employer; (*personne occupant un poste de direction ou de confiance*)
 
- et ***prescribed*** means prescribed by regulation of the Board;
+***prescribed*** means prescribed by regulation of the Board; (*règlement* et *réglementaire*)
 
-***strike*** includes a cessation of work or a refusal to work or to continue to work by employees in combination or in concert or in accordance with a common understanding, or a slow-down of work or other concerted activity on the part of employees designed to restrict or limit output;
+***strike*** includes a cessation of work or a refusal to work or to continue to work by employees in combination or in concert or in accordance with a common understanding, or a slow-down of work or other concerted activity on the part of employees designed to restrict or limit output; (*grève*)
 
 ***Vice-Chairman***[Repealed, 2003, c. 22, s. 182]
 
-***Vice-Chairperson*** means a Vice-Chairperson of the Board.
-> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31; 2013, c. 40, s. 425; 2015, c. 36, s. 141
+***Vice-Chairperson*** means a Vice-Chairperson of the Board. (*vice-président*)
+> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31; 2013, c. 40, s. 425; 2015, c. 36, s. 141; 2017, c. 9, s. 45
 
 
 
@@ -231,7 +231,7 @@ and for the purposes of this definition a person does not cease to be employed b
 
 
 **DIVISION I** 
-### Public Service Labour Relations and Employment Board
+### Federal Public Sector Labour Relations and Employment Board
 
 
 
@@ -241,10 +241,10 @@ and for the purposes of this definition a person does not cease to be employed b
 
 **Application**
 
-**9** Unless otherwise provided in this Part, the provisions of the Public Service Labour Relations and Employment Board Act and the Public Service Labour Relations Act respecting the Board apply also in respect of this Part except that, for the purpose of that application,
+**9** Unless otherwise provided in this Part, the provisions of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md) and the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) respecting the Board apply also in respect of this Part except that, for the purpose of that application,
 - **(a)** a reference to either of those Acts in any of those provisions shall be read as a reference to this Part; and
 - **(b)** words and expressions used in those provisions that are defined by this Part shall have the meaning given to them by this Part.
-> R.S., 1985, c. 33 (2nd Supp.), s. 9; 2003, c. 22, s. 184; 2013, c. 40, s. 426
+> R.S., 1985, c. 33 (2nd Supp.), s. 9; 2003, c. 22, s. 184; 2013, c. 40, s. 426; 2017, c. 9, s. 46
 
 
 
@@ -879,12 +879,12 @@ any money for activities carried on by or on behalf of any political party.
 
 **Powers of arbitrator**
 
-- **(3)** An arbitrator appointed under this section has all the powers of the Board set out in paragraph 15(d) of this Act and paragraphs 20(d) and (e) of the Public Service Labour Relations and Employment Board Act.
+- **(3)** An arbitrator appointed under this section has all the powers of the Board set out in paragraph 15(d) of this Act and paragraphs 20(d) and (e) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md).
 
 **Sections 52 to 61 apply**
 
 - **(4)** Sections 52 to 61 apply, with such modifications as the circumstances require, in respect of matters in dispute referred to an arbitrator appointed under subsection (1).
-> R.S., 1985, c. 33 (2nd Supp.), s. 49; 2003, c. 22, s. 187(E); 2013, c. 40, s. 429
+> R.S., 1985, c. 33 (2nd Supp.), s. 49; 2003, c. 22, s. 187(E); 2013, c. 40, s. 429; 2017, c. 9, s. 56
 
 
 
@@ -1214,9 +1214,9 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Adjudicator re certain matters**
 
 - **(4)** A person selected to adjudicate a grievance respecting a matter referred to in paragraph 63(1)(d), (e) or (f)
-	- **(a)** shall not be a member of the Board but has, for the purposes of the adjudication, all the powers, rights and privileges of the Board other than the power to make regulations under section 12 of this Act or section 36 of the Public Service Labour Relations and Employment Board Act; and
+	- **(a)** shall not be a member of the Board but has, for the purposes of the adjudication, all the powers, rights and privileges of the Board other than the power to make regulations under section 12 of this Act or section 36 of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md); and
 	- **(b)** shall not have any direct interest in or in connection with the grievance, its handling or its disposition.
-> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E); 2013, c. 40, s. 432
+> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E); 2013, c. 40, s. 432; 2017, c. 9, s. 56
 
 
 
@@ -1224,8 +1224,8 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 **Powers of adjudicator**
 
-**66.1** An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(a), (b) or (c) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the Public Service Labour Relations and Employment Board Act, in relation to the hearing or determination of a proceeding before it.
-> 1992, c. 1, s. 111; 2013, c. 40, s. 433
+**66.1** An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(a), (b) or (c) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md), in relation to the hearing or determination of a proceeding before it.
+> 1992, c. 1, s. 111; 2013, c. 40, s. 433; 2017, c. 9, s. 56
 
 
 
