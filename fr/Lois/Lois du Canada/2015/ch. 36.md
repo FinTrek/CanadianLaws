@@ -1478,17 +1478,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente section.
 
-***date de mise en oeuvre*** La date de mise en oeuvre, fixée par décret pris en vertu de l’article 266, du programme d’invalidité de courte durée.
+***date de mise en oeuvre*** La date de mise en oeuvre, fixée par décret pris en vertu de l’article 266, du programme d’invalidité de courte durée. (*effective date*)
 
-***fonctionnaire*** Personne employée dans l’administration publique centrale, à l’exception des personnes visées aux alinéas b) à g) et j) de la définition de fonctionnaire au paragraphe 2(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***fonctionnaire*** Personne employée dans l’administration publique centrale, à l’exception des personnes visées aux alinéas b) à g) et j) de la définition de fonctionnaire au paragraphe 2(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). (*employee*)
 
-***période d’application*** La période de quatre ans débutant à la date de mise en oeuvre.
+***période d’application*** La période de quatre ans débutant à la date de mise en oeuvre. (*application period*)
 
-***programme d’invalidité de courte durée*** Le programme établi en vertu de l’article 260.
+***programme d’invalidité de courte durée*** Le programme établi en vertu de l’article 260. (*short-term disability program*)
 
 **Terminologie**
 
-- **(2)** Sauf indication contraire, les termes de la présente section s’entendent au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+- **(2)** Sauf indication contraire, les termes de la présente section s’entendent au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 2015, ch. 36, art. 253; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1501,7 +1503,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **254** 
 
-- **(1)** Malgré la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le Conseil du Trésor peut, dans l’exercice des attributions que lui confère l’article 11.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et au cours de la période débutant à la date fixée par décret pris en vertu du paragraphe (3) et se terminant immédiatement avant la date de mise en oeuvre, établir les conditions d’emploi des fonctionnaires faisant partie d’une unité de négociation donnée en ce qui touche les congés de maladie et les modifier.
+- **(1)** Malgré la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), le Conseil du Trésor peut, dans l’exercice des attributions que lui confère l’article 11.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et au cours de la période débutant à la date fixée par décret pris en vertu du paragraphe (3) et se terminant immédiatement avant la date de mise en oeuvre, établir les conditions d’emploi des fonctionnaires faisant partie d’une unité de négociation donnée en ce qui touche les congés de maladie et les modifier.
 
 **Précision**
 
@@ -1513,6 +1515,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décret**
 
 - **(3)** Le gouverneur en conseil peut, par décret pris sur la recommandation du président du Conseil du Trésor, fixer une date pour l’application du paragraphe (1).
+> 2015, ch. 36, art. 254; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1533,7 +1537,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Remplacement de conditions d’emploi**
 
-**257** Les conditions d’emploi des fonctionnaires faisant partie de l’unité de négociation qui sont maintenues en vigueur à la date de mise en oeuvre par l’effet de l’article 107 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) et qui sont incompatibles avec les conditions d’emploi établies en vertu de l’article 254 à l’égard de ces fonctionnaires sont, à la date de mise en oeuvre, remplacées par ces conditions d’emploi, telles que celles-ci sont libellées en application de l’article 255.
+**257** Les conditions d’emploi des fonctionnaires faisant partie de l’unité de négociation qui sont maintenues en vigueur à la date de mise en oeuvre par l’effet de l’article 107 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) et qui sont incompatibles avec les conditions d’emploi établies en vertu de l’article 254 à l’égard de ces fonctionnaires sont, à la date de mise en oeuvre, remplacées par ces conditions d’emploi, telles que celles-ci sont libellées en application de l’article 255.
+> 2015, ch. 36, art. 257; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1572,7 +1578,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **260** 
 
-- **(1)** Malgré la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le Conseil du Trésor peut, dans l’exercice des attributions que lui confère l’article 7.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), établir un programme d’invalidité de courte durée pour les fonctionnaires faisant partie des unités de négociation précisées par décret du Conseil du Trésor ainsi que pour les autres personnes qu’il désigne, individuellement ou au titre de leur appartenance à telle catégorie de personnes, et prendre toute mesure nécessaire à cette fin; il peut en outre, au cours de la période débutant à la date de l’établissement du programme et se terminant à l’expiration de la période d’application, modifier ce programme après avoir tenu compte des recommandations faites par le comité constitué au titre de l’article 265.
+- **(1)** Malgré la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), le Conseil du Trésor peut, dans l’exercice des attributions que lui confère l’article 7.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), établir un programme d’invalidité de courte durée pour les fonctionnaires faisant partie des unités de négociation précisées par décret du Conseil du Trésor ainsi que pour les autres personnes qu’il désigne, individuellement ou au titre de leur appartenance à telle catégorie de personnes, et prendre toute mesure nécessaire à cette fin; il peut en outre, au cours de la période débutant à la date de l’établissement du programme et se terminant à l’expiration de la période d’application, modifier ce programme après avoir tenu compte des recommandations faites par le comité constitué au titre de l’article 265.
 
 **Moment de l’exercice du pouvoir de préciser**
 
@@ -1581,6 +1587,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Unités réputées précisées**
 
 - **(3)** Toute unité de négociation comprenant des fonctionnaires qui n’a pas été précisée par le Conseil du Trésor, pour l’application du paragraphe (1), avant la date de mise en oeuvre est réputée précisée par décret du Conseil du Trésor immédiatement avant cette date.
+> 2015, ch. 36, art. 260; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1607,7 +1615,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le programme d’invalidité de courte durée s’applique, au cours de la période d’application, aux fonctionnaires visés au paragraphe 260(1) ainsi qu’aux autres personnes visées à ce paragraphe malgré :
 	- **a)** toute disposition contraire de toute convention collective ou décision arbitrale liant ces fonctionnaires qui est en vigueur à la date de mise en oeuvre;
-	- **b)** les conditions d’emploi de ces fonctionnaires qui sont maintenues en vigueur par l’effet de l’article 107 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) et qui sont en vigueur à la date de mise en oeuvre.
+	- **b)** les conditions d’emploi de ces fonctionnaires qui sont maintenues en vigueur par l’effet de l’article 107 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) et qui sont en vigueur à la date de mise en oeuvre.
 
 **Dispositions inopérantes**
 
@@ -1616,6 +1624,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Continuation du programme**
 
 - **(3)** Le programme d’invalidité de courte durée continue de s’appliquer aux fonctionnaires visés au paragraphe 260(1) ainsi qu’aux autres personnes visées à ce paragraphe après l’expiration de la période d’application, jusqu’à son abolition ou son remplacement.
+> 2015, ch. 36, art. 262; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1664,7 +1674,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Modifications**
 
-**267** Malgré la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le Conseil du Trésor peut, dans l’exercice des attributions que lui confère l’article 7.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et au cours de la période débutant à la date de l’établissement du programme d’invalidité de courte durée et se terminant à l’expiration de la période d’application, modifier tout programme d’invalidité de longue durée en ce qui touche la période d’inadmissibilité des fonctionnaires aux prestations prévues par ce programme.
+**267** Malgré la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), le Conseil du Trésor peut, dans l’exercice des attributions que lui confère l’article 7.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et au cours de la période débutant à la date de l’établissement du programme d’invalidité de courte durée et se terminant à l’expiration de la période d’application, modifier tout programme d’invalidité de longue durée en ce qui touche la période d’inadmissibilité des fonctionnaires aux prestations prévues par ce programme.
+> 2015, ch. 36, art. 267; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1675,7 +1687,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les modifications faites en vertu de l’article 267 s’appliquent aux fonctionnaires au cours de la période d’application, malgré :
 	- **a)** toute disposition contraire de toute convention collective ou décision arbitrale liant les fonctionnaires qui est en vigueur à la date de mise en oeuvre;
-	- **b)** les conditions d’emploi des fonctionnaires qui sont maintenues en vigueur par l’effet de l’article 107 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) et qui sont en vigueur à la date de mise en oeuvre.
+	- **b)** les conditions d’emploi des fonctionnaires qui sont maintenues en vigueur par l’effet de l’article 107 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) et qui sont en vigueur à la date de mise en oeuvre.
 
 **Dispositions inopérantes**
 
@@ -1684,6 +1696,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Continuation des dispositions modifiées**
 
 - **(3)** Les dispositions du programme d’invalidité de longue durée qui sont modifiées en vertu de l’article 267 continuent de s’appliquer aux fonctionnaires après l’expiration de la période d’application jusqu’à leur suppression ou leur remplacement.
+> 2015, ch. 36, art. 268; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1701,14 +1715,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit de négocier collectivement**
 
-**270** Sous réserve des autres dispositions de la présente section, le droit de négocier collectivement sous le régime de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) est maintenu.
+**270** Sous réserve des autres dispositions de la présente section, le droit de négocier collectivement sous le régime de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) est maintenu.
+> 2015, ch. 36, art. 270; 2017, ch. 9, art. 55.
+
 
 
 
 
 **Droit de grève**
 
-**271** La présente section ne porte pas atteinte au droit de grève qui s’exerce sous le régime de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+**271** La présente section ne porte pas atteinte au droit de grève qui s’exerce sous le régime de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 2015, ch. 36, art. 271; 2017, ch. 9, art. 55.
+
 
 
 
