@@ -227,9 +227,9 @@ Canadian International Trade Tribunal<br />- <i>Tribunal canadien du commerce ex
 
 Competition Tribunal<br />- <i>Tribunal de la concurrence</i>
 
-Public Servants Disclosure Protection Tribunal<br />- <i>Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles</i>
+Federal Public Sector Labour Relations and Employment Board<br />- <i>Commission des relations de travail et de l’emploi dans le secteur public fédéral</i>
 
-Public Service Labour Relations and Employment Board<br />- <i>Commission des relations de travail et de l’emploi dans la fonction publique</i>
+Public Servants Disclosure Protection Tribunal<br />- <i>Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles</i>
 
 Review Tribunal<br />- <i>Commission de révision</i>
 
@@ -238,6 +238,6 @@ Specific Claims Tribunal<br />- <i>Tribunal des revendications particulières</i
 Social Security Tribunal<br />- <i>Tribunal de la sécurité sociale</i>
 
 Transportation Appeal Tribunal of Canada<br />- <i>Tribunal d’appel des transports du Canada</i>
-> 2014, c. 20, ss. 376 “Sch.”, 481.
+> 2014, c. 20, ss. 376 “Sch.”, 481; 2017, c. 9, s. 57.
 
 
