@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20s.%20365.md)
 
-# Public Service Labour Relations and Employment Board Act
+# Federal Public Sector Labour Relations and Employment Board Act
 
 **S.C. 2013, c. 40, s. 365**
 
@@ -27,7 +27,9 @@ Assented to on 12 December 2013
 
 **Short title**
 
-**1** This Act may be cited as the Public Service Labour Relations and Employment Board Act.
+**1** This Act may be cited as the Federal Public Sector Labour Relations and Employment Board Act.
+> 2013, c. 40, s. 365 “1”; 2017, c. 9, s. 36.
+
 
 
 
@@ -40,11 +42,13 @@ Assented to on 12 December 2013
 
 **2** The following definitions apply in this Act.
 
-***bargaining agent*** has the same meaning as in subsection 2(1) of the Public Service Labour Relations Act.
+***bargaining agent*** has the same meaning as in subsection 2(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). (*agent négociateur*)
 
-***employer*** has the same meaning as in subsection 2(1) of the Public Service Labour Relations Act.
+***employer*** has the same meaning as in subsection 2(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). (*employeur*)
 
-***Minister*** means the Minister who is designated under section 3.
+***Minister*** means the Minister who is designated under section 3. (*ministre*)
+> 2013, c. 40, s. 365 “2”; 2017, c. 9, s. 55.
+
 
 
 
@@ -60,27 +64,29 @@ Assented to on 12 December 2013
 
 
 
-## Public Service Labour Relations and Employment Board
+## Federal Public Sector Labour Relations and Employment Board
 
 
 
-### Establishment and Composition
+### Continuance and Composition
 
 
 
-**Establishment of Board**
+**Continuance of Board**
 
 **4** 
 
-- **(1)** A board is established, to be known as the Public Service Labour Relations and Employment Board.
+- **(1)** The Public Service Labour Relations and Employment Board is continued under the name of the Federal Public Sector Labour Relations and Employment Board.
 
 **Board’s composition**
 
 - **(2)** The Board is composed of
 	- **(a)** a Chairperson, who is to hold office on a full-time basis;
 	- **(b)** not more than two Vice-chairpersons, who are to hold office on a full-time basis;
-	- **(c)** not more than 10 other members who are to hold office on a full-time basis; and
+	- **(c)** not more than 12 other members who are to hold office on a full-time basis; and
 	- **(d)** any part-time members that the Governor in Council considers necessary to carry out the Board’s powers, duties and functions.
+> 2013, c. 40, s. 365 “4”; 2017, c. 9, s. 38.
+
 
 
 
@@ -96,12 +102,14 @@ Assented to on 12 December 2013
 - **(1)** To be eligible to hold office as a member, a person must
 	- **(a)** be a Canadian citizen within the meaning of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) or a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
 	- **(b)** not hold any other office or employment under the employer;
-	- **(c)** not be a member of or hold an office or employment under an employee organization, as defined in subsection 2(1) of the Public Service Labour Relations Act, that is certified as a bargaining agent; and
+	- **(c)** not be a member of or hold an office or employment under an employee organization, as defined in subsection 2(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), that is certified as a bargaining agent; and
 	- **(d)** not accept any office or employment, or carry on any activity, that is inconsistent with the person’s duties or functions.
 
 **Exception**
 
 - **(2)** Despite paragraph (1)(b), a person is not ineligible to hold office as a member by reason only of holding office as a member of any board that may be constituted by the Commissioner in Council of the Northwest Territories or the Legislature of Yukon or the Legislature for Nunavut with powers, duties and functions similar to those of the Board.
+> 2013, c. 40, s. 365 “5”; 2017, c. 9, s. 55.
+
 
 
 
@@ -111,6 +119,10 @@ Assented to on 12 December 2013
 **6** 
 
 - **(1)** Every member, other than the Chairperson or a Vice-chairperson, must be appointed from among eligible persons whose names are on a list prepared by the Chairperson after consultation with the employer and the bargaining agents.
+
+**Knowledge of police organizations**
+
+- **(1.1)** In preparing the list, the Chairperson must take into account the need for the Board to have two members with knowledge of police organizations.
 
 **Contents**
 
@@ -126,6 +138,8 @@ Assented to on 12 December 2013
 **Non-representative Board**
 
 - **(4)** Despite being recommended by the employer or the bargaining agents, a member does not represent either the employer or the employees and must act impartially in the exercise of their powers and the performance of their duties and functions.
+> 2013, c. 40, s. 365 “6”; 2017, c. 9, s. 39.
+
 
 
 
@@ -160,8 +174,10 @@ Assented to on 12 December 2013
 
 **Oath or solemn affirmation**
 
-**9** Before beginning their duties or functions, a person who is appointed as a member of the Board must take an oath or make a solemn affirmation in the following form before a commissioner of oaths or other person having authority to administer oaths or solemn affirmations:I, ____________, do swear (or solemnly affirm) that I will faithfully, truly and impartially, to the best of my judgment, skill and ability, execute and perform the office of member (or Chairperson or Vice-chairperson) of the Public Service Labour Relations and Employment Board.
+**9** Before beginning their duties or functions, a person who is appointed as a member of the Board must take an oath or make a solemn affirmation in the following form before a commissioner of oaths or other person having authority to administer oaths or solemn affirmations:I, ____________, do swear (or solemnly affirm) that I will faithfully, truly and impartially, to the best of my judgment, skill and ability, execute and perform the office of member (or Chairperson or Vice-chairperson) of the Federal Public Sector Labour Relations and Employment Board.
 
+
+> 2013, c. 40, s. 365 “9”; 2017, c. 9, s. 57.
 
 
 
