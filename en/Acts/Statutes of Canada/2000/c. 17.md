@@ -1644,16 +1644,16 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Right of employer**
 
-- **(2)** Nothing in the Public Service Labour Relations Act shall be construed so as to affect the right or authority of the Director to deal with the matters referred to in paragraph (1)(b).
+- **(2)** Nothing in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) shall be construed so as to affect the right or authority of the Director to deal with the matters referred to in paragraph (1)(b).
 
 **Human resources management**
 
 - **(3)** Subsections 11.1(1) and 12(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the Centre, and the Director may
 	- **(a)** determine the organization of and classify the positions in the Centre;
 	- **(b)** set the terms and conditions of employment for employees, including termination of employment for cause, and assign to them their duties;
-	- **(c)** notwithstanding section 112 of the Public Service Labour Relations Act, in accordance with the mandate approved by the Treasury Board, fix the remuneration of the employees of the Centre; and
+	- **(c)** notwithstanding section 112 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), in accordance with the mandate approved by the Treasury Board, fix the remuneration of the employees of the Centre; and
 	- **(d)** provide for any other matters that the Director considers necessary for effective human resources management in the Centre.
-> 2000, c. 17, s. 49; 2003, c. 22, ss. 190, 223(A).
+> 2000, c. 17, s. 49; 2003, c. 22, ss. 190, 223(A); 2017, c. 9, s. 55.
 
 
 
