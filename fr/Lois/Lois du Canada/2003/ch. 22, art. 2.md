@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20art.%202.md)
 
-# Loi sur les relations de travail dans la fonction publique
+# Loi sur les relations de travail dans le secteur public fédéral
 
 **L.C. 2003, ch. 22, art. 2**
 
@@ -46,7 +46,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi sur les relations de travail dans la fonction publique.
+**1** Loi sur les relations de travail dans le secteur public fédéral.
+> 2003, ch. 22, art. 2 « 1 »; 2017, ch. 9, art. 2.
+
 
 
 
@@ -61,37 +63,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur général*** S’entend de l’administrateur général visé à l’un ou l’autre des alinéas a) à c) de la définition de ce terme au paragraphe 11(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***administrateur général*** S’entend de l’administrateur général visé à l’un ou l’autre des alinéas a) à c) de la définition de ce terme au paragraphe 11(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*deputy head*)
 
-***administration publique centrale*** S’entend au sens du paragraphe 11(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***administration publique centrale*** S’entend au sens du paragraphe 11(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*core public administration*)
 
-***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation.
+***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation. (*bargaining agent*)
 
-***arbitre de grief*** La personne ou le conseil d’arbitrage de grief à qui est renvoyé un grief en application des alinéas 223(2)a), b) ou c). 
+***arbitre de grief*** La personne ou le conseil d’arbitrage de grief à qui est renvoyé un grief en application des alinéas 223(2)a), b) ou c). (*adjudicator*)
 
-***commissaire*** Membre à temps plein ou à temps partiel de la Commission.
+***commissaire*** Membre à temps plein ou à temps partiel de la Commission. (*member*)
 
-***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+***Commission*** La Commission des relations de travail et de l’emploi dans le secteur public fédéral visée par le paragraphe 4(1) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md). (*Board*)
 
-***conseil d’arbitrage*** Conseil établi en application de la section 9 de la partie 1.
+***conseil d’arbitrage*** Conseil établi en application de la section 9 de la partie 1. (*arbitration board*)
 
-***convention collective*** Convention écrite conclue en application de la partie 1 entre l’employeur et un agent négociateur donné et renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes.
+***Conseil national mixte*** Le Conseil national mixte dont l’établissement a été autorisé par le décret C.P. 3676 du 16 mai 1944. (*National Joint Council*)
 
-***cotisations syndicales*** Somme que l’employeur des fonctionnaires représentés par l’agent négociateur est tenu, aux termes de toute convention collective conclue entre lui et l’agent négociateur, de déduire du salaire des fonctionnaires et de remettre à ce dernier.
+***convention collective*** Convention écrite conclue en application de la partie 1 entre l’employeur et un agent négociateur donné et renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes. (*collective agreement*)
 
-***décision arbitrale*** Décision rendue sur un différend par un conseil d’arbitrage.
+***cotisations syndicales*** Somme que l’employeur des fonctionnaires représentés par l’agent négociateur est tenu, aux termes de toute convention collective conclue entre lui et l’agent négociateur, de déduire du salaire des fonctionnaires et de remettre à ce dernier. (*membership dues*)
 
-***différend*** Désaccord qui peut faire l’objet d’une demande d’arbitrage ou de conciliation aux termes, respectivement, des paragraphes 136(1) ou 161(1), survenant à l’occasion de la conclusion, du renouvellement ou de la révision d’une convention collective.
+***décision arbitrale*** Décision rendue sur un différend par un conseil d’arbitrage. (*arbitral award*)
 
-***employeur*** Sa Majesté du chef du Canada, représentée :
+***différend*** Désaccord qui peut faire l’objet d’une demande d’arbitrage ou de conciliation aux termes, respectivement, des paragraphes 136(1) ou 161(1), survenant à l’occasion de la conclusion, du renouvellement ou de la révision d’une convention collective. (*dispute*)
+
+***employeur*** Sa Majesté du chef du Canada, représentée :
 - **a)** par le Conseil du Trésor, dans le cas d’un ministère figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou d’un autre secteur de l’administration publique fédérale figurant à l’annexe IV de cette loi;
-- **b)** par l’organisme distinct en cause, dans le cas d’un secteur de l’administration publique fédérale figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **b)** par l’organisme distinct en cause, dans le cas d’un secteur de l’administration publique fédérale figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*employer*)
 
-***fonctionnaire*** Sauf à la partie 2, personne employée dans la fonction publique, à l’exclusion de toute personne :
+***fonctionnaire*** Sauf à la partie 2, personne employée dans la fonction publique, à l’exclusion de toute personne :
 - **a)** nommée par le gouverneur en conseil, en vertu d’une loi fédérale, à un poste prévu par cette loi;
 - **b)** recrutée sur place à l’étranger;
 - **c)** qui n’est pas ordinairement astreinte à travailler plus du tiers du temps normalement exigé des personnes exécutant des tâches semblables;
-- **d)** qui est membre ou gendarme auxiliaire de la Gendarmerie royale du Canada, ou y est employée sensiblement aux mêmes conditions que ses membres;
+- **d)** qui est un officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
 - **e)** employée par le Service canadien du renseignement de sécurité et n’exerçant pas des fonctions de commis ou de secrétaire;
 - **f)** employée à titre occasionnel;
 - **g)** employée pour une durée déterminée de moins de trois mois ou ayant travaillé à ce titre pendant moins de trois mois;
@@ -100,30 +104,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** des services juridiques,
 	- **(iii)** des conseils portant sur l’exercice des attributions de celle-ci;
 - **i)** occupant un poste de direction ou de confiance;
-- **j)** employée dans le cadre d’un programme désigné par l’employeur comme un programme d’embauche des étudiants.
+- **j)** employée dans le cadre d’un programme désigné par l’employeur comme un programme d’embauche des étudiants. (*employee*)
 
-***fonction publique*** Sauf à la partie 3, l’ensemble des postes qui sont compris dans les entités ci-après ou qui en relèvent :
+***fonction publique*** Sauf à la partie 3, l’ensemble des postes qui sont compris dans les entités ci-après ou qui en relèvent :
 - **a)** les ministères figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **b)** les autres secteurs de l’administration publique fédérale figurant à l’annexe IV de cette loi;
-- **c)** les organismes distincts figurant à l’annexe V de la même loi.
+- **c)** les organismes distincts figurant à l’annexe V de la même loi. (*public service*)
 
-***grève*** Tout arrêt du travail ou refus de travailler, par des personnes employées dans la fonction publique agissant conjointement, de concert ou de connivence; y sont assimilés le ralentissement du travail ou toute autre activité concertée, de la part de telles personnes, ayant pour objet la diminution ou la limitation du rendement.
+***grève*** Tout arrêt du travail ou refus de travailler, par des personnes employées dans la fonction publique agissant conjointement, de concert ou de connivence; y sont assimilés le ralentissement du travail ou toute autre activité concertée, de la part de telles personnes, ayant pour objet la diminution ou la limitation du rendement. (*strike*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada, à l’exception d’un membre du Conseil du Trésor, chargé par le gouverneur en conseil de l’application de la présente loi.
+***membre de la GRC*** Sauf à la section 2 de la partie 2.1, membre, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), qui est nommé à un grade. (*RCMP member*)
 
-***organisation syndicale*** Organisation regroupant des fonctionnaires en vue, notamment, de la réglementation des relations entre les fonctionnaires et leur employeur pour l’application des parties 1 et 2; s’entend en outre, sauf indication contraire du contexte, de tout regroupement d’organisations syndicales.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada, à l’exception d’un membre du Conseil du Trésor, chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***organisme distinct*** S’entend au sens du paragraphe 11(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***organisation syndicale***
+- **a)** S’agissant de fonctionnaires qui ne sont pas des membres de la GRC ni des réservistes, organisation qui les regroupe en vue, notamment, de réglementer les relations entre eux et leur employeur pour l’application des parties 1 et 2;
+- **b)** s’agissant de fonctionnaires qui sont des membres de la GRC ou des réservistes, organisation qui les regroupe en vue, notamment, de réglementer les relations entre eux et leur employeur pour l’application des parties 1, 2 et 2.1. (*employee organization*)
 
-***poste de direction ou de confiance*** Poste déclaré tel par la Commission aux termes du paragraphe 62(1), de l’article 63, du paragraphe 74(1) ou de l’article 75.
+***organisme distinct*** S’entend au sens du paragraphe 11(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*separate agency*)
 
-***président*** Le président de la Commission.
+***poste de direction ou de confiance*** Poste déclaré tel par la Commission aux termes du paragraphe 62(1), de l’article 63, du paragraphe 74(1) ou de l’article 75. (*managerial or confidential position*)
 
-***regroupement d’organisations syndicales*** Regroupement résultant de l’union de plusieurs organisations syndicales.
+***président*** Le président de la Commission. (*Chairperson*)
 
-***unité de négociation*** Groupe de fonctionnaires dont la Commission a déclaré qu’il constitue une unité habile à négocier collectivement.
+***regroupement d’organisations syndicales*** Regroupement résultant de l’union soit de plusieurs organisations syndicales visées à l’alinéa a) de la définition de organisation syndicale, soit de plusieurs organisations syndicales visées à l’alinéa b) de cette définition. (*council of employee organizations*)
 
-***vice-président*** Un vice-président de la Commission.
+***réserviste*** Personne qui est nommée à titre de réserviste en application des règlements pris en vertu du paragraphe 11(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md). (*reservist*)
+
+***unité de négociation*** Groupe de fonctionnaires dont la Commission a déclaré qu’il constitue une unité habile à négocier collectivement. (*bargaining unit*)
+
+***vice-président*** Un vice-président de la Commission. (*Vice-Chairperson*)
 
 **Maintien du statut**
 
@@ -132,17 +142,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 - **(3)** Il est entendu que n’est pas considérée comme un fonctionnaire :
-	- **a)** la personne dont les services sont retenus en vertu de l’article 30 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique;
+	- **a)** la personne dont les services sont retenus en vertu de l’article 30 de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md);
 	- **b)** la personne dont la rétribution pour l’exercice des fonctions normales de son poste ou de sa charge consiste en honoraires ou dépend des recettes du bureau où elle est employée.
 
 **Emploi à titre occasionnel**
 
-- **(4)** Pour l’application de l’alinéa f) de la définition de ***fonctionnaire*** au paragraphe (1), la personne employée dans la partie de la fonction publique dans laquelle les nominations relèvent exclusivement de la Commission de la fonction publique est une personne employée à titre occasionnel si elle a été nommée en vertu de l’article 50 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **(4)** Pour l’application de l’alinéa f) de la définition de fonctionnaire au paragraphe (1) et de l’alinéa e) de la définition de ce terme au paragraphe 206(1), la personne employée dans la partie de la fonction publique dans laquelle les nominations relèvent exclusivement de la Commission de la fonction publique est une personne employée à titre occasionnel si elle a été nommée en vertu de l’article 50 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
 
 **Mention des titulaires des postes**
 
 - **(5)** La mention du titulaire d’un poste — ainsi que toute mention équivalente — vaut également mention de l’intérimaire ou de toute autre personne qui assume la totalité ou l’essentiel des attributions du poste; de même, la mention d’un poste vaut mention du poste occupé par une telle personne.
-> 2003, ch. 22, art. 2 « 2 » et 243; 2013, ch. 40, art. 366; 2014, ch. 20, art. 472 et 481.
+
+**Mention d’organisation syndicale**
+
+- **(6)** Sauf indication contraire du contexte, la mention de organisation syndicale vaut mention de regroupement d’organisations syndicales et la mention de organisation syndicale visée à l’alinéa a) ou b), selon le cas, de la définition de ce terme au paragraphe 2(1) vaut mention d’un regroupement résultant de l’union de plusieurs organisations syndicales au sens de cet alinéa.
+> 2003, ch. 22, art. 2 « 2 » et 243; 2013, ch. 40, art. 366; 2014, ch. 20, art. 472 et 481; 2017, ch. 9, art. 3 et 56.
 
 
 
@@ -170,20 +184,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***commission de l’intérêt public*** Commission établie en vertu de la section 10.
+***commission de l’intérêt public*** Commission établie en vertu de la section 10. (*public interest commission*)
 
-***Conseil national mixte*** Le Conseil national mixte dont l’établissement a été autorisé par le décret C.P. 3676 du 16 mai 1944.
+***Conseil national mixte***[Abrogée, 2017, ch. 9, art. 4]
 
 ***entente sur les services essentiels***[Abrogée, 2013, ch. 40, art. 294]
 
-***médiateur*** Personne nommée à ce titre en vertu du paragraphe 108(1).
+***médiateur*** Personne nommée à ce titre en vertu du paragraphe 108(1). (*mediator*)
 
-***parties*** L’employeur et l’agent négociateur, dans le cas de négociations collectives, d’un arbitrage, de la conciliation ou d’un différend.
+***parties*** L’employeur et l’agent négociateur, dans le cas de négociations collectives, d’un arbitrage, de la conciliation ou d’un différend. (*parties*)
 
-***services essentiels*** Services, installations ou activités de l’État fédéral qui, aux termes d’une décision prise en vertu du paragraphe 119(1), sont essentiels.  
+***services essentiels*** Services, installations ou activités de l’État fédéral qui, aux termes d’une décision prise en vertu du paragraphe 119(1), sont essentiels. (*essential service*)
 
 - **(2)** [Abrogé, 2013, ch. 40, art. 294]
-> 2003, ch. 22, art. 2 « 4 »; 2013, ch. 40, art. 294.
+> 2003, ch. 22, art. 2 « 4 »; 2013, ch. 40, art. 294; 2017, ch. 9, art. 4.
 
 
 
@@ -216,6 +230,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien du droit de l’employeur**
 
 **7** La présente loi n’a pas pour effet de porter atteinte au droit ou à l’autorité du Conseil du Trésor ou d’un organisme distinct quant à l’organisation de tout secteur de l’administration publique fédérale à l’égard duquel il représente Sa Majesté du chef du Canada à titre d’employeur, à l’attribution des fonctions aux postes et aux personnes employées dans un tel secteur et à la classification de ces postes et personnes.
+
+
+
+
+**Maintien du droit du commissaire de la Gendarmerie royale du Canada**
+
+**7.1** La présente loi n’a pas pour effet de porter atteinte au droit ou à l’autorité du commissaire de la Gendarmerie royale du Canada qui lui sont conférés sous le régime de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) afin d’assurer des opérations policières efficaces.
+> 2017, ch. 9, art. 4.1.
+
 
 
 
@@ -264,7 +287,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 4** 
-### Commission des relations de travail et de l’emploi dans la fonction publique
+### Commission des relations de travail et de l’emploi dans le secteur public fédéral
 
 
 
@@ -279,8 +302,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Services d’arbitrage**
 
-**13** La Commission offre des services d’arbitrage comprenant l’audition des demandes et des plaintes au titre de la présente partie, le renvoi des griefs à l’arbitrage au titre de la partie 2 ainsi que l’instruction des affaires dont elle est saisie au titre de la partie 3.
-> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295 et 367.
+**13** La Commission offre des services d’arbitrage comprenant l’audition des demandes et des plaintes au titre de la présente partie et de la section 1 de la partie 2.1, le renvoi des griefs à l’arbitrage au titre de la partie 2 et de la section 2 de la partie 2.1 ainsi que l’instruction des affaires dont elle est saisie au titre de la partie 3.
+> 2003, ch. 22, art. 2 « 13 »; 2013, ch. 40, art. 295 et 367; 2017, ch. 9, art. 5.
 
 
 
@@ -422,8 +445,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** la preuve de l’adhésion de fonctionnaires à une organisation syndicale,
 	- **(ii)** la preuve de l’opposition des fonctionnaires à l’accréditation d’une organisation syndicale,
 	- **(iii)** la preuve de l’expression de la volonté de ces fonctionnaires de ne plus être représentés par une organisation syndicale;
-- **m)** toute mesure utile ou connexe à la réalisation des objets de la présente partie.
-> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297 et 368.
+- **m)** toute mesure utile ou connexe à la réalisation des objets de la présente partie ou de la section 1 de la partie 2.1.
+> 2003, ch. 22, art. 2 « 39 »; 2013, ch. 40, art. 297 et 368; 2017, ch. 9, art. 6.
 
 
 
@@ -512,7 +535,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit de demander l’accréditation**
 
-**54** Sous réserve de l’article 55, toute organisation syndicale peut solliciter son accréditation comme agent négociateur pour un groupe de fonctionnaires qui, selon elle, constitue une unité habile à négocier collectivement. Elle doit alors faire la demande à la Commission en conformité avec les règlements et celle-ci avise l’employeur de la demande sans délai.
+**54** Sous réserve de l’article 55, toute organisation syndicale, au sens de l’alinéa a) de la définition de ce terme au paragraphe 2(1), peut solliciter son accréditation comme agent négociateur pour un groupe de fonctionnaires qui, selon elle, constitue une unité habile à négocier collectivement. Elle doit alors faire la demande à la Commission en conformité avec les règlements et celle-ci avise l’employeur de la demande sans délai.
+> 2003, ch. 22, art. 2 « 54 »; 2017, ch. 9, art. 7.
+
 
 
 
@@ -541,9 +566,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Maintien des conditions d’emploi**
 
-**56** Après notification d’une demande d’accréditation faite en conformité avec la présente partie, l’employeur ne peut modifier les conditions d’emploi applicables aux fonctionnaires de l’unité de négociation proposée et pouvant figurer dans une convention collective, sauf si les modifications se font conformément à une convention collective ou sont approuvées par la Commission. Cette interdiction s’applique, selon le cas :
+**56** Après notification d’une demande d’accréditation faite en conformité avec la présente partie ou la section 1 de la partie 2.1, l’employeur ne peut modifier les conditions d’emploi applicables aux fonctionnaires de l’unité de négociation proposée et pouvant figurer dans une convention collective, sauf si les modifications se font conformément à une convention collective ou sont approuvées par la Commission. Cette interdiction s’applique, selon le cas :
 - **a)** jusqu’au retrait de la demande par l’organisation syndicale ou au rejet de celle-ci par la Commission;
 - **b)** jusqu’à l’expiration du délai de trente jours suivant la date d’accréditation de l’organisation syndicale.
+> 2003, ch. 22, art. 2 « 56 »; 2017, ch. 9, art. 8.
+
 
 
 
@@ -588,12 +615,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **59** 
 
-- **(1)** Après notification d’une demande d’accréditation faite en conformité avec la présente partie, l’employeur peut présenter une demande à la Commission pour qu’elle déclare, par ordonnance, que l’un ou l’autre des postes visés par la demande d’accréditation est un poste de direction ou de confiance pour le motif qu’il correspond à l’un des postes suivants :
+- **(1)** Après notification d’une demande d’accréditation faite en conformité avec la présente partie ou la section 1 de la partie 2.1, l’employeur peut présenter une demande à la Commission pour qu’elle déclare, par ordonnance, que l’un ou l’autre des postes visés par la demande d’accréditation est un poste de direction ou de confiance pour le motif qu’il correspond à l’un des postes suivants :
 	- **a)** poste de confiance occupé auprès du gouverneur général, d’un ministre fédéral, d’un juge de la Cour suprême du Canada, de la Cour d’appel fédérale, de la Cour fédérale ou de la Cour canadienne de l’impôt, ou d’un administrateur général;
 	- **b)** poste classé par l’employeur dans le groupe de la direction, quelle qu’en soit la dénomination;
 	- **c)** poste dont le titulaire dispense des avis sur les relations de travail, la dotation en personnel ou la classification;
 	- **d)** poste dont le titulaire a des attributions l’amenant à participer, dans une proportion notable, à l’élaboration d’orientations ou de programmes du gouvernement du Canada;
-	- **e)** poste dont le titulaire exerce, dans une proportion notable, des attributions de gestion à l’égard de fonctionnaires ou des attributions l’amenant à s’occuper officiellement, pour le compte de l’employeur, de griefs présentés selon la procédure établie en application de la partie 2;
+	- **e)** poste dont le titulaire exerce, dans une proportion notable, des attributions de gestion à l’égard de fonctionnaires ou des attributions l’amenant à s’occuper officiellement, pour le compte de l’employeur, de griefs présentés selon la procédure établie en application de la partie 2 ou de la section 2 de la partie 2.1;
 	- **f)** poste dont le titulaire participe directement aux négociations collectives pour le compte de l’employeur;
 	- **g)** poste dont le titulaire, bien que ses attributions ne soient pas mentionnées au présent paragraphe, ne doit pas faire partie d’une unité de négociation pour des raisons de conflits d’intérêts ou en raison de ses fonctions auprès de l’employeur;
 	- **h)** poste de confiance occupé, en matière de relations de travail, auprès des titulaires des postes visés aux alinéas b), c), d) et f).
@@ -601,7 +628,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contenu de la demande**
 
 - **(2)** La demande de l’employeur mentionne tous les postes qu’il considère comme des postes visés à l’un ou l’autre des alinéas (1)a) à h).
-> 2003, ch. 22, art. 2 « 59 » et 275.
+> 2003, ch. 22, art. 2 « 59 » et 275; 2017, ch. 9, art. 9.
 
 
 
@@ -653,7 +680,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **64** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, la Commission accrédite comme agent négociateur d’une unité de négociation l’organisation syndicale qui sollicite l’accréditation si elle est convaincue que, sur le fondement des résultats d’un scrutin de représentation secret, la majorité des fonctionnaires de l’unité de négociation proposée qui ont participé au scrutin souhaitent que l’organisation syndicale les représente à titre d’agent négociateur.
+- **(1)** Sous réserve des autres dispositions de la présente partie et de la section 1 de la partie 2.1, la Commission accrédite comme agent négociateur d’une unité de négociation l’organisation syndicale qui sollicite l’accréditation si elle est convaincue que, sur le fondement des résultats d’un scrutin de représentation secret, la majorité des fonctionnaires de l’unité de négociation proposée qui ont participé au scrutin souhaitent que l’organisation syndicale les représente à titre d’agent négociateur.
 
 **Tenue d’un scrutin**
 
@@ -669,7 +696,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Adhésion à un regroupement d’organisations syndicales**
 
 - **(3)** Pour l’application de l’alinéa (1)a), l’adhésion à une organisation syndicale membre d’un regroupement d’organisations syndicales vaut adhésion au regroupement.
-> 2003, ch. 22, art. 2 « 64 »; 2014, ch. 40, art. 9.
+> 2003, ch. 22, art. 2 « 64 »; 2014, ch. 40, art. 9; 2017, ch. 9, art. 10.
 
 
 
@@ -755,6 +782,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Unités correspondant aux groupes professionnels**
 
 - **(2)** La Commission est tenue de définir des unités correspondant aux groupes ou sous-groupes professionnels établis par l’employeur, sauf dans le cas où elles ne constitueraient pas des unités habiles à négocier collectivement au motif qu’elles ne permettraient pas une représentation adéquate des fonctionnaires qui en font partie.
+
+**Réserve**
+
+- **(3)** Malgré le paragraphe (1), la Commission ne peut réviser la structure de l’unité de négociation définie à l’article 238.14.
+> 2003, ch. 22, art. 2 « 70 »; 2017, ch. 9, art. 11.
+
 
 
 
@@ -869,12 +902,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Détermination des droits, privilèges, etc.**
 
-- **(2)** Dans les cas de tels fusions ou transferts, la Commission, sur demande de l’employeur ou de toute personne ou organisation syndicale intéressée, détermine les droits, privilèges et obligations dévolus à l’organisation syndicale en cause sous le régime de la présente partie, d’une convention collective ou d’une décision arbitrale à l’égard d’une unité de négociation ou d’un fonctionnaire en faisant partie.
+- **(2)** Dans les cas de tels fusions ou transferts, la Commission, sur demande de l’employeur ou de toute personne ou organisation syndicale intéressée, détermine les droits, privilèges et obligations dévolus à l’organisation syndicale en cause sous le régime de la présente partie ou de la section 1 de la partie 2.1, d’une convention collective ou d’une décision arbitrale à l’égard d’une unité de négociation ou d’un fonctionnaire en faisant partie.
 
 **Enquêtes et scrutin**
 
 - **(3)** La Commission peut, avant de rendre sa décision, faire des enquêtes et ordonner la tenue d’un scrutin de représentation parmi les fonctionnaires concernés. Le paragraphe 65(2) s’applique à la tenue du scrutin.
-> 2003, ch. 22, art. 2 « 79 »; 2013, ch. 40, art. 300.
+> 2003, ch. 22, art. 2 « 79 »; 2013, ch. 40, art. 300; 2017, ch. 9, art. 12.
 
 
 
@@ -1087,9 +1120,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** À la demande de l’employeur ou de toute organisation syndicale faisant ou ayant fait partie d’un regroupement accrédité comme agent négociateur, la Commission révoque l’accréditation de celui-ci si elle arrive à la conclusion qu’il ne remplit plus les conditions d’accréditation fixées par l’alinéa 64(1)c).
 
-**Application des art. 94 à 99**
+**Circonstances additionnelles**
 
-- **(2)** Les circonstances de révocation prévues aux articles 94 à 99 s’appliquent aussi dans le cas d’un regroupement d’organisations syndicales.
+- **(2)** Les circonstances de révocation prévues aux articles 94 à 99 et 238.17 s’appliquent aussi dans le cas d’un regroupement d’organisations syndicales.
+> 2003, ch. 22, art. 2 « 100 »; 2017, ch. 9, art. 13.
+
 
 
 
@@ -1105,8 +1140,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Détermination des droits de l’agent négociateur**
 
-- **(2)** Sur demande de l’une ou l’autre des organisations syndicales en cause, la Commission tranche toute question relative aux droits et obligations de l’agent négociateur dont elle vient de révoquer l’accréditation au titre des articles 96, 98, 99 ou 100 ou, le cas échéant, de l’organisation syndicale substituée à l’agent négociateur en vertu de l’alinéa 67c).
-> 2003, ch. 22, art. 2 « 101 »; 2013, ch. 40, art. 301.
+- **(2)** Sur demande de l’une ou l’autre des organisations syndicales en cause, la Commission tranche toute question relative aux droits et obligations de l’agent négociateur dont elle vient de révoquer l’accréditation au titre de l’article 96, de l’un des articles 98 à 100 ou de l’article 238.17 ou, le cas échéant, de l’organisation syndicale substituée à l’agent négociateur en vertu de l’alinéa 67c).
+> 2003, ch. 22, art. 2 « 101 »; 2013, ch. 40, art. 301; 2017, ch. 9, art. 14.
 
 
 
@@ -1295,9 +1330,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Réserves**
 
-**113** La convention collective ne peut avoir pour effet direct ou indirect de modifier, supprimer ou établir :
+**113** La convention collective qui régit une unité de négociation qui n’est pas définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir :
 - **a)** une condition d’emploi de manière que cela nécessiterait l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
 - **b)** une condition d’emploi qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md).
+> 2003, ch. 22, art. 2 « 113 »; 2017, ch. 9, art. 15.
+
 
 
 
@@ -1308,7 +1345,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Caractère obligatoire de la convention**
 
-**114** Pour l’application de la présente partie et sous réserve des autres dispositions de celle-ci, la convention collective lie l’employeur, l’agent négociateur et les fonctionnaires de l’unité de négociation à compter de la date de son entrée en vigueur. Elle lie aussi, à compter de cette date, tout administrateur général responsable d’un secteur de l’administration publique fédérale dont font partie des fonctionnaires de l’unité de négociation, dans la mesure où elle porte sur des questions prévues à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+**114** Pour l’application de la présente partie et de la section 1 de la partie 2.1 et sous réserve des autres dispositions de la présente partie et de cette section, la convention collective lie l’employeur, l’agent négociateur et les fonctionnaires de l’unité de négociation à compter de la date de son entrée en vigueur. Elle lie aussi, à compter de cette date, tout administrateur général responsable d’un secteur de l’administration publique fédérale dont font partie des fonctionnaires de l’unité de négociation, dans la mesure où elle porte sur des questions prévues à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2003, ch. 22, art. 2 « 114 »; 2017, ch. 9, art. 16.
+
 
 
 
@@ -1647,11 +1686,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **144** 
 
-- **(1)** Sous réserve de l’article 150, dès la constitution du conseil d’arbitrage, le président lui renvoie les questions en litige.
+- **(1)** Sous réserve des articles 150 et 238.22, dès la constitution du conseil d’arbitrage, le président lui renvoie les questions en litige.
 
 **Entente ultérieure**
 
 - **(2)** Toute question renvoyée à l’arbitrage est réputée ne pas l’avoir été et ne peut faire l’objet de la décision arbitrale dans le cas où, avant qu’une telle décision n’ait été rendue, les parties arrivent à s’entendre et concluent une convention collective réglant la question.
+> 2003, ch. 22, art. 2 « 144 »; 2017, ch. 9, art. 17.
+
 
 
 
@@ -1684,12 +1725,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **147** 
 
-- **(1)** Le conseil d’arbitrage est investi de tous les pouvoirs de la Commission prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20a) et d) à f) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+- **(1)** Le conseil d’arbitrage est investi de tous les pouvoirs de la Commission prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20a) et d) à f) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md).
 
 **Délégation**
 
-- **(2)** Le conseil d’arbitrage peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique et assortir ou non cette délégation d’une obligation de faire rapport.
-> 2003, ch. 22, art. 2 « 147 »; 2013, ch. 40, art. 371.
+- **(2)** Le conseil d’arbitrage peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) et assortir ou non cette délégation d’une obligation de faire rapport.
+> 2003, ch. 22, art. 2 « 147 »; 2013, ch. 40, art. 371; 2017, ch. 9, art. 56.
 
 
 
@@ -1743,7 +1784,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **150** 
 
-- **(1)** La décision arbitrale ne peut avoir pour effet direct ou indirect de modifier, supprimer ou établir une condition d’emploi :
+- **(1)** La décision arbitrale qui régit une unité de négociation qui n’est pas définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir une condition d’emploi :
 	- **a)** soit de manière à nécessiter ou entraîner l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
 	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
 	- **c)** soit qui porte sur des normes, procédures ou méthodes régissant la nomination, l’évaluation, l’avancement, la mutation, le renvoi en cours de stage ou la mise en disponibilité des fonctionnaires;
@@ -1753,6 +1794,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Questions exclues**
 
 - **(2)** Sont exclues du champ de la décision arbitrale les conditions d’emploi n’ayant pas fait l’objet de négociations entre les parties avant que ne soit demandé l’arbitrage.
+> 2003, ch. 22, art. 2 « 150 »; 2017, ch. 9, art. 18.
+
 
 
 
@@ -1792,7 +1835,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet obligatoire**
 
-**154** Dans le cadre de la présente partie, la décision arbitrale lie l’employeur et l’agent négociateur qui y sont parties, ainsi que les fonctionnaires de l’unité de négociation à l’égard de laquelle l’agent négociateur a été accrédité, à compter de la date à laquelle elle a été rendue. Elle lie aussi, à compter de cette date, tout administrateur général responsable d’un secteur de l’administration publique fédérale dont font partie des fonctionnaires de l’unité de négociation, dans la mesure où elle porte sur des questions prévues à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+**154** Dans le cadre de la présente partie et de la section 1 de la partie 2.1, la décision arbitrale lie l’employeur et l’agent négociateur qui y sont parties, ainsi que les fonctionnaires de l’unité de négociation à l’égard de laquelle l’agent négociateur a été accrédité, à compter de la date à laquelle elle a été rendue. Elle lie aussi, à compter de cette date, tout administrateur général responsable d’un secteur de l’administration publique fédérale dont font partie des fonctionnaires de l’unité de négociation, dans la mesure où elle porte sur des questions prévues à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2003, ch. 22, art. 2 « 154 »; 2017, ch. 9, art. 19.
+
 
 
 
@@ -1865,11 +1910,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **158.1** 
 
-- **(1)** Le président peut, dans les sept jours suivant la date de la décision arbitrale, ordonner au conseil d’arbitrage de réexaminer tout ou partie de sa décision arbitrale s’il est d’avis que la décision ou la partie en cause ne représente pas une application raisonnable des facteurs visés à l’article 148 qui soit fondée sur un examen complet des observations écrites soumises au conseil d’arbitrage.
+- **(1)** Le président peut, dans les sept jours suivant la date de la décision arbitrale, ordonner au conseil d’arbitrage de réexaminer tout ou partie de sa décision arbitrale s’il est d’avis que la décision ou la partie en cause ne représente pas une application raisonnable des facteurs visés à l’article 148 et, s’il y a lieu, du facteur visé à l’article 238.21, qui soit fondée sur un examen complet des observations écrites soumises au conseil d’arbitrage.
 
 **Réexamen sur demande des parties**
 
-- **(2)** Sur demande de l’une ou l’autre des parties à la décision arbitrale présentée dans les sept jours suivant la date de la décision arbitrale, le président peut, dans les sept jours suivant la date de la demande, ordonner au conseil d’arbitrage de réexaminer tout ou partie de sa décision s’il est d’avis que la décision ou toute partie de celle-ci ne représente pas une application raisonnable des facteurs visés à l’article 148 qui soit fondée sur un examen complet des observations écrites soumises au conseil d’arbitrage.
+- **(2)** Sur demande de l’une ou l’autre des parties à la décision arbitrale présentée dans les sept jours suivant la date de la décision arbitrale, le président peut, dans les sept jours suivant la date de la demande, ordonner au conseil d’arbitrage de réexaminer tout ou partie de sa décision s’il est d’avis que la décision ou toute partie de celle-ci ne représente pas une application raisonnable des facteurs visés à l’article 148, et, s’il y a lieu, du facteur visé à l’article 238.21, qui soit fondée sur un examen complet des observations écrites soumises au conseil d’arbitrage.
 
 **Confirmation ou modification**
 
@@ -1882,7 +1927,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(5)** Il est entendu que le pouvoir du conseil d’arbitrage de modifier la décision arbitrale est limité à ce qui touche les questions en litige qui lui ont été renvoyées originellement.
-> 2013, ch. 40, art. 310.
+> 2013, ch. 40, art. 310; 2017, ch. 9, art. 20.
 
 
 
@@ -2115,12 +2160,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **174** 
 
-- **(1)** La commission de l’intérêt public est investie de tous les pouvoirs de la Commission prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20a) et d) à f) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+- **(1)** La commission de l’intérêt public est investie de tous les pouvoirs de la Commission prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20a) et d) à f) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md).
 
 **Délégation**
 
-- **(2)** La commission de l’intérêt public peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique et assortir ou non cette délégation d’une obligation de faire rapport.
-> 2003, ch. 22, art. 2 « 174 »; 2013, ch. 40, art. 372.
+- **(2)** La commission de l’intérêt public peut déléguer les pouvoirs prévus aux alinéas 16c) et d) de la présente loi et aux alinéas 20d) et e) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) et assortir ou non cette délégation d’une obligation de faire rapport.
+> 2003, ch. 22, art. 2 « 174 »; 2013, ch. 40, art. 372; 2017, ch. 9, art. 56.
 
 
 
@@ -2333,23 +2378,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **186** 
 
-- **(1)** Il est interdit à l’employeur et au titulaire d’un poste de direction ou de confiance, qu’il agisse ou non pour le compte de l’employeur :
+- **(1)** Il est interdit à l’employeur ainsi qu’au titulaire d’un poste de direction ou de confiance, à l’officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou à la personne qui occupe un poste détenu par un tel officier, qu’ils agissent ou non pour le compte de l’employeur :
 	- **a)** de participer à la formation ou à l’administration d’une organisation syndicale ou d’intervenir dans l’une ou l’autre ou dans la représentation des fonctionnaires par celle-ci;
 	- **b)** de faire des distinctions illicites à l’égard de toute organisation syndicale.
 
 **Pratiques déloyales par l’employeur**
 
-- **(2)** Il est interdit à l’employeur, à la personne qui agit pour le compte de celui-ci et au titulaire d’un poste de direction ou de confiance, que ce dernier agisse ou non pour le compte de l’employeur :
-	- **a)** de refuser d’employer ou de continuer à employer une personne donnée, ou encore de la suspendre, de la mettre en disponibilité, ou de faire à son égard des distinctions illicites en matière d’emploi, de salaire ou d’autres conditions d’emploi, de l’intimider, de la menacer ou de prendre d’autres mesures disciplinaires à son égard pour l’un ou l’autre des motifs suivants :
+- **(2)** Il est interdit à l’employeur, à la personne qui agit pour le compte de celui-ci ainsi qu’au titulaire d’un poste de direction ou de confiance, à l’officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) ou à la personne qui occupe un poste détenu par un tel officier, qu’ils agissent ou non pour le compte de l’employeur :
+	- **a)** de refuser d’employer ou de continuer à employer une personne donnée, ou encore de la suspendre, de la mettre en disponibilité, de la licencier par mesure d’économie ou d’efficacité à la Gendarmerie royale du Canada ou de faire à son égard des distinctions illicites en matière d’emploi, de salaire ou d’autres conditions d’emploi, de l’intimider, de la menacer ou de prendre d’autres mesures disciplinaires à son égard pour l’un ou l’autre des motifs suivants :
 		- **(i)** elle adhère à une organisation syndicale ou en est un dirigeant ou représentant — ou se propose de le faire ou de le devenir, ou incite une autre personne à le faire ou à le devenir —, ou contribue à la formation, la promotion ou l’administration d’une telle organisation,
-		- **(ii)** elle a participé, à titre de témoin ou autrement, à toute procédure prévue par la présente partie ou la partie 2, ou pourrait le faire,
-		- **(iii)** elle a soit présenté une demande ou déposé une plainte sous le régime de la présente partie, soit déposé un grief sous le régime de la partie 2,
-		- **(iv)** elle a exercé tout droit prévu par la présente partie ou la partie 2;
-	- **b)** d’imposer — ou de proposer d’imposer —, à l’occasion d’une nomination ou relativement aux conditions d’emploi, une condition visant à empêcher le fonctionnaire ou la personne cherchant un emploi d’adhérer à une organisation syndicale ou d’exercer tout droit que lui accorde la présente partie ou la partie 2;
+		- **(ii)** elle a participé, à titre de témoin ou autrement, à toute procédure prévue par la présente partie ou les parties 2 ou 2.1, ou pourrait le faire,
+		- **(iii)** elle a soit présenté une demande ou déposé une plainte sous le régime de la présente partie ou de la section 1 de la partie 2.1, soit déposé un grief sous le régime de la partie 2 ou de la section 2 de la partie 2.1,
+		- **(iv)** elle a exercé tout droit prévu par la présente partie ou les parties 2 ou 2.1;
+	- **b)** d’imposer — ou de proposer d’imposer —, à l’occasion d’une nomination ou relativement aux conditions d’emploi, une condition visant à empêcher le fonctionnaire ou la personne cherchant un emploi d’adhérer à une organisation syndicale ou d’exercer tout droit que lui accorde la présente partie ou les parties 2 ou 2.1;
 	- **c)** de chercher, notamment par intimidation, par menace de congédiement ou par l’imposition de sanctions pécuniaires ou autres, à obliger une personne soit à s’abstenir ou à cesser d’adhérer à une organisation syndicale ou d’occuper un poste de dirigeant ou de représentant syndical, soit à s’abstenir :
-		- **(i)** de participer, à titre de témoin ou autrement, à une procédure prévue par la présente partie ou la partie 2,
-		- **(ii)** de révéler des renseignements qu’elle peut être requise de communiquer dans le cadre d’une procédure prévue par la présente partie ou la partie 2,
-		- **(iii)** de présenter une demande ou de déposer une plainte sous le régime de la présente partie ou de déposer un grief sous le régime de la partie 2.
+		- **(i)** de participer, à titre de témoin ou autrement, à une procédure prévue par la présente partie ou les parties 2 ou 2.1,
+		- **(ii)** de révéler des renseignements qu’elle peut être requise de communiquer dans le cadre d’une procédure prévue par la présente partie ou les parties 2 ou 2.1,
+		- **(iii)** de présenter une demande ou de déposer une plainte sous le régime de la présente partie ou de la section 1 de la partie 2.1 ou de déposer un grief sous le régime de la partie 2 ou de la section 2 de la partie 2.1.
 
 **Exception**
 
@@ -2360,7 +2405,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(4)** L’employeur ou le titulaire d’un poste de direction ou de confiance n’enfreint pas l’alinéa (1)b) dans le cas où :
-	- **a)** il agit en conformité avec la présente partie, un règlement, une convention collective ou une décision arbitrale;
+	- **a)** il agit en conformité avec la présente partie ou la section 1 de la partie 2.1, un règlement, une convention collective ou une décision arbitrale;
 	- **b)** il ne fait que recevoir les observations des représentants d’une organisation syndicale ou qu’avoir des discussions avec eux.
 
 **Exception**
@@ -2369,7 +2414,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(6)** Aucune action ou omission ne saurait constituer un manquement à l’un des alinéas (1)a) et b) et (2)a) à c) si elle vise le titulaire d’un poste de direction ou de confiance ou la personne proposée pour un tel poste.
+- **(6)** Aucune action ou omission ne saurait constituer un manquement à l’un des alinéas (1)a) et b) et (2)a) à c) si elle vise le titulaire d’un poste de direction ou de confiance, la personne proposée pour un tel poste, l’officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou la personne qui occupe un poste détenu par un tel officier.
+> 2003, ch. 22, art. 2 « 186 »; 2017, ch. 9, art. 21.
+
 
 
 
@@ -2387,11 +2434,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** sans consentement de l’employeur, de tenter, sur le lieu de travail d’un fonctionnaire et pendant les heures de travail de celui-ci, de l’amener à adhérer ou continuer d’adhérer, ou à s’abstenir ou cesser d’adhérer à une organisation syndicale;
 - **b)** d’expulser un fonctionnaire de l’organisation syndicale ou de le suspendre, ou de lui refuser l’adhésion, en appliquant d’une manière discriminatoire les règles de l’organisation syndicale relatives à l’adhésion;
 - **c)** de prendre des mesures disciplinaires contre un fonctionnaire ou de lui imposer une sanction quelconque en appliquant d’une manière discriminatoire les normes de discipline de l’organisation syndicale;
-- **d)** d’expulser un fonctionnaire de l’organisation syndicale, de le suspendre, de prendre contre lui des mesures disciplinaires ou de lui imposer une sanction quelconque parce qu’il a exercé un droit prévu par la présente partie ou la partie 2 ou qu’il a refusé d’accomplir un acte contraire à la présente partie;
+- **d)** d’expulser un fonctionnaire de l’organisation syndicale, de le suspendre, de prendre contre lui des mesures disciplinaires ou de lui imposer une sanction quelconque parce qu’il a exercé un droit prévu par la présente partie ou les parties 2 ou 2.1 ou qu’il a refusé d’accomplir un acte contraire à la présente partie ou à la section 1 de la partie 2.1;
 - **e)** de faire des distinctions illicites à l’égard d’une personne en matière d’adhésion à une organisation syndicale, d’user de menaces ou de coercition à son égard ou de lui imposer une sanction, pécuniaire ou autre, pour l’un ou l’autre des motifs suivants :
-	- **(i)** elle a participé, à titre de témoin ou autrement, à une procédure prévue par la présente partie ou la partie 2, ou pourrait le faire,
-	- **(ii)** elle a soit présenté une demande ou déposé une plainte sous le régime de la présente partie, soit déposé un grief sous le régime de la partie 2,
-	- **(iii)** elle a exercé un droit prévu par la présente partie ou la partie 2.
+	- **(i)** elle a participé, à titre de témoin ou autrement, à une procédure prévue par la présente partie ou les parties 2 ou 2.1, ou pourrait le faire,
+	- **(ii)** elle a soit présenté une demande ou déposé une plainte sous le régime de la présente partie ou de la section 1 de la partie 2.1, soit déposé un grief sous le régime de la partie 2 ou de la section 2 de la partie 2.1,
+	- **(iii)** elle a exercé un droit prévu par la présente partie ou les parties 2 ou 2.1.
+> 2003, ch. 22, art. 2 « 188 »; 2017, ch. 9, art. 22.
+
 
 
 
@@ -2402,11 +2451,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sous réserve du paragraphe (2), il est interdit à quiconque de chercher, par menace ou mesures coercitives, à obliger un fonctionnaire :
 	- **a)** à adhérer ou à s’abstenir ou cesser d’adhérer à une organisation syndicale, ou encore, sauf disposition contraire dans une convention collective, à continuer d’y adhérer;
-	- **b)** à s’abstenir d’exercer tout autre droit qu’accorde la présente partie ou la partie 2.
+	- **b)** à s’abstenir d’exercer tout autre droit qu’accorde la présente partie ou les parties 2 ou 2.1.
 
 **Exception**
 
-- **(2)** Aucune action ou omission ne saurait constituer une pratique déloyale visée au paragraphe (1) si elle vise le titulaire d’un poste de direction ou de confiance ou la personne proposée pour un tel poste.
+- **(2)** Aucune action ou omission ne saurait constituer une pratique déloyale visée au paragraphe (1) si elle vise le titulaire d’un poste de direction ou de confiance, la personne proposée pour un tel poste, l’officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou la personne qui occupe un poste détenu par un tel officier.
+> 2003, ch. 22, art. 2 « 189 »; 2017, ch. 9, art. 23.
+
 
 
 
@@ -2461,11 +2512,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Refus de statuer sur certaines plaintes**
 
-- **(2)** La Commission peut refuser de statuer sur la plainte si elle estime que le plaignant pourrait renvoyer l’affaire à l’arbitrage sous le régime de la partie 2.
+- **(2)** La Commission peut refuser de statuer sur la plainte si elle estime que le plaignant pourrait renvoyer l’affaire à l’arbitrage sous le régime de la partie 2 ou de la section 2 de la partie 2.1.
 
 **Charge de la preuve**
 
 - **(3)** La présentation par écrit, au titre du paragraphe 190(1), de toute plainte faisant état d’une contravention, par l’employeur ou la personne agissant pour son compte, du paragraphe 186(2), constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
+> 2003, ch. 22, art. 2 « 191 »; 2017, ch. 9, art. 24.
+
 
 
 
@@ -2492,7 +2545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne agissant pour le compte d’une organisation syndicale**
 
 - **(3)** Lorsqu’elle vise une personne qui a agi ou prétendu agir pour le compte d’une organisation syndicale, l’ordonnance est en outre adressée au dirigeant attitré de l’organisation.
-> 2003, ch. 22, art. 2 « 192 »; 2013, ch. 40, art. 321.
+> 2003, ch. 22, art. 2 « 192 »; 2013, ch. 40, art. 321; 2017, ch. 9, art. 25(A).
 
 
 
@@ -2652,6 +2705,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Interdiction de conseiller
+
+
+
+**Conseils relatifs à l’exercice des fonctions d’agent de la paix**
+
+**199.1** Il est interdit à toute organisation syndicale ainsi qu’à leurs dirigeants ou représentants de conseiller aux membres de la GRC ou aux réservistes de ne pas exercer leurs fonctions d’agent de la paix.
+> 2017, ch. 9, art. 26.
+
+
+
+
+
 #### Infractions et peines
 
 
@@ -2680,16 +2746,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’organisation syndicale qui contrevient aux paragraphes 194(1) ou (2) ou 197(3) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de mille dollars pour chaque jour de grève.
 
+**Organisation syndicale**
+
+- **(3)** L’organisation syndicale qui contrevient à l’article 199.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de dix mille dollars.
+
 **Poursuite d’une organisation syndicale**
 
-- **(3)** L’organisation syndicale peut être poursuivie sous son nom pour une infraction visée par les paragraphes (1) ou (2). Le cas échéant, elle est réputée être une personne.
+- **(4)** L’organisation syndicale peut être poursuivie sous son nom pour une infraction visée à l’un des paragraphes (1) à (3). Le cas échéant, elle est réputée être une personne.
+> 2003, ch. 22, art. 2 « 202 »; 2017, ch. 9, art. 27.
+
 
 
 
 
 **Dirigeants et représentants**
 
-**203** Le dirigeant ou représentant d’une organisation syndicale qui contrevient au paragraphe 194(1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de dix mille dollars.
+**203** Le dirigeant ou représentant d’une organisation syndicale qui contrevient au paragraphe 194(1) ou à l’article 199.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de dix mille dollars.
+> 2003, ch. 22, art. 2 « 203 »; 2017, ch. 9, art. 28.
+
 
 
 
@@ -2723,20 +2797,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***fonctionnaire*** S’entend au sens de la définition de ce terme au paragraphe 2(1), compte non tenu des exceptions prévues aux alinéas e), h) et i) de celle-ci et des mots « sauf à la partie 2 ».
+***fonctionnaire*** Personne employée dans la fonction publique, à l’exclusion de toute personne :
+- **a)** nommée par le gouverneur en conseil, en vertu d’une loi fédérale, à un poste prévu par cette loi;
+- **b)** recrutée sur place à l’étranger;
+- **c)** qui n’est pas ordinairement astreinte à travailler plus du tiers du temps normalement exigé des personnes exécutant des tâches semblables;
+- **d)** qui est un officier, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
+- **e)** employée à titre occasionnel;
+- **f)** employée pour une durée déterminée de moins de trois mois ou ayant travaillé à ce titre pendant moins de trois mois;
+- **g)** qui est un membre, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), et qui occupe un poste de direction ou de confiance;
+- **h)** employée dans le cadre d’un programme désigné par l’employeur comme un programme d’embauche des étudiants. (*employee*)
 
-***grief collectif*** Grief déposé conformément à l’article 215.
+***grief collectif*** Grief déposé conformément à l’article 215. (*group grievance*)
 
-***grief de principe*** Grief déposé conformément à l’article 220.
+***grief de principe*** Grief déposé conformément à l’article 220. (*policy grievance*)
 
-***grief individuel*** Grief déposé conformément à l’article 208.
+***grief individuel*** Grief déposé conformément à l’article 208 ou 238.24. (*individual grievance*)
 
 **Application aux anciens fonctionnaires**
 
 - **(2)** Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs aux anciens fonctionnaires en ce qui concerne :
 	- **a)** les mesures disciplinaires portant suspension, ou les licenciements, visés aux alinéas 12(1)c), d) ou e) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **b)** dans le cas d’un organisme distinct, les mesures disciplinaires portant suspension, ou les licenciements, visés aux alinéas 12(2)c) ou d) de cette loi ou à toute loi fédérale ou à tout texte d’application de celle-ci, concernant les attributions de l’organisme.
-> 2003, ch. 22, art. 2 « 206 »; 2014, ch. 20, art. 481.
+> 2003, ch. 22, art. 2 « 206 »; 2014, ch. 20, art. 481; 2017, ch. 9, art. 29.
 
 
 
@@ -2806,7 +2888,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **209** 
 
-- **(1)** Après l’avoir porté jusqu’au dernier palier de la procédure applicable sans avoir obtenu satisfaction, le fonctionnaire peut renvoyer à l’arbitrage tout grief individuel portant sur :
+- **(1)** Après l’avoir porté jusqu’au dernier palier de la procédure applicable sans avoir obtenu satisfaction, le fonctionnaire qui n’est pas un membre, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), peut renvoyer à l’arbitrage tout grief individuel portant sur :
 	- **a)** soit l’interprétation ou l’application, à son égard, de toute disposition d’une convention collective ou d’une décision arbitrale;
 	- **b)** soit une mesure disciplinaire entraînant le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire;
 	- **c)** soit, s’il est un fonctionnaire de l’administration publique centrale :
@@ -2821,6 +2903,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désignation**
 
 - **(3)** Le gouverneur en conseil peut par décret désigner, pour l’application de l’alinéa (1)d), tout organisme distinct.
+> 2003, ch. 22, art. 2 « 209 »; 2017, ch. 9, art. 30.
+
 
 
 
@@ -2871,7 +2955,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décision définitive et obligatoire**
 
-**214** Sauf dans le cas du grief individuel qui peut être renvoyé à l’arbitrage au titre de l’article 209, la décision rendue au dernier palier de la procédure applicable en la matière est définitive et obligatoire et aucune autre mesure ne peut être prise sous le régime de la présente loi à l’égard du grief en cause.
+**214** Sauf dans le cas du grief individuel qui peut être renvoyé à l’arbitrage au titre des articles 209 ou 238.25, la décision rendue au dernier palier de la procédure applicable en la matière est définitive et obligatoire et aucune autre mesure ne peut être prise sous le régime de la présente loi à l’égard du grief en cause.
+> 2003, ch. 22, art. 2 « 214 »; 2017, ch. 9, art. 31.
+
 
 
 
@@ -3092,7 +3178,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **226** 
 
-- **(1)** Pour instruire toute affaire dont il est saisi, l’arbitre de grief peut exercer les pouvoirs prévus à l’alinéa 16d) de la présente loi et aux articles 20 à 23 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+- **(1)** Pour instruire toute affaire dont il est saisi, l’arbitre de grief peut exercer les pouvoirs prévus à l’alinéa 16d) de la présente loi et aux articles 20 à 23 de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md).
 
 **Pouvoirs de l’arbitre de grief et de la Commission**
 
@@ -3100,7 +3186,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** interpréter et appliquer la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md), sauf les dispositions de cette loi sur le droit à la parité salariale pour l’exécution de fonctions équivalentes, ainsi que toute autre loi fédérale relative à l’emploi, même si la loi en cause entre en conflit avec une convention collective;
 	- **b)** rendre les ordonnances prévues à l’alinéa 53(2)e) ou au paragraphe 53(3) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md);
 	- **c)** dans le cas du grief portant sur le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire, adjuger des intérêts au taux et pour la période qu’ils estiment justifiés.
-> 2003, ch. 22, art. 2 « 226 »; 2013, ch. 40, art. 376.
+> 2003, ch. 22, art. 2 « 226 »; 2013, ch. 40, art. 376; 2017, ch. 9, art. 56.
 
 
 
@@ -3180,8 +3266,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Impossibilité de révision par un tribunal**
 
-**233** Les paragraphes 34(1) et (3) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique s’appliquent, avec les adaptations nécessaires, à la décision ou à l’ordonnance de l’arbitre de grief.
-> 2003, ch. 22, art. 2 « 233 »; 2013, ch. 40, art. 382.
+**233** Les paragraphes 34(1) et (3) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) s’appliquent, avec les adaptations nécessaires, à la décision ou à l’ordonnance de l’arbitre de grief.
+> 2003, ch. 22, art. 2 « 233 »; 2013, ch. 40, art. 382; 2017, ch. 9, art. 56.
 
 
 
@@ -3197,12 +3283,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application**
 
-- **(2)** L’article 35 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique ne s’applique pas aux ordonnances de la Commission visées au paragraphe (1).
+- **(2)** L’article 35 de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) ne s’applique pas aux ordonnances de la Commission visées au paragraphe (1).
 
 **Effet de l’enregistrement**
 
 - **(3)** En vue de son exécution, l’ordonnance, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
-> 2003, ch. 22, art. 2 « 234 »; 2013, ch. 40, art. 382.
+> 2003, ch. 22, art. 2 « 234 »; 2013, ch. 40, art. 382; 2017, ch. 9, art. 56.
 
 
 
@@ -3268,12 +3354,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** les circonstances permettant d’éliminer, pour leur présentation, tel ou tel palier inférieur ou intermédiaire;
 	- **f)** le mode et le délai de leur renvoi à l’arbitrage après leur présentation jusqu’au dernier palier inclusivement;
 	- **g)** l’établissement de règles de procédure pour leur audition;
-	- **h)** le délai d’envoi des avis et autres documents au titre de la présente partie, ainsi que leurs destinataires et la date où ils sont réputés avoir été donnés et reçus;
+	- **h)** le délai d’envoi des avis et autres documents au titre de la présente partie ou de la section 2 de la partie 2.1, ainsi que leurs destinataires et la date où ils sont réputés avoir été donnés et reçus;
 	- **i)** les modalités applicables aux avis donnés à la Commission canadienne des droits de la personne sous le régime de la présente partie.
 
 **Restriction à l’application des règlements**
 
 - **(2)** Les clauses d’une convention collective conclue à l’égard des fonctionnaires d’une unité de négociation par l’agent négociateur accrédité pour celle-ci et par l’employeur l’emportent sur les dispositions incompatibles des règlements pris en vertu du paragraphe (1) au sujet des griefs individuels, collectifs ou de principe.
+> 2003, ch. 22, art. 2 « 237 »; 2017, ch. 9, art. 32.
+
 
 
 
@@ -3283,6 +3371,603 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **238** La Commission peut, par règlement :
 - **a)** régir les modalités applicables à l’envoi de l’avis prévu au paragraphe 223(1) et le délai applicable à l’opposition prévue à l’alinéa 223(2)c);
 - **b)** le mode et le délai d’établissement des conseils d’arbitrage.
+
+
+
+
+**PARTIE 2.1** 
+## Dispositions particulières — Gendarmerie royale du Canada
+
+
+
+### Définitions et interprétation
+
+
+
+**Définition de Commissaire de la GRC**
+
+**238.01** 
+
+- **(1)** Dans la présente partie, ***Commissaire de la GRC*** s’entend du commissaire de la Gendarmerie royale du Canada.
+
+**Définition de membre de la GRC**
+
+- **(2)** À la section 2 de la présente partie, ***membre de la GRC*** s’entend d’un membre au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Incompatibilité**
+
+**238.02** 
+
+- **(1)** Les dispositions de la présente partie l’emportent sur les dispositions incompatibles des parties 1 et 2.
+
+**Précision sur l’incompatibilité**
+
+- **(2)** Pour l’application du paragraphe (1), sont notamment incompatibles avec la présente partie, l’article 58 et les paragraphes 208(1) et 209(1) et (2).
+
+**Précision**
+
+- **(3)** Il est entendu que :
+	- **a)** les dispositions de la partie 1, dans la mesure où elles sont applicables, s’appliquent aux fonctionnaires qui sont des membres de la GRC ou des réservistes, à moins d’indication contraire;
+	- **b)** les dispositions de la partie 2, dans la mesure où elles sont applicables, s’appliquent aux fonctionnaires qui sont des membres de la GRC, au sens du paragraphe 238.01(2), ou des réservistes, à moins d’indication contraire.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Maintien des droits**
+
+**238.03** La présente loi n’a pas pour effet de porter atteinte au droit ou à l’autorité du Conseil du Trésor quant à la détermination des catégories de membres, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Maintien des obligations**
+
+**238.04** La présente loi n’a pas pour effet de porter atteinte aux obligations des membres, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), ou des réservistes, qui ont qualité d’agent de la paix, notamment celles qui leur incombent sous le régime de cette loi.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+### Rôle unique de l’organisation policière
+
+
+
+**Obligation additionnelle de la Commission**
+
+**238.05** Lorsqu’elle met en oeuvre la présente loi et exerce les attributions que celle-ci lui confère ou qu’implique la réalisation de ses objets, notamment en rendant des ordonnances qui en exigent l’observation, celle des règlements pris sous son régime ou des décisions qu’elle rend sur les questions dont elle est saisie, la Commission doit, en ce qui touche les questions concernant les membres de la GRC et les réservistes, tenir compte, d’une part, du rôle unique de la Gendarmerie royale du Canada en tant qu’organisation policière à l’égard de la protection de la sécurité publique et de la sécurité nationale et, d’autre part, du besoin de celle-ci de procéder à des mutations de ses membres et de ses réservistes lorsqu’elle l’estime indiqué.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**SECTION 1** 
+### Relations de travail
+
+
+
+#### Ajournement d’une affaire
+
+
+
+**Atteinte à une enquête ou à une poursuite en cours**
+
+**238.06** 
+
+- **(1)** Sur demande du Commissaire de la GRC ou de l’employeur, la Commission ajourne toute affaire concernant une personne qui est ou était un membre de la GRC ou un réserviste et dont elle est saisie au titre de la présente section ou de la partie 1 si elle est convaincue que la poursuite de l’instruction porterait atteinte à toute enquête pénale ou à toute poursuite pénale ou civile en cours.
+
+**Durée maximale de l’ajournement**
+
+- **(2)** L’ajournement est d’une durée maximale de quatre-vingt-dix jours. Toutefois, le Commissaire de la GRC ou l’employeur peut demander plus d’un ajournement pour une même affaire.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Contrôle d’application, sécurité publique ou sécurité nationale
+
+
+
+**Opposition à la communication**
+
+**238.07** 
+
+- **(1)** Le Commissaire de la GRC peut, dans le cadre de toute question ou affaire dont la Commission est saisie au titre de la présente section ou de la partie 1 et qui concerne une personne qui est ou était un membre de la GRC ou un réserviste, s’opposer à la communication à la Commission ou à une partie de renseignements dont la communication, à son avis, aurait pour conséquence d’entraver le contrôle d’application des lois ou de porter atteinte à la sécurité publique ou à la sécurité nationale.
+
+**Avis d’opposition**
+
+- **(2)** S’il s’oppose à la communication de renseignements au titre du paragraphe (1), il donne dans les meilleurs délais à la Commission et aux parties, un avis écrit motivé de son opposition.
+
+**Non-application de certaines dispositions**
+
+- **(3)** Il peut s’opposer à la communication de renseignements au titre du paragraphe (1) malgré toute disposition de la présente loi ou de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) qui permettrait autrement à la Commission d’en exiger la communication.
+
+**Ancien juge**
+
+- **(4)** Lorsque le Commissaire de la GRC s’oppose à la communication de renseignements au titre du paragraphe (1), le ministre, sur demande écrite de la Commission ou d’une partie, nomme un ancien juge de la cour supérieure d’une province ou de la Cour fédérale pour examiner ces renseignements et rendre une ordonnance en vertu de l’article 238.08.
+
+**Serment du secret**
+
+- **(5)** L’ancien juge doit, à sa nomination, avoir une habilitation de sécurité délivrée par le gouvernement fédéral et prêter le serment du secret prévu par règlement.
+
+**Avis de nomination**
+
+- **(6)** Lorsqu’un ancien juge est nommé au titre du paragraphe (4), le ministre en avise la Commission, les parties et le Commissaire de la GRC. Ceux-ci disposent d’un délai de trente jours suivant l’envoi de l’avis pour présenter leurs observations à l’ancien juge ou d’un délai prolongé d’au plus trente jours accordé par celui-ci.
+
+**Droit d’accès de l’ancien juge**
+
+- **(7)** Aux fins d’examen, l’ancien juge a accès aux renseignements qui font l’objet d’une opposition au titre du paragraphe (1).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Ordonnance portant sur la communication**
+
+**238.08** 
+
+- **(1)** Sauf s’il conclut que la communication des renseignements qui font l’objet de l’opposition au titre du paragraphe 238.07(1) entraverait le contrôle d’application des lois ou porterait atteinte à la sécurité publique ou à la sécurité nationale, l’ancien juge ordonne le rejet de l’opposition du Commissaire de la GRC au titre de l’article 238.07 à la communication de ces renseignements.
+
+**Communication**
+
+- **(2)** Lorsqu’il conclut que la communication de tout ou partie de ces renseignements entraverait le contrôle d’application des lois ou porterait atteinte à la sécurité publique ou à la sécurité nationale, mais que les raisons d’intérêt public qui justifient la communication l’emportent sur les raisons d’intérêt public qui justifient la non-communication, l’ancien juge ordonne au Commissaire de la GRC, compte tenu des raisons d’intérêt public qui justifient la communication, de communiquer ces renseignements à la Commission ou à la partie, selon le cas, ou un résumé des renseignements ou un aveu écrit des faits qui y sont liés.
+
+**Confirmation du bien-fondé de l’opposition**
+
+- **(3)** Dans le cas où l’ancien juge ne rend pas d’ordonnance au titre du paragraphe (1) ou n’ordonne pas la communication au titre du paragraphe (2), il rend une ordonnance confirmant le bien-fondé de l’opposition du Commissaire de la GRC à la communication.
+
+**Délai**
+
+- **(4)** L’ancien juge rend son ordonnance dans les trente jours suivant l’expiration du délai prévu au paragraphe 238.07(6) ou dans un délai prolongé d’au plus trente jours accordé par le ministre.
+
+**Interdiction**
+
+- **(5)** Lorsqu’il rend son ordonnance, l’ancien juge ne peut formuler celle-ci d’une manière qui révèle ou permettrait de découvrir un renseignement qui ne peut pas être communiqué aux termes de ses conclusions.
+
+**Caractère définitif de l’ordonnance**
+
+- **(6)** L’ordonnance de l’ancien juge est définitive et exécutoire.
+
+**Révision**
+
+- **(7)** L’objection du Commissaire de la GRC n’est susceptible de révision que dans la mesure et selon les modalités prévues au présent article.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Immunité**
+
+**238.09** 
+
+- **(1)** L’ancien juge et les personnes agissant pour son compte ou sous sa direction bénéficient de l’immunité en matière pénale, civile et administrative pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions conférés à celui-ci par les articles 238.07 et 238.08.
+
+**Non-assignation**
+
+- **(2)** En ce qui concerne les questions portées à leur connaissance dans l’exercice des pouvoirs et fonctions conférés à l’ancien juge, celui-ci et les personnes agissant pour son compte ou sous sa direction ne peuvent être contraints à témoigner et ne sont des témoins compétents que dans le cadre des poursuites intentées pour une infraction prévue par la présente loi ou par la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md) ou dans celles intentées sur le fondement des articles 132 ou 136 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Utilisation des renseignements**
+
+**238.1** Les renseignements qui ont fait l’objet d’une opposition au titre du paragraphe 238.07(1) et qui sont communiqués par le Commissaire de la GRC à la Commission ou à une partie dans le cadre de la question ou de l’affaire pour laquelle l’objection a été soulevée ne peuvent être utilisés qu’à l’égard de cette question ou de cette affaire.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Protocole d’entente**
+
+**238.11** Le président et le Commissaire de la GRC peuvent conclure un protocole d’entente qui établit les principes et la procédure relatifs à la communication de renseignements visés au paragraphe 238.07(1) et à leur protection en cas de communication.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Communication de renseignements — autre procédure judiciaire**
+
+**238.12** 
+
+- **(1)** Ni la Commission ni la partie ne peut être contrainte, dans le cadre d’une autre procédure ou d’une autre action pénale, civile ou administrative, à témoigner ou à produire quoi que ce soit relativement aux renseignements qui ont fait l’objet d’une opposition au titre du paragraphe 238.07(1) et qui lui ont été communiqués par le Commissaire de la GRC dans le cadre de la question ou de l’affaire pour laquelle l’objection a été soulevée.
+
+**Application**
+
+- **(2)** Sous réserve de toute autre loi fédérale qui y renvoie expressément, le présent article s’applique malgré toute autre loi fédérale, à l’exception de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+
+**Application prévalente**
+
+- **(3)** Le présent article s’applique malgré le paragraphe 13(1) de la [Loi sur le vérificateur général](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-17.md) et le paragraphe 79.3(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Accréditation des agents négociateurs
+
+
+
+**Droit de demander l’accréditation**
+
+**238.13** 
+
+- **(1)** Sous réserve de l’article 55, toute organisation syndicale visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1) peut solliciter son accréditation comme agent négociateur pour le groupe composé exclusivement de l’ensemble des fonctionnaires qui sont des membres de la GRC et des fonctionnaires qui sont des réservistes. Elle doit alors en faire la demande à la Commission en conformité avec les règlements et celle-ci avise sans délai l’employeur de la demande.
+
+**Conditions d’accréditation**
+
+- **(2)** La Commission peut accorder l’accréditation seulement si elle conclut que l’organisation syndicale — et, dans le cas d’un regroupement d’organisations syndicales, chacune de celles-ci — remplit les conditions suivantes :
+	- **a)** avoir pour mission principale de représenter les fonctionnaires qui sont des membres de la GRC;
+	- **b)** ne pas être affiliée à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers;
+	- **c)** n’être accréditée comme agent négociateur pour aucun autre groupe de fonctionnaires.
+
+**Précision**
+
+- **(3)** Il est entendu que :
+	- **a)** pour l’application du paragraphe (2), la participation d’une organisation syndicale au Conseil national mixte n’est pas considérée comme une affiliation à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers;
+	- **b)** une demande d’accréditation au titre de l’article 54 ne peut être faite à l’égard des fonctionnaires qui sont des membres de la GRC ou des réservistes.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Définition de l’unité**
+
+**238.14** Saisie d’une demande d’accréditation conforme au paragraphe 238.13(1), la Commission définit l’unique unité nationale habile à négocier collectivement comme étant le groupe composé exclusivement de l’ensemble des fonctionnaires qui sont des membres de la GRC et des fonctionnaires qui sont des réservistes.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Réserve**
+
+**238.15** L’organisation syndicale accréditée comme agent négociateur pour l’unité de négociation définie à l’article 238.14 ne peut solliciter l’accréditation pour aucun autre groupe de fonctionnaires.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Réserve**
+
+**238.16** Malgré l’article 58, la Commission n’a pas la compétence pour se prononcer sur l’appartenance de tout fonctionnaire qui n’est pas un membre de la GRC ou un réserviste à l’unité de négociation définie à l’article 238.14.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Révocation de l’accréditation
+
+
+
+**Mission ou affiliation**
+
+**238.17** 
+
+- **(1)** La Commission révoque l’accréditation de l’organisation syndicale comme agent négociateur représentant l’unité de négociation définie à l’article 238.14 si, en réponse à une demande à cet effet de l’employeur ou d’un fonctionnaire de cette unité de négociation, elle conclut que l’organisation syndicale — ou, dans le cas d’un regroupement d’organisations syndicales, l’une d’elles — n’a plus comme mission principale de représenter des fonctionnaires qui sont des membres de la GRC ou qu’elle est affiliée à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers.
+
+**Précision**
+
+- **(2)** Il est entendu que :
+	- **a)** pour l’application du paragraphe (1), la participation d’une organisation syndicale au Conseil national mixte n’est pas considérée comme une affiliation à un agent négociateur ou à une autre association n’ayant pas pour mission principale de représenter des policiers;
+	- **b)** les circonstances de révocation prévues au paragraphe (1) s’ajoutent à celles prévues aux articles 94 à 100.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Mode de règlement des différends
+
+
+
+**Arbitrage**
+
+**238.18** Les articles 103 et 104 ne s’appliquent pas aux différends entre l’employeur et l’agent négociateur de l’unité de négociation définie à l’article 238.14. Le mode de règlement de tels différends est l’arbitrage.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Réserves relatives aux dispositions de la convention collective
+
+
+
+**Réserves**
+
+**238.19** La convention collective qui régit l’unité de négociation définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir une condition d’emploi :
+- **a)** soit de manière à nécessiter l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
+- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), de la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md), de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Services essentiels, conciliation et vote de grève
+
+
+
+**Non-application des sections 8, 10 et 11 de la partie 1**
+
+**238.2** Les sections 8, 10 et 11 de la partie 1 ne s’appliquent pas à l’unité de négociation définie à l’article 238.14.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Arbitrage
+
+
+
+**Décisions arbitrales — facteur additionnel**
+
+**238.21** Si cela est pertinent pour la prise de ses décisions visées au paragraphe 148(1) à l’égard de la convention collective qui régit l’unité de négociation définie à l’article 238.14, le conseil d’arbitrage peut prendre en compte, en plus des facteurs prévus au paragraphe 148(2), les conséquences de la décision sur l’efficacité opérationnelle de la Gendarmerie royale du Canada.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Limites de la décision arbitrale**
+
+**238.22** 
+
+- **(1)** La décision arbitrale qui régit l’unité de négociation définie à l’article 238.14 ne peut pas avoir pour effet direct ou indirect de modifier, de supprimer ou d’établir une condition d’emploi :
+	- **a)** soit de manière à nécessiter ou entraîner l’adoption ou la modification d’une loi fédérale, exception faite des lois affectant les crédits nécessaires à son application;
+	- **b)** soit qui a été ou pourrait être établie sous le régime de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), de la [Loi sur la continuation des pensions de la Gendarmerie royale du Canada](/fr/Lois/Lois%20du%20Canada/1970/ch.%20R-10.md), de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md);
+	- **c)** soit d’une manière qui, selon le cas :
+		- **(i)** aurait une incidence sur l’organisation de la fonction publique, les catégories de membres, au sens du paragraphe 2(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), l’attribution de fonctions aux postes et aux personnes employées au sein de la fonction publique et leur classification,
+		- **(ii)** porterait atteinte au droit ou à l’autorité du commissaire de la Gendarmerie royale du Canada qui lui sont conférés sous le régime de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) afin d’assurer des opérations policières efficaces.
+
+**Précision**
+
+- **(2)** Il est entendu que le paragraphe 150(2) s’applique à la décision arbitrale.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Règlements
+
+
+
+**Règlements**
+
+**238.23** Le gouverneur en conseil peut, par règlement, prévoir :
+- **a)** le serment du secret visé au paragraphe 238.07(5);
+- **b)** les mesures qui doivent être prises par la Commission ou une partie pour protéger les renseignements visés au paragraphe 238.07(1) reçus du Commissaire de la GRC dans le cadre de toute question ou affaire dont la Commission est saisie au titre de la présente section ou de la partie 1 et qui concerne une personne qui est ou était un membre de la GRC ou un réserviste, et régir la communication de ces renseignements par la Commission ou la partie à d’autres personnes ou entités.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**SECTION 2** 
+### Griefs
+
+
+
+#### Griefs individuels
+
+
+
+**Droit limité de présenter un grief**
+
+**238.24** Sous réserve des paragraphes 208(2) à (7), le fonctionnaire membre de la GRC a le droit de présenter un grief individuel seulement lorsqu’il s’estime lésé par l’interprétation ou l’application à son égard de toute disposition d’une convention collective ou d’une décision arbitrale.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Droit limité de renvoyer un grief à l’arbitrage**
+
+**238.25** 
+
+- **(1)** Le fonctionnaire membre de la GRC peut, après l’avoir porté jusqu’au dernier palier de la procédure applicable sans avoir obtenu satisfaction, renvoyer un grief individuel à l’arbitrage seulement si celui-ci porte sur l’interprétation ou l’application à son égard de toute disposition d’une convention collective ou d’une décision arbitrale.
+
+**Approbation requise**
+
+- **(2)** Pour que le fonctionnaire puisse renvoyer à l’arbitrage le grief individuel, il faut que son agent négociateur accepte de le représenter dans la procédure d’arbitrage.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Ajournement d’une affaire
+
+
+
+**Atteinte à une enquête ou poursuite en cours**
+
+**238.26** 
+
+- **(1)** Sur demande du Commissaire de la GRC ou de l’employeur, l’arbitre de grief ou la Commission ajourne toute affaire concernant une personne qui est ou était un membre de la GRC ou un réserviste et dont il est saisi au titre de la présente section ou de la partie 2 s’il est convaincu que la poursuite de l’instruction porterait atteinte à toute enquête pénale ou à toute poursuite pénale ou civile en cours.
+
+**Durée maximale de l’ajournement**
+
+- **(2)** L’ajournement est d’une durée maximale de quatre-vingt-dix jours. Toutefois, le Commissaire de la GRC ou l’employeur peut demander plus d’un ajournement pour une même affaire.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Contrôle d’application, sécurité publique ou sécurité nationale
+
+
+
+**Opposition à la communication**
+
+**238.27** 
+
+- **(1)** Le Commissaire de la GRC peut, dans le cadre de toute question ou affaire dont l’arbitre de grief ou la Commission est saisi au titre de la présente section ou de la partie 2 et qui concerne une personne qui est ou était un membre de la GRC ou un réserviste, s’opposer à la communication à l’arbitre de grief ou à la Commission, selon le cas, ou à une partie, de renseignements dont la communication, à son avis, aurait pour conséquence d’entraver le contrôle d’application des lois ou de porter atteinte à la sécurité publique ou à la sécurité nationale.
+
+**Avis d’opposition**
+
+- **(2)** S’il s’oppose à la communication de renseignements au titre du paragraphe (1), il donne dans les meilleurs délais à l’arbitre de grief ou à la Commission, selon le cas, et aux parties, un avis écrit motivé de son opposition.
+
+**Non-application de certaines dispositions**
+
+- **(3)** Il peut s’opposer à la communication de renseignements au titre du paragraphe (1) malgré toute disposition de la présente loi ou de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) qui permettrait autrement à l’arbitre de grief ou à la Commission, selon le cas, d’en exiger la communication.
+
+**Ancien juge**
+
+- **(4)** Lorsque le Commissaire de la GRC s’oppose à la communication de renseignements au titre du paragraphe (1), le ministre, sur demande écrite de l’arbitre de grief ou de la Commission, selon le cas, ou d’une partie, nomme un ancien juge de la cour supérieure d’une province ou de la Cour fédérale pour examiner ces renseignements et rendre une ordonnance en vertu de l’article 238.28.
+
+**Serment du secret**
+
+- **(5)** L’ancien juge doit, à sa nomination, avoir une habilitation de sécurité délivrée par le gouvernement fédéral et prêter le serment du secret prévu par règlement.
+
+**Avis de nomination**
+
+- **(6)** Lorsqu’un ancien juge est nommé au titre du paragraphe (4), le ministre en avise l’arbitre de grief ou la Commission, selon le cas, les parties et le Commissaire de la GRC. Ceux-ci disposent d’un délai de trente jours suivant l’envoi de l’avis pour présenter leurs observations à l’ancien juge ou d’un délai prolongé d’au plus trente jours accordé par celui-ci.
+
+**Droit d’accès de l’ancien juge**
+
+- **(7)** Aux fins d’examen, l’ancien juge a accès aux renseignements qui font l’objet d’une opposition au titre du paragraphe (1).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Ordonnance portant sur la communication**
+
+**238.28** 
+
+- **(1)** Sauf s’il conclut que la communication des renseignements qui font l’objet de l’opposition au titre du paragraphe 238.27(1) entraverait le contrôle d’application des lois ou porterait atteinte à la sécurité publique ou à la sécurité nationale, l’ancien juge ordonne le rejet de l’opposition du Commissaire de la GRC au titre de l’article 238.27 à la communication de ces renseignements.
+
+**Communication**
+
+- **(2)** Lorsqu’il conclut que la communication de tout ou partie de ces renseignements entraverait le contrôle d’application des lois ou porterait atteinte à la sécurité publique ou à la sécurité nationale, mais que les raisons d’intérêt public qui justifient la communication l’emportent sur les raisons d’intérêt public qui justifient la non-communication, l’ancien juge ordonne au Commissaire de la GRC, compte tenu des raisons d’intérêt public qui justifient la communication, de communiquer ces renseignements à l’arbitre de grief, à la Commission ou à la partie, selon le cas, ou un résumé des renseignements ou un aveu écrit des faits qui y sont liés.
+
+**Confirmation du bien-fondé de l’opposition**
+
+- **(3)** Dans le cas où l’ancien juge ne rend pas d’ordonnance au titre du paragraphe (1) ou n’ordonne pas la communication au titre du paragraphe (2), il rend une ordonnance confirmant le bien-fondé de l’opposition du Commissaire de la GRC à la communication.
+
+**Délai**
+
+- **(4)** L’ancien juge rend son ordonnance dans les trente jours suivant l’expiration du délai prévu au paragraphe 238.27(6) ou dans un délai prolongé d’au plus trente jours accordé par le ministre.
+
+**Interdiction**
+
+- **(5)** Lorsqu’il rend son ordonnance, l’ancien juge ne peut formuler celle-ci d’une manière qui révèle ou permettrait de découvrir un renseignement qui ne peut pas être communiqué aux termes de ses conclusions.
+
+**Caractère définitif de l’ordonnance**
+
+- **(6)** L’ordonnance de l’ancien juge est définitive et exécutoire.
+
+**Révision**
+
+- **(7)** L’objection du Commissaire de la GRC n’est susceptible de révision que dans la mesure et selon les modalités prévues au présent article.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Immunité**
+
+**238.29** 
+
+- **(1)** L’ancien juge et les personnes agissant pour son compte ou sous sa direction bénéficient de l’immunité en matière pénale, civile et administrative pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions conférés à celui-ci par les articles 238.27 et 238.28.
+
+**Non-assignation**
+
+- **(2)** En ce qui concerne les questions portées à leur connaissance dans l’exercice des pouvoirs et fonctions conférés à l’ancien juge, celui-ci et les personnes agissant pour son compte ou sous sa direction ne peuvent être contraints à témoigner et ne sont des témoins compétents que dans le cadre des poursuites intentées pour une infraction prévue par la présente loi ou par la [Loi sur la protection de l’information](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-5.md) ou dans celles intentées sur le fondement des articles 132 ou 136 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Utilisation des renseignements**
+
+**238.3** Les renseignements qui ont fait l’objet d’une opposition au titre du paragraphe 238.27(1) et qui sont communiqués par le Commissaire de la GRC à l’arbitre de grief ou à la Commission, selon le cas, ou à une partie, dans le cadre de la question ou de l’affaire pour laquelle l’objection a été soulevée ne peuvent être utilisés qu’à l’égard de cette question ou de cette affaire.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Protocole d’entente**
+
+**238.31** Le président et le Commissaire de la GRC peuvent conclure un protocole d’entente qui établit les principes et la procédure relatifs à la communication de renseignements visés au paragraphe 238.27(1) et à leur protection en cas de communication.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+**Communication de renseignements — autre procédure judiciaire**
+
+**238.32** 
+
+- **(1)** Ni l’arbitre de grief ou la Commission, ni la partie ne peut être contraint, dans le cadre d’une autre procédure ou d’une autre action pénale, civile ou administrative, à témoigner ou à produire quoi que ce soit relativement aux renseignements qui ont fait l’objet d’une opposition au titre du paragraphe 238.27(1) et qui lui ont été communiqués par le Commissaire de la GRC dans le cadre de la question ou de l’affaire pour laquelle l’objection a été soulevée.
+
+**Application**
+
+- **(2)** Sous réserve de toute autre loi fédérale qui y renvoie expressément, le présent article s’applique malgré toute autre loi fédérale, à l’exception de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+
+**Application prévalente**
+
+- **(3)** Le présent article s’applique malgré le paragraphe 13(1) de la [Loi sur le vérificateur général](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-17.md) et le paragraphe 79.3(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Rôle unique de l’organisation policière
+
+
+
+**Considération : organisation policière**
+
+**238.33** Lors de l’étude d’un grief concernant un fonctionnaire qui est un membre de la GRC ou un réserviste, l’arbitre de grief ou la Commission, selon le cas, tient compte, d’une part, du rôle unique de la Gendarmerie royale du Canada en tant qu’organisation policière à l’égard de la protection de la sécurité publique et de la sécurité nationale et, d’autre part, du besoin de celle-ci de procéder à des mutations de ses membres ou de ses réservistes lorsqu’elle l’estime indiqué.
+> 2017, ch. 9, art. 33.
+
+
+
+
+
+#### Règlements
+
+
+
+**Règlements**
+
+**238.34** Le gouverneur en conseil peut, par règlement, prévoir :
+- **a)** le serment du secret visé au paragraphe 238.27(5);
+- **b)** les mesures qui doivent être prises par l’arbitre de grief ou la Commission, selon le cas, ou une partie pour protéger les renseignements visés au paragraphe 238.27(1) reçus du Commissaire dans le cadre de toute question ou affaire dont l’arbitre de grief ou la Commission est saisi au titre de la présente section ou de la partie 2 et qui concerne une personne qui est ou était un membre de la GRC ou un réserviste, et régir la communication de ces renseignements par l’arbitre de grief, la Commission ou la partie à d’autres personnes ou entités.
+> 2017, ch. 9, art. 33.
+
 
 
 
@@ -3311,14 +3996,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **240** La partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’applique à la fonction publique et aux personnes qui y sont employées comme si la fonction publique était une entreprise fédérale visée par cette partie, sous réserve de ce qui suit :
 - **a)** en ce qui concerne la terminologie :
-	- **(i)** « arbitrage » renvoie à l’arbitrage des griefs sous le régime de la partie 2,
-	- **(ii)**  ***Conseil*** s’entend de la Commission des relations de travail et de l’emploi dans la fonction publique,
+	- **(i)** « arbitrage » renvoie à l’arbitrage des griefs sous le régime de la partie 2 ou de la section 2 de la partie 2.1,
+	- **(ii)** «  Conseil » s’entend de la Commission des relations de travail et de l’emploi dans le secteur public fédéral,
 	- **(iii)** « convention collective » s’entend au sens du paragraphe 2(1),
 	- **(iv)** « employé » s’entend d’une personne employée dans la fonction publique,
-	- **(v)** « syndicat » s’entend de l’organisation syndicale au sens du paragraphe 2(1);
-- **b)** l’article 156 de cette loi ne s’applique pas à la Commission des relations de travail et de l’emploi dans la fonction publique;
-- **c)** les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux affaires instruites par la Commission des relations de travail et de l’emploi dans la fonction publique.
-> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384.
+	- **(v)** « syndicat » s’entend de l’organisation syndicale au sens du paragraphe 2(1) et s’entend en outre, sauf indication contraire du contexte, de tout regroupement d’organisations syndicales au sens de ce paragraphe;
+- **b)** l’article 156 de cette loi ne s’applique pas à la Commission des relations de travail et de l’emploi dans le secteur public fédéral;
+- **c)** les dispositions de la présente loi s’appliquent, avec les adaptations nécessaires, aux affaires instruites par la Commission des relations de travail et de l’emploi dans le secteur public fédéral.
+> 2003, ch. 22, art. 2 « 240 »; 2013, ch. 40, art. 384; 2017, ch. 9, art. 34 et 57.
 
 
 
