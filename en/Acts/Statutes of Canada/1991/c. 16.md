@@ -43,18 +43,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Centre***[Repealed, 2003, c. 22, s. 23]
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (*ministre*)
 
-***President*** means the President of the School appointed under subsection 13(1);
+***President*** means the President of the School appointed under subsection 13(1); (*président*)
 
 ***Principal***[Repealed, 2003, c. 22, s. 23]
 
 ***public sector***[Repealed, 2012, c. 19, s. 516]
 
-***public service*** has the meaning given that expression in the Public Service Labour Relations Act;
+***public service*** has the meaning given that expression in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md); (*fonction publique*)
 
-***School*** means the Canada School of Public Service continued under subsection 3(1).
-> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E); 2010, c. 12, s. 1671; 2012, c. 19, s. 516.
+***School*** means the Canada School of Public Service continued under subsection 3(1). (*École*)
+> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E); 2010, c. 12, s. 1671; 2012, c. 19, s. 516; 2017, c. 9, s. 55.
 
 
 
@@ -220,12 +220,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Act not applicable**
 
-- **(3)** The Public Service Labour Relations Act does not apply to any person employed by the School under subsection (2).
+- **(3)** The [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) does not apply to any person employed by the School under subsection (2).
 
 **Acts and regulations applicable**
 
 - **(4)** Each person employed by the School under subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
-> 1991, c. 16, s. 15; 2003, c. 22, ss. 31, 133(E).
+> 1991, c. 16, s. 15; 2003, c. 22, ss. 31, 133(E); 2017, c. 9, s. 55.
 
 
 
