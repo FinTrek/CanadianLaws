@@ -247,12 +247,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Act not applicable**
 
-- **(3)** The Public Service Labour Relations Act does not apply to any person employed in the Agency pursuant to subsection (2).
+- **(3)** The [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) does not apply to any person employed in the Agency pursuant to subsection (2).
 
 **Acts and regulations applicable**
 
 - **(4)** Each person employed in the Agency pursuant to subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the federal public administration for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
-> 1990, c. 13, s. 16; 2003, c. 22, ss. 147, 223(E), 235.
+> 1990, c. 13, s. 16; 2003, c. 22, ss. 147, 223(E), 235; 2017, c. 9, s. 55.
 
 
 
