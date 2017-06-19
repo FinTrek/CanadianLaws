@@ -204,8 +204,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Separate agency**
 
-**12** The Agency is a separate agency under the Public Service Labour Relations Act.
-> 1997, c. 6, s. 12; 2003, c. 22, s. 135.
+**12** The Agency is a separate agency under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 1997, c. 6, s. 12; 2003, c. 22, s. 135; 2017, c. 9, s. 55.
 
 
 
