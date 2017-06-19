@@ -3361,10 +3361,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)**
+**[Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md)**
 
-**138** Il est déclaré pour plus de certitude que la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) ne s’applique pas aux employés désignés des ports non autonomes qui deviennent des administrations portuaires sous le régime de l’article 12 ni aux employés engagés en vertu du paragraphe 136(1) à compter de l’abrogation de la Loi sur la Société canadienne des ports.
-> 1998, ch. 10, art. 138; 2003, ch. 22, art. 223(A).
+**138** Il est déclaré pour plus de certitude que la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ne s’applique pas aux employés désignés des ports non autonomes qui deviennent des administrations portuaires sous le régime de l’article 12 ni aux employés engagés en vertu du paragraphe 136(1) à compter de l’abrogation de la Loi sur la Société canadienne des ports.
+> 1998, ch. 10, art. 138; 2003, ch. 22, art. 223(A); 2017, ch. 9, art. 55.
 
 
 
