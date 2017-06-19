@@ -3376,10 +3376,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Public Service Labour Relations Act**
+**[Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md)**
 
-**138** For greater certainty, the Public Service Labour Relations Act does not apply to designated employees of a non-corporate port that is continued as a port authority under section 12, or to employees appointed under subsection 136(1), after the date of the repeal of the Canada Ports Corporation Act.
-> 1998, c. 10, s. 138; 2003, c. 22, s. 223(E).
+**138** For greater certainty, the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) does not apply to designated employees of a non-corporate port that is continued as a port authority under section 12, or to employees appointed under subsection 136(1), after the date of the repeal of the Canada Ports Corporation Act.
+> 1998, c. 10, s. 138; 2003, c. 22, s. 223(E); 2017, c. 9, s. 55.
 
 
 
