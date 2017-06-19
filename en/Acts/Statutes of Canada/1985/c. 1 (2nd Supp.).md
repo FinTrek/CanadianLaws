@@ -636,9 +636,15 @@ and no person shall interfere with any of the rights set out in this subsection.
 
 - **(4)** Subsection (3) does not apply to any person in charge of a conveyance transporting passengers and crew all of whom have presented themselves outside Canada at a customs office designated for that purpose and have not subsequently stopped at any other place prior to their arrival in Canada unless an officer requires that person to comply therewith.
 
-**Exception**
+**Entry and departure**
 
-- **(5)** Subsections (1) and (3) do not apply to any person who enters Canadian waters, including the inland waters, or the airspace over Canada while proceeding directly from one place outside Canada to another place outside Canada unless an officer requires that person to comply with those subsections.
+- **(5)** Subject to the regulations, subsections (1) and (3) do not apply to any of the following persons, unless an officer requires them to comply with those subsections:
+	- **(a)** a person who enters Canadian waters, including the inland waters, or the airspace over Canada on board a conveyance directly from outside Canada and then leaves Canada on board the conveyance, as long as the person was continuously on board that conveyance while in Canada and
+		- **(i)** in the case of a conveyance other than an aircraft, the person did not land in Canada and the conveyance did not anchor, moor or make contact with another conveyance while in Canadian waters, including the inland waters, or
+		- **(ii)** in the case of an aircraft, the conveyance did not land while in Canada; and
+	- **(b)** a person who leaves Canadian waters, including the inland waters, or the airspace over Canada on board a conveyance and then re-enters Canada on board the conveyance, as long as the person was continuously on board that conveyance while outside Canada and
+		- **(i)** in the case of a conveyance other than an aircraft, the person did not land outside Canada and the conveyance did not anchor, moor or make contact with another conveyance while outside Canada, or
+		- **(ii)** in the case of an aircraft, the conveyance did not land while outside Canada.
 
 **Exception — alternative manner**
 
@@ -649,7 +655,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Powers of officer**
 
 - **(7)** Notwithstanding that a person holds an authorization under subsection 11.1(1) or is authorized under the regulations made under subsection 11.1(3), an officer may require a person to present himself or herself in accordance with subsection (1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 11; 1996, c. 31, s. 74; 2001, c. 25, s. 10; 2012, c. 19, s. 372.
+> R.S., 1985, c. 1 (2nd Supp.), s. 11; 1996, c. 31, s. 74; 2001, c. 25, s. 10; 2012, c. 19, s. 372; 2017, c. 11, s. 2.
 
 
 
@@ -809,9 +815,15 @@ and no person shall interfere with any of the rights set out in this subsection.
 
 - **(4)** Subsection (1) does not apply in respect of goods that are reported in the manner prescribed under subsection (2) prior to importation at a customs office outside Canada unless an officer requires that the goods be reported again under subsection (1) after importation.
 
-**Exception**
+**Exception — entry and departure**
 
-- **(5)** This section does not apply in respect of goods on board a conveyance that enters Canadian waters, including the inland waters, or the airspace over Canada while proceeding directly from one place outside Canada to another place outside Canada unless an officer otherwise requires.
+- **(5)** Subject to the regulations, unless an officer otherwise requires, this section does not apply in respect of goods on board a conveyance
+	- **(a)** that enters Canadian waters, including the inland waters, or the airspace over Canada directly from outside Canada and then leaves Canada, as long as
+		- **(i)** in the case of a conveyance other than an aircraft, the conveyance did not anchor, moor or make contact with another conveyance while in Canadian waters, including the inland waters, or
+		- **(ii)** in the case of an aircraft, the conveyance did not land while in Canada; or
+	- **(b)** that leaves Canadian waters, including the inland waters, or the airspace over Canada and then re-enters Canada, as long as
+		- **(i)** in the case of a conveyance other than an aircraft, the conveyance did not anchor, moor or make contact with another conveyance while outside Canada, or
+		- **(ii)** in the case of an aircraft, the conveyance did not land while outside Canada.
 
 **Written report**
 
@@ -824,7 +836,18 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(b)** that are not charged with duties, and
 	- **(c)** the importation of which is not prohibited under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or prohibited, controlled or regulated under any Act of Parliament other than this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)
 may not be seized as forfeit under this Act by reason only that they were not reported under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12; 2015, c. 3, s. 60(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12; 2015, c. 3, s. 60(F); 2017, c. 11, s. 3.
+
+
+
+
+
+**Regulations**
+
+**12.01** The Governor in Council may make regulations for the purposes of sections 11 and 12, including regulations
+- **(a)** prescribing the circumstances under which persons, goods or classes thereof on board a conveyance, or classes thereof, are required to present themselves or to be reported, as the case may be, despite subsection 11(5) or 12(5); or
+- **(b)** defining the expression “make contact with another conveyance” for the purposes of subsections 11(5) and 12(5) and prescribing the circumstances under which a conveyance or a class thereof makes contact with another conveyance.
+> 2017, c. 11, s. 4.
 
 
 
