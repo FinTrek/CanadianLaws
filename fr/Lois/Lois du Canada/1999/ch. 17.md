@@ -722,8 +722,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Organisme distinct**
 
-**50** L’Agence est un organisme distinct au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-> 1999, ch. 17, art. 50; 2003, ch. 22, art. 97.
+**50** L’Agence est un organisme distinct au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 1999, ch. 17, art. 50; 2003, ch. 22, art. 97; 2017, ch. 9, art. 55.
 
 
 
