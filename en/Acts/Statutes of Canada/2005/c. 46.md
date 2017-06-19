@@ -1735,9 +1735,9 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Saving**
 
 **51** Subject to subsections 19.1(4) and 21.8(4), nothing in this Act is to be construed as prohibiting
-- **(a)** the presentation of an individual grievance under subsection 208(1) of the Public Service Labour Relations Act; or
+- **(a)** the presentation of an individual grievance under subsection 208(1) or section 238.24 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md); or
 - **(b)** an adjudicator from considering a complaint under section 242 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md).
-> 2005, c. 46, s. 51; 2006, c. 9, s. 218.
+> 2005, c. 46, s. 51; 2006, c. 9, s. 218; 2017, c. 9, s. 49.
 
 
 
