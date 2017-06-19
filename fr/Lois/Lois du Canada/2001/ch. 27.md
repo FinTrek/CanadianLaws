@@ -693,11 +693,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **18** 
 
-- **(1)** Quiconque cherche à entrer au Canada est tenu de se soumettre au contrôle visant à déterminer s’il a le droit d’y entrer ou s’il est autorisé, ou peut l’être, à y entrer et à y séjourner.
+- **(1)** Sous réserve des règlements, quiconque cherche à entrer au Canada est tenu de se soumettre au contrôle visant à déterminer s’il a le droit d’y entrer ou s’il est autorisé, ou peut l’être, à y entrer et à y séjourner.
 
 **Transit**
 
 - **(2)** Le présent article s’applique également aux personnes qui, sans quitter le Canada, cherchent à quitter une zone aéroportuaire réservée aux passagers en transit ou en partance.
+
+**Pouvoir de l’agent**
+
+- **(3)** L’agent peut exiger de la personne qui cherche à entrer au Canada et qui n’est pas tenue, conformément aux règlements pris en vertu du paragraphe 26(2), de se soumettre au contrôle, qu’elle s’y soumette.
+> 2001, ch. 27, art. 18; 2017, ch. 11, art. 5.
+
 
 
 
@@ -996,16 +1002,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**26** Les règlements régissent l’application des articles 18 à 25.2 et portent notamment sur :
-- **a)** l’entrée, la faculté de rentrer et le séjour;
-- **b)** le statut de résident permanent ou temporaire, et notamment l’acquisition du statut;
-- **b.1)** la déclaration visée au paragraphe 22.1(1);
-- **c)** les cas dans lesquels il peut être tenu compte de tout ou partie des circonstances visées à l’article 24;
-- **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
-- **d.1)** les engagements qui peuvent ou doivent être obtenus à l’égard des demandes faites au titre du paragraphe 25(1) ou ceux mentionnés au paragraphe 25.2(4), ainsi que la sanction découlant de leur inobservation;
-- **d.2)** la détermination de recevabilité mentionnée au paragraphe 25.2(4);
-- **e)** les garanties à fournir au ministre pour l’exécution de la présente loi.
-> 2001, ch. 27, art. 26; 2010, ch. 8, art. 6; 2012, ch. 17, art. 15; 2013, ch. 16, art. 11.
+**26** 
+
+- **(1)** Les règlements régissent l’application des articles 18 à 25.2 et portent notamment sur :
+	- **a)** l’entrée, la faculté de rentrer et le séjour;
+	- **b)** le statut de résident permanent ou temporaire, et notamment l’acquisition du statut;
+	- **b.1)** la déclaration visée au paragraphe 22.1(1);
+	- **c)** les cas dans lesquels il peut être tenu compte de tout ou partie des circonstances visées à l’article 24;
+	- **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
+	- **d.1)** les engagements qui peuvent ou doivent être obtenus à l’égard des demandes faites au titre du paragraphe 25(1) ou ceux mentionnés au paragraphe 25.2(4), ainsi que la sanction découlant de leur inobservation;
+	- **d.2)** la détermination de recevabilité mentionnée au paragraphe 25.2(4);
+	- **e)** les garanties à fournir au ministre pour l’exécution de la présente loi.
+
+**Exemptions**
+
+- **(2)** Les règlements peuvent exempter de l’application de l’article 18 des personnes ou catégories de personnes et prévoir les conditions relatives à cette exemption.
+> 2001, ch. 27, art. 26; 2010, ch. 8, art. 6; 2012, ch. 17, art. 15; 2013, ch. 16, art. 11; 2017, ch. 11, art. 6.
 
 
 
@@ -1323,7 +1335,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** la perte de la citoyenneté :
 		- **(i)** soit au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à l’entrée en vigueur de l’article 8 de la Loi renforçant la citoyenneté canadienne, dans le cas visé au paragraphe 10(2) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à cette entrée en vigueur,
 		- **(ii)** soit au titre du paragraphe 10(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans le cas visé à l’article 10.2 de cette loi,
-		- **(iii)** soit au titre de l’alinéa 10.1(3)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans le cas visé à l’article 10.2 de cette loi.
+		- **(iii)** soit au titre du paragraphe 10.1(3) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans le cas visé à l’article 10.2 de cette loi.
 
 **Application**
 
@@ -1334,7 +1346,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction de territoire**
 
 - **(3)** L’étranger interdit de territoire au titre du présent article ne peut, pendant la période visée à l’alinéa (2)a), présenter de demande pour obtenir le statut de résident permanent.
-> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17; 2013, ch. 16, art. 16; 2014, ch. 22, art. 42.
+> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17; 2013, ch. 16, art. 16; 2014, ch. 22, art. 42; 2017, ch. 14, art. 25.
 
 
 
@@ -1473,8 +1485,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Devient résident permanent quiconque perd la citoyenneté :
 	- **a)** soit au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à l’entrée en vigueur de l’article 8 de la Loi renforçant la citoyenneté canadienne, sauf s’il est visé au paragraphe 10(2) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à cette entrée en vigueur;
 	- **b)** soit au titre du paragraphe 10(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé à l’article 10.2 de cette loi;
-	- **c)** soit au titre de l’alinéa 10.1(3)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé à l’article 10.2 de cette loi.
-> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19; 2013, ch. 16, art. 20; 2014, ch. 22, art. 43.
+	- **c)** soit au titre du paragraphe 10.1(3) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé à l’article 10.2 de cette loi.
+> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19; 2013, ch. 16, art. 20; 2014, ch. 22, art. 43; 2017, ch. 14, art. 26.
 
 
 
