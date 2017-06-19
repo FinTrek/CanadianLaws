@@ -53,39 +53,39 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***bargaining agent*** means an employee organization that is certified by the Board as the bargaining agent for the employees in a bargaining unit.
+***bargaining agent*** means an employee organization that is certified by the Board as the bargaining agent for the employees in a bargaining unit. (*agent négociateur*)
 
-***bargaining unit*** means a group of two or more employees that is determined by the Board to constitute a unit of employees appropriate for collective bargaining.
+***bargaining unit*** means a group of two or more employees that is determined by the Board to constitute a unit of employees appropriate for collective bargaining. (*unité de négociation*)
 
-***Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act.
+***Board*** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md). (*Commission*)
 
-***collective agreement*** means an agreement in writing, entered into under Part 1 of the Public Service Labour Relations Act between the employer and a bargaining agent, containing provisions respecting terms and conditions of employment and related matters.
+***collective agreement*** means an agreement in writing, entered into under Part 1 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) between the employer and a bargaining agent, containing provisions respecting terms and conditions of employment and related matters. (*convention collective*)
 
-***compensation*** means any form of remuneration payable for work performed by an employee and includes
-- **(a)** salaries, commissions, vacation pay, sev- erance pay and bonuses;
+***compensation*** means any form of remuneration payable for work performed by an employee and includes
+- **(a)** salaries, commissions, vacation pay, severance pay and bonuses;
 - **(b)** payments in kind;
 - **(c)** employer contributions to pension funds or plans, long-term disability plans and all forms of health insurance plans; and
-- **(d)** any other advantage received directly or indirectly from the employer.
+- **(d)** any other advantage received directly or indirectly from the employer. (*rémunération*)
 
-***employee*** means a person who is employed by an employer, other than a person who is
+***employee*** means a person who is employed by an employer, other than a person who is
 - **(a)** appointed by the Governor in Council under an Act of Parliament to a statutory position described in that Act; or
-- **(b)** locally engaged outside Canada.
+- **(b)** locally engaged outside Canada. (*employé*)
 
-***employer*** means Her Majesty in right of Canada as represented by
+***employer*** means Her Majesty in right of Canada as represented by
 - **(a)** the Treasury Board, in the case of a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or another portion of the federal public administration named in Schedule IV to that Act; and
-- **(b)** the separate agency, in the case of a portion of the federal public administration named in Schedule V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+- **(b)** the separate agency, in the case of a portion of the federal public administration named in Schedule V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md). (*employeur*)
 
-***female predominant***, in relation to a job group or a job class, means a job group or job class, as the case may be, composed of at least 70% female employees.
+***female predominant***, in relation to a job group or a job class, means a job group or job class, as the case may be, composed of at least 70% female employees. (*à prédominance féminine*)
 
-***job class*** means two or more positions in the same job group that have similar duties and responsibilities, require similar qualifications, are part of the same compensation plan and are within the same range of salary rates.
+***job class*** means two or more positions in the same job group that have similar duties and responsibilities, require similar qualifications, are part of the same compensation plan and are within the same range of salary rates. (*catégorie d’emplois*)
 
-***job group*** has the meaning assigned by the regulations.
+***job group*** has the meaning assigned by the regulations. (*groupe d’emplois*)
 
-***non-unionized employee*** means an employee who is not a member of a bargaining unit that is represented by a bargaining agent.
+***non-unionized employee*** means an employee who is not a member of a bargaining unit that is represented by a bargaining agent. (*employé non syndiqué*)
 
-***prescribed*** means prescribed by regulation.
+***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
 
-***unionized employee*** means an employee who is a member of a bargaining unit that is represented by a bargaining agent.
+***unionized employee*** means an employee who is a member of a bargaining unit that is represented by a bargaining agent. (*employé syndiqué*)
 
 **Royal Canadian Mounted Police**
 
@@ -96,7 +96,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** For the purposes of this Act,
 	- **(a)** officers and non-commissioned members of the Canadian Forces are deemed to be employees; and
 	- **(b)** Her Majesty in right of Canada, as represented by the Treasury Board, is deemed to be the employer of those officers and members.
-> 2009, c. 2, s. 394 "2"; 2013, c. 40, s. 441.
+> 2009, c. 2, s. 394 "2"; 2013, c. 40, s. 441; 2017, c. 9, ss. 50, 55.
 
 
 
@@ -334,7 +334,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Collective agreement**
 
-**16** The provisions of a collective agreement between an employer and a bargaining agent in relation to equitable compensation may not be inconsistent with section 113 of the Public Service Labour Relations Act.
+**16** The provisions of a collective agreement between an employer and a bargaining agent in relation to equitable compensation may not be inconsistent with sections 113 and 238.19 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 2009, c. 2, s. 394 “16”; 2017, c. 9, s. 51.
+
 
 
 
@@ -345,8 +347,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Arbitration**
 
-**17** If arbitration has been chosen under subsection 104(1) of the Public Service Labour Relations Act as, or is, by reason of subsection 104(2) of that Act, the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
-> 2009, c. 2, s. 394 “17”; 2013, c. 40, s. 361.
+**17** If arbitration has been chosen under subsection 104(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) as, or is, by reason of subsection 104(2) or section 238.18 of that Act, the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
+> 2009, c. 2, s. 394 “17”; 2013, c. 40, s. 361; 2017, c. 9, s. 52.
 
 
 
@@ -354,7 +356,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Obligations of arbitration body**
 
-**18** The body seized of a request for arbitration under the Public Service Labour Relations Act that includes questions concerning the provision of equitable compensation to employees shall, in the absence of any agreement by the parties, determine whether any job group is female predominant and, if it determines that it is, determine how the equitable compensation assessment in respect of that job group is to be conducted.
+**18** The body seized of a request for arbitration under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) that includes questions concerning the provision of equitable compensation to employees shall, in the absence of any agreement by the parties, determine whether any job group is female predominant and, if it determines that it is, determine how the equitable compensation assessment in respect of that job group is to be conducted.
+> 2009, c. 2, s. 394 “18”; 2017, c. 9, s. 55.
+
 
 
 
@@ -363,7 +367,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **19** 
 
-- **(1)** The body seized of a request for arbitration under the Public Service Labour Relations Act that includes equitable compensation matters shall, subject to section 150 of that Act, make an arbitral award that sets out a plan to resolve those matters within a reasonable time.
+- **(1)** The body seized of a request for arbitration under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) that includes equitable compensation matters shall, subject to sections 150 and 238.22 of that Act, make an arbitral award that sets out a plan to resolve those matters within a reasonable time.
 
 **Report**
 
@@ -374,6 +378,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Copy to employer and bargaining agent**
 
 - **(3)** On receipt of the report, the Chairperson of the Board shall, without delay, send a copy to the employer and the bargaining agent concerned and may cause the report to be published in any manner that the Chairperson considers appropriate.
+> 2009, c. 2, s. 394 “19”; 2017, c. 9, s. 53.
+
 
 
 
@@ -384,8 +390,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Conciliation**
 
-**20** If conciliation is the process for the resolution of disputes by reason of section 103 of the Public Service Labour Relations Act, questions concerning the provision of equitable compensation to employees may be the subject of a request for conciliation under subsection 161(1) of that Act.
-> 2009, c. 2, s. 394 “20”; 2013, c. 40, s. 362.
+**20** If conciliation is the process for the resolution of disputes by reason of section 103 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), questions concerning the provision of equitable compensation to employees may be the subject of a request for conciliation under subsection 161(1) of that Act.
+> 2009, c. 2, s. 394 “20”; 2013, c. 40, s. 362; 2017, c. 9, s. 55.
 
 
 
@@ -393,9 +399,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Obligations of public interest commission seized of request for conciliation**
 
-**21** A public interest commission seized of a request for conciliation under the Public Service Labour Relations Act that includes questions concerning the provision of equitable compensation to employees shall
+**21** A public interest commission seized of a request for conciliation under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) that includes questions concerning the provision of equitable compensation to employees shall
 - **(a)** determine, in the absence of any agreement by the parties, whether any job group is female predominant and, if it determines that it is, recommend how the equitable compensation assessment in respect of that job group should be conducted; and
-- **(b)** include in its report, subject to section 177 of the Public Service Labour Relations Act, recommendations that, if accepted by the parties, would result in the provision of equitable compensation to the employees concerned.
+- **(b)** include in its report, subject to section 177 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), recommendations that, if accepted by the parties, would result in the provision of equitable compensation to the employees concerned.
+> 2009, c. 2, s. 394 “21”; 2017, c. 9, s. 55.
+
 
 
 
@@ -443,7 +451,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-## Public Service Labour Relations and Employment Board
+## Federal Public Sector Labour Relations and Employment Board
 
 
 
@@ -451,16 +459,16 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Application of Public Service Labour Relations Act**
+**Application of [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md)**
 
 **25** 
 
-- **(1)** The provisions of the Public Service Labour Relations Act apply, with any modifications that the circumstances require, in relation to any complaint or order made under this Act as though the complaint or order were a complaint or order, as the case may be, made under that Act.
+- **(1)** The provisions of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) apply, with any modifications that the circumstances require, in relation to any complaint or order made under this Act as though the complaint or order were a complaint or order, as the case may be, made under that Act.
 
 **Regulations**
 
 - **(2)** The Board may make regulations concerning the procedure in respect of the making of complaints under this Act and any other matter that is incidental or conducive to the exercise of its powers and the performance of its duties and functions under this Act.
-> 2009, c. 2, s. 394 "25"; 2013, c. 40, s. 443.
+> 2009, c. 2, s. 394 “25”; 2013, c. 40, s. 443; 2017, c. 9, s. 55.
 
 
 
@@ -589,9 +597,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(5)** If the employer and the bargaining agent fail to file a report required by an order made under subsection (1) or (2), the Board may, by order, grant another period of time to file the report or, if the Board considers that there are exceptional circumstances to justify doing so, declare that the employer and the bargaining agent have committed a manifestly unreasonable error described in subsection (3). If the Board makes that declaration, subsection (3) applies.
 
-**Public Service Labour Relations Act applies**
+**[Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) applies**
 
-- **(6)** The Public Service Labour Relations Act applies in respect of a collective agreement altered under an order made under paragraph (2)(b) or (3)(b) as if it had been entered into under that Act.
+- **(6)** The [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) applies in respect of a collective agreement altered under an order made under paragraph (2)(b) or (3)(b) as if it had been entered into under that Act.
 
 **Report to be made available**
 
@@ -600,6 +608,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Power to require posting of order**
 
 - **(8)** The Board may, in an order made under this section, require the employer to post a copy of it, for at least 90 days, in the prescribed manner.
+> 2009, c. 2, s. 394 “33”; 2017, c. 9, s. 55.
+
 
 
 
@@ -669,7 +679,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Complaints against employers**
 
-- **(2)** A complaint referred to in subsection (1) is to be examined and inquired into by the Board as if it were a complaint in respect of a contravention of paragraph 186(2)(c) of the Public Service Labour Relations Act. For greater certainty, if the complaint is made in writing, the written complaint is itself evidence that the contravention actually occurred and, if any party to the complaint proceedings alleges that the contravention did not occur, the burden of proving that it did not is on that party.
+- **(2)** A complaint referred to in subsection (1) is to be examined and inquired into by the Board as if it were a complaint in respect of a contravention of paragraph 186(2)(c) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). For greater certainty, if the complaint is made in writing, the written complaint is itself evidence that the contravention actually occurred and, if any party to the complaint proceedings alleges that the contravention did not occur, the burden of proving that it did not is on that party.
 
 **Complaints against bargaining agents**
 
@@ -677,7 +687,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Complaints against bargaining agents**
 
-- **(4)** A complaint referred to in subsection (3) is to be examined and inquired into by the Board as if it were a complaint in respect of a contravention of paragraph 188(d) or (e) of the Public Service Labour Relations Act. If the complaint is made in writing, the written complaint is itself evidence that the contravention actually occurred and, if any party to the complaint proceedings alleges that the contravention did not occur, the burden of proving that it did not is on that party.
+- **(4)** A complaint referred to in subsection (3) is to be examined and inquired into by the Board as if it were a complaint in respect of a contravention of paragraph 188(d) or (e) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). If the complaint is made in writing, the written complaint is itself evidence that the contravention actually occurred and, if any party to the complaint proceedings alleges that the contravention did not occur, the burden of proving that it did not is on that party.
+> 2009, c. 2, s. 394 “39”; 2017, c. 9, s. 55.
+
 
 
 
@@ -737,7 +749,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Inconsistency or conflict**
 
-**45** Nothing in this Act affects the application of the Public Service Labour Relations Act, but in the event of any inconsistency or conflict between this Act and that Act, the provisions of this Act prevail to the extent of the inconsistency or conflict.
+**45** Nothing in this Act affects the application of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), but in the event of any inconsistency or conflict between this Act and that Act, the provisions of this Act prevail to the extent of the inconsistency or conflict.
+> 2009, c. 2, s. 394 “45”; 2017, c. 9, s. 55.
+
 
 
 
