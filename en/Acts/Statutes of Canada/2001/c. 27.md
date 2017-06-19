@@ -695,11 +695,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **18** 
 
-- **(1)** Every person seeking to enter Canada must appear for an examination to determine whether that person has a right to enter Canada or is or may become authorized to enter and remain in Canada.
+- **(1)** Subject to the regulations, every person seeking to enter Canada must appear for an examination to determine whether that person has a right to enter Canada or is or may become authorized to enter and remain in Canada.
 
 **Transit**
 
 - **(2)** Subsection (1) also applies to persons who, without leaving Canada, seek to leave an area at an airport that is reserved for passengers who are in transit or who are waiting to depart Canada.
+
+**Powers of officer**
+
+- **(3)** Even though a person seeking to enter Canada is not, in accordance with regulations made under subsection 26(2), required to appear for an examination, an officer may require the person to do so.
+> 2001, c. 27, s. 18; 2017, c. 11, s. 5.
+
 
 
 
@@ -998,16 +1004,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Regulations**
 
-**26** The regulations may provide for any matter relating to the application of sections 18 to 25.2, and may include provisions respecting
-- **(a)** entering, remaining in and re-entering Canada;
-- **(b)** permanent resident status or temporary resident status, including acquisition of that status;
-- **(b.1)** declarations referred to in subsection 22.1(1);
-- **(c)** the circumstances in which all or part of the considerations referred to in section 24 may be taken into account;
-- **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals;
-- **(d.1)** undertakings that may or must be given in respect of requests made under subsection 25(1) or undertakings referred to in subsection 25.2(4), and penalties for failure to comply with undertakings;
-- **(d.2)** the determination of eligibility referred to in subsection 25.2(4); and
-- **(e)** deposits or guarantees of the performance of obligations under this Act that are to be given to the Minister.
-> 2001, c. 27, s. 26; 2010, c. 8, s. 6; 2012, c. 17, s. 15; 2013, c. 16, s. 11.
+**26** 
+
+- **(1)** The regulations may provide for any matter relating to the application of sections 18 to 25.2, and may include provisions respecting
+	- **(a)** entering, remaining in and re-entering Canada;
+	- **(b)** permanent resident status or temporary resident status, including acquisition of that status;
+	- **(b.1)** declarations referred to in subsection 22.1(1);
+	- **(c)** the circumstances in which all or part of the considerations referred to in section 24 may be taken into account;
+	- **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals;
+	- **(d.1)** undertakings that may or must be given in respect of requests made under subsection 25(1) or undertakings referred to in subsection 25.2(4), and penalties for failure to comply with undertakings;
+	- **(d.2)** the determination of eligibility referred to in subsection 25.2(4); and
+	- **(e)** deposits or guarantees of the performance of obligations under this Act that are to be given to the Minister.
+
+**Exemptions**
+
+- **(2)** The regulations may exempt persons or categories of persons from the application of section 18 and prescribe the conditions under which the exemption applies.
+> 2001, c. 27, s. 26; 2010, c. 8, s. 6; 2012, c. 17, s. 15; 2013, c. 16, s. 11; 2017, c. 11, s. 6.
 
 
 
@@ -1332,7 +1344,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** on ceasing to be a citizen under
 		- **(i)** paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before the coming into force of section 8 of the Strengthening Canadian Citizenship Act, in the circumstances set out in subsection 10(2) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before that coming into force,
 		- **(ii)** subsection 10(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in section 10.2 of that Act, or
-		- **(iii)** paragraph 10.1(3)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in section 10.2 of that Act.
+		- **(iii)** subsection 10.1(3) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in section 10.2 of that Act.
 
 **Application**
 
@@ -1343,7 +1355,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Inadmissible**
 
 - **(3)** A foreign national who is inadmissible under this section may not apply for permanent resident status during the period referred to in paragraph (2)(a).
-> 2001, c. 27, s. 40; 2012, c. 17, s. 17; 2013, c. 16, s. 16; 2014, c. 22, s. 42.
+> 2001, c. 27, s. 40; 2012, c. 17, s. 17; 2013, c. 16, s. 16; 2014, c. 22, s. 42; 2017, c. 14, s. 25.
 
 
 
@@ -1484,8 +1496,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** A person becomes a permanent resident if he or she ceases to be a citizen under
 	- **(a)** paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before the coming into force of section 8 of the Strengthening Canadian Citizenship Act, other than in the circumstances set out in subsection 10(2) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before that coming into force;
 	- **(b)** subsection 10(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in section 10.2 of that Act; or
-	- **(c)** paragraph 10.1(3)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in section 10.2 of that Act.
-> 2001, c. 27, s. 46; 2012, c. 17, s. 19; 2013, c. 16, s. 20; 2014, c. 22, s. 43.
+	- **(c)** subsection 10.1(3) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in section 10.2 of that Act.
+> 2001, c. 27, s. 46; 2012, c. 17, s. 19; 2013, c. 16, s. 20; 2014, c. 22, s. 43; 2017, c. 14, s. 26.
 
 
 
