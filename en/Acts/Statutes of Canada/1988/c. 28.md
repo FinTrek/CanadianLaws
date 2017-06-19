@@ -254,9 +254,9 @@ this Act and the regulations made thereunder take precedence.
 
 - **(1)** In this section and section 12,
 
-***public servant*** means a person employed in the Public Service of Canada, and includes any other person who is a civil servant within the meaning of the Provincial Act;
+***public servant*** means a person employed in the Public Service of Canada, and includes any other person who is a civil servant within the meaning of the Provincial Act; (*fonctionnaire*)
 
-***Public Service of Canada*** has the meaning given the expression “public service” in the Public Service Labour Relations Act, and includes any portion of the federal public administration designated by order in council pursuant to this subsection and for the purposes of this section as part of the Public Service of Canada.
+***Public Service of Canada*** has the meaning given the expression public service in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), and includes any portion of the federal public administration designated by order in council pursuant to this subsection and for the purposes of this section as part of the Public Service of Canada. (*administration fédérale*)
 
 **Qualifications**
 
@@ -265,7 +265,7 @@ this Act and the regulations made thereunder take precedence.
 **Qualifications for Chairperson**
 
 - **(3)** The Chairperson of the Board shall not, during the term of office as Chairperson, be a public servant.
-> 1988, c. 28, s. 11; 2003, c. 22, s. 122(E); 2014, c. 13, s. 91(E).
+> 1988, c. 28, s. 11; 2003, c. 22, s. 122(E); 2014, c. 13, s. 91(E); 2017, c. 9, s. 55.
 
 
 
@@ -549,8 +549,8 @@ if the material is to be permanently retained at the facility referred to in sub
 
 **Definition of public service**
 
-- **(5)** In this section, ***public service*** has the same meaning as in the Public Service Labour Relations Act.
-> 1988, c. 28, s. 26; 2003, c. 22, ss. 123, 225(E), 232; 2014, c. 13, s. 58.
+- **(5)** In this section, ***public service*** has the same meaning as in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 1988, c. 28, s. 26; 2003, c. 22, ss. 123, 225(E), 232; 2014, c. 13, s. 58; 2017, c. 9, s. 55.
 
 
 
