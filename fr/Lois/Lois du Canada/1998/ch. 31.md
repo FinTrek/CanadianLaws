@@ -332,7 +332,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit de l’employeur**
 
-- **(2)** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) n’a pas pour effet de porter atteinte au droit ou à l’autorité du directeur général de régir les questions visées à l’alinéa (1)b).
+- **(2)** La [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) n’a pas pour effet de porter atteinte au droit ou à l’autorité du directeur général de régir les questions visées à l’alinéa (1)b).
 
 **Gestion des ressources humaines**
 
@@ -340,7 +340,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** déterminer l’organisation de l’Agence et la classification des postes au sein de celle-ci;
 	- **b)** fixer les conditions d’emploi — y compris en ce qui concerne le licenciement motivé — des employés ainsi que leur assigner des tâches;
 	- **c)** réglementer les autres questions dans la mesure où il l’estime nécessaire pour la bonne gestion des ressources humaines de l’Agence.
-> 1998, ch. 31, art. 13; 2003, ch. 22, art. 180 et 223(A).
+> 1998, ch. 31, art. 13; 2003, ch. 22, art. 180 et 223(A); 2017, ch. 9, art. 55.
 
 
 
@@ -363,8 +363,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir de conclure des conventions collectives**
 
-**15** Malgré l’article 112 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le directeur général est, conformément au mandat de négociation approuvé par le président du Conseil du Trésor, habilité à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable à ceux-ci.
-> 1998, ch. 31, art. 15; 2003, ch. 22, art. 181.
+**15** Malgré l’article 112 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), le directeur général est, conformément au mandat de négociation approuvé par le président du Conseil du Trésor, habilité à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable à ceux-ci.
+> 1998, ch. 31, art. 15; 2003, ch. 22, art. 181; 2017, ch. 9, art. 55.
 
 
 
@@ -468,19 +468,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Malgré toute autre loi fédérale, le compte peut être débité des sommes versées aux fins suivantes :
 	- **a)** l’acquisition d’un lieu historique ou de terrains pour un musée historique, ou d’un intérêt ou d’un droit sur ceux-ci, dans le cadre de l’alinéa (3)d) de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
-	- **b)** l’acquisition d’un immeuble ou d’un bien réel pour l’établissement, l’agrandissement ou la désignation, selon le cas, de parcs nationaux, de lieux historiques nationaux, d’aires marines nationales de conservation ou d’autres lieux patrimoniaux protégés qui ne sont pas encore pleinement opérationnels;
-	- **c)** le développement ou l’entretien d’un parc national, d’un lieu historique national, d’une aire marine nationale de conservation ou d’un autre lieu patrimonial protégé qui n’est pas encore pleinement opérationnel, ainsi que le versement des contributions ou autres paiements connexes;
+	- **b)** l’acquisition d’un immeuble ou d’un bien réel pour l’établissement, l’agrandissement ou la désignation, selon le cas, de parcs nationaux, de lieux historiques nationaux, d’aires marines nationales de conservation ou d’autres lieux patrimoniaux protégés;
+	- **c)** le développement ou l’entretien d’un parc national, d’un lieu historique national, d’une aire marine nationale de conservation ou d’un autre lieu patrimonial protégé en voie d’être établi, agrandi ou désigné, ainsi que le versement des contributions ou autres paiements connexes;
 	- **d)** la mise en oeuvre d’une décision du ministre de recommander la création d’un parc national, d’un lieu historique national, d’une aire marine nationale de conservation ou d’un autre lieu patrimonial protégé ou de commémorer un événement ou personnage lié à un lieu historique aux termes de l’article 3 de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) ainsi que le versement des contributions ou autres paiements connexes;
 	- **e)** le remboursement des avances visées au paragraphe 22(2).
 
-**Décision du directeur général**
-
-- **(4)** Le directeur général décide, pour l’application des alinéas (3)b) et c) et conformément aux critères visés au paragraphe (5), si un parc national, un lieu historique national, une aire marine nationale de conservation ou un autre lieu patrimonial protégé est pleinement opérationnel.
-
-**Critères**
-
-- **(5)** Le directeur général établit, avec l’agrément du ministre, les critères sur lesquels se fonde la décision visée au paragraphe (4).
-> 1998, ch. 31, art. 21; 2001, ch. 4, art. 167; 2002, ch. 18, art. 38; 2012, ch. 19, art. 317.
+- **(4) et (5)** [Abrogés, 2017, ch. 10, art. 4]
+> 1998, ch. 31, art. 21; 2001, ch. 4, art. 167; 2002, ch. 18, art. 38; 2012, ch. 19, art. 317; 2017, ch. 10, art. 4.
 
 
 
