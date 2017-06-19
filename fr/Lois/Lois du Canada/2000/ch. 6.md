@@ -316,8 +316,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir de conclure des conventions collectives**
 
-**18** Malgré l’article 112 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le conseil d’administration est, conformément au mandat de négociation approuvé par le président du Conseil du Trésor, habilité à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés d’IRSC, une convention collective applicable à ceux-ci.
-> 2000, ch. 6, art. 18; 2003, ch. 22, art. 140.
+**18** Malgré l’article 112 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), le conseil d’administration est, conformément au mandat de négociation approuvé par le président du Conseil du Trésor, habilité à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés d’IRSC, une convention collective applicable à ceux-ci.
+> 2000, ch. 6, art. 18; 2003, ch. 22, art. 140; 2017, ch. 9, art. 55.
 
 
 
