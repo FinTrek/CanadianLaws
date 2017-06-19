@@ -39,15 +39,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***aeronautical communication services*** means aeronautical broadcasting services, aeronautical fixed services and aeronautical mobile services as referred to in Annex 10 to the Chicago Convention.
+***aeronautical communication services*** means aeronautical broadcasting services, aeronautical fixed services and aeronautical mobile services as referred to in Annex 10 to the Chicago Convention. (*services de communication aéronautique*)
 
-***aeronautical information services*** means services necessary to meet those requirements of Annexes 4 and 15 to the Chicago Convention that relate to aeronautical information.
+***aeronautical information services*** means services necessary to meet those requirements of Annexes 4 and 15 to the Chicago Convention that relate to aeronautical information. (*services d’information aéronautique*)
 
-***aeronautical radio navigation services*** means aeronautical radio navigation services as referred to in Annex 10 to the Chicago Convention, and includes the provision of electronic radio navigation guidance information enabling aircraft operating under instrument flight rules to navigate during the departure, *en route*, approach and terminal phases of flight.
+***aeronautical radio navigation services*** means aeronautical radio navigation services as referred to in Annex 10 to the Chicago Convention, and includes the provision of electronic radio navigation guidance information enabling aircraft operating under instrument flight rules to navigate during the departure, *en route*, approach and terminal phases of flight. (*services de radionavigation aéronautique*)
 
-***Agency*** means the Canadian Transportation Agency continued by subsection 7(1) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
+***Agency*** means the Canadian Transportation Agency continued by subsection 7(1) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md). (*Office*)
 
-***air navigation services*** means
+***air navigation services*** means
 - **(a)** aeronautical communication services,
 - **(b)** aeronautical information services,
 - **(c)** aeronautical radio navigation services,
@@ -56,69 +56,69 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(f)** emergency assistance services, and
 - **(g)** flight information services,
 
-in respect of Canadian airspace or any other airspace in respect of which Canada has responsibility for the provision of air traffic control services.
+in respect of Canadian airspace or any other airspace in respect of which Canada has responsibility for the provision of air traffic control services. (*services de navigation aérienne*)
 
-***air traffic control services*** means services, other than flight information services, provided for the purpose of
+***air traffic control services*** means services, other than flight information services, provided for the purpose of
 - **(a)** preventing collisions between
 	- **(i)** aircraft,
 	- **(ii)** aircraft and obstructions, and
 	- **(iii)** aircraft and vehicles on the manoeuvring area; and
-- **(b)** expediting and maintaining an orderly flow of air traffic.
+- **(b)** expediting and maintaining an orderly flow of air traffic. (*services de contrôle de la circulation aérienne*)
 
-***airport air traffic control services*** means air traffic control services, other than *en route* air traffic control services, provided to aircraft on the manoeuvring area and in the airspace in the vicinity of an aerodrome, and includes the issuance of air traffic control clearances for aircraft to taxi, take off or land.
+***airport air traffic control services*** means air traffic control services, other than *en route* air traffic control services, provided to aircraft on the manoeuvring area and in the airspace in the vicinity of an aerodrome, and includes the issuance of air traffic control clearances for aircraft to taxi, take off or land. (*services de contrôle de la circulation aérienne en zone aéroportuaire*)
 
-***apron*** means the part of an aerodrome that is intended to accommodate the loading and unloading of passengers and cargo, the refuelling, servicing, maintenance and parking of aircraft and any movement of aircraft, vehicles and pedestrians necessary for those purposes.
+***apron*** means the part of an aerodrome that is intended to accommodate the loading and unloading of passengers and cargo, the refuelling, servicing, maintenance and parking of aircraft and any movement of aircraft, vehicles and pedestrians necessary for those purposes. (*aire de trafic*)
 
-***aviation weather services*** means the specification of the location and frequency of weather observations and forecasts for aviation purposes in accordance with the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) and regulations made under that Act, the procurement of those observations and forecasts and the dissemination of weather information for aviation purposes, including the dissemination by weather briefings.
+***aviation weather services*** means the specification of the location and frequency of weather observations and forecasts for aviation purposes in accordance with the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) and regulations made under that Act, the procurement of those observations and forecasts and the dissemination of weather information for aviation purposes, including the dissemination by weather briefings. (*services de météorologie aéronautique*)
 
-***Chicago Convention*** means the Convention on International Civil Aviation signed at Chicago on December 7, 1944, as amended from time to time.
+***Chicago Convention*** means the Convention on International Civil Aviation signed at Chicago on December 7, 1944, as amended from time to time. (*Convention de Chicago*)
 
-***civil air navigation services*** means air navigation services other than when provided pursuant to the Minister of National Defence’s authority under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***civil air navigation services*** means air navigation services other than when provided pursuant to the Minister of National Defence’s authority under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*services de navigation aérienne civile*)
 
-***Corporation*** means NAV CANADA, a corporation incorporated on May 26, 1995 under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md).
+***Corporation*** means NAV CANADA, a corporation incorporated on May 26, 1995 under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md). (*société*)
 
-***designated civil air navigation services asset*** means an asset designated pursuant to subsection (3).
+***designated civil air navigation services asset*** means an asset designated pursuant to subsection (3). (*biens désignés*)
 
-***designated employee*** means a person whose name appears on a list established pursuant to subsection (4).
+***designated employee*** means a person whose name appears on a list established pursuant to subsection (4). (*employé désigné*)
 
-***designated northern or remote services*** means
+***designated northern or remote services*** means
 - **(a)** civil air navigation services designated pursuant to subsection (5); and
-- **(b)** the services that result from a termination or reduction of designated northern or remote services in accordance with sections 18 to 22, including any civil air navigation services introduced in connection with the termination or reduction.
+- **(b)** the services that result from a termination or reduction of designated northern or remote services in accordance with sections 18 to 22, including any civil air navigation services introduced in connection with the termination or reduction. (*services aux régions nordiques ou éloignées*)
 
-***emergency assistance services*** means services provided for the purpose of
+***emergency assistance services*** means services provided for the purpose of
 - **(a)** assisting aircraft in a state of emergency, including aircraft in the uncertainty, alert and distress phases;
 - **(b)** assisting aircraft involved in a hijacking; or
-- **(c)** alerting rescue co-ordination agencies of missing or overdue aircraft.
+- **(c)** alerting rescue co-ordination agencies of missing or overdue aircraft. (*services d’urgence*)
 
-en route air traffic control services means air traffic control services provided to aircraft operating between aerodromes, including aircraft flying through Canadian airspace or any other airspace in respect of which Canada has responsibility for the provision of air traffic control services without landing or taking off in Canada, and includes the issuance of air traffic control clearances for aircraft to proceed during the departure, *en route* and approach phases of flight.
+***en route air traffic control services*** means air traffic control services provided to aircraft operating between aerodromes, including aircraft flying through Canadian airspace or any other airspace in respect of which Canada has responsibility for the provision of air traffic control services without landing or taking off in Canada, and includes the issuance of air traffic control clearances for aircraft to proceed during the departure, *en route* and approach phases of flight. (*services de contrôle de la circulation des aéronefs en vol*)
 
-***Executive Employment Transition Policy*** means the Executive Employment Transition Policy approved by the Treasury Board on August 24, 1992, as amended from time to time.
+***Executive Employment Transition Policy*** means the Executive Employment Transition Policy approved by the Treasury Board on August 24, 1992, as amended from time to time. (*Politique de transition dans la carrière pour les cadres de direction*)
 
-***flight information services*** means
+***flight information services*** means
 - **(a)** the dissemination of aviation weather information and aeronautical information for departure, destination and alternate aerodromes along a proposed route of flight;
 - **(b)** the dissemination of aviation weather information and aeronautical information to aircraft in flight;
 - **(c)** the acceptance, processing and activation of flight plans, amendments to flight plans and cancellations of flight plans;
 - **(d)** the acceptance and processing of flight notifications;
 - **(e)** the exchange of flight plan information with domestic or foreign governments or agencies or foreign air traffic services units; and
-- **(f)** the provision of known information concerning ground and air traffic.
+- **(f)** the provision of known information concerning ground and air traffic. (*services d’information de vol*)
 
-***flight notification*** means a flight notification within the meaning of regulations made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***flight notification*** means a flight notification within the meaning of regulations made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*avis de vol*)
 
-***flight plan*** means a flight plan within the meaning of regulations made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***flight plan*** means a flight plan within the meaning of regulations made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*plan de vol*)
 
-***manoeuvring area*** means the part of an aerodrome that is intended to be used for the taking off and landing of aircraft and for the movement of aircraft associated with take-off and landing, but does not include aprons.
+***manoeuvring area*** means the part of an aerodrome that is intended to be used for the taking off and landing of aircraft and for the movement of aircraft associated with take-off and landing, but does not include aprons. (*aire de manoeuvre*)
 
-***Minister*** means the Minister of Transport.
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***public service*** has the same meaning as in subsection 2(1) of the Public Service Labour Relations Act.
+***public service*** has the same meaning as in subsection 2(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). (*fonction publique*)
 
-***state aircraft*** means an aircraft, other than an aircraft operated for commercial purposes, that is owned and operated by the government of a country or the government of a colony, dependency, province, state, territory or municipality of a country.
+***state aircraft*** means an aircraft, other than an aircraft operated for commercial purposes, that is owned and operated by the government of a country or the government of a colony, dependency, province, state, territory or municipality of a country. (*aéronef d’État*)
 
-***transfer date*** means the date provided for as the transfer date in an agreement between Her Majesty in right of Canada and the Corporation.
+***transfer date*** means the date provided for as the transfer date in an agreement between Her Majesty in right of Canada and the Corporation. (*date de cession*)
 
-***user*** means an aircraft operator.
+***user*** means an aircraft operator. (*usager*)
 
-***Work Force Adjustment Directive*** means the Work Force Adjustment Directive issued on the recommendation of the National Joint Council of the Public Service and with the approval of the Treasury Board, that came into force on December 15, 1991, as amended from time to time.
+***Work Force Adjustment Directive*** means the Work Force Adjustment Directive issued on the recommendation of the National Joint Council of the Public Service and with the approval of the Treasury Board, that came into force on December 15, 1991, as amended from time to time. (*Directive sur le réaménagement des effectifs*)
 
 **Same meaning as [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md)**
 
@@ -147,7 +147,7 @@ en route air traffic control services means air traffic control services provide
 **Minister of National Defence**
 
 - **(8)** For the purposes of this Act, a person acting under the authority of the Minister of National Defence includes a person who is doing anything for a defence purpose pursuant to a contract or other arrangement with the Department of National Defence or the Canadian Forces.
-> 1996, c. 20, ss. 2, 108; 2003, c. 22, ss. 150(E), 225(E).
+> 1996, c. 20, ss. 2, 108; 2003, c. 22, ss. 150(E), 225(E); 2017, c. 9, s. 55.
 
 
 
