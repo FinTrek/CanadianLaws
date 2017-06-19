@@ -39,62 +39,62 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***aéronef d’État*** Aéronef, autre qu’un aéronef exploité à titre commercial, qui appartient au gouvernement d’un pays ou au gouvernement d’une colonie, d’une dépendance, d’une province, d’un État, d’un territoire ou d’une municipalité d’un pays et qui est exploité par ce gouvernement.
+***aéronef d’État*** Aéronef, autre qu’un aéronef exploité à titre commercial, qui appartient au gouvernement d’un pays ou au gouvernement d’une colonie, d’une dépendance, d’une province, d’un État, d’un territoire ou d’une municipalité d’un pays et qui est exploité par ce gouvernement. (*state aircraft*)
 
-***aire de manoeuvre*** La partie d’un aérodrome devant servir au décollage et à l’atterrissage des aéronefs et aux manoeuvres au sol qui se rattachent au décollage ou à l’atterrissage, à l’exclusion des aires de trafic.
+***aire de manoeuvre*** La partie d’un aérodrome devant servir au décollage et à l’atterrissage des aéronefs et aux manoeuvres au sol qui se rattachent au décollage ou à l’atterrissage, à l’exclusion des aires de trafic. (*manoeuvring area*)
 
-***aire de trafic*** La partie d’un aérodrome destinée à l’embarquement et au débarquement des voyageurs, au chargement et au déchargement du fret, au ravitaillement en carburant, à l’entretien courant et technique et au stationnement des aéronefs ainsi qu’au déplacement des aéronefs, des véhicules et des piétons nécessaire à ces fins.
+***aire de trafic*** La partie d’un aérodrome destinée à l’embarquement et au débarquement des voyageurs, au chargement et au déchargement du fret, au ravitaillement en carburant, à l’entretien courant et technique et au stationnement des aéronefs ainsi qu’au déplacement des aéronefs, des véhicules et des piétons nécessaire à ces fins. (*apron*)
 
-***avis de vol*** S’entend au sens des règlements pris en application de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***avis de vol*** S’entend au sens des règlements pris en application de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*flight notification*)
 
-***biens désignés*** Biens désignés par le ministre en vertu du paragraphe (3).
+***biens désignés*** Biens désignés par le ministre en vertu du paragraphe (3). (*designated civil air navigation services asset*)
 
-***Convention de Chicago*** Convention relative à l’Aviation civile internationale signée à Chicago le 7 décembre 1944, dans sa version modifiée.
+***Convention de Chicago*** Convention relative à l’Aviation civile internationale signée à Chicago le 7 décembre 1944, dans sa version modifiée. (*Chicago Convention*)
 
-***date de cession*** Date de cession prévue dans l’accord conclu entre Sa Majesté du chef du Canada et la société.
+***date de cession*** Date de cession prévue dans l’accord conclu entre Sa Majesté du chef du Canada et la société. (*transfer date*)
 
-***Directive sur le réaménagement des effectifs*** La Directive sur le réaménagement des effectifs — entrée en vigueur le 15 décembre 1991 — établie sur la recommandation du Conseil national mixte de la fonction publique et approuvée par le Conseil du Trésor, dans sa version modifiée.
+***Directive sur le réaménagement des effectifs*** La Directive sur le réaménagement des effectifs — entrée en vigueur le 15 décembre 1991 — établie sur la recommandation du Conseil national mixte de la fonction publique et approuvée par le Conseil du Trésor, dans sa version modifiée. (*Work Force Adjustment Directive*)
 
-***employé désigné*** Personne dont le nom figure sur la liste établie en vertu du paragraphe (4).
+***employé désigné*** Personne dont le nom figure sur la liste établie en vertu du paragraphe (4). (*designated employee*)
 
-***fonction publique*** S’entend au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***fonction publique*** S’entend au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). (*Public Service*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***Office*** L’Office des transports du Canada, maintenu par le paragraphe 7(1) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+***Office*** L’Office des transports du Canada, maintenu par le paragraphe 7(1) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md). (*Agency*)
 
-***plan de vol*** S’entend au sens des règlements pris en application de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***plan de vol*** S’entend au sens des règlements pris en application de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*flight plan*)
 
-***Politique de transition dans la carrière pour les cadres de direction*** Politique approuvée par le Conseil du Trésor le 24 août 1992, dans sa version modifiée.
+***Politique de transition dans la carrière pour les cadres de direction*** Politique approuvée par le Conseil du Trésor le 24 août 1992, dans sa version modifiée. (*Executive Employment Transition Policy*)
 
-***services aux régions nordiques ou éloignées*** Les services de navigation aérienne civile :
+***services aux régions nordiques ou éloignées*** Les services de navigation aérienne civile :
 - **a)** désignés en vertu du paragraphe (5);
-- **b)** en leur état après la réduction ou suppression faite conformément aux articles 18 à 22, compte tenu des services qui peuvent être ajoutés en contrepartie à cette réduction ou suppression.
+- **b)** en leur état après la réduction ou suppression faite conformément aux articles 18 à 22, compte tenu des services qui peuvent être ajoutés en contrepartie à cette réduction ou suppression. (*designated northern or remote services*)
 
-***services de communication aéronautique*** Le service de diffusion de renseignements aéronautiques, le service fixe aéronautique et le service mobile aéronautique mentionnés à l’annexe 10 de la Convention de Chicago.
+***services de communication aéronautique*** Le service de diffusion de renseignements aéronautiques, le service fixe aéronautique et le service mobile aéronautique mentionnés à l’annexe 10 de la Convention de Chicago. (*aeronautical communication services*)
 
-***services de contrôle de la circulation aérienne*** Services — autres que les services d’information de vol — visant à assurer l’écoulement du trafic aérien de façon prompte et ordonnée, à prévenir les collisions entre les aéronefs, entre les aéronefs et les obstacles et entre les aéronefs et les véhicules sur les aires de manoeuvre.
+***services de contrôle de la circulation aérienne*** Services — autres que les services d’information de vol — visant à assurer l’écoulement du trafic aérien de façon prompte et ordonnée, à prévenir les collisions entre les aéronefs, entre les aéronefs et les obstacles et entre les aéronefs et les véhicules sur les aires de manoeuvre. (*air traffic control services*)
 
-***services de contrôle de la circulation aérienne en zone aéroportuaire*** Services de contrôle de la circulation aérienne — autres que les services de contrôle de la circulation des aéronefs en vol — fournis aux aéronefs dans l’aire de manoeuvre et dans l’espace aérien à proximité de l’aérodrome, y compris la délivrance des autorisations du contrôle de la circulation aérienne pour circuler sur les pistes, décoller ou atterrir.
+***services de contrôle de la circulation aérienne en zone aéroportuaire*** Services de contrôle de la circulation aérienne — autres que les services de contrôle de la circulation des aéronefs en vol — fournis aux aéronefs dans l’aire de manoeuvre et dans l’espace aérien à proximité de l’aérodrome, y compris la délivrance des autorisations du contrôle de la circulation aérienne pour circuler sur les pistes, décoller ou atterrir. (*airport air traffic control services*)
 
-***services de contrôle de la circulation des aéronefs en vol*** Services de contrôle de la circulation aérienne fournis aux aéronefs se trouvant entre deux aérodromes, notamment ceux évoluant dans l’espace aérien canadien ou dans celui pour lequel le Canada est responsable des services de contrôle de la circulation aérienne, sans décoller ni atterrir au Canada, et comprend la délivrance des autorisations du contrôle de la circulation aérienne durant les phases de décollage, de vol et d’approche.
+***services de contrôle de la circulation des aéronefs en vol*** Services de contrôle de la circulation aérienne fournis aux aéronefs se trouvant entre deux aérodromes, notamment ceux évoluant dans l’espace aérien canadien ou dans celui pour lequel le Canada est responsable des services de contrôle de la circulation aérienne, sans décoller ni atterrir au Canada, et comprend la délivrance des autorisations du contrôle de la circulation aérienne durant les phases de décollage, de vol et d’approche. (*en route air traffic control services*)
 
-***services de météorologie aéronautique*** La détermination, en conformité avec la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) et ses règlements d’application, des endroits où sont requises des observations et des prévisions météorologiques pour le monde de l’aviation et la détermination de la fréquence de ces dernières, leur obtention et la diffusion de renseignements de nature météorologique, notamment par instructions météo.
+***services de météorologie aéronautique*** La détermination, en conformité avec la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) et ses règlements d’application, des endroits où sont requises des observations et des prévisions météorologiques pour le monde de l’aviation et la détermination de la fréquence de ces dernières, leur obtention et la diffusion de renseignements de nature météorologique, notamment par instructions météo. (*aviation weather services*)
 
-***services de navigation aérienne*** Lorsqu’ils sont fournis à l’égard de l’espace aérien canadien ou de celui pour lequel le Canada est responsable des services de contrôle de la circulation aérienne :
+***services de navigation aérienne*** Lorsqu’ils sont fournis à l’égard de l’espace aérien canadien ou de celui pour lequel le Canada est responsable des services de contrôle de la circulation aérienne :
 - **a)** les services de communication aéronautique;
 - **b)** les services d’information aéronautique;
 - **c)** les services de radionavigation aéronautique;
 - **d)** les services de contrôle de la circulation aérienne;
 - **e)** les services de météorologie aéronautique;
 - **f)** les services d’urgence;
-- **g)** les services d’information de vol.
+- **g)** les services d’information de vol. (*air navigation services*)
 
-***services de navigation aérienne civile*** Les services de navigation aérienne fournis autrement qu’en vertu des pouvoirs que confèrent au ministre de la Défense nationale la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***services de navigation aérienne civile*** Les services de navigation aérienne fournis autrement qu’en vertu des pouvoirs que confèrent au ministre de la Défense nationale la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*civil air navigation services*)
 
-***services de radionavigation aéronautique*** Services mentionnés à l’annexe 10 de la Convention de Chicago, y compris les services de radionavigation électroniques pour assister la personne qui pilote l’aéronef selon les règles de vol aux instruments durant les phases de décollage, de vol, d’approche et d’atterrissage.
+***services de radionavigation aéronautique*** Services mentionnés à l’annexe 10 de la Convention de Chicago, y compris les services de radionavigation électroniques pour assister la personne qui pilote l’aéronef selon les règles de vol aux instruments durant les phases de décollage, de vol, d’approche et d’atterrissage. (*aeronautical radio navigation services*)
 
-***services d’information aéronautique*** Services nécessaires pour satisfaire aux obligations prévues aux annexes 4 et 15 de la Convention de Chicago concernant l’information aéronautique.
+***services d’information aéronautique*** Services nécessaires pour satisfaire aux obligations prévues aux annexes 4 et 15 de la Convention de Chicago concernant l’information aéronautique. (*aeronautical information services*)
 
 ***services d’information de vol***
 - **a)** La diffusion de renseignements sur la météorologie aéronautique et de l’information aéronautique pour les aérodromes de départ, de destination et de dégagement, tout le long de la route de vol;
@@ -102,13 +102,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la réception, le traitement et la mise en vigueur des plans de vol, et des modifications et des annulations de plan de vol;
 - **d)** la réception et le traitement des avis de vol;
 - **e)** l’échange de l’information relative aux plans de vol avec des administrations publiques canadiennes ou étrangères ou leur mandataire, ou avec des unités étrangères chargées de la circulation aérienne;
-- **f)** la fourniture de toute information connue relative à la circulation au sol et dans les airs.
+- **f)** la fourniture de toute information connue relative à la circulation au sol et dans les airs. (*flight information services*)
 
-***services d’urgence*** Services d’aide aux aéronefs en état d’urgence, notamment aux aéronefs en phase d’incertitude, d’alerte ou de détresse, ou qui sont victimes de piraterie aérienne, ainsi que les services d’alerte aux organismes de coordination de sauvetage lorsque l’aéronef ne répond plus ou est en retard.
+***services d’urgence*** Services d’aide aux aéronefs en état d’urgence, notamment aux aéronefs en phase d’incertitude, d’alerte ou de détresse, ou qui sont victimes de piraterie aérienne, ainsi que les services d’alerte aux organismes de coordination de sauvetage lorsque l’aéronef ne répond plus ou est en retard. (*emergency assistance services*)
 
-***société*** La société NAV CANADA, constituée aux termes de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) le 26 mai 1995.
+***société*** La société NAV CANADA, constituée aux termes de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) le 26 mai 1995. (*Corporation*)
 
-***usager*** Exploitant d’un aéronef.
+***usager*** Exploitant d’un aéronef. (*user*)
 
 **Terminologie**
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ministre de la Défense nationale**
 
 - **(8)** Pour l’application de la présente loi, est assimilée à la personne autorisée par le ministre de la Défense nationale celle qui, aux termes d’un accord ou de tout autre arrangement avec le ministère de la Défense nationale ou les Forces canadiennes, accomplit une chose pour un motif de défense.
-> 1996, ch. 20, art. 2 et 108; 2003, ch. 22, art. 150(A) et 225(A).
+> 1996, ch. 20, art. 2 et 108; 2003, ch. 22, art. 150(A) et 225(A); 2017, ch. 9, art. 55.
 
 
 
