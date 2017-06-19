@@ -330,7 +330,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Right of employer**
 
-- **(2)** Nothing in the Public Service Labour Relations Act shall be construed to affect the right or authority of the Chief Executive Officer to deal with the matters referred to in paragraph (1)(b).
+- **(2)** Nothing in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) shall be construed to affect the right or authority of the Chief Executive Officer to deal with the matters referred to in paragraph (1)(b).
 
 **Human resources management**
 
@@ -338,7 +338,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** determine the organization of and classify the positions in the Agency;
 	- **(b)** set the terms and conditions of employment, including termination of employment for cause, for employees and assign duties to them; and
 	- **(c)** provide for any other matters that the Chief Executive Officer considers necessary for effective human resources management in the Agency.
-> 1998, c. 31, s. 13; 2003, c. 22, ss. 180, 223(E).
+> 1998, c. 31, s. 13; 2003, c. 22, ss. 180, 223(E); 2017, c. 9, s. 55.
 
 
 
@@ -361,8 +361,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Negotiation of collective agreements**
 
-**15** Notwithstanding section 112 of the Public Service Labour Relations Act, the Chief Executive Officer may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees that is applicable to employees in that bargaining unit.
-> 1998, c. 31, s. 15; 2003, c. 22, s. 181.
+**15** Notwithstanding section 112 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Chief Executive Officer may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees that is applicable to employees in that bargaining unit.
+> 1998, c. 31, s. 15; 2003, c. 22, s. 181; 2017, c. 9, s. 55.
 
 
 
@@ -466,19 +466,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** Despite any other Act of Parliament, amounts may be paid out of the New Parks and Historic Sites Account for the following purposes:
 	- **(a)** to acquire any historic place, or lands for historic museums, or any interest therein, for the purpose of paragraph 3(d) of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
-	- **(b)** to acquire any real property or immovables for the purpose of establishing, enlarging or designating, as the case may be, any national park, national historic site, national marine conservation area or other protected heritage area that has not yet attained full operational status;
-	- **(c)** to develop or maintain any national park, national historic site, national marine conservation area or other protected heritage area that has not yet attained full operational status, and to make any related contribution or other payment;
+	- **(b)** to acquire any real property or immovables for the purpose of establishing, enlarging or designating, as the case may be, any national park, national historic site, national marine conservation area or other protected heritage area;
+	- **(c)** to develop or maintain any national park, national historic site, national marine conservation area or other protected heritage area that is being established, enlarged or designated, and to make any related contribution or other payment;
 	- **(d)** to implement a decision by the Minister to recommend the establishment of a national park, national historic site, national marine conservation area or other protected heritage area, or to commemorate a historic place under section 3 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), and to make any related contribution or other payment; and
 	- **(e)** to repay advances made under subsection 22(2).
 
-**Determination of status**
-
-- **(4)** The Chief Executive Officer must, in accordance with the guidelines established under subsection (5), determine whether a national park, national historic site, national marine conservation area or other protected heritage area has attained full operational status for the purposes of paragraphs (3)(b) and (c).
-
-**Guidelines**
-
-- **(5)** The Chief Executive Officer must, with the approval of the Minister, establish guidelines respecting the making of a determination under subsection (4).
-> 1998, c. 31, s. 21; 2001, c. 4, s. 167; 2002, c. 18, s. 38; 2012, c. 19, s. 317.
+- **(4) and (5)** [Repealed, 2017, c. 10, s. 4]
+> 1998, c. 31, s. 21; 2001, c. 4, s. 167; 2002, c. 18, s. 38; 2012, c. 19, s. 317; 2017, c. 10, s. 4.
 
 
 
