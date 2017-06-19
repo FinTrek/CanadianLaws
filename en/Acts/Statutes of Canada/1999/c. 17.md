@@ -722,8 +722,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Separate agency**
 
-**50** The Agency is a separate agency under the Public Service Labour Relations Act.
-> 1999, c. 17, s. 50; 2003, c. 22, s. 97.
+**50** The Agency is a separate agency under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 1999, c. 17, s. 50; 2003, c. 22, s. 97; 2017, c. 9, s. 55.
 
 
 
