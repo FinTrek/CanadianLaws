@@ -65,44 +65,44 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***Board*** means the Public Service Labour Relations and Employment Board that is established by subsection 4(1) of the Public Service Labour Relations and Employment Board Act.
+***Board*** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md). (*Commission des relations de travail et de l’emploi*)
 
-***Commission*** means the Public Service Commission continued by subsection 4(1).
+***Commission*** means the Public Service Commission continued by subsection 4(1). (*Commission*)
 
-***department*** means
+***department*** means
 - **(a)** an organization named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 - **(b)** any other organization that is designated by the Governor in Council as a department for the purposes of this Act; or
-- **(c)** any part of any organization that is designated by the Governor in Council as a department for the purposes of this Act.
+- **(c)** any part of any organization that is designated by the Governor in Council as a department for the purposes of this Act. (*ministère*)
 
-***deployment*** means the transfer of a person from one position to another in accordance with Part 3.
+***deployment*** means the transfer of a person from one position to another in accordance with Part 3. (*mutation*)
 
 ***deputy head***
 - **(a)** in relation to an organization named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), its deputy minister;
 - **(b)** in relation to any organization or part of an organization that is designated as a department under this Act, the person that the Governor in Council designates as the deputy head for the purposes of this Act; and
-- **(c)** in relation to any organization named in Schedule IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) to which the Commission has the exclusive authority to make appointments, its chief executive officer or, if there is no chief executive officer, its statutory deputy head or, if there is neither, the person designated by the Governor in Council as its deputy head for the purposes of this Act.
+- **(c)** in relation to any organization named in Schedule IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) to which the Commission has the exclusive authority to make appointments, its chief executive officer or, if there is no chief executive officer, its statutory deputy head or, if there is neither, the person designated by the Governor in Council as its deputy head for the purposes of this Act. (*administrateur général*)
 
-***employee*** means a person employed in that part of the public service to which the Commission has exclusive authority to make appointments.
+***employee*** means a person employed in that part of the public service to which the Commission has exclusive authority to make appointments. (*fonctionnaire*)
 
-***employer*** means
+***employer*** means
 - **(a)** the Treasury Board, in relation to an organization named in Schedule I or IV to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
-- **(b)** in relation to a separate agency to which the Commission has exclusive authority to make appointments, that separate agency.
+- **(b)** in relation to a separate agency to which the Commission has exclusive authority to make appointments, that separate agency. (*employeur*)
 
-***external appointment process*** means a process for making one or more appointments in which persons may be considered whether or not they are employed in the public service.
+***external appointment process*** means a process for making one or more appointments in which persons may be considered whether or not they are employed in the public service. (*processus de nomination externe*)
 
-***internal appointment process*** means a process for making one or more appointments in which only persons employed in the public service may be considered.
+***internal appointment process*** means a process for making one or more appointments in which only persons employed in the public service may be considered. (*processus de nomination interne*)
 
-***minister***, except in section 131, means any minister referred to in section 4.1 of the [Salaries Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-3.md) and any minister of State referred to in the [Ministries and Ministers of State Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-8.md).
+***minister***, except in section 131, means any minister referred to in section 4.1 of the [Salaries Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-3.md) and any minister of State referred to in the [Ministries and Ministers of State Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-8.md). (*ministre*)
 
-***organization*** means any portion of the federal public administration named in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+***organization*** means any portion of the federal public administration named in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md). (*administration*)
 
-***public service*** means the several positions in or under
+***public service*** means the several positions in or under
 - **(a)** the departments named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 - **(b)** the organizations named in Schedule IV to that Act; and
-- **(c)** the separate agencies named in Schedule V to that Act.
+- **(c)** the separate agencies named in Schedule V to that Act. (*fonction publique*)
 
-***separate agency*** means an organization named in Schedule V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+***separate agency*** means an organization named in Schedule V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md). (*organisme distinct*)
 
-***statutory deputy head*** means any officer who, by any Act of Parliament, is or is deemed to be a deputy head or who has, or is deemed to have, the rank of a deputy head.
+***statutory deputy head*** means any officer who, by any Act of Parliament, is or is deemed to be a deputy head or who has, or is deemed to have, the rank of a deputy head. (*administrateur général au titre de la loi*)
 
 ***Tribunal***[Repealed, 2013, c. 40, s. 403]
 
@@ -119,7 +119,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **References to abuse of authority**
 
 - **(4)** For greater certainty, a reference in this Act to abuse of authority shall be construed as including bad faith and personal favouritism.
-> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17; 2013, c. 40, s. 403.
+> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17; 2013, c. 40, s. 403; 2017, c. 9, s. 48.
 
 
 
@@ -288,7 +288,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Consultation by Commission**
 
-**14** The Commission shall, on request or if it considers consultation necessary or desirable, consult with the employer or any employee organization certified as a bargaining agent under the Public Service Labour Relations Act with respect to policies respecting the manner of making and revoking appointments or with respect to the principles governing lay-offs or priorities for appointment.
+**14** The Commission shall, on request or if it considers consultation necessary or desirable, consult with the employer or any employee organization certified as a bargaining agent under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) with respect to policies respecting the manner of making and revoking appointments or with respect to the principles governing lay-offs or priorities for appointment.
+> 2003, c. 22, s. 12 “14”; 2017, c. 9, s. 55.
+
 
 
 
@@ -496,8 +498,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation by employer**
 
 **27** An employer shall, on request or if it considers consultation necessary or desirable,
-- **(a)** consult with the Commission, or any employee organization certified as a bargaining agent under the Public Service Labour Relations Act, with respect to regulations made under paragraph 26(1)(b) or (d) or corresponding policies made under subsection 26(2), as the case may be; and
+- **(a)** consult with the Commission, or any employee organization certified as a bargaining agent under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), with respect to regulations made under paragraph 26(1)(b) or (d) or corresponding policies made under subsection 26(2), as the case may be; and
 - **(b)** consult with any employee organization so certified with respect to regulations made under paragraph 26(1)(a) or (c) or corresponding policies made under subsection 26(2), as the case may be, or with respect to any standards established under subsection 31(1).
+> 2003, c. 22, s. 12 “27”; 2017, c. 9, s. 55.
+
 
 
 
@@ -1443,7 +1447,7 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 
 **PART 6** 
-## Public Service Labour Relations and Employment Board
+## Federal Public Sector Labour Relations and Employment Board
 
 
 
@@ -1550,12 +1554,12 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 **Non-application**
 
-- **(2)** Section 35 of the Public Service Labour Relations and Employment Board Act does not apply to an order of the Board referred to in subsection (1).
+- **(2)** Section 35 of the [Federal Public Sector Labour Relations and Employment Board Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20s.%20365.md) does not apply to an order of the Board referred to in subsection (1).
 
 **Effect of filing**
 
 - **(3)** An order of the Board becomes an order of the Federal Court when a certified copy of it is filed in that court, and it may subsequently be enforced as such.
-> 2003, c. 22, s. 12 "103"; 2013, c. 40, s. 407.
+> 2003, c. 22, s. 12 “103”; 2013, c. 40, s. 407; 2017, c. 9, s. 56.
 
 
 
