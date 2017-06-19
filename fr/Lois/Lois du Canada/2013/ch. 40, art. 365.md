@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2013/c.%2040,%20art.%20365.md)
 
-# Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique
+# Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral
 
 **L.C. 2013, ch. 40, art. 365**
 
@@ -27,7 +27,9 @@ Sanctionnée sur le 12 décembre 2013
 
 **Titre abrégé**
 
-**1** Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+**1** Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral.
+> 2013, ch. 40, art. 365 « 1 »; 2017, ch. 9, art. 36.
+
 
 
 
@@ -40,11 +42,13 @@ Sanctionnée sur le 12 décembre 2013
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent négociateur*** S’entend au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***agent négociateur*** S’entend au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). (*bargaining agent*)
 
-***employeur*** S’entend au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***employeur*** S’entend au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). (*employer*)
 
-***ministre*** Le ministre désigné en vertu de l’article 3.
+***ministre*** Le ministre désigné en vertu de l’article 3. (*Minister*)
+> 2013, ch. 40, art. 365 « 2 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -60,27 +64,29 @@ Sanctionnée sur le 12 décembre 2013
 
 
 
-## Commission des relations de travail et de l’emploi dans la fonction publique
+## Commission des relations de travail et de l’emploi dans le secteur public fédéral 
 
 
 
-### Création et composition
+### Maintien et composition
 
 
 
-**Création de la Commission**
+**Maintien de la Commission**
 
 **4** 
 
-- **(1)** Est créée la Commission des relations de travail et de l’emploi dans la fonction publique.
+- **(1)** La Commission des relations de travail et de l’emploi dans la fonction publique est maintenue sous le nom de Commission des relations de travail et de l’emploi dans le secteur public fédéral.
 
 **Composition**
 
 - **(2)** La Commission se compose :
 	- **a)** du président, nommé à temps plein;
 	- **b)** d’au plus deux vice-présidents, nommés à temps plein;
-	- **c)** d’au plus dix autres commissaires nommés à temps plein;
+	- **c)** d’au plus douze autres commissaires nommés à temps plein;
 	- **d)** des commissaires à temps partiel que le gouverneur en conseil estime nécessaires à l’exercice des attributions de la Commission.
+> 2013, ch. 40, art. 365 « 4 »; 2017, ch. 9, art. 38.
+
 
 
 
@@ -96,12 +102,14 @@ Sanctionnée sur le 12 décembre 2013
 - **(1)** Pour être admissible à la charge de commissaire, il faut :
 	- **a)** être citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
 	- **b)** ne pas occuper une autre charge ou un autre emploi relevant de l’employeur;
-	- **c)** ne pas adhérer à une organisation syndicale, au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), accréditée à titre d’agent négociateur, ni occuper une charge ou un emploi relevant d’une telle organisation;
+	- **c)** ne pas adhérer à une organisation syndicale, au sens du paragraphe 2(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), accréditée à titre d’agent négociateur, ni occuper une charge ou un emploi relevant d’une telle organisation;
 	- **d)** ne pas accepter de charge ou d’emploi  — ni exercer d’activité  —  incompatibles avec ses fonctions.
 
 **Compatibilité**
 
 - **(2)** Malgré l’alinéa (1)b), le seul fait d’être commissaire d’un organisme ou d’une commission constitué par le commissaire en conseil des Territoires du Nord-Ouest ou par la Législature du Yukon ou celle du Nunavut, et d’être doté d’attributions semblables à celles de la Commission n’est pas incompatible avec la charge de commissaire.
+> 2013, ch. 40, art. 365 « 5 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -111,6 +119,10 @@ Sanctionnée sur le 12 décembre 2013
 **6** 
 
 - **(1)** Les commissaires, à l’exception du président et des vice-présidents, sont choisis parmi les personnes admissibles dont le nom figure sur une liste dressée par le président après consultation de l’employeur et des agents négociateurs.
+
+**Connaissance des organisations policières**
+
+- **(1.1)** Lorsqu’il dresse la liste, le président doit prendre en compte le besoin pour la Commission de compter parmi les commissaires deux membres ayant une connaissance des organisations policières.
 
 **Contenu de la liste**
 
@@ -126,6 +138,8 @@ Sanctionnée sur le 12 décembre 2013
 **Impartialité**
 
 - **(4)** Malgré son éventuelle nomination sur recommandation de l’employeur ou des agents négociateurs, le commissaire ne représente ni l’employeur ni les employés et est tenu d’agir avec impartialité dans l’exercice de ses attributions.
+> 2013, ch. 40, art. 365 « 6 »; 2017, ch. 9, art. 39.
+
 
 
 
@@ -160,8 +174,10 @@ Sanctionnée sur le 12 décembre 2013
 
 **Serment ou affirmation solennelle**
 
-**9** Avant leur entrée en fonctions, les commissaires prêtent ou font, selon le cas, le serment ou l’affirmation solennelle ci-après devant un commissaire aux serments ou toute autre personne autorisée à recevoir les serments ou affirmations solennelles :Moi, ____________, je jure (ou j’affirme solennellement) que j’exercerai de mon mieux, fidèlement, sincèrement et impartialement, les fonctions de commissaire (ou président ou vice-président) de la Commission des relations de travail et de l’emploi dans la fonction publique.
+**9** Avant leur entrée en fonctions, les commissaires prêtent ou font, selon le cas, le serment ou l’affirmation solennelle ci-après devant un commissaire aux serments ou toute autre personne autorisée à recevoir les serments ou affirmations solennelles :Moi, ____________, je jure (ou j’affirme solennellement) que j’exercerai de mon mieux, fidèlement, sincèrement et impartialement, les fonctions de commissaire (ou président ou vice-président) de la Commission des relations de travail et de l’emploi dans le secteur public fédéral.
 
+
+> 2013, ch. 40, art. 365 « 9 »; 2017, ch. 9, art. 57.
 
 
 
