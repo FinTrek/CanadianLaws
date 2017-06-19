@@ -297,10 +297,10 @@ this Act and the regulations made thereunder take precedence.
 
 - **(2)** In this section,
 
-***civil servant*** has the same meaning as in the Provincial Act;
+***civil servant*** has the same meaning as in the Provincial Act; (*fonctionnaire*)
 
-***Public Service of Canada*** has the meaning given the expression “public service” in the Public Service Labour Relations Act, and includes any portion of the federal public administration designated by order in council pursuant to this subsection and for the purposes of subsection (1) as part of the Public Service of Canada.
-> 1987, c. 3, s. 11; 2003, c. 22, s. 117(E).
+***Public Service of Canada*** has the meaning given the expression public service in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), and includes any portion of the federal public administration designated by order in council pursuant to this subsection and for the purposes of subsection (1) as part of the Public Service of Canada. (*administration fédérale*)
+> 1987, c. 3, s. 11; 2003, c. 22, s. 117(E); 2017, c. 9, s. 55.
 
 
 
@@ -586,8 +586,8 @@ whichever occurs earlier.
 
 **Definition of public service**
 
-- **(5)** In this section, ***public service*** has the same meaning as in the Public Service Labour Relations Act.
-> 1987, c. 3, s. 25; 2003, c. 22, ss. 118, 225(E), 231; 2014, c. 13, s. 8.
+- **(5)** In this section, ***public service*** has the same meaning as in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
+> 1987, c. 3, s. 25; 2003, c. 22, ss. 118, 225(E), 231; 2014, c. 13, s. 8; 2017, c. 9, s. 55.
 
 
 
