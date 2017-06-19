@@ -55,37 +55,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation.
+***agent négociateur*** Organisation syndicale accréditée par la Commission et représentant à ce titre une unité de négociation. (*bargaining agent*)
 
-***à prédominance féminine*** S’agissant d’un groupe d’emplois ou d’une catégorie d’emplois, le groupe ou la catégorie dont l’effectif comporte soixante-dix pour cent ou plus d’employés de sexe féminin.
+***à prédominance féminine*** S’agissant d’un groupe d’emplois ou d’une catégorie d’emplois, le groupe ou la catégorie dont l’effectif comporte soixante-dix pour cent ou plus d’employés de sexe féminin. (*female predominant*)
 
-***catégorie d’emplois*** Au sein d’un même groupe d’emplois, ensemble de postes qui comportent des fonctions et des responsabilités semblables, exigent des compétences semblables, relèvent du même régime de rémunération et offrent la même gamme de taux de salaire.
+***catégorie d’emplois*** Au sein d’un même groupe d’emplois, ensemble de postes qui comportent des fonctions et des responsabilités semblables, exigent des compétences semblables, relèvent du même régime de rémunération et offrent la même gamme de taux de salaire. (*job class*)
 
-***Commission*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+***Commission*** La Commission des relations de travail et de l’emploi dans le secteur public fédéral visée par le paragraphe 4(1) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md). (*Board*)
 
-***convention collective*** Convention écrite renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes conclue entre un employeur et un agent négociateur sous le régime de la partie 1 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***convention collective*** Convention écrite renfermant des dispositions relatives aux conditions d’emploi et à des questions connexes conclue entre un employeur et un agent négociateur sous le régime de la partie 1 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). (*collective agreement*)
 
-***employé*** Personne employée par un employeur, à l’exclusion de toute personne :
+***employé*** Personne employée par un employeur, à l’exclusion de toute personne :
 - **a)** nommée par le gouverneur en conseil, en vertu d’une loi fédérale, à un poste prévu par cette loi;
-- **b)** recrutée sur place à l’étranger.
+- **b)** recrutée sur place à l’étranger. (*employee*)
 
-***employé non syndiqué*** Employé qui ne fait pas partie d’une unité de négociation représentée par un agent négociateur.
+***employé non syndiqué*** Employé qui ne fait pas partie d’une unité de négociation représentée par un agent négociateur. (*non-unionized employee*)
 
-***employé syndiqué*** Employé qui fait partie d’une unité de négociation représentée par un agent négociateur.
+***employé syndiqué*** Employé qui fait partie d’une unité de négociation représentée par un agent négociateur. (*unionized employee*)
 
-***employeur*** Sa Majesté du chef du Canada, représentée :
+***employeur*** Sa Majesté du chef du Canada, représentée :
 - **a)** par le Conseil du Trésor, dans le cas d’un ministère figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou d’un autre secteur de l’administration publique fédérale figurant à l’annexe IV de cette loi;
-- **b)** par l’organisme distinct en cause, dans le cas d’un secteur de l’administration publique fédérale figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **b)** par l’organisme distinct en cause, dans le cas d’un secteur de l’administration publique fédérale figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*employer*)
 
-***groupe d’emplois*** S’entend au sens des règlements.
+***groupe d’emplois*** S’entend au sens des règlements. (*job group*)
 
-***rémunération*** Toute forme de traitement à payer à un employé en contrepartie de son travail et, notamment :
+***rémunération*** Toute forme de traitement à payer à un employé en contrepartie de son travail et, notamment :
 - **a)** les salaires, les commissions, les indemnités de vacances ou de départ et les primes;
 - **b)** les rétributions en nature;
 - **c)** les cotisations de l’employeur aux caisses ou régimes de pension, aux régimes d’assurance contre l’invalidité prolongée et aux régimes d’assurance-maladie de toute nature;
-- **d)** les autres avantages reçus directement ou indirectement de l’employeur.
+- **d)** les autres avantages reçus directement ou indirectement de l’employeur. (*compensation*)
 
-***unité de négociation*** Groupe d’employés dont la Commission a déclaré qu’il constitue une unité habile à négocier collectivement.
+***unité de négociation*** Groupe d’employés dont la Commission a déclaré qu’il constitue une unité habile à négocier collectivement. (*bargaining unit*)
 
 **Gendarmerie royale du Canada**
 
@@ -96,7 +96,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Pour l’application de la présente loi :
 	- **a)** les officiers et militaires du rang des Forces canadiennes sont réputés être des employés;
 	- **b)** Sa Majesté du chef du Canada, représentée par le Conseil du Trésor, est réputée être l’employeur des personnes visées à l’alinéa a).
-> 2009, ch. 2, art. 394 « 2 »; 2013, ch. 40, art. 441.
+> 2009, ch. 2, art. 394 « 2 »; 2013, ch. 40, art. 441; 2017, ch. 9, art. 50 et 55.
 
 
 
@@ -334,7 +334,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Convention collective**
 
-**16** Les dispositions portant sur la rémunération équitable comprises dans une convention collective conclue entre l’employeur et l’agent négociateur ne peuvent être incompatibles avec l’article 113 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+**16** Les dispositions portant sur la rémunération équitable comprises dans une convention collective conclue entre l’employeur et l’agent négociateur ne peuvent être incompatibles avec les articles 113 et 238.19 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 2009, ch. 2, art. 394 « 16 »; 2017, ch. 9, art. 51.
+
 
 
 
@@ -345,8 +347,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Arbitrage**
 
-**17** Si l’arbitrage est choisi comme mode de règlement du différend au titre du paragraphe 104(1) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) ou s’il s’agit du mode de règlement applicable au titre du paragraphe 104(2) de cette loi, toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande d’arbitrage présentée en vertu du paragraphe 136(1) de cette loi.
-> 2009, ch. 2, art. 394 « 17 »; 2013, ch. 40, art. 361.
+**17** Si l’arbitrage est choisi comme mode de règlement du différend au titre du paragraphe 104(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ou s’il s’agit du mode de règlement applicable au titre du paragraphe 104(2) ou de l’article 238.18 de cette loi, toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande d’arbitrage présentée en vertu du paragraphe 136(1) de cette loi.
+> 2009, ch. 2, art. 394 « 17 »; 2013, ch. 40, art. 361; 2017, ch. 9, art. 52.
 
 
 
@@ -354,7 +356,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligations de l’organisme saisi d’une demande d’arbitrage**
 
-**18** L’organisme saisi en vertu de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) d’une demande d’arbitrage qui soulève toute question relative à la rémunération équitable à verser aux employés décide, à moins que les parties ne concluent un accord, si tout groupe d’emplois est à prédominance féminine et, dans l’affirmative, détermine comment l’évaluation en matière de rémunération équitable sera effectuée à son égard.
+**18** L’organisme saisi en vertu de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) d’une demande d’arbitrage qui soulève toute question relative à la rémunération équitable à verser aux employés décide, à moins que les parties ne concluent un accord, si tout groupe d’emplois est à prédominance féminine et, dans l’affirmative, détermine comment l’évaluation en matière de rémunération équitable sera effectuée à son égard.
+> 2009, ch. 2, art. 394 « 18 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -363,7 +367,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **19** 
 
-- **(1)** L’organisme saisi en vertu de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) d’une demande d’arbitrage qui soulève une question de rémunération équitable rend, sous réserve de l’article 150 de cette loi, une décision arbitrale comportant un plan pour régler cette question dans un délai raisonnable.
+- **(1)** L’organisme saisi en vertu de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) d’une demande d’arbitrage qui soulève une question de rémunération équitable rend, sous réserve des articles 150 et 238.22 de cette loi, une décision arbitrale comportant un plan pour régler cette question dans un délai raisonnable.
 
 **Rapport**
 
@@ -374,6 +378,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copies envoyées à l’employeur et à l’agent négociateur**
 
 - **(3)** Dès la réception de sa copie du rapport, le président de la Commission en envoie une copie à l’employeur et à l’agent négociateur visés; il peut ensuite la faire publier de la manière qu’il estime indiquée.
+> 2009, ch. 2, art. 394 « 19 »; 2017, ch. 9, art. 53.
+
 
 
 
@@ -384,8 +390,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conciliation**
 
-**20** Si la conciliation est le mode de règlement du différend au titre de l’article 103 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande de conciliation présentée en vertu du paragraphe 161(1) de cette loi.
-> 2009, ch. 2, art. 394 « 20 »; 2013, ch. 40, art. 362.
+**20** Si la conciliation est le mode de règlement du différend au titre de l’article 103 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande de conciliation présentée en vertu du paragraphe 161(1) de cette loi.
+> 2009, ch. 2, art. 394 « 20 »; 2013, ch. 40, art. 362; 2017, ch. 9, art. 55.
 
 
 
@@ -393,9 +399,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligations de la commission de l’intérêt public saisie d’une demande de conciliation**
 
-**21** La commission de l’intérêt public saisie en vertu de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) d’une demande de conciliation qui soulève toute question relative à la rémunération équitable à verser aux employés :
+**21** La commission de l’intérêt public saisie en vertu de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) d’une demande de conciliation qui soulève toute question relative à la rémunération équitable à verser aux employés :
 - **a)** décide, à moins que les parties ne concluent un accord, si tout groupe d’emplois est à prédominance féminine et, dans l’affirmative, recommande la façon dont l’évaluation en matière de rémunération équitable devrait être effectuée à son égard;
 - **b)** sous réserve de l’article 177 de cette loi, inclut dans son rapport des recommandations qui, si elles étaient acceptées par les parties, permettraient aux employés de recevoir une rémunération équitable.
+> 2009, ch. 2, art. 394 « 21 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -443,7 +451,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Commission des relations de travail et de l’emploi dans la fonction publique
+## Commission des relations de travail et de l’emploi dans le secteur public fédéral
 
 
 
@@ -451,16 +459,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Application de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)**
+**Application de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md)**
 
 **25** 
 
-- **(1)** Les dispositions de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) s’appliquent, avec les adaptations nécessaires, à toute plainte déposée ou à toute ordonnance rendue en vertu de la présente loi comme si elle l’avait été en vertu de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+- **(1)** Les dispositions de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) s’appliquent, avec les adaptations nécessaires, à toute plainte déposée ou à toute ordonnance rendue en vertu de la présente loi comme si elle l’avait été en vertu de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
 
 **Règlements**
 
 - **(2)** La Commission peut prendre des règlements concernant la procédure de dépôt des plaintes au titre de la présente loi et les autres questions pouvant se rattacher ou contribuer à l’exercice de ses attributions.
-> 2009, ch. 2, art. 394 « 25 »; 2013, ch. 40, art. 443.
+> 2009, ch. 2, art. 394 « 25 »; 2013, ch. 40, art. 443; 2017, ch. 9, art. 55.
 
 
 
@@ -591,7 +599,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Loi applicable**
 
-- **(6)** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) s’applique à la convention collective modifiée au titre de l’ordonnance rendue en vertu des alinéas (2)b) ou (3)b) comme si elle avait été conclue sous son régime.
+- **(6)** La [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) s’applique à la convention collective modifiée au titre de l’ordonnance rendue en vertu des alinéas (2)b) ou (3)b) comme si elle avait été conclue sous son régime.
 
 **Rapport mis à la disposition du public**
 
@@ -600,6 +608,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoir d’exiger l’affichage des ordonnances**
 
 - **(8)** La Commission peut, dans toute ordonnance qu’elle rend en vertu du présent article, exiger que l’employeur affiche une copie de l’ordonnance, pour une période d’au moins quatre-vingt-dix jours, selon les modalités réglementaires.
+> 2009, ch. 2, art. 394 « 33 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -669,7 +679,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plainte contre l’employeur**
 
-- **(2)** La Commission instruit la plainte visée au paragraphe (1) comme s’il s’agissait d’une plainte relative à une contravention visée à l’alinéa 186(2)c) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md). Il demeure entendu que la présentation par écrit de la plainte constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
+- **(2)** La Commission instruit la plainte visée au paragraphe (1) comme s’il s’agissait d’une plainte relative à une contravention visée à l’alinéa 186(2)c) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). Il demeure entendu que la présentation par écrit de la plainte constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
 
 **Plainte contre l’agent négociateur**
 
@@ -677,7 +687,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plainte contre l’agent négociateur**
 
-- **(4)** La Commission instruit la plainte visée au paragraphe (3) comme s’il s’agissait d’une plainte relative à une contravention visée aux alinéas 188d) ou e) de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md). La présentation par écrit de la plainte constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
+- **(4)** La Commission instruit la plainte visée au paragraphe (3) comme s’il s’agissait d’une plainte relative à une contravention visée aux alinéas 188d) ou e) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). La présentation par écrit de la plainte constitue une preuve de la contravention; il incombe dès lors à la partie qui nie celle-ci de prouver le contraire.
+> 2009, ch. 2, art. 394 « 39 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -737,7 +749,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incompatibilité**
 
-**45** La présente loi n’a pas pour effet de porter atteinte à l’application de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) et, en cas d’incompatibilité ou de conflit entre cette loi et la présente loi, les dispositions de la présente loi l’emportent dans la mesure de l’incompatibilité ou du conflit.
+**45** La présente loi n’a pas pour effet de porter atteinte à l’application de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) et, en cas d’incompatibilité ou de conflit entre cette loi et la présente loi, les dispositions de la présente loi l’emportent dans la mesure de l’incompatibilité ou du conflit.
+> 2009, ch. 2, art. 394 « 45 »; 2017, ch. 9, art. 55.
+
 
 
 
