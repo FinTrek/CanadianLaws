@@ -66,19 +66,23 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***enforcement officer*** means any person designated under section 24 or belonging to a class of persons so designated.
+***ecological integrity*** means, with respect to the Park, a condition that is determined to be characteristic of its natural region and likely to persist, including abiotic components and the composition and abundance of native species and biological communities, rates of change and supporting processes. (*intégrité écologique*)
 
-***Minister*** means the Minister responsible for the Parks Canada Agency.
+***enforcement officer*** means any person designated under section 24 or belonging to a class of persons so designated. (*agent de l’autorité*)
 
-***national historic site*** means a site, building or other place of national historic interest or significance that is commemorated under section 3 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md).
+***Minister*** means the Minister responsible for the Parks Canada Agency. (*ministre*)
 
-***Park*** means the Rouge National Urban Park, established by section 4.
+***national historic site*** means a site, building or other place of national historic interest or significance that is commemorated under section 3 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md). (*lieu historique national*)
 
-***park warden*** means a person designated under section 23.
+***Park*** means the Rouge National Urban Park, established by section 4. (*parc*)
 
-***public lands*** means lands, including submerged lands, belonging to Her Majesty in right of Canada or of which the Government of Canada has the power to dispose, regardless of whether that disposal is subject to any agreement between the Government of Canada and the Government of Ontario.
+***park warden*** means a person designated under section 23. (*garde de parc*)
 
-***superintendent*** means a person appointed under subsection 13(1) of the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of the Park, and includes any other person appointed under that Act who is authorized by the superintendent to act on his or her behalf.
+***public lands*** means lands, including submerged lands, belonging to Her Majesty in right of Canada or of which the Government of Canada has the power to dispose, regardless of whether that disposal is subject to any agreement between the Government of Canada and the Government of Ontario. (*terres domaniales*)
+
+***superintendent*** means a person appointed under subsection 13(1) of the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of the Park, and includes any other person appointed under that Act who is authorized by the superintendent to act on his or her behalf. (*directeur*)
+> 2015, c. 10, s. 2; 2017, c. 10, s. 1.
+
 
 
 
@@ -118,7 +122,15 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Factors to be considered**
 
-**6** The Minister must, in the management of the Park, take into consideration the protection of its natural ecosystems and cultural landscapes and the maintenance of its native wildlife and of the health of those ecosystems.
+**6** 
+
+- **(1)** Maintenance or restoration of ecological integrity, through the protection of natural resources and natural processes, must be the first priority of the Minister when considering all aspects of the management of the Park.
+
+**For greater certainty**
+
+- **(2)** For greater certainty, subsection (1) does not prevent the carrying out of agricultural activities as provided for in this Act.
+> 2015, c. 10, s. 6; 2017, c. 10, s. 2.
+
 
 
 
@@ -1034,5 +1046,43 @@ containing 163.30 hectares, more or less.
 
 
 
+Fourthly;
+
+Parcels 1, 2, 3 and 4, Plan 105195 CLSR, being part of Lots 26, 27, 28, 29 and part of the East 3/4 of Lot 30, Concession 8, and part of Lots 26, 27, 28, 29 and 30, Concession 9, and all of Lots 26, 27, 28, 29 and 30, Concession 10,
+
+
+
+containing 773.68 hectares, or 7.7368 square kilometres, more or less;
+
+
+
+
+
+Fifthly;
+
+Parcels 1 and 2, Plan 105196 CLSR, being part of Lots 21, 22, 23, 24 and 25, Concession 9, and all of Lots 21, 22 and 23 and all of South Half of Lot 24, all of North Half of Lot 24, all of West Half of Lot 25 and all of East Part of Lot 25, Concession 10,
+
+
+
+containing 678 hectares, or 6.78 square kilometres, more or less;
+
+
+
+
+
+Sixthly;
+
+Parcel 1, Plan 105197 CLSR, being part of Lot 17 and all of Lots 18, 19 and 20, Concession 10,
+
+
+
+containing 217 hectares, or 2.17 square kilometres, more or less.
+
+
+
+
+
+
+> 2015, c. 10, Sch.; 2017, c. 10, s. 3.
 
 
