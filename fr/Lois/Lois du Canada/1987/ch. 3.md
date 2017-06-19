@@ -282,10 +282,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les définitions qui suivent s’appliquent au présent article.
 
-***administration fédérale*** Fonction publique au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md). Y est assimilé tout secteur de l’administration publique fédérale qui y est intégré sur désignation par décret en conseil pris sous le régime du présent paragraphe et pour l’application du paragraphe (1).
+***administration fédérale*** Fonction publique au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). Y est assimilé tout secteur de l’administration publique fédérale qui y est intégré sur désignation par décret en conseil pris sous le régime du présent paragraphe et pour l’application du paragraphe (1). (*Public Service of Canada*)
 
-***fonctionnaire****Civil servant* au sens de la loi provinciale.
-> 1987, ch. 3, art. 11; 2003, ch. 22, art. 117(A).
+***fonctionnaire*** Civil servant au sens de la loi provinciale. (*civil servant*)
+> 1987, ch. 3, art. 11; 2003, ch. 22, art. 117(A); 2017, ch. 9, art. 55.
 
 
 
@@ -545,7 +545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application de la législation provinciale**
 
-- **(4.1)** Le personnel est régi par les lois sociales au sens du paragraphe 205.001(1), les dispositions de la loi provinciale sur les relations de travail au sens de ce paragraphe, les dispositions de la loi intitulée Occupational Health and Safety Act, R.S.N.L. 1990, ch. O-3, avec leurs modifications successives, et les règlements pris en vertu de ces lois.
+- **(4.1)** Le personnel est régi par les lois sociales au sens du paragraphe 205.001(1), les dispositions de la loi provinciale sur les relations de travail au sens de ce paragraphe, les dispositions de la loi intitulée *Occupational Health and Safety Act*, R.S.N.L. 1990, ch. O-3, avec leurs modifications successives, et les règlements pris en vertu de ces lois.
 
 **Non-application du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
 
@@ -553,8 +553,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de fonction publique**
 
-- **(5)** Au présent article, ***fonction publique*** s’entend au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-> 1987, ch. 3, art. 25; 2003, ch. 22, art. 118, 225(A) et 231; 2014, ch. 13, art. 8.
+- **(5)** Au présent article, fonction publique s’entend au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 1987, ch. 3, art. 25; 2003, ch. 22, art. 118, 225(A) et 231; 2014, ch. 13, art. 8; 2017, ch. 9, art. 55.
 
 
 
