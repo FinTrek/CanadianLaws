@@ -2899,7 +2899,7 @@ Eighthly: all of Lots 1000 and 1001, Quad 85A/2, comprising the Exterior Boundar
 
 
 
-The remainder containing about 44 778 square kilometres (4,477,832 hectares).
+Ninthly: in Theoretical Township 112, Range 23, West of the 4th Meridian and in Theoretical Townships 111 and 112, Range 24, West of the 4th Meridian, all that land and land covered with water labelled Garden River Indian Reserve No. 238 as shown on Plan 100429 recorded in the Canada Lands Surveys Records in Ottawa of which a copy is deposited in the Alberta Land Titles Office in Edmonton under Plan Number 1222163, the said Garden River Indian Reserve No. 238 containing 37.41 square kilometres (3 741 hectares), more or less, together with all mines and minerals.
 
 
 
@@ -6758,7 +6758,7 @@ Including any substances or material that may be disposed of pursuant to the [Te
 
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2; 2017, c. 10, ss. 5, 6(F).
 
 
 
