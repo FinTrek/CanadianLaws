@@ -171,9 +171,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Employees excluded**
 
 - **(3)** This Part does not apply, in respect of work undertaken in the course of employment, to
-	- **(a)** employees, within the meaning of the Public Service Labour Relations Act, including those determined to be employees by the Public Service Labour Relations and Employment Board, and members of a bargaining unit that is certified by that Board; or
+	- **(a)** employees, within the meaning of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), including those determined to be employees by the Federal Public Sector Labour Relations and Employment Board, and members of a bargaining unit that is certified by that Board; or
 	- **(b)** employees, within the meaning of Part I of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), including those determined to be employees by the Board, and members of a bargaining unit that is certified by the Board.
-> 1992, c. 33, s. 9; 1998, c. 26, s. 83; 2003, c. 22, s. 220(E); 2012, c. 19, s. 533; 2013, c. 40, s. 466.
+> 1992, c. 33, s. 9; 1998, c. 26, s. 83; 2003, c. 22, s. 220(E); 2012, c. 19, s. 533; 2013, c. 40, s. 466; 2017, c. 9, s. 47.
 
 
 
