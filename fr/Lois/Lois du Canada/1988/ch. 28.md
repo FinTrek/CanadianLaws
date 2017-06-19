@@ -243,9 +243,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article et à l’article 12.
 
-***administration fédérale*** Fonction publique au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md). Y est assimilé tout secteur de l’administration publique fédérale qui y est intégré sur désignation par décret en conseil pris sous le régime du présent paragraphe et pour l’application du présent article.
+***administration fédérale*** Fonction publique au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). Y est assimilé tout secteur de l’administration publique fédérale qui y est intégré sur désignation par décret en conseil pris sous le régime du présent paragraphe et pour l’application du présent article. (*Public Service of Canada*)
 
-***fonctionnaire*** Agent de l’administration fédérale ou *civil servant* au sens de la loi provinciale.
+***fonctionnaire*** Agent de l’administration fédérale ou civil servant au sens de la loi provinciale. (*public servant*)
 
 **Nomination de fonctionnaires**
 
@@ -254,7 +254,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rattachement du président**
 
 - **(3)** Le président ne peut en cours de mandat être également fonctionnaire.
-> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A); 2014, ch. 13, art. 91(A).
+> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A); 2014, ch. 13, art. 91(A); 2017, ch. 9, art. 55.
 
 
 
@@ -521,8 +521,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de fonction publique**
 
-- **(5)** Au présent article, ***fonction publique*** s’entend au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232; 2014, ch. 13, art. 58.
+- **(5)** Au présent article, fonction publique s’entend au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md).
+> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232; 2014, ch. 13, art. 58; 2017, ch. 9, art. 55.
 
 
 
