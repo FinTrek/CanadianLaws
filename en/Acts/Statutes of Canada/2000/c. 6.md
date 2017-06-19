@@ -316,8 +316,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Collective agreements**
 
-**18** Notwithstanding section 112 of the Public Service Labour Relations Act, the Governing Council may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees of the CIHR that is applicable to employees of that bargaining unit.
-> 2000, c. 6, s. 18; 2003, c. 22, s. 140.
+**18** Notwithstanding section 112 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Governing Council may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees of the CIHR that is applicable to employees of that bargaining unit.
+> 2000, c. 6, s. 18; 2003, c. 22, s. 140; 2017, c. 9, s. 55.
 
 
 
