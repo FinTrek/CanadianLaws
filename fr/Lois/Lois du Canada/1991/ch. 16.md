@@ -45,16 +45,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***directeur***[Abrogée, 2003, ch. 22, art. 23]
 
-***École*** L’École de la fonction publique du Canada prorogée en application du paragraphe 3(1).
+***École*** L’École de la fonction publique du Canada prorogée en application du paragraphe 3(1). (*School*)
 
-***fonction publique*** S’entend au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***fonction publique*** S’entend au sens de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md). (*Public Service*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***président*** Le président de l’École nommé aux termes du paragraphe 13(1).
+***président*** Le président de l’École nommé aux termes du paragraphe 13(1). (*President*)
 
 ***secteur public***[Abrogée, 2012, ch. 19, art. 516]
-> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A); 2010, ch. 12, art. 1671; 2012, ch. 19, art. 516.
+> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A); 2010, ch. 12, art. 1671; 2012, ch. 19, art. 516; 2017, ch. 9, art. 55.
 
 
 
@@ -227,12 +227,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exclusion**
 
-- **(3)** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) ne s’applique pas aux personnes visées au paragraphe (2).
+- **(3)** La [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ne s’applique pas aux personnes visées au paragraphe (2).
 
 **Application de certains textes**
 
 - **(4)** Les personnes visées au paragraphe (2) sont réputées, d’une part, être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), d’autre part, appartenir à l’administration publique fédérale pour l’application des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), et faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-> 1991, ch. 16, art. 15; 2003, ch. 22, art. 31 et 133(A).
+> 1991, ch. 16, art. 15; 2003, ch. 22, art. 31 et 133(A); 2017, ch. 9, art. 55.
 
 
 
