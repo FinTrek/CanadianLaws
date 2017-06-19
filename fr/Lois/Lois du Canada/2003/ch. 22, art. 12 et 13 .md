@@ -65,48 +65,48 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur général*** S’entend :
+***administrateur général*** S’entend :
 - **a)** dans une administration figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), du sous-ministre;
 - **b)** dans une administration ou partie d’administration désignée comme ministère en vertu de la présente loi, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
-- **c)** dans toute administration figurant aux annexes IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et dans laquelle les nominations relèvent exclusivement de la Commission, du premier dirigeant de cette administration ou, à défaut, de son administrateur général au titre de la loi ou, à défaut de l’un et l’autre, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
+- **c)** dans toute administration figurant aux annexes IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et dans laquelle les nominations relèvent exclusivement de la Commission, du premier dirigeant de cette administration ou, à défaut, de son administrateur général au titre de la loi ou, à défaut de l’un et l’autre, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi. (*deputy head*)
 
-***administrateur général au titre de la loi*** Toute personne qui, au titre d’une loi fédérale, est ou est réputée être administrateur général ou en a ou est réputée en avoir le rang ou le statut.
+***administrateur général au titre de la loi*** Toute personne qui, au titre d’une loi fédérale, est ou est réputée être administrateur général ou en a ou est réputée en avoir le rang ou le statut. (*statutory deputy head*)
 
-***administration*** Secteur de l’administration publique fédérale figurant aux annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***administration*** Secteur de l’administration publique fédérale figurant aux annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*organization*)
 
-***Commission*** La Commission de la fonction publique maintenue par le paragraphe 4(1).
+***Commission*** La Commission de la fonction publique maintenue par le paragraphe 4(1). (*Commission*)
 
-***Commission des relations de travail et de l’emploi*** La Commission des relations de travail et de l’emploi dans la fonction publique, créée par le paragraphe 4(1) de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique.
+***Commission des relations de travail et de l’emploi*** La Commission des relations de travail et de l’emploi dans le secteur public fédéral visée par le paragraphe 4(1) de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md). (*Board*)
 
 ***employeur***
 - **a)** Le Conseil du Trésor, dans le cas d’une administration figurant aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)** l’organisme distinct en cause, dans le cas d’un organisme distinct dans lequel les nominations relèvent exclusivement de la Commission.
+- **b)** l’organisme distinct en cause, dans le cas d’un organisme distinct dans lequel les nominations relèvent exclusivement de la Commission. (*employer*)
 
-***fonctionnaire*** Personne employée dans la fonction publique et dont la nomination à celle-ci relève exclusivement de la Commission.
+***fonctionnaire*** Personne employée dans la fonction publique et dont la nomination à celle-ci relève exclusivement de la Commission. (*employee*)
 
-***fonction publique*** L’ensemble des postes qui sont compris dans les entités ci-après ou qui en relèvent :
+***fonction publique*** L’ensemble des postes qui sont compris dans les entités ci-après ou qui en relèvent :
 - **a)** les ministères figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **b)** les administrations figurant à l’annexe IV de cette loi;
-- **c)** les organismes distincts figurant à l’annexe V de la même loi.
+- **c)** les organismes distincts figurant à l’annexe V de la même loi. (*public service*)
 
 ***ministère***
 - **a)** Administration figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **b)** toute autre administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
-- **c)** la partie d’une administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
+- **c)** la partie d’une administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi. (*department*)
 
-***ministre*** S’entend, sauf à l’article 131, de tout ministre visé à l’article 4.1 de la [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md) et de tout ministre d’État visé par la [Loi sur les départements et ministres d’État](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-8.md).
+***ministre*** S’entend, sauf à l’article 131, de tout ministre visé à l’article 4.1 de la [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md) et de tout ministre d’État visé par la [Loi sur les départements et ministres d’État](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-8.md). (*minister*)
 
-***mutation*** Transfert d’une personne d’un poste à un autre sous le régime de la partie 3.
+***mutation*** Transfert d’une personne d’un poste à un autre sous le régime de la partie 3. (*deployment*)
 
-French version only***nomination externe*** Nomination d’une personne ne faisant pas partie de la fonction publique.
+***nomination externe*** Nomination d’une personne ne faisant pas partie de la fonction publique. (***French version only***)
 
-French version only***nomination interne*** Nomination d’une personne faisant déjà partie de la fonction publique.
+***nomination interne*** Nomination d’une personne faisant déjà partie de la fonction publique. (***French version only***)
 
-***organisme distinct*** Administration figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***organisme distinct*** Administration figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*separate agency*)
 
-***processus de nomination externe*** Processus de nomination dans lequel peuvent être prises en compte tant les personnes appartenant à la fonction publique que les autres.
+***processus de nomination externe*** Processus de nomination dans lequel peuvent être prises en compte tant les personnes appartenant à la fonction publique que les autres. (*external appointment process*)
 
-***processus de nomination interne*** Processus de nomination dans lequel seules peuvent être prises en compte les personnes employées dans la fonction publique.
+***processus de nomination interne*** Processus de nomination dans lequel seules peuvent être prises en compte les personnes employées dans la fonction publique. (*internal appointment process*)
 
 ***Tribunal***[Abrogée, 2013, ch. 40, art. 403]
 
@@ -123,7 +123,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Abus de pouvoir**
 
 - **(4)** Il est entendu que, pour l’application de la présente loi, on entend notamment par ***abus de pouvoir*** la mauvaise foi et le favoritisme personnel.
-> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17; 2013, ch. 40, art. 403.
+> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17; 2013, ch. 40, art. 403; 2017, ch. 9, art. 48.
 
 
 
@@ -292,7 +292,9 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Consultation par la Commission**
 
-**14** Sur demande ou lorsqu’elle le juge utile, la Commission consulte l’employeur ou toute organisation syndicale accréditée comme agent négociateur au titre de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) sur les lignes directrices relatives à la façon de faire et de révoquer les nominations et sur les principes régissant les priorités de nomination ou les mises en disponibilité.
+**14** Sur demande ou lorsqu’elle le juge utile, la Commission consulte l’employeur ou toute organisation syndicale accréditée comme agent négociateur au titre de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) sur les lignes directrices relatives à la façon de faire et de révoquer les nominations et sur les principes régissant les priorités de nomination ou les mises en disponibilité.
+> 2003, ch. 22, art. 12 « 14 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -498,8 +500,10 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Consultation par l’employeur**
 
 **27** Sur demande ou lorsqu’il le juge utile, l’employeur consulte :
-- **a)** la Commission ou toute organisation syndicale accréditée comme agent négociateur au titre de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) au sujet des règlements pris en vertu des alinéas 26(1)b) ou d) ou des lignes directrices correspondantes établies aux termes du paragraphe 26(2);
+- **a)** la Commission ou toute organisation syndicale accréditée comme agent négociateur au titre de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) au sujet des règlements pris en vertu des alinéas 26(1)b) ou d) ou des lignes directrices correspondantes établies aux termes du paragraphe 26(2);
 - **b)** toute organisation syndicale ainsi accréditée au sujet des règlements pris en vertu des alinéas 26(1)a) ou c), des lignes directrices correspondantes établies aux termes du paragraphe 26(2) ou des normes de qualification établies en vertu du paragraphe 31(1).
+> 2003, ch. 22, art. 12 « 27 »; 2017, ch. 9, art. 55.
+
 
 
 
@@ -1444,7 +1448,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 
 **PARTIE 6** 
-## Commission des relations de travail et de l’emploi dans la fonction publique
+## Commission des relations de travail et de l’emploi dans le secteur public fédéral
 
 
 
@@ -1551,12 +1555,12 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Non-application**
 
-- **(2)** L’article 35 de la Loi sur la Commission des relations de travail et de l’emploi dans la fonction publique ne s’applique pas aux ordonnances de la Commission des relations de travail et de l’emploi visées au paragraphe (1).
+- **(2)** L’article 35 de la [Loi sur la Commission des relations de travail et de l’emploi dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2013/ch.%2040,%20art.%20365.md) ne s’applique pas aux ordonnances de la Commission des relations de travail et de l’emploi visées au paragraphe (1).
 
 **Effet**
 
 - **(3)** En vue de son exécution, l’ordonnance, dès le dépôt à la Cour fédérale de la copie certifiée conforme, est assimilée à une ordonnance rendue par celle-ci.
-> 2003, ch. 22, art. 12 « 103 »; 2013, ch. 40, art. 407.
+> 2003, ch. 22, art. 12 « 103 »; 2013, ch. 40, art. 407; 2017, ch. 9, art. 56.
 
 
 
