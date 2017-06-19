@@ -221,7 +221,7 @@ Commission canadienne d’examen des exportations de biens culturels<br />- <i>C
 
 Commission de révision<br />- <i>Review Tribunal</i>
 
-Commission des relations de travail et de l’emploi dans la fonction publique<br />- <i>Public Service Labour Relations and Employment Board</i>
+Commission des relations de travail et de l’emploi dans le secteur public fédéral<br />- <i>Federal Public Sector Labour Relations and Employment Board</i>
 
 Conseil canadien des relations industrielles<br />- <i>Canada Industrial Relations Board</i>
 
@@ -238,6 +238,6 @@ Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensi
 Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
 
 Tribunal des revendications particulières<br />- <i>Specific Claims Tribunal</i>
-> 2014, ch. 20, art. 376 « ann. » et 481.
+> 2014, ch. 20, art. 376 « ann. » et 481; 2017, ch. 9, art. 57.
 
 
