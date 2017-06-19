@@ -631,9 +631,15 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 - **(4)** Le paragraphe (3) ne s’applique qu’à la demande de l’agent au responsable d’un moyen de transport dont les passagers et l’équipage, après s’être présentés à l’extérieur du Canada à un bureau de douane doté des attributions prévues à cet effet, se sont rendus sans escale au Canada.
 
-**Exception : transit**
+**Entrée et sortie**
 
-- **(5)** Les paragraphes (1) et (3) ne s’appliquent qu’à la demande de l’agent aux personnes qui se rendent directement d’un lieu à un autre de l’extérieur du Canada en passant par les eaux canadiennes, y compris les eaux internes, ou l’espace aérien du Canada.
+- **(5)** Sous réserve des règlements, les paragraphes (1) et (3) ne s’appliquent qu’à la demande de l’agent aux personnes suivantes :
+	- **a)** les personnes qui, à bord d’un moyen de transport, entrent, directement depuis l’extérieur du Canada, dans les eaux canadiennes, y compris les eaux internes, ou dans l’espace aérien du Canada et qui quittent ensuite le Canada à bord de ce moyen de transport, tant qu’elles sont demeurées à bord du moyen de transport alors qu’il se trouvait au Canada et :
+		- **(i)** qu’elles n’ont pas mis pied au Canada et, s’agissant d’un moyen de transport autre qu’un aéronef, que celui-ci n’a ni amarré, ni mouillé l’ancre, ni établi de contact avec un autre moyen de transport, alors qu’il se trouvait dans les eaux canadiennes, y compris les eaux internes,
+		- **(ii)** s’agissant d’un aéronef, que celui-ci n’a pas atterri alors qu’il se trouvait au Canada;
+	- **b)** les personnes qui, à bord d’un moyen de transport, quittent les eaux canadiennes, y compris les eaux internes, ou l’espace aérien du Canada, et qui entrent ensuite à nouveau au Canada à bord de ce moyen de transport, tant qu’elles sont demeurées à bord du moyen de transport alors qu’il se trouvait à l’extérieur du Canada et :
+		- **(i)** qu’elles n’ont pas mis pied à l’extérieur du Canada et, s’agissant d’un moyen de transport autre qu’un aéronef, que celui-ci n’a ni amarré, ni mouillé l’ancre, ni établi de contact avec un autre moyen de transport, alors qu’il se trouvait à l’extérieur du Canada,
+		- **(ii)** s’agissant d’un aéronef, que celui-ci n’a pas atterri alors qu’il se trouvait à l’extérieur du Canada.
 
 **Exception : autorisation**
 
@@ -644,7 +650,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Pouvoir de l’agent**
 
 - **(7)** Même si une personne est titulaire d’une autorisation en vertu du paragraphe 11.1(1) ou est autorisée aux termes d’un règlement pris en vertu du paragraphe 11.1(3), un agent peut exiger d’elle qu’elle se présente devant lui conformément au paragraphe (1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 11; 1996, ch. 31, art. 74; 2001, ch. 25, art. 10; 2012, ch. 19, art. 372.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 11; 1996, ch. 31, art. 74; 2001, ch. 25, art. 10; 2012, ch. 19, art. 372; 2017, ch. 11, art. 2.
 
 
 
@@ -804,9 +810,15 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 - **(4)** Le paragraphe (1) ne s’applique qu’à la demande de l’agent aux marchandises déjà déclarées, conformément au paragraphe (2), dans un bureau de douane établi à l’extérieur du Canada.
 
-**Exception : transit**
+**Exception – entrée et sortie**
 
-- **(5)** Le présent article ne s’applique qu’à la demande de l’agent aux marchandises se trouvant à bord d’un moyen de transport qui se rend directement d’un lieu à un autre de l’extérieur du Canada en passant par les eaux canadiennes, y compris les eaux internes, ou l’espace aérien du Canada.
+- **(5)** Sous réserve des règlements, le présent article ne s’applique qu’à la demande de l’agent aux marchandises se trouvant à bord d’un moyen de transport qui, selon le cas :
+	- **a)** entre, directement depuis l’extérieur du Canada, dans les eaux canadiennes, y compris les eaux internes, ou dans l’espace aérien du Canada et quitte ensuite le Canada, tant que :
+		- **(i)** s’agissant d’un moyen de transport autre qu’un aéronef, celui-ci n’a ni amarré, ni mouillé l’ancre, ni établi de contact avec un autre moyen de transport, alors qu’il se trouvait dans les eaux canadiennes, y compris les eaux internes,
+		- **(ii)** s’agissant d’un aéronef, celui-ci n’a pas atterri alors qu’il se trouvait au Canada;
+	- **b)** quitte les eaux canadiennes, y compris les eaux internes, ou l’espace aérien du Canada, et entre ensuite à nouveau au Canada, tant que :
+		- **(i)** s’agissant d’un moyen de transport autre qu’un aéronef, celui-ci n’a ni amarré, ni mouillé l’ancre, ni établi de contact avec un autre moyen de transport, alors qu’il se trouvait à l’extérieur du Canada,
+		- **(ii)** s’agissant d’un aéronef, celui-ci n’a pas atterri alors qu’il se trouvait à l’extérieur du Canada.
 
 **Déclaration écrite**
 
@@ -818,7 +830,18 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **a)** elles sont en la possession effective ou parmi les bagages d’une personne se trouvant à bord du moyen de transport par lequel elle est arrivée au Canada;
 	- **b)** elles ne sont pas passibles de droits;
 	- **c)** leur importation n’est pas prohibée par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), ni prohibée, contrôlée ou réglementée sous le régime d’une loi fédérale autre que la présente loi ou le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12; 2015, ch. 3, art. 60(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12; 2015, ch. 3, art. 60(F); 2017, ch. 11, art. 3.
+
+
+
+
+
+**Règlements**
+
+**12.01** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application des articles 11 et 12, notamment :
+- **a)** prévoir les circonstances dans lesquelles des personnes, des marchandises ou des catégories de personnes ou de marchandises à bord de moyens de transport ou de catégories de moyens de transport doivent se présenter ou être déclarées, selon le cas, malgré les paragraphes 11(5) ou 12(5);
+- **b)** définir l’expression « établir un contact avec un autre moyen de transport » pour l’application des paragraphes 11(5) et 12(5) ainsi que prévoir les circonstances dans lesquelles un moyen de transport ou une catégorie de moyens de transport établit un tel contact.
+> 2017, ch. 11, art. 4.
 
 
 
