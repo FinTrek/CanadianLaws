@@ -1640,16 +1640,16 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Droit de l’employeur**
 
-- **(2)** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) n’a pas pour effet de porter atteinte au droit ou au pouvoir du directeur de régir les questions visées à l’alinéa (1)b).
+- **(2)** La [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) n’a pas pour effet de porter atteinte au droit ou au pouvoir du directeur de régir les questions visées à l’alinéa (1)b).
 
 **Gestion des ressources humaines**
 
 - **(3)** Les paragraphes 11.1(1) et 12(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas au Centre; le directeur peut :
 	- **a)** déterminer l’organisation du Centre et la classification des postes au sein de celui-ci;
 	- **b)** fixer les conditions d’emploi — notamment en ce qui concerne le licenciement motivé — des employés et leur assigner des tâches;
-	- **c)** malgré l’article 112 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), conformément au mandat approuvé par le Conseil du Trésor, fixer la rémunération des employés du Centre;
+	- **c)** malgré l’article 112 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), conformément au mandat approuvé par le Conseil du Trésor, fixer la rémunération des employés du Centre;
 	- **d)** régler toute autre question dans la mesure où il l’estime nécessaire pour la bonne gestion des ressources humaines du Centre.
-> 2000, ch. 17, art. 49; 2003, ch. 22, art. 190 et 223(A).
+> 2000, ch. 17, art. 49; 2003, ch. 22, art. 190 et 223(A); 2017, ch. 9, art. 55.
 
 
 
