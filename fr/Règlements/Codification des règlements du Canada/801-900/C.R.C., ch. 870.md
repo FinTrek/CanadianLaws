@@ -25153,6 +25153,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***usage parentéral*** signifie l’administration d’une drogue au moyen d’une seringue hypodermique, d’une aiguille ou de quelque autre instrument, à travers ou dans la peau ou une muqueuse. (*parenteral use*)
 
+- **(1.1)** Pour l’application de la Loi, réaction indésirable grave à une drogue s’entend au sens du paragraphe (1).
+
 - **(2)** L’emballage protège-enfants est un emballage qui :
 	- **a)** soit, lorsqu’il est soumis à un essai selon une méthode acceptable, répond aux exigences suivantes :
 		- **(i)** dans le cas d’un groupe d’essai formé d’enfants, ne peut être ouvert :
@@ -25177,7 +25179,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** représentent dans une égale proportion, avec une marge de plus ou moins 10 pour cent, les divers âges, exprimés en années, de 18 à 45 ans, calculés à l’année près.
 
 - **(4)** Pour l’application du présent article, les modifications successives des normes visées à l’alinéa (2)b) entrent en vigueur à l’expiration du délai de 18 mois suivant la date désignée par l’autorité compétente comme étant celle de leur entrée en vigueur.
-> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1.
+> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1; DORS/2017-133, art. 1.
 
 
 
@@ -33276,7 +33278,97 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 
 **TITRE 10** 
-### [Abrogé, DORS/98-423, art. 9]
+### Accès à des drogues — circonstances exceptionnelles
+
+
+**C.10.001** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***autorité réglementaire étrangère*** Tout organisme gouvernemental ou toute autre entité, ailleurs qu’au Canada, qui est habilité à contrôler la fabrication, l’utilisation ou la vente de drogues sur le territoire relevant de sa compétence. (*foreign regulatory authority*)
+
+***responsable de la santé publique*** L’une ou l’autre des personnes suivantes :  
+- **a)** l’administrateur en chef de la santé publique nommé en application du paragraphe 6(1) de la [Loi sur l’Agence de la santé publique du Canada](/fr/Lois/Lois%20du%20Canada/2006/ch.%205.md);
+- **b)** le médecin hygiéniste en chef d’une province ou toute personne exerçant une fonction équivalente;
+- **c)** le médecin général des Forces armées canadiennes;
+- **d)** le médecin en chef de la santé publique de la Direction générale de la santé des Premières nations et des Inuits du ministère de la Santé. (*public health official*)
+
+- **(2)** Malgré les articles A.01.040 et C.01.004.1, le titulaire d’une licence d’établissement autorisant l’importation d’une drogue peut, si les conditions ci-après sont réunies, importer une drogue à laquelle aucune identification numérique n’a été attribuée en application du paragraphe C.01.014.2(1) ou à l’égard de laquelle aucun avis de conformité n’a été délivré en application des articles C.08.004 ou C.08.004.01 :
+	- **a)** un responsable de la santé publique a, au cours de la dernière année, avisé le ministre par écrit :
+		- **(i)** de l’existence d’un besoin urgent en matière de santé publique pour un usage immédiat de la drogue dans le ressort du responsable,
+		- **(ii)** de l’usage ou des fins auxquels la drogue est destinée;
+	- **b)** la vente de la drogue est autorisée par une autorité réglementaire étrangère appartenant aux États-Unis, à la Suisse ou à la l’Union européenne pour être utilisée pour le même usage ou aux mêmes fins que celles visées au sous-alinéa a)(ii);
+	- **c)** la drogue fait partie de la même catégorie que celle visée par la licence;
+	- **d)** la drogue est importée directement du pays dans lequel sa vente a été autorisée par l’autorité réglementaire étrangère en cause;
+	- **e)** les renseignements ci-après concernant la drogue figurent dans la Liste des drogues utilisées pour des besoins urgents en matière de santé publique, publiée par le gouvernement du Canada sur son site Web, avec ses modifications successives :
+		- **(i)** la marque nominative,
+		- **(ii)** les ingrédients médicinaux,
+		- **(iii)** la forme posologique,
+		- **(iv)** la concentration,
+		- **(v)** la voie d’administration,
+		- **(vi)** tout code ou numéro d’identification qui lui est attribué dans le pays où sa vente a été autorisée.
+
+- **(3)** Les articles C.01A.006 et C.01A.007 ne s’appliquent pas à l’égard de l’importation d’une drogue effectuée en vertu du paragraphe (2).
+
+- **(4)** Il est entendu que, malgré le paragraphe C.01A.004(1), le titulaire peut importer une drogue en vertu du paragraphe (2) sans avoir fait modifier sa licence au titre de l’article C.01A.006.
+
+- **(5)** Les titres 2 à 4, à l’exception des dispositions ci-après, ne s’appliquent pas à l’égard de l’importation d’une drogue effectuée en vertu du paragraphe (2) :
+	- **a)** les articles C.02.003.1 et C.02.004 en ce qui a trait à l’entreposage de la drogue par le titulaire;
+	- **b)** l’article C.02.006;
+	- **c)** le paragraphe C.02.012(1);
+	- **d)** les articles C.02.013 et C.02.014;
+	- **e)** l’article C.02.015 en ce qui a trait à l’entreposage et au transport de la drogue par le titulaire;
+	- **f)** le paragraphe C.02.021(1) en ce qui a trait à l’entreposage de la drogue par le titulaire;
+	- **g)** le paragraphe C.02.022(1);
+	- **h)** l’article C.02.023;
+	- **i)** les paragraphes C.02.024(1) et C.02.025(1);
+	- **j)** l’article C.03.013;
+	- **k)** l’article C.04.001.1 en ce qui a trait à l’entreposage de la drogue par le titulaire.
+> DORS/2017-133, art. 2.
+
+
+
+
+**C.10.002** 
+
+- **(1)** La vente d’une drogue qui est importée en vertu du paragraphe C.10.001(2) est exemptée de l’application des dispositions du présent règlement seulement si la drogue est vendue dans le ressort d’un responsable de la santé publique qui a avisé le ministre conformément à l’alinéa C.10.001(2)a), pour qu’elle soit utilisée à l’égard du même besoin urgent en matière de santé publique que celui pour lequel elle a été importée.
+
+- **(2)** Toute personne qui vend en gros une telle drogue doit détenir une licence d’établissement pour la vente en gros d’une drogue de même catégorie et, malgré le paragraphe (1), les dispositions ci-après s’appliquent à l’égard de cette vente en gros :
+	- **a)** les articles C.02.003.1 et C.02.004 en ce qui a trait à l’entreposage de la drogue par le titulaire;
+	- **b)** l’article C.02.006 en ce qui a trait à l’entreposage de la drogue par le titulaire;
+	- **c)** le paragraphe C.02.012(1);
+	- **d)** l’article C.02.013;
+	- **e)** l’article C.02.015 en ce qui a trait à l’entreposage et au transport de la drogue par le titulaire;
+	- **f)** le paragraphe C.02.022(1);
+	- **g)** l’article C.02.023;
+	- **h)** le paragraphe C.02.024(1).
+> DORS/2017-133, art. 2.
+
+
+
+
+**C.10.003** Le titulaire qui importe une drogue en vertu du paragraphe C.10.001(2) en avise le ministre dans les quinze jours suivant l’importation en lui fournissant les renseignements suivants :
+- **a)** les nom, titre et coordonnées de la personne qui a importé la drogue;
+- **b)** la marque de la drogue;
+- **c)** les ingrédients médicinaux, la concentration, la forme posologique, la voie d’administration et tout code ou numéro d’identification attribué à la drogue dans le pays où la vente de la drogue à été autorisée;
+- **d)** le nom du pays duquel la drogue a été importée;
+- **e)** la quantité totale de la drogue ayant été importée.
+> DORS/2017-133, art. 2.
+
+
+
+
+**C.10.004** 
+
+- **(1)** Pour l’application de l’article 21.8 de la Loi, les établissements de soin de santé tenus de fournir au ministre les renseignements concernant les réactions indésirables graves à une drogue importée en vertu du paragraphe C.10.001(2) sont les établissements de soins de santé autorisés par les lois d’une province à fournir des services de soins de courte durée.
+
+- **(2)** Les renseignements ci-après concernant toute réaction indésirable grave à une drogue sont fournis au ministre par écrit dans les trente jours suivant le jour où la réaction est documentée pour la première fois :
+	- **a)** le nom de l’établissement de soins de santé et les coordonnées d’une personne représentant cet établissement;
+	- **b)** les nom, code ou numéro d’identification de la drogue soupçonnée d’avoir causé la réaction;
+	- **c)** une description de la réaction.
+> DORS/2017-133, art. 2.
+
+
 
 
 
