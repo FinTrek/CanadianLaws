@@ -25141,11 +25141,11 @@ and only the L forms of the amino acids have been added.
 
 ***pharmaceutical ink*** means a non-medicinal ingredient or combination of non-medicinal ingredients used to imprint the drug with marks or symbols; (*encre pharmaceutique*)
 
-***pharmacist*** means a person who 
+***pharmacist*** means a person who
 - **(a)** is registered or otherwise entitled under the laws of a province to practise pharmacy, and
 - **(b)** is practising pharmacy in that province; (*pharmacien*)
 
-***pharmacy technician*** means a person who 
+***pharmacy technician*** means a person who
 - **(a)** is registered or otherwise entitled under the laws of a province to practise as a pharmacy technician; and
 - **(b)** is practising as a pharmacy technician in that province; (*technicien en pharmacie*)
 
@@ -25173,6 +25173,8 @@ and only the L forms of the amino acids have been added.
 
 ***withdrawal period*** means the length of time between the last administration of a drug to an animal and the time when tissues or products collected from the treated animal for consumption as food contain a level of residue of the drug that would not likely cause injury to human health. (*délai d’attente*)
 
+- **(1.1)** For the purposes of the Act, serious adverse drug reaction has the same meaning as in subsection (1).
+
 - **(2)** A child resistant package is a package that
 	- **(a)** when tested in accordance with an acceptable method,
 		- **(i)** in the case of a test group comprising children, cannot be opened
@@ -25197,7 +25199,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1; SOR/2017-133, s. 1.
 
 
 
@@ -33321,7 +33323,97 @@ per individual dosage form if it has a label that states that it is not a standa
 
 
 **DIVISION 10** 
-### [Repealed, SOR/98-423, s. 9]
+### Access to Drugs in Exceptional Circumstances
+
+
+**C.10.001** 
+
+- **(1)** The following definitions apply in this section.
+
+***foreign regulatory authority*** means a government agency or other entity outside Canada that has a legal right to control the manufacturing, use or sale of drugs within its jurisdiction. (*autorité réglementaire étrangère*)
+
+***public health official*** means
+- **(a)** the Chief Public Health Officer appointed under subsection 6(1) of the [Public Health Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2006/c.%205.md);
+- **(b)** the Chief Medical Officer of Health, or equivalent, of a province;
+- **(c)** the Surgeon General of the Canadian Armed Forces; or
+- **(d)** the Chief Medical Officer of Public Health for the First Nations and Inuit Health Branch of the Department of Health. (*responsable de la santé publique*)
+
+- **(2)** Despite sections A.01.040 and C.01.004.1, any person who holds an establishment licence that authorizes the importation of a drug may import a drug for which a notice of compliance has not been issued under section C.08.004 or C.08.004.01, or for which a drug identification number has not been assigned under subsection C.01.014.2(1), if the following conditions are met:
+	- **(a)** a public health official has, within the past year, notified the Minister in writing of
+		- **(i)** an urgent public health need for the immediate use of the drug within their jurisdiction, and
+		- **(ii)** the intended use or purpose of the drug;
+	- **(b)** the drug is authorized by a foreign regulatory authority in the United States, Switzerland or the European Union to be sold for the same use or purpose as that described under subparagraph (a)(ii);
+	- **(c)** the drug is in the same category as the category for which the licence was issued;
+	- **(d)** the drug is imported directly from the country in which it is authorized to be sold by the foreign regulatory authority; and
+	- **(e)** the drug is one for which the following information is set out in the List of Drugs for an Urgent Public Health Need that is published by the Government of Canada on its website, as amended from time to time:
+		- **(i)** brand name,
+		- **(ii)** medicinal ingredients,
+		- **(iii)** dosage form,
+		- **(iv)** strength,
+		- **(v)** route of administration, and
+		- **(vi)** identifying code or number, if any, assigned in the country in which the drug was authorized for sale.
+
+- **(3)** Sections C.01A.006 and C.01A.007 do not apply in respect of the importation of a drug under subsection (2).
+
+- **(4)** For greater certainty, a licensee may, despite subsection C.01A.004(1), import a drug under subsection (2) without having their licence amended under section C.01A.006.
+
+- **(5)** Divisions 2 to 4, other than the following provisions, do not apply to the importation of a drug under subsection (2):
+	- **(a)** sections C.02.003.1 and C.02.004 as they apply to the storage of the drug by the licensee;
+	- **(b)** section C.02.006;
+	- **(c)** subsection C.02.012(1);
+	- **(d)** sections C.02.013 and C.02.014;
+	- **(e)** section C.02.015 as it applies to the storage and transportation of the drug by the licensee;
+	- **(f)** subsection C.02.021(1) as it applies to the storage of the drug by the licensee;
+	- **(g)** subsection C.02.022(1);
+	- **(h)** section C.02.023;
+	- **(i)** subsections C.02.024(1) and C.02.025(1);
+	- **(j)** section C.03.013; and
+	- **(k)** section C.04.001.1 as it applies to the storage of the drug by the licensee.
+> SOR/2017-133, s. 2.
+
+
+
+
+**C.10.002** 
+
+- **(1)** A sale of a drug that is imported under subsection C.10.001(2) is exempt from the provisions of these Regulations only if the drug is sold, within the jurisdiction of a public health official who has notified the Minister as described in paragraph C.10.001(2)(a), for use in respect of the same urgent public health need for which it was imported.
+
+- **(2)** Any person who wholesales such a drug must hold an establishment licence to wholesale a drug in the same category and despite subsection (1), the following provisions apply in respect of the wholesale:
+	- **(a)** sections C.02.003.1 and C.02.004 as they apply to the storage of the drug by the licensee;
+	- **(b)** section C.02.006 as it applies to the storage of the drug by the licensee;
+	- **(c)** subsection C.02.012(1);
+	- **(d)** section C.02.013;
+	- **(e)** section C.02.015 as it applies to the storage and transportation of the drug by the licensee;
+	- **(f)** subsection C.02.022(1);
+	- **(g)** section C.02.023; and
+	- **(h)** subsection C.02.024(1).
+> SOR/2017-133, s. 2.
+
+
+
+
+**C.10.003** Every licensee who imports a drug under subsection C.10.001(2) must notify the Minister within 15 days after the day on which it is imported by providing the following information:
+- **(a)** the name, title and contact information of the person who imported the drug;
+- **(b)** the brand name of the drug;
+- **(c)** the medicinal ingredients, strength, dosage form, route of administration and the identifying code or number, if any assigned in the country in which the drug was authorized for sale;
+- **(d)** the name of the country from which the drug was imported; and
+- **(e)** the total quantity of the drug imported.
+> SOR/2017-133, s. 2.
+
+
+
+
+**C.10.004** 
+
+- **(1)** For the purposes of section 21.8 of the Act, the prescribed health care institutions that must provide information to the Minister about a serious adverse drug reaction that involves a drug imported under subsection C.10.001(2) are the health care institutions authorized by the laws of a province to provide acute care services.
+
+- **(2)** The following prescribed information about a serious adverse drug reaction must be provided to the Minister in writing within 30 days after the day on which the reaction is first documented:
+	- **(a)** the name of the health care institution and the contact information of a representative of that institution;
+	- **(b)** the name and identifying number or code of the drug that is suspected of causing the reaction; and
+	- **(c)** a description of the serious adverse drug reaction.
+> SOR/2017-133, s. 2.
+
+
 
 
 
