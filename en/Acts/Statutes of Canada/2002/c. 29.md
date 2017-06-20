@@ -3199,8 +3199,6 @@ Whale, Beluga (*Delphinapterus leucas*) Cumberland Sound population<br />- <i>B�
 
 Whale, Fin (*Balaenoptera physalus*) Pacific population<br />- <i>Rorqual commun population du Pacifique</i>
 
-Whale, Humpback (*Megaptera novaeangliae*) North Pacific population<br />- <i>Rorqual à bosse population du Pacifique Nord</i>
-
 Whale, Killer (*Orcinus orca*) Northeast Pacific northern resident population<br />- <i>Épaulard population résidente du nord du Pacifique Nord-Est</i>
 
 Whale, Killer (*Orcinus orca*) Northeast Pacific offshore population<br />- <i>Épaulard population océanique du Pacifique Nord-Est</i>
@@ -3523,6 +3521,8 @@ Whale, Fin (*Balaenoptera physalus*) Atlantic population<br />- <i>Rorqual commu
 
 Whale, Grey (*Eschrichtius robustus*) Eastern North Pacific population<br />- <i>Baleine grise population du Pacifique Nord-Est</i>
 
+Whale, Humpback (*Megaptera novaeangliae*) North Pacific population<br />- <i>Rorqual à bosse population du Pacifique Nord</i>
+
 Whale, Sowerby’s Beaked (Mesoplodon bidens)<br />- <i>Baleine à bec de Sowerby</i>
 
 Wolf, Eastern (*Canis lupus lycaon*)<br />- <i>Loup de l’Est</i>
@@ -3825,7 +3825,7 @@ Lichen, Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseu
 Lichen, Peacock Vinyl (*Leptogium polycarpum*)<br />- <i>Leptoge à quatre spores</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130.
 
 
 
