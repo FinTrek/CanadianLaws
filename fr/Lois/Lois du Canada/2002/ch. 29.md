@@ -3204,8 +3204,6 @@ Renard gris (*Urocyon cinereoargenteus*)<br />- <i>Fox, Grey</i>
 
 Renard véloce (*Vulpes velox*)<br />- <i>Fox, Swift</i>
 
-Rorqual à bosse (*Megaptera novaeangliae*) population du Pacifique Nord<br />- <i>Whale, Humpback North Pacific population</i>
-
 Rorqual commun (*Balaenoptera physalus*) population du Pacifique<br />- <i>Whale, Fin Pacific population</i>
 
 
@@ -3522,6 +3520,8 @@ Ours blanc (*Ursus maritimus*)<br />- <i>Bear, Polar</i>
 
 Pica à collier (*Ochotona collaris*)<br />- <i>Pika, Collared</i>
 
+Rorqual à bosse (*Megaptera novaeangliae*) population du Pacifique Nord<br />- <i>Whale, Humpback North Pacific population</i>
+
 Rorqual commun (*Balaenoptera physalus*) population de l’Atlantique<br />- <i>Whale, Fin Atlantic population</i>
 
 Souris des moissons de la sous-espèce *megalotis* (*Reithrodontomys megalotis megalotis*)<br />- <i>Mouse *megalotis* subspecies, Western Harvest</i>
@@ -3826,7 +3826,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130.
 
 
 
