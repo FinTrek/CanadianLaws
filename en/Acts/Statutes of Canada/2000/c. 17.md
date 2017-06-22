@@ -37,50 +37,62 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definitions**
 
-**2** The definitions in this section apply in this Act.
+**2** 
 
-***authorized person*** means a person who is authorized under subsection 45(2).
+- **(1)** The definitions in this section apply in this Act.
 
-***Centre*** means the Financial Transactions and Reports Analysis Centre of Canada established by section 41.
+***authorized person*** means a person who is authorized under subsection 45(2). (*personne autorisée*)
 
-***client*** means a person or an entity that engages in a financial transaction or activity with a person or an entity referred to in section 5, and includes a person or an entity on whose behalf the person or the entity that engages in the transaction or activity is acting.
+***Centre*** means the Financial Transactions and Reports Analysis Centre of Canada established by section 41. (*Centre*)
+
+***client*** includes a person or entity that engages in a financial transaction with another person or entity. (*client*)
 
 ***Commissioner***[Repealed, 2005, c. 38, s. 124]
 
-***courier*** means a courier as defined by regulation.
+***courier***[Repealed, 2017, c. 20, s. 407]
 
-***customs office*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+***customs office*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*bureau de douane*)
 
-***entity*** means a body corporate, a trust, a partnership, a fund or an unincorporated association or organization.
+***entity*** means a body corporate, a trust, a partnership, a fund or an unincorporated association or organization. (*entité*)
 
-***Financial Action Task Force*** means the Financial Action Task Force on Money Laundering established in 1989.
+***Financial Action Task Force*** means the Financial Action Task Force on Money Laundering established in 1989. (*Groupe d’action financière*)
 
-***legal counsel*** means, in Quebec, an advocate or a notary and, in any other province, a barrister or solicitor.
+***foreign state***, except for the purposes of Part 2, means a country other than Canada and includes any political subdivision or territory of a foreign state. (*État étranger*)
 
-***legal firm*** means an entity that is engaged in the business of providing legal services to the public.
+***legal counsel*** means, in Quebec, an advocate or a notary and, in any other province, a barrister or solicitor. (*conseiller juridique*)
 
- ou ***mail*** has the same meaning as in subsection 2(1) of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md).
+***legal firm*** means an entity that is engaged in the business of providing legal services to the public. (*cabinet juridique*)
 
-***Minister*** means, in relation to sections 24.1 to 39, the Minister of Public Safety and Emergency Preparedness and, in relation to any other provision of this Act, the Minister of Finance.
+***mail*** has the same meaning as in subsection 2(1) of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md). (*envois* ou *courrier*)
 
-***money laundering offence*** means an offence under subsection 462.31(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***Minister*** means, in relation to sections 24.1 to 39, the Minister of Public Safety and Emergency Preparedness and, in relation to any other provision of this Act, the Minister of Finance. (*ministre*)
+
+***money laundering offence*** means an offence under subsection 462.31(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*infraction de recyclage des produits de la criminalité*)
 
 ***officer***[Repealed, 2014, c. 20, s. 254]
 
-***person*** means an individual.
+***person*** means an individual. (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulations made by the Governor in Council.
+***prescribed*** means prescribed by regulations made by the Governor in Council. (***Version anglaise seulement***)
 
-***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md).
+***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md). (*président*)
 
-***terrorist activity*** has the same meaning as in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***terrorist activity*** has the same meaning as in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*activité terroriste*)
 
-***terrorist activity financing offence*** means an offence under section 83.02, 83.03 or 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an offence under section 83.12 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) arising out of a contravention of section 83.08 of that Act.
+***terrorist activity financing offence*** means an offence under section 83.02, 83.03 or 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an offence under section 83.12 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) arising out of a contravention of section 83.08 of that Act. (*infraction de financement des activités terroristes*)
 
-***threats to the security of Canada*** has the same meaning as in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
+***threats to the security of Canada*** has the same meaning as in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md). (*menaces envers la sécurité du Canada*)
 
-***violation*** means a contravention of this Act or the regulations that is designated as a violation by regulations made under subsection 73.1(1).
-> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254.
+***violation*** means a contravention of this Act or the regulations that is designated as a violation by regulations made under subsection 73.1(1). (*violation*)
+
+**Definitions — regulations**
+
+- **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations defining the following words and expressions:
+	- **(a)** courier;
+	- **(b)** monetary instruments;
+	- **(c)** shell bank; and
+	- **(d)** identifying information, for the purposes of subsection 54.1(3).
+> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1; 2010, c. 12, s. 1862; 2014, c. 20, s. 254; 2017, c. 20, s. 407.
 
 
 
@@ -137,17 +149,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 - **(f)** loan companies regulated by a provincial Act;
 - **(g)** persons and entities authorized under provincial legislation to engage in the business of dealing in securities or any other financial instruments or to provide portfolio management or investment advising services, other than persons who act exclusively on behalf of such an authorized person or entity;
 - **(h)** persons and entities engaged in the business of foreign exchange dealing, of remitting funds or transmitting funds by any means or through any person, entity or electronic funds transfer network, or of issuing or redeeming money orders, traveller’s cheques or other similar negotiable instruments except for cheques payable to a named person or entity;
-- **(i)** persons and entities engaged in a business, profession or activity described in regulations made under paragraph 73(1)(a);
-- **(j)** persons and entities engaged in a business or profession described in regulations made under paragraph 73(1)(b), while carrying out the activities described in the regulations;
+- **(i)** persons and entities engaged in a prescribed business, profession or activity;
+- **(j)** persons and entities engaged in a prescribed business or profession, while carrying out a prescribed activity;
 - **(k)** the government of a province that, in accordance with paragraph 207(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 	- **(i)** in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games, or
 	- **(ii)** in any other permanent establishment, conducts and manages games that are operated on or through a slot machine, as defined in subsection 198(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or any other similar electronic gaming device, if there are more than 50 of those machines or other devices in the establishment;
 - **(k.1)** the government of a province that, in accordance with paragraph 207(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), conducts and manages a lottery scheme, other than bingo or the sale of lottery tickets, that is accessible to the public through the Internet or other digital network, except if the network is an internal network within an establishment described in subparagraph (k)(ii);
 - **(k.2)** an organization that, in accordance with paragraph 207(1)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games, unless the organization is a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and the lottery scheme is conducted or managed for a period of not more than two consecutive days at a time;
 - **(k.3)** the board of a fair or of an exhibition, or the operator of a concession leased by such a board, that, in accordance with paragraph 207(1)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games;
-- **(l)** departments and agents of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that sell money orders to the public or that sell prescribed precious metals, while carrying out the activities described in regulations made under paragraph 73(1)(c); and
+- **(l)** departments and agents or mandataries of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that issue or sell money orders to, or redeem them from, the public or that sell prescribed precious metals, while carrying out a prescribed activity; and
 - **(m)** for the purposes of section 7, employees of a person or entity referred to in any of paragraphs (a) to (l).
-> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256.
+> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256; 2017, c. 20, s. 408.
 
 
 
@@ -159,8 +171,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Record keeping**
 
-**6** Every person or entity referred to in section 5 shall keep and retain prescribed records in accordance with the regulations.
-> 2000, c. 17, s. 6; 2006, c. 12, s. 4.
+**6** Every person or entity referred to in section 5 shall keep records in accordance with the regulations.
+> 2000, c. 17, s. 6; 2006, c. 12, s. 4; 2017, c. 20, s. 409.
 
 
 
@@ -168,8 +180,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Verifying identity**
 
-**6.1** Every person or entity referred to in section 5 shall verify, in the prescribed circumstances and in accordance with the regulations, the identity of any person or entity.
-> 2006, c. 12, s. 4.
+**6.1** Every person or entity referred to in section 5 shall verify the identity of a person or entity in accordance with the regulations.
+> 2006, c. 12, s. 4; 2017, c. 20, s. 409.
 
 
 
@@ -181,10 +193,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Transactions if reasonable grounds to suspect**
 
-**7** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner, every financial transaction that occurs or that is attempted in the course of their activities and in respect of which there are reasonable grounds to suspect that
+**7** Subject to section 10.1, every person or entity referred to in section 5 shall, in accordance with the regulations, report to the Centre every financial transaction that occurs or that is attempted in the course of their activities and in respect of which there are reasonable grounds to suspect that
 - **(a)** the transaction is related to the commission or the attempted commission of a money laundering offence; or
 - **(b)** the transaction is related to the commission or the attempted commission of a terrorist activity financing offence.
-> 2000, c. 17, s. 7; 2001, c. 41, s. 52; 2006, c. 12, s. 5.
+> 2000, c. 17, s. 7; 2001, c. 41, s. 52; 2006, c. 12, s. 5; 2017, c. 20, s. 410.
 
 
 
@@ -194,12 +206,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **7.1** 
 
-- **(1)** Every person or entity referred to in section 5 that is required to make a disclosure under section 83.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under section 8 of the [Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/360.md) shall also make a report on it to the Centre, in the prescribed form and manner.
+- **(1)** Every person or entity referred to in section 5 that is required to make a disclosure under section 83.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under section 8 of the [Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/360.md) shall report to the Centre in accordance with the regulations.
 
 **Limitation**
 
 - **(2)** Subsection (1) does not apply to prescribed persons or entities, or prescribed classes of persons or entities, in respect of prescribed transactions or property, or classes of transactions or property, if the prescribed conditions are met.
-> 2001, c. 41, s. 52; 2006, c. 12, s. 6.
+> 2001, c. 41, s. 52; 2006, c. 12, s. 6; 2017, c. 20, s. 411.
 
 
 
@@ -207,7 +219,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **No disclosure of reports**
 
-**8** No person or entity shall disclose that they have made a report under section 7, or disclose the contents of such a report, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
+**8** No person or entity shall disclose that they have made, are making or will make a report under section 7, or disclose the contents of such a report, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
+> 2000, c. 17, s. 8; 2017, c. 20, s. 412.
+
 
 
 
@@ -216,7 +230,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **9** 
 
-- **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner,
+- **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance with the regulations,
 	- **(a)** any financial transaction, or any financial transaction within a class of financial transactions, specified in a directive issued under Part 1.1 that occurs or that is attempted in the course of their activities; and
 	- **(b)** any prescribed financial transaction that occurs in the course of their activities.
 
@@ -227,7 +241,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **List of persons**
 
 - **(3)** Every person or entity referred to in section 5 shall establish and maintain a list, in the prescribed form and manner, of their clients in respect of whom a report would have been required under subsection (1) were it not for subsection (2). However, a person or an entity may choose to report a client’s transactions under subsection (1) instead of maintaining the list in respect of that client.
-> 2000, c. 17, s. 9; 2006, c. 12, s. 7; 2010, c. 12, s. 1864.
+> 2000, c. 17, s. 9; 2006, c. 12, s. 7; 2010, c. 12, s. 1864; 2017, c. 20, s. 413.
 
 
 
@@ -235,17 +249,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Reports under other Acts**
 
-**9.1** Subject to section 9, every person or entity that is required to make a report to the Centre under an Act of Parliament or any regulations under it shall make it in the form and manner prescribed under this Act for a report under that Act.
-> 2001, c. 41, s. 53.
+**9.1** Subject to section 9, every person or entity that is required to make a report to the Centre under another Act of Parliament or any regulations under it shall make the report in the form and manner and within the period prescribed under this Act for a report under that Act.
+> 2001, c. 41, s. 53; 2017, c. 20, s. 414.
 
 
 
 
 
-**Inability to establish identity**
+**Inability to verify identity**
 
-**9.2** No person or entity referred to in section 5 shall open an account for a client, in the prescribed circumstances, if it cannot establish the identity of the client in accordance with the prescribed measures.
-> 2006, c. 12, s. 8.
+**9.2** No person or entity that is referred to in section 5 shall open an account for a client if the person or entity cannot verify the identity of the client in accordance with the regulations.
+> 2006, c. 12, s. 8; 2017, c. 20, s. 414.
 
 
 
@@ -262,17 +276,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Measures — politically exposed foreign persons**
 
-- **(2)** If the person or entity determines that it is dealing with a person described in paragraph (1)(a), the person or entity shall obtain the approval of senior management in the prescribed circumstances and take the prescribed measures.
+- **(2)** If the person or entity determines that it is dealing with a person described in paragraph (1)(a), the person or entity shall take the measures referred to in the regulations.
 
 **Measures — other persons**
 
-- **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that the person poses a high risk of committing a money laundering offence or a terrorist activity financing offence, the person or entity shall obtain the approval of senior management in the prescribed circumstances and take the prescribed measures.
+- **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that the person poses a high risk of committing a money laundering offence or a terrorist activity financing offence, the person or entity shall take the measures referred to in the regulations.
 
 **Definitions**
 
 - **(3)** The following definitions apply in this section.
 
-***head of an international organization*** means the head of an international organization that is established by the governments of states or the head of an institution of any such organization. (*dirigeant d’une organisation internationale*)
+***head of an international organization*** means a person who, at a given time, holds — or has held within a prescribed period before that time — the office or position of head of an international organization that is established by the governments of states or the head of an institution of any such organization. (*dirigeant d’une organisation internationale*) 
 
 ***politically exposed domestic person*** means a person who, at a given time, holds — or has held within a prescribed period before that time — one of the offices or positions referred to in any of paragraphs (a) to (j) in or on behalf of the federal government or a provincial government or the office or position referred to in paragraph (k) in a municipal government:
 - **(a)** Governor General, lieutenant governor or head of government;
@@ -298,7 +312,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 - **(h)** judge of a supreme court, constitutional court or other court of last resort;
 - **(i)** leader or president of a political party represented in a legislature; or
 - **(j)** holder of any prescribed office or position. (*étranger politiquement vulnérable*)
-> 2006, c. 12, s. 8; 2014, c. 20, s. 258.
+> 2006, c. 12, s. 8; 2014, c. 20, s. 258; 2017, c. 20, s. 439.
 
 
 
@@ -323,7 +337,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **9.4** 
 
-- **(1)** Every entity referred to in any of paragraphs 5(a), (b), (d) and (e) and every other entity that is referred to in section 5 and that is prescribed shall take the following measures before entering into a correspondent banking relationship with a prescribed foreign entity:
+- **(1)** Every entity referred to in any of paragraphs 5(a), (b), (d) and (e) and every other entity that is referred to in section 5 and that is prescribed shall take the measures referred to in the regulations in respect of any correspondent banking relationship it enters into with a prescribed foreign entity and shall take the following measures before entering into such a correspondent banking relationship:
 	- **(a)** obtain prescribed information about the foreign entity and its activities;
 	- **(b)** ensure that the foreign entity is not a shell bank as defined in the regulations;
 	- **(c)** obtain the approval of senior management;
@@ -337,7 +351,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Definition of correspondent banking relationship**
 
 - **(3)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d) and (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity services such as international electronic funds transfers, cash management, cheque clearing and any prescribed services.
-> 2006, c. 12, s. 8; 2014, c. 20, s. 259.
+> 2006, c. 12, s. 8; 2014, c. 20, s. 259; 2017, c. 20, s. 415.
 
 
 
@@ -367,8 +381,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Special measures**
 
-- **(3)** If the person or entity considers that the risk referred to in subsection (2) is high, the person or entity shall take prescribed special measures for identifying clients, keeping records and monitoring financial transactions in respect of the activities that pose the high risk.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1865.
+- **(3)** If, at any time, the person or entity considers that the risk referred to in subsection (2) is high, or in the prescribed circumstances, the person or entity shall take the special measures referred to in the regulations.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1865; 2017, c. 20, s. 416.
 
 
 
@@ -378,7 +392,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **9.7** 
 
-- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall, in respect of its foreign branches, and in respect of its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, develop policies that establish requirements similar to the requirements of sections 6, 6.1 and 9.6 and ensure that those branches and subsidiaries apply those policies to the extent it is permitted by, and does not conflict with, the laws of the country in which the branch or subsidiary is located.
+- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall, in respect of its foreign branches, and in respect of its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, develop policies that establish requirements similar to the requirements of sections 6, 6.1 and 9.6 and ensure that those branches and subsidiaries apply those policies to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch or subsidiary is located.
 
 **Board approval of policies**
 
@@ -392,8 +406,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Records and reporting**
 
-- **(4)** If the application by a foreign branch or a foreign subsidiary of a policy referred to in subsection (1) is not permitted by or would conflict with the laws of the country in which the branch or subsidiary is located, the entity shall keep and retain, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260.
+- **(4)** If the application by a foreign branch or a foreign subsidiary of a policy referred to in subsection (1) is not permitted by or would conflict with the laws of the foreign state in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260; 2017, c. 20, s. 418.
 
 
 
@@ -451,8 +465,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Registration requirement**
 
-**11.1** Except as otherwise provided in the regulations, every person or entity referred to in paragraph 5(h), those referred to in paragraph 5(l) that sell money orders to the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
-> 2006, c. 12, s. 10.
+**11.1** Except as otherwise prescribed by regulation, every person or entity referred to in paragraph 5(h), those referred to in paragraph 5(l) that issue or sell money orders to, or redeem them from, the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
+> 2006, c. 12, s. 10; 2017, c. 20, s. 419.
 
 
 
@@ -463,26 +477,27 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **11.11** 
 
 - **(1)** The following persons or entities are not eligible for registration with the Centre:
-	- **(a)** a listed person as defined in section 1 of the [Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/360.md);
+	- **(a)** a person or entity that is subject to sanctions associated with terrorist activity or a prohibition relating to financial services under the [United Nations Act](/en/Acts/Revised%20Statutes%20of%20Canada/U/U-2.md);
 	- **(b)** a listed entity as defined in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+	- **(b.1)** a person or entity that is subject to a prohibition on financial or related services under the [Special Economic Measures Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2017.md);
 	- **(c)** a person or entity that has been convicted of any of the following:
-		- **(i)** a money laundering offence, or an offence under the laws of a foreign country that is substantially similar to a money laundering offence,
-		- **(ii)** a terrorist activity financing offence, or an offence under the laws of a foreign country that is substantially similar to a terrorist activity financing offence,
-		- **(iii)** an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 when convicted on indictment, or an offence under the laws of a foreign country that is substantially similar to an offence under either Act,
-		- **(iv)** an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or an offence under the laws of a foreign country that is substantially similar to such an offence, or
+		- **(i)** a money laundering offence, or an offence under the laws of a foreign state that is substantially similar to a money laundering offence,
+		- **(ii)** a terrorist activity financing offence, or an offence under the laws of a foreign state that is substantially similar to a terrorist activity financing offence,
+		- **(iii)** an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 when convicted on indictment, or an offence under the laws of a foreign state that is substantially similar to an offence under either Act,
+		- **(iv)** an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or an offence under the laws of a foreign state that is substantially similar to such an offence, or
 		- **(v)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in subparagraphs (i) to (iv);
-	- **(d)** a person or entity that has been convicted on indictment or convicted more than once for an offence under any of the following, or that has been convicted of an offence under the laws of a foreign country that is substantially similar to an offence under any of the following:
+	- **(d)** a person or entity that has been convicted on indictment or convicted more than once of an offence under any of the following, or that has been convicted of an offence under the laws of a foreign state that is substantially similar to an offence under any of the following:
 		- **(i)** Part X of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 		- **(ii)** the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), except for the offence under subsection 4(1) of that Act,
 		- **(iii)** section 39, 44.2, 44.3, 48, 50.2 or 50.3 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), as that section read immediately before May 14, 1997, or
 		- **(iv)** section 4, 5, 6, 19.1 or 19.2 of the Narcotic Control Act, chapter N-1 of the Revised Statutes of Canada, 1985, as that section read immediately before May 14, 1997;
-	- **(e)** an entity that is a corporation in respect of which a director, the chief executive officer, the president or a person who owns or controls, directly or indirectly, 20% or more of the shares has been convicted on indictment of an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 or has been convicted of an offence under the laws of a foreign country that is substantially similar to an offence under either Act;
+	- **(e)** an entity that is a corporation in respect of which a director, the chief executive officer, the president or a person who owns or controls, directly or indirectly, 20% or more of the shares has been convicted on indictment of an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 or has been convicted of an offence under the laws of a foreign state that is substantially similar to an offence under either Act;
 	- **(f)** any prescribed person or entity.
 
 **Revocation of registration**
 
 - **(2)** If the Centre becomes aware that a person or entity referred to in subsection (1) is registered, the Centre shall revoke the registration and shall, without delay, inform the person or entity of the revocation.
-> 2006, c. 12, s. 11; 2014, c. 20, s. 262.
+> 2006, c. 12, s. 11; 2014, c. 20, s. 262; 2017, c. 20, s. 420.
 
 
 
@@ -492,12 +507,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **11.12** 
 
-- **(1)** An application for registration shall be submitted to the Centre in the prescribed form and manner, shall include a list of the applicant’s agents, mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h), in selling money orders to the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities, and shall include any prescribed information.
+- **(1)** An application for registration shall be submitted to the Centre in the prescribed form and manner, shall include a list of the applicant’s agents or mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h), in issuing or selling money orders to, or redeeming them from, the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities, and shall include any prescribed information.
 
 **Agents, mandataries and branches**
 
 - **(2)** Any agent, mandatary or branch included on the list is not required to register with the Centre when they are acting in that capacity.
-> 2006, c. 12, s. 11.
+> 2006, c. 12, s. 11; 2017, c. 20, s. 421.
 
 
 
@@ -642,14 +657,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-**Definitions**
+**Definition of foreign entity**
 
-**11.41** The following definitions apply in this Part.
-
-***foreign entity*** means an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a country other than Canada, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
-
-***foreign state*** means a country other than Canada and includes any political subdivision or territory of a foreign state.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 267.
+**11.41** In this Part, ***foreign entity*** means an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a foreign state, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 267; 2017, c. 20, s. 422.
 
 
 
@@ -671,7 +682,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** the verification of the identity of any person or entity;
 	- **(b)** the exercise of customer due diligence, including ascertaining the source of funds in any financial transaction, the purpose of any financial transaction or the beneficial ownership or control of any entity;
 	- **(c)** the monitoring of any financial transaction or any account;
-	- **(d)** the keeping and retention of any records;
+	- **(d)** the keeping of any records;
 	- **(e)** the reporting of any financial transaction to the Centre; and
 	- **(f)** compliance with this Part and Part 1.
 
@@ -692,7 +703,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Terms and conditions**
 
 - **(5)** The Minister may impose any terms and conditions in the directive that the Minister considers appropriate.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 268.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 268; 2017, c. 20, s. 423.
 
 
 
@@ -711,12 +722,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **11.44** 
 
-- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches, and that its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, comply with any directive issued under this Part, except with respect to any reporting measure as contemplated by paragraph 11.42(2)(e), to the extent it is permitted by, and does not conflict with, the laws of the country in which the branch or subsidiary is located.
+- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches, and that its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, comply with any directive issued under this Part, except with respect to any reporting measure as contemplated by paragraph 11.42(2)(e), to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch or subsidiary is located.
 
 **Records and reporting**
 
-- **(2)** If compliance with a directive by a branch or a subsidiary is not permitted by or would conflict with the laws of the country in which the branch or subsidiary is located, the entity shall keep and retain, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 269.
+- **(2)** If compliance with a directive by a branch or a subsidiary is not permitted by or would conflict with the laws of the foreign state in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 269; 2017, c. 20, s. 424.
 
 
 
@@ -806,8 +817,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Foreign branches**
 
-**11.6** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches comply with any regulation made under subsection 11.49(1) to the extent it is permitted by, and does not conflict with, the laws of the country in which the branch is located.
-> 2010, c. 12, s. 1869; 2014, c. 20, s. 270.
+**11.6** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that its foreign branches comply with any regulation made under subsection 11.49(1) to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch is located.
+> 2010, c. 12, s. 1869; 2014, c. 20, s. 270; 2017, c. 20, s. 426.
 
 
 
@@ -1267,7 +1278,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **30** 
 
-- **(1)** A person who requests a decision of the Minister under section 27 may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
+- **(1)** A person who makes a request under section 25 for a decision of the Minister may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
 
 **Ordinary action**
 
@@ -1280,7 +1291,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(4)** If the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), the total amount that can be paid under subsection (3) shall not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16.
+> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16; 2017, c. 20, s. 427.
 
 
 
@@ -1771,12 +1782,12 @@ the applicant is entitled to an order declaring that their interest or right is 
 - **(1)** The Director shall seek consent for disclosure of information that was provided to the Centre in confidence by the institutions, agencies or organizations mentioned in paragraph (a), (b) or (c), as the case may be, if that information is contained in the information or analysis requested by the Minister or an officer of the Department of Finance under subsection 53.1(1):
 	- **(a)** federal or provincial law enforcement agencies;
 	- **(b)** federal government institutions or federal government agencies; or
-	- **(c)** a government of a foreign state, an international organization established by the governments of foreign states, or an institution or agency of a foreign state that has powers and duties similar to those of the Centre, with which the Minister or the Centre has entered into a written agreement or arrangement under subsection 56(1) or (2), if the agreement or arrangement so provides.
+	- **(c)** a government of a foreign state, an international organization or an institution or agency of a foreign state that has powers and duties similar to those of the Centre, with which the Minister or the Centre has entered into a written agreement or arrangement under subsection 56(1) or (2), if the agreement or arrangement so provides.
 
 **No disclosure without consent**
 
 - **(2)** The Director shall not disclose the information that was provided to the Centre in confidence before having obtained the consent referred to in subsection (1).
-> 2010, c. 12, s. 1872; 2014, c. 20, s. 279.
+> 2010, c. 12, s. 1872; 2014, c. 20, s. 279; 2017, c. 20, s. 428.
 
 
 
@@ -1918,9 +1929,12 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(m)** the number and categories of persons or entities that made those reports;
 	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation;
 	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
-	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication; and
-	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence.
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167.
+	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication;
+	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
+	- **(r)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
+	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
+	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874; 2014, c. 20, s. 282; 2015, c. 36, s. 167; 2017, c. 20, s. 429.
 
 
 
@@ -1933,8 +1947,9 @@ the applicant is entitled to an order declaring that their interest or right is 
 - **(1)** If the Centre, on the basis of its analysis and assessment under paragraph 54(1)(c), has reasonable grounds to suspect that designated information would be relevant to threats to the security of Canada, the Centre shall disclose the information to
 	- **(a)** the Canadian Security Intelligence Service;
 	- **(b)** the appropriate police force, if the Centre also has reasonable grounds to suspect that the information is relevant to investigating or prosecuting an offence under Canadian law that the Centre has reasonable grounds to suspect arises out of conduct constituting such a threat;
-	- **(c)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act; and
-	- **(d)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation or exportation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament.
+	- **(c)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 91, 117 to 119, 126 or 127 of that Act;
+	- **(d)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation or exportation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament; and
+	- **(e)** the Department of National Defence and the Canadian Forces, if the Centre also has reasonable grounds to suspect that the information is relevant to such a threat as it relates to that Department or the Canadian Forces.
 
 **Recording of reasons for decision**
 
@@ -1958,9 +1973,12 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(m)** the number and categories of persons or entities that made those reports;
 	- **(n)** indicators of a money laundering offence, a terrorist activity financing offence or a threat to the security of Canada related to the transaction, attempted transaction, importation or exportation;
 	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
-	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication; and
-	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence.
-> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283.
+	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication;
+	- **(q)** information about the transaction, attempted transaction, importation or exportation, received by the Centre from an institution or agency under an agreement or arrangement referred to in section 56, that constitutes the institution’s or agency’s reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
+	- **(r)** the name, address, electronic mail address and telephone number of every trustees and every known beneficiary and settlor of a trust referred to in paragraph (a);
+	- **(s)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
+	- **(t)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
+> 2001, c. 41, s. 68; 2006, c. 12, s. 27; 2014, c. 20, s. 283; 2017, c. 20, s. 430.
 
 
 
@@ -1970,7 +1988,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **56** 
 
-- **(1)** The Minister may enter into an agreement or arrangement, in writing, with the government of a foreign state, or an international organization established by the governments of foreign states regarding the exchange, between the Centre and any institution or agency of that state or organization that has powers and duties similar to those of the Centre, of information that the Centre, institution or agency has reasonable grounds to suspect would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence.
+- **(1)** The Minister may enter into an agreement or arrangement, in writing, with the government of a foreign state or an international organization regarding the exchange, between the Centre and any institution or agency of that state or organization that has powers and duties similar to those of the Centre, of information that the Centre, institution or agency has reasonable grounds to suspect would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence.
 
 **Agreements and arrangements — Centre**
 
@@ -1981,7 +1999,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 - **(3)** Agreements or arrangements entered into under subsection (1) or (2) must
 	- **(a)** restrict the use of information to purposes relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence; and
 	- **(b)** stipulate that the information be treated in a confidential manner and not be further disclosed without the express consent of the Centre.
-> 2000, c. 17, s. 56; 2001, c. 41, s. 68.
+> 2000, c. 17, s. 56; 2001, c. 41, s. 68; 2017, c. 20, s. 431.
 
 
 
@@ -1991,7 +2009,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **56.1** 
 
-- **(1)** The Centre may disclose designated information to an institution or agency of a foreign state or of an international organization established by the governments of foreign states that has powers and duties similar to those of the Centre, if
+- **(1)** The Centre may disclose designated information to an institution or agency of a foreign state or of an international organization that has powers and duties similar to those of the Centre, if
 	- **(a)** the Centre has reasonable grounds to suspect that the information would be relevant to the investigation or prosecution of a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence; and
 	- **(b)** the Minister has, in accordance with subsection 56(1), entered into an agreement or arrangement with that foreign state or international organization regarding the exchange of such information.
 
@@ -2034,9 +2052,12 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(l)** the number and types of reports on which a disclosure is based;
 	- **(m)** the number and categories of persons or entities that made those reports;
 	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation;
-	- **(o)** information about the importation or exportation that was reported to the Centre under section 20; and
-	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication.
-> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284.
+	- **(o)** information about the importation or exportation that was reported to the Centre under section 20;
+	- **(p)** if the transaction is carried out by means of an electronic funds transfer as defined in the [Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/184.md), information about the transaction that is contained in a report made under section 9 and that is remittance information as defined by the Society for Worldwide Interbank Financial Telecommunication;
+	- **(q)** the name, address, electronic mail address and telephone number of every trustee and every known beneficiary and settlor of a trust referred to in paragraph (a);
+	- **(r)** the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust; and
+	- **(s)** information respecting the ownership, control and structure of an entity referred to in paragraph (a).
+> 2001, c. 41, s. 68; 2006, c. 12, s. 28; 2014, c. 20, s. 284; 2017, c. 20, s. 432.
 
 
 
@@ -2578,7 +2599,7 @@ The order must be complied with within the period following the service of the o
 
 **65.1** 
 
-- **(1)** The Centre may enter into an agreement or arrangement, in writing, with an institution or agency of a foreign state that has powers and duties, similar to those of the Centre, with respect to verifying compliance with requirements to identify persons or entities, keep and retain records or make reports, or with an international organization made up of such institutions or agencies and established by the governments of states, that stipulates
+- **(1)** The Centre may enter into an agreement or arrangement, in writing, with an institution or agency of a foreign state that has powers and duties, similar to those of the Centre, with respect to verifying compliance with requirements to identify persons or entities, keep records or make reports, or with an international organization made up of such institutions or agencies, that stipulates
 	- **(a)** that the Centre and the institution, agency or organization may exchange information about the compliance of persons and entities with those requirements and about the assessment of risk related to their compliance;
 	- **(b)** that the information may only be used for purposes relevant to ensuring compliance with the requirements and to assessing risk related to compliance; and
 	- **(c)** that the information will be treated in a confidential manner and not be further disclosed without the express consent of the Centre.
@@ -2590,7 +2611,7 @@ The order must be complied with within the period following the service of the o
 **Usefulness of information**
 
 - **(3)** When the Centre receives information from an institution, agency or organization under an agreement or arrangement, the Centre may provide it with an evaluation of whether the information is useful to the Centre.
-> 2006, c. 12, s. 37.
+> 2006, c. 12, s. 37; 2017, c. 20, s. 433.
 
 
 
@@ -2718,41 +2739,25 @@ The order must be complied with within the period following the service of the o
 **73** 
 
 - **(1)** The Governor in Council may, on the recommendation of the Minister, make any regulations that the Governor in Council considers necessary for carrying out the purposes and provisions of this Act, including regulations
-	- **(a)** describing businesses, professions and activities for the purpose of paragraph 5(i);
-	- **(b)** describing businesses and professions for the purpose of paragraph 5(j), and the activities to which that paragraph applies;
-	- **(c)** describing the activities to which paragraph 5(l) applies;
-	- **(d)** specifying the types of records to be kept and retained under section 6 and the information to be included in them;
-	- **(e)** specifying the period for which, and the methods by which, records referred to in paragraph (d) are to be retained;
-	- **(e.1)** specifying the information to be contained in a report under section 7 or 7.1 or subsection 9(1);
-	- **(e.2)** prescribing the form and manner in which persons or entities or classes of persons or entities shall report under section 7, 7.1, 9 or 9.1;
-	- **(f)** specifying measures, and the periods within which those measures must be taken, that persons or entities are to take to identify any person or entity that requests the opening of an account or any person or entity in respect of which a record is required to be kept or a report made;
-	- **(g)** defining courier and monetary instruments;
-	- **(h)** specifying the form and manner of reporting currency and monetary instruments for the purpose of subsection 12(1), and the information to be contained in the form, and specifying the period within which the reporting must be made;
-	- **(i)** prescribing the circumstances referred to in section 9.2;
-	- **(j)** prescribing, for the purposes of subsection 9.3(1), the manner for determining whether a person is a person described in any of paragraphs 9.3(1)(a) to (c) and the circumstances in which it is necessary to make that determination;
-	- **(k)** prescribing, for the purposes of subsections 9.3(2) and (2.1), the circumstances in which it is necessary to obtain the approval of senior management and the measures to be taken;
-	- **(l)** prescribing offices and positions for the purposes of paragraph (j) of the definition politically exposed domestic person in subsection 9.3(3) or paragraph (j) of the definition politically exposed foreign person in that subsection;
-	- **(l.1)** prescribing family members for the purposes of subsection 9.3(1);
-	- **(l.2)** defining foreign state for the purposes of the definition politically exposed foreign person in subsection 9.3(3);
-	- **(m)** prescribing the foreign entities to which subsection 9.4(1) applies and, for the purposes of that subsection, prescribing the information to be obtained about those entities and prescribing the measures to be taken;
-	- **(n)** defining the expression shell bank referred to in section 9.4;
-	- **(o)** prescribing the services referred to in the definition correspondent banking relationship in subsection 9.4(3);
-	- **(p)** prescribing the electronic funds transfers to which section 9.5 applies, the information to be included with those transfers and the measures to be taken under that section;
-	- **(q)** specifying the manner for establishing and implementing the program referred to in subsection 9.6(1);
-	- **(r)** prescribing the special measures to be taken under subsection 9.6(3);
-	- **(s)** prescribing persons and entities that must be registered with the Centre under section 11.1;
-	- **(t)** prescribing persons or entities or classes of persons or entities that are not subject to section 11.1;
-	- **(u)** prescribing, for the purposes of paragraph 11.11(1)(f), persons or entities that are not eligible for registration;
-	- **(v)** prescribing the form and manner of submitting an application for registration under subsection 11.12(1) and the information that must be included with the application;
-	- **(w)** prescribing the form and manner of notifying the Centre of any information that must be provided under section 11.13;
-	- **(x)** prescribing the form and manner of providing the Centre with any clarifications under subsection 11.14(1) and any clarifications under subsection 11.17(1);
-	- **(y)** prescribing, for the purposes of section 11.19, the form and manner for renewing registration and any longer renewal period;
+	- **(a)** respecting dealing in virtual currencies;
+	- **(b)** respecting the keeping of records referred to in section 6;
+	- **(c)** respecting the verification of the identity of persons and entities referred to in section 6.1;
+	- **(d)** respecting the reports to the Centre referred to in section 7 and subsections 7.1(1) and 9(1);
+	- **(e)** respecting the determination of whether a person is a person described in any of paragraphs 9.3(1)(a) to (c);
+	- **(e.1) and (e.2)** [Repealed, 2017, c. 20, s. 434]
+	- **(f)** respecting the measures referred to in subsections 9.3(2) and (2.1);
+	- **(g)** respecting the measures referred to in subsection 9.4(1);
+	- **(h)** respecting the program referred to in subsection 9.6(1);
+	- **(i)** respecting the special measures referred to in subsection 9.6(3);
+	- **(j)** respecting the registration referred to in sections 11.1 to 11.2;
+	- **(k)** respecting the reports referred to in subsection 12(1); and
+	- **(l)** prescribing anything that by this Act is to be prescribed.
+	- **(l.1) to (y)** [Repealed, 2017, c. 20, s. 434]
 	- **(y.1) and (y.2)** [Repealed, 2014, c. 20, s. 294]
-	- **(z)** defining identifying information for the purposes of subsection 54.1(3); and
-	- **(z.1)** prescribing anything else that by this Act is to be prescribed.
+	- **(z) and (z.1)** [Repealed, 2017, c. 20, s. 434]
 
 - **(2) and (3)** [Repealed, 2001, c. 41, s. 73]
-> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39; 2010, c. 12, s. 1877; 2014, c. 20, s. 294.
+> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39; 2010, c. 12, s. 1877; 2014, c. 20, s. 294; 2017, c. 20, s. 434.
 
 
 
@@ -2862,7 +2867,7 @@ The order must be complied with within the period following the service of the o
 **Notice of decision and right of appeal**
 
 - **(4)** The Director shall cause notice of any decision made under subsection (2) or the penalty imposed under subsection (3) to be issued and served on the person or entity together with, in the case of a decision made under subsection (2) in respect of a serious violation or very serious violation, notice of the right of appeal under subsection 73.21(1).
-> 2006, c. 12, s. 40.
+> 2006, c. 12, s. 40; 2017, c. 20, s. 435(F).
 
 
 
