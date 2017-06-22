@@ -192,9 +192,11 @@ However, it does not include the adjoining area, as defined in section 2 of the 
 
 
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply**
 
-**14** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of any fees fixed under a provision that is incorporated into the regulations by reference.
+**14** For greater certainty, the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply in respect of any fees fixed under a provision that is incorporated into the regulations by reference.
+> 2007, c. 33, s. 14; 2017, c. 20, s. 454.
+
 
 
 
