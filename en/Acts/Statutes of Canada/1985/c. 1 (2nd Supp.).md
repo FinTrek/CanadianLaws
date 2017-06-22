@@ -681,10 +681,10 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(e)** respecting the amendment, suspension, renewal, cancellation or reinstatement of authorizations; and
 	- **(f)** respecting fees or the manner of determining fees to be paid for authorizations.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(4)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for an authorization issued under this section if it is a reciprocal fee under an international arrangement.
-> 2001, c. 25, s. 11; 2010, c. 25, s. 172; 2012, c. 19, s. 373.
+- **(4)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for an authorization issued under this section if it is a reciprocal fee under an international arrangement.
+> 2001, c. 25, s. 11; 2010, c. 25, s. 172; 2012, c. 19, s. 373; 2017, c. 20, s. 454.
 
 
 
