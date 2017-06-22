@@ -109,13 +109,13 @@ and includes the seabed and subsoil thereof and the airspace above that area; 
 **Currency of guarantee**
 
 - **(3)** Subparagraphs (2)(a)(ii), (v) and (vi) shall be deemed to authorize the guaranteeing, in whole or in part, of an equivalent amount in the currency of any country other than Canada and, notwithstanding subsection 48(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the equivalent amount shall be calculated using
-	- **(a)** where the guarantee is in respect of an amount that together with all guaranteed principal amounts outstanding at the time is in excess of the maximum aggregate principal amount guaranteed at any prior time, the rate of exchange between the Canadian dollar and the currency concerned as quoted by the Bank of Canada at noon on the day immediately preceding the day on which the benefit of the guarantee is extended by certificate pursuant to paragraph (2)(b) to the amount in excess; or
+	- **(a)** where the guarantee is in respect of an amount that together with all guaranteed principal amounts outstanding at the time is in excess of the maximum aggregate principal amount guaranteed at any prior time, the daily average rate of exchange between the Canadian dollar and the currency concerned quoted by the Bank of Canada on the day immediately preceding the day on which the benefit of the guarantee is extended by certificate under paragraph (2)(b) to the amount in excess; or
 	- **(b)** where the guarantee is in respect of the payment of an amount that finances or refinances the whole or a portion of an obligation in the currency of a country other than Canada that has been previously guaranteed under any of those subparagraphs, the weighted average of the rates of exchange determined under paragraph (a) in respect of all of the amounts that were previously guaranteed in the currency concerned.
 
 **Definition of interest**
 
-- **(4)** In this section, ***interest*** includes, in respect of a financial instrument, the difference between the face amount of the financial instrument and the sum received by the issuer, amortized over the term of the financial instrument to its maturity.
-> 1990, c. 41, s. 3; 1999, c. 31, s. 130; 2014, c. 13, s. 115.
+- **(4)** In this section, interest includes, in respect of a financial instrument, the difference between the face amount of the financial instrument and the sum received by the issuer, amortized over the term of the financial instrument to its maturity.
+> 1990, c. 41, s. 3; 1999, c. 31, s. 130; 2014, c. 13, s. 115; 2017, c. 20, s. 105.
 
 
 
