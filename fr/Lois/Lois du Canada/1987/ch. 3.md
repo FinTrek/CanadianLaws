@@ -661,10 +661,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Non-application de la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**Non-application de la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-**29.2** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux droits ou redevances à payer conformément aux règlements pris en vertu de l’article 29.1.
-> 2015, ch. 4, art. 39.
+**29.2** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux droits ou redevances à payer conformément aux règlements pris en vertu de l’article 29.1.
+> 2015, ch. 4, art. 39; 2017, ch. 20, art. 454.
 
 
 
