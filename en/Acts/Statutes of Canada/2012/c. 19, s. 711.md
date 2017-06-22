@@ -108,7 +108,43 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Minister**
 
-**7** The Minister may, for the purpose of providing services under this Act, exercise any of the powers, duties or functions that are set out in paragraph 6(a), (b), (c) or (g) of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md) in respect of departments and Crown corporations to which those services are provided.
+**7** The Minister may, for the purpose of providing services under this Act, exercise any of the powers, or perform any of the duties or functions, that are set out in paragraph 6(a), (b), (c) or (g) of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md) in respect of departments, Crown corporations, persons, organizations and governments to which those services are provided.
+> 2012, c. 19, s. 711 “7”; 2017, c. 20, s. 113.
+
+
+
+
+
+**Delegation — appropriate Minister**
+
+**7.1** 
+
+- **(1)** For the purpose of providing services under this Act to a department through Shared Services Canada, the Minister may delegate any of his or her powers under section 7 in respect of that department, for any period and under any terms and conditions that he or she considers suitable, to that department’s appropriate Minister.
+
+**Delegation — chief executive**
+
+- **(2)** For the purpose of providing services under this Act, through Shared Services Canada, to a department over which the Minister does not preside but for which he or she is the appropriate Minister, the Minister may delegate any of his or her powers under section 7 in respect of that department, for any period and under any terms and conditions that he or she considers suitable, to that department’s chief executive.
+
+**Subdelegation — chief executive**
+
+- **(3)** The appropriate Minister for a department may, subject to and in accordance with the delegation under subsection (1), subdelegate to the chief executive of that department, for any period and under any terms and conditions that the appropriate Minister considers suitable, the power that was delegated to him or her under that subsection.
+
+**Subdelegation — subordinate**
+
+- **(4)** The chief executive of a department may, subject to and in accordance with the delegation under subsection (2) or the subdelegation under subsection (3), subdelegate to any person under his or her jurisdiction, for any period and under any terms and conditions that the chief executive considers suitable, the power that was delegated or subdelegated, as the case may be, to him or her under that subsection.
+
+**Definitions**
+
+- **(5)** The following definitions apply in this section.
+
+***appropriate Minister*** has the same meaning as in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md). (*ministre compétent*)
+
+***chief executive*** means
+- **(a)** with respect to a department named in Part I of Schedule VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), its deputy minister;
+- **(b)** with respect to a department named in Part II or III of that Schedule, the person occupying the position set out opposite that name; and
+- **(c)** with respect to a department that is not named in that Schedule, the chief executive officer, the deputy head or the person who occupies any other similar position, however called, in that department. (*administrateur principal*)
+> 2017, c. 20, s. 113.
+
 
 
 
@@ -123,6 +159,27 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Charging for services**
 
 **9** The Minister may, subject to any regulations that the Treasury Board makes for the purposes of this section, charge for the services that are provided under this Act.
+
+
+
+
+**Authorization**
+
+**9.1** 
+
+- **(1)** Despite the Governor in Council having specified, under paragraph 6(c), that a department must obtain a service that is specified under paragraph 6(a) exclusively from the Minister through Shared Services Canada and is not permitted to meet its requirement for that service internally, the Minister may, if the Minister considers that exceptional circumstances justify it, and under any terms and conditions that the Minister specifies,
+	- **(a)** authorize that department to obtain part of that service other than from the Minister through Shared Services Canada, including by meeting its requirement for that part of the service internally; or
+	- **(b)** authorize that department to obtain all of that service in respect of one or more portions of the department — but not all of the department — other than from the Minister through Shared Services Canada, including by meeting its requirement for that service internally.
+
+**Power exercised personally**
+
+- **(2)** The Minister must personally exercise the power that is set out in subsection (1).
+
+**Instructions**
+
+- **(3)** A department that is authorized, under subsection (1), to obtain all or part of a service other than from the Minister through Shared Services Canada, including by meeting its requirement for that service or that part of the service internally, must do so in accordance with any instructions that the Minister provides.
+> 2017, c. 20, s. 114.
+
 
 
 
