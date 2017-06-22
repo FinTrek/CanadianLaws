@@ -917,6 +917,33 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Agreement — cost recovery**
+
+**36.01** 
+
+- **(1)** The Minister of Transport may enter into an agreement with any person or organization respecting any matter for which a regulation made under paragraph 35(1)(g) could prescribe a fee.
+
+**Regulations — exemption**
+
+- **(2)** If both an agreement entered into under subsection (1) and a regulation made under paragraph 35(1)(g) relate to the same matter, the regulation does not apply to the person or organization that has entered into the agreement in respect of the matter for which payment is required under the agreement.
+
+**Recovery**
+
+- **(3)** When the Minister of Transport enters into an undertaking in respect of a matter for which payment of an amount is required from the other party under the terms of an agreement entered into under subsection (1), the undertaking is deemed, for the purposes of recovering that amount, not to be a duty of the Minister under this Act.
+
+**Debt due to Her Majesty**
+
+- **(4)** All amounts payable under an agreement entered into under subsection (1) and any interest payable on them constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+
+**Spending**
+
+- **(5)** The Minister of Transport may spend the amounts received under an agreement entered into under subsection (1) in the fiscal year in which they are received or in the next fiscal year.
+> 2017, c. 20, s. 316.
+
+
+
+
+
 **Services provided by third parties**
 
 **36.1** 
@@ -929,12 +956,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Not public money**
 
-- **(2)** Unless otherwise provided in the regulations, the fees referred to in subsection (1) are not public money within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of them.
+- **(2)** Unless otherwise provided in the regulations, the fees referred to in subsection (1) are not public money within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply in respect of them.
 
 **Non-application of certain regulations**
 
 - **(3)** Unless otherwise provided in the regulations, the regulations made under paragraph 35(1)(g) do not apply in respect of any service referred to in any of paragraphs (1)(a) to (d) that is provided by any person or organization that is not part of the federal public administration in the exercise of powers or the performance of duties under this Act in accordance with an agreement or arrangement entered into by the Minister of Transport under paragraph 10(1)(c).
-> 2012, c. 31, s. 161.
+> 2012, c. 31, s. 161; 2017, c. 20, s. 454.
 
 
 
