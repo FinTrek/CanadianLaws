@@ -2503,10 +2503,10 @@ plus de 13 %
 
 
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-**66.6** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre des articles 66 ou 66.32 ni des cotisations fixées au titre des articles 67 et 68.
-> 2005, ch. 30, art. 126; 2012, ch. 31, art. 438; 2013, ch. 40, art. 131.
+**66.6** Il est entendu que la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre des articles 66 ou 66.32 ni des cotisations fixées au titre des articles 67 et 68.
+> 2005, ch. 30, art. 126; 2012, ch. 31, art. 438; 2013, ch. 40, art. 131; 2017, ch. 20, art. 454.
 
 
 
