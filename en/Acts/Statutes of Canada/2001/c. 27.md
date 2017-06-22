@@ -273,6 +273,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** A foreign national who seeks to enter or remain in Canada as a member of a class that is referred to in an instruction given under paragraph 10.3(1)(a) may make an application for permanent residence only if the Minister has issued them an invitation to do so, the invitation has not been cancelled under subsection 10.2(5) and the applicable period specified in an instruction given under paragraph 10.3(1)(k) has not expired.
 
+**Invitation to provincial nominees**
+
+- **(1.1)** A foreign national who is a member of a portion of the prescribed class of provincial nominees set out in an instruction given under paragraph 10.3(1)(a) may be issued an invitation only in respect of that class.
+
 **Limitation**
 
 - **(2)** An instruction may be given under paragraph 10.3(1)(a) only in respect of a class that is part of the economic class referred to in subsection 12(2).
@@ -296,7 +300,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Failure to make application**
 
 - **(6)** A foreign national who is invited to make an application and does not do so within the period specified in an instruction given under paragraph 10.3(1)(k) is not eligible to be invited to make an application in relation to the expression of interest on the basis of which the invitation was issued.
-> 2013, c. 40, s. 290; 2014, c. 20, s. 306.
+
+**Declining invitation**
+
+- **(7)** Subsection (6) does not apply to a foreign national who declines an invitation to make an application within the period specified in an instruction given under paragraph 10.3(1)(k).
+> 2013, c. 40, s. 290; 2014, c. 20, s. 306; 2017, c. 20, s. 300.
 
 
 
@@ -344,7 +352,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(f)** the period during which a foreign national remains eligible to be invited to make an application;
 	- **(g)** the personal information that the Minister may disclose under section 10.4 and the entities to which that information may be disclosed;
 	- **(h)** the basis on which an eligible foreign national may be ranked relative to other eligible foreign nationals;
-	- **(i)** the rank an eligible foreign national must occupy to be invited to make an application;
+	- **(i)** the rank an eligible foreign national must occupy to be invited to make an application in respect of a class referred to in an instruction given under paragraph (a);
 	- **(j)** the number of invitations that may be issued within a specified period, including in respect of a class referred to in an instruction given under paragraph (a);
 	- **(k)** the period within which an application must be made once an invitation has been issued;
 	- **(l)** the means by which a foreign national is to be advised of any matter relating to their expression of interest, including an invitation to make an application; and
@@ -356,7 +364,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application of instructions**
 
-- **(3)** An instruction given under any of paragraphs (1)(a), (b) and (f) to (l) applies in respect of an expression of interest that is submitted before the day on which the instruction takes effect, unless the instruction provides otherwise.
+- **(3)** An instruction given under any of paragraphs (1)(a), (b) and (e) to (l) applies in respect of an expression of interest that is submitted before the day on which the instruction takes effect, unless the instruction provides otherwise.
 
 **Publication**
 
@@ -365,7 +373,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Criteria provided for under other Divisions**
 
 - **(5)** For greater certainty, an instruction given under subsection (1) may provide for criteria that are more stringent than the criteria or requirements provided for in or under any other Division of this Act regarding applications for permanent residence.
-> 2013, c. 40, s. 290; 2014, c. 20, s. 306.
+> 2013, c. 40, s. 290; 2014, c. 20, s. 306; 2017, c. 20, s. 301.
 
 
 
@@ -373,8 +381,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Disclosure of information**
 
-**10.4** For the purpose of facilitating the selection of a foreign national as a member of the economic class or as a temporary resident, the Minister may disclose personal information provided to him or her by the foreign national under section 10.1 and referred to in an instruction given under paragraph 10.3(1)(g) to an entity that is referred to in an instruction given under that paragraph.
-> 2013, c. 40, s. 290.
+**10.4** For the purpose of facilitating the selection of a foreign national as a member of the economic class or as a temporary resident, the Minister may disclose to an entity that is referred to in an instruction given under paragraph 10.3(1)(g) the personal information referred to in that instruction that is
+- **(a)** provided to the Minister by the foreign national under section 10.1 or by a third party for the purposes of section 10.1 or 10.2; or
+- **(b)** created by the Minister, on the basis of the information referred to in paragraph (a), for the purposes of sections 10.1 to 10.3.
+> 2013, c. 40, s. 290; 2017, c. 20, s. 302.
 
 
 
@@ -439,8 +449,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Visa or other document not to be issued**
 
-**11.2** An officer may not issue a visa or other document in respect of an application for permanent residence to a foreign national who was issued an invitation under Division 0.1 to make that application if — at the time the invitation was issued or at the time the officer received their application — the foreign national did not meet the criteria set out in an instruction given under paragraph 10.3(1)(e) or did not have the qualifications on the basis of which they were ranked under an instruction given under paragraph 10.3(1)(h) and were issued the invitation.
-> 2014, c. 20, s. 300.
+**11.2** 
+
+- **(1)** An officer may not issue a visa or other document in respect of an application for permanent residence to a foreign national who was issued an invitation under Division 0.1 to make that application if — at the time the invitation was issued or at the time the officer received their application — the foreign national did not meet the criteria set out in an instruction given under paragraph 10.3(1)(e) or did not have the qualifications on the basis of which they were ranked under an instruction given under paragraph 10.3(1)(h) and were issued the invitation.
+
+**Exceptions**
+
+- **(2)** Despite subsection (1), an officer may issue the visa or other document if, at the time the officer received their application,
+	- **(a)** the foreign national did not meet the criteria set out in an instruction given under paragraph 10.3(1)(e) — or did not have the qualifications on the basis of which they were ranked under an instruction given under paragraph 10.3(1)(h) — because the applicant’s birthday occurred after the invitation was issued; or
+	- **(b)** the foreign national did not have the qualifications they had at the time the invitation was issued and on the basis of which they were ranked under an instruction given under paragraph 10.3(1)(h), but
+		- **(i)** they met the criteria set out in an instruction given under paragraph 10.3(1)(e), and
+		- **(ii)** they occupied a rank that is not lower than the rank that a foreign national was required to have occupied to be invited to make an application.
+> 2014, c. 20, s. 300; 2017, c. 20, s. 303.
 
 
 
@@ -605,14 +625,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(10)** Despite subsection (9), the Minister may direct officers to process, after the end of the effective period of an instruction, applications in a class established by the instruction that were made during the period in which the instruction had effect.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(11)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the fees referred to in subsection (1).
+- **(11)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply in respect of the fees referred to in subsection (1).
 
 **Publication**
 
 - **(12)** Instructions must be published in the Canada Gazette.
-> 2012, c. 19, ss. 703, 710.
+> 2012, c. 19, ss. 703, 710; 2017, c. 20, s. 454.
 
 
 
@@ -2614,22 +2634,34 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The regulations may govern fees for services provided in the administration of this Act, and cases in which fees may be waived by the Minister or otherwise, individually or by class.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(1.1)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to a request for an assessment provided by the Department of Employment and Social Development with respect to an application for a work permit.
+- **(1.1)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for the provision of services in relation to a request for an assessment provided by the Department of Employment and Social Development with respect to an application for a work permit.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(1.2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to the processing of an application for a temporary resident visa, work permit, study permit or extension of an authorization to remain in Canada as a temporary resident.
+- **(1.2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for the provision of services in relation to the processing of an application
+	- **(a)** for a temporary resident visa or permanent resident visa;
+	- **(b)** for a work permit or study permit;
+	- **(c)** for an extension of an authorization to remain in Canada as a temporary resident;
+	- **(d)** to remain in Canada as a permanent resident;
+	- **(e)** to sponsor a foreign national as a member of the family class;
+	- **(f)** to make the request referred to in subsection 25(1);
+	- **(g)** for a travel document issued under subsection 31(3); and
+	- **(h)** for a permanent resident card.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to an application referred to in subsection 11(1.01).
+- **(2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for the provision of services in relation to an application referred to in subsection 11(1.01).
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(3)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to the collection, use and disclosure of biometric information and for the provision of related services.
-> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313; 2013, c. 33, s. 162, c. 40, s. 237; 2014, c. 39, s. 310.
+- **(3)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for the provision of services in relation to the collection, use and disclosure of biometric information and for the provision of related services.
+
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
+
+- **(4)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee for the examination of the circumstances of a foreign national under subsection 25.2(1).
+> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313; 2013, c. 33, s. 162, c. 40, s. 237; 2014, c. 39, s. 310; 2017, c. 20, ss. 304, 454.
 
 
 
@@ -2643,10 +2675,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** govern fees to be paid for rights and privileges conferred by means of a work permit; and
 	- **(b)** waive the fees referred to in paragraph (a) for certain work permits or certain classes of work permits.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to fees referred to in paragraph (1)(a).
-> 2013, c. 33, s. 163.
+- **(2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to fees referred to in paragraph (1)(a).
+> 2013, c. 33, s. 163; 2017, c. 20, s. 454.
+
+
+
+
+
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
+
+**89.11** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to fees for the acquisition of permanent resident status.
+> 2017, c. 20, s. 305.
 
 
 
@@ -2662,10 +2703,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** require employers to pay the fees referred to in paragraph (a) by means of an electronic system; and
 	- **(d)** include provisions respecting that system, respecting the circumstances in which those fees may be paid by other means and respecting those other means.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to fees referred to in paragraph (1)(a).
-> 2014, c. 39, s. 312.
+- **(2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to fees referred to in paragraph (1)(a).
+> 2014, c. 39, s. 312; 2017, c. 20, s. 454.
 
 
 
