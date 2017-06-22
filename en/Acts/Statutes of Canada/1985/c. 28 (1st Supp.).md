@@ -306,10 +306,8 @@ is five million dollars or more.
 **14.1** 
 
 - **(1)** Despite the limits set out in subsection 14(3), but subject to subsection (1.1), an investment described in paragraph 14(1)(a) or (b) by a WTO investor or — if the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a WTO investor — by a non-Canadian, other than a WTO investor, is reviewable under section 14 only if the enterprise value, calculated in the manner prescribed, of the assets described in paragraph 14(3)(a) or (b), as the case may be, is equal to or greater than,
-	- **(a)** for an investment implemented at any time in the year that begins on the day on which this paragraph comes into force, or in the following year, $600,000,000;
-	- **(b)** for an investment implemented at any time in the two years that begin immediately after the two years referred to in paragraph (a), $800,000,000;
-	- **(c)** for an investment implemented at any time in the year that begins immediately after the years for which the amount set out in paragraph (b) applies, $1,000,000,000;
-	- **(d)** for an investment implemented at any time in the period that begins immediately after the year for which the amount set out in paragraph (c) applies and that ends on the following December 31, $1,000,000,000; and
+	- **(a) to (c)** [Repealed, 2017, c. 20, s. 192]
+	- **(d)** for an investment implemented at any time in the period that begins on the day on which this paragraph comes into force and that ends on December 31 of the following year, $1,000,000,000; and
 	- **(e)** for an investment implemented at any time in the year that begins after the period referred to in paragraph (d), or in any subsequent year, the amount determined under subsection (2).
 
 **Limits for WTO investors that are state-owned enterprises**
@@ -346,22 +344,22 @@ where
 
 ***controlled by a WTO investor***, with respect to a Canadian business, means, notwithstanding subsection 28(2),
 - **(a)** the ultimate direct or indirect control in fact of the Canadian business by a WTO investor through the ownership of voting interests, or
-- **(b)** the ownership by a WTO investor of all or substantially all of the assets used in carrying on the Canadian business;
+- **(b)** the ownership by a WTO investor of all or substantially all of the assets used in carrying on the Canadian business; (*sous le contrôle d’un investisseur OMC*)
 
-***cultural business*** means a Canadian business that carries on any of the following activities, namely,
+***cultural business*** means a Canadian business that carries on any of the following activities, namely,
 - **(a)** the publication, distribution or sale of books, magazines, periodicals or newspapers in print or machine readable form, other than the sole activity of printing or typesetting of books, magazines, periodicals or newspapers,
 - **(b)** the production, distribution, sale or exhibition of film or video recordings,
 - **(c)** the production, distribution, sale or exhibition of audio or video music recordings,
 - **(d)** the publication, distribution or sale of music in print or machine readable form, or
-- **(e)** radio communication in which the transmissions are intended for direct reception by the general public, any radio, television and cable television broadcasting undertakings and any satellite programming and broadcast network services;
+- **(e)** radio communication in which the transmissions are intended for direct reception by the general public, any radio, television and cable television broadcasting undertakings and any satellite programming and broadcast network services; (*entreprise culturelle*)
 
 ***financial institution***[Repealed, 2009, c. 2, s. 448]
 
 ***financial service***[Repealed, 2009, c. 2, s. 448]
 
-***WTO Agreement*** has the meaning given to the word “Agreement” by subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md);
+***WTO Agreement*** has the meaning given to the word “Agreement” by subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md); (*Accord sur l’OMC*)
 
-***WTO investor*** means
+***WTO investor*** means
 - **(a)** an individual, other than a Canadian, who is a national of a WTO Member or who has the right of permanent residence in relation to that WTO Member,
 - **(b)** a government of a WTO Member, whether federal, state or local, or an agency thereof,
 - **(c)** an entity that is not a Canadian-controlled entity, as determined pursuant to subsection 26(1) or (2), and that is a WTO investor-controlled entity, as determined in accordance with subsection (7),
@@ -376,20 +374,20 @@ where
 	- **(ii)** that is not a WTO investor within the meaning of paragraph (c),
 	- **(iii)** that is not controlled in fact through the ownership of its voting interests, and
 	- **(iv)** of which two thirds of its trustees are any combination of Canadians and WTO investors, or
-- **(f)** any other form of business organization specified by the regulations that is controlled by a WTO investor;
+- **(f)** any other form of business organization specified by the regulations that is controlled by a WTO investor; (*investisseur OMC*)
 
-***WTO Member*** means a Member of the World Trade Organization established by Article I of the WTO Agreement.
+***WTO Member*** means a Member of the World Trade Organization established by Article I of the WTO Agreement. (*membre de l’OMC*)
 
 **Interpretation**
 
-- **(7)** For the purposes only of determining whether an entity is a “WTO investor-controlled entity” under paragraph (c) of the definition ***WTO investor*** in subsection (6),
+- **(7)** For the purposes only of determining whether an entity is a “WTO investor-controlled entity” under paragraph (c) of the definition WTO investor in subsection (6),
 	- **(a)** subsections 26(1) and (2) and section 27 apply and, for that purpose,
 		- **(i)** every reference in those provisions to “Canadian” or “Canadians” shall be read and construed as a reference to “WTO investor” or “WTO investors”, respectively,
 		- **(ii)** every reference in those provisions to “non-Canadian” or “non-Canadians” shall be read and construed as a reference to “non-Canadian, other than a WTO investor,” or “non-Canadians, other than WTO investors,” respectively, except for the reference to “non-Canadians” in subparagraph 27(d)(ii), which shall be read and construed as a reference to “not WTO investors”,
 		- **(iii)** every reference in those provisions to “Canadian-controlled” shall be read and construed as a reference to “WTO investor-controlled”, and
 		- **(iv)** the reference in subparagraph 27(d)(i) to “Canada” shall be read and construed as a reference to “a WTO Member”; and
 	- **(b)** where two persons, one being a Canadian and the other being a WTO investor, own equally all of the voting shares of a corporation, the corporation is deemed to be WTO investor-controlled.
-> 1988, c. 65, s. 135; 1993, c. 35, s. 3; 1994, c. 47, s. 133; 2009, c. 2, s. 448; 2013, c. 33, s. 137.
+> 1988, c. 65, s. 135; 1993, c. 35, s. 3; 1994, c. 47, s. 133; 2009, c. 2, s. 448; 2013, c. 33, s. 137; 2017, c. 20, s. 192.
 
 
 
@@ -1239,8 +1237,8 @@ where there is no acquisition of control of any corporation;
 
 **Annual report**
 
-**38.1** The Director shall, for each fiscal year, submit a report on the administration of this Act, other than Part IV.1, to the Minister and the Minister shall make the report available to the public.
-> 2009, c. 2, s. 459.
+**38.1** The Director shall, for each fiscal year, submit a report on the administration of this Act to the Minister and the Minister shall make the report available to the public.
+> 2009, c. 2, s. 459; 2017, c. 20, s. 193.
 
 
 
