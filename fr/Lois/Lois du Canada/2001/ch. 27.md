@@ -273,6 +273,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’étranger qui cherche à entrer au Canada ou à y séjourner comme membre d’une catégorie visée par une instruction donnée en vertu de l’alinéa 10.3(1)a) ne peut présenter une demande de résidence permanente que si le ministre lui a formulé une invitation à le faire, celle-ci n’a pas été annulée en vertu du paragraphe 10.2(5) et la période applicable prévue aux termes d’une instruction donnée en vertu de l’alinéa 10.3(1)k) n’est pas expirée.
 
+**Invitation aux candidats des provinces**
+
+- **(1.1)** L’étranger qui fait partie d’une portion de la catégorie réglementaire des candidats des provinces prévue dans une instruction donnée en vertu de l’alinéa 10.3(1)a) ne peut être invité à présenter une demande qu’au titre de cette catégorie.
+
 **Restriction**
 
 - **(2)** L’instruction donnée en vertu de l’alinéa 10.3(1)a) ne peut viser qu’une catégorie établie au sein de la catégorie « immigration économique » mentionnée au paragraphe 12(2).
@@ -296,7 +300,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet de ne pas présenter de demande**
 
 - **(6)** L’étranger invité à présenter une demande qui n’en présente pas une dans la période prévue dans une instruction donnée en vertu de l’alinéa 10.3(1)k) ne peut être invité à en présenter une autre relativement à la même déclaration d’intérêt.
-> 2013, ch. 40, art. 290; 2014, ch. 20, art. 306.
+
+**Invitation déclinée**
+
+- **(7)** Le paragraphe (6) ne s’applique pas à l’étranger qui décline, avant la fin de la période prévue dans une instruction donnée en vertu de l’alinéa 10.3(1)k), l’invitation à présenter une demande.
+> 2013, ch. 40, art. 290; 2014, ch. 20, art. 306; 2017, ch. 20, art. 300.
 
 
 
@@ -343,8 +351,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** les critères que l’étranger est tenu de remplir pour pouvoir être invité à présenter une demande;
 	- **f)** la période au cours de laquelle l’étranger peut être invité à présenter une demande;
 	- **g)** les renseignements personnels que le ministre peut communiquer en vertu de l’article 10.4 et les entités auxquelles il peut les communiquer;
-	- **h)** les motifs de classement des étrangers, les uns par rapport aux autres, qui peuvent être invités à présenter une demande;
-	- **i)** le rang qu’un étranger qui peut être invité à présenter une demande doit occuper dans ce classement pour être invité à présenter une demande;
+	- **h)** la base sur laquelle peuvent être classés les uns par rapport aux autres les étrangers qui peuvent être invités à présenter une demande;
+	- **i)** le rang qu’un étranger doit occuper pour être invité à présenter une demande au titre d’une catégorie visée par une instruction donnée en vertu de l’alinéa a);
 	- **j)** le nombre d’invitations pouvant être formulées au cours d’une période précisée, notamment à l’égard d’une catégorie prévue par une instruction donnée en vertu de l’alinéa a);
 	- **k)** la période au cours de laquelle la demande doit être présentée après la formulation d’une invitation à le faire;
 	- **l)** le moyen par lequel l’étranger est informé de toute question relative à sa déclaration d’intérêt, notamment d’une invitation à présenter une demande;
@@ -356,7 +364,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application des instructions**
 
-- **(3)** L’instruction donnée en vertu de l’un des alinéas (1)a), b) et f) à l) s’applique, sauf indication contraire prévue par celle-ci, à l’égard des déclarations d’intérêt soumises avant la date à laquelle elle prend effet.
+- **(3)** L’instruction donnée en vertu de l’un des alinéas (1)a), b) et e) à l) s’applique, sauf indication contraire prévue par celle-ci, à l’égard des déclarations d’intérêt soumises avant la date à laquelle elle prend effet.
 
 **Publication**
 
@@ -365,7 +373,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères prévus sous le régime d’autres sections**
 
 - **(5)** Il est entendu que les instructions données en vertu du paragraphe (1) peuvent prévoir des critères plus sévères que les critères ou exigences prévus sous le régime de toute autre section de la présente loi relativement aux demandes de résidence permanente.
-> 2013, ch. 40, art. 290; 2014, ch. 20, art. 306.
+> 2013, ch. 40, art. 290; 2014, ch. 20, art. 306; 2017, ch. 20, art. 301.
 
 
 
@@ -373,8 +381,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Communication de renseignements**
 
-**10.4** Le ministre peut communiquer les renseignements personnels qui lui ont été fournis par un étranger au titre de l’article 10.1 et qui sont visés par une instruction donnée en vertu de l’alinéa 10.3(1)g) à une entité visée par une instruction donnée en vertu cet alinéa dans le but de faciliter sa sélection comme étranger de la catégorie « immigration économique » ou comme résident temporaire.
-> 2013, ch. 40, art. 290.
+**10.4** Pour faciliter la sélection d’un étranger comme membre de la catégorie « immigration économique » ou comme résident temporaire, le ministre peut communiquer à une entité visée par une instruction donnée en vertu de l’alinéa 10.3(1)g) les renseignements personnels qui sont visés par cette instruction et qui sont :
+- **a)** fournis au ministre par cet étranger au titre de l’article 10.1 ou par un tiers pour l’application des articles 10.1 ou 10.2;
+- **b)** créés par le ministre pour l’application des articles 10.1 à 10.3, sur la base des renseignements visés à l’alinéa a).
+> 2013, ch. 40, art. 290; 2017, ch. 20, art. 302.
 
 
 
@@ -439,8 +449,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Visa ou autre document ne pouvant être délivré**
 
-**11.2** Ne peut être délivré à l’étranger à qui une invitation à présenter une demande de résidence permanente a été formulée en vertu de la section 0.1 un visa ou autre document à l’égard de la demande si, lorsque l’invitation a été formulée ou que la demande a été reçue par l’agent, il ne répondait pas aux critères prévus dans une instruction donnée en vertu de l’alinéa 10.3(1)e) ou ne satisfaisait pas aux motifs de classement prévus dans une instruction donnée en vertu de l’alinéa 10.3(1)h) sur la base desquels cette invitation a été formulée.
-> 2014, ch. 20, art. 300.
+**11.2** 
+
+- **(1)** Ne peut être délivré à l’étranger à qui une invitation à présenter une demande de résidence permanente a été formulée en vertu de la section 0.1 un visa ou autre document à l’égard de la demande si, lorsque l’invitation a été formulée ou que la demande a été reçue par l’agent, il ne répondait pas aux critères prévus dans une instruction donnée en vertu de l’alinéa 10.3(1)e) ou il n’avait pas les attributs sur la base desquels il a été classé au titre d’une instruction donnée en vertu de l’alinéa 10.3(1)h) et sur la base desquels cette invitation a été formulée.
+
+**Exceptions**
+
+- **(2)** Malgré le paragraphe (1), le visa ou autre document peut être délivré à l’étranger si, lorsque sa demande a été reçue par l’agent, selon le cas :
+	- **a)** il ne répondait pas aux critères prévus dans une instruction donnée en vertu de l’alinéa 10.3(1)e) ou il n’avait pas les attributs sur la base desquels il a été classé au titre d’une instruction donnée en vertu de l’alinéa 10.3(1)h), en raison du fait que l’anniversaire de l’étranger a eu lieu après la formulation de l’invitation;
+	- **b)** il n’avait pas les attributs — qu’il avait au moment où l’invitation a été formulée — sur la base desquels il a été classé au titre d’une instruction donnée en vertu de l’alinéa 10.3(1)h), mais :
+		- **(i)** il répondait aux critères prévus dans une instruction donnée en vertu de l’alinéa 10.3(1)e),
+		- **(ii)** il occupait un rang qui n’est pas inférieur au rang qu’un étranger devait occuper pour être invité à présenter une demande.
+> 2014, ch. 20, art. 300; 2017, ch. 20, art. 303.
 
 
 
@@ -605,14 +625,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(10)** Malgré le paragraphe (9), le ministre peut ordonner à l’agent de traiter les demandes faites au titre d’une catégorie établie par instruction alors qu’elle était valide, même si sa période de validité a pris fin.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(11)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à l’égard des frais visés au paragraphe (1).
+- **(11)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas à l’égard des frais visés au paragraphe (1).
 
 **Publication**
 
 - **(12)** Les instructions sont publiées dans la Gazette du Canada.
-> 2012, ch. 19, art. 703 et 710.
+> 2012, ch. 19, art. 703 et 710; 2017, ch. 20, art. 454.
 
 
 
@@ -2596,22 +2616,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les règlements peuvent prévoir les frais pour les services offerts dans la mise en oeuvre de la présente loi, ainsi que les cas de dispense, individuellement ou par catégorie, de paiement de ces frais.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(1.1)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’une évaluation fournie par le ministère de l’Emploi et du Développement social relativement à une demande de permis de travail.
+- **(1.1)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’une évaluation fournie par le ministère de l’Emploi et du Développement social relativement à une demande de permis de travail.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(1.2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à l’examen des demandes de visa de résident temporaire ou de permis de travail ou d’études et de celles relatives à la prolongation de l’autorisation de l’étranger de séjourner au Canada à titre de résident temporaire.
+- **(1.2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour la prestation de services liés à l’examen des demandes :
+	- **a)** de visa de résident temporaire ou de résident permanent;
+	- **b)** de permis de travail ou de permis d’études;
+	- **c)** de prolongation de l’autorisation de l’étranger de séjourner au Canada à titre de résident temporaire;
+	- **d)** de séjour au Canada à titre de résident permanent;
+	- **e)** de parrainage au titre du regroupement familial;
+	- **f)** de celle faite en vertu du paragraphe 25(1);
+	- **g)** de délivrance d’un titre de voyage en vertu du paragraphe 31(3);
+	- **h)** de carte de résident permanent.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande visée au paragraphe 11(1.01).
+- **(2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande visée au paragraphe 11(1.01).
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(3)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la collecte, à l’utilisation et à la communication de renseignements biométriques, ainsi qu’aux services afférents.
-> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162, ch. 40, art. 237; 2014, ch. 39, art. 310.
+- **(3)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la collecte, à l’utilisation et à la communication de renseignements biométriques, ainsi qu’aux services afférents.
+
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
+
+- **(4)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour l’étude du cas d’un étranger, aux termes du paragraphe 25.2(1).
+> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162, ch. 40, art. 237; 2014, ch. 39, art. 310; 2017, ch. 20, art. 304 et 454.
 
 
 
@@ -2625,10 +2657,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** prévoir les frais à payer pour les droits ou avantages octroyés par un permis de travail;
 	- **b)** prévoir que l’obligation de payer les frais visés à l’alinéa a) est levée à l’égard de certains permis de travail ou de certaines catégories de permis de travail.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
-> 2013, ch. 33, art. 163.
+- **(2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
+> 2013, ch. 33, art. 163; 2017, ch. 20, art. 454.
+
+
+
+
+
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
+
+**89.11** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais exigés pour l’acquisition du statut de résident permanent.
+> 2017, ch. 20, art. 305.
 
 
 
@@ -2644,10 +2685,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** exiger de l’employeur qu’il paie les frais visés à l’alinéa a) au moyen d’un système électronique;
 	- **d)** régir ce système, les cas où les paiements peuvent être faits par tout autre moyen et le moyen en question.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
-> 2014, ch. 39, art. 312.
+- **(2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
+> 2014, ch. 39, art. 312; 2017, ch. 20, art. 454.
 
 
 
