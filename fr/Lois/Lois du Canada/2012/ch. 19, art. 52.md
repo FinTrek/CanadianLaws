@@ -1122,9 +1122,11 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 	- **a)** dans le cas où elle effectue l’évaluation, les frais qu’elle engage pour les services réglementaires fournis par un tiers dans le cadre de celle-ci et les sommes réglementaires afférentes à l’exercice de ses attributions relativement à l’évaluation;
 	- **b)** dans le cas où l’évaluation a été renvoyée au titre de l’article 38 pour examen par une commission, les frais que celle-ci et l’Agence engagent pour les services réglementaires fournis par un tiers dans le cadre de l’évaluation et les sommes réglementaires afférentes à l’exercice des attributions de l’Agence, ou de celles des membres de la commission, relativement à l’évaluation.
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais et sommes visés au paragraphe (1) qui sont établis à la date d’entrée en vigueur de la présente loi.
+- **(2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais et sommes visés au paragraphe (1) qui sont établis à la date d’entrée en vigueur de la présente loi.
+> 2012, ch. 19, art. 52 « 59 »; 2017, ch. 20, art. 454
+
 
 
 
