@@ -2390,6 +2390,37 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 
 
+### Accords
+
+
+
+**Accord — recouvrement des coûts**
+
+**47.4** 
+
+- **(1)** Le ministre peut conclure avec toute personne un accord portant sur tout ce qui pourrait, en vertu du paragraphe 47.2(1), faire l’objet d’un règlement fixant des droits.
+
+**Non-application**
+
+- **(2)** Lorsqu’un accord conclu en vertu du paragraphe (1) et un règlement pris en vertu du paragraphe 47.2(1) ont le même objet, le règlement ne s’applique pas à la personne qui est partie à l’accord à l’égard de ce pourquoi un paiement est exigé au titre de l’accord.
+
+**Recouvrement**
+
+- **(3)** L’obligation qui incombe au ministre au titre d’un accord conclu en vertu du paragraphe (1) et à l’égard de laquelle des sommes sont exigibles de l’autre partie est réputée, aux fins de recouvrement de ces sommes, ne pas être une obligation lui incombant au titre de la présente loi.
+
+**Créances de Sa Majesté**
+
+- **(4)** Les sommes exigibles au titre de l’accord conclu en vertu du paragraphe (1) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada.
+
+**Dépense**
+
+- **(5)** Le ministre peut dépenser les sommes perçues au titre d’un accord conclu en vertu du paragraphe (1) au cours de l’exercice où elles sont perçues ou de l’exercice suivant.
+> 2017, ch. 20, art. 315.
+
+
+
+
+
 ### Incorporation par renvoi
 
 
