@@ -101,14 +101,14 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 	- **e)** sous réserve de leur conformité aux lois fédérales, à leurs textes d’application et, notamment, à la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) et à la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md), ainsi que du prix du marché extérieur, des engagements relatifs à l’accessibilité des marchés intérieur et extérieur pour le pétrole brut provenant de l’exploitation;
 	- **f)** les autres mesures que le ministre juge souhaitables.
 
-**Emprunts en devises**
+**Garanties en devises**
 
-- **(3)** Les fonds prévus aux sous-alinéas (2)a)(ii), (v) et (vi) peuvent être garantis, en tout ou en partie, pour un montant équivalent de devises, calculé, malgré le paragraphe 48(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), d’après le taux de change affiché à midi à la Banque du Canada la veille de la majoration de la garantie en cas d’augmentation globale du montant attestée en vertu de l’alinéa (2)b) ou, en cas de financement ou refinancement de tout ou partie d’une obligation déjà garantie, d’après la moyenne pondérée des taux ainsi affichés pour chacune des devises.
+- **(3)** Les fonds prévus aux sous-alinéas (2)a)(ii), (v) et (vi) peuvent être garantis, en tout ou en partie, pour un montant équivalent de devises, calculé, malgré le paragraphe 48(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), d’après le taux de change moyen quotidien affiché à la Banque du Canada la veille de la majoration de la garantie en cas d’augmentation globale du montant attestée en vertu de l’alinéa (2)b) ou, en cas de financement ou refinancement de tout ou partie d’une obligation déjà garantie, d’après la moyenne pondérée des taux ainsi affichés pour chacune des devises.
 
 **Définition d’intérêts**
 
 - **(4)** Pour l’application du présent article, est assimilée aux intérêts la différence entre la valeur nominale et le montant reçu par l’émetteur des instruments financiers selon leur valeur après amortissement.
-> 1990, ch. 41, art. 3; 1999, ch. 31, art. 130; 2014, ch. 13, art. 115.
+> 1990, ch. 41, art. 3; 1999, ch. 31, art. 130; 2014, ch. 13, art. 115; 2017, ch. 20, art. 105.
 
 
 
