@@ -1422,13 +1422,13 @@ où :
 
 ***année inflationniste*** S’entend au sens du paragraphe 43.1(1). (*inflationary adjusted year*)
 
-***cigarettes imposées*** Cigarettes sur lesquelles le droit prévu à l’article 42 a été imposé avant le 12 février 2014 au taux figurant à l’alinéa 1b) de l’annexe 1, en son état le 11 février 2014, et qui, à zéro heure le 12 février 2014, à la fois :
+***cigarettes imposées*** Cigarettes sur lesquelles le droit prévu à l’article 42 a été imposé avant le 23 mars 2017 au taux figurant à l’alinéa 1a) de l’annexe 1, en son état le 22 mars 2017, et qui, à zéro heure le 23 mars 2017, à la fois :
 - **a)** étaient offertes en vente dans le cours normal des activités de leur propriétaire;
 - **b)** n’étaient pas offertes en vente par distributeur automatique;
 - **c)** n’étaient pas exonérées de ce droit en vertu de la présente loi. (*taxed cigarettes*)
 
 ***date d’ajustement***
-- **a)** Le 12 février 2014;
+- **a)** Le 23 mars 2017;
 - **b)** dans le cas d’une année inflationniste, le 1<sup>er</sup> décembre de cette année. (*adjustment day*)
 
 ***établissement de détail distinct*** Boutique ou magasin qui répond aux conditions suivantes :
@@ -1441,17 +1441,17 @@ où :
 ***tabac imposé***[Abrogée, 2014, ch. 20, art. 69]
 
 ***unité***[Abrogée, 2014, ch. 20, art. 69]
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197; 2014, ch. 20, art. 69.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197; 2014, ch. 20, art. 69; 2017, ch. 20, art. 45.
 
 
 
 
 
-**Assujettissement —  majoration de 2014**
+**Assujettissement — majoration de 2017**
 
 **58.2** 
 
-- **(1)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 12 février 2014 au taux de 0,020 15 $ par cigarette.
+- **(1)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 23 mars 2017 au taux de 0,002 65 $ par cigarette.
 
 **Assujettissement —  années inflationnistes**
 
@@ -1474,7 +1474,7 @@ où :
 **Arrondissement**
 
 - **(3)** Le résultat obtenu en application des alinéas (2)a) ou b) est arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198; 2014, ch. 20, art. 70.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198; 2014, ch. 20, art. 70; 2017, ch. 20, art. 46.
 
 
 
@@ -1503,13 +1503,13 @@ où :
 **58.5** 
 
 - **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter une déclaration au ministre, en la forme et selon les modalités autorisées par celui-ci, au plus tard :
-	- **a)** le 30 avril 2014, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
+	- **a)** le 31 mai 2017, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
 	- **b)** le dernier jour du mois suivant décembre d’une année inflationniste, dans les autres cas.
 
 **Déclarations distinctes**
 
 - **(2)** Toute personne autorisée, en vertu du paragraphe 239(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à produire des déclarations distinctes pour des succursales ou divisions peut aussi en produire pour chacune d’elles en application de la présente partie.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200; 2014, ch. 20, art. 71.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200; 2014, ch. 20, art. 71; 2017, ch. 20, art. 47.
 
 
 
@@ -1520,7 +1520,7 @@ où :
 **58.6** 
 
 - **(1)** Toute personne est tenue de verser au receveur général le total de la taxe dont elle est redevable en vertu de la présente partie, au plus tard :
-	- **a)** le 30 avril 2014, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
+	- **a)** le 31 mai 2017, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
 	- **b)** le dernier jour du mois suivant décembre d’une année inflationniste, dans les autres cas.
 
 **Intérêts de moins de 25 $**
@@ -1532,7 +1532,7 @@ où :
 - **(3)** Le ministre peut, à tout moment, proroger par écrit le délai prévu par la présente partie pour la production d’une déclaration ou le versement de la taxe exigible. Le cas échéant :
 	- **a)** la déclaration doit être produite ou la taxe exigible, payée dans le délai prorogé;
 	- **b)** les intérêts sont exigibles aux termes de l’article 170 comme si le délai n’avait pas été prorogé.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201; 2014, ch. 20, art. 72.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201; 2014, ch. 20, art. 72; 2017, ch. 20, art. 48.
 
 
 
@@ -2386,6 +2386,54 @@ où :
 
 
 
+**Définitions**
+
+**123.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***année de référence*** Toute période de douze mois commençant le 1<sup>er</sup> avril d’une année et se terminant le 31 mars de l’année suivante. (*reference year*)
+
+***année inflationniste*** S’entend de 2018 et de chacune des années suivantes. (*inflationary adjusted year*)
+
+**Ajustements annuels**
+
+- **(2)** Chacun des taux de droit applicables relativement à un litre d’alcool éthylique absolu ou à un litre de spiritueux, prévus à l’annexe 4, est ajusté le 1<sup>er</sup> avril d’une année inflationniste de façon à ce qu’il s’établisse au plus élevé des taux suivants :
+	- **a)** le taux obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le taux de droit applicable au litre d’alcool éthylique absolu ou au litre de spiritueux, selon le cas, le 31 mars de l’année inflationniste,
+- **B** la somme — arrêtée à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure — obtenue par la formule suivante :
+```
+C/D
+```
+où :
+- **C** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année donnée qui précède l’année inflationniste,
+- **D** l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année qui précède l’année donnée;
+	- **b)** le taux de droit visé à l’élément A de la formule figurant à l’alinéa a).
+
+**Arrondissement**
+
+- **(3)** Le taux ajusté déterminé selon le paragraphe (2) est arrêté à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure.
+
+**Indice des prix à la consommation**
+
+- **(4)** Au présent article, l’indice des prix à la consommation pour une période de douze mois est obtenu par :
+	- **a)** l’addition des indices mensuels des prix à la consommation de la période pour le Canada, publiés par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **b)** la division de ce total par douze;
+	- **c)** l’arrêt du quotient ainsi obtenu à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure.
+
+**Application du taux ajusté**
+
+- **(5)** Les droits sur les spiritueux qui sont imposés au cours d’une année de référence mais qui deviennent exigibles au cours d’une autre année de référence, laquelle commence au cours d’une année inflationniste, sont déterminés au taux de droit ajusté conformément au paragraphe (2) le premier jour de cette autre année de référence.
+> 2017, ch. 20, art. 49.
+
+
+
+
+
 **Droit exigible à l’emballage**
 
 **124** 
@@ -2588,6 +2636,54 @@ où :
 
 - **(5)** Dans le cas où un exploitant agréé d’entrepôt d’accise devient redevable, en vertu de l’article 140, du droit sur le vin, la personne tenue de payer ce droit en vertu du paragraphe (4) cesse d’en être redevable.
 > 2002, ch. 22, art. 135; 2007, ch. 2, art. 57, ch. 18, art. 100.
+
+
+
+
+
+**Définitions**
+
+**135.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***année de référence*** Toute période de douze mois commençant le 1<sup>er</sup> avril d’une année et se terminant le 31 mars de l’année suivante. (*reference year*)
+
+***année inflationniste*** S’entend de 2018 et de chacune des années suivantes. (*inflationary adjusted year*)
+
+**Ajustements annuels**
+
+- **(2)** Chacun des taux de droit applicables relativement à un litre de vin, prévus à l’annexe 6, est ajusté le 1<sup>er</sup> avril d’une année inflationniste de façon à ce qu’il s’établisse au plus élevé des taux suivants :
+	- **a)** le taux obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le taux de droit applicable au litre de vin le 31 mars de l’année inflationniste,
+- **B** la somme — arrêtée à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure — obtenue par la formule suivante :
+```
+C/D
+```
+où :
+- **C** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année donnée qui précède l’année inflationniste,
+- **D** l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année qui précède l’année donnée;
+	- **b)** le taux de droit visé à l’élément A de la formule figurant à l’alinéa a).
+
+**Arrondissement**
+
+- **(3)** Le taux ajusté déterminé selon le paragraphe (2) est arrêté à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure.
+
+**Indice des prix à la consommation**
+
+- **(4)** Au présent article, l’indice des prix à la consommation pour une période de douze mois est obtenu par :
+	- **a)** l’addition des indices mensuels des prix à la consommation de la période pour le Canada, publiés par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **b)** la division de ce total par douze;
+	- **c)** l’arrêt du quotient ainsi obtenu à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure.
+
+**Application du taux ajusté**
+
+- **(5)** Les droits sur le vin qui sont imposés au cours d’une année de référence mais qui deviennent exigibles au cours d’une autre année de référence, laquelle commence au cours d’une année inflationniste, sont déterminés au taux de droit ajusté conformément au paragraphe (2) le premier jour de cette autre année de référence.
+> 2017, ch. 20, art. 50.
 
 
 
@@ -4514,10 +4610,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** le total des produits suivants :
-		- **(i)** le produit de 0,21 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,21 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,26 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,41 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,22 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,22 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,27 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,42 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
@@ -4526,10 +4622,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **a)** le total des produits suivants :
 		- **(i)** le produit de 0,32 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
 		- **(ii)** le produit de 0,32 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,39 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,82 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(iii)** le produit de 0,40 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,84 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76; 2017, ch. 20, art. 51.
 
 
 
@@ -4547,8 +4643,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 11,696 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 0,62 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
+		- **(i)** le produit de 11,930 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 0,63 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
 		- **(iii)** le produit de 10 $ par le nombre de litres d’alcool spécialement dénaturé ou de préparation assujettie à des restrictions auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
@@ -4556,11 +4652,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 23,392 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,24 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
+		- **(i)** le produit de 23,860 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 1,26 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
 		- **(iii)** le produit de 20 $ par le nombre de litres d’alcool spécialement dénaturé ou de préparation assujettie à des restrictions auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 217; 2006, ch. 4, art. 44; 2007, ch. 18, art. 118.
+> 2002, ch. 22, art. 217; 2006, ch. 4, art. 44; 2007, ch. 18, art. 118; 2017, ch. 20, art. 52.
 
 
 
@@ -4578,18 +4674,18 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 23,392 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,24 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
+		- **(i)** le produit de 23,860 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 1,26 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 35,088 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,86 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
+		- **(i)** le produit de 35,790 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 1,89 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 218; 2006, ch. 4, art. 45; 2007, ch. 18, art. 119.
+> 2002, ch. 22, art. 218; 2006, ch. 4, art. 45; 2007, ch. 18, art. 119; 2017, ch. 20, art. 53.
 
 
 
@@ -4901,10 +4997,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,40 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,40 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 502,19 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78.
+- **a)** 0,41 $ par cigarette retirée en contravention avec ce paragraphe;
+- **b)** 0,41 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **c)** 508,81 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78; 2017, ch. 20, art. 54.
 
 
 
@@ -4919,8 +5015,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Contravention — art. 72**
 
-**242** Quiconque contrevient à l’article 72 est passible d’une pénalité de 1,24 $ le litre sur le vin auquel la contravention se rapporte.
-> 2002, ch. 22, art. 242; 2006, ch. 4, art. 46.
+**242** Quiconque contrevient à l’article 72 est passible d’une pénalité de 1,26 $ le litre sur le vin auquel la contravention se rapporte.
+> 2002, ch. 22, art. 242; 2006, ch. 4, art. 46; 2017, ch. 20, art. 55.
 
 
 
@@ -4932,14 +5028,14 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(1)** Sauf en cas d’application des articles 239, 241, 242 ou 243.1 ou du paragraphe (2), quiconque contrevient aux articles 73, 74 ou 90 est passible de la pénalité suivante :
 	- **a)** si la contravention se rapporte à des spiritueux, le montant représentant 200 % des droits imposés sur les spiritueux;
-	- **b)** si la contravention se rapporte à du vin, 1,24 $ le litre de vin.
+	- **b)** si la contravention se rapporte à du vin, 1,26 $ le litre de vin.
 
 **Contravention de l’art. 73 ou 90 par l’utilisateur agréé**
 
 - **(2)** Tout utilisateur agréé qui, en contravention des articles 73 ou 90, exporte de l’alcool, l’utilise pour soi ou le met en la possession de quiconque est passible de la pénalité suivante :
 	- **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
-	- **b)** si la contravention se rapporte à du vin, 0,62 $ le litre de vin.
-> 2002, ch. 22, art. 243; 2006, ch. 4, art. 47; 2007, ch. 18, art. 124.
+	- **b)** si la contravention se rapporte à du vin, 0,63 $ le litre de vin.
+> 2002, ch. 22, art. 243; 2006, ch. 4, art. 47; 2007, ch. 18, art. 124; 2017, ch. 20, art. 56.
 
 
 
@@ -4949,8 +5045,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **243.1** Quiconque contrevient aux articles 76, 89 ou 91 est passible de la pénalité suivante :
 - **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
-- **b)** si la contravention se rapporte à du vin, 0,62 $ le litre de vin.
-> 2007, ch. 18, art. 124.
+- **b)** si la contravention se rapporte à du vin, 0,63 $ le litre de vin.
+> 2007, ch. 18, art. 124; 2017, ch. 20, art. 57.
 
 
 
@@ -6711,7 +6807,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 ## Taux du droit sur les produits du tabac
 **1** Cigarettes, par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet :
 
-**a)** 0,525 75 $;
+**a)** 0,539 00 $;
 
 
 
@@ -6722,7 +6818,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **2** Bâtonnets de tabac, par bâtonnet :
 
-**a)** 0,105 15 $;
+**a)** 0,107 80 $;
 
 
 
@@ -6733,7 +6829,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, par quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage :
 
-**a)** 6,571 88 $;
+**a)** 6,737 50 $;
 
 
 
@@ -6744,7 +6840,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **4** Cigares, par lot de 1 000 cigares :
 
-**a)** 22,885 59 $;
+**a)** 23,462 35 $;
 
 
 
@@ -6756,7 +6852,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56; 2014, ch. 20, art. 79.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56; 2014, ch. 20, art. 79; 2017, ch. 20, art. 58 à 61 .
 
 
 
@@ -6768,7 +6864,7 @@ Cigares, par cigare, la plus élevée des sommes suivantes :
 
 **a)** selon le cas :
 
-**(i)** 0,082 26 $,
+**(i)** 0,084 34 $,
 
 
 
@@ -6780,11 +6876,11 @@ Cigares, par cigare, la plus élevée des sommes suivantes :
 
 **b)** le produit du prix de vente, dans le cas de cigares fabriqués au Canada, ou de la valeur à l’acquitté, dans le cas de cigares importés, par celui des pourcentages ci-après qui est applicable :
 
-**(i)** si le taux prévu au sous-alinéa a)(i) n’a pas été ajusté conformément au paragraphe 43.1(2), 82 %,
+**(i)** si le taux prévu au sous-alinéa a)(i) n’a pas été ajusté conformément au paragraphe 43.1(2), 84 %,
 
 
 
-**(ii)** si oui, la somme, exprimée en pourcentage,  —  arrêtée à l’unité, les résultats ayant au moins cinq en première décimale étant arrondis à l’unité supérieure  —  obtenue par la formule suivante :
+**(ii)** si oui, la somme, exprimée en pourcentage, — arrêtée à l’unité, les résultats ayant au moins cinq en première décimale étant arrondis à l’unité supérieure — obtenue par la formule suivante :
 ```
 A × 1000
 ```
@@ -6796,7 +6892,7 @@ où :
 
 
 
-> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208; 2014, ch. 20, art. 80.
+> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208; 2014, ch. 20, art. 80; 2017, ch. 20, art. 62 et 63.
 
 
 
@@ -6890,15 +6986,31 @@ où :
 
 
 ### **ANNEXE 4** 
-**(articles 122 et 123)**
+**(articles 122, 123, 123.1 et 159.1)**
 ## Taux du droit sur les spiritueux
-**1** Spiritueux : 11,696 $ le litre d’alcool éthylique absolu contenu dans les spiritueux.
+**1** Spiritueux : par litre d’alcool éthylique absolu contenu dans les spiritueux :
+
+**a)** 11,930 $;
 
 
-**2** Spiritueux contenant au plus 7 % d’alcool éthylique absolu par volume : 0,295 $ le litre de spiritueux.
+
+**b)** si le taux prévu à l’alinéa a) a été ajusté conformément au paragraphe 123.1(2), le taux ajusté.
 
 
-> 2002, ch. 22, ann. 4; 2006, ch. 4, art. 48.
+
+
+**2** Par litre de spiritueux contenant au plus 7 % d’alcool éthylique absolu par volume :
+
+**a)** 0,301 $;
+
+
+
+**b)** si le taux prévu à l’alinéa a) a été ajusté conformément au paragraphe 123.1(2), le taux ajusté.
+
+
+
+
+> 2002, ch. 22, ann. 4; 2006, ch. 4, art. 48; 2017, ch. 20, art. 64.
 
 
 
@@ -6913,24 +7025,48 @@ Droit spécial sur les spiritueux : 0,12 $ le litre d’alcool éthylique abso
 
 
 ### **ANNEXE 6** 
-**(articles 134 et 135)**
+**(articles 134, 135, 135.1 et 159.1)**
 ## Taux du droit sur le vin
 Vin :
 
-**a)** vin contenant au plus 1,2 % d’alcool éthylique absolu par volume, 0,0205 $ le litre;
+**a)** par litre de vin contenant au plus 1,2 % d’alcool éthylique absolu par volume :
+
+**(i)** 0,0209 $,
 
 
 
-**b)** vin contenant plus de 1,2 % d’alcool éthylique absolu par volume, mais au plus 7 % d’alcool éthylique absolu par volume, 0,295 $ le litre;
-
-
-
-**c)** vin contenant plus de 7 % d’alcool éthylique absolu par volume, 0,62 $ le litre.
+**(ii)** si le taux prévu au sous-alinéa (i) a été ajusté conformément au paragraphe 135.1(2), le taux ajusté;
 
 
 
 
-> 2002, ch. 22, ann. 6; 2006, ch. 4, art. 49.
+
+**b)** par litre de vin contenant plus de 1,2 % d’alcool éthylique absolu par volume, mais au plus 7 % d’alcool éthylique absolu par volume :
+
+**(i)** 0,301 $,
+
+
+
+**(ii)** si le taux prévu au sous-alinéa (i) a été ajusté conformément au paragraphe 135.1(2), le taux ajusté;
+
+
+
+
+
+**c)** par litre de vin contenant plus de 7 % d’alcool éthylique absolu par volume :
+
+**(i)** 0,63 $,
+
+
+
+**(ii)** si le taux prévu au sous-alinéa (i) a été ajusté conformément au paragraphe 135.1(2), le taux ajusté.
+
+
+
+
+
+
+> 2002, ch. 22, ann. 6; 2006, ch. 4, art. 49; 2017, ch. 20, art. 65.
 
 
 
