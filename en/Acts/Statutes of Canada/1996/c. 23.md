@@ -2547,10 +2547,10 @@ is to be considered to have worked or not worked a full working week;
 
 
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-**66.6** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the premium rate set under section 66 or 66.32 or the premiums determined under sections 67 and 68.
-> 2005, c. 30, s. 126; 2012, c. 31, s. 438; 2013, c. 40, s. 131.
+**66.6** For greater certainty, the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply in respect of the premium rate set under section 66 or 66.32 or the premiums determined under sections 67 and 68.
+> 2005, c. 30, s. 126; 2012, c. 31, s. 438; 2013, c. 40, s. 131; 2017, c. 20, s. 454.
 
 
 
