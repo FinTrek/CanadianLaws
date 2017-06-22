@@ -657,10 +657,10 @@ if the material is to be permanently retained at the facility referred to in sub
 
 
 
-**Non-application of [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**Non-application of [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-**30.2** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to any fees or charges payable in accordance with regulations made under section 30.1.
-> 2015, c. 4, s. 74.
+**30.2** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to any fees or charges payable in accordance with regulations made under section 30.1.
+> 2015, c. 4, s. 74; 2017, c. 20, s. 454.
 
 
 
