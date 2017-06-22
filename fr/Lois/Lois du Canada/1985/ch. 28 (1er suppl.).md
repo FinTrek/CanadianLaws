@@ -303,10 +303,8 @@
 **14.1** 
 
 - **(1)** Malgré le paragraphe 14(3) et sous réserve du paragraphe (1.1), l’investissement visé aux alinéas 14(1)a) ou b) qui est effectué soit par un investisseur OMC, soit, dans le cas où l’entreprise canadienne qui en fait l’objet est, avant qu’il ne soit effectué, sous le contrôle d’un investisseur OMC, par un non-Canadien — autre qu’un investisseur OMC — n’est sujet à l’examen prévu à l’article 14 que si la valeur d’affaire, calculée de la façon prévue par règlement, des actifs visés aux alinéas 14(3)a) ou b), selon le cas, est égale ou supérieure à la somme applicable suivante :
-	- **a)** pour tout investissement effectué pendant l’année commençant à la date d’entrée en vigueur du présent alinéa et l’année subséquente, six cents millions de dollars;
-	- **b)** pour tout investissement effectué pendant les deux années suivant celles visées à l’alinéa a), huit cents millions de dollars;
-	- **c)** pour tout investissement effectué pendant l’année suivant celles pour lesquelles la somme visée à l’alinéa b) s’applique, un milliard de dollars;
-	- **d)** pour tout investissement effectué pendant la période commençant après l’année pour laquelle la somme visée à l’alinéa c) s’applique et se terminant le 31 décembre suivant, un milliard de dollars;
+	- **a) à c)** [Abrogés, 2017, ch. 20, art. 192]
+	- **d)** pour tout investissement effectué pendant la période commençant à la date d’entrée en vigueur du présent alinéa et se terminant le 31 décembre de l’année suivante, un milliard de dollars;
 	- **e)** pour tout investissement effectué pendant l’année suivant la période visée à l’alinéa d) ou toute année subséquente, la somme calculée en application du paragraphe (2).
 
 **Limites applicables aux investisseurs OMC qui sont des entreprises d’État**
@@ -339,14 +337,14 @@
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article et à l’article 14.2.
 
-***Accord sur l’OMC*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md).
+***Accord sur l’OMC*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*WTO Agreement*)
 
-***entreprise culturelle*** Entreprise canadienne qui se livre à l’une ou l’autre des activités suivantes :
+***entreprise culturelle*** Entreprise canadienne qui se livre à l’une ou l’autre des activités suivantes :
 - **a)** la publication, la distribution ou la vente de livres, de revues, de périodiques ou de journaux, sous forme imprimée ou assimilable par une machine, à l’exclusion toutefois de la seule impression ou composition de ces publications;
 - **b)** la production, la distribution, la vente ou la présentation de films ou d’enregistrements vidéo;
 - **c)** la production, la distribution, la vente ou la présentation d’enregistrements de musique audio ou vidéo;
 - **d)** l’édition, la distribution ou la vente de compositions musicales sous forme imprimée ou assimilable par une machine;
-- **e)** les radiocommunications dont les transmissions sont destinées à être captées directement par le grand public, notamment les activités de radiodiffusion, de télédiffusion et de câblodistribution et les services de programmation et de diffusion par satellite.
+- **e)** les radiocommunications dont les transmissions sont destinées à être captées directement par le grand public, notamment les activités de radiodiffusion, de télédiffusion et de câblodistribution et les services de programmation et de diffusion par satellite. (*cultural business*)
 
 ***institution financière***[Abrogée, 2009, ch. 2, art. 448]
 
@@ -356,22 +354,22 @@
 - **c)** l’unité sous contrôle d’un investisseur OMC, au sens du paragraphe (7), qui n’est pas une unité sous contrôle canadien visée aux paragraphes 26(1) ou (2);
 - **d)** la personne morale ou société en commandite qui n’est ni une unité sous contrôle canadien visée au paragraphe 26(1), ni un investisseur OMC au sens de l’alinéa c), ni contrôlée en fait au moyen de la propriété de ses intérêts avec droit de vote et dont, d’une part, la majorité de ceux-ci n’appartient pas à des investisseurs OMC, d’autre part, les deux tiers des administrateurs ou des associés gérants, selon le cas, sont des Canadiens et des investisseurs OMC;
 - **e)** la fiducie qui n’est ni une unité sous contrôle canadien visée aux paragraphes 26(1) ou (2), ni un investisseur OMC au sens de l’alinéa c), ni contrôlée en fait au moyen de la propriété de ses intérêts avec droit de vote et dont les deux tiers des fiduciaires sont des Canadiens et des investisseurs OMC;
-- **f)** toute autre forme d’organisation commerciale précisée par règlement et contrôlée par un investisseur OMC.
+- **f)** toute autre forme d’organisation commerciale précisée par règlement et contrôlée par un investisseur OMC. (*WTO investor*)
 
-***membre de l’OMC*** Membre de l’Organisation mondiale du commerce instituée par l’article I de l’Accord sur l’OMC.
+***membre de l’OMC*** Membre de l’Organisation mondiale du commerce instituée par l’article I de l’Accord sur l’OMC. (*WTO Member*)
 
 ***service financier***[Abrogée, 2009, ch. 2, art. 448]
 
-***sous le contrôle d’un investisseur OMC*** Par dérogation au paragraphe 28(2), s’entend, à l’égard d’une entreprise canadienne :
+***sous le contrôle d’un investisseur OMC*** Par dérogation au paragraphe 28(2), s’entend, à l’égard d’une entreprise canadienne :
 - **a)** soit du contrôle ultime de fait, direct ou indirect, de celle-ci par un investisseur OMC au moyen de la propriété d’intérêts avec droit de vote;
-- **b)** soit du fait qu’un investisseur OMC est propriétaire de la totalité ou de la quasi-totalité des actifs d’exploitation de celle-ci.
+- **b)** soit du fait qu’un investisseur OMC est propriétaire de la totalité ou de la quasi-totalité des actifs d’exploitation de celle-ci. (*controlled by a WTO investor*)
 
 **Mentions**
 
-- **(7)** Pour l’application de l’alinéa c) de la définition de ***investisseur OMC***, au paragraphe (6), la détermination du statut de l’unité sous contrôle d’un investisseur OMC est à effectuer selon les règles suivantes :
+- **(7)** Pour l’application de l’alinéa c) de la définition de investisseur OMC, au paragraphe (6), la détermination du statut de l’unité sous contrôle d’un investisseur OMC est à effectuer selon les règles suivantes :
 	- **a)** les paragraphes 26(1) et (2) et l’article 27 s’appliquent et, à cette fin, les mentions, dans ces dispositions, de « Canadien », de « Canadiens », de « non-Canadien », de « non-Canadiens » et des adjectifs correspondants, ainsi que de « sous contrôle canadien » et de « Canada », valent respectivement mention de « investisseur OMC », de « investisseurs OMC », de « non-Canadien — autre qu’un investisseur OMC — », de « non-Canadiens — autres que des investisseurs OMC — », des adjectifs correspondants, de « sous contrôle d’un investisseur OMC » et de « membre de l’OMC » — à l’exception de l’adjectif « non canadiens », au sous-alinéa 27d)(ii), qui vaut mention de « n’étant pas des investisseurs OMC »;
 	- **b)** lorsque deux personnes — un Canadien et un investisseur OMC — possèdent à part égale toutes les actions avec droit de vote d’une personne morale, celle-ci est censée être sous contrôle d’un investisseur OMC.
-> 1988, ch. 65, art. 135; 1993, ch. 35, art. 3; 1994, ch. 47, art. 133; 2009, ch. 2, art. 448; 2013, ch. 33, art. 137.
+> 1988, ch. 65, art. 135; 1993, ch. 35, art. 3; 1994, ch. 47, art. 133; 2009, ch. 2, art. 448; 2013, ch. 33, art. 137; 2017, ch. 20, art. 192.
 
 
 
@@ -1198,8 +1196,8 @@
 
 **Établissement et dépôt**
 
-**38.1** Le directeur présente au ministre, pour chaque exercice, un rapport sur l’application de la présente loi, sauf la partie IV.1; le ministre rend le rapport public.
-> 2009, ch. 2, art. 459.
+**38.1** Le directeur présente au ministre, pour chaque exercice, un rapport sur l’application de la présente loi; le ministre rend le rapport public.
+> 2009, ch. 2, art. 459; 2017, ch. 20, art. 193.
 
 
 
