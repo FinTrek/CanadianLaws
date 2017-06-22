@@ -1673,10 +1673,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-**64.91** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais fixés en vertu de tout texte législatif d’une province incorporé par renvoi dans un règlement pris en vertu du paragraphe 64.1(1).
-> 2014, ch. 39, art. 231.
+**64.91** Il est entendu que la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais fixés en vertu de tout texte législatif d’une province incorporé par renvoi dans un règlement pris en vertu du paragraphe 64.1(1).
+> 2014, ch. 39, art. 231; 2017, ch. 20, art. 454.
 
 
 
