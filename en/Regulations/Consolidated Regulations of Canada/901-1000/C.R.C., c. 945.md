@@ -9381,33 +9381,8 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 ### Conditions
 
 
-**3505** 
-
-- **(1)** The following conditions are prescribed in respect of a donee for the purposes of paragraph 110.1(8)(e) of the Act:
-	- **(a)** the donee has applied to the Minister for International Cooperation (or, if there is no such Minister, the Minister responsible for the Canadian International Development Agency) for a determination that the conditions described in this section have been met;
-	- **(b)** medicines received by the donee for use in charitable activities outside Canada are
-		- **(i)** delivered outside Canada by the donee for use in its charitable activities, or
-		- **(ii)** transferred to another registered charity that would meet the conditions contained in this section if that registered charity were a donee described in subsection 110.1(8) of the Act;
-	- **(c)** in the course of delivering medicines outside Canada for use in its charitable activities, the donee acts in a manner consistent with the principles and objectives of the inter-agency Guidelines for Drug Donations issued by the World Health Organization, as amended from time to time, (referred to in this section as “the WHO Guidelines”);
-	- **(d)** the donee has sufficient expertise in delivering medicines for use in charitable activities carried on outside Canada;
-	- **(e)** the donee carries on a program that includes delivering medicines for use in charitable activities carried on outside Canada and that is
-		- **(i)** an international development assistance program, or
-		- **(ii)** an international humanitarian assistance program, responding to situations of international humanitarian crisis (resulting from either natural disaster or complex emergency); and
-	- **(f)** the donee has sufficient expertise to design, implement and monitor each program described in subparagraph (e)(i) or (ii) that it carries on, unless the donee has declared that it will not deliver medicines in that program.
-
-- **(2)** Without limiting the application of the WHO Guidelines, for the purposes of paragraph (1)(c), a donee does not act in a manner consistent with the principles and objectives of those guidelines if the donee’s directors, trustees, officers or like officials have not
-	- **(a)** approved a policy and procedural framework, under which the donee is required to act in a manner consistent with the WHO Guidelines; and
-	- **(b)** declared that the donee acts in compliance with that policy and procedural framework.
-
-- **(3)** A donee is considered not to have sufficient expertise for the purpose of a program to which paragraph (1)(d) or (e) applies if
-	- **(a)** the program does not address the specific and differentiated needs, interests and vulnerabilities of affected women and men, girls and boys;
-	- **(b)** the program does not incorporate, in the design of projects under the program, consideration for environmental effects of those projects; or
-	- **(c)** the donee does not have policies and practices for the design, implementation and monitoring of the program.
-
-- **(4)** The Minister referred to in subsection (1) may
-	- **(a)** rely on any information or evidence in making a determination under subsection (1); and
-	- **(b)** require the donee to provide any other information or evidence that that Minister considers relevant and sufficient for the purpose of this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 104.
+**3505** [Repealed, 2017, c. 20, s. 32]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 104; 2017, c. 20, s. 32.
 
 
 
