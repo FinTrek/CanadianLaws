@@ -676,18 +676,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Accréditation de l’organisation syndicale**
+**Conditions préalables à l’accréditation**
 
 **64** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie et de la section 1 de la partie 2.1, la Commission accrédite comme agent négociateur d’une unité de négociation l’organisation syndicale qui sollicite l’accréditation si elle est convaincue que, sur le fondement des résultats d’un scrutin de représentation secret, la majorité des fonctionnaires de l’unité de négociation proposée qui ont participé au scrutin souhaitent que l’organisation syndicale les représente à titre d’agent négociateur.
-
-**Tenue d’un scrutin**
-
-- **(1.1)** La Commission, après avoir défini l’unité habile à négocier collectivement, ordonne la tenue d’un scrutin de représentation secret au sein de l’unité si elle est convaincue, à la fois :
-	- **a)** que, sur le fondement de la preuve du nombre de fonctionnaires membres de l’organisation syndicale, à la date du dépôt de la demande, au moins quarante pour cent des fonctionnaires de l’unité souhaitaient que l’organisation syndicale les représente à titre d’agent négociateur;
+- **(1)** La Commission, après avoir défini l’unité habile à négocier collectivement, accrédite comme agent négociateur de l’unité de négociation l’organisation syndicale qui sollicite l’accréditation si elle est convaincue, à la fois :
+	- **a)** que la majorité des fonctionnaires de l’unité de négociation souhaitent que l’organisation syndicale les représente à titre d’agent négociateur;
 	- **b)** que les personnes représentant l’organisation syndicale dans la procédure de demande ont été dûment autorisées à déposer celle-ci;
 	- **c)** dans le cas de la demande présentée par un regroupement d’organisations syndicales, que chacune des organisations syndicales formant le regroupement a donné à celui-ci l’autorité suffisante pour lui permettre de remplir ses fonctions d’agent négociateur.
+
+- **(1.1)** [Abrogé, 2017, ch. 12, art. 8]
 
 **Refus d’accréditation dans les six mois qui suivent le rejet d’une demande antérieure**
 
@@ -696,21 +694,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Adhésion à un regroupement d’organisations syndicales**
 
 - **(3)** Pour l’application de l’alinéa (1)a), l’adhésion à une organisation syndicale membre d’un regroupement d’organisations syndicales vaut adhésion au regroupement.
-> 2003, ch. 22, art. 2 « 64 »; 2014, ch. 40, art. 9; 2017, ch. 9, art. 10.
+> 2003, ch. 22, art. 2 « 64 »; 2014, ch. 40, art. 9; 2017, ch. 9, art. 10 et 70, ch. 12, art. 8.
 
 
 
+
+
+**Scrutin de représentation**
 
 **65** 
 
-- **(1)** [Abrogé, 2014, ch. 40, art. 10]
+- **(1)** La Commission peut ordonner la tenue d’un scrutin afin de vérifier si la majorité des fonctionnaires de l’unité de négociation souhaitent être représentés par l’organisation qui sollicite l’accréditation.
 
 **Dispositions à prendre**
 
 - **(2)** La Commission doit, lorsqu’elle ordonne la tenue d’un scrutin de représentation, prendre les dispositions suivantes :
 	- **a)** elle précise quels sont les fonctionnaires qui ont le droit de voter;
 	- **b)** elle prend les mesures et donne les instructions qui lui semblent nécessaires en vue de la régularité du scrutin de représentation, notamment en ce qui concerne la préparation des bulletins de vote, les modes de scrutin et de dépouillement, et la garde et le scellage des urnes.
-> 2003, ch. 22, art. 2 « 65 »; 2014, ch. 40, art. 10.
+> 2003, ch. 22, art. 2 « 65 »; 2014, ch. 40, art. 10; 2017, ch. 12, art. 9.
 
 
 
@@ -1062,12 +1063,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **94** 
 
-- **(1)** Quiconque affirme représenter au moins quarante pour cent des fonctionnaires d’une unité de négociation régie par une convention collective ou une décision arbitrale encore en vigueur peut demander à la Commission de déclarer non représentative l’organisation syndicale accréditée pour cette unité.
+- **(1)** Quiconque affirme représenter la majorité des fonctionnaires d’une unité de négociation régie par une convention collective ou une décision arbitrale encore en vigueur peut demander à la Commission de déclarer non représentative l’organisation syndicale accréditée pour cette unité.
 
 **Dates de présentation de la demande**
 
 - **(2)** La demande ne peut être présentée qu’au cours de la période pendant laquelle il est permis, aux termes de l’article 55, de solliciter l’accréditation à l’égard des fonctionnaires de l’unité de négociation.
-> 2003, ch. 22, art. 2 « 94 »; 2014, ch. 40, art. 11.
+> 2003, ch. 22, art. 2 « 94 »; 2014, ch. 40, art. 11; 2017, ch. 12, art. 10.
 
 
 
@@ -1075,8 +1076,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Tenue d’un scrutin de représentation**
 
-**95** Si la Commission, saisie d’une demande au titre du paragraphe 94(1), est convaincue, sur le fondement de la preuve documentaire, qu’à la date du dépôt de la demande, au moins quarante pour cent des fonctionnaires de l’unité de négociation ne souhaitaient plus que l’organisation syndicale les représente à titre d’agent négociateur, elle ordonne la tenue d’un scrutin de représentation. Le paragraphe 65(2) s’applique à l’égard de la tenue du scrutin.
-> 2003, ch. 22, art. 2 « 95 »; 2014, ch. 40, art. 12.
+**95** Saisie de la demande, la Commission peut, en prenant les dispositions prévues au paragraphe 65(2), ordonner la tenue d’un scrutin de représentation, afin d’établir si la majorité des fonctionnaires de l’unité de négociation ne souhaitent plus être représentés par l’organisation syndicale qui en est l’agent négociateur.
+> 2003, ch. 22, art. 2 « 95 »; 2014, ch. 40, art. 12; 2017, ch. 12, art. 11.
 
 
 
@@ -1084,8 +1085,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Révocation de l’accréditation**
 
-**96** Si, à la suite de la tenue du scrutin de représentation prévu à l’article 95, la Commission est convaincue que la majorité des fonctionnaires de l’unité de négociation qui ont participé au scrutin ne souhaitent plus être représentés par l’organisation syndicale qui en est l’agent négociateur, elle révoque l’accréditation de l’organisation syndicale en cause.
-> 2003, ch. 22, art. 2 « 96 »; 2014, ch. 40, art. 12.
+**96** Si, après audition de la demande, la Commission est convaincue du bien-fondé de celle-ci, elle révoque l’accréditation de l’organisation syndicale en cause.
+> 2003, ch. 22, art. 2 « 96 »; 2014, ch. 40, art. 12; 2017, ch. 12, art. 11.
 
 
 
