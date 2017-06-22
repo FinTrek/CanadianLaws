@@ -190,9 +190,11 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-**14** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais fixés sous le régime de toute disposition d’un texte législatif provincial incorporé par règlement.
+**14** Il est entendu que la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais fixés sous le régime de toute disposition d’un texte législatif provincial incorporé par règlement.
+> 2007, ch. 33, art. 14; 2017, ch. 20, art. 454.
+
 
 
 
