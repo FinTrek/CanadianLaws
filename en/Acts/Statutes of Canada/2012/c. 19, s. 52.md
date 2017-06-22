@@ -1130,9 +1130,11 @@ It does not include the Executive Council of — or a minister, department, agen
 	- **(a)** if the environmental assessment is conducted by the Agency, any costs that the Agency incurs for prescribed services provided by a third party in the course of the environmental assessment and any prescribed amounts that are related to the exercise of its responsibilities in relation to the environmental assessment; and
 	- **(b)** if the environmental assessment is referred to a review panel under section 38, any costs that the review panel and the Agency incur for prescribed services provided by a third party in the course of the environmental assessment and any prescribed amounts that are related to the exercise of its responsibilities or to those of the members of the review panel, in relation to the environmental assessment.
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to the costs and amounts referred to in subsection (1) that are fixed at the time of the coming into force of this Act.
+- **(2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to the costs and amounts referred to in subsection (1) that are fixed at the time of the coming into force of this Act.
+> 2012, c. 19, s. 52 “59”; 2017, c. 20, s. 454
+
 
 
 
