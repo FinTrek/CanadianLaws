@@ -676,18 +676,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Duty to certify employee organization**
+**Conditions for certification**
 
 **64** 
 
-- **(1)** If the Board is satisfied on the basis of the results of a secret ballot representation vote that a majority of the employees in a proposed bargaining unit who have cast a ballot have voted to have the applicant employee organization represent them as their bargaining agent, the Board must, subject to this Part and Division 1 of Part 2.1, certify the employee organization as the bargaining agent for the unit.
-
-**Representation vote**
-
-- **(1.1)** After having determined a unit appropriate for collective bargaining, the Board must order that a secret ballot representation vote be taken among the employees in the unit if it is satisfied
-	- **(a)** on the basis of evidence of membership in the employee organization that, as of the date of the filing of the application, at least 40% of the employees in the unit wish to have the employee organization represent them as their bargaining agent;
+- **(1)** After having determined the unit appropriate for collective bargaining, the Board must certify the applicant employee organization as the bargaining agent for the bargaining unit if the Board is satisfied
+	- **(a)** that a majority of employees in that bargaining unit wish the applicant employee organization to represent them as their bargaining agent;
 	- **(b)** that the persons representing the employee organization in the making of the application have been duly authorized to make the application; and
 	- **(c)** if the applicant is a council of employee organizations, that each of the employee organizations forming the council has vested appropriate authority in the council to enable it to discharge the duties and responsibilities of a bargaining agent.
+
+- **(1.1)** [Repealed, 2017, c. 12, s. 8]
 
 **Where previous application denied within six months**
 
@@ -696,21 +694,24 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Membership in council of employee organizations**
 
 - **(3)** For the purpose of paragraph (1)(a), membership in any employee organization that forms part of a council of employee organizations is deemed to be membership in the council.
-> 2003, c. 22, s. 2 "64"; 2014, c. 40, s. 9; 2017, c. 9, s. 10.
+> 2003, c. 22, s. 2 “64”; 2014, c. 40, s. 9; 2017, c. 9, ss. 10, 70, c. 12, s. 8.
 
 
 
+
+
+**Representation vote**
 
 **65** 
 
-- **(1)** [Repealed, 2014, c. 40, s. 10]
+- **(1)** The Board may order that a representation vote be taken among the employees in the bargaining unit for the purpose of satisfying itself that a majority of them wish the applicant employee organization to represent them as their bargaining agent.
 
 **Arrangements for vote**
 
 - **(2)** When the Board orders that a representation vote be taken, it must
 	- **(a)** determine the employees who are eligible to vote; and
 	- **(b)** make any arrangements and give any directions that it considers necessary for the proper conduct of the vote, including the preparation of ballots, the method of casting and counting ballots and the custody and sealing of ballot boxes.
-> 2003, c. 22, s. 2 "65"; 2014, c. 40, s. 10.
+> 2003, c. 22, s. 2 “65”; 2014, c. 40, s. 10; 2017, c. 12, s. 9.
 
 
 
@@ -1062,12 +1063,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **94** 
 
-- **(1)** Any person claiming to represent at least 40% of the employees in the bargaining unit bound by a collective agreement or an arbitral award may apply to the Board for a declaration that the employee organization that is certified as the bargaining agent for the bargaining unit no longer represents a majority of the employees in the bargaining unit.
+- **(1)** Any person claiming to represent a majority of the employees in a bargaining unit bound by a collective agreement or an arbitral award may apply to the Board for a declaration that the employee organization that is certified as the bargaining agent for the bargaining unit no longer represents a majority of the employees in the bargaining unit.
 
 **When application may be made**
 
 - **(2)** The application may be made only during the period in which an application for certification of an employee organization may be made under section 55 in respect of employees in the bargaining unit.
-> 2003, c. 22, s. 2 "94"; 2014, c. 40, s. 11.
+> 2003, c. 22, s. 2 “94”; 2014, c. 40, s. 11; 2017, c. 12, s. 10.
 
 
 
@@ -1075,8 +1076,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Taking of representation vote**
 
-**95** If the Board is satisfied on the basis of written evidence that, as of the date of the filing of an application for a declaration made under subsection 94(1), at least 40% of the employees in the bargaining unit no longer wish to have the employee organization represent them, the Board shall order that a representation vote be taken. The provisions of subsection 65(2) apply in relation to the taking of the vote.
-> 2003, c. 22, s. 2 "95"; 2014, c. 40, s. 12.
+**95** After the application is made, the Board may order that a representation vote be taken to determine whether a majority of the employees in the bargaining unit no longer wish to be represented by the employee organization that is the bargaining agent for that bargaining unit. The provisions of subsection 65(2) apply in relation to the taking of the vote.
+> 2003, c. 22, s. 2 “95”; 2014, c. 40, s. 12; 2017, c. 12, s. 11.
 
 
 
@@ -1084,8 +1085,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Revocation of certification**
 
-**96** If, after conducting the representation vote referred to in section 95, the Board is satisfied that a majority of the employees in the bargaining unit who have cast a ballot no longer wish to be represented by the employee organization, it must revoke the certification of the employee organization as the bargaining agent.
-> 2003, c. 22, s. 2 "96"; 2014, c. 40, s. 12.
+**96** If, after hearing the application, the Board is satisfied that a majority of the employees in the bargaining unit no longer wish to be represented by the employee organization, it must revoke the certification of the employee organization as the bargaining agent.
+> 2003, c. 22, s. 2 “96”; 2014, c. 40, s. 12; 2017, c. 12, s. 11.
 
 
 
