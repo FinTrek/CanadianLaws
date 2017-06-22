@@ -9370,33 +9370,8 @@ les reçus officiels peuvent porter une signature autographiée.
 ### Conditions
 
 
-**3505** 
-
-- **(1)** Les conditions ci-après sont fixées relativement à un donataire pour l’application de l’alinéa 110.1(8)e) de la Loi :
-	- **a)** le donataire a demandé au ministre de la Coopération internationale ou, en l’absence d’un tel ministre, au ministre responsable de l’Agence canadienne de développement international, de décider si les conditions énoncées au présent article sont remplies;
-	- **b)** les médicaments reçus par le donataire en vue d’être utilisés dans le cadre d’activités de bienfaisance à l’étranger sont :
-		- **(i)** soit livrés à l’étranger par le donataire en vue d’être utilisés dans le cadre de ses activités de bienfaisance,
-		- **(ii)** soit transférés à un autre organisme de bienfaisance enregistré qui remplirait les conditions énoncées au présent article s’il était un donataire visé au paragraphe 110.1(8) de la Loi;
-	- **c)** lors de la livraison à l’étranger de médicaments devant être utilisés dans le cadre de ses activités de bienfaisance, le donataire agit de manière conforme aux principes et objectifs des Principes directeurs interinstitutions applicables aux dons de médicaments publiés par l’Organisation mondiale de la santé, et leurs modifications successives, (appelés « Principes directeurs de l’OMS » au présent article);
-	- **d)** le donataire a développé suffisamment d’expertise au chapitre de la livraison de médicaments devant être utilisés dans le cadre d’activités de bienfaisance à l’étranger;
-	- **e)** le donataire applique un programme qui comprend la livraison de médicaments devant être utilisés dans le cadre d’activités de bienfaisance à l’étranger et qui est, selon le cas :
-		- **(i)** un programme d’aide au développement international,
-		- **(ii)** un programme d’assistance humanitaire internationale mis en oeuvre en cas de crise humanitaire internationale découlant d’un désastre naturel ou d’une situation d’urgence complexe;
-	- **f)** le donataire a développé suffisamment d’expertise pour être en mesure de concevoir, de mettre en oeuvre et de contrôler chaque programme mentionné aux sous-alinéas e)(i) ou (ii) qu’il applique, sauf s’il a déclaré qu’il ne livrerait pas de médicaments dans le cadre du programme.
-
-- **(2)** Sans que soit limitée l’application des Principes directeurs de l’OMS, pour l’application de l’alinéa (1)c), un donataire n’agit pas de manière conforme aux principes et objectifs de ces principes directeurs si ses administrateurs, fiduciaires, dirigeants ou autres responsables n’ont :
-	- **a)** ni approuvé un cadre stratégique et méthodologique selon lequel le donataire est tenu d’agir de manière conforme aux Principes directeurs de l’OMS;
-	- **b)** ni déclaré que le donataire agit en conformité avec ce cadre stratégique et méthodologique.
-
-- **(3)** Il est considéré qu’un donataire n’a pas suffisamment d’expertise pour les fins d’un programme auquel s’appliquent les alinéas (1)d) ou e) si, selon le cas :
-	- **a)** le programme ne porte pas sur les besoins, intérêts et vulnérabilités précis et différenciés des femmes, des hommes, des filles et des garçons visés;
-	- **b)** le programme, dans la conception des projets qu’il prévoit, ne tient pas compte des effets environnementaux de ces projets;
-	- **c)** le donataire ne dispose pas de politiques ni de pratiques en matière de conception, de mise en oeuvre et de contrôle du programme.
-
-- **(4)** Le ministre visé au paragraphe (1) peut, à la fois :
-	- **a)** se fonder sur tout renseignement ou élément de preuve pour rendre la décision mentionnée au paragraphe (1);
-	- **b)** exiger du donataire qu’il fournisse tout autre renseignement ou élément de preuve que ce ministre juge pertinent et suffisant pour l’application du présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 2, art. 104.
+**3505** [Abrogé, 2017, ch. 20, art. 32]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 2, art. 104; 2017, ch. 20, art. 32.
 
 
 
