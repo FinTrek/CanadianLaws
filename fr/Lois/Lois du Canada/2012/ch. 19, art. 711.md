@@ -108,7 +108,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ministre**
 
-**7** Afin de fournir des services au titre de la présente loi, le ministre peut exercer les attributions mentionnées aux alinéas 6a), b), c) ou g) de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md) à l’égard des ministères et sociétés d’État à qui ces services sont fournis.
+**7** Afin de fournir des services au titre de la présente loi, le ministre peut exercer les attributions mentionnées aux alinéas 6a), b), c) ou g) de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md) à l’égard des ministères, sociétés d’État, personnes, organismes et gouvernements à qui ces services sont fournis.
+> 2012, ch. 19, art. 711 « 7 »; 2017, ch. 20, art. 113.
+
+
+
+
+
+**Délégation de pouvoir — ministre compétent**
+
+**7.1** 
+
+- **(1)** Afin de fournir, par l’intermédiaire de Services partagés Canada, des services au titre de la présente loi à un ministère, le ministre peut, pour les périodes et selon les modalités qu’il estime indiquées, déléguer au ministre compétent du ministère tout pouvoir que lui confère l’article 7 à l’égard de celui-ci.
+
+**Délégation de pouvoir — administrateur principal**
+
+- **(2)** Afin de fournir, par l’intermédiaire de Services partagés Canada, des services au titre de la présente loi à un ministère qui n’est pas placé sous son autorité mais dont il est le ministre compétent, le ministre peut, pour les périodes et selon les modalités qu’il estime indiquées, déléguer à l’administrateur principal du ministère tout pouvoir que lui confère l’article 7 à l’égard de celui-ci.
+
+**Subdélégation — administrateur principal**
+
+- **(3)** Le ministre compétent peut, sous réserve des conditions et modalités de la délégation visée au paragraphe (1), subdéléguer à l’administrateur principal du ministère, pour les périodes et selon les modalités qu’il estime indiquées, le pouvoir qui lui a été délégué par le ministre.
+
+**Subdélégation — subordonnés**
+
+- **(4)** L’administrateur principal peut, sous réserve des conditions et modalités de la délégation visée au paragraphe (2) ou de la subdélégation visée au paragraphe (3), subdéléguer à ses subordonnés, pour les périodes et selon les modalités qu’il estime indiquées, le pouvoir qui lui a été délégué par le ministre ou subdélégué par le ministre compétent.
+
+**Définitions**
+
+- **(5)** Les définitions qui suivent s’appliquent au présent article.
+
+***administrateur principal***
+- **a)** S’agissant d’un ministère mentionné à la partie I de l’annexe VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), son sous-ministre;
+- **b)** s’agissant d’un ministère mentionné aux parties II ou III de cette annexe, le titulaire du poste mentionné en regard de ce ministère;
+- **c)** s’agissant d’un ministère qui n’est pas mentionné à la même annexe, le premier dirigeant ou l’administrateur général du ministère ou le titulaire d’un poste équivalent. (*chief executive*)
+
+***ministre compétent*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*appropriate Minister*)
+> 2017, ch. 20, art. 113.
+
 
 
 
@@ -123,6 +159,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Facturation des services**
 
 **9** Sous réserve des règlements d’application du présent article que le Conseil du Trésor peut prendre, le ministre peut facturer les services fournis au titre de la présente loi.
+
+
+
+
+**Autorisation**
+
+**9.1** 
+
+- **(1)** Malgré le fait que le gouverneur en conseil a précisé, en vertu de l’alinéa 6c), qu’un ministère est tenu d’obtenir exclusivement auprès du ministre, par l’intermédiaire de Services partagés Canada, un service précisé en vertu de l’alinéa 6a) et qu’il n’est pas autorisé à en assurer lui-même la prestation, le ministre, s’il estime que des circonstances exceptionnelles le justifient, peut, selon les modalités qu’il précise :
+	- **a)** autoriser le ministère à obtenir une partie du service autrement qu’auprès du ministre par l’intermédiaire de Services partagés Canada, notamment à assurer lui-même la prestation de cette partie du service;
+	- **b)** autoriser le ministère à obtenir tout le service à l’égard d’un ou de plusieurs secteurs du ministère — mais non de tous ses secteurs — autrement qu’auprès du ministre par l’intermédiaire de Services partagés Canada, notamment à assurer lui-même la prestation du service.
+
+**Pouvoir exercé personnellement**
+
+- **(2)** Le ministre exerce personnellement le pouvoir qui lui est conféré par le paragraphe (1).
+
+**Instructions**
+
+- **(3)** Le ministère qui est autorisé, en vertu du paragraphe (1), à obtenir tout ou partie d’un service autrement qu’auprès du ministre par l’intermédiaire de Services partagés Canada, notamment à assurer lui-même la prestation de tout ou partie du service, doit l’obtenir conformément à toute instruction que le ministre donne.
+> 2017, ch. 20, art. 114.
+
 
 
 
