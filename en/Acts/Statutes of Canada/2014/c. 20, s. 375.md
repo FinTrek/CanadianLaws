@@ -89,15 +89,17 @@ Assented to on 19 June 2014
 
 
 
-**Exemption  — [Bridges Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-8.md)**
+**Exemption — [Bridges Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-8.md)**
 
 **6** 
 
 - **(1)** The [Bridges Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-8.md) does not apply to the bridge and related works.
 
-**Exemption  — [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**Exemption — [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-- **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the tolls, fees and other charges fixed by regulations made under paragraph 12(b).
+- **(2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply in respect of the tolls, fees and other charges fixed by regulations made under paragraph 12(b).
+> 2014, c. 20, s. 375 “6”; 2017, c. 20, s. 454.
+
 
 
 
