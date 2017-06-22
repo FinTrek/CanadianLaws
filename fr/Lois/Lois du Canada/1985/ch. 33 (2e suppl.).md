@@ -452,18 +452,12 @@
 
 **Accréditation d’une organisation syndicale**
 
-**25** 
-
-- **(1)** Sous réserve des autres dispositions de la présente partie, la Commission accrédite une organisation syndicale comme agent négociateur si elle est convaincue, sur le fondement des résultats d’un scrutin de représentation secret, que la majorité des employés de l’unité de négociation proposée qui ont participé au scrutin désirent que l’organisation syndicale les représente à titre d’agent négociateur.
-
-**Tenue d’un scrutin**
-
-- **(2)** La Commission ordonne la tenue d’un scrutin de représentation secret au sein d’un groupe d’employés lorsque les conditions suivantes sont réunies :
-	- **a)** une organisation syndicale lui a fait, conformément à la présente partie, une demande pour être accréditée comme agent négociateur d’une unité de négociation;
-	- **b)** elle a déterminé, conformément à l’article 23, que le groupe d’employés constitue une unité habile à négocier collectivement;
-	- **c)** elle est convaincue, sur le fondement de la preuve du nombre d’employés membres de l’organisation syndicale, qu’à la date du dépôt de la demande, au moins quarante pour cent des employés du groupe désiraient que l’organisation syndicale les représente à titre d’agent négociateur;
-	- **d)** elle est convaincue que les personnes représentant l’organisation syndicale dans la procédure de demande ont été dûment autorisées à déposer celle-ci.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 25; 2014, ch. 40, art. 6
+**25** Sous réserve des autres dispositions de la présente partie, la Commission accrédite une organisation syndicale lorsque les conditions suivantes sont remplies :
+- **a)** l’organisation syndicale lui a fait parvenir, conformément à la présente partie, une demande officielle pour être accréditée comme agent négociateur d’une unité de négociation;
+- **b)** elle a défini l’unité de négociation conformément à l’article 23;
+- **c)** elle est convaincue que la majorité des employés de l’unité de négociation désirent que l’organisation syndicale les représente à titre d’agent négociateur;
+- **d)** elle est convaincue que les personnes représentant l’organisation syndicale dans la procédure de demande ont été dûment autorisées à déposer celle-ci.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 25; 2014, ch. 40, art. 6; 2017, ch. 12, art. 5
 
 
 
@@ -473,21 +467,23 @@
 
 **26** 
 
-- **(1)** Pour former sa conviction quant aux conditions prévues au paragraphe 25(1) et aux alinéas 25(2)c) et d), la Commission peut :
+- **(1)** Pour former sa conviction quant aux conditions prévues aux alinéas 25c) et d), la Commission peut :
 	- **a)** en conformité avec les règlements qu’elle peut prendre à ce propos, examiner les éléments de preuve qui lui sont présentés sur l’adhésion des employés de l’unité de négociation proposée à l’organisation syndicale sollicitant l’accréditation;
 	- **b)** procéder ou faire procéder, si elle le juge nécessaire, à l’examen de dossiers ou à des enquêtes;
 	- **c)** examiner les documents constitutifs ou les statuts de l’organisation syndicale sollicitant l’accréditation, ainsi que tout document connexe.
 
-- **(2)** [Abrogé, 2014, ch. 40, art. 7]
+**Scrutin de représentation**
+
+- **(2)** À sa seule appréciation, la Commission peut ordonner la tenue d’un scrutin afin de vérifier si la majorité des employés de l’unité de négociation désirent être représentés par l’organisation qui sollicite l’accréditation.
 
 **Dispositions à prendre pour le scrutin de représentation**
 
-- **(3)** La Commission doit, lorsqu’elle ordonne la tenue d’un scrutin de représentation, prendre les dispositions suivantes :
+- **(3)** La Commission, lorsqu’elle ordonne la tenue d’un scrutin au titre du paragraphe (2), prend les dispositions suivantes :
 	- **a)** elle détermine quels sont les employés qui ont le droit de voter;
 	- **b)** elle prend les mesures et donne les instructions qui lui semblent nécessaires en vue de la régularité du scrutin de représentation, notamment en ce qui concerne la préparation des bulletins de vote, les modes de scrutin et de dépouillement, la garde et le scellage des urnes.
 
 - **(4)** [Abrogé, 1993, ch. 34, art. 100]
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 26; 1993, ch. 34, art. 100; 2014, ch. 40, art. 7
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 26; 1993, ch. 34, art. 100; 2014, ch. 40, art. 7; 2017, ch. 12, art. 6
 
 
 
@@ -558,7 +554,7 @@
 
 **29** 
 
-- **(1)** Quiconque prétendant représenter au moins quarante pour cent des employés d’une unité de négociation régie par une convention collective ou une décision arbitrale encore en vigueur peut demander à la Commission de déclarer non représentative l’organisation syndicale accréditée jusque-là pour cette unité.
+- **(1)** Quiconque prétend représenter la majorité des employés d’une unité de négociation régie par une convention collective ou une décision arbitrale encore en vigueur peut demander à la Commission de déclarer non représentative l’organisation syndicale accréditée jusque-là pour cette unité.
 
 **Dates de présentation de la demande**
 
@@ -567,18 +563,18 @@
 	- **b)** dans le cas d’une convention collective ou décision arbitrale d’une durée supérieure à deux ans, seulement entre le début du vingt-troisième mois et celui du vingt-cinquième mois de son application, pendant les deux mois qui terminent chaque année de son application à partir de la troisième année, ou après le début de l’avant-dernier mois de son application, selon le cas;
 	- **c)** à tout moment permis par l’alinéa a) ou b), selon le cas, ou pendant les deux mois qui terminent chacune des années d’application de la convention postérieures au terme originellement fixé, dans le cas d’une convention collective prévoyant sa propre prorogation en l’absence d’un avis donné par l’une des parties à l’autre en vue de sa dénonciation, de son renouvellement — avec ou sans modifications — ou de la conclusion d’une nouvelle convention.
 
-**Absence de convention collective**
+**Absence de convention collective ou de décision arbitrale**
 
-- **(3)** En cas d’absence de convention collective ou de décision arbitrale, quiconque prétend représenter au moins quarante pour cent des employés d’une unité de négociation donnée peut, douze mois après l’accréditation de l’agent négociateur de l’unité, demander à la Commission de déclarer non représentative l’organisation syndicale accréditée jusque-là pour cette unité.
+- **(3)** En cas d’absence de convention collective ou de décision arbitrale, quiconque prétend représenter la majorité des employés d’une unité de négociation donnée peut, douze mois après la date de l’accréditation de l’agent négociateur de l’unité, demander à la Commission de déclarer non représentative l’organisation syndicale accréditée jusque-là pour cette unité.
 
 **Tenue d’un scrutin de représentation**
 
-- **(4)** Saisie d’une demande au titre du paragraphe (1) ou (3), si la Commission est convaincue, sur le fondement de la preuve documentaire, qu’à la date du dépôt de la demande visée aux paragraphes (1) ou (3), selon le cas, au moins quarante pour cent des employés de l’unité de négociation ne désiraient plus que l’organisation syndicale les représente à titre d’agent négociateur, la Commission ordonne la tenue d’un scrutin de représentation secret. Le paragraphe 26(3) s’applique à l’égard de la tenue du scrutin.
+- **(4)** Saisie d’une demande au titre des paragraphes (1) ou (3), la Commission peut, à sa seule appréciation et en prenant les dispositions prévues au paragraphe 26(3), ordonner la tenue d’un scrutin de représentation, afin d’établir si la majorité des employés de l’unité de négociation ne désirent plus être représentés par l’organisation syndicale qui en est l’agent négociateur.
 
 **Révocation de l’accréditation d’une organisation syndicale**
 
-- **(5)** Si elle est saisie d’une demande au titre du paragraphe (1) ou (3) et que, après la tenue du scrutin de représentation secret prévu au paragraphe (4), elle est convaincue que la majorité des employés de l’unité de négociation qui ont participé au scrutin ne désirent plus être représentés par l’organisation syndicale qui en est l’agent négociateur, la Commission révoque l’accréditation de l’organisation syndicale en cause.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 29; 2014, ch. 40, art. 8
+- **(5)** Si, après audition de la demande visée aux paragraphes (1) ou (3), elle est convaincue du bien-fondé de celle-ci, la Commission révoque l’accréditation de l’organisation syndicale en cause.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 29; 2014, ch. 40, art. 8; 2017, ch. 12, art. 7
 
 
 
