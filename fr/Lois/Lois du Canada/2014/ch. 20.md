@@ -339,7 +339,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**69** [Modifications]
+**69** 
+
+- **(1) et (2)** [Modifications]
+
+- **(3)** [Abrogé, 2017, ch. 20, art. 66]
+
+- **(4)** [Modification]
+
+- **(5)** [Abrogé, 2017, ch. 20, art. 66]
 
 
 
