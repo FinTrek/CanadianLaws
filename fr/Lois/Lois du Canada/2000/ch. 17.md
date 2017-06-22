@@ -37,48 +37,60 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définitions**
 
-**2** Les définitions qui suivent s’appliquent à la présente loi.
+**2** 
 
-***activité terroriste*** S’entend au sens du paragraphe 83.01(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***activité terroriste*** S’entend au sens du paragraphe 83.01(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*terrorist activity*)
 
 ***agent***[Abrogé, 2014, ch. 20, art. 254]
 
-***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*customs office*)
 
-***cabinet juridique*** Entité qui exploite une entreprise fournissant des services juridiques au public.
+***cabinet juridique*** Entité qui exploite une entreprise fournissant des services juridiques au public. (*legal firm*)
 
-***Centre*** Le Centre d’analyse des opérations et déclarations financières du Canada constitué par l’article 41.
+***Centre*** Le Centre d’analyse des opérations et déclarations financières du Canada constitué par l’article 41. (*Centre*)
 
-***client*** Toute personne ou entité qui se livre à une opération ou à une activité financières avec une personne ou une entité visées à l’article 5, ainsi que toute personne ou entité pour le compte de qui elle agit.
+***client*** S’entend notamment de toute personne ou entité qui se livre à une opération financière avec une autre personne ou entité. (*client*)
 
 ***commissaire***[Abrogée, 2005, ch. 38, art. 124]
 
-***conseiller juridique*** Un avocat et, au Québec, un avocat ou un notaire.
+***conseiller juridique*** Un avocat et, au Québec, un avocat ou un notaire. (*legal counsel*)
 
-***entité*** Personne morale, fiducie, société de personnes ou fonds, ou organisation ou association non dotée de la personnalité morale.
+***entité*** Personne morale, fiducie, société de personnes ou fonds, ou organisation ou association non dotée de la personnalité morale. (*entity*)
 
- ou ***envois*** ou ***courrier*** S’entend au sens du paragraphe 2(1) de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md).
+***envois*** ou ***courrier*** S’entend au sens du paragraphe 2(1) de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md). (*mail*)
 
-***Groupe d’action financière*** S’entend du Groupe d’action financière sur le blanchiment de capitaux créé en 1989.
+***État étranger*** Sauf pour l’application de la partie 2, pays autre que le Canada; est assimilé à un État étranger toute subdivision politique ou tout territoire de celui-ci. (*foreign state*)
 
-***infraction de financement des activités terroristes*** Toute infraction visée aux articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou une infraction visée à l’article 83.12 de cette loi découlant d’une contravention à l’article 83.08 de la même loi.
+***Groupe d’action financière*** S’entend du Groupe d’action financière sur le blanchiment de capitaux créé en 1989. (*Financial Action Task Force*)
 
-***infraction de recyclage des produits de la criminalité*** L’infraction visée au paragraphe 462.31(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***infraction de financement des activités terroristes*** Toute infraction visée aux articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou une infraction visée à l’article 83.12 de cette loi découlant d’une contravention à l’article 83.08 de la même loi. (*terrorist activity financing offence*)
 
-***menaces envers la sécurité du Canada*** S’entend au sens de l’article 2 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
+***infraction de recyclage des produits de la criminalité*** L’infraction visée au paragraphe 462.31(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*money laundering offence*)
 
-***messager*** S’entend au sens prévu par règlement.
+***menaces envers la sécurité du Canada*** S’entend au sens de l’article 2 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md). (*threats to the security of Canada*)
 
-***ministre*** Le ministre de la Sécurité publique et de la Protection civile pour l’application des articles 24.1 à 39, et le ministre des Finances pour l’application des autres dispositions de la présente loi.
+***messager***[Abrogée, 2017, ch. 20, art. 407]
 
-***personne*** S’entend d’un particulier.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile pour l’application des articles 24.1 à 39, et le ministre des Finances pour l’application des autres dispositions de la présente loi. (*Minister*)
 
-***personne autorisée*** Personne autorisée en vertu du paragraphe 45(2).
+***personne*** S’entend d’un particulier. (*person*)
 
-***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
+***personne autorisée*** Personne autorisée en vertu du paragraphe 45(2). (*authorized person*)
 
-***violation*** Toute contravention à la présente loi ou à ses règlements qui est ainsi qualifiée par les règlements pris en vertu du paragraphe 73.1(1).
-> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1; 2010, ch. 12, art. 1862; 2014, ch. 20, art. 254.
+***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md). (*President*)
+
+***violation*** Toute contravention à la présente loi ou à ses règlements qui est ainsi qualifiée par les règlements pris en vertu du paragraphe 73.1(1). (*violation*)
+
+**Définitions : règlements**
+
+- **(2)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre, définir les termes suivants :
+	- **a)** messager;
+	- **b)** effets;
+	- **c)** banque fictive;
+	- **d)** renseignements identificateurs, pour l’application du paragraphe 54.1(3).
+> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1; 2010, ch. 12, art. 1862; 2014, ch. 20, art. 254; 2017, ch. 20, art. 407.
 
 
 
@@ -135,17 +147,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** les sociétés de prêt régies par une loi provinciale;
 - **g)** les personnes et les entités autorisées en vertu de la législation provinciale à se livrer au commerce des valeurs mobilières ou d’autres instruments financiers, ou à la fourniture de services de gestion de portefeuille et de conseils en placement, à l’exception des personnes agissant exclusivement au nom de telles entités ou personnes;
 - **h)** les personnes et les entités qui se livrent aux opérations de change, ou qui exploitent une entreprise qui remet des fonds ou transmet des fonds par tout moyen ou par l’intermédiaire d’une personne, d’une entité ou d’un réseau de télévirement ou qui émet ou rachète des mandats-poste, des chèques de voyage ou d’autres titres négociables semblables, à l’exclusion des chèques libellés au nom d’une personne ou d’une entité;
-- **i)** les personnes et les entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession ou d’activités visées par un règlement pris en vertu de l’alinéa 73(1)a);
-- **j)** les personnes et les entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession visées par un règlement pris en vertu de l’alinéa 73(1)b) lorsqu’elles exercent les activités mentionnées aux règlements;
+- **i)** les personnes et entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession ou d’une activité, si l’entreprise, la profession ou l’activité est prévue par règlement;
+- **j)** les personnes et entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession, si l’entreprise ou la profession est prévue par règlement, lorsque ces personnes ou entités exercent les activités prévues par règlement;
 - **k)** le gouvernement d’une province qui, dans le cadre de l’alinéa 207(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
 	- **(i)** met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes,
 	- **(ii)** met sur pied et exploite des jeux au moyen d’un appareil à sous, au sens du paragraphe 198(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ou autre dispositif de jeu électronique semblable dans tout autre établissement permanent où se trouvent plus de cinquante de ces appareils à sous ou autres dispositifs semblables;
 - **k.1)** le gouvernement d’une province qui, dans le cadre de l’alinéa 207(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie, à l’exclusion d’un bingo ou de la vente de billets de loterie, accessible au public par Internet ou autre réseau numérique, à l’exception d’un réseau numérique interne d’un établissement visé au sous-alinéa k)(ii);
 - **k.2)** l’organisme qui, dans le cadre de l’alinéa 207(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes, sauf dans le cas où l’organisme en question est un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et que la loterie est mise sur pied et exploitée pendant deux jours consécutifs ou moins à la fois;
 - **k.3)** le conseil d’une foire ou d’une exposition, ou l’exploitant d’une concession louée auprès du conseil, qui, dans le cadre de l’alinéa 207(1)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes;
-- **l)** les ministères et mandataires de Sa Majesté du chef du Canada ou d’une province qui se livrent à l’acceptation de dépôts, qui vendent des mandats-poste au public ou qui vendent des métaux précieux réglementaires, lorsqu’ils exercent les activités mentionnées aux règlements pris en vertu de l’alinéa 73(1)c);
+- **l)** les ministères et les mandataires de Sa Majesté du chef du Canada ou d’une province qui acceptent des dépôts, qui émettent ou vendent des mandats-poste au public ou les rachètent du public ou qui vendent des métaux précieux réglementaires, lorsqu’ils exercent les activités prévues par règlement;
 - **m)** les employés des personnes et entités visées à l’un des alinéas a) à l), pour l’application de l’article 7.
-> 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256.
+> 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256; 2017, ch. 20, art. 408.
 
 
 
@@ -155,19 +167,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Tenue de document**
+**Tenue de documents**
 
-**6** Il incombe à toute personne ou entité visée à l’article 5 de tenir et de conserver, conformément aux règlements, les documents prévus par règlement.
-> 2000, ch. 17, art. 6; 2006, ch. 12, art. 4.
-
-
+**6** Il incombe à toute personne ou entité visée à l’article 5 de tenir des documents conformément aux règlements.
+> 2000, ch. 17, art. 6; 2006, ch. 12, art. 4; 2017, ch. 20, art. 409.
 
 
 
-**Vérification d’identités**
 
-**6.1** Il incombe à toute personne ou entité visée à l’article 5 de vérifier, dans les cas prévus par les règlements et en conformité avec ceux-ci, l’identité de toute personne ou entité.
-> 2006, ch. 12, art. 4.
+
+**Vérification d’identité**
+
+**6.1** La personne ou entité visée à l’article 5 est tenue de vérifier l’identité d’une personne ou entité conformément aux règlements.
+> 2006, ch. 12, art. 4; 2017, ch. 20, art. 409.
 
 
 
@@ -179,10 +191,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Opérations à déclarer**
 
-**7** Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, selon les modalités réglementaires, toute opération financière qu’on a effectuée ou tentée dans le cours de ses activités et à l’égard de laquelle il y a des motifs raisonnables de soupçonner qu’elle est liée à la perpétration — réelle ou tentée —, selon le cas :
+**7** Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, conformément aux règlements, toute opération financière qu’on a effectuée ou tentée dans le cours de ses activités et à l’égard de laquelle il y a des motifs raisonnables de soupçonner qu’elle est liée à la perpétration — réelle ou tentée —, selon le cas :
 - **a)** d’une infraction de recyclage des produits de la criminalité;
 - **b)** d’une infraction de financement des activités terroristes.
-> 2000, ch. 17, art. 7; 2001, ch. 41, art. 52; 2006, ch. 12, art. 5.
+> 2000, ch. 17, art. 7; 2001, ch. 41, art. 52; 2006, ch. 12, art. 5; 2017, ch. 20, art. 410.
 
 
 
@@ -192,12 +204,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7.1** 
 
-- **(1)** Il incombe à toute personne ou entité visée à l’article 5 qui est tenue de communiquer des renseignements en vertu de l’article 83.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou en vertu de l’article 8 du [Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/360.md) de faire une déclaration au Centre selon les modalités réglementaires.
+- **(1)** Il incombe à toute personne ou entité visée à l’article 5 qui est tenue de communiquer des renseignements en application de l’article 83.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou en application de l’article 8 du [Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/360.md) de faire une déclaration au Centre conformément aux règlements.
 
 **Exemption**
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux personnes ou entités — ou aux catégories de personnes ou d’entités — visées par règlement à l’égard d’opérations, de catégories d’opérations, de biens ou de catégories de biens visés par règlement, si les conditions réglementaires sont remplies.
-> 2001, ch. 41, art. 52; 2006, ch. 12, art. 6.
+> 2001, ch. 41, art. 52; 2006, ch. 12, art. 6; 2017, ch. 20, art. 411.
 
 
 
@@ -205,7 +217,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Confidentialité**
 
-**8** Nul ne peut révéler qu’il a fait une déclaration en application de l’article 7 ou en dévoiler le contenu dans l’intention de nuire à une enquête criminelle en cours ou à venir.
+**8** Nul ne peut révéler qu’il a fait, fait ou fera une déclaration en application de l’article 7 ou en dévoiler le contenu dans l’intention de nuire à une enquête criminelle en cours ou à venir.
+> 2000, ch. 17, art. 8; 2017, ch. 20, art. 412.
+
 
 
 
@@ -214,7 +228,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, selon les modalités réglementaires :
+- **(1)** Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre conformément aux règlements :
 	- **a)** les opérations financières — ou les opérations financières faisant partie d’une catégorie d’opérations financières — précisées dans les directives prévues par la partie 1.1 qui sont effectuées ou tentées dans le cours de ses activités;
 	- **b)** les opérations financières visées par règlement qui sont effectuées dans le cours de ses activités.
 
@@ -225,7 +239,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Liste des exemptions**
 
 - **(3)** Il incombe à toute personne ou entité visée à l’article 5 de dresser et de maintenir, selon les modalités réglementaires, une liste des clients à l’égard desquels elle aurait été tenue, n’était le paragraphe (2), de faire une déclaration en application du paragraphe (1). Néanmoins, elle peut choisir de se conformer au paragraphe (1) à l’égard d’un client au lieu d’inscrire celui-ci sur une telle liste.
-> 2000, ch. 17, art. 9; 2006, ch. 12, art. 7; 2010, ch. 12, art. 1864.
+> 2000, ch. 17, art. 9; 2006, ch. 12, art. 7; 2010, ch. 12, art. 1864; 2017, ch. 20, art. 413.
 
 
 
@@ -233,17 +247,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Déclaration**
 
-**9.1** Sous réserve de l’article 9, il incombe à toute personne ou entité qui est tenue de faire une déclaration au Centre sous le régime d’une loi fédérale de la faire selon les modalités réglementaires prescrites pour cette loi.
-> 2001, ch. 41, art. 53.
+**9.1** Sous réserve de l’article 9, il incombe à toute personne ou entité qui est tenue de faire une déclaration au Centre sous le régime d’une autre loi fédérale de la faire selon les modalités et dans le délai réglementaires prescrits sous le régime de la présente loi.
+> 2001, ch. 41, art. 53; 2017, ch. 20, art. 414.
 
 
 
 
 
-**Impossibilité d’établir l’identité**
+**Impossibilité de vérifier l’identité**
 
-**9.2** Il est interdit, dans les cas prévus par règlement, à toute personne ou entité visée à l’article 5 d’ouvrir un compte pour lequel elle ne peut établir l’identité du client en conformité avec les mesures réglementaires.
-> 2006, ch. 12, art. 8.
+**9.2** Il est interdit à toute personne ou entité visée à l’article 5 d’ouvrir un compte pour lequel elle ne peut vérifier l’identité du client en conformité avec les règlements.
+> 2006, ch. 12, art. 8; 2017, ch. 20, art. 414.
 
 
 
@@ -260,17 +274,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mesures — étranger politiquement vulnérable**
 
-- **(2)** Si elle fait affaire avec une personne visée à l’alinéa (1)a), elle obtient l’agrément de la haute direction dans les cas prévus par règlement et prend les mesures réglementaires.
+- **(2)** Si elle fait affaire avec une personne visée à l’alinéa (1)a), elle prend les mesures prévues par règlement.
 
 **Mesures — autres personnes**
 
-- **(2.1)** Si elle fait affaire avec une personne visée à l’un des alinéas (1)b) ou c) et qu’elle considère, en se fondant sur l’évaluation visée au paragraphe 9.6(2), que cette personne présente un risque élevé de commettre une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes, la personne ou l’entité obtient l’agrément de la haute direction dans les cas prévus par règlement et prend les mesures réglementaires.
+- **(2.1)** Si elle fait affaire avec une personne visée aux alinéas (1)b) ou c) et qu’elle considère, en se fondant sur l’évaluation visée au paragraphe 9.6(2), que cette personne présente un risque élevé de commettre une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes, la personne ou entité prend les mesures prévues par règlement.
 
 **Définitions**
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***dirigeant d’une organisation internationale*** Dirigeant d’une organisation internationale créée par les gouvernements de divers États ou dirigeant d’une institution de cette organisation. (*head of an international organization*)
+***dirigeant d’une organisation internationale*** Personne qui, à un moment donné, occupe — ou a occupé au cours d’une période antérieure prévue par règlement — le poste ou la charge de dirigeant d’une organisation internationale créée par les gouvernements de divers États ou dirigeant d’une institution d’une telle organisation. (*head of an international organization*)
 
 ***étranger politiquement vulnérable*** Personne qui occupe ou a occupé l’une des charges ci-après au sein d’un État étranger ou pour son compte :
 - **a)** chef d’État ou chef de gouvernement;
@@ -296,7 +310,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **i)** chef ou président d’un parti politique représenté au sein de l’assemblée législative;
 - **j)** titulaire d’un poste ou d’une charge visés par règlement;
 - **k)** maire. (*politically exposed domestic person*)
-> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258.
+> 2006, ch. 12, art. 8; 2014, ch. 20, art. 258; 2017, ch. 20, art. 439.
 
 
 
@@ -321,7 +335,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9.4** 
 
-- **(1)** Il incombe à toute entité visée aux alinéas 5a), b), d) et e) et à toute autre entité mentionnée à l’article 5 et visée par règlement de prendre les mesures ci-après avant d’établir avec une entité étrangère visée par règlement une relation de correspondant bancaire :
+- **(1)** Il incombe à toute entité visée aux alinéas 5a), b), d) ou e) et à toute autre entité visée à l’article 5 et visée par règlement de prendre les mesures visées par règlement dans le cadre d’une relation de correspondant bancaire avec une entité étrangère visée par règlement et de prendre les mesures ci-après avant d’établir avec une entité étrangère visée par règlement une relation de correspondant bancaire :
 	- **a)** obtenir les renseignements réglementaires concernant l’entité étrangère et ses activités;
 	- **b)** vérifier que l’entité étrangère n’est pas une banque fictive au sens des règlements;
 	- **c)** obtenir l’agrément de la haute direction;
@@ -335,7 +349,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de relation de correspondant bancaire**
 
 - **(3)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d) et e) ou une autre entité mentionnée à l’article 5 et visée par règlement s’engage à fournir à une entité étrangère visée par règlement des services tels les télévirements internationaux, la gestion de trésorerie, la compensation de chèques et tout autre service prévu par règlement.
-> 2006, ch. 12, art. 8; 2014, ch. 20, art. 259.
+> 2006, ch. 12, art. 8; 2014, ch. 20, art. 259; 2017, ch. 20, art. 415.
 
 
 
@@ -365,8 +379,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mesures spéciales**
 
-- **(3)** Si elle estime que les risques visés au paragraphe (2) sont élevés, la personne ou entité prend, relativement aux activités en cause, les mesures spéciales réglementaires relatives à l’identification des clients, à la tenue des documents et au contrôle des opérations financières.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1865.
+- **(3)** La personne ou entité prend les mesures spéciales prévues par règlement dans les circonstances réglementaires ou si, à un moment donné, elle estime que les risques visés au paragraphe (2) sont élevés.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1865; 2017, ch. 20, art. 416.
 
 
 
@@ -376,7 +390,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9.7** 
 
-- **(1)** Il incombe à toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens de l’article 2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), d’élaborer des principes prévoyant des obligations similaires aux obligations prévues aux articles 6, 6.1 et 9.6 pour ses succursales étrangères et pour ses filiales étrangères qui exercent des activités semblables à celles des entités visées à ces alinéas et avec lesquelles ses résultats financiers sont consolidés ou qui est une filiale à cent pour cent de celle-ci et de veiller à ce que ces succursales et ces filiales les mettent en application lorsque les lois du pays où se trouve la succursale ou la filiale le permettent et que leur application n’est pas en conflit avec celles-ci.
+- **(1)** Il incombe à toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), d’élaborer des principes prévoyant des obligations similaires aux obligations prévues aux articles 6, 6.1 et 9.6 pour ses succursales étrangères et pour ses filiales étrangères qui exercent des activités semblables à celles des entités visées à ces alinéas et avec lesquelles ses résultats financiers sont consolidés ou qui sont ses filiales à cent pour cent et de veiller à ce que ces succursales et ces filiales les mettent en application lorsque les lois de l’État étranger où se trouve la succursale ou la filiale le permettent et que leur application n’est pas en conflit avec celles-ci.
 
 **Approbation du conseil d’administration**
 
@@ -390,8 +404,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Tenue de documents**
 
-- **(4)** L’entité tient et conserve, en application de l’article 6, les cas où une de ses succursales étrangères ou de ses filiales étrangères ne peut pas mettre en application un principe visé au paragraphe (1) parce que cela n’est pas permis par les lois du pays où la succursale étrangère ou la filiale étrangère se trouve ou entrerait en conflit avec les lois de ce pays, motifs à l’appui, et les signale au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale dans un délai raisonnable.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260.
+- **(4)** L’entité tient un document où sont consignés, en application de l’article 6, les cas où une de ses succursales étrangères ou de ses filiales étrangères ne peut pas mettre en application un principe visé au paragraphe (1) parce que cela n’est pas permis par les lois de l’État étranger où la succursale étrangère ou la filiale étrangère se trouve ou entrerait en conflit avec les lois de cet État étranger, motifs à l’appui, et les signale dans un délai raisonnable au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260; 2017, ch. 20, art. 418.
 
 
 
@@ -449,8 +463,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation de s’inscrire**
 
-**11.1** Sauf disposition contraire des règlements, sont inscrites auprès du Centre, en conformité avec le présent article et les articles 11.11 à 11.2, les personnes ou entités visées à l’alinéa 5h), celles visées à l’alinéa 5l) qui vendent des mandats-poste au public ainsi que toutes celles qui sont mentionnées à l’article 5 et visées par règlement.
-> 2006, ch. 12, art. 10.
+**11.1** Sauf si un règlement le prévoit autrement, sont inscrites auprès du Centre, en conformité avec le présent article et les articles 11.11 à 11.2, les personnes ou entités visées à l’alinéa 5h), celles visées à l’alinéa 5l) qui émettent ou vendent au public des mandats-poste ou les rachètent du public ainsi que toutes celles qui sont visées à l’article 5 et visées par règlement.
+> 2006, ch. 12, art. 10; 2017, ch. 20, art. 419.
 
 
 
@@ -461,26 +475,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **11.11** 
 
 - **(1)** Est inadmissible à l’inscription auprès du Centre :
-	- **a)** la personne inscrite au sens de l’article 1 du [Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/360.md);
+	- **a)** la personne ou entité faisant l’objet, en vertu de la [Loi sur les Nations Unies](/fr/Lois/Lois%20révisées%20du%20Canada/U/U-2.md), de sanctions associées à des activités terroristes ou à une interdiction relativement à des services financiers;
 	- **b)** l’entité inscrite au sens du paragraphe 83.01(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-	- **c)** la personne ou entité condamnée pour l’une ou l’autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un pays étranger :
+	- **b.1)** la personne ou entité faisant l’objet d’une interdiction concernant des services financiers ou des services connexes en vertu de la [Loi sur les mesures économiques spéciales](/fr/Lois/Lois%20du%20Canada/1992/ch.%2017.md);
+	- **c)** la personne ou entité condamnée pour l’une ou l’autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un État étranger :
 		- **(i)** une infraction de recyclage des produits de la criminalité,
 		- **(ii)** une infraction de financement des activités terroristes,
 		- **(iii)** une infraction prévue par la présente loi ou par la Loi sur le recyclage des produits de la criminalité, chapitre 26 des Lois du Canada (1991), ayant fait l’objet d’une poursuite par mise en accusation,
 		- **(iv)** une infraction prévue à l’un ou l’autre des articles 83.18 à 83.231, 354 et 467.11 à 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(v)** un complot ou une tentative en vue de commettre l’une ou l’autre des infractions visées aux alinéas (i) à (iv) ou le fait d’en être complice après le fait ou d’en conseiller la perpétration;
-	- **d)** la personne ou entité condamnée par voie de mise en accusation ou condamnée plus d’une fois pour l’une ou l’autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un pays étranger :
+	- **d)** la personne ou entité condamnée par voie de mise en accusation ou condamnée plus d’une fois pour l’une ou l’autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un État étranger :
 		- **(i)** une infraction prévue à la partie X du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(ii)** une infraction prévue par la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), à l’exception de celle prévue au paragraphe 4(1) de cette loi,
 		- **(iii)** une infraction prévue aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997,
 		- **(iv)** aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, chapitre N-1 des Lois révisées du Canada (1985), dans leur version antérieure au 14 mai 1997;
-	- **e)** l’entité qui est une personne morale dont l’un des administrateurs, le premier dirigeant, le président, ou toute personne qui détient ou contrôle, directement ou indirectement, au moins vingt pour cent des actions a été déclaré coupable, par mise en accusation, d’une infraction prévue par la présente loi ou la Loi sur le recyclage des produits de la criminalité, chapitre 26 des Lois du Canada (1991) ou a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un pays étranger;
+	- **e)** l’entité qui est une personne morale dont l’un des administrateurs, le premier dirigeant, le président, ou toute personne qui détient ou contrôle, directement ou indirectement, au moins vingt pour cent des actions a été déclaré coupable, par mise en accusation, d’une infraction prévue par la présente loi ou la Loi sur le recyclage des produits de la criminalité, chapitre 26 des Lois du Canada (1991) ou a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un État étranger;
 	- **f)** toute personne ou entité visée par règlement.
 
 **Révocation**
 
 - **(2)** Si le Centre prend connaissance du fait qu’une personne ou entité visée au paragraphe (1) est inscrite, il révoque l’inscription et en avise sans délai la personne ou entité.
-> 2006, ch. 12, art. 11; 2014, ch. 20, art. 262.
+> 2006, ch. 12, art. 11; 2014, ch. 20, art. 262; 2017, ch. 20, art. 420.
 
 
 
@@ -490,12 +505,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11.12** 
 
-- **(1)** La demande d’inscription est présentée au Centre selon les modalités réglementaires et est accompagnée d’une liste des mandataires ou succursales du demandeur qui se livrent, pour le compte de celui-ci, aux activités visées à l’alinéa 5h), à la vente de mandats-poste au public si le demandeur est une personne ou entité visée à l’alinéa 5l) ou à toute autre activité qui est visée par règlement, ainsi que de tout autre renseignement prévu par règlement.
+- **(1)** La demande d’inscription est présentée au Centre selon les modalités réglementaires et est accompagnée d’une liste des mandataires ou succursales du demandeur qui se livrent, pour le compte de celui-ci, aux activités visées à l’alinéa 5h), à l’émission ou la vente de mandats-poste au public ou à leur rachat du public si le demandeur est une personne ou entité visée à l’alinéa 5l) ou à toute autre activité qui est visée par règlement, ainsi que de tout autre renseignement prévu par règlement.
 
 **Mandataires et succursales**
 
 - **(2)** Les mandataires et succursales qui figurent sur la liste ne sont pas tenus de s’inscrire auprès du Centre pour les activités qu’ils exercent à ce titre.
-> 2006, ch. 12, art. 11.
+> 2006, ch. 12, art. 11; 2017, ch. 20, art. 421.
 
 
 
@@ -640,14 +655,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Définitions**
+**Définition de entité étrangère**
 
-**11.41** Les définitions qui suivent s’appliquent à la présente partie.
-
-***entité étrangère*** Entité, à l’exception d’une entité visée à l’article 5, qui est constituée en personne morale ou formée sous le régime de la législation d’un pays étranger, notamment toute filiale de celle-ci, et qui n’exerce pas ses activités au Canada, dans le cas ou elle exerce des activités semblables à celles des entités visées à l’un des alinéas 5a) à g) ou à celles prévues aux alinéas 5h) ou h.1).
-
-***État étranger*** Pays autre que le Canada; est assimilé à un État étranger toute subdivision politique ou tout territoire de celui-ci. 
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 267.
+**11.41** Pour l’application de la présente partie, ***entité étrangère*** s’entend d’une entité, à l’exception d’une entité visée à l’article 5, qui est constituée en personne morale ou formée sous le régime de la législation d’un État étranger, notamment toute filiale de celle-ci, et qui n’exerce pas ses activités au Canada, dans le cas où elle exerce des activités semblables à celles des entités visées à l’un des alinéas 5a) à g) ou à celles prévues aux alinéas 5h) ou h.1).
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 267; 2017, ch. 20, art. 422.
 
 
 
@@ -669,7 +680,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la vérification de l’identité de toute personne ou entité;
 	- **b)** l’exercice du devoir de vigilance à l’égard de la clientèle, dont la vérification de la source des fonds en cause dans toute opération financière ou de l’objet de toute opération financière ou la détermination des personnes ou entités qui ont la propriété bénéficiaire ou le contrôle de toute entité;
 	- **c)** le contrôle de toute opération financière et la surveillance de tout compte;
-	- **d)** la tenue et la conservation de documents;
+	- **d)** la tenue de documents;
 	- **e)** la déclaration de toute opération financière au Centre;
 	- **f)** l’observation de la présente partie ou de la partie 1.
 
@@ -690,7 +701,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions**
 
 - **(5)** Il peut assortir la directive des conditions qu’il estime appropriées.
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 268.
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 268; 2017, ch. 20, art. 423.
 
 
 
@@ -709,12 +720,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11.44** 
 
-- **(1)** Toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens de l’article 2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veille à ce que ses succursales étrangères et ses filiales étrangères qui exercent des activités semblables à celles des entités visées à ces alinéas qui sont ses filiales à cent pour cent ou avec lesquelles ses états financiers sont consolidés se conforment, lorsque cela est permis par les lois du pays où se trouve la succursale ou la filiale et n’entre pas en conflit avec les lois de ce pays, à toute directive donnée au titre de la présente partie, sauf en ce qui a trait à toute mesure de déclaration visée à l’alinéa 11.42(2)e).
+- **(1)** Toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veille à ce que ses succursales étrangères et ses filiales étrangères qui exercent des activités semblables à celles des entités visées à ces alinéas qui sont ses filiales à cent pour cent ou avec lesquelles ses états financiers sont consolidés se conforment, lorsque cela est permis par les lois de l’État étranger où se trouve la succursale ou la filiale et n’entre pas en conflit avec les lois de cet État étranger, à toute directive donnée au titre de la présente partie, sauf en ce qui a trait à toute mesure de déclaration visée à l’alinéa 11.42(2)e).
 
 **Tenue de documents**
 
-- **(2)** L’entité tient et conserve, en application de l’article 6, les cas où une de ses succursales ou de ses filiales ne peut se conformer à une directive parce que cela n’est pas permis par les lois du pays où se trouve la succursale ou la filiale dans lequel elle se trouve ou entrerait en conflit avec les lois de ce pays, motifs à l’appui, les signale au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale dans un délai raisonnable.
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 269.
+- **(2)** L’entité tient un document où sont consignés, en application de l’article 6, les cas où une de ses succursales ou de ses filiales ne peut se conformer à une directive parce que cela n’est pas permis par les lois de l’État étranger où se trouve la succursale ou la filiale dans lequel elle se trouve ou entrerait en conflit avec les lois de cet État étranger, motifs à l’appui, les signale dans un délai raisonnable au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale.
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 269; 2017, ch. 20, art. 424.
 
 
 
@@ -804,8 +815,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Succursales étrangères**
 
-**11.6** Toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens de l’article 2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veille à ce que leurs succursales étrangères se conforment, lorsque cela est permis par les lois du pays où se trouve la succursale et n’entre pas en conflit avec celles-ci, à tout règlement pris en vertu du paragraphe 11.49(1).
-> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 270.
+**11.6** Toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veille à ce que ses succursales étrangères se conforment, lorsque cela est permis par les lois de l’État étranger où se trouve la succursale et n’entre pas en conflit avec celles-ci, à tout règlement pris en vertu du paragraphe 11.49(1).
+> 2010, ch. 12, art. 1869; 2014, ch. 20, art. 270; 2017, ch. 20, art. 426.
 
 
 
@@ -1264,7 +1275,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **30** 
 
-- **(1)** La personne qui a demandé que soit rendue une décision en vertu de l’article 27 peut, dans les quatre-vingt-dix jours suivant la communication de cette décision, en appeler par voie d’action à la Cour fédérale à titre de demandeur, le ministre étant le défendeur.
+- **(1)** La personne qui a demandé, en vertu de l’article 25, que soit rendue une décision peut, dans les quatre-vingt-dix jours suivant la communication de cette décision, en appeler par voie d’action à la Cour fédérale à titre de demandeur, le ministre étant le défendeur.
 
 **Action ordinaire**
 
@@ -1277,7 +1288,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Limitation du montant versé**
 
 - **(4)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme qui peut être versée en vertu du paragraphe (3) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16.
+> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16; 2017, ch. 20, art. 427.
 
 
 
@@ -1767,12 +1778,12 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **(1)** Le directeur doit tenter d’obtenir des organismes, autorités ou organisations concernés qui sont mentionnés ci-après leur consentement à la communication au ministre de l’information qu’ils ont transmise au Centre à titre confidentiel qui est contenue dans les renseignements ou les analyses demandés par le ministre ou un fonctionnaire du ministère des Finances en vertu du paragraphe 53.1(1) :
 	- **a)** les organismes fédéraux ou provinciaux chargés de l’application de la loi;
 	- **b)** les autres autorités publiques fédérales;
-	- **c)** le gouvernement d’un État étranger, une organisation internationale regroupant les gouvernements de plusieurs États étrangers ou un organisme d’un État étranger ayant des attributions similaires à celles du Centre qui ont conclu avec le ministre ou le Centre un accord par écrit en vertu des paragraphes 56(1) ou (2), si l’accord le prévoit.
+	- **c)** le gouvernement d’un État étranger, une organisation internationale ou un organisme d’un État étranger ayant des attributions similaires à celles du Centre qui ont conclu avec le ministre ou le Centre un accord par écrit en vertu des paragraphes 56(1) ou (2), si l’accord le prévoit.
 
 **Consentement**
 
 - **(2)** Le directeur ne peut communiquer au ministre l’information transmise au Centre à titre confidentiel qu’après avoir obtenu le consentement prévu au paragraphe (1).
-> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 279.
+> 2010, ch. 12, art. 1872; 2014, ch. 20, art. 279; 2017, ch. 20, art. 428.
 
 
 
@@ -1915,8 +1926,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation;
 	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
 	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9 s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la *Society for Worldwide Interbank Financial Telecommunication*;
-	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire.
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167.
+	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
+	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
+	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
+	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167; 2017, ch. 20, art. 429.
 
 
 
@@ -1930,7 +1944,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **a)** au Service canadien du renseignement de sécurité;
 	- **b)** aux forces policières compétentes, si en outre il a des motifs raisonnables de soupçonner que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction en droit canadien dont il a des motifs de soupçonner qu’il se rapporte à des activités constituant une telle menace;
 	- **c)** à l’Agence des services frontaliers du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements sont utiles afin d’établir si une personne est visée par les articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à toute infraction prévue à l’un des articles 91, 117 à 119, 126 et 127 de cette loi;
-	- **d)** à l’Agence des services frontaliers du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation ou l’exportation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale.
+	- **d)** à l’Agence des services frontaliers du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation ou l’exportation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale;
+	- **e)** au ministère de la Défense nationale et aux Forces canadiennes, si en outre il a des motifs raisonnables de soupçonner que les renseignements se rapportent à une telle menace à l’égard du ministère de la Défense nationale ou des Forces canadiennes.
 
 **Enregistrement des motifs**
 
@@ -1955,8 +1970,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité, d’infraction de financement des activités terroristes ou de menaces envers la sécurité du Canada entachant l’opération financière, l’importation ou l’exportation;
 	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
 	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9, s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la Society for Worldwide Interbank Financial Telecommunication;
-	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire.
-> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27; 2014, ch. 20, art. 283.
+	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
+	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
+	- **s)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
+	- **t)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27; 2014, ch. 20, art. 283; 2017, ch. 20, art. 430.
 
 
 
@@ -1966,7 +1984,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **56** 
 
-- **(1)** Le ministre peut conclure par écrit un accord avec le gouvernement d’un État étranger ou une organisation internationale regroupant les gouvernements de plusieurs États étrangers concernant l’échange, entre le Centre et un organisme — relevant de ce pays étranger ou de cette organisation internationale — ayant des attributions similaires à celles du Centre, de renseignements dont le Centre ou l’organisme a des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire.
+- **(1)** Le ministre peut conclure par écrit un accord avec le gouvernement d’un État étranger ou une organisation internationale concernant l’échange, entre le Centre et un organisme — relevant de cet État étranger ou de cette organisation internationale — ayant des attributions similaires à celles du Centre, de renseignements dont le Centre ou l’organisme a des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire.
 
 **Accord de collaboration — Centre**
 
@@ -1974,10 +1992,10 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Fins d’utilisation**
 
-- **(3)** Les accords conclus :
+- **(3)** Les accords conclus :
 	- **a)** précisent les fins auxquelles les renseignements peuvent être utilisés, lesquelles doivent être utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
 	- **b)** prévoient que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du Centre.
-> 2000, ch. 17, art. 56; 2001, ch. 41, art. 68.
+> 2000, ch. 17, art. 56; 2001, ch. 41, art. 68; 2017, ch. 20, art. 431.
 
 
 
@@ -1987,13 +2005,13 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **56.1** 
 
-- **(1)** Le Centre peut communiquer des renseignements désignés à un organisme d’un État étranger ou d’une organisation internationale regroupant les gouvernements de plusieurs États étrangers et ayant des attributions similaires aux siennes dans le cas suivant :
+- **(1)** Le Centre peut communiquer des renseignements désignés à un organisme d’un État étranger ou d’une organisation internationale et ayant des attributions similaires aux siennes dans le cas suivant :
 	- **a)** d’une part, il a des motifs raisonnables de soupçonner que les renseignements désignés seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
 	- **b)** d’autre part, le ministre a, conformément au paragraphe 56(1), conclu un accord portant sur l’échange de tels renseignements avec l’État ou l’organisation internationale.
 
 **Communication à un organisme étranger**
 
-- **(2)** Le Centre peut communiquer des renseignements désignés à un organisme d’un État étranger ayant des attributions similaires aux siennes dans le cas suivant :
+- **(2)** Le Centre peut communiquer des renseignements désignés à un organisme d’un État étranger ayant des attributions similaires aux siennes dans le cas suivant :
 	- **a)** d’une part, il a des motifs raisonnables de soupçonner que les renseignements désignés seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire;
 	- **b)** d’autre part, il a, conformément au paragraphe 56(2), conclu avec l’organisme un accord portant sur l’échange de tels renseignements.
 
@@ -2031,8 +2049,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation;
 	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
-	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9, s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la *Society for Worldwide Interbank Financial Telecommunication*.
-> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28; 2014, ch. 20, art. 284.
+	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9, s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la *Society for Worldwide Interbank Financial Telecommunication*;
+	- **q)** les nom, adresse, adresse électronique et numéro de téléphone de tous les fiduciaires et de tous les bénéficiaires et constituants connus de la fiducie visée à l’alinéa a);
+	- **r)** les nom, adresse, adresse électronique et numéro de téléphone de toutes les personnes qui détiennent ou contrôlent, directement ou indirectement, au moins vingt-cinq pour cent de l’entité visée à l’alinéa a), autre qu’une fiducie;
+	- **s)** les renseignements concernant la propriété, le contrôle et la structure de l’entité visée à l’alinéa a).
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28; 2014, ch. 20, art. 284; 2017, ch. 20, art. 432.
 
 
 
@@ -2574,7 +2595,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **65.1** 
 
-- **(1)** Le Centre peut conclure avec tout organisme d’un État étranger ayant des attributions similaires aux siennes concernant la vérification de la conformité aux obligations portant sur l’identification de personnes ou d’entités, la tenue et la conservation de documents ou la production de déclarations ou avec toute organisation internationale regroupant de tels organismes, créée par les gouvernements de divers États, un accord écrit stipulant :
+- **(1)** Le Centre peut conclure avec tout organisme d’un État étranger ayant des attributions similaires aux siennes concernant la vérification de la conformité aux obligations portant sur l’identification de personnes ou d’entités, la tenue de documents ou la production de déclarations ou avec toute organisation internationale regroupant de tels organismes, un accord écrit stipulant :
 	- **a)** que le Centre peut échanger avec cet organisme ou cette organisation des renseignements relatifs au respect par une personne ou une entité de ces obligations et relatifs à l’évaluation des risques liés au respect de ces obligations;
 	- **b)** que les renseignements doivent être utilisés uniquement en vue d’assurer la conformité à ces obligations et d’évaluer les risques liés au respect de ces obligations;
 	- **c)** que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du Centre.
@@ -2586,7 +2607,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Utilité des renseignements**
 
 - **(3)** Il peut fournir à l’organisme ou à l’organisation lui ayant communiqué des renseignements au titre de l’accord une évaluation de leur utilité pour lui.
-> 2006, ch. 12, art. 37.
+> 2006, ch. 12, art. 37; 2017, ch. 20, art. 433.
 
 
 
@@ -2714,41 +2735,25 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **73** 
 
 - **(1)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre, prendre toute mesure qu’il estime nécessaire à l’application de la présente loi, et notamment :
-	- **a)** déterminer les entreprises, les professions et les activités visées à l’alinéa 5i);
-	- **b)** déterminer des entreprises et des professions pour l’application de l’alinéa 5j), ainsi que les activités auxquelles celui-ci s’applique;
-	- **c)** déterminer les activités des ministères, mandataires et entités visés à l’alinéa 5l) auxquels celui-ci s’applique;
-	- **d)** catégoriser les documents visés à l’article 6 et déterminer les renseignements à y porter;
-	- **e)** déterminer la durée et les méthodes de conservation de ces documents;
-	- **e.1)** préciser les renseignements qui doivent figurer dans la déclaration faite au titre des articles 7 ou 7.1 ou du paragraphe 9(1);
-	- **e.2)** préciser, pour les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités —, les modalités à respecter pour l’application des articles 7, 7.1, 9 et 9.1;
-	- **f)** préciser les mesures à prendre par les personnes ou entités afin de vérifier l’identité des personnes ou entités qui demandent l’ouverture d’un compte ou pour lesquelles un document doit être tenu ou une déclaration faite et prévoir les délais pour la prise de ces mesures;
-	- **g)** définir les termes effets et messager;
-	- **h)** prévoir les modalités de déclaration des espèces et effets pour l’application du paragraphe 12(1), y compris le délai pour faire la déclaration, et les renseignements à inclure dans le formulaire de déclaration;
-	- **i)** prévoir les cas visés par l’article 9.2;
-	- **j)** prévoir, pour l’application du paragraphe 9.3(1), la façon d’établir si une personne est visée aux alinéas 9.3(1)a) à c) et les circonstances dans lesquelles il est nécessaire de l’établir;
-	- **k)** prévoir, pour l’application des paragraphes 9.3(2) et (2.1), les cas où l’agrément de la haute direction est nécessaire et les mesures à prendre;
-	- **l)** prévoir les postes ou charges pour l’application de l’alinéa j) de la définition de étranger politiquement vulnérable au paragraphe 9.3(3) ou de l’alinéa j) de la définition de national politiquement vulnérable à ce paragraphe;
-	- **l.1)** préciser les membres de la famille visés au paragraphe 9.3(1);
-	- **l.2)** définir État étranger pour l’application de la définition de étranger politiquement vulnérable au paragraphe 9.3(3);
-	- **m)** prévoir quelles entités étrangères sont visées par le paragraphe 9.4(1), et pour l’application de ce paragraphe, préciser les renseignements à obtenir à leur égard et prévoir toute autre mesure nécessaire;
-	- **n)** définir l’expression banque fictive visée à l’article 9.4;
-	- **o)** prévoir les services visés par l’expression relation de correspondant bancaire au sens du paragraphe 9.4(3);
-	- **p)** prévoir les télévirements visés par l’article 9.5, les renseignements à inclure avec ceux-ci et les mesures à prendre pour l’application de cet article;
-	- **q)** prévoir le mode d’établissement et de mise en oeuvre du programme visé au paragraphe 9.6(1);
-	- **r)** prévoir les mesures spéciales à prendre en vertu du paragraphe 9.6(3);
-	- **s)** préciser les personnes et entités qui sont tenues de s’inscrire auprès du Centre en vertu de l’article 11.1;
-	- **t)** préciser les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités — qui ne sont pas assujetties à l’application de l’article 11.1;
-	- **u)** préciser les personnes ou entités inadmissibles à l’inscription pour l’application de l’alinéa 11.11(1)f);
-	- **v)** préciser les modalités de présentation de la demande d’inscription visée au paragraphe 11.12(1) ainsi que les renseignements qui doivent l’accompagner;
-	- **w)** prévoir les modalités à remplir pour communiquer au Centre tout renseignement à lui fournir en application de l’article 11.13;
-	- **x)** prévoir les modalités à remplir en vue de communiquer au Centre les précisions visées au paragraphe 11.14(1) et celles visées au paragraphe 11.17(1);
-	- **y)** prévoir, pour l’application de l’article 11.19, les modalités de renouvellement d’inscription et fixer le délai plus long applicable au renouvellement de l’inscription;
+	- **a)** régir le commerce de monnaie virtuelle;
+	- **b)** régir la tenue des documents visée à l’article 6;
+	- **c)** régir la vérification de l’identité des personnes et entités visée à l’article 6.1;
+	- **d)** régir les déclarations à faire au Centre en application de l’article 7 et des paragraphes 7.1(1) et 9(1);
+	- **e)** régir la question de savoir si une personne est visée à l’un des alinéas 9.3(1)a) à c);
+	- **e.1) et e.2)** [Abrogés, 2017, ch. 20, art. 434]
+	- **f)** régir les mesures visées aux paragraphes 9.3(2) et (2.1);
+	- **g)** régir les mesures visées au paragraphe 9.4(1);
+	- **h)** régir le programme visé au paragraphe 9.6(1);
+	- **i)** régir les mesures spéciales à prendre en application du paragraphe 9.6(3);
+	- **j)** régir les inscriptions visées aux articles 11.1 à 11.2;
+	- **k)** régir les déclarations visées au paragraphe 12(1);
+	- **l)** prendre toute mesure réglementaire prévue par la présente loi.
+	- **l.1) à y)** [Abrogés, 2017, ch. 20, art. 434]
 	- **y.1) et y.2)** [Abrogés, 2014, ch. 20, art. 294]
-	- **z)** définir renseignements identificateurs pour l’application du paragraphe 54.1(3);
-	- **z.1)** prendre toute autre mesure réglementaire prévue par la présente loi.
+	- **z) et z.1)** [Abrogés, 2017, ch. 20, art. 434]
 
 - **(2) et (3)** [Abrogés, 2001, ch. 41, art. 73]
-> 2000, ch. 17, art. 73; 2001, ch. 41, art. 73; 2006, ch. 12, art. 39; 2010, ch. 12, art. 1877; 2014, ch. 20, art. 294.
+> 2000, ch. 17, art. 73; 2001, ch. 41, art. 73; 2006, ch. 12, art. 39; 2010, ch. 12, art. 1877; 2014, ch. 20, art. 294; 2017, ch. 20, art. 434.
 
 
 
@@ -2849,7 +2854,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Présentation d’observations**
 
-- **(2)** Si des observations sont présentées, le directeur détermine, selon la prépondérance des probabilités, la responsabilité de l’intéressé. Le cas échéant, il peut, sous réserve des règlements pris en vertu de l’alinéa 73.1(1)c), imposer la pénalité mentionnée au procès-verbal ou une pénalité réduite, ou encore n’imposer aucune pénalité.
+- **(2)** Si des observations sont présentées conformément au procès-verbal, le directeur détermine, selon la prépondérance des probabilités, la responsabilité de l’intéressé. Le cas échéant, il peut, sous réserve des règlements pris en vertu de l’alinéa 73.1(1)c), imposer la pénalité mentionnée au procès-verbal ou une pénalité réduite, ou encore n’imposer aucune pénalité.
 
 **Défaut de payer ou de faire des observations**
 
@@ -2858,7 +2863,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Avis de décision et droit d’appel**
 
 - **(4)** Le directeur fait signifier à l’auteur de la violation la décision prise au titre du paragraphe (2) ou la pénalité imposée en vertu du paragraphe (3) et, dans le cas de la décision prise au titre du paragraphe (2), l’avise par la même occasion de son droit d’interjeter appel en vertu du paragraphe 73.21(1) dans le cas d’une violation grave ou très grave.
-> 2006, ch. 12, art. 40.
+> 2006, ch. 12, art. 40; 2017, ch. 20, art. 435(F).
 
 
 
