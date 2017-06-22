@@ -89,15 +89,17 @@ Sanctionnée sur le 19 juin 2014
 
 
 
-**Exemption  — [Loi sur les ponts](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-8.md)**
+**Exemption — [Loi sur les ponts](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-8.md)**
 
 **6** 
 
 - **(1)** La [Loi sur les ponts](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-8.md) ne s’applique pas au pont et à ses ouvrages connexes.
 
-**Exemption  — [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**Exemption — [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux droits fixés par règlement pris en vertu de l’alinéa 12b).
+- **(2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux droits fixés par règlement pris en vertu de l’alinéa 12b).
+> 2014, ch. 20, art. 375 « 6 »; 2017, ch. 20, art. 454.
+
 
 
 
