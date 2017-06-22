@@ -1686,10 +1686,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-**64.91** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to any fee that is fixed under a provincial law that is incorporated by reference in a regulation made under subsection 64.1(1).
-> 2014, c. 39, s. 231.
+**64.91** For greater certainty, the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to any fee that is fixed under a provincial law that is incorporated by reference in a regulation made under subsection 64.1(1).
+> 2014, c. 39, s. 231; 2017, c. 20, s. 454.
 
 
 
