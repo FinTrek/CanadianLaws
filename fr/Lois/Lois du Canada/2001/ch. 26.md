@@ -908,6 +908,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Accord — recouvrement des coûts**
+
+**36.01** 
+
+- **(1)** Le ministre des Transports peut conclure avec toute personne ou organisation un accord portant sur tout ce qui pourrait, en vertu de l’alinéa 35(1)g), faire l’objet d’un règlement fixant des droits.
+
+**Non-application**
+
+- **(2)** Lorsqu’un accord conclu en vertu du paragraphe (1) et un règlement pris en vertu de l’alinéa 35(1)g) ont le même objet, le règlement ne s’applique pas à la personne ou à l’organisation qui est partie à l’accord à l’égard de ce pourquoi un paiement est exigé au titre de l’accord.
+
+**Recouvrement**
+
+- **(3)** L’obligation qui incombe au ministre des Transports au titre d’un accord conclu en vertu du paragraphe (1) et à l’égard de laquelle des sommes sont exigibles de l’autre partie est réputée, aux fins de recouvrement de ces sommes, ne pas être une obligation lui incombant au titre de la présente loi.
+
+**Créances de Sa Majesté**
+
+- **(4)** Les sommes exigibles au titre de l’accord conclu en vertu du paragraphe (1) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+
+**Dépense**
+
+- **(5)** Le ministre des Transports peut dépenser les sommes perçues au titre d’un accord conclu en vertu du paragraphe (1) au cours de l’exercice où elles sont perçues ou de l’exercice suivant.
+> 2017, ch. 20, art. 316.
+
+
+
+
+
 **Services rendus par des tiers**
 
 **36.1** 
@@ -920,12 +947,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pas des fonds publics**
 
-- **(2)** Sauf disposition contraire des règlements, les droits visés au paragraphe (1) ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à leur égard.
+- **(2)** Sauf disposition contraire des règlements, les droits visés au paragraphe (1) ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas à leur égard.
 
 **Non-application de certains règlements**
 
 - **(3)** Sauf disposition contraire des règlements, les règlements pris en vertu de l’alinéa 35(1)g) ne s’appliquent pas à l’égard de la prestation, par une personne ou organisation qui ne fait pas partie de l’administration publique fédérale, de l’un ou l’autre des services visés aux alinéas (1)a) à d) dans l’exercice, aux termes d’un accord ou d’un arrangement conclu par le ministre des Transports en vertu de l’alinéa 10(1)c), d’attributions prévues sous le régime de la présente loi.
-> 2012, ch. 31, art. 161.
+> 2012, ch. 31, art. 161; 2017, ch. 20, art. 454.
 
 
 
