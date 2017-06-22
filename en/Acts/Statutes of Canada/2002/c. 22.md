@@ -1426,7 +1426,7 @@ where
 **58.1** The following definitions apply in this Part.
 
 ***adjustment day*** means
-- **(a)** February 12, 2014; or
+- **(a)** March 23, 2017; or
 - **(b)** in the case of an inflationary adjusted year, December 1 of that year. (*date d’ajustement*)
 
 ***inflationary adjusted year*** has the same meaning as in subsection 43.1(1). (*année inflationniste*)
@@ -1438,7 +1438,7 @@ where
 - **(b)** at which, in the ordinary course of the person’s business, the person regularly sells, otherwise than through vending machines, tobacco products to consumers, within the meaning of section 123 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), attending at the shop or store; and
 - **(c)** in respect of which separate records are maintained. (*établissement de détail distinct*)
 
-***taxed cigarettes*** of a person means cigarettes in respect of which duty has been imposed under section 42 before February 12, 2014 at the rate set out in paragraph 1(b) of Schedule 1, as that provision read on February 11, 2014, and that, at the beginning of February 12, 2014,
+***taxed cigarettes*** of a person means cigarettes in respect of which duty has been imposed under section 42 before March 23, 2017 at the rate set out in paragraph 1(a) of Schedule 1, as it read on March 22, 2017, and that, at the beginning of March 23, 2017,
 - **(a)** were owned by that person for sale in the ordinary course of a business of the person;
 - **(b)** were not held in a vending machine; and
 - **(c)** were not relieved from that duty under this Act. (*cigarettes imposées*)
@@ -1446,17 +1446,17 @@ where
 ***taxed tobacco***[Repealed, 2014, c. 20, s. 69]
 
 ***unit***[Repealed, 2014, c. 20, s. 69]
-> 2006, c. 4, s. 34; 2007, c. 35, s. 197; 2014, c. 20, s. 69.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 197; 2014, c. 20, s. 69; 2017, c. 20, s. 45.
 
 
 
 
 
-**Imposition of tax  —  2014 increase**
+**Imposition of tax — 2017 increase**
 
 **58.2** 
 
-- **(1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of February 12, 2014 at the rate of $0.02015 per cigarette.
+- **(1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of March 23, 2017 at the rate of $0.00265 per cigarette.
 
 **Imposition of tax  — inflationary adjusted years**
 
@@ -1479,7 +1479,7 @@ where
 **Rounding**
 
 - **(3)** The amount determined under paragraph (2)(a) or (b) is to be rounded to the nearest one-hundred-thousandth or, if the amount is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 198; 2014, c. 20, s. 70.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 198; 2014, c. 20, s. 70; 2017, c. 20, s. 46.
 
 
 
@@ -1508,13 +1508,13 @@ where
 **58.5** 
 
 - **(1)** Every person liable to pay tax under this Part shall file a return with the Minister in the prescribed form and manner on or before,
-	- **(a)** in the case of the tax imposed under subsection 58.2(1), April 30, 2014; or
+	- **(a)** in the case of the tax imposed under subsection 58.2(1), May 31, 2017; or
 	- **(b)** in any other case, the last day of the month following December of an inflationary adjusted year.
 
 **Separate returns**
 
 - **(2)** A person authorized under subsection 239(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) to file separate returns in respect of a separate branch or division may file separate returns under this Part in respect of that branch or division.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 200; 2014, c. 20, s. 71.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 200; 2014, c. 20, s. 71; 2017, c. 20, s. 47.
 
 
 
@@ -1525,7 +1525,7 @@ where
 **58.6** 
 
 - **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before
-	- **(a)** in the case of the tax imposed under subsection 58.2(1), April 30, 2014; or
+	- **(a)** in the case of the tax imposed under subsection 58.2(1), May 31, 2017; or
 	- **(b)** in any other case, the last day of the month following December of an inflationary adjusted year.
 
 **Minimum interest**
@@ -1537,7 +1537,7 @@ where
 - **(3)** The Minister may at any time extend in writing the time for filing a return, or paying the tax payable, under this Part and, where the Minister so extends the time,
 	- **(a)** the return shall be filed or tax payable shall be paid within the time as so extended; and
 	- **(b)** interest is payable under section 170 as if the time had not been extended.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 201; 2014, c. 20, s. 72.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 201; 2014, c. 20, s. 72; 2017, c. 20, s. 48.
 
 
 
@@ -2391,6 +2391,54 @@ where
 
 
 
+**Definitions**
+
+**123.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***inflationary adjusted year*** means 2018 and every year after that year. (*année inflationniste*)
+
+***reference year*** means a 12-month period that begins on April 1 of a year and ends on March 31 of the following year. (*année de référence*)
+
+**Annual adjustments**
+
+- **(2)** Each rate of duty set out in Schedule 4 applicable in respect of a litre of absolute ethyl alcohol or in respect of a litre of spirits is to be adjusted on April 1 of an inflationary adjusted year so that the rate is equal to the greater of
+	- **(a)** the rate determined by the formula
+```
+A × B
+```
+where
+- **A** is the rate of duty applicable to the litre of absolute ethyl alcohol or the litre of spirits, as the case may be, on March 31 of the inflationary adjusted year, and
+- **B** is the amount, rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth, determined by the formula
+```
+C/D
+```
+where
+- **C** is the Consumer Price Index for the 12-month period ending on September 30 of the particular year preceding the inflationary adjusted year, and
+- **D** is the Consumer Price Index for the 12-month period ending on September 30 of the year preceding the particular year, and
+	- **(b)** the rate of duty referred to in the description of A in paragraph (a).
+
+**Rounding**
+
+- **(3)** The adjusted rate determined under subsection (2) is to be rounded to the nearest one-thousandth or, if the adjusted rate is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+
+**Consumer Price Index**
+
+- **(4)** In this section, the Consumer Price Index for any 12-month period is the result arrived at by
+	- **(a)** aggregating the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that period;
+	- **(b)** dividing the aggregate obtained under paragraph (a) by 12; and
+	- **(c)** rounding the result obtained under paragraph (b) to the nearest one-thousandth or, if the result obtained is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+
+**Application of adjusted rate**
+
+- **(5)** If duties on spirits are imposed in a reference year but become payable in another reference year that begins in an inflationary adjusted year, those duties are determined at the rate of duty as adjusted under subsection (2) on the first day of the other reference year.
+> 2017, c. 20, s. 49.
+
+
+
+
+
 **Duty payable when packaged**
 
 **124** 
@@ -2593,6 +2641,54 @@ where
 
 - **(5)** If an excise warehouse licensee becomes liable under section 140 for duty on the wine, the person required under subsection (4) to pay the duty ceases to be liable to pay it.
 > 2002, c. 22, s. 135; 2007, c. 2, s. 57, c. 18, s. 100.
+
+
+
+
+
+**Definitions**
+
+**135.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***inflationary adjusted year*** means 2018 and every year after that year. (*année inflationniste*)
+
+***reference year*** means a 12-month period that begins on April 1 of a year and ends on March 31 of the following year. (*année de référence*)
+
+**Annual adjustments**
+
+- **(2)** Each rate of duty set out in Schedule 6 applicable in respect of a litre of wine is to be adjusted on April 1 of an inflationary adjusted year so that the rate is equal to the greater of
+	- **(a)** the rate determined by the formula
+```
+A × B
+```
+where
+- **A** is the rate of duty applicable to the litre on March 31 of the inflationary adjusted year, and
+- **B** is the amount, rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth, determined by the formula
+```
+C/D
+```
+where
+- **C** is the Consumer Price Index for the 12-month period ending on September 30 of the particular year preceding the inflationary adjusted year, and
+- **D** is the Consumer Price Index for the 12-month period ending on September 30 of the year preceding the particular year, and
+	- **(b)** the rate of duty referred to in the description of A in paragraph (a).
+
+**Rounding**
+
+- **(3)** The adjusted rate determined under subsection (2) is to be rounded to the nearest one-thousandth or, if the adjusted rate is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+
+**Consumer Price Index**
+
+- **(4)** In this section, the Consumer Price Index for any 12-month period is the result arrived at by
+	- **(a)** aggregating the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that period;
+	- **(b)** dividing the aggregate obtained under paragraph (a) by 12; and
+	- **(c)** rounding the result obtained under paragraph (b) to the nearest one-thousandth or, if the result obtained is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
+
+**Application of adjusted rate**
+
+- **(5)** If duties on wine are imposed in a reference year but become payable in another reference year that begins in an inflationary adjusted year, those duties are determined at the rate of duty as adjusted under subsection (2) on the first day of the other reference year.
+> 2017, c. 20, s. 50.
 
 
 
@@ -4545,10 +4641,10 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.21 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.21 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.26 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.41 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.22 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.22 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.27 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.42 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
@@ -4557,10 +4653,10 @@ It includes a person who is appointed to exercise the authority of a creditor un
 	- **(a)** the total of
 		- **(i)** $0.32 multiplied by the number of cigarettes to which the offence relates,
 		- **(ii)** $0.32 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.39 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.82 multiplied by the number of cigars to which the offence relates, and
+		- **(iii)** $0.40 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.84 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54; 2014, c. 20, s. 76.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54; 2014, c. 20, s. 76; 2017, c. 20, s. 51.
 
 
 
@@ -4578,8 +4674,8 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $11.696 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
-		- **(ii)** $0.62 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $11.930 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
+		- **(ii)** $0.63 multiplied by the number of litres of wine to which the offence relates, and
 		- **(iii)** $10 multiplied by the number of litres of specially denatured alcohol or a restricted formulation to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
@@ -4587,11 +4683,11 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $23.392 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
-		- **(ii)** $1.24 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $23.860 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
+		- **(ii)** $1.26 multiplied by the number of litres of wine to which the offence relates, and
 		- **(iii)** $20 multiplied by the number of litres of specially denatured alcohol or a restricted formulation to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 217; 2006, c. 4, s. 44; 2007, c. 18, s. 118.
+> 2002, c. 22, s. 217; 2006, c. 4, s. 44; 2007, c. 18, s. 118; 2017, c. 20, s. 52.
 
 
 
@@ -4609,18 +4705,18 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $23.392 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
-		- **(ii)** $1.24 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $23.860 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
+		- **(ii)** $1.26 multiplied by the number of litres of wine to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $35.088 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
-		- **(ii)** $1.86 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $35.790 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
+		- **(ii)** $1.89 multiplied by the number of litres of wine to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 218; 2006, c. 4, s. 45; 2007, c. 18, s. 119.
+> 2002, c. 22, s. 218; 2006, c. 4, s. 45; 2007, c. 18, s. 119; 2017, c. 20, s. 53.
 
 
 
@@ -4934,10 +5030,10 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **Contravention of subsection 50(5)**
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
-- **(a)** $0.40 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.40 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $502.19 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55; 2014, c. 20, s. 78.
+- **(a)** $0.41 per cigarette that was removed in contravention of that subsection,
+- **(b)** $0.41 per tobacco stick that was removed in contravention of that subsection, and
+- **(c)** $508.81 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55; 2014, c. 20, s. 78; 2017, c. 20, s. 54.
 
 
 
@@ -4952,8 +5048,8 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 **Contravention of section 72**
 
-**242** Every person who contravenes section 72 is liable to a penalty equal to $1.24 per litre of wine to which the contravention relates.
-> 2002, c. 22, s. 242; 2006, c. 4, s. 46.
+**242** Every person who contravenes section 72 is liable to a penalty equal to $1.26 per litre of wine to which the contravention relates.
+> 2002, c. 22, s. 242; 2006, c. 4, s. 46; 2017, c. 20, s. 55.
 
 
 
@@ -4965,14 +5061,14 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 - **(1)** Unless section 239, 241, 242 or 243.1 or subsection (2) applies, every person who contravenes section 73, 74 or 90 is liable to a penalty equal to
 	- **(a)** if the contravention relates to spirits, 200% of the duty that was imposed on the spirits; or
-	- **(b)** if the contravention relates to wine, $1.24 per litre of that wine.
+	- **(b)** if the contravention relates to wine, $1.26 per litre of that wine.
 
 **Contravention of section 73 or 90 by licensed user**
 
 - **(2)** Every licensed user who exports, gives possession of or takes for use alcohol in contravention of section 73 or 90 is liable to a penalty equal to
 	- **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
-	- **(b)** if the contravention relates to wine, $0.62 per litre of that wine.
-> 2002, c. 22, s. 243; 2006, c. 4, s. 47; 2007, c. 18, s. 124.
+	- **(b)** if the contravention relates to wine, $0.63 per litre of that wine.
+> 2002, c. 22, s. 243; 2006, c. 4, s. 47; 2007, c. 18, s. 124; 2017, c. 20, s. 56.
 
 
 
@@ -4982,8 +5078,8 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 **243.1** Every person who contravenes section 76, 89 or 91 is liable to a penalty equal to
 - **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
-- **(b)** if the contravention relates to wine, $0.62 per litre of that wine.
-> 2007, c. 18, s. 124.
+- **(b)** if the contravention relates to wine, $0.63 per litre of that wine.
+> 2007, c. 18, s. 124; 2017, c. 20, s. 57.
 
 
 
@@ -6766,7 +6862,7 @@ However, nothing in this subsection limits the liability of the transferor under
 ## Rates of Duty on Tobacco Products
 **1** Cigarettes: for each five cigarettes or fraction of five cigarettes contained in any package,
 
-**(a)** $0.52575; or
+**(a)** $0.53900; or
 
 
 
@@ -6777,7 +6873,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **2** Tobacco sticks: per stick,
 
-**(a)** $0.10515; or
+**(a)** $0.10780; or
 
 
 
@@ -6788,7 +6884,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **3** Manufactured tobacco other than cigarettes and tobacco sticks: per 50 grams or fraction of 50 grams contained in any package,
 
-**(a)** $6.57188; or
+**(a)** $6.73750; or
 
 
 
@@ -6799,7 +6895,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **4** Cigars: per 1,000 cigars,
 
-**(a)** $22.88559; or
+**(a)** $23.46235; or
 
 
 
@@ -6811,7 +6907,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56; 2014, c. 20, s. 79.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56; 2014, c. 20, s. 79; 2017, c. 20, ss. 58 to 61.
 
 
 
@@ -6823,7 +6919,7 @@ Cigars: per cigar, the greater of
 
 **(a)** either
 
-**(i)** $0.08226, or
+**(i)** $0.08434, or
 
 
 
@@ -6835,7 +6931,7 @@ Cigars: per cigar, the greater of
 
 **(b)** the amount obtained by multiplying the sale price, in the case of cigars manufactured in Canada, or the duty-paid value, in the case of imported cigars, by the following percentage:
 
-**(i)** if the rate referred to in subparagraph (a)(i) has not been adjusted under subsection 43.1(2), 82%, or
+**(i)** if the rate referred to in subparagraph (a)(i) has not been adjusted under subsection 43.1(2), 84%, or
 
 
 
@@ -6851,7 +6947,7 @@ where
 
 
 
-> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208; 2014, c. 20, s. 80.
+> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208; 2014, c. 20, s. 80; 2017, c. 20, ss. 62, 63.
 
 
 
@@ -6945,15 +7041,31 @@ where
 
 
 ### **SCHEDULE 4** 
-**(Sections 122 and 123)**
+**(Sections 122, 123, 123.1 and 159.1)**
 ## Rates of Duty on Spirits
-**1** Spirits: $11.696 per litre of absolute ethyl alcohol contained in the spirits.
+**1** Spirits: per litre of absolute ethyl alcohol contained in the spirits,
+
+**(a)** $11.930; or
 
 
-**2** Spirits containing not more than 7% absolute ethyl alcohol by volume: $0.295 per litre of spirits.
+
+**(b)** if the rate referred to in paragraph (a) has been adjusted under subsection 123.1(2), the adjusted rate.
 
 
-> 2002, c. 22, Sch. 4; 2006, c. 4, s. 48.
+
+
+**2** Spirits containing not more than 7% absolute ethyl alcohol by volume: per litre,
+
+**(a)** $0.301; or
+
+
+
+**(b)** if the rate referred to in paragraph (a) has been adjusted under subsection 123.1(2), the adjusted rate.
+
+
+
+
+> 2002, c. 22, Sch. 4; 2006, c. 4, s. 48; 2017, c. 20, s. 64.
 
 
 
@@ -6972,24 +7084,48 @@ $0.12 per litre of absolute ethyl alcohol contained in the spirits.
 
 
 ### **SCHEDULE 6** 
-**(Sections 134 and 135)**
+**(Sections 134, 135, 135.1 and 159.1)**
 ## Rates of Duty on Wine
 Wine:
 
-**(a)** in the case of wine that contains not more than 1.2% of absolute ethyl alcohol by volume, $0.0205 per litre;
+**(a)** in the case of wine that contains not more than 1.2% of absolute ethyl alcohol by volume, per litre,
+
+**(i)** $0.0209, or
 
 
 
-**(b)** in the case of wine that contains more than 1.2% of absolute ethyl alcohol by volume but not more than 7% of absolute ethyl alcohol by volume, $0.295 per litre; and
-
-
-
-**(c)** in the case of wine that contains more than 7% of absolute ethyl alcohol by volume, $0.62 per litre.
+**(ii)** if the rate referred to in subparagraph (i) has been adjusted under subsection 135.1(2), the adjusted rate;
 
 
 
 
-> 2002, c. 22, Sch. 6; 2006, c. 4, s. 49.
+
+**(b)** in the case of wine that contains more than 1.2% of absolute ethyl alcohol by volume but not more than 7% of absolute ethyl alcohol by volume, per litre,
+
+**(i)** $0.301, or
+
+
+
+**(ii)** if the rate referred to in subparagraph (i) has been adjusted under subsection 135.1(2), the adjusted rate; and
+
+
+
+
+
+**(c)** in the case of wine that contains more than 7% of absolute ethyl alcohol by volume, per litre,
+
+**(i)** $0.63, or
+
+
+
+**(ii)** if the rate referred to in subparagraph (i) has been adjusted under subsection 135.1(2), the adjusted rate.
+
+
+
+
+
+
+> 2002, c. 22, Sch. 6; 2006, c. 4, s. 49; 2017, c. 20, s. 65.
 
 
 
