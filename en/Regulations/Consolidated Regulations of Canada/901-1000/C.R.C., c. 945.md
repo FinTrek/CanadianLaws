@@ -19377,6 +19377,55 @@ exceeds
 
 
 
+### Prescribed Non-reporting Financial Institution
+
+
+**9005** For the purposes of the definition non-reporting financial institution in subsection 270(1) of the Act, the following entities are prescribed:
+- **(a)** a labour-sponsored venture capital corporation as prescribed in section 6701;
+- **(b)** a registered retirement savings plan;
+- **(c)** a registered retirement income fund;
+- **(d)** a pooled registered pension plan;
+- **(e)** a deferred profit sharing plan;
+- **(f)** a registered disability savings plan;
+- **(g)** a registered education savings plan;
+- **(h)** a registered pension plan;
+- **(i)** a trust governed by a registered pension plan;
+- **(j)** a trust described in paragraph 149(1)(o.4) of the Act, if all of the interests in the trust as a beneficiary are held by one or more registered pension plans;
+- **(k)** a corporation described in clause 149(1)(o.1)(i)(A) or subparagraph 149(1)(o.1)(ii) or (o.2)(i) of the Act;
+- **(l)** a corporation described in any of subparagraphs 149(1)(o.2)(ii) to (iii) of the Act, if all of the shares of the corporation are held by
+	- **(i)** one or more registered pension plans or trusts governed by registered pension plans,
+	- **(ii)** one or more trusts described in paragraph (j), or
+	- **(iii)** one or more corporations described in this paragraph or paragraph (k);
+- **(m)** a trust, if all of the interests in the trust as a beneficiary are held by one or more plans, trusts or corporations described in paragraph (i), (k) or (l);
+- **(n)** a central cooperative credit society, as defined in section 2 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) and whose accounts are maintained for member financial institutions; and
+- **(o)** a TFSA.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2016, c. 12, s. 83.
+
+
+
+
+
+### Prescribed Excluded Accounts
+
+
+**9006** For the purposes of the definition excluded account in subsection 270(1) of the Act, the following accounts are prescribed:
+- **(a)** a registered retirement savings plan;
+- **(b)** a registered retirement income fund;
+- **(c)** a pooled registered pension plans;
+- **(d)** a registered pension plan;
+- **(e)** a registered disability savings plan;
+- **(f)** a registered education savings plan;
+- **(g)** a deferred profit sharing plan;
+- **(h)** a net income stabilization account, including a NISA Fund No. 2;
+- **(i)** an eligible funeral arrangement;
+- **(j)** a dormant account if the balance or value of the account does not exceed 1,000 USD; and
+- **(k)** a TFSA.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2016, c. 12, s. 83.
+
+
+
+
+
 **PART XCI** 
 ## Financial Institutions — Income from Specified Debt Obligations
 
