@@ -39,11 +39,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
+***Canada child benefit*** means a deemed overpayment under Subdivision A.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*allocation canadienne pour enfants*) 
+
 ***Canada Learning Bond*** means the bond payable or paid under section 6. (*bon d’études*)
 
 ***CES grant*** means a Canada Education Savings grant payable or paid under section 5 or under Part III.1 of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md), as it read immediately before the coming into force of section 19 of this Act. (*subvention pour l’épargne-études*)
 
-***child tax benefit*** means a deemed overpayment under Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*prestation fiscale pour enfants*)
+***child tax benefit***[Repealed, 2016, c. 12, s. 107]
 
 ***first threshold*** for a particular year means the dollar amount referred to in paragraph 117(2)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year. (*premier seuil*)
 
@@ -140,18 +142,18 @@ where
 - **(4)** The amount of a CES grant that may be paid for a particular year at any time is increased by the lesser of
 	- **(a)** the amount that is
 		- **(i)** 20% of the contribution, if the beneficiary
-			- **(A)** is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is the first threshold for the particular year or less, or
+			- **(A)** is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is the first threshold for the particular year or less, or
 			- **(B)** is a person in respect of whom a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) is payable for at least one month in the particular year, and
-		- **(ii)** 10% of the contribution, if the beneficiary is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is more than the first threshold for the particular year but not more than the second threshold for the particular year, and
+		- **(ii)** 10% of the contribution, if the beneficiary is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is more than the first threshold for the particular year but not more than the second threshold for the particular year, and
 	- **(b)** the amount by which
 		- **(i)** $100, in the case of a beneficiary referred to in subparagraph (a)(i), or
 		- **(ii)** $50, in the case of a beneficiary referred to in subparagraph (a)(ii)
 exceeds
 		- **(iii)** the total of all amounts paid under this subsection before that time in respect of contributions made in the particular year in respect of the beneficiary.
 
-**No determination for January**
+**Eligible individual — first month**
 
-- **(5)** If there has been no determination of eligibility for a child tax benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subsection (4) is the adjusted income used to determine the amount of a child tax benefit for the first month in the particular year in respect of which eligibility has been established.
+- **(5)** If there has been no determination of eligibility for a Canada child benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subsection (4) is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which eligibility has been established.
 
 **Beneficiary born in December**
 
@@ -159,11 +161,11 @@ exceeds
 
 **Change in care**
 
-- **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary’s primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual is the adjusted income used to determine the amount of a child tax benefit for the first month in the particular year in respect of which the individual’s eligibility for the child tax benefit has been established.
+- **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary’s primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which the individual’s eligibility for the Canada child benefit has been established.
 
 **Change in care in December**
 
-- **(6.2)** In applying subsection (6.1) in respect of a beneficiary for whom the individual becomes the beneficiary’s primary caregiver in December, the reference to “the first month in the particular year in respect of which the individual’s eligibility for the child tax benefit has been established” in that subsection is to be read as a reference to “January of the next year”.
+- **(6.2)** In applying subsection (6.1) in respect of a beneficiary for whom the individual becomes the beneficiary’s primary caregiver in December, the reference to “the first month in the particular year in respect of which the individual’s eligibility for the Canada child benefit has been established” in that subsection is to be read as a reference to “January of the next year”.
 
 **Designation**
 
@@ -186,7 +188,7 @@ exceeds
 **Lifetime cap**
 
 - **(10)** Not more than $7,200 in CES grants may be paid in respect of a beneficiary during their lifetime.
-> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31; 2011, c. 24, s. 148.
+> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31; 2011, c. 24, s. 148; 2016, c. 12, s. 108.
 
 
 
@@ -202,13 +204,43 @@ exceeds
 
 - **(2)** The amount of a Canada Learning Bond is equal to the sum of the following amounts:
 	- **(a)** $500 in respect of the first benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year, or is born during the benefit year or during the month immediately before it, and, for at least one month in that year,
-		- **(i)** is a qualified dependant of an eligible individual whose adjusted income, when used to determine the amount of a child tax benefit, results in that portion of a child tax benefit determined under the description of C in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) being more than $0, or
+		- **(i)** is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit was,
+			- **(A)** if the eligible individual has not more than three qualified dependants, less than or equal to the first threshold for the particular year in which the benefit year begins, or
+			- **(B)** if the eligible individual has more than three qualified dependants, less than the amount determined in accordance with subsection (2.1), or
 		- **(ii)** is a person in respect of whom a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) is payable, and
 	- **(b)** $100 in respect of any subsequent benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year and, for at least one month in that year, is a person to whom subparagraph (a)(i) or (ii) applies.
 
-**For greater certainty**
+**Formula**
 
-- **(2.1)** For greater certainty, a Canada Learning Bond is, other than for the purposes of section 14 of the [Canada Education Savings Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2005/151.md), not to be paid in respect of any beneficiary
+- **(2.1)** For the purposes of clause (2)(a)(i)(B), the amount is determined by the formula
+```
+A + [(B + C + (D × E))/Y]
+```
+where
+- **A** is the amount determined by the formula
+```
+F — (B/0.122)
+```
+where
+- **F** is the first threshold for the particular year in which the benefit year begins, and
+- **B** is $2,308.27,
+- **B** is $2,308.27,
+- **C** is $2,041.94,
+- **D** is $1,942.55,
+- **E** is the number of qualified dependants in excess of two, and
+- **Y** is 0.333.
+
+**Annual adjustment**
+
+- **(2.2)** The amounts expressed in dollars in subsection (2.1) are to be adjusted, as set out in section 117.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), for each particular year after 2016.
+
+**Adjustment for a benefit year**
+
+- **(2.3)** The amounts adjusted under subsection (2.2) that are to be used in respect of a benefit year are those amounts so adjusted for the particular year in which that benefit year begins.
+
+**Restriction**
+
+- **(2.4)** A Canada Learning Bond is, other than for the purposes of section 14 of the [Canada Education Savings Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2005/151.md), not to be paid in respect of any beneficiary
 	- **(a)** more than once in the beneficiary’s lifetime under paragraph 6(2)(a); and
 	- **(b)** more than once in respect of a benefit year under paragraph 6(2)(b).
 
@@ -261,7 +293,7 @@ exceeds
 
 **Restriction**
 
-- **(2)** Despite subsection (1), the Minister may not waive any requirement related to the determination of eligibility for a child tax benefit or for a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md).
+- **(2)** Despite subsection (1), the Minister may not waive any requirement related to the determination of eligibility for a Canada child benefit or for a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md).
 > 2004, c. 26, s. 9.1; 2016, c. 12, s. 110.
 
 
@@ -347,7 +379,13 @@ exceeds
 
 **Applications for benefit years before July 1, 2016**
 
-**14.1** The provisions of this Act, of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and of any regulations made under those Acts, as they read immediately before July 1, 2016, apply to an application for a Canada Learning Bond made in respect of any ***benefit year***, within the meaning of subsection 6(3) of this Act, before that date.
+**14.1** 
+
+- **(1)** The provisions of this Act, of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and of any regulations made under those Acts, as they read immediately before July 1, 2016, apply to an application for a Canada Learning Bond made in respect of any benefit year, within the meaning of subsection 6(3) of this Act, before that date.
+
+**Applications for benefit year 2016-2017**
+
+- **(2)** The provisions of this Act, of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and of any applicable regulations made under those Acts, as they read immediately before July 1, 2017, apply to an application for a Canada Learning Bond made in respect of the benefit year, within the meaning of subsection 6(3) of this Act, starting on July 1, 2016.
 > 2016, c. 12, s. 112.
 
 
