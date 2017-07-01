@@ -39,13 +39,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
+***allocation canadienne pour enfants*** S’entend d’un paiement en trop présumé au sens de la sous-section A.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*Canada child benefit*) 
+
 ***bon d’études*** Bon versé ou à verser aux termes de l’article 6. (*Canada Learning Bond*)
 
 ***deuxième seuil*** S’entend, pour une année donnée, du montant en dollars le plus élevé visé à l’alinéa 117(2)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année. (*second threshold*)
 
 ***premier seuil*** S’entend, pour une année donnée, du montant en dollars visé à l’alinéa 117(2)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année. (*first threshold*)
 
-***prestation fiscale pour enfants*** S’entend d’un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*child tax benefit*)
+***prestation fiscale pour enfants***[Abrogée, 2016, ch. 12, art. 107]
 
 ***responsable***
 - **a)** S’agissant du bénéficiaire qui est une personne à charge admissible, le particulier admissible à son égard;
@@ -136,28 +138,28 @@ où :
 
 - **(4)** Le montant de la subvention pour l’épargne-études pouvant être versée pour une année donnée est, au moment considéré, majoré de la moins élevée des sommes suivantes :
 	- **a)** selon le cas :
-		- **(i)** 20 % de la cotisation, si le bénéficiaire est soit une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année, le montant de la prestation fiscale pour enfants est égal ou inférieur au premier seuil pour l’année, soit une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année,
-		- **(ii)** 10 % de la cotisation, si le bénéficiaire est une personne à charge admissible d’un particulier admissible dont ce revenu modifié excède le premier seuil pour l’année mais est égal ou inférieur au deuxième seuil pour l’année;
+		- **(i)** 20 % de la cotisation, si le bénéficiaire est soit la personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année, le montant de l’allocation canadienne pour enfants est égal ou inférieur au premier seuil pour l’année, soit une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année,
+		- **(ii)** 10 % de la cotisation, si le bénéficiaire est la personne à charge admissible d’un particulier admissible dont ce revenu modifié excède le premier seuil pour l’année mais est égal ou inférieur au deuxième seuil pour l’année;
 	- **b)** l’excédent éventuel de la somme visée aux sous-alinéas (i) ou (ii) sur la somme visée au sous-alinéa (iii) :
 		- **(i)** 100 $, s’il s’agit du bénéficiaire visé au sous-alinéa a)(i),
 		- **(ii)** 50 $, s’il s’agit du bénéficiaire visé au sous-alinéa a)(ii),
 		- **(iii)** le total des sommes versées avant ce moment au titre de la majoration prévue au présent paragraphe à l’égard des cotisations versées au cours de l’année pour le bénéficiaire.
 
-**Aucune détermination pour le mois de janvier**
+**Particulier admissible : premier mois**
 
-- **(5)** Si aucune détermination de l’admissibilité à la prestation fiscale pour enfants n’a été faite pour le mois de janvier de l’année donnée, le revenu modifié utilisé pour l’application du paragraphe (4) est celui utilisé pour déterminer le montant de la prestation pour le premier mois de l’année donnée pour lequel le particulier y est admissible.
+- **(5)** Si aucune détermination d’admissibilité à l’allocation canadienne pour enfants n’a été faite pour le mois de janvier de l’année donnée, le revenu modifié utilisé pour l’application du paragraphe (4) est celui utilisé pour déterminer le montant de l’allocation pour le premier mois de l’année donnée pour lequel le particulier y est admissible.
 
 **Bénéficiaire né en décembre**
 
-- **(6)** Pour l’application du paragraphe (5) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel le particulier est admissible à la prestation vaut mention du mois de janvier de l’année suivante.
+- **(6)** Pour l’application du paragraphe (5) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel le particulier est admissible à l’allocation vaut mention du mois de janvier de l’année suivante.
 
 **Changement dans les conditions de garde**
 
-- **(6.1)** Si un particulier qui n’est pas le responsable d’un bénéficiaire pour le mois de janvier d’une année donnée le devient après celui-ci, le revenu modifié utilisé pour l’application du paragraphe (4) à l’égard des cotisations versées au fiduciaire de la fiducie qu’il a désignée est celui utilisé pour déterminer le montant de la prestation fiscale pour enfants pour le premier mois de l’année donnée pour lequel il y est admissible.
+- **(6.1)** Si un particulier qui n’est pas le responsable d’un bénéficiaire pour le mois de janvier d’une année donnée le devient après celui-ci, le revenu modifié utilisé pour l’application du paragraphe (4) à l’égard des cotisations versées au fiduciaire de la fiducie qu’il a désignée est celui utilisé pour déterminer le montant de l’allocation canadienne pour enfants pour le premier mois de l’année donnée pour lequel il y est admissible.
 
 **Changement dans les conditions en décembre**
 
-- **(6.2)** Pour l’application du paragraphe (6.1) au bénéficiaire dont le particulier devient responsable en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel il est admissible à la prestation vaut mention du mois de janvier de l’année suivante.
+- **(6.2)** Pour l’application du paragraphe (6.1) au bénéficiaire dont le particulier devient responsable en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel il est admissible à l’allocation vaut mention du mois de janvier de l’année suivante.
 
 **Désignation**
 
@@ -180,7 +182,7 @@ où :
 **Maximum**
 
 - **(10)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 7 200 $ au titre de la subvention pour l’épargne-études au cours de sa vie.
-> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31; 2011, ch. 24, art. 148.
+> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31; 2011, ch. 24, art. 148; 2016, ch. 12, art. 108.
 
 
 
@@ -194,15 +196,45 @@ où :
 
 **Montant du bon**
 
-- **(2)** Le montant du bon d’études est égal au total des sommes suivantes :
+- **(2)** Le montant du bon d’études est égal au total des sommes suivantes :
 	- **a)** 500 $ à l’égard de la première année de référence au cours de laquelle le bénéficiaire né au cours de cette année ou au cours du dernier mois de l’année de référence précédente ou âgé de moins de quinze ans au début de ce mois est, pour au moins l’un des mois de l’année :
-		- **(i)** soit une personne à charge admissible d’un particulier admissible dont le revenu modifié, lorsqu’il est utilisé pour calculer la prestation fiscale pour enfants, porte la portion de la prestation fiscale pour enfants déterminée selon l’élément C de la formule figurant au paragraphe 122.61(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) au-delà de 0 $,
+		- **(i)** soit la personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour le calcul de l’allocation canadienne pour enfants est :
+			- **(A)** dans le cas du particulier admissible qui a au plus trois personnes à charge admissibles, égal ou inférieur au premier seuil pour l’année donnée au cours de laquelle l’année de référence commence,
+			- **(B)** dans le cas du particulier admissible qui a au moins quatre personnes à charge admissibles, inférieur au montant calculé conformément au paragraphe (2.1),
 		- **(ii)** soit une personne pour qui est à verser une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md);
 	- **b)** 100 $ à l’égard de chaque année de référence postérieure au cours de laquelle le bénéficiaire âgé de moins de quinze ans au début du dernier mois de l’année de référence précédente est, pour au moins l’un des mois de l’année, une personne à l’égard de laquelle s’appliquent les sous-alinéas a)(i) ou (ii).
 
-**Précision**
+**Formule**
 
-- **(2.1)** Il est entendu que, sauf pour l’application de l’article 14 du Règlement sur l’épargne-études, il ne peut être versé à l’égard d’un bénéficiaire :
+- **(2.1)** Pour l’application de la division (2)a)(i)B), le montant est calculé selon la formule suivante :
+```
+A + [(B + C + (D × E))/Y]
+```
+où :
+- **A** représente le montant obtenu par la formule suivante :
+```
+F — (B/0,122)
+```
+où :
+- **F** représente le premier seuil pour l’année donnée au cours de laquelle l’année de référence commence,
+- **B** 2 308,27 $,
+- **B** 2 308,27 $,
+- **C** 2 041,94 $,
+- **D** 1 942,55 $,
+- **E** le nombre de personnes à charge admissibles excédant deux,
+- **Y** 0,333.
+
+**Rajustement annuel**
+
+- **(2.2)** Les montants exprimés en dollars visés au paragraphe (2.1) sont rajustés conformément à l’article 117.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) pour chacune des années données postérieures à 2016.
+
+**Rajustement pour une année de référence**
+
+- **(2.3)** Les montants rajustés en application du paragraphe (2.2) qui s’appliquent à une année de référence sont ceux rajustés pour l’année donnée au cours de laquelle cette année de référence commence.
+
+**Restriction**
+
+- **(2.4)** Sauf pour l’application de l’article 14 du Règlement sur l’épargne-études, il ne peut être versé à l’égard d’un bénéficiaire :
 	- **a)** un bon d’études en vertu de l’alinéa 6(2)a) plus d’une fois au cours de sa vie;
 	- **b)** un bon d’études en vertu de l’alinéa 6(2)b) plus d’une fois à l’égard d’une année de référence.
 
@@ -255,7 +287,7 @@ où :
 
 **Restriction**
 
-- **(2)** Il ne peut toutefois renoncer aux exigences liées à la détermination d’admissibilité à la prestation fiscale pour enfants ou à l’allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md).
+- **(2)** Il ne peut toutefois renoncer aux exigences liées à la détermination d’admissibilité à l’allocation canadienne pour enfants ou à l’allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md).
 > 2004, ch. 26, art. 9.1; 2016, ch. 12, art. 110.
 
 
@@ -341,7 +373,13 @@ où :
 
 **Demandes pour les années de référence antérieures au 1<sup>er</sup> juillet 2016**
 
-**14.1** Les dispositions de la présente loi et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ainsi que les dispositions des règlements pris en vertu de ces lois, dans leur version antérieure au 1<sup>er</sup> juillet 2016, s’appliquent à la demande de bon d’études présentée à l’égard d’une ***année de référence***, au sens du paragraphe 6(3) de la présente loi, précédant cette date.
+**14.1** 
+
+- **(1)** Les dispositions de la présente loi et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ainsi que les dispositions des règlements pris en vertu de ces lois, dans leur version antérieure au 1<sup>er</sup> juillet 2016, s’appliquent à la demande de bon d’études présentée à l’égard d’une année de référence, au sens du paragraphe 6(3) de la présente loi, précédant cette date.
+
+**Demandes pour l’année de référence 2016-2017**
+
+- **(2)** Les dispositions de la présente loi et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ainsi que les dispositions des règlements pris en vertu de ces lois, dans leur version antérieure au 1<sup>er</sup> juillet 2017, s’appliquent à la demande de bon d’études présentée à l’égard de l’année de référence, au sens du paragraphe 6(3) de la présente loi, commençant le 1<sup>er</sup> juillet 2016.
 > 2016, ch. 12, art. 112.
 
 
