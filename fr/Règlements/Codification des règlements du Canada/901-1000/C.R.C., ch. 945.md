@@ -19278,6 +19278,55 @@ sur le total des montants représentant chacun :
 
 
 
+### Institutions financières non déclarantes
+
+
+**9005** Pour l’application de la définition de ***institution financière non déclarante***, au paragraphe 270(1) de la Loi, les entités ci-après sont visées :
+- **a)** une société à capital de risque de travailleurs visée à l’article 6701;
+- **b)** un régime enregistré d’épargne-retraite;
+- **c)** un fonds enregistré de revenu de retraite;
+- **d)** un régime de pension agréé collectif;
+- **e)** un régime de participation différée aux bénéfices;
+- **f)** un régime enregistré d’épargne-invalidité;
+- **g)** un régime enregistré d’épargne-études;
+- **h)** un régime de pension agréé;
+- **i)** une fiducie régie par un régime de pension agréé;
+- **j)** une fiducie visée à l’alinéa 149(1)o.4) de la Loi, si la totalité des participations à titre de bénéficiaire de la fiducie sont détenues par un ou plusieurs régimes de pension agréés;
+- **k)** une société visée à la division 149(1)o.1)(i)(A) ou aux sous-alinéas 149(1)o.1)(ii) ou o.2)(i) de la Loi;
+- **l)** une société visée aux sous-alinéas 149(1)o.2)(ii) à (iii) de la Loi, si la totalité des actions de la société sont détenues, selon le cas :
+	- **(i)** par un ou plusieurs régimes de pension agréés ou fiducies régis par des régimes de pension agréés,
+	- **(ii)** une ou plusieurs fiducies visées à l’alinéa j),
+	- **(iii)** une ou plusieurs sociétés visées au présent alinéa ou à l’alinéa k);
+- **m)** une fiducie, si la totalité des participations à titre de bénéficiaire de la fiducie sont détenues par un ou plusieurs régimes, fiducies ou sociétés visés aux alinéas i), k) ou l);
+- **n)** une ***coopérative de crédit centrale***, au sens de l’article 2 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), dont les comptes sont tenus pour le compte d’institutions financières membres;
+- **o)** un CELI.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2016, ch. 12, art. 83.
+
+
+
+
+
+### Comptes exclus
+
+
+**9006** Pour l’application de la définition de ***compte exclu*** au paragraphe 270(1) de la Loi, les comptes ci-après sont visés :
+- **a)** un régime enregistré d’épargne-retraite;
+- **b)** un fonds enregistré de revenu de retraite;
+- **c)** un régime de pension agréé collectif;
+- **d)** un régime de pension agréé;
+- **e)** un régime enregistré d’épargne-invalidité;
+- **f)** un régime enregistré d’épargne-études;
+- **g)** un régime de participation différée aux bénéfices;
+- **h)** un compte de stabilisation du revenu net, y compris un second fonds du compte de stabilisation du revenu net;
+- **i)** un arrangement de services funéraires;
+- **j)** un compte inactif dont le solde ou la valeur n’excède pas 1 000 USD;
+- **k)** un CELI.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2016, ch. 12, art. 83.
+
+
+
+
+
 **PARTIE XCI** 
 ## Institutions financières — revenu provenant de titres de créance déterminés
 
