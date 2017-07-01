@@ -43,18 +43,7 @@ Sanctionnée sur le 1 janvier 1993
 
 
 
-
-**Interprétation**
-
-**2.1** 
-
-- **(1)** Sauf pour l’application des articles 2, 3, 3.1 et 8, l’allocation spéciale comprend le supplément visé à l’article 3.1.
-
-**Interprétation**
-
-- **(2)** En ce qui concerne le service du supplément visé à l’article 3.1, la mention « janvier 1993 » au paragraphe 4(2) vaut mention de « juillet 2006 ».
-> 2006, ch. 4, art. 169.
-
+**2.1** [Abrogé, 2016, ch. 7, art. 50]
 
 
 
@@ -81,22 +70,7 @@ Sanctionnée sur le 1 janvier 1993
 
 
 
-
-**Versement mensuel — supplément**
-
-**3.1** 
-
-- **(1)** Est ajouté à l’allocation spéciale mensuelle versée en vertu de l’article 3 pour un enfant qui, au début du mois donné, est âgé :
-	- **a)** de moins de six ans :
-		- **(i)** un supplément de 100 $, pour chaque mois antérieur au 1<sup>er</sup> janvier 2015,
-		- **(ii)** un supplément de 160 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015 mais avant le 1<sup>er</sup> juillet 2016;
-	- **b)** de six ans ou plus, un supplément de 60 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015 mais avant le 1<sup>er</sup> juillet 2016.
-
-**Prélèvement sur le Trésor**
-
-- **(2)** Le supplément est prélevé sur le Trésor.
-> 2006, ch. 4, art. 170; 2015, ch. 36, art. 38; 2016, ch. 7, art. 51.
-
+**3.1** [Abrogé, 2016, ch. 7, art. 51]
 
 
 
