@@ -45,18 +45,7 @@ Assented to on 1 January 1993
 
 
 
-
-**Interpretation**
-
-**2.1** 
-
-- **(1)** Except for the purposes of sections 2, 3, 3.1 and 8, the expression “special allowance” is to be read as including the special allowance supplement described in section 3.1.
-
-**Interpretation**
-
-- **(2)** For the purposes of the payment of a special allowance supplement under section 3.1, the reference to “January 1993” in paragraph 4(2)(c) is to be read as a reference to “July 2006”.
-> 2006, c. 4, s. 169.
-
+**2.1** [Repealed, 2016, c. 7, s. 50]
 
 
 
@@ -84,22 +73,7 @@ and who resides in an institution, a group foster home, the private home of fost
 
 
 
-
-**Monthly special allowance supplement**
-
-**3.1** 
-
-- **(1)** There shall be added to a special allowance that is payable under section 3, for a child who, at the beginning of the month for which that allowance is payable,
-	- **(a)** is under six years of age,
-		- **(i)** a special allowance supplement in the amount of $100, in respect of every month before January 1, 2015, or
-		- **(ii)** a special allowance supplement in the amount of $160, in respect of every month as of January 1, 2015 but before July 1, 2016; and
-	- **(b)** is six years of age or older, a special allowance supplement in the amount of $60, in respect of every month as of January 1, 2015 but before July 1, 2016.
-
-**Payment out of Consolidated Revenue Fund**
-
-- **(2)** The supplement is to be paid out of the Consolidated Revenue Fund.
-> 2006, c. 4, s. 170; 2015, c. 36, s. 38; 2016, c. 7, s. 51.
-
+**3.1** [Repealed, 2016, c. 7, s. 51]
 
 
 
