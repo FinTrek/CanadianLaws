@@ -97,7 +97,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***taux de chômage*** Le taux de chômage calculé de temps à autre au cours d’une année. (*rate of unemployment*)
 
-***travailleur de longue date*** S’entend du prestataire à qui ont été versées des prestations régulières pour moins de trente-six semaines au cours des deux cent soixante semaines précédant le début de sa période de prestations et qui, selon ses déclarations de revenus ayant fait l’objet d’un avis de cotisation de l’Agence du revenu du Canada, a versé au moins trente pour cent de la cotisation ouvrière maximale pour un an pendant sept des dix années précédant le début de sa période de prestations ou, si sa déclaration de revenus pour l’année précédant le début de cette période n’a pas encore été produite à l’Agence ou fait l’objet d’un avis de cotisation par celle-ci, pendant sept des dix années précédant cette année-là. (*long-tenured worker*)
+***travailleur de longue date***[Abrogée, 2016, ch. 7, art. 207]
 
 ***versement excédentaire de prestations*** En est exclu un remboursement de prestations au sens de la partie VII. (*overpayment of benefits*)
 
@@ -686,41 +686,13 @@ plus de 13 %
 
 - **(13)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée, que des prestations pour plus d’une des raisons prévues aux alinéas 12(3)a) à e) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable pour au moins une de ces raisons et que le nombre maximal total de semaines de prestations prévu pour celles-ci est supérieur à cinquante, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal total soit atteint.
 
-**Prolongation de la période de prestations : dix-sept semaines supplémentaires**
+- **(13.1) à (13.7)** [Abrogés, 2016, ch. 7, art. 211]
 
-- **(13.1)** La période de prestations d’un prestataire — qui n’a pas pris fin avant le 3 juillet 2016, ou qui débute à cette date ou après cette date — est prolongée de dix-sept semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.1).
+**Prolongation visée aux paragraphes (10) à (13) : durée maximale**
 
-**Période de prestations réputée ne pas avoir pris fin : dix-sept semaines supplémentaires**
+- **(14)** Sous réserve du paragraphe (15), aucune prolongation au titre de l’un des paragraphes (10) à (13) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
 
-- **(13.2)** Sous réserve des paragraphes (13.7) et (14.1), la période de prestations d’un prestataire qui a pris fin avant le 3 juillet 2016 est, malgré le paragraphe (8), réputée ne pas avoir pris fin et est prolongée de dix-sept semaines à compter du 3 juillet 2016 si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.1).
-
-**Prolongation de la période de prestations : trente-sept semaines supplémentaires**
-
-- **(13.3)** La période de prestations d’un prestataire — qui n’a pas pris fin avant le 3 juillet 2016, ou qui débute à cette date ou après cette date — est prolongée de trente-sept semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.3).
-
-**Période de prestations réputée ne pas avoir pris fin : trente-sept semaines supplémentaires**
-
-- **(13.4)** Sous réserve des paragraphes (13.7) et (14.1), la période de prestations d’un prestataire qui a pris fin avant le 3 juillet 2016 est, malgré le paragraphe (8), réputée ne pas avoir pris fin et est prolongée de trente-sept semaines à compter du 3 juillet 2016 si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.3).
-
-**Prolongation de la période de prestations : vingt-neuf semaines supplémentaires**
-
-- **(13.5)** La période de prestations d’un prestataire est prolongée de vingt-neuf semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.5).
-
-**Prolongation de la période de prestations : vingt-deux semaines supplémentaires**
-
-- **(13.6)** La période de prestations d’un prestataire est prolongée de vingt-deux semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.6).
-
-**Précision**
-
-- **(13.7)** La période de prestations qui est réputée ne pas avoir pris fin au titre des paragraphes (13.2) ou (13.4) exclut la période commençant le jour suivant celui où la période de prestations a pris fin et se terminant le 2 juillet 2016.
-
-**Prolongation visée aux paragraphes (10) à (13.6) : durée maximale**
-
-- **(14)** Sous réserve des paragraphes (14.1) et (15), aucune prolongation au titre de l’un des paragraphes (10) à (13.6) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
-
-**Inclusion de la période exclue**
-
-- **(14.1)** La période exclue au titre du paragraphe (13.7) est incluse dans le calcul des cent quatre semaines pour l’application du paragraphe (14).
+- **(14.1)** [Abrogé, 2016, ch. 7, art. 211]
 
 **Prolongation visée au paragraphe (13) : durée maximale**
 
@@ -764,74 +736,9 @@ plus de 13 %
 
 **Maximum**
 
-- **(2)** Sous réserve des paragraphes (2.1) à (2.6), le nombre maximal de semaines pour lesquelles des prestations peuvent être versées au cours d’une période de prestations — à l’exception de celles qui peuvent être versées pour l’une des raisons prévues au paragraphe (3) — est déterminé selon le tableau de l’annexe I en fonction du taux régional de chômage applicable au prestataire et du nombre d’heures pendant lesquelles il a occupé un emploi assurable au cours de sa période de référence.
+- **(2)** Le nombre maximal de semaines pour lesquelles des prestations peuvent être versées au cours d’une période de prestations — à l’exception de celles qui peuvent être versées pour l’une des raisons prévues au paragraphe (3) — est déterminé selon le tableau de l’annexe I en fonction du taux régional de chômage applicable au prestataire et du nombre d’heures pendant lesquelles il a occupé un emploi assurable au cours de sa période de référence.
 
-**Majoration de cinq semaines**
-
-- **(2.1)** Sous réserve du paragraphe (2.7), le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de cinq, si les conditions suivantes sont réunies :
-	- **a)** le prestataire n’est pas un travailleur de longue date;
-	- **b)** sa période de prestations a débuté durant la période commençant le 4 janvier 2015 et se terminant le 8 juillet 2017;
-	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
-	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
-
-**Versement des prestations : paragraphe 10(13.2)**
-
-- **(2.2)** Si le paragraphe (2.1) s’applique à l’égard d’un prestataire dont la période de prestations est réputée ne pas avoir pris fin au titre du paragraphe 10(13.2) :
-	- **a)** il peut être versé au prestataire, pour les semaines commençant le 3 juillet 2016 ou après cette date, des prestations en application du paragraphe (2) pour, au plus, les cinq semaines supplémentaires visées au paragraphe (2.1);
-	- **b)** il ne peut être versé au prestataire ces cinq semaines supplémentaires de prestations pour toute semaine commençant avant le 3 juillet 2016.
-
-**Majoration de vingt-cinq semaines**
-
-- **(2.3)** Sous réserve du paragraphe (2.7), le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de vingt-cinq, si les conditions suivantes sont réunies :
-	- **a)** le prestataire est un travailleur de longue date;
-	- **b)** sa période de prestations a débuté durant la période commençant le 4 janvier 2015 et se terminant le 29 octobre 2016;
-	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
-	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
-
-**Versement des prestations : paragraphe 10(13.4)**
-
-- **(2.4)** Si le paragraphe (2.3) s’applique à l’égard d’un prestataire dont la période de prestations est réputée ne pas avoir pris fin au titre du paragraphe 10(13.4) :
-	- **a)** il peut être versé au prestataire, pour les semaines commençant le 3 juillet 2016 ou après cette date, des prestations en application du paragraphe (2) pour, au plus, les vingt-cinq semaines supplémentaires visées au paragraphe (2.3);
-	- **b)** il ne peut être versé au prestataire ces vingt-cinq semaines supplémentaires de prestations pour toute semaine commençant avant le 3 juillet 2016.
-
-**Majoration de dix-sept semaines**
-
-- **(2.5)** Le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de dix-sept, si les conditions suivantes sont réunies :
-	- **a)** le prestataire est un travailleur de longue date;
-	- **b)** sa période de prestations a débuté durant la période commençant le 30 octobre 2016 et se terminant le 25 février 2017;
-	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
-	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
-
-**Majoration de dix semaines**
-
-- **(2.6)** Le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de dix, si les conditions suivantes sont réunies :
-	- **a)** le prestataire est un travailleur de longue date;
-	- **b)** sa période de prestations a débuté durant la période commençant le 26 février 2017 et se terminant le 8 juillet 2017;
-	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
-	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
-
-**Application**
-
-- **(2.7)** Dans le cas où plus d’une période de prestations établie à l’égard d’un prestataire débute avant le 3 juillet 2016, le paragraphe (2.1) ou (2.3), selon le cas, ne s’applique que pour majorer le nombre de semaines de prestations durant la période de prestations débutant à la date la plus rapprochée de cette date.
-
-**Régions**
-
-- **(2.8)** Pour l’application des paragraphes (2.1) à (2.6), les régions visées sont les régions ci-après qui sont délimitées à l’annexe I du [Règlement sur l’assurance-emploi](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/332.md) :
-	- **a)** la région du nord de l’Ontario telle qu’elle est délimitée au paragraphe 2(3) de cette annexe;
-	- **b)** la région de Sudbury telle qu’elle est délimitée au paragraphe 2(14) de cette annexe;
-	- **c)** la région du nord du Manitoba telle qu’elle est délimitée au paragraphe 6(3) de cette annexe;
-	- **c.1)** la région du sud intérieur de la Colombie-Britannique telle qu’elle est délimitée au paragraphe 7(1) de cette annexe;
-	- **d)** la région du nord de la Colombie-Britannique telle qu’elle est délimitée au paragraphe 7(5) de cette annexe;
-	- **e)** la région de Saskatoon telle qu’elle est délimitée au paragraphe 9(2) de cette annexe;
-	- **e.1)** la région du sud de la Saskatchewan telle qu’elle est délimitée au paragraphe 9(3) de cette annexe;
-	- **f)** la région du nord de la Saskatchewan telle qu’elle est délimitée au paragraphe 9(4) de cette annexe;
-	- **g)** la région de Calgary telle qu’elle est délimitée au paragraphe 10(1) de cette annexe;
-	- **g.1)** la région d’Edmonton telle qu’elle est délimitée au paragraphe 10(2) de cette annexe;
-	- **h)** la région du sud de l’Alberta telle qu’elle est délimitée au paragraphe 10(3) de cette annexe;
-	- **i)** la région du nord de l’Alberta telle qu’elle est délimitée au paragraphe 10(4) de cette annexe;
-	- **j)** la région de Terre-Neuve/Labrador telle qu’elle est délimitée au paragraphe 11(2) de cette annexe;
-	- **k)** la région de Whitehorse telle qu’elle est délimitée au paragraphe 12(1) de cette annexe;
-	- **l)** la région du Nunavut telle qu’elle est délimitée au paragraphe 14(2) de cette annexe.
+- **(2.1) à (2.8)** [Abrogés, 2016, ch. 7, art. 212]
 
 **Maximum : prestations spéciales**
 
@@ -876,7 +783,7 @@ plus de 13 %
 
 **Cumul général**
 
-- **(6)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées à la fois en application du paragraphe (2) et pour une ou plusieurs des raisons prévues au paragraphe (3); le cas échéant, le nombre total de semaines pour lesquelles des prestations peuvent être versées ne peut être supérieur à cinquante ou, si le nombre maximal de semaines pour lesquelles des prestations peuvent être versées à un prestataire en application du paragraphe (2) est supérieur à quarante-cinq par application de l’un ou l’autre des paragraphes (2.1), (2.3), (2.5) et (2.6), au nombre qui correspond à ce nombre maximal de semaines, majoré de cinq.
+- **(6)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées à la fois en application du paragraphe (2) et pour une ou plusieurs des raisons prévues au paragraphe (3); le cas échéant, le nombre total de semaines pour lesquelles des prestations peuvent être versées ne peut être supérieur à cinquante.
 
 - **(7)** [Abrogé, 2000, ch. 14, art. 3]
 
@@ -5767,7 +5674,7 @@ Il est aussi tenu de verser au receveur général, au plus tard à la date d’e
 
 
 ### **ANNEXE I** 
-**(paragraphes 12(2), (2.1), (2.3), (2.5) et (2.6))**
+**(paragraphe 12(2))**
 <table>
 <h4>Tableau des semaines de prestations</h4>
 <tr>
@@ -6406,7 +6313,7 @@ Il est aussi tenu de verser au receveur général, au plus tard à la date d’e
 </tr>
 </table>
 
-> 1996, ch. 23, ann. I; 2009, ch. 2, art. 224; 2016, ch. 7, art. 222.
+> 1996, ch. 23, ann. I; 2009, ch. 2, art. 224; 2016, ch. 7, art. 222 et 223.
 
 
 
