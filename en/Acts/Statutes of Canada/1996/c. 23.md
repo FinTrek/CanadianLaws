@@ -81,7 +81,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***labour dispute*** means a dispute between employers and employees, or between employees and employees, that is connected with the employment or non-employment, or the terms or conditions of employment, of any persons; (*conflit collectif*)
 
-***long-tenured worker*** means a claimant who was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of their benefit period and who, according to their income tax returns for which notices of assessment have been sent by the Canada Revenue Agency, paid at least 30% of the maximum annual employee’s premium in 7 of the 10 years before the beginning of their benefit period or, if their income tax return for the year before the beginning of their benefit period has not yet been filed with that Agency or a notice of assessment for that year has not yet been sent by that Agency, in 7 of the 10 years before that year; (*travailleur de longue date*)
+***long-tenured worker***[Repealed, 2016, c. 7, s. 207]
 
 ***Minister*** means the Minister of Employment and Social Development, except in Parts IV and VII; (*ministre*)
 
@@ -698,41 +698,13 @@ by
 	- **(c)** the maximum total number of weeks established for those reasons is greater than 50,
 the benefit period is extended so that those benefits may be paid up to that maximum total number of weeks.
 
-**Extension of benefit period — additional 17 weeks**
+- **(13.1) to (13.7)** [Repealed, 2016, c. 7, s. 211]
 
-- **(13.1)** A claimant’s benefit period that has not ended before July 3, 2016, or that begins on or after that date, is extended by 17 weeks if the number of weeks for which benefits may be paid to the claimant has been increased as a result of subsection 12(2.1).
+**Maximum extension under subsections (10) to (13)**
 
-**Benefit period deemed not ended — additional 17 weeks**
+- **(14)** Subject to subsection (15), an extension under any of subsections (10) to (13) must not result in a benefit period of more than 104 weeks.
 
-- **(13.2)** Subject to subsections (13.7) and (14.1), if a claimant’s benefit period ended before July 3, 2016, that benefit period is deemed, despite subsection (8), not to have ended and it is extended by 17 weeks beginning on July 3, 2016 if the number of weeks for which benefits may be paid to the claimant has been increased as a result of subsection 12(2.1).
-
-**Extension of benefit period — additional 37 weeks**
-
-- **(13.3)** A claimant’s benefit period that has not ended before July 3, 2016, or that begins on or after that date, is extended by 37 weeks if the number of weeks for which benefits may be paid to the claimant has been increased as a result of subsection 12(2.3).
-
-**Benefit period deemed not ended — additional 37 weeks**
-
-- **(13.4)** Subject to subsections (13.7) and (14.1), if a claimant’s benefit period ended before July 3, 2016, that benefit period is deemed, despite subsection (8), not to have ended and it is extended by 37 weeks beginning on July 3, 2016 if the number of weeks for which benefits may be paid to the claimant has been increased as a result of subsection 12(2.3).
-
-**Extension of benefit period — additional 29 weeks**
-
-- **(13.5)** A claimant’s benefit period is extended by 29 weeks if the number of weeks for which benefits may be paid to the claimant has been increased as a result of subsection 12(2.5).
-
-**Extension of benefit period — additional 22 weeks**
-
-- **(13.6)** A claimant’s benefit period is extended by 22 weeks if the number of weeks for which benefits may be paid to the claimant has been increased as a result of subsection 12(2.6).
-
-**Clarification**
-
-- **(13.7)** A benefit period that is deemed under subsection (13.2) or (13.4) not to have ended does not include the period that begins on the day after the day on which the benefit period ended and that ends on July 2, 2016.
-
-**Maximum extension under subsections (10) to (13.6)**
-
-- **(14)** Subject to subsections (14.1) and (15), an extension under any of subsections (10) to (13.6) must not result in a benefit period of more than 104 weeks.
-
-**Excluded period to be included**
-
-- **(14.1)** The period that is excluded under subsection (13.7) is to be included in the calculation of the 104 weeks for the purposes of subsection (14).
+- **(14.1)** [Repealed, 2016, c. 7, s. 211]
 
 **Maximum extension under subsection (13)**
 
@@ -781,74 +753,9 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **General maximum**
 
-- **(2)** Subject to subsections (2.1) to (2.6), the maximum number of weeks for which benefits may be paid in a benefit period because of a reason other than those mentioned in subsection (3) shall be determined in accordance with the table in Schedule I by reference to the regional rate of unemployment that applies to the claimant and the number of hours of insurable employment of the claimant in their qualifying period.
+- **(2)** The maximum number of weeks for which benefits may be paid in a benefit period because of a reason other than those mentioned in subsection (3) shall be determined in accordance with the table in Schedule I by reference to the regional rate of unemployment that applies to the claimant and the number of hours of insurable employment of the claimant in their qualifying period.
 
-**Increase — five weeks**
-
-- **(2.1)** Subject to subsection (2.7), the number of weeks of benefits set out in the table in Schedule I that applies in respect of a claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant, but for this subsection, increased by five weeks if the following conditions are met:
-	- **(a)** the claimant is not a long-tenured worker;
-	- **(b)** the claimant’s benefit period began during the period beginning on January 4, 2015 and ending on July 8, 2017;
-	- **(c)** the claimant’s ordinary residence at the beginning of the benefit period was in a region referred to in subsection (2.8); and
-	- **(d)** benefits were paid or payable to the claimant because of a reason mentioned in subsection (2) for at least one week in the benefit period.
-
-**Payment of benefits — subsection 10(13.2)**
-
-- **(2.2)** If subsection (2.1) applies in respect of a claimant whose benefit period is deemed under subsection 10(13.2) not to have ended,
-	- **(a)** the claimant may, for weeks beginning on or after July 3, 2016, be paid benefits because of a reason mentioned in subsection (2) for no more than the five additional weeks referred to in subsection (2.1); and
-	- **(b)** the claimant may not be paid those additional five weeks of benefits for any week that began before July 3, 2016.
-
-**Increase — 25 weeks**
-
-- **(2.3)** Subject to subsection (2.7), the number of weeks of benefits set out in the table in Schedule I that applies in respect of a claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant, but for this subsection, increased by 25 weeks if the following conditions are met:
-	- **(a)** the claimant is a long-tenured worker;
-	- **(b)** the claimant’s benefit period began during the period beginning on January 4, 2015 and ending on October 29, 2016;
-	- **(c)** the claimant’s ordinary residence at the beginning of the benefit period was in a region referred to in subsection (2.8); and
-	- **(d)** benefits were paid or payable to the claimant because of a reason mentioned in subsection (2) for at least one week in the benefit period.
-
-**Payment of benefits — subsection 10(13.4)**
-
-- **(2.4)** If subsection (2.3) applies in respect of a claimant whose benefit period is deemed under subsection 10(13.4) not to have ended,
-	- **(a)** the claimant may, for weeks beginning on or after July 3, 2016, be paid benefits because of a reason mentioned in subsection (2) for no more than the 25 additional weeks referred to in subsection (2.3); and
-	- **(b)** the claimant may not be paid those additional 25 weeks of benefits for any week that began before July 3, 2016.
-
-**Increase — 17 weeks**
-
-- **(2.5)** The number of weeks of benefits set out in the table in Schedule I that applies in respect of a claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant, but for this subsection, increased by 17 weeks if the following conditions are met:
-	- **(a)** the claimant is a long-tenured worker;
-	- **(b)** the claimant’s benefit period began during the period beginning on October 30, 2016 and ending on February 25, 2017;
-	- **(c)** the claimant’s ordinary residence at the beginning of the benefit period was in a region referred to in subsection (2.8); and
-	- **(d)** benefits were paid or payable to the claimant because of a reason mentioned in subsection (2) for at least one week in the benefit period.
-
-**Increase — 10 weeks**
-
-- **(2.6)** The number of weeks of benefits set out in the table in Schedule I that applies in respect of a claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant, but for this subsection, increased by 10 weeks if the following conditions are met:
-	- **(a)** the claimant is a long-tenured worker;
-	- **(b)** the claimant’s benefit period began during the period beginning on February 26, 2017 and ending on July 8, 2017;
-	- **(c)** the claimant’s ordinary residence at the beginning of the benefit period was in a region referred to in subsection (2.8); and
-	- **(d)** benefits were paid or payable to the claimant because of a reason mentioned in subsection (2) for at least one week in the benefit period.
-
-**Application**
-
-- **(2.7)** If more than one benefit period in respect of a claimant began before July 3, 2016, subsection (2.1) or (2.3), as the case may be, applies to increase the number of weeks of benefits only in the benefit period that began on the day that is closest to that day.
-
-**Regions**
-
-- **(2.8)** The regions, for the purposes of subsections (2.1) to (2.6), are the following regions described in Schedule I to the [Employment Insurance Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/332.md):
-	- **(a)** the region of Northern Ontario described in subsection 2(3) of that Schedule;
-	- **(b)** the region of Sudbury described in subsection 2(14) of that Schedule;
-	- **(c)** the region of Northern Manitoba described in subsection 6(3) of that Schedule;
-	- **(c.1)** the region of Southern Interior British Columbia described in subsection 7(1) of that Schedule;
-	- **(d)** the region of Northern British Columbia described in subsection 7(5) of that Schedule;
-	- **(e)** the region of Saskatoon described in subsection 9(2) of that Schedule;
-	- **(e.1)** the region of Southern Saskatchewan described in subsection 9(3) of that Schedule;
-	- **(f)** the region of Northern Saskatchewan described in subsection 9(4) of that Schedule;
-	- **(g)** the region of Calgary described in subsection 10(1) of that Schedule;
-	- **(g.1)** the region of Edmonton described in subsection 10(2) of that Schedule;
-	- **(h)** the region of Southern Alberta described in subsection 10(3) of that Schedule;
-	- **(i)** the region of Northern Alberta described in subsection 10(4) of that Schedule;
-	- **(j)** the region of Newfoundland/Labrador described in subsection 11(2) of that Schedule;
-	- **(k)** the region of Whitehorse described in subsection 12(1) of that Schedule; and
-	- **(l)** the region of Nunavut described in subsection 14(2) of that Schedule.
+- **(2.1) to (2.8)** [Repealed, 2016, c. 7, s. 212]
 
 **Maximum — special benefits**
 
@@ -895,7 +802,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Combined weeks of benefits**
 
-- **(6)** In a claimant’s benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50 or, if the maximum number of weeks for which benefits may be paid to a claimant because of a reason mentioned in subsection (2) is greater than 45 weeks as a result of the application of any of subsections (2.1), (2.3), (2.5) and (2.6), the number that corresponds to that maximum number of weeks increased by five weeks.
+- **(6)** In a claimant’s benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50.
 
 - **(7)** [Repealed, 2000, c. 14, s. 3]
 
@@ -5904,7 +5811,7 @@ In addition, the person shall pay to the Receiver General, on or before the pers
 
 
 ### **SCHEDULE I** 
-**(Subsections 12(2), (2.1), (2.3), (2.5) and (2.6))**
+**(Subsections 12(2))**
 <table>
 <h4>Table of Weeks of Benefits</h4>
 <tr>
@@ -6543,7 +6450,7 @@ In addition, the person shall pay to the Receiver General, on or before the pers
 </tr>
 </table>
 
-> 1996, c. 23, Sch. I; 2009, c. 2, s. 224; 2016, c. 7, s. 222.
+> 1996, c. 23, Sch. I; 2009, c. 2, s. 224; 2016, c. 7, ss. 222, 223.
 
 
 
