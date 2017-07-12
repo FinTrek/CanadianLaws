@@ -743,7 +743,8 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 	- **i.2)** soustraire à l’application de toute disposition de la présente loi ou des règlements tout bâtiment de guerre, tout bâtiment de guerre auxiliaire ou tout bâtiment appartenant à un État ou exploité par un État et utilisé exclusivement à des fins d’intérêt public et non commerciales;
 	- **j)** prévoir l’imposition de redevances pour les baux ainsi que pour les permis, timbres et autres autorisations préalables à l’exercice d’activités dans le cadre de la présente loi et de ses règlements, de même que la fixation de leur montant et des conditions de leur paiement;
 	- **j.1)** définir, pour l’application de la présente loi, les termes non définis par celle-ci qui y figurent;
-	- **k)** autoriser le ministre à modifier ou à suspendre l’application de tout règlement pris en vertu de la présente loi si celui-ci le juge nécessaire à la conservation des oiseaux migrateurs.
+	- **k)** autoriser le ministre à modifier ou à suspendre l’application de tout règlement pris en vertu de la présente loi si celui-ci le juge nécessaire à la conservation des oiseaux migrateurs;
+	- **l)** désigner les dispositions des règlements pour l’application des alinéas 13(1)c) et 13.03(1)b).
 
 **Modification de la convention**
 
@@ -752,7 +753,7 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Débat à la Chambre des communes**
 
 - **(3)** Les modifications déposées devant le Sénat et la Chambre des communes en vertu du paragraphe (2) font l’objet d’un débat à la Chambre des communes dans les vingt jours de séance suivant leur dépôt devant les deux chambres.
-> 1994, ch. 22, art. 12; 2001, ch. 34, art. 53(A); 2005, ch. 23, art. 8
+> 1994, ch. 22, art. 12; 2001, ch. 34, art. 53(A); 2005, ch. 23, art. 8; 2009, ch. 14, art. 101
 
 
 
@@ -762,86 +763,380 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 
 
 
-**Contraventions à la loi ou aux règlements**
+**Infraction — personnes**
 
 **13** 
 
-- **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
-	- **a)** à la présente loi ou aux règlements;
-	- **b)** à toute obligation ou interdiction découlant de la présente loi ou des règlements;
-	- **c)** à tout ordre donné en application de la présente loi;
-	- **d)** à toute ordonnance ou décision judiciaire rendue en application de la présente loi.
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** à l’article 5, aux paragraphes 5.1(1) ou (2), aux alinéas 5.2a), c) ou d) ou aux paragraphes 5.3(1), 8.1(6) ou 11.24(1);
+	- **b)** sciemment à l’alinéa 5.2b);
+	- **c)** à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 12(1)l);
+	- **d)** à tout ordre donné en vertu des paragraphes 8.1(1) ou (2);
+	- **e)** à toute ordonnance judiciaire rendue en vertu de la présente loi.
 
-**Peines**
+**Peine — personnes physiques**
 
-- **(1.1)** L’auteur de l’infraction encourt, sur déclaration de culpabilité :
-	- **a)** par mise en accusation, une amende maximale de 1 000 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines;
-	- **b)** par procédure sommaire, une amende maximale de 300 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+- **(2)** La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $ et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
 
-**Bâtiment qui jauge 5 000 tonnes ou plus**
+**Peine — autres**
 
-- **(1.11)** Dans le cas d’une infraction à l’article 5.1 commise par un bâtiment qui jauge 5 000 tonnes ou plus de port en lourd :
-	- **a)** l’amende imposée en vertu de l’alinéa (1.1)a) ne peut être inférieure à 500 000 $;
-	- **b)** l’amende imposée en vertu de l’alinéa (1.1)b) ne peut être inférieure à 100 000 $.
+- **(3)** La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
 
-**Participants à l’infraction**
+**Peine — personnes morales à revenus modestes**
 
-- **(1.2)** En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue, que la personne morale ait été ou non poursuivie.
+- **(4)** La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 13.02 est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+> 1994, ch. 22, art. 13; 2005, ch. 23, art. 9; 2009, ch. 14, art. 102
 
-**Preuve : personnes morales**
 
-- **(1.3)** Dans les poursuites contre une personne morale pour une infraction à la présente loi autre que la contravention aux alinéas 5.2a), c) ou d) ou aux articles 5.4 ou 5.5, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son employé ou son mandataire, que cet employé ou mandataire soit ou non identifié ou poursuivi.
 
-**Preuve : bâtiments**
 
-- **(1.4)** Dans les poursuites contre un bâtiment pour une infraction à la présente loi autre que la contravention aux alinéas 5.2a), c) ou d), il suffit, pour établir la culpabilité du bâtiment, de prouver que l’infraction a été commise par une personne à bord, que cette personne soit ou non identifiée ou poursuivie.
 
-**Preuve des ordres**
+**Infraction — personnes**
 
-- **(1.5)** Dans le cas de poursuites pour omission de se conformer à un ordre donné sous le régime de la présente loi, l’ordre donné au capitaine ou à un membre d’équipage est réputé avoir été donné au bâtiment.
+**13.01** 
 
-**Preuve**
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** à toute disposition de la présente loi ou des règlements, à l’exception d’une disposition dont la contravention constitue une infraction aux termes du paragraphe 13(1);
+	- **b)** par négligence à l’alinéa 5.2b);
+	- **c)** à tout ordre donné en vertu de la présente loi, à l’exception d’un ordre dont la contravention constitue une infraction aux termes du paragraphe 13(1).
 
-- **(1.6)** Dans les poursuites contre le capitaine ou le mécanicien en chef d’un bâtiment pour infraction à la présente loi autre que la contravention aux alinéas 5.2a), c) ou d) ou aux articles 5.3, 5.4 ou 5.5, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par une personne à bord du bâtiment, que cette personne soit ou non identifiée ou poursuivie.
+**Peine — personnes physiques**
 
-**Preuve**
+- **(2)** La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 100 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 200 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 25 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 50 000 $.
 
-- **(1.7)** Dans les poursuites intentées pour contravention à l’article 5.4, il suffit, pour établir la culpabilité de l’accusé, de prouver que le bâtiment a procédé à l’immersion ou au rejet d’une substance en contravention à l’article 5.1.
+**Peine — autres personnes**
 
-**Disculpation**
+- **(3)** La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 500 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 1 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $.
 
-- **(1.8)** La personne ou le bâtiment ne peut être déclaré coupable d’une infraction à la présente loi, autre que la contravention aux alinéas 5.2a), c) ou d) ou à l’article 5.3, s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+**Peine — personnes morales à revenus modestes**
 
-**Récidive**
+- **(4)** La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 13.02 est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 50 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 100 000 $.
+> 2009, ch. 14, art. 102
 
-- **(2)** Le montant des amendes prévues au paragraphe (1) peut être doublé en cas de récidive.
 
-**Infraction continue**
 
-- **(3)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction.
 
-**Amendes cumulatives**
 
-- **(4)** En cas de déclaration de culpabilité pour une infraction portant sur plusieurs oiseaux migrateurs ou nids, l’amende peut être calculée sur chacun d’eux, comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende finale infligée est alors la somme totale obtenue.
+**Déclaration : personne morale à revenus modestes**
 
-**Facteurs à considérer**
+**13.02** Pour l’application des articles 13 et 13.01, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
+> 2009, ch. 14, art. 102
 
-- **(4.1)** Le tribunal détermine la peine à infliger compte tenu — en plus des principes qu’il doit prendre en considération — des facteurs suivants :
-	- **a)** le dommage ou le risque de dommage que cause l’infraction;
-	- **b)** le caractère intentionnel, imprudent ou fortuit de l’infraction;
-	- **c)** la conclusion du tribunal selon laquelle le contrevenant a fait preuve d’incompétence, de négligence ou d’insouciance;
-	- **d)** tout avantage procuré par la perpétration de l’infraction;
-	- **e)** tout élément de preuve l’incitant raisonnablement à croire que le contrevenant a, dans le passé, accompli des actes contraires à la présente loi ou aux règlements;
-	- **f)** l’examen de toutes les sanctions applicables qui sont justifiées dans les circonstances, plus particulièrement en ce qui concerne les délinquants autochtones.
+
+
+
+
+**Infraction — bâtiments**
+
+**13.03** 
+
+- **(1)** Commet une infraction le bâtiment qui contrevient :
+	- **a)** à l’article 5.1;
+	- **b)** à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 12(1)l);
+	- **c)** à tout ordre donné ou à toute ordonnance judiciaire rendue en vertu de la présente loi.
+
+**Peine — bâtiments qui jaugent 7 500 tonnes ou plus de port en lourd**
+
+- **(2)** Le bâtiment jaugeant 7 500 tonnes ou plus de port en lourd qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
+
+**Peine — autres bâtiments**
+
+- **(3)** Tout autre bâtiment qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Autres infractions — bâtiments**
+
+**13.04** 
+
+- **(1)** Commet une infraction le bâtiment qui contrevient à toute disposition de la présente loi ou des règlements, à l’exception d’une disposition dont la contravention constitue une infraction aux termes du paragraphe 13.03(1).
+
+**Peine — bâtiments qui jaugent 7 500 tonnes ou plus de port en lourd**
+
+- **(2)** Le bâtiment jaugeant 7 500 tonnes ou plus de port en lourd qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 500 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 1 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $.
+
+**Peine — autres bâtiments**
+
+- **(3)** Tout autre bâtiment qui commet une infraction en vertu du paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 50 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 100 000 $.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Présomption — récidive**
+
+**13.05** 
+
+- **(1)** Pour l’application des paragraphes 13(2) à (4), 13.01(2) à (4), 13.03(2) et (3) et 13.04(2) et (3), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement ou des espèces sauvages, d’une infraction essentiellement semblable.
+
+**Limitation**
+
+- **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Allègement de l’amende minimale**
+
+**13.06** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue aux articles 13 ou 13.03 s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
+> 2009, ch. 14, art. 102
+
+
+
+
 
 **Amende supplémentaire**
 
-- **(5)** Le tribunal saisi d’une poursuite pour infraction à la présente loi peut, s’il constate que le contrevenant ou, dans le cas où le contrevenant est un bâtiment, le propriétaire ou l’exploitant de celui-ci a tiré des avantages financiers de la perpétration de l’infraction ou qu’il a causé une perte financière à autrui du fait de sa perpétration, infliger au contrevenant, en sus de l’amende maximale prévue par la présente loi, une amende supplémentaire correspondant à son évaluation de ces avantages ou de cette perte.
+**13.07** Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable — ou si elle est un bâtiment, son propriétaire ou exploitant — a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Avis aux actionnaires**
+
+**13.08** En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Objectif premier de la détermination de la peine**
+
+**13.09** La détermination des peines relatives aux infractions à la présente loi a pour objectif premier de contribuer, compte tenu de la reconnaissance de longue date de l’importance sociale, culturelle et environnementale des oiseaux migrateurs, au respect des lois visant la protection et la conservation des oiseaux migrateurs et de leurs nids. Cet objectif est atteint par l’imposition de sanctions justes visant ce qui suit :
+- **a)** dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
+- **b)** dénoncer les comportements illégaux causant des dommages ou des risques de dommages aux oiseaux migrateurs ou à leurs nids;
+- **c)** renforcer le principe de pollueur-payeur et rétablir les oiseaux migrateurs et leurs habitats.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Détermination de la peine — principes**
+
+**13.1** 
+
+- **(1)** Pour la détermination de la peine à infliger au contrevenant, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) —, tient compte des principes suivants :
+	- **a)** le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (2);
+	- **b)** le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+**Détermination de la peine — circonstances aggravantes**
+
+- **(2)** Les circonstances aggravantes dont le tribunal tient compte sont les suivantes :
+	- **a)** l’infraction a causé un dommage ou un risque de dommage aux oiseaux migrateurs ou à leurs nids;
+	- **b)** l’infraction a causé un dommage ou un risque de dommage à des populations d’oiseaux migrateurs uniques, rares, particulièrement importantes ou vulnérables;
+	- **c)** l’infraction a causé un dommage considérable, persistant ou irréparable;
+	- **d)** le contrevenant a agi de façon intentionnelle ou insouciante;
+	- **e)** le contrevenant a omis de prendre des mesures raisonnables pour empêcher la perpétration de l’infraction malgré sa capacité financière de le faire;
+	- **f)** le contrevenant, en commettant l’infraction ou en omettant de prendre des mesures pour empêcher sa perpétration, a accru ses revenus ou a réduit ses dépenses, ou avait l’intention de le faire;
+	- **g)** le contrevenant a commis l’infraction bien qu’il ait reçu du garde-chasse un avertissement l’informant de la situation ayant par la suite donné lieu à l’infraction;
+	- **h)** le contrevenant a dans le passé accompli des actes contraires aux lois fédérales ou provinciales visant la conservation ou la protection de l’environnement ou des espèces sauvages;
+	- **i)** le contrevenant, après avoir commis l’infraction :
+		- **(i)** a tenté de dissimuler sa perpétration,
+		- **(ii)** a omis de prendre rapidement des mesures afin d’empêcher ou d’atténuer les conséquences de l’infraction, ou encore d’y remédier,
+		- **(iii)** a omis de prendre rapidement des mesures pour réduire le risque que des infractions semblables soient commises.
+
+**Absence de circonstances aggravantes**
+
+- **(3)** L’absence de circonstances aggravantes mentionnées au paragraphe (2) n’est pas une circonstance atténuante.
+
+**Sens de dommage**
+
+- **(4)** Pour l’application des alinéas (2)a) à c), le dommage comprend la perte des valeurs d’usage et de non-usage.
+
+**Motifs**
+
+- **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Poursuites contre les bâtiments**
+
+**13.11** 
+
+- **(1)** Les dispositions de la présente loi et du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) applicables aux personnes relativement aux actes criminels ou aux infractions punissables par procédure sommaire s’appliquent, avec les adaptations nécessaires, aux bâtiments.
+
+**Ordres liant les bâtiments**
+
+- **(2)** Dans le cas de poursuites pour omission de se conformer à un ordre adressé sous le régime de la présente loi, à l’exception de l’ordre visé à l’article 11.21, l’ordre adressé au capitaine ou à un membre d’équipage est réputé l’avoir été au bâtiment et lie celui-ci.
+
+**Signification au bâtiment**
+
+- **(3)** La signification au bâtiment accusé d’une infraction à la présente loi se fait par remise de la citation à comparaître au propriétaire, à l’exploitant ou au capitaine du bâtiment ou par son affichage à un endroit bien en vue sur celui-ci.
+
+**Comparution du bâtiment**
+
+- **(4)** Le bâtiment accusé d’une infraction à la présente loi peut comparaître par l’intermédiaire d’un avocat ou de tout autre représentant; en cas de défaut de comparution, le tribunal peut, malgré le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), procéder par défaut sur preuve de la signification.
+
+**Preuve des ordres — bâtiment**
+
+- **(5)** Dans les poursuites contre un bâtiment pour infraction à la présente loi, il suffit, pour établir la culpabilité du bâtiment, de prouver que l’infraction a été commise par une personne à bord, que cette personne soit ou non identifiée ou poursuivie.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Responsabilité pénale : dirigeants, administrateurs et mandataires**
+
+**13.12** En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Responsabilité pénale : capitaine, mécanicien en chef, propriétaire et exploitant**
+
+**13.13** 
+
+- **(1)** En cas de perpétration d’une infraction à la présente loi par un bâtiment, son capitaine, mécanicien en chef, propriétaire ou exploitant qui l’a ordonnée ou autorisée, ou qui y a consenti ou participé, est considéré comme coauteur de l’infraction et encourt la peine prévue pour une personne physique pour contravention à l’article 5.1, que le bâtiment ait été ou non poursuivi ou déclaré coupable.
+
+**Responsabilité pénale : administrateurs et dirigeants d’une personne morale propriétaire d’un bâtiment**
+
+- **(2)** En cas de perpétration d’une infraction à la présente loi par un bâtiment, et dans le cas où le propriétaire ou l’exploitant est une personne morale, ceux de ses administrateurs et dirigeants qui ont dirigé ou influencé ses orientations ou ses activités relativement aux faits reprochés sont considérés comme coauteurs de l’infraction et encourent la peine prévue pour une personne physique pour contravention à l’article 5.1, que le bâtiment ait été ou non poursuivi ou déclaré coupable.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Preuve : personnes morales**
+
+**13.14** Dans les poursuites contre une personne morale pour une infraction à la présente loi, sauf celle qui résulte de la contravention à l’alinéa 5.2a), de la contravention à l’alinéa 5.2b) dans le cas où celle-ci a été commise sciemment, ou de la contravention aux alinéas 5.2c) ou d) ou aux articles 5.4 ou 5.5, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son employé ou son mandataire, que cet employé ou mandataire soit ou non identifié ou poursuivi.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Preuve : capitaine ou mécanicien en chef**
+
+**13.15** Dans les poursuites contre le capitaine ou le mécanicien en chef d’un bâtiment pour infraction à la présente loi, sauf celle qui résulte de la contravention à l’alinéa 5.2a), de la contravention à l’alinéa 5.2b) dans le cas où celle-ci a été commise sciemment, ou de la contravention aux alinéas 5.2c) ou d) ou aux articles 5.4 ou 5.5, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par une personne à bord du bâtiment, que cette personne soit ou non identifiée ou poursuivie.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Preuve : article 5.4**
+
+**13.16** Dans les poursuites pour contravention à l’article 5.4, il suffit, pour établir la culpabilité de l’accusé, de prouver que le bâtiment a procédé à l’immersion ou au rejet d’une substance en contravention à l’article 5.1.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Prise de précautions**
+
+**13.17** La personne ou le bâtiment ne peut être déclaré coupable d’une infraction à la présente loi, sauf une infraction qui résulte de la contravention aux alinéas 5.2a), c) ou d), de la contravention à l’alinéa 5.2b) dans le cas où celle-ci a été commise sciemment, ou de la contravention à l’article 5.3, s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Infraction continue**
+
+**13.18** Il est compté une infraction distincte à la présente loi pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+> 2009, ch. 14, art. 102
+
+
+
+
+
+**Amendes cumulatives**
+
+**13.19** Malgré les articles 13, 13.01, 13.03 et 13.04, en cas de déclaration de culpabilité pour une infraction à la présente loi portant sur plus d’un oiseau migrateur ou nid, l’amende peut être calculée pour chacun d’eux, comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende totale infligée est alors la somme totale obtenue.
+> 2009, ch. 14, art. 102
+
+
+
+
 
 **Affectation**
 
-- **(6)** Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi le sont à des fins particulières liées à la protection et à la conservation des oiseaux migrateurs ou de l’environnement et sont portées au crédit du Fonds pour dommages à l’environnement, ouvert parmi les comptes du Canada.
-> 1994, ch. 22, art. 13; 2005, ch. 23, art. 9
+**13.2** 
+
+- **(1)** Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi — à l’exception des sommes perçues en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) — sont portées au crédit du Fonds pour dommages à l’environnement — ouvert parmi les comptes du Canada — et sont utilisées à des fins liées à la protection, à la conservation, au rétablissement ou à la restauration de l’environnement, ou pour l’administration du fonds.
+
+**Recommandation du tribunal**
+
+- **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il désigne à l’une des fins visées au paragraphe (1).
+> 2009, ch. 14, art. 102
 
 
 
