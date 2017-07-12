@@ -751,8 +751,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i.1)** respecting documents, records and data that any person or vessel or class of persons or vessels is required to keep or provide under this Act;
 	- **(i.2)** excluding from the application of any provision of this Act or the regulations a military vessel, a naval auxiliary vessel or a vessel that is owned or operated by a state while it is being used only on government non-commercial service;
 	- **(j)** for charging fees for permits, leases, stamps or other authorizing documents required to carry on any activity under this Act or the regulations, and for determining the amount of the fees and the terms and conditions under which they are to be paid;
-	- **(j.1)** defining, for the purposes of this Act, any word or expression that is used in this Act and is not defined; and
-	- **(k)** authorizing the Minister to vary or suspend the application of any regulation made under this Act if the Minister considers it necessary to do so for the conservation of migratory birds.
+	- **(j.1)** defining, for the purposes of this Act, any word or expression that is used in this Act and is not defined;
+	- **(k)** authorizing the Minister to vary or suspend the application of any regulation made under this Act if the Minister considers it necessary to do so for the conservation of migratory birds; and
+	- **(l)** designating provisions of the regulations for the purposes of paragraphs 13(1)(c) and 13.03(1)(b).
 
 **Amendments to Convention**
 
@@ -761,7 +762,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Debate in House of Commons**
 
 - **(3)** Any amendment tabled in both Houses of Parliament pursuant to subsection (2) shall be debated in the House of Commons within twenty sitting days after being tabled in both Houses.
-> 1994, c. 22, s. 12; 2001, c. 34, s. 53(E); 2005, c. 23, s. 8
+> 1994, c. 22, s. 12; 2001, c. 34, s. 53(E); 2005, c. 23, s. 8; 2009, c. 14, s. 101
 
 
 
@@ -771,88 +772,380 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Contravention of Act or regulations**
+**Offence — persons**
 
 **13** 
 
-- **(1)** A person or vessel commits an offence if the person or vessel contravenes
-	- **(a)** a provision of this Act or the regulations;
-	- **(b)** an obligation or prohibition arising from this Act or the regulations;
-	- **(c)** an order or direction made under this Act; or
-	- **(d)** an order, direction or decision of a court made under this Act.
+- **(1)** Every person commits an offence who
+	- **(a)** contravenes section 5, subsection 5.1(1) or (2), paragraph 5.2(a), (c) or (d), subsection 5.3(1), 8.1(6), or 11.24(1);
+	- **(b)** knowingly contravenes paragraph 5.2(b);
+	- **(c)** contravenes any provision of the regulations designated by regulations made under paragraph 12(1)(l);
+	- **(d)** contravenes an order made under subsection 8.1(1) or (2); or
+	- **(e)** contravenes an order made by a court under this Act.
 
-**Penalties**
+**Penalty — individuals**
 
-- **(1.1)** Every person or vessel that commits an offence is liable
-	- **(a)** on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both; and
-	- **(b)** on summary conviction, to a fine of not more than $300,000 or to imprisonment for a term of not more than six months, or to both.
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $15,000 and not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $30,000 and not more than $2,000,000 or to imprisonment for a term of not more than three years, or to both; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $5,000 and not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $10,000 and not more than $600,000 or to imprisonment for a term of not more than six months, or to both.
 
-**Vessel of 5,000 tonnes deadweight or over**
+**Penalty — other persons**
 
-- **(1.11)** In the case of an offence under section 5.1 that is committed by a vessel of 5,000 tonnes deadweight or over,
-	- **(a)** the fine imposed under paragraph (1.1)(a) shall not be less than $500,000; and 
-	- **(b)** the fine imposed under paragraph (1.1)(b) shall not be less than $100,000.
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
 
-**Parties to offence**
+**Penalty — small revenue corporations**
 
-- **(1.2)** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to the offence, and is liable on conviction to the penalty provided for by this Act, whether or not the corporation is prosecuted for the offence.
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 13.02 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+> 1994, c. 22, s. 13; 2005, c. 23, s. 9; 2009, c. 14, s. 102
 
-**Proof of offence — corporation**
 
-- **(1.3)** In a prosecution of a corporation for an offence under this Act, other than an offence under paragraph 5.2(a), (c) or (d) or section 5.4 or 5.5, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or prosecuted for the offence.
 
-**Proof of offence — vessel**
 
-- **(1.4)** In a prosecution of a vessel for an offence under this Act, other than an offence under paragraph 5.2(a), (c) or (d), it is sufficient proof of the offence to establish that it was committed by a person on board the vessel, whether or not the person is identified or prosecuted for the offence.
 
-**Directions or orders**
+**Offence — persons**
 
-- **(1.5)** For the purpose of prosecuting a vessel for contravening a direction or order given under this Act, a direction or order given to the master or a crew member is deemed to have been given to the vessel.
+**13.01** 
 
-**Proof of offence**
+- **(1)** Every person commits an offence who
+	- **(a)** contravenes any provision of this Act or the regulations, other than a provision the contravention of which is an offence under subsection 13(1);
+	- **(b)** negligently contravenes paragraph 5.2(b); or
+	- **(c)** contravenes an order or direction made under this Act, other than an order the contravention of which is an offence under subsection 13(1).
 
-- **(1.6)** In a prosecution of a master or chief engineer of a vessel for an offence under this Act, other than an offence under paragraph 5.2(a), (c) or (d) or section 5.3, 5.4 or 5.5, it is sufficient proof of the offence to establish that it was committed by a person on board the vessel, whether or not the person is identified or prosecuted for the offence.
+**Penalty — individuals**
 
-**Proof of offence**
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $100,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $200,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $25,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $50,000.
 
-- **(1.7)** In a prosecution of an offence under section 5.4, it is sufficient proof of the offence to establish that a substance was deposited by the vessel contrary to section 5.1.
+**Penalty — other persons**
 
-**Due diligence**
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
 
-- **(1.8)** A person or vessel that establishes that they exercised due diligence to prevent the commission of an offence under this Act, other than an offence under paragraph 5.2(a), (c) or (d) or section 5.3, shall not be found guilty of the offence.
+**Penalty — small revenue corporations**
 
-**Subsequent offences**
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 13.02 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 102
 
-- **(2)** If a person or vessel is convicted of an offence under this Act a second or subsequent time, the amount of the fine for the subsequent offence may be double the amount set out in subsection (1.1).
 
-**Continuing offence**
 
-- **(3)** A person or vessel that commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
 
-**Fines cumulative**
 
-- **(4)** Any fine imposed for an offence involving more than one migratory bird or nest may be calculated in respect of each one as though it had been the subject of a separate information and the fine then imposed is the total of that calculation.
+**Determination of small revenue corporation status**
 
-**Sentencing considerations**
+**13.02** For the purpose of sections 13 and 13.01, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
+> 2009, c. 14, s. 102
 
-- **(4.1)** A court that imposes a sentence shall take the following factors into account, in addition to any other principles that it is required to consider:
-	- **(a)** the harm or risk of harm caused by the commission of the offence;
-	- **(b)** whether the offender was found to have committed the offence intentionally, recklessly or inadvertently;
-	- **(c)** whether the offender was found to have been negligent or incompetent or to have shown a lack of concern with respect to the commission of the offence;
-	- **(d)** any property, benefit or advantage received or receivable by the offender to which, but for the commission of the offence, the offender would not have been entitled;
-	- **(e)** any evidence from which the court may reasonably conclude that the offender has a history of non-compliance with this Act or the regulations; and
-	- **(f)** all available sanctions that are reasonable in the circumstances, with particular attention to the circumstances of aboriginal offenders.
+
+
+
+
+**Offence — vessels**
+
+**13.03** 
+
+- **(1)** Every vessel commits an offence that contravenes
+	- **(a)** section 5.1;
+	- **(b)** any provision of the regulations designated by regulations made under paragraph 12(1)(l); or
+	- **(c)** an order or a direction made under this Act, including one made by a court.
+
+**Penalty — vessels of 7 500 tonnes deadweight or over**
+
+- **(2)** Every vessel of 7 500 tonnes deadweight or over that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
+
+**Penalty — other vessels**
+
+- **(3)** Every other vessel that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Offences — vessels**
+
+**13.04** 
+
+- **(1)** Every vessel commits an offence that contravenes any provision of this Act or the regulations, other than a provision the contravention of which is an offence under subsection 13.03(1).
+
+**Penalty — vessels of 7 500 tonnes deadweight or over**
+
+- **(2)** Every vessel of 7 500 tonnes deadweight or over that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
+
+**Penalty — other vessels**
+
+- **(3)** Every other vessel that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Deeming — second and subsequent offence**
+
+**13.05** 
+
+- **(1)** For the purposes of subsections 13(2) to (4), 13.01(2) to (4), 13.03(2) and (3) and 13.04(2) and (3), a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted — under any Act of Parliament, or any Act of the legislature of a province, that relates to environmental or wildlife conservation or protection — of a substantially similar offence.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Relief from minimum fine**
+
+**13.06** The court may impose a fine that is less than the minimum amount provided for in section 13 or 13.03, as the case may be, if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in any of those sections.
+> 2009, c. 14, s. 102
+
+
+
+
 
 **Additional fine**
 
-- **(5)** If a person or vessel is convicted of an offence and the court is satisfied that, as a result of the commission of the offence, a monetary benefit accrued to the person or to an owner or operator of the vessel, or another person incurred a monetary loss,
-	- **(a)** the court may order the offender to pay an additional fine in an amount equal to the court’s estimate of the amount of the monetary benefit or loss; and
-	- **(b)** the additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+**13.07** If a person or vessel is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person — or, if the offender is a vessel, the owner or operator of the vessel — acquired any property, benefit or advantage, the court shall order the offender to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Notice to shareholders**
+
+**13.08** If a corporation that has shareholders is convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Fundamental purpose of sentencing**
+
+**13.09** The fundamental purpose of sentencing for offences under this Act is to contribute, in light of the long-standing recognition of the social, cultural and environmental importance of migratory birds, to respect for the law protecting and conserving migratory birds and their nests through the imposition of just sanctions that have as their objectives
+- **(a)** to deter the offender and any other person from committing offences under this Act;
+- **(b)** to denounce unlawful conduct that damages or creates a risk of damage to migratory birds or their nests; and
+- **(c)** to reinforce the “polluter pays” principle and to restore migratory birds and their habitats.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Sentencing principles**
+
+**13.1** 
+
+- **(1)** In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court shall consider the following principles when sentencing a person who is convicted of an offence under this Act:
+	- **(a)** the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (2); and
+	- **(b)** the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+**Aggravating factors**
+
+- **(2)** The aggravating factors are the following:
+	- **(a)** the offence caused damage or risk of damage to migratory birds or their nests;
+	- **(b)** the offence caused damage or risk of damage to any unique, rare, particularly important or vulnerable population of migratory birds;
+	- **(c)** the damage caused by the offence is extensive, persistent or irreparable;
+	- **(d)** the offender committed the offence intentionally or recklessly;
+	- **(e)** the offender failed to take reasonable steps to prevent the commission of the offence despite having the financial means to do so;
+	- **(f)** by committing the offence or failing to take action to prevent its commission, the offender increased revenue or decreased costs or intended to increase revenue or decrease costs;
+	- **(g)** the offender committed the offence despite having been warned by a game officer of the circumstances that subsequently became the subject of the offence;
+	- **(h)** the offender has a history of non-compliance with federal or provincial legislation that relates to environmental or wildlife conservation or protection; and
+	- **(i)** after the commission of the offence, the offender
+		- **(i)** attempted to conceal its commission,
+		- **(ii)** failed to take prompt action to prevent, mitigate or remediate its effects, or
+		- **(iii)** failed to take prompt action to reduce the risk of committing similar offences in the future.
+
+**Absence of aggravating factor**
+
+- **(3)** The absence of an aggravating factor set out in subsection (2) is not a mitigating factor.
+
+**Meaning of damage**
+
+- **(4)** For the purposes of paragraphs (2)(a) to (c), ***damage*** includes loss of use value and non-use value.
+
+**Reasons**
+
+- **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Proceedings against vessels**
+
+**13.11** 
+
+- **(1)** The provisions of this Act and the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) relating to indictable or summary conviction offences that apply to persons apply also to vessels, with any modifications that the circumstances require.
+
+**Direction binds vessel**
+
+- **(2)** For the purpose of prosecuting a vessel for contravening a direction or an order made under this Act, other than an order made under section 11.21, any direction or order made under this Act that is given to the master or a crew member of the vessel binds the vessel as though it had been given to the vessel.
+
+**Service**
+
+- **(3)** If a vessel is charged with having committed an offence under this Act, the summons may be served by leaving it with the owner, operator, master or any officer of the vessel or by posting the summons on some conspicuous part of the vessel.
+
+**Appearance at trial**
+
+- **(4)** If a vessel is charged with having committed an offence under this Act, the vessel may appear by counsel or representative. Despite the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if the vessel does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
+
+**Proof of offence — vessel**
+
+- **(5)** In a prosecution of a vessel for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by a person on board the vessel, whether or not the person is identified or prosecuted for the offence.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Liability of directors, officers, etc., of corporation**
+
+**13.12** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to the offence and is liable on conviction to the penalty provided for by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Liability of masters, chief engineers, owners, etc.**
+
+**13.13** 
+
+- **(1)** If a vessel commits an offence under this Act and the master, chief engineer, owner or operator of the vessel directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the master, chief engineer, owner, or operator, as the case may be, is a party to the offence and is liable on conviction to the penalty provided for by this Act for an individual for the offence of contravening section 5.1, whether or not the vessel has been prosecuted or convicted.
+
+**Liability of directors and officers of corporate owners of vessels**
+
+- **(2)** If a vessel commits an offence under this Act and the owner or operator of the vessel is a corporation, every director and officer of the corporation who directed or influenced the corporation’s policies or activities in respect of conduct that is the subject matter of the offence is a party to an offence and is liable on conviction to the penalty provided for by this Act for an individual for the offence of contravening section 5.1, whether or not the vessel has been prosecuted or convicted.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Proof of offence — corporation**
+
+**13.14** In a prosecution of a corporation for an offence under this Act, other than an offence of contravening paragraph 5.2(a), knowingly contravening paragraph 5.2(b) or contravening paragraph 5.2(c) or (d) or section 5.4 or 5.5, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or prosecuted for the offence.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Proof of offence — master or chief engineer**
+
+**13.15** In a prosecution of a master or chief engineer of a vessel for an offence under this Act, other than an offence of contravening paragraph 5.2(a), knowingly contravening paragraph 5.2(b) or contravening paragraph 5.2(c) or (d) or section 5.4 or 5.5, it is sufficient proof of the offence to establish that it was committed by a person on board the vessel, whether or not the person is identified or prosecuted for the offence.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Proof of offence — section 5.4**
+
+**13.16** In a prosecution of an offence under section 5.4, it is sufficient proof of the offence to establish that a substance was deposited by the vessel contrary to section 5.1.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Due diligence**
+
+**13.17** A person or vessel that establishes that they exercised due diligence to prevent the commission of an offence under this Act, other than an offence of contravening paragraph 5.2(a), (c) or (d), knowingly contravening paragraph 5.2(b) or contravening section 5.3, shall not be found guilty of the offence.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Continuing offence**
+
+**13.18** A person or vessel that commits or continues an offence under this Act on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
+> 2009, c. 14, s. 102
+
+
+
+
+
+**Offences involving more than one bird or nest**
+
+**13.19** If an offence under this Act involves more than one migratory bird or nest, the fine to be imposed in respect of that offence may, despite sections 13, 13.01, 13.03 and 13.04, be the total of the fines that would have been imposed if each of the migratory birds or nests had been the subject of a separate information.
+> 2009, c. 14, s. 102
+
+
+
+
 
 **Application of fines**
 
-- **(6)** All fines received by the Receiver General in respect of the commission of an offence under this Act shall be received for the special purpose of protecting and conserving migratory birds or the environment and credited to the Environmental Damages Fund, an account in the accounts of Canada.
-> 1994, c. 22, s. 13; 2005, c. 23, s. 9
+**13.2** 
+
+- **(1)** All fines received by the Receiver General in respect of the commission of an offence under this Act, other than fines collected under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), are to be credited to the Environmental Damages Fund, an account in the accounts of Canada, and used for purposes related to protecting, conserving or restoring the environment or for administering that Fund.
+
+**Recommendations of court**
+
+- **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
+> 2009, c. 14, s. 102
 
 
 
