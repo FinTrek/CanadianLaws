@@ -11,7 +11,7 @@ Sanctionnée sur le 17 décembre 1992
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -392,6 +392,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** régir le marquage de tout ou partie d’un animal ou végétal, ou d’un produit qui en provient, et de leurs contenants ou emballages, pour leur importation, leur exportation ou pour leur acheminement interprovincial;
 	- **f)** préciser les documents que doivent tenir les personnes mentionnées à l’article 9, ainsi que la forme et les modalités, de temps ou autre, relatives à la garde de ces documents;
 	- **g)** spécifier, pour l’application de l’article 18, les conditions de retrait;
+	- **g.1)** désigner les dispositions des règlements pour l’application de l’alinéa 22(1)b);
 	- **h)** fixer les modalités de distribution du produit des amendes ou de l’exécution des ordonnances prévues par la présente loi;
 	- **i)** fixer tous droits exigibles dans le cadre de la présente loi ainsi que les modalités de paiement de ces droits;
 	- **j)** prendre toute autre mesure d’application de la Convention.
@@ -399,7 +400,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** Le gouverneur en conseil énumère, par règlement, les animaux et végétaux mentionnés respectivement sous les rubriques « fauna » et « flora » des annexes de la Convention; il est tenu, dans les quatre-vingt-dix jours suivant tout changement de ces annexes, de modifier ce règlement en conséquence.
-> 1992, ch. 52, art. 21; 2002, ch. 29, art. 140.
+> 1992, ch. 52, art. 21; 2002, ch. 29, art. 140; 2009, ch. 14, art. 121.
 
 
 
@@ -432,66 +433,303 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Infractions et peines**
+**Infraction — personnes**
 
 **22** 
 
-- **(1)** Quiconque contrevient à la présente loi ou à ses règlements commet une infraction et encourt, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire :
-		- **(i)** dans le cas des personnes morales, une amende maximale de cinquante mille dollars,
-		- **(ii)** dans le cas des autres personnes, une amende maximale de vingt-cinq mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
-	- **b)** par mise en accusation :
-		- **(i)** dans le cas des personnes morales, une amende maximale de trois cent mille dollars,
-		- **(ii)** dans le cas des autres personnes, une amende maximale de cent cinquante mille dollars et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** à toute disposition de la présente loi;
+	- **b)** à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 21(1)g.1);
+	- **c)** à toute ordonnance judiciaire rendue en vertu de la présente loi.
 
-**Cas de récidive**
+**Peine — personnes physiques**
 
-- **(2)** En cas de récidive, le maximum de l’amende qui peut être infligée est le double des montants mentionnés au paragraphe (1).
+- **(2)** La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $ et d’un emprisonnement maximal de six, ou de l’une de ces peines.
 
-**Amendes cumulatives**
+**Peine — autres personnes**
 
-- **(3)** Malgré le paragraphe (1), en cas de déclaration de culpabilité pour une infraction portant soit sur plusieurs animaux, végétaux ou produits qui en proviennent, soit sur plusieurs parties de ceux-ci, l’amende peut être calculée sur chaque pièce, comme si chacune d’elles avait fait l’objet d’une plainte ou d’une dénonciation distincte; l’amende finale infligée est alors la somme totale obtenue.
+- **(3)** La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
 
-**Infractions continues**
+**Peine — personnes morales à revenus modestes**
 
-- **(4)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+- **(4)** La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 22.02 est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+
+**Allègement de l’amende minimale**
+
+- **(5)** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue au présent article s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
+> 1992, ch. 52, art. 22; 1995, ch. 22, art. 18; 2009, ch. 14, art. 122.
+
+
+
+
+
+**Infraction — personnes**
+
+**22.01** 
+
+- **(1)** Commet une infraction quiconque contrevient à toute disposition des règlements, sauf une disposition dont la contravention constitue une infraction aux termes du paragraphe 22(1).
+
+**Peine — personnes physiques**
+
+- **(2)** La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 100 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 200 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 25 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 50 000 $.
+
+**Peine — autres personnes**
+
+- **(3)** La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 500 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 1 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $.
+
+**Peine — personnes morales à revenus modestes**
+
+- **(4)** La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 22.02 est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 50 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 100 000 $.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Déclaration : personne morale à revenus modestes**
+
+**22.02** Pour l’application des articles 22 et 22.01, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Présomption — récidive**
+
+**22.03** 
+
+- **(1)** Pour l’application des paragraphes 22(2) à (4) et 22.01(2) à (4), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement ou des espèces sauvages, d’une infraction essentiellement semblable.
+
+**Limitation**
+
+- **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+> 2009, ch. 14, art. 122.
+
+
+
+
 
 **Amende supplémentaire**
 
-- **(5)** Le tribunal saisi d’une poursuite pour infraction à la présente loi peut, s’il constate que le contrevenant a tiré des avantages financiers de la perpétration de celle-ci, lui infliger, en sus du maximum imposable, le montant qu’il juge égal à ces avantages, à titre d’amende supplémentaire.
+**22.04** Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Avis aux actionnaires**
+
+**22.05** En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**[Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md)**
+
+**22.06** Lorsqu’une infraction à la présente loi est qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md), le paragraphe 8(5) de cette dernière ne s’applique pas au montant de l’amende pouvant être fixé pour cette contravention.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Objectif premier de la détermination de la peine**
+
+**22.07** La détermination des peines relatives aux infractions à la présente loi a pour objectif premier de contribuer, compte tenu des nombreuses menaces graves auxquelles font face les espèces animales et végétales et de l’importance de ces espèces pour l’environnement, au respect des lois visant la réglementation du commerce international et interprovincial des espèces animales et végétales. Cet objectif est atteint par l’imposition de sanctions justes visant ce qui suit :
+- **a)** dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
+- **b)** dénoncer le commerce illégal de certaines espèces animales et végétales et faire en sorte qu’aucun profit n’en soit tiré;
+- **c)** rétablir, lorsqu’il est possible, certaines espèces animales et végétales faisant l’objet de commerce illégal.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Détermination de la peine — principes**
+
+**22.08** 
+
+- **(1)** Pour la détermination de la peine à infliger au contrevenant, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) —, tient compte des principes suivants :
+	- **a)** le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (2);
+	- **b)** le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+**Détermination de la peine — circonstances aggravantes**
+
+- **(2)** Les circonstances aggravantes dont le tribunal tient compte sont les suivantes :
+	- **a)** l’infraction a causé directement ou indirectement un dommage ou un risque de dommage à des animaux ou végétaux;
+	- **b)** l’infraction a causé un dommage ou un risque de dommage à des espèces animales ou végétales — ou à des populations d’animaux ou de végétaux — uniques, rares, particulièrement importantes ou vulnérables;
+	- **c)** le contrevenant a agi de façon intentionnelle ou insouciante;
+	- **d)** le contrevenant, en commettant l’infraction, a tiré des profits ou avait l’intention de le faire;
+	- **e)** le contrevenant a dans le passé accompli des actes contraires aux lois fédérales ou provinciales visant la conservation ou la protection de l’environnement ou des espèces sauvages;
+	- **f)** les préparatifs entourant la perpétration de l’infraction ont exigé une importante planification.
+
+**Absence de circonstances aggravantes**
+
+- **(3)** L’absence de circonstances aggravantes mentionnées au paragraphe (2) n’est pas une circonstance atténuante.
+
+**Sens de dommage**
+
+- **(4)** Pour l’application des alinéas (2)a) et b), le dommage comprend la perte des valeurs d’usage et de non-usage.
+
+**Motifs**
+
+- **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Amendes cumulatives**
+
+**22.09** Malgré les articles 22 et 22.01, en cas de déclaration de culpabilité pour une infraction à la présente loi portant soit sur plus d’un animal, végétal ou produit qui en proviennent, soit sur plusieurs parties de ceux-ci, l’amende peut être calculée sur chacun d’eux, comme s’ils avaient fait l’objet d’une dénonciation distincte; l’amende totale infligée est alors la somme totale obtenue.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Infraction continue**
+
+**22.1** Il est compté une infraction distincte à la présente loi pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+> 2009, ch. 14, art. 122.
+
+
+
+
+
+**Affectation**
+
+**22.11** 
+
+- **(1)** Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi — à l’exception des sommes perçues en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) — sont portées au crédit du Fonds pour dommages à l’environnement — ouvert parmi les comptes du Canada — et sont utilisées à des fins liées à la protection, à la conservation, au rétablissement ou à la restauration de l’environnement, ou pour l’administration du fonds.
+
+**Recommandation du tribunal**
+
+- **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise pour l’une des fins visées au paragraphe (1).
+> 2009, ch. 14, art. 122.
+
+
+
+
 
 **Ordonnance du tribunal**
 
-- **(6)** En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à la personne déclarée coupable tout ou partie des obligations suivantes :
-	- **a)** s’abstenir de tout acte ou activité risquant d’entraîner, à son avis, la continuation de l’infraction ou la récidive;
-	- **b)** prendre les mesures qu’il estime justes pour réparer ou éviter les dommages aux animaux ou végétaux visés par l’une ou l’autre des dispositions de la présente loi résultant ou susceptibles de résulter de la perpétration de l’infraction;
-	- **c)** publier, de la façon indiquée par lui, les faits liés à la perpétration de l’infraction;
-	- **d)** indemniser le ministre ou le gouvernement de la province, en tout ou en partie, des frais qu’il a engagés pour la réparation ou la prévention des dommages résultant ou susceptibles de résulter de la perpétration de l’infraction;
-	- **e)** exécuter des travaux d’intérêt collectif à des conditions raisonnables;
-	- **f)** en garantie de l’acquittement des obligations imposées au titre du présent paragraphe, fournir le cautionnement ou déposer auprès de lui le montant qu’il estime indiqué;
-	- **g)** fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant la déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime justifiées en l’occurrence;
-	- **h)** se conformer aux autres conditions qu’il estime justifiées pour assurer la bonne conduite du contrevenant et empêcher toute récidive.
+**22.12** 
+
+- **(1)** En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à la personne déclarée coupable tout ou partie des obligations suivantes :
+	- **a)** s’abstenir de tout acte ou toute activité risquant d’entraîner, de l’avis du tribunal, la continuation de l’infraction ou la récidive;
+	- **b)** prendre les mesures que le tribunal estime indiquées pour réparer ou éviter tout dommage aux espèces animales ou végétales visées par les dispositions de la présente loi résultant ou pouvant résulter de la perpétration de l’infraction;
+	- **c)** publier, de la façon que le tribunal précise, les faits liés à la perpétration de l’infraction et les détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **d)** aviser les personnes touchées ou lésées par sa conduite, à ses frais et de la façon que le tribunal précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **e)** indemniser toute personne, de façon monétaire ou autrement, en tout ou en partie, des frais exposés par elle pour toute mesure prise ou à prendre pour la réparation ou la prévention du dommage résultant — ou pouvant résulter — des faits qui ont mené à la déclaration de culpabilité, y compris des frais occasionnés pour l’évaluation des mesures de réparation ou de prévention pertinentes;
+	- **f)** exécuter des travaux d’intérêt collectif à des conditions raisonnables;
+	- **f.1)** verser, selon les modalités qu’il précise, une somme d’argent destinée à permettre des recherches sur la protection ou la conservation des animaux ou des plantes;
+	- **f.2)** verser à un établissement d’enseignement, selon les modalités prescrites, une somme d’argent notamment destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+	- **f.3)** verser, selon les modalités prescrites, une somme d’argent à des groupes concernés notamment par la protection de l’environnement, à titre d’aide pour la protection de l’espèce animale ou végétale faisant l’objet de l’infraction;
+	- **g)** en garantie de l’exécution des obligations imposées au titre du présent paragraphe, fournir le cautionnement ou déposer auprès du tribunal la somme que celui-ci estime indiqué;
+	- **h)** verser à Sa Majesté du chef du Canada, en vue de promouvoir la conservation ou la protection des espèces végétales et animales, la somme que le tribunal estime indiquée;
+	- **i)** fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant sa déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime indiqués en l’occurrence;
+	- **j)** se conformer aux autres conditions que le tribunal estime indiquées pour assurer sa bonne conduite et la dissuader, ainsi que toute autre personne, de commettre des infractions à la présente loi;
+	- **k)** remettre au ministre les permis qui lui ont été délivrés sous le régime de la présente loi;
+	- **l)** s’abstenir de présenter une nouvelle demande de permis sous le régime de la présente loi pendant la période que le tribunal indiquée.
+
+**Publication**
+
+- **(2)** En cas d’inexécution de l’obligation prévue à l’alinéa (1)c), le ministre peut procéder à la publication des faits liés à la perpétration de l’infraction et des détails de la peine imposée, de la façon précisée par le tribunal à la personne déclarée coupable, et en recouvrer les frais auprès de celui-ci.
+
+**Créances de Sa Majesté**
+
+- **(3)** L’indemnité et la somme à verser à Sa Majesté du chef du Canada en application des alinéas (1)e) ou h), ainsi que les frais visés au paragraphe (2), constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+
+**Exécution**
+
+- **(4)** Toute personne, à l’exception de Sa Majesté du chef du Canada, qui a droit à une indemnité en vertu de l’alinéa (1)e) peut, à défaut de paiement immédiat, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’indemnité en question; ce jugement peut être exécuté contre le contrevenant de la même manière que s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
+
+**Annulation ou suspension de permis**
+
+- **(5)** Les permis remis en application de l’alinéa (1)k) sont annulés à moins que le tribunal ne les suspende pour la période qu’il estime indiquée.
+
+**Prise d’effet**
+
+- **(6)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
+> 2009, ch. 14, art. 122.
+
+
+
+
 
 **Sursis de la peine**
 
-- **(7)** Le tribunal qui, en vertu de l’alinéa 731(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), surseoit au prononcé de la peine contre la personne déclarée coupable d’une infraction à la présente loi en plus de toute ordonnance de probation rendue au titre de cet alinéa, peut, par ordonnance, enjoindre à cette personne de se conformer à l’une ou plusieurs des obligations mentionnées au paragraphe (6).
+**22.13** Le tribunal qui, en vertu de l’alinéa 731(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), sursoit au prononcé de la peine contre la personne déclarée coupable d’une infraction à la présente loi en plus de toute ordonnance de probation rendue au titre de cet alinéa, peut, par ordonnance, enjoindre à cette personne de se conformer à l’une ou plusieurs des obligations mentionnées à l’article 22.12.
+> 2009, ch. 14, art. 122.
+
+
+
+
 
 **Prononcé de la peine**
 
-- **(8)** Sur demande de la poursuite, le tribunal peut, lorsqu’une personne visée par une ordonnance rendue en vertu du paragraphe (7) ne se conforme pas aux modalités de celle-ci ou est déclarée coupable d’une autre infraction à la présente loi dans les trois ans qui suivent la date de l’ordonnance, infliger à cette personne la peine qui aurait pu lui être infligée s’il n’y avait pas eu de sursis.
+**22.14** Sur demande de la poursuite, le tribunal peut, lorsqu’une personne visée par une ordonnance rendue en vertu de l’article 22.12 ne se conforme pas aux modalités de celle-ci ou est déclarée coupable d’une autre infraction à la présente loi dans les trois ans qui suivent la date de l’ordonnance, infliger à cette personne la peine qui aurait pu lui être infligée s’il n’y avait pas eu de sursis.
+> 2009, ch. 14, art. 122.
+
+
+
+
 
 **Prescription**
 
-- **(9)** Les poursuites visant une infraction punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans suivant la date où le ministre a eu connaissance des éléments constitutifs de l’infraction.
+**22.15** La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent au prolongement de ce délai.
+> 2009, ch. 14, art. 122.
 
-**Certificat du ministre**
 
-- **(10)** Le document censé délivré par le ministre et attestant la date où ces éléments sont parvenus à sa connaissance est admissible en preuve et fait foi, sauf preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
 
-**Poursuite personnelle**
 
-- **(11)** Toute personne majeure peut, lorsque le procureur général du Canada n’intervient pas, intenter une poursuite en vertu de la présente loi.
-> 1992, ch. 52, art. 22; 1995, ch. 22, art. 18.
+
+**Refus ou suspension du permis**
+
+**22.16** Le ministre peut refuser de délivrer tout permis sous le régime de la présente loi ou l’annuler si le demandeur ou son titulaire a été déclaré coupable d’une infraction à la présente loi.
+> 2009, ch. 14, art. 122.
 
 
 
@@ -542,9 +780,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Dirigeant d’une personne morale**
+**Responsabilité pénale : dirigeants, administrateurs et mandataires**
 
-**24** En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+**24** 
+
+- **(1)** En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+**Devoirs des dirigeants et administrateurs**
+
+- **(2)** Les dirigeants et administrateurs de la personne morale font preuve de la diligence voulue pour que celle-ci se conforme :
+	- **a)** à la présente loi et aux règlements;
+	- **b)** aux ordres donnés en vertu de la présente loi.
+> 1992, ch. 52, art. 24; 2009, ch. 14, art. 123.
+
 
 
 
