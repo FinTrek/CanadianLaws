@@ -397,6 +397,7 @@ the justice may issue a warrant authorizing an officer to enter the dwelling-pla
 	- **(e)** respecting the marking of animals and plants, and parts and derivatives of animals and plants, and the packaging for animals, plants and parts and derivatives of animals and plants for importation into or exportation from Canada or for transportation from one province to another province;
 	- **(f)** prescribing the documents to be kept by persons mentioned in section 9 and the manner of keeping the documents and the period for which they are to be kept;
 	- **(g)** specifying the terms and conditions under which animals and plants, and parts and derivatives of animals and plants, are to be removed from Canada under section 18;
+	- **(g.1)** designating provisions of the regulations for the purposes of paragraph 22(1)(b);
 	- **(h)** prescribing the manner in which the proceeds resulting from the payment of fines or the execution of orders under this Act shall be distributed;
 	- **(i)** prescribing the fees or charges to be paid in connection with the administration of this Act and the terms and conditions of paying such fees and charges; and
 	- **(j)** generally to implement the Convention.
@@ -404,7 +405,7 @@ the justice may issue a warrant authorizing an officer to enter the dwelling-pla
 **Idem**
 
 - **(2)** The Governor in Council shall make regulations specifying the animals and plants that are listed as “fauna” and “flora”, respectively, in an appendix to the Convention and shall, not later than ninety days after any change to a list in an appendix to the Convention, amend the regulations to reflect that change.
-> 1992, c. 52, s. 21; 2002, c. 29, s. 140.
+> 1992, c. 52, s. 21; 2002, c. 29, s. 140; 2009, c. 14, s. 121.
 
 
 
@@ -437,66 +438,303 @@ the justice may issue a warrant authorizing an officer to enter the dwelling-pla
 
 
 
-**Offence and punishment**
+**Offence — persons**
 
 **22** 
 
-- **(1)** Every person who contravenes a provision of this Act or the regulations
-	- **(a)** is guilty of an offence punishable on summary conviction and is liable
-		- **(i)** in the case of a person that is a corporation, to a fine not exceeding fifty thousand dollars, and
-		- **(ii)** in the case of a person other than a person referred to in subparagraph (i), to a fine not exceeding twenty-five thousand dollars or to imprisonment for a term not exceeding six months, or to both; or
-	- **(b)** is guilty of an indictable offence and is liable
-		- **(i)** in the case of a person that is a corporation, to a fine not exceeding three hundred thousand dollars, and
-		- **(ii)** in the case of a person other than a person referred to in subparagraph (i), to a fine not exceeding one hundred and fifty thousand dollars or to imprisonment for a term not exceeding five years, or to both.
+- **(1)** Every person commits an offence who contravenes
+	- **(a)** any provision of this Act;
+	- **(b)** any provision of the regulations designated by regulations made under paragraph 21(1)(g.1); or
+	- **(c)** any order made under this Act by a court.
 
-**Subsequent offences**
+**Penalty — individuals**
 
-- **(2)** Where a person is convicted of an offence under this Act a second or subsequent time, the amount of the fine for the subsequent offence may, notwithstanding subsection (1), be double the amount set out in that subsection.
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $15,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $30,000 and not more than $2,000,000 or to imprisonment for a term of not more than five years, or to both; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $5,000 and not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $10,000 and not more than $600,000 or to imprisonment for a term of not more than six months, or to both.
 
-**Fines cumulation**
+**Penalty — other persons**
 
-- **(3)** Notwithstanding subsection (1), any fine imposed on a conviction for an offence involving more than one animal or plant, or part or derivative of an animal or plant, may be computed in respect of each animal, plant, part or derivative as though it had been the subject of a separate complaint or information and the fine imposed shall then be the sum payable in the aggregate as a result of that computation.
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
 
-**Continuing offence**
+**Penalty — small revenue corporations**
 
-- **(4)** Where an offence under this Act is committed or continued on more than one day, it shall be deemed to be a separate offence for each day on which the offence is committed or continued.
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 22.02 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+
+**Relief from minimum fine**
+
+- **(5)** The court may impose a fine that is less than the minimum amount provided for in this section if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in this section.
+> 1992, c. 52, s. 22; 1995, c. 22, s. 18; 2009, c. 14, s. 122.
+
+
+
+
+
+**Offence — persons**
+
+**22.01** 
+
+- **(1)** Every person commits an offence who contravenes any provision of the regulations, other than a provision the contravention of which is an offence under subsection 22(1).
+
+**Penalty — individuals**
+
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $100,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $200,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $25,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $50,000.
+
+**Penalty — other persons**
+
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
+
+**Penalty — small revenue corporations**
+
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 22.02 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Determination of small revenue corporation status**
+
+**22.02** For the purpose of sections 22 and 22.01, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Deeming — second and subsequent offence**
+
+**22.03** 
+
+- **(1)** For the purposes of subsections 22(2) to (4) and 22.01(2) to (4), a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted — under any Act of Parliament, or any Act of the legislature of a province, that relates to environmental or wildlife conservation or protection — of a substantially similar offence.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province, other than a procedure commenced by means of a ticket.
+> 2009, c. 14, s. 122.
+
+
+
+
 
 **Additional fine**
 
-- **(5)** Where a person has been convicted of an offence under this Act and the court is satisfied that as a result of the commission of the offence monetary benefits accrued to the person, the court may order the person to pay, notwithstanding the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimation of the amount of those monetary benefits.
+**22.04** If a person is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person acquired any property, benefit or advantage, the court shall order the person to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Notice to shareholders**
+
+**22.05** If a corporation that has shareholders has been convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
+
+**22.06** If an offence under this Act is designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), subsection 8(5) of that Act does not apply in respect of the fine that may be established for that contravention.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Fundamental purpose of sentencing**
+
+**22.07** The fundamental purpose of sentencing for offences under this Act is to contribute, in light of the numerous serious threats to plants and animals and their importance to the environment, to respect for the law regulating international and interprovincial trade in animals and plants through the imposition of just sanctions that have as their objectives
+- **(a)** to deter the offender and any other person from committing offences under this Act;
+- **(b)** to denounce the unlawful trade in certain animals and plants and to make it unprofitable; and
+- **(c)** to recover, if possible, certain species of animals and plants unlawfully traded.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Sentencing principles**
+
+**22.08** 
+
+- **(1)** In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court shall consider the following principles when sentencing a person who is convicted of an offence under this Act:
+	- **(a)** the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (2); and
+	- **(b)** the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+**Aggravating factors**
+
+- **(2)** The aggravating factors are the following:
+	- **(a)** the offence caused damage or risk of damage, directly or indirectly, to animals or plants;
+	- **(b)** the offence caused damage or risk of damage to a unique, rare, particularly important or vulnerable species of animal or plant or population of animals or plants;
+	- **(c)** the offender committed the offence intentionally or recklessly;
+	- **(d)** the offender profited, or intended to profit, by committing the offence;
+	- **(e)** the offender has a history of non-compliance with federal or provincial legislation that relates to environmental or wildlife conservation or protection; and
+	- **(f)** the offence involved a high degree of planning.
+
+**Absence of aggravating factor**
+
+- **(3)** The absence of an aggravating factor set out in subsection (2) is not a mitigating factor.
+
+**Meaning of damage**
+
+- **(4)** For the purposes of paragraphs (2)(a) and (b), ***damage*** includes loss of use value and non-use value.
+
+**Reasons**
+
+- **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Offences involving more than one animal or plant, etc.**
+
+**22.09** If an offence under this Act involves more than one animal or plant, or part or derivative of an animal or plant, the fine to be imposed in respect of that offence may, despite sections 22 and 22.01, be the total of the fines that would have been imposed if each of the animals, plants, parts or derivatives had been the subject of a separate information.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Continuing offence**
+
+**22.1** If an offence under this Act is committed or continued on more than one day, it is deemed to be a separate offence for each day on which the offence is committed or continued.
+> 2009, c. 14, s. 122.
+
+
+
+
+
+**Application of fines**
+
+**22.11** 
+
+- **(1)** All fines received by the Receiver General in respect of the commission of an offence under this Act, other than fines collected under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), are to be credited to the Environmental Damages Fund, an account in the accounts of Canada, and used for purposes related to protecting, conserving or restoring the environment or for administering that Fund.
+
+**Recommendations of court**
+
+- **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
+> 2009, c. 14, s. 122.
+
+
+
+
 
 **Orders of court**
 
-- **(6)** Where a person is convicted of an offence under this Act, in addition to any punishment imposed, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order containing any one or more of the following prohibitions, directions or requirements:
+**22.12** 
+
+- **(1)** If a person is convicted of an offence under this Act, in addition to any punishment imposed, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order containing one or more of the following prohibitions, directions or requirements:
 	- **(a)** prohibiting the person from doing any act or engaging in any activity that could, in the opinion of the court, result in the continuation or repetition of the offence;
-	- **(b)** directing the person to take any action the court considers appropriate to remedy or avoid any harm to any animal or plant to which any provision of this Act applies that resulted or may result from the commission of the offence;
-	- **(c)** directing the person to publish, in any manner the court considers appropriate, the facts relating to the commission of the offence;
-	- **(d)** directing the person to pay the Minister or the government of a province an amount of money as compensation, in whole or in part, for the cost of any remedial or preventive action taken by or caused to be taken on behalf of the Minister or that government as a result of the commission of the offence;
-	- **(e)** directing the person to perform community service in accordance with any reasonable conditions that may be specified in the order;
-	- **(f)** directing the person to post a bond or pay into court an amount of money the court considers appropriate for the purpose of ensuring compliance with any prohibition, direction or requirement mentioned in this subsection;
-	- **(g)** directing the person to submit to the Minister, on application by the Minister within three years after the date of the conviction, any information respecting the activities of the person that the court considers appropriate in the circumstances; and
-	- **(h)** requiring the person to comply with any other conditions that the court considers appropriate for securing the person’s good conduct and for preventing the person from repeating the offence or committing other offences under this Act.
+	- **(b)** directing the person to take any action that the court considers appropriate to remedy or avoid any harm to any animal or plant to which any provision of this Act applies that resulted or may result from the commission of the offence;
+	- **(c)** directing the person to publish, in the manner specified by the court, the facts relating to the commission of the offence and the details of the punishment imposed, including any orders made under this subsection;
+	- **(d)** directing the person to notify, at the person’s own cost and in the manner specified by the court, any person aggrieved or affected by the offender’s conduct of the facts relating to the commission of the offence and of the details of the punishment imposed, including any orders made under this subsection;
+	- **(e)** directing the person to compensate any person, monetarily or otherwise, in whole or in part, for the cost of any remedial or preventive action taken, caused to be taken or to be taken as a result of the act or omission that constituted the offence, including costs of assessing appropriate remedial or preventive action;
+	- **(f)** directing the person to perform community service in accordance with any reasonable conditions that may be specified in the order;
+	- **(f.1)** directing the person to pay, in a manner specified by the court, an amount to enable research to be conducted into the protection or conservation of animals or plants;
+	- **(f.2)** directing the person to pay, in the manner prescribed by the court, an amount to an educational institution including for scholarships for students enrolled in studies related to the environment;
+	- **(f.3)** directing the person to pay, in the manner prescribed by the court, an amount to environmental or other groups to assist in their work in relation to the protection of the species of animal or plant that was the subject of the offence;
+	- **(g)** directing the person to post a bond, provide surety or pay into court an amount of money that the court considers appropriate for the purpose of ensuring compliance with any prohibition, direction or requirement mentioned in this subsection;
+	- **(h)** directing the person to pay to Her Majesty in right of Canada an amount of money that the court considers appropriate for the purpose of promoting the conservation or protection of animals or plants;
+	- **(i)** directing the person to submit to the Minister, when requested to do so by the Minister at any time within three years after the date of the conviction, any information respecting the activities of the person that the court considers appropriate in the circumstances;
+	- **(j)** requiring the person to comply with any other conditions that the court considers appropriate in the circumstances for securing the person’s good conduct and for deterring the person and any other person from committing offences under this Act;
+	- **(k)** requiring the person to surrender to the Minister any permit issued under this Act to the person; and
+	- **(l)** prohibiting the person from applying for any new permit under this Act during any period that the court considers appropriate.
+
+**Publication**
+
+- **(2)** If a person fails to comply with an order made under paragraph (1)(c), the Minister may, in the manner that the court directed the person to do so, publish the facts relating to the commission of the offence and the details of the punishment imposed and recover the costs of publication from the offender.
+
+**Debt due to Her Majesty**
+
+- **(3)** If the court makes an order under paragraph (1)(e) or (h) directing a person to pay an amount to Her Majesty in right of Canada, or if the Minister incurs publication costs under subsection (2), the amount or the costs, as the case may be, constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+
+**Enforcement**
+
+- **(4)** If the court makes an order under paragraph (1)(e) directing a person to pay an amount to another person, other than to Her Majesty in right of Canada, and the amount is not paid without delay, that other person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the person who was directed to pay the amount in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+
+**Cancellation or suspension of permits**
+
+- **(5)** If the court makes an order under paragraph (1)(k), any permit to which the order relates is cancelled unless the court makes an order suspending it for any period that the court considers appropriate.
+
+**Coming into force and duration of order**
+
+- **(6)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day unless the court provides otherwise in the order.
+> 2009, c. 14, s. 122.
+
+
+
+
 
 **Suspended sentence**
 
-- **(7)** Where a person is convicted of an offence under this Act and the court suspends the passing of sentence pursuant to paragraph 731(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court may, in addition to any probation order made under that paragraph, make an order directing the person to comply with any prohibition, direction or requirement mentioned in subsection (6).
+**22.13** If a person is convicted of an offence under this Act and the court suspends the passing of sentence pursuant to paragraph 731(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court may, in addition to any probation order made under that paragraph, make an order directing the person to comply with any prohibition, direction or requirement mentioned in section 22.12.
+> 2009, c. 14, s. 122.
+
+
+
+
 
 **Imposition of sentence**
 
-- **(8)** Where a person whose sentence has been suspended fails to comply with an order made under subsection (7) or is convicted, within three years after the day on which the order was made, of another offence under this Act, the court may, on the application of the prosecution, impose any sentence that could have been imposed if the passing of sentence had not been suspended.
+**22.14** If a person whose sentence has been suspended fails to comply with an order made under 22.12 or is convicted, within three years after the day on which the order was made, of another offence under this Act, the court may, on the application of the prosecution, impose any sentence that could have been imposed if the passing of sentence had not been suspended.
+> 2009, c. 14, s. 122.
+
+
+
+
 
 **Limitation period**
 
-- **(9)** Proceedings by way of summary conviction in respect of an offence under this Act may be instituted at any time within, but not later than, two years after the day on which the Minister became aware of the subject-matter of the proceedings.
+**22.15** No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
+> 2009, c. 14, s. 122.
 
-**Minister’s certificate**
 
-- **(10)** A document purporting to have been issued by the Minister, certifying the day on which the Minister became aware of the subject-matter of any proceedings, shall be received in evidence and, in the absence of any evidence to the contrary, shall be considered as proof of that fact without proof of the signature or the official character of the person appearing to have signed it.
 
-**Private prosecutions**
 
-- **(11)** Any person who has attained the age of majority may, where the Attorney General of Canada does not intervene, institute proceedings to which this Act applies.
-> 1992, c. 52, s. 22; 1995, c. 22, s. 18.
+
+**Minister may refuse or suspend permit**
+
+**22.16** The Minister may refuse to issue a permit under this Act, or may cancel such a permit, if the applicant or the holder has been convicted of an offence under this Act.
+> 2009, c. 14, s. 122.
 
 
 
@@ -547,9 +785,19 @@ the justice may issue a warrant authorizing an officer to enter the dwelling-pla
 
 
 
-**Officers, etc., of corporations**
+**Liability of directors, officers, etc., of corporation**
 
-**24** Where a corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to or acquiesced or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+**24** 
+
+- **(1)** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the penalty provided for by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
+
+**Directors’ duties**
+
+- **(2)** Every director and officer of a corporation shall take all reasonable care to ensure that the corporation complies with
+	- **(a)** this Act and the regulations; and
+	- **(b)** orders made under this Act.
+> 1992, c. 52, s. 24; 2009, c. 14, s. 123.
+
 
 
 
