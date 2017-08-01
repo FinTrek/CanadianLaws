@@ -378,7 +378,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind6249_hq_20300'>[*]</a></sup>**44** This Act, other than section 43, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind6249_hq_20300'><sup>*</sup></a>: [Note: Act, other than section 43, not in force.]<br />
+<a name='fn_Ind6249_hq_20300'><sup>*</sup></a>: [Note: Act, other than section 43, in force August 1, 2017, *see* SI/2017-37.]<br />
 
 
 
