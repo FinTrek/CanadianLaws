@@ -1055,7 +1055,7 @@ Autorités habilitantes :
 <td>1,63 $</td>
 <td>1,65 $</td>
 <td>1,68 $</td>
-<td>1,70 $</td>
+<td>1,35 $</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1066,7 +1066,7 @@ Autorités habilitantes :
 <td>146,29 $</td>
 <td>148,63 $</td>
 <td>151,01 $</td>
-<td>153,43 $</td>
+<td>121,12 $</td>
 </tr>
 <tr>
 <td>Réinspection</td>
@@ -1098,7 +1098,7 @@ Autorités habilitantes :
 <td>0,16 $</td>
 <td>0,16 $</td>
 <td>0,16 $</td>
-<td>0,16 $</td>
+<td>0,07 $</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1109,7 +1109,7 @@ Autorités habilitantes :
 <td>14,09 $</td>
 <td>14,31 $</td>
 <td>14,54 $</td>
-<td>14,78 $</td>
+<td>6,67 $</td>
 </tr>
 <tr>
 <td>Autorisation d’un tiers — inspection ou pesée à l’arrivage</td>
@@ -1140,26 +1140,8 @@ Autorités habilitantes :
 <td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Heures supplémentaires à tarif et demi (à payer par l’exploitant de l’installation)</td>
-<td>Heures supplémentaires effectuées pour procéder à une inspection officielle à la sortie</td>
-<td>Heure/employé</td>
-<td>64,50 $</td>
-<td>65,53 $</td>
-<td>66,58 $</td>
-<td>67,65 $</td>
-<td>68,73 $</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Heures supplémentaires à tarif double (à payer par l’exploitant de l’installation)</td>
-<td>Heures supplémentaires effectuées pour procéder à une inspection officielle à la sortie</td>
-<td>Heure/employé</td>
-<td>86,00 $</td>
-<td>87,38 $</td>
-<td>88,77 $</td>
-<td>90,19 $</td>
-<td>91,64 $</td>
+<td>8 et 9</td>
+<td>[Abrogés, DORS/2017-125, art. 3]</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1303,7 +1285,7 @@ Droits visés aux articles 10 et 11
 
 
 
-> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1.
+> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1; DORS/2017-125, art. 1 à 3.
 
 
 
