@@ -378,7 +378,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind90E1_hq_20316'>[*]</a></sup>**44** La présente loi, à l’exception de l’article 43, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind90E1_hq_20316'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 43, non en vigueur.]<br />
+<a name='fn_Ind90E1_hq_20316'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 43, en vigueur le 1<sup>er</sup> août 2017, *voir* TR/2017-37.]<br />
 
 
 
