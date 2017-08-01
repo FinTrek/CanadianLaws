@@ -1055,7 +1055,7 @@ Enabling authorities:
 <td>$1.63</td>
 <td>$1.65</td>
 <td>$1.68</td>
-<td>$1.70</td>
+<td>$1.35</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1066,7 +1066,7 @@ Enabling authorities:
 <td>$146.29</td>
 <td>$148.63</td>
 <td>$151.01</td>
-<td>$153.43</td>
+<td>$121.12</td>
 </tr>
 <tr>
 <td>Reinspection</td>
@@ -1098,7 +1098,7 @@ Enabling authorities:
 <td>$0.16</td>
 <td>$0.16</td>
 <td>$0.16</td>
-<td>$0.16</td>
+<td>$0.07</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1109,7 +1109,7 @@ Enabling authorities:
 <td>$14.09</td>
 <td>$14.31</td>
 <td>$14.54</td>
-<td>$14.78</td>
+<td>$6.67</td>
 </tr>
 <tr>
 <td>Third-Party Authorization — Inward Inspection or Weighing</td>
@@ -1140,26 +1140,8 @@ Enabling authorities:
 <td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Time and one-half overtime (payable by the elevator operator)</td>
-<td>Overtime incurred to conduct an outward official inspection</td>
-<td>Hour/employee</td>
-<td>$64.50</td>
-<td>$65.53</td>
-<td>$66.58</td>
-<td>$67.65</td>
-<td>$68.73</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Double time overtime (payable by the elevator operator)</td>
-<td>Overtime incurred to conduct an outward official inspection</td>
-<td>Hour/employee</td>
-<td>$86.00</td>
-<td>$87.38</td>
-<td>$88.77</td>
-<td>$90.19</td>
-<td>$91.64</td>
+<td>8 and 9</td>
+<td>[Repealed, SOR/2017-125, s. 3]</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1303,7 +1285,7 @@ Fees for items 10 and 11
 
 
 
-> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1.
+> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1; SOR/2017-125, ss. 1 to 3.
 
 
 
