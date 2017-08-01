@@ -1493,9 +1493,12 @@ L’Accord de coopération dans le domaine du travail entre le Canada et la Rép
 L’Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie, signé le 28 juin 2009, avec ses modifications éventuelles apportées en conformité avec son article 22.
 
 
+Le chapitre 13 de l’Accord de libre-échange entre le Canada et l’Ukraine, fait à Kiev le 11 juillet 2016, avec ses amendements éventuels apportés en conformité avec son article 19.3.
+
+
 Le chapitre 18 de l’Accord de libre-échange entre le Canada et la République de Corée, fait à Ottawa le 22 septembre 2014, avec ses modifications éventuelles apportées en conformité avec son article 23.2.
 
 
-> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62; 2014, ch. 14, art. 50, ch. 28, art. 58.
+> 2009, ch. 16, art. 51; 2010, ch. 4, art. 43; 2012, ch. 18, art. 41, ch. 26, art. 50 et 62; 2014, ch. 14, art. 50, ch. 28, art. 58; 2017, ch. 8, art. 42.
 
 
