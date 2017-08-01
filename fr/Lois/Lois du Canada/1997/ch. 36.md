@@ -44,129 +44,138 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord de libre-échange Canada–AELÉ*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md).
+***Accord de libre-échange Canada–AELÉ*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md). (*Canada–EFTA Free Trade Agreement*)
 
-***Accord de libre-échange Canada — Chili*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
+***Accord de libre-échange Canada — Chili*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md). (*Canada–Chile Free Trade Agreement*)
 
-***Accord de libre-échange Canada-Colombie*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md).
+***Accord de libre-échange Canada-Colombie*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md). (*Canada Colombia Free Trade Agreement*)
 
-***Accord de libre-échange Canada-Corée*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md).
+***Accord de libre-échange Canada-Corée*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md). (*Canada–Korea Free Trade Agreement*)
 
-***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
+***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md). (*Canada — Costa Rica Free Trade Agreement*)
 
-***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis](/fr/Lois/Lois%20du%20Canada/1988/ch.%2065.md).
+***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis](/fr/Lois/Lois%20du%20Canada/1988/ch.%2065.md). (*Canada–United States Free Trade Agreement*)
 
-***Accord de libre-échange Canada-Honduras*** S’entend de l’Accord au sens de l’article 2 de la Loi sur la croissance économique et la prospérité  —  Canada-Honduras. 
+***Accord de libre-échange Canada-Honduras*** S’entend de l’Accord au sens de l’article 2 de la Loi sur la croissance économique et la prospérité  —  Canada-Honduras. (*Canada– Honduras Free Trade Agreement*)
 
-***Accord de libre-échange Canada — Israël*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
+***Accord de libre-échange Canada — Israël*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md). (*Canada–Israel Free Trade Agreement*)
 
-***Accord de libre-échange Canada-Jordanie*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md).
+***Accord de libre-échange Canada-Jordanie*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md). (*Canada– Jordan Free Trade Agreement*)
 
-***Accord de libre-échange Canada-Panama*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md). 
+***Accord de libre-échange Canada-Panama*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md). (*Canada– Panama Free Trade Agreement*)
 
-***Accord de libre-échange Canada-Pérou*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md). 
+***Accord de libre-échange Canada-Pérou*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md). (*Canada–Peru Free Trade Agreement*)
 
-***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+***Accord de libre-échange Canada–Ukraine*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–Ukraine](/fr/Lois/Lois%20du%20Canada/2017/ch.%208.md). (*Canada–Ukraine Free Trade Agreement*) 
 
-***Accord sur l’Organisation mondiale du commerce*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md).
+***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*North American Free Trade Agreement*)
 
-***Chili*** Les étendues terrestres et maritimes et l’espace aérien surjacent relevant de la souveraineté du Chili, ainsi que la zone économique exclusive et le plateau continental à l’égard desquels celui-ci exerce des droits souverains et a compétence en conformité avec sa législation intérieure et le droit international.
+***Accord sur l’Organisation mondiale du commerce*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*World Trade Organization Agreement*)
 
-***Colombie*** Le territoire terrestre, tant continental qu’insulaire, l’espace aérien et les zones maritimes sur lesquelles la République de Colombie exerce sa souveraineté ou a des droits souverains ou a juridiction conformément à sa législation interne et au droit international.
+***Chili*** Les étendues terrestres et maritimes et l’espace aérien surjacent relevant de la souveraineté du Chili, ainsi que la zone économique exclusive et le plateau continental à l’égard desquels celui-ci exerce des droits souverains et a compétence en conformité avec sa législation intérieure et le droit international. (*Chile*)
 
-***contingent tarifaire*** Limitation de la quantité de marchandises bénéficiant d’un traitement tarifaire donné qui peut être importée au cours d’une période donnée.
+***CNUDM*** La Convention des Nations Unies sur le droit de la mer, faite à Montego Bay le 10 décembre 1982. (*UNCLOS*) 
 
-***Corée*** Les étendues terrestres et maritimes et l’espace aérien sur lesquels la République de Corée exerce sa souveraineté, ainsi que les zones maritimes, y compris le fond marin et le sous-sol adjacent à la limite extérieure des mers territoriales et au-delà de cette limite, à l’égard desquelles elle peut exercer des droits souverains ou sa compétence conformément à son droit interne et au droit international.
+***Colombie*** Le territoire terrestre, tant continental qu’insulaire, l’espace aérien et les zones maritimes sur lesquelles la République de Colombie exerce sa souveraineté ou a des droits souverains ou a juridiction conformément à sa législation interne et au droit international. (*Colombia*)
 
-***Costa Rica*** Le territoire, l’espace aérien et les zones maritimes, y compris les fonds marins et leur sous-sol adjacents à la limite extérieure des eaux territoriales, de même que leurs ressources naturelles, sur lesquels il exerce des droits souverains conformément au droit international et à son droit interne.
+***contingent tarifaire*** Limitation de la quantité de marchandises bénéficiant d’un traitement tarifaire donné qui peut être importée au cours d’une période donnée. (*tariff rate quota*)
 
- ou ***devant servir dans*** ou ***devant servir à*** Mention dans un numéro tarifaire, applicable aux marchandises qui y sont classées et qui doivent entrer dans la composition d’autres marchandises mentionnées dans ce numéro tarifaire par voie d’ouvraison, de fixation ou d’incorporation.
+***Corée*** Les étendues terrestres et maritimes et l’espace aérien sur lesquels la République de Corée exerce sa souveraineté, ainsi que les zones maritimes, y compris le fond marin et le sous-sol adjacent à la limite extérieure des mers territoriales et au-delà de cette limite, à l’égard desquelles elle peut exercer des droits souverains ou sa compétence conformément à son droit interne et au droit international. (*Korea*)
 
-***dommage grave*** Tout dommage causant une dégradation générale notable de la situation des producteurs nationaux de marchandises similaires ou directement concurrentes.
+***Costa Rica*** Le territoire, l’espace aérien et les zones maritimes, y compris les fonds marins et leur sous-sol adjacents à la limite extérieure des eaux territoriales, de même que leurs ressources naturelles, sur lesquels il exerce des droits souverains conformément au droit international et à son droit interne. (*Costa Rica*)
 
-***droits de douane*** Sauf pour l’application de la partie 3, à l’exception des articles 82 et 122, les droits imposés au titre de l’article 20.
+***devant servir dans*** ou ***devant servir à*** Mention dans un numéro tarifaire, applicable aux marchandises qui y sont classées et qui doivent entrer dans la composition d’autres marchandises mentionnées dans ce numéro tarifaire par voie d’ouvraison, de fixation ou d’incorporation. (*for use in*)
 
-***États-Unis*** S’entend :
+***dommage grave*** Tout dommage causant une dégradation générale notable de la situation des producteurs nationaux de marchandises similaires ou directement concurrentes. (*serious injury*)
+
+***droits de douane*** Sauf pour l’application de la partie 3, à l’exception des articles 82 et 122, les droits imposés au titre de l’article 20. (*customs duty*)
+
+***États-Unis*** S’entend :
 - **a)** du territoire douanier des États-Unis, notamment les cinquante États des États-Unis, le District de Columbia et Porto Rico;
 - **b)** des zones franches situées sur le territoire des États-Unis et de Porto Rico;
-- **c)** des régions s’étendant au-delà de la mer territoriale des États-Unis et qui, en conformité avec le droit international et les lois des États-Unis, sont des régions à l’égard desquelles les États-Unis sont habilités à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles.
+- **c)** des régions s’étendant au-delà de la mer territoriale des États-Unis et qui, en conformité avec le droit international et les lois des États-Unis, sont des régions à l’égard desquelles les États-Unis sont habilités à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles. (*United States*)
 
-***Honduras*** Le territoire terrestre, les zones maritimes et l’espace aérien sur lesquels la République du Honduras exerce sa souveraineté, la zone économique exclusive et le plateau continental sur lesquels la République du Honduras exerce des droits souverains et sa compétence conformément à son droit interne et au droit international. 
+***Honduras*** Le territoire terrestre, les zones maritimes et l’espace aérien sur lesquels la République du Honduras exerce sa souveraineté, la zone économique exclusive et le plateau continental sur lesquels la République du Honduras exerce des droits souverains et sa compétence conformément à son droit interne et au droit international. (*Honduras*)
 
-***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
+***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements. (*imported from Israel or another CIFTA beneficiary*)
 
 ***Islande***
 - **a)** Territoire terrestre, espace aérien, eaux intérieures et mer territoriale de l’Islande;
-- **b)** zone économique exclusive et plateau continental de l’Islande.
+- **b)** zone économique exclusive et plateau continental de l’Islande. (*Iceland*)
 
-***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
+***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements. (*Israel or another CIFTA beneficiary*)
 
-***Jordanie*** Le territoire terrestre, l’espace aérien, les eaux intérieures et la mer territoriale sur lesquels le Royaume hachémite de Jordanie exerce sa souveraineté.
+***Jordanie*** Le territoire terrestre, l’espace aérien, les eaux intérieures et la mer territoriale sur lesquels le Royaume hachémite de Jordanie exerce sa souveraineté. (*Jordan*)
 
-***Liechtenstein*** Territoire terrestre et espace aérien du Liechtenstein.
+***Liechtenstein*** Territoire terrestre et espace aérien du Liechtenstein. (*Liechtenstein*)
 
-***liste des dispositions tarifaires*** La Liste des dispositions tarifaires figurant à l’annexe.
+***liste des dispositions tarifaires*** La Liste des dispositions tarifaires figurant à l’annexe. (*List of Tariff Provisions*)
 
-***menace de dommage grave*** Tout dommage grave dont l’imminence évidente est fondée sur des faits et non pas seulement sur des allégations, des conjectures ou de lointaines possibilités.
+***menace de dommage grave*** Tout dommage grave dont l’imminence évidente est fondée sur des faits et non pas seulement sur des allégations, des conjectures ou de lointaines possibilités. (*threat of serious injury*)
 
-***Mexique*** S’entend :
+***Mexique*** S’entend :
 - **a)** des États de la Fédération et du District fédéral;
 - **b)** des îles, y compris les récifs et les cayes, dans les eaux adjacentes;
 - **c)** des îles Guadalupe et Revillagigedo, dans l’océan Pacifique;
 - **d)** du plateau continental et du plateau sous-marin de ces îles, cayes et récifs;
 - **e)** de la mer territoriale, en conformité avec le droit international, et des eaux maritimes intérieures;
 - **f)** de l’espace aérien du territoire national, en conformité avec le droit international;
-- **g)** des régions qui s’étendent au-delà des eaux territoriales du Mexique et qui, en conformité avec le droit international, y compris la Convention des Nations Unies sur le droit de la mer, et aux lois du Mexique, sont des régions à l’égard desquelles le Mexique est habilité à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles.
+- **g)** des régions qui s’étendent au-delà des eaux territoriales du Mexique et qui, en conformité avec le droit international, y compris la Convention des Nations Unies sur le droit de la mer, et aux lois du Mexique, sont des régions à l’égard desquelles le Mexique est habilité à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles. (*Mexico*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
 ***Norvège***
 - **a)** Territoire terrestre, espace aérien, eaux intérieures et mer territoriale de la Norvège;
-- **b)** zone économique exclusive et plateau continental de la Norvège.
+- **b)** zone économique exclusive et plateau continental de la Norvège. (*Norway*)
 
-***numéro tarifaire*** Dénomination de marchandises, figurant sur la liste des dispositions tarifaires, marquée d’un numéro à huit chiffres et les taux figurant sur cette liste et, le cas échéant, au tableau des échelonnements.
+***numéro tarifaire*** Dénomination de marchandises, figurant sur la liste des dispositions tarifaires, marquée d’un numéro à huit chiffres et les taux figurant sur cette liste et, le cas échéant, au tableau des échelonnements. (*tariff item*)
 
-***Panama*** Le territoire terrestre, les zones maritimes et l’espace aérien sur lesquels la République du Panama exerce sa souveraineté, la zone économique exclusive et le plateau continental sur lesquels la République du Panama exerce des droits souverains et sa compétence conformément à son droit interne et au droit international.
+***Panama*** Le territoire terrestre, les zones maritimes et l’espace aérien sur lesquels la République du Panama exerce sa souveraineté, la zone économique exclusive et le plateau continental sur lesquels la République du Panama exerce des droits souverains et sa compétence conformément à son droit interne et au droit international. (*Panama*)
 
-***partenaire de libre-échange*** Selon le cas :
+***partenaire de libre-échange*** Selon le cas :
 - **a)** un pays ALÉNA;
 - **b)** le Chili;
-- **c)** Israël ou autre bénéficiaire de l’ALÉCI.
+- **c)** Israël ou autre bénéficiaire de l’ALÉCI. (*free trade partner*)
 
-***pays*** Sauf indication contraire du contexte, y est assimilé tout territoire d’un pays situé à l’extérieur des limites de celui-ci ou qui en dépend, ainsi que tout autre territoire réglementaire.
+***pays*** Sauf indication contraire du contexte, y est assimilé tout territoire d’un pays situé à l’extérieur des limites de celui-ci ou qui en dépend, ainsi que tout autre territoire réglementaire. (*country*)
 
-***pays ALÉNA*** Pays partie à l’Accord de libre-échange nord-américain.
+***pays ALÉNA*** Pays partie à l’Accord de libre-échange nord-américain. (*NAFTA country*)
 
-***Pérou*** Le territoire terrestre, les îles, les zones maritimes et l’espace aérien surjacent sur lesquels la République du Pérou exerce sa souveraineté ou a des droits souverains et a compétence conformément à sa législation interne et au droit international.
+***Pérou*** Le territoire terrestre, les îles, les zones maritimes et l’espace aérien surjacent sur lesquels la République du Pérou exerce sa souveraineté ou a des droits souverains et a compétence conformément à sa législation interne et au droit international. (*Peru*)
 
-***position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à quatre chiffres, y compris la dénomination des marchandises des sous-positions et des numéros tarifaires dont le numéro commence par les quatre chiffres du numéro de position.
+***position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à quatre chiffres, y compris la dénomination des marchandises des sous-positions et des numéros tarifaires dont le numéro commence par les quatre chiffres du numéro de position. (*heading*)
 
-***règlement*** Règlement pris en vertu de la présente loi.
+***règlement*** Règlement pris en vertu de la présente loi. (*regulation*)
 
-French version only***réglementaire*** Prévu par règlement ou déterminé en conformité avec les règles prévues par règlement.
+***réglementaire*** Prévu par règlement ou déterminé en conformité avec les règles prévues par règlement. (***French version only***)
 
-***sous-position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à six chiffres, y compris la dénomination des marchandises des numéros tarifaires dont le numéro commence par les six chiffres du numéro de sous-position.
+***sous-position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à six chiffres, y compris la dénomination des marchandises des numéros tarifaires dont le numéro commence par les six chiffres du numéro de sous-position. (*subheading*)
 
-***Suisse*** Territoire terrestre et espace aérien de la Suisse.
+***Suisse*** Territoire terrestre et espace aérien de la Suisse. (*Switzerland*)
 
-***tableau des échelonnements*** La Liste des taux intermédiaires et des taux finals pour les numéros tarifaires de la catégorie d’échelonnement « F » figurant à l’annexe.
+***tableau des échelonnements*** La Liste des taux intermédiaires et des taux finals pour les numéros tarifaires de la catégorie d’échelonnement « F » figurant à l’annexe. (*“F” Staging List*)
 
-***tableau des traitements tarifaires*** La Liste des pays — avec les traitements tarifaires qui leur sont accordés — figurant à l’annexe.
+***tableau des traitements tarifaires*** La Liste des pays — avec les traitements tarifaires qui leur sont accordés — figurant à l’annexe. (*List of Countries*)
 
-French version only***taux*** Le taux de droits de douane.
+***taux*** Le taux de droits de douane. (***French version only***)
 
-***taux déterminé*** Taux d’intérêt — exprimé en pourcentage annuel — égal au taux réglementaire augmenté de six pour cent par an.
+***taux déterminé*** Taux d’intérêt — exprimé en pourcentage annuel — égal au taux réglementaire augmenté de six pour cent par an. (*specified rate*)
 
-***taux final*** Le taux applicable, une fois retranchées du taux initial les réductions prévues par la présente loi, à l’exception toutefois de celles résultant de l’arrondissement des nombres ou de la suppression des taux inférieurs à deux pour cent.
+***taux final*** Le taux applicable, une fois retranchées du taux initial les réductions prévues par la présente loi, à l’exception toutefois de celles résultant de l’arrondissement des nombres ou de la suppression des taux inférieurs à deux pour cent. (*final rate*)
 
-***taux initial*** Le taux applicable avant l’application des réductions prévues par la présente loi.
+***taux initial*** Le taux applicable avant l’application des réductions prévues par la présente loi. (*initial rate*)
 
-***taux spécifique*** Taux exprimé en dollars ou en cents par unité de mesure.
+***taux spécifique*** Taux exprimé en dollars ou en cents par unité de mesure. (*specific rate*)
+
+***Ukraine***
+- **a)** Le territoire terrestre, l’espace aérien, les eaux intérieures et la mer territoriale de l’Ukraine;
+- **b)** la zone économique exclusive de l’Ukraine, telle qu’elle est définie dans son droit interne, en conformité avec la partie V de la CNUDM;
+- **c)** le plateau continental de l’Ukraine, tel qu’il est défini dans son droit interne, en conformité avec la partie VI de la CNUDM. (*Ukraine*)
 
 **Territoires**
 
-- **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64.
+- **(2)** Les territoires prévus par règlement, pour l’application de la définition de pays, ne sont reconnus comme pays que pour l’application de la présente loi.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 8, art. 33.
 
 
 
@@ -323,12 +332,13 @@ Suisse
 		- **(xiii)** le paragraphe 73(1),
 		- **(xiv)** le paragraphe 74(1),
 		- **(xv)** le paragraphe 74(2),
-		- **(xvi)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+		- **(xvi)** le paragraphe 75(1),
+		- **(xvii)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45; 2017, ch. 8, art. 34.
 
 
 
@@ -633,48 +643,50 @@ Suisse
 
 **27** Les abréviations définies ci-après s’appliquent à l’annexe.
 
-***NPF*** Tarif de la nation la plus favorisée.
+***NPF*** Tarif de la nation la plus favorisée. (*MFN*)
 
-***TACI*** Tarif de l’accord Canada-Israël.
+***TACI*** Tarif de l’accord Canada-Israël. (*CIAT*)
 
-***TAU*** Tarif de l’Australie.
+***TAU*** Tarif de l’Australie. (*AUT*)
 
-***TC*** Tarif du Chili.
+***TC*** Tarif du Chili. (*CT*)
 
-***TCOL*** Tarif de la Colombie.
+***TCOL*** Tarif de la Colombie. (*COLT*)
 
-***TCR*** Tarif du Costa Rica.
+***TCR*** Tarif du Costa Rica. (*CRT*)
 
-***TÉU*** Tarif des États-Unis.
+***TÉU*** Tarif des États-Unis. (*UST*)
 
-***THN*** Tarif du Honduras.
+***THN*** Tarif du Honduras. (*HNT*)
 
-***TI*** Tarif de l’Islande.
+***TI*** Tarif de l’Islande. (*IT*)
 
-***TJ*** Tarif de la Jordanie.
+***TJ*** Tarif de la Jordanie. (*JT*)
 
-***TKR*** Tarif de la Corée.
+***TKR*** Tarif de la Corée. (*KRT*)
 
-***TM*** Tarif du Mexique.
+***TM*** Tarif du Mexique. (*MT*)
 
-***TMÉU*** Tarif Mexique–États-Unis.
+***TMÉU*** Tarif Mexique–États-Unis. (*MUST*)
 
-***TN*** Tarif de la Norvège.
+***TN*** Tarif de la Norvège. (*NT*)
 
-***TNZ*** Tarif de la Nouvelle-Zélande.
+***TNZ*** Tarif de la Nouvelle-Zélande. (*NZT*)
 
-***TP*** Tarif du Pérou.
+***TP*** Tarif du Pérou. (*PT*)
 
-***TPA*** Tarif du Panama.
+***TPA*** Tarif du Panama. (*PAT*)
 
-***TPAC*** Tarif des pays antillais du Commonwealth.
+***TPAC*** Tarif des pays antillais du Commonwealth. (*CCCT*)
 
-***TPG*** Tarif de préférence général.
+***TPG*** Tarif de préférence général. (*GPT*)
 
-***TPMD*** Tarif des pays les moins développés.
+***TPMD*** Tarif des pays les moins développés. (*LDCT*)
 
-***TSL*** Tarif de Suisse-Liechtenstein.
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46.
+***TSL*** Tarif de Suisse-Liechtenstein. (*SLT*)
+
+***TUA*** Tarif de l’Ukraine. (*UAT*)
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 8, art. 35.
 
 
 
@@ -1899,6 +1911,29 @@ Suisse
 
 
 
+#### Tarif de l’Ukraine
+
+
+
+**Application du TUA**
+
+**52.5** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires de l’Ukraine bénéficient des taux du tarif de l’Ukraine.
+
+**Taux final « A » pour le TUA**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TUA » pour des marchandises qui bénéficient du tarif de l’Ukraine, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TUA**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TUA » pour des marchandises qui bénéficient du tarif de l’Ukraine, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+> 2017, ch. 8, art. 36.
+
+
+
+
+
 **SECTION 4** 
 ### Mesures spéciales, mesures d’urgence et mesures de sauvegarde
 
@@ -2880,7 +2915,36 @@ Pérou
 
 
 
-**75** [Abrogé, 2011, ch. 24, art. 128]
+
+#### Mesures d’urgence bilatérales : Ukraine
+
+
+
+**Décret de mesures temporaires**
+
+**75** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.0192(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.098) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de l’Ukraine, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 52.5;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la saison correspondante la veille de la date de la prise du décret ou, s’il est inférieur, celui qui l’est à la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret visé au paragraphe (1) :
+	- **a)** ne peut être pris plus d’une fois à l’égard des marchandises d’une nature donnée;
+	- **b)** demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **c)** peut être en vigueur pendant la période commençant à la date d’entrée en vigueur du présent article et se terminant la veille de la date du septième anniversaire de l’entrée en vigueur du présent article.
+
+**Taux à la cessation d’effet**
+
+- **(3)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui qui s’applique conformément à l’article 52.5.
+
+**Définition de cause principale**
+
+- **(4)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+> 1997, ch. 36, art. 75; 2011, ch. 24, art. 128; 2017, ch. 8, art. 37.
+
 
 
 
@@ -3098,8 +3162,9 @@ Pérou
 - **l)** le paragraphe 72(2);
 - **m)** le paragraphe 73(1);
 - **n)** le paragraphe 74(1);
-- **o)** le paragraphe 74(2).
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45, ch. 28, art. 52.
+- **o)** le paragraphe 74(2);
+- **p)** le paragraphe 75(1).
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45, ch. 28, art. 52; 2017, ch. 8, art. 38.
 
 
 
