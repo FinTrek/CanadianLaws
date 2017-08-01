@@ -33,107 +33,109 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de libre-échange*** Tout accord mentionné à la colonne 2 de la partie 1 de l’annexe.
+***accord de libre-échange*** Tout accord mentionné à la colonne 2 de la partie 1 de l’annexe. (*free trade agreement*)
 
 ***Accord de libre-échange Canada — États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
-***Agence*** L’Agence des services frontaliers du Canada.
+***Agence*** L’Agence des services frontaliers du Canada. (*Agency*)
 
- ou ***agent*** ou ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada.
+***agent*** ou ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada. (*officer*)
 
-***alcool spécialement dénaturé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***alcool spécialement dénaturé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*specially denatured alcohol*)
 
-***ALÉCA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md).
+***ALÉCA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md). (*CEFTA*)
 
-***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
+***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md). (*CCFTA*)
 
-***ALÉCCO*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md).
+***ALÉCCO*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md). (*CCOFTA*)
 
-***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
+***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md). (*CCRFTA*)
 
-***ALÉCH*** S’entend de l’Accord au sens de l’article 2 de la Loi sur la croissance économique et la prospérité  —  Canada-Honduras.
+***ALÉCH*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Honduras](/fr/Lois/Lois%20du%20Canada/2014/ch.%2014.md). (*CHFTA*)
 
-***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
+***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md). (*CIFTA*)
 
-***ALÉCJ*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md).
+***ALÉCJ*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Jordanie](/fr/Lois/Lois%20du%20Canada/2012/ch.%2018.md). (*CJFTA*)
 
-***ALÉCP*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md).
+***ALÉCP*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md). (*CPFTA*)
 
-***ALÉCPA*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md).
+***ALÉCPA*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md). (*CPAFTA*)
 
-***ALÉCRC*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md).
+***ALÉCRC*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md). (*CKFTA*)
 
-***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+***ALÉCU*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–Ukraine](/fr/Lois/Lois%20du%20Canada/2017/ch.%208.md). (*CUFTA*)
 
-***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24.
+***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*NAFTA*)
 
-***bureau de douane*** Emplacement établi à titre de bureau de douane par le ministre en vertu de l’article 5.
+***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24. (*duty free shop*)
+
+***bureau de douane*** Emplacement établi à titre de bureau de douane par le ministre en vertu de l’article 5. (*customs office*)
 
 ***Canada***[Abrogée, 1996, ch. 31, art. 73]
 
-***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4)b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange.
+***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4)b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange. (*Certificate of Origin*)
 
-***Chili*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Chili*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Chile*)
 
 ***cigare***[Abrogée, 2002, ch. 22, art. 328]
 
-***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*tariff classification*)
 
-***code de transporteur*** Identificateur unique délivré par le ministre soit en application du paragraphe 12.1(4), soit avant l’entrée en vigueur de ce paragraphe. 
+***code de transporteur*** Identificateur unique délivré par le ministre soit en application du paragraphe 12.1(4), soit avant l’entrée en vigueur de ce paragraphe.  (*carrier code*)
 
-***Colombie*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Colombie*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Colombia*)
 
 ***commissaire***[Abrogée, 2005, ch. 38, art. 60]
 
-***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada.
+***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada. (*forfeit*)
 
-***Corée*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Corée*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Korea*)
 
-***Costa Rica*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Costa Rica*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Costa Rica*)
 
 ***dédouanement***
 - **a)** Autorisation d’enlever des marchandises d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes en vue de leur usage au Canada;
-- **b)** dans le cas des marchandises visées à l’alinéa 32(2)b), leur réception à l’établissement de l’importateur, du propriétaire ou du destinataire.
+- **b)** dans le cas des marchandises visées à l’alinéa 32(2)b), leur réception à l’établissement de l’importateur, du propriétaire ou du destinataire. (*release*)
 
-***document*** Tout support où des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif.
+***document*** Tout support où des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif. (*record*)
 
-***données*** Toute forme de représentation d’informations ou de notions.
+***données*** Toute forme de représentation d’informations ou de notions. (*data*)
 
-***droits*** Les droits ou taxes imposés, en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l’application du paragraphe 3(1), des alinéas 59(3)b) et 65(1)b), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***droits*** Les droits ou taxes imposés, en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l’application du paragraphe 3(1), des alinéas 59(3)b) et 65(1)b), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*duties*)
 
 ***eaux intérieures***[Abrogée, 1996, ch. 31, art. 73]
 
-***eaux internes*** L’ensemble des fleuves, rivières, lacs et autres plans d’eau douce du Canada, y compris la partie du Saint-Laurent délimitée, vers la mer, par les lignes droites joignant : 
+***eaux internes*** L’ensemble des fleuves, rivières, lacs et autres plans d’eau douce du Canada, y compris la partie du Saint-Laurent délimitée, vers la mer, par les lignes droites joignant :
 - **a)** Cap-des-Rosiers à la pointe extrême ouest de l’île d’Anticosti;
-- **b)** l’île d’Anticosti à la rive nord du Saint-Laurent suivant le méridien de soixante-trois degrés de longitude ouest.
+- **b)** l’île d’Anticosti à la rive nord du Saint-Laurent suivant le méridien de soixante-trois degrés de longitude ouest. (*inland waters*)
 
-***entrepôt d’attente*** Établissement agréé comme tel par le ministre en vertu de l’article 24.
+***entrepôt d’attente*** Établissement agréé comme tel par le ministre en vertu de l’article 24. (*sufferance warehouse*)
 
-***entrepôt de stockage*** Établissement agréé comme tel par le ministre en vertu du paragraphe 91(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***entrepôt de stockage*** Établissement agréé comme tel par le ministre en vertu du paragraphe 91(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*bonded warehouse*)
 
- ou ***envois*** ou ***courrier*** S’entend au sens de l’article 2 de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md).
+***envois*** ou ***courrier*** S’entend au sens de l’article 2 de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md). (*mail*)
 
-***État de l’AELÉ*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md).
+***État de l’AELÉ*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md). (*EFTA state*)
 
 ***États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
-***exporter*** Exporter hors du Canada.
+***exporter*** Exporter hors du Canada. (*export*)
 
-***Honduras*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Honduras*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Honduras*)
 
-***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*imported from Israel or another CIFTA beneficiary*)
 
-***importer*** Importer au Canada.
+***importer*** Importer au Canada. (*import*)
 
-***Islande*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Islande*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Iceland*)
 
-***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Israel or another CIFTA beneficiary*)
 
-***Jordanie*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Jordanie*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Jordan*)
 
-***Liechtenstein*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Liechtenstein*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Liechtenstein*)
 
-***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support.
+***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support. (*goods*)
 
 ***marchandises désignées***
 - **a)** [Abrogé, 2002, ch. 22, art. 328]
@@ -147,62 +149,62 @@
 - **i)** les pierres précieuses ou fines;
 - **i.1)** les spiritueux;
 - **j)** le vin;
-- **k)** les autres marchandises que le ministre peut, par arrêté, désigner pour l’application d’une ou de plusieurs dispositions de la présente loi.
+- **k)** les autres marchandises que le ministre peut, par arrêté, désigner pour l’application d’une ou de plusieurs dispositions de la présente loi. (*designated goods*)
 
 ***mer territoriale***[Abrogée, 1996, ch. 31, art. 73]
 
-***messager*** S’entend au sens du règlement.
+***messager*** S’entend au sens du règlement. (*courier*)
 
-***ministre*** Sauf dans la partie V.1, le ministre de la Sécurité publique et de la Protection civile.
+***ministre*** Sauf dans la partie V.1, le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
-***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises.
+***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises. (*conveyance*)
 
-***Norvège*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Norvège*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Norway*)
 
-***Panama*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Panama*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Panama*)
 
-***partenaire de libre-échange*** Tout pays ou territoire mentionné à la colonne 1 de la partie 1 de l’annexe.
+***partenaire de libre-échange*** Tout pays ou territoire mentionné à la colonne 1 de la partie 1 de l’annexe. (*free trade partner*)
 
-***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*NAFTA country*)
 
-***Pérou*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Pérou*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Peru*)
 
-***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
+***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. (*person*)
 
-***préparation assujettie à des restrictions*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***préparation assujettie à des restrictions*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*restricted formulation*)
 
-***président*** Le président de l’Agence, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
+***président*** Le président de l’Agence, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md). (*President*)
 
-***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*tobacco product*)
 
-***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi.
+***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi. (*regulation*)
 
 ***réglementaire***
 - **a)** Autorisé par le ministre, dans le cas des formulaires et de leurs modalités de production;
 - **b)** précisé par le ministre, dans le cas des renseignements à fournir dans un formulaire ou avec un formulaire;
-- **c)** prévu par règlement ou déterminé en conformité avec les règles prévues par règlement, dans tous les autres cas.
+- **c)** prévu par règlement ou déterminé en conformité avec les règles prévues par règlement, dans tous les autres cas. (*prescribed*)
 
 ***sous-ministre***[Abrogée, 1999, ch. 17, art. 123]
 
-***spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*spirits*)
 
-***Suisse*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Suisse*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Switzerland*)
 
-***tabac en feuilles*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***tabac en feuilles*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*raw leaf tobacco*)
 
 ***tabac fabriqué***[Abrogée, 2002, ch. 22, art. 328]
 
-***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire.
+***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire. (*specified rate*)
 
-***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) qui n’a pas été annulé au titre de l’article 25.5 de cette loi.
+***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) qui n’a pas été annulé au titre de l’article 25.5 de cette loi. (*excise stamp*)
 
-***titulaire de licence de spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***titulaire de licence de spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*spirits licensee*)
 
-***titulaire de licence de tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***titulaire de licence de tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*tobacco licensee*)
 
-***titulaire de licence de vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***titulaire de licence de vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*wine licensee*)
 
-***traitement tarifaire préférentiel*** Le bénéfice des taux de droits de douane du tarif applicable prévu à la colonne 3 de la partie 1 de l’annexe.
+***traitement tarifaire préférentiel*** Le bénéfice des taux de droits de douane du tarif applicable prévu à la colonne 3 de la partie 1 de l’annexe. (*preferential tariff treatment*)
 
 ***traitement tarifaire préférentiel de l’ALÉCA***[Abrogée, 2012, ch. 18, art. 24]
 
@@ -218,29 +220,31 @@
 
 ***traitement tarifaire préférentiel de l’ALÉNA***[Abrogée, 2012, ch. 18, art. 24]
 
-***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***Ukraine*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Ukraine*)
 
-***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56.
+***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*licensed user*)
 
-***vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56. (*value for duty*)
+
+***vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*wine*)
 
 **Définitions**
 
-- **(1.1)** Les définitions qui suivent s’appliquent à la définition de ***marchandises désignées*** au paragraphe (1).
+- **(1.1)** Les définitions qui suivent s’appliquent à la définition de marchandises désignées au paragraphe (1).
 
-***alcool***, ***alcool éthylique*** ou ***eau-de-vie*** [Abrogée, 2002, ch. 22, art. 328]
+***alcool***, ***alcool éthylique*** ou ***eau-de-vie***[Abrogée, 2002, ch. 22, art. 328]
 
- ou  or ***bière*** ou ***liqueur de malt*** S’entendent au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
+***bière*** ou ***liqueur de malt*** S’entendent au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md). (*beer* or *malt liquor*)
 
-***combustible diesel*** S’entend au sens du paragraphe 2(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***combustible diesel*** S’entend au sens du paragraphe 2(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*diesel fuel*)
 
-***diamants*** Les marchandises classées dans les sous-positions n<sup>os</sup> 7102.10, 7102.31 et 7102.39 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure.
+***diamants*** Les marchandises classées dans les sous-positions n<sup>os</sup> 7102.10, 7102.31 et 7102.39 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure. (*diamonds*)
 
-***essence*** S’entend au sens du paragraphe 2(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***essence*** S’entend au sens du paragraphe 2(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*gasoline*)
 
-***perles*** Les marchandises classées dans la position n<sup>o</sup> 71.01 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure.
+***perles*** Les marchandises classées dans la position n<sup>o</sup> 71.01 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure. (*pearls*)
 
-***pierres précieuses ou fines*** Les marchandises classées dans la position n<sup>o</sup> 71.03 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure.
+***pierres précieuses ou fines*** Les marchandises classées dans la position n<sup>o</sup> 71.03 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure. (*precious and semi-precious stones*)
 
 ***vin***[Abrogée, 2002, ch. 22, art. 328]
 
@@ -269,7 +273,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 8, art. 20.
 
 
 
@@ -1768,28 +1772,31 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **42.1** 
 
 - **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires :
-	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange autre que l’ALÉCA :
+	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange qui n’est pas un accord de libre-échange mentionné au paragraphe (1.1) :
 		- **(i)** soit en pénétrant, à toute heure raisonnable, dans un lieu faisant partie d’une catégorie réglementaire,
 		- **(ii)** soit de toute autre manière prévue par règlement;
 	- **b)** pénétrer dans un lieu faisant partie d’une catégorie réglementaire à toute heure raisonnable pour vérifier, à l’égard de marchandises importées et ultérieurement exportées vers un pays ALÉNA, le montant :
 		- **(i)** soit d’une exonération de droits éventuelle aux termes de l’article 89 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md),
 		- **(ii)** soit d’un drawback de droits éventuel aux termes de l’article 113 de cette loi.
 
-**Méthodes de vérification en vertu de l’ALÉCA**
+**Méthodes de vérification : certains accords**
 
-- **(1.1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires, vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCA en demandant par écrit à l’administration douanière de l’État d’exportation de l’AELÉ qu’elle effectue une vérification et fournisse un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA.
+- **(1.1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires :
+	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCA en demandant par écrit à l’administration douanière de l’État d’exportation de l’AELÉ qu’elle effectue une vérification et fournisse un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA;
+	- **b)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCU en demandant par écrit à l’administration douanière de l’Ukraine qu’elle effectue une vérification et fournisse un rapport écrit indiquant si les marchandises sont originaires au sens du chapitre 3 de l’ALÉCU.
 
 **Retrait du traitement tarifaire préférentiel**
 
-- **(2)** Dans le cas où l’exportateur ou le producteur ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé en vertu d’un accord de libre-échange autre que l’ALÉCA peut être refusé ou retiré aux marchandises en cause.
+- **(2)** Dans le cas où l’exportateur ou le producteur ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé en vertu d’un accord de libre-échange qui n’est pas un accord de libre-échange mentionné au paragraphe (1.1) peut être refusé ou retiré aux marchandises en cause.
 
-**Retrait du traitement tarifaire préférentiel de l’ALÉCA**
+**Retrait du traitement tarifaire préférentiel : certains accords**
 
-- **(3)** Le traitement tarifaire préférentiel de l’ALÉCA peut être refusé ou retiré à des marchandises dans les cas suivants :
-	- **a)** l’État d’exportation de l’AELÉ omet d’effectuer une vérification ou de fournir un avis indiquant si les marchandises sont originaires;
+- **(3)** Le traitement tarifaire préférentiel d’un accord de libre-échange mentionné au paragraphe (1.1) peut être refusé ou retiré à des marchandises dans les cas suivants :
+	- **a)** s’agissant de l’ALÉCA, l’État d’exportation de l’AELÉ omet d’effectuer une vérification ou de fournir un avis indiquant si les marchandises sont originaires;
+	- **a.1)** s’agissant de l’ALÉCU, l’Ukraine omet d’effectuer une vérification ou de fournir un rapport écrit indiquant si les marchandises sont originaires;
 	- **b)** l’agent ou l’autre personne visé au paragraphe (1.1) n’est pas en mesure d’établir si les marchandises sont originaires;
 	- **c)** tout autre cas prévu par règlement.
-> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24.
+> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 8, art. 21.
 
 
 
@@ -3070,11 +3077,13 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 
 
-**Vérification de l’origine des marchandises pour le compte d’un État de l’AELÉ**
+**Vérification de l’origine : certains accords**
 
 **97.201** 
 
-- **(1)** L’administration douanière d’un État de l’AELÉ vers lequel des marchandises sont exportées peut demander par écrit à l’Agence qu’elle effectue une vérification et fournisse un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA.
+- **(1)** L’administration douanière de tout État visé au paragraphe 42.1(1.1) vers lequel des marchandises sont exportées peut demander par écrit à l’Agence qu’elle effectue une vérification et fournisse, selon le cas :
+	- **a)** un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA;
+	- **b)** un rapport écrit indiquant si les marchandises sont originaires au sens du chapitre 3 de l’ALÉCU.
 
 **Méthodes de vérification**
 
@@ -3082,11 +3091,11 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 	- **a)** soit en pénétrant, à toute heure raisonnable, dans un lieu faisant partie d’une catégorie réglementaire;
 	- **b)** soit de toute autre manière prévue par règlement.
 
-**Déclaration de l’origine**
+**Déclaration de l’origine : certains accords**
 
 - **(3)** Dès l’achèvement de la vérification de l’origine demandée en vertu du paragraphe (1), l’agent ou l’autre personne visé au paragraphe (2) :
-	- **a)** fournit à l’administration douanière de l’État de l’AELÉ, de la façon prévue par règlement, l’avis demandé ainsi que tout document à l’appui de celui-ci que peut exiger cette administration douanière;
-	- **b)** décide si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA.
+	- **a)** fournit à l’administration douanière de l’État, de la façon prévue par règlement, l’avis ou le rapport écrit demandé ainsi que tout document à l’appui de celui-ci que peut exiger cette administration douanière;
+	- **b)** décide si les marchandises sont originaires au sens de la disposition applicable mentionnée au paragraphe (1).
 
 **Avis de la décision**
 
@@ -3095,7 +3104,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Décision assimilée à la révision**
 
 - **(5)** Pour l’application de la présente loi, la décision prise en application de l’alinéa (3)b) est assimilée à la révision prévue à l’alinéa 59(1)a).
-> 2009, ch. 6, art. 28.
+> 2009, ch. 6, art. 28; 2017, ch. 8, art. 22.
 
 
 
@@ -6097,6 +6106,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>ALÉCP</td>
 <td>Taux de droits de douane du tarif du Pérou visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
 </tr>
+<tr>
+<td>Ukraine</td>
+<td>ALÉCU</td>
+<td>Taux de droits de douane du tarif de l’Ukraine visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
+</tr>
 </table>
 
 #### PARTIE 2
@@ -6197,6 +6211,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Pérou</td>
 <td>paragraphe 1 de l’article 419 de l’ALÉCP</td>
 </tr>
+<tr>
+<td>Ukraine</td>
+<td>article 4.8 de l’ALÉCU</td>
+</tr>
 </table>
 
 #### PARTIE 4
@@ -6240,6 +6258,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <tr>
 <td>Pérou</td>
 <td>ALÉCP</td>
+</tr>
+<tr>
+<td>Ukraine</td>
+<td>ALÉCU</td>
 </tr>
 </table>
 
@@ -6290,11 +6312,15 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Chapitre quatre</td>
 </tr>
 <tr>
+<td>ALÉCU</td>
+<td>Chapitres 3 et 4</td>
+</tr>
+<tr>
 <td>ALÉNA</td>
 <td>Chapitres 3 et 5</td>
 </tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 8, art. 23 à 26.
 
 
