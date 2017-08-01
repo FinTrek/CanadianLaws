@@ -33,32 +33,32 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord sur l’Organisation mondiale du commerce*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md).
+***Accord sur l’Organisation mondiale du commerce*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*World Trade Organization Agreement*)
 
-***dommage grave*** Tout dommage causant une dégradation générale notable de la situation des producteurs nationaux de marchandises similaires ou directement concurrentes.
+***dommage grave*** Tout dommage causant une dégradation générale notable de la situation des producteurs nationaux de marchandises similaires ou directement concurrentes. (*serious injury*)
 
-***membre*** Membre titulaire, vacataire ou suppléant nommé au Tribunal.
+***membre*** Membre titulaire, vacataire ou suppléant nommé au Tribunal. (*member*)
 
-***menace de dommage grave*** Vise un dommage grave dont l’imminence évidente est fondée sur des faits et non pas seulement sur des allégations, des conjectures ou de lointaines possibilités.
+***menace de dommage grave*** Vise un dommage grave dont l’imminence évidente est fondée sur des faits et non pas seulement sur des allégations, des conjectures ou de lointaines possibilités. (*threat of serious injury*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
+***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md). (*President*)
 
-***produits textiles et vêtements*** Les produits textiles et les vêtements qui figurent, selon le cas, à l’appendice 1.1 de l’annexe 300-B de l’Accord, à l’appendice 1.1 de l’annexe C-00-B de l’ALÉCC, à l’appendice III.1.1.1 de l’annexe III.1 de l’ALÉCCR ou à la section 1 de l’annexe 3.1 de l’ALÉCH.
+***produits textiles et vêtements*** Les produits textiles et les vêtements qui figurent, selon le cas, à l’appendice 1.1 de l’annexe 300-B de l’Accord, à l’appendice 1.1 de l’annexe C-00-B de l’ALÉCC, à l’appendice III.1.1.1 de l’annexe III.1 de l’ALÉCCR ou à la section 1 de l’annexe 3.1 de l’ALÉCH. (*textile and apparel goods*)
 
-***Tribunal*** Le Tribunal canadien du commerce extérieur constitué par le paragraphe 3(1).
+***Tribunal*** Le Tribunal canadien du commerce extérieur constitué par le paragraphe 3(1). (*Tribunal*)
 
 **Terminologie**
 
-- **(2)** Dans la présente loi, ***Accord*** et ***pays ALÉNA*** s’entendent au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+- **(2)** Dans la présente loi, Accord et pays ALÉNA s’entendent au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
 **Terminologie**
 
 - **(2.1)** Dans la présente loi :
 	- **a)** ***ALÉCI*** s’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md);
 	- **b)** ***tarif de l’Accord de libre-échange Canada — Israël*** s’entend des taux de droits de douane applicables sous le régime de l’article 50 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
-	- **c)** ***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** et ***Israël ou autre bénéficiaire de l’ALÉCI*** s’entendent au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+	- **c)** importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI et Israël ou autre bénéficiaire de l’ALÉCI s’entendent au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 **Définition de tarif du Panama**
 
@@ -83,7 +83,7 @@
 **Terminologie**
 
 - **(4.1)** Dans la présente loi :
-	- **a)** ***État de l’AELÉ*** s’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md);
+	- **a)** État de l’AELÉ s’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md);
 	- **b)** ***tarif de l’Islande*** s’entend des taux de droits de douane visés à l’article 52.1 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
 	- **c)** ***tarif de la Norvège*** s’entend des taux de droits de douane visés à l’article 52.2 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
 	- **d)** ***tarif de Suisse-Liechtenstein*** s’entend des taux de droits de douane visés à l’article 52.3 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -108,6 +108,10 @@
 	- **a)** ***ALÉCRC*** s’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md);
 	- **b)** ***tarif de la Corée*** S’entend des taux de droits de douane visés à l’article 49.7 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
+**Définition de tarif de l’Ukraine**
+
+- **(4.6)** Dans la présente loi, ***tarif de l’Ukraine*** s’entend des taux de droits de douane visés à l’article 52.5 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 **Marchandises importées de certains pays**
 
 - **(5)** Pour l’application de la présente loi, sont des marchandises importées d’un pays mentionné ci-après les marchandises expédiées directement au Canada de ce pays, conformément aux articles 17 et 18 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) :Chili
@@ -130,8 +134,10 @@ pays ALÉNA
 
 Pérou
 
+Ukraine
 
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54; 2009, ch. 6, art. 16, ch. 16, art. 16 et 56; 2010, ch. 4, art. 16; 2012, ch. 18, art. 16, ch. 26, art. 16 et 62; 2014, ch. 14, art. 31, ch. 28, art. 33.
+
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54; 2009, ch. 6, art. 16, ch. 16, art. 16 et 56; 2010, ch. 4, art. 16; 2012, ch. 18, art. 16, ch. 26, art. 16 et 62; 2014, ch. 14, art. 31, ch. 28, art. 33; 2017, ch. 8, art. 27.
 
 
 
@@ -753,6 +759,33 @@ Pérou
 
 
 
+**Définition de cause principale**
+
+**19.0192** 
+
+- **(1)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mesures d’urgence : Ukraine**
+
+- **(2)** Le Tribunal, saisi par le gouverneur en conseil sur recommandation du ministre, enquête et fait rapport au gouverneur en conseil sur la question de savoir si des marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Ukraine, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+
+**Mandat**
+
+- **(3)** Le Tribunal mène l’enquête visée au paragraphe (2) et établit le rapport correspondant dans le strict cadre du mandat dont il est en l’occurrence investi par le gouverneur en conseil ou le ministre, selon le cas.
+
+**Dépôt au Parlement**
+
+- **(4)** Le ministre dépose le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa transmission à son destinataire.
+
+**Avis**
+
+- **(5)** Le Tribunal fait publier dans la Gazette du Canada un avis de transmission du rapport.
+> 2017, ch. 8, art. 28.
+
+
+
+
+
 **Examen**
 
 **19.02** 
@@ -1073,8 +1106,8 @@ Pérou
 
 **Définition de plainte**
 
-**21.1** Aux articles 23 à 30, ***plainte*** s’entend d’une plainte écrite déposée auprès du Tribunal en vertu de l’un des paragraphes 23(1) à (1.097). Le dossier est complet si le Tribunal est convaincu qu’il comprend les renseignements prévus à l’article 23.
-> 1993, ch. 44, art. 39; 1996, ch. 33, art. 20; 1997, ch. 14, art. 23; 2001, ch. 28, art. 21; 2009, ch. 6, art. 18, ch. 16, art. 19 et 56; 2010, ch. 4, art. 19; 2012, ch. 18, art. 18; 2014, ch. 14, art. 34, ch. 28, art. 36.
+**21.1** Aux articles 23 à 30, ***plainte*** s’entend d’une plainte écrite déposée auprès du Tribunal en vertu de l’un des paragraphes 23(1) à (1.098). Le dossier est complet si le Tribunal est convaincu qu’il comprend les renseignements prévus à l’article 23.
+> 1993, ch. 44, art. 39; 1996, ch. 33, art. 20; 1997, ch. 14, art. 23; 2001, ch. 28, art. 21; 2009, ch. 6, art. 18, ch. 16, art. 19 et 56; 2010, ch. 4, art. 19; 2012, ch. 18, art. 18; 2014, ch. 14, art. 34, ch. 28, art. 36; 2017, ch. 8, art. 29.
 
 
 
@@ -1167,6 +1200,10 @@ Pérou
 
 - **(1.097)** Lorsqu’il estime que certaines marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Corée, importées en quantité tellement accrue, en termes absolus, et dans des conditions telles que leur importation constitue, à elle seule, une cause du dommage grave — ou de la menace d’un tel dommage — qui est ainsi porté aux producteurs nationaux, un producteur national de marchandises similaires ou directement concurrentes, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
 
+**Dépôt : tarif de l’Ukraine**
+
+- **(1.098)** Lorsqu’il estime que certaines marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Ukraine, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave — ou de la menace d’un tel dommage — qui est ainsi porté aux producteurs nationaux, un producteur national de marchandises similaires ou directement concurrentes, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
+
 **Dépôt d’une plainte : TÉU**
 
 - **(1.1)** Lorsqu’il estime que certaines marchandises bénéficiant du tarif des États-Unis de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) sont, en conséquence de la réduction ou de la suppression du tarif, importées en quantité tellement accrue et à des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, chacun de ces producteurs, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
@@ -1182,7 +1219,7 @@ Pérou
 **Accusé de réception**
 
 - **(4)** Le Tribunal accuse, sans délai et par écrit, réception de la plainte auprès de son auteur et lui en précise la date.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 23; 1988, ch. 65, art. 56; 1993, ch. 44, art. 40; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 21; 1997, ch. 14, art. 24, ch. 36, art. 196; 2001, ch. 28, art. 22; 2009, ch. 6, art. 19, ch. 16, art. 20 et 56; 2010, ch. 4, art. 20; 2012, ch. 18, art. 19, ch. 26, art. 20; 2014, ch. 14, art. 35, ch. 28, art. 37.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 23; 1988, ch. 65, art. 56; 1993, ch. 44, art. 40; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 21; 1997, ch. 14, art. 24, ch. 36, art. 196; 2001, ch. 28, art. 22; 2009, ch. 6, art. 19, ch. 16, art. 20 et 56; 2010, ch. 4, art. 20; 2012, ch. 18, art. 19, ch. 26, art. 20; 2014, ch. 14, art. 35, ch. 28, art. 37; 2017, ch. 8, art. 30.
 
 
 
@@ -1245,6 +1282,7 @@ Pérou
 		- **(i.95)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.095), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Honduras, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace d’un tel dommage,
 		- **(i.96)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.096), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Honduras, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice,
 		- **(i.97)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.097), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Corée, importées en quantité tellement accrue, en termes absolus, et dans des conditions telles que leur importation constitue, à elle seule, une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
+		- **(i.98)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.098), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Ukraine, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
 		- **(ii)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.1), que les marchandises bénéficiant du tarif des États-Unis de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) sont, en conséquence de la réduction ou de la suppression du tarif, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes;
 	- **b)** que la plainte est présentée par les producteurs nationaux d’une part importante des marchandises similaires ou directement concurrentes produites au Canada ou en leur nom;
 	- **c)** que les faits en cause sont suffisamment différents de ceux présentés au cours des enquêtes tenues par le Tribunal sous le régime de la présente loi, à l’exception d’une enquête tenue en vertu des articles 30.21 à 30.25, sur des marchandises similaires ou directement concurrentes, dans les vingt-quatre mois précédant la réception de la plainte, pour justifier la tenue d’une nouvelle enquête.
@@ -1280,7 +1318,7 @@ Pérou
 **Délai pour ouvrir une enquête**
 
 - **(7)** Lorsque, en raison du paragraphe 55(5) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou du paragraphe 5(3.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), le décret visé au paragraphe 5(3) de cette loi ou au paragraphe 55(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ne peut être pris, pendant une période donnée, à l’égard de marchandises, le Tribunal peut ouvrir l’enquête prévue au paragraphe (1) au plus tôt dans les cent quatre-vingts jours précédant la fin de la période en question.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55; 2009, ch. 6, art. 21, ch. 16, art. 21 et 56; 2010, ch. 4, art. 21; 2012, ch. 18, art. 20, ch. 26, art. 21; 2014, ch. 14, art. 37, ch. 28, art. 38.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55; 2009, ch. 6, art. 21, ch. 16, art. 21 et 56; 2010, ch. 4, art. 21; 2012, ch. 18, art. 20, ch. 26, art. 21; 2014, ch. 14, art. 37, ch. 28, art. 38; 2017, ch. 8, art. 31.
 
 
 
@@ -1310,6 +1348,7 @@ Pérou
 	- **a.95)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.095), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Honduras, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.96)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.096), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Honduras, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace réelle d’un tel préjudice;
 	- **a.97)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.097), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Corée, importées en quantité tellement accrue, en termes absolus, et dans des conditions telles que leur importation constitue, à elle seule, une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
+	- **a.98)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.098), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Ukraine, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **b)** soit, lorsqu’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.1), si les marchandises bénéficiant du tarif des États-Unis de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) sont, en conséquence de la réduction ou de la suppression du tarif, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes.
 
 **Définition de cause principale**
@@ -1331,7 +1370,7 @@ Pérou
 **Autres questions**
 
 - **(3)** Au cours de l’enquête, le Tribunal étudie les questions connexes dont le saisit le gouverneur en conseil.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 27; 1988, ch. 65, art. 58; 1993, ch. 44, art. 43; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 23; 1997, ch. 14, art. 27, ch. 36, art. 198; 2001, ch. 28, art. 25; 2009, ch. 6, art. 22, ch. 16, art. 22 et 56; 2010, ch. 4, art. 22; 2012, ch. 18, art. 21, ch. 26, art. 22; 2014, ch. 14, art. 38, ch. 28, art. 39.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 27; 1988, ch. 65, art. 58; 1993, ch. 44, art. 43; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 23; 1997, ch. 14, art. 27, ch. 36, art. 198; 2001, ch. 28, art. 25; 2009, ch. 6, art. 22, ch. 16, art. 22 et 56; 2010, ch. 4, art. 22; 2012, ch. 18, art. 21, ch. 26, art. 22; 2014, ch. 14, art. 38, ch. 28, art. 39; 2017, ch. 8, art. 32.
 
 
 
