@@ -33,59 +33,61 @@
 
 - **(1)** In this Act,
 
-***Agency*** means the Canada Border Services Agency;
+***Agency*** means the Canada Border Services Agency; (*Agence*)
 
-***bonded warehouse*** means a place licensed as a bonded warehouse by the Minister under subsection 91(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***bonded warehouse*** means a place licensed as a bonded warehouse by the Minister under subsection 91(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*entrepôt de stockage*)
 
 ***Canada***[Repealed, 1996, c. 31, s. 73]
 
 ***Canada-United States Free Trade Agreement***[Repealed, 1997, c. 14, s. 35]
 
-***carrier code*** means the unique identification number issued by the Minister either under subsection 12.1(4) or before the coming into force of that subsection;
+***carrier code*** means the unique identification number issued by the Minister either under subsection 12.1(4) or before the coming into force of that subsection; (*code de transporteur*)
 
-***CCFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md);
+***CCFTA*** has the same meaning as Agreement in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); (*ALÉCC*)
 
-***CCOFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md);
+***CCOFTA*** has the same meaning as Agreement in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md); (*ALÉCCO*)
 
-***CCRFTA*** has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
+***CCRFTA*** has the same meaning as Agreement in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act; (*ALÉCCR*)
 
-***CEFTA*** has the same meaning as ***Agreement*** in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md);
+***CEFTA*** has the same meaning as Agreement in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md); (*ALÉCA*)
 
-***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b);
+***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b); (*certificat d’origine*)
 
-***CHFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md);
+***CHFTA*** has the same meaning as Agreement in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md); (*ALÉCH*)
 
-***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Chili*)
 
-***CIFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md);
+***CIFTA*** has the same meaning as Agreement in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md); (*ALÉCI*)
 
 ***cigar***[Repealed, 2002, c. 22, s. 328]
 
-***CJFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md);
+***CJFTA*** has the same meaning as Agreement in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md); (*ALÉCJ*)
 
-***CKFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md);
+***CKFTA*** has the same meaning as Agreement in section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md); (*ALÉCRC*)
 
-***Colombia*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Colombia*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Colombie*)
 
 ***Commissioner***[Repealed, 2005, c. 38, s. 60]
 
-***conveyance*** means any vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods;
+***conveyance*** means any vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods; (*moyen de transport*)
 
-***Costa Rica*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Costa Rica*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Costa Rica*)
 
-***courier*** has the meaning assigned by regulation;
+***courier*** has the meaning assigned by regulation; (*messager*)
 
-***CPAFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md);
+***CPAFTA*** has the same meaning as Agreement in section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md); (*ALÉCPA*)
 
-***CPFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md);
+***CPFTA*** has the same meaning as Agreement in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md); (*ALÉCP*)
 
-***customs office*** means a place designated as a customs office by the Minister under section 5;
+***CUFTA*** has the same meaning as Agreement in section 2 of the [Canada–Ukraine Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%208.md); (*ALÉCU*)
 
-***data*** means representations, in any form, of information or concepts;
+***customs office*** means a place designated as a customs office by the Minister under section 5; (*bureau de douane*)
+
+***data*** means representations, in any form, of information or concepts; (*données*)
 
 ***Deputy Minister***[Repealed, 1999, c. 17, s. 123]
 
-***designated goods*** means 
+***designated goods*** means
 - **(a)** [Repealed, 2002, c. 22, s. 328]
 - **(b)** aviation fuel,
 - **(c)** aviation gasoline,
@@ -97,71 +99,71 @@
 - **(i)** precious and semi-precious stones,
 - **(i.1)** spirits,
 - **(j)** wine, or
-- **(k)** such other goods as the Minister may, by order, designate for the purposes of all or any of the provisions of this Act;
+- **(k)** such other goods as the Minister may, by order, designate for the purposes of all or any of the provisions of this Act; (*marchandises désignées*)
 
-***duties*** means any duties or taxes levied or imposed on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b) and 65(1)(b), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+***duties*** means any duties or taxes levied or imposed on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b) and 65(1)(b), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); (*droits*)
 
-***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24;
+***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24; (*boutique hors taxes*)
 
-***EFTA state*** has the same meaning as in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md);
+***EFTA state*** has the same meaning as in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md); (*État de l’AELÉ*)
 
-***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and that has not been cancelled under section 25.5 of that Act;
+***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and that has not been cancelled under section 25.5 of that Act; (*timbre d’accise*)
 
-***export*** means export from Canada;
+***export*** means export from Canada; (*exporter*)
 
-***forfeit*** means forfeit to Her Majesty in right of Canada;
+***forfeit*** means forfeit to Her Majesty in right of Canada; (*confisquer*)
 
-***free trade agreement*** means an agreement set out in column 2 of Part 1 of the schedule;
+***free trade agreement*** means an agreement set out in column 2 of Part 1 of the schedule; (*accord de libre-échange*)
 
-***free trade partner*** means a country or territory set out in column 1 of Part 1 of the schedule;
+***free trade partner*** means a country or territory set out in column 1 of Part 1 of the schedule; (*partenaire de libre-échange*)
 
-***goods***, for greater certainty, includes conveyances, animals and any document in any form;
+***goods***, for greater certainty, includes conveyances, animals and any document in any form; (*marchandises*)
 
-***Honduras*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Honduras*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Honduras*)
 
-***Iceland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Iceland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Islande*)
 
-***import*** means import into Canada;
+***import*** means import into Canada; (*importer*)
 
-***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*)
 
-***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn 
+***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn 
 - **(a)** from Cap-des-Rosiers to the westernmost point of Anticosti Island, and
-- **(b)** from Anticosti Island to the north shore of the St. Lawrence River along the meridian of longitude sixty-three degrees west;
+- **(b)** from Anticosti Island to the north shore of the St. Lawrence River along the meridian of longitude sixty-three degrees west; (*eaux internes*)
 
 ***internal waters***[Repealed, 1996, c. 31, s. 73]
 
-***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Israël ou autre bénéficiaire de l’ALÉCI*)
 
-***Jordan*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Jordan*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Jordanie*)
 
-***Korea*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Korea*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Corée*)
 
-***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*utilisateur agréé*)
 
-***Liechtenstein*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Liechtenstein*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Liechtenstein*)
 
- ou ***mail*** has the meaning set out in section 2 of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md);
+***mail*** has the meaning set out in section 2 of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md); (*envois* ou *courrier*)
 
 ***manufactured tobacco***[Repealed, 2002, c. 22, s. 328]
 
-***Minister*** means, except in Part V.1, the Minister of Public Safety and Emergency Preparedness;
+***Minister*** means, except in Part V.1, the Minister of Public Safety and Emergency Preparedness; (*ministre*)
 
-***NAFTA*** has the meaning assigned to the word “Agreement” by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
+***NAFTA*** has the meaning assigned to the word Agreement by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md); (*ALÉNA*)
 
-***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
+***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md); (*pays ALÉNA*)
 
-***Norway*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Norway*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Norvège*)
 
- ou ***officer*** means a person employed in the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police;
+***officer*** means a person employed in the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police; (*agent* ou *agent des douanes*)
 
-***Panama*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Panama*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Panama*)
 
-***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind;
+***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind; (*personne*)
 
-***Peru*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Peru*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Pérou*)
 
-***preferential tariff treatment*** means, in respect of goods, entitlement to whichever tariff set out in column 3 of Part 1 of the schedule is applicable in the circumstances;
+***preferential tariff treatment*** means, in respect of goods, entitlement to whichever tariff set out in column 3 of Part 1 of the schedule is applicable in the circumstances; (*traitement tarifaire préférentiel*)
 
 ***preferential tariff treatment under CCFTA***[Repealed, 2012, c. 18, s. 24]
 
@@ -177,52 +179,54 @@
 
 ***preferential tariff treatment under NAFTA***[Repealed, 2012, c. 18, s. 24]
 
-***prescribed*** means 
+***prescribed*** means 
 - **(a)** in respect of a form or the manner of filing a form, authorized by the Minister,
 - **(b)** in respect of the information to be provided on or with a form, specified by the Minister, and
-- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation;
+- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation; (*réglementaire*)
 
-***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
+***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md); (*président*)
 
-***raw leaf tobacco*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***raw leaf tobacco*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*tabac en feuilles*)
 
-***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device;
+***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device; (*document*)
 
-***regulation*** means a regulation made by the Governor in Council under this Act;
+***regulation*** means a regulation made by the Governor in Council under this Act; (*règlement*)
 
-***release*** means 
+***release*** means
 - **(a)** in respect of goods, to authorize the removal of the goods from a customs office, sufferance warehouse, bonded warehouse or duty free shop for use in Canada, and
-- **(b)** in respect of goods to which paragraph 32(2)(b) applies, to receive the goods at the place of business of the importer, owner or consignee;
+- **(b)** in respect of goods to which paragraph 32(2)(b) applies, to receive the goods at the place of business of the importer, owner or consignee; (*dédouanement*)
 
-***restricted formulation*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***restricted formulation*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*préparation assujettie à des restrictions*)
 
-***specially denatured alcohol*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***specially denatured alcohol*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*alcool spécialement dénaturé*)
 
-***specified rate*** means the rate of interest, expressed as a percentage per year, equal to 6% per year plus the prescribed rate;
+***specified rate*** means the rate of interest, expressed as a percentage per year, equal to 6% per year plus the prescribed rate; (*taux déterminé*)
 
-***spirits*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***spirits*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*spiritueux*)
 
-***spirits licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***spirits licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*titulaire de licence de spiritueux*)
 
-***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24;
+***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24; (*entrepôt d’attente*)
 
-***Switzerland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Switzerland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Suisse*)
 
-***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*classement tarifaire*)
 
 ***territorial sea***[Repealed, 1996, c. 31, s. 73]
 
-***tobacco licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***tobacco licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*titulaire de licence de tabac*)
 
-***tobacco product*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***tobacco product*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*produit du tabac*)
+
+***Ukraine*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Ukraine*)
 
 ***United States***[Repealed, 1997, c. 14, s. 35]
 
-***value for duty*** means, in respect of goods, the value of the goods as it would be determined in accordance with sections 45 to 56;
+***value for duty*** means, in respect of goods, the value of the goods as it would be determined in accordance with sections 45 to 56; (*valeur en douane*)
 
-***wine*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***wine*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*vin*)
 
-***wine licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***wine licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*titulaire de licence de vin*)
 
 **Definitions**
 
@@ -230,17 +234,17 @@
 
 ***alcohol***, ***ethyl alcohol*** and ***spirits***[Repealed, 2002, c. 22, s. 328]
 
- or  ou ***beer*** or ***malt liquor*** has the meaning assigned by section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md);
+***beer*** or ***malt liquor*** has the meaning assigned by section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md); (*bière* ou *liqueur de malt*)
 
-***diamonds*** means goods for personal use or for adornment of the person and classified under subheading Nos. 7102.10, 7102.31 and 7102.39 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***diamonds*** means goods for personal use or for adornment of the person and classified under subheading Nos. 7102.10, 7102.31 and 7102.39 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*diamants*)
 
-***diesel fuel*** has the meaning assigned by subsection 2(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+***diesel fuel*** has the meaning assigned by subsection 2(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); (*combustible diesel*)
 
-***gasoline*** has the meaning assigned by subsection 2(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+***gasoline*** has the meaning assigned by subsection 2(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); (*essence*)
 
-***pearls*** means goods for personal use or for adornment of the person and classified under heading No. 71.01 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***pearls*** means goods for personal use or for adornment of the person and classified under heading No. 71.01 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*perles*)
 
-***precious and semi-precious stones*** means goods for personal use or for adornment of the person and classified under heading No. 71.03 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+***precious and semi-precious stones*** means goods for personal use or for adornment of the person and classified under heading No. 71.03 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md). (*pierres précieuses ou fines*)
 
 ***wine***[Repealed, 2002, c. 22, s. 328]
 
@@ -269,7 +273,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 8, s. 20.
 
 
 
@@ -1776,28 +1780,31 @@ and may specify in the licence any restriction as to the classes of goods that m
 **42.1** 
 
 - **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to the prescribed conditions,
-	- **(a)** conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than CEFTA, is claimed
+	- **(a)** conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), is claimed
 		- **(i)** by entering any prescribed premises or place at any reasonable time, or
 		- **(ii)** in the prescribed manner; or
 	- **(b)** enter any prescribed premises or place at any reasonable time to verify the amount, if any, of
 		- **(i)** a relief under section 89 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) from the payment of any duties payable in respect of imported goods that are subsequently exported to a NAFTA country, or
 		- **(ii)** a drawback under section 113 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) of duties paid in respect of imported goods that are subsequently exported to a NAFTA country.
 
-**Method of verification under CEFTA**
+**Method of verification — certain agreements**
 
-- **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct a verification of origin of goods for which preferential tariff treatment under CEFTA is claimed by requesting in writing that the customs administration of the EFTA state of export conduct a verification and provide an opinion as to whether the goods are originating within the meaning of Annex C of CEFTA.
+- **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct any of the following:
+	- **(a)** a verification of origin of goods for which preferential tariff treatment under CEFTA is claimed, by requesting in writing that the customs administration of the EFTA state of export conduct a verification and provide an opinion as to whether the goods are originating within the meaning of Annex C of CEFTA;
+	- **(b)** a verification of origin of goods for which preferential tariff treatment under CUFTA is claimed, by requesting in writing that the customs administration of Ukraine conduct a verification and provide a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA.
 
 **Withdrawal of preferential tariff treatment**
 
-- **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than CEFTA, may be denied or withdrawn from the goods.
+- **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
 
 **Withdrawal of preferential tariff treatment under CEFTA**
 
-- **(3)** Preferential tariff treatment under CEFTA may be denied or withdrawn from the goods
-	- **(a)** if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
+- **(3)** Preferential tariff treatment under a free trade agreement referred to in subsection (1.1) may be denied or withdrawn from the goods in any of the following circumstances:
+	- **(a)** in the case of CEFTA, if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
+	- **(a.1)** in the case of CUFTA, if Ukraine fails to conduct a verification or provide a written report as to whether the goods are originating;
 	- **(b)** if an officer or other person designated under subsection (1.1) is unable to determine whether the goods are originating; or
 	- **(c)** in any other prescribed circumstances.
-> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24.
+> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 8, s. 21.
 
 
 
@@ -3081,11 +3088,13 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 
 
-**Verification of origin on behalf of an EFTA state**
+**Verification of origin — certain agreements**
 
 **97.201** 
 
-- **(1)** The customs administration of an EFTA state to which goods were exported may request in writing that the Agency conduct a verification and provide an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA.
+- **(1)** The customs administration of any state referred to in subsection 42.1(1.1) to which goods were exported may request in writing that the Agency conduct a verification and provide, as the case may be
+	- **(a)** an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA; or
+	- **(b)** a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA.
 
 **Methods of verification**
 
@@ -3093,11 +3102,11 @@ may, within ninety days after the date a decision is made under section 67, appe
 	- **(a)** by entering any prescribed premises or place at any reasonable time; or
 	- **(b)** in any other prescribed manner.
 
-**Statement of origin**
+**Statement of origin — certain agreements**
 
 - **(3)** On completion of a verification of origin requested under subsection (1), an officer or other person designated under subsection (2) shall
-	- **(a)** provide, in the prescribed manner, the customs administration of an EFTA state referred to in subsection (1) with the opinion requested under that subsection and any relevant supporting documents that may be requested by that customs administration; and
-	- **(b)** determine whether the goods are originating within the meaning of Annex C of CEFTA.
+	- **(a)** provide, in the prescribed manner, the customs administration of the state with the opinion or written report requested and any relevant supporting documents that may be requested by that customs administration; and
+	- **(b)** determine whether the goods are originating within the meaning of the applicable provision referred to in subsection (1).
 
 **Notice requirement**
 
@@ -3106,7 +3115,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Determination treated as re-determination**
 
 - **(5)** A determination made under paragraph (3)(b) is to be treated for the purposes of this Act as if it were a re-determination under paragraph 59(1)(a).
-> 2009, c. 6, s. 28.
+> 2009, c. 6, s. 28; 2017, c. 8, s. 22.
 
 
 
@@ -6117,6 +6126,11 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>CPFTA</td>
 <td>Peru Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
 </tr>
+<tr>
+<td>Ukraine</td>
+<td>CUFTA</td>
+<td>Ukraine Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
 </table>
 
 #### PART 2
@@ -6217,6 +6231,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Peru</td>
 <td>paragraph 1 of Article 419 of CPFTA</td>
 </tr>
+<tr>
+<td>Ukraine</td>
+<td>Article 4.8 of CUFTA</td>
+</tr>
 </table>
 
 #### PART 4
@@ -6260,6 +6278,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <tr>
 <td>Peru</td>
 <td>CPFTA</td>
+</tr>
+<tr>
+<td>Ukraine</td>
+<td>CUFTA</td>
 </tr>
 </table>
 
@@ -6310,11 +6332,15 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Chapter Four</td>
 </tr>
 <tr>
+<td>CUFTA</td>
+<td>Chapters 3 and 4</td>
+</tr>
+<tr>
 <td>NAFTA</td>
 <td>Chapters Three and Five</td>
 </tr>
 </table>
 
-> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31.
+> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 8, ss. 23 to 26.
 
 
