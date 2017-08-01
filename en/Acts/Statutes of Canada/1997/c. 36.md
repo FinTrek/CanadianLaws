@@ -44,129 +44,138 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***Canada–Chile Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–Chile Free Trade Agreement Implementation Act.
+***Canada–Chile Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada–Chile Free Trade Agreement Implementation Act. (*Accord de libre-échange Canada — Chili*)
 
-***Canada–Colombia Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md).
+***Canada–Colombia Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md). (*Accord de libre-échange Canada–Colombie*)
 
-***Canada — Costa Rica Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
+***Canada — Costa Rica Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act; (*Accord de libre-échange Canada — Costa Rica*)
 
-***Canada–EFTA Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–EFTA Agreement Implementation Act.
+***Canada–EFTA Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada–EFTA Agreement Implementation Act. (*Accord de libre-échange Canada–AELÉ*)
 
-***Canada–Honduras Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md).
+***Canada–Honduras Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md). (*Accord de libre-échange Canada-Honduras*)
 
-***Canada–Israel Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act.
+***Canada–Israel Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act. (*Accord de libre-échange Canada — Israël*)
 
-***Canada–Jordan Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md).
+***Canada–Jordan Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md). (*Accord de libre-échange Canada-Jordanie*)
 
-***Canada–Korea Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md). 
+***Canada–Korea Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md). (*Accord de libre-échange Canada-Corée*)
 
-***Canada–Panama Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md).
+***Canada–Panama Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md). (*Accord de libre-échange Canada-Panama*)
 
-***Canada–Peru Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md).
+***Canada–Peru Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md). (*Accord de libre-échange Canada-Pérou*)
 
-***Canada–United States Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act.
+***Canada–Ukraine Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Ukraine Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%208.md). (*Accord de libre-échange Canada–Ukraine*) 
 
-***Chile*** means the land, maritime, and air space under the sovereignty of Chile and the exclusive economic zone and the continental shelf over which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law.
+***Canada–United States Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act. (*Accord de libre-échange Canada — États-Unis*)
 
-***Colombia*** means the land territory, both continental and insular, the air space and the maritime areas over which the Republic of Colombia exercises sovereignty, or sovereign rights or jurisdiction, in accordance with its domestic law and international law.
+***Chile*** means the land, maritime, and air space under the sovereignty of Chile and the exclusive economic zone and the continental shelf over which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law. (*Chili*)
 
-***Costa Rica*** means the territory and air space, and the maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which it exercises, in accordance with international law and its domestic law, sovereign rights with respect to the natural resources of such areas;
+***Colombia*** means the land territory, both continental and insular, the air space and the maritime areas over which the Republic of Colombia exercises sovereignty, or sovereign rights or jurisdiction, in accordance with its domestic law and international law. (*Colombie*)
 
-***country***, unless the context otherwise requires, includes an external or dependent territory of a country and any other prescribed territory.
+***Costa Rica*** means the territory and air space, and the maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which it exercises, in accordance with international law and its domestic law, sovereign rights with respect to the natural resources of such areas; (*Costa Rica*)
 
-***customs duty***, except for the purposes of Part 3, other than sections 82 and 122, means a duty imposed under section 20.
+***country***, unless the context otherwise requires, includes an external or dependent territory of a country and any other prescribed territory. (*pays*)
 
-***final rate*** means the rate of customs duty that applies after the application of all reductions provided for under this Act, other than reductions related to rounding or to the elimination of rates of less than two per cent.
+***customs duty***, except for the purposes of Part 3, other than sections 82 and 122, means a duty imposed under section 20. (*droits de douane*)
 
- ou ***for use in***, wherever it appears in a tariff item, in respect of goods classified in the tariff item, means that the goods must be wrought or incorporated into, or attached to, other goods referred to in that tariff item.
+***final rate*** means the rate of customs duty that applies after the application of all reductions provided for under this Act, other than reductions related to rounding or to the elimination of rates of less than two per cent. (*taux final*)
 
-***free trade partner*** means
+***for use in***, wherever it appears in a tariff item, in respect of goods classified in the tariff item, means that the goods must be wrought or incorporated into, or attached to, other goods referred to in that tariff item. (*devant servir dans* ou *devant servir à*)
+
+***free trade partner*** means
 - **(a)** a NAFTA country;
 - **(b)** Chile; or
-- **(c)** Israel or another CIFTA beneficiary.
+- **(c)** Israel or another CIFTA beneficiary. (*partenaire de libre-échange*)
 
-***“F” Staging List*** means the List of Intermediate and Final Rates for Tariff Items of the “F” Staging Category set out in the schedule.
+***“F” Staging List*** means the List of Intermediate and Final Rates for Tariff Items of the “F” Staging Category set out in the schedule. (*tableau des échelonnements*)
 
-***heading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a four-digit number and includes all subheadings or tariff items the first four digits of which correspond to that number.
+***heading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a four-digit number and includes all subheadings or tariff items the first four digits of which correspond to that number. (*position*)
 
-***Honduras*** means the land, maritime areas, and air space under the sovereignty of the Republic of Honduras and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law.
+***Honduras*** means the land, maritime areas, and air space under the sovereignty of the Republic of Honduras and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law. (*Honduras*)
 
-***Iceland*** means 
+***Iceland*** means 
 - **(a)** the land territory, air space, internal waters and territorial sea of Iceland; and
-- **(b)** the exclusive economic zone and continental shelf of Iceland.
+- **(b)** the exclusive economic zone and continental shelf of Iceland. (*Islande*)
 
-***imported from Israel or another CIFTA beneficiary*** has the meaning assigned by regulation.
+***imported from Israel or another CIFTA beneficiary*** has the meaning assigned by regulation. (*importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*)
 
-***initial rate*** means the rate of customs duty that applies before any reductions are made under this Act.
+***initial rate*** means the rate of customs duty that applies before any reductions are made under this Act. (*taux initial*)
 
-***Israel or another CIFTA beneficiary*** has the meaning assigned by regulation.
+***Israel or another CIFTA beneficiary*** has the meaning assigned by regulation. (*Israël ou autre bénéficiaire de l’ALÉCI*)
 
-***Jordan*** means the land territory, the air space and the internal waters and territorial sea over which the Hashemite Kingdom of Jordan exercises sovereignty.
+***Jordan*** means the land territory, the air space and the internal waters and territorial sea over which the Hashemite Kingdom of Jordan exercises sovereignty. (*Jordanie*)
 
-***Korea*** means the land, maritime areas and air space under the sovereignty of the Republic of Korea, and those maritime areas, including the seabed and subsoil adjacent to and beyond the outer limit of the territorial seas, over which the Republic of Korea may exercise sovereign rights or jurisdiction in accordance with international law and its domestic law.
+***Korea*** means the land, maritime areas and air space under the sovereignty of the Republic of Korea, and those maritime areas, including the seabed and subsoil adjacent to and beyond the outer limit of the territorial seas, over which the Republic of Korea may exercise sovereign rights or jurisdiction in accordance with international law and its domestic law. (*Corée*)
 
-***Liechtenstein*** means the land territory and air space of Liechtenstein.
+***Liechtenstein*** means the land territory and air space of Liechtenstein. (*Liechtenstein*)
 
-***List of Countries*** means the List of Countries and Applicable Tariff Treatments set out in the schedule.
+***List of Countries*** means the List of Countries and Applicable Tariff Treatments set out in the schedule. (*tableau des traitements tarifaires*)
 
-***List of Tariff Provisions*** means the List of Tariff Provisions set out in the schedule.
+***List of Tariff Provisions*** means the List of Tariff Provisions set out in the schedule. (*liste des dispositions tarifaires*)
 
-***Mexico*** means
+***Mexico*** means
 - **(a)** the states of the Federation and the Federal District;
 - **(b)** the islands, including the reefs and keys, in adjacent seas;
 - **(c)** the islands of Guadalupe and Revillagigedo situated in the Pacific Ocean;
 - **(d)** the continental shelf and the submarine shelf of such islands, keys and reefs;
 - **(e)** the waters of the territorial sea, in accordance with international law, and its interior maritime waters;
 - **(f)** the space located above the national territory, in accordance with international law; and
-- **(g)** any areas beyond the territorial seas of Mexico within which, in accordance with international law, including the United Nations Convention on the Law of the Sea, and its domestic law, Mexico may exercise rights in respect of the seabed and subsoil and the natural resources thereof.
+- **(g)** any areas beyond the territorial seas of Mexico within which, in accordance with international law, including the United Nations Convention on the Law of the Sea, and its domestic law, Mexico may exercise rights in respect of the seabed and subsoil and the natural resources thereof. (*Mexique*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***NAFTA country*** means a party to the North American Free Trade Agreement.
+***NAFTA country*** means a party to the North American Free Trade Agreement. (*pays ALÉNA*)
 
-***North American Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
+***North American Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md). (*Accord de libre-échange nord-américain*)
 
-***Norway*** means 
+***Norway*** means
 - **(a)** the land territory, air space, internal waters and territorial sea of Norway; and
-- **(b)** the exclusive economic zone and continental shelf of Norway.
+- **(b)** the exclusive economic zone and continental shelf of Norway. (*Norvège*)
 
-***Panama*** means the land, maritime areas, and air space under the sovereignty of the Republic of Panama and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law.
+***Panama*** means the land, maritime areas, and air space under the sovereignty of the Republic of Panama and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law. (*Panama*)
 
-***Peru*** means the mainland territory, the islands, the maritime zones and the air space above them, over which the Republic of Peru exercises sovereignty, or sovereign rights and jurisdiction, in accordance with its domestic law and international law.
+***Peru*** means the mainland territory, the islands, the maritime zones and the air space above them, over which the Republic of Peru exercises sovereignty, or sovereign rights and jurisdiction, in accordance with its domestic law and international law. (*Pérou*)
 
-Version anglaise seulement***prescribed*** means
+***prescribed*** means
 - **(a)** in respect of a form, the information to be provided on or with a form, or the manner of filing a form, prescribed by the Minister of Public Safety and Emergency Preparedness; and
-- **(b)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
+- **(b)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation. (***Version anglaise seulement***)
 
-***regulation*** means a regulation made under this Act.
+***regulation*** means a regulation made under this Act. (*règlement*)
 
-***serious injury*** means, in relation to domestic producers of like or directly competitive goods, a significant overall impairment in the position of the domestic producers.
+***serious injury*** means, in relation to domestic producers of like or directly competitive goods, a significant overall impairment in the position of the domestic producers. (*dommage grave*)
 
-***specific rate*** means a rate expressed in dollars or cents per unit of measure.
+***specific rate*** means a rate expressed in dollars or cents per unit of measure. (*taux spécifique*)
 
-***specified rate*** means the rate of interest, expressed as a percentage per year, equal to six per cent per year plus the prescribed rate.
+***specified rate*** means the rate of interest, expressed as a percentage per year, equal to six per cent per year plus the prescribed rate. (*taux déterminé*)
 
-***subheading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a six-digit number and includes all tariff items the first six digits of which correspond to that number.
+***subheading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a six-digit number and includes all tariff items the first six digits of which correspond to that number. (*sous-position*)
 
-***Switzerland*** means the land territory and air space of Switzerland.
+***Switzerland*** means the land territory and air space of Switzerland. (*Suisse*)
 
-***tariff item*** means a description of goods in the List of Tariff Provisions and the rates of customs duty and the accompanying eight-digit number in that List and, if applicable, in the “F” Staging List.
+***tariff item*** means a description of goods in the List of Tariff Provisions and the rates of customs duty and the accompanying eight-digit number in that List and, if applicable, in the “F” Staging List. (*numéro tarifaire*)
 
-***tariff rate quota*** means a limitation on the quantity of goods that are entitled to a specified tariff treatment that may be imported in a specified period.
+***tariff rate quota*** means a limitation on the quantity of goods that are entitled to a specified tariff treatment that may be imported in a specified period. (*contingent tarifaire*)
 
-***threat of serious injury*** means serious injury that, on the basis of facts, and not merely of allegation, conjecture or remote possibility, is clearly imminent.
+***threat of serious injury*** means serious injury that, on the basis of facts, and not merely of allegation, conjecture or remote possibility, is clearly imminent. (*menace de dommage grave*)
 
-***United States*** means
+***Ukraine*** means
+- **(a)** the land territory, air space, internal waters and territorial sea of Ukraine;
+- **(b)** the exclusive economic zone of Ukraine, as determined by its domestic law, consistent with Part V of UNCLOS; and
+- **(c)** the continental shelf of Ukraine, as determined by its domestic law, consistent with Part VI of UNCLOS. (*Ukraine*)
+
+***UNCLOS*** means the United Nations Convention on the Law of the Sea, done at Montego Bay on December 10, 1982. (*CNUDM*) 
+
+***United States*** means
 - **(a)** the customs territory of the United States, including the 50 states of the United States, the District of Columbia and Puerto Rico;
 - **(b)** the foreign trade zones located in the United States and Puerto Rico; and
-- **(c)** any areas beyond the territorial sea of the United States within which the United States may exercise rights in respect of the seabed and subsoil and the natural resources thereof, in accordance with its domestic laws and international law.
+- **(c)** any areas beyond the territorial sea of the United States within which the United States may exercise rights in respect of the seabed and subsoil and the natural resources thereof, in accordance with its domestic laws and international law. (*États-Unis*)
 
-***World Trade Organization Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
+***World Trade Organization Agreement*** has the same meaning as Agreement in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md). (*Accord sur l’Organisation mondiale du commerce*)
 
 **Territories**
 
-- **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64.
+- **(2)** A territory prescribed by regulation for the purposes of the definition country in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 8, s. 33.
 
 
 
@@ -323,12 +332,13 @@ Switzerland
 		- **(xiii)** subsection 73(1),
 		- **(xiv)** subsection 74(1),
 		- **(xv)** subsection 74(2),
-		- **(xvi)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+		- **(xvi)** subsection 75(1),
+		- **(xvii)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45; 2017, c. 8, s. 34.
 
 
 
@@ -635,48 +645,50 @@ Switzerland
 
 **27** The following abbreviations, as defined below, apply in the schedule.
 
-***AUT*** refers to the Australia Tariff.
+***AUT*** refers to the Australia Tariff. (*TAU*)
 
-***CCCT*** refers to the Commonwealth Caribbean Countries Tariff.
+***CCCT*** refers to the Commonwealth Caribbean Countries Tariff. (*TPAC*)
 
-***CIAT*** refers to the Canada–Israel Agreement Tariff.
+***CIAT*** refers to the Canada–Israel Agreement Tariff. (*TACI*)
 
-***COLT*** refers to the Colombia Tariff.
+***COLT*** refers to the Colombia Tariff. (*TCOL*)
 
-***CRT*** refers to the Costa Rica Tariff.
+***CRT*** refers to the Costa Rica Tariff. (*TCR*)
 
-***CT*** refers to the Chile Tariff.
+***CT*** refers to the Chile Tariff. (*TC*)
 
-***GPT*** refers to the General Preferential Tariff.
+***GPT*** refers to the General Preferential Tariff. (*TPG*)
 
-***HNT*** refers to the Honduras Tariff.
+***HNT*** refers to the Honduras Tariff. (*THN*)
 
-***IT*** refers to the Iceland Tariff.
+***IT*** refers to the Iceland Tariff. (*TI*)
 
-***JT*** refers to the Jordan Tariff.
+***JT*** refers to the Jordan Tariff. (*TJ*)
 
-***KRT*** refers to the Korea Tariff.
+***KRT*** refers to the Korea Tariff. (*TKR*)
 
-***LDCT*** refers to the Least Developed Country Tariff.
+***LDCT*** refers to the Least Developed Country Tariff. (*TPMD*)
 
-***MFN*** refers to the Most-Favoured-Nation Tariff.
+***MFN*** refers to the Most-Favoured-Nation Tariff. (*NPF*)
 
-***MT*** refers to the Mexico Tariff.
+***MT*** refers to the Mexico Tariff. (*TM*)
 
-***MUST*** refers to the Mexico–United States Tariff.
+***MUST*** refers to the Mexico–United States Tariff. (*TMÉU*)
 
-***NT*** refers to the Norway Tariff.
+***NT*** refers to the Norway Tariff. (*TN*)
 
-***NZT*** refers to the New Zealand Tariff.
+***NZT*** refers to the New Zealand Tariff. (*TNZ*)
 
-***PAT*** refers to the Panama Tariff.
+***PAT*** refers to the Panama Tariff. (*TPA*)
 
-***PT*** refers to the Peru Tariff.
+***PT*** refers to the Peru Tariff. (*TP*)
 
-***SLT*** refers to the Switzerland–Liechtenstein Tariff.
+***SLT*** refers to the Switzerland–Liechtenstein Tariff. (*TSL*)
 
-***UST*** refers to the United States Tariff.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46.
+***UAT*** refers to the Ukraine Tariff. (*TUA*)
+
+***UST*** refers to the United States Tariff. (*TÉU*)
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 8, s. 35.
 
 
 
@@ -1901,6 +1913,29 @@ Switzerland
 
 
 
+#### Ukraine Tariff
+
+
+
+**Application of UAT**
+
+**52.5** 
+
+- **(1)** Subject to section 24, goods that originate in Ukraine are entitled to the Ukraine Tariff rates of customs duty.
+
+**“A” final rate for UAT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “UAT” in relation to goods entitled to the Ukraine Tariff, the Ukraine Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for UAT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “UAT” in relation to goods entitled to the Ukraine Tariff, the Ukraine Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+> 2017, c. 8, s. 36.
+
+
+
+
+
 **DIVISION 4** 
 ### Special Measures, Emergency Measures and Safeguards
 
@@ -2946,7 +2981,40 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
-**75** [Repealed, 2011, c. 24, s. 128]
+
+#### Bilateral Emergency Measures — Ukraine
+
+
+
+**Order by Governor in Council**
+
+**75** 
+
+- **(1)** Subject to subsections (2) to (4), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.0192(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.098) of that Act, that goods that are entitled to the Ukraine Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 52.5;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Ukraine Tariff that is in effect in respect of those goods at that time, is not to exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods for the corresponding season immediately before the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods for the corresponding season immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Ukraine Tariff that is in effect in respect of those goods at that time, is not to exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection.
+
+**Terms and conditions**
+
+- **(2)** An order referred to in subsection (1)
+	- **(a)** is not to be made more than once in respect of goods of any particular kind;
+	- **(b)** remains in effect only for the period, not exceeding three years, that is specified in the order; and
+	- **(c)** may be in effect during the period beginning on the day on which this section comes into force and ending on the day before the seventh anniversary of the day on which this section comes into force.
+
+**Rate of duty when order ceases to have effect**
+
+- **(3)** When an order made under subsection (1) ceases to have effect, the rate of customs duty applicable to the goods is the rate of customs duty that is applicable in accordance with section 52.5.
+
+**Definition of principal cause**
+
+- **(4)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+> 1997, c. 36, s. 75; 2011, c. 24, s. 128; 2017, c. 8, s. 37.
+
 
 
 
@@ -3173,8 +3241,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(l)** subsection 72(2);
 - **(m)** subsection 73(1);
 - **(n)** subsection 74(1);
-- **(o)** subsection 74(2).
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45, c. 28, s. 52.
+- **(o)** subsection 74(2);
+- **(p)** subsection 75(1).
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45, c. 28, s. 52; 2017, c. 8, s. 38.
 
 
 
