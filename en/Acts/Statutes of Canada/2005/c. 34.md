@@ -1482,6 +1482,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### **SCHEDULE** 
 **(Subsections 19.1(1) and (2))**
 ## Treaties
+Chapter 13 of the Free Trade Agreement between Canada and Ukraine, done at Kyiv on July 11, 2016, as amended from time to time in accordance with Article 19.3 of that Agreement.
+
+
 Chapter 18 of the Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014, as amended from time to time in accordance with Article 23.2 of that Agreement.
 
 
@@ -1500,6 +1503,6 @@ The Agreement on Labour Cooperation between Canada and the Republic of Panama, d
 The Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
 
 
-> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50, c. 28, s. 58.
+> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50, c. 28, s. 58; 2017, c. 8, s. 42.
 
 
