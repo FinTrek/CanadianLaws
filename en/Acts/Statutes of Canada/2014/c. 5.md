@@ -660,6 +660,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **40** Oromocto
 - **41** Sakimay First Nations
 - **42** Pheasant Rump Nakota First Nation
-> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1; SOR/2017-30, s. 1; SOR/2017-32, s. 1; SOR/2017-34, s. 1; SOR/2017-64, s. 1; SOR/2017-66, s. 1; SOR/2017-97, s. 1; SOR/2017-99, s. 1; SOR/2017-102, s. 1; SOR/2017-152, s. 1; SOR/2017-153, s. 1.
+- **43** Fort Folly First Nation
+- **44** Day Star First Nation
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1; SOR/2017-30, s. 1; SOR/2017-32, s. 1; SOR/2017-34, s. 1; SOR/2017-64, s. 1; SOR/2017-66, s. 1; SOR/2017-97, s. 1; SOR/2017-99, s. 1; SOR/2017-102, s. 1; SOR/2017-152, s. 1; SOR/2017-153, s. 1; SOR/2017-188, s. 1; SOR/2017-190, s. 1.
 
 
