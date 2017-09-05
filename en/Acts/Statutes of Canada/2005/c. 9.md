@@ -2442,6 +2442,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Chippewas of Kettle and Stony Point First Nation
 - Chippewas of Rama First Nation
 - Chippewas of the Thames First Nation
+- Cold Lake First Nations
 - Coldwater Indian Band
 - Conseil de la Première Nation Abitibiwinni
 - Conseil des Montagnais du Lac Saint-Jean
@@ -2451,10 +2452,12 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Dakota Tipi
 - Doig River First Nation
 - Douglas
+- Driftpile Cree Nation
 - Ebb and Flow
 - Ehattesaht
 - Elsipogtog First Nation
 - Enoch Cree Nation #440
+- Esquimalt Nation
 - Fisher River
 - Flying Dust First Nation
 - Fort William
@@ -2502,6 +2505,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Malahat First Nation
 - Matsqui First Nation
 - M’Chigeeng First Nation
+- McLeod Lake Indian Band
 - Membertou First Nation
 - Metepenagiag Mi’kmaq Nation
 - Metlakatla First Nation
@@ -2595,6 +2599,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - St. Theresa Point
 - Stz’uminus First Nation
 - Sumas First Nation
+- Sunchild First Nation
 - Sweetgrass
 - Taku River Tlingit First Nation
 - Taykwa Tagamou Nation
@@ -2630,6 +2635,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Xaxli’p
 - Yakweakwioose First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186.
 
 
