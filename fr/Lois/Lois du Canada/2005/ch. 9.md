@@ -2439,6 +2439,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Chippewas de Rama
 - Première Nation Chippewas of Kettle and Stony Point
 - Première Nation Chippewas of the Thames
+- Premières Nations de Cold Lake
 - Bande indienne Coldwater
 - Conseil de la Première Nation Abitibiwinni
 - Conseil des Montagnais du Lac Saint-Jean
@@ -2448,10 +2449,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Dakota Tipi
 - Première Nation de Doig River
 - Douglas
+- Nation crie Driftpile
 - Ebb and Flow
 - Ehattesaht
 - Première nation Elsipogtog
 - Nation crie Enoch #440
+- Nation Esquimalt
 - Fisher River
 - Première Nation Flying Dust
 - Fort William
@@ -2499,6 +2502,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Malahat
 - Première nation Matsqui
 - Première Nation M’Chigeeng
+- Bande indienne de McLeod Lake
 - Première Nation Membertou
 - Nation Metepenagiag Mi’kmaq
 - Première Nation Metlakatla
@@ -2592,6 +2596,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - St. Theresa Point
 - Stz’uminus First Nation
 - Première nation Sumas
+- Première Nation Sunchild
 - Sweetgrass
 - Première Nation Taku River Tlingit
 - Nation Taykwa Tagamou
@@ -2627,6 +2632,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Xaxli’p
 - Première nation Yakweakwioose
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186.
 
 
