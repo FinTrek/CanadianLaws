@@ -301,9 +301,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** An application to register a pest control product or to amend the product’s registration must be made to the Minister in the form and manner directed by the Minister and must include any information or other thing that is required by the regulations to accompany the application.
 
-**Use of information provided by other registrants**
+**Use of information provided by registrants**
 
-- **(2)** If the Minister is satisfied that any information referred to in subsection (1) has been provided by a registrant of a pest control product, the active ingredient of which the Minister has determined to be equivalent to the active ingredient in the applicant’s product, the Minister shall, subject to and in accordance with the regulations made under paragraph 67(1)(h), permit the applicant to use or rely on that information.
+- **(2)** If the Minister determines that the active ingredient of the applicant’s pest control product is equivalent to the active ingredient of a registered pest control product, the Minister shall, subject to and in accordance with the regulations, permit the applicant to use or rely on any information referred to in subsection (1) that has been provided by any registrant if the Minister is satisfied that the information
+	- **(a)** is relevant to the registered pest control product that contains the equivalent active ingredient; and
+	- **(b)** is necessary to support the application.
 
 **Foreign review or evaluation**
 
@@ -350,6 +352,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Representations**
 
 - **(10)** For the purposes of subsection (9), the Minister shall, before making the determination, give the applicant a reasonable opportunity to make representations in respect of the information referred to in that subsection.
+> 2002, c. 28, s. 7; 2017, c. 6, s. 109.
+
 
 
 
@@ -500,15 +504,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(4)** After the re-evaluation is initiated, the Minister shall deliver a notice to federal and provincial government departments and agencies whose interests and concerns are affected by the federal regulatory system requesting them to provide, in the form and within the period specified in the notice, information in respect of the health and environmental risks and the value of the product that is under re-evaluation.
 
-**Provision of information when more than one registrant**
+**Provision of information if more than one registrant**
 
 - **(5)** If there is more than one registrant whose registered pest control products have active ingredients that the Minister has determined to be equivalent,
 	- **(a)** two or more registrants may provide the information required under subsection (3) or paragraph 19(1)(a) jointly; and
-	- **(b)** where the Minister is satisfied that the information required under subsection (3) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations made under paragraph 67(1)(h), permit another registrant to use or rely on that information to meet the requirements of those provisions.
+	- **(b)** if the Minister is satisfied that the information required under subsection (3) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations, permit another registrant to use or rely on that information to meet the requirements under that subsection or paragraph.
+
+**If active ingredients not equivalent**
+
+- **(5.1)** If the active ingredients of the registered pest control product that is subject to the re-evaluation are not equivalent to the active ingredients in another registrant’s registered pest control product, the Minister shall, subject to and in accordance with the regulations, permit the registrant whose product is subject to the re-evaluation to use or rely on information provided by the other registrant if the Minister is satisfied that the information is necessary for the re-evaluation.
 
 **Evaluation of pest control product**
 
 - **(6)** After the re-evaluation is initiated, the Minister shall, in accordance with the regulations, if any, conduct any evaluations that the Minister considers necessary with respect to the health or environmental risks or the value of the pest control product and shall carry out the consultations required by section 28.
+> 2002, c. 28, s. 16; 2017, c. 6, s. 110.
+
 
 
 
@@ -548,15 +558,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** After the special review is initiated, the Minister shall deliver a notice to federal and provincial government departments and agencies whose interests and concerns are affected by the federal regulatory system requesting them to provide, in the form and within the period specified in the notice, information in respect of the health and environmental risks and the value of the product that is under special review.
 
-**Provision of information when more than one registrant**
+**Provision of information if more than one registrant**
 
 - **(3)** If there is more than one registrant whose registered pest control products have active ingredients that the Minister has determined to be equivalent,
 	- **(a)** two or more registrants may provide the information required under subsection (1) or paragraph 19(1)(a) jointly; and
-	- **(b)** where the Minister is satisfied that the information required under subsection (1) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations made under paragraph 67(1)(h), permit another registrant to use or rely on that information to meet the requirements of those provisions.
+	- **(b)** if the Minister is satisfied that the information required under subsection (1) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations, permit another registrant to use or rely on that information to meet the requirements under that subsection or paragraph.
+
+**If active ingredients not equivalent**
+
+- **(3.1)** If the active ingredients of a registered pest control product that is subject to the special review are not equivalent to the active ingredients in another registrant’s registered pest control product, the Minister shall, subject to and in accordance with the regulations, permit the registrant whose product is subject to the special review to use or rely on information provided by the other registrant if the Minister is satisfied that the information is necessary for the special review.
 
 **Evaluation of pest control product**
 
 - **(4)** After the special review is initiated, the Minister shall, in accordance with the regulations, if any, evaluate the aspects of the pest control product that prompted the special review and shall carry out the consultations required by section 28.
+> 2002, c. 28, s. 18; 2017, c. 6, s. 111.
+
 
 
 
@@ -1898,7 +1914,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Negotiation and arbitration**
 
-- **(2)** An agreement referred to in subsection (1) shall be entered into, and provide for the determination of compensation payable through negotiation and binding arbitration, in accordance with the regulations made under paragraph 67(1)(h).
+- **(2)** An agreement referred to in subsection (1) shall be entered into, and provide for the determination of compensation payable through negotiation and binding arbitration, in accordance with the regulations.
 
 **[Commercial Arbitration Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2017%20(2nd%20Supp.).md) applies**
 
@@ -1911,6 +1927,8 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Regulations**
 
 - **(5)** Regulations made by the Minister of Justice under section 9 of the [Commercial Arbitration Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2017%20(2nd%20Supp.).md) apply to an arbitration referred to in subsection (3) unless the parties otherwise agree.
+> 2002, c. 28, s. 66; 2017, c. 6, s. 112.
+
 
 
 
@@ -1924,7 +1942,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **67** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** prescribing policies of the Government of Canada that are consistent with the objectives of this Act for the purposes of the definition ***government policy*** in section 2;
+	- **(a)** prescribing policies of the Government of Canada that are consistent with the objectives of this Act for the purposes of the definition government policy in section 2;
 	- **(b)** prescribing the nomenclature of pests and pest control products for the purposes of this Act;
 	- **(c)** respecting the information and other things that must accompany an application made under section 7 or 10;
 	- **(d)** respecting standards of laboratory practice to be used in conducting tests to obtain information about pest control products, certification of compliance with those standards, inspection and audit of compliance and the consequences of a failure to comply;
@@ -1932,7 +1950,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 	- **(f)** respecting the registration of pest control products, including the types of registration for classes of products, and, for each type,
 		- **(i)** the criteria and characteristics, and
 		- **(ii)** the period or maximum period for which the registration is valid, which periods may be either finite or indefinite;
-	- **(f.1)** respecting minor uses of a pest control product and defining ***minor use*** for the purposes of this Act and the regulations;
+	- **(f.1)** respecting minor uses of a pest control product and defining minor use for the purposes of this Act and the regulations;
 	- **(g)** stating which requirements of the regulations are conditions of registration;
 	- **(h)** respecting the circumstances and conditions under which information provided to the Minister by registrants may be used or relied upon in relation to applications or registrations of other persons, including distinctions among the rights of registrants based on the purposes for which the information was provided to the Minister;
 	- **(i)** respecting the Pest Control Products Export Control List, authorizations to export pest control products and the amendment, suspension and cancellation of authorizations;
@@ -1953,6 +1971,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 	- **(x)** respecting the preservation, detention and forfeiture of pest control products and any other things seized by an inspector;
 	- **(y)** respecting the destruction or disposition of pest control products or any other thing forfeited or authorized to be disposed of under this Act;
 	- **(z)** respecting reviews under section 60;
+	- **(z.01)** respecting the entering into of agreements and the determination of compensation payable through negotiations and binding arbitration, under section 66;
 	- **(z.1)** respecting the delivery or transmission of documents under this Act, including the transmission of documents in electronic form;
 	- **(z.2)** respecting fees and charges in relation to the administration of this Act or the regulations;
 	- **(z.21)** establishing classes of pest control products and any categories and subcategories of those classes;
@@ -1986,10 +2005,10 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 - **(4)** The definitions in this subsection apply in subsection (3).
 
-***North American Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md). (*Accord de libre-échange nord-américain*)
+***North American Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md). (*Accord de libre-échange nord-américain*)
 
-***WTO Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md). (*Accord sur l’OMC*)
-> 2002, c. 28, s. 67; 2016, c. 9, s. 59.
+***WTO Agreement*** has the same meaning as Agreement in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md). (*Accord sur l’OMC*)
+> 2002, c. 28, s. 67; 2016, c. 9, s. 59; 2017, c. 6, s. 113.
 
 
 
