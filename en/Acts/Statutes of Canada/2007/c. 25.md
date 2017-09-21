@@ -80,7 +80,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(iii)** any other goods or services of the same general class as that for which it is registered or was, before that date, used;
 	- **(d)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the Trade-marks Act, if the notice is given before March 2, 2007;
 	- **(e)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the Trade-marks Act, if the notice is given before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the badge, crest, emblem or other mark;
-	- **(f)** the use of a protected geographical indication identifying a wine or spirit, if the wine or spirit originates in the territory indicated by the indication;
+	- **(f)** the use of a protected geographical indication identifying a wine or spirit or an agricultural product or food if the wine or spirit or the agricultural product or food originates in the territory indicated by the indication;
 	- **(g)** the use by a person of their address, the geographical name of their place of business, an accurate indication of the origin of their goods or services, or an accurate description of their goods or services to the extent that the description is necessary to explain those goods or services to the public;
 	- **(h)** the use by an individual of their name; or
 	- **(i)** the use by an individual who has been selected by the COC or the CPC to compete, or has competed, in an Olympic Games or Paralympic Games, or another person with that individual’s consent, of the mark “Olympian”, “Olympic”, “*Olympien*” or “*Olympique*”, or “Paralympian”, “Paralympic”, “*Paralympien*” or “*Paralympique*”, as the case may be, in reference to the individual’s participation in, or selection for, those Games.
@@ -92,7 +92,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Clarification**
 
 - **(6)** For greater certainty, the inclusion of an Olympic or Paralympic mark or a translation of it in any language in an artistic work, within the meaning of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), by the author of that work, is not in itself a use in connection with a business if the work is not reproduced on a commercial scale.
-> 2007, c. 25, s. 3; 2014, c. 32, s. 62.
+> 2007, c. 25, s. 3; 2014, c. 32, s. 62; 2017, c. 6, s. 130.
 
 
 
