@@ -42,30 +42,30 @@ Assented to on 12 December 2006
 
 - **(1)** The following definitions apply in this Act.
 
-***Commissioner*** means the Conflict of Interest and Ethics Commissioner appointed under section 81 of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md).
+***Commissioner*** means the Conflict of Interest and Ethics Commissioner appointed under section 81 of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md). (*commissaire*)
 
-***common-law partner*** means a person who is cohabiting with a public office holder in a conjugal relationship, having so cohabited for a period of at least one year.
+***common-law partner*** means a person who is cohabiting with a public office holder in a conjugal relationship, having so cohabited for a period of at least one year. (*conjoint de fait*)
 
-***common-law partnership*** means the relationship between two persons who are cohabiting in a conjugal relationship, having so cohabited for a period of at least one year.
+***common-law partnership*** means the relationship between two persons who are cohabiting in a conjugal relationship, having so cohabited for a period of at least one year. (*union de fait*)
 
-***dependent child*** means a child of a public office holder, or a child of the public office holder’s spouse or common-law partner, who has not reached the age of 18 years or who has reached that age but is primarily dependent on the public office holder or public office holder’s spouse or common-law partner for financial support.
+***dependent child*** means a child of a public office holder, or a child of the public office holder’s spouse or common-law partner, who has not reached the age of 18 years or who has reached that age but is primarily dependent on the public office holder or public office holder’s spouse or common-law partner for financial support. (*enfant à charge*)
 
-***former reporting public office holder*** means a former public office holder who, while in office, was a reporting public office holder.
+***former reporting public office holder*** means a former public office holder who, while in office, was a reporting public office holder. (*ex-titulaire de charge publique principal*)
 
-***gift or other advantage*** means
+***gift or other advantage*** means
 - **(a)** an amount of money if there is no obligation to repay it; and
-- **(b)** a service or property, or the use of property or money that is provided without charge or at less than its commercial value.
+- **(b)** a service or property, or the use of property or money that is provided without charge or at less than its commercial value. (*cadeau ou autre avantage*)
 
-***ministerial adviser*** means a person, other than a public servant, who occupies a position in the office of a minister of the Crown or a minister of state and who provides policy, program or financial advice to that person on issues relating to his or her powers, duties and functions as a minister of the Crown or a minister of state, whether or not the advice is provided on a full-time or part-time basis and whether or not the person is entitled to any remuneration or other compensation for the advice.
+***ministerial adviser*** means a person, other than a public servant, who occupies a position in the office of a minister of the Crown or a minister of state and who provides policy, program or financial advice to that person on issues relating to his or her powers, duties and functions as a minister of the Crown or a minister of state, whether or not the advice is provided on a full-time or part-time basis and whether or not the person is entitled to any remuneration or other compensation for the advice. (*conseiller ministériel*)
 
-***ministerial staff*** means those persons, other than public servants, who work on behalf of a minister of the Crown or a minister of state.
+***ministerial staff*** means those persons, other than public servants, who work on behalf of a minister of the Crown or a minister of state. (*personnel ministériel*)
 
-***private interest*** does not include an interest in a decision or matter
+***private interest*** does not include an interest in a decision or matter
 - **(a)** that is of general application;
 - **(b)** that affects a public office holder as one of a broad class of persons; or
-- **(c)** that concerns the remuneration or benefits received by virtue of being a public office holder.
+- **(c)** that concerns the remuneration or benefits received by virtue of being a public office holder. (*intérêt personnel*)
 
-***public office holder*** means
+***public office holder*** means
 - **(a)** a minister of the Crown, a minister of state or a parliamentary secretary;
 - **(a.1)** the Chief Electoral Officer;
 - **(b)** a member of ministerial staff;
@@ -77,23 +77,25 @@ Assented to on 12 December 2006
 	- **(iv)** a judge who receives a salary under the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md),
 	- **(v)** a military judge within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
 	- **(vi)** a Deputy Commissioner of the Royal Canadian Mounted Police;
+- **(d.01)** the Parliamentary Budget Officer;
 - **(d.1)** a ministerial appointee whose appointment is approved by the Governor in Council; and
-- **(e)** a person or a member of a class of persons if the person or class of persons is designated under subsection 62.1(1) or 62.2(1).
+- **(e)** a person or a member of a class of persons if the person or class of persons is designated under subsection 62.1(1) or 62.2(1). (*titulaire de charge publique*)
 
-***public sector entity*** means a department or agency of the Government of Canada, a Crown corporation established by or under an Act of Parliament or any other entity to which the Governor in Council may appoint a person, but does not include the Senate or the House of Commons.
+***public sector entity*** means a department or agency of the Government of Canada, a Crown corporation established by or under an Act of Parliament or any other entity to which the Governor in Council may appoint a person, but does not include the Senate or the House of Commons. (*entité du secteur public*)
 
-***public servant*** has the meaning assigned by subsection 2(1) of the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md), but includes officers and non-commissioned members of the Canadian Forces and employees of the Canadian Security Intelligence Service or the Communications Security Establishment.
+***public servant*** has the meaning assigned by subsection 2(1) of the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md), but includes officers and non-commissioned members of the Canadian Forces and employees of the Canadian Security Intelligence Service or the Communications Security Establishment. (*fonctionnaire*)
 
-***reporting public office holder*** means a public office holder who is
+***reporting public office holder*** means a public office holder who is
 - **(a)** a minister of the Crown, minister of state or parliamentary secretary;
 - **(a.1)** the Chief Electoral Officer;
 - **(b)** a member of ministerial staff who works on average 15 hours or more a week;
 - **(c)** a ministerial adviser;
 - **(d)** a Governor in Council appointee, or a ministerial appointee whose appointment is approved by the Governor in Council, who exercises his or her official duties and functions on a part-time basis but receives an annual salary and benefits;
-- **(e)** a Governor in Council appointee, or a ministerial appointee whose appointment is approved by the Governor in Council, who exercises his or her official duties and functions on a full-time basis; or
-- **(f)** a person or a member of a class of persons if the person or class of persons is designated under subsection 62.1(2) or 62.2(2).
+- **(e)** a Governor in Council appointee, or a ministerial appointee whose appointment is approved by the Governor in Council, who exercises his or her official duties and functions on a full-time basis;
+- **(e.1)** the Parliamentary Budget Officer; or
+- **(f)** a person or a member of a class of persons if the person or class of persons is designated under subsection 62.1(2) or 62.2(2). (*titulaire de charge publique principal*)
 
-***spouse*** does not include a person from whom a public office holder is separated if all support obligations and family property or patrimony have been dealt with by a separation agreement or a court order.
+***spouse*** does not include a person from whom a public office holder is separated if all support obligations and family property or patrimony have been dealt with by a separation agreement or a court order. (*époux*)
 
 **Family members**
 
@@ -104,7 +106,7 @@ Assented to on 12 December 2006
 **Relatives**
 
 - **(3)** Persons who are related to a public office holder by birth, marriage, common-law partnership, adoption or affinity are the public office holder’s relatives for the purposes of this Act unless the Commissioner determines, either generally or in relation to a particular public office holder, that it is not necessary for the purposes of this Act that a person or a class of persons be considered a relative of a public office holder.
-> 2006, c. 9, s. 2 "2"; 2013, c. 18, s. 66, c. 33, s. 192, c. 40, s. 288; 2014, c. 12, s. 145.
+> 2006, c. 9, s. 2 “2”; 2013, c. 18, s. 66, c. 33, s. 192, c. 40, s. 288; 2014, c. 12, s. 145; 2017, c. 20, s. 187.
 
 
 
@@ -430,8 +432,11 @@ Assented to on 12 December 2006
 - **(2)** A reporting public office holder who accepts an offer of outside employment shall within seven days disclose his or her acceptance of the offer in writing to the Commissioner as well as to the following persons:
 	- **(a)** in the case of a minister of the Crown or minister of state, to the Prime Minister;
 	- **(b)** in the case a parliamentary secretary, to the minister whom the parliamentary secretary assists;
-	- **(c)** in the case of deputy heads, to the Clerk of the Privy Council; and
+	- **(c)** in the case of deputy heads, to the Clerk of the Privy Council;
+	- **(c.1)** in the case of the Parliamentary Budget Officer, to the Speakers of the Senate and the House of Commons; and
 	- **(d)** in the case of any other reporting public office holder, to the appropriate minister.
+> 2006, c. 9, s. 2 “24”; 2017, c. 20, s. 188.
+
 
 
 
