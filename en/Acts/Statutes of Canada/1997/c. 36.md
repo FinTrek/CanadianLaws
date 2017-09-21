@@ -52,6 +52,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canada–EFTA Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada–EFTA Agreement Implementation Act. (*Accord de libre-échange Canada–AELÉ*)
 
+***Canada–European Union Comprehensive Economic and Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%206.md). (*Accord économique et commercial global entre le Canada et l’Union européenne*)
+
 ***Canada–Honduras Free Trade Agreement*** has the same meaning as Agreement in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md). (*Accord de libre-échange Canada-Honduras*)
 
 ***Canada–Israel Free Trade Agreement*** has the same meaning as Agreement in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act. (*Accord de libre-échange Canada — Israël*)
@@ -77,6 +79,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***country***, unless the context otherwise requires, includes an external or dependent territory of a country and any other prescribed territory. (*pays*)
 
 ***customs duty***, except for the purposes of Part 3, other than sections 82 and 122, means a duty imposed under section 20. (*droits de douane*)
+
+***EU country or other CETA beneficiary*** has the meaning assigned by regulation. (*pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*)
 
 ***final rate*** means the rate of customs duty that applies after the application of all reductions provided for under this Act, other than reductions related to rounding or to the elimination of rates of less than two per cent. (*taux final*)
 
@@ -175,7 +179,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition country in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 8, s. 33.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 6, s. 95, c. 8, s. 33.
 
 
 
@@ -649,6 +653,8 @@ Switzerland
 
 ***CCCT*** refers to the Commonwealth Caribbean Countries Tariff. (*TPAC*)
 
+***CEUT*** refers to the Canada–European Union Tariff. (*TCUE*)
+
 ***CIAT*** refers to the Canada–Israel Agreement Tariff. (*TACI*)
 
 ***COLT*** refers to the Colombia Tariff. (*TCOL*)
@@ -688,7 +694,7 @@ Switzerland
 ***UAT*** refers to the Ukraine Tariff. (*TUA*)
 
 ***UST*** refers to the United States Tariff. (*TÉU*)
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 8, s. 35.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 6, s. 96, c. 8, s. 35.
 
 
 
@@ -1644,6 +1650,104 @@ Switzerland
 
 - **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
 > 2014, c. 28, s. 47.
+
+
+
+
+
+#### Canada–European Union Tariff
+
+
+
+**Application of CEUT**
+
+**49.8** 
+
+- **(1)** Subject to section 24, goods that originate in an EU country or other CETA beneficiary are entitled to the Canada–European Union Tariff rates of customs duty.
+
+**“A” final rate for CEUT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CEUT” in relation to goods entitled to the Canada–European Union Tariff, the Canada–European Union Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CEUT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CEUT” in relation to goods entitled to the Canada–European Union Tariff, the Canada–European Union Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CEUT**
+
+- **(4)** If “W1”, “W2”, “W3” or “W4” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CEUT” in relation to goods entitled to the Canada–European Union Tariff, the Canada–European Union Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “W1” is set out,
+		- **(i)** effective on the coming into force of this section, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which this section comes into force, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which this section comes into force, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which this section comes into force, to the final rate of “Free”;
+	- **(b)** if “W2” is set out,
+		- **(i)** effective on the coming into force of this section, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which this section comes into force, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which this section comes into force, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which this section comes into force, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which this section comes into force, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which this section comes into force, to the final rate of “Free”;
+	- **(c)** if “W3” is set out,
+		- **(i)** effective on the coming into force of this section, to seven eighths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which this section comes into force, to three quarters of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which this section comes into force, to five eighths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which this section comes into force, to one half of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which this section comes into force, to three eighths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which this section comes into force, to one quarter of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which this section comes into force, to one eighth of the initial rate, and
+		- **(viii)** effective on January 1 of the seventh year after the year in which this section comes into force, to the final rate of “Free”; and
+	- **(d)** if “W4” is set out,
+		- **(i)** effective on the fifth anniversary of the day on which this section comes into force, to two thirds of the initial rate,
+		- **(ii)** effective on January 1 of the sixth year after the year in which this section comes into force, to one third of the initial rate, and
+		- **(iii)** effective on January 1 of the seventh year after the year in which this section comes into force, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one percent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.02, 87.03 or 87.04, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.02, 87.03 or 87.04, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2017, c. 6, s. 97.
+
+
+
+
+
+**Regulations**
+
+**49.9** The Governor in Council may, on the recommendation of the Minister, make regulations defining the term “EU country or other CETA beneficiary”.
+> 2017, c. 6, s. 97.
+
+
+
+
+
+**Extension and withdrawal of entitlement**
+
+**49.91** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to
+	- **(a)** extend entitlement to the Canada–European Union Tariff to any goods that originate in an EU country or other CETA beneficiary; or
+	- **(b)** withdraw entitlement to the Canada–European Union Tariff from any goods that originate in a country if, in the opinion of the Governor in Council, those goods are not entitled to that Tariff under the Canada–European Union Comprehensive Economic and Trade Agreement.
+
+**Content of order**
+
+- **(2)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Canada–European Union Tariff, indicate the goods to which entitlement to that Tariff is extended;
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply; and
+	- **(d)** must, if the order wholly or partially withdraws entitlement to the Canada–European Union Tariff, indicate the goods to which the Most-Favoured-Nation Tariff applies as a consequence.
+> 2017, c. 6, s. 97.
 
 
 
@@ -3262,16 +3366,16 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **80** The definitions in this section apply in this Part.
 
-***customs duties***, other than for the purposes of sections 95 and 96, means customs duties imposed under Part 2, other than surtaxes or temporary duties imposed under Division 4 of Part 2.
+***customs duties***, other than for the purposes of sections 95, 96 and 98.1, means customs duties imposed under Part 2, other than surtaxes or temporary duties imposed under Division 4 of Part 2. (*droits de douane*)
 
-***duties***, other than for the purposes of section 106, means duties or taxes levied or imposed on imported goods under Part 2, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md)  or any other Act of Parliament relating to customs, but for the purposes of sections 89 and 113 does not include the goods and services tax.
+***duties***, other than for the purposes of section 106, means duties or taxes levied or imposed on imported goods under Part 2, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament relating to customs, but for the purposes of sections 89 and 113 does not include the goods and services tax. (*droits*)
 
-***excise taxes*** means the taxes imposed under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) other than the goods and services tax.
+***excise taxes*** means the taxes imposed under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) other than the goods and services tax. (*taxes d’accise*)
 
-***goods and services tax*** means the tax imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+***goods and services tax*** means the tax imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*taxe sur les produits et services*)
 
-***process***, in respect of goods, includes the adjustment, alteration, assembly, manufacture, modification, production or repair of the goods.
-> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347; 2011, c. 24, s. 130.
+***process***, in respect of goods, includes the adjustment, alteration, assembly, manufacture, modification, production or repair of the goods. (*transformation*)
+> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347; 2011, c. 24, s. 130; 2017, c. 6, s. 98.
 
 
 
@@ -3379,7 +3483,15 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Limitation**
 
 - **(4)** Subsection (3) ceases to have effect on the day before the day that is 10 years after the day on which this subsection comes into force.
-> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53.
+
+**Goods of tariff item No. 9971.00.00 — EU**
+
+- **(5)** Despite subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00 that are entitled to the Canada–European Union Tariff is the value of the repairs or alterations made to those goods in an EU country or other CETA beneficiary.
+
+**Limitation**
+
+- **(6)** Subsection (5) ceases to have effect on January 1 of the seventh year after the year in which this subsection comes into force.
+> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53; 2017, c. 6, s. 99.
 
 
 
@@ -3406,7 +3518,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **89** 
 
-- **(1)** Subject to subsection (2), section 95 and any regulations made under section 99, if an application for relief is made within the prescribed time, in accordance with subsection (4), by a person of a prescribed class, relief may be granted from the payment of duties that would but for this section be payable in respect of imported goods that are
+- **(1)** Subject to subsection (2), sections 95 and 98.1 and any regulations made under section 99, if an application for relief is made within the prescribed time, in accordance with subsection (4), by a person of a prescribed class, relief may be granted from the payment of duties that would but for this section be payable in respect of imported goods that are
 	- **(a)** released and subsequently exported in the same condition in which they were imported;
 	- **(b)** released, processed in Canada and subsequently exported;
 	- **(c)** released and directly consumed or expended in the processing in Canada of goods that are subsequently exported;
@@ -3431,7 +3543,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Application**
 
 - **(4)** An application for relief under subsection (1) must be in a form and contain information satisfactory to the Minister of Public Safety and Emergency Preparedness.
-> 1997, c. 36, s. 89; 2002, c. 22, s. 349; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 89; 2002, c. 22, s. 349; 2005, c. 38, ss. 142, 145; 2017, c. 6, s. 100.
 
 
 
@@ -3513,15 +3625,15 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **94** 
 
-- **(1)** In sections 95 and 96, ***customs duties*** means customs duties imposed under Part 2, other than
+- **(1)** In sections 95, 96 and 98.1, ***customs duties*** means customs duties imposed under Part 2, other than
 	- **(a)** additional customs duties levied under sections 21.1 to 21.3; or
 	- **(b)** surtaxes or temporary duties imposed under Division 4 of that Part.
 	- **(c)** [Repealed, 2011, c. 24, s. 131]
 
 **For greater certainty**
 
-- **(2)** For greater certainty, in sections 95 and 96, ***customs duties*** does not include any duties or taxes levied or imposed on imported goods under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351; 2011, c. 24, s. 131.
+- **(2)** For greater certainty, in sections 95, 96 and 98.1, customs duties does not include any duties or taxes levied or imposed on imported goods under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
+> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351; 2011, c. 24, s. 131; 2017, c. 6, s. 101.
 
 
 
@@ -3619,6 +3731,43 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Debt to Her Majesty**
 
 - **(2)** An amount referred to in subsection (1), while it remains unpaid, is deemed to be a debt owing to Her Majesty in right of Canada under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+
+
+
+
+**Repayment of relief — EU**
+
+**98.1** 
+
+- **(1)** If relief is granted under section 89 in respect of goods used as materials, or for which identical, equivalent or similar substitutes are used as materials, in the production of other goods that are exported, on or after the third anniversary of the day on which section 49.8 comes into force, to an EU country or other CETA beneficiary and that benefit, when imported into that country, from a preferential tariff under the Canada–European Union Comprehensive Economic Trade Agreement,
+	- **(a)** the person who exported the other goods shall, within 60 days after exporting them, report their exportation in the prescribed manner to an officer at a customs office and pay an amount equal to the portion of the duties relieved under section 89 that are customs duties; and
+	- **(b)** subject to subsection (4) but despite any other provision of this Part, the person and any other person who was granted that relief are, from the time the other goods are exported, jointly and severally or solidarily liable to pay to Her Majesty in right of Canada the amount referred to in paragraph (a).
+
+**Debt to Her Majesty**
+
+- **(2)** While it remains unpaid, the amount referred to in subsection (1) is a debt owing to Her Majesty in right of Canada under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+
+**No refund or drawback**
+
+- **(3)** No refund or drawback may be granted under section 113 for customs duties paid in respect of goods for which relief of all or a portion of the duties could have been, but was not, granted under section 89, if
+	- **(a)** the goods are used as materials, or identical, equivalent or similar substitutes for those goods are used as materials, in the production of other goods; and
+	- **(b)** those other goods are exported, on or after the third anniversary of the day on which section 49.8 comes into force, to an EU country or other CETA beneficiary and benefit, when imported into that country, from a preferential tariff under the Canada–European Union Comprehensive Economic Trade Agreement.
+
+**Exceptions**
+
+- **(4)** Subsections (1) and (3) do not apply to
+	- **(a)** imported goods that originate in an EU country or other CETA beneficiary that are used as materials, or for which identical, equivalent or similar substitutes are used as materials, in the production of other goods that are exported to an EU country or other CETA beneficiary;
+	- **(b)** imported goods referred to in subsection 89(1) that are deemed to have been exported by reason of their having been
+		- **(i)** placed in a duty free shop for exportation,
+		- **(ii)** designated as ships’ stores by regulations made under paragraph 99(g), or
+		- **(iii)** supplied for use on board a conveyance of a class prescribed under paragraph 99(g); or
+	- **(c)** any other imported goods or any imported goods used as materials, or any class of such goods, that may, on the recommendation of the Minister, be prescribed by the Governor in Council on the basis of an agreement between the Government of Canada and the other parties to the Canada–European Union Comprehensive Economic and Trade Agreement.
+
+**Definition of materials**
+
+- **(5)** In this section, ***materials*** means goods that are used in the processing of other goods, and includes parts or ingredients.
+> 2017, c. 6, s. 102.
+
 
 
 
@@ -3792,7 +3941,7 @@ less
 
 **107** 
 
-- **(1)** Subject to section 95, if relief is granted under section 89, 92, 101 or 106 from the payment of the whole or a portion of duties,
+- **(1)** Subject to sections 95 and 98.1, if relief is granted under section 89, 92, 101 or 106 from the payment of the whole or a portion of duties,
 	- **(a)** no duties are payable, if the relief was from the payment of the whole; and
 	- **(b)** the portion is not payable, if the relief was only from the payment of the portion.
 
@@ -3803,6 +3952,8 @@ less
 **Effect of relief on value under [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md)**
 
 - **(3)** Notwithstanding subsection (1), the amount of customs duties payable on goods shall, for the purposes of determining the value of the goods under section 215 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), be determined as if relief had been granted under section 101 but had not been granted under section 89, 92 or 106.
+> 1997, c. 36, s. 107; 2017, c. 6, s. 103.
+
 
 
 
@@ -3887,7 +4038,7 @@ less
 
 **113** 
 
-- **(1)** Subject to subsection (2), section 96 and any regulations made under subsection (4), a refund or drawback shall be granted of all or a portion of duties if
+- **(1)** Subject to subsection (2), sections 96 and 98.1 and any regulations made under subsection (4), a refund or drawback shall be granted of all or a portion of duties if
 	- **(a)** relief or a refund of all or a portion of the duties could have been, but was not, granted under section 89 or 101;
 	- **(b)** all or a portion of the duties was paid; and
 	- **(c)** an application is made in accordance with subsection (3) and section 119.
@@ -3920,7 +4071,7 @@ less
 **Designated goods**
 
 - **(5)** Despite the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under sections 21.1 to 21.3, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
-> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145; 2011, c. 24, s. 133.
+> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145; 2011, c. 24, s. 133; 2017, c. 6, s. 104.
 
 
 
@@ -4097,7 +4248,11 @@ less
 **Interest on the payment of relief for NAFTA**
 
 - **(7)** A person who is liable under subsection 95(1) to pay an amount, other than an amount in respect of duty levied under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), shall pay, in addition to the amount, interest at the specified rate for the period beginning on the sixty-first day after the day the amount became payable and ending on the day the amount is paid in full, calculated on the amount of the balance outstanding.
-> 1997, c. 36, s. 123; 2001, c. 25, s. 88.
+
+**Interest on the payment of relief for CETA**
+
+- **(8)** A person who is liable under subsection 98.1(1) to pay an amount shall pay, in addition to the amount, interest at the specified rate for the period beginning on the sixty-first day after on which the day the amount became payable and ending on the day on which the amount is paid in full, calculated on the amount of the balance outstanding.
+> 1997, c. 36, s. 123; 2001, c. 25, s. 88; 2017, c. 6, s. 105.
 
 
 
@@ -4253,7 +4408,7 @@ less
 - **(a)** prescribing, for the purposes of section 101,
 	- **(i)** the period after the exportation of goods within which the goods must be returned to Canada, and
 	- **(ii)** what constitutes satisfactory evidence of exportation of the goods;
-- **(b)** defining the expressions ***baggage***, ***conveyance***, ***former resident***, ***incidental to the international traffic of the goods***, ***resident***, ***temporarily*** and ***temporary resident*** for the purposes of a tariff item of Chapter 98 of the List of Tariff Provisions;
+- **(b)** defining the expressions baggage, conveyance, former resident, incidental to the international traffic of the goods, resident, temporarily and temporary resident for the purposes of a tariff item of Chapter 98 of the List of Tariff Provisions;
 - **(c)** for the purposes of tariff item No. 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 or 9810.00.00, prescribing conditions under which goods may be imported;
 - **(d)** for the purposes of tariff item No. 9802.00.00,
 	- **(i)** prescribing conditions under which conveyances may be imported,
@@ -4271,14 +4426,16 @@ less
 	- **(i)** exempting goods or classes of goods imported by any class of persons referred to in that tariff item from any of its requirements relating to the period during which goods must be owned, possessed or used abroad, and
 	- **(ii)** substituting less exigent requirements relating to the period during which goods or classes of goods of that tariff item must be owned, possessed or used abroad by any class of persons referred to in that tariff item;
 - **(h)** for the purposes of tariff item No. 9807.00.00,
-	- **(i)** defining the word ***settler***,
+	- **(i)** defining the word settler,
 	- **(ii)** exempting goods or classes of goods imported by any classes of persons referred to in that tariff item from any of its requirements relating to ownership, possession or use, and
 	- **(iii)** substituting less exigent requirements relating to the ownership, possession or use of goods or classes of goods of that tariff item;
 - **(i)** for the purposes of tariff item No. 9897.00.00,
-	- **(i)** defining the expressions ***issue***, ***periodical*** and ***special edition***,
+	- **(i)** defining the expressions issue, periodical and special edition,
 	- **(ii)** prescribing conditions under which an issue of a periodical will be found to be an issue of a special edition that contained an advertisement that was primarily directed to a market in Canada and that did not appear in identical form in all editions of that issue of a periodical that were distributed in the country of origin, and
 	- **(iii)** prescribing conditions under which an issue of a periodical will be found to be an issue more than five per cent of the advertising space in which consisted of space used for advertisements that indicated specific sources of availability in Canada, or specific conditions relating to the sale or provision in Canada, of any goods or services;
 - **(j)** for the purpose of tariff item No. 9971.00.00, prescribing conditions under which goods that have been exported to one of the following countries for repair or alteration may be imported:a NAFTA country
+
+an EU country or other CETA beneficiary
 
 Chile
 
@@ -4309,6 +4466,8 @@ Switzerland
 
 - **(j.1)** for the purpose of tariff item No. 9992.00.00, prescribing conditions under which goods that have been exported to one of the following countries for repair or alteration may be imported:a NAFTA country
 
+an EU country or other CETA beneficiary
+
 Chile
 
 Colombia
@@ -4333,7 +4492,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F).
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F); 2017, c. 6, s. 106.
 
 
 
