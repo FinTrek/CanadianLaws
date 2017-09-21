@@ -53,6 +53,8 @@
 
 ***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b); (*certificat d’origine*)
 
+***CETA*** has the same meaning as Agreement in section 2 of the [Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%206.md); (*AÉCG*)
+
 ***CHFTA*** has the same meaning as Agreement in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md); (*ALÉCH*)
 
 ***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*Chili*)
@@ -106,6 +108,8 @@
 ***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24; (*boutique hors taxes*)
 
 ***EFTA state*** has the same meaning as in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md); (*État de l’AELÉ*)
+
+***EU country or other CETA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*)
 
 ***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and that has not been cancelled under section 25.5 of that Act; (*timbre d’accise*)
 
@@ -230,11 +234,11 @@
 
 **Definitions**
 
-- **(1.1)** For the purpose of the definition ***designated goods*** in subsection (1),
+- **(1.1)** For the purpose of the definition designated goods in subsection (1),
 
 ***alcohol***, ***ethyl alcohol*** and ***spirits***[Repealed, 2002, c. 22, s. 328]
 
-***beer*** or ***malt liquor*** has the meaning assigned by section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md); (*bière* ou *liqueur de malt*)
+***beer*** or ***malt liquor*** has the meaning assigned by section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md); (*bière* ou *liqueur de malt*)
 
 ***diamonds*** means goods for personal use or for adornment of the person and classified under subheading Nos. 7102.10, 7102.31 and 7102.39 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*diamants*)
 
@@ -273,7 +277,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 8, s. 20.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20.
 
 
 
@@ -1791,7 +1795,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 - **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct any of the following:
 	- **(a)** a verification of origin of goods for which preferential tariff treatment under CEFTA is claimed, by requesting in writing that the customs administration of the EFTA state of export conduct a verification and provide an opinion as to whether the goods are originating within the meaning of Annex C of CEFTA;
-	- **(b)** a verification of origin of goods for which preferential tariff treatment under CUFTA is claimed, by requesting in writing that the customs administration of Ukraine conduct a verification and provide a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA.
+	- **(b)** a verification of origin of goods for which preferential tariff treatment under CUFTA is claimed, by requesting in writing that the customs administration of Ukraine conduct a verification and provide a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA;
+	- **(c)** a verification of origin of goods for which preferential tariff treatment under CETA is claimed, by requesting in writing that the customs administration of the EU country or other CETA beneficiary of export conduct a verification and provide a written report as to whether the goods are originating within the meaning of the Protocol on Rules of Origin and Origin Procedures of CETA.
 
 **Withdrawal of preferential tariff treatment**
 
@@ -1802,9 +1807,10 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(3)** Preferential tariff treatment under a free trade agreement referred to in subsection (1.1) may be denied or withdrawn from the goods in any of the following circumstances:
 	- **(a)** in the case of CEFTA, if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
 	- **(a.1)** in the case of CUFTA, if Ukraine fails to conduct a verification or provide a written report as to whether the goods are originating;
+	- **(a.2)** in the case of CETA, if the EU country or other CETA beneficiary of export fails to conduct a verification or provide a written report as to whether the goods are originating;
 	- **(b)** if an officer or other person designated under subsection (1.1) is unable to determine whether the goods are originating; or
 	- **(c)** in any other prescribed circumstances.
-> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 8, s. 21.
+> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 6, s. 83, c. 8, ss. 21, 43.
 
 
 
@@ -3092,9 +3098,10 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 **97.201** 
 
-- **(1)** The customs administration of any state referred to in subsection 42.1(1.1) to which goods were exported may request in writing that the Agency conduct a verification and provide, as the case may be
-	- **(a)** an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA; or
-	- **(b)** a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA.
+- **(1)** The customs administration of any state or beneficiary referred to in subsection 42.1(1.1) to which goods were exported may request in writing that the Agency conduct a verification and provide, as the case may be
+	- **(a)** an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA;
+	- **(b)** a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA; or
+	- **(c)** a written report as to whether the goods are originating within the meaning of the Protocol on Rules of Origin and Origin Procedures of CETA.
 
 **Methods of verification**
 
@@ -3105,7 +3112,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Statement of origin — certain agreements**
 
 - **(3)** On completion of a verification of origin requested under subsection (1), an officer or other person designated under subsection (2) shall
-	- **(a)** provide, in the prescribed manner, the customs administration of the state with the opinion or written report requested and any relevant supporting documents that may be requested by that customs administration; and
+	- **(a)** provide, in the prescribed manner, the customs administration of the state or beneficiary with the opinion or written report requested and any relevant supporting documents that may be requested by that customs administration; and
 	- **(b)** determine whether the goods are originating within the meaning of the applicable provision referred to in subsection (1).
 
 **Notice requirement**
@@ -3115,7 +3122,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Determination treated as re-determination**
 
 - **(5)** A determination made under paragraph (3)(b) is to be treated for the purposes of this Act as if it were a re-determination under paragraph 59(1)(a).
-> 2009, c. 6, s. 28; 2017, c. 8, s. 22.
+> 2009, c. 6, s. 28; 2017, c. 6, s. 84, c. 8, ss. 22, 43.
 
 
 
@@ -5892,7 +5899,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 	- **(b)** [Repealed, 2009, c. 10, s. 16]
 	- **(c)** requiring the payment of costs incurred for the inspection of records held in a place outside of Canada and respecting the manner of determining those costs and the time and manner in which the costs must be paid;
 	- **(d)** authorizing the collection of information or evidence in order to facilitate the determination of whether any duties are owing or may become owing on imported goods and the amount of such duties;
-	- **(e)** prescribing the conditions under which non-residents may import goods, including the bonds or other security that may be required, defining the term ***non-residents*** for the purpose of this paragraph and exempting any person or class of persons or any goods or class of goods from the application of such conditions;
+	- **(e)** prescribing the conditions under which non-residents may import goods, including the bonds or other security that may be required, defining the term non-residents for the purpose of this paragraph and exempting any person or class of persons or any goods or class of goods from the application of such conditions;
 	- **(f)** prescribing the methods to be followed in determining the tariff classification of sugar, molasses and sugar syrup, and specifying the instruments, standards and appliances to be used in such determinations;
 	- **(g)** prescribing the manner of ascertaining the alcoholic content of wines, spirits or alcoholic liquors for the purpose of determining the tariff classification thereof;
 	- **(h)** prescribing how the coasting trade shall be regulated in any case or class of cases and exempting any case or class of cases, subject to any condition that the Governor in Council sees fit to impose, from any of the requirements of this Act that the Governor in Council deems it inexpedient to enforce with respect to vessels engaged in such trade;
@@ -5903,7 +5910,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 **Regulations**
 
-- **(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of a chapter or provision, set out in column 2 of Part 5 of the schedule, of an agreement set out in column 1 and any other matters that may be agreed on from time to time by the parties to that agreement.
+- **(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of a protocol, chapter or provision — set out in column 2 of Part 5 of the schedule — in an agreement set out in column 1, and any other matters that may be agreed on from time to time by the parties to that agreement.
 
 - **(1.2) to (1.5)** [Repealed, 2012, c. 18, s. 30]
 
@@ -5912,7 +5919,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations prescribing a rate of interest or rules for determining a rate of interest for the purposes of any provision of this Act.
 
 - **(3) and (4)** [Repealed, 2001, c. 25, s. 85]
-> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16, c. 16, ss. 35, 56; 2010, c. 4, s. 29; 2012, c. 18, s. 30.
+> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16, c. 16, ss. 35, 56; 2010, c. 4, s. 29; 2012, c. 18, s. 30; 2017, c. 6, s. 85.
 
 
 
@@ -6092,6 +6099,11 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Iceland Tariff, Norway Tariff or Switzerland– Liechtenstein Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
 </tr>
 <tr>
+<td>EU country or other CETA beneficiary</td>
+<td>CETA</td>
+<td>Canada–European Union Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
 <td>Honduras</td>
 <td>CHFTA</td>
 <td>Honduras Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
@@ -6260,6 +6272,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>CEFTA</td>
 </tr>
 <tr>
+<td>EU country or other CETA beneficiary</td>
+<td>CETA</td>
+</tr>
+<tr>
 <td>Honduras</td>
 <td>CHFTA</td>
 </tr>
@@ -6293,7 +6309,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 </tr>
 <tr>
 <th>Agreement</th>
-<th>Chapter or Provision</th>
+<th>Protocol, Chapter or Provision</th>
 </tr>
 <tr>
 <td>CCFTA</td>
@@ -6310,6 +6326,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <tr>
 <td>CEFTA</td>
 <td>Chapter II and Annex C</td>
+</tr>
+<tr>
+<td>CETA</td>
+<td>Protocol on Rules of Origin and Origin Procedures</td>
 </tr>
 <tr>
 <td>CHFTA</td>
@@ -6341,6 +6361,6 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 </tr>
 </table>
 
-> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 8, ss. 23 to 26.
+> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 6, ss. 86 to 89, c. 8, ss. 23 to 26.
 
 
