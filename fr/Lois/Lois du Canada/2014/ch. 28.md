@@ -215,88 +215,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-### Protection des indications géographiques
-
-
-
-**Définitions**
-
-**16** Les définitions qui suivent s’appliquent au présent article et aux articles 17 à 22.
-
-***ginseng*** S’entend des produits du ginseng visés aux positions n<sup>os</sup> 12.11 ou 13.02 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-
-***indication géographique protégée visant le ginseng*** S’entend des indications suivantes :
-- **a)** GoryeoHongsam;
-- **b)** GoryeoBaeksam;
-- **c)** GoryeoSusam;
-- **d)** ginseng rouge de Corée;
-- **e)** ginseng blanc de Corée;
-- **f)** ginseng frais de Corée;
-- **g)** Korean Red Ginseng;
-- **h)** Korean White Ginseng;
-- **i)** Korean Fresh Ginseng.
-
-***indication géographique protégée visant le riz*** S’entend des indications suivantes :
-- **a)** IcheonSsal;
-- **b)** riz Icheon;
-- **c)** Icheon Rice.
-
-***riz*** S’entend des produits du riz visés à la position n<sup>o</sup> 10.06 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**16** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
-
-**Interdiction d’usage : riz**
-
-**17** Nul ne peut employer à l’égard d’une entreprise, comme marque de commerce ou autrement :
-- **a)** une indication géographique protégée visant le riz relativement à du riz dont le lieu d’origine n’est pas la République de Corée;
-- **b)** la traduction ou la translittération, en quelque langue que ce soit, d’une indication géographique protégée visant le riz relativement à du riz dont le lieu d’origine n’est pas la République de Corée.
+**17** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
-
-**Interdiction d’usage : ginseng**
-
-**18** Nul ne peut employer à l’égard d’une entreprise, comme marque de commerce ou autrement :
-- **a)** une indication géographique protégée visant le ginseng relativement à du ginseng dont le lieu d’origine n’est pas la République de Corée;
-- **b)** la traduction ou la translittération, en quelque langue que ce soit, d’une indication géographique protégée visant le ginseng relativement à du ginseng dont le lieu d’origine n’est pas la République de Corée.
+**18** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
-
-**Droits acquis**
-
-**19** Les articles 17 et 18 n’ont pas pour effet d’empêcher l’emploi d’une marque de commerce en liaison avec du riz ou du ginseng par une personne qui, de bonne foi, avant la date d’entrée en vigueur du présent article :
-- **a)** soit a produit une demande conformément à l’article 30 de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md) en vue de l’enregistrement de cette marque de commerce en liaison avec du riz ou du ginseng, ou a obtenu cet enregistrement;
-- **b)** soit a acquis, par l’usage, le droit à cette marque de commerce en liaison avec du riz ou du ginseng.
+**19** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
-
-**Exception : non-usage**
-
-**20** Les articles 17 et 18 n’ont pas pour effet d’empêcher l’emploi à l’égard d’une entreprise, comme marque de commerce ou autrement, d’une indication géographique protégée visant le riz ou d’une indication géographique protégée visant le ginseng — ou la traduction ou la translittération, en quelque langue que ce soit, de l’une ou l’autre de ces indications géographiques protégées — qui n’est pas ou a cessé d’être protégée par le droit applicable à la République de Corée ou y est tombée en désuétude.
+**20** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
-
-**Défaut d’agir**
-
-**21** Les articles 17 et 18 ne s’appliquent pas à l’emploi par une personne d’une marque de commerce si aucune procédure n’est engagée pour faire respecter ces dispositions à l’égard de cet usage dans les cinq ans suivant la date à laquelle l’emploi de la marque par cette personne ou son prédécesseur en titre a été généralement connu au Canada ou la marque de commerce a été enregistrée par cette personne au Canada, sauf s’il est établi que cette personne ou son prédécesseur en titre a commencé à employer la marque tout en sachant que l’emploi était contraire à ces articles.
+**21** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
-
-**Pouvoir du tribunal d’émettre une injonction**
-
-**22** 
-
-- **(1)** Lorsqu’elle est convaincue, sur demande de toute personne intéressée, qu’un acte a été accompli contrairement aux articles 17 ou 18, la Cour fédérale ou la cour supérieure d’une province peut émettre une injonction.
-
-**Définition de personne intéressée**
-
-- **(2)** Au paragraphe (1), ***personne intéressée*** s’entend de quiconque est atteint ou a des motifs valables d’appréhender qu’il sera atteint par tout acte contraire aux articles 17 ou 18.
+**22** [Abrogé, 2017, ch. 6, art. 131]
 
 
 
