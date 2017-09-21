@@ -696,10 +696,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Employés parlementaires**
 
-**35.3** La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d’intérêts et à l’éthique ou au Service de protection parlementaire :
+**35.3** La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d’intérêts et à l’éthique, au Service de protection parlementaire ou au bureau du directeur parlementaire du budget :
 - **a)** peut participer à tout processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elle satisfasse aux autres critères fixés, le cas échéant, en vertu de cet article;
 - **b)** a le droit de présenter une plainte en vertu de l’article 77.
-> 2006, ch. 9, art. 101; 2015, ch. 36, art. 151.
+> 2006, ch. 9, art. 101; 2015, ch. 36, art. 151; 2017, ch. 20, art. 186.
 
 
 
