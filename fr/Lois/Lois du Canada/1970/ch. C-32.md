@@ -281,7 +281,7 @@ la compagnie est passible de liquidation et de dissolution en vertu de la Loi su
 - **(1)** Une compagnie peut, de façon accessoire ou connexe aux objets énoncés dans ses lettres patentes ou lettres patentes supplémentaires, exercer l’un quelconque ou la totalité des pouvoirs suivants, c’est-à-dire le pouvoir
 	- **a)** de faire toutes autres opérations qui peuvent lui sembler susceptibles d’être faites convenablement en rapport avec ses opérations ou de nature à accroître directement ou indirectement la valeur de ses biens ou de ses droits ou à les rendre profitables;
 	- **a.1)** d’acheter ou autrement acquérir et prendre à sa charge la totalité ou une partie de l’actif, des opérations, biens, privilèges, contrats, droits, obligations et passif de toute autre compagnie ou d’une société, firme ou personne faisant des opérations que la compagnie a l’autorisation de faire, ou possédant des biens appropriés aux fins de la compagnie;
-	- **b)** de demander, acheter ou autrement acquérir des brevets d’invention, droits de brevets, droits d’auteur, marques de fabrique ou de commerce, formules, permis, concessions et intérêts de même nature, conférant quelque droit d’utilisation, exclusif ou non exclusif, ou limité, ou des secrets ou autres renseignements au sujet d’une invention, qu’il semble possible d’utiliser pour quelqu’une des fins de la compagnie, ou dont l’acquisition peut paraître de nature à profiter directement ou indirectement à la compagnie, et d’utiliser, exercer, mettre en valeur ou faire valoir autrement les biens, droits ou renseignements ainsi acquis, ou d’accorder des permis à cet égard;
+	- **b)** de demander, acheter ou autrement acquérir des brevets d’invention, droits de brevets, certificats de protection supplémentaire délivrés en vertu de la [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md), droits conférés par de tels certificats, droits d’auteur, marques de fabrique ou de commerce, formules, permis, concessions et intérêts de même nature, conférant quelque droit d’utilisation, exclusif ou non exclusif, ou limité, ou des secrets ou autres renseignements au sujet d’une invention, qu’il semble possible d’utiliser pour quelqu’une des fins de la compagnie, ou dont l’acquisition peut paraître de nature à profiter directement ou indirectement à la compagnie, et d’utiliser, exercer, mettre en valeur ou faire valoir autrement les biens, droits ou renseignements ainsi acquis, ou d’accorder des permis à cet égard;
 	- **b.1)** de se fusionner ou s’associer ou conclure des conventions pour le partage des profits, la réunion des intérêts, la coopération, les risques communs, les concessions réciproques ou autres fins, avec toute autre compagnie ou une société, firme ou personne s’adonnant ou se livrant, ou sur le point de s’adonner ou se livrer à des affaires ou opérations auxquelles la compagnie est autorisée à s’adonner ou se livrer, ou à des affaires ou opérations susceptibles d’être conduites de façon à profiter directement ou indirectement à la compagnie; et de prêter des fonds à une semblable compagnie, société, firme ou personne, d’en garantir les contrats ou autrement l’aider, et de prendre ou autrement acquérir des actions et valeurs de toute pareille compagnie, et de les vendre ou détenir ou autrement en disposer;
 	- **c)** de prendre ou autrement acquérir et détenir des actions, débentures ou autres titres d’une autre compagnie dont les objets sont en totalité ou en partie semblables à ceux de la compagnie ou qui poursuit des affaires susceptibles d’être conduites de façon à profiter directement ou indirectement à la compagnie, et de les vendre ou autrement en disposer;
 	- **d)** de conclure, avec tout gouvernement ou toutes autorités, municipales, locales ou autres, des arrangements qui peuvent sembler propres aux objets de la compagnie, ou à l’un de ces objets, et d’obtenir, de ces gouvernement ou autorités, des droits, privilèges et concessions que la compagnie peut juger opportun d’obtenir, et d’exécuter, exercer et observer ces arrangements, droits, privilèges et concessions;
@@ -319,7 +319,7 @@ la compagnie est passible de liquidation et de dissolution en vertu de la Loi su
 **Déni ou limitation de pouvoirs**
 
 - **(4)** Tout pouvoir énoncé au paragraphe (1) peut être refusé ou limité par les lettres patentes ou lettres patentes supplémentaires de la compagnie.
-> S.R. 1952, ch. 53, art. 14; 1964-65, ch. 52, art. 12.
+> S.R. 1970, ch. C-32, art. 16; 2017, ch. 6, art. 118.
 
 
 
@@ -842,7 +842,7 @@ la compagnie a la faculté de réémettre les débentures, soit en réémettant 
 	- **b)** une hypothèque ou charge sur le montant non appelé du capital-actions de la compagnie,
 	- **c)** une charge flottante sur l’entreprise ou les biens de la compagnie,
 	- **d)** une hypothèque ou charge sur les versements appelés mais non effectués, ou
-	- **e)** une hypothèque ou charge sur l’achalandage, sur un brevet ou sur une licence en vertu d’un brevet, sur une marque de fabrique ou de commerce ou sur un droit d’auteur ou sur une licence en vertu d’un droit d’auteur,
+	- **e)** une hypothèque ou charge sur l’achalandage, sur un brevet ou sur une licence en vertu d’un brevet, sur un certificat de protection supplémentaire délivré en vertu de la [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md) ou sur une licence en vertu d’un tel certificat, sur une marque de fabrique ou de commerce ou sur un droit d’auteur ou sur une licence en vertu d’un droit d’auteur,
 la compagnie doit remettre au Ministre les détails prescrits de l’hypothèque ou de la charge, ainsi qu’une copie de la pièce, s’il en est, par laquelle l’hypothèque ou la charge est créée ou établie, certifiée par le secrétaire de la compagnie, ou, dans la province de Québec, une copie notariée de cette pièce, dans les trente jours de la date de sa création.
 
 **Exception**
@@ -889,7 +889,7 @@ ainsi qu’une copie de l’acte d’autorisation, s’il en est, certifiée par
 **Copie tenue au siège**
 
 - **(11)** Chaque compagnie doit voir à ce que soit tenu, à son siège, un exemplaire de toute pièce créant une hypothèque ou une charge dont les détails, aux termes du présent article, doivent être remis au Ministre.
-> S.R. 1952, ch. 53, art. 66.
+> S.R. 1970, ch. C-32, art. 68; 2017, ch. 6, art. 119.
 
 
 
@@ -1679,7 +1679,7 @@ et doit indiquer le profit net ou la perte nette pour l’exercice financier.
 		- **(iv)** un ou plusieurs des divers postes suivants, savoir :
 			- **(A)** l’achalandage,
 				- **(B)** les concessions,
-				- **(C)** les brevets,
+				- **(C)** les brevets ou les certificats de protection supplémentaire délivrés en vertu de la [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md),
 				- **(D)** les droits d’auteur,
 				- **(E)** les marques de commerce, et
 				- **(F)** les autres valeurs immatérielles,en indiquant la base d’évaluation et le montant, s’il en est, par lequel la valeur de tels actifs a été accrue depuis la date précédant de cinq ans celle de l’établissement du bilan;
@@ -1706,7 +1706,7 @@ et doit indiquer le profit net ou la perte nette pour l’exercice financier.
 **Renseignements explicatifs**
 
 - **(2)** Des renseignements ou des détails explicatifs sur tout poste mentionné au paragraphe (1) peuvent être fournis sous forme d’une note ajoutée à l’état financier.
-> S.R. 1970, ch. C-32, art. 121; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 15.
+> S.R. 1970, ch. C-32, art. 121; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 15; 2017, ch. 6, art. 120.
 
 
 
