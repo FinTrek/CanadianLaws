@@ -30,10 +30,10 @@
 **Generally**
 
 **2** Subject to this Act, this Act applies to and in respect of every person employed by, and applies to and in respect of,
-- **(a)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service, and
+- **(a)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, and
 - **(b)** a Member of Parliament who, in that capacity, employs that person or has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in Parliament,
 and, except as provided in this Act, nothing in any other Act of Parliament that provides for matters similar to those provided for under this Act and nothing done thereunder, whether before or after the coming into force of this section, shall apply to or in respect of or have any force or effect in relation to the institutions and persons described in this section.
-> R.S., 1985, c. 33 (2nd Supp.), s. 2; 2004, c. 7, s. 32; 2006, c. 9, s. 30; 2015, c. 36, s. 140
+> R.S., 1985, c. 33 (2nd Supp.), s. 2; 2004, c. 7, s. 32; 2006, c. 9, s. 30; 2015, c. 36, s. 140; 2017, c. 20, s. 175
 
 
 
@@ -92,8 +92,9 @@ and for the purposes of this definition a person does not cease to be employed b
 - **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part,
 - **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament,
 - **(d)** the office of the Senate Ethics Officer as represented by the Ethics Officer,
-- **(e)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner, or
-- **(f)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament; (*employeur*)
+- **(e)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner,
+- **(f)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament, or
+- **(g)** the office of the Parliamentary Budget Officer as represented by the Parliamentary Budget Officer; (*employeur*)
 
 ***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that
 - **(a)** for the purposes of any of the provisions of this Part respecting grievances, a reference to an “employee” includes a person who would be an employee but for the fact that the person is a person employed in a managerial or confidential capacity, and
@@ -122,7 +123,7 @@ and for the purposes of this definition a person does not cease to be employed b
 ***Vice-Chairman***[Repealed, 2003, c. 22, s. 182]
 
 ***Vice-Chairperson*** means a Vice-Chairperson of the Board. (*vice-président*)
-> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31; 2013, c. 40, s. 425; 2015, c. 36, s. 141; 2017, c. 9, s. 45
+> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31; 2013, c. 40, s. 425; 2015, c. 36, s. 141; 2017, c. 9, s. 45, c. 20, s. 176
 
 
 
@@ -1541,9 +1542,10 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 - **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament;
 - **(c.1)** the office of the Senate Ethics Officer as represented by the Ethics Officer;
 - **(c.2)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner;
-- **(c.3)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament; or
+- **(c.3)** the Parliamentary Protective Service as represented by the Director of the Parliamentary Protective Service on behalf of the Speakers of the two Houses of Parliament;
+- **(c.4)** the office of the Parliamentary Budget Officer as represented by the Parliamentary Budget Officer; or
 - **(d)** a Member of Parliament who, in that capacity, employs any person or has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in Parliament.
-> R.S., 1985, c. 33 (2nd Supp.), s. 85; 2004, c. 7, s. 34; 2006, c. 9, s. 32; 2015, c. 36, s. 142
+> R.S., 1985, c. 33 (2nd Supp.), s. 85; 2004, c. 7, s. 34; 2006, c. 9, s. 32; 2015, c. 36, s. 142; 2017, c. 20, s. 177
 
 
 
