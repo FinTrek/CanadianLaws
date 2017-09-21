@@ -215,88 +215,31 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-### Protection of Geographical Indications
-
-
-
-**Definitions**
-
-**16** The following definitions apply in this section and in sections 17 to 22.
-
-***ginseng*** means ginseng products classified under heading No. 12.11 or 13.02 of the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
-
-***protected geographical indication identifying ginseng*** means all of the following indications:
-- **(a)** GoryeoHongsam;
-- **(b)** GoryeoBaeksam;
-- **(c)** GoryeoSusam;
-- **(d)** ginseng rouge de Corée;
-- **(e)** ginseng blanc de Corée;
-- **(f)** ginseng frais de Corée;
-- **(g)** Korean Red Ginseng;
-- **(h)** Korean White Ginseng;
-- **(i)** Korean Fresh Ginseng.
-
-***protected geographical indication identifying rice*** means all of the following indications:
-- **(a)** IcheonSsal;
-- **(b)** riz Icheon;
-- **(c)** Icheon Rice.
-
-***rice*** means rice products classified under heading No. 10.06 of the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**16** [Repealed, 2017, c. 6, s. 131]
 
 
 
-
-**Prohibited use — rice**
-
-**17** A person must not use in connection with a business, as a trade-mark or otherwise,
-- **(a)** a protected geographical indication identifying rice in respect of rice not originating in the Republic of Korea; or
-- **(b)** a translation or transliteration in any language of a protected geographical indication identifying rice in respect of rice not originating in the Republic of Korea.
+**17** [Repealed, 2017, c. 6, s. 131]
 
 
 
-
-**Prohibited use — ginseng**
-
-**18** A person must not use in connection with a business, as a trade-mark or otherwise,
-- **(a)** a protected geographical indication identifying ginseng in respect of ginseng not originating in the Republic of Korea; or
-- **(b)** a translation or transliteration in any language of a protected geographical indication identifying ginseng in respect of ginseng not originating in the Republic of Korea.
+**18** [Repealed, 2017, c. 6, s. 131]
 
 
 
-
-**Acquired rights**
-
-**19** Nothing in section 17 or 18 prevents the use of a trade-mark in association with rice or ginseng by a person who has in good faith, before the day on which this section comes into force,
-- **(a)** filed an application in accordance with section 30 of the Trade-marks Act for the registration of, or secured the registration of, that trade-mark in association with rice or ginseng; or
-- **(b)** acquired rights to that trade-mark in association with rice or ginseng through use.
+**19** [Repealed, 2017, c. 6, s. 131]
 
 
 
-
-**Exception — disuse**
-
-**20** Nothing in section 17 or 18 prevents the use, as a trade-mark or otherwise, in connection with a business, of a protected geographical indication identifying rice or a protected geographical indication identifying ginseng — or a translation or transliteration in any language of either of those protected geographical indications — if the protected geographical indication is not or has ceased to be protected by the laws applicable to the Republic of Korea, or has fallen into disuse there.
+**20** [Repealed, 2017, c. 6, s. 131]
 
 
 
-
-**Exception — failure to take proceedings**
-
-**21** Sections 17 and 18 do not apply to the use of a trade-mark by a person if no proceedings are taken to enforce those sections in respect of that person’s use of the trade-mark within five years after use of the trade-mark by that person or that person’s predecessor-in-title has become generally known in Canada or the trade-mark has been registered by that person in Canada, unless it is established that that person or that person’s predecessor-in-title first used the trade-mark with knowledge that the use was contrary to section 17 or 18, as the case may be.
+**21** [Repealed, 2017, c. 6, s. 131]
 
 
 
-
-**Power of court to issue injunction**
-
-**22** 
-
-- **(1)** On application of any interested person, the Federal Court or the superior court of a province may issue an injunction if it is satisfied that any act has been done contrary to section 17 or 18.
-
-**Meaning of interested person**
-
-- **(2)** For the purposes of subsection (1), ***interested person*** means any person who is affected or reasonably apprehends that he or she may be affected by any act that is contrary to section 17 or 18.
+**22** [Repealed, 2017, c. 6, s. 131]
 
 
 
