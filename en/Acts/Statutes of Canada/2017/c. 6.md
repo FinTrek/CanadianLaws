@@ -826,11 +826,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-**138** 
+<sup><a href='#fn_IndC151_hq_20213'>[*]</a></sup>**138** 
 
-- <sup><a href='#fn_IndC151_hq_20213'>[*]</a></sup>**(1)** Subject to subsections (2) to (5), the provisions of this Act, other than sections 133 to 137, come into force on a day to be fixed by order of the Governor in Council.
-
-<a name='fn_IndC151_hq_20213'><sup>*</sup></a>: [Note: The provisions of this Act, other than sections 133 to 137, not in force.]<br />
+- **(1)** Subject to subsections (2) to (5), the provisions of this Act, other than sections 133 to 137, come into force on a day to be fixed by order of the Governor in Council.
 
 **Order in council**
 
@@ -847,6 +845,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Order in council**
 
 - **(5)** Sections 45 to 58 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day referred to in subsection (1).
+
+<a name='fn_IndC151_hq_20213'><sup>*</sup></a>: [Note: Act, other than subsection 8(3), paragraph 11(1)(a), subsection 11(2), paragraph 13(a) and sections 45 to 58, 90 and 133 to 137, in force September 21, 2017, *see* SI/2017-47.]<br />
 
 
 
