@@ -1067,7 +1067,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndBFB4_hq_20483'>[*]</a></sup>**191** Les articles 126 à 129 et 131 à 190 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_IndBFB4_hq_20483'><sup>*</sup></a>: [Note : Articles 126 à 129 et 131 à 190 non en vigueur]<br />
+<a name='fn_IndBFB4_hq_20483'><sup>*</sup></a>: [Note : Articles 126 à 129 et 131 à 190 en vigueur le 21 septembre 2017, *voir* TR/2017-53.]<br />
 
 
 
