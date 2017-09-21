@@ -42,32 +42,32 @@ Sanctionnée sur le 12 décembre 2006
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***cadeau ou autre avantage*** S’entend :
+***cadeau ou autre avantage*** S’entend :
 - **a)** de toute somme, si son remboursement n’est pas obligatoire;
-- **b)** de tout service ou de tout bien ou de l’usage d’un bien ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale.
+- **b)** de tout service ou de tout bien ou de l’usage d’un bien ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale. (*gift or other advantage*)
 
-***commissaire*** Le commissaire aux conflits d’intérêts et à l’éthique nommé en vertu de l’article 81 de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
+***commissaire*** Le commissaire aux conflits d’intérêts et à l’éthique nommé en vertu de l’article 81 de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md). (*Commissioner*)
 
-***conjoint de fait*** La personne qui vit avec un titulaire de charge publique dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec un titulaire de charge publique dans une relation conjugale depuis au moins un an. (*common law partner*)
 
-***conseiller ministériel*** Personne, autre qu’un fonctionnaire, qui occupe un poste au cabinet d’un ministre ou d’un ministre d’État et qui fournit des conseils en matière de politiques, de programmes et de finances à un ministre ou ministre d’État sur des questions relevant des attributions de celui-ci en cette qualité et ce, même s’il le fait à temps partiel ou sans rétribution.
+***conseiller ministériel*** Personne, autre qu’un fonctionnaire, qui occupe un poste au cabinet d’un ministre ou d’un ministre d’État et qui fournit des conseils en matière de politiques, de programmes et de finances à un ministre ou ministre d’État sur des questions relevant des attributions de celui-ci en cette qualité et ce, même s’il le fait à temps partiel ou sans rétribution. (*ministerial adviser*)
 
-***enfant à charge*** Enfant d’un titulaire de charge publique ou de l’époux ou conjoint de fait de celui-ci, qui n’a pas atteint l’âge de dix-huit ans ou qui, l’ayant atteint, dépend principalement, sur le plan financier, du titulaire ou de son époux ou conjoint de fait.
+***enfant à charge*** Enfant d’un titulaire de charge publique ou de l’époux ou conjoint de fait de celui-ci, qui n’a pas atteint l’âge de dix-huit ans ou qui, l’ayant atteint, dépend principalement, sur le plan financier, du titulaire ou de son époux ou conjoint de fait. (*dependent child*)
 
-***entité du secteur public*** Ministère ou organisme fédéral, société d’État constituée sous le régime d’une loi fédérale ou toute autre entité au sein de laquelle le gouverneur en conseil peut nommer une personne, à l’exception du Sénat et de la Chambre des communes.
+***entité du secteur public*** Ministère ou organisme fédéral, société d’État constituée sous le régime d’une loi fédérale ou toute autre entité au sein de laquelle le gouverneur en conseil peut nommer une personne, à l’exception du Sénat et de la Chambre des communes. (*public sector entity*)
 
-***époux*** N’est pas considérée comme un époux la personne dont un titulaire de charge publique est séparé si le partage des obligations alimentaires, du patrimoine familial et des biens familiaux a fait l’objet d’un accord de séparation ou d’une ordonnance judiciaire.
+***époux*** N’est pas considérée comme un époux la personne dont un titulaire de charge publique est séparé si le partage des obligations alimentaires, du patrimoine familial et des biens familiaux a fait l’objet d’un accord de séparation ou d’une ordonnance judiciaire. (*spouse*)
 
-***ex-titulaire de charge publique principal*** Ex-titulaire de charge publique qui, pendant son mandat, était titulaire de charge publique principal.
+***ex-titulaire de charge publique principal*** Ex-titulaire de charge publique qui, pendant son mandat, était titulaire de charge publique principal. (*former reporting public office holder*)
 
-***fonctionnaire*** S’entend au sens du paragraphe 2(1) de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md). La présente définition s’applique toutefois aux officiers et aux militaires du rang des Forces canadiennes ainsi qu’aux employés du Service canadien du renseignement de sécurité et du Centre de la sécurité des télécommunications.
+***fonctionnaire*** S’entend au sens du paragraphe 2(1) de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md). La présente définition s’applique toutefois aux officiers et aux militaires du rang des Forces canadiennes ainsi qu’aux employés du Service canadien du renseignement de sécurité et du Centre de la sécurité des télécommunications. (*public servant*)
 
-***intérêt personnel*** N’est pas visé l’intérêt dans une décision ou une affaire :
+***intérêt personnel*** N’est pas visé l’intérêt dans une décision ou une affaire :
 - **a)** de portée générale;
 - **b)** touchant le titulaire de charge publique faisant partie d’une vaste catégorie de personnes;
-- **c)** touchant la rémunération ou les avantages sociaux d’un titulaire de charge publique.
+- **c)** touchant la rémunération ou les avantages sociaux d’un titulaire de charge publique. (*private interest*)
 
-***personnel ministériel*** Personnes, autres que les fonctionnaires, qui travaillent au sein du cabinet d’un ministre ou d’un ministre d’État.
+***personnel ministériel*** Personnes, autres que les fonctionnaires, qui travaillent au sein du cabinet d’un ministre ou d’un ministre d’État. (*ministerial staff*)
 
 ***titulaire de charge publique***
 - **a)** Ministre, ministre d’État ou secrétaire parlementaire;
@@ -81,19 +81,21 @@ Sanctionnée sur le 12 décembre 2006
 	- **(iv)** des juges qui touchent un traitement sous le régime de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md),
 	- **(v)** des juges militaires au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md),
 	- **(vi)** des sous-commissaires de la Gendarmerie royale du Canada;
+- **d.01)** directeur parlementaire du budget;
 - **d.1)** titulaire d’une nomination ministérielle lorsque celle-ci est approuvée par le gouverneur en conseil;
-- **e)** toute personne désignée en vertu des paragraphes 62.1(1) ou 62.2(1).
+- **e)** toute personne désignée en vertu des paragraphes 62.1(1) ou 62.2(1). (*public office holder*)
 
-***titulaire de charge publique principal*** Titulaire de charge publique qui :
+***titulaire de charge publique principal*** Titulaire de charge publique qui :
 - **a)** est un ministre, ministre d’État ou secrétaire parlementaire;
 - **a.1)** est le directeur général des élections;
 - **b)** est un membre du personnel ministériel qui travaille en moyenne quinze heures ou plus par semaine;
 - **c)** est un conseiller ministériel;
 - **d)** est nommé par le gouverneur en conseil ou par le ministre sur approbation de celui-ci et exerce ses fonctions officielles à temps partiel, reçoit une rémunération annuelle et bénéficie d’avantages;
 - **e)** est nommé par le gouverneur en conseil ou par le ministre sur approbation de celui-ci et exerce ses fonctions officielles à temps plein;
-- **f)** est désigné en vertu des paragraphes 62.1(2) ou 62.2(2).
+- **e.1)** est le directeur parlementaire du budget;
+- **f)** est désigné en vertu des paragraphes 62.1(2) ou 62.2(2). (*reporting public office holder*)
 
-***union de fait*** Relation qui existe entre deux conjoints de fait.
+***union de fait*** Relation qui existe entre deux conjoints de fait. (*common-law partnership*)
 
 **Membres de la famille**
 
@@ -104,7 +106,7 @@ Sanctionnée sur le 12 décembre 2006
 **Parent**
 
 - **(3)** Toute personne apparentée à un titulaire de charge publique par les liens du mariage, d’une union de fait, de la filiation ou de l’adoption ou encore liée à lui par affinité est un parent de celui-ci pour l’application de la présente loi, à moins que le commissaire n’en vienne à la conclusion que, de façon générale ou à l’égard d’un titulaire de charge publique en particulier, il n’est pas nécessaire pour l’application de la présente loi de considérer telle personne ou catégorie de personnes comme un parent du titulaire.
-> 2006, ch. 9, art. 2 « 2 »; 2013, ch. 18, art. 66, ch. 33, art. 192, ch. 40, art. 288; 2014, ch. 12, art. 145.
+> 2006, ch. 9, art. 2 « 2 »; 2013, ch. 18, art. 66, ch. 33, art. 192, ch. 40, art. 288; 2014, ch. 12, art. 145; 2017, ch. 20, art. 187.
 
 
 
@@ -431,7 +433,10 @@ Sanctionnée sur le 12 décembre 2006
 	- **a)** le premier ministre, dans le cas d’un ministre ou d’un ministre d’État;
 	- **b)** le ministre auprès de qui il a été affecté, dans le cas d’un secrétaire parlementaire;
 	- **c)** le greffier du Conseil privé, dans le cas d’un administrateur général;
+	- **c.1)** les présidents du Sénat et de la Chambre des communes, dans le cas du directeur parlementaire du budget;
 	- **d)** le ministre en cause, dans le cas de tout autre titulaire de charge publique principal.
+> 2006, ch. 9, art. 2 « 24 »; 2017, ch. 20, art. 188.
+
 
 
 
