@@ -79,20 +79,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** In this Act,
 
-***Commissioner*** means the Commissioner of Official Languages for Canada appointed under section 49;
+***Commissioner*** means the Commissioner of Official Languages for Canada appointed under section 49; (*commissaire*)
 
-***Crown corporation*** means
+***Crown corporation*** means
 - **(a)** a corporation that is ultimately accountable, through a Minister, to Parliament for the conduct of its affairs, and
-- **(b)** a parent Crown corporation or a wholly-owned subsidiary, within the meaning of section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+- **(b)** a parent Crown corporation or a wholly-owned subsidiary, within the meaning of section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*sociétés d’État*)
 
-***department*** means a department as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+***department*** means a department as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*ministère*)
 
-***federal institution*** includes any of the following institutions of the Parliament or government of Canada:
+***federal institution*** includes any of the following institutions of the Parliament or government of Canada:
 - **(a)** the Senate,
 - **(b)** the House of Commons,
 - **(c)** the Library of Parliament,
 - **(c.1)** the office of the Senate Ethics Officer and the office of the Conflict of Interest and Ethics Commissioner,
 - **(c.2)** the Parliamentary Protective Service,
+- **(c.3)** the office of the Parliamentary Budget Officer,
 - **(d)** any federal court,
 - **(e)** any board, commission or council, or other body or office, established to perform a governmental function by or pursuant to an Act of Parliament or by or under the authority of the Governor in Council,
 - **(f)** a department of the Government of Canada,
@@ -101,14 +102,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 but does not include
 - **(i)** any institution of the Legislative Assembly or government of Yukon, the Northwest Territories or Nunavut, or
-- **(j)** any Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people;
+- **(j)** any Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people; (*institutions fédérales*)
 
-***National Capital Region*** means the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+***National Capital Region*** means the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md). (*région de la capitale nationale*)
 
 **Definition of federal court**
 
 - **(2)** In this section and in Parts II and III, ***federal court*** means any court, tribunal or other body that carries out adjudicative functions and is established by or pursuant to an Act of Parliament.
-> R.S., 1985, c. 31 (4th Supp.), s. 3; 1993, c. 28, s. 78; 2002, c. 7, s. 224; 2004, c. 7, s. 26; 2006, c. 9, s. 20; 2014, c. 2, s. 39; 2015, c. 36, s. 144.
+> R.S., 1985, c. 31 (4th Supp.), s. 3; 1993, c. 28, s. 78; 2002, c. 7, s. 224; 2004, c. 7, s. 26; 2006, c. 9, s. 20; 2014, c. 2, s. 39; 2015, c. 36, s. 144; 2017, c. 20, s. 179.
 
 
 
@@ -518,8 +519,8 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 
 **Regulations**
 
-**33** The Governor in Council may make any regulations that the Governor in Council considers necessary to foster actively communications with and services from offices or facilities of federal institutions — other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service — in both official languages, if those communications and services are required under this Part to be provided in both official languages.
-> R.S., 1985, c. 31 (4th Supp.), s. 33; 2004, c. 7, s. 27; 2006, c. 9, s. 21; 2015, c. 36, s. 145.
+**33** The Governor in Council may make any regulations that the Governor in Council considers necessary to foster actively communications with and services from offices or facilities of federal institutions — other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer — in both official languages, if those communications and services are required under this Part to be provided in both official languages.
+> R.S., 1985, c. 31 (4th Supp.), s. 33; 2004, c. 7, s. 27; 2006, c. 9, s. 21; 2015, c. 36, s. 145; 2017, c. 20, s. 180.
 
 
 
@@ -583,7 +584,7 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 
 **38** 
 
-- **(1)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service,
+- **(1)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer,
 	- **(a)** prescribing, in respect of any part or region of Canada or any place outside Canada,
 		- **(i)** any services or work instruments that are to be made available by those institutions in both official languages to officers or employees of those institutions,
 		- **(ii)** any automated systems for the processing and communication of data that must be available for use in both official languages, and
@@ -600,8 +601,8 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 		- **(i)** the number and proportion of English-speaking and French-speaking officers and employees who constitute the work force of federal institutions based in the parts, regions or places prescribed,
 		- **(ii)** the number and proportion of English-speaking and French-speaking persons resident in the parts or regions prescribed, and
 		- **(iii)** any other factors that the Governor in Council considers appropriate; and
-	- **(b)** substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
-> R.S., 1985, c. 31 (4th Supp.), s. 38; 2004, c. 7, s. 28; 2006, c. 9, s. 22; 2015, c. 36, s. 146.
+	- **(b)** substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
+> R.S., 1985, c. 31 (4th Supp.), s. 38; 2004, c. 7, s. 28; 2006, c. 9, s. 22; 2015, c. 36, s. 146; 2017, c. 20, s. 181.
 
 
 
@@ -657,8 +658,8 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 
 **Regulations**
 
-- **(3)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service, prescribing the manner in which any duties of those institutions under this Part are to be carried out.
-> R.S., 1985, c. 31 (4th Supp.), s. 41; 2005, c. 41, s. 1; 2006, c. 9, s. 23; 2015, c. 36, s. 147.
+- **(3)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, prescribing the manner in which any duties of those institutions under this Part are to be carried out.
+> R.S., 1985, c. 31 (4th Supp.), s. 41; 2005, c. 41, s. 1; 2006, c. 9, s. 23; 2015, c. 36, s. 147; 2017, c. 20, s. 182.
 
 
 
@@ -721,7 +722,7 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 
 **46** 
 
-- **(1)** The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner and Parliamentary Protective Service.
+- **(1)** The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer.
 
 **Powers of Treasury Board**
 
@@ -733,7 +734,7 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 	- **(e)** evaluate the effectiveness and efficiency of policies and programs of federal institutions relating to the official languages of Canada;
 	- **(f)** provide information to the public and to officers and employees of federal institutions relating to the policies and programs that give effect to Parts IV, V and VI; and
 	- **(g)** delegate any of its powers under this section to the deputy heads or other administrative heads of other federal institutions.
-> R.S., 1985, c. 31 (4th Supp.), s. 46; 2004, c. 7, s. 29; 2006, c. 9, s. 24; 2015, c. 36, s. 148.
+> R.S., 1985, c. 31 (4th Supp.), s. 46; 2004, c. 7, s. 29; 2006, c. 9, s. 24; 2015, c. 36, s. 148; 2017, c. 20, s. 183.
 
 
 
@@ -1351,9 +1352,9 @@ or within such further time as the Court may, either before or after the expirat
 **Regulations**
 
 **93** The Governor in Council may make regulations
-- **(a)** prescribing anything that the Governor in Council considers necessary to effect compliance with this Act in the conduct of the affairs of federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service; and
+- **(a)** prescribing anything that the Governor in Council considers necessary to effect compliance with this Act in the conduct of the affairs of federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer; and
 - **(b)** prescribing anything that is by this Act to be prescribed by regulation of the Governor in Council.
-> R.S., 1985, c. 31 (4th Supp.), s. 93; 2004, c. 7, s. 30; 2006, c. 9, s. 25; 2015, c. 36, s. 149.
+> R.S., 1985, c. 31 (4th Supp.), s. 93; 2004, c. 7, s. 30; 2006, c. 9, s. 25; 2015, c. 36, s. 149; 2017, c. 20, s. 184.
 
 
 
