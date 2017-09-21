@@ -37,6 +37,8 @@
 
 ***Accord de libre-échange Canada — États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
+***AÉCG*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord économique et commercial global entre le Canada et l’Union européenne](/fr/Lois/Lois%20du%20Canada/2017/ch.%206.md). (*CETA*)
+
 ***Agence*** L’Agence des services frontaliers du Canada. (*Agency*)
 
 ***agent*** ou ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada. (*officer*)
@@ -81,7 +83,7 @@
 
 ***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*tariff classification*)
 
-***code de transporteur*** Identificateur unique délivré par le ministre soit en application du paragraphe 12.1(4), soit avant l’entrée en vigueur de ce paragraphe.  (*carrier code*)
+***code de transporteur*** Identificateur unique délivré par le ministre soit en application du paragraphe 12.1(4), soit avant l’entrée en vigueur de ce paragraphe. (*carrier code*)
 
 ***Colombie*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Colombia*)
 
@@ -166,6 +168,8 @@
 ***partenaire de libre-échange*** Tout pays ou territoire mentionné à la colonne 1 de la partie 1 de l’annexe. (*free trade partner*)
 
 ***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*NAFTA country*)
+
+***pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*EU country or other CETA beneficiary*)
 
 ***Pérou*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Peru*)
 
@@ -273,7 +277,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 8, art. 20.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20.
 
 
 
@@ -1783,7 +1787,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 - **(1.1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires :
 	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCA en demandant par écrit à l’administration douanière de l’État d’exportation de l’AELÉ qu’elle effectue une vérification et fournisse un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA;
-	- **b)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCU en demandant par écrit à l’administration douanière de l’Ukraine qu’elle effectue une vérification et fournisse un rapport écrit indiquant si les marchandises sont originaires au sens du chapitre 3 de l’ALÉCU.
+	- **b)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCU en demandant par écrit à l’administration douanière de l’Ukraine qu’elle effectue une vérification et fournisse un rapport écrit indiquant si les marchandises sont originaires au sens du chapitre 3 de l’ALÉCU;
+	- **c)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’AÉCG en demandant par écrit à l’administration douanière de l’État d’exportation — pays de l’Union européenne ou autre bénéficiaire de l’AÉCG — qu’elle effectue une vérification et fournisse un rapport écrit indiquant si les marchandises sont originaires au sens du Protocole sur les règles d’origine et les procédures d’origine de l’AÉCG.
 
 **Retrait du traitement tarifaire préférentiel**
 
@@ -1794,9 +1799,10 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **(3)** Le traitement tarifaire préférentiel d’un accord de libre-échange mentionné au paragraphe (1.1) peut être refusé ou retiré à des marchandises dans les cas suivants :
 	- **a)** s’agissant de l’ALÉCA, l’État d’exportation de l’AELÉ omet d’effectuer une vérification ou de fournir un avis indiquant si les marchandises sont originaires;
 	- **a.1)** s’agissant de l’ALÉCU, l’Ukraine omet d’effectuer une vérification ou de fournir un rapport écrit indiquant si les marchandises sont originaires;
+	- **a.2)** s’agissant de l’AÉCG, l’État d’exportation — pays de l’Union européenne ou autre bénéficiaire de l’AÉCG — omet d’effectuer une vérification ou de fournir un rapport écrit indiquant si les marchandises sont originaires;
 	- **b)** l’agent ou l’autre personne visé au paragraphe (1.1) n’est pas en mesure d’établir si les marchandises sont originaires;
 	- **c)** tout autre cas prévu par règlement.
-> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 8, art. 21.
+> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 6, art. 83, ch. 8, art. 21 et 43.
 
 
 
@@ -3077,13 +3083,14 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 
 
-**Vérification de l’origine : certains accords**
+**Vérification de l’origine : certains accords**
 
 **97.201** 
 
-- **(1)** L’administration douanière de tout État visé au paragraphe 42.1(1.1) vers lequel des marchandises sont exportées peut demander par écrit à l’Agence qu’elle effectue une vérification et fournisse, selon le cas :
+- **(1)** L’administration douanière de tout État ou bénéficiaire visé au paragraphe 42.1(1.1) vers lequel des marchandises sont exportées peut demander par écrit à l’Agence qu’elle effectue une vérification et fournisse, selon le cas :
 	- **a)** un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA;
-	- **b)** un rapport écrit indiquant si les marchandises sont originaires au sens du chapitre 3 de l’ALÉCU.
+	- **b)** un rapport écrit indiquant si les marchandises sont originaires au sens du chapitre 3 de l’ALÉCU;
+	- **c)** un rapport écrit indiquant si les marchandises sont originaires au sens du Protocole sur les règles d’origine et les procédures d’origine de l’AÉCG.
 
 **Méthodes de vérification**
 
@@ -3091,10 +3098,10 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 	- **a)** soit en pénétrant, à toute heure raisonnable, dans un lieu faisant partie d’une catégorie réglementaire;
 	- **b)** soit de toute autre manière prévue par règlement.
 
-**Déclaration de l’origine : certains accords**
+**Déclaration de l’origine : certains accords**
 
 - **(3)** Dès l’achèvement de la vérification de l’origine demandée en vertu du paragraphe (1), l’agent ou l’autre personne visé au paragraphe (2) :
-	- **a)** fournit à l’administration douanière de l’État, de la façon prévue par règlement, l’avis ou le rapport écrit demandé ainsi que tout document à l’appui de celui-ci que peut exiger cette administration douanière;
+	- **a)** fournit à l’administration douanière de l’État ou du bénéficiaire, de la façon prévue par règlement, l’avis ou le rapport écrit demandé ainsi que tout document à l’appui de celui-ci que peut exiger cette administration douanière;
 	- **b)** décide si les marchandises sont originaires au sens de la disposition applicable mentionnée au paragraphe (1).
 
 **Avis de la décision**
@@ -3104,7 +3111,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Décision assimilée à la révision**
 
 - **(5)** Pour l’application de la présente loi, la décision prise en application de l’alinéa (3)b) est assimilée à la révision prévue à l’alinéa 59(1)a).
-> 2009, ch. 6, art. 28; 2017, ch. 8, art. 22.
+> 2009, ch. 6, art. 28; 2017, ch. 6, art. 84, ch. 8, art. 22 et 43.
 
 
 
@@ -5872,7 +5879,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **b)** [Abrogé, 2009, ch. 10, art. 16]
 	- **c)** exiger le paiement des frais engagés par le ministre pour l’inspection de documents conservés dans un lieu situé à l’étranger et régir le mode de détermination de ces frais et les modalités et le délai de paiement de ceux-ci.
 	- **d)** autoriser la collecte de renseignements ou d’éléments de preuve permettant de déterminer si des droits sont exigibles ou susceptibles de le devenir sur des marchandises importées et d’établir le montant de ces droits;
-	- **e)** fixer les conditions à remplir, notamment en matière de cautions ou autres garanties, par les non-résidents pour pouvoir importer des marchandises, définir ***non-résident*** pour l’application du présent alinéa et exempter toutes personnes ou marchandises, ou leurs catégories, de ces conditions;
+	- **e)** fixer les conditions à remplir, notamment en matière de cautions ou autres garanties, par les non-résidents pour pouvoir importer des marchandises, définir non-résident pour l’application du présent alinéa et exempter toutes personnes ou marchandises, ou leurs catégories, de ces conditions;
 	- **f)** fixer les méthodes à suivre pour déterminer le classement tarifaire du sucre, de la mélasse et du sirop de sucre, et préciser les normes, instruments et appareils à employer à cette fin;
 	- **g)** fixer le mode de vérification de la teneur alcoolique des vins, spiritueux et autres boissons alcoolisées en vue d’en déterminer le classement tarifaire;
 	- **h)** préciser, dans des cas ou catégories de cas donnés, le mode de réglementation du cabotage et, aux conditions qu’il estime indiquées, exempter les caboteurs de dispositions de la présente loi qu’il juge inopportun de leur appliquer;
@@ -5883,7 +5890,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Règlements**
 
-- **(1.1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements en vue de l’interprétation, de l’application et de l’exécution uniformes des chapitres ou dispositions — mentionnés à la colonne 2 de la partie 5 de l’annexe — de tout accord mentionné à la colonne 1 ou pour toute autre question sur laquelle peuvent s’entendre les pays parties à l’accord.
+- **(1.1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements en vue de l’interprétation, de l’application et de l’exécution uniformes des parties — protocoles, chapitres ou dispositions —, mentionnées à la colonne 2 de la partie 5 de l’annexe, de tout accord mentionné à la colonne 1, ou pour toute autre question sur laquelle peuvent s’entendre les pays parties à l’accord.
 
 - **(1.2) à (1.5)** [Abrogés, 2012, ch. 18, art. 30]
 
@@ -5892,7 +5899,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(2)** Le gouverneur en conseil peut, par règlement et sur recommandation du ministre des Finances, fixer un taux d’intérêt ou établir des règles de fixation d’un taux d’intérêt pour l’application d’une disposition de la présente loi.
 
 - **(3) et (4)** [Abrogés, 2001, ch. 25, art. 85]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16, ch. 16, art. 35 et 56; 2010, ch. 4, art. 29; 2012, ch. 18, art. 30.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16, ch. 16, art. 35 et 56; 2010, ch. 4, art. 29; 2012, ch. 18, art. 30; 2017, ch. 6, art. 85.
 
 
 
@@ -6102,6 +6109,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Taux de droits de douane du tarif des État-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
 </tr>
 <tr>
+<td>pays de l’Union européenne ou autre bénéficiaire de l’AÉCG</td>
+<td>AÉCG</td>
+<td>Taux de droits de douane du tarif Canada–Union européenne visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
+</tr>
+<tr>
 <td>Pérou</td>
 <td>ALÉCP</td>
 <td>Taux de droits de douane du tarif du Pérou visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
@@ -6256,6 +6268,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>ALÉCPA</td>
 </tr>
 <tr>
+<td>pays de l’Union européenne ou autre bénéficiaire de l’AÉCG</td>
+<td>AÉCG</td>
+</tr>
+<tr>
 <td>Pérou</td>
 <td>ALÉCP</td>
 </tr>
@@ -6273,7 +6289,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 </tr>
 <tr>
 <th>Accord</th>
-<th>Chapitre ou disposition</th>
+<th>Protocole, chapitre ou disposition</th>
+</tr>
+<tr>
+<td>AÉCG</td>
+<td>Protocole sur les règles d’origine et les procédures d’origine</td>
 </tr>
 <tr>
 <td>ALÉCA</td>
@@ -6321,6 +6341,6 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 </tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 8, art. 23 à 26.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 6, art. 86 à 89, ch. 8, art. 23 à 26.
 
 
