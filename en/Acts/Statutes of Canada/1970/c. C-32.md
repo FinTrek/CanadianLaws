@@ -283,7 +283,7 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 - **(1)** A company may, as ancillary and incidental to the objects set out in its letters patent or supplementary letters patent, exercise any or all of the following powers, namely the power:
 	- **(a)** to carry on any other business that may seem to the company capable of being conveniently carried on in connection with its business or calculated directly or indirectly to enhance the value of or render profitable any of the company’s property or rights;
 	- **(a.1)** to purchase or otherwise acquire and undertake all or any of the assets, business, property, privileges, contracts, rights, obligations and liabilities of any other company or any society, firm or person carrying on any business that the company is authorized to carry on, or possessed of property suitable for the purposes of the company;
-	- **(b)** to apply for, purchase or otherwise acquire any patents, patent rights, copyrights, trade marks, formulae, licences, concessions and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to any invention that may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company, and to use, exercise, develop or grant licenses in respect of, or otherwise turn to account, the property, rights or information so acquired;
+	- **(b)** to apply for, purchase or otherwise acquire any patents, patent rights, certificates of supplementary protection issued under the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md), rights under such a certificate, copyrights, trade marks, formulae, licences, concessions and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to any invention that may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company, and to use, exercise, develop or grant licences in respect of, or otherwise turn to account, the property, rights or information so acquired;
 	- **(b.1)** to amalgamate or enter into partnership or into any arrangement for sharing of profits, union of interests, cooperation, joint adventure, reciprocal concession or otherwise, with any other company or any society, firm or person, carrying on or engaged in or about to carry on or engage in any business or transaction that the company is authorized to carry on or engage in, or any business or transaction capable of being conducted so as directly or indirectly to benefit the company; and to lend money to, guarantee the contracts of, or otherwise assist any such company, society, firm or person, and to take or otherwise acquire shares and securities of any such company, and to sell, hold or otherwise deal with the same;
 	- **(c)** to take, or otherwise acquire and hold, shares, debentures or other securities of any other company having objects altogether or in part similar to those of the company, or carrying on any business capable of being conducted so as, directly or indirectly, to benefit the company, and to sell or otherwise deal with the same;
 	- **(d)** to enter into any arrangements with any government or authority, municipal, local or otherwise, that may seem conducive to the company’s objects, or any of them, and to obtain from any such government or authority any rights, privileges and concessions that the company may think it desirable to obtain, and to carry out, exercise and comply with any such arrangements, rights, privileges and concessions;
@@ -321,7 +321,7 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 **Withholding or limiting powers**
 
 - **(4)** Any of the powers set out in subsection (1) may be withheld or limited by the letters patent or supplementary letters patent of the company.
-> R.S., 1952, c. 53, s. 14; 1964-65, c. 52, s. 12.
+> R.S., 1970, c. C-32, s. 16; 2017, c. 6, s. 118.
 
 
 
@@ -844,7 +844,7 @@ the company shall have power to reissue the debentures, either by reissuing the 
 	- **(b)** a mortgage or charge on uncalled share capital of the company,
 	- **(c)** a floating charge on the undertaking or property of the company,
 	- **(d)** a mortgage or charge on calls made but not paid, or
-	- **(e)** a mortgage or charge on goodwill, on any patent or licence under a patent, on any trade mark or on any copyright or licence under a copyright,
+	- **(e)** a mortgage or charge on goodwill, on any patent or licence under a patent, on any certificate of supplementary protection issued under the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md) or licence under such a certificate, on any trade mark or on any copyright or licence under a copyright,
 the company shall deliver to the Minister the prescribed particulars of the mortgage or charge, and a copy of the instrument, if any, by which the mortgage or charge is created or evidenced, certified by the secretary of the company, or, in the Province of Quebec, a notarial copy of such instrument within thirty days after the date of its creation.
 
 **Exception**
@@ -891,7 +891,7 @@ together with a copy of the covering deed, if any, certified by the secretary of
 **Copies of instruments to be kept at head office**
 
 - **(11)** Every company shall cause a copy of every instrument creating any mortgage or charge particulars of which are required to be delivered to the Minister under this section to be kept at the head office of the company.
-> R.S., 1952, c. 53, s. 66.
+> R.S., 1970, c. C-32, s. 68; 2017, c. 6, s. 119.
 
 
 
@@ -1674,7 +1674,7 @@ and shall show the net profit or loss for the financial period.
 		- **(iv)** any one or more of the following, namely:
 			- **(A)** goodwill,
 			- **(B)** franchises,
-			- **(C)** patents,
+			- **(C)** patents and certificates of supplementary protection issued under the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md),
 			- **(D)** copyrights,
 			- **(E)** trade marks, and
 			- **(F)** other intangible assets,stating the basis of valuation and the amount, if any, by which the value of any such assets has been written up since the date preceding by five years the date of the balance sheet;
@@ -1701,7 +1701,7 @@ and shall show the net profit or loss for the financial period.
 **Explanatory information**
 
 - **(2)** Explanatory information or particulars of any item mentioned in subsection (1) may be shown by way of a note to the financial statement.
-> R.S., 1970, c. C-32, s. 121; R.S., 1970, c. 10(1st Supp.), s. 15.
+> R.S., 1970, c. C-32, s. 121; R.S., 1970, c. 10(1st Supp.), s. 15; 2017, c. 6, s. 120.
 
 
 
