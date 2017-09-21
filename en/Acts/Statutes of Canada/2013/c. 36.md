@@ -45,6 +45,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(g)** the Conflict of Interest and Ethics Commissioner, appointed pursuant to subsection 81(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md);
 - **(h)** the Commissioner of Lobbying, appointed pursuant to subsection 4.1(1) of the [Lobbying Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2044%20(4th%20Supp.).md);
 - **(i)** the Public Sector Integrity Commissioner, appointed pursuant to subsection 39(1) of the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md);
-- **(j)** the President of the Public Service Commission, appointed pursuant to subsection 4(5) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+- **(j)** the President of the Public Service Commission, appointed pursuant to subsection 4(5) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md);
+- **(k)** the Parliamentary Budget Officer, appointed under subsection 79.1(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md).
+> 2013, c. 36, s. 2; 2017, c. 20, s. 190.
+
 
 
