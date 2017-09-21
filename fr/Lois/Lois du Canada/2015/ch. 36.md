@@ -339,7 +339,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**55** [Modification]
+**55** [Abrogé avant d'entrer en vigueur, 2017, ch. 6, art. 136]
 
 
 
@@ -359,7 +359,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**60** [Modification]
+**60** [Abrogé avant d'entrer en vigueur, 2017, ch. 6, art. 136]
 
 
 
