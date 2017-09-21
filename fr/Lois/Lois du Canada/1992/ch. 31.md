@@ -11,7 +11,7 @@ Sanctionnée sur le 23 juin 1992
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -39,7 +39,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de l’autorité*** Personne qui, en vertu de l’article 12, est désignée à ce titre pour le contrôle d’application de la présente loi.
+***AÉCG*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord économique et commercial global entre le Canada et l’Union européenne](/fr/Lois/Lois%20du%20Canada/2017/ch.%206.md). (*CETA*)
+
+***agent de l’autorité*** Personne qui, en vertu de l’article 12, est désignée à ce titre pour le contrôle d’application de la présente loi. (*enforcement officer*)
 
 ***cabotage***
 - **a)** Le transport de marchandises par navire, ou par navire et par un autre moyen de transport, entre deux lieux situés au Canada ou au-dessus du plateau continental du Canada, directement ou en passant par un lieu situé à l’extérieur du Canada; toutefois, dans les eaux situées au-dessus du plateau continental du Canada, seul le transport de marchandises lié à la recherche, à l’exploitation ou au transport des ressources minérales ou des autres ressources non biologiques du plateau constitue du cabotage;
@@ -54,33 +56,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** soit à partir d’un lieu au Canada vers un lieu au-dessus du plateau,
 	- **(ii)** soit à partir d’un lieu au-dessus du plateau à destination du même lieu ou vers un lieu au Canada,
 	- **(iii)** soit entre deux lieux au-dessus du plateau;
-- **f)** toute autre activité maritime de nature commerciale effectuée par navire dans les eaux canadiennes ou les eaux situées au-dessus du plateau continental du Canada, l’activité devant toutefois, dans ce dernier cas, être liée à la recherche, à l’exploitation ou au transport des ressources minérales ou des autres ressources non biologiques du plateau.
+- **f)** toute autre activité maritime de nature commerciale effectuée par navire dans les eaux canadiennes ou les eaux situées au-dessus du plateau continental du Canada, l’activité devant toutefois, dans ce dernier cas, être liée à la recherche, à l’exploitation ou au transport des ressources minérales ou des autres ressources non biologiques du plateau. (*coasting trade*)
 
-***capitaine*** À l’égard d’un navire, le capitaine au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+***capitaine*** À l’égard d’un navire, le capitaine au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*master*)
 
-***eaux canadiennes*** Les eaux internes au sens de l’article 2 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les eaux intérieures et la mer territoriale du Canada.
+***eaux canadiennes*** Les eaux internes au sens de l’article 2 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les eaux intérieures et la mer territoriale du Canada. (*Canadian waters*)
 
-***escale de transit*** S’entend de toute escale, autre qu’une escale technique ou d’urgence, à l’occasion de laquelle les passagers vont à terre temporairement, mais remontent à bord avant l’appareillage ou sont ramenés, par transport terrestre, au même navire pour y remonter à un autre endroit.
+***entité canadienne*** Selon le cas :
+- **a)** personne morale constituée au Canada;
+- **b)** fiducie, société de personnes, coentreprise ou autre association formée au Canada. (*Canadian entity*)
 
-***escale technique*** Escale, à l’exception d’une escale d’urgence ou d’une escale de transit, non destinée à l’embarquement ou au débarquement des passagers.
+***entité de l’Union européenne*** Selon le cas :
+- **a)** personne morale constituée dans le territoire de l’Union européenne;
+- **b)** fiducie, société de personnes, coentreprise ou autre association formée dans le territoire de l’Union européenne. (*EU entity*)
 
-***licence*** Document délivré sous le régime de la présente loi autorisant un navire étranger ou un navire non dédouané à se livrer au cabotage dans les eaux canadiennes ou dans les eaux situées au-dessus du plateau continental du Canada.
+***escale de transit*** S’entend de toute escale, autre qu’une escale technique ou d’urgence, à l’occasion de laquelle les passagers vont à terre temporairement, mais remontent à bord avant l’appareillage ou sont ramenés, par transport terrestre, au même navire pour y remonter à un autre endroit. (*in-transit call*)
 
-***navire*** S’entend au sens de bâtiment à l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+***escale technique*** Escale, à l’exception d’une escale d’urgence ou d’une escale de transit, non destinée à l’embarquement ou au débarquement des passagers. (*technical call*)
 
-***navire canadien*** Bâtiment canadien au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) à l’égard duquel tous les droits et taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ont été acquittés.
+***licence*** Document délivré sous le régime de la présente loi autorisant un navire étranger ou un navire non dédouané à se livrer au cabotage dans les eaux canadiennes ou dans les eaux situées au-dessus du plateau continental du Canada. (*licence*)
 
-***navire étranger*** Navire autre qu’un navire canadien ou qu’un navire non dédouané.
+***navire*** S’entend au sens de bâtiment à l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*ship*)
 
-***navire non dédouané*** Navire immatriculé au Canada à l’égard duquel tous les droits et taxes prévus par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’ont pas été acquittés.
+***navire canadien*** Bâtiment canadien au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) à l’égard duquel tous les droits et taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ont été acquittés. (*Canadian ship*)
 
-***Office*** L’Office des transports du Canada.
+***navire étranger*** Navire autre qu’un navire canadien ou qu’un navire non dédouané. (*foreign ship*)
+
+***navire non dédouané*** Navire immatriculé au Canada à l’égard duquel tous les droits et taxes prévus par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’ont pas été acquittés. (*non-duty paid ship*)
+
+***Office*** L’Office des transports du Canada. (*Agency*)
 
 ***plateau continental***[Abrogée, 1996, ch. 31, art. 66]
 
-***propriétaire*** À l’égard d’un navire, la personne qui, aux moments considérés, jouit, en vertu de la loi ou d’un contrat, des droits du propriétaire quant à la possession et à l’utilisation du navire.
+***propriétaire*** À l’égard d’un navire, la personne qui, aux moments considérés, jouit, en vertu de la loi ou d’un contrat, des droits du propriétaire quant à la possession et à l’utilisation du navire. (*owner*)
 
-***résident du Canada*** Personne résidant au Canada au sens de l’article 250 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***résident du Canada*** Personne résidant au Canada au sens de l’article 250 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*resident in Canada*)
+
+***territoire de l’Union européenne*** Territoire sur lequel le Traité sur l’Union européenne, fait à Maastricht le 7 février 1992, et le Traité instituant la Communauté économique européenne, fait à Rome le 25 mars 1957 — renommé Traité sur le fonctionnement de l’Union européenne —, avec leurs modifications successives, sont applicables, conformément aux conditions prévues dans ces traités. (*territory of the European Union*)
 
 **Sens de lieu situé au-dessus du plateau continental du Canada**
 
@@ -89,7 +101,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(3)** Les pouvoirs ou fonctions conférés au ministre de la Sécurité publique et de la Protection civile ou au ministre des Transports par la présente loi peuvent être exercés par toute personne que le ministre en question autorise à agir ainsi. Les pouvoirs ou fonctions ainsi exercés sont réputés l’avoir été par le ministre.
-> 1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et 108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2001, ch. 26, art. 289; 2005, ch. 38, art. 142 et 145; 2011, ch. 15, art. 45.
+> 1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et 108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2001, ch. 26, art. 289; 2005, ch. 38, art. 142 et 145; 2011, ch. 15, art. 45; 2017, ch. 6, art. 91.
 
 
 
@@ -103,7 +115,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** 
 
-- **(1)** Sauf en conformité avec une licence, un navire étranger ou un navire non dédouané ne peut, sous réserve des paragraphes (2) à (5), se livrer au cabotage.
+- **(1)** Sauf en conformité avec une licence, un navire étranger ou un navire non dédouané ne peut se livrer au cabotage.
 
 **Champ d’application**
 
@@ -114,6 +126,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c.1)** pour des activités sismologiques dans les eaux situées au-dessus du plateau continental du Canada en rapport avec la recherche des ressources minérales ou des autres ressources naturelles non biologiques du plateau;
 	- **d)** à des opérations de sauvetage, sauf lorsque celles-ci se déroulent dans les eaux canadiennes;
 	- **e)** avec l’approbation d’un agent d’intervention environnementale désigné aux termes de l’article 174.1 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), pour des activités liées à une situation d’urgence, réelle ou appréhendée, causée par la pollution marine.
+
+**Repositionnement de conteneurs vides**
+
+- **(2.1)** Le paragraphe (1) ne s’applique pas au transport entre des lieux au Canada, sans contrepartie, par l’un ou l’autre des navires ci-après, de conteneurs vides appartenant au propriétaire du navire ou loués par celui-ci, ainsi que de tout accessoire fixé à ceux-ci de manière permanente :
+	- **a)** le navire non dédouané dont le propriétaire est une entité canadienne ou une entité de l’Union européenne;
+	- **b)** le navire étranger qui est immatriculé dans le registre national — aussi appelé « premier registre » — d’un État membre de l’Union européenne et dont le propriétaire est une entité canadienne, une entité de l’Union européenne ou une entité sous contrôle canadien ou européen;
+	- **c)** le navire étranger qui est immatriculé dans un registre international — aussi appelé « second registre » — d’un État membre de l’Union européenne et dont le propriétaire est une entité canadienne, une entité de l’Union européenne ou une entité sous contrôle canadien ou européen;
+	- **d)** le navire étranger qui est immatriculé dans un registre autre que le Registre canadien d’immatriculation des bâtiments ou que tout registre visé aux alinéas b) ou c) et dont le propriétaire est une entité canadienne ou une entité de l’Union européenne.
+
+**Activités de dragage**
+
+- **(2.2)** Le paragraphe (1) ne s’applique pas aux activités de dragage — autres que celles effectuées aux termes d’un accord conclu avec Sa Majesté du chef du Canada ou avec une entité qui figure à l’Annexe 19-1, avec ses modifications successives, du chapitre Dix-neuf de l’AÉCG — effectuées au moyen d’un navire visé à l’un ou l’autre des alinéas (2.1)a) à d).
+
+**Service d’apport — continuel ou aller simple**
+
+- **(2.3)** Le paragraphe (1) ne s’applique pas aux activités ci-après effectuées au moyen du navire visé à l’alinéa (2.1)b) :
+	- **a)** le transport de marchandises du port d’Halifax — où leur chargement a eu lieu — à celui de Montréal, ou inversement, si ce transport fait partie intégrante de l’itinéraire d’importation de ces marchandises au Canada;
+	- **b)** le transport de marchandises du port de Montréal — où leur chargement a eu lieu — à celui d’Halifax, ou inversement, si ce transport fait partie intégrante de l’itinéraire d’exportation de ces marchandises à partir du Canada.
+
+**Service d’apport — aller simple**
+
+- **(2.4)** Sous réserve du paragraphe (2.5), le paragraphe (1) ne s’applique pas au transport de marchandises dans des conteneurs du port de Montréal au port d’Halifax, ou inversement, effectué au moyen du navire visé à l’alinéa (2.1)c) lorsque les conditions suivantes sont remplies :
+	- **a)** le transport fait partie intégrante de l’itinéraire d’importation ou d’exportation de ces marchandises;
+	- **b)** les conteneurs — d’une longueur de 6,1 mètres ou plus et d’un volume intérieur d’au moins 14 mètres cubes — qui sont conçus pour transporter des marchandises par un ou plusieurs moyens de transport et pour être utilisés de nouveau et ne sont ni munis de roues, ni autrement fabriqués pour être mûs ou tirés.
+
+**Cabotages subséquents assujettis au paragraphe (1)**
+
+- **(2.5)** Une fois qu’un transport de marchandises aux termes du paragraphe (2.4) a été effectué au moyen d’un navire, le paragraphe (1) s’applique à celui-ci à l’égard de tout tel transport de marchandises subséquent effectué à son bord avant qu’il ne quitte soit la zone économique exclusive du Canada, soit les eaux internes, au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), à un endroit où celles-ci sont contiguës aux États-Unis.
+
+**Fourniture de renseignements**
+
+- **(2.6)** Avant qu’un navire ne soit utilisé sans licence pour une activité visée à l’un ou l’autre des paragraphes (2.1) à (2.4) pour laquelle son propriétaire compte se prévaloir d’une exemption prévue à l’un ou l’autre de ces paragraphes, ce dernier fournit à l’agent de l’autorité, selon les modalités précisées par le ministre, des renseignements permettant d’établir que le navire remplit les conditions applicables prévues aux alinéas (2.1)a) à d).
 
 **Non-interdiction de porter secours**
 
@@ -126,7 +170,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(5)** Le paragraphe (1) ne s’applique pas aux navires du gouvernement des États-Unis qui sont utilisés seulement pour le transport des marchandises d’origine canadienne ou américaine appartenant à ce gouvernement et destinées à approvisionner les postes du réseau avancé de préalerte.
-> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290; 2012, ch. 19, art. 531; 2014, ch. 29, art. 78.
+
+**Application d’autres lois**
+
+- **(6)** Il est entendu que les dispositions en matière de sécurité ou de prévention de la pollution prévues par la législation canadienne s’appliquent aux navires étrangers exemptés de l’application du paragraphe (1).
+
+**Contrôle**
+
+- **(7)** Pour l’application des alinéas (2.1)b) et c), une entité est sous contrôle canadien ou européen dans les cas suivants :
+	- **a)** s’agissant d’une entité tierce qui est une personne morale, des valeurs mobilières de cette personne morale comportant plus de cinquante pour cent des votes pouvant être exercés lors de l’élection de ses administrateurs sont détenues, directement ou indirectement — mais sans l’intermédiaire d’une filiale et autrement qu’à titre de garantie uniquement — par les individus ci-après, seuls ou en groupe, ou au profit de ceux-ci :
+		- **(i)** le citoyen canadien,
+		- **(ii)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md),
+		- **(iii)** le ressortissant d’un État membre de l’Union européenne;
+	- **b)** s’agissant d’une entité tierce qui est une fiducie, une société de personnes, une coentreprise ou une autre association, les individus visés aux sous-alinéas a)(i) à (iii), seuls ou en groupe, détiennent dans cette entité, directement ou indirectement — mais sans l’intermédiaire d’une filiale — des titres de participation leur donnant droit à plus de cinquante pour cent des bénéfices de cette entité ou plus de cinquante pour cent des éléments d’actif de celle-ci au moment de sa dissolution.
+
+**Entité tierce**
+
+- **(8)** Pour l’application du paragraphe (7), ***entité tierce*** s’entend, selon le cas :
+	- **a)** d’une personne morale, autre que celles visées aux alinéas a) des définitions de entité canadienne et entité de l’Union européenne, qui n’est pas constituée sous le régime du droit des États-Unis;
+	- **b)** d’une fiducie, société de personnes, coentreprise ou autre association, autre que celles visées aux alinéas b) des définitions de entité canadienne et entité de l’Union européenne, qui n’est pas formée sous le régime du droit des États-Unis.
+> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290; 2012, ch. 19, art. 531; 2014, ch. 29, art. 78; 2017, ch. 6, art. 92.
 
 
 
@@ -164,6 +227,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Dragage — dispositions non applicables**
+
+**5.1** 
+
+- **(1)** Les dispositions ci-après ne s’appliquent pas à l’égard de la demande de licence portant sur des activités de dragage devant être effectuées aux termes d’un accord conclu avec Sa Majesté du chef du Canada ou avec une entité qui figure à l’Annexe 19-1, avec ses modifications successives, du chapitre Dix-neuf de l’AÉCG :
+	- **a)** dans le cas d’une demande faite au nom d’un navire visé à l’alinéa 3(2.1)a), l’alinéa 5a);
+	- **b)** dans le cas d’une demande faite au nom d’un navire visé aux alinéas 3(2.1)b) ou c), l’alinéa 4(1)a).
+
+**Valeur totale de l’accord**
+
+- **(2)** Le paragraphe (1) s’applique seulement si la valeur totale de l’accord dont font partie les activités de dragage est égale ou supérieure au seuil — la somme en dollars canadiens que le ministre du Commerce international détermine être équivalente, pour la période qu’il précise, à 5 millions en droits de tirage spéciaux du Fonds monétaire international — applicable à la date où l’appel ou la demande d’offres ou de soumissions relatifs à ces activités a été fait.
+> 2017, ch. 6, art. 93.
+
+
+
+
+
 **Conditions**
 
 **6** 
@@ -187,9 +267,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Nombre maximal de licences**
+**Règlements**
 
-**7** Le gouverneur en conseil peut, par règlement, fixer le nombre maximal de licences qui peuvent être délivrées en vertu des articles 4 et 5.
+**7** Le gouverneur en conseil peut, par règlement :
+- **a)** préciser si un territoire est visé par la définition de territoire de l’Union européenne au paragraphe 2(1);
+- **b)** indiquer, pour l’application de l’alinéa 3(2.1)c), les registres qui sont des registres internationaux ou des seconds registres d’États membres de l’Union européenne;
+- **c)** fixer le nombre maximal de licences qui peuvent être délivrées en vertu des articles 4 et 5.
+> 1992, ch. 31, art. 7; 2017, ch. 6, art. 94.
+
 
 
 
