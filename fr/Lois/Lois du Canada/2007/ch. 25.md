@@ -80,7 +80,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(iii)** des produits ou services d’une même catégorie générale que ceux pour lesquels elle a été employée avant cette date ou que ceux à l’égard desquels elle est enregistrée;
 	- **d)** l’emploi, par Sa Majesté, une université ou une autorité publique, ou par la personne autorisée par l’une ou l’autre de celles-ci, d’un insigne, d’un écusson, d’un emblème ou de toute autre marque à l’égard de laquelle Sa Majesté, l’université ou l’autorité publique, selon le cas, a demandé au registraire de donner un avis public en application de l’alinéa 9(1)n) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), si cet avis a été donné avant le 2 mars 2007;
 	- **e)** l’emploi par Sa Majesté, une université ou une autorité publique, ou par la personne autorisée par l’une ou l’autre de celles-ci, d’un insigne, d’un écusson, d’un emblème ou de toute autre marque à l’égard de laquelle Sa Majesté, l’université ou l’autorité publique, selon le cas, a demandé au registraire de donner un avis public en application de l’alinéa 9(1)n) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), si cet avis a été donné avant la date de la publication dans la partie I de la Gazette du Canada du décret qui, par adjonction d’une marque aux annexes 1 ou 2, en interdit l’emploi;
-	- **f)** l’emploi d’une indication géographique protégée désignant un vin ou un spiritueux dont le lieu d’origine se trouve sur le territoire visé par l’indication;
+	- **f)** l’emploi d’une indication géographique protégée désignant un vin ou un spiritueux, ou un produit agricole ou un aliment, dont le lieu d’origine se trouve sur le territoire visé par l’indication;
 	- **g)** l’emploi par une personne de son adresse, du nom du lieu géographique où est située son entreprise, de toute indication exacte de l’origine de ses produits ou services ou, dans la mesure où cela est nécessaire pour les expliquer au public, de toute description exacte de ses produits ou services;
 	- **h)** l’emploi par une personne physique de son nom;
 	- **i)** l’emploi par une personne ayant participé à titre d’athlète à des Jeux olympiques ou à des Jeux paralympiques ou ayant été sélectionnée par le COC ou le CPC pour le faire, ou par une personne ayant obtenu son consentement, des marques « *Olympian* », « *Olympic* », « Olympien » et « Olympique », ou « *Paralympian* », « *Paralympic* », « Paralympien » et « Paralympique », selon le cas, lorsque cet emploi sert seulement à faire état de cette participation ou sélection.
@@ -92,7 +92,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(6)** Il est entendu que ne constitue pas en soi un emploi à l’égard d’une entreprise l’inclusion d’une marque olympique ou paralympique ou sa traduction — en quelque langue que ce soit — dans une oeuvre artistique, au sens de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), par son auteur, si cette oeuvre n’est pas reproduite à l’échelle commerciale.
-> 2007, ch. 25, art. 3; 2014, ch. 32, art. 62.
+> 2007, ch. 25, art. 3; 2014, ch. 32, art. 62; 2017, ch. 6, art. 130.
 
 
 
