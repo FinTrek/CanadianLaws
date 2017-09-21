@@ -45,6 +45,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** commissaire aux conflits d’intérêts et à l’éthique, dont le titulaire est nommé en vertu du paragraphe 81(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md);
 - **h)** commissaire au lobbying, dont le titulaire est nommé en vertu du paragraphe 4.1(1) de la [Loi sur le lobbying](/fr/Lois/Lois%20du%20Canada/1985/ch.%2044%20(4e%20suppl.).md);
 - **i)** commissaire à l’intégrité du secteur public, dont le titulaire est nommé en vertu du paragraphe 39(1) de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md);
-- **j)** président de la Commission de la fonction publique, dont le titulaire est nommé en vertu du paragraphe 4(5) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+- **j)** président de la Commission de la fonction publique, dont le titulaire est nommé en vertu du paragraphe 4(5) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md);
+- **k)** directeur parlementaire du budget, dont le titulaire est nommé en vertu du paragraphe 79.1(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
+> 2013, ch. 36, art. 2; 2017, ch. 20, art. 190.
+
 
 
