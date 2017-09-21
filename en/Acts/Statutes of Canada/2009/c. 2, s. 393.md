@@ -155,7 +155,7 @@ Assented to on 12 March 2009
 - **(1)** This Act applies to employees who are employed in or by
 	- **(a)** the departments and other portions of the federal public administration named in Schedules I and IV, respectively, to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the separate agencies named in Schedule V to that Act, other than the Financial Consumer Agency of Canada and the Staff of the Non-Public Funds, Canadian Forces;
 	- **(b)** the Crown corporations and public bodies named in Schedule 1; and
-	- **(c)** the Senate, the House of Commons, the Library of Parliament, the office of the Senate Ethics Officer, the office of the Conflict of Interest and Ethics Commissioner and the Parliamentary Protective Service.
+	- **(c)** the Senate, the House of Commons, the Library of Parliament, the office of the Senate Ethics Officer, the office of the Conflict of Interest and Ethics Commissioner, the Parliamentary Protective Service and the office of the Parliamentary Budget Officer.
 
 **Members of the Royal Canadian Mounted Police**
 
@@ -172,7 +172,7 @@ Assented to on 12 March 2009
 **Persons appointed by Governor in Council**
 
 - **(4)** This Act applies to persons who are appointed by the Governor in Council, and those persons are deemed to be employees for the purposes of this Act. Despite this subsection, this Act does not apply to lieutenant governors, judges who are paid a salary under the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md), military judges appointed under section 165.21 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and prothonotaries appointed under section 12 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
-> 2009, c. 2, s. 393 "13"; 2015, c. 36, s. 152.
+> 2009, c. 2, s. 393 "13"; 2015, c. 36, s. 152; 2017, c. 20, s. 189.
 
 
 
