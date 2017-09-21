@@ -70,6 +70,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*North American Free Trade Agreement*)
 
+***Accord économique et commercial global entre le Canada et l’Union européenne*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord économique et commercial global entre le Canada et l’Union européenne](/fr/Lois/Lois%20du%20Canada/2017/ch.%206.md). (*Canada–European Union Comprehensive Economic and Trade Agreement*)
+
 ***Accord sur l’Organisation mondiale du commerce*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*World Trade Organization Agreement*)
 
 ***Chili*** Les étendues terrestres et maritimes et l’espace aérien surjacent relevant de la souveraineté du Chili, ainsi que la zone économique exclusive et le plateau continental à l’égard desquels celui-ci exerce des droits souverains et a compétence en conformité avec sa législation intérieure et le droit international. (*Chile*)
@@ -141,6 +143,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***pays ALÉNA*** Pays partie à l’Accord de libre-échange nord-américain. (*NAFTA country*)
 
+***pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*** S’entend au sens des règlements. (*EU country or other CETA beneficiary*)
+
 ***Pérou*** Le territoire terrestre, les îles, les zones maritimes et l’espace aérien surjacent sur lesquels la République du Pérou exerce sa souveraineté ou a des droits souverains et a compétence conformément à sa législation interne et au droit international. (*Peru*)
 
 ***position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à quatre chiffres, y compris la dénomination des marchandises des sous-positions et des numéros tarifaires dont le numéro commence par les quatre chiffres du numéro de position. (*heading*)
@@ -175,7 +179,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de pays, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 8, art. 33.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 6, art. 95, ch. 8, art. 33.
 
 
 
@@ -655,6 +659,8 @@ Suisse
 
 ***TCR*** Tarif du Costa Rica. (*CRT*)
 
+***TCUE*** Tarif Canada-Union européenne. (*CEUT*)
+
 ***TÉU*** Tarif des États-Unis. (*UST*)
 
 ***THN*** Tarif du Honduras. (*HNT*)
@@ -686,7 +692,7 @@ Suisse
 ***TSL*** Tarif de Suisse-Liechtenstein. (*SLT*)
 
 ***TUA*** Tarif de l’Ukraine. (*UAT*)
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 8, art. 35.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 6, art. 96, ch. 8, art. 35.
 
 
 
@@ -1642,6 +1648,104 @@ Suisse
 
 - **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
 > 2014, ch. 28, art. 47.
+
+
+
+
+
+#### Tarif Canada-Union européenne
+
+
+
+**Application du TCUE**
+
+**49.8** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires d’un pays de l’Union européenne ou d’un autre bénéficiaire de l’AÉCG bénéficient des taux du tarif Canada-Union européenne.
+
+**Taux final « A » pour le TCUE**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCUE » pour des marchandises qui bénéficient du tarif Canada-Union européenne, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TCUE**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCUE » pour des marchandises qui bénéficient du tarif Canada-Union européenne, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TCUE**
+
+- **(4)** Dans les cas où « W1 », « W2 », « W3 » ou « W4 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCUE » pour des marchandises qui bénéficient du tarif Canada-Union européenne, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « W1 » :
+		- **(i)** à compter de l’entrée en vigueur du présent article, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent article, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent article, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent article, au taux final, la franchise en douane;
+	- **b)** dans le cas de « W2 » :
+		- **(i)** à compter de l’entrée en vigueur du présent article, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent article, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent article, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent article, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur du présent article, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur du présent article, au taux final, la franchise en douane;
+	- **c)** dans le cas de « W3 » :
+		- **(i)** à compter de l’entrée en vigueur du présent article, aux sept huitièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent article, aux trois quarts du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent article, aux cinq huitièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent article, à la moitié du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur du présent article, aux trois huitièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur du présent article, au quart du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur du présent article, au huitième du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur du présent article, au taux final, la franchise en douane;
+	- **d)** dans le cas de « W4 » :
+		- **(i)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent article, aux deux tiers du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur du présent article, au tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur du présent article, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.02, 87.03 ou 87.04.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.02, 87.03 ou 87.04.
+> 2017, ch. 6, art. 97.
+
+
+
+
+
+**Règlements**
+
+**49.9** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement, définir l’expression « pays de l’Union européenne ou autre bénéficiaire de l’AÉCG ».
+> 2017, ch. 6, art. 97.
+
+
+
+
+
+**Octroi ou retrait du bénéfice**
+
+**49.91** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour :
+	- **a)** accorder le bénéfice du tarif Canada-Union européenne à tout ou partie des marchandises originaires d’un pays de l’Union européenne ou d’un autre bénéficiaire de l’AÉCG;
+	- **b)** retirer le bénéfice du tarif Canada-Union européenne à tout ou partie des marchandises originaires d’un pays s’il estime que ces marchandises n’ont pas droit à ce tarif en vertu de l’Accord économique et commercial global entre le Canada et l’Union européenne.
+
+**Contenu du décret**
+
+- **(2)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif Canada-Union européenne;
+	- **c)** peut soustraire des marchandises à l’application du paragraphe 24(1) et fixer les conditions afférentes;
+	- **d)** précise les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif de la nation la plus favorisée.
+> 2017, ch. 6, art. 97.
 
 
 
@@ -3183,16 +3287,16 @@ Pérou
 
 **80** Les définitions qui suivent s’appliquent à la présente partie.
 
-***droits*** Sauf pour l’application de l’article 106, les droits ou taxes perçus ou imposés sur les marchandises importées en application de la partie 2, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de toute autre loi fédérale en matière douanière. En est exclue, pour l’application des articles 89 et 113, la taxe sur les produits et services.
+***droits*** Sauf pour l’application de l’article 106, les droits ou taxes perçus ou imposés sur les marchandises importées en application de la partie 2, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de toute autre loi fédérale en matière douanière. En est exclue, pour l’application des articles 89 et 113, la taxe sur les produits et services. (*duties*)
 
-***droits de douane*** Sauf pour l’application des articles 95 et 96, les droits de douane imposés en application de la partie 2, à l’exclusion des surtaxes ou droits temporaires imposés en application de la section 4 de cette partie.
+***droits de douane*** Sauf pour l’application des articles 95, 96 et 98.1, les droits de douane imposés en application de la partie 2, à l’exclusion des surtaxes ou droits temporaires imposés en application de la section 4 de cette partie. (*customs duties*)
 
-***taxes d’accise*** Les taxes imposées en vertu de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à l’exclusion de la taxe sur les produits et services.
+***taxes d’accise*** Les taxes imposées en vertu de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à l’exclusion de la taxe sur les produits et services. (*excise taxes*)
 
-***taxe sur les produits et services*** Taxe imposée en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***taxe sur les produits et services*** Taxe imposée en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*goods and services tax*)
 
-***transformation*** S’entend notamment de l’ajustement, la modification, l’assemblage, la fabrication, la production ou la réparation de marchandises.
-> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347; 2011, ch. 24, art. 130.
+***transformation*** S’entend notamment de l’ajustement, la modification, l’assemblage, la fabrication, la production ou la réparation de marchandises. (*process*)
+> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347; 2011, ch. 24, art. 130; 2017, ch. 6, art. 98.
 
 
 
@@ -3300,7 +3404,15 @@ Pérou
 **Cessation d’effet**
 
 - **(4)** Le paragraphe (3) cesse d’avoir effet la veille de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe.
-> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53.
+
+**Marchandises du n<sup>o</sup> tarifaire 9971.00.00 — UE**
+
+- **(5)** Par dérogation au paragraphe 20(2), la valeur en douane des marchandises du n<sup>o</sup> tarifaire 9971.00.00 qui bénéficient du tarif Canada-Union européenne est la valeur des réparations ou modifications dont elles ont fait l’objet dans un pays de l’Union européenne ou un autre bénéficiaire de l’AÉCG.
+
+**Cessation d’effet**
+
+- **(6)** Le paragraphe (5) cesse d’avoir effet à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur du présent paragraphe.
+> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53; 2017, ch. 6, art. 99.
 
 
 
@@ -3327,7 +3439,7 @@ Pérou
 
 **89** 
 
-- **(1)** Sous réserve du paragraphe (2), de l’article 95 et des règlements visés à l’article 99 et sur demande présentée dans le délai réglementaire en conformité avec le paragraphe (4) par une personne appartenant à une catégorie réglementaire, des marchandises importées peuvent, dans les cas suivants, être exonérées, une fois dédouanées, des droits qui, sans le présent article, seraient exigibles :
+- **(1)** Sous réserve du paragraphe (2), des articles 95 et 98.1 et des règlements visés à l’article 99 et sur demande présentée dans le délai réglementaire en conformité avec le paragraphe (4) par une personne appartenant à une catégorie réglementaire, des marchandises importées peuvent, dans les cas suivants, être exonérées, une fois dédouanées, des droits qui, sans le présent article, seraient exigibles :
 	- **a)** elles sont ultérieurement exportées dans le même état qu’au moment de leur importation;
 	- **b)** elles sont transformées au Canada et ultérieurement exportées;
 	- **c)** elles sont directement consommées ou absorbées lors de la transformation au Canada de marchandises ultérieurement exportées;
@@ -3352,7 +3464,7 @@ Pérou
 **Demandes**
 
 - **(4)** Les demandes d’exonération sont présentées en la forme et comportent les renseignements que le ministre de la Sécurité publique et de la Protection civile juge indiqués.
-> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349; 2005, ch. 38, art. 142 et 145; 2017, ch. 6, art. 100.
 
 
 
@@ -3434,15 +3546,15 @@ Pérou
 
 **94** 
 
-- **(1)** Dans les articles 95 et 96, ***droits de douane*** s’entend des droits de douane imposés en application de la partie 2, à l’exclusion :
+- **(1)** Aux articles 95, 96 et 98.1, ***droits de douane*** s’entend des droits de douane imposés en application de la partie 2, à l’exclusion :
 	- **a)** des droits de douane additionnels perçus au titre des articles 21.1 à 21.3;
 	- **b)** des surtaxes ou droits temporaires imposés en application de la section 4 de cette partie.
 	- **c)** [Abrogé, 2011, ch. 24, art. 131]
 
 **Précision**
 
-- **(2)** Il est entendu que, dans les articles 95 et 96, les droits de douane ne comprennent pas les droits ou taxes perçus ou imposés sur les marchandises importées en application de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351; 2011, ch. 24, art. 131.
+- **(2)** Il est entendu que, aux articles 95, 96 et 98.1, droits de douane ne comprend pas les droits ou taxes perçus ou imposés sur les marchandises importées en application de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
+> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351; 2011, ch. 24, art. 131; 2017, ch. 6, art. 101.
 
 
 
@@ -3538,6 +3650,43 @@ Pérou
 **Créance de Sa Majesté**
 
 - **(2)** Toute somme visée au paragraphe (1) qui demeure impayée est réputée, pour l’application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), une créance de Sa Majesté du chef du Canada au titre de cette loi.
+
+
+
+
+**Restitution — UE**
+
+**98.1** 
+
+- **(1)** Lorsque des marchandises bénéficient de l’exonération prévue à l’article 89 et sont ultérieurement utilisées comme matières — ou remplacées par des marchandises identiques, équivalentes ou similaires utilisées comme matières — dans la fabrication de produits qui sont, à compter du troisième anniversaire de l’entrée en vigueur de l’article 49.8, exportés vers un pays de l’Union européenne ou un autre bénéficiaire de l’AÉCG et qui, lors de leur importation dans ce pays, bénéficient d’un traitement tarifaire préférentiel en application de l’Accord économique et commercial global entre le Canada et l’Union européenne :
+	- **a)** l’exportateur, dans les soixante jours suivant l’exportation, déclare celle-ci selon les modalités réglementaires à un agent d’un bureau de douane et paie la fraction des droits constituée de droits de douane qui a fait l’objet de l’exonération en application de l’article 89;
+	- **b)** par dérogation à toute autre disposition de la présente partie, mais sous réserve du paragraphe (4), l’exportateur et toute autre personne à qui l’exonération a été accordée sont tenus conjointement et individuellement ou solidairement, dès la date d’exportation, de payer à Sa Majesté du chef du Canada la fraction des droits constituée de droits de douane qui a fait l’objet de cette exonération.
+
+**Créance de Sa Majesté**
+
+- **(2)** Toute somme visée au paragraphe (1) qui demeure impayée est, pour l’application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), une créance de Sa Majesté du chef du Canada au titre de cette loi.
+
+**Absence de remboursement ou drawback**
+
+- **(3)** Il ne peut être accordé aucun remboursement ou drawback, en application de l’article 113, relativement à des marchandises à l’égard desquelles l’exonération de tout ou partie des droits aurait pu être accordée en application de l’article 89, mais ne l’a pas été, lorsque les conditions suivantes sont remplies :
+	- **a)** les marchandises sont utilisées comme matières, ou remplacées par des marchandises identiques, équivalentes ou similaires utilisées comme matières, dans la fabrication de produits;
+	- **b)** ces produits sont, à compter du troisième anniversaire de l’entrée en vigueur de l’article 49.8, exportés vers un pays de l’Union européenne ou un autre bénéficiaire de l’AÉCG et, lors de leur importation dans ce pays, bénéficient d’un traitement tarifaire préférentiel en application de l’Accord économique et commercial global entre le Canada et l’Union européenne.
+
+**Exceptions**
+
+- **(4)** Les paragraphes (1) et (3) ne s’appliquent pas aux marchandises suivantes :
+	- **a)** les marchandises importées originaires d’un pays de l’Union européenne ou d’un autre bénéficiaire de l’AÉCG qui sont utilisées comme matières — ou remplacées par des marchandises identiques, équivalentes ou similaires utilisées comme matières — dans la production de produits qui sont ultérieurement exportés vers un pays de l’Union européenne ou un autre bénéficiaire de l’AÉCG;
+	- **b)** les marchandises importées visées au paragraphe 89(1) qui sont réputées avoir été exportées pour une des raisons suivantes :
+		- **(i)** leur placement dans une boutique hors taxes en vue de l’exportation,
+		- **(ii)** leur désignation comme provisions de bord par les règlements d’application de l’alinéa 99g),
+		- **(iii)** leur usage à bord d’un moyen de transport d’une catégorie réglementaire désignée en application de l’alinéa 99g);
+	- **c)** les autres marchandises importées ou les marchandises importées utilisées comme matières — ou catégories de ces marchandises — prévues par règlement pris par le gouverneur en conseil, sur recommandation du ministre, en conformité avec un accord conclu entre le gouvernement du Canada et les autres parties à l’Accord économique et commercial global entre le Canada et l’Union européenne.
+
+**Définition de matières**
+
+- **(5)** Au présent article, ***matières*** s’entend des marchandises utilisées dans la transformation d’autres marchandises, y compris les pièces ou les ingrédients.
+> 2017, ch. 6, art. 102.
+
 
 
 
@@ -3710,7 +3859,7 @@ Pérou
 
 **107** 
 
-- **(1)** Sous réserve de l’article 95, lorsque est accordée, en application de l’un ou l’autre des articles 89, 92, 101 ou 106, une exonération pour la totalité ou une fraction des droits :
+- **(1)** Sous réserve des articles 95 et 98.1, lorsqu’est accordée, en application de l’un ou l’autre des articles 89, 92, 101 ou 106, une exonération pour la totalité ou une fraction des droits :
 	- **a)** aucun droit n’est exigible, si l’exonération porte sur la totalité;
 	- **b)** la fraction n’est pas exigible, si l’exonération porte seulement sur celle-ci.
 
@@ -3721,6 +3870,8 @@ Pérou
 **Effet des exonérations**
 
 - **(3)** Malgré le paragraphe (1), le montant des droits de douane payables sur des marchandises est calculé, pour la détermination de la valeur de celles-ci en application de l’article 215 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), comme si une exonération avait été accordée au titre de l’article 101 mais non au titre des articles 89, 92 ou 106.
+> 1997, ch. 36, art. 107; 2017, ch. 6, art. 103.
+
 
 
 
@@ -3805,7 +3956,7 @@ Pérou
 
 **113** 
 
-- **(1)** Sous réserve du paragraphe (2), de l’article 96 et des règlements d’application du paragraphe (4), est accordé une exonération ou un remboursement de tout ou partie des droits si, à la fois :
+- **(1)** Sous réserve du paragraphe (2), des articles 96 et 98.1 et des règlements d’application du paragraphe (4), est accordé un drawback ou un remboursement de tout ou partie des droits si, à la fois :
 	- **a)** l’exonération ou le remboursement de tout ou partie des droits aurait pu être accordé en application des articles 89 ou 101, mais ne l’a pas été;
 	- **b)** les droits ont été payés en tout ou en partie;
 	- **c)** une demande est présentée en conformité avec le paragraphe (3) et l’article 119.
@@ -3838,7 +3989,7 @@ Pérou
 **Marchandises désignées**
 
 - **(5)** Malgré l’exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre des articles 21.1 à 21.3, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) est accordé en application de l’alinéa (1)a) sur les marchandises désignées.
-> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145; 2011, ch. 24, art. 133.
+> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145; 2011, ch. 24, art. 133; 2017, ch. 6, art. 104.
 
 
 
@@ -4013,7 +4164,11 @@ Pérou
 **Intérêts sur l’exonération : ALÉNA**
 
 - **(7)** Quiconque est astreint, en application du paragraphe 95(1), à payer une somme, sauf pour des droits perçus au titre de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), verse, en plus de cette somme, des intérêts au taux déterminé, calculés sur les arriérés pour la période commençant le soixante et unième jour suivant la date à laquelle la somme devient exigible et se terminant le jour de son paiement intégral.
-> 1997, ch. 36, art. 123; 2001, ch. 25, art. 88.
+
+**Intérêts sur l’exonération : AÉCG**
+
+- **(8)** Quiconque est astreint, en application du paragraphe 98.1(1), à payer une somme verse, en plus de cette somme, des intérêts au taux déterminé, calculés sur les arriérés pour la période commençant le soixante et unième jour suivant la date à laquelle la somme devient exigible et se terminant le jour de son paiement intégral.
+> 1997, ch. 36, art. 123; 2001, ch. 25, art. 88; 2017, ch. 6, art. 105.
 
 
 
@@ -4169,7 +4324,7 @@ Pérou
 - **a)** pour l’application de l’article 101, préciser :
 	- **(i)** le délai, postérieur à l’exportation de marchandises, dans lequel celles-ci doivent être retournées au Canada,
 	- **(ii)** ce qui constitue des justificatifs convaincants établissant l’exportation des marchandises;
-- **b)** définir ***accessoire au commerce international des marchandises***, ***ancien résident***, ***bagage***, ***moyen de transport***, ***résident***, ***résident temporaire*** et ***temporairement***, pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
+- **b)** définir accessoire au commerce international des marchandises, ancien résident, bagage, moyen de transport, résident, résident temporaire et temporairement, pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
 - **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
 - **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
 	- **(i)** fixer les conditions de l’importation des moyens de transport,
@@ -4187,11 +4342,11 @@ Pérou
 	- **(i)** soustraire des marchandises ou des catégories de marchandises importées par toute catégorie de personnes visée par ce numéro tarifaire de toute exigence relative à la durée de la propriété, de la possession ou de l’usage des marchandises à l’étranger,
 	- **(ii)** assouplir les exigences en ce qui concerne la durée de la propriété, de la possession ou de l’usage à l’étranger, par toute catégorie de personnes visée par ce numéro tarifaire, des marchandises ou des catégories de marchandises de celui-ci;
 - **h)** pour l’application du n<sup>o</sup> tarifaire 9807.00.00 :
-	- **(i)** définir ***immigrant***,
+	- **(i)** définir immigrant,
 	- **(ii)** exonérer des marchandises ou des catégories de marchandises importées par toute catégorie de personnes visée par ce numéro tarifaire de toute exigence de ce numéro tarifaire relative à la propriété, la possession ou l’usage,
 	- **(iii)** substituer des exigences moins rigoureuses en ce qui concerne la propriété, la possession ou l’usage des marchandises ou des catégories de marchandises de ce numéro tarifaire;
 - **i)** pour l’application du n<sup>o</sup> tarifaire 9897.00.00 :
-	- **(i)** définir ***numéro***, ***périodique*** et ***édition spéciale***,
+	- **(i)** définir numéro, périodique et édition spéciale,
 	- **(ii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro d’une édition spéciale dans laquelle figurait une annonce qui s’adressait principalement à un marché au Canada et qui n’a pas paru sous une forme identique dans toutes les éditions de ce numéro de ce périodique diffusées dans le pays d’origine,
 	- **(iii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro dont plus de cinq pour cent de l’espace publicitaire présentait des annonces qui précisaient soit les sources où l’on pouvait obtenir au Canada les marchandises ou services en cause, soit les conditions de vente ou fourniture au Canada;
 - **j)** pour l’application du n<sup>o</sup> tarifaire 9971.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays mentionné ci-après pour réparation ou modification :Chili
@@ -4218,6 +4373,8 @@ Panama
 
 pays ALÉNA
 
+pays de l’Union européenne ou autre bénéficiaire de l’AÉCG
+
 Pérou
 
 Suisse
@@ -4241,6 +4398,8 @@ Panama
 
 pays ALÉNA
 
+pays de l’Union européenne ou autre bénéficiaire de l’AÉCG
+
 Pérou
 
 
@@ -4249,7 +4408,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F).
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F); 2017, ch. 6, art. 106.
 
 
 
