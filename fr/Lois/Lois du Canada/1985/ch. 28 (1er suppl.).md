@@ -375,10 +375,86 @@
 
 
 
+**Limites applicables aux investisseurs (traité commercial) — alinéas 14(1)a) ou b)**
+
+**14.11** 
+
+- **(1)** Malgré les paragraphes 14(3) et 14.1(1), l’investissement visé aux alinéas 14(1)a) ou b) qui est effectué soit par un investisseur (traité commercial) autre qu’une entreprise d’État, soit — dans le cas où l’entreprise canadienne qui en fait l’objet est, avant que l’investissement ne soit effectué, sous le contrôle d’un investisseur (traité commercial) — par un non-Canadien qui n’est ni un investisseur (traité commercial), ni une entreprise d’État n’est sujet à l’examen prévu à l’article 14 que si la valeur d’affaire, calculée de la façon prévue par règlement, des actifs visés aux alinéas 14(3)a) ou b), selon le cas, est égale ou supérieure à la somme applicable suivante :
+	- **a)** pour tout investissement effectué pendant la période commençant à la date d’entrée en vigueur du présent alinéa et se terminant le 31 décembre de l’année civile suivante, un milliard cinq cent millions de dollars;
+	- **b)** pour tout investissement effectué pendant toute année civile subséquente, la somme calculée en application du paragraphe (3) relativement à cette année civile.
+
+**Limites applicables aux investisseurs (traité commercial) — alinéas 14(1)c) ou d)**
+
+- **(2)** Malgré les paragraphes 14(3) et (4), l’investissement visé aux alinéas 14(1)c) ou d) qui est effectué par l’un ou l’autre des investisseurs ci-après n’est sujet à l’examen prévu à l’article 14 que si la valeur d’affaire, calculée de la façon prévue par règlement, des actifs visés à l’alinéa 14(3)b) ou au paragraphe 14(4), selon le cas, est égale ou supérieure à la somme applicable visée aux alinéas (1)a) ou b) :
+	- **a)** l’investisseur (traité commercial) qui n’est ni un investisseur OMC au sens du paragraphe 14.1(6), ni une entreprise d’État;
+	- **b)** dans le cas où l’entreprise canadienne qui fait l’objet de l’investissement est, avant que l’investissement ne soit effectué, sous le contrôle d’un investisseur (traité commercial), l’investisseur non-Canadien qui n’est ni un investisseur (traité commercial), ni un investisseur OMC au sens du paragraphe 14.1(6) ni une entreprise d’État.
+
+**Calcul de la somme**
+
+- **(3)** Pour l’application de l’alinéa (1)b), la somme, pour toute année en cause, correspond au résultat, calculé par le ministre au mois de janvier de cette année et arrondi au million de dollars le plus proche, obtenu par application de la formule suivante :
+```
+(PIB nominal actuel aux prix du marché / PIB nominal de l’année précédente aux prix du marché) × montant de l’année précédente
+```
+où :
+- **a)** le PIB nominal actuel aux prix du marché représente la moyenne du produit intérieur brut nominal aux prix du marché pour les quatre trimestres consécutifs les plus récents;
+- **b)** le PIB nominal de l’année précédente aux prix du marché représente la moyenne du produit intérieur brut nominal aux prix du marché, pour les mêmes quatre trimestres consécutifs de l’année précédant l’année utilisée pour le calcul du PIB nominal actuel aux prix du marché.
+
+**Publication dans la Gazette du Canada**
+
+- **(4)** Aussitôt que possible après avoir fait ce calcul pour une année donnée, le ministre fait publier la somme en question dans la Gazette du Canada.
+
+**Exception**
+
+- **(5)** Le présent article ne s’applique pas à l’investissement visant l’acquisition du contrôle d’une entreprise canadienne qui est une entreprise culturelle au sens du paragraphe 14.1(6).
+
+**Définitions**
+
+- **(6)** Les définitions qui suivent s’appliquent au présent article.
+
+***investisseur (traité commercial)*** 
+- **a)** Le particulier — autre qu’un Canadien — qui est :
+	- **(i)** soit une personne physique au sens de l’article 8.1 de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord économique et commercial global entre le Canada et l’Union européenne](/fr/Lois/Lois%20du%20Canada/2017/ch.%206.md),
+	- **(ii)** soit un ressortissant au sens de la disposition mentionnée à la colonne 2 de l’annexe en regard d’un traité commercial mentionné à la colonne 1;
+- **b)** le gouvernement d’un pays (traité commercial) ou celui d’un de ses États ou d’une de ses administrations locales, ou tout organisme d’un tel gouvernement;
+- **c)** l’unité sous le contrôle d’un investisseur (traité commercial), au sens du paragraphe (7), qui n’est pas une unité sous contrôle canadien visée aux paragraphes 26(1) ou (2);
+- **d)** la personne morale ou société en commandite qui n’est ni une unité sous contrôle canadien visée au paragraphe 26(1), ni une unité visée à l’alinéa c), ni contrôlée en fait au moyen de la propriété de ses intérêts avec droit de vote et dont, d’une part, la majorité de ceux-ci n’appartient pas à des investisseurs (traité commercial), et d’autre part, les deux tiers des administrateurs ou des associés gérants, selon le cas, sont des Canadiens et des investisseurs (traité commercial);
+- **e)** la fiducie qui n’est ni une unité sous contrôle canadien visée aux paragraphes 26(1) ou (2), ni une unité visée à l’alinéa c), ni contrôlée en fait au moyen de la propriété de ses intérêts avec droit de vote et dont les deux tiers des fiduciaires sont des Canadiens et des investisseurs (traité commercial);
+- **f)** toute autre forme d’organisation commerciale précisée par règlement et contrôlée par un investisseur (traité commercial). (*trade agreement investor*)
+
+***pays (traité commercial)*** Pays autre que le Canada qui est partie à l’Accord visé au sous-alinéa a)(i) de la définition de investisseur (traité commercial) au présent paragraphe ou à un traité commercial mentionné à la colonne 1 de l’annexe. (*trade agreement country*)
+
+***sous le contrôle d’un investisseur (traité commercial)*** Malgré le paragraphe 28(2), s’entend, à l’égard d’une entreprise canadienne :
+- **a)** soit du contrôle ultime de fait, direct ou indirect, de celle-ci par un investisseur (traité commercial) au moyen de la propriété d’intérêts avec droit de vote;
+- **b)** soit du fait qu’un investisseur (traité commercial) est propriétaire de la totalité ou de la quasi-totalité des actifs d’exploitation de celle-ci. (*controlled by a trade agreement investor*)
+
+**Mentions**
+
+- **(7)** Pour l’application de l’alinéa c) de la définition de investisseur (traité commercial), au paragraphe (6), la détermination du statut de l’unité sous le contrôle d’un investisseur (traité commercial) est à effectuer selon les règles suivantes :
+	- **a)** les paragraphes 26(1) et (2) et l’article 27 s’appliquent et, à cette fin :
+		- **(i)** les mentions, dans ces dispositions, de « Canadien », de « Canadiens », de « sont canadiens », de « membres canadiens » et de « individus canadiens » valent respectivement mention de « investisseur (traité commercial) », de « investisseurs (traité commercial) », de « sont des investisseurs (traité commercial) », de « membres qui sont des investisseurs (traité commercial) » et de « individus qui sont des investisseurs (traité commercial) »,
+		- **(ii)** les mentions, dans ces dispositions, de « non-Canadien », de « non-Canadiens », de « qui sont non canadiens », de « membres non canadiens » et de « individus non canadiens » valent respectivement mention de « non-Canadien — autre qu’un investisseur (traité commercial) —  », de « non-Canadiens — autres que des investisseurs (traité commercial) —  », de « qui sont des non-Canadiens — autres que des investisseurs (traité commercial) —  », de « membres non canadiens — autres que des investisseurs (traité commercial) —  » et de « individus qui ne sont pas des investisseurs (traité commercial) »,
+		- **(iii)** les mentions, dans ces dispositions, de « sous contrôle canadien » valent mention de « sous le contrôle d’un investisseur (traité commercial) »,
+		- **(iv)** la mention, au sous-alinéa 27d)(i), de « au Canada » vaut mention de « dans un pays (traité commercial) »;
+	- **b)** lorsque deux personnes — un Canadien et un investisseur (traité commercial) — possèdent à part égale toutes les actions avec droit de vote d’une personne morale, celle-ci est censée être sous le contrôle d’un investisseur (traité commercial).
+> 2017, ch. 6, art. 80.
+
+
+
+
+
 **Règlements**
 
-**14.2** Le gouverneur en conseil peut prendre les règlements qu’il juge nécessaires pour la mise en oeuvre de l’article 14.1.
-> 1988, ch. 65, art. 135; 1994, ch. 47, art. 133; 2009, ch. 2, art. 449.
+**14.2** Le gouverneur en conseil peut prendre les règlements qu’il juge nécessaires pour la mise en oeuvre des articles 14.1 et 14.11.
+> 1988, ch. 65, art. 135; 1994, ch. 47, art. 133; 2009, ch. 2, art. 449; 2017, ch. 6, art. 80.
+
+
+
+
+
+**Décret**
+
+**14.3** Le gouverneur en conseil peut, par décret, modifier l’annexe par adjonction, suppression ou remplacement, dans la colonne 1, de la mention d’un traité commercial et, dans la colonne 2, en regard d’un tel traité, d’une disposition prévoyant le sens du terme ressortissant.
+> 2017, ch. 6, art. 80.
 
 
 
@@ -1415,5 +1491,65 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 <sup><a href='#nbp_Ind9FD3_hq_16245'>[*]</a></sup>**51** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par proclamation.
 
 <a name='nbp_Ind9FD3_hq_16245'><sup>*</sup></a>: [Note : Loi en vigueur le 30 juin 1985, *voir* TR/85-128.]<br />
+
+
+
+
+### **ANNEXE** 
+**(paragraphe 14.11(6) et article 14.3)**
+<table>
+<tr>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Traité commercial</th>
+<th>Disposition</th>
+</tr>
+<tr>
+<td>Accord ALÉNA au sens du paragraphe 24(4) de la présente loi 
+
+</td>
+<td>Article 201</td>
+</tr>
+<tr>
+<td>Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md)
+
+</td>
+<td>Article B-01</td>
+</tr>
+<tr>
+<td>Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md)
+
+</td>
+<td>Article 105</td>
+</tr>
+<tr>
+<td>Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md)
+
+</td>
+<td>Article 106</td>
+</tr>
+<tr>
+<td>Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md)
+
+</td>
+<td>Article 1.01</td>
+</tr>
+<tr>
+<td>Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Honduras](/fr/Lois/Lois%20du%20Canada/2014/ch.%2014.md)
+
+</td>
+<td>Article 2.1</td>
+</tr>
+<tr>
+<td>Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md)
+
+</td>
+<td>Article 1.8</td>
+</tr>
+</table>
+
+> 2017, ch. 6, art. 81.
 
 
