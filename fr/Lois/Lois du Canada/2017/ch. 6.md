@@ -826,11 +826,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-**138** 
+<sup><a href='#fn_IndA43B_hq_20221'>[*]</a></sup>**138** 
 
-- <sup><a href='#fn_IndA43B_hq_20221'>[*]</a></sup>**(1)** Sous réserve des paragraphes (2) à (5), les dispositions de la présente loi, à l’exception des articles 133 à 137, entrent en vigueur à la date fixée par décret.
-
-<a name='fn_IndA43B_hq_20221'><sup>*</sup></a>: [Note : Les dispositions de la présente loi, à l’exception des articles 133 à 137, non en vigueur.]<br />
+- **(1)** Sous réserve des paragraphes (2) à (5), les dispositions de la présente loi, à l’exception des articles 133 à 137, entrent en vigueur à la date fixée par décret.
 
 **Décret**
 
@@ -847,6 +845,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décret**
 
 - **(5)** Les articles 45 à 58 entrent en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date visée au paragraphe (1).
+
+<a name='fn_IndA43B_hq_20221'><sup>*</sup></a>: [Note : Loi, à l’exception du paragraphe 8(3), de l’alinéa 11(1)a), du paragraphe 11(2), de l’alinéa 13a) et des articles 45 à 58, 90 et 133 à 137, en vigueur le 21 septembre 2017, *voir* TR/2017-47.]<br />
 
 
 
