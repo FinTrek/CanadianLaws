@@ -39,13 +39,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***Agency*** means the Canadian Transportation Agency;
+***Agency*** means the Canadian Transportation Agency; (*Office*)
 
-***Canadian ship*** means a Canadian vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of which all duties and taxes imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have been paid;
+***Canadian entity*** means
+- **(a)** a corporation that is incorporated in Canada, or
+- **(b)** a trust, partnership, joint venture or other association that is formed in Canada; (*entité canadienne*)
 
-***Canadian waters*** means the inland waters within the meaning of section 2 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the internal waters of Canada and the territorial sea of Canada;
+***Canadian ship*** means a Canadian vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of which all duties and taxes imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have been paid; (*navire canadien*)
 
-***coasting trade*** means
+***Canadian waters*** means the inland waters within the meaning of section 2 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the internal waters of Canada and the territorial sea of Canada; (*eaux canadiennes*)
+
+***CETA*** has the same meaning as Agreement in section 2 of the [Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%206.md); (*AÉCG*)
+
+***coasting trade*** means
 - **(a)** the carriage of goods by ship, or by ship and any other mode of transport, from one place in Canada or above the continental shelf of Canada to any other place in Canada or above the continental shelf of Canada, either directly or by way of a place outside Canada, but, with respect to waters above the continental shelf of Canada, includes the carriage of goods only in relation to the exploration, exploitation or transportation of the mineral or non-living natural resources of the continental shelf of Canada,
 - **(b)** subject to paragraph (c), the carriage of passengers by ship from any place in Canada situated on a lake or river to the same place, or to any other place in Canada, either directly or by way of a place outside Canada,
 - **(c)** the carriage of passengers by ship from any place situated on the St. Lawrence River northeast of the Saint Lambert lock or on the Fraser River west of the Mission Bridge
@@ -59,29 +65,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(ii)** from any place above the continental shelf of Canada to any place in Canada, or
 	- **(iii)** from any place above the continental shelf of Canada to the same place or to any other place above the continental shelf of Canada
 where the carriage of the passengers is in relation to the exploration, exploitation or transportation of the mineral or non-living natural resources of the continental shelf of Canada, and
-- **(f)** the engaging, by ship, in any other marine activity of a commercial nature in Canadian waters and, with respect to waters above the continental shelf of Canada, in such other marine activities of a commercial nature that are in relation to the exploration, exploitation or transportation of the mineral or non-living natural resources of the continental shelf of Canada;
+- **(f)** the engaging, by ship, in any other marine activity of a commercial nature in Canadian waters and, with respect to waters above the continental shelf of Canada, in such other marine activities of a commercial nature that are in relation to the exploration, exploitation or transportation of the mineral or non-living natural resources of the continental shelf of Canada; (*cabotage*)
 
 ***continental shelf***[Repealed, 1996, c. 31, s. 66]
 
-***enforcement officer*** means a person designated pursuant to section 12 to be an enforcement officer for the purposes of this Act;
+***enforcement officer*** means a person designated pursuant to section 12 to be an enforcement officer for the purposes of this Act; (*agent de l’autorité*)
 
-***foreign ship*** means a ship other than a Canadian ship or a non-duty paid ship;
+***EU entity*** means 
+- **(a)** a corporation that is incorporated in the territory of the European Union, or
+- **(b)** a trust, partnership, joint venture or other association that is formed in the territory of the European Union; (*entité de l’Union européenne*)
 
-***in-transit call*** means any call, other than an emergency or technical call, by a ship at any place where passengers go ashore temporarily but who re-board the vessel before the ship leaves that place or are transported by land to another location to re-board the same ship;
+***foreign ship*** means a ship other than a Canadian ship or a non-duty paid ship; (*navire étranger*)
 
-***licence*** means a document, issued pursuant to this Act, authorizing a foreign ship or a non-duty paid ship to engage in the coasting trade while in Canadian waters or in waters above the continental shelf of Canada;
+***in-transit call*** means any call, other than an emergency or technical call, by a ship at any place where passengers go ashore temporarily but who re-board the vessel before the ship leaves that place or are transported by land to another location to re-board the same ship; (*escale de transit*)
 
-***master***, in relation to a ship, has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
+***licence*** means a document, issued pursuant to this Act, authorizing a foreign ship or a non-duty paid ship to engage in the coasting trade while in Canadian waters or in waters above the continental shelf of Canada; (*licence*)
 
-***non-duty paid ship*** means a ship registered in Canada in respect of which any duties and taxes under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have not been paid;
+***master***, in relation to a ship, has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); (*capitaine*)
 
-***owner***, in relation to a ship, includes the person having for the time being, either by law or by contract, the rights of the owner of the ship as regards the possession and use thereof;
+***non-duty paid ship*** means a ship registered in Canada in respect of which any duties and taxes under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have not been paid; (*navire non dédouané*)
 
-***resident in Canada*** has the meaning given to that expression by section 250 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+***owner***, in relation to a ship, means the person having for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use; (*propriétaire*)
 
-***ship*** has the same meaning as vessel in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
+***resident in Canada*** has the meaning given to that expression by section 250 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); (*résident du Canada*)
 
-***technical call*** means any call, other than an emergency call or an in-transit call, that is for a purpose other than the embarking or disembarking of passengers.
+***ship*** has the same meaning as vessel in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); (*navire*)
+
+***technical call*** means any call, other than an emergency call or an in-transit call, that is for a purpose other than the embarking or disembarking of passengers. (*escale technique*)
+
+***territory of the European Union*** means the territory in which the Treaty on European Union, done at Maastricht on February 7, 1992, and the Treaty Establishing the European Economic Community, done at Rome on March 25, 1957 — renamed the Treaty on the Functioning of the European Union — as they are amended from time to time, are applicable, in accordance with the conditions specified in those treaties; (*territoire de l’Union européenne*) 
 
 **Meaning of place**
 
@@ -90,7 +102,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **Delegation**
 
 - **(3)** Any power, duty or function of the Minister of Public Safety and Emergency Preparedness or the Minister of Transport under this Act may be exercised or performed by any person authorized by that Minister, as the case may be, to do so and, if so exercised or performed, shall be deemed to have been exercised by that Minister.
-> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2001, c. 26, s. 289; 2005, c. 38, ss. 142, 145; 2011, c. 15, s. 45.
+> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2001, c. 26, s. 289; 2005, c. 38, ss. 142, 145; 2011, c. 15, s. 45; 2017, c. 6, s. 91.
 
 
 
@@ -104,7 +116,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **3** 
 
-- **(1)** Subject to subsections (2) to (5), no foreign ship or non-duty paid ship shall, except under and in accordance with a licence, engage in the coasting trade.
+- **(1)** No foreign ship or non-duty paid ship shall, except in accordance with a licence, engage in the coasting trade.
 
 **Application**
 
@@ -115,6 +127,38 @@ where the carriage of the passengers is in relation to the exploration, exploita
 	- **(c.1)** engaged in seismic activities in waters above the continental shelf of Canada that are in relation to the exploration for mineral or non-living natural resources of the continental shelf of Canada;
 	- **(d)** engaged in salvage operations, except where such operations are performed in Canadian waters; or
 	- **(e)** engaged, with the approval of a person designated as a pollution response officer under section 174.1 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency.
+
+**Repositioning of empty containers**
+
+- **(2.1)** Subsection (1) does not apply in respect of carriage between one place in Canada and another, without consideration, by any of the following ships, of empty containers that are owned or leased by the ship’s owner and any ancillary equipment that is permanently affixed to the containers:
+	- **(a)** a non-duty paid ship whose owner is a Canadian entity or an EU entity;
+	- **(b)** a foreign ship that is registered in the first, or domestic, register of a member state of the European Union and whose owner is a Canadian entity, an EU entity or an entity that is under Canadian or European control;
+	- **(c)** a foreign ship that is registered in a second, or international, register of a member state of the European Union and whose owner is a Canadian entity, an EU entity or an entity under Canadian or European control; and
+	- **(d)** a foreign ship that is registered in a register other than the Canadian Register of Vessels or a register referred to in paragraph (b) or (c), and whose owner is a Canadian entity or an EU entity.
+
+**Dredging activities**
+
+- **(2.2)** Subsection (1) does not apply in respect of dredging activities — other than dredging activities that are provided under an agreement with Her Majesty in right of Canada or with an entity which is listed in Annex 19-1, as amended from time to time, of Chapter Nineteen of CETA — carried out by a ship described in any of paragraphs (2.1)(a) to (d).
+
+**Feeder services — continual or single trip**
+
+- **(2.3)** Subsection (1) does not apply in respect of
+	- **(a)** the carriage of goods by a ship that is described in paragraph (2.1)(b), from the port of Halifax — where the goods are loaded — to the port of Montreal, or vice versa, if that carriage is one leg of the importation of the goods into Canada; or
+	- **(b)** the carriage of goods by the ship from the port of Montreal — where the goods are loaded — to the port of Halifax, or vice versa, if that carriage is one leg of the exportation of the goods from Canada.
+
+**Feeder services — single trip**
+
+- **(2.4)** Subject to subsection (2.5), subsection (1) does not apply in respect of the carriage, by a ship that is described in paragraph (2.1)(c), of goods in a container from the port of Montreal to the port of Halifax, or vice versa, if
+	- **(a)** that carriage is one leg of the importation of the goods into or exportation from Canada; and
+	- **(b)** the container is at least 6.1 metres in length and has an internal volume of at least 14 cubic metres, is designed for carrying goods more than once and by one or more modes of transportation, and does not have wheels or is not otherwise built for being driven or drawn.
+
+**Subsequent coasting trade subject to subsection (1)**
+
+- **(2.5)** Once a ship has completed a carriage of goods as described in subsection (2.4), subsection (1) applies to the ship in respect of any such subsequent carriage of goods by the ship, until it departs from the exclusive economic zone of Canada or from the inland waters, as defined in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), at a location where the inland waters are contiguous to the United States.
+
+**Provision of information**
+
+- **(2.6)** Before a ship engages, without a licence, in any activities referred to in subsections (2.1) to (2.4) and for which the owner of the ship intends to rely on an exemption under any one of those subsections, the owner shall provide information to an enforcement officer, in the form and manner specified by the Minister, establishing that the ship meets the applicable conditions under any of paragraphs (2.1)(a) to (d).
 
 **Assistance in cases of distress**
 
@@ -127,7 +171,26 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **DEW Sites**
 
 - **(5)** Subsection (1) does not apply to any ship that is owned by the Government of the United States and used for the sole purpose of transporting goods of Canadian or United States origin owned by the Government of the United States to supply Distant Early Warning Sites.
-> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290; 2012, c. 19, s. 531; 2014, c. 29, s. 78.
+
+**Other laws apply**
+
+- **(6)** For greater certainty, any law of Canada that imposes safety or pollution prevention requirements applies to a foreign ship that is exempted from the application of subsection (1).
+
+**Control**
+
+- **(7)** For the purposes of paragraphs (2.1)(b) and (c), an entity is under Canadian or European control
+	- **(a)** in the case of a third party entity that is a corporation, if securities of the corporation to which are attached more than 50% of the votes that may be cast to elect directors of the corporation are directly or indirectly held, otherwise than through a subsidiary or by way of security only, by or for the benefit of any of, or any combination of, the following individuals:
+		- **(i)** a Canadian citizen,
+		- **(ii)** a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
+		- **(iii)** a national of a member state of the European Union; or
+	- **(b)** in the case of a third party entity that is a trust, partnership, joint venture or other association, if an individual, or any combination of individuals, described in any of subparagraphs (a)(i) to (iii) holds, directly or indirectly, but not through a subsidiary, an interest in the trust, partnership, joint venture or other association that entitles the individual or combination of individuals to receive more than 50% of its profits or more than 50% of its assets on dissolution. 
+
+**Third party entity**
+
+- **(8)** For the purposes of subsection (7), ***third party entity*** means
+	- **(a)** a corporation, other than an entity referred to in paragraph (a) of the definition of either Canadian entity or EU entity, that is not incorporated under the law of the United States; or
+	- **(b)** a trust, partnership, joint venture or other association, other than an entity referred to in paragraph (b) of the definition of either Canadian entity or EU entity, that is not formed under the law of the United States.
+> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290; 2012, c. 19, s. 531; 2014, c. 29, s. 78; 2017, c. 6, s. 92.
 
 
 
@@ -165,6 +228,23 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 
 
+**Dredging — provisions not applicable**
+
+**5.1** 
+
+- **(1)** The following provisions do not apply with respect to licence applications relating to dredging activities that are to be provided under an agreement with Her Majesty in right of Canada or with an entity which is listed in Annex 19-1, as amended from time to time, of Chapter Nineteen of CETA:
+	- **(a)** for an application made on behalf of a ship described in paragraph 3(2.1)(a), paragraph 5(a); and
+	- **(b)** for an application made on behalf of a ship described in paragraph 3(2.1)(b) or (c), paragraph 4(1)(a).
+
+**Total value of agreement**
+
+- **(2)** Subsection (1) applies only if the total value of the agreement of which the dredging activities form a part is equal to or greater than the threshold — the sum in Canadian dollars which the Minister for International Trade determines to be equivalent, for a period which he or she determines, to 5 million special drawing rights issued by the International Monetary Fund — that is applicable on the day of the issuance of the call or request for bids or tenders related to the activities.
+> 2017, c. 6, s. 93.
+
+
+
+
+
 **Terms and conditions of licence**
 
 **6** 
@@ -190,9 +270,14 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 
 
-**Maximum number of licences**
+**Regulations**
 
-**7** The Governor in Council may, by regulation, fix the maximum number of licences that may be issued pursuant to sections 4 and 5.
+**7** The Governor in Council may, by regulation
+- **(a)** specify that a territory is, or is not, a territory referred to in the definition of territory of the European Union in subsection 2(1);
+- **(b)** indicate, for the purpose of paragraph 3(2.1)(c), the registers that are second, or international, registers of member states of the European Union; and
+- **(c)** fix the maximum number of licences that may be issued under sections 4 and 5.
+> 1992, c. 31, s. 7; 2017, c. 6, s. 94.
+
 
 
 
