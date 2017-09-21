@@ -1067,7 +1067,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndD67B_hq_20451'>[*]</a></sup>**191** Sections 126 to 129 and 131 to 190 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndD67B_hq_20451'><sup>*</sup></a>: [Note: Sections 126 to 129 and 131 to 190 not in force.]<br />
+<a name='fn_IndD67B_hq_20451'><sup>*</sup></a>: [Note: Sections 126 to 129 and 131 to 190 in force September 21, 2017, *see* SI/2017-53.]<br />
 
 
 
