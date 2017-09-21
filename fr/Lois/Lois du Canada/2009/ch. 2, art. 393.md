@@ -155,7 +155,7 @@ Sanctionnée sur le 12 mars 2009
 - **(1)** La présente loi s’applique aux employés :
 	- **a)** des ministères et autres secteurs de l’administration publique fédérale figurant aux annexes I et IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et des organismes distincts figurant à l’annexe V de cette loi, à l’exclusion de l’Agence de la consommation en matière financière du Canada et du Personnel des fonds non publics, Forces canadiennes;
 	- **b)** des sociétés d’État et organismes publics figurant à l’annexe 1;
-	- **c)** du Sénat, de la Chambre des communes, de la Bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique, du bureau du commissaire aux conflits d’intérêts et à l’éthique et du Service de protection parlementaire.
+	- **c)** du Sénat, de la Chambre des communes, de la Bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique, du bureau du commissaire aux conflits d’intérêts et à l’éthique, du Service de protection parlementaire et du bureau du directeur parlementaire du budget.
 
 **Précision**
 
@@ -172,7 +172,7 @@ Sanctionnée sur le 12 mars 2009
 **Personnes nommées par le gouverneur en conseil**
 
 - **(4)** La présente loi s’applique en outre aux personnes nommées par le gouverneur en conseil, celles-ci étant, pour son application, assimilées à des employés. Elle ne s’applique toutefois pas aux lieutenants-gouverneurs, aux juges touchant un traitement sous le régime de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md), aux juges militaires nommés en vertu de l’article 165.21 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et aux protonotaires nommés en vertu de l’article 12 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
-> 2009, ch. 2, art. 393 « 13 »; 2015, ch. 36, art. 152.
+> 2009, ch. 2, art. 393 « 13 »; 2015, ch. 36, art. 152; 2017, ch. 20, art. 189.
 
 
 
