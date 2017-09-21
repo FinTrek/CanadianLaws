@@ -25,38 +25,38 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***employé*** Personne au service d’un employeur.
+***employé*** Personne au service d’un employeur. (*employee*)
 
-***employeur*** Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou, selon le cas :
+***employeur*** Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou, selon le cas :
 - **a)** le Conseil du Trésor, pour ce qui est des fonctionnaires appartenant à un secteur de l’administration publique fédérale spécifié aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **b)** l’organisme distinct mentionné à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), pour ce qui est des fonctionnaires qui relèvent de lui;
-- **c)** le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique ou le Service de protection parlementaire, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
-- **d)** parlementaire, éventuellement ministre, pour ce qui est de son personnel ou des employés qui, appartenant au personnel d’un parti politique et travaillant dans des locaux du Sénat ou de la Chambre des communes, sont placés sous son autorité.
+- **c)** le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique, le Service de protection parlementaire ou le bureau du directeur parlementaire du budget, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
+- **d)** parlementaire, éventuellement ministre, pour ce qui est de son personnel ou des employés qui, appartenant au personnel d’un parti politique et travaillant dans des locaux du Sénat ou de la Chambre des communes, sont placés sous son autorité. (*employer*)
 
-***fumoir*** Pièce, désignée en application du paragraphe 3(2), où il est permis de fumer.
+***fumoir*** Pièce, désignée en application du paragraphe 3(2), où il est permis de fumer. (*designated smoking room*)
 
-***inspecteur*** Personne désignée à ce titre conformément à l’article 9.
+***inspecteur*** Personne désignée à ce titre conformément à l’article 9. (*inspector*)
 
-***lieu de travail*** Sous réserve du paragraphe 3(7), espace clos où des employés exercent leurs fonctions; y sont assimilés les secteurs avoisinants communs — notamment couloirs, vestibules, escaliers, ascenseurs, cafétérias, toilettes — fréquentés par eux en cours d’emploi.
+***lieu de travail*** Sous réserve du paragraphe 3(7), espace clos où des employés exercent leurs fonctions; y sont assimilés les secteurs avoisinants communs — notamment couloirs, vestibules, escaliers, ascenseurs, cafétérias, toilettes — fréquentés par eux en cours d’emploi. (*work space*)
 
-***produit à base de tabac*** Produit fabriqué à partir du tabac et destiné à être fumé.
+***produit à base de tabac*** Produit fabriqué à partir du tabac et destiné à être fumé. (*tobacco product*)
 
-***usage du tabac*** Fait de fumer un produit à base de tabac ou d’avoir par-devers soi un tel produit allumé.
+***usage du tabac*** Fait de fumer un produit à base de tabac ou d’avoir par-devers soi un tel produit allumé. (*smoke*)
 
-***zone fumeurs*** Zone, à l’exclusion d’un fumoir, désignée en application du paragraphe 3(2), où il est permis de fumer.
+***zone fumeurs*** Zone, à l’exclusion d’un fumoir, désignée en application du paragraphe 3(2), où il est permis de fumer. (*designated smoking area*)
 
 **Application extraterritoriale**
 
-- **(2)** La présente loi, à l'exception de l'article 10, s'applique, hors du Canada, aux lieux de travail situés à bord des aéronefs, trains ou véhicules automobiles exploités, entre le Canada et un autre pays, par un Canadien — au sens de l'article 55 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) —, ou à bord des bâtiments immatriculés ou enregistrés sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et exploités entre le Canada et un autre pays, dans la mesure où cette application sur un territoire étranger n'entraîne pas de violation des lois de celui-ci.
+- **(2)** La présente loi, à l’exception de l’article 10, s’applique, hors du Canada, aux lieux de travail situés à bord des aéronefs, trains ou véhicules automobiles exploités, entre le Canada et un autre pays, par un Canadien — au sens de l’article 55 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) —, ou à bord des bâtiments immatriculés ou enregistrés sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et exploités entre le Canada et un autre pays, dans la mesure où cette application sur un territoire étranger n’entraîne pas de violation des lois de celui-ci.
 
 **Non-application aux transporteurs étrangers**
 
-- **(3)** La présente loi ne s’applique pas aux lieux de travail situés à bord des aéronefs, trains ou véhicules automobiles exploités, entre le Canada et un autre pays, par une personne autre qu’un Canadien — au sens de l’article 55 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) — , ou à bord des navires immatriculés sous le régime de lois étrangères et exploités entre le Canada et un autre pays.
+- **(3)** La présente loi ne s’applique pas aux lieux de travail situés à bord des aéronefs, trains ou véhicules automobiles exploités, entre le Canada et un autre pays, par une personne autre qu’un Canadien — au sens de l’article 55 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) —, ou à bord des navires immatriculés sous le régime de lois étrangères et exploités entre le Canada et un autre pays.
 
 **Non-application aux trains de banlieue**
 
 - **(4)** La présente loi ne s’applique pas aux lieux de travail situés à bord des trains de banlieue exploités par ou pour un gouvernement ou un organisme public provincial.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202; 2015, ch. 36, art. 143.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202; 2015, ch. 36, art. 143; 2017, ch. 20, art. 178.
 
 
 
