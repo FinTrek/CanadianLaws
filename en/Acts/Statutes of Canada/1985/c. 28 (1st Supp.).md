@@ -393,10 +393,95 @@ where
 
 
 
+**Limits for trade agreement investors — paragraph 14(1)(a) or (b)**
+
+**14.11** 
+
+- **(1)** Despite the limits set out in subsections 14(3) and 14.1(1), an investment described in paragraph 14(1)(a) or (b) by a trade agreement investor, other than a state-owned enterprise, or — if the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a trade agreement investor — by a non-Canadian other than a trade agreement investor and other than a state-owned enterprise, is reviewable under section 14 only if the enterprise value, calculated in the prescribed manner, of the assets described in paragraph 14(3)(a) or (b), as the case may be, is equal to or greater than
+	- **(a)** for an investment implemented at any time in the period that begins on the day on which this paragraph comes into force and that ends on December 31 of the following calendar year, $1,500,000,000, and
+	- **(b)** for an investment implemented in any subsequent calendar year, the amount determined in respect of that calendar year under subsection (3).
+
+**Limits for trade agreement investors — paragraph 14(1)(c) or (d)**
+
+- **(2)** Despite the limits set out in subsections 14(3) and (4), an investment described in paragraph 14(1)(c) or (d) by an investor described in any of the following paragraphs is reviewable under section 14 only if the enterprise value, calculated in the prescribed manner, of the assets described in paragraph 14(3)(b) or subsection 14(4), as the case may be, is equal to or greater than the applicable amount referred to under paragaph (1)(a) or (b):
+	- **(a)** a trade agreement investor that is neither a WTO investor as defined in subsection 14.1(6) nor a state-owned enterprise; or
+	- **(b)** a non-Canadian that is not a trade agreement investor, a WTO investor as defined in subsection 14.1(6) or a state-owned enterprise, if the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a trade agreement investor.
+
+**Amount**
+
+- **(3)** The amount for any year for the purposes of paragraph (1)(b) shall be determined by the Minister in January of that year by rounding off to the nearest million dollars the amount arrived at by using the following formula:
+```
+(Current Nominal GDP at Market Prices / Previous Year Nominal GDP at Market Prices) × amount determined for previous year
+```
+where
+- **(a)** the Current Nominal GDP at Market Prices is the average of the Nominal Gross Domestic Products at market prices for the most recent four consecutive quarters; and
+- **(b)** the Previous Year Nominal GDP at Market Prices is the average of the Nominal Gross Domestic Products at market prices for the four consecutive quarters for the comparable period in the year preceding the year used in calculating the Current Nominal GDP at Market Prices.
+
+**Publication in Canada Gazette**
+
+- **(4)** As soon as possible after determining the amount for any particular year, the Minister shall publish the amount in the Canada Gazette.
+
+**Exception**
+
+- **(5)** This section does not apply in respect of an investment to acquire control of a Canadian business that is a cultural business, as defined in subsection 14.1(6).
+
+**Definitions**
+
+- **(6)** The following definitions apply in this section.
+
+***controlled by a trade agreement investor***, with respect to a Canadian business, means, despite subsection 28(2),
+- **(a)** the ultimate direct or indirect control in fact of the Canadian business by a trade agreement investor through the ownership of voting interests; or
+- **(b)** the ownership by a trade agreement investor of all or substantially all of the assets used in carrying on the Canadian business. (*sous le contrôle d’un investisseur (traité commercial)*)
+
+***trade agreement country*** means a country other than Canada that is a party either to the Agreement described in subparagraph (a)(i) of the definition trade agreement investor in this subsection or to a trade agreement listed in column 1 of the schedule. (*pays (traité commercial)*)
+
+***trade agreement investor*** means
+- **(a)** an individual, other than a Canadian, who is
+	- **(i)** a natural person within the meaning of Article 8.1 of the Agreement as defined in section 2 of the Canada-European Union Comprehensive Economic and Trade Agreement Implementation Act, or
+	- **(ii)** a national within the meaning of any provision set out in column 2 of the schedule corresponding to a trade agreement set out in column 1;
+- **(b)** the government of a trade agreement country, whether federal, state or local, or an agency of such a government;
+- **(c)** an entity that is not a Canadian-controlled entity, as determined under subsection 26(1) or (2), and that is a trade agreement investor-controlled entity, as determined in accordance with subsection (7);
+- **(d)** a corporation or limited partnership that meets the following criteria:
+	- **(i)** it is not a Canadian-controlled entity, as determined under subsection 26(1),
+	- **(ii)** it is not an entity described in paragraph (c),
+	- **(iii)** less than a majority of its voting interests are owned by trade agreement investors,
+	- **(iv)** it is not controlled in fact through the ownership of its voting interests, and
+	- **(v)** two thirds of the members of its board of directors, or two thirds of its general partners, as the case may be, are any combination of Canadians and trade agreement investors;
+- **(e)** a trust that meets the following criteria:
+	- **(i)** it is not a Canadian-controlled entity, as determined under subsection 26(1) or (2),
+	- **(ii)** it is not an entity described in paragraph (c),
+	- **(iii)** it is not controlled in fact through the ownership of its voting interests, and
+	- **(iv)** two thirds of its trustees are any combination of Canadians and trade agreement investors; or
+- **(f)** any other form of business organization specified by the regulations that is controlled by a trade agreement investor. (*investisseur (traité commercial)*)
+
+**Interpretation**
+
+- **(7)** For the purpose only of determining whether an entity is a trade agreement investor-controlled entity under paragraph (c) of the definition trade agreement investor in subsection (6),
+	- **(a)** subsections 26(1) and (2) and section 27 apply and, for that purpose,
+		- **(i)** every reference in those provisions to “Canadian” or “Canadians” shall be read and construed as a reference to “trade agreement investor” or “trade agreement investors”, respectively,
+		- **(ii)** every reference in those provisions to “non-Canadian” or “non-Canadians” shall be read and construed as a reference to “non-Canadian other than a trade agreement investor,” or “non-Canadians, other than trade agreement investors,” respectively, except for the reference to “non-Canadians” in subparagraph 27(d)(ii), which shall be read and construed as a reference to “not trade agreement investors”,
+		- **(iii)** every reference in those provisions to “Canadian-controlled” shall be read and construed as a reference to “trade agreement investor-controlled”, and
+		- **(iv)** the reference in subparagraph 27(d)(i) to “Canada” shall be read and construed as a reference to “a trade agreement country”; and
+	- **(b)** if two persons, one being a Canadian and the other being a trade agreement investor, own equally all of the voting shares of a corporation, the corporation is deemed to be trade agreement investor-controlled.
+> 2017, c. 6, s. 80.
+
+
+
+
+
 **Regulations**
 
-**14.2** The Governor in Council may make any regulations that the Governor in Council considers necessary for carrying out the purposes and provisions of section 14.1.
-> 1988, c. 65, s. 135; 1994, c. 47, s. 133; 2009, c. 2, s. 449.
+**14.2** The Governor in Council may make any regulations that the Governor in Council considers necessary for carrying out the purposes and provisions of sections 14.1 and 14.11.
+> 1988, c. 65, s. 135; 1994, c. 47, s. 133; 2009, c. 2, s. 449; 2017, c. 6, s. 80.
+
+
+
+
+
+**Order**
+
+**14.3** The Governor in Council may, by order, amend the schedule by adding, deleting or replacing the name of a trade agreement in column 1 or a corresponding provision setting out the meaning of national in column 2.
+> 2017, c. 6, s. 80.
 
 
 
@@ -1456,5 +1541,65 @@ the Minister may send a demand to the non-Canadian, requiring the non-Canadian, 
 <sup><a href='#fn_Ind77B6_hq_16781'>[*]</a></sup>**51** This Act or any provision thereof shall come into force on a day or days to be fixed by proclamation.
 
 <a name='fn_Ind77B6_hq_16781'><sup>*</sup></a>: [Note: Act in force June 30, 1985, *see* SI/85-128.]<br />
+
+
+
+
+### **SCHEDULE** 
+**(Subsection 14.11(6) and section 14.3)**
+<table>
+<tr>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Trade Agreement</th>
+<th>Provision</th>
+</tr>
+<tr>
+<td>NAFTA Agreement within the meaning of subsection 24(4) of this Act
+
+</td>
+<td>Article 201</td>
+</tr>
+<tr>
+<td>Agreement within the meaning of subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md)
+
+</td>
+<td>Article B-01</td>
+</tr>
+<tr>
+<td>Agreement within the meaning of section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md)
+
+</td>
+<td>Article 105</td>
+</tr>
+<tr>
+<td>Agreement within the meaning of section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md)
+
+</td>
+<td>Article 106</td>
+</tr>
+<tr>
+<td>Agreement within the meaning of section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md)
+
+</td>
+<td>Article 1.01</td>
+</tr>
+<tr>
+<td>Agreement within the meaning of section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md)
+
+</td>
+<td>Article 2.1</td>
+</tr>
+<tr>
+<td>Agreement within the meaning of section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md)
+
+</td>
+<td>Article 1.8</td>
+</tr>
+</table>
+
+> 2017, c. 6, s. 81.
 
 
