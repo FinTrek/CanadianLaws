@@ -87,7 +87,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** This Act applies to employees employed in or by
 	- **(a)** the departments of the Government of Canada or other portions of the public service of Canada, set out in Schedule I;
 	- **(b)** the agencies, boards, commissions or corporations set out in Schedule II; and
-	- **(c)** the Senate, House of Commons, Library of Parliament or Parliamentary Protective Service.
+	- **(c)** the Senate, House of Commons, Library of Parliament, Parliamentary Protective Service or office of the Parliamentary Budget Officer.
 
 **Idem**
 
@@ -112,7 +112,7 @@ and the staff, directors, members and officers shall, for the purposes of this A
 **Exclusion**
 
 - **(4)** For greater certainty, this Act does not apply to persons engaged as independent contractors.
-> 1991, c. 30, s. 3; 1993, c. 13, s. 3; 2015, c. 36, s. 150.
+> 1991, c. 30, s. 3; 1993, c. 13, s. 3; 2015, c. 36, s. 150; 2017, c. 20, s. 185.
 
 
 
