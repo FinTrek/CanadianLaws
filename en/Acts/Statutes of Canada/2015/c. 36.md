@@ -339,7 +339,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**55** [Amendment]
+**55** [Repealed before coming into force, 2017, c. 6, s. 136]
 
 
 
@@ -359,7 +359,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**60** [Amendment]
+**60** [Repealed before coming into force, 2017, c. 6, s. 136]
 
 
 
