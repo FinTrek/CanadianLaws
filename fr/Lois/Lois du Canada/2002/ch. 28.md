@@ -302,9 +302,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les demandes d’homologation ou de modification d’homologation d’un produit antiparasitaire sont présentées au ministre, selon les modalités qu’il précise, et doivent être accompagnées des renseignements et autres éléments prévus par règlement.
 
-**Utilisation des renseignements fournis par d’autres titulaires**
+**Utilisation des renseignements fournis par des titulaires**
 
-- **(2)** Si le ministre est convaincu que tout renseignement visé au paragraphe (1) a été fourni par le titulaire d’un produit antiparasitaire dont le principe actif a été déclaré par le ministre comme équivalant au principe actif du produit antiparasitaire du demandeur, il doit, conformément aux règlements pris en vertu de l’alinéa 67(1)h), permettre que ce renseignement soit utilisé par le demandeur ou que celui-ci puisse s’y fier.
+- **(2)** S’il conclut que le principe actif du produit antiparasitaire du demandeur est équivalent au principe actif d’un produit antiparasitaire homologué, le ministre permet au demandeur, sous réserve des règlements et en conformité avec ceux-ci, d’utiliser tout renseignement visé au paragraphe (1) fourni par un titulaire, ou de se fier à un tel renseignement, s’il est convaincu que ce renseignement :
+	- **a)** d’une part, se rapporte au produit antiparasitaire homologué contenant le principe actif équivalent;
+	- **b)** d’autre part, est nécessaire à l’appui de la demande.
 
 **Examen ou évaluation d’un pays étranger**
 
@@ -351,6 +353,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Observations**
 
 - **(10)** Pour l’application du paragraphe (9) et avant de prendre une décision définitive, le ministre donne au demandeur la possibilité de présenter ses observations sur les renseignements visés à ce paragraphe.
+> 2002, ch. 28, art. 7; 2017, ch. 6, art. 109.
+
 
 
 
@@ -487,7 +491,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Réévaluation exigée**
 
-- **(2)** Sans que soit limitée la portée générale du paragraphe (1) :
+- **(2)** Sans que soit limitée la portée générale du paragraphe (1) :
 	- **a)** lorsqu’une décision sur l’homologation d’un produit antiparasitaire, du même type que celle visée aux alinéas 28(1)a) ou b), est prise le 1<sup>er</sup> avril 1995 ou après cette date, le ministre procède à une réévaluation du produit au plus tard un an après la période de quinze ans écoulée depuis la plus récente décision de ce type;
 	- **b)** lorsque la plus récente décision sur l’homologation d’un produit antiparasitaire, du même type que celle visée aux alinéas 28(1)a) ou b), a été prise avant le 1<sup>er</sup> avril 1995, le ministre procède à une réévaluation du produit au plus tard le 1<sup>er</sup> avril 2005 ou, si cette date est postérieure, la date qui suit d’un an la période de quinze ans écoulée depuis la décision.
 
@@ -499,13 +503,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Une fois le processus de réévaluation enclenché, le ministre remet aux ministères et aux organismes publics fédéraux et provinciaux dont les intérêts et préoccupations sont en jeu un avis leur demandant de fournir, en la forme et dans le délai qui y sont prévus, les renseignements relatifs aux risques sanitaires et environnementaux et à la valeur du produit visé.
 
-**Présentation conjointe**
+**Fourniture de renseignements si plus d’un titulaire**
 
-- **(5)** Les titulaires de produits homologués dont les principes actifs ont été déclarés équivalents par le ministre peuvent fournir conjointement les renseignements exigés au paragraphe (3) ou à l’alinéa 19(1)a). S’il estime que ces renseignements ont été fournis par un ou plusieurs de ces titulaires, le ministre doit, conformément aux règlements pris en vertu de l’alinéa 67(1)h), permettre à un autre titulaire d’utiliser ces renseignements, ou de s’y fier, pour se conformer aux exigences prévues au paragraphe (3) ou à l’alinéa 19(1)a).
+- **(5)** Lorsque le ministre a conclu que les principes actifs de produits homologués sont équivalents, les titulaires de ces produits peuvent fournir conjointement les renseignements exigés au paragraphe (3) ou à l’alinéa 19(1)a); s’il est convaincu que ces renseignements ont été fournis par l’un ou plusieurs de ces titulaires, le ministre permet, sous réserve des règlements et en conformité avec ceux-ci, à un autre de ces titulaires d’utiliser ces renseignements, ou de s’y fier, pour se conformer aux exigences prévues à ce paragraphe ou à cet alinéa.
+
+**Principes actifs non équivalents**
+
+- **(5.1)** Si les principes actifs d’un produit antiparasitaire homologué sujet à la réévaluation ne sont pas équivalents aux principes actifs d’un autre produit antiparasitaire homologué, le ministre permet, sous réserve des règlements et en conformité avec ceux-ci, au titulaire du produit sujet à la réévaluation d’utiliser les renseignements fournis par le titulaire de l’autre produit antiparasitaire homologué, ou de se fier à ces renseignements, s’il est convaincu que ces renseignements sont nécessaires à la réévaluation.
 
 **Évaluation du produit**
 
 - **(6)** Une fois le processus de réévaluation enclenché, le ministre procède, en conformité avec les éventuels règlements, aux évaluations qu’il juge nécessaires en ce qui concerne la valeur du produit ou les risques sanitaires ou environnementaux qu’il présente et procède aux consultations exigées par l’article 28.
+> 2002, ch. 28, art. 16; 2017, ch. 6, art. 110.
+
 
 
 
@@ -545,13 +555,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Une fois le processus d’examen spécial enclenché, le ministre remet aux ministères et aux organismes publics fédéraux et provinciaux dont les intérêts et préoccupations sont en jeu, un avis leur demandant de fournir, en la forme et dans le délai qui y sont prévus, les renseignements relatifs aux risques sanitaires et environnementaux et à la valeur du produit visé.
 
-**Présentation conjointe**
+**Fourniture de renseignements si plus d’un titulaire**
 
-- **(3)** Les titulaires de produits homologués dont les principes actifs ont été déclarés équivalents par le ministre peuvent fournir conjointement les renseignements exigés au paragraphe (1) ou à l’alinéa 19(1)a). S’il estime que ces renseignements ont été fournis par un ou plusieurs de ces titulaires, le ministre doit, conformément aux règlements pris en vertu de l’alinéa 67(1)h), permettre à un autre titulaire d’utiliser ces renseignements, ou de s’y fier, pour se conformer aux exigences prévues au paragraphe (1) ou à l’alinéa 19(1)a).
+- **(3)** Lorsque le ministre a conclu que les principes actifs de produits homologués sont équivalents, les titulaires de ces produits peuvent fournir conjointement les renseignements exigés au paragraphe (1) ou à l’alinéa 19(1)a); s’il est convaincu que ces renseignements ont été fournis par l’un ou plusieurs de ces titulaires, le ministre permet, sous réserve des règlements et en conformité avec ceux-ci, à un autre de ces titulaires d’utiliser ces renseignements, ou de s’y fier, pour se conformer aux exigences prévues à ce paragraphe ou à cet alinéa.
+
+**Principes actifs non équivalents**
+
+- **(3.1)** Si les principes actifs d’un produit antiparasitaire homologué sujet à l’examen spécial ne sont pas équivalents aux principes actifs d’un autre produit antiparasitaire homologué, le ministre permet, sous réserve des règlements et en conformité avec ceux-ci, au titulaire du produit sujet à l’examen spécial d’utiliser les renseignements fournis par le titulaire de l’autre produit antiparasitaire homologué, ou de se fier à ces renseignements, s’il est convaincu que ces renseignements sont nécessaires à l’examen spécial.
 
 **Évaluation du produit**
 
 - **(4)** Une fois le processus d’examen spécial enclenché, le ministre évalue, en conformité avec les éventuels règlements, les aspects du produit qui justifient l’examen spécial et procède aux consultations exigées par l’article 28.
+> 2002, ch. 28, art. 18; 2017, ch. 6, art. 111.
+
 
 
 
@@ -1864,7 +1880,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Négociation et arbitrage**
 
-- **(2)** Toute entente visée au paragraphe (1) est conclue conformément aux règlements pris en vertu de l’alinéa 67(1)h) et prévoit l’établissement, au moyen de la négociation et de l’arbitrage obligatoire, des droits à payer.
+- **(2)** Toute entente visée au paragraphe (1) est conclue conformément aux règlements et prévoit, conformément à ceux-ci, l’établissement, au moyen de la négociation et de l’arbitrage obligatoire, des droits à payer.
 
 **[Loi sur l’arbitrage commercial](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(2e%20suppl.).md)**
 
@@ -1877,6 +1893,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Règlements**
 
 - **(5)** Les règlements pris par le ministre de la Justice en vertu de l’article 9 de la [Loi sur l’arbitrage commercial](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(2e%20suppl.).md) s’appliquent à toute procédure d’arbitrage visée au paragraphe (3) à moins d’avis contraire des parties.
+> 2002, ch. 28, art. 66; 2017, ch. 6, art. 112.
+
 
 
 
@@ -1890,7 +1908,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **67** 
 
 - **(1)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** prévoyant des politiques gouvernementales qui soient conformes aux objectifs de la présente loi, pour l’application de la définition de ***politique gouvernementale*** à l’article 2;
+	- **a)** prévoyant des politiques gouvernementales qui soient conformes aux objectifs de la présente loi, pour l’application de la définition de politique gouvernementale à l’article 2;
 	- **b)** établissant, pour l’application de la présente loi, la nomenclature des parasites et des produits antiparasitaires;
 	- **c)** concernant les renseignements et les éléments qui doivent accompagner les demandes visées aux articles 7 ou 10;
 	- **d)** concernant les normes de pratiques en laboratoire à respecter lorsque des essais sont effectués pour l’obtention de renseignements relatifs à un produit antiparasitaire, la certification de l’observation de ces normes, les inspections et vérifications afférentes ainsi que les conséquences de leur transgression;
@@ -1898,7 +1916,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 	- **f)** concernant l’homologation des produits antiparasitaires, notamment les types d’homologation pour des catégories de produits et, pour chaque type :
 		- **(i)** les critères et les caractéristiques,
 		- **(ii)** la période de validité ou la période de validité maximale de l’homologation, laquelle peut être d’une durée indéterminée;
-	- **f.1)** concernant les usages limités et définissant ***usage limité*** pour l’application de la présente loi et de ses règlements;
+	- **f.1)** concernant les usages limités et définissant usage limité pour l’application de la présente loi et de ses règlements;
 	- **g)** énonçant les obligations prévues par règlements qui sont des conditions d’homologation;
 	- **h)** concernant les circonstances et les conditions selon lesquelles les renseignements fournis au ministre par les titulaires peuvent être utilisés relativement à des demandes ou des homologations d’autres personnes, ou peuvent y servir d’appui, y compris les distinctions à faire entre les droits des titulaires au regard des fins auxquelles les renseignements ont été fournis au ministre;
 	- **i)** concernant la liste des produits antiparasitaires d’exportation contrôlée et les autorisations d’exportation d’un produit antiparasitaire et leur modification, leur suspension et leur révocation;
@@ -1919,6 +1937,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 	- **x)** concernant la conservation, la rétention et la confiscation des objets saisis par un inspecteur;
 	- **y)** concernant les modalités de disposition — notamment par destruction — des objets confisqués ou dont la présente loi permet la disposition;
 	- **z)** concernant les révisions visées à l’article 60;
+	- **z.01)** concernant la conclusion des ententes visées à l’article 66 et l’établissement, visé à cet article, des droits à payer au moyen de la négociation et de l’arbitrage obligatoire;
 	- **z.1)** concernant la remise ou la transmission de documents au titre de la présente loi, notamment la transmission sous forme électronique;
 	- **z.2)** concernant les droits et autres frais relatifs à l’application de la présente loi et des règlements;
 	- **z.21)** déterminant des catégories de produits antiparasitaires et des divisions et subdivisions de ces catégories;
@@ -1955,7 +1974,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 ***Accord de libre-échange nord-américain*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*North American Free Trade Agreement*)
 
 ***Accord sur l’OMC*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*WTO Agreement*)
-> 2002, ch. 28, art. 67; 2016, ch. 9, art. 59.
+> 2002, ch. 28, art. 67; 2016, ch. 9, art. 59; 2017, ch. 6, art. 113.
 
 
 
