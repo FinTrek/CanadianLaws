@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1601-1700/C.R.C.,%20c.%201605.md)
 
-# Règlement concernant les poids et mesures
+# Règlement sur les poids et mesures
 
 **C.R.C., ch. 1605**
 
@@ -10,11 +10,7 @@ Autorités habilitantes :
 ----------
 
 
-
-## Titre abrégé
-
-
-**1** Le présent règlement peut être cité sous le titre : Règlement sur les poids et mesures.
+**1** [Abrogé, DORS/2017-198, art. 2]
 
 
 
@@ -575,23 +571,17 @@ si les poids sont fabriqués en leurs formes distinctives habituelles pour indiq
 
 **29** 
 
-- **(1)** Pour l’application du paragraphe 15(1) de la Loi, le commerçant qui utilise un instrument visé à la colonne I de la partie I de l’annexe I pour la catégorie de commerce visée à la colonne II, ou qui l’a en sa possession à cette fin, le fait examiner dans le délai indiqué à la colonne III, calculé à compter de la date de délivrance la plus récente à compter du 1<sup>er</sup> août 2014 du certificat attestant la conformité de l’instrument à la Loi et au présent règlement à la suite de l’examen visé à l’alinéa 8b) ou aux articles 15 ou 15.1 de la Loi.
+- **(1)** Pour l’application du paragraphe 15(1) de la Loi, le commerçant qui utilise un instrument visé à la colonne I de la partie I de l’annexe I pour la catégorie de commerce visée à la colonne II, ou qui l’a en sa possession à cette fin, le fait examiner dans le délai indiqué à la colonne III, calculé à compter de la date de délivrance du plus récent certificat attestant la conformité de l’instrument à la Loi et au présent règlement à la suite de l’examen :
+	- **a)** soit visé à l’alinéa 8b) de la Loi et effectué avant la première utilisation de l’instrument dans le commerce;
+	- **b)** soit visé aux articles 15 ou 15.1 de la Loi.
 
-- **(2)** Dans le cas où l’instrument visé au paragraphe (1) était utilisé dans le commerce ou possédé à cette fin avant le 1<sup>er</sup> août 2014, le commerçant le fait d’abord examiner pour l’application du paragraphe 15(1) de la Loi dans celui des délais ci-après qui expire le plus tard :
-	- **a)** le délai de mise en application indiqué à la colonne I de la partie II de l’annexe I, ou à la colonne II dans le cas d’un instrument utilisé dans le commerce au détail des aliments, calculé, pour la zone géographique visée à la colonne III dans laquelle se trouve l’instrument, à compter du 1<sup>er</sup> août 2014;
-	- **b)** le délai indiqué à la colonne III de la partie I de l’annexe I, calculé à compter de la date de délivrance la plus récente avant le 1<sup>er</sup> août 2014 du certificat attestant la conformité de l’instrument à la Loi et au présent règlement dans leur version à cette date.
-
-- **(3)** Pour l’application du paragraphe (1) et de l’alinéa (2)b), dans le cas où un instrument est visé par plus d’un article de la partie I de l’annexe I, le plus court des délais indiqués à la colonne III pour ces articles s’applique.
-
-- **(4)** Pour l’application de l’alinéa (2)a), si un instrument est déplacé d’une zone géographique à une autre avant l’expiration du délai indiqué à la colonne I ou à la colonne II de la partie II de l’annexe I pour la zone géographique visée à la colonne III de laquelle il est déplacé, le délai de mise en application pour cet instrument est, à compter du 1<sup>er</sup> août 2014 :
-	- **a)** le délai de mise en application visé à la colonne I ou à la colonne II de la partie II de l’annexe I pour la zone géographique visée à la colonne III dans laquelle il est déplacé;
-	- **b)** si le délai visé à l’alinéa a) est expiré, vingt-quatre mois, ou trente-six mois dans le cas d’un instrument utilisé dans le commerce au détail des aliments.
-> DORS/93-234, art. 2(F); DORS/2014-111, art. 19.
+- **(2)** Pour l’application du paragraphe (1), dans le cas où l’instrument est visé par plus d’un article de la partie I de l’annexe I, le plus court des délais indiqués à la colonne III pour ces articles s’applique.
+> DORS/93-234, art. 2(F); DORS/2014-111, art. 19; DORS/2017-198, art. 3.
 
 
 
 
-**29.1** Pour l’application du paragraphe 15(2) de la Loi, le ministre peut accorder au commerçant une prorogation du délai visé au paragraphe 29(1) ou (2) si les conditions suivantes sont remplies :
+**29.1** Pour l’application du paragraphe 15(2) de la Loi, le ministre peut accorder au commerçant une prorogation du délai visé au paragraphe 29(1) si les conditions suivantes sont remplies :
 - **a)** le commerçant fait parvenir au bureau de Mesures Canada le plus près une demande écrite comportant les renseignements suivants :
 	- **(i)** ses nom et adresse,
 	- **(ii)** l’adresse du lieu où se trouve l’instrument, si elle est différente de celle visée au sous-alinéa (i),
@@ -604,7 +594,7 @@ si les poids sont fabriqués en leurs formes distinctives habituelles pour indiq
 	- **(ix)** la durée de la prorogation demandée, laquelle ne peut excéder un an;
 - **b)** le commerçant établit que des circonstances indépendantes de sa volonté rendent impossible l’examen de l’instrument dans le délai prévu;
 - **c)** le commerçant n’a bénéficié d’aucune autre prorogation du délai prévu.
-> DORS/2014-111, art. 19.
+> DORS/2014-111, art. 19; DORS/2017-198, art. 4.
 
 
 
@@ -7130,53 +7120,11 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 </tr>
 </table>
 
-#### PARTIE II
-<table>
-<tr>
-<th></th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Article</th>
-<th>Délai de mise en application — général</th>
-<th>Délai de mise en application — instrument utilisé dans le commerce au détail des aliments</th>
-<th>Zone géographique selon les trois premiers caractères des codes postaux</th>
-</tr>
-<tr>
-<td>1</td>
-<td>6 mois</td>
-<td>18 mois</td>
-<td>A0A, A1A, A1B, A1C, A1E, A1G, A1H, A1K, A1L, A1N, A1S, A1W, A1X, A1Y, B0H, B0M, B2T, B2V, B2W, B2X, B2Y, B2Z, B3A, B3B, B3E, B3G, B4A, B4B, B4C, B4E, B4G, E1H, E1J, E2V, E4A, E4B, E4C, E4E, E4G, E4H, E4J, E4K, E4L, E4M, E4N, E4P, E4R, E4T, E4Z, E5J, E5K, E5L, E5M, E5N, E5P, E5R, E5S, E5T, E6C, G0K, G0L, G1B, G1C, G1E, G1G, G1H, G1X, G1Y, G2B, G2C, G2E, G2G, G2J, G2K, G2L, G5H, G5L, G5M, G5N, G5R, G5T, G7B, G7G, G7H, G7J, G7K, G7N, G7P, G7S, G7T, G7X, G7Y, G7Z, G8A, H0A, H1A, H1B, H1C, H1E, H1G, H1H, H1J, H1K, H1L, H1M, H1N, H1P, H1R, H1T, H1V, H1X, H1Z, H7A, J0A, J0B, J0C, J0G, J1A, J1E, J1G, J1H, J1J, J1K, J1L, J1M, J1N, J1S, J1T, J1X, J1Z, J2A, J2B, J2C, J2E, J3P, J3R, J3T, H7B, H7C, H2A, H2E, H2P, H2R, H3N, H3P, H3R, H3X, H4P, H4W, H4V, H4B, H4X, H4E, H4H, H8N, H8P, H8R, H8S, K1B, K1C, K1E, K1G, K1H, K1J, K1S, K1W, K1Y, K1Z, K2A, K2B, K2C, K2H, K2K, K4A, L0P, L0R, L3M, L4X, L4Y, L5E, L7G, L7J, L7M, L7P, L8E, L8J, L8W, L9B, L9G, L9K, L9T, M1E, M1G, M1H, M1J, M1K, M1L, M1M, M1N, M1P, M1R, M3A, M8V, M8W, M8X, M8Y, M8Z, M9A, M9B, M9C, M9N, M9P, M9R, N0A, N0B, N0E, N0J, N0K, N0L, N0M, N0N, N0P, N0R, N1A, N1M, N1P, N1T, N2A, N2B, N2E, N2K, N2N, N2P, N2R, N2T, N2V, N3B, N3C, N3E, N3L, N3W, N3Y, N4B, N4G, N4S, N4T, N4V, N4X, N4Z, N5A, N5C, N5H, N5L, N5P, N5R, N5V, N5X, N6E, N6G, N6H, N6K, N6L, N6M, N6N, N6P, N7G, N7L, N7M, N8A, N8H, N8M, N8N, N8P, N8R, N8S, N8T, N8V, N8W, N8X, N8Y, N9A, N9B, N9C, N9E, N9G, N9H, N9J, N9K, N9V, N9Y, P0H, P0J, P0K, P0M, P0N, P0S, P1A, P1B, P1C, P2N, P3A, P3B, P3C, P3E, P3G, P3L, P3N, P3P, P3Y, P4N, P4P, P4R, R2C, R2G, R2H, R2J, R2K, R2L, R2M, R2N, R2P, R2R, R2V, R2W, R2X, R2Y, R3A, R3B, R3C, R3E, R3G, R3H, R3J, R3K, R3L, R3M, R3N, R3P, R3R, R3S, R3T, R3V, R3W, R3X, R3Y, R7A, R7B, R7C, S4L, S4N, S4P, S4R, S4S, S4T, S4V, S4W, S4X, S4Y, S4Z, S7H, S7J, S7K, S7L, S7M, S7N, S7P, S7R, S7S, S7T, S7V, T1H, T1J, T1K, T1Y, T2A, T2B, T2C, T2J, T2W, T2Z, T3B, T3H, T3J, T5A, T5C, T5E, T5L, T5M, T5N, T5P, T5R, T5W, T6B, T6H, T6J, T6K, T6L, T6N, V1M, V2K, V2L, V2M, V2N, V2Y, V2Z, V3A, V3C, V3J, V3K, V3L, V3M, V3N, V3R, V3S, V3T, V3V, V3W, V3X, V4C, V4E, V4G, V4N, V4W, V6V, V6W, V6X, V6Y, V7A, V7C, V7E</td>
-</tr>
-<tr>
-<td>2</td>
-<td>11 mois</td>
-<td>23 mois</td>
-<td>A0B, A0H, A0L, A0M, A2A, A2B, A2H, B0R, B0W, B2G, B2H, B4V, E1A, E1B, E1C, E1E, E1G, E2E, E2G, E2H, E2J, E2K, E2L, E2M, E2N, E2P, E2R, E2S, E3A, E3B, E3C, E3E, G0A, G0R, G0S, G2A, G2M, G2N, G3A, G3E, G3G, G3H, G3J, G3K, G3L, G3Z, G4A, G5A, G5V, G6C, G6E, G6J, G6K, G6L, G6V, G6W, G6X, G6Z, G7A, G8B, G8C, G8N, H2B, H2C, H2M, H2N, H3L, H3M, H4J, H4K, H4L, H4M, H4N, H4R, H4S, H4T, H4Y, H7E, H7G, H7H, H7K, H7L, H7M, H7N, H7P, H7R, H7S, H7T, H7V, H7W, H7X, H7Y, H8T, H8Y, H8Z, H9A, H9B, H9C, H9E, H9G, H9H, H9J, H9K, H9P, H9R, H9S, H9W, H9X, J0E, J0H, J2G, J2H, J2J, J2K, J2L, J2S, J2T, K1K, K1L, K1P, K1R, K2P, K6H, K6J, K6K, K6T, K6V, L2E, L2G, L2H, L2J, L2M, L2N, L2P, L2R, L2S, L2T, L2V, L2W, L3B, L3C, L4T, L4V, L4W, L4Z, L5M, L5N, L5P, L5R, L5S, L5T, L5V, L5W, L6H, L6M, L7L, L7N, L7R, L7S, L7T, L8G, L8K, L8N, L8T, L8V, L9A, L9C, M1B, M1C, M1S, M1T, M1V, M1W, M1X, M2H, M2J, M2K, M2M, M2N, M2R, M3H, M3J, M3K, M3L, M3M, M3N, M9L, M9M, M9V, M9W, N0G, N1C, N1E, N1G, N1H, N1K, N1L, N1R, N1S, N2C, N2G, N2H, N2J, N2L, N2M, N2Z, N3H, N3P, N3R, N3S, N3T, N3V, N4N, N4W, N5W, N5Y, N5Z, N6A, N6B, N6C, N6J, N7A, P0A, P0G, P2A, P5A, P5N, P6A, P6B, P6C, P7A, P7B, P7C, P7E, P7G, P7J, P7K, R0G, R0H, R0K, R1A, R1N, R2E, R4A, R4H, R4J, R4K, R4L, R5A, R5G, R5H, R6M, R6W, S0A, S0G, S0K, S2V, S4H, S6H, S6J, S6K, S6V, S6W, S6X, S9A, T1M, T1P, T1X, T2X, T2Y, T3A, T3G, T3K, T3L, T3M, T3N, T3Z, T4A, T4B, T4C, T4H, T4V, T4X, T5S, T5T, T5V, T5X, T5Y, T5Z, T6M, T6P, T6R, T6S, T6T, T6V, T6W, T6X, T7N, T7P, T7X, T7Y, T7Z, T8A, T8B, T8C, T8E, T8G, T8H, T8L, T8N, T8R, T9A, T9C, T9E, T9G, V0R, V2J, V2T, V2X, V3B, V3E, V3H, V3Y, V4K, V4P, V4R, V4X, V5A, V5B, V5C, V5E, V5G, V5H, V5J, V5K, V5M, V5P, V5R, V5S, V5W, V5X, V6M, V6N, V6P, V7B, V9G, V9K, V9L, V9P, V9R, V9S, V9T, V9V, V9X, V9Y</td>
-</tr>
-<tr>
-<td>3</td>
-<td>15 mois</td>
-<td>27 mois</td>
-<td>A0E, A0J, A0N, A2N, B0J, B0T, B2N, B3H, B3J, B3K, B3L, B3M, B3N, B3P, B3R, B3S, B3T, B3V, B3Z, tous les codes postaux commençant par la lettre C, E1N, E1V, E3L, E3Z, E4S, E4V, E4W, E4X, E4Y, E5A, E5C, E5H, E6A, E6B, E6E, E6G, E6H, E6J, E6K, E6L, E7G, E7H, E7J, E7K, E7L, E7M, E7N, E7P, E9A, E9B, E9C, E9E, E9G, E9H, G0J, G0M, G0N, G0P, G0X, G0Y, G0Z, G4W, G4Z, G5C, G5J, G5X, G5Y, G5Z, G6A, G6B, G6G, G6H, G6P, G6R, G6S, G6T, G8H, G8J, G8K, G8L, G8M, G8T, G8V, G8W, G8Y, G8Z, G9A, G9B, G9C, G9H, G9N, G9P, G9R, G9T, G9X, H0M, J0J, J0L, J0N, J0P, J0R, J0S, J0V, J2N, J2W, J2X, J2Y, J3A, J3B, J3E, J3G, J3H, J3L, J3M, J3N, J3V, J3X, J4B, J4G, J4H, J4J, J4K, J4L, J4M, J4N, J4P, J4R, J4S, J4V, J4W, J4X, J4Y, J4Z, J5A, J5J, J5R, J5V, J5W, J5X, J5Y, J5Z, J6A, J6E, J6J, J6K, J6N, J6R, J6S, J6T, J6V, J6W, J6X, J6Y, J6Z, J7A, J7B, J7C, J7E, J7G, J7H, J7J, J7K, J7L, J7M, J7N, J7P, J7R, J7T, J7V, J7X, J7Y, J7Z, J8A, J8B, J8C, J8G, J8H, J8L, J8M, K0C, K0E, K0G, K1M, K1N, K1T, K1V, K2E, K2G, K2L, K2M, K2R, K2S, K2T, K2V, K4C, K7A, K7G, K7H, L0A, L0B, L0C, L0E, L0G, L0H, L0J, L0L, L0M, L0N, L0S, L1A, L1B, L1C, L1E, L1G, L1H, L1J, L1K, L1L, L1M, L1N, L1P, L1R, L1S, L1T, L1V, L1W, L1Z, L2A, L3K, L3P, L3R, L3S, L3T, L3X, L3Y, L3Z, L4B, L4G, L4J, L4K, L4L, L4M, L4N, L4P, L5A, L5B, L5C, L5G, L5H, L5J, L5K, L5L, L6G, L7B, L7C, L7E, L8H, L8L, L8M, L8P, L8R, L8S, L9H, L9L, L9N, L9P, L9R, L9S, L9V, L9W, L9Y, N0C, N0H, N4K, N4L, N7S, N7T, N7V, N7W, N7X, P0B, P0C, P0E, P0R, P0W, P0X, P0Y, P1H, P1L, P1P, P5E, P8N, P8T, P9A, P9N, R0A, R0C, R0E, R0J, R0L, R0M, R7N, S0C, S0E, S0H, S0L, S3N, S4A, S9H, T0L, T0M, T1A, T1B, T1C, T1G, T1R, T1W, T2E, T2H, T2V, T3E, T4E, T4G, T4J, T4L, T4N, T4P, T4R, T4S, T7A, T7E, T7S, T9N, T9S, T9W, T9X, V0L, V0M, V0N, V0P, V0X, V1B, V1H, V1K, V1P, V1T, V1V, V1W, V1X, V1Y, V1Z, V2G, V2P, V2R, V2S, V2V, V2W, V4A, V4B, V4L, V4M, V4S, V4T, V4V, V4Z, V6K, V6L, V6R, V6S, V6T, V7G, V7H, V7J, V7K, V7L, V7M, V7N, V8A, V8C, V8G, V9H, V9J, V9M, V9N, V9W</td>
-</tr>
-<tr>
-<td>4</td>
-<td>18 mois</td>
-<td>30 mois</td>
-<td>A0C, A0G, A1V, A0K (sur l’île de Terre-Neuve seulement), B0C, B0E, B0K, B0L, B0N, B0S, B0V, B2C, B2J, B4H, B5A, E2A, E3N, E3Y, E7C, E7E, E8A, E8B, E8C, E8E, E8G, E8J, E8K, E8L, G0C, G0E, G0H, G0T, G0V, G0W, G4R, G4S, G4X, G5B, J0K, J0T, J0W, J0X, J0Z, J8N, J8P, J8R, J8T, J8V, J8X, J8Y, J8Z, J9A, J9B, J9E, J9H, J9J, J9L, K0A, K0B, K0H, K0J, K0K, K0L, K0M, K1X, K2J, K4M, K4P, K4R, K6A, K7C, K7K, K7L, K7M, K7N, K7P, K7R, K7V, K8A, K8B, K8H, K8N, K8P, K8R, K8V, K9A, K9H, K9J, K9K, K9L, K9V, L0K, L1X, L1Y, L3V, L4A, L4C, L4E, L4H, L4R, L4S, L6A, L6B, L6C, L6E, L6J, L6K, L6L, L9M, P0P, P0T, R8A, R8N, R9A, S0M, S0N, S0P, S9V, S9X, T0A, T0B, T0C, T0E, T0G, T0J, T0K, T2G, T2K, T2L, T2M, T2N, T2P, T2R, T2S, T2T, T3C, T5B, T5G, T5H, T5J, T5K, T6A, T6C, T6E, T6G, T7V, T8V, T8W, T8X, T9M, T9V, V0E, V0G, V0H, V0J, V0K, V0S, V0T, V0V, V1E, V1G, V1J, V1L, V1N, V1R, V1S, V2A, V2B, V2C, V2E, V2H, V3G, V7P, V7R, V7S, V7T, V7V, V7W, V8J, V8M, V8N, V8P, V8R, V8S, V8T, V8V, V8W, V8X, V8Y, V8Z, V9A, V9B, V9C, V9E</td>
-</tr>
-<tr>
-<td>5</td>
-<td>24 mois</td>
-<td>36 mois</td>
-<td>Tous les autres codes postaux</td>
-</tr>
-</table>
 
-> DORS/2014-111, art. 44.
+**PARTIE II** 
+## [Abrogée, DORS/2017-198, art. 5]
+
+> DORS/2014-111, art. 44; DORS/2017-198, art. 5.
 
 
 
