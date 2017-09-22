@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1601-1700/C.R.C.,%20ch.%201605.md)
 
-# Regulations Respecting Weights and Measures
+# Weights and Measures Regulations
 
 **C.R.C., c. 1605**
 
@@ -10,11 +10,7 @@ Enabling authorities:
 ----------
 
 
-
-## Short Title
-
-
-**1** These Regulations may be cited as the Weights and Measures Regulations.
+**1** [Repealed, SOR/2017-198, s. 2]
 
 
 
@@ -573,23 +569,17 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 
 **29** 
 
-- **(1)** For the purpose of subsection 15(1) of the Act, a trader who uses or possesses for use a device set out in column I of Part I of Schedule I, in the category of trade set out in column II, shall cause the device to be examined within the period set out in column III, counting from the most recent day on or after August 1, 2014 on which a certificate showing that the device meets the requirements of the Act and these Regulations was issued following an examination referred to in paragraph 8(b) or section 15 or 15.1 of the Act.
+- **(1)** For the purpose of subsection 15(1) of the Act, a trader who uses or possesses for use a device set out in column I of Part I of Schedule I, in the category of trade set out in column II, shall cause the device to be examined within the period set out in column III, counting from the day on which the most recent certificate showing that the device meets the requirements of the Act and these Regulations was issued following the examination referred to in
+	- **(a)** paragraph 8(b) of the Act, before the first use in trade of the device; or
+	- **(b)** section 15 or 15.1 of the Act.
 
-- **(2)** If a device referred to in subsection (1) was used in or possessed for use in trade before August 1, 2014, the trader shall first cause it to be examined for the purpose of subsection 15(1) of the Act within whichever of the following periods ends later:
-	- **(a)** the implementation period set out in column I — or, if the device is used in the retail food trade, in column II — of Part II of Schedule I for the geographic area set out in column III in which the device is located, counting from August 1, 2014; and
-	- **(b)** the period set out for the device in column III of Part I of Schedule I, counting from the most recent day before August 1, 2014 on which a certificate was issued showing that the device meets the requirements of the Act and these Regulations, as they then read.
-
-- **(3)** If a device falls under more than one item of Part I of Schedule I, the shortest period set out in column III for those items applies for the purposes of subsection (1) and paragraph (2)(b).
-
-- **(4)** For the purpose of paragraph (2)(a), if a device is moved from one geographic area to another before the expiry of the applicable implementation period set out in column I or II of Part II of Schedule I for the geographic area set out in column III from which the device is moved, the implementation period in respect of that device is, counting from August 1, 2014,
-	- **(a)** the applicable implementation period set out in column I or II of Part II of Schedule I for the geographic area set out in column III to which the device is moved; or
-	- **(b)** 24 months — or 36 months if the device is used in the retail food trade — if the period referred to in paragraph (a) has already expired.
-> SOR/93-234, s. 2(F); SOR/2014-111, s. 19.
+- **(2)** If a device falls under more than one item of Part I of Schedule I, the shortest period set out in column III for those items applies for the purposes of subsection (1).
+> SOR/93-234, s. 2(F); SOR/2014-111, s. 19; SOR/2017-198, s. 3.
 
 
 
 
-**29.1** For the purpose of subsection 15(2) of the Act, the Minister may grant to a trader an extension of a period established under subsection 29(1) or (2) if
+**29.1** For the purpose of subsection 15(2) of the Act, the Minister may grant to a trader an extension of a period established under subsection 29(1) if
 - **(a)** the trader sends to the nearest Measurement Canada office a written request containing
 	- **(i)** the trader’s name and address,
 	- **(ii)** the address where the device is located, if different from that referred to in subparagraph (i),
@@ -602,7 +592,7 @@ if the weights are manufactured in the customary distinctive shapes to denote th
 	- **(ix)** the duration of the extension being requested, not to exceed one year;
 - **(b)** the trader establishes that circumstances beyond their control make it impossible to have the device examined within the period; and
 - **(c)** the trader has not previously been granted an extension of the period.
-> SOR/2014-111, s. 19.
+> SOR/2014-111, s. 19; SOR/2017-198, s. 4.
 
 
 
@@ -7161,53 +7151,11 @@ if, in the preceding year, total retail sales of gasoline and diesel fuel of tha
 </tr>
 </table>
 
-#### PART II
-<table>
-<tr>
-<th></th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Item</th>
-<th>Implementation period — General</th>
-<th>Implementation period — Devices used in retail food trade</th>
-<th>Geographic area by first three characters of postal code</th>
-</tr>
-<tr>
-<td>1</td>
-<td>6 months</td>
-<td>18 months</td>
-<td>A0A, A1A, A1B, A1C, A1E, A1G, A1H, A1K, A1L, A1N, A1S, A1W, A1X, A1Y, B0H, B0M, B2T, B2V, B2W, B2X, B2Y, B2Z, B3A, B3B, B3E, B3G, B4A, B4B, B4C, B4E, B4G, E1H, E1J, E2V, E4A, E4B, E4C, E4E, E4G, E4H, E4J, E4K, E4L, E4M, E4N, E4P, E4R, E4T, E4Z, E5J, E5K, E5L, E5M, E5N, E5P, E5R, E5S, E5T, E6C, G0K, G0L, G1B, G1C, G1E, G1G, G1H, G1X, G1Y, G2B, G2C, G2E, G2G, G2J, G2K, G2L, G5H, G5L, G5M, G5N, G5R, G5T, G7B, G7G, G7H, G7J, G7K, G7N, G7P, G7S, G7T, G7X, G7Y, G7Z, G8A, H0A, H1A, H1B, H1C, H1E, H1G, H1H, H1J, H1K, H1L, H1M, H1N, H1P, H1R, H1T, H1V, H1X, H1Z, H7A, J0A, J0B, J0C, J0G, J1A, J1E, J1G, J1H, J1J, J1K, J1L, J1M, J1N, J1S, J1T, J1X, J1Z, J2A, J2B, J2C, J2E, J3P, J3R, J3T, H7B, H7C, H2A, H2E, H2P, H2R, H3N, H3P, H3R, H3X, H4P, H4W, H4V, H4B, H4X, H4E, H4H, H8N, H8P, H8R, H8S, K1B, K1C, K1E, K1G, K1H, K1J, K1S, K1W, K1Y, K1Z, K2A, K2B, K2C, K2H, K2K, K4A, L0P, L0R, L3M, L4X, L4Y, L5E, L7G, L7J, L7M, L7P, L8E, L8J, L8W, L9B, L9G, L9K, L9T, M1E, M1G, M1H, M1J, M1K, M1L, M1M, M1N, M1P, M1R, M3A, M8V, M8W, M8X, M8Y, M8Z, M9A, M9B, M9C, M9N, M9P, M9R, N0A, N0B, N0E, N0J, N0K, N0L, N0M, N0N, N0P, N0R, N1A, N1M, N1P, N1T, N2A, N2B, N2E, N2K, N2N, N2P, N2R, N2T, N2V, N3B, N3C, N3E, N3L, N3W, N3Y, N4B, N4G, N4S, N4T, N4V, N4X, N4Z, N5A, N5C, N5H, N5L, N5P, N5R, N5V, N5X, N6E, N6G, N6H, N6K, N6L, N6M, N6N, N6P, N7G, N7L, N7M, N8A, N8H, N8M, N8N, N8P, N8R, N8S, N8T, N8V, N8W, N8X, N8Y, N9A, N9B, N9C, N9E, N9G, N9H, N9J, N9K, N9V, N9Y, P0H, P0J, P0K, P0M, P0N, P0S, P1A, P1B, P1C, P2N, P3A, P3B, P3C, P3E, P3G, P3L, P3N, P3P, P3Y, P4N, P4P, P4R, R2C, R2G, R2H, R2J, R2K, R2L, R2M, R2N, R2P, R2R, R2V, R2W, R2X, R2Y, R3A, R3B, R3C, R3E, R3G, R3H, R3J, R3K, R3L, R3M, R3N, R3P, R3R, R3S, R3T, R3V, R3W, R3X, R3Y, R7A, R7B, R7C, S4L, S4N, S4P, S4R, S4S, S4T, S4V, S4W, S4X, S4Y, S4Z, S7H, S7J, S7K, S7L, S7M, S7N, S7P, S7R, S7S, S7T, S7V, T1H, T1J, T1K, T1Y, T2A, T2B, T2C, T2J, T2W, T2Z, T3B, T3H, T3J, T5A, T5C, T5E, T5L, T5M, T5N, T5P, T5R, T5W, T6B, T6H, T6J, T6K, T6L, T6N, V1M, V2K, V2L, V2M, V2N, V2Y, V2Z, V3A, V3C, V3J, V3K, V3L, V3M, V3N, V3R, V3S, V3T, V3V, V3W, V3X, V4C, V4E, V4G, V4N, V4W, V6V, V6W, V6X, V6Y, V7A, V7C, V7E</td>
-</tr>
-<tr>
-<td>2</td>
-<td>11 months</td>
-<td>23 months</td>
-<td>A0B, A0H, A0L, A0M, A2A, A2B, A2H, B0R, B0W, B2G, B2H, B4V, E1A, E1B, E1C, E1E, E1G, E2E, E2G, E2H, E2J, E2K, E2L, E2M, E2N, E2P, E2R, E2S, E3A, E3B, E3C, E3E, G0A, G0R, G0S, G2A, G2M, G2N, G3A, G3E, G3G, G3H, G3J, G3K, G3L, G3Z, G4A, G5A, G5V, G6C, G6E, G6J, G6K, G6L, G6V, G6W, G6X, G6Z, G7A, G8B, G8C, G8N, H2B, H2C, H2M, H2N, H3L, H3M, H4J, H4K, H4L, H4M, H4N, H4R, H4S, H4T, H4Y, H7E, H7G, H7H, H7K, H7L, H7M, H7N, H7P, H7R, H7S, H7T, H7V, H7W, H7X, H7Y, H8T, H8Y, H8Z, H9A, H9B, H9C, H9E, H9G, H9H, H9J, H9K, H9P, H9R, H9S, H9W, H9X, J0E, J0H, J2G, J2H, J2J, J2K, J2L, J2S, J2T, K1K, K1L, K1P, K1R, K2P, K6H, K6J, K6K, K6T, K6V, L2E, L2G, L2H, L2J, L2M, L2N, L2P, L2R, L2S, L2T, L2V, L2W, L3B, L3C, L4T, L4V, L4W, L4Z, L5M, L5N, L5P, L5R, L5S, L5T, L5V, L5W, L6H, L6M, L7L, L7N, L7R, L7S, L7T, L8G, L8K, L8N, L8T, L8V, L9A, L9C, M1B, M1C, M1S, M1T, M1V, M1W, M1X, M2H, M2J, M2K, M2M, M2N, M2R, M3H, M3J, M3K, M3L, M3M, M3N, M9L, M9M, M9V, M9W, N0G, N1C, N1E, N1G, N1H, N1K, N1L, N1R, N1S, N2C, N2G, N2H, N2J, N2L, N2M, N2Z, N3H, N3P, N3R, N3S, N3T, N3V, N4N, N4W, N5W, N5Y, N5Z, N6A, N6B, N6C, N6J, N7A, P0A, P0G, P2A, P5A, P5N, P6A, P6B, P6C, P7A, P7B, P7C, P7E, P7G, P7J, P7K, R0G, R0H, R0K, R1A, R1N, R2E, R4A, R4H, R4J, R4K, R4L, R5A, R5G, R5H, R6M, R6W, S0A, S0G, S0K, S2V, S4H, S6H, S6J, S6K, S6V, S6W, S6X, S9A, T1M, T1P, T1X, T2X, T2Y, T3A, T3G, T3K, T3L, T3M, T3N, T3Z, T4A, T4B, T4C, T4H, T4V, T4X, T5S, T5T, T5V, T5X, T5Y, T5Z, T6M, T6P, T6R, T6S, T6T, T6V, T6W, T6X, T7N, T7P, T7X, T7Y, T7Z, T8A, T8B, T8C, T8E, T8G, T8H, T8L, T8N, T8R, T9A, T9C, T9E, T9G, V0R, V2J, V2T, V2X, V3B, V3E, V3H, V3Y, V4K, V4P, V4R, V4X, V5A, V5B, V5C, V5E, V5G, V5H, V5J, V5K, V5M, V5P, V5R, V5S, V5W, V5X, V6M, V6N, V6P, V7B, V9G, V9K, V9L, V9P, V9R, V9S, V9T, V9V, V9X, V9Y</td>
-</tr>
-<tr>
-<td>3</td>
-<td>15 months</td>
-<td>27 months</td>
-<td>A0E, A0J, A0N, A2N, B0J, B0T, B2N, B3H, B3J, B3K, B3L, B3M, B3N, B3P, B3R, B3S, B3T, B3V, B3Z, all postal codes beginning with the letter C, E1N, E1V, E3L, E3Z, E4S, E4V, E4W, E4X, E4Y, E5A, E5C, E5H, E6A, E6B, E6E, E6G, E6H, E6J, E6K, E6L, E7G, E7H, E7J, E7K, E7L, E7M, E7N, E7P, E9A, E9B, E9C, E9E, E9G, E9H, G0J, G0M, G0N, G0P, G0X, G0Y, G0Z, G4W, G4Z, G5C, G5J, G5X, G5Y, G5Z, G6A, G6B, G6G, G6H, G6P, G6R, G6S, G6T, G8H, G8J, G8K, G8L, G8M, G8T, G8V, G8W, G8Y, G8Z, G9A, G9B, G9C, G9H, G9N, G9P, G9R, G9T, G9X, H0M, J0J, J0L, J0N, J0P, J0R, J0S, J0V, J2N, J2W, J2X, J2Y, J3A, J3B, J3E, J3G, J3H, J3L, J3M, J3N, J3V, J3X, J4B, J4G, J4H, J4J, J4K, J4L, J4M, J4N, J4P, J4R, J4S, J4V, J4W, J4X, J4Y, J4Z, J5A, J5J, J5R, J5V, J5W, J5X, J5Y, J5Z, J6A, J6E, J6J, J6K, J6N, J6R, J6S, J6T, J6V, J6W, J6X, J6Y, J6Z, J7A, J7B, J7C, J7E, J7G, J7H, J7J, J7K, J7L, J7M, J7N, J7P, J7R, J7T, J7V, J7X, J7Y, J7Z, J8A, J8B, J8C, J8G, J8H, J8L, J8M, K0C, K0E, K0G, K1M, K1N, K1T, K1V, K2E, K2G, K2L, K2M, K2R, K2S, K2T, K2V, K4C, K7A, K7G, K7H, L0A, L0B, L0C, L0E, L0G, L0H, L0J, L0L, L0M, L0N, L0S, L1A, L1B, L1C, L1E, L1G, L1H, L1J, L1K, L1L, L1M, L1N, L1P, L1R, L1S, L1T, L1V, L1W, L1Z, L2A, L3K, L3P, L3R, L3S, L3T, L3X, L3Y, L3Z, L4B, L4G, L4J, L4K, L4L, L4M, L4N, L4P, L5A, L5B, L5C, L5G, L5H, L5J, L5K, L5L, L6G, L7B, L7C, L7E, L8H, L8L, L8M, L8P, L8R, L8S, L9H, L9L, L9N, L9P, L9R, L9S, L9V, L9W, L9Y, N0C, N0H, N4K, N4L, N7S, N7T, N7V, N7W, N7X, P0B, P0C, P0E, P0R, P0W, P0X, P0Y, P1H, P1L, P1P, P5E, P8N, P8T, P9A, P9N, R0A, R0C, R0E, R0J, R0L, R0M, R7N, S0C, S0E, S0H, S0L, S3N, S4A, S9H, T0L, T0M, T1A, T1B, T1C, T1G, T1R, T1W, T2E, T2H, T2V, T3E, T4E, T4G, T4J, T4L, T4N, T4P, T4R, T4S, T7A, T7E, T7S, T9N, T9S, T9W, T9X, V0L, V0M, V0N, V0P, V0X, V1B, V1H, V1K, V1P, V1T, V1V, V1W, V1X, V1Y, V1Z, V2G, V2P, V2R, V2S, V2V, V2W, V4A, V4B, V4L, V4M, V4S, V4T, V4V, V4Z, V6K, V6L, V6R, V6S, V6T, V7G, V7H, V7J, V7K, V7L, V7M, V7N, V8A, V8C, V8G, V9H, V9J, V9M, V9N, V9W</td>
-</tr>
-<tr>
-<td>4</td>
-<td>18 months</td>
-<td>30 months</td>
-<td>A0C, A0G, A1V, A0K (on Newfoundland Island only), B0C, B0E, B0K, B0L, B0N, B0S, B0V, B2C, B2J, B4H, B5A, E2A, E3N, E3Y, E7C, E7E, E8A, E8B, E8C, E8E, E8G, E8J, E8K, E8L, G0C, G0E, G0H, G0T, G0V, G0W, G4R, G4S, G4X, G5B, J0K, J0T, J0W, J0X, J0Z, J8N, J8P, J8R, J8T, J8V, J8X, J8Y, J8Z, J9A, J9B, J9E, J9H, J9J, J9L, K0A, K0B, K0H, K0J, K0K, K0L, K0M, K1X, K2J, K4M, K4P, K4R, K6A, K7C, K7K, K7L, K7M, K7N, K7P, K7R, K7V, K8A, K8B, K8H, K8N, K8P, K8R, K8V, K9A, K9H, K9J, K9K, K9L, K9V, L0K, L1X, L1Y, L3V, L4A, L4C, L4E, L4H, L4R, L4S, L6A, L6B, L6C, L6E, L6J, L6K, L6L, L9M, P0P, P0T, R8A, R8N, R9A, S0M, S0N, S0P, S9V, S9X, T0A, T0B, T0C, T0E, T0G, T0J, T0K, T2G, T2K, T2L, T2M, T2N, T2P, T2R, T2S, T2T, T3C, T5B, T5G, T5H, T5J, T5K, T6A, T6C, T6E, T6G, T7V, T8V, T8W, T8X, T9M, T9V, V0E, V0G, V0H, V0J, V0K, V0S, V0T, V0V, V1E, V1G, V1J, V1L, V1N, V1R, V1S, V2A, V2B, V2C, V2E, V2H, V3G, V7P, V7R, V7S, V7T, V7V, V7W, V8J, V8M, V8N, V8P, V8R, V8S, V8T, V8V, V8W, V8X, V8Y, V8Z, V9A, V9B, V9C, V9E</td>
-</tr>
-<tr>
-<td>5</td>
-<td>24 months</td>
-<td>36 months</td>
-<td>all other postal codes</td>
-</tr>
-</table>
 
-> SOR/2014-111, s. 44.
+**PART II** 
+## [Repealed, SOR/2017-198, s. 5]
+
+> SOR/2014-111, s. 44; SOR/2017-198, s. 5.
 
 
 
