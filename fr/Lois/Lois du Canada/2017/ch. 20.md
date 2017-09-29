@@ -1284,15 +1284,15 @@ où :
 
 **Décret**
 
-<sup><a href='#fn_IndF89E_hq_20488'>[*]</a></sup>**228** 
+**228** 
 
-- **(1)** Sous réserve du paragraphe (2), les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
+- <sup><a href='#fn_IndF89E_hq_20488'>[*]</a></sup>**(1)** Sous réserve du paragraphe (2), les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
+
+<a name='fn_IndF89E_hq_20488'><sup>*</sup></a>: [Note : Articles 196 à 219 et 222 à 227 en vigueur le 29 septembre 2017, *voir* TR/2017-60.]<br />
 
 **1<sup>er</sup> avril 2016**
 
 - **(2)** Les articles 220 et 221 sont réputés être entrés en vigueur le 1<sup>er</sup> avril 2016.
-
-<a name='fn_IndF89E_hq_20488'><sup>*</sup></a>: [Note : Les dispositions de la section 10, à l’exception des articles 220 et 221, non en vigueur.]<br />
 
 
 
