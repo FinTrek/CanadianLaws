@@ -1284,15 +1284,15 @@ where
 
 **Order in council**
 
-<sup><a href='#fn_Ind81E8_hq_20452'>[*]</a></sup>**228** 
+**228** 
 
-- **(1)** Subject to subsection (2), the provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
+- <sup><a href='#fn_Ind81E8_hq_20452'>[*]</a></sup>**(1)** Subject to subsection (2), the provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
+
+<a name='fn_Ind81E8_hq_20452'><sup>*</sup></a>: [Note: Sections 196 to 219 and 222 to 227 in force September 29, 2017, *see* SI/2017-60.]<br />
 
 **April 1, 2016**
 
 - **(2)** Sections 220 and 221 are deemed to have come into force on April 1, 2016.
-
-<a name='fn_Ind81E8_hq_20452'><sup>*</sup></a>: [Note: The provisions of Division 10, except sections 220 and 221, not in force.]<br />
 
 
 
