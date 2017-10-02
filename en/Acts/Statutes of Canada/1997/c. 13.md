@@ -1056,7 +1056,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
-**–** additives identified as flavouring substances by the Flavor and Extract Manufacturers Association (FEMA) Expert Panel in its lists of GRAS (Generally Recognized as Safe) flavouring substances referred to as “GRAS 3” to “GRAS 24” and subsequent GRAS lists, as published from time to time, if any
+**–** additives identified as generally recognized as safe (GRAS) flavouring substances by the Flavor and Extract Manufacturers Association (FEMA) Expert Panel in its lists of GRAS substances referred to as “GRAS 3” to “GRAS 24” and subsequent lists of GRAS substances, as published from time to time, if any
 
 
 
@@ -1070,7 +1070,7 @@ The following additives are excluded:
 
 
 
-**–** carboxy methyl cellulose (CAS 9000-11-7)
+**–** carboxymethyl cellulose (CAS 9000-11-7)
 
 
 
@@ -1082,7 +1082,7 @@ The following additives are excluded:
 
 
 
-**–** ethoxylated sorbitan monolaurate (CAS 9005-64-5)
+**–** polyoxyethylene sorbitan monolaurate (CAS 9005-64-5)
 
 
 
@@ -1098,18 +1098,6 @@ The following additives are excluded:
 
 
 
-**–** menthol (CAS 89-78-1)
-
-
-
-**–** l-menthol (CAS 2216-51-5)
-
-
-
-**–** l-menthone (CAS 14073-97-3)
-
-
-
 **–** n-propyl acetate (CAS 109-60-4)
 
 
@@ -1122,7 +1110,7 @@ The following additives are excluded:
 
 
 
-**–** rosin glycerol ester (CAS 8050-31-5)
+**–** glycerol esters of wood rosin (CAS 8050-31-5)
 
 
 
@@ -1350,6 +1338,6 @@ The following additives are excluded:
 **Note 2:** In column 2, ***wrapper fitted in spiral form*** means a wrapper of a cigar that is fitted with an acute angle of at least 30° to the longitudinal axis of the cigar.
 
 
-> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7.
+> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7; SOR/2017-45.
 
 
