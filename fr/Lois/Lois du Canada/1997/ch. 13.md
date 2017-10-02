@@ -1054,7 +1054,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
-**–** tout additif qualifié de substance aromatisante par le comité d’experts de l’association appelée Flavor and Extract Manufacturers Association (FEMA) dans ses listes, portant les numéros 3 à 24, de substances aromatisantes généralement reconnues inoffensives ou dans ses listes publiées subséquemment, s’il y en a
+**–** tout additif qualifié de substance aromatisante généralement reconnue comme inoffensive (« GRAS ») par le comité d’experts de l’association appelée Flavor and Extract Manufacturers Association (FEMA) dans ses listes de substances « GRAS » intitulées « GRAS 3 » à « GRAS 24 », ou dans ses listes de substances « GRAS » publiées subséquemment, s’il y en a
 
 
 
@@ -1080,7 +1080,7 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 
-**–** monolaurate de sorbitane éthoxylé (CAS 9005-64-5)
+**–** monolaurate de polyoxyéthylène de sorbitane (CAS 9005-64-5)
 
 
 
@@ -1096,18 +1096,6 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 
-**–** menthol (CAS 89-78-1)
-
-
-
-**–** l-menthol (CAS 2216-51-5)
-
-
-
-**–** l-menthone (CAS 14073-97-3)
-
-
-
 **–** acétate de n-propyle (CAS 109-60-4)
 
 
@@ -1120,7 +1108,7 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 
-**–** ester glycérique de la colophane (CAS 8050-31-5)
+**–** esters glycériques de résine de bois (CAS 8050-31-5)
 
 
 
@@ -1207,7 +1195,7 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 
-**(3)** Cigares qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+**(3)** Cigares qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
 
 
@@ -1348,6 +1336,6 @@ Ne sont toutefois pas visés les additifs suivants :
 **Note 2 :** Dans la colonne 2, ***cape apposée en hélice*** s’entend de la cape d’un cigare qui est apposée avec un angle aigu d’au moins 30 degrés par rapport à l’axe longitudinal du cigare.
 
 
-> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7.
+> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7; DORS/2017-45.
 
 
