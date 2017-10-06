@@ -11,7 +11,7 @@ Sanctionnée sur le 29 juin 2000
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -1784,6 +1784,15 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(2)** Le directeur ne peut communiquer au ministre l’information transmise au Centre à titre confidentiel qu’après avoir obtenu le consentement prévu au paragraphe (1).
 > 2010, ch. 12, art. 1872; 2014, ch. 20, art. 279; 2017, ch. 20, art. 428.
+
+
+
+
+
+**[Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md)**
+
+**53.4** Le directeur communique, sur demande, au ministre ou à un fonctionnaire du ministère des Finances, selon les modalités que le ministre ou le fonctionnaire précise, les renseignements qui relèvent du Centre et qui sont susceptibles d’aider le ministre à exercer les attributions que lui confère la [Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement](/fr/Lois/Lois%20du%20Canada/2017/ch.%2015.md).
+> 2017, ch. 15, art. 47.
 
 
 
