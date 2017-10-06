@@ -623,7 +623,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind9FBA_hq_20436'>[*]</a></sup>**49** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind9FBA_hq_20436'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind9FBA_hq_20436'><sup>*</sup></a>: [Note : Loi en vigueur le 6 octobre 2017, *voir* TR/2017-63.]<br />
 
 
 
