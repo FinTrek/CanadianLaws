@@ -1793,6 +1793,15 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 
 
+**[National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md)**
+
+**53.4** The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to the Minister or the officer, as the case may be, in the form and manner that the Minister or officer directs, any information under the control of the Centre that would assist the Minister in exercising his or her powers or performing his or her duties or functions under the [National Security and Intelligence Committee of Parliamentarians Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2015.md).
+> 2017, c. 15, s. 47.
+
+
+
+
+
 ### Reports and Information
 
 
