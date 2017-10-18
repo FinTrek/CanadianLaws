@@ -76,11 +76,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Afin de mettre en oeuvre une décision, une résolution ou une recommandation d’une organisation internationale d’États ou d’une association d’États, dont le Canada est membre, appelant à la prise de mesures économiques contre un État étranger ou s’il juge qu’une rupture sérieuse de la paix et de la sécurité internationales est susceptible d’entraîner ou a entraîné une grave crise internationale, le gouverneur en conseil peut prendre les décrets et règlements qu’il estime nécessaires concernant la restriction ou l’interdiction, à l’égard d’un État étranger, des activités énumérées au paragraphe (2). Il peut aussi, par décret, saisir, bloquer ou mettre sous séquestre, de la façon prévue par le décret, tout bien situé au Canada et détenu par un État étranger, une personne qui s’y trouve, un de ses nationaux qui ne réside pas habituellement au Canada ou en leur nom.
+- **(1)** S’il juge que s’est produit l’un ou l’autre des faits prévus au paragraphe (1.1), le gouverneur en conseil peut prendre les décrets et règlements qu’il estime nécessaires concernant la restriction ou l’interdiction, à l’égard d’un État étranger, des activités énumérées au paragraphe (2). Il peut aussi, par décret, saisir, bloquer ou mettre sous séquestre, de la façon prévue par le décret, tout bien situé au Canada et détenu par un État étranger, une personne qui s’y trouve, un de ses nationaux qui ne réside pas habituellement au Canada ou en leur nom.
+
+**Faits**
+
+- **(1.1)** Sont visés au paragraphe (1) les faits suivants :
+	- **a)** une organisation internationale d’États ou une association d’États, dont le Canada est membre, a pris une décision, adopté une résolution ou formulé une recommandation incitant ses membres à prendre des mesures économiques contre un État étranger;
+	- **b)** une rupture sérieuse de la paix et de la sécurité internationales est susceptible d’entraîner ou a entraîné une grave crise internationale;
+	- **c)** des violations graves et systématiques des droits de la personne ont été commises dans un État étranger;
+	- **d)** un national d’un État étranger, qui est un agent public étranger, au sens de l’article 2 de la [Loi sur la corruption d’agents publics étrangers](/fr/Lois/Lois%20du%20Canada/1998/ch.%2034.md) ou une personne qui est associée à un tel agent, est responsable ou complice d’avoir ordonné, supervisé ou dirigé d’une façon quelconque des actes de corruption — notamment le versement de pots-de-vin, le détournement de biens publics ou privés pour son propre bénéfice, le transfert de produits de la corruption à l’extérieur de l’État étranger ou tout acte de corruption en matière d’expropriation ou visant des marchés publics ou l’extraction de ressources naturelles — qui constituent, compte tenu notamment de leurs effets, de l’importance des sommes en jeu, du degré d’influence ou de la position d’autorité du national ou du fait que le gouvernement de l’État étranger en cause en est complice, des actes de corruption à grande échelle.
 
 **Activités interdites**
 
-- **(2)** Les activités qui peuvent être visées par les décrets et règlements d’application du présent article sont les suivantes, qu’elles se déroulent au Canada ou à l’étranger :
+- **(2)** Les activités qui peuvent être visées par les décrets et règlements d’application du présent article sont les suivantes, qu’elles se déroulent au Canada ou à l’étranger :
 	- **a)** toute opération effectuée par quiconque se trouvant au Canada ou par un Canadien se trouvant à l’étranger portant sur un bien, indépendamment de la situation de celui-ci, qui est détenu par l’État étranger visé, une autre personne qui s’y trouve, un de ses nationaux qui ne réside pas habituellement au Canada ou en leur nom;
 	- **b)** toute opération, notamment exportation, vente, fourniture ou envoi, effectuée par quiconque se trouvant au Canada ou par un Canadien se trouvant à l’étranger portant sur des marchandises, indépendamment de leur situation, qui sont destinées à cet État ou à une personne qui s’y trouve;
 	- **c)** le transfert, la fourniture ou la communication par quiconque se trouvant au Canada ou par un Canadien se trouvant à l’étranger de données techniques à cet État ou à une personne qui s’y trouve;
@@ -106,6 +114,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(6)** Le ministre peut modifier, annuler, suspendre ou rétablir un permis visé au présent article.
+> 1992, ch. 17, art. 4; 2017, ch. 21, art. 17.
+
 
 
 
