@@ -407,7 +407,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Electronic travel authorization**
 
-- **(1.01)** Despite subsection (1), a foreign national must, before entering Canada, apply for an electronic travel authorization required by the regulations by means of an electronic system, unless the regulations provide that the application may be made by other means. The application may be examined by the system or by an officer and, if the system or officer determines that the foreign national is not inadmissible and meets the requirements of this Act, the authorization may be issued by the system or officer.
+- **(1.01)** Despite subsection (1), a foreign national must, before entering Canada, apply for an electronic travel authorization required by the regulations by means of an electronic system, unless the regulations provide that the application may be made by other means. The application may be examined by an officer and, if the officer determines that the foreign national is not inadmissible and meets the requirements of this Act, the authorization may be issued by the officer.
 
 **Restriction**
 
@@ -432,7 +432,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **If sponsor does not meet requirements**
 
 - **(2)** The officer may not issue a visa or other document to a foreign national whose sponsor does not meet the sponsorship requirements of this Act.
-> 2001, c. 27, s. 11; 2008, c. 28, s. 116; 2012, c. 17, s. 5, c. 31, s. 308.
+> 2001, c. 27, s. 11; 2008, c. 28, s. 116; 2012, c. 17, s. 5, c. 31, s. 308; 2015, c. 36, s. 169.
 
 
 
@@ -559,9 +559,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(f.1)** the power to inspect, including the power to require documents to be provided for inspection, for the purpose of verifying compliance with undertakings; and
 	- **(g)** any matter for which a recommendation to the Minister or a decision may or must be made by a designated person, institution or organization with respect to a foreign national or sponsor.
 
-**Electronic travel authorization**
-
-- **(3)** For the purposes of subsection 11(1.01), the regulations may include provisions respecting the circumstances in which an application may be made by other means and respecting those other means.
+- **(3)** [Repealed, 2015, c. 36, s. 171]
 
 **Biometric information**
 
@@ -570,10 +568,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** the circumstances in which a foreign national is not required to provide certain biometric information; and
 	- **(c)** the processing of the collected biometric information, including creating biometric templates or converting the information into digital biometric formats.
 
-**Applications to be made electronically**
-
-- **(5)** The regulations may require foreign nationals who make an application for a visa or other document under subsection 11(1) and foreign nationals who were issued an invitation under Division 0.1 to apply for permanent residence to make those applications by means of an electronic system and may include provisions respecting that system, respecting the circumstances in which those applications may be made by other means and respecting those other means.
-> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313; 2013, c. 16, s. 4; 2014, c. 20, s. 301.
+- **(5)** [Repealed, 2015, c. 36, s. 171]
+> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313; 2013, c. 16, s. 4; 2014, c. 20, s. 301; 2015, c. 36, s. 171.
 
 
 
@@ -1218,10 +1214,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d.2)** the power to inspect — including the power to require documents to be provided by individuals and entities, including employers and educational institutions, for inspection — for the purpose of verifying compliance with the conditions imposed under paragraphs (d) and (d.1);
 - **(d.3)** the consequences of a failure to comply with the conditions referred to in paragraphs (d) and (d.1);
 - **(d.4)** a system of administrative monetary penalties applicable to the contravention by an employer of any conditions referred to in paragraph (d.1) and the amounts of those penalties;
-- **(d.5)** the requirement for an employer to provide a prescribed person with prescribed information in relation to a foreign national’s authorization to work in Canada for the employer, the electronic system by which that information must be provided, the circumstances in which that information may be provided by other means and those other means;
+- **(d.5)** the requirement for an employer to provide a prescribed person with prescribed information in relation to a foreign national’s authorization to work in Canada for the employer;
 - **(e)** the residency obligation under section 28, including rules for calculating applicable days and periods; and
 - **(f)** the circumstances in which a document indicating status or a travel document may or must be issued, renewed or revoked.
-> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37; 2014, c. 20, s. 302, c. 39, s. 309.
+> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37; 2014, c. 20, s. 302, c. 39, s. 309; 2015, c. 36, s. 172.
 
 
 
@@ -1265,11 +1261,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** A permanent resident or a foreign national is inadmissible on grounds of violating human or international rights for
 	- **(a)** committing an act outside Canada that constitutes an offence referred to in sections 4 to 7 of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md);
-	- **(b)** being a prescribed senior official in the service of a government that, in the opinion of the Minister, engages or has engaged in terrorism, systematic or gross human rights violations, or genocide, a war crime or a crime against humanity within the meaning of subsections 6(3) to (5) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md); or
-	- **(c)** being a person, other than a permanent resident, whose entry into or stay in Canada is restricted pursuant to a decision, resolution or measure of an international organization of states or association of states, of which Canada is a member, that imposes sanctions on a country against which Canada has imposed or has agreed to impose sanctions in concert with that organization or association.
+	- **(b)** being a prescribed senior official in the service of a government that, in the opinion of the Minister, engages or has engaged in terrorism, systematic or gross human rights violations, or genocide, a war crime or a crime against humanity within the meaning of subsections 6(3) to (5) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md);
+	- **(c)** being a person, other than a permanent resident, whose entry into or stay in Canada is restricted pursuant to a decision, resolution or measure of an international organization of states or association of states, of which Canada is a member, that imposes sanctions on a country against which Canada has imposed or has agreed to impose sanctions in concert with that organization or association;
+	- **(d)** being a person, other than a permanent resident, who is currently the subject of an order or regulation made under section 4 of the [Special Economic Measures Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2017.md) on the grounds that any of the circumstances described in paragraph 4(1.1)(c) or (d) of that Act has occurred; or
+	- **(e)** being a person, other than a permanent resident, who is currently the subject of an order or regulation made under section 4 of the [Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)](/en/Acts/Statutes%20of%20Canada/2017/c.%2021.md).
 
-- **(2)** [Repealed, 2013, c. 16, s. 14]
-> 2001, c. 27, s. 35; 2013, c. 16, s. 14.
+**Clarification**
+
+- **(2)** For greater certainty, despite section 33, a person who ceases being the subject of an order or regulation referred to in paragraph (1)(d) or (e) is no longer inadmissible under that paragraph.
+> 2001, c. 27, s. 35; 2013, c. 16, s. 14; 2017, c. 21, s. 18.
 
 
 
@@ -1472,6 +1472,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Conditions**
 
 - **(3)** An officer or the Immigration Division may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that the officer or the Division considers necessary on a permanent resident or a foreign national who is the subject of a report, an admissibility hearing or, being in Canada, a removal order.
+
+**Conditions — inadmissibility on grounds of security**
+
+- **(4)** If a report on inadmissibility on grounds of security is referred to the Immigration Division and the permanent resident or the foreign national who is the subject of the report is not detained, an officer shall also impose the prescribed conditions on the person.
+
+**Duration of conditions**
+
+- **(5)** The prescribed conditions imposed under subsection (4) cease to apply only when
+	- **(a)** the person is detained;
+	- **(b)** the report on inadmissibility on grounds of security is withdrawn;
+	- **(c)** a final determination is made not to make a removal order against the person for inadmissibility on grounds of security;
+	- **(d)** the Minister makes a declaration under subsection 42.1(1) or (2) in relation to the person; or
+	- **(e)** a removal order is enforced against the person in accordance with the regulations.
+> 2001, c. 27, s. 44; 2013, c. 16, s. 19.
+
 
 
 
@@ -1685,7 +1700,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** a final determination is made to allow their claim for refugee protection or application for protection;
 	- **(b)** they are released as a result of the Immigration Division ordering their release under section 58; or
 	- **(c)** they are released as a result of the Minister ordering their release under section 58.1.
-> 2001, c. 27, s. 56; 2012, c. 17, s. 24.
+
+**Conditions — inadmissibility on grounds of security**
+
+- **(3)** If an officer orders the release of a permanent resident or foreign national who is the subject of either a report on inadmissibility on grounds of security that is referred to the Immigration Division or a removal order for inadmissibility on grounds of security, the officer must also impose the prescribed conditions on the person.
+
+**Duration of conditions**
+
+- **(4)** The prescribed conditions imposed under subsection (3) cease to apply only when one of the events described in paragraphs 44(5)(a) to (e) occurs.
+> 2001, c. 27, s. 56; 2012, c. 17, s. 24; 2013, c. 16, ss. 22, 36.
 
 
 
@@ -1753,7 +1776,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Conditions — designated foreign national**
 
 - **(4)** If the Immigration Division orders the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, it shall also impose any condition that is prescribed.
-> 2001, c. 27, s. 58; 2012, c. 17, s. 26.
+
+**Conditions — inadmissibility on grounds of security**
+
+- **(5)** If the Immigration Division orders the release of a permanent resident or foreign national who is the subject of either a report on inadmissibility on grounds of security that is referred to the Immigration Division or a removal order for inadmissibility on grounds of security, it shall also impose the prescribed conditions on the person.
+
+**Duration of conditions**
+
+- **(6)** The prescribed conditions imposed under subsection (5) cease to apply only when one of the events described in paragraphs 44(5)(a) to (e) occurs.
+> 2001, c. 27, s. 58; 2012, c. 17, s. 26; 2013, c. 16, ss. 23, 36.
 
 
 
@@ -1772,7 +1803,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Conditions**
 
 - **(3)** If the Minister orders the release of a designated foreign national, the Minister may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that he or she considers necessary.
-> 2012, c. 17, s. 27.
+
+**Conditions — inadmissibility on grounds of security**
+
+- **(4)** If the Minister orders the release of a designated foreign national who is the subject of either a report on inadmissibility on grounds of security that is referred to the Immigration Division or a removal order for inadmissibility on grounds of security, the Minister must also impose the prescribed conditions on the person.
+
+**Duration of conditions**
+
+- **(5)** The prescribed conditions imposed under subsection (4) cease to apply only when one of the events described in paragraphs 44(5)(a) to (e) occurs.
+> 2012, c. 17, s. 27; 2013, c. 16, s. 36.
 
 
 
@@ -1798,9 +1837,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** grounds for and criteria with respect to the release of persons from detention;
 - **(a.1)** the type of conditions that an officer, the Immigration Division or the Minister may impose with respect to the release of a person from detention;
 - **(a.2)** the type of conditions that the Immigration Division must impose with respect to the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question;
+- **(a.3)** the conditions that an officer, the Immigration Division or the Minister must impose with respect to the release of a permanent resident or foreign national who is the subject of either a report on inadmissibility on grounds of security or a removal order for inadmissibility on grounds of security;
 - **(b)** factors to be considered by an officer or the Immigration Division; and
 - **(c)** special considerations that may apply in relation to the detention of minor children.
-> 2001, c. 27, s. 61; 2012, c. 17, s. 28.
+> 2001, c. 27, s. 61; 2012, c. 17, s. 28; 2013, c. 16, s. 36.
 
 
 
@@ -2066,6 +2106,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Conditions — inadmissibility on grounds of security**
+
+**77.1** 
+
+- **(1)** If a certificate stating that a permanent resident or foreign national is inadmissible on grounds of security is referred to the Federal Court and no warrant for the person’s arrest and detention is issued under section 81, the Minister of Public Safety and Emergency Preparedness shall impose the prescribed conditions on the person who is named in the certificate.
+
+**Duration of conditions**
+
+- **(2)** The prescribed conditions imposed under subsection (1) cease to apply only when
+	- **(a)** the person is detained;
+	- **(b)** the certificate stating that the person is inadmissible on grounds of security is withdrawn;
+	- **(c)** a final determination is made that the certificate is not reasonable;
+	- **(d)** the Minister makes a declaration under subsection 42.1(1) or (2) in relation to the person; or
+	- **(e)** a removal order is enforced against the person in accordance with the regulations.
+> 2013, c. 16, s. 25.
+
+
+
+
+
 **Determination**
 
 **78** The judge shall determine whether the certificate is reasonable and shall quash the certificate if he or she determines that it is not.
@@ -2144,7 +2204,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(5)** On review, the judge
 	- **(a)** shall order the person’s detention to be continued if the judge is satisfied that the person’s release under conditions would be injurious to national security or endanger the safety of any person or that they would be unlikely to appear at a proceeding or for removal if they were released under conditions; or
 	- **(b)** in any other case, shall order or confirm the person’s release from detention and set any conditions that the judge considers appropriate.
-> 2001, c. 27, s. 82; 2005, c. 10, s. 34; 2008, c. 3, s. 4.
+
+**Conditions — inadmissibility on grounds of security**
+
+- **(6)** If the judge orders the release, under paragraph (5)(b), of a person who is named in a certificate stating that they are inadmissible on grounds of security, the judge shall also impose the prescribed conditions on the person.
+
+**No review of conditions**
+
+- **(7)** The prescribed conditions imposed under subsection (6) are not subject to review under subsection (4).
+
+**Variation of conditions**
+
+- **(8)** If a person is subject to the prescribed conditions imposed under subsection (6), any variation of conditions under subsection 82.1(1) or paragraph 82.2(3)(c) is not to result in the person being subject to conditions that do not include those prescribed conditions.
+
+**Duration of conditions**
+
+- **(9)** The prescribed conditions imposed under subsection (6) cease to apply only when one of the events described in paragraphs 77.1(2)(a) to (e) occurs.
+> 2001, c. 27, s. 82; 2005, c. 10, s. 34; 2008, c. 3, s. 4; 2013, c. 16, s. 26.
 
 
 
@@ -2465,14 +2541,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **87.2** 
 
-- **(1)** The regulations may provide for any matter relating to the application of this Division and may include provisions respecting conditions and qualifications that persons must meet to be included in the list referred to in subsection 85(1) and additional qualifications that are assets that may be taken into account for that purpose.
+- **(1)** The regulations may provide for any matter relating to the application of this Division and may include provisions respecting
+	- **(a)** the conditions that must be imposed under subsection 77.1(1) or 82(6); and
+	- **(b)** the conditions and qualifications that persons must meet to be included in the list referred to in subsection 85(1) and the additional qualifications that are assets that may be taken into account for that purpose.
 
 **Requirements**
 
 - **(2)** The regulations
 	- **(a)** shall require that, to be included in the list, persons be members in good standing of the bar of a province, not be employed in the federal public administration, and not otherwise be associated with the federal public administration in such a way as to impair their ability to protect the interests of the permanent resident or foreign national; and
 	- **(b)** may include provisions respecting those requirements.
-> 2008, c. 3, s. 4.
+> 2008, c. 3, s. 4; 2013, c. 16, s. 27.
 
 
 
@@ -2698,15 +2776,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **89.2** 
 
 - **(1)** The regulations may
-	- **(a)** govern fees to be paid in respect of the compliance regime that applies to employers in relation to their employment of foreign nationals whose authorizations to work in Canada do not require an assessment provided by the Department of Employment and Social Development;
-	- **(b)** govern cases in which the fees referred to in paragraph (a) are waived;
-	- **(c)** require employers to pay the fees referred to in paragraph (a) by means of an electronic system; and
-	- **(d)** include provisions respecting that system, respecting the circumstances in which those fees may be paid by other means and respecting those other means.
+	- **(a)** govern fees to be paid in respect of the compliance regime that applies to employers in relation to their employment of foreign nationals whose authorizations to work in Canada do not require an assessment provided by the Department of Employment and Social Development; and
+	- **(b)** govern cases in which the fees referred to in paragraph (a) are waived.
+	- **(c) and (d)** [Repealed, 2015, c. 36, s. 173]
 
 **[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
 - **(2)** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to fees referred to in paragraph (1)(a).
-> 2014, c. 39, s. 312; 2017, c. 20, s. 454.
+> 2014, c. 39, s. 312; 2015, c. 36, s. 173; 2017, c. 20, s. 454.
 
 
 
@@ -4617,6 +4694,90 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Rights not affected**
 
 **186** Nothing in sections 176 to 185 affects any right or power of the Governor in Council in relation to the removal of a member from office for cause.
+
+
+
+
+**PART 4.1** 
+## Electronic Administration
+
+
+
+**Powers**
+
+**186.1** 
+
+- **(1)** The Minister may administer this Act using electronic means, including as it relates to its enforcement.
+
+**Exception**
+
+- **(2)** This Part does not apply to the Minister of Employment and Social Development in respect of any activity the administration of which is the responsibility of that Minister under this Act.
+
+**Officer**
+
+- **(3)** For greater certainty, any person or class of persons who are designated as officers by the Minister to carry out any purpose of this Act may, in the exercise of their powers or the performance of their duties and functions, use the electronic means that are made available or specified by the Minister.
+
+**Delegation**
+
+- **(4)** For greater certainty, a person who has been authorized by the Minister to do anything that may be done by the Minister under this Act, may do so using the electronic means that are made available or specified by the Minister.
+
+**Decision, determination or examination by automated system**
+
+- **(5)** For greater certainty, an electronic system, including an automated system, may be used by the Minister to make a decision or determination under this Act, or by an officer to make a decision or determination or to proceed with an examination under this Act, if the system is made available to the officer by the Minister.
+> 2015, c. 36, s. 175.
+
+
+
+
+
+**Conditions for electronic version**
+
+**186.2** A requirement under this Act to provide a signature, or to make an application, request, claim, decision or determination, or to submit or issue any document, or to give notice or provide information, or to submit a document in its original form, is satisfied by its electronic version, if
+- **(a)** the electronic version is provided by the electronic means, including an electronic system, that are made available or specified by the Minister; and
+- **(b)** any other requirements that may be prescribed have been met.
+> 2015, c. 36, s. 175.
+
+
+
+
+
+**Regulations**
+
+**186.3** 
+
+- **(1)** The regulations may provide for any matter respecting the application of section 186.1 and paragraph 186.2(b), and may include provisions respecting
+	- **(a)** the technology or format to be used, or the standards, specifications or processes to be followed, including for the making or verifying of an electronic signature and the manner in which it is to be used; and
+	- **(b)** the date and time when, and the place where, an electronic version of an application, request, claim, notice, decision, determination, document or any information is deemed to be sent or received.
+
+**Requirement to use electronic means**
+
+- **(2)** The regulations may require a foreign national or another individual who, or entity that, makes an application, request or claim, submits any document or provides information under this Act to do so using electronic means, including an electronic system. The regulations may also include provisions respecting those means, including that system, respecting the circumstances in which that application, request or claim may be made, the document may be submitted or the information may be provided by other means and respecting those other means.
+
+**Minister’s power**
+
+- **(3)** The regulations may prescribe the circumstances in which the Minister may require a foreign national or another individual who, or an entity that, makes an application, request or claim, submits any document or provides information under this Act to do so using any means that are specified by the Minister.
+
+**Electronic payments**
+
+- **(4)** The regulations may
+	- **(a)** require that payments that are required to be made or evidence of payment that is required to be provided under this Act must be made or provided by means of an electronic system;
+	- **(b)** include provisions respecting such a system, respecting the circumstances in which those payments may be made or evidence of payments may be provided by other means, and respecting those other means; and
+	- **(c)** include provisions respecting the date and time when, and the place where, an electronic payment or evidence of payment is deemed to be sent or received.
+
+**Incorporation by reference**
+
+- **(5)** The regulations may incorporate by reference the standards or specifications of any government, person or organization, either as they exist on a specified date or as amended from time to time.
+> 2015, c. 36, s. 175.
+
+
+
+
+
+**Clarification**
+
+**186.4** If any provision of this Act or the regulations authorizes an officer or another individual to require a foreign national or another individual or an entity to submit a visa or other document or to provide information, the officer or individual is not precluded by this Part from requiring the foreign national, other individual or entity to submit the visa or other document or to provide the information, as the case may be, in accordance with that provision.
+> 2015, c. 36, s. 175.
+
 
 
 
