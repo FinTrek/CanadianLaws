@@ -76,12 +76,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** The Governor in Council may, for the purpose of implementing a decision, resolution or recommendation of an international organization of states or association of states, of which Canada is a member, that calls on its members to take economic measures against a foreign state, or where the Governor in Council is of the opinion that a grave breach of international peace and security has occurred that has resulted or is likely to result in a serious international crisis,
+- **(1)** The Governor in Council may, if the Governor in Council is of the opinion that any of the circumstances described in subsection (1.1) has occurred,
 	- **(a)** make such orders or regulations with respect to the restriction or prohibition of any of the activities referred to in subsection (2) in relation to a foreign state as the Governor in Council considers necessary; and
 	- **(b)** by order, cause to be seized, frozen or sequestrated in the manner set out in the order any property situated in Canada that is held by or on behalf of
 		- **(i)** a foreign state,
 		- **(ii)** any person in that foreign state, or
 		- **(iii)** a national of that foreign state who does not ordinarily reside in Canada.
+
+**Circumstances**
+
+- **(1.1)** The circumstances referred to in subsection (1) are the following:
+	- **(a)** an international organization of states or association of states, of which Canada is a member, has made a decision or a recommendation or adopted a resolution calling on its members to take economic measures against a foreign state;
+	- **(b)** a grave breach of international peace and security has occurred that has resulted in or is likely to result in a serious international crisis;
+	- **(c)** gross and systematic human rights violations have been committed in a foreign state; or
+	- **(d)** a national of a foreign state who is either a foreign public official, within the meaning of section 2 of the [Corruption of Foreign Public Officials Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2034.md), or an associate of such an official, is responsible for or complicit in ordering, controlling or otherwise directing acts of corruption — including bribery, the misappropriation of private or public assets for personal gain, the transfer of the proceeds of corruption to foreign states or any act of corruption related to expropriation, government contracts or the extraction of natural resources — which amount to acts of significant corruption when taking into consideration, among other things, their impact, the amounts involved, the foreign national’s influence or position of authority or the complicity of the government of the foreign state in question in the acts.
 
 **Restricted or prohibited activities**
 
@@ -111,6 +119,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Idem**
 
 - **(6)** The Minister may amend, suspend, revoke or reinstate any permit issued by the Minister under subsection (4).
+> 1992, c. 17, s. 4; 2017, c. 21, s. 17.
+
 
 
 
