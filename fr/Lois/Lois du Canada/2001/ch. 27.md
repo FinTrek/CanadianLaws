@@ -407,7 +407,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autorisation de voyage électronique**
 
-- **(1.01)** Malgré le paragraphe (1), l’étranger doit, préalablement à son entrée au Canada, demander une autorisation de voyage électronique requise par règlement au moyen d’un système électronique, sauf si les règlements prévoient que la demande peut être faite par tout autre moyen. S’il détermine, à la suite d’un contrôle, que l’étranger n’est pas interdit de territoire et se conforme à la présente loi, le système ou l’agent peut délivrer l’autorisation.
+- **(1.01)** Malgré le paragraphe (1), l’étranger doit, préalablement à son entrée au Canada, demander l’autorisation de voyage électronique requise par règlement au moyen d’un système électronique, sauf si les règlements prévoient que la demande peut être faite par tout autre moyen. S’il décide, à la suite d’un contrôle, que l’étranger n’est pas interdit de territoire et se conforme à la présente loi, l’agent peut délivrer l’autorisation.
 
 **Réserve**
 
@@ -432,7 +432,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas de la demande parrainée**
 
 - **(2)** Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
-> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116; 2012, ch. 17, art. 5, ch. 31, art. 308.
+> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116; 2012, ch. 17, art. 5, ch. 31, art. 308; 2015, ch. 36, art. 169.
 
 
 
@@ -559,9 +559,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f.1)** les pouvoirs d’inspection, notamment celui d’exiger la fourniture de tout document pour inspection, à des fins de vérification du respect des engagements;
 	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
 
-**Autorisation de voyage électronique**
-
-- **(3)** Pour l’application du paragraphe 11(1.01), les règlements peuvent prévoir notamment les cas où la demande peut être faite par tout autre moyen qui y est prévu.
+- **(3)** [Abrogé, 2015, ch. 36, art. 171]
 
 **Biométrie**
 
@@ -570,10 +568,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les cas où l’étranger n’a pas à fournir certains renseignements biométriques;
 	- **c)** le traitement des renseignements biométriques recueillis, notamment la création d’un modèle biométrique et la conversion des renseignements en format numérique biométrique.
 
-**Demandes au moyen d’un système électronique**
-
-- **(5)** Les règlements peuvent exiger des étrangers qui font une demande de visa ou d’autres documents en vertu du paragraphe 11(1) et de ceux à qui une invitation à présenter une demande de résidence permanente a été formulée en vertu de la section 0.1 qu’ils la fassent au moyen d’un système électronique, ainsi que régir ce système et prévoir les cas où les demandes peuvent être faites par tout autre moyen qui y est prévu.
-> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309 et 313; 2013, ch. 16, art. 4; 2014, ch. 20, art. 301.
+- **(5)** [Abrogé, 2015, ch. 36, art. 171]
+> 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309 et 313; 2013, ch. 16, art. 4; 2014, ch. 20, art. 301; 2015, ch. 36, art. 171.
 
 
 
@@ -1212,10 +1208,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d.2)** les pouvoirs d’inspection, dont celui d’exiger la fourniture par toute personne ou entité, notamment des employeurs et des établissements d’enseignement, de tout document pour inspection, à des fins de vérification du respect des conditions imposées en vertu des alinéas d) et d.1);
 - **d.3)** les conséquences du non-respect des conditions visées aux alinéas d) et d.1);
 - **d.4)** le régime de sanctions administratives pécuniaires applicable aux cas de non-respect par un employeur de toute condition visée à l’alinéa d.1) et le montant des pénalités imposées au titre de ce régime;
-- **d.5)** l’exigence pour un employeur de fournir, à la personne visée par règlement, les renseignements réglementaires relatifs à l’autorisation pour un étranger d’exercer un emploi au Canada pour cet employeur, ainsi que sur le système électronique au moyen duquel ces renseignements doivent être fournis, les cas où ils peuvent être fournis par tout autre moyen et le moyen en question;
+- **d.5)** l’exigence pour un employeur de fournir, à la personne visée par règlement, les renseignements réglementaires relatifs à l’autorisation pour un étranger d’exercer un emploi au Canada pour cet employeur;
 - **e)** l’obligation de résidence, et les règles de calcul des jours et périodes applicables;
 - **f)** les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
-> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37; 2014, ch. 20, art. 302, ch. 39, art. 309.
+> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37; 2014, ch. 20, art. 302, ch. 39, art. 309; 2015, ch. 36, art. 172.
 
 
 
@@ -1260,10 +1256,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Emportent interdiction de territoire pour atteinte aux droits humains ou internationaux les faits suivants :
 	- **a)** commettre, hors du Canada, une des infractions visées aux articles 4 à 7 de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md);
 	- **b)** occuper un poste de rang supérieur — au sens du règlement — au sein d’un gouvernement qui, de l’avis du ministre, se livre ou s’est livré au terrorisme, à des violations graves ou répétées des droits de la personne ou commet ou a commis un génocide, un crime contre l’humanité ou un crime de guerre au sens des paragraphes 6(3) à (5) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md);
-	- **c)** être, sauf s’agissant du résident permanent, une personne dont l’entrée ou le séjour au Canada est limité au titre d’une décision, d’une résolution ou d’une mesure d’une organisation internationale d’États ou une association d’États dont le Canada est membre et qui impose des sanctions à l’égard d’un pays contre lequel le Canada a imposé — ou s’est engagé à imposer — des sanctions de concert avec cette organisation ou association.
+	- **c)** être, sauf s’agissant du résident permanent, une personne dont l’entrée ou le séjour au Canada est limité au titre d’une décision, d’une résolution ou d’une mesure d’une organisation internationale d’États ou une association d’États dont le Canada est membre et qui impose des sanctions à l’égard d’un pays contre lequel le Canada a imposé — ou s’est engagé à imposer — des sanctions de concert avec cette organisation ou association;
+	- **d)** être, sauf dans le cas du résident permanent, une personne présentement visée par un décret ou un règlement pris, au motif que s’est produit l’un ou l’autre des faits prévus aux alinéas 4(1.1)c) ou d) de la [Loi sur les mesures économiques spéciales](/fr/Lois/Lois%20du%20Canada/1992/ch.%2017.md), en vertu de l’article 4 de cette loi;
+	- **e)** être, sauf dans le cas du résident permanent, une personne présentement visée par un décret ou un règlement pris en vertu de l’article 4 de la [Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski)](/fr/Lois/Lois%20du%20Canada/2017/ch.%2021.md).
 
-- **(2)** [Abrogé, 2013, ch. 16, art. 14]
-> 2001, ch. 27, art. 35; 2013, ch. 16, art. 14.
+**Précision**
+
+- **(2)** Il est entendu que, malgré l’article 33, la personne qui cesse d’être visée par un décret ou un règlement visé aux alinéas (1)d) ou e) cesse dès lors d’être interdite de territoire en application de l’alinéa en cause.
+> 2001, ch. 27, art. 35; 2013, ch. 16, art. 14; 2017, ch. 21, art. 18.
 
 
 
@@ -1461,6 +1461,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions**
 
 - **(3)** L’agent ou la Section de l’immigration peut imposer les conditions qu’il estime nécessaires, notamment la remise d’une garantie d’exécution, au résident permanent ou à l’étranger qui fait l’objet d’un rapport ou d’une enquête ou, étant au Canada, d’une mesure de renvoi.
+
+**Conditions — interdiction de territoire pour raison de sécurité**
+
+- **(4)** Si l’affaire relative à un rapport d’interdiction de territoire pour raison de sécurité est déférée à la Section de l’immigration et que le résident permanent ou l’étranger qui fait l’objet du rapport n’est pas détenu, l’agent impose également à celui-ci les conditions réglementaires.
+
+**Durée des conditions**
+
+- **(5)** Les conditions réglementaires imposées en vertu du paragraphe (4) ne cessent de s’appliquer que lorsque survient l’un ou l’autre des événements suivants :
+	- **a)** la détention de l’intéressé;
+	- **b)** le retrait du rapport d’interdiction de territoire pour raison de sécurité;
+	- **c)** la décision, en dernier ressort, selon laquelle n’est prise contre l’intéressé aucune mesure de renvoi pour interdiction de territoire pour raison de sécurité;
+	- **d)** la déclaration du ministre faite à l’égard de l’intéressé en vertu des paragraphes 42.1(1) ou (2);
+	- **e)** l’exécution de la mesure de renvoi visant l’intéressé conformément aux règlements.
+> 2001, ch. 27, art. 44; 2013, ch. 16, art. 19.
+
 
 
 
@@ -1671,7 +1686,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’accueil en dernier ressort de sa demande d’asile ou de protection;
 	- **b)** la prise d’effet de sa mise en liberté, prononcée par la section en vertu de l’article 58;
 	- **c)** la prise d’effet de sa mise en liberté, ordonnée par le ministre au titre de l’article 58.1.
-> 2001, ch. 27, art. 56; 2012, ch. 17, art. 24.
+
+**Conditions — interdiction de territoire pour raison de sécurité**
+
+- **(3)** Lorsqu’il ordonne la mise en liberté d’un résident permanent ou d’un étranger soit qui fait l’objet d’un rapport d’interdiction de territoire pour raison de sécurité et dont l’affaire est déférée à la section, soit qui fait l’objet d’une mesure de renvoi pour interdiction de territoire pour raison de sécurité, l’agent lui impose également les conditions réglementaires.
+
+**Durée des conditions**
+
+- **(4)** Les conditions réglementaires imposées en vertu du paragraphe (3) ne cessent de s’appliquer que lorsque survient l’un ou l’autre des événements mentionnés aux alinéas 44(5)a) à e).
+> 2001, ch. 27, art. 56; 2012, ch. 17, art. 24; 2013, ch. 16, art. 22 et 36.
 
 
 
@@ -1739,7 +1762,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions — étranger désigné**
 
 - **(4)** Lorsqu’elle ordonne la mise en liberté d’un étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause, la section impose également les conditions prévues par règlement.
-> 2001, ch. 27, art. 58; 2012, ch. 17, art. 26.
+
+**Conditions — interdiction de territoire pour raison de sécurité**
+
+- **(5)** Lorsqu’elle ordonne la mise en liberté d’un résident permanent ou d’un étranger soit qui fait l’objet d’un rapport d’interdiction de territoire pour raison de sécurité et dont l’affaire est déférée à la section, soit qui fait l’objet d’une mesure de renvoi pour interdiction de territoire pour raison de sécurité, la section lui impose également les conditions réglementaires.
+
+**Durée des conditions**
+
+- **(6)** Les conditions réglementaires imposées en vertu du paragraphe (5) ne cessent de s’appliquer que lorsque survient l’un ou l’autre des événements mentionnés aux alinéas 44(5)a) à e).
+> 2001, ch. 27, art. 58; 2012, ch. 17, art. 26; 2013, ch. 16, art. 23 et 36.
 
 
 
@@ -1758,7 +1789,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions**
 
 - **(3)** Lorsqu’il ordonne la mise en liberté d’un étranger désigné, le ministre peut assortir la mise en liberté des conditions qu’il estime nécessaires, notamment la remise d’une garantie.
-> 2012, ch. 17, art. 27.
+
+**Conditions — interdiction de territoire pour raison de sécurité**
+
+- **(4)** Lorsqu’il ordonne la mise en liberté d’un étranger désigné soit qui fait l’objet d’un rapport d’interdiction de territoire pour raison de sécurité et dont l’affaire est déférée à la section, soit qui fait l’objet d’une mesure de renvoi pour interdiction de territoire pour raison de sécurité, le ministre impose également les conditions réglementaires.
+
+**Durée des conditions**
+
+- **(5)** Les conditions réglementaires imposées en vertu du paragraphe (4) ne cessent de s’appliquer que lorsque survient l’un ou l’autre des événements mentionnés aux alinéas 44(5)a) à e).
+> 2012, ch. 17, art. 27; 2013, ch. 16, art. 36.
 
 
 
@@ -1784,9 +1823,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** les motifs et critères relatifs à la mise en liberté;
 - **a.1)** le type de conditions relatives à la mise en liberté que peut imposer l’agent, la section ou le ministre;
 - **a.2)** le type de conditions relatives à la mise en liberté d’un étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause que doit imposer la section;
+- **a.3)** les conditions relatives à la mise en liberté du résident permanent ou de l’étranger qui fait l’objet soit d’un rapport d’interdiction de territoire pour raison de sécurité, soit d’une mesure de renvoi pour interdiction de territoire pour raison de sécurité que doit imposer l’agent, la section ou le ministre;
 - **b)** les critères dont l’agent et la section doivent tenir compte;
 - **c)** les éléments particuliers à prendre en compte pour la détention des mineurs.
-> 2001, ch. 27, art. 61; 2012, ch. 17, art. 28.
+> 2001, ch. 27, art. 61; 2012, ch. 17, art. 28; 2013, ch. 16, art. 36.
 
 
 
@@ -2048,6 +2088,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Conditions — interdiction de territoire pour raison de sécurité**
+
+**77.1** 
+
+- **(1)** Si est déposé à la Cour fédérale un certificat attestant qu’un résident permanent ou un étranger est interdit de territoire pour raison de sécurité et qu’aucun mandat pour son arrestation et sa mise en détention n’a été lancé en vertu de l’article 81, le ministre de la Sécurité publique et de la Protection civile impose à la personne qui y est visée les conditions réglementaires.
+
+**Durée des conditions**
+
+- **(2)** Les conditions réglementaires imposées en vertu du paragraphe (1) ne cessent de s’appliquer que lorsque survient l’un ou l’autre des événements suivants :
+	- **a)** la détention de l’intéressé;
+	- **b)** le retrait du certificat attestant que l’intéressé est interdit de territoire pour raison de sécurité;
+	- **c)** la décision, en dernier ressort, selon laquelle le certificat ne revêt pas un caractère raisonnable;
+	- **d)** la déclaration du ministre faite à l’égard de l’intéressé en vertu des paragraphes 42.1(1) ou (2);
+	- **e)** l’exécution de la mesure de renvoi visant l’intéressé conformément aux règlements.
+> 2013, ch. 16, art. 25.
+
+
+
+
+
 **Décision**
 
 **78** Le juge décide du caractère raisonnable du certificat et l’annule s’il ne peut conclure qu’il est raisonnable.
@@ -2126,7 +2186,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(5)** Lors du contrôle, le juge :
 	- **a)** ordonne le maintien en détention s’il est convaincu que la mise en liberté sous condition de la personne constituera un danger pour la sécurité nationale ou la sécurité d’autrui ou qu’elle se soustraira vraisemblablement à la procédure ou au renvoi si elle est mise en liberté sous condition;
 	- **b)** dans les autres cas, ordonne ou confirme sa mise en liberté et assortit celle-ci des conditions qu’il estime indiquées.
-> 2001, ch. 27, art. 82; 2005, ch. 10, art. 34; 2008, ch. 3, art. 4.
+
+**Conditions — interdiction de territoire pour raison de sécurité**
+
+- **(6)** S’il ordonne, en vertu de l’alinéa (5)b), la mise en liberté d’une personne visée par un certificat attestant qu’elle est interdite de territoire pour raison de sécurité, le juge lui impose également les conditions réglementaires.
+
+**Conditions — absence de contrôle**
+
+- **(7)** Les conditions réglementaires imposées en vertu du paragraphe (6) ne peuvent faire l’objet du contrôle prévu au paragraphe (4).
+
+**Modification des conditions**
+
+- **(8)** Si des conditions réglementaires sont imposées en vertu du paragraphe (6), aucune modification de conditions en vertu du paragraphe 82.1(1) ou de l’alinéa 82.2(3)c) ne peut donner lieu à une imposition de conditions qui ne comprennent pas ces conditions réglementaires.
+
+**Durée des conditions**
+
+- **(9)** Les conditions réglementaires imposées en vertu du paragraphe (6) ne cessent de s’appliquer que lorsque survient l’un ou l’autre des événements mentionnés aux alinéas 77.1(2)a) à e).
+> 2001, ch. 27, art. 82; 2005, ch. 10, art. 34; 2008, ch. 3, art. 4; 2013, ch. 16, art. 26.
 
 
 
@@ -2447,14 +2523,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **87.2** 
 
-- **(1)** Les règlements régissent l’application de la présente section et portent notamment sur les exigences — conditions et qualités — auxquelles doit satisfaire toute personne pour que son nom figure sur la liste dressée au titre du paragraphe 85(1), ainsi que sur les autres qualités qui constituent des atouts et dont il peut être tenu compte à cette fin.
+- **(1)** Les règlements régissent l’application de la présente section et portent notamment sur :
+	- **a)** les conditions qui doivent être imposées en vertu des paragraphes 77.1(1) ou 82(6);
+	- **b)** les exigences — conditions et qualités — auxquelles doit satisfaire toute personne pour que son nom figure sur la liste dressée au titre du paragraphe 85(1), ainsi que sur les autres qualités qui constituent des atouts et dont il peut être tenu compte à cette fin.
 
 **Exigences**
 
 - **(2)** Les règlements :
 	- **a)** prévoient que, pour que le nom d’une personne puisse figurer sur la liste, celle-ci doit être membre en règle du barreau d’une province et ne pas occuper un emploi au sein de l’administration publique fédérale ni par ailleurs être associée à celle-ci de manière que sa capacité de défendre les intérêts du résident permanent ou de l’étranger serait compromise;
 	- **b)** peuvent préciser ces exigences.
-> 2008, ch. 3, art. 4.
+> 2008, ch. 3, art. 4; 2013, ch. 16, art. 27.
 
 
 
@@ -2681,14 +2759,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les règlements peuvent :
 	- **a)** prévoir les frais à payer à l’égard du régime de conformité applicable aux employeurs relativement à l’emploi par ceux-ci d’étrangers dont l’autorisation d’exercer un emploi au Canada ne requiert pas une évaluation fournie par le ministère de l’Emploi et du Développement social;
-	- **b)** prévoir les cas de dispense de paiement des frais visés à l’alinéa a);
-	- **c)** exiger de l’employeur qu’il paie les frais visés à l’alinéa a) au moyen d’un système électronique;
-	- **d)** régir ce système, les cas où les paiements peuvent être faits par tout autre moyen et le moyen en question.
+	- **b)** prévoir les cas de dispense de paiement des frais visés à l’alinéa a).
+	- **c) et d)** [Abrogés, 2015, ch. 36, art. 173]
 
 **[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
 - **(2)** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
-> 2014, ch. 39, art. 312; 2017, ch. 20, art. 454.
+> 2014, ch. 39, art. 312; 2015, ch. 36, art. 173; 2017, ch. 20, art. 454.
 
 
 
@@ -4583,6 +4660,90 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 **186** Les articles 176 à 185 n’ont pas pour effet de modifier les attributions du gouverneur en conseil en ce qui touche la révocation des commissaires.
+
+
+
+
+**PARTIE 4.1** 
+## Application par voie électronique
+
+
+
+**Pouvoir**
+
+**186.1** 
+
+- **(1)** Le ministre peut appliquer la présente loi par voie électronique, notamment en ce qui a trait à son exécution.
+
+**Exception**
+
+- **(2)** La présente partie ne vise pas le ministre de l’Emploi et du Développement social en ce qui concerne toute activité dont la mise en oeuvre relève de lui sous le régime de la présente loi.
+
+**Agent**
+
+- **(3)** Il est entendu que les personnes que le ministre désigne, individuellement ou par catégorie, à titre d’agent et charge de l’application de tout ou partie de la présente loi peuvent, dans l’exercice de leurs attributions, utiliser les moyens électroniques que le ministre met à leur disposition ou qu’il précise.
+
+**Délégation**
+
+- **(4)** Il est entendu que les personnes à qui le ministre délègue des attributions qui lui sont conférées par la présente loi peuvent, dans l’exercice de leurs attributions, utiliser les moyens électroniques que le ministre met à leur disposition ou qu’il précise.
+
+**Décision ou contrôle automatisé**
+
+- **(5)** Il est entendu qu’un système électronique, notamment un système automatisé, peut être utilisé par le ministre pour prendre une décision sous le régime de la présente loi ou, s’il est mis à sa disposition par le ministre, par un agent pour prendre une décision ou procéder à un contrôle sous le régime de la présente loi.
+> 2015, ch. 36, art. 175.
+
+
+
+
+
+**Conditions : version électronique**
+
+**186.2** Dans le cas où la présente loi exige une signature ou qu’une demande soit faite, qu’un avis soit délivré, qu’une décision soit prise, qu’un document soit soumis ou délivré ou que des renseignements soient fournis ou exige que l’original d’un document soit soumis, la version électronique de ceux-ci satisfait à l’exigence si les conditions ci-après sont réunies :
+- **a)** la version électronique est fournie par les moyens électroniques, notamment au moyen d’un système électronique, que le ministre met à la disposition des intéressés ou qu’il précise;
+- **b)** toute autre exigence réglementaire a été observée.
+> 2015, ch. 36, art. 175.
+
+
+
+
+
+**Règlements**
+
+**186.3** 
+
+- **(1)** Les règlements régissent l’application de l’article 186.1 et de l’alinéa 186.2b) et portent notamment sur :
+	- **a)** la technologie ou le format à utiliser ou les normes, les spécifications ou les procédés à respecter, notamment pour faire ou vérifier une signature électronique et la manière d’utiliser cette signature;
+	- **b)** le lieu, la date et l’heure où la version électronique d’une demande, d’un avis, d’une décision, d’un document ou de renseignements est réputée envoyée ou reçue.
+
+**Obligation d’utiliser des moyens électroniques**
+
+- **(2)** Les règlements peuvent exiger des étrangers ou d’autres personnes ou entités qui font une demande, soumettent un document ou fournissent des renseignements sous le régime de la présente loi qu’ils le fassent par voie électronique, notamment au moyen d’un système électronique. Les règlements peuvent aussi régir les moyens électroniques, notamment le système électronique, et prévoir les cas où les demandes peuvent être faites ou les renseignements ou les documents peuvent être fournis ou soumis par tout autre moyen qui y est prévu.
+
+**Pouvoir du ministre**
+
+- **(3)** Les règlements peuvent prévoir les cas où le ministre peut exiger des étrangers ou d’autres personnes ou entités qui font une demande, soumettent un document ou fournissent des renseignements sous le régime de la présente loi qu’ils le fassent par tout moyen qu’il précise.
+
+**Paiements électroniques**
+
+- **(4)** Les règlements peuvent :
+	- **a)** exiger que les paiements qui doivent être faits ou que les preuves de paiement qui doivent être fournies sous le régime de la présente loi le soient par un système électronique;
+	- **b)** régir un tel système, les cas où les paiements peuvent être faits ou les preuves de paiement peuvent être fournies par tout autre moyen et le moyen en question;
+	- **c)** porter sur le lieu, la date et l’heure où un paiement électronique ou une preuve de paiement est réputé envoyé ou reçu.
+
+**Incorporation par renvoi**
+
+- **(5)** Les règlements peuvent incorporer par renvoi des normes ou spécifications adoptées par des gouvernements, des personnes ou des organisations soit dans leur version à une date donnée, soit avec leurs modifications successives.
+> 2015, ch. 36, art. 175.
+
+
+
+
+
+**Précision**
+
+**186.4** Dans le cas où une disposition de la présente loi ou des règlements prévoit qu’un agent ou une autre personne peut exiger des étrangers ou d’autres personnes ou entités qu’ils lui soumettent un visa ou un autre document ou lui fournissent des renseignements, la présente partie n’a pas pour effet d’empêcher l’agent ou l’autre personne d’exiger que ce visa, ce document ou ces renseignements, selon le cas, lui soient soumis ou fournis en conformité avec cette disposition.
+> 2015, ch. 36, art. 175.
+
 
 
 
