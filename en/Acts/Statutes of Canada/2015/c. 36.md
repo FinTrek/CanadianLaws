@@ -1082,7 +1082,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndDEC9_hq_16029'>[*]</a></sup>**(2)** Subsections 169(1) and (2) and 171(1) and (3) and sections 172, 173 and 175 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndDEC9_hq_16029'><sup>*</sup></a>: [Note: Subsections 169(1) and (2) and 171(1) and (3) and sections 172, 173 and 175 not in force.]<br />
+<a name='fn_IndDEC9_hq_16029'><sup>*</sup></a>: [Note: Subsections 169(1) and 171(1) and (3) and sections 172, 173 and 175 in force October 18, 2017, *see* SI/2017-58.]<br />
 
 
 
