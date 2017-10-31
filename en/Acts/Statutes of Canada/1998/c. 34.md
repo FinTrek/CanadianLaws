@@ -82,17 +82,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(i)** the promotion, demonstration or explanation of the person’s products and services, or
 		- **(ii)** the execution or performance of a contract between the person and the foreign state for which the official performs duties or functions.
 
-**Facilitation payments**
-
-- **(4)** For the purpose of subsection (1), a payment is not a loan, reward, advantage or benefit to obtain or retain an advantage in the course of business, if it is made to expedite or secure the performance by a foreign public official of any act of a routine nature that is part of the foreign public official’s duties or functions, including
-	- **(a)** the issuance of a permit, licence or other document to qualify a person to do business;
-	- **(b)** the processing of official documents, such as visas and work permits;
-	- **(c)** the provision of services normally offered to the public, such as mail pick-up and delivery, telecommunication services and power and water supply; and
-	- **(d)** the provision of services normally provided as required, such as police protection, loading and unloading of cargo, the protection of perishable products or commodities from deterioration or the scheduling of inspections related to contract performance or transit of goods.
-
-**Greater certainty**
-
-- **(5)** For greater certainty, an “act of a routine nature” does not include a decision to award new business or to continue business with a particular party, including a decision on the terms of that business, or encouraging another person to make any such decision.
+- **(4) and (5)** [Repealed, 2013, c. 26, s. 3]
 > 1998, c. 34, s. 3; 2013, c. 26, s. 3.
 
 
