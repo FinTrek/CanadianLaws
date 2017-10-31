@@ -65,7 +65,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** 
 
-- **(1)** Commet une infraction quiconque, directement ou indirectement, dans le but d’obtenir ou de conserver un avantage dans le cours de ses affaires, donne, offre ou convient de donner ou d’offrir à un agent public étranger ou à toute personne au profit d’un agent public étranger un prêt, une récompense ou un avantage de quelque nature que ce soit :
+- **(1)** Commet une infraction quiconque, directement ou indirectement, dans le but d’obtenir ou de conserver un avantage dans le cours de ses affaires, donne, offre ou convient de donner ou d’offrir à un agent public étranger ou à toute personne au profit d’un agent public étranger un prêt, une récompense ou un avantage de quelque nature que ce soit :
 	- **a)** en contrepartie d’un acte ou d’une omission dans le cadre de l’exécution des fonctions officielles de cet agent;
 	- **b)** pour convaincre ce dernier d’utiliser sa position pour influencer les actes ou les décisions de l’État étranger ou de l’organisation internationale publique pour lequel il exerce ses fonctions officielles.
 
@@ -75,21 +75,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Défense**
 
-- **(3)** Nul ne peut être déclaré coupable d’une infraction prévue au paragraphe (1) si le prêt, la récompense ou l’avantage :
+- **(3)** Nul ne peut être déclaré coupable d’une infraction prévue au paragraphe (1) si le prêt, la récompense ou l’avantage :
 	- **a)** est permis ou exigé par le droit de l’État étranger ou de l’organisation internationale publique pour lequel l’agent public étranger exerce ses fonctions officielles;
 	- **b)** vise à compenser des frais réels et raisonnables faits par un agent public étranger, ou pour son compte, et liés directement à la promotion, la démonstration ou l’explication des produits et services de la personne, ou à l’exécution d’un contrat entre la personne et l’État étranger pour lequel il exerce ses fonctions officielles.
 
-**Exception**
-
-- **(4)** Ne constitue pas un prêt, une récompense ou un avantage visé au paragraphe (1) le paiement visant à hâter ou à garantir l’exécution par un agent public étranger d’un acte de nature courante qui est partie de ses fonctions officielles, notamment :
-	- **a)** la délivrance d’un permis, d’une licence ou d’un autre document qui habilite la personne à exercer une activité commerciale;
-	- **b)** la délivrance ou l’obtention d’un document officiel tel un visa ou un permis de travail;
-	- **c)** la fourniture de services publics tels que la collecte et la livraison du courrier, les services de télécommunication, la fourniture d’électricité et les services d’aqueduc;
-	- **d)** la fourniture de services occasionnels tels que la protection policière, le débardage, la protection des produits périssables contre la détérioration ou les inspections relatives à l’exécution de contrats ou au transit de marchandises.
-
-**Précision**
-
-- **(5)** Il est entendu que l’expression « acte de nature courante » ne vise ni une décision d’octroyer de nouvelles affaires ou de reconduire des affaires avec la même partie — notamment ses conditions — ni le fait d’encourager une autre personne à prendre une telle décision.
+- **(4) et (5)** [Abrogés, 2013, ch. 26, art. 3]
 > 1998, ch. 34, art. 3; 2013, ch. 26, art. 3.
 
 
