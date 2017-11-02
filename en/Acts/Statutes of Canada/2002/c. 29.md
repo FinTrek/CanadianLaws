@@ -2676,6 +2676,8 @@ Bobwhite, Northern (*Colinus virginianus*)<br />- <i>Colin de Virginie</i>
 
 Chat *auricollis* subspecies, Yellow-breasted (*Icteria virens auricollis*) Southern Mountain population<br />- <i>Paruline polyglotte de la sous-espèce auricollis population des montagnes du Sud</i>
 
+Chat *virens* subspecies, Yellow-breasted (*Icteria virens virens*)<br />- <i>Paruline polyglotte de la sous-espèce virens</i>
+
 Crane, Whooping (*Grus americana*)<br />- <i>Grue blanche</i>
 
 Crossbill *percna* subspecies, Red (*Loxia curvirostra percna*)<br />- <i>Bec-croisé des sapins de la sous-espèce percna</i>
@@ -2719,6 +2721,8 @@ Sparrow, Henslow’s (*Ammodramus henslowii*)<br />- <i>Bruant de Henslow</i>
 Tern, Roseate (*Sterna dougallii*)<br />- <i>Sterne de Dougall</i>
 
 Thrasher, Sage (*Oreoscoptes montanus*)<br />- <i>Moqueur des armoises</i>
+
+Warbler, Cerulean (*Setophaga cerulea*)<br />- <i>Paruline azurée</i>
 
 Warbler, Kirtland’s (*Dendroica kirtlandii*)<br />- <i>Paruline de Kirtland</i>
 
@@ -3214,6 +3218,8 @@ Albatross, Short-tailed (*Phoebastria albatrus*)<br />- <i>Albatros à queue cou
 
 Bittern, Least (*Ixobrychus exilis*)<br />- <i>Petit Blongios</i>
 
+Bobolink (*Dolichonyx oryzivorus*)<br />- <i>Goglu des prés</i>
+
 Flycatcher, Olive-sided (*Contopus cooperi*)<br />- <i>Moucherolle à côtés olive</i>
 
 Goshawk *laingi* subspecies, Northern (*Accipiter gentilis laingi*)<br />- <i>Autour des palombes de la sous-espèce laingi</i>
@@ -3225,6 +3231,8 @@ Hawk, Ferruginous (*Buteo regalis*)<br />- <i>Buse rouilleuse</i>
 Knot *roselaari* type, Red (*Calidris canutus roselaari* type)<br />- <i>Bécasseau maubèche du type *roselaari*</i>
 
 Longspur, Chestnut-collared (*Calcarius ornatus*)<br />- <i>Bruant à ventre noir</i>
+
+Meadowlark, Eastern (*Sturnella magna*)<br />- <i>Sturnelle des prés</i>
 
 Murrelet, Marbled (*Brachyramphus marmoratus*)<br />- <i>Guillemot marbré</i>
 
@@ -3242,15 +3250,19 @@ Shearwater, Pink-footed (*Puffinus creatopus*)<br />- <i>Puffin à pieds roses</
 
 Shrike *excubitorides* subspecies, Loggerhead (*Lanius ludovicianus excubitorides*)<br />- <i>Pie-grièche migratrice de la sous-espèce excubitorides</i>
 
+Swallow, Bank (*Riparia riparia*)<br />- <i>Hirondelle de rivage</i>
+
+Swallow, Barn (*Hirundo rustica*)<br />- <i>Hirondelle rustique</i>
+
 Swift, Chimney (*Chaetura pelagica*)<br />- <i>Martinet ramoneur</i>
 
 Thrush, Bicknell’s (*Catharus bicknelli*)<br />- <i>Grive de Bicknell</i>
 
+Thrush, Wood (*Hylocichla mustelina*)<br />- <i>Grive des bois</i>
+
 Warbler, Canada (*Wilsonia canadensis*)<br />- <i>Paruline du Canada</i>
 
 Warbler, Golden-winged (*Vermivora chrysoptera*)<br />- <i>Paruline à ailes dorées</i>
-
-Warbler, Hooded (*Wilsonia citrina*)<br />- <i>Paruline à capuchon</i>
 
 Whip-poor-will (*Caprimulgus vociferus*)<br />- <i>Engoulevent bois-pourri</i>
 
@@ -3536,8 +3548,6 @@ Albatross, Black-footed (*Phoebastria nigripes*)<br />- <i>Albatros à pieds noi
 
 Blackbird, Rusty (*Euphagus carolinus*)<br />- <i>Quiscale rouilleux</i>
 
-Chat *virens* subspecies, Yellow-breasted (*Icteria virens virens*)<br />- <i>Paruline polyglotte de la sous-espèce virens</i>
-
 Curlew, Long-billed (*Numenius americanus*)<br />- <i>Courlis à long bec</i>
 
 Duck, Harlequin (*Histrionicus histrionicus*) Eastern population<br />- <i>Arlequin plongeur population de l’Est</i>
@@ -3549,6 +3559,8 @@ Falcon *pealei* subspecies, Peregrine (*Falco peregrinus pealei*)<br />- <i>Fauc
 Goldeneye, Barrow’s (*Bucephala islandica*) Eastern population<br />- <i>Garrot d’Islande population de l’Est</i>
 
 Grebe, Horned (*Podiceps auritus*) Western population<br />- <i>Grèbe esclavon population de l’Ouest</i>
+
+Grebe, Western (*Aechmophorus occidentalis*)<br />- <i>Grèbe élégant</i>
 
 Heron *fannini* subspecies, Great Blue (*Ardea herodias fannini*)<br />- <i>Grand héron de la sous-espèce *fannini*</i>
 
@@ -3572,11 +3584,13 @@ Sandpiper, Buff-breasted (*Tryngites subruficollis*)<br />- <i>Bécasseau rouss�
 
 Sparrow, Baird’s (*Ammodramus bairdii*)<br />- <i>Bruant de Baird</i>
 
+Sparrow *pratensis* subspecies, Grasshopper (*Ammodramus savannarum pratensis*)<br />- <i>Bruant sauterelle de la sous-espèce de l’Est</i>
+
 Sparrow *princeps* subspecies, Savannah (*Passerculus sandwichensis princeps*)<br />- <i>Bruant des prés de la sous-espèce princeps</i>
 
-Warbler, Cerulean (*Dendroica cerulea*)<br />- <i>Paruline azurée</i>
-
 Waterthrush, Louisiana (*Seiurus motacilla*)<br />- <i>Paruline hochequeue</i>
+
+Wood-pewee, Eastern (*Contopus virens*)<br />- <i>Pioui de l’Est</i>
 
 
 
@@ -3825,7 +3839,7 @@ Lichen, Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseu
 Lichen, Peacock Vinyl (*Leptogium polycarpum*)<br />- <i>Leptoge à quatre spores</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229.
 
 
 
