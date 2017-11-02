@@ -2703,11 +2703,15 @@ Moucherolle vert (*Empidonax virescens*)<br />- <i>Flycatcher, Acadian</i>
 
 Mouette blanche (*Pagophila eburnea*)<br />- <i>Gull, Ivory</i>
 
+Paruline azurée (*Setophaga cerulea*)<br />- <i>Warbler, Cerulean</i>
+
 Paruline de Kirtland (*Dendroica kirtlandii*)<br />- <i>Warbler, Kirtland’s</i>
 
 Paruline orangée (*Protonotaria citrea*)<br />- <i>Warbler, Prothonotary</i>
 
 Paruline polyglotte de la sous-espèce *auricollis* (*Icteria virens auricollis*) population des montagnes du Sud<br />- <i>Chat *auricollis* subspecies, Yellow-breasted Southern Mountain population</i>
+
+Paruline polyglotte de la sous-espèce *virens* (*Icteria virens virens*)<br />- <i>Chat virens subspecies, Yellow-breasted</i>
 
 Pic à tête blanche (*Picoides albolarvatus*)<br />- <i>Woodpecker, White-headed</i>
 
@@ -3225,9 +3229,17 @@ Engoulevent bois-pourri (*Caprimulgus vociferus*)<br />- <i>Whip-poor-will</i>
 
 Engoulevent d’Amérique (*Chordeiles minor*)<br />- <i>Nighthawk, Common</i>
 
+Goglu des prés (*Dolichonyx oryzivorus*)<br />- <i>Bobolink</i>
+
 Grive de Bicknell (*Catharus bicknelli*)<br />- <i>Thrush, Bicknell’s</i>
 
+Grive des bois (*Hylocichla mustelina*)<br />- <i>Thrush, Wood</i>
+
 Guillemot marbré (*Brachyramphus marmoratus*)<br />- <i>Murrelet, Marbled</i>
+
+Hirondelle de rivage (*Riparia riparia*)<br />- <i>Swallow, Bank</i>
+
+Hirondelle rustique (*Hirundo rustica*)<br />- <i>Swallow, Barn</i>
 
 Martinet ramoneur (*Chaetura pelagica*)<br />- <i>Swift, Chimney</i>
 
@@ -3236,8 +3248,6 @@ Moucherolle à côtés olive (*Contopus cooperi*)<br />- <i>Flycatcher, Olive-si
 Mouette rosée (*Rhodostethia rosea*)<br />- <i>Gull, Ross’s</i>
 
 Paruline à ailes dorées (*Vermivora chrysoptera*)<br />- <i>Warbler, Golden-winged</i>
-
-Paruline à capuchon (*Wilsonia citrina*)<br />- <i>Warbler, Hooded</i>
 
 Paruline du Canada (*Wilsonia canadensis*)<br />- <i>Warbler, Canada</i>
 
@@ -3258,6 +3268,8 @@ Pie-grièche migratrice de la sous-espèce excubitorides (*Lanius ludovicianus e
 Pipit de Sprague (*Anthus spragueii*)<br />- <i>Pipit, Sprague’s</i>
 
 Puffin à pieds roses (*Puffinus creatopus*)<br />- <i>Shearwater, Pink-footed</i>
+
+Sturnelle des prés (*Sturnella magna*)<br />- <i>Meadowlark, Eastern</i>
 
 
 
@@ -3547,6 +3559,8 @@ Bruant de McCown (*Calcarius mccownii*)<br />- <i>Longspur, McCown’s</i>
 
 Bruant des prés de la sous-espèce *princeps* (*Passerculus sandwichensis princeps*)<br />- <i>Sparrow princeps subspecies, Savannah</i>
 
+Bruant sauterelle de la sous-espèce de l’Est (*Ammodramus savannarum pratensis*)<br />- <i>Sparrow pratensis subspecies, Grasshopper</i>
+
 Courlis à long bec (*Numenius americanus*)<br />- <i>Curlew, Long-billed</i>
 
 Effraie des clochers (*Tyto alba*) population de l’Ouest<br />- <i>Owl, Barn Western population</i>
@@ -3559,21 +3573,21 @@ Garrot d’Islande (*Bucephala islandica*) population de l’Est<br />- <i>Golde
 
 Grand héron de la sous-espèce *fannini* (*Ardea herodias fannini*)<br />- <i>Heron *fannini* subspecies, Great Blue</i>
 
+Grèbe élégant (*Aechmophorus occidentalis*)<br />- <i>Grebe, Western</i>
+
 Grèbe esclavon (*Podiceps auritus*) population de l’Ouest<br />- <i>Grebe, Horned Western population</i>
 
 Guillemot à cou blanc (*Synthliboramphus antiquus*)<br />- <i>Murrelet, Ancient</i>
 
 Hibou des marais (*Asio flammeus*)<br />- <i>Owl, Short-eared</i>
 
-Paruline azurée (*Dendroica cerulea*)<br />- <i>Warbler, Cerulean</i>
-
 Paruline hochequeue (*Seiurus motacilla*)<br />- <i>Waterthrush, Louisiana</i>
-
-Paruline polyglotte de la sous-espèce *virens* (*Icteria virens virens*)<br />- <i>Chat virens subspecies, Yellow-breasted</i>
 
 Petit-duc nain (*Otus flammeolus*)<br />- <i>Owl, Flammulated</i>
 
 Pigeon à queue barrée (*Patagioenas fasciata*)<br />- <i>Pigeon, Band-tailed</i>
+
+Pioui de l’Est (*Contopus virens*)<br />- <i>Wood-pewee, Eastern</i>
 
 Quiscale rouilleux (*Euphagus carolinus*)<br />- <i>Blackbird, Rusty</i>
 
@@ -3826,7 +3840,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229.
 
 
 
