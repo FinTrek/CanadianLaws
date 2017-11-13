@@ -25094,7 +25094,7 @@ and only the L forms of the amino acids have been added.
 
 ***authorization holder*** means, in respect of a drug,
 - **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug; and
-- **(b)** in the case of a drug that is listed in Schedule C to the Act, the manufacturer to whom a notice of compliance in respect of the drug was issued under section C.08.004 or C.08.004.01. (*titulaire de l’autorisation*)
+- **(b)** in the case of a drug that is listed in Schedule C to the Act, the manufacturer to whom a notice of compliance in respect of the drug was issued under section C.08.004 or C.08.004.01; (*titulaire de l’autorisation*)
 
 ***brand name*** means, with reference to a drug, the name, whether or not including the name of any manufacturer, corporation, partnership or individual, in English or French,
 - **(a)** that is assigned to the drug by its manufacturer,
@@ -25111,7 +25111,7 @@ and only the L forms of the amino acids have been added.
 - **(a)** commonly known, and
 - **(b)** designated in scientific or technical journals, other than the publications referred to in Schedule B to the Act; (*nom usuel*)
 
-***discontinue*** means, in respect of the sale of a drug by the authorization holder for the drug, to permanently cease the sale of the drug. (*cesser*)
+***discontinue*** means, in respect of the sale of a drug by the authorization holder for the drug, to permanently cease the sale of the drug; (*cesser*)
 
 ***expiration date*** means
 - **(a)** in the case of a drug in dosage form, the earlier of the following dates, expressed at minimum as a year and month:
@@ -25119,7 +25119,7 @@ and only the L forms of the amino acids have been added.
 	- **(ii)** the date after which the manufacturer recommends that the drug not be used; and
 - **(b)** in the case of an active ingredient, whichever of the following dates is applicable, expressed at minimum as a year and month:
 	- **(i)** the retest date, or
-	- **(ii)** the date after which the manufacturer recommends that the active ingredient not be used. (*date limite d’utilisation*)
+	- **(ii)** the date after which the manufacturer recommends that the active ingredient not be used; (*date limite d’utilisation*)
 
 ***flavour*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug solely to produce or mask a particular taste. It does not include an ingredient or combination of ingredients that impart only a sweet taste to the drug; (*saveur*)
 
@@ -25128,6 +25128,12 @@ and only the L forms of the amino acids have been added.
 ***immediate container*** means the receptacle that is in direct contact with a drug; (*récipient immédiat*)
 
 ***internal use*** means ingestion by mouth or application for systemic effect to any part of the body in which the drug comes into contact with mucous membrane; (*usage interne*)
+
+***List A*** means the document, entitled List of Certain Antimicrobial Active Pharmaceutical Ingredients, that is published by the Government of Canada on its website, as amended from time to time; (*Liste A*)
+
+***List B*** means the document, entitled List of Certain Veterinary Drugs Which May Be Imported But Not Sold, that is published by the Government of Canada on its website, as amended from time to time; (*Liste B*)
+
+***List C*** means the document, entitled Veterinary Health Products, that is published by the Government of Canada on its website, as amended from time to time; (*Liste C*)
 
 ***non-medicinal ingredient*** means a substance — other than the pharmacologically active drug — that is added during the manufacturing process and that is present in the finished drug product; (*ingrédient non médicinal*)
 
@@ -25171,6 +25177,11 @@ and only the L forms of the amino acids have been added.
 
 ***test group*** means a group that meets the requirements of subsection (3); (*groupe d’essai*)
 
+***veterinary health product*** means any of the following drugs that is in dosage form and that is not manufactured, sold or represented for use in the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms:
+- **(a)** a substance set out in Column I of Part 1 of List C that is consistent with the descriptive information set out in Columns II to V, or any combination of any substances in which all the medicinal ingredients are substances set out in Column I of Part 1 of that list if that combination is, in respect of each of those substances, consistent with the descriptive information set out in Columns II and III and the descriptive information set out in Columns IV and V that is, within each of those columns, common to those substances;
+- **(b)** a homeopathic medicine set out in Column I of Part 2 of List C that is consistent with the descriptive information set out in Columns II to V, or any combination of homeopathic medicines set out in Column I of Part 2 of that list if that combination is, in respect of each of those homeopathic medicines, consistent with the descriptive information set out in Columns II and III and the descriptive information set out in Columns IV and V that is, within each of those columns, common to those homeopathic medicines; and
+- **(c)** a traditional medicine set out in Column I of Part 3 of List C that is consistent with the descriptive information set out in Columns II to V, or any combination of traditional medicines set out in Column I of Part 3 of that list if that combination is, in respect of each of those traditional medicines, consistent with the descriptive information set out in Columns II and III and the descriptive information set out in Columns IV and V that is, within each of those columns, common to those traditional medicines; (*produit de santé animale*)
+
 ***withdrawal period*** means the length of time between the last administration of a drug to an animal and the time when tissues or products collected from the treated animal for consumption as food contain a level of residue of the drug that would not likely cause injury to human health. (*délai d’attente*)
 
 - **(1.1)** For the purposes of the Act, serious adverse drug reaction has the same meaning as in subsection (1).
@@ -25199,7 +25210,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1; SOR/2017-133, s. 1.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1; SOR/2017-76, s. 1; SOR/2017-133, s. 1.
 
 
 
@@ -26067,6 +26078,12 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 
 
 
+**C.01.013.1** Section C.01.013 does not apply in respect of a veterinary health product.
+> SOR/2017-76, s. 2.
+
+
+
+
 
 #### Assignment and Cancellation of Drug Identification Numbers
 
@@ -26271,6 +26288,12 @@ he may refuse to issue the document referred to in subsection (1).
 
 
 
+**C.01.014.13** Sections C.01.014 to C.01.014.7 do not apply in respect of a veterinary health product.
+> SOR/2017-76, s. 3.
+
+
+
+
 
 #### Tablet Disintegration Times
 
@@ -26340,6 +26363,12 @@ he may refuse to issue the document referred to in subsection (1).
 
 
 
+**C.01.018.1** Section C.01.018 does not apply in respect of a veterinary health product.
+> SOR/2017-76, s. 4.
+
+
+
+
 
 #### Issue-Related Summary Report
 
@@ -26354,6 +26383,12 @@ he may refuse to issue the document referred to in subsection (1).
 
 - **(4)** The manufacturer shall submit the report within the specified period.
 > SOR/2011-31, s. 1; SOR/2017-18, s. 14.
+
+
+
+
+**C.01.019.1** Section C.01.019 does not apply in respect of a veterinary health product.
+> SOR/2017-76, s. 5.
 
 
 
@@ -28242,7 +28277,77 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
-**C.01.612** [Repealed, SOR/94-568, s. 3]
+**C.01.612** 
+
+- **(1)** Every manufacturer or importer who sells a veterinary drug in dosage form that contains an active pharmaceutical ingredient that is set out in List A, or every person who compounds such a drug, shall, in a form established by the Minister, submit to the Minister an annual report identifying for each drug, the total quantity sold or compounded and an estimate of the quantity sold or compounded for each intended animal species.
+
+- **(2)** The annual report described in subsection (1) is for a period of one calendar year and shall be submitted on or before March 31 of the year following the calendar year covered by the report, beginning with the first full calendar year after the day on which this section comes into force.
+> SOR/2017-76, s. 6.
+
+
+
+
+**C.01.613** 
+
+- **(1)** No person shall import a drug into Canada for the purpose of administering it to an animal that produces food or an animal that is intended for consumption as food if the sale of the drug in Canada would constitute a violation of the Act or these Regulations.
+
+- **(2)** Subsection (1) does not apply to a drug that is described in List B.
+> SOR/2017-76, s. 6.
+
+
+
+
+**C.01.614** 
+
+- **(1)** Sections 43 to 58 of the [Natural Health Products Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2003/196.md) apply in relation to a veterinary health product, as if that product were a natural health product as defined in subsection 1(1) of those Regulations.
+
+- **(2)** A veterinary health product shall display, on the principal display panel of the inner and outer label, the statement: “Veterinary Health Product / *Produit de santé animale*” or “*Produit de santé animale* / Veterinary Health Product”.
+
+- **(3)** Section C.01.600 and paragraph C.01.604(b) do not apply in respect of a veterinary health product.
+> SOR/2017-76, s. 6.
+
+
+
+
+**C.01.615** 
+
+- **(1)** Every manufacturer or importer of a veterinary health product shall notify the Minister of the sale of that product in Canada at least 30 days before the day on which that sale is commenced.
+
+- **(2)** The notification shall be in a form established by the Minister and contain the following information:
+	- **(a)** the name, mailing address, telephone number and email address of the manufacturer or importer;
+	- **(b)** the brand name under which the veterinary health product is sold;
+	- **(c)** the pharmaceutical form in which the veterinary health product is sold;
+	- **(d)** the strength per dosage unit;
+	- **(e)** the route of administration;
+	- **(f)** a quantitative list of the medicinal ingredients and a qualitative list of the non-medicinal ingredients;
+	- **(g)** the species of animal for which the veterinary health product is recommended; and
+	- **(h)** the use or purpose for which the veterinary health product is recommended.
+
+- **(3)** A manufacturer or importer who has provided the Minister with a notification under subsection (1) shall provide the Minister with any changes to the information required under subsection (2), in a form established by the Minister, at least 30 days before the day on which the veterinary health product to which the changes relate is sold.
+> SOR/2017-76, s. 6.
+
+
+
+
+**C.01.616** If the Minister has reasonable grounds to believe that a veterinary health product may no longer be safe, the Minister may request that the manufacturer or importer of the veterinary health product provide the Minister, within 15 days after the day on which the request is received, with information and documents demonstrating that the veterinary health product is safe.
+> SOR/2017-76, s. 6.
+
+
+
+
+**C.01.617** 
+
+- **(1)** The Minister may direct the manufacturer or importer to stop the sale of a veterinary health product if
+	- **(a)** the manufacturer or importer does not, within the required period, provide the Minister with the information and documents requested under section C.01.616;
+	- **(b)** the information and documents provided by the manufacturer or importer in accordance with section C.01.616 do not demonstrate that the veterinary health product is safe; or
+	- **(c)** the Minister has reasonable grounds to believe that the sale of the veterinary health product would be a violation of the Act or these Regulations.
+
+- **(2)** The Minister shall lift a direction to stop the sale of a veterinary health product if the manufacturer or importer provides the Minister with information and documents demonstrating that
+	- **(a)** in the case of a direction to stop a sale under either paragraph (1)(a) or (b), the veterinary health product is safe;
+	- **(b)** in the case of a direction to stop a sale under paragraph 1(c), the sale of the veterinary health product would no longer be a violation of the Act or these Regulations; or
+	- **(c)** the situation giving rise to the direction to stop the sale of the veterinary health product did not exist.
+> SOR/2017-76, s. 6.
+
 
 
 
@@ -28353,8 +28458,10 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 			- **(B)** the medical use of which is based solely on historical and ethnological evidence from references relating to a medical system other than one based on conventional scientific standards; and
 	- **(e)** fabricating, packaging/labelling, testing, distributing, and importing of antimicrobial agents.
 
+- **(1.1)** This Division and Division 2 do not apply to a veterinary health product or an active pharmaceutical ingredient that is used in the fabrication of a veterinary health product.
+
 - **(2)** This Division and Divisions 2 to 4 do not apply to the affixing of a label to a previously labelled container.
-> SOR/97-12, s. 5; SOR/98-7, s. 2; SOR/2001/-203, s. 1; SOR/2004-282, s. 2; SOR/2012-129, s. 1.
+> SOR/97-12, s. 5; SOR/98-7, s. 2; SOR/2001/-203, s. 1; SOR/2004-282, s. 2; SOR/2012-129, s. 1; SOR/2017-76, s. 8.
 
 
 
@@ -32529,11 +32636,11 @@ and if unpurified anterior pituitary extract
 #### New Drugs
 
 
-**C.08.001** For the purposes of the Act and this Division, ***new drug*** means
-- **(a)** a drug that contains or consists of a substance, whether as an active or inactive ingredient, carrier, coating, excipient, menstruum or other component, that has not been sold as a drug in Canada for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that substance for use as a drug;
-- **(b)** a drug that is a combination of two or more drugs, with or without other ingredients, and that has not been sold in that combination or in the proportion in which those drugs are combined in that drug, for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that combination and proportion for use as a drug; or
-- **(c)** a drug, with respect to which the manufacturer prescribes, recommends, proposes or claims a use as a drug, or a condition of use as a drug, including dosage, route of administration, or duration of action and that has not been sold for that use or condition of use in Canada, for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that use or condition of use of that drug. 
-> SOR/95-172, s. 2.
+**C.08.001** For the purposes of the Act and this Division, ***new drug*** means a drug, other than a veterinary health product,
+- **(a)** that contains or consists of a substance, whether as an active or inactive ingredient, carrier, coating, excipient, menstruum or other component, that has not been sold as a drug in Canada for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that substance for use as a drug;
+- **(b)** that is a combination of two or more drugs, with or without other ingredients, and that has not been sold in that combination or in the proportion in which those drugs are combined in that drug, for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that combination and proportion for use as a drug; or
+- **(c)** with respect to which the manufacturer prescribes, recommends, proposes or claims a use as a drug, or a condition of use as a drug, including dosage, route of administration or duration of action, and that has not been sold for that use or condition of use in Canada for sufficient time and in sufficient quantity to establish in Canada the safety and effectiveness of that use or condition of use of that drug.
+> SOR/95-172, s. 2; SOR/2017-76, s. 10.
 
 
 
