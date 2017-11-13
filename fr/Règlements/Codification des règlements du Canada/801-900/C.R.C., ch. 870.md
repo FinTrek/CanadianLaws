@@ -25098,6 +25098,12 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***ingrédient non médicinal*** Substance, autre qu’une drogue pharmacologiquement active, ajoutée à la drogue au cours de la fabrication et présente dans le produit fini; (*non-medicinal ingredient*)
 
+***Liste A*** Document intitulé Liste de certains ingrédients actifs pharmaceutiques antimicrobiens publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (*List A*)
+
+***Liste B*** Document intitulé Liste de certaines drogues pour usage vétérinaire qui peuvent être importées mais non vendues publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (*List B*)
+
+***Liste C*** Document intitulé Liste des produits de santé animale publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (*List C*)
+
 ***marque nominative*** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
 - **a)** qui lui a été attribué par le fabricant;
 - **b)** sous lequel elle est vendue ou fait l’objet de publicité;
@@ -25115,7 +25121,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***ordonnance*** désigne un ordre délivré par un praticien, spécifiant une quantité donnée de quelque drogue ou mélange de drogues à dispenser à la personne nommée dans ladite ordonnance; (*prescription*)
 
-***parfum*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une odeur; (*fragrance*) 
+***parfum*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une odeur; (*fragrance*)
 
 ***pharmacien*** Personne qui :
 - **a)** d’une part, est autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien;
@@ -25130,6 +25136,11 @@ si seulement des acides aminés de forme L ont été ajoutés.
 ***produit d’acétaminophène*** s’entend au sens du titre 9; (*acetaminophen product*)
 
 ***produit de salicylate*** s’entend au sens du titre 9; (*salicylate product*)
+
+***produit de santé animale*** L’une des drogues ci-après qui est sous forme posologique et qui n’est pas fabriquée, vendue ou présentée comme pouvant servir au diagnostic, au traitement, à l’atténuation ou à la prévention d’une maladie, d’un désordre, d’un état physique anormal ou de leurs symptômes :
+- **a)** une substance visée à la colonne I de la partie 1 de la Liste C qui correspond aux renseignements descriptifs visés aux colonnes II à V ou une combinaison de substances dont tous les ingrédients médicinaux sont des substances visées à la colonne I de la partie 1 de cette liste, si la combinaison correspond, pour chacune de ces substances, à la fois aux renseignements descriptifs visés aux colonnes II et III, et d’autre part à ceux visés aux colonnes IV et V, lesquels sont, au sein de chacune de ces colonnes, communs à ces substances;
+- **b)** un remède homéopathique visé à la colonne I de la partie 2 de la Liste C qui correspond aux renseignements descriptifs visés aux colonnes II à V ou une combinaison de remèdes homéopathiques visés à la colonne I de la partie 2 de cette liste, si la combinaison correspond, pour chacun de ces remèdes, à la fois aux renseignements descriptifs visés aux colonnes II et III, et d’autre part à ceux visés aux colonnes IV et V, lesquels sont, au sein de chacune de ces colonnes, communs à ces remèdes;
+- **c)** un remède traditionnel visé à la colonne I de la partie 3 de la Liste C qui correspond aux renseignements descriptifs visés aux colonnes II à V ou une combinaison de remèdes traditionnels visés à la colonne I de la partie 3 de cette liste, si la combinaison correspond, pour chacun de ces remèdes, à la fois aux renseignements descriptifs visés aux colonnes II et III, et d’autre part à ceux visés aux colonnes IV et V, lesquels sont, au sein de chacune de ces colonnes, communs à ces remèdes; (*veterinary health product*)
 
 ***réaction indésirable à une drogue*** Réaction nocive et non intentionnelle à une drogue qui survient lorsque la drogue est utilisée selon les doses normales ou selon des doses expérimentales, aux fins du diagnostic, du traitement ou de la prévention d’une maladie ou de la modification d’une fonction organique; (*adverse drug reaction*)
 
@@ -25179,7 +25190,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** représentent dans une égale proportion, avec une marge de plus ou moins 10 pour cent, les divers âges, exprimés en années, de 18 à 45 ans, calculés à l’année près.
 
 - **(4)** Pour l’application du présent article, les modifications successives des normes visées à l’alinéa (2)b) entrent en vigueur à l’expiration du délai de 18 mois suivant la date désignée par l’autorité compétente comme étant celle de leur entrée en vigueur.
-> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1; DORS/2017-133, art. 1.
+> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1; DORS/2017-76, art. 1; DORS/2017-133, art. 1.
 
 
 
@@ -26047,6 +26058,12 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
+**C.01.013.1** L’article C.01.013 ne s’applique pas à l’égard des produits de santé animale.
+> DORS/2017-76, art. 2.
+
+
+
+
 
 #### Attribution et annulation de l'identification numérique des drogues
 
@@ -26250,6 +26267,12 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
+**C.01.014.13** Les articles C.01.014 à C.01.014.7 ne s’appliquent pas à l’égard des produits de santé animale.
+> DORS/2017-76, art. 3.
+
+
+
+
 
 #### Temps de désagrégation des comprimés
 
@@ -26319,6 +26342,12 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
+**C.01.018.1** L’article C.01.018 ne s’applique pas à l’égard des produits de santé animale.
+> DORS/2017-76, art. 4.
+
+
+
+
 
 #### Rapport de synthèse relatif à un sujet de préoccupation
 
@@ -26333,6 +26362,12 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 - **(4)** Le fabricant présente le rapport dans le délai imparti.
 > DORS/2011-31, art. 1; DORS/2017-18, art. 14.
+
+
+
+
+**C.01.019.1** L’article C.01.019 ne s’applique pas à l’égard des produits de santé animale.
+> DORS/2017-76, art. 5.
 
 
 
@@ -28191,7 +28226,77 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
-**C.01.612** [Abrogé, DORS/94-568, art. 3]
+**C.01.612** 
+
+- **(1)** Le fabricant ou l’importateur qui vend une drogue vétérinaire sous forme posologique qui contient un ingrédient actif pharmaceutique figurant dans la Liste A ou toute personne qui prépare une telle drogue présente au ministre un rapport annuel, en la forme établie par celui-ci, indiquant, pour chaque drogue, la quantité totale vendue ou préparée, et une estimation de la quantité vendue ou préparée pour chacune des espèces animales auxquelles la drogue est destinée.
+
+- **(2)** Le rapport visé au paragraphe (1) porte sur toute année civile — à commencer par la première année civile complète suivant l’entrée en vigueur du présent article — et est présenté au plus tard le 31 mars de l’année qui suit l’année civile visée par le rapport.
+> DORS/2017-76, art. 6.
+
+
+
+
+**C.01.613** 
+
+- **(1)** Il est interdit d’importer des drogues dans le but de les administrer à des animaux qui produisent des aliments ou qui sont destinés à être consommés comme aliments, si la vente de telles drogues au Canada enfreindrait la Loi ou le présent règlement.
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux drogues décrites dans la Liste B.
+> DORS/2017-76, art. 6.
+
+
+
+
+**C.01.614** 
+
+- **(1)** Les articles 43 à 58 du [Règlement sur les produits de santé naturels](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2003/196.md) s’appliquent à l’égard des produits de santé animale comme s’ils étaient des produits de santé naturels au sens du paragraphe 1(1) de ce règlement.
+
+- **(2)** Tout produit de santé animale doit porter une étiquette sur laquelle figure, dans l’espace principal de l’étiquette intérieure et de l’étiquette extérieure, la mention « Produit de santé animale / *Veterinary Health Product* » ou « *Veterinary Health Product* / Produit de santé animale ».
+
+- **(3)** L’article C.01.600 et l’alinéa C.01.604b) ne s’appliquent pas à l’égard des produits de santé animale.
+> DORS/2017-76, art. 6.
+
+
+
+
+**C.01.615** 
+
+- **(1)** Le fabricant ou l’importateur d’un produit de santé animale avise le ministre de la vente du produit au Canada au moins trente jours avant le début de la vente.
+
+- **(2)** L’avis doit être présenté en la forme établie par le ministre et contenir les renseignements suivants :
+	- **a)** les nom, adresse postale, numéro de téléphone et adresse de courriel du fabricant ou de l’importateur;
+	- **b)** la marque nominative sous laquelle le produit de santé animale est vendu;
+	- **c)** la forme pharmaceutique sous laquelle le produit est vendu;
+	- **d)** la concentration du produit dans chaque unité posologique;
+	- **e)** la voie d’administration du produit;
+	- **f)** la liste quantitative des ingrédients médicinaux et la liste qualitative des ingrédients non médicinaux contenus dans le produit;
+	- **g)** les espèces d’animaux auxquelles il est recommandé d’administrer le produit;
+	- **h)** l’usage ou les fins pour lesquels le produit est recommandé.
+
+- **(3)** Le fabricant ou l’importateur qui a fourni au ministre un avis aux termes du paragraphe (1) fournit au ministre, en la forme établie par celui-ci, toute modification aux renseignements exigés au titre du paragraphe (2) au moins trente jours avant la vente du produit visé par le changement.
+> DORS/2017-76, art. 6.
+
+
+
+
+**C.01.616** Lorsque le ministre a des motifs raisonnables de croire qu’un produit de santé animale peut ne plus être sûr, il peut demander au fabricant ou à l’importateur de lui fournir, dans les quinze jours suivant la réception de la demande, des renseignements et documents montrant l’innocuité du produit.
+> DORS/2017-76, art. 6.
+
+
+
+
+**C.01.617** 
+
+- **(1)** Le ministre peut ordonner au fabricant ou à l’importateur d’un produit de santé animale d’en cesser la vente dans l’un ou l’autre des cas suivants :
+	- **a)** le fabricant ou l’importateur n’obtempère pas à la demande visée à l’article C.01.616 dans le délai imparti;
+	- **b)** les renseignements et documents fournis par le fabricant ou l’importateur aux termes de l’article C.01.616 ne sont pas suffisants pour démontrerl’innocuité du produit;
+	- **c)** il a des motifs raisonnables de croire que la vente du produit enfreindrait la Loi ou le présent règlement.
+
+- **(2)** Le ministre lève l’ordre de cessation de vente lorsque le fabricant ou l’importateur lui fournit les renseignements et documents établissant, selon le cas :
+	- **a)** que le produit est sûr, dans le cas d’un ordre de cessation de vente fondé sur les alinéas (1)a) ou b);
+	- **b)** que la vente du produit n’enfreindrait plus la Loi ou le présent règlement, dans le cas d’un ordre de cessation de vente fondé sur l’alinéa (1)c);
+	- **c)** que la situation donnant lieu à l’ordre de cessation de vente n’a pas existé.
+> DORS/2017-76, art. 6.
+
 
 
 
@@ -28306,8 +28411,10 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 			- **(B)** d’autre part, dont l’utilisation à des fins médicales est appuyée seulement de preuves historiques et ethnologiques tirées d’ouvrages de références relatifs à un système de médecine autre que celui fondé sur des normes scientifiques conventionnelles;
 	- **e)** les activités visant à manufacturer, emballer-étiqueter, analyser, distribuer ou importer un agent antimicrobien.
 
+- **(1.1)** Le présent titre et le titre 2 ne s’appliquent pas au produit de santé animale ou à l’ingrédient actif pharmaceutique qui est utilisé dans la manufacture d’un produit de santé animale.
+
 - **(2)** Le présent titre et les titres 2 à 4 ne s’appliquent pas dans le cas de l’activité visant à apposer une étiquette sur un récipient déjà étiqueté.
-> DORS/97-12, art. 5; DORS/98-7, art. 2; DORS/2001-203, art. 1; DORS/2004-282, art. 2; DORS/2012-129, art. 1.
+> DORS/97-12, art. 5; DORS/98-7, art. 2; DORS/2001-203, art. 1; DORS/2004-282, art. 2; DORS/2012-129, art. 1; DORS/2017-76, art. 8.
 
 
 
@@ -32484,11 +32591,11 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 #### Drogues nouvelles
 
 
-**C.08.001** Pour l’application de la Loi et du présent titre, ***drogue nouvelle*** désigne :
-- **a)** une drogue qui est constituée d’une substance ou renferme une substance, sous forme d’ingrédient actif ou inerte, de véhicule, d’enrobage, d’excipient, de solvant ou de tout autre constituant, laquelle substance n’a pas été vendue comme drogue au Canada pendant assez longtemps et en quantité suffisante pour établir, au Canada, l’innocuité et l’efficacité de ladite substance employée comme drogue;
-- **b)** une drogue qui entre dans une association de deux drogues ou plus, avec ou sans autre ingrédient, qui n’a pas été vendue dans cette association particulière, ou dans les proportions de ladite association pour ces drogues particulières, pendant assez longtemps et en quantité suffisante pour établir, au Canada, l’innocuité et l’efficacité de cette association ou de ces proportions employées comme drogue; ou
-- **c)** une drogue pour laquelle le fabricant prescrit, recommande, propose ou déclare un usage comme drogue ou un mode d’emploi comme drogue, y compris la posologie, la voie d’administration et la durée d’action, et qui n’a pas été vendue pour cet usage ou selon ce mode d’emploi au Canada pendant assez longtemps et en quantité suffisante pour établir, au Canada, l’innocuité et l’efficacité de cet usage ou de ce mode d’emploi pour ladite drogue.
-> DORS/95-172, art. 2.
+**C.08.001** Pour l’application de la Loi et du présent titre, ***drogue nouvelle*** s’entend d’une drogue, à l’exception d’un produit de santé animale :
+- **a)** qui est constituée d’une substance ou renferme une substance, sous forme d’ingrédient actif ou inerte, de véhicule, d’enrobage, d’excipient, de solvant ou de tout autre constituant, laquelle substance n’a pas été vendue comme drogue au Canada pendant assez longtemps et en quantité suffisante pour établir, au Canada, l’innocuité et l’efficacité de cette substance employée comme drogue;
+- **b)** qui entre dans une association de deux drogues ou plus, avec ou sans autre ingrédient, qui n’a pas été vendue dans cette association particulière, ou dans les proportions de ladite association pour ces drogues particulières, pendant assez longtemps et en quantité suffisante pour établir, au Canada, l’innocuité et l’efficacité de cette association ou de ces proportions employées comme drogue; ou
+- **c)** pour laquelle le fabricant prescrit, recommande, propose ou déclare un usage comme drogue ou un mode d’emploi comme drogue, y compris la posologie, la voie d’administration et la durée d’action, et qui n’a pas été vendue pour cet usage ou selon ce mode d’emploi au Canada pendant assez longtemps et en quantité suffisante pour établir, au Canada, l’innocuité et l’efficacité de cet usage ou de ce mode d’emploi pour cette drogue.
+> DORS/95-172, art. 2; DORS/2017-76, art. 10.
 
 
 
