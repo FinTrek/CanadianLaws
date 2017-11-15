@@ -1809,7 +1809,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>111</td>
-<td>Mirrors</td>
+<td>Mirrors and Rear Visibility Systems</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1823,7 +1823,7 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td></td>
-<td></td>
+<td>X</td>
 <td>X</td>
 </tr>
 <tr>
@@ -2824,7 +2824,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8; SOR/2017-104, s. 2.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8; SOR/2017-104, s. 2; SOR/2017-231, s. 1.
 
 
 
@@ -2855,7 +2855,7 @@ Issued in Ottawa on _________________________, 20_________________________
 
 - **(2)** Every vehicle that is required by section 5 of these Regulations to conform to the standards set out in this section shall, in respect of the controls, tell-tales, indicators and sources of illumination that are fitted in the occupant compartment, conform to the requirements of TSD 101, as amended from time to time.
 
-#### Technical Standards Document No. 101
+#### Technical Standards Document No. 101
 
 
 - **(3)** Despite S5.2.1 of TSD 101,
@@ -2873,14 +2873,14 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(h)** the symbol required for the engine stop control may be replaced by the word “stop”;
 	- **(i)** the symbol required for the electronic stability control system malfunction tell-tale may be replaced by the abbreviation “ESC”;
 	- **(j)** the symbol required for the electronic stability control system off control and tell-tale may be replaced by the abbreviation “ESC OFF”; and
-	- **(k)** until August 31, 2018, the symbol required for the passenger air bag deactivated control and tell-tale may be replaced by the words “passenger air bag off” or “pass air bag off”.
+	- **(k)** until September 1, 2019, the symbol required for the passenger air bag deactivated control and tell-tale may be replaced by the words “passenger air bag off” or “pass air bag off”.
 
 #### Speedometers and Odometers
 
 
 - **(4)** A speedometer shall indicate the speed of the vehicle in kilometres per hour or in kilometres per hour and miles per hour. The unit or units of measurement shall be identified on the speedometer or at a location adjacent to it.
 
-- **(5)** A speedometer shall be illuminated whenever the headlamps are activated, unless the headlamps are being flashed for signalling purposes or are being operated as daytime running lamps.
+- **(5)** A speedometer shall be illuminated whenever the vehicle’s propulsion system and headlamps are activated, unless the headlamps are being flashed for signalling purposes or are being operated as daytime running lamps.
 
 - **(6)** An odometer or trip odometer shall indicate distances in kilometres or in miles. If the distances are indicated in miles, that unit of measurement shall be identified at a location adjacent to the odometer or trip odometer.
 
@@ -3474,7 +3474,7 @@ or
 </tr>
 </table>
 
-> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3; SOR/2017-104, ss. 3, 4..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3; SOR/2017-104, ss. 3, 4; SOR/2017-231 s. 2..
 
 
 
@@ -3613,7 +3613,7 @@ or
 </tr>
 <tr>
 <th>Area</th>
-<th>Minimum Percentage to be wiped</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
@@ -3661,7 +3661,7 @@ or
 </tr>
 <tr>
 <th>Area</th>
-<th>Minimum Percentage to be wiped</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
@@ -3709,7 +3709,7 @@ or
 </tr>
 <tr>
 <th>Area</th>
-<th>Minimum Percentage to be wiped</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
@@ -3757,7 +3757,7 @@ or
 </tr>
 <tr>
 <th>Area</th>
-<th>Minimum Percentage to be wiped</th>
+<th>Minimum Percentage to be wiped</th>
 <th>Angle in degrees</th>
 </tr>
 <tr>
@@ -3871,7 +3871,7 @@ or
 
 
 
-### Lighting System and Retroreflective Devices (Standard 108)
+### Lighting System and Retroreflective Devices (Standard 108)
 
 
 #### General
@@ -3902,7 +3902,7 @@ or
 ### Technical Standards Document No. 108
 
 
-#### Required Motor Vehicle Lighting Equipment — S5.1 of TSD 108
+#### Required Motor Vehicle Lighting Equipment — S5.1 of TSD 108
 
 
 - **(8)** Despite S5.1.1 of TSD 108, lamps and retroreflective devices that are contained within the same physical assembly as a headlamp and conform to the requirements of S7.4(h) of TSD 108 in respect of resistance to corrosion, dust and humidity are not required to be subjected to the corrosion, dust and moisture tests required by any of the SAE standards or recommended practices listed in Tables I and III of TSD 108.
@@ -3928,7 +3928,7 @@ or
 
 - **(15)** [Reserved]
 
-#### Special Wiring Requirements — S5.5 of TSD 108
+#### Special Wiring Requirements — S5.5 of TSD 108
 
 
 - **(16)** S5.5.1 and S5.5.2 of TSD 108 do not apply to a motorcycle that is fitted with a single beam headlamp.
@@ -3943,7 +3943,7 @@ or
 
 - **(20)** The requirements of S5.5.11 of TSD 108 are replaced by the daytime running lamp requirements of subsections (44) to (65).
 
-#### Conspicuity Systems — S5.7 of TSD 108
+#### Conspicuity Systems — S5.7 of TSD 108
 
 
 - **(21)** Despite S5.7 of TSD 108, the colour of retroreflective sheeting applied in accordance with S5.7.1.4.1(a) and S5.7.1.4.2 of TSD 108 may be white, yellow, white and yellow or white and red, in accordance with S5.7.1.2 of TSD 108 or section 3.1.3, 3.1.2 or 3.1.1, respectively, of SAE Standard J578, Color Specification (May 1988).
@@ -4235,9 +4235,9 @@ or
 
 **110** 
 
-- **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
+- **(1)** Every motor vehicle with a GVWR of 4 536 kg or less — except motorcycles other than motor tricycles equipped with passenger car tires, restricted-use motorcycles, three-wheeled vehicles equipped with tires other than passenger car tires, vehicles imported temporarily for special purposes and low-speed vehicles — and every tire rim manufactured for use on those vehicles shall conform to the requirements of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less (TSD 110), as amended from time to time.
 
-#### Technical Standards Document No. 110
+#### Technical Standards Document No. 110
 
 
 - **(2)** Except as provided in subsections (3) and (4), the information specified in S4.3 and S4.3.5 of TSD 110 shall appear, at the option of the manufacturer, either
@@ -4287,10 +4287,13 @@ or
 
 
 
-### Mirrors
+### Mirrors and Rear Visibility Systems
 
 
-#### General
+#### Mirrors
+
+
+##### General
 
 **111** 
 
@@ -4315,7 +4318,7 @@ or
 	- **(b)** its average radius of curvature is not less than 890 mm (35 inches) and not greater than 1 800 mm (71.5 inches); and
 	- **(c)** the radius of curvature at any point does not deviate by more than 12.5 per cent from the average of any five radius-of-curvature measurements made on its reflective surface at least 6 mm (0.25 inch) from the edge of the image display.
 
-#### Passenger Cars and Three-wheeled Vehicles
+##### Passenger Cars and Three-wheeled Vehicles
 > [SOR/2003-272, s. 13]
 
 
@@ -4343,7 +4346,7 @@ or
 	- **(a)** the location of the driver’s eye reference points for the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a, Passenger Car Driver’s Eye Range (August 1967); or
 	- **(b)** the driver’s eye reference points at a nominal location appropriate for any 95th percentile adult male driver.
 
-#### Motorcycles
+##### Motorcycles
 
 
 - **(13)** Every motorcycle shall have, mounted on each side so that the horizontal centre of each reflective surface of the mirror is at least 280 mm (11 inches) outward from the longitudinal centreline of the motorcycle,
@@ -4356,10 +4359,10 @@ or
 
 - **(13.3)** For the purposes of subsections (13.1) and (13.2), a reference in United Nations Regulation No. 81 to “two-wheeled vehicle” or “three-wheeled vehicle” is to be read as a reference to “motorcycle”, and a reference to “maximum designed speed” is to be read as a reference to “maximum speed”.
 
-#### School Buses
+##### School Buses
 
 
-##### General
+###### General
 
 
 - **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
@@ -4372,7 +4375,7 @@ or
 	- **(b)** cylinders B and C shall be 0.915 m (3 feet) high and 0.305 m (1 foot) in diameter; and
 	- **(c)** cylinders A, B, C, D and E shall be of a colour that provides a high contrast with the road surface on which the bus is parked.
 
-##### Requirements
+###### Requirements
 
 
 - **(16)** Every school bus shall have the following two outside mirror systems:
@@ -4430,7 +4433,7 @@ where
 
 - **(24)** Images reflected in each System B mirror shall be located no less than 3 minutes of arc from the edge of the reflective surface, when measured at the driver’s eye position.
 
-##### Testing
+###### Testing
 
 
 - **(25)** A System A mirror and a System B mirror shall be tested as follows:
@@ -4449,7 +4452,7 @@ where
 	- **(f)** all of the still or video camera observations shall be done with the service door of the bus closed and the stop signal arm fully retracted; and
 	- **(g)** for the purposes of subsection (21), the front bumper shall be the forwardmost structural contour of the bumper excluding the fasteners, protruding discrete bumper stops, and any attached accessories such as crossing control arms, which shall be removed prior to testing.
 
-#### Other Vehicles
+##### Other Vehicles
 
 
 - **(26)** Every multi-purpose passenger vehicle, truck and bus, with a GVWR of 4 536 kg (10,000 pounds) or less, other than a school bus, shall have
@@ -4461,10 +4464,26 @@ where
 
 - **(27)** Every multi-purpose passenger vehicle, truck and bus with a GVWR of more than 4 536 kg (10,000 pounds), other than a school bus, shall have on each side of the vehicle an outside rearview mirror of which not less than 325 cm<sup>2</sup> (50 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
 
-#### Shipment
+##### Shipment
 
 
 - **(28)** A company may ship a vehicle bearing a compliance label or information label, as the case may be, on which no outside mirrors have been installed, if the applicable outside mirrors and all of the hardware that is necessary for their mounting accompany the vehicle and all of the holes that are necessary for mounting those mirrors have been made in the sheet metal of the vehicle.
+
+#### Rear Visibility Systems
+
+
+- **(29)** Subject to subsection (32), every passenger car and three-wheeled vehicle with a GVWR of 4 536 kg or less that is manufactured on or after the day specified in S5.5(b) of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time, shall be equipped with a rear visibility system that conforms to the requirements for rear visibility set out in S5.5, other than S5.5(a), of that section, as amended from time to time, and that is tested in accordance with the rear visibility test procedure set out in S14 of that section, as amended from time to time.
+
+- **(30)** Subject to subsection (33), every multi-purpose passenger vehicle, low-speed vehicle, truck and bus with a GVWR of 4 536 kg or less that is manufactured on or after the day specified in S6.2(b) of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time, shall be equipped with a rear visibility system that conforms to the requirements for rear visibility set out in S6.2, other than S6.2(a), of that section, as amended from time to time, and that is tested in accordance with the rear visibility test procedure set out in S14 of that section, as amended from time to time.
+
+- **(31)** For the purposes of subsections (29) and (30),
+	- **(a)** rear visibility system has the same meaning as in S4 of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time;
+	- **(b)** a reference to the term “backing event”, “environmental test fixture”, “external component”, “key”, “rearview image” or “rear visibility system” in S4, S5.5, S6.2 or S14 of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time, is to be read as a reference to that term as defined in S4; and
+	- **(c)** a reference to “starting system” in S4, including its definition, or S14 of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time, is to be read as a reference to “ignition switch”.
+
+- **(32)** Subsection (29) does not apply to a vehicle to which an information label has been applied under subsection 6.4(1), to which a compliance label has been applied under paragraph 6.6(1)(b) or to which an additional label has been applied under paragraph 9(1)(c) if the vehicle is manufactured before the first anniversary of the day specified in S5.5(b) of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time.
+
+- **(33)** Subsection (30) does not apply to a vehicle to which an information label has been applied under subsection 6.4(1), to which a compliance label has been applied under paragraph 6.6(1)(b) or to which an additional label has been applied under paragraph 9(1)(c) if the vehicle is manufactured before the first anniversary of the day specified in S6.2(b) of section 571.111, chapter V, Title 49 of the Code of Federal Regulations of the United States, as amended from time to time.
 
 - 
 > Image: Diagram showing Fields of View of System A and System B Mirrors with descriptions
@@ -4473,7 +4492,7 @@ where
 NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN SUBSECTION 111(2)
 
 
-> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2; SOR/2017-57, s. 2..
+> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2; SOR/2017-57, s. 2; SOR/2017-231, ss. 3, 4..
 
 
 
@@ -4968,7 +4987,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 
-### Motor Vehicle Brake Fluids (Standard 116)
+### Motor Vehicle Brake Fluids (Standard 116)
 > [SOR/93-561, s. 5; SOR/97-421, s. 7(F); SOR/2011-238, s. 2]
 
 
@@ -5038,7 +5057,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 
-### Power-Operated Window, Partition and Roof Panel Systems (Standard 118)
+### Power-Operated Window, Partition and Roof Panel Systems (Standard 118)
 
 **118** 
 
@@ -5119,7 +5138,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 
-### Motorcycle Brake Systems (Standard 122)
+### Motorcycle Brake Systems (Standard 122)
 
 
 #### General
@@ -5494,7 +5513,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
 	- **(b)** the general requirements, performance requirements and test procedures set out in United Nations Regulation No. 11, Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components (United Nations Regulation No. 11), as amended from time to time by any amendment in the 03 or 04 series of amendments.
 
-- **(2)** For the purposes of paragraph 6.3.2 of United Nations Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
+- **(2)** For the purposes of paragraph 6.3.2 of United Nations Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
 
 - **(3)** [Repealed, SOR/2014-307, s. 16]
 > SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1; SOR/2013-220, s. 2; SOR/2014-307, s. 16; SOR/2017-57, ss. 6, 8..
@@ -5638,7 +5657,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(12)** When the vehicle seat is placed in any position, and the seat back is placed in the manufacturer’s nominal design riding position and any adjustable seat belt anchorage is placed in the manufacturer’s nominal design position for a 50th percentile adult male occupant, every upper torso restraint shall be adjustable to fit any occupant whose dimensions range from those of a 5th percentile adult female to those of a 95th percentile adult male.
 
-#### Technical Standards Document No. 208
+#### Technical Standards Document No. 208
 
 
 - **(13)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle, and their owner’s manuals, shall conform to the requirements of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
@@ -5930,8 +5949,8 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **3** Drawing not to scale
 - **4** “R” Point: Shoulder reference point
 - **5** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-- **7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
+- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
 
 </td>
 </tr>
@@ -5950,8 +5969,8 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **3** Drawing not to scale
 - **4** “R” Point: Shoulder reference point
 - **5** “V”: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-- **7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
+- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
 
 </td>
 </tr>
@@ -5970,7 +5989,7 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **3** Drawing not to scale
 - **4** “R” Point: Shoulder reference point
 - **5** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
 
 </td>
 </tr>
@@ -5988,7 +6007,7 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **2** Drawing not to scale
 - **3** “R” Point: Shoulder reference point
 - **4** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-- **5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
 
 </td>
 </tr>
@@ -6006,7 +6025,7 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **2** Drawing not to scale
 - **3** “R” Point: Shoulder reference point
 - **4** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-- **5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
+- **5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
 
 </td>
 </tr>
@@ -6587,7 +6606,7 @@ Note: Drawing not to scale
 
 - **(3)** The statements set out in subparagraphs (b)(i) and (ii) and in paragraph (c) shall be included in the owner’s manual.
 
-#### Technical Standards Document No. 214
+#### Technical Standards Document No. 214
 
 
 - **(4)** For the purposes of this section,
@@ -7040,7 +7059,7 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 ***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point:  
 - **(a)** tail lamps;
 - **(b)** rubber bumpers;
 - **(c)** hinges and latches; and
