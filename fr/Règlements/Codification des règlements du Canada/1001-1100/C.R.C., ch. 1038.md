@@ -1811,7 +1811,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>111</td>
-<td>Miroirs</td>
+<td>Miroirs et systèmes de visibilité arrière</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1825,7 +1825,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td></td>
-<td></td>
+<td>X</td>
 <td>X</td>
 </tr>
 <tr>
@@ -2826,7 +2826,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2; DORS/2017-231, art. 1.
 
 
 
@@ -2875,14 +2875,14 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **h)** le symbole exigé pour la commande d’arrêt du moteur peut être remplacé par le mot « *stop* »;
 	- **i)** le symbole exigé pour le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC »;
 	- **j)** le symbole exigé pour le témoin et la commande de désactivation du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC OFF »;
-	- **k)** jusqu’au 31 août 2018, le symbole exigé pour la commande et le témoin de désactivation du sac gonflable du passager peut être remplacé par les mots « *passenger air bag off* » ou « *pass air bag off* ».
+	- **k)** jusqu’au 1<sup>er</sup> septembre 2019, le symbole exigé pour la commande et le témoin de désactivation du sac gonflable du passager peut être remplacé par les mots « *passenger air bag off* » ou « *pass air bag off* ».
 
 #### Indicateurs de vitesse et odomètres
 
 
 - **(4)** Tout indicateur de vitesse doit indiquer la vitesse du véhicule en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les unités de mesure doivent être indiquées sur l’indicateur de vitesse ou à un endroit qui y est adjacent.
 
-- **(5)** Tout indicateur de vitesse doit être éclairé lorsque les projecteurs sont activés, sauf s’ils clignotent à des fins de signalisation ou s’ils sont utilisés comme feux de jour.
+- **(5)** Tout indicateur de vitesse doit être éclairé chaque fois que le système de propulsion et les projecteurs du véhicule sont activés, sauf si ces derniers clignotent à des fins de signalisation ou sont utilisés comme feux de jour.
 
 - **(6)** Tout odomètre ou tout totalisateur partiel doivent indiquer les distances en kilomètres ou en milles. Si les distances sont indiquées en milles, cette unité de mesure doit être indiquée à un endroit qui est adjacent à l’odomètre ou au totalisateur partiel.
 
@@ -3478,7 +3478,7 @@ ou
 </tr>
 </table>
 
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 et 4..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 et 4; DORS/2017-231, art. 2..
 
 
 
@@ -4291,10 +4291,13 @@ ou
 
 
 
-### Miroirs
+### Miroirs et systèmes de visibilité arrière
 
 
-#### Dispositions générales
+#### Miroirs
+
+
+##### Dispositions générales
 
 **111** 
 
@@ -4319,7 +4322,7 @@ ou
 	- **b)** le rayon de courbure moyen n’est pas inférieur à 890 mm (35 po) ni supérieur à 1 800 mm (71,5 po);
 	- **c)** le rayon de courbure en tout point ne varie pas de plus de 12,5 pour cent de la moyenne de cinq mesures de rayon de courbure prises sur la surface réfléchissante à au moins 6 mm (0,25 po) du contour de l’image réfléchie.
 
-#### Voitures de tourisme et véhicules à trois roues
+##### Voitures de tourisme et véhicules à trois roues
 > [DORS/2003-272, art. 13]
 
 
@@ -4347,7 +4350,7 @@ ou
 	- **a)** soit de la position des points de référence des yeux du conducteur, compte tenu de la limite tangentielle du 95<sup>e</sup> percentile en conformité avec la pratique recommandée J941a de la SAE, intitulée *Passenger Car Driver’s Eye Range*, (août 1967);
 	- **b)** soit d’une position nominale des points de référence des yeux du conducteur, convenant à tout conducteur du 95<sup>e</sup> percentile adulte du sexe masculin.
 
-#### Motocyclettes
+##### Motocyclettes
 
 
 - **(13)** Les motocyclettes doivent être munies d’un des rétroviseurs suivants, installé de chaque côté de manière que le centre horizontal de chaque surface réfléchissante soit situé à au moins 280 mm (11 po) à l’extérieur de l’axe longitudinal de la motocyclette :
@@ -4360,10 +4363,10 @@ ou
 
 - **(13.3)** Pour l’application des paragraphes (13.1) et (13.2), dans le règlement n<sup>o</sup> 81 des Nations Unies, les mentions « véhicules à deux roues » et « véhicules à trois roues » valent mention de « motocyclette » et la mention « vitesse maximale par construction » vaut mention de « vitesse maximale ».
 
-#### Autobus scolaires
+##### Autobus scolaires
 
 
-##### Dispositions générales
+###### Dispositions générales
 
 
 - **(14)** Pour l’application des paragraphes (16) à (25), la position de l’oeil du conducteur doit être représentée par les points de vision de gauche et de droite tels qu’ils sont définis dans la pratique recommandée J1050 de la SAE, intitulée *Describing and Measuring the Driver’s Field of View* (août 1994), et doit se trouver à n’importe quel endroit dans l’aire définie par l’« *eyellipse* » du 95<sup>e</sup> percentile conformément à la pratique recommandée J941 de la SAE, intitulée *Motor Vehicle Drivers’ Eye Locations* (juin 1997), compte tenu des adaptations suivantes :
@@ -4376,7 +4379,7 @@ ou
 	- **b)** les cylindres B et C ont une hauteur de 0,915 m (3 pi) et un diamètre de 0,305 m (1 pi);
 	- **c)** les cylindres A, B, C, D et E sont d’une couleur qui contraste nettement avec la chaussée sur laquelle l’autobus est stationné.
 
-##### Exigences
+###### Exigences
 
 
 - **(16)** Les autobus scolaires doivent être munis des deux systèmes de miroirs extérieurs suivants :
@@ -4434,7 +4437,7 @@ où :
 
 - **(24)** Les images réfléchies dans les miroirs du système B ne doivent pas être situées à moins de 3 minutes d’arc du bord de la surface réfléchissante, lorsqu’elles sont mesurées à la position de l’oeil du conducteur.
 
-##### Mise à l’essai
+###### Mise à l’essai
 
 
 - **(25)** Les miroirs des systèmes A et B doivent être mis à l’essai de la façon suivante :
@@ -4453,7 +4456,7 @@ où :
 	- **f)** les prises de vue de l’appareil photographique ou de la caméra vidéo sont faites quand la porte de service de l’autobus est fermée et le bras du signal d’arrêt est complètement rétracté;
 	- **g)** pour l’application du paragraphe (21), le pare-chocs avant corespond à la partie courbe la plus avancée du pare-chocs, à l’exclusion des dispositifs de fermeture, des butoirs de pare-chocs distincts en saillie et, le cas échéant, des accessoires fixés tels que les bras d’éloignement, qui doivent être enlevés avant les essais.
 
-#### Autres véhicules
+##### Autres véhicules
 
 
 - **(26)** Les véhicules de tourisme à usages multiples, les camions et les autobus sauf les autobus scolaires, dont le PNBV est d’au plus 4 536 kg (10 000 lb), doivent être munis :
@@ -4465,10 +4468,26 @@ où :
 
 - **(27)** Les véhicules de tourisme à usages multiples, les camions et les autobus sauf les autobus scolaires, dont le PNBV est supérieur à 4 536 kg (10 000 lb) doivent, de chaque côté du véhicule, être munis d’un rétroviseur extérieur dont au moins 325 cm<sup>2</sup> (50 po<sup>2</sup>) de la surface réfléchissante sont situés de façon à assurer au conducteur une vue arrière le long de chaque côté du véhicule.
 
-#### Transport
+##### Transport
 
 
 - **(28)** L’entreprise peut transporter un véhicule qui porte une étiquette de conformité ou une étiquette informative, selon le cas, et sur lequel les miroirs extérieurs ne sont pas installés si les miroirs extérieurs appropriés et toutes les ferrures nécessaires à leur installation accompagnent le véhicule et si tous les trous nécessaires à leur installation ont été percés dans la tôle du véhicule.
+
+#### Systèmes de visibilité arrière
+
+
+- **(29)** Sous réserve du paragraphe (32), les véhicules de tourisme et les véhicules à trois roues dont le PNBV est d’au plus 4 536 kg et qui sont construits à la date précisée dans la disposition S5.5(b), de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, ou après cette date, doivent être munis d’un système de visibilité arrière conforme aux exigences relatives à la visibilité arrière qui figurent à la disposition S5.5, sauf la disposition S5.5(a), de cet article, avec ses modifications successives, et mis à l’essai conformément à la procédure de mise à l’essai de la visibilité arrière qui figure à la disposition S14 de cet article, avec ses modifications successives.
+
+- **(30)** Sous réserve du paragraphe (33), les véhicules de tourisme à usages multiples, les véhicules à basse vitesse, les camions et les autobus dont le PNBV est d’au plus 4 536 kg et qui sont construits à la date précisée dans la disposition S6.2(b), de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, ou après cette date, doivent être munis d’un système de visibilité arrière conforme aux exigences relatives à la visibilité arrière qui figurent à la disposition S6.2, sauf la disposition S6.2(a), de cet article, avec ses modifications successives, et mis à l’essai conformément à la procédure de mise à l’essai de la visibilité arrière qui figure à la disposition S14 de cet article, avec ses modifications successives.
+
+- **(31)** Pour l’application des paragraphes (29) et (30) :
+	- **a)** système de visibilité arrière s’entend au sens de rear visibility system à la disposition S4 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives;
+	- **b)** les mentions de « *backing event* », « *environmental test fixture* », « *external component* », « *key* », « *rearview image* » et « *rear visibility system* » aux dispositions S4, S5.5, S6.2 et S14 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, s’entendent au sens de leur définition respective à la disposition S4;
+	- **c)** toute mention de « *starting system* » à la disposition S4, y compris sa définition, et à la disposition S14 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, vaut mention de « commutateur d’allumage ».
+
+- **(32)** Le paragraphe (29) ne s’applique pas à un véhicule qui porte l’étiquette informative visée au paragraphe 6.4(1), l’étiquette de conformité visée à l’alinéa 6.6(1)b) ou l’étiquette supplémentaire visée à l’alinéa 9(1)c) — si le véhicule est construit avant le premier anniversaire de la date précisée dans la disposition S5.5(b), de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives.
+
+- **(33)** Le paragraphe (30) ne s’applique pas à un véhicule qui porte l’étiquette informative visée au paragraphe 6.4(1), l’étiquette de conformité visée à l’alinéa 6.6(1)b) ou l’étiquette supplémentaire visée à l’alinéa 9(1)c) — si le véhicule est construit avant le premier anniversaire de la date précisée dans la disposition S6.2(b), de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives.
 
 - 
 > Image: Diagramme montrant les champs de vision des miroirs du système A et du système B avec descriptions
@@ -4477,7 +4496,7 @@ où :
 NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES FORMULES VISÉES AU PARAGRAPHE 111(22)
 
 
-> DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2; DORS/2017-57, art. 2..
+> DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2; DORS/2017-57, art. 2; DORS/2017-231, art. 3 et 4..
 
 
 
