@@ -558,7 +558,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind67A_hq_20448'>[*]</a></sup>**107** Section 103 comes into force on the day on which section 183 of the Budget Implementation Act, 2016, No. 1 comes into force.
 
-<a name='fn_Ind67A_hq_20448'><sup>*</sup></a>: [Note: Section 103 not in force.]<br />
+<a name='fn_Ind67A_hq_20448'><sup>*</sup></a>: [Note: Section 103 in force November 23, 2017, *see* SI/2017-73.]<br />
 
 
 
