@@ -8,7 +8,7 @@
 Sanctionnée sur le 22 juin 2017
 
 ```
-[Édictée par l’article 103 du chapitre 20 des Lois du Canada (2017), non en vigueur.]
+[Édictée par l’article 103 du chapitre 20 des Lois du Canada (2017), en vigueur le 23 novembre 2017, voir TR/2017-73].
 ```
 ----------
 
@@ -100,15 +100,15 @@ Sanctionnée sur le 22 juin 2017
 ### **ANNEXE** 
 **(alinéa 4a))**
 ## Lois conférant un pouvoir d’emprunt
-- ** 1** Loi de 1986-87 sur le pouvoir d’emprunt, S.C. 1986, ch. 19
-- ** 2** Loi no 2 de 1986-87 sur le pouvoir d’emprunt, L.C. 1987, ch. 5, partie I
-- ** 3** Loi de 1987-88 sur le pouvoir d’emprunt, L.C. 1987, ch. 5, partie II
-- ** 4** Loi de 1988-89 sur le pouvoir d’emprunt, L.C. 1988, ch. 7
-- ** 5** Loi de 1989-90 sur le pouvoir d’emprunt, L.C. 1989, ch. 4
-- ** 6** Loi de 1990-1991 sur le pouvoir d’emprunt, L.C. 1990, ch. 19
-- ** 7** Loi de 1991-1992 sur le pouvoir d’emprunt, L.C. 1991, ch. 23
-- ** 8** Loi de 1992-1993 sur le pouvoir d’emprunt, L.C. 1992, ch. 12
-- ** 9** Loi no 2 de 1992-1993 sur le pouvoir d’emprunt, L.C. 1993, ch. 4
+- **1** Loi de 1986-87 sur le pouvoir d’emprunt, S.C. 1986, ch. 19
+- **2** Loi no 2 de 1986-87 sur le pouvoir d’emprunt, L.C. 1987, ch. 5, partie I
+- **3** Loi de 1987-88 sur le pouvoir d’emprunt, L.C. 1987, ch. 5, partie II
+- **4** Loi de 1988-89 sur le pouvoir d’emprunt, L.C. 1988, ch. 7
+- **5** Loi de 1989-90 sur le pouvoir d’emprunt, L.C. 1989, ch. 4
+- **6** Loi de 1990-1991 sur le pouvoir d’emprunt, L.C. 1990, ch. 19
+- **7** Loi de 1991-1992 sur le pouvoir d’emprunt, L.C. 1991, ch. 23
+- **8** Loi de 1992-1993 sur le pouvoir d’emprunt, L.C. 1992, ch. 12
+- **9** Loi no 2 de 1992-1993 sur le pouvoir d’emprunt, L.C. 1993, ch. 4
 - **10** Loi de 1993-1994 sur le pouvoir d’emprunt, L.C. 1993, ch. 20
 - **11** Loi sur le pouvoir d’emprunt pour 1994-1995, L.C. 1994, ch. 4
 - **12** Loi sur le pouvoir d’emprunt pour 1995-1996, L.C. 1995, ch. 8
