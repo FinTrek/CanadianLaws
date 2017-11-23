@@ -556,9 +556,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 > 2016, ch. 7.
 **
 
-<sup><a href='#fn_Ind146B_hq_20477'>[*]</a></sup>**107** L’article 103 entre en vigueur à la date d’entrée en vigueur de l’article 183 de la Loi no 1 d’exécution du budget de 2016.
+<sup><a href='#fn_Ind146B_hq_20477'>[*]</a></sup>**107
+** L’article 103 entre en vigueur à la date d’entrée en vigueur de l’article 183 de la Loi no 1 d’exécution du budget de 2016.
 
-<a name='fn_Ind146B_hq_20477'><sup>*</sup></a>: [Note : Article 103 non en vigueur.]<br />
+<a name='fn_Ind146B_hq_20477'><sup>*</sup></a>: [Note: Article 103 en vigueur le 23 novembre 2017, *voir* TR/2017-73.]<br />
 
 
 
