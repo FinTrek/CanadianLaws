@@ -2846,7 +2846,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-<sup><a href='#fn_Ind9541_hq_12898'>[*]</a></sup>**467** 
+<sup><a href='#fn_Ind9541_hq_12898'>[*]</a></sup>**467
+** 
 
 - **(1)** The provisions of this Division, other than sections 445 to 448, 451, 452, 461, 464 and 465, come into force on a day or days to be fixed by order of the Governor in Council.
 
@@ -2854,7 +2855,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Sections 446, 448 and 451 come into force on July 1, 2013.
 
-<a name='fn_Ind9541_hq_12898'><sup>*</sup></a>: [Note: Sections 449, 450 and 453 in force March 1, 2013, *see* SI/2013-18; section 466 in force April 1, 2014, *see* SI/2014-31.]<br />
+<a name='fn_Ind9541_hq_12898'><sup>*</sup></a>: [Note: Sections 449, 450 and 453 in force March 1, 2013, *see* SI/2013-18; section 466 in force April 1, 2014, *see* SI/2014-31; sections 454 to 458 in force November 27, 2017, *see* SI/2017-67.]<br />
 
 
 
