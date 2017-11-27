@@ -26,29 +26,29 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***appel*** S’entend de l’appel visé au paragraphe 28(1) de la Loi ou de l’appel d’un renvoi. (*appeal*)
+***appel*** S’entend de l’appel visé au paragraphe 28(1) de la Loi ou de l’appel d’un renvoi; (*appeal*)
 
-***appelant*** Personne qui interjette appel en vertu des paragraphes 28(1) ou (2) de la Loi ou qui en appelle d’un renvoi. (*appellant*)
+***appelant*** Personne qui interjette appel en vertu des paragraphes 28(1) ou (2) de la Loi ou qui en appelle d’un renvoi; (*appellant*)
 
 ***Comité de révision***[Abrogée, DORS/90-813, art. 1]
 
 ***Commission***[Abrogée, DORS/89-269, art. 1]
 
-***Cour*** désigne la Cour canadienne de l’impôt constituée en application de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md); (*Court*)
+***Cour*** désigne la Cour canadienne de l’impôt constituée en application de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md); (*Court*)
 
-***demande de révision*** Demande faite au ministre en vue d’une révision aux termes de l’article 27.1 de la Loi. (*request for reconsideration*)
+***demande de révision*** Demande faite au ministre en vue d’une révision aux termes de l’article 27.1 de la Loi; (*request for reconsideration*)
 
 ***Directeur régional***[Abrogée, DORS/96-521, art. 1]
 
-***formule de demande*** désigne la formule de demande requise par le ministre; (*application form*)
+***formule de demande*** désigne la formule de demande requise par le ministre; (*application form*)
 
-***Loi*** signifie la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md); (*Act*)
+***Loi*** signifie la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md); (*Act*)
 
 ***ministre***[Abrogée, DORS/96-521, art. 1]
 
-***prestataire*** Est assimilée au prestataire toute personne au nom de laquelle une prestation est devenue payable. (*beneficiary*)
+***prestataire*** Est assimilée au prestataire toute personne au nom de laquelle une prestation est devenue payable; (*beneficiary*)
 
-***renvoi*** Renvoi devant la Cour canadienne de l’impôt visé au paragraphe 28(2) de la Loi. (*reference*)
+***renvoi*** Renvoi devant la Cour canadienne de l’impôt visé au paragraphe 28(2) de la Loi; (*reference*)
 
 ***requérant***[Abrogée, DORS/96-521, art. 1]
 
@@ -56,14 +56,12 @@ Autorités habilitantes :
 
 ***Tribunal de révision***[Abrogée, DORS/96-521, art. 1]
 
-- **(1.1)** Dans le présent règlement :
-	- **a)** la mention de « 60 ans » vaut mention de l’âge prévu à la colonne 2 du tableau figurant au paragraphe 2.2(1) de la Loi selon la période applicable indiquée à la colonne 1;
-	- **b)** la mention de « 65 ans » vaut mention de l’âge prévu à la colonne 2 du tableau figurant au paragraphe 2.2(2) de la Loi selon la période applicable indiquée à la colonne 1.
+- **(1.1)** [Abrogé, DORS/2017-225, art. 1]
 
 - **(2)** Aux fins du présent règlement, la résidence et la présence à Terre-Neuve, avant la date de l’union de cette province au Canada, sont tenues respectivement pour résidence et présence au Canada.
 
-- **(3)** Pour l’application de la définition de ***fonctionnaire public*** au paragraphe 33(1) de la Loi, est désigné comme tel tout particulier employé dans une institution fédérale, ou dont les services sont requis par une institution fédérale, à titre occasionnel ou temporaire ou en vertu d’un programme d’embauche d’étudiants.
-> DORS/81-285, art. 1; DORS/89-269, art. 1; DORS/90-813, art. 1; DORS/96-521, art. 1; DORS/99-193, art. 1; DORS/2013-23, art. 1.
+- **(3)** Pour l’application de la définition de fonctionnaire public au paragraphe 33(1) de la Loi, est désigné comme tel tout particulier employé dans une institution fédérale, ou dont les services sont requis par une institution fédérale, à titre occasionnel ou temporaire ou en vertu d’un programme d’embauche d’étudiants.
+> DORS/81-285, art. 1; DORS/89-269, art. 1; DORS/90-813, art. 1; DORS/96-521, art. 1; DORS/99-193, art. 1; DORS/2013-23, art. 1; DORS/2017-225, art. 1.
 
 
 
@@ -195,6 +193,12 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 
 
 
+**10.1** Si, en vertu du paragraphe 11(3.1) de la Loi, le ministre dispense une personne de l’obligation de présenter une demande de supplément, l’agrément prend effet le jour où cette personne atteint l’âge de 65 ans.
+> DORS/2017-225, art. 2.
+
+
+
+
 
 ### Agrément d’une demande d’allocation
 > [DORS/2000-412, art. 2(A)]
@@ -287,7 +291,9 @@ l’agrément prend effet à celle des dates suivantes qui est postérieure aux 
 
 
 
-**17** [Abrogé, DORS/2000-412, art. 8]
+**17** S’il ne dispose pas de suffisamment de preuves ou de renseignements pour déterminer si la personne dispensée, au titre du paragraphe 11(3.1) de la Loi, de l’obligation de présenter une demande de supplément a un époux ou un conjoint de fait, le ministre peut utiliser, à cette fin, la déclaration de revenus produite par la personne dispensée auprès du ministre du Revenu national pour l’année civile la plus récente pour laquelle la date d’échéance de production est passée.
+> DORS/2017-225, art. 3.
+
 
 
 
@@ -567,15 +573,19 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
-### Annulation de la pension
+### Annulation de la pension ou du supplément
+> [DORS/2017-225, art. 4]
+
 
 
 **26.1** 
 
-- **(1)** Pour l’application du paragraphe 9.3(1) de la Loi, la demande d’annulation du service de la pension est présentée au ministre par écrit dans les six mois suivant la date où il a débuté.
+- **(1)** Pour l’application des paragraphes 9.3(1) et 18.2(1) de la Loi, la demande d’annulation du service de la pension ou du service du supplément, selon le cas, est présentée au ministre par écrit dans les six mois suivant la date où le service a débuté.
 
 - **(2)** Pour l’application du paragraphe 9.3(2) de la Loi, les sommes versées au titre de la pension, du supplément et de l’allocation sont remboursées dans les six mois suivant la date d’agrément de la demande.
-> DORS/2013-23, art. 9.
+
+- **(3)** Pour l’application du paragraphe 18.2(2) de la Loi, les sommes versées au titre du supplément et de l’allocation sont remboursées dans les six mois suivant la date d’agrément de la demande.
+> DORS/2013-23, art. 9; DORS/2017-225, art. 5.
 
 
 
