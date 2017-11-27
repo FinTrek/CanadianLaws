@@ -26,29 +26,29 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
-***Act*** means the Old Age Security Act; (*Loi*)
+***Act*** means the Old Age Security Act; (*Loi*)
 
-***appeal*** means an appeal referred to in subsection 28(1) of the Act or made in respect of a reference; (*appel*)
+***appeal*** means an appeal referred to in subsection 28(1) of the Act or made in respect of a reference; (*appel*)
 
-***appellant*** means a person who makes an appeal referred to in subsection 28(1) or (2) of the Act or in respect of a reference; (*appelant*)
+***appellant*** means a person who makes an appeal referred to in subsection 28(1) or (2) of the Act or in respect of a reference; (*appelant*)
 
 ***applicant***[Repealed, SOR/96-521, s. 1]
 
-***application form*** means the form of application required by the Minister; (*formule de demande*)
+***application form*** means the form of application required by the Minister; (*formule de demande*)
 
-***beneficiary*** includes a person on whose behalf a benefit has become payable; (*prestataire*)
+***beneficiary*** includes a person on whose behalf a benefit has become payable; (*prestataire*)
 
 ***Board***[Repealed, SOR/89-269, s. 1]
 
-***Court*** means the Tax Court of Canada constituted by the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md); (*Cour*)
+***Court*** means the Tax Court of Canada constituted by the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md); (*Cour*)
 
 ***Minister***[Repealed, SOR/96-521, s. 1]
 
-***reference*** means a reference to the Tax Court of Canada pursuant to subsection 28(2) of the Act; (*renvoi*)
+***reference*** means a reference to the Tax Court of Canada pursuant to subsection 28(2) of the Act; (*renvoi*)
 
 ***Regional Director***[Repealed, SOR/96-521, s. 1]
 
-***request for reconsideration*** means a request made to the Minister for reconsideration under section 27.1 of the Act; (*demande de révision*)
+***request for reconsideration*** means a request made to the Minister for reconsideration under section 27.1 of the Act; (*demande de révision*)
 
 ***Review Committee***[Repealed, SOR/90-813, s. 1]
 
@@ -56,14 +56,12 @@ Enabling authorities:
 
 ***secretary***[Repealed, SOR/96-521, s. 1]
 
-- **(1.1)** In these Regulations,
-	- **(a)** a reference to the age of “60 years” is to be read for the applicable period set out in column 1 of the table to subsection 2.2(1) of the Act as a reference to the corresponding age in column 2; and
-	- **(b)** a reference to the age of “65 years” is to be read for the applicable period set out in column 1 of the table to subsection 2.2(2) of the Act as a reference to the corresponding age in column 2.
+- **(1.1)** [Repealed, SOR/2017-225, s. 1]
 
 - **(2)** For the purposes of these Regulations, residence and presence in Newfoundland prior to the date of union of Newfoundland with Canada are deemed to be residence and presence in Canada respectively.
 
-- **(3)** For the purpose of the definition ***public officer*** in subsection 33(1) of the Act, a prescribed individual is a person employed in a federal institution or whose services are required by a federal institution, on a casual or temporary basis or under a student employment program.
-> SOR/81-285, s. 1; SOR/89-269, s. 1; SOR/90-813, s. 1; SOR/96-521, s. 1; SOR/99-193, s. 1; SOR/2013-23, s. 1.
+- **(3)** For the purpose of the definition public officer in subsection 33(1) of the Act, a prescribed individual is a person employed in a federal institution or whose services are required by a federal institution, on a casual or temporary basis or under a student employment program.
+> SOR/81-285, s. 1; SOR/89-269, s. 1; SOR/90-813, s. 1; SOR/96-521, s. 1; SOR/99-193, s. 1; SOR/2013-23, s. 1; SOR/2017-225, s. 1.
 
 
 
@@ -195,6 +193,12 @@ the Minister’s approval shall be effective on the latest of
 
 
 
+**10.1** If the Minister waives the requirement for an application for a supplement in respect of a person under subsection 11(3.1) of the Act, the Minister’s approval is effective as of the day on which the person attains the age of 65.
+> SOR/2017-225, s. 2.
+
+
+
+
 
 ### Approval of Application for an Allowance
 > [SOR/2000-412, s. 2(E)]
@@ -287,7 +291,9 @@ the Minister’s approval shall be effective on the latest of
 
 
 
-**17** [Repealed, SOR/2000-412, s. 8]
+**17** If the Minister does not have sufficient evidence or information to determine if a person, for whom the requirement for an application for a supplement has been waived under subsection 11(3.1) of the Act, has a spouse or common-law partner, the Minister may use the tax return filed with the Minister of National Revenue by that person for the most recent calendar year for which the filing due date has passed to make that determination.
+> SOR/2017-225, s. 3.
+
 
 
 
@@ -567,15 +573,19 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
-### Cancellation of Pension
+### Cancellation of Pension or Supplement
+> [SOR/2017-225, s. 4]
+
 
 
 **26.1** 
 
-- **(1)** For the purposes of subsection 9.3(1) of the Act, a request for cancellation of a pension shall be made to the Minister in writing no later than six months after the day on which payment of the pension begins.
+- **(1)** For the purposes of subsections 9.3(1) and 18.2(1) of the Act, a request for cancellation of a pension or supplement shall be made to the Minister in writing no later than six months after the day on which payment of the pension or supplement, as the case may be, begins.
 
 - **(2)** For the purposes of subsection 9.3(2) of the Act, the amount of any pension and related supplement or allowance shall be repaid no later than six months after the day on which the request is granted.
-> SOR/2013-23, s. 9.
+
+- **(3)** For the purposes of subsection 18.2(2) of the Act, the amount of any supplement and related allowance shall be repaid no later than six months after the day on which the request is granted.
+> SOR/2013-23, s. 9; SOR/2017-225, s. 5.
 
 
 
