@@ -1081,7 +1081,23 @@ Sont visés par la présente définition les musées. (*business*)
 
 **Prolongation de la période de validité**
 
-- **(1.1)** Malgré le paragraphe (1), le contrôleur des armes à feu peut, jusqu’au 1<sup>er</sup> janvier 2005, prolonger la période de validité mentionnée sur les permis visés à ce paragraphe qui ont été délivrés avant le 31 décembre 2001 d’une période qui ne peut dépasser quatre ans.
+- **(1.1)** Malgré le paragraphe (1), la période de validité d’un permis relatif à une arme à feu est prolongée de six mois dans le cas où il n’a pas été renouvelé avant sa date d’expiration.
+
+**Interdiction d’utilisation ou d’acquisition**
+
+- **(1.2)** Le titulaire du permis dont la validité est prolongée au titre du paragraphe (1.1) ne peut, avant le renouvellement du permis, utiliser ses armes à feu ou acquérir des armes à feu ou des munitions.
+
+**Autorisations : aucune prolongation**
+
+- **(1.3)** Le paragraphe (1.1) n’a pas pour effet de prolonger la validité d’une autorisation de port ou de transport au-delà de la date d’expiration du permis prévue au paragraphe (1).
+
+**Autorisations : délivrance**
+
+- **(1.4)** Pendant la période de prolongation, les autorisations ci-après ne peuvent être délivrées au titulaire du permis :
+	- **a)** une autorisation de port;
+	- **b)** une autorisation de transport, sauf si elle est délivrée pour l’une des raisons suivantes :
+		- **(i)** une raison mentionnée aux sous-alinéas 19(1)b)(i) ou (ii),
+		- **(ii)** le titulaire désire transporter une arme à feu afin d’en disposer en la vendant ou en l’exportant.
 
 **Mineurs**
 
@@ -1100,7 +1116,7 @@ Sont visés par la présente définition les musées. (*business*)
 **Notification**
 
 - **(7)** Le cas échéant, le contrôleur des armes à feu notifie la prolongation aux titulaires des permis.
-> 1995, ch. 39, art. 64; 2003, ch. 8, art. 40; 2008, ch. 20, art. 3
+> 1995, ch. 39, art. 64; 2003, ch. 8, art. 40; 2008, ch. 20, art. 3; 2015, ch. 27, art. 14
 
 
 
