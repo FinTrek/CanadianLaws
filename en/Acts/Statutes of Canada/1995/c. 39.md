@@ -1109,9 +1109,25 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 	- **(a)** five years after the birthday of the holder next following the day on which it is issued, and
 	- **(b)** the expiration of the period for which it is expressed to be issued.
 
-**Extension of term**
+**Extension period**
 
-- **(1.1)** Despite subsection (1), a chief firearms officer may, until January 1, 2005, with respect to any licence referred to in that subsection that is issued before December 31, 2001, extend the period for which the licence is expressed to be issued by an additional period of up to four years.
+- **(1.1)** Despite subsection (1), if a licence for firearms is not renewed before it expires, the licence is extended for a period of six months beginning on the day on which it would have expired under that subsection.
+
+**No use or acquisition**
+
+- **(1.2)** The holder of a licence that is extended under subsection (1.1) must not, until the renewal of their licence, use their firearms or acquire any firearms or ammunition.
+
+**Authorizations — no extension**
+
+- **(1.3)** The extension of a licence under subsection (1.1) does not result in the extension of any authorization to carry or authorization to transport beyond the day on which the licence would have expired under subsection (1).
+
+**Authorizations — issuance**
+
+- **(1.4)** During the extension period, the following authorizations must not be issued to the holder of the licence:
+	- **(a)** an authorization to carry; and
+	- **(b)** an authorization to transport, unless it is issued
+		- **(i)** for a reason referred to in subparagraph 19(1)(b)(i) or (ii), or
+		- **(ii)** because the holder wishes to transport a firearm for disposal through sale or exportation.
 
 **Minors**
 
@@ -1136,7 +1152,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Notice to holder**
 
 - **(7)** The chief firearms officer shall give notice of every extension under this section to the holder of the licence.
-> 1995, c. 39, s. 64; 2003, c. 8, s. 40; 2008, c. 20, s. 3
+> 1995, c. 39, s. 64; 2003, c. 8, s. 40; 2008, c. 20, s. 3; 2015, c. 27, s. 14
 
 
 
