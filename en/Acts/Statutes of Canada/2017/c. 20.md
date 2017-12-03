@@ -1498,7 +1498,7 @@ where
 
 <sup><a href='#fn_IndA13C_hq_20453'>[*]</a></sup>**269** This Division, other than sections 257, 258 and 268, comes into force on a day to be fixed by order of the Governor in Council, which may not be earlier than July 10, 2017.
 
-<a name='fn_IndA13C_hq_20453'><sup>*</sup></a>: [Note: Division 11, other than sections 257, 258 and 268, not in force.]<br />
+<a name='fn_IndA13C_hq_20453'><sup>*</sup></a>: [Note: Division 11, other than sections 257, 258 and 268, in force December 3, 2017, *see* SI/2017-68.]<br />
 
 
 
