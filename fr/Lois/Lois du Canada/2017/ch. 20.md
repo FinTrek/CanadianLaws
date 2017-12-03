@@ -1499,7 +1499,7 @@ où :
 
 <sup><a href='#fn_Ind4883_hq_20489'>[*]</a></sup>**269** La présente section, à l’exception des articles 257, 258 et 268, entre en vigueur à la date fixée par décret, laquelle ne peut être antérieure au 10 juillet 2017.
 
-<a name='fn_Ind4883_hq_20489'><sup>*</sup></a>: [Note : Section 11, à l’exception des articles 257, 258 et 268, non en vigueur.]<br />
+<a name='fn_Ind4883_hq_20489'><sup>*</sup></a>: [Note : Section 11, à l’exception des articles 257, 258 et 268, en vigueur le 3 décembre 2017, *voir* TR/2017-68.]<br />
 
 
 
