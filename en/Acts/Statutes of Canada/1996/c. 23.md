@@ -95,7 +95,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***regular benefits*** means benefits payable under Part I and Part VIII, but does not include special benefits or benefits by virtue of section 24 or 25; (*prestations régulières*)
 
-***special benefits*** means benefits paid for any reason mentioned in subsection 12(3); (*prestations spéciales*)
+***special benefits*** means benefits paid for any reason mentioned in subsection 12(3) or 152.14(1); (*prestations spéciales*)
 
 ***umpire***[Repealed, 2012, c. 19, s. 240]
 
@@ -118,7 +118,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Weeks of benefits paid**
 
 - **(5)** For the purposes of section 145, the Commission may, with the approval of the Governor in Council, make regulations for establishing how many weeks of benefits a claimant was paid, in order to take into account benefit reductions or deductions in the calculation or payment of those benefits.
-> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15; 2005, c. 34, s. 80; 2009, c. 33, s. 2; 2012, c. 19, s. 240; 2013, c. 40, s. 238; 2016, c. 7, s. 207.
+> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15; 2005, c. 34, s. 80; 2009, c. 33, s. 2; 2012, c. 19, s. 240; 2013, c. 40, s. 238; 2016, c. 7, s. 207; 2017, c. 20, s. 229.
 
 
 
@@ -638,9 +638,16 @@ by
 
 **Exception**
 
-- **(5.2)** A claim for benefits referred to in section 23.2 with respect to a critically ill child or children who are critically ill as a result of the same event must not be regarded as having been made on an earlier day under subsection (4) or (5) if
+- **(5.2)** A claim for benefits referred to in section 23.2 with respect to a critically ill child must not be regarded as having been made on an earlier day under subsection (4) or (5) if
 	- **(a)** at the time the claim is made, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
-	- **(b)** the beginning of the period referred to in subsection 23.2(3) or (4) has already been determined with respect to that child or those children and the claim would have the effect of moving the beginning of that period to an earlier date; or
+	- **(b)** the beginning of the period referred to in subsection 23.2(3) has already been determined with respect to that child and the claim would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Exception**
+
+- **(5.3)** A claim for benefits referred to in section 23.3 with respect to a critically ill adult must not be regarded as having been made on an earlier day under subsection (4) or (5) if
+	- **(a)** at the time the claim is made, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection 23.3(3) has already been determined with respect to that adult and the claim would have the effect of moving the beginning of that period to an earlier date; or
 	- **(c)** the claim is made in any other circumstances set out in the regulations.
 
 **Cancelling benefit period**
@@ -694,22 +701,37 @@ by
 
 - **(13)** If, during a claimant’s benefit period,
 	- **(a)** regular benefits were not paid to the claimant,
-	- **(b)** benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (e) and at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons, and
+	- **(b)** benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (f) and at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons, and
 	- **(c)** the maximum total number of weeks established for those reasons is greater than 50,
 the benefit period is extended so that those benefits may be paid up to that maximum total number of weeks.
 
+**Extension of benefit period — reason mentioned in paragraph 12(3)(b)**
+
+- **(13.01)** The benefit period is extended by 26 weeks so that benefits may be paid for the reason mentioned in paragraph 12(3)(b) up to the maximum number of weeks if, during a claimant’s benefit period,
+	- **(a)** benefits were paid to the claimant for that reason and the applicable maximum number of weeks is established in subparagraph 12(3)(b)(ii);
+	- **(b)** regular benefits were not paid to the claimant; and
+	- **(c)** benefits were not paid for any reason mentioned in paragraph 12(3)(a), (c), (d), (e) or (f).
+
+**Extension of benefit period — regular and special benefits**
+
+- **(13.02)** If, during a claimant’s benefit period, regular benefits were paid, benefits were paid for the reason mentioned in paragraph 12(3)(b) in the case where the applicable maximum number of weeks is established under subparagraph 12(3)(b)(ii), and benefits were paid for fewer than the total number of weeks established under subsection 12(6) as determined under subsection 12(7), the benefit period is extended so that benefits may be paid up to that total number of weeks. The extension must not exceed 26 weeks.
+
+**Limitation**
+
+- **(13.03)** Only the regular benefits and benefits for any of the reasons mentioned in paragraphs 12(3)(a) to (f) that were paid during the claimant’s benefit period before it was extended under subsection (13.02) are payable during that extension.
+
 - **(13.1) to (13.7)** [Repealed, 2016, c. 7, s. 211]
 
-**Maximum extension under subsections (10) to (13)**
+**Maximum extension under subsections (10) to (13.02)**
 
-- **(14)** Subject to subsection (15), an extension under any of subsections (10) to (13) must not result in a benefit period of more than 104 weeks.
+- **(14)** An extension under one or more of subsections (10) to (13.02) must not result in a benefit period of more than 104 weeks.
 
 - **(14.1)** [Repealed, 2016, c. 7, s. 211]
 
 **Maximum extension under subsection (13)**
 
-- **(15)** Unless the benefit period is also extended under any of subsections (10) to (12.1), an extension under subsection (13) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 12(3) for each of the benefits paid to the claimant for one of the reasons mentioned in paragraphs 12(3)(a) to (e) during the claimant’s benefit period before it was extended under subsection (13).
-> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5; 2010, c. 9, s. 2; 2012, c. 27, s. 13; 2013, c. 35, s. 2; 2016, c. 7, s. 211.
+- **(15)** Subject to subsection (14), unless the benefit period is also extended under any of subsections (10) to (12.1), an extension under subsection (13) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 12(3) for each of the benefits paid to the claimant for one of the reasons mentioned in paragraphs 12(3)(a) to (f) during the claimant’s benefit period before it was extended under subsection (13).
+> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5; 2010, c. 9, s. 2; 2012, c. 27, s. 13; 2013, c. 35, s. 2; 2016, c. 7, s. 211; 2017, c. 20, s. 230.
 
 
 
@@ -761,20 +783,23 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 - **(3)** The maximum number of weeks for which benefits may be paid in a benefit period
 	- **(a)** because of pregnancy is 15;
-	- **(b)** because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is 35;
+	- **(b)** because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is, in accordance with the election under section 23,
+		- **(i)** 35, or
+		- **(ii)** 61;
 	- **(c)** because of a prescribed illness, injury or quarantine is 15;
-	- **(d)** because the claimant is providing care or support to one or more family members described in subsection 23.1(2) is 26; and
-	- **(e)** because the claimant is providing care or support to one or more critically ill children described in subsection 23.2(1), is 35.
+	- **(d)** because the claimant is providing care or support to one or more family members described in subsection 23.1(2) is 26;
+	- **(e)** because the claimant is providing care or support to one or more critically ill children described in subsection 23.2(1), is 35; and
+	- **(f)** because the claimant is providing care or support to one or more critically ill adults described in subsection 23.3(1) is 15.
 
 **Maximum — special benefits**
 
 - **(4)** The maximum number of weeks for which benefits may be paid
 	- **(a)** for a single pregnancy is 15; and
-	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is 35.
+	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, in accordance with the election under section 23, 35 or 61.
 
 **Maximum — parental benefits**
 
-- **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is 35.
+- **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, in accordance with the election under section 23, 35 or 61.
 
 **Maximum — compassionate care benefits**
 
@@ -792,9 +817,9 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 - **(4.4)** Even if more than one claim is made under this Act, at least one of which is made under section 23.2 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 23.2 — for the same reason and in respect of the same critically ill child, the maximum number of weeks of benefits payable under this Act in respect of that child is 35 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 23.2(3)(a).
 
-**Maximum — critically ill children**
+**Maximum — critically ill adult**
 
-- **(4.5)** Even if more than one claim is made under this Act, at least one of which is made under section 23.2 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 23.2 — for the same reason and in respect of the same children who are critically ill as a result of the same event, the maximum number of weeks of benefits payable under this Act in respect of those children is 35 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 23.2(4)(a).
+- **(4.5)** Even if more than one claim is made under this Act, at least one of which is made under section 23.3 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 23.3 — for the same reason and in respect of the same critically ill adult, the maximum number of weeks of benefits payable under this Act in respect of that adult is 15 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 23.3(3)(a).
 
 **Combined weeks of benefits**
 
@@ -804,12 +829,16 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 - **(6)** In a claimant’s benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50.
 
-- **(7)** [Repealed, 2000, c. 14, s. 3]
+**Determination — total number of weeks**
+
+- **(7)** For the purpose of determining whether the total number of weeks of benefits established under subsection (6) has been reached, in the case where benefits have been paid for the reason mentioned in paragraph 12(3)(b) and the applicable maximum number of weeks is established under subparagraph 12(3)(b)(ii),
+	- **(a)** the number of weeks of benefits that were paid for the reason mentioned in paragraph 12(3)(b) is converted to the number of weeks of benefits that would have been paid at a rate of weekly benefits of 55%, as set out in the table in Schedule IV; and
+	- **(b)** other than the weeks referred to in subsections 10(10) to (12.1) in respect of which the benefit period is extended and the week referred to in section 13, the weeks for which no benefits were paid are deemed to be weeks for which benefits were paid at a rate of weekly benefits of 55%.
 
 **Adoption**
 
 - **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
-> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6; 2012, c. 27, s. 14; 2015, c. 36, s. 74; 2016, c. 7, s. 212.
+> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6; 2012, c. 27, s. 14; 2015, c. 36, s. 74; 2016, c. 7, s. 212; 2017, c. 20, s. 231.
 
 
 
@@ -832,7 +861,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **14** 
 
-- **(1)** The rate of weekly benefits payable to a claimant is 55% of their weekly insurable earnings.
+- **(1)** The rate of weekly benefits payable to a claimant is 55% of their weekly insurable earnings, or 33% of their weekly insurable earnings for the weeks for which the claimant is paid benefits under section 23 in the case where the applicable maximum number of weeks is established under subparagraph 12(3)(b)(ii).
 
 **Maximum weekly insurable earnings**
 
@@ -899,7 +928,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 - **(4)** The calculation period of a claimant is the number of weeks, whether consecutive or not, determined in accordance with the table set out in subsection (2) by reference to the applicable regional rate of unemployment, in the claimant’s qualifying period for which he or she received the highest insurable earnings.
 
 - **(4.1)** [Repealed, 2012, c. 19, s. 604]
-> 1996, c. 23, s. 14; 2012, c. 19, s. 604.
+> 1996, c. 23, s. 14; 2012, c. 19, s. 604; 2017, c. 20, s. 232.
 
 
 
@@ -956,8 +985,8 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Exception**
 
-- **(2)** A claimant to whom benefits are payable under any of sections 23 to 23.2 is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
-> 1996, c. 23, s. 18; 2012, c. 27, s. 15; 2014, c. 20, s. 247.
+- **(2)** A claimant to whom benefits are payable under any of sections 23 to 23.3 is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
+> 1996, c. 23, s. 18; 2012, c. 27, s. 15; 2014, c. 20, s. 247; 2017, c. 20, s. 233.
 
 
 
@@ -1044,7 +1073,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 - **(2)** Subject to section 12, benefits are payable to a major attachment claimant under this section for each week of unemployment in the period
 	- **(a)** that begins the earlier of
-		- **(i)** eight weeks before the week in which her confinement is expected, and
+		- **(i)** 12 weeks before the week in which her confinement is expected, and
 		- **(ii)** the week in which her confinement occurs; and
 	- **(b)** that ends 17 weeks after the later of
 		- **(i)** the week in which her confinement is expected, and
@@ -1069,7 +1098,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Limitation**
 
 - **(7)** The extended period shall end no later than 52 weeks after the week of confinement.
-> 1996, c. 23, s. 22; 2016, c. 7, s. 214.
+> 1996, c. 23, s. 22; 2016, c. 7, s. 214; 2017, c. 20, s. 234.
 
 
 
@@ -1080,6 +1109,18 @@ the benefit period is extended so that those benefits may be paid up to that max
 **23** 
 
 - **(1)** Notwithstanding section 18, but subject to this section, benefits are payable to a major attachment claimant to care for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption under the laws governing adoption in the province in which the claimant resides.
+
+**Election by claimant**
+
+- **(1.1)** In a claim for benefits made under this section, a claimant shall elect the maximum number of weeks referred to in either subparagraph 12(3)(b)(i) or (ii) for which benefits may be paid.
+
+**Irrevocability of election**
+
+- **(1.2)** The election is irrevocable once benefits are paid under this section or under section 152.05 in respect of the same child or children.
+
+**First to elect**
+
+- **(1.3)** If two major attachment claimants each make a claim for benefits under this section — or one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, the election made under subsection (1.1) or 152.05(1.1) by the first claimant or individual, as the case may be, to make a claim for benefits under this section or under section 152.05 is binding on both claimants or on the claimant and the individual.
 
 **Weeks for which benefits may be paid**
 
@@ -1101,14 +1142,24 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Extension of period — special benefits**
 
-- **(3.2)** If, during a claimant’s benefit period,
-	- **(a)** regular benefits were not paid to the claimant,
-	- **(b)** benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (e),
-	- **(c)** the maximum total number of weeks established for those reasons is greater than 50, and
-	- **(d)** benefits were paid for the reason mentioned in paragraph 12(3)(b) but for fewer than the maximum number of weeks established for that reason,
-the period referred to in subsection (2) is extended so that benefits may be paid up to the maximum number of weeks referred to in paragraph 12(3)(b).
+- **(3.2)** The period referred to in subsection (2) is extended so that benefits may be paid up to the applicable maximum number of weeks referred to in subparagraph 12(3)(b)(i) or (ii) if, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant;
+	- **(b)** benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (f);
+	- **(c)** the maximum total number of weeks established for those reasons is greater than 50; and
+	- **(d)** benefits were paid for the reason mentioned in paragraph 12(3)(b) but for fewer than the applicable maximum number of weeks established for that reason.
 
-- **(3.21) to (3.23)** [Repealed, 2012, c. 27, s. 17]
+**Extension of period — reason mentioned in paragraph 12(3)(b)**
+
+- **(3.21)** The period referred to in subsection (2) is extended by 26 weeks so that benefits may be paid for the reason mentioned in paragraph 12(3)(b) up to the maximum number of weeks if, during a claimant’s benefit period,
+	- **(a)** benefits were paid to the claimant for that reason and the applicable maximum number of weeks is established in subparagraph 12(3)(b)(ii);
+	- **(b)** regular benefits were not paid to the claimant; and
+	- **(c)** benefits were not paid for any reason mentioned in paragraph 12(3)(a), (c), (d), (e) or (f).
+
+**Extension of period — regular and special benefits**
+
+- **(3.22)** If, during a claimant’s benefit period, regular benefits were paid, benefits were paid for the reason mentioned in paragraph 12(3)(b) in the case where the applicable maximum number of weeks is established under subparagraph 12(3)(b)(ii), and benefits were paid for fewer than the total number of weeks established under subsection 12(6) as determined under subsection 12(7), the period referred to in subsection (2) is extended for the same number of weeks as the extension established under subsection 10(13.02).
+
+- **(3.23)** [Repealed, 2012, c. 27, s. 17]
 
 **Limitation**
 
@@ -1116,7 +1167,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Limitation**
 
-- **(3.4)** An extension under any of subsections 10(10) to (13) must not result in the period referred to in subsection (2) being longer than 104 weeks.
+- **(3.4)** An extension under one or more of subsections 10(10) to (13.02) must not result in the period referred to in subsection (2) being longer than 104 weeks.
 
 **Limitation**
 
@@ -1124,11 +1175,11 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Division of weeks of benefits**
 
-- **(4)** If two major attachment claimants are caring for a child referred to in subsection (1), or one major attachment claimant and an individual who claims benefits under section 152.05 are both caring for a child referred to in that subsection, weeks of benefits payable under this section, under section 152.05 or under both those sections, up to a maximum of 35 weeks, may be divided between them.
+- **(4)** If two major attachment claimants each make a claim for benefits under this section — or if one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of 35, if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum number of weeks that can be divided**
 
-- **(4.1)** For greater certainty, if, in respect of the same child, a major attachment claimant makes a claim for benefits under this section and another person makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed 35 weeks.
+- **(4.1)** For greater certainty, if, in respect of the same child, a major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed 35, if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii).
 
 **Deferral of waiting period**
 
@@ -1143,28 +1194,21 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 - **(6)** If a major attachment claimant makes a claim under section 22 or this section and an individual makes a claim under section 152.04 or 152.05 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
 	- **(a)** if the major attachment claimant is not the one who served or elected to serve the waiting period, that claimant is not required to serve a waiting period; or
 	- **(b)** if the individual is not the one who served or elected to serve the waiting period, that claimant may have his or her waiting period deferred in accordance with section 152.05.
-> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7; 2010, c. 9, s. 3; 2012, c. 27, s. 17.
+> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7; 2010, c. 9, s. 3; 2012, c. 27, s. 17; 2017, c. 20, s. 235.
 
 
 
-
-
-**Definition**
 
 **23.1** 
 
-- **(1)** In this section, ***family member***, in relation to an individual, means
-	- **(a)** a spouse or common-law partner of the individual;
-	- **(b)** a child of the individual or a child of the individual’s spouse or common-law partner;
-	- **(c)** a parent of the individual or a spouse or common-law partner of the parent; and
-	- **(d)** any other person who is a member of a class of persons prescribed for the purposes of this definition.
+- **(1)** [Repealed, 2017, c. 20, s. 236]
 
 **Compassionate care benefits**
 
-- **(2)** Notwithstanding section 18, but subject to this section, benefits are payable to a major attachment claimant if a medical doctor has issued a certificate stating that
+- **(2)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant if a medical doctor or nurse practitioner has issued a certificate stating that
 	- **(a)** a family member of the claimant has a serious medical condition with a significant risk of death within 26 weeks
 		- **(i)** from the day the certificate is issued,
-		- **(ii)** in the case of a claim that is made before the day the certificate is issued, from the day from which the medical doctor certifies the family member’s medical condition, or
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor or nurse practitioner certifies the family member’s medical condition, or
 		- **(iii)** in the case of a claim that is regarded to have been made on an earlier day under subsection 10(4) or (5), from that earlier day; and
 	- **(b)** the family member requires the care or support of one or more other family members.
 
@@ -1177,7 +1221,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 - **(4)** Subject to section 12, benefits under this section are payable for each week of unemployment in the period
 	- **(a)** that begins with the first day of the week in which the following falls, namely,
 		- **(i)** the day of issuance of the first certificate in respect of the family member that meets the requirements of subsection (2) and is filed with the Commission,
-		- **(ii)** in the case of a claim that is made before the day the certificate is issued, the day from which the medical doctor certifies the family member’s medical condition, or
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies the family member’s medical condition, or
 		- **(iii)** in the case of a claim that is regarded to have been made on an earlier day under subsection 10(4) or (5), that earlier day; and
 	- **(b)** that ends on the last day of the week in which any of the following occurs, namely,
 		- **(i)** all benefits payable under this section in respect of the family member are exhausted,
@@ -1186,7 +1230,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Certificate not necessary**
 
-- **(4.1)** For greater certainty, but subject to subsections (4) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (2)(a), it is not necessary for a medical doctor to issue an additional certificate under subsection (2).
+- **(4.1)** For greater certainty, but subject to subsections (4) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (2)(a), it is not necessary for a medical doctor or nurse practitioner to issue an additional certificate under subsection (2).
 
 **Shorter period**
 
@@ -1223,7 +1267,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Limitation**
 
 - **(10)** When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
-> 2003, c. 15, s. 19; 2009, c. 33, s. 8; 2015, c. 36, s. 75.
+> 2003, c. 15, s. 19; 2009, c. 33, s. 8; 2015, c. 36, s. 75; 2017, c. 20, s. 236.
 
 
 
@@ -1233,73 +1277,121 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **23.2** 
 
-- **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant, who is the parent of a critically ill child, in order to care for or support that child if a specialist medical doctor has issued a certificate that
-	- **(a)** states that the child is a critically ill child and requires the care or support of one or more of their parents; and
+- **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant who is a family member of a critically ill child in order to care for or support that child, if a medical doctor or nurse practitioner has issued a certificate that
+	- **(a)** states that the child is a critically ill child and requires the care or support of one or more of their family members; and
 	- **(b)** sets out the period during which the child requires that care or support.
 
 **Medical practitioner**
 
 - **(2)** In the circumstances set out in the regulations, the certificate referred to in subsection (1) may be issued by a member of a prescribed class of medical practitioners.
 
-**Weeks for which benefits may be paid — child**
+**Weeks for which benefits may be paid**
 
-- **(3)** Subject to subsection (4) and section 12, benefits under this section are payable for each week of unemployment in the period
+- **(3)** Subject to section 12, benefits under this section are payable for each week of unemployment in the period
 	- **(a)** that begins on the first day of the week in which either of the following falls:
 		- **(i)** the day on which the first certificate is issued in respect of the child that meets the requirements of subsection (1) and is filed with the Commission, or
-		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the specialist medical doctor certifies that the child is critically ill; and
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the child is critically ill; and
 	- **(b)** that ends on the last day of the week in which any of the following occurs:
 		- **(i)** all benefits payable under this section in respect of the child are exhausted,
 		- **(ii)** the child dies, or
 		- **(iii)** the expiry of 52 weeks following the first day of the week referred to in paragraph (a).
 
-**Weeks for which benefits may be paid — children**
-
-- **(4)** Subject to section 12, if more than one child of the claimant is critically ill as a result of the same event, benefits under this section are payable for each week of unemployment in the period
-	- **(a)** that begins on the first day of the week in which either of the following falls:
-		- **(i)** the day on which the first certificate is issued in respect of any of the children that meets the requirements of subsection (1) and is filed with the Commission, or
-		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the first day from which the specialist medical doctor certifies that any of the children is critically ill; and
-	- **(b)** that ends on the last day of the week in which any of the following occurs:
-		- **(i)** all benefits payable under this section in respect of the children are exhausted,
-		- **(ii)** the last of the children dies, or
-		- **(iii)** the expiry of 52 weeks following the first day of the week referred to in paragraph (a).
+- **(4)** [Repealed, 2017, c. 20, s. 237]
 
 **Exception**
 
-- **(5)** Subparagraph (3)(a)(ii) or (4)(a)(ii) does not apply to a claim if
+- **(5)** Subparagraph (3)(a)(ii) does not apply to a claim if
 	- **(a)** at the time the certificate is filed with the Commission, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
-	- **(b)** the beginning of the period referred to in subsection (3) or (4), as the case may be, has already been determined and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
+	- **(b)** the beginning of the period referred to in subsection (3) has already been determined and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
 	- **(c)** the claim is made in any other circumstances set out in the regulations.
 
-**Deferral of waiting period — child**
+**Deferral of waiting period**
 
-- **(6)** Subject to subsection (7), a claimant who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
+- **(6)** A claimant who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
 	- **(a)** another claimant has made a claim for benefits under this section or section 152.061 in respect of the same child during the period described in subsection (3) and that other claimant has served or is serving their waiting period in respect of that claim;
 	- **(b)** another claimant is making a claim for benefits under this section or section 152.061 in respect of the same child at the same time as the claimant and that other claimant elects to serve their waiting period; or
 	- **(c)** the claimant, or another claimant who has made a claim for benefits under this section or section 152.061 in respect of the same child, meets the prescribed requirements.
 
-**Deferral of waiting period — children**
-
-- **(7)** A claimant who makes a claim for benefits under this section — and more than one of whose children is critically ill as a result of the same event — may have their waiting period deferred until they make another claim for benefits in the same benefit period if
-	- **(a)** another claimant has made a claim for benefits under this section or section 152.061 in respect of the same children during the period described in subsection (4) and that other claimant has served or is serving their waiting period in respect of that claim;
-	- **(b)** another claimant is making a claim for benefits under this section or section 152.061 in respect of the same children at the same time as the claimant and that other claimant elects to serve their waiting period; or
-	- **(c)** the claimant, or another claimant who has made a claim for benefits under this section or section 152.061 in respect of the same children, meets the prescribed requirements.
+- **(7)** [Repealed, 2017, c. 20, s. 237]
 
 **Division of weeks of benefits**
 
-- **(8)** If a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under this section or section 152.061 in respect of the same child or the same children who are critically ill as a result of the same event, any remaining weeks of benefits payable under this section, under section 152.061 or under both those sections, up to a maximum of 35 weeks, may be divided in the manner agreed to by those claimants. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+- **(8)** If a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under this section or section 152.061 in respect of the same child, any remaining weeks of benefits payable under this section, under section 152.061 or under both those sections, up to a maximum of 35 weeks, may be divided in the manner agreed to by those claimants. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum divisible number of weeks**
 
-- **(9)** For greater certainty, if, in respect of the same child or the same children who are critically ill as a result of the same event, a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under section 152.061, the total number of weeks of benefits payable under this section and section 152.061 that may be divided between them must not exceed 35 weeks.
+- **(9)** For greater certainty, if, in respect of the same child, a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under section 152.061, the total number of weeks of benefits payable under this section and section 152.061 that may be divided between them must not exceed 35 weeks.
 
 **Limitation — compassionate care benefits**
 
-- **(10)** Benefits under section 23.1 or 152.06 are not payable in respect of a child during the period referred to in subsection (3) or (4) or 152.061(3) or (4) that is established in respect of that child.
+- **(10)** Benefits under section 23.1 or 152.06 are not payable in respect of a child during the period referred to in subsection (3) or 152.061(3) that is established in respect of that child.
+
+**Limitation — benefits for critically ill adult**
+
+- **(10.1)** Benefits under section 23.3 or 152.062 are not payable during the period of 52 weeks that begins on the first day of the week referred to in paragraph (3)(a) in respect of a person who was a critically ill child if benefits were paid in respect of that person under this section.
 
 **Limitation**
 
 - **(11)** When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
-> 2012, c. 27, s. 18.
+> 2012, c. 27, s. 18; 2017, c. 20, s. 237.
+
+
+
+
+
+**Benefits — critically ill adult**
+
+**23.3** 
+
+- **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant who is a family member of a critically ill adult, in order to care for or support that adult, if a medical doctor or nurse practitioner has issued a certificate that
+	- **(a)** states that the adult is a critically ill adult and requires the care or support of one or more of their family members; and
+	- **(b)** sets out the period during which the adult requires that care or support.
+
+**Medical practitioner**
+
+- **(2)** In the circumstances set out in the regulations, the certificate referred to in subsection (1) may be issued by a member of a prescribed class of medical practitioners.
+
+**Weeks for which benefits may be paid**
+
+- **(3)** Subject to section 12, benefits under this section are payable for each week of unemployment in the period
+	- **(a)** that begins on the first day of the week in which either of the following falls:
+		- **(i)** the day on which the first certificate is issued in respect of the adult that meets the requirements of subsection (1) and is filed with the Commission, or
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the adult is critically ill; and
+	- **(b)** that ends on the last day of the week in which any of the following occurs:
+		- **(i)** all benefits payable under this section in respect of the adult are exhausted,
+		- **(ii)** the adult dies, or
+		- **(iii)** the expiry of the 52 weeks following the first day of the week referred to in paragraph (a).
+
+**Exception**
+
+- **(4)** Subparagraph (3)(a)(ii) does not apply to a claim if
+	- **(a)** at the time the certificate is filed with the Commission, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection (3) has already been determined and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Deferral of waiting period**
+
+- **(5)** A claimant who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
+	- **(a)** another claimant has made a claim for benefits under this section or section 152.062 in respect of the same adult during the period described in subsection (3) and that other claimant has served or is serving their waiting period in respect of that claim;
+	- **(b)** another claimant is making a claim for benefits under this section or section 152.062 in respect of the same adult at the same time as the claimant and that other claimant elects to serve their waiting period; or
+	- **(c)** the claimant, or another claimant who has made a claim for benefits under this section or section 152.062 in respect of the same adult, meets the prescribed requirements.
+
+**Division of weeks of benefits**
+
+- **(6)** If a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under this section or section 152.062 in respect of the same adult, any remaining weeks of benefits payable under this section, under section 152.062 or under both those sections, up to a maximum of 15 weeks, may be divided in the manner agreed to by those claimants. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+
+**Maximum divisible number of weeks**
+
+- **(7)** For greater certainty, if, in respect of the same adult, a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under section 152.062, the total number of weeks of benefits payable under this section and section 152.062 that may be divided between them must not exceed 15 weeks.
+
+**Limitation — compassionate care benefits**
+
+- **(8)** Benefits under section 23.1 or 152.06 are not payable in respect of an adult during the period referred to in subsection (3) or 152.062(3) that is established in respect of that adult.
+
+**Limitation**
+
+- **(9)** When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
+> 2017, c. 20, s. 238.
 
 
 
@@ -1906,7 +1998,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Proof — additional certificate**
 
-- **(8.1)** For the purpose of proving that the conditions of subsection 23.1(2) or 152.06(1) are met, the Commission may require the claimant to provide it with an additional certificate issued by a medical doctor.
+- **(8.1)** For the purpose of proving that the conditions of subsection 23.1(2) or 152.06(1) are met, the Commission may require the claimant to provide it with an additional certificate issued by a medical doctor or nurse practitioner.
 
 **Mailing address**
 
@@ -1915,7 +2007,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Waiver or variation of requirements**
 
 - **(10)** The Commission may waive or vary any of the conditions and requirements of this section or the regulations whenever in its opinion the circumstances warrant the waiver or variation for the benefit of a claimant or a class or group of claimants.
-> 1996, c. 23, s. 50; 2015, c. 36, s. 76.
+> 1996, c. 23, s. 50; 2015, c. 36, s. 76; 2017, c. 20, s. 239.
 
 
 
@@ -1980,19 +2072,19 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 	- **(ii)** whose pattern of full-time employment differs from the normal and customary employment pattern of employed persons generally,
 is to be considered to have worked or not worked a full working week;
 - **(c.1)** for determining the average number of weeks of regular benefits for the purposes of paragraph 7.1(6)(b);
-- **(c.2)** setting out circumstances for the purposes of paragraphs 10(5.1)(c), 10(5.2)(c), 23.1(6)(c), 23.2(5)(c), 152.06(5)(c), 152.061(5)(c), 152.11(6)(c) and 152.11(6.1)(c);
+- **(c.2)** setting out circumstances for the purposes of paragraphs 10(5.1)(c), 10(5.2)(c), 10(5.3)(c), 23.1(6)(c), 23.2(5)(c), 23.3(4)(c), 152.06(5)(c), 152.061(5)(c), 152.062(4)(c), 152.11(6)(c), 152.11(6.1)(c) and 152.11(6.2)(c);
 - **(d)** defining or determining who are dependent children, prescribing low-income family eligibility criteria and determining the amount of family supplements for the purposes of section 16 or 152.17;
 - **(d.1)** determining, for the purposes of subsection 19(3) or 152.18(3), the period for which benefits were claimed;
 - **(e)** providing for the deduction under section 19 of earnings and allowances mentioned in subsection 19(4);
 - **(f)** determining the amount to be deducted under subsection 20(2) from weekly benefits paid if the claimant normally works other than a five day week;
 - **(f.1)** [Not in force]
-- **(f.2)** prescribing classes of persons for the purposes of paragraph 23.1(1)(d) and paragraph (d) of the definition ***family member*** in subsection 152.01(1);
-- **(f.21)** defining or determining what is a parent, a critically ill child and a specialist medical doctor for the purposes of subsections 23.2(1) and 152.061(1);
-- **(f.3)** defining or determining what is care or support for the purposes of paragraphs 23.1(2)(b), 23.2(1)(a), 152.06(1)(b) and 152.061(1)(a);
-- **(f.4)** prescribing classes of medical practitioners for the purposes of subsections 23.1(3), 23.2(2), 152.06(2) and 152.061(2) and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2), 23.2(1), 152.06(1) or 152.061(1);
+- **(f.2)** [Repealed, 2017, c. 20, s. 240]
+- **(f.21)** defining or determining what is a medical doctor, a nurse practitioner, a family member, a critically ill child and a critically ill adult for the purposes of subsections 23.1(2), 23.2(1), 23.3(1), 152.06(1), 152.061(1) and 152.062(1);
+- **(f.3)** defining or determining what is care or support for the purposes of paragraphs 23.1(2)(b), 23.2(1)(a), 23.3(1)(a), 152.06(1)(b), 152.061(1)(a) and 152.062(1)(a);
+- **(f.4)** prescribing classes of medical practitioners for the purposes of subsections 23.1(3), 23.2(2), 23.3(2), 152.06(2), 152.061(2) and 152.062(2) and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2), 23.2(1), 23.3(1), 152.06(1), 152.061(1) or 152.062(1);
 - **(f.5)** prescribing a shorter period for the purposes of subsections 23.1(5) and 152.06(4) and prescribing a minimum number of weeks in relation to that shorter period for the purposes of subsections 12(4.3) and 152.14(7);
-- **(f.6)** prescribing requirements for the purposes of paragraphs 23.1(7)(c), 23.2(6)(c), 23.2(7)(c), 152.06(6)(c), 152.061(6)(c) and 152.061(7)(c);
-- **(f.7)** prescribing rules for the purposes of subsections 23.1(9), 23.2(8) and 152.061(8);
+- **(f.6)** prescribing requirements for the purposes of paragraphs 23.1(7)(c), 23.2(6)(c), 23.3(5)(c), 152.06(6)(c), 152.061(6)(c) and 152.062(5)(c);
+- **(f.7)** prescribing rules for the purposes of subsections 23(4), 23.1(9), 23.2(8), 23.3(6), 152.05(12), 152.06(7), 152.061(8) and 152.062(6);
 - **(g)** setting out the circumstances that constitute the commencement or termination of a stoppage of work for the purposes of section 36;
 - **(g.1)** for defining as a major contravention for the purposes of subsection 39(5) anything that constitutes an act mentioned in subsection 39(1) or (3) and for setting or calculating the amount or maximum amount of the penalty for the major contravention, up to a maximum of $25,000;
 - **(h)** providing for the making of claims by, and the payment of benefits to, any person or agency on behalf of deceased or incapacitated persons or persons with mental disabilities;
@@ -2029,7 +2121,7 @@ is to be considered to have worked or not worked a full working week;
 - **(z.3)** reducing the special benefits payable when allowances, money or other benefits are payable to a claimant under a plan other than one established under a provincial law;
 - **(z.31)** eliminating the special benefits payable to a claimant in respect of any period that constitutes, under a plan other than one established under a provincial law, an elimination period during which no benefit is payable to the claimant under the plan; and
 - **(z.4)** prescribing anything that by section 2 or this Part is to be prescribed.
-> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9; 2012, c. 19, s. 608, c. 27, s. 19; 2016, c. 7, s. 215.
+> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9; 2012, c. 19, s. 608, c. 27, s. 19; 2016, c. 7, s. 215; 2017, c. 20, s. 240.
 
 
 
@@ -2484,12 +2576,12 @@ is to be considered to have worked or not worked a full working week;
 **69** 
 
 - **(1)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s premium when
-	- **(a)** the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care or a child’s critical illness under a plan that covers insured persons employed by the employer, other than one established under provincial law, would have the effect of reducing the special benefits payable to the insured persons; and
+	- **(a)** the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care, a child’s critical illness or an adult’s critical illness under a plan that covers insured persons employed by the employer, other than one established under a provincial law, would have the effect of reducing the special benefits payable to the insured persons; and
 	- **(b)** the insured persons will benefit from the reduction of the employer’s premium in an amount at least equal to 5/12 of the reduction.
 
 **Provincial plans**
 
-- **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s and employee’s premiums, the premiums under Part VII.1 or all those premiums, when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care or a child’s critical illness under a provincial law to insured persons, or to self-employed persons, as the case may be, would have the effect of reducing or eliminating the special benefits payable to those insured persons or the benefits payable to those self-employed persons.
+- **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s and employee’s premiums, the premiums under Part VII.1 or all those premiums, when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care, a child’s critical illness or an adult’s critical illness under a provincial law to insured persons, or to self-employed persons, as the case may be, would have the effect of reducing or eliminating the special benefits payable to those insured persons or the benefits payable to those self-employed persons.
 
 **Included provisions**
 
@@ -2517,7 +2609,11 @@ is to be considered to have worked or not worked a full working week;
 **Reference**
 
 - **(7)** The reference to the payment of allowances, money or other benefits because of a child’s critical illness in subsections (1) and (2) means the payment of allowances, money or other benefits for the same or substantially the same reasons for which benefits are payable under section 23.2.
-> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22; 2005, c. 38, s. 138; 2009, c. 33, s. 10; 2012, c. 27, s. 20.
+
+**Reference**
+
+- **(8)** The reference to the payment of allowances, money or other benefits because of an adult’s critical illness in subsections (1) and (2) means the payment of allowances, money or other benefits for the same or substantially the same reasons for which benefits are payable under section 23.3.
+> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22; 2005, c. 38, s. 138; 2009, c. 33, s. 10; 2012, c. 27, s. 20; 2017, c. 20, s. 241.
 
 
 
@@ -4417,11 +4513,7 @@ is admissible in evidence for all purposes for which the recorded document would
 
 ***disentitled*** means not entitled under sections 49, 50, 152.03, 152.15 or 152.2 or under the regulations. (*inadmissible*)
 
-***family member***, in relation to an individual, means
-- **(a)** a spouse or common-law partner of the individual;
-- **(b)** a child of the individual or a child of the individual’s spouse or common-law partner;
-- **(c)** a parent of the individual or a spouse or common-law partner of the parent; and
-- **(d)** any other person who is a member of a class of persons prescribed for the purposes of this definition. (*membre de la famille*)
+***family member***[Repealed, 2017, c. 20, s. 242]
 
 ***initial claim for benefits*** means a claim made for the purpose of establishing a self-employed person’s benefit period. (*demande initiale de prestations*)
 
@@ -4438,12 +4530,12 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Amount of self-employed earnings for a year**
 
 - **(2)** For the purpose of this Part, the amount of the self-employed earnings of a self-employed person for a year is,
-	- **(a)** in the case of a self-employed person who is an individual referred to in paragraph (a) of the definition ***self-employed person*** in subsection (1), the amount that is the aggregate of
+	- **(a)** in the case of a self-employed person who is an individual referred to in paragraph (a) of the definition self-employed person in subsection (1), the amount that is the aggregate of
 		- **(i)** an amount equal to
 			- **(A)** their income for the year, computed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), from their businesses, other than a business more than fifty per cent of the gross revenue of which consisted of rent from land or buildings,minus
 			- **(B)** all losses, computed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), sustained by the self-employed person in the year in carrying on the businesses they are engaged in, and
 		- **(ii)** their income for the year from employment described in paragraph 5(6)(c) that has been excluded from insurable employment by a regulation made under subsection 5(6), as that income is computed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
-	- **(b)** in the case of a self-employed person who is an individual referred to in paragraph (b) of the definition ***self-employed person*** in subsection (1), the amount that would have been the person’s insurable earnings for the year had the person’s employment not been excluded from insurable employment; and
+	- **(b)** in the case of a self-employed person who is an individual referred to in paragraph (b) of the definition self-employed person in subsection (1), the amount that would have been the person’s insurable earnings for the year had the person’s employment not been excluded from insurable employment; and
 	- **(c)** in the case of a self-employed person who is an individual referred to in both paragraphs (a) and (b), the amount that is the aggregate of the amounts referred to in both those paragraphs.
 
 **Indians**
@@ -4457,7 +4549,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Rounding off percentages or fractions**
 
 - **(5)** A reference in this Part to an amount equal to a percentage or fraction of earnings or benefits in a period shall be rounded to the nearest multiple of one dollar or, if the amount is equidistant from two multiples of one dollar, to the higher multiple.
-> 2009, c. 33, s. 16; 2016, c. 7, s. 219.
+> 2009, c. 33, s. 16; 2016, c. 7, s. 219; 2017, c. 20, s. 242.
 
 
 
@@ -4516,7 +4608,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Exception**
 
-- **(1.1)** A self-employed person to whom benefits are payable under any of sections 152.05 to 152.061 is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
+- **(1.1)** A self-employed person to whom benefits are payable under any of sections 152.05 to 152.062 is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
 
 **Limitation**
 
@@ -4529,7 +4621,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Disentitlement**
 
 - **(4)** A self-employed person, other than one referred to in subsection (1.1), is not entitled to benefits under subsection (1) if, were it not for the prescribed illness, injury or quarantine, the self-employed person would be deemed, in accordance with the regulations, to be not working.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 21; 2014, c. 20, s. 248.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 21; 2014, c. 20, s. 248; 2017, c. 20, s. 243.
 
 
 
@@ -4545,7 +4637,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 - **(2)** Subject to section 152.14, benefits are payable to a self-employed person under this section for each week of unemployment in the period
 	- **(a)** that begins the earlier of
-		- **(i)** eight weeks before the week in which her confinement is expected, and
+		- **(i)** 12 weeks before the week in which her confinement is expected, and
 		- **(ii)** the week in which her confinement occurs; and
 	- **(b)** that ends 17 weeks after the later of
 		- **(i)** the week in which her confinement is expected, and
@@ -4554,6 +4646,10 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Limitation**
 
 - **(3)** When benefits are payable to a self-employed person for unemployment caused by pregnancy and any allowances, money or other benefits are payable to the person for that pregnancy under a provincial law, the benefits payable to the self-employed person under this Part shall be reduced or eliminated as prescribed.
+
+**Presumption**
+
+- **(3.1)** With regard to serving the waiting period under section 152.15, the week that immediately precedes the period described in subsection (2) is deemed to be a week that is included in that period.
 
 **Earnings deducted**
 
@@ -4566,7 +4662,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Limitation**
 
 - **(6)** The extended period shall end no later than 52 weeks after the week of confinement.
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2017, c. 20, s. 244.
 
 
 
@@ -4577,6 +4673,18 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **152.05** 
 
 - **(1)** Subject to this Part, benefits are payable to a self-employed person to care for one or more new-born children of the person or one or more children placed with the person for the purpose of adoption under the laws governing adoption in the province in which the person resides.
+
+**Election by self-employed person**
+
+- **(1.1)** In a claim for benefits made under this section, a self-employed person shall elect the maximum number of weeks referred to in either subparagraph 152.14(1)(b)(i) or (ii) for which benefits may be paid.
+
+**Irrevocability of election**
+
+- **(1.2)** The election is irrevocable once benefits are paid under this section or under section 23 in respect of the same child or children.
+
+**First to elect**
+
+- **(1.3)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the election made under subsection (1.1) or subsection 23(1.1) by the first person to make a claim for benefits under this section or under section 23 is binding on both persons.
 
 **Weeks for which benefits may be paid**
 
@@ -4594,7 +4702,11 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Extension of period**
 
-- **(5)** If, during a self-employed person’s benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (e), the maximum total number of weeks established for those reasons is greater than 50 and benefits were paid for the reason mentioned in paragraph 152.14(1)(b) but for fewer than the maximum number of weeks established for that reason, the period referred to in subsection (2) is extended so that benefits may be paid up to the maximum number of weeks referred to in paragraph 152.14(1)(b).
+- **(5)** If, during a self-employed person’s benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (f), the maximum total number of weeks established for those reasons is greater than 50, and benefits were paid for the reason mentioned in paragraph 152.14(1)(b) but for fewer than the applicable maximum number of weeks established for that reason, the period referred to in subsection (2) is extended so that benefits may be paid up to the applicable maximum number of weeks referred to in subparagraph 152.14(1)(b)(i) or (ii).
+
+**Extension of period — reason mentioned in paragraph 152.14(1)(b)**
+
+- **(5.1)** If, during a self-employed person’s benefit period, benefits were not paid for any reason mentioned in paragraph 152.14(1)(a), (c), (d), (e) or (f) and benefits were paid to the person for the reason mentioned in paragraph 152.14(1)(b) in the case where the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(ii), the period referred to in subsection (2) is extended by 26 weeks so that benefits may be paid up to that maximum number of weeks.
 
 **Limitation**
 
@@ -4602,7 +4714,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Limitation**
 
-- **(7)** An extension under any of subsections 152.11(11) to (14) must not result in the period referred to in subsection (2) being longer than 104 weeks.
+- **(7)** An extension under one or more of subsections 152.11(11) to (14.1) must not result in the period referred to in subsection (2) being longer than 104 weeks.
 
 - **(8) to (10)** [Repealed, 2012, c. 27, s. 22]
 
@@ -4612,11 +4724,11 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Division of weeks of benefits**
 
-- **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and a person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both of those sections, up to a maximum of 35 weeks, may be divided between them.
+- **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of 35, if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum number of weeks that can be divided**
 
-- **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed 35 weeks.
+- **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed 35, if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii).
 
 **Deferral of waiting period**
 
@@ -4631,7 +4743,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 - **(15)** If a self-employed person makes a claim under this Part and another person makes a claim under section 22 or 23 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
 	- **(a)** if the self-employed person is not the one who served or elected to serve the waiting period, the self-employed person is not required to serve a waiting period; or
 	- **(b)** if the person making the claim under section 22 or 23 is not the one who served or elected to serve the waiting period, the person may have his or her waiting period deferred in accordance with section 23.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 22.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 22; 2017, c. 20, s. 245.
 
 
 
@@ -4641,10 +4753,10 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **152.06** 
 
-- **(1)** Subject to this Part, benefits are payable to a self-employed person if a medical doctor has issued a certificate stating that
+- **(1)** Subject to this Part, benefits are payable to a self-employed person if a medical doctor or nurse practitioner has issued a certificate stating that
 	- **(a)** a family member of the self-employed person has a serious medical condition with a significant risk of death within 26 weeks
 		- **(i)** from the day on which the certificate is issued, or
-		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor certifies the family member’s medical condition; and
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor or nurse practitioner certifies the family member’s medical condition; and
 	- **(b)** the family member requires the care or support of one or more other family members.
 
 **Medical practitioner**
@@ -4656,7 +4768,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 - **(3)** Subject to section 152.14, benefits under this section are payable for each week of unemployment in the period
 	- **(a)** that begins on the first day of the week in which one of the following falls, namely,
 		- **(i)** the day of issuance of the first certificate in respect of the family member that meets the requirements of subsection (1) and is filed with the Commission, or
-		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor certifies the family member’s medical condition; and
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies the family member’s medical condition; and
 	- **(b)** that ends on the last day of the week in which any of the following occurs, namely,
 		- **(i)** all benefits payable under this section in respect of the family member are exhausted,
 		- **(ii)** the family member dies, or
@@ -4664,7 +4776,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Certificate not necessary**
 
-- **(3.1)** For greater certainty, but subject to subsections (3) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (1)(a), it is not necessary for a medical doctor to issue an additional certificate under subsection (1).
+- **(3.1)** For greater certainty, but subject to subsections (3) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (1)(a), it is not necessary for a medical doctor or nurse practitioner to issue an additional certificate under subsection (1).
 
 **Shorter period**
 
@@ -4697,7 +4809,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Limitation**
 
 - **(9)** If benefits are payable to a self-employed person for the reasons set out in this section and any allowances, money or other benefits are payable to the person under a provincial law for the same or substantially the same reasons, the benefits payable to the person under this section shall be reduced or eliminated as prescribed.
-> 2009, c. 33, s. 16; 2015, c. 36, s. 77.
+> 2009, c. 33, s. 16; 2015, c. 36, s. 77; 2017, c. 20, s. 246.
 
 
 
@@ -4707,73 +4819,121 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **152.061** 
 
-- **(1)** Subject to this Part, benefits are payable to a self-employed person, who is the parent of a critically ill child, in order to care for or support that child if a specialist medical doctor has issued a certificate that
-	- **(a)** states that the child is a critically ill child and requires the care or support of one or more of their parents; and
+- **(1)** Subject to this Part, benefits are payable to a self-employed person who is a family member of a critically ill child, in order to care for or support that child, if a medical doctor or nurse practitioner has issued a certificate that
+	- **(a)** states that the child is a critically ill child and requires the care or support of one or more of their family members; and
 	- **(b)** sets out the period during which the child requires that care or support.
 
 **Medical practitioner**
 
 - **(2)** In the circumstances set out in the regulations, the certificate referred to in subsection (1) may be issued by a member of a prescribed class of medical practitioners.
 
-**Weeks for which benefits may be paid — child**
+**Weeks for which benefits may be paid**
 
-- **(3)** Subject to subsection (4) and section 152.14, benefits under this section are payable for each week of unemployment in the period
+- **(3)** Subject to section 152.14, benefits under this section are payable for each week of unemployment in the period
 	- **(a)** that begins on the first day of the week in which either of the following falls:
 		- **(i)** the day on which the first certificate is issued in respect of the child that meets the requirements of subsection (1) and is filed with the Commission, or
-		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the specialist medical doctor certifies that the child is critically ill; and
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the child is critically ill; and
 	- **(b)** that ends on the last day of the week in which any of the following occurs:
 		- **(i)** all benefits payable under this section in respect of the child are exhausted,
 		- **(ii)** the child dies, or
 		- **(iii)** the expiry of 52 weeks following the first day of the week referred to in paragraph (a).
 
-**Weeks for which benefits may be paid — children**
-
-- **(4)** Subject to section 152.14, if more than one child of the self-employed person is critically ill as a result of the same event, benefits under this section are payable for each week of unemployment in the period
-	- **(a)** that begins on the first day of the week in which either of the following falls:
-		- **(i)** the day on which the first certificate is issued in respect of any of the children that meets the requirements of subsection (1) and is filed with the Commission, or
-		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the first day from which the specialist medical doctor certifies that any of the children is critically ill; and
-	- **(b)** that ends on the last day of the week in which any of the following occurs:
-		- **(i)** all benefits payable under this section in respect of the children are exhausted,
-		- **(ii)** the last of the children dies, or
-		- **(iii)** the expiry of 52 weeks following the first day of the week referred to in paragraph (a).
+- **(4)** [Repealed, 2017, c. 20, s. 247]
 
 **Exception**
 
-- **(5)** Subparagraph (3)(a)(ii) or (4)(a)(ii) does not apply to a claim if
+- **(5)** Subparagraph (3)(a)(ii) does not apply to a claim if
 	- **(a)** at the time the certificate is filed with the Commission, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
-	- **(b)** the beginning of the period referred to in subsection (3) or (4), as the case may be, has already been determined and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
+	- **(b)** the beginning of the period referred to in subsection (3) has already been determined and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
 	- **(c)** the claim is made in any other circumstances set out in the regulations.
 
-**Deferral of waiting period — child**
+**Deferral of waiting period**
 
-- **(6)** Subject to subsection (7), a self-employed person who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
+- **(6)** A self-employed person who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
 	- **(a)** another claimant has made a claim for benefits under this section or section 23.2 in respect of the same child during the period described in subsection (3) and that other claimant has served or is serving their waiting period in respect of that claim;
 	- **(b)** another claimant is making a claim for benefits under this section or section 23.2 in respect of the same child at the same time as the claimant and that other claimant elects to serve their waiting period; or
 	- **(c)** the self-employed person, or another claimant who has made a claim for benefits under this section or section 23.2 in respect of the same child, meets the prescribed requirements.
 
-**Deferral of waiting period — children**
-
-- **(7)** A self-employed person who makes a claim for benefits under this section — and more than one of whose children is critically ill as a result of the same event — may have their waiting period deferred until they make another claim for benefits in the same benefit period if
-	- **(a)** another claimant has made a claim for benefits under this section or section 23.2 in respect of the same children during the period described in subsection (4) and that other claimant has served or is serving their waiting period in respect of that claim;
-	- **(b)** another claimant is making a claim for benefits under this section or section 23.2 in respect of the same children at the same time as the claimant and that other claimant elects to serve their waiting period; or
-	- **(c)** the self-employed person, or another claimant who has made a claim for benefits under this section or section 23.2 in respect of the same children, meets the prescribed requirements.
+- **(7)** [Repealed, 2017, c. 20, s. 247]
 
 **Division of weeks of benefits**
 
-- **(8)** If a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under this section or section 23.2 in respect of the same child or the same children who are critically ill as a result of the same event, any remaining weeks of benefits payable under this section, under section 23.2 or under both those sections, up to a maximum of 35 weeks, may be divided in the manner agreed to by the self-employed person and the other person. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+- **(8)** If a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under this section or section 23.2 in respect of the same child, any remaining weeks of benefits payable under this section, under section 23.2 or under both those sections, up to a maximum of 35 weeks, may be divided in the manner agreed to by the self-employed person and the other person. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum divisible number of weeks**
 
-- **(9)** For greater certainty, if, in respect of the same child or the same children who are critically ill as a result of the same event, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23.2, the total number of weeks of benefits payable under this section and section 23.2 that may be divided between them must not exceed 35 weeks.
+- **(9)** For greater certainty, if, in respect of the same child, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23.2, the total number of weeks of benefits payable under this section and section 23.2 that may be divided between them must not exceed 35 weeks.
 
 **Limitation — compassionate care benefits**
 
-- **(10)** Benefits under section 23.1 or 152.06 are not payable in respect of a child during the period referred to in subsection (3) or (4) or 23.2(3) or (4) that is established in respect of that child.
+- **(10)** Benefits under section 23.1 or 152.06 are not payable in respect of a child during the period referred to in subsection (3) or 23.2(3) that is established in respect of that child.
+
+**Limitation — benefits for critically ill adult**
+
+- **(10.1)** Benefits under section 23.3 or 152.062 are not payable during the period of 52 weeks that begins on the first day of the week referred to in paragraph (3)(a) in respect of a person who was a critically ill child if benefits were paid in respect of that person under this section.
 
 **Limitation**
 
 - **(11)** When benefits are payable to a self-employed person for the reasons set out in this section and any allowances, money or other benefits are payable to the person under a provincial law for the same or substantially the same reasons, the benefits payable to the person under this section shall be reduced or eliminated as prescribed.
-> 2012, c. 27, s. 23.
+> 2012, c. 27, s. 23; 2017, c. 20, s. 247.
+
+
+
+
+
+**Benefits — critically ill adult**
+
+**152.062** 
+
+- **(1)** Subject to this Part, benefits are payable to a self-employed person who is a family member of a critically ill adult, in order to care for or support that adult, if a medical doctor or nurse practitioner has issued a certificate that
+	- **(a)** states that the adult is a critically ill adult and requires the care or support of one or more of their family members; and
+	- **(b)** sets out the period during which the adult requires that care or support.
+
+**Medical practitioner**
+
+- **(2)** In the circumstances set out in the regulations, the certificate referred to in subsection (1) may be issued by a member of a prescribed class of medical practitioners.
+
+**Weeks for which benefits may be paid**
+
+- **(3)** Subject to section 152.14, benefits under this section are payable for each week of unemployment in the period
+	- **(a)** that begins on the first day of the week in which either of the following falls:
+		- **(i)** the day on which the first certificate is issued in respect of the adult that meets the requirements of subsection (1) and is filed with the Commission, or
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the adult is critically ill; and
+	- **(b)** that ends on the last day of the week in which any of the following occurs:
+		- **(i)** all benefits payable under this section in respect of the adult are exhausted,
+		- **(ii)** the adult dies, or
+		- **(iii)** the expiry of the 52 weeks following the first day of the week referred to in paragraph (a).
+
+**Exception**
+
+- **(4)** Subparagraph (3)(a)(ii) does not apply to a claim if
+	- **(a)** at the time the certificate is filed with the Commission, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection (3) has already been determined and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Deferral of waiting period**
+
+- **(5)** A self-employed person who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
+	- **(a)** another claimant has made a claim for benefits under this section or section 23.3 in respect of the same adult during the period described in subsection (3) and that other claimant has served or is serving their waiting period in respect of that claim;
+	- **(b)** another claimant is making a claim for benefits under this section or section 23.3 in respect of the same adult at the same time as the claimant and that other claimant elects to serve their waiting period; or
+	- **(c)** the self-employed person, or another claimant who has made a claim for benefits under this section or section 23.3 in respect of the same adult, meets the prescribed requirements.
+
+**Division of weeks of benefits**
+
+- **(6)** If a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under this section or section 23.3 in respect of the same adult, any remaining weeks of benefits payable under this section, under section 23.3 or under both those sections, up to a maximum of 15 weeks, may be divided in the manner agreed to by the self-employed person and the other person. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+
+**Maximum divisible number of weeks**
+
+- **(7)** For greater certainty, if, in respect of the same adult, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23.3, the total number of weeks of benefits payable under this section and section 23.3 that may be divided between them must not exceed 15 weeks.
+
+**Limitation — compassionate care benefits**
+
+- **(8)** Benefits under section 23.1 or 152.06 are not payable in respect of an adult during the period referred to in subsection (3) or 23.3(3) that is established in respect of that adult.
+
+**Limitation**
+
+- **(9)** When benefits are payable to a self-employed person for the reasons set out in this section and any allowances, money or other benefits are payable to the person under a provincial law for the same or substantially the same reasons, the benefits payable to the person under this section shall be reduced or eliminated as prescribed.
+> 2017, c. 20, s. 248.
 
 
 
@@ -4865,9 +5025,10 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 	- **(a)** pregnancy;
 	- **(b)** caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption;
 	- **(c)** a prescribed illness, injury or quarantine;
-	- **(d)** providing care or support to one or more family members; and
-	- **(e)** providing care or support to one or more critically ill children of the self-employed person.
-> 2009, c. 33, s. 16; 2014, c. 20, s. 249.
+	- **(d)** providing care or support to one or more family members;
+	- **(e)** providing care or support to one or more critically ill children; and
+	- **(f)** providing care or support to one or more critically ill adults.
+> 2009, c. 33, s. 16; 2014, c. 20, s. 249; 2017, c. 20, s. 249.
 
 
 
@@ -4928,9 +5089,16 @@ and
 
 **Exception**
 
-- **(6.1)** A claim for benefits referred to in section 152.061 with respect to a critically ill child or children who are critically ill as a result of the same event must not be regarded as having been made on an earlier day under subsection (4) or (5) if
+- **(6.1)** A claim for benefits referred to in section 152.061 with respect to a critically ill child must not be regarded as having been made on an earlier day under subsection (4) or (5) if
 	- **(a)** at the time the claim is made, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
-	- **(b)** the beginning of the period referred to in subsection 152.061(3) or (4) has already been determined with respect to that child or those children and the claim would have the effect of moving the beginning of that period to an earlier date; or
+	- **(b)** the beginning of the period referred to in subsection 152.061(3) has already been determined with respect to that child and the claim would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Exception**
+
+- **(6.2)** A claim for benefits referred to in section 152.062 with respect to a critically ill adult must not be regarded as having been made on an earlier day under subsection (4) or (5) if
+	- **(a)** at the time the claim is made, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection 152.062(3) has already been determined with respect to that adult and the claim would have the effect of moving the beginning of that period to an earlier date; or
 	- **(c)** the claim is made in any other circumstances set out in the regulations.
 
 **Cancelling benefit period**
@@ -4977,18 +5145,22 @@ and
 
 **Extension of benefit period**
 
-- **(14)** If, during a self-employed person’s benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (e), at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons and the maximum total number of weeks established for those reasons is greater than 50, the benefit period is extended so that those benefits may be paid up to that maximum total number of weeks.
+- **(14)** If, during a self-employed person’s benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (f), at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons and the maximum total number of weeks established for those reasons is greater than 50, the benefit period is extended so that those benefits may be paid up to that maximum total number of weeks.
 
-**Maximum extension under subsections (11) to (14)**
+**Extension of benefit period — reason mentioned in paragraph 152.14(1)(b)**
 
-- **(15)** Subject to subsection (16), an extension under any of subsections (11) to (14) must not result in a benefit period of more than 104 weeks.
+- **(14.1)** If, during a self-employed person’s benefit period, benefits were not paid for any reason mentioned in paragraph 152.14(1)(a), (c), (d), (e) or (f), and benefits were paid to the person for the reason mentioned in paragraph 152.14(1)(b) in the case where the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(ii), the benefit period is extended by 26 weeks so that benefits may be paid up to that maximum number of weeks.
+
+**Maximum extension under subsections (11) to (14.1)**
+
+- **(15)** An extension under one or more of subsections (11) to (14.1) must not result in a benefit period of more than 104 weeks.
 
 **Maximum extension under subsection (14)**
 
-- **(16)** Unless the benefit period is also extended under any of subsections (11) to (13), an extension under subsection (14) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 152.14(1) for each of the benefits paid to the self-employed person for one of the reasons mentioned in paragraphs 152.14(1)(a) to (e) during the person’s benefit period before it was extended under subsection (14).
+- **(16)** Subject to subsection (15), unless the benefit period is also extended under any of subsections (11) to (13), an extension under subsection (14) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 152.14(1) for each of the benefits paid to the self-employed person for one of the reasons mentioned in paragraphs 152.14(1)(a) to (f) during the person’s benefit period before it was extended under subsection (14).
 
 - **(17) to (19)** [Repealed, 2012, c. 27, s. 24]
-> 2009, c. 33, s. 16; 2012, c. 27, s. 24; 2013, c. 35, s. 3.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 24; 2013, c. 35, s. 3; 2017, c. 20, s. 250.
 
 
 
@@ -5022,16 +5194,19 @@ and
 
 - **(1)** The maximum number of weeks for which benefits under this Part may be paid in a benefit period to a self-employed person
 	- **(a)** because of pregnancy is 15;
-	- **(b)** because the self-employed person is caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption, is 35;
+	- **(b)** because the self-employed person is caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption is, in accordance with the election under section 152.05,
+		- **(i)** 35, or
+		- **(ii)** 61;
 	- **(c)** because of a prescribed illness, injury or quarantine is 15;
-	- **(d)** because the person is providing care or support to one or more family members described in subsection 152.06(1) is 26; and
-	- **(e)** because the self-employed person is providing care or support to one or more critically ill children described in subsection 152.061(1), is 35.
+	- **(d)** because the person is providing care or support to one or more family members described in subsection 152.06(1) is 26;
+	- **(e)** because the self-employed person is providing care or support to one or more critically ill children described in subsection 152.061(1), is 35; and
+	- **(f)** because the self-employed person is providing care or support to one or more critically ill adults described in subsection 152.062(1) is 15.
 
 **Maximum — single pregnancy or placement**
 
 - **(2)** The maximum number of weeks for which benefits under this Part may be paid to a self-employed person
 	- **(a)** for a single pregnancy is 15; and
-	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is 35.
+	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, in accordance with the election under section 152.05, 35 or 61.
 
 **Adoption**
 
@@ -5039,7 +5214,7 @@ and
 
 **Maximum — parental benefits**
 
-- **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is 35.
+- **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, in accordance with the election under section 152.05, 35 or 61.
 
 **Maximum — compassionate care benefits**
 
@@ -5049,9 +5224,9 @@ and
 
 - **(5.1)** Even if more than one claim is made under this Act, at least one of which is made under section 152.061 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 152.061 — for the same reason and in respect of the same critically ill child, the maximum number of weeks of benefits payable under this Act in respect of that child is 35 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 152.061(3)(a).
 
-**Maximum — critically ill children**
+**Maximum — critically ill adult**
 
-- **(5.2)** Even if more than one claim is made under this Act, at least one of which is made under section 152.061 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 152.061 — for the same reason and in respect of the same children who are critically ill as a result of the same event, the maximum number of weeks of benefits payable under this Act in respect of those children is 35 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 152.061(4)(a).
+- **(5.2)** Even if more than one claim is made under this Act, at least one of which is made under section 152.062 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 152.062 — for the same reason and in respect of the same critically ill adult, the maximum number of weeks of benefits payable under this Act in respect of that adult is 15 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 152.062(3)(a).
 
 **Shorter period**
 
@@ -5064,7 +5239,7 @@ and
 **Combined weeks of benefits**
 
 - **(8)** In a self-employed person’s benefit period, the self-employed person may, subject to the applicable maximums, combine weeks of benefits to which they are entitled because of a reason mentioned in subsection (1), but the maximum number of combined weeks is 50. However, if the benefit period is extended under subsection 152.11(14), the maximum number of combined weeks equals the maximum number of weeks in the benefit period calculated under subsection 152.11(16) less two weeks.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 25; 2015, c. 36, s. 78.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 25; 2015, c. 36, s. 78; 2017, c. 20, s. 251.
 
 
 
@@ -5083,14 +5258,14 @@ and
 
 **152.16** 
 
-- **(1)** The rate of weekly benefits payable to a self-employed person is 55% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs (a) and (b) by 52:
+- **(1)** The rate of weekly benefits payable to a self-employed person is 55% — or 33% for the weeks for which the self-employed person is paid benefits under section 152.05 in the case where the applicable maximum number of weeks is established in subparagraph 152.14(1)(b)(ii) — of the result obtained by dividing the aggregate of the amounts referred to in the following paragraphs (a) and (b) by 52:
 	- **(a)** the amount of their self-employed earnings, determined under paragraph 152.01(2)(a), (b) or (c), as the case may be, for their qualifying period; and
 	- **(b)** if they had insurable earnings from employment, including insurable earnings earned as a person to whom regulations made under Part VIII apply, for their qualifying period, the amount of those insurable earnings for that period, calculated without taking into account prescribed insurable earnings.
 
 **Excess not to be included**
 
 - **(2)** Only the portion of the aggregate of the amounts referred to in paragraphs (1)(a) and (b) that does not exceed the maximum yearly insurable earnings as calculated under section 4 is to be taken into account for the purposes of subsection (1).
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2017, c. 20, s. 252.
 
 
 
@@ -7457,5 +7632,264 @@ In addition, the person shall pay to the Receiver General, on or before the pers
 
 
 > 2016, c. 7, s. 224.
+
+
+
+
+### **SCHEDULE IV** 
+**(paragraph 12(7)(a))**
+<table>
+<h4>Number of Weeks of Benefits Conversion Table</h4>
+<tr>
+<th>**Number of weeks of benefits paid – subparagraph 12(3)(b)(ii)**</th>
+<th>**Number of weeks of benefits that would have been paid at a rate of weekly benefits of 55%**</th>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>10</td>
+<td>6</td>
+</tr>
+<tr>
+<td>11</td>
+<td>7</td>
+</tr>
+<tr>
+<td>12</td>
+<td>7</td>
+</tr>
+<tr>
+<td>13</td>
+<td>8</td>
+</tr>
+<tr>
+<td>14</td>
+<td>9</td>
+</tr>
+<tr>
+<td>15</td>
+<td>9</td>
+</tr>
+<tr>
+<td>16</td>
+<td>10</td>
+</tr>
+<tr>
+<td>17</td>
+<td>10</td>
+</tr>
+<tr>
+<td>18</td>
+<td>11</td>
+</tr>
+<tr>
+<td>19</td>
+<td>11</td>
+</tr>
+<tr>
+<td>20</td>
+<td>12</td>
+</tr>
+<tr>
+<td>21</td>
+<td>13</td>
+</tr>
+<tr>
+<td>22</td>
+<td>13</td>
+</tr>
+<tr>
+<td>23</td>
+<td>14</td>
+</tr>
+<tr>
+<td>24</td>
+<td>14</td>
+</tr>
+<tr>
+<td>25</td>
+<td>15</td>
+</tr>
+<tr>
+<td>26</td>
+<td>15</td>
+</tr>
+<tr>
+<td>27</td>
+<td>16</td>
+</tr>
+<tr>
+<td>28</td>
+<td>17</td>
+</tr>
+<tr>
+<td>29</td>
+<td>17</td>
+</tr>
+<tr>
+<td>30</td>
+<td>18</td>
+</tr>
+<tr>
+<td>31</td>
+<td>18</td>
+</tr>
+<tr>
+<td>32</td>
+<td>19</td>
+</tr>
+<tr>
+<td>33</td>
+<td>19</td>
+</tr>
+<tr>
+<td>34</td>
+<td>20</td>
+</tr>
+<tr>
+<td>35</td>
+<td>21</td>
+</tr>
+<tr>
+<td>36</td>
+<td>21</td>
+</tr>
+<tr>
+<td>37</td>
+<td>22</td>
+</tr>
+<tr>
+<td>38</td>
+<td>22</td>
+</tr>
+<tr>
+<td>39</td>
+<td>23</td>
+</tr>
+<tr>
+<td>40</td>
+<td>23</td>
+</tr>
+<tr>
+<td>41</td>
+<td>24</td>
+</tr>
+<tr>
+<td>42</td>
+<td>25</td>
+</tr>
+<tr>
+<td>43</td>
+<td>25</td>
+</tr>
+<tr>
+<td>44</td>
+<td>26</td>
+</tr>
+<tr>
+<td>45</td>
+<td>26</td>
+</tr>
+<tr>
+<td>46</td>
+<td>27</td>
+</tr>
+<tr>
+<td>47</td>
+<td>27</td>
+</tr>
+<tr>
+<td>48</td>
+<td>28</td>
+</tr>
+<tr>
+<td>49</td>
+<td>29</td>
+</tr>
+<tr>
+<td>50</td>
+<td>29</td>
+</tr>
+<tr>
+<td>51</td>
+<td>30</td>
+</tr>
+<tr>
+<td>52</td>
+<td>30</td>
+</tr>
+<tr>
+<td>53</td>
+<td>31</td>
+</tr>
+<tr>
+<td>54</td>
+<td>31</td>
+</tr>
+<tr>
+<td>55</td>
+<td>32</td>
+</tr>
+<tr>
+<td>56</td>
+<td>33</td>
+</tr>
+<tr>
+<td>57</td>
+<td>33</td>
+</tr>
+<tr>
+<td>58</td>
+<td>34</td>
+</tr>
+<tr>
+<td>59</td>
+<td>34</td>
+</tr>
+<tr>
+<td>60</td>
+<td>35</td>
+</tr>
+<tr>
+<td>61</td>
+<td>35</td>
+</tr>
+</table>
+
+> 2017, c. 20, s. 253.
 
 
