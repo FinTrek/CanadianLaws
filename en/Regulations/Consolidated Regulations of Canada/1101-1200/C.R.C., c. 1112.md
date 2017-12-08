@@ -956,7 +956,9 @@ All boundary monuments and the boundary of Lot 1000, Quad 96 A/12 referred to be
 
 ## Arctic Ocean
 
-*Wrecks of HMS Erebus and HMS Terror National Historic Site of Canada* comprising the following described area:
+*Wrecks of HMS Erebus and HMS Terror National Historic Site of Canada* comprising the following described areas:
+
+Firstly,
 
 In the Arctic Ocean; in Wilmot and Crampton Bay; the area, consisting of the seabed and water column above the seabed, that is described as follows:
 
@@ -990,11 +992,49 @@ That area containing approximately 83.6 km<sup>2</sup>.
 
 
 
+
+
+Secondly,
+
+In the Arctic Ocean; in Terror Bay; the area, consisting of the seabed and water column above the seabed, that is described as follows:
+
+COMMENCING at a point at latitude 68°54′25.45″ N and longitude 98°59′42.07″ W;
+
+
+
+THENCE easterly in a straight line to a point at latitude 68°54′25.24″ N and longitude 98°51′29.08″ W;
+
+
+
+THENCE southerly in a straight line to a point at latitude 68°48′46.23″ N and longitude 98°51′31.25″ W;
+
+
+
+THENCE westerly in a straight line to a point at latitude 68°48′46.44″ N and longitude 98°59′42.15″ W;
+
+
+
+THENCE northerly in a straight line back to the point of commencement;
+
+
+
+EXCEPTING all islands and foreshore lying above the ordinary low-water mark within the described area and all mines and minerals, whether solid, liquid or gaseous, that may be found within the described area.
+
+
+
+
+
+That area containing approximately 57.8 km<sup>2</sup>.
+
+
+
+
+
 All coordinates referred to are according to the 1983 North American Datum, Canadian Spatial Reference System (NAD83 CSRS), and any references to straight lines mean points joined directly on the NAD83 Universal Transverse Mercator (UTM) projection plan surface.
 
 
 
 
-> SOR/78-238, s. 1; SOR/79-622, s. 1; SOR/80-308, s. 1; SOR/80-912, s. 1; SOR/81-8, s. 1; SOR/81-70, s. 1; SOR/81-877, s. 1; SOR/82-14, s. 1; SOR/82-111, ss. 1 to 5; SOR/82-664, s. 1; SOR/82-927, s. 1; SOR/83-281, s. 1; SOR/85-173, ss. 1 to 5; SOR/85-479, s. 1; SOR/86-520, s. 1; SOR/88-531, ss. 1 to 3; SOR/88-625, ss. 1, 2; SOR/89-100, s. 1; SOR/90-188, ss. 1 to 4; SOR/92-439, s. 1; SOR/93-34, ss. 1 to 4; SOR/93-89, s. 1; SOR/93-90, s. 1; SOR/93-137, s. 1; SOR/94-363, s. 3(F); SOR/95-292, s. 1; SOR/97-106, s. 1; SOR/97-193, s. 1; SOR/99-305, s. 1; SOR/2000-382, s. 1(F); SOR/2004-218, ss. 3 to 13 and 14(F); SOR/2011-319, s. 1; SOR/2015-88, s. 1.
+> SOR/78-238, s. 1; SOR/79-622, s. 1; SOR/80-308, s. 1; SOR/80-912, s. 1; SOR/81-8, s. 1; SOR/81-70, s. 1; SOR/81-877, s. 1; SOR/82-14, s. 1; SOR/82-111, ss. 1 to 5; SOR/82-664, s. 1; SOR/82-927, s. 1; SOR/83-281, s. 1; SOR/85-173, ss. 1 to 5; SOR/85-479, s. 1; SOR/86-520, s. 1; SOR/88-531, ss. 1 to 3; SOR/88-625, ss. 1, 2; SOR/89-100, s. 1; SOR/90-188, ss. 1 to 4; SOR/92-439, s. 1; SOR/93-34, ss. 1 to 4; SOR/93-89, s. 1; SOR/93-90, s. 1; SOR/93-137, s. 1; SOR/94-363, s. 3(F); SOR/95-292, s. 1; SOR/97-106, s. 1; SOR/97-193, s. 1; SOR/99-305, s. 1; SOR/2000-382, s. 1(F); SOR/2004-218, ss. 3 to 13 and 14(F); SOR/2011-319, s. 1; SOR/2015-88, s. 1; SOR/2017-273, s. 1.
 
 
