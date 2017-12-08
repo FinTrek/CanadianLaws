@@ -1443,6 +1443,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(1)** Coca leaves
 - **(2)** Cocaine (benzoylmethylecgonine)
 - **(3)** Ecgonine (3-hydroxy-2-tropane carboxylic acid)
+- but not including
+- **(4)** <sup>123</sup>l-ioflupane
 - **3** Phenylpiperidines, their intermediates, salts, derivatives and analogues and salts of intermediates, derivatives and analogues, including:
 - **(1)** Allylprodine (3-allyl-1-methyl-4-phenyl-4-piperidinol propionate)
 - **(2)** Alphameprodine (α-3-ethyl-1-methyl-4-phenyl-4-piperidinol propionate)
@@ -1610,6 +1612,6 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9.
+> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1.
 
 
