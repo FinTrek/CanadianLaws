@@ -1835,6 +1835,8 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(1)** Coca leaves
 - **(2)** Cocaine (benzoylmethylecgonine)
 - **(3)** Ecgonine (3–hydroxy–2–tropane carboxylic acid)
+- but not including
+- **(4)** <sup>123</sup>l-ioflupane
 - **3** Phenylpiperidines, their intermediates, salts, derivatives and analogues and salts of intermediates, derivatives and analogues, including:
 - **(1)** Allylprodine (3–allyl–1–methyl–4–phenyl–4–piperidinol propionate)
 - **(2)** Alphameprodine (α–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
@@ -1982,7 +1984,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - but not including
 - **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **25** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275.
 
 
 
