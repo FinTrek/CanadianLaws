@@ -1801,6 +1801,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(1)** feuilles de coca
 - **(2)** cocaïne (ester méthylique de la benzoylecgonine)
 - **(3)** ecgonine (acide hydroxy–3 tropane–2 carboxylique)
+- mais non compris :
+- **(4)** ioflupane (<sup>123</sup>l)
 - **3** Phénylpipéridines, leurs sels, intermédiaires, dérivés et leurs analogues, ainsi que les sels de leurs intermédiaires, de leurs dérivés et leurs analogues, notamment :
 - **(1)** allylprodine (allyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
 - **(2)** alphaméprodine (α–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
@@ -1948,7 +1950,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - mais non compris :
 - **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **25** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275.
 
 
 
