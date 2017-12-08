@@ -1441,6 +1441,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(1)** feuilles de coca
 - **(2)** cocaïne (ester méthylique de la benzoylecgonine)
 - **(3)** ecgonine (acide hydroxy-3 tropane-2 carboxylique)
+- mais non compris :
+- **(4)** ioflupane (<sup>123</sup>l)
 - **3** Phénylpipéridines, leurs sels, intermédiaires, dérivés et leurs analogues, ainsi que les sels de leurs intermédiaires, de leurs dérivés et leurs analogues, notamment :
 - **(1)** allylprodine (allyl-3 méthyl-1 phényl-4 propionoxy-4 pipéridine)
 - **(2)** alphaméprodine (α-éthyl-3 méthyl-1 phényl-4 propionoxy-4 pipéridine)
@@ -1608,6 +1610,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9.
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9; DORS/2017-276, art. 1.
 
 
