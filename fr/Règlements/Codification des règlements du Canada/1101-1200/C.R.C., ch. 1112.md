@@ -976,7 +976,9 @@ Toutes les bornes d’arpentage et les limites du lot 1000, quadrilatère 96 A/1
 
 ## Océan Arctique
 
-*Lieu historique national du Canada des Épaves HMS Erebus et HMS Terror*, comprenant la zone suivante : 
+*Lieu historique national du Canada des Épaves HMS Erebus et HMS Terror*, comprenant les zones décrites ci-après :
+
+Premièrement :
 
 Dans l’océan Arctique, dans la baie Wilmot and Crampton, la zone composée du fond marin et des eaux surjacentes, ainsi décrite :
 
@@ -1010,11 +1012,49 @@ Cette zone a une superficie d’environ 83,6 kilomètres carrés.
 
 
 
+
+
+Deuxièmement :
+
+Dans l’océan Arctique, dans la baie Terror, la zone composée du fond marin et des eaux surjacentes, ainsi décrite :
+
+COMMENÇANT à un point situé à 68°54′25,45′′ de latitude N. et 98°59′42,07″ de longitude O.;
+
+
+
+DE LÀ vers l’est, en ligne droite jusqu’à un point situé à 68°54′25,24′′ de latitude N. et 98°51′29,08′′ de longitude O.;
+
+
+
+DE LÀ vers le sud, en ligne droite jusqu’à un point situé à 68°48′46,23′′ de latitude N. et 98°51′31,25′′ de longitude O.;
+
+
+
+DE LÀ vers l’ouest, en ligne droite jusqu’à un point situé à 68°48′46,44′′ de latitude N. et 98°59′42,15′′ de longitude O.;
+
+
+
+DE LÀ vers le nord, en ligne droite jusqu’au point de départ.
+
+
+
+SAUF ET À DISTRAIRE toutes les îles et l’estran situés à l’intérieur de la zone au-dessus de la laisse de basse mer, ainsi que toutes les mines et tous les minéraux, à l’état solide, liquide ou gazeux, qui pourraient se trouver à l’intérieur de la zone.
+
+
+
+
+
+Cette zone a une superficie d’environ 57,8 kilomètres carrés.
+
+
+
+
+
 Toutes les coordonnées se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD 83.
 
 
 
 
-> DORS/78-238, art. 1; DORS/79-622, art. 1; DORS/80-308, art. 1; DORS/80-912, art. 1; DORS/81-8, art. 1; DORS/81-70, art. 1; DORS/81-877, art. 1; DORS/82-14, art. 1; DORS/82-111, art. 1 à 5; DORS/82-664, art. 1; DORS/82-927, art. 1; DORS/83-281, art. 1; DORS/85-173, art. 1 à 5; DORS/85-479, art. 1; DORS/86-520, art. 1; DORS/88-531, art. 1 à 3; DORS/88-625, art. 1 et 2; DORS/89-100, art. 1; DORS/90-188, art. 1 à 4; DORS/92-439, art. 1; DORS/93-34, art. 1 à 4; DORS/93-89, art. 1; DORS/93-90, art. 1; DORS/93-137, art. 1; DORS/94-363, art. 3(F); DORS/95-292, art. 1; DORS/97-106, art. 1; DORS/97-193, art. 1; DORS/99-305, art. 1; DORS/2000-382, art. 1(F); DORS/2004-218, art. 3 à 13 et 14(F); DORS/2011-319, art. 1; DORS/2015-88, art. 1.
+> DORS/78-238, art. 1; DORS/79-622, art. 1; DORS/80-308, art. 1; DORS/80-912, art. 1; DORS/81-8, art. 1; DORS/81-70, art. 1; DORS/81-877, art. 1; DORS/82-14, art. 1; DORS/82-111, art. 1 à 5; DORS/82-664, art. 1; DORS/82-927, art. 1; DORS/83-281, art. 1; DORS/85-173, art. 1 à 5; DORS/85-479, art. 1; DORS/86-520, art. 1; DORS/88-531, art. 1 à 3; DORS/88-625, art. 1 et 2; DORS/89-100, art. 1; DORS/90-188, art. 1 à 4; DORS/92-439, art. 1; DORS/93-34, art. 1 à 4; DORS/93-89, art. 1; DORS/93-90, art. 1; DORS/93-137, art. 1; DORS/94-363, art. 3(F); DORS/95-292, art. 1; DORS/97-106, art. 1; DORS/97-193, art. 1; DORS/99-305, art. 1; DORS/2000-382, art. 1(F); DORS/2004-218, art. 3 à 13 et 14(F); DORS/2011-319, art. 1; DORS/2015-88, art. 1; DORS/2017-273, art. 1.
 
 
