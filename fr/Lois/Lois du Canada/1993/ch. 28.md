@@ -623,14 +623,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Forme et contenu**
 
-**45** Les comptes du Nunavut sont établis en la forme prescrite par le commissaire et selon les principes comptables recommandés par l’Institut canadien des comptables agréés, ses successeurs ou ses ayants droit; ils comportent les éléments suivants :
+**45** Les comptes du Nunavut sont établis en la forme prescrite par le commissaire et selon les principes comptables recommandés par Comptables professionnels agréés du Canada, ses successeurs ou ses ayants droit; ils comportent les éléments suivants :
 - **a)** les états financiers consolidés du territoire, lesquels comprennent :
 	- **(i)** le bilan en fin d’exercice,
 	- **(ii)** l’état de l’excédent ou du déficit accumulé en fin d’exercice,
 	- **(iii)** l’état des recettes et dépenses pour l’exercice,
 	- **(iv)** l’évolution de la situation financière au cours de l’exercice;
 - **b)** les autres renseignements ou documents nécessaires à l’appui des documents visés à l’alinéa a), ou dont la production est exigée par le ministre ou sous le régime d’une loi de la législature.
-> 1993, ch. 28, art. 45; 1998, ch. 15, art. 8.
+> 1993, ch. 28, art. 45; 1998, ch. 15, art. 8; 2017, ch. 26, art. 62.
 
 
 
@@ -641,12 +641,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **46** 
 
 - **(1)** À la fin de chaque exercice, après avoir vérifié, conformément aux normes de vérification généralement reconnues, les comptes et les opérations financières du Nunavut, le vérificateur du territoire transmet à l’assemblée un rapport dans lequel il indique notamment si, à son avis :
-	- **a)** les états financiers consolidés présentent fidèlement — à tous égards importants et en conformité avec les principes comptables recommandés par l’Institut canadien des comptables agréés, ses successeurs ou ses ayants droit — la situation financière du territoire en fin d’exercice, le résultat de ses activités, ainsi que l’évolution de sa situation financière;
+	- **a)** les états financiers consolidés présentent fidèlement — à tous égards importants et en conformité avec les principes comptables recommandés par Comptables professionnels agréés du Canada, ses successeurs ou ses ayants droit — la situation financière du territoire en fin d’exercice, le résultat de ses activités, ainsi que l’évolution de sa situation financière;
 	- **b)** les opérations du Nunavut qui ont été portées à sa connaissance à l’occasion de la vérification des états financiers consolidés étaient valides au regard des pouvoirs conférés au territoire par la présente loi et toute autre loi applicable.
 
 **Questions soumises à l’assemblée**
 
 - **(2)** Le vérificateur du territoire signale en outre, parmi les questions soumises à la vérification, toutes celles qui, à son avis, méritent d’être portées à l’attention de l’assemblée.
+> 1993, ch. 28, art. 46; 2017, ch. 26, art. 62.
+
 
 
 
