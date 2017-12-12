@@ -623,14 +623,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Form and contents**
 
-**45** The Territorial Accounts shall be prepared in such form as the Commissioner may direct and in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor and shall include
+**45** The Territorial Accounts shall be prepared in such form as the Commissioner may direct and in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor and shall include
 - **(a)** consolidated financial statements for Nunavut of
 	- **(i)** the financial position as at the end of the fiscal year,
 	- **(ii)** the accumulated surplus or deficit as at the end of the fiscal year,
 	- **(iii)** the revenues and expenditures for the fiscal year, and
 	- **(iv)** the changes in the financial position for the fiscal year; and
 - **(b)** any other information or statements that are required in support of the consolidated financial statements or that are required by the Minister or by or under any law of the Legislature.
-> 1993, c. 28, s. 45; 1998, c. 15, s. 8.
+> 1993, c. 28, s. 45; 1998, c. 15, s. 8; 2017, c. 26, s. 62.
 
 
 
@@ -641,12 +641,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **46** 
 
 - **(1)** The auditor of Nunavut shall audit the accounts and financial transactions of Nunavut in each fiscal year in accordance with generally accepted auditing standards and report to the Assembly on the result of that audit, including whether, in the opinion of the auditor,
-	- **(a)** the consolidated financial statements for Nunavut presents fairly, in all material respects and in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor, the financial position of Nunavut as at the end of the fiscal year and the results of its operations in, and changes in its financial position for, the fiscal year; and
+	- **(a)** the consolidated financial statements for Nunavut presents fairly, in all material respects and in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor, the financial position of Nunavut as at the end of the fiscal year and the results of its operations in, and changes in its financial position for, the fiscal year; and
 	- **(b)** the transactions of Nunavut that have come to the notice of the auditor in the course of the audit of the consolidated financial statements have been within the powers of Nunavut under this Act and any other Act applicable to Nunavut.
 
 **Other matters**
 
 - **(2)** The auditor of Nunavut shall call attention to any other matter falling within the scope of the audit made under subsection (1) that, in the opinion of the auditor, should be brought to the attention of the Assembly.
+> 1993, c. 28, s. 46; 2017, c. 26, s. 62.
+
 
 
 
