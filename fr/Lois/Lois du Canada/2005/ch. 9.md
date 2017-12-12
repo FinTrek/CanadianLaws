@@ -847,7 +847,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conseillers nommés par un organisme**
 
-- **(2)** L’Association des agents financiers autochtones du Canada, ou tout autre organisme prévu par règlement, nomme à titre amovible, pour un mandat d’au plus cinq ans, d’un à trois autres conseillers.
+- **(2)** AFOA Canada, ou tout autre organisme prévu par règlement, nomme à titre amovible, pour un mandat d’au plus cinq ans, d’un à trois autres conseillers.
 
 **Échelonnement des mandats**
 
@@ -856,7 +856,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualités requises**
 
 - **(4)** Le conseil d’administration est composé de femmes et d’hommes, notamment de membres des premières nations, — provenant de différentes régions du Canada — voués au développement de la gestion financière des premières nations et possédant une compétence ou une expérience propre à aider le Conseil à remplir sa mission.
-> 2005, ch. 9, art. 41; 2010, ch. 12, art. 1734.
+> 2005, ch. 9, art. 41; 2010, ch. 12, art. 1734; 2017, ch. 26, art. 50.
 
 
 
