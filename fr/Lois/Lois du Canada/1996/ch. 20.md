@@ -618,7 +618,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **35** 
 
-- **(1)** L’établissement de nouvelles redevances pour les services de navigation aérienne et la révision des redevances existantes sont conformes aux paramètres suivants :
+- **(1)** L’établissement de nouvelles redevances pour les services de navigation aérienne et la révision des redevances existantes sont conformes aux paramètres suivants :
 	- **a)** la méthode de calcul des redevances établie et publiée par la société est claire et indique les conditions applicables à ces redevances;
 	- **b)** le tarif ne doit pas être établi de façon à encourager l’usager à adopter des pratiques qui portent atteinte à la sécurité pour s’éviter une redevance;
 	- **c)** le tarif s’applique de la même façon, à l’égard du même service, aux vols intérieurs ou internationaux des transporteurs aériens;
@@ -643,7 +643,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligations financières de la société**
 
-- **(5)** Les obligations financières de la société associées aux services de navigation aérienne civile comprennent notamment, pour l’application de l’alinéa (1)i), la somme, moins le montant déterminé conformément au paragraphe (6), des obligations — pour autant qu’elles ne tombent que sous l’un des alinéas — qui suivent :
+- **(5)** Les obligations financières de la société associées aux services de navigation aérienne civile comprennent notamment, pour l’application de l’alinéa (1)i), la somme, moins le montant déterminé conformément au paragraphe (6), des obligations — pour autant qu’elles ne tombent que sous l’un des alinéas — qui suivent :
 	- **a)** les coûts engagés avant la date de cession;
 	- **b)** les coûts d’entretien et de fonctionnement;
 	- **c)** les frais d’administration et de gestion;
@@ -652,11 +652,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** les obligations financières pour préserver une cote de crédit acceptable;
 	- **g)** ses obligations fiscales;
 	- **h)** un fonds de prévoyance pour des dépenses futures;
-	- **i)** tout autre coût déterminé selon les principes comptables recommandés par l’Institut canadien des comptables agréés, ses successeurs ou ses ayants droit.
+	- **i)** tout autre coût déterminé selon les principes comptables recommandés par Comptables professionnels agréés du Canada, ses successeurs ou ses ayants droit.
 
 **Recettes soustraites**
 
-- **(6)** Est retranché du total des obligations financières associées aux services de navigation aérienne civile visées au paragraphe (5) le total :
+- **(6)** Est retranché du total des obligations financières associées aux services de navigation aérienne civile visées au paragraphe (5) le total :
 	- **a)** des subventions, octrois ou contributions pécuniaires reçues par la société;
 	- **b)** des sommes affectées à la période de transition et versées en application de l’article 98;
 	- **c)** de ses revenus d’intérêt et d’investissement;
@@ -669,6 +669,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(8)** L’alinéa (1)c) ne s’applique pas aux redevances imposées pour les services de contrôle de la circulation des aéronefs en vol tant que la taxe de transport aérien est prélevée en vertu de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+> 1996, ch. 20, art. 35; 2017, ch. 26, art. 62.
+
 
 
 
