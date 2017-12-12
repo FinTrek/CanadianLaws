@@ -936,11 +936,13 @@ L’administrateur ne peut toutefois appliquer à sa gestion les modalités d’
 
 **Principes comptables**
 
-- **(3)** Sauf indication contraire du surintendant, les états financiers sont établis selon les principes comptables généralement reconnus, principalement ceux énoncés dans le Manuel de l’Institut canadien des comptables agréés.
+- **(3)** Sauf indication contraire du surintendant, les états financiers sont établis selon les principes comptables généralement reconnus, principalement ceux énoncés dans le Manuel de Comptables professionnels agréés du Canada.
 
 **Délai et modalités**
 
 - **(4)** Les documents visés au présent article sont déposés selon les modalités fixées par le surintendant et, sauf directives contraires de celui-ci, dans les trois mois suivant la fin de l’année à laquelle ils se rapportent.
+> 2012, ch. 16, art. 58; 2017, ch. 26, art. 62.
+
 
 
 
