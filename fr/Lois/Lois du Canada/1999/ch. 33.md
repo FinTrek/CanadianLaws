@@ -143,7 +143,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***écosystème*** Unité fonctionnelle constituée par le complexe dynamique résultant de l’interaction des communautés de plantes, d’animaux et de micro-organismes qui y vivent et de leur environnement non vivant. (*ecosystem*)
 
 ***entreprises fédérales*** Les installations, ouvrages, entreprises ou secteurs qui relèvent de la compétence législative du Parlement, en particulier :
-- **a)** ceux qui se rapportent à la navigation, maritime ou fluviale, notamment en ce qui concerne l’exploitation de navires et le transport par navire;
+- **a)** ceux qui se rapportent à la navigation et à la marine marchande, maritimes ou fluviales, notamment en ce qui concerne l’exploitation de navires et le transport par navire;
 - **b)** les chemins de fer, canaux et télégraphes et les autres ouvrages et entreprises reliant une province à une autre, ou débordant les limites d’une province;
 - **c)** les lignes de transport par bateaux reliant une province à une ou plusieurs autres, ou débordant les limites d’une province;
 - **d)** les passages par eau entre deux provinces ou entre une province et un pays étranger;
@@ -223,7 +223,7 @@ Elle vise aussi, sauf pour l’application des articles 66, 80 à 89 et 104 à 1
 **Catégorie de substances**
 
 - **(3)** Pour l’application de la présente loi, à l’exclusion du paragraphe (1), le terme ***substance*** s’entend également d’une catégorie de substances.
-> 1999, ch. 28, art. 151, ch. 33, art. 3; 2001, ch. 34, art. 27(A).
+> 1999, ch. 28, art. 151, ch. 33, art. 3; 2001, ch. 34, art. 27(A); 2017, ch. 26, art. 21(F) et 63(A).
 
 
 
@@ -907,6 +907,8 @@ Avant de rendre l’ordonnance, le tribunal tient compte des efforts déjà four
 **Substances hormonoperturbantes**
 
 - **(4)** Les ministres effectuent des recherches ou des études sur les substances hormonoperturbantes, les méthodes de détection de celles-ci et de détermination de leurs effets — actuels ou potentiels, à court ou à long terme — sur l’environnement et la santé humaine, ainsi que les mesures de prévention et de lutte contre ces effets.
+> 1999, ch. 33, art. 44; 2017, ch. 26, art. 22(A).
+
 
 
 
@@ -979,7 +981,7 @@ Avant de rendre l’ordonnance, le tribunal tient compte des efforts déjà four
 
 **47** 
 
-- **(1)** Le ministre établit des directives concernant l’exercice des pouvoirs prévus au paragraphe 46(1), en tenant compte de tout facteur qu’il juge pertinent, notamment :
+- **(1)** Le ministre établit des directives concernant l’exercice des pouvoirs prévus au paragraphe 46(1), en tenant compte de tout facteur qu’il juge pertinent, notamment :
 	- **a)** les coûts et les avantages pour lui et la personne visée par l’avis;
 	- **b)** la coordination — dans la mesure où elle est possible — des demandes de renseignements avec tout autre gouvernement;
 	- **c)** les modalités d’utilisation des renseignements visés à ce paragraphe.
@@ -991,6 +993,8 @@ Avant de rendre l’ordonnance, le tribunal tient compte des efforts déjà four
 **Délai**
 
 - **(3)** Après les soixante jours suivant la date de la proposition de consultation faite en application du paragraphe (2), le ministre peut agir conformément au paragraphe (1) si le gouvernement d’une province ou les membres du comité qui sont des représentants de gouvernements autochtones n’acceptent pas l’offre.
+> 1999, ch. 33, art. 47; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -1287,6 +1291,8 @@ Avant de rendre l’ordonnance, le tribunal tient compte des efforts déjà four
 **Quasi-élimination**
 
 - **(3)** Lorsque la limite de dosage d’une substance a été spécifiée sur la liste visée au paragraphe (2), les ministres fixent par règlement la quantité ou la concentration dans lesquelles une substance peut être rejetée dans l’environnement, seule ou combinée à une autre substance provenant de quelque source ou type de source que ce soit et, pour ce faire, tiennent compte de tout facteur ou renseignement prévu par l’article 91, notamment les risques d’atteinte à l’environnement ou à la santé, ainsi que toute autre question d’ordre social, économique ou technique pertinente.
+> 1999, ch. 33, art. 65; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -1657,9 +1663,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** Il est interdit de fabriquer ou d’importer une substance non inscrite sur la liste intérieure sans avoir fourni au ministre les renseignements réglementaires — accompagnés des droits réglementaires — au plus tard à la date prévue par règlement et tant que le délai d’évaluation prévu à l’article 83 n’est pas expiré.
 
-**Disposition transitoire**
-
-- **(2)** L’interdiction ne s’applique pas aux personnes qui ont, entre le 1<sup>er</sup> janvier 1987 et le 30 juin 1994, fabriqué ou importé une substance ne figurant pas sur la liste intérieure si, dans les cent quatre-vingts jours suivant cette dernière date ou au plus tard à la date réglementaire, elles fournissent au ministre les renseignements réglementaires concernant la substance.
+- **(2)** [Abrogé, 2017, ch. 26, art. 23]
 
 **Nouvelle activité relative à une substance inscrite**
 
@@ -1671,11 +1675,11 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **Cession des droits à l’égard d’une substance**
 
-- **(5)** Si la personne qui a fourni sous le régime des paragraphes (1), (2), (3) ou (4) des renseignements réglementaires cède par la suite les droits et privilèges afférents à la substance en cause, les renseignements sont réputés, sous réserve des conditions réglementaires, avoir été fournis par le cessionnaire.
+- **(5)** Si la personne qui a fourni sous le régime des paragraphes (1), (3) ou (4) des renseignements réglementaires cède par la suite les droits et privilèges afférents à la substance en cause, les renseignements sont réputés, sous réserve des conditions réglementaires, avoir été fournis par le cessionnaire.
 
 **Application**
 
-- **(6)** Les paragraphes (1) à (4) ne s’appliquent pas :
+- **(6)** Les paragraphes (1), (3) et (4) ne s’appliquent pas :
 	- **a)** à une substance fabriquée ou importée en vue d’une utilisation réglementée aux termes de toute autre loi fédérale qui prévoit un préavis de fabrication, d’importation ou de vente et une évaluation en vue de déterminer si elle est effectivement ou potentiellement toxique;
 	- **b)** aux intermédiaires de réaction non isolés et non susceptibles d’être rejetés dans l’environnement;
 	- **c)** aux impuretés, aux contaminants et aux matières ayant subi une réaction partielle et dont la formation est liée à la préparation d’une substance;
@@ -1684,13 +1688,13 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **Modification de l’annexe 2 par le gouverneur en conseil**
 
-- **(7)** Pour l’application du présent article, il appartient exclusivement au gouverneur en conseil de décider si les conditions d’application de l’alinéa (6)a) sont réunies relativement à telle loi fédérale visée à cet alinéa ou ses règlements d’application. Il peut, par décret :
+- **(7)** Pour l’application du présent article, il appartient exclusivement au gouverneur en conseil de décider si les conditions d’application de l’alinéa (6)a) sont réunies relativement à telle loi fédérale visée à cet alinéa ou ses règlements d’application. Il peut, par décret :
 	- **a)** s’il décide que ces conditions sont réunies, inscrire cette loi ou ces règlements sur la liste de l’annexe 2, l’inscription faisant dès lors foi de la réunion des conditions;
 	- **b)** s’il décide que ces conditions ne sont plus réunies, les radier de cette liste.
 
 **Dérogation**
 
-- **(8)** Sur demande des intéressés, le ministre peut les exempter de l’obligation de fournir les renseignements visés aux paragraphes (1) à (4) si, selon le cas :
+- **(8)** Sur demande des intéressés, le ministre peut les exempter de l’obligation de fournir les renseignements visés aux paragraphes (1), (3) et (4) si, selon le cas :
 	- **a)** les ministres jugent que les renseignements ne sont pas nécessaires pour déterminer si la substance est effectivement ou potentiellement toxique;
 	- **b)** la substance est destinée à une utilisation réglementaire ou doit être fabriquée en un lieu où, selon les ministres, la personne qui demande l’exemption est en mesure de la contenir de façon à assurer une protection satisfaisante de l’environnement et de la santé humaine;
 	- **c)** il est impossible, selon les ministres, d’obtenir les résultats des essais nécessaires à l’établissement des renseignements.
@@ -1718,6 +1722,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Avis de fabrication ou d’importation excédentaires**
 
 - **(14)** La personne qui fabrique ou importe une substance conformément au présent article en quantités supérieures à celles prévues à l’alinéa 87(1)b) doit, dans les trente jours suivant la fabrication ou l’importation excédentaires, en aviser le ministre.
+> 1999, ch. 33, art. 81; 2017, ch. 26, art. 23.
+
 
 
 
@@ -1728,13 +1734,13 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** S’il a des motifs raisonnables de croire qu’il y a eu contravention aux paragraphes 81(1), (3) ou (4), le ministre peut, par écrit, exiger que les renseignements lui soient fournis et interdire, jusqu’à la fin du délai prévu à l’article 83, toute activité mettant en jeu la substance.
 
-**Autre interdiction**
-
-- **(2)** S’il a des motifs raisonnables de croire qu’il y a eu contravention au paragraphe 81(2), le ministre peut, par écrit, interdire, jusqu’à ce que lui soient fournis les renseignements réglementaires, toute activité mettant en jeu la substance.
-
 **Dérogation**
 
-- **(3)** Sur demande des intéressés, le ministre peut les exempter de fournir les renseignements réglementaires visés aux paragraphes (1) ou (2) si l’un des alinéas 81(8)a) à c) s’applique. Le cas échéant, les paragraphes 81(9) à (13) s’appliquent.
+- **(2)** Sur demande des intéressés, le ministre peut les exempter de fournir les renseignements réglementaires visés au paragraphe (1) si l’un des alinéas 81(8)a) à c) s’applique. Le cas échéant, les paragraphes 81(9) à (13) s’appliquent.
+
+- **(3)** [Abrogé, 2017, ch. 26, art. 24]
+> 1999, ch. 33, art. 82; 2017, ch. 26, art. 24.
+
 
 
 
@@ -1866,11 +1872,11 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **89** 
 
-- **(1)** Sur recommandation des ministres, le gouverneur en conseil peut, par règlement :
+- **(1)** Sur recommandation des ministres, le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir les substances ou groupes de substances assujettis à l’obligation de fourniture de renseignements prévue aux articles 81 ou 82, notamment les groupes de produits biotechnologiques inanimés, de polymères, de substances utilisées pour la recherche et le développement ou produites uniquement pour l’exportation;
 	- **b)** fixer les quantités maximales exemptes pour l’application de l’alinéa 81(6)e);
-	- **c)** prévoir les renseignements à fournir au ministre aux termes des paragraphes 81(1), (2), (3) ou (4) ou de l’article 82;
-	- **d)** fixer la date limite de fourniture des renseignements visés aux paragraphes 81(1), (2), (3) ou (4);
+	- **c)** prévoir les renseignements à fournir au ministre aux termes des paragraphes 81(1), (3) ou (4) ou de l’article 82;
+	- **d)** fixer la date limite de fourniture des renseignements visés aux paragraphes 81(1), (3) ou (4);
 	- **e)** prévoir la tenue de livres et de registres pour l’exécution des règlements d’application du présent article;
 	- **f)** déterminer les utilisations justifiant la dérogation prévue au paragraphe 81(8);
 	- **g)** fixer les délais d’évaluation visés par le paragraphe 83(1);
@@ -1886,16 +1892,18 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **Fixation des quantités**
 
-- **(3)** Les règlements d’application des alinéas (1)b) ou i) peuvent fixer les quantités selon :
+- **(3)** Les règlements d’application des alinéas (1)b) ou i) peuvent fixer les quantités selon :
 	- **a)** soit la présence de la substance sur la liste extérieure ou dans un groupe de substances désigné en application de l’alinéa (1)a);
 	- **b)** soit l’usage en vue duquel la substance est fabriquée ou importée.
 
 **Détermination des renseignements et délais**
 
-- **(4)** Les règlements d’application des alinéas (1)c), d) ou g) peuvent déterminer les renseignements ou fixer les dates ou délais selon :
+- **(4)** Les règlements d’application des alinéas (1)c), d) ou g) peuvent déterminer les renseignements ou fixer les dates ou délais selon :
 	- **a)** soit la présence de la substance sur la liste extérieure ou dans un groupe de substances désigné en application de l’alinéa (1)a);
 	- **b)** soit l’usage en vue duquel la substance est fabriquée ou importée;
 	- **c)** soit la quantité fabriquée ou importée.
+> 1999, ch. 33, art. 89; 2017, ch. 26, art. 25.
+
 
 
 
@@ -1947,7 +1955,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **Facteurs à prendre en considération**
 
-- **(5)** Pour décider des mesures de prévention ou contrôle — ainsi que des dates de leur prise d’effet — à énoncer dans le projet visé au paragraphe (2), ou des mesures supplémentaires, les ministres prennent en considération tout facteur ou renseignement qu’ils jugent pertinent, notamment :
+- **(5)** Pour décider des mesures de prévention ou contrôle — ainsi que des dates de leur prise d’effet — à énoncer dans le projet visé au paragraphe (2), ou des mesures supplémentaires, les ministres prennent en considération tout facteur ou renseignement qu’ils jugent pertinent, notamment :
 	- **a)** les renseignements contenus dans les plans visés à l’article 79;
 	- **b)** les risques d’atteinte à l’environnement ou à la santé qui sont liés à la substance et signalés dans le résumé publié au titre du paragraphe 77(6) ainsi que toute autre question d’ordre social, économique ou technique.
 
@@ -1958,6 +1966,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Suspension du délai par la constitution de la commission de révision**
 
 - **(7)** Le délai de deux ans est suspendu par l’éventuelle constitution, en application de l’article 333, de la commission de révision et ne recommence à courir qu’à la réception par les ministres du rapport de celle-ci.
+> 1999, ch. 33, art. 91; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -2311,9 +2321,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** Il est interdit de fabriquer ou d’importer un organisme vivant non inscrit sur la liste intérieure sans avoir fourni au ministre les renseignements réglementaires — accompagnés des droits réglementaires — au plus tard à la date réglementaire et tant que le délai d’évaluation prévu à l’article 108 n’est pas expiré.
 
-**Disposition transitoire**
-
-- **(2)** L’interdiction ne s’applique pas aux personnes qui ont, entre le 1<sup>er</sup> janvier 1987 et le 30 juin 1994, fabriqué ou importé un organisme vivant ne figurant pas sur la liste intérieure si, dans les cent quatre-vingts jours suivant cette dernière date ou au plus tard à la date prévue par règlement, elles fournissent au ministre les renseignements réglementaires concernant l’organisme.
+- **(2)** [Abrogé, 2017, ch. 26, art. 26]
 
 **Nouvelle activité relative à un organisme vivant inscrit**
 
@@ -2323,26 +2331,26 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(4)** En ce qui touche un organisme vivant non inscrit sur la liste intérieure mais pour lequel le ministre publie dans la Gazette du Canada un avis l’assujettissant au présent paragraphe, il est interdit de l’utiliser dans le cadre d’une nouvelle activité prévue par l’avis sans avoir fourni au ministre, au plus tard à la date réglementaire ou à celle que le ministre précise, les renseignements réglementaires — accompagnés des droits réglementaires — et tant que le délai d’évaluation prévu à l’article 108 ou précisé par le ministre n’est pas expiré.
 
-**Cession des droits à l’égard d’une substance**
+**Cession des droits à l’égard d’un organisme vivant**
 
-- **(5)** Si la personne qui a fourni sous le régime des paragraphes (1), (2), (3) ou (4) des renseignements réglementaires cède par la suite les droits et privilèges afférents à l’organisme vivant en cause, les renseignements sont réputés, sous réserve des conditions réglementaires, avoir été fournis par le cessionnaire.
+- **(5)** Si la personne qui a fourni sous le régime des paragraphes (1), (3) ou (4) des renseignements réglementaires cède par la suite les droits et privilèges afférents à l’organisme vivant en cause, les renseignements sont réputés, sous réserve des conditions réglementaires, avoir été fournis par le cessionnaire.
 
 **Application**
 
-- **(6)** Les paragraphes (1) à (4) ne s’appliquent pas :
+- **(6)** Les paragraphes (1), (3) et (4) ne s’appliquent pas :
 	- **a)** à un organisme vivant fabriqué ou importé en vue d’une utilisation réglementée aux termes de toute autre loi fédérale qui prévoit un préavis de fabrication, d’importation ou de vente et une évaluation en vue de déterminer s’il est effectivement ou potentiellement toxique;
 	- **b)** aux organismes vivants utilisés, fabriqués ou importés dans les conditions et selon les modalités réglementaires exclues de l’application du présent article;
 	- **c)** aux impuretés et aux contaminants dont la présence est liée à la préparation d’un organisme vivant.
 
 **Modification de l’annexe 4 par le gouverneur en conseil**
 
-- **(7)** Pour l’application du présent article, il appartient exclusivement au gouverneur en conseil de décider si les conditions d’application de l’alinéa (6)a) sont réunies relativement à telle loi fédérale visée à cet alinéa ou ses règlements d’application. Il peut, par décret :
+- **(7)** Pour l’application du présent article, il appartient exclusivement au gouverneur en conseil de décider si les conditions d’application de l’alinéa (6)a) sont réunies relativement à telle loi fédérale visée à cet alinéa ou ses règlements d’application. Il peut, par décret :
 	- **a)** s’il décide que ces conditions sont réunies, inscrire cette loi ou ces règlements sur la liste de l’annexe 4, l’inscription faisant dès lors foi de la réunion des conditions;
 	- **b)** s’il décide que ces conditions ne sont plus réunies, les radier de cette liste.
 
 **Dérogation**
 
-- **(8)** Sur demande des intéressés, le ministre peut les exempter de l’obligation de fournir les renseignements visés aux paragraphes (1), (2), (3) et (4) si, selon le cas :
+- **(8)** Sur demande des intéressés, le ministre peut les exempter de l’obligation de fournir les renseignements visés aux paragraphes (1), (3) et (4) si, selon le cas :
 	- **a)** les ministres jugent que les renseignements ne sont pas nécessaires pour déterminer si l’organisme vivant est effectivement ou potentiellement toxique;
 	- **b)** l’organisme vivant est destiné à une utilisation réglementaire ou doit être fabriqué en un lieu où, selon les ministres, la personne qui demande l’exemption est en mesure de le contenir de façon à assurer une protection satisfaisante de l’environnement et de la santé humaine;
 	- **c)** il est impossible, selon les ministres, d’obtenir les résultats des essais nécessaires à l’établissement des renseignements.
@@ -2366,6 +2374,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Application de l’article 109**
 
 - **(13)** Si, après avoir étudié les corrections ou les renseignements fournis au titre des paragraphes (11) ou (12), selon le cas, les ministres soupçonnent l’organisme vivant d’être effectivement ou potentiellement toxique, le ministre peut exercer les pouvoirs visés aux alinéas 109(1)a) à c).
+> 1999, ch. 33, art. 106; 2017, ch. 26, art. 26.
+
 
 
 
@@ -2376,13 +2386,13 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** S’il a des motifs raisonnables de croire qu’il y a eu contravention aux paragraphes 106(1), (3) ou (4), le ministre peut, par écrit, exiger que les renseignements lui soient fournis et interdire, jusqu’à la fin du délai prévu à l’article 108, toute activité mettant en jeu l’organisme vivant.
 
-**Autre interdiction**
-
-- **(2)** S’il a des motifs raisonnables de croire qu’il y a eu contravention au paragraphe 106(2), le ministre peut, par écrit, interdire, jusqu’à ce que lui soient fournis les renseignements réglementaires, toute activité mettant en jeu l’organisme vivant.
-
 **Dérogation**
 
-- **(3)** Sur demande des intéressés, le ministre peut les exempter de fournir les renseignements réglementaires visés aux paragraphes (1) ou (2) si l’un des alinéas 106(8)a) à c) s’applique et, le cas échéant, les paragraphes 106(9) à (13) s’appliquent.
+- **(2)** Sur demande des intéressés, le ministre peut les exempter de fournir les renseignements réglementaires visés au paragraphe (1) si l’un des alinéas 106(8)a) à c) s’applique et, le cas échéant, les paragraphes 106(9) à (13) s’appliquent.
+
+- **(3)** [Abrogé, 2017, ch. 26, art. 27]
+> 1999, ch. 33, art. 107; 2017, ch. 26, art. 27.
+
 
 
 
@@ -2504,11 +2514,11 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **114** 
 
-- **(1)** Sur recommandation des ministres, le gouverneur en conseil peut, par règlement :
+- **(1)** Sur recommandation des ministres, le gouverneur en conseil peut, par règlement :
 	- **a)** désigner les organismes vivants ou groupes de tels organismes assujettis à l’obligation de fourniture de renseignements prévue aux articles 106 ou 107 — notamment ceux qui sont exotiques ou indigènes et ceux qui sont utilisés pour la recherche et le développement ou destinés uniquement à l’exportation — et désigner des écozones ou groupes d’écozones;
 	- **b)** fixer les conditions et modalités pour l’application de l’alinéa 106(6)b);
-	- **c)** prévoir les renseignements à fournir au ministre aux termes des paragraphes 106(1), (2), (3) ou (4) ou de l’article 107 et fixer les modalités de leur fourniture;
-	- **d)** fixer la date limite de fourniture des renseignements visés aux paragraphes 106(1), (2), (3) ou (4);
+	- **c)** prévoir les renseignements à fournir au ministre aux termes des paragraphes 106(1), (3) ou (4) ou de l’article 107 et fixer les modalités de leur fourniture;
+	- **d)** fixer la date limite de fourniture des renseignements visés aux paragraphes 106(1), (3) ou (4);
 	- **e)** prévoir la tenue de livres et de registres pour l’exécution des règlements d’application du présent article;
 	- **f)** déterminer les utilisations justifiant la dérogation prévue au paragraphe 106(8);
 	- **g)** fixer les délais d’évaluation visés par le paragraphe 108(1);
@@ -2523,16 +2533,18 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **Fixation des conditions et modalités**
 
-- **(3)** Les règlements d’application de l’alinéa (1)b) peuvent fixer les conditions et modalités selon :
+- **(3)** Les règlements d’application de l’alinéa (1)b) peuvent fixer les conditions et modalités selon :
 	- **a)** soit la présence de l’organisme dans un groupe d’organismes désigné en application de l’alinéa (1)a);
 	- **b)** soit l’usage en vue duquel l’organisme est fabriqué ou importé.
 
 **Détermination des renseignements et délais**
 
-- **(4)** Les règlements d’application des alinéas (1)c), d) ou g) peuvent déterminer les renseignements ou fixer les dates ou délais selon :
+- **(4)** Les règlements d’application des alinéas (1)c), d) ou g) peuvent déterminer les renseignements ou fixer les dates ou délais selon :
 	- **a)** soit la présence de l’organisme dans un groupe d’organismes désigné en application de l’alinéa (1)a);
 	- **b)** soit l’usage en vue duquel l’organisme est fabriqué ou importé;
 	- **c)** soit les conditions dans lesquelles, et les modalités selon lesquelles, il est fabriqué ou importé.
+> 1999, ch. 33, art. 114; 2017, ch. 26, art. 28.
+
 
 
 
@@ -2541,8 +2553,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **115** 
 
-- **(1)** Le gouverneur en conseil peut, sur recommandation des ministres, prendre des règlements concernant :
-	- **a)** les sujets suivants, en vue de mettre en oeuvre un accord international :
+- **(1)** Le gouverneur en conseil peut, sur recommandation des ministres, prendre des règlements concernant :
+	- **a)** les sujets suivants, en vue de mettre en oeuvre un accord international :
 		- **(i)** les organismes vivants inscrits ou non sur la liste intérieure,
 		- **(ii)** la protection de l’environnement ou de la santé humaine, notamment le transport, la manipulation et l’utilisation sans danger d’un organisme vivant traversant une frontière;
 	- **b)** l’utilisation efficace et sans danger d’organismes vivants dans la prévention de la pollution.
@@ -2550,6 +2562,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Organismes vivants déjà réglementés par le Parlement**
 
 - **(2)** Le gouverneur en conseil ne peut prendre un règlement prévu au paragraphe (1) concernant tout organisme vivant si le point visé par le règlement est déjà réglementé sous le régime d’une autre loi fédérale d’une manière qui, selon lui, offre une protection suffisante pour l’environnement et la santé humaine.
+> 1999, ch. 33, art. 115; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -4748,6 +4762,8 @@ Sont toutefois exclus :
 **Délai**
 
 - **(4)** Après les soixante jours suivant la date de la proposition de consultation faite en application du paragraphe (3), le ministre peut recommander au gouverneur en conseil la prise d’un règlement en vertu du présent article si le gouvernement d’une province ou les membres du comité qui sont des représentants de gouvernements autochtones n’acceptent pas l’offre.
+> 1999, ch. 33, art. 209; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -6011,9 +6027,9 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **272** 
 
 - **(1)** Commet une infraction quiconque :
-	- **a)** contrevient aux paragraphes 16(3) ou (4), 81(1), (2), (3), (4), (10), (11) ou (14), 84(2) ou 96(3) ou (4), à l’article 101, aux paragraphes 106(1), (2), (3), (4), (10) ou (11) ou 109(2), aux articles 117 ou 123, aux paragraphes 124(1), (2) ou (3), 125(1), (2), (3), (4) ou (5), 126(1) ou (2) ou 139(1), aux articles 142 ou 144, aux paragraphes 150(3) ou (4), à l’article 152, au paragraphe 153(1), à l’article 154, au paragraphe 155(5), aux articles 171 ou 181, aux paragraphes 185(1), 186(2), 189(1), 202(3) ou (4) ou 213(3) ou (4), à l’alinéa 228a) ou au paragraphe 238(1);
+	- **a)** contrevient aux paragraphes 16(3) ou (4), 81(1), (3), (4), (10), (11) ou (14), 84(2) ou 96(3) ou (4), à l’article 101, aux paragraphes 106(1), (3), (4), (10) ou (11) ou 109(2), aux articles 117 ou 123, aux paragraphes 124(1), (2) ou (3), 125(1), (2), (3), (4) ou (5), 126(1) ou (2) ou 139(1), aux articles 142 ou 144, aux paragraphes 150(3) ou (4), à l’article 152, au paragraphe 153(1), à l’article 154, au paragraphe 155(5), aux articles 171 ou 181, aux paragraphes 185(1), 186(2), 189(1), 202(3) ou (4) ou 213(3) ou (4), à l’alinéa 228a) ou au paragraphe 238(1);
 	- **b)** contrevient à une obligation imposée au titre des articles 70, 86, 95 ou 111 ou des paragraphes 169(1), 172(1), 179(1), 182(1), 201(1) ou 212(1);
-	- **c)** contrevient à une interdiction imposée au titre des paragraphes 82(1) ou (2), de l’alinéa 84(1)b), des paragraphes 107(1) ou (2), de l’alinéa 109(1)b) ou des paragraphes 186(1) ou 225(4);
+	- **c)** contrevient à une interdiction imposée au titre du paragraphe 82(1), de l’alinéa 84(1)b), du paragraphe 107(1), de l’alinéa 109(1)b) ou des paragraphes 186(1) ou 225(4);
 	- **d)** contrevient à une condition d’une autorisation accordée au titre des alinéas 84(1)a) ou 109(1)a);
 	- **e)** contrevient à tout arrêté d’urgence pris sous le régime des paragraphes 94(1), 173(1), 183(1) ou 200.1(1);
 	- **f)** contrevient à un ordre donné au titre des articles 99, 119 ou 148;
@@ -6053,7 +6069,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 	- **b)** sur déclaration de culpabilité par procédure sommaire :
 		- **(i)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
 		- **(ii)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
-> 1999, ch. 33, art. 272; 2005, ch. 23, art. 37; 2009, ch. 14, art. 72.
+> 1999, ch. 33, art. 272; 2005, ch. 23, art. 37; 2009, ch. 14, art. 72; 2017, ch. 26, art. 29.
 
 
 
@@ -6805,17 +6821,17 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **296** 
 
-- **(1)** Le recours à des mesures de rechange n’est possible, compte tenu de l’objet de la présente loi, que si les conditions suivantes sont réunies :
+- **(1)** Le recours à des mesures de rechange n’est possible, compte tenu de l’objet de la présente loi, que si les conditions suivantes sont réunies :
 	- **a)** les mesures font partie d’un programme autorisé par le procureur général après consultation du ministre;
 	- **b)** l’infraction est une infraction à la présente loi autre que :
-		- **(i)** l’infraction relative à une contravention aux paragraphes 16(4), 81(1), (2), (3) ou (4), 82(1) ou (2), 84(2) ou 96(4), à l’article 99, aux paragraphes 106(1), (2), (3) ou (4), 107(1) ou (2), 109(1) ou (2), 119(1), 148(1), 202(4) ou 213(4) ou aux articles 227 ou 228 ou à toute obligation ou interdiction en découlant, le cas échéant,
+		- **(i)** l’infraction relative à une contravention aux paragraphes 16(4), 81(1), (3) ou (4), 82(1), 84(2) ou 96(4), à l’article 99, aux paragraphes 106(1), (3) ou (4), 107(1), 109(1) ou (2), 119(1), 148(1), 202(4) ou 213(4) ou aux articles 227 ou 228 ou à toute obligation ou interdiction en découlant, le cas échéant,
 		- **(ii)** l’omission de se conformer :
 			- **(A)** à tout ordre donné — ou arrêté pris — sous le régime de la présente loi;
 			- **(B)** à toute ordonnance judiciaire rendue sous le régime de la présente loi;
 			- **(C)** à tout accord;
 		- **(iii)** l’infraction relative à la contravention aux alinéas 272(1)k) ou l) ou aux paragraphes 274(1) ou (2);
 	- **c)** elle a fait l’objet d’une dénonciation;
-	- **d)** le procureur général, après consultation du ministre, est convaincu que les mesures de rechange sont appropriées, compte tenu de la nature de l’infraction, des circonstances de sa perpétration et des éléments ou points suivants :
+	- **d)** le procureur général, après consultation du ministre, est convaincu que les mesures de rechange sont appropriées, compte tenu de la nature de l’infraction, des circonstances de sa perpétration et des éléments ou points suivants :
 		- **(i)** l’intérêt de la société, notamment la protection de l’environnement et de la vie et de la santé humaines,
 		- **(ii)** les antécédents du suspect en ce qui concerne l’observation de la présente loi,
 		- **(iii)** la question de savoir si l’infraction constitue une récidive,
@@ -6830,7 +6846,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Restriction**
 
-- **(2)** Il ne peut y avoir de mesures de rechange lorsque le suspect :
+- **(2)** Il ne peut y avoir de mesures de rechange lorsque le suspect :
 	- **a)** soit nie toute participation à la perpétration de l’infraction;
 	- **b)** soit manifeste le désir de voir déférer au tribunal toute accusation portée contre lui.
 
@@ -6849,7 +6865,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Dénonciation**
 
 - **(6)** Le présent article n’a pas pour effet d’empêcher, s’ils sont conformes à la loi, les dénonciations, l’obtention ou la confirmation d’un acte judiciaire ou l’engagement de poursuites.
-> 1999, ch. 33, art. 296; 2009, ch. 14, art. 87.
+> 1999, ch. 33, art. 296; 2009, ch. 14, art. 87; 2017, ch. 26, art. 30.
 
 
 
@@ -6868,13 +6884,15 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **298** 
 
-- **(1)** L’accord peut être assorti de conditions, notamment en ce qui touche :
+- **(1)** L’accord peut être assorti de conditions, notamment en ce qui touche :
 	- **a)** l’assujettissement du suspect à tout ou partie des obligations énoncées à l’article 291 ou à toute autre obligation réglementaire que le procureur général juge indiquée après consultation du ministre;
 	- **b)** les frais entraînés par le contrôle du respect de l’accord, en particulier les frais d’essais en laboratoire et sur le terrain, d’analyses scientifiques et de déplacement et de séjour.
 
 **Organismes de contrôle**
 
 - **(2)** Tout organisme gouvernemental ou non peut contrôler le respect de l’accord.
+> 1999, ch. 33, art. 298; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -7033,12 +7051,14 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Règlements**
 
-**309** Le ministre peut prendre des règlements concernant les mesures de rechange qui peuvent être prises pour l’application de la présente loi, notamment en ce qui touche :
+**309** Le ministre peut prendre des règlements concernant les mesures de rechange qui peuvent être prises pour l’application de la présente loi, notamment en ce qui touche :
 - **a)** l’exclusion de leur champ d’application de certaines infractions à la présente loi;
 - **b)** les modalités de forme, de présentation et de contenu de la demande prévue à l’alinéa 296(1)g), le délai imparti pour la présenter et les documents qui doivent l’accompagner;
 - **c)** les modalités d’établissement et de dépôt du rapport relatif à l’application et au respect des accords;
 - **d)** les catégories et les modalités de paiement des frais entraînés par le contrôle du respect d’un accord;
 - **e)** les conditions dont peut être assorti un accord et les obligations qu’elles imposent.
+> 1999, ch. 33, art. 309; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -7251,9 +7271,9 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
-**Règlement : consignation**
+**Règlement : consignation**
 
-**325** Le gouverneur en conseil peut, dans l’exercice des attributions prévues aux articles 93, 118 et 209, prendre des règlements sur la consignation et régir, notamment par l’imposition d’obligations :
+**325** Le gouverneur en conseil peut, dans l’exercice des attributions prévues aux articles 93, 118 et 209, prendre des règlements sur la consignation et régir, notamment par l’imposition d’obligations :
 - **a)** les dépôts, et notamment leur montant, la substance, le produit contenant une substance ou l’activité devant faire l’objet d’un dépôt, ainsi que les conditions de leur utilisation et de leur versement;
 - **b)** la période pendant laquelle les dépôts peuvent être retenus;
 - **c)** les remboursements, et notamment leur montant, la substance, le produit contenant une substance ou l’activité devant faire l’objet d’un remboursement, ainsi que les conditions de leur utilisation et de leur versement;
@@ -7262,6 +7282,8 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 - **f)** les rapports et formulaires relatifs aux dépôts et aux remboursements;
 - **g)** la tenue des livres et dossiers nécessaires à la mise en oeuvre des règlements pris au titre du présent article;
 - **h)** la renonciation aux dépôts, et notamment les dépôts non réclamés et les conditions et circonstances entourant la renonciation.
+> 1999, ch. 33, art. 325; 2017, ch. 26, art. 63(A).
+
 
 
 
@@ -7541,11 +7563,13 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **343** 
 
-- **(1)** Au début de la cinquième année suivant l’entrée en vigueur de la présente loi, celle-ci est soumise à l’examen d’un comité, soit de la Chambre des communes, soit du Sénat, soit mixte, désigné ou constitué pour examiner son application.
+- **(1)** Tous les cinq ans après l’entrée en vigueur de la présente loi, celle-ci est soumise à l’examen d’un comité, soit de la Chambre des communes, soit du Sénat, soit mixte, désigné ou constitué pour examiner son application.
 
 **Rapport**
 
 - **(2)** Le comité visé au paragraphe (1) examine à fond, dès que possible, les dispositions de la présente loi ainsi que les conséquences de son application en vue de la présentation, dans un délai d’un an à compter du début de l’examen ou tel délai plus long autorisé par la Chambre des communes, le Sénat ou les deux chambres, selon le cas, d’un rapport au Parlement où sont consignées ses conclusions ainsi que ses recommandations, s’il y a lieu, quant aux modifications de la présente loi ou des modalités d’application de celle-ci qui seraient souhaitables.
+> 1999, ch. 33, art. 343; 2017, ch. 26, art. 31(F).
+
 
 
 
