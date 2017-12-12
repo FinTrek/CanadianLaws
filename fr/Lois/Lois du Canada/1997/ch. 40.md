@@ -806,7 +806,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contenu des documents**
 
-- **(5)** Ces documents contiennent également l’information générale et particulière que le conseil d’administration juge nécessaire pour présenter fidèlement, selon les principes comptables généralement reconnus — principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés — , la situation financière de l’Office à la clôture de l’exercice.
+- **(5)** Ces documents contiennent également l’information générale et particulière que le conseil d’administration juge nécessaire pour présenter fidèlement, selon les principes comptables généralement reconnus — principalement ceux qui sont énoncés dans le Manuel de Comptables professionnels agréés du Canada —, la situation financière de l’Office à la clôture de l’exercice.
 
 **États financiers trimestriels**
 
@@ -819,7 +819,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conjointement et séparément**
 
 - **(8)** Les états financiers établis en application du présent article sont présentés dans le même ensemble d’états et sont établis conjointement et séparément à l’égard des sommes administrées par l’Office pour l’application du régime de pensions de base du Canada et du régime de pensions supplémentaire du Canada, au sens de l’article 91 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
-> 1997, ch. 40, art. 39; 2016, ch. 14, art. 58.
+> 1997, ch. 40, art. 39; 2016, ch. 14, art. 58; 2017, ch. 26, art. 62.
 
 
 
@@ -853,11 +853,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Normes applicables**
 
-- **(4)** Ce faisant, il applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de l’Institut canadien des comptables agréés.
+- **(4)** Ce faisant, il applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 **Utilisation des données d’une vérification interne**
 
 - **(5)** Le vérificateur, dans la mesure où il les juge utilisables, se fie aux résultats de toute vérification interne faite en conformité avec le paragraphe 39(3).
+> 1997, ch. 40, art. 40; 2017, ch. 26, art. 62.
+
 
 
 
