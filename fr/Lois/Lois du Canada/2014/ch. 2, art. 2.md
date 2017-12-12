@@ -838,7 +838,9 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 
 **Montant de l’indemnité**
 
-- **(5)** La personne ainsi choisie établit la valeur des améliorations par un moyen semblable à l’établissement de la valeur réelle juste de l’amélioration — au moment où le gouverneur en conseil reprend ou obtient, du fait de la renonciation du commissaire, la gestion et de la maîtrise des terres —, déterminée conformément à la méthode de calcul de la valeur réelle juste des améliorations foncières prévue dans les lois de la législature d’application générale relatives aux évaluations de taxes foncières. Le montant de l’indemnité doit correspondre à cette valeur.
+- **(5)** La personne ainsi choisie établit la valeur des améliorations par un moyen semblable à l’établissement de la valeur réelle juste de l’amélioration — au moment où le gouverneur en conseil reprend ou obtient, du fait de la renonciation du commissaire, la gestion et la maîtrise des terres —, déterminée conformément à la méthode de calcul de la valeur réelle juste des améliorations foncières prévue dans les lois de la législature d’application générale relatives aux évaluations de taxes foncières. Le montant de l’indemnité doit correspondre à cette valeur.
+> 2014, ch. 2, art. 2 « 59 »; 2017, ch. 26, art. 55(F).
+
 
 
 
@@ -943,18 +945,20 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 
 **68** Les définitions suivantes s’appliquent aux articles 69 à 71, 73 et 74.
 
-***charge*** Droit visé à l’article 7(94) de la Convention définitive des Inuvialuits, à l’article 18.5 de l’accord gwichin ou à l’article 19.5 de l’accord du Sahtu, intérêt visé à l’article 18.6 de l’accord tlicho ou droit ou intérêt semblable visé dans une autre entente de règlement.
+***charge*** Droit visé à l’article 7(94) de la Convention définitive des Inuvialuits, à l’article 18.5 de l’accord gwichin ou à l’article 19.5 de l’accord du Sahtu, intérêt visé à l’article 18.6 de l’accord tlicho ou droit ou intérêt semblable visé dans une autre entente de règlement. (*encumbering right*)
 
-***intérêt existant*** Selon le cas :
+***intérêt existant*** Selon le cas :
 - **a)** tout droit ou intérêt qui existe à la date d’entrée en vigueur de l’article 1 sous le régime d’une loi fédérale abrogée ou rendue inapplicable à l’égard du droit ou de l’intérêt par une loi fédérale de mise en oeuvre de l’accord;
 - **b)** tout droit ou intérêt qui existe à cette date aux termes d’une ordonnance d’accès, d’un permis, d’une licence ou d’une autre autorisation, d’un bail ou d’un contrat de location ou de vente délivré, accordé ou autrement obtenu sous le régime d’une loi fédérale abrogée ou rendue inapplicable à l’égard du droit ou de l’intérêt par une loi fédérale de mise en oeuvre de l’accord;
 - **c)** tout droit ou intérêt qui existe à cette date aux termes d’un permis d’utilisation des eaux — au sens de l’article 51 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), dans sa version en vigueur à cette date — autre qu’un permis d’utilisation des eaux visant une zone fédérale au sens de l’article 51 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md);
 - **d)** tout droit ou intérêt visé à l’un des alinéas a) à c) et qui est renouvelé ou tout droit ou intérêt qui remplace un droit ou un intérêt visé à l’un des alinéas a) à c) ou qui y succède, si le droit au renouvellement, au remplacement ou à la succession existait à cette date;
 - **e)** tout permis qui :
-	- **(i)** soit est en vigueur à cette date et dont la délivrance était assujettie la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md),
-	- **(ii)** soit est visé au sous-alinéa i) et est renouvelé ou remplace un permis visé à ce sous-alinéa ou y succède, si le droit au renouvellement, au remplacement ou à la succession existait avant cette date.
+	- **(i)** soit est en vigueur à cette date et dont la délivrance était assujettie à la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md),
+	- **(ii)** soit est visé au sous-alinéa (i) et est renouvelé ou remplace un permis visé à ce sous-alinéa ou y succède, si le droit au renouvellement, au remplacement ou à la succession existait à cette date.
 
-Il est entendu que sont également visés les droits et intérêts mentionnés aux alinéas a), b), c) ou d) et constituant des charges ainsi que les intérêts visant des terres situées dans la région intracôtière aux termes du paragraphe 117.2(1) de la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md).
+Il est entendu que sont également visés les droits et intérêts mentionnés aux alinéas a), b), c) ou d) et constituant des charges ainsi que les intérêts visant des terres situées dans la région intracôtière aux termes du paragraphe 117.2(1) de la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md). (*existing interest*)
+> 2014, ch. 2, art. 2 « 68 »; 2017, ch. 26, art. 56(F).
+
 
 
 
@@ -1018,7 +1022,7 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 
 **73** 
 
-- **(1)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les préposés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires et qui sont survenus :
+- **(1)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus :
 	- **a)** après l’entrée en vigueur de l’article 1, à l’égard :
 		- **(i)** de terres domaniales dont le commissaire a la gestion et la maîtrise, autres que celles dont il a la gestion et la maîtrise à l’entrée en vigueur de cet article,
 		- **(ii)** de droits relatifs à des eaux dont le commissaire a la gestion et la maîtrise,
@@ -1029,7 +1033,9 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 
 **Indemnisation : obligations au titre de l’accord**
 
-- **(2)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les préposés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant d’un manquement de sa part ou de celle de ses préposés et mandataires aux obligations que lui impose l’accord relativement aux fonctionnaires fédéraux.
+- **(2)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant d’un manquement de sa part ou de celle de ses employés et mandataires aux obligations que lui impose l’accord relativement aux fonctionnaires fédéraux.
+> 2014, ch. 2, art. 2 « 73 »; 2017, ch. 26, art. 57(F).
+
 
 
 
@@ -1038,7 +1044,7 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 
 **74** 
 
-- **(1)** Le gouvernement du Canada indemnise le gouvernement des Territoires du Nord-Ouest, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires et qui sont survenus :
+- **(1)** Le gouvernement du Canada indemnise le gouvernement des Territoires du Nord-Ouest, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus :
 	- **a)** avant l’entrée en vigueur de l’article 1, à l’égard :
 		- **(i)** de terres domaniales dont le commissaire a la gestion et la maîtrise — exception faite de celles dont il avait la gestion et la maîtrise avant cette entrée en vigueur,
 		- **(ii)** de droits relatifs à des eaux dont le commissaire a la gestion et la maîtrise,
@@ -1050,14 +1056,18 @@ Il est entendu que sont également visés les droits et intérêts mentionnés a
 
 **Indemnisation des parties autochtones**
 
-- **(2)** Le gouvernement du Canada indemnise la partie autochtone, ainsi que les préposés et mandataires de celle-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires et qui sont survenus à l’égard de mesures d’assainissement exécutées au titre de l’accord sur des terres de cette partie autochtone visées par un règlement.
+- **(2)** Le gouvernement du Canada indemnise la partie autochtone, ainsi que les employés et mandataires de celle-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus à l’égard de mesures d’assainissement exécutées au titre de l’accord sur des terres de cette partie autochtone visées par un règlement.
+> 2014, ch. 2, art. 2 « 74 »; 2017, ch. 26, art. 58(F).
+
 
 
 
 
 **Réserve : consentement écrit**
 
-**75** En cas de règlement hors cour, les gouvernements du Canada et des Territoires du Nord-Ouest, les parties autochtones et leurs préposés et mandataires ne peuvent être indemnisés en application des articles 73 ou 74 sans le consentement écrit du gouvernement qui est tenu d’indemniser.
+**75** En cas de règlement hors cour, les gouvernements du Canada et des Territoires du Nord-Ouest, les parties autochtones et leurs employés et mandataires ne peuvent être indemnisés en application des articles 73 ou 74 sans le consentement écrit du gouvernement qui est tenu d’indemniser.
+> 2014, ch. 2, art. 2 « 75 »; 2017, ch. 26, art. 59(F).
+
 
 
 
