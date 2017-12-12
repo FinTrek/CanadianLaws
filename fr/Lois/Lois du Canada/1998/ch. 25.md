@@ -515,7 +515,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Documents comptables**
 
-- **(2)** Il tient les documents comptables nécessaires en conformité avec les principes recommandés en la matière par l’Institut canadien des comptables agréés ou tout organisme lui succédant.
+- **(2)** Il tient les documents comptables nécessaires en conformité avec les principes recommandés en la matière par Comptables professionnels agréés du Canada ou tout organisme lui succédant.
 
 **États financiers consolidés**
 
@@ -528,6 +528,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Financement**
 
 - **(5)** Le ministre fédéral peut conclure avec l’office une entente concernant son financement et précisant les modalités de versement des sommes prévues par le budget qu’il a approuvé.
+> 1998, ch. 25, art. 26; 2017, ch. 26, art. 62.
+
 
 
 
