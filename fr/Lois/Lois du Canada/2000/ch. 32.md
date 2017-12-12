@@ -243,11 +243,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Le ministre favorise, le cas échéant, la participation du public à l’échelle nationale, régionale et locale — notamment la participation des organisations autochtones, des organismes constitués dans le cadre d’accords sur des revendications territoriales et des représentants des collectivités —, tant à la création des parcs qu’à l’élaboration de la politique et des règlements à leur égard, des plans de gestion, de l’aménagement des terres et du développement des collectivités et des autres mesures qu’il juge utiles.
+- **(1)** Le ministre favorise, le cas échéant, la participation du public à l’échelle nationale, régionale et locale — notamment la participation des organisations autochtones, des organismes constitués dans le cadre d’accords sur des revendications territoriales et des représentants des collectivités —, tant à la création des parcs qu’à l’élaboration de la politique et des règlements à leur égard, des plans directeurs, de l’aménagement des terres et du développement des collectivités et des autres mesures qu’il juge utiles.
 
 **Suivi**
 
 - **(2)** Au moins tous les deux ans, le ministre fait déposer devant chaque chambre du Parlement un rapport sur la situation des parcs existants et les mesures prises en vue de la création de parcs.
+> 2000, ch. 32, art. 12; 2017, ch. 26, art. 32(F).
+
 
 
 
@@ -1072,7 +1074,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Principes directeurs**
 
 - **(2)** Le plan communautaire doit :
-	- **a)** être compatible avec le plan de gestion du parc où est située la collectivité;
+	- **a)** être compatible avec le plan directeur du parc où est située la collectivité;
 	- **b)** respecter les lignes directrices établies par le ministre relativement à l’exercice d’activités dans la collectivité;
 	- **c)** prévoir une stratégie de gestion du développement de la collectivité;
 	- **d)** respecter les principes suivants :
@@ -1093,7 +1095,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Baux, permis, etc.**
 
 - **(5)** Il est interdit de délivrer des baux, permis d’occupation, licences ou autres autorisations permettant l’utilisation à des fins commerciales de terres situées dans une zone commerciale d’une collectivité si la délivrance de l’autorisation a pour effet d’excéder la superficie commerciale maximale de ces zones mentionnée à l’annexe 4.
-> 2000, ch. 32, art. 33; 2015, ch. 3, art. 19(F).
+> 2000, ch. 32, art. 33; 2015, ch. 3, art. 19(F); 2017, ch. 26, art. 33(F).
 
 
 
@@ -1446,7 +1448,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### (1) Parc national des Glaciers du Canada
 
 
-Toutes les latitudes et longitudes indiquées ci-après font référence au système géodésique nord-américain de 1927 et tous les accidents topographiques indiqués sont conformes à la première édition de la carte « Map Compilation and Reproduction » MCR 219 (Parcs nationaux des Glaciers et du Mont-Revelstoke) compilée à partir des cartes 82N/3, 82N/4, 82N/5, 82N/6, 82L/16 et 82M/1 de la série 1 : 50 000 du système national de référence cartographique et d’information fournie par Environnement Canada Parcs; ladite carte MCR a été produite à l’échelle de 1 : 70 000 par la Direction des levés et de la cartographie, Énergie, Mines et Ressources Canada, 1987;
+Toutes les latitudes et longitudes indiquées ci-après font référence au Système géodésique nord-américain de 1927 et tous les accidents topographiques indiqués sont conformes à la première édition de la carte « Map Compilation and Reproduction » MCR 219 (Parcs nationaux des Glaciers et du Mont-Revelstoke) compilée à partir des cartes 82N/3, 82N/4, 82N/5, 82N/6, 82L/16 et 82M/1 de la série 1:50 000 du système national de référence cartographique et d’information fournie par Environnement Canada Parcs; ladite carte MCR a été produite à l’échelle de 1:70 000 par la Direction des levés et de la cartographie, Énergie, Mines et Ressources Canada, 1987;
 
 
 
@@ -2659,7 +2661,7 @@ De là, vers le sud, en suivant la frontière interprovinciale jusqu’au point 
 
 
 
-Ladite région contenant environ 10 878 kilomètres carrés;
+Ladite région contenant environ 11 228 kilomètres carrés;
 
 
 
@@ -4445,7 +4447,7 @@ Lesdites parcelles décrite sous Premièrement et Deuxièmement renfermant ensem
 ### (3) Parc national des Îles-de-la-Baie-Georgienne du Canada
 
 
-L’ensemble des îles ou parties d’îles situées dans la Baie Georgienne, province d’Ontario, comme il suit :
+L’ensemble des îles ou parties d’îles situées dans la baie Georgienne, province d’Ontario, comme il suit :
 
 
 
@@ -4455,7 +4457,7 @@ L’ensemble des îles ou parties d’îles situées dans la Baie Georgienne, pr
 
 
 
-Les 6 îles suivantes, sous le plan 385 déposé auxdites archives, plan d’îles de la Baie Georgienne signé par C.E. Fitton, arpenteur provincial, en date du 4 janvier 1897 :
+Les 6 îles suivantes, sous le plan 385 déposé auxdites archives, plan d’îles de la baie Georgienne signé par C.E. Fitton, arpenteur provincial, en date du 4 janvier 1897 :
 
 
 
@@ -4483,7 +4485,7 @@ Les 6 îles suivantes, sous le plan 385 déposé auxdites archives, plan d’îl
 
 
 
-Les 4 îles suivantes, sous le plan 380 déposé auxdites archives, carte de certaines îles de la Baie Georgienne, sous la signature de J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
+Les 4 îles suivantes, sous le plan 380 déposé auxdites archives, carte de certaines îles de la baie Georgienne, sous la signature de J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
 
 
 
@@ -4503,7 +4505,7 @@ Les 4 îles suivantes, sous le plan 380 déposé auxdites archives, carte de cer
 
 
 
-Les 11 îles suivantes, sous le plan 381 déposé auxdites archives, carte de certaines îles de la Baie Georgienne signée par J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
+Les 11 îles suivantes, sous le plan 381 déposé auxdites archives, carte de certaines îles de la baie Georgienne signée par J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
 
 
 
@@ -4579,7 +4581,7 @@ Lot D, île Portage (n<sup>o</sup> 139), contenant environ 7,53 hectares, sous l
 
 
 
-Île n<sup>o</sup> 200 (Île Gray), contenant environ 5,06 hectares, sous le plan 399 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 20 avril 1901.
+Île n<sup>o</sup> 200 (île Gray), contenant environ 5,06 hectares, sous le plan 399 déposé auxdites archives, plan de certaines îles de la baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 20 avril 1901.
 
 
 
@@ -4603,7 +4605,7 @@ Les 3 îles suivantes, sous ledit plan 399 :
 
 
 
-Les 11 îles suivantes, sous le plan 409 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 12 juin 1902 :
+Les 11 îles suivantes, sous le plan 409 déposé auxdites archives, plan de certaines îles de la baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 12 juin 1902 :
 
 
 
@@ -4651,11 +4653,11 @@ Les 11 îles suivantes, sous le plan 409 déposé auxdites archives, plan de cer
 
 
 
-Île n<sup>o</sup> 400, contenant environ 0,40 hectare, sous le plan 407 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 12 juin 1902.
+Île n<sup>o</sup> 400, contenant environ 0,40 hectare, sous le plan 407 déposé auxdites archives, plan de certaines îles de la baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 12 juin 1902.
 
 
 
-Île n<sup>o</sup> 402, contenant environ 1,01 hectare, sous le plan 405 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial en date du 12 juin 1902.
+Île n<sup>o</sup> 402, contenant environ 1,01 hectare, sous le plan 405 déposé auxdites archives, plan de certaines îles de la baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial en date du 12 juin 1902.
 
 
 
@@ -6132,18 +6134,18 @@ Ledit parc national d’Auyuittuq du Canada renfermant environ 19 089 kilomètr
 
 
 
-### (3) Parc national de Quttinirpaaq du Canada
+### (3) Parc national Quttinirpaaq du Canada
 
 
 Dans le Nunavut;
 
 
 
-Sur l’Île d’Ellesmere;
+Sur l’île d’Ellesmere;
 
 
 
-Tout élément topographique étant conforme au répertoire géographique du Canada (Territoires du Nord-Ouest) première édition, Ottawa 1980 ainsi qu’avec les feuilles du Système National de Référence Cartographique suivantes : (120C et D Lady Franklin Bay), (120E Robeson Channel), (120F et G Clements Markham Inlet), (340E et H M’Clintock Inlet) et (340D Tanquary Fiord) produites à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa; toute cette partie de ladite Île d’Ellesmere, incluant une partie de l’Océan Arctique, les baies, les fjords, Discovery Harbour, les entrées, les rivières, les îles et tous les cours d’eau se trouvant à l’intérieur des limites ainsi décrites :
+Tout élément topographique étant conforme au répertoire géographique du Canada (Territoires du Nord-Ouest) première édition, Ottawa 1980 ainsi qu’avec les feuilles du Système National de Référence Cartographique suivantes : (120C et D Lady Franklin Bay), (120E Robeson Channel), (120F et G Clements Markham Inlet), (340E et H M’Clintock Inlet) et (340D Tanquary Fiord) produites à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa; toute cette partie de ladite île d’Ellesmere, incluant une partie de l’Océan Arctique, les baies, les fjords, Discovery Harbour, les entrées, les rivières, les îles et tous les cours d’eau se trouvant à l’intérieur des limites ainsi décrites :
 
 
 
@@ -6720,7 +6722,7 @@ Y compris toutes les matières ou tous les matériaux qui peuvent être aliéné
 
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2; 2017, ch. 10, art. 5 et 6(F).
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2; 2017, ch. 10, art. 5 et 6(F), ch. 26, art. 34(F), 35 et 36 à 38(F).
 
 
 
@@ -8116,7 +8118,7 @@ Dans la province de Québec;
 
 
 
-Tous ces terrains étant la totalité du fief et seigneurie des îles et îlets de Mingan situés le long de la rive nord du fleuve Saint-Laurent, dans la province de Québec, ledit fief et seigneurie comprenant les îles et îlets qui se suivent le long de ladite rive nord à partir de l’Île au Perroquet, longitude 64°12′40″ jusqu’à l’embouchure de la rivière Aguanus, longitude 62°05′00″, de la même façon que ledit fief et seigneurie avec les droits qui y sont rattachés furent concédés et décrits dans le titre de concession consenti à Jacques de Lalande et Louis Joliet.
+Tous ces terrains étant la totalité du fief et seigneurie des îles et îlets de Mingan situés le long de la rive nord du fleuve Saint-Laurent, dans la province de Québec, ledit fief et seigneurie comprenant les îles et îlets qui se suivent le long de ladite rive nord à partir de l’île au Perroquet, longitude 64°12′40″ jusqu’à l’embouchure de la rivière Aguanus, longitude 62°05′00″, de la même façon que ledit fief et seigneurie avec les droits qui y sont rattachés furent concédés et décrits dans le titre de concession consenti à Jacques de Lalande et Louis Joliet.
 
 
 
@@ -8124,7 +8126,7 @@ Certaines îles et îlets compris dans le fief et seigneurie des îles et îlets
 
 
 
-Nonobstant la généralité de ce qui précède, les îles et îlets ci-après énumérés, faisant partie du fief et seigneurie des îles et îlets de Mingan, ne sont pas inclus dans la présente description, savoir : l’Île au Perroquet, l’Île de la Maison, l’Île du Wreck, l’Île du Havre de Mingan, le Sanctuaire, l’Île aux Sauvages et une partie de l’Île du Fantôme, décrite dans un acte enregistré au bureau de la division d’enregistrement de Saguenay, le 15 janvier 1952, sous le numéro 13630.
+Nonobstant la généralité de ce qui précède, les îles et îlets ci-après énumérés, faisant partie du fief et seigneurie des îles et îlets de Mingan, ne sont pas inclus dans la présente description, savoir : l’île au Perroquet, l’île de la Maison, l’île du Wreck, l’île du Havre de Mingan, l’île à Calculot des Betchouanes, l’île Innu et une partie de l’île du Fantôme, décrite dans un acte enregistré au bureau de la division d’enregistrement de Saguenay, le 15 janvier 1952, sous le numéro 13630.
 
 
 
@@ -9985,7 +9987,7 @@ L’ensemble de l’île de Sable, située près des coordonnées géographiques
 La parcelle de terre ayant une superficie d’environ trente kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6; 2015, ch. 3, art. 21(F).
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6; 2015, ch. 3, art. 21(F); 2017, ch. 26, art. 39.
 
 
 
