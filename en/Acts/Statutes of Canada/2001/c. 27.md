@@ -3652,16 +3652,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Aggravating factors**
 
-**121** 
-
-- **(1)** The court, in determining the penalty to be imposed under section 120, shall take into account whether
-	- **(a)** bodily harm or death occurred, or the life or safety of any person was endangered, as a result of the commission of the offence;
-	- **(b)** the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization;
-	- **(c)** the commission of the offence was for profit, whether or not any profit was realized; and
-	- **(d)** a person was subjected to humiliating or degrading treatment, including with respect to work or health conditions or sexual exploitation as a result of the commission of the offence.
-
-- **(2)** [Repealed, 2012, c. 17, s. 42]
-> 2001, c. 27, s. 121; 2012, c. 17, s. 42.
+**121** The court, in determining the penalty to be imposed under section 120, shall take into account whether
+- **(a)** bodily harm or death occurred, or the life or safety of any person was endangered, as a result of the commission of the offence;
+- **(b)** the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization;
+- **(c)** the commission of the offence was for profit, whether or not any profit was realized; and
+- **(d)** a person was subjected to humiliating or degrading treatment, including with respect to work or health conditions or sexual exploitation as a result of the commission of the offence.
+> 2001, c. 27, s. 121; 2012, c. 17, s. 42; 2017, c. 26, s. 44.
 
 
 
@@ -4098,7 +4094,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **148** 
 
 - **(1)** A person who owns or operates a vehicle or a transportation facility, and an agent for such a person, must, in accordance with the regulations,
-	- **(a)** not carry to Canada a person who is prescribed or does not hold a prescribed document, or who an officer directs not be carried;
+	- **(a)** not carry to Canada a person who is prescribed or does not hold a prescribed document, or whom an officer directs not to be carried;
 	- **(b)** hold the prescribed documentation of a person whom it carries to Canada until an examination begins, present the person for examination and hold the person until the examination is completed;
 	- **(c)** arrange for a medical examination and medical treatment and observation of a person it carries to Canada;
 	- **(d)** provide prescribed information, including documentation and reports;
@@ -4110,6 +4106,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Seizure of security for compliance**
 
 - **(2)** If a person who owns or operates a vehicle or a transportation facility, or an agent of such a person, fails to comply with an obligation under this Act, all or part of any security provided by the person and any vehicle or other prescribed good owned or operated by the person may be detained, seized or forfeited to Her Majesty in right of Canada.
+> 2001, c. 27, s. 148; 2017, c. 26, s. 45.
+
 
 
 
