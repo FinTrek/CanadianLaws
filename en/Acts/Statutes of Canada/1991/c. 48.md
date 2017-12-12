@@ -5741,12 +5741,12 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **Accounting principles**
 
-- **(4)** The financial statements referred to in subsection (1), paragraph (3)(b) and subsection 294(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
+- **(4)** The financial statements referred to in subsection (1), paragraph (3)(b) and subsection 294(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
 
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
-> 1991, c. 48, s. 292; 1997, c. 15, s. 133; 2001, c. 9, s. 293; 2005, c. 54, s. 195.
+> 1991, c. 48, s. 292; 1997, c. 15, s. 133; 2001, c. 9, s. 293; 2005, c. 54, s. 195; 2017, c. 26, s. 62.
 
 
 
@@ -6035,7 +6035,9 @@ shall submit to the association and the Superintendent a written statement givin
 
 **Auditing standards**
 
-- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
+> 1991, c. 48, s. 307; 2017, c. 26, s. 62.
+
 
 
 
