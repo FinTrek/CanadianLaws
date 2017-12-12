@@ -318,7 +318,7 @@ French version only***matériels*** Véhicules ou équipements.
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(8)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à un arrêté pris au titre des paragraphes (4) ou (7).
-> 2014, ch. 20, art. 222.
+> 2014, ch. 20, art. 222; 2017, ch. 26, art. 17(A).
 
 
 
