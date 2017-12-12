@@ -1540,19 +1540,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Réalisations escomptées**
 
-- **(2)** La personne détermine les effets nocifs du projet sur l’espèce et son habitat essentiel et, si le projet est réalisé, veille à ce que des mesures compatibles avec tout programme de rétablissement et tout plan d’action applicable soient prises en vue de les éviter ou de les amoindrir et les contrôler.
+- **(2)** La personne détermine les effets nocifs du projet sur l’espèce et son habitat essentiel et, si le projet est réalisé, veille à ce que des mesures compatibles avec tout programme de rétablissement et tout plan d’action applicable soient prises en vue de les éviter ou de les amoindrir et les surveiller.
 
 **Définitions**
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) et de tout organisme mentionné à l’annexe 3 de cette loi.
+***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) et de tout organisme mentionné à l’annexe 3 de cette loi. (*person*)
 
 ***projet***
 - **a)** Projet désigné au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ou projet au sens de l’article 66 de cette loi;
 - **b)** projet de développement au sens du paragraphe 2(1) de la [Loi sur l’évaluation environnementale et socioéconomique au Yukon](/fr/Lois/Lois%20du%20Canada/2003/ch.%207.md);
-- **c)** projet de développement au sens du paragraphe 111(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md).
-> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59.
+- **c)** projet de développement au sens du paragraphe 111(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md). (*project*)
+> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59; 2017, ch. 26, art. 49(F).
 
 
 
