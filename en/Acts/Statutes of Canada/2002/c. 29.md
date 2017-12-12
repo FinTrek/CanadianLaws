@@ -1546,13 +1546,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** The following definitions apply in this section.
 
-***person*** includes an association, an organization, a federal authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), and any body that is set out in Schedule 3 to that Act.
+***person*** includes an association, an organization, a federal authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), and any body that is set out in Schedule 3 to that Act. (*personne*)
 
-***project*** means
+***project*** means
 - **(a)** a designated project as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) or a project as defined in section 66 of that Act;
 - **(b)** a project as defined in subsection 2(1) of the [Yukon Environmental and Socio-economic Assessment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%207.md); or
-- **(c)** a development as defined in subsection 111(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
-> 2002, c. 29, s. 79; 2012, c. 19, s. 59.
+- **(c)** a development as defined in subsection 111(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md). (*projet*)
+> 2002, c. 29, s. 79; 2012, c. 19, s. 59; 2017, c. 26, s. 49(F).
 
 
 
