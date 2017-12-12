@@ -5615,8 +5615,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **292** 
 
-- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux associés :
-	- **a)** un rapport financier annuel comparatif désigné dans la présente loi sous le nom de « rapport annuel », et couvrant séparément :
+- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux associés :
+	- **a)** un rapport financier annuel comparatif désigné dans la présente loi sous le nom de « rapport annuel », et couvrant séparément :
 		- **(i)** l’exercice précédant l’assemblée,
 		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
 	- **b)** le rapport du vérificateur de l’association;
@@ -5628,8 +5628,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Renseignements additionnels**
 
-- **(3)** L’association joint à son rapport annuel :
-	- **a)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 394 ou en réalisant une sûreté conformément à l’article 395 et qu’elle ne serait pas par ailleurs autorisée à détenir — , avec indication, pour chacune d’elles, des renseignements suivants :
+- **(3)** L’association joint à son rapport annuel :
+	- **a)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 394 ou en réalisant une sûreté conformément à l’article 395 et qu’elle ne serait pas par ailleurs autorisée à détenir — , avec indication, pour chacune d’elles, des renseignements suivants :
 		- **(i)** sa dénomination sociale et l’adresse de son siège ou bureau principal,
 		- **(ii)** la valeur comptable de celles de ses actions dont elle-même et ses autres filiales ont la propriété effective,
 		- **(iii)** la part — exprimée en pourcentage — des droits de vote propres à l’ensemble des actions en circulation avec droit de vote de la filiale qui se rattache à celles de ses actions avec droit de vote dont l’association et ses autres filiales ont la propriété effective;
@@ -5637,12 +5637,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Principes comptables**
 
-- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)b) et au paragraphe 294(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
+- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)b) et au paragraphe 294(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de Comptables professionnels agréés du Canada. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
 
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 1991, ch. 48, art. 292; 1997, ch. 15, art. 133; 2001, ch. 9, art. 293; 2005, ch. 54, art. 195.
+> 1991, ch. 48, art. 292; 1997, ch. 15, art. 133; 2001, ch. 9, art. 293; 2005, ch. 54, art. 195; 2017, ch. 26, art. 62.
 
 
 
@@ -5929,7 +5929,9 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **Normes applicables**
 
-- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de l’Institut canadien des comptables agréés.
+- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+> 1991, ch. 48, art. 307; 2017, ch. 26, art. 62.
+
 
 
 
