@@ -1004,12 +1004,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
 	- **a)** au paragraphe 16(3) (tricherie);
 	- **b)** à l’article 18 (omettre de produire un document maritime canadien);
-	- **c)** au paragraphe 20(7) (omettre de rendre un document maritime canadien suspendu ou annulé);
+	- **c)** au paragraphe 20(2) (omettre de rendre un document maritime canadien suspendu ou annulé);
 	- **d)** à toute disposition d’un règlement pris en vertu des alinéas 35(1)e) ou (3)b).
 
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt sur déclaration de culpabilité par procédure sommaire une amende maximale de 10 000 $.
+> 2001, ch. 26, art. 40; 2017, ch. 26, art. 40.
+
 
 
 
@@ -2042,13 +2044,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Certificats
+### Brevets
 
 
 
 **Personnes occupant un poste à bord**
 
-**87** Toute personne occupant à bord d’un bâtiment canadien un poste à l’égard duquel un certificat est exigé sous le régime de la présente partie doit être titulaire du certificat et en respecter les modalités.
+**87** Toute personne occupant à bord d’un bâtiment canadien un poste à l’égard duquel un brevet est exigé sous le régime de la présente partie doit être titulaire du brevet et en respecter les modalités.
+> 2001, ch. 26, art. 87; 2017, ch. 26, art. 41(F).
+
 
 
 
@@ -2057,26 +2061,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **88** 
 
-- **(1)** Seuls les citoyens canadiens et les résidents permanents au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) peuvent être titulaires d’un certificat de compétence délivré sous le régime de la présente partie.
+- **(1)** Seuls les citoyens canadiens et les résidents permanents au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) peuvent être titulaires d’un brevet d’aptitude délivré sous le régime de la présente partie.
 
-**Certificat étranger**
+**Brevet étranger**
 
-- **(2)** Le ministre peut, à la demande d’une personne visée au paragraphe (1), délivrer un certificat de compétence relativement à certaines exigences prévues sous le régime de la présente loi au titulaire d’un certificat de compétence délivré en vertu de lois étrangères s’il est convaincu que les exigences afférentes à ce dernier certificat sont égales ou supérieures à celles prévues sous le régime de la présente loi. Il peut, au préalable, exiger que le titulaire subisse l’examen qu’il précise.
-> 2001, ch. 26, art. 88 et 323.
-
-
+- **(2)** Le ministre peut, à la demande d’une personne visée au paragraphe (1), délivrer un brevet d’aptitude relativement à certaines exigences prévues sous le régime de la présente loi au titulaire d’un brevet d’aptitude délivré en vertu de lois étrangères s’il est convaincu que les exigences afférentes à ce dernier brevet sont égales ou supérieures à celles prévues sous le régime de la présente loi. Il peut, au préalable, exiger que le titulaire subisse l’examen qu’il précise.
+> 2001, ch. 26, art. 88 et 323; 2017, ch. 26, art. 41(F).
 
 
 
-**Acceptation d’un certificat étranger**
+
+
+**Acceptation d’un brevet étranger**
 
 **89** 
 
-- **(1)** Dans le cas où le gouvernement d’un État étranger a conclu avec le gouvernement du Canada un arrangement réciproque en vue d’accepter, en remplacement des certificats de compétence délivrés par cet État, les certificats de compétence délivrés sous le régime de la présente partie, le ministre peut ordonner, sous réserve des conditions qu’il peut imposer, que le certificat de compétence étranger soit accepté en remplacement du certificat de compétence prévu par la présente partie, s’il est convaincu que les exigences afférentes au premier certificat sont égales ou supérieures à celles afférentes au second.
+- **(1)** Dans le cas où le gouvernement d’un État étranger a conclu avec le gouvernement du Canada un arrangement réciproque en vue d’accepter, en remplacement des brevets d’aptitude délivrés par cet État, les brevets d’aptitude délivrés sous le régime de la présente partie, le ministre peut ordonner, sous réserve des conditions qu’il peut imposer, que le brevet d’aptitude étranger soit accepté en remplacement du brevet d’aptitude prévu par la présente partie, s’il est convaincu que les exigences afférentes au premier brevet sont égales ou supérieures à celles afférentes au second.
 
 **Suspension ou révocation**
 
-- **(2)** Le certificat ainsi accepté peut, seulement en ce qui concerne sa validité au Canada, être suspendu ou révoqué par le ministre comme s’il s’agissait d’un document maritime canadien; le certificat ainsi suspendu ou révoqué doit être remis par le titulaire au ministre, qui le renvoie aussitôt à l’autorité qui l’a délivré.
+- **(2)** Le brevet ainsi accepté peut, seulement en ce qui concerne sa validité au Canada, être suspendu ou révoqué par le ministre comme s’il s’agissait d’un document maritime canadien; le brevet ainsi suspendu ou révoqué doit être remis par le titulaire au ministre, qui le renvoie aussitôt à l’autorité qui l’a délivré.
+> 2001, ch. 26, art. 89; 2017, ch. 26, art. 41(F).
+
 
 
 
@@ -2089,15 +2095,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **90** 
 
-- **(1)** Le médecin ou l’optométriste qui a des motifs raisonnables de croire que l’état du titulaire d’un certificat est susceptible de constituer un risque pour la sécurité maritime fait part sans délai de son avis motivé au ministre.
+- **(1)** Le médecin ou l’optométriste qui a des motifs raisonnables de croire que l’état du titulaire d’un brevet est susceptible de constituer un risque pour la sécurité maritime fait part sans délai de son avis motivé au ministre.
 
 **Devoir du patient**
 
-- **(2)** Quiconque est titulaire d’un certificat assorti de normes médicales ou optométriques est tenu de dévoiler ce fait avant l’examen au médecin ou à l’optométriste.
+- **(2)** Quiconque est titulaire d’un brevet assorti de normes médicales ou optométriques est tenu de dévoiler ce fait avant l’examen au médecin ou à l’optométriste.
 
 **Utilisation des renseignements**
 
-- **(3)** Le ministre peut utiliser ces renseignements pour décider si le titulaire du certificat satisfait aux exigences afférentes à celui-ci.
+- **(3)** Le ministre peut utiliser ces renseignements pour décider si le titulaire du brevet satisfait aux exigences afférentes à celui-ci.
 
 **Exclusion**
 
@@ -2105,7 +2111,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Présomption**
 
-- **(5)** Le titulaire du certificat est présumé avoir consenti à la communication au ministre des renseignements portant sur son état dans les circonstances qui sont mentionnées au paragraphe (1).
+- **(5)** Le titulaire du brevet est présumé avoir consenti à la communication au ministre des renseignements portant sur son état dans les circonstances qui sont mentionnées au paragraphe (1).
+> 2001, ch. 26, art. 90; 2017, ch. 26, art. 42(F).
+
 
 
 
@@ -2247,10 +2255,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **100** Le gouverneur en conseil peut par règlement, sur recommandation du ministre, prendre toute mesure d’application de la présente partie, notamment :
 - **a)** préciser les postes qui doivent être occupés à bord des bâtiments — ou catégories de bâtiments — canadiens, leur nombre minimal et les catégories et classes de documents maritimes canadiens dont doivent être titulaires les personnes occupant ces postes;
 - **b)** préciser les exigences rattachées à tout poste à bord de ces bâtiments ou catégories de bâtiments;
-- **c)** déterminer les catégories et classes de certificats qui peuvent être délivrés relativement aux postes à bord des bâtiments — ou catégories de bâtiments — canadiens;
+- **c)** déterminer les catégories et classes de certificats et de brevets qui peuvent être délivrés relativement aux postes à bord des bâtiments — ou catégories de bâtiments — canadiens;
 - **d)** régir les qualifications — notamment les aptitudes physiques et mentales, l’âge minimal, les connaissances, la compétence, la formation et l’expérience — requises des candidats pour l’obtention de chaque catégorie ou classe de certificat;
-- **e)** régir la façon de déterminer si une personne satisfait aux exigences visées à l’alinéa b) ou si un candidat possède les qualifications requises aux termes de l’alinéa d) pour l’obtention d’une catégorie ou classe de certificat de compétence ou d’autre document maritime canadien;
-- **f)** préciser les modalités dont sont assortis les certificats de compétence et autres documents maritimes canadiens délivrés sous le régime de la présente partie;
+- **e)** régir la façon de déterminer si une personne satisfait aux exigences visées à l’alinéa b) ou si un candidat possède les qualifications requises aux termes de l’alinéa d) pour l’obtention d’une catégorie ou classe de brevet d’aptitude ou d’autre document maritime canadien;
+- **f)** préciser les modalités dont sont assortis les brevets d’aptitude et autres documents maritimes canadiens délivrés sous le régime de la présente partie;
 - **g)** préciser, pour l’application du paragraphe 94(1), les cas où le représentant autorisé d’un bâtiment canadien n’est pas tenu de veiller à ce que des mesures soient prises pour le renvoi d’un membre de l’équipage et de payer les dépenses;
 - **h)** régir les personnes avec qui un accord est conclu en vue du recrutement des membres de l’équipage, notamment exiger qu’elles soient titulaires d’un permis;
 - **i)** prévoir les bâtiments canadiens ou catégories de bâtiments canadiens à l’égard desquels le capitaine est tenu de conclure un contrat d’engagement avec l’équipage;
@@ -2258,6 +2266,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **k)** déterminer ce qui constitue une grave violation du contrat de travail;
 - **l)** régir toute question relative à la santé ou à la sécurité au travail à bord d’un bâtiment qui n’est pas régie par le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md);
 - **m)** régir le paiement et la répartition des gages des membres de l’équipage.
+> 2001, ch. 26, art. 100; 2017, ch. 26, art. 43(F).
+
 
 
 
