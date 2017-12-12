@@ -568,7 +568,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **28** 
 
-- **(1)** The Board shall maintain books of account and related records in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor.
+- **(1)** The Board shall maintain books of account and related records in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor.
 
 **Consolidated financial statements**
 
@@ -577,6 +577,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Audit**
 
 - **(3)** The accounts, financial statements and financial transactions of the Board shall be audited annually by the auditor of the Board and, where the federal minister requests, by the Auditor General of Canada. The auditor and, where applicable, the Auditor General of Canada shall, as soon as practicable, make a report of the audit to the Board and the federal minister.
+> 2003, c. 7, s. 28; 2017, c. 26, s. 62.
+
 
 
 
