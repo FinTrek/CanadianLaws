@@ -547,7 +547,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **28** 
 
-- **(1)** L’Office tient les documents comptables en conformité avec les principes comptables recommandés par l’Institut canadien des comptables agréés ou tout organisme lui succédant.
+- **(1)** L’Office tient les documents comptables en conformité avec les principes comptables recommandés par Comptables professionnels agréés du Canada ou tout organisme lui succédant.
 
 **États financiers consolidés**
 
@@ -556,6 +556,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(3)** Les comptes, états financiers et opérations financières de l’Office sont vérifiés chaque année par le vérificateur de l’Office et, sur demande du ministre fédéral, par le vérificateur général du Canada. Les rapports de vérification sont présentés à l’Office et au ministre fédéral dans les meilleurs délais.
+> 2003, ch. 7, art. 28; 2017, ch. 26, art. 62.
+
 
 
 
