@@ -42,13 +42,13 @@ Assented to on 25 November 2005
 
 - **(1)** The following definitions apply in this Act.
 
-***eligible wages*** means
-- **(a)** wages other than severance pay and termination pay that were earned during the longer of the following periods:
+***eligible wages*** means
+- **(a)** wages other than termination pay and severance pay that were earned during the longer of the following periods:
 	- **(i)** the six-month period ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer, and
 	- **(ii)** the period beginning on the day that is six months before the day on which a proposal under Division I of Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) is filed by or in respect of the employer or the day on which proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) are commenced and ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer; and
-- **(b)** severance pay and termination pay that relate to employment that ended during the period referred to in paragraph (a).
+- **(b)** termination pay and severance pay that relate to employment that ended during the period referred to in paragraph (a). (*salaire admissible*)
 
-***wages*** includes salaries, commissions, compensation for services rendered, vacation pay, severance pay, termination pay and any other amounts prescribed by regulation.
+***wages*** includes salaries, commissions, compensation for services rendered, vacation pay, termination pay, severance pay and any other amounts prescribed by regulation. (*salaire*)
 
 **Employers subject to a receivership**
 
@@ -67,7 +67,7 @@ Assented to on 25 November 2005
 - **(5)** Despite subsection 4(5) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md),
 	- **(a)** for the purposes of paragraph 6(d), an individual is considered to deal at arm’s length with a related person if the Minister is satisfied that, having regard to the circumstances — including the terms and conditions of the individual’s employment with the former employer, their remuneration and the duration, nature and importance of the work performed for the former employer — it is reasonable to conclude that the individual would have entered into a substantially similar contract of employment with the former employer if they had been dealing with each other at arm’s length; and
 	- **(b)** for the purposes of subsection 21(4), individuals who are related to each other are, in the absence of evidence to the contrary, deemed not to deal with each other at arm’s length while so related.
-> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342; 2011, c. 24, s. 163; 2012, c. 19, s. 697(E).
+> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342; 2011, c. 24, s. 163; 2012, c. 19, s. 697(E); 2017, c. 26, s. 52.
 
 
 
@@ -136,14 +136,12 @@ Assented to on 25 November 2005
 
 **7** 
 
-- **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of the greater of the following amounts, less any amount prescribed by regulation:
-	- **(a)** $3,000; and
-	- **(b)** an amount equal to four times the maximum weekly insurable earnings under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+- **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of an amount equal to four times the maximum weekly insurable earnings under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), less any amount prescribed by regulation.
 
 **Bankruptcy and receivership**
 
 - **(2)** If the former employer is both bankrupt and subject to a receivership, the amount that may be paid is the greater of the amount determined in respect of the bankruptcy and the amount determined in respect of the receivership.
-> 2005, c. 47, s. 1 “7”; 2007, c. 36, s. 86; 2009, c. 2, s. 345.
+> 2005, c. 47, s. 1 “7”; 2007, c. 36, s. 86; 2009, c. 2, s. 345; 2017, c. 26, s. 53.
 
 
 
