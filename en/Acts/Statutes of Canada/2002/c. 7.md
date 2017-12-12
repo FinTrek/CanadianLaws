@@ -484,7 +484,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Form and contents**
 
-**33** The Yukon Public Accounts shall be prepared in any form that the Commissioner, with the consent of the Executive Council, directs. They shall be prepared in accordance with accounting principles recommended for the public sector by the Canadian Institute of Chartered Accountants or its successor and shall include
+**33** The Yukon Public Accounts shall be prepared in any form that the Commissioner, with the consent of the Executive Council, directs. They shall be prepared in accordance with accounting principles recommended for the public sector by the Chartered Professional Accountants of Canada or its successor and shall include
 - **(a)** consolidated financial statements for the Yukon Government that present
 	- **(i)** the financial position as at the end of the fiscal year,
 	- **(ii)** the accumulated surplus or deficit as at the end of the fiscal year,
@@ -492,6 +492,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(iv)** the changes in the financial position for the fiscal year;
 - **(b)** the opinion of the Auditor General of Canada referred to in subsection 34(1); and
 - **(c)** any other information or statements that are required in support of the consolidated financial statements by or under any law of the Legislature.
+> 2002, c. 7, s. 33; 2017, c. 26, s. 62.
+
 
 
 
@@ -500,13 +502,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **34** 
 
-- **(1)** The Auditor General of Canada shall audit the accounts, including those related to the Yukon Consolidated Revenue Fund, and financial transactions of the Yukon Government in each fiscal year in accordance with auditing standards recommended by the Canadian Institute of Chartered Accountants or its successor and shall express his or her opinion as to whether
-	- **(a)** the consolidated financial statements present fairly, in all material respects and in accordance with accounting principles recommended for the public sector by that Institute or its successor, the financial position of the Yukon Government as at the end of the fiscal year and the results of its operations in, and changes in its financial position for, the fiscal year; and
+- **(1)** The Auditor General of Canada shall audit the accounts, including those related to the Yukon Consolidated Revenue Fund, and financial transactions of the Yukon Government in each fiscal year in accordance with auditing standards recommended by the Chartered Professional Accountants of Canada or its successor and shall express his or her opinion as to whether
+	- **(a)** the consolidated financial statements present fairly, in all material respects and in accordance with accounting principles recommended for the public sector by that organization or its successor, the financial position of the Yukon Government as at the end of the fiscal year and the results of its operations in, and changes in its financial position for, the fiscal year; and
 	- **(b)** the transactions of the Yukon Government that have come to the notice of the Auditor General in the course of the audit are within the powers of the Yukon Government under this or any other Act.
 
 **Report**
 
 - **(2)** The Auditor General shall report to the Legislative Assembly any matter falling within the scope of the audit that, in his or her opinion, should be reported to the Assembly.
+> 2002, c. 7, s. 34; 2017, c. 26, ss. 46, 62.
+
 
 
 
@@ -938,6 +942,8 @@ However, paragraph (b) does not apply to claims as defined in the [Yukon Placer 
 **Indemnification of first nations**
 
 - **(3)** The Yukon Government shall indemnify a first nation, or any of its employees or agents, against all costs, charges or expenses, including an amount paid to settle an action or satisfy a judgement, that are reasonably incurred by that first nation, or any of its employees or agents, in respect of any claim, action or other proceeding brought against the first nation, or any of its employees or agents, arising out of any act or omission of the Yukon Government, or any of its employees or agents, in respect of remediation work done on the first nation’s land as required by the Agreement.
+> 2002, c. 7, s. 64; 2017, c. 26, s. 47(F).
+
 
 
 
@@ -961,6 +967,8 @@ However, paragraph (b) does not apply to claims as defined in the [Yukon Placer 
 **Indemnification of first nations**
 
 - **(3)** The Government of Canada shall indemnify a first nation, or any of its employees or agents, against all costs, charges or expenses, including an amount paid to settle an action or satisfy a judgement, that are reasonably incurred by that first nation, or any of its employees or agents, in respect of any claim, action or other proceeding brought against the first nation, or any of its employees or agents, arising out of any act or omission of the Government of Canada, or any of its employees or agents, in respect of remediation work done on the first nation’s land as required by the Agreement.
+> 2002, c. 7, s. 65; 2017, c. 26, s. 48(F).
+
 
 
 
