@@ -534,7 +534,7 @@ However, it does not include navigation or any other use connected with shipping
 
 **Accounts**
 
-- **(2)** The Board shall maintain books of account and records in relation to them in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor.
+- **(2)** The Board shall maintain books of account and records in relation to them in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor.
 
 **Consolidated financial statements**
 
@@ -543,6 +543,8 @@ However, it does not include navigation or any other use connected with shipping
 **Audit**
 
 - **(4)** The accounts, financial statements and financial transactions of the Board shall be audited annually by the auditor of the Board and, where the Minister requests, the Auditor General of Canada. The auditor and, where applicable, the Auditor General of Canada shall make a report of the audit to the Board and the Minister.
+> 2002, c. 10, s. 32; 2017, c. 26, s. 62.
+
 
 
 
@@ -2380,7 +2382,7 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 
 **Accounts**
 
-- **(2)** The Tribunal shall maintain books of account and records in relation to them in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor.
+- **(2)** The Tribunal shall maintain books of account and records in relation to them in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor.
 
 **Consolidated financial statements**
 
@@ -2389,6 +2391,8 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 **Audit**
 
 - **(4)** The accounts, financial statements and financial transactions of the Tribunal shall be audited annually by the Auditor General of Canada. The Auditor General of Canada shall make a report of the audit to the Tribunal and the Minister.
+> 2002, c. 10, s. 114; 2017, c. 26, s. 62.
+
 
 
 
