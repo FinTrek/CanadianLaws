@@ -1342,7 +1342,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **71** 
 
-- **(1)** Subject to the regulations, the Minister may administer or enforce electronically the Acts, programs and activities referred to in paragraphs 70.1(a) to (e), (g) and (h), the Minister of Labour may administer or enforce electronically the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and the Commission may administer or enforce electronically the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), including for the purposes of
+- **(1)** Subject to the regulations, the Minister may administer or enforce electronically the Acts, programs and activities referred to in paragraphs 70.1(a) to (e.1), (g) and (h), the Minister of Labour may administer or enforce electronically the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and the Commission may administer or enforce electronically the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), including for the purposes of
 	- **(a)** creating, communicating, making available, collecting, receiving, storing, or managing or otherwise dealing with documents or information;
 	- **(b)** providing any services, benefits or other assistance;
 	- **(c)** providing notifications;
@@ -1353,7 +1353,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(2)** The Minister and the Commission must not require persons or entities to apply electronically for, or receive electronically, services, benefits or other assistance except for classes of persons or entities and those services, benefits or other assistance that are prescribed by the regulations.
-> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212.
+> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212; 2017, c. 26, s. 51.
 
 
 
