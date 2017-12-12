@@ -737,7 +737,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Documents comptables**
 
-- **(2)** Elle tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par l’Institut canadien des comptables agréés ou les successeurs ou ayants droit de celui-ci.
+- **(2)** Elle tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par Comptables professionnels agréés du Canada ou les successeurs ou ayants droit de celui-ci.
 
 **États financiers consolidés**
 
@@ -746,6 +746,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(4)** Les comptes, états financiers et opérations financières de la commission sont vérifiés annuellement par le vérificateur de celle-ci et, à la demande du ministre fédéral, par le vérificateur général du Canada. Le rapport écrit du vérificateur de la commission et, le cas échéant, celui du vérificateur général sont présentés à la commission et au ministre fédéral.
+> 2013, ch. 14, art. 2 « 39 »; 2017, ch. 26, art. 62.
+
 
 
 
