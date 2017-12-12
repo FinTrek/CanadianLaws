@@ -331,12 +331,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Power to order**
 
-- **(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified by the Minister, if the Minister considers that it is in the interest of safety.
+- **(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified in the order, if the Minister considers that it is in the interest of safety.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(8)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (4) or (7).
-> 2014, c. 20, s. 222.
+> 2014, c. 20, s. 222; 2017, c. 26, s. 17(E).
 
 
 
