@@ -176,7 +176,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** a Crown corporation as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
 - **(d)** a federal work or undertaking. (*source d’origine fédérale*)
 
-***federal work or undertaking*** means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to,
+***federal work or undertaking*** means any work or undertaking that is within the legislative authority of Parliament, including
 - **(a)** a work or undertaking operated for or in connection with navigation and shipping, whether inland or maritime, including the operation of ships and transportation by ship;
 - **(b)** a railway, canal, telegraph or other work or undertaking connecting one province with another, or extending beyond the limits of a province;
 - **(c)** a line of ships connecting a province with any other province, or extending beyond the limits of a province;
@@ -231,7 +231,7 @@ and, except for the purposes of sections 66, 80 to 89 and 104 to 115, includes
 **Class of substances**
 
 - **(3)** For the purposes of this Act, other than subsection (1), ***substance*** includes a class of substances.
-> 1999, c. 28, s. 151, c. 33, s. 3; 2001, c. 34, s. 27(E).
+> 1999, c. 28, s. 151, c. 33, s. 3; 2001, c. 34, s. 27(E); 2017, c. 26, ss. 21(F), 63(E).
 
 
 
@@ -926,8 +926,8 @@ Once it is proved that the defendant is the offender mentioned in the certificat
 	- **(e)** formulate plans for pollution prevention and the control and abatement of pollution, including plans respecting the prevention of, preparedness for and response to an environmental emergency and for restoring any part of the environment damaged by or during an emergency, and establish, operate and publicize demonstration projects and make them available for demonstration; and
 	- **(f)** publish, arrange for the publication of or distribute through an information clearing-house
 		- **(i)** information respecting pollution prevention,
-		- **(i)** pertinent information in respect of all aspects of environmental quality, and
-		- **(ii)** a periodic report on the state of the Canadian environment.
+		- **(ii)** pertinent information in respect of all aspects of environmental quality, and
+		- **(iii)** a periodic report on the state of the Canadian environment.
 
 **Cooperation and agreements**
 
@@ -942,6 +942,8 @@ Once it is proved that the defendant is the offender mentioned in the certificat
 **Hormone disrupting substances**
 
 - **(4)** The Ministers shall conduct research or studies relating to hormone disrupting substances, methods related to their detection, methods to determine their actual or likely short-term or long-term effect on the environment and human health, and preventive, control and abatement measures to deal with those substances to protect the environment and human health.
+> 1999, c. 33, s. 44; 2017, c. 26, s. 22(E).
+
 
 
 
@@ -1014,7 +1016,7 @@ Once it is proved that the defendant is the offender mentioned in the certificat
 
 **47** 
 
-- **(1)** The Minister shall issue guidelines respecting the use of the powers provided for by subsection 46(1) and, in issuing those guidelines, the Minister shall take into account any factor that the Minister considers relevant, including, but not limited to,
+- **(1)** The Minister shall issue guidelines respecting the use of the powers provided for by subsection 46(1) and, in issuing those guidelines, the Minister shall take into account any factor that the Minister considers relevant, including
 	- **(a)** the costs and benefits to the Minister and the person to whom the notice under subsection 46(1) is directed;
 	- **(b)** the co-ordination of requests for information with other governments, to the extent practicable; and
 	- **(c)** the manner in which the information collected under subsection 46(1) is to be used.
@@ -1026,6 +1028,8 @@ Once it is proved that the defendant is the offender mentioned in the certificat
 **Minister may act**
 
 - **(3)** At any time after the 60th day following the day on which the Minister offers to consult in accordance with subsection (2), the Minister may act under subsection (1) if the offer to consult is not accepted by the government of a province or members of the Committee who are representatives of aboriginal governments.
+> 1999, c. 33, s. 47; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -1333,7 +1337,9 @@ Once it is proved that the defendant is the offender mentioned in the certificat
 
 **Implementing virtual elimination**
 
-- **(3)** When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters.
+- **(3)** When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including environmental or health risks and any other relevant social, economic or technical matters.
+> 1999, c. 33, s. 65; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -1721,13 +1727,11 @@ the Ministers shall propose the implementation of virtual elimination under subs
 
 **81** 
 
-- **(1)** Where a substance is not specified on the Domestic Substances List and subsection (2) does not apply, no person shall manufacture or import the substance unless
+- **(1)** Where a substance is not specified on the Domestic Substances List, no person shall manufacture or import the substance unless
 	- **(a)** the prescribed information with respect to the substance has been provided by the person to the Minister accompanied by the prescribed fee, on or before the prescribed date; and
 	- **(b)** the period for assessing the information under section 83 has expired.
 
-**Transitional provisions**
-
-- **(2)** Where a person has, between January 1, 1987 and June 30, 1994, manufactured or imported a substance that is not specified on the Domestic Substances List, no person shall manufacture or import the substance after June 30, 1994 unless, within 180 days after that date or on or before the prescribed date, the prescribed information has been provided to the Minister with respect to the substance by that person.
+- **(2)** [Repealed, 2017, c. 26, s. 23]
 
 **Notification of significant new activity in respect of substance on List**
 
@@ -1743,11 +1747,11 @@ the Ministers shall propose the implementation of virtual elimination under subs
 
 **Transfer of rights in respect of substance**
 
-- **(5)** Where prescribed information with respect to a substance has been provided under subsection (1), (2), (3) or (4) by a person who subsequently transfers the right or privilege in relation to the substance for which the information was provided, the information is, subject to any conditions that may be prescribed, deemed to have been provided by the transferee of that right or privilege.
+- **(5)** Where prescribed information with respect to a substance has been provided under subsection (1), (3) or (4) by a person who subsequently transfers the right or privilege in relation to the substance for which the information was provided, the information is, subject to any conditions that may be prescribed, deemed to have been provided by the transferee of that right or privilege.
 
 **Application**
 
-- **(6)** Subsections (1) to (4) do not apply to
+- **(6)** Subsections (1), (3) and (4) do not apply to
 	- **(a)** a substance that is manufactured or imported for a use that is regulated under any other Act of Parliament that provides for notice to be given before the manufacture, import or sale of the substance and for an assessment of whether it is toxic or capable of becoming toxic;
 	- **(b)** transient reaction intermediates that are not isolated and are not likely to be released into the environment;
 	- **(c)** impurities, contaminants and partially unreacted materials the formation of which is related to the preparation of a substance;
@@ -1762,7 +1766,7 @@ the Ministers shall propose the implementation of virtual elimination under subs
 
 **Waiver of information requirements**
 
-- **(8)** On the request of any person to whom subsection (1), (2), (3) or (4) applies, the Minister may waive any of the requirements to provide information under that subsection if
+- **(8)** On the request of any person to whom subsection (1), (3) or (4) applies, the Minister may waive any of the requirements to provide information under that subsection if
 	- **(a)** in the opinion of the Ministers, the information is not needed in order to determine whether the substance is toxic or capable of becoming toxic;
 	- **(b)** the substance is to be used for a prescribed purpose or manufactured at a location where, in the opinion of the Ministers, the person requesting the waiver is able to contain the substance so as to satisfactorily protect the environment and human health; or
 	- **(c)** it is not, in the opinion of the Ministers, practicable or feasible to obtain the test data necessary to generate the information.
@@ -1793,6 +1797,8 @@ that a substance is toxic or capable of becoming toxic, the Minister may exercis
 **Notification of excess quantity**
 
 - **(14)** Where a person manufactures or imports a substance in accordance with this section in excess of any quantity referred to in paragraph 87(1)(b), the person shall, within 30 days after the quantity is exceeded, notify the Minister that it has been exceeded.
+> 1999, c. 33, s. 81; 2017, c. 26, s. 23.
+
 
 
 
@@ -1803,13 +1809,13 @@ that a substance is toxic or capable of becoming toxic, the Minister may exercis
 
 - **(1)** Where the Minister has reasonable grounds to believe that a person has used, manufactured or imported a substance in contravention of subsection 81(1), (3) or (4), the Minister may, in writing, require the person to provide the information referred to in that subsection and prohibit any activity involving the substance until the expiry of the period for assessing the information under section 83.
 
-**Prohibition of activity**
-
-- **(2)** Where the Minister has reasonable grounds to believe that a person has manufactured or imported a substance in contravention of subsection 81(2), the Minister may, in writing, prohibit any activity involving the substance until the prescribed information is provided to the Minister.
-
 **Waiver of information requirements**
 
-- **(3)** On the request of any person required under subsection (1) or (2) to provide information, the Minister may waive any of the requirements for prescribed information if one of the conditions specified in paragraphs 81(8)(a) to (c) is met and, in that case, subsections 81(9) to (13) apply with respect to the waiver.
+- **(2)** On the request of any person required under subsection (1) to provide information, the Minister may waive any of the requirements for prescribed information if one of the conditions specified in paragraphs 81(8)(a) to (c) is met and, in that case, subsections 81(9) to (13) apply with respect to the waiver.
+
+- **(3)** [Repealed, 2017, c. 26, s. 24]
+> 1999, c. 33, s. 82; 2017, c. 26, s. 24.
+
 
 
 
@@ -1946,8 +1952,8 @@ that a substance is toxic or capable of becoming toxic, the Minister may exercis
 - **(1)** The Governor in Council may, on the recommendation of the Ministers, make regulations
 	- **(a)** respecting substances or establishing groups of substances for the purposes of the provision of information under section 81 or 82, including groups of inanimate biotechnology products, polymers, research and development substances and substances manufactured only for export;
 	- **(b)** prescribing maximum exempt quantities for the purpose of paragraph 81(6)(e);
-	- **(c)** respecting the information to be provided to the Minister under subsection 81(1), (2), (3) or (4) or section 82;
-	- **(d)** prescribing dates on or before which information shall be provided under subsection 81(1), (2), (3) or (4);
+	- **(c)** respecting the information to be provided to the Minister under subsection 81(1), (3) or (4) or section 82;
+	- **(d)** prescribing dates on or before which information shall be provided under subsection 81(1), (3) or (4);
 	- **(e)** respecting the maintenance of books and records for the administration of any regulation made under this section;
 	- **(f)** prescribing the purpose for which a substance must be used so as to permit the waiver of information requirements under subsection 81(8);
 	- **(g)** prescribing periods within which the Ministers shall assess information under subsection 83(1);
@@ -1973,6 +1979,8 @@ that a substance is toxic or capable of becoming toxic, the Minister may exercis
 	- **(a)** whether or not the substance is on the Non-domestic Substances List or is a member of a group of substances established by regulations made under paragraph (1)(a);
 	- **(b)** the purposes for which the substance is manufactured or imported; or
 	- **(c)** the quantity in which the substance is manufactured or imported.
+> 1999, c. 33, s. 89; 2017, c. 26, s. 25.
+
 
 
 
@@ -2024,7 +2032,7 @@ that a substance is toxic or capable of becoming toxic, the Minister may exercis
 
 **Considerations in relation to virtual elimination**
 
-- **(5)** In determining the preventive or control actions in relation to a substance and the dates on which those actions are to take effect that are to be set out in a proposed regulation or instrument referred to in subsection (2), and in determining any additional measures described in a statement published under subsection (4), the Ministers shall take into consideration any factor or information that, in the opinion of the Ministers, is relevant, including, but not limited to,
+- **(5)** In determining the preventive or control actions in relation to a substance and the dates on which those actions are to take effect that are to be set out in a proposed regulation or instrument referred to in subsection (2), and in determining any additional measures described in a statement published under subsection (4), the Ministers shall take into consideration any factor or information that, in the opinion of the Ministers, is relevant, including
 	- **(a)** information contained in plans referred to in section 79; and
 	- **(b)** environmental or health risks identified in the summary published under subsection 77(6) and any other relevant social, economic or technical matters.
 
@@ -2035,6 +2043,8 @@ that a substance is toxic or capable of becoming toxic, the Minister may exercis
 **Suspension of time where board of review**
 
 - **(7)** Where a board of review is established under section 333, the period of two years referred to in subsection (1) is suspended from the establishment of the board and does not recommence until the board’s report is received by the Ministers.
+> 1999, c. 33, s. 91; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -2400,13 +2410,11 @@ the Minister may make an interim order in respect of the substance and the order
 
 **106** 
 
-- **(1)** Where a living organism is not specified on the Domestic Substances List and subsection (2) does not apply, no person shall manufacture or import the living organism unless
+- **(1)** Where a living organism is not specified on the Domestic Substances List, no person shall manufacture or import the living organism unless
 	- **(a)** the prescribed information with respect to the living organism, accompanied by the prescribed fee, has been provided by that person to the Minister on or before the prescribed date; and
 	- **(b)** the period for assessing the information under section 108 has expired.
 
-**Transitional provision**
-
-- **(2)** Where a person has, between January 1, 1987 and June 30, 1994, manufactured or imported a living organism that is not specified on the Domestic Substances List, no person shall manufacture or import the living organism after June 30, 1994 unless, within 180 days after that date or on or before the prescribed date, the prescribed information has been provided to the Minister with respect to the living organism by that person.
+- **(2)** [Repealed, 2017, c. 26, s. 26]
 
 **Notification of significant new activity in respect of living organism on List**
 
@@ -2422,11 +2430,11 @@ the Minister may make an interim order in respect of the substance and the order
 
 **Transfer of rights in respect of substance**
 
-- **(5)** Where prescribed information with respect to a substance has been provided under subsection (1), (2), (3) or (4) by a person who subsequently transfers the right or privilege in relation to the substance for which the information was provided, the information is, subject to any conditions that may be prescribed, deemed to have been provided by the transferee of that right or privilege.
+- **(5)** Where prescribed information with respect to a substance has been provided under subsection (1), (3) or (4) by a person who subsequently transfers the right or privilege in relation to the substance for which the information was provided, the information is, subject to any conditions that may be prescribed, deemed to have been provided by the transferee of that right or privilege.
 
 **Application**
 
-- **(6)** Subsections (1) to (4) do not apply to
+- **(6)** Subsections (1), (3) and (4) do not apply to
 	- **(a)** a living organism that is manufactured or imported for a use that is regulated under any other Act of Parliament that provides for notice to be given before the manufacture, import or sale of the living organism and for an assessment of whether it is toxic or capable of becoming toxic;
 	- **(b)** a living organism that is manufactured, used or imported under the conditions and in the circumstances prescribed as exempt from this section; or
 	- **(c)** impurities and contaminants related to the preparation of a living organism.
@@ -2439,7 +2447,7 @@ the Minister may make an interim order in respect of the substance and the order
 
 **Waiver of information requirements**
 
-- **(8)** On the request of any person to whom subsection (1), (2), (3) or (4) applies, the Minister may waive any of the requirements to provide information under that subsection if
+- **(8)** On the request of any person to whom subsection (1), (3) or (4) applies, the Minister may waive any of the requirements to provide information under that subsection if
 	- **(a)** in the opinion of the Ministers, the information is not needed in order to determine whether the living organism is toxic or capable of becoming toxic;
 	- **(b)** a living organism is to be used for a prescribed purpose or manufactured at a location where, in the opinion of the Ministers, the person requesting the waiver is able to contain the living organism so as to satisfactorily protect the environment and human health; or
 	- **(c)** it is not, in the opinion of the Ministers, practicable or feasible to obtain the test data necessary to generate the information.
@@ -2466,6 +2474,8 @@ the Minister may make an interim order in respect of the substance and the order
 	- **(a)** any corrections received under subsection (11), or
 	- **(b)** the information provided under subsection (12),
 that a living organism is toxic or capable of becoming toxic, the Minister may exercise any of the powers referred to in paragraphs 109(1)(a) to (c).
+> 1999, c. 33, s. 106; 2017, c. 26, s. 26.
+
 
 
 
@@ -2476,13 +2486,13 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 
 - **(1)** Where the Minister has reasonable grounds to believe that a person has used, manufactured or imported a living organism in contravention of subsection 106(1), (3) or (4), the Minister may, in writing, require the person to provide the information referred to in that subsection and prohibit any activity involving the living organism until the expiry of the period for assessing the information under section 108.
 
-**Prohibition of activity**
-
-- **(2)** Where the Minister has reasonable grounds to believe that a person has manufactured or imported a living organism in contravention of subsection 106(2), the Minister may, in writing, prohibit any activity involving the living organism until the prescribed information is provided to the Minister.
-
 **Waiver of information requirements**
 
-- **(3)** On the request of any person required under subsection (1) or (2) to provide information, the Minister may waive any of the requirements for prescribed information if one of the conditions specified in paragraphs 106(8)(a) to (c) is met and, in that case, subsections 106(9) to (13) apply with respect to the waiver.
+- **(2)** On the request of any person required under subsection (1) to provide information, the Minister may waive any of the requirements for prescribed information if one of the conditions specified in paragraphs 106(8)(a) to (c) is met and, in that case, subsections 106(9) to (13) apply with respect to the waiver.
+
+- **(3)** [Repealed, 2017, c. 26, s. 27]
+> 1999, c. 33, s. 107; 2017, c. 26, s. 27.
+
 
 
 
@@ -2609,8 +2619,8 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 - **(1)** The Governor in Council may, on the recommendation of the Ministers, make regulations
 	- **(a)** respecting living organisms or establishing groups of living organisms for the purposes of the provision of information under section 106 or 107, including those that are exotic or indigenous, research and development living organisms and living organisms manufactured only for export, and designating ecozones or groups of ecozones;
 	- **(b)** prescribing conditions and circumstances for the purpose of paragraph 106(6)(b);
-	- **(c)** respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided;
-	- **(d)** prescribing dates on or before which information shall be provided under subsection 106(1), (2), (3) or (4);
+	- **(c)** respecting the information that shall be provided to the Minister under subsection 106(1), (3) or (4) or section 107 and the form and manner in which it is to be provided;
+	- **(d)** prescribing dates on or before which information shall be provided under subsection 106(1), (3) or (4);
 	- **(e)** respecting the maintenance of books and records for the administration of any regulation made under this section;
 	- **(f)** prescribing the purpose for which a living organism must be used so as to permit the waiver of information requirements under subsection 106(8);
 	- **(g)** prescribing periods within which the Ministers shall assess information under subsection 108(1);
@@ -2635,6 +2645,8 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 	- **(a)** whether or not the living organism is a member of a group of living organisms established by regulations made under paragraph (1)(a);
 	- **(b)** the purposes for which the living organism is manufactured or imported; or
 	- **(c)** the conditions under which and the circumstances in which the living organism is manufactured or imported.
+> 1999, c. 33, s. 114; 2017, c. 26, s. 28.
+
 
 
 
@@ -2646,12 +2658,14 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 - **(1)** Subject to subsection (2), the Governor in Council may, on the recommendation of the Ministers, make regulations
 	- **(a)** for the purposes of implementing an international agreement,
 		- **(i)** respecting living organisms, whether or not they are on the Domestic Substances List, and
-		- **(ii)** respecting the safety of the environment or human health, including, but not limited to, the safe transfer, handling and uses of any living organism that is moved across a boundary; and
+		- **(ii)** respecting the safety of the environment or human health, including the safe transfer, handling and uses of any living organism that is moved across a boundary; and
 	- **(b)** respecting the effective and safe use of living organisms in pollution prevention.
 
 **Living organisms regulated under other Acts of Parliament**
 
 - **(2)** The Governor in Council shall not make a regulation under subsection (1) in respect of any living organism if the regulation regulates an aspect of the living organism that is regulated by or under any other Act of Parliament in a manner that provides, in the opinion of the Governor in Council, sufficient protection to the environment and human health.
+> 1999, c. 33, s. 115; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -4911,7 +4925,7 @@ the liability of the person referred to in subsection (1) to that other person i
 
 **209** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the protection of the environment, including, but not limited to, regulations respecting
+- **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the protection of the environment, including regulations respecting
 	- **(a)** the establishment of environmental management systems;
 	- **(b)** pollution prevention and pollution prevention plans;
 	- **(c)** environmental emergencies, releases of substances and likely releases, including their prevention, preparedness for them, reporting them, both as soon as possible in the circumstances and in detail at a later stage, and the measures to be taken to respond to them and to correct damage to the environment;
@@ -4959,6 +4973,8 @@ the liability of the person referred to in subsection (1) to that other person i
 **Minister may act**
 
 - **(4)** At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments.
+> 1999, c. 33, s. 209; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -6265,9 +6281,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **272** 
 
 - **(1)** Every person commits an offence who
-	- **(a)** contravenes subsection 16(3) or (4), any of subsections 81(1), (2), (3), (4), (10), (11) and (14), 84(2) and 96(3) and (4), section 101, any of subsections 106(1), (2), (3), (4), (10) and (11) and 109(2), section 117 or 123, any of subsections 124(1), (2) and (3), 125(1), (2), (3), (4) and (5), 126(1) and (2) and 139(1), section 142 or 144, subsection 150(3) or (4), section 152, subsection 153(1), section 154, subsection 155(5), section 171 or 181 or subsection 185(1), 186(2), 189(1), 202(3) or (4) or 213(3) or (4), paragraph 228(a) or subsection 238(1);
+	- **(a)** contravenes subsection 16(3) or (4), any of subsections 81(1), (3), (4), (10), (11) and (14), 84(2) and 96(3) and (4), section 101, any of subsections 106(1), (3), (4), (10) and (11) and 109(2), section 117 or 123, any of subsections 124(1), (2) and (3), 125(1), (2), (3), (4) and (5), 126(1) and (2) and 139(1), section 142 or 144, subsection 150(3) or (4), section 152, subsection 153(1), section 154, subsection 155(5), section 171 or 181, subsection 185(1), 186(2), 189(1), 202(3) or (4) or 213(3) or (4), paragraph 228(a) or subsection 238(1);
 	- **(b)** fails to comply with an obligation set out in section 70, 86, 95 or 111, subsection 169(1), 172(1), 179(1), 182(1), 201(1) or 212(1);
-	- **(c)** contravenes a prohibition imposed under subsection 82(1) or (2), paragraph 84(1)(b), subsection 107(1) or (2), paragraph 109(1)(b) or subsection 186(1) or 225(4);
+	- **(c)** contravenes a prohibition imposed under subsection 82(1), paragraph 84(1)(b), subsection 107(1), paragraph 109(1)(b) or subsection 186(1) or 225(4);
 	- **(d)** contravenes a condition of a permission granted under paragraph 84(1)(a) or 109(1)(a);
 	- **(e)** contravenes an interim order made under subsection 94(1), 173(1), 183(1) or 200.1(1);
 	- **(f)** fails to comply with a direction given under section 99, 119 or 148;
@@ -6307,7 +6323,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 	- **(b)** on summary conviction,
 		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
 		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
-> 1999, c. 33, s. 272; 2005, c. 23, s. 37; 2009, c. 14, s. 72.
+> 1999, c. 33, s. 272; 2005, c. 23, s. 37; 2009, c. 14, s. 72; 2017, c. 26, s. 29.
 
 
 
@@ -7068,7 +7084,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 - **(1)** Environmental protection alternative measures may be used to deal with a person who is alleged to have committed an offence under this Act only if it is not inconsistent with the purposes of this Act and the following conditions are met:
 	- **(a)** the measures are part of a program of environmental protection alternative measures authorized by the Attorney General, after consultation with the Minister;
 	- **(b)** the offence alleged to have been committed is an offence under this Act, except an offence
-		- **(i)** in respect of the contravention of subsection 16(4), 81(1), (2), (3) or (4), 82(1) or (2), 84(2) or 96(4), section 99, subsection 106(1), (2), (3) or (4), 107(1) or (2), 109(1) or (2), 119(1), 148(1), 202(4) or 213(4) or section 227 or 228, or any obligation or prohibition arising from any of those provisions,
+		- **(i)** in respect of the contravention of subsection 16(4), 81(1), (3) or (4), 82(1), 84(2) or 96(4), section 99, subsection 106(1), (3) or (4), 107(1), 109(1) or (2), 119(1), 148(1), 202(4) or 213(4) or section 227 or 228, or any obligation or prohibition arising from any of those provisions,
 		- **(ii)** for failing to comply with
 			- **(A)** an order or a direction made under this Act;
 			- **(B)** an order, direction or decision of a court made under this Act; or
@@ -7109,7 +7125,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Laying of information, etc.**
 
 - **(6)** This section does not prevent any person from laying an information, obtaining the issue or confirmation of any process, or proceeding with the prosecution of any offence, in accordance with the law.
-> 1999, c. 33, s. 296; 2009, c. 14, s. 87.
+> 1999, c. 33, s. 296; 2009, c. 14, s. 87; 2017, c. 26, s. 30.
 
 
 
@@ -7128,13 +7144,15 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **298** 
 
-- **(1)** An agreement may contain any terms and conditions, including, but not limited to,
+- **(1)** An agreement may contain any terms and conditions, including
 	- **(a)** terms and conditions having any or all of the effects set out in section 291 or any other terms and conditions having any of the effects prescribed by the regulations that the Attorney General, after consulting with the Minister, considers appropriate; and
 	- **(b)** terms and conditions relating to the costs of laboratory tests and of field tests, travel and living expenses, costs of scientific analyses and other reasonable costs associated with supervising and verifying compliance with the agreement.
 
 **Supervisory bodies**
 
 - **(2)** Any governmental or non-governmental body may supervise compliance with an agreement.
+> 1999, c. 33, s. 298; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -7296,12 +7314,14 @@ and if that person gives a written undertaking not to subsequently disclose the 
 
 **Regulations**
 
-**309** The Minister may make regulations respecting the environmental protection alternative measures that may be used for the purposes of this Act including, but not limited to, regulations
+**309** The Minister may make regulations respecting the environmental protection alternative measures that may be used for the purposes of this Act including regulations
 - **(a)** excluding specified offences under this Act from the application of those measures;
 - **(b)** prescribing the form and manner in which and the period within which an application to participate in the measures is to be made, and the information that must be contained in or accompany the application;
 - **(c)** respecting the manner of preparing and filing reports relating to the administration of and compliance with agreements;
 - **(d)** respecting the types of reasonable costs and the manner of paying the costs associated with supervising and verifying compliance with an agreement; and
 - **(e)** respecting the terms and conditions that may be provided for in an agreement and their effects.
+> 1999, c. 33, s. 309; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -7525,7 +7545,7 @@ and if that person gives a written undertaking not to subsequently disclose the 
 
 **Regulations for systems relating to deposits and refunds**
 
-**325** The Governor in Council may, in the exercise of a regulation-making power under section 93, 118 or 209, make regulations respecting systems relating to deposits and refunds, including, but not limited to, regulations providing for, or imposing requirements respecting,
+**325** The Governor in Council may, in the exercise of a regulation-making power under section 93, 118 or 209, make regulations respecting systems relating to deposits and refunds, including regulations providing for, or imposing requirements respecting,
 - **(a)** deposits, including the amount of any deposit and the substance, product containing a substance or activity in relation to which a deposit is required, the conditions for the use of a deposit and the conditions for and manner of paying a deposit;
 - **(b)** the period during which a deposit may be held;
 - **(c)** refunds, including the amount of any refund and the substance, product containing a substance or activity in relation to which a refund may be granted and the conditions for and manner of paying a refund;
@@ -7534,6 +7554,8 @@ and if that person gives a written undertaking not to subsequently disclose the 
 - **(f)** reports and forms related to deposits, refunds and the fund for deposits;
 - **(g)** the maintenance of books and records for the administration of any regulation made under this section; and
 - **(h)** the forfeiture of deposits, including unclaimed deposits and the conditions under which and the circumstances in which deposits may be forfeited.
+> 1999, c. 33, s. 325; 2017, c. 26, s. 63(E).
+
 
 
 
@@ -7825,6 +7847,8 @@ the Minister or the Ministers may establish a board of review to inquire into th
 **Review and report**
 
 - **(2)** The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend.
+> 1999, c. 33, s. 343; 2017, c. 26, s. 31(F).
+
 
 
 
