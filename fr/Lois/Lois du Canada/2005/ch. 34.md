@@ -1338,7 +1338,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **71** 
 
-- **(1)** Sous réserve des règlements, le ministre peut, par voie électronique, mettre en oeuvre ou exécuter les lois, programmes et activités visés aux alinéas 70.1a) à e), g) et h), le ministre du Travail peut, par voie électronique, mettre en oeuvre ou exécuter le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et la Commission peut, par voie électronique, mettre en oeuvre ou exécuter la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), notamment pour :
+- **(1)** Sous réserve des règlements, le ministre peut, par voie électronique, mettre en oeuvre ou exécuter les lois, programmes et activités visés aux alinéas 70.1a) à e.1), g) et h), le ministre du Travail peut, par voie électronique, mettre en oeuvre ou exécuter le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et la Commission peut, par voie électronique, mettre en oeuvre ou exécuter la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), notamment pour :
 	- **a)** créer, communiquer, rendre accessibles, recueillir, recevoir, mettre en mémoire, gérer ou traiter de quelque autre façon des documents ou de l’information;
 	- **b)** fournir des services, des prestations ou d’autres formes d’aide;
 	- **c)** donner des notifications;
@@ -1349,7 +1349,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(2)** Le ministre ou la Commission ne peut exiger qu’une personne ou une entité demande ou obtienne par voie électronique des services, prestations ou autres formes d’aide, à moins que cette personne ou cette entité fasse partie d’une catégorie de personnes ou d’entités désignée par règlement et que ces services, prestations ou autres formes d’aide soient désignés par règlement.
-> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212.
+> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212; 2017, ch. 26, art. 51.
 
 
 
