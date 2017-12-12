@@ -1073,12 +1073,12 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 
 - **(3.1)** Except as otherwise specified by the Superintendent,
 	- **(a)** the actuarial reports must be prepared in accordance with the standards of practice adopted by the Canadian Institute of Actuaries; and
-	- **(b)** the financial statements must be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+	- **(b)** the financial statements must be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
 
 **Form and manner of filings and time limit**
 
 - **(4)** Every document required to be filed under this section shall be filed in the form and manner, if any, that the Superintendent directs, and unless otherwise directed by the Superintendent, within six months after the end of the plan year to which the document relates.
-> R.S., 1985, c. 32 (2nd Supp.), s. 12; 1998, c. 12, s. 12; 2010, c. 12, s. 1801, c. 25, s. 190.
+> R.S., 1985, c. 32 (2nd Supp.), s. 12; 1998, c. 12, s. 12; 2010, c. 12, s. 1801, c. 25, s. 190; 2017, c. 26, s. 62.
 
 
 
