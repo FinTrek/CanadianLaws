@@ -544,7 +544,7 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(7)** L’ordre n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2009, ch. 14, art. 100
+> 2009, ch. 14, art. 100; 2017, ch. 26, art. 63(A)
 
 
 
