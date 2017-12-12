@@ -1013,12 +1013,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** Every person who, or vessel that, contravenes any of the following commits an offence:
 	- **(a)** subsection 16(3) (cheating on an exam);
 	- **(b)** section 18 (failure to produce Canadian maritime document);
-	- **(c)** subsection 20(7) (failure to return suspended or cancelled Canadian maritime document); and
+	- **(c)** subsection 20(2) (failure to return suspended or cancelled Canadian maritime document); and
 	- **(d)** a provision of the regulations made under paragraph 35(1)(e) or (3)(b).
 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000.
+> 2001, c. 26, s. 40; 2017, c. 26, s. 40.
+
 
 
 
@@ -2058,6 +2060,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Positions on board Canadian vessels**
 
 **87** Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions.
+> 2001, c. 26, s. 87; 2017, c. 26, s. 41(F).
+
 
 
 
@@ -2071,7 +2075,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Foreign certificates of competency**
 
 - **(2)** The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister.
-> 2001, c. 26, ss. 88, 323.
+> 2001, c. 26, ss. 88, 323; 2017, c. 26, s. 41(F).
 
 
 
@@ -2086,6 +2090,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Suspension or cancellation**
 
 - **(2)** A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it.
+> 2001, c. 26, s. 89; 2017, c. 26, s. 41(F).
+
 
 
 
@@ -2115,6 +2121,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deemed consent**
 
 - **(5)** The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection.
+> 2001, c. 26, s. 90; 2017, c. 26, s. 42(F).
+
 
 
 
@@ -2267,6 +2275,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(k)** specifying what constitutes a serious violation of a contract of employment;
 - **(l)** respecting any occupational health or safety matter on board a vessel that is not regulated by the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md); and
 - **(m)** respecting the payment and allotment of crew members’ wages.
+> 2001, c. 26, s. 100; 2017, c. 26, s. 43(F).
+
 
 
 
