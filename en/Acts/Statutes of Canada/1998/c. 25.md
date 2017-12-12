@@ -520,7 +520,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Accounts**
 
-- **(2)** A board shall maintain books of account and related records in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor.
+- **(2)** A board shall maintain books of account and related records in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor.
 
 **Consolidated financial statements**
 
@@ -533,6 +533,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Funding**
 
 - **(5)** The federal Minister may establish funding arrangements with each board specifying the manner in which funding will be made available pursuant to a budget approved by the federal Minister.
+> 1998, c. 25, s. 26; 2017, c. 26, s. 62.
+
 
 
 
