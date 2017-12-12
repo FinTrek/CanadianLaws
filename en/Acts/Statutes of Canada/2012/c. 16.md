@@ -944,11 +944,13 @@ However, in the case of a court order, the administrator must not administer the
 
 **Financial statements**
 
-- **(3)** Except as otherwise specified by the Superintendent, the financial statements must be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+- **(3)** Except as otherwise specified by the Superintendent, the financial statements must be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
 
 **Form and manner of filings and time limit**
 
 - **(4)** Every document required to be filed under this section must be filed in the form and manner that the Superintendent may direct and, unless otherwise directed by the Superintendent, be filed within three months after the end of the year to which the document relates.
+> 2012, c. 16, s. 58; 2017, c. 26, s. 62.
+
 
 
 
