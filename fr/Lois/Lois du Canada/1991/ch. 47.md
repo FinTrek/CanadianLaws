@@ -7315,8 +7315,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires et aux souscripteurs :
 	- **a)** un rapport financier annuel comparatif couvrant séparément :
 		- **(i)** l’exercice précédant l’assemblée,
-		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
-	- **a.1)** dans le cas d’une société qui a des souscripteurs avec participation, le rapport qui contient les renseignements réglementaires portant sur les politiques élaborées aux termes des alinéas 165(2)e) et e.1) ainsi que tout autre renseignement réglementaire;
+		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
+	- **a.1)** dans le cas d’une société qui a des souscripteurs avec participation, le rapport qui contient les renseignements réglementaires portant sur les politiques élaborées aux termes des alinéas 165(2)e) et e.1) ainsi que tout autre renseignement réglementaire;
 	- **b)** le rapport du vérificateur de la société;
 	- **c)** le rapport de l’actuaire de la société;
 	- **d)** la description des rôles respectifs de l’actuaire et du vérificateur de la société dans l’établissement et la vérification du rapport annuel;
@@ -7324,13 +7324,13 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
 - **(3)** La société joint à son rapport annuel :
-	- **a)** dans le cas d’une société qui a des souscripteurs avec participation, un résumé des politiques élaborées aux termes des alinéas 165(2)e) et e.1);
-	- **b)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 499 ou en réalisant une sûreté conformément à l’article 500 et qu’elle ne serait pas par ailleurs autorisée à détenir —, avec indication, pour chacune d’elles, des renseignements suivants :
+	- **a)** dans le cas d’une société qui a des souscripteurs avec participation, un résumé des politiques élaborées aux termes des alinéas 165(2)e) et e.1);
+	- **b)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 499 ou en réalisant une sûreté conformément à l’article 500 et qu’elle ne serait pas par ailleurs autorisée à détenir —, avec indication, pour chacune d’elles, des renseignements suivants :
 		- **(i)** sa dénomination sociale et l’adresse de son siège ou bureau principal,
 		- **(ii)** la valeur comptable de celles de ses actions, dont elle-même et ses autres filiales ont la propriété effective,
 		- **(iii)** la part — exprimée en pourcentage — des droits de vote propres à l’ensemble des actions en circulation avec droit de vote de la filiale qui se rattache à celles de ses actions avec droit de vote dont la société et ses autres filiales ont la propriété effective;
@@ -7338,14 +7338,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Principes comptables**
 
-- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)b) et au paragraphe 333(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
+- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)b) et au paragraphe 333(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de Comptables professionnels agréés du Canada. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
 
 - **(5)** [Abrogé, 2005, ch. 54, art. 284]
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)b).
-> 1991, ch. 47, art. 331; 1997, ch. 15, art. 233; 2001, ch. 9, art. 398; 2005, ch. 54, art. 284.
+- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)b).
+> 1991, ch. 47, art. 331; 1997, ch. 15, art. 233; 2001, ch. 9, art. 398; 2005, ch. 54, art. 284; 2017, ch. 26, art. 62.
 
 
 
@@ -7650,11 +7650,11 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **346** 
 
-- **(1)** Le vérificateur de la société procède à l’examen qu’il estime nécessaire pour faire rapport sur le rapport annuel et sur les états financiers qui doivent, aux termes de la présente loi, être présentés aux actionnaires et aux souscripteurs, à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 331(1)a)(ii).
+- **(1)** Le vérificateur de la société procède à l’examen qu’il estime nécessaire pour faire rapport sur le rapport annuel et sur les états financiers qui doivent, aux termes de la présente loi, être présentés aux actionnaires et aux souscripteurs, à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 331(1)a)(ii).
 
 **Normes applicables**
 
-- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de l’Institut canadien des comptables agréés.
+- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 **Évaluation de l’actuaire**
 
@@ -7665,7 +7665,7 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 **Normes actuarielles**
 
 - **(4)** L’évaluation faite par un actuaire autre que celui de la société ne peut être utilisée par le vérificateur que si elle a été faite conformément aux normes actuarielles généralement reconnues, avec les modifications déterminées par le surintendant, et à toute autre instruction donnée par le surintendant.
-> 1991, ch. 47, art. 346; 2007, ch. 6, art. 214.
+> 1991, ch. 47, art. 346; 2007, ch. 6, art. 214; 2017, ch. 26, art. 62.
 
 
 
@@ -14784,17 +14784,19 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **641** 
 
-- **(1)** Le vérificateur de la société étrangère procède à l’examen qu’il estime nécessaire pour faire rapport sur le relevé annuel exigé aux termes du paragraphe 665(2) et sur les états financiers qui doivent, aux termes de la présente loi, être déposés auprès du surintendant.
+- **(1)** Le vérificateur de la société étrangère procède à l’examen qu’il estime nécessaire pour faire rapport sur le relevé annuel exigé aux termes du paragraphe 665(2) et sur les états financiers qui doivent, aux termes de la présente loi, être déposés auprès du surintendant.
 
 **Normes applicables**
 
-- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de l’Institut canadien des comptables agréés.
+- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 **Évaluation de l’actuaire**
 
 - **(3)** Le vérificateur peut, pour son examen, utiliser l’évaluation de l’actuaire de la société étrangère quant :
 	- **a)** aux engagements actuariels et autres liés aux polices à la fin de l’exercice;
 	- **b)** à l’augmentation des engagements actuariels de la société au cours de l’exercice.
+> 1991, ch. 47, art. 641; 2017, ch. 26, art. 62.
+
 
 
 
@@ -19907,18 +19909,18 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires :
 	- **a)** un rapport financier annuel comparatif couvrant séparément :
 		- **(i)** l’exercice précédant l’assemblée,
-		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
+		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
 	- **b)** le rapport du vérificateur de la société de portefeuille d’assurances;
 	- **c)** tous les autres renseignements sur la situation financière de la société de portefeuille d’assurances et les résultats de ses opérations à présenter, selon ses règlements administratifs, aux actionnaires à l’assemblée annuelle.
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
 - **(3)** La société de portefeuille d’assurances joint à son rapport annuel :
-	- **a)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 975 ou en réalisant une sûreté conformément à l’article 976 et qu’elle ne serait pas par ailleurs autorisée à détenir —, avec indication, pour chacune d’elles, des renseignements suivants :
+	- **a)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 975 ou en réalisant une sûreté conformément à l’article 976 et qu’elle ne serait pas par ailleurs autorisée à détenir —, avec indication, pour chacune d’elles, des renseignements suivants :
 		- **(i)** sa dénomination sociale et l’adresse de son siège ou bureau principal,
 		- **(ii)** la valeur comptable de celles de ses actions dont elle-même et ses autres filiales ont la propriété effective,
 		- **(iii)** la part — exprimée en pourcentage — des droits de vote propres à l’ensemble des actions en circulation avec droit de vote de la filiale qui se rattache à celles de ses actions avec droit de vote dont la société de portefeuille d’assurances et ses autres filiales ont la propriété effective;
@@ -19926,7 +19928,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Principes comptables**
 
-- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)a) et au paragraphe 889(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
+- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)a) et au paragraphe 889(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de Comptables professionnels agréés du Canada. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
 
 **Normes actuarielles**
 
@@ -19934,8 +19936,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 2001, ch. 9, art. 465; 2005, ch. 54, art. 351.
+- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 351; 2017, ch. 26, art. 62.
 
 
 
@@ -20254,12 +20256,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **902** 
 
-- **(1)** Le vérificateur de la société de portefeuille d’assurances procède à l’examen qu’il estime nécessaire pour faire rapport sur le rapport annuel et sur les états financiers qui doivent, aux termes de la présente partie, être présentés aux actionnaires à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 887(1)a)(ii).
+- **(1)** Le vérificateur de la société de portefeuille d’assurances procède à l’examen qu’il estime nécessaire pour faire rapport sur le rapport annuel et sur les états financiers qui doivent, aux termes de la présente partie, être présentés aux actionnaires à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 887(1)a)(ii).
 
 **Normes applicables**
 
-- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de l’Institut canadien des comptables agréés.
-> 2001, ch. 9, art. 465.
+- **(2)** Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+> 2001, ch. 9, art. 465; 2017, ch. 26, art. 62.
 
 
 
