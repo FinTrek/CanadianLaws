@@ -429,7 +429,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **26** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** respecting applications for permits, including, but not limited to, the form of the applications, who may apply for permits and the information that must be provided in respect of permit applications;
+	- **(a)** respecting applications for permits, including the form of the applications, who may apply for permits and the information that must be provided in respect of permit applications;
 	- **(b)** respecting the making of applications for a permit on behalf of a Canadian vessel;
 	- **(c)** respecting the issuance, renewal, cancellation and suspension of permits, and the conditions that the Minister may include in a permit;
 	- **(d)** respecting the activities that may be authorized by a permit;
@@ -460,7 +460,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** the material was reasonably accessible to the person or vessel;
 	- **(b)** reasonable steps had been taken to ensure that the material was accessible to persons or vessels likely to be affected by the regulation; or
 	- **(c)** the material had been published in the Canada Gazette.
-> 2003, c. 20, s. 26; 2009, c. 14, s. 3.
+> 2003, c. 20, s. 26; 2009, c. 14, s. 3; 2017, c. 26, s. 63(E).
 
 
 
@@ -888,7 +888,7 @@ in which case, the thing may be removed to and stored in any other place at the 
 	- **(c)** cease the operation of any activity or any part of a work, undertaking or thing until the enforcement officer is satisfied that the activity, work, undertaking or thing will be operated in accordance with this Act and the regulations;
 	- **(d)** move any conveyance to another location including, in the case of a Canadian vessel, moving the vessel into port or, in the case of an aircraft, landing the aircraft;
 	- **(e)** unload or reload the contents of any conveyance; and
-	- **(f)** take any other measure that the enforcement officer considers necessary to facilitate compliance with the order — or to restore the components of the environment damaged by the alleged contravention or to protect the components of the environment put at risk by the alleged contravention — including, but not limited to,
+	- **(f)** take any other measure that the enforcement officer considers necessary to facilitate compliance with the order — or to restore the components of the environment damaged by the alleged contravention or to protect the components of the environment put at risk by the alleged contravention — including
 		- **(i)** maintaining records on any relevant matter,
 		- **(ii)** reporting periodically to the enforcement officer, and
 		- **(iii)** submitting to the enforcement officer any information, proposal or plan specified by the enforcement officer that sets out any action to be taken by the person with respect to the subject matter of the order.
@@ -916,7 +916,7 @@ in which case, the thing may be removed to and stored in any other place at the 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(7)** An order is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2009, c. 14, s. 9.
+> 2009, c. 14, s. 9; 2017, c. 26, s. 63(E).
 
 
 
