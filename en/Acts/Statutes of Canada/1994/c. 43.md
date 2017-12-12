@@ -472,7 +472,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 **Accounts**
 
-- **(3)** The Board shall maintain books of account and records in relation thereto in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor.
+- **(3)** The Board shall maintain books of account and records in relation thereto in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor.
 
 **Consolidated financial statements**
 
@@ -481,7 +481,7 @@ and that has not ceased to be settlement land in accordance with the final agree
 **Audit**
 
 - **(5)** The auditor of the Board shall audit the accounts, financial statements and financial transactions of the Board annually and shall make a report of the audit to the Board and to the Minister.
-> 1994, c. 43, s. 23; 2012, c. 19, s. 185; 2013, c. 14, s. 16.
+> 1994, c. 43, s. 23; 2012, c. 19, s. 185; 2013, c. 14, s. 16; 2017, c. 26, s. 62.
 
 
 
