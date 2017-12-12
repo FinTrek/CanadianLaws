@@ -464,7 +464,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Livres comptables**
 
-- **(3)** Il tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par l’Institut canadien des comptables agréés ou les successeurs ou ayants droit de celui-ci.
+- **(3)** Il tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par Comptables professionnels agréés du Canada ou les successeurs ou ayants droit de celui-ci.
 
 **États financiers consolidés**
 
@@ -473,7 +473,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(5)** Le vérificateur de l’Office vérifie chaque année les comptes, états financiers et opérations financières de l’Office, et présente son rapport à celui-ci et au ministre fédéral.
-> 1994, ch. 43, art. 23; 2012, ch. 19, art. 185; 2013, ch. 14, art. 16.
+> 1994, ch. 43, art. 23; 2012, ch. 19, art. 185; 2013, ch. 14, art. 16; 2017, ch. 26, art. 62.
 
 
 
