@@ -1054,12 +1054,12 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 
 - **(3.1)** Sauf indication contraire du surintendant, les rapports actuariels et les états financiers sont établis :
 	- **a)** dans le premier cas, selon les normes de pratique de l’Institut canadien des actuaires;
-	- **b)** dans le deuxième cas, selon les principes comptables généralement reconnus, principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés.
+	- **b)** dans le deuxième cas, selon les principes comptables généralement reconnus, principalement ceux qui sont énoncés dans le Manuel de Comptables professionnels agréés du Canada.
 
 **Délai et modalités**
 
 - **(4)** Les documents visés au présent article sont déposés en la forme et de la manière que peut fixer le surintendant et, sauf directives contraires de celui-ci, dans les six mois suivant la fin de l’exercice du régime auquel ils se rapportent.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 12; 1998, ch. 12, art. 12; 2010, ch. 12, art. 1801, ch. 25, art. 190.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 12; 1998, ch. 12, art. 12; 2010, ch. 12, art. 1801, ch. 25, art. 190; 2017, ch. 26, art. 62.
 
 
 
