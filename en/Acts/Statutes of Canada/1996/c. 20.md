@@ -692,7 +692,7 @@ and, after having done so, the Corporation shall send, by mail or by electronic 
 	- **(f)** financial requirements necessary for the Corporation to maintain an appropriate credit rating,
 	- **(g)** tax liability,
 	- **(h)** reasonable reserves for future expenditures and contingencies, and
-	- **(i)** other costs determined in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor,
+	- **(i)** other costs determined in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor,
 to the extent that they relate to the provision of those services, less the amount determined in accordance with subsection (6).
 
 **Deduction amount**
@@ -710,6 +710,8 @@ to the extent that they relate to the provision of those services, less the amou
 **Application of paragraph (1)(c)**
 
 - **(8)** Paragraph (1)(c) does not apply in respect of charges for *en route* air traffic control services for the period during which an air transportation tax is levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+> 1996, c. 20, s. 35; 2017, c. 26, s. 62.
+
 
 
 
