@@ -36,6 +36,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objet**
 
 **2** La présente loi a pour objet de réaliser l’égalité en milieu de travail de façon que nul ne se voie refuser d’avantages ou de chances en matière d’emploi pour des motifs étrangers à sa compétence et, à cette fin, de corriger les désavantages subis, dans le domaine de l’emploi, par les femmes, les autochtones, les personnes handicapées et les personnes qui font partie des minorités visibles, conformément au principe selon lequel l’équité en matière d’emploi requiert, outre un traitement identique des personnes, des mesures spéciales et des aménagements adaptés aux différences.
+> 1995, ch. 44, art. 2; 2017, ch. 26, art. 19(A).
+
 
 
 
@@ -48,38 +50,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent d’application*** Agent désigné à titre d’agent de vérification de la conformité à l’équité en matière d’emploi en application du paragraphe 22(3).
+***agent d’application*** Agent désigné à titre d’agent de vérification de la conformité à l’équité en matière d’emploi en application du paragraphe 22(3). (*compliance officer*)
 
-***autochtones*** Les Indiens, les Inuit et les Métis.
+***autochtones*** Les Indiens, les Inuit et les Métis. (*aboriginal peoples*)
 
 ***Comité***[Abrogée, 1998, ch. 9, art. 37]
 
-***Commission*** La Commission canadienne des droits de la personne constituée par l’article 26 de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
+***Commission*** La Commission canadienne des droits de la personne constituée par l’article 26 de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md). (*Commission*)
 
-***employeur du secteur privé*** Quiconque emploie au moins cent salariés au sein ou dans le cadre d’une entreprise fédérale au sens de l’article 2 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), ainsi que toute personne morale employant au moins cent salariés et constituée pour l’accomplissement de fonctions au nom du gouvernement du Canada, à l’exclusion :
+***employeur du secteur privé*** Quiconque emploie au moins cent salariés au sein ou dans le cadre d’une entreprise fédérale au sens de l’article 2 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), ainsi que toute personne morale employant au moins cent salariés et constituée pour l’accomplissement de fonctions au nom du gouvernement du Canada, à l’exclusion :
 - **a)** d’une personne qui emploie des salariés au sein ou dans le cadre d’une entreprise, d’une affaire ou d’un ouvrage de nature locale et privée au Yukon, dans les Territoires du Nord-Ouest ou au Nunavut;
-- **b)** d’un établissement public assimilé à un ministère aux termes de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **b)** d’un établissement public assimilé à un ministère aux termes de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*private sector employer*)
 
-***groupes désignés*** Les femmes, les autochtones, les personnes handicapées et les personnes qui font partie des minorités visibles.
+***groupes désignés*** Les femmes, les autochtones, les personnes handicapées et les personnes qui font partie des minorités visibles. (*designated groups*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***minorités visibles*** Font partie des minorités visibles les personnes, autres que les autochtones, qui ne sont pas de race blanche ou qui n’ont pas la peau blanche.
+***minorités visibles*** Font partie des minorités visibles les personnes, autres que les autochtones, qui ne sont pas de race blanche ou qui n’ont pas la peau blanche. (*members of visible minorities*)
 
-***personnes handicapées*** Les personnes qui ont une déficience durable ou récurrente soit de leurs capacités physiques, mentales ou sensorielles, soit d’ordre psychiatrique ou en matière d’apprentissage et :
+***personnes handicapées*** Les personnes qui ont une déficience durable ou récurrente soit de leurs capacités physiques, mentales ou sensorielles, soit d’ordre psychiatrique ou en matière d’apprentissage et :
 - **a)** soit considèrent qu’elles ont des aptitudes réduites pour exercer un emploi;
 - **b)** soit pensent qu’elles risquent d’être classées dans cette catégorie par leur employeur ou par d’éventuels employeurs en raison d’une telle déficience.
 
-La présente définition vise également les personnes dont les limitations fonctionnelles liées à leur déficience font l’objet de mesures d’adaptation pour leur emploi ou dans leur lieu de travail.
+La présente définition vise également les personnes dont les limitations fonctionnelles liées à leur déficience font l’objet de mesures d’adaptation pour leur emploi ou dans leur lieu de travail. (*persons with disabilities*)
 
-***population apte au travail*** Ensemble des personnes, au Canada, en âge de travailler et capables et désireuses de le faire.
+***population apte au travail*** Ensemble des personnes, au Canada, en âge de travailler et capables et désireuses de le faire. (*Canadian workforce*)
 
-***président*** Le président du Tribunal canadien des droits de la personne.
+***président*** Le président du Tribunal canadien des droits de la personne. (*Chairperson*)
 
-***représentants*** Les personnes que les salariés ont désignées pour les représenter ou, le cas échéant, les agents négociateurs des salariés.
+***représentants*** Les personnes que les salariés ont désignées pour les représenter ou, le cas échéant, les agents négociateurs des salariés. (*representatives*)
 
-***tribunal*** Le Tribunal de l’équité en matière d’emploi constitué en application du paragraphe 28(1).
-> 1993, ch. 28, art. 78; 1995, ch. 44, art. 3; 1998, ch. 9, art. 37, ch. 15. art. 25; 2002, ch. 7, art. 162(A).
+***tribunal*** Le Tribunal de l’équité en matière d’emploi constitué en application du paragraphe 28(1). (*Tribunal*)
+> 1993, ch. 28, art. 78; 1995, ch. 44, art. 3; 1998, ch. 9, art. 37, ch. 15. art. 25; 2002, ch. 7, art. 162(A); 2017, ch. 26, art. 19(A).
 
 
 
@@ -171,6 +173,8 @@ La présente définition vise également les personnes dont les limitations fonc
 **Emploi des autochtones**
 
 **7** Par dérogation aux autres dispositions de la présente loi, l’employeur du secteur privé dont les activités sont principalement axées sur la promotion des intérêts des autochtones peut n’employer que des autochtones ou leur donner la préférence à l’embauche sauf si cette pratique est jugée discriminatoire sous le régime de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
+> 1995, ch. 44, art. 7; 2017, ch. 26, art. 19(A).
+
 
 
 
@@ -218,6 +222,8 @@ La présente définition vise également les personnes dont les limitations fonc
 **Confidentialité des renseignements**
 
 - **(3)** Les renseignements recueillis par l’employeur dans le cadre de l’alinéa (1)a) sont confidentiels et ne peuvent être utilisés que pour permettre à l’employeur de remplir ses obligations dans le cadre de la présente loi.
+> 1995, ch. 44, art. 9; 2017, ch. 26, art. 19(A).
+
 
 
 
@@ -329,13 +335,13 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **18** 
 
-- **(1)** Au plus tard le 1<sup>er</sup> juin de chaque année, l’employeur du secteur privé dépose auprès du ministre, pour l’année civile précédente, un rapport comportant les renseignements conformes aux instructions réglementaires, et établi en la forme et selon les modalités réglementaires, qui donne les renseignements suivants :
+- **(1)** Au plus tard le 1<sup>er</sup> juin de chaque année, l’employeur du secteur privé dépose auprès du ministre, pour l’année civile précédente, un rapport comportant les renseignements conformes aux instructions réglementaires, et établi en la forme et selon les modalités réglementaires, qui donne les renseignements suivants :
 	- **a)** les branches d’activité de ses salariés, le lieu de son établissement et le lieu de travail de ses salariés, le nombre de ceux-ci et celui des membres des groupes désignés qui en font partie;
 	- **b)** les catégories professionnelles qui composent son personnel et la représentation des membres de ces groupes dans chacune d’elles;
 	- **c)** les échelles de rémunération de ses salariés et la représentation des membres de ces groupes figurant à chacune d’elles ou à chacun de leurs échelons réglementaires;
 	- **d)** le nombre des recrutements, des avancements et des cessations de fonctions ainsi que, dans chaque cas, la représentation des membres des mêmes groupes.
 
-**Définition de « employeur »**
+**Définition de employeur**
 
 - **(2)** Pour l’application du paragraphe (1), l’employeur est l’employeur au 31 décembre de l’année visée par le rapport.
 
@@ -353,7 +359,7 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **Renseignements supplémentaires**
 
-- **(6)** L’employeur ajoute dans son rapport les éléments suivants :
+- **(6)** L’employeur ajoute dans son rapport les éléments suivants :
 	- **a)** l’énoncé des mesures prises en vue de réaliser l’équité en matière d’emploi et les résultats obtenus;
 	- **b)** le compte rendu des consultations tenues avec les représentants en vue de réaliser l’équité en matière d’emploi.
 
@@ -372,6 +378,8 @@ La présente définition vise également les personnes dont les limitations fonc
 **Copie à la Commission**
 
 - **(10)** Dès qu’il reçoit un rapport, le ministre en fait parvenir une copie à la Commission.
+> 1995, ch. 44, art. 18; 2017, ch. 26, art. 19(A).
+
 
 
 
@@ -563,6 +571,8 @@ La présente définition vise également les personnes dont les limitations fonc
 **Modification**
 
 - **(4)** La Commission peut annuler ou modifier l’ordre si on lui présente des faits nouveaux ou si elle est convaincue qu’elle l’a donné sans avoir eu connaissance d’un fait essentiel ou en se fondant sur une erreur à l’égard d’un tel fait.
+> 1995, ch. 44, art. 25; 2017, ch. 26, art. 19(A).
+
 
 
 
@@ -627,7 +637,7 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **Prolongation du mandat**
 
-- **(4.1)** Le membre dont le mandat est échu peut, avec l’agrément du président, terminer les affaires dont il est saisi. Il est alors réputé être un membre à temps partiel pour l’application de l’article 48.3 de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
+- **(4.1)** Le membre dont le mandat est échu peut, avec l’agrément du président, terminer les affaires dont il est saisi. Il est alors réputé être un membre à temps partiel pour l’application du paragraphe 48.2(2) de la [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md).
 
 **Rémunération**
 
@@ -650,7 +660,7 @@ La présente définition vise également les personnes dont les limitations fonc
 **Respect des normes de sécurité**
 
 - **(10)** Les membres du tribunal et les personnes agissant au nom du tribunal ou sous son autorité qui sont appelés à recevoir ou à recueillir des renseignements dans le cadre des demandes visées au paragraphe (1) doivent, quant à l’accès à ces renseignements et à leur utilisation, respecter les normes de sécurité applicables et prêter les serments imposés à leurs usagers habituels.
-> 1995, ch. 44, art. 28; 1998, ch. 9, art. 39; 2014, ch. 20, art. 463.
+> 1995, ch. 44, art. 28; 1998, ch. 9, art. 39; 2014, ch. 20, art. 463; 2017, ch. 26, art. 18.
 
 
 
