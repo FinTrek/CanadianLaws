@@ -3629,16 +3629,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Circonstances aggravantes**
 
-**121** 
-
-- **(1)** Le tribunal tient compte, dans l’infliction de la peine visée à l’article 120, des circonstances suivantes :
-	- **a)** la perpétration de l’infraction a entraîné la mort ou des blessures ou a mis en danger la vie ou la sécurité d’autrui;
-	- **b)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou en association avec elle;
-	- **c)** l’infraction a été commise en vue de tirer un profit, que celui-ci ait été ou non réalisé;
-	- **d)** par suite de la perpétration de l’infraction, une personne a été soumise à un traitement dégradant ou attentatoire à la dignité humaine, notamment en ce qui touche les activités professionnelles, la santé ou l’exploitation sexuelle.
-
-- **(2)** [Abrogé, 2012, ch. 17, art. 42]
-> 2001, ch. 27, art. 121; 2012, ch. 17, art. 42.
+**121** Le tribunal tient compte, dans l’infliction de la peine visée à l’article 120, des circonstances suivantes :
+- **a)** la perpétration de l’infraction a entraîné la mort ou des blessures ou a mis en danger la vie ou la sécurité d’autrui;
+- **b)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou en association avec elle;
+- **c)** l’infraction a été commise en vue de tirer un profit, que celui-ci ait été ou non réalisé;
+- **d)** par suite de la perpétration de l’infraction, une personne a été soumise à un traitement dégradant ou attentatoire à la dignité humaine, notamment en ce qui touche les activités professionnelles, la santé ou l’exploitation sexuelle.
+> 2001, ch. 27, art. 121; 2012, ch. 17, art. 42; 2017, ch. 26, art. 44.
 
 
 
@@ -4066,18 +4062,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **148** 
 
 - **(1)** Le propriétaire ou l’exploitant d’un véhicule ou d’une installation de transport, et leur mandataire, sont tenus, conformément aux règlements, aux obligations suivantes :
-	- **a)** ne pas amener au Canada la personne visée par règlement, celle qui n’est pas munie des documents réglementaires ou celle qu’il désigne;
+	- **a)** ne pas amener au Canada la personne visée par règlement, celle qui n’est pas munie des documents réglementaires ou celle qu’un agent désigne;
 	- **b)** présenter la personne qu’il amène au Canada et les documents réglementaires au contrôle et la détenir jusqu’à la fin de celui-ci;
 	- **c)** veiller à la mise en observation ou sous traitement des personnes qu’il amène au Canada;
-	- **d)** fournir les documents, rapports et renseignements requis;
+	- **d)** fournir les documents, rapports et renseignements réglementaires;
 	- **e)** fournir des installations pour le contrôle des personnes amenées au Canada;
-	- **f)** sur avis ou dans les cas prévus par règlement faire sortir du Canada la personne qu’il a amenée ou fait amener;
+	- **f)** sur avis d’un agent ou dans les cas prévus par règlement faire sortir du Canada la personne qu’il a amenée ou fait amener;
 	- **g)** payer les frais prévus par règlement pour l’application des alinéas a), b), c) et f);
 	- **h)** fournir une garantie en vue de l’exécution de ses obligations.
 
 **Saisie**
 
-- **(2)** La sûreté qu’il a fournie et tout véhicule ou marchandise peuvent, si l’intéressé contrevient aux obligations prévues par la présente loi, être retenus, saisis et confisqués au profit de Sa Majesté du chef du Canada.
+- **(2)** Tout ou partie de la sûreté qu’il a fournie et tout véhicule ou autre marchandise réglementaire dont il est le propriétaire ou l’exploitant peuvent, si l’intéressé contrevient aux obligations prévues par la présente loi, être retenus, saisis ou confisqués au profit de Sa Majesté du chef du Canada.
+> 2001, ch. 27, art. 148; 2017, ch. 26, art. 45.
+
 
 
 
