@@ -820,7 +820,7 @@ except where the person has knowledge that the facts asserted are true.
 
 **Contents of statements**
 
-- **(5)** The annual financial statements shall show such information and particulars as in the opinion of the directors are necessary to present fairly, in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants, the Board’s financial position as at the end of the financial year to which it relates.
+- **(5)** The annual financial statements shall show such information and particulars as in the opinion of the directors are necessary to present fairly, in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada, the Board’s financial position as at the end of the financial year to which it relates.
 
 **Quarterly financial statements**
 
@@ -835,7 +835,7 @@ except where the person has knowledge that the facts asserted are true.
 **Jointly and separately**
 
 - **(8)** The financial statements required to be prepared under this section shall be prepared, as one set of statements, jointly and separately in relation to amounts managed by the Board for the purposes of the base Canada Pension Plan and the additional Canada Pension Plan, as defined in section 91 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
-> 1997, c. 40, s. 39; 2016, c. 14, s. 58.
+> 1997, c. 40, s. 39; 2016, c. 14, s. 58; 2017, c. 26, s. 62.
 
 
 
@@ -869,11 +869,13 @@ except where the person has knowledge that the facts asserted are true.
 
 **Auditing standards**
 
-- **(4)** An auditor’s examination shall be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+- **(4)** An auditor’s examination shall be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
 
 **Reliance on internal audit**
 
 - **(5)** In conducting an audit under this Act, an auditor shall rely on any internal audit conducted under subsection 39(3), to the extent that the auditor considers that reliance to be practicable.
+> 1997, c. 40, s. 40; 2017, c. 26, s. 62.
+
 
 
 
