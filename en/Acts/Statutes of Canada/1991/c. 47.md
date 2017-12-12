@@ -7457,8 +7457,8 @@ provide the trustee with evidence of compliance with the conditions in the trust
 - **(1)** The directors of a company shall place before the shareholders and policyholders at every annual meeting
 	- **(a)** a comparative annual financial statement relating separately to
 		- **(i)** the financial year immediately preceding the meeting, and
-		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
-	- **(a.1)** in the case of a company that has participating policyholders, the information prescribed in respect of the policies established under paragraphs 165(2)(e) and (e.1) and the other prescribed information;
+		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
+	- **(a.1)** in the case of a company that has participating policyholders, the information prescribed in respect of the policies established under paragraphs 165(2)(e) and (e.1) and the other prescribed information;
 	- **(b)** the report of the auditor of the company;
 	- **(c)** the report of the actuary of the company;
 	- **(d)** a description of the roles of the actuary of the company and the auditor of the company in the preparation and audit of the annual statement; and
@@ -7466,13 +7466,13 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **Annual statement — contents**
 
-- **(2)** With respect to each of the financial years to which it relates, the annual statement of a company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the company for that financial year.
+- **(2)** With respect to each of the financial years to which it relates, the annual statement of a company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the company for that financial year.
 
 **Additional information**
 
 - **(3)** A company shall include with its annual statement
-	- **(a)** in the case of a company that has participating policyholders, a summary of the policies established under paragraphs 165(2)(e) and (e.1);
-	- **(b)** a list of the subsidiaries of the company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 499 or pursuant to a realization of security in accordance with section 500 and which the company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
+	- **(a)** in the case of a company that has participating policyholders, a summary of the policies established under paragraphs 165(2)(e) and (e.1);
+	- **(b)** a list of the subsidiaries of the company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 499 or pursuant to a realization of security in accordance with section 500 and which the company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
 		- **(i)** its name and the address of its head or principal office,
 		- **(ii)** the book value of the aggregate of any shares of the subsidiary beneficially owned by the company and by other subsidiaries of the company, and
 		- **(iii)** the percentage of the voting rights attached to all the outstanding voting shares of the subsidiary that is carried by the aggregate of any voting shares of the subsidiary beneficially owned by the company and by other subsidiaries of the company; and
@@ -7480,14 +7480,14 @@ provide the trustee with evidence of compliance with the conditions in the trust
 
 **Accounting principles**
 
-- **(4)** The financial statements referred to in subsection (1), paragraph (3)(b) and subsection 333(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
+- **(4)** The financial statements referred to in subsection (1), paragraph (3)(b) and subsection 333(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
 
 - **(5)** [Repealed, 2005, c. 54, s. 284]
 
 **Regulations**
 
-- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(b).
-> 1991, c. 47, s. 331; 1997, c. 15, s. 233; 2001, c. 9, s. 398; 2005, c. 54, s. 284.
+- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(b).
+> 1991, c. 47, s. 331; 1997, c. 15, s. 233; 2001, c. 9, s. 398; 2005, c. 54, s. 284; 2017, c. 26, s. 62.
 
 
 
@@ -7794,22 +7794,22 @@ shall submit to the company and the Superintendent a written statement giving th
 
 **346** 
 
-- **(1)** The auditor of a company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual statement and on other financial statements required by this Act to be placed before the shareholders and policyholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 331(1)(a)(ii).
+- **(1)** The auditor of a company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual statement and on other financial statements required by this Act to be placed before the shareholders and policyholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 331(1)(a)(ii).
 
 **Auditing standards**
 
-- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
 
 **Reliance on actuary**
 
-- **(3)** An auditor of a company may, in conducting the examination referred to in subsection (1), use the valuation by the actuary of the company, or by any other actuary, of
+- **(3)** An auditor of a company may, in conducting the examination referred to in subsection (1), use the valuation by the actuary of the company, or by any other actuary, of
 	- **(a)** the actuarial and other policy liabilities of the company as at the end of a financial year; and
 	- **(b)** the increase in the actuarial liabilities of the company for a financial year.
 
 **Actuarial practices**
 
 - **(4)** A valuation by an actuary other than the actuary of the company may be used only if it was done in accordance with generally accepted actuarial practice and with any changes that may have been determined by the Superintendent and by following any additional directions that may have been made by the Superintendent.
-> 1991, c. 47, s. 346; 2007, c. 6, s. 214.
+> 1991, c. 47, s. 346; 2007, c. 6, s. 214; 2017, c. 26, s. 62.
 
 
 
@@ -15091,17 +15091,19 @@ shall submit to the chief agent of the foreign company and the Superintendent a 
 
 **641** 
 
-- **(1)** The auditor of a foreign company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual return required by subsection 665(2) and on other financial statements required by this Act to be filed with the Superintendent.
+- **(1)** The auditor of a foreign company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual return required by subsection 665(2) and on other financial statements required by this Act to be filed with the Superintendent.
 
 **Auditing standards**
 
-- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
 
 **Reliance on actuary**
 
-- **(3)** An auditor of a foreign company may, in conducting the examination referred to in subsection (1), use the valuation by the actuary of the foreign company of
+- **(3)** An auditor of a foreign company may, in conducting the examination referred to in subsection (1), use the valuation by the actuary of the foreign company of
 	- **(a)** the actuarial and other policy liabilities of the foreign company as at the end of a financial year; and
 	- **(b)** the increase in the actuarial liabilities of the foreign company for a financial year.
+> 1991, c. 47, s. 641; 2017, c. 26, s. 62.
+
 
 
 
@@ -20311,18 +20313,18 @@ the registers and records required or authorized by this Part to be prepared and
 - **(1)** The directors of an insurance holding company shall place before the shareholders at every annual meeting
 	- **(a)** a comparative annual financial statement relating separately to
 		- **(i)** the financial year immediately preceding the meeting, and
-		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
+		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
 	- **(b)** the report of the auditor of the insurance holding company; and
 	- **(c)** any further information respecting the financial position of the insurance holding company and the results of its operations required by the by-laws of the insurance holding company to be placed before the shareholders at the annual meeting.
 
 **Annual statement — contents**
 
-- **(2)** With respect to each of the financial years to which it relates, the annual statement of an insurance holding company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the insurance holding company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the insurance holding company for that financial year.
+- **(2)** With respect to each of the financial years to which it relates, the annual statement of an insurance holding company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the insurance holding company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the insurance holding company for that financial year.
 
 **Additional information**
 
 - **(3)** An insurance holding company shall include with its annual statement
-	- **(a)** a list of the subsidiaries of the insurance holding company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 975 or pursuant to a realization of security in accordance with section 976 and which the insurance holding company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
+	- **(a)** a list of the subsidiaries of the insurance holding company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 975 or pursuant to a realization of security in accordance with section 976 and which the insurance holding company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
 		- **(i)** its name and the address of its head or principal office,
 		- **(ii)** the book value of the aggregate of any shares of the subsidiary beneficially owned by the insurance holding company and by other subsidiaries of the insurance holding company, and
 		- **(iii)** the percentage of the voting rights attached to all the outstanding voting shares of the subsidiary that is carried by the aggregate of any voting shares of the subsidiary beneficially owned by the insurance holding company and by other subsidiaries of the insurance holding company; and
@@ -20330,7 +20332,7 @@ the registers and records required or authorized by this Part to be prepared and
 
 **Accounting principles**
 
-- **(4)** The financial statements referred to in subsection (1), paragraph (3)(a) and subsection 889(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
+- **(4)** The financial statements referred to in subsection (1), paragraph (3)(a) and subsection 889(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
 
 **Actuarial practices**
 
@@ -20338,8 +20340,8 @@ the registers and records required or authorized by this Part to be prepared and
 
 **Regulations**
 
-- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
-> 2001, c. 9, s. 465; 2005, c. 54, s. 351.
+- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
+> 2001, c. 9, s. 465; 2005, c. 54, s. 351; 2017, c. 26, s. 62.
 
 
 
@@ -20661,12 +20663,12 @@ shall submit to the insurance holding company and the Superintendent a written s
 
 **902** 
 
-- **(1)** The auditor of an insurance holding company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual statement and on other financial statements required by this Part to be placed before the shareholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 887(1)(a)(ii).
+- **(1)** The auditor of an insurance holding company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual statement and on other financial statements required by this Part to be placed before the shareholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 887(1)(a)(ii).
 
 **Auditing standards**
 
-- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
-> 2001, c. 9, s. 465.
+- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.
+> 2001, c. 9, s. 465; 2017, c. 26, s. 62.
 
 
 
