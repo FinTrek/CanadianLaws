@@ -848,9 +848,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 - **(1)** The Governor in Council, on the recommendation of the Minister, shall appoint a minimum of five, and a maximum of nine, other directors to hold office during good behaviour for a term not exceeding five years, subject to removal by the Governor in Council at any time for cause.
 
-**Appointment by AFOA**
+**Appointment by AFOA Canada**
 
-- **(2)** The Aboriginal Financial Officers Association of Canada, or any other body prescribed by regulation, shall appoint up to three additional directors to hold office during pleasure for a term not exceeding five years.
+- **(2)** AFOA Canada, or any other body prescribed by regulation, shall appoint up to three additional directors to hold office during pleasure for a term not exceeding five years.
 
 **Staggered terms**
 
@@ -859,7 +859,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Qualifications**
 
 - **(4)** The board of directors shall be composed of men and women from across Canada, including members of first nations, who are committed to the strengthening of first nation financial management and who have the experience or capacity to enable the Board to fulfil its mandate.
-> 2005, c. 9, s. 41; 2010, c. 12, s. 1734.
+> 2005, c. 9, s. 41; 2010, c. 12, s. 1734; 2017, c. 26, s. 50.
 
 
 
