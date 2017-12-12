@@ -248,6 +248,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Progress reports**
 
 - **(2)** At least every two years, the Minister shall cause to be tabled in each House of Parliament a report on the state of the parks and on progress made towards the establishment of new parks.
+> 2000, c. 32, s. 12; 2017, c. 26, s. 32(F).
+
 
 
 
@@ -1100,7 +1102,7 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Leases, licences, etc.**
 
 - **(5)** No lease or licence of occupation may be granted, and no permit, licence or other authorization may be issued, authorizing a commercial use of lands within a commercial zone of a park community if the maximum floor area for commercial zones specified for that park community in Schedule 4 would be exceeded as a result of that use.
-> 2000, c. 32, s. 33; 2015, c. 3, s. 19(F).
+> 2000, c. 32, s. 33; 2015, c. 3, s. 19(F); 2017, c. 26, s. 33(F).
 
 
 
@@ -2669,7 +2671,7 @@ Thence southerly following said Interprovincial Boundary to the point of commenc
 
 
 
-Said parcel containing about 10 878 square kilometres;
+Said parcel containing about 11 228 square kilometres;
 
 
 
@@ -6758,7 +6760,7 @@ Including any substances or material that may be disposed of pursuant to the [Te
 
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2; 2017, c. 10, ss. 5, 6(F).
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2; 2017, c. 10, ss. 5, 6(F), c. 26, ss. 34(F), 35, 36 to 38(F).
 
 
 
@@ -8170,7 +8172,7 @@ Some of the Isles and Islets forming part of the Fief and Seigneurie of the Isle
 
 
 
-Notwithstanding the generality of the foregoing, the following Isles and Islets (without cadastral designation) forming part of the Fief and Seigneurie of the Isles and Islets of Mingan are not included in the present description, namely: Perroquet Island, Havre de Mingan Island, Le Sanctuaire Island, De la Maison Island, Wreck Island, Aux Sauvages Island and that part of Fright Island described in a deed registered at the Saguenay Registry Office on January 15, 1952, under number 13630.
+Notwithstanding the generality of the foregoing, the following Isles and Islets (without cadastral designation) forming part of the Fief and Seigneurie of the Isles and Islets of Mingan are not included in the present description, namely: Perroquet Island, Havre de Mingan Island, Calculot des Betchouanes Island, De la Maison Island, Wreck Island, Innu Island and that part of Fright Island described in a deed registered at the Saguenay Registry Office on January 15, 1952, under number 13630.
 
 
 
@@ -10023,7 +10025,7 @@ All of Sable Island located near the geographic coordinates 43°56′ north lati
 Said parcel containing an area of approximately 30 square kilometres.
 
 
-> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6; 2015, c. 3, s. 21(F).
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6; 2015, c. 3, s. 21(F); 2017, c. 26, s. 39.
 
 
 
