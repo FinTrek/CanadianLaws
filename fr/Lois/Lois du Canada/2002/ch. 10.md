@@ -519,7 +519,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Documents comptables**
 
-- **(2)** Il tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par l’Institut canadien des comptables agréés ou les successeurs ou ayants droit de celui-ci.
+- **(2)** Il tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par Comptables professionnels agréés du Canada ou les successeurs ou ayants droit de celui-ci.
 
 **États financiers consolidés**
 
@@ -528,6 +528,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérification**
 
 - **(4)** Les comptes, états financiers et opérations financières de l’Office sont vérifiés annuellement par le vérificateur de celui-ci et, à la demande du ministre, par le vérificateur général du Canada. Le rapport du vérificateur de l’Office et, le cas échéant, celui du vérificateur général sont présentés à l’Office et au ministre.
+> 2002, ch. 10, art. 32; 2017, ch. 26, art. 62.
+
 
 
 
@@ -2346,7 +2348,7 @@ Il tient compte des observations ainsi reçues.
 
 **Documents comptables**
 
-- **(2)** Il tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par l’Institut canadien des comptables agréés ou les successeurs ou ayants droit de celui-ci.
+- **(2)** Il tient les documents comptables nécessaires, en conformité avec les principes comptables recommandés par Comptables professionnels agréés du Canada ou les successeurs ou ayants droit de celui-ci.
 
 **États financiers consolidés**
 
@@ -2355,6 +2357,8 @@ Il tient compte des observations ainsi reçues.
 **Vérification**
 
 - **(4)** Le vérificateur général du Canada vérifie chaque année les comptes, états financiers et opérations financières du Tribunal, et présente son rapport à celui-ci et au ministre.
+> 2002, ch. 10, art. 114; 2017, ch. 26, art. 62.
+
 
 
 
