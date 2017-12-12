@@ -702,17 +702,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **35** 
 
-- **(1)** L’Office veille, en ce qui concerne tant lui-même que ses filiales :
+- **(1)** L’Office veille, en ce qui concerne tant lui-même que ses filiales :
 	- **a)** à faire tenir des documents comptables pour chaque fonds;
 	- **b)** à mettre en oeuvre, en matière de finances et de gestion, des moyens de contrôle et d’information et à faire appliquer des méthodes de gestion;
-	- **c)** à faire tenir pour chaque exercice un registre des placements présentant, pour chaque fonds :
+	- **c)** à faire tenir pour chaque exercice un registre des placements présentant, pour chaque fonds :
 		- **(i)** la valeur comptable de chacun d’eux,
 		- **(ii)** leur valeur marchande et l’information permettant de la vérifier,
 		- **(iii)** les renseignements permettant de vérifier si les exigences de la présente loi et les principes, normes et procédures en matière de placement ont été respectés.
 
 **Tenue des documents**
 
-- **(2)** Pour l’application du paragraphe (1), l’Office s’efforce d’assurer, dans la mesure du possible et tant pour lui que pour ses filiales :
+- **(2)** Pour l’application du paragraphe (1), l’Office s’efforce d’assurer, dans la mesure du possible et tant pour lui que pour ses filiales :
 	- **a)** la protection et le contrôle de l’actif;
 	- **b)** la conformité des opérations avec la présente loi ainsi qu’avec ses règlements administratifs ou ceux des filiales;
 	- **c)** une gestion économique et efficiente des ressources financières, humaines et matérielles et l’efficacité des opérations.
@@ -727,7 +727,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contenu des documents**
 
-- **(5)** Ces documents contiennent également l’information générale et particulière que le conseil d’administration juge nécessaire pour présenter fidèlement, selon les principes comptables généralement reconnus — principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés — , la situation financière de chaque fonds à la clôture de l’exercice. Ils contiennent également les résultats des opérations de l’Office.
+- **(5)** Ces documents contiennent également l’information générale et particulière que le conseil d’administration juge nécessaire pour présenter fidèlement, selon les principes comptables généralement reconnus — principalement ceux qui sont énoncés dans le Manuel de Comptables professionnels agréés du Canada —, la situation financière de chaque fonds à la clôture de l’exercice. Ils contiennent également les résultats des opérations de l’Office.
 
 **États financiers trimestriels**
 
@@ -736,6 +736,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation par le conseil d’administration**
 
 - **(7)** Le conseil d’administration de l’Office doit approuver les états financiers annuels, l’approbation étant attestée par la signature d’au moins un administrateur de l’Office.
+> 1999, ch. 34, art. 35; 2017, ch. 26, art. 62.
+
 
 
 
