@@ -459,7 +459,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Moyen de défense**
 
 - **(5)** Il est entendu qu’aucune sanction ne peut découler du non-respect d’une disposition d’un règlement dans laquelle un document est incorporé par renvoi, sauf s’il est prouvé que, au moment du fait reproché, le contrevenant avait facilement accès au document, des mesures raisonnables avaient été prises pour que les intéressés puissent y avoir accès ou celui-ci était publié dans la Gazette du Canada.
-> 2003, ch. 20, art. 26; 2009, ch. 14, art. 3.
+> 2003, ch. 20, art. 26; 2009, ch. 14, art. 3; 2017, ch. 26, art. 63(A).
 
 
 
@@ -896,7 +896,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(7)** L’ordre n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2009, ch. 14, art. 9.
+> 2009, ch. 14, art. 9; 2017, ch. 26, art. 63(A).
 
 
 
