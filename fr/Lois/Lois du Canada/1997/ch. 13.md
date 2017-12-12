@@ -1042,7 +1042,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Item</th>
+<th>Article</th>
 <th>Additif</th>
 <th>Produit du tabac</th>
 </tr>
@@ -1336,6 +1336,6 @@ Ne sont toutefois pas visés les additifs suivants :
 **Note 2 :** Dans la colonne 2, ***cape apposée en hélice*** s’entend de la cape d’un cigare qui est apposée avec un angle aigu d’au moins 30 degrés par rapport à l’axe longitudinal du cigare.
 
 
-> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7; DORS/2017-45.
+> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7; 2017, ch. 26, art. 20(F); DORS/2017-45.
 
 
