@@ -42,13 +42,13 @@ Sanctionnée sur le 25 novembre 2005
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***salaire*** Sont assimilés au salaire les gages, la commission, la rémunération pour services fournis, l’indemnité de vacances, l’indemnité de départ, l’indemnité de préavis et toute autre somme prévue par règlement.
+***salaire*** Sont assimilés au salaire les gages, la commission, la rémunération pour services fournis, l’indemnité de vacances, l’indemnité de préavis, l’indemnité de départ et toute autre somme prévue par règlement. (*wages*)
 
 ***salaire admissible***
-- **a)** Le salaire — autre que l’indemnité de départ et l’indemnité de préavis — qui a été gagné au cours de la plus longue des périodes suivantes :
+- **a)** Le salaire — autre que l’indemnité de préavis et l’indemnité de départ — qui a été gagné au cours de la plus longue des périodes suivantes :
 	- **(i)** la période de six mois se terminant à la date de la faillite ou de l’entrée en fonctions du séquestre,
 	- **(ii)** la période commençant à la date précédant de six mois la date du dépôt d’une proposition concordataire faite au titre de la section I de la partie III de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou celle de l’introduction d’une procédure sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) et se terminant à la date de la faillite ou de l’entrée en fonctions du séquestre;
-- **b)** l’indemnité de départ et l’indemnité de préavis se rapportant à l’emploi qui a pris fin au cours de la période mentionnée à l’alinéa a).
+- **b)** l’indemnité de préavis et l’indemnité de départ se rapportant à l’emploi qui a pris fin au cours de la période mentionnée à l’alinéa a). (*eligible wages*)
 
 **Employeur faisant l’objet d’une mise sous séquestre**
 
@@ -67,7 +67,7 @@ Sanctionnée sur le 25 novembre 2005
 - **(5)** Malgré le paragraphe 4(5) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) :
 	- **a)** pour l’application de l’alinéa 6d), il est réputé n’exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d’emploi de la personne auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l’importance du travail accompli, qu’il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu’elle aurait conclu n’eût été le lien de dépendance;
 	- **b)** pour l’application du paragraphe 21(4), les personnes physiques liées entre elles sont, sauf preuve contraire, réputées avoir un lien de dépendance tant qu’elles sont ainsi liées.
-> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A).
+> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A); 2017, ch. 26, art. 52.
 
 
 
@@ -133,14 +133,12 @@ Sanctionnée sur le 25 novembre 2005
 
 **7** 
 
-- **(1)** Le montant des prestations à verser à une personne au titre de la présente loi est égal au salaire admissible qui lui est dû jusqu’à concurrence de la plus élevée des sommes ci-après, défalcation faite de toute somme réglementaire :
-	- **a)** 3 000 $;
-	- **b)** la somme correspondant à quatre fois le maximum de la rémunération hebdomadaire assurable, au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+- **(1)** Le montant des prestations à verser à une personne au titre de la présente loi est égal au salaire admissible qui lui est dû jusqu’à concurrence de la somme correspondant à quatre fois le maximum de la rémunération hebdomadaire assurable, au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), défalcation faite de toute somme réglementaire.
 
 **Faillite et mise sous séquestre**
 
 - **(2)** Si l’ancien employeur à la fois est en faillite et fait l’objet d’une mise sous séquestre, le montant à verser est le plus élevé de celui qui est déterminé dans le cas de la faillite et de celui qui est déterminé dans le cas de la mise sous séquestre.
-> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345.
+> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345; 2017, ch. 26, art. 53.
 
 
 
