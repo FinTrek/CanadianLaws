@@ -693,18 +693,22 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 **Accounts — oil and gas**
 
-**48** Books and accounts shall be maintained for a first nation’s oil and gas moneys, and annual financial statements shall be prepared in respect of those moneys, in accordance with the generally accepted accounting principles of the Canadian Institute of Chartered Accountants, by
+**48** Books and accounts shall be maintained for a first nation’s oil and gas moneys, and annual financial statements shall be prepared in respect of those moneys, in accordance with the generally accepted accounting principles of the Chartered Professional Accountants of Canada, by
 - **(a)** the council of the first nation if no trust is established to hold its oil and gas moneys; or
 - **(b)** the trustees of the trust and the council of the first nation if a trust is established.
+> 2005, c. 48, s. 48; 2017, c. 26, s. 62.
+
 
 
 
 
 **Accounts — moneys**
 
-**49** Books and accounts shall be maintained for moneys that have been paid to a first nation under sections 30 and 31, and annual financial statements shall be prepared in respect of those moneys, in accordance with the generally accepted accounting principles of the Canadian Institute of Chartered Accountants, by
+**49** Books and accounts shall be maintained for moneys that have been paid to a first nation under sections 30 and 31, and annual financial statements shall be prepared in respect of those moneys, in accordance with the generally accepted accounting principles of the Chartered Professional Accountants of Canada, by
 - **(a)** the council of the first nation if an account is established to hold moneys so paid; or
 - **(b)** the trustees of the trust and the council of the first nation if a trust is established to hold those moneys.
+> 2005, c. 48, s. 49; 2017, c. 26, s. 62.
+
 
 
 
@@ -713,11 +717,13 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 **50** 
 
-- **(1)** Financial statements prepared under section 48 or 49 shall be audited, in accordance with the generally accepted auditing standards of the Canadian Institute of Chartered Accountants, by an auditor who is a member in good standing of an institute or association of accountants incorporated under the laws of a province.
+- **(1)** Financial statements prepared under section 48 or 49 shall be audited, in accordance with the generally accepted auditing standards of the Chartered Professional Accountants of Canada, by an auditor who is a member in good standing of an institute or association of accountants incorporated under the laws of a province.
 
 **Access to statements**
 
 - **(2)** Financial statements, as audited under subsection (1), shall be made available to first nation members within 120 days after the end of the fiscal year, and a copy shall be provided to any member on payment of a fee not exceeding the cost of providing the copy.
+> 2005, c. 48, s. 50; 2017, c. 26, s. 62.
+
 
 
 
