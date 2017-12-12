@@ -695,18 +695,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Livres comptables : pétrole et gaz**
 
-**48** La tenue des livres comptables relatifs aux recettes pétrolières ou gazières et l’établissement chaque année des états financiers afférents selon les principes comptables généralement reconnus de l’Institut canadien des comptables agréés incombent :
+**48** La tenue des livres comptables relatifs aux recettes pétrolières ou gazières et l’établissement chaque année des états financiers afférents selon les principes comptables généralement reconnus de Comptables professionnels agréés du Canada incombent :
 - **a)** si aucune fiducie n’a été constituée, au conseil de la première nation;
 - **b)** dans le cas contraire, aux fiduciaires et au conseil de la première nation.
+> 2005, ch. 48, art. 48; 2017, ch. 26, art. 62.
+
 
 
 
 
 **Livres comptables : fonds**
 
-**49** La tenue des livres comptables relatifs aux fonds versés aux termes des articles 30 et 31 et l’établissement chaque année des états financiers afférents selon les principes comptables généralement reconnus de l’Institut canadien des comptables agréés incombent :
+**49** La tenue des livres comptables relatifs aux fonds versés aux termes des articles 30 et 31 et l’établissement chaque année des états financiers afférents selon les principes comptables généralement reconnus de Comptables professionnels agréés du Canada incombent :
 - **a)** si un compte a été ouvert, au conseil de la première nation;
 - **b)** si une fiducie a été constituée, aux fiduciaires et au conseil de la première nation.
+> 2005, ch. 48, art. 49; 2017, ch. 26, art. 62.
+
 
 
 
@@ -715,11 +719,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **50** 
 
-- **(1)** Les états financiers sont vérifiés, en conformité avec les normes de vérification généralement reconnues de l’Institut canadien des comptables agréés, par un vérificateur qui est membre en règle d’un institut ou d’un ordre de comptables constitué sous le régime d’une loi provinciale.
+- **(1)** Les états financiers sont vérifiés, en conformité avec les normes de vérification généralement reconnues de Comptables professionnels agréés du Canada, par un vérificateur qui est membre en règle d’un institut ou d’un ordre de comptables constitué sous le régime d’une loi provinciale.
 
 **Copies**
 
 - **(2)** Les états financiers vérifiés sont mis à la disposition des membres de la première nation dans les cent vingt jours suivant la fin de l’exercice. Une copie leur est fournie moyennant le paiement de droits dont le montant ne dépasse pas le coût supporté pour la fourniture de la copie.
+> 2005, ch. 48, art. 50; 2017, ch. 26, art. 62.
+
 
 
 
