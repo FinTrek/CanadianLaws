@@ -481,7 +481,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Forme et contenu**
 
-**33** Les comptes publics du Yukon sont établis dans la forme prescrite par le commissaire avec l’agrément du Conseil exécutif et selon les principes comptables recommandés pour le secteur public par l’Institut canadien des comptables agréés ou tout organisme lui succédant; ils comportent les éléments suivants :
+**33** Les comptes publics du Yukon sont établis dans la forme prescrite par le commissaire avec l’agrément du Conseil exécutif et selon les principes comptables recommandés pour le secteur public par Comptables professionnels agréés du Canada ou tout organisme lui succédant; ils comportent les éléments suivants :
 - **a)** les états financiers consolidés de l’administration du Yukon, lesquels comprennent :
 	- **(i)** le bilan en fin d’exercice,
 	- **(ii)** l’état de l’excédent ou du déficit accumulé en fin d’exercice,
@@ -489,6 +489,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iv)** l’évolution de la situation financière au cours de l’exercice;
 - **b)** les conclusions du vérificateur général du Canada au sujet des questions visées aux alinéas 34(1)a) et b);
 - **c)** les autres renseignements ou documents nécessaires à l’appui des états visés à l’alinéa a), ou dont la production est exigée sous le régime d’une loi de la législature.
+> 2002, ch. 7, art. 33; 2017, ch. 26, art. 62.
+
 
 
 
@@ -497,13 +499,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **34** 
 
-- **(1)** À la fin de chaque exercice, le vérificateur général du Canada vérifie, conformément aux normes de vérification recommandées par l’Institut canadien des comptables agréés ou tout organisme lui succédant, les comptes — y compris ceux qui ont trait au Trésor du Yukon — et les opérations financières publics du Yukon et indique si :
-	- **a)** les états financiers consolidés présentent fidèlement — à tous égards importants et en conformité avec les principes comptables recommandés pour le secteur public par le même institut ou tout organisme lui succédant — la situation financière de l’administration du Yukon en fin d’exercice, le résultat de ses activités, ainsi que l’évolution de sa situation financière;
+- **(1)** À la fin de chaque exercice, le vérificateur général du Canada vérifie, conformément aux normes de vérification recommandées par Comptables professionnels agréés du Canada ou tout organisme lui succédant, les comptes — y compris ceux qui ont trait au Trésor du Yukon — et les opérations financières publics du Yukon et indique si :
+	- **a)** les états financiers consolidés présentent fidèlement — à tous égards importants et en conformité avec les principes comptables recommandés pour le secteur public par cette même organisation ou tout organisme lui succédant — la situation financière de l’administration du Yukon en fin d’exercice, le résultat de ses activités, ainsi que l’évolution de sa situation financière;
 	- **b)** les opérations de l’administration du Yukon qui ont été portées à sa connaissance à l’occasion de la vérification étaient valides au regard des pouvoirs conférés à celle-ci par la présente loi et toute autre loi.
 
 **Rapport à l’assemblée**
 
 - **(2)** Le vérificateur général adresse à l’assemblée un rapport au sujet de toute question soumise à la vérification qui, à son avis, mérite d’être portée à son attention.
+> 2002, ch. 7, art. 34; 2017, ch. 26, art. 46 et 62.
+
 
 
 
@@ -914,20 +918,22 @@ Sont cependant soustraits à l’alinéa b) les claims au sens de la Loi sur l�
 
 **64** 
 
-- **(1)** Le gouvernement du Yukon s’engage à indemniser le gouvernement fédéral, ainsi que les préposés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires à l’égard :
+- **(1)** Le gouvernement du Yukon s’engage à indemniser le gouvernement fédéral, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l’égard :
 	- **a)** des biens réels domaniaux — exception faite de ceux dont le commissaire avait la gestion et la maîtrise au moment de l’entrée en vigueur du présent article — ou des droits relatifs aux eaux, dans les cas où ces faits sont accomplis alors que la gestion et la maîtrise en sont confiées au commissaire;
 	- **b)** des titres — ordonnances d’accès, permis, licences ou autres autorisations, baux et promesses de vente ou de location — en vigueur à la date de prise d’effet des dispositions de la présente loi prévoyant l’abrogation ou la cessation d’application des lois fédérales dont ils découlent, dans les cas où ces faits sont accomplis après cette date;
 	- **c)** des sûretés qui font l’objet d’une cession aux termes de l’accord;
 	- **d)** des documents qui lui sont communiqués par le gouvernement fédéral aux termes de l’accord, sauf si les faits en cause sont accomplis en conformité avec l’accord;
 	- **e)** de la remise en état de lieux effectuée en conformité avec l’accord.
 
-**Fonctionnaires fédéraux**
+**Indemnisation : obligations au titre de l’accord**
 
-- **(2)** Le gouvernement du Yukon s’engage à indemniser le gouvernement fédéral, ainsi que les préposés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant d’un manquement de sa part ou de celle de ses préposés et mandataires aux obligations qu’impose l’accord au gouvernement du Yukon relativement aux fonctionnaires fédéraux.
+- **(2)** Le gouvernement du Yukon s’engage à indemniser le gouvernement fédéral, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant d’un manquement de sa part ou de celle de ses employés et mandataires aux obligations qu’impose l’accord au gouvernement du Yukon relativement aux fonctionnaires fédéraux.
 
 **Garantie envers les premières nations**
 
-- **(3)** Le gouvernement du Yukon s’engage à indemniser les premières nations, ainsi que les préposés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires à l’égard de la remise en état de lieux effectuée, en conformité avec l’accord, sur les terres de ces premières nations.
+- **(3)** Le gouvernement du Yukon s’engage à indemniser les premières nations, ainsi que les employés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l’égard de la remise en état de lieux effectuée, en conformité avec l’accord, sur les terres de ces premières nations.
+> 2002, ch. 7, art. 64; 2017, ch. 26, art. 47(F).
+
 
 
 
@@ -936,7 +942,7 @@ Sont cependant soustraits à l’alinéa b) les claims au sens de la Loi sur l�
 
 **65** 
 
-- **(1)** Le gouvernement fédéral s’engage à indemniser le gouvernement du Yukon, ainsi que les préposés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires à l’égard :
+- **(1)** Le gouvernement fédéral s’engage à indemniser le gouvernement du Yukon, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l’égard :
 	- **a)** des biens réels domaniaux — exception faite de ceux dont le commissaire avait la gestion et la maîtrise au moment de l’entrée en vigueur du présent article — dans les cas où ces faits sont accomplis alors que le commissaire n’en avait pas la gestion et la maîtrise;
 	- **b)** des droits relatifs aux eaux du Yukon, dans les cas où ces faits sont accomplis avant que la gestion et la maîtrise en soient confiées au commissaire;
 	- **c)** des titres — ordonnances d’accès, permis, licences ou autres autorisations, baux et promesses de vente ou de location — découlant de lois fédérales, dans les cas où ces faits sont accomplis avant la date d’entrée en vigueur des dispositions de la présente loi prévoyant l’abrogation ou la cessation d’application de ces lois;
@@ -946,11 +952,13 @@ Sont cependant soustraits à l’alinéa b) les claims au sens de la Loi sur l�
 
 **Garantie du gouvernement fédéral**
 
-- **(2)** Le gouvernement fédéral s’engage à indemniser le gouvernement du Yukon, ainsi que les préposés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de la prise de mesures au titre des articles 49 à 51 ou 55.
+- **(2)** Le gouvernement fédéral s’engage à indemniser le gouvernement du Yukon, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de la prise de mesures au titre des articles 49 à 51 ou 55.
 
 **Garantie envers les premières nations**
 
-- **(3)** Le gouvernement fédéral s’engage à indemniser les premières nations, ainsi que les préposés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses préposés et mandataires à l’égard de la remise en état de lieux effectuée, en conformité avec l’accord, sur les terres de ces premières nations.
+- **(3)** Le gouvernement fédéral s’engage à indemniser les premières nations, ainsi que les employés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l’égard de la remise en état de lieux effectuée, en conformité avec l’accord, sur les terres de ces premières nations.
+> 2002, ch. 7, art. 65; 2017, ch. 26, art. 48(F).
+
 
 
 
