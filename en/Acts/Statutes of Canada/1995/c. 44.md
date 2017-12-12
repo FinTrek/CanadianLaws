@@ -35,7 +35,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Purpose of Act**
 
-**2** The purpose of this Act is to achieve equality in the workplace so that no person shall be denied employment opportunities or benefits for reasons unrelated to ability and, in the fulfilment of that goal, to correct the conditions of disadvantage in employment experienced by women, aboriginal peoples, persons with disabilities and members of visible minorities by giving effect to the principle that employment equity means more than treating persons in the same way but also requires special measures and the accommodation of differences.
+**2** The purpose of this Act is to achieve equality in the workplace so that no person shall be denied employment opportunities or benefits for reasons unrelated to ability and, in the fulfilment of that goal, to correct the conditions of disadvantage in employment experienced by women, Aboriginal peoples, persons with disabilities and members of visible minorities by giving effect to the principle that employment equity means more than treating persons in the same way but also requires special measures and the accommodation of differences.
+> 1995, c. 44, s. 2; 2017, c. 26, s. 19(E).
+
 
 
 
@@ -48,42 +50,42 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **3** In this Act,
 
-***aboriginal peoples*** means persons who are Indians, Inuit or Métis;
+***Aboriginal peoples*** means persons who are Indians, Inuit or Métis; (*autochtones*)
 
-***Canadian workforce*** means all persons in Canada of working age who are willing and able to work;
+***Canadian workforce*** means all persons in Canada of working age who are willing and able to work; (*population apte au travail*)
 
-***Chairperson*** means the chairperson of the Canadian Human Rights Tribunal;
+***Chairperson*** means the chairperson of the Canadian Human Rights Tribunal; (*président*)
 
-***Commission*** means the Canadian Human Rights Commission established under section 26 of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md);
+***Commission*** means the Canadian Human Rights Commission established under section 26 of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md); (*Commission*)
 
-***compliance officer*** means a person designated as an employment equity compliance review officer pursuant to subsection 22(3);
+***compliance officer*** means a person designated as an employment equity compliance review officer pursuant to subsection 22(3); (*agent d’application*)
 
-***designated groups*** means women, aboriginal peoples, persons with disabilities and members of visible minorities;
+***designated groups*** means women, Aboriginal peoples, persons with disabilities and members of visible minorities; (*groupes désignés*)
 
-***members of visible minorities*** means persons, other than aboriginal peoples, who are non-Caucasian in race or non-white in colour;
+***members of visible minorities*** means persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour; (*minorités visibles*)
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (*ministre*)
 
 ***Panel***[Repealed, 1998, c. 9, s. 37]
 
-***persons with disabilities*** means persons who have a long-term or recurring physical, mental, sensory, psychiatric or learning impairment and who
+***persons with disabilities*** means persons who have a long-term or recurring physical, mental, sensory, psychiatric or learning impairment and who
 - **(a)** consider themselves to be disadvantaged in employment by reason of that impairment, or
 - **(b)** believe that a employer or potential employer is likely to consider them to be disadvantaged in employment by reason of that impairment,
 
-and includes persons whose functional limitations owing to their impairment have been accommodated in their current job or workplace;
+and includes persons whose functional limitations owing to their impairment have been accommodated in their current job or workplace; (*personnes handicapées*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations;
+***prescribed*** means prescribed by the regulations; (***Version anglaise seulement***)
 
-***private sector employer*** means any person who employs one hundred or more employees on or in connection with a federal work, undertaking or business as defined in section 2 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and includes any corporation established to perform any function or duty on behalf of the Government of Canada that employs one hundred or more employees, but does not include
+***private sector employer*** means any person who employs one hundred or more employees on or in connection with a federal work, undertaking or business as defined in section 2 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and includes any corporation established to perform any function or duty on behalf of the Government of Canada that employs one hundred or more employees, but does not include
 - **(a)** a person who employs employees on or in connection with a work, undertaking or business of a local or private nature in Yukon, the Northwest Territories or Nunavut, or
-- **(b)** a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+- **(b)** a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*employeur du secteur privé*)
 
-***representatives*** means
+***representatives*** means
 - **(a)** those persons who have been designated by employees to act as their representatives, or
-- **(b)** bargaining agents, where bargaining agents represent the employees;
+- **(b)** bargaining agents, where bargaining agents represent the employees; (*représentants*)
 
-***Tribunal*** means an Employment Equity Review Tribunal established by subsection 28(1).
-> 1993, c. 28, s. 78; 1995, c. 44, s. 3; 1998, c. 9, s. 37, c. 15, s. 25; 2002, c. 7, s. 162(E).
+***Tribunal*** means an Employment Equity Review Tribunal established by subsection 28(1). (*tribunal*)
+> 1993, c. 28, s. 78; 1995, c. 44, s. 3; 1998, c. 9, s. 37, c. 15, s. 25; 2002, c. 7, s. 162(E); 2017, c. 26, s. 19(E).
 
 
 
@@ -174,9 +176,11 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 
 
-**Employment of aboriginal peoples**
+**Employment of Aboriginal peoples**
 
-**7** Notwithstanding any other provision of this Act, where a private sector employer is engaged primarily in promoting or serving the interests of aboriginal peoples, the employer may give preference in employment to aboriginal peoples or employ only aboriginal peoples, unless that preference or employment would constitute a discriminatory practice under the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+**7** Notwithstanding any other provision of this Act, where a private sector employer is engaged primarily in promoting or serving the interests of Aboriginal peoples, the employer may give preference in employment to Aboriginal peoples or employ only Aboriginal peoples, unless that preference or employment would constitute a discriminatory practice under the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+> 1995, c. 44, s. 7; 2017, c. 26, s. 19(E).
+
 
 
 
@@ -216,11 +220,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Self-identification**
 
-- **(2)** Only those employees who identify themselves to an employer, or agree to be identified by an employer, as aboriginal peoples, members of visible minorities or persons with disabilities are to be counted as members of those designated groups for the purposes of implementing employment equity.
+- **(2)** Only those employees who identify themselves to an employer, or agree to be identified by an employer, as Aboriginal peoples, members of visible minorities or persons with disabilities are to be counted as members of those designated groups for the purposes of implementing employment equity.
 
 **Confidentiality of information**
 
 - **(3)** Information collected by an employer under paragraph (1)(a) is confidential and shall be used only for the purpose of implementing the employer’s obligations under this Act.
+> 1995, c. 44, s. 9; 2017, c. 26, s. 19(E).
+
 
 
 
@@ -352,7 +358,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Self-identification**
 
-- **(4)** Only those employees who identify themselves to their employer, or agree to be identified by their employer, as aboriginal peoples, members of visible minorities and persons with disabilities are to be counted as members of those designated groups for the purposes of the report.
+- **(4)** Only those employees who identify themselves to their employer, or agree to be identified by their employer, as  Aboriginal peoples, members of visible minorities and persons with disabilities are to be counted as members of those designated groups for the purposes of the report.
 
 **Certificate required**
 
@@ -379,6 +385,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Copy to Commission**
 
 - **(10)** The Minister shall, on receipt of a report, send a copy of it to the Commission.
+> 1995, c. 44, s. 18; 2017, c. 26, s. 19(E).
+
 
 
 
@@ -554,7 +562,7 @@ the compliance officer shall inform the employer of the non-compliance and shall
 **Information re underrepresentation**
 
 - **(1.1)** Where
-	- **(a)** an employer has been informed of a non-compliance by a compliance officer under subsection (1) and the finding of non-compliance is based, in whole or in part, on the apparent underrepresentation of aboriginal peoples, members of visible minorities or persons with disabilities in the employer’s work force, as reflected in the employer’s work force analysis conducted pursuant to paragraph 9(1)(a), and
+	- **(a)** an employer has been informed of a non-compliance by a compliance officer under subsection (1) and the finding of non-compliance is based, in whole or in part, on the apparent underrepresentation of Aboriginal peoples, members of visible minorities or persons with disabilities in the employer’s work force, as reflected in the employer’s work force analysis conducted pursuant to paragraph 9(1)(a), and
 	- **(b)** the employer believes that the apparent underrepresentation is attributable to the decision of employees who may be members of the designated groups concerned not to identify themselves as such or not to agree to be identified by the employer as such under subsection 9(2),
 the employer may inform the compliance officer of such belief.
 
@@ -579,6 +587,8 @@ the employer may inform the compliance officer of such belief.
 **Amendment of direction**
 
 - **(4)** The Commission may rescind or amend a direction issued by the Commission pursuant to subsection (2) or (3) on the presentation of new facts or on being satisfied that the direction was issued without knowledge of, or was based on a mistake as to, a material fact.
+> 1995, c. 44, s. 25; 2017, c. 26, s. 19(E).
+
 
 
 
@@ -647,7 +657,7 @@ the employer may inform the compliance officer of such belief.
 
 **Acting after expiration of appointment**
 
-- **(4.1)** A member whose appointment expires may, with the approval of the Chairperson, conclude any hearing that the member has begun, and a person performing duties under this section is deemed to be a part-time member for the purposes of section 48.3 of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
+- **(4.1)** A member whose appointment expires may, with the approval of the Chairperson, conclude any hearing that the member has begun, and a person performing duties under this section is deemed to be a part-time member for the purposes of subsection 48.2(2) of the [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md).
 
 **Remuneration**
 
@@ -670,7 +680,7 @@ the employer may inform the compliance officer of such belief.
 **Security requirements**
 
 - **(10)** Every member or other person acting on behalf of or under the direction of a Tribunal who receives or obtains information relating to a request or application referred to in subsection (1) shall, with respect to access to and use of that information by that member or other person, satisfy any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of that information.
-> 1995, c. 44, s. 28; 1998, c. 9, s. 39; 2014, c. 20, s. 463.
+> 1995, c. 44, s. 28; 1998, c. 9, s. 39; 2014, c. 20, s. 463; 2017, c. 26, s. 18.
 
 
 
