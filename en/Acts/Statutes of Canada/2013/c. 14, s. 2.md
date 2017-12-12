@@ -735,7 +735,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Accounts**
 
-- **(2)** The Commission and the Board must maintain books of account, and records in relation to them, in accordance with accounting principles recommended by the Canadian Institute of Chartered Accountants or its successor.
+- **(2)** The Commission and the Board must maintain books of account, and records in relation to them, in accordance with accounting principles recommended by the Chartered Professional Accountants of Canada or its successor.
 
 **Consolidated financial statements**
 
@@ -744,6 +744,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Audit**
 
 - **(4)** The accounts, financial statements and financial transactions of the Commission and the Board must be audited annually by the auditor of the Commission or the Board, as the case may be, and, on request by the federal Minister, the Auditor General of Canada. The auditor and, if applicable, the Auditor General of Canada must make a written report of the audit to the Commission or the Board and to the federal Minister.
+> 2013, c. 14, s. 2 “39”; 2017, c. 26, s. 62.
+
 
 
 
