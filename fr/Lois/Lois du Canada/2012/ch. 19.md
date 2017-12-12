@@ -1858,11 +1858,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Modifications corrélatives
 
 
-
-##### [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md)
-
-
-**309** [Modification]
+**309** [Abrogé avant d’entrer en vigueur, 2017, ch. 26, art. 54]
 
 
 
