@@ -1338,6 +1338,6 @@ The following additives are excluded:
 **Note 2:** In column 2, ***wrapper fitted in spiral form*** means a wrapper of a cigar that is fitted with an acute angle of at least 30° to the longitudinal axis of the cigar.
 
 
-> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7; SOR/2017-45.
+> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7; 2017, c. 26, s. 20(F); SOR/2017-45.
 
 
