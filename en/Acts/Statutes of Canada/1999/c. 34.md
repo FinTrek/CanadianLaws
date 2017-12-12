@@ -734,7 +734,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Contents of statements**
 
-- **(5)** The annual financial statements shall show the information and particulars that in the opinion of the directors are necessary to present fairly, in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants, the financial position for each fund as at the end of the financial year to which it relates and the results of the operations of the Board for that financial year.
+- **(5)** The annual financial statements shall show the information and particulars that in the opinion of the directors are necessary to present fairly, in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada, the financial position for each fund as at the end of the financial year to which it relates and the results of the operations of the Board for that financial year.
 
 **Quarterly financial statements**
 
@@ -745,6 +745,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Approval by board of directors**
 
 - **(7)** The board of directors shall approve the annual financial statements and that approval shall be evidenced by the signature of at least one director of the Board.
+> 1999, c. 34, s. 35; 2017, c. 26, s. 62.
+
 
 
 
