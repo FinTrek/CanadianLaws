@@ -519,7 +519,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** cease the operation of any activity or any part of a work, undertaking or thing until the game officer is satisfied that the activity, work, undertaking or thing will be operated in accordance with this Act and the regulations;
 	- **(d)** move any conveyance to another location including, in the case of a vessel, moving the vessel into port or, in the case of an aircraft, landing the aircraft;
 	- **(e)** unload or reload the contents of any conveyance; and
-	- **(f)** take any other measure that the game officer considers necessary to facilitate compliance with the order or to protect or restore migratory birds or their nests, including, but not limited to,
+	- **(f)** take any other measure that the game officer considers necessary to facilitate compliance with the order or to protect or restore migratory birds or their nests, including
 		- **(i)** maintaining records on any relevant matter,
 		- **(ii)** reporting periodically to the game officer, and
 		- **(iii)** submitting to the game officer any information, proposal or plan specified by the game officer that sets out any action to be taken by the person with respect to the subject matter of the order.
@@ -547,7 +547,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(7)** An order is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2009, c. 14, s. 100
+> 2009, c. 14, s. 100; 2017, c. 26, s. 63(E)
 
 
 
