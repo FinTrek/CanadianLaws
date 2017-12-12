@@ -1858,11 +1858,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Consequential Amendments
 
 
-
-##### [Canadian Wheat Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-24.md)
-
-
-**309** [Amendment]
+**309** [Repealed before coming into force, 2017, c. 26, s. 54]
 
 
 
