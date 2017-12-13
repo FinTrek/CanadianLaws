@@ -2080,7 +2080,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **15** 1–Phenyl–N–propylcyclohexanamine and any salt thereof
 - **16** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
 - **17** Mescaline (3,4,5–trimethoxybenzeneethanamine) and any salt thereof, but not peyote (lophophora)
-- **18** 4–Methylaminorex (4,5–dihydro–4–methyl–5–phenyl–2–oxazolamine) and any salt thereof
+- **18** [Repealed, SOR/2017-249, s. 1]
 - **19** Cathinone ((-)-α-aminopropiophenone) and its salts
 - **20** Fenetylline (d,l–3,7–dihydro–1,3–dimethyl–7–(2–[(1–methyl–2–phenethyl)amino]ethyl)–1H–purine–2, 6–dione) and any salt thereof
 - **21** 2–Methylamino–1–phenyl–1–propanone and any salt thereof
@@ -2088,7 +2088,9 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **23** 1–[1–(4–Methylphenyl)cyclohexyl]piperidine and any salt thereof
 - **24** [Repealed, SOR/2016-73, s. 1]
 - **25 and 26** [Repealed, 2012, c. 1, s. 46]
-- **27** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
+- **27** Aminorex (5-phenyl-4,5-dihydro-1,3-oxazol-2-amine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
+- **(1)** 4-Methylaminorex (4-methyl-5-phenyl-4,5-dihydro-1,3-oxazol-2-amine)
+- **(2)** 4,4’-Dimethylaminorex (4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine)
 - **28** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
 - **29** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **30** Mesocarb (3-(α-methylphenethyl)-N-(phenylcarbamoyl)sydnone imine) and any salt thereof
@@ -2102,7 +2104,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; 2017, c. 7, s. 48; SOR/2017-13, s. 6; SOR/2017-44.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; 2017, c. 7, s. 48; SOR/2017-13, s. 6; SOR/2017-44, 249.
 
 
 
