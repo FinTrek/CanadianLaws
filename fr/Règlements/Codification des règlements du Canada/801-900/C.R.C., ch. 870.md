@@ -35614,15 +35614,17 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **6** Pentobarbital (acide éthyl-5 (méthyl-1 butyl)-5 barbiturique)
 - **7** Sécobarbital (acide allyl-5 (méthyl-1 butyl)-5 barbiturique)
 - **8** Acide hydroxy-4 butanoïque et ses sels
-- **9** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
-- **10** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
+- **9** Aminorex (phényl-5 dihydro-4,5 oxazol-1,3 amine-2), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
+- **(1)** Méthyl-4 aminorex (méthyl-4 phényl-5 dihydro-4,5 oxazol-1,3 amine-2)
+- **(2)** Diméthyl-4,4’ aminorex (méthyl-4 (méthyl-4 phényl)-5 dihydro-4,5 oxazol-1,3 amine-2)
+- **10** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
 - **11** Glutéthimide (éthyl-2 phényl-2 glutarimide)
 - **12** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **13** Mécloqualone (méthyl-2(chloro-2 phényl)-3 (3H)-quinazolinone-4) et ses sels
 - **14** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
 - **15** Pémoline (amino-2 phényl-5 oxazolinone-4) et ses sels
 - **16** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
-- **17** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5)amino]-7 heptanoïque et ses sels
+- **17** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5)amino]-7 heptanoïque et ses sels
 
 **PARTIE II** 
 
@@ -35675,22 +35677,22 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(5)** bolastérone (hydroxy-17ß diméthyl-7α,17 androstène-4 one-3)
 - **(6)** bolazine (hydroxy-17ß méthyl-2α 5α-androstanone-3 azine)
 - **(7)** boldénone (hydroxy-17ß androstadiène-1,4 one-3)
-- **(8)** bolénol (nor-19 17α-prégnène-5 ol-17)
+- **(8)** bolénol (nor-19 17α-prégnène-5 ol-17)
 - **(9)** calustérone (hydroxy-17ß diméthyl-7ß,17 androstène-4 one-3)
 - **(10)** clostébol (chloro-4 hydroxy-17ß androstène-4 one-3)
 - **(11)** drostanolone (hydroxy-17ß méthyl-2α 5α-androstanone-3)
 - **(12)** énestébol (dihydroxy-4,17ß méthyl-17 androstadiène-1,4 one-3)
 - **(13)** épitiostanol (épithio-2α,3α 5α-androstanol-17ß)
-- **(14)** éthylestrénol (nor-19 17α-prégnène-4 ol-17)
+- **(14)** éthylestrénol (nor-19 17α-prégnène-4 ol-17)
 - **(15)** hydroxy-4 nor-19 testostérone
 - **(16)** fluoxymestérone (fluoro-9 dihydroxy-11ß,17ß méthyl-17 androstène-4 one-3)
 - **(17)** formébolone (dihydroxy-11α,17ß méthyl-17 oxo-3 androstadiène-1,4 carboxaldéhyde-2)
-- **(18)** furazabol (méthyl-17 5α-androstano[2,3-c]furazanol-17ß)
-- **(19)** mébolazine (hydroxy-17ß diméthyl-2α,17 5α-androstanone-3 azine)
+- **(18)** furazabol (méthyl-17 5α-androstano[2,3-c]furazanol-17ß)
+- **(19)** mébolazine (hydroxy-17ß diméthyl-2α,17 5α-androstanone-3 azine)
 - **(20)** mésabolone ([(méthoxy-1 cyclohexyl) oxy]-17ß 5α-androstène-1 one-3)
 - **(21)** mestérolone (hydroxy-17ß méthyl-1α 5α-androstanone-3)
 - **(22)** métandiénone (hydroxy-17ß méthyl-17 androstadiène-1,4 one-3)
-- **(23)** méténolone (hydroxy-17ß méthyl-1 5α-androstène-1 one-3)
+- **(23)** méténolone (hydroxy-17ß méthyl-1 5α-androstène-1 one-3)
 - **(24)** méthandriol (méthyl-17α androstène-5 diol-3ß,17ß)
 - **(25)** méthyltestostérone (hydroxy-17ß méthyl-17 androstène-4 one-3)
 - **(26)** métribolone (hydroxy-17ß méthyl-17 estratriène-4,9,11 one-3)
@@ -35700,19 +35702,19 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(30)** norclostébol (chloro-4 hydroxy-17ß estrène-4 one-3)
 - **(31)** noréthandrolone (éthyl-17α hydroxy-17ß estrène-4 one-3)
 - **(32)** oxabolone (dihydroxy-4,17ß estrène-4 one-3)
-- **(33)** oxandrolone (hydroxy-17ß méthyl-17 oxa-2 5α-androstanone-3)
+- **(33)** oxandrolone (hydroxy-17ß méthyl-17 oxa-2 5α-androstanone-3)
 - **(34)** oxymestérone (dihydroxy-4,17ß méthyl-17 androstène-4 one-3)
-- **(35)** oxymétholone (hydroxy-17ß (hydroxyméthylène)-2 méthyl-17 5α-androstanone-3)
+- **(35)** oxymétholone (hydroxy-17ß (hydroxyméthylène)-2 méthyl-17 5α-androstanone-3)
 - **(36)** prastérone (hydroxy-3ß androstène-5 one-17)
 - **(37)** quinbolone ((cyclopentènyl-1 oxy-1)-17ß androstadiène-1,4 one-3)
-- **(38)** stanozolol (hydroxy-17ß méthyl-17 5α-androstano[3,2-c]pyrazole)
-- **(39)** stenbolone (hydroxy-17ß méthyl-2 5α-androstène-1 one-3)
+- **(38)** stanozolol (hydroxy-17ß méthyl-17 5α-androstano[3,2-c]pyrazole)
+- **(39)** stenbolone (hydroxy-17ß méthyl-2 5α-androstène-1 one-3)
 - **(40)** testostérone (hydroxy-17ß androstène-4 one-3)
-- **(41)** tibolone (hydroxy-17 méthyl-7α nor-19 17α-prégnène-5(10) yne-20 one-3)
+- **(41)** tibolone (hydroxy-17 méthyl-7α nor-19 17α-prégnène-5(10) yne-20 one-3)
 - **(42)** tiomestérone (bis(acétylthio)-1α,7α hydroxy-17ß méthyl-17 androstène-4 one-3)
 - **(43)** trenbolone (hydroxy-17ßestratriène-4,9,11 one-3)
-- **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
-> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1; DORS/2017-12, art. 1, 2(A); DORS/2017-43, art. 1.
+- **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
+> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1; DORS/2017-12, art. 1, 2(A); DORS/2017-43, art. 1; DORS/2017-250, art. 1.
 
 
 
@@ -36427,7 +36429,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **11** [(Thiényl-2)-1 cyclohexyl]-1 pipéridine (TCP) et ses sels
 - **12** Phényl-1 N-propylcyclohexanamine et ses sels
 - **13** Mescaline (triméthoxy-3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
-- **14** Méthyl-4 aminorex (dihydro-4,5 méthyl-4 phényl-5 oxazolamine-2) et ses sels
+- **14** [Abrogé, DORS/2017-250, art. 2]
 - **15** Méthylamino-2 phényl-1 propanone-1 et ses sels
 - **16** [Cyclohexyl (phénylméthyl)-1] pipéridine-1 et ses sels
 - **17** [Cyclohexyl (méthyl-4 phényl)-1] pipéridine-1 et ses sels
@@ -36461,7 +36463,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(1)** cathine (*d*-thréo-amino-2 hydroxy-1 phényl-1 propane)
 - mais non compris :
 - **(2)** cathinone (*l*-α-aminopropiophénone) et ses sels
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4.
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2.
 
 
 
