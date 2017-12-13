@@ -35664,7 +35664,9 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **6** Pentobarbital (5-ethyl-5-(1-methylbutyl)barbituric acid)
 - **7** Secobarbital (5-allyl-5-(1-methylbutyl)barbituric acid)
 - **8** 4-hydroxybutanoic acid (GHB) and any salt thereof
-- **9** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
+- **9** Aminorex (5-phenyl-4,5-dihydro-1,3-oxazol-2-amine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
+- **(1)** 4-Methylaminorex (4-methyl-5-phenyl-4,5-dihydro-1,3-oxazol-2-amine)
+- **(2)** 4,4’-Dimethylaminorex (4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine)
 - **10** Fenetylline (d,l-3,7-dihydro-1,3-dimethyl-7-(2-[(1-methyl-2-phenethyl)amino]ethyl)-1H-purine-2,6-dione) and any salt thereof
 - **11** Glutethimide (2-ethyl-2-phenylglutarimide)
 - **12** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
@@ -35733,7 +35735,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(13)** Epitiostanol (2α, 3α-epithio-5α-androstan-17ß-ol)
 - **(14)** Ethylestrenol (19-nor-17α-pregn-4-en-17-ol)
 - **(15)** 4-Hydroxy-19-nor testosterone
-- **(16)** Fluoxymesterone (9-fluoro-11ß,17ß-dihydroxy—17-methylandrost-4-en-3-one)
+- **(16)** Fluoxymesterone (9-fluoro-11ß,17ß-dihydroxy — 17-methylandrost-4-en-3-one)
 - **(17)** Formebolone (11α,17ß-dihydroxy-17-methyl-3-oxoandrosta-1,4-dien-2-carboxaldehyde)
 - **(18)** Furazabol (17-methyl-5α-androstano[2,3-c]furazan-17ß-ol)
 - **(19)** Mebolazine (17ß-hydroxy-2α,17-dimethyl-5α-androstan-3-one azine)
@@ -35762,7 +35764,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(42)** Tiomesterone (1α,7α-bis(acetylthio)-17ß-hydroxy-17-methylandrost-4-en-3-one)
 - **(43)** Trenbolone (17ß-hydroxyestra-4,9,11-trien-3-one)
 - **2** Zeranol (3,4,5,6,7,8,9,10,11,12-decahydro-7,14,16-trihydroxy-3-methyl-1H-2-benzoxacyclotetradecin-1-one)
-> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1; SOR/2016-106, s. 1; SOR/2017-12, ss. 1, 2(E); SOR/2017-43, s. 1.
+> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1; SOR/2016-106, s. 1; SOR/2017-12, ss. 1, 2(E); SOR/2017-43, s. 1; SOR/2017-250, s. 1.
 
 
 
@@ -36477,7 +36479,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **11** 1-[1-(2-Thienyl)cyclohexyl]piperidine (TCP) and any salt thereof
 - **12** 1-Phenyl-N-propylcyclohexanamine and any salt thereof
 - **13** Mescaline (3,4,5-trimethoxybenzeneethanamine) and any salt thereof, but not peyote (lophophora)
-- **14** 4-Methylaminorex (4,5-dihydro-4-methyl-5-phenyl-2-oxazolamine) and any salt thereof
+- **14** [Repealed, SOR/2017-250, s. 2]
 - **15** 2-Methylamino-1-phenyl-1-propanone and any salt thereof
 - **16** 1-[1-(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
 - **17** 1-[1-(4-Methylphenyl)cyclohexyl]piperidine and any salt thereof
@@ -36507,11 +36509,11 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-- **2** *Catha edulis* Forsk, its preparations, derivatives, alkaloids and salts, including 
+- **2** *Catha edulis* Forsk, its preparations, derivatives, alkaloids and salts, including
 - **(1)** Cathine (*d*-threo-2-amino-1-hydroxy-1-phenylpropane)
 - but not including
 - **(2)** Cathinone ((-)-α-aminopropiophenone) and its salts
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4.
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2.
 
 
 
