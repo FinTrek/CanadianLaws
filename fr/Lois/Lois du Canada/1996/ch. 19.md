@@ -2046,7 +2046,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **15** Phényl–1 N–propylcyclohexanamine et ses sels
 - **16** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
 - **17** Mescaline (triméthoxy–3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
-- **18** Méthyl–4 aminorex (dihydro–4,5 méthyl–4 phényl–5 oxazolamine–2) et ses sels
+- **18** [Abrogé, DORS/2017-249, art. 1]
 - **19** Cathinone (*l*-α-aminopropiophénone) et ses sels
 - **20** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
 - **21** Méthylamino–2 phényl–1 propanone–1 et ses sels
@@ -2054,7 +2054,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **23** [Cyclohexyl (méthyl–4 phényl)–1] pipéridine–1 et ses sels
 - **24** [Abrogé, DORS/2016-73, art. 1]
 - **25 et 26** [Abrogés, 2012, ch. 1 art. 46]
-- **27** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
+- **27** Aminorex (phényl-5 dihydro-4,5 oxazol-1,3 amine-2), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
+- **(1)** Méthyl-4 aminorex (méthyl-4 phényl-5 dihydro-4,5 oxazol-1,3 amine-2)
+- **(2)** Diméthyl-4,4’ aminorex (méthyl-4 (méthyl-4 phényl)-5 dihydro-4,5 oxazol-1,3 amine-2)
 - **28** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
 - **29** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **30** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
@@ -2068,7 +2070,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; 2017, ch. 7, art. 48; DORS/2017-13, art. 6; DORS/2017-44.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; 2017, ch. 7, art. 48; DORS/2017-13, art. 6; DORS/2017-44, 249.
 
 
 
