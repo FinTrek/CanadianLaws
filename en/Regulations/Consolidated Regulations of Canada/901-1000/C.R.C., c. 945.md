@@ -1343,16 +1343,18 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(h)** a small business investment trust (within the meaning assigned by subsection 5103(1)).
 	- **(i)** [Repealed, SOR/2005-264, s. 4]
 
-- **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 204, 205 or 207.01 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
+- **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 146.4, 204 or 207.01 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
 
 - **(3)** [Repealed, SOR/2005-264, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125; 2009, c. 2, s. 88; SOR/2010-93, s. 6(E).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125; 2009, c. 2, s. 88; SOR/2010-93, s. 6(E); 2017, c. 33, s. 83.
 
 
 
 
-**222** [Repealed, SOR/2000-62, s. 1]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-62, s. 1.
+**222** The issuer of a RDSP, or the promoter of a RESP, that governs a trust shall notify the holders of the RDSP, or subscribers of the RESP, in prescribed form and manner before March of a calendar year if, at any time during the preceding calendar year,
+- **(a)** the trust acquires or disposes of property that is a not a qualified investment for the trust; or
+- **(b)** property held by the trust becomes or ceases to be a qualified investment for the trust.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-62, s. 1; 2017, c. 33, s. 84.
 
 
 
@@ -1963,35 +1965,35 @@ is of
 	- **(a)** if that time is a policy anniversary of the policy, the accumulating fund of the policy at that time (determined without regard to any policy loan) does not exceed the total of the accumulating funds at that time of the exemption test policies issued at or before that time in respect of the policy;
 	- **(b)** assuming that the terms and conditions of the policy do not change from those in effect on the last policy anniversary of the policy at or before that time and, where necessary, making reasonable assumptions about all other factors (including, in the case of a participating life insurance policy within the meaning assigned by subsection 138(12) of the Act, the assumption that the amounts of dividends paid will be as shown in the dividend scale),
 		- **(i)** if the policy is issued before 2017, it is reasonable to expect that the condition in paragraph (a) will be met on each policy anniversary of the policy on which the policy could remain in force after that time and before the endowment date of the exemption test policies issued in respect of the policy, and
-		- **(ii)** if the policy is issued after 2016, it is reasonable to expect — without reference to any automatic adjustments under the policy that may be made after that time to ensure that the policy is an exempt policy and, where applicable, making projections using the most recent values that are used to calculate the accumulating fund in respect of the policy or in respect of each exemption test policy issued in respect of a coverage under the policy, as the case may be — that the condition in paragraph (a) will be met on the policy’s next policy anniversary;
+		- **(ii)** if the policy is issued after 2016, it is reasonable to expect — without reference to any automatic adjustments under the policy that may be made after that time to ensure that the policy is an exempt policy and, where applicable, making projections using the most recent values that are used to calculate the accumulating fund in respect of the policy or in respect of each exemption test policy issued in respect of a coverage under the policy, as the case may be — that the condition in paragraph (a) will be met on the policy’s next policy anniversary;
 	- **(c)** the condition in paragraph (a) was met on all policy anniversaries of the policy before that time; and
 	- **(d)** the condition in paragraph (b) was met at all times on and after the first policy anniversary of the policy and before that time.
 
 - **(2)** For the purposes of subsection (1), a life insurance policy that is an exempt policy on its first policy anniversary shall be deemed to have been an exempt policy from the time of its issue until that anniversary.
 
 - **(3)** For the purposes of this section and section 307,
-	- **(a)** in the case of a life insurance policy issued before 2017 or at a particular time determined under subsection 148(11) of the Act, a separate exemption test policy is deemed, subject to subsection (7), to be issued in respect of the life insurance policy
+	- **(a)** in the case of a life insurance policy issued before 2017, a separate exemption test policy is deemed, subject to subsection (7), to be issued in respect of the life insurance policy
 		- **(i)** on the date of issue of the life insurance policy, and
-		- **(ii)** on each policy anniversary (that ends before the particular time, if any, determined under subsection 148(11) of the Act in respect of the policy) of the life insurance policy on which
+		- **(ii)** on each policy anniversary of the life insurance policy on which
 			- **(A)** the amount of the benefit on death under the life insurance policyexceeds
 			- **(B)** 108% of the amount of the benefit on death under the life insurance policy on the later of the life insurance policy’s date of issue and the date of the life insurance policy’s preceding policy anniversary, if any; and
-	- **(b)** in the case of a life insurance policy issued after 2016 (including, for greater certainty, at a particular time determined under subsection 148(11) of the Act in respect of the policy), a separate exemption test policy is deemed, subject to subsection (7), to be issued in respect of each coverage under the life insurance policy
-		- **(i)** unless the particular time when the policy is issued is determined under subsection 148(11) of the Act and the coverage was issued before the particular time, on the date of
+	- **(b)** in the case of a life insurance policy issued after 2016, a separate exemption test policy is deemed, subject to subsection (7), to be issued in respect of each coverage under the life insurance policy
+		- **(i)** on the date of
 			- **(A)** issue of the life insurance policy, if the coverage is issued before the first policy anniversary of the life insurance policy,
 			- **(B)** issue of the coverage, if the coverage is issued on a policy anniversary of the life insurance policy, or
 			- **(C)** the life insurance policy’s preceding policy anniversary, if the coverage is issued on any date that is after the policy’s first policy anniversary and that is not a policy anniversary,
-		- **(ii)** on each policy anniversary of the life insurance policy (except that, if a particular time when the policy is issued has been determined under subsection 148(11) of the Act, only on a policy anniversary that ends at or after the particular time) on which
+		- **(ii)** on each policy anniversary of the life insurance policy on which
 			- **(A)** the amount of the benefit on death under the coverage on that policy anniversaryexceeds
 			- **(B)** 108% of the amount of the benefit on death under the coverage, on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue), and
-		- **(iii)** on each policy anniversary of the life insurance policy (except that, if a particular time when the policy is issued has been determined under subsection 148(11) of the Act, only on a policy anniversary that ends at or after the particular time) — except to the extent that another exemption test policy has been issued on that date under this subparagraph in respect of a coverage under the life insurance policy — on which
+		- **(iii)** on each policy anniversary of the life insurance policy — except to the extent that another exemption test policy has been issued on that date under this subparagraph in respect of a coverage under the life insurance policy — on which
 			- **(A)** the amount by which the fund value benefit under the life insurance policy on that policy anniversary exceeds the fund value benefit under the life insurance policy on the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the date of issue of the policy)exceeds
 			- **(B)** the amount by which
 				- **(I)** 8% of the amount of the benefit on death under the life insurance policy on the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the date of issue of the policy)exceeds
 				- **(II)** the total of all amounts each of which is, in respect of a coverage under the policy, the lesser of
-					- **1.** the amount by which the amount of the benefit on death under the coverage on that policy anniversary exceeds the amount of the benefit on death under the coverage on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue), and
-					- **2.** 8% of the amount of the benefit on death under the coverage on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue).
+					- **1** the amount by which the amount of the benefit on death under the coverage on that policy anniversary exceeds the amount of the benefit on death under the coverage on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue), and
+					- **2** 8% of the amount of the benefit on death under the coverage on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue).
 
-- **(4)** Subject to subsection (10), for the purpose of determining whether the condition in paragraph (1)(a) is met on a policy anniversary of a life insurance policy, each exemption test policy issued in respect of the life insurance policy, or in respect of a coverage under the life insurance policy, is deemed
+- **(4)** For the purpose of determining whether the condition in paragraph (1)(a) is met on a policy anniversary of a life insurance policy, each exemption test policy issued in respect of the life insurance policy, or in respect of a coverage under the life insurance policy, is deemed
 	- **(a)** to have a benefit on death that is uniform throughout the term of the exemption test policy and that, subject to subsection (5), is equal to
 		- **(i)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(a)(i), the amount by which the amount on that policy anniversary of the benefit on death under the life insurance policy exceeds the total of all amounts each of which is the amount, if any, on that policy anniversary of the benefit on death under another exemption test policy issued on or before that policy anniversary in respect of the life insurance policy,
 		- **(ii)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(a)(ii), the amount of the excess referred to in that subparagraph on that date in respect of the life insurance policy,
@@ -2019,7 +2021,7 @@ where
 				- **(II)** in any other case, the date of death of the individual whose life is insured under the coverage, and
 		- **(ii)** the exemption test policy’s endowment date.
 
-- **(5)** Subject to subsection (10), for the purpose of determining the amount of a benefit on death under an exemption test policy,
+- **(5)** For the purpose of determining the amount of a benefit on death under an exemption test policy,
 	- **(a)** if the exemption test policy is issued in respect of a life insurance policy issued before 2017 and at any time the amount of a benefit on death under the life insurance policy is reduced, a particular amount that is equal to the reduction is to be applied at that time to reduce the amount of the benefit on death under each exemption test policy issued before that time in respect of the life insurance policy (other than the exemption test policy the date of issue of which is determined under subparagraph (3)(a)(i)) in the order in which the dates of their issuance are proximate to that time, by an amount equal to the lesser of
 		- **(i)** the portion, if any, of the particular amount not applied to reduce the benefit on death under one or more other such exemption test policies, and
 		- **(ii)** the amount, immediately before that time, of the benefit on death under the relevant exemption test policy; and
@@ -2030,7 +2032,9 @@ where
 
 - **(6)** Subsection (7) applies at any time in respect of a life insurance policy if
 	- **(a)** that time is on its tenth or a later policy anniversary;
-	- **(b)** the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy at that time exceeds 250% of the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy on its third preceding policy anniversary; and
+	- **(b)** the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy at that time exceeds 250% of
+		- **(i)** in the case where the particular time at which the policy is issued is determined under subsection 148(11) of the Act and the policy’s third preceding policy anniversary is before the particular time, the accumulating fund (computed without regard to any amount payable in respect of a policy loan and as though the policy were issued after 2016) in respect of the policy on that third preceding policy anniversary, and
+		- **(ii)** in any other case, the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy on its third preceding policy anniversary; and
 	- **(c)** where that time is after 2016,
 		- **(i)** the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy at that time exceeds the total of all amounts each of which is
 			- **(A)** if the policy is issued before 2017, 3/20 of the accumulating fund, at that time, in respect of an exemption test policy issued in respect of the policy, and
@@ -2040,7 +2044,7 @@ where
 - **(7)** If this subsection applies at any time in respect of a life insurance policy, each exemption test policy issued before that time in respect of the life insurance policy is at and after that time deemed to be issued (except for purposes of this subsection, paragraph (4)(a) and subsection (5))
 	- **(a)** on the later of
 		- **(i)** the date of the third preceding policy anniversary described in paragraph (6)(b) in respect of the policy, and
-		- **(ii)** the date on which it was deemed by subsection (3) to be issued (determined immediately before that time); and
+		- **(ii)** the date on which it was deemed by subsection (3) or (10), as the case may be, to be issued (determined immediately before that time); and
 	- **(b)** not at any other time.
 
 - **(8)** A life insurance policy that would, in the absence of this subsection, cease (other than by reason of its conversion into an annuity contract) on a policy anniversary of the policy to be an exempt policy is deemed to be an exempt policy on that policy anniversary if
@@ -2051,10 +2055,22 @@ where
 	- **(a)** a prescribed premium is paid by a taxpayer in respect of an interest, last acquired before December 2, 1982, in the policy; or
 	- **(b)** an interest in the policy is acquired by a taxpayer from the person who held the interest continuously since December 1, 1982.
 
-- **(10)** If a particular time when a life insurance policy is issued has been determined under subsection 148(11) of the Act, in applying subsections (4) and (5) at or after the particular time to an exemption test policy issued before the particular time in respect of the policy,
-	- **(a)** subparagraphs (4)(a)(iii) and (iv), and not subparagraph (4)(a)(i) or (ii), apply to the exemption test policy; and
-	- **(b)** for greater certainty, paragraph (5)(b), and not paragraph (5)(a), applies to the exemption test policy.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-415, s. 2; SOR/94-686, ss. 55(F), 56(F); 2013, c. 40, s. 97; 2014, c. 39, s. 81.
+- **(10)** Notwithstanding subsections (3) and (4), if a life insurance policy is issued for any purpose at a particular time determined under subsection 148(11) of the Act, then for the purposes of applying this section (other than this subsection and subsection (9)) and section 307 in respect of the life insurance policy at and after the particular time,
+	- **(a)** in respect of each coverage issued before the particular time under the life insurance policy, a separate exemption test policy is deemed to be issued in respect of a coverage under the life insurance policy
+		- **(i)** on the date of issue of the life insurance policy, and
+		- **(ii)** on each policy anniversary that ends before the particular time of the life insurance policy on which
+			- **(A)** the amount of the benefit on death under the life insurance policyexceeds
+			- **(B)** 108% of the amount of the benefit on death under the life insurance policy on the later of the life insurance policy’s date of issue and the date of the life insurance policy’s preceding policy anniversary, if any;
+	- **(b)** in respect of each coverage issued before the particular time under the life insurance policy, subsection (3) does not apply to deem an exemption test policy to be issued in respect of the policy, or in respect of a coverage under the policy, at any time before the particular time;
+	- **(c)** in respect of each exemption test policy the date of issuance of which is determined under subparagraph (a)(i), the references in subparagraph (4)(a)(iii) and paragraph (5)(b) to “subparagraph (3)(b)(i)” are to be read as references to “subparagraph (10)(a)(i)”;
+	- **(d)** in respect of each exemption test policy the date of issuance of which is determined under subparagraph (a)(ii), subparagraph (4)(a)(iv) is to be read as follows:
+
+		- **(iv)** if the date on which the exemption test policy is issued is determined by subparagraph (10)(a)(ii) at a time before a particular time, the portion of the amount – that amount being the amount that would be determined, at the time immediately before the particular time, under subparagraph (a)(ii), if the exemption test policy were issued in respect of the policy on the same date as the date determined for it under subparagraph (10)(a)(ii) – that can be reasonably allocated to the coverage in the circumstances (and for these purposes, an allocation is considered not to be reasonable if the total of the amounts determined for A and B in subparagraph (a)(iii) is less than the amount determined for C in that subparagraph in respect of the exemption test policy the date of issuance of which is determined under subparagraph (10)(a)(i) in respect of the coverage), and
+
+
+and
+	- **(e)** in applying paragraph (5)(b), the reference in that paragraph to “any time” is to be read as “any time at or after the particular time referred to in subsection (10) in respect of the life insurance policy”.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-415, s. 2; SOR/94-686, ss. 55(F), 56(F); 2013, c. 40, s. 97; 2014, c. 39, s. 81; 2017, c. 33, s. 85.
 
 
 
@@ -2497,15 +2513,31 @@ by the corporation.
 **404** 
 
 - **(1)** Notwithstanding subsections 402(3) and (4), the amount of taxable income that is deemed to have been earned by a bank in a taxation year in a province in which it had a permanent establishment is 1/3 of the total of
-	- **(a)** that proportion of its taxable income for the year that the aggregate of the salaries and wages paid in the year by the bank to employees of its permanent establishment in the province is of the aggregate of all salaries and wages paid in the year by the bank; and
-	- **(b)** twice that proportion of its taxable income for the year that the aggregate amount of loans and deposits of its permanent establishment in the province for the year is of the aggregate amount of all loans and deposits of the bank for the year.
+	- **(a)** the proportion of its taxable income for the year that the total of the salaries and wages paid in the year by the bank to employees of its permanent establishment in the province is of the total of all salaries and wages paid in the year by the bank; and
+	- **(b)** twice the proportion of its taxable income for the year that the total amount of loans and deposits of its permanent establishment in the province for the year is of the total amount of all loans and deposits of the bank for the year.
 
-- **(2)** For the purposes of subsection (1), the amount of loans for a taxation year is 1/12 of the aggregate of the amounts outstanding, on the loans made by the bank, at the close of business on the last day of each month in the year.
+- **(2)** For the purposes of subsection (1), the amount of loans for a taxation year is 1/12 of the total of the amounts outstanding, on the loans made by the bank, at the close of business on the last day of each month in the year.
 
-- **(3)** For the purposes of subsection (1), the amount of deposits for a taxation year is 1/12 of the aggregate of the amounts on deposit with the bank at the close of business on the last day of each month in the year.
+- **(3)** For the purposes of subsection (1), the amount of deposits for a taxation year is 1/12 of the total of the amounts on deposit with the bank at the close of business on the last day of each month in the year.
 
 - **(4)** For the purposes of subsections (2) and (3), loans and deposits do not include bonds, stocks, debentures, items in transit and deposits in favour of Her Majesty in right of Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 2; SOR/2009-302, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 2; SOR/2009-302, s. 3; 2017, c. 33, s. 86.
+
+
+
+
+**404.1** 
+
+- **(1)** Notwithstanding subsections 402(3) and (4), the amount of taxable income that is deemed to have been earned by a federal credit union in a taxation year in a province in which it had a permanent establishment is 1/3 of the total of
+	- **(a)** the proportion of its taxable income for the year that the total of the salaries and wages paid in the year by the federal credit union to employees of its permanent establishment in the province is of the total of all salaries and wages paid in the year by the federal credit union, and
+	- **(b)** twice the proportion of its taxable income for the year that the total amount of loans and deposits of its permanent establishment in the province for the year is of the total amount of all loans and deposits of the federal credit union for the year.
+
+- **(2)** For the purposes of subsection (1), the amount of loans for a taxation year is 1/12 of the total of the amounts outstanding, on the loans made by the federal credit union, at the close of business on the last day of each month in the year.
+
+- **(3)** For the purposes of subsection (1), the amount of deposits for a taxation year is 1/12 of the total of the amounts on deposit with the federal credit union at the close of business on the last day of each month in the year.
+
+- **(4)** For the purposes of subsections (2) and (3), loans and deposits do not include bonds, stocks, debentures, items in transit and deposits in favour of Her Majesty in right of Canada.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2017, c. 33, s. 87.
 
 
 
@@ -2652,10 +2684,10 @@ in that place.
 ### Divided Businesses
 
 
-**412** Where part of the business of a corporation for a taxation year, other than a corporation described in section 403, 404, 405, 406, 407, 408, 409, 410 or 411, consisted of operations normally conducted by a corporation described in one of those sections, the corporation and the Minister may agree to determine the amount of taxable income deemed to have been earned in the year in a particular province to be the aggregate of the amounts computed
+**412** If part of the business of a corporation for a taxation year, other than a corporation described in any of sections 403, 404, 404.1, 405, 406, 407, 408, 409, 410 and 411, consisted of operations normally conducted by a corporation described in one of those sections, the corporation and the Minister may agree to determine the amount of taxable income deemed to have been earned in the year in a particular province to be the total of the amounts computed
 - **(a)** by applying the provisions of such of those sections as would have been applicable if it had been a corporation described therein to the portion of its taxable income for the year that might reasonably be considered to have arisen from that part of the business; and
 - **(b)** by applying the provisions of section 402 to the remaining portion of its taxable income for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2017, c. 33, s. 88.
 
 
 
@@ -2809,10 +2841,10 @@ where
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
+- **(b)** subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 91(1.4), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
 - **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382, c. 40, s. 98; 2016, c. 12, s. 76.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382, c. 40, s. 98; 2016, c. 12, s. 76; 2017, c. 33, s. 89.
 
 
 
@@ -2956,18 +2988,14 @@ is of
 ### International Organizations and Agencies
 
 
-**806** For the purposes of clause 212(1)(b)(ii)(B) of the Act, the following international organizations and agencies are hereby prescribed:
-- **(a)** Bank for International Settlements;
-- **(b)** European Fund;
-- **(c)** International Bank for Reconstruction and Development;
-- **(d)** International Development Association;
-- **(e)** International Finance Corporation; and
-- **(f)** International Monetary Fund.
+**806** For the purposes of paragraph (c) of the definition fully exempt interest in subsection 212(3) of the Act, the Bank for International Settlements and the European Bank for Reconstruction and Development are prescribed.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2017, c. 33, s. 90.
 
 
 
-**806.1** For the purposes of subparagraph 212(1)(b)(x) of the Act, the Bank for International Settlements and the European Bank for Reconstruction and Development are prescribed international agencies.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 4; SOR/94-188, s. 1.
+
+**806.1** [Repealed, 2017, c. 33, s. 90]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 4; SOR/94-188, s. 1; 2017, c. 33, s. 90.
 
 
 
@@ -4819,15 +4847,15 @@ the taxpayer may, by letter attached to the return of income of the taxpayer fil
 
 - **(1)** Where the taxpayer is an individual and his income for the taxation year includes income from a business the fiscal period of which does not coincide with the calendar year, in respect of the depreciable properties acquired for the purpose of gaining or producing income from the business, a reference in this Part to
 
-***end of the taxation year*** shall be deemed to be a reference to the end of the fiscal period of the business; (*la fin de l’année d’imposition*)
+***end of the taxation year*** shall be deemed to be a reference to the end of the fiscal period of the business; (*la fin de l’année d’imposition*)
 
-***taxation year*** shall be deemed to be a reference to the fiscal period of the business. (*l’année d’imposition*)
+***taxation year*** shall be deemed to be a reference to the fiscal period of the business. (*l’année d’imposition*)
 
 - **(2)** In this Part and in Schedule II,
 
-***bitumen development phase*** of a taxpayer’s oil sands project means a development phase that expands the oil sands project’s capacity to extract and initially process tar sands to produce bitumen or a similar product; (*phase de mise en valeur du bitume*)
+***bitumen development phase*** of a taxpayer’s oil sands project means a development phase that expands the oil sands project’s capacity to extract and initially process tar sands to produce bitumen or a similar product; (*phase de mise en valeur du bitume*)
 
-***certified feature film*** means a motion picture film certified by the Minister of Communications to be a film of not less than 75 minutes running time in respect of which all photography or art work specifically required for the production thereof and all film editing therefor were commenced after November 18, 1974, and either the film was completed before May 26, 1976, or the photography or art work was commenced before May 26, 1976, and certified by him to be
+***certified feature film*** means a motion picture film certified by the Minister of Communications to be a film of not less than 75 minutes running time in respect of which all photography or art work specifically required for the production thereof and all film editing therefor were commenced after November 18, 1974, and either the film was completed before May 26, 1976, or the photography or art work was commenced before May 26, 1976, and certified by him to be
 - **(a)** a film the production of which is contemplated in a coproduction agreement entered into between Canada and another country, or
 - **(b)** a film in respect of which
 	- **(i)** the person who performed the duties of producer was a Canadian,
@@ -4844,7 +4872,7 @@ other than a film
 - **(c)** acquired after the day that is the earlier of
 	- **(i)** the day of its first commercial use, and
 	- **(ii)** 12 months after the day the principal photography thereof is completed, or
-- **(d)** in respect of which certification under this definition has been revoked by the Minister of Communications as provided in paragraph (10)(b); (*long métrage portant visa*)
+- **(d)** in respect of which certification under this definition has been revoked by the Minister of Communications as provided in paragraph (10)(b); (*long métrage portant visa*)
 
 ***certified production***, in respect of a particular taxation year, means a motion picture film or video tape certified by the Minister of Communications to be a film or tape in respect of which all photography, taping or art work required specifically for the production thereof and all film or tape editing therefor were commenced after May 25, 1976, certified by him to be a film or tape in respect of which the principal photography or taping thereof was commenced before the end of the particular taxation year or was completed no later than 60 days after the end of that year and certified by him to be
 - **(a)** a film or tape the production of which is contemplated in a coproduction agreement entered into between Canada and another country, or
@@ -4873,24 +4901,24 @@ other than a film or tape
 
 and, for the purposes of the application of this definition,
 - **(h)** in respect of a film or tape acquired in 1987, other than a film or tape in respect of which paragraph (i) applies, the reference in this definition to “commenced before the end of the particular taxation year or was completed no later than 60 days after the end of that year” shall be read as a reference to “commenced before the end of 1987 or was completed before July, 1988”; and
-- **(i)** in respect of a film or tape acquired in 1987 or 1988 that is included in paragraph (n) of Class 12 in Schedule II and that is part of a series of films or tapes that includes another property included in that paragraph, the reference in this definition to “commenced before the end of the particular taxation year or was completed no later than 60 days after the end of that year” shall be read as a reference to “completed before 1989”; (*production portant visa*)
+- **(i)** in respect of a film or tape acquired in 1987 or 1988 that is included in paragraph (n) of Class 12 in Schedule II and that is part of a series of films or tapes that includes another property included in that paragraph, the reference in this definition to “commenced before the end of the particular taxation year or was completed no later than 60 days after the end of that year” shall be read as a reference to “completed before 1989”; (*production portant visa*)
 
 ***certified short production***[Repealed, SOR/86-254, s. 2]
 
-***completion*** of a specified development phase of a taxpayer’s oil sands project means the first attainment of a level of average output, attributable to the specified development phase and measured over a sixty day period, equal to at least 60% of the planned level of average daily output (as determined in paragraph (b) of the definition ***specified development phase***) in respect of that phase; (*achèvement*)
+***completion*** of a specified development phase of a taxpayer’s oil sands project means the first attainment of a level of average output, attributable to the specified development phase and measured over a sixty day period, equal to at least 60% of the planned level of average daily output (as determined in paragraph (b) of the definition specified development phase) in respect of that phase; (*achèvement*)
 
-***computer software*** includes systems software and a right or licence to use computer software; (*logiciel*)
+***computer software*** includes systems software and a right or licence to use computer software; (*logiciel*)
 
-***data network infrastructure equipment*** means network infrastructure equipment that controls, transfers, modulates or directs data, and that operates in support of telecommunications applications such as e-mail, instant messaging, audio- and video-over-Internet Protocol or Web browsing, Web searching and Web hosting, including data switches, multiplexers, routers, remote access servers, hubs, domain name servers, and modems, but does not include
+***data network infrastructure equipment*** means network infrastructure equipment that controls, transfers, modulates or directs data, and that operates in support of telecommunications applications such as e-mail, instant messaging, audio- and video-over-Internet Protocol or Web browsing, Web searching and Web hosting, including data switches, multiplexers, routers, remote access servers, hubs, domain name servers, and modems, but does not include
 - **(a)** network equipment (other than radio network equipment) that operates in support of telecommunications applications, if the bandwidth made available by that equipment to a single end-user of the network is 64 kilobits per second or less in either direction,
 - **(b)** radio network equipment that operates in support of wireless telecommunications applications unless the equipment supports digital transmission on a radio channel,
 - **(c)** network equipment that operates in support of broadcast telecommunications applications and that is unidirectional,
 - **(d)** network equipment that is end-user equipment, including telephone sets, personal digital assistants and facsimile transmission devices,
 - **(e)** equipment that is described in paragraph (f.2) or (v) of Class 10, or in any of Classes 45, 50 and 52, in Schedule II,
 - **(f)** wires or cables, or similar property, and
-- **(g)** structures; (*matériel d’infrastructure pour réseaux de données*)
+- **(g)** structures; (*matériel d’infrastructure pour réseaux de données*)
 
-***designated asset*** in respect of a development phase of a taxpayer’s oil sands project, means a property that is a building, a structure, machinery or equipment and is, or is an integral and substantial part of,
+***designated asset*** in respect of a development phase of a taxpayer’s oil sands project, means a property that is a building, a structure, machinery or equipment and is, or is an integral and substantial part of,
 - **(a)** in the case of a bitumen development phase,
 	- **(i)** a crusher,
 	- **(ii)** a froth treatment plant,
@@ -4904,122 +4932,122 @@ and, for the purposes of the application of this definition,
 	- **(iii)** a hydrocracker unit,
 	- **(iv)** a hydrotreater unit,
 	- **(v)** a hydroprocessor unit, or
-	- **(vi)** a coker; (*bien désigné*)
+	- **(vi)** a coker; (*bien désigné*)
 
-***designated overburden removal cost*** of a taxpayer means any cost incurred by him in respect of clearing or removing overburden from a mine in Canada owned or operated by him where the cost
+***designated overburden removal cost*** of a taxpayer means any cost incurred by him in respect of clearing or removing overburden from a mine in Canada owned or operated by him where the cost
 - **(a)** was incurred after November 16, 1978 and before 1988,
 - **(b)** was incurred after the mine came into production in reasonable commercial quantities,
 - **(c)** as of the end of the taxation year in which the cost was incurred, has not been deducted by the taxpayer in computing his income, and
-- **(d)** is not deductible, in whole or in part, by the taxpayer in computing his income for a taxation year subsequent to the taxation year in which the cost was incurred, other than by virtue of paragraph 20(1)(a) of the Act. (*coût désigné d’enlèvement des terrains de couverture*)
+- **(d)** is not deductible, in whole or in part, by the taxpayer in computing his income for a taxation year subsequent to the taxation year in which the cost was incurred, other than by virtue of paragraph 20(1)(a) of the Act; (*coût désigné d’enlèvement des terrains de couverture*)
 
-***designated underground storage cost*** of a taxpayer means any cost incurred by him after December 11, 1979 in respect of developing a well, mine or other similar underground property for the storage in Canada of petroleum, natural gas or other related hydrocarbons; (*coût désigné de stockage souterrain*)
+***designated underground storage cost*** of a taxpayer means any cost incurred by him after December 11, 1979 in respect of developing a well, mine or other similar underground property for the storage in Canada of petroleum, natural gas or other related hydrocarbons; (*coût désigné de stockage souterrain*)
 
-***development phase*** of a taxpayer’s oil sands project means the acquisition, construction, fabrication or installation of a group of assets, by or on behalf of the taxpayer, that may reasonably be considered to constitute a discrete expansion in the capacity of the oil sands project when complete (including, for greater certainty, the initiation of a new oil sands project); (*phase de mise en valeur*)
+***development phase*** of a taxpayer’s oil sands project means the acquisition, construction, fabrication or installation of a group of assets, by or on behalf of the taxpayer, that may reasonably be considered to constitute a discrete expansion in the capacity of the oil sands project when complete (including, for greater certainty, the initiation of a new oil sands project); (*phase de mise en valeur*)
 
-***eligible liquefaction building*** of a taxpayer, in respect of an eligible liquefaction facility of the taxpayer, means property (other than property that has been used or acquired for use for any purpose before it was acquired by the taxpayer or a residential building ) acquired by the taxpayer after February 19, 2015 and before 2025 that is included in Class 1 in Schedule II because of paragraph (q) of that Class and that is used as part of the eligible liquefaction facility; (*bâtiment de liquéfaction admissible*)
+***eligible liquefaction building*** of a taxpayer, in respect of an eligible liquefaction facility of the taxpayer, means property (other than property that has been used or acquired for use for any purpose before it was acquired by the taxpayer or a residential building ) acquired by the taxpayer after February 19, 2015 and before 2025 that is included in Class 1 in Schedule II because of paragraph (q) of that Class and that is used as part of the eligible liquefaction facility; (*bâtiment de liquéfaction admissible*)
 
-***eligible liquefaction equipment*** in respect of an eligible liquefaction facility of a taxpayer, means property of the taxpayer that is used in connection with the liquefaction of natural gas and that
-- **(a)** is acquired by the taxpayer after February 19, 2015 and before 2025,
-- **(b)** is included in Class 47 in Schedule II because of paragraph (b) of that Class,
+***eligible liquefaction equipment*** in respect of an eligible liquefaction facility of a taxpayer, means property of the taxpayer that is used in connection with the liquefaction of natural gas and that
+- **(a)** is acquired by the taxpayer after February 19, 2015 and before 2025,
+- **(b)** is included in Class 47 in Schedule II because of paragraph (b) of that Class,
 - **(c)** has not been used or acquired for use for any purpose before it was acquired by the taxpayer,
 - **(d)** is not excluded equipment, and
-- **(e)** is used as part of the eligible liquefaction facility; (*matériel de liquéfaction admissible*)
+- **(e)** is used as part of the eligible liquefaction facility; (*matériel de liquéfaction admissible*)
 
-***eligible liquefaction facility*** of a taxpayer means a self-contained system located in Canada — including buildings, structures and equipment — that is used or intended to be used by the taxpayer for the purpose of liquefying natural gas; (*installation de liquéfaction admissible*)
+***eligible liquefaction facility*** of a taxpayer means a self-contained system located in Canada — including buildings, structures and equipment — that is used or intended to be used by the taxpayer for the purpose of liquefying natural gas; (*installation de liquéfaction admissible*)
 
-***eligible mine development property*** means a property acquired by a taxpayer after March 20, 2013 and before 2018 for the purpose of gaining or producing income
+***eligible mine development property*** means a property acquired by a taxpayer after March 20, 2013 and before 2018 for the purpose of gaining or producing income
 - **(a)** from a new mine or an expansion of a mine, if the property was acquired under a written agreement entered into by the taxpayer before March 21, 2013,
 - **(b)** from a new mine, if
 	- **(i)** the construction of the new mine was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose construction does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities), or
 	- **(ii)** the engineering and design work for the construction of the new mine, as evidenced in writing, was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose engineering and design work does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities), or
 - **(c)** from an expansion of a mine, if
 	- **(i)** the construction for the expansion of the mine was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose construction does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities), or
-	- **(ii)** the engineering and design work for the construction of the expansion of the mine, as evidenced in writing, was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose engineering and design work does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities); (*bien admissible à l’aménagement d’une mine*)
+	- **(ii)** the engineering and design work for the construction of the expansion of the mine, as evidenced in writing, was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose engineering and design work does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities); (*bien admissible à l’aménagement d’une mine*)
 
-***eligible non-residential building*** means a taxpayer’s building (other than a building that was used, or acquired for use, by any person or partnership before March 19, 2007) that is located in Canada, that is included in Class 1 in Schedule II and that is acquired by the taxpayer on or after March 19, 2007 to be used by the taxpayer, or a lessee of the taxpayer, for a non-residential use; (*bâtiment non résidentiel admissible*)
+***eligible non-residential building*** means a taxpayer’s building (other than a building that was used, or acquired for use, by any person or partnership before March 19, 2007) that is located in Canada, that is included in Class 1 in Schedule II and that is acquired by the taxpayer on or after March 19, 2007 to be used by the taxpayer, or a lessee of the taxpayer, for a non-residential use; (*bâtiment non résidentiel admissible*)
 
-***excluded equipment*** means
+***excluded equipment*** means
 - **(a)** pipelines (other than pipelines used to move natural gas, or its components that are extracted, within an eligible liquefaction facility during the liquefaction process or used to move liquefied natural gas),
 - **(b)** equipment used exclusively to regasify liquefied natural gas, and
-- **(c)** electrical generation equipment; (*matériel non admissible*)
+- **(c)** electrical generation equipment; (*matériel non admissible*)
 
-***gas or oil well equipment*** includes
+***gas or oil well equipment*** includes
 - **(a)** equipment, structures and pipelines, other than a well casing, acquired to be used in a gas or oil field in the production therefrom of natural gas or crude oil, and
 - **(b)** a pipeline acquired to be used solely for transmitting gas to a natural gas processing plant,
 
 but does not include
 - **(c)** equipment or structures acquired for the refining of oil or the processing of natural gas including the separation therefrom of liquid hydrocarbons, sulphur or other joint products or by-products, or
-- **(d)** a pipeline for removal or for collection for immediate removal of natural gas or crude oil from a gas or oil field except a pipeline referred to in paragraph (b); (*matériel de puits de gaz ou de pétrole*)
+- **(d)** a pipeline for removal or for collection for immediate removal of natural gas or crude oil from a gas or oil field except a pipeline referred to in paragraph (b); (*matériel de puits de gaz ou de pétrole*)
 
-***general-purpose electronic data processing equipment*** means electronic equipment that, in its operation, requires an internally stored computer program that
+***general-purpose electronic data processing equipment*** means electronic equipment that, in its operation, requires an internally stored computer program that
 - **(a)** is executed by the equipment,
 - **(b)** can be altered by the user of the equipment,
 - **(c)** instructs the equipment to read and select, alter or store data from an external medium such as a card, disk or tape, and
-- **(d)** depends upon the characteristics of the data being processed to determine the sequence of its execution; (*matériel électronique universel de traitement de l’information*)
+- **(d)** depends upon the characteristics of the data being processed to determine the sequence of its execution; (*matériel électronique universel de traitement de l’information*)
 
-***oil sands project*** of a taxpayer means an undertaking by the taxpayer for the extraction of tar sands from a mineral resource owned by the taxpayer, which undertaking may include the processing of the tar sands to a stage that is not beyond the crude oil stage or its equivalent; (*projet de sables bitumineux*)
+***oil sands project*** of a taxpayer means an undertaking by the taxpayer for the extraction of tar sands from a mineral resource owned by the taxpayer, which undertaking may include the processing of the tar sands to a stage that is not beyond the crude oil stage or its equivalent; (*projet de sables bitumineux*)
 
-***oil sands property*** of a taxpayer means property acquired by the taxpayer for the purpose of earning income from an oil sands project of the taxpayer; (*bien de sables bitumineux*)
+***oil sands property*** of a taxpayer means property acquired by the taxpayer for the purpose of earning income from an oil sands project of the taxpayer; (*bien de sables bitumineux*)
 
-***ore*** includes ore from a mineral resource that has been processed to any stage that is prior to the prime metal stage or its equivalent; (*minerai*)
+***ore*** includes ore from a mineral resource that has been processed to any stage that is prior to the prime metal stage or its equivalent; (*minerai*)
 
-***preliminary work activity*** means activity that is preliminary to the acquisition, construction, fabrication or installation by or on behalf of a taxpayer of designated assets in respect of the taxpayer’s oil sands project including, without limiting the generality of the foregoing, the following activities:
+***preliminary work activity*** means activity that is preliminary to the acquisition, construction, fabrication or installation by or on behalf of a taxpayer of designated assets in respect of the taxpayer’s oil sands project including, without limiting the generality of the foregoing, the following activities:
 - **(a)** obtaining permits or regulatory approvals,
 - **(b)** performing design or engineering work,
 - **(c)** conducting feasibility studies,
 - **(d)** conducting environmental assessments,
 - **(e)** clearing or excavating land,
 - **(f)** building roads, and
-- **(g)** entering into contracts; (*travaux préliminaires*)
+- **(g)** entering into contracts; (*travaux préliminaires*)
 
-***railway system*** includes a railway owned or operated by a common carrier, together with all buildings, rolling stock, equipment and other properties pertaining thereto, but does not include a tramway; (*réseau de chemin de fer*)
+***railway system*** includes a railway owned or operated by a common carrier, together with all buildings, rolling stock, equipment and other properties pertaining thereto, but does not include a tramway; (*réseau de chemin de fer*)
 
-***specified development phase*** of a taxpayer’s oil sands project means a bitumen development phase or an upgrading development phase of the oil sands project which can reasonably be expected to result in a planned level of average daily output (where that output is bitumen or a similar product in the case of a bitumen development phase, or synthetic crude oil or a similar product in the case of an upgrading development phase), and in respect of which phase,
-- **(a)** not including any preliminary work activity, one or more designated assets was, before March 19, 2007,
+***specified development phase*** of a taxpayer’s oil sands project means a bitumen development phase or an upgrading development phase of the oil sands project which can reasonably be expected to result in a planned level of average daily output (where that output is bitumen or a similar product in the case of a bitumen development phase, or synthetic crude oil or a similar product in the case of an upgrading development phase), and in respect of which phase,
+- **(a)** not including any preliminary work activity, one or more designated assets was, before March 19, 2007,
 	- **(i)** acquired by the taxpayer, or
 	- **(ii)** in the process of being constructed, fabricated or installed, by or on behalf of the taxpayer, and
 - **(b)** the planned level of average daily output is the lesser of,
-	- **(i)** the level that was the demonstrated intention of the taxpayer as of March 19, 2007 to produce from the specified development phase, and
-	- **(ii)** the maximum level of output associated with the design capacity, as of March 19, 2007, of the designated asset referred to in paragraph (a); (*phase de mise en valeur déterminée*)
+	- **(i)** the level that was the demonstrated intention of the taxpayer as of March 19, 2007 to produce from the specified development phase, and
+	- **(ii)** the maximum level of output associated with the design capacity, as of March 19, 2007, of the designated asset referred to in paragraph (a); (*phase de mise en valeur déterminée*)
 
-***specified oil sands property*** of a taxpayer means oil sands property, acquired by the taxpayer before 2012, the taxpayer’s use of which is reasonably required 
+***specified oil sands property*** of a taxpayer means oil sands property, acquired by the taxpayer before 2012, the taxpayer’s use of which is reasonably required 
 - **(a)** for a specified development phase of an oil sands project of the taxpayer to reach completion; or
 - **(b)** as part of a bitumen development phase of an oil sands project of the taxpayer,
 	- **(i)** to the extent that the output from the bitumen development phase is required for an upgrading development phase that is a specified development phase of the oil sands project to reach completion, and it is reasonable to conclude that all or substantially all of the output from the bitumen development phase will be so used; and
-	- **(ii)** where it was the demonstrated intention of the taxpayer as of March 19, 2007 to produce, from a mineral resource owned by the taxpayer, the bitumen feedstock required for the upgrading development phase to reach completion; (*bien de sables bitumineux déterminé*)
+	- **(ii)** where it was the demonstrated intention of the taxpayer as of March 19, 2007 to produce, from a mineral resource owned by the taxpayer, the bitumen feedstock required for the upgrading development phase to reach completion; (*bien de sables bitumineux déterminé*)
 
-***specified temporary access road*** means
+***specified temporary access road*** means
 - **(a)** a temporary access road to an oil or gas well in Canada, and
-- **(b)** a temporary access road the cost of which would, if the definition ***Canadian exploration expense*** in subsection 66.1(6) of the Act were read without reference to paragraphs (k.1) and (l) of that definition, be a Canadian exploration expense because of paragraph (f) or (g) of that definition; (*route d’accès temporaire déterminée*)
+- **(b)** a temporary access road the cost of which would, if the definition Canadian exploration expense in subsection 66.1(6) of the Act were read without reference to paragraphs (k.1) and (l) of that definition, be a Canadian exploration expense because of paragraph (f) or (g) of that definition; (*route d’accès temporaire déterminée*)
 
-***systems software*** means a combination of computer programs and associated procedures, related technical documentation and data that
+***systems software*** means a combination of computer programs and associated procedures, related technical documentation and data that
 - **(a)** performs compilation, assembly, mapping, management or processing of other programs,
 - **(b)** facilitates the functioning of a computer system by other programs,
 - **(c)** provides service or utility functions such as media conversion, sorting, merging, system accounting, performance measurement, system diagnostics or programming aids,
 - **(d)** provides general support functions such as data management, report generation or security control, or
 - **(e)** provides general capability to meet widespread categories of problem solving or processing requirements where the specific attributes of the work to be performed are introduced mainly in the form of parameters, constants or descriptors rather than in program logic,
 
-and includes a right or licence to use such a combination of computer programs and associated procedures, related technical documentation and data; (*logiciel d’exploitation*)
+and includes a right or licence to use such a combination of computer programs and associated procedures, related technical documentation and data; (*logiciel d’exploitation*)
 
-***tar sands ore*** means ore extracted from a deposit of bituminous sands or oil shales; (*minerai de sables asphaltiques*)
+***tar sands ore*** means ore extracted from a deposit of bituminous sands or oil shales; (*minerai de sables asphaltiques*)
 
-***telegraph system*** includes the buildings, structures, general plant and communication and other equipment pertaining thereto; (*réseau de télégraphe*)
+***telegraph system*** includes the buildings, structures, general plant and communication and other equipment pertaining thereto; (*réseau de télégraphe*)
 
-***telephone system*** includes the buildings, structures, general plant and communication and other equipment pertaining thereto; (*réseau de téléphone*)
+***telephone system*** includes the buildings, structures, general plant and communication and other equipment pertaining thereto; (*réseau de téléphone*)
 
-***television commercial message*** means a commercial message as defined in the [Television Broadcasting Regulations, 1987](/en/Regulations/Statutory%20Orders%20and%20Regulations/87/49.md) made under the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md); (*message publicitaire pour la télévision*)
+***television commercial message*** means a commercial message as defined in the [Television Broadcasting Regulations, 1987](/en/Regulations/Statutory%20Orders%20and%20Regulations/87/49.md) made under the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md); (*message publicitaire pour la télévision*)
 
-***tramway or trolley bus system*** includes the buildings, structures, rolling stock, general plant and equipment pertaining thereto and where buses other than trolley buses are operated in connection therewith includes the properties pertaining to those bus operations. (*réseau de tramway ou d’autobus à trolley*)
+***tramway or trolley bus system*** includes the buildings, structures, rolling stock, general plant and equipment pertaining thereto and where buses other than trolley buses are operated in connection therewith includes the properties pertaining to those bus operations; (*réseau de tramway ou d’autobus à trolley*)
 
-***upgrading development phase*** of a taxpayer’s oil sands project means a development phase that expands the oil sands project’s capacity to process bitumen or a similar feedstock (all or substantially all of which is from a mineral resource owned by the taxpayer) to the crude oil stage or its equivalent. (*phase de valorisation*)
+***upgrading development phase*** of a taxpayer’s oil sands project means a development phase that expands the oil sands project’s capacity to process bitumen or a similar feedstock (all or substantially all of which is from a mineral resource owned by the taxpayer) to the crude oil stage or its equivalent. (*phase de valorisation*)
 
 - **(3)** Except as otherwise provided in subsection (6), in this Part and in Schedules II and V,
 
-***industrial mineral mine*** includes a peat bog or deposit of peat but does not include a mineral resource; (*mine de minéral industriel*)
+***industrial mineral mine*** includes a peat bog or deposit of peat but does not include a mineral resource; (*mine de minéral industriel*)
 
-***mineral*** includes peat; (*minéral*)
+***mineral*** includes peat; (*minéral*)
 
-***mining*** includes the harvesting of peat. (*exploitation minière*)
+***mining*** includes the harvesting of peat. (*exploitation minière*)
 
 - **(4)** [Repealed, SOR/79-670, s. 3]
 
@@ -5053,20 +5081,20 @@ to the extent that such transportation is effected through the use of property o
 exceeds the cost to the taxpayer of the ore or material processed; and
 	- **(c)** revenue reasonably attributable to the production by the taxpayer of material from a deposit of bituminous sands or oil shales.
 
-- **(5.2)** For the purpose of subsection (5.1), “gross revenue from a mine” does not include revenue reasonably attributable to the addition of diluent, for the purpose of transportation, to material extracted from a deposit of bituminous sands or oil shales.
+- **(5.2)** For the purpose of subsection (5.1), ***gross revenue from a mine*** does not include revenue reasonably attributable to the addition of diluent, for the purpose of transportation, to material extracted from a deposit of bituminous sands or oil shales.
 
 - **(6)** For the purposes of Class 10 in Schedule II,
-	- **(a)** ***income from a mine*** includes income reasonably attributable to the processing of
+	- **(a)** ***income from a mine*** includes income reasonably attributable to the processing of
 		- **(i)** ore, other than iron ore or tar sands ore, from a mineral resource not owned by the taxpayer to any stage that is not beyond the prime metal stage or its equivalent,
 		- **(ii)** iron ore from a mineral resource not owned by the taxpayer to any stage that is not beyond the pellet stage or its equivalent,
 		- **(iii)** tar sands ore from a mineral resource not owned by the taxpayer to any stage that is not beyond the crude oil stage or its equivalent, or
 		- **(iv)** material extracted by a well from a mineral resource not owned by the taxpayer that is a deposit of bituminous sands or oil shales to any stage that is not beyond the crude oil stage or its equivalent; and
-	- **(b)** ***mine*** includes a well for the extraction of material from a deposit of bituminous sands or oil shales or from a deposit of calcium chloride, halite or sylvite.
+	- **(b)** ***mine*** includes a well for the extraction of material from a deposit of bituminous sands or oil shales or from a deposit of calcium chloride, halite or sylvite.
 
 - **(6.1)** [Repealed, SOR/99-179, s. 3]
 
 - **(7)** For the purposes of paragraphs 1100(1)(w) to (ya.2), subsections 1101(4a) to (4h) and 1102(8) and (9), section 1107 and Classes 12, 28 and 41 to 41.2 of Schedule II,
-	- **(a)** ***mine*** includes
+	- **(a)** ***mine*** includes
 		- **(i)** a well for the extraction of material from a deposit of bituminous sands or oil shales or from a deposit of calcium chloride, halite or sylvite, and
 		- **(ii)** a pit for the extraction of kaolin or tar sands ore,
 but does not include
@@ -5082,7 +5110,7 @@ but does not include
 #### Manufacturing or Processing
 
 
-- **(9)** For the purposes of paragraph 1100(1)(a.1), subsection 1100(26) and Class 29 in Schedule II, “manufacturing or processing” does not include
+- **(9)** For the purposes of paragraph 1100(1)(a.1), subsection 1100(26) and Class 29 in Schedule II, ***manufacturing or processing*** does not include
 	- **(a)** farming or fishing;
 	- **(b)** logging;
 	- **(c)** construction;
@@ -5101,23 +5129,23 @@ but does not include
 #### Certified Films and Video Tapes
 
 
-- **(10)** For the purposes of subsection 1100(21) and the definitions ***certified feature film*** and ***certified production*** and in subsection (2),
-	- **(a)** ***Canadian*** means an individual who was, at all relevant times,
+- **(10)** For the purposes of subsection 1100(21) and the definitions certified feature film and certified production and in subsection (2),
+	- **(a)** ***Canadian*** means an individual who was, at all relevant times,
 		- **(i)** a Canadian citizen as defined in the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), or
 		- **(ii)** a permanent resident within the meaning of the Immigration Act, 1976;
 	- **(b)** a motion picture film or video tape that has been certified by
 		- **(i)** the Secretary of State, or
 		- **(ii)** the Minister of Communications
 as a certified feature film or certified production, as the case may be, may have its certification revoked by the Minister of Communications where an incorrect statement was made in the furnishing of information for the purpose of obtaining that certification and a certification that has been so revoked is void from the time of its issue;
-	- **(c)** “remuneration” does not include an amount determined by reference to the amount of income from a motion picture film or video tape;
-	- **(c.1)** ***revenue guarantee*** means a contract or other arrangement under the terms of which a taxpayer has a right to receive a minimum rental revenue or other fixed revenue in respect of a right to the use, in any manner whatever, of a certified feature film or certified production;
+	- **(c)** ***remuneration*** does not include an amount determined by reference to the amount of income from a motion picture film or video tape;
+	- **(c.1)** ***revenue guarantee*** means a contract or other arrangement under the terms of which a taxpayer has a right to receive a minimum rental revenue or other fixed revenue in respect of a right to the use, in any manner whatever, of a certified feature film or certified production;
 	- **(c.2)** a screenwriter shall be deemed to be an individual who is a Canadian where
 		- **(i)** each individual involved in the preparation of the screenplay is a Canadian, or
 		- **(ii)** the principal screenwriter is an individual who is a Canadian and
 			- **(A)** the screenplay for the motion picture film or video tape is based upon a work authored by a Canadian,
 			- **(B)** copyright in the work subsists in Canada, and
 			- **(C)** the work is published in Canada;
-	- **(d)** ***unit of production*** means a measure used by the Minister of Communications in determining the weight to be given for each individual Canadian referred to in subparagraph (b)(ii) of the definition ***certified production*** in subsection (2) who provides services in respect of a motion picture film or video tape; and
+	- **(d)** ***unit of production*** means a measure used by the Minister of Communications in determining the weight to be given for each individual Canadian referred to in subparagraph (b)(ii) of the definition certified production in subsection (2) who provides services in respect of a motion picture film or video tape; and
 	- **(e)** where each individual who performed a service in respect of a motion picture film or video tape as the
 		- **(i)** director,
 		- **(ii)** screenwriter,
@@ -5127,7 +5155,7 @@ as a certified feature film or certified production, as the case may be, may hav
 		- **(vi)** director of photoghraphy,
 		- **(vii)** music composer, or
 		- **(viii)** picture editor
-was a Canadian, the Minister of Communications shall be deemed to have allotted six units of production in respect of the film or tape for the purposes of the definition ***certified production*** in subsection (2).
+was a Canadian, the Minister of Communications shall be deemed to have allotted six units of production in respect of the film or tape for the purposes of the definition certified production in subsection (2).
 
 #### Certified Class 34 Properties
 
@@ -5152,72 +5180,72 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 - **(13)** The definitions in this subsection apply for the purposes of this subsection, subsections (14) to (17) and Classes 43.1 and 43.2 in Schedule II.
 
-***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
+***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
 
-***biogas*** means the gas produced by the anaerobic digestion of organic waste that is food and animal waste, manure, plant residue, pulp and paper by-product, separated organics, wood waste or sludge from an eligible sewage treatment facility. (*biogaz*)
+***biogas*** means the gas produced by the anaerobic digestion of organic waste that is food and animal waste, manure, plant residue, pulp and paper by-product, separated organics, wood waste or sludge from an eligible sewage treatment facility. (*biogaz*)
 
-***bio-oil*** means liquid fuel that is created from wood waste or plant residues using a thermo-chemical conversion process that takes place in the absence of oxygen. (*bio-huile*)
+***bio-oil*** means liquid fuel that is created from wood waste or plant residues using a thermo-chemical conversion process that takes place in the absence of oxygen. (*bio-huile*)
 
-***blast furnace gas*** means the gas produced in a blast furnace of a steel mill, by the chemical reaction of carbon (in the form of coke, coal or natural gas), the oxygen in air and iron ore. (*gaz de haut fourneau*)
+***blast furnace gas*** means the gas produced in a blast furnace of a steel mill, by the chemical reaction of carbon (in the form of coke, coal or natural gas), the oxygen in air and iron ore. (*gaz de haut fourneau*)
 
-***digester gas*** means a mixture of gases that are produced from the decomposition of organic waste in a digester and that are extracted from an eligible sewage treatment facility for that organic waste. (*gaz de digesteur*)
+***digester gas*** means a mixture of gases that are produced from the decomposition of organic waste in a digester and that are extracted from an eligible sewage treatment facility for that organic waste. (*gaz de digesteur*)
 
-***distribution equipment*** means equipment (other than transmission equipment) used to distribute electrical energy generated by electrical generating equipment. (*matériel de distribution*)
+***distribution equipment*** means equipment (other than transmission equipment) used to distribute electrical energy generated by electrical generating equipment. (*matériel de distribution*)
 
-***district energy equipment*** means property that is part of a district energy system and that consists of pipes or pumps used to collect and distribute an energy transfer medium, meters, control equipment, chillers and heat exchangers that are attached to the main distribution line of a district energy system, but does not include
+***district energy equipment*** means property that is part of a district energy system and that consists of pipes or pumps used to collect and distribute an energy transfer medium, meters, control equipment, chillers and heat exchangers that are attached to the main distribution line of a district energy system, but does not include
 - **(a)** property used to distribute water that is for consumption, disposal or treatment; or
-- **(b)** property that is part of the internal heating or cooling system of a building. (*équipement de réseau énergétique de quartier*)
+- **(b)** property that is part of the internal heating or cooling system of a building. (*équipement de réseau énergétique de quartier*)
 
-***district energy system*** means a system that is used primarily to provide heating or cooling by continuously circulating, from a central generation unit to one or more buildings through a system of interconnected pipes, an energy transfer medium that is heated or cooled using thermal energy. (*réseau énergétique de quartier*)
+***district energy system*** means a system that is used primarily to provide heating or cooling by continuously circulating, from a central generation unit to one or more buildings through a system of interconnected pipes, an energy transfer medium that is heated or cooled using thermal energy. (*réseau énergétique de quartier*)
 
-***eligible landfill site*** means a landfill site that is situated in Canada, or a former landfill site that is situated in Canada, and, if a permit or licence in respect of the site is or was required under any law of Canada or of a province, for which the permit or licence has been issued. (*site d’enfouissement admissible*)
+***eligible landfill site*** means a landfill site that is situated in Canada, or a former landfill site that is situated in Canada, and, if a permit or licence in respect of the site is or was required under any law of Canada or of a province, for which the permit or licence has been issued. (*site d’enfouissement admissible*)
 
-***eligible sewage treatment facility*** means a sewage treatment facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de traitement des eaux usées*)
+***eligible sewage treatment facility*** means a sewage treatment facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de traitement des eaux usées*)
 
-***eligible waste fuel*** means biogas, bio-oil, digester gas, landfill gas, municipal waste, plant residue, pulp and paper waste and wood waste. (*combustible résiduaire admissible*)
+***eligible waste fuel*** means biogas, bio-oil, digester gas, landfill gas, municipal waste, plant residue, pulp and paper waste and wood waste. (*combustible résiduaire admissible*)
 
-***eligible waste management facility*** means a waste management facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de gestion des déchets*)
+***eligible waste management facility*** means a waste management facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de gestion des déchets*)
 
-***enhanced combined cycle system*** means an electrical generating system in which thermal waste from one or more natural gas compressor systems is recovered and used to contribute at least 20 per cent of the energy input of a combined cycle process in order to enhance the generation of electricity, but does not include the natural gas compressor systems. (*système à cycles combinés amélioré*)
+***enhanced combined cycle system*** means an electrical generating system in which thermal waste from one or more natural gas compressor systems is recovered and used to contribute at least 20 per cent of the energy input of a combined cycle process in order to enhance the generation of electricity, but does not include the natural gas compressor systems. (*système à cycles combinés amélioré*)
 
-***food and animal waste*** means organic waste that is disposed of in accordance with the laws of Canada or a province and that is 
+***food and animal waste*** means organic waste that is disposed of in accordance with the laws of Canada or a province and that is 
 - **(a)** generated during the preparation or processing of food or beverage for human or animal consumption;
 - **(b)** food or beverage that is no longer fit for human or animal consumption; or
-- **(c)** animal remains. (*déchets alimentaires et animaux*)
+- **(c)** animal remains. (*déchets alimentaires et animaux*)
 
 ***food waste***[Repealed, 2010, c. 25, s. 76]
 
-***fossil fuel*** means a fuel that is petroleum, natural gas or related hydrocarbons, basic oxygen furnace gas, blast furnace gas, coal, coal gas, coke, coke oven gas, lignite or peat. (*combustible fossile*)
+***fossil fuel*** means a fuel that is petroleum, natural gas or related hydrocarbons, basic oxygen furnace gas, blast furnace gas, coal, coal gas, coke, coke oven gas, lignite or peat. (*combustible fossile*)
 
-***landfill gas*** means a mixture of gases that are produced from the decomposition of organic waste and that are extracted from an eligible landfill site. (*gaz d’enfouissement*)
+***landfill gas*** means a mixture of gases that are produced from the decomposition of organic waste and that are extracted from an eligible landfill site. (*gaz d’enfouissement*)
 
-***municipal waste*** means the combustible portion of waste material (other than waste material that is considered to be toxic or hazardous waste pursuant to any law of Canada or of a province) that is generated in Canada and that is accepted at an eligible landfill site or an eligible waste management facility and that, when burned to generate energy, emits only those fluids or other emissions that are in compliance with the law of Canada or of a province. (*déchets municipaux*)
+***municipal waste*** means the combustible portion of waste material (other than waste material that is considered to be toxic or hazardous waste pursuant to any law of Canada or of a province) that is generated in Canada and that is accepted at an eligible landfill site or an eligible waste management facility and that, when burned to generate energy, emits only those fluids or other emissions that are in compliance with the law of Canada or of a province. (*déchets municipaux*)
 
-***plant residue*** means residue of plants (not including wood waste and waste that no longer has the chemical properties of the plants of which it is a residue) that would otherwise be waste material and that is used
+***plant residue*** means residue of plants (not including wood waste and waste that no longer has the chemical properties of the plants of which it is a residue) that would otherwise be waste material and that is used
 - **(a)** in a system that converts biomass into bio-oil or biogas; or
-- **(b)** as an eligible waste fuel. (*résidus végétaux*)
+- **(b)** as an eligible waste fuel. (*résidus végétaux*)
 
-***producer gas*** means fuel the composition of which, excluding its water content, is all or substantially all non-condensable gases that is generated primarily from eligible waste fuel using a thermo-chemical conversion process and that is not generated using any fuels other than eligible waste fuel or fossil fuel.
+***producer gas*** means fuel the composition of which, excluding its water content, is all or substantially all non-condensable gases that is generated primarily from eligible waste fuel using a thermo-chemical conversion process and that is not generated using any fuels other than eligible waste fuel or fossil fuel. (*gaz de gazéification*)
 
-***pulp and paper by-product*** means tall oil soaps and crude tall oil that are produced as by-products of the processing of wood into pulp or paper and the by-product of a pulp or paper plant’s effluent treatment or its de-inking processes. (*sous-produit d’usine de pâtes ou papiers*)
+***pulp and paper by-product*** means tall oil soaps and crude tall oil that are produced as by-products of the processing of wood into pulp or paper and the by-product of a pulp or paper plant’s effluent treatment or its de-inking processes. (*sous-produit d’usine de pâtes ou papiers*)
 
-***pulp and paper waste*** means 
+***pulp and paper waste*** means
 - **(a)** tall oil soaps, crude tall oil and turpentine that are produced as by-products of the processing of wood into pulp or paper; and
-- **(b)** the by-product of a pulp or paper plant’s effluent treatment, or its de-inking processes, if that by-product has a solid content of at least 40 per cent before combustion. (*déchets d’usines de pâtes ou papiers*)
+- **(b)** the by-product of a pulp or paper plant’s effluent treatment, or its de-inking processes, if that by-product has a solid content of at least 40 per cent before combustion. (*déchets d’usines de pâtes ou papiers*)
 
-***separated organics*** means organic waste (other than waste that is considered to be toxic or hazardous waste under any law of Canada or a province) that could, but for its use in a system that converts biomass into biogas, be disposed of in an eligible waste management facility or eligible landfill site. (*matières organiques séparées*)
+***separated organics*** means organic waste (other than waste that is considered to be toxic or hazardous waste under any law of Canada or a province) that could, but for its use in a system that converts biomass into biogas, be disposed of in an eligible waste management facility or eligible landfill site. (*matières organiques séparées*)
 
-***solution gas*** means a fossil fuel that is gas that would otherwise be flared and has been extracted from a solution of gas and produced oil. (*gaz dissous*)
+***solution gas*** means a fossil fuel that is gas that would otherwise be flared and has been extracted from a solution of gas and produced oil. (*gaz dissous*)
 
-***spent pulping liquor*** means the by-product of a chemical process of transforming wood into pulp, consisting of wood residue and pulping agents. (*liqueur résiduaire*)
+***spent pulping liquor*** means the by-product of a chemical process of transforming wood into pulp, consisting of wood residue and pulping agents. (*liqueur résiduaire*)
 
-***thermal waste*** means waste heat energy extracted from a distinct point of rejection in an industrial process that would otherwise 
+***thermal waste*** means waste heat energy extracted from a distinct point of rejection in an industrial process that would otherwise 
 - **(a)** be vented to the atmosphere or transferred to a liquid; and
-- **(b)** not be used for a useful purpose. (*déchets thermiques*)
+- **(b)** not be used for a useful purpose. (*déchets thermiques*)
 
-***transmission equipment*** means equipment used to transmit more than 75 per cent of the annual electrical energy generated by electrical generating equipment, but does not include a building. (*matériel de transmission*)
+***transmission equipment*** means equipment used to transmit more than 75 per cent of the annual electrical energy generated by electrical generating equipment, but does not include a building. (*matériel de transmission*)
 
-***wood waste*** includes scrap wood, sawdust, wood chips, bark, limbs, saw-ends and hog fuel, but does not include spent pulping liquor and any waste that no longer has the physical or chemical properties of wood. (*déchets de bois*)
+***wood waste*** includes scrap wood, sawdust, wood chips, bark, limbs, saw-ends and hog fuel, but does not include spent pulping liquor and any waste that no longer has the physical or chemical properties of wood. (*déchets de bois*)
 
 - **(14)** Where property of a taxpayer is not operating in the manner required by paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II solely because of a deficiency, failing or shutdown that is beyond the control of the taxpayer of the system of which it is a part and that previously operated in the manner required by that paragraph, as the case may be, that property is deemed, for the purpose of that paragraph, to be operating in the manner required under that paragraph during the period of the deficiency, failing or shutdown, if the taxpayer makes all reasonable efforts to rectify the circumstances within a reasonable time.
 
@@ -5230,7 +5258,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
 
 - **(17)** A property that would otherwise be eligible for inclusion in Class 43.1 or Class 43.2 in Schedule II by a taxpayer is deemed not to be eligible for inclusion in either of those classes if
-	- **(a)** the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs (d)(viii), (ix), (xi), (xiii), (xiv) and (xvi) of Class 43.1 and paragraph (a) of Class 43.2; and
+	- **(a)** the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs (d)(vii) to (ix), (xi), (xiii), (xiv) and (xvi) of Class 43.1 and paragraph (a) of Class 43.2; and
 	- **(b)** at the time the property becomes available for use by the taxpayer, the taxpayer has not satisfied the requirements of all environmental laws, by-laws and regulations
 		- **(i)** of Canada, a province or a municipality in Canada, or
 		- **(ii)** of a municipal or public body performing a function of government in Canada
@@ -5246,7 +5274,7 @@ applicable in respect of the property.
 			- **(B)** in any other case, income reasonably attributable to the liquefaction of natural gas at the taxpayer’s eligible liquefaction facility, and
 		- **(ii)** in respect of which the only permitted deductions in computing the separate business’ income are those deductions that are attributable to income described in subparagraph (i) and, in the case of income described in clause (i)(A), that are reasonably attributable to income derived after the natural gas enters the eligible liquefaction facility; and
 	- **(b)** in the case of income described in clause (a)(i)(A), the taxpayer acquired the natural gas that has been liquefied at a cost equal to the fair market value of the natural gas at the time it entered the eligible liquefaction facility.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103; 2014, c. 39, s. 85; SOR/2015-117, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103; 2014, c. 39, s. 85; SOR/2015-117, s. 3; 2017, c. 33, s. 91.
 
 
 
@@ -6335,8 +6363,13 @@ other than
 		- **(ii)** calculation of energy, mass, water, or air balances,
 		- **(iii)** simulation and analysis of the performance and cost of process design options, and
 		- **(iv)** selection of the optimum process design;
-	- **(f)** for the drilling or completion of a well for the project, other than a well that is, or can reasonably be expected to be, used for the installation of underground piping that is included in paragraph (d) of Class 43.1 or paragraph (b) of Class 43.2 in Schedule II; or
-	- **(g)** for a test wind turbine that is part of a wind farm project of the taxpayer.
+	- **(f)** for the drilling or completion of a well for the project, other than
+		- **(i)** a well that is, or can reasonably be expected to be, used for the installation of underground piping that is included in paragraph (d) of Class 43.1 or paragraph (b) of Class 43.2 in Schedule II, or
+		- **(ii)** a well referred to in paragraph (h);
+	- **(g)** for a test wind turbine that is part of a wind farm project of the taxpayer; or
+	- **(h)** if at least 50% of the depreciable property to be used in the project, determined by reference to its capital cost, is described in subparagraph (d)(vii) of Class 43.1,
+		- **(i)** for the drilling of a well, or
+		- **(ii)** solely for the purpose of determining the extent and quality of a geothermal resource.
 
 - **(2)** A Canadian renewable and conservation expense does not include any expense that
 	- **(a)** is described in paragraphs 20(1)(c), (d), (e) or (e.1) of the Act; or
@@ -6344,15 +6377,15 @@ other than
 		- **(i)** for the acquisition of, or the use of or the right to use, land, except as provided by paragraph (1)(b), (c) or (d),
 		- **(ii)** for grading or levelling land or for landscaping, except as provided by paragraph (1)(b),
 		- **(iii)** payable to a non-resident person or a partnership other than a Canadian partnership (other than an expense described in paragraph (1)(g)),
-		- **(iv)** included in the capital cost of property that, but for this section, would be depreciable property (other than property that would be included in Class 14.1 of Schedule II), except as provided by paragraph (1)(b), (d), (e), (f), or (g),
-		- **(v)** included in the capital cost of property that, but for this section, would be property included in Class 14.1 of Schedule II, except as provided by any of paragraphs (1)(a) to (e),
+		- **(iv)** included in the capital cost of property that, but for this section, would be depreciable property (other than property that would be included in Class 14.1 of Schedule II), except as provided by paragraph (1)(b), (d), (e), (f), (g) or (h),
+		- **(v)** included in the capital cost of property that, but for this section, would be property included in Class 14.1 of Schedule II, except as provided by any of paragraphs (1)(a) to (e) or subparagraph (h)(ii),
 		- **(vi)** included in the cost of inventory of the taxpayer,
 		- **(vii)** an expenditure on or in respect of scientific research and experimental development,
 		- **(viii)** a Canadian development expense or a Canadian oil and gas property expense,
 		- **(ix)** incurred, for a project, in respect of any time at or after the earliest time at which a property described in Class 43.1 or 43.2 in Schedule II was used in the project for the purpose of earning income,
 		- **(x)** incurred in respect of the administration or management of a business of the taxpayer, or
 		- **(xi)** a cost attributable to the period of the construction, renovation or alteration of depreciable property, other than property described in Class 43.1 or 43.2 in Schedule II, that relates to
-			- **(A)** the construction, renovation or alteration of the property, except as provided by paragraph (1)(b), (f), or (g), or
+			- **(A)** the construction, renovation or alteration of the property, except as provided by paragraph (1)(b), (f), (g) or (h), or
 			- **(B)** the ownership of land during the period, except as provided by paragraph (1)(b), (c) or (d).
 
 - **(3)** For the purpose of paragraph (1)(g), ***test wind turbine*** means a fixed location device that is a wind energy conversion system that would, if this Part were read without reference to this section, be property included in Class 43.1 in Schedule II because of subparagraph (d)(v) of that Class, or in Class 43.2 in Schedule II because of paragraph (b) of that Class, in respect of which the Minister, in consultation with the Minister of Natural Resources, determines that
@@ -6374,7 +6407,14 @@ other than
 	- **(f)** no other wind energy conversion system is installed within 1500 metres of the device until the level of electrical energy produced from wind by the device has been tested for at least 120 calendar days.
 
 - **(4)** For greater certainty, a Canadian Renewable and Conservation Expense includes an expense incurred by a taxpayer to acquire a fixed location device that is a wind energy conversion system only if the device is described in paragraph (1)(g).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3; 2010, c. 25, s. 77; 2016, c. 12, s. 79.
+
+- **(5)** A Canadian renewable and conservation expense does not include an expense incurred by a taxpayer at any time that is in respect of a geothermal project
+	- **(a)** that at that time is described in paragraph (1)(h); and
+	- **(b)** in respect of which the taxpayer is not at that time in compliance with the requirements of all environmental laws, by-laws and regulations of
+		- **(i)** Canada,
+		- **(ii)** a province or a municipality in Canada, or
+		- **(iii)** a municipal or public body performing a function of government in Canada.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3; 2010, c. 25, s. 77; 2016, c. 12, s. 79; 2017, c. 33, s. 92.
 
 
 
@@ -6581,30 +6621,30 @@ equal to the lesser of
 
 - **(1.1)** [Repealed, 2009, c. 2, s. 99]
 
-- **(2)** For the purposes of subsection (1), (except in respect of subparagraph (d)(vii) thereof), any amount claimed by an insurer for the year shall not include an amount in respect of a liability of a segregated fund (within the meaning assigned ***segregated fund*** by section 138.1 of the Act).
+- **(2)** For the purposes of subsection (1), (except in respect of subparagraph (d)(vii) thereof), any amount claimed by an insurer for the year shall not include an amount in respect of a liability of a segregated fund (within the meaning assigned segregated fund by section 138.1 of the Act).
 
 - **(3)** The following definitions apply in this section.
 
-***benefit on death*** includes the amount of an endowment benefit but does not include
+***benefit on death*** includes the amount of an endowment benefit but does not include
 - **(a)** any additional amount payable as a result of accidental death; and
-- **(b)** where interest, if any, on an amount held on deposit by an insurer is included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit.
+- **(b)** where interest, if any, on an amount held on deposit by an insurer is included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit. (*prestation de décès*)
 
-***coverage***, under a life insurance policy, means each life insurance (other than a fund value benefit) under the policy in respect of a specific life, or two or more specific lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies. For greater certainty, each such insurance is a separate coverage.
+***coverage***, under a life insurance policy, means each life insurance (other than a fund value benefit) under the policy in respect of a specific life, or two or more specific lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies. For greater certainty, each such insurance is a separate coverage. (*protection*)
 
-***fund value benefit***, under a life insurance policy at any time, means a benefit under the policy the amount of which is the amount by which the fund value of the policy at that time exceeds the total of all amounts each of which is a fund value of a coverage under the policy at that time.
+***fund value benefit***, under a life insurance policy at any time, means a benefit under the policy the amount of which is the amount by which the fund value of the policy at that time exceeds the total of all amounts each of which is a fund value of a coverage under the policy at that time. (*bénéfice au titre de la valeur du fonds*)
 
-***fund value of a coverage***, under a life insurance policy at any time, means the total of all amounts each of which is the amount at that time of an investment account in respect of the policy that reduces the net amount at risk as determined for the purpose of calculating the cost of insurance charges for the coverage during the period over which those charges are incurred or would be incurred if they were to apply until the termination of the coverage.
+***fund value of a coverage***, under a life insurance policy at any time, means the total of all amounts each of which is the amount at that time of an investment account in respect of the policy that reduces the net amount at risk as determined for the purpose of calculating the cost of insurance charges for the coverage during the period over which those charges are incurred or would be incurred if they were to apply until the termination of the coverage. (*valeur du fonds d’une protection*)
 
 ***fund value of a policy***, at any time, means the total of all amounts each of which is the amount at that time of an investment account in respect of the policy and, for greater certainty,
 - **(a)** includes, where interest, if any, on an amount held on deposit by an insurer is not included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit; and
-- **(b)** excludes, where interest, if any, on an amount held on deposit by an insurer is included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit.
+- **(b)** excludes, where interest, if any, on an amount held on deposit by an insurer is included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit. (*valeur du fonds d’une police*)
 
 ***future benefits to be provided***, in respect of a coverage under a life insurance policy at any time, means
 - **(a)** if there is a fund value of the coverage at that time, each benefit on death that would be payable under the coverage at a particular time after that time determined as if the amount of the benefit were equal to the amount by which the benefit on death at that time exceeds the fund value of the coverage at that time; and
-- **(b)** in any other case, each benefit on death payable under the coverage at a particular time after that time.
+- **(b)** in any other case, each benefit on death payable under the coverage at a particular time after that time. (*prestations futures à verser*)
 
 ***future net premiums or cost of insurance charges***, in respect of a coverage at any time, means
-- **(a)** for the purposes of paragraph (a) of the description of C in the definition ***net premium reserve*** in this subsection, each amount determined by the formula
+- **(a)** for the purposes of paragraph (a) of the description of C in the definition net premium reserve in this subsection, each amount determined by the formula
 ```
 A × B/C
 ```
@@ -6612,7 +6652,7 @@ where
 - **A** is future premiums or cost of insurance charges in respect of the coverage at that time,
 - **B** is the present value at the date of issue of the coverage of future benefits to be provided in respect of the coverage on that date, and
 - **C** is the present value at the date of issue of the coverage of future premiums or cost of insurance charges in respect of the coverage on that date; and
-- **(b)** for the purposes of paragraph (b) of the description of C in the definition ***net premium reserve*** in this subsection,
+- **(b)** for the purposes of paragraph (b) of the description of C in the definition net premium reserve in this subsection,
 	- **(i)** each amount determined by the formula
 ```
 A × (B + C)/(D + E)
@@ -6629,15 +6669,15 @@ where
 ```
 where
 - **A** is the amount determined under subparagraph (i), and
-- **B** is the amount of a one-year term insurance premium or cost of insurance charge that would be payable in respect of the coverage if the benefit on death were equal to the amount by which the benefit on death at the end of the first year of the coverage exceeds the fund value of the coverage, if any, at the end of the first year of the coverage.
+- **B** is the amount of a one-year term insurance premium or cost of insurance charge that would be payable in respect of the coverage if the benefit on death were equal to the amount by which the benefit on death at the end of the first year of the coverage exceeds the fund value of the coverage, if any, at the end of the first year of the coverage. (*frais d’assurance ou primes nets futurs*)
 
 ***future premiums or cost of insurance charges***, in respect of a coverage at any time, means
 - **(a)** if there is a fund value of the coverage at that time, each cost of insurance charge in respect of the coverage that would be incurred at a particular time after that time determined as if the net amount at risk under the coverage after that time were equal to the amount by which the benefit on death under the coverage at that time exceeds the fund value of the coverage at that time; and
-- **(b)** in any other case, each premium in respect of the coverage that is fixed and determined on the date of issue of the coverage that will become payable, or each cost of insurance charge in respect of the coverage that will be incurred, as the case may be, at a particular time after that time.
+- **(b)** in any other case, each premium in respect of the coverage that is fixed and determined on the date of issue of the coverage that will become payable, or each cost of insurance charge in respect of the coverage that will be incurred, as the case may be, at a particular time after that time. (*frais d’assurance ou primes futurs*)
 
 ***interpolation time***, of a coverage, means the time that is the earlier of
 - **(a)** the time that is eight years after the date of issue of the coverage; and
-- **(b)** the first time at which no premiums are payable or cost of insurance charges are incurred, as the case may be, in respect of the coverage.
+- **(b)** the first time at which no premiums are payable or cost of insurance charges are incurred, as the case may be, in respect of the coverage. (*moment d’interpolation*)
 
 ***net premium reserve***, in respect of a life insurance policy at any time, means the amount determined by the formula
 ```
@@ -6670,9 +6710,9 @@ J – K
 ```
 where
 - **J** is the present value at that time of future benefits to be provided in respect of the coverage at that time, and
-- **K** is the present value at that time of future net premiums or cost of insurance charges in respect of the coverage at that time.
+- **K** is the present value at that time of future net premiums or cost of insurance charges in respect of the coverage at that time. (*provision pour primes nettes*)
 
-***policy anniversary*** has the same meaning as in section 310.
+***policy anniversary*** has the same meaning as in section 310. (*anniversaire de la police*)
 
 - **(4)** In applying paragraph (1)(c) for the purposes of section 307 in respect of a life insurance policy (other than an annuity contract) issued after 2016, the following rules apply:
 	- **(a)** in computing present values
@@ -6695,14 +6735,14 @@ where
 			- **(B)** the reference to “premiums for the policy” in paragraph 1403(1)(e) were read as a reference to “premiums or cost of insurance charges in respect of a coverage under the policy”,
 		- **(ii)** subparagraph (1)(c)(i) is to be read without reference to “determined without reference to surrender charges”, and
 		- **(iii)** in determining the net premium reserve in respect of the policy, the present value of future net premiums or cost of insurance charges is to be calculated as if a premium or cost of insurance charge payable or incurred on a policy anniversary were payable or incurred, as the case may be, one day after the policy anniversary; and
-	- **(b)** if the policy is issued before 2017 and at a particular time after 2016 life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is converted (other than only because of a change in premium or cost of insurance rates) into another type of life insurance under the policy or is added to the policy, then that insurance is deemed to be a separate life insurance policy issued at the particular time unless
+	- **(b)** if the policy is issued before 2017 and at a particular time after 2016 life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is added to the policy or is term insurance that is converted into permanent life insurance within the policy, then that insurance is deemed to be a separate life insurance policy issued at the particular time unless
 		- **(i)** the insurance is part of a rider deemed by subsection 211(2) of the Act to be a separate life insurance policy issued at the particular time, or
 		- **(ii)** in the case of insurance added to the policy,
 			- **(A)** the insurance is medically underwritten
 				- **(I)** to obtain a reduction in the premium or cost of insurance rates under the policy, or
 				- **(II)** before 2017, or
 			- **(B)** the insurance is paid for with policy dividends or is reinstated.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-618, s. 3; SOR/84-948, s. 8; SOR/86-1136, s. 2; SOR/90-661, s. 3; SOR/92-681, s. 3(F); SOR/94-415, s. 5; SOR/94-686, s. 13(F); SOR/99-269, s. 4; SOR/2002-123, s. 1; 2009, c. 2, s. 99; 2014, c. 39, s. 86.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-618, s. 3; SOR/84-948, s. 8; SOR/86-1136, s. 2; SOR/90-661, s. 3; SOR/92-681, s. 3(F); SOR/94-415, s. 5; SOR/94-686, s. 13(F); SOR/99-269, s. 4; SOR/2002-123, s. 1; 2009, c. 2, s. 99; 2014, c. 39, s. 86; 2017, c. 33, s. 93.
 
 
 
@@ -9233,16 +9273,16 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 **3500** In this Part,
 
-***employees’ charity trust*** means a registered charity that is organized for the purpose of remitting, to other registered charities, donations that are collected from employees by an employer; (*fuducie de bienfaisance d’employés*)
+***employees’ charity trust*** means a registered charity that is organized for the purpose of remitting, to other registered charities, donations that are collected from employees by an employer; (*fuducie de bienfaisance d’employés*)
 
-***official receipt*** means a receipt for the purposes of subsection 110.1(2) or (3) or 118.1(2), (6) or (7) of the Act, containing information as required by section 3501 or 3502; (*reçu officiel*)
+***official receipt*** means a receipt for the purposes of paragraph 110.1(2)(a) or 118.1(2)(a) of the Act, containing information required by section 3501 or 3502; (*reçu officiel*)
 
-***official receipt form*** means any printed form that a registered organization or other recipient of a gift has that is capable of being completed, or that originally was intended to be completed, as an official receipt by it; (*formule de reçu officiel*)
+***official receipt form*** means any printed form that a registered organization or other recipient of a gift has that is capable of being completed, or that originally was intended to be completed, as an official receipt by it; (*formule de reçu officiel*)
 
-***other recipient of a gift*** means a person, to whom a gift is made by a taxpayer, referred to in any of paragraphs (a) and (d) of the definition ***qualified donee*** in subsection 149.1(1), paragraph 110.1(1)(c) and subparagraph 110.1(3)(a)(ii) of the Act; (*autre bénéficiaire d’un don*)
+***other recipient of a gift*** means a person, to whom a gift is made by a taxpayer, referred to in any of paragraph 110.1(1)(c), subparagraph 110.1(2.1)(a)(ii) and paragraphs (a) and (d) of the definition qualified donee in subsection 149.1(1) of the Act; (*autre bénéficiaire d’un don*)
 
-***registered organization*** means a registered charity, a registered Canadian amateur athletic association or a registered national arts service organization. (*organisation enregistrée*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 2; SOR/86-488, s. 5; SOR/88-165, s. 18; SOR/94-140, s. 8; SOR/94-686, s. 51(F); 2011, c. 24, s. 81.
+***registered organization*** means a registered charity, a registered Canadian amateur athletic association or a registered national arts service organization. (*organisation enregistrée*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 2; SOR/86-488, s. 5; SOR/88-165, s. 18; SOR/94-140, s. 8; SOR/94-686, s. 51(F); 2011, c. 24, s. 81; 2017, c. 33, s. 94.
 
 
 
@@ -10181,7 +10221,7 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 
 **4900** 
 
-- **(1)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
+- **(1)** For the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act, paragraph (d) of the definition qualified investment in subsection 146.4(1) of the Act, paragraph (h) of the definition qualified investment in section 204 of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
 	- **(a)** an interest in a trust or a share of the capital stock of a corporation that was a registered investment for the plan trust during the calendar year in which the particular time occurs or the immediately preceding year;
 	- **(b)** a share of the capital stock of a public corporation other than a mortgage investment corporation;
 	- **(c)** a share of the capital stock of a mortgage investment corporation that does not hold as part of its property at any time during the calendar year in which the particular time occurs any indebtedness, whether by way of mortgage or otherwise, of a person who is a connected person under the governing plan of the plan trust;
@@ -10199,7 +10239,7 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 	- **(e.01)** [Repealed, 2007, c. 29, s. 32]
 	- **(e.1)** a share of, or deposit with, a société d’entraide économique,
 	- **(f)** a share of, or similar interest in a credit union;
-	- **(g)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) issued by, or a deposit with, a credit union that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is a connected person under the governing plan of the plan trust, as a result of the ownership by
+	- **(g)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) issued by, or a deposit with, a credit union that has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is a connected person under the governing plan of the plan trust, as a result of the ownership by
 		- **(i)** the plan trust of a share or obligation of, or a deposit with, the credit union, or
 		- **(ii)** a registered investment of a share or obligation of, or a deposit with, the credit union if the plan trust has invested in that registered investment,
 and a credit union shall be deemed to have granted a benefit or privilege to a person in a year if at any time in that year that person continues to enjoy a benefit or privilege that was granted in a prior year;
@@ -10225,7 +10265,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** the payment of the principal amount of which is guaranteed by Her Majesty in right of a province;
 	- **(i.11)** a share of the capital stock of a Canadian corporation that is registered under section 11 of the Equity Tax Credit Act, chapter 3 of the Statutes of Nova Scotia, 1993, the registration of which has not been revoked under that Act;
 	- **(i.12)** a share of the capital stock of a Canadian corporation that is registered under section 39 of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998, the registration of which has not been revoked under that Act;
-	- **(i.13)** a share of the capital stock of a Canadian corporation that is registered under section 2 of the Community Development Equity Tax Credit Act, chapter C-13.01 of the Revised Statutes of Prince Edward Island, 1988, the registration of which has not been revoked under that Act;
+	- **(i.13)** a share of the capital stock of a Canadian corporation that is registered under section 2 of the Community Development Equity Tax Credit Act, chapter C-13.01 of the Revised Statutes of Prince Edward Island, 1988, the registration of which has not been revoked under that Act;
 	- **(i.2)** indebtedness of a Canadian corporation (other than a corporation that is a connected person under the governing plan of the plan trust) represented by a bankers’ acceptance;
 	- **(i.3)** [Repealed, 2009, c. 2, s. 105]
 	- **(j)** a debt obligation of a debtor, or an interest, or for civil law a right, in that debt obligation, where
@@ -10239,7 +10279,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 	- **(j.2)** a certificate evidencing an undivided interest, or for civil law an undivided right, in one or more properties, where
 		- **(i)** all or substantially all of the fair market value of the certificate is attributable to property that is, or is incidental to, a debt obligation secured by
 			- **(A)** a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or
-			- **(B)** property described in paragraph (a) or (b) of the definition ***qualified investment*** in section 204 of the Act that was substituted for the security referred to in clause (A) under the terms of the debt obligation,
+			- **(B)** property described in paragraph (a) or (b) of the definition qualified investment in section 204 of the Act that was substituted for the security referred to in clause (A) under the terms of the debt obligation,
 		- **(ii)** the certificate has, at the time of acquisition by the plan trust, an investment grade rating with a credit rating agency referred to in subsection (2), and
 		- **(iii)** the certificate is issued as part of an issue of certificates by the issuer for a total amount of at least $25 million;
 	- **(k) and (l)** [Repealed, 2009, c. 2, s. 105]
@@ -10277,33 +10317,29 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** the certificate is acquired by the plan trust directly from the issuer of the certificate or from a specified corporation; or
 	- **(w)** an American Depositary Receipt where the property represented by the receipt is listed on a designated stock exchange.
 
-- **(2)** For the purposes of paragraph (c.1) of the definition ***qualified investment*** in section 204 of the Act, each of the following is a prescribed credit rating agency:
+- **(2)** For the purposes of paragraph (c.1) of the definition qualified investment in section 204 of the Act, each of the following is a prescribed credit rating agency:
 	- **(a)** A.M. Best Company, Inc.;
 	- **(b)** DBRS Limited;
 	- **(c)** Fitch, Inc.;
 	- **(d)** Moody’s Investors Service, Inc.; and
 	- **(e)** Standard & Poor’s Financial Services LLC.
 
-- **(3)** For the purpose of paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, a contract with a licensed annuities provider for an annuity payable to an employee who is a beneficiary under a deferred profit sharing plan beginning not later than the end of the year in which the employee attains 71 years of age, the guaranteed term of which, if any, does not exceed 15 years, is prescribed as a qualified investment for a trust governed by such a plan or revoked plan.
+- **(3)** For the purpose of paragraph (h) of the definition qualified investment in section 204 of the Act, a contract with a licensed annuities provider for an annuity payable to an employee who is a beneficiary under a deferred profit sharing plan beginning not later than the end of the year in which the employee attains 71 years of age, the guaranteed term of which, if any, does not exceed 15 years, is prescribed as a qualified investment for a trust governed by such a plan or revoked plan.
 
 - **(4)** [Repealed, SOR/2001-216, s. 6]
 
-- **(5)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered disability savings plan, a registered education savings plan or a TFSA at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
+- **(5)** For the purposes of paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (d) of the definition qualified investment in subsection 146.4(1) of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered disability savings plan, a registered education savings plan or a TFSA at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
 
-- **(6)** Subject to subsections (8) and (9), for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is not a prohibited investment for the trust and is
-	- **(a)** a share of the capital stock of an eligible corporation (as defined in subsection 5100(1)) unless, in the case of a registered education savings plan, a beneficiary or subscriber under the plan is a designated shareholder of the corporation;
+- **(6)** Subject to subsection (9), for the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act and paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is not a prohibited investment for the trust and is
+	- **(a)** a share of the capital stock of an eligible corporation (as defined in subsection 5100(1));
 	- **(b)** an interest of a limited partner in a small business investment limited partnership; or
 	- **(c)** an interest in a small business investment trust.
 
-- **(7)** Subject to subsection (11), for the purposes of paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, a property is prescribed as a qualified investment for a trust governed by a deferred profit sharing plan or revoked plan at any time if at that time the property is an interest
+- **(7)** Subject to subsection (11), for the purposes of paragraph (h) of the definition qualified investment in section 204 of the Act, a property is prescribed as a qualified investment for a trust governed by a deferred profit sharing plan or revoked plan at any time if at that time the property is an interest
 	- **(a)** of a limited partner in a small business investment limited partnership; or
 	- **(b)** in a small business investment trust.
 
-- **(8)** For the purposes of subsection (6), a property that is held by a trust governed by a registered education savings plan ceases to be a qualified investment for the trust immediately before an amount is received if
-	- **(a)** the property is a share referred to in paragraph (6)(a), an interest in a small business investment limited partnership that holds a small business security, or an interest in a small business investment trust that holds a small business security;
-	- **(b)** a person who is a beneficiary or subscriber under the plan provides services to or for the issuer of the share or small business security, or to or for a person related to that issuer;
-	- **(c)** the amount is received in respect of the share or small business security; and
-	- **(d)** it can reasonably be considered, having regard to all the circumstances (including the terms and conditions of the share or small business security or of any related agreement, and the rate of interest or the dividend provided on the share or small business security), that the amount is on account, in lieu or in satisfaction of payment for the services.
+- **(8)** [Repealed, 2017, c. 33, s. 95]
 
 - **(9)** For the purposes of subsection (6), where
 	- **(a)** a trust governed by a registered retirement savings plan, a registered education savings plan or a registered retirement income fund holds
@@ -10328,38 +10364,20 @@ the interest shall not be a qualified investment for the trust governed by the p
 		- **(ii)** an interest in a small business investment trust
 that holds a small business security of a corporation,
 	- **(b)** payments have been made in trust to a trustee under the deferred profit sharing plan or revoked plan for the benefit of beneficiaries thereunder by the corporation or a corporation related thereto, and
-	- **(c)** the small business security is not an equity share described in paragraph (e) of the definition ***qualified investment*** in section 204 of the Act,
+	- **(c)** the small business security is not an equity share described in paragraph (e) of the definition qualified investment in section 204 of the Act,
 the interest referred to in subparagraphs (a)(i) and (ii) shall not be a qualified investment for the trust referred to in paragraph (a).
 
-- **(12)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered education savings plan at any time if
-	- **(a)** at the time the property was acquired by the trust,
-		- **(i)** the property was a share of the capital stock of a specified small business corporation,
-		- **(ii)** the property was a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
-		- **(iii)** the property was a qualifying share in respect of a specified cooperative corporation and the plan; and
-	- **(b)** immediately after the time the property was acquired by the trust, each person who is a beneficiary or a subscriber under the plan was not a connected shareholder of the corporation.
+- **(12) and (13)** [Repealed, 2017, c. 33, s. 95]
 
-- **(13)** Notwithstanding subsection (12), where
-	- **(a)** a share that is otherwise a qualified investment for the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act solely because of subsection (12) is held by a trust governed by a registered education savings plan,
-	- **(b)** an individual
-		- **(i)** provides services to or for,
-		- **(ii)** acquires goods from, or
-		- **(iii)** is provided services by
-the issuer of the share or a person related to that issuer,
-	- **(c)** an amount is received in respect of the share by the trust, and
-	- **(d)** the amount can reasonably be considered, having regard to all the circumstances, including the terms and conditions of the share, or any agreement relating thereto and any dividend provided on the share to be
-		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
-		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
-the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-
-- **(14)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a RRIF, RRSP or TFSA at any time if, at the time the property was acquired by the trust, the property
+- **(14)** For the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a RESP, RRIF, RRSP or TFSA at any time if, at the time the property was acquired by the trust, the property
 	- **(a)** was
 		- **(i)** a share of the capital stock of a specified small business corporation,
 		- **(ii)** a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
-		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the RRIF, RRSP or TFSA; and
+		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the RESP, RRIF, RRSP or TFSA; and
 	- **(b)** was not a prohibited investment for the trust.
 
-- **(15)** For the purposes of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a RRIF, RRSP or TFSA solely because of subsection (14) is prescribed property for the trust at any time if, at that time, the property is not described in any of subparagraphs (14)(a)(i) to (iii).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20; SOR/2012-270, s. 1; 2013, c. 40, s. 108.
+- **(15)** For the purposes of the definition prohibited investment in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a RESP, RRIF, RRSP or TFSA solely because of subsection (14) is prescribed property for the trust at any time if, at that time, the property is not described in any of subparagraphs (14)(a)(i) to (iii).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20; SOR/2012-270, s. 1; 2013, c. 40, s. 108; 2017, c. 33, s. 95.
 
 
 
@@ -11158,14 +11176,15 @@ is of
 **5600** For the purpose of section 86.1 of the Act, the following distributions of shares are prescribed:
 - **(a)** the distribution by Active Biotech AB, on May 10, 1999, of shares of Wilhelm Sonesson AB;
 - **(b)** the distribution by Orckit Communications Ltd., on June 30, 2000, of shares of Tioga Technologies Ltd;
-- **(c)** the distribution by Electrolux AB, on June 12, 2006, of shares of Husqvarna AB;
+- **(c)** the distribution by Electrolux AB, on June 12, 2006, of shares of Husqvarna AB;
 - **(d)** the distribution by Fiat S.p.A., on January 1, 2011 to its common shareholders, of common shares of Fiat Industrial S.p.A;
 - **(e)** the distribution by Foster’s Group Limited, on May 9, 2011 to its common shareholders, of common shares of Treasury Wine Estates Limited;
 - **(f)** the distribution by Telecom Corporation of New Zealand Limited, on November 30, 2011 to its common shareholders, of common shares of Chorus Limited;
 - **(g)** the distribution by Tyco International Ltd. of Switzerland, on September 28, 2012 to its common shareholders, of common shares of Pentair Ltd. of Switzerland;
-- **(h)** the distribution by Siemens AG, on July 5, 2013 to its common shareholders, of common shares of OSRAM Licht AG; and
-- **(i)** the distribution by Brambles Limited, on December 18, 2013 to its common shareholders, of common shares of Recall Holdings Limited.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22; 2013, c. 40, s. 111; SOR/2015-170, s. 3.
+- **(h)** the distribution by Siemens AG, on July 5, 2013 to its common shareholders, of common shares of OSRAM Licht AG;
+- **(i)** the distribution by Brambles Limited, on December 18, 2013 to its common shareholders, of common shares of Recall Holdings Limited; and
+- **(j)** the distribution by BHP Billiton Limited, on May 24, 2015 to its common shareholders, of common shares of South32 Limited.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22; 2013, c. 40, s. 111; SOR/2015-170, s. 3; 2017, c. 33, s. 96.
 
 
 
@@ -11897,27 +11916,27 @@ is of
 
 - **(1)** For the purposes of this Part,
 
-***active business*** has the meaning assigned by subsection 95(1) of the Act; (*entreprise exploitée activement*)
+***active business*** has the meaning assigned by subsection 95(1) of the Act; (*entreprise exploitée activement*)
 
-***controlled foreign affiliate*** has the meaning assigned by subsection 95(1) of the Act; (*société étrangère affiliée contrôlée*)
+***controlled foreign affiliate*** has the meaning assigned by subsection 95(1) of the Act; (*société étrangère affiliée contrôlée*)
 
 ***designated person or partnership***, in respect of a taxpayer at any time, means the taxpayer or a person or partnership that is at that time
 - **(a)** a person (other than a partnership) that does not, at that time, deal at arm’s length with the taxpayer, or
-- **(b)** a partnership a member of which is, at that time, a designated person or partnership in respect of the taxpayer under this definition; (*personne ou société de personnes désignée*)
+- **(b)** a partnership a member of which is, at that time, a designated person or partnership in respect of the taxpayer under this definition; (*personne ou société de personnes désignée*)
 
-***earnings*** of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business means
+***earnings*** of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business means
 - **(a)** in the case of an active business carried on by it in a country,
 	- **(i)** the income or profit from the active business for the year computed in accordance with the income tax law of the country in which the affiliate is resident, in any case where the affiliate is required by that law to compute that income or profit,
 	- **(ii)** the income or profit from the active business for the year computed in accordance with the income tax law of the country in which the business is carried on, in any case not described in subparagraph (i) where the affiliate is required by that law to compute that income or profit, and
 	- **(iii)** in any other case, the amount that would be the income from the active business for the year under Part I of the Act if the business were carried on in Canada, the affiliate were resident in Canada and the Act were read without reference to subsections 18(4), 80(3) to (12), (15) and (17) and 80.01(5) to (11) and sections 80.02 to 80.04,
 adjusted in each case in accordance with subsections (2), (2.1), (2.2) and (2.9) and, for the purpose of this Part, to the extent that the earnings of an affiliate from an active business carried on by it cannot be attributed to a permanent establishment in any particular country, they shall be attributed to the permanent establishment in the country in which the affiliate is resident and, if the affiliate is resident in more than one country, to the permanent establishment in the country that may reasonably be regarded as the affiliate’s principal place of residence, and
-- **(b)** in any other case, the total of all amounts each of which is an amount of income that would be required under paragraph 95(2)(a) or subsection 95(2.44) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that income were computed taking into account the rules in subsection (2.03); (*gains*)
+- **(b)** in any other case, the total of all amounts each of which is an amount of income that would be required under paragraph 95(2)(a) or subsection 95(2.44) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that income were computed taking into account the rules in subsection (2.03); (*gains*)
 
-***exempt deficit*** of a foreign affiliate of a corporation in respect of the corporation at any time means the amount, if any, by which
+***exempt deficit*** of a foreign affiliate of a corporation in respect of the corporation at any time means the amount, if any, by which
 - **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vi) of the description of B in the definition ***exempt surplus*** in this subsection
 
 exceeds
-- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vii) of the description of A in that definition; (*déficit exonéré*)
+- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vii) of the description of A in that definition; (*déficit exonéré*)
 
 ***exempt earnings***, of a particular foreign affiliate of a particular corporation for a taxation year of the particular affiliate, means, subject to subsection (2.02), the total of all amounts each of which is
 - **(a)** the amount by which the capital gains of the particular affiliate for the year (other than capital gains included in computing the amount, at any time in the year, of the particular affiliate’s hybrid surplus, or hybrid deficit, in respect of the particular corporation) exceed the total of
@@ -11951,12 +11970,12 @@ where
 		- **(E)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(D) of the Act if
 			- **(I)** the second and third affiliates referred to in subclause 95(2)(a)(ii)(D)(IV) of the Act are each resident in a designated treaty country throughout their relevant taxation years (within the meaning assigned by that subclause), and
 			- **(II)** that income would be required to be so included if
-				- **1.** paragraph (a) of the definition ***excluded property*** in subsection 95(1) of the Act were read as follows:
+				- **1** paragraph (a) of the definition ***excluded property*** in subsection 95(1) of the Act were read as follows:
 
 				- **(a)** used or held by the foreign affiliate principally for the purpose of gaining or producing income from an active business carried on by it in a designated treaty country (within the meaning assigned by subsection 5907(11) of the Income Tax Regulations),
 
 
-				- **2.** paragraph (c) of that definition ***excluded property*** were read as follows:
+				- **2** paragraph (c) of that definition ***excluded property*** were read as follows:
 
 				- **(c)** property all or substantially all of the income from which is, or would be, if there were income from the property, income from an active business (which, for this purpose, includes income that would be deemed to be income from an active business by paragraph (2)(a) if that paragraph were read without reference to subparagraph (v)) that is included in computing the foreign affiliate’s exempt earnings, or exempt loss, as defined in subsection 5907(1) of the Income Tax Regulations, for a taxation year,
 
@@ -11968,7 +11987,7 @@ where
 		- **(J)** an amount that is required to be included in computing the particular affiliate’s income from an active business for the year under subsection 95(2.44) of the Act if the amount is in respect of income that would, in the absence of paragraph 95(2)(a.3) of the Act, be income from an active business carried on by the particular affiliate in a designated treaty country, or
 - **(e)** where the year is the 1976 or any subsequent taxation year of the particular affiliate, each amount that is included in the particular affiliate’s exempt earnings for the year because of subsection (10),
 
-minus the portion of any income or profits tax paid to the government of a country for the year by the particular affiliate that can reasonably be regarded as tax in respect of the earnings referred to in paragraph (c) or in subparagraph (d)(ii); (*gains exonérés*)
+minus the portion of any income or profits tax paid to the government of a country for the year by the particular affiliate that can reasonably be regarded as tax in respect of the earnings referred to in paragraph (c) or in subparagraph (d)(ii); (*gains exonérés*)
 
 ***exempt loss***, of a foreign affiliate of a corporation for a taxation year of the affiliate, means, subject to subsection (2.02), the total of all amounts each of which is
 - **(a)** the amount by which the capital losses of the affiliate for the year (other than capital losses included in computing the amount, at any time in the year, of the particular affiliate’s hybrid surplus, or hybrid deficit, in respect of the particular corporation) exceed the total of
@@ -11990,7 +12009,7 @@ minus the portion of any income or profits tax paid to the government of a count
 	- **(ii)** the amount by which
 		- **(A)** the affiliate’s loss for the year from an active business to the extent determined under subparagraph (d)(ii) of the definition ***exempt earnings*** in respect of the year with any modifications that the circumstances requireexceeds
 		- **(B)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax that was refunded in respect of the amount determined under clause (A), or
-- **(d)** where the year is the 1976 or any subsequent taxation year of the affiliate, each amount that is included in the affiliate’s exempt loss for the year because of subsection (10); (*perte exonérée*)
+- **(d)** where the year is the 1976 or any subsequent taxation year of the affiliate, each amount that is included in the affiliate’s exempt loss for the year because of subsection (10); (*perte exonérée*)
 
 ***exempt surplus***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the latest of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
@@ -12015,13 +12034,13 @@ where
 - **(iii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of any amount referred to in subparagraph (iii), (iv) or (v) of the description of A,
 - **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed by paragraph 5901(1)(a) to have been paid out of the subject affiliate’s exempt surplus in respect of the corporation,
 - **(v)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(d)(xii) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
-- **(vi)** an amount, in the period and before the particular time, deducted from the exempt surplus of the subject affiliate or added to its exempt deficit under subsection (1.092), (1.1) or (1.2); (*surplus exonéré*)
+- **(vi)** an amount, in the period and before the particular time, deducted from the exempt surplus of the subject affiliate or added to its exempt deficit under subsection (1.092), (1.1) or (1.2); (*surplus exonéré*)
 
 ***hybrid deficit***, of a foreign affiliate of a corporation in respect of the corporation at any time, means the amount, if any, by which
 - **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vii) of the description of B in the definition ***hybrid surplus***
 
 exceeds
-- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (v) of the description of A in that definition; (*déficit hybride*)
+- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (v) of the description of A in that definition; (*déficit hybride*)
 
 ***hybrid surplus***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the latest of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
@@ -12054,7 +12073,7 @@ where
 - **(iv)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of an amount referred to in subparagraph (ii) or (iv) of the description of A,
 - **(v)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(a.1) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(b) to have been paid out of the subject affiliate’s hybrid surplus in respect of the corporation,
 - **(vi)** each amount that is required under section 5902 to be included under this subparagraph in the period and before the particular time, or
-- **(vii)** an amount deducted from the hybrid surplus of the subject affiliate or added to its hybrid deficit in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*surplus hybride*)
+- **(vii)** an amount deducted from the hybrid surplus of the subject affiliate or added to its hybrid deficit in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*surplus hybride*)
 
 ***hybrid underlying tax***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the later of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation, and
@@ -12072,19 +12091,19 @@ where
 - **(i)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of an amount referred to in subparagraph (ii) or (iii) of the description of B in the definition ***hybrid surplus***,
 - **(ii)** the hybrid underlying tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(a.1) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(b) to have been paid out of the subject affiliate’s hybrid surplus in respect of the corporation before that time,
 - **(iii)** each amount that is required under section 5902 to be included under this subparagraph in the period and before the particular time, or
-- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be decreased in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*montant intrinsèque d’impôt hybride*)
+- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be decreased in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*montant intrinsèque d’impôt hybride*)
 
 ***hybrid underlying tax applicable***, in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate, means the proportion of the hybrid underlying tax of the affiliate at that time in respect of the corporation that
 - **(a)** the portion of the whole dividend deemed to have been paid out of the affiliate’s hybrid surplus in respect of the corporation
 
 is of
-- **(b)** the affiliate’s hybrid surplus at that time in respect of the corporation; (*montant intrinsèque d’impôt hybride applicable*)
+- **(b)** the affiliate’s hybrid surplus at that time in respect of the corporation; (*montant intrinsèque d’impôt hybride applicable*)
 
 ***loss***, of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business, means
 - **(a)** in the case of an active business carried on by it in a country, the amount of its loss for the year from the active business carried on in the country computed by applying the provisions of paragraph (a) of the definition ***earnings*** respecting the computation of earnings from that active business carried on in that country, with any modifications that the circumstances require, and
-- **(b)** in any other case, the total of all amounts each of which is an amount of a loss that would be required under paragraph 95(2)(a) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that loss were computed taking into account the rules in subsection (2.03); (*perte*)
+- **(b)** in any other case, the total of all amounts each of which is an amount of a loss that would be required under paragraph 95(2)(a) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that loss were computed taking into account the rules in subsection (2.03); (*perte*)
 
-***net earnings*** of a foreign affiliate of a corporation for a taxation year of the affiliate
+***net earnings*** of a foreign affiliate of a corporation for a taxation year of the affiliate
 - **(a)** from an active business carried on by it in a country is the amount of its earnings for the year from that active business carried on in that country minus the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of those earnings,
 - **(b)** in respect of foreign accrual property income is the amount that would be its foreign accrual property income for the year, if the formula in the definition ***foreign accrual property income*** in subsection 95(1) of the Act were read without reference to F and F.1 in that formula and the amount determined for E in that formula were the amount determined under paragraph (a) of the description of E in that formula, minus the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax in respect of that income,
 - **(c)** from dispositions of property used or held by it principally for the purpose of gaining or producing income from an active business carried on by it in a country that is not a designated treaty country (other than Canada) is the amount, if any, by which
@@ -12103,9 +12122,9 @@ exceeds
 is the amount, if any, by which
 	- **(iv)** the portion of the affiliate’s taxable capital gain for the year from the particular disposition that accrued after its 1975 taxation year
 exceeds
-	- **(v)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax that was paid for the year in respect of the amount determined under subparagraph (iv); (*gains nets*)
+	- **(v)** the portion of any income or profits tax paid to the government of a country for the year by the affiliate that can reasonably be regarded as tax that was paid for the year in respect of the amount determined under subparagraph (iv); (*gains nets*)
 
-***net loss*** of a foreign affiliate of a corporation for a taxation year of the affiliate
+***net loss*** of a foreign affiliate of a corporation for a taxation year of the affiliate
 - **(a)** from an active business carried on by it in a country is the amount of its loss for the year from that active business carried on in that country minus the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax refunded in respect of that loss,
 - **(b)** in respect of foreign accrual property income is the amount, if any, by which
 	- **(i)** the amount, if any, by which
@@ -12133,9 +12152,9 @@ exceeds
 is the amount, if any, by which
 	- **(iv)** the portion of the affiliate’s allowable capital loss for the year from the particular disposition that accrued after its 1975 taxation year
 exceeds
-	- **(v)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax that was refunded in respect of the amount determined under subparagraph (iv); (*perte nette*)
+	- **(v)** the portion of any income or profits tax refunded by the government of a country for the year to the affiliate that can reasonably be regarded as tax that was refunded in respect of the amount determined under subparagraph (iv); (*perte nette*)
 
-***net surplus*** of a foreign affiliate of a corporation resident in Canada in respect of the corporation is, at any particular time,
+***net surplus*** of a foreign affiliate of a corporation resident in Canada in respect of the corporation is, at any particular time,
 - **(a)** if the affiliate has no exempt deficit, no hybrid deficit and no taxable deficit, the amount that is the total of its exempt surplus, hybrid surplus and taxable surplus in respect of the corporation,
 - **(b)** if the affiliate has no exempt deficit but has a hybrid deficit and a taxable deficit, the amount, if any, by which its exempt surplus exceeds the total of its hybrid deficit and taxable deficit in respect of the corporation,
 - **(c)** if the affiliate has no exempt deficit and no hybrid deficit but has a taxable deficit, the amount, if any, by which the total of its exempt surplus and hybrid surplus exceeds its taxable deficit in respect of the corporation,
@@ -12144,15 +12163,15 @@ exceeds
 - **(f)** if the affiliate has an exempt deficit and a hybrid deficit but no taxable deficit, the amount, if any, by which its taxable surplus exceeds the total of its exempt deficit and hybrid deficit in respect of the corporation, or
 - **(g)** if the affiliate has an exempt deficit and a taxable deficit but no hybrid deficit, the amount, if any, by which its hybrid surplus exceeds the total of its exempt deficit and taxable deficit in respect of the corporation,
 
-as the case may be, at that time; (*surplus net*)
+as the case may be, at that time; (*surplus net*)
 
-***taxable deficit*** of a foreign affiliate of a corporation in respect of the corporation at any time is the amount, if any, by which
+***taxable deficit*** of a foreign affiliate of a corporation in respect of the corporation at any time is the amount, if any, by which
 - **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vi) of the description of B in the definition ***taxable surplus*** in this subsection
 
 exceeds
-- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (v) of the description of A in that definition; (*déficit imposable*)
+- **(b)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (v) of the description of A in that definition; (*déficit imposable*)
 
-***taxable earnings*** of a foreign affiliate of a corporation for a taxation year of the affiliate is
+***taxable earnings*** of a foreign affiliate of a corporation for a taxation year of the affiliate is
 - **(a)** where the year is the 1975 or any preceding taxation year of the affiliate, nil, and
 - **(b)** in any other case, the total of all amounts each of which is
 	- **(i)** the affiliate’s net earnings for the year from an active business carried on by it in a country,
@@ -12164,9 +12183,9 @@ exceeds
 		- **(B)** the total of all amounts each of which is an amount required by paragraph (2.02)(b) to be deducted under this definition for the year,
 	- **(v)** [Repealed, 2013, c. 34, s. 46]
 
-but does not include any amount included in the affiliate’s exempt earnings for the year; (*gains imposables*)
+but does not include any amount included in the affiliate’s exempt earnings for the year; (*gains imposables*)
 
-***taxable loss*** of a foreign affiliate of a corporation for a taxation year of the affiliate is
+***taxable loss*** of a foreign affiliate of a corporation for a taxation year of the affiliate is
 - **(a)** where the year is the 1975 or any preceding taxation year of the affiliate, nil, and
 - **(b)** in any other case, the total of all amounts each of which is
 	- **(i)** the affiliate’s net loss for the year from an active business carried on by it in a country,
@@ -12174,7 +12193,7 @@ but does not include any amount included in the affiliate’s exempt earnings fo
 	- **(iii)** the affiliate’s loss for the year as determined under paragraph (b) of the definition ***loss*** minus the portion of any income or profits tax refunded by the government of a country for a year to the affiliate that can reasonably be regarded as tax refunded in respect of that loss, or
 	- **(iv)** to the extent not included under subparagraph (ii), the affiliate’s net loss for the year determined under paragraphs (c) to (f) of the definition ***net loss***,
 
-but does not include any amount included in the affiliate’s exempt loss for the year; (*perte imposable*)
+but does not include any amount included in the affiliate’s exempt loss for the year; (*perte imposable*)
 
 ***taxable surplus***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the latest of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation,
@@ -12197,7 +12216,7 @@ where
 - **(iii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of that portion of a dividend referred to in subparagraph (iii) of the description of A,
 - **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(b) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(a.1) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation,
 - **(v)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(k)(xi) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
-- **(vi)** an amount, in the period and before the particular time, deducted from the taxable surplus of the subject affiliate or added to its taxable deficit under subsection (1.092), (1.1) or (1.2); (*surplus imposable*)
+- **(vi)** an amount, in the period and before the particular time, deducted from the taxable surplus of the subject affiliate or added to its taxable deficit under subsection (1.092), (1.1) or (1.2); (*surplus imposable*)
 
 ***underlying foreign tax***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the later of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation, and
@@ -12217,21 +12236,21 @@ where
 - **(i)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of the taxable loss of the subject affiliate for a taxation year ending in the period,
 - **(ii)** the underlying foreign tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(b) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(a.1) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation before that time,
 - **(iii)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(l)(x) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
-- **(iv)** the amount by which the subject affiliate’s underlying foreign tax is required to be decreased in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*montant intrinsèque d’impôt étranger*)
+- **(iv)** the amount by which the subject affiliate’s underlying foreign tax is required to be decreased in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*montant intrinsèque d’impôt étranger*)
 
-***underlying foreign tax applicable*** in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate is the total of
+***underlying foreign tax applicable*** in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate is the total of
 - **(a)** the proportion of the underlying foreign tax of the affiliate at that time in respect of the corporation that
 	- **(i)** the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation
 is of
 	- **(ii)** the affiliate’s taxable surplus at that time in respect of the corporation, and
 - **(b)** any additional amount in respect of the whole dividend that the corporation claims in its return of income under Part I of the Act in respect of the whole dividend, not exceeding the amount that is the lesser of
 	- **(i)** the amount by which the portion of the whole dividend deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation exceeds the amount determined under paragraph (a), and
-	- **(ii)** the amount by which the affiliate’s underlying foreign tax in respect of the corporation immediately before the whole dividend was paid exceeds the amount determined under paragraph (a); (*montant intrinsèque d’impôt étranger applicable*)
+	- **(ii)** the amount by which the affiliate’s underlying foreign tax in respect of the corporation immediately before the whole dividend was paid exceeds the amount determined under paragraph (a); (*montant intrinsèque d’impôt étranger applicable*)
 
-***whole dividend*** paid at any time on the shares of a class of the capital stock of a foreign affiliate of a taxpayer resident in Canada is the total of all amounts each of which is the dividend paid at that time on a share of that class except that
+***whole dividend*** paid at any time on the shares of a class of the capital stock of a foreign affiliate of a taxpayer resident in Canada is the total of all amounts each of which is the dividend paid at that time on a share of that class except that
 - **(a)** where a dividend is paid at the same time on shares of more than one class of the capital stock of an affiliate, for the purpose only of section 5900, the whole dividend referred to in section 5901 paid at that time on the shares of a class of the capital stock of the affiliate is deemed to be the total of all amounts each of which is the dividend paid at that time on a share of the capital stock of the affiliate,
 - **(b)** where a whole dividend is deemed by subparagraph 5902(1)(a)(ii) to have been paid at the same time on shares of more than one class of an affiliate’s capital stock, for the purpose only of that subparagraph, the whole dividend deemed to have been paid at that time on the shares of a class of the affiliate’s capital stock is deemed to be the total of all amounts each of which is a whole dividend deemed to have been paid at that time on the shares of a class of the affiliate’s capital stock, and
-- **(c)** where more than one whole dividend is deemed by paragraph 5900(2)(b) to have been paid at the same time on shares of a class of the capital stock of an affiliate, for the purposes only of paragraph 5900(1)(d) and the definitions ***underlying foreign tax*** and ***underlying foreign tax applicable*** in this subsection, the whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate is deemed to be the total of all amounts each of which is a whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate and all of that whole dividend shall be deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation. (*dividende global*)
+- **(c)** where more than one whole dividend is deemed by paragraph 5900(2)(b) to have been paid at the same time on shares of a class of the capital stock of an affiliate, for the purposes only of paragraph 5900(1)(d) and the definitions ***underlying foreign tax*** and ***underlying foreign tax applicable*** in this subsection, the whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate is deemed to be the total of all amounts each of which is a whole dividend deemed to have been paid at that time on the shares of a class of the capital stock of the affiliate and all of that whole dividend shall be deemed to have been paid out of the affiliate’s taxable surplus in respect of the corporation. (*dividende global*)
 
 - **(1.01)** For the purposes of section 113 of the Act, ***exempt surplus***, ***hybrid surplus*** and ***taxable surplus*** have the meanings assigned by subsection (1).
 
@@ -12266,7 +12285,7 @@ is of
 			- **(B)** that has an equity percentage in the funding affiliate, and
 		- **(iii)** a partnership a member of which is a person or partnership referred to in subparagraph (i) or (ii).
 
-- **(1.07)** For the purposes of paragraph (1.03)(a), a specified owner in respect of the particular corporation is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of another corporation that are considered to be owned for the purposes of the Act solely because the specified owner is not treated as a corporation under the relevant foreign tax law.
+- **(1.07)** For the purposes of paragraph (1.03)(a), a specified owner in respect of the particular corporation is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of another corporation that are considered to be owned for the purposes of the Act solely because the specified owner or the other corporation is not treated as a corporation under the relevant foreign tax law.
 
 - **(1.08)** For the purposes of paragraph (1.03)(b), a member of a partnership is not to be considered to have a lesser direct or indirect share of the income of the partnership under the relevant foreign tax law than for the purposes of the Act solely because of one or more of the following:
 	- **(a)** a difference between the relevant foreign tax law and the Act in the manner of
@@ -12542,8 +12561,8 @@ where
 		- **(ii)** there is to be added to the amount determined under paragraph (a) of the definition ***loss*** in subsection (1),
 			- **(A)** where the operator is the affiliate, the total of
 				- **(I)** the amount, if any, by which
-					- **1.** the total of all amounts each of which is an amount deemed under paragraph 95(2)(k.1) of the Act to have been claimed under any of paragraphs 20(1)(l), (l.1) and (7)(c), and subparagraphs 138(3)(a)(i), (ii) and (iv), of the Act (each of which provisions is referred to in this subparagraph as a “reserve provision”) in computing the income from the foreign business for the preceding taxation yearexceeds
-					- **2.** the total of all amounts each of which is an amount actually claimed by the operator as a reserve in computing its income from the foreign business for that year that can reasonably be considered to be in respect of amounts in respect of which a reserve could have been claimed under a reserve provision on the assumption that the operator could have claimed amounts in respect of the reserve provisions for that year, and
+					- **1** the total of all amounts each of which is an amount deemed under paragraph 95(2)(k.1) of the Act to have been claimed under any of paragraphs 20(1)(l), (l.1) and (7)(c), and subparagraphs 138(3)(a)(i), (ii) and (iv), of the Act (each of which provisions is referred to in this subparagraph as a “reserve provision”) in computing the income from the foreign business for the preceding taxation yearexceeds
+					- **2** the total of all amounts each of which is an amount actually claimed by the operator as a reserve in computing its income from the foreign business for that year that can reasonably be considered to be in respect of amounts in respect of which a reserve could have been claimed under a reserve provision on the assumption that the operator could have claimed amounts in respect of the reserve provisions for that year, and
 				- **(II)** the total of all amounts each of which is the amount, if any, by which the amount determined under the description of B in the formula in subclause (i)(A)(II) in respect of a property described in that subclause exceeds the amount determined under the description of A in the formula in that clause in respect of the property, and
 			- **(B)** where the operator is the partnership, the amount determined under subsection 5908(13); and
 	- **(b)** any property of the operator that is, under that paragraph, deemed to have been disposed of and reacquired by the operator is, for the purposes of this section, deemed to have been disposed of and reacquired by the operator in the same manner and for the same amounts as if that paragraph applied for the purposes of this section.
@@ -12567,7 +12586,24 @@ where
 
 - **(7.1)** [Repealed, 2013, c. 34, s. 85]
 
-- **(8)** For the purposes of computing the various amounts referred to in this section, the first taxation year of a foreign affiliate, of a corporation resident in Canada, that is formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) is deemed to have commenced at the time of the merger, and a taxation year of a predecessor corporation (within the meaning assigned by subsection 5905(3)) that would otherwise have ended after that time is deemed to have ended immediately before that time.
+- **(8)** For the purposes of computing the various amounts referred to in this section,
+	- **(a)** the first taxation year of a foreign affiliate, of a corporation resident in Canada, that is formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) is deemed to have commenced at the time of the merger, and a taxation year of a predecessor corporation (within the meaning assigned by subsection 5905(3)) that would otherwise have ended after that time is deemed to have ended immediately before that time; and
+	- **(b)** if subsection 91(1.2) of the Act applies at any particular time in respect of a foreign affiliate of a corporation, the various amounts are to be computed, in respect of attributed amounts for the stub period in respect of the particular time, as if
+		- **(i)** the affiliate’s taxation year that would have included the particular time ended at the stub-period end time in respect of the particular time, and
+		- **(ii)** all transactions or events, giving rise to attributed amounts, that occurred at the particular time, occurred at the stub-period end time in respect of the particular time.
+
+- **(8.1)** The following definitions apply in paragraph 5907(8)(b).
+
+***attributed amounts***, for a stub period, in respect of a particular time referred to in paragraph (8)(b), of a foreign affiliate of a corporation, means 
+- **(a)** the amounts of any income, gain or loss of the affiliate for the stub period that are relevant in determining amounts that are to be included or may be deducted under section 91 of the Act in respect of the affiliate for the particular stub period, in computing the income of the corporation;
+- **(b)** any portion of the affiliate’s capital gain or capital loss – from a disposition, in the stub period or at the particular time referred to in paragraph (8)(b), of a property that is not an excluded property – that is not described in paragraph (a); and
+- **(c)** any income or profits tax paid to the government of a country, in respect of amounts described in paragraph (a) or (b). (*sommes attribuées*)
+
+***stub period***, in respect of a particular time at which subsection 91(1.2) of the Act applies in respect of a foreign affiliate of a corporation, means a period that ends at the stub-period end time in respect of the particular time and begins immediately after the later of 
+- **(a)** the last time, if any, before the particular time that subsection 91(1.2) applied in respect of the affiliate, and
+- **(b)** the end of the affiliate’s last taxation year before the particular time. (*période tampon*)
+
+***stub-period end time***, in respect of a particular time at which subsection 91(1.2) of the Act applies in respect of a foreign affiliate of a corporation, means the time that is immediately before the particular time. (*fin de la période tampon*)
 
 - **(9)** If a foreign affiliate of a taxpayer has been liquidated and dissolved (otherwise than as a result of a foreign merger within the meaning assigned by subsection 87(8.1) of the Act), for the purposes of computing the various amounts referred to in this section, the following rules apply:
 	- **(a)** where, at a particular time, property having a fair market value equal to or greater than 90 percent of the fair market value of all of the property that was owned by the affiliate immediately before the commencement of the liquidation and dissolution has been disposed of by the affiliate in the course of the liquidation and dissolution, the taxation year of the affiliate that otherwise would have included the particular time is deemed to have ended immediately before that time; and
@@ -12673,7 +12709,7 @@ exceeds
 	- **(a)** the amount (determined on the assumption that the notional actual disposition occurred at the time of the deemed disposition) that can reasonably be considered to be the amount of income or profits tax that the affiliate would, because of the notional actual disposition, have had refunded to it by the government of a particular country (other than Canada), in addition to any other income or profits tax otherwise refundable by that government, in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition
 exceeds
 	- **(b)** the amount that can reasonably be considered to be the portion of the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition (determined on the assumptions that the notional actual disposition occurred immediately after the time that is immediately after the time of the deemed disposition and that the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the notional actual disposition is equal to the amount determined by paragraph (a)) that, because of a comprehensive agreement or convention for the elimination of double taxation on income between the government of the particular country and the government of any other country, would not have been refundable by the government of the particular country.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401; 2014, c. 39, s. 88.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401; 2014, c. 39, s. 88; 2017, c. 33, s. 97.
 
 
 
@@ -13245,7 +13281,7 @@ otherwise than as a consequence of the payment of a dividend paid by a subsidiar
 
 **6204** 
 
-- **(1)** For the purposes of subparagraph 110(1)(d)(i) of the Act, a share is a prescribed share of the capital stock of a corporation at the time of its sale or issue, as the case may be, if, at that time,
+- **(1)** For the purposes of subparagraph 110(1)(d)(i.1) of the Act, a share is a prescribed share of the capital stock of a corporation at the time of its sale or issue, as the case may be, if, at that time,
 	- **(a)** under the terms or conditions of the share or any agreement in respect of the share or its issue,
 		- **(i)** the amount of the dividends (in this section referred to as the “dividend entitlement”) that the corporation may declare or pay on the share is not limited to a maximum amount or fixed at a minimum amount at that time or at any time thereafter by way of a formula or otherwise,
 		- **(ii)** the amount (in this section referred to as the “liquidation entitlement”) that the holder of the share is entitled to receive on the share on the dissolution, liquidation or winding-up of the corporation is not limited to a maximum amount or fixed at a minimum amount by way of a formula or otherwise,
@@ -13274,7 +13310,7 @@ otherwise than as a consequence of the payment of a dividend paid by a subsidiar
 	- **(b)** any partnership or trust of which the corporation (or a person or partnership with whom the corporation does not deal at arm’s length) is a member or beneficiary, respectively.
 
 - **(4)** For the purposes of subsection (3), the Act shall be read without reference to subsection 256(9) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 8; SOR/94-315, s. 2; SOR/94-686, ss. 78(F), 79(F); SOR/97-409, s. 1; SOR/2003-328, s. 4; SOR/2007-212, s. 4; SOR/2010-93, s. 22.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 8; SOR/94-315, s. 2; SOR/94-686, ss. 78(F), 79(F); SOR/97-409, s. 1; SOR/2003-328, s. 4; SOR/2007-212, s. 4; SOR/2010-93, s. 22; 2017, c. 33, s. 98.
 
 
 
@@ -13545,8 +13581,8 @@ is prescribed as a class of persons described in the laws of a province.
 
 
 
-**6503** For the purposes of paragraphs 60(j.02) to (j.04) of the Act, subsections 39(7) and 42(8) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and subsection 24(6) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md) are prescribed.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-346, s. 2.
+**6503** For the purposes of paragraphs 60(j.02) to (j.04) of the Act, subsection 41(5) of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md), subsections 39(7) and 42(8) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and subsection 24(6) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md) are prescribed.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-346, s. 2; 2017, c. 33, s. 99.
 
 
 
@@ -14051,9 +14087,10 @@ but does not include payments under an indexed debt obligation where, at any tim
 	- **(iv)** owned or held in a combination of ownership structures described in subparagraph (i), (ii) or (iii)
 and the purpose of the corporation is to provide loans, loan guarantees, bridge financing, venture capital, lease financing, surety bonding or other similar financing services to aboriginal enterprises;
 - **(b)** prescribed assistance within the meaning assigned by section 6702;
-- **(c)** an amount that is the portion of a student loan forgiven under section 9.2 of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) or under section 11.1 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md); or
+- **(c)** an amount that is the portion of a student loan forgiven under section 9.2 of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) or under section 11.1 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md);
+- **(c.1)** an amount that is the portion of a student loan forgiven under a provincial program that would be a prescribed amount because of paragraph (c) if section 11.1 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or 9.2 of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) applied to loans under that program; or
 - **(d)** an emissions allowance issued to the taxpayer under the laws of Canada or a province.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 12; SOR/88-312, s. 2; SOR/90-120, s. 1; SOR/91-276, s. 1; SOR/94-686, s. 79(F); 2011, c. 24, s. 88; 2016, c. 12, s. 81.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 12; SOR/88-312, s. 2; SOR/90-120, s. 1; SOR/91-276, s. 1; SOR/94-686, s. 79(F); 2011, c. 24, s. 88; 2016, c. 12, s. 81; 2017, c. 33, s. 100.
 
 
 
@@ -15250,7 +15287,7 @@ the form of benefits and the circumstances were such as to maximize the amount o
 - **(4)** Where the terms of a defined benefit provision of a registered pension plan permit a member to elect to receive additional lifetime retirement benefits in lieu of benefits that would, in the absence of the election, be payable after the death of the member if the member dies after retirement benefits under the provision commence to be paid to the member, paragraph (3)(o) applies as if the following elections were not available to the member:
 	- **(a)** an election to receive additional lifetime retirement benefits, not exceeding additional benefits determined on an actuarially equivalent basis, in lieu of all or any portion of a guarantee that retirement benefits will be paid for a minimum period of 10 years or less, and
 	- **(b)** an election to receive additional lifetime retirement benefits in lieu of retirement benefits that would otherwise be payable to an individual who is a spouse or common-law partner or former spouse or common-law partner of the member for a period beginning after the death of the member and ending with the death of the individual, where
-		- **(i)** the election may be made only if the life expectancy of the individual is significantly shorter than normal and has been so certified in writing by a medical doctor licensed to practise under the laws of a province or of the place where the individual resides, and
+		- **(i)** the election may be made only if the life expectancy of the individual is significantly shorter than normal and has been so certified in writing by a medical doctor or a nurse practitioner licensed to practise under the laws of a province or of the place where the individual resides, and
 		- **(ii)** the additional benefits do not exceed additional benefits determined on an actuarially equivalent basis and on the assumption that the individual has a normal life expectancy.
 
 #### Termination of Entitlement to Benefits
@@ -15302,7 +15339,7 @@ the member’s compensation shall be determined on the assumption that the membe
 
 
 - **(11)** Where the terms of a defined benefit provision of a registered pension plan can reasonably be considered to have been established or modified so that a pension credit of an individual for a calendar year under the provision would, but for this subsection, be reduced as a consequence of the application of paragraph (3)(g), that paragraph shall not apply in determining the individual’s normalized pension under the provision in respect of the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 3; SOR/2001-67, s. 1; SOR/2001-188, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 3; SOR/2001-67, s. 1; SOR/2001-188, s. 6; 2017, c. 33, s. 101.
 
 
 
@@ -17075,7 +17112,7 @@ where
 		- **(v)** the amount of survivor retirement benefits payable for a month to a beneficiary does not exceed 66 2/3 per cent of the amount that is determined in respect of the month by the formula set out in subparagraph (vi), and
 		- **(vi)** the aggregate amount of survivor retirement benefits payable under the provision for a particular month to beneficiaries of the member does not exceed the amount that is determined for the particular month by the formula
 ```
-((A + B) / 12) × C
+((A + B) / 12) × C
 ```
 where
 - **A** is the amount (expressed on an annualized basis) of lifetime retirement benefits that accrued under the provision to the member as of the member’s day of death, determined without any reduction computed by reference to the member’s age, duration of service, or both, and without any other similar reduction,
@@ -17198,8 +17235,13 @@ and where
 		- **(iii)** an eligible period of temporary absence of the member with respect to an employer who participates in the plan or a predecessor employer to such an employer,
 		- **(iv)** a period of disability of the member subsequent to a period described in subparagraph (i) where, throughout such part of the period of disability as is after 1990, the member is not connected with an employer who participates in the plan,
 		- **(v)** a period in respect of which
-			- **(A)** benefits that are attributable to employment of the member with a former employer accrued to the member under a defined benefit provision of another registered pension plan, or
+			- **(A)** both
+				- **(I)** subparagraph (v.1) does not apply, and
+				- **(II)** benefits that are attributable to employment of the member with a former employer accrued to the member under a defined benefit provision of another registered pension plan, or
 			- **(B)** contributions were made by or on behalf of the member under a money purchase provision of another registered pension plan,where the member has ceased to be a member of that other plan,
+		- **(v.1)** a portion — determined by reference to the proportion of property that has been transferred, as described in clause (B) — of a period in respect of which
+			- **(A)** benefits that are attributable to employment of the member with a former employer accrued to the member under a defined benefit provision of another registered pension plan, and
+			- **(B)** pursuant to the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province, a portion of property held in connection with the benefits described in clause (A) has been transferred to the provision and the balance of property is required to be transferred to the provision at a later date,
 		- **(vi)** a period throughout which the member was employed in Canada by a former employer where the period was an eligibility period for the participation of the member in another registered pension plan, and
 		- **(vii)** a period acceptable to the Minister throughout which the member is employed outside Canada;
 
@@ -17226,16 +17268,16 @@ and where
 			- **(D)** if the member was not, at any time after 1990, connected with any employer who has participated in the plan, the day on which the member becomes totally and permanently disabled,
 the amount (expressed on an annualized basis) of lifetime retirement benefits payable to the member for each calendar year does not exceed the amount that is determined for the year by the formula
 ```
-X × (1 - .0025 × Y)
+X × (1 - .0025 × Y)
 ```
 where
 - **X** is the amount (expressed on an annualized basis) of lifetime retirement benefits that would be payable to the member for the year if the benefits were determined without a reduction computed by reference to the member’s age, duration of service, or both, and without any other similar reduction, and
 - **Y** is the number of months in the period from the day on which lifetime retirement benefits commence to be paid to the member to the earliest of the days that would be determined under clauses (i)(A) to (C) or (ii)(A) to (C), as the case may be, if the member continued in employment with an employer who participates in the plan,
 and, for the purposes of this paragraph,
-		- **(iii)** ***early retirement eligibility service*** of a member in relation to a defined benefit provision of a pension plan means one or more periods each of which is
+		- **(iii)** ***early retirement eligibility service*** of a member in relation to a defined benefit provision of a pension plan means one or more periods each of which is
 			- **(A)** a period that is pensionable service of the member under the provision, or
 			- **(B)** a period throughout which the member was employed by an employer who has participated in the plan or by a predecessor employer to such an employer, and
-		- **(iv)** ***years of early retirement eligibility service*** of a member in relation to a defined benefit provision of a pension plan means the aggregate of all amounts each of which is the duration (measured in years, including any fraction of a year) of a period that is early retirement eligibility service of the member in relation to the provision;
+		- **(iv)** ***years of early retirement eligibility service*** of a member in relation to a defined benefit provision of a pension plan means the aggregate of all amounts each of which is the duration (measured in years, including any fraction of a year) of a period that is early retirement eligibility service of the member in relation to the provision;
 
 #### Increased Benefits for Disabled Member
 
@@ -17245,7 +17287,7 @@ and, for the purposes of this paragraph,
 			- **(B)** is totally and permanently disabled at the time of commencement and was, at any time after 1990, connected with an employer who has participated in the plansatisfies the limit that would be determined by the formula set out in paragraph (c) if the member were not impaired at the time of commencement, and
 		- **(ii)** the amount of lifetime retirement benefits payable for a particular month to the member if subparagraph (i) is not applicable does not exceed the amount that is determined for the particular month by the formula
 ```
-((A + B) / 12) × C
+((A + B) / 12) × C
 ```
 where
 - **A** is the amount (expressed on an annualized basis) of lifetime retirement benefits that have accrued under the provision to the member to the time of commencement, determined as if the member were not impaired at the time of commencement and without any reduction computed by reference to the member’s age, duration of service, or both, and without any other similar reduction,
@@ -17335,8 +17377,8 @@ which stipulation may provide that an amendment to the plan, or a return of cont
 
 #### Evidence of Disability
 
-	- **(e)** where additional lifetime retirement benefits are provided under the provision to a member because the member is totally and permanently disabled, the additional benefits are not paid before the plan administrator has received from a medical doctor who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the member is totally and permanently disabled; and
-	- **(f)** where lifetime retirement benefits are provided under the provision to a member in respect of a period of disability of the member, the benefits, to the extent that they would not be in accordance with paragraph (3)(a) if that paragraph were read without reference to subparagraph (iv) thereof, are not paid before the plan administrator has received from a medical doctor who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the period is a period of disability.
+	- **(e)** where additional lifetime retirement benefits are provided under the provision to a member because the member is totally and permanently disabled, the additional benefits are not paid before the plan administrator has received from a medical doctor or a nurse practitioner who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the member is totally and permanently disabled; and
+	- **(f)** where lifetime retirement benefits are provided under the provision to a member in respect of a period of disability of the member, the benefits, to the extent that they would not be in accordance with paragraph (3)(a) if that paragraph were read without reference to subparagraph (iv) thereof, are not paid before the plan administrator has received from a medical doctor or a nurse practitioner who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the period is a period of disability.
 
 #### Waiver of Member Contribution Condition
 
@@ -17450,15 +17492,15 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 
 - **(16)** The following definitions apply in this subsection and in subsections (17) to (23).
 
-***qualifying period*** of a member under a defined benefit provision of a pension plan means a period throughout which the member is employed by an employer who participates in the plan but does not include any period that is before the day that is the first day, on or after the later of the following days, in respect of which retirement benefits are provided under the provision to the member:
+***qualifying period*** of a member under a defined benefit provision of a pension plan means a period throughout which the member is employed by an employer who participates in the plan but does not include any period that is before the day that is the first day, on or after the later of the following days, in respect of which retirement benefits are provided under the provision to the member:
 - **(a)** the day on which retirement benefits first commenced to be paid to the member under the provision; and
-- **(b)** the member’s specified eligibility day under the provision. (*période admissible*)
+- **(b)** the member’s specified eligibility day under the provision. (*période admissible*)
 
-***specified eligibility day*** of a member under a defined benefit provision of a pension plan means the earlier of
+***specified eligibility day*** of a member under a defined benefit provision of a pension plan means the earlier of
 - **(a)** the later of
 	- **(i)** the day on which the member attains 55 years of age, and
 	- **(ii)** the day on which the member attains the earliest age at which payment of the member’s lifetime retirement benefits may commence under the terms of the provision without a reduction computed by reference to the member’s age, duration of service, or both (and without any other similar reduction), otherwise than because of the member being totally and permanently disabled; and
-- **(b)** the day on which the member attains 60 years of age. (*date d’admissibilité*)
+- **(b)** the day on which the member attains 60 years of age. (*date d’admissibilité*)
 
 #### Bridging Benefits Payable on a Stand-alone Basis
 
@@ -17534,7 +17576,7 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 	- **(a)** a person who is a member or a beneficiary, in respect of the plan, who was, at the time of the member’s death, a spouse or common-law partner of the member, is in receipt of retirement benefits under the terms of the plan;
 	- **(b)** the person has attained 71 years of age before the year; and
 	- **(c)** the plan has not paid in the year an amount to the person equal to the greater of the retirement benefits payable to the person for the year and the IPP minimum amount for the person for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35, c. 35, s. 83; SOR/2007-116, s. 16(F); 2011, c. 24, 96.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35, c. 35, s. 83; SOR/2007-116, s. 16(F); 2011, c. 24, 96; 2017, c. 33, s. 102.
 
 
 
@@ -18976,7 +19018,7 @@ the form of benefits and the circumstances were such as to maximize the amount o
 	- **(b)** the elections available to the individual include an election
 		- **(i)** to receive additional lifetime retirement benefits, not exceeding additional benefits determined on an actuarially equivalent basis, in lieu of all or a portion of a guarantee that retirement benefits will be paid for a minimum period of 10 years or less, or
 		- **(ii)** to receive additional lifetime retirement benefits in lieu of retirement benefits that would otherwise be payable to a person who is a spouse or common-law partner or former spouse or common-law partner of the individual for a period beginning after the death of the individual and ending with the death of the person, where
-			- **(A)** the election may be made only if the life expectancy of the person is significantly shorter than normal and has been so certified in writing by a medical doctor licensed to practise under the laws of a province or of the place where the person resides, and
+			- **(A)** the election may be made only if the life expectancy of the person is significantly shorter than normal and has been so certified in writing by a medical doctor or a nurse practitioner licensed to practise under the laws of a province or of the place where the person resides, and
 			- **(B)** the additional benefits do not exceed additional benefits determined on an actuarially equivalent basis and on the assumption that the person has a normal life expectancy,
 paragraph (5)(g) applies as if
 	- **(c)** the election described in subparagraph (b)(i) were not available to the individual, and
@@ -18990,7 +19032,7 @@ paragraph (5)(g) applies as if
 	- **(b)** in conjunction with the transfer, benefits become provided to the individual under another defined benefit provision of the plan or under a defined benefit provision of another registered pension plan, and
 	- **(c)** an employer who participated under the particular provision for the benefit of the individual also participates under the other provision for the individual’s benefit,
 the amount of the individual’s lifetime retirement benefits under the particular provision commuted in connection with the transfer is the amount that would be determined under subsection (4) if the benefits provided under the other provision were provided under the particular provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12; 2011, c. 24, s. 97; 2014, c. 20, s. 36.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12; 2011, c. 24, s. 97; 2014, c. 20, s. 36; 2017, c. 33, s. 103.
 
 
 
@@ -23085,7 +23127,7 @@ other than distribution equipment, property otherwise included in Class 10 and p
 
 
 
-**(iv)** heat recovery equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of conserving energy, or reducing the requirement to acquire energy, by extracting for reuse thermal waste that is generated directly in an industrial process (other than an industrial process that generates or processes electrical energy), including such equipment that consists of heat exchange equipment, compressors used to upgrade low pressure steam, vapour or gas, waste heat boilers and other ancillary equipment such as control panels, fans, instruments or pumps, but not including property that is employed in re-using the recovered heat (such as property that is part of the internal heating or cooling system of a building or electrical generating equipment), is a building or is equipment that recovers heat primarily for use for heating water in a swimming pool,
+**(iv)** heat recovery equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of conserving energy, reducing the requirement to acquire energy or extracting heat for sale, by extracting for reuse thermal waste that is generated directly in an industrial process (other than an industrial process that generates or processes electrical energy), including such equipment that consists of heat exchange equipment, compressors used to upgrade low pressure steam, vapour or gas, waste heat boilers and other ancillary equipment such as control panels, fans, instruments or pumps, but not including property that is employed in re-using the recovered heat (such as property that is part of the internal heating or cooling system of a building or electrical generating equipment), is a building or is equipment that recovers heat primarily for use for heating water in a swimming pool,
 
 
 
@@ -23137,7 +23179,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(vii)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electrical energy solely from geothermal energy, including such equipment that consists of piping (including above or below ground piping and the cost of drilling a well, or trenching, for the purpose of installing that piping), pumps, heat exchangers, steam separators, electrical generating equipment and ancillary equipment used to collect the geothermal heat, but not including buildings, transmission equipment, distribution equipment, equipment designed to store electrical energy, property otherwise included in Class 10 and property that would be included in Class 17 if that Class were read without reference to its subparagraph (a.1)(i),
+**(vii)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electrical energy or heat energy, or both electrical and heat energy, solely from geothermal energy, including such equipment that consists of piping (including above or below ground piping and the cost of completing a well (including the wellhead and production string), or trenching, for the purpose of installing that piping), pumps, heat exchangers, steam separators, electrical generating equipment and ancillary equipment used to collect the geothermal heat, but not including buildings, distribution equipment, equipment used to heat water for use in a swimming pool, equipment described in subclause (i)(A)(II), property otherwise included in Class 10 and property that would be included in Class 17 if that Class were read without reference to its paragraph (a.1),
 
 
 
@@ -23207,7 +23249,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(B)** is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraphs (i), (iv) or (ix) or would be described in those subparagraphs if owned by the taxpayer, and
+**(B)** is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraphs (i), (iv), (vii) or (ix) or would be described in those subparagraphs if owned by the taxpayer, and
 
 
 
@@ -23262,7 +23304,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119; 2014, c. 39, s. 90..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119; 2014, c. 39, s. 90; 2017, c. 33, s. 104..
 
 
 
