@@ -55,28 +55,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***banque*** La Banque du Canada.
+***banque*** La Banque du Canada. (*Bank*)
 
-***chambre de compensation*** Outre une chambre spécialisée au sens du paragraphe 13.1(3), société, société de personnes, association, agence ou autre entité, à l’exception de la banque et d’une bourse de valeurs, qui offre les services d’un système de compensation et de règlement.
+***chambre de compensation*** Outre une chambre spécialisée au sens du paragraphe 13.1(3), société, société de personnes, association, agence ou autre entité, à l’exception de la banque et d’une bourse de valeurs, qui offre les services d’un système de compensation et de règlement. (*clearing house*)
 
-***contrat financier admissible*** S’entend au sens du paragraphe 22.1(2) de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
+***contrat financier admissible*** S’entend au sens du paragraphe 22.1(2) de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md). (*eligible financial contract*)
 
-***établissement participant*** Membre d’un système de compensation et de règlement, que ce dernier soit opéré par une chambre de compensation ou en vertu d’un accord entre établissements participants.
+***établissement participant*** Partie à une entente qui constitue un système de compensation et de règlement. (*participant*)
 
-***intermédiaire*** Société, société de personnes, association, agence ou autre entité avec laquelle, dans un système de compensation et de règlement, les obligations de paiement et droits à paiement des participants font l’objet d’une compensation destinée à ne laisser qu’une seule dette entre chaque participant et l’intermédiaire.
+***intermédiaire*** Société, société de personnes, association, agence ou autre entité avec laquelle, dans un système de compensation et de règlement, les obligations de paiement et droits à paiement des participants font l’objet d’une compensation destinée à ne laisser qu’une seule dette entre chaque participant et l’intermédiaire. (*central counter-party*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***participant canadien*** Établissement participant qui est constitué en société ou établi sous le régime d’une loi fédérale ou provinciale.
+***participant canadien*** Établissement participant qui est constitué en société ou établi sous le régime d’une loi fédérale ou provinciale. (*Canadian participant*)
 
-***risque pour le système de paiement*** Risque que la perturbation ou la défaillance d’un système de compensation et de règlement ait des conséquences négatives importantes sur l’activité économique au Canada en ayant l’un ou l’autre des effets suivants :
+***risque pour le système de paiement*** Risque que la perturbation ou la défaillance d’un système de compensation et de règlement ait des conséquences négatives importantes sur l’activité économique au Canada en ayant l’un ou l’autre des effets suivants :
 - **a)** compromettre la capacité des particuliers, des entreprises ou des organismes publics d’effectuer des paiements;
-- **b)** causer une perte généralisée de confiance dans l’ensemble du système canadien de paiement, lequel comprend notamment des instruments de paiement, des infrastructures, des organismes, des ententes intervenues au sein des marchés et le cadre juridique qui permettent le transfert de la valeur monétaire.
+- **b)** causer une perte généralisée de confiance dans l’ensemble du système canadien de paiement, lequel comprend notamment des instruments de paiement, des infrastructures, des organismes, des ententes intervenues au sein des marchés et le cadre juridique qui permettent le transfert de la valeur monétaire. (*payments system risk*)
 
-***risque systémique*** Risque que l’incapacité d’un établissement participant de s’acquitter de ses obligations dans un système de compensation et de règlement lorsqu’elles deviennent exigibles ou que la perturbation ou la défaillance d’un système de compensation et de règlement puisse, par la propagation de problèmes financiers dans le système de compensation et de règlement, avoir des conséquences négatives sur la stabilité ou l’intégrité du système financier canadien ou rendre incapables de s’acquitter de leurs obligations lorsqu’elles deviennent exigibles soit d’autres établissements participants du système de compensation et de règlement, soit des institutions financières dans d’autres parties du système financier canadien, soit la chambre de compensation du système de compensation et de règlement ou celle d’un autre système de compensation et de règlement dans le système financier canadien.
+***risque systémique*** Risque que l’incapacité d’un établissement participant de s’acquitter de ses obligations dans un système de compensation et de règlement lorsqu’elles deviennent exigibles ou que la perturbation ou la défaillance d’un système de compensation et de règlement puisse, par la propagation de problèmes financiers dans le système de compensation et de règlement, avoir des conséquences négatives sur la stabilité ou l’intégrité du système financier canadien ou rendre incapables de s’acquitter de leurs obligations lorsqu’elles deviennent exigibles soit d’autres établissements participants du système de compensation et de règlement, soit des institutions financières dans d’autres parties du système financier canadien, soit la chambre de compensation du système de compensation et de règlement ou celle d’un autre système de compensation et de règlement dans le système financier canadien. (*systemic risk*)
 
-***système de compensation et de règlement*** Système ou arrangement visant le règlement ou la compensation des obligations monétaires ou des messages de paiement, comportant au moins trois établissements participants, dont l’un est un participant canadien et l’un a son siège social dans une administration autre que celle dans laquelle se trouve le siège social de la chambre de compensation, utilisant le dollar canadien pour au moins une partie de ses opérations, et, sauf lorsqu’il s’agit d’un système ou d’un arrangement pour le règlement ou la compensation de contrats dérivés, donnant lieu, une fois le règlement ou la compensation faits, à l’ajustement du compte que détiennent à la banque l’un ou plusieurs des établissements participants. Il est entendu que la présente définition vise aussi le système ou l’arrangement pour le règlement ou la compensation des contrats dérivés, des opérations sur des valeurs mobilières, des opérations utilisant des devises étrangères ou de toutes autres opérations à l’égard desquelles le système ou l’arrangement opère compensation ou règlement des obligations de paiement.
-> 1996, ch. 6, art. 162 (ann., art. 2); 2007, ch. 29, art. 110; 2012, ch. 5, art. 213, ch. 31, art. 168; 2014, ch. 39, art. 360.
+***système de compensation et de règlement*** Système ou arrangement visant le règlement ou la compensation des obligations monétaires ou des messages de paiement, comportant au moins trois établissements participants, dont l’un est un participant canadien et l’un a son siège social dans une administration autre que celle dans laquelle se trouve le siège social de la chambre de compensation, utilisant le dollar canadien pour au moins une partie de ses opérations, et, sauf lorsqu’il s’agit d’un système ou d’un arrangement pour le règlement ou la compensation de contrats dérivés, donnant lieu, une fois le règlement ou la compensation faits, à l’ajustement du compte que détiennent à la banque l’un ou plusieurs des établissements participants. Il est entendu que la présente définition vise aussi le système ou l’arrangement pour le règlement ou la compensation des contrats dérivés, des opérations sur des valeurs mobilières, des opérations utilisant des devises étrangères ou de toutes autres opérations à l’égard desquelles le système ou l’arrangement opère compensation ou règlement des obligations de paiement. (*clearing and settlement system*)
+> 1996, ch. 6, art. 162 (ann., art. 2); 2007, ch. 29, art. 110; 2012, ch. 5, art. 213, ch. 31, art. 168; 2014, ch. 39, art. 360; 2017, ch. 33, art. 188.
 
 
 
@@ -140,16 +140,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6** 
 
-- **(1)** Le gouverneur de la banque peut, au moyen de directives écrites précisant, le cas échéant, les délais impartis, ordonner à la chambre de compensation d’un système de compensation et de règlement de prendre ou de faire prendre par les établissements participants toute mesure qu’il estime nécessaire pour corriger une situation où, à son avis, le contrôle du risque systémique ou du risque pour le système de paiement est compromis — ou pourrait vraisemblablement l’être — par l’un des facteurs suivants :
-	- **a)** le fonctionnement du système;
-	- **b)** tout agissement ou omission, même escompté, de la chambre de compensation ou d’un établissement participant.
+- **(1)** Le gouverneur de la banque peut, au moyen de directives écrites précisant, le cas échéant, les délais impartis, ordonner à la chambre de compensation d’un système de compensation et de règlement de prendre ou de faire prendre par les établissements participants toute mesure qu’il estime nécessaire pour corriger une situation où, à son avis, le contrôle du risque systémique ou du risque pour le système de paiement pourrait être compromis par l’un des facteurs suivants :
+	- **a)** la conception ou le fonctionnement du système de compensation et de règlement;
+	- **b)** la propriété ou le contrôle du système;
+	- **c)** les éléments de la structure organisationnelle ou de la gouvernance d’entreprise de la chambre de compensation qui sont liés à la gestion des risques;
+	- **d)** la gestion ou le fonctionnement de la chambre de compensation;
+	- **e)** les agissements ou omissions, même escomptés, de la chambre de compensation ou d’un établissement participant.
 
 **Directive aux établissements participants**
 
-- **(2)** Le gouverneur de la banque peut, au moyen de directives écrites précisant, le cas échéant, les délais impartis, ordonner à tout établissement participant de prendre toute mesure qu’il estime nécessaire pour corriger une situation où, à son avis, le contrôle du risque systémique ou du risque pour le système de paiement est compromis par l’un des facteurs prévus au paragraphe (1). Toutefois, il ne peut exercer ce pouvoir que dans les cas suivants :
+- **(2)** Le gouverneur de la banque peut, au moyen de directives écrites précisant, le cas échéant, les délais impartis, ordonner à tout établissement participant de prendre toute mesure qu’il estime nécessaire pour corriger une situation où, à son avis, le contrôle du risque systémique ou du risque pour le système de paiement pourrait être compromis par l’un des facteurs prévus au paragraphe (1). Toutefois, il ne peut exercer ce pouvoir que dans les cas suivants :
 	- **a)** la chambre de compensation ne se conforme pas à une directive qui lui a été donnée en vertu du paragraphe (1);
 	- **b)** le système de compensation et de règlement en cause n’a pas de chambre de compensation au Canada;
-	- **c)** il estime que le contrôle du risque est compromis par les agissements ou les omissions d’un établissement participant et que les actes — règlements administratifs, accords, règles, procédures, guides et autres — qui régissent le système ne s’appliquent pas à ces agissements ou omissions.
+	- **c)** il estime que le contrôle du risque pourrait être compromis par les agissements ou les omissions, même escomptés, d’un établissement participant et que les actes — règlements administratifs, accords, règles, procédures, guides et autres — qui régissent le système ne s’appliquent pas à ces agissements ou omissions.
+
+**Facteurs à considérer**
+
+- **(2.1)** Afin de décider des mesures nécessaires pour corriger la situation, le gouverneur de la banque tient compte de la nature, de la gravité et de l’imminence du risque en cause ainsi que de tout autre facteur lié aux risques qu’il estime indiqué.
 
 **Précision**
 
@@ -164,7 +171,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Champ d’application**
 
 - **(4)** Les directives s’appliquent, conformément à leurs dispositions, à tout système de compensation et de règlement créé par une loi, sous réserve de l’agrément du ministre.
-> 1996, ch. 6, art. 162 (ann., art. 6); 2014, ch. 39, art. 364.
+> 1996, ch. 6, art. 162 (ann., art. 6); 2014, ch. 39, art. 364; 2017, ch. 33, art. 189.
+
+
+
+
+
+**Observations**
+
+**6.1** 
+
+- **(1)** Avant de donner une directive à la chambre de compensation ou à l’établissement participant, le gouverneur de la banque lui donne la possibilité de présenter des observations.
+
+**Exception**
+
+- **(2)** S’il estime que le fait de donner à la chambre de compensation ou à l’établissement participant la possibilité de présenter des observations nuirait à l’efficacité de la directive, le gouverneur de la banque peut, sans lui donner cette possibilité, lui donner, en vertu de l’article 6, une directive valide pour une période d’au plus quinze jours et en prolonger la durée par écrit, une seule fois, pour une autre période d’au plus quinze jours.
+> 2017, ch. 33, art. 190.
 
 
 
@@ -205,8 +227,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Articles 39.15 et 39.152 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
 
 - **(3.1)** Malgré les paragraphes (1) à (3) et les règles applicables au règlement :
-	- **a)** aucune opération ne peut être accomplie relativement à un ***contrat financier admissible***, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi;
-	- **b)** une ***chambre de compensation***, au sens du paragraphe 39.15(9) de la même loi, doit se conformer au paragraphe 39.15(3.3) de cette loi et accomplir toute opération visée par le paragraphe 39.15(7.12) de cette loi mais ne peut accomplir aucune opération si celle-ci ne peut l’être aux termes de ce paragraphe.
+	- **a)** aucune opération ne peut être accomplie relativement à un contrat financier admissible, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.1), (7.104), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi;
+	- **b)** une chambre de compensation, au sens du paragraphe 39.15(9) de la même loi, doit se conformer au paragraphe 39.15(3.3) de cette loi et accomplir toute opération visée par le paragraphe 39.15(7.12) de cette loi mais ne peut accomplir aucune opération si celle-ci ne peut l’être aux termes de ce paragraphe.
 
 **Application du droit canadien**
 
@@ -215,28 +237,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition**
 
 - **(5)** Au présent article, ***règles applicables au règlement*** s’entend des règles, quel que soit le texte qui les établit, qui servent au calcul, au règlement ou à la compensation des obligations de paiement ou des obligations de délivrance, ou qui servent aux autres transferts de biens ou d’intérêts dans des biens, ou, au Québec, de droits relatifs à des biens, y compris les règles qui prévoient les mesures à prendre dans les cas où un établissement participant ne peut ou ne pourra vraisemblablement pas satisfaire à ses obligations envers la chambre de compensation, l’intermédiaire, les autres établissement participants ou la banque.
-> 1996, ch. 6, art. 162 (ann., art. 8); 1999, ch. 28, art. 132(A); 2012, ch. 31, art. 169; 2016, ch. 7, art. 165.
+> 1996, ch. 6, art. 162 (ann., art. 8); 1999, ch. 28, art. 132(A); 2012, ch. 31, art. 169; 2016, ch. 7, art. 165; 2017, ch. 33, art. 182.
 
 
 
 
 
-### Avis de changements
+### Avis et approbation
 
 
 
-**Avis préalable**
+**Changement important**
 
 **9** 
 
-- **(1)** La chambre de compensation donne un préavis en temps utile à la banque concernant les changements importants qu’elle compte apporter au système de compensation et de règlement, notamment ceux qui visent ses propres actes constitutifs et règlements administratifs et ceux qui visent le fonctionnement du système et les actes — règlements administratifs, accords, règles, procédures, guides et autres — qui régissent celui-ci.
+- **(1)** Pour l’application du présent article, constitue un changement important le changement dont on peut raisonnablement prévoir qu’il aura un effet important sur l’efficacité, la sécurité ou la solidité du système de compensation et de règlement.
+
+**Avis**
+
+- **(2)** La chambre de compensation donne un préavis suffisant à la banque avant d’apporter :
+	- **a)** tout changement important qui est relatif au système de compensation et de règlement;
+	- **b)** tout changement qui est relatif à la conception ou au fonctionnement du système ou qui vise les actes — règlements administratifs, accords, règles, procédures, guides et autres — qui régissent celui-ci;
+	- **c)** tout changement qui vise les actes constitutifs et règlements administratifs de la chambre de compensation.
+
+**Approbation requise**
+
+- **(3)** Est subordonnée à l’approbation écrite du gouverneur de la banque la prise d’effet des changements importants que la chambre de compensation compte apporter relativement au système de compensation et de règlement si le gouverneur estime que ceux-ci auront un effet sur le contrôle des risques pour le système, la chambre de compensation, les établissements participants ou le système financier canadien. Le gouverneur peut assortir son approbation des conditions qu’il estime indiquées.
 
 **Autres changements**
 
-- **(2)** Elle avise sans délai par écrit la banque de la nature de tout autre changement apporté au système, notamment la recomposition du conseil d’administration après le départ d’un membre — pour quelque raison que ce soit — et la charge du vérificateur du système.
-
-- **(3)** [Abrogé, 2014, ch. 39, art. 366]
-> 1996, ch. 6, art. 162 (ann., art. 9); 2014, ch. 39, art. 366.
+- **(4)** La chambre de compensation avise sans délai par écrit la banque de tout changement — autre qu’un changement visé au paragraphe (2) — apporté relativement au système de compensation et de règlement, notamment quant à la recomposition du conseil d’administration de la chambre de compensation après le départ d’un membre — pour quelque raison que ce soit — ou au vérificateur de la chambre de compensation.
+> 1996, ch. 6, art. 162 (ann., art. 9); 2014, ch. 39, art. 366; 2017, ch. 33, art. 191.
 
 
 
@@ -317,7 +348,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Articles 39.15 et 39.152 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
 
-- **(1.2)** Malgré les paragraphes (1) et (1.1), aucune opération ne peut être accomplie relativement à un ***contrat financier admissible***, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi.
+- **(1.2)** Malgré les paragraphes (1) et (1.1), aucune opération ne peut être accomplie relativement à un contrat financier admissible, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.1), (7.104), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi.
 
 **Définitions**
 
@@ -342,7 +373,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** l’Office d’investissement des régimes de pensions du secteur public. (*financial institution*)
 
 ***reliquat net*** Le montant obtenu une fois la compensation opérée entre les parties à un accord de compensation, selon les modalités prévues à celui-ci. (*net termination value*)
-> 1996, ch. 6, art. 162 (ann., art. 13); 1997, ch. 40, art. 109; 1999, ch. 28, art. 133, ch. 34, art. 228; 2007, ch. 29, art. 111; 2012, ch. 31, art. 170; 2016, ch. 7, art. 166.
+> 1996, ch. 6, art. 162 (ann., art. 13); 1997, ch. 40, art. 109; 1999, ch. 28, art. 133, ch. 34, art. 228; 2007, ch. 29, art. 111; 2012, ch. 31, art. 170; 2016, ch. 7, art. 166; 2017, ch. 33, art. 183.
 
 
 
@@ -362,7 +393,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Articles 39.15 et 39.152 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
 
-- **(1.1)** Malgré le paragraphe (1), aucune opération ne peut être accomplie relativement à un ***contrat financier admissible***, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi.
+- **(1.1)** Malgré le paragraphe (1), aucune opération ne peut être accomplie relativement à un contrat financier admissible, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.1), (7.104), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi.
 
 **Pouvoir de désignation**
 
@@ -382,7 +413,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***membre*** Personne qui a recours aux services d’une chambre spécialisée. (*clearing member*)
 
 ***reliquat net*** Le montant obtenu une fois la compensation opérée entre une chambre spécialisée et un membre, selon les modalités prévues par l’accord de compensation. (*net termination value*)
-> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442, ch. 29, art. 112; 2012, ch. 31, art. 171; 2016, ch. 7, art. 167.
+> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442, ch. 29, art. 112; 2012, ch. 31, art. 171; 2016, ch. 7, art. 167; 2017, ch. 33, art. 184.
 
 
 
@@ -400,8 +431,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** le caractère définitif des règlements et des paiements;
 - **d)** le type d’arrangements financiers que peuvent prendre les établissements participants;
 - **e)** les systèmes d’exploitation et la solidité financière de la chambre de compensation;
+- **e.1)** l’exercice des attributions de la banque;
 - **f)** toute autre question relative au risque systémique ou au risque pour le système de paiement.
-> 2014, ch. 39, art. 369.
+> 2014, ch. 39, art. 369; 2017, ch. 33, art. 192.
 
 
 
@@ -584,7 +616,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Interdiction ou conditions**
 
-- **(2)** Le gouverneur de la banque peut interdire à la banque étrangère autorisée ou à l’institution étrangère d’être un établissement participant d’un système de compensation et de règlement assujetti à la partie I — ou lui enjoindre de remplir les conditions relatives à sa participation qu’il estime nécessaires — s’il est d’avis, se fondant sur les renseignements visés au paragraphe (1) et sur tous autres renseignements qu’il estime utiles, que la participation de la banque étrangère autorisée ou de l’institution étrangère au système de compensation et de règlement pose ou posera vraisemblablement un risque systémique ou un risque pour le système de paiement ou bien un risque inacceptable pour la banque en ce qui concerne la garantie des obligations de la banque étrangère autorisée ou de l’institution étrangère.
+- **(2)** Le gouverneur de la banque peut interdire à la banque étrangère autorisée ou à l’institution étrangère d’être un établissement participant d’un système de compensation et de règlement assujetti à la partie I — ou lui enjoindre de remplir les conditions relatives à sa participation qu’il estime nécessaires — s’il est d’avis, se fondant sur les renseignements visés au paragraphe (1) et sur tous autres renseignements qu’il estime utiles, que la participation de la banque étrangère autorisée ou de l’institution étrangère au système de compensation et de règlement pourrait poser un risque systémique ou un risque pour le système de paiement ou bien un risque inacceptable pour la banque en ce qui concerne la garantie des obligations de la banque étrangère autorisée ou de l’institution étrangère.
 
 **Précision**
 
@@ -594,12 +626,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Les définitions qui suivent s’appliquent au présent article.
 
-***banque étrangère autorisée*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***banque étrangère autorisée*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*authorized foreign bank*)
 
-***institution étrangère*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). 
+***institution étrangère*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*foreign institution*)
 
 ***système de compensation et de règlement***[Abrogée, 2014, ch. 39, art. 373]
-> 1999, ch. 28, art. 135; 2014, ch. 39, art. 373.
+> 1999, ch. 28, art. 135; 2014, ch. 39, art. 373; 2017, ch. 33, art. 193.
 
 
 
