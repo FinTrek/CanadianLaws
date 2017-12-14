@@ -53,37 +53,37 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Bank*** means the Bank of Canada;
+***Bank*** means the Bank of Canada. (*banque*)
 
-***Canadian participant*** means a participant that is incorporated or formed under an enactment of Canada or a province.
+***Canadian participant*** means a participant that is incorporated or formed under an enactment of Canada or a province. (*participant canadien*)
 
-***central counter-party*** means a corporation, association, partnership, agency or other entity in a clearing and settlement system with whom all participant’s payment rights and obligations are netted to produce a single amount owing as between each participant and the central counter-party;
+***central counter-party*** means a corporation, association, partnership, agency or other entity in a clearing and settlement system with whom all participant’s payment rights and obligations are netted to produce a single amount owing as between each participant and the central counter-party. (*intermédiaire*)
 
-***clearing and settlement system*** means a system or arrangement for the clearing or settlement of payment obligations or payment messages in which
+***clearing and settlement system*** means a system or arrangement for the clearing or settlement of payment obligations or payment messages in which
 - **(a)** there are at least three participants, at least one of which is a Canadian participant and at least one of which has its head office in a jurisdiction other than the jurisdiction where the head office of the clearing house is located;
 - **(b)** clearing or settlement is all or partly in Canadian dollars; and
 - **(c)** except in the case of a system or arrangement for the clearing or settlement of derivatives contracts, the payment obligations that arise from clearing within the system or arrangement are ultimately settled through adjustments to the account or accounts of one or more of the participants at the Bank.
 
-For greater certainty, it includes a system or arrangement for the clearing or settlement of securities transactions, derivatives contracts, foreign exchange transactions or other transactions if the system or arrangement also clears or settles payment obligations arising from those transactions.
+For greater certainty, it includes a system or arrangement for the clearing or settlement of securities transactions, derivatives contracts, foreign exchange transactions or other transactions if the system or arrangement also clears or settles payment obligations arising from those transactions. (*système de compensation et de règlement*)
 
-***clearing house*** means a corporation, association, partnership, agency or other entity that provides clearing or settlement services for a clearing and settlement system. It includes a securities and derivatives clearing house, as defined in subsection 13.1(3), but does not include a stock exchange or the Bank.
+***clearing house*** means a corporation, association, partnership, agency or other entity that provides clearing or settlement services for a clearing and settlement system. It includes a securities and derivatives clearing house, as defined in subsection 13.1(3), but does not include a stock exchange or the Bank. (*chambre de compensation*)
 
-***eligible financial contract*** has the same meaning as in subsection 22.1(2) of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md);
+***eligible financial contract*** has the same meaning as in subsection 22.1(2) of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md). (*contrat financier admissible*)
 
-***Minister*** means the Minister of Finance;
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***participant*** means a member of a clearing house or a party to an arrangement that establishes a clearing and settlement system;
+***participant*** means a party to an arrangement that establishes a clearing and settlement system. (*établissement participant*)
 
-***payments system risk*** means the risk that a disruption to or a failure of a clearing and settlement system could cause a significant adverse effect on economic activity in Canada by
+***payments system risk*** means the risk that a disruption to or a failure of a clearing and settlement system could cause a significant adverse effect on economic activity in Canada by
 - **(a)** impairing the ability of individuals, businesses or government entities to make payments, or
-- **(b)** producing a general loss of confidence in the overall Canadian payments system, which includes payment instruments, infrastructure, organizations, market arrangements and legal frameworks that allow for the transfer of monetary value.
+- **(b)** producing a general loss of confidence in the overall Canadian payments system, which includes payment instruments, infrastructure, organizations, market arrangements and legal frameworks that allow for the transfer of monetary value. (*risque pour le système de paiement*)
 
-***systemic risk*** means the risk that the inability of a participant to meet its obligations in a clearing and settlement system as they become due, or a disruption to or a failure of a clearing and settlement system, could, by transmitting financial problems through the system, cause
+***systemic risk*** means the risk that the inability of a participant to meet its obligations in a clearing and settlement system as they become due, or a disruption to or a failure of a clearing and settlement system, could, by transmitting financial problems through the system, cause
 - **(a)** other participants in the clearing and settlement system to be unable to meet their obligations as they become due,
 - **(b)** financial institutions in other parts of the Canadian financial system to be unable to meet their obligations as they become due,
 - **(c)** the clearing and settlement system’s clearing house or the clearing house of another clearing and settlement system within the Canadian financial system to be unable to meet its obligations as they become due, or
-- **(d)** an adverse effect on the stability or integrity of the Canadian financial system.
-> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110; 2012, c. 5, s. 213, c. 31, s. 168; 2014, c. 39, s. 360.
+- **(d)** an adverse effect on the stability or integrity of the Canadian financial system. (*risque systémique*)
+> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110; 2012, c. 5, s. 213, c. 31, s. 168; 2014, c. 39, s. 360; 2017, c. 33, s. 188.
 
 
 
@@ -147,18 +147,25 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 **6** 
 
-- **(1)** The Governor of the Bank may issue a directive in writing to a clearing house of a designated clearing and settlement system that requires the clearing house, within any period that may be specified in the directive, to take — and to have the participants take — any corrective measures that the Governor considers necessary, if the Governor is of the opinion that systemic risk or payments system risk is being or is likely to be inadequately controlled because of
-	- **(a)** the operation of the clearing and settlement system; or
-	- **(b)** any actual or anticipated acts or omissions of the clearing house or of a participant.
+- **(1)** The Governor of the Bank may issue a directive in writing to a clearing house of a designated clearing and settlement system that requires the clearing house, within any period that may be specified in the directive, to take  — and to have the participants take — any corrective measures that the Governor considers necessary, if the Governor is of the opinion that systemic risk or payments system risk could be inadequately controlled because of
+	- **(a)** the design or operation of the clearing and settlement system;
+	- **(b)** the ownership or control of the clearing and settlement system;
+	- **(c)** aspects of organizational structure or corporate governance of the clearing house that are related to risk management;
+	- **(d)** the management or operation of the clearing house; or
+	- **(e)** actual or anticipated acts or omissions of the clearing house or of a participant.
 
 **Directive to participants**
 
-- **(2)** The Governor of the Bank may issue a directive in writing to a participant that requires the participant, within any period that may be specified in the directive, to take any corrective measures that the Governor considers necessary if the Governor has formed an opinion referred to in subsection (1) that systemic risk or payments system risk is being inadequately controlled and
+- **(2)** The Governor of the Bank may issue a directive in writing to a participant that requires the participant, within any period that may be specified in the directive, to take any corrective measures that the Governor considers necessary if the Governor has formed an opinion referred to in subsection (1) that systemic risk or payments system risk could be inadequately controlled and
 	- **(a)** the clearing house fails to comply with a directive that has been issued to it under subsection (1);
 	- **(b)** the designated clearing and settlement system does not have a clearing house located in Canada; or
 	- **(c)** in the opinion of the Governor,
-		- **(i)** the risk is being inadequately controlled because of an act or omission by a participant, and
-		- **(ii)** the act or omission is not subject to the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system.
+		- **(i)** the risk could be inadequately controlled because of an actual or anticipated act or omission by a participant, and
+		- **(ii)** the actual or anticipated act or omission is not subject to the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system.
+
+**Factors to be taken into account**
+
+- **(2.1)** In determining the corrective measures that are necessary, the Governor of the Bank shall take into account the nature, severity and imminence of the risk and any other risk-related factors that the Governor considers appropriate.
 
 **Clarification**
 
@@ -173,7 +180,22 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 **Directive may apply to statutory system**
 
 - **(4)** Subject to the approval of the Minister, a directive, if it so provides, applies to a designated clearing and settlement system that is established under a statute.
-> 1996, c. 6, s. 162 (Sch., s. 6); 2014, c. 39, s. 364.
+> 1996, c. 6, s. 162 (Sch., s. 6); 2014, c. 39, s. 364; 2017, c. 33, s. 189.
+
+
+
+
+
+**Representations**
+
+**6.1** 
+
+- **(1)** Before issuing a directive to a clearing house or a participant, the Governor of the Bank shall provide the clearing house or participant, as the case may be, with an opportunity to make representations.
+
+**Exception**
+
+- **(2)** If, in the opinion of the Governor of the Bank, providing the clearing house or participant with an opportunity to make representations would undermine the effectiveness of the directive, the Governor of the Bank may, without providing that opportunity, issue a directive under section 6 to the clearing house or participant that has effect for a period of not more than 15 days and may extend the directive once, in writing, for a further period of not more than 15 days.
+> 2017, c. 33, s. 190.
 
 
 
@@ -217,8 +239,8 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 **Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
 
 - **(3.1)** Despite subsections (1) to (3) and the settlement rules,
-	- **(a)** no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act; and
-	- **(b)** a ***clearing house***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), shall comply with subsection 39.15(3.3) of that Act, shall take any action required by subsection 39.15(7.12) of that Act and shall not take any action prevented by that subsection 39.15(7.12).
+	- **(a)** no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.1), (7.104), (7.11), (7.12) or (7.2) or section 39.152 of that Act; and
+	- **(b)** a clearing house, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), shall comply with subsection 39.15(3.3) of that Act, shall take any action required by subsection 39.15(7.12) of that Act and shall not take any action prevented by that subsection 39.15(7.12).
 
 **Application of Canadian law**
 
@@ -227,33 +249,39 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 **Interpretation**
 
 - **(5)** In this section, ***settlement rules*** means the rules, however established, that provide the basis on which payment obligations, delivery obligations or other transfers of property or interests in, or in Quebec rights to, property are made, calculated, netted or settled and includes rules for the taking of action in the event that a participant is unable or likely to become unable to meet its obligations to the clearing house, a central counter-party, other participants or the Bank.
-> 1996, c. 6, s. 162 (Sch., s. 8); 1999, c. 28, s. 132(E); 2012, c. 31, s. 169; 2016, c. 7, s. 165.
+> 1996, c. 6, s. 162 (Sch., s. 8); 1999, c. 28, s. 132(E); 2012, c. 31, s. 169; 2016, c. 7, s. 165; 2017, c. 33, s. 182.
 
 
 
 
 
-### Notice of Changes
+### Notice and Approvals
 
 
 
-**Notice required of significant changes**
+**Significant change**
 
 **9** 
 
-- **(1)** Every clearing house shall, in respect of its designated clearing and settlement system, provide the Bank with reasonable notice in advance of any change to be made by the clearing house that is of a significant nature in relation to the designated clearing and settlement system and, without limiting the generality of the foregoing, the notice shall be provided in respect of any change affecting
-	- **(a)** the constating documents and by-laws of the clearing house;
-	- **(b)** the operation of the designated clearing and settlement system; or
-	- **(c)** the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system.
+- **(1)** For the purposes of this section, a change is significant if it could reasonably be expected to have a material impact on the efficiency, safety or soundness of the designated clearing and settlement system.
+
+**Notice required**
+
+- **(2)** A clearing house shall provide the Bank with reasonable notice before making
+	- **(a)** any significant change in relation to the designated clearing and settlement system;
+	- **(b)** any change in relation to the design or operation of the system or to the by-laws, agreements, rules, procedures, guides or other documentation governing the system; or
+	- **(c)** any change to the constating documents and by-laws of the clearing house.
+
+**Approval required**
+
+- **(3)** If the Governor of the Bank is of the opinion that a significant change that the clearing house intends to make in relation to the designated clearing and settlement system would have an effect on the control of risk for the system, the clearing house, the participants or the financial system in Canada, that change shall not take effect unless it is approved in writing by the Governor, subject to any conditions that the Governor considers appropriate.
 
 **Notice required of other changes**
 
-- **(2)** Every clearing house shall, forthwith after it makes any other change in relation to the designated clearing and settlement system, provide the Bank with written notice of the change and, without limiting the generality of the foregoing, the notice shall be provided in respect of any change affecting
+- **(4)** A clearing house shall, without delay after it makes any change in relation to the designated clearing and settlement system, other than a change referred to in subsection (2), provide the Bank with written notice of the change, including any change affecting
 	- **(a)** the composition of a board of directors of the clearing house due to resignation or otherwise; or
 	- **(b)** the appointed auditor of the clearing house.
-
-- **(3)** [Repealed, 2014, c. 39, s. 366]
-> 1996, c. 6, s. 162 (Sch., s. 9); 2014, c. 39, s. 366.
+> 1996, c. 6, s. 162 (Sch., s. 9); 2014, c. 39, s. 366; 2017, c. 33, s. 191.
 
 
 
@@ -334,7 +362,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 **Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
 
-- **(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
+- **(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.1), (7.104), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 **Interpretation**
 
@@ -361,7 +389,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 - **(b)** an agreement that provides for the netting or set-off or compensation of present or future obligations to make payments against the present or future rights to receive payments. (*accord de compensation*)
 
 ***title transfer credit support agreement*** means an agreement under which title to property has been provided for the purpose of securing the payment or performance of an obligation in respect of an eligible financial contract. (*accord de transfert de titres pour obtention de crédit*)
-> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111; 2012, c. 31, s. 170; 2016, c. 7, s. 166.
+> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111; 2012, c. 31, s. 170; 2016, c. 7, s. 166; 2017, c. 33, s. 183.
 
 
 
@@ -383,7 +411,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 **Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
 
-- **(1.1)** Despite subsection (1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
+- **(1.1)** Despite subsection (1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.1), (7.104), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 **Designation by Minister**
 
@@ -407,7 +435,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 - **(a)** the Canadian Derivatives Clearing Corporation, incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
 - **(b)** the CDS Clearing and Depository Services Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); or
 - **(c)** the WCE Clearing Corporation, incorporated under The Corporations Act, chapter C225 of the Re-enacted Statutes of Manitoba 1987. (*chambre spécialisée*)
-> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112; 2012, c. 31, s. 171; 2016, c. 7, s. 167.
+> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112; 2012, c. 31, s. 171; 2016, c. 7, s. 167; 2017, c. 33, s. 184.
 
 
 
@@ -424,9 +452,10 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 - **(b)** risk-sharing and risk-control mecha­nisms;
 - **(c)** certainty of settlement and finality of payment;
 - **(d)** the nature of financial arrangements among participants;
-- **(e)** the operational systems and financial soundness of the clearing house; and
+- **(e)** the operational systems and financial soundness of the clearing house;
+- **(e.1)** the exercise of the Bank’s powers and the performance of its duties and functions; and
 - **(f)** any other matters pertaining to systemic risk or payments system risk.
-> 2014, c. 39, s. 369.
+> 2014, c. 39, s. 369; 2017, c. 33, s. 192.
 
 
 
@@ -611,7 +640,7 @@ in the same manner and to the same extent as if the Canadian participants were t
 
 **Prohibition or conditions**
 
-- **(2)** The Governor may prohibit the authorized foreign bank or foreign institution from being a participant in the designated clearing and settlement system or may require it to comply with any conditions with respect to its participation that the Governor considers necessary if the Governor is of the opinion, on the basis of the information provided under subsection (1) or of any other information that the Governor considers relevant, that its participation poses, or is likely to pose, a systemic risk or a payments system risk or poses, or is likely to pose, an unacceptable risk to the Bank in guaranteeing settlement of the authorized foreign bank’s or foreign institution’s obligations.
+- **(2)** The Governor of the Bank may prohibit the authorized foreign bank or foreign institution from being a participant in the designated clearing and settlement system or may require it to comply with any conditions with respect to its participation that the Governor considers necessary if the Governor is of the opinion, on the basis of the information provided under subsection (1) or of any other information that the Governor considers relevant, that its participation could pose a systemic risk or a payments system risk or could pose an unacceptable risk to the Bank in guaranteeing settlement of the authorized foreign bank’s or foreign institution’s obligations.
 
 **Powers of Governor of Bank**
 
@@ -621,12 +650,12 @@ in the same manner and to the same extent as if the Canadian participants were t
 
 - **(4)** The definitions in this subsection apply in this section.
 
-***authorized foreign bank*** means an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
+***authorized foreign bank*** means an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md). (*banque étrangère autorisée*)
 
 ***designated clearing and settlement system***[Repealed, 2014, c. 39, s. 373]
 
-***foreign institution*** means a foreign institution within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
-> 1999, c. 28, s. 135; 2014, c. 39, s. 373.
+***foreign institution*** means a foreign institution within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md). (*institution étrangère*)
+> 1999, c. 28, s. 135; 2014, c. 39, s. 373; 2017, c. 33, s. 193.
 
 
 
