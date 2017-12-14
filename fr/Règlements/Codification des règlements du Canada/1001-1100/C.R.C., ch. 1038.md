@@ -2076,6 +2076,25 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 </tr>
 <tr>
+<td>136</td>
+<td>Systèmes de contrôle électronique de la stabilité pour les véhicules lourds</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>201</td>
 <td>Protection des occupants</td>
 <td>X</td>
@@ -3166,6 +3185,20 @@ ou
 <td>Jaune</td>
 </tr>
 <tr>
+<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité des véhicules assujettis à la NSVAC 136</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue arrière d’une voiture au-dessus de deux lignes verticales qui sont sinueuses et épaisses.
+ou
+> Image: Symbole montrant, en silhouette, la vue arrière d’un camion au-dessus de deux lignes verticales qui sont sinueuses et épaisses.
+ ou
+> Image: Symbole montrant, en silhouette, la vue arrière d’un autobus au-dessus de deux lignes verticales qui sont sinueuses et épaisses.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
+</tr>
+<tr>
 <td>Niveau de carburant</td>
 <td>
 > Image: Symbole montrant, en contour, la vue de face d’une pompe à essence.
@@ -3478,7 +3511,7 @@ ou
 </tr>
 </table>
 
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 et 4; DORS/2017-231, art. 2..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3; DORS/2017-104, art. 3 à 5; DORS/2017-231, art. 2..
 
 
 
@@ -5328,6 +5361,24 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(5) à (7)** [Abrogés, DORS/2015-24, art. 6]
 > DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3; DORS/2015-24, art. 6..
+
+
+
+
+### Systèmes de contrôle électronique de la stabilité pour les véhicules lourds (NSVAC 136)
+
+**136** 
+
+- **(1)** Sous réserve du paragraphe (2), les camions-tracteurs et autobus visés à la disposition S3 de la norme prévue à la sous-partie 136, partie 571, chapitre V, titre 49, du Code of Federal Regulations des États-Unis (FMVSS 136) doivent être conformes aux exigences de cette norme, avec ses modifications successives. Toutefois :
+	- **a)** la définition de over-the-road bus de la norme ne s’applique pas;
+	- **b)** les termes perimeter-seating bus et transit bus figurant à la norme s’entendent au sens de autobus muni de sièges de périmètre et autobus urbain au paragraphe 2(1) du présent règlement;
+	- **c)** le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité des véhicules assujettis à la NSVAC 136 est identifié par le symbole figurant au tableau de l’article 101 de la présente annexe ou par l’abréviation « ESC »;
+	- **d)** la mention « *National Highway Traffic Safety Administration* » figurant à la norme vaut mention de « Transports Canada ».
+
+- **(2)** Malgré la FMVSS 136, le paragraphe (1) s’applique aux autobus scolaires.
+
+- **(3)** Le présent article s’applique aux véhicules fabriqués aux dates prévues à la FMVSS 136, ou après celles-ci.
+> DORS/2017-104, art. 7.
 
 
 
