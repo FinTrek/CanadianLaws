@@ -2074,6 +2074,25 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>X</td>
 </tr>
 <tr>
+<td>136</td>
+<td>Electronic Stability Control Systems for Heavy Vehicles</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>201</td>
 <td>Occupant Protection</td>
 <td>X</td>
@@ -3164,6 +3183,20 @@ or
 <td>Yellow</td>
 </tr>
 <tr>
+<td>Electronic stability control system malfunction for vehicles subject to CMVSS 136</td>
+<td>
+> Image: Symbol showing, in silhouette, the back view of a car above two thick, squiggly, vertical lines.
+ or
+> Image: Symbol showing, in silhouette, the back view of a truck above two thick, squiggly, vertical lines.
+ or
+> Image: Symbol showing, in silhouette, the back view of a bus above two thick, squiggly, vertical lines.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
+</tr>
+<tr>
 <td>Fuel level</td>
 <td>
 > Image: Symbol showing, in contour, the front view of a gas pump.
@@ -3474,7 +3507,7 @@ or
 </tr>
 </table>
 
-> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3; SOR/2017-104, ss. 3, 4; SOR/2017-231 s. 2..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3; SOR/2017-104, ss. 3 to 5; SOR/2017-231 s. 2..
 
 
 
@@ -5324,6 +5357,24 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(5) to (7)** [Repealed, SOR/2015-24, s. 6]
 > SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4; SOR/2009-318, s. 19(F); SOR/2011-238, s. 3; SOR/2015-24, s. 6..
+
+
+
+
+### Electronic Stability Control Systems for Heavy Vehicles (CMVSS 136)
+
+**136** 
+
+- **(1)** Subject to subsection (2), truck tractors and buses referred to in S3 of the standard set out in subpart 136, part 571, chapter V, Title 49 of the Code of Federal Regulations of the United States (FMVSS 136), must comply with the requirements of that standard, as amended from time to time. However,
+	- **(a)** the definition of over-the-road bus set out in the standard does not apply;
+	- **(b)** the terms perimeter-seating bus and transit bus in the standard have the meaning as in subsection 2(1) of these Regulations;
+	- **(c)** the electronic stability control system malfunction tell-tale for vehicles subject to CMVSS 136 must be identified by the symbol set out in the table to section 101 of this Schedule or by the abbreviation “ESC”; and
+	- **(d)** “National Highway Traffic Safety Administration” in the standard is to be read as “Transport Canada”.
+
+- **(2)** Despite FMVSS 136, subsection (1) applies to school buses.
+
+- **(3)** This section applies to vehicles manufactured on or after the dates set out in FMVSS 136.
+> SOR/2017-104, s. 7..
 
 
 
