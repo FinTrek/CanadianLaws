@@ -10,6 +10,9 @@ Sanctionnée sur le 20 juin 1996
 ----------
 
 
+[Abrogée, 2017, ch. 33, art. 228]
+
+
 
 
 **Préambule**
@@ -30,249 +33,170 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ## Titre abrégé
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Titre abrégé**
-
-**1** Loi de mise en œuvre de l’Accord sur le commerce intérieur.
+**1** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Définitions
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Définitions**
-
-**2** Les définitions qui suivent s’appliquent à la présente loi.
-
-***Accord*** L’Accord sur le commerce intérieur signé en 1994, avec ses modifications successives.
-
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, aux termes de l’article 8, de l’application de telle disposition de la présente loi.
-> 1996, ch. 17, art. 2; 2012, ch. 31, art. 299.
-
+**2** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Objet
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Objet**
-
-**3** La présente loi a pour objet la mise en œuvre de l’Accord.
+**3** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Sa Majesté
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Obligation de Sa Majesté**
-
-**4** La présente loi lie Sa Majesté du chef du Canada.
+**4** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Dispositions générales
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Restriction du droit d’action**
-
-**5** 
-
-- **(1)** Le droit de poursuite relativement aux droits et obligations uniquement fondés sur les articles 9 ou 11 ou les décrets d’application pris aux termes de l’article 9 ne peut être exercé qu’avec le consentement du procureur général du Canada.
-
-**Restriction du droit d’action**
-
-- **(2)** Sauf cas prévus à la partie B du chapitre 17 de l’Accord, le droit de poursuite relativement aux droits et obligations uniquement fondés sur l’Accord ne peut être exercé qu’avec le consentement du procureur général du Canada.
+**5** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
-
-**Précision**
-
-**6** Il est entendu que la présente loi n’a, ni par ses mentions expresses ni par ses omissions, pour effet de porter atteinte au pouvoir du Parlement d’adopter les dispositions législatives nécessaires à la mise en œuvre d’une disposition de l’Accord ou à l’exécution des obligations contractées par le gouvernement du Canada aux termes de l’Accord.
+**6** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Mise en œuvre de l’accord
+> [Abrogée, 2017, ch. 33, art. 228]
+
 
 
 
 ### Approbation de l’Accord
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Approbation**
-
-**7** L’Accord est approuvé.
+**7** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ### Désignation du ministre
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Désignation du ministre**
-
-**8** Le gouverneur en conseil peut, par décret, désigner tout membre du Conseil privé de la Reine pour le Canada à titre de ministre chargé de l’application de telle disposition de la présente loi.
+**8** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ### Ordonnances rendues sous le régime du chapitre 17 de l’Accord
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Assimilation**
-
-**8.1** 
-
-- **(1)** L’ordonnance relative à une sanction pécuniaire ou l’ordonnance sur les dépens rendue au titre du chapitre 17 de l’Accord peut, uniquement en vue de son exécution, être assimilée à une ordonnance de la Cour fédérale.
-
-**Procédure**
-
-- **(2)** L’assimilation se fait par dépôt au greffe de la Cour fédérale, par la partie à l’Accord ou la personne en faveur de qui l’ordonnance est rendue, d’une copie certifiée conforme de l’ordonnance. Elle s’effectue au moment du dépôt.
-> 2012, ch. 31, art. 300.
+**8.1** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
-
-
-**Exécution**
-
-**8.2** L’ordonnance assimilée à une ordonnance de la Cour fédérale est exécutoire comme les autres ordonnances de ce tribunal.
-> 2012, ch. 31, art. 300.
+**8.2** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
-
-
-**Caractère définitif et obligatoire de l’ordonnance**
-
-**8.3** Elle est définitive, non susceptible d’appel et elle lie les parties.
-> 2012, ch. 31, art. 300.
-
+**8.3** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ### Décrets
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Décrets**
-
-**9** 
-
-- **(1)** Le gouverneur en conseil peut, par décret, aux termes de l’article 1709 de l’Accord, en vue de suspendre des avantages d’une province ayant un effet équivalent ou de prendre contre elle des mesures de rétorsion ayant un effet équivalent :
-	- **a)** suspendre les droits ou privilèges que le gouvernement du Canada lui a accordés en vertu de l’Accord ou d’un texte législatif fédéral;
-	- **b)** modifier ou suspendre l’application d’un texte législatif fédéral à son égard.
-
-**Définition de texte législatif fédéral**
-
-- **(2)** Dans le présent article, ***texte législatif fédéral*** désigne tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
-
-**Décret pris sous réserve du chapitre 17**
-
-- **(3)** Il demeure entendu que le pouvoir de prendre un décret visé au paragraphe (1) ne peut être exercé que dans les limites du chapitre 17 de l’Accord, particulièrement en ce qui a trait :
-	- **a)** aux exigences relatives à l’intérêt pour agir prévues au paragraphe 1703(8) de l’Accord;
-	- **b)** aux conditions et restrictions prévues aux paragraphes 1709(3), (4) et (10) de l’Accord.
-> 1996, ch. 17, art. 9; 2012, ch. 31, art. 302.
-
+**9** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ### Comité du commerce intérieur
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Nomination des représentants**
-
-**10** Le gouverneur en conseil peut nommer un ministre à titre de représentant au Comité du commerce intérieur constitué aux termes de l’article 1600 de l’Accord.
+**10** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
-
-**Paiement des frais**
-
-**11** Le gouvernement du Canada, conformément à l’annexe 1603.3 de l’Accord, paie sa quote-part du budget annuel de fonctionnement du Secrétariat visé à l’article 1603 de l’Accord.
+**11** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ### Groupes spéciaux et comités
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Listes**
-
-**12** Le gouverneur en conseil peut nommer, pour inscription sur les listes prévues au paragraphe 1704(2) de l’Accord, des personnes possédant les qualités requises par l’annexe 1704(2) de l’Accord.
-> 1996, ch. 17, art. 12; 2012, ch. 31, art. 303.
+**12** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
-
-
-**Nomination aux comités**
-
-**13** Le ministre peut nommer les représentants du Canada aux comités visés dans l’Accord, à l’exception du Comité du commerce intérieur prévu à l’article 10.
+**13** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ### Nominations
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Nominations**
-
-**14** 
-
-- **(1)** Le gouverneur en conseil peut, par décret, nommer les personnes aux postes qu’il estime nécessaires ou indiqués pour la mise en œuvre de l’Accord.
-
-**Rémunération**
-
-- **(2)** Le gouverneur en conseil peut fixer la rémunération et les indemnités des personnes visées au paragraphe (1).
+**14** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
-
-**Examinateur**
-
-**15** Le gouverneur en conseil peut, par décret, nommer à titre d’examinateur pour l’application de la partie B du chapitre 17 de l’Accord, toute personne possédant les qualités requises par cette partie.
-> 1996, ch. 17, art. 15; 2012, ch. 31, art. 304.
-
+**15** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Modifications connexes
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
-**16 à 19** [Modifications]
+
+**16 à 19** [Abrogé, 2017, ch. 33, art. 228]
 
 
 
 
 ## Entrée en vigueur
+> [Abrogée, 2017, ch. 33, art. 228]
 
 
 
-**Entrée en vigueur**
-
-<sup><a href='#A-2.4_fr_1'>[*]</a></sup>**20** La présente loi ou telle de ses dispositions, ou des dispositions de toute loi édictée par elle, entre en vigueur à la date ou aux dates fixées par décret.
-
-<a name='A-2.4_fr_1'><sup>*</sup></a>: [Note : Loi, sauf articles 17, 18 et 19, en vigueur le 15 juillet 1996, *voir* TR/96-65; article 19 en vigueur le 1<sup>er</sup> janvier 2000, *voir* TR/99-97.]<br />
+**20** [Abrogé, 2017, ch. 33, art. 228]
 
 
