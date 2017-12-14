@@ -379,14 +379,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The Procurement Ombudsman shall, in accord­ance with the regulations,
 	- **(a)** review the practices of departments for acquiring materiel and services to assess their fairness, openness and transparency and make any appropriate recommendations to the relevant department for the improvement of those practices;
-	- **(b)** review any complaint respecting the compliance with any regulations made under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) of the award of a contract for the acquisition of materiel or services by a department to which the Agreement, as defined in section 2 of the [Agreement on Internal Trade Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2017.md), would apply if the value of the contract were not less than the amount referred to in article 502 of that Agreement;
+	- **(b)** review any complaint respecting the compliance with any regulations made under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) of the award of a contract for the acquisition of materiel or services by a department to which the Agreement, as defined in section 2 of the [Canadian Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2033,%20s.%20219.md), would apply if the value of the contract were not less than the amount referred to in Article 504 of that Agreement.
 	- **(c)** review any complaint respecting the administration of a contract for the acquisition of materiel or services by a department; and
 	- **(d)** ensure that an alternative dispute resolution process is provided, on request of each party to such a contract.
 
 **Other duties and functions**
 
 - **(4)** The Procurement Ombudsman shall also perform any other duty or function respecting the practices of departments for acquiring materiel and services that may be assigned to the Procurement Ombudsman by order of the Governor in Council or the Minister.
-> 2006, c. 9, s. 306.
+> 2006, c. 9, s. 306; 2017, c. 33, s. 224.
 
 
 
@@ -396,7 +396,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **22.2** 
 
-- **(1)** A person may only file a complaint referred to in paragraph 22.1(3)(b) or (c) if that person is a Canadian supplier within the meaning of article 518 of the agreement referred to in paragraph 22.1(3)(b) and meets any requirements prescribed by the regulations.
+- **(1)** A person may only file a complaint referred to in paragraph 22.1(3)(b) or (c) if that person is a Canadian supplier within the meaning of article 521 of the agreement referred to in paragraph 22.1(3)(b) and meets any requirements prescribed by the regulations.
 
 **Timing of complaint**
 
@@ -409,7 +409,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Limitation**
 
 - **(4)** The Procurement Ombudsman may not recommend the cancellation of the contract to which the complaint relates.
-> 2006, c. 9, s. 306.
+> 2006, c. 9, s. 306; 2017, c. 33, s. 225.
 
 
 
