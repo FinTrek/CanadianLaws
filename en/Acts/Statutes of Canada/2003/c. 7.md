@@ -241,18 +241,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
-
-**Delegation to territorial Minister**
-
-**6.1** 
-
-- **(1)** The federal minister may delegate, in writing, to the territorial minister all or any of the federal minister’s powers, duties or functions under this Act, either generally or as otherwise provided in the instrument of delegation.
-
-**Notice**
-
-- **(2)** The federal minister must notify the first nations in writing of any such delegation.
-> 2015, c. 19, s. 2.
-
+**6.1** [Repealed, 2017, c. 34, s. 1]
 
 
 
@@ -985,18 +974,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
-
-**No significant change**
-
-**49.1** 
-
-- **(1)** A new assessment of a project or existing project is not required when an authorization is renewed or amended unless, in the opinion of a decision body for the project, there is a significant change to the original project that would otherwise be subject to an assessment.
-
-**Consultation between decision bodies**
-
-- **(2)** If there is more than one decision body for the project, they shall consult one another in determining whether a new assessment is required.
-> 2015, c. 19, s. 14.
-
+**49.1** [Repealed, 2017, c. 34, s. 2]
 
 
 
@@ -1097,23 +1075,13 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **56** 
 
-- **(1)** A designated office shall, within nine months after the day on which a proposal is submitted to it under paragraph 50(1)(b), conclude its evaluation of the project by
-	- **(a)** recommending to the decision bodies for the project that the project be allowed to proceed, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
-	- **(b)** recommending to those decision bodies that the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
-	- **(c)** recommending to those decision bodies that the project not be allowed to proceed, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
-	- **(d)** referring the project to the executive committee for a screening, if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have, or is likely to have, significant adverse environmental or socio-economic effects.
+- **(1)** At the conclusion of its evaluation of the project, a designated office shall
+	- **(a)** recommend to the decision bodies for the project that the project be allowed to proceed, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
+	- **(b)** recommend to those decision bodies that the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
+	- **(c)** recommend to those decision bodies that the project not be allowed to proceed, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
+	- **(d)** refer the project to the executive committee for a screening, if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have, or is likely to have, significant adverse environmental or socio-economic effects.
 
-**Excluded period**
-
-- **(1.1)** If the designated office requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the designated office’s opinion, is taken by the proponent to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
-
-**Extension of time limit by federal minister**
-
-- **(1.2)** The federal minister may, at the request of the Board, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal for a project.
-
-**Extension of time limit by Governor in Council**
-
-- **(1.3)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
+- **(1.1) to (1.3)** [Repealed, 2017, c. 34, s. 3]
 
 **Notification**
 
@@ -1130,7 +1098,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Documentation**
 
 - **(5)** Where a designated office refers a project to the executive committee, it shall provide the executive committee with copies of its documentation relating to the project.
-> 2003, c. 7, s. 56; 2015, c. 19, s. 16.
+> 2003, c. 7, s. 56; 2015, c. 19, s. 16; 2017, c. 34, s. 3.
 
 
 
@@ -1165,23 +1133,13 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **58** 
 
-- **(1)** The executive committee shall, within 16 months after the day on which a proposal is submitted to it under paragraph 50(1)(a) or referred to it under paragraph 56(1)(d), conclude its screening of the project by
-	- **(a)** recommending to the decision bodies for the project that the project be allowed to proceed without a review, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
-	- **(b)** recommending to those decision bodies that the project be allowed to proceed without a review, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
-	- **(c)** recommending to those decision bodies that the project not be allowed to proceed and not be subject to a review, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
-	- **(d)** requiring a review of the project, if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have, or is likely to have, significant adverse environmental or socio-economic effects.
+- **(1)** At the conclusion of its screening of the project, the executive committee shall
+	- **(a)** recommend to the decision bodies for the project that the project be allowed to proceed without a review, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
+	- **(b)** recommend to those decision bodies that the project be allowed to proceed without a review, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
+	- **(c)** recommend to those decision bodies that the project not be allowed to proceed and not be subject to a review, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
+	- **(d)** require a review of the project, if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have, or is likely to have, significant adverse environmental or socio-economic effects.
 
-**Excluded period**
-
-- **(1.1)** If the executive committee requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the executive committee’s opinion, is taken by the proponent to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
-
-**Extension of time limit by federal minister**
-
-- **(1.2)** The federal minister may, at the request of the Board, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal for a project.
-
-**Extension of time limit by Governor in Council**
-
-- **(1.3)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
+- **(1.1) to (1.3)** [Repealed, 2017, c. 34, s. 4]
 
 **Review required — other cases**
 
@@ -1196,7 +1154,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Notice of reasons for review**
 
 - **(4)** Where the executive committee requires a review under paragraph (1)(d) or subsection (2), it shall provide written reasons for doing so to the proponent and any first nation consulted under subsection 50(3) as well as to any government agency, independent regulatory agency or first nation that has notified the executive committee of its interest in the project or in projects of that kind.
-> 2003, c. 7, s. 58; 2015, c. 19, s. 17.
+> 2003, c. 7, s. 58; 2015, c. 19, s. 17; 2017, c. 34, s. 4.
 
 
 
@@ -1363,26 +1321,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
-
-**Time limit**
-
-**66.1** 
-
-- **(1)** The executive committee shall establish a panel of the Board, and fix its terms of reference, within three months after the day on which it is required to do so under subsection 65(1) or (2).
-
-**Excluded period**
-
-- **(2)** If the executive committee requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the committee’s opinion, is taken by that proponent to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
-
-**Extension of time limit by federal minister**
-
-- **(3)** The federal minister may, at the request of the executive committee, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal for a project.
-
-**Extension of time limit by Governor in Council**
-
-- **(4)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
-> 2015, c. 19, s. 21.
-
+**66.1** [Repealed, 2017, c. 34, s. 5]
 
 
 
@@ -1536,26 +1475,12 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(b)** the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions; or
 	- **(c)** the project not be allowed to proceed, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated.
 
-**Time limit — panel of the Board**
-
-- **(4.1)** A panel of the Board shall make the recommendations referred to in subsection (4) within 15 months after the day on which the panel is established under subsection 65(1) or (2).
-
-**Excluded period**
-
-- **(4.2)** If a panel of the Board requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the panel’s opinion, is taken by the proponent to comply with the requirement is not included in the calculation of the time limit under subsection (4.1) or of its extension.
-
-**Extension of time limit by federal minister**
-
-- **(4.3)** The federal minister may, at the request of the Board, extend the time limit referred to in subsection (4.1) by a maximum of two months to take into account circumstances that are specific to a proposal for a project.
-
-**Extension of time limit by Governor in Council**
-
-- **(4.4)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
+- **(4.1) to (4.4)** [Repealed, 2017, c. 34, s. 6]
 
 **Other recipient of recommendation**
 
 - **(5)** A recommendation of a panel of the Board or a joint panel shall be made in writing with reasons and a copy provided to the proponent.
-> 2003, c. 7, s. 72; 2015, c. 19, s. 23.
+> 2003, c. 7, s. 72; 2015, c. 19, s. 23; 2017, c. 34, s. 6.
 
 
 
@@ -1622,12 +1547,12 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Time limits**
 
-- **(2)** The executive committee or panel of the Board shall make a new recommendation to the decision bodies in respect of the project within the period prescribed by the rules, which is not to exceed 60 days for a screening by the executive committee or 90 days for a review by a panel of the Board. If it does not make such a recommendation, it is deemed to have made the same recommendation that it made at the conclusion of its screening or review.
+- **(2)** The executive committee or panel of the Board shall make a new recommendation to the decision bodies in respect of the project within the period prescribed by the rules. If it does not make such a recommendation, it is deemed to have made the same recommendation that it made at the conclusion of its screening or review.
 
 **New recommendation**
 
 - **(3)** Every decision body shall, within the period prescribed by the regulations, issue a decision document accepting, rejecting or varying the new recommendation, and that decision document replaces any previous decision document issued by it in respect of the project.
-> 2003, c. 7, s. 77; 2015, c. 19, s. 27.
+> 2003, c. 7, s. 77; 2015, c. 19, s. 27; 2017, c. 34, s. 7.
 
 
 
@@ -2439,30 +2364,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
-
-### Policy Directions
-
-
-
-**Minister’s policy directions**
-
-**121.1** 
-
-- **(1)** The federal minister may, after consultation with the Board, give written policy directions that are binding on the Board with respect to the exercise or performance of any of its powers, duties or functions under this Act.
-
-**Limitation**
-
-- **(2)** Policy directions do not apply in respect of any proposal for a project that, at the time the directions are given, has been submitted to a designated office, the executive committee or a panel of the Board.
-
-**Publication**
-
-- **(3)** Immediately after giving a policy direction to the Board, the federal minister shall cause a notice to be published in the Canada Gazette stating that the direction will be published by the Board on its Internet site. Immediately after receiving the direction, the Board shall publish them on its Internet site and may also make it accessible by any other means that the Board considers appropriate.
-
-**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
-
-- **(4)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of the policy directions.
-> 2015, c. 19, s. 34.
-
+**121.1** [Repealed, 2017, c. 34, s. 8]
 
 
 
