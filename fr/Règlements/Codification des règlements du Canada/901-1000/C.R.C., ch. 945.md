@@ -9,7 +9,7 @@ Autorités habilitantes :
 
 ----------
 
-[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] 
+[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.]
 
 
 
@@ -1330,26 +1330,28 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 **221** 
 
-- **(1)** Pour l’application du présent article, ***déclarant*** s’entend des personnes suivantes :
-	- **a) ** les sociétés de placement à capital variable;
-	- **b) ** les sociétés de placement;
-	- **c) ** les fiducies de fonds commun de placement;
+- **(1)** Pour l’application du présent article, ***déclarant*** s’entend des personnes suivantes :
+	- **a)** les sociétés de placement à capital variable;
+	- **b)** les sociétés de placement;
+	- **c)** les fiducies de fonds commun de placement;
 	- **d) et e)** [Abrogés, DORS/2005-264, art. 4]
-	- **f) ** les fiducies qui seraient des fiducies de fonds commun de placement s’il n’était pas tenu compte, à la partie XLVIII, de l’alinéa 4801b);
-	- **g) ** [Abrogé, DORS/2005-264, art. 4]
-	- **h) ** les fiducies de placement dans des petites entreprises au sens du paragraphe 5103(1).
-	- **i) ** [Abrogé, DORS/2005-264, art. 4]
+	- **f)** les fiducies qui seraient des fiducies de fonds commun de placement s’il n’était pas tenu compte, à la partie XLVIII, de l’alinéa 4801b);
+	- **g)** [Abrogé, DORS/2005-264, art. 4]
+	- **h)** les fiducies de placement dans des petites entreprises au sens du paragraphe 5103(1).
+	- **i)** [Abrogé, DORS/2005-264, art. 4]
 
-- **(2)** Le déclarant, sauf un placement enregistré, qui déclare, au cours d’une année d’imposition, qu’une action de son capital-actions qu’il a émise ou qu’une participation d’un de ses bénéficiaires est un placement admissible pour l’application des articles 146, 146.1, 146.3, 204, 205 ou 207.01 de la Loi est tenu de produire, pour l’année et dans les 90 jours suivant la fin de cette année, une déclaration de renseignements selon le formulaire prescrit.
+- **(2)** Le déclarant, sauf un placement enregistré, qui déclare, au cours d’une année d’imposition, qu’une action de son capital-actions qu’il a émise ou qu’une participation d’un de ses bénéficiaires est un placement admissible pour l’application des articles 146, 146.1, 146.3, 146.4, 204 ou 207.01 de la Loi est tenu de produire, pour l’année et dans les 90 jours suivant la fin de cette année, une déclaration de renseignements selon le formulaire prescrit.
 
 - **(3)** [Abrogé, DORS/2005-264, art. 4]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 2; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2000-62, art. 1; DORS/2001-216, art. 1; DORS/2005-264, art. 4; 2007, ch. 35, art. 125; 2009, ch. 2, art. 88; DORS/2010-93, art. 6(A).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 2; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2000-62, art. 1; DORS/2001-216, art. 1; DORS/2005-264, art. 4; 2007, ch. 35, art. 125; 2009, ch. 2, art. 88; DORS/2010-93, art. 6(A); 2017, ch. 33, art. 83.
 
 
 
 
-**222** [Abrogé, DORS/2000-62, art. 1]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-62, art. 1.
+**222** L’émetteur d’un REEI, ou le promoteur d’un REEE, qui régit une fiducie est tenu d’aviser les titulaires du REEI ou les souscripteurs du REEE, selon le formulaire et les modalités prescrits, avant mars d’une année civile, des faits ci-après qui s’avèrent :
+- **a)** au cours de l’année civile précédente, la fiducie a acquis un bien qui n’est pas un placement admissible pour elle ou a disposé d’un tel bien;
+- **b)** au cours de l’année civile précédente, un bien détenu par la fiducie est devenu un placement admissible pour elle ou a cessé de l’être.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-62, art. 1; 2017, ch. 33, art. 84.
 
 
 
@@ -1966,28 +1968,28 @@ sur
 - **(2)** Pour l’application du paragraphe (1), la police d’assurance-vie qui est une police exonérée à son premier anniversaire est réputée avoir été une telle police depuis la date de son établissement jusqu’à cet anniversaire.
 
 - **(3)** Les règles ci-après s’appliquent au présent article et à l’article 307 :
-	- **a)** dans le cas d’une police d’assurance-vie établie avant 2017 ou à un moment donné déterminé selon le paragraphe 148(11) de la Loi, une police type aux fins d’exonération distincte est réputée, sous réserve du paragraphe (7), être établie à l’égard de la police d’assurance-vie aux dates suivantes :
+	- **a)** dans le cas d’une police d’assurance-vie établie avant 2017, une police type aux fins d’exonération distincte est réputée, sous réserve du paragraphe (7), être établie à l’égard de la police d’assurance-vie aux dates suivantes :
 		- **(i)** la date d’établissement de la police d’assurance-vie,
-		- **(ii)** chaque anniversaire de la police d’assurance-vie (lequel, le cas échéant, se termine avant le moment donné déterminé selon le paragraphe 148(11) de la Loi relativement à la police) où le montant visé à la division (A) excède la somme visée à la division (B) :
+		- **(ii)** chaque anniversaire de la police d’assurance-vie où le montant visé à la division (A) excède la somme visée à la division (B) :
 			- **(A)** le montant de la prestation de décès prévue par la police d’assurance-vie,
 			- **(B)** 108 % du montant de la prestation de décès prévue par la police d’assurance-vie à la date d’établissement de cette police ou, si elle est postérieure, à la date de son anniversaire de police précédent;
-	- **b)** dans le cas d’une police d’assurance-vie établie après 2016 (y compris à un moment donné déterminé selon le paragraphe 148(11) de la Loi relativement à la police), une police type aux fins d’exonération distincte est réputée, sous réserve du paragraphe (7), être établie à l’égard de chaque protection offerte dans le cadre de la police d’assurance-vie aux dates suivantes :
-		- **(i)** sauf si le moment donné où la police est établie est déterminé selon le paragraphe 148(11) de la Loi et que la protection est établie avant ce moment, la date ci-après qui s’applique :
+	- **b)** dans le cas d’une police d’assurance-vie établie après 2016, une police type aux fins d’exonération distincte est réputée, sous réserve du paragraphe (7), être établie à l’égard de chaque protection offerte dans le cadre de la police d’assurance-vie aux dates suivantes :
+		- **(i)** la date ci-après qui s’applique :
 			- **(A)** la date d’établissement de la police d’assurance-vie si la protection est établie avant le premier anniversaire de la police d’assurance-vie,
 			- **(B)** la date d’établissement de la protection si celle-ci correspond à un anniversaire de la police d’assurance-vie,
 			- **(C)** l’anniversaire de la police d’assurance-vie précédent si la protection est établie à une date qui est postérieure au premier anniversaire de la police et qui n’est pas un anniversaire de la police,
-		- **(ii)** chaque anniversaire de la police d’assurance-vie — cet anniversaire devant, dans le cas où un moment donné où la police est établie est déterminé selon le paragraphe 148(11) de la Loi, se terminer au plus tôt au moment donné — où la somme visée à la division (A) excède celle visée à la division (B) :
+		- **(ii)** chaque anniversaire de la police d’assurance-vie où la somme visée à la division (A) excède celle visée à la division (B) :
 			- **(A)** le montant de la prestation de décès relative à la protection à cet anniversaire,
 			- **(B)** 108 % du montant de la prestation de décès qui est prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à l’anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection),
-		- **(iii)** la date de chaque anniversaire de la police d’assurance-vie — cet anniversaire devant, dans le cas où un moment donné où la police est établie est déterminé selon le paragraphe 148(11) de la Loi, se terminer au plus tôt au moment donné —, sauf si une autre police type aux fins d’exonération a été établie à cette date en application du présent alinéa relativement à une protection de la police d’assurance-vie, où la somme visée à la division (A) excède celle visée à la division (B) :
+		- **(iii)** la date de chaque anniversaire de la police d’assurance-vie, sauf dans la mesure où une autre police type aux fins d’exonération a été établie à cette date en application du présent sous-alinéa relativement à une protection de la police d’assurance-vie, où la somme visée à la division (A) excède celle visée à la division (B) :
 			- **(A)** l’excédent du bénéfice au titre de la valeur du fonds de la police d’assurance-vie à cet anniversaire sur le bénéfice au titre de la valeur du fonds de la police d’assurance-vie à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la police),
 			- **(B)** l’excédent du montant visé à la subdivision (I) sur la subdivision (II),
 				- **(I)** 8 % de la partie de la prestation de décès prévue par la police d’assurance-vie à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la police),
 				- **(II)** le total des sommes dont chacune est, relativement à une protection prévue par la police, le moindre des montants suivants :
-					- **1.** l’excédent du montant de la prestation de décès qui est prévue par la protection à cet anniversaire de la police sur le montant de la prestation de décès qui est prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection),
-					- **2.** 8 % de la partie de la prestation de décès prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à l’anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection).
+					- **1** l’excédent du montant de la prestation de décès qui est prévue par la protection à cet anniversaire de la police sur le montant de la prestation de décès qui est prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection),
+					- **2** 8 % de la partie de la prestation de décès prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à l’anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection).
 
-- **(4)** Sous réserve du paragraphe 10, lorsqu’il s’agit de déterminer si la condition énoncée à l’alinéa (1)a) est remplie à un anniversaire de la police d’assurance-vie, chaque police type aux fins d’exonération établie à l’égard de la police d’assurance-vie, ou à l’égard d’une protection offerte dans le cadre de celle-ci, est réputée, à la fois :
+- **(4)** Lorsqu’il s’agit de déterminer si la condition énoncée à l’alinéa (1)a) est remplie à un anniversaire d’une police d’assurance-vie, chaque police type aux fins d’exonération établie à l’égard de la police d’assurance-vie, ou à l’égard d’une protection offerte dans le cadre de celle-ci, est réputée, à la fois :
 	- **a)** prévoir une prestation de décès qui demeure fixe pendant la durée de la police type aux fins d’exonération et qui, sous réserve du paragraphe (5), correspond à celle des sommes ci-après qui est applicable :
 		- **(i)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)a)(i), l’excédent du montant, à cet anniversaire, de la prestation de décès prévue par la police d’assurance-vie sur le total des sommes représentant chacune le montant, à cet anniversaire, de la prestation de décès prévue par une autre police type aux fins d’exonération établie à l’égard de la police d’assurance-vie au plus tard à cet anniversaire,
 		- **(ii)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)a)(ii), l’excédent visé à ce sous-alinéa à cette date relativement à la police d’assurance-vie,
@@ -2015,7 +2017,7 @@ où :
 				- **(II)** dans les autres cas, la date du décès du particulier dont la vie est assurée en vertu de la protection,
 		- **(ii)** la date d’échéance de la police type aux fins d’exonération.
 
-- **(5)** Sous réserve du paragraphe 10, pour le calcul du montant d’une prestation de décès prévue par une police type aux fins d’exonération établie à l’égard :
+- **(5)** Pour le calcul du montant d’une prestation de décès prévue par une police type aux fins d’exonération établie à l’égard :
 	- **a)** d’une police d’assurance-vie établie avant 2017, dont à un moment donné le montant d’une prestation de décès prévue par la police d’assurance-vie est réduit, une somme donnée égale au montant de la réduction doit être appliquée, à ce moment, de façon que le montant de la prestation de décès prévue par chaque police type aux fins d’exonération établie avant ce moment à l’égard de la police d’assurance-vie (à l’exception de la police type aux fins d’exonération dont la date d’établissement est établie selon le sous-alinéa (3)a)(i)) soit réduit — suivant l’ordre de la date d’établissement de ces polices, de la plus rapprochée à la plus éloignée de ce moment — d’une somme égale à la moins élevée des sommes suivantes :
 		- **(i)** la partie de la somme donnée qui n’a pas été appliquée en réduction de la prestation de décès prévue par une ou plusieurs de ces autres polices types aux fins d’exonération,
 		- **(ii)** le montant, immédiatement avant ce moment, de la prestation de décès prévue par la police type aux fins d’exonération en cause;
@@ -2026,7 +2028,9 @@ où :
 
 - **(6)** Le paragraphe (7) s’applique à un moment donné relativement à une police d’assurance-vie si les conditions ci-après sont réunies :
 	- **a)** ce moment correspond au dixième anniversaire de la police ou à tout anniversaire de la police subséquent;
-	- **b)** le fonds accumulé de la police (calculé compte non tenu des avances sur police non remboursées) excède 250 % de son fonds accumulé à la date du troisième anniversaire de la police précédent (calculé compte non tenu des avances sur police non remboursées);
+	- **b)** le fonds accumulé de la police (calculé compte non tenu de montants payables quant à une avance sur police) au moment donné excède 250 % de celle des sommes ci-après qui s’applique :
+		- **(i)** si le moment où la police est émise est déterminé en vertu du paragraphe 148(11) de la Loi et que la date du troisième anniversaire de la police précédent est antérieure au moment donné, le fonds accumulé de la police à cette date (calculé compte non tenu de montants payables quant à une avance sur police et comme si la police avait été émise après 2016),
+		- **(ii)** sinon, le fonds accumulé de la police à cette date (calculé compte non tenu de montants payables quant à une avance sur police);
 	- **c)** si ce moment est postérieur à 2016 :
 		- **(i)** le fonds accumulé de la police (calculé compte non tenu des avances sur police non remboursées) excède le total des sommes dont chacune représente une des sommes suivantes :
 			- **(A)** si la police est établie avant 2017, les 3/20 du fonds accumulé, à ce moment, relativement à une police type aux fins d’exonération établie à l’égard de la protection aux termes de la police,
@@ -2036,7 +2040,7 @@ où :
 - **(7)** En cas d’application du présent paragraphe à un moment donné relativement à une police d’assurance-vie, chaque police type aux fins d’exonération établie avant ce moment à l’égard de la police d’assurance-vie est réputée, à ce moment et par la suite, être établie (autrement que pour l’application du présent paragraphe, de l’alinéa (4)a) et du paragraphe (5)) :
 	- **a)** à celle des dates ci-après qui est postérieure à l’autre :
 		- **(i)** la date du troisième anniversaire de la police précédent visé à l’alinéa (6)b) relativement à la police,
-		- **(ii)** la date où la police type est réputée, en vertu du paragraphe (3), être établie (déterminée immédiatement avant le moment donné);
+		- **(ii)** la date où la police type est réputée, en vertu du paragraphe (3) ou (10), selon le cas, être établie (déterminée immédiatement avant le moment donné);
 	- **b)** et non à un autre moment.
 
 - **(8)** La police d’assurance-vie qui, en l’absence du présent paragraphe, cesserait à son anniversaire de police d’être une police exonérée pour une raison autre que sa conversion en un contrat de rente est réputée être une police exonérée à cet anniversaire si un des énoncés ci-après se vérifie :
@@ -2047,10 +2051,21 @@ où :
 	- **a)** une prime visée par règlement est versée par un contribuable relativement à un intérêt dans la police acquis la dernière fois avant le 2 décembre 1982;
 	- **b)** un intérêt dans la police est acquis par un contribuable auprès de la personne qui détenait l’intérêt sans interruption depuis le 1<sup>er</sup> décembre 1982.
 
-- **(10)** Si un moment donné où une police d’assurance-vie est établie a été déterminé selon le paragraphe 148(11) de la Loi, pour l’application des paragraphes (4) et (5) au moment donné ou par la suite à une police type aux fins d’exonération établie avant le moment donné relativement à la police, à la fois :
-	- **a)** les sous-alinéas (4)a)(iii) et (iv), et non les sous-alinéas (4)a)(i) ou (ii), s’appliquent à la police type aux fins d’exonération;
-	- **b)** il est entendu que l’alinéa (5)b), et non l’alinéa 5a), s’applique à la police type aux fins d’exonération.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-415, art. 2; DORS/94-686, art. 55(F) et 56(F); 2013, ch. 40, art. 97; 2014, ch. 39, art. 81.
+- **(10)** Malgré les paragraphes (3) et (4), si une police d’assurance-vie est établie à une fin quelconque à un moment donné déterminé en vertu du paragraphe 148(11) de la Loi, pour l’application du présent article (sauf le présent paragraphe et le paragraphe (9)) et de l’article 307 relativement à la police d’assurance-vie les règles ci-après s’appliquent à compter du moment donné :
+	- **a)** relativement à chaque protection établie avant le moment donné dans le cadre de la police d’assurance-vie, une police type aux fins d’exonération est réputée être établie relativement à une protection offerte dans le cadre de la police d’assurance-vie aux dates suivantes :
+		- **(i)** la date d’établissement de la police d’assurance-vie,
+		- **(ii)** la date de chaque anniversaire de la police qui se termine avant le moment donné de la police d’assurance-vie où la somme visée à la division (A) excède la somme visée à la division (B) :
+			- **(A)** le montant de la prestation de décès prévue par la police d’assurance-vie,
+			- **(B)** 108 % du montant de la prestation de décès prévue par la police d’assurance-vie à la date d’établissement de cette police ou, si elle est postérieure, à la date de son anniversaire de police précédent;
+	- **b)** relativement à chaque protection établie avant le moment donné dans le cadre de la police d’assurance-vie, le paragraphe (3) ne s’applique pas pour qu’une police type aux fins d’exonération soit réputée être établie dans le cadre de la police d’assurance-vie, ou d’une protection offerte dans le cadre de celle-ci, avant le moment donné;
+	- **c)** relativement à chaque police type aux fins d’exonération dont la date d’établissement est déterminée en vertu du sous-alinéa a)(i), les mentions « sous-alinéa (3)b)(i) » au sous-alinéa (4)a)(iii) et à l’alinéa (5)b) valent mention de « sous-alinéa (10)a)(i) »;
+	- **d)** relativement à chaque police type aux fins d’exonération dont la date d’établissement est déterminée en vertu du sous-alinéa a)(ii), le sous-alinéa (4)a)(iv) est réputé avoir le libellé suivant :
+
+		- **(iv)** si la date d’établissement de la police type aux fins d’exonération est déterminée en vertu du sous-alinéa (10)a)(ii) à un moment qui est antérieur à un moment donné, la partie de la somme — cette somme étant celle qui serait déterminée au moment qui précède immédiatement le moment donné en vertu du sous-alinéa a)(ii) si la police type aux fins d’exonération était établie relativement à la police à la date qui est déterminée à son égard en vertu du sous-alinéa (10)a)(ii) — qu’il est raisonnable d’attribuer à la protection dans les circonstances (une attribution étant considérée, à ces fins, ne pas être raisonnable si le total des sommes déterminées selon les éléments A et B de la formule figurant au sous-alinéa a)(iii) est inférieur à la somme déterminée selon l’élément C de cette formule relativement à la police type aux fins d’exonération dont la date d’établissement est déterminée en vertu du sous-alinéa (10)a)(i) relativement à la protection,
+
+
+	- **e)** pour l’application de l’alinéa (5)b), les mentions « à un moment donné » et « à ce moment » à cet alinéa valent mention, respectivement, de « à un moment quelconque qui correspond au moment donné visé au paragraphe (10) relativement à la police d’assurance-vie ou qui est postérieur au moment donné » et « à ce moment quelconque ».
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-415, art. 2; DORS/94-686, art. 55(F) et 56(F); 2013, ch. 40, art. 97; 2014, ch. 39, art. 81; 2017, ch. 33, art. 85.
 
 
 
@@ -2492,16 +2507,32 @@ par la compagnie.
 
 **404** 
 
-- **(1)** Malgré les paragraphes 402(3) et (4), le montant de revenu imposable qu’une banque est réputée avoir gagné au cours d’une année d’imposition dans une province où elle avait un établissement stable correspond au tiers de la somme :
-	- **a)** de la proportion de son revenu imposable pour l’année que l’ensemble des traitements et salaires versés pendant l’année par la banque aux employés de son établissement stable dans la province représente par rapport à l’ensemble des traitements et salaires versés pendant l’année par la banque; et
-	- **b)** de deux fois la proportion de son revenu imposable pour l’année que l’ensemble des prêts et dépôts de son établissement stable dans la province pour l’année représente par rapport au total des prêts et dépôts de la banque pour l’année.
+- **(1)** Malgré les paragraphes 402(3) et (4), le montant de revenu imposable qu’une banque est réputée avoir gagné au cours d’une année d’imposition dans une province où elle avait un établissement stable correspond au tiers du total des sommes suivantes :
+	- **a)** la somme qui correspond à la proportion de son revenu imposable pour l’année que le total des traitements et salaires versés pendant l’année par la banque aux employés de son établissement stable dans la province représente par rapport au total des traitements et salaires versés pendant l’année par la banque;
+	- **b)** la somme qui est le double de la somme qui correspond à la proportion de son revenu imposable pour l’année que le total des prêts et dépôts de son établissement stable dans la province pour l’année représente par rapport au total des prêts et dépôts de la banque pour l’année.
 
-- **(2)** Aux fins du paragraphe (1), le montant des prêts pour une année d’imposition est 1/12 de l’ensemble des montants impayés sur les prêts consentis par la banque, à la clôture des affaires le dernier jour de chaque mois de l’année.
+- **(2)** Aux fins du paragraphe (1), le montant des prêts pour une année d’imposition est 1/12 du total des montants impayés sur les prêts consentis par la banque, à la clôture des affaires le dernier jour de chaque mois de l’année.
 
-- **(3)** Aux fins du paragraphe (1), le montant des dépôts pour une année d’imposition est 1/12 de l’ensemble des montants en dépôt à la banque à la clôture des affaires le dernier jour de chaque mois de l’année.
+- **(3)** Aux fins du paragraphe (1), le montant des dépôts pour une année d’imposition est 1/12 du total des montants en dépôt à la banque à la clôture des affaires le dernier jour de chaque mois de l’année.
 
 - **(4)** Aux fins des paragraphes (2) et (3), les prêts et dépôts ne comprennent pas les obligations, actions, valeurs en transit et dépôts pour le compte de Sa Majesté du chef du Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 2; DORS/2009-302, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 2; DORS/2009-302, art. 3; 2017, ch. 33, art. 86.
+
+
+
+
+**404.1** 
+
+- **(1)** Malgré les paragraphes 402(3) et (4), le montant de revenu imposable qu’une coopérative de crédit fédérale est réputée avoir gagné au cours d’une année d’imposition dans une province où elle avait un établissement stable correspond au tiers du total des sommes suivantes :
+	- **a)** la somme qui correspond à la proportion de son revenu imposable pour l’année que le total des traitements et salaires versés pendant l’année par la coopérative aux employés de son établissement stable dans la province représente par rapport au total des traitements et salaires versés pendant l’année par la coopérative;
+	- **b)** la somme qui est le double de la somme qui correspond à la proportion de son revenu imposable pour l’année que le total des prêts et dépôts de son établissement stable dans la province pour l’année représente par rapport au total des prêts et dépôts de la coopérative pour l’année.
+
+- **(2)** Aux fins du paragraphe (1), le montant des prêts pour une année d’imposition est 1/12 du total des montants impayés sur les prêts consentis par la coopérative de crédit fédérale à la clôture des affaires le dernier jour de chaque mois de l’année.
+
+- **(3)** Aux fins du paragraphe (1), le montant des dépôts pour une année d’imposition est 1/12 du total des montants en dépôt à la coopérative de crédit fédérale à la clôture des affaires le dernier jour de chaque mois de l’année.
+
+- **(4)** Aux fins des paragraphes (2) et (3), les prêts et dépôts ne comprennent pas les obligations, actions, valeurs en transit et dépôts pour le compte de Sa Majesté du chef du Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2017, ch. 33, art. 87.
 
 
 
@@ -2648,10 +2679,10 @@ dans cet endroit.
 ### Entreprises divisées
 
 
-**412** Lorsqu’une partie de l’entreprise d’une société pour une année d’imposition, autre qu’une société prévue à l’article 403, 404, 405, 406, 407, 408, 409, 410 ou 411, a consisté en opérations normalement exercées par une société prévue dans un de ces articles, la société et le ministre peuvent s’entendre pour déterminer le montant du revenu imposable qui est censé avoir été gagné dans l’année dans une province particulière comme étant l’ensemble des montants calculés
-- **a)** par application des dispositions de ceux de ces articles qui auraient été applicables, si elle avait été une société qui y est prévue, à la partie de son revenu imposable pour l’année qui peut raisonnablement être considérée comme ayant découlé de cette partie de l’entreprise; et
-- **b)** par application des dispositions de l’article 402 à la portion restante de son revenu imposable de l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F).
+**412** Si une partie de l’entreprise d’une société pour une année d’imposition, autre qu’une société visée à l’un des articles 403, 404, 404.1, 405, 406, 407, 408, 409, 410 ou 411, a consisté en opérations normalement exercées par une société visée à l’un de ces articles, la société et le ministre peuvent s’entendre pour déterminer le montant du revenu imposable qui est réputé avoir été gagné dans l’année dans une province donnée comme étant le total des montants suivants :
+- **a)** d’une part, ceux déterminés en application des dispositions de ceux de ces articles qui auraient été applicables, si elle avait été une société qui y est visée, à la partie de son revenu imposable pour l’année qui peut raisonnablement être considérée comme ayant découlé de cette partie de l’entreprise;
+- **b)** d’autre part, ceux déterminés en application des dispositions de l’article 402 à la portion restante de son revenu imposable de l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2017, ch. 33, art. 88.
 
 
 
@@ -2805,10 +2836,10 @@ où :
 
 **600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
 - **a)** l’article 21 de la Loi;
-- **b)** les paragraphes 13(4), (7.4) et (29), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3), 251.2(6) et 256(9) de la Loi;
+- **b)** les paragraphes 13(4), (7.4) et (29), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 91(1.4), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3), 251.2(6) et 256(9) de la Loi;
 - **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
 - **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1; 2013, ch. 34, art. 382, ch. 40, art. 98; 2016, ch. 12, art. 76.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1; 2013, ch. 34, art. 382, ch. 40, art. 98; 2016, ch. 12, art. 76; 2017, ch. 33, art. 89.
 
 
 
@@ -2951,18 +2982,14 @@ que représente le rapport entre la quantité visée au sous-alinéa (iv) et cel
 ### Organisations et agences internationales
 
 
-**806** Aux fins de la disposition 212 (1)b)(ii)(B) de la Loi, les organisations et agences internationales indiquées ci-après sont prescrites :
-- **a)** Banque pour les règlements internationaux;
-- **b)** Fonds européen;
-- **c)** Banque internationale pour la reconstruction et le développement;
-- **d)** Association internationale pour le développement;
-- **e)** Société financière internationale; et
-- **f)** Fonds monétaire international.
+**806** Pour l’application de l’alinéa c) de la définition de intérêts entièrement exonérés au paragraphe 212(3) de la Loi, sont visées la Banque des règlements internationaux et la Banque européenne pour la reconstruction et le développement.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2017, ch. 33, art. 90.
 
 
 
-**806.1** Pour l’application du sous-alinéa 212(1)b)(x) de la Loi, la Banque des règlements internationaux et la Banque européenne pour la reconstruction et le développement sont des organisations internationales prescrites.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 4; DORS/94-188, art. 1.
+
+**806.1** [Abrogé, 2017, ch. 33, art. 90]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 4; DORS/94-188, art. 1; 2017, ch. 33, art. 90.
 
 
 
@@ -4801,36 +4828,36 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 - **(1)** Lorsque le contribuable est un particulier et que son revenu pour l’année d’imposition comprend le revenu d’une entreprise dont l’exercice ne correspond pas à l’année civile à l’égard des biens susceptibles de dépréciation acquis aux fins de gagner ou de produire le revenu de l’entreprise, la mention dans la présente partie de
 
-***l’année d’imposition*** est censée être la mention de l’exercice de l’entreprise; (*taxation year*) et
+***l’année d’imposition*** est censée être la mention de l’exercice de l’entreprise; (*taxation year*) et
 
-***la fin de l’année d’imposition*** est censée être la mention de la fin de l’exercice de l’entreprise. (*end of the taxation year*)
+***la fin de l’année d’imposition*** est censée être la mention de la fin de l’exercice de l’entreprise. (*end of the taxation year*)
 
 - **(2)** Dans la présente partie et dans l’annexe II,
 
-***achèvement*** L’achèvement d’une phase de mise en valeur déterminée d’un projet de sables bitumineux d’un contribuable s’entend du fait d’atteindre, pour la première fois, un niveau de production moyenne, attribuable à la phase de mise en valeur déterminée et mesuré sur une période de soixante jours, égal à au moins 60 % du niveau prévu de production quotidienne moyenne (déterminé à l’alinéa b) de la définition de ***phase de mise en valeur déterminée***) pour cette phase. (*completion*)
+***achèvement*** L’achèvement d’une phase de mise en valeur déterminée d’un projet de sables bitumineux d’un contribuable s’entend du fait d’atteindre, pour la première fois, un niveau de production moyenne, attribuable à la phase de mise en valeur déterminée et mesuré sur une période de soixante jours, égal à au moins 60 % du niveau prévu de production quotidienne moyenne (déterminé à l’alinéa b) de la définition de phase de mise en valeur déterminée) pour cette phase; (*completion*)
 
-***bâtiment de liquéfaction admissible*** Quant à une installation de liquéfaction admissible d’un contribuable, bien du contribuable (autre qu’un bien qui a été utilisé ou acquis pour utilisation à quelque fin que ce soit avant son acquisition par le contribuable ou un bâtiment résidentiel) acquis après le 19 février 2015 et avant 2025 par celui-ci, compris dans la catégorie 1 de l’annexe II par l’effet de son alinéa q) et utilisé à titre de partie de l’installation. (*eligible liquefaction building*)
+***bâtiment de liquéfaction admissible*** Quant à une installation de liquéfaction admissible d’un contribuable, bien du contribuable (autre qu’un bien qui a été utilisé ou acquis pour utilisation à quelque fin que ce soit avant son acquisition par le contribuable ou un bâtiment résidentiel) acquis après le 19 février 2015 et avant 2025 par celui-ci, compris dans la catégorie 1 de l’annexe II par l’effet de son alinéa q) et utilisé à titre de partie de l’installation; (*eligible liquefaction building*)
 
-***bâtiment non résidentiel admissible*** Bâtiment d’un contribuable, sauf celui qu’une personne ou une société de personnes a utilisé, ou a acquis en vue de son utilisation, avant le 19 mars 2007, qui, à la fois, est situé au Canada, est compris dans la catégorie 1 de l’annexe II et est acquis par le contribuable après le 18 mars 2007 en vue d’être utilisé par lui, ou par son preneur, à des fins non résidentielles. (*eligible non-residential building*)
+***bâtiment non résidentiel admissible*** Bâtiment d’un contribuable, sauf celui qu’une personne ou une société de personnes a utilisé, ou a acquis en vue de son utilisation, avant le 19 mars 2007, qui, à la fois, est situé au Canada, est compris dans la catégorie 1 de l’annexe II et est acquis par le contribuable après le 18 mars 2007 en vue d’être utilisé par lui, ou par son preneur, à des fins non résidentielles; (*eligible non-residential building*)
 
-***bien admissible à l’aménagement d’une mine*** Bien acquis par un contribuable après le 20 mars 2013 et avant 2018 dans le but de tirer un revenu :
+***bien admissible à l’aménagement d’une mine*** Bien acquis par un contribuable après le 20 mars 2013 et avant 2018 dans le but de tirer un revenu :
 - **a)** soit d’une nouvelle mine ou de l’agrandissement d’une mine, si le bien a été acquis aux termes d’une convention écrite conclue par le contribuable avant le 21 mars 2013;
 - **b)** soit d’une nouvelle mine si, selon le cas :
 	- **(i)** les travaux de construction de la nouvelle mine ont été entrepris par le contribuable, ou pour son compte, avant le 21 mars 2013 (à cette fin, ne sont pas des travaux de construction l’obtention des permis ou des autorisations réglementaires, les évaluations environnementales, la consultation des collectivités, les études sur les répercussions et les avantages et les activités semblables),
 	- **(ii)** les travaux de conception et d’ingénierie pour la construction de la nouvelle mine, documents à l’appui, ont été entrepris par le contribuable, ou pour son compte, avant le 21 mars 2013 (à cette fin, ne sont pas des travaux de conception et d’ingénierie l’obtention des permis ou des autorisations réglementaires, les évaluations environnementales, la consultation des collectivités, les études sur les répercussions et les avantages et les activités semblables);
 - **c)** soit de l’agrandissement d’une mine si, selon le cas :
 	- **(i)** les travaux de construction pour l’agrandissement de la mine ont été entrepris par le contribuable, ou pour son compte, avant le 21 mars 2013 (à cette fin, ne sont pas des travaux de construction l’obtention des permis ou des autorisations réglementaires, les évaluations environnementales, la consultation des collectivités, les études sur les répercussions et les avantages et les activités semblables),
-	- **(ii)** les travaux de conception et d’ingénierie pour la construction de l’agrandissement de la mine, documents à l’appui, ont été entrepris par le contribuable, ou pour son compte, avant le 21 mars 2013 (à cette fin, ne sont pas des travaux de conception et d’ingénierie l’obtention des permis ou des autorisations réglementaires, les évaluations environnementales, la consultation des collectivités, les études sur les répercussions et les avantages et les activités semblables). (*eligible mine development property*)
+	- **(ii)** les travaux de conception et d’ingénierie pour la construction de l’agrandissement de la mine, documents à l’appui, ont été entrepris par le contribuable, ou pour son compte, avant le 21 mars 2013 (à cette fin, ne sont pas des travaux de conception et d’ingénierie l’obtention des permis ou des autorisations réglementaires, les évaluations environnementales, la consultation des collectivités, les études sur les répercussions et les avantages et les activités semblables); (*eligible mine development property*)
 
-***bien de sables bitumineux*** Bien qu’un contribuable a acquis dans le but de tirer un revenu de son projet de sables bitumineux. (*oil sands property*)
+***bien de sables bitumineux*** Bien qu’un contribuable a acquis dans le but de tirer un revenu de son projet de sables bitumineux; (*oil sands property*)
 
-***bien de sables bitumineux déterminé*** Bien de sables bitumineux acquis par un contribuable avant 2012 et à l’égard duquel l’un des énoncés ci-après se vérifie :
+***bien de sables bitumineux déterminé*** Bien de sables bitumineux acquis par un contribuable avant 2012 et à l’égard duquel l’un des énoncés ci-après se vérifie :
 - **a)** son utilisation est vraisemblablement nécessaire à l’achèvement d’une phase de mise en valeur déterminée d’un projet de sables bitumineux du contribuable;
 - **b)** son utilisation est vraisemblablement nécessaire dans le cadre d’une phase de mise en valeur du bitume d’un projet de sables bitumineux du contribuable :
 	- **(i)** dans la mesure où la production provenant de la phase de mise en valeur du bitume est nécessaire à l’achèvement d’une phase de valorisation qui est une phase de mise en valeur déterminée du projet de sables bitumineux, et il est raisonnable de conclure que la totalité ou la presque totalité de la production attribuable à la phase de mise en valeur du bitume sera ainsi utilisée,
-	- **(ii)** où le contribuable avait l’intention manifeste, au 19 mars 2007, de produire, à partir d’une ressource minérale dont il est propriétaire, le bitume d’alimentation nécessaire à l’achèvement de la phase de valorisation. (*specified oil sands property*)
+	- **(ii)** où le contribuable avait l’intention manifeste, au 19 mars 2007, de produire, à partir d’une ressource minérale dont il est propriétaire, le bitume d’alimentation nécessaire à l’achèvement de la phase de valorisation; (*specified oil sands property*)
 
-***bien désigné*** En ce qui concerne une phase de mise en valeur du projet de sables bitumineux d’un contribuable, bien — bâtiment, construction, machine ou matériel — qui est l’un des biens ci-après ou qui en est une partie intégrante et importante :
+***bien désigné*** En ce qui concerne une phase de mise en valeur du projet de sables bitumineux d’un contribuable, bien — bâtiment, construction, machine ou matériel — qui est l’un des biens ci-après ou qui en est une partie intégrante et importante :
 - **a)** s’agissant d’une phase de mise en valeur du bitume :
 	- **(i)** concasseur,
 	- **(ii)** installation de traitement des mousses,
@@ -4844,32 +4871,32 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 	- **(iii)** unité d’hydrocraquage,
 	- **(iv)** unité d’hydrotraitement,
 	- **(v)** unité d’hydroraffinage,
-	- **(vi)** cokeur. (*designated asset*)
+	- **(vi)** cokeur; (*designated asset*)
 
-***coût désigné d’enlèvement des terrains de couverture*** d’un contribuable signifie tout frais qu’il a engagé pour le déblaiement ou l’enlèvement des terrains de couverture d’une concession minière au Canada lui appartenant ou qu’il exploite, lorsque les frais
+***coût désigné d’enlèvement des terrains de couverture*** d’un contribuable signifie tout frais qu’il a engagé pour le déblaiement ou l’enlèvement des terrains de couverture d’une concession minière au Canada lui appartenant ou qu’il exploite, lorsque les frais
 - **a)** ont été engagés après le 16 novembre 1978 et avant 1988,
 - **b)** ont été engagés après que la production de la mine à atteint une quantité commerciale raisonnable,
 - **c)** à la fin de l’année d’imposition au cours de laquelle les frais ont été engagés, n’ont pas été déduits par le contribuable lors du calcul de son revenu, et
-- **d)** ne peuvent être déduits, en tout ou en partie, par le contribuable lors du calcul de son revenu pour une année d’imposition postérieure à l’année d’imposition au cours de laquelle les frais ont été engagés, autrement qu’en vertu de l’alinéa 20(1)a) de la Loi; (*designated overburden removal cost*)
+- **d)** ne peuvent être déduits, en tout ou en partie, par le contribuable lors du calcul de son revenu pour une année d’imposition postérieure à l’année d’imposition au cours de laquelle les frais ont été engagés, autrement qu’en vertu de l’alinéa 20(1)a) de la Loi; (*designated overburden removal cost*)
 
-***coût désigné de stockage souterrain*** d’un contribuable désigne tous frais qu’il a engagés après le 11 décembre 1979 pour l’aménagement d’un puits, d’une mine ou d’un autre bien souterrain semblable en vue du stockage au Canada de pétrole, de gaz naturel ou d’autres hydrocarbures connexes; (*designated underground storage cost*)
+***coût désigné de stockage souterrain*** d’un contribuable désigne tous frais qu’il a engagés après le 11 décembre 1979 pour l’aménagement d’un puits, d’une mine ou d’un autre bien souterrain semblable en vue du stockage au Canada de pétrole, de gaz naturel ou d’autres hydrocarbures connexes; (*designated underground storage cost*)
 
-***installation de liquéfaction admissible*** Est une installation de liquéfaction admissible d’un contribuable le système autonome situé au Canada — y compris bâtiments, constructions et matériel — qui est utilisé par le contribuable, ou que celui-ci a l’intention d’utiliser, aux fins de la liquéfaction de gaz naturel. (*eligible liquefaction facility*)
+***installation de liquéfaction admissible*** Est une installation de liquéfaction admissible d’un contribuable le système autonome situé au Canada — y compris bâtiments, constructions et matériel — qui est utilisé par le contribuable, ou que celui-ci a l’intention d’utiliser, aux fins de la liquéfaction de gaz naturel; (*eligible liquefaction facility*)
 
-***logiciel*** Sont compris parmi les logiciels les logiciels d’exploitation et tout droit ou toute licence permettant l’utilisation d’un logiciel. (*computer software*)
+***logiciel*** Sont compris parmi les logiciels les logiciels d’exploitation et tout droit ou toute licence permettant l’utilisation d’un logiciel; (*computer software*)
 
 ***logiciel de systèmes***[Abrogée, DORS/2010-93, art. 14(F)]
 
-***logiciel d’exploitation*** Ensemble de programmes d’informatique et de procédures connexes, de documents et de données techniques connexes qui, selon le cas :
+***logiciel d’exploitation*** Ensemble de programmes d’informatique et de procédures connexes, de documents et de données techniques connexes qui, selon le cas :
 - **a)** assure la compilation, l’assemblage, le relevé, la gestion ou le traitement d’autres programmes;
 - **b)** facilite le fonctionnement d’un système d’équipement électronique par d’autres programmes;
 - **c)** assure des services ou des fonctions de service comme la conversion de support, le tri, la fusion, la comptabilité du système, la mesure des performances, le diagnostic du système ou les soutiens de programmation;
 - **d)** assure des fonctions générales de soutien comme la gestion des données, la production d’états ou le contrôle de la sécurité;
 - **e)** donne la possibilité générale de résoudre ou de traiter des catégories importantes de problèmes lorsque les attributs particuliers du travail à exécuter sont présentés principalement sous la forme de paramètres, de constantes ou de descripteurs plutôt que dans la logique du programme.
 
-Est compris dans la présente définition tout droit ou toute licence permettant l’utilisation d’un tel ensemble de programmes d’informatique et de procédures connexes, de documents et de données techniques connexes. (*systems software*)
+Est compris dans la présente définition tout droit ou toute licence permettant l’utilisation d’un tel ensemble de programmes d’informatique et de procédures connexes, de documents et de données techniques connexes; (*systems software*)
 
-***long métrage portant visa*** désigne un film cinématographique portant le visa du ministre des Communications garantissant qu’il s’agit d’un film d’une durée d’au moins 75 minutes pour la production duquel les travaux de décoration ou de prise de vue et de montage ont commencé après le 18 novembre 1974 et, soit que le film a été terminé avant le 26 mai 1976 ou que les travaux de décoration ou de prise de vue ont commencé avant le 26 mai 1976 et que le ministre des Communications garantit être
+***long métrage portant visa*** désigne un film cinématographique portant le visa du ministre des Communications garantissant qu’il s’agit d’un film d’une durée d’au moins 75 minutes pour la production duquel les travaux de décoration ou de prise de vue et de montage ont commencé après le 18 novembre 1974 et, soit que le film a été terminé avant le 26 mai 1976 ou que les travaux de décoration ou de prise de vue ont commencé avant le 26 mai 1976 et que le ministre des Communications garantit être
 - **a)** dont la production est prévue par un accord de coproduction conclu entre le Canada et un autre pays, ou
 - **b)** pour lequel
 	- **(i)** la personne qui a joué le rôle de producteur est un Canadien,
@@ -4878,80 +4905,80 @@ Est compris dans la présente définition tout droit ou toute licence permettant
 		- **(B)** qui ont touché ou ont eu droit aux deux cachets les plus élevés pour leurs services d’acteur ou d’actrice dans le film,sont canadiennes,
 	- **(iii)** au moins 75 pour cent du montant global des rémunérations payées ou payables aux personnes qui ont fourni leurs services dans le cadre du film (abstraction faite des cachets payés ou payables pour le compte des personnes susmentionnées aux sous-alinéas (i) et (ii) ou pour le traitement et l’arrangement final du film) l’ont été ou le sont à des Canadiens,
 	- **(iv)** au moins 75 pour cent du total des frais (sauf les frais calculés en fonction du revenu découlant du film ou de la bande) engagés pour le traitement et la finition du film ou de la bande, notamment les travaux de laboratoire, de réenregistrement et de montage du son et de l’image (abstraction faite de la rémunération payée ou payable à des particuliers visés aux sous-alinéas (i) ou (ii) ou pour leur compte) a été engagé relativement à des services rendus au Canada,
-	- **(v)** les droits d’auteur protégeant l’utilisation du film au Canada sont la propriété effective, selon le cas :
+	- **(v)** les droits d’auteur protégeant l’utilisation du film au Canada sont la propriété effective, selon le cas :
 		- **(A)** d’un Canadien ou d’une société constituée sous le régime d’une loi provinciale ou fédérale,
 		- **(B)** de plusieurs des personnes visées à la division (A), conjointement ou autrement,
 
 autre qu’un film
-- **c)** acquis après la première des deux dates suivantes :
+- **c)** acquis après la première des deux dates suivantes :
 	- **(i)** le premier jour de son utilisation à des fins commerciales, et
 	- **(ii)** 12 mois après que les travaux principaux de prise de vue du film sont terminés, ou
-- **d)** pour lequel le ministre des Communications a annulé en vertu de l’alinéa (10)b) le visa prévu dans la présente définition; (*certified feature film*)
+- **d)** pour lequel le ministre des Communications a annulé en vertu de l’alinéa (10)b) le visa prévu dans la présente définition; (*certified feature film*)
 
-***matériel de liquéfaction admissible*** Quant à une installation de liquéfaction admissible d’un contribuable, bien du contribuable utilisé dans le cadre de la liquéfaction de gaz naturel et à l’égard duquel les énoncés ci-après se vérifient :
+***matériel de liquéfaction admissible*** Quant à une installation de liquéfaction admissible d’un contribuable, bien du contribuable utilisé dans le cadre de la liquéfaction de gaz naturel et à l’égard duquel les énoncés ci-après se vérifient :
 - **a)** il est acquis par le contribuable après le 19 février 2015 et avant 2025;
 - **b)** il est compris dans la catégorie 47 de l’annexe II par l’effet de son alinéa b);
 - **c)** avant son acquisition par le contribuable, il n’a pas été utilisé ni acquis pour être utilisé à quelque fin que ce soit;
 - **d)** il n’est pas du matériel non admissible;
-- **e)** il est utilisé à titre de partie de l’installation de liquéfaction admissible. (*eligible liquefaction equipment*)
+- **e)** il est utilisé à titre de partie de l’installation de liquéfaction admissible; (*eligible liquefaction equipment*)
 
-***matériel de puits de gaz ou de pétrole*** comprend
+***matériel de puits de gaz ou de pétrole*** comprend
 - **a)** le matériel, les structures et les pipe-lines, autres qu’un cuvelage de puits, acquis pour fins d’utilisation dans un gisement de gaz ou de pétrole en vue de la production de gaz naturel ou de pétrole brut, et
 - **b)** un pipe-line acquis pour servir uniquement à la transmission du gaz à une usine de traitement du gaz naturel,
 
 mais ne comprend pas
 - **c)** le matériel ou les structures acquis aux fins du raffinage du pétrole ou du traitement du gaz naturel, y compris l’enlèvement des hydrocarbures liquides, du soufre ou d’autres produits connexes ou sous-produits, ni
-- **d)** un pipe-line destiné au transport ou à la collecte en vue du transport immédiat du gaz naturel ou du pétrole brut d’un gisement de gaz ou de pétrole, sauf un pipe-line mentionné à l’alinéa b); (*gas or oil well equipment*)
+- **d)** un pipe-line destiné au transport ou à la collecte en vue du transport immédiat du gaz naturel ou du pétrole brut d’un gisement de gaz ou de pétrole, sauf un pipe-line mentionné à l’alinéa b); (*gas or oil well equipment*)
 
-***matériel d’infrastructure pour réseaux de données*** Matériel d’infrastructure de réseau qui contrôle, transfère, module ou dirige des données et qui sert de soutien à des applications de télécommunications, comme le courrier électronique, la messagerie instantanée, les fonctions audio et vidéo reposant sur le protocole Internet et la navigation, la recherche et l’hébergement sur le Web. En font partie les interrupteurs, les multiplexeurs, les routeurs, les serveurs d’accès à distance, les concentrateurs, les serveurs de noms de domaine et les modems. En sont toutefois exclus :
+***matériel d’infrastructure pour réseaux de données*** Matériel d’infrastructure de réseau qui contrôle, transfère, module ou dirige des données et qui sert de soutien à des applications de télécommunications, comme le courrier électronique, la messagerie instantanée, les fonctions audio et vidéo reposant sur le protocole Internet et la navigation, la recherche et l’hébergement sur le Web. En font partie les interrupteurs, les multiplexeurs, les routeurs, les serveurs d’accès à distance, les concentrateurs, les serveurs de noms de domaine et les modems. En sont toutefois exclus :
 - **a)** le matériel de réseau (sauf le matériel de réseau radioélectrique) qui sert de soutien à des applications de télécommunications, si la largeur de bande mise à la disposition d’un seul utilisateur final du réseau est de 64 kilobits par seconde ou moins dans l’une ou l’autre direction;
 - **b)** le matériel de réseau radioélectrique qui sert de soutien à des applications de télécommunications sans fil, sauf s’il permet la transmission numérique sur une bande d’ondes;
 - **c)** le matériel de réseau unidirectionnel qui sert de soutien à des applications de télécommunications de diffusion;
 - **d)** le matériel de réseau qui consiste en matériel d’utilisateur final, y compris les appareils téléphoniques, les assistants numériques personnels et les télécopieurs;
 - **e)** le matériel visé aux alinéas f.2) ou v) de la catégorie 10 de l’annexe II ou compris dans l’une des catégories 45, 50 et 52 de cette annexe;
 - **f)** les fils, câbles et biens semblables;
-- **g)** les constructions. (*data network infrastructure equipment*)
+- **g)** les constructions; (*data network infrastructure equipment*)
 
-***matériel électronique universel de traitement de l’information*** désigne le matériel électronique qui, dans son fonctionnement, exige un programme d’informatique enregistré qui
+***matériel électronique universel de traitement de l’information*** désigne le matériel électronique qui, dans son fonctionnement, exige un programme d’informatique enregistré qui
 - **a)** est exécuté par le matériel,
 - **b)** peut être modifié par l’utilisateur du matériel,
 - **c)** dirige le matériel pour la lecture et la sélection, la modification ou l’enregistrement des données à partir d’un support d’information externe comme une carte, un disque ou un ruban, et
-- **d)** dépend des caractéristiques des données traitées pour déterminer l’ordre de son exécution; (*general-purpose electronic data processing equipment*)
+- **d)** dépend des caractéristiques des données traitées pour déterminer l’ordre de son exécution; (*general-purpose electronic data processing equipment*)
 
-***matériel non admissible*** S’entend des biens suivants :
+***matériel non admissible*** S’entend des biens suivants :
 - **a)** les pipelines, sauf ceux servant à transporter, dans l’installation de liquéfaction admissible pendant le procédé de liquéfaction, le gaz naturel ou les composants qui en sont extraits ou à transporter du gaz naturel liquéfié;
 - **b)** le matériel servant exclusivement à la regazéification de gaz naturel liquéfié;
-- **c)** le matériel générateur d’électricité. (*excluded equipment*)
+- **c)** le matériel générateur d’électricité; (*excluded equipment*)
 
 ***message commercial de télévision***[Abrogée, DORS/95-244, art. 2(F)]
 
-***message publicitaire pour la télévision*** S’entend d’un message publicitaire au sens du [Règlement de 1987 sur la télédiffusion](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/87/49.md) pris en vertu de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md). (*television commercial message*)
+***message publicitaire pour la télévision*** S’entend d’un message publicitaire au sens du [Règlement de 1987 sur la télédiffusion](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/87/49.md) pris en vertu de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md); (*television commercial message*)
 
-***minerai*** comprend tout minerai provenant de ressources minérales, traité jusqu’au stade du métal primaire ou son équivalent; (*ore*)
+***minerai*** comprend tout minerai provenant de ressources minérales, traité jusqu’au stade du métal primaire ou son équivalent; (*ore*)
 
-***minerai de sables asphaltiques*** Minerai extrait d’un gisement de sables bitumineux ou de schistes pétrolifères. (*tar sands ore*)
+***minerai de sables asphaltiques*** Minerai extrait d’un gisement de sables bitumineux ou de schistes pétrolifères; (*tar sands ore*)
 
-***phase de mise en valeur*** En ce qui concerne un projet de sables bitumineux d’un contribuable, l’acquisition, la construction, la fabrication ou l’installation d’un groupe de biens, par le contribuable ou pour son compte, qu’il est raisonnable de considérer comme constituant un élargissement distinct de la capacité du projet au moment de l’achèvement (étant entendu que le lancement d’un nouveau projet de sables bitumineux constitue un tel élargissement). (*development phase*)
+***phase de mise en valeur*** En ce qui concerne un projet de sables bitumineux d’un contribuable, l’acquisition, la construction, la fabrication ou l’installation d’un groupe de biens, par le contribuable ou pour son compte, qu’il est raisonnable de considérer comme constituant un élargissement distinct de la capacité du projet au moment de l’achèvement (étant entendu que le lancement d’un nouveau projet de sables bitumineux constitue un tel élargissement); (*development phase*)
 
-***phase de mise en valeur déterminée*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur du bitume ou phase de valorisation du projet dont il est raisonnable de s’attendre à ce qu’elle donne lieu à un niveau prévu de production quotidienne moyenne (où cette production consiste, dans le cas d’une phase de mise en valeur du bitume, en bitume ou en un produit semblable ou, dans le cas d’une phase de valorisation, en pétrole brut synthétique ou en un produit semblable), si les conditions ci-après sont remplies à l’égard de la phase : 
-- **a) ** s’il est fait abstraction de tous travaux préliminaires, un ou plusieurs biens désignés, selon le cas :
+***phase de mise en valeur déterminée*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur du bitume ou phase de valorisation du projet dont il est raisonnable de s’attendre à ce qu’elle donne lieu à un niveau prévu de production quotidienne moyenne (où cette production consiste, dans le cas d’une phase de mise en valeur du bitume, en bitume ou en un produit semblable ou, dans le cas d’une phase de valorisation, en pétrole brut synthétique ou en un produit semblable), si les conditions ci-après sont remplies à l’égard de la phase :
+- **a)** s’il est fait abstraction de tous travaux préliminaires, un ou plusieurs biens désignés, selon le cas :
 	- **(i)** ont été acquis par le contribuable avant le 19 mars 2007,
 	- **(ii)** étaient, avant cette date, en voie de construction, de fabrication ou d’installation par le contribuable ou pour son compte;
-- **b) ** le niveau prévu de production quotidienne moyenne correspond au moins élevé des niveaux suivants :
+- **b)** le niveau prévu de production quotidienne moyenne correspond au moins élevé des niveaux suivants :
 	- **(i)** le niveau correspondant à l’intention manifeste du contribuable, au 19 mars 2007, d’obtenir une production attribuable à la phase de mise en valeur déterminée,
-	- **(ii)** le niveau maximal de production associé à la capacité théorique, au 19 mars 2007, des biens désignés visés à l’alinéa a). (*specified development phase*)
+	- **(ii)** le niveau maximal de production associé à la capacité théorique, au 19 mars 2007, des biens désignés visés à l’alinéa a); (*specified development phase*)
 
-***phase de mise en valeur du bitume*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur qui consiste à élargir la capacité du projet à extraire des sables asphaltiques et à en effectuer le traitement primaire en vue de produire du bitume ou un produit semblable. (*bitumen development phase*) 
+***phase de mise en valeur du bitume*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur qui consiste à élargir la capacité du projet à extraire des sables asphaltiques et à en effectuer le traitement primaire en vue de produire du bitume ou un produit semblable; (*bitumen development phase*) 
 
-***phase de valorisation*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur qui consiste à élargir la capacité du projet à traiter le bitume ou une charge d’alimentation semblable (dont la totalité ou la presque totalité provient d’une ressource minérale dont le contribuable est propriétaire) jusqu’au stade du pétrole brut ou son équivalent. (*upgrading development phase*) 
+***phase de valorisation*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur qui consiste à élargir la capacité du projet à traiter le bitume ou une charge d’alimentation semblable (dont la totalité ou la presque totalité provient d’une ressource minérale dont le contribuable est propriétaire) jusqu’au stade du pétrole brut ou son équivalent; (*upgrading development phase*)
 
 ***production court métrage portant visa***[Abrogée, DORS/86-254, art. 2]
 
-***production portant visa*** pour une année d’imposition donnée, s’entend d’un film cinématographique ou d’une bande magnétoscopique qui porte le visa du ministre des Communications attestant qu’il s’agit d’un film ou d’une bande pour lesquels, d’une part, tous les travaux de décoration ou de prise de vue ou d’enregistrement que nécessite la production ainsi que tous les travaux de montage ont commencé après le 25 mai 1976 et, d’autre part, les principaux travaux de prise de vue ou d’enregistrement ont commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année et attestant que le film ou la bande est :
+***production portant visa*** pour une année d’imposition donnée, s’entend d’un film cinématographique ou d’une bande magnétoscopique qui porte le visa du ministre des Communications attestant qu’il s’agit d’un film ou d’une bande pour lesquels, d’une part, tous les travaux de décoration ou de prise de vue ou d’enregistrement que nécessite la production ainsi que tous les travaux de montage ont commencé après le 25 mai 1976 et, d’autre part, les principaux travaux de prise de vue ou d’enregistrement ont commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année et attestant que le film ou la bande est :
 - **a)** un film ou une bande dont la production est prévue par un accord de coproduction conclu entre le Canada et un autre pays, ou
 - **b)** un film ou une bande pour lesquels
 	- **(i)** la personne qui a joué le rôle de producteur est un Canadien,
-	- **(ii)** le ministre des Communications a accordé un total d’au moins six unités de production, dont au moins deux selon la disposition (A) ou (B) et au moins une selon la disposition (C) ou (D), aux particuliers qui ont rempli un rôle dans la production du film ou de la bande, réparties de la façon suivante :
+	- **(ii)** le ministre des Communications a accordé un total d’au moins six unités de production, dont au moins deux selon la disposition (A) ou (B) et au moins une selon la disposition (C) ou (D), aux particuliers qui ont rempli un rôle dans la production du film ou de la bande, réparties de la façon suivante :
 		- **(A)** au directeur, deux unités de production,
 		- **(B)** au scénariste, deux unités de production,
 		- **(C)** à l’acteur ou à l’actrice qui a touché ou touchera la rémunération la plus élevée pour services rendus pour le film ou la bande (sauf si, de l’avis du ministre des Communications, le particulier n’a pas rempli un rôle majeur dans le film ou la bande), une unité de production,
@@ -4964,7 +4991,7 @@ mais ne comprend pas
 	- **(iv)** au moins 75 pour cent du total des frais (sauf les frais calculés en fonction du revenu découlant du film ou de la bande) engagés pour le traitement et la finition du film ou de la bande, notamment les travaux de laboratoire, de réenregistrement et de montage du son et de l’image (abstraction faite de la rémunération payée ou payable à des particuliers visés au sous-alinéa (i), (ii) ou (iii) ou pour leur compte) a été engagé relativement à des services rendus au Canada,
 
 autre qu’un film ou une bande
-- **c)** acquis après la première des deux dates suivantes :
+- **c)** acquis après la première des deux dates suivantes :
 	- **(i)** le premier jour de son utilisation à des fins commerciales, et
 	- **(ii)** 12 mois après que les travaux principaux de prise de vue ou d’enregistrement sont terminés,
 - **d)** acquis par un contribuable qui n’a pas, à la fin de l’année d’imposition donnée, versé à la personne auprès de laquelle il s’est procuré le film ou la bande une somme en espèces correspondant à au moins 5 % du coût en capital du film ou de la bande pour le contribuable à la fin de l’année,
@@ -4972,40 +4999,40 @@ autre qu’un film ou une bande
 - **f)** acquis d’un non-résident, ou
 - **g)** pour lesquels le ministre des Communications a annulé, en vertu de l’alinéa (10)b), le visa prévu dans la présente définition;
 
-et pour l’application de la présente définition :
+et pour l’application de la présente définition :
 - **h)** le passage « commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année » est remplacé par le passage « commencé avant la fin de 1987 ou ont été terminés avant juillet 1988 » en ce qui concerne un film ou une bande acquis en 1987, à l’exception d’un film ou d’une bande auquel s’applique l’alinéa i);
-- **i)** le passage « commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année » est remplacé par le passage « été terminés avant 1989 » en ce qui concerne un film ou une bande acquis en 1987 ou 1988 qui est visé à l’alinéa n) de la catégorie 12 de l’annexe II et qui fait partie d’une série constituée de films ou de bandes qui comprend un autre bien visé à cet alinéa; (*certified production*)
+- **i)** le passage « commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année » est remplacé par le passage « été terminés avant 1989 » en ce qui concerne un film ou une bande acquis en 1987 ou 1988 qui est visé à l’alinéa n) de la catégorie 12 de l’annexe II et qui fait partie d’une série constituée de films ou de bandes qui comprend un autre bien visé à cet alinéa; (*certified production*)
 
-***projet de sables bitumineux*** Tout projet qu’un contribuable entreprend en vue de l’extraction de sables asphaltiques d’une ressource minérale dont il est propriétaire, lequel projet peut comprendre le traitement des sables asphaltiques jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent. (*oil sands project*) 
+***projet de sables bitumineux*** Tout projet qu’un contribuable entreprend en vue de l’extraction de sables asphaltiques d’une ressource minérale dont il est propriétaire, lequel projet peut comprendre le traitement des sables asphaltiques jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent; (*oil sands project*) 
 
-***réseau de chemin de fer*** comprend un chemin de fer appartenant à un voiturier public ou exploité par lui, avec tous les bâtiments, le matériel roulant, le matériel et les autres biens s’y rapportant, mais ne comprend pas un tramway; (*railway system*)
+***réseau de chemin de fer*** comprend un chemin de fer appartenant à un voiturier public ou exploité par lui, avec tous les bâtiments, le matériel roulant, le matériel et les autres biens s’y rapportant, mais ne comprend pas un tramway; (*railway system*)
 
-***réseau de télégraphe*** comprend les bâtiments, structures, l’installation générale et le matériel de transmission et autre s’y rapportant; (*telegraph system*)
+***réseau de télégraphe*** comprend les bâtiments, structures, l’installation générale et le matériel de transmission et autre s’y rapportant; (*telegraph system*)
 
-***réseau de téléphone*** comprend les bâtiments, structures, l’installation générale et le matériel de transmission et autre s’y rapportant; (*telephone system*)
+***réseau de téléphone*** comprend les bâtiments, structures, l’installation générale et le matériel de transmission et autre s’y rapportant; (*telephone system*)
 
-***réseau de tramway ou d’autobus à trolley*** comprend les bâtiments, structures, le matériel roulant, l’installation générale et le matériel s’y rapportant et, lorsque des autobus autres qu’à trolley sont exploités relativement audit réseau comprend les biens qui se rapportent à cette exploitation. (*tramway or trolley bus system*)
+***réseau de tramway ou d’autobus à trolley*** comprend les bâtiments, structures, le matériel roulant, l’installation générale et le matériel s’y rapportant et, lorsque des autobus autres qu’à trolley sont exploités relativement audit réseau comprend les biens qui se rapportent à cette exploitation; (*tramway or trolley bus system*)
 
 ***route d’accès temporaire déterminée***
 - **a)** Route d’accès temporaire à un puits de pétrole ou de gaz au Canada;
-- **b)** route d’accès temporaire dont le coût représenterait des frais d’exploration au Canada par l’effet des alinéas f) ou g) de la définition de ***frais d’exploration au Canada*** au paragraphe 66.1(6) de la Loi s’il était fait abstraction des alinéas k.1) et l) de cette définition. (*specified temporary access road*)
+- **b)** route d’accès temporaire dont le coût représenterait des frais d’exploration au Canada par l’effet des alinéas f) ou g) de la définition de frais d’exploration au Canada au paragraphe 66.1(6) de la Loi s’il était fait abstraction des alinéas k.1) et l) de cette définition; (*specified temporary access road*)
 
-***travaux préliminaires*** Toute activité préalable à l’acquisition, à la construction, à la fabrication ou à l’installation, par un contribuable ou pour son compte, de biens désignés relativement au projet de sables bitumineux du contribuable, notamment : 
+***travaux préliminaires*** Toute activité préalable à l’acquisition, à la construction, à la fabrication ou à l’installation, par un contribuable ou pour son compte, de biens désignés relativement au projet de sables bitumineux du contribuable, notamment : 
 - **a)** l’obtention des permis ou des autorisations réglementaires;
 - **b)** les travaux de conception ou d’ingénierie;
 - **c)** les études de faisabilité;
 - **d)** les évaluations environnementales;
 - **e)** le nettoyage ou l’excavation des terrains;
 - **f)** la construction de routes;
-- **g)** la passation de contrats. (*preliminary work activity*)
+- **g)** la passation de contrats. (*preliminary work activity*)
 
 - **(3)** Sauf dispositions contraires du paragraphe (6), dans la présente partie et dans les annexes II et V,
 
-***exploitation minière*** comprend l’extraction de tourbe; (*mining*)
+***exploitation minière*** comprend l’extraction de tourbe; (*mining*)
 
-***minéral*** comprend la tourbe; (*mineral*)
+***minéral*** comprend la tourbe; (*mineral*)
 
-***mine de minéral industriel*** comprend une tourbière ou un gisement de tourbe mais ne comprend pas une ressource minérale. (*industrial mineral mine*)
+***mine de minéral industriel*** comprend une tourbière ou un gisement de tourbe mais ne comprend pas une ressource minérale. (*industrial mineral mine*)
 
 - **(4)** [Abrogé, DORS/79-670, art. 3]
 
@@ -5013,25 +5040,25 @@ et pour l’application de la présente définition :
 
 
 - **(5)** Pour l’application des alinéas 1100(1)w) à ya.2), des paragraphes 1101(4a) à (4h) et des catégories 10, 28 et 41 à 41.2 de l’annexe II, le revenu qu’un contribuable tire d’une mine comprend le revenu qu’il est raisonnable d’imputer :
-	- **a)** au traitement par le contribuable des substances suivantes :
+	- **a)** au traitement par le contribuable des substances suivantes :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré en totalité ou en presque totalité d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré en totalité ou en presque totalité d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
 		- **(iii)** le minerai de sables asphaltiques tiré en totalité ou en presque totalité d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent,
 		- **(iv)** les matières extraites au moyen d’un puits et tirées en totalité ou en presque totalité d’un gisement de sables bitumineux ou de schistes pétrolifères appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent;
 	- **b)** à la production par le contribuable de matières tirées d’un gisement de sables bitumineux ou de schistes pétrolifères;
-	- **c)** au transport par le contribuable :
+	- **c)** au transport par le contribuable :
 		- **(i)** de la production, à l’exception de celle du minerai de fer ou du minerai de sables asphaltiques, tirée d’une ressource minérale appartenant au contribuable et qui a été traitée par lui jusqu’à un stade qui ne dépasse pas le stade du métal primaire ou son équivalent,
 		- **(ii)** du minerai de fer tiré d’une ressource minérale appartenant au contribuable et qui a été traité par lui jusqu’à un stade qi ne dépasse pas le stade de la boulette ou son équivalent, ou
 		- **(iii)** du minerai de sables asphaltiques tiré d’une ressource minérale appartenant au contribuable et qui a été traité par lui jusqu’à un stade qui ne dépasse pas le stade du pétrole brut ou son équivalent,
 dans la mesure où ce transport se fait en employant les biens du contribuable qui sont compris dans la catégorie 10 de l’annexe II par l’effet de l’alinéa m) ou qui le seraient en l’absence du sous-alinéa (v) de cet alinéa et du renvoi à ce même alinéa dans la catégorie 41 de l’annexe II.
 
 - **(5.1)** Pour l’application des catégories 41 à 41.2 de l’annexe II, font partie des revenus bruts d’un contribuable tirés d’une mine :
-	- **a)** les revenus qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes :
+	- **a)** les revenus qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
 		- **(iii)** le minerai de sables asphaltiques tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent,
 		- **(iv)** les matières extraites, au moyen d’un puits, d’une ressource minérale appartenant au contribuable qui est un gisement de sables bitumineux ou de schistes pétrolifères, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent;
-	- **b)** l’excédent éventuel des revenus qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes sur le coût, pour lui, des substances traitées :
+	- **b)** l’excédent éventuel des revenus qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes sur le coût, pour lui, des substances traitées :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré d’une ressource minérale n’appartenant pas au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré d’une ressource minérale n’appartenant pas au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
 		- **(iii)** le minerai de sables asphaltiques tiré d’une ressource minérale n’appartenant pas au contribuable, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent,
@@ -5040,7 +5067,7 @@ dans la mesure où ce transport se fait en employant les biens du contribuable q
 
 - **(5.2)** Pour l’application du paragraphe (5.1), sont exclus des revenus bruts tirés d’une mine les revenus qu’il est raisonnable d’imputer à l’addition d’un diluant, aux fins de transport, aux matières extraites d’un gisement de sables bitumineux ou de schistes pétrolifères.
 
-- **(6)** Pour l’application de la catégorie 10 de l’annexe II :
+- **(6)** Pour l’application de la catégorie 10 de l’annexe II :
 	- **a)** ***revenu d’une mine*** comprend le revenu raisonnablement imputable au traitement
 		- **(i)** du minerai, à l’exception du minerai de fer ou du minerai de sables asphaltiques, tiré d’une ressource minérale n’appartenant pas au contribuable jusqu’à un stade qui ne dépasse pas le stade du métal primaire ou son équivalent,
 		- **(ii)** du minerai de fer tiré d’une ressource minérale n’appartenant pas au contribuable jusqu’à un stade qui ne dépasse pas le stade de la boulette ou son équivalent,
@@ -5051,10 +5078,10 @@ dans la mesure où ce transport se fait en employant les biens du contribuable q
 - **(6.1)** [Abrogé, DORS/99-179, art. 3]
 
 - **(7)** Pour l’application des alinéas 1100(1)w) à ya.2), des paragraphes 1101(4a) à (4h) et 1102(8) et (9), de l’article 1107 et des catégories 12, 28 et 41 à 41.2 de l’annexe II :
-	- **a)** sont compris parmi les mines :
+	- **a)** sont compris parmi les mines :
 		- **(i)** les puits d’extraction de matières provenant d’un gisement de sables bitumineux ou de schistes pétrolifères ou d’un gisement de chlorure de calcium, d’halite ou de sylvine,
 		- **(ii)** les carrières d’où est extrait du kaolin ou du minerai de sables asphaltiques;
-ne sont pas des mines :
+ne sont pas des mines :
 		- **(iii)** les puits de pétrole ou de gaz,
 		- **(iv)** les sablières, les gravières, les carrières d’argile, les carrières de schiste, les tourbières, les gisements de tourbe et les carrières de pierre — sauf les carrières de kaolin et les gisements de sables bitumineux ou de schistes pétrolifères —;
 	- **b)** les puits d’un contribuable d’où sont extraites des matières provenant d’un ou de plusieurs gisements de chlorure de calcium, d’halite ou de sylvine qui sont envoyées à la même usine pour traitement sont réputés constituer une seule et même mine du contribuable;
@@ -5086,7 +5113,7 @@ ne sont pas des mines :
 #### Films ou bandes magnétoscopiques portant visa
 
 
-- **(10)** Aux fins du paragraphe 1100(21) et des définitions de ***long métrage portant visa***, production portant visa au paragraphe (2)
+- **(10)** Aux fins du paragraphe 1100(21) et des définitions de long métrage portant visa, production portant visa au paragraphe (2)
 	- **a)** ***Canadien*** désigne un particulier qui était, à toutes les dates pertinentes,
 		- **(i)** un citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), ou
 		- **(ii)** un résident permanent au sens de la Loi sur l’immigration de 1976,
@@ -5094,7 +5121,7 @@ ne sont pas des mines :
 		- **(i)** du secrétaire d’État, ou
 		- **(ii)** du ministre des Communications
 le garantissant comme étant un long métrage portant visa, une production long métrage portant visa ou une production court métrage portant visa, selon le cas, peut avoir un visa annulé par le ministre des Communications lorsque des renseignements incorrects sont fournis aux fins de ce visa et un visa annulé est nul et non avenu depuis la date de sa délivrance;
-	- **c)** « rémunération » ne comprend pas un montant calculé en fonction du revenu découlant d’un film cinématographique ou d’une bande magnétoscopique;
+	- **c)** ***rémunération*** ne comprend pas un montant calculé en fonction du revenu découlant d’un film cinématographique ou d’une bande magnétoscopique;
 	- **c.1)** ***garantie de recettes*** désigne un contrat ou autre arrangement en vertu duquel le contribuable a le droit de recevoir un montant minimum de recettes de location ou d’autres recettes fixes à l’égard du droit d’utilisation, de quelque façon que ce soit, d’un long métrage portant visa, d’une production long métrage portant visa ou d’une production court métrage portant visa;
 	- **c.2)** un scénariste est réputé être un particulier qui est canadien lorsque
 		- **(i)** chacun des particuliers qui a participé à la rédaction du scénario est un Canadien, ou
@@ -5102,8 +5129,8 @@ le garantissant comme étant un long métrage portant visa, une production long 
 			- **(A)** le scénario du film cinématographique ou de la bande magnétoscopique est tiré d’une oeuvre écrite par un Canadien,
 			- **(B)** les droits d’auteur restent au Canada, et
 			- **(C)** l’oeuvre est publiée au Canada;
-	- **d)** ***unité de production*** désigne une mesure utilisée par le ministre des Communications pour déterminer l’importance à accorder à chaque participant canadien visé au sous-alinéa b)(ii) de la définition de ***production long métrage portant visa*** au paragraphe (2) qui a fourni des services en ce qui concerne un film cinématographique ou une bande magnétoscopique; et
-	- **e)** le ministre des Communications est réputé, aux fins de la définition de ***production long métrage portant visa*** figurant au paragraphe (2), avoir accordé six unités de production à l’égard d’un film cinématographique ou d’une bande magnétoscopique, lorsque chacun des particuliers ayant rempli l’un des rôles suivants dans la production du film ou de la bande était canadien
+	- **d)** ***unité de production*** désigne une mesure utilisée par le ministre des Communications pour déterminer l’importance à accorder à chaque participant canadien visé au sous-alinéa b)(ii) de la définition de production long métrage portant visa au paragraphe (2) qui a fourni des services en ce qui concerne un film cinématographique ou une bande magnétoscopique; et
+	- **e)** le ministre des Communications est réputé, aux fins de la définition de production long métrage portant visa figurant au paragraphe (2), avoir accordé six unités de production à l’égard d’un film cinématographique ou d’une bande magnétoscopique, lorsque chacun des particuliers ayant rempli l’un des rôles suivants dans la production du film ou de la bande était canadien
 		- **(i)** le directeur,
 		- **(ii)** le scénariste,
 		- **(iii)** l’acteur ou l’actrice qui a touché ou touchera les cachets les plus élevés pour services rendus dans la production du film ou de la bande,
@@ -5136,72 +5163,72 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 - **(13)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (14) à (17) ainsi qu’aux catégories 43.1 et 43.2 de l’annexe II.
 
-***biogaz*** Le gaz produit par la digestion anaérobie de déchets organiques qui consistent en boues provenant d’installations admissibles de traitement des eaux usées, fumiers, déchets alimentaires et animaux, résidus végétaux, sous-produits d’usines de pâtes ou papiers, matières organiques séparées ou déchets de bois. (*biogas*)
+***biogaz*** Le gaz produit par la digestion anaérobie de déchets organiques qui consistent en boues provenant d’installations admissibles de traitement des eaux usées, fumiers, déchets alimentaires et animaux, résidus végétaux, sous-produits d’usines de pâtes ou papiers, matières organiques séparées ou déchets de bois. (*biogas*)
 
-***bio-huile*** Carburant liquide créé à partir de déchets de bois ou de résidus végétaux au moyen d’un procédé de conversion thermochimique effectué en l’absence d’oxygène. (*bio-oil*)
+***bio-huile*** Carburant liquide créé à partir de déchets de bois ou de résidus végétaux au moyen d’un procédé de conversion thermochimique effectué en l’absence d’oxygène. (*bio-oil*)
 
-***combustible fossile*** Pétrole, gaz naturel ou hydrocarbures connexes, gaz de convertisseur basique à oxygène, gaz de haut fourneau, charbon, gaz de houille, coke, gaz de four à coke, lignite ou tourbe. (*fossil fuel*)
+***combustible fossile*** Pétrole, gaz naturel ou hydrocarbures connexes, gaz de convertisseur basique à oxygène, gaz de haut fourneau, charbon, gaz de houille, coke, gaz de four à coke, lignite ou tourbe. (*fossil fuel*)
 
-***combustible résiduaire admissible*** Biogaz, bio-huile, gaz de digesteur, gaz d’enfouissement, déchets municipaux, résidus végétaux, déchets d’usines de pâtes ou papiers et déchets de bois. (*eligible waste fuel*)
+***combustible résiduaire admissible*** Biogaz, bio-huile, gaz de digesteur, gaz d’enfouissement, déchets municipaux, résidus végétaux, déchets d’usines de pâtes ou papiers et déchets de bois. (*eligible waste fuel*)
 
 ***déchets alimentaires***[Abrogée, 2010, ch. 25, art. 76]
 
-***déchets alimentaires et animaux*** Déchets organiques dont il est disposé en conformité avec les lois fédérales ou provinciales applicables et qui, selon le cas : 
+***déchets alimentaires et animaux*** Déchets organiques dont il est disposé en conformité avec les lois fédérales ou provinciales applicables et qui, selon le cas : 
 - **a)** sont générés lors de la préparation ou de la transformation d’aliments ou de boissons destinés à la consommation humaine ou animale;
 - **b)** sont des aliments ou des boissons qui ne sont plus propres à la consommation humaine ou animale;
-- **c) ** sont des restes animaux. (*food and animal waste*)
+- **c)** sont des restes animaux. (*food and animal waste*)
 
-***déchets de bois*** Sont compris parmi les déchets de bois les chutes, sciures, copeaux, écorces, branches, tronçons de bille et dosses, mais non la liqueur résiduaire ni les déchets qui ne présentent plus les propriétés physiques ou chimiques du bois. (*wood waste*)
+***déchets de bois*** Sont compris parmi les déchets de bois les chutes, sciures, copeaux, écorces, branches, tronçons de bille et dosses, mais non la liqueur résiduaire ni les déchets qui ne présentent plus les propriétés physiques ou chimiques du bois. (*wood waste*)
 
-***déchets d’usines de pâtes ou papiers*** Les biens ci-après :
+***déchets d’usines de pâtes ou papiers*** Les biens ci-après :
 - **a)** le savon à l’huile de pin, l’huile de pin brute et la térébenthine qui sont les sous-produits de la transformation du bois en pâte ou papier;
-- **b)** le sous-produit du traitement des effluents d’une usine de pâtes ou papiers, ou de ses procédés de désencrage, dont la teneur en matières solides avant la combustion est d’au moins 40 pour cent. (*pulp and paper waste*)
+- **b)** le sous-produit du traitement des effluents d’une usine de pâtes ou papiers, ou de ses procédés de désencrage, dont la teneur en matières solides avant la combustion est d’au moins 40 pour cent. (*pulp and paper waste*)
 
-***déchets municipaux*** La partie combustible de déchets (sauf les déchets qui sont considérés comme toxiques ou dangereux aux termes des lois fédérales ou provinciales) qui sont produits au Canada et acceptés à un site d’enfouissement admissible ou à une installation admissible de gestion des déchets et qui, une fois brûlés pour produire de l’énergie, ne dégagent que les fluides ou autres émissions qui sont conformes à la législation fédérale ou provinciale. (*municipal waste*)
+***déchets municipaux*** La partie combustible de déchets (sauf les déchets qui sont considérés comme toxiques ou dangereux aux termes des lois fédérales ou provinciales) qui sont produits au Canada et acceptés à un site d’enfouissement admissible ou à une installation admissible de gestion des déchets et qui, une fois brûlés pour produire de l’énergie, ne dégagent que les fluides ou autres émissions qui sont conformes à la législation fédérale ou provinciale. (*municipal waste*)
 
-***déchets thermiques*** Énergie thermique résiduaire extraite d’un point de rejet distinct d’un procédé industriel qui autrement :
+***déchets thermiques*** Énergie thermique résiduaire extraite d’un point de rejet distinct d’un procédé industriel qui autrement :
 - **a)** d’une part, serait rejetée dans l’atmosphère ou transférée à un liquide;
-- **b)** d’autre part, ne serait pas utilisée à des fins utiles. (*thermal waste*)
+- **b)** d’autre part, ne serait pas utilisée à des fins utiles. (*thermal waste*)
 
-***équipement de réseau énergétique de quartier*** Biens qui font partie d’un réseau énergétique de quartier, à savoir les canalisations ou pompes servant à recueillir et à distribuer un médium de transfert d’énergie, les compteurs, le matériel de contrôle, les refroidisseurs et les échangeurs de chaleur reliés au circuit de distribution principal d’un réseau énergétique de quartier, mais à l’exclusion des biens suivants :
+***équipement de réseau énergétique de quartier*** Biens qui font partie d’un réseau énergétique de quartier, à savoir les canalisations ou pompes servant à recueillir et à distribuer un médium de transfert d’énergie, les compteurs, le matériel de contrôle, les refroidisseurs et les échangeurs de chaleur reliés au circuit de distribution principal d’un réseau énergétique de quartier, mais à l’exclusion des biens suivants :
 - **a)** les biens servant à distribuer de l’eau pour consommation, évacuation ou traitement;
-- **b)** les biens qui font partie du système interne de chauffage ou de refroidissement d’un bâtiment. (*district energy equipment*)
+- **b)** les biens qui font partie du système interne de chauffage ou de refroidissement d’un bâtiment. (*district energy equipment*)
 
-***gaz de convertisseur basique à oxygène*** Gaz produit par intermittence dans le convertisseur basique à oxygène d’une aciérie par la réaction chimique du carbone contenu dans le fer en fusion et d’oxygène pur. (*basic oxygen furnace gas*)
+***gaz de convertisseur basique à oxygène*** Gaz produit par intermittence dans le convertisseur basique à oxygène d’une aciérie par la réaction chimique du carbone contenu dans le fer en fusion et d’oxygène pur. (*basic oxygen furnace gas*)
 
-***gaz de digesteur*** Mélange de gaz qui proviennent de la décomposition de déchets organiques dans un digesteur et qui sont extraits d’une installation admissible de traitement des eaux usées servant au traitement de ces déchets. (*digester gas*)
+***gaz de digesteur*** Mélange de gaz qui proviennent de la décomposition de déchets organiques dans un digesteur et qui sont extraits d’une installation admissible de traitement des eaux usées servant au traitement de ces déchets. (*digester gas*)
 
-***gaz de gazéification*** Combustible dont la composition, à l’exclusion de sa teneur en eau, consiste en totalité ou en presque totalité en gaz non condensables, qui est produit à partir principalement de combustibles résiduaires admissibles au moyen d’un procédé de conversion thermochimique et qui est produit seulement à partir de combustibles résiduaires admissibles ou de combustibles fossiles.
+***gaz de gazéification*** Combustible dont la composition, à l’exclusion de sa teneur en eau, consiste en totalité ou en presque totalité en gaz non condensables, qui est produit à partir principalement de combustibles résiduaires admissibles au moyen d’un procédé de conversion thermochimique et qui est produit seulement à partir de combustibles résiduaires admissibles ou de combustibles fossiles. (*producer gas*)
 
-***gaz de haut fourneau*** Gaz produit dans le haut fourneau d’une aciérie par la réaction chimique de carbone (sous forme de coke, de charbon ou de gaz naturel), de l’oxygène contenu dans l’air et de minerai de fer. (*blast furnace gas*)
+***gaz de haut fourneau*** Gaz produit dans le haut fourneau d’une aciérie par la réaction chimique de carbone (sous forme de coke, de charbon ou de gaz naturel), de l’oxygène contenu dans l’air et de minerai de fer. (*blast furnace gas*)
 
-***gaz d’enfouissement*** Mélange de gaz qui proviennent de la décomposition de déchets organiques et qui sont extraits d’un site d’enfouissement admissible. (*landfill gas*)
+***gaz d’enfouissement*** Mélange de gaz qui proviennent de la décomposition de déchets organiques et qui sont extraits d’un site d’enfouissement admissible. (*landfill gas*)
 
-***gaz dissous*** Combustible fossile constitué de gaz extrait d’une solution de gaz et de pétrole produit et qui autrement serait brûlé. (*solution gas*)
+***gaz dissous*** Combustible fossile constitué de gaz extrait d’une solution de gaz et de pétrole produit et qui autrement serait brûlé. (*solution gas*)
 
-***installation admissible de gestion des déchets*** Installation de gestion des déchets située au Canada et à l’égard de laquelle un permis ou une licence est délivré en vertu d’une loi fédérale ou provinciale. (*eligible waste management facility*)
+***installation admissible de gestion des déchets*** Installation de gestion des déchets située au Canada et à l’égard de laquelle un permis ou une licence est délivré en vertu d’une loi fédérale ou provinciale. (*eligible waste management facility*)
 
-***installation admissible de traitement des eaux usées*** Installation de traitement des eaux usées située au Canada et à l’égard de laquelle un permis ou une licence est délivré en vertu d’une loi fédérale ou provinciale. (*eligible sewage treatment facility*)
+***installation admissible de traitement des eaux usées*** Installation de traitement des eaux usées située au Canada et à l’égard de laquelle un permis ou une licence est délivré en vertu d’une loi fédérale ou provinciale. (*eligible sewage treatment facility*)
 
-***liqueur résiduaire*** Le sous-produit d’un processus chimique permettant de transformer le bois en pâte, qui est composé de résidus de bois et d’agents de trituration. (*spent pulping liquor*)
+***liqueur résiduaire*** Le sous-produit d’un processus chimique permettant de transformer le bois en pâte, qui est composé de résidus de bois et d’agents de trituration. (*spent pulping liquor*)
 
-***matériel de distribution*** Matériel, sauf le matériel de transmission, qui sert à distribuer l’énergie électrique produite par du matériel générateur d’électricité. (*distribution equipment*)
+***matériel de distribution*** Matériel, sauf le matériel de transmission, qui sert à distribuer l’énergie électrique produite par du matériel générateur d’électricité. (*distribution equipment*)
 
-***matériel de transmission*** Matériel, sauf les bâtiments, qui sert à transmettre plus de 75 pour cent de l’énergie électrique annuelle produite par du matériel générateur d’électricité. (*transmission equipment*)
+***matériel de transmission*** Matériel, sauf les bâtiments, qui sert à transmettre plus de 75 pour cent de l’énergie électrique annuelle produite par du matériel générateur d’électricité. (*transmission equipment*)
 
-***matières organiques séparées*** Déchets organiques (sauf les déchets qui sont considérés comme toxiques ou dangereux aux termes des lois fédérales ou provinciales) qui seraient acceptés à une installation admissible de gestion des déchets ou à un site d’enfouissement admissible s’ils n’étaient pas utilisés dans un système qui convertit la biomasse en biogaz. (*separated organics*)
+***matières organiques séparées*** Déchets organiques (sauf les déchets qui sont considérés comme toxiques ou dangereux aux termes des lois fédérales ou provinciales) qui seraient acceptés à une installation admissible de gestion des déchets ou à un site d’enfouissement admissible s’ils n’étaient pas utilisés dans un système qui convertit la biomasse en biogaz. (*separated organics*)
 
-***réseau énergétique de quartier*** Réseau utilisé principalement pour le chauffage ou le refroidissement qui fait circuler en continu, entre une unité centrale de production et un ou plusieurs bâtiments au moyen de canalisations interconnectées, un médium de transfert d’énergie qui est chauffé ou refroidi à l’aide d’énergie thermique. (*district energy system*)
+***réseau énergétique de quartier*** Réseau utilisé principalement pour le chauffage ou le refroidissement qui fait circuler en continu, entre une unité centrale de production et un ou plusieurs bâtiments au moyen de canalisations interconnectées, un médium de transfert d’énergie qui est chauffé ou refroidi à l’aide d’énergie thermique. (*district energy system*)
 
-***résidus végétaux*** Résidus de végétaux, à l’exception des déchets de bois et des déchets qui n’ont plus les propriétés chimiques des végétaux dont ils sont les résidus, qui seraient par ailleurs des déchets, mais qui sont utilisés :
+***résidus végétaux*** Résidus de végétaux, à l’exception des déchets de bois et des déchets qui n’ont plus les propriétés chimiques des végétaux dont ils sont les résidus, qui seraient par ailleurs des déchets, mais qui sont utilisés :
 - **a)** soit dans un système de conversion de la biomasse en bio-huile ou en biogaz;
-- **b)** soit comme combustible résiduaire admissible. (*plant residue*)
+- **b)** soit comme combustible résiduaire admissible. (*plant residue*)
 
-***site d’enfouissement admissible*** Site d’enfouissement, existant ou ancien, situé au Canada et, s’il s’agit d’un site à l’égard duquel un permis ou une licence est ou était requis en vertu de la législation fédérale ou provinciale, à l’égard duquel un tel permis ou une telle licence a été délivré. (*eligible landfill site*)
+***site d’enfouissement admissible*** Site d’enfouissement, existant ou ancien, situé au Canada et, s’il s’agit d’un site à l’égard duquel un permis ou une licence est ou était requis en vertu de la législation fédérale ou provinciale, à l’égard duquel un tel permis ou une telle licence a été délivré. (*eligible landfill site*)
 
-***sous-produit d’usine de pâtes ou papiers*** Le savon à l’huile de pin et l’huile de pin brute qui sont les sous-produits de la transformation du bois en pâte ou papier et le sous-produit du traitement des effluents d’une usine de pâtes ou papiers ou de ses procédés de désencrage. (*pulp and paper by-product*)
+***sous-produit d’usine de pâtes ou papiers*** Le savon à l’huile de pin et l’huile de pin brute qui sont les sous-produits de la transformation du bois en pâte ou papier et le sous-produit du traitement des effluents d’une usine de pâtes ou papiers ou de ses procédés de désencrage. (*pulp and paper by-product*)
 
-***système à cycles combinés amélioré*** Système générateur d’électricité dans lequel les déchets thermiques provenant d’un ou de plusieurs systèmes de compresseur de gaz naturel sont récupérés et utilisés de façon à constituer au moins 20 pour cent de l’apport énergétique d’un procédé à cycles combinés en vue d’améliorer la production d’électricité. Le système à cycles combinés amélioré ne comprend pas le système de compresseur de gaz naturel. (*enhanced combined cycle system*)
+***système à cycles combinés amélioré*** Système générateur d’électricité dans lequel les déchets thermiques provenant d’un ou de plusieurs systèmes de compresseur de gaz naturel sont récupérés et utilisés de façon à constituer au moins 20 pour cent de l’apport énergétique d’un procédé à cycles combinés en vue d’améliorer la production d’électricité. Le système à cycles combinés amélioré ne comprend pas le système de compresseur de gaz naturel. (*enhanced combined cycle system*)
 
 - **(14)** Le bien d’un contribuable qui ne fonctionne pas de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe en raison seulement d’un défaut, d’une défectuosité ou d’un arrêt — indépendant de la volonté du contribuable — du système dont il fait partie et qui fonctionnait de la manière prévue à l’alinéa en cause est réputé, pour l’application de cet alinéa, fonctionner de la manière prévue à cet alinéa pendant la durée du défaut, de la défectuosité ou de l’arrêt si le contribuable s’applique raisonnablement à rectifier la situation ou le problème dans un délai raisonnable.
 
@@ -5214,7 +5241,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
 
 - **(17)** Tout bien qui pourrait par ailleurs être inclus dans les catégories 43.1 ou 43.2 de l’annexe II par un contribuable est réputé ne pas pouvoir être inclus dans ces catégories si, à la fois :
-	- **a)** il est inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i) ou il est visé à l’un des sous-alinéas d)(viii), (ix), (xi), (xiii), (xiv) et (xvi) de cette catégorie ainsi qu’à l’alinéa a) de la catégorie 43.2;
+	- **a)** il est inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i) ou il est visé à l’un des sous-alinéas d)(vii) à (ix), (xi), (xiii), (xiv) et (xvi) de cette catégorie ainsi qu’à l’alinéa a) de la catégorie 43.2;
 	- **b)** au moment où il devient prêt à être mis en service par le contribuable, celui-ci ne satisfait pas aux exigences des lois et règlements en matière d’environnement, applicables relativement au bien, de l’une des entités suivantes :
 		- **(i)** le Canada ou l’une de ses provinces ou municipalités,
 		- **(ii)** un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
@@ -5229,7 +5256,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 			- **(B)** dans les autres cas, le revenu qu’il est raisonnable d’attribuer à la liquéfaction de gaz naturel à l’installation de liquéfaction admissible,
 		- **(ii)** à l’égard de laquelle les seules déductions permises dans le calcul de son revenu étaient celles attribuables au revenu visé au sous-alinéa (i) et, s’il s’agit du revenu visé à la division (i)(A), celles-ci doivent être raisonnablement attribuables au revenu gagné après l’arrivée du gaz naturel à l’installation de liquéfaction admissible;
 	- **b)** s’il s’agit du revenu visé à la division a)(i)(A), le contribuable avait acquis le gaz naturel ayant été liquéfié à un coût égal à la juste valeur marchande du gaz naturel au moment de son arrivée dans l’installation de liquéfaction admissible.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85; DORS/2015-117, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85; DORS/2015-117, art. 3; 2017, ch. 33, art. 91.
 
 
 
@@ -6310,29 +6337,34 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 	- **b)** la construction d’une route d’accès temporaire menant à l’emplacement des travaux;
 	- **c)** l’utilisation d’un droit d’accès à l’emplacement des travaux avant le premier moment où un bien compris dans les catégories 43.1 ou 43.2 de l’annexe II est utilisé dans le cadre des travaux en vue de gagner un revenu;
 	- **d)** le défrichement d’un fonds de terre dans la mesure nécessaire à l’achèvement des travaux;
-	- **e)** la réalisation de l’étude technique concernant les travaux, y compris :
+	- **e)** la réalisation de l’étude technique concernant les travaux, y compris :
 		- **(i)** la collecte et l’analyse de données concernant l’emplacement des travaux,
 		- **(ii)** l’établissement des bilans énergétique, massique et hydrique et du bilan en matière de ventilation,
 		- **(iii)** les simulations et l’analyse relatives à l’efficacité et au coût des modèles proposés dans l’étude technique,
 		- **(iv)** la sélection du modèle optimal;
-	- **f)** le forage ou l’achèvement d’un puits relatif aux travaux, sauf s’il s’agit d’un puits qui sert, ou servira vraisemblablement, à l’installation de tuyauterie souterraine visée à l’alinéa d) de la catégorie 43.1 ou à l’alinéa b) de la catégorie 43.2 de l’annexe II;
-	- **g)** l’utilisation d’une éolienne d’essai qui fait partie de son parc d’éoliennes.
+	- **f)** le forage ou l’achèvement d’un puits relatif aux travaux, sauf :
+		- **(i)** un puits qui sert, ou servira vraisemblablement, à l’installation de tuyauterie souterraine visée à l’alinéa d) de la catégorie 43.1 ou à l’alinéa b) de la catégorie 43.2 de l’annexe II,
+		- **(ii)** un puits mentionné à l’alinéa h);
+	- **g)** l’utilisation d’une éolienne d’essai qui fait partie de son parc d’éoliennes;
+	- **h)** si au moins 50 % des biens amortissables qui seront utilisés au cours des travaux, ce pourcentage étant déterminé en fonction du coût en capital de ces biens, celui de biens visés au sous-alinéa d)(vii) de la catégorie 43.1 :
+		- **(i)** soit le forage d’un puits,
+		- **(ii)** soit uniquement la détermination de l’étendue et de la qualité d’une ressource géothermique.
 
-- **(2)** Les dépenses suivantes ne sont pas comprises parmi les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada :
+- **(2)** Les dépenses suivantes ne sont pas comprises parmi les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada :
 	- **a)** celles qui sont visées aux alinéas 20(1)c), d), e) ou e.1) de la Loi;
-	- **b)** celles qui sont engagées par un contribuable directement ou indirectement et qui, selon le cas :
+	- **b)** celles qui sont engagées par un contribuable directement ou indirectement et qui, selon le cas :
 		- **(i)** ont trait à l’acquisition ou à l’utilisation d’un fonds de terre ou au droit de l’utiliser, sauf dans le cas prévu aux alinéas (1)b), c) ou d),
 		- **(ii)** servent au nivellement ou à l’aménagement paysager d’un fonds de terre, sauf dans le cas prévu à l’alinéa (1)b),
 		- **(iii)** sont payables à une personne non-résidente ou à une société de personnes autre qu’une société de personnes canadienne (sauf s’il s’agit d’une dépense engagée à la fin visée à l’alinéa (1)g)),
-		- **(iv)** sont incluses dans le coût en capital d’un bien qui serait un bien amortissable (sauf un bien qui serait compris dans la catégorie 14.1 de l’annexe II) si ce n’était le présent article, sauf dans le cas prévu aux alinéas (1)b), d), e), f) ou g),
-		- **(v)** sont incluses dans le coût en capital d’un bien qui serait un bien compris dans la catégorie 14.1 de l’annexe II si ce n’était le présent article, sauf dans le cas prévu à l’un des alinéas (1)a) à e),
+		- **(iv)** sont incluses dans le coût en capital d’un bien qui serait un bien amortissable (sauf un bien qui serait compris dans la catégorie 14.1 de l’annexe II) si ce n’était le présent article, sauf dans le cas prévu aux alinéas (1)b), d), e), f), g) ou h),
+		- **(v)** sont incluses dans le coût en capital d’un bien qui serait un bien compris dans la catégorie 14.1 de l’annexe II si ce n’était le présent article, sauf dans le cas prévu à l’un des alinéas (1)a) à e) ou au sous-alinéa h)(ii),
 		- **(vi)** sont incluses dans le coût de l’inventaire du contribuable,
 		- **(vii)** sont des dépenses relatives à des activités de recherche scientifique et de développement expérimental,
 		- **(viii)** sont des frais d’aménagement au Canada ou des frais à l’égard de biens canadiens relatifs au pétrole et au gaz,
 		- **(ix)** sont engagées, dans le cadre de travaux, à l’égard du premier moment où un bien compris dans les catégories 43.1 ou 43.2 de l’annexe II est utilisé dans ce cadre en vue de gagner un revenu, ou à l’égard d’un moment postérieur à ce moment,
 		- **(x)** sont engagées relativement à l’administration ou à la gestion d’une entreprise du contribuable,
 		- **(xi)** sont attribuables à la période de construction, de rénovation ou de modification de biens amortissables, sauf les biens compris dans les catégories 43.1 ou 43.2 de l’annexe II, qui se rapportent, selon le cas :
-			- **(A)** à la construction, à la rénovation ou à la modification des biens, sauf dans le cas prévu aux alinéas (1)b), f) ou g),
+			- **(A)** à la construction, à la rénovation ou à la modification des biens, sauf dans le cas prévu aux alinéas (1)b), f), g) ou h),
 			- **(B)** à la propriété d’un fonds de terre au cours de la période, sauf dans le cas prévu aux alinéas (1)b), c) ou d).
 
 - **(3)** Pour l’application de l’alinéa (1)g), ***éolienne à des fins d’essai*** s’entend d’une installation fixe consistant en un système de conversion de l’énergie cinétique du vent qui, si ce n’était le présent article, serait compris dans la catégorie 43.1 de l’annexe II par l’effet de son sous-alinéa d)(v) ou dans la catégorie 43.2 de cette annexe par l’effet de son alinéa b), si le ministre, en consultation avec le ministre des Ressources naturelles, établit que l’installation répond aux conditions suivantes :
@@ -6354,7 +6386,14 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 	- **f)** aucun autre système de conversion de l’énergie cinétique du vent n’est installé dans un périmètre de 1 500 mètres de l’installation tant que le niveau d’énergie électrique que celle-ci produit à partir du vent n’a pas été vérifié pendant un minimum de 120 jours civils.
 
 - **(4)** Il est entendu que les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada comprennent les dépenses engagées par le contribuable pour acquérir une installation fixe consistant en un système de conversion de l’énergie cinétique du vent seulement si l’installation est visée à l’alinéa (1)g).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3; 2010, ch. 25, art. 77; 2016, ch. 12, art. 79.
+
+- **(5)** Ne constitue pas des frais liés aux énergies renouvelables et à l’économie d’énergie au Canada la dépense engagée à un moment donné par un contribuable et relative à un projet géothermique :
+	- **a)** d’une part, qui est visé à l’alinéa (1)h) à ce moment;
+	- **b)** d’autre part, relativement auquel le contribuable ne satisfait pas à ce moment aux exigences des lois et règlements en matière d’environnement de l’une des entités suivantes :
+		- **(i)** le Canada,
+		- **(ii)** une province ou municipalité du Canada,
+		- **(iii)** un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3; 2010, ch. 25, art. 77; 2016, ch. 12, art. 79; 2017, ch. 33, art. 92.
 
 
 
@@ -6509,14 +6548,11 @@ où :
 **1401** 
 
 - **(1)** Les sommes ci-après sont déterminées pour l’application de l’article 307 et du paragraphe 211.1(3) de la Loi à un moment donné :
-	- **a)
-** relativement à une police de fonds d’administration de dépôt, le total des passifs de l’assureur dans le cadre de la police, calculé :
+	- **a)** relativement à une police de fonds d’administration de dépôt, le total des passifs de l’assureur dans le cadre de la police, calculé :
 		- **(i)** dans le cas où l’assureur est tenu de présenter un rapport annuel à l’autorité compétente pour une période qui comprend ce moment, selon la méthode devant être utilisée pour l’établissement de ce rapport,
 		- **(ii)** dans les autres cas, selon la méthode devant être utilisée pour l’établissement de ses états financiers annuels visant la période qui comprend ce moment;
-	- **b)
-** relativement à une police d’assurance-vie collective temporaire d’une durée maximale de douze mois, la partie non acquise de la prime versée par le titulaire de police au titre de la police à ce moment, déterminée par la répartition égale de cette prime sur la période qu’elle vise;
-	- **c)
-** relativement à une police d’assurance-vie, à l’exclusion des polices visées aux alinéas a) ou b), la plus élevée des sommes suivantes :
+	- **b)** relativement à une police d’assurance-vie collective temporaire d’une durée maximale de douze mois, la partie non acquise de la prime versée par le titulaire de police au titre de la police à ce moment, déterminée par la répartition égale de cette prime sur la période qu’elle vise;
+	- **c)** relativement à une police d’assurance-vie, à l’exclusion des polices visées aux alinéas a) ou b), la plus élevée des sommes suivantes :
 		- **(i)** la somme obtenue par la formule suivante :
 ```
 A – B
@@ -6538,15 +6574,13 @@ où :
 		- **(A)** si la police est établie après 2016 et qu’elle n’est pas un contrat de rente, zéro,
 		- **(B)** dans les autres cas, la valeur actualisée à ce moment des primes nettes modifiées futures relatives à la police,
 - **C** le total des sommes représentant chacune un montant payable à ce moment au titre d’une avance sur police impayée à ce moment relativement à la police;
-	- **c.1)
-** relativement à une police d’assurance-vie collective, la somme (sauf celle que l’assureur peut déduire en vertu du paragraphe 140(1) de la Loi, par l’effet du sous-alinéa 138(3)a)(v) de la Loi, dans le calcul de son revenu pour son année d’imposition qui comprend ce moment) relative à une participation ou un remboursement de primes ou de dépôts de primes prévu par la police, dont l’assureur se servira pour réduire ou éliminer une provision pour accroissement éventuel de sinistres dans le cadre de la police ou pour payer au titulaire ou porter à son crédit inconditionnellement ou affecter à l’extinction totale ou partielle de son obligation de verser des primes à l’assureur, qui correspond à la moins élevée des sommes suivantes :
+	- **c.1)** relativement à une police d’assurance-vie collective, la somme (sauf celle que l’assureur peut déduire en vertu du paragraphe 140(1) de la Loi, par l’effet du sous-alinéa 138(3)a)(v) de la Loi, dans le calcul de son revenu pour son année d’imposition qui comprend ce moment) relative à une participation ou un remboursement de primes ou de dépôts de primes prévu par la police, dont l’assureur se servira pour réduire ou éliminer une provision pour accroissement éventuel de sinistres dans le cadre de la police ou pour payer au titulaire ou porter à son crédit inconditionnellement ou affecter à l’extinction totale ou partielle de son obligation de verser des primes à l’assureur, qui correspond à la moins élevée des sommes suivantes :
 		- **(i)** un montant raisonnable pour un tel dividende ou un tel remboursement de primes ou de dépôts de primes,
 		- **(ii)** 25 % de la prime à payer aux termes de la police pour la période de 12 mois se terminant à ce moment,
 		- **(iii)** le montant de la provision ou de l’obligation relative à une telle participation ou un tel remboursement de primes ou de dépôts de primes qui :
 			- **(A)** dans le cas où l’assureur est tenu de présenter un rapport annuel à son autorité compétente pour une période qui comprend ce moment, sert à l’établissement de ce rapport,
 			- **(B)** dans les autres cas, sert à l’établissement de ses états financiers annuels visant la période qui comprend ce moment;
-	- **d)
-** à l’égard d’une police, sauf celle visée à l’alinéa a), la somme au titre d’un bénéfice, d’un risque ou d’une garantie constituant :
+	- **d)** à l’égard d’une police, sauf celle visée à l’alinéa a), la somme au titre d’un bénéfice, d’un risque ou d’une garantie constituant :
 		- **(i)** une prestation pour mort accidentelle,
 		- **(ii)** une prestation d’invalidité,
 		- **(iii)** un risque additionnel à la suite de l’assurance sur la vie de risque tarés,
@@ -6562,32 +6596,24 @@ mais ne constituant pas
 		- **(xi)** la provision relative au bénéfice, au risque ou à la garantie qui :
 			- **(A)** dans le cas où l’assureur est tenu de présenter un rapport annuel à l’autorité compétente pour une période qui comprend ce moment, sert à l’établissement de ce rapport,
 			- **(B)** dans les autres cas, sert à l’établissement de ses états financiers annuels visant la période qui comprend ce moment.
-	- **d.1) à e)
-** [Abrogés, 2009, ch. 2, art. 99]
+	- **d.1) à e)** [Abrogés, 2009, ch. 2, art. 99]
 
 - **(1.1)** [Abrogé, 2009, ch. 2, art. 99]
 
-- **(2)** Aux fins du paragraphe (1), (à l’exclusion du sous-alinéa d)(vii), toute somme réclamée par l’assureur pour l’année ne doit pas comprendre une somme à l’égard d’une obligation d’un fonds réservé (au sens que donne l’article 138.1 de la Loi à ***fonds réservé***).
+- **(2)** Aux fins du paragraphe (1), (à l’exclusion du sous-alinéa d)(vii), toute somme réclamée par l’assureur pour l’année ne doit pas comprendre une somme à l’égard d’une obligation d’un fonds réservé (au sens que donne l’article 138.1 de la Loi à fonds réservé).
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***anniversaire de la police*** S’entend au sens de l’article 310.
+***anniversaire de la police*** S’entend au sens de l’article 310. (*policy anniversary*)
 
+***bénéfice au titre de la valeur du fonds*** Est le bénéfice au titre de la valeur du fonds d’une police d’assurance-vie à un moment donné l’excédent à ce moment de la valeur du fonds d’une police d’assurance-vie sur le total des sommes représentant chacune la valeur du fonds d’une protection offerte dans le cadre de la police. (*fund value benefit*)
 
-***bénéfice au titre de la valeur du fonds*** Est le bénéfice au titre de la valeur du fonds d’une police d’assurance-vie à un moment donné l’excédent à ce moment de la valeur du fonds d’une police d’assurance-vie sur le total des sommes représentant chacune la valeur du fonds d’une protection offerte dans le cadre de la police.
+***frais d’assurance ou primes futurs*** Sont des frais d’assurance ou primes futurs, relativement à une protection, à un moment donné :
+- **a)** s’il existe une valeur du fonds de la protection à ce moment, chaque montant de frais d’assurance relatifs à la protection qui serait engagé à un moment postérieur au moment donné si le montant net à risque prévu par la protection après le moment donné correspondait à l’excédent à ce moment de cette prestation de décès sur la valeur du fonds de la protection;
+- **b)** dans les autres cas, chaque prime qui est fixe et déterminée à la date d’établissement de la protection qui deviendra à payer, ou chaque montant de frais d’assurance relatif à la protection qui sera engagé, à un moment postérieur au moment donné. (*future premiums or cost of insurance charges*)
 
-
-***frais d’assurance ou primes futurs*** Sont des frais d’assurance ou primes futurs, relativement à une protection, à un moment donné :
-
-- **a)
-** s’il existe une valeur du fonds de la protection à ce moment, chaque montant de frais d’assurance relatifs à la protection qui serait engagé à un moment postérieur au moment donné si le montant net à risque prévu par la protection après le moment donné correspondait à l’excédent à ce moment de cette prestation de décès sur la valeur du fonds de la protection;
-- **b)
-** dans les autres cas, chaque prime qui est fixe et déterminée à la date d’établissement de la protection qui deviendra à payer, ou chaque montant de frais d’assurance relatif à la protection qui sera engagé, à un moment postérieur au moment donné.
-
-***frais d’assurance ou primes nets futurs*** Sont des frais d’assurance ou primes nets futurs relativement à une protection, à un moment donné, toutes sommes ci-après qui sont applicables à une protection à un moment donné :
-
-- **a)
-** pour l’application de l’alinéa a) de l’élément C de la formule figurant à la définition de ***provision pour primes nettes*** au présent paragraphe, chaque somme obtenue par la formule suivante :
+***frais d’assurance ou primes nets futurs*** Sont des frais d’assurance ou primes nets futurs relativement à une protection, à un moment donné, toutes sommes ci-après qui sont applicables à une protection à un moment donné :
+- **a)** pour l’application de l’alinéa a) de l’élément C de la formule figurant à la définition de provision pour primes nettes au présent paragraphe, chaque somme obtenue par la formule suivante :
 ```
 A × B/C
 ```
@@ -6595,8 +6621,7 @@ où :
 - **A** représente des frais d’assurance ou primes futurs relatifs à la protection à ce moment,
 - **B** la valeur actualisée, à la date d’établissement de la protection, des prestations futures à verser relativement à la protection à cette date,
 - **C** la valeur actualisée, à la date d’établissement de la protection, des frais d’assurance ou primes futurs relatifs à la protection à cette date;
-- **b)
-** pour l’application de l’alinéa b) de l’élément C de la formule figurant à la définition de ***provision pour primes nettes*** au présent paragraphe :
+- **b)** pour l’application de l’alinéa b) de l’élément C de la formule figurant à la définition de provision pour primes nettes au présent paragraphe :
 	- **(i)** chaque somme obtenue par la formule suivante :
 ```
 A × (B + C)/(D + E)
@@ -6613,34 +6638,23 @@ où :
 ```
 où :
 - **A** représente la somme déterminée selon le sous-alinéa (i),
-- **B** le montant d’une prime ou de frais d’assurance pour une assurance temporaire d’un an qui serait à payer relativement à la protection si la prestation de décès correspondait à l’excédent de cette prestation à la fin de la première année de la protection sur la valeur du fonds de la protection à la fin de cette année.
+- **B** le montant d’une prime ou de frais d’assurance pour une assurance temporaire d’un an qui serait à payer relativement à la protection si la prestation de décès correspondait à l’excédent de cette prestation à la fin de la première année de la protection sur la valeur du fonds de la protection à la fin de cette année. (*future net premiums or cost of insurance charges*)
 
-***moment d’interpolation*** Est le moment d’interpolation d’une protection celui des moments ci-après qui est antérieur à l’autre :
+***moment d’interpolation*** Est le moment d’interpolation d’une protection celui des moments ci-après qui est antérieur à l’autre :
+- **a)** le moment qui correspond au huitième anniversaire de la date d’établissement de la protection;
+- **b)** le premier moment où aucune prime n’est à payer ni aucun montant de frais d’assurance n’est engagé relativement à la protection. (*interpolation time*)
 
-- **a)
-** le moment qui correspond au huitième anniversaire de la date d’établissement de la protection;
-- **b)
-** le premier moment où aucune prime n’est à payer ni aucun montant de frais d’assurance n’est engagé relativement à la protection.
+***prestation de décès*** S’entend notamment d’une prestation cristallisée à la date d’échéance. Les sommes ci-après ne sont pas des prestations de décès :
+- **a)** toute somme additionnelle à payer en cas de décès par accident;
+- **b)** si un montant d’intérêt relatif à une somme gardée en dépôt par un assureur est inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition, ce montant et la somme. (*benefit on death*)
 
-***prestation de décès*** S’entend notamment d’une prestation cristallisée à la date d’échéance. Les sommes ci-après ne sont pas des prestations de décès :
+***prestations futures à verser*** Sont des prestations futures à verser relativement à une protection offerte dans le cadre d’une police d’assurance-vie à un moment donné :
+- **a)** s’il existe une valeur du fonds de la protection à ce moment, chaque prestation de décès qui serait à payer selon la protection à un moment postérieur au moment donné si le montant de cette prestation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection;
+- **b)** dans les autres cas, chaque prestation de décès à payer dans le cadre de la protection à un moment particulier après ce moment. (*future benefits to be provided*)
 
-- **a)
-** toute somme additionnelle à payer en cas de décès par accident;
-- **b)
-** si un montant d’intérêt relatif à une somme gardée en dépôt par un assureur est inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition, ce montant et la somme.
+***protection*** Est une protection d’une police d’assurance-vie chaque assurance-vie, sauf un bénéfice au titre de la valeur du fonds, qui est souscrite dans le cadre de la police sur une seule tête ou sur plusieurs têtes conjointement et à laquelle un barème particulier de taux de prime ou frais d’assurance s’applique. Il est entendu que chacune des assurances ainsi souscrites constitue une protection distincte. (*coverage*)
 
-***prestations futures à verser*** Sont des prestations futures à verser relativement à une protection offerte dans le cadre d’une police d’assurance-vie à un moment donné :
-
-- **a)
-** s’il existe une valeur du fonds de la protection à ce moment, chaque prestation de décès qui serait à payer selon la protection à un moment postérieur au moment donné si le montant de cette prestation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection;
-- **b)
-** dans les autres cas, chaque prestation de décès à payer dans le cadre de la protection à un moment particulier après ce moment.
-
-***protection*** Est une protection d’une police d’assurance-vie chaque assurance-vie, sauf un bénéfice au titre de la valeur du fonds, qui est souscrite dans le cadre de la police sur une seule tête ou sur plusieurs têtes conjointement et à laquelle un barème particulier de taux de prime ou frais d’assurance s’applique. Il est entendu que chacune des assurances ainsi souscrites constitue une protection distincte.
-
-
-***provision pour primes nettes*** Est une provision pour primes nettes d’une police d’assurance-vie à un moment donné la somme obtenue par la formule suivante :
-
+***provision pour primes nettes*** Est une provision pour primes nettes d’une police d’assurance-vie à un moment donné la somme obtenue par la formule suivante :
 ```
 A + B + C
 ```
@@ -6648,8 +6662,7 @@ où :
 - **A** représente le total des sommes dont chacune représente la valeur actualisée à ce moment de la valeur du fonds d’une protection offerte dans le cadre de la police à ce moment;
 - **B** le montant du bénéfice au titre de la valeur du fonds prévu par la police à ce moment;
 - **C** :
-- **a)
-** pour l’application de l’alinéa (1)c) dans le cadre de l’article 307, le total des sommes représentant chacune, relativement à une protection offerte dans le cadre de la police :
+- **a)** pour l’application de l’alinéa (1)c) dans le cadre de l’article 307, le total des sommes représentant chacune, relativement à une protection offerte dans le cadre de la police :
 - **(i)** si ce moment correspond au moment d’interpolation relatif à la protection ou y est postérieur, la somme obtenue par la formule suivante :
 ```
 D – E
@@ -6666,32 +6679,25 @@ où :
 - **G** le nombre d’années qui se seraient écoulées depuis l’établissement de la protection si ce moment correspondait au moment d’interpolation,
 - **H** la valeur actualisée, au moment d’interpolation, des prestations futures à verser relativement à la protection au moment d’interpolation et, s’il existe une valeur du fonds de la protection à ce moment, déterminées comme si le montant de la prestation de décès prévue par la protection au moment d’interpolation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection,
 - **I** la valeur actualisée, au moment d’interpolation, des frais d’assurance ou primes nettes futurs relatifs à la protection au moment d’interpolation et, s’il existe une valeur du fonds de la protection à ce moment, déterminés comme si le montant net à risque prévu par la protection après le moment d’interpolation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection;
-- **b)
-** pour l’application de l’alinéa (1)c) dans le cadre du paragraphe 211.1(3) de la Loi, le total des sommes dont chacune représente, relativement à une protection offerte dans le cadre de la police, la somme obtenue par la formule suivante :
+- **b)** pour l’application de l’alinéa (1)c) dans le cadre du paragraphe 211.1(3) de la Loi, le total des sommes dont chacune représente, relativement à une protection offerte dans le cadre de la police, la somme obtenue par la formule suivante :
 ```
 J – K
 ```
 où :
 - **J** représente la valeur actualisée, à ce moment, des prestations futures à verser relativement à la protection à ce moment,
-- **K** la valeur actualisée, à ce moment, des frais d’assurance ou primes nettes futurs relatifs à la protection à ce moment.
+- **K** la valeur actualisée, à ce moment, des frais d’assurance ou primes nettes futurs relatifs à la protection à ce moment. (*net premium reserve*)
 
-***valeur du fonds d’une police*** Est la valeur du fonds d’une police d’assurance-vie à un moment donné le total des sommes représentant chacune le solde, à ce moment, d’un compte d’investissement relatif à la police. Il est entendu que toute somme gardée en dépôt par un assureur ainsi que tout montant d’intérêt sur le dépôt :
+***valeur du fonds d’une police*** Est la valeur du fonds d’une police d’assurance-vie à un moment donné le total des sommes représentant chacune le solde, à ce moment, d’un compte d’investissement relatif à la police. Il est entendu que toute somme gardée en dépôt par un assureur ainsi que tout montant d’intérêt sur le dépôt :
+- **a)** sont compris dans ce total si le montant d’intérêt n’est pas inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition;
+- **b)** sont exclus de ce total si le montant d’intérêt est inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition. (*fund value of a policy*)
 
-- **a)
-** sont compris dans ce total si le montant d’intérêt n’est pas inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition;
-- **b)
-** sont exclus de ce total si le montant d’intérêt est inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition.
-
-***valeur du fonds d’une protection*** Est la valeur du fonds d’une protection d’une police d’assurance-vie à un moment donné le total des sommes représentant chacune le solde, à ce moment, d’un compte d’investissement relatif à la police qui réduit le montant net à risque qui entre dans le calcul des frais d’assurance de la protection pendant la période sur laquelle ces frais sont engagés ou le seraient s’ils devaient s’appliquer jusqu’à la résiliation de la protection.
-
+***valeur du fonds d’une protection*** Est la valeur du fonds d’une protection d’une police d’assurance-vie à un moment donné le total des sommes représentant chacune le solde, à ce moment, d’un compte d’investissement relatif à la police qui réduit le montant net à risque qui entre dans le calcul des frais d’assurance de la protection pendant la période sur laquelle ces frais sont engagés ou le seraient s’ils devaient s’appliquer jusqu’à la résiliation de la protection. (*fund value of a coverage*)
 
 - **(4)** Pour l’application de l’alinéa (1)c) dans le cadre de l’article 307 relativement à une police d’assurance-vie (sauf un contrat de rente) établie après 2016, les règles ci-après s’appliquent :
-	- **a)
-** les taux ci-après servent au calcul de la valeur actualisée :
+	- **a)** les taux ci-après servent au calcul de la valeur actualisée :
 		- **(i)** un taux d’intérêt annuel de 3,5 %,
 		- **(ii)** les taux de mortalité;
-	- **b)
-** pour déterminer les taux de mortalité qui s’appliquent à une vie assurée en vertu d’une protection offerte dans le cadre de la police :
+	- **b)** pour déterminer les taux de mortalité qui s’appliquent à une vie assurée en vertu d’une protection offerte dans le cadre de la police :
 		- **(i)** si la protection est établie sur une seule tête :
 			- **(A)** l’âge à utiliser est celui de la vie assurée à la date d’établissement de la protection ou celui qui est atteint à l’anniversaire de la vie assurée et qui est le plus près de la date d’établissement de la protection, selon la méthode utilisée par l’assureur ayant établi la police pour déterminer les taux de prime ou de frais d’assurance relatifs à la vie assurée,
 			- **(B)** si l’assureur ayant établi la police a établi que la vie assurée présentait un risque normal à la date d’établissement de la protection, les tables de mortalité à utiliser sont celles intitulées Proposed CIA Mortality Tables, 1986-1992 et publiées dans la note intitulée May 17, 1995 Canadian Institute of Actuaries Memorandum de l’Institut canadien des actuaires, dont la portée a été extrapolée des taux de mortalité applicables pour le groupe d’âge des 81 à 90 ans selon la méthodologie utilisée par l’Institut canadien des actuaires pour établir des taux de mortalité précis pour le groupe d’âge des 71 à 80 ans et qui s’appliquent à un particulier qui présente les mêmes caractéristiques pertinentes que la vie assurée,
@@ -6699,26 +6705,23 @@ où :
 				- **(I)** 1 ou, s’il est moins élevé, le résultat de la multiplication du taux attribué à la vie par l’assureur par les taux de mortalité qui seraient déterminés selon la division (B) si la vie assurée ne présentait pas de risque aggravé,
 				- **(II)** les taux de mortalité qui seraient déterminés selon la division (B) si la vie assurée présentait un risque normal et que l’âge de l’assuré avait été l’âge utilisé par l’assureur afin de déterminer les primes ou frais d’assurance relatifs à la protection,
 		- **(ii)** si la protection est établie sur plusieurs têtes conjointement, les taux de mortalité à utiliser sont ceux qui sont obtenus lorsque la méthodologie que l’assureur ayant établi la police utilise pour estimer les taux de mortalité des vies assurées conjointement en vue de déterminer les taux de prime ou de frais d’assurance relatifs à la protection est appliquée aux tables de mortalité intitulées Proposed CIA Mortality Tables, 1986-1992 et publiées dans la note intitulée May 17, 1995 Canadian Institute of Actuaries Memorandum dont la portée a été extrapolée des taux de mortalité particuliers applicables pour le groupe d’âge des 81 à 90 ans qui sont établis au moyen de la méthodologie utilisée par l’Institut canadien des actuaires pour déterminer les taux de mortalités applicables pour le groupe d’âge des 71 à 80 ans;
-	- **c)
-** pour déterminer la provision pour primes nettes relative à la police, la valeur actualisée des frais d’assurance ou primes nettes futurs est calculée comme si des primes ou frais d’assurance à payer à l’un des anniversaires de la police étaient payables le lendemain de cet anniversaire.
+	- **c)** pour déterminer la provision pour primes nettes relative à la police, la valeur actualisée des frais d’assurance ou primes nettes futurs est calculée comme si des primes ou frais d’assurance à payer à l’un des anniversaires de la police étaient payables le lendemain de cet anniversaire.
 
 - **(5)** Pour l’application de l’alinéa (1)c) dans le cadre du paragraphe 211.1(3) de la Loi relativement à une police d’assurance-vie (sauf un contrat de rente), les règles ci-après s’appliquent :
-	- **a)
-** si la police est établie après 2016 :
+	- **a)** si la police est établie après 2016 :
 		- **(i)** les taux d’intérêt, de mortalité et de déchéance visés au paragraphe 1403(1) entrent dans le calcul des valeurs actualisées et sont déterminés comme si, à la fois :
 			- **(A)** les paragraphes 1403(2) à (8) ne s’appliquaient pas,
 			- **(B)** le passage « primes de la police » à l’alinéa 1403(1)e) était remplacé par « primes ou frais d’assurance relatifs à une protection »,
 		- **(ii)** le sous-alinéa (1)c)(i) s’applique compte non tenu du passage « déterminée compte non tenu des frais de rachat »,
 		- **(iii)** pour déterminer la provision pour primes nettes relative à la police, la valeur actualisée des frais d’assurance ou primes nettes futurs est calculée comme si des primes ou frais d’assurance à payer à un anniversaire de la police étaient à payer le lendemain de cet anniversaire;
-	- **b)
-** si la police est établie avant 2017 et que, à un moment donné après 2016, une assurance-vie à laquelle un barème particulier de taux de prime ou de frais d’assurance s’applique et qui est souscrite en vertu de la police sur une seule tête ou sur plusieurs têtes conjointement est convertie en un autre type d’assurance-vie aux termes de la police ou est ajoutée à la police, cette assurance est réputée être, sauf si la conversion n’est due qu’à un changement des taux de primes ou des frais d’assurance, une police d’assurance-vie distincte, sauf si un des faits ci-après s’avère :
+	- **b)** si la police est établie avant 2017 et que, à un moment donné après 2016, une assurance-vie – relativement à laquelle un barème particulier de taux de prime ou de frais d’assurance s’applique et qui est souscrite en vertu de la police sur une seule tête ou sur plusieurs têtes conjointement – est ajoutée à la police ou est une assurance temporaire qui est convertie en une assurance-vie permanente dans le cadre de la police, cette assurance est réputée être une police d’assurance-vie distincte établie à ce moment, sauf si un des faits ci-après s’avère :
 		- **(i)** l’assurance fait partie d’un avenant qui est réputé, en vertu du paragraphe 211(2) de la Loi, être une police d’assurance-vie distincte,
 		- **(ii)** si l’assurance est ajoutée à la police :
 			- **(A)** l’assurance est médicalement souscrite, selon le cas :
 				- **(I)** dans le but d’obtenir une réduction des primes ou frais d’assurance aux termes de la police,
 				- **(II)** avant 2017,
 			- **(B)** l’assurance est payée au moyen des participations de police ou est rétablie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-618, art. 3; DORS/84-948, art. 8; DORS/86-1136, art. 2; DORS/90-661, art. 3; DORS/92-681, art. 3(F); DORS/94-415, art. 5; DORS/94-686, art. 13(F); DORS/99-269, art. 4; DORS/2002-123, art. 1; 2009, ch. 2, art. 99; 2014, ch. 39, art. 86.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-618, art. 3; DORS/84-948, art. 8; DORS/86-1136, art. 2; DORS/90-661, art. 3; DORS/92-681, art. 3(F); DORS/94-415, art. 5; DORS/94-686, art. 13(F); DORS/99-269, art. 4; DORS/2002-123, art. 1; 2009, ch. 2, art. 99; 2014, ch. 39, art. 86; 2017, ch. 33, art. 93.
 
 
 
@@ -9223,16 +9226,16 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 
 **3500** Dans la présente partie,
 
-***autre bénéficiaire d’un don*** Personne, visée aux alinéas a) ou d) de la définition de ***donataire reconnu*** au paragraphe 149.1(1), à l’alinéa 110.1(1)c) ou à l’alinéa 110.1(3)b) de la Loi, à qui un contribuable fait un don. (*other recipient of a gift*)
+***autre bénéficiaire d’un don*** Personne, visée à l’alinéa 110.1(1)c), au sous-alinéa 110.1(2.1)a)(ii) ou aux alinéas a) ou d) de la définition de donataire reconnu au paragraphe 149.1(1) de la Loi, à qui un contribuable fait un don; (*other recipient of a gift*)
 
-***fiducie de bienfaisance d’employés*** s’entend d’un organisme de bienfaisance enregistré qui est constitué aux fins de verser à d’autres organismes de bienfaisance enregistrés les dons qu’un employeur recueille de ses employés; (*employees’ charity trust*)
+***fiducie de bienfaisance d’employés*** s’entend d’un organisme de bienfaisance enregistré qui est constitué aux fins de verser à d’autres organismes de bienfaisance enregistrés les dons qu’un employeur recueille de ses employés; (*employees’ charity trust*)
 
-***formule de reçu officiel*** désigne toute formule imprimée d’une organisation enregistrée ou d’un autre bénéficiaire d’un don qui est susceptible d’être remplie ou qui était originairement destinée à être remplie, comme reçu officiel de l’organisation ou du bénéficiaire; (*official receipt form*)
+***formule de reçu officiel*** désigne toute formule imprimée d’une organisation enregistrée ou d’un autre bénéficiaire d’un don qui est susceptible d’être remplie ou qui était originairement destinée à être remplie, comme reçu officiel de l’organisation ou du bénéficiaire; (*official receipt form*)
 
-***organisation enregistrée*** s’entend d’un organisme de bienfaisance enregistré, d’une association canadienne enregistrée de sport amateur ou d’un organisme enregistré de services nationaux dans le domaine des arts; (*registered organization*)
+***organisation enregistrée*** s’entend d’un organisme de bienfaisance enregistré, d’une association canadienne enregistrée de sport amateur ou d’un organisme enregistré de services nationaux dans le domaine des arts; (*registered organization*)
 
-***reçu officiel*** s’entend d’un reçu remis pour l’application des paragraphes 110.1(2) ou (3) ou 118.1(2), (6) ou (7) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502. (*official receipt*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 2; DORS/86-488, art. 5; DORS/88-165, art. 18; DORS/94-140, art. 8; DORS/94-686, art. 51(F); 2011, ch. 24, art. 81.
+***reçu officiel*** Reçu remis pour l’application des alinéas 110.1(2)a) ou 118.1(2)a) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502. (*official receipt*)
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 2; DORS/86-488, art. 5; DORS/88-165, art. 18; DORS/94-140, art. 8; DORS/94-686, art. 51(F); 2011, ch. 24, art. 81; 2017, ch. 33, art. 94.
 
 
 
@@ -10173,14 +10176,14 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 
 **4900** 
 
-- **(1)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi, de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi, de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 205(1) de la Loi et de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 207.01(1) de la Loi, chacun des placements ci-après constitue un placement admissible pour une fiducie de régime à une date donnée si, à cette date, il s’agit :
+- **(1)** Pour l’application de l’alinéa d) de la définition de placement admissible au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de placement admissible au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de placement admissible au paragraphe 146.3(1) de la Loi, de l’alinéa d) de la définition de placement admissible au paragraphe 146.4(1) de la Loi, de l’alinéa h) de la définition de placement admissible à l’article 204 de la Loi et de l’alinéa c) de la définition de placement admissible au paragraphe 207.01(1) de la Loi, chacun des placements ci-après constitue un placement admissible pour une fiducie de régime à une date donnée si, à cette date, il s’agit :
 	- **a)** d’un intérêt dans une fiducie ou d’une action du capital-actions d’une société qui constitue un placement enregistré pour la fiducie de régime au cours de l’année civile pendant laquelle tombe la date donnée ou de l’année immédiatement antérieure;
 	- **b)** d’une action du capital-actions d’une société publique, sauf une société de placement hypothécaire;
 	- **c)** d’une action du capital-actions d’une société de placement hypothécaire qui, à aucun moment de l’année civile qui comprend la date donnée, ne détient parmi ses biens une dette — sous forme d’hypothèque ou toute autre forme — d’une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime;
 	- **c.1)** de quelque obligation, billet ou titre semblable d’une société publique, sauf une société de placement hypothécaire;
 	- **d)** d’une unité d’une fiducie de fonds communs de placement;
 	- **d.1)** [Abrogé, 2007, ch. 29, art. 32]
-	- **d.2)** d’une unité d’une fiducie, dans le cas où, à la fois :
+	- **d.2)** d’une unité d’une fiducie, dans le cas où, à la fois :
 		- **(i)** la fiducie serait une fiducie de fonds commun de placement si la partie XLVIII s’appliquait compte non tenu de l’alinéa 4801a),
 		- **(ii)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale;
 	- **e)** d’une option, d’un droit de souscription ou d’un droit semblable (appelés « titre » au présent alinéa) émis par une personne ou une société de personnes (appelées « émetteur » au présent alinéa) qui confère au détenteur le droit soit d’acquérir, immédiatement ou ultérieurement, des biens qui constituent chacun un placement admissible pour la fiducie de régime, soit de recevoir, en remplacement de la livraison de ces biens, un règlement en espèces si, à la fois :
@@ -10191,7 +10194,7 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 	- **e.01)** [Abrogé, 2007, ch. 29, art. 32]
 	- **e.1)** un dépôt auprès d’une société d’entraide économique ou une action de son capital-actions;
 	- **f)** d’une action d’une caisse de crédit ou d’un intérêt dans une caisse de crédit;
-	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
+	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
 		- **(i)** que la fiducie de régime possède une action ou un titre de la caisse de crédit, ou a un dépôt auprès de la caisse de crédit, ou
 		- **(ii)** qu’un placement enregistré possède une action ou un titre de la caisse de crédit, ou un dépôt auprès de la caisse de crédit, si la fiducie de régime a investi dans ce placement enregistré,
 et une caisse de crédit est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
@@ -10205,14 +10208,14 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 			- **(B)** qu’un placement enregistré possède une action ou un titre de la société coopérative si la fiducie de régime a investi dans ce placement enregistré,et une société coopérative est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
 	- **i)** d’une obligation, d’un billet ou d’un titre semblable (appelé dans le présent alinéa le « titre ») d’une société canadienne
 		- **(i)** si le paiement du principal du titre et de l’intérêt sur celui-ci est garanti par une société ou une fiducie de fonds commun de placement dont les actions ou les unités, selon le cas, sont cotées sur une bourse de valeurs désignée située au Canada,
-		- **(ii)** si la société est contrôlée directement ou indirectement par :
+		- **(ii)** si la société est contrôlée directement ou indirectement par :
 			- **(A)** une ou plusieurs sociétés dont les actions sont cotées sur une bourse de valeurs désignée située au Canada,
 			- **(B)** une ou plusieurs fiducies de fonds commun de placement dont les unités sont cotées sur une telle bourse,
 			- **(C)** une ou plusieurs sociétés et fiducies de fonds commun de placement dont les actions ou les unités, selon le cas, sont cotées sur une telle bourse,
 		- **(iii)** si, au moment où le titre est acquis par la fiducie de régime, la société qui a émis le titre est
-			- **(A)** une société dont le capital-actions émis, en circulation et inscrit aux livres est d’au moins 25 000 000 $, ou
-			- **(B)** une société contrôlée par une société décrite à la disposition (A),et dont les obligations, billets ou titres semblables émis et en circulation, représentant ensemble un principal d’au moins 10 000 000 $, sont détenus par au moins 300 personnes différentes et ont été émis par la société au moyen d’une ou de plusieurs offres, à condition que chaque offre ait été accompagnée du dépôt d’un prospectus, d’une déclaration d’enregistrement ou d’un document semblable et, lorsque la loi l’exige, que ce document ait été accepté pour dépôt par une autorité publique au Canada aux termes et en vertu des lois du Canada ou d’une province et qu’il y ait distribution légale au public de ces obligations, billets ou titres semblables conformément à ce document;
-	- **i.1)** d’un titre d’une société canadienne :
+			- **(A)** une société dont le capital-actions émis, en circulation et inscrit aux livres est d’au moins 25 000 000 $, ou
+			- **(B)** une société contrôlée par une société décrite à la disposition (A),et dont les obligations, billets ou titres semblables émis et en circulation, représentant ensemble un principal d’au moins 10 000 000 $, sont détenus par au moins 300 personnes différentes et ont été émis par la société au moyen d’une ou de plusieurs offres, à condition que chaque offre ait été accompagnée du dépôt d’un prospectus, d’une déclaration d’enregistrement ou d’un document semblable et, lorsque la loi l’exige, que ce document ait été accepté pour dépôt par une autorité publique au Canada aux termes et en vertu des lois du Canada ou d’une province et qu’il y ait distribution légale au public de ces obligations, billets ou titres semblables conformément à ce document;
+	- **i.1)** d’un titre d’une société canadienne :
 		- **(i)** d’une part, qui a été émis en conformité avec la loi intitulée The Community Bonds Act, chapitre C-16.1 des Statutes of Saskatchewan, 1990, la Loi sur les obligations de développement rural, chapitre 47 des Lois du Manitoba de 1991-92, la Loi de 1993 sur le développement économique communautaire, chapitre 26 des Lois de l’Ontario de 1993 ou le Programme d’obligations au titre du développement communautaire du Nouveau-Brunswick dans le cadre duquel de l’aide financière est accordée en vertu de la Loi sur le développement économique, chapitre E-1.11 des Lois du Nouveau-Brunswick de 1975,
 		- **(ii)** d’autre part, dont le paiement du principal est garanti par Sa Majesté du chef d’une province;
 	- **i.11)** d’une action du capital-actions d’une société canadienne qui est agréée en vertu de l’article 11 de la loi intitulée Equity Tax Credit Act, chapitre 3 des Statutes of Nova Scotia, 1993, et dont l’agrément n’a pas été retiré en vertu de cette loi;
@@ -10231,7 +10234,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 	- **j.2)** d’un certificat constatant un intérêt indivis ou, pour l’application du droit civil, un droit indivis sur un ou plusieurs biens si, à la fois :
 		- **(i)** la totalité ou la presque totalité de la juste valeur marchande du certificat est attribuable à un bien qui est un titre de créance garanti par l’un des biens ci-après, ou qui est accessoire à un tel titre :
 			- **(A)** une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada,
-			- **(B)** un bien visé aux alinéas a) ou b) de la définition de ***placement admissible*** , à l’article 204 de la Loi, qui a été substitué au bien visé à la division (A) conformément aux modalités du titre de créance,
+			- **(B)** un bien visé aux alinéas a) ou b) de la définition de placement admissible, à l’article 204 de la Loi, qui a été substitué au bien visé à la division (A) conformément aux modalités du titre de créance,
 		- **(ii)** le certificat a, au moment de son acquisition par la fiducie de régime, une cote d’évaluation supérieure attribuée par une agence de notation visée au paragraphe (2),
 		- **(iii)** le certificat est émis par l’émetteur dans le cadre d’une émission de certificats d’au moins 25 000 000 $;
 	- **k) et l)** [Abrogés, 2009, ch. 2, art. 105]
@@ -10240,16 +10243,16 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 	- **p) et p.1)** [Abrogés, 2007, ch. 29, art. 32]
 	- **q)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
 		- **(i)** le revenu imposable de la société est exonéré de l’impôt prévu à la partie I de la Loi par l’effet de l’alinéa 149(1)l) de la Loi,
-		- **(ii)** selon le cas :
-			- **(A)** avant la date donnée et après 1995, la société :
-				- **(I)** a acquis un bien auprès de Sa Majesté du chef du Canada ou d’une province pour une contrepartie totale d’au moins 25 000 000 $,
+		- **(ii)** selon le cas :
+			- **(A)** avant la date donnée et après 1995, la société :
+				- **(I)** a acquis un bien auprès de Sa Majesté du chef du Canada ou d’une province pour une contrepartie totale d’au moins 25 000 000 $,
 				- **(II)** a utilisé ce bien à une fin identique ou semblable à celle à laquelle il était utilisé avant cette acquisition,
 			- **(B)** au moment de l’acquisition du titre de créance par la fiducie de régime, il était raisonnable de s’attendre à ce que la division (A) s’applique au titre dans l’année suivant ce moment;
 	- **r)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
 		- **(i)** le revenu imposable de la société est exonéré de l’impôt prévu à la partie I de la Loi par l’effet de l’alinéa 149(1)l) de la Loi,
-		- **(ii)** l’un ou l’autre des faits suivants se vérifie :
-			- **(A)** le titre de créance est émis par la société dans le cadre d’une émission de titres de créance de la société d’un montant d’au moins 25 000 000 $,
-			- **(B)** au moment de l’acquisition du titre de créance par la fiducie de régime, la société avait émis des titres de créance dans le cadre d’une émission unique d’un montant d’au moins 25 000 000 $;
+		- **(ii)** l’un ou l’autre des faits suivants se vérifie :
+			- **(A)** le titre de créance est émis par la société dans le cadre d’une émission de titres de créance de la société d’un montant d’au moins 25 000 000 $,
+			- **(B)** au moment de l’acquisition du titre de créance par la fiducie de régime, la société avait émis des titres de créance dans le cadre d’une émission unique d’un montant d’au moins 25 000 000 $;
 	- **s)** [Abrogé, 2009, ch. 2, art. 105]
 	- **t)** d’une pièce d’or ou d’argent ayant cours légal qui, à la fois :
 		- **(i)** a un titre minimal de 995 parties par mille, dans le cas de l’or, et de 999 parties par mille, dans le cas de l’argent,
@@ -10269,44 +10272,40 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(ii)** le certificat est acquis par la fiducie de régime directement de l’émetteur ou d’une société déterminée;
 	- **w)** d’un titre appelé *American Depositary Receipt*, à condition que le bien qu’il représente soit inscrit à la cote d’une bourse de valeurs désignée.
 
-- **(2)** Pour l’application de l’alinéa c.1) de la définition de ***placement admissible*** à l’article 204 de la Loi, sont visées les agences de notation suivantes :
+- **(2)** Pour l’application de l’alinéa c.1) de la définition de placement admissible à l’article 204 de la Loi, sont visées les agences de notation suivantes :
 	- **a)** A.M. Best Company, Inc.;
 	- **b)** DBRS Limited;
 	- **c)** Fitch, Inc.;
 	- **d)** Moody’s Investors Service, Inc.;
 	- **e)** Standard & Poor’s Financial Services LLC.
 
-- **(3)** Pour l’application de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi, le contrat conclu avec un fournisseur de rentes autorisé relativement à une rente payable à un employé bénéficiaire d’un régime de participation différée aux bénéfices au plus tard à compter de la fin de l’année dans laquelle il atteint 71 ans, et dont la durée garantie éventuelle ne dépasse pas 15 ans, est un placement admissible pour une fiducie régie par un tel régime ou par un régime dont l’agrément est retiré.
+- **(3)** Pour l’application de l’alinéa h) de la définition de placement admissible à l’article 204 de la Loi, le contrat conclu avec un fournisseur de rentes autorisé relativement à une rente payable à un employé bénéficiaire d’un régime de participation différée aux bénéfices au plus tard à compter de la fin de l’année dans laquelle il atteint 71 ans, et dont la durée garantie éventuelle ne dépasse pas 15 ans, est un placement admissible pour une fiducie régie par un tel régime ou par un régime dont l’agrément est retiré.
 
 - **(4)** [Abrogé, DORS/2001-216, art. 6]
 
-- **(5)** Pour l’application de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 205(1) de la Loi et de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 207.01(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne-études, un régime enregistré d’épargne-invalidité ou un compte d’épargne libre d’impôt à un moment donné s’il est, à ce moment, une participation dans une fiducie ou une action du capital-actions d’une société qui était un placement enregistré pour une fiducie régie par un régime enregistré d’épargne-retraite au cours de l’année civile qui comprend ce moment ou au cours de l’année précédente.
+- **(5)** Pour l’application de l’alinéa e) de la définition de placement admissible au paragraphe 146.1(1) de la Loi, de l’alinéa d) de la définition de placement admissible au paragraphe 146.4(1) de la Loi et de l’alinéa c) de la définition de placement admissible au paragraphe 207.01(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne-études, un régime enregistré d’épargne-invalidité ou un compte d’épargne libre d’impôt à un moment donné s’il est, à ce moment, une participation dans une fiducie ou une action du capital-actions d’une société qui était un placement enregistré pour une fiducie régie par un régime enregistré d’épargne-retraite au cours de l’année civile qui comprend ce moment ou au cours de l’année précédente.
 
-- **(6)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi et de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi, un bien constitue, sous réserve des paragraphes (8) et (9), un placement admissible pour une fiducie régie par un régime enregistré d’épargne-retraite, un régime enregistré d’épargne-études ou un fonds enregistré de revenu de retraite à un moment donné si, à ce moment, il n’est pas un placement interdit pour la fiducie et est :
-	- **a)** une action du capital-actions d’une société admissible, au sens du paragraphe 5100(1), sauf si, dans le cas d’un régime enregistré d’épargne-études, un bénéficiaire ou un souscripteur du régime est un actionnaire désigné de la société;
+- **(6)** Sous réserve du paragraphe (9), pour l’application de l’alinéa d) de la définition de placement admissible au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de placement admissible au paragraphe 146.1(1) de la Loi et de l’alinéa c) de la définition de placement admissible au paragraphe 146.3(1) de la Loi, un bien constitue un placement admissible pour une fiducie régie par un régime enregistré d’épargne-retraite, un régime enregistré d’épargne-études ou un fonds enregistré de revenu de retraite à un moment donné si, à ce moment, il n’est pas un placement interdit pour la fiducie et est :
+	- **a)** une action du capital-actions d’une société admissible (au sens du paragraphe 5100(1));
 	- **b)** un intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises;
 	- **c)** une participation dans une fiducie de placement dans des petites entreprises.
 
-- **(7)** Pour l’application de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi et sous réserve du paragraphe (11), un bien est un placement admissible pour une fiducie régie, à un moment donné, par un régime de participation différée aux bénéfices ou par un régime dont l’agrément est retiré si, à ce moment, le bien est :
+- **(7)** Pour l’application de l’alinéa h) de la définition de placement admissible à l’article 204 de la Loi et sous réserve du paragraphe (11), un bien est un placement admissible pour une fiducie régie, à un moment donné, par un régime de participation différée aux bénéfices ou par un régime dont l’agrément est retiré si, à ce moment, le bien est :
 	- **a)** un intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises;
 	- **b)** une participation dans une fiducie de placement dans des petites entreprises.
 
-- **(8)** Pour l’application du paragraphe (6), un bien qui est détenu par une fiducie régie par un régime enregistré d’épargne-études cesse d’être un placement admissible pour la fiducie immédiatement avant la réception d’une somme si, à la fois :
-	- **a)** le bien est soit une action visée à l’alinéa (6)a), soit un intérêt dans une société de personnes en commandite de placement dans des petites entreprises qui détient un titre de petite entreprise, soit une participation dans une fiducie de placement dans des petites entreprises qui détient un titre de petite entreprise;
-	- **b)** une personne qui est bénéficiaire ou souscripteur du régime fournit des services à l’émetteur de l’action ou du titre de petite entreprise ou à une personne qui lui est liée, ou au nom de cet émetteur ou de cette personne;
-	- **c)** la somme est reçue relativement à l’action ou au titre de petite entreprise;
-	- **d)** il est raisonnable de considérer, compte tenu notamment des conditions de l’action ou du titre de petite entreprise ou des modalités d’un accord connexe et du taux d’intérêt ou du dividende versé sur l’action ou le titre, que la somme est versée au titre ou en règlement total ou partiel des services.
+- **(8)** [Abrogé, 2017, ch. 33, art. 95]
 
-- **(9)** Pour l’application du paragraphe (6), lorsque les faits suivants se vérifient :
-	- **a)** une fiducie régie par un régime enregistré d’épargne-retraite, un régime enregistré d’épargne-études ou un fonds enregistré de revenu de retraite détient :
+- **(9)** Pour l’application du paragraphe (6), lorsque les faits suivants se vérifient :
+	- **a)** une fiducie régie par un régime enregistré d’épargne-retraite, un régime enregistré d’épargne-études ou un fonds enregistré de revenu de retraite détient :
 		- **(i)** soit un intérêt dans une société de personnes en commandite de placement dans des petites entreprises,
 		- **(ii)** soit une participation dans une fiducie de placement dans des petites entreprises,
 qui détient un titre de petite entreprise (appelé « titre déterminé » dans le présent paragraphe) d’une société;
 	- **b)** une personne qui est un rentier, un bénéficiaire ou un souscripteur en vertu du régime ou du fonds est un actionnaire désigné de la société,
-l’intérêt dans la société de personnes ou la participation dans la fiducie n’est pas un placement admissible pour la fiducie régie par le régime ou fonds, sauf :
+l’intérêt dans la société de personnes ou la participation dans la fiducie n’est pas un placement admissible pour la fiducie régie par le régime ou fonds, sauf :
 	- **c)** si le titre déterminé est une action du capital-actions d’une société admissible;
 	- **d)** si la société de personnes ou la fiducie n’est pas en droit de défalquer, directement ou indirectement, le titre déterminé de l’intérêt ou de la participation, ni de céder ou d’affecter autrement, directement ou indirectement, le titre déterminé contre l’intérêt ou la participation;
-	- **e)** si aucune personne n’est liée de quelque façon que ce soit, avec ou sans réserve, par un engagement dont l’intention ou l’effet est :
+	- **e)** si aucune personne n’est liée de quelque façon que ce soit, avec ou sans réserve, par un engagement dont l’intention ou l’effet est :
 		- **(i)** soit de limiter une perte que le régime ou fonds pourrait subir du fait qu’il est propriétaire de l’intérêt ou de la participation, qu’il le détient ou qu’il en dispose,
 		- **(ii)** soit de faire en sorte que le régime ou fonds tire des gains du fait qu’il est propriétaire de l’intérêt ou de la participation, qu’il le détient ou qu’il en dispose;
 	- **f)** si, dans le cas d’une société de personnes, il y a plus de 10 commanditaires et si aucun commanditaire ou groupe de commanditaires qui ont entre eux un lien de dépendance ne détient plus de 10 pour cent des unités de la société de personnes; et
@@ -10314,43 +10313,26 @@ l’intérêt dans la société de personnes ou la participation dans la fiducie
 
 - **(10)** [Abrogé, 2011, ch. 24, art. 84]
 
-- **(11)** Pour l’application du paragraphe (7) :
-	- **a)** si une fiducie régie par un régime de participation différée aux bénéfices ou régime dont l’agrément est retiré détient :
+- **(11)** Pour l’application du paragraphe (7) :
+	- **a)** si une fiducie régie par un régime de participation différée aux bénéfices ou régime dont l’agrément est retiré détient :
 		- **(i)** soit un intérêt dans une société de personnes en commandite de placement dans des petites entreprises,
 		- **(ii)** soit une participation dans une fiducie de placement dans des petites entreprises,
 qui détient un titre de petite entreprise d’une société;
 	- **b)** si la société ou une société liée à celle-ci a fait des paiements en fiducie à un fiduciaire en vertu du régime de participation différée aux bénéfices ou régime dont l’agrément est retiré au profit des bénéficiaires de la fiducie; et
-	- **c)** si le titre de petite entreprise n’est pas une action visée à l’alinéa e) de la définition de ***placement admissible*** à l’article 204 de la Loi;
+	- **c)** si le titre de petite entreprise n’est pas une action visée à l’alinéa e) de la définition de placement admissible à l’article 204 de la Loi;
 la participation ou l’intérêt visé aux sous-alinéas a)(i) ou (ii) est réputé ne pas être un placement admissible pour la fiducie visée à l’alinéa a).
 
-- **(12)** Pour l’application de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne-études si, à la fois :
-	- **a)** au moment où il a été acquis par la fiducie, le bien était :
-		- **(i)** soit une action du capital-actions d’une société déterminée exploitant une petite entreprise,
-		- **(ii)** soit une action du capital-actions d’une société à capital de risque visée à l’un des articles 6700 à 6700.2,
-		- **(iii)** soit une part admissible quant à une coopérative déterminée et au régime;
-	- **b)** immédiatement après ce moment, aucun des bénéficiaires ou souscripteurs du régime n’était un actionnaire rattaché de la société.
+- **(12) et (13)** [Abrogés, 2017, ch. 33, art. 95]
 
-- **(13)** Malgré le paragraphe (12), l’action qui est par ailleurs un placement admissible pour l’application de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi par le seul effet du paragraphe (12) cesse d’être un placement admissible pour une fiducie régie par un régime enregistré d’épargne-études si les conditions ci-après sont réunies :
-	- **a)** l’action est détenue par la fiducie;
-	- **b)** un particulier :
-		- **(i)** soit fournit des services à l’émetteur de l’action ou à une personne qui lui est liée, ou pour leur compte,
-		- **(ii)** soit acquiert des marchandises de l’émetteur de l’action ou d’une personne qui lui est liée,
-		- **(iii)** soit reçoit des services de l’émetteur de l’action ou d’une personne qui lui est liée;
-	- **c)** la fiducie reçoit un montant relativement à l’action;
-	- **d)** compte tenu des conventions concernant l’action, des dividendes versés sur l’action et des circonstances, y compris les caractéristiques de l’action, il est raisonnable de considérer le montant comme étant :
-		- **(i)** soit un montant au titre ou en paiement intégral ou partiel des services fournis à l’émetteur ou à la personne liée, ou pour leur compte,
-		- **(ii)** soit un montant relatif à l’acquisition des marchandises de l’émetteur ou de la personne liée, ou aux services fournis par ceux-ci.
-L’action cesse définitivement d’être un tel placement pour la fiducie immédiatement avant la réception du montant.
-
-- **(14)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi et de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 207.01(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un CELI, un FERR ou un REER à un moment donné si, au moment où il a été acquis par la fiducie, le bien :
+- **(14)** Pour l’application de l’alinéa d) de la définition de placement admissible au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de placement admissible au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de placement admissible au paragraphe 146.3(1) de la Loi et de l’alinéa c) de la définition de placement admissible au paragraphe 207.01(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un CELI, un FERR, un REEE ou un REER à un moment donné si, au moment où il a été acquis par la fiducie, le bien :
 	- **a)** était, selon le cas :
 		- **(i)** une action du capital-actions d’une société déterminée exploitant une petite entreprise,
 		- **(ii)** une action du capital-actions d’une société à capital de risque visée à l’un des articles 6700 à 6700.2,
-		- **(iii)** une part admissible quant à une coopérative déterminée et au CELI, au FERR ou au REER;
+		- **(iii)** une part admissible quant à une coopérative déterminée et au CELI, au FERR, au REER ou au REEE;
 	- **b)** n’était pas un placement interdit pour la fiducie.
 
-- **(15)** Pour l’application de la définition de ***placement interdit*** au paragraphe 207.01(1) de la Loi, tout bien qui est un placement admissible pour une fiducie régie par un FERR, un REER ou un CELI par le seul effet du paragraphe (14) est un bien visé pour la fiducie à un moment donné s’il n’est pas visé à l’un des sous-alinéas (14)a)(i) à (iii) à ce moment.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89 et 126; DORS/2007-212, art. 2; 2009, ch. 2, art. 105; 2011, ch. 24, art. 84; DORS/2011-188, art. 20; DORS/2012-270, art. 1; 2013, ch. 40, art. 108.
+- **(15)** Pour l’application de la définition de placement interdit au paragraphe 207.01(1) de la Loi, tout bien qui est un placement admissible pour une fiducie régie par un CELI, un FERR, un REER ou un REEE par le seul effet du paragraphe (14) est un bien visé pour la fiducie à un moment donné s’il n’est pas visé à l’un des sous-alinéas (14)a)(i) à (iii) à ce moment.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89 et 126; DORS/2007-212, art. 2; 2009, ch. 2, art. 105; 2011, ch. 24, art. 84; DORS/2011-188, art. 20; DORS/2012-270, art. 1; 2013, ch. 40, art. 108; 2017, ch. 33, art. 95.
 
 
 
@@ -11149,7 +11131,7 @@ sur
 
 
 
-**5600** Pour l’application de l’article 86.1 de la Loi, les distributions d’actions ci-après sont visées :
+**5600** Pour l’application de l’article 86.1 de la Loi, les distributions d’actions ci-après sont visées :
 - **a)** la distribution effectuée par Active Biotech AB, le 10 mai 1999, d’actions de Wilhelm Sonesson AB;
 - **b)** la distribution effectuée par Orckit Communications Ltd., le 30 juin 2000, d’actions de Tioga Technologies Ltd;
 - **c)** la distribution effectuée par Electrolux AB, le 12 juin 2006, d’actions de Husqvarna AB;
@@ -11158,8 +11140,9 @@ sur
 - **f)** la distribution effectuée par Telecom Corporation of New Zealand Limited à ses actionnaires ordinaires, le 30 novembre 2011, d’actions ordinaires de Chorus Limited;
 - **g)** la distribution effectuée par Tyco International Ltd. of Switzerland à ses actionnaires ordinaires, le 28 septembre 2012, d’actions ordinaires de Pentair Ltd. of Switzerland;
 - **h)** la distribution effectuée par Siemens AG à ses actionnaires ordinaires, le 5 juillet 2013, d’actions ordinaires de OSRAM Licht AG;
-- **i)** la distribution effectuée par Brambles Limited à ses actionnaires ordinaires, le 18 décembre 2013, d’actions ordinaires de Recall Holdings Limited.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2004-82, art. 2; DORS/2011-188, art. 22; 2013, ch. 40, art. 111; DORS/2015-170, art. 3.
+- **i)** la distribution effectuée par Brambles Limited à ses actionnaires ordinaires, le 18 décembre 2013, d’actions ordinaires de Recall Holdings Limited;
+- **j)** la distribution effectuée par BHP Billiton Limited à ses actionnaires ordinaires, le 24 mai 2015, d’actions ordinaires de South32 Limited.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2004-82, art. 2; DORS/2011-188, art. 22; 2013, ch. 40, art. 111; DORS/2015-170, art. 3; 2017, ch. 33, art. 96.
 
 
 
@@ -11886,34 +11869,34 @@ par rapport
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***déficit exonéré*** Quant à une société étrangère affiliée d’une société à l’égard de la société à un moment donné, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+***déficit exonéré*** Quant à une société étrangère affiliée d’une société à l’égard de la société à un moment donné, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
 - **a)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vi) de l’élément B de la formule figurant à la définition de ***surplus exonéré*** au présent paragraphe;
-- **b)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vii) de l’élément A de cette formule. (*exempt deficit*)
+- **b)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vii) de l’élément A de cette formule. (*exempt deficit*)
 
-***déficit hybride*** Le déficit hybride d’une société étrangère affiliée d’une société, relativement à celle-ci à un moment donné, correspond à l’excédent du total visé à l’alinéa a) sur celui visé à l’alinéa b) :
+***déficit hybride*** Le déficit hybride d’une société étrangère affiliée d’une société, relativement à celle-ci à un moment donné, correspond à l’excédent du total visé à l’alinéa a) sur celui visé à l’alinéa b) :
 - **a)** le total des sommes dont chacune représente une somme déterminée à ce moment selon l’un des sous-alinéas (i) à (vii) de l’élément B de la formule figurant à la définition de ***surplus hybride***;
-- **b)** le total des sommes dont chacune représente une somme déterminée à ce moment selon l’un des sous-alinéas (i) à (v) de l’élément A de cette formule. (*hybrid deficit*)
+- **b)** le total des sommes dont chacune représente une somme déterminée à ce moment selon l’un des sous-alinéas (i) à (v) de l’élément A de cette formule. (*hybrid deficit*)
 
-***déficit imposable*** Quant à une société étrangère affiliée d’une société à l’égard de la société à un moment donné, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+***déficit imposable*** Quant à une société étrangère affiliée d’une société à l’égard de la société à un moment donné, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
 - **a)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (vi) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au présent paragraphe;
-- **b)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (v) de l’élément A de cette formule. (*taxable deficit*)
+- **b)** le total des montants représentant chacun le montant déterminé à ce moment selon l’un des sous-alinéas (i) à (v) de l’élément A de cette formule. (*taxable deficit*)
 
-***dividende global*** Le total des montants représentant chacun le dividende versé à un moment donné sur une action d’une catégorie du capital-actions d’une société étrangère affiliée d’un contribuable résidant au Canada. Toutefois :
+***dividende global*** Le total des montants représentant chacun le dividende versé à un moment donné sur une action d’une catégorie du capital-actions d’une société étrangère affiliée d’un contribuable résidant au Canada. Toutefois :
 - **a)** lorsqu’un dividende est versé simultanément sur des actions de plusieurs catégories du capital-actions d’une société affiliée, le dividende global visé à l’article 5901 qui est versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de l’article 5900, être égal au total des montants représentant chacun le dividende versé à ce moment sur une action du capital-actions de la société affiliée;
 - **b)** lorsqu’un dividende global est réputé par le sous-alinéa 5902(1)a)(ii) avoir été versé simultanément sur des actions de plusieurs catégories du capital-actions d’une société affiliée, le dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de ce sous-alinéa, être égal au total des sommes représentant chacune un dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée;
-- **c)** lorsque des dividendes globaux sont réputés par l’alinéa 5900(2)b) avoir été versés simultanément sur des actions d’une catégorie du capital-actions d’une société affiliée, le dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de l’alinéa 5900(1)d) et des définitions de ***montant intrinsèque d’impôt étranger*** et ***montant intrinsèque d’impôt étranger applicable*** au présent paragraphe, être égal au total des montants représentant chacun un dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée, et l’ensemble de ce dividende global est réputé avoir été prélevé sur le surplus imposable de la société affiliée à l’égard de la société. (*whole dividend*)
+- **c)** lorsque des dividendes globaux sont réputés par l’alinéa 5900(2)b) avoir été versés simultanément sur des actions d’une catégorie du capital-actions d’une société affiliée, le dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée est réputé, pour l’application seulement de l’alinéa 5900(1)d) et des définitions de ***montant intrinsèque d’impôt étranger*** et ***montant intrinsèque d’impôt étranger applicable*** au présent paragraphe, être égal au total des montants représentant chacun un dividende global qui est réputé avoir été versé à ce moment sur les actions d’une catégorie du capital-actions de la société affiliée, et l’ensemble de ce dividende global est réputé avoir été prélevé sur le surplus imposable de la société affiliée à l’égard de la société. (*whole dividend*)
 
-***entreprise exploitée activement*** S’entend au sens du paragraphe 95(1) de la Loi. (*active business*)
+***entreprise exploitée activement*** S’entend au sens du paragraphe 95(1) de la Loi. (*active business*)
 
-***gains*** Quant à une société étrangère affiliée d’un contribuable résidant au Canada, pour une année d’imposition de la société affiliée, gains tirés d’une entreprise exploitée activement :
-- **a)** dans le cas de son entreprise exploitée activement dans un pays :
+***gains*** Quant à une société étrangère affiliée d’un contribuable résidant au Canada, pour une année d’imposition de la société affiliée, gains tirés d’une entreprise exploitée activement :
+- **a)** dans le cas de son entreprise exploitée activement dans un pays :
 	- **(i)** le revenu ou le bénéfice tiré de l’entreprise pour l’année, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9) et calculé selon la législation concernant l’impôt sur le revenu du pays de résidence de la société affiliée, dans le cas où celle-ci est tenue par cette législation de calculer ce revenu ou ce bénéfice,
 	- **(ii)** le revenu ou le bénéfice tiré de l’entreprise pour l’année, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9) et calculé selon la législation concernant l’impôt sur le revenu du pays où l’entreprise est exploitée, dans le cas, non prévu au sous-alinéa (i), où la société affiliée est tenue par cette législation de calculer ce revenu ou ce bénéfice,
 	- **(iii)** dans les autres cas, le montant qui représenterait le revenu tiré de l’entreprise pour l’année en vertu de la partie I de la Loi si la société affiliée résidait au Canada, l’entreprise était exploitée au Canada et s’il n’était pas tenu compte des paragraphes 18(4), 80(3) à (12), (15) et (17) et 80.01(5) à (11) ni des articles 80.02 à 80.04 de la Loi;
 pour l’application de la présente partie, dans la mesure où ils ne peuvent être attribués à un établissement stable situé dans un pays en particulier, les gains d’une société affiliée tirés de son entreprise exploitée activement sont attribués à l’établissement stable situé dans son pays de résidence et, si elle réside dans plus d’un pays, à l’établissement stable situé dans le pays qu’il est raisonnable de considérer comme son principal lieu de résidence;
-- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de revenu qui serait à inclure, en application de l’alinéa 95(2)a) ou du paragraphe 95(2.44) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si ce revenu était calculé compte tenu des règles énoncées au paragraphe (2.03). (*earnings*)
+- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de revenu qui serait à inclure, en application de l’alinéa 95(2)a) ou du paragraphe 95(2.44) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si ce revenu était calculé compte tenu des règles énoncées au paragraphe (2.03). (*earnings*)
 
-***gains exonérés*** En ce qui concerne une société étrangère affiliée d’une société donnée pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente l’une des sommes ci-après, moins la partie de l’impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur les gains visés à l’alinéa c) ou au sous-alinéa d)(ii) :
+***gains exonérés*** En ce qui concerne une société étrangère affiliée d’une société donnée pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente l’une des sommes ci-après, moins la partie de l’impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur les gains visés à l’alinéa c) ou au sous-alinéa d)(ii) :
 - **a)** l’excédent des gains en capital de la société affiliée pour l’année (sauf ceux qui entrent dans le calcul du montant, à un moment de l’année, de son surplus hybride ou déficit hybride relativement à la société donnée) sur le total des sommes suivantes :
 	- **(i)** le montant des gains en capital imposables pour l’année visé à l’élément B de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi,
 	- **(ii)** le montant des gains en capital imposables pour l’année visé aux sous-alinéas c)(i), e)(i) et f)(iv) de la définition de ***gains nets***,
@@ -11925,7 +11908,7 @@ A – B
 où :
 - **A** représente le total des sommes représentant chacune une somme donnée qui serait incluse, relativement à une entreprise donnée de la société affiliée, par l’effet des alinéas c), c.1) ou c.2) de la définition de ***compte de dividendes en capital*** au paragraphe 89(1) de la Loi, dans le calcul du compte de dividendes en capital de la société affiliée à la fin de l’année si, à la fois :
 - **(i)** la société affiliée était la société visée à cette définition,
-- **(ii)** la mention « entreprise », aux alinéas c.1) et c.2) de cette définition ainsi qu’à l’alinéa c) de cette définition dans sa version applicable aux années d’imposition ayant pris fin avant le 28 février 2000, valait mention d’une entreprise qui :
+- **(ii)** la mention « entreprise », aux alinéas c.1) et c.2) de cette définition ainsi qu’à l’alinéa c) de cette définition dans sa version applicable aux années d’imposition ayant pris fin avant le 28 février 2000, valait mention d’une entreprise qui :
 - **(A)** n’est pas une entreprise exploitée activement, au sens du paragraphe 95(1) de la Loi,
 - **(B)** est une entreprise exploitée activement, au sens du même paragraphe, dont la société affiliée tire pour l’année des gains qui sont déterminés selon le sous-alinéa a)(iii) de la définition de ***gains***,
 - **(iii)** la somme donnée ne comprenait pas de somme qu’il est raisonnable de considérer comme s’étant accumulée pendant qu’aucune des personnes ou sociétés de personnes qui exploitaient l’entreprise donnée n’était une personne ou une société de personnes déterminée, au sens de l’article 95 de la Loi, relativement à la société,
@@ -11934,7 +11917,7 @@ où :
 - **c)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, les gains déterminés selon l’alinéa b) de la définition de ***gains*** au présent paragraphe, dans la mesure où ils n’ont pas été inclus par l’effet de l’alinéa b) ou déduits dans le calcul d’un montant visé au sous-alinéa b)(i) de la définition de ***perte exonérée*** au présent paragraphe;
 - **d)** s’il s’agit d’une année d’imposition de la société affiliée se terminant après 1975 et que celle-ci réside tout au long de l’année dans un pays désigné :
 	- **(i)** soit les gains nets de la société affiliée pour l’année provenant de son entreprise exploitée activement au Canada ou dans un pays désigné,
-	- **(ii)** soit les gains de la société affiliée (appelée « société affiliée donnée » au présent sous-alinéa) pour l’année provenant d’une entreprise exploitée activement, dans la mesure où ils découlent de l’une des sommes suivantes :
+	- **(ii)** soit les gains de la société affiliée (appelée « société affiliée donnée » au présent sous-alinéa) pour l’année provenant d’une entreprise exploitée activement, dans la mesure où ils découlent de l’une des sommes suivantes :
 		- **(A)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(i) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement et qui :
 			- **(I)** s’il était gagné par l’autre société étrangère affiliée visée aux subdivisions 95(2)a)(i)(A)(I) ou (IV) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette société affiliée pour une année d’imposition,
 			- **(II)** s’il était gagné par la compagnie d’assurance-vie visée à la subdivision 95(2)a)(i)(A)(II) de la Loi et fondé sur les suppositions énoncées à la subdivision 95(2)a)(i)(B)(II) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette compagnie pour une année d’imposition,
@@ -11945,12 +11928,12 @@ où :
 		- **(E)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(D) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement dans le cas où, à la fois :
 			- **(I)** les deuxième et troisième sociétés affiliées visées à la subdivision 95(2)a)(ii)(D)(II) de la Loi résident chacune dans un pays désigné tout au long de leur année pertinente, au sens de cette subdivision,
 			- **(II)** le revenu en cause serait à inclure dans ce calcul si :
-				- **1.** l’alinéa a) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi avait le libellé suivant :
+				- **1** l’alinéa a) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi avait le libellé suivant :
 
 				- **a)** soit qu’elle utilise ou détient principalement en vue de tirer un revenu provenant de son entreprise exploitée activement dans un pays désigné, au sens du paragraphe 5907(11) du Règlement de l’impôt sur le revenu;
 
 
-				- **2.** l’alinéa c) de cette définition de ***bien exclu*** avait le libellé suivant :
+				- **2** l’alinéa c) de cette définition de ***bien exclu*** avait le libellé suivant :
 
 				- **c)** soit qui consiste en biens dont la totalité ou la presque totalité du revenu est ou serait, si les biens produisaient un revenu, un revenu provenant d’une entreprise exploitée activement (lequel comprend, à cette fin, un revenu qui serait réputé, par l’alinéa (2)a), être un revenu provenant d’une entreprise exploitée activement s’il n’était pas tenu compte du sous-alinéa (2)a)(v)) qui est inclus dans le calcul des gains exonérés ou de la perte exonérée (au sens du paragraphe 5907(1) du Règlement de l’impôt sur le revenu, de la société affiliée pour une année d’imposition;
 
@@ -11960,11 +11943,11 @@ où :
 		- **(H)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(v) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où la totalité ou la presque totalité de son revenu tiré de biens visés à ce sous-alinéa est ou serait, si les biens produisaient un revenu, un revenu provenant d’une entreprise exploitée activement (lequel comprend, à cette fin, un revenu qui serait réputé, par l’alinéa 95(2)a) de la Loi, être un revenu provenant d’une entreprise exploitée activement s’il n’était pas tenu compte du sous-alinéa 95(2)a)(v) de la Loi, étant entendu que le revenu provenant de la disposition des biens n’est pas un revenu provenant d’une entreprise exploitée activement) qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
 		- **(I)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(vi) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où il est raisonnable de considérer que la convention d’achat, de vente ou d’échange de monnaie visée à ce sous-alinéa a été conclue par la société affiliée donnée afin de réduire le risque, pour elle, lié à un montant de revenu ou de perte qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
 		- **(J)** toute somme qui est à inclure dans le calcul du revenu de la société affiliée donnée provenant d’une entreprise exploitée activement pour l’année en vertu du paragraphe 95(2.44) de la Loi et qui se rapporte à un revenu qui, en l’absence de l’alinéa 95(2)a.3) de la Loi, serait un revenu provenant d’une entreprise exploitée activement par la société affiliée donnée dans un pays désigné;
-- **e)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans ses gains exonérés pour l’année par l’effet du paragraphe (10). (*exempt earnings*)
+- **e)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans ses gains exonérés pour l’année par l’effet du paragraphe (10). (*exempt earnings*)
 
-***gains imposables*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
+***gains imposables*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
 - **a)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, zéro;
-- **b)** dans les autres cas, le total des montants représentant chacun :
+- **b)** dans les autres cas, le total des montants représentant chacun :
 	- **(i)** les gains nets de la société affiliée pour l’année tirés de son entreprise exploitée activement dans un pays,
 	- **(ii)** les gains nets de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
 	- **(iii)** les gains de la société affiliée pour l’année, déterminés selon l’alinéa b) de la définition de ***gains***, moins la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt payé au titre de ces gains,
@@ -11974,12 +11957,12 @@ où :
 		- **(B)** le total des sommes dont chacune représente une somme qui, aux termes de l’alinéa (2.02)b), est à déduire pour l’année selon la présente définition,
 	- **(v)** [Abrogé, 2013, ch. 34, art. 46]
 
-Ne sont pas des gains imposables les montants inclus dans les gains exonérés de la société affiliée pour l’année. (*taxable earnings*)
+Ne sont pas des gains imposables les montants inclus dans les gains exonérés de la société affiliée pour l’année. (*taxable earnings*)
 
-***gains nets*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
+***gains nets*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
 - **a)** s’agissant des gains nets de la société affiliée pour l’année tirés de son entreprise exploitée activement dans un pays, le montant de ses gains pour l’année tirés de cette entreprise, moins la fraction de l’impôt sur le revenu ou sur les bénéfices qu’elle a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur ces gains;
 - **b)** s’agissant des gains nets relatifs au revenu étranger accumulé, tiré de biens, le montant qui représenterait le revenu étranger accumulé, tiré de biens de la société affiliée pour l’année s’il n’était pas tenu compte des éléments F et F.1 de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi et si la valeur de l’élément E de cette formule correspondait à la somme déterminée selon l’alinéa a) de l’élément E de cette formule, moins la fraction de l’impôt sur le revenu ou sur les bénéfices qu’elle a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur ce revenu;
-- **c)** s’agissant des gains nets tirés de la disposition de biens que la société affiliée utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+- **c)** s’agissant des gains nets tirés de la disposition de biens que la société affiliée utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** la fraction des gains en capital imposables de la société affiliée pour l’année tirés de cette disposition qu’il est raisonnable de considérer comme s’étant accumulée après le 12 novembre 1981,
 	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée a payé pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur le montant déterminé selon le sous-alinéa (i);
 - **d)** [Abrogé, 2013, ch. 34, art. 85]
@@ -11992,9 +11975,9 @@ Ne sont pas des gains imposables les montants inclus dans les gains exonérés d
 	- **(iii)** à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée dont la disposition a donné lieu à un gain en capital imposable ou à une perte en capital déductible qui, s’il était disposé de ce bien exclu, serait inclus dans la somme visée à l’un des alinéas c) à e) de la présente définition ou de la définition de ***perte nette***, selon le cas,
 l’excédent de la somme visée au sous-alinéa (iv) sur celle visée au sous-alinéa (v) :
 	- **(iv)** la partie du gain en capital imposable de la société affiliée pour l’année provenant de la disposition donnée qui s’est accumulée après son année d’imposition 1975,
-	- **(v)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt payé pour l’année au titre de la somme déterminée selon le sous-alinéa (iv). (*net earnings*)
+	- **(v)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt payé pour l’année au titre de la somme déterminée selon le sous-alinéa (iv). (*net earnings*)
 
-***montant intrinsèque d’impôt étranger*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+***montant intrinsèque d’impôt étranger*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
 - **b)** la dernière fois que le montant intrinsèque d’impôt étranger initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 - **c)** [Abrogé, 2013, ch. 34, art. 46]
@@ -12008,21 +11991,21 @@ où
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices visé au sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au présent paragraphe que la société affiliée déterminée a payée sur un dividende reçu d’une autre société étrangère affiliée de la société,
 - **(iv)** chaque montant qui est considéré, selon l’alinéa 5900(1)d), comme étant l’impôt étranger applicable à la fraction d’un dividende que la société affiliée déterminée a reçu au cours de la période et avant le moment donné d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7)) qui est considéré, selon l’alinéa 5900(1)b), comme ayant été prélevé sur le surplus imposable de l’autre société affiliée à l’égard de la société,
 - **(v)** le montant à ajouter, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné, au montant intrinsèque d’impôt étranger de la société affiliée déterminée;
-- **B** le total de ceux des montants suivants qui sont applicables pour la période :
+- **B** le total de ceux des montants suivants qui sont applicables pour la période :
 - **(i)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée déterminée qu’il est raisonnable de considérer comme ayant été remboursée au titre de la perte imposable de la société affiliée déterminée pour une année d’imposition se terminant dans la période,
 - **(ii)** le montant intrinsèque d’impôt étranger applicable à un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé, en vertu de l’alinéa 5901(1)b) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)a.1), avoir été versé, avant ce moment, sur le surplus imposable de la société affiliée déterminée relativement à la société,
 - **(iii)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)l)(x), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
-- **(iv)** le montant à soustraire, en application des paragraphes (1.092), (1.1) ou (1.2), du montant intrinsèque d’impôt étranger de la société affiliée déterminée au cours de la période et avant le moment donné. (*underlying foreign tax*)
+- **(iv)** le montant à soustraire, en application des paragraphes (1.092), (1.1) ou (1.2), du montant intrinsèque d’impôt étranger de la société affiliée déterminée au cours de la période et avant le moment donné. (*underlying foreign tax*)
 
-***montant intrinsèque d’impôt étranger applicable*** Quant à une société et s’agissant du montant intrinsèque d’impôt étranger applicable à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée, le total des montants suivants :
-- **a)** le produit de la multiplication du montant intrinsèque d’impôt étranger de la société affiliée à ce moment à l’égard de la société par le rapport entre :
+***montant intrinsèque d’impôt étranger applicable*** Quant à une société et s’agissant du montant intrinsèque d’impôt étranger applicable à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée, le total des montants suivants :
+- **a)** le produit de la multiplication du montant intrinsèque d’impôt étranger de la société affiliée à ce moment à l’égard de la société par le rapport entre :
 	- **(i)** d’une part, la fraction du dividende global qui est réputée avoir été prélevée sur le surplus imposable de la société affiliée à l’égard de la société,
 	- **(ii)** d’autre part, le surplus imposable de la société affiliée à ce moment à l’égard de la société;
 - **b)** tout montant supplémentaire relatif au dividende global que la société demande dans la déclaration de revenu qu’elle produit en vertu de la partie I de la Loi au titre de ce dividende, jusqu’à concurrence de la moins élevée des sommes suivantes :
 	- **(i)** l’excédent de la partie du dividende global qui est réputée avoir été versée sur le surplus imposable de la société affiliée relativement à la société sur la somme déterminée selon l’alinéa a),
-	- **(ii)** l’excédent du montant intrinsèque d’impôt étranger de la société affiliée relativement à la société immédiatement avant le versement du dividende global sur la somme déterminée selon l’alinéa a). (*underlying foreign tax applicable*)
+	- **(ii)** l’excédent du montant intrinsèque d’impôt étranger de la société affiliée relativement à la société immédiatement avant le versement du dividende global sur la somme déterminée selon l’alinéa a). (*underlying foreign tax applicable*)
 
-***montant intrinsèque d’impôt hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+***montant intrinsèque d’impôt hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée dans laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
 - **b)** la dernière fois que le montant intrinsèque d’impôt hybride initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 ```
@@ -12038,21 +12021,21 @@ où :
 - **(i)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été remboursée au titre d’une somme visée aux sous-alinéas (ii) ou (iii) de l’élément B de la formule figurant à la définition de ***surplus hybride***,
 - **(ii)** le montant intrinsèque d’impôt hybride applicable à tout dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé, en vertu de l’alinéa 5901(1)a.1) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)b), avoir été versé sur son surplus hybride relativement à la société avant ce moment,
 - **(iii)** chaque somme qui, selon l’article 5902, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
-- **(iv)** la somme à retrancher, en application les paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné, du montant intrinsèque d’impôt hybride de la société affiliée déterminée. (*hybrid underlying tax*)
+- **(iv)** la somme à retrancher, en application les paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné, du montant intrinsèque d’impôt hybride de la société affiliée déterminée. (*hybrid underlying tax*)
 
-***montant intrinsèque d’impôt hybride applicable*** Le montant intrinsèque d’impôt hybride applicable, relativement à une société, à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée correspond à la proportion du montant intrinsèque d’impôt hybride de la société affiliée à ce moment relativement à la société que représente le rapport entre :
+***montant intrinsèque d’impôt hybride applicable*** Le montant intrinsèque d’impôt hybride applicable, relativement à une société, à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée correspond à la proportion du montant intrinsèque d’impôt hybride de la société affiliée à ce moment relativement à la société que représente le rapport entre :
 - **a)** d’une part, la partie du dividende global qui est réputée avoir été versée sur le surplus hybride de la société affiliée relativement à la société;
-- **b)** d’autre part, le surplus hybride de la société affiliée à ce moment relativement à la société. (*hybrid underlying tax applicable*)
+- **b)** d’autre part, le surplus hybride de la société affiliée à ce moment relativement à la société. (*hybrid underlying tax applicable*)
 
-***personne ou société de personnes désignée*** S’entend, par rapport à un contribuable à un moment donné, du contribuable ou d’une personne ou d’une société de personnes qui est, à ce moment :
+***personne ou société de personnes désignée*** S’entend, par rapport à un contribuable à un moment donné, du contribuable ou d’une personne ou d’une société de personnes qui est, à ce moment :
 - **a)** une personne, sauf une société de personnes, qui a un lien de dépendance avec le contribuable à ce moment;
-- **b)** une société de personnes dont l’un des associés est, à ce moment, une personne ou société de personnes désignée par rapport au contribuable selon la présente définition. (*designated person or partnership*)
+- **b)** une société de personnes dont l’un des associés est, à ce moment, une personne ou société de personnes désignée par rapport au contribuable selon la présente définition. (*designated person or partnership*)
 
-***perte*** La perte d’une société étrangère affiliée d’un contribuable résidant au Canada pour une année d’imposition de la société affiliée, résultant d’une entreprise exploitée activement, correspond à celle des sommes ci-après qui est applicable :
+***perte*** La perte d’une société étrangère affiliée d’un contribuable résidant au Canada pour une année d’imposition de la société affiliée, résultant d’une entreprise exploitée activement, correspond à celle des sommes ci-après qui est applicable :
 - **a)** dans le cas d’une entreprise exploitée activement par la société affiliée dans un pays, le montant de sa perte pour l’année résultant de cette entreprise, déterminée par application des dispositions de l’alinéa a) de la définition de ***gains*** concernant le calcul des gains tirés de cette entreprise, avec les modifications nécessaires;
-- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de perte qui serait à inclure, en application de l’alinéa 95(2)a) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si cette perte était calculée compte tenu des règles énoncées au paragraphe (2.03). (*loss*)
+- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de perte qui serait à inclure, en application de l’alinéa 95(2)a) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si cette perte était calculée compte tenu des règles énoncées au paragraphe (2.03). (*loss*)
 
-***perte exonérée*** En ce qui concerne une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente :
+***perte exonérée*** En ce qui concerne une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente :
 - **a)** l’excédent des pertes en capital de la société affiliée pour l’année (sauf celles qui entrent dans le calcul du montant, à un moment de l’année, de son surplus hybride ou déficit hybride relativement à la société) sur le total des sommes suivantes :
 	- **(i)** le montant des pertes en capital déductibles pour l’année visé à l’élément E de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi,
 	- **(ii)** le montant des pertes en capital déductibles pour l’année visé aux sous-alinéas c)(i), e)(i) et f)(iv) de la définition de ***perte nette***,
@@ -12062,9 +12045,9 @@ où :
 		- **(A)** n’est pas une entreprise exploitée activement, au sens du paragraphe 95(1) de la Loi,
 		- **(B)** est une entreprise exploitée activement, au sens de ce paragraphe, dont la société affiliée tire des gains pour l’année qui sont déterminés selon le sous-alinéa a)(iii) de la définition de ***gains***,
 	- **(ii)** dans le calcul de son revenu pour l’année, la société affiliée a déduit pour l’année relativement à l’entreprise une somme visée à l’alinéa 24(1)a) de la Loi;
-- **b)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, le total des montants représentant chacun :
+- **b)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, le total des montants représentant chacun :
 	- **(i)** la perte nette de la société affiliée pour l’année résultant de son entreprise exploitée activement dans un pays,
-	- **(ii)** l’excédent éventuel pour l’année du montant visé à la division (A) sur le montant visé à la division (B) :
+	- **(ii)** l’excédent éventuel pour l’année du montant visé à la division (A) sur le montant visé à la division (B) :
 		- **(A)** le montant représenté par l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi pour l’année,
 		- **(B)** le montant représenté par l’élément A de cette formule pour l’année;
 - **c)** s’il s’agit d’une année d’imposition de la société affiliée se terminant après 1975 et que celle-ci réside tout au long de l’année dans un pays désigné :
@@ -12072,22 +12055,22 @@ où :
 	- **(ii)** soit l’excédent de la somme visée à la division (A) sur celle visée à la division (B) :
 		- **(A)** la perte de la société affiliée pour l’année résultant d’une entreprise exploitée activement, dans la mesure déterminée selon le sous-alinéa d)(ii) de la définition de ***gains exonérés*** pour l’année, avec les modifications nécessaires,
 		- **(B)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été remboursé au titre de la somme déterminée selon la division (A);
-- **d)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans sa perte exonérée pour l’année par l’effet du paragraphe (10). (*exempt loss*)
+- **d)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans sa perte exonérée pour l’année par l’effet du paragraphe (10). (*exempt loss*)
 
-***perte imposable*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
+***perte imposable*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
 - **a)** s’il s’agit de 1975 ou d’une année d’imposition antérieure de la société affiliée, zéro;
-- **b)** dans les autres cas, le total des montants représentant chacun :
+- **b)** dans les autres cas, le total des montants représentant chacun :
 	- **(i)** la perte nette de la société affiliée pour l’année résultant de son entreprise exploitée activement dans un pays,
 	- **(ii)** la perte nette de la société affiliée pour l’année relativement à son revenu étranger accumulé, tiré de biens,
 	- **(iii)** la perte de la société affiliée pour l’année, déterminée selon l’alinéa b) de la définition de ***perte***, moins la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt remboursé au titre de cette perte,
 	- **(iv)** dans la mesure où elle n’est pas incluse dans la perte visée au sous-alinéa (ii), la perte nette de la société affiliée pour l’année, déterminée selon les alinéas c) à f) de la définition de ***perte nette***,
 
-N’est pas une perte imposable tout montant inclus dans la perte exonérée de la société affiliée pour l’année. (*taxable loss*)
+N’est pas une perte imposable tout montant inclus dans la perte exonérée de la société affiliée pour l’année. (*taxable loss*)
 
-***perte nette*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
+***perte nette*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
 - **a)** s’agissant de la perte nette de la société affiliée résultant de son entreprise exploitée activement dans un pays, le montant de sa perte pour l’année résultant de cette entreprise, moins la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays lui a remboursé pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre de cette perte;
-- **b)** s’agissant de la perte nette relative au revenu étranger accumulé, tiré de biens, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
-	- **(i)** l’excédent éventuel du total visé à la division (A) sur le total visé à la division (B) :
+- **b)** s’agissant de la perte nette relative au revenu étranger accumulé, tiré de biens, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+	- **(i)** l’excédent éventuel du total visé à la division (A) sur le total visé à la division (B) :
 		- **(A)** le total des sommes suivantes :
 			- **(I)** la valeur de l’élément D de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi pour l’année,
 			- **(II)** la somme déterminée selon l’alinéa a) de l’élément E de cette formule pour l’année,
@@ -12095,7 +12078,7 @@ N’est pas une perte imposable tout montant inclus dans la perte exonérée de 
 			- **(IV)** la valeur de l’élément H de cette formule pour l’année,
 		- **(B)** le total des montants représentés par les éléments A, A.1, A.2, B et C de cette formule pour l’année,
 	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre du montant déterminé selon le sous-alinéa (i);
-- **c)** s’agissant de la perte nette résultant de la disposition de biens que la société affiliée utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+- **c)** s’agissant de la perte nette résultant de la disposition de biens que la société affiliée utilisait ou détenait principalement en vue de tirer un revenu de son entreprise exploitée activement dans un pays étranger qui n’est pas un pays désigné, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** la fraction des pertes en capital déductibles de la société affiliée pour l’année résultant de cette disposition qu’il est raisonnable de considérer comme s’étant accumulée après le 12 novembre 1981,
 	- **(ii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée pour l’année qu’il est raisonnable de considérer comme un impôt remboursé au titre du montant déterminé selon le sous-alinéa (i);
 - **d)** [Abrogé, 2013, ch. 34, art. 85]
@@ -12108,11 +12091,11 @@ N’est pas une perte imposable tout montant inclus dans la perte exonérée de 
 	- **(iii)** à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée dont la disposition a donné lieu à un gain en capital imposable ou à une perte en capital déductible qui, s’il était disposé de ce bien exclu, serait inclus dans la somme visée à l’un des alinéas c) à e) de la présente définition ou de la définition de ***gains nets***, selon le cas,
 l’excédent de la somme visée au sous-alinéa (iv) sur celle visée au sous-alinéa (v) :
 	- **(iv)** la partie de la perte en capital déductible de la société affiliée pour l’année résultant de la disposition donnée qui s’est accumulée après son année d’imposition 1975,
-	- **(v)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été remboursé au titre de la somme déterminée selon le sous-alinéa (iv). (*net loss*)
+	- **(v)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée pour l’année par le gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt qui a été remboursé au titre de la somme déterminée selon le sous-alinéa (iv). (*net loss*)
 
-***société étrangère affiliée contrôlée*** S’entend au sens du paragraphe 95(1) de la Loi. (*controlled foreign affiliate*)
+***société étrangère affiliée contrôlée*** S’entend au sens du paragraphe 95(1) de la Loi. (*controlled foreign affiliate*)
 
-***surplus exonéré*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+***surplus exonéré*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
 - **b)** la dernière fois que le surplus exonéré initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 - **c)** la dernière fois que le déficit exonéré initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
@@ -12120,7 +12103,7 @@ l’excédent de la somme visée au sous-alinéa (iv) sur celle visée au sous-a
 A - B
 ```
 où 
-- **A** représente le total des montants, pour la période, représentant chacun :
+- **A** représente le total des montants, pour la période, représentant chacun :
 - **(i)** le cas échéant, le surplus exonéré initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa b),
 - **(ii)** les gains exonérés de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société — y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7) — qui est réputée, selon l’alinéa 5900(1)a), avoir été prélevée sur le surplus exonéré de l’autre société affiliée à l’égard de la société,
@@ -12129,15 +12112,15 @@ où
 - **(vi)** un montant ajouté au surplus exonéré de la société affiliée déterminée, ou déduit de son déficit exonéré, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné,
 - **(vi.1)** chaque somme qui, selon l’article 5905, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
 - **(vii)** un montant ajouté, au cours de la période et avant le moment donné, au surplus exonéré de la société affiliée déterminée en application de l’alinéa (7.1)d), dans sa version applicable aux dividendes versés avant le 20 août 2011;
-- **B** le total de ceux des montants suivants qui sont applicables pour la période :
+- **B** le total de ceux des montants suivants qui sont applicables pour la période :
 - **(i)** le cas échéant, le déficit exonéré initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa c),
 - **(ii)** la perte exonérée de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payée sur un montant visé aux sous-alinéas (iii), (iv) ou (v) de l’élément A,
 - **(iv)** la fraction d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée par l’alinéa 5901(1)a) avoir été prélevée sur le surplus exonéré de la société affiliée déterminée à l’égard de la société,
 - **(v)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)d)(xii), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
-- **(vi)** un montant déduit du surplus exonéré de la société affiliée déterminée, ou ajouté à son déficit exonéré, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*exempt surplus*)
+- **(vi)** un montant déduit du surplus exonéré de la société affiliée déterminée, ou ajouté à son déficit exonéré, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*exempt surplus*)
 
-***surplus hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+***surplus hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée dans laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
 - **b)** la dernière fois que le surplus hybride initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 - **c)** la dernière fois que le déficit hybride initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
@@ -12168,9 +12151,9 @@ où :
 - **(iv)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée déterminée au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée au titre d’une somme visée aux sous-alinéas (ii) ou (iv) de l’élément A,
 - **(v)** la partie de tout dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée, en vertu de l’alinéa 5901(1)a.1) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)b), avoir été versée sur le surplus hybride de la société affiliée déterminée relativement à la société,
 - **(vi)** chaque somme qui, selon l’article 5902, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
-- **(vii)** une somme déduite du surplus hybride de la société affiliée déterminée, ou ajoutée à son déficit hybride, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*hybrid surplus*)
+- **(vii)** une somme déduite du surplus hybride de la société affiliée déterminée, ou ajoutée à son déficit hybride, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*hybrid surplus*)
 
-***surplus imposable*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
+***surplus imposable*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
 - **b)** la dernière fois que le surplus imposable initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
 - **c)** la dernière fois que le déficit imposable initial de la société affiliée déterminée relativement à la société devait être déterminé selon l’article 5905,
@@ -12178,37 +12161,37 @@ où :
 A - B
 ```
 où 
-- **A** représente le total des montants, pour la période, représentant chacun :
+- **A** représente le total des montants, pour la période, représentant chacun :
 - **(i)** le cas échéant, le surplus imposable initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa b),
 - **(ii)** les gains imposables de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société — y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7) — qui est réputée, selon l’alinéa 5900(1)b), avoir été prélevée sur le surplus imposable de l’autre société affiliée à l’égard de la société,
 - **(iv)** un montant ajouté au surplus imposable de la société affiliée déterminée, ou déduit de son déficit imposable, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné,
 - **(iv.1)** chaque somme qui, selon l’article 5905, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
 - **(v)** un montant ajouté, au cours de la période et avant le moment donné, au surplus imposable de la société affiliée déterminée en application de l’alinéa (7.1)e), dans sa version applicable aux dividendes versés avant le 20 août 2011;
-- **B** le total de ceux des montants suivants qui sont applicables pour la période :
+- **B** le total de ceux des montants suivants qui sont applicables pour la période :
 - **(i)** le cas échéant, le déficit imposable initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa c),
 - **(ii)** la perte imposable de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payée sur la fraction de dividende visée au sous-alinéa (iii) de l’élément A,
 - **(iv)** la partie d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée, en vertu de l’alinéa 5901(1)b) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)a.1), avoir été versée sur le surplus imposable de la société affiliée déterminée relativement à la société,
 - **(v)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)k)(xi), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
-- **(vi)** un montant déduit du surplus imposable de la société affiliée déterminée, ou ajouté à son déficit imposable, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*taxable surplus*)
+- **(vi)** un montant déduit du surplus imposable de la société affiliée déterminée, ou ajouté à son déficit imposable, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*taxable surplus*)
 
-***surplus net*** Quant à une société étrangère affiliée d’une société résidant au Canada à l’égard de la société à un moment donné :
+***surplus net*** Quant à une société étrangère affiliée d’une société résidant au Canada à l’égard de la société à un moment donné :
 - **a)** si la société affiliée n’a ni déficit exonéré, ni déficit hybride, ni déficit imposable, le total de ses surplus exonéré, surplus hybride et surplus imposable relativement à la société à ce moment;
 - **b)** si elle n’a pas de déficit exonéré mais a un déficit hybride et un déficit imposable, l’excédent de son surplus exonéré sur le total de ses déficit hybride et déficit imposable relativement à la société à ce moment;
 - **c)** si elle n’a ni déficit exonéré ni déficit hybride mais a un déficit imposable, l’excédent du total de ses surplus exonéré et surplus hybride sur son déficit imposable relativement à la société à ce moment;
 - **d)** si elle n’a ni déficit exonéré ni déficit imposable mais a un déficit hybride, l’excédent du total de ses surplus exonéré et surplus imposable sur son déficit hybride relativement à la société à ce moment;
 - **e)** si elle a un déficit exonéré mais aucun déficit hybride ou déficit imposable, l’excédent du total de ses surplus hybride et surplus imposable sur son déficit exonéré relativement à la société à ce moment;
 - **f)** si elle a un déficit exonéré et un déficit hybride mais aucun déficit imposable, l’excédent de son surplus imposable sur le total de ses déficit exonéré et déficit hybride relativement à la société à ce moment;
-- **g)** si elle a un déficit exonéré et un déficit imposable mais aucun déficit hybride, l’excédent de son surplus hybride sur le total de son déficit exonéré et déficit imposable relativement à la société à ce moment. (*net surplus*)
+- **g)** si elle a un déficit exonéré et un déficit imposable mais aucun déficit hybride, l’excédent de son surplus hybride sur le total de son déficit exonéré et déficit imposable relativement à la société à ce moment. (*net surplus*)
 
 - **(1.01)** Pour l’application de l’article 113 de la Loi, ***surplus exonéré***, ***surplus hybride*** et ***surplus imposable*** s’entendent au sens du paragraphe (1).
 
 - **(1.02)** Pour l’application de l’alinéa d) de la définition de ***gains exonérés*** et de l’alinéa c) de la définition de ***perte exonérée*** au paragraphe (1), la société étrangère affiliée d’une société qui devient la société étrangère affiliée de celle-ci au cours de son année d’imposition, autrement que par suite d’une opération entre personnes ayant entre elles un lien de dépendance, et qui réside à la fin de l’année dans un pays désigné est réputée résider dans ce pays tout au long de l’année.
 
 - **(1.03)** Pour l’application de l’élément A de la formule figurant à la définition de ***montant intrinsèque d’impôt étranger*** au paragraphe (1), l’impôt sur le revenu ou sur les bénéfices payé relativement aux gains imposables d’une société étrangère affiliée donnée d’une société donnée ou relativement à un dividende reçu par la société affiliée donnée d’une autre société étrangère affiliée de la société donnée, et les sommes à ajouter, en application des paragraphes (1.092), (1.1) ou (1.2), au montant intrinsèque d’impôt étranger de la société affiliée donnée ou de toute autre société étrangère affiliée de la société donnée, ne comprennent ni un impôt sur le revenu ou sur les bénéfices payé ni une somme devant par ailleurs être ainsi ajoutée à ce montant intrinsèque d’impôt étranger, selon le cas, relativement au revenu étranger accumulé, tiré de biens de la société affiliée donnée pour une année d’imposition de celle-ci si, au cours de l’année, un propriétaire déterminé relativement à la société donnée est considéré, selon le cas :
-	- **a)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.07)) d’un pays étranger sous le régime des lois duquel le revenu d’une autre société — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, être propriétaire de moins que la totalité des actions du capital-actions de l’autre société qui sont considérées lui appartenir pour l’application de la Loi;
-	- **b)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.08)) d’un pays étranger sous le régime des lois duquel le revenu d’une société de personnes donnée — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, avoir une part directe ou indirecte du revenu de la société de personnes donnée qui est inférieure à celle qu’il est considéré avoir pour l’application de la Loi.
+	- **a)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.07)) d’un pays étranger sous le régime des lois duquel le revenu d’une autre société — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, être propriétaire de moins que la totalité des actions du capital-actions de l’autre société qui sont considérées lui appartenir pour l’application de la Loi;
+	- **b)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.08)) d’un pays étranger sous le régime des lois duquel le revenu d’une société de personnes donnée — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, avoir une part directe ou indirecte du revenu de la société de personnes donnée qui est inférieure à celle qu’il est considéré avoir pour l’application de la Loi.
 
 - **(1.04)** Pour l’application des paragraphes (1.03) et (1.07), est un propriétaire déterminé relativement à une société à un moment donné la société ou une personne ou une société de personnes qui est, à ce moment :
 	- **a)** une société de personnes dont la société est un associé;
@@ -12223,7 +12206,7 @@ où
 	- **b)** une société de personnes dont l’un des associés est, à ce moment, une personne ou société de personnes intéressée par rapport à la société affiliée donnée en vertu du présent paragraphe;
 	- **c)** une personne ou une société de personnes mentionnée à l’un des sous-alinéas (1.06)b)(i) à (iii).
 
-- **(1.06)** Pour l’application des paragraphes (1.04) et (1.05), si, dans le cadre d’une série d’opérations ou d’événements ayant permis notamment de gagner le revenu étranger accumulé, tiré de biens mentionné au paragraphe (1.03), une société étrangère affiliée (appelée « société de financement » au présent paragraphe) de la société ou d’une personne résidant au Canada qui lui est liée (appelée « personne liée » au présent paragraphe), ou une société de personnes (appelée « société de personnes de financement » au présent paragraphe) dont une telle société affiliée est un associé, a fourni des fonds directement ou indirectement à la société affiliée donnée ou à une société de personnes dont elle est un associé, autrement qu’au moyen de prêts ou d’autres dettes qui sont assujettis à des modalités conclues ou imposées, relativement aux prêts ou autres dettes, qui ne diffèrent pas de celles qui auraient été conclues ou imposées entre personnes sans lien de dépendance ou autrement qu’au moyen d’une acquisition d’actions du capital-actions d’une société, les règles ci-après s’appliquent :
+- **(1.06)** Pour l’application des paragraphes (1.04) et (1.05), si, dans le cadre d’une série d’opérations ou d’événements ayant permis notamment de gagner le revenu étranger accumulé, tiré de biens mentionné au paragraphe (1.03), une société étrangère affiliée (appelée « société de financement » au présent paragraphe) de la société ou d’une personne résidant au Canada qui lui est liée (appelée « personne liée » au présent paragraphe), ou une société de personnes (appelée « société de personnes de financement » au présent paragraphe) dont une telle société affiliée est un associé, a fourni des fonds directement ou indirectement à la société affiliée donnée ou à une société de personnes dont elle est un associé, autrement qu’au moyen de prêts ou d’autres dettes qui sont assujettis à des modalités conclues ou imposées, relativement aux prêts ou autres dettes, qui ne diffèrent pas de celles qui auraient été conclues ou imposées entre personnes sans lien de dépendance ou autrement qu’au moyen d’une acquisition d’actions du capital-actions d’une société, les règles ci-après s’appliquent :
 	- **a)** si la société de financement est une société étrangère affiliée de la personne liée ou si la société de personnes de financement compte un associé qui est une telle société affiliée, les personnes et les sociétés de personnes ci-après sont réputées être des propriétaires déterminés relativement à la société à tout moment où le revenu étranger accumulé, tiré de biens est gagné par la société affiliée donnée :
 		- **(i)** la personne liée,
 		- **(ii)** chaque société étrangère affiliée de la personne liée,
@@ -12235,7 +12218,7 @@ où
 			- **(B)** soit qui a un pourcentage d’intérêt dans la société de financement,
 		- **(iii)** une société de personnes dont l’un des associés est une personne ou une société de personnes mentionnée aux sous-alinéas (i) ou (ii).
 
-- **(1.07)** Pour l’application de l’alinéa (1.03)a), un propriétaire déterminé relativement à la société donnée n’est pas considéré, selon la législation étrangère applicable, être propriétaire de moins que la totalité des actions du capital-actions d’une autre société qui sont considérées appartenir à quelqu’un pour l’application de la Loi du seul fait qu’il n’est pas traité comme une société selon la législation étrangère applicable.
+- **(1.07)** Pour l’application de l’alinéa (1.03)a), un propriétaire déterminé relativement à la société donnée n’est pas considéré, selon la législation étrangère applicable, être propriétaire de moins que la totalité des actions du capital-actions d’une autre société qui sont considérées appartenir à quelqu’un pour l’application de la Loi du seul fait que le propriétaire déterminé ou l’autre société n’est pas traité comme une société selon la législation étrangère applicable.
 
 - **(1.08)** Pour l’application de l’alinéa (1.03)b), l’associé d’une société de personnes n’est pas considéré, selon la législation étrangère applicable, avoir une part directe ou indirecte du revenu de la société de personnes qui est inférieure à celle qu’il a pour l’application de la Loi du seul fait :
 	- **a)** que la législation étrangère applicable et la Loi diffèrent sur l’un des plans suivants :
@@ -12397,7 +12380,7 @@ et, aux fins du présent alinéa, tout montant payé par une société affiliée
 
 - **(1.7)** S’il est raisonnable de considérer que la somme qui constitue un impôt étranger accumulé aux termes des alinéas (1.3)a) ou b), ou une partie de cette somme, se rapporte à une perte en capital d’une autre société pour une année d’imposition de celle-ci, cette somme, telle qu’elle a été réduite par le paragraphe (1.4), le cas échéant, est réduite dans la mesure où il est raisonnable de considérer qu’elle se rapporte à la partie de cette perte qui ne serait pas déductible par la société affiliée donnée dans le calcul de son revenu étranger accumulé, tiré de biens pour l’année si la perte avait été subie par la société affiliée donnée.
 
-- **(2)** Dans le calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada, pour une année d’imposition de la société affiliée, tirés de son entreprise exploitée activement dans un pays, est à ajouter au montant de ces gains déterminé selon les sous-alinéas a)(i) ou (ii) de la définition de ***gains*** au paragraphe (1) (appelé « montant des gains » au présent paragraphe) la fraction des montants suivants qui a été déduite ou n’a pas été incluse, selon le cas, dans le calcul du montant des gains :
+- **(2)** Dans le calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada, pour une année d’imposition de la société affiliée, tirés de son entreprise exploitée activement dans un pays, est à ajouter au montant de ces gains déterminé selon les sous-alinéas a)(i) ou (ii) de la définition de ***gains*** au paragraphe (1) (appelé « montant des gains » au présent paragraphe) la fraction des montants suivants qui a été déduite ou n’a pas été incluse, selon le cas, dans le calcul du montant des gains :
 	- **a)** tout impôt sur le revenu ou sur les bénéfices payé au gouvernement d’un pays par la société affiliée ainsi déduit,
 	- **b)** s’il est établi par le contribuable, l’excédent de tout montant ainsi déduit à l’égard d’une dépense engagée par une société affiliée sur l’excédent, si excédent il y a,
 		- **(i)** du montant de la dépense
@@ -12416,10 +12399,10 @@ et il doit être déduit la fraction des montants suivants qui ont été inclus 
 	- **g)** tout impôt sur le revenu ou sur les bénéfices remboursé par le gouvernement d’un pays à la société affiliée ainsi inclus;
 	- **h)** tout gain en capital de la société affiliée à l’égard de la disposition d’une immobilisation ainsi inclus (étant entendu que les immobilisations de la société affiliée, aux fins du présent alinéa, comprennent tous les biens de celle-ci, à l’exception de ceux visés à l’un des sous-alinéas 39(1)a)(i) à (iv) de la Loi, en supposant, à cette fin, que la société affiliée est une société résidant au Canada);
 	- **i)** tout montant inclus dans le revenu étranger accumulé, tiré de biens, de la société affiliée ainsi inclus;
-	- **j)** toute perte subie ou toute dépense engagée ou effectuée au cours de l’année par la société affiliée en vue de gagner ou de produire ce montant des gains, dans la mesure où, selon le cas :
+	- **j)** toute perte subie ou toute dépense engagée ou effectuée au cours de l’année par la société affiliée en vue de gagner ou de produire ce montant des gains, dans la mesure où, selon le cas :
 		- **(i)** cette perte ou cette dépense ne peut autrement être déduite dans le calcul du montant des gains de la société affiliée pour une année d’imposition en vertu de la loi de l’impôt sur le revenu qui est applicable dans le calcul de ce montant,
 		- **(ii)** cette dépense peut raisonnablement être considérée comme étant applicable à une recette ajoutée au montant des gains de la société affiliée en vertu de l’alinéa f),
-lorsque la perte ou la dépense :
+lorsque la perte ou la dépense :
 		- **(iii)** sous réserve du paragraphe (2.01), ne découle pas d’une disposition (sauf une disposition à laquelle le paragraphe (9) s’applique) de biens effectuée par la société affiliée :
 			- **(A)** en faveur d’une personne ou d’une société de personnes qui, au moment de la disposition, était une personne ou société de personnes désignée relativement au contribuable,
 			- **(B)** à laquelle s’est appliquée une mesure de report de pertes ou de sursis semblable visant les pertes prévue par la législation en matière d’impôt sur le revenu qui est prise en compte dans le calcul du montant des gains de la société affiliée,
@@ -12430,7 +12413,7 @@ lorsque la perte ou la dépense :
 	- **k)** toute dépense effectuée au cours de l’année en remboursement d’un montant visé à l’alinéa f.1);
 	- **l)** si un bien de la société affiliée qui a été acquis d’une personne ou d’une société de personnes qui, au moment de l’acquisition, était une personne ou société de personnes désignée relativement au contribuable a fait l’objet d’une disposition, la somme relative à ce bien qu’il est raisonnable de considérer comme ayant été incluse, en vertu de l’alinéa f), dans le calcul du montant des gains d’une société étrangère affiliée du contribuable ou d’une personne ou d’une société de personnes qui, au moment de la disposition, était une personne ou société de personnes désignée relativement au contribuable.
 
-- **(2.01)** Les sous-alinéas (2)f)(ii) et j)(iii) et le paragraphe (5.1) ne s’appliquent pas à la disposition donnée d’un bien (appelé « bien de société affiliée » au présent paragraphe) effectuée par une société étrangère affiliée donnée d’un contribuable si, à la fois :
+- **(2.01)** Les sous-alinéas (2)f)(ii) et j)(iii) et le paragraphe (5.1) ne s’appliquent pas à la disposition donnée d’un bien (appelé « bien de société affiliée » au présent paragraphe) effectuée par une société étrangère affiliée donnée d’un contribuable si, à la fois :
 	- **a)** la seule contrepartie reçue relativement à la disposition donnée est constituée d’actions du capital-actions d’une autre société étrangère affiliée du contribuable;
 	- **b)** toutes les actions du capital-actions de l’autre société affiliée dont la société affiliée donnée est propriétaire immédiatement après la disposition donnée font l’objet d’une disposition, à un moment donné de la période de 90 jours suivant la date qui comprend le moment de la disposition donnée, en faveur d’une personne ou d’une société de personnes qui, au moment donné, n’est pas une personne ou société de personnes désignée relativement au contribuable;
 	- **c)** l’autre société affiliée ne dispose pas du bien de société affiliée dans le cadre d’une série d’opérations ou d’événements qui comprend la disposition donnée.
@@ -12440,12 +12423,12 @@ lorsque la perte ou la dépense :
 	- **b)** tout impôt sur le revenu ou sur les bénéfices relatif à l’opération qui serait par ailleurs déduit dans le calcul des gains exonérés, ou inclus dans le calcul de la perte exonérée, de la société affiliée pour l’année, relativement à la société, est plutôt déduit de ses gains imposables pour l’année relativement à la société.
 
 - **(2.03)** Le calcul — prévu au sous-alinéa a)(iii) et à l’alinéa b) de la définition de ***gains*** au paragraphe (1) et à l’alinéa b) de la définition de ***perte*** à ce paragraphe — des gains ou de la perte d’une société étrangère affiliée d’un contribuable résidant au Canada pour une année d’imposition donnée provenant d’une entreprise exploitée activement est effectué comme si la société affiliée :
-	- **a)** dans le calcul de son revenu ou de sa perte provenant de l’entreprise pour chaque année d’imposition (appelée « année de gains ou de perte » au présent alinéa) qui correspond à l’année donnée ou à une année d’imposition antérieure se terminant après le 19 août 2011, avait :
+	- **a)** dans le calcul de son revenu ou de sa perte provenant de l’entreprise pour chaque année d’imposition (appelée « année de gains ou de perte » au présent alinéa) qui correspond à l’année donnée ou à une année d’imposition antérieure se terminant après le 19 août 2011, avait :
 		- **(i)** d’une part, demandé toutes les déductions qu’elle pouvait demander en vertu de la Loi, jusqu’à concurrence de la somme maximale déductible dans le calcul du revenu ou de perte provenant de l’entreprise pour l’année de gains ou de perte,
 		- **(ii)** d’autre part, fait toutes les demandes et choix et pris toutes les mesures prévus par les dispositions applicables de la Loi ou de textes mettant en oeuvre des modifications à la Loi ou aux règlements pris sous son régime, en vue de maximiser le montant de toute déduction visée au sous-alinéa (i);
 	- **b)** dans le calcul de son revenu ou de sa perte provenant de l’entreprise pour toute année d’imposition antérieure s’étant terminée avant le 20 août 2011, avait demandé toutes les déductions qu’elle a effectivement demandées en vertu de la Loi, jusqu’à concurrence de la somme maximale déductible, et avait fait toutes les demandes et choix et pris toutes les mesures prévus par les dispositions applicables de la Loi ou de textes mettant en oeuvre des modifications à la Loi ou aux règlements pris sous son régime, qu’elle a effectivement faits.
 
-- **(2.1)** Dans le calcul des gains d’une société étrangère affiliée d’une société résidant au Canada, pour une année d’imposition de la société affiliée, tirés de son entreprise exploitée activement au Canada ou dans un pays désigné, lorsque la société affiliée réside dans un pays désigné et que la société, ainsi que les autres sociétés résidant au Canada avec lesquelles elle a un lien de dépendance et à l’égard desquelles la société affiliée est une société étrangère affiliée, en font le choix à l’égard de l’entreprise pour l’année d’imposition ou pour une année d’imposition antérieure de la société affiliée, les règles suivantes s’appliquent :
+- **(2.1)** Dans le calcul des gains d’une société étrangère affiliée d’une société résidant au Canada, pour une année d’imposition de la société affiliée, tirés de son entreprise exploitée activement au Canada ou dans un pays désigné, lorsque la société affiliée réside dans un pays désigné et que la société, ainsi que les autres sociétés résidant au Canada avec lesquelles elle a un lien de dépendance et à l’égard desquelles la société affiliée est une société étrangère affiliée, en font le choix à l’égard de l’entreprise pour l’année d’imposition ou pour une année d’imposition antérieure de la société affiliée, les règles suivantes s’appliquent :
 	- **a)** il est ajouté au montant déterminé selon le sous-alinéa a)(i) de la définition de ***gains***, au paragraphe (1), après rajustement effectué conformément au paragraphe (2) (appelé « montant des gains rajustés » au présent paragraphe et au paragraphe (2.2)) le total des montants représentant chacun l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 		- **(i)** le montant qu’il est raisonnable de considérer comme ayant été déduit au titre du coût d’une immobilisation ou d’un avoir minier étranger de la société affiliée dans le calcul du montant des gains rajustés,
 		- **(ii)** le montant qui peut raisonnablement être considéré comme ayant été déduit à l’égard du coût de cette immobilisation ou de cet avoir minier étranger dans le calcul du revenu ou des bénéfices de la société affiliée provenant de cette entreprise pour l’année et figurant dans ses états financiers préparés selon la loi du pays où elle réside;
@@ -12453,12 +12436,12 @@ lorsque la perte ou la dépense :
 		- **(i)** du montant déterminé en vertu du sous-alinéa a)(ii) à l’égard de cette immobilisation ou de cet avoir minier étranger
 sur
 		- **(ii)** le montant déterminé selon le sous-alinéa a)(i) à l’égard de cette immobilisation ou de cet avoir minier étranger;
-	- **c)** en cas de disposition, au cours de l’année d’imposition, d’une immobilisation ou d’un avoir minier étranger de la société affiliée :
+	- **c)** en cas de disposition, au cours de l’année d’imposition, d’une immobilisation ou d’un avoir minier étranger de la société affiliée :
 		- **(i)** il est ajouté au montant des gains rajustés le total des montants déduits conformément aux alinéas b) et (2.2)b) pour les années d’imposition antérieures de la société affiliée à l’égard de cette immobilisation ou de cet avoir minier étranger, et
 		- **(ii)** il est déduit du montant des gains rajustés le total des montants ajoutés conformément aux alinéas a) et (2.2)a) pour les années d’imposition antérieures de la société affiliée à l’égard de cette immobilisation ou de cet avoir minier étranger; et
 	- **d)** pour l’application de l’alinéa c), en cas de fusion de la société affiliée et d’une ou plusieurs sociétés, toute immobilisation ou tout avoir minier étranger de la société affiliée qui devient le bien de la société issue de la fusion est réputé avoir fait l’objet d’une disposition par la société affiliée au cours de sa dernière année d’imposition avant la fusion.
 
-- **(2.2)** Lorsque l’année d’imposition d’une société étrangère affiliée d’une société donnée résidant au Canada, pour laquelle la société donnée a fait un choix selon le paragraphe (2.1) à l’égard d’une entreprise exploitée activement par la société affiliée, n’est pas la première année d’imposition de la société affiliée au cours de laquelle elle exploitait l’entreprise et était une société étrangère affiliée de la société donnée ou d’une autre société résidant au Canada avec laquelle la société donnée avait, à une date quelconque, un lien de dépendance, (ci-après appelée « société liée »), dans le calcul des gains de la société affiliée tirés de l’entreprise pour l’année d’imposition visée par le choix, en plus des règles prévues au paragraphe (2.1), les règles suivantes s’appliquent :
+- **(2.2)** Lorsque l’année d’imposition d’une société étrangère affiliée d’une société donnée résidant au Canada, pour laquelle la société donnée a fait un choix selon le paragraphe (2.1) à l’égard d’une entreprise exploitée activement par la société affiliée, n’est pas la première année d’imposition de la société affiliée au cours de laquelle elle exploitait l’entreprise et était une société étrangère affiliée de la société donnée ou d’une autre société résidant au Canada avec laquelle la société donnée avait, à une date quelconque, un lien de dépendance, (ci-après appelée « société liée »), dans le calcul des gains de la société affiliée tirés de l’entreprise pour l’année d’imposition visée par le choix, en plus des règles prévues au paragraphe (2.1), les règles suivantes s’appliquent :
 	- **a)** il est ajouté au montant des gains rajustés le total des montants dont chacun représente un montant qui aurait été déterminé en vertu de l’alinéa (2.1)a) ou du sous-alinéa (2.1)c)(i)
 		- **(i)** pour une année d’imposition antérieure de la société affiliée au cours de laquelle elle était une société étrangère affiliée de la société donnée si la société donnée avait fait un choix en vertu du paragraphe (2.1) pour la première année d’imposition de la société affiliée au cours de laquelle elle était une société étrangère affiliée de la société donnée et exploitait l’entreprise, et
 		- **(ii)** pour une année d’imposition antérieure de la société affiliée (autre qu’une année d’imposition visée au sous-alinéa (i)), au cours de laquelle elle était une société étrangère affiliée de la société liée si la société liée avait fait un choix en vertu du paragraphe (2.1) pour la première année d’imposition de la société affiliée au cours de laquelle elle était une société étrangère affiliée de la société liée et exploitait l’entreprise; et
@@ -12475,10 +12458,10 @@ est réputée être une société subséquente qui a un lien de dépendance avec
 
 - **(2.5)** [Abrogé, DORS/97-505, art. 8]
 
-- **(2.6)** Une société qui réside au Canada et toutes les autres sociétés qui résident au Canada avec lesquelles elle a un lien de dépendance sont chacune considérées comme ayant fait le choix prévu au paragraphe (2.1) à l’égard d’une entreprise exploitée activement par une société non résidante qui est une société étrangère affiliée de chacune de ces sociétés pour une année d’imposition, si sont produits au ministre au plus tard au dernier en date des jours suivants :
+- **(2.6)** Une société qui réside au Canada et toutes les autres sociétés qui résident au Canada avec lesquelles elle a un lien de dépendance sont chacune considérées comme ayant fait le choix prévu au paragraphe (2.1) à l’égard d’une entreprise exploitée activement par une société non résidante qui est une société étrangère affiliée de chacune de ces sociétés pour une année d’imposition, si sont produits au ministre au plus tard au dernier en date des jours suivants :
 	- **a)** le 30 juin 1986,
 	- **b)** le dernier jour du délai dans lequel l’une de ces sociétés doit la première produire une déclaration de revenu conformément à l’article 150 de la Loi pour son année d’imposition qui suit l’année d’imposition où se termine celle, visée par le choix, de la société affiliée,
-les renseignements suivants :
+les renseignements suivants :
 	- **c)** une description de l’entreprise exploitée activement, qui suffit à l’identifier;
 	- **d)** une déclaration faite au nom de chacune de ces sociétés et signée par un représentant autorisé de la société, portant que celle-ci fait le choix prévu au paragraphe (2.1) à l’égard de l’entreprise.
 
@@ -12493,8 +12476,8 @@ les renseignements suivants :
 
 - **(2.8)** [Abrogé, 2013, ch. 34, art. 46]
 
-- **(2.9)** Si l’alinéa 95(2)k.1) de la Loi s’applique relativement à une année d’imposition donnée d’une société étrangère affiliée d’un contribuable ou à un exercice donné d’une société de personnes (la société affiliée et la société de personnes étant chacune appelée « exploitant », et l’année d’imposition donnée et l’exercice donné étant chacun appelé « année déterminée », au présent paragraphe) dont l’un des associés est une société étrangère affiliée d’un contribuable à la fin de l’exercice, les règles ci-après s’appliquent :
-	- **a)** pour le calcul des gains ou de la perte de la société affiliée provenant d’une entreprise étrangère visé à cet alinéa pour l’année d’imposition de la société affiliée (appelée « année précédente » aux sous-alinéas (i) et (ii)) qui comprend la veille du début de l’année déterminée :
+- **(2.9)** Si l’alinéa 95(2)k.1) de la Loi s’applique relativement à une année d’imposition donnée d’une société étrangère affiliée d’un contribuable ou à un exercice donné d’une société de personnes (la société affiliée et la société de personnes étant chacune appelée « exploitant », et l’année d’imposition donnée et l’exercice donné étant chacun appelé « année déterminée », au présent paragraphe) dont l’un des associés est une société étrangère affiliée d’un contribuable à la fin de l’exercice, les règles ci-après s’appliquent :
+	- **a)** pour le calcul des gains ou de la perte de la société affiliée provenant d’une entreprise étrangère visé à cet alinéa pour l’année d’imposition de la société affiliée (appelée « année précédente » aux sous-alinéas (i) et (ii)) qui comprend la veille du début de l’année déterminée :
 		- **(i)** est à ajouter à la somme déterminée selon l’alinéa a) de la définition de ***gains*** au paragraphe (1), une fois effectué le rajustement prévu aux paragraphes (2) à (2.2) :
 			- **(A)** si l’exploitant est la société affiliée, le total des sommes suivantes :
 				- **(I)** l’excédent du total déterminé selon la sous-subdivision (ii)(A)(I)2 relativement à l’exploitant pour l’année précédente sur le total déterminé selon la sous-subdivision (ii)(A)(I)1 relativement à l’exploitant pour cette année,
@@ -12510,8 +12493,8 @@ où :
 		- **(ii)** est à ajouter à la somme déterminée selon l’alinéa a) de la définition de ***perte*** au paragraphe (1) :
 			- **(A)** si l’exploitant est la société affiliée, le total des sommes suivantes :
 				- **(I)** l’excédent du total visé à la sous-subdivision 1 sur celui visé à la sous-subdivision 2 :
-					- **1.** le total des sommes dont chacune représente une somme réputée en vertu de l’alinéa 95(2)k.1) de la Loi avoir été déduite en application des alinéas 20(1)l), l.1) ou (7)c), ou des sous-alinéas 138(3)a)(i), (ii) ou (iv), de la Loi (chacune de ces dispositions étant appelée « disposition applicable » au présent sous-alinéa) dans le calcul du revenu provenant de l’entreprise étrangère pour l’année précédente,
-					- **2.** le total des sommes dont chacune représente une somme effectivement déduite par l’exploitant à titre de provision dans le calcul de son revenu provenant de l’entreprise étrangère pour cette année qu’il est raisonnable de considérer comme se rapportant à des sommes relativement auxquelles une provision aurait pu être déduite en application d’une disposition applicable si l’exploitant avait pu déduire des sommes en application des dispositions applicables pour cette année,
+					- **1** le total des sommes dont chacune représente une somme réputée en vertu de l’alinéa 95(2)k.1) de la Loi avoir été déduite en application des alinéas 20(1)l), l.1) ou (7)c), ou des sous-alinéas 138(3)a)(i), (ii) ou (iv), de la Loi (chacune de ces dispositions étant appelée « disposition applicable » au présent sous-alinéa) dans le calcul du revenu provenant de l’entreprise étrangère pour l’année précédente,
+					- **2** le total des sommes dont chacune représente une somme effectivement déduite par l’exploitant à titre de provision dans le calcul de son revenu provenant de l’entreprise étrangère pour cette année qu’il est raisonnable de considérer comme se rapportant à des sommes relativement auxquelles une provision aurait pu être déduite en application d’une disposition applicable si l’exploitant avait pu déduire des sommes en application des dispositions applicables pour cette année,
 				- **(II)** le total des sommes dont chacune représente l’excédent de la valeur de l’élément B de la formule figurant à la subdivision (i)(A)(II) relativement à un bien visé à cette subdivision sur la valeur de l’élément A de cette formule relativement au bien,
 			- **(B)** si l’exploitant est la société de personnes, la somme déterminée selon le paragraphe 5908(13);
 	- **b)** tout bien de l’exploitant qui est réputé, en vertu de cet alinéa, avoir fait l’objet d’une disposition et d’une nouvelle acquisition par lui est réputé, pour l’application du présent article, avoir fait l’objet d’une disposition et d’une nouvelle acquisition par lui de la même manière et pour les mêmes sommes que si cet alinéa s’appliquait dans le cadre du présent article.
@@ -12524,7 +12507,7 @@ où :
 
 - **(5.01)** Pour l’application du paragraphe (6), si un gain en capital, une perte en capital, un gain en capital imposable ou une perte en capital déductible visé au paragraphe (5), ou une perte en capital visée au sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***surplus hybride*** au paragraphe (1), d’une société étrangère affiliée d’une société doit être calculé en monnaie canadienne et que la monnaie visée au paragraphe (6) n’est pas la monnaie canadienne, le montant du gain ou de la perte doit être converti en son équivalence dans la monnaie visée au paragraphe (6) selon le taux de change en vigueur à la date de la disposition du bien.
 
-- **(5.1)** Malgré le paragraphe (5), dans le cas où les lois d’un pays étranger en matière d’impôt sur le revenu, qui sont prises en compte dans le calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada provenant de son entreprise exploitée activement dans un pays, ne reconnaissent pas les gains ou les pertes relatifs à la disposition (sauf celle à laquelle le paragraphe (9) s’applique) d’une immobilisation utilisée ou détenue principalement en vue de tirer un revenu d’une entreprise exploitée activement, effectuée par la société affiliée en faveur d’une personne ou d’une société de personnes (appelée « cessionnaire du bien » au présent paragraphe) qui était, au moment de la disposition, une personne ou société de personnes désignée relativement au contribuable, les règles ci-après s’appliquent au présent article :
+- **(5.1)** Malgré le paragraphe (5), dans le cas où les lois d’un pays étranger en matière d’impôt sur le revenu, qui sont prises en compte dans le calcul des gains d’une société étrangère affiliée d’un contribuable résidant au Canada provenant de son entreprise exploitée activement dans un pays, ne reconnaissent pas les gains ou les pertes relatifs à la disposition (sauf celle à laquelle le paragraphe (9) s’applique) d’une immobilisation utilisée ou détenue principalement en vue de tirer un revenu d’une entreprise exploitée activement, effectuée par la société affiliée en faveur d’une personne ou d’une société de personnes (appelée « cessionnaire du bien » au présent paragraphe) qui était, au moment de la disposition, une personne ou société de personnes désignée relativement au contribuable, les règles ci-après s’appliquent au présent article :
 	- **a)** le produit de la disposition du bien pour la société affiliée est réputé être un montant égal au total du prix de base rajusté du bien, pour elle, immédiatement avant la disposition et de toute dépense dans la mesure où elle a été engagée ou effectuée par la société affiliée en vue de procéder à la disposition;
 	- **b)** le coût, pour le cessionnaire du bien, du bien acquis de la société affiliée est réputé être un montant égal au produit de la disposition pour la société affiliée, tel que déterminé à l’alinéa a); et
 	- **c)** le cessionnaire du bien est réputé avoir acquis le bien à la date où il a été acquis par la société affiliée.
@@ -12535,7 +12518,24 @@ où :
 
 - **(7.1)** [Abrogé, 2013, ch. 34, art. 85]
 
-- **(8)** Pour le calcul de diverses sommes visées au présent article, la première année d’imposition d’une société étrangère affiliée, d’une société résidant au Canada, qui est issue d’une fusion étrangère, au sens du paragraphe 87(8.1) de la Loi, est réputée avoir commencé au moment de la fusion, et toute année d’imposition d’une société remplacée, au sens du paragraphe 5905(3), qui aurait pris fin par ailleurs après ce moment est réputée avoir pris fin immédiatement avant ce moment.
+- **(8)** Pour le calcul de diverses sommes visées au présent article, les règles ci-après s’appliquent :
+	- **a)** la première année d’imposition d’une société étrangère affiliée, d’une société résidant au Canada, qui est issue d’une fusion étrangère, au sens du paragraphe 87(8.1) de la Loi, est réputée avoir commencé au moment de la fusion, et toute année d’imposition d’une société remplacée, au sens du paragraphe 5905(3), qui aurait pris fin par ailleurs après ce moment est réputée avoir pris fin immédiatement avant ce moment;
+	- **b)** si le paragraphe 91(1.2) de la Loi s’applique à un moment donné relativement de la société étrangère affiliée d’une société, les diverses sommes visées doivent être calculées, relativement aux sommes attribuées pour la période tampon relativement au moment donné, comme si les énoncés ci-après se vérifiaient :
+		- **(i)** l’année d’imposition de la société affiliée qui aurait compris le moment donné a pris fin à la fin de la période tampon relativement au moment donné,
+		- **(ii)** les opérations ou événements, donnant lieu à des sommes attribuées, qui se sont produits au moment donné, se sont produits à la fin de la période tampon relativement au moment donné.
+
+- **(8.1)** Les définitions qui suivent s’appliquent à l’alinéa 5907(8)b).
+
+***fin de la période tampon*** S’entend, relativement à un moment donné auquel le paragraphe 91(1.2) de la Loi s’applique relativement à la société étrangère affiliée d’une société, du moment qui précède immédiatement le moment donné. (*stub-period end time*)
+
+***période tampon*** S’entend, relativement à un moment donné auquel le paragraphe 91(1.2) de la Loi s’applique relativement à une société étrangère affiliée d’une société, de la période se terminant à la fin de la période tampon relativement au moment donné et commençant immédiatement après le dernier en date des moments suivants :
+- **a)** le cas échéant, le dernier moment avant le moment donné auquel le paragraphe 91(1.2) s’est appliqué relativement à la société affiliée;
+- **b)** la fin de la dernière année d’imposition de la société affiliée avant le moment donné. (*stub period*)
+
+***sommes attribuées*** S’entendent, pour une période tampon, relativement à un moment donné visé à l’alinéa (8)b), d’une société étrangère affiliée, des sommes suivantes :
+- **a)** les sommes de tout revenu, gain ou perte de la société affiliée pour la période tampon qui sont prises en compte dans le calcul des sommes qui sont à inclure ou déductibles en vertu de l’article 91 de la Loi, relativement à la société affiliée pour la période tampon donnée, dans le calcul du revenu de la société;
+- **b)** une somme représentant une part du gain en capital ou de la perte en capital de la société affiliée — résultant d’une disposition, au cours de la période tampon ou au moment donné visé à l’alinéa (8)b), d’un bien qui n’est pas un bien exclu — qui n’est pas visée à l’alinéa a);
+- **c)** tout impôt sur le revenu ou sur les bénéfices payé au gouvernement d’un pays relativement aux sommes visées à l’alinéa a) ou b). (*attributed amounts*)
 
 - **(9)** Dans le cas où une société étrangère affiliée d’un contribuable a fait l’objet d’une liquidation et dissolution (autrement que par suite d’une fusion étrangère au sens du paragraphe 87(8.1) de la Loi), pour ce qui est du calcul des diverses sommes visées au présent article, les règles ci-après s’appliquent :
 	- **a)** si, à un moment donné au cours de la liquidation et dissolution, la société affiliée dispose d’un bien ayant une juste valeur marchande égale ou supérieure à 90 % de celle de l’ensemble des biens qui lui appartenaient immédiatement avant le début de la liquidation et dissolution, son année d’imposition qui aurait compris par ailleurs le moment donné est réputée avoir pris fin immédiatement avant ce moment;
@@ -12562,7 +12562,7 @@ aux fins de la présente partie, les gains nets ou la perte nette doivent être 
 
 - **(11.11)** Pour l’application du paragraphe (11) relativement à une société étrangère affiliée d’une société, lorsqu’un accord général d’échange de renseignements fiscaux entre en vigueur à une date donnée, l’accord est réputé entrer en vigueur et commencer à s’appliquer le premier jour de l’année d’imposition de la société affiliée qui comprend la date donnée.
 
-- **(11.2)** Pour l’application de la présente partie, une société étrangère affiliée d’une société est réputée, à un moment donné, ne pas résider dans un pays désigné, sauf dans le cas où, pour l’application de l’accord ou de la convention visé au paragraphe (11) et intervenu entre le Canada et ce pays :
+- **(11.2)** Pour l’application de la présente partie, une société étrangère affiliée d’une société est réputée, à un moment donné, ne pas résider dans un pays désigné, sauf dans le cas où, pour l’application de l’accord ou de la convention visé au paragraphe (11) et intervenu entre le Canada et ce pays :
 	- **a)** la société affiliée réside dans le pays désigné à ce moment;
 	- **b)** la société affiliée résiderait dans le pays désigné à ce moment si elle était considérée comme une personne morale aux fins de l’impôt sur le revenu de ce pays;
 	- **c)** dans le cas où l’accord ou la convention est entré en vigueur avant 1995, la société affiliée résiderait dans le pays désigné à ce moment si ce n’était une disposition de l’accord ou de la convention — qui n’a pas été modifiée après 1994 — selon laquelle elle est exclue de son application;
@@ -12632,14 +12632,14 @@ où :
 - **V** le facteur fiscal approprié, au sens du paragraphe 95(1) de la Loi, applicable à l’autre contribuable pour son année d’imposition qui comprend le moment immédiatement avant le moment donné,
 - **W** la somme déterminée selon l’alinéa a).
 
-- **(14)** Pour l’application de l’élément C de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément Q de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été ajoutée au montant intrinsèque d’impôt étranger ou au montant intrinsèque d’impôt hybride, selon le cas, de la société étrangère affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+- **(14)** Pour l’application de l’élément C de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément Q de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été ajoutée au montant intrinsèque d’impôt étranger ou au montant intrinsèque d’impôt hybride, selon le cas, de la société étrangère affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
 	- **a)** la somme (déterminée selon l’hypothèse que la disposition hypothétique a été effectuée au moment de la disposition réputée) qu’il est raisonnable de considérer comme étant le montant de l’impôt sur le revenu ou sur les bénéfices que la société affiliée aurait eu à payer au gouvernement d’un pays étranger donné en raison de la disposition hypothétique, en plus de tout autre impôt sur le revenu ou sur les bénéfices payable par ailleurs à ce gouvernement, au titre du gain ou du revenu qu’elle a tiré de cette disposition;
 	- **b)** la somme qu’il est raisonnable de considérer comme étant la partie de l’impôt hypothétique sur le revenu ou sur les bénéfices payable par la société affiliée au gouvernement du pays donné au titre du gain ou du revenu qu’elle a tiré de la disposition hypothétique (déterminé selon les hypothèses que la disposition hypothétique a été effectuée immédiatement après le moment immédiatement après le moment de la disposition réputée et que l’impôt hypothétique sur le revenu ou sur les bénéfices payable par la société affiliée au gouvernement du pays donné relativement à la disposition hypothétique est égal à la somme déterminée selon l’alinéa a)) qui, en raison d’un accord ou d’une convention général visant à éliminer la double imposition du revenu conclu entre le gouvernement du pays donné et le gouvernement d’un autre pays, n’aurait pas été payable au gouvernement du pays donné.
 
-- **(15)** Pour l’application de l’élément E de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément S de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été retranchée du montant intrinsèque d’impôt étranger ou du montant intrinsèque d’impôt hybride, selon le cas, de la société affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+- **(15)** Pour l’application de l’élément E de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément S de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été retranchée du montant intrinsèque d’impôt étranger ou du montant intrinsèque d’impôt hybride, selon le cas, de la société affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
 	- **a)** la somme (déterminée selon l’hypothèse que la disposition hypothétique a été effectuée au moment de la disposition réputée) qu’il est raisonnable de considérer comme étant le montant de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays étranger donné aurait remboursé à la société affiliée en raison de la disposition hypothétique, en plus de tout autre impôt sur le revenu ou sur les bénéfices remboursable par ailleurs par ce gouvernement, au titre de la perte ou de la perte en capital, selon le cas, de la société affiliée résultant de cette disposition;
 	- **b)** la somme qu’il est raisonnable de considérer comme étant la partie de l’impôt hypothétique sur le revenu ou sur les bénéfices remboursable à la société affiliée par le gouvernement du pays donné au titre de sa perte ou perte en capital, selon le cas, résultant de la disposition hypothétique (déterminée selon les hypothèses que la disposition hypothétique a été effectuée immédiatement après le moment immédiatement après le moment de la disposition réputée et que l’impôt hypothétique sur le revenu ou sur les bénéfices remboursable à la société affiliée par le gouvernement du pays donné relativement à la disposition hypothétique est égal à la somme déterminée selon l’alinéa a)) qui, en raison d’un accord ou d’une convention général visant à éliminer la double imposition du revenu conclu entre le gouvernement du pays donné et le gouvernement d’un autre pays, n’aurait pas été remboursable par le gouvernement du pays donné.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-211, art. 1; DORS/78-913, art. 2; DORS/80-141, art. 5; DORS/85-176, art. 4; DORS/88-165, art. 29(F); DORS/89-135, art 3; DORS/94-686, art. 31(F), 58(F), 69(F), 70(F), 78(F) et 79(F); DORS/96-228, art. 2; DORS/97-505, art. 8; 2009, ch. 2, art. 112; 2013, ch. 34, art. 46, 85 et 401; 2014, ch. 39, art. 88.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-211, art. 1; DORS/78-913, art. 2; DORS/80-141, art. 5; DORS/85-176, art. 4; DORS/88-165, art. 29(F); DORS/89-135, art 3; DORS/94-686, art. 31(F), 58(F), 69(F), 70(F), 78(F) et 79(F); DORS/96-228, art. 2; DORS/97-505, art. 8; 2009, ch. 2, art. 112; 2013, ch. 34, art. 46, 85 et 401; 2014, ch. 39, art. 88; 2017, ch. 33, art. 97.
 
 
 
@@ -13206,21 +13206,21 @@ autrement que par suite du paiement d’un dividende versé par une filiale à c
 
 **6204** 
 
-- **(1)** Pour l’application du sous-alinéa 110(1)d)(i) de la Loi, une action est une action visée du capital-actions d’une société au moment de sa vente ou de son émission, selon le cas, si à ce moment :
-	- **a)** conformément aux conditions de l’action ou à un accord relatif à l’action ou à son émission :
+- **(1)** Pour l’application du sous-alinéa 110(1)d)(i.1) de la Loi, est une action visée du capital-actions d’une société au moment de sa vente ou de son émission, selon le cas, l’action à l’égard de laquelle les énoncés ci-après s’avèrent à ce moment :
+	- **a)** conformément aux conditions de l’action ou à un accord relatif à l’action ou à son émission :
 		- **(i)** le montant des dividendes — appelé « part des bénéfices » au présent article — que la société peut déclarer ou verser sur l’action n’est pas limité à un montant maximum ni fixé à un montant minimum, à ce moment ou ultérieurement, par une formule ou autrement,
 		- **(ii)** le montant — appelé « part de liquidation » au présent article — que le détenteur de l’action a le droit de recevoir sur celle-ci à la dissolution ou liquidation de la société n’est pas limité à un montant maximum ni fixé à un montant minimum, par une formule ou autrement,
 		- **(iii)** l’action ne peut être convertie en une autre valeur, sauf s’il s’agit d’une valeur de la société ou d’une autre société avec laquelle elle a un lien de dépendance qui est une action visée ou qui le serait à la date de la conversion,
 		- **(iv)** le détenteur de l’action ne peut, à ce moment ou ultérieurement, faire en sorte que l’action soit rachetée, acquise ou annulée par la société ou par une personne apparentée à la société, sauf si le rachat, l’acquisition ou l’annulation est exigé aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
 		- **(v)** aucune personne ou société de personnes n’a l’obligation, conditionnelle ou non, de réduire ou de faire en sorte que la société réduise, à ce moment ou ultérieurement, le capital versé au titre de l’action, sauf si la réduction est exigée aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
 		- **(vi)** ni la société ni une personne apparentée à elle n’ont le droit ou l’obligation, conditionnel ou non, de racheter, d’acquérir ou d’annuler, à ce moment ou ultérieurement, tout ou partie de l’action, sauf en contrepartie d’un montant qui correspond approximativement à la juste valeur marchande de l’action, déterminée compte non tenu d’un tel droit ou d’une telle obligation, ou d’un montant inférieur;
-	- **b)** on ne peut raisonnablement s’attendre à ce que, dans les deux ans suivant la vente ou l’émission de l’action, la société ou une personne apparentée à celle-ci rachète, acquière ou annule l’action en tout ou en partie, ou réduise le capital versé de la société au titre de l’action, autrement que par suite :
+	- **b)** on ne peut raisonnablement s’attendre à ce que, dans les deux ans suivant la vente ou l’émission de l’action, la société ou une personne apparentée à celle-ci rachète, acquière ou annule l’action en tout ou en partie, ou réduise le capital versé de la société au titre de l’action, autrement que par suite :
 		- **(i)** soit de la fusion d’une filiale à cent pour cent,
 		- **(ii)** soit d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi,
 		- **(iii)** soit d’une distribution ou attribution à laquelle s’applique le paragraphe 84(2) de la Loi;
 	- **c)** il n’est pas raisonnable de s’attendre à ce que les modalités de l’action ou une convention concernant l’action ou sa vente ou son émission soient modifiées, ou à ce qu’une nouvelle convention concernant l’action, sa vente ou son émission soit conclue, dans les deux ans suivant le moment de la vente ou de l’émission de l’action, de telle sorte que l’action n’aurait pas été une action visée si elle avait été vendue ou émise au moment d’une telle modification ou à celui où la nouvelle convention est conclue.
 
-- **(2)** Pour l’application du paragraphe (1) :
+- **(2)** Pour l’application du paragraphe (1) :
 	- **a)** la part des bénéfices liée à une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum, lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part des bénéfices liée à une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa (1)a)(i);
 	- **b)** la part de liquidation d’une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum, lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part de liquidation d’une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa (1)a)(ii);
 	- **c)** la question de savoir si une action du capital-actions d’une société donnée est une action visée est déterminée compte non tenu du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée, si les conditions suivantes sont réunies :
@@ -13230,12 +13230,12 @@ autrement que par suite du paiement d’un dividende versé par une filiale à c
 			- **(B)** soit que le droit ou l’obligation est prévu principalement en vue de fournir au détenteur un marché pour l’action et que la somme à payer lors de l’acquisition de l’action ne dépassera pas la juste valeur marchande de l’action immédiatement avant l’acquisition,
 		- **(iii)** compte tenu de toutes les circonstances, il est raisonnable de considérer qu’aucune partie de la somme à payer lors de l’acquisition de l’action n’est déterminable directement en fonction des bénéfices de la société donnée ou d’une autre société avec laquelle celle-ci a un lien de dépendance, pour tout ou partie de la période au cours de laquelle le détenteur est propriétaire de l’action ou a le droit de l’acquérir, sauf si la mention des bénéfices de la société donnée ou de l’autre société ne sert qu’à établir la juste valeur marchande de l’action suivant une formule prévue par les modalités de l’action ou dans la convention concernant l’action ou son émission, selon le cas.
 
-- **(3)** Pour l’application du paragraphe (1), ***personne apparentée*** à une société s’entend des personnes suivantes :
+- **(3)** Pour l’application du paragraphe (1), ***personne apparentée*** à une société s’entend des personnes suivantes :
 	- **a)** une personne ou une société de personnes avec laquelle la société a un lien de dépendance sauf en raison d’un droit visé à l’alinéa 251(5)b) de la Loi qui découle de l’offre de la personne ou de la société de personnes d’acquérir la totalité ou la presque totalité des actions du capital-actions de la société;
 	- **b)** une société de personnes ou une fiducie dont la société (ou une personne ou une société de personnes avec laquelle elle a un lien de dépendance) est respectivement associé ou bénéficiaire.
 
 - **(4)** Pour l’application du paragraphe (3), il n’est pas tenu compte du paragraphe 256(9) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 8; DORS/94-315, art. 2; DORS/94-686, art. 78(F) et 79(F); DORS/97-409, art. 1; DORS/2003-328, art. 4; DORS/2007-212, art. 4; DORS/2010-93, art. 22.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 8; DORS/94-315, art. 2; DORS/94-686, art. 78(F) et 79(F); DORS/97-409, art. 1; DORS/2003-328, art. 4; DORS/2007-212, art. 4; DORS/2010-93, art. 22; 2017, ch. 33, art. 98.
 
 
 
@@ -13505,8 +13505,8 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6503** Sont visés, pour l’application des alinéas 60j.02) à j.04) de la Loi, les paragraphes 39(7) et 42(8) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et le paragraphe 24(6) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-346, art. 2.
+**6503** Sont visés, pour l’application des alinéas 60j.02) à j.04) de la Loi, les paragraphes 41(5) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), 39(7) et 42(8) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et 24(6) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-346, art. 2; 2017, ch. 33, art. 99.
 
 
 
@@ -13998,16 +13998,17 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 ## Montants prescrits et régions visées
 
 
-**7300** Pour l’application de l’alinéa 12(1)x) de la Loi, ***montant prescrit*** s’entend, selon le cas :
-- **a)** d’un montant payé soit par le Conseil de développement économique des autochtones créé par le décret C.P. 1983-3394 du 31 octobre 1983 conformément au Programme de développement économique des autochtones, soit dans le cadre du Programme portant sur les sociétés de financement des autochtones prévu par la Stratégie canadienne de développement économique des autochtones, à une société constituée pour fournir à des entreprises autochtones des prêts, des garanties d’emprunt, du financement provisoire, du capital de risque, du financement de baux, des cautionnements ou d’autres services de financement analogues et dont toutes les actions du capital-actions remplissent l’une des conditions suivantes :
+**7300** Pour l’application de l’alinéa 12(1)x) de la Loi, ***montant prescrit*** s’entend, selon le cas :
+- **a)** d’un montant payé soit par le Conseil de développement économique des autochtones créé par le décret C.P. 1983-3394 du 31 octobre 1983 conformément au Programme de développement économique des autochtones, soit dans le cadre du Programme portant sur les sociétés de financement des autochtones prévu par la Stratégie canadienne de développement économique des autochtones, à une société constituée pour fournir à des entreprises autochtones des prêts, des garanties d’emprunt, du financement provisoire, du capital de risque, du financement de baux, des cautionnements ou d’autres services de financement analogues et dont toutes les actions du capital-actions remplissent l’une des conditions suivantes :
 	- **(i)** elles appartiennent à des particuliers autochtones,
 	- **(ii)** elles sont détenues en fiducie au profit exclusif de particuliers autochtones,
 	- **(iii)** elles appartiennent à une société dont toutes les actions sont soit la propriété de particuliers autochtones, soit détenues en fiducie au profit exclusif de tels particuliers,
 	- **(iv)** elles appartiennent à des personnes mentionnées aux sous-alinéas (i), (ii) ou (iii) ou sont détenues par ces personnes dans le cadre d’un ensemble de mécanismes de propriété visés à ces sous-alinéas;
 - **b)** d’une aide prescrite au sens de l’article 6702;
 - **c)** d’une somme qui correspond à la partie d’un prêt d’études qui a fait l’objet d’une dispense de remboursement en vertu de l’article 9.2 de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md) ou de l’article 11.1 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md);
+- **c.1)** d’une somme qui correspond à la partie d’un prêt qui a fait l’objet d’une dispense de remboursement dans le cadre d’un programme provincial et qui serait une somme visée à l’alinéa c) si l’article 11.1 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) ou l’article 9.2 de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md) s’appliquait aux prêts consentis dans le cadre de ce programme;
 - **d)** d’un droit d’émissions accordé au contribuable sous le régime d’une loi fédérale ou provinciale.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 12; DORS/88-312, art. 2; DORS/90-120, art. 1; DORS/91-276, art. 1; DORS/94-686, art. 79(F); 2011, ch. 24, art. 88; 2016, ch. 12, art. 81.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 12; DORS/88-312, art. 2; DORS/90-120, art. 1; DORS/91-276, art. 1; DORS/94-686, art. 79(F); 2011, ch. 24, art. 88; 2016, ch. 12, art. 81; 2017, ch. 33, art. 100.
 
 
 
@@ -15131,56 +15132,56 @@ où
 #### Prestations acquises pour l’année
 
 
-- **(2)** Pour l’application du paragraphe (1) et sous réserve des paragraphes (6), (8) et (9), les opérations suivantes sont effectuées pour déterminer les prestations acquises à un particulier pour une année civile aux termes de la disposition à prestations déterminées d’un régime de pension agréé :
+- **(2)** Pour l’application du paragraphe (1) et sous réserve des paragraphes (6), (8) et (9), les opérations suivantes sont effectuées pour déterminer les prestations acquises à un particulier pour une année civile aux termes de la disposition à prestations déterminées d’un régime de pension agréé :
 	- **a)** calculer la fraction de la pension normalisée prévue pour le particulier par la disposition à la fin de l’année qu’il est raisonnable de considérer comme s’étant accumulée pour l’année;
-	- **b)** si l’année en question est postérieure à 1989 et antérieure à 1995, déterminer le moins élevé du montant calculé selon l’alinéa a) ou du montant suivant pour l’année :
-		- **(i)** 1990 : 1 277,78 $,
-		- **(ii)** 1991 ou 1992 : 1 388,89 $,
-		- **(iii)** 1993 : 1 500,00 $,
-		- **(iv)** 1994 : 1 611,11 $;
+	- **b)** si l’année en question est postérieure à 1989 et antérieure à 1995, déterminer le moins élevé du montant calculé selon l’alinéa a) ou du montant suivant pour l’année :
+		- **(i)** 1990 : 1 277,78 $,
+		- **(ii)** 1991 ou 1992 : 1 388,89 $,
+		- **(iii)** 1993 : 1 500,00 $,
+		- **(iv)** 1994 : 1 611,11 $;
 	- **c)** lorsque, dans le calcul des prestations viagères payables au particulier aux termes de la disposition, le montant de ces prestations qui lui seraient payables par ailleurs est réduit du montant des prestations viagères qui lui sont payables aux termes de la disposition à cotisations déterminées d’un régime de pension agréé ou du montant d’une rente viagère qui lui est payable aux termes d’un régime de participation différée aux bénéfices, retrancher du montant qui serait déterminé par ailleurs selon le présent paragraphe le neuvième du total des montants représentant chacun le crédit de pension du particulier pour l’année dans le cadre de la disposition à cotisations déterminées ou du régime de participation différée aux bénéfices.
 
 #### Pension normalisée
 
 
-- **(3)** Pour l’application de l’alinéa (2)a) et sous réserve du paragraphe (11), la pension normalisée prévue pour un particulier par la disposition à prestations déterminées d’un régime de pension agréé à la fin d’une année civile donnée correspond aux prestations viagères, calculées sur une année, qui lui seraient payables aux termes de la disposition immédiatement après la fin de l’année donnée si les hypothèses suivantes étaient admises :
+- **(3)** Pour l’application de l’alinéa (2)a) et sous réserve du paragraphe (11), la pension normalisée prévue pour un particulier par la disposition à prestations déterminées d’un régime de pension agréé à la fin d’une année civile donnée correspond aux prestations viagères, calculées sur une année, qui lui seraient payables aux termes de la disposition immédiatement après la fin de l’année donnée si les hypothèses suivantes étaient admises :
 	- **a)** lorsque des prestations viagères ne commencent pas à être versées au particulier aux termes de la disposition avant la fin de l’année donnée, elles commencent à lui être versées immédiatement après la fin de l’année;
 	- **b)** lorsque le particulier n’a pas atteint 65 ans avant le moment où des prestations viagères commencent à lui être versées (ou sont présumées, par l’effet de l’alinéa a), avoir commencé à lui être versées), il avait atteint cet âge à ce moment;
 	- **c)** toutes les prestations auxquelles le particulier a droit aux termes de la disposition lui sont acquises intégralement;
 	- **d)** lorsque les prestations viagères du particulier feraient l’objet par ailleurs d’une réduction fondée sur l’âge du particulier ou sur la durée de ses services, ou sur les deux, ou d’une réduction semblable, une telle réduction n’est pas opérée;
 	- **d.1)** les prestations viagères du particulier ne font l’objet d’aucune réduction fondée sur les prestations visées à l’une des divisions 8503(2)a)(vi)(A) à (C);
 	- **d.2)** les prestations viagères du particulier ne font l’objet d’aucun rajustement permis par l’effet du sous-alinéa 8503(2)a)(ix);
-	- **e)** lorsque les prestations viagères du particulier sont fonction de la rémunération qu’il a reçue au cours d’une année civile autre que l’année donnée, cette rémunération est calculée selon les hypothèses suivantes :
+	- **e)** lorsque les prestations viagères du particulier sont fonction de la rémunération qu’il a reçue au cours d’une année civile autre que l’année donnée, cette rémunération est calculée selon les hypothèses suivantes :
 		- **(i)** lorsque la rémunération du particulier pour l’année donnée et pour l’autre année est celle d’une personne qui rend des services à plein temps tout au long de chacune des années, la rémunération qu’il a reçue au cours de l’autre année est identique à celle qu’il a reçue au cours de l’année donnée,
 		- **(ii)** dans le cas où le sous-alinéa (i) ne s’applique pas et où le particulier a rendu des services au cours de l’année donnée, la rémunération qu’il a reçue au cours de l’autre année est celle qu’il aurait alors reçue (ou une estimation raisonnable de celle-ci, déterminée selon des modalités que le ministre juge acceptables) si son taux de rémunération pour l’autre année avait été le même que celui pour l’année donnée,
 		- **(iii)** dans le cas où le sous-alinéa (i) ne s’applique pas et où le particulier n’a pas rendu de services au cours de l’année donnée, la rémunération qu’il a reçue au cours de l’autre année est celle qu’il aurait alors reçue (ou une estimation raisonnable de celle-ci, déterminée selon une méthode que le ministre juge acceptable) si son taux de rémunération pour l’autre année avait été celui qu’il serait raisonnable de considérer comme son taux de rémunération pour l’année donnée s’il avait rendu des services au cours de cette année;
 	- **f)** lorsque les prestations viagères du particulier sont fonction de sa rémunération et que tout ou partie de la rémunération qu’il reçoit au cours de l’année donnée est assimilée, selon la disposition, à de la rémunération reçue au cours d’une année civile antérieure à l’année donnée pour des services rendus au cours de cette année antérieure, cette rémunération constitue la rémunération pour services rendus au cours de l’année donnée;
-	- **g)** lorsque les prestations viagères du particulier sont fonction de sa rémunération et que l’année donnée est postérieure à 1989 et antérieure à 1995, les prestations qu’il est raisonnable de considérer comme se rapportant aux paliers de rémunération suivants pour les années ci-après sont exclues :
-		- **(i)** 1990 : 63 889 $ à 86 111 $,
-		- **(ii)** 1991 ou 1992 : 69 444 $ à 86 111 $,
-		- **(iii)** 1993 : 75 000 $ à 86 111 $,
-		- **(iv)** 1994 : 80 556 $ à 86 111 $;
-	- **h)** lorsque les conditions suivantes sont réunies :
+	- **g)** lorsque les prestations viagères du particulier sont fonction de sa rémunération et que l’année donnée est postérieure à 1989 et antérieure à 1995, les prestations qu’il est raisonnable de considérer comme se rapportant aux paliers de rémunération suivants pour les années ci-après sont exclues :
+		- **(i)** 1990 : 63 889 $ à 86 111 $,
+		- **(ii)** 1991 ou 1992 : 69 444 $ à 86 111 $,
+		- **(iii)** 1993 : 75 000 $ à 86 111 $,
+		- **(iv)** 1994 : 80 556 $ à 86 111 $;
+	- **h)** lorsque les conditions suivantes sont réunies :
 		- **(i)** les prestations viagères du particulier sont fonction de sa rémunération,
 		- **(ii)** la formule qui sert au calcul des prestations viagères du particulier prévoit un rajustement de la rémunération de celui-ci pour une ou plusieurs années civiles,
 		- **(iii)** le rajustement effectué à la rémunération du particulier pour une année déterminée consiste à multiplier cette rémunération par un facteur ne dépassant pas le rapport entre le salaire moyen pour l’année du calcul des prestations viagères du particulier et le salaire moyen pour l’année déterminée (ou autre semblable mesure de la variation du salaire moyen),
 		- **(iv)** il est raisonnable de considérer que le rajustement a été effectué pour augmenter la rémunération du particulier pour l’année déterminée et ainsi tenir compte de tout ou partie des augmentations de la moyenne des traitements et salaires entre cette année et l’année du calcul des prestations viagères du particulier,
 la formule ne prévoit pas le rajustement de la rémunération du particulier pour l’année déterminée;
 	- **i)** lorsque les prestations viagères du particulier sont fonction du maximum des gains annuels ouvrant droit à pension pour des années civiles autres que l’année donnée, le maximum des gains annuels ouvrant droit à pension pour chacune de ces années est égal à ce maximum pour l’année donnée;
-	- **j)** lorsque les prestations viagères du particulier sont fonction du montant réel de la pension qui lui est payable aux termes du régime institué par le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions au sens de l’article 3 de cette loi, cette pension, calculée sur une année, est égale à l’un ou l’autre des montants suivants :
-		- **(i)** 25 pour cent du moins élevé du maximum des gains annuels ouvrant droit à pension pour l’année donnée et de l’un des montants suivants :
+	- **j)** lorsque les prestations viagères du particulier sont fonction du montant réel de la pension qui lui est payable aux termes du régime institué par le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions au sens de l’article 3 de cette loi, cette pension, calculée sur une année, est égale à l’un ou l’autre des montants suivants :
+		- **(i)** 25 pour cent du moins élevé du maximum des gains annuels ouvrant droit à pension pour l’année donnée et de l’un des montants suivants :
 			- **(A)** si le particulier rend des services à plein temps tout au long de l’année donnée à des employeurs qui participent au régime, le total des montants représentant chacun la rémunération que le particulier reçoit pendant l’année donnée d’un tel employeur,
 			- **(B)** sinon, le montant qui serait vraisemblablement calculé selon la division (A) si le particulier avait rendu des services à plein temps tout au long de l’année donnée à des employeurs qui participent au régime,
 		- **(ii)** au choix de l’administrateur du régime, un autre montant calculé selon une méthode qui permet d’estimer cette pension et qui vraisemblablement donne des résultats à peu près semblables à ceux obtenus selon le sous-alinéa (i);
 	- **k)** lorsque les prestations viagères du particulier sont fonction de la pension qui lui est payable en vertu de la partie I de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), le montant de cette pension pour chaque année civile est égal au total des montants représentant chacun la pleine pension qui est payable en vertu de cette partie pour un mois de l’année donnée;
 	- **l)** sauf autorisation contraire du ministre donnée par écrit, lorsque les prestations viagères du particulier sont fonction de prestations (à l’exception des prestations de pension de l’État et des prestations semblables d’un pays étranger) payables aux termes d’une autre disposition à cotisations ou à prestations déterminées d’un régime de pension ou aux termes d’un régime de participation différée aux bénéfices, ces prestations portent au maximum les prestations viagères du particulier;
 	- **m)** lorsque les prestations viagères du particulier comprendraient par ailleurs des prestations que le régime doit prévoir en application d’une disposition déterminée d’une loi fédérale ou provinciale, selon l’article 8513, ou des prestations qu’il devrait prévoir si une telle disposition s’appliquait à l’ensemble des participants au régime, il n’est pas tenu compte de telles prestations;
-	- **n)** lorsque les conditions suivantes sont réunies :
+	- **n)** lorsque les conditions suivantes sont réunies :
 		- **(i)** le particulier atteint 65 ans avant que des prestations viagères commencent à lui être versées (ou soient présumées, par l’effet de l’alinéa a), avoir commencé à lui être versées),
 		- **(ii)** le calcul de ces prestations fait l’objet d’un rajustement en vue de compenser, en tout ou en partie, la diminution de la valeur des prestations viagères qui résulterait par ailleurs du fait que ces prestations ne commencent à être versées au particulier qu’après qu’il a atteint 65 ans,
 un tel rajustement n’est pas effectué, sauf dans la mesure où il dépasse celui qui serait effectué selon une méthode équivalente sur le plan actuariel;
-	- **o)** sauf disposition contraire au paragraphe (4), lorsque les prestations viagères du particulier sont fonction :
-		- **(i)** soit du type de prestations qui lui sont assurées aux termes de la disposition (indépendamment du fait qu’il puisse exercer un choix à cet égard), y compris :
+	- **o)** sauf disposition contraire au paragraphe (4), lorsque les prestations viagères du particulier sont fonction :
+		- **(i)** soit du type de prestations qui lui sont assurées aux termes de la disposition (indépendamment du fait qu’il puisse exercer un choix à cet égard), y compris :
 			- **(A)** les prestations à verser après son décès,
 			- **(B)** les prestations de retraite, à l’exclusion des prestations viagères, qui lui sont assurées,
 			- **(C)** l’importance des rajustements de coût de vie dont les prestations viagères feront l’objet,
@@ -15192,10 +15193,10 @@ le type de prestations et les circonstances portent au maximum les prestations v
 #### Autres types de prestations
 
 
-- **(4)** Lorsque les modalités de la disposition à prestations déterminées d’un régime de pension agréé permettent au participant de choisir de recevoir des prestations viagères supplémentaires au lieu de prestations qui, en l’absence du choix, seraient payables après son décès — survenu après que les prestations de retraite aux termes de la disposition commencent à lui être versées —, l’alinéa (3)o) s’applique comme si les choix suivants n’étaient pas offerts au participant :
+- **(4)** Lorsque les modalités de la disposition à prestations déterminées d’un régime de pension agréé permettent au participant de choisir de recevoir des prestations viagères supplémentaires au lieu de prestations qui, en l’absence du choix, seraient payables après son décès — survenu après que les prestations de retraite aux termes de la disposition commencent à lui être versées —, l’alinéa (3)o) s’applique comme si les choix suivants n’étaient pas offerts au participant :
 	- **a)** le choix de recevoir des prestations viagères supplémentaires — ne dépassant pas des prestations supplémentaires déterminées selon une méthode équivalente sur le plan actuariel — au lieu de tout ou partie d’une garantie de prestations de retraite sur une période minimale d’au plus dix ans;
-	- **b)** le choix de recevoir des prestations viagères supplémentaires au lieu de prestations de retraite qui seraient autrement payables à un particulier qui est un époux ou un conjoint de fait ou un ex-époux ou un ancien conjoint de fait du participant pour une période commençant après le décès du participant et se terminant au décès du particulier, dans le cas où, à la fois :
-		- **(i)** le choix n’est possible que si l’espérance de vie du particulier est beaucoup moins longue que la normale selon l’attestation écrite délivrée par un médecin autorisé à exercer sa profession par la législation d’une province ou du lieu de résidence du particulier,
+	- **b)** le choix de recevoir des prestations viagères supplémentaires au lieu de prestations de retraite qui seraient autrement payables à un particulier qui est un époux ou un conjoint de fait ou un ex-époux ou un ancien conjoint de fait du participant pour une période commençant après le décès du participant et se terminant au décès du particulier, dans le cas où, à la fois :
+		- **(i)** le choix n’est possible que si l’espérance de vie du particulier est beaucoup moins longue que la normale selon l’attestation écrite délivrée par un médecin ou infirmier praticien autorisé à exercer sa profession par la législation d’une province ou du lieu de résidence du particulier,
 		- **(ii)** les prestations supplémentaires ne dépassent pas celles qui seraient déterminées selon une méthode équivalente sur le plan actuariel si l’espérance de vie du particulier était normale.
 
 #### Cessation du droit de recevoir des prestations
@@ -15206,7 +15207,7 @@ le type de prestations et les circonstances portent au maximum les prestations v
 #### Compensation des prestations déterminées
 
 
-- **(6)** Lorsque les prestations viagères assurées à un participant aux termes d’une disposition à prestations déterminées donnée d’un régime de pension agréé sont fonction des prestations viagères qui lui sont assurées aux termes d’autres semblables dispositions de régimes de pension agréés, les prestations acquises au participant pour une année civile aux termes de la disposition donnée correspondent à l’excédent éventuel du montant visé à l’alinéa a) sur le montant visé à l’alinéa b) :
+- **(6)** Lorsque les prestations viagères assurées à un participant aux termes d’une disposition à prestations déterminées donnée d’un régime de pension agréé sont fonction des prestations viagères qui lui sont assurées aux termes d’autres semblables dispositions de régimes de pension agréés, les prestations acquises au participant pour une année civile aux termes de la disposition donnée correspondent à l’excédent éventuel du montant visé à l’alinéa a) sur le montant visé à l’alinéa b) :
 	- **a)** le montant qui, sans le présent paragraphe, représenterait les prestations acquises au participant pour l’année aux termes de la disposition donnée si les prestations prévues par les autres dispositions l’étaient par la disposition donnée;
 	- **b)** le montant qui représenterait les prestations acquises au participant pour l’année aux termes des autres dispositions si celles-ci ne formaient qu’une seule disposition.
 
@@ -15218,7 +15219,7 @@ le type de prestations et les circonstances portent au maximum les prestations v
 #### Disposition transitoire — régimes salaires de carrière
 
 
-- **(8)** Lorsque les conditions suivantes sont réunies :
+- **(8)** Lorsque les conditions suivantes sont réunies :
 	- **a)** les prestations viagères prévues par la disposition à prestations déterminées d’un régime de pension étaient égales, le 27 mars 1988, au plus élevé des prestations fondées sur les salaires de carrière et de celles fondées sur le salaire de fin de carrière ou des meilleures années,
 	- **b)** la méthode de calcul des prestations viagères prévues par la disposition n’a pas été modifiée après le 27 mars 1988 et avant la fin d’une année civile donnée,
 	- **c)** il était raisonnable de s’attendre, le 1<sup>er</sup> janvier 1990, que les prestations viagères à verser aux termes de la disposition à au moins 75 pour cent des participants au régime à cette date (sauf ceux qui n’acquièrent pas de prestations aux termes de la disposition après cette date) soient fondées sur le salaire de fin de carrière ou des meilleures années,
@@ -15227,17 +15228,17 @@ les prestations acquises aux termes de la disposition pour l’année donnée, s
 #### Disposition transitoire — taux d’accumulation supérieur à 2 pour cent
 
 
-- **(9)** Sous réserve du paragraphe (6), lorsque les conditions suivantes sont réunies :
+- **(9)** Sous réserve du paragraphe (6), lorsque les conditions suivantes sont réunies :
 	- **a)** les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension agréé correspondent, en partie, au produit de la rémunération du participant (ou d’une fonction de celle-ci) et d’un ou de plusieurs taux d’accumulation des prestations,
 	- **b)** le taux maximal d’accumulation des prestations qui est applicable est supérieur à 2 pour cent,
-les prestations acquises au participant pour 1990 ou 1991 aux termes de la disposition correspondent au moins élevé des montants suivants :
+les prestations acquises au participant pour 1990 ou 1991 aux termes de la disposition correspondent au moins élevé des montants suivants :
 	- **c)** les prestations acquises au participant pour l’année déterminées par ailleurs;
-	- **d)** 2 pour cent du total des montants représentant chacun le montant qui correspondrait à la rétribution du participant pour l’année reçue d’un employeur qui a participé au régime au cours de l’année au profit du participant, abstraction faite des sous- alinéas a)(i) et (ii) et des alinéas b) et c) de la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi.
+	- **d)** 2 pour cent du total des montants représentant chacun le montant qui correspondrait à la rétribution du participant pour l’année reçue d’un employeur qui a participé au régime au cours de l’année au profit du participant, abstraction faite des sous- alinéas a)(i) et (ii) et des alinéas b) et c) de la définition de rétribution au paragraphe 147.1(1) de la Loi.
 
 #### Période de rémunération réduite
 
 
-- **(10)** Pour l’application de l’alinéa (9)d), lorsque le participant à un régime de pension agréé se voit assurer des prestations aux termes d’une disposition à prestations déterminées du régime pour une période en 1990 ou 1991 tout au long de laquelle :
+- **(10)** Pour l’application de l’alinéa (9)d), lorsque le participant à un régime de pension agréé se voit assurer des prestations aux termes d’une disposition à prestations déterminées du régime pour une période en 1990 ou 1991 tout au long de laquelle :
 	- **a)** d’une part, en raison d’une invalidité, d’une période d’absence, d’une mise en disponibilité ou d’autres circonstances, il n’a pas rendu de services aux employeurs qui participent au régime ou leur a rendu des services réduits,
 	- **b)** d’autre part, il n’a pas reçu de rémunération ou a reçu une rémunération réduite,
 sa rétribution est calculée comme s’il avait reçu pour la période une rémunération égale à celle qu’il aurait vraisemblablement reçue s’il avait rendu des services de façon régulière tout au long de la période (compte tenu des services qu’il a rendus avant la période) et si son taux de rémunération avait été proportionnel à celui auquel il était rémunéré lorsqu’il rendait des services de façon régulière.
@@ -15246,7 +15247,7 @@ sa rétribution est calculée comme s’il avait reçu pour la période une rém
 
 
 - **(11)** S’il est raisonnable de considérer que les modalités de la disposition à prestations déterminées d’un régime de pension agréé ont été établies ou modifiées de sorte que le crédit de pension d’un particulier pour une année civile dans le cadre de la disposition serait, sans le présent paragraphe, réduit par suite de l’application de l’alinéa (3)g), cet alinéa ne s’applique pas au calcul de la pension normalisée prévue pour le particulier par la disposition pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 3; DORS/2001-67, art. 1; DORS/2001-188, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 3; DORS/2001-67, art. 1; DORS/2001-188, art. 6; 2017, ch. 33, art. 101.
 
 
 
@@ -16902,14 +16903,14 @@ ou encore les conditions suivantes :
 
 **8503** 
 
-- **(1)** Au présent article et au paragraphe 8517(2), le compte net des cotisations versées par le participant à un régime de pension aux termes d’une disposition à prestations déterminées du régime est un compte qui, à la fois :
-	- **a)** est crédité des montants suivants :
+- **(1)** Au présent article et au paragraphe 8517(2), le compte net des cotisations versées par le participant à un régime de pension aux termes d’une disposition à prestations déterminées du régime est un compte qui, à la fois :
+	- **a)** est crédité des montants suivants :
 		- **(i)** les cotisations que le participant verse au régime aux termes de la disposition,
 		- **(ii)** les montants transférés au régime pour son compte dans le cadre de la disposition en conformité avec l’un des paragraphes 146(16), 147(19) et 147.3(2) et (5) à (7) de la Loi,
 		- **(iii)** la fraction des montants transférés au régime dans le cadre de la disposition en conformité avec le paragraphe 147.3(3) de la Loi qu’il est raisonnable de considérer comme découlant soit des cotisations que le participant verse à un régime de pension agréé, soit des intérêts sur ces cotisations, calculés à un taux raisonnable,
 		- **(iv)** le montant représentant les biens qui sont détenus relativement à une autre disposition à cotisations ou à prestations déterminées du régime et qui peuvent servir à prévoir des prestations aux termes de la disposition, dans la mesure où le montant serait inclus dans le compte net des cotisations du participant en application des sous-alinéas (ii) ou (iii) si les dispositions faisaient partie de régimes de pension agréés distincts,
 		- **(v)** les intérêts calculés à un taux raisonnable fixé par l’administrateur du régime, pour chaque période tout au long de laquelle le compte présente un solde positif;
-	- **b)** est débité des montants suivants :
+	- **b)** est débité des montants suivants :
 		- **(i)** les montants versés pour le participant aux termes de la disposition, sauf ceux versés à l’égard d’un surplus actuariel afférent à la disposition,
 		- **(ii)** le montant représentant les biens détenus relativement à la disposition, sauf les biens relatifs à un surplus actuariel afférent à la disposition, qui servent à assurer au participant des prestations prévues par une autre disposition à cotisations ou à prestations déterminées du régime,
 		- **(iii)** les intérêts calculés à un taux raisonnable fixé par l’administrateur du régime, pour chaque période tout au long de laquelle le compte présente un solde négatif.
@@ -16917,23 +16918,23 @@ ou encore les conditions suivantes :
 #### Prestations permises
 
 
-- **(2)** Pour l’application de l’alinéa 8502c), la disposition à prestations déterminées d’un régime de pension peut prévoir les prestations suivantes, sous réserve des conditions applicables à chaque type de prestation :
+- **(2)** Pour l’application de l’alinéa 8502c), la disposition à prestations déterminées d’un régime de pension peut prévoir les prestations suivantes, sous réserve des conditions applicables à chaque type de prestation :
 
 #### Prestation viagère
 
-	- **a)** des prestations viagères assurées à un participant qui sont payables périodiquement en montants égaux, ou qui ne le sont pas uniquement en raison d’une des circonstances suivantes :
+	- **a)** des prestations viagères assurées à un participant qui sont payables périodiquement en montants égaux, ou qui ne le sont pas uniquement en raison d’une des circonstances suivantes :
 		- **(i)** les prestations qui sont payables au participant après le décès de son époux ou conjoint de fait sont inférieures à celles qui lui seraient payables si son époux ou conjoint de fait était vivant,
-		- **(ii)** le régime prévoit des rajustements périodiques de coût de vie des prestations, à condition que ces rajustements, selon le cas :
+		- **(ii)** le régime prévoit des rajustements périodiques de coût de vie des prestations, à condition que ces rajustements, selon le cas :
 			- **(A)** soient calculés de telle façon qu’ils ne dépassent pas les rajustements de coût de vie justifiés par la hausse de l’indice des prix à la consommation après le début du versement des prestations,
 			- **(B)** consistent en augmentations périodiques ne dépassant pas 4 pour cent par année après le début du versement des prestations,
 			- **(C)** soient fonction du taux de rendement d’un groupe déterminé de biens après le début du versement des prestations,
-			- **(D)** soient constitués de l’un ou plusieurs des rajustements visés aux divisions (A) à (C),dans le cas des rajustements visés aux divisions (C) et (D), la valeur actualisée, au moment du début du versement des prestations au participant, des prestations supplémentaires qui seront vraisemblablement versées par suite des rajustements ne dépasse pas la plus élevée des valeurs suivantes :
+			- **(D)** soient constitués de l’un ou plusieurs des rajustements visés aux divisions (A) à (C),dans le cas des rajustements visés aux divisions (C) et (D), la valeur actualisée, au moment du début du versement des prestations au participant, des prestations supplémentaires qui seront vraisemblablement versées par suite des rajustements ne dépasse pas la plus élevée des valeurs suivantes :
 			- **(E)** la valeur actualisée, à ce moment, des prestations supplémentaires qui seront vraisemblablement versées par suite des rajustements justifiés par la hausse de l’indice des prix à la consommation après le début du versement des prestations,
 			- **(F)** la valeur actualisée, à ce moment, des prestations supplémentaires qui seraient versées par suite d’un rajustement fixe de 4 pour cent par année après le début du versement des prestations,
 		- **(iii)** si le régime ne prévoit pas de rajustements périodiques de coût de vie des prestations ou ne prévoit que les rajustements visés aux divisions (ii)(A) ou (B), il permet à une personne de choisir d’apporter occasionnellement des rajustements de coût de vie aux prestations, lesquels rajustements, de même que les rajustements périodiques éventuels de coût de vie, sont justifiés par la hausse de l’indice des prix à la consommation après le début du versement des prestations,
 		- **(iv)** les prestations sont augmentées du fait que des prestations viagères supplémentaires commencent à être assurées au participant dans le cadre de la disposition,
 		- **(v)** les prestations font l’objet d’une réduction fondée sur l’âge du participant ou sur la durée de ses services, ou sur les deux, ou d’une réduction semblable, et sont ultérieurement rajustées en vue de réduire ou d’éliminer la partie éventuelle de la réduction qui n’a pas à être opérée pour que les prestations soient conformes à l’alinéa (3)c),
-		- **(vi)** les prestations font l’objet d’une réduction fondée sur les prestations suivantes et sont ultérieurement rajustées en vue de réduire ou d’éliminer la réduction :
+		- **(vi)** les prestations font l’objet d’une réduction fondée sur les prestations suivantes et sont ultérieurement rajustées en vue de réduire ou d’éliminer la réduction :
 			- **(A)** les prestations pour invalidité auxquelles le participant a droit en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions au sens de l’article 3 de cette loi,
 			- **(B)** les prestations auxquelles le participant a droit, pour une blessure ou une invalidité, en vertu d’une loi fédérale ou provinciale sur les accidents du travail,
 			- **(C)** les prestations auxquelles le participant a droit aux termes d’un régime d’assurance-maladie, d’assurance-accidents ou d’assurance-invalidité,
@@ -16944,39 +16945,39 @@ ou encore les conditions suivantes :
 
 #### Prestation de raccordement
 
-	- **b)** des prestations de raccordement assurées à un participant qui :
+	- **b)** des prestations de raccordement assurées à un participant qui :
 		- **(i)** d’une part, sont payables pour une période commençant au plus tôt au début du versement au participant des prestations viagères prévues par la disposition et se terminant au plus tard à la fin du mois qui suit celui où le participant atteint 65 ans,
-		- **(ii)** d’autre part, ne dépassent pas, pour un mois donné, le montant calculé pour le mois selon la formule suivante :
+		- **(ii)** d’autre part, ne dépassent pas, pour un mois donné, le montant calculé pour le mois selon la formule suivante :
 ```
 A × (1 - 0,0025 × B) × C × (D / 10)
 ```
 où 
-- **A** représente les prestations de pension de l’État, ou une estimation raisonnable de celles-ci, qui seraient payables au participant pour le mois du début du versement à celui-ci des prestations de raccordement si les conditions suivantes étaient réunies :
+- **A** représente les prestations de pension de l’État, ou une estimation raisonnable de celles-ci, qui seraient payables au participant pour le mois du début du versement à celui-ci des prestations de raccordement si les conditions suivantes étaient réunies :
 		- **(A)** le participant est âgé de 65 ans tout au long de ce mois,
 		- **(B)** il s’agit du premier mois où des prestations de pension de l’État sont payables au participant,
 		- **(C)** le participant a droit aux prestations maximales payables aux termes de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md),
 		- **(D)** le participant a droit à la fraction, ne dépassant pas un, des prestations maximales payables aux termes du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) (ou d’un régime provincial au sens de l’article 3 de cette loi) représentée par le rapport entre le total de sa rémunération pour les trois années civiles où elle était la plus élevée et le total des maximums des gains annuels ouvrant droit à pension pour ces trois années (ou tout autre rapport entre la rémunération et ce maximum que le ministre juge acceptable);
-- **B** représente :
+- **B** représente :
 		- **(A)** sauf en cas d’application de la division (B), le nombre de mois, le cas échéant, après la date du début du versement au participant des prestations de raccordement jusqu’à la date où celui-ci atteint 60 ans,
 		- **(B)** si le participant a une invalidité totale et permanente au moment où les prestations de raccordement commencent à lui être versées et s’il n’était, à aucun moment après 1990, rattaché à un employeur qui a participé au régime, zéro;
 - **C** représente le plus élevé des montants représentant chacun le rapport entre l’indice des prix à la consommation pour un mois qui n’est ni antérieur au mois du début du versement au participant des prestations de raccordement ni postérieur au mois donné et l’indice des prix à la consommation pour le mois du début du versement au participant des prestations de raccordement;
-- **D** représente :
-		- **(A)** sauf en cas d’application de la division (B), le moins élevé de 10 et du montant suivant :
+- **D** représente :
+		- **(A)** sauf en cas d’application de la division (B), le moins élevé de 10 et du montant suivant :
 		- **(I)** si le participant n’est, à aucun moment après 1990, rattaché à un employeur qui a participé au régime, le total des nombres représentant chacun la durée (en années et fractions d’année) d’une période de services validables du participant dans le cadre de la disposition,
 		- **(II)** dans les autres cas, le total qui serait calculé selon la subdivision (I) si la durée de chaque période était multipliée par la fraction, ne dépassant pas un, représentée par le rapport entre les services rendus par le participant tout au long de la période à des employeurs qui participent au régime et les services qu’il leur aurait ainsi rendus s’il les avait rendus à plein temps,
 		- **(B)** si le participant a une invalidité totale et permanente au moment où les prestations de raccordement commencent à lui être versées et s’il n’était, à aucun moment après 1990, rattaché à un employeur qui a participé au régime, 10;
 
 #### Période garantie
 
-	- **c)** des prestations de retraite assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, qui répondent aux conditions suivantes :
-		- **(i)** elles sont payables pour une période commençant après le décès du participant et se terminant :
+	- **c)** des prestations de retraite assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, qui répondent aux conditions suivantes :
+		- **(i)** elles sont payables pour une période commençant après le décès du participant et se terminant :
 			- **(A)** au plus tard cinq ans après la date du début du versement au participant des prestations de retraite prévues par la disposition, si des prestations de retraite permises par l’alinéa d) sont assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait du participant aux termes de la disposition,
 			- **(B)** au plus 15 ans après cette date, dans les autres cas,
 		- **(ii)** leur total, payable mensuellement aux termes de la disposition, ne dépasse pas le montant des prestations de retraite qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
 
 #### Prestation après-retraite au survivant
 
-	- **d)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **d)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** chaque bénéficiaire est, au moment du décès du participant, soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant, soit une personne à la charge du participant,
 		- **(ii)** les prestations au survivant assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait sont payables pour une période commençant après le décès du participant et se terminant au décès de l’époux ou du conjoint de fait ou de l’ex-époux ou de l’ancien conjoint de fait,
 		- **(iii)** les prestations au survivant assurées à une personne à charge sont payables pour une période commençant après le décès du participant et se terminant au plus tard à la fin de la période admissible de prestations au survivant de cette personne,
@@ -16985,29 +16986,29 @@ où
 
 #### Prestation préretraite au survivant
 
-	- **e)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **e)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** aucune autre prestation (sauf celles permises par les alinéas g), j), l.1) ou n)) n’est payable par suite du décès du participant,
 		- **(ii)** chaque bénéficiaire est, au moment du décès du participant, soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant, soit une personne à la charge du participant,
 		- **(iii)** les prestations au survivant assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait sont payables pour une période commençant après le décès du participant et se terminant au décès de l’époux ou du conjoint de fait ou de l’ex-époux ou de l’ancien conjoint de fait,
 		- **(iv)** les prestations au survivant assurées à une personne à charge sont payables pour une période commençant après le décès du participant et se terminant au plus tard à la fin de la période admissible de prestations au survivant de cette personne,
 		- **(v)** les prestations au survivant qui sont payables à un bénéficiaire pour un mois donné ne dépassent pas 66 2/3 pour cent du montant calculé pour ce mois selon la formule visée au sous-alinéa (vi),
-		- **(vi)** le total des prestations au survivant qui sont payables aux bénéficiaires du participant pour un mois donné aux termes de la disposition ne dépasse pas le montant calculé pour ce mois selon la formule suivante :
+		- **(vi)** le total des prestations au survivant qui sont payables aux bénéficiaires du participant pour un mois donné aux termes de la disposition ne dépasse pas le montant calculé pour ce mois selon la formule suivante :
 ```
 ((A + B) / 12) × C
 ```
 où 
 - **A** représente les prestations viagères, calculées sur une année, qui sont acquises au participant aux termes de la disposition le jour de son décès, déterminées sans réduction calculée en fonction de l’âge du participant ou de la durée de ses services, ou des deux, et sans autre réduction de même nature;
-- **B** si le participant avait atteint 65 ans avant son décès ou s’il a été, à un moment donné après 1990, rattaché à un employeur qui a participé au régime, zéro; sinon, l’excédent éventuel du moins élevé des montants suivants sur le montant calculé à l’élément A :
+- **B** si le participant avait atteint 65 ans avant son décès ou s’il a été, à un moment donné après 1990, rattaché à un employeur qui a participé au régime, zéro; sinon, l’excédent éventuel du moins élevé des montants suivants sur le montant calculé à l’élément A :
 		- **(A)** les prestations viagères, calculées sur une année, qui auraient été vraisemblablement acquises au participant le jour de ses 65 ans s’il avait vécu jusque-là en continuant d’occuper un emploi et si son taux de rémunération n’avait pas augmenté après la date de son décès,
 		- **(B)** l’excédent éventuel des 3/2 du maximum des gains annuels ouvrant droit à pension pour l’année civile du décès du participant sur le montant qui, selon le ministre, doit être déterminé relativement aux prestations prévues, par suite du décès du participant, par d’autres dispositions à cotisations ou à prestations déterminées du régime et par de semblables dispositions d’autres régimes de pension agréés;
 - **C** le plus élevé des montants représentant chacun le rapport entre l’indice des prix à la consommation pour un mois qui n’est pas antérieur à celui du décès du participant ni postérieur au mois donné et l’indice des prix à la consommation pour le mois du décès du participant;
 
 #### Prestation préretraite au survivant — autre règle
 
-	- **f)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **f)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** aucune autre prestation (sauf celles permises par les alinéas g), j), l.1) ou n)) n’est payable par suite du décès du participant,
 		- **(ii)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant,
-		- **(iii)** les prestations au survivant sont payables pour une période commençant au plus tard au dernier en date des jours suivants et se terminant au décès du bénéficiaire :
+		- **(iii)** les prestations au survivant sont payables pour une période commençant au plus tard au dernier en date des jours suivants et se terminant au décès du bénéficiaire :
 			- **(A)** le jour qui marque le premier anniversaire du décès du participant,
 			- **(B)** le 31 décembre de l’année civile dans laquelle le particulier atteint 71 ans,
 		- **(iv)** les prestations au survivant seraient conformes à l’alinéa a) si le bénéficiaire participait au régime,
@@ -17015,7 +17016,7 @@ où
 
 #### Prestation préretraite au survivant — période garantie
 
-	- **g)** des prestations de retraite assurées à un ou plusieurs particuliers par suite du décès d’une personne qui, à la fois :
+	- **g)** des prestations de retraite assurées à un ou plusieurs particuliers par suite du décès d’une personne qui, à la fois :
 		- **(i)** est le bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition,
 		- **(ii)** était l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant au moment du décès de celui-ci,
 		- **(iii)** décède après le participant,
@@ -17023,22 +17024,22 @@ lesquelles prestations seraient conformes à l’alinéa c) si la personne parti
 
 #### Paiement forfaitaire à la cessation de la participation
 
-	- **h)** un ou plusieurs montants uniques versés pour un participant en rapport avec la cessation de sa participation au régime (autrement qu’en raison de son décès), si les conditions suivantes sont réunies :
+	- **h)** un ou plusieurs montants uniques versés pour un participant en rapport avec la cessation de sa participation au régime (autrement qu’en raison de son décès), si les conditions suivantes sont réunies :
 		- **(i)** il s’agit des derniers versements à faire pour le participant aux termes de la disposition,
 		- **(ii)** si le sous-alinéa (iii) ne s’applique pas, aucun montant unique ne dépasse le solde, immédiatement avant le versement, du compte net des cotisations du participant,
-		- **(iii)** aucun montant unique ne dépasse le montant qui correspondrait au solde, immédiatement avant le versement du montant unique, du compte net des cotisations du participant si, pour chaque cotisation pour services courants que le participant verse aux termes de la disposition, le compte était crédité, au moment du versement de la cotisation, d’un montant supplémentaire égal à la cotisation (à l’exception de la partie éventuelle de celle-ci qui est versée pour une ou plusieurs périodes autres que des périodes d’emploi régulier et que le participant n’aurait pas été tenu de verser s’il s’était agi de périodes d’emploi régulier), dans le cas où :
+		- **(iii)** aucun montant unique ne dépasse le montant qui correspondrait au solde, immédiatement avant le versement du montant unique, du compte net des cotisations du participant si, pour chaque cotisation pour services courants que le participant verse aux termes de la disposition, le compte était crédité, au moment du versement de la cotisation, d’un montant supplémentaire égal à la cotisation (à l’exception de la partie éventuelle de celle-ci qui est versée pour une ou plusieurs périodes autres que des périodes d’emploi régulier et que le participant n’aurait pas été tenu de verser s’il s’était agi de périodes d’emploi régulier), dans le cas où :
 			- **(A)** soit le ministre renonce, conformément au paragraphe (5), à appliquer à la disposition la condition énoncée à l’alinéa (4)a),
 			- **(B)** soit les cotisations que le participant verse aux termes de la disposition pour chaque année civile postérieure à 1990 seraient conformes à l’alinéa (4)a) si le pourcentage « 70 pour cent » à la division (4)a)(i)(B) était remplacé par le pourcentage « 50 pour cent »;
 
 #### Paiement de la valeur de rachat des prestations au décès préretraite
 
-	- **i)** un ou plusieurs montants uniques versés à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **i)** un ou plusieurs montants uniques versés à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** aucune prestation de retraite n’est payable par suite du décès du participant,
 		- **(ii)** le total de ces montants uniques (sauf la partie éventuelle de ceux-ci qu’il est raisonnable de considérer comme des intérêts, calculés à un taux ne dépassant pas un taux raisonnable, pour la période après le décès du participant jusqu’au versement des montants uniques) ne dépasse pas la valeur actualisée, immédiatement avant le décès du participant, de toutes les prestations qui lui sont acquises aux termes de la disposition le jour de son décès;
 
 #### Paiement forfaitaire au décès
 
-	- **j)** un ou plusieurs montants uniques versés après le décès d’un participant, si les conditions suivantes sont réunies :
+	- **j)** un ou plusieurs montants uniques versés après le décès d’un participant, si les conditions suivantes sont réunies :
 		- **(i)** les versements sont les derniers à faire aux termes de la disposition pour le participant,
 		- **(ii)** si le participant décède avant que les prestations de retraite prévues par la disposition commencent à lui être versées et si aucune prestation de retraite n’est payable par suite de son décès, le total à verser à un moment donné est conforme à celles des conditions énoncées aux sous-alinéas h)(ii) et (iii) qui seraient applicables si les montants uniques étaient payés du fait que le participant a cessé de participer au régime autrement qu’en raison de son décès,
 		- **(iii)** si le sous-alinéa (ii) ne s’applique pas, le total à verser à un moment donné ne dépasse pas le solde, immédiatement avant ce moment, du compte net des cotisations versées par le participant aux termes de la disposition;
@@ -17049,22 +17050,22 @@ lesquelles prestations seraient conformes à l’alinéa c) si la personne parti
 		- **(i)** soit des prestations de retraite assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait du participant qui dépassent les prestations permises par l’alinéa d), mais qui seraient ainsi permises si le pourcentage « 66 2/3 pour cent » au sous-alinéa d)(iv) était remplacé par le pourcentage « 100 pour cent »,
 		- **(ii)** soit des prestations de retraite assurées à un ou plusieurs bénéficiaires du participant qui dépassent les prestations permises par l’alinéa c) mais qui seraient ainsi permises s’il était fait abstraction de la division c)(i)(A),
 		- **(iii)** soit une combinaison des prestations de retraite visées aux sous-alinéas (i) et (ii),
-et si les conditions suivantes sont réunies :
+et si les conditions suivantes sont réunies :
 		- **(iv)** les prestations de décès supplémentaires sont prévues en remplacement d’une partie des prestations viagères qui seraient payables par ailleurs au participant aux termes de la disposition,
-		- **(v)** la valeur actualisée de toutes les prestations prévues par la disposition pour le participant ne dépasse pas la valeur actualisée des prestations qui seraient prévues si, à la fois :
+		- **(v)** la valeur actualisée de toutes les prestations prévues par la disposition pour le participant ne dépasse pas la valeur actualisée des prestations qui seraient prévues si, à la fois :
 			- **(A)** les prestations viagères du participant étaient calculées sans réduction fondée sur les prestations payables après son décès ou sur des circonstances à prendre en compte dans le calcul de telles prestations,
 			- **(B)** le maximum des prestations de retraite permises par l’alinéa d) était payable à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait du participant après le décès de celui-ci;
-			- **(C)** les valeurs actualisées en question étaient déterminées au moment applicable suivant :
+			- **(C)** les valeurs actualisées en question étaient déterminées au moment applicable suivant :
 				- **(I)** le début du versement au participant des prestations de retraite prévues par la disposition, sauf si la subdivision (II) s’applique,
 				- **(II)** si les prestations de décès supplémentaires commencent à être prévues après le moment visé à la subdivision (I), le moment où elles commencent à être prévues;
 
 #### Prestation de raccordement supplémentaire
 
 	- **l)** des prestations de raccordement dépassant celles que permet l’alinéa b) — l’excédent étant appelé « prestations de raccordement supplémentaires » au présent alinéa — assurées à un participant, si les conditions suivantes sont réunies :
-		- **(i)** les prestations de raccordement supplémentaires seraient permises par l’alinéa b) si, à la fois :
+		- **(i)** les prestations de raccordement supplémentaires seraient permises par l’alinéa b) si, à la fois :
 			- **(A)** la formule figurant au sous-alinéa b)(ii) était remplacée par « A/12 × C »,
-			- **(B)** l’élément A de cette formule était remplacé par ce qui suit :
-- **« A** représente 40 % du maximum des gains annuels ouvrant droit à pension pour l’année du début du versement des prestations de raccordement au participant, »
+			- **(B)** l’élément A de cette formule était remplacé par ce qui suit :
+- **« A** représente 40 % du maximum des gains annuels ouvrant droit à pension pour l’année du début du versement des prestations de raccordement au participant, »
 		- **(ii)** les prestations de raccordement supplémentaires sont prévues en remplacement de la totalité ou d’une partie des prestations qui seraient payables par ailleurs au participant aux termes de la disposition,
 		- **(iii)** la valeur actualisée, au moment du début du versement au participant des prestations de retraite prévues par la disposition, de toutes les prestations ainsi prévues pour le participant ne dépasse pas la valeur actualisée, à ce moment, des prestations qui seraient ainsi prévues en l’absence des prestations de raccordement supplémentaires;
 
@@ -17077,16 +17078,16 @@ et si les conditions suivantes sont réunies :
 
 #### Rachat des prestations
 
-	- **m)** un montant unique versé pour un participant en règlement total ou partiel du droit de celui-ci à d’autres prestations prévues par la disposition, qui ne dépasse pas la somme des montants suivants :
-		- **(i)** la valeur actualisée, au moment donné déterminé selon le paragraphe (2.1), des montants suivants :
+	- **m)** un montant unique versé pour un participant en règlement total ou partiel du droit de celui-ci à d’autres prestations prévues par la disposition, qui ne dépasse pas la somme des montants suivants :
+		- **(i)** la valeur actualisée, au moment donné déterminé selon le paragraphe (2.1), des montants suivants :
 			- **(A)** les autres prestations qui, par suite du versement du montant unique, cessent d’être prévues,
-			- **(B)** les prestations, sauf celles visées à la division (A), qui, selon ce qu’il est raisonnable de considérer, cesseraient d’être prévues par suite du versement du montant unique si, à la fois :
+			- **(B)** les prestations, sauf celles visées à la division (A), qui, selon ce qu’il est raisonnable de considérer, cesseraient d’être prévues par suite du versement du montant unique si, à la fois :
 				- **(I)** lorsque des prestations de retraite n’ont pas commencé à être versées au participant aux termes de la disposition au moment donné, le régime prévoyait le rajustement des prestations de retraite acquises au participant aux termes de la disposition pour tenir compte de l’augmentation de la mesure générale des traitements et salaires depuis ce moment jusqu’au début du versement des prestations,
 				- **(II)** le régime prévoyait des rajustements périodiques de coût de vie aux prestations de retraite payables au participant aux termes de la disposition pour tenir compte des augmentations de l’indice des prix à la consommation après le début du versement des prestations de retraite (sauf les augmentations intervenues avant le moment donné),
 		- **(ii)** les intérêts, calculés à un taux raisonnable, depuis le moment donné jusqu’au versement du montant unique;
-	- **n)** un montant unique versé pour un particulier après le décès d’un participant en règlement total ou partiel du droit du particulier à d’autres prestations prévues par la disposition, si les conditions suivantes sont réunies :
+	- **n)** un montant unique versé pour un particulier après le décès d’un participant en règlement total ou partiel du droit du particulier à d’autres prestations prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** le particulier est le bénéficiaire du participant,
-		- **(ii)** le montant unique ne dépasse pas la somme des montants suivants :
+		- **(ii)** le montant unique ne dépasse pas la somme des montants suivants :
 			- **(A)** la valeur actualisée, au moment donné déterminé selon le paragraphe (2.1), des autres prestations qui, par suite du versement, cessent d’être prévues,
 			- **(B)** les intérêts, calculés à un taux raisonnable, depuis le moment donné jusqu’au versement du montant unique,
 		- **(iii)** lorsque les autres prestations au titre desquelles le montant unique est versé comprennent des prestations visées à l’alinéa e) et que le bénéficiaire était l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant au moment du décès de celui-ci, le montant unique n’est transféré directement du régime à un autre régime de pension agréé, à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite que sur approbation du ministre.
@@ -17094,11 +17095,11 @@ et si les conditions suivantes sont réunies :
 #### Règle sur le rachat des prestations
 
 
-- **(2.1)** Pour déterminer le montant unique maximal qui peut être versé pour un particulier en application des alinéas (2)m) ou n), le moment donné visé à ces alinéas s’entend du moment suivant :
+- **(2.1)** Pour déterminer le montant unique maximal qui peut être versé pour un particulier en application des alinéas (2)m) ou n), le moment donné visé à ces alinéas s’entend du moment suivant :
 	- **a)** le moment du versement du montant unique, sauf si l’alinéa b) s’applique;
-	- **b)** un moment antérieur au moment visé à l’alinéa a) si, à la fois :
+	- **b)** un moment antérieur au moment visé à l’alinéa a) si, à la fois :
 		- **(i)** le montant unique est fondé sur la valeur actuarielle, déterminée au moment antérieur, des prestations du participant,
-		- **(ii)** l’utilisation du moment antérieur aux fins du calcul de la valeur actuarielle est, selon le cas :
+		- **(ii)** l’utilisation du moment antérieur aux fins du calcul de la valeur actuarielle est, selon le cas :
 			- **(A)** prévue par la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou une loi provinciale semblable,
 			- **(B)** raisonnable compte tenu des normes actuarielles reconnues et des circonstances dans lesquelles le participant acquiert le droit au montant unique,
 		- **(iii)** sauf en cas d’application de la division (ii)(A), le moment antérieur précède d’au plus deux ans le moment du versement du montant unique.
@@ -17106,7 +17107,7 @@ et si les conditions suivantes sont réunies :
 #### Conditions applicables aux prestations
 
 
-- **(3)** Pour l’application du paragraphe 8501(2) et du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations prévues par la disposition à prestations déterminées d’un régime de pension :
+- **(3)** Pour l’application du paragraphe 8501(2) et du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations prévues par la disposition à prestations déterminées d’un régime de pension :
 
 #### Services admissibles
 
@@ -17115,9 +17116,14 @@ et si les conditions suivantes sont réunies :
 		- **(ii)** la période tout au long de laquelle il est au service, au Canada, d’un employeur remplacé, quant à un employeur qui participe au régime, dont il reçoit une rémunération,
 		- **(iii)** une période admissible d’absence temporaire du participant en ce qui concerne un employeur qui participe au régime ou un employeur remplacé quant à un tel employeur,
 		- **(iv)** une période d’invalidité du participant postérieure à la période visée au sous-alinéa (i), si, tout au long de la partie de la période d’invalidité qui est postérieure à 1990, il n’est rattaché à aucun employeur qui participe au régime,
-		- **(v)** une période pour laquelle, selon le cas :
-			- **(A)** des prestations imputables à l’emploi du participant auprès d’un ancien employeur sont acquises au participant aux termes de la disposition à prestations déterminées d’un autre régime de pension agréé auquel le participant a cessé de participer,
+		- **(v)** une période pour laquelle, selon le cas :
+			- **(A)** les énoncés ci-après se vérifient :
+				- **(I)** le sous-alinéa (v.1) ne s’applique pas,
+				- **(II)** des prestations imputables à l’emploi du participant auprès d’un ancien employeur sont acquises au participant aux termes de la disposition à prestations déterminées d’un autre régime de pension agréé auquel le participant a cessé de participer,
 			- **(B)** des cotisations sont versées par le participant ou pour son compte aux termes de la disposition à cotisations déterminées d’un autre régime de pension agréé auquel le participant a cessé de participer,
+		- **(v.1)** une partie — correspondant à la proportion des biens qui ont été transférés, visée à la division (B) — d’une période relativement à laquelle les énoncés ci-après se vérifient :
+			- **(A)** des prestations imputables à l’emploi du participant auprès d’un ancien employeur sont acquises au participant aux termes de la disposition à prestations déterminées d’un autre régime de pension agréé,
+			- **(B)** conformément à la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou à une loi provinciale semblable, une partie des biens représentant les biens qui sont détenus en lien avec les prestations visées à la division (A) a été transférée à la disposition et le reste des biens doit être transféré à la disposition à une date ultérieure,
 		- **(vi)** une période tout au long de laquelle le participant est au service, au Canada, d’un ancien employeur, s’il s’agit d’une période admissible aux fins de la participation du participant à un autre régime de pension agréé,
 		- **(vii)** une période, que le ministre juge acceptable, tout au long de laquelle le participant occupe un emploi à l’étranger;
 
@@ -17125,32 +17131,32 @@ et si les conditions suivantes sont réunies :
 
 	- **b)** aucune prestation n’est assurée à un participant par la disposition (appelée « disposition donnée » au présent alinéa) pour une période postérieure au début du versement au participant de prestations de retraite prévues par une disposition à prestations déterminées :
 		- **(i)** soit du régime,
-		- **(ii)** soit d’un autre régime de pension agréé si, selon le cas :
+		- **(ii)** soit d’un autre régime de pension agréé si, selon le cas :
 			- **(A)** l’employeur qui a participé à la disposition donnée au profit du participant a aussi participé, au profit de celui-ci, à la disposition à prestations déterminées de l’autre régime,
 			- **(B)** l’employeur qui a un lien de dépendance avec l’employeur visé à la division (A) a participé, au profit du participant, à la disposition à prestations déterminées de l’autre régime;
 
 #### Retraite anticipée
 
-	- **c)** lorsque le versement au participant de prestations viagères prévues par la disposition débute avant l’un ou l’autre des jours suivants :
-		- **(i)** s’il s’agit de prestations assurées au participant du fait qu’il exerce une profession liée à la sécurité publique, le premier en date des jours suivants :
+	- **c)** lorsque le versement au participant de prestations viagères prévues par la disposition débute avant l’un ou l’autre des jours suivants :
+		- **(i)** s’il s’agit de prestations assurées au participant du fait qu’il exerce une profession liée à la sécurité publique, le premier en date des jours suivants :
 			- **(A)** le jour où le participant atteint 55 ans,
 			- **(B)** le jour où il a accompli, dans le cadre de la disposition, 25 années de services donnant droit à la retraite anticipée,
 			- **(C)** le jour où le nombre d’années de services donnant droit à la retraite anticipée qu’il a accomplies dans le cadre de la disposition et son âge (en années et fractions d’année) totalisent 75,
 			- **(D)** s’il n’a été, à aucun moment après 1990, rattaché à un employeur qui a participé au régime, le jour du début de son invalidité totale et permanente, le cas échéant,
-		- **(ii)** sinon, le premier en date des jours suivants :
+		- **(ii)** sinon, le premier en date des jours suivants :
 			- **(A)** le jour où le participant atteint 60 ans,
 			- **(B)** le jour où il a accompli, dans le cadre de la disposition, 30 années de services donnant droit à la retraite anticipée,
 			- **(C)** le jour où le nombre d’années de services donnant droit à la retraite anticipée qu’il a accomplies dans le cadre de la disposition et son âge (en années et fractions d’année) totalisent 80,
 			- **(D)** s’il n’a été, à aucun moment après 1990, rattaché à un employeur qui a participé au régime, le jour du début de son invalidité totale et permanente, le cas échéant,
-les prestations viagères, calculées sur une année, qui sont payables au participant pour chaque année civile ne dépassent pas le montant calculé pour l’année selon la formule suivante :
+les prestations viagères, calculées sur une année, qui sont payables au participant pour chaque année civile ne dépassent pas le montant calculé pour l’année selon la formule suivante :
 ```
 X × (1 - 0,0025 × Y)
 ```
 où 
 - **X** représente les prestations viagères, calculées sur une année, qui seraient payables au participant pour l’année si elles étaient déterminées sans réduction fondée sur l’âge du participant ou sur la durée de ses services, ou sur les deux, et sans autre réduction de même nature;
 - **Y** le nombre de mois après le début du versement au participant des prestations viagères jusqu’au premier en date des jours qui seraient déterminés aux divisions (i)(A) à (C) ou (ii)(A) à (C) si le participant continuait d’être au service d’un employeur qui participe au régime;
-pour l’application du présent alinéa :
-		- **(iii)** les services donnant droit à la retraite anticipée que le participant accomplit dans le cadre de la disposition à prestations déterminées d’un régime de pension sont constitués par une ou plusieurs périodes dont chacune est, selon le cas :
+pour l’application du présent alinéa :
+		- **(iii)** les services donnant droit à la retraite anticipée que le participant accomplit dans le cadre de la disposition à prestations déterminées d’un régime de pension sont constitués par une ou plusieurs périodes dont chacune est, selon le cas :
 			- **(A)** une période de services validables qu’il accomplit dans le cadre de la disposition,
 			- **(B)** une période tout au long de laquelle il a été au service d’un employeur qui a participé au régime ou d’un employeur remplacé quant à celui-ci,
 		- **(iv)** les années de services donnant droit à la retraite anticipée qu’un participant accomplit dans le cadre de la disposition à prestations déterminées d’un régime de pension correspondent au total des nombres représentant chacun la durée (en années et fractions d’année) d’une période de services donnant droit à la retraite anticipée qu’il a accomplie dans le cadre de la disposition;
@@ -17158,16 +17164,16 @@ pour l’application du présent alinéa :
 #### Prestation majorée pour participant invalide
 
 	- **d)** lorsque les prestations viagères assurées à un participant par la disposition varient selon qu’il a ou non une déficience mentale ou physique au moment (appelé « début du versement » au présent alinéa) où les prestations de retraite prévues par la disposition commencent à lui être versées :
-		- **(i)** les prestations viagères qui lui sont payables sont conformes au plafond qui serait calculé selon la formule figurant à l’alinéa c) si le participant n’avait pas de déficience au début du versement, dans le cas où :
+		- **(i)** les prestations viagères qui lui sont payables sont conformes au plafond qui serait calculé selon la formule figurant à l’alinéa c) si le participant n’avait pas de déficience au début du versement, dans le cas où :
 			- **(A)** il n’a pas d’invalidité totale et permanente au début du versement,
 			- **(B)** il a une telle invalidité à ce moment et est rattaché, après 1990, à un employeur qui a participé au régime,
-		- **(ii)** les prestations viagères qui lui sont payables pour un mois donné, si le sous-alinéa (i) ne s’applique pas, ne dépassent pas le montant calculé pour ce mois selon la formule suivante :
+		- **(ii)** les prestations viagères qui lui sont payables pour un mois donné, si le sous-alinéa (i) ne s’applique pas, ne dépassent pas le montant calculé pour ce mois selon la formule suivante :
 ```
 ((A + B) / 12) × C
 ```
 où 
 - **A** représente les prestations viagères, calculées sur une année, qui lui sont acquises aux termes de la disposition au début du versement, déterminées comme s’il n’avait pas de déficience au début du versement et sans réduction fondée sur son âge ou sur la durée de ses services, ou sur les deux, et sans autre réduction de même nature;
-- **B** s’il avait atteint 65 ans avant le début du versement, zéro; sinon, l’excédent éventuel du moins élevé des montants suivants sur le montant calculé à l’élément A :
+- **B** s’il avait atteint 65 ans avant le début du versement, zéro; sinon, l’excédent éventuel du moins élevé des montants suivants sur le montant calculé à l’élément A :
 		- **(A)** les prestations viagères, calculées sur une année, qui auraient été vraisemblablement acquises au participant le jour de ses 65 ans s’il avait vécu jusque-là en continuant d’occuper un emploi et si son taux de rémunération n’avait pas augmenté après le début du versement,
 		- **(B)** l’excédent éventuel du maximum des gains annuels ouvrant droit à pension pour l’année civile qui comprend le début du versement sur le montant qui, selon le ministre, doit être déterminé relativement aux prestations assurées au participant par d’autres dispositions à cotisations ou à prestations déterminées du régime et par de semblables dispositions d’autres régimes de pension agréés;
 - **C** le plus élevé des montants correspondant chacun au rapport entre l’indice des prix à la consommation pour un mois qui n’est ni antérieur à celui du début du versement ni postérieur au mois donné et l’indice des prix à la consommation pour le mois du début du versement;
@@ -17182,16 +17188,16 @@ où
 
 #### Taux d’accumulation des prestations
 
-	- **g)** lorsque les prestations viagères assurées à un participant par la disposition sont en partie déterminées par la multiplication de la rémunération du participant (ou d’une fonction de celle-ci) par le taux annuel d’accumulation des prestations, ou selon une méthode équivalente, le taux annuel d’accumulation des prestations ou l’équivalent ne dépasse pas :
+	- **g)** lorsque les prestations viagères assurées à un participant par la disposition sont en partie déterminées par la multiplication de la rémunération du participant (ou d’une fonction de celle-ci) par le taux annuel d’accumulation des prestations, ou selon une méthode équivalente, le taux annuel d’accumulation des prestations ou l’équivalent ne dépasse pas :
 		- **(i)** 2,33 pour cent, s’il s’agit de prestations assurées au participant relativement à l’exercice d’une profession liée à la sécurité publique et s’il est raisonnable de considérer que la formule de calcul des prestations viagères applicable au participant tient compte des prestations de pension de l’État,
 		- **(ii)** 2 pour cent, dans les autres cas;
 
 #### Augmentation des prestations acquises
 
-	- **h)** lorsque, le ministre n’ayant pas renoncé à appliquer la présente condition, le montant des prestations viagères assurées à un participant pour une année civile est fonction :
+	- **h)** lorsque, le ministre n’ayant pas renoncé à appliquer la présente condition, le montant des prestations viagères assurées à un participant pour une année civile est fonction :
 		- **(i)** soit de la rémunération du participant au cours des années suivantes,
 		- **(ii)** soit du salaire moyen (ou autre mesure générale des traitements et salaires) pour les années suivantes,
-les prestations viagères sont calculées selon l’une ou l’autre des hypothèses suivantes :
+les prestations viagères sont calculées selon l’une ou l’autre des hypothèses suivantes :
 		- **(iii)** il est raisonnable de s’attendre que le pourcentage d’augmentation d’année en année du montant des prestations viagères acquises au participant pour l’année soit à peu près égal ou soit inférieur au pourcentage d’augmentation d’année en année de la rémunération du participant ou du salaire moyen (ou autre mesure générale des traitements et salaires),
 		- **(iv)** l’hypothèse énoncée au sous-alinéa (iii) est inadmissible du seul fait qu’il est raisonnable de considérer que la formule de calcul des prestations a été conçue compte tenu des prestations de pension de l’État payables aux participants,
 pour l’application de la présente condition, le montant visé au sous-alinéa j)(i) qui est éventuellement déduit dans le calcul des prestations viagères assurées à un participant par la disposition est réputé nul;
@@ -17199,8 +17205,8 @@ pour l’application de la présente condition, le montant visé au sous-alinéa
 
 #### Prestations compensatoires
 
-	- **j)** lorsque les conditions suivantes sont réunies :
-		- **(i)** est déduit dans le calcul des prestations viagères assurées à un participant par la disposition :
+	- **j)** lorsque les conditions suivantes sont réunies :
+		- **(i)** est déduit dans le calcul des prestations viagères assurées à un participant par la disposition :
 			- **(A)** soit le montant des prestations viagères qui lui sont assurées aux termes de la disposition à prestations ou à cotisations déterminées d’un régime de pension agréé,
 			- **(B)** soit le montant d’une rente viagère qui lui est assurée aux termes d’un régime de participation différée aux bénéfices,
 		- **(ii)** un montant unique est versé en règlement total ou partiel du droit du participant aux prestations assurées aux termes de la disposition à prestations ou à cotisations déterminées visée à la division (i)(A) ou du régime de participation différée aux bénéfices visé à la division (i)(B),
@@ -17208,31 +17214,31 @@ le montant qui est ainsi déduit comprend les prestations viagères ou la rente 
 
 #### Prestation de raccordement — restriction
 
-	- **k)** des prestations de raccordement ne sont pas versées aux termes de la disposition au participant qui reçoit de telles prestations aux termes d’une autre disposition à prestations déterminées du régime (appelé « régime donné » au présent alinéa) ou de la disposition à prestations déterminées d’un autre régime de pension agréé; toutefois, la présente condition ne s’applique pas si le ministre y renonce ou si les conditions suivantes sont réunies :
+	- **k)** des prestations de raccordement ne sont pas versées aux termes de la disposition au participant qui reçoit de telles prestations aux termes d’une autre disposition à prestations déterminées du régime (appelé « régime donné » au présent alinéa) ou de la disposition à prestations déterminées d’un autre régime de pension agréé; toutefois, la présente condition ne s’applique pas si le ministre y renonce ou si les conditions suivantes sont réunies :
 		- **(i)** les prestations de raccordement sont versées au participant aux termes d’une seule disposition à prestations déterminées du régime donné,
 		- **(ii)** la décision d’assurer au participant des prestations de raccordement aux termes du régime donné n’a été prise ni par le participant, ni par des personnes avec lesquelles il a un lien de dépendance, ni à la fois par le participant et ces personnes,
-		- **(iii)** l’employeur qui a participé à un régime de pension agréé (sauf le régime donné), dont la disposition à prestations déterminées prévoit le versement de prestations de raccordement au participant :
+		- **(iii)** l’employeur qui a participé à un régime de pension agréé (sauf le régime donné), dont la disposition à prestations déterminées prévoit le versement de prestations de raccordement au participant :
 			- **(A)** d’une part, n’a pas participé au régime donné,
 			- **(B)** d’autre part, n’a jamais eu de lien de dépendance avec un employeur qui y a participé,
 pour l’application du présent alinéa, ne sont pas des prestations de raccordement assurées au participant aux termes d’une disposition à prestations déterminées d’un régime de pension agréé les prestations qui, sans être plus favorables sur le plan actuariel, sont prévues en remplacement de la totalité ou d’une partie des prestations qui lui seraient payables par ailleurs aux termes de la disposition;
 
 #### Partage des prestations à l’échec du mariage ou de l’union de fait
 
-	- **l)** lorsque, aux termes d’une disposition d’une loi visée au sous-alinéa 8501(5)b)(ii), un particulier qui est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait d’un participant obtient le droit de recevoir tout ou partie des prestations — auxquelles l’alinéa 8501(5)d) s’applique — qui seraient payables par ailleurs au participant aux termes de la disposition à prestations déterminées en question :
+	- **l)** lorsque, aux termes d’une disposition d’une loi visée au sous-alinéa 8501(5)b)(ii), un particulier qui est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait d’un participant obtient le droit de recevoir tout ou partie des prestations — auxquelles l’alinéa 8501(5)d) s’applique — qui seraient payables par ailleurs au participant aux termes de la disposition à prestations déterminées en question :
 		- **(i)** la valeur actualisée des prestations prévues aux termes de la disposition pour le participant (notamment celles prévues pour le particulier) n’est pas majorée du fait que le particulier obtient ce droit,
 		- **(ii)** les prestations assurées au participant aux termes de la disposition ne sont à aucun moment rajustées pour remplacer tout ou partie de la fraction des prestations du participant à laquelle a droit le particulier.
 
 #### Autres conditions
 
 
-- **(4)** Pour l’application de l’article 8501, les conditions suivantes s’appliquent à la disposition à prestations déterminées d’un régime de pension :
+- **(4)** Pour l’application de l’article 8501, les conditions suivantes s’appliquent à la disposition à prestations déterminées d’un régime de pension :
 
 #### Cotisations des participants
 
-	- **a)** lorsqu’un participant verse, à titre obligatoire ou facultatif, des cotisations aux termes de la disposition, les règles suivantes s’appliquent :
-		- **(i)** le total des cotisations pour services courants à verser par le participant pour une année civile postérieure à 1990, ne comprenant ni période d’invalidité ni période admissible de salaire réduit ou d’absence temporaire de celui-ci, ne dépasse pas le moins élevé des montants suivants :
+	- **a)** lorsqu’un participant verse, à titre obligatoire ou facultatif, des cotisations aux termes de la disposition, les règles suivantes s’appliquent :
+		- **(i)** le total des cotisations pour services courants à verser par le participant pour une année civile postérieure à 1990, ne comprenant ni période d’invalidité ni période admissible de salaire réduit ou d’absence temporaire de celui-ci, ne dépasse pas le moins élevé des montants suivants :
 			- **(A)** 9 pour cent du total de la rétribution que le participant reçoit pour l’année d’un employeur qui participe au régime au cours de l’année au profit du participant,
-			- **(B)** le total de 1 000 $ et de 70 pour cent de l’ensemble des montants représentant chacun le crédit de pension du participant (déterminé selon la partie LXXXIII) pour l’année quant à l’employeur dans le cadre de la disposition, abstraction faite des alinéas 8302(2)b) et (3)g),
+			- **(B)** le total de 1 000 $ et de 70 pour cent de l’ensemble des montants représentant chacun le crédit de pension du participant (déterminé selon la partie LXXXIII) pour l’année quant à l’employeur dans le cadre de la disposition, abstraction faite des alinéas 8302(2)b) et (3)g),
 		- **(ii)** la méthode de calcul des cotisations pour services courants à verser par le participant pour une année civile qui comprend une période d’invalidité ou une période admissible de salaire réduit ou d’absence temporaire de celui-ci — ces périodes étant appelées « périodes de services réduits » au présent sous-alinéa — est conforme à celle qui sert à calculer les cotisations pour les années visées au sous-alinéa (i), sauf que le participant peut verser ou peut être tenu de verser, pour les périodes de services réduits, des cotisations pour services courants ne dépassant pas le montant qui sert à juste titre à financer ses prestations pour ces périodes,
 		- **(iii)** le total des cotisations à verser par le participant relativement aux prestations qui, par suite d’une opération, d’un événement ou de circonstances se produisant à un moment donné, sont assurées aux termes de la disposition pour des périodes antérieures à ce moment, ne dépasse pas le montant qui sert à juste titre à financer ces prestations;
 
@@ -17242,7 +17248,7 @@ pour l’application du présent alinéa, ne sont pas des prestations de raccord
 
 #### Réduction des prestations et remboursement des cotisations
 
-	- **c)** si le régime n’est pas institué par la législation fédérale ou provinciale, il contient une stipulation qui permet, en vue d’empêcher le retrait de son agrément :
+	- **c)** si le régime n’est pas institué par la législation fédérale ou provinciale, il contient une stipulation qui permet, en vue d’empêcher le retrait de son agrément :
 		- **(i)** d’une part, de le modifier afin de réduire les prestations assurées à un participant aux termes de la disposition,
 		- **(ii)** d’autre part, de rembourser au cotisant la cotisation qu’un participant ou un employeur verse aux termes de la disposition;
 cette stipulation peut prévoir que la modification du régime, ou le remboursement de cotisations est assujetti à l’approbation de l’organe chargé d’appliquer la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou une loi provinciale semblable;
@@ -17253,8 +17259,8 @@ cette stipulation peut prévoir que la modification du régime, ou le remboursem
 
 #### Preuve d’invalidité
 
-	- **e)** les prestations viagères supplémentaires assurées, le cas échéant, aux termes de la disposition à un participant en raison de son invalidité totale et permanente ne sont versées qu’une fois que l’administrateur du régime a reçu d’un médecin autorisé à exercer sous le régime des lois d’une province ou du lieu où le participant réside un rapport écrit renfermant les renseignements sur l’état de santé de celui-ci dont l’administrateur s’est servi pour établir l’invalidité totale et permanente;
-	- **f)** les prestations viagères assurées, le cas échéant, à un participant aux termes de la disposition pour une période d’invalidité de celui-ci, mais qui ne sont pas conformes à l’alinéa (3)a), abstraction faite du sous-alinéa (3)a)(iv), ne sont versées qu’une fois que l’administrateur du régime a reçu d’un médecin autorisé à exercer sous le régime des lois d’une province ou du lieu où le participant réside un rapport écrit renfermant les renseignements sur l’état de santé de celui-ci dont l’administrateur s’est servi pour établir qu’il s’agit bien d’une période d’invalidité.
+	- **e)** les prestations viagères supplémentaires assurées, le cas échéant, aux termes de la disposition à un participant en raison de son invalidité totale et permanente ne sont versées qu’une fois que l’administrateur du régime a reçu d’un médecin ou infirmier praticien autorisé à exercer sa profession sous le régime des lois d’une province ou du lieu où le participant réside un rapport écrit renfermant les renseignements sur l’état de santé de celui-ci dont l’administrateur s’est servi pour établir l’invalidité totale et permanente;
+	- **f)** les prestations viagères assurées, le cas échéant, à un participant aux termes de la disposition pour une période d’invalidité de celui-ci, mais qui ne sont pas conformes à l’alinéa (3)a), compte non tenu de son sous-alinéa (iv), ne sont versées qu’une fois que l’administrateur du régime a reçu d’un médecin ou infirmier praticien autorisé à exercer sa profession sous le régime des lois d’une province ou du lieu où le participant réside un rapport écrit renfermant les renseignements sur l’état de santé de celui-ci dont l’administrateur s’est servi pour établir qu’il s’agit bien d’une période d’invalidité.
 
 #### Non-application de la condition concernant les cotisations des participants
 
@@ -17269,22 +17275,22 @@ cette stipulation peut prévoir que la modification du régime, ou le remboursem
 #### Rachat des prestations viagères
 
 
-- **(7)** Lorsqu’un régime de pension permet à un participant de recevoir un montant unique en règlement total ou partiel de son droit aux prestations viagères prévues par une disposition à prestations déterminées du régime, les règles suivantes s’appliquent :
+- **(7)** Lorsqu’un régime de pension permet à un participant de recevoir un montant unique en règlement total ou partiel de son droit aux prestations viagères prévues par une disposition à prestations déterminées du régime, les règles suivantes s’appliquent :
 	- **a)** la condition énoncée au sous-alinéa (2)b)(i) selon laquelle le versement des prestations de raccordement prévues par la disposition ne peut commencer avant le début du versement au participant des prestations viagères qu’elle prévoit ne s’applique pas lorsque, avant le début du versement de celles-ci, un montant unique est versé en règlement total du droit du participant à celles-ci;
 	- **b)** la partie des prestations viagères du participant qui demeure payable une fois un montant unique versé en règlement total de son droit aux prestations viagères qui seraient payables par ailleurs après qu’il a atteint un âge donné est réputée, pour l’application des conditions du présent article, constituer des prestations viagères et non des prestations de raccordement.
 
 #### Prestations de raccordement et choix
 
 
-- **(7.1)** Lorsqu’un régime de pension permet à un participant, ou à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait, de choisir de recevoir des prestations visées à l’un des alinéas (2)b), l) ou l.1) aux termes d’une disposition à prestations déterminées du régime qui, sans être plus favorables sur le plan actuariel, remplacent la totalité ou une partie des prestations qui lui seraient payables par ailleurs aux termes de la disposition, les règles suivantes s’appliquent :
+- **(7.1)** Lorsqu’un régime de pension permet à un participant, ou à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait, de choisir de recevoir des prestations visées à l’un des alinéas (2)b), l) ou l.1) aux termes d’une disposition à prestations déterminées du régime qui, sans être plus favorables sur le plan actuariel, remplacent la totalité ou une partie des prestations qui lui seraient payables par ailleurs aux termes de la disposition, les règles suivantes s’appliquent :
 	- **a)** la condition énoncée au sous-alinéa (2)b)(i) selon laquelle le versement des prestations de raccordement aux termes de la disposition ne peut commencer avant le versement des prestations viagères aux termes de la disposition ne s’applique pas si, par suite du choix, aucune prestation viagère n’est payable au participant aux termes de la disposition;
 	- **b)** il peut être fait abstraction du choix lorsqu’il s’agit de déterminer si les prestations de retraite assurées aux bénéficiaires du participant aux termes de la disposition sont conformes aux alinéas (2)c), d) et k).
 
 #### Suspension ou cessation de la pension
 
 
-- **(8)** Un régime de pension peut prévoir ce qui suit :
-	- **a)** la suspension du versement des prestations de retraite assurées à un participant aux termes d’une disposition à prestations déterminées du régime si, selon le cas :
+- **(8)** Un régime de pension peut prévoir ce qui suit :
+	- **a)** la suspension du versement des prestations de retraite assurées à un participant aux termes d’une disposition à prestations déterminées du régime si, selon le cas :
 		- **(i)** la suspension n’influe pas sur les prestations de retraite payables au participant après la suspension,
 		- **(ii)** le paragraphe (9) s’applique aux prestations de retraite du participant;
 	- **b)** la cessation du versement des prestations supplémentaires éventuelles qui sont payables à un participant aux termes d’une disposition à prestations déterminées du régime en raison de sa déficience mentale ou physique ou de la cessation de son emploi dans le cadre d’un programme de réduction des effectifs au sens du paragraphe 8505(1).
@@ -17292,15 +17298,15 @@ cette stipulation peut prévoir que la modification du régime, ou le remboursem
 #### Participant employé de nouveau
 
 
-- **(9)** Sous réserve du paragraphe (10), lorsqu’un régime de pension prévoit ce qui suit relativement au participant qui devient l’employé d’un employeur participant après le début du versement des prestations de retraite prévues par la disposition à prestations déterminées du régime :
+- **(9)** Sous réserve du paragraphe (10), lorsqu’un régime de pension prévoit ce qui suit relativement au participant qui devient l’employé d’un employeur participant après le début du versement des prestations de retraite prévues par la disposition à prestations déterminées du régime :
 	- **a)** le versement au participant des prestations de retraite prévues par la disposition est suspendu tant qu’il est au service d’un employeur participant,
-	- **b)** les prestations de retraite payables au participant après la suspension font l’objet d’une des opérations suivantes :
+	- **b)** les prestations de retraite payables au participant après la suspension font l’objet d’une des opérations suivantes :
 		- **(i)** les prestations pour tout ou partie de la période de suspension y sont ajoutées,
 		- **(i.1)** lorsque les prestations de retraite payables au participant aux termes de la disposition après la suspension ne font pas l’objet d’un rajustement de coût de vie ou d’un rajustement semblable pour la période de suspension, elles sont calculées de nouveau pour tenir compte de la rémunération que le participant a reçue de l’employeur pendant cette période,
 		- **(ii)** lorsque le participant avait une invalidité totale et permanente au moment où les prestations de retraite ont commencé à lui être versées, les prestations pour tout ou partie de la période d’invalidité y sont ajoutées,
 		- **(iii)** lorsque les prestations de retraite du participant ont été déterminées en fonction d’une réduction fondée sur l’âge de celui-ci ou sur la durée de ses services, ou sur les deux facteurs, ou d’une autre réduction de même nature, le montant de la réduction est calculé de nouveau,
 		- **(iv)** lorsque le versement des prestations de retraite au participant reprend après qu’il a atteint 65 ans, les prestations sont rajustées de façon à compenser, en tout ou en partie, les paiements que le participant perd après avoir atteint cet âge,
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **c)** la condition énoncée à l’alinéa (3)b) ne s’applique pas aux prestations assurées au participant aux termes de la disposition pour une période tout au long de laquelle le versement des prestations au participant est suspendu;
 	- **d)** lorsque le participant avait une invalidité totale et permanente au moment où les prestations de retraite ont commencé à lui être versées, la condition énoncée à l’alinéa (3)b) ne s’applique pas aux prestations qui lui sont assurées par la disposition pour une période d’invalidité;
 	- **e)** les conditions énoncées aux alinéas (2)b), (3)c) et d) et à l’article 8504 s’appliquent aux prestations payables au participant aux termes de la disposition après la suspension comme si les prestations de retraite n’avaient pas commencé à lui être versées;
@@ -17337,27 +17343,27 @@ les règles suivantes s’appliquent :
 #### Règles spéciales applicables aux régimes de l’État
 
 
-- **(13)** Malgré le paragraphe (3) :
+- **(13)** Malgré le paragraphe (3) :
 	- **a)** pour l’application de la condition énoncée à l’alinéa (3)b) aux prestations prévues par le régime de pension institué par la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), le passage « un autre régime de pension agréé » au sous-alinéa (3)b)(ii) ne désigne pas les régimes de pension institués par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
 	- **b)** la condition énoncée à l’alinéa (3)c) ne s’applique pas aux prestations prévues par le régime de pension institué par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md).
 
 #### Réduction artificielle du facteur d’équivalence
 
 
-- **(14)** Lorsque les conditions suivantes sont réunies :
+- **(14)** Lorsque les conditions suivantes sont réunies :
 	- **a)** les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension agréé sont fonction de sa rémunération,
 	- **b)** certains types de rémunération (appelée « rémunération exclue » au présent paragraphe) n’entrent pas dans le calcul de ses prestations viagères,
 	- **c)** il est raisonnable de considérer que l’un des principaux motifs pour lesquels un employeur lui a versé des sommes sous forme de rémunération exclue consistait à réduire artificiellement son crédit de pension quant à l’employeur dans le cadre de la disposition,
-les présomptions suivantes s’appliquent aux fins des conditions énoncées au paragraphe 8504(1) :
+les présomptions suivantes s’appliquent aux fins des conditions énoncées au paragraphe 8504(1) :
 	- **d)** le participant est réputé avoir été rattaché à l’employeur pendant qu’il était à son service;
 	- **e)** le participant est réputé ne pas avoir reçu les sommes qui constituent de la rémunération exclue.
 
 #### Cotisation d’employeur pour services passés
 
 
-- **(15)** L’agrément d’un régime de pension agréé peut être retiré en application de l’alinéa 147.1(11)c) de la Loi au dernier en date du 11 décembre 1989 et de la veille du versement d’une cotisation d’employeur au régime, si les conditions suivantes sont réunies :
+- **(15)** L’agrément d’un régime de pension agréé peut être retiré en application de l’alinéa 147.1(11)c) de la Loi au dernier en date du 11 décembre 1989 et de la veille du versement d’une cotisation d’employeur au régime, si les conditions suivantes sont réunies :
 	- **a)** tout ou partie de la cotisation est versée au titre des prestations (appelées « prestations pour services passés » au présent paragraphe) prévues par le régime pour un participant relativement à une période antérieure à 1990 et antérieure à l’année civile au cours de laquelle la cotisation est versée;
-	- **b)** la cotisation est versée :
+	- **b)** la cotisation est versée :
 		- **(i)** soit après le 10 décembre 1989,
 		- **(ii)** soit avant le 11 décembre 1989 lorsqu’elle n’a pas été approuvée par le ministre avant cette date aux termes de l’alinéa 20(1)s) de la Loi;
 	- **c)** il est raisonnable de considérer que l’employeur, en accord avec le participant, a versé la totalité, ou presque, de la partie de la cotisation qui se rapporte aux prestations pour services passés au lieu de payer au participant un montant ou autre prestation auquel il aurait droit par ailleurs.
@@ -17367,15 +17373,15 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 
 - **(16)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (17) à (23).
 
-***date d’admissibilité*** Le premier en date des jours ci-après applicable à un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension :
+***date d’admissibilité*** Le premier en date des jours ci-après applicable à un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension :
 - **a)** le dernier en date des jours suivants :
 	- **(i)** le jour où le participant atteint 55 ans,
 	- **(ii)** le jour où le participant atteint l’âge minimal auquel les prestations viagères prévues par la disposition peuvent commencer à lui être versées sans réduction fondée sur son âge ou sur la durée de ses services, ou sur les deux, et sans autre réduction de même nature, et autrement qu’en raison de son invalidité totale et permanente, le cas échéant;
-- **b)** le jour où le participant atteint 60 ans. (*specified eligibility day*)
+- **b)** le jour où le participant atteint 60 ans. (*specified eligibility day*)
 
-***période admissible*** Période tout au long de laquelle un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension est au service d’un employeur qui participe au régime. En est exclue toute période qui est antérieure à la date où des prestations de retraite commencent à être assurées au participant dans le cadre de la disposition, laquelle date correspond au dernier en date des jours ci-après ou y est postérieure :
+***période admissible*** Période tout au long de laquelle un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension est au service d’un employeur qui participe au régime. En est exclue toute période qui est antérieure à la date où des prestations de retraite commencent à être assurées au participant dans le cadre de la disposition, laquelle date correspond au dernier en date des jours ci-après ou y est postérieure :
 - **a)** le jour où les prestations de retraite prévues par la disposition ont commencé pour la première fois à être versées au participant;
-- **b)** la date d’admissibilité applicable au participant dans le cadre de la disposition. (*qualifying period*)
+- **b)** la date d’admissibilité applicable au participant dans le cadre de la disposition. (*qualifying period*)
 
 #### Prestations de raccordement
 
@@ -17451,7 +17457,7 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 	- **a)** une personne qui est soit un participant du régime, soit un bénéficiaire du régime qui, au décès du participant, était l’époux ou le conjoint de fait de celui-ci reçoit des prestations de retraite aux termes du régime;
 	- **b)** la personne a atteint 71 ans avant l’année;
 	- **c)** le régime n’a pas versé à la personne au cours de l’année une somme égale à la plus élevée des sommes suivantes : les prestations de retraite qui sont payables à la personne pour l’année et le minimum RRI relativement à la personne pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; 2007, ch. 29, art. 35, ch. 35, art. 83; DORS/2007-116, art. 16(F); 2011, ch. 24, art. 96.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; 2007, ch. 29, art. 35, ch. 35, art. 83; DORS/2007-116, art. 16(F); 2011, ch. 24, art. 96; 2017, ch. 33, art. 102.
 
 
 
@@ -18590,13 +18596,13 @@ le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, u
 
 **8517** 
 
-- **(1)** Pour l’application de l’alinéa 147.3(4)c) de la Loi aux transferts de montants pour le compte d’un particulier en règlement total ou partiel de son droit aux prestations prévues par une disposition à prestations déterminées d’un régime de pension agréé, et sous réserve des paragraphes (2) à (3.1), le montant prescrit est calculé selon la formule suivante :
+- **(1)** Pour l’application de l’alinéa 147.3(4)c) de la Loi aux transferts de montants pour le compte d’un particulier en règlement total ou partiel de son droit aux prestations prévues par une disposition à prestations déterminées d’un régime de pension agréé, et sous réserve des paragraphes (2) à (3.1), le montant prescrit est calculé selon la formule suivante :
 ```
 A × B
 ```
 où 
 - **A** représente le montant, calculé au paragraphe (4), des prestations viagères assurées au particulier par la disposition qui sont rachetées en vue du transfert;
-- **B** représente :
+- **B** représente :
 - **a)** le facteur de valeur actualisée qui correspond à l’âge du particulier au moment du transfert, établi selon le tableau ci-après;
 - **b)** si le facteur de valeur actualisée visée à l’alinéa a) est inférieur à celui qui correspond à l’âge immédiatement supérieur, le facteur de valeur actualisée établi par interpolation entre ces deux facteurs en fonction de l’âge (en années et fractions d’année) du particulier.
 #### TABLEAU
@@ -18836,36 +18842,36 @@ où
 #### Prestations découlant d’une attribution de surplus lors de la liquidation
 
 
-- **(3.1)** Lorsqu’un montant est transféré en règlement total ou partiel du droit d’un particulier à des prestations dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé et que les prestations comprennent des prestations (appelées « prestations accessoires » au présent paragraphe) qui ne sont permises que par l’effet du paragraphe 8501(7), est prescrit pour l’application de l’alinéa 147.3(4)c) de la Loi relativement au transfert le total des montants suivants :
+- **(3.1)** Lorsqu’un montant est transféré en règlement total ou partiel du droit d’un particulier à des prestations dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé et que les prestations comprennent des prestations (appelées « prestations accessoires » au présent paragraphe) qui ne sont permises que par l’effet du paragraphe 8501(7), est prescrit pour l’application de l’alinéa 147.3(4)c) de la Loi relativement au transfert le total des montants suivants :
 	- **a)** le montant qui, si ce n’était le présent paragraphe, constituerait le montant prescrit;
-	- **b)** un montant approuvé par le ministre, ne dépassant pas le moins élevé des montants suivants :
+	- **b)** un montant approuvé par le ministre, ne dépassant pas le moins élevé des montants suivants :
 		- **(i)** la valeur actualisée (au moment du transfert) des prestations accessoires qui cessent d’être assurées par suite du transfert,
-		- **(ii)** le total des montants représentant chacun, relativement à un transfert antérieur de la disposition à une disposition à cotisations déterminées d’un régime de pension agréé, à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite en règlement total ou partiel du droit du particulier à d’autres prestations prévues par la disposition à prestations déterminées, l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
+		- **(ii)** le total des montants représentant chacun, relativement à un transfert antérieur de la disposition à une disposition à cotisations déterminées d’un régime de pension agréé, à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite en règlement total ou partiel du droit du particulier à d’autres prestations prévues par la disposition à prestations déterminées, l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
 			- **(A)** le montant prescrit pour l’application de l’alinéa 147.3(4)c) de la Loi relativement au transfert antérieur,
 			- **(B)** le montant du transfert antérieur.
 
 #### Prestations viagères rachetées
 
 
-- **(4)** Pour l’application du paragraphe (1) et sous réserve du paragraphe (7), le montant des prestations viagères assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé qui sont rachetées en vue du transfert d’un montant pour le compte du particulier en règlement total ou partiel de son droit aux prestations prévues par la disposition est égal au total des montants suivants :
+- **(4)** Pour l’application du paragraphe (1) et sous réserve du paragraphe (7), le montant des prestations viagères assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé qui sont rachetées en vue du transfert d’un montant pour le compte du particulier en règlement total ou partiel de son droit aux prestations prévues par la disposition est égal au total des montants suivants :
 	- **a)** si des prestations de retraite ont commencé à être versées au particulier aux termes de la disposition, le montant, calculé sur une année, qui est appliqué, par suite du transfert, en réduction des prestations viagères prévues pour le particulier par la disposition;
 	- **b)** sinon, le montant, calculé sur une année, qui est appliqué, par suite du transfert, en réduction de la pension normalisée, déterminée en conformité avec le paragraphe (5), prévue pour le particulier par la disposition au moment du transfert;
-	- **c)** lorsque, au moment du transfert, un autre montant (sauf un montant transféré en conformité avec le paragraphe 147.3(5) de la Loi ou transféré après 1991 en conformité avec le paragraphe 147.3(3) de la Loi payé sur le régime est versé en règlement partiel du droit du particulier aux prestations prévues par la disposition, le montant, calculé sur une année, qui est appliqué, par suite du versement, en réduction :
+	- **c)** lorsque, au moment du transfert, un autre montant (sauf un montant transféré en conformité avec le paragraphe 147.3(5) de la Loi ou transféré après 1991 en conformité avec le paragraphe 147.3(3) de la Loi payé sur le régime est versé en règlement partiel du droit du particulier aux prestations prévues par la disposition, le montant, calculé sur une année, qui est appliqué, par suite du versement, en réduction :
 		- **(i)** en cas d’application de l’alinéa a), des prestations viagères prévues pour le particulier par la disposition,
 		- **(ii)** en cas d’application de l’alinéa b), de la pension normalisée, déterminée en conformité avec le paragraphe (5), prévue pour le particulier par la disposition au moment du versement, sauf dans la mesure où le montant de la réduction est inclus dans le calcul, pour l’application du paragraphe (1), des prestations viagères prévues pour le particulier par la disposition qui sont rachetées en vue du transfert d’un autre montant pour son compte.
 
 #### Pension normalisée
 
 
-- **(5)** Pour l’application du paragraphe (4), la pension normalisée prévue pour un particulier à un moment donné par la disposition à prestations déterminées d’un régime de pension agréé est égale aux prestations viagères, calculées sur une année, qui seraient payables aux termes de la disposition à ce moment, si les hypothèses suivantes étaient admises :
+- **(5)** Pour l’application du paragraphe (4), la pension normalisée prévue pour un particulier à un moment donné par la disposition à prestations déterminées d’un régime de pension agréé est égale aux prestations viagères, calculées sur une année, qui seraient payables aux termes de la disposition à ce moment, si les hypothèses suivantes étaient admises :
 	- **a)** les prestations viagères commencent à être versées au particulier au moment donné;
 	- **b)** si ce n’est pas déjà fait avant le moment donné, le particulier atteint 65 ans au moment donné;
 	- **c)** toutes les prestations auxquelles le particulier a droit aux termes de la disposition lui sont acquises intégralement;
 	- **d)** lorsque les prestations viagères du particulier feraient l’objet par ailleurs d’une réduction fondée sur l’âge du particulier ou sur la durée de ses services, ou sur les deux, ou d’une autre réduction de même nature, aucune réduction de ce type n’est opérée;
 	- **e)** les prestations viagères du particulier qui sont fonction des prestations prévues par une autre disposition à cotisations ou à prestations déterminées du régime ou par un autre régime ou mécanisme font l’objet d’une estimation raisonnable;
 	- **f)** il n’est pas tenu compte des prestations viagères du particulier qui comprennent par ailleurs des prestations que le régime doit prévoir en application de la disposition déterminée d’une loi fédérale ou provinciale, ou qu’il devrait prévoir si cette disposition s’appliquait au régime quant à tous ses participants;
-	- **g)** sauf disposition contraire du paragraphe (6), lorsque les prestations viagères du particulier sont fonction, selon le cas :
-		- **(i)** du type de prestations assurées au particulier aux termes de la disposition, indépendamment du fait qu’il les a choisies, et notamment :
+	- **g)** sauf disposition contraire du paragraphe (6), lorsque les prestations viagères du particulier sont fonction, selon le cas :
+		- **(i)** du type de prestations assurées au particulier aux termes de la disposition, indépendamment du fait qu’il les a choisies, et notamment :
 			- **(A)** des prestations à verser après le décès du particulier,
 			- **(B)** des prestations de retraite, à l’exception des prestations viagères, prévues pour le particulier,
 			- **(C)** des rajustements de coût de vie dont les prestations viagères feront l’objet,
@@ -18875,26 +18881,26 @@ le type de prestations et les circonstances sont tels qu’ils portent au maximu
 #### Autres types de prestations
 
 
-- **(6)** Lorsque les conditions suivantes sont réunies :
+- **(6)** Lorsque les conditions suivantes sont réunies :
 	- **a)** les modalités de la disposition à prestations déterminées d’un régime de pension agréé permettent au particulier de choisir de recevoir des prestations viagères supplémentaires au lieu de prestations qui, en l’absence du choix, seraient payables après son décès — survenu après que les prestations de retraite aux termes de la disposition ont commencé à lui être versées;
-	- **b)** les choix suivants s’offrent au particulier :
+	- **b)** les choix suivants s’offrent au particulier :
 		- **(i)** le choix de recevoir des prestations viagères supplémentaires — ne dépassant pas des prestations supplémentaires déterminées selon une méthode équivalente sur le plan actuariel — au lieu de tout ou partie d’une garantie de prestations de retraite sur une période minimale d’au plus dix ans,
-		- **(ii)** le choix de recevoir des prestations viagères supplémentaires au lieu de prestations de retraite qui seraient autrement payables à une personne qui est un époux ou un conjoint de fait ou un ex-époux ou un ancien conjoint de fait du particulier pour une période commençant après le décès du particulier et se terminant au décès de la personne, dans le cas où, à la fois :
-			- **(A)** le choix n’est possible que si l’espérance de vie de la personne est beaucoup moins longue que la normale selon l’attestation écrite délivrée par un médecin autorisé à exercer sa profession par la législation d’une province ou du lieu de résidence de la personne,
+		- **(ii)** le choix de recevoir des prestations viagères supplémentaires au lieu de prestations de retraite qui seraient autrement payables à une personne qui est un époux ou un conjoint de fait ou un ex-époux ou un ancien conjoint de fait du particulier pour une période commençant après le décès du particulier et se terminant au décès de la personne, dans le cas où, à la fois :
+			- **(A)** le choix n’est possible que si l’espérance de vie de la personne est beaucoup moins longue que la normale selon l’attestation écrite délivrée par un médecin ou infirmier praticien autorisé à exercer sa profession par la législation d’une province ou du lieu de résidence de la personne,
 			- **(B)** les prestations supplémentaires ne dépassent pas celles qui seraient déterminées selon une méthode équivalente sur le plan actuariel si l’espérance de vie de la personne était normale,
-l’alinéa (5)g) s’applique comme si les choix suivants ne s’offraient pas au particulier :
+l’alinéa (5)g) s’applique comme si les choix suivants ne s’offraient pas au particulier :
 	- **c)** le choix visé au sous-alinéa b)(i);
 	- **d)** le choix visé au sous-alinéa b)(ii), si le moment auquel la pension normalisée du particulier est déterminée selon le paragraphe (5) est postérieur à 1991.
 
 #### Prestations de remplacement
 
 
-- **(7)** Lorsque les conditions suivantes sont réunies :
+- **(7)** Lorsque les conditions suivantes sont réunies :
 	- **a)** un montant est transféré, à un moment donné, pour le compte d’un particulier en règlement total ou partiel de son droit aux prestations prévue par une disposition à prestations déterminées donnée d’un régime de pension agréé;
 	- **b)** à partir de ce même moment, des prestations lui sont assurées aux termes d’une autre disposition à prestations déterminées du régime ou d’une semblable disposition d’un autre régime de pension agréé;
 	- **c)** un employeur qui a participé dans le cadre de la disposition donnée au profit du particulier participe également à l’autre disposition au profit du particulier,
 le montant des prestations viagères du particulier aux termes de la disposition donnée, rachetées en vue de transfert, est égal au montant qui serait calculé selon le paragraphe (4) si les prestations prévues par l’autre disposition étaient prévues par la disposition donnée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/99-9, art. 26; DORS/2001-188, art. 12; 2011, ch. 24, art. 97; 2014, ch. 20, art. 36.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/99-9, art. 26; DORS/2001-188, art. 12; 2011, ch. 24, art. 97; 2014, ch. 20, art. 36; 2017, ch. 33, art. 103.
 
 
 
@@ -22969,7 +22975,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(iv)** du matériel de récupération de la chaleur que le contribuable ou son preneur utilise principalement pour économiser de l’énergie, ou pour réduire les besoins en énergie, par l’extraction, en vue de leur réutilisation, de déchets thermiques provenant directement d’un procédé industriel (sauf celui qui produit ou transforme de l’énergie électrique), y compris le matériel de ce type qui consiste en matériel d’échange thermique, en compresseurs servant à hausser la pression de la vapeur ou du gaz basse pression, en chaudières de récupération des chaleurs perdues et en matériel auxiliaire comme les panneaux de commande, les ventilateurs, les instruments ou les pompes, mais à l’exclusion des biens qui servent à réutiliser la chaleur récupérée (comme les biens qui font partie d’un système interne de chauffage ou de refroidissement d’un bâtiment ou le matériel générateur d’électricité), des bâtiments et du matériel qui récupère de la chaleur devant servir principalement à chauffer l’eau d’une piscine,
+**(iv)** du matériel de récupération de la chaleur que le contribuable ou son preneur utilise principalement pour économiser de l’énergie, pour réduire les besoins d’acquérir de l’énergie ou pour extraire de la chaleur en vue de la vendre, par l’extraction, en vue de leur réutilisation, de déchets thermiques provenant directement d’un procédé industriel (sauf celui qui produit ou transforme de l’énergie électrique), y compris le matériel de ce type qui consiste en matériel d’échange thermique, en compresseurs servant à hausser la pression de la vapeur ou du gaz basse pression, en chaudières de récupération des chaleurs perdues et en matériel auxiliaire comme les panneaux de commande, les ventilateurs, les instruments ou les pompes, mais à l’exclusion des biens qui servent à réutiliser la chaleur récupérée (comme les biens qui font partie d’un système interne de chauffage ou de refroidissement d’un bâtiment ou le matériel générateur d’électricité), des bâtiments et du matériel qui récupère de la chaleur devant servir principalement à chauffer l’eau d’une piscine,
 
 
 
@@ -23021,7 +23027,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(vii)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie électrique uniquement à partir d’énergie géothermique, y compris le matériel de ce type qui consiste en tuyauterie (incluant la tuyauterie hors-sol ou souterraine et le coût de forage d’un puits ou de creusement d’une tranchée en vue de l’installation de cette tuyauterie), en pompes, en échangeurs thermiques, en séparateurs de vapeur, en matériel générateur d’électricité et en matériel auxiliaire servant à recueillir la chaleur géothermique, mais à l’exclusion des bâtiments, du matériel de transmission, du matériel de distribution, du matériel de stockage de l’énergie électrique, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i),
+**(vii)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie électrique ou de l’énergie thermique, ou les deux, uniquement à partir d’énergie géothermique, y compris le matériel de ce type qui consiste en tuyauterie (qui comprend la tuyauterie hors-sol ou souterraine et le coût d’achèvement d’un puits — y compris la tête du puits et la colonne de production —, ou de creusement d’une tranchée, en vue de l’installation de cette tuyauterie), en pompes, en échangeurs thermiques, en séparateurs de vapeur, en matériel générateur d’électricité et en matériel auxiliaire servant à recueillir la chaleur géothermique, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel qui sert à chauffer l’eau d’une piscine, du matériel visé à la subdivision (i)(A)(II), des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son alinéa a.1),
 
 
 
@@ -23091,7 +23097,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(B)** fait partie d’un réseau énergétique de quartier qui utilise de l’énergie thermique fournie principalement par du matériel qui est visé aux sous-alinéas (i), (iv) ou (ix) ou qui y serait visé s’il appartenait au contribuable,
+**(B)** fait partie d’un réseau énergétique de quartier qui utilise de l’énergie thermique fournie principalement par du matériel qui est visé à l’un des sous-alinéas (i), (iv), (vii) et (ix) ou qui y serait visé s’il appartenait au contribuable,
 
 
 
@@ -23146,7 +23152,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90; 2017, ch. 33, art. 104..
 
 
 
