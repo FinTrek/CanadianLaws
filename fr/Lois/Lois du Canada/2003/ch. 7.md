@@ -223,18 +223,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Délégation au ministre territorial**
-
-**6.1** 
-
-- **(1)** Le ministre fédéral peut, par écrit, déléguer au ministre territorial tout ou partie des attributions que lui confère la présente loi. La délégation peut être générale ou spécifique; dans ce dernier cas, sa portée est précisée dans l’acte de délégation.
-
-**Avis**
-
-- **(2)** Le ministre fédéral avise, par écrit, les premières nations de la délégation.
-> 2015, ch. 19, art. 2.
-
+**6.1** [Abrogé, 2017, ch. 34, art. 1]
 
 
 
@@ -962,18 +951,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Absence de changements importants**
-
-**49.1** 
-
-- **(1)** Ne doit pas faire l’objet d’une nouvelle évaluation le projet de développement ou l’ouvrage pour lequel une autorisation est renouvelée ou modifiée, à moins que, de l’avis du décisionnaire compétent, il n’ait fait l’objet de changements importants qui seraient par ailleurs assujettis à une évaluation.
-
-**Consultation entre décisionnaires**
-
-- **(2)** Si le projet de développement relève de plus d’un décisionnaire, ils se consultent pour décider si une nouvelle évaluation est requise.
-> 2015, ch. 19, art. 14.
-
+**49.1** [Abrogé, 2017, ch. 34, art. 2]
 
 
 
@@ -1072,23 +1050,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **56** 
 
-- **(1)** Dans les neuf mois suivant la date où une proposition lui est soumise aux termes du paragraphe 50(1), le bureau désigné termine l’examen du projet de développement en prenant l’une ou l’autre des décisions suivantes :
+- **(1)** Au terme de l’examen du projet de développement, le bureau désigné prend l’une ou l’autre des décisions suivantes :
 	- **a)** il recommande aux décisionnaires compétents de permettre la réalisation du projet de développement dans le cas où il conclut que celui-ci n’aura pas d’effets négatifs importants sur l’environnement ou la vie socioéconomique au Yukon ou à l’extérieur de ses limites;
 	- **b)** il leur recommande de permettre la réalisation du projet sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
 	- **c)** il leur recommande de refuser la réalisation du projet dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets qu’il est impossible d’atténuer;
 	- **d)** il renvoie l’affaire au comité de direction pour examen dans le cas où il est incapable d’établir, malgré les mesures d’atténuation prévues, si le projet aura ou risque d’avoir des effets négatifs importants sur l’environnement ou la vie socioéconomique.
 
-**Période exclue**
-
-- **(1.1)** Dans le cas où le bureau désigné exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
-
-**Prolongation du délai par le ministre fédéral**
-
-- **(1.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
-
-**Prolongation du délai par le gouverneur en conseil**
-
-- **(1.3)** Le gouverneur en conseil peut, par décret pris sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
+- **(1.1) à (1.3)** [Abrogés, 2017, ch. 34, art. 3]
 
 **Communication des recommandations**
 
@@ -1105,7 +1073,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication de documents**
 
 - **(5)** Le bureau désigné adresse au comité de direction copie de tous les documents en sa possession relatifs au projet de développement qui fait l’objet du renvoi.
-> 2003, ch. 7, art. 56; 2015, ch. 19, art. 16.
+> 2003, ch. 7, art. 56; 2015, ch. 19, art. 16; 2017, ch. 34, art. 3.
 
 
 
@@ -1140,23 +1108,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **58** 
 
-- **(1)** Dans les seize mois suivant la date où une proposition lui est soumise aux termes du paragraphe 50(1) ou à laquelle un projet lui est renvoyé en application de l’alinéa 56(1)d), le comité de direction termine la préétude du projet de développement en prenant l’une ou l’autre des décisions suivantes :
+- **(1)** Au terme de la préétude du projet de développement, le comité de direction prend l’une ou l’autre des décisions suivantes :
 	- **a)** il recommande aux décisionnaires compétents de permettre la réalisation du projet — sans qu’une étude soit effectuée — dans le cas où il conclut que celui-ci n’aura pas d’effets négatifs importants sur l’environnement ou la vie socioéconomique au Yukon ou à l’extérieur de ses limites;
 	- **b)** il leur recommande de permettre la réalisation du projet — sans qu’une étude soit effectuée — sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
 	- **c)** il leur recommande de refuser la réalisation du projet — sans qu’une étude soit effectuée — dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets qu’il est impossible d’atténuer;
 	- **d)** il ordonne l’étude du projet dans le cas où il n’est pas en mesure d’établir si, malgré les mesures d’atténuation prévues, celui-ci aura ou risque d’avoir des effets négatifs importants sur l’environnement ou la vie socioéconomique.
 
-**Période exclue**
-
-- **(1.1)** Dans le cas où le comité de direction exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
-
-**Prolongation du délai par le ministre fédéral**
-
-- **(1.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
-
-**Prolongation du délai par le gouverneur en conseil**
-
-- **(1.3)** Le gouverneur en conseil peut, par décret pris sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
+- **(1.1) à (1.3)** [Abrogés, 2017, ch. 34, art. 4]
 
 **Étude obligatoire**
 
@@ -1171,7 +1129,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(4)** Le comité de direction notifie par écrit la décision d’ordonner l’étude, motifs à l’appui, au promoteur, aux premières nations consultées en application du paragraphe 50(3), ainsi qu’aux autorités publiques, organismes administratifs autonomes et premières nations l’ayant avisé de leur intérêt dans le projet de développement ou dans les projets de même catégorie.
-> 2003, ch. 7, art. 58; 2015, ch. 19, art. 17.
+> 2003, ch. 7, art. 58; 2015, ch. 19, art. 17; 2017, ch. 34, art. 4.
 
 
 
@@ -1334,26 +1292,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Délai**
-
-**66.1** 
-
-- **(1)** Le comité de direction établit un comité restreint et fixe son mandat dans les trois mois suivant la date où un tel comité doit être établi en application des paragraphes 65(1) ou (2).
-
-**Période exclue**
-
-- **(2)** Dans le cas où le comité de direction exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
-
-**Prolongation du délai par le ministre fédéral**
-
-- **(3)** Le ministre fédéral peut, sur demande du comité de direction, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
-
-**Prolongation du délai par le gouverneur en conseil**
-
-- **(4)** Le gouverneur en conseil peut, par décret pris sur recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
-> 2015, ch. 19, art. 21.
-
+**66.1** [Abrogé, 2017, ch. 34, art. 5]
 
 
 
@@ -1499,26 +1438,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** de permettre la réalisation du projet sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets, mais que ceux-ci peuvent être atténués grâce à ces conditions;
 	- **c)** de refuser la réalisation du projet dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets qu’il est impossible d’atténuer.
 
-**Délai : comité restreint**
-
-- **(4.1)** Le comité restreint fait les recommandations mentionnées au paragraphe (4) dans les quinze mois suivant son établissement par le comité de direction en application des paragraphes 65(1) ou (2).
-
-**Période exclue**
-
-- **(4.2)** Dans le cas où le comité restreint exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
-
-**Prolongation du délai par le ministre fédéral**
-
-- **(4.3)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (4.1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
-
-**Prolongation du délai par le gouverneur en conseil**
-
-- **(4.4)** Le gouverneur en conseil peut, par décret pris sur recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
+- **(4.1) à (4.4)** [Abrogés, 2017, ch. 34, art. 6]
 
 **Communication des recommandations**
 
 - **(5)** Les recommandations sont communiquées par écrit, motifs à l’appui, avec copie au promoteur.
-> 2003, ch. 7, art. 72; 2015, ch. 19, art. 23.
+> 2003, ch. 7, art. 72; 2015, ch. 19, art. 23; 2017, ch. 34, art. 6.
 
 
 
@@ -1581,12 +1506,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Délai**
 
-- **(2)** Le comité de direction ou le comité restreint adresse aux décisionnaires compétents ses nouvelles recommandations dans le délai prévu par les règles, lequel ne peut dépasser soixante jours dans le cas d’une préétude par le comité de direction et quatre-vingt-dix jours dans le cas d’une étude par un comité restreint. À défaut, il est réputé leur avoir adressé ses recommandations initiales.
+- **(2)** Le comité de direction ou le comité restreint adresse aux décisionnaires compétents ses nouvelles recommandations dans le délai prévu par les règles. À défaut, il est réputé leur avoir adressé ses recommandations initiales.
 
 **Nouvelle décision écrite**
 
 - **(3)** Chacun de ces décisionnaires peut, dans sa décision écrite prise dans le délai réglementaire, accepter, rejeter ou modifier les nouvelles recommandations. Cette nouvelle décision se substitue à toute décision antérieure prise par lui sur le sujet.
-> 2003, ch. 7, art. 77; 2015, ch. 19, art. 27.
+> 2003, ch. 7, art. 77; 2015, ch. 19, art. 27; 2017, ch. 34, art. 7.
 
 
 
@@ -2375,30 +2300,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
-
-### Instructions générales
-
-
-
-**Instructions ministérielles**
-
-**121.1** 
-
-- **(1)** Le ministre fédéral peut, après consultation de l’Office, donner par écrit à celui-ci des instructions générales obligatoires relativement à l’exercice des attributions que lui confère la présente loi.
-
-**Réserve**
-
-- **(2)** Les instructions ne visent toutefois pas la proposition relative à un projet de développement qui, au moment où elles sont données, a été soumis à un bureau désigné, au comité de direction ou à un comité restreint.
-
-**Publication**
-
-- **(3)** Dès que le ministre fédéral donne des instructions, il fait publier dans la Gazette du Canada un avis indiquant que l’Office les publiera sur son site Internet. Dès que l’Office reçoit les instructions, il les publie sur son site Internet et, s’il l’estime indiqué, les rend accessibles par tout autre moyen.
-
-**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
-
-- **(4)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux instructions.
-> 2015, ch. 19, art. 34.
-
+**121.1** [Abrogé, 2017, ch. 34, art. 8]
 
 
 
