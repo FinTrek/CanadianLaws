@@ -11,7 +11,7 @@ Sanctionnée sur le 23 juin 1992
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -394,6 +394,54 @@ L’avis de l’inspecteur doit, dans tous les cas, être fondé sur des motifs 
 
 
 
+**Définitions**
+
+**20.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article et à l’article 20.2.
+
+***exigence*** Norme d’efficacité énergétique, essai ou renseignement qui doit être communiqué par le fournisseur en application de l’article 5. (*requirement*)
+
+***harmoniser*** Relativement à des exigences, le fait de les faire correspondre sur le fond. (*harmonize*)
+
+***instance***
+- **a)** Gouvernement d’une province;
+- **b)** organisme établi sous le régime d’une loi provinciale;
+- **c)** gouvernement ou tribunal d’un État étranger ou d’une subdivision politique d’un État étranger ou organisme d’un tel gouvernement;
+- **d)** organisation internationale d’États ou organisme ou tribunal d’une telle organisation. (*jurisdiction*)
+
+**Modification de règlements**
+
+- **(2)** Le ministre peut, par règlement — à l’égard de tout matériel consommateur d’énergie, ou toute catégorie de ceux-ci, précisés par règlement du gouverneur en conseil au titre de l’alinéa 25c) — modifier les règlements pris en vertu des alinéas 20(1)b) ou d) ou 25b), afin de maintenir l’harmonisation d’une exigence prévue par ces règlements avec celle d’une instance.
+
+**Restrictions**
+
+- **(3)** Dans l’exercice du pouvoir que lui confère le paragraphe (2), le ministre peut :
+	- **a)** mettre à jour des renvois erronés à des documents incorporés par renvoi avec leurs modifications successives;
+	- **b)** modifier les normes d’efficacité énergétique applicables à tout matériel consommateur d’énergie ou à toute catégorie de ceux-ci;
+	- **c)** modifier les essais à effectuer sur les matériels consommateurs d’énergie pour déterminer leur efficacité énergétique ou en prévoir d’autres;
+	- **d)** prévoir les renseignements concernant le matériel consommateur d’énergie, notamment son efficacité énergétique, qui doivent être communiqués par les fournisseurs en application de l’article 5.
+> 2017, ch. 33, art. 221.
+
+
+
+
+
+**Définition de document de normes techniques**
+
+**20.2** 
+
+- **(1)** Au présent article, ***document de normes techniques*** s’entend d’un document, publié par le ministre, qui, dans les deux langues officielles, reproduit, combine ou adapte, en tout ou en partie, des documents produits par des instances, des organismes de normalisation ou des associations du secteur et qui prévoient, à l’égard de matériels consommateurs d’énergie, ou toute catégorie de ceux-ci, des exigences ou des indications liées à celles-ci. L’adaptation du document d’origine se fait notamment par modification de son contenu.
+
+**Incorporation d’un document de normes techniques**
+
+- **(2)** Peut être incorporé par renvoi dans les règlements pris en vertu des alinéas 20(1)b) ou d) ou 25b) — afin d’assurer l’harmonisation des exigences prévues par ces règlements avec celles d’une instance auxquelles ces règlements ou un document de normes techniques renvoient — tout ou partie d’un document de normes techniques, avec ses modifications successives.
+> 2017, ch. 33, art. 221.
+
+
+
+
+
 **PARTIE II** 
 ## Promotion de l’efficacité énergétique et des énergies de substitution
 
@@ -492,18 +540,7 @@ L’avis de l’inspecteur doit, dans tous les cas, être fondé sur des motifs 
 
 
 
-
-**Publication des projets de règlement**
-
-**26** 
-
-- **(1)** Sous réserve du paragraphe (2), les projets de règlements d’application des articles 20, 22 et 25 sont publiés dans la Gazette du Canada au moins soixante-quinze jours avant la date envisagée pour leur entrée en vigueur.
-
-**Exceptions**
-
-- **(2)** Ne sont pas visés les projets de règlement :
-	- **a)** déjà publiés dans les conditions prévues au paragraphe (1), qu’ils aient ou non été modifiés à la suite d’observations présentées après la publication;
-	- **b)** qui n’apportent pas de modification de fond notable à la réglementation en vigueur.
+**26** [Abrogé, 2017, ch. 33, art. 222]
 
 
 
