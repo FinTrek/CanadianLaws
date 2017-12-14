@@ -398,6 +398,54 @@ the justice of the peace may issue a warrant authorizing the inspector named the
 
 
 
+**Definitions**
+
+**20.1** 
+
+- **(1)** The following definitions apply in this section and in section 20.2:
+
+***harmonize*** means, with respect to requirements, to make them correspond substantively. (*harmoniser*)
+
+***jurisdiction*** means 
+- **(a)** the government of a province;
+- **(b)** any agency or body that is established under an Act of the legislature of a province;
+- **(c)** a government or court of a foreign state or of a subdivision of a foreign state, or any agency, body or institution of such a government; and
+- **(d)** an international organization of states or any agency, body, court or institution of such an organization. (*instance*)
+
+***requirement*** means energy efficiency standards, testing or information that must be provided by a dealer under section 5. (*exigence*)
+
+**Ministerial regulations**
+
+- **(2)** The Minister may, by regulation — with respect to energy-using products or classes of energy-using products that are specified in regulations made by the Governor in Council under paragraph 25(c) — amend regulations made under paragraph 20(1)(b) or (d) or 25(b) for the purpose of maintaining harmonization between a requirement set out in those regulations and that of a jurisdiction.
+
+**Restrictions**
+
+- **(3)** In exercising the power under subsection (2), the Minister may
+	- **(a)** update an erroneous reference to a document incorporated by reference, as it is amended from time to time;
+	- **(b)** modify an energy efficiency standard for energy-using products or classes of energy-using products;
+	- **(c)** provide for modified or alternative testing of energy-using products to determine their energy efficiency; and
+	- **(d)** prescribe information respecting energy-using products, including their energy efficiency, that must be provided by a dealer under section 5.
+> 2017, c. 33, s. 221.
+
+
+
+
+
+**Definition of technical standards document**
+
+**20.2** 
+
+- **(1)** In this section, ***technical standards document*** means a document that is published in both official languages by the Minister and that adapts, combines or reproduces, in whole or in part, documents that are produced by jurisdictions, standards development organizations or industry associations and that, for energy-using products or classes of energy-using products, set out requirements or guidance related to those requirements. The adaptations may include modifications to the content of the originating document.
+
+**Incorporation of technical standards document**
+
+- **(2)** Regulations made under paragraphs 20(1)(b) or (d) or 25(b) may, for the purpose of harmonizing the requirements set out in those regulations with those of a jurisdiction to which those regulations or a technical standards document refers, incorporate by reference, in whole or in part, a technical standards document, as it is amended from time to time.
+> 2017, c. 33, s. 221.
+
+
+
+
+
 **PART II** 
 ## Promotion of Energy Efficiency and Alternative Energy Sources
 
@@ -496,18 +544,7 @@ the justice of the peace may issue a warrant authorizing the inspector named the
 
 
 
-
-**Publication of proposed regulations**
-
-**26** 
-
-- **(1)** Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under section 20, 22 or 25 shall be published in the Canada Gazette at least seventy-five days before the proposed effective date thereof.
-
-**Exceptions**
-
-- **(2)** Subsection (1) does not apply in respect of a proposed regulation that
-	- **(a)** has previously been published pursuant to that subsection, whether or not it has been changed as a result of representations made subsequent to that publication; or
-	- **(b)** makes no substantive change to an existing regulation.
+**26** [Repealed, 2017, c. 33, s. 222]
 
 
 
