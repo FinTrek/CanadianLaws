@@ -377,14 +377,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’ombudsman de l’approvisionnement exerce les attributions ci-après conformément aux règlements :
 	- **a)** examiner les pratiques d’acquisition de matériel et de services des ministères pour en évaluer l’équité, l’ouverture et la transparence, et présenter, le cas échéant, au ministre en cause des recommandations pour les améliorer;
-	- **b)** examiner toute plainte relative à la conformité, avec les règlements pris en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de l’attribution d’un marché de l’État en vue de l’acquisition de matériel ou de services par un ministère qui serait assujetti à l’Accord, au sens de l’article 2 de la Loi de mise en œuvre de l’Accord sur le commerce intérieur, si sa valeur n’était pas inférieure à la somme prévue à l’article 502 de cet accord;
-	- **c)** examiner toute plainte relative à la gestion de tout marché de l’État en vue de l’acquisition de matériel ou de services par un ministère;
+	- **b)** examiner toute plainte relative à la conformité, avec les règlements pris en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de l’attribution d’un marché en vue de l’acquisition de matériel ou de services par un ministère qui serait assujetti à l’Accord, au sens de l’article 2 de la [Loi de mise en œuvre de l’Accord de libre-échange canadien](/fr/Lois/Lois%20du%20Canada/2017/ch.%2033,%20art.%20219.md), si sa valeur n’était pas inférieure à la somme prévue à l’article 504 de cet accord;
+	- **c)** examiner toute plainte relative à la gestion de tout marché en vue de l’acquisition de matériel ou de services par un ministère;
 	- **d)** veiller à donner l’accès, sur demande des parties à un tel marché, à un mécanisme de règlement extrajudiciaire des différends.
 
 **Autres fonctions**
 
 - **(4)** Il exerce aussi toute autre fonction que le gouverneur en conseil ou le ministre peut lui attribuer par décret ou arrêté, selon le cas, à l’égard des pratiques d’acquisition de matériel et de services des ministères.
-> 2006, ch. 9, art. 306.
+> 2006, ch. 9, art. 306; 2017, ch. 33, art. 224.
 
 
 
@@ -394,7 +394,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22.2** 
 
-- **(1)** Seule la personne qui remplit les conditions prévues par règlement et qui est un fournisseur canadien au sens de l’article 518 de l’accord visé à l’alinéa 22.1(3)b) peut déposer la plainte visée aux alinéas 22.1(3)b) ou c).
+- **(1)** Seule la personne qui remplit les conditions prévues par règlement et qui est un fournisseur canadien au sens de l’article 521 de l’accord visé à l’alinéa 22.1(3)b) peut déposer la plainte visée aux alinéas 22.1(3)b) ou c).
 
 **Moment du dépôt**
 
@@ -407,7 +407,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(4)** Il ne peut recommander l’annulation du marché visé par la plainte.
-> 2006, ch. 9, art. 306.
+> 2006, ch. 9, art. 306; 2017, ch. 33, art. 225.
 
 
 
