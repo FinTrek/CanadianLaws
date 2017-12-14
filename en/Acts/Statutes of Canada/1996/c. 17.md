@@ -10,6 +10,9 @@ Assented to on 20 June 1996
 ----------
 
 
+[Repealed, 2017, c. 33, s. 228]
+
+
 
 
 **Preamble**
@@ -28,249 +31,170 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 ## Short Title
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Agreement on Internal Trade Implementation Act.
+**1** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## Interpretation
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Definitions**
-
-**2** In this Act,
-
-***Agreement*** means the Agreement on Internal Trade signed in 1994, as amended from time to time;
-
-***Minister***, in respect of any provision of this Act, means the member of the Queen’s Privy Council for Canada designated as the Minister for the purposes of that provision under section 8.
-> 1996, c. 17, s. 2; 2012, c. 31, s. 299.
-
+**2** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## Purpose
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Purpose**
-
-**3** The purpose of this Act is to implement the Agreement.
+**3** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## Her Majesty
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Binding on Her Majesty**
-
-**4** This Act is binding on Her Majesty in right of Canada.
+**4** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## General
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Prohibition of private cause of action**
-
-**5** 
-
-- **(1)** There is no cause of action and no proceedings of any kind shall be taken, without the consent of the Attorney General of Canada, to enforce or determine any right or obligation that is claimed or arises solely under or by virtue of section 9 or 11, or an order made under section 9.
-
-**Where private cause of action under Agreement**
-
-- **(2)** Except to the extent provided in Part B of Chapter Seventeen of the Agreement, there is no cause of action and no proceedings of any kind shall be taken, without the consent of the Attorney General of Canada, to enforce or determine any right or obligation that is claimed or arises solely under or by virtue of the Agreement.
+**5** [Repealed, 2017, c. 33, s. 228]
 
 
 
-
-**For greater certainty**
-
-**6** For greater certainty, nothing in this Act, by specific mention or omission, limits in any manner the right of Parliament to enact legislation to implement any provision of the Agreement or fulfil any of the obligations of the Government of Canada under the Agreement.
+**6** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## Implementation of the Agreement Generally
+> [Repealed, 2017, c. 33, s. 228]
+
 
 
 
 ### Approval of Agreement
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Agreement approved**
-
-**7** The Agreement is hereby approved.
+**7** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ### Designation of Minister
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Order designating Minister**
-
-**8** The Governor in Council may, by order, designate any member of the Queen’s Privy Council for Canada as the Minister for the purposes of any provision of this Act.
+**8** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ### Orders Made Under Chapter 17 of Agreement
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Orders of Federal Court**
-
-**8.1** 
-
-- **(1)** An order to pay a monetary penalty or tariff costs made under Chapter 17 of the Agreement may, for the purpose of its enforcement only, be made an order of the Federal Court.
-
-**Procedure**
-
-- **(2)** To make the order an order of the Federal Court, the party to the Agreement or the person in favour of whom the order is made must file a certified copy of the order in the Registry of the Federal Court and, on filing, the order becomes an order of that Court.
-> 2012, c. 31, s. 300.
+**8.1** [Repealed, 2017, c. 33, s. 228]
 
 
 
-
-
-**Enforcement**
-
-**8.2** An order that is made an order of the Federal Court is enforceable in the same manner as any other order of that Court.
-> 2012, c. 31, s. 300.
+**8.2** [Repealed, 2017, c. 33, s. 228]
 
 
 
-
-
-**Orders final and binding**
-
-**8.3** An order that is made an order of the Federal Court is final and binding and is not subject to appeal to any court.
-> 2012, c. 31, s. 300.
-
+**8.3** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ### Orders of Governor in Council
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Orders**
-
-**9** 
-
-- **(1)** For the purpose of suspending benefits of equivalent effect or imposing retaliatory measures of equivalent effect in respect of a province under Article 1709 of the Agreement, the Governor in Council may, by order, do any one or more of the following:
-	- **(a)** suspend rights or privileges granted by the Government of Canada to the province under the Agreement or any federal law; and
-	- **(b)** modify or suspend the application of any federal law with respect to the province.
-
-**Definition of federal law**
-
-- **(2)** In this section, ***federal law*** means the whole or any portion of any Act of Parliament or any regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
-
-**Order subject to Chapter 17**
-
-- **(3)** For greater certainty, the making of an order under subsection (1) shall be in accordance with and subject to Chapter 17 of the Agreement, in particular,
-	- **(a)** the requirements for standing set out in Article 1703(8) of the Agreement; and
-	- **(b)** the conditions and limitations set out in Articles 1709(3), (4) and (10) of the Agreement.
-> 1996, c. 17, s. 9; 2012, c. 31, s. 302.
-
+**9** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ### Committee on Internal Trade
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Appointment of representative**
-
-**10** The Governor in Council may appoint a Minister to be a representative on the Committee on Internal Trade established pursuant to Article 1600 of the Agreement.
+**10** [Repealed, 2017, c. 33, s. 228]
 
 
 
-
-**Annual budget**
-
-**11** The Government of Canada shall pay its portion of the annual budget of the Secretariat referred to in Article 1603 of the Agreement, in accordance with Annex 1603.3 of the Agreement.
+**11** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ### Panels and Committees
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Rosters**
-
-**12** The Governor in Council may appoint any person who meets the requirements set out in Annex 1704(2) of the Agreement to be on the rosters referred to in Article 1704(2) of the Agreement.
-> 1996, c. 17, s. 12; 2012, c. 31, s. 303.
+**12** [Repealed, 2017, c. 33, s. 228]
 
 
 
-
-
-**Representatives on committees**
-
-**13** The Minister may appoint any person to be a representative of Canada on any committee referred to in the Agreement, other than the Committee on Internal Trade referred to in section 10.
+**13** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ### Appointments
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Appointments**
-
-**14** 
-
-- **(1)** The Governor in Council may, by order, appoint any person to fill any position that may be necessary or advisable, in the opinion of the Governor in Council, for carrying out the purposes of the Agreement.
-
-**Remuneration**
-
-- **(2)** A person appointed under subsection (1) may be paid such remuneration and expenses for their services as are fixed by the Governor in Council.
+**14** [Repealed, 2017, c. 33, s. 228]
 
 
 
-
-**Screener**
-
-**15** The Governor in Council may, by order, appoint any person to be a screener for the purposes of Part B of Chapter 17 of the Agreement if the person meets the requirements set out in that Part.
-> 1996, c. 17, s. 15; 2012, c. 31, s. 304.
-
+**15** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## Related and Consequential Amendments
+> [Repealed, 2017, c. 33, s. 228]
 
 
-**16 to 19** [Amendments]
+
+**16 to 19** [Repealed, 2017, c. 33, s. 228]
 
 
 
 
 ## Coming into Force
+> [Repealed, 2017, c. 33, s. 228]
 
 
 
-**Coming into force**
-
-<sup><a href='#A-2.4_en_2'>[*]</a></sup>**20** This Act or any provision thereof, or any provision of any Act as enacted by this Act, comes into force on a day or days to be fixed by order of the Governor in Council.
-
-<a name='A-2.4_en_2'><sup>*</sup></a>: [Note: Act, except sections 17, 18 and 19, in force July 15, 1996, *see* SI/96-65; section 19 in force January 1, 2000, *see* SI/99-97.]<br />
+**20** [Repealed, 2017, c. 33, s. 228]
 
 
