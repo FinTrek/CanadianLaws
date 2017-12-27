@@ -1424,10 +1424,6 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 ### Bacteria
 
 
-*Actinobacillus pleuropneumoniae*
-
-
-
 *Actinobacillus ureae*
 
 
@@ -1436,7 +1432,7 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-*Aerococcus ureinae*
+*Aerococcus urinae*
 
 
 
@@ -1448,7 +1444,7 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-*Arcanobacterium bernardiae*
+*Bacteroides fragilis*
 
 
 
@@ -1488,10 +1484,6 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-*Clostridium difficile*
-
-
-
 *Clostridium perfringens*
 
 
@@ -1512,7 +1504,7 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-*Francisella novicida*
+*Fusobacterium necrophorum*
 
 
 
@@ -1596,7 +1588,15 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-*Salmonella*
+*Rickettsia akari*
+
+
+
+*Rickettsia conorii*
+
+
+
+*Salmonella enterica*
 
 
 
@@ -1636,10 +1636,6 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-*Streptococcus salivarius*
-
-
-
 *Treponema pallidum*
 
 
@@ -1661,43 +1657,35 @@ Tetanospasmin (Tetanus toxin)<br />- <i>Tetanospasmine (toxine tétanique)</i>
 
 
 
-Adenovirus<br />- <i>Adénovirus humain</i>
+Alphapapillomavirus<br />- <i>Alphapapillomavirus</i>
 
-Avian influenza virus (excluding highly pathogenic strains)<br />- <i>Virus de la grippe aviaire (sauf les souches hautement pathogènes)</i>
-
-Colorado tick fever viruses<br />- <i>Virus de la fièvre à tiques du Colorado</i>
+Colorado tick fever virus<br />- <i>Virus de la fièvre à tiques du Colorado</i>
 
 Cowpox virus<br />- <i>Virus cowpox</i>
-
-Coxsackievirus<br />- <i>Coxsackievirus</i>
-
-Epstein Barr virus<br />- <i>Virus d’Epstein Barr</i>
-
-Hepatitis A virus<br />- <i>Virus de l’Hépatite A</i>
 
 Hepatitis B virus<br />- <i>Virus de l’Hépatite B</i>
 
 Hepatitis C virus<br />- <i>Virus de l’Hépatite C</i>
 
-Hepatitis D virus<br />- <i>Virus de l’Hépatite D</i>
+Hepatitis delta virus<br />- <i>Virus de l’hépatite delta</i>
 
 Hepatitis E virus<br />- <i>Virus de l’Hépatite E</i>
 
-Herpes simplex viruses<br />- <i>Virus Herpès simplex</i>
+Hepatovirus A<br />- <i>Hépatovirus A</i>
 
-Human coronavirus (excluding SARS-CoV)<br />- <i>Coronavirus humain (sauf le virus du SRAS)</i>
+Human alphaherpesvirus 1 and 2 (Simplexvirus) <br />- <i>Alphaherpèsvirus humain de types 1 et 2 (simplexvirus)</i>
 
-Human herpesvirus 5 (cytomegalovirus)<br />- <i>Herpèsvirus humain de type 5 (cytomegalovirus)</i>
+Human betaherpesvirus 5 (Cytomegalovirus) <br />- <i>Betaherpèsvirus humain de type 5 (cytomégalovirus)</i>
 
-Human herpesvirus 6 (roseolovirus)<br />- <i>Herpèsvirus humain de type 6 (roseolovirus)</i>
+Human betaherpesvirus 6A, 6B, and 7 (Roseolovirus)<br />- <i>Betaherpèsvirus humain de types 6A, 6B et 7 (roseolovirus)</i>
 
-Human herpesvirus 8 (Kaposi’s sarcoma-associated herpesvirus)	<br />- <i>Herpèsvirus humain de type 8 (herpèsvirus associé au sarcome de Kaposi)</i>
+Human gammaherpesvirus 4 (Epstein-Barr virus)<br />- <i>Gammaherpèsvirus humain de type 4 (Virus d’Epstein-Barr)</i>
 
-Human parvovirus<br />- <i>Parvovirus humain</i>
+Human gammaherpesvirus 8 (Kaposi’s sarcoma-associated herpesvirus)<br />- <i>Gammaherpèsvirus humain de type 8 (herpèsvirus associé au sarcome de Kaposi)</i>
 
-Human rotavirus<br />- <i>Rotavirus humain</i>
+Human parainfluenza virus 1 to 4<br />- <i>Virus parainfluenza humain de types 1 à 4</i>
 
-Influenza virus, types A-C (excluding Type A 1918 Spanish Flu and H2N2 strains)<br />- <i>Virus de la grippe (Influenza), types A-C (sauf la souche type A de la grippe espagnole et les souches H2N2)</i>
+Human respiratory syncytial virus<br />- <i>Virus respiratoire syncytial humain</i>
 
 Measles virus<br />- <i>Virus de la rougeole</i>
 
@@ -1709,23 +1697,17 @@ Newcastle disease virus<br />- <i>Virus de la maladie de Newcastle</i>
 
 Norwalk virus<br />- <i>Virus de Norwalk</i>
 
-Papillomaviruses<br />- <i>Papillomavirus humain</i>
+Rhinovirus A to C<br />- <i>Rhinovirus de type A à C</i>
 
-Parainfluenza virus (types 1-4)<br />- <i>Virus Parainfluenza (types 1-4)</i>
-
-Reoviruses<br />- <i>Reovirus</i>
-
-Respiratory syncytial virus<br />- <i>Virus respiratoire syncytial</i>
-
-Rhinovirus<br />- <i>Rhinovirus</i>
+Rotavirus A<br />- <i>Rotavirus A</i>
 
 Semliki Forest virus<br />- <i>Virus de la forêt Semliki</i>
 
 Sendai virus<br />- <i>Virus Sendaï</i>
 
-Simian virus 40<br />- <i>SV40 (Simian virus 40)</i>
-
 Vaccinia virus<br />- <i>Virus de la Vaccine</i>
+
+Zika virus<br />- <i>Virus Zika</i>
 
 
 
@@ -1733,14 +1715,6 @@ Vaccinia virus<br />- <i>Virus de la Vaccine</i>
 
 
 *Aspergillus fumigatus*
-
-
-
-*Aspergillus niger*
-
-
-
-*Aspergillus oryzae*
 
 
 
@@ -1752,7 +1726,15 @@ Vaccinia virus<br />- <i>Virus de la Vaccine</i>
 
 
 
+*Epidermophyton floccosum*
+
+
+
 *Microsporum audouinii*
+
+
+
+*Microsporum canis*
 
 
 
@@ -1760,7 +1742,11 @@ Vaccinia virus<br />- <i>Virus de la Vaccine</i>
 
 
 
-*Sporothrix schenkii*
+*Sporothrix schenckii*
+
+
+
+*Talaromyces (Penicillium) marneffei*
 
 
 
@@ -1784,6 +1770,10 @@ Vaccinia virus<br />- <i>Virus de la Vaccine</i>
 
 
 *Acanthamoeba castellanii*
+
+
+
+*Giardia intestinalis*
 
 
 
@@ -1819,6 +1809,10 @@ Vaccinia virus<br />- <i>Virus de la Vaccine</i>
 
 
 
+*Toxoplasma gondii*
+
+
+
 *Trypanosoma brucei gambiense*
 
 
@@ -1833,11 +1827,7 @@ Vaccinia virus<br />- <i>Virus de la Vaccine</i>
 
 ### Prions
 
-
-
-
-Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement chronique des cervidés</i>
-
+> 2009, c. 24, sch. 2; SOR/2017-282, ss. 1 to 10.
 
 
 
@@ -1857,19 +1847,7 @@ Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement c
 
 
 
-*Brucella canis*
-
-
-
 *Brucella melitensis*
-
-
-
-*Brucella ovis*
-
-
-
-*Brucella suis*
 
 
 
@@ -1881,7 +1859,7 @@ Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement c
 
 
 
-*Chlamydia psittaci*
+*Chlamydophila psittaci*
 
 
 
@@ -1901,10 +1879,6 @@ Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement c
 
 
 
-*Mycobacterium canettii*
-
-
-
 *Mycobacterium microti*
 
 
@@ -1913,23 +1887,11 @@ Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement c
 
 
 
-*Neorickettsia sennetsu*
+*Orientia tsutsugamushi*
 
 
 
-*Rickettsia akari*
-
-
-
-*Rickettsia australis*
-
-
-
-*Rickettsia conorii*
-
-
-
-*Rickettsia japonicum*
+*Rickettsia japonica*
 
 
 
@@ -1938,10 +1900,6 @@ Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement c
 
 
 *Rickettsia rickettsii*
-
-
-
-*Rickettsia siberica*
 
 
 
@@ -1958,181 +1916,39 @@ Chronic wasting disease agent<br />- <i>Agent de la maladie du dépérissement c
 
 
 
-African Horse Sickness virus<br />- <i>Virus de la peste équine</i>
-
-Água Preta virus<br />- <i>Virus Agua Preta</i>
-
-Akabane virus<br />- <i>Virus Akabane</i>
-
-Allpahuayo virus<br />- <i>Virus Allpahuayo</i>
-
-Andes virus<br />- <i>Virus Andes</i>
-
-Araguari virus<br />- <i>Virus Araguari</i>
-
-Batken virus<br />- <i>Virus Batken</i>
-
-Bayou virus<br />- <i>Virus du Bayou</i>
-
-Bear Canyon virus<br />- <i>Virus du Bear Canyon</i>
-
-Bermejo virus<br />- <i>Virus Bermejo</i>
-
-Bhanja virus<br />- <i>Virus Bhanja</i>
-
-Bijou Bridge virus<br />- <i>Virus Bijou</i>
-
-Black Creek Canal virus<br />- <i>Virus Black creek canal</i>
-
-Cabassou virus<br />- <i>Virus Cabassou</i>
-
-Cano Delgadito virus<br />- <i>Virus Cano Delgadito</i>
-
 Chikungunya virus<br />- <i>Virus Chikungunya</i>
-
-Dhori virus<br />- <i>Virus Dhori</i>
-
-Dobrava-Belgrade virus<br />- <i>Virus Dobrava-Belgrade</i>
-
-Douglas virus<br />- <i>Virus Douglas</i>
-
-Dugbe virus<br />- <i>Virus Dugbe</i>
-
-Duvenhage virus<br />- <i>Virus Duvenhage</i>
 
 Eastern equine encephalitis virus<br />- <i>Virus de l’encéphalite équine de l’Est</i>
 
-Enseada virus<br />- <i>Virus Enseada</i>
+Hantaan orthohantavirus<br />- <i>Orthohantavirus Hantaan</i>
 
-Everglades virus<br />- <i>Virus Everglades</i>
-
-Flexal virus<br />- <i>Virus Flexal</i>
-
-Garissa virus<br />- <i>Virus Garissa</i>
-
-Germiston virus<br />- <i>Virus Germiston</i>
-
-Hantaan virus<br />- <i>Virus Hantaan</i>
-
-Herpesvirus ateles<br />- <i>Herpèsvirus ateles</i>
-
-Herpesvirus saimiri<br />- <i>Herpèsvirus saimiri</i>
-
-Highly pathogenic avian influenza virus<br />- <i>Virus de la grippe aviaire (Influenza) hautement pathogène</i>
-
-Human immunodeficiency virus<br />- <i>Virus de l’immunodéficience humaine</i>
-
-Human T-cell lymphotrophic virus<br />- <i>Virus T lymphotrope humain (HTLV)</i>
-
-Influenza A H2N2<br />- <i>Virus de la grippe (Influenza) type A sous-type H2</i>
-
-Israel Turkey meningoencephalitis virus<br />- <i>Virus Israel turkey meningoencephalitis</i>
-
-Issyk-Kul virus<br />- <i>Virus Issyk Kul</i>
+Human immunodeficiency virus 1 and 2<br />- <i>Virus de l’immunodéficience humaine de types 1 et 2</i>
 
 Japanese encephalitis virus<br />- <i>Virus de l’encéphalite japonaise</i>
 
-Juquitiba virus<br />- <i>Virus Juquitiba</i>
-
-Khabarovsk virus<br />- <i>Virus Khabarovsk</i>
-
-Koutango virus<br />- <i>Virus Koutango</i>
-
-Kunjin virus<br />- <i>Virus Kunjin</i>
-
-Laguna Negra virus<br />- <i>Virus Laguna Negra</i>
-
-Lechiguanas virus<br />- <i>Virus Lechiguanas</i>
-
 Louping ill virus<br />- <i>Virus Louping ill</i>
 
-Lymphocytic choriomeningitis virus<br />- <i>Virus de la chorioméningite lymphocytaire</i>
-
-Maporal virus<br />- <i>Virus Maporal</i>
-
-Mapuera virus<br />- <i>Virus Mapuera</i>
-
-Mayaro virus<br />- <i>Virus Mayaro</i>
-
-Mobala virus<br />- <i>Virus Mobala</i>
+Lymphocytic choriomeningitis mammarenavirus<br />- <i>Mammarénavirus de la chorioméningite lymphocytaire</i>
 
 Monkeypox virus<br />- <i>Virus de l’orthopoxvirose simienne</i>
-
-Monongahela virus<br />- <i>Virus Monongahela</i>
-
-Mopeia virus<br />- <i>Virus Mopeia</i>
 
 Mucambo virus<br />- <i>Virus Mucambo</i>
 
 Murray Valley encephalitis virus<br />- <i>Virus de l’encéphalite de la Murray Valley</i>
 
-Negishi virus<br />- <i>Virus Negishi</i>
-
-New York virus<br />- <i>Virus New York</i>
-
-Ngari virus<br />- <i>Virus Ngari</i>
-
-Oliveros virus<br />- <i>Virus Oliveros</i>
-
-O’Nyong-nyong virus<br />- <i>Virus O’Nyong-nyong</i>
-
-Oran virus<br />- <i>Virus Oran</i>
-
-Oropouche virus<br />- <i>Virus Oropouche</i>
-
-Pergamino virus<br />- <i>Virus Pergamino</i>
-
-Pirital virus<br />- <i>Virus Pirital</i>
-
-Piry virus<br />- <i>Virus Piry</i>
-
 Powassan virus<br />- <i>Virus Powassan</i>
 
-Puumala virus<br />- <i>Virus Puumala</i>
+Rabies lyssavirus<br />- <i>Lyssavirus rabique</i>
 
-Rabies virus<br />- <i>Virus rabique</i>
-
-Rift Valley fever virus<br />- <i>Virus de la fièvre de la vallée du Rift</i>
-
-Rocio virus<br />- <i>Virus Rocio</i>
-
-Saaremaa virus<br />- <i>Virus Saaremaa</i>
-
-Sakpa virus<br />- <i>Virus Sakpa</i>
-
-SARS coronavirus (SARS-CoV)<br />- <i>Virus du syndrome respiratoire aigu sévère (SRAS-CoV)</i>
-
-Seoul virus<br />- <i>Virus Seoul</i>
-
-Sin nombre virus<br />- <i>Virus Sin nombre</i>
-
-Slovakia virus<br />- <i>Virus Slovakia</i>
-
-Somone virus<br />- <i>Virus Somone</i>
-
-Sripur virus<br />- <i>Virus Sripur</i>
+Severe acute respiratory syndrome-related coronavirus<br />- <i>Coronavirus du syndrome respiratoire aigu sévère</i>
 
 St. Louis encephalitis virus<br />- <i>Virus de l’encéphalite de Saint-Louis</i>
 
-Thogoto virus<br />- <i>Virus Thogoto</i>
-
-Tonate virus<br />- <i>Virus Tonate</i>
-
-Topografov virus<br />- <i>Virus Topografov</i>
-
 Venezuelan equine encephalitis virus<br />- <i>Virus de l’encéphalite équine du Venezuela</i>
-
-Vesicular stomatitis virus<br />- <i>Virus de la stomatite vésiculaire</i>
-
-Wesselsbron virus<br />- <i>Virus Wesselsbron</i>
 
 Western equine encephalitis virus<br />- <i>Virus de l’encéphalite équine de l’Ouest</i>
 
-West Nile fever virus<br />- <i>Virus du Nil occidental</i>
-
-Whitewater Arroyo virus<br />- <i>Virus Whitewater Arroyo</i>
-
-Xingu virus<br />- <i>Virus Xingu</i>
+West Nile virus<br />- <i>Virus du Nil occidental</i>
 
 Yellow fever virus<br />- <i>Virus de la fièvre jaune</i>
 
@@ -2141,7 +1957,7 @@ Yellow fever virus<br />- <i>Virus de la fièvre jaune</i>
 ### Fungi
 
 
-*Blastomyces dermatitidis*
+*Blastomyces (Ajellomyces) dermatitidis*
 
 
 
@@ -2157,15 +1973,15 @@ Yellow fever virus<br />- <i>Virus de la fièvre jaune</i>
 
 
 
+*Cryptococcus gattii*
+
+
+
 *Histoplasma capsulatum*
 
 
 
 *Paracoccidioides brasiliensis*
-
-
-
-*Penicillium marneffei*
 
 
 
@@ -2181,18 +1997,16 @@ Yellow fever virus<br />- <i>Virus de la fièvre jaune</i>
 
 
 
-Bovine spongiform encephalopathy agent and other related animal transmissible spongiform encephalopathies agents<br />- <i>Agent de l’encéphalopathie spongiforme bovine et agents des autres encéphalopathies spongiformes transmissibles</i>
+Bovine spongiform encephalopathy agent<br />- <i>Agent de l’encéphalopathie spongiforme bovine</i>
 
 Creutzfeldt-Jakob disease agent<br />- <i>Agent du syndrome de Creutzfeldt-Jakob</i>
-
-Fatal Familial Insomnia agent<br />- <i>Agent de la maladie de l’insomnie fatale familiale</i>
-
-Gerstmann-Sträussler-Scheinker syndrome agent<br />- <i>Agent du syndrome de Gerstmann-Sträussler-Scheinker</i>
 
 Kuru agent<br />- <i>Agent du Kuru</i>
 
 Variant Creutzfeldt-Jakob disease agent<br />- <i>Agent du syndrome de variante du syndrome de Creutzfeldt-Jakob</i>
 
+
+> 2009, c. 24, sch. 3; SOR/2017-282, ss. 11 to 20.
 
 
 
@@ -2206,44 +2020,38 @@ Variant Creutzfeldt-Jakob disease agent<br />- <i>Agent du syndrome de variante 
 
 
 
-Absettarov virus<br />- <i>Virus Absettarov</i>
-
 Alkhumra virus<br />- <i>Virus Alkhumra</i>
 
-Crimean Congo haemorrhagic fever virus<br />- <i>Virus de la fièvre hémorragique de Congo Crimée</i>
+Crimean-Congo hemorrhagic fever orthonairovirus<br />- <i>Orthonairovirus de la fièvre hémorragique de Crimée-Congo</i>
 
-Ebola virus<br />- <i>Virus Ebola</i>
+Ebolavirus<br />- <i>Virus Ebola</i>
 
-Guanarito virus<br />- <i>Virus Guanarito</i>
-
-Hanzalova virus<br />- <i>Virus Hanzalova</i>
+Guanarito mammarenavirus<br />- <i>Mammarénavirus Guanarito</i>
 
 Hendra virus<br />- <i>Virus Hendra</i>
 
-Herpes B virus<br />- <i>Herpèsvirus simien B</i>
+Junin mammarenavirus<br />- <i>Mammarénavirus Junin</i>
 
-Hypr virus<br />- <i>Virus Hypr</i>
+Kyasanur Forest disease virus<br />- <i>Virus de la maladie de la forêt de Kyasanur</i>
 
-Junin virus<br />- <i>Virus Junin</i>
+Lassa mammarenavirus<br />- <i>Mammarénavirus de Lassa</i>
 
-Kumlinge virus<br />- <i>Virus Kumlinge</i>
+Macacine alphaherpesvirus 1<br />- <i>Macacine alphaherpèsvirus 1</i>
 
-Kyasanur Forest virus<br />- <i>Virus de la forêt Kyasanur</i>
+Machupo mammarenavirus<br />- <i>Mammarénavirus Machupo</i>
 
-Lassa fever virus<br />- <i>Virus de Lassa</i>
-
-Machupo virus<br />- <i>Virus Machupo</i>
-
-Marburg virus<br />- <i>Virus Marburg</i>
+Marburgvirus<br />- <i>Virus Marburg</i>
 
 Nipah virus<br />- <i>Virus Nipah</i>
 
-Omsk haemorrhagic fever virus<br />- <i>Virus Omsk</i>
+Omsk hemorrhagic fever virus<br />- <i>Virus de la fièvre hémorragique d’Omsk</i>
 
-Russian spring-summer encephalitis virus<br />- <i>Virus de l’encéphalite verno estivale russe</i>
+Sabia mammarenavirus<br />- <i>Mammarénavirus Sabia</i>
 
-Sabia virus<br />- <i>Virus Sabia</i>
+Tick-borne encephalitis virus<br />- <i>Virus de l’encéphalite à tiques</i>
 
+
+> 2009, c. 24, sch. 4; SOR/2017-282, ss. 21 to 26.
 
 
 
