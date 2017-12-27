@@ -36454,6 +36454,12 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - mais non compris :
 - **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **27** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
+- **28** U-47700 (3,4-dichloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide) et ses sels, isomères, dérivés et analogues, ainsi que les sels de ses isomères, dérivés et analogues, notamment :
+- **(1)** Bromadoline (4-bromo-N-(2-(diméthylamino)cyclohexyl)benzamide)
+- **(2)** U-47109 (3,4-dichloro-N-(2-(diméthylamino)cyclohexyl)benzamide)
+- **(3)** U-48520 (4-chloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide)
+- **(4)** U-50211 (N-(2-(diméthylamino)cyclohexyl)-4-hydroxy-N-méthylbenzamide)
+- **(5)** U-77891 (3,4-dibromo-N-méthyl-N-(1-méthyl-1-azaspiro[4.5]déc-6-yl)benzamide)
 
 **PARTIE II** 
 
@@ -36463,7 +36469,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(1)** cathine (*d*-thréo-amino-2 hydroxy-1 phényl-1 propane)
 - mais non compris :
 - **(2)** cathinone (*l*-α-aminopropiophénone) et ses sels
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2.
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2; DORS/2017-278, art. 1.
 
 
 
