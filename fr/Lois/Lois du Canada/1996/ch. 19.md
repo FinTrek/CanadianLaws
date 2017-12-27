@@ -1950,7 +1950,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - mais non compris :
 - **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **25** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275.
+- **26** U-47700 (3,4-dichloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide) et ses sels, isomères, dérivés et analogues, ainsi que les sels de ses isomères, dérivés et analogues, notamment :
+- **(1)** Bromadoline (4-bromo-N-(2-(diméthylamino)cyclohexyl)benzamide)
+- **(2)** U-47109 (3,4-dichloro-N-(2-(diméthylamino)cyclohexyl)benzamide)
+- **(3)** U-48520 (4-chloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide)
+- **(4)** U-50211 (N-(2-(diméthylamino)cyclohexyl)-4-hydroxy-N-méthylbenzamide)
+- **(5)** U-77891 (3,4-dibromo-N-méthyl-N-(1-méthyl-1-azaspiro[4.5]déc-6-yl)benzamide)
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1.
 
 
 
@@ -2275,6 +2281,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **28** Norfentanyl (N-phényl-N-(pipéridinyl-4)propanamide) et ses sels
 - **29** N-(Phénéthyl-1 pipéridinylidene-4) phénylamine et ses sels
 - **30** N-Phényl pipéridinamine-4 et ses sels
+- **31** N<sup>1</sup>,N<sup>1</sup>,N<sup>2</sup>-triméthylcyclohexane-1,2-diamine et ses sels
 
 
 
@@ -2312,7 +2319,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **1** Toute préparation ou tout mélange qui contient l’un des précurseurs visés à la partie 1, à l’exception des articles 20 à 23, ou à la partie 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295.
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295; DORS/2017-277, art. 2.
 
 
 
