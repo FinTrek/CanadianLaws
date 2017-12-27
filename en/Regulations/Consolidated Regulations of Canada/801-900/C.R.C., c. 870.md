@@ -36504,6 +36504,12 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - but not including
 - **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **27** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
+- **28** U-47700 (3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide), its salts, derivatives, isomers and analogues, and salts of derivatives, isomers and analogues, including
+- **(1)** Bromadoline (4-bromo-N-(2-(dimethylamino)cyclohexyl)benzamide)
+- **(2)** U-47109 (3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)benzamide)
+- **(3)** U-48520 (4-chloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide)
+- **(4)** U-50211 (N-(2-(dimethylamino)cyclohexyl)-4-hydroxy-N-methylbenzamide)
+- **(5)** U-77891 (3,4-dibromo-N-methyl-N-(1-methyl-1-azaspiro[4.5]decan-6-yl)benzamide)
 
 **PART II** 
 
@@ -36513,7 +36519,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(1)** Cathine (*d*-threo-2-amino-1-hydroxy-1-phenylpropane)
 - but not including
 - **(2)** Cathinone ((-)-α-aminopropiophenone) and its salts
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2.
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2; SOR/2017-278, s. 1.
 
 
 
