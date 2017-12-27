@@ -1984,7 +1984,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - but not including
 - **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **25** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275.
+- **26** U-47700 (3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide), its salts, derivatives, isomers and analogues, and salts of derivatives, isomers and analogues, including
+- **(1)** Bromadoline (4-bromo-N-(2-(dimethylamino)cyclohexyl)benzamide)
+- **(2)** U-47109 (3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)benzamide)
+- **(3)** U-48520 (4-chloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide)
+- **(4)** U-50211 (N-(2-(dimethylamino)cyclohexyl)-4-hydroxy-N-methylbenzamide)
+- **(5)** U-77891 (3,4-dibromo-N-methyl-N-(1-methyl-1-azaspiro[4.5]decan-6-yl)benzamide)
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1.
 
 
 
@@ -2309,6 +2315,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **28** Norfentanyl (N-phenyl-N-piperidin-4-ylpropanamide) and its salts
 - **29** 1-Phenethylpiperidin-4-ylidenephenylamine and its salts
 - **30** N-Phenyl-4-piperidinamine and its salts
+- **31** N<sup>1</sup>,N<sup>1</sup>,N<sup>2</sup>-trimethylcyclohexane-1,2-diamine and its salts
 
 
 
@@ -2346,7 +2353,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **1** Any preparation or mixture that contains a precursor set out in Part 1, except items 20 to 23, or in Part 2.
 
 
-> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295.
+> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295; SOR/2017-277, s. 2.
 
 
 
