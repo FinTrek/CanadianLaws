@@ -508,14 +508,14 @@ are hereby separately constituted as corporations bearing the names set out in p
 
 - **(1)** Section 261 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) does not apply to a band.
 
-**Acts not applicable to a band**
+**[Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md)**
 
-- **(2)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to a band.
+- **(2)** The [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) does not apply to a band.
 
 **Application of certain other Acts**
 
 - **(3)** Where provisions of an Act of Parliament specifically applicable to corporations, other than the Acts mentioned in subsections (1) and (2), would apply to a band, the Governor in Council may by order declare that such Act or any provision thereof does not apply to a band.
-> 1984, c. 18, s. 23; 2009, c. 23, s. 322.
+> 1984, c. 18, s. 23; 2009, c. 23, ss. 322, 352.
 
 
 
