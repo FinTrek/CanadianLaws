@@ -211,7 +211,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Non-application of certain Acts**
 
-- **(4)** No provision of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) or the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) applies to a cooperative.
+- **(4)** No provision of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) or the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) applies to a cooperative.
 
 **Limitation on business that can be carried on**
 
@@ -224,7 +224,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Prohibition on granting degrees**
 
 - **(6)** No cooperative may carry on business as a degree-granting educational institution unless expressly authorized to do so by a federal or provincial agent that by law has the power to confer degree-granting authority on an educational institution.
-> 1998, c. 1, s. 3; 2009, c. 23, s. 312.
+> 1998, c. 1, s. 3; 2009, c. 23, ss. 312, 347.
 
 
 
