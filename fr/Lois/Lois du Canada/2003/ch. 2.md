@@ -500,10 +500,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les mots entre parenthèses qui suivent le renvoi à une disposition de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) au paragraphe (1) ne font pas partie de celui-ci et ne sont cités que pour des raisons de commodité.
 
-**Lois non applicables**
+**Non-application**
 
-- **(3)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas au Centre.
-> 2003, ch. 2, art. 31; 2009, ch. 23, art. 334.
+- **(3)** La [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’applique pas au Centre.
+> 2003, ch. 2, art. 31; 2009, ch. 23, art. 334 et 357.
 
 
 
