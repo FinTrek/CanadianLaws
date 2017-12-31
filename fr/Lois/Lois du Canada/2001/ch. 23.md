@@ -179,8 +179,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application**
 
-- **(3)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à la Fondation.
-> 2001, ch. 23, art. 8; 2009, ch. 23, art. 315.
+- **(3)** La [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’applique pas à la Fondation.
+> 2001, ch. 23, art. 8; 2009, ch. 23, art. 315 et 349.
 
 
 
@@ -738,12 +738,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **35** 
 
-- **(1)** Le gouverneur en conseil peut désigner par décret, pour l’application de la présente loi, toute société constituée sous le régime de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ou de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md).
+- **(1)** Le gouverneur en conseil peut désigner par décret, pour l’application de la présente loi, toute société constituée sous le régime de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md).
 
 **Prise d’effet des articles 36 à 39**
 
 - **(2)** Les articles 36 à 39 prennent effet à la date de la prise du décret visé au paragraphe (1).
-> 2001, ch. 23, art. 35; 2009, ch. 23, art. 316.
+> 2001, ch. 23, art. 35; 2009, ch. 23, art. 316 et 350.
 
 
 
