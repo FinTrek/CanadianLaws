@@ -155,8 +155,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **Certain Acts do not apply**
 
 - **(2)** The following do not apply to a corporation:
-	- **(a)** the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
-	- **(b)** the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970; and
+	- **(a)** the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); and
+	- **(b)** [Repealed, 2009, c. 23, s. 341]
 	- **(c)** the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md).
 
 **Limitations on business that may be carried on**
@@ -170,6 +170,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **Limitation — granting degrees or regulating activities**
 
 - **(4)** Incorporation or continuance under this Act does not confer any authority on a corporation to carry on activities as a degree-granting educational institution or to regulate any activity, including a profession or trade.
+> 2009, c. 23, ss. 3, 341.
+
 
 
 
@@ -6039,6 +6041,6 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 - **(2)** Subsections 317(1) and (2) come into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind18F4_hq_7768'><sup>*</sup></a>: [Note: Subsections 297(2) to (4), (6) and (7) and sections 341 to 360 in force on assent June 23, 2009; sections 300 to 302, 304 and 310, subsections 311(1), (3) and (4), the portion of section 313 before paragraph (a), paragraphs 313(c), (e), (g), (i), (k), (m), (o), (q), (t), (v), (x), (z), (z.02), (z.04), (z.1), (z.5) and (z.8) and sections 361 to 371 in force March 12, 2010, *see* SI/2010-25; sections 1 to 296, subsections 297(1) and (5), sections 298, 299, 303, 305 to 307 and 309, subsections 311(2) and (5), section 312, paragraphs 313(z.4) and (z.6), sections 314 to 316, subsection 317(1) and sections 318 to 340 in force October 17, 2011, *see* SI/2011-87.]<br />
+<a name='fn_Ind18F4_hq_7768'><sup>*</sup></a>: [Note: Subsections 297(2) to (4), (6) and (7) and sections 341 to 360 in force on assent June 23, 2009; sections 300 to 302, 304 and 310, subsections 311(1), (3) and (4), the portion of section 313 before paragraph (a), paragraphs 313(c), (e), (g), (i), (k), (m), (o), (q), (t), (v), (x), (z), (z.02), (z.04), (z.1), (z.5) and (z.8) and sections 361 to 371 in force March 12, 2010, *see* SI/2010-25; sections 1 to 296, subsections 297(1) and (5), sections 298, 299, 303, 305 to 307 and 309, subsections 311(2) and (5), section 312, paragraphs 313(z.4) and (z.6), sections 314 to 316, subsection 317(1) and sections 318 to 340 in force October 17, 2011, *see* SI/2011-87; paragraphs 313(a), (b), (d), (f), (h), (j), (l), (n), (p), (r), (s), (u), (w), (y), (z.01), (z.03), (z.05) to (z.09), (z.2), (z.3), (z.7) and (z.9) and subsection 317(2) in force December 31, 2017, *see* SI/2018-1.]<br />
 
 
