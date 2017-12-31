@@ -8,124 +8,60 @@
 ----------
 
 
+[Repealed, 2009, c. 23, s. 313]
+
+
 
 ## Short Title
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Canada Corporations Act.
-> 1964-65, c. 52, s. 2.
-
+**1** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 **PART I** 
 ## Companies with Share Capital
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 
 ### Application of Part
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Application**
-
-**2** This Part applies to
-- **(a)** all companies incorporated under it or the incorporation of which is continued under it;
-- **(b)** companies incorporated under the Companies Act, chapter 119 of the Revised Statutes of Canada, 1886, or to which that Act applied before the 15th day of May 1902, except loan companies;
-- **(c)** all companies incorporated under the Companies Act, 1902;
-- **(d)** all companies incorporated under the Companies Act, chapter 79 of the Revised Statutes of Canada, 1906, or to which that Act applied;
-- **(e)** all companies incorporated under the Companies Act, chapter 27 of the Revised Statutes of Canada, 1927.
-> R.S., 1970, c. C-32, s. 2; R.S., 1970, c. 10(1st Supp.), s. 1.
-
+**2** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Interpretation
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Definitions**
-
-**3** 
-
-- **(1)** In this Part and in all letters patent and supplementary letters patent issued under
-
-***accounts receivable*** includes existing or future book debts, accounts, claims, moneys and choses in action or any class or part thereof and all contracts, securities, bills, notes, books, instruments and other documents securing, evidencing or in any way relating to the same or any of them, but shall not include uncalled share capital of the company or calls made but not paid;
-
-***court*** means
-- **(a)** in Ontario, the Superior Court of Justice,
-- **(a.1)** [Repealed, 2015, c. 3, s. 13]
-- **(b)** in Quebec, the Superior Court,
-- **(b.1)** in Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court,
-- **(c)** in Manitoba, Saskatchewan, Alberta and New Brunswick, the Court of Queen’s Bench,
-- **(c.1)** in Newfoundland and Labrador, the Trial Division of the Supreme Court, and
-- **(d)** in Yukon, the Supreme Court of Yukon, in the Northwest Territories, the Supreme Court of the Northwest Territories, and in Nunavut, the Nunavut Court of Justice;
-
-***debenture*** includes bonds, debenture stock, and any other securities of a company that constitute or are entitled to the benefit of a charge on the assets of the company;
-
-***Department*** means the Department of Consumer and Corporate Affairs;
-
-***director*** includes any person occupying the position of director by whatever name he is called;
-
-***document*** includes notice, order, certificate, register, summons or other legal process;
-
-***equity share*** means any share of any class of shares of a company carrying voting rights under all circumstances and any share of any class of shares carrying voting rights by reason of the occurrence of any contingency that has occurred and is continuing;
-
-***judge*** means in the said respective Provinces and Territories a judge of the said courts respectively;
-
-***Minister*** means the Minister of Industry;
-
-***mortgage*** includes charge and hypothec;
-
-***officer*** means the chairman or vice-chairman of the board of directors, the president, vice-president, secretary, treasurer, comptroller, general manager, managing director or any other individual who performs functions for the company similar to those normally performed by an individual occupying any such office;
-
-***private company*** means a company as to which by letters patent or supplementary letters patent
-- **(a)** the right to transfer its shares is restricted,
-- **(b)** the number of its shareholders is limited to fifty,
-
-not including persons who are in the employment of the company and persons, who, having been formerly in the employment of the company, were, while in that employment, and have continued after the termination of that employment to be shareholders of the company, two or more persons holding one or more shares jointly being counted as a single shareholder, and
-- **(c)** any invitation to the public to subscribe for any shares or debentures of the company is prohibited;
-
-***public company*** means a company that is not a private company;
-
- or  ou ***real estate*** or ***land*** includes messuages, lands, tenements, and hereditaments of any tenure, and all immovable property of any kind;
-
-***securities*** means any shares of a company or any debenture or other obligations of a company, whether secured or unsecured;
-
-***shareholder*** means every subscriber for or holder of a share in the capital stock of the company and includes the personal representatives of a deceased shareholder and every person who agrees with the company to become a shareholder;
-
- or  ou ***the company*** or ***a company*** means any company to which this Part applies and “another company” or “any other company” means any company wherever or however incorporated;
-
-***undertaking*** means the business of every kind which the company is authorized to carry on.
-
-**Special resolution**
-
-- **(2)** A by-law mentioned in section 20, subsection 29(1), section 51 or 52 may be referred to as a “special resolution”.
-> R.S., 1970, c. C-32, s. 3; R.S., 1970, c. 10(1st Supp.), s. 2; 1972, c. 17, s. 2; 1978-79, c. 11, s. 10; 1986, c. 35, s. 14; 1995, c. 1, s. 32; 1999, c. 3, s. 17; 2002, c. 7, s. 89(E); 2015, c. 3, s. 13.
-
+**3** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Preliminaries
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Provisions directory only**
-
-**4** The provisions of this Part relating to matters preliminary to the issue of the letters patent or supplementary letters patent are directory only, and no letters patent or supplementary letters patent issued under this Part shall be held void or voidable on account of any irregularity or insufficiency in respect of any matter preliminary to the issue of the letters patent or supplementary letters patent.
-> 1964-65, c. 52, s. 4.
-
+**4** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Formation of New Companies
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **5** [Repealed, 2009, c. 23, s. 313]
@@ -152,22 +88,7 @@ not including persons who are in the employment of the company and persons, who,
 
 
 
-
-**Grounds for winding-up company**
-
-**5.6** 
-
-- **(1)** Where a company
-	- **(a)** carries on a business that is not within the scope of the objects set forth in its letters patent or supplementary letters patent,
-	- **(b)** exercises or professes to exercise any powers that are not truly ancillary or reasonably incidental to the objects set forth in its letters patent or supplementary letters patent,
-	- **(c)** exercises or professes to exercise any powers expressly excluded by its letters patent or supplementary letters patent,
-the company is liable to be wound up and dissolved under the Winding-up Act upon the application of the Attorney General of Canada to a court of competent jurisdiction for an order that the company be wound up under the Act, which application may be made upon receipt by the Attorney General of Canada of a certificate of the Minister setting forth his opinion that any of the circumstances described in paragraphs (a) to (c) apply to that company.
-
-**Costs of winding-up**
-
-- **(2)** In any application to the court under subsection (1) the court shall determine whether the costs of the winding-up shall be borne by the company or personally by any or all of the directors of the company who participated or acquiesced in the carrying on of any business or the exercise or the professing of the exercise of any powers described in subsection (1).
-> R.S., 1970, c. 10(1st Supp.), s. 3.
-
+**5.6** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -175,12 +96,7 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 
 
-
-**Seal of office**
-
-**6** The Governor in Council may, from time to time, designate the seal of office to be used by the Minister as the seal under which letters patent may be granted under this Act.
-> R.S., 1952, c. 53, s. 6.
-
+**6** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -192,65 +108,19 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 
 
-
-**Establishing conditions precedent to the issue of letters patent**
-
-**9** 
-
-- **(1)** Before the letters patent are issued the applicants shall establish to the satisfaction of the Minister
-	- **(a)** the sufficiency of the application and the truth and sufficiency of the facts therein set forth, and
-	- **(b)** that the proposed name is not the same or similar to the name under which any other company, society, association or firm, in existence, is carrying on business in Canada or is incorporated under the laws of Canada or any province thereof or so nearly resembles the same as to be calculated to deceive and is not otherwise on public grounds objectionable, or that such existing company, society, association or firm is in the course of being dissolved or changing its name and has signified its consent to the use of the said name.
-
-**Evidence may be taken**
-
-- **(2)** The Minister or any officer to whom the application may be referred may take any requisite evidence in writing by oath or affirmation or by statutory declaration and the Minister shall keep of record any such evidence so taken.
-
-**Averments to be recited**
-
-- **(3)** The letters patent shall recite such of the established averments in the application as to the Minister seems expedient.
-
-**Name of company**
-
-- **(4)** The Minister, after giving reasonable notice to the applicants, or to their authorized representative or agent, may give to the company a corporate name different from that proposed by the applicants in any case in which the proposed name is deemed by the Minister to be objectionable.
-
-**Alterations in application for letters patent**
-
-- **(5)** The Minister after giving notice to the applicants or to their authorized representative or agent may, with the consent of such applicants or their authorized representative or agent, make such alterations in the application as may be deemed expedient by the Minister.
-> R.S., 1952, c. 53, s. 8; 1964-65, c. 52, s. 7.
+**9** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Notice to be published**
-
-**10** Notice of the granting of letters patent or supplementary letters patent shall be forthwith given by the Minister by one insertion in the Canada Gazette.
-> 1964-65, c. 52, s. 8.
+**10** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Corrections**
-
-**11** 
-
-- **(1)** When the letters patent or supplementary letters patent contain any misnomer, misdescription, clerical error or other defect, the Minister may direct the letters patent or supplementary letters patent to be corrected.
-
-**Notice of correction**
-
-- **(2)** Notice of the correction of the letters patent or supplementary letters patent shall be forthwith given by the Minister in the Canada Gazette if the correction made causes them to depart materially from the text of the original notice given pursuant to section 10.
-> 1964-65, c. 52, s. 8.
+**11** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Date of existence**
-
-**12** A company comes into existence on the date of the letters patent incorporating it.
-> 1964-65, c. 52, s. 9.
-
+**12** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -264,65 +134,15 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 
 ### General Powers and Duties of Companies
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Powers given subject to this Act**
-
-**15** All powers given to a company by letters patent or supplementary letters patent shall be exercised subject to the provisions and restrictions contained in this Part.
-> R.S., 1952, c. 53, s. 13.
+**15** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Incidental and ancillary powers**
-
-**16** 
-
-- **(1)** A company may, as ancillary and incidental to the objects set out in its letters patent or supplementary letters patent, exercise any or all of the following powers, namely the power:
-	- **(a)** to carry on any other business that may seem to the company capable of being conveniently carried on in connection with its business or calculated directly or indirectly to enhance the value of or render profitable any of the company’s property or rights;
-	- **(a.1)** to purchase or otherwise acquire and undertake all or any of the assets, business, property, privileges, contracts, rights, obligations and liabilities of any other company or any society, firm or person carrying on any business that the company is authorized to carry on, or possessed of property suitable for the purposes of the company;
-	- **(b)** to apply for, purchase or otherwise acquire any patents, patent rights, certificates of supplementary protection issued under the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md), rights under such a certificate, copyrights, trade marks, formulae, licences, concessions and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to any invention that may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company, and to use, exercise, develop or grant licences in respect of, or otherwise turn to account, the property, rights or information so acquired;
-	- **(b.1)** to amalgamate or enter into partnership or into any arrangement for sharing of profits, union of interests, cooperation, joint adventure, reciprocal concession or otherwise, with any other company or any society, firm or person, carrying on or engaged in or about to carry on or engage in any business or transaction that the company is authorized to carry on or engage in, or any business or transaction capable of being conducted so as directly or indirectly to benefit the company; and to lend money to, guarantee the contracts of, or otherwise assist any such company, society, firm or person, and to take or otherwise acquire shares and securities of any such company, and to sell, hold or otherwise deal with the same;
-	- **(c)** to take, or otherwise acquire and hold, shares, debentures or other securities of any other company having objects altogether or in part similar to those of the company, or carrying on any business capable of being conducted so as, directly or indirectly, to benefit the company, and to sell or otherwise deal with the same;
-	- **(d)** to enter into any arrangements with any government or authority, municipal, local or otherwise, that may seem conducive to the company’s objects, or any of them, and to obtain from any such government or authority any rights, privileges and concessions that the company may think it desirable to obtain, and to carry out, exercise and comply with any such arrangements, rights, privileges and concessions;
-	- **(e)** to establish and support or aid in the establishment and support of associations, institutions, funds, trusts and conveniences calculated to benefit employees or ex-employees of the company or of its predecessors in business, or the dependants or connections of such persons, and to grant pensions and allowances, and to make payments toward insurance, and to subscribe or guarantee money for charitable or benevolent objects, or for any exhibition or for any public, general or useful object;
-	- **(f)** to promote any other company or companies for the purpose of acquiring or taking over all or any of the property and liabilities of the company, or for any other purpose that may seem directly or indirectly calculated to benefit the company;
-	- **(g)** to purchase, take on lease or in exchange, hire, and otherwise acquire and hold, sell or otherwise deal with any real and personal property and any rights or privileges that the company may think necessary or convenient for the purposes of its business and in particular any land, buildings, easements, machinery, plant and stock-in-trade;
-	- **(h)** to construct, improve, maintain, work, manage, carry out or control any roads, ways, branches or sidings, bridges, reservoirs, watercourses, wharfs, manufactories, warehouses, electric works, shops, stores and other works and conveniences that may seem calculated directly or indirectly to advance the company’s interests, and to contribute to, subsidize or otherwise assist or take part in the construction, improvement, maintenance, working, management, carrying out or control thereof;
-	- **(i)** to lend money to any other company, or any society, firm or person, having dealings with the company or with whom the company proposes to have dealings or to any other company any of whose shares are held by the company;
-	- **(j)** to draw, make, accept, endorse, discount, execute and issue promissory notes, bills of exchange, bills of lading, warrants and other negotiable or transferable instruments;
-	- **(k)** to sell or dispose of the undertaking of the company or any part thereof for such consideration as the company may think fit, and in particular for shares, debentures or securities of any other company that has objects altogether or in part similar to those of the company;
-	- **(l)** to apply for, secure, acquire by grant, legislative enactment, assignment, transfer, purchase or otherwise, and to exercise, carry out and enjoy any charter, licence, power, authority, franchise, concession, right or privilege, that any government or authority or any corporation or other public body may be empowered to grant, and to pay for, aid in and contribute toward carrying the same into effect, and to appropriate any of the company’s shares, debentures, or other securities and assets to defray the necessary costs, charges and expenses thereof;
-	- **(m)** to procure the company to be registered and recognized in any foreign country or place, and to designate persons therein according to the laws of such foreign country or place to represent the company and to accept service for and on behalf of the company of any process or suit;
-	- **(n)** to remunerate any other company, or any society, firm or person for services rendered, or to be rendered, in placing or assisting to place or guaranteeing the placing of any of the shares in the company’s capital or any debentures or other securities of the company, or in or about the organization, formation or promotion of the company or the conduct of its business;
-	- **(o)** to raise and assist in raising money for, and to aid by way of bonus, loan, promise, endorsement, guarantee or otherwise, any other company with which the company may have business relations or any of whose shares, debentures or other obligations are held by the company and to guarantee the performance or fulfilment of any contracts or obligations of any such company or of any person with whom the company may have business relations, and in particular to guarantee the payment of the principal of and interest on debentures or other securities, mortgages and liabilities of any such company;
-	- **(p)** to adopt such means of making known the products of the company as may seem expedient, and in particular by advertising in the press, by circulars, by purchase and exhibition of works of art or interest, by publication of books and periodicals and by granting prizes, rewards and donations;
-	- **(q)** to sell, improve, manage, develop, exchange, lease, dispose of, turn to account or otherwise deal with all or any part of the property and rights of the company;
-	- **(r)** to issue and allot fully or partly paid up shares of the capital stock of the company in payment or part payment of any real or personal property purchased or otherwise acquired by the company or any services rendered to the company;
-	- **(s)** to distribute among the shareholders of the company in kind, specie or otherwise, any property or assets of the company including any proceeds of the sale or disposal of any property of the company and in particular any shares, debentures, or other securities of or in any other company belonging to the company, or of which it may have power to dispose, if either such distribution is made for the purpose of enabling the company to surrender its charter under the provisions of this Act, or such distribution, apart from the provisions of this paragraph, would have been lawful if made in cash;
-	- **(t)** to pay out of the funds of the company all or any of the expenses of or incidental to the formation and organization thereof, or which the company may consider to be preliminary;
-	- **(u)** to establish agencies and branches;
-	- **(v)** to invest and deal with the moneys of the company not immediately required in such manner as may from time to time be determined;
-	- **(w)** to apply for, promote and obtain any statute, ordinance, order, regulation or other authorization or enactment that may seem calculated directly or indirectly to benefit the company; and to oppose any proceedings or application that may seem calculated directly or indirectly to prejudice the company’s interests;
-	- **(x)** to take or hold mortgages, hypothecs, liens and charges to secure payment of the purchase price, or for any unpaid balance of the purchase price of any part of the company’s property of whatsoever kind sold by the company, or any money due to the company from purchasers and others and to sell or otherwise dispose of said mortgages, hypothecs, liens and charges;
-	- **(y)** to carry out all or any of the objects of the company and do all or any of the things set out in this subsection as principal, agent, contractor, or otherwise, and either alone or in conjunction with others; and
-	- **(z)** to do all such other things as are incidental or conducive to the attainment of the objects and the exercise of the powers of the company.
-
-**Property and rights**
-
-- **(2)** The company shall from the date of its letters patent become and be vested with all property and rights, real and personal, theretofore held for it under any trust created with a view to its incorporation.
-
-**Other powers**
-
-- **(3)** Nothing in this section prevents the inclusion in the letters patent or supplementary letters patent of a company of other powers in addition to or in modification of the powers mentioned in subsection (1).
-
-**Withholding or limiting powers**
-
-- **(4)** Any of the powers set out in subsection (1) may be withheld or limited by the letters patent or supplementary letters patent of the company.
-> R.S., 1970, c. C-32, s. 16; 2017, c. 6, s. 118.
-
+**16** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -340,155 +160,49 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 
 ### Change of Provisions of Letters Patent
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Application to extend or reduce powers**
-
-**20** 
-
-- **(1)** Subject to any special rights attaching to shares of any class or classes as set forth in the letters patent or supplementary letters patent, a company may from time to time, when authorized by by-law sanctioned by two-thirds of the votes cast at a special general meeting of shareholders called for the purpose, apply for supplementary letters patent, as provided in such by-law,
-	- **(a)** extending the objects of the company to such further or other objects for which a company may be incorporated under this Part, or
-	- **(b)** reducing, limiting, amending or varying the objects or the powers of the company or any of the provisions of the letters patent or supplementary letters patent issued to the company;
-but no such extension, reduction, limitation, amendment or variation may have the effect of altering or permitting the alteration of the authorized capital of the company in any manner other than pursuant to the issue of supplementary letters patent under sections 51 to 60 or section 134, as the circumstances of the case may require.
-
-**Converting company**
-
-- **(2)** A company may, when authorized by by-law sanctioned by three-fourths of the votes cast at a special general meeting of shareholders called for the purpose, apply for supplementary letters patent converting the company from a private company into a public company, or from a public company into a private company, as the case may be.
-
-**Limitation**
-
-- **(3)** An application under subsection (1) or (2) may be made only within six months after the by-law therein mentioned has been sanctioned by the shareholders.
-
-**Evidence of by-law**
-
-- **(4)** Before such supplementary letters patent are issued, the company shall establish to the satisfaction of the Minister the due passage and sanction of the by-law authorizing the application, and for that purpose the Minister may take any requisite evidence in writing, by oath or affirmation, or by statutory declaration and shall keep a record of any such evidence so taken.
-
-**Supplementary letters patent**
-
-- **(5)** Upon the due sanctioning of a by-law pursuant to subsection (1) or (2), as the case may be, being so established, the Minister may grant supplementary letters patent
-	- **(a)** extending the objects of the company;
-	- **(b)** reducing, limiting, amending or varying the objects or the powers of the company or any of the provisions of the letters patent or supplementary letters patent of the company; or
-	- **(c)** converting the company into a public or private company,
-as the case may be, and as provided in such by-law; and notice thereof shall be forthwith given by the Minister in the Canada Gazette and the supplementary letters patent take effect from their date.
-> R.S., 1952, c. 53, s. 17; 1964-65, c. 52, s. 14.
-
+**20** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Contracts, etc.
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Contracts of agent binding on company**
-
-**21** 
-
-- **(1)** Every contract, agreement, engagement or bargain made, and every bill of exchange drawn, accepted or endorsed, and every promissory note and cheque made, drawn or endorsed on behalf of the company, by any agent, officer or servant of the company within the apparent scope of his authority as such agent, officer or servant, is binding upon the company.
-
-**Cases where seal not necessary**
-
-- **(2)** In no case is it necessary to have the seal of the company affixed to any such contract, agreement, engagement, bargain, bill of exchange, promissory note or cheque, or to prove that the same was made, drawn, accepted or endorsed, as the case may be, in pursuance of any by-law or special vote or order.
-
-**No individual liability**
-
-- **(3)** No person so acting as such agent, officer or servant of the company is thereby subjected individually to any liability whatever to any third person.
-> R.S., 1952, c. 53, s. 18.
+**21** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Acts of attorney binding**
-
-**22** Every deed that any person, lawfully empowered in that behalf by the company as its attorney, signs on behalf of the company and seals with his seal is binding on the company and has the same effect as if it were under the seal of the company.
-> R.S., 1952, c. 53, s. 19.
+**22** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Official seal, facsimile of corporate seal**
-
-**23** 
-
-- **(1)** A company if authorized by its by-laws may have for use in any province, not being the province in which the head office of the company is situated, or for use in any territory, district or place outside Canada, an official seal, which shall be a facsimile of the corporate seal, with the addition on its face of the name of the province, territory, district or place where it is to be used.
-
-**Authorization to affix seal**
-
-- **(2)** A company having such an official seal may by writing under its corporate seal authorize any person appointed for the purpose to affix the same to any deed or other document to which the company is party in any capacity in such province, territory, district or place.
-
-**Agent’s authority**
-
-- **(3)** The authority of any such agent shall, as between the company and any person dealing with the agent, continue during the period, if any, mentioned in the instrument conferring the authority, or if no period is therein mentioned, then until notice of the revocation or determination of the agent’s authority has been given to the person dealing with him.
-
-**Date and place certified**
-
-- **(4)** The person affixing any such official seal shall, by writing under his hand, on the deed or other document to which the official seal is affixed, certify the date and place of affixing the same, but failure to do so does not invalidate the deed or other document.
-
-**Deed to bind the company**
-
-- **(5)** A deed or other document to which an official seal is duly affixed binds the company as if it had been sealed with the corporate seal.
-> R.S., 1952, c. 53, s. 20.
-
+**23** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Head Office
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Head office**
-
-**24** 
-
-- **(1)** The company shall at all times have a head office in the place within Canada where the head office is to be situated in accordance with the letters patent or the provisions of this Part, which head office is the domicile of the company in Canada; and the company may establish such other offices and agencies elsewhere within or outside Canada, as it deems expedient.
-
-**Change of head office by by-law**
-
-- **(2)** The company may, by by-law, change the place where the head office of the company is to be situated.
-
-**Change to be sanctioned**
-
-- **(3)** No by-law for the purpose of changing the place where the head office is to be situated is valid or shall be acted upon until it is sanctioned by at least two-thirds of the votes cast at a special general meeting of the shareholders duly called for considering the by-law.
-
-**Filing by-law**
-
-- **(4)** A copy of the by-law certified under the seal of the company shall be forthwith filed with the Minister and shall be available for inspection at the office thereof during normal business hours.
-
-**Notice of by-law**
-
-- **(5)** A notice of the by-law shall be forthwith published in the Canada Gazette.
-> R.S., 1952, c. 53, s. 21; 1964-65, c. 52, s. 15; 1967-68, c. 9, s. 3.
-
+**24** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Name of Company
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Name of company**
-
-**25** 
-
-- **(1)** The word “Limited” or the abbreviation “Ltd” shall be the last word of the name of each company, but in either case the company may use, and be legally designated by, “Limited” or “Ltd”, and reference thereto may be made in the same manner.
-
-**Use of French or English form of name**
-
-- **(2)** If the company has a name consisting of a separated or combined French and English form, it may from time to time use, and it may be legally designated by, either the French or English form of its name or both forms.
-
-**Publishing name of company**
-
-- **(3)** A company shall
-	- **(a)** keep its name painted or affixed, in letters easily legible, in a conspicuous position on the outside of every office or place in which the business of the company is carried on;
-	- **(b)** keep its name engraved in legible characters on its seal and, if the company has a name consisting of a French and English form, whether separated or combined, the company shall show on its seal both the French and English forms of its name or shall have two seals, each of which shall be equally valid, one showing the French and the other the English form of its name; and
-	- **(c)** have its name, in legible characters, mentioned in all notices, advertisements and other official publications of the company, and in all bills of exchange, promissory notes, endorsements, cheques and orders for money or goods purporting to be signed by or on behalf of the company, and in all bills of parcels, invoices and receipts of the company.
-> 1964-65, c. 52, s. 16.
-
+**25** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -496,134 +210,50 @@ as the case may be, and as provided in such by-law; and notice thereof shall be 
 
 
 
-
-**Authorizing seal where name not engraven properly**
-
-**27** Every director, manager or officer of a company, and every person on its behalf, who
-- **(a)** uses or authorizes the use of any seal purporting to be a seal of the company, whereon its name is not engraven in legible characters,
-- **(b)** issues or authorizes the issue of any notice, advertisement, or other official publication of such company,
-- **(c)** signs or authorizes to be signed on behalf of the company, any bill of exchange, promissory note, endorsement, cheque, order for money or goods, or
-- **(d)** issues or authorizes to be issued any bill of parcels, invoice or receipt of the company,
-wherein its name is not mentioned in legible characters, is liable to a penalty of two hundred dollars, and is also personally liable to the holder of any such bill of exchange, promissory note, cheque, or order for money or goods, for the amount thereof, unless the same is duly paid by the company.
-> R.S., 1952, c. 53, s. 24.
+**27** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Not to have identical name**
-
-**28** 
-
-- **(1)** A company shall not be incorporated
-	- **(a)** with a name that is the same or similar to the name under which any other company, society, association or firm, in existence, is carrying on business in Canada or is incorporated under the laws of Canada or any province thereof, or that so nearly resembles that name as to be calculated to deceive, except where the existing company, society, association or firm is in the course of being dissolved or of changing its name and signifies its consent in such manner as the Minister requires, or
-	- **(b)** with a name that is otherwise on public grounds objectionable.
-
-**Minister may change name by supplementary letters**
-
-- **(2)** Where a company, through inadvertence or otherwise, is without the consent mentioned in subsection (1) incorporated with a name that is the same or similar to the name under which any other company, society, association or firm in existence has been previously carrying on business in Canada or has been previously incorporated under the laws of Canada or any province thereof, or with a name that so nearly resembles that name as to be calculated to deceive, or that is otherwise on public grounds objectionable, the Minister, after he has given notice to the company of intention so to do, may direct the issue of supplementary letters patent changing the name of the company to some other name, which shall be set forth in the supplementary letters patent.
-
-**Notice**
-
-- **(3)** Notice of the issue of such supplementary letters patent shall be published in the Canada Gazette.
-> R.S., 1952, c. 53, s. 25.
+**28** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Company may obtain change in name**
-
-**29** 
-
-- **(1)** When a company desires to adopt another name it may, subject to confirmation by supplementary letters patent, change its corporate name by by-law sanctioned by at least two-thirds of the votes cast at a special general meeting of shareholders called for the purpose.
-
-**Supplementary letters patent**
-
-- **(2)** The Minister, upon application of the company and upon being satisfied that the change desired is not objectionable, may direct the issue of supplementary letters patent, changing the name of the company to some other name which shall be set forth in the supplementary letters patent.
-
-**Notice**
-
-- **(3)** Notice of the issue of such supplementary letters patent shall be published in the Canada Gazette.
-> R.S., 1952, c. 53, s. 26.
+**29** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Change not to affect rights or obligations**
-
-**30** No alteration of name under sections 28 and 29 affects the rights or obligations of the company; and all proceedings may be continued or commenced by or against the company under its new name that might have been continued or commenced by or against the company under its former name.
-> R.S., 1952, c. 53, s. 27.
-
+**30** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Forfeiture of Charter
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Forfeiture of charter for non-user**
-
-**31** 
-
-- **(1)** Where a company does not go into actual *bona fide* operation within three years after incorporation or for three consecutive years does not use its corporate powers its charter shall be and become forfeited.
-
-**Proof of user**
-
-- **(2)** In any action or proceeding where such non-user is alleged, proof of user lies upon the company.
-
-**Revival of charter**
-
-- **(3)** The Minister may upon application of any person interested revive any charter so forfeited upon compliance with such conditions as he may prescribes.
-> R.S., 1952, c. 53, s. 28.
-
+**31** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Surrender of Charter
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Surrender of charter**
-
-**32** 
-
-- **(1)** The charter of a company may be surrendered if the company proves to the satisfaction of the Minister
-	- **(a)** that the company has no assets and that, if it had any assets immediately prior to the application for leave to surrender its charter, such assets have been divided rateably among its shareholders or members, and either,
-		- **(i)** that it has no debts, liabilities or other obligations, or
-		- **(ii)** that the debts, liabilities or other obligations of the company have been duly provided for or protected or that the creditors of the company or other persons having interests in such debts, liabilities or other obligations consent; and
-	- **(b)** that the company has given notice of the application for leave to surrender by publishing the same once in the Canada Gazette and once in a newspaper published at or as near as may be to the place where the company has its head office.
-
-**Application by inoperative company**
-
-- **(2)** Where an application to surrender a charter is made by a company that has not gone into *bona fide* operation or that has been inoperative for three or more consecutive years, if the circumstances mentioned in paragraph (1)(a) are proved to the satisfaction of the Minister, the Minister shall publish a notice of such application in the Canada Gazette and, unless an objection to the surrender is received by him within one year after such publication of the notice, he may accept the application for the surrender of the charter.
-
-**Acceptance of surrender**
-
-- **(3)** Where the Minister has accepted the surrender of a charter upon due compliance with subsection (1) or subsection (2), as the case may be, the Minister may direct the cancellation of the charter of the company and fix a date upon and from which the company shall be dissolved, and the company is thereby and thereupon dissolved accordingly.
-
-**No fee payable by inoperative company**
-
-- **(4)** No fee shall be charged in respect of a surrender under this section of the charter of a company described in subsection (2).
-> 1964-65, c. 52, s. 17.
+**32** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Liability of shareholders after dissolution of company**
-
-**33** Notwithstanding the dissolution of a company under section 32, the shareholders of the company among whom its assets have been divided remain, to the amount received by them respectively upon such division, jointly and severally liable to the creditors of the company; and an action may be brought in any court of competent jurisdiction to enforce such liability, but the action shall be commenced within and not after one year from the date of such dissolution of the company.
-> R.S., 1952, c. 53, s. 30.
-
+**33** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Shares
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **34** [Repealed, 2009, c. 23, s. 313]
@@ -666,17 +296,14 @@ wherein its name is not mentioned in legible characters, is liable to a penalty 
 
 
 
-
-**Transfer of shares of a deceased shareholder**
-
-**43** A transfer of the shares or other interest of a deceased shareholder, made by his personal representative, is, notwithstanding that the personal representative is not himself a shareholder, of the same validity as if he had been a shareholder at the time of his execution of the instrument of transfer.
-> R.S., 1952, c. 53, s. 40.
-
+**43** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Calls
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **44** [Repealed, 2009, c. 23, s. 313]
@@ -765,212 +392,56 @@ wherein its name is not mentioned in legible characters, is liable to a penalty 
 
 
 ### Borrowing Powers
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Borrowing powers**
-
-**65** 
-
-- **(1)** When authorized by by-law, duly passed by the directors and sanctioned by at least two-thirds of the votes cast at a special general meeting of the shareholders duly called for considering the by-law, the directors of a company may from time to time
-	- **(a)** borrow money upon the credit of the company;
-	- **(b)** limit or increase the amount to be borrowed;
-	- **(c)** issue debentures or other securities of the company;
-	- **(d)** pledge or sell such debentures or other securities for such sums and at such prices as may be deemed expedient; and
-	- **(e)** secure any such debentures, or other securities, or any other present or future borrowing or liability of the company, by mortgage, hypothec, charge or pledge of all or any currently owned or subsequently acquired real and personal, movable and immovable, property of the company, and the undertaking and rights of the company.
-
-**Delegation of powers**
-
-- **(2)** Any such by-law may provide for the delegation of such powers by the directors to such officers or directors of the company to such extent and in such manner as may be set out in the by-law.
-
-**Limitation as to bills and notes**
-
-- **(3)** Nothing in this section limits or restricts the borrowing of money by the company on bills of exchange or promissory notes made, drawn, accepted or endorsed by or on behalf of the company.
-> R.S., 1952, c. 53, s. 63; 1964-65, c. 52, s. 29.
+**65** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Perpetual debenture**
-
-**66** A condition contained in any debentures or in any deed for securing any debentures is not invalid by reason only that the debentures are thereby made irredeemable or redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long, any rule of equity to the contrary notwithstanding.
-> R.S., 1952, c. 53, s. 64.
+**66** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Power to reissue debentures in certain cases**
-
-**67** 
-
-- **(1)** Where either before or after the 1st day of October 1934, a company has redeemed any debentures previously issued, then
-	- **(a)** unless any provision to the contrary, whether express or implied, is contained in the debentures or in any contract entered into by the company; or
-	- **(b)** unless the company has, by resolution of its shareholders or by some other act, manifested its intention that the debentures shall be cancelled,
-the company shall have power to reissue the debentures, either by reissuing the same debentures or by issuing other debentures in their place, but the reissue of a debenture or the issue of another debenture in its place, under the power by this section given to a company, shall not be treated as the issue of a new debenture for the purposes of any provision limiting the amount or number of debentures to be issued.
-
-**Priorities on reissue**
-
-- **(2)** On a reissue of redeemed debentures, the person entitled to the debentures has the same rights and priorities as if the debentures had never been redeemed.
-
-**Particulars in balance sheet**
-
-- **(3)** Where a company has power to reissue debentures that have been redeemed, particulars with respect to the debentures that can be so reissued shall be included in every balance sheet of the company.
-
-**Debentures deposited to secure advances**
-
-- **(4)** Where a company has deposited any of its debentures to secure advances from time to time on current account or otherwise, the debentures shall not be deemed to have been redeemed by reason only of the account of the company having ceased to be in debit while the debentures remained so deposited.
-
-**Right saved**
-
-- **(5)** Nothing in this section prejudices any power to issue debentures in the place of any debentures, paid off or otherwise satisfied or extinguished, reserved to a company by its debentures or by any deed securing payment of the same.
-> R.S., 1952, c. 53, s. 65.
-
+**67** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Information as to Mortgages and Charges
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Delivery of prescribed particulars**
+**68** [Repealed, 2009, c. 23, s. 313]
 
-**68** 
 
-- **(1)** In respect of every mortgage or charge created by a company after the 1st day of October 1934, being either
-	- **(a)** a mortgage or charge for the purpose of securing any issue of debentures,
-	- **(b)** a mortgage or charge on uncalled share capital of the company,
-	- **(c)** a floating charge on the undertaking or property of the company,
-	- **(d)** a mortgage or charge on calls made but not paid, or
-	- **(e)** a mortgage or charge on goodwill, on any patent or licence under a patent, on any certificate of supplementary protection issued under the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md) or licence under such a certificate, on any trade mark or on any copyright or licence under a copyright,
-the company shall deliver to the Minister the prescribed particulars of the mortgage or charge, and a copy of the instrument, if any, by which the mortgage or charge is created or evidenced, certified by the secretary of the company, or, in the Province of Quebec, a notarial copy of such instrument within thirty days after the date of its creation.
 
-**Exception**
+**69** [Repealed, 2009, c. 23, s. 313]
 
-- **(2)** Subsection (1) does not apply to the giving by a company of any warehouse receipt or bill of lading or any security under the provisions of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) as collateral security for the payment of any debt or liability of the company, nor to a floating charge created by a company on its accounts receivable or any of them after the 1st day of October 1934.
 
-**Idem**
 
-- **(3)** In the case of a mortgage or charge created out of Canada comprising solely property situated outside Canada, it is sufficient if the prescribed particulars and the certified copy of the instrument by which the mortgage or charge is created or evidenced are delivered to the Minister within ninety days after the date on which the instrument or copy could in due course of post and if dispatched with due diligence have been received in Canada.
+**70** [Repealed, 2009, c. 23, s. 313]
 
-**Property acquired subject to mortgage or charge**
 
-- **(4)** Where after the 1st day of October 1934 a company acquires any property that is subject to a mortgage or charge of any such kind that, if it had been created by the company after the acquisition of the property, particulars thereof would have been required to be delivered to the Minister under subsection (1), the company shall deliver to the Minister the prescribed particulars of the mortgage or charge and a copy of the instrument, if any, by which the mortgage or charge is created or evidenced, certified by the secretary of the company, or, in the Province of Quebec, a notarial copy of such instrument, within ninety days after the date on which the acquisition is completed.
 
-**Register to be kept by Minister**
+**71** [Repealed, 2009, c. 23, s. 313]
 
-- **(5)** The Minister shall keep with respect to each company a register in the prescribed form in which shall be entered with respect to every mortgage or charge a copy of which has been delivered to the Minister the date of the mortgage or charge, the amount secured by it, short particulars of the property mortgaged or charged and the names of the mortgagees or persons entitled to the charge or the particulars required to be delivered to the Minister under subsection (6) as the case may be.
 
-**Particulars**
 
-- **(6)** Where a series of debentures containing or giving by reference to any other instrument any charge to the benefit of which the debenture holders of that series are entitled *pari passu* is created by a company, it is sufficient if there are delivered to the Minister within thirty days after the execution of the deed containing the charge or if there is no such deed after the execution of any debentures of the series, the following particulars:
-	- **(a)** the total amount secured by the whole series;
-	- **(b)** the date of the covering deed, if any, by which the security is created or defined or if there is no such deed the date of the issuance of the first debenture of the series;
-	- **(c)** a general description of the property charged; and
-	- **(d)** the names of the trustees, if any, for the debenture holders;
-together with a copy of the covering deed, if any, certified by the secretary of the company under the corporate seal or in the Province of Quebec a notarial copy thereof, or if there is no such deed a copy of one of the debentures of the series certified by the secretary of the company under its corporate seal; and the Minister shall on payment of the prescribed fee enter those particulars in the register.
+**72** [Repealed, 2009, c. 23, s. 313]
 
-**Rate of commission**
 
-- **(7)** Where any commission, allowance, or discount has been paid or made either directly or indirectly by the company to any person in consideration of his subscribing or agreeing to subscribe, whether absolutely or conditionally, for any debentures of the company, or procuring or agreeing to procure subscriptions, whether absolute or conditional, for any such debentures, the particulars required to be delivered for registration under this section shall include particulars as to the amount or rate per cent of the commission, discount, or allowance so paid or made.
 
-**Debentures as security**
-
-- **(8)** The deposit of any debentures as security for any debt of the company shall not, for the purposes of subsection (7), be treated as the issue of the debentures at a discount.
-
-**Failure to comply**
-
-- **(9)** Failure to comply with this section does not affect the validity of the mortgage or charge or of the debentures issued, but every director or officer knowingly and wilfully authorizing or permitting such default and the company are liable on summary conviction to a fine not exceeding twenty dollars for every day during which the default continues.
-
-**Register to be open to inspection**
-
-- **(10)** The register kept in pursuance of this section shall be open to inspection by any person on payment of the prescribed fee.
-
-**Copies of instruments to be kept at head office**
-
-- **(11)** Every company shall cause a copy of every instrument creating any mortgage or charge particulars of which are required to be delivered to the Minister under this section to be kept at the head office of the company.
-> R.S., 1970, c. C-32, s. 68; 2017, c. 6, s. 119.
-
-
-
-
-
-**Notice of order appointing receiver**
-
-**69** 
-
-- **(1)** Where any person obtains an order for the appointment of a receiver or receiver and manager of the property of a company, or appoints such receiver or receiver and manager under any powers contained in any instrument, he shall, within fourteen days from the date of the order or of the appointment under the powers contained in the instrument, give notice of the fact to the Minister who shall on payment of the prescribed fee enter the fact in the register.
-
-**Penalty**
-
-- **(2)** Where any person wilfully makes default in complying with the requirements of this section he is liable on summary conviction to a fine not exceeding twenty dollars for every day during which the default continues.
-> R.S., 1952, c. 53, s. 67.
-
-
-
-
-
-**Entry of satisfaction**
-
-**70** The Minister, on evidence being given to his satisfaction that the debt, for which any mortgage or charge was created and entered on the register kept by him, has been paid or satisfied, may order that a memorandum of satisfaction be entered on such register, and shall if required furnish the company with a copy thereof.
-> R.S., 1952, c. 53, s. 68.
-
-
-
-
-
-**Company’s register of mortgages**
-
-**71** 
-
-- **(1)** Every company shall keep a register of mortgages and enter therein all mortgages and charges particulars of which are required to be delivered to the Minister and of all other mortgages and charges specifically affecting property of the company, not being mortgages or charges to which subsection 68(1) does not apply, giving in each case a short description of the property mortgaged or charged, the amount of the mortgage or charge, and, except in the case of securities to bearer, the names and addresses, if known, of the mortgagees or persons entitled thereto unless such names and addresses, if known, are entered in a register of holders of debentures kept by or on behalf of the company.
-
-**Omission of entries**
-
-- **(2)** Where any director, manager, or other officer of the company wilfully authorizes or permits the omission of any entry required to be made in pursuance of this section, he is liable on summary conviction to a fine not exceeding two hundred dollars.
-> R.S., 1952, c. 53, s. 70.
-
-
-
-
-
-**Right to inspect copies of instruments**
-
-**72** 
-
-- **(1)** The copies of instruments creating any mortgage or charge that, under this Act, are required to be delivered to the Minister, and the register of mortgages kept in pursuance of section 71, shall be open at all reasonable times to the inspection of any creditor or shareholder of the company without fee, and the register of mortgages shall also be open to the inspection of any other person on payment of such fee, not exceeding twenty-five cents for each inspection, as the company may prescribe.
-
-**Where inspection refused**
-
-- **(2)** Where inspection of the said copies or register is refused, any officer of the company wrongfully refusing inspection, and every director or officer of the company wilfully authorizing or permitting such refusal, is liable on summary conviction to a fine not exceeding twenty dollars, and a further fine not exceeding ten dollars for every day during which the wrongful refusal continues.
-> R.S., 1952, c. 53, s. 71.
-
-
-
-
-
-**Right of debenture holders to inspect register**
-
-**73** 
-
-- **(1)** Every register of holders of debentures of a company shall, except when closed in accordance with the by-laws of the company or the provisions of the debentures or the covering deed, if any, during such period or periods, not exceeding in the whole thirty days in any year, as may be specified in the said by-laws or provisions, be open to the inspection of the registered holder of any such debentures, and of any shareholder, but subject to such reasonable restrictions as the company may impose, so that at least two hours in each day are appointed for inspection, and every such holder may require a copy of the register or any part thereof on payment of ten cents for every hundred words required to be copied.
-
-**Copy of trust deed to be forwarded**
-
-- **(2)** A copy of any trust deed for securing payment of any issue of debentures shall be forwarded to every holder of any such debentures at his request, on payment in the case of a printed trust deed of the sum of twenty-five cents, or such less sum as may be prescribed by by-law of the company, or, where the trust deed has not been printed, on payment of ten cents for every hundred words required to be copied.
-
-**Where inspection refused**
-
-- **(3)** Where inspection is wrongfully refused, or a copy is wrongfully refused or not forwarded, the company is liable on summary conviction to a fine not exceeding twenty dollars, and to a further fine not exceeding ten dollars for every day during which the refusal or neglect to forward a copy continues, and every director, manager, secretary, or other officer of the company who wilfully authorizes or permits such refusal shall incur the like penalty.
-> R.S., 1952, c. 53, s. 72.
-
+**73** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Prospectuses and Offers to the Public
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **74** [Repealed, 2009, c. 23, s. 313]
@@ -1049,14 +520,7 @@ together with a copy of the covering deed, if any, certified by the secretary of
 
 
 
-
-**Director indemnified in suits respecting execution of his office**
-
-**93** Every director of the company, and his heirs, executors and administrators, and estate and effects, respectively, may, with the consent of the company, given at any meeting of the shareholders thereof, from time to time and at all times, be indemnified and saved harmless out of the funds of the company, from and against,
-- **(a)** all costs, charges and expenses whatever that such director sustains or incurs in or about any action, suit or proceeding that is brought, commenced or prosecuted against him, for or in respect of any act, deed, matter or thing whatever, made, done or permitted by him, in or about the execution of the duties of his office, and
-- **(b)** all other costs, charges and expenses that he sustains, or incurs, in or about or in relation to the affairs thereof, except such costs, charges or expenses as are occasioned by his own wilful neglect or default.
-> R.S., 1952, c. 53, s. 91.
-
+**93** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -1076,67 +540,11 @@ together with a copy of the covering deed, if any, certified by the secretary of
 
 
 
-
-**Director interested in a contract with the company**
-
-**98** 
-
-- **(1)** Subject to this section, it is the duty of a director of a company who is in any way, whether directly or indirectly, interested in a contract or proposed contract with the company to declare his interest at a meeting of directors of the company.
-
-**At what meeting declaration to be made**
-
-- **(2)** In the case of a proposed contract the declaration required by this section to be made by a director shall be made at the meeting of directors at which the question of entering into the contract is first taken into consideration, or, if the director is not at the date of that meeting interested in the proposed contract, at the next meeting of the directors held after he becomes so interested, and, in a case where the director becomes interested in a contract after it is made, the declaration shall be made at the first meeting of directors held after the director becomes so interested.
-
-**What is deemed sufficient declaration**
-
-- **(3)** For the purposes of this section, a general notice given to the directors of a company by a director to the effect that he is a shareholder of or otherwise interested in any other company or is a member of a specified firm and is to be regarded as interested in any contract made with such other company or firm shall be deemed to be a sufficient declaration of interest in relation to any contract so made.
-
-**Director not to vote if interested**
-
-- **(4)** No director shall vote in respect of any contract or proposed contract in which he is so interested as aforesaid and if he does so vote his vote shall not be counted, but this prohibition does not apply
-	- **(a)** in the case of any contract by or on behalf of the company to give to the directors or any of them security for advances or by way of indemnity,
-	- **(b)** in the case of a private company, where there is no quorum of directors in office who are not so interested, or
-	- **(c)** in the case of any contract between the company and any other company where the interest of the director in the last-mentioned company consists solely in his being a director or officer of such last-mentioned company, and the holder of not more than the number of shares in such last-mentioned company requisite to qualify him as a director.
-
-**When director not accountable**
-
-- **(5)** A director who has made a declaration of his interest in a contract or proposed contract in compliance with this section and has not voted in respect of such contract contrary to the prohibition contained in subsection (4), if such prohibition applies, is not accountable to the company or any of its shareholders or creditors by reason only of such director holding that office or of the fiduciary relationship thereby established for any profit realized by such contract.
-
-**“Contract” and “meeting of directors”**
-
-- **(6)** For the purposes of this section “contract” includes “arrangement” and “meeting of directors” includes a meeting of an executive committee elected in accordance with section 96.
-
-**No liability when contract confirmed**
-
-- **(7)** Nothing in this section imposes any liability upon a director in respect of the profit realized by any contract that has been confirmed by the vote of shareholders of the company at a special general meeting called for that purpose.
-> R.S., 1952, c. 53, s. 96.
+**98** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Liability of directors for wages unsatisfied**
-
-**99** 
-
-- **(1)** The directors of the company are jointly and severally liable to the clerks, labourers, servants and apprentices thereof, for all debts not exceeding six months wages due for services performed for the company while they are such directors respectively.
-
-**When not liable**
-
-- **(2)** A director is not liable under subsection (1) unless
-	- **(a)** the company has been sued for the debt within six months after it has become due and execution has been returned unsatisfied in whole or in part, or
-	- **(b)** the company has within that period gone into liquidation or has been ordered to be wound up under the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md), or has made an authorized assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or a bankruptcy order under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) has been made against it and a claim for such debt has been duly filed and proved,
-nor unless he is sued for such debt while a director or within one year after he has ceased to be a director.
-
-**Amount recoverable**
-
-- **(3)** Where execution has so issued the amount recoverable against the director shall be the amount remaining unsatisfied on the execution.
-
-**Directors’ preference**
-
-- **(4)** Where the claim for such debt has been proved in liquidation or winding-up proceedings or under the Winding-up Act or the Bankruptcy Act a director, upon payment of the debt, is entitled to any preference that the creditor paid would have been entitled to, and where a judgment has been recovered he is entitled to an assignment of the judgment.
-> R.S., 1970, c. C-32, s. 99; 2004, c. 25, s. 189.
-
+**99** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -1174,20 +582,11 @@ nor unless he is sued for such debt while a director or within one year after he
 
 
 ### Meetings of Shareholders
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Annual meeting**
-
-**102** 
-
-- **(1)** An annual meeting of the shareholders of the company shall be held at some date not later than eighteen months after the incorporation of the company and subsequently once at least in every calendar year and not more than fifteen months after the holding of the last preceding annual meeting.
-
-**In case of default**
-
-- **(2)** Where default is made in holding any annual meeting as provided under subsection (1), the court in the province in which the head office of the company is situated may, on the application of any shareholder of the company, call or direct the calling of an annual meeting of the shareholders.
-> R.S., 1952, c. 53, s. 100.
-
+**102** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -1203,12 +602,7 @@ nor unless he is sued for such debt while a director or within one year after he
 
 
 
-
-**Power of court to order meeting to be called**
-
-**106** Where for any reason it is impracticable to call a meeting of shareholders of the company in any manner in which meetings of shareholders may be called, or to conduct the meeting in manner prescribed by the letters patent, supplementary letters patent, the by-laws or this Part, the court in the province in which the head office of the company is situated, may, either of its own motion, or on the application of any director or any shareholder who would be entitled to vote at the meeting, order a meeting to be called, held and conducted in such manner as the court thinks fit and, where any such order is made, may give such ancillary or consequential directions as it thinks expedient; and any meeting called, held and conducted in accordance with any such order shall for all purposes be deemed to be a meeting of shareholders of the company duly called, held and conducted.
-> R.S., 1952, c. 53, s. 104.
-
+**106** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -1258,26 +652,11 @@ nor unless he is sued for such debt while a director or within one year after he
 
 
 ### Books
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Contents of books**
-
-**109** 
-
-- **(1)** The company shall cause a book or books to be kept by the secretary, or some other officer specially charged with that duty, wherein shall be kept recorded
-	- **(a)** a copy of the letters patent, all by-laws of the company and any supplementary letters patent issued to the company and a copy of the memorandum of agreement of the company, if any;
-	- **(b)** the names, alphabetically arranged of all persons who are and have been shareholders of the company;
-	- **(c)** the address and calling of every such person, while such shareholder, as far as can be ascertained;
-	- **(d)** the names, addresses and callings of all persons who are or have been directors of the company, with the several dates at which each became or ceased to be such director;
-	- **(e)** the number of shares of each class held by each shareholder; and
-	- **(f)** the amounts paid in and remaining unpaid, respectively, on the shares of each shareholder.
-
-**Where books are to be kept**
-
-- **(2)** The book or books of the company shall be kept at the head office of the company, except that where the register of transfers and the books in which the particulars mentioned in paragraphs (1)(b), (c), (e) and (f) are recorded are kept by an agent appointed by the company for the purpose of recording the transfer of its shares and who has an established place of business in Canada at which the right of inspection conferred by section 111 can be exercised, such last-mentioned books need not be kept at the head office of the company but may be kept at the place of business of such agent in Canada where the register of transfers is kept.
-> R.S., 1952, c. 53, s. 107; 1967-68, c. 9, s. 4.
-
+**109** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -1289,58 +668,15 @@ nor unless he is sued for such debt while a director or within one year after he
 
 
 
-
-**List of shareholders**
-
-**111.1** 
-
-- **(1)** Any person, upon payment of the costs thereof and upon filing with the company or its transfer agent such declaration as may be prescribed by regulation, is entitled to obtain from a company, other than a private company, or its transfer agent within ten days from the filing of such declaration a list setting out the names of all persons who are shareholders of the company, the number of shares owned by each such person and the address of each such person as shown on the books of the company made up to a date not more than ten days prior to the date of filing the declaration.
-
-**Declaration of company**
-
-- **(2)** Where the applicant is a corporation, the prescribed declaration shall be made by the president or other officer authorized by resolution of the board of directors thereof.
-
-**Offence and punishment**
-
-- **(3)** Every person who, for the purpose of communicating to any shareholders any information relating to any goods, services, publications or securities except securities of the company, and except securities of any other company offered in exchange for the securities of the company pursuant to a take-over bid made pursuant to sections 135.1 to 135.93 or on an amalgamation pursuant to section 137, uses a list of shareholders obtained under this section is guilty of an offence and is liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months or to both and where that person is a corporation, every director or officer of the corporation who knowingly authorized, permitted or acquiesced in the offence is also guilty of an offence and is liable on summary conviction to a like penalty.
-
-**Idem**
-
-- **(4)** Every company or transfer agent that fails to furnish a list in accordance with subsection (1) when so required is guilty of an offence and is liable on summary conviction to a fine not exceeding one thousand dollars and every director or officer of such company or transfer agent who knowingly authorized, permitted or acquiesced in the offence is also guilty of an offence and is liable on summary conviction to a like fine, or to imprisonment for a term not exceeding six months or to both.
-
-**Idem**
-
-- **(5)** Every person who offers for sale, sells, purchases or otherwise traffics in a list or a copy of a list of all or any of the shareholders of a company is guilty of an offence and is liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months or to both, and where that person is a corporation, every director or officer of the corporation who knowingly authorized, permitted or acquiesced in the offence is also guilty of an offence and is liable on summary conviction to a like penalty.
-> R.S., 1970, c. 10(1st Supp.), s. 11.
+**111.1** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Minutes or proceedings**
-
-**112** 
-
-- **(1)** Every company shall cause minutes of all proceedings at meetings of the shareholders and of the directors and of any executive committee to be entered in books kept for that purpose.
-
-**Minutes to be evidence**
-
-- **(2)** Any such minutes if purporting to be signed by the chairman of the meeting at which the proceedings were had, or by the chairman of the next succeeding meeting are evidence of the proceedings.
-
-**Meeting deemed duly called, etc.**
-
-- **(3)** Where minutes, in accordance with this section, have been made of the proceedings of any meeting of the shareholders or of the directors or executive committee, then, until the contrary is proved, the meeting shall be deemed to have been duly called and held and all proceedings had thereat to have been duly had and all appointments of directors, managers or other officers shall be deemed to have been duly made.
-> R.S., 1952, c. 53, s. 110.
+**112** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Neglect to keep books**
-
-**113** Every company that neglects to keep any book or books required by this Part to be kept by the company, is guilty of an offence and liable on summary conviction to a penalty not exceeding twenty dollars for each day that such neglect continues.
-> R.S., 1952, c. 53, s. 111.
-
+**113** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -1348,843 +684,136 @@ nor unless he is sued for such debt while a director or within one year after he
 
 
 
+**114.1** [Repealed, 2009, c. 23, s. 313]
 
-**Investigating ownership of securities**
 
-**114.1** 
 
-- **(1)** Where it appears to the Minister that, for the purposes of sections 100 to 100.6, and sections 135.1 to 135.93, there is reason to inquire into the ownership of any securities of a company, the Minister or his authorized representative may require any person whom the Minister has reasonable cause to believe
-	- **(a)** is interested or has been interested in those securities, or
-	- **(b)** is acting or has acted in relation to those securities as the agent or financial or investment adviser of someone interested therein,
-to give him any information that such person has or can reasonably be expected to obtain as to the present and past interests in those securities and the names and addresses of the persons interested and of any persons who act or have acted on their behalf in relation to the securities.
+**114.2** [Repealed, 2009, c. 23, s. 313]
 
-**Presumption of interest**
 
-- **(2)** For the purposes of subsection (1), a person shall be deemed to have an interest in any securities if he has any right to acquire or dispose of them, or any interest therein, or to vote in respect thereof, or if his consent is necessary for the exercise of any of the rights of other persons interested therein, or if other persons interested therein can be required or are accustomed to exercise their rights in accordance with his instructions.
 
-**Publication or report**
+**114.3** [Repealed, 2009, c. 23, s. 313]
 
-- **(3)** The Minister may
-	- **(a)** forward to such person or persons as he thinks fit a copy of such part of any report made to him that relates to the ownership of any securities of a company and may cause any such report or any part thereof to be published;
-	- **(b)** divulge as he thinks fit any information relating to the ownership of any securities of a company obtained by him as a result of his investigation and may cause any such information to be published; and
-	- **(c)** cause to be published monthly in the periodical referred to in section 100.2, such part of such report as relates to the ownership of any securities of the company.
 
-**Offence and punishment**
 
-- **(4)** Any person who wilfully fails to give any information required of him under this section, or who in giving any such information knowingly makes any statement that is false in a material particular is guilty of an offence and is liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months or to both.
-> R.S., 1970, c. 10(1st Supp.), s. 12.
+**114.4** [Repealed, 2009, c. 23, s. 313]
 
 
 
+**115** [Repealed, 2009, c. 23, s. 313]
 
 
-**Where default occurs**
 
-**114.2** 
-
-- **(1)** Where pursuant to this Act a company or any officer thereof is required to file or deposit with the Department of Consumer and Corporate Affairs any report, return, record, bylaw, statement or other document, or any copy thereof, and the company or officer defaults in doing so, the Minister may
-	- **(a)** cause an inspection to be made of the affairs and management of the company by a person authorized by him in that behalf to determine the reasons for such default, and to report thereon to the Minister, or
-	- **(b)** by notice require any company or any director thereof to make a return upon any subject connected with its default within the time specified in the notice.
-
-**Inspections**
-
-- **(2)** Subject to subsection (2.1), any person (in this section called an “inspector”) authorized pursuant to subsection (1) to carry out an inspection pursuant to this section may at any reasonable time enter the premises of any company in respect of whose affairs and management an inspection has been authorized pursuant to subsection (1) and may examine any thing on the premises and may, for further examination, copy, or have a copy made of, any book or paper, or other document or record that in the opinion of the inspector is relevant to his inspection.
-
-**Authority to issue warrant**
-
-- **(2.1)** Where on *ex parte* application a justice of the peace is satisfied by information on oath that there are reasonable grounds to believe that there is in any premises referred to in subsection (2) any evidence relevant to the matters being investigated under this section, he may issue a warrant under his hand authorizing the inspector named therein to enter those premises and to exercise any of the other powers referred to in subsection (2), subject to such conditions as may be specified in the warrant.
-
-**Use of force**
-
-- **(2.2)** In executing a warrant issued under subsection (2.1), an inspector shall not use force unless he is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
-
-**Where warrant not necessary**
-
-- **(2.3)** An inspector may exercise any of the powers referred to in subsection (2) without a warrant issued under subsection (2.1) if the conditions for obtaining the warrant exist but by reason of exigent circumstances it would not be practical to obtain the warrant.
-
-**Exigent circumstances**
-
-- **(2.4)** For the purposes of subsection (2.3), exigent circumstances include circumstances in which the delay necessary to obtain a warrant under subsection (2.1) would result in danger to human life or safety or the loss or destruction of evidence.
-
-**Duty to give assistance**
-
-- **(2.5)** The person in charge of any premises entered pursuant to this section and all directors, officers, agents and employees of any company investigated pursuant to this section shall give all reasonable assistance to enable an inspector to carry out his inspection.
-
-**Producing authority**
-
-- **(3)** On entering any premises pursuant to this section, an inspector shall, if so requested, produce the authorization of the Minister to the person in charge thereof.
-
-**Offence and punishment**
-
-- **(4)** A person who
-	- **(a)** fails to permit an inspector to enter upon any premises or to make any inspection in pursuance of his duties under this section, or
-	- **(b)** in any manner obstructs an inspector in the execution of his duties under this section,
-is guilty of an offence and is liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months or to both.
-
-**Idem**
-
-- **(5)** Every director and officer of the company who knowingly authorizes or permits a default in making a return required under paragraph (1)(b) is guilty of an offence and is liable on summary conviction to a fine not exceeding fifty dollars for every day during which the default continues.
-> R.S., 1970, c. 10(1st Supp.), s. 12; 1985, c. 26, s. 36.
-
-
-
-
-
-**Compelling evidence**
-
-**114.3** 
-
-- **(1)** No person shall be excused from attending and giving evidence and producing books, papers, documents or records in accordance with section 114.2 on the grounds that the oral evidence or documents required of him may tend to criminate him or subject him to any proceeding or penalty, but no such oral evidence so required shall be used or is receivable against him in any criminal proceedings thereafter instituted against him, other than a prosecution for perjury in giving the evidence.
-
-**Solicitor’s communications**
-
-- **(2)** Nothing in section 114.2 or this section compels the production by a solicitor of a document containing a privileged communication made by or to him in that capacity or authorizes the taking of possession of any document in his possession without the consent of his client or an order of a court.
-> R.S., 1970, c. 10(1st Supp.), s. 12; 1986, c. 26, s. 52.
-
-
-
-
-
-**Expenses of investigations**
-
-**114.4** 
-
-- **(1)** The expenses of, and incidental to, an investigation, inquiry or inspection under section 114, 114.1 or 114.2 shall be defrayed out of moneys provided by Parliament therefor, but the following persons are, to the extent mentioned, liable to pay those expenses as a debt owing to Her Majesty in right of Canada:
-	- **(a)** a person who is convicted on a prosecution arising out of facts disclosed by an investigation under section 114 or who is ordered to restore property or pay damages or compensation in proceedings brought under subsection 114(27) may in the same proceeding be ordered to pay to the Receiver General such expenses to such extent as may be specified in the order;
-	- **(b)** a company in whose name proceedings are brought under subsection 114(27) is liable to Her Majesty in right of Canada for the amount or value of any sums or property recovered by it as a result of those proceedings, and the expenses are a first charge on such sums or property.
-
-**Idem**
-
-- **(2)** For the purposes of this section, any costs or expenses incurred by the Minister in connection with proceedings brought under subsection 114(27) shall be treated as expenses of the investigation giving rise to the proceedings.
-
-**Security for costs**
-
-- **(3)** Upon the recommendation of the Minister, the Commission may require any or all shareholders applying for an investigation to give such security as the Commission deems appropriate for the payment of the costs of the investigation and any resulting inquiry and inspection.
-
-**Order to pay costs**
-
-- **(4)** Upon the termination of the investigation, the Commission may order that any security given pursuant to subsection (3) be returned to the applicant but if the Commission holds that the application was vexatious or malicious it may
-	- **(a)** order the applicant to pay to the Receiver General any or all of the costs of such investigation and any resulting inquiry or inspection,
-	- **(b)** order the applicant to pay to the company any or all of the costs that it has incurred in connection with the investigation and any resulting inquiry or inspection, and
-	- **(c)** order that any security given pursuant to subsection (3) be applied toward the payment of the costs referred to in paragraphs (a) and (b), in that order, and that the residue, if any, of such security not so applied, be returned to the applicant.
-
-**Debt to Her Majesty**
-
-- **(5)** Any costs ordered by the Commission to be paid to the Receiver General pursuant to subsection (4) shall be a debt owing to Her Majesty in right of Canada.
-> R.S., 1970, c. 10(1st Supp.), s. 12; 1986, c. 26, s. 53.
-
-
-
-
-
-**Power to appoint inspectors**
-
-**115** 
-
-- **(1)** A company may by resolution of its shareholders at any annual or special general meeting called for that purpose appoint inspectors to investigate its affairs.
-
-**Powers and duties of inspectors**
-
-- **(2)** Inspectors so appointed have the same powers and duties as inspectors appointed by the Minister, except that, instead of reporting to the Minister, they shall report in such manner and to such persons as the shareholders by resolution may direct.
-
-**Refusing to produce books or answer questions**
-
-- **(3)** Officers and agents of the company shall incur the like penalties in ease of refusal to produce any book or document required to be produced to inspectors so appointed, or to answer any question, as they would have incurred if the inspectors had been appointed by the Minister.
-> R.S., 1952, c. 53, s. 113.
-
-
-
-
-
-**Report of inspectors to be evidence**
-
-**116** A copy of the report of any inspectors appointed under this Act, authenticated by the seal of the company whose affairs they have investigated or by the seal of the Minister, is admissible in any legal proceeding as evidence of the opinion of the inspectors in relation to any matter contained in the report.
-> R.S., 1952, c. 53, s. 114.
-
+**116** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Accounts and Audit
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Books of account and accounting records**
+**117** [Repealed, 2009, c. 23, s. 313]
 
-**117** 
 
-- **(1)** Every company shall cause to be kept proper accounting records with respect to all financial and other transactions of the company, and, without limiting the generality of the foregoing, shall cause records to be kept of
-	- **(a)** all sums of money received and disbursed by the company and the matters in respect of which receipt and disbursement take place;
-	- **(b)** all sales and purchases by the company;
-	- **(c)** all assets and liability of the company; and
-	- **(d)** all other transactions affecting the financial position of the company.
 
-**Records to be kept at head office**
+**118** [Repealed, 2009, c. 23, s. 313]
 
-- **(2)** The accounting records shall be kept at the head office of the company or at such other place in Canada as the directors think fit, and shall at all times be open to inspection by the directors.
 
-**Keeping records at other offices**
 
-- **(3)** In case the operating accounts of the company are kept at some place outside Canada, there shall be kept at the head office of the company such comprehensive records as will enable the directors to ascertain with reasonable accuracy the financial position of the company at the end of each three months period.
-> 1964-65, c. 52, s. 39.
+**118.1** [Repealed, 2009, c. 23, s. 313]
 
 
 
+**119** [Repealed, 2009, c. 23, s. 313]
 
 
-**Information for annual meeting**
 
-**118** 
+**120** [Repealed, 2009, c. 23, s. 313]
 
-- **(1)** The directors shall place before each annual meeting of shareholders
-	- **(a)** a comparative financial statement relating separately to
-		- **(i)** the period that began on the date of incorporation and ended not more than six months before the annual meeting, or, if the company has completed a financial year, the period that began immediately after the end of the last completed financial year and ended not more than six months before the annual meeting, as the case may be, and
-		- **(ii)** the period covered by the financial year next preceding the latest completed financial year, if any,
-which comparative financial statement shall be made up of
-		- **(iii)** an income statement for each a period,
-		- **(iv)** a statement of surplus for each period,
-		- **(v)** a statement of source and application of funds for each period, and
-		- **(vi)** a balance sheet as at the end of each period;
-	- **(b)** the report of the auditor to the shareholders; and
-	- **(c)** such further information respecting the financial position of the company as the charter or by-laws of the company require.
 
-**Designations not necessary**
 
-- **(2)** It is not necessary to designate the statements referred to in subsection (1) as the income statement, statement of surplus, statement of source and application of funds or balance sheet.
+**120.1** [Repealed, 2009, c. 23, s. 313]
 
-**Saving**
 
-- **(3)** Notwithstanding paragraph (1)(a), the financial statement referred to in that paragraph may relate only to the period that ended not more than six months before the annual meeting, if the reason for the omission of the statement in respect of the period covered by the previous financial statement is set out in the financial statement to be laid before such meeting or by way of note thereto.
 
-**Omitting source and application of funds**
+**121** [Repealed, 2009, c. 23, s. 313]
 
-- **(4)** Notwithstanding subparagraph (1)(a)(v), the statement of source and application of funds may be omitted, if the reason for such omission is set out in the financial statement or by way of note thereto.
-> R.S., 1970, c. C-32, s. 118; R.S., 1970, c. 10(1st Supp.), s. 13.
 
 
+**122** [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Exception for small private companies**
+**122.1** [Repealed, 2009, c. 23, s. 313]
 
-**118.1** With the consent in writing of all shareholders given annually a company to which paragraph 128(1)(b) does not apply may, each year, dispense with the requirements of sections 119 to 124 in respect of any particular financial statement referred to in the consent, but the financial statement shall be drawn up so as to present fairly the results of the operations of the company for the period covered by the statement.
-> R.S., 1970, c. 10(1st Supp.), s. 13.
 
 
+**122.2** [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Income statement**
+**123** [Repealed, 2009, c. 23, s. 313]
 
-**119** 
 
-- **(1)** Every income statement to be placed before an annual meeting of shareholders shall be drawn up to present fairly the results of the operations of the company for the period covered by the statement and shall show severally at least
-	- **(a)** the amount of Bales or gross revenue derived from operations;
-	- **(b)** income from investments in subsidiaries whose financial statements are not consolidated with those of the company;
-	- **(c)** income from investments in affiliated companies other than subsidiaries;
-	- **(d)** income from other investments;
-	- **(e)** non-recurring profits and losses of significant amount including profits or losses on the disposal of capital assets and other items of a special nature to the extent that they are not shown separately in the statement of earned surplus;
-	- **(f)** the provision made for depreciation, including obsolescence, and for depletion;
-	- **(g)** amounts written off for goodwill or provided for amortization of any other intangible assets to the extent that they are not shown separately in the statement of earned surplus;
-	- **(h)** interest on indebtedness initially incurred for a term of more than one year, including amortization of debt discount or premium and expense; and
-	- **(i)** taxes on income imposed by any taxing authority;
-and shall show the net profit or loss for the financial period.
 
-**Note on items**
+**124** [Repealed, 2009, c. 23, s. 313]
 
-- **(2)** Notwithstanding subsection (1), an item mentioned in paragraph (f) or (g) of that subsection may be shown by way of a note to the financial statement.
-> R.S., 1970, c. C-32, s. 119; R.S., 1970, c. 10(1st Supp.), s. 13.
 
 
+**125** [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Statement of surplus**
+**126** [Repealed, 2009, c. 23, s. 313]
 
-**120** 
 
-- **(1)** Every statement of surplus to be placed before an annual meeting of shareholders shall be drawn up to present fairly the transactions reflected in the statement and shall show severally a statement of contributed surplus and a statement of earned surplus.
 
-**Contributed surplus**
+**127** [Repealed, 2009, c. 23, s. 313]
 
-- **(2)** Every statement of contributed surplus shall be drawn up to include and show severally at least the following items:
-	- **(a)** the balance of such surplus at the end of the preceding financial period;
-	- **(b)** the additions to and deductions from such surplus during the financial period including
-		- **(i)** the amount of surplus arising from the issue of shares or the reorganization of the company’s issued capital, including *inter alia*,
-			- **(A)** the amount of premiums received on the issue of shares at a premium, and
-			- **(B)** the amount of surplus realized on the purchase for cancellation of shares, and
-		- **(ii)** donations of cash or other property by shareholders; and
-	- **(c)** the balance of the surplus at the end of the financial period.
-
-**Earned surplus**
-
-- **(3)** Every statement of earned surplus shall be drawn up to show severally at least the following items:
-	- **(a)** the balance of such surplus at the end of the preceding financial period;
-	- **(b)** the additions to and deductions from such surplus during the financial period and, without restricting the generality of the foregoing, at least the following:
-		- **(i)** the amount of the net profit or loss for the financial period,
-		- **(ii)** the amount of dividends declared on each class of shares, and
-		- **(iii)** the amount transferred to or from reserves; and
-	- **(c)** the balance of the surplus at the end of the financial period.
-> 1964-65, c. 52, s. 39.
-
-
-
-
-
-**Statement of source and application of funds**
-
-**120.1** Every statement of source and application of funds to be placed before an annual meeting of shareholders shall be drawn up so as to present fairly the information shown therein for the period covered by the statement, and shall show severally at least the following:
-- **(a)** funds derived from,
-	- **(i)** current operations,
-	- **(ii)** sale of non-current assets, segregating investments, fixed assets and intangible assets,
-	- **(iii)** issue of securities or other indebtedness maturing more than one year after issue, and
-	- **(iv)** issue of shares; and
-- **(b)** funds applied to,
-	- **(i)** purchase of non-current assets, segregating investments, fixed assets and intangible assets,
-	- **(ii)** redemption or other retirement of securities or repayment of other indebtedness maturing more than one year after issue,
-	- **(iii)** redemption or other retirement of shares, and
-	- **(iv)** payment of dividends.
-> R.S., 1970, c. 10(1st Supp.), s. 14.
-
 
 
+**128** [Repealed, 2009, c. 23, s. 313]
 
 
-**Balance sheet**
 
-**121** 
+**129** [Repealed, 2009, c. 23, s. 313]
 
-- **(1)** Every balance sheet to be placed before an annual meeting of shareholders shall be drawn up to present fairly the financial position of the company as at the date to which it is made up and to show severally at least the following:
-	- **(a)** cash;
-	- **(b)** debts owing to the company from each of the following, namely, its directors, companies in which those directors hold collectively a majority interest, its officers and its shareholders except debts of reasonable amount arising in the ordinary course of the business of the company that are not overdue having regard to the ordinary terms of credit of the company;
-	- **(c)** debts owing to the company, whether on account of a loan or otherwise, from subsidiaries whose financial statements are not consolidated with those of the company;
-	- **(d)** debts owing to the company, whether on account of a loan or otherwise, from affiliated companies other than subsidiaries;
-	- **(e)** other debts owing to the company segregating those that arose otherwise than in the ordinary course of the company’s business;
-	- **(f)** inventory, stating the basis of valuation;
-	- **(g)** shares, bonds, debentures and other like investments owned by the company, except those mentioned in paragraphs (h) and (i), stating their nature and cost and the basis of valuation thereof and showing separately such as are marketable with a notation of their market value;
-	- **(h)** shares or securities of subsidiaries whose financial statements are not consolidated with those of the company, stating the cost and basis of valuation;
-	- **(i)** shares or securities of affiliated companies other than subsidiaries, stating their cost and basis of valuation;
-	- **(j)** lands, buildings, and plant and equipment, stating
-		- **(i)** the basis of valuation, whether cost or otherwise, and, if valued on the basis of an appraisal made since the date preceding by five years the date of the balance sheet, the date of appraisal, the name of the appraiser, the basis of the appraisal value and the disposition in the accounts of the company of any amounts added to or deducted from such assets on appraisal, and
-		- **(ii)** the amount or amounts accumulated in respect of depreciation, including obsolescence, and separately in respect of depletion;
-	- **(k)** under separate headings, in so far as they are not written off,
-		- **(i)** expenditures on account of future business,
-		- **(ii)** expenses incurred in connection with any issue of shares,
-		- **(iii)** expenses incurred in connection with any issue of securities, including any discount thereon, and
-		- **(iv)** any one or more of the following, namely:
-			- **(A)** goodwill,
-			- **(B)** franchises,
-			- **(C)** patents and certificates of supplementary protection issued under the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md),
-			- **(D)** copyrights,
-			- **(E)** trade marks, and
-			- **(F)** other intangible assets,stating the basis of valuation and the amount, if any, by which the value of any such assets has been written up since the date preceding by five years the date of the balance sheet;
-	- **(l)** the aggregate amount of any outstanding loans under paragraphs 17(2)(c), (d) and (e);
-	- **(m)** bank loans and overdrafts;
-	- **(n)** debts owing by the company on loans, from its directors, officers or shareholders;
-	- **(o)** debts owing by the company to subsidiaries whose financial statements are not consolidated with those of the company, whether on account of a loan or otherwise;
-	- **(p)** debts owing by the company to affiliated companies other than subsidiaries whether on account of a loan or otherwise;
-	- **(q)** other debts owing by the company, segregating those that arose otherwise than in the ordinary course of the company’s business;
-	- **(r)** liability for taxes, including the estimated liability for taxes in respect of the income of the period covered by the statement of profit and loss;
-	- **(s)** dividends declared but not paid;
-	- **(t)** deferred income;
-	- **(u)** securities issued by the company, stating the interest rate, the maturity date, the amount outstanding and the existence of sinking fund, redemption requirements and conversion rights, if any;
-	- **(v)** the authorized capital, giving the number of each class of shares and a brief description of each such class, and indicating therein any class of shares that is redeemable and the redemption price thereof, and indicating separately any class of shares that is redeemable out of capital;
-	- **(w)** the issued capital, giving the number of shares of each class issued and outstanding and the amount received therefor that is attributable to capital, and showing,
-		- **(i)** the number of shares of each class issued since the date of the last balance sheet and the value attributed thereto, distinguishing shares issued for cash, shares issued, directly or indirectly, for services and shares issued, directly or indirectly, for other consideration, and
-		- **(ii)** where any shares have not been fully paid,
-			- **(A)** the number of shares in respect of which calls have not been made and the aggregate amount that has not been called, and
-			- **(B)** the number of shares in respect of which calls have been made and not paid and the aggregate amount that has been called and not paid;
-	- **(x)** contributed surplus;
-	- **(y)** earned surplus; and
-	- **(z)** reserves, showing the amounts added thereto and the amounts deducted therefrom during the financial period.
 
-**Explanatory information**
 
-- **(2)** Explanatory information or particulars of any item mentioned in subsection (1) may be shown by way of a note to the financial statement.
-> R.S., 1970, c. C-32, s. 121; R.S., 1970, c. 10(1st Supp.), s. 15; 2017, c. 6, s. 120.
+**129.1** [Repealed, 2009, c. 23, s. 313]
 
 
 
+**129.2** [Repealed, 2009, c. 23, s. 313]
 
 
-**Note to financial statement**
 
-**122** 
+**129.3** [Repealed, 2009, c. 23, s. 313]
 
-- **(1)** There shall be stated by way of a note to each financial statement
-	- **(a)** particulars of any change in accounting principle or practice or in the method of applying any accounting principle or practice that was made during the period covered and that materially affects the comparison between the statement with that for the immediately preceding period; and
-	- **(b)** the effect, if material, of any such change upon the profit and loss for the period.
 
-**Change of accounting principle or practice**
 
-- **(2)** For the purpose of subsection (1), a change in accounting principle or practice or in the method of applying any accounting principle or practice affects the comparability of a statement with that for the preceding year, even though it does not have a material effect upon the profit or loss for the period.
+**130** [Repealed, 2009, c. 23, s. 313]
 
-**Additional information**
 
-- **(3)** Where applicable the following matters shall be referred to in the financial statement or by way of a note thereto:
-	- **(a)** the basis of conversion of amounts from currencies other than the currency in which the financial statement is expressed;
-	- **(b)** foreign currency restrictions that affect the assets of the company;
-	- **(c)** contractual obligations that will require abnormal expenditures in relation to the company’s normal business requirements or financial position or that are likely to involve losses not provided for in the accounts;
-	- **(d)** material contractual obligations in respect of long-term leases, including, in the year in which the transaction was effected, the principal details of any sale and lease transaction;
-	- **(e)** contingent liabilities, stating their nature and, where practicable, the approximate amounts involved;
-	- **(f)** any liability secured otherwise than by operation of law on any asset of the company, stating the liability so secured, but not necessarily specifying the asset on which the liability is secured;
-	- **(g)** any default of the company in principal, interest, sinking fund or redemption provisions with respect to any issue of its securities or credit agreements;
-	- **(h)** the gross amount of arrears of dividends on any class of shares and the date to which those dividends were last paid;
-	- **(i)** where a company has contracted to issue shares or has given an option to purchase shares, the class and number of shares affected, the price and the date for issue of the shares or exercise of the option and, shown separately, the total number of shares optioned to the directors and officers;
-	- **(j)** [Repealed, R.S., 1970, c. 10(1st Supp.), s. 16]
-	- **(k)** in the case of a holding company, the aggregate of any shares, and the aggregate of any securities, of the holding company held by subsidiary companies whose financial statements are not consolidated with that of the holding company;
-	- **(l)** the amount of any loans by the company, or by a subsidiary company, otherwise than in the ordinary course of business, during the financial period of the company, to the directors or officers of the company;
-	- **(m)** any restriction by the charter or by-laws of the company or by contract on the payment of dividends that is significant having regard to the financial position of the company; and
-	- **(n)** any event or transaction other than one in the normal course of business operations, between the date to which the financial statement is made up and the date of the auditor’s report thereon, that materially affects the financial statement;
-	- **(o)** the amount of any obligation for pension benefits arising from service prior to the date of the balance sheet remaining to be charged against operations and the basis on which the company proposes to charge the related costs against operations.
 
-**Note part of financial statement**
+**131** [Repealed, 2009, c. 23, s. 313]
 
-- **(4)** Every note to a financial statement is a part of it.
-> R.S., 1970, c. C-32, s. 122; R.S., 1970, c. 10(1st Supp.), s. 16.
 
 
+**132** [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Note of other business**
-
-**122.1** 
-
-- **(1)** Where a company has, in the course of a financial period, carried on business of two or more classes that, in the opinion of its directors, differ substantially from each other and the company is not one that has any subsidiaries at the end of that financial period, or if it has one or more subsidiaries, does not prepare its financial statement in consolidated form in respect of any subsidiary, there shall be stated by way of a note to each financial statement of the company a statement of the proportions in which the amount of sales or gross revenue for that period, so far as stated in the financial statement in respect of that period, is divided among those classes of business.
-
-**Idem**
-
-- **(2)** Where a company has one or more subsidiaries at the end of its financial period and prepares its financial statement in consolidated form with respect to any of the subsidiaries, if the company and any of the subsidiaries carried on between them in the course of the period business of two or more classes that, in the opinion of the directors of the company, differ substantially from each other, there shall be stated by way of a note to each financial statement of the company a statement of the proportions in which the amount of sales or gross revenue for that period, so far as stated in the financial statement in respect of that period, is divided among those classes of business.
-
-**Classes of business**
-
-- **(3)** For the purposes of this section, classes of business that, in the opinion of the directors, do not differ substantially from each other shall be treated as one class.
-
-**Exception to report**
-
-- **(4)** Notwithstanding subsections (1) and (2), a company need only report in respect of a class of business that contributes ten per cent or more of the total gross revenue of the company.
-> R.S., 1970, c. 10(1st Supp.), s. 17.
-
-
-
-
-
-**Information re directors and officers**
-
-**122.2** 
-
-- **(1)** There shall be stated in each financial statement or in a note thereto
-	- **(a)** the number of directors and their aggregate remuneration as directors;
-	- **(b)** the number of officers and their aggregate remuneration as officers; and
-	- **(c)** the number of officers who are also directors.
-
-**What constitutes remuneration**
-
-- **(2)** For the purposes of this section, the remuneration of a director or an officer includes any remuneration paid to, conferred on, or receivable by him from the company and “remuneration” includes fees, salaries, bonuses, non-accountable expense allowances, contributions paid under any special pension scheme, not generally available to employees of the company, the estimated value of benefits of any kind, and amounts payable by way of compensation for the loss of office as an officer or director.
-
-**“Director” and “officer”**
-
-- **(3)** For the purposes of this section, “director” includes a past director, and “officer” includes a past officer, in receipt of any remuneration from the company.
-
-**Period of remuneration**
-
-- **(4)** The amounts to be shown under this section for any financial period shall be the sums receivable in respect of that period whenever paid or, in the case of sums not receivable in respect of that period, the sums paid during that period.
-
-**Holding companies**
-
-- **(5)** Where the company reporting under this section is a holding company, the information required under subsection (1) for any financial period shall be shown separately for the holding company and each of its subsidiary companies whether or not the financial statement is a consolidated financial statement.
-> R.S., 1970, c. 10(1st Supp.), s. 17.
-
-
-
-
-
-**Consolidated financial statement of holding company**
-
-**123** 
-
-- **(1)** Any company, in this section referred to as “the holding company”, may include in the financial statement to be placed before an annual meeting of shareholders the assets and liabilities and income and expenses of any one or more of its subsidiaries, making due provision for minority interests, if any, and indicating in the financial statement that it is presented in consolidated form.
-
-**Information required in financial statement not consolidated**
-
-- **(2)** Where the assets, liabilities, income and expenses of any one or more subsidiaries of the holding company are not so included in the financial statement of the holding company,
-	- **(a)** the financial statement of the holding company shall include a statement setting forth
-		- **(i)** the reason why the assets and liabilities and income and expenses of the subsidiary or subsidiaries are not included in the financial statement of the holding company,
-		- **(ii)** if there is only one subsidiary, the amount of the holding company’s proportion of the profit or loss of the subsidiary for the financial period coinciding with or ending in the financial period of the holding company, or, if there is more than one subsidiary, the amount of the holding company’s proportion of the aggregate profits less losses, or losses less profits, of all the subsidiaries for the respective financial periods coinciding with or ending in the financial period of the holding company,
-		- **(iii)** the amount included as income from the subsidiary or subsidiaries in the statement of profit and loss of the holding company and the amount included therein as a provision for the loss or losses of the subsidiary or subsidiaries,
-		- **(iv)** if there is only one subsidiary, the amount of the holding company’s proportion of the undistributed profits of the subsidiary earned since the acquisition of the shares of the subsidiary by the holding company to the extent that that amount has not been taken into the accounts of the holding company, or if there is more than one subsidiary, the amount of the holding company’s proportion of the aggregate undistributed profits of all subsidiaries earned since the acquisition of their shares by the holding company less its proportion of the losses, if any, suffered by any subsidiary since the acquisition of its shares to the extent that that amount has not been taken into the accounts of the holding company, and
-		- **(v)** any qualifications contained in the report of the auditor of any subsidiary on its financial statement for the financial period to which the report relates, and any note or reference contained in that financial statement to call attention to a matter that, apart from the note or reference, would properly have been referred to in such a qualification, in so far as the matter that is the subject of the qualification or note is not provided for by the company’s own financial statement and is material from the point of view of its shareholders;
-	- **(b)** if for any reason the directors of the holding company are unable to obtain such information as is necessary for the preparation of the statement that is to be included in the financial statement of the holding company, the directors who sign the financial statement shall so report in writing, and their report shall be included in the financial statement in lieu of the statement;
-	- **(c)** copies of the latest financial statement of the subsidiary or subsidiaries shall be kept on hand by the holding company at its head office and shall be open to inspection by the shareholders of the holding company on request during the normal business hours of the holding company.
-
-**Order to bar inspection**
-
-- **(3)** A holding company may, within fifteen days of a request for an inspection under paragraph (2)(c), apply to the chief justice or acting chief justice of the court of the province in which the head office of the company is situated, or a judge of such court designated by either of them, for an order barring the right of inspection referred to in paragraph (2)(c) and the judge may, upon such terms and conditions as he may impose, refuse such inspection where he is satisfied that the inspection would be detrimental to the interests of the holding company or the subsidiary or subsidiaries.
-
-**Notice to Minister**
-
-- **(4)** A holding company shall give the Minister not less than ten days notice of any application under subsection (3) and the Minister is entitled to appear by counsel and to be heard thereon.
-
-**Appeal**
-
-- **(5)** An interested person may appeal to the appellate court of the province in which the head office of the company is situated from any order made under subsection (3).
-> R.S., 1970, c. C-32, s. 123; R.S., 1970, c. 10(1st Supp.), s. 18.
-
-
-
-
-
-**Insignificant matter**
-
-**124** Notwithstanding sections 119 to 123, it is not necessary to state in a financial statement any matter that in all the circumstances is of relative insignificance.
-> 1964-65, c. 52, s. 39.
-
-
-
-
-
-**Subsidiary company**
-
-**125** 
-
-- **(1)** For the purposes of this Act, a company is a subsidiary of another company only if,
-	- **(a)** it is controlled by
-		- **(i)** that other, or
-		- **(ii)** that other and one or more companies each of which is controlled by that other, or
-		- **(iii)** two or more companies each of which is controlled by that other; or
-	- **(b)** it is a subsidiary of a subsidiary of that other company.
-
-**Holding company**
-
-- **(2)** For the purposes of this Act, a company is the holding company of another only if that other is its subsidiary.
-
-**Affiliated companies**
-
-- **(3)** For the purposes of this Act,
-	- **(a)** one company is affiliated with another company only if one of them is the subsidiary of the other or both are subsidiaries of the same company or each of them is controlled by the same person; and
-	- **(b)** when two companies are affiliated, or are deemed by this section to be affiliated, with the same company at the same time, they shall be deemed to be affiliated with each other.
-
-**Controlled company**
-
-- **(4)** For the purposes of this section, a company is controlled by another company or person or by two or more companies only if
-	- **(a)** shares of the first-mentioned company carrying more than fifty per cent of the votes for the election of directors are held, otherwise than by way of security only, by or for the benefit of that other company or person or by or for the benefit of those other companies; and
-	- **(b)** the votes carried by such shares are sufficient, if exercised, to elect a majority of the board of directors of the first mentioned company.
-> R.S., 1970, c. C-32, s. 125; R.S., 1970, c. 10(1st Supp.), s. 19.
-
-
-
-
-
-**“Reserve”**
-
-**126** In a financial statement, the term “reserve” shall be used to describe only
-- **(a)** amounts appropriated from earned surplus at the discretion of management for a purpose other than to meet a liability, contingency or commitment known, admitted or made as at the statement date or a decline in value of an asset that has occurred;
-- **(b)** amounts appropriated from earned surplus pursuant to the charter or by-laws of the company for a purpose other than to meet a liability, contingency or commitment known, admitted or made as at the statement date or a decline in value of an asset that has occurred; and
-- **(c)** amounts that are appropriated from earned surplus in accordance with the terms of a contract and that can be restored to the earned surplus when the conditions of the contract are fulfilled.
-> 1964-65, c. 52, s. 39.
-
-
-
-
-
-**Approval of financial statement**
-
-**127** 
-
-- **(1)** The financial statement shall be approved by the board of directors, and the approval shall be evidenced at the foot of the balance sheet by the signature of two of the directors duly authorized to sign.
-
-**Auditor’s report to be attached**
-
-- **(2)** The auditor’s report shall be attached to the financial statement and shall be read at the annual meeting of shareholders and shall be open to inspection by any shareholder.
-
-**Offence**
-
-- **(3)** A company is guilty of an offence that issues, circulates or publishes a copy of the financial statement
-	- **(a)** the original of which has not been approved by its board of directors;
-	- **(b)** without having the balance sheet signed by two directors; or
-	- **(c)** without accompanying the statement with the auditor’s report.
-> 1964-65, c. 52, s. 39.
-
-
-
-
-
-**Sending out financial statements**
-
-**128** 
-
-- **(1)** Fourteen days or more before the date of the annual meeting thereof,
-	- **(a)** every company shall send by prepaid post a copy of the financial statement and a copy of the auditor’s report to each shareholder at his latest address as shown on the books of the company, except those shareholders who have informed the company in writing that they do not wish to receive a copy of those documents, and
-	- **(b)** every company to which this paragraph applies shall file a copy of such documents with the Department of Consumer and Corporate Affairs together with proof in such form as may be satisfactory to the Minister of due compliance with the provisions of paragraph (a).
-
-**Statements required by security holder**
-
-- **(2)** Every company shall, upon demand being made therefor by any holder of securities of the company, furnish him without charge therefor with a copy of the documents mentioned in subsection (1) that have most recently been made available to the shareholders prior to such demand.
-
-**Application of paragraph 128(1)(b)**
-
-- **(3)** Paragraph (1)(b) applies to
-	- **(a)** a public company, and
-	- **(b)** a private company whose gross revenue exceeds ten million dollars in any period, ending in or after the year in which this section comes into force, in respect of which a financial statement is required by this Act to be prepared, or whose total assets on the last day of any such period exceeds five million dollars,
-but does not apply to a private company that is a personal corporation within the meaning of section 76 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in the whole of the year in respect of which a financial statement is required by this Act.
-
-**Interpretation**
-
-- **(4)** For the purposes of paragraph (3)(b), the gross revenues and total assets of any other company with which a private company mentioned in the said paragraph (b) is affiliated within the meaning of section 125 shall be included in the gross revenue and the total assets of that private company, unless the financial statements of the private company and its affiliates, if any, are consolidated with those of a holding company that files such consolidated financial statements in accordance with paragraph (1)(b).
-
-**Exception**
-
-- **(5)** Where a private company would, but for this subsection, be affiliated with any other company by reason of being controlled by the same person (which person is hereinafter referred to in this subsection as the “controller”), and it is established to the satisfaction of the Minister that
-	- **(a)** there is in effect an agreement or arrangement enforceable according to the terms thereof, under which, upon the satisfaction of a condition or the happening of an event that it is reasonable to expect will be satisfied or will happen, the private company will
-		- **(i)** cease to be controlled by the controller, and
-		- **(ii)** become controlled by a person or group of persons, with whom or with each of the members of which, as the case may be, the controller is dealing at arm’s length, and
-	- **(b)** the chief purpose for which the private company is so controlled is the safeguarding of rights or interests of the controller in respect of
-		- **(i)** any loan made by the controller, the whole or any part of the principal amount of which is outstanding, or
-		- **(ii)** any shares of the capital stock of the private company that are owned by the controller and that are, under the agreement or arrangement, to be redeemed by the private company or purchased by the person or group of persons referred to in subparagraph (a)(ii),
-the private company and the other company with which it would otherwise be so affiliated shall be deemed, for the purpose of this section, not to be affiliated with each other so long as the circumstances described in paragraphs (a) and (b) remain unaltered or until the Minister otherwise prescribes by order, whichever event first occurs.
-> R.S., 1970, c. C-32, s. 128; R.S., 1970, c. 10(1st Supp.), s. 20; 1970-71-72, c. 43, s. 3.
-
-
-
-
-
-**Inspection**
-
-**129** 
-
-- **(1)** On payment of the fees prescribed therefor by the regulations, any person may inspect any documents required by this Act to be filed with the Department of Consumer and Corporate Affairs.
-
-**Copies**
-
-- **(2)** On payment of the fees prescribed therefor by the regulations, the Minister shall, on request, supply a copy of or extract from any document described in subsection (1).
-> R.S., 1970, c. C-32, s. 129; R.S., 1970, c. 10(1st Supp.), s. 20.
-
-
-
-
-
-**Offence and punishment**
-
-**129.1** 
-
-- **(1)** A company that has failed to file a copy of its financial statement as required by paragraph 128(1)(b) is guilty of an offence and is liable on summary conviction to a fine of not less than one hundred dollars and not more than five hundred dollars for each day during which the default continues; and every director or officer who knowingly authorized, permitted or acquiesced in any such default is also guilty of an offence and is liable on summary conviction to a like fine.
-
-**Idem**
-
-- **(2)** A company that fails to comply with section 127 or paragraph 128(1)(a) or subsection 128(2) is guilty of an offence and is liable on summary conviction to a fine of not less than five hundred dollars and not more than two thousand dollars and every director or officer of the company who knowingly authorized, permitted or acquiesced in any such failure is also guilty of an offence and is liable on summary conviction to a like fine.
-> R.S., 1970, c. 10(1st Supp.), s. 20.
-
-
-
-
-
-**Saving**
-
-**129.2** Sections 102, 118, 127, 128, 129.1 and 150 do not apply to
-- **(a)** a company for which a receiver and manager has been appointed by a court of competent jurisdiction,
-- **(b)** a company for which a liquidator has been appointed under the Winding-up Act by a court of competent jurisdiction, or
-- **(c)** a company in respect of which a bankruptcy order has been made or an assignment has been filed under the Bankruptcy and Insolvency Act;
-while the company is under the control of any receiver and manager, liquidator or trustee in bankruptcy.
-> R.S., 1970, c. 10(1st Supp.), s. 20; 2004, c. 25, s. 190.
-
-
-
-
-
-**Order to exempt**
-
-**129.3** 
-
-- **(1)** A company may apply to the chief justice or acting chief justice of the court in the province in which the head office of the company is situated, or a judge of such court designated by either of them, for an order
-	- **(a)** permitting the amount of the sales or gross revenue referred to in paragraph 119(1)(a) to be omitted from the income statement,
-	- **(b)** permitting the information referred to in section 122.1 to be omitted from the financial statement of a company, or
-	- **(c)** exempting, in whole or in part, a private company that is subject to the provisions of paragraph 128(3)(b) from the application of paragraph 128(1)(b).
-
-**Power of judge**
-
-- **(2)** The judge may, upon such terms and conditions as he may impose, permit such omission or grant such exemption, in whole or in part, when he is satisfied that the disclosure of the information required by any of the provisions referred to in paragraphs (1)(a), (b) or (c) would be seriously and unfairly detrimental to the interests of the company, but, in so deciding, the judge shall have regard to the interest of the public in having disclosure of the information.
-
-**Notice to Minister**
-
-- **(3)** A company shall give the Minister not less than ten days notice of any application under subsection (1) and the Minister is entitled to appear by counsel and to be heard thereon.
-
-**Appeal**
-
-- **(4)** An interested person may appeal to the appellate court of the province in which the head office of the company is situated from any order made under subsection (1).
-> R.S., 1970, c. 10(1st Supp.), s. 20.
-
-
-
-
-
-**Appointment of auditor at first general meeting**
-
-**130** 
-
-- **(1)** The shareholders of a company at their first general meeting shall appoint one or more auditors to hold office until the close of the next annual meeting, and, if the shareholders fail to do so, the directors shall forthwith make such appointment or appointments.
-
-**Annual appointment of auditor**
-
-- **(2)** The shareholders of a company at each annual meeting shall appoint one or more auditors to hold office until the close of the next annual meeting, and, if an appointment is not so made, the auditor in office continues in office until a successor is appointed.
-
-**Notice of intention to nominate auditor**
-
-- **(3)** A person, other than a retiring auditor, is not capable of being appointed auditor at an annual meeting unless notice in writing of an intention to nominate that person to the office of auditor has been given by a shareholder of the company not less than fourteen days before the annual meeting; and the company shall send a copy of any such notice to the retiring auditor and to the person it is intended to nominate, and shall give notice thereof to the shareholders, either by advertisement or in any other mode provided by the by-laws of the company, not less than seven days before the annual meeting.
-
-**Vacancy**
-
-- **(4)** The directors may fill any casual vacancy in the office of auditor, but while the vacancy continues the surviving or continuing auditor, if any, may act.
-
-**Removal of auditor**
-
-- **(5)** The shareholders, by a resolution passed by at least two-thirds of the votes cast at a general meeting of which notice specifying the intention to pass such resolution was given, may remove any auditor before the expiration of his term of office, and shall by a majority of the votes cast at that meeting appoint another auditor in his stead for the remainder of his term.
-
-**Remuneration**
-
-- **(6)** The remuneration of an auditor appointed by the shareholders shall be fixed by the shareholders or by the directors, if they are authorized to do so by the shareholders, and the remuneration of an auditor appointed by the directors shall be fixed by the directors.
-
-**Appointment by Minister**
-
-- **(7)** Where for any reason no auditor is appointed, the Minister may, on the application of any shareholder, appoint one or more auditors to hold office until the close of the next annual meeting and fix the remuneration to be paid by the company for his or their services.
-
-**Notice of appointment**
-
-- **(8)** When an auditor is appointed under this section, the company shall give him notice thereof forthwith in writing unless he held that office immediately prior to his appointment.
-> 1964-65, c. 52, s. 39.
-
-
-
-
-
-**Disqualification for appointment**
-
-**131** 
-
-- **(1)** Except as provided in subsection (2), no person shall be appointed as auditor of a company who is a director, officer or employee of that company or an affiliated company or who is a partner, employer or employee of any such director, officer or employee.
-
-**Private company exception**
-
-- **(2)** Upon the unanimous vote of the shareholders of a private company, present or represented at the meeting at which the auditor is appointed, a director, officer or employee of that company or an affiliated company, or a partner, employer or employee of that director, officer or employee may be appointed as auditor of that company.
-
-**Non-application of subsection (2)**
-
-- **(2.1)** Subsection (2) does not apply if the company is a company to which paragraph 128(1)(b) applies, or if the company is a subsidiary of a company incorporated in any jurisdiction in Canada that is not a private company within the meaning of this Act.
-
-**Statement of auditor’s position**
-
-- **(3)** A person appointed as auditor under subsection (2) shall indicate in his report to the shareholders on the annual financial statement of the company that he is a director, officer or employee of the company or an affiliated company or a partner, employer or employee of the director, officer or employee.
-> R.S., 1970, c. C-32, s. 131; R.S., 1970, c. 10(1st Supp.), s. 21.
-
-
-
-
-
-**Annual audit**
-
-**132** 
-
-- **(1)** The auditor shall make such examination as will enable him to report to the shareholders as required under subsection (2).
-
-**Auditor’s report**
-
-- **(2)** The auditor shall make a report to the shareholders on the financial statement, other than the part thereof that relates to the period referred to in subparagraph 118(1)(a)(ii), to be laid before the company at any annual meeting during his term of office and shall state in his report whether in his opinion the financial statement referred to therein presents fairly the financial position of the company and the results of its operations for the period under review in accordance with generally accepted accounting principle applied on a basis consistent with that of the preceding period.
-
-**Where statement required**
-
-- **(3)** The auditor in his report shall make such statements as he considers necessary in any case where
-	- **(a)** the financial statement of the company is not in agreement with the accounting records;
-	- **(b)** the financial statement of the company is not in accordance with the requirements of this Act;
-	- **(c)** he has not received all the information and explanation that he has required; or
-	- **(d)** proper accounting records have not been kept, so far as appears from his examination.
-
-**Right of access to records**
-
-- **(4)** The auditor of a company shall have access at all times to all records, documents, books, accounts and vouchers of the company, and is entitled to require from the directors and officers of the company
-	- **(a)** such information and explanations,
-	- **(b)** such access to all records, documents, books, accounts and vouchers of any subsidiary company, and
-	- **(c)** such information and explanations from the directors and officers of any subsidiary company,
-as in his opinion may be necessary to enable him to report as required by subsection (2).
-
-**Right to attend meetings**
-
-- **(5)** The auditor of a company is entitled to attend any meeting of shareholders of the company and to receive all notices and other communications relating to any such meeting that any shareholder is entitled to receive, unless waived by such auditor, and to be heard at any such meeting that he attends on any part of the business of the meeting that concerns him as auditor.
-
-**Required attendance of auditor**
-
-- **(6)** A company, upon receipt, not less than seven days before a meeting of shareholders, of a written application of shareholders holding not less than ten per cent of the issued shares of the company that the auditor of the company be requested to attend the meeting, shall forthwith in writing request the auditor to attend that meeting of shareholders, and the auditor or his representative shall so attend.
-> R.S., 1970, c. C-32, s. 132; R.S., 1970, c. 10(1st Supp.), s. 22.
-
-
-
-
-
-**Annual returns**
-
-**133** 
-
-- **(1)** Every company shall, on or before the 1st day of June in every year, make a summary as of the 31st day of March preceding, specifying the following particulars:
-	- **(a)** the corporate name of the company;
-	- **(b)** the manner in which the company is incorporated and the date of incorporation;
-	- **(c)** the complete postal address of the head office of the company;
-	- **(d)** the date upon which and the place where the last annual meeting of the shareholders of the company was held;
-	- **(e)** the names and complete postal addresses of the persons who at the date of the return are the directors of the company; and
-	- **(f)** the name and complete postal address of the auditor of the company.
-
-**Summary to be filed, signed and certified**
-
-- **(2)** The summary mentioned in subsection (1) shall be completed and filed in duplicate in the Department on or before the 1st day of June aforesaid, and each of the duplicates shall be signed and certified by a director or an officer of the company.
-
-**Defaults**
-
-- **(3)** A company that makes default in complying with any requirement of this section is guilty of an offence and is liable on summary conviction to a fine of not less than twenty dollars and not more than one hundred dollars for each day during which the default continues; and every director or officer who knowingly authorized, permitted or acquiesced in any such default is guilty of an offence and is liable on summary conviction to a like fine.
-
-**Duplicate of summary**
-
-- **(4)** The Minister, or an official of the Department designated for that purpose, shall endorse upon one duplicate of the above summary the date of the receipt thereof at the Department and shall return the duplicate summary to the company and it shall be retained at the head office of the company available for perusal of, and for the purpose of making copies thereof or extracts therefrom by, any shareholder or creditor of the company.
-
-**Proof of endorsement**
-
-- **(5)** The duplicate of the said summary endorsed as required under subsection (4) is evidence that the summary was filed in the Department pursuant to this section on any prosecution under this section and the written or stamped signature of an official of the Department to the endorsement of the said duplicate shall be deemed *prima facie* proof that the said official has been designated to affix his signature thereto.
-
-**Proof of failure to file summary**
-
-- **(6)** A certificate under the hand and seal of office of the Minister that the aforesaid summary in duplicate was not filed in the Department by a company pursuant to this section is evidence on a prosecution under this section that such summary was not filed in the Department.
-
-**Companies exempt**
-
-- **(7)** Companies incorporated after the 1st day of March in any year are not subject to the provisions of this section until the 31st day of March of the following year.
-
-**Where default exists**
-
-- **(8)** Where a summary in respect of an earlier year has not been filed with the Department or where the annual fees are in default, the summary required under subsection (1) may not be filed until the summary in respect of the earlier year has been filed or until the annual fee has been paid, as the case may be.
-
-**Failure to file for two consecutive years**
-
-- **(9)** Where a company has for two consecutive years failed to file in the Department the summary required under subsection (1), the Minister may, notwithstanding paragraph 150(1)(c), give notice to the company that an order dissolving the company will be issued unless within one year after the publication of the notice in the Canada Gazette the company files a summary in respect of those two years.
-
-**Publication of notice**
-
-- **(10)** The notice under subsection (9) shall be given by registered mail to the company or by publication of the notice in the Canada Gazette.
-
-**Dissolution of company**
-
-- **(11)** One year after the publication of notice in the Canada Gazette, if the company has not filed a summary for the two years in respect of which it was in default, the Minister may, by order published in the Canada Gazette, declare the company dissolved, and thereupon the company is dissolved, and section 33 applies *mutatis mutandis* thereto.
-
-**“Winding-up”**
-
-- **(11.1)** For the purpose of distributing the assets of a company dissolved by order under subsection (11) among shareholders or creditors, the affairs of the company may be wound up under the Winding-up Act, upon an application to a court of competent jurisdiction, by a director, shareholder or creditor of the company or the Attorney General of Canada, for an order winding up the company under that Act, as a company described in paragraph 10(a) of that Act.
-
-**Notice of winding-up or bankruptcy**
-
-- **(12)** Where a company is being wound up or where a company is being administered by a trustee in bankruptcy, the liquidator or trustee, as the case may be, shall annually, without fee therefor, give notice of the winding-up or bankruptcy to the Department in lieu of the summary required under subsection (1).
-> R.S., 1970, c. C-32, s. 133; R.S., 1970, c. 10(1st Supp.), s. 23.
-
+**133** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Arrangements and Compromises
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **134** [Repealed, 2009, c. 23, s. 313]
@@ -2253,300 +882,124 @@ as in his opinion may be necessary to enable him to report as required by subsec
 
 
 ### Evidence
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Books to be evidence**
-
-**138** 
-
-- **(1)** All books required by this Part to be kept by the company are, in any action, suit or proceeding against the company or against any shareholder, evidence of all facts purporting to be thereby stated.
-
-**Section 112 not affected**
-
-- **(2)** Nothing in this section limits the meaning or effect of section 112.
-> R.S., 1952, c. 53, s. 129.
+**138** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Proof of service by letter**
-
-**139** Proof that any letter properly addressed containing any notice or other document permitted by this Part to be served by post was properly addressed and was put into a post office with postage prepaid, and of the time when it was so put in, and of the time requisite for its delivery in the ordinary course of post, is sufficient evidence of the fact and time of service.
-> R.S., 1952, c. 53, s. 130.
+**139** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Evidence of by-laws**
-
-**140** A copy of any by-law of the company under its seal and purporting to be signed by any officer of the company shall, as against any shareholder of the company, be received in evidence as *prima facie* proof of such by-law in all courts in Canada.
-> R.S., 1952, c. 53, s. 131.
+**140** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Proof of incorporation**
-
-**141** In any action or other legal proceeding, the notice in the Canada Gazette of the issue of letters patent or supplementary letters patent under this Part is *prima facie* proof of all things therein contained, and on production of such letters patent or supplementary letters patent or of any exemplification or copy thereof certified by the Registrar General of Canada, the fact of such notice and publication shall be presumed.
-> R.S., 1952, c. 53, s. 132.
+**141** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Proof of matters set forth in letters patent**
-
-**142** Except in any proceeding by *scire facias* or otherwise for the purpose of rescinding or annulling letters patent or supplementary letters patent issued under this Part, such letters patent or supplementary letters patent, or any exemplification or copy thereof certified by the Registrar General of Canada, are conclusive proof of every matter and thing therein set forth.
-> R.S., 1952, c. 53, s. 133.
+**142** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Proof by declaration or affidavit**
-
-**143** Proof of any matter that is necessary to be made under this Part may be made by oath or affirmation or by statutory declaration before any justice of the peace, or any commissioner for taking affidavits, to be used in any of the courts in any of the provinces of Canada, or any notary public, each of whom is hereby authorized and empowered to administer oaths and receive affidavits and declarations for that purpose.
-> R.S., 1952, c. 53, s. 134.
-
+**143** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Procedure
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Cases where use of seal not necessary**
-
-**144** Any summons, notice, order, document or proceeding requiring authentication by the company may be signed by any director, manager or other authorized officer of the company, and need not be under the seal of the company.
-> R.S., 1952, c. 53, s. 135.
+**144** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Service of notices on shareholders**
-
-**145** In the absence of any other provision in this Part or in the by-laws, notices to be served by the company upon its shareholders may be served either personally or by sending them through the post, by registered mail, addressed to the shareholders at their places of abode as they appear on the books of the company.
-> R.S., 1952, c. 53, s. 136.
+**145** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Time from which service reckoned**
-
-**146** A notice or other document served by post by the company on a shareholder shall be deemed to be served at the time when the registered letter containing it would be delivered in the ordinary course of post.
-> R.S., 1952, c. 53, s. 137.
+**146** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Action between company and shareholders**
-
-**147** Any description of action may be prosecuted and maintained between the company and any shareholder thereof.
-> R.S., 1952, c. 53, s. 138.
+**147** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Setting forth incorporation in legal proceedings**
-
-**148** In any action or other legal proceeding, it shall not be requisite to set forth the mode of incorporation of the company, otherwise than by mention of it under its corporate name as incorporated by virtue of letters patent, or of letters patent and supplementary letters patent, as the case may be.
-> R.S., 1952, c. 53, s. 139.
-
+**148** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Offences and Penalties
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Penalties not otherwise provided for**
-
-**149** Every one who, being a director, manager or officer of a company, or acting on its behalf, commits any act contrary to the provisions of this Part, or fails or neglects to comply with any such provision, is, if no penalty for such act, failure or neglect is expressly provided by this Part, liable, on summary conviction, to a fine of not more than one thousand dollars, or to imprisonment for not more than one year, or to both, but no proceeding shall be taken under this section without the consent in writing of the Minister.
-> R.S., 1952, c. 53, s. 140.
+**149** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Grounds for winding up company**
-
-**150** 
-
-- **(1)** Notwithstanding any other provisions in this Act where a company
-	- **(a)** fails for two or more consecutive years to hold an annual meeting of its shareholders,
-	- **(b)** fails to comply with the requirements of section 128, or
-	- **(c)** defaults in complying for six months or more with any requirement of section 133,
-the company is liable to be wound up and dissolved under the Winding-up Act upon the application of the Attorney General of Canada to a court of competent jurisdiction for an order that the company be wound up under that Act, which application may be made upon receipt by the Attorney General of Canada of a certificate of the Minister setting forth his opinion that any of the circumstances described in paragraphs (a) to (c) apply to that company.
-
-**Costs of winding-up**
-
-- **(2)** In any application to the court under subsection (1), the court shall determine whether the costs of the winding-up shall be borne by the company or personally by any or all of the directors of the company who were knowingly responsible for the company’s failure or default as described in subsection (1).
-> R.S., 1970, c. C-32, s. 150; R.S., 1970, c. 10(1st Supp.), s. 25.
-
+**150** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 ### Fees and Regulations
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Tariff by Governor in Council**
-
-**151** 
-
-- **(1)** The Governor in Council may establish, alter and regulate the tariff of fees to be paid on application for any letters patent or supplementary letters patent under this Part, on filing any document, on any certificate issued under this Act, on making any return under this Act and on the making of any search of the files of the Department respecting a company.
-
-**Amount may be varied**
-
-- **(2)** The amount of any fee may be varied according to the nature of the company, the amount of the capital stock of the company, or other particulars, as the Governor in Council deems fit.
-
-**Fees to be paid**
-
-- **(3)** No steps shall be taken in the Department toward the issue of any letters patent or supplementary letters patent under this Part, and no by-law, return, prospectus or other document may be filed or deposited in the Department and no certificate may issue therefrom under this Part, until after all fees therefor are duly paid.
-> R.S., 1952, c. 53, s. 141; 1967-68, c. 9, s. 9.
+**151** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Forms and regulations**
-
-**152** The Governor in Council may, from time to time, prescribe forms and make, vary or repeal regulations for carrying out the purposes of this Part.
-> R.S., 1952, c. 53, s. 142.
-
+**152** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 **PART II** 
 ## Corporations Without Share Capital
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Application of Part**
-
-**153** This Part applies to all corporations incorporated under it and to all corporations incorporated under section 7A of the Companies Act Amending Act, 1917, or to which supplementary letters patent have been issued under subsection (5) of that section and all corporations incorporated under section 8 of the Companies Act, chapter 27 of the Revised Statutes of Canada, 1927, or to which supplementary letters patent have been issued under subsection (5) of that section of that Act.
-> R.S., 1952, c. 53, s. 143.
+**153** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Application without objects of gain**
-
-**154** 
-
-- **(1)** The Minister may by letters patent under his seal of office grant a charter to any number of persons, not being fewer than three, who apply therefor, constituting the applicants and any other persons who thereafter become members of the corporation thereby created, a body corporate and politic, without share capital, for the purpose of carrying on, without pecuniary gain to its members, objects, to which the legislative authority of the Parliament of Canada extends, of a national, patriotic, religious, philanthropic, charitable, scientific, artistic, social, professional or sporting character, or the like objects.
-
-**No power to issue paper money or for banking**
-
-- **(2)** Nothing in this Part shall be construed to authorize the corporation to issue any note payable to the bearer thereof or any promissory note intended to be circulated as money or as the note of a bank, or to engage in the business of banking or insurance.
-> R.S., 1952, c. 53, s. 144; 1964-65, c. 52, s. 43; 1966-67, c. 66, s. 1.
+**154** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Application to be filed**
-
-**155** 
-
-- **(1)** The applicants for such letters patent, who shall be of the full age of eighteen years and have power under law to contract, shall file in the Department an application signed by each of the applicants and setting forth the following particulars:
-	- **(a)** the proposed name of the corporation;
-	- **(b)** the purposes for which its incorporation is sought;
-	- **(c)** the place within Canada where the head office of the corporation is to be situated;
-	- **(d)** the names in full and the address and calling of each of the applicants; and
-	- **(e)** the names of the applicants, not less than three, who are to be the first directors of the corporation.
-
-**By-laws to accompany application**
-
-- **(2)** The application shall be accompanied by the by-laws, in duplicate, of the proposed corporation, which by-laws shall include provisions upon the following matters:
-	- **(a)** conditions of membership, including societies or companies becoming members of the corporation;
-	- **(b)** mode of holding meetings, provision for quorum, rights of voting and of enacting by-laws;
-	- **(c)** mode of repealing or amending by-laws with special provision that the repeal or amendment of by-laws not embodied in the letters patent shall not be enforced or acted upon until the approval of the Minister has been obtained;
-	- **(d)** appointment and removal of directors, trustees, committees and officers, and their respective powers and remuneration;
-	- **(e)** audit of accounts and appointment of auditors;
-	- **(f)** whether or how members may withdraw from the corporation; and
-	- **(g)** custody of the corporate seal and certifying of documents issued by the corporation.
-
-**By-laws may be embodied in letters patent**
-
-- **(3)** The applicants may ask to have embodied in the letters patent any provision which could under this Part be contained in any by-law of the corporation.
-> R.S., 1970, c. C-32, s. 155; 1985, c. 26, s. 87.
+**155** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Letters patent to existing corporation**
-
-**156** Any existing corporation without share capital created by or under any Act of the Parliament of Canada, for any of the purposes or objects set forth in section 154, may apply for the issue of letters patent creating it a corporation under this Part, and upon the issue of such letters patent the provisions of this Part and those provisions of Part I, enumerated in section 157, apply to the corporation created thereby.
-> R.S., 1952, c. 53, s. 146.
+**156** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Sections of Part I applicable**
-
-**157** 
-
-- **(1)** The following provisions of Part I apply to corporations to which this Part applies, namely:
-	- **(a)** sections 3 and 4, section 5.6, section 6, sections 9 to 12 and section 15;
-	- **(b)** section 16 (except paragraph (1)(r) thereof) and subsections 20(1), (3), (4) and (5);
-	- **(c)** sections 21 to 24, subsection 25(2), paragraph 25(3)(b), sections 27 to 33, section 43, sections 65 to 73, sections 93, 98, 99, 102 and 106;
-	- **(d)** paragraphs 109(1)(a) to (d); and
-	- **(e)** sections 111.1, 112 to 117, sections 130 to 133 and sections 138 to 152.
-
-- **(2)** [Repealed, R.S., 1970, c. 10(1st Supp.), s. 26]
-
-**Interpretation**
-
-- **(3)** In construing the sections of Part I made applicable to corporations under this Part,
-
-***shareholder*** means a member of such corporation;
-
- or  ou ***the company*** or ***a company*** means a corporation to which this Part applies.
-> R.S., 1970, c. C-32, s. 157; R.S., 1970, c. 10(1st Supp.), s. 26.
+**157** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Sections of Canada Business Corporations Act applicable**
-
-<sup><a href='#C-1.8_en_1'>[*]</a></sup>**157.1** 
-
-- **(1)** Sections 222 to 227 [229 to 234], 229 to 233 [236 to 240] and 235 [242] of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) apply, with such modifications as the circumstances require, in respect of corporations to which this Part applies.
-
-**Interpretation**
-
-- **(2)** In construing the sections of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) made applicable to corporations under this Part, “security holder”, or “registered holder or beneficial owner” in relation to a security, means a member of a corporation to which this Part applies.
-
-**Powers of Director**
-
-- **(3)** A Director or Deputy Director appointed under section 253 [260] of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) may, for the purpose of giving effect to this section with respect to the application of sections 222 to 227 [229 to 234], 229 to 233 [236 to 240] and 235 [242] of that Act, exercise the powers and perform the functions and duties of the Director under those sections.
-
-<a name='C-1.8_en_1'><sup>*</sup></a>: [Note: The [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) was renumbered by the 1985 statute revision. By virtue of section 5 of the [Revised Statutes of Canada, 1985 Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2040%20(3rd%20Supp.).md), the references to that Act in this section are deemed to be references to the sections set out in brackets. The references will be formally changed in a future amendment.]<br />
-> 1986, c. 26, s. 54.
-
+**157.1** [Repealed, 2009, c. 23, s. 313]
 
 
 
 
 **PART III** 
 ## Special Act Corporations
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **158** [Repealed, 2009, c. 23, s. 313]
@@ -2560,10 +1013,14 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 **PART IV** 
 ## Companies Clauses
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 
 ### Interpretation
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **160** [Repealed, 2009, c. 23, s. 313]
@@ -2793,6 +1250,8 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 **PART V** 
 ## Incidental Powers of Corporate Bodies Created Otherwise than by Letters Patent
+> [Repealed, 2009, c. 23, s. 313]
+
 
 
 **215** [Repealed, 2009, c. 23, s. 313]
@@ -2806,81 +1265,23 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 
 **PART VI** 
 ## Provisions of General Application
+> [Repealed, 2009, c. 23, s. 313]
 
 
 
-**Definitions**
-
-**217** In this Part
-
-***company*** means any company incorporated by or under the authority of any Act of the Parliament of Canada or of the Legislature of the former Province of Canada;
-
-***corporation*** means a corporation to which Part II applies.
-> R.S., 1952, c. 53, s. 209.
+**217** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Registration and transfer offices within and outside Canada**
-
-**218** 
-
-- **(1)** Every company has, and always has had, the capacity to maintain offices for the registration and transfer of shares of its capital stock and of the bonds, debentures, debenture stock and other securities issued by the company at any place within or beyond the limits of Canada.
-
-**Books for entry of particulars of registrations and transfers**
-
-- **(2)** Unless the books for the registration and transfer of the shares of the capital stock and of the bonds, debentures, debenture stock and other securities of the company are kept at the chief place of business or head office of the company in Canada, a book or books shall be kept at such chief place of business or head office or at the place in Canada where one of its branch registration and transfer offices is maintained, in which shall be recorded particulars of every registration and transfer of shares of its capital stock and of the bonds, debentures, debenture stock and other securities issued by the company; but entry of the transfer of any share, bond, debenture, debenture stock or other security in a register of transfers or a branch register of transfers, whether kept at the chief place of business or head office of the company or elsewhere, is, for all purposes, a complete and valid transfer.
-
-**Part I companies**
-
-- **(3)** In the case of a company to which Part I applies, subsection (2) does not apply to the register of transfers, branch registers of transfers and books mentioned in section 110.
-
-**Rectification of books**
-
-- **(4)** The court, as defined in subsection 3(1), of the province in which the head office or chief place of business of the company is situated, has jurisdiction, on the application of any person interested, to order that any entry in the books for the registration and transfer of shares of the capital stock of a company be struck out or otherwise rectified on the ground that at the date of such application the entry as it appears in any such book does not accurately express or define the existing rights of the person appearing to be the registered owner of any shares of the capital stock of the company; and the court, in deciding such application, may make such order as to costs as the court may deem proper.
-
-**Application for rectification**
-
-- **(5)** An application for the rectification of any such entry under subsection (4) may be made either by filing with the proper officer of the court a petition or an originating summons or notice of motion; and the court may direct the trial of any issue arising out of such application.
-
-**Saving of jurisdiction**
-
-- **(6)** Subsections (4) and (5) do not deprive the court of any jurisdiction it may otherwise have.
-> R.S., 1952, c. 53, s. 210.
+**218** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Persons to whom this section applies**
-
-**219** 
-
-- **(1)** The persons to whom this section applies are: directors of a company or corporation; managers of a company or corporation; officers of a company or corporation; persons employed by a company or corporation as auditors, whether they are or are not of the company or corporation.
-
-**Power of court to grant relief in certain cases**
-
-- **(2)** Where in any proceeding for breach of or non-compliance with this Act or breach of or non-compliance with the letters patent, supplementary letters patent, Special Act, or by-laws of a company or corporation, against a person to whom this section applies, it appears to the court hearing the case that that person is or may be liable in respect of such breach or non-compliance, but that he has acted honestly and reasonably, and that, having regard to all the circumstances of the case, including those connected with his appointment, he ought fairly to be excused for such breach or non-compliance, that court may relieve him, either wholly or partly, from his liability on such terms as the court may think fit.
-
-**Application for relief**
-
-- **(3)** Where any person to whom this section applies has reason to apprehend that any claim will or might be made against him in respect of any such breach or non-compliance, he may apply to the court, as defined in subsection 3(1), of the province in which the head office or the principal place of business of the company or corporation is situated, for relief, and the court on such application has the same power to relieve him as under this section it would have had if it had been a court before which proceedings against that person for such breach or non-compliance had been brought.
-
-**Case may be withdrawn from jury**
-
-- **(4)** Where any case to which subsection (2) applies is being tried by a judge with a jury, the judge, after hearing the evidence, may, if he is satisfied that the defendant ought in pursuance of that subsection to be relieved either in whole or in part from the liability sought to be enforced against him, withdraw the case in whole or in part from the jury and forthwith direct judgment to be entered for the defendant on such terms as to costs or otherwise as the judge may think proper.
-> R.S., 1952, c. 53, s. 211.
+**219** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Certain sections not applicable**
-
-**220** The following provisions of The Companies Act Amendment Act, 1935, namely, sections 2, 3, 6, 7, 13 and 16, do not apply to any company to which Part I is made applicable by paragraph 2(b), (c), (d) or (e), nor to any company incorporated prior to the 15th day of September 1935, and every such company is subject to this Act as if the foregoing sections of The Companies Act Amendment Act, 1935, had not been enacted, but each of the other provisions of The Companies Act Amendment Act, 1935, pursuant to its terms, applies to all companies, irrespective of the date of their incorporation, to which Part I applies.
-> R.S., 1952, c. 53, s. 212.
-
+**220** [Repealed, 2009, c. 23, s. 313]
 
 
 
