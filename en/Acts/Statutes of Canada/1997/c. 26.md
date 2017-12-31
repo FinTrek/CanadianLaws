@@ -126,11 +126,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Acts not applicable to foundation**
+**Canada Not-for-profit Corporations Act**
 
 **8** 
 
-- **(1)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the foundation.
+- **(1)** The [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) does not apply to the foundation.
 
 **[Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md)**
 
@@ -163,7 +163,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Description with cross-references**
 
 - **(3)** The descriptive words in parentheses that follow the reference to a provision of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) in subsection (2) form no part of that subsection but are inserted for convenience of reference only.
-> 1997, c. 26, s. 8; 2001, c. 14, s. 235; 2009, c. 23, s. 307.
+> 1997, c. 26, s. 8; 2001, c. 14, s. 235; 2009, c. 23, ss. 307, 342.
 
 
 
