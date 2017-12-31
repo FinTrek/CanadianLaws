@@ -79,9 +79,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(4)** The head office of the Board shall be in the National Capital Region as described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
 
-**Acts not applicable to Board**
+**[Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md)**
 
-- **(5)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the Board.
+- **(5)** The [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) does not apply to the Board.
 
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
@@ -90,7 +90,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reports and special examination**
 
 - **(7)** Any report or information in respect of the Board that is provided to the Minister under sections 132 to 147 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) shall also be provided to the Minister of National Defence and the Minister of Public Safety and Emergency Preparedness. The Minister may only require a special examination under subsection 138(2) of that Act if the Minister has consulted with those Ministers.
-> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295; 2009, c. 2, s. 381, c. 23, s. 336; 2013, c. 33, s. 231.
+> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295; 2009, c. 2, s. 381, c. 23, ss. 336, 358; 2013, c. 33, s. 231.
 
 
 
