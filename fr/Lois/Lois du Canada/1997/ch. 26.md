@@ -130,7 +130,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à la fondation.
+- **(1)** La [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’applique pas à la fondation.
 
 **[Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)**
 
@@ -163,7 +163,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(3)** Les mots entre parenthèses qui suivent un renvoi à une disposition de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) au paragraphe (2) ne font pas partie de ce paragraphe, n’étant cités que pour des raisons de commodité.
-> 1997, ch. 26, art. 8; 2001, ch. 14, art. 235; 2009, ch. 23, art. 307.
+> 1997, ch. 26, art. 8; 2001, ch. 14, art. 235; 2009, ch. 23, art. 307 et 342.
 
 
 
