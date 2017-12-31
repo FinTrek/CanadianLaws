@@ -152,7 +152,7 @@ French version only***assemblée*** Assemblée de membres.
 
 **Non-application de certaines lois**
 
-- **(2)** La [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ne s’appliquent pas aux organisations.
+- **(2)** La [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) et la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ne s’appliquent pas aux organisations.
 
 **Restrictions — activités commerciales**
 
@@ -161,6 +161,8 @@ French version only***assemblée*** Assemblée de membres.
 **Restrictions — droit d’exercer ou de régir certaines activités**
 
 - **(4)** La constitution ou la prorogation sous le régime de la présente loi n’a pas pour effet de conférer à l’organisation le droit d’exercer l’activité d’un établissement d’enseignement autorisé à délivrer des diplômes universitaires ou celui de régir l’exercice d’une activité, notamment une profession.
+> 2009, ch. 23, art. 3 et 341.
+
 
 
 
@@ -5944,6 +5946,6 @@ French version only***assemblée*** Assemblée de membres.
 
 - **(2)** Les paragraphes 317(1) et (2) entrent en vigueur en conformité avec le paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) aux dates fixées par décret.
 
-<a name='fn_Ind2E1B_hq_7771'><sup>*</sup></a>: [Note : Paragraphes 297(2) à (4), (6) et (7) et articles 341 à 360 en vigueur à la sanction le 23 juin 2009; articles 300 à 302, 304 et 310, paragraphes 311(1), (3) et (4), passage de l’article 313 précédant l’alinéa a), alinéas 313c), e), g), i), k), m), o), q), t), v), x), z), z.02), z.04), z.1), z.5) et z.8) et articles 361 à 371 en vigueur le 12 mars 2010, *voir* TR/2010-25; articles 1 à 296, paragraphes 297(1) et (5), articles 298, 299, 303, 305 à 307 et 309, paragraphes 311(2) et (5), article 312, alinéas 313z.4) et z.6), articles 314 à 316, paragraphe 317(1) et articles 318 à 340 en vigueur le 17 octobre 2011, *voir* TR/2011-87.]<br />
+<a name='fn_Ind2E1B_hq_7771'><sup>*</sup></a>: [Note : Paragraphes 297(2) à (4), (6) et (7) et articles 341 à 360 en vigueur à la sanction le 23 juin 2009; articles 300 à 302, 304 et 310, paragraphes 311(1), (3) et (4), passage de l’article 313 précédant l’alinéa a), alinéas 313c), e), g), i), k), m), o), q), t), v), x), z), z.02), z.04), z.1), z.5) et z.8) et articles 361 à 371 en vigueur le 12 mars 2010, *voir* TR/2010-25; articles 1 à 296, paragraphes 297(1) et (5), articles 298, 299, 303, 305 à 307 et 309, paragraphes 311(2) et (5), article 312, alinéas 313z.4) et z.6), articles 314 à 316, paragraphe 317(1) et articles 318 à 340 en vigueur le 17 octobre 2011, *voir* TR/2011-87; alinéas 313a), b), d), f), h), j), l), n), p), r), s), u), w), y), z.01), z.03), z.05) à z.09), z.2), z.3), z.7) et z.9) et paragraphe 317(2) en vigueur le 31 décembre 2017, *voir* TR/2018-1.]<br />
 
 
