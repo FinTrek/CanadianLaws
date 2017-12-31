@@ -8,122 +8,60 @@
 ----------
 
 
+[Abrogée, 2009, ch. 23, art. 313]
+
+
 
 ## Titre abrégé
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Titre abrégé**
-
-**1** La présente loi peut être citée sous le titre : Loi sur les corporations canadiennes.
-> 1964-65, ch. 52, art. 2.
-
+**1** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 **PARTIE I** 
 ## Compagnies par actions
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 
 ### Application de la présente Partie
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Application**
-
-**2** La présente Partie s’applique à
-- **a)** toutes les compagnies constituées en corporation sous son régime ou dont la constitution en corporation est maintenue sous son régime;
-- **b)** toutes les compagnies constituées en corporation en vertu de la Loi des compagnies, chapitre 119 des Statuts revisés du Canada de 1886, ou auxquelles cette loi s’appliquait avant le 15 mai 1902, excepté les compagnies de prêt;
-- **c)** toutes les compagnies constituées en corporation sous le régime de la Loi des compagnies, 1902;
-- **d)** toutes les compagnies constituées en corporation en vertu de la Loi des compagnies, chapitre 79 des Statuts revisés du Canada de 1906, ou auxquelles ladite loi s’appliquait;
-- **e)** toutes les compagnies constituées en corporation en vertu de la Loi des compagnies, chapitre 27 des Statuts revisés du Canada de 1927.
-> S.R. 1970, ch. C-32, art. 2; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 1.
-
+**2** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Interprétation
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Définitions**
-
-**3** 
-
-- **(1)** Dans la présente Partie et dans toutes lettres patentes et lettres patentes supplémentaires émises sous son régime
-
-***action donnant droit de vote*** désigne toute action de toute catégorie d’actions d’une compagnie qui donne droit de vote en toutes circonstances et toute action de toute catégorie d’actions qui donne droit de vote en raison de la survenance d’une éventualité qui s’est effectivement produite et qui se continue;
-
-***actionnaire*** signifie tout souscripteur ou porteur d’une action du capital social de la compagnie, et comprend les représentants personnels d’un actionnaire défunt et toute autre personne qui convient avec la compagnie de devenir actionnaire;
-
-***administrateur*** comprend toute personne remplissant les fonctions d’administrateur, quel que soit le nom qui lui est donné;
-
-***compagnie privée*** signifie une compagnie à l’égard de laquelle, en vertu de lettres patentes ou de lettres patentes supplémentaires,
-- **a)** le droit de transférer ses actions est restreint,
-- **b)** le nombre de ses actionnaires est limité à cinquante, non compris les personnes qui sont employées par la compagnie et les personnes qui, ayant été précédemment employées par la compagnie, étaient actionnaires de la compagnie pendant qu’elles étaient à son service, et ont continué de l’être après avoir quitté son service, deux personnes ou plus qui détiennent en commun une ou plusieurs actions étant comptées comme un seul actionnaire, et
-- **c)** toute invitation au public pour la souscription des actions ou débentures de la compagnie est interdite;
-
-***compagnie publique*** signifie une compagnie qui n’est pas une compagnie privée;
-
-***comptes à recevoir*** comprend les dettes actives, comptes, réclamations, deniers et droits incorporels, présents ou futurs, ou toute catégorie ou partie des susdits, et tous contrats, valeurs, effets, billets, livres, instruments et autres documents, garantissant ou attestant les susdits ou l’un d’entre eux ou s’y rattachant de quelque manière, mais ne comprend pas les actions du capital non appelé de la compagnie ni les versements appelés mais non acquittés;
-
-***cour*** signifie,
-- **a)** en Ontario, la Cour supérieure de justice,
-- **a.1)** [Abrogé, 2015, ch. 3, art. 13]
-- **b)** au Québec, la Cour supérieure,
-- **b.1)** en Nouvelle-Écosse, en Colombie-Britannique et à l’Île-du-Prince-Édouard, la Cour suprême,
-- **c)** dans le Manitoba, dans la Saskatchewan, dans l’Alberta et dans le Nouveau-Brunswick, la Cour du Banc de la Reine,
-- **c.1)** à Terre-Neuve-et-Labrador, la Section de première instance de la Cour suprême,
-- **d)** au Yukon, la Cour suprême du Yukon, dans les Territoires du Nord-Ouest, la Cour suprême des Territoires du Nord-Ouest et, dans le territoire du Nunavut, la Cour de justice du Nunavut;
-
-***débenture*** comprend les obligations, stock-obligations et autres titres d’une compagnie qui constituent une charge sur l’actif de la compagnie ou donnent droit d’en bénéficier;
-
-***document*** comprend les avis, ordonnances, certificats, registres, sommations ou autres pièces judiciaires;
-
-***entreprise*** signifie les opérations de toute nature que la compagnie est autorisée à faire;
-
-***fonctionnaire*** désigne le président ou vice-président du conseil d’administration, le président, le vice-président, le secrétaire, le trésorier, le contrôleur, le directeur général, le directeur administratif ou tout autre particulier qui exerce pour la compagnie des fonctions semblables à celles qu’exerce normalement un particulier occupant un tel poste;
-
-***hypothèque*** comprend les charges et *mortgages*;
-
- ou  or ***immeuble*** ou ***terre*** comprend les maisons avec leurs dépendances, les terrains, tènements et héritages de toute tenure, et tout bien immobilier quelconque;
-
-***juge*** signifie, dans lesdites provinces et lesdits territoires respectifs, un juge desdites cours respectivement;
-
- ou  or ***la compagnie*** ou ***une compagnie*** signifie toute compagnie à laquelle s’applique la présente Partie; « une autre compagnie » ou « toute autre compagnie » signifie toute compagnie constituée en corporation à quelque endroit ou de quelque manière que ce soit;
-
-***Ministre*** signifie le ministre de l’Industrie;
-
-***ministère*** signifie le ministère de la Consommation et des Corporations;
-
-***valeurs*** désigne des actions d’une compagnie ou des débentures ou autres obligations d’une compagnie, garanties ou non.
-
-**Résolution spéciale**
-
-- **(2)** Un règlement mentionné à l’article 20, au paragraphe 29(1), à l’article 51 ou à l’article 52 peut être désigné sous le nom de « résolution spéciale ».
-> S.R. 1970, ch. C-32, art. 3; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 2; 1972, ch. 17, art. 2; 1978-79, ch. 11, art. 10; 1986, ch. 35, art. 14; 1995, ch. 1, art. 32; 1999, ch. 3, art. 17; 2002, ch. 7, art. 89; 2015, ch. 3, art. 13.
-
+**3** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Préliminaires
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Dispositions simplement directrices**
-
-**4** Les dispositions de la présente Partie, relatives aux formalités à observer avant l’émission des lettres patentes ou des lettres patentes supplémentaires, sont simplement directrices, et les lettres patentes ou les lettres patentes supplémentaires émises sous le régime de la présente Partie ne sont réputées ni nulles ni annulables en raison de quelque irrégularité ou lacune dans les formalités préliminaires à l’émission des lettres patentes ou des lettres patentes supplémentaires.
-> 1964-65, ch. 52, art. 4.
-
+**4** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Formation de nouvelles compagnies
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **5** [Abrogé, 2009, ch. 23, art. 313]
@@ -150,22 +88,7 @@
 
 
 
-
-**Motifs de mise en liquidation de la compagnie**
-
-**5.6** 
-
-- **(1)** Quand une compagnie
-	- **a)** fait des affaires qui n’entrent pas dans le cadre des objets énoncés dans ses lettres patentes ou lettres patentes supplémentaires,
-	- **b)** exerce ou déclare exercer des pouvoirs qui ne sont pas véritablement accessoires ou raisonnablement connexes aux objets énoncés dans ses lettres patentes ou lettres patentes supplémentaires,
-	- **c)** exerce ou déclare exercer des pouvoirs expressément exclus par ses lettres patentes ou lettres patentes supplémentaires,
-la compagnie est passible de liquidation et de dissolution en vertu de la Loi sur les liquidations, sur demande d’une ordonnance portant que la compagnie soit mise en liquidation en vertu de ladite loi, faite par le procureur général du Canada à une cour compétente; cette demande peut être faite sur réception par le procureur général du Canada d’un certificat du Ministre déclarant qu’à son avis l’une quelconque des circonstances mentionnées aux alinéas a) à c) s’applique à ladite compagnie.
-
-**Frais de liquidation**
-
-- **(2)** Lorsqu’une demande est adressée à la cour en vertu du paragraphe (1), la cour doit déterminer si les frais de la liquidation doivent être supportés par la compagnie ou personnellement par l’un ou plusieurs ou l’ensemble des administrateurs de la compagnie qui ont participé ou consenti à des affaires, ou à l’exercice ou à la déclaration d’exercice de pouvoirs, que mentionne le paragraphe (1).
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 3.
-
+**5.6** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -173,12 +96,7 @@ la compagnie est passible de liquidation et de dissolution en vertu de la Loi su
 
 
 
-
-**Sceau**
-
-**6** Le gouverneur en conseil peut de temps à autre désigner le sceau d’office dont doit se servir le Ministre comme sceau sous lequel peuvent être délivrées les lettres patentes en vertu de la présente loi.
-> S.R. 1952, ch. 53, art. 6.
-
+**6** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -190,65 +108,19 @@ la compagnie est passible de liquidation et de dissolution en vertu de la Loi su
 
 
 
-
-**Faits à établir avant l’émission des lettres patentes**
-
-**9** 
-
-- **(1)** Préalablement à l’émission des lettres patentes, les requérants doivent établir, à la satisfaction du Ministre
-	- **a)** le bien-fondé de la demande ainsi que le bien-fondé et la vérité des faits y énoncés, et
-	- **b)** démontrer que le nom proposé n’est ni identique ni semblable à celui sous lequel toute autre compagnie, société, association ou maison existante fait des opérations au Canada ou est constituée en corporation d’après les lois du Canada ou d’une de ses provinces, ou lui ressemble au point d’être conçu de manière à induire en erreur, et n’est pas par ailleurs contestable pour des motifs d’ordre public, ou que cette compagnie, société, association ou maison existante est en voie d’être dissoute ou de changer son nom et a signifié son consentement à l’emploi dudit nom.
-
-**Preuve à recueillir**
-
-- **(2)** Le Ministre ou tout fonctionnaire à qui peut être déférée la demande peut recevoir toute déposition nécessaire, faite par écrit, sous serment, par affirmation ou par déclaration statutaire, et le Ministre doit conserver aux archives cette déposition ainsi reçue.
-
-**Faits à mentionner**
-
-- **(3)** Les lettres patentes doivent énumérer les énonciations établies dans la demande, dont la mention paraît opportune au Ministre.
-
-**Nom de la compagnie**
-
-- **(4)** Après avoir donné un avis raisonnable aux requérants ou à leurs représentants ou agents autorisés, le Ministre peut donner à la compagnie un nom corporatif différent de celui qui est proposé par les requérants lorsqu’il juge que le nom proposé prête à objection.
-
-**Modifications apportées à la demande de lettres patentes**
-
-- **(5)** Après en avoir avisé les requérants ou leur représentant ou mandataire autorisé, le Ministre peut, avec le consentement desdits requérants ou de leur représentant ou mandataire autorisé, apporter à la demande les modifications qu’il estime opportunes.
-> S.R. 1952, ch. 53, art. 8; 1964-65, ch. 52, art. 7.
+**9** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Avis à publier**
-
-**10** Le Ministre doit immédiatement donner avis de l’octroi de lettres patentes ou de lettres patentes supplémentaires par une insertion dans la Gazette du Canada.
-> 1964-65, ch. 52, art. 8.
+**10** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Corrections**
-
-**11** 
-
-- **(1)** Lorsque les lettres patentes ou les lettres patentes supplémentaires contiennent une erreur de nom, une description erronée, une erreur d’écriture ou un autre défaut, le Ministre peut ordonner que ces lettres patentes ou lettres patentes supplémentaires soient corrigées.
-
-**Avis de correction**
-
-- **(2)** Avis de la correction des lettres patentes ou lettres patentes supplémentaires doit être donné immédiatement par le Ministre dans la Gazette du Canada si la correction apportée les fait différer de façon appréciable du texte de l’avis original donné ainsi que le prévoit l’article 10.
-> 1964-65, ch. 52, art. 8.
+**11** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Date d’existence**
-
-**12** Une compagnie existe à compter de la date des lettres patentes qui la constituent en une corporation.
-> 1964-65, ch. 52, art. 9.
-
+**12** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -262,65 +134,15 @@ la compagnie est passible de liquidation et de dissolution en vertu de la Loi su
 
 
 ### Pouvoirs et devoirs généraux des compagnies
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Pouvoirs conférés sous réserve de la présente loi**
-
-**15** Tous les pouvoirs conférés à la compagnie par lettres patentes ou par lettres patentes supplémentaires sont exercés sous réserve des dispositions et restrictions contenues dans la présente Partie.
-> S.R. 1952, ch. 53, art. 13.
+**15** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Pouvoirs accessoires et connexes**
-
-**16** 
-
-- **(1)** Une compagnie peut, de façon accessoire ou connexe aux objets énoncés dans ses lettres patentes ou lettres patentes supplémentaires, exercer l’un quelconque ou la totalité des pouvoirs suivants, c’est-à-dire le pouvoir
-	- **a)** de faire toutes autres opérations qui peuvent lui sembler susceptibles d’être faites convenablement en rapport avec ses opérations ou de nature à accroître directement ou indirectement la valeur de ses biens ou de ses droits ou à les rendre profitables;
-	- **a.1)** d’acheter ou autrement acquérir et prendre à sa charge la totalité ou une partie de l’actif, des opérations, biens, privilèges, contrats, droits, obligations et passif de toute autre compagnie ou d’une société, firme ou personne faisant des opérations que la compagnie a l’autorisation de faire, ou possédant des biens appropriés aux fins de la compagnie;
-	- **b)** de demander, acheter ou autrement acquérir des brevets d’invention, droits de brevets, certificats de protection supplémentaire délivrés en vertu de la [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md), droits conférés par de tels certificats, droits d’auteur, marques de fabrique ou de commerce, formules, permis, concessions et intérêts de même nature, conférant quelque droit d’utilisation, exclusif ou non exclusif, ou limité, ou des secrets ou autres renseignements au sujet d’une invention, qu’il semble possible d’utiliser pour quelqu’une des fins de la compagnie, ou dont l’acquisition peut paraître de nature à profiter directement ou indirectement à la compagnie, et d’utiliser, exercer, mettre en valeur ou faire valoir autrement les biens, droits ou renseignements ainsi acquis, ou d’accorder des permis à cet égard;
-	- **b.1)** de se fusionner ou s’associer ou conclure des conventions pour le partage des profits, la réunion des intérêts, la coopération, les risques communs, les concessions réciproques ou autres fins, avec toute autre compagnie ou une société, firme ou personne s’adonnant ou se livrant, ou sur le point de s’adonner ou se livrer à des affaires ou opérations auxquelles la compagnie est autorisée à s’adonner ou se livrer, ou à des affaires ou opérations susceptibles d’être conduites de façon à profiter directement ou indirectement à la compagnie; et de prêter des fonds à une semblable compagnie, société, firme ou personne, d’en garantir les contrats ou autrement l’aider, et de prendre ou autrement acquérir des actions et valeurs de toute pareille compagnie, et de les vendre ou détenir ou autrement en disposer;
-	- **c)** de prendre ou autrement acquérir et détenir des actions, débentures ou autres titres d’une autre compagnie dont les objets sont en totalité ou en partie semblables à ceux de la compagnie ou qui poursuit des affaires susceptibles d’être conduites de façon à profiter directement ou indirectement à la compagnie, et de les vendre ou autrement en disposer;
-	- **d)** de conclure, avec tout gouvernement ou toutes autorités, municipales, locales ou autres, des arrangements qui peuvent sembler propres aux objets de la compagnie, ou à l’un de ces objets, et d’obtenir, de ces gouvernement ou autorités, des droits, privilèges et concessions que la compagnie peut juger opportun d’obtenir, et d’exécuter, exercer et observer ces arrangements, droits, privilèges et concessions;
-	- **e)** d’établir et maintenir ou d’aider à établir et à maintenir des associations, institutions, caisses, fiducies et commodités de nature à profiter aux employés ou aux anciens employés de la compagnie ou de ses prédécesseurs en affaires, ou les individus à charge ou parents de ces personnes, et d’accorder des pensions et allocations, et d’effectuer des paiements d’assurance, et de souscrire ou garantir des fonds pour fins de charité ou de bienfaisance, ou pour toute exposition ou pour tout objet public, général ou utile;
-	- **f)** de lancer une autre ou d’autres compagnies en vue d’acquérir ou prendre à sa charge la totalité ou partie des biens et engagements de la compagnie, ou pour toute autre fin qui peut paraître directement ou indirectement de nature à profiter à la compagnie;
-	- **g)** d’acheter, prendre à bail ou en échange, louer et autrement acquérir et détenir, vendre ou autrement aliéner tous biens meubles et immeubles et tous droits ou privilèges que la compagnie peut juger nécessaires ou convenables pour les fins de son entreprise, et en particulier les terrains, bâtiments, servitudes, machines, le matériel d’exploitation et le fonds de commerce;
-	- **h)** de construire, améliorer, entretenir, mettre en service, administrer, exécuter ou diriger les chemins, voies, embranchements ou voies d’évitement, ponts, réservoirs, cours d’eau, quais, manufactures, entrepôts, usines électriques, ateliers, magasins et autres ouvrages et commodités qui peuvent sembler de nature à favoriser directement ou indirectement les intérêts de la compagnie, et de contribuer à leur construction, amélioration, entretien, mise en service, administration, exécution ou direction, de les subventionner, ou autrement les aider ou y prendre part;
-	- **i)** de prêter des fonds à toute autre compagnie, ou à une société, firme ou personne en relations d’affaires avec la compagnie, ou avec qui la compagnie se propose d’entrer en relations d’affaires, ou à une autre compagnie dont la compagnie détient un certain nombre d’actions;
-	- **j)** de tirer, faire, accepter, endosser, escompter, exécuter et émettre des billets à ordre, lettres de change, connaissements, mandats et autres effets négociables ou transférables;
-	- **k)** de vendre ou aliéner en totalité ou en partie l’entreprise de la compagnie pour la cause ou considération que la compagnie peut juger convenable, et en particulier pour des actions, débentures ou valeurs de toute autre compagnie dont les objets sont totalement ou partiellement semblables à ceux de la compagnie;
-	- **l)** de demander, obtenir, acquérir par octroi, disposition législative, cession, transfert, achat ou autrement, de même qu’exercer, exécuter et utiliser, toute charte, permis, pouvoir, autorisation, concession, droit ou privilège, qu’un gouvernement ou une autorité ou une corporation ou un autre corps public peut avoir la faculté d’accorder, ainsi qu’effectuer des versements, fournir de l’aide ou des contributions en vue de leur application, et affecter les actions, débentures ou autres titres et actif de la compagnie au paiement des frais, charges et dépenses nécessaires;
-	- **m)** de faire enregistrer et reconnaître la compagnie dans tout pays ou endroit étranger, et d’y désigner des personnes, en conformité des lois de ce pays ou endroit étranger, pour représenter la compagnie et recevoir la signification de toute assignation ou poursuite pour la compagnie et en son nom;
-	- **n)** de rémunérer toute autre compagnie ou toute société, firme ou personne pour services rendus ou à rendre, en plaçant ou aidant à placer des actions de capital de la compagnie ou des débentures ou autres valeurs de la compagnie, ou en en garantissant le placement, ou dans ou concernant l’organisation, la formation ou le lancement de la compagnie ou la conduite de ses opérations;
-	- **o)** de prélever et contribuer à prélever des fonds pour toute autre compagnie avec laquelle la compagnie peut avoir des relations d’affaires ou dont des actions, débentures ou autres obligations sont détenues par la compagnie, et de l’aider au moyen de gratification, prêt, promesse, endossement, garantie ou autrement, et de garantir l’exécution des contrats ou obligations de cette compagnie ou de toute personne avec laquelle la compagnie peut avoir des relations d’affaires, et, en particulier, de garantir le paiement du principal et des intérêts des débentures ou autres titres, hypothèques et engagements de toute semblable compagnie;
-	- **p)** de prendre les moyens qui peuvent paraître à propos pour faire connaître les produits de la compagnie, et en particulier par voie de publicité dans les journaux, par circulaires, par l’achat et l’exposition d’oeuvres d’art ou d’intérêt, par la publication de livres et périodiques et par l’octroi de prix, récompenses et dons;
-	- **q)** de vendre, améliorer, administrer, mettre en valeur, échanger, louer, aliéner ou faire valoir la totalité ou partie des biens et droits de la compagnie, ou d’en disposer autrement;
-	- **r)** d’émettre et de répartir des actions entièrement ou partiellement libérées du capital social de la compagnie en paiement total ou partiel de biens meubles ou immeubles achetés ou autrement acquis par la compagnie ou de tous services rendus à la compagnie;
-	- **s)** de partager entre les actionnaires de la compagnie, en nature, espèces ou autrement, tous biens ou actif de la compagnie, y compris tout produit de la vente ou de l’aliénation de l’un quelconque des biens de la compagnie et, en particulier, d’actions, débentures, ou autres valeurs de ou dans toute autre compagnie appartenant à la compagnie, ou que cette dernière peut avoir la faculté d’aliéner, à la condition que ce partage se fasse pour permettre à la compagnie d’abandonner sa charte en exécution des dispositions de la présente loi, ou que ce partage, indépendamment du présent alinéa, eût été licite s’il avait été effectué en espèces;
-	- **t)** d’acquitter, à même les fonds de la compagnie, la totalité ou partie des frais de sa formation et de son organisation, ou qui s’y rattachent, ou que la compagnie peut considérer comme frais préliminaires;
-	- **u)** d’établir des agences et des succursales;
-	- **v)** de placer et gérer les deniers de la compagnie, non requis immédiatement, de la manière qui peut être déterminée au besoin;
-	- **w)** de demander, favoriser et obtenir tout statut, ordonnance, ordre, règlement ou autre autorisation ou disposition législative qui peut paraître de nature à profiter directement ou indirectement à la compagnie; et de faire opposition à toute procédure ou demande qui peut être de nature à nuire directement ou indirectement aux intérêts de la compagnie;
-	- **x)** de prendre ou détenir des *mortgages*, hypothèques, privilèges et charges en vue de garantir le paiement du prix d’achat, ou relativement à tout solde impayé du prix d’achat, d’une partie des biens de la compagnie, de quelque espèce que ce soit, qu’elle a vendus, ou à toute somme due à la compagnie par des acheteurs et autres, et de vendre ou autrement aliéner lesdits *mortgages*, hypothèques, privilèges et charges;
-	- **y)** de réaliser la totalité ou une partie des objets de la compagnie et d’accomplir l’ensemble ou quelqu’une des choses mentionnées au présent paragraphe à titre de commettant, d’agent, d’entrepreneur ou autrement, soit seule, soit conjointement avec d’autres; et
-	- **z)** d’accomplir toutes les autres choses qui se rattachent ou sont propres à la réalisation des objets et à l’exercice des pouvoirs de la compagnie.
-
-**Biens et droits**
-
-- **(2)** À compter de la date de ses lettres patentes, tous les biens et droits, meubles et immeubles, jusque-là détenus pour la compagnie aux termes d’une fiducie établie en vue de sa constitution en corporation, lui sont dévolus.
-
-**Autres pouvoirs**
-
-- **(3)** Rien dans le présent article n’empêche d’inclure, dans les lettres patentes ou les lettres patentes supplémentaires d’une compagnie, d’autres pouvoirs en sus ou en modification de ceux qui sont mentionnés au paragraphe (1).
-
-**Déni ou limitation de pouvoirs**
-
-- **(4)** Tout pouvoir énoncé au paragraphe (1) peut être refusé ou limité par les lettres patentes ou lettres patentes supplémentaires de la compagnie.
-> S.R. 1970, ch. C-32, art. 16; 2017, ch. 6, art. 118.
-
+**16** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -338,155 +160,49 @@ la compagnie est passible de liquidation et de dissolution en vertu de la Loi su
 
 
 ### Changement des dispositions des lettres patentes
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Demande en vue de l’extension ou de la réduction des pouvoirs**
-
-**20** 
-
-- **(1)** Sous réserve de droits spéciaux, afférents à des actions d’une ou de plusieurs catégories, qu’énoncent les lettres patentes ou les lettres patentes supplémentaires, une compagnie peut, de temps à autre, lorsqu’elle est autorisée par règlement sanctionné par les deux tiers des voix émises à une assemblée générale extraordinaire des actionnaires, convoquée pour en délibérer, demander des lettres patentes supplémentaires, selon que le prévoit ledit règlement,
-	- **a)** en vue d’ajouter aux objets de la compagnie de nouveaux ou d’autres objets pour lesquels une compagnie peut être constituée en corporation en vertu de la présente Partie, ou
-	- **b)** en vue de réduire, limiter, modifier ou varier les objets ou les pouvoirs de la compagnie ou de quelqu’une des dispositions des lettres patentes ou des lettres patentes supplémentaires émises en faveur de la compagnie;
-mais aucune extension, réduction, limitation, modification ou variation de ce genre ne peut avoir pour effet de modifier, ou de permettre que soit modifié, le capital autorisé de la compagnie autrement qu’en conformité de l’émission de lettres patentes supplémentaires aux termes des articles 51 à 60 ou de l’article 134, selon que peuvent l’exiger les circonstances.
-
-**Conversion d’une compagnie**
-
-- **(2)** Une compagnie peut, lorsqu’elle y est autorisée par un règlement sanctionné par les trois quarts des voix émises à une assemblée générale extraordinaire des actionnaires, convoquée pour en délibérer, demander des lettres patentes supplémentaires la convertissant en une compagnie publique, dans le cas d’une compagnie privée, ou en une compagnie privée, dans le cas d’une compagnie publique.
-
-**Limitation**
-
-- **(3)** Une demande prévue au paragraphe (1) ou (2) ne peut être présentée que dans les six mois après que les actionnaires ont sanctionné le règlement y mentionné.
-
-**Preuve du règlement**
-
-- **(4)** Avant l’émission des lettres patentes supplémentaires, la compagnie doit établir, à la satisfaction du Ministre, que le règlement qui autorise la demande a été régulièrement adopté et sanctionné; et, à cette fin, le Ministre peut recevoir toute preuve nécessaire, faite par écrit, sous serment ou affirmation, ou sous déclaration statutaire et doit conserver un dossier de la preuve ainsi reçue.
-
-**Lettres patentes supplémentaires**
-
-- **(5)** Sur preuve ainsi faite de la sanction régulière d’un règlement en conformité des paragraphes (1) ou (2), selon le cas, le Ministre peut octroyer des lettres patentes supplémentaires
-	- **a)** ayant pour effet d’ajouter aux objets de la compagnie;
-	- **b)** ayant pour effet de réduire, limiter, modifier ou varier les objets ou les pouvoirs de la compagnie ou une disposition des lettres patentes ou des lettres patentes supplémentaires de la compagnie; ou
-	- **c)** ayant pour effet de convertir la compagnie en une compagnie publique ou privée,
-selon le cas, et ainsi que le prévoit ce règlement; le Ministre en donne avis immédiatement dans la Gazette du Canada, et les lettres patentes supplémentaires prennent effet à compter de leur date.
-> S.R. 1952, ch. 53, art. 17; 1964-65, ch. 52, art. 14.
-
+**20** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Contrats, etc.
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Les contrats des agents sont obligatoires pour la compagnie**
-
-**21** 
-
-- **(1)** Les contrats, conventions, engagements ou marchés faits, les lettres de change tirées ou acceptées ou endossées, les billets à ordre et chèques souscrits, tirés ou endossés, au nom de la compagnie, par ses agents, ses fonctionnaires ou serviteurs, dans ce qui semble être les limites de leur autorité comme agents, fonctionnaires ou serviteurs, lient la compagnie.
-
-**Cas où le sceau n’est pas nécessaire**
-
-- **(2)** Dans aucun cas, il n’est nécessaire d’apposer le sceau de la compagnie à ces contrats, conventions, engagements, marchés, lettres de change, billets à ordre ou chèques, ni de prouver qu’ils ont été faits, tirés, acceptés ou endossés, selon le cas, conformément à quelque règlement, ou à quelque vote ou ordre spécial.
-
-**Pas de responsabilité individuelle**
-
-- **(3)** La personne qui agit de la sorte en qualité d’agent, de fonctionnaire ou de serviteur de la compagnie ne contracte, par ce fait, aucune responsabilité personnelle envers les tiers.
-> S.R. 1952, ch. 53, art. 18.
+**21** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Les actes des procureurs lient la compagnie**
-
-**22** Tout acte qu’une personne signe au nom de la compagnie et scelle de son propre sceau, après qu’elle a été dûment autorisée par la compagnie à agir comme son fondé de pouvoir en l’espèce, lie cette dernière et a le même effet que s’il était revêtu du sceau de la compagnie.
-> S.R. 1952, ch. 53, art. 19.
+**22** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Sceau officiel, fac-similé du sceau corporatif**
-
-**23** 
-
-- **(1)** Si une compagnie y est autorisée par ses statuts, elle peut avoir, pour s’en servir dans une province qui n’est pas la province où est situé le siège de la compagnie, ou pour s’en servir dans un territoire, district ou endroit hors du Canada, un sceau officiel qui doit être le fac-similé du sceau corporatif avec l’addition sur sa face du nom de la province, du territoire, du district ou de l’endroit où ce sceau doit être utilisé.
-
-**Autorisation d’apposer le sceau**
-
-- **(2)** Une compagnie ayant un pareil sceau officiel peut, par écrit, sous son sceau corporatif, autoriser toute personne désignée à cette fin à apposer le sceau officiel sur tout acte ou autre document auquel la compagnie est partie en quelque capacité que ce soit dans cette province, ce territoire, ce district ou cet endroit.
-
-**Pouvoir de l’agent**
-
-- **(3)** Le pouvoir de cet agent, en ce qui concerne les relations entre la compagnie et toute personne traitant avec ledit agent, continue pendant la période, s’il en est, indiquée dans l’instrument conférant ce pouvoir, ou, si aucune période n’y est mentionnée, jusqu’à ce qu’il ait été donné avis de la révocation ou de la cessation du mandat de l’agent à la personne traitant avec ce dernier.
-
-**Date et endroit certifiés**
-
-- **(4)** La personne qui appose ce sceau officiel doit certifier par écrit et de sa main, sur l’acte ou autre instrument auquel le sceau est apposé, la date et le lieu de l’apposition dudit sceau; toutefois, l’absence d’une telle certification n’invalide pas l’acte ou autre document.
-
-**L’acte engage la compagnie**
-
-- **(5)** Tout acte ou autre document sur lequel un sceau officiel est dûment apposé engage la compagnie comme s’il avait été revêtu du sceau corporatif.
-> S.R. 1952, ch. 53, art. 20.
-
+**23** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Siège
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Siège**
-
-**24** 
-
-- **(1)** La compagnie est tenue de toujours avoir un siège à l’endroit au Canada que prévoient les lettres patentes ou les dispositions de la présente Partie, lequel siège est le domicile de la compagnie au Canada; et elle peut établir ailleurs, à l’intérieur ou hors du Canada, les autres bureaux et agences qu’elle juge utiles.
-
-**Changement de siège par règlement**
-
-- **(2)** La compagnie peut, par règlement, changer l’endroit où son siège doit être situé.
-
-**Les changements doivent être sanctionnés**
-
-- **(3)** Un règlement afin de changer l’endroit où son siège doit être situé n’est pas valide ou rien ne doit être fait sous son autorité tant qu’il n’est pas sanctionné par au moins les deux tiers des voix émises à une assemblée générale extraordinaire des actionnaires régulièrement convoquée pour en délibérer.
-
-**Production du règlement**
-
-- **(4)** Une copie du règlement authentiquée sous le sceau de la compagnie doit être immédiatement produite au bureau du Ministre et peut y être examinée durant les heures normales de bureau.
-
-**Avis du règlement**
-
-- **(5)** Un avis du règlement doit être publié immédiatement dans la Gazette du Canada.
-> S.R. 1952, ch. 53, art. 21; 1964-65, ch. 52, art. 15; 1967-68, ch. 9, art. 3.
-
+**24** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Nom de la compagnie
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Nom de la compagnie**
-
-**25** 
-
-- **(1)** Le mot « Limitée » ou, en abrégé, « Ltée » doit être le dernier mot du nom de chaque compagnie, mais, dans l’un et l’autre cas, la compagnie peut utiliser les mots « Limitée » ou « Ltée », et être légalement désignée par l’un ou l’autre de ces termes, et toute mention de ladite compagnie peut être faite de la même manière.
-
-**Utilisation de l’appellation anglaise ou française du nom**
-
-- **(2)** Si la compagnie a un nom comportant une appellation française et une appellation anglaise, distinctes ou combinées, elle peut à l’occasion faire usage de l’appellation française ou de l’appellation anglaise de son nom, ou des deux appellations à la fois; elle peut être légalement désignée sous l’une ou l’autre appellation ou sous les deux à la fois.
-
-**Publicité du nom de la compagnie**
-
-- **(3)** Une compagnie doit
-	- **a)** tenir son nom peint ou apposé en évidence et en caractères facilement lisibles, à l’extérieur de chaque bureau ou lieu où elle fait ses opérations;
-	- **b)** tenir son nom gravé en caractères lisibles sur son sceau et, si la compagnie possède un nom comprenant une appellation française et une appellation anglaise, distinctes ou combinées, son sceau doit porter à la fois les appellations française et anglaise de son nom, ou elle doit avoir deux sceaux, d’une égale validité, l’un portant l’appellation française et l’autre l’appellation anglaise de son nom; et
-	- **c)** faire mettre son nom, en caractères lisibles, dans tous ses avis, annonces et autres publications officielles, et dans toutes les lettres de change, billets à ordre, endossements, chèques et mandats d’argent ou commandes de marchandises, paraissant signés par elle ou en son nom, ainsi que toutes ses factures et ses quittances.
-> 1964-65, ch. 52, art. 16.
-
+**25** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -494,134 +210,50 @@ selon le cas, et ainsi que le prévoit ce règlement; le Ministre en donne avis 
 
 
 
-
-**Usage d’un sceau lorsque le nom n’est pas gravé**
-
-**27** Tout administrateur, gérant ou fonctionnaire d’une compagnie, de même que toute personne agissant au nom de la compagnie, qui
-- **a)** fait usage ou autorise l’usage d’un sceau paraissant être celui de la compagnie et sur lequel le nom de la compagnie n’est pas gravé en caractères lisibles,
-- **b)** émet ou autorise à émettre quelque avis, annonce ou autre publication officielle de la compagnie,
-- **c)** signe ou autorise à signer, au nom de la compagnie, quelque lettre de change, billet à ordre, endossement, chèque, mandat d’argent ou commande de marchandises, ou
-- **d)** émet ou autorise à émettre quelque état de compte, facture ou quittance de la compagnie,
-sans que le nom de la compagnie y soit mentionné en caractères lisibles, est passible d’une amende de deux cents dollars, et est, en outre, responsable personnellement envers le porteur de la lettre de change, du billet à ordre, du chèque, du mandat d’argent ou de la commande de marchandises, pour le montant y déclaré, à moins que l’effet ne soit dûment acquitté par la compagnie.
-> S.R. 1952, ch. 53, art. 24.
+**27** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Ne doit pas porter un nom identique**
-
-**28** 
-
-- **(1)** Une compagnie ne doit pas être constituée en corporation
-	- **a)** sous un nom identique ou semblable à celui sous lequel une autre compagnie, société, association ou firme existante fait des opérations au Canada ou est constituée en corporation en vertu des lois du Canada ou de l’une de ses provinces, ou ressemblant à ce nom au point d’être conçu de manière à induire en erreur, sauf lorsque la compagnie, société, association ou firme existante est en voie d’être dissoute ou de changer son nom et signifie son consentement de la manière requise par le Ministre,
-	- **b)** ni sous un nom qui est par ailleurs susceptible d’objections pour des motifs d’intérêt public.
-
-**Le Ministre peut changer le nom par lettres patentes supplémentaires**
-
-- **(2)** Si une compagnie, par inadvertance ou autrement, est constituée en corporation, sans le consentement indiqué au paragraphe (1), sous un nom identique ou semblable à celui sous lequel une autre compagnie, société, association ou firme existante a fait antérieurement des opérations au Canada ou a été précédemment constituée en corporation en vertu des lois du Canada ou de l’une de ses provinces, ou sous un nom ressemblant à ce nom au point d’être conçu de manière à induire en erreur, ou qui est par ailleurs susceptible d’objections pour des motifs d’intérêt public, le Ministre, après avoir notifié à la compagnie son intention de le faire, peut ordonner l’émission de lettres patentes supplémentaires changeant le nom de la compagnie en un autre qui sera énoncé dans les lettres patentes supplémentaires.
-
-**Avis**
-
-- **(3)** Avis de l’émission de ces lettres patentes supplémentaires doit être publié dans la Gazette du Canada.
-> S.R. 1952, ch. 53, art. 25.
+**28** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Une compagnie peut faire changer son nom**
-
-**29** 
-
-- **(1)** Lorsqu’une compagnie désire adopter un autre nom, elle peut, sous réserve de confirmation par des lettres patentes supplémentaires, changer son nom corporatif au moyen d’un règlement sanctionné par au moins les deux tiers des voix émises à une assemblée générale extraordinaire des actionnaires convoquée pour en délibérer.
-
-**Lettres patentes supplémentaires**
-
-- **(2)** À la demande de la compagnie et après s’être assuré que le changement désiré n’est pas susceptible d’objections, le Ministre peut ordonner l’émission de lettres patentes supplémentaires changeant le nom de la compagnie en quelque autre nom indiqué dans les lettres patentes supplémentaires.
-
-**Avis**
-
-- **(3)** Avis de l’émission de ces lettres patentes supplémentaires doit être publié dans la Gazette du Canada.
-> S.R. 1952, ch. 53, art. 26.
+**29** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Le changement n’atteint ni les droits ni les obligations**
-
-**30** Aucun changement de nom, opéré en vertu des articles 28 et 29, n’atteint les droits ou engagements de la compagnie; et toutes les procédures qui auraient pu être poursuivies ou intentées par ou contre la compagnie, sous son ancien nom, peuvent l’être par ou contre elle, sous son nouveau nom.
-> S.R. 1952, ch. 53, art. 27.
-
+**30** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Déchéance de la charte
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Déchéance de la charte par non-usage**
-
-**31** 
-
-- **(1)** Si une compagnie ne fait pas de bonne foi des opérations réelles dans les trois ans de sa constitution en corporation ou si, pendant trois années consécutives, elle n’use point de ses pouvoirs corporatifs, sa charte est et devient frappée de déchéance.
-
-**Preuve d’usage**
-
-- **(2)** Dans toute action ou procédure où ce non-usage est allégué, la preuve de l’usage incombe à la compagnie.
-
-**Rétablissement de la charte**
-
-- **(3)** Le Ministre peut, sur demande de toute personne intéressée, rétablir toute charte ainsi frappée de déchéance lorsque les conditions qu’il peut prescrire sont observées.
-> S.R. 1952, ch. 53, art. 28.
-
+**31** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Abandon de la charte
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Abandon de la charte**
-
-**32** 
-
-- **(1)** Une compagnie peut abandonner sa charte si elle convainc le Ministre
-	- **a)** que la compagnie n’a aucun actif et que, si elle en possédait immédiatement avant la demande d’autorisation d’abandonner sa charte, cet actif a été partagé proportionnellement entre ses actionnaires ou ses membres, et,
-		- **(i)** qu’elle n’a ni dettes, ni engagements, ni autres obligations, ou
-		- **(ii)** qu’il a été dûment pourvu aux dettes, aux engagements ou aux autres obligations de la compagnie ou qu’ils sont protégés, ou que les créanciers de la compagnie ou les autres personnes qui possèdent des intérêts dans ces dettes, engagements ou autres obligations consentent; et
-	- **b)** que la compagnie a donné avis qu’elle demande l’autorisation d’abandonner sa charte en publiant cet avis une fois dans la Gazette du Canada et une fois dans un journal publié dans la localité où la compagnie a son siège ou aussi près que possible de cette localité.
-
-**Demande présentée par une compagnie dont l’activité a cessé**
-
-- **(2)** Lorsqu’une demande d’abandon de charte est présentée par une compagnie qui n’est pas, de bonne foi, entrée en exploitation ou a cessé toute activité pendant trois années consécutives ou plus, si les circonstances mentionnées à l’alinéa (1)a) sont établies au moyen d’une preuve que le Ministre juge satisfaisante, ce dernier doit publier un avis de la demande dans la Gazette du Canada et, à moins qu’une opposition à l’abandon de la charte ne lui ait été notifiée dans l’année qui suit cette publication, il peut accueillir la demande d’abandon de charte.
-
-**Acceptation de l’abandon**
-
-- **(3)** Lorsque le Ministre a accepté un abandon de charte, une fois observées les dispositions du paragraphe (1) ou (2), selon le cas, il peut ordonner l’annulation de la charte de la compagnie et fixer une date à laquelle et à compter de laquelle la compagnie doit être dissoute; et, dès lors, la compagnie est en conséquence dissoute.
-
-**Pas de frais pour une compagnie qui a cessé toute activité**
-
-- **(4)** Aucuns frais ne sont exigés à l’égard de l’abandon, prévu au présent article, de la charte d’une compagnie décrite au paragraphe (2).
-> 1964-65, ch. 52, art. 17.
+**32** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Responsabilité des actionnaires après la dissolution de la compagnie**
-
-**33** Nonobstant la dissolution d’une compagnie en exécution de l’article 32, les actionnaires de la compagnie parmi lesquels son actif a été partagé demeurent, jusqu’à concurrence de la somme qu’ils ont reçue respectivement en vertu de ce partage, conjointement et solidairement responsables envers les créanciers de la compagnie; et une action peut être intentée devant toute cour compétente pour faire exécuter cette responsabilité, mais cette action doit être commencée dans l’année qui suit la date de la dissolution de la compagnie, et non après.
-> S.R. 1952, ch. 53, art. 30.
-
+**33** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Actions
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **34** [Abrogé, 2009, ch. 23, art. 313]
@@ -664,17 +296,14 @@ sans que le nom de la compagnie y soit mentionné en caractères lisibles, est p
 
 
 
-
-**Transfert par un représentant personnel**
-
-**43** Un transfert des actions ou autres intérêts d’un actionnaire décédé, qu’effectue son représentant personnel, bien que celui-ci ne soit pas lui-même actionnaire, est aussi valable que si ce représentant avait la qualité d’actionnaire au moment où il passe l’acte de transfert.
-> S.R. 1952, ch. 53, art. 40.
-
+**43** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Appels de versements
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **44** [Abrogé, 2009, ch. 23, art. 313]
@@ -763,212 +392,56 @@ sans que le nom de la compagnie y soit mentionné en caractères lisibles, est p
 
 
 ### Pouvoirs d’emprunter
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Pouvoirs d’emprunter**
-
-**65** 
-
-- **(1)** S’ils y sont autorisés par règlement, dûment adopté par les administrateurs et sanctionné par au moins les deux tiers des voix émises à une assemblée générale extraordinaire des actionnaires régulièrement convoquée pour étudier le règlement, les administrateurs d’une compagnie peuvent, à l’occasion,
-	- **a)** emprunter de l’argent sur le crédit de la compagnie;
-	- **b)** restreindre ou augmenter la somme à emprunter;
-	- **c)** émettre des débentures ou autres valeurs de la compagnie;
-	- **d)** engager ou vendre les débentures ou autres valeurs qui semblent appropriées pour les sommes et aux prix jugés opportuns; et
-	- **e)** garantir ces débentures, ou autres valeurs, ou tout autre emprunt ou engagement présent ou futur de la compagnie, au moyen d’un *mortgage*, d’une hypothèque, d’une charge ou d’un nantissement visant tout ou partie des biens meubles et immeubles que la compagnie possède couramment à titre de propriétaire ou qu’elle a subséquemment acquis, ainsi que tout ou partie de l’entreprise et des droits de la compagnie.
-
-**Délégation de pouvoirs**
-
-- **(2)** Ce règlement peut prescrire la délégation de tels pouvoirs, par les administrateurs à tels fonctionnaires ou administrateurs de la compagnie, dans telle mesure et de telle manière que peut énoncer ce règlement.
-
-**Réserves pour lettres de change et billets**
-
-- **(3)** Aucune disposition du présent article ne limite ni ne restreint les emprunts d’argent par la compagnie sur des lettres de change ou billets à ordre faits, tirés, acceptés ou endossés par la compagnie ou en son nom.
-> S.R. 1952, ch. 53, art. 63; 1964-65, ch. 52, art. 29.
+**65** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Débentures perpétuelles**
-
-**66** Une condition contenue dans toutes débentures ou dans tout acte les garantissant n’est pas nulle du fait seul que les débentures sont de la sorte rendues irrachetables, ou rachetables seulement dans le cas d’une éventualité, quelque éloignée qu’elle puisse être, ou à l’expiration d’une période, si longue qu’elle soit, nonobstant toute règle d’*equity* à ce contraire.
-> S.R. 1952, ch. 53, art. 64.
+**66** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Pouvoir de réémettre des débentures dans certains cas**
-
-**67** 
-
-- **(1)** Si, avant ou après le 1<sup>er</sup> octobre 1934, une compagnie a racheté des débentures antérieurement émises, alors,
-	- **a)** à moins qu’une stipulation contraire, expresse ou implicite, ne soit contenue dans les débentures ou dans un contrat passé par la compagnie; ou
-	- **b)** à moins que, par une résolution de ses actionnaires ou par tout autre acte, la compagnie n’ait manifesté son intention que les débentures soient annulées;
-la compagnie a la faculté de réémettre les débentures, soit en réémettant les mêmes débentures, soit en émettant à leur place d’autres débentures; mais la réémission d’une débenture ou l’émission d’une autre débenture à sa place, en vertu de la faculté accordée à une compagnie par le présent article, ne doit pas être traitée comme l’émission d’une nouvelle débenture pour les fins de quelque disposition restreignant le montant ou le nombre de débentures à émettre.
-
-**Priorités lors de la réémission**
-
-- **(2)** Lors d’une réémission de débentures rachetées, la personne ayant droit à ces débentures jouit des mêmes droits et privilèges que si les débentures n’avaient jamais été rachetées.
-
-**Détails dans le bilan**
-
-- **(3)** Quand une compagnie a la faculté de réémettre des débentures qui ont été rachetées, des renseignements au sujet des débentures qui peuvent être ainsi réémises doivent figurer dans chacun des bilans de la compagnie.
-
-**Débentures déposées pour garantir des avances**
-
-- **(4)** Lorsqu’une compagnie a déposé quelqu’une de ses débentures pour garantir à l’occasion des avances en compte courant ou autrement, ces débentures ne sont pas considérées comme ayant été rachetées par le fait seul que le compte de la compagnie a cessé d’être au débit pendant que les débentures sont restées ainsi déposées.
-
-**Droit sauvegardé**
-
-- **(5)** Rien dans le présent article n’est préjudiciable à toute faculté d’émettre des débentures à la place de débentures acquittées ou autrement payées ou éteintes, réservée à une compagnie par ses débentures ou par un acte quelconque qui en garantit le paiement.
-> S.R. 1952, ch. 53, art. 65.
-
+**67** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Renseignements sur les hypothèques et charges
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Délivrance des détails prescrits**
+**68** [Abrogé, 2009, ch. 23, art. 313]
 
-**68** 
 
-- **(1)** À l’égard de toute hypothèque ou charge créée par une compagnie après le 1<sup>er</sup> octobre 1934, qui est
-	- **a)** une hypothèque ou charge ayant pour objet de garantir une émission de débentures,
-	- **b)** une hypothèque ou charge sur le montant non appelé du capital-actions de la compagnie,
-	- **c)** une charge flottante sur l’entreprise ou les biens de la compagnie,
-	- **d)** une hypothèque ou charge sur les versements appelés mais non effectués, ou
-	- **e)** une hypothèque ou charge sur l’achalandage, sur un brevet ou sur une licence en vertu d’un brevet, sur un certificat de protection supplémentaire délivré en vertu de la [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md) ou sur une licence en vertu d’un tel certificat, sur une marque de fabrique ou de commerce ou sur un droit d’auteur ou sur une licence en vertu d’un droit d’auteur,
-la compagnie doit remettre au Ministre les détails prescrits de l’hypothèque ou de la charge, ainsi qu’une copie de la pièce, s’il en est, par laquelle l’hypothèque ou la charge est créée ou établie, certifiée par le secrétaire de la compagnie, ou, dans la province de Québec, une copie notariée de cette pièce, dans les trente jours de la date de sa création.
 
-**Exception**
+**69** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la remise, par une compagnie, d’un récépissé d’entrepôt, d’un connaissement ou d’une garantie prévue par les dispositions de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) comme garantie subsidiaire de paiement d’une dette ou d’un engagement de la compagnie, ni à une charge flottante créée par une compagnie sur la totalité ou l’un de ses comptes à recevoir après le 1<sup>er</sup> octobre 1934.
 
-**Idem**
 
-- **(3)** S’il s’agit d’une hypothèque ou charge créée hors du Canada qui comprend exclusivement des biens situés hors du Canada, il suffit que les détails prescrits et la copie certifiée conforme de la pièce par laquelle l’hypothèque ou la charge est créée ou établie soient transmis au Ministre dans les quatre-vingt-dix jours de la date à laquelle la pièce ou la copie aurait pu être reçue au Canada dans le cours régulier de la poste et si elle avait été expédiée avec la diligence voulue.
+**70** [Abrogé, 2009, ch. 23, art. 313]
 
-**Biens acquis assujettis à hypothèque ou charge**
 
-- **(4)** Lorsque, après le 1<sup>er</sup> octobre 1934, une compagnie acquiert un bien qui est assujetti à une hypothèque ou charge d’une nature telle que, si elle avait été créée par la compagnie après l’acquisition du bien, il aurait fallu, aux termes du paragraphe (1), en transmettre les détails au Ministre, la compagnie doit remettre au Ministre les détails prescrits de l’hypothèque ou de la charge, ainsi qu’une copie de la pièce, s’il en est, par laquelle l’hypothèque ou la charge est créée ou établie, certifiée par le secrétaire de la compagnie, ou, dans la province de Québec, une copie notariée de cette pièce, dans les quatre-vingt-dix jours de la date où l’acquisition est complétée.
 
-**Registre à tenir par le Ministre**
+**71** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(5)** Le Ministre doit tenir, pour chaque compagnie, un registre dans la forme prescrite, sur lequel doivent être inscrits, à l’égard de toute hypothèque ou charge dont copie a été transmise au Ministre, la date de cette hypothèque ou charge, le montant qu’elle garantit, des renseignements succincts concernant les biens hypothéqués ou grevés, ainsi que les noms des créanciers hypothécaires ou des bénéficiaires de la charge, ou les détails à transmettre au Ministre en vertu du paragraphe (6), suivant le cas.
 
-**Détails**
 
-- **(6)** Lorsqu’une compagnie crée une série de débentures comportant ou donnant aux porteurs de cette série, par renvoi à une autre pièce, un privilège auquel ils ont droit *pari passu*, il suffit que le Ministre soit mis en possession, dans les trente jours de la signature de l’acte créant cette charge ou, à défaut de cet acte, après l’émission des débentures de la série, des renseignements suivants :
-	- **a)** le montant total garanti par la série entière;
-	- **b)** la date de l’acte d’autorisation, s’il en est, par lequel la garantie est créée ou définie, ou, s’il n’existe aucun acte semblable, la date de l’émission de la première débenture de la série;
-	- **c)** une description générale de la propriété grevée; et
-	- **d)** le nom des fiduciaires, s’il en existe, pour les porteurs de débentures;
-ainsi qu’une copie de l’acte d’autorisation, s’il en est, certifiée par le secrétaire de la compagnie sous le sceau corporatif ou, dans la province de Québec, une copie notariée de cet acte, ou si cet acte n’existe pas, la copie de l’une des débentures de la série certifiée par le secrétaire de la compagnie sous son sceau corporatif; et le Ministre, contre paiement du droit prescrit, doit inscrire ces détails sur le registre.
+**72** [Abrogé, 2009, ch. 23, art. 313]
 
-**Taux de la commission**
 
-- **(7)** Lorsqu’une compagnie a payé ou accordé à une personne une commission, une allocation ou un escompte, directement ou indirectement, en considération du fait qu’elle a souscrit ou consenti à souscrire, soit absolument, soit conditionnellement, à des débentures de la compagnie, ou qu’elle a procuré ou consenti à procurer des souscriptions absolues ou conditionnelles, à de telles débentures, les renseignements requis par le présent article pour l’enregistrement doivent comprendre les détails relatifs au montant ou tantième de cette commission, de cet escompte ou de cette allocation ainsi payés ou accordés.
 
-**Débentures en garantie**
-
-- **(8)** Le dépôt de débentures, à titre de garantie pour une dette de la compagnie, n’est pas considéré, pour les fins du paragraphe (7), comme une émission des débentures au-dessous du pair.
-
-**Omission de se conformer**
-
-- **(9)** L’inobservation du présent article ne porte pas atteinte à la validité de l’hypothèque ou de la charge ou des débentures émises; mais tout administrateur ou fonctionnaire qui sciemment et délibérément autorise ou permet ce manquement et la compagnie sont passibles, après déclaration sommaire de culpabilité, d’une amende d’au plus vingt dollars pour chaque jour que dure ce manquement.
-
-**Registre ouvert à l’inspection**
-
-- **(10)** Le registre tenu conformément au présent article peut être consulté par toute personne indistinctement, moyennant le droit prescrit.
-
-**Copie tenue au siège**
-
-- **(11)** Chaque compagnie doit voir à ce que soit tenu, à son siège, un exemplaire de toute pièce créant une hypothèque ou une charge dont les détails, aux termes du présent article, doivent être remis au Ministre.
-> S.R. 1970, ch. C-32, art. 68; 2017, ch. 6, art. 119.
-
-
-
-
-
-**Avis d’une ordonnance désignant un séquestre**
-
-**69** 
-
-- **(1)** Toute personne ayant obtenu une ordonnance pour la désignation d’un séquestre ou d’un séquestre et gérant des biens d’une compagnie, ou qui, en vertu des pouvoirs spécifiés dans une pièce, nomme ce séquestre ou ce séquestre et gérant, doit, dans les quatorze jours qui suivent la date de ladite ordonnance ou de ladite nomination, notifier le fait au Ministre, lequel doit, contre paiement de la taxe prescrite, inscrire le fait sur le registre.
-
-**Amende**
-
-- **(2)** L’infraction commise volontairement aux prescriptions du présent article rend passible, sur déclaration sommaire de culpabilité, d’une amende maximum de vingt dollars par jour de retard.
-> S.R. 1952, ch. 53, art. 67.
-
-
-
-
-
-**Inscription de décharge**
-
-**70** Le Ministre peut, s’il est établi à sa satisfaction que la dette pour laquelle une hypothèque ou une charge a été créée et inscrite sur le registre qu’il tient a été payée ou éteinte, ordonner l’insertion d’une note de libération sur le registre, et il doit, s’il en est requis, en délivrer copie à la compagnie.
-> S.R. 1952, ch. 53, art. 68.
-
-
-
-
-
-**Registre des hypothèques de la compagnie**
-
-**71** 
-
-- **(1)** Toute compagnie doit tenir un registre des hypothèques et y inscrire toutes hypothèques et charges dont il faut transmettre les détails au Ministre, et de toutes autres hypothèques et charges grevant particulièrement les biens de la compagnie et qui ne sont pas des hypothèques ou charges auxquelles le paragraphe 68(1) ne s’applique pas, donnant, dans chaque cas, une description succincte des biens hypothéqués ou grevés, le montant de l’hypothèque ou de la charge, et, sauf en cas de valeurs au porteur, le nom et l’adresse, s’ils sont connus, des créanciers hypothécaires ou des ayants droit, à moins que ces nom et adresse, s’ils sont connus, ne soient inscrits sur un registre des débentures tenu par ou pour la compagnie.
-
-**Délivrance sans enregistrement**
-
-- **(2)** Tout administrateur, gérant ou autre fonctionnaire de la compagnie, qui, délibérément, autorise ou permet l’omission d’une des inscriptions exigées par le présent article, se rend passible, sur déclaration sommaire de culpabilité, d’une amende maximum de deux cents dollars.
-> S.R. 1952, ch. 53, art. 70.
-
-
-
-
-
-**Droit d’inspection de la copie des pièces**
-
-**72** 
-
-- **(1)** Les copies de pièces créant des hypothèques ou charges qui, en vertu de la présente loi, doivent être transmises au Ministre, ainsi que le registre des hypothèques tenu conformément à l’article 71, peuvent être examinés, à des heures raisonnables, par tout créancier ou actionnaire de la compagnie, sans frais; le registre des hypothèques peut aussi être consulté par toute personne moyennant le paiement d’une redevance que la compagnie peut fixer et qui ne doit pas dépasser vingt-cinq cents pour chaque consultation.
-
-**Si l’inspection est refusée**
-
-- **(2)** Si l’examen desdites copies ou dudit registre est refusé, tout fonctionnaire de la compagnie qui injustement refuse l’examen, de même que tout administrateur ou fonctionnaire de la compagnie qui délibérément autorise ou permet un pareil refus, est passible, sur déclaration sommaire de culpabilité, d’une amende maximum de vingt dollars, et d’une autre amende maximum de dix dollars pour chaque jour que persiste ce refus.
-> S.R. 1952, ch. 53, art. 71.
-
-
-
-
-
-**Droit, pour les porteurs de débentures, de consulter le registre**
-
-**73** 
-
-- **(1)** Tout registre des porteurs de débentures d’une compagnie doit être ouvert à l’examen des porteurs enregistrés de ces débentures et de tous les actionnaires de la compagnie, sauf pendant les périodes de fermeture fixées par les statuts de la compagnie ou les stipulations des débentures ou de l’acte les créant, s’il en est, périodes qui ne doivent pas dépasser au total trente jours par an. La compagnie peut apporter certaines restrictions raisonnables à cette obligation, mais ne jamais réduire à moins de deux heures par jour la durée d’examen de ce registre. Tout porteur peut se faire remettre copie dudit registre ou de partie dudit registre, moyennant le paiement de dix cents par cent mots de copie.
-
-**Copie d’un acte de fiducie à transmettre**
-
-- **(2)** Une copie de tout acte de fiducie passé pour garantir une émission de débentures doit être envoyée à tout porteur de ces débentures, sur sa demande, contre paiement, si l’acte est imprimé, de vingt-cinq cents ou d’un moindre droit que la compagnie peut fixer par règlement ou, si l’acte n’est pas imprimé, de dix cents par cent mots de copie.
-
-**Si l’inspection est refusée**
-
-- **(3)** Si, à tort, la consultation ou la remise d’un exemplaire est refusée, ou cet exemplaire n’est pas expédié, la compagnie se rend passible, sur déclaration sommaire de culpabilité, d’une amende maximum de vingt dollars, et d’une autre amende maximum de dix dollars pour chaque jour que dure le refus ou la négligence de remettre un exemplaire; et tout administrateur, gérant, secrétaire ou autre fonctionnaire de la compagnie, qui, délibérément, autorise ou permet ce refus, est passible de la même peine.
-> S.R. 1952, ch. 53, art. 72.
-
+**73** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Prospectus et offres au public
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **74** [Abrogé, 2009, ch. 23, art. 313]
@@ -1047,14 +520,7 @@ ainsi qu’une copie de l’acte d’autorisation, s’il en est, certifiée par
 
 
 
-
-**Les administrateurs sont indemnisés à l’occasion d’actions se rapportant à l’exécution de leurs fonctions**
-
-**93** Tout administrateur de la compagnie et ses héritiers, exécuteurs testamentaires et administrateurs, ainsi que ses biens et effets, peuvent respectivement, du consentement de la compagnie, donné à une assemblée des actionnaires, être tenus, au besoin et à toutes époques, sur les fonds de la compagnie, indemnes et à couvert
-- **a)** de tous frais, charges et dépenses quelconques que cet administrateur supporte ou subit au cours ou à l’occasion d’une action, poursuite ou procédure intentée ou exercée contre lui, à l’égard ou en raison d’actes faits ou de choses accomplies ou permises par lui dans l’exercice et pour l’exécution de ses fonctions; et
-- **b)** de tous autres frais, charges et dépenses qu’il supporte ou subit au cours ou à l’occasion des affaires de la compagnie, ou relativement à ces affaires, excepté ceux qui résultent de sa propre négligence ou de son omission volontaire.
-> S.R. 1952, ch. 53, art. 91.
-
+**93** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -1074,74 +540,11 @@ ainsi qu’une copie de l’acte d’autorisation, s’il en est, certifiée par
 
 
 
-
-**Administrateur intéressé dans un contrat avec la compagnie**
-
-**98** 
-
-- **(1)** Sous réserve du présent article, tout administrateur d’une compagnie qui, sous quelque forme que ce soit, est intéressé directement ou indirectement dans un contrat ou dans un projet de contrat avec la compagnie, est tenu de faire connaître son intérêt à une réunion des administrateurs de la compagnie.
-
-**À quelle réunion la déclaration doit être faite**
-
-- **(2)** Dans le cas d’un projet de contrat, la déclaration requise par le présent article doit être faite par l’administrateur en cause à la réunion des administrateurs à laquelle la question de la conclusion du contrat doit être examinée pour la première fois; ou, si l’administrateur n’est pas intéressé dans le projet de contrat à la date de cette réunion, il doit faire cette déclaration à la première réunion des administrateurs tenue après qu’il est devenu ainsi intéressé; et, si l’administrateur devient intéressé dans un contrat après que celui-ci a été passé, ladite déclaration doit être faite à la première réunion des administrateurs tenue après que l’administrateur en cause est devenu intéressé dans le contrat dont il s’agit.
-
-**Ce qui est jugé déclaration suffisante**
-
-- **(3)** Pour l’application du présent article, un avis général par lequel un administrateur fait connaître aux administrateurs de la compagnie qu’il est actionnaire d’une autre compagnie ou qu’il y est par ailleurs intéressé, ou qu’il est membre d’une firme spécifiée et qu’il doit être considéré comme étant intéressé dans tout contrat qui pourrait être passé avec ladite compagnie ou firme, est considéré comme une déclaration suffisante des intérêts qu’il peut avoir dans tout contrat passé dans ces conditions.
-
-**L’administrateur ne doit pas voter s’il est intéressé**
-
-- **(4)** Nul administrateur ne doit voter concernant un contrat ou un projet de contrat dans lequel il est ainsi intéressé comme il est susdit, et s’il vote, sa voix ne doit pas être comptée, mais cette interdiction ne s’applique pas
-	- **a)** s’il s’agit d’un contrat passé par la compagnie ou pour son compte pour conférer aux administrateurs ou à l’un d’entre eux une garantie pour des avances ou par voie d’indemnité,
-	- **b)** s’il s’agit d’une compagnie privée, lorsqu’il n’y a pas quorum des administrateurs en exercice qui ne sont pas ainsi intéressés, ou
-	- **c)** s’il s’agit d’un contrat entre la compagnie et une autre compagnie où les intérêts de l’administrateur de la compagnie en dernier lieu mentionnée consistent exclusivement dans le fait d’être un administrateur ou fonctionnaire de cette compagnie en dernier lieu mentionnée, et le porteur d’au plus le nombre d’actions de cette compagnie en dernier lieu mentionnée requis pour le qualifier comme administrateur.
-
-**Lorsque l’administrateur n’est pas responsable**
-
-- **(5)** Un administrateur qui a fait une déclaration de ses intérêts dans un contrat ou projet de contrat conformément au présent article et n’a pas voté à l’égard de ce contrat contrairement à l’interdiction contenue au paragraphe (4), alors que cette interdiction s’applique, n’est pas comptable envers la compagnie ni envers l’un quelconque de ses actionnaires ou créanciers pour le seul motif que cet administrateur occupe cette fonction ou par le seul fait du lien fiduciaire établi de ce chef pour tout profit réalisé par ce contrat.
-
-**« Contrat » « réunion des administrateurs »**
-
-- **(6)** Pour l’application du présent article, « contrat » comprend « arrangement » et « réunion des administrateurs » comprend une réunion d’un comité exécutif élu conformément à l’article 96.
-
-**Nulle responsabilité quand le contrat est confirmé**
-
-- **(7)** Rien dans le présent article n’impose de responsabilité à un administrateur à l’égard du profit réalisé par tout contrat qui a été confirmé par le vote d’actionnaires de la compagnie à une assemblée générale extraordinaire convoquée à cette fin.
-> S.R. 1952, ch. 53, art. 96.
+**98** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Responsabilité des administrateurs quant aux salaires non payés**
-
-**99** 
-
-- **(1)** Les administrateurs de la compagnie sont conjointement et solidairement responsables envers ses commis, ouvriers, serviteurs et apprentis, de toutes dettes, jusqu’à concurrence de six mois de salaire, en raison de services accomplis pour la compagnie pendant leur administration respective.
-
-**Absence de responsabilité**
-
-- **(2)** Un administrateur n’est pas responsable en vertu du paragraphe (1) à moins que
-	- **a)
-** la compagnie n’ait été poursuivie pour la dette dans les six mois après que celle-ci est devenue exigible et que le bref d’exécution n’ait été rapporté insatisfait en totalité ou en partie, ou que
-	- **b)
-** la compagnie, pendant cette période, n’ait fait faillite ou n’ait reçu l’ordre d’être liquidée en vertu de la 
-[Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md), ou n’ait fait une cession autorisée en vertu de la 
-[Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), ou qu’en vertu de la 
-[Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) une ordonnance de faillite n’ait été rendue contre elle et qu’une réclamation de cette dette n’ait été régulièrement déposée et prouvée,
-ni à moins qu’il ne soit poursuivi pour cette dette pendant qu’il est administrateur ou dans l’année après qu’il a cessé d’être administrateur.
-
-**Somme recouvrable**
-
-- **(3)** Si un bref d’exécution a été ainsi émis, le montant recouvrable à l’encontre de l’administrateur doit être le montant restant insatisfait à l’égard de ce bref.
-
-**Privilège des administrateurs**
-
-- **(4)** Si la réclamation de cette dette a été prouvée dans des procédures en liquidation ou sous le régime de la 
-Loi sur les liquidations ou de la 
-Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à toute priorité à laquelle le créancier payé aurait eu droit, et lorsqu’un jugement a été recouvré, il a droit à une cession du jugement.
-> S.R. 1970, ch. C-32, art. 99; 2004, ch. 25, art. 189.
-
+**99** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -1179,20 +582,11 @@ Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à tou
 
 
 ### Assemblées des actionnaires
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Assemblée annuelle**
-
-**102** 
-
-- **(1)** Une assemblée annuelle des actionnaires de la compagnie doit avoir lieu à une date non postérieure aux dix-huit mois qui suivent la constitution en corporation de la compagnie et, ensuite, une fois au moins chaque année civile et au plus quinze mois après qu’a eu lieu la dernière assemblée annuelle précédente.
-
-**En cas de défaut**
-
-- **(2)** S’il y a omission de tenir une assemblée annuelle requise au paragraphe (1), la cour de la province où est situé le siège de la compagnie peut, sur demande de tout actionnaire de la compagnie, convoquer une assemblée annuelle des actionnaires ou en ordonner la convocation.
-> S.R. 1952, ch. 53, art. 100.
-
+**102** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -1208,12 +602,7 @@ Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à tou
 
 
 
-
-**Pouvoir de la cour d’ordonner la convocation d’une assemblée**
-
-**106** S’il n’est pas pratique, pour une raison quelconque, de convoquer une assemblée des actionnaires de la compagnie de toute manière dont les assemblées des actionnaires peuvent être convoquées, ou de diriger l’assemblée de la manière prescrite par les lettres patentes, les lettres patentes supplémentaires, les règlements ou la présente Partie, la cour de la province où le siège de la compagnie est situé peut, soit de sa propre initiative, soit sur la demande de tout administrateur ou de tout actionnaire qui aurait droit de voter à l’assemblée, ordonner qu’une assemblée soit convoquée, tenue et conduite de telle manière que la cour juge convenable. Quand elle a rendu une ordonnance de ce genre, la cour peut donner telles instructions afférentes ou consécutives qu’elle juge convenables; toute assemblée convoquée, tenue et conduite conformément à ladite ordonnance est considérée, à toutes fins, comme étant une assemblée des actionnaires de la compagnie dûment convoquée, tenue et conduite.
-> S.R. 1952, ch. 53, art. 104.
-
+**106** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -1263,26 +652,11 @@ Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à tou
 
 
 ### Registre
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Contenu des registres**
-
-**109** 
-
-- **(1)** La compagnie fait tenir par son secrétaire, ou par quelque autre fonctionnaire spécialement chargé de ce soin, un ou plusieurs registres où sont consignés
-	- **a)** une copie des lettres patentes, tous les règlements de la compagnie et toute lettre patente supplémentaire émise à la compagnie et une copie du mémorandum de convention de la compagnie, s’il en est;
-	- **b)** les noms, par ordre alphabétique, de toutes les personnes qui sont ou qui ont été actionnaires de la compagnie;
-	- **c)** l’adresse et la qualité de chaque personne, pendant qu’elle est actionnaire, autant qu’elles peuvent être déterminées;
-	- **d)** les noms, adresses et qualités de ceux qui sont ou qui ont été administrateurs de la compagnie, ainsi que les différentes dates auxquelles ils sont devenus administrateurs ou ont cessé de l’être;
-	- **e)** le nombre d’actions de chaque catégorie détenues par chaque actionnaire; et
-	- **f)** les versements effectués et restant à effectuer respectivement sur les actions de chaque actionnaire.
-
-**Où les livres doivent être tenus**
-
-- **(2)** Le registre ou les registres de la compagnie doivent être tenus au siège de la compagnie, sauf que si le registre des transferts et les registres sur lesquels sont inscrits les détails mentionnés aux alinéas (1)b), c), e) et f) sont tenus par un agent nommé par la compagnie pour consigner le transfert des actions de cette dernière, et qui a une place d’affaires établie au Canada où le droit d’inspection conféré par l’article 111 peut s’exercer, ces registres en dernier lieu mentionnés n’ont pas besoin d’être tenus au siège de la compagnie, mais peuvent l’être au bureau d’affaires de cet agent au Canada où le registre des transferts est tenu.
-> S.R. 1952, ch. 53, art. 107; 1967-68, ch. 9, art. 4.
-
+**109** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -1294,58 +668,15 @@ Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à tou
 
 
 
-
-**Liste des actionnaires**
-
-**111.1** 
-
-- **(1)** Toute personne a le droit, sur paiement des frais à cet effet et sur production à la compagnie ou à son agent de transfert de la déclaration qui peut être prescrite par règlement établi par le gouverneur en conseil, d’obtenir, d’une compagnie autre qu’une compagnie privée ou de son agent de transfert, dans les dix jours de la production de cette déclaration, une liste indiquant les noms de toutes les personnes qui sont actionnaires de la compagnie, le nombre des actions possédées par chacune d’elles et leur adresse tel que le tout figure aux registres de la compagnie, arrêtés à une date antérieure d’au plus dix jours à la date de production de l’affidavit.
-
-**Déclaration d’une compagnie**
-
-- **(2)** Lorsque le requérant est une corporation, la déclaration prescrite doit être faite par le président ou par un autre fonctionnaire autorisé par résolution du conseil d’administration de cette corporation.
-
-**Infraction et peine**
-
-- **(3)** Toute personne qui, aux fins de communiquer à des actionnaires des renseignements relatifs à des marchandises, des services, des publications ou des titres autres que les titres de la compagnie ou ceux d’une autre compagnie offerts en échange des titres de la compagnie conformément à une offre visant à la prise de contrôle faite en conformité des articles 135.1 à 135.93 ou lors d’une fusion en conformité de l’article 137, se sert d’une liste des actionnaires obtenue en vertu du présent article, est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus mille dollars ou d’un emprisonnement d’au plus six mois ou des deux peines à la fois, et lorsqu’il s’agit d’une corporation, tout administrateur ou fonctionnaire de la corporation qui, sciemment, a autorisé ou permis l’infraction ou y a consenti, est également coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une peine semblable.
-
-**Idem**
-
-- **(4)** Toute compagnie ou agent de transfert qui omet de fournir une liste en conformité du paragraphe (1) lorsqu’il en est requis, est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus mille dollars et tout administrateur ou fonctionnaire d’une telle compagnie ou tout agent de transfert qui, sciemment, a autorisé ou permis l’infraction ou y a consenti, est également coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende semblable ou d’un emprisonnement d’au plus six mois ou des deux peines à la fois.
-
-**Idem**
-
-- **(5)** Quiconque vend, offre en vente, achète une liste ou copie de liste de tout ou partie des actionnaires d’une compagnie ou en fait autrement le trafic, est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus mille dollars ou d’un emprisonnement d’au plus six mois ou des deux peines à la fois et, lorsqu’il s’agit d’une corporation, tout administrateur ou fonctionnaire qui a sciemment autorisé ou permis l’infraction ou y a acquiescé est également coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une peine semblable.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 11.
+**111.1** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Des procès-verbaux des délibérations doivent être tenus**
-
-**112** 
-
-- **(1)** Toute compagnie doit faire insérer dans des livres tenus à cet effet les procès-verbaux des délibérations des assemblées des actionnaires, des administrateurs et de tout comité exécutif.
-
-**Constituent une preuve**
-
-- **(2)** Chacun de ces procès-verbaux, s’il est donné comme étant signé par le président de l’assemblée à laquelle les délibérations ont eu lieu, ou par le président de l’assemblée qui suit immédiatement, constitue la preuve des délibérations.
-
-**Assemblées censées dûment convoquées, etc.**
-
-- **(3)** Lorsque des procès-verbaux, conformément au présent article, ont été établis des délibérations de toute assemblée des actionnaires, ou des administrateurs ou du comité exécutif, alors, jusqu’à preuve du contraire, l’assemblée est censée avoir été régulièrement convoquée et tenue, et toutes les délibérations à ladite assemblée sont considérées comme ayant été régulièrement prises, et toutes les nominations d’administrateurs, de gérants ou autres fonctionnaires sont considérées comme ayant été dûment faites.
-> S.R. 1952, ch. 53, art. 110.
+**112** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Négligence à tenir les registres**
-
-**113** Toute compagnie qui néglige de tenir le registre ou les registres que la présente Partie lui enjoint de tenir est coupable d’une infraction et passible, après déclaration sommaire de culpabilité, d’une amende de vingt dollars au plus pour chaque jour que dure cette négligence.
-> S.R. 1952, ch. 53, art. 111.
-
+**113** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -1353,843 +684,136 @@ Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à tou
 
 
 
+**114.1** [Abrogé, 2009, ch. 23, art. 313]
 
-**Examen portant sur le droit de propriété des valeurs**
 
-**114.1** 
 
-- **(1)** Lorsqu’il apparaît au Ministre que, aux fins des articles 100 à 100.6 et des articles 135.1 à 135.93, il y a des raisons d’enquêter sur le droit de propriété des valeurs d’une compagnie, le Ministre ou son représentant autorisé peut exiger de toute personne, lorsque le Ministre a raisonnablement lieu de croire
-	- **a)** qu’elle a ou a eu un droit afférent à ces valeurs, ou
-	- **b)** qu’elle agit ou a agi en ce qui concerne ces valeurs à titre de mandataire, de conseiller financier ou de conseiller de placements d’une personne ayant ou ayant eu un droit y afférent,
-qu’elle lui fournisse tout renseignement qu’elle possède ou que, selon des prévisions raisonnables, elle peut obtenir quant aux droits présents et passés afférents à ces valeurs, ainsi que les noms et les adresses des personnes ayant ou ayant eu un droit y afférent et de toutes personnes qui agissent ou ont agi pour leur compte en ce qui concerne ces valeurs.
+**114.2** [Abrogé, 2009, ch. 23, art. 313]
 
-**Droit présumé**
 
-- **(2)** Aux fins du paragraphe (1), une personne est censée avoir un droit afférent à des valeurs si elle a un droit d’acquisition ou d’aliénation de ces valeurs ou de tout droit y afférent ou un droit de vote y afférent, ou si son consentement est nécessaire pour l’exercice de l’un ou plusieurs des droits des autres personnes ayant un droit y afférent ou si d’autres personnes ayant un droit y afférent peuvent être requises d’exercer ou ont coutume d’exercer leurs droits en accord avec ses instructions.
 
-**Publication du rapport**
+**114.3** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(3)** Le Ministre peut
-	- **a)** expédier à la personne ou aux personnes pour lesquelles il juge à propos de le faire, un exemplaire de la partie d’un rapport reçu par lui et qui est relative à la propriété de valeurs d’une compagnie et il peut faire publier tout ou partie de ce rapport;
-	- **b)** divulguer comme il le juge à propos des renseignements relatifs à la propriété de valeurs d’une compagnie obtenus par lui par suite de son examen et les faire publier; et
-	- **c)** faire publier mensuellement, dans le périodique mentionné à l’article 100.2, la partie de ce rapport relative à la propriété de valeurs de la compagnie.
 
-**Infraction et peine**
 
-- **(4)** Toute personne qui omet volontairement de fournir des renseignements qu’elle doit fournir en vertu du présent article ou qui en donnant ces renseignements fait sciemment une déclaration qui est fausse quant à un détail important est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus mille dollars ou d’un emprisonnement d’au plus six mois ou des deux peines à la fois.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 12.
+**114.4** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
+**115** [Abrogé, 2009, ch. 23, art. 313]
 
 
-**Cas où une omission se produit**
 
-**114.2** 
-
-- **(1)** Lorsque, en conformité de la présente loi, une compagnie ou l’un de ses fonctionnaires sont tenus de fournir au ministère de la Consommation et des Corporations un rapport, une déclaration, un registre, un règlement, un état ou autre document ou une copie de ceux-ci, et que la compagnie ou le fonctionnaire omettent de le faire, le Ministre peut
-	- **a)** faire faire une inspection des affaires et de la gestion de la compagnie par une personne autorisée par lui en l’occurrence aux fins de déterminer les raisons de cette omission et de lui en faire rapport, ou
-	- **b)** par avis, enjoindre à toute compagnie ou à tout administrateur de celle-ci de fournir, dans le délai spécifié dans l’avis, une déclaration sur toute question liée à cette omission.
-
-**Inspection**
-
-- **(2)** Sous réserve du paragraphe (2.1), la personne (appelée au présent article « inspecteur ») autorisée en vertu du paragraphe (1) à mener une inspection en vertu du présent article peut, à tout moment raisonnable, pénétrer dans les locaux de la compagnie dont l’inspection des affaires et de la gestion a été autorisée en vertu du paragraphe (1) et peut, sur place, examiner toute chose; elle peut, pour compléter cet examen, prendre ou faire prendre copie de tout livre, pièce ou autre document ou registre qui, selon elle, concernent les questions faisant l’objet de l’inspection.
-
-**Pouvoir de délivrer un mandat**
-
-- **(2.1)** S’il est convaincu d’après une dénonciation faite sous serment qu’il y a des motifs raisonnables de croire à la présence dans les lieux visés au paragraphe (2) d’éléments de preuve concernant les questions faisant l’objet de l’examen, le juge de paix peut, sur demande *ex parte*, délivrer sous son seing un mandat autorisant l’inspecteur qui y est nommé à pénétrer dans ces lieux et à y exercer les autres pouvoirs visés au paragraphe (2), sous réserve des conditions éventuellement fixées dans le mandat.
-
-**Usage de la force**
-
-- **(2.2)** L’inspecteur nommé dans le mandat prévu au paragraphe (2.1) ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
-
-**Perquisition sans mandat**
-
-- **(2.3)** L’inspecteur peut exercer sans mandat les pouvoirs visés au paragraphe (2) lorsque l’urgence de la situation rend pratiquement contre-indiquée l’obtention du mandat, sous réserve que les conditions de délivrance de celui-ci soient par ailleurs réunies.
-
-**Situation d’urgence**
-
-- **(2.4)** Pour l’application du paragraphe (2.3), il y a notamment urgence dans les cas où le délai d’obtention du mandat risquerait de mettre en danger des personnes ou d’entraîner la perte ou la destruction d’éléments de preuve.
-
-**Assistance**
-
-- **(2.5)** La personne responsable des lieux qui font l’objet de la perquisition prévue au présent article, ainsi que tous les administrateurs, fonctionnaires, mandataires et employés de la compagnie, qui fait l’objet de l’enquête prévue au présent article doivent fournir à l’inspecteur toute l’aide raisonnable dont il a besoin pour faire son inspection.
-
-**Obligation d’exhiber l’autorisation**
-
-- **(3)** Lorsqu’il pénètre dans les locaux en vertu du présent article, l’inspecteur doit, s’il en est requis, exhiber à la personne responsable des lieux l’autorisation du Ministre.
-
-**Infraction et peine**
-
-- **(4)** Une personne qui
-	- **a)** ne permet pas à un inspecteur de pénétrer sur les lieux ou de faire une inspection en conformité de ses fonctions en vertu du présent article, ou
-	- **b)** de quelque manière que ce soit, gêne un inspecteur dans l’exercice de ses fonctions en vertu du présent article,
-est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus mille dollars ou d’un emprisonnement d’au plus six mois ou des deux peines à la fois.
-
-**Idem**
-
-- **(5)** Tout administrateur ou fonctionnaire de la compagnie qui, sciemment, autorise ou permet l’omission d’une déclaration exigée en vertu de l’alinéa (1)b) est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende ne dépassant pas cinquante dollars pour chaque jour pendant lequel se poursuit cette omission.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 12; 1985, ch. 26, art. 36.
-
-
-
-
-
-**Déposition et production obligatoire**
-
-**114.3** 
-
-- **(1)** Aucune personne ne doit être dispensée de comparaître, de témoigner et de produire les livres, pièces, documents ou registres en conformité de l’article 114.2 sous prétexte que la déposition ou les documents qu’on exige d’elle peuvent avoir pour effet de l’incriminer ou de la rendre passible de poursuites ou d’une peine, mais aucune déposition ainsi exigée n’est utilisable ni recevable contre elle dans des poursuites pénales intentées par la suite contre elle, hors le cas de poursuite pour parjure commis à l’occasion de cette déposition.
-
-**Communications des procureurs**
-
-- **(2)** Rien dans l’article 114.2 ou le présent article n’oblige un procureur à produire un document contenant une communication couverte par le secret professionnel qu’il a faite ou qu’on lui a faite en sa qualité de procureur ou n’autorise que l’on prenne possession de tout document qu’il détient légalement sans le consentement de son client ou une ordonnance d’un tribunal.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 12; 1986, ch. 26, art. 52.
-
-
-
-
-
-**Frais d’examen**
-
-**114.4** 
-
-- **(1)** Les frais directs ou indirects d’un examen, d’une enquête ou d’une inspection effectués en vertu de l’article 114, 114.1 ou 114.2 doivent être payés sur les crédits votés à cet effet par le Parlement, mais les personnes suivantes sont, dans la mesure indiquée ci-après, tenues de rembourser ces frais à titre de dette due à Sa Majesté du chef du Canada :
-	- **a)** une personne qui est déclarée coupable à la suite d’une poursuite fondée sur des faits que révèle l’examen en vertu de l’article 114 ou qui reçoit l’ordre de rendre des biens ou de payer des dommages-intérêts ou une indemnité dans des procédures intentées en vertu du paragraphe 114(27) peut, dans la même procédure, recevoir l’ordre de rembourser les frais au receveur général dans la mesure qui peut être spécifiée dans l’ordonnance;
-	- **b)** une compagnie au nom de laquelle des procédures sont intentées en vertu du paragraphe 114(27) est comptable envers Sa Majesté du chef du Canada du montant des sommes ou de la valeur des biens recouvrés par elle à la suite de ces procédures et les frais emportent un privilège de premier rang sur ces sommes ou ces biens.
-
-**Idem**
-
-- **(2)** Aux fins du présent article, les frais encourus par le Ministre relativement aux procédures intentées en vertu du paragraphe 114(27), doivent être considérés comme des frais de l’examen qui a donné lieu aux procédures.
-
-**Garantie du paiement des frais**
-
-- **(3)** Sur recommandation du Ministre, la Commission peut requérir tout actionnaire demandant un examen de remettre la garantie que la Commission juge suffisante pour le paiement des frais de l’examen et de toute enquête et inspection en résultant.
-
-**Ordonnance de payer les frais**
-
-- **(4)** À la clôture de l’examen, la Commission peut ordonner que toute garantie remise en application du paragraphe (3) soit rendue au requérant, mais si la Commission décide que la demande était vexatoire ou malicieuse, elle peut
-	- **a)** ordonner au requérant de payer au receveur général tout ou partie des frais de cet examen et de toute enquête ou inspection en résultant,
-	- **b)** ordonner au requérant de payer à la compagnie tout ou partie des frais qu’elle a faits à l’occasion de l’examen et de toute enquête ou inspection en résultant, et
-	- **c)** ordonner que toute garantie remise en application du paragraphe (3) soit affectée au paiement des frais mentionnés aux alinéas a) et b), dans cet ordre, et que, le cas échéant, le complément de cette garantie qui n’a pas été ainsi affecté soit rendu au requérant.
-
-**Dette due à Sa Majesté**
-
-- **(5)** Tous frais dont le paiement au receveur général est ordonné par la Commission en application du paragraphe (4) est une dette due à Sa Majesté du chef du Canada.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 12; 1986, ch. 26, art. 53.
-
-
-
-
-
-**Pouvoir de nommer des inspecteurs**
-
-**115** 
-
-- **(1)** Une compagnie peut, par résolution de ses actionnaires à une assemblée annuelle ou à une assemblée générale extraordinaire, convoquée à cette fin, nommer des inspecteurs pour examiner l’état de ses affaires.
-
-**Pouvoirs et devoirs des inspecteurs**
-
-- **(2)** Les inspecteurs ainsi désignés ont les mêmes pouvoirs et devoirs que les inspecteurs nommés par le Ministre, sauf que, au lieu d’adresser leur rapport au Ministre, ils doivent l’adresser de la manière et aux personnes que les actionnaires peuvent déterminer par résolution.
-
-**Refus de produire des registres ou de répondre à des questions**
-
-- **(3)** En cas de refus de produire un livre ou un document dont les inspecteurs ainsi nommés demandent la production, ou de répondre à une de leurs questions, les fonctionnaires et les agents de la compagnie encourent les mêmes peines qu’ils auraient encourues si les inspecteurs avaient été nommés par le Ministre.
-> S.R. 1952, ch. 53, art. 113.
-
-
-
-
-
-**Le rapport des inspecteurs fait foi**
-
-**116** Un exemplaire du rapport des inspecteurs nommés en vertu de la présente loi, authentiqué par le sceau de la compagnie dont ils ont examiné l’état des affaires, ou par le sceau du Ministre, est admissible, dans les procédures judiciaires, comme preuve de l’opinion des inspecteurs pour tout son contenu.
-> S.R. 1952, ch. 53, art. 114.
-
+**116** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Comptes et vérifications
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Livres de comptes et écritures comptables**
+**117** [Abrogé, 2009, ch. 23, art. 313]
 
-**117** 
 
-- **(1)** Chaque compagnie doit faire tenir des écritures comptables appropriées concernant toutes les opérations financières et autres de la compagnie et, sans restreindre la généralité de ce qui précède, doit faire consigner
-	- **a)** toutes les sommes d’argent reçues et déboursées par la compagnie, ainsi que les objets pour lesquels les recettes et les déboursés sont faits;
-	- **b)** toutes les ventes et tous les achats de la compagnie;
-	- **c)** toutes les valeurs actives et passives de la compagnie; et
-	- **d)** toutes les autres opérations qui intéressent la situation financière de la compagnie.
 
-**Registres à conserver au siège social**
+**118** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(2)** Les écritures comptables doivent être conservées au siège social de la compagnie ou à tel autre endroit au Canada que les administrateurs estiment opportun et doivent en tout temps être accessibles aux administrateurs pour examen.
 
-**Tenue de comptes et registres dans d’autres bureaux**
 
-- **(3)** Au cas où des comptes d’exploitation de la compagnie seraient tenus à quelque endroit hors du Canada, il doit être tenu au siège social de la compagnie les écritures d’ordre général qui permettront aux administrateurs de constater à la fin de chaque trimestre avec une précision raisonnable, la situation financière de la compagnie.
-> 1964-65, ch. 52, art. 39.
+**118.1** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
+**119** [Abrogé, 2009, ch. 23, art. 313]
 
 
-**Renseignements à fournir à l’assemblée annuelle**
 
-**118** 
+**120** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(1)** Les administrateurs doivent présenter à chaque assemblée annuelle des actionnaires
-	- **a)** un état financier comparatif couvrant séparément
-		- **(i)** la période commençant à la date de constitution en corporation et se terminant pas plus de six mois avant l’assemblée annuelle, ou, si la compagnie a terminé une année financière, la période commençant immédiatement après la fin de la dernière année financière terminée et se terminant pas plus de six mois avant l’assemblée annuelle, selon le cas, et
-		- **(ii)** le cas échéant, l’année financière précédant immédiatement la dernière année financière terminée,
-état financier corporatif composé
-		- **(iii)** d’un état des revenus pour chaque période,
-		- **(iv)** d’un état de l’excédent pour chaque période,
-		- **(v)** d’un état de provenance et d’affectation des fonds pour chaque période, et
-		- **(vi)** d’un bilan dressé à la fin de chaque période;
-	- **b)** le rapport du vérificateur aux actionnaires; et
-	- **c)** les autres renseignements relatifs à la situation financière de la compagnie qu’exigent la charte ou les règlements de la compagnie.
 
-**Désignations non nécessaires**
 
-- **(2)** Il n’est pas nécessaire de désigner respectivement les états mentionnés au paragraphe (1) sous le nom d’état des revenus, état de l’excédent, état de provenance et d’affectation des fonds ou bilan.
+**120.1** [Abrogé, 2009, ch. 23, art. 313]
 
-**Réserve**
 
-- **(3)** Nonobstant l’alinéa (1)a), l’état financier mentionné dans cet alinéa peut ne s’appliquer qu’à la période qui s’est terminée pas plus de six mois avant l’assemblée annuelle si les raisons de l’omission de l’état relatif à la période couverte par l’état financier antérieur sont indiquées dans l’état financier devant être déposé à cette assemblée ou par une note ajoutée à cet état.
 
-**Omission des états de provenance et d’affectation des fonds**
+**121** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(4)** Nonobstant le sous-alinéa (1)a)(v), l’état de provenance et d’affectation des fonds peut être omis si les raisons de cette omission sont indiquées dans l’état financier ou par une note ajoutée à cet état.
-> S.R. 1970, ch. C-32, art. 118; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 13.
 
 
+**122** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-**Exception concernant les petites compagnies privées**
+**122.1** [Abrogé, 2009, ch. 23, art. 313]
 
-**118.1** Chaque année, avec le consentement écrit de tous les actionnaires donné chaque année, une compagnie à laquelle l’alinéa 128(1)b) ne s’applique pas peut passer outre aux exigences des articles 119 à 124 en ce qui concerne tout état financier particulier, spécifié dans le consentement, sauf que l’état financier doit être rédigé de façon à présenter fidèlement les résultats des opérations de la compagnie pendant la période couverte par l’état.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 13.
 
 
+**122.2** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-**États des revenus**
+**123** [Abrogé, 2009, ch. 23, art. 313]
 
-**119** 
 
-- **(1)** Chaque état des revenus à présenter à une assemblée annuelle des actionnaires doit être dressé de façon à présenter fidèlement les résultats des opérations de la compagnie durant la période couverte par l’état et doit indiquer séparément au moins
-	- **a)** le montant des ventes ou le revenu brut provenant des opérations;
-	- **b)** le revenu provenant de placements dans des filiales dont les états financiers ne sont pas consolidés avec ceux de la compagnie;
-	- **c)** le revenu provenant de placements dans des compagnies affiliées qui ne sont pas des filiales;
-	- **d)** le revenu provenant d’autres placements;
-	- **e)** les profits et pertes extraordinaires dont le montant est appréciable, y compris les profits ou pertes provenant de la disposition de capitaux fixes et autres valeurs d’une nature spéciale, dans la mesure où ils ne sont pas indiqués séparément dans l’état de l’excédent gagné;
-	- **f)** la provision relative à l’amortissement y compris le vieillissement, et à l’épuisement;
-	- **g)** les montants déduits pour l’achalandage ou prévus pour l’amortissement des autres valeurs immatérielles, dans la mesure où ils ne sont pas indiqués séparément dans l’état de l’excédent gagné;
-	- **h)** l’intérêt sur toute dette contractée à l’origine pour une période de plus d’un an, y compris l’amortissement de l’escompte ou de la prime sur dette et les dépenses; et
-	- **i)** les impôts sur le revenu établis par quelque autorité taxatrice;
-et doit indiquer le profit net ou la perte nette pour l’exercice financier.
 
-**Note sur les articles**
+**124** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(2)** Nonobstant le paragraphe (1), un article mentionné aux alinéas f) ou g) de ce paragraphe peut être indiqué par une note ajoutée à l’état financier.
-> S.R. 1970, ch. C-32, art. 119; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 13.
 
 
+**125** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-**État de l’excédent**
+**126** [Abrogé, 2009, ch. 23, art. 313]
 
-**120** 
 
-- **(1)** Chaque état de l’excédent à déposer devant une assemblée annuelle des actionnaires doit être dressé de façon à présenter fidèlement les opérations visées dans l’état et doit indiquer séparément un état de l’excédent d’apport et un état de l’excédent d’exploitation.
 
-**Surplus de capital**
+**127** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(2)** Chaque état de l’excédent d’apport doit être dressé de façon à inclure et à indiquer séparément au moins les postes suivants :
-	- **a)** le solde d’un tel excédent à la fin de l’exercice financier précédent;
-	- **b)** ce qui a été ajouté audit excédent et ce qui en a été déduit, au cours de l’exercice financier, y compris
-		- **(i)** le montant de l’excédent provenant de l’émission d’actions ou de la réorganisation du capital d’émission de la compagnie, et notamment,
-			- **(A)** le montant des primes reçues lors de l’émission d’actions en prime, et
-				- **(B)** le montant de l’excédent réalisé sur l’achat pour annulation d’actions, et
-		- **(ii)** les donations de numéraire ou d’autres biens par les actionnaires; et
-	- **c)** le solde de l’excédent à la fin de l’exercice financier.
-
-**Excédent gagné**
-
-- **(3)** Chaque état de l’excédent gagné doit être dressé de façon à indiquer séparément au moins les postes suivants :
-	- **a)** le solde d’un tel excédent à la fin de l’exercice financier précédent;
-	- **b)** ce qui a été ajouté audit excédent et ce qui en a été déduit, au cours de l’exercice financier, et, sans restreindre la généralité de ce qui précède, au moins ce qui suit :
-		- **(i)** le montant du bénéfice net ou de la perte nette pour l’exercice financier,
-		- **(ii)** le montant des dividendes déclarés pour chaque catégorie d’actions; et
-		- **(iii)** le montant transféré aux réserves ou tiré de celles-ci; et
-	- **c)** le solde de l’excédent à la fin de l’exercice financier.
-> 1964-65, ch. 52, art. 39.
-
-
-
-
-
-**État de provenance et d’affectation de fonds**
-
-**120.1** Tout état de provenance et d’affectation des fonds qui doit être déposé devant une assemblée annuelle des actionnaires doit être dressé de façon à présenter fidèlement les renseignements y énoncés pour la période couverte par l’état et doit indiquer séparément au moins ce qui suit :
-- **a)** les fonds provenant
-	- **(i)** des opérations courantes,
-	- **(ii)** de la vente d’actifs non disponibles, en séparant les placements, les immobilisations et les valeurs immatérielles,
-	- **(iii)** de l’émission de valeurs ou autres titres de créance venant à échéance plus d’un an après l’émission, et
-	- **(iv)** de l’émission d’actions; et
-- **b)** les fonds affectés
-	- **(i)** à l’achat d’actifs non disponibles, en séparant les placements, les immobilisations et les valeurs immatérielles,
-	- **(ii)** au rachat ou autre retrait de valeurs ou remboursement d’autres titres de créance venant à échéance plus d’un an après l’émission,
-	- **(iii)** au rachat ou autre retrait d’actions, et
-	- **(iv)** au paiement de dividendes.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 14.
-
 
 
+**128** [Abrogé, 2009, ch. 23, art. 313]
 
 
-**Bilan**
 
-**121** 
+**129** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(1)** Chaque bilan à déposer devant une assemblée annuelle d’actionnaires doit être dressé de façon à présenter fidèlement la situation financière de la compagnie à la date où il est établi et à indiquer séparément au moins les postes suivants :
-	- **a)** l’encaisse;
-	- **b)** les dettes, envers la compagnie, de chacun des débiteurs suivants, savoir : ses administrateurs, les compagnies dans lesquelles ces administrateurs détiennent collectivement un intérêt majoritaire, ses fonctionnaires et ses actionnaires, sauf les dettes d’un montant raisonnable, résultant du cours ordinaire des affaires de la compagnie, qui ne sont pas en souffrance compte tenu des termes ordinaires de crédit de la compagnie;
-	- **c)** les dettes, envers la compagnie, soit par suite d’un emprunt ou autrement, de filiales dont les états financiers ne sont pas consolidés avec ceux de la compagnie;
-	- **d)** les dettes, envers la compagnie, soit à cause d’un emprunt soit autrement, de compagnies affiliées autres que des filiales;
-	- **e)** les autres dettes envers la compagnie en groupant séparément celles qui ont pris naissance autrement que dans le cours ordinaire des affaires de la compagnie;
-	- **f)** l’inventaire, en précisant la base d’évaluation;
-	- **g)** les actions, les obligations, les débentures et les autres placements semblables que détient la compagnie, sauf ceux que mentionnent les alinéas h) et i), en énonçant leur nature, leur coût et la base d’évaluation qui leur est applicable et en indiquant séparément ceux qui sont vendables, avec mention de leur valeur marchande;
-	- **h)** les actions ou les titres de filiales dont les états financiers ne sont pas consolidés avec ceux de la compagnie, en indiquant le coût et la base d’évaluation;
-	- **i)** les actions ou les titres de compagnies affiliées autres que des filiales, en indiquant leur coût et la base d’évaluation;
-	- **j)** les terrains, les bâtiments ainsi que les installations et le matériel, en indiquant
-		- **(i)** la base d’évaluation, soit en fonction du coût soit autrement, et, s’ils ont été évalués d’après une estimation faite depuis la date précédant de cinq ans celle du bilan, la date de l’estimation, le nom de l’estimateur, la base de l’estimation et l’imputation dans les comptes de la compagnie des montants ajoutés aux actifs ou déduits de ceux-ci lors de l’estimation, et
-		- **(ii)** le montant ou les montants accumulés pour l’amortissement, y compris le vieillissement et, en un poste distinct, pour l’épuisement;
-	- **k)** sous des rubriques distinctes, dans la mesure où ces postes n’ont pas été liquidés
-		- **(i)** les dépenses imputables à des opérations à venir,
-		- **(ii)** les dépenses encourues à l’occasion d’une émission d’actions,
-		- **(iii)** les dépenses encourues à l’occasion d’une émission de valeurs, y compris tout escompte sur celle-ci, et
-		- **(iv)** un ou plusieurs des divers postes suivants, savoir :
-			- **(A)** l’achalandage,
-				- **(B)** les concessions,
-				- **(C)** les brevets ou les certificats de protection supplémentaire délivrés en vertu de la [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md),
-				- **(D)** les droits d’auteur,
-				- **(E)** les marques de commerce, et
-				- **(F)** les autres valeurs immatérielles,en indiquant la base d’évaluation et le montant, s’il en est, par lequel la valeur de tels actifs a été accrue depuis la date précédant de cinq ans celle de l’établissement du bilan;
-	- **l)** le montant global des emprunts en cours sous le régime des alinéas 17(2)c), d) et e);
-	- **m)** les emprunts et les découverts auprès des banques;
-	- **n)** les dettes dues par la compagnie sur des prêts, provenant de ses administrateurs, fonctionnaires ou actionnaires;
-	- **o)** les dettes dues par la compagnie à des filiales dont les états financiers ne sont pas consolidés avec ceux de la compagnie, soit à cause d’un emprunt soit autrement;
-	- **p)** les dettes dues par la compagnie à des compagnies affiliées, autres que des filiales, soit à cause d’un emprunt soit autrement;
-	- **q)** les autres dettes dues par la compagnie, en groupant séparément celles qui ont pris naissance autrement que dans le cours ordinaire des affaires de la compagnie;
-	- **r)** le montant des impôts à payer, y compris le montant estimatif des impôts à payer à l’égard du revenu pour la période couverte par l’état des profits et pertes;
-	- **s)** les dividendes déclarés mais non payés;
-	- **t)** le revenu différé;
-	- **u)** les titres émis par la compagnie, en indiquant le taux de l’intérêt, la date d’échéance, le montant en circulation et l’existence d’un fonds d’amortissement, les conditions de rachat et les droits de conversion, s’il en est;
-	- **v)** le capital autorisé, en donnant le nombre de chaque catégorie d’actions et une brève description de chaque semblable catégorie, et en indiquant les catégories d’actions rachetables et leur prix de rachat, et en indiquant séparément toute catégorie d’actions qui est rachetable sur le capital;
-	- **w)** le capital émis, en indiquant le nombre d’actions émises et en circulation dans chaque catégorie et le montant reçu à leur égard et attribuable au capital, et en mentionnant
-		- **(i)** le nombre d’actions de chaque catégorie émises depuis la date du dernier bilan et la valeur attribuée à chaque catégorie, en distinguant les actions émises en contrepartie de numéraire des actions émises, directement ou indirectement, en rétribution de services et des actions émises, directement ou indirectement, pour une autre considération, et
-		- **(ii)** lorsque des actions n’ont pas été entièrement libérées,
-			- **(A)** le nombre d’actions à l’égard desquelles des appels de fonds n’ont pas été faits et le montant global non ainsi réclamé, et
-				- **(B)** le nombre d’actions à l’égard desquelles il a été fait des appels de fonds qui n’ont pas été versés et le montant global ainsi réclamé et non payé;
-	- **x)** l’excédent d’apport;
-	- **y)** l’excédent d’exploitation; et
-	- **z)** les réserves, montrant les montants qui y ont été ajoutés et ceux qui en ont été déduits au cours de l’exercice financier.
 
-**Renseignements explicatifs**
 
-- **(2)** Des renseignements ou des détails explicatifs sur tout poste mentionné au paragraphe (1) peuvent être fournis sous forme d’une note ajoutée à l’état financier.
-> S.R. 1970, ch. C-32, art. 121; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 15; 2017, ch. 6, art. 120.
+**129.1** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
+**129.2** [Abrogé, 2009, ch. 23, art. 313]
 
 
-**Note ajoutée à l’état financier**
 
-**122** 
+**129.3** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(1)** Une note ajoutée à chaque état financier doit indiquer
-	- **a)** les détails de tout changement apporté aux principes ou méthodes de comptabilité ou à leur mise en application pendant la période considérée, qui influe de façon appréciable sur la comparaison entre cet état et celui de l’exercice immédiatement antérieur; et
-	- **b)** l’effet, s’il est appréciable, de tout changement de ce genre sur les profits et pertes de l’exercice.
 
-**Changement apporté à des principes ou méthodes de comptabilité**
 
-- **(2)** Aux fins du paragraphe (1), un changement apporté à des principes ou méthodes de comptabilité ou à leur mise en application influe sur la comparabilité d’un état à celui de l’année précédente, même lorsqu’il n’a pas d’effet appréciable sur les profits ou les pertes de l’exercice.
+**130** [Abrogé, 2009, ch. 23, art. 313]
 
-**Renseignements supplémentaires**
 
-- **(3)** S’il y a lieu, il doit être fait mention des questions suivantes dans l’état financier ou au moyen d’une note y ajoutée :
-	- **a)** la base de conversion des montants à partir de monnaies autres que la monnaie dans laquelle est exprimé l’état financier;
-	- **b)** les restrictions en matière de devises étrangères applicables aux actifs de la compagnie;
-	- **c)** les obligations contractuelles qui exigeront des dépenses anormales par rapport aux exigences des affaires normales de la compagnie ou à sa situation financière ou qui entraîneront vraisemblablement des pertes auxquelles il n’est pas pourvu dans les comptes;
-	- **d)** les obligations contractuelles appréciables en ce qui concerne les baux à long terme, y compris, dans l’année où l’opération a été effectuée, les principaux détails de toute opération de vente ou de louage;
-	- **e)** les passifs éventuels, en indiquant leur nature et, lorsque c’est possible, les montants approximatifs en question;
-	- **f)** tout passif garanti, autrement que par l’effet de la loi, sur les actifs de la compagnie, en indiquant le passif ainsi garanti, mais sans nécessairement spécifier l’actif qui le garantit;
-	- **g)** tout défaut de la compagnie quant aux provisions concernant le capital, l’intérêt, le fonds d’amortissement ou le rachat relativement à toute émission de ses titres ou conventions de crédit;
-	- **h)** le montant brut des arriérés de dividendes pour toute catégorie d’actions et la date à laquelle ces dividendes ont été payés la dernière fois;
-	- **i)** lorsqu’une compagnie a passé contrat pour émettre des actions ou a donné une option sur l’achat d’actions, la catégorie et le nombre des actions en question, le prix et la date d’émission des actions ou d’exercice de l’option et, séparément, le nombre total des actions sur lesquelles les administrateurs et les fonctionnaires ont une option;
-	- **j)** [Abrogé, S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 16]
-	- **k)** dans le cas d’une *holding company*, le total de toutes les actions et le total de tous les titres de la *holding company*, détenus par les filiales dont les états financiers ne sont pas consolidés avec ceux de la *holding company*;
-	- **l)** le montant de tout prêt consenti par la compagnie ou par une filiale, autrement que dans le cours ordinaire des opérations, pendant l’exercice financier de la compagnie, aux administrateurs ou aux fonctionnaires de la compagnie;
-	- **m)** toute restriction au paiement de dividendes, imposée par la charte ou les statuts de la compagnie ou par contrat, qui a quelque importance compte tenu de la situation financière de la compagnie; et
-	- **n)** tout événement ou toute opération qui survient autrement que dans le cours normal des opérations, entre la date à laquelle l’état financier est établi et la date du rapport du vérificateur au sujet de cet état, et qui influe de façon appréciable sur l’état financier;
-	- **o)** le montant de toute obligation pour prestations de pension découlant de services antérieurs à la date du bilan, restant à imputer sur les opérations, et la base proposée pour l’imputation des frais y relatifs sur les opérations.
 
-**Une note fait partie de l’état financier**
+**131** [Abrogé, 2009, ch. 23, art. 313]
 
-- **(4)** Toute note ajoutée à un état financier en fait partie.
-> S.R. 1970, ch. C-32, art. 122; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 16.
 
 
+**132** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-**Autres opérations indiquées par une note**
-
-**122.1** 
-
-- **(1)** Lorsqu’une compagnie a, au cours d’un exercice financier, fait des opérations de deux ou plusieurs catégories qui, de l’avis de ses administrateurs, diffèrent notablement l’une de l’autre et qu’il s’agit d’une compagnie n’ayant pas de filiale à la fin de cet exercice financier ou, si elle a une ou plusieurs filiales, ne préparant son état financier sous la forme consolidée pour aucune filiale, on doit indiquer par une note ajoutée à chacun des états financiers de la compagnie les proportions dans lesquelles le montant des ventes ou du revenu brut pour cet exercice, pour autant qu’il soit indiqué dans l’état financier concernant cet exercice, est réparti entre ces catégories d’opérations.
-
-**Idem**
-
-- **(2)** Lorsqu’une compagnie a une ou plusieurs filiales à la fin de son exercice financier et qu’elle prépare son état financier sous la forme consolidée pour une ou plusieurs des filiales, si la compagnie et l’une ou plusieurs des filiales ont, au cours de l’exercice, fait des opérations de deux ou plusieurs catégories qui, de l’avis des administrateurs de la compagnie, diffèrent notablement l’une de l’autre, on doit indiquer par une note ajoutée à chacun des états financiers de la compagnie les proportions dans lesquelles le montant des ventes ou du revenu brut pour cet exercice, pour autant qu’il soit indiqué dans l’état financier concernant cette période, est réparti entre ces classes d’opérations.
-
-**Catégories d’opérations**
-
-- **(3)** Aux fins du présent article, les catégories d’opérations qui, de l’avis des administrateurs, ne diffèrent pas notablement l’une de l’autre doivent être traitées comme une seule et même catégorie.
-
-**Exception relative au rapport**
-
-- **(4)** Nonobstant les paragraphes (1) et (2), une compagnie n’est tenue de faire rapport que relativement à une catégorie d’opérations qui produit dix pour cent ou plus du revenu brut total de la compagnie.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 17.
-
-
-
-
-
-**Information concernant les administrateurs et les fonctionnaires**
-
-**122.2** 
-
-- **(1)** On doit indiquer dans chaque état financier ou par une note y ajoutée
-	- **a)** le nombre des administrateurs et leur rémunération globale en tant qu’administrateurs;
-	- **b)** le nombre des fonctionnaires et leur rémunération globale en tant que fonctionnaires; et
-	- **c)** le nombre des fonctionnaires qui sont également administrateurs.
-
-**Ce qui constitue la rémunération**
-
-- **(2)** Aux fins du présent article, la rémunération d’un administrateur ou d’un fonctionnaire comprend toute rémunération à lui payée, accordée ou qu’il peut recevoir de la compagnie et « rémunération » comprend les honoraires traitements, bonis, allocations pour les dépenses dont ils ne sont pas comptables, contributions payées en vertu d’un plan spécial de pension auquel ne peuvent généralement pas participer les employés de la compagnie, la valeur estimative des prestations de toute sorte et les montants payables sous forme d’indemnité pour perte de poste du fait qu’ils sont fonctionnaires ou administrateurs.
-
-**« Administrateur » et « fonctionnaire »**
-
-- **(3)** Aux fins du présent article, « administrateur » comprend un ancien administrateur et « fonctionnaire » comprend un ancien fonctionnaire recevant une rémunération de la compagnie.
-
-**Période de rémunération**
-
-- **(4)** Les montants devant être indiqués en vertu du présent article pour tout exercice financier doivent être les sommes recevables pour cet exercice, lorsqu’elles sont payées ou, dans le cas de sommes non recevables pour cet exercice, les sommes payées durant cet exercice.
-
-***Holding companies***
-
-- **(5)** Lorsqu’une compagnie faisant rapport en vertu du présent article est une *holding company*, les renseignements requis en vertu du paragraphe (1) pour tout exercice financier doivent être donnés séparément pour la *holding company* et chacune de ses filiales, que l’état financier soit un état financier consolidé ou non.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 17.
-
-
-
-
-
-**État financier consolidé de la *holding company***
-
-**123** 
-
-- **(1)** Toute compagnie, au présent article appelée «*holding company*», peut inclure, dans l’état financier à présenter à une assemblée annuelle des actionnaires, l’actif et le passif et les revenus et les dépenses de l’une ou plusieurs de ses filiales, en faisant les prévisions nécessaires pour ce qui concerne les intérêts minoritaires, s’il y en a, et en indiquant dans l’état financier qu’il est présenté sous une forme consolidée.
-
-**Renseignements exigés dans un état financier non consolidé**
-
-- **(2)** Lorsque l’actif, le passif, les revenus et les dépenses d’une ou de plusieurs filiales de la *holding company* ne sont pas ainsi inclus dans l’état financier de la *holding company*,
-	- **a)** l’état financier de la *holding company* doit inclure une déclaration indiquant
-		- **(i)** la raison pour laquelle l’actif et le passif et les revenus et les dépenses de la filiale ou des filiales ne sont pas inclus dans l’état financier de la *holding company*,
-		- **(ii)** s’il n’y a qu’une filiale, le montant de la part afférente à la *holding company* que représente le profit ou la perte de la filiale pour l’exercice financier qui coïncide avec celui de la *holding company* ou qui se termine au cours de ce dernier, ou, s’il y a plus d’une filiale, le montant de la part afférente à la *holding company* que représente l’ensemble des profits moins les pertes, ou des pertes moins les profits, de toutes les filiales pour les exercices financiers respectifs qui coïncident avec celui de la *holding company* ou qui se terminent au cours de ce dernier,
-		- **(iii)** le montant compris comme revenu de la filiale ou des filiales dans l’état des profits et pertes de la *holding company* et le montant y inclus à titre de provision pour la perte ou les pertes subies par la ou les filiales,
-		- **(iv)** s’il n’y a qu’une filiale, le montant de la part afférente à la *holding company* que représentent les profits non distribués de la filiale qui ont été gagnés depuis l’acquisition des actions de la filiale par la *holding company*, dans la mesure où ce montant n’a pas été compris dans les comptes de la *holding company*, ou, s’il y a plus d’une filiale, le montant de la part afférente à la *holding company* que représente l’ensemble des profits non distribués de toutes les filiales qui ont été gagnés depuis l’acquisition de leurs actions par la *holding company* moins la part, afférente à la *holding company*, des pertes subies, le cas échéant, par toute filiale depuis l’acquisition de ses actions, dans la mesure où ce montant n’a pas été compris dans les comptes de la *holding company*, et
-		- **(v)** les explications que renferme le rapport du vérificateur de toute filiale au sujet de son état financier pour l’exercice financier auquel le rapport a trait, et toute note ou renvoi figurant dans cet état financier pour attirer l’attention sur un sujet qui, hormis la note ou le renvoi, aurait été à juste titre mentionné dans une telle explication, dans la mesure où le sujet sur lequel porte l’explication ou la note n’est pas traité dans l’état financier de la compagnie elle-même et est important du point de vue de ses actionnaires;
-	- **b)** si, pour une raison quelconque, les administrateurs de la *holding company* sont incapables d’obtenir les renseignements qui sont nécessaires à la préparation de la déclaration qui doit être incluse dans l’état financier de la *holding company*, les administrateurs qui signent l’état financier doivent en faire rapport par écrit, et leur rapport doit être inclus dans l’état financier au lieu de la déclaration;
-	- **c)** des copies du dernier état financier de la filiale ou des filiales doivent être conservées par la *holding company* à son siège social et doivent, sur demande, être accessibles aux actionnaires de la *holding company*, aux fins de consultation, pendant les heures normales d’ouverture des bureaux de la *holding company*.
-
-**Ordonnance interdisant l’inspection**
-
-- **(3)** Une *holding company* peut, dans les quinze jours qui suivent une demande d’inspection en vertu de l’alinéa (2)c), s’adresser au juge en chef ou au juge en chef suppléant de la cour de la province dans laquelle est situé le siège social de la compagnie ou à un juge de cette cour désigné par l’un ou l’autre d’entre eux en vue d’obtenir une ordonnance interdisant l’exercice du droit d’inspection mentionné à l’alinéa (2)c), et le juge peut, selon les modalités qu’il peut imposer, refuser cette inspection lorsqu’il est convaincu que cette inspection porterait préjudice aux intérêts de la *holding company*, de la filiale ou des filiales.
-
-**Avis au Ministre**
-
-- **(4)** Une *holding company* doit donner au Ministre un préavis d’au moins dix jours de toute demande en vertu du paragraphe (3) et le Ministre a droit de comparaître par procureur et d’être entendu à ce sujet.
-
-**Appel**
-
-- **(5)** Une personne intéressée peut interjeter appel de toute ordonnance rendue en vertu du paragraphe (3) devant toute cour d’appel de la province dans laquelle est situé le siège social de la compagnie.
-> S.R. 1970, ch. C-32, art. 123; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 18.
-
-
-
-
-
-**Sujet peu important**
-
-**124** Nonobstant les articles 119 à 123, il n’est pas nécessaire d’indiquer dans un état financier un sujet qui, sous tous les rapports, est relativement peu important.
-> 1964-65, ch. 52, art. 39.
-
-
-
-
-
-**Filiale**
-
-**125** 
-
-- **(1)** Aux fins de la présente loi, une compagnie est une filiale d’une autre compagnie seulement si,
-	- **a)** elle est contrôlée par
-		- **(i)** cette autre compagnie, ou
-		- **(ii)** cette autre compagnie et une ou plusieurs compagnies dont chacune est contrôlée par cette autre compagnie, ou
-		- **(iii)** deux ou plusieurs compagnies dont chacune est contrôlée par cette autre compagnie; ou si
-	- **b)** elle est une filiale d’une filiale de cette autre compagnie.
-
-***Holding company***
-
-- **(2)** Aux fins de la présente loi, une compagnie est la *holding company* d’une autre compagnie seulement si cette dernière en est une filiale.
-
-**Compagnies affiliées**
-
-- **(3)** Aux fins de la présente loi,
-	- **a)** une compagnie n’est affiliée à une autre compagnie que si l’une des deux est la filiale de l’autre ou si l’une et l’autre sont des filiales de la même compagnie ou si chacune d’elles est contrôlée par la même personne; et
-	- **b)** lorsque deux compagnies sont affiliées ou sont, aux termes du présent article, censées être affiliées à la même compagnie en même temps, elles sont censées être affiliées l’une à l’autre.
-
-**Compagnie contrôlée**
-
-- **(4)** Aux fins du présent article, une compagnie est contrôlée par une autre compagnie ou par une autre personne ou par deux ou plusieurs compagnies seulement si
-	- **a)** des actions de la compagnie mentionnée en premier lieu, donnant droit à plus de cinquante pour cent des voix pour l’élection des administrateurs, sont détenues, autrement qu’à titre de garantie seulement, par cette autre compagnie ou personne ou à son profit, ou par ces autres compagnies ou à leur profit; et si
-	- **b)** les voix que comportent ces actions sont suffisantes, lorsqu’on y a recours, pour élire une majorité au conseil d’administration de la compagnie mentionnée en premier lieu.
-> S.R. 1970, ch. C-32, art. 125; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 19.
-
-
-
-
-
-**« Réserve »**
-
-**126** Dans un état financier, l’expression « réserve » ne doit servir qu’à décrire
-- **a)** des montants affectés, à partir de l’excédent d’exploitation, comme la direction le juge à propos, à une fin autre que pour honorer un passif, un imprévu ou un engagement connu, admis ou contracté à la date de l’état ou pour faire face à une baisse qui s’est produite dans la valeur d’un actif;
-- **b)** des montants affectés, à partir de l’excédent d’exploitation, conformément à la charte ou aux statuts de la compagnie, à une fin autre que pour honorer un passif, un imprévu ou un engagement connu, admis ou contracté à la date de l’état ou pour faire face à une baisse qui s’est produite dans la valeur d’un actif; et
-- **c)** des montants qui sont affectés, à partir de l’excédent d’exploitation, conformément aux termes d’un contrat et qui peuvent être retournés à l’excédent d’exploitation lorsque les conditions du contrat sont remplies.
-> 1964-65, ch. 52, art. 39.
-
-
-
-
-
-**Approbation de l’état financier**
-
-**127** 
-
-- **(1)** L’état financier doit être approuvé par le conseil d’administration et la signature de deux administrateurs dûment autorisés à signer, apparaissant au bas du bilan, doit attester cette approbation.
-
-**Le rapport du vérificateur doit être joint**
-
-- **(2)** Le rapport du vérificateur doit être joint à l’état financier et lu à l’assemblée annuelle des actionnaires et tout actionnaire doit pouvoir l’examiner.
-
-**Infraction**
-
-- **(3)** Une compagnie commet une infraction lorsqu’elle émet, distribue ou publie une copie de l’état financier
-	- **a)** dont l’original n’a pas été approuvé par son conseil d’administration;
-	- **b)** sans avoir fait signer le bilan par deux administrateurs; ou
-	- **c)** sans joindre à l’état le rapport du vérificateur.
-> 1964-65, ch. 52, art. 39.
-
-
-
-
-
-**Expédition des états financiers**
-
-**128** 
-
-- **(1)** Quatorze jours ou plus avant la date de l’assemblée annuelle,
-	- **a)** chaque compagnie doit envoyer par courrier postal affranchi une copie de l’état financier et une copie du rapport du vérificateur à chaque actionnaire, à sa dernière adresse figurant aux registres de la compagnie, à l’exception des actionnaires qui ont informé la compagnie par écrit qu’ils ne désirent pas recevoir une copie de ces documents, et
-	- **b)** chaque compagnie à laquelle le présent alinéa s’applique doit fournir au ministère de la Consommation et des Corporations copie de ces documents ainsi que la preuve, en la forme que le Ministre peut juger satisfaisante, que les dispositions de l’alinéa a) ont été respectées.
-
-**États requis par un détenteur de valeurs**
-
-- **(2)** Chaque compagnie doit, à la demande d’un détenteur de valeurs de la compagnie, fournir gratuitement à ce détenteur une copie des plus récents documents qui sont mentionnés au paragraphe (1) et qui ont été mis à la disposition des actionnaires avant cette demande.
-
-**Application de l’alinéa 128(1)b)**
-
-- **(3)** L’alinéa (1)b) s’applique à
-	- **a)** une compagnie publique, et
-	- **b)** une compagnie privée dont le revenu brut dépasse dix millions de dollars au cours de tout exercice se terminant dans l’année où le présent article entre en vigueur ou après celle-ci et pour lequel la présente loi exige la préparation d’un état financier, ou dont l’actif total, le dernier jour de cet exercice, dépasse cinq millions de dollars,
-mais il ne s’applique pas à une compagnie privée qui est une corporation personnelle au sens de l’article 76 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) pendant la totalité de l’année pour laquelle la présente loi exige un état financier.
-
-**Interprétation**
-
-- **(4)** Aux fins de l’alinéa (3)b), le revenu brut et l’actif total de toute autre compagnie à laquelle une compagnie privée visée audit alinéa b) est affiliée au sens où l’entend l’article 125 doivent être inclus dans le revenu brut et l’actif total de cette compagnie privée, à moins que les états financiers de la compagnie privée et de ses compagnies affiliées, le cas échéant, ne soient consolidés avec ceux d’une *holding company* qui fournit ces états financiers consolidés conformément à l’alinéa (1)b).
-
-**Exception**
-
-- **(5)** Lorsqu’une compagnie privée serait, n’eût été le présent paragraphe, affiliée à une autre compagnie du fait qu’elle est contrôlée par la même personne (cette dernière personne est ci-après désignée au présent paragraphe sous le nom de « dirigeant majoritaire »), et qu’il est établi à la satisfaction du Ministre
-	- **a)** qu’il existe en fait un accord ou arrangement exécutoire selon ses termes, en vertu duquel, après la réalisation d’une condition ou la survenance d’un événement auxquelles on peut raisonnablement s’attendre, la compagnie privée
-		- **(i)** cessera d’être contrôlée par le dirigeant majoritaire, et
-		- **(ii)** passera sous le contrôle d’une personne ou d’un groupe de personnes, avec laquelle ou avec chacun des membres duquel, selon le cas, le dirigeant majoritaire traite à distance, et
-	- **b)** que l’objet principal pour lequel la compagnie privée est ainsi contrôlée est la protection des droits ou intérêts du dirigeant majoritaire relatifs
-		- **(i)** à un prêt consenti par le dirigeant majoritaire et dont tout ou partie du principal est impayé, ou
-		- **(ii)** à des actions du capital social de la compagnie privée qui sont la propriété du dirigeant majoritaire et qui doivent, aux termes de l’accord ou arrangement, être rachetées par la compagnie privée ou achetées par la personne ou le groupe de personnes mentionnés au sous-alinéa a)(ii),
-la compagnie privée et l’autre compagnie à laquelle elle serait autrement ainsi affiliée sont censées, aux fins du présent article, ne pas être affiliées l’une à l’autre, tant que les conditions indiquées aux alinéas a) et b) demeurent inchangées, à moins que le Ministre n’ait prescrit antérieurement, par décret, qu’elles sont censées être ainsi affiliées.
-> S.R. 1970, ch. C-32, art. 128; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20; 1970-71-72, ch. 43, art. 3.
-
-
-
-
-
-**Inspection**
-
-**129** 
-
-- **(1)** Sur paiement des droits prescrits à cet effet par les règlements établis par le gouverneur en conseil, toute personne peut consulter tous les documents qui, par la présente loi, doivent être fournis au ministère de la Consommation et des Corporations.
-
-**Copies**
-
-- **(2)** Sur paiement des droits prescrits à cet effet par les règlements établis par le gouverneur en conseil, le Ministre doit, sur demande, fournir une copie ou un extrait de tout document décrit au paragraphe (1).
-> S.R. 1970, ch. C-32, art. 129; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20.
-
-
-
-
-
-**Infraction et peine**
-
-**129.1** 
-
-- **(1)** Une compagnie qui a omis de produire une copie de son état financier comme l’exige l’alinéa 128(1)b), est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au moins cent dollars et d’au plus cinq cents dollars pour chaque jour que dure cette omission; et tout administrateur ou fonctionnaire qui, sciemment, a autorisé ou permis cette omission ou y a consenti est également coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende semblable.
-
-**Idem**
-
-- **(2)** Une compagnie qui omet de se conformer aux dispositions de l’article 127 ou de l’alinéa 128(1)a) ou du paragraphe 128(2) est coupable d’une infraction et passible sur déclaration sommaire de culpabilité d’une amende d’au moins cinq cents dollars et d’au plus deux mille dollars et tout administrateur ou fonctionnaire de la compagnie qui, sciemment, a autorisé ou permis cette omission ou y a consenti est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende semblable.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20.
-
-
-
-
-
-**Réserve**
-
-**129.2** Les articles 102, 118, 127, 128, 129.1 et 150 ne s’appliquent pas
-- **a)** à une compagnie pour laquelle un administrateur a été nommé par une cour compétente;
-- **b)** à une compagnie pour laquelle un liquidateur a été nommé, en vertu de la Loi sur les liquidations, par une cour compétente; ni
-- **c)** à une compagnie au sujet de laquelle une ordonnance de faillite a été rendue ou une cession a été déposée, en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md);
-pendant que la compagnie est sous le contrôle d’un administrateur, liquidateur ou syndic de faillite.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20; 2004, ch. 25, art. 190.
-
-
-
-
-
-**Ordonnance d’exemption**
-
-**129.3** 
-
-- **(1)** Une compagnie peut demander au juge en chef ou au juge en chef suppléant de la cour de la province dans laquelle est situé le siège social de la compagnie ou à un juge de cette cour désigné par l’un ou l’autre, une ordonnance
-	- **a)** autorisant à omettre de l’état des revenus le montant des ventes ou du revenu brut mentionné à l’alinéa 119(1)a),
-	- **b)** autorisant à omettre de l’état financier d’une compagnie les renseignements mentionnés à l’article 122.1, ou
-	- **c)** exemptant de l’application de l’alinéa 128(1)b), en tout ou partie, une compagnie privée qui est assujettie aux dispositions de l’alinéa 128(3)b).
-
-**Pouvoir de juge**
-
-- **(2)** Le juge peut, selon les modalités qu’il peut fixer, autoriser cette omission ou accorder cette exemption, en tout ou partie, lorsqu’il est convaincu que la révélation des renseignements requis par l’une ou l’autre des dispositions dont il est question aux alinéas (1)a), b) ou c) serait gravement et injustement préjudiciable aux intérêts de la compagnie; toutefois, le juge doit, pour rendre sa décision, tenir compte de l’intérêt public que peut présenter la révélation des renseignements.
-
-**Avis au Ministre**
-
-- **(3)** Une compagnie doit donner au Ministre un préavis d’au moins dix jours de toute demande faite en vertu du paragraphe (1) et le Ministre a le droit de comparaître par procureur et d’être entendu à ce sujet.
-
-**Appel**
-
-- **(4)** Une personne intéressée peut interjeter appel de toute ordonnance rendue en vertu du paragraphe (1) devant la cour d’appel de la province où est situé le siège social de la compagnie.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20.
-
-
-
-
-
-**Nomination du vérificateur à la première assemblée générale**
-
-**130** 
-
-- **(1)** Les actionnaires d’une compagnie, lors de la première assemblée générale, nomment un ou plusieurs vérificateurs qui restent en fonctions jusqu’à la clôture de l’assemblée annuelle suivante, et, si les actionnaires ne procèdent pas à cette nomination, les administrateurs doivent immédiatement faire une ou plusieurs semblables nominations.
-
-**Nomination annuelle du vérificateur**
-
-- **(2)** Les actionnaires d’une compagnie, lors de chaque assemblée annuelle, nomment un ou plusieurs vérificateurs qui restent en fonctions jusqu’à la clôture de l’assemblée annuelle suivante, et, s’il n’est pas procédé à une telle nomination, le vérificateur en place reste en fonctions jusqu’à ce qu’un successeur soit désigné.
-
-**Préavis de nomination**
-
-- **(3)** Une personne, sauf un vérificateur sortant, ne peut être nommée vérificateur à une assemblée annuelle, à moins qu’un actionnaire de la compagnie n’ait donné, par écrit, au moins quatorze jours avant l’assemblée annuelle, avis de son intention de proposer cette personne au poste de vérificateur; et la compagnie doit adresser copie d’un tel avis au vérificateur sortant et à la personne qu’elle a l’intention de nommer et en prévenir les actionnaires, au moins sept jours avant l’assemblée annuelle, par annonce ou de toute autre façon autorisée par les statuts de la compagnie.
-
-**Vacance**
-
-- **(4)** Les administrateurs peuvent pourvoir à toute vacance qui se produit fortuitement au poste de vérificateur; mais tant que dure cette vacance, le vérificateur survivant ou demeurant en place, s’il en est, peut agir en cette qualité.
-
-**Ils peuvent être relevés de leurs fonctions**
-
-- **(5)** Au moyen d’une résolution adoptée par au moins les deux tiers des voix émises à une assemblée générale, au sujet de laquelle a été donné un avis spécifiant l’intention d’adopter ladite résolution, les actionnaires peuvent relever de ses fonctions tout vérificateur avant l’expiration de son mandat et ils doivent, à la majorité des voix émises à cette assemblée, nommer un autre vérificateur à sa place pour le reste de son mandat.
-
-**Rémunération**
-
-- **(6)** La rémunération d’un vérificateur nommé par les actionnaires doit être fixée par ces derniers ou par les administrateurs, s’ils y sont autorisés par les actionnaires, et la rémunération d’un vérificateur nommé par les administrateurs doit être fixée par ceux-ci.
-
-**Nomination par le Ministre**
-
-- **(7)** Lorsque, pour quelque raison que ce soit, aucun vérificateur n’est nommé, le Ministre peut, à la demande d’un actionnaire, nommer un ou plusieurs vérificateurs qui restent en fonctions jusqu’à la clôture de l’assemblée annuelle suivante, et fixer la rémunération à verser par la compagnie pour ses ou leurs services.
-
-**Avis de nomination**
-
-- **(8)** Lorsqu’un vérificateur est nommé aux termes du présent article, la compagnie doit lui donner avis par écrit sur-le-champ, à moins qu’il n’ait occupé ce poste immédiatement avant sa nomination.
-> 1964-65, ch. 52, art. 39.
-
-
-
-
-
-**Personnes non qualifiées**
-
-**131** 
-
-- **(1)** Sauf les dispositions du paragraphe (2), ne peut être nommé vérificateur d’une compagnie quiconque occupe un poste d’administrateur, de fonctionnaire ou d’employé de cette compagnie ou d’une compagnie affiliée, ou est associé, employeur ou employé d’un semblable administrateur, fonctionnaire ou employé.
-
-**Exception lorsqu’il s’agit d’une compagnie privée**
-
-- **(2)** Par vote unanime des actionnaires d’une compagnie privée, présents ou représentés à l’assemblée lors de laquelle le vérificateur est nommé, un administrateur, un fonctionnaire ou un employé de cette compagnie ou d’une compagnie affiliée, ou un associé, un employeur ou un employé de cet administrateur, de ce fonctionnaire ou de cet employé peut être nommé vérificateur de cette compagnie.
-
-**Cas où le paragraphe (2) ne s’applique pas**
-
-- **(2.1)** Le paragraphe (2) ne s’applique pas si la compagnie est une compagnie à laquelle s’applique l’alinéa 128(1)b), ni si la compagnie est une filiale d’une compagnie qui est constituée en corporation dans toute juridiction du Canada et qui n’est pas une compagnie privée au sens la présente loi.
-
-**Déclaration de la situation du vérificateur**
-
-- **(3)** Une personne nommée vérificateur aux termes du paragraphe (2) doit indiquer dans son rapport aux actionnaires sur l’état financier annuel de la compagnie qu’elle est un administrateur, un fonctionnaire ou un employé de la compagnie ou d’une compagnie affiliée ou un associé, un employeur ou un employé de l’administrateur, du fonctionnaire ou de l’employé.
-> S.R. 1970, ch. C-32, art. 131; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 21.
-
-
-
-
-
-**Vérification annuelle**
-
-**132** 
-
-- **(1)** Le vérificateur doit procéder à l’examen qui lui permettra de faire aux actionnaires le rapport prescrit par le paragraphe (2).
-
-**Rapport du vérificateur**
-
-- **(2)** Le vérificateur doit faire un rapport aux actionnaires sur l’état financier, à l’exception de la partie de ce dernier qui couvre la période mentionnée au sous-alinéa 118(1)a)(ii), qui doit être présenté à la compagnie lors de toute assemblée annuelle tenue pendant son mandat, et doit préciser dans son rapport si, à son avis, l’état financier mentionné au rapport présente fidèlement la situation financière de la compagnie et les résultats de ses opérations au cours de la période considérée, conformément aux principes de comptabilité généralement acceptés, appliqués sur une base conforme à celle de la période précédente.
-
-**Où une déclaration est requise**
-
-- **(3)** Dans son rapport, le vérificateur doit faire les déclarations qu’il estime nécessaires dans tous les cas où
-	- **a)** l’état financier de la compagnie n’est pas conforme aux écritures comptables;
-	- **b)** l’état financier de la compagnie n’est pas conforme aux exigences de la présente loi;
-	- **c)** il n’a pas reçu tous les renseignements et les explications qu’il a exigés; ou
-	- **d)** les écritures comptables appropriées n’ont pas été tenues, pour autant que le révèle son examen.
-
-**Droit d’accès aux archives**
-
-- **(4)** Le vérificateur d’une compagnie doit avoir accès, en tout temps, à tous les registres, documents, livres, comptes et pièces justificatives de la compagnie et a le droit d’exiger des administrateurs et des fonctionnaires de la compagnie
-	- **a)** les renseignements et explications,
-	- **b)** l’accès à tous les registres, documents, livres, comptes et pièces justificatives de toute filiale de la compagnie, et
-	- **c)** les renseignements et explications provenant des administrateurs et fonctionnaires de toute filiale de la compagnie,
-qui, à son avis, peuvent être nécessaires pour lui permettre de faire rapport comme l’exige le paragraphe (2).
-
-**Droit d’assister aux assemblées**
-
-- **(5)** Le vérificateur d’une compagnie a le droit d’assister à toute assemblée des actionnaires de la compagnie, de recevoir à son sujet tous les avis et autres communications qu’un actionnaire est en droit de recevoir, à moins qu’il n’y ait renoncé, et d’être entendu à cette assemblée à laquelle il assiste sur toute délibération de cette assemblée qui l’intéresse en sa qualité de vérificateur.
-
-**Présence du vérificateur requise**
-
-- **(6)** Une compagnie, sur réception, sept jours au moins avant une assemblée d’actionnaires, d’une demande écrite d’actionnaires ne détenant pas moins de dix pour cent des actions émises de la compagnie, réclamant que le vérificateur de la compagnie soit prié d’assister à l’assemblée, doit immédiatement demander par écrit au vérificateur d’y assister et ce dernier ou son représentant doit y assister.
-> S.R. 1970, ch. C-32, art. 132; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 22.
-
-
-
-
-
-**Rapports annuels**
-
-**133** 
-
-- **(1)** Toute compagnie doit, le ou avant le 1<sup>er</sup> juin de chaque année, dresser un sommaire établi au 31 mars précédent, spécifiant les détails suivants :
-	- **a)** le nom corporatif de la compagnie;
-	- **b)** la manière dont la compagnie est constituée en corporation, et la date de la constitution en corporation;
-	- **c)** l’adresse postale complète du siège social de la compagnie;
-	- **d)** la date à laquelle et l’endroit où s’est tenue la dernière assemblée annuelle des actionnaires de la compagnie;
-	- **e)** les noms et adresses postales complètes des personnes qui, à la date du rapport, sont les administrateurs de la compagnie; et
-	- **f)** le nom et l’adresse postale complète du vérificateur de la compagnie.
-
-**Sommaire à déposer, à signer et à certifier**
-
-- **(2)** Le sommaire mentionné au paragraphe (1) doit être complété et déposé en double au ministère le ou avant le 1<sup>er</sup> juin précité, et chacun de ces doubles doit être signé et certifié par un administrateur ou un fonctionnaire de la compagnie.
-
-**Omission**
-
-- **(3)** Une compagnie qui omet de se conformer aux prescriptions du présent article est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende d’au moins vingt dollars et d’au plus cent dollars pour chaque jour que dure cette omission; et tout administrateur ou fonctionnaire qui, sciemment, a autorisé ou permis cette omission ou y a consenti est coupable d’une infraction et passible, sur déclaration sommaire de culpabilité, d’une amende semblable.
-
-**Endossement du sommaire**
-
-- **(4)** Le Ministre, ou un fonctionnaire du ministère désigné à cette fin, doit mentionner sur l’une des expéditions du sommaire susdit, la date de sa réception au ministère, et doit envoyer le double du sommaire à la compagnie, qui le conservera à son siège et le tiendra à la disposition de ses actionnaires ou de ses créanciers qui voudront, soit les consulter, soit en faire des copies ou des extraits.
-
-**Preuve de l’endossement**
-
-- **(5)** Le double dudit sommaire portant la mention qu’exige le paragraphe (4) constitue une preuve que ledit sommaire a été déposé au ministère, conformément au présent article, dans toute poursuite intentée sous le régime du présent article et la signature manuscrite ou la griffe d’un fonctionnaire du ministère, apposée sous la mention faite sur cette expédition, doit être acceptée comme preuve *prima facie* que ledit fonctionnaire a été désigné pour y apposer sa signature.
-
-**Preuve de l’omission de déposer le sommaire**
-
-- **(6)** Un certificat portant le seing et le sceau d’office du Ministre et attestant que le sommaire susdit, en double, n’a pas été déposé par une compagnie au ministère conformément au présent article, fait preuve, dans une poursuite intentée sous le régime du présent article, que ce sommaire n’a pas été déposé au ministère.
-
-**Compagnies exemptées**
-
-- **(7)** Les compagnies constituées en corporations après le 1<sup>er</sup> mars d’une année quelconque ne sont pas assujetties aux dispositions du présent article avant le 31 mars de l’année suivante.
-
-**Omission constatée**
-
-- **(8)** Lorsqu’un sommaire concernant une année antérieure n’a pas été déposé au ministère ou lorsque les droits annuels n’ont pas été versés, le sommaire requis aux termes du paragraphe (1) peut ne pas être déposé avant que le sommaire relatif à l’année antérieure ait été déposé ou avant que la redevance annuelle ait été payée, selon le cas.
-
-**Omission de produire le sommaire pendant deux années consécutives**
-
-- **(9)** Lorsqu’une compagnie a, pendant deux années consécutives, omis de déposer au ministère le sommaire prescrit par le paragraphe (1), le Ministre peut, nonobstant l’alinéa 150(1)c), donner avis à la compagnie qu’un décret ordonnant la dissolution de la compagnie sera édicté, à moins que dans le délai d’un an qui suit la publication de l’avis dans la Gazette du Canada, la compagnie ne dépose un sommaire concernant ces deux années.
-
-**Publication de l’avis**
-
-- **(10)** L’avis prévu au paragraphe (9) doit être donné par courrier recommandé à la compagnie ou publié dans la Gazette du Canada.
-
-**Dissolution de la compagnie**
-
-- **(11)** Un an après la publication de l’avis dans la Gazette du Canada, si la compagnie n’a pas déposé un sommaire concernant les deux années à l’égard desquelles elle était en défaut, le Ministre peut, par décret publié dans la Gazette du Canada, déclarer la compagnie dissoute, et celle-ci est dès lors dissoute, et l’article 33 s’y applique *mutatis mutandis*.
-
-**« Liquidation »**
-
-- **(11.1)** Aux fins de distribution de l’actif d’une compagnie dissoute par décret en vertu du paragraphe (11), entre les actionnaires ou les créanciers, la compagnie peut être liquidée en vertu de la Loi sur les liquidations sur demande, présentée à un tribunal compétent par un administrateur, un actionnaire ou un créancier de la compagnie ou par le procureur général du Canada, d’une ordonnance de liquidation de la compagnie en vertu de cette loi, comme étant une compagnie visée à l’alinéa 10a) de cette loi.
-
-**Avis de liquidation ou de faillite**
-
-- **(12)** Lorsqu’une compagnie est en cours de liquidation ou lorsqu’une compagnie est administrée par un syndic de faillite, le liquidateur ou le syndic, selon le cas, doit annuellement, sans percevoir de droit, donner avis de la liquidation ou de la faillite au ministère au lieu et place du sommaire prescrit aux termes du paragraphe (1).
-> S.R. 1970, ch. C-32, art. 133; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 23.
-
+**133** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Arrangements et compromis
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **134** [Abrogé, 2009, ch. 23, art. 313]
@@ -2258,300 +882,124 @@ qui, à son avis, peuvent être nécessaires pour lui permettre de faire rapport
 
 
 ### Preuve
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Quand les registres font foi**
-
-**138** 
-
-- **(1)** Tous les registres que la présente Partie enjoint à une compagnie de tenir font preuve, dans toute action, poursuite ou procédure contre la compagnie ou contre un actionnaire, de tous les faits qui paraissent y être énoncés.
-
-**Article 112 non atteint**
-
-- **(2)** Rien dans le présent article ne restreint la signification ou l’effet de l’article 112.
-> S.R. 1952, ch. 53, art. 129.
+**138** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Preuve de signification par lettre**
-
-**139** La preuve du fait qu’une lettre dûment adressée et contenant un avis ou autre pièce que la présente Partie permet de signifier par la poste a été dûment adressée et déposée franche de port à la poste, ainsi que la preuve du temps auquel elle a été ainsi déposée, de même que du temps requis pour qu’elle soit livrée au cours ordinaire de la poste à sa destination, est une preuve satisfaisante du fait et du temps de cette signification.
-> S.R. 1952, ch. 53, art. 130.
+**139** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Preuve des statuts**
-
-**140** Une copie d’un règlement de la compagnie, revêtue de son sceau et paraissant signée par un de ses fonctionnaires, est recevable, contre tout actionnaire de la compagnie, à titre de preuve *prima facie* du règlement dans toutes les cours du Canada.
-> S.R. 1952, ch. 53, art. 131.
+**140** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Preuve de la constitution légale**
-
-**141** Dans toute action ou autre poursuite judiciaire, l’avis publié dans la Gazette du Canada de l’émission de lettres patentes ou de lettres patentes supplémentaires, sous le régime de la présente Partie, fait preuve *prima facie* de tout ce qui y est contenu, et, sur production de ces lettres patentes ou lettres patentes supplémentaires, ou d’une copie authentique ou expédition de celles-ci, certifiée par le registraire général du Canada, le fait de cet avis ainsi que de sa publication est présumé.
-> S.R. 1952, ch. 53, art. 132.
+**141** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Preuve des faits énoncés dans les lettres patentes**
-
-**142** Excepté dans les procédures par voie de *scire facias* ou dans d’autres procédures qui ont pour but de rescinder ou d’annuler des lettres patentes ou des lettres patentes supplémentaires émises sous l’autorité de la présente Partie, ces lettres patentes ou lettres patentes supplémentaires ou une copie authentique ou expédition de celles-ci, certifiée par le registraire général du Canada, est une preuve péremptoire de toute matière ou chose y énoncée.
-> S.R. 1952, ch. 53, art. 133.
+**142** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Preuve par déclaration sous serment ou autre**
-
-**143** La preuve de tout fait qu’il est nécessaire d’établir sous le régime de la présente Partie peut se faire par serment ou affirmation, ou par déclaration statutaire, devant un juge de paix, ou devant un commissaire chargé de recevoir les affidavits destinés à être produits devant les tribunaux d’une des provinces du Canada, ou devant un notaire public, lesquels sont autorisés par la présente loi à faire prêter les serments et à recevoir les affidavits et déclarations à cette fin.
-> S.R. 1952, ch. 53, art. 134.
-
+**143** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Procédure
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Cas où l’emploi du sceau n’est pas de rigueur**
-
-**144** Les convocations, avis, ordres, documents ou pièces qui doivent être authentiqués par la compagnie, peuvent être signés par tout administrateur, gérant ou autre fonctionnaire autorisé de celle-ci, et n’ont pas besoin d’être revêtus du sceau de la compagnie.
-> S.R. 1952, ch. 53, art. 135.
+**144** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Signification des avis aux actionnaires**
-
-**145** En l’absence de toute autre disposition contenue dans la présente Partie ou dans les règlements, les avis que la compagnie doit signifier à ses actionnaires peuvent être signifiés soit personnellement, soit par la voie de la poste, dans des lettres recommandées, adressées aux actionnaires à leurs lieux de résidence inscrits sur les registres de la compagnie.
-> S.R. 1952, ch. 53, art. 136.
+**145** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Temps à compter duquel vaut la signification**
-
-**146** La signification d’un avis ou d’une autre pièce, que la compagnie adresse par la poste à un actionnaire, est censée s’effectuer au temps où, suivant le cours ordinaire du service postal, doit être faite la remise de la lettre recommandée qui la contient.
-> S.R. 1952, ch. 53, art. 137.
+**146** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Action entre la compagnie et ses actionnaires**
-
-**147** La compagnie a la faculté d’agir par toutes voies légales contre un actionnaire, et réciproquement.
-> S.R. 1952, ch. 53, art. 138.
+**147** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Énonciation de la constitution de la compagnie, dans les pièces de procédure**
-
-**148** Dans aucune action ni autre procédure judiciaire, il n’est nécessaire d’énoncer le mode de constitution en corporation de la compagnie autrement que par la mention de la compagnie sous son nom corporatif, telle qu’elle a été constituée par lettres patentes, ou par lettres patentes et lettres patentes supplémentaires, selon le cas.
-> S.R. 1952, ch. 53, art. 139.
-
+**148** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Infractions et peines
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Peines non autrement édictées**
-
-**149** Quiconque, étant administrateur, gérant ou fonctionnaire d’une compagnie, ou agissant en son nom, commet un acte contraire aux dispositions de la présente Partie, ou omet ou néglige de se conformer à ses prescriptions, est passible, sur déclaration sommaire de culpabilité, si la présente Partie ne prévoit aucune peine pour cet acte, omission ou négligence particulière, d’une amende de mille dollars au maximum, ou d’un emprisonnement d’une année au maximum, ou de ces deux peines à la fois, mais nulle poursuite ne doit être intentée en vertu du présent article sans le consentement par écrit du Ministre.
-> S.R. 1952, ch. 53, art. 140.
+**149** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Motifs de liquidation d’une compagnie**
-
-**150** 
-
-- **(1)** Nonobstant toutes autres dispositions de la présente loi, lorsqu’une compagnie
-	- **a)** omet pendant deux années consécutives ou plus de tenir une assemblée annuelle de ses actionnaires,
-	- **b)** omet de se conformer aux exigences de l’article 128, ou
-	- **c)** ne se conforme pas pendant six mois ou plus à l’une quelconque des exigences de l’article 133,
-la compagnie est passible de liquidation et de dissolution sous le régime de la Loi sur les liquidations, lorsque le procureur général du Canada demande à une cour compétente de rendre une ordonnance pour que la compagnie soit mise en liquidation en vertu de ladite loi, laquelle demande peut être faite sur réception par le procureur général du Canada d’un certificat du Ministre exprimant son opinion que l’une quelconque des circonstances mentionnées aux alinéas a) à c) s’applique à cette compagnie.
-
-**Frais de liquidation**
-
-- **(2)** Dans toute demande adressée à la cour selon le paragraphe (1), la cour doit déterminer si les frais de la liquidation doivent être supportés par la compagnie ou personnellement par l’un ou l’autre ou la totalité des administrateurs de la compagnie, qui étaient sciemment responsables des omissions ou manquements de la compagnie dont fait mention le paragraphe (1).
-> S.R. 1970, ch. C-32, art. 150; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 25.
-
+**150** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 ### Droits et règlements
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Tarif fixé par le gouverneur en conseil**
-
-**151** 
-
-- **(1)** Le gouverneur en conseil peut établir, modifier et régler le tarif des droits à acquitter pour les demandes de lettres patentes ou de lettres patentes supplémentaires sous le régime de la présente Partie, pour le dépôt de pièces, pour l’émission d’un certificat en vertu de la présente loi, pour la production d’un rapport conformément à la présente loi, et pour des recherches dans les dossiers du ministère relatifs à une compagnie.
-
-**Montant peut varier**
-
-- **(2)** Le montant des droits peut varier, au jugement du gouverneur en conseil, suivant la nature de la compagnie, le montant du capital social, ou pour d’autres considérations.
-
-**Droits exigibles**
-
-- **(3)** Au ministère, il n’est procédé à l’émission de lettres patentes ou de lettres patentes supplémentaires, sous le régime de la présente Partie, et il ne peut y être produit ou déposé de règlement, déclaration, prospectus ou autre document, ni y être émis de certificat, sous le régime de la présente Partie, qu’après acquittement régulier de tous les droits exigibles.
-> S.R. 1952, ch. 53, art. 141; 1967-68, ch. 9, art. 9.
+**151** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Formules et règlements**
-
-**152** Le gouverneur en conseil peut, au besoin, prescrire des formules et établir, modifier ou abroger des règlements pour l’exécution des objets de la présente Partie.
-> S.R. 1952, ch. 53, art. 142.
-
+**152** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 **PARTIE II** 
 ## Corporations sans capital-actions
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Application de la Partie**
-
-**153** La présente Partie s’applique à toutes les corporations constituées sous son régime et à toutes les corporations constituées en vertu de l’article 7A de la Loi modifiant la Loi des compagnies, 1917, ou auxquelles des lettres patentes supplémentaires ont été émises en vertu du paragraphe (5) de cet article, et à toutes corporations constituées sous le régime de l’article 8 de la Loi des compagnies, chapitre 27 des Statuts revisés du Canada de 1927, ou auxquelles des lettres patentes supplémentaires ont été émises en exécution du paragraphe (5) dudit article de ladite loi.
-> S.R. 1952, ch. 53, art. 143.
+**153** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Demande sans but de gain**
-
-**154** 
-
-- **(1)** Le Ministre peut, par lettres patentes portant son sceau d’office, accorder une charte à tout groupe d’au moins trois personnes qui en font la demande. Cette charte constitue les requérants, ainsi que les autres personnes qui deviennent par la suite membres de la corporation ainsi créée en un corps constitué et politique, sans capital-actions, aux fins de poursuivre, sans gain pécuniaire pour ses membres, des objets d’un caractère national, patriotique, religieux, philanthropique, charitable, scientifique, artistique, social, professionnel ou sportif ou des objets analogues, qui ressortissent à l’autorité législative du Parlement du Canada.
-
-**Nul pouvoir d’émettre de la monnaie de papier ou de faire le commerce de banque**
-
-- **(2)** Rien dans la présente Partie n’est censé autoriser la corporation à émettre quelque billet payable à son porteur ou un billet à ordre destiné à circuler comme monnaie ou comme billet de banque, ou à livrer au commerce de banque ou aux opérations d’assurance.
-> S.R. 1952, ch. 53, art. 144; 1964-65, ch. 52, art. 43; 1966-67, ch. 66, art. 1.
+**154** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Demande devant être présentée**
-
-**155** 
-
-- **(1)** Les requérants de ces lettres patentes, qui doivent avoir dix-huit ans révolus et être légalement capables de contracter, sont tenus de déposer au ministère une requête signée par chacun d’eux, énonçant les détails suivants :
-	- **a)** le nom projeté de la corporation;
-	- **b)** les objets pour lesquels est demandée sa constitution en corporation;
-	- **c)** le lieu, au Canada, où doit être établi le siège de la corporation;
-	- **d)** les noms au long ainsi que l’adresse et la profession de chacun des requérants; et
-	- **e)** les noms d’au moins trois des requérants qui doivent être les premiers administrateurs de la corporation.
-
-**Les statuts doivent accompagner la demande**
-
-- **(2)** La demande doit être accompagnée des statuts de la corporation projetée, établis en double exemplaire, qui doivent contenir des dispositions régissant les questions suivantes :
-	- **a)** les conditions d’admission des membres, y compris les sociétés ou compagnies devenant membres de la corporation;
-	- **b)** la manière de tenir les assemblées, les dispositions relatives au quorum, le droit de vote et celui d’établir des statuts;
-	- **c)** le mode d’abrogation ou de modification des statuts avec une disposition spéciale portant que l’abrogation ou la modification des statuts non compris dans les lettres patentes ne sera pas mise en vigueur et que rien ne sera fait sous son autorité tant qu’elle n’aura pas été approuvée par le Ministre;
-	- **d)** la nomination et la révocation des administrateurs, des fiduciaires, comités et fonctionnaires, ainsi que leurs attributions et rémunération respectives;
-	- **e)** la vérification des comptes et la nomination des vérificateurs;
-	- **f)** la faculté pour les membres de se retirer de la corporation ou la manière de se retirer; et
-	- **g)** la garde du sceau corporatif et l’attestation des pièces émises par la corporation.
-
-**Les statuts peuvent être compris dans les lettres patentes**
-
-- **(3)** Les requérants peuvent demander que soit incorporée dans les lettres patentes toute disposition qui, en vertu de la présente Partie, pourrait être contenue dans tout règlement de la corporation.
-> S.R. 1970, ch. C-32, art. 155; 1985, ch. 26, art. 87.
+**155** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Lettres patentes aux corporations existantes**
-
-**156** Toute corporation existante, sans capital-actions, constituée en vertu ou sous le régime d’une loi du Parlement du Canada, pour l’un des objets énumérés à l’article 154, peut demander l’émission de lettres patentes la constituant en une corporation sous le régime de la présente Partie, et dès l’émission de ces lettres patentes les dispositions de la présente Partie et celles de la Partie I, énumérées à l’article 157, s’appliquent à la corporation ainsi constituée.
-> S.R. 1952, ch. 53, art. 146.
+**156** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Articles de la Partie I qui s’appliquent**
-
-**157** 
-
-- **(1)** Les dispositions suivantes de la Partie I s’appliquent aux corporations auxquelles la présente Partie est applicable, savoir :
-	- **a)** les articles 3 et 4, l’article 5.6, l’article 6, les articles 9 à 12 et l’article 15;
-	- **b)** l’article 16, (sauf l’alinéa (1)r)), et les paragraphes 20(1), (3), (4) et (5);
-	- **c)** les articles 21 à 24, le paragraphe 25(2), l’alinéa 25(3)b), les articles 27 à 33, l’article 43, les articles 65 à 73, les articles 93, 98, 99, 102 et 106;
-	- **d)** les alinéas 109(1)a) à d); et
-	- **e)** les articles 111.1, 112 à 117, les articles 130 à 133 et les articles 138 à 152.
-
-- **(2)** [Abrogé, S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 26]
-
-**Interprétation**
-
-- **(3)** Pour l’interprétation des articles de la Partie I rendus applicables aux corporations sous le régime de la présente Partie, l’expression
-
-***actionnaire*** signifie un membre de cette corporation;
-
- ou  or ***la compagnie*** ou ***une compagnie*** signifie une corporation à laquelle s’applique la présente Partie.
-> S.R. 1970, ch. C-32, art. 157; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 26.
+**157** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Applicabilité d’articles de la Loi sur les sociétés commerciales canadiennes**
-
-<sup><a href='#C-1.8_fr_1'>[*]</a></sup>**157.1** 
-
-- **(1)** Les articles 222 à 227 [229 à 234], 229 à 233 [236 à 240] et 235 [242] de la Loi sur les sociétés commerciales canadiennes s’appliquent, compte tenu des adaptations de circonstance, à l’égard des corporations auxquelles la présente partie s’applique.
-
-**Interprétation**
-
-- **(2)** Dans les articles de la Loi sur les sociétés commerciales canadiennes qui s’appliquent aux corporations en vertu de la présente partie, « détenteur de valeurs mobilières » ou, à l’égard d’une valeur mobilière, « détenteur inscrit » ou « véritable propriétaire » s’entend d’un membre d’une corporation à laquelle la présente partie s’applique.
-
-**Pouvoirs du directeur**
-
-- **(3)** Le directeur ou un directeur adjoint nommé en application de l’article 253 [260] de la Loi sur les sociétés commerciales canadiennes peut, pour donner effet au présent article à l’égard de l’application des articles 222 à 227 [229 à 234], 229 à 233 [236 à 240] et 235 [242] de cette loi, exercer les pouvoirs et fonctions du Directeur en vertu de ces articles.
-
-<a name='C-1.8_fr_1'><sup>*</sup></a>: [Note : La Loi sur les sociétés commerciales canadiennes (maintenant [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)) a été renumérotée lors de la révision des lois de 1985. En vertu de l’article 5 de la [Loi sur les Lois révisées du Canada (1985)](/fr/Lois/Lois%20du%20Canada/1985/ch.%2040%20(3e%20suppl.).md), les références à cette loi dans cet article sont considérées être des références aux articles mis entre crochets. Elles seront modifiées ultérieurement.]<br />
-> 1986, ch. 26, art. 54.
-
+**157.1** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
 
 **PARTIE III** 
 ## Compagnies constituées en corporations par Loi spéciale
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **158** [Abrogé, 2009, ch. 23, art. 313]
@@ -2565,10 +1013,14 @@ la compagnie est passible de liquidation et de dissolution sous le régime de la
 
 **PARTIE IV** 
 ## Clauses des compagnies
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 
 ### Interprétation
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **160** [Abrogé, 2009, ch. 23, art. 313]
@@ -2798,6 +1250,8 @@ la compagnie est passible de liquidation et de dissolution sous le régime de la
 
 **PARTIE V** 
 ## Pouvoirs afférents aux corps constitués, créés autrement que par lettres patentes
+> [Abrogée, 2009, ch. 23, art. 313]
+
 
 
 **215** [Abrogé, 2009, ch. 23, art. 313]
@@ -2811,81 +1265,23 @@ la compagnie est passible de liquidation et de dissolution sous le régime de la
 
 **PARTIE VI** 
 ## Dispositions d’application générale
+> [Abrogée, 2009, ch. 23, art. 313]
 
 
 
-**Définitions**
-
-**217** Dans la présente Partie
-
-***compagnie*** signifie une compagnie constituée en corporation en vertu ou sous l’autorité de toute loi du Parlement du Canada ou de la Législature de l’ancienne Province du Canada;
-
-***corporation*** signifie une corporation à laquelle s’applique la Partie II.
-> S.R. 1952, ch. 53, art. 209.
+**217** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Bureaux d’enregistrement et de transfert dans les limites et en dehors du Canada**
-
-**218** 
-
-- **(1)** Toute compagnie possède et a toujours possédé la faculté de maintenir des bureaux pour l’enregistrement et le transfert d’actions de son capital social et des obligations, débentures, stock-obligations et autres valeurs émises par la compagnie à tout endroit situé dans les limites ou au-delà des limites du Canada.
-
-**Livres pour inscription des détails des enregistrements et transferts**
-
-- **(2)** À moins que les livres pour l’enregistrement et le transfert des actions du capital social et des obligations, débentures, stock-obligations et autres valeurs de la compagnie ne soient tenus au principal bureau d’affaires ou au siège de la compagnie, au Canada, un livre ou des livres doivent être tenus à ce principal bureau d’affaires ou à ce siège ou à l’endroit au Canada où est maintenue l’une de ses succursales d’enregistrement et transfert, dans lequel livre ou lesquels livres doivent être consignés les détails de tout enregistrement et transfert d’actions de son capital social et des obligations, débentures, stock-obligations et autres valeurs émises par la compagnie; mais l’inscription du transfert de toute action, obligation, débenture, stock-obligations ou autre valeur sur un registre de transferts, ou un registre annexe de transfert, tenu au principal bureau d’affaires ou siège de la compagnie ou ailleurs, constitue, à toutes fins, un transfert complet et valable.
-
-**Compagnies prévues par la Partie I**
-
-- **(3)** S’il s’agit d’une compagnie à laquelle s’applique la Partie I, le paragraphe (2) ne s’applique pas au registre de transferts, aux registres annexes de transferts ni aux livres mentionnés à l’article 110.
-
-**Rectification des livres**
-
-- **(4)** La cour, telle qu’elle est définie au paragraphe 3(1), de la province où est situé le siège ou bureau principal de la compagnie, a juridiction, sur la demande de tout intéressé, pour ordonner qu’une inscription sur les livres d’enregistrement et de transfert d’actions du capital social d’une compagnie soit radiée ou autrement rectifiée pour le motif qu’à la date de cette demande l’inscription telle qu’elle figure sur ce livre n’exprime ou ne définit pas fidèlement les droits existants de la personne qui paraît être le propriétaire enregistré d’actions du capital social de la compagnie; et, en prononçant sur cette demande, la cour peut rendre, sur les frais, l’ordonnance qu’elle juge utile.
-
-**Demande de rectification**
-
-- **(5)** La demande de rectification d’une pareille inscription, sous le régime du paragraphe (4), peut être faite en déposant, entre les mains du fonctionnaire compétent de la cour, une pétition ou un bref ou un avis de motion introductif d’instance; et la cour peut ordonner le procès de tout litige résultant de cette demande.
-
-**Sauvegarde de juridiction**
-
-- **(6)** Les paragraphes (4) et (5) ne privent pas la cour de toute juridiction qu’elle peut avoir par ailleurs.
-> S.R. 1952, ch. 53, art. 210.
+**218** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Personnes auxquelles s’applique le présent article**
-
-**219** 
-
-- **(1)** Les personnes auxquelles le présent article s’applique sont : les administrateurs d’une compagnie ou corporation; les gérants d’une compagnie ou corporation; les fonctionnaires d’une compagnie ou corporation; les personnes employées par une compagnie ou corporation comme vérificateurs, que ces personnes soient ou ne soient pas fonctionnaires de la compagnie ou corporation.
-
-**La cour peut libérer une personne dans certains cas**
-
-- **(2)** Si, dans une poursuite pour violation ou inobservation de la présente loi, ou pour violation ou inobservation des lettres patentes, lettres patentes supplémentaires, loi spéciale ou statuts d’une compagnie ou corporation, contre une personne à laquelle le présent article s’applique, il paraît à la cour qui instruit l’affaire que cette personne est ou peut être responsable à l’égard d’une telle violation ou inobservation, mais qu’elle a agi d’une façon honnête et raisonnable et que, compte tenu de toutes les circonstances du cas, y compris les circonstances de sa nomination, elle pourrait équitablement être excusée d’avoir commis une telle violation ou inobservation, la cour peut dégager en tout ou en partie la responsabilité de cette personne aux termes que la cour peut juger convenables.
-
-**Demande de dégagement de responsabilité**
-
-- **(3)** Lorsqu’une personne à laquelle le présent article s’applique a des raisons d’appréhender qu’une réclamation sera faite ou pourrait être faite contre elle à l’égard d’une telle violation ou inobservation, elle peut s’adresser à la cour, définie au paragraphe 3(1), de la province dans laquelle est situé le siège ou le principal bureau d’affaires de la compagnie ou corporation, afin de faire dégager sa responsabilité; et, pour juger une telle demande, la cour aura le même pouvoir à cet égard de faire droit à cette personne qu’elle aurait sous l’autorité du présent article si elle était une cour devant laquelle une poursuite avait été intentée contre cette personne pour une telle violation ou inobservation.
-
-**La cause peut être retirée du jury**
-
-- **(4)** Lorsque est instruite par un juge avec un jury une cause à laquelle s’applique le paragraphe (2), le juge, après avoir entendu la preuve, peut, s’il est convaincu que le défendeur devrait, conformément audit paragraphe, être dégagé entièrement ou partiellement de la responsabilité qu’on cherche à lui faire porter, retirer du jury la totalité ou toute partie de la cause et ordonner immédiatement l’inscription d’un jugement pour le défendeur aux termes, relativement aux frais ou à d’autres égards, que le juge peut estimer opportuns.
-> S.R. 1952, ch. 53, art. 211.
+**219** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Certains articles ne s’appliquent pas**
-
-**220** Les dispositions suivantes de la Loi de 1935 modifiant la Loi des compagnies, savoir : les articles 2, 3, 6, 7, 13 et 16 ne s’appliquent pas à une compagnie à laquelle la Partie I est rendue applicable par les alinéas 2b), c), d) ou e), ni à une compagnie constituée en corporation antérieurement au 15 septembre 1935; et toute semblable compagnie est assujettie à la présente loi de la même manière que si les articles précités de la Loi de 1935 modifiant la Loi des compagnies n’avaient pas été édictés; mais chacune des autres dispositions de cette dernière loi, conformément à ses termes, s’applique à toutes les compagnies, peu importe la date de leur constitution en corporation, auxquelles s’applique la Partie I.
-> S.R. 1952, ch. 53, art. 212.
-
+**220** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
