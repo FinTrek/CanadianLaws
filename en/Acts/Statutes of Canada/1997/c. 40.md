@@ -93,9 +93,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** Directors, officers, employees and agents of the Board are not part of the federal public administration.
 
-**Acts not applicable to Board**
+**Act not applicable to Board**
 
-- **(4)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the Board.
+- **(4)** The [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) does not apply to the Board.
 > 1997, c. 40, s. 3; 2003, c. 22, s. 224(E); 2009, c. 23, s. 317.
 
 
