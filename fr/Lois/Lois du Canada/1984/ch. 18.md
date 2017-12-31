@@ -502,14 +502,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’article 261 de la Loi sur les sociétés commerciales canadiennes ne s’applique pas aux bandes.
 
-**Lois non applicables**
+**Non-application**
 
-- **(2)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas aux bandes.
+- **(2)** La [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’applique pas aux bandes.
 
 **Autres lois**
 
 - **(3)** Le gouverneur en conseil peut, par décret, soustraire la bande à l’application de dispositions, visant expressément les personnes morales, de lois fédérales, autres que celles qui sont mentionnées aux paragraphes (1) ou (2), qui lui seraient par ailleurs applicables.
-> 1984, ch. 18, art. 23; 2009, ch. 23, art. 322.
+> 1984, ch. 18, art. 23; 2009, ch. 23, art. 322 et 352.
 
 
 
