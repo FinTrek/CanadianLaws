@@ -1269,11 +1269,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Lois non applicables**
+**Non-application**
 
 **66** 
 
-- **(1)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à l’Administration.
+- **(1)** La [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’applique pas à l’Administration.
 
 **[Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)**
 
@@ -1303,7 +1303,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **w)** paragraphes 171(3) à (9) (obligations et administration du comité de vérification et infraction);
 	- **x)** article 172 (immunité relative en ce qui concerne les déclarations du vérificateur);
 	- **y)** paragraphes 257(1) et (2) (force probante d’un certificat de l’Administration).
-> 2005, ch. 9, art. 66; 2009, ch. 23, art. 328.
+> 2005, ch. 9, art. 66; 2009, ch. 23, art. 328 et 354.
 
 
 
