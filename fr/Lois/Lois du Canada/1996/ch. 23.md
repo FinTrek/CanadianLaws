@@ -2376,9 +2376,7 @@ plus de 13 %
 
 - **(7)** Le taux de cotisation ne peut varier d’une année à l’autre de plus de cinq centièmes pour cent (0,05 %).
 
-**Exception**
-
-- **(7.1)** Malgré le paragraphe (7), le taux de cotisation peut être réduit de plus de cinq centièmes pour cent (0,05 %) de 2016 à 2017.
+- **(7.1)** [Abrogé, 2013, ch. 40, art. 126]
 
 **Gouverneur en conseil — variation maximale du taux de cotisation**
 
