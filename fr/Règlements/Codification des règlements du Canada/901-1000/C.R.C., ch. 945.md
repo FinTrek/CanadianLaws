@@ -1135,7 +1135,14 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(3)** La personne peut transmettre le document visé au paragraphe (1) par voie électronique avec le consentement exprès du contribuable; une seule copie du document est alors transmise au contribuable au plus tard à la date où la déclaration doit être produite au ministre.
 
 - **(4)** Pour l’application du paragraphe (3), ***consentement exprès*** s’entend d’un consentement donné par écrit ou transmis par voie électronique.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 1; DORS/87-512, art. 1; DORS/89-519, art. 1; DORS/92-455, art. 1; DORS/93-527, art. 3; DORS/2003-5, art. 4; 2009, ch. 2, art. 85; DORS/2010-93, art. 3.
+
+- **(5)** La personne qui est tenue de transmettre à un contribuable deux copies d’une déclaration de renseignements intitulée État de la rémunération payée (T4) selon le paragraphe (1) peut plutôt fournir par voie électronique une copie au contribuable au plus tard à la date où elle doit produire la déclaration au ministre, sauf si, selon le cas :
+	- **a)** l’un des critères déterminés selon l’article 221.01 de la Loi n’est pas rempli;
+	- **b)** le contribuable a demandé une copie papier de la déclaration;
+	- **c)** à la date où la déclaration doit être fournie, l’un des énoncés ci-après se vérifie :
+		- **(i)** le contribuable est absent pour une période prolongée ou n’est plus l’employé de la personne,
+		- **(ii)** on ne peut raisonnablement s’attendre à ce que le contribuable ait accès à la déclaration par voie électronique.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 1; DORS/87-512, art. 1; DORS/89-519, art. 1; DORS/92-455, art. 1; DORS/93-527, art. 3; DORS/2003-5, art. 4; 2009, ch. 2, art. 85; DORS/2010-93, art. 3; 2017, ch. 20, art. 31.
 
 
 
