@@ -1138,7 +1138,14 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(3)** A person may send a document, as required under subsection (1), in an electronic format if the person has received the express consent of the taxpayer, and in that case, the person shall send a single copy to the taxpayer, on or before the date on which the return referred to in subsection (1) is to be filed with the Minister.
 
 - **(4)** In subsection (3), ***express consent*** means consent given in writing or in an electronic format.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85; SOR/2010-93, s. 3.
+
+- **(5)** A person may provide a Statement of Remuneration Paid (T4) information return, as required under subsection (1), as a single document in an electronic format (instead of the two copies required under subsection (1)) to the taxpayer to whom the return relates, on or before the date on which the return is to be filed with the Minister, unless
+	- **(a)** the specified criteria referred to in section 221.01 of the Act are not met;
+	- **(b)** the taxpayer has requested that the information return be provided in paper format; or
+	- **(c)** at the time the return is required to be issued,
+		- **(i)** the taxpayer is on extended leave or is no longer an employee of the person, or
+		- **(ii)** the taxpayer cannot reasonably be expected to have access to the information return in electronic format.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85; SOR/2010-93, s. 3; 2017, c. 20, s. 31.
 
 
 
