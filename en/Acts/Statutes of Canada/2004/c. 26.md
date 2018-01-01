@@ -62,10 +62,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) expressions**
 
 - **(2)** Unless a contrary intention appears, in this Act
-	- **(a)** the expressions adjusted income, eligible individual and qualified dependant have the meanings assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+	- **(a)** the expressions adjusted income, cohabiting spouse or common-law partner, eligible individual and qualified dependant have the meanings assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(b)** the expressions beneficiary, contribution, designated provincial program, promoter, registered education savings plan, subscriber and trust have the meanings assigned by section 146.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
 	- **(c)** any other expression has the meaning assigned by the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2004, c. 26, s. 2; 2010, c. 12, s. 30; 2016, c. 12, s. 107.
+> 2004, c. 26, s. 2; 2010, c. 12, s. 30; 2016, c. 12, s. 107; 2017, c. 20, s. 117.
 
 
 
@@ -161,7 +161,7 @@ exceeds
 
 **Change in care**
 
-- **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary’s primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which the individual’s eligibility for the Canada child benefit has been established.
+- **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary’s primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual or their cohabiting spouse or common-law partner is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which the individual’s eligibility for the Canada child benefit has been established.
 
 **Change in care in December**
 
@@ -169,15 +169,15 @@ exceeds
 
 **Designation**
 
-- **(7)** The amount referred to in subsection (4) is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary at the time the contribution is made.
+- **(7)** The amount referred to in subsection (4) is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary at the time the contribution is made or the primary caregiver’s cohabiting spouse or common-law partner at that time.
 
-**More than one primary caregiver**
+**More than one designated trust**
 
-- **(7.1)** If there is more than one primary caregiver of the beneficiary at the time a contribution is made, the amount referred to in subsection (4) is to be paid to the trustee of the trust designated under subsection (7) to which a contribution is first made.
+- **(7.1)** If there is more than one trust designated under subsection (7) at the time a contribution is made, the amount referred to in subsection (4) is to be paid to the trustee of the trust to which a contribution is first made.
 
 **Additional grant less than maximum amount**
 
-- **(7.2)** For greater certainty, if there is more than one primary caregiver of the beneficiary and the total of all amounts paid under subsection (4) to the trustee of the trust to which a contribution is first made is less than the maximum amount that may be paid under that subsection, then amounts may be paid under that subsection to the trustee of a trust designated by any primary caregiver of the beneficiary.
+- **(7.2)** For greater certainty, if there is more than one trust designated under subsection (7) and the total of all amounts paid under subsection (4) to the trustee of the trust to which a contribution is first made is less than the maximum amount that may be paid under subsection (4), then amounts may be paid under subsection (4) to the trustee of any trust designated under subsection (7).
 
 - **(8)** [Repealed, 2010, c. 12, s. 31]
 
@@ -188,7 +188,7 @@ exceeds
 **Lifetime cap**
 
 - **(10)** Not more than $7,200 in CES grants may be paid in respect of a beneficiary during their lifetime.
-> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31; 2011, c. 24, s. 148; 2016, c. 12, s. 108.
+> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31; 2011, c. 24, s. 148; 2016, c. 12, s. 108; 2017, c. 20, s. 118.
 
 
 
@@ -250,12 +250,12 @@ where
 
 **Designation**
 
-- **(4)** The amount of a bond in respect of a benefit year is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary or, if the beneficiary is 18 years of age or more, by the beneficiary.
+- **(4)** The amount of a bond in respect of a benefit year is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary, the primary caregiver’s cohabiting spouse or common-law partner or, if the beneficiary is 18 years of age or more, the beneficiary.
 
 **Additional payment**
 
 - **(5)** When the Minister pays the amount under paragraph (2)(a), the Minister may, in prescribed circumstances, pay into the trust an additional amount determined in accordance with the regulations in recognition of the cost of administering registered education savings plans.
-> 2004, c. 26, s. 6; 2016, c. 12, s. 109.
+> 2004, c. 26, s. 6; 2016, c. 12, s. 109; 2017, c. 20, s. 119.
 
 
 
@@ -289,12 +289,12 @@ where
 
 **9.1** 
 
-- **(1)** On application made by the primary caregiver of the beneficiary or, if the beneficiary is 18 years of age or more, by the beneficiary, the Minister may, to avoid undue hardship, waive any of the requirements of this Act or the regulations that relate to the payment of CES grants or Canada Learning Bonds and that are specified in regulations made under paragraph 13(g). The application must be in the form and manner approved by the Minister.
+- **(1)** On application made by the primary caregiver of the beneficiary, the primary caregiver’s cohabiting spouse or common-law partner or, if the beneficiary is 18 years of age or more, the beneficiary, the Minister may, to avoid undue hardship, waive any of the requirements of this Act or the regulations that relate to the payment of CES grants or Canada Learning Bonds and that are specified in regulations made under paragraph 13(g). The application must be in the form and manner approved by the Minister.
 
 **Restriction**
 
 - **(2)** Despite subsection (1), the Minister may not waive any requirement related to the determination of eligibility for a Canada child benefit or for a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md).
-> 2004, c. 26, s. 9.1; 2016, c. 12, s. 110.
+> 2004, c. 26, s. 9.1; 2016, c. 12, s. 110; 2017, c. 20, s. 120.
 
 
 
