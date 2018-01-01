@@ -60,10 +60,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Terminologie**
 
 - **(2)** Sauf indication contraire, dans la présente loi :
-	- **a)** les termes particulier admissible, personne à charge admissible et revenu modifié s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **a)** les termes époux ou conjoint de fait visé, particulier admissible, personne à charge admissible et revenu modifié s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **b)** les termes bénéficiaire, cotisation, fiducie, programme provincial désigné, promoteur, régime enregistré d’épargne-études et souscripteur s’entendent au sens de l’article 146.1 de cette loi;
 	- **c)** les autres termes s’entendent au sens de cette loi.
-> 2004, ch. 26, art. 2; 2010, ch. 12, art. 30; 2016, ch. 12, art. 107.
+> 2004, ch. 26, art. 2; 2010, ch. 12, art. 30; 2016, ch. 12, art. 107; 2017, ch. 20, art. 117.
 
 
 
@@ -155,7 +155,7 @@ où :
 
 **Changement dans les conditions de garde**
 
-- **(6.1)** Si un particulier qui n’est pas le responsable d’un bénéficiaire pour le mois de janvier d’une année donnée le devient après celui-ci, le revenu modifié utilisé pour l’application du paragraphe (4) à l’égard des cotisations versées au fiduciaire de la fiducie qu’il a désignée est celui utilisé pour déterminer le montant de l’allocation canadienne pour enfants pour le premier mois de l’année donnée pour lequel il y est admissible.
+- **(6.1)** Si un particulier qui n’est pas le responsable d’un bénéficiaire pour le mois de janvier d’une année donnée le devient après celui-ci, le revenu modifié utilisé pour l’application du paragraphe (4) à l’égard des cotisations versées au fiduciaire de la fiducie que le particulier — ou son époux ou conjoint de fait visé — a désignée est celui utilisé pour déterminer le montant de l’allocation canadienne pour enfants pour le premier mois de l’année donnée pour lequel il y est admissible.
 
 **Changement dans les conditions en décembre**
 
@@ -163,15 +163,15 @@ où :
 
 **Désignation**
 
-- **(7)** La somme visée au paragraphe (4) est versée au fiduciaire de toute fiducie que le responsable du bénéficiaire au moment où la cotisation est versée désigne en la forme et selon les modalités que le ministre approuve.
+- **(7)** La somme visée au paragraphe (4) est versée au fiduciaire de toute fiducie que le responsable du bénéficiaire, ou l’époux ou conjoint de fait visé du responsable, au moment où la cotisation est versée, désigne en la forme et selon les modalités que le ministre approuve.
 
-**Plusieurs responsables**
+**Plusieurs fiducies désignées**
 
-- **(7.1)** En cas de pluralité de responsables du bénéficiaire au moment du versement de la cotisation, la somme visée au paragraphe (4) est versée au fiduciaire de la fiducie — désignée au titre du paragraphe (7) — à laquelle une cotisation est versée en premier lieu.
+- **(7.1)** En cas de pluralité de fiducies désignées au titre du paragraphe (7) au moment du versement de la cotisation, la somme visée au paragraphe (4) est versée au fiduciaire de la fiducie à laquelle une cotisation est versée en premier lieu.
 
 **Cotisation maximale non atteinte**
 
-- **(7.2)** Il est entendu que, dans le cas où il y a pluralité de responsables du bénéficiaire et que le total des sommes versées au titre du paragraphe (4) au fiduciaire de la fiducie à laquelle une cotisation est versée en premier lieu est inférieur à la somme maximale visée à ce paragraphe, la somme en cause peut être versée au titre de la majoration prévue à ce paragraphe au fiduciaire de la fiducie désignée par tout responsable du bénéficiaire.
+- **(7.2)** Il est entendu que, dans le cas où il y a pluralité de fiducies désignées au titre du paragraphe (7) et que le total des sommes versées au titre du paragraphe (4) au fiduciaire de la fiducie à laquelle une cotisation est versée en premier lieu est inférieur à la somme maximale visée au paragraphe (4), la somme en cause peut être versée au titre de la majoration prévue au paragraphe (4) au fiduciaire de toute fiducie désignée au titre du paragraphe (7).
 
 - **(8)** [Abrogé, 2010, ch. 12, art. 31]
 
@@ -182,7 +182,7 @@ où :
 **Maximum**
 
 - **(10)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 7 200 $ au titre de la subvention pour l’épargne-études au cours de sa vie.
-> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31; 2011, ch. 24, art. 148; 2016, ch. 12, art. 108.
+> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31; 2011, ch. 24, art. 148; 2016, ch. 12, art. 108; 2017, ch. 20, art. 118.
 
 
 
@@ -244,12 +244,12 @@ où :
 
 **Désignation**
 
-- **(4)** Le montant du bon d’études à l’égard d’une année de référence est versé au fiduciaire de la fiducie que désigne, en la forme et selon les modalités que le ministre approuve, le responsable du bénéficiaire ou, si le bénéficiaire est âgé de dix-huit ans ou plus, celui-ci.
+- **(4)** Le montant du bon d’études à l’égard d’une année de référence est versé au fiduciaire de la fiducie que désigne, en la forme et selon les modalités que le ministre approuve, le responsable du bénéficiaire, l’époux ou conjoint de fait visé du responsable ou, si le bénéficiaire est âgé de dix-huit ans ou plus, celui-ci.
 
 **Versement additionnel**
 
 - **(5)** Lorsqu’il verse la somme visée à l’alinéa (2)a), le ministre peut, dans les circonstances prévues par règlement, verser au fiduciaire au profit de la fiducie une somme additionnelle déterminée en conformité avec les règlements, pour tenir compte des frais administratifs des régimes enregistrés d’épargne-études.
-> 2004, ch. 26, art. 6; 2016, ch. 12, art. 109.
+> 2004, ch. 26, art. 6; 2016, ch. 12, art. 109; 2017, ch. 20, art. 119.
 
 
 
@@ -283,12 +283,12 @@ où :
 
 **9.1** 
 
-- **(1)** Sur demande qui lui est adressée par le responsable du bénéficiaire ou, si le bénéficiaire est âgé de dix-huit ans ou plus, par celui-ci en la forme et selon les modalités qu’il approuve, le ministre peut, pour éviter qu’un préjudice injustifié ne soit causé, renoncer à celles des exigences de la présente loi ou des règlements liées au versement des subventions pour l’épargne-études ou des bons d’études qui sont prévues par les règlements pris en vertu de l’alinéa 13g).
+- **(1)** Sur demande qui lui est adressée, en la forme et selon les modalités qu’il approuve, par le responsable du bénéficiaire, par l’époux ou conjoint de fait visé du responsable ou, si le bénéficiaire est âgé de dix-huit ans ou plus, par celui-ci, le ministre peut, pour éviter qu’un préjudice injustifié ne soit causé, renoncer à celles des exigences de la présente loi ou des règlements liées au versement des subventions pour l’épargne-études ou des bons d’études qui sont prévues par les règlements pris en vertu de l’alinéa 13g).
 
 **Restriction**
 
 - **(2)** Il ne peut toutefois renoncer aux exigences liées à la détermination d’admissibilité à l’allocation canadienne pour enfants ou à l’allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md).
-> 2004, ch. 26, art. 9.1; 2016, ch. 12, art. 110.
+> 2004, ch. 26, art. 9.1; 2016, ch. 12, art. 110; 2017, ch. 20, art. 120.
 
 
 
