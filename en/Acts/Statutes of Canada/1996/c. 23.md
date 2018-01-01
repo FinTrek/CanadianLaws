@@ -2425,9 +2425,7 @@ is to be considered to have worked or not worked a full working week;
 
 - **(7)** The premium rate may not be increased or decreased by more than five one-hundredths of one per cent (0.05%) from one year to the next.
 
-**Exception**
-
-- **(7.1)** Despite subsection (7), the premium rate may be decreased by more than five one-hundredths of one per cent (0.05%) from 2016 to 2017.
+- **(7.1)** [Repealed, 2013, c. 40, s. 126]
 
 **Governor in Council — maximum change in premium rate**
 
