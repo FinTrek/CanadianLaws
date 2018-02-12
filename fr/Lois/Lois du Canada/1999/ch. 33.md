@@ -7881,7 +7881,8 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 - **136** Produits de réaction entre l’acétone et la *N*-phénylaniline
 - **137** 1-[4-(Phénylazo)phénylazo]-2-naphtol, dont la formule moléculaire est C<sub>22</sub>H<sub>16</sub>N<sub>4</sub>O
 - **138** Fuel-oil n<sup>o</sup> 2
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120, 150, 251, 308; DORS/2017-113.
+- **139** Condensats de gaz naturel (combinaison complexe d’hydrocarbures dont le nombre de carbones se situe principalement dans la gamme C<sub>5</sub>-C<sub>15</sub> condensés pendant la production à la tête de puits, dans des usines de traitement du gaz naturel, dans des gazoducs ou dans des usines de chevauchement), y compris leurs distillats liquides dont le nombre de carbones se situe principalement dans la gamme C<sub>5</sub>-C<sub>15</sub>
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120, 150, 251, 308; DORS/2017-113; DORS/2018-20.
 
 
 
