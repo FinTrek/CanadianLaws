@@ -37,29 +37,70 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***entreprise*** Selon le cas :
+***entreprise*** Selon le cas :
 - **a)** constructeur ou équipementier automobiles établis au Canada;
 - **b)** vendeur à des tiers, pour revente par ceux-ci, de matériels acquis auprès du constructeur ou de l’équipementier automobiles ou de leur mandataire;
-- **c)** importateur de matériels destinés à être vendus.
+- **c)** importateur de matériels destinés à être vendus. (*company*)
 
-***équipement*** Objet, visé à l’annexe I, conçu comme pièce ou accessoire de véhicule.
+***équipement*** Objet, visé à l’annexe I, conçu comme pièce ou accessoire de véhicule. (*equipment*)
 
- ou ***fabrication*** ou ***construction*** Ensemble des opérations de réalisation d’un véhicule, y compris les modifications qui y sont apportées, jusqu’à sa vente au premier usager.
+***fabrication*** ou ***construction*** Ensemble des opérations de réalisation d’un véhicule, y compris les modifications qui y sont apportées, jusqu’à sa vente au premier usager. (*manufacture*)
 
-***inspecteur*** Personne désignée à ce titre conformément à l’article 14.
+***inspecteur*** Personne désignée à ce titre conformément à l’article 14. (*inspector*)
 
-***marque nationale de sécurité*** Le signe reproduit à l’annexe II, les mentions « Norme de sécurité des véhicules automobiles du Canada » ou « Canada Motor Vehicle Safety Standard » et les abréviations « NSVAC » ou « CMVSS ».
+***marque nationale de sécurité*** Le signe reproduit à l’annexe II, les mentions « Norme de sécurité des véhicules automobiles du Canada » ou « *Canada Motor Vehicle Safety Standard* » et les abréviations « NSVAC » ou « CMVSS ». (*national safety mark*)
 
-French version only***matériels*** Véhicules ou équipements.
+***matériels*** Véhicules ou équipements. (***French version only***)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***norme*** Règle ou norme s’appliquant à la conception, à la construction ou fabrication, au fonctionnement ou au marquage des matériels en vue de limiter les risques de mort et de dommages corporels ou matériels dus à l’utilisation des véhicules.
+***norme*** Règle ou norme s’appliquant à la conception, à la construction ou fabrication, au fonctionnement ou au marquage des matériels en vue de limiter les risques de mort et de dommages corporels ou matériels dus à l’utilisation des véhicules. (*standard*)
 
-***véhicule*** Véhicule automobile, ou faisant partie d’un attelage automobile, qui peut circuler sur la route; la présente définition ne vise toutefois pas les véhicules qui circulent exclusivement sur rail.
+***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md). (*Tribunal*)
 
-***vente*** Sont assimilées à la vente la location, l’offre de vente ou de location ainsi que la possession et la livraison en vue de la vente ou de la location.
-> 1993, ch. 16, art. 2; 1999, ch. 33, art. 350.
+***véhicule*** Véhicule automobile, ou faisant partie d’un attelage automobile, qui peut circuler sur la route; la présente définition ne vise toutefois pas les véhicules qui circulent exclusivement sur rail. (*vehicle*)
+
+***vente*** Sont assimilées à la vente la location, l’offre de vente ou de location ainsi que la possession et la livraison en vue de la vente ou de la location. (*sell*)
+> 1993, ch. 16, art. 2; 1999, ch. 33, art. 350; 2018, ch. 2, art. 2.
+
+
+
+
+
+## Délégation
+
+
+
+**Délégation**
+
+**2.1** Le ministre peut déléguer par écrit, sans restriction ou dans les limites prévues dans l’acte de délégation, les pouvoirs et fonctions qui lui sont conférés au titre de la présente loi aux personnes qu’il désigne à cet effet.
+> 2018, ch. 2, art. 3.
+
+
+
+
+
+## Ententes administratives
+
+
+
+**Ententes administratives**
+
+**2.2** Le ministre peut conclure une entente afin de réaliser l’objet de la loi.
+> 2018, ch. 2, art. 3.
+
+
+
+
+
+## Personne-ressource
+
+
+
+**Personne-ressource**
+
+**2.3** Toute entreprise, désignée par le ministre, qui appose une marque nationale de sécurité sur des matériels, qui vend des matériels sur lesquels est apposée une telle marque ou qui importe des matériels d’une catégorie assujettie à des normes réglementaires est tenue de fournir au ministre, à toute fin liée à la vérification du respect de la présente loi, les coordonnées d’une personne-ressource pour la correspondance.
+> 2018, ch. 2, art. 3.
 
 
 
@@ -197,8 +238,25 @@ French version only***matériels*** Véhicules ou équipements.
 
 **Moyens d’analyse**
 
-**8** L’entreprise qui appose une marque nationale de sécurité sur des matériels ou qui importe des matériels d’une catégorie régie par des normes réglementaires fournit au ministre, à sa demande, les moyens lui permettant d’extraire ou d’analyser les renseignements créés ou recueillis par les matériels.
-> 1993, ch. 16, art. 8; 1999, c. 33, s. 352; 2014, ch. 20, art. 218.
+**8** L’entreprise qui appose une marque nationale de sécurité sur des matériels, qui vend des matériels sur lesquels est apposée une telle marque ou qui importe des matériels d’une catégorie assujettie à des normes réglementaires fournit au ministre, à sa demande, les moyens lui permettant d’extraire ou d’analyser les renseignements créés ou recueillis par les matériels.
+> 1993, ch. 16, art. 8; 1999, c. 33, s. 352; 2014, ch. 20, art. 218; 2018, ch. 2, art. 5.
+
+
+
+
+
+**Pouvoir d’ordonner des tests, analyses ou études**
+
+**8.1** 
+
+- **(1)** Le ministre peut, par arrêté, ordonner à toute entreprise qui appose une marque nationale de sécurité sur des matériels, qui vend des matériels sur lesquels est apposée une telle marque ou qui importe des matériels d’une catégorie assujettie à des normes réglementaires :
+	- **a)** d’effectuer des tests, des analyses ou des études sur les matériels en vue d’obtenir les renseignements qu’il estime nécessaires relatifs aux défauts ou pour les besoins des vérifications de conformité à la présente loi;
+	- **b)** de lui fournir les résultats dans le délai et de la manière qu’il précise.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à un arrêté pris au titre du paragraphe (1).
+> 2018, ch. 2, art. 5.
 
 
 
@@ -212,37 +270,30 @@ French version only***matériels*** Véhicules ou équipements.
 
 **9** 
 
-- **(1)** Le gouverneur en conseil peut par décret, pour une période et aux conditions qui y sont précisées, dispenser une entreprise de se conformer aux normes réglementaires applicables à un modèle de véhicule qu’elle fabrique ou importe, pourvu que l’entreprise en fasse la demande, conformément aux règlements, et qu’il juge que, par l’application de ces normes, se réaliserait l’une des conditions suivantes :
-	- **a)** création de grandes difficultés financières pour l’entreprise;
-	- **b)** entrave à la mise au point de dispositifs de sécurité équivalents ou supérieurs à ceux qui sont conformes aux normes réglementaires;
-	- **c)** entrave à la mise au point de nouveaux types de véhicules ou de dispositifs ou pièces de véhicules.
-
-**Durée**
-
-- **(2)** La dispense peut être accordée pour une période :
-	- **a)** d’au plus trois ans dans le cas visé à l’alinéa (1)a);
-	- **b)** d’au plus deux ans pour un nombre déterminé, limité à mille, de véhicules du même modèle dans les cas visés aux alinéas (1)b) ou c).
+- **(1)** Le ministre peut, par arrêté, pour une période et aux conditions qui y sont précisées, dispenser une entreprise de se conformer aux normes réglementaires applicables à un modèle de véhicule qu’elle fabrique ou importe, pourvu que l’entreprise en fasse la demande, conformément aux règlements, et qu’il juge que la dispense favoriserait le développement :
+	- **a)** soit de dispositifs de sécurité équivalents ou supérieurs à ceux qui sont conformes aux normes réglementaires;
+	- **b)** soit de nouveaux types de véhicules, de technologies, de dispositifs ou de pièces de véhicules.
 
 **Conditions d’acceptation**
 
-- **(3)** La dispense ne peut être accordée lorsqu’elle aurait pour effet de porter considérablement atteinte à la sécurité de fonctionnement du modèle ou que l’entreprise n’a pas, de bonne foi, tenté au préalable d’assurer la conformité du modèle aux normes réglementaires applicables.
+- **(2)** La dispense ne peut être accordée lorsqu’elle aurait pour effet de porter considérablement atteinte à la sécurité de fonctionnement du modèle dans son intégrité.
 
-**Idem**
+**Publication**
 
-- **(4)** Une dispense fondée sur l’alinéa (1)a) ne peut être accordée à l’entreprise dans les cas suivants :
-	- **a)** la production mondiale annuelle de l’entreprise ou du constructeur a été, la seconde année précédant la période à l’égard de laquelle la demande est présentée, supérieure à dix mille véhicules;
-	- **b)** l’entreprise a construit ou importé cette année-là pour le marché canadien plus de mille véhicules.
+- **(3)** Dès que possible, la dispense est publiée par Internet ou par tout autre moyen que le ministre estime indiqué.
+
+- **(4)** [Abrogé, 2018, ch. 2, art. 6]
 
 **Renouvellement**
 
 - **(5)** Une nouvelle dispense peut être accordée dans les conditions prévues par le présent article à l’échéance de la dispense originelle.
-> 1993, ch. 16, art. 9; 1999, ch. 33, art. 353; 2014, ch. 20, art. 219.
+> 1993, ch. 16, art. 9; 1999, ch. 33, art. 353; 2014, ch. 20, art. 219; 2018, ch. 2, art. 6.
 
 
 
 
 
-## Avis de défaut et de non-conformité
+## Avis de défaut et de non-conformité et arrêtés
 
 
 
@@ -335,8 +386,155 @@ French version only***matériels*** Véhicules ou équipements.
 
 **Accessibilité des renseignements**
 
-**10.3** L’entreprise qui donne au ministre un avis relativement à un véhicule doit rendre accessibles, conformément aux règlements, les renseignements relatifs au véhicule visé par l’avis.
-> 2014, ch. 20, art. 222.
+**10.3** L’entreprise, désignée par le ministre, qui donne au ministre un avis relativement à des matériels doit rendre accessibles, conformément aux règlements, les renseignements relatifs aux matériels visés par l’avis.
+> 2014, ch. 20, art. 222; 2018, ch. 2, art. 9.
+
+
+
+
+
+**Date de correction**
+
+**10.4** 
+
+- **(1)** L’avis donné par une entreprise au propriétaire actuel et à toute personne visée par règlement conformément aux paragraphes 10(1) ou 10.1(1) précise la date à laquelle les pièces et les installations nécessaires à la correction devraient au plus tôt être disponibles afin de corriger le défaut ou la non-conformité.
+
+**Avis**
+
+- **(2)** Malgré le paragraphe (1), si elle ne peut raisonnablement établir, au moment de l’envoi de l’avis, la date visée à ce paragraphe, l’entreprise envoie l’avis visé au paragraphe (1) sans la date en question. L’entreprise envoie un deuxième avis dès que cette date sera connue.
+
+**Copie au ministre**
+
+- **(3)** Lorsqu’elle donne un avis visé aux paragraphes (1) et (2), l’entreprise en donne immédiatement une copie au ministre.
+
+**Pouvoir d’exiger des renseignements**
+
+- **(4)** Le ministre peut, par arrêté, ordonner à l’entreprise de fournir, dans le délai et de la manière qui y sont précisés, les renseignements ou documents qu’il juge nécessaires pour vérifier que la date indiquée par l’entreprise au titre du paragraphe (1) ou (2) est celle à laquelle les pièces et les installations nécessaires à la correction devraient au plus tôt être disponibles afin de corriger le défaut ou la non-conformité.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Pouvoir d’ordonner la correction d’un défaut ou d’une non-conformité**
+
+**10.5** Le ministre peut, par arrêté, ordonner à toute entreprise qui appose une marque nationale de sécurité sur des matériels, qui vend des matériels sur lesquels est apposée une telle marque ou qui importe des matériels d’une catégorie assujettie à des normes réglementaires de corriger un défaut ou une non-conformité, selon les modalités qu’il précise dans l’arrêté, dans le cas où un avis de défaut ou de non-conformité a été donné et s’il est d’avis que des raisons de sécurité le justifient.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Corrections**
+
+**10.51** S’agissant de matériels, l’entreprise visée par un arrêté pris en vertu de l’article 10.5 peut corriger un défaut ou une non-conformité de l’une des façons suivantes :
+- **a)** en les réparant, notamment en leur faisant les modifications, ajouts ou retraits nécessaires;
+- **b)** en les remplaçant par des matériels essentiellement équivalents;
+- **c)** en remboursant, selon le cas :
+	- **(i)** les coûts raisonnables de leurs réparations qui ont été entreprises avant qu’un avis de défaut ou de non-conformité n’ait été donné,
+	- **(ii)** leur prix de vente, compte tenu d’une dépréciation raisonnable dans le cas où les matériels ont été vendus au premier usager, et après que les matériels lui ont été retournés.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Mesures et remboursements prévus**
+
+**10.52** Il est entendu que toute personne, notamment un concessionnaire d’automobiles, peut bénéficier des mesures prévues à l’article 10.51 ainsi que du remboursement des coûts prévus au paragraphe 10.6(1).
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Entente**
+
+**10.53** Il est entendu que rien n’empêche une entreprise visée par un arrêté pris en vertu des paragraphes 10.1(7) ou 10.4(4), de l’article 10.5 ou du paragraphe 10.6(1) de conclure une entente avec toute personne, notamment un concessionnaire d’automobiles, sur toute question relative à l’arrêté — notamment sur le remboursement des coûts supportés dans le cas de matériels qui n’ont pas été vendus au premier usager —, en plus de respecter les modalités qui y sont prévues.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Droits non touchés**
+
+**10.54** Il est entendu que la correction de matériels en conformité avec l’article 10.51 ne porte pas atteinte au droit d’une personne, notamment d’un concessionnaire d’automobiles, d’exercer tout autre recours ouvert en droit, y compris celui de recouvrer les frais raisonnables engagés au titre d’un arrêté pris en vertu de l’article 10.5.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Pouvoir d’ordonner de payer les coûts**
+
+**10.6** 
+
+- **(1)** Le ministre peut, par arrêté, ordonner à toute entreprise qui appose une marque nationale de sécurité sur des matériels, qui vend des matériels sur lesquels est apposée une telle marque ou qui importe des matériels d’une catégorie assujettie à des normes réglementaires de payer les coûts supportés pour corriger le défaut ou la non-conformité, aux conditions précisées dans l’arrêté, dans le cas où un avis de défaut ou de non-conformité a été donné.
+
+**Prescription**
+
+- **(2)** Le présent article ne s’applique pas aux matériels qui ont été fabriqués quinze ans ou plus avant la date de l’arrêté visé au paragraphe (1).
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Interdiction d’offrir en vente : défaut ou non-conformité**
+
+**10.61** 
+
+- **(1)** Le ministre peut, par arrêté, exiger qu’une entreprise s’assure que tout défaut ou toute non-conformité des matériels soit corrigé avant que ceux-ci ne soient offerts en vente au premier usager, aux conditions précisées dans l’arrêté.
+
+**Précision**
+
+- **(2)** Il est entendu que l’entreprise peut tenir des activités de promotion avant d’offrir en vente des matériels visés au paragraphe (1).
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Processus**
+
+**10.7** 
+
+- **(1)** Pour l’application des paragraphes 10(4) et 10.1(7) et des articles 10.5 à 10.61, le ministre, avant de prendre un arrêté :
+	- **a)** en se fondant sur les tests, analyses, inspections, examens ou recherches qu’il estime indiqués et en consultation avec l’entreprise visée, prend une détermination provisoire selon laquelle un arrêté peut être nécessaire pour des raisons de sécurité;
+	- **b)** avise l’entreprise par écrit de sa détermination provisoire, motifs à l’appui, et l’invite à présenter des renseignements par écrit, dans le délai et de la manière qu’il précise;
+	- **c)** publie un avis de détermination provisoire et invite toute personne à formuler des commentaires écrits dans le délai qu’il précise.
+
+**Décision définitive**
+
+- **(2)** Le ministre ne prend une décision définitive à l’effet de savoir si un arrêté est nécessaire que lorsqu’il a pris en considération les renseignements qu’il estime pertinents.
+
+**Avis à l’entreprise**
+
+- **(3)** Après avoir pris une décision définitive, le ministre en avise l’entreprise, motifs à l’appui.
+
+**Publication de l’avis**
+
+- **(4)** Après avoir pris une décision définitive, le ministre publie un avis de la décision par Internet ou par tout autre moyen qu’il estime indiqué.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**Pouvoir de modifier ou d’annuler l’arrêté**
+
+**10.8** Le ministre peut modifier ou annuler un arrêté si de nouveaux renseignements pertinents sont disponibles.
+> 2018, ch. 2, art. 9.
+
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**10.9** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à un arrêté pris au titre des articles 10.4, 10.5, 10.6 ou 10.61.
+> 2018, ch. 2, art. 9.
 
 
 
@@ -405,11 +603,22 @@ French version only***matériels*** Véhicules ou équipements.
 
 **13** 
 
-- **(1)** Dans le cas où un texte édicté par un gouvernement étranger et correspondant à des règlements pris sous le régime de la présente loi est modifié ou dans le cas où son application est modifiée par suite d’une décision d’un tribunal étranger, le ministre peut, par arrêté, suspendre ou modifier l’application des règlements, pour une période d’au plus une année, dans la mesure où ils sont incompatibles avec le texte modifié.
+- **(1)** Dans le cas où un texte édicté par un gouvernement étranger et correspondant à des règlements pris sous le régime de la présente loi est modifié ou dans le cas où son application est modifiée par suite d’une décision d’un tribunal étranger, le ministre peut, par arrêté, suspendre ou modifier l’application des règlements, pour une période d’au plus trois ans, dans la mesure où ils sont incompatibles avec le texte modifié. Le ministre peut renouveler l’arrêté pour une période d’au plus trois ans.
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(2)** Un arrêté pris au titre du paragraphe (1) n’est pas un règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), mais nul n’est tenu de s’y conformer s’il n’a pas été publié dans la Gazette du Canada ou si la personne en cause n’en a pas été formellement avisée.
+> 1993, ch. 16, art. 13; 2018, ch. 2, art. 10.
+
+
+
+
+
+**Arrêté : suspendre, modifier ou adapter un règlement**
+
+**13.1** Le ministre peut prendre un arrêté, pour une période d’au plus trois ans, qui suspend, modifie ou adapte un règlement, en tout ou en partie, s’il juge qu’il est dans l’intérêt public de le faire, notamment pour la promotion d’une innovation ou pour des raisons de sécurité.
+> 2018, ch. 2, art. 11.
+
 
 
 
@@ -424,6 +633,10 @@ French version only***matériels*** Véhicules ou équipements.
 
 - **(1)** Le ministre peut désigner, en qualité d’inspecteur de la sécurité automobile, toute personne qu’il estime qualifiée.
 
+**Enquête : collisions**
+
+- **(1.1)** Il est entendu que le ministre peut désigner, en qualité d’enquêteur de collision, toute personne qu’il estime qualifiée. Cette personne peut recueillir des renseignements concernant toute enquête relative à une collision automobile.
+
 **Certificat**
 
 - **(2)** Le ministre remet à l’inspecteur un certificat attestant sa qualité, que celui-ci présente, sur demande, au responsable des lieux visés au paragraphe 15(1).
@@ -431,7 +644,7 @@ French version only***matériels*** Véhicules ou équipements.
 **Non-contraignabilité**
 
 - **(3)** L’inspecteur ne peut être contraint sans l’autorisation écrite du ministre à témoigner dans une action civile relativement à des renseignements qu’il a obtenus dans l’exercice de ses fonctions.
-> 1993, ch. 16, art. 14; 2014, ch. 20, art. 225.
+> 1993, ch. 16, art. 14; 2014, ch. 20, art. 225; 2018, ch. 2, art. 12.
 
 
 
@@ -441,41 +654,98 @@ French version only***matériels*** Véhicules ou équipements.
 
 **15** 
 
-- **(1)** Afin de procéder à des vérifications de conformité à la présente loi, l’inspecteur peut, à toute heure convenable, pénétrer dans les lieux où il a des motifs raisonnables de croire à la présence :
-	- **a)** de matériels appartenant à une catégorie assujettie à des normes réglementaires et qui sont la propriété ou se trouvent dans les locaux d’une entreprise ou d’un consignataire de matériels importés;
-	- **b)** de pièces destinées à servir à la fabrication de matériels ainsi assujettis;
+- **(1)** À toute fin liée à la vérification du respect de la présente loi, l’inspecteur peut, à toute heure convenable, pénétrer dans tout lieu — à l’exclusion d’une maison d’habitation —, notamment un lieu de collision, où il a des motifs raisonnables de croire à la présence :
+	- **a)** de matériels appartenant à une catégorie assujettie à des normes réglementaires;
+	- **b)** de pièces utilisées dans la fabrication de matériels ainsi assujettis ou destinées à être ainsi utilisées;
 	- **c)** de dossiers visés par l’alinéa 5(1)g).
 
-**Examen des lieux**
+**Droit de passage des inspecteurs**
 
-- **(2)** L’inspecteur peut, dans les circonstances visées au paragraphe (1), examiner tous matériels ou pièces trouvés sur les lieux et ouvrir et examiner tout emballage ou contenant qu’il croit, pour des motifs raisonnables, contenir des équipements ou pièces ainsi visés.
+- **(2)** Dans l’exercice de ses fonctions, l’inspecteur et les personnes qui l’accompagnent peuvent pénétrer dans une propriété privée, à l’exclusion d’une maison d’habitation, et y circuler sans engager de responsabilité à cet égard et sans que personne ne puisse s’y opposer.
 
-**Demande de renseignements**
+**Présence de personnes exigée**
 
-- **(3)** L’inspecteur peut demander à toute personne de produire pour examen les livres, dossiers ou rapports, données d’essais, connaissements et feuilles d’expédition ou autres documents ou données informatiques qu’il croit, pour des motifs raisonnables, contenir des renseignements utiles à l’application de la présente loi ou à la détection ou à l’analyse d’un défaut visé au paragraphe 10(1), et en prendre des copies ou des extraits.
+- **(3)** L’inspecteur peut exiger, au moment de sa visite, la présence des personnes qu’il estime utiles à l’exercice de ses fonctions.
 
-**Saisie de biens**
+**Pouvoirs**
 
-- **(4)** L’inspecteur peut saisir et, sous réserve des articles 489.1 à 491.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatifs à la disposition de biens saisis, retenir tous matériels ou pièces visés au paragraphe (1) qu’il croit, pour des motifs raisonnables, avoir servi ou donné lieu à une infraction à la présente loi ou pouvoir servir à prouver l’infraction.
-> 1993, ch. 16, art. 15; 2014, ch. 20, art. 226.
-
-
-
-
+- **(4)** L’inspecteur peut, à toute fin visée au paragraphe (1) :
+	- **a)** examiner tous matériels ou pièces se trouvant dans le lieu visité;
+	- **b)** ouvrir et examiner tout emballage ou contenant qu’il croit contenir des équipements ou pièces visés à ce paragraphe;
+	- **c)** examiner tout document se trouvant dans le lieu et en faire des copies ou en prendre des extraits;
+	- **d)** démonter et retirer les pièces constitutives des matériels;
+	- **e)** ordonner au propriétaire de tout matériel visé par la présente loi se trouvant dans le lieu ou à la personne qui en a la possession, la responsabilité ou la charge de le déplacer, ou encore de ne pas le déplacer ou d’en limiter le déplacement aussi longtemps que nécessaire;
+	- **f)** utiliser ou faire utiliser tout ordinateur ou autre dispositif se trouvant dans le lieu pour prendre connaissance des données que tout système informatique contient ou auxquelles il donne accès, reproduire ou faire reproduire ces données sous forme d’imprimé ou toute autre forme intelligible et emporter tout imprimé ou sortie de données pour examen ou reproduction;
+	- **g)** utiliser ou faire utiliser le matériel de reproduction se trouvant dans le lieu et emporter les copies aux fins d’examen;
+	- **h)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **i)** emporter tout matériel ou toute pièce se trouvant dans le lieu afin de l’examiner ou de le mettre à l’essai.
 
 **Assistance à l’inspecteur**
 
-**16** 
+- **(5)** Le propriétaire ou le responsable des lieux visités conformément au paragraphe (1), ainsi que quiconque s’y trouve, sont tenus de répondre à toute question que peut valablement poser l’inspecteur et qui est liée à l’inspection, de lui prêter toute l’assistance possible dans l’exercice de ses fonctions, de lui fournir les renseignements qu’il peut valablement exiger pour l’application de la présente loi et de lui donner accès aux données informatiques qu’il peut valablement exiger.
 
-- **(1)** Le propriétaire ou le responsable des lieux visités conformément au paragraphe 15(1), ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger pour l’application de la présente loi.
+**Saisie de biens**
 
-**Entrave**
-
-- **(2)** Il est interdit sciemment d’entraver l’action de l’inspecteur dans l’exercice de ses fonctions ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+- **(6)** L’inspecteur peut saisir et, sous réserve des articles 489.1 à 491.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatifs à la disposition de biens saisis, retenir tous matériels ou pièces visés au paragraphe (1) qu’il croit, pour des motifs raisonnables, avoir servi ou donné lieu à une infraction à la présente loi ou pouvoir servir à prouver l’infraction.
 
 **Interdiction**
 
-- **(3)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer des matériels ou pièces saisis en application du paragraphe 15(4) ou d’en modifier de quelque manière l’état.
+- **(7)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer des matériels ou pièces saisis en application du paragraphe (6) ou d’en modifier de quelque manière l’état.
+> 1993, ch. 16, art. 15; 2014, ch. 20, art. 226; 2018, ch. 2, art. 13.
+
+
+
+
+
+**Fourniture de documents, de renseignements et de données informatiques**
+
+**15.1** L’inspecteur peut, à toute fin liée à la vérification du respect de la présente loi, ordonner par écrit à toute personne de lui fournir, aux date, heure et lieu et de la façon qu’il précise, les documents, renseignements ou données informatiques qu’il précise.
+> 2018, ch. 2, art. 14.
+
+
+
+
+
+**Entrave**
+
+**16** Il est interdit d’entraver l’action de l’inspecteur dans l’exercice de ses fonctions ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+> 1993, ch. 16, art. 16; 2018, ch. 2, art. 14.
+
+
+
+
+
+## Consentements
+
+
+
+**Consentement**
+
+**16.01** 
+
+- **(1)** Le ministre peut signer un consentement avec une personne morale, une entreprise ou une personne physique qui a contrevenu à la présente loi ou à ses règlements ou qui, à son avis, y a contrevenu.
+
+**Contenu**
+
+- **(2)** Le consentement peut inclure toutes modalités, notamment le paiement d’une somme par une personne morale, une entreprise ou une personne physique qui peut être différente de la somme déterminée en vertu de la présente loi pour la contravention.
+
+**Dépôt et enregistrement**
+
+- **(3)** Le consentement est déposé auprès de la Cour fédérale pour y être enregistré dès que possible. Il est alors réputé être une ordonnance de cette cour et est exécutoire au même titre qu’une telle ordonnance.
+
+**Effet de l’enregistrement**
+
+- **(4)** Une fois le consentement enregistré, les procédures intentées relativement à la contravention qui y a donné lieu prennent fin et aucune autre poursuite ne peut être intentée par la suite au titre de la présente loi contre la personne morale, l’entreprise ou la personne physique relativement à la contravention.
+
+**Modification**
+
+- **(5)** Le ministre et toute partie au consentement peuvent en tout temps demander la modification de toute condition dont le consentement est assorti. Le consentement modifié remplace l’original et est déposé et enregistré en conséquence.
+
+**Publication**
+
+- **(6)** Une fois le consentement enregistré, le ministre le fait publier par Internet ou par tout autre moyen qu’il estime indiqué.
+> 2018, ch. 2, art. 14.
+
 
 
 
@@ -498,10 +768,18 @@ French version only***matériels*** Véhicules ou équipements.
 	- **a)** par procédure sommaire, une amende maximale de quatre mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de vingt mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
+**Infraction continue**
+
+- **(2.1)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
 **Moyen de défense**
 
 - **(3)** Dans les poursuites engagées, pour infraction à l’article 4 ou au paragraphe 5(1), contre une entreprise qui se livre à l’assemblage ou à la modification de véhicules, la preuve que l’infraction résulte de l’acte antérieur d’un autre constructeur automobile constitue un moyen de défense pour l’entreprise.
-> 1993, ch. 16, art. 17; 2011, ch. 24, art. 186; 2014, ch. 20, art. 227.
+
+**Disculpation : précautions voulues**
+
+- **(4)** Dans les poursuites engagées pour avoir contrevenu à l’article 16, nul ne peut être déclaré coupable de l’infraction prévue au paragraphe (1) ou (2) s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+> 1993, ch. 16, art. 17; 2011, ch. 24, art. 186; 2014, ch. 20, art. 227; 2018, ch. 2, art. 16.
 
 
 
@@ -533,6 +811,34 @@ French version only***matériels*** Véhicules ou équipements.
 **Idem**
 
 - **(2)** Dans les poursuites pour infraction à la présente loi, la preuve qu’un matériel portant une marque nationale de sécurité a été fabriqué par une entreprise fait foi, sauf preuve contraire, de ce que le marquage a été fait par cette entreprise.
+
+
+
+
+## Confiscation
+
+
+
+**Confiscation — déclaration de culpabilité**
+
+**19.1** 
+
+- **(1)** En cas de déclaration de culpabilité pour infraction à la présente loi, le tribunal peut ordonner que tous matériels ou pièces saisis qui ont servi ou donné lieu à l’infraction soient confisqués au profit de Sa Majesté du chef du Canada.
+
+**Disposition**
+
+- **(2)** En cas de confiscation des matériels ou pièces saisis, ceux-ci peuvent être entreposés, et en être disposé, aux frais du propriétaire ou de la personne qui avait droit à leur possession au moment de la saisie.
+> 2018, ch. 2, art. 17.
+
+
+
+
+
+**Confiscation sur consentement**
+
+**19.2** Le propriétaire des matériels ou pièces saisis peut consentir à leur confiscation. Le cas échéant, les matériels ou pièces sont confisqués au profit de Sa Majesté du chef du Canada et peuvent être entreposés, et en être disposé, aux frais du propriétaire.
+> 2018, ch. 2, art. 17.
+
 
 
 
