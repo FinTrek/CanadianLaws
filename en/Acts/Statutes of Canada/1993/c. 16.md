@@ -37,29 +37,70 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***company*** means a person
+***company*** means a person
 - **(a)** who is engaged in the business of manufacturing vehicles or equipment in Canada,
 - **(b)** who is engaged in the business of selling to other persons, for the purpose of resale by those persons, vehicles or equipment obtained directly from a person described in paragraph (a) or the agent of such a person, or
-- **(c)** who imports a vehicle or article of equipment into Canada for the purpose of sale;
+- **(c)** who imports a vehicle or article of equipment into Canada for the purpose of sale; (*entreprise*)
 
-***equipment*** means any equipment set out in Schedule I that is designed for use in or on a vehicle;
+***equipment*** means any equipment set out in Schedule I that is designed for use in or on a vehicle; (*équipement*)
 
-***inspector*** means a person designated as an automotive inspector pursuant to section 14;
+***inspector*** means a person designated as an automotive inspector pursuant to section 14; (*inspecteur*)
 
- ou ***manufacture***, in relation to a vehicle, includes any process of assembling or altering the vehicle prior to its sale to the first retail purchaser;
+***manufacture***, in relation to a vehicle, includes any process of assembling or altering the vehicle prior to its sale to the first retail purchaser; (*fabrication* ou *construction*)
 
-***Minister*** means the Minister of Transport;
+***Minister*** means the Minister of Transport; (*ministre*)
 
-***national safety mark*** means the expression “Canada Motor Vehicle Safety Standard” or “Norme de sécurité des véhicules automobiles du Canada”, the abbreviation “CMVSS” or “NSVAC”, or the symbol set out in Schedule II;
+***national safety mark*** means the expression “Canada Motor Vehicle Safety Standard” or “*Norme de sécurité des véhicules automobiles du Canada*”, the abbreviation “CMVSS” or “NSVAC”, or the symbol set out in Schedule II; (*marque nationale de sécurité*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulations made under section 11;
+***prescribed*** means prescribed by regulations made under section 11; (***Version anglaise seulement***)
 
-***sell*** includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease;
+***sell*** includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease; (*vente*)
 
-***standard*** means a standard that governs the design, construction, functioning or marking of vehicles or equipment for the purpose of reducing the risk of death, injury or property damage from vehicle use;
+***standard*** means a standard that governs the design, construction, functioning or marking of vehicles or equipment for the purpose of reducing the risk of death, injury or property damage from vehicle use; (*norme*)
 
-***vehicle*** means any vehicle that is capable of being driven or drawn on roads by any means other than muscular power exclusively, but does not include any vehicle designed to run exclusively on rails.
-> 1993, c. 16, s. 2; 1999, c. 33, s. 350.
+***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md); (*Tribunal*)
+
+***vehicle*** means any vehicle that is capable of being driven or drawn on roads by any means other than muscular power exclusively, but does not include any vehicle designed to run exclusively on rails. (*véhicule*)
+> 1993, c. 16, s. 2; 1999, c. 33, s. 350; 2018, c. 2, s. 2.
+
+
+
+
+
+## Exercise of Powers
+
+
+
+**Exercise of powers**
+
+**2.1** The Minister may, in writing, authorize any person designated by the Minister to exercise any of the Minister’s powers and duties under this Act, either generally or as otherwise provided in the instrument of authorization.
+> 2018, c. 2, s. 3.
+
+
+
+
+
+## Administrative Agreements
+
+
+
+**Administrative agreements**
+
+**2.2** The Minister may enter into an agreement to further the purposes of this Act.
+> 2018, c. 2, s. 3.
+
+
+
+
+
+## Contact Person
+
+
+
+**Contact person**
+
+**2.3** A company designated by the Minister that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports into Canada any vehicle or equipment of a class for which standards are prescribed is required to provide the Minister, for a purpose related to verifying compliance with this Act, with the contact information for a person for the purpose of correspondence.
+> 2018, c. 2, s. 3.
 
 
 
@@ -201,8 +242,25 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Analytical aids**
 
-**8** A company that applies a national safety mark to any vehicle or equipment or that imports any vehicle or equipment of a class for which standards are prescribed shall, on the Minister’ request, provide the Minister with the means to retrieve and analyse information created or recorded by the vehicle or equipment.
-> 1993, c. 16, s. 8; 1999, c. 33, s. 352; 2014, c. 20, s. 218.
+**8** A company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed shall, on the Minister’s request, provide the Minister with the means to retrieve or analyze information created or recorded by the vehicle or equipment.
+> 1993, c. 16, s. 8; 1999, c. 33, s. 352; 2014, c. 20, s. 218; 2018, c. 2, s. 5.
+
+
+
+
+
+**Power to order tests, analyses or studies**
+
+**8.1** 
+
+- **(1)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to
+	- **(a)** conduct tests, analyses or studies on the vehicle or equipment in order to obtain information related to defects, or to verify compliance with this Act, that the Minister considers necessary; and
+	- **(b)** provide the results to the Minister in the time and manner that the Minister specifies.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (1).
+> 2018, c. 2, s. 5.
 
 
 
@@ -216,37 +274,30 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **9** 
 
-- **(1)** On application by a company as provided for in the regulations, the Governor in Council may, by order, grant an exemption for a specified period, in accordance with any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard if conformity with that standard would, in the opinion of the Governor in Council,
-	- **(a)** create substantial financial hardship for the company;
-	- **(b)** impede the development of new safety features that are equivalent to or superior to those that conform to prescribed standards; or
-	- **(c)** impede the development of new kinds of vehicles, vehicle systems or components.
-
-**Period and extent of exemption**
-
-- **(2)** An exemption for a model may be granted for a period not exceeding
-	- **(a)** three years, where paragraph (1)(a) applies; or
-	- **(b)** two years, in respect of a stated number of units of that model not exceeding one thousand units, where paragraph (1)(b) or (c) applies.
+- **(1)** On application by a company as provided for in the regulations, the Minister may, by order, grant an exemption for a specified period, in accordance with any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard if the exemption from that standard would, in the opinion of the Minister, promote the development of
+	- **(a)** new safety features that are equivalent to or superior to those that conform to prescribed standards; or
+	- **(b)** new kinds of vehicles, technologies, vehicle systems or components.
 
 **Conditions for granting exemption**
 
-- **(3)** An exemption may not be granted for a model if the exemption would substantially diminish the safe performance of the model or if the company applying for the exemption has not attempted in good faith to bring the model into conformity with all prescribed standards applicable to it.
+- **(2)** An exemption must only be granted for a model if the exemption would not substantially diminish the overall safety performance of the model.
 
-**Idem**
+**Publication**
 
-- **(4)** An exemption applied for by a company for any period may not be granted on the basis referred to in paragraph (1)(a) where
-	- **(a)** the world production of vehicles manufactured by the company or by the manufacturer of the model that is the subject of the application exceeded ten thousand vehicles in the twelve month period beginning two years before the beginning of that period; or
-	- **(b)** the total number of vehicles manufactured for, or imported into, the Canadian market by the company exceeded one thousand vehicles in that twelve month period.
+- **(3)** Each exemption order must, as soon as feasible, be published through the Internet or by any other means that the Minister considers appropriate.
+
+- **(4)** [Repealed, 2018, c. 2, s. 6]
 
 **Renewal of exemption**
 
 - **(5)** On expiration of the period of an exemption, a new exemption may be granted in accordance with this section.
-> 1993, c. 16, s. 9; 1999, c. 33, s. 353; 2014, c. 20, s. 219.
+> 1993, c. 16, s. 9; 1999, c. 33, s. 353; 2014, c. 20, s. 219; 2018, c. 2, s. 6.
 
 
 
 
 
-## Notice of Defect and of Non-Compliance
+## Notices of Defect and of Non-Compliance and Orders
 
 
 
@@ -353,8 +404,155 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Make information available**
 
-**10.3** A company that gives notice to the Minister in respect of a vehicle shall, as provided for in regulations, make information available for the vehicle in respect of which the notice was given.
-> 2014, c. 20, s. 222.
+**10.3** A company designated by the Minister that gives notice to the Minister in respect of a vehicle or equipment shall, as provided for in the regulations, make information available for the vehicle or equipment in respect of which the notice was given.
+> 2014, c. 20, s. 222; 2018, c. 2, s. 9.
+
+
+
+
+
+**Correction date**
+
+**10.4** 
+
+- **(1)** The notice given by a company under paragraph 10(1)(b) or 10.1(1)(b) shall specify the earliest date by which the parts and facilities that are necessary to correct the defect or non-compliance are expected to be available.
+
+**Notice**
+
+- **(2)** Despite subsection (1), if the company cannot reasonably specify the earliest date at the time the notice is sent, the company shall send the notice without that date. The company shall send a subsequent notice that provides the earliest date as soon as it has been determined.
+
+**Copy for Minister**
+
+- **(3)** The company shall immediately provide the Minister with a copy of any notice referred to in subsections (1) and (2).
+
+**Power to require information**
+
+- **(4)** The Minister may, by order, require a company to provide, in the manner and within the period specified in the order, any information or documents that the Minister considers necessary for verifying that the date specified by the company under subsection (1) or (2) is the earliest date by which the parts and facilities that are necessary to correct a defect or non-compliance are expected to be available.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Power to order correction of defect or non-compliance**
+
+**10.5** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to correct a defect or non-compliance, in accordance with any terms and conditions specified in the order, if a notice of defect or non-compliance has been given and the Minister considers that it is in the interest of safety.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Correction**
+
+**10.51** A company that is subject to an order made under section 10.5 may correct a defect or non-compliance by doing one of the following:
+- **(a)** repairing the vehicle or equipment, including by adding to, removing anything from or modifying the vehicle or equipment, as the circumstances require;
+- **(b)** replacing the vehicle or equipment with a reasonable equivalent;
+- **(c)** reimbursing
+	- **(i)** the reasonable cost of repairs to the vehicle or equipment that have already been undertaken before a notice of defect or non-compliance has been given, or
+	- **(ii)** the sale price of the vehicle or equipment, less reasonable depreciation in the case where the vehicle or equipment has been sold to the first retail purchaser, on return of the vehicle or equipment.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Available measures and benefits**
+
+**10.52** For greater certainty, any person, including an automobile dealer, may benefit from any measure referred to in section 10.51 and any payment of costs under subsection 10.6(1).
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Agreement**
+
+**10.53** For greater certainty, nothing prevents a company that is subject to an order under subsection 10.1(7) or 10.4(4), section 10.5 or subsection 10.6(1) from entering into an agreement with any person, including an automobile dealer, in respect of any matter related to the order — including, in the case of a vehicle or equipment that has not been sold to the first retail purchaser, in respect of the reimbursement of reasonable costs incurred — in addition to complying with any terms and conditions specified in the order.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Rights not affected**
+
+**10.54** For greater certainty, a correction to a vehicle or equipment in accordance with section 10.51 does not affect the right of any person, including an automobile dealer, to exercise any other right or remedy available at law, including a right or remedy to recover reasonable costs incurred as a result of an order under section 10.5.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Power to order payment of costs**
+
+**10.6** 
+
+- **(1)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to pay the costs of correcting a defect or non-compliance, in accordance with any terms and conditions specified in the order, if a notice of defect or non-compliance has been given.
+
+**Time limit**
+
+- **(2)** This section does not apply to any vehicle or equipment that was manufactured 15 years or more before the date of an order under subsection (1).
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Power to prohibit offering for sale — defect or non-compliance**
+
+**10.61** 
+
+- **(1)** The Minister may, by order, require a company to ensure that any defect or non-compliance in a vehicle or equipment is corrected before the vehicle is offered for sale to the first retail purchaser, in accordance with any terms and conditions specified in the order.
+
+**For greater certainty**
+
+- **(2)** For greater certainty, a company is not prohibited from doing any promotion activities prior to offering for sale any vehicle or equipment under subsection (1).
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Process**
+
+**10.7** 
+
+- **(1)** For the purposes of subsections 10(4) and 10.1(7) and sections 10.5 to 10.61, the Minister shall, before issuing any order,
+	- **(a)** make a preliminary determination, on the basis of testing, analysis, inspection, examination or research that the Minister considers appropriate and in consultation with the company, that an order may be necessary in the interest of safety;
+	- **(b)** notify the company of the preliminary determination, including the rationale on which it is based, and invite the company to provide information in writing, in the time and manner specified by the Minister; and
+	- **(c)** publish a notice of preliminary determination and invite any person to make comments in writing, within the time that the Minister specifies.
+
+**Final decision**
+
+- **(2)** The Minister shall not make a final decision that an order is necessary unless the Minister has taken into account information that he or she considers relevant.
+
+**Notice to company**
+
+- **(3)** After making a final decision, the Minister shall notify the company of the decision and the rationale on which it is based.
+
+**Publication**
+
+- **(4)** After making a final decision, the Minister shall publish a notice of it through the Internet or by any other means that he or she considers appropriate.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**Power to vary or revoke order**
+
+**10.8** The Minister may vary or revoke an order if new relevant information becomes available.
+> 2018, c. 2, s. 9.
+
+
+
+
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+**10.9** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under section 10.4, 10.5, 10.6 or 10.61.
+> 2018, c. 2, s. 9.
 
 
 
@@ -423,11 +621,22 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **13** 
 
-- **(1)** Where an enactment of a foreign government corresponds to regulations made under this Act and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an order, effective for a period not exceeding one year, suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect.
+- **(1)** If an enactment of a foreign government corresponds to regulations made under this Act and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an order, effective for a period not exceeding three years, suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect. The Minister may renew the order for a further period not exceeding three years.
 
 **Order not a regulation**
 
 - **(2)** An order issued under subsection (1) is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) but no person is required to comply with such an order unless it has been published in the Canada Gazette or that person has received actual notice of it.
+> 1993, c. 16, s. 13; 2018, c. 2, s. 10.
+
+
+
+
+
+**Order to suspend, modify or adapt regulation**
+
+**13.1** The Minister may issue an order, effective for a period not exceeding three years, that suspends, modifies or adapts a regulation, in whole or in part, if the Minister is of the opinion that it is in the public interest to do so, including to promote innovation or for reasons of safety.
+> 2018, c. 2, s. 11.
+
 
 
 
@@ -442,6 +651,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 - **(1)** The Minister may designate as an automotive inspector any person who, in the Minister’s opinion, is qualified to be so designated.
 
+**Investigation — collisions**
+
+- **(1.1)** For greater certainty, the Minister may designate as a collision investigator any person whom the Minister considers qualified, and that person may collect information with respect to an investigation of any motor vehicle collision.
+
 **Certificate of designation**
 
 - **(2)** The Minister shall furnish every inspector with a certificate of designation, and on entering any place referred to in subsection 15(1) an inspector shall, on demand from the person in charge of that place, produce the certificate for examination by that person.
@@ -449,53 +662,110 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Testimony  — civil suits**
 
 - **(3)** An inspector may not be compelled to give testimony in any civil suit, with regard to information obtained by them in the discharge of their duties, without the Minister’s written permission.
-> 1993, c. 16, s. 14; 2014, c. 20, s. 225.
+> 1993, c. 16, s. 14; 2014, c. 20, s. 225; 2018, c. 2, s. 12.
 
 
 
 
 
-**Entry by inspectors**
+**Entry by inspector**
 
 **15** 
 
-- **(1)** For the purpose of verifying compliance with this Act, an inspector may at any reasonable time enter any place in which the inspector believes on reasonable grounds there is
-	- **(a)** any vehicle or equipment of a class for which standards have been prescribed that is owned by, or is on the premises of, a company or a consignee of imported vehicles or imported equipment;
-	- **(b)** any component intended to be used in the manufacture of a vehicle or equipment for which safety standards have been prescribed; or
+- **(1)** For a purpose related to verifying compliance with this Act, an inspector may at any reasonable time enter any place, other than a dwelling-house but including a collision site, in which the inspector believes on reasonable grounds there is
+	- **(a)** any vehicle or equipment of a class for which standards are prescribed;
+	- **(b)** any component that is used or intended to be used in the manufacture of a vehicle or equipment for which safety standards are prescribed; or
 	- **(c)** any record referred to in paragraph 5(1)(g).
 
-**Search of premises**
+**Entry by inspector**
 
-- **(2)** An inspector who enters a place pursuant to subsection (1) may examine any vehicle, equipment or component found there, and may open any package or receptacle in that place that the inspector believes on reasonable grounds contains any equipment or component referred to in that subsection.
+- **(2)** In carrying out their duties, an inspector and any person accompanying the inspector may enter on and pass through or over private property, other than a dwelling-house, without being liable for doing so and without any person having the right to object to that use of the property.
 
-**Production of documents**
+**Power to require attendance of persons**
 
-- **(3)** An inspector may require any person to produce for examination any books, records, reports, test data, shipping bills, bills of lading or other documents or electronically stored data that the inspector believes on reasonable grounds contain any information relevant to the enforcement of this Act or to the identification or analysis of a defect referred to in subsection 10(1), and may make copies of or take extracts from any of them.
+- **(3)** An inspector who enters a place may require the attendance of persons whom the inspector considers relevant to the carrying out of the inspector’s functions.
+
+**Powers**
+
+- **(4)** The inspector may, for the purpose referred to in subsection (1),
+	- **(a)** examine any vehicle, equipment or component that is in the place;
+	- **(b)** open and examine any package or receptacle that the inspector believes contains any equipment or component referred to in that subsection;
+	- **(c)** examine any document that is in the place, make copies of it or take extracts from it;
+	- **(d)** disassemble and remove any constituent components;
+	- **(e)** order the owner or person having possession, care or control of any vehicle or equipment to which this Act applies that is in the place to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+	- **(f)** use or cause to be used a computer or other device that is in the place to examine data that is contained in or available to a computer system or reproduce it or cause it to be reproduced in the form of a printout or other intelligible output and remove the output for examination or copying;
+	- **(g)** use or cause to be used copying equipment that is in the place and remove the copies for examination;
+	- **(h)** take photographs or make recordings or sketches; and
+	- **(i)** remove any vehicle, equipment or component from the place for the purpose of examination or conducting tests.
+
+**Assistance to inspector**
+
+- **(5)** Any person who owns or has charge of a place entered by an inspector under subsection (1) and every person present there shall answer all of the inspector’s reasonable questions related to the inspection, provide access to all electronic data that the inspector may reasonably require, provide all reasonable assistance in their power to enable the inspector to carry out his or her duties and furnish any information that the inspector reasonably requires for the purposes of the administration of this Act.
 
 **Seizure of property**
 
-- **(4)** An inspector may seize and, subject to sections 489.1 to 491.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), detain any vehicle, equipment or component described in subsection (1)
-	- **(a)** by means of which or in relation to which the inspector believes on reasonable grounds this Act has been contravened; or
+- **(6)** An inspector may seize and, subject to sections 489.1 to 491.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), detain any vehicle, equipment or component described in subsection (1)
+	- **(a)** by means of which or in relation to which the inspector believes on reasonable grounds that this Act has been contravened; or
 	- **(b)** that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of this Act.
-> 1993, c. 16, s. 15; 2014, c. 20, s. 226.
-
-
-
-
-
-**Assistance to inspectors**
-
-**16** 
-
-- **(1)** Any person who owns or has charge of a place entered by an inspector pursuant to subsection 15(1) and every person present there shall provide all reasonable assistance in their power to enable the inspector to carry out the inspector’s duties, and shall furnish such information as the inspector reasonably requires for purposes of the administration of this Act.
-
-**False statements**
-
-- **(2)** No person shall knowingly obstruct or hinder, or make any false or misleading statement either orally or in writing to, an inspector engaged in carrying out functions under this Act.
 
 **Interference with seized property**
 
-- **(3)** Except with the authorization of an inspector, no person shall remove, alter or otherwise interfere with any vehicle, equipment or component seized by an inspector pursuant to subsection 15(4).
+- **(7)** Except with the authorization of an inspector, no person shall remove, alter or otherwise interfere with any vehicle, equipment or component seized by an inspector under subsection (6).
+> 1993, c. 16, s. 15; 2014, c. 20, s. 226; 2018, c. 2, s. 13.
+
+
+
+
+
+**Production of documents, information or electronic data**
+
+**15.1** An inspector may, for a purpose related to verifying compliance with this Act, order a person, in writing, to provide, on the date, at the time and place and in the manner specified by the inspector, any document, information or electronic data specified by the inspector.
+> 2018, c. 2, s. 14.
+
+
+
+
+
+**False statements**
+
+**16** No person shall obstruct or hinder, or make any false or misleading statement either orally or in writing to, an inspector who is engaged in carrying out his or her functions.
+> 1993, c. 16, s. 16; 2018, c. 2, s. 14.
+
+
+
+
+
+## Consent Agreement
+
+
+
+**Consent agreement**
+
+**16.01** 
+
+- **(1)** The Minister may enter into a consent agreement with any corporation, company or individual that has contravened the Act or its regulations, or that the Minister believes has contravened the Act or its regulations.
+
+**Contents of agreement**
+
+- **(2)** A consent agreement may include any term or condition, including the payment of an amount by a corporation, company or individual that may be different from the amount determined under this Act for the contravention.
+
+**Filing and registration of agreement**
+
+- **(3)** A consent agreement shall be filed with the Federal Court for registration as soon as feasible. The consent agreement is deemed to be an order of the court and is enforceable in the same manner.
+
+**Effect of registration**
+
+- **(4)** On registration of a consent agreement, any proceedings commenced in relation to a contravention that gave rise to the agreement are terminated and no further proceedings under this Act shall be taken against the corporation, company or individual with respect to the contravention.
+
+**Amendment**
+
+- **(5)** The Minister and any party to the consent agreement may modify its terms at the request of either at any time and the amended agreement replaces the original agreement and must be filed and registered accordingly.
+
+**Publication**
+
+- **(6)** On registration, the Minister shall cause each consent agreement to be published through the Internet or by any other means that the Minister considers appropriate.
+> 2018, c. 2, s. 14.
+
 
 
 
@@ -518,10 +788,18 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** is guilty of an offence punishable on summary conviction and is liable to a fine of not more than $4,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** is guilty of an indictable offence and is liable to a fine of not more than $20,000 or to imprisonment for a term of not more than two years, or to both.
 
+**Continuing offence**
+
+- **(2.1)** An offence that is committed or continued on more than one day constitutes a separate offence for each day on which it is committed or continued.
+
 **Defence where more than one manufacturer**
 
 - **(3)** In a prosecution for a contravention of section 4 or subsection 5(1) by a company engaged in the business of assembling or altering vehicles, it is a defence for the company to establish that the contravention occurred as a result of work previously done on a vehicle by another person engaged in the manufacture of the vehicle.
-> 1993, c. 16, s. 17; 2011, c. 24, s. 186; 2014, c. 20, s. 227.
+
+**Due diligence defence**
+
+- **(4)** In a prosecution for a contravention of section 16, a person is not to be found guilty of an offence under subsection (1) or (2) if they establish that they exercised all due diligence to prevent the commission of the offence.
+> 1993, c. 16, s. 17; 2011, c. 24, s. 186; 2014, c. 20, s. 227; 2018, c. 2, s. 16.
 
 
 
@@ -553,6 +831,34 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Idem**
 
 - **(2)** In a prosecution under this Act, evidence that a vehicle or equipment bearing a national safety mark was manufactured by a company is, in the absence of evidence to the contrary, proof that the national safety mark was affixed by the company.
+
+
+
+
+## Forfeiture
+
+
+
+**Forfeiture — conviction for offence**
+
+**19.1** 
+
+- **(1)** If a person is convicted of an offence under this Act, the court may order that a seized vehicle, equipment or component by means of or in relation to which the offence was committed be forfeited to Her Majesty in right of Canada.
+
+**Disposal**
+
+- **(2)** A seized vehicle, equipment or component that is forfeited may be stored and disposed of at the expense of its owner or the person who was entitled to possess it at the time of its seizure.
+> 2018, c. 2, s. 17.
+
+
+
+
+
+**Forfeiture — on consent**
+
+**19.2** If the owner of a seized vehicle, equipment or component consents to its forfeiture, the seized vehicle, equipment or component is forfeited to Her Majesty in right of Canada and may be stored and disposed of at the owner’s expense.
+> 2018, c. 2, s. 17.
+
 
 
 
