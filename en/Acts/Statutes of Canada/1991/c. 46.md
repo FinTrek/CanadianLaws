@@ -25170,10 +25170,14 @@ together with such other information about the background, business record and e
 ### **SCHEDULE I** 
 **(Section 14)**
 <table>
-<h4>As at December 31, 2016</h4>
+<h4>As at December 31, 2017</h4>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
+</tr>
+<tr>
+<td>ADS Canadian Bank</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>B2B Bank</td>
@@ -25208,12 +25212,8 @@ together with such other information about the background, business record and e
 <td>Alberta</td>
 </tr>
 <tr>
-<td>Cidel Bank Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Citizens Bank of Canada</td>
-<td>British Columbia</td>
+<td>Concentra Bank</td>
+<td>Saskatchewan</td>
 </tr>
 <tr>
 <td>Continental Bank of Canada</td>
@@ -25244,15 +25244,11 @@ together with such other information about the background, business record and e
 <td>Alberta</td>
 </tr>
 <tr>
-<td>Hollis Canadian Bank</td>
+<td>Home Bank</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>HomEquity Bank</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Home Bank</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25280,6 +25276,10 @@ together with such other information about the background, business record and e
 <td>Quebec</td>
 </tr>
 <tr>
+<td>Street Capital Bank of Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Tangerine Bank</td>
 <td>Ontario</td>
 </tr>
@@ -25288,11 +25288,15 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Wealth One Bank of Canada</td>
-<td>Ontario</td>
+<td>Vancity Community Investment Bank</td>
+<td>British Columbia</td>
 </tr>
 <tr>
 <td>VersaBank</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Wealth One Bank of Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25301,7 +25305,7 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 151, page 1500.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 152, page 752.
 
 
 
@@ -25309,7 +25313,7 @@ together with such other information about the background, business record and e
 ### **SCHEDULE II** 
 **(Section 14)**
 <table>
-<h4>As at December 31, 2016</h4>
+<h4>As at December 31, 2017</h4>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
@@ -25319,15 +25323,7 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Bank of America Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Bank of China (Canada)</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Bank of Tokyo-Mitsubishi UFJ (Canada)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25336,6 +25332,10 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>BofA Canada Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Cidel Bank Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25383,20 +25383,16 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>SBI Canada Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Shinhan Bank Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
 <td>Quebec</td>
-</tr>
-<tr>
-<td>SBI Canada Bank</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Sumitomo Mitsui Banking Corporation of Canada</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>UBS Bank (Canada)</td>
@@ -25408,7 +25404,7 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 151, page 1500.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 152, page 752.
 
 
 
@@ -25416,7 +25412,7 @@ together with such other information about the background, business record and e
 ### **SCHEDULE III** 
 **(Section 14.1)**
 <table>
-<h4>As at December 31, 2016</h4>
+<h4>As at December 31, 2017</h4>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
 <th>Name under which FB is permitted to carry on business in Canada</th>
@@ -25490,8 +25486,8 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Crédit Agricole Corporate and Investment Bank</td>
-<td>Crédit Agricole Corporate and Investment Bank (Canada Branch)</td>
+<td>*Crédit Agricole* Corporate and Investment Bank</td>
+<td>*Crédit Agricole* Corporate and Investment Bank (Canada Branch)</td>
 <td>Lending</td>
 <td>Quebec</td>
 </tr>
@@ -25538,6 +25534,12 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Mega International Commercial Bank Co., Ltd.</td>
+<td>Mega International Commercial Bank Co., Ltd.</td>
+<td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Mizuho Bank, Ltd.</td>
 <td>Mizuho Bank, Ltd., Canada Branch</td>
 <td>Full-service</td>
@@ -25564,12 +25566,6 @@ together with such other information about the background, business record and e
 <tr>
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
-<td>Full-service</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Royal Bank of Scotland plc (The)</td>
-<td>Royal Bank of Scotland plc, Canada Branch (The)</td>
 <td>Full-service</td>
 <td>Ontario</td>
 </tr>
@@ -25619,6 +25615,6 @@ together with such other information about the background, business record and e
 
 
 <a name='fn_FBB'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 151, page 1500.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 152, page 752.
 
 
