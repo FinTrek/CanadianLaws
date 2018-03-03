@@ -24799,10 +24799,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE I** 
 **(article 14)**
 <table>
-<h4>au 31 décembre 2016</h4>
+<h4>au 31 décembre 2017</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
+</tr>
+<tr>
+<td>Banque canadienne ADS</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>B2B Banque</td>
@@ -24837,12 +24841,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
-<td>Banque Cidel du Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Banque Citizens du Canada</td>
-<td>Colombie-Britannique</td>
+<td>Banque Concentra</td>
+<td>Saskatchewan</td>
 </tr>
 <tr>
 <td>Banque Continentale du Canada</td>
@@ -24873,15 +24873,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
-<td>Banque canadienne Hollis</td>
+<td>Banque Home</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Banque HomEquity</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Banque Home</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -24909,6 +24905,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Québec</td>
 </tr>
 <tr>
+<td>Banque Street Capital du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Tangerine</td>
 <td>Ontario</td>
 </tr>
@@ -24917,11 +24917,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque Wealth One du Canada</td>
-<td>Ontario</td>
+<td>Banque d’investissement communautaire Vancity</td>
+<td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>VersaBank</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Banque Wealth One du Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -24930,7 +24934,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 151, page 1500.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 152, page 752.
 
 
 
@@ -24938,7 +24942,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE II** 
 **(article 14)**
 <table>
-<h4>au 31 décembre 2016</h4>
+<h4>au 31 décembre 2017</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -24948,15 +24952,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque d’Amérique du Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Banque de Chine (Canada)</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Banque de Tokyo-Mitsubishi UFJ (Canada)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -24965,6 +24961,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque BofA Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Banque Cidel du Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25012,20 +25012,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque SBI Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Shinhan du Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
 <td>Québec</td>
-</tr>
-<tr>
-<td>Banque SBI Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Banque Sumitomo Mitsui du Canada</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque UBS (Canada)</td>
@@ -25037,7 +25033,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 151, page 1500.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 152, page 752.
 
 
 
@@ -25045,7 +25041,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE III** 
 **(article 14.1)**
 <table>
-<h4>au 31 décembre 2016</h4>
+<h4>au 31 décembre 2017</h4>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
 <th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
@@ -25167,6 +25163,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Mega International Commercial Bank Co., Ltd.</td>
+<td>Mega International Commercial Bank Co., Ltd.</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Mizuho Bank, Ltd.</td>
 <td>Banque Mizuho Ltée, succursale canadienne</td>
 <td>Services complets</td>
@@ -25193,12 +25195,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
-<td>Services complets</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Royal Bank of Scotland plc (The)</td>
-<td>Banque RBS plc (La)</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -25248,6 +25244,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 151, page 1500.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 152, page 752.
 
 
