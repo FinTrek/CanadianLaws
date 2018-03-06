@@ -2008,7 +2008,7 @@ Office of the Privacy Commissioner of Canada <br />- <i>Commissariat à la prote
 [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md), section 18
 
 
-[DNA Identification Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2037.md), section 6
+[DNA Identification Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2037.md), section 6.6
 
 
 [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md), section 16
@@ -2019,5 +2019,7 @@ Office of the Privacy Commissioner of Canada <br />- <i>Commissariat à la prote
 
 [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), section 129
 
+
+> 2005, c. 46, Sch. 3; 2014, c. 39, s. 248.
 
 
