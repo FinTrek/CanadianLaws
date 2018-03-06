@@ -2006,7 +2006,7 @@ Commissariat à la protection de la vie privée<br />- <i>Office of the Privacy 
 [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md), article 16
 
 
-[Loi sur l’identification par les empreintes génétiques](/fr/Lois/Lois%20du%20Canada/1998/ch.%2037.md), article 6
+[Loi sur l’identification par les empreintes génétiques](/fr/Lois/Lois%20du%20Canada/1998/ch.%2037.md), article 6.6
 
 
 [Loi sur le programme de protection des témoins](/fr/Lois/Lois%20du%20Canada/1996/ch.%2015.md), article 11
@@ -2017,5 +2017,7 @@ Commissariat à la protection de la vie privée<br />- <i>Office of the Privacy 
 
 [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), article 129
 
+
+> 2005, ch. 46, ann. 3; 2014, ch. 39, art. 248.
 
 
