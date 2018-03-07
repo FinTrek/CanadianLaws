@@ -2819,11 +2819,13 @@ Consequently the General Assembly by a Resolution adopted on the 13 February 194
 ## Designated Treaties, Conventions and Agreements
 
 
+Agreement Between the Government of Canada and the United Nations University Concerning the United Nations University International Network on Water, Environment and Health<br />- <i>Accord entre le Gouvernement du Canada et l’Université des Nations Unies concernant le Réseau international pour l’eau, l’environnement et la santé de l’Université des Nations Unies</i>
+
 Agreement with the Preparatory Commission for the Comprehensive Nuclear Test-Ban Treaty Organization<br />- <i>Accord avec la Commission préparatoire pour l’Organisation du Traité d’interdiction complète des essais nucléaires</i>
 
 Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons, and on their Destruction<br />- <i>Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction</i>
 
 
-> 2002, c. 12, s. 9.
+> 2002, c. 12, s. 9; SOR/2018-36, s. 3.
 
 
