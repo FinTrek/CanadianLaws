@@ -2527,7 +2527,7 @@ où :
 
 <sup><a href='#fn_IndA8BF_hq_20494'>[*]</a></sup>**450** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndA8BF_hq_20494'><sup>*</sup></a>: [Note : Les dispositions de la section 20 non en vigueur.]<br />
+<a name='fn_IndA8BF_hq_20494'><sup>*</sup></a>: [Note : Articles 442 à 449 en vigueur le 12 mars 2018, *voir* TR/2018-15.]<br />
 
 
 
