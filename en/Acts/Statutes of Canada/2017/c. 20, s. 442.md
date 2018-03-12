@@ -8,7 +8,7 @@
 Assented to on 22 June 2017
 
 ```
-[Enacted by section 442 of chapter 20 of the Statutes of Canada, 2017, not in force.]
+[Enacted by section 442 of chapter 20 of the Statutes of Canada, 2017, in force March 12, 2018, see SI/2018-15.]
 ```
 ----------
 
