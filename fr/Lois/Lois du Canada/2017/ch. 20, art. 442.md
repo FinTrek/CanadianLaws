@@ -8,7 +8,7 @@
 Sanctionnée sur le 22 juin 2017
 
 ```
-[Édictée par l’article 442 du chapitre 20 des Lois du Canada (2017), non en vigueur.]
+[Édictée par l’article 442 du chapitre 20 des Lois du Canada (2017), en vigueur le 12 mars 2018, voir TR/2018-15.]
 ```
 ----------
 
