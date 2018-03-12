@@ -2526,7 +2526,7 @@ where
 
 <sup><a href='#fn_IndB4A6_hq_20464'>[*]</a></sup>**450** The provisions of this Division comes into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndB4A6_hq_20464'><sup>*</sup></a>: [Note: The provisions of Division 20 not in force.]<br />
+<a name='fn_IndB4A6_hq_20464'><sup>*</sup></a>: [Note: Sections 442 to 449 in force March 12, 2018, *see* SI/2018-15.]<br />
 
 
 
