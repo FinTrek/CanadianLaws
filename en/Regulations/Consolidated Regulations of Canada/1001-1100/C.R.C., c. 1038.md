@@ -200,13 +200,13 @@ Enabling authorities:
 
 ***cutaway chassis*** means an incomplete vehicle that has the back of the cab cut out for the intended installation of a structure that permits access from the driver’s area to the back of the vehicle; (*châssis tronqué*)
 
-***daytime running lamp*** means, for the purposes of section 108 of Schedule IV, a lamp used to improve the visibility of a vehicle when the vehicle is viewed from the front in daylight; (*feu de jour*)
+***daytime running lamp*** means a lamp that produces a steady-burning light signal intended to improve the visibility of a vehicle from the front and the front sides; (*feu de jour*)
 
 ***demountable rim*** means a supporting member for a tire or tire and tube assembly, that does not have a permanently attached centre component; (*jante amovible*)
 
 ***designated seating capacity*** means the designated seating capacity determined in accordance with section 2.3; (*nombre désigné de places assises*)
 
-***designated seating position*** means a location in a vehicle that is likely to be used as a seating position and that has a seating surface width of at least 330 mm; (*place assise désignée*)
+***designated seating position*** means a location in a vehicle that is likely to be used as a seating position and that has a seating surface width of at least 330 mm; (*place assise désignée*)
 
 ***disabled person*** means a person who, for orthopaedic reasons or because of the person’s build or other physical characteristics, requires a vehicle that has been adapted to accommodate their disability; (*personne handicapée*)
 
@@ -286,15 +286,15 @@ Enabling authorities:
 
 ***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
 
-***H-V axis*** means the characteristic axis of the light pattern of a lamp, passing through the centre of the light source, used as the direction of reference (H = 0°, V = 0°) for photometric measurements and for the design of the installation of a lamp on a vehicle; (*axe H-V*)
+***H-V axis***[Repealed, SOR/2018-43, s. 1]
 
 ***hardware***, when used in relation to a seat belt assembly, means any metal or rigid plastic part; (*pièces*)
 
 ***head impact area*** means the area described in subsection 201(1) of Schedule IV; (*zone d’impact de la tête*)
 
-***headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a lamp used to illuminate the road and objects on the road ahead of the vehicle, but does not include a fog lamp or a supplementary driving lamp; (*projecteur*)
+***headlamp*** means a lighting device that produces an upper beam, a lower beam, or both; (*projecteur*)
 
-***headlamp assembly*** means an assembly that consists of one or more headlamps, aiming devices, headlamp retaining components, electrical connectors and mounting brackets, and which may include a housing and one or more bulbs; (*montage de projecteur*)
+***headlamp assembly***[Repealed, SOR/2018-43, s. 1]
 
 ***head restraint*** means a device that limits rearward angular displacement of the occupant’s head relative to their torso line; (*appuie-tête*)
 
@@ -373,6 +373,8 @@ Enabling authorities:
 ***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
 
 ***load-limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant who is restrained by the seat belt assembly during a collision; (*limiteur de charge*)
+
+***lower beam*** means a beam that is intended to illuminate the road and its environs ahead of a vehicle when the vehicle is meeting or closely following another vehicle; (*faisceau de croisement*)
 
 ***lower connector system***[Repealed, SOR/2013-117, s. 1]
 
@@ -487,16 +489,13 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 - **(d)** has a maximum speed of more than 70 km/h, and
 - **(e)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette sans habitacle fermé*)
 
-***optically combined lamps*** means, for the purposes of section 108 of Schedule IV, lamps that have
-- **(a)** two or more separate light sources or a single light source that operates in different ways,
-- **(b)** one lens totally or partly in common, and
-- **(c)** a common lamp body; (*feux combinés optiquement*)
+***optically combined lamps***[Repealed, SOR/2018-43, s. 1]
 
 ***optional item***[Repealed, SOR/2008-258, s. 1]
 
-***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*)
+***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*)
 
-***overall width*** means the nominal design dimension of the widest part of the vehicle with doors and windows closed and wheels in the straight ahead position, exclusive of signal lamps, marker lamps, outside rearview mirrors, flexible fender extensions and mud flaps; (*largeur hors tout*)
+***overall width*** means, except in sections 104 and 108 of Schedule IV, the widest part of a vehicle with the doors and windows closed and the wheels in the straight-ahead position, exclusive of signal lamps, marker lamps, outside rearview mirrors, flexible fender extensions and mud flaps; (*largeur hors tout*)
 
 ***parking brake*** means a mechanism designed to prevent the movement of a stationary vehicle; (*frein de stationnement*)
 
@@ -556,6 +555,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***recreational trailer*** means a trailer designed to provide temporary living accommodation for travel, vacation or recreational use; (*remorque de camping*)
 
+***reflex reflector*** means a device on a vehicle that is intended to indicate the position and dimensions of the vehicle to the driver of an approaching vehicle using light reflected from the lamps of the approaching vehicle; (*cataphote*)
+
 ***replaceable bulb headlamp***[Repealed, SOR/96-366, s. 1]
 
 ***restraint system*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*ensemble de retenue*)
@@ -590,7 +591,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***scuffing***[Repealed, SOR/2007-180, s. 1]
 
-***sealed beam headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a headlamp comprising a reflector, a lens and one or more light sources, forming an integral whole which is indivisibly formed and cannot be dismantled without rendering the unit completely unusable; (*projecteur scellé*)
+***sealed beam headlamp***[Repealed, SOR/2018-43, s. 1]
 
 ***seat anchorage*** means any component that transfers a vehicle seat load to the vehicle structure; (*ancrage du siège*)
 
@@ -713,6 +714,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***unloaded vehicle weight*** means the weight of a vehicle equipped with the containers for the fluids necessary for the operation of the vehicle filled to their maximum capacity, but without cargo or occupants; (*poids du véhicule sans charge*)
 
+***upper beam*** means a beam that is intended primarily for distance illumination ahead of a vehicle when the vehicle is not meeting or closely following another vehicle; (*faisceau de route*)
+
 ***upper torso restraint*** means a portion of a seat belt assembly intended to restrain movement of the chest and shoulder regions; (*ceinture-baudrier*)
 
 ***used vehicle***[Repealed, SOR/91-425, s. 1]
@@ -766,7 +769,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** In these Regulations, if a document that is available in both official languages is incorporated by reference as amended from time to time, an amendment to one language version of that document is not incorporated until the corresponding amendment is made to the other language version.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1; SOR/2017-104, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1; SOR/2017-104, s. 1; SOR/2018-43, s. 1.
 
 
 
@@ -1752,7 +1755,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>108</td>
-<td>Lighting System and Retroreflective Devices</td>
+<td>Lighting Systems and Reflective Devices</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1771,22 +1774,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>108.1</td>
-<td>Alternative Requirements for Headlamps</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td></td>
-<td>X</td>
-<td>X</td>
-<td></td>
-<td></td>
-<td></td>
-<td>X</td>
-<td></td>
-<td></td>
-<td>X</td>
+<td>[Repealed, SOR/2018-43, s. 3]</td>
 </tr>
 <tr>
 <td>110</td>
@@ -2843,7 +2831,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8; SOR/2017-104, s. 2; SOR/2017-231, s. 1.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8; SOR/2017-104, s. 2; SOR/2017-231, s. 1; SOR/2018-43, ss. 2, 3.
 
 
 
@@ -3904,357 +3892,217 @@ or
 
 
 
-### Lighting System and Retroreflective Devices (Standard 108)
+### Lighting Systems and Reflective Devices (Standard 108)
 
 
-#### General
+#### Passenger Cars, Multi-purpose Passenger Vehicles, Trucks, Trailers and Buses
 
 **108** 
 
-- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus, motorcycle and trailer shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment (TSD 108), as amended from time to time.
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, trailer and bus shall conform to Technical Standards Document No. 108, Lamps, Reflective Devices, and Associated Equipment (TSD 108), as amended from time to time.
 
-- **(1.1)** Every three-wheeled vehicle shall be equipped with the lamps, retroreflective devices and associated equipment required by TSD 108 for passenger cars.
+#### Three-wheeled Vehicles
 
-- **(2)** Every restricted-use motorcycle shall be equipped with the reflex reflectors required for motorcycles by S5.1.1 of TSD 108.
 
-- **(3)** Lamps, retroreflective devices and associated equipment required by this section shall be designed, installed and visible in accordance with the requirements of TSD 108, except Figures 11 to 14, 16, 18, 21 and 22.
+- **(2)** Every three-wheeled vehicle shall be equipped with lamps, reflex reflectors and associated components as required under subsection (1) for passenger cars, and
+	- **(a)** if an outermost parking lamp is installed more than 400 mm from the nearest of the two outer edges of the vehicle that are used to determine the overall width of the vehicle, with a white forward-facing reflex reflector that is installed not more than 400 mm from that edge to indicate the width of the vehicle; and
+	- **(b)** if an outermost tail lamp or outermost rear reflex reflector is installed more than 400 mm from the nearest of the two outer edges of the vehicle that are used to determine the overall width of the vehicle, with a red rearward-facing reflex reflector that is installed not more than 400 mm from that edge to indicate the width of the vehicle.
 
-- **(4)** Lamps, retroreflective devices and associated equipment on a vehicle may conform to the applicable SAE standards and recommended practices contained in the 1994 SAE Handbook instead of the applicable SAE standards and recommended practices referred to in this section or TSD 108.
+#### Alternative Lamps for Passenger Cars, Three-wheeled Vehicles, Multi-purpose Passenger Vehicles, Trucks and Buses
 
-- **(5)** All the information regarding every type of bulb and every type of sealed beam lamp used in lighting equipment required by this section shall be
-	- **(a)** specified for the type of bulb or sealed beam lamp in
-		- **(i)** a standard or recommended practice issued by the SAE,
-		- **(ii)** a regulation issued by the ECE, or
-		- **(iii)** a standard issued by the International Electrotechnical Commission (IEC); or
-	- **(b)** provided by the vehicle manufacturer to the Minister, at the Minister’s request.
 
-- **(6)** Wherever the word “filament” appears in this section, TSD 108 or an SAE standard or recommended practice, it may be read as “arc” if the requirement applies to a lamp in which light is produced by a gaseous discharge tube, or as “light-emitting diode junction” if the requirement applies to a lamp in which light is produced by a light-emitting diode.
+- **(3)** Subject to subsection (4), instead of being equipped with headlamps as required under subsection (1) or (2), as the case may be, passenger cars, three-wheeled vehicles, multi-purpose passenger vehicles, trucks and buses may be equipped with adaptive driving beam lamps that conform to SAE Recommended Practice J3069, Adaptive Driving Beam (June 2016), except that the lamps shall not be capable of activation or deactivation by pedal.
 
-- **(7)** For the purposes of this section, the expression motor driven cycle used in TSD 108 means limited-speed motorcycle.
+- **(4)** If the adaptive driving beam is formed by the entirety or a portion of an upper beam or lower beam, or both, the lamps shall also conform to TSD 108, except that despite S10.18, horizontal aim adjustment is allowed.
 
-### Technical Standards Document No. 108
+- **(5)** Instead of being equipped with headlamps as required under subsection (1) or (2), as the case may be, passenger cars, three-wheeled vehicles, multi-purpose passenger vehicles, trucks and buses may be equipped with headlamps that
+	- **(a)** in the case of a passenger car, multi-purpose passenger vehicle, truck or bus, conform to
+		- **(i)** United Nations Regulation No. 8, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11), as amended from time to time,
+		- **(ii)** United Nations Regulation No. 20, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H4 Lamps), as amended from time to time,
+		- **(iii)** United Nations Regulation No. 31, Uniform Provisions Concerning the Approval of Power-Driven Vehicle’s Halogen Sealed-beam Headlamps (HSB) Emitting a European Asymmetrical Passing Beam or a Driving Beam or Both, as amended from time to time,
+		- **(iv)** United Nations Regulation No. 98, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Equipped with Gas-discharge Light Sources, as amended from time to time, or
+		- **(v)** United Nations Regulation No. 112, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing-beam or a Driving-beam or Both and Equipped with Filament Lamps and/or Light-emitting Diode (LED) Modules, as amended from time to time;
+	- **(b)** in the case of a three-wheeled vehicle, conform to
+		- **(i)** the regulation referred to in subparagraph (a)(i), (ii) or (v), or
+		- **(ii)** the regulation referred to in subparagraph (a)(iii) or (iv), as if the vehicle were a passenger car;
+	- **(c)** are installed on the vehicle in such a manner as to produce only a beam pattern for right-hand traffic, and, if the vehicle is fitted with a mechanism that allows the headlamps to produce a beam pattern for left-hand traffic, that mechanism is inoperative; and
+	- **(d)** conform to, as applicable, the physical tests referred to in the following provisions of TSD 108:
+		- **(i)** S10.13.4,
+		- **(ii)** S10.14.7, and
+		- **(iii)** S10.15.7.
 
+- **(6)** Instead of being equipped with headlamps in accordance with subsection (1) or (2), as the case may be, passenger cars, three-wheeled vehicles, multi-purpose passenger vehicles, trucks and buses may be equipped with headlamps that conform to United Nations Regulation No. 123, Uniform Provisions Concerning the Approval of Adaptive Front-lighting Systems (AFS) for Motor Vehicles, as amended from time to time.
 
-#### Required Motor Vehicle Lighting Equipment — S5.1 of TSD 108
+- **(7)** The headlamps referred to in subsection (6) shall
+	- **(a)** be installed
+		- **(i)** in accordance with paragraph 6.22 of United Nations Regulation No. 48, Uniform Provisions Concerning the Approval of Vehicles with Regard to the Installation of Lighting and Light-signalling Devices, as amended from time to time, except that, despite paragraph 6.22.6.2, the automatic levelling device is mandatory in all cases, and
+		- **(ii)** in such a manner as to produce only a beam pattern for right-hand traffic and, if the vehicle is fitted with a mechanism that allows the headlamps to produce a beam pattern for left-hand traffic, that mechanism shall be inoperative; and
+	- **(b)** above a mounting height of 850 mm, have a maximum intensity that does not exceed the intensity requirements under TSD 108 for upper beam headlamps where the mounting height is measured to the centre of the highest mounted lamp.
 
-
-- **(8)** Despite S5.1.1 of TSD 108, lamps and retroreflective devices that are contained within the same physical assembly as a headlamp and conform to the requirements of S7.4(h) of TSD 108 in respect of resistance to corrosion, dust and humidity are not required to be subjected to the corrosion, dust and moisture tests required by any of the SAE standards or recommended practices listed in Tables I and III of TSD 108.
-
-- **(9)** [Reserved]
-
-- **(10)** If reflective material referred to in S5.1.1.4 of TSD 108 is applied to a non-vertical surface, the entrance angle used to demonstrate that the material conforms to the performance standards prescribed by that section shall be the sum of the entrance angle specified in Table 1 or Table 1A of SAE Standard J594f, Reflex Reflectors (January 1977), and the angle, measured on the horizontal centreline of the material, by which the material deviates from the vertical.
-
-- **(11)** S5.1.1.12 and S5.1.1.21 of TSD 108 do not apply.
-
-- **(12)** Despite S5.1.1 and S7.9 of TSD 108, every headlamp assembly on a motorcycle shall conform to S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 and S7.8.5.1(c) of TSD 108.
-
-- **(13)** Every school bus other than a multifunction school activity bus shall be equipped with a flasher that conforms to SAE Recommended Practice J1054, Warning Lamp Alternating Flashers (October 1989), and that activates the signal lamps referred to in S5.1.4 of TSD 108.
-
-#### Location of Required Equipment — S5.3 of TSD 108
-
-
-- **(14)** For the purposes of S5.3 and Table II of TSD 108, the location of rear identification lamps on a van trailer with side-opening rear doors conforms to that section if the lamps are located as close as practicable to the top of the vehicle
-	- **(a)** above or on the rear doors, if the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends at least 25 mm above the rear doors; or
-	- **(b)** above or below or on the rear doors, if the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends less than 25 mm above the rear doors.
-
-- **(14.1)** Despite S5.3 and Table IV of TSD 108, the tail lamps, stop lamps and parking lamps on a motor tricycle shall be installed in accordance with the requirements of S5.3 and Table IV of TSD 108 for tail lamps, stop lamps and parking lamps installed on a passenger car.
-
-- **(15)** [Reserved]
-
-#### Special Wiring Requirements — S5.5 of TSD 108
-
-
-- **(16)** S5.5.1 and S5.5.2 of TSD 108 do not apply to a motorcycle that is fitted with a single beam headlamp.
-
-- **(17)** Subject to subsection (18), the headlamp, tail lamp and licence plate lamp of a motorcycle shall be continuously activated when the engine is operating.
-
-- **(18)** The headlamp, tail lamp and licence plate lamp of a motorcycle may remain off after the engine is started until the motorcycle is set in motion by its own power for the first time.
-
-- **(19)** In addition to being activated in accordance with the requirements of S5.5.7 of TSD 108, the lamps referred to in S5.5.7(a) of TSD 108 shall be activated when
-	- **(a)** the front fog lamps on the vehicle are activated in a steady-burning state other than as daytime running lamps; or
-	- **(b)** the rear fog lamps on the vehicle are activated in a steady-burning state.
-
-- **(20)** The requirements of S5.5.11 of TSD 108 are replaced by the daytime running lamp requirements of subsections (44) to (65).
-
-#### Conspicuity Systems — S5.7 of TSD 108
-
-
-- **(21)** Despite S5.7 of TSD 108, the colour of retroreflective sheeting applied in accordance with S5.7.1.4.1(a) and S5.7.1.4.2 of TSD 108 may be white, yellow, white and yellow or white and red, in accordance with S5.7.1.2 of TSD 108 or section 3.1.3, 3.1.2 or 3.1.1, respectively, of SAE Standard J578, Color Specification (May 1988).
-
-- **(22)** If the retroreflective sheeting referred to in S5.7.1.2 of TSD 108 is applied to a non-vertical surface, the entrance angle used to demonstrate that the sheeting conforms to the photometric requirements prescribed by that section shall be the sum of the entrance angle specified in column 1 of Figure 29 of TSD 108 and the angle, measured at the horizontal centreline of the sheeting, by which the sheeting deviates from the vertical.
-
-- **(23)** The retroreflective sheeting applied to the rear of a trailer in accordance with S5.7.1.4.1(c) of TSD 108 shall be located not more than 760 mm above the road surface and extend to within 450 mm of the extreme outer edges of the trailer.
-
-- **(24)** If a vehicle is equipped with yellow retroreflective sheeting, the sheeting shall conform to the photometric requirements set out in the table to this subsection:
-#### TABLE
-<table>
-<tr>
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-<th>Column 3</th>
-</tr>
-<tr>
-<th>Item</th>
-<th>Grade</th>
-<th>Entrance Angle (in degrees)</th>
-<th>Minimum Coefficient of Retroreflection (cd/lx/m<sup>2</sup>)</th>
-</tr>
-<tr>
-<th>Observation Angle of 0.2°</th>
-<th>Observation Angle of 0.5°</th>
-</tr>
-<tr>
-<td>1</td>
-<td>DOT-C2</td>
-<td>-4</td>
-<td>188</td>
-<td>49</td>
-</tr>
-<tr>
-<td>2</td>
-<td>DOT-C2</td>
-<td>30</td>
-<td>188</td>
-<td>49</td>
-</tr>
-<tr>
-<td>3</td>
-<td>DOT-C2</td>
-<td>45</td>
-<td>45</td>
-<td>11</td>
-</tr>
-<tr>
-<td>4</td>
-<td>DOT-C3</td>
-<td>-4</td>
-<td>124</td>
-<td>32</td>
-</tr>
-<tr>
-<td>5</td>
-<td>DOT-C3</td>
-<td>30</td>
-<td>124</td>
-<td>32</td>
-</tr>
-<tr>
-<td>6</td>
-<td>DOT-C3</td>
-<td>45</td>
-<td>30</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7</td>
-<td>DOT-C4</td>
-<td>-4</td>
-<td>94</td>
-<td>25</td>
-</tr>
-<tr>
-<td>8</td>
-<td>DOT-C4</td>
-<td>30</td>
-<td>94</td>
-<td>25</td>
-</tr>
-<tr>
-<td>9</td>
-<td>DOT-C4</td>
-<td>45</td>
-<td>23</td>
-<td>6</td>
-</tr>
-</table>
-
-
-#### Headlighting Requirements — S7 of TSD 108
-
-
-- **(25)** For the purposes of these Regulations, the DOT symbol marked on the lens of a headlamp or of a beam contributor in accordance with S7.2(a) of TSD 108 indicates that the headlamp or beam contributor conforms to TSD 108.
-
-- **(26)** Despite S5.1.1 of TSD 108, S7.3.7(a) and S7.3.8(a) of TSD 108 do not apply to the headlamps on a passenger car, multi-purpose passenger vehicle, truck, bus or three-wheeled vehicle.
-
-- **(27)** Despite S7.3.7(e)(8) of TSD 108, the figures to which a deflectometer referred to in section 4.5 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986), shall be designed to conform are those specified in a standard or recommended practice issued by the SAE or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
-
-- **(28)** Despite S7.3.8(c)(2) of TSD 108, the figures to which the special adapter and the deflectometer shall be designed to conform are those specified in a standard or recommended practice issued by the SAE or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
-
-- **(29)** The aiming mechanism of every headlamp assembly and front fog lamp assembly shall conform to section 5.13.5 of SAE Recommended Practice J1383, Performance Requirements for Motor Vehicle Headlamps (June 1990).
-
-- **(30)** Headlamp assemblies and front fog lamp assemblies incorporating retaining rings shall conform to section 5.23.2 of SAE Recommended Practice J1383, Performance Requirements for Motor Vehicle Headlamps (June 1990).
-
-- **(31)** In addition to conforming to the requirements of S7.3 of TSD 108, sealed beam headlamps with plastic lenses or reflectors shall conform to S7.4(g) and (h) of TSD 108.
-
-- **(32)** Despite S7.4(a)(3) of TSD 108, a motorcycle headlamp system is not required to be equipped with the Vehicle Headlamp Aiming Device (VHAD) specified in S7.8.5.2 of TSD 108.
-
-- **(33)** Despite S7.5(g) of TSD 108, if the only replaceable light source in a headlamp is Type HB1, the lens of the headlamp shall bear permanent marking that states the HB Type.
-
-- **(34) to (39)** [Reserved]
-
-- **(40)** Every front fog lamp assembly or auxiliary front lamp assembly that may be switched on simultaneously with the lower beam headlamps on a passenger car, multi-purpose passenger vehicle, truck, bus or three-wheeled vehicle shall
-	- **(a)** in the case of a lamp assembly that has a mechanism that allows adjustment of the vertical and horizontal aim, conform to S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 and S7.8.5.1(c) of TSD 108; and
-	- **(b)** in the case of a lamp assembly that has a mechanism that only allows adjustment of the vertical aim, conform to
-		- **(i)** S7.8.2 of TSD 108, except that no horizontal aim mechanism need be provided, and
-		- **(ii)** S7.8.2.2, S7.8.3 and S7.8.5.1(c) of TSD 108.
-
-- **(41)** For the purpose of demonstrating the compliance of a headlamp assembly with the torque deflection test described in S7.8.5.1(a) of TSD 108, the downward torque of 2.25 N•m (20 lb.-in.) shall be measured at the aiming reference plane, as defined in S4 of TSD 108.
-
-- **(42)** The information contained in a label referred to in S7.8.5.2(b) of TSD 108 shall be in both official languages.
-
-- **(43)** The operator’s manual referred to in S7.8.5.2(b) of TSD 108 shall be published by the manufacturer or importer of the vehicle in both official languages.
-
-- **(43.1)** Despite S7.9.6.2 and Table IV of TSD 108, if a headlamp system installed on a motor tricycle consists of two headlamps that are horizontally disposed about the vertical centreline, it may be installed in accordance with the requirements of S.5.3 and Table IV of TSD 108 for headlamp systems installed on passenger cars.
-
-### Daytime Running Lamps
-
-
-#### General
-
-
-- **(44)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle shall be equipped with two daytime running lamps or, if the daytime running lamps are optically combined with the upper beams of the headlamps, with two or four daytime running lamps.
-
-- **(45)** A daytime running lamp shall be white, yellow or white to yellow, in accordance with sections 3.1.3, 3.1.2 or 3.1.3.1, respectively, of SAE Standard J578, Color Specification (May 1988).
-
-- **(46)** A daytime running lamp that is not optically combined with a headlamp shall conform to SAE Recommended Practice J575, Tests for Motor Vehicle Lighting Devices and Components (December 1988).
-
-- **(47)** Subject to subsection (47.1), a daytime running lamp that is not optically combined with another lamp or is optically combined with a lamp, other than a front fog lamp, that is not required by this section shall be designed to conform to SAE Recommended Practice J2087, Daytime Running Lamps for Use on Motor Vehicles (August 1991), including the photometric values set out in Table 2 of that Recommended Practice, except that
-	- **(a)** the maximum luminous intensity at any test point shall be 3 000 cd;
-	- **(b)** the lamp is not required to conform to section 6.2 of that Recommended Practice; and
-	- **(c)** the effective projected luminous lens area of the lamp may be less than 40 cm<sup>2</sup>.
-
-- **(47.1)** A daytime running lamp that is not optically combined with another lamp may conform to SAE Standard J583, Front Fog Lamps (June 1993), or to paragraphs 3, 4.2, 4.3, 5 and 6 of ECE Regulation No. 19, Uniform Provisions Concerning the Approval of Motor Vehicle Front Fog Lamps, Revision 3 (March 2, 1993).
-
-- **(47.2)** A daytime running lamp that is optically combined with a front turn signal lamp or a parking lamp shall conform to subsection (47).
-
-- **(48)** A daytime running lamp that is optically combined with a headlamp shall
-	- **(a)** if combined with the lower beam of a headlamp that is designed to conform to the photometric requirements of this section, operate at
-		- **(i)** normal operating voltage,
-		- **(ii)** in the case of a DC (direct current) system, not less than 75% and not more than 92% of the normal operating voltage, or
-		- **(iii)** in the case of an AC (alternating current) system or a modulated voltage system, the equivalent root mean square of not less than 75% and not more than 92% of the normal operating voltage;
-	- **(b)** if combined with the lower beam of a headlamp that is designed to conform to the photometric requirements of section 108.1, operate at
-		- **(i)** normal operating voltage,
-		- **(ii)** in the case of a DC (direct current) system, not less than 86% and not more than 92% of the normal operating voltage, or
-		- **(iii)** in the case of an AC (alternating current) system or a modulated voltage system, the equivalent root mean square of not less than 86% and not more than 92% of the normal operating voltage; and
-	- **(c)** if combined with the upper beam of a headlamp, be designed to provide a luminous intensity of not less than 2 000 cd and not more than 7 000 cd at test point H-V.
-
-- **(49)** For the purpose of determining if a daytime running lamp conforms to subsection (48), the daytime running lamp shall be tested in accordance with S11 of TSD 108.
-
-- **(50)** A daytime running lamp that is optically combined with a headlamp or headlamps in which two filaments operate together to provide the daytime running lamp function shall conform to the photometric requirements of paragraph (48)(c) when
-	- **(a)** the daytime running lamp is provided by
-		- **(i)** an upper beam that is provided by two filaments in the headlamp,
-		- **(ii)** an upper beam and a lower beam of the headlamp, or
-		- **(iii)** an upper beam of the headlamp, and a lower beam or upper beam of another headlamp; and
-	- **(b)** the luminous intensities at the test point H-V of each headlamp, tested in accordance with S10 of TSD 108, are added together.
-
-- **(51)** If a daytime running lamp is optically combined with a headlamp that is activated in its concealed position, the daytime running lamp shall conform to subsection (47), (48) or (50).
-
-- **(52)** A daytime running lamp may be optically combined with a front fog lamp that conforms to SAE Standard J583, Front Fog Lamps (June 1993), or to paragraphs 3, 4.2, 4.3, 5 and 6 of ECE Regulation No. 19, Uniform Provisions Concerning the Approval of Motor Vehicle Front Fog Lamps, Revision 3 (March 2, 1993).
-
-- **(53)** Despite subsections (45) to (52), a vehicle may be equipped with a daytime running light system that conforms to Canadian Standards Association Standard CAN/CSA-D603-88, Daytime Running Light Systems (April 1988), other than a Type 4 and Type 5 system (reduced voltage upper beam headlamps), as indicated in Table 1 of the Standard, if
-	- **(a)** the daytime running light system is installed in accordance with the instructions referred to in section 8.2 of the Standard; and
-	- **(b)** if the vehicle is equipped with gaseous-discharge lower beam headlamps, only a Type 1 system (normal voltage lower beam headlamp) or a Type 6 or Type 7 system (separate lamps other than headlamps), as indicated in Table 1 of the Standard, is used.
-
-#### Switching
-
-
-- **(54)** Subject to subsections (55) and (56), daytime running lamps shall be on continuously when the engine is operating and the master lighting switch is not in the headlamps on position.
-
-- **(55)** Daytime running lamps may switch off
-	- **(a)** while the automatic transmission control is in the park or neutral position;
-	- **(b)** while the parking brake is applied; or
-	- **(c)** after the engine is started but before the vehicle is set in motion for the first time.
-
-- **(56)** A daytime running lamp that is optically combined with a turn signal lamp shall switch off while the turn signal lamp is switched on as a turn signal or as a hazard warning signal.
-
-- **(57)** Daytime running lamps shall switch off
-	- **(a)** once the master lighting switch is moved to the headlamps on position; and
-	- **(b)** if the lamps are on a vehicle equipped with concealable headlamps and the master lighting switch is moved to the headlamps on position, once the headlamps attain the fully open position.
-
-- **(58)** If the lower beams of the headlamps operating at normal operating voltage are used as daytime running lamps,
-	- **(a)** it shall not be possible to activate the upper beams of the headlamps except for signalling purposes;
-	- **(b)** if there is a tell-tale that is automatically activated, and visible to the driver, in dark ambient light conditions to indicate that the tail lamps, licence plate lamps, side marker lamps and parking lamps are switched off, those lamps shall not come on automatically; and
-	- **(c)** if there is no tell-tale that is automatically activated, and visible to the driver,the lamps referred to in paragraph (b)
-		- **(i)** shall come on automatically and remain on in all ambient light conditions, or
-		- **(ii)** shall come on automatically in dark ambient light conditions.
-
-- **(59)** Despite S5.5.1 of TSD 108, the lower beams and upper beams of the headlamps may be activated simultaneously when the headlamps are in use as daytime running lamps.
-
-- **(60)** Despite S5.5.10(d) of TSD 108, daytime running lamps may be wired to flash for signalling purposes.
-
-#### Visibility
-
-
-- **(61)** Daytime running lamps that are not optically combined with another lamp required by this section shall be located at the same height, as far apart as practicable and not less than 380 mm and not more than 2 110 mm above the road surface, measured from the H-V axis of the lamp with the vehicle at curb mass.
-
-- **(62)** A daytime running lamp shall be visible from any point contained within the solid angle bounded by vertical planes 20° to the left and right of, and horizontal planes 10° above and below, the H-V axis of the lamp.
-
-- **(63)** If the distance, measured on a vertical transverse plane, from the H-V axis of a front turn signal lamp to the exposed edge of the lens of a daytime running lamp that is not optically combined with the turn signal lamp is less than 100 mm,
-	- **(a)** the turn signal lamp shall conform to the photometric requirements of Table 3 of SAE Standard J588, Turn Signal Lamps for Use on Motor Vehicles Less Than 2032 mm in Overall Width (November 1984), using a luminous intensity multiplier of 2.5;
-	- **(b)** the luminous intensity of the daytime running lamp shall be not more than 2 600 cd at any point in the beam; or
-	- **(c)** the daytime running lamp shall switch off while the turn signal lamp is flashing.
-
-- **(64)** The inner surface of a transparent component, through which light emitted by a daytime running lamp that conforms to subsection (51) passes, shall be accessible for cleaning without the use of any tool designed specifically for vehicles.
-
-- **(65)** A daytime running lamp shall conform to the requirements of S5.1.3 and S5.3 of TSD 108.
-
-- **(66)** [Repealed, SOR/2014-307, s. 2]
-> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2; SOR/2014-307, s. 2; SOR/2015-23, s. 3..
-
-
-
-
-### Alternative Requirements for Headlamps
-> [SOR/96-366, s. 6]
-
-
-**108.1** 
-
-- **(1)** As an alternative to the headlamps required by section 108 of this Schedule, passenger cars, multi-purpose passenger vehicles, buses and trucks may be equipped with headlamps that emit white light and that
-	- **(a)** comply with
-		- **(i)** ECE Regulation No. 8, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11), as amended from time to time,
-		- **(ii)** ECE Regulation No. 20, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H4 Lamps), as amended from time to time,
-		- **(iii)** ECE Regulation No. 31, Uniform Provisions Concerning the Approval of Halogen Sealed-beam Unit (HSB Unit) Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both, as amended from time to time,
-		- **(iv)** ECE Regulation No. 98, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Equipped with Gas-discharge Light Sources, as amended from time to time, or
-		- **(v)** ECE Regulation No. 112, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps, as amended from time to time;
-	- **(b)** despite the requirements of the ECE Regulations referred to in this section, are set to be used on vehicles designed to travel on the right-hand side of the road;
-	- **(c)** provide two upper beams and two lower beams;
-	- **(d)** conform to
-		- **(i)** paragraphs S5.1.2, S5.5.9, S7.4(g) and (h), S7.8.2, S7.8.2.1(a) and (b), S7.8.2.2, S7.8.3, S7.8.4 and S7.8.5.1(c) of TSD 108, and
-		- **(ii)** subsections 108(29) and, if applicable, (30);
-	- **(e)** comply with sections 5.1.2, 5.1.4 and, if applicable, 5.1.6 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986);
-	- **(f)** are fitted with bulbs that conform to
-		- **(i)** a document referred to in paragraph 108(5)(a) or the information provided pursuant to paragraph 108(5)(b), and
-		- **(ii)** paragraphs S7.7 of TSD 108, except that the “DOT” symbol referred to in paragraphs S7.7(a) and (e)(7) is not required; and
-	- **(g)** when activated in a steady-burning state, do not have any styling ornament or other feature, such as a translucent cover or grill, in front of the lens.
-
-- **(2)** As an alternative to the headlamps required by section 108, motorcycles may be equipped with headlamps that emit white light and that
-	- **(a)** provide one upper beam and one lower beam, or two upper beams and two lower beams;
-	- **(b)** comply with
-		- **(i)** subparagraphs (1)(a)(i) to (iii) and (v) and paragraphs (1)(b) and (d) to (f),
-		- **(ii)** ECE Regulation No. 57, Uniform Provisions Concerning the Approval of Headlamps for Motor Cycles and Vehicles Treated as Such, as amended from time to time,
-		- **(iii)** ECE Regulation No. 72, Uniform Provisions Concerning the Approval of Motor Cycle Headlamps Emitting an Asymmetrical Passing Beam and a Driving Beam and Equipped with Halogen Lamps (HS1 Lamps), as amended from time to time, or
-		- **(iv)** ECE Regulation No. 113, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting a Symmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps, as amended from time to time; and
-	- **(c)** conform to subsections 108(12), (29) and, if applicable, (30).
-
-- **(3)** As an alternative to the requirements of the ECE Regulations referred to in this section, headlamps fitted on a vehicle may emit white light as specified in SAE Standard J578, Color Specification (May 1988).
-
-- **(4)** For the purposes of this section, the following requirements of the ECE Regulations referred to in subsections (1) and (2) do not apply:
-	- **(a)** any requirements respecting the approval process;
-	- **(b)** any requirements respecting the marking of approved headlamps; and
+- **(8)** For the purposes of subsections (5) and (6), the following requirements of the United Nations Regulations referred to in those subsections do not apply:
+	- **(a)** any requirements respecting the type-approval process;
+	- **(b)** any requirements respecting the marking of type-approved headlamps; and
 	- **(c)** any requirements respecting
-		- **(i)** the conformity of headlamp production to the type approved,
+		- **(i)** the conformity of production of type-approved headlamps,
 		- **(ii)** the penalties for non-conformity of production, and
 		- **(iii)** the modification of a headlamp type and extension of approval.
 
-- **(5)** The total intensity of the upper beams of the headlamps of a vehicle equipped pursuant to this section shall not exceed 225,000 cd at any point in the beam pattern when measured at 12 V.
+- **(9)** For the purposes of subsection (6) and subparagraph (7)(a)(i), United Nations Regulations Nos. 48 and 123 are considered to be applicable to three-wheeled vehicles, despite any provision to the contrary in those Regulations.
 
-- **(6)** Except for headlamps with plastic lenses, wipers may be fitted to the headlamps of a vehicle equipped pursuant to this section, if the headlamps conform to all of the applicable photometric requirements when the wipers are stopped in any position in front of the lenses.
+#### Motorcycles Other than Motor Tricycles
 
-- **(7)** [Repealed, SOR/91-692, s. 3]
-> SOR/79-305, s. 2; SOR/79-940, s. 7; SOR/84-812, s. 4; SOR/91-692, s. 3; SOR/94-670, s. 2(F); SOR/96-366, s. 7; SOR/99-112, s. 2; SOR/99-426, s. 2; SOR/2001-60, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 11; SOR/2003-294, s. 1; SOR/2006-94, s. 4(E)..
 
+- **(10)** Every motorcycle other than a motor tricycle shall conform to TSD 108, except that
+	- **(a)** S6.1.3.5.1 (Vertical headlamp arrangement) does not apply; and
+	- **(b)** despite S10.18, S10.18.1 applies to motorcycles except that “both vertical and horizontal aim” shall be read as “the vertical aim”.
+
+#### Motor Tricycles
+
+
+- **(11)** Every motor tricycle shall conform to TSD 108, except that
+	- **(a)** the following provisions of TSD 108 do not apply:
+		- **(i)** S6.1.3.5.1 (Vertical headlamp arrangement), and
+		- **(ii)** S10.17.1.2.2 (distance between headlamps);
+	- **(b)** despite S10.18, S10.18.1 applies to motor tricycles except that “both vertical and horizontal aim” shall be read as “the vertical aim”;
+	- **(c)** despite S6.1.1 and S6.1.3.1 and Table I-c, a motor tricycle shall be equipped with tail lamps, stop lamps and reflex reflectors in the number and at the mounting locations specified in Table I-a for passenger cars; and
+	- **(d)** instead of being equipped with headlamps as specified in S6.1 and Table I-c, a motor tricycle may be equipped with lower beam headlamps and upper beam headlamps as specified in S6.1 and Table I-a for passenger cars.
+
+- **(12)** In addition to being equipped with reflex reflectors and lamps as specified in S6.1 and Table I-c of TSD 108, a motor tricycle shall be
+	- **(a)** equipped with parking lamps as specified in S6.1 and Table I-a of TSD 108 for passenger cars;
+	- **(b)** if an outermost parking lamp is installed more than 400 mm from the nearest of the two outer edges of the motor tricycle that are used to determine the overall width of the motor tricycle, equipped with a white forward-facing reflex reflector that is installed not more than 400 mm from that edge to indicate the width of the motor tricycle; and
+	- **(c)** if an outermost tail lamp or outermost rear reflex reflector is installed more than 400 mm from the nearest of the two outer edges of the motor tricycle that are used to determine the overall width of the motor tricycle, equipped with a red rearward-facing reflex reflector that is installed not more than 400 mm from that edge to indicate the width of the motor tricycle.
+
+#### Alternative Headlamps for Motorcycles
+
+
+- **(13)** Instead of being equipped with headlamps as required under subsection (10) or (11), as the case may be, motorcycles may be equipped with headlamps that
+	- **(a)** conform to
+		- **(i)** subsection (5),
+		- **(ii)** United Nations Regulation No. 57, Uniform Provisions Concerning the Approval of Headlamps for Motor Cycles and Vehicles Treated as Such, as amended from time to time,
+		- **(iii)** United Nations Regulation No. 72, Uniform Provisions Concerning the Approval of Motor Cycle Headlamps Emitting an Asymmetrical Passing Beam and a Driving Beam and Equipped with Halogen Lamps (HS1 Lamps), as amended from time to time, or
+		- **(iv)** United Nations Regulation No. 113, Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting a Symmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament, Gas-discharge Light Sources or LED Modules, as amended from time to time;
+	- **(b)** are installed in accordance with the requirements of paragraphs 5.7, 5.11, 5.13, 6.1 and 6.2 of United Nations Regulation No. 53, Uniform Provisions Concerning the Approval of Category L3 Vehicles with Regard to the Installation of Lighting and Light-Signalling Devices, as amended from time to time; and
+	- **(c)** in the case of headlamps conforming to a Regulation referred to in subparagraph (a)(ii), (iii) or (iv), conform to
+		- **(i)** the performance requirements of the vibration test, moisture test, dust test and corrosion test described in S14.5 of TSD 108, and
+		- **(ii)** in the case of headlamps that do not incorporate a glass lens, the performance requirements of the plastic optical materials tests described in S14.4 of TSD 108.
+
+- **(14)** For the purposes of subsection (13), the following requirements of the United Nations Regulations referred to in that subsection do not apply:
+	- **(a)** any requirements respecting the type-approval process;
+	- **(b)** any requirements respecting the marking of type-approved headlamps; and
+	- **(c)** any requirements respecting
+		- **(i)** the conformity of production of type-approved headlamps,
+		- **(ii)** the penalties for non-conformity of production, and
+		- **(iii)** the modification of a headlamp type and extension of approval.
+
+#### Restricted-use Motorcycles
+
+
+- **(15)** Every restricted-use motorcycle shall be equipped with reflex reflectors as required under subsection (10) for motorcycles other than motor tricycles.
+
+#### Additional Requirements for the Activation of Certain Lamps
+
+
+- **(16)** In addition to being activated as specified in Table I-a of TSD 108, parking lamps, tail lamps, licence plate lamps and side marker lamps on a passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, truck or bus shall be activated
+	- **(a)** while the front fog lamps on the vehicle are activated in a steady-burning state other than as daytime running lamps; or
+	- **(b)** while the rear fog lamps on the vehicle are activated in a steady-burning state.
+
+- **(17)** Except when it is used to give intermittent luminous warnings at short intervals, the upper beam may be activated only when the master light switch is in the “headlamps on” position or in the “AUTO” (automatic) position and the conditions for automatic activation of the lower beam exist.
+
+- **(18)** Despite S6.1.5 and Table I-a of TSD 108, the tail lamps may be activated without the concurrent activation of the headlamps or parking lamps, if the daytime running lamps are activated.
+
+- **(19)** Beginning on September 1, 2021, if the fuel level indicator, oil pressure indicator, engine coolant temperature indicator, battery charging indicator, transmission control position indicator or speedometer indicator or their identifications are illuminated when the daytime running lights of a vehicle are in use,
+	- **(a)** the lower beam headlamps shall
+		- **(i)** automatically activate in a steady-burning state in less than two seconds when the ambient light outside the vehicle is less than 1,000 lux while the transmission control is in the forward or reverse position and the vehicle is in motion, unless the lower beam headlamps were deactivated manually after their automatic activation following the most recent disarming of the immobilization system in accordance with section 114, and
+		- **(ii)** automatically deactivate under the conditions set out by the manufacturer; or
+	- **(b)** the tail lamps shall be alight.
+
+- **(20)** For the purposes of paragraph (19)(a), the ambient light outside a vehicle shall be measured on a horizontal surface, with a cosine corrected sensor at the same height as the mounting position of the ambient light sensor on the vehicle.
+
+#### Fog Lamps and Forward Auxiliary Road Illumination Lamps — Aiming Adjustment Mechanism
+
+
+- **(21)** Every passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, motor tricycle, truck and bus equipped with a front fog lamp or forward auxiliary road illumination lamp shall be equipped with a mechanism for that lamp that
+	- **(a)** allows aim adjustment of the vertical aim by one person to maintain the beam pattern of the lamp within the full range of vertical pitch of the vehicle, with the use of ordinarily available tools; and
+	- **(b)** allows the adjustment referred to in paragraph (a) after being subjected to the corrosion test procedure set out in S14.6.3.1 of TSD 108.
+
+#### Information
+
+
+- **(22)** There shall be provided, in the owner’s manual, with every passenger car, multi-purpose passenger vehicle, truck and bus, the information required by TSD 108 in relation to the safe operation of the lighting systems and reflective devices of the vehicle.
+
+- **(23)** There shall be provided, in the owner’s manual, with every three-wheeled vehicle, information relating to the safe operation of the lighting systems and reflective devices of the vehicle that is the same as the information required by TSD 108 in relation to passenger cars.
+
+- **(24)** Except for the words “sealed beam” referred to in S6.5.3.3.1 of TSD 108 and the word “motorcycle” referred to in S10.17.2 of TSD 108, any information required under this section to be marked on a passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, motorcycle, restricted-use motorcycle, trailer, truck or bus shall be in English and French.
+
+#### Daytime Running Lamps
+
+
+- **(25)** Subsections (26) to (30) apply to passenger cars, multi-purpose passenger vehicles, trucks, buses and three-wheeled vehicles.
+
+- **(26)** Every vehicle shall be equipped with daytime running lamps
+	- **(a)** in accordance with S6.1.3.1 of TSD 108, except that the reference to “applicable photometric requirements” in that provision is a reference to the applicable photometric requirements set out in SAE Standard J2087, Daytime Running Light (August 2017) (SAE Standard J2087);
+	- **(b)** in accordance with S6.2 of TSD 108, except that the references in that provision to “lighting equipment required by this TSD” and to “required lamp” include a reference to “daytime running lamp”; and
+	- **(c)** that conform to
+		- **(i)** sections 5, 6 and 7.3.1 of SAE Standard J2087, except that despite section 6.1.2, if a daytime running lamp is optically combined with a white front position lamp that has a projected luminous lens area of 200 cm<sup>2</sup> or less, it may conform to the light intensity distribution values shown in figure 1 when tested in accordance with section 5.1, or
+		- **(ii)** until September 1, 2020, SAE Standard J583, Front Fog Lamps (September 2016) (SAE Standard J583).
+
+- **(27)** Despite section 6.4 of SAE Standard J2087, the light from a daytime running lamp shall be
+	- **(a)** if the lamp is optically combined with a parking lamp, white or yellow;
+	- **(b)** if produced by a turn signal lamp, yellow; and
+	- **(c)** in all other cases, white.
+
+#### Switching — Daytime Running Lamps
+
+
+- **(28)** Subject to subsections (29) and (30), the daytime running lamps on a vehicle shall be activated not later than when the vehicle is set in motion under its own power and shall remain activated until the motors or engines used for the vehicle’s propulsion are switched off and as a result the vehicle enters a mode of operation other than “accessory” or “on”.
+
+- **(29)** The daytime running lamps on a vehicle shall
+	- **(a)** be deactivated while the lower beam headlamps are activated to provide road illumination;
+	- **(b)** beginning on September 1, 2020, be deactivated while the front fog lamps provide road illumination after being activated by the driver; and
+	- **(c)** if they also serve as front turn signal lamps,
+		- **(i)** be deactivated on the side of the vehicle where a turn signal is activated, while that turn signal is activated, and
+		- **(ii)** be deactivated on both sides of the vehicle while the hazard warning signal is activated.
+
+- **(30)** The daytime running lamps on a vehicle may be
+	- **(a)** deactivated while the parking brake is applied or the transmission control is in the park or neutral position and the vehicle is not in motion;
+	- **(b)** deactivated while the headlamps are being flashed for signalling purposes;
+	- **(c)** switched off manually, in which case they shall reactivate automatically, at the discretion of the manufacturer, either not later than when the vehicle travels more than 100 m or when the speed of the vehicle exceeds 10 km/h; and
+	- **(d)** wired to flash for signalling purposes.
+
+#### Motorcycle Running Lamps
+
+
+- **(31)** The following lamps on a motorcycle shall be activated not later than when the motorcycle is set in motion under its own power and shall remain activated until the motorcycle’s main electrical system is turned off or until the motorcycle is put in the “accessory” mode of operation:
+	- **(a)** every tail lamp;
+	- **(b)** every licence plate lamp; and
+	- **(c)** every headlamp or, as an alternative, one or two lamps that conform to the requirements for dedicated daytime running lamps set out in SAE Standard J2087.
+
+#### TSD 108
+
+
+- **(32)** For the purposes of this section, “equipment” in TSD 108 shall be read as “component”.
+
+#### United Nations Regulations
+
+
+- **(33)** For the purposes of this section,
+	- **(a)** “dipped beam” and “passing beam” in United Nations Regulations Nos. 8, 20, 31, 48, 53, 57, 72, 98, 112, 113 and 123 shall be read as “lower beam” or as “lower beam headlamp”, as the context requires; and
+	- **(b)** “driving beam” and “main beam” in United Nations Regulations Nos. 8, 20, 31, 48, 53, 57, 72, 98, 112, 113 and 123 shall be read as “upper beam” or as “upper beam headlamp”, as the context requires.
+
+#### SAE
+
+
+- **(34)** For the purposes of section 7.3.1 of SAE Standard J2087 and section 5.2.5.1 of SAE Standard J583, “should” shall be interpreted as expressing an obligation.
+
+### Transitional Provision
+
+
+- **(35)** Despite subsections (1) to (34), a vehicle may, until August 31, 2019, conform to the requirements of this section that are applicable to a lighting system or reflective device, as they read immediately before the day on which this subsection comes into force.
+> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2; SOR/2014-307, s. 2; SOR/2015-23, s. 3; SOR/2018-43, s. 4..
+
+
+
+**108.1** [Repealed, SOR/2018-43, s. 4]
 
 
 **109** [Repealed, SOR/79-339, s. 3]
@@ -7110,7 +6958,7 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 ***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point:  
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
 - **(a)** tail lamps;
 - **(b)** rubber bumpers;
 - **(c)** hinges and latches; and
