@@ -82,7 +82,7 @@ Autorités habilitantes :
 - **e)** un système d’approvisionnement en eau potable qui comprend un robinet et un évier;
 - **f)** un système d’alimentation électrique de 110 à 125 V ou un circuit d’alimentation en gaz de pétrole liquéfié; (*motor home*)
 
-***axe H-V*** L’axe caractérisant la distribution de la lumière d’une lampe, passant par le centre de la source lumineuse et utilisé comme direction repère (H = 0°, V = 0°) dans les mesures photométriques et pour la conception de l’installation d’un feu sur un véhicule; (*H-V axis*)
+***axe H-V***[Abrogée, DORS/2018-43, art. 1]
 
 ***barrière fixe pour essais de collision*** Dispositif qui, à la fois :
 - **a)** est composé :
@@ -124,6 +124,8 @@ Autorités habilitantes :
 - **b)** du volume de carburant qui peut être pompé dans le réservoir par le tuyau de remplissage lorsque le véhicule est sur un terrain plat et que le volume de carburant visé à l’alinéa a) est déjà dans le réservoir.
 
 Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carburant qui peut être pompé dans le goulot de remplissage ou dans l’espace au-dessus du goulot de remplissage; (*vehicle fuel tank capacity*)
+
+***cataphote*** Dispositif d’un véhicule qui est destiné à indiquer la position et les dimensions de celui-ci au conducteur d’un véhicule qui approche au moyen de la lumière réfléchie des feux du véhicule qui approche. (*reflex reflector*)
 
 ***catégorie***[Abrogée, DORS/2007-180, art. 1]
 
@@ -302,18 +304,19 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***fabricant intermédiaire*** Entreprise, autre que le fabricant de véhicules incomplets et le fabricant à l’étape finale, qui effectue des opérations de fabrication sur un véhicule incomplet; (*intermediate manufacturer*)
 
+***faisceau de croisement*** Faisceau destiné à éclairer, à l’avant d’un véhicule, la route et ses environs lorsque celui-ci croise ou suit de près un autre véhicule. (*lower beam*)
+
+***faisceau de route*** Faisceau destiné principalement à éclairer à distance, à l’avant d’un véhicule, lorsque celui-ci ne croise pas ou ne suit pas de près un autre véhicule. (*upper beam*)
+
 ***fenêtre amovible*** désigne une fenêtre qui peut rapidement et complètement être enlevée d’un véhicule, sans l’aide d’outils, et comprend, dans le cas d’un autobus dont le PNBV dépasse 4 535,9 kg (10 000 livres), une fenêtre basculante ou une fenêtre aménagée dans une issue de secours qui peut manuellement être sortie de son cadre sans l’aide d’outils, même si elle demeure fixée d’un côté au véhicule par une charnière; (*readily removable window*)
 
 ***fenêtre basculante*** désigne une fenêtre de véhicule conçue pour s’ouvrir vers l’extérieur afin d’assurer une issue de secours; (*push-out window*)
 
 ***feu à compartiments multiples***[Abrogée, DORS/96-366, art. 1]
 
-***feu de jour*** désigne, pour l’application de l’article 108 de l’annexe IV, un feu servant à améliorer la visibilité d’un véhicule lorsque celui-ci est vu de l’avant à la lumière du jour; (*daytime running lamp*)
+***feu de jour*** Dispositif d’éclairage produisant un signal lumineux continu destiné à améliorer la visibilité d’un véhicule à l’avant et sur les côtés à l’avant. (*daytime running lamp*)
 
-***feux combinés optiquement*** désigne, pour l’application de l’article 108 de l’annexe IV, des feux qui ont :
-- **a)** deux ou plusieurs sources lumineuses distinctes ou une même source lumineuse qui fonctionne de plusieurs façons,
-- **b)** une lentille commune ou partagée, et
-- **c)** un même boîtier; (*optically combined lamps*)
+***feux combinés optiquement***[Abrogée, DORS/2018-43, art. 1]
 
 ***fourgon à accès en position debout*** Camion de type fourgon dans lequel une personne d’une taille de 1 700 mm peut entrer en position debout dans l’habitacle par une porte avant; (*walk-in van*)
 
@@ -355,7 +358,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***largeur de la surface de siège*** Largeur maximale de la surface de siège, mesurée dans une zone partant d’un plan vertical transversal situé à 150 mm derrière la surface avant du bord de cette surface de siège jusqu’à un plan vertical transversal situé à 250 mm derrière cette surface avant du bord, mesurée horizontalement et longitudinalement; (*seating surface width*)
 
-***largeur hors tout*** désigne la dimension nominale de la partie la plus large d’un véhicule dont les portes et les glaces sont fermées et les roues orientées parallèlement à son axe longitudinal, indépendamment des feux clignotants, des feux de position latéraux, des rétroviseurs extérieurs, des prolongements d’aile flexibles et des pare-boue; (*overall width*)
+***largeur hors tout*** Sauf aux articles 104 et 108 de l’annexe IV, partie la plus large d’un véhicule dont les portes et les fenêtres sont fermées et dont les roues sont en ligne droite, à l’exclusion des feux de signalisation, des feux de position, des rétroviseurs extérieurs, des prolongements d’aile flexibles et des bavettes garde-boue. (*overall width*)
 
 ***ligne*** désigne le nom qu’un fabricant donne à la famille de véhicules d’une marque dont la carrosserie, le châssis, le type de cabine ou d’autres caractéristiques de construction se ressemblent dans une certaine mesure; (*line*)
 
@@ -405,7 +408,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***modèle*** désigne le nom qu’un fabricant donne à une famille de véhicules de même genre, marque, ligne, série et type de carrosserie; (*model*)
 
-***montage de projecteur*** Montage qui consiste en un ou plusieurs projecteurs, dispositifs d’orientation, composants de retenue de projecteur, raccords électriques et supports et qui peut comprendre un boîtier et une ou plusieurs ampoules; (*headlamp assembly*)
+***montage de projecteur***[Abrogée, DORS/2018-43, art. 1]
 
 ***monteur***[Abrogée, DORS/95-147, art. 1]
 
@@ -523,7 +526,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***position de ralenti*** désigne la position du papillon des gaz lorsque celui-ci entre en contact avec la commande du ralenti réglée selon les conditions existantes et conformément aux recommandations du fabricant concernant les réglages de régime du moteur pour le départ à froid, la climatisation et les dispositifs antipollution, ainsi que les dispositifs de réglage du papillon des gaz; (*idle position*)
 
-***projecteur*** désigne, aux fins des articles 108 et 108.1 de l’annexe IV, un phare servant à éclairer la route et les objets se trouvant sur la route, en avant du véhicule, à l’exclusion d’un projecteur antibrouillard et d’un projecteur de route supplémentaire; (*headlamp*)
+***projecteur*** Phare produisant un faisceau de route ou un faisceau de croisement, ou les deux. (*headlamp*)
 
 ***projecteur à ampoule remplaçable***[Abrogée, DORS/96-366, art. 1]
 
@@ -533,7 +536,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***projecteur de type 2***[Abrogée, DORS/91-692, art. 1]
 
-***projecteur scellé*** désigne, aux fins des articles 108 et 108.1 de l’annexe IV, un projecteur dont les éléments comprennent un réflecteur, une lentille et une ou plusieurs sources de lumière et constituent un ensemble scellé indivisible qui ne peut pas être démonté sans devenir complètement inutilisable; (*sealed beam headlamp*)
+***projecteur scellé***[Abrogée, DORS/2018-43, art. 1]
 
 ***projecteur scellé assemblé par collage***[Abrogée, DORS/96-366, art. 1]
 
@@ -768,7 +771,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Pour l’application du présent règlement, si un document disponible dans les deux langues officielles est incorporé par renvoi avec ses modifications successives, la modification apportée à ce document dans l’une des langues officielles n’est pas incorporée tant que la modification correspondante n’est pas apportée dans l’autre langue officielle.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1; DORS/2018-43, art. 1.
 
 
 
@@ -1754,7 +1757,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>108</td>
-<td>Système d’éclairage et dispositifs rétroréfléchis-sants</td>
+<td>Systèmes d’éclairage et dispositifs réfléchissants</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1773,22 +1776,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>108.1</td>
-<td>Autres projecteurs</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td>X</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>X</td>
-<td>X</td>
-<td></td>
-<td></td>
-<td>X</td>
+<td>[Abrogé, DORS/2018-43, art. 3]</td>
 </tr>
 <tr>
 <td>110</td>
@@ -2845,7 +2833,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2; DORS/2017-231, art. 1.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8; DORS/2017-104, art. 2; DORS/2017-231, art. 1; DORS/2018-43, art. 2 et 3.
 
 
 
@@ -3559,13 +3547,18 @@ ou
 
 ***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*) 
 
+
 ***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*) 
+
 
 ***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*) 
 
+
 ***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*) 
 
+
 ***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*) 
+
 
 - **(2)** Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
 
@@ -3599,9 +3592,12 @@ ou
 
 ***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*) 
 
+
 ***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*) 
 
+
 ***ligne de référence longitudinale*** désigne 
+
 - **a)** dans un véhicule à banquette avant, une ligne parallèle à l’axe longitudinal du véhicule, située à une distance du centre du volant, vers l’extérieur, égale aux 15 centièmes de la différence entre la moitié de l’espace d’épaules et la distance entre l’axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903a (mai 1966) de la SAE, et
 - **b)** dans un véhicule à sièges avant individuels,
 	- **(i)** une ligne parallèle à l’axe longitudinal du véhicule passant par le centre de la place assise désignée du conducteur, ou
@@ -3609,11 +3605,15 @@ ou
 
 ***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966); (*glazing surface reference line*) 
 
+
 ***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*) 
+
 
 ***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*) 
 
+
 ***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*) 
+
 
 - **(2)** Pour l’application du présent article, dans le cadre de toute norme ou pratique recommandée de la SAE, les mentions « *manikin H-point* », « *manikin H-point with seat in rearmost position* » et « *H-point* » valent la mention « point de référence de position assise ».
 
@@ -3908,357 +3908,217 @@ ou
 
 
 
-### Système d’éclairage et dispositifs rétroréfléchissants (Norme 108)
+### Systèmes d’éclairage et dispositifs réfléchissants (norme 108)
 
 
-#### Dispositions générales
+#### Voitures de tourisme, véhicules de tourisme à usages multiples, camions, remorques et autobus
 
 **108** 
 
-- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les motocyclettes et les remorques doivent être munis des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le Document de normes techniques no 108 — Feux, dispositifs réfléchissants et pièces d’équipement complémentaires (DNT 108), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les remorques et les autobus doivent être conformes au Document de normes techniques no 108 — Dispositifs d’éclairage, dispositifs réfléchissants et pièces d’équipement complémentaires (DNT 108), avec ses modifications successives.
 
-- **(1.1)** Les véhicules à trois roues doivent être munis des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le DNT 108 pour les voitures de tourisme.
+#### Véhicules à trois roues
 
-- **(2)** Les motocyclettes à usage restreint doivent être munies des cataphotes exigés pour les motocyclettes aux termes de la disposition S5.1.1 du DNT 108.
 
-- **(3)** Les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires qui sont exigés par le présent article doivent être conçus, installés et visibles conformément aux exigences du DNT 108, à l’exception des figures 11 à 14, 16, 18, 21 et 22.
+- **(2)** Les véhicules à trois roues doivent être munis des dispositifs d’éclairage, des cataphotes et des pièces complémentaires exigés par le paragraphe (1) pour les voitures de tourisme, ainsi que :
+	- **a)** si le feu de stationnement le plus à l’extérieur est installé à plus de 400 mm du plus proche des deux bords extérieurs du véhicule utilisés pour calculer sa largeur hors tout, d’un cataphote blanc qui fait face à l’avant et qui est installé à au plus 400 mm de ce bord pour indiquer la largeur du véhicule;
+	- **b)** si le feu arrière ou le cataphote arrière le plus à l’extérieur est installé à plus de 400 mm du plus proche des deux bords extérieurs du véhicule utilisés pour calculer sa largeur hors tout, d’un cataphote rouge qui fait face à l’arrière et qui est installé à au plus 400 mm de ce bord pour indiquer la largeur du véhicule.
 
-- **(4)** Les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires d’un véhicule peuvent être conformes aux normes et pratiques recommandées applicables de la SAE contenues dans le *SAE Handbook* de 1994 plutôt qu’aux normes et pratiques recommandées applicables de la SAE qui sont mentionnées dans le présent article ou le DNT 108.
+#### Autres types de feux autorisés — voitures de tourisme, véhicules à trois roues, véhicules de tourisme à usages multiples, camions et autobus
 
-- **(5)** Les renseignements relatifs à tout type d’ampoule et de bloc optique scellé utilisé pour le fonctionnement d’un système d’éclairage exigé par le présent article doivent :
-	- **a)** soit être spécifiés pour ce type d’ampoule ou de bloc optique scellé dans l’un des textes suivants :
-		- **(i)** une norme ou une pratique recommandée de la SAE,
-		- **(ii)** un règlement de la CEE,
-		- **(iii)** une norme de la Commission électrotechnique internationale (CEI);
-	- **b)** soit être communiqués par le fabricant du véhicule au ministre, à la demande de celui-ci.
 
-- **(6)** Le terme ***filament*** qui figure dans le présent article, le DNT 108 ou une norme ou pratique recommandée de la SAE vaut mention de arc lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par un tube à décharge dans un gaz ou de jonction de diode électroluminescente lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par une diode électroluminescente.
+- **(3)** Sous réserve du paragraphe (4), au lieu d’être munis des projecteurs exigés aux paragraphes (1) ou (2), selon le cas, les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les camions et les autobus peuvent être munis de feux produisant un faisceau de route adaptif qui sont conformes à la pratique recommandée J3069 de la SAE, intitulée *Adaptive Driving Beam* (juin 2016), sauf que ceux-ci ne doivent pas pouvoir être allumés ou éteints au moyen d’une pédale.
 
-- **(7)** Pour l’application du présent article, le terme vélomoteur utilisé dans le DNT 108 vaut mention de motocyclette à vitesse limitée.
+- **(4)** Si le faisceau de route adaptif est formé d’un faisceau de croisement, d’un faisceau de route ou des deux, ou d’une partie de ceux-ci, les feux doivent aussi être conformes au DNT 108, sauf que le réglage de l’orientation horizontale est permis, malgré l’article S10.18.
 
-### Document de normes techniques n<sup>o</sup> 108
+- **(5)** Au lieu d’être munis des projecteurs exigés aux paragraphes (1) ou (2), selon le cas, les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les camions et les autobus peuvent être munis de projecteurs qui répondent aux exigences suivantes :
+	- **a)** dans le cas d’une voiture de tourisme, d’un véhicule de tourisme à usages multiples, d’un camion ou d’un autobus, ils sont conformes à l’un ou l’autre des règlements suivants :
+		- **(i)** le règlement n<sup>o</sup> 8 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes à incandescence halogènes (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 et/ou H11), avec ses modifications successives,
+		- **(ii)** le règlement n<sup>o</sup> 20 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes halogènes à incandescence (lampes H4), avec ses modifications successives,
+		- **(iii)** le règlement n<sup>o</sup> 31 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs scellés halogènes pour véhicules à moteur émettant un faisceau de croisement asymétrique européen ou un faisceau de route, ou les deux à la fois, avec ses modifications successives,
+		- **(iv)** le règlement n<sup>o</sup> 98 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs de véhicules à moteur munis de sources lumineuses à décharge, avec ses modifications successives,
+		- **(v)** le règlement n<sup>o</sup> 112 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement asymétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence et/ou de modules à diode électroluminescente (DEL), avec ses modifications successives;
+	- **b)** dans le cas d’un véhicule à trois roues, ils sont conformes à l’un ou l’autre des règlements suivants :
+		- **(i)** un des règlements visés aux sous-alinéas a)(i), (ii) ou (v),
+		- **(ii)** un des règlements visés aux sous-alinéas a)(iii) ou (iv), comme si le véhicule était une voiture de tourisme;
+	- **c)** ils sont installés sur le véhicule de façon à ne produire qu’un faisceau configuré pour la circulation à droite et, si le véhicule est muni d’un mécanisme qui permet aux projecteurs de produire un faisceau configuré pour la circulation à gauche, celui-ci est inopérant;
+	- **d)** ils sont conformes, le cas échéant, aux essais physiques visés aux dispositions suivantes du DNT 108 :
+		- **(i)** S10.13.4,
+		- **(ii)** S10.14.7,
+		- **(iii)** S10.15.7.
 
+- **(6)** Au lieu d’être munis des projecteurs exigés aux paragraphes (1) ou (2), selon le cas, les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les camions et les autobus peuvent être munis de projecteurs qui sont conformes au règlement n⁰ 123 des Nations Unies, intitulé Prescriptions uniformes concernant l’homologation des systèmes d’éclairage avant adaptatifs (AFS) destinés aux véhicules automobiles, avec ses modifications successives.
 
-#### Dispositifs d’éclairage obligatoires — Disposition S5.1 du DNT 108
+- **(7)** Les projecteurs visés au paragraphe (6) doivent répondre aux exigences suivantes :
+	- **a)** ils sont installés sur le véhicule :
+		- **(i)** conformément au paragraphe 6.22 du règlement n⁰ 48 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse, avec ses modifications successives, sauf que, malgré le paragraphe 6.22.6.2, le dispositif de réglage automatique est obligatoire dans tous les cas,
+		- **(ii)** de façon à ne produire qu’un faisceau configuré pour la circulation à droite et, si le véhicule est muni d’un mécanisme qui permet aux projecteurs de produire un faisceau configuré pour la circulation à gauche, celui-ci doit être inopérant;
+	- **b)** au-dessus d’une hauteur de montage de 850 mm, leur intensité maximale n’excède pas l’exigence prévue au DNT 108 relativement à l’intensité des projecteurs à faisceau de route, la hauteur de montage du système étant mesurée jusqu’au centre du feu le plus élevé.
 
-
-- **(8)** Malgré la disposition S5.1.1 du DNT 108, les feux et les dispositifs rétroréfléchissants qui font partie du même montage physique qu’un projecteur et respectent les exigences de la disposition S7.4(h) du DNT 108 en ce qui concerne la résistance à la corrosion, à la poussière et à l’humidité n’ont pas à être soumis aux essais de corrosion, d’exposition à la poussière et de teneur en eau exigés par les normes ou pratiques recommandées qui sont énumérées aux tableaux I et III du DNT 108.
-
-- **(9)** [Réservé]
-
-- **(10)** Lorsqu’un matériau réfléchissant visé à la disposition S5.1.1.4 du DNT 108 est installé sur une surface non verticale, l’angle d’éclairage utilisé pour démontrer la conformité du matériau avec les normes d’efficacité prévues à cette disposition doit être est égal à la somme de l’angle d’éclairage spécifié aux tableaux 1 ou 1A de la norme J594f de la SAE, intitulée *Reflex Reflectors* (janvier 1977), et de l’angle, mesuré sur l’axe horizontal du matériau, entre la verticale et le matériau.
-
-- **(11)** Les dispositions S5.1.1.12 et S5.1.1.21 du DNT 108 ne s’appliquent pas.
-
-- **(12)** Malgré les dispositions S5.1.1 et S7.9 du DNT 108, les montages de projecteur de motocyclette doivent être conformes aux dispositions S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108.
-
-- **(13)** Les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un clignotant qui est conforme aux exigences de la pratique recommandée J1054 de la SAE, intitulée Warning Lamp Alternating Flashers (octobre 1989), et qui actionne les feux d’avertissement visés à la disposition S5.1.4 du DNT 108.
-
-#### Position de l’équipement obligatoire — Disposition S5.3 du DNT 108
-
-
-- **(14)** Pour l’application de la disposition S5.3 et du tableau II du DNT 108, la position des feux d’identification arrière d’une semi-remorque fourgon munie de portes arrière à ouverture latérale doit être conforme à cette disposition lorsque les feux sont placés :
-	- **a)** au-dessus des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, d’au moins 25 mm au-dessus des portes arrière;
-	- **b)** au-dessus ou au-dessous des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, de moins de 25 mm au dessus des portes arrière.
-
-- **(14.1)** Malgré la disposition S5.3 et le tableau IV du DNT 108, les feux arrière, les feux de freinage et les feux de stationnement d’un tricycle à moteur doivent être installés conformément aux exigences de la disposition S5.3 et du tableau IV du DNT 108 pour les feux arrière, les feux de freinage et les feux de stationnement qui sont installés sur les voitures de tourisme.
-
-- **(15)** [Réservé]
-
-#### Exigences spéciales relatives au câblage — Disposition S5.5 du DNT 108
-
-
-- **(16)** Les dispositions S5.5.1 et S5.5.2 du DNT 108 ne s’appliquent pas aux motocyclettes qui sont munies d’un projecteur à un seul faisceau.
-
-- **(17)** Sous réserve du paragraphe (18), le projecteur, le feu arrière et la lampe de la plaque d’immatriculation des motocyclettes doivent demeurer continuellement allumés lorsque le moteur est en marche.
-
-- **(18)** Le projecteur, le feu arrière et la lampe de la plaque d’immatriculation des motocyclettes peuvent, après que le moteur a démarré, demeurer éteints jusqu’à ce que le véhicule soit mis en mouvement au moyen de son moteur pour la première fois.
-
-- **(19)** En plus de s’allumer conformément à la disposition S5.5.7 du DNT 108, les feux et les lampes visés à la disposition S5.5.7(a) du DNT 108 doivent s’allumer :
-	- **a)** lorsque les feux-brouillard avant du véhicule fonctionnent de façon continue sauf s’ils fonctionnent à titre de feu de jour;
-	- **b)** lorsque les feux-brouillard arrière du véhicule fonctionnent de façon continue.
-
-- **(20)** Les exigences de la disposition S5.5.11 du DNT 108 sont remplacées par celles des paragraphes (44) à (65).
-
-#### Systèmes de perceptibilité — Disposition S5.7 du DNT 108
-
-
-- **(21)** Malgré la disposition S5.7 du DNT 108, le matériau rétroréfléchissant apposé dispositions S5.7.1.4.1(a) et S5.7.1.4.2 du DNT 108 peut être blanc, jaune, blanc et jaune ou blanc et rouge, en conformité avec la disposition S5.7.1.2 du DNT 108 ou les dispositions 3.1.3, 3.1.2 ou 3.1.1, respectivement, de la norme J578 de la SAE, intitulée *Color Specification* (mai 1998).
-
-- **(22)** Lorsque le matériau rétroréfléchissant visé à la disposition S5.7.1.2 du DNT 108 est apposé sur une surface non verticale, l’angle d’éclairage utilisé pour démontrer la conformité du matériau avec les exigences photométriques prévues à cette disposition doit être égal à la somme de l’angle d’éclairage spécifié dans la première colonne de la figure 29 du DNT 108 et de l’angle, mesuré sur l’axe horizontal du matériau, entre la verticale et le matériau.
-
-- **(23)** Le matériau rétroréfléchissant apposé à l’arrière d’une remorque en conformité avec la disposition S5.7.1.4.1(c) du DNT 108 doit être placé à au plus 760 mm au dessus de la chaussée et à moins de 450 mm de chaque extrémité latérale de la remorque.
-
-- **(24)** Tout matériau rétroréfléchissant jaune dont un véhicule est muni doit être conforme aux exigences photométriques prévues au tableau du présent paragraphe.
-#### TABLEAU
-<table>
-<tr>
-<th></th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
-<th>Colonne 3</th>
-</tr>
-<tr>
-<th>Article</th>
-<th>Catégorie</th>
-<th>Degré d’angle d’éclairage</th>
-<th>Coefficient de rétroréflection minimum (cd/lx/m<sup>2</sup>)</th>
-</tr>
-<tr>
-<th>Angle de divergence de 0,2°</th>
-<th>Angle de divergence de 0,5°</th>
-</tr>
-<tr>
-<td>1</td>
-<td>DOT-C2</td>
-<td>-4</td>
-<td>188</td>
-<td>49</td>
-</tr>
-<tr>
-<td>2</td>
-<td>DOT-C2</td>
-<td>30</td>
-<td>188</td>
-<td>49</td>
-</tr>
-<tr>
-<td>3</td>
-<td>DOT-C2</td>
-<td>45</td>
-<td>45</td>
-<td>11</td>
-</tr>
-<tr>
-<td>4</td>
-<td>DOT-C3</td>
-<td>-4</td>
-<td>124</td>
-<td>32</td>
-</tr>
-<tr>
-<td>5</td>
-<td>DOT-C3</td>
-<td>30</td>
-<td>124</td>
-<td>32</td>
-</tr>
-<tr>
-<td>6</td>
-<td>DOT-C3</td>
-<td>45</td>
-<td>30</td>
-<td>8</td>
-</tr>
-<tr>
-<td>7</td>
-<td>DOT-C4</td>
-<td>-4</td>
-<td>94</td>
-<td>25</td>
-</tr>
-<tr>
-<td>8</td>
-<td>DOT-C4</td>
-<td>30</td>
-<td>94</td>
-<td>25</td>
-</tr>
-<tr>
-<td>9</td>
-<td>DOT-C4</td>
-<td>45</td>
-<td>23</td>
-<td>6</td>
-</tr>
-</table>
-
-
-#### Exigences relatives aux projecteurs — Disposition S7 du DNT 108
-
-
-- **(25)** Pour l’application du présent règlement, le symbole DOT dont la lentille d’un projecteur ou d’un projecteur contribuant est marquée en application de la disposition S7.2(a) du DNT 108 indique que le projecteur ou le projecteur contribuant est conforme au DNT 108.
-
-- **(26)** Malgré la disposition S5.1.1 du DNT 108, les dispositions S7.3.7(a) et S7.3.8(a) du DNT 108 ne s’appliquent pas aux projecteurs ni des voitures de tourisme, ni des véhicules de tourisme à usages multiples, ni des camions, ni des autobus, ni des véhicules à trois roues.
-
-- **(27)** Malgré la disposition S7.3.7(e)(8) du DNT 108, les figures en conformité desquelles le déflectomètre visé à la disposition 4.5 de la norme J580 de la SAE, intitulée *Sealed Beam Headlamp Assembly* (décembre 1986), doit être conçu sont celles spécifiées dans une norme ou pratique recommandée de la SAE ou communiquées par le fabricant du véhicule au ministre, à la demande de celui-ci.
-
-- **(28)** Malgré la disposition S7.3.8(c)(2) du DNT 108, les figures en conformité desquelles l’adaptateur spécial et le déflectomètre doivent être conçus sont celles spécifiées dans une norme ou pratique recommandée de la SAE ou communiquées par le fabricant du véhicule au ministre, à la demande de celui-ci.
-
-- **(29)** Le mécanisme de réglage de l’orientation de tout montage de projecteur ou de feu-brouillard avant doit être conforme à la disposition 5.13.5 de la pratique recommandée J1383 de la SAE, intitulée *Performance Requirements for Motor Vehicle Headlamps* (juin 1990).
-
-- **(30)** Les montages de projecteur ou de feu-brouillard avant qui comprennent des anneaux de retenue doivent être conformes à la disposition 5.23.2 de la pratique recommandée J1383 de la SAE, intitulée *Performance Requirements for Motor Vehicle Headlamps* (juin 1990).
-
-- **(31)** En plus d’être conformes à la disposition S7.3 du DNT 108, les projecteurs scellés dont les lentilles ou les réflecteurs sont en plastique doivent être conformes aux dispositions S7.4(g) et (h) du DNT 108.
-
-- **(32)** Malgré la disposition S7.4(a)(3) du DNT 108, les circuits des projecteurs de motocyclette n’ont pas à être munis du dispositif d’orientation intégré du véhicule (DOIV) spécifié à la disposition S7.8.5.2 du DNT 108.
-
-- **(33)** Malgré la disposition S7.5(g) du DNT 108, la lentille des projecteurs dont la seule source lumineuse remplaçable est de type HB1 doit porter des marques permanentes indiquant le type HB.
-
-- **(34) à (39)** [Réservés]
-
-- **(40)** Les montages de feu-brouillard avant ou de feu auxiliaire avant d’une voiture de tourisme, d’un véhicule de tourisme à usages multiples, d’un camion, d’un autobus ou d’un véhicule à trois roues, qui peuvent être allumés en même temps que les projecteurs à faisceau-croisement, doivent être conformes aux dispositions suivantes :
-	- **a)** dans les cas où les montages sont munis d’un mécanisme de réglage d’orientation horizontale et verticale, aux dispositions S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108;
-	- **b)** dans le cas où les montages ne sont munis que d’un mécanisme de réglage d’orientation verticale :
-		- **(i)** à la disposition S7.8.2 du DNT 108, sauf qu’un mécanisme de réglage d’orientation horizontale n’est pas nécessaire,
-		- **(ii)** aux dispositions S7.8.2.2, S7.8.3 et S7.8.5.1(c) du DNT 108.
-
-- **(41)** Aux fins de démonstration de la conformité d’un montage de projecteur avec l’essai de flexion décrit à la disposition S7.8.5.1(a) du DNT 108, la force de torsion descendante de 2,25 N•m (20 lb-po) est mesurée au plan d’orientation repère, tel qu’il est défini à la disposition S4 du DNT 108.
-
-- **(42)** Les renseignements que contient l’étiquette visée à la disposition S7.8.5.2(b) du DNT 108 doivent être dans les deux langues officielles.
-
-- **(43)** Le manuel de l’usager visé à la disposition S7.8.5.2(b) du DNT 108 doit être publié dans les deux langues officielles par le fabricant ou l’importateur du véhicule.
-
-- **(43.1)** Malgré la disposition S7.9.6.2 et le tableau IV du DNT 108, si le circuit de projecteurs installé sur un tricycle à moteur comporte deux projecteurs disposés horizontalement sur l’axe central vertical, il peut être installé conformément aux exigences de la disposition S5.3 et du tableau IV du DNT 108 relatives aux circuits de projecteurs des voitures de tourisme.
-
-### Feux de jour
-
-
-#### Dispositions générales
-
-
-- **(44)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus et les véhicules à trois roues doivent être munis de deux feux de jour ou, dans le cas où ces feux sont combinés optiquement avec les faisceaux-route des projecteurs, de deux ou quatre feux de jour.
-
-- **(45)** Le feu de jour doit être blanc, jaune ou blanc jaune, en conformité avec les dispositions 3.1.3, 3.1.2 ou 3.1.3.1, respectivement, de la norme J578 de la SAE, intitulée *Color Specification* (mai 1988).
-
-- **(46)** Le feu de jour qui n’est pas combiné optiquement avec un projecteur doit être conforme aux exigences de la pratique recommandée J575 de la SAE, intitulée *Tests for Motor Vehicle Lighting Devices and Components* (décembre 1988).
-
-- **(47)** Sous réserve du paragraphe (47.1), le feu de jour qui n’est pas combiné optiquement avec un autre feu ou qui est combiné optiquement avec un feu — sauf un feu-brouillard avant — non exigé par le présent article doit être conçu pour être conforme aux exigences de la pratique recommandée J2087 de la SAE, intitulée *Daytime Running Lamps For Use On Motor Vehicles* (août 1991), y compris les valeurs photométriques prévues au tableau 2 de cette pratique recommandée, sauf que :
-	- **a)** l’intensité lumineuse maximum est de 3 000 cd à tout point d’essai;
-	- **b)** le feu n’a pas à être conforme aux exigences de la disposition 6.2 de cette pratique recommandée;
-	- **c)** la surface lumineuse efficace de la lentille peut être inférieure à 40 cm<sup>2</sup>.
-
-- **(47.1)** Le feu de jour qui n’est pas combiné optiquement avec un autre feu peut être conforme aux exigences de la norme J583 de la SAE, intitulée *Front Fog Lamps* (juin 1993), ou à celles des paragraphes 3, 4.2, 4.3, 5 et 6 du Règlement n<sup>o</sup> 19 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules automobiles, révision n<sup>o</sup> 3 (2 mars 1993).
-
-- **(47.2)** Le feu de jour qui est combiné optiquement avec un indicateur de changement de direction avant ou un feu de stationnement doit être conforme aux exigences du paragraphe (47).
-
-- **(48)** Le feu de jour qui est combiné optiquement avec un projecteur doit :
-	- **a)** dans le cas où il est combiné avec un faisceau-croisement d’un projecteur conçu pour être conforme aux exigences photométriques du présent article, fonctionner, selon le cas :
-		- **(i)** à la tension de fonctionnement normale,
-		- **(ii)** s’il s’agit d’un système CC (courant continu), à au moins 75 % et à au plus 92 % de la tension de fonctionnement normale,
-		- **(iii)** s’il s’agit d’un système CA (courant alternatif) ou à voltage modulé, à la moyenne quadratique équivalente d’au moins 75 % et d’au plus 92 % de la tension de fonctionnement normale;
-	- **b)** dans le cas où il est combiné avec un faisceau-croisement d’un projecteur conçu pour être conforme aux exigences photométriques de l’article 108.1, fonctionner, selon le cas :
-		- **(i)** à la tension de fonctionnement normale,
-		- **(ii)** s’il s’agit d’un système CC (courant continu), à au moins 86 % et à au plus 92 % de la tension de fonctionnement normale,
-		- **(iii)** s’il s’agit d’un système CA (courant alternatif) ou à voltage modulé, à la moyenne quadratique équivalente d’au moins 86 % et d’au plus 92 % de la tension de fonctionnement normale;
-	- **c)** dans le cas où il est combiné avec un faisceau-route d’un projecteur, être conçu de façon à fournir une intensité lumineuse d’au moins 2 000 cd et d’au plus 7 000 cd au point d’essai H-V.
-
-- **(49)** Aux fins d’établissement de la conformité d’un feu de jour avec le paragraphe (48), le feu de jour doit être mis à l’essai conformément à la disposition S11 du DNT 108.
-
-- **(50)** Le feu de jour combiné optiquement avec un projecteur ou des projecteurs qui exigent le fonctionnement simultané de deux filaments pour produire la fonction de feu de jour doit être conforme aux exigences photométriques de l’alinéa (48)c) lorsque :
-	- **a)** d’une part, le feu de jour est obtenu par l’un des moyens suivants :
-		- **(i)** le faisceau-route émis par deux filaments du projecteur,
-		- **(ii)** le faisceau-route et le faisceau-croisement du projecteur,
-		- **(iii)** le faisceau-route du projecteur et soit le faisceau-croisement, soit le faisceau-route d’un autre projecteur;
-	- **b)** d’autre part, les intensités lumineuses au point d’essai H-V des projecteurs mis à l’essai conformément à la disposition S10 du DNT 108 sont additionnées.
-
-- **(51)** Dans le cas où le projecteur avec lequel le feu de jour est combiné optiquement s’allume en position escamotée, le feu de jour doit être conforme aux paragraphes (47), (48) ou (50).
-
-- **(52)** Le feu de jour peut être combiné optiquement avec un feu-brouillard avant conforme aux exigences de la norme J583 de la SAE, intitulée *Front Fog Lamps* (juin 1993), ou à celles des paragraphes 3, 4.2, 4.3, 5 et 6 du Règlement n<sup>o</sup> 19 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules automobiles, révision n<sup>o</sup> 3 (2 mars 1993).
-
-- **(53)** Malgré les paragraphes (45) à (52), un véhicule peut être muni d’un système de feux de circulation de jour conforme aux exigences de la norme CAN/ CSA-D603-88, intitulée Systèmes de feux de circulation de jour et publiée par l’Association canadienne de normalisation (décembre 1989), sauf un système de type 4 et de type 5 (projecteurs à faisceau-route à tension réduite), visé au tableau 1 de cette norme, si :
-	- **a)** le système de feux de circulation de jour est installé conformément aux instructions visées à la disposition 8.2 de la norme;
-	- **b)** dans le cas où le véhicule est muni de projecteurs de faisceau-croisement à décharge dans un gaz, seul un système de type 1 (projecteur de faisceau-croisement à tension normale), de type 6 ou de type 7 (feux distincts autres que des projecteurs), visés au tableau 1 de la norme, est utilisé.
-
-#### Commutation
-
-
-- **(54)** Sous réserve des paragraphes (55) et (56), les feux de jour doivent être continuellement allumés lorsque le moteur est en marche et que le commutateur général d’éclairage n’est pas dans la position d’allumage des projecteurs.
-
-- **(55)** Les feux de jour peuvent s’éteindre :
-	- **a)** pendant que la commande de la boîte de vitesses automatique est à la position de stationnement ou de point mort;
-	- **b)** pendant que le frein de stationnement est serré;
-	- **c)** après que le moteur a démarré, mais avant que le véhicule ne soit mis en mouvement pour la première fois.
-
-- **(56)** Les feux de jour qui sont combinés optiquement avec un indicateur de changement de direction doivent s’éteindre pendant que l’indicateur de changement de direction est allumé à ce titre ou à titre de signal d’avertissement.
-
-- **(57)** Les feux de jour doivent s’éteindre :
-	- **a)** dès que le commutateur général d’éclairage est mis dans la position d’allumage des projecteurs;
-	- **b)** s’ils se trouvent sur un véhicule muni de projecteurs escamotables et si le commutateur général d’éclairage est mis dans la position d’allumage des projecteurs, dès que les projecteurs sont dans la position complètement ouverte.
-
-- **(58)** Les conditions ci-après doivent être respectées lorsque les faisceaux-croisement des projecteurs fonctionnant à la tension de fonctionnement normale servent de feux de jour :
-	- **a)** il doit être impossible d’allumer les faisceaux-route des projecteurs, sauf à des fins de signalisation;
-	- **b)** si un témoin à la vue du conducteur s’allume automatiquement lorsqu’il fait noir pour indiquer que les feux arrière, les lampes de la plaque d’immatriculation, les feux de position latéraux et les feux de stationnement sont éteints, ces feux et lampes ne doivent pas s’allumer automatiquement;
-	- **c)** si aucun témoin à la vue du conducteur ne s’allume automatiquement, les feux et lampes visés à l’alinéa b) doivent, selon le cas :
-		- **(i)** s’allumer automatiquement et rester allumés dans toutes les conditions de luminosité ambiantes,
-		- **(ii)** s’allumer automatiquement lorsqu’il fait noir.
-
-- **(59)** Malgré la disposition S5.5.1 du DNT 108, les faisceaux-croisement et les faisceaux-route des projecteurs peuvent s’allumer en même temps lorsque les projecteurs servent de feux de jour.
-
-- **(60)** Malgré la disposition S5.5.10(d) du DNT 108, les feux de jour peuvent être connectés de façon à clignoter à des fins de signalisation.
-
-#### Visibilité
-
-
-- **(61)** Les feux de jour qui ne sont pas combinés optiquement avec un autre feu exigé par le présent article doivent être aussi éloignés l’un de l’autre que possible et être placés à la même hauteur, à au moins 380 mm et à au plus 2 110 mm de la chaussée, mesurée à partir de l’axe H-V du feu avec le véhicule à sa masse à vide.
-
-- **(62)** Le feu de jour doit être visible à partir de tout point de l’angle solide bordé par les plans verticaux qui se trouvent à 20° à gauche et à 20° à droite de l’axe H-V de ce feu et par les plans horizontaux qui se trouvent à 10° au-dessus et à 10° au-dessous de cet axe.
-
-- **(63)** Dans le cas où la distance, mesurée sur un plan vertical et transversal, à partir de l’axe H-V d’un indicateur de changement de direction avant jusqu’au bord exposé de la lentille d’un feu de jour non optiquement combiné avec l’indicateur de changement de direction, est inférieure à 100 mm, l’une des conditions suivantes doit être respectée :
-	- **a)** l’indicateur de changement de direction est conforme aux exigences photométriques du tableau 3 de la norme J588 de la SAE, intitulée *Turn Signal Lamps for Use on Motor Vehicles Less Than 2032 mm in Overall Width* (novembre 1984), établies au moyen d’un multiplicateur d’intensité lumineuse de 2,5;
-	- **b)** le feu de jour présente une intensité lumineuse d’au plus 2 600 cd à n’importe quel point dans le faisceau;
-	- **c)** le feu de jour s’éteint lorsque l’indicateur de changement de direction clignote.
-
-- **(64)** Il doit être possible d’accéder, sans l’aide d’outils spécialement conçus pour les véhicules, à la surface intérieure d’une pièce transparente à travers laquelle passe la lumière émise par un feu de jour visé au paragraphe (51) pour la nettoyer.
-
-- **(65)** Les feux de jour doivent être conformes aux dispositions S5.1.3 et S5.3 du DNT 108.
-
-- **(66)** [Abrogé, DORS/2014-307, art. 2]
-> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2; DORS/2015-23, art. 3..
-
-
-
-
-### Autres projecteurs
-> [DORS/96-366, art. 6]
-
-
-**108.1** 
-
-- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les autobus et les camions peuvent être munis, à la place des projecteurs exigés par l’article 108 de la présente annexe, de projecteurs qui émettent une lumière blanche et :
-	- **a)** qui sont conformes, selon le cas :
-		- **(i)** au règlement n<sup>o</sup> 8 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes à incandescence halogènes (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 et/ou H11), avec ses modifications successives,
-		- **(ii)** au règlement n<sup>o</sup> 20 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes halogènes à incandescence (lampes H4), avec ses modifications successives,
-		- **(iii)** au règlement n<sup>o</sup> 31 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs automobiles constitués par des blocs optiques halogènes (« sealed beam » unit) (bloc optique SBH) émettant un faisceau-croisement asymétrique et/ou un faisceau-route, avec ses modifications successives,
-		- **(iv)** du règlement n<sup>o</sup> 98 de la CEE, intitulé Dispositions uniformes concernant l’homologation des projecteurs de véhicules à moteur munis de sources lumineuses à décharge, avec ses modifications successives,
-		- **(v)** au règlement n<sup>o</sup> 112 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement asymétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, avec ses modifications successives;
-	- **b)** qui, malgré les exigences des règlements de la CEE visés au présent article, sont réglés pour utilisation sur des véhicules conçus pour la circulation à droite de la route;
-	- **c)** émettent deux faisceaux-route et deux faisceaux-croisement;
-	- **d)** qui sont conformes :
-		- **(i)** aux dispositions S5.1.2, S5.5.9, S7.4(g) et (h), S7.8.2, S7.8.2.1(a) et (b), S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108,
-		- **(ii)** aux paragraphes 108(29) et, s’il y a lieu, (30);
-	- **e)** sont conformes aux exigences des articles 5.1.2, 5.1.4 et, le cas échéant, 5.1.6 de la norme J580 de la SAE, « *Sealed Beam Headlamp Assembly* » (décembre 1986);
-	- **f)** qui sont munis d’un type d’ampoule conforme :
-		- **(i)** à l’un des textes visés à l’alinéa 108(5)a) ou aux renseignements communiqués en application de l’alinéa 108(5)b),
-		- **(ii)** à la disposition S7.7 du DNT 108, à l’exclusion de l’obligation de porter le symbole « DOT » visé aux dispositions S7.7(a) et (e)(7);
-	- **g)** qui, lorsqu’ils sont allumés de façon continue, sont dépourvus d’enjoliveurs ou autres éléments, comme un capot translucide ou une grille, devant les lentilles.
-
-- **(2)** À la place des projecteurs exigés par l’article 108, les motocyclettes peuvent être munies de projecteurs qui émettent une lumière blanche et qui, à la fois :
-	- **a)** émettent un faisceau-route et un faisceau-croisement, ou deux faisceaux-route et deux faisceaux-croisement;
-	- **b)** respectent, selon le cas :
-		- **(i)** les sous-alinéas (1)a)(i) à (iii) et (v) et les alinéas (1)b) et d) à f),
-		- **(ii)** le règlement n<sup>o</sup> 57 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles et véhicules y assimilés, avec ses modifications successives,
-		- **(iii)** le règlement n<sup>o</sup> 72 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles émettant un faisceau-croisement asymétrique et un faisceau-route et équipés de lampes halogènes (Lampes HS1), avec ses modifications successives,
-		- **(iv)** le règlement n<sup>o</sup> 113 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement symétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, avec ses modifications successives;
-	- **c)** respectent les paragraphes 108(12), (29) et, s’il y a lieu, (30).
-
-- **(3)** Au lieu de se conformer aux exigences des règlements de la CEE visés au présent article, les projecteurs qui sont installés sur un véhicule peuvent émettre une lumière blanche conforme à celle décrite dans la norme J578 de la SAE, intitulée *Color Specification* (mai 1988).
-
-- **(4)** Pour l’application du présent article, les exigences suivantes des règlements de la CEE visées aux paragraphes (1) et (2) ne s’appliquent pas :
-	- **a)** toute exigence relative au processus d’homologation;
-	- **b)** toute exigence relative aux inscriptions sur les projecteurs homologués;
+- **(8)** Pour l’application des paragraphes (5) et (6), les exigences ci-après des règlements des Nations Unies visés à ces paragraphes ne s’appliquent pas :
+	- **a)** toute exigence relative au processus d’homologation de type;
+	- **b)** toute exigence relative aux inscriptions sur les projecteurs d’un type homologué;
 	- **c)** toute exigence relative :
-		- **(i)** à la conformité de la production de projecteurs au type homologué,
+		- **(i)** à la conformité de la production de projecteurs d’un type homologué,
 		- **(ii)** aux sanctions pour non-conformité de la production,
 		- **(iii)** à la modification d’un type de projecteur et à l’extension de l’homologation.
 
-- **(5)** L’intensité totale des faisceaux-route des projecteurs d’un véhicule équipé conformément au présent article ne doit pas dépasser 225 000 cd à aucun point de la configuration du faisceau lorsqu’elle est mesurée à 12 V.
+- **(9)** Pour l’application du paragraphe (6) et du sous-alinéa (7)a)(i), les règlements n⁰ 48 et n⁰ 123 des Nations Unies sont considérés comme étant applicables aux véhicules à trois roues, malgré toute disposition contraire de ces règlements.
 
-- **(6)** À l’exception des projecteurs munis de lentilles en plastique, des essuie-glaces peuvent être installés sur les projecteurs d’un véhicule équipé conformément au présent article, pourvu que les projecteurs soient conformes à toutes les exigences photométriques applicables quelle que soit la position d’arrêt des essuie-glaces devant les lentilles.
+#### Motocyclettes autres que les tricycles à moteur
 
-- **(7)** [Abrogé, DORS/91-692, art. 3]
-> DORS/79-305, art. 2; DORS/79-940, art. 7; DORS/84-812, art. 4; DORS/91-692, art. 3; DORS/94-670, art. 2(F); DORS/96-366, art. 7; DORS/99-112, art. 2; DORS/99-426, art. 2; DORS/2001-60, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 11; DORS/2003-294, art. 1; DORS/2006-94, art. 4(A)..
 
+- **(10)** Les motocyclettes autres que les tricycles à moteur doivent être conformes au DNT 108. Toutefois :
+	- **a)** la disposition S6.1.3.5.1 (Disposition verticale des projecteurs) ne s’applique pas;
+	- **b)** malgré la disposition S10.18, la disposition S10.18.1 s’applique aux motocyclettes, mais la mention « des orientations horizontale et verticale » vaut mention de « de l’orientation verticale ».
+
+#### Tricycles à moteur
+
+
+- **(11)** Les tricycles à moteur doivent être conformes au DNT 108. Toutefois :
+	- **a)** les dispositions suivantes du DNT 108 ne s’appliquent pas :
+		- **(i)** la disposition S6.1.3.5.1 (Disposition verticale des projecteurs),
+		- **(ii)** la disposition S10.17.1.2.2 (écart entre les projecteurs);
+	- **b)** malgré la disposition S10.18, la disposition S10.18.1 s’applique aux tricycles à moteur, mais la mention « des orientations horizontale et verticale » vaut mention de « de l’orientation verticale »;
+	- **c)** malgré les dispositions S6.1.1 et S6.1.3.1 et le tableau I-c, les tricycles à moteur sont munis de feux arrière, de feux de freinage et de cataphotes selon le nombre et aux positions d’installation qui figurent au tableau I-a pour les voitures de tourisme;
+	- **d)** au lieu d’être munis de projecteurs selon la disposition S6.1 et le tableau I-c, les tricycles à moteur peuvent être munis de projecteurs à faisceau de croisement et de projecteurs à faisceau de route selon la disposition S6.1 et le tableau I-a pour les voitures de tourisme.
+
+- **(12)** En plus d’être munis de dispositifs d’éclairage et de cataphotes prévus à la disposition S6.1 et au tableau I-c du DNT 108, les tricycles à moteur doivent être munis, à la fois :
+	- **a)** de feux de stationnement selon la disposition S6.1 et le tableau I-a du DNT 108 pour les voitures de tourisme;
+	- **b)** si le feu de stationnement le plus à l’extérieur est installé à plus de 400 mm du plus proche des deux bords extérieurs de celui-ci utilisés pour calculer sa largeur hors tout, d’un cataphote blanc qui fait face à l’avant et qui est installé à au plus 400 mm de ce bord pour indiquer la largeur du tricycle à moteur;
+	- **c)** si le feu arrière ou le cataphote arrière le plus à l’extérieur est installé à plus de 400 mm du plus proche des deux bords extérieurs de celui-ci utilisés pour calculer sa largeur hors tout, d’un cataphote rouge qui fait face à l’arrière et qui est installé à au plus 400 mm de ce bord pour indiquer la largeur du tricycle à moteur.
+
+#### Autres projecteurs autorisés — motocyclettes
+
+
+- **(13)** Au lieu d’être munis des projecteurs exigés aux paragraphes (10) ou (11), selon le cas, les motocyclettes peuvent être munies de projecteurs qui répondent aux exigences suivantes :
+	- **a)** ils sont conformes, selon le cas :
+		- **(i)** au paragraphe (5),
+		- **(ii)** au règlement n<sup>o</sup> 57 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles et véhicules y assimilés, avec ses modifications successives,
+		- **(iii)** au règlement n<sup>o</sup> 72 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles émettant un faisceau-croisement asymétrique et un faisceau-route et équipés de lampes halogènes (Lampes HS1), avec ses modifications successives,
+		- **(iv)** au règlement n<sup>o</sup> 113 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement symétrique ou un faisceau de route ou les deux et équipés de lampes à incandescence, de sources lumineuses à décharge ou de modules DEL, avec ses modifications successives;
+	- **b)** ils sont installés conformément aux exigences des paragraphes 5.7, 5.11, 5.13, 6.1 et 6.2 du règlement n<sup>o</sup> 53 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules de catégorie L3 en ce qui concerne l’installation des dispositifs d’éclairage et de signalisation lumineuse, avec ses modifications successives;
+	- **c)** dans les cas des projecteurs qui sont conformes à l’un ou l’autre des règlements visés aux sous-alinéas a)(ii), (iii) ou (iv), ils sont conformes :
+		- **(i)** d’une part, aux exigences relatives au rendement de l’essai de vibration, de l’essai d’exposition à l’humidité, de l’essai d’exposition à la poussière et de l’essai de corrosion qui sont prévus à la disposition S14.5 du DNT 108,
+		- **(ii)** d’autre part, dans le cas de projecteurs ne comportant pas de lentille en verre, aux exigences relatives au rendement des essais de matériaux optiques en plastique qui sont prévus à la disposition S14.4 du DNT 108.
+
+- **(14)** Pour l’application du paragraphe (13), les exigences ci-après des règlements des Nations Unies visés à ce paragraphe ne s’appliquent pas :
+	- **a)** toute exigence relative au processus d’homologation de type;
+	- **b)** toute exigence relative aux inscriptions sur les projecteurs d’un type homologué;
+	- **c)** toute exigence relative :
+		- **(i)** à la conformité de la production de projecteurs d’un type homologué,
+		- **(ii)** aux sanctions pour non-conformité de la production,
+		- **(iii)** à la modification d’un type de projecteur et à l’extension de l’homologation.
+
+#### Motocyclettes à usage restreint
+
+
+- **(15)** Les motocyclettes à usage restreint sont munies de cataphotes conformément aux exigences du paragraphe (10) visant les motocyclettes autres que les tricycles à moteur.
+
+#### Exigences additionnelles visant l’activation de certains dispositifs d’éclairage
+
+
+- **(16)** En plus d’être activés conformément au tableau I-a du DNT 108, les feux de stationnement, les feux arrière, les lampes de plaque d’immatriculation et les feux de position latéraux des voitures de tourisme, des véhicules de tourisme à usages multiples, des véhicules à trois roues, des camions et des autobus doivent être activés dans les cas suivants :
+	- **a)** lorsque les feux de brouillard avant du véhicule sont allumés de façon continue, sauf lorsqu’ils fonctionnent comme feux de jour;
+	- **b)** lorsque les feux de brouillard arrière du véhicule sont allumés de façon continue.
+
+- **(17)** Sauf s’ils sont utilisés pour donner des avertissements lumineux intermittents à intervalles rapprochés, les faisceaux de route ne peuvent être activés que lorsque le commutateur général d’éclairage est en position « ON » ou en position « AUTO » (automatique) et que les conditions d’activation automatique des faisceaux de croisement existent.
+
+- **(18)** Malgré la disposition S6.1.5 et le tableau I-a du DNT 108, les feux arrière peuvent être activés sans que le soient simultanément les projecteurs ou les feux de stationnement, si les feux de jour sont activés.
+
+- **(19)** À compter du 1<sup>er</sup> septembre 2021, si les indicateurs de vitesse, du niveau de carburant, de pression d’huile, de température du liquide de refroidissement du moteur, de charge de la batterie ou de positions de la boîte de vitesses, ou leur moyen d’identification, sont éclairés lorsque les feux de jour d’un véhicule sont allumés, l’une ou l’autre des exigences suivantes doit être respectée :
+	- **a)** les projecteurs à faisceau de croisement doivent :
+		- **(i)** s’allumer automatiquement en mode continu en moins de deux secondes si l’intensité de la luminosité ambiante à l’extérieur du véhicule est inférieure à 1 000 lux pendant que la boîte de vitesses est en position de marche avant ou arrière et que le véhicule est en mouvement, sauf s’ils ont été désactivés manuellement après avoir été automatiquement activés après le plus récent désarmement du système d’immobilisation conformément à l’article 114,
+		- **(ii)** s’éteindre automatiquement dans les conditions prévues par le fabricant;
+	- **b)** les feux arrière sont allumés.
+
+- **(20)** Pour l’application de l’alinéa (19)a), la luminosité ambiante à l’extérieur du véhicule est mesurée sur une surface horizontale, avec un capteur corrigé en cosinus à la même hauteur que la position de montage du capteur de lumière ambiante situé sur le véhicule.
+
+#### Feux de brouillard et feux auxiliaires avant pour l’éclairage de la route — mécanisme de réglage de l’orientation
+
+
+- **(21)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les tricycles à moteur, les camions et les autobus qui sont munis de feux de brouillard avant ou de feux auxiliaires avant pour l’éclairage de la route doivent être munis, à l’égard de ces feux, d’un mécanisme qui :
+	- **a)** d’une part, permet le réglage de l’orientation verticale par une seule personne pour maintenir la configuration du faisceau des feux dans les limites de la plage complète d’inclinaison verticale du véhicule au moyen d’outils généralement disponibles;
+	- **b)** d’autre part, permet le réglage visé à l’alinéa a) après avoir été soumis à la procédure d’essai de corrosion qui est prévue à la disposition S14.6.3.1 du DNT 108.
+
+#### Renseignements
+
+
+- **(22)** Les renseignements relatifs à l’utilisation sécuritaire des systèmes d’éclairage et des dispositifs réfléchissants qui sont exigés par le DNT 108 pour les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions et les autobus doivent être fournis dans le manuel de l’usager.
+
+- **(23)** Les renseignements relatifs à l’utilisation sécuritaire des systèmes d’éclairage et des dispositifs réfléchissants des véhicules à trois roues sont les mêmes que ceux qui sont exigés par le DNT 108 pour les voitures de tourisme et ils doivent être fournis dans le manuel de l’usager.
+
+- **(24)** Sauf la mention « *sealed beam* » visée à la disposition S6.5.3.3.1 du DNT 108 et la mention « *motorcycle* » visée à la disposition S10.17.2 du DNT 108, les renseignements qui, en application du présent article, sont apposés sur les voitures de tourisme, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les motocyclettes, les motocyclettes à usage restreint, les camions, les remorques et les autobus sont en français et en anglais.
+
+#### Feux de jour
+
+
+- **(25)** Les paragraphes (26) à (30) s’appliquent aux voitures de tourisme, aux véhicules de tourisme à usages multiples, aux véhicules à trois roues, aux camions et aux autobus.
+
+- **(26)** Tout véhicule doit être muni de feux de jour :
+	- **a)** conformément à la disposition S6.1.3.1 du DNT 108, sauf que le renvoi aux « exigences photométriques applicables » dans cette disposition est un renvoi aux exigences photométriques applicables qui sont prévues par la norme J2087 de la SAE, intitulée *Daytime Running Light* (août 2017) (norme J2087 de la SAE);
+	- **b)** conformément à la disposition S6.2 du DNT 108, sauf que les renvois au « circuit d’éclairage prescrit par le présent DNT » et au « dispositif d’éclairage prescrit » dans cette disposition visent également les feux de jour;
+	- **c)** qui sont conformes :
+		- **(i)** soit aux articles 5, 6 et 7.3.1 de la norme J2087 de la SAE, sauf que, malgré l’article 6.1.2, si un feu de jour est combiné optiquement avec un feu de position avant blanc ayant une surface lumineuse projetée d’une lentille de 200 cm<sup>2</sup> ou moins, il peut être conçu pour se conformer aux valeurs de la distribution de l’intensité lumineuse prévues à la figure 1 lorsque mis à l’essai conformément à l’article 5.1,
+		- **(ii)** soit, jusqu’au 1<sup>er</sup> septembre 2020, à la norme J583 de la SAE, intitulée *Front Fog Lamps* (septembre 2016) (norme J583 de la SAE).
+
+- **(27)** Malgré l’article 6.4 de la norme J2087 de la SAE, le signal lumineux des feux de jour doit être, selon le cas :
+	- **a)** blanc ou jaune, s’il est combiné optiquement avec un feu de stationnement;
+	- **b)** jaune, s’il est produit par un feu de changement de direction;
+	- **c)** blanc, dans les autres cas.
+
+#### Commutation — feux de jour
+
+
+- **(28)** Sous réserve des paragraphes (29) et (30), les feux de jour d’un véhicule sont activés au plus tard lorsque celui-ci est mis en mouvement au moyen de son moteur et demeurent activés jusqu’à ce que les moteurs utilisés pour son système de propulsion soient éteints et que le véhicule soit dans un mode de fonctionnement autre qu’« accessoire » ou « contact ».
+
+- **(29)** Les feux de jour d’un véhicule doivent être conformes aux exigences suivantes :
+	- **a)** ils sont désactivés pendant que les projecteurs à faisceau de croisement sont activés pour l’éclairage de la route;
+	- **b)** à compter du 1<sup>er</sup> septembre 2020, ils sont désactivés pendant que les feux de brouillard avant sont utilisés pour l’éclairage de la route après avoir été activés par le conducteur;
+	- **c)** s’ils fonctionnent également comme feux de changement de direction avant :
+		- **(i)** d’une part, ils sont désactivés du côté du véhicule où le signal de changement de direction est activé, et ce pour la durée du clignotement de celui-ci,
+		- **(ii)** d’autre part, ils sont désactivés des deux côtés du véhicule pour la durée du clignotement des feux de détresse.
+
+- **(30)** Les feux de jour d’un véhicule peuvent :
+	- **a)** être désactivés pendant que le frein de stationnement est serré ou que la commande de la boîte de vitesses est à la position de stationnement ou au point mort et que le véhicule n’est pas en mouvement;
+	- **b)** être désactivés pendant que les projecteurs clignotent à des fins de signalisation;
+	- **c)** être éteints manuellement, auquel cas ils sont réactivés automatiquement au plus tard lorsque le véhicule a parcouru plus de 100 m ou lorsque la vitesse du véhicule dépasse 10 km/h, au choix du fabricant;
+	- **d)** être connectés de façon à clignoter à des fins de signalisation.
+
+#### Feux de circulation des motocyclettes
+
+
+- **(31)** Les dispositifs d’éclairage ci-après d’une motocyclette sont activés au plus tard à la mise en mouvement de celle-ci par ses propres moyens et le demeurent jusqu’à ce que le système électrique principal de la motocyclette soit mis hors tension ou que celle-ci soit mise en mode de fonctionnement « accessoire » :
+	- **a)** les feux arrière;
+	- **b)** les lampes de la plaque d’immatriculation;
+	- **c)** les projecteurs ou, à la place, un ou deux feux conformes aux exigences qui visent les feux de jour spécialisés (**dedicated daytime running lamps**) et qui figurent dans la norme J2087 de la SAE.
+
+#### DNT 108
+
+
+- **(32)** Pour l’application du présent article, la mention « *equipment* » dans la version anglaise du DNT 108 vaut mention de « *component* ».
+
+#### Règlements des Nations Unies
+
+
+- **(33)** Pour l’application du présent article :
+	- **a)** les mentions « feu de croisement » et « feu-croisement », dans les règlements n<sup>os</sup> 8, 20, 31, 48, 53, 57, 72, 98, 112, 113 et 123 des Nations Unies, valent mention, selon le contexte, de « faisceau de croisement » ou de « projecteur à faisceau de croisement »;
+	- **b)** les mentions « feu de route  » et «  feu-route  », dans les règlements n<sup>os</sup> 8, 20, 31, 48, 53, 57, 72, 98, 112, 113 et 123 des Nations Unies, valent mention, selon le contexte, de « faisceau de route » ou de « projecteur à faisceau de route ».
+
+#### SAE
+
+
+- **(34)** Pour l’application de l’article 7.3.1 de la norme J2087 de la SAE et de l’article 5.2.5.1 de la norme J583 de la SAE, le terme « *should* » est interprété comme exprimant une obligation.
+
+### Disposition transitoire
+
+
+- **(35)** Malgré les paragraphes (1) à (34), tout véhicule peut, jusqu’au 31 août 2019, être conforme aux exigences du présent article qui sont applicables à un système d’éclairage ou à un dispositif réfléchissant, dans leur version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2; DORS/2015-23, art. 3; DORS/2018-43, art. 4..
+
+
+
+**108.1** [Abrogé, DORS/2018-43, art. 4]
 
 
 **109** [Abrogé, DORS/79-339, art. 3]
@@ -4297,9 +4157,12 @@ ou
 
 ***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*) 
 
+
 ***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
+
 ***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
+
 
 #### Symbole d’identification de la limite de charge
 
@@ -4515,6 +4378,7 @@ où :
 
 - **(31)** Pour l’application des paragraphes (29) et (30) :
 	- **a)** système de visibilité arrière s’entend au sens de rear visibility system à la disposition S4 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives;
+
 	- **b)** les mentions de « *backing event* », « *environmental test fixture* », « *external component* », « *key* », « *rearview image* » et « *rear visibility system* » aux dispositions S4, S5.5, S6.2 et S14 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, s’entendent au sens de leur définition respective à la disposition S4;
 	- **c)** toute mention de « *starting system* » à la disposition S4, y compris sa définition, et à la disposition S14 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, vaut mention de « commutateur d’allumage ».
 
@@ -5133,7 +4997,9 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 ***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
+
 ***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
+
 
 #### Symbole d’identification de la limite de charge
 
@@ -5397,9 +5263,12 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 ***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po); (*measuring device*) 
 
+
 ***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*) 
 
+
 ***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique : 
+
 - **a)** à chaque place assise désignée, placer le pivot de l’appareil de mesure,
 	- **(i)** pour les sièges réglables,
 		- **(A)** au point de référence de position assise, et
@@ -5409,6 +5278,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **c)** la tête factice de l’appareil de mesure étant placée à chaque point de contact mentionné à l’alinéa b) et l’appareil de mesure étant en position verticale s’il n’existe pas de point de contact pour un réglage particulier de la distance, faire pivoter l’appareil de mesure vers l’avant et vers le bas, lui faisant ainsi décrire tous les arcs possibles dans des plans verticaux de 90° de chaque côté du plan longitudinal passant par le point de référence de position assise, jusqu’à ce que la tête factice entre en contact avec une surface intérieure ou jusqu’à ce qu’elle soit tangente à un plan horizontal situé à 25 mm (1 pouce) au-dessus du point de référence de position assise, selon ce qui se produit en premier; (*head impact area*)
 
 ***zone d’impact pelvienne*** désigne la partie de la porte ou du panneau latéral intérieur de la carrosserie adjacent à n’importe laquelle des places assises désignées extérieures et délimitée par 
+
 - **a)** deux plans horizontaux situés à 180 mm (7 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise, et
 - **b)** deux plans verticaux et transversaux, situés à 200 mm (8 po) devant et à 50 mm (2 po) derrière le point de référence de position assise. (*pelvic impact area*)
 
@@ -6533,7 +6403,9 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 ***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
 
+
 ***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
+
 
 - **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
 
@@ -6960,15 +6832,21 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 ***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*) 
 
+
 ***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*) 
+
 
 ***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*) 
 
+
 ***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*) 
+
 
 ***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*) 
 
+
 ***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*) 
+
 
 - **(2)** Le présent article s’applique aux joints de panneau de carrosserie d’un autobus scolaire qui se trouvent à l’arrière du plan vertical transversal situé à 762 mm en avant du point de référence de position assise du siège pour passager le plus avancé, à l’exclusion de ceux qui sont joints ou attachés à l’un des éléments suivants ou sont rapprochés de celui-ci :
 	- **a)** les pièces telles les bandes de protection qui sont entièrement à l’extérieur des panneaux de carrosserie;
@@ -7001,17 +6879,22 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 ***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*) 
 
+
 ***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*) 
+
 
 ***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas; (*W*) 
 
+
 ***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants : 
+
 - **a)** les plans horizontaux situés à 300 mm (12 po) et à 1 016 mm (40 po) au-dessus du point de référence de position assise,
 - **b)** un plan longitudinal vertical tangent au rebord intérieur (côté de l’allée) du siège,
 - **c)** un plan longitudinal vertical situé à 83 mm (3,25 po) à l’intérieur du rebord extérieur du siège, et
 - **d)** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
 
 ***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*) 
+
 
 - **(2)** Les autobus scolaires, lorsqu’ils sont soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Siège pour passager d’autobus scolaire et protection en cas de collision » (19 décembre 1983) doivent, pour les places assises désignées autres que le siège du conducteur, satisfaire aux exigences des paragraphes (6) à (12).
 
@@ -7099,13 +6982,18 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 ***coins arrondis*** Les points limites de la pièce horizontale du dispositif de protection arrière qui sont courbés vers le haut. (*rounded corners*)
 
+
 ***dispositif de protection arrière*** Dispositif monté sur l’arrière ou près de l’arrière d’une remorque de façon à limiter, lorsqu’elle est heurtée par l’arrière par un véhicule, la distance sur laquelle glisse sous son extrémité arrière l’avant du véhicule qui la heurte. (*rear impact guard*)
+
 
 ***dispositif de protection hydraulique*** Dispositif de protection arrière conçu pour utiliser les propriétés des fluides en vue de produire une force de résistance à la déformation. (*hydraulic guard*)
 
+
 ***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*)
 
+
 ***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière : 
+
 - **a)** les feux arrière;
 - **b)** les pare-chocs en caoutchouc;
 - **c)** les charnières et les loquets;
@@ -7113,21 +7001,30 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 ***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*)
 
+
 ***garde au sol*** La distance verticale à partir du bord inférieur de la pièce horizontale jusqu’au sol. (*ground clearance*)
+
 
 ***largeur du dispositif de protection*** À l’égard d’un dispositif de protection arrière monté sur une remorque, la dimension horizontale maximale du dispositif de protection arrière qui est perpendiculaire au plan vertical longitudinal passant par l’axe longitudinal de la remorque. (*guard width*)
 
+
 ***marchandises dangereuses*** S’entend au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md). (*dangerous goods*)
+
 
 ***pièce horizontale*** La pièce horizontale de charpente du dispositif de protection arrière. (*horizontal member*)
 
+
 ***remorque à châssis surbaissé*** Remorque dont le châssis se prolonge derrière le point le plus à l’arrière des pneus arrière et qui possède une surface arrière inférieure conforme aux exigences de configuration visées aux paragraphes (6) à (8). (*lowchassis trailer*)
+
 
 ***remorque à roues arrières reculées*** Remorque dont l’essieu le plus à l’arrière est fixé en permanence et est situé de façon que la surface la plus à l’arrière des pneus arrière qui sont de la taille recommandée par le fabricant de la remorque, pour cet essieu, se trouve à au plus 305 mm de l’avant du plan vertical transversal tangent à l’extrémité arrière de la remorque. (*wheels back trailer*)
 
+
 ***remorque-citerne*** Remorque qui est conçue exclusivement pour transporter des marchandises dangereuses et qui est conforme aux exigences sur la protection arrière de la norme nationale du Canada CAN/CSA-B620-98 intitulée Citernes routières et citernes amovibles pour le transport des marchandises dangereuses, (mai 1999), y compris les appendices A et B, modifiée en juillet 1999, en mars 2000, en septembre 2000, en octobre 2001, en novembre 2001 et en octobre 2002 et publiée par la CSA. (*tanker trailer*)
 
+
 ***remorque pour bois à pâte*** Remorque conçue exclusivement pour le transport de billes de bois coupées ou de bois à pâte et qui est construite avec un châssis-squelette n’ayant aucun dispositif permettant de fixer une plate-forme, une carrosserie ou un conteneur. (*pulpwood trailer*)
+
 
 ### Champ d’application
 
@@ -7641,9 +7538,12 @@ où :
 
 ***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*) 
 
+
 ***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*) 
 
+
 ***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*) 
+
 
 - **(2)** Le présent article s’applique aux remorques, conçues pour transporter des chargements, qui ont un PNBV égal ou supérieur à 10 000 kg, sont constituées d’un châssis porteur et d’une plate-forme de chargement et n’ont ni toit ni côtés permanents, telles que les remorques plateaux, les remorques lourdes, les remorques de manutention, les remorques porte-engins surbaissées et les remorques avec plancher surbaissé.
 
