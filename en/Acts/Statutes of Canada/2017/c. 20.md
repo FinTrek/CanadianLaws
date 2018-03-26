@@ -610,7 +610,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind8F4F_hq_20450'>[*]</a></sup>**(2)** Section 111 comes into force on the day on which section 160 of the Budget Implementation Act, 2016, No. 1 comes into force or, if it is later, on the day on which this Act receives royal assent.
 
-<a name='fn_Ind8F4F_hq_20450'><sup>*</sup></a>: [Note: Section 111 not in force.]<br />
+<a name='fn_Ind8F4F_hq_20450'><sup>*</sup></a>: [Note: Section 111 in force March 26, 2018, *see* SI/2018-28.]<br />
 
 
 
