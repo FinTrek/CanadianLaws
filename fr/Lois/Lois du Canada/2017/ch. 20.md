@@ -603,7 +603,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndBC3A_hq_20481'>[*]</a></sup>**(1)** L’article 110 entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndBC3A_hq_20481'><sup>*</sup></a>: [Note : Article 110 non en vigueur.]<br />
+<a name='fn_IndBC3A_hq_20481'><sup>*</sup></a>: [Note : Article 110 non en vigueur.]<br />
 
 **
 > 2016, ch. 7 ou sanction.
@@ -611,7 +611,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndBC3A_hq_20482'>[*]</a></sup>**(2)** L’article 111 entre en vigueur à la date d’entrée en vigueur de l’article 160 de la Loi no 1 d’exécution du budget de 2016 ou, si elle est postérieure, à la date de sanction de la présente loi.
 
-<a name='fn_IndBC3A_hq_20482'><sup>*</sup></a>: [Note : Article 111 non en vigueur.]<br />
+<a name='fn_IndBC3A_hq_20482'><sup>*</sup></a>: [Note : Article 111 en vigueur le 26 mars 2018, *voir* TR/2018-28.]<br />
 
 
 
