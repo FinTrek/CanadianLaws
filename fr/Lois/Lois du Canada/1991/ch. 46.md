@@ -12660,7 +12660,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 
 **PARTIE X** 
-## Capital et liquidités
+## Capital, liquidités et capacité à absorber des pertes
 
 
 
@@ -12693,22 +12693,56 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(1)** La banque est tenue de maintenir, pour son fonctionnement, un capital suffisant ainsi que des formes de liquidité suffisantes et appropriées, et de se conformer à tous les règlements relatifs à cette exigence.
 
+**Banques d’importance systémique nationale**
+
+- **(1.1)** S’agissant d’une banque d’importance systémique nationale, elle est aussi tenue de maintenir la capacité minimale à absorber des pertes qui est prévue au paragraphe (1.2) et de se conformer à tous les règlements relatifs à cette exigence.
+
+**Ordonnance du surintendant**
+
+- **(1.2)** Après avoir consulté les autres membres du comité constitué en vertu du paragraphe 18(1) de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md), le surintendant prévoit, par ordonnance, pour chaque banque d’importance systémique nationale, le montant correspondant à la capacité minimale de la banque à absorber des pertes.
+
+**Montant : paragraphe (1.2)**
+
+- **(1.21)** Le montant prévu au titre du paragraphe (1.2) comprend le capital ainsi que les actions et les éléments du passif visés par règlement, dont la valeur est déterminée conformément aux critères que le surintendant estime indiqués.
+
+**Intérêt public**
+
+- **(1.3)** Malgré le paragraphe (1.2), si, avant la prise de l’ordonnance, le ministre estime que le montant prévu par le surintendant n’est pas dans l’intérêt public, le surintendant prévoit un autre montant conformément à ce paragraphe.
+
+**Avis et publication**
+
+- **(1.4)** Le surintendant avise sans délai par écrit la banque de l’ordonnance prise à son égard au titre du paragraphe (1.2) et la fait publier dès que possible dans la Gazette du Canada et sur le site Web du Bureau du surintendant des institutions financières.
+
 **Règlements et lignes directrices**
 
-- **(2)** Le gouverneur en conseil peut prendre des règlements et le surintendant donner des lignes directrices concernant l’exigence formulée au paragraphe (1).
+- **(2)** Le gouverneur en conseil peut prendre des règlements et le surintendant peut donner des lignes directrices concernant le maintien par les banques d’un capital suffisant ainsi que de formes de liquidité suffisantes et appropriées et le maintien par les banques d’importance systémique nationale de la capacité minimale à absorber des pertes.
 
 **Ordonnance du surintendant**
 
 - **(3)** Même si la banque se conforme aux règlements ou lignes directrices visés au paragraphe (2), le surintendant peut, par ordonnance, lui enjoindre d’augmenter son capital ou de prévoir les formes et montants supplémentaires de liquidité qu’il estime indiqués.
 
-**Idem**
+**Ordonnances pour limiter ou interdire**
 
-- **(4)** La banque est tenue de se conformer à l’ordonnance visée au paragraphe (3) dans le délai que lui fixe le surintendant.
+- **(3.1)** Si le surintendant constate qu’une banque d’importance systémique nationale ne maintient pas sa capacité minimale à absorber des pertes, il en avise les autres membres du comité constitué en vertu du paragraphe 18(1) de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md) et peut, par ordonnance, prendre toute mesure qu’il estime indiquée, notamment :
+	- **a)** limiter la croissance de l’actif total de la banque;
+	- **b)** limiter ou interdire l’acquisition d’actifs par la banque;
+	- **c)** limiter ou interdire les paiements discrétionnaires à l’égard des actions ou titres secondaires de la banque;
+	- **d)** limiter ou interdire l’achat par la banque ou le rachat des actions, titres secondaires ou éléments du passif visés par règlement de la banque;
+	- **e)** limiter ou interdire la réduction du capital déclaré de la banque;
+	- **f)** limiter ou interdire l’ouverture de nouvelles succursales par la banque.
+
+**Consultation**
+
+- **(3.2)** Avant de prendre une ordonnance au titre du paragraphe (3.1) ou de modifier ou de révoquer une telle ordonnance, le surintendant consulte les autres membres du comité constitué en vertu du paragraphe 18(1) de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).
+
+**Délai**
+
+- **(4)** La banque se conforme à l’ordonnance visée aux paragraphes (3) ou (3.1) dans le délai précisé dans celle-ci.
 
 **Avis de la juste valeur**
 
 - **(5)** Lorsque la valeur qu’il a déterminée pour un élément de l’actif de la banque ou de l’une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la banque ou la filiale, le surintendant la notifie par écrit à la banque, à son ou à ses vérificateurs et à son comité de vérification.
-> 1991, ch. 46, art. 485; 1996, ch. 6, art. 7.
+> 1991, ch. 46, art. 485; 1996, ch. 6, art. 7; 2016, ch. 7, art. 160; 2017, ch. 20, art. 111.
 
 
 
@@ -12718,6 +12752,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **485.01** Le gouverneur en conseil peut prendre des règlements concernant les conditions que doivent remplir les banques d’importance systémique nationale pour l’émission, la création ou la modification d’actions et éléments du passif visés par règlement.
 > 2016, ch. 7, art. 161.
+
+
+
+
+
+**Règlements et lignes directrices : communication de renseignements**
+
+**485.02** Le gouverneur en conseil peut prendre des règlements et le surintendant donner des lignes directrices concernant la communication, par toute banque d’importance systémique nationale, de renseignements se rapportant à la capacité d’une telle banque à absorber des pertes.
+> 2016, ch. 7, art. 162.
 
 
 
