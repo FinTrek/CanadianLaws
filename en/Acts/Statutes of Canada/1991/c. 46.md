@@ -12830,7 +12830,7 @@ But if the loan or investment would be precluded or limited by this Part, the am
 
 
 **PART X** 
-## Adequacy of Capital and Liquidity
+## Capital, Liquidity and Capacity to Absorb Losses
 
 
 
@@ -12866,9 +12866,29 @@ But if the loan or investment would be precluded or limited by this Part, the am
 	- **(b)** adequate and appropriate forms of liquidity,
 and shall comply with any regulations in relation thereto.
 
+**Domestic systemically important banks**
+
+- **(1.1)** If the bank is a domestic systemically important bank, it shall also maintain the minimum capacity to absorb losses that is provided for under subsection (1.2) and shall comply with any regulations in relation to that requirement.
+
+**Superintendent’s order**
+
+- **(1.2)** For each domestic systemically important bank, the Superintendent shall, by order made after consulting with the other members of the committee established under subsection 18(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), provide for the amount that constitutes the bank’s minimum capacity to absorb losses.
+
+**Amount — subsection (1.2)**
+
+- **(1.21)** The amount set under subsection (1.2) consists of capital, prescribed shares and prescribed liabilities, which have the value determined in accordance with any criteria the Superintendent considers appropriate.
+
+**Public interest**
+
+- **(1.3)** Despite subsection (1.2), if, before the order is made, the Minister advises the Superintendent that the Minister is of the opinion that the amount provided for by the Superintendent is not in the public interest, the Superintendent shall provide for another amount in accordance with that subsection.
+
+**Notice and publication**
+
+- **(1.4)** If an order is made under subsection (1.2), the Superintendent shall, in writing and without delay, inform the bank that is subject to the order and shall, as soon as feasible, cause the order to be published in the Canada Gazette and on the website of the Office of the Superintendent of Financial Institutions.
+
 **Regulations and guidelines**
 
-- **(2)** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the maintenance by banks of adequate capital and adequate and appropriate forms of liquidity.
+- **(2)** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the maintenance by banks of adequate capital and adequate and appropriate forms of liquidity and the maintenance by domestic systemically important banks of the minimum capacity to absorb losses.
 
 **Directives**
 
@@ -12876,14 +12896,28 @@ and shall comply with any regulations in relation thereto.
 	- **(a)** to increase its capital; or
 	- **(b)** to provide additional liquidity in such forms and amounts as the Superintendent may require.
 
+**Orders to limit or prohibit**
+
+- **(3.1)** If the Superintendent becomes aware that a domestic systemically important bank is not maintaining its minimum capacity to absorb losses, the Superintendent shall notify the other members of the committee established under subsection 18(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md) and may, by order, take any measures that he or she considers appropriate, including
+	- **(a)** limiting the growth of the bank’s total assets;
+	- **(b)** limiting or prohibiting acquisitions of assets by the bank;
+	- **(c)** limiting or prohibiting discretionary payments in respect of the bank’s shares or subordinated indebtedness;
+	- **(d)** limiting or prohibiting purchases by the bank, or redemptions, of the bank’s shares, subordinated indebtedness or prescribed liabilities;
+	- **(e)** limiting or prohibiting reductions of the bank’s stated capital; and
+	- **(f)** limiting or prohibiting the opening of new branches by the bank.
+
+**Consultation**
+
+- **(3.2)** Before making an order under subsection (3.1) or varying or revoking such an order, the Superintendent shall consult with the other members of the committee established under subsection 18(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md).
+
 **Compliance**
 
-- **(4)** A bank shall comply with an order made under subsection (3) within such time as the Superintendent specifies therein.
+- **(4)** A bank shall comply with an order made under subsection (3) or (3.1) within the time that is specified in the order.
 
 **Notice of value**
 
 - **(5)** Where an appraisal of any asset held by a bank or any of its subsidiaries has been made by the Superintendent and the value determined by the Superintendent to be the appropriate value of the asset varies materially from the value placed by the bank or subsidiary on the asset, the Superintendent shall send to the bank, the auditor or auditors of the bank and the audit committee of the bank a written notice of the appropriate value of the asset as determined by the Superintendent.
-> 1991, c. 46, s. 485; 1996, c. 6, s. 7.
+> 1991, c. 46, s. 485; 1996, c. 6, s. 7; 2016, c. 7, s. 160; 2017, c. 20, s. 111.
 
 
 
@@ -12893,6 +12927,15 @@ and shall comply with any regulations in relation thereto.
 
 **485.01** The Governor in Council may make regulations respecting the conditions that domestic systemically important banks must meet in issuing, originating or amending prescribed shares or liabilities.
 > 2016, c. 7, s. 161.
+
+
+
+
+
+**Regulations and guidelines — disclosure of information**
+
+**485.02** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the disclosure by domestic systemically important banks of information in relation to their capacity to absorb losses.
+> 2016, c. 7, s. 162.
 
 
 
