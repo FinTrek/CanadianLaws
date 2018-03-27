@@ -2436,6 +2436,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Buffalo Point First Nation
 - Campbell River Indian Band
 - Cayoose Creek Indian Band
+- Chapleau Cree First Nation
 - Chawathil First Nation
 - Cheam
 - Chippewas of Georgina Island First Nation
@@ -2457,6 +2458,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Ehattesaht
 - Elsipogtog First Nation
 - Enoch Cree Nation #440
+- Esdilagh First Nation
 - Esquimalt Nation
 - Fisher River
 - Flying Dust First Nation
@@ -2488,11 +2490,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Kwaw-Kwaw-Apilt First Nation
 - Kwikwetlem First Nation
 - Lac La Ronge Indian Band
+- Lake Cowichan First Nation
 - Lake St. Martin
 - Lax Kw’alaams
 - Leq’á:mel First Nation
 - Lheidli T’enneh
 - Lhtako Dene Nation
+- Listuguj Mi’gmaq Government
 - Little Saskatchewan
 - Little Shuswap Lake Indian Band
 - Long Plain First Nation
@@ -2536,12 +2540,14 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Obashkaandagaang
 - Ochapowace
 - O’Chiese
+- Okanagan Indian Band
 - Onion Lake Cree Nation
 - Opaskwayak Cree Nation
 - Oromocto
 - Osoyoos Indian Band
 - Paqtnkek Mi’kmaw Nation
 - Pauingassi First Nation
+- Paul First Nation
 - Peepeekisis Cree Nation No. 81
 - Peguis
 - Penticton Indian Band
@@ -2572,6 +2578,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Serpent River First Nation
 - Seton Lake
 - Shackan First Nation
+- Sheguiandah First Nation
 - Sheshegwaning First Nation
 - Shuswap First Nation
 - Shxwhá:y Village First Nation
@@ -2588,6 +2595,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Skownan First Nation
 - Skwah
 - Sliammon First Nation
+- Snuneymuxw First Nation
 - Songhees First Nation
 - Soowahlie
 - Splatsin First Nation
@@ -2597,6 +2605,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - St. Mary’s First Nation
 - Sts’ailes
 - St. Theresa Point
+- Sturgeon Lake First Nation
 - Stz’uminus First Nation
 - Sumas First Nation
 - Sunchild First Nation
@@ -2635,6 +2644,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Xaxli’p
 - Yakweakwioose First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50.
 
 
