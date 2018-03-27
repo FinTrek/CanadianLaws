@@ -828,7 +828,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind1612_hq_21315'>[*]</a></sup>**179** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind1612_hq_21315'><sup>*</sup></a>: [Note : Section 3 non en vigueur.]<br />
+<a name='fn_Ind1612_hq_21315'><sup>*</sup></a>: [Note : Section 3 en vigueur le 27 mars 2018, *voir* TR/2018-29.]<br />
 
 
 
