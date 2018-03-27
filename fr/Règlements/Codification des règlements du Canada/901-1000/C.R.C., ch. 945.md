@@ -14241,10 +14241,10 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 
 
 
-**7305.1** Pour l’application du sous-alinéa (ii) de l’élément A de la formule figurant à l’alinéa 6(1)k) de la Loi, le montant prescrit pour une année d’imposition correspond au montant suivant :
-- **a)** 0,23 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
-- **b)** 0,26 $, dans les autres cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1; DORS/2006-250, art. 1; 2009, ch. 2, art. 113; DORS/2014-118, art. 1; DORS/2016-296, art. 1.
+**7305.1** Pour l’application du sous-alinéa (ii) de l’élément A de la formule figurant à l’alinéa 6(1)k) de la Loi, le montant prescrit pour une année d’imposition correspond au montant suivant :
+- **a)** 0,22 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
+- **b)** 0,25 $, dans les autres cas.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1; DORS/2006-250, art. 1; 2009, ch. 2, art. 113; DORS/2014-118, art. 1; DORS/2016-296, art. 1; DORS/2018-56, art. 1.
 
 
 
