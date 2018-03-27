@@ -2433,6 +2433,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Buffalo Point
 - Bande indienne Campbell River
 - Bande indienne Cayoose Creek
+- Première Nation crie de Chapleau
 - Première nation Chawathil
 - Cheam
 - Première nation Chippewas de Georgina Island
@@ -2454,6 +2455,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Ehattesaht
 - Première nation Elsipogtog
 - Nation crie Enoch #440
+- Première Nation Esdilagh
 - Nation Esquimalt
 - Fisher River
 - Première Nation Flying Dust
@@ -2485,6 +2487,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Kwaw-Kwaw Apilt
 - Première Nation Kwikwetlem
 - Bande indienne Lac La Ronge
+- Première Nation de Lake Cowichan
 - Lake St. Martin
 - Lax Kw’alaams
 - Première nation Leq’á:mel
@@ -2507,6 +2510,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation Metepenagiag Mi’kmaq
 - Première Nation Metlakatla
 - Micmacs de Gesgapegiag
+- Gouvernement des Micmacs de Listuguj
 - Bande Millbrook
 - Nation crie Misipawistik
 - Première Nation des Mississaugas de Scugog Island
@@ -2533,12 +2537,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Obashkaandagaang
 - Ochapowace
 - O’Chiese
+- Bande indienne Okanagan
 - Nation crie Onion Lake
 - Nation crie Opaskwayak
 - Oromocto
 - Bande indienne Osoyoos
 - Nation micmaque Paqtnkek
 - Première Nation Pauingassi
+- Première Nation Paul
 - Nation crie Peepeekisis no. 81
 - Peguis
 - Bande indienne Penticton
@@ -2569,6 +2575,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Serpent River
 - Seton Lake
 - Première Nation Shackan
+- Première Nation Sheguiandah
 - Première Nation Sheshegwaning
 - Première nation Shuswap
 - Première nation Shxwhá:y Village
@@ -2585,6 +2592,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation de Skownan
 - Skwah
 - Première nation Sliammon
+- Première Nation Snuneymuxw
 - Première nation Songhees
 - Soowahlie
 - Première Nation Splatsin
@@ -2594,6 +2602,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation St. Mary’s
 - Sts’ailes
 - St. Theresa Point
+- Première Nation du lac Sturgeon
 - Stz’uminus First Nation
 - Première nation Sumas
 - Première Nation Sunchild
@@ -2632,6 +2641,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Xaxli’p
 - Première nation Yakweakwioose
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50.
 
 
