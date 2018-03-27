@@ -14324,9 +14324,9 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 
 
 **7305.1** For the purpose of subparagraph (v) of the description of A in paragraph 6(1)(k) of the Act, the amount prescribed for a taxation year is
-- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 23 cents; and
-- **(b)** in any other case, 26 cents.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1; SOR/2006-250, s. 1; 2009, c. 2, s. 113; SOR/2014-118, s. 1; SOR/2016-296, s. 1.
+- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 22 cents; and
+- **(b)** in any other case, 25 cents.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1; SOR/2006-250, s. 1; 2009, c. 2, s. 113; SOR/2014-118, s. 1; SOR/2016-296, s. 1; SOR/2018-56, s. 1.
 
 
 
