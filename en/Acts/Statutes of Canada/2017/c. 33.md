@@ -828,7 +828,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndEB0A_hq_21284'>[*]</a></sup>**179** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndEB0A_hq_21284'><sup>*</sup></a>: [Note: Division 3 not in force.]<br />
+<a name='fn_IndEB0A_hq_21284'><sup>*</sup></a>: [Note: Division 3 in force March 27, 2018, *see* SI/2018-29.]<br />
 
 
 
