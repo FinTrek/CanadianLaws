@@ -1046,9 +1046,10 @@ and shall add the sum so paid to the recoverable portion of the sale price or lo
 **Definition of Indian reserve**
 
 - **(4)** In this section, ***Indian reserve*** means
-	- **(a)** a reserve, as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); or
-	- **(b)** Category IA land or Category IA-N land, as defined in the Cree-Naskapi (of Quebec) Act.
-> R.S., 1970, c. V-4, s. 46; 1984, c. 18, s. 217.
+	- **(a)** a reserve, as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md);
+	- **(b)** Category IA-N land, as defined in subsection 2(1) of the [Naskapi and the Cree-Naskapi Commission Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2018.md); or
+	- **(b.1)** Category IA land, as defined in subsection 2(2) of the [Cree Nation of Eeyou Istchee Governance Agreement Act](/en/Acts/Statutes%20of%20Canada/2018/c.%204,%20s.%201.md).
+> R.S., 1970, c. V-4, s. 46; 1984, c. 18, s. 217; 2018, c. 4, s. 126.
 
 
 
