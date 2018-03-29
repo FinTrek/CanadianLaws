@@ -804,6 +804,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee<br />- <i>Cree Nation of Eeyou Istchee Governance Agreement Act</i>
+
 Loi sur l’accord définitif concernant la Première Nation de Tsawwassen<br />- <i>Tsawwassen First Nation Final Agreement Act</i>
 
 Loi sur l’accord définitif concernant les premières nations maanulthes<br />- <i>Maanulth First Nations Final Agreement Act</i>
@@ -822,7 +824,7 @@ Loi sur l’éducation des Mi’kmaq<br />- <i>Mi’kmaq Education Act</i>
 
 Loi sur le gouvernement du territoire provisoire de Kanesatake<br />- <i>Kanesatake Interim Land Base Governance Act</i>
 
- Loi sur les Cris et les Naskapis du Québec<br />- <i>Cree-Naskapi (of Quebec) Act</i>
+Loi sur les Naskapis et la Commission crie-naskapie<br />- <i>Naskapi and the Cree-Naskapi Commission Act</i>
 
 Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho<br />- <i>Tlicho Land Claims and Self-Government Act</i>
 
@@ -857,6 +859,6 @@ Entente sur l’autonomie gouvernementale du Conseil des Ta’an Kwach’an<br /
 Entente sur l’autonomie gouvernementale du conseil des Tlingits de Teslin<br />- <i>Teslin Tlingit Council Self-Government Agreement</i>
 
 
-> 2008, ch. 22, ann., ch. 32, art. 31; 2009, ch. 18, art. 24; 2014, ch. 11, art. 26.
+> 2008, ch. 22, ann., ch. 32, art. 31; 2009, ch. 18, art. 24; 2014, ch. 11, art. 26; 2018, ch. 4, art. 133.
 
 
