@@ -220,7 +220,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Loi sur les Cris et les Naskapis du Québec
 
 
-**89 et 90** [Modifications]
+**89 et 90** [Abrogés avant d’entrer en vigueur, 2018, ch. 4, art. 125]
 
 
 
