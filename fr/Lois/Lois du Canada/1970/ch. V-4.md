@@ -1039,8 +1039,9 @@ et il doit ajouter la somme ainsi versée à la partie recouvrable du prix de ve
 
 - **(4)** Au présent article, ***réserve indienne*** désigne
 	- **a)** une réserve, au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md); et
-	- **b)** les terres des catégories IA et IA-N, au sens de la Loi sur les Cris et les Naskapis du Québec.
-> S.R. 1970, ch. V-4, art. 46; 1984, ch. 18, art. 217.
+	- **b)** les terres de catégorie IA-N, au sens du paragraphe 2(1) de la [Loi sur les Naskapis et la Commission crie-naskapie](/fr/Lois/Lois%20du%20Canada/1984/ch.%2018.md);
+	- **b.1)** les terres de catégorie IA, au sens du paragraphe 2(2) de la [Loi sur l’accord concernant la gouvernance de la nation crie d’Eeyou Istchee](/fr/Lois/Lois%20du%20Canada/2018/ch.%204,%20art.%201.md).
+> S.R. 1970, ch. V-4, art. 46; 1984, ch. 18, art. 217; 2018, ch. 4, art. 126.
 
 
 
