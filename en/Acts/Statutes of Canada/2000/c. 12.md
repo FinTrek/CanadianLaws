@@ -220,7 +220,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## Cree-Naskapi (of Quebec) Act
 
 
-**89 and 90** [Amendments]
+**89 and 90** [Repealed before coming into force, 2018, c. 4, s. 125]
 
 
 
