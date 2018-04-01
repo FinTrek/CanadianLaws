@@ -229,8 +229,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exclusive jurisdiction**
 
-**18** The Board has full and exclusive juris­diction to hear, determine and deal with all applications for review that may be made to the Board under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or the Canadian Forces Members and Veterans Re-establishment and Compensation Act, and all matters related to those applications.
-> 1995, c. 18, s. 18; 2005, c. 21, s. 110.
+**18** The Board has full and exclusive juris­diction to hear, determine and deal with all applications for review that may be made to the Board under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md), and all matters related to those applications.
+> 1995, c. 18, s. 18; 2005, c. 21, s. 110; 2017, c. 20, s. 292.
 
 
 
@@ -244,8 +244,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Refusal to establish review panel**
 
-- **(2)** The Chairperson, or any member to whom the Chairperson has delegated the authority, may refuse to establish a review panel to hear an application for review of a decision concerning the amount of an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or the amount of a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, if the Chairperson or member, as the case may be, considers the application to be such that no reasonable review panel could dispose of it in a manner favourable to the applicant.
-> 1995, c. 18, s. 19; 1999, c. 10, s. 38; 2000, c. 34, s. 66(F); 2005, c. 21, s. 111; 2015, c. 36, s. 226.
+- **(2)** The Chairperson, or any member to whom the Chairperson has delegated the authority, may refuse to establish a review panel to hear an application for review of a decision concerning the amount of an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or the amount of a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md), if the Chairperson or member, as the case may be, considers the application to be such that no reasonable review panel could dispose of it in a manner favourable to the applicant.
+> 1995, c. 18, s. 19; 1999, c. 10, s. 38; 2000, c. 34, s. 66(F); 2005, c. 21, s. 111; 2015, c. 36, s. 226; 2017, c. 20, s. 292.
 
 
 
@@ -371,8 +371,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Questions of interpretation**
 
-**30** Where the appellant raises a question of interpretation relating to this Act, to the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), to Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, to any other Act of Parliament pursuant to which an appeal may be taken to the Board or to any regulations made under any such Act and the appeal panel is of the opinion that the question is not trivial, frivolous or vexatious, it shall notify the prescribed persons or organizations and give them an opportunity to present argument on the question before it makes its decision.
-> 1995, c. 18, s. 30; 2005, c. 21, s. 112.
+**30** Where the appellant raises a question of interpretation relating to this Act, to the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), to Part 3 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md), to any other Act of Parliament pursuant to which an appeal may be taken to the Board or to any regulations made under any such Act and the appeal panel is of the opinion that the question is not trivial, frivolous or vexatious, it shall notify the prescribed persons or organizations and give them an opportunity to present argument on the question before it makes its decision.
+> 1995, c. 18, s. 30; 2005, c. 21, s. 112; 2017, c. 20, s. 292.
 
 
 
@@ -427,7 +427,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **34** 
 
-- **(1)** A person who has been refused an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, and who has exhausted all procedures for review and appeal under this Act may apply to the Board for a compassionate award.
+- **(1)** A person who has been refused an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md), and who has exhausted all procedures for review and appeal under this Act may apply to the Board for a compassionate award.
 
 **Panel**
 
@@ -435,11 +435,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Granting of compassionate award**
 
-- **(3)** A panel may grant a compassionate award if it considers the case to be specially meritorious and the applicant is unqualified to receive an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act.
+- **(3)** A panel may grant a compassionate award if it considers the case to be specially meritorious and the applicant is unqualified to receive an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md).
 
 **Amount**
 
-- **(4)** The amount of a compassionate award shall be any sum that the panel may fix, but may not exceed the amount to which the applicant would have been entitled if the applicant’s claim under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or the Canadian Forces Members and Veterans Re-establishment and Compensation Act had been upheld.
+- **(4)** The amount of a compassionate award shall be any sum that the panel may fix, but may not exceed the amount to which the applicant would have been entitled if the applicant’s claim under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md) had been upheld.
 
 **Review by Minister**
 
@@ -464,7 +464,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of compassionate award**
 
 - **(8)** In this section, ***compassionate award*** means a compassionate pension, allowance or supplementary award.
-> 1995, c. 18, s. 34; 2000, c. 34, s. 67; 2005, c. 21, s. 113; 2015, c. 3, s. 159(F), c. 36, s. 227.
+> 1995, c. 18, s. 34; 2000, c. 34, s. 67; 2005, c. 21, s. 113; 2015, c. 3, s. 159(F), c. 36, s. 227; 2017, c. 20, s. 292.
 
 
 
@@ -500,7 +500,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **37** 
 
-- **(1)** The Minister, the Chief Pensions Advocate, any veterans’ organization incorporated by or under an Act of Parliament or any interested person may refer to the Board for a hearing and decision on any question of interpretation relating to this Act, to the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), to Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, to any other Act of Parliament pursuant to which an appeal may be taken to the Board or to any regulations made under any such Act.
+- **(1)** The Minister, the Chief Pensions Advocate, any veterans’ organization incorporated by or under an Act of Parliament or any interested person may refer to the Board for a hearing and decision on any question of interpretation relating to this Act, to the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), to Part 3 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md), to any other Act of Parliament pursuant to which an appeal may be taken to the Board or to any regulations made under any such Act.
 
 **Notice**
 
@@ -509,7 +509,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Refusal to hear trivial questions**
 
 - **(3)** The Board may refuse to hear and decide any question referred to it under this section that it considers to be trivial, frivolous or vexatious.
-> 1995, c. 18, s. 37; 2005, c. 21, s. 114.
+> 1995, c. 18, s. 37; 2005, c. 21, s. 114; 2017, c. 20, s. 292.
 
 
 
