@@ -2139,8 +2139,8 @@ plus de 13 %
 
 **Définition de participant**
 
-**58** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur à l’égard de qui une période de prestations a été établie ou a pris fin au cours des soixante derniers mois.
-> 1996, ch. 23, art. 58; 2015, ch. 36, art. 153; 2016, ch. 7, art. 216.
+**58** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est soit un chômeur à l’égard de qui une période de prestations a été établie ou a pris fin au cours des soixante derniers mois, soit un chômeur ayant versé, pendant au moins cinq des dix dernières années, des cotisations ouvrières ne donnant pas droit à un remboursement au titre du paragraphe 96(4).
+> 1996, ch. 23, art. 58; 2015, ch. 36, art. 153; 2016, ch. 7, art. 216; 2017, ch. 20, art. 306.
 
 
 
@@ -2179,15 +2179,17 @@ plus de 13 %
 **Mesures de soutien**
 
 - **(4)** À l’appui du service national de placement, la Commission peut mettre sur pied des mesures de soutien ayant pour but d’aider ou de soutenir :
-	- **a)** les organismes qui offrent des services d’aide à l’emploi aux chômeurs;
+	- **a)** les organismes qui offrent des services d’aide à l’emploi;
 	- **b)** les employeurs, les associations d’employés ou d’employeurs, les organismes communautaires et les collectivités à développer et à mettre en application des stratégies permettant de faire face aux changements au sein de la population active et de satisfaire aux exigences en matière de ressources humaines;
 	- **c)** la recherche et l’innovation afin de trouver de meilleures façons d’aider les personnes à devenir ou rester aptes à occuper ou à reprendre un emploi et à être des membres productifs du marché du travail.
 
 **Restrictions**
 
 - **(5)** Les mesures prévues à l’alinéa (4)b) :
-	- **a)** ne sont pas destinées à des employés, sauf s’ils risquent de perdre leur emploi;
+	- **a)** ne sont pas destinées à des employés, sauf s’ils risquent de perdre leur emploi ou s’ils ont besoin d’aide pour le conserver;
 	- **b)** ne peuvent fournir d’aide directe du gouvernement fédéral pour de la formation liée au marché du travail sans l’accord du gouvernement de la province intéressée.
+> 1996, ch. 23, art. 60; 2017, ch. 20, art. 307.
+
 
 
 
@@ -2232,26 +2234,13 @@ plus de 13 %
 	- **a)** des frais liés à des prestations ou mesures similaires à celles prévues par la présente partie et qui correspondent à l’objet et aux lignes directrices qui y sont prévus;
 	- **b)** des frais liés à l’administration de ces prestations ou mesures par ce gouvernement ou organisme.
 
-**Participants**
-
-- **(2)** Un accord peut être conclu en vertu du paragraphe (1) avec un gouvernement même si les prestations fournies par celui-ci le sont uniquement au bénéfice d’un ***participant*** au sens de l’article 58, dans sa version antérieure au 23 juin 2015, dont le texte figure à l’annexe III.
-> 1996, ch. 23, art. 63; 2015, ch. 36, art. 154; 2016, ch. 7, art. 217.
+- **(2)** [Abrogé, 2017, ch. 20, art. 308]
+> 1996, ch. 23, art. 63; 2015, ch. 36, art. 154; 2016, ch. 7, art. 217; 2017, ch. 20, art. 308.
 
 
 
 
-
-**Versement de contributions : participants**
-
-**63.1** 
-
-- **(1)** Lorsqu’un accord conclu avec un gouvernement en vertu de l’article 63 prévoit le versement à celui-ci d’une contribution relative à tout ou partie des frais liés à des prestations similaires à celles prévues par la présente partie et que les prestations à fournir par le gouvernement sont uniquement au bénéfice d’un ***participant*** au sens de l’article 58, dans sa version antérieure au 23 juin 2015, dont le texte figure à l’annexe III, la contribution est uniquement versée aux termes de l’accord pour les frais liés à des prestations qui sont au bénéfice du ***participant*** au sens de cet article 58.
-
-**Application**
-
-- **(2)** Le paragraphe (1) s’applique aux accords conclus avant ou après la date d’entrée en vigueur du présent paragraphe ou à cette date.
-> 2015, ch. 36, art. 155; 2016, ch. 7, art. 218.
-
+**63.1** [Abrogé, 2017, ch. 20, art. 309]
 
 
 
@@ -7460,26 +7449,7 @@ Il est aussi tenu de verser au receveur général, au plus tard à la date d’e
 
 
 ### **ANNEXE III** 
-**(paragraphes 63(2) et 63.1(1))**
-## Texte de l’article 58 dans sa version antérieure au 23 juin 2015
-
-**Définition de participant**
-
-**58** 
-
-- **(1)** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur à l’égard de qui, selon le cas :
-	- **a)** une période de prestations a été établie ou a pris fin au cours des trente-six derniers mois;
-	- **b)** une période de prestations a été établie au cours des soixante derniers mois et qui :
-		- **(i)** a bénéficié de prestations spéciales, au titre de l’article 22 ou 23, au cours de la période de prestations,
-		- **(ii)** a subséquemment quitté le marché du travail pour prendre soin de son ou de ses nouveau-nés ou d’un ou plusieurs enfants placés chez lui en vue de leur adoption,
-		- **(iii)** tente de réintégrer le marché du travail.
-
-**Définition de période de prestations ou de prestations spéciales**
-
-- **(2)** Pour l’application du paragraphe (1), ***période de prestations*** s’entend en outre d’une période de prestations établie au titre de la Loi sur l’assurance-chômage et ***prestations spéciales*** s’entend en outre des prestations visées aux articles 18 ou 20 de cette loi.
-
-
-> 2016, ch. 7, art. 224.
+[Abrogée, 2017, ch. 20, art. 310]
 
 
 
