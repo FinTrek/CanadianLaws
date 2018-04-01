@@ -93,7 +93,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Précision**
 
-**6** L’Accord ne constitue pas un traité au sens de l’article 35 de la Loi constitutionnelle de 1982.
+**6** L’Accord ne constitue pas un traité au sens de l’article 35 de la Loi constitutionnelle de 1982.
 
 
 
