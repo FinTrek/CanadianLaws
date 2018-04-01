@@ -545,7 +545,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **102** 
 
-- **(1)** A person who received an earnings loss benefit under subsection 18(1) or 22(1) of the Canadian Forces Members and Veterans Re-establishment and Compensation Act for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for that period had not been taken into account — is entitled to receive an amount determined in accordance with the formula
+- **(1)** A person who received an earnings loss benefit under subsection 18(1) or 22(1) of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md) for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for that period had not been taken into account — is entitled to receive an amount determined in accordance with the formula
 ```
 A – B – C
 ```
@@ -556,7 +556,9 @@ where
 
 **Payment**
 
-- **(2)** Any amount paid or payable under subsection (1) is deemed to be an earnings loss benefit paid or payable under the Canadian Forces Members and Veterans Re-establishment and Compensation Act.
+- **(2)** Any amount paid or payable under subsection (1) is deemed to be an earnings loss benefit paid or payable under the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md).
+> 2014, c. 20, s. 102; 2017, c. 20, s. 292.
+
 
 
 
@@ -565,7 +567,7 @@ where
 
 **103** 
 
-- **(1)** A person who received a Canadian Forces income support benefit under any of sections 27 to 31 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for that period had not been taken into account — is entitled to receive an amount determined in accordance with the formula
+- **(1)** A person who received a Canadian Forces income support benefit under any of sections 27 to 31 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md) for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for that period had not been taken into account — is entitled to receive an amount determined in accordance with the formula
 ```
 A – B – C
 ```
@@ -576,7 +578,9 @@ where
 
 **Payment**
 
-- **(2)** Any amount paid or payable under subsection (1) is deemed to be a Canadian Forces income support benefit paid or payable under the Canadian Forces Members and Veterans Re-establishment and Compensation Act.
+- **(2)** Any amount paid or payable under subsection (1) is deemed to be a Canadian Forces income support benefit paid or payable under the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md).
+> 2014, c. 20, s. 103; 2017, c. 20, s. 292.
+
 
 
 
@@ -632,15 +636,15 @@ where
 
 - **(1)** The following definitions apply in this section.
 
-***common-law partner*** means a person who is cohabiting with another person in a conjugal relationship and has done so for a period of at least one year.
+***common-law partner*** means a person who is cohabiting with another person in a conjugal relationship and has done so for a period of at least one year. (*conjoint de fait*)
 
 ***dependent child***
-- **(a)** in the case of a payment made under section 102 or 103, has the same meaning as in subsection 2(1) of the Canadian Forces Members and Veterans Re-establishment and Compensation Act; and
-- **(b)** in the case of a payment made under section 104 or 105, has the same meaning as in subsection 2(1) of the [War Veterans Allowance Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-3.md).
+- **(a)** in the case of a payment made under section 102 or 103, has the same meaning as in subsection 2(1) of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md); and
+- **(b)** in the case of a payment made under section 104 or 105, has the same meaning as in subsection 2(1) of the [War Veterans Allowance Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-3.md). (*enfant à charge*)
 
-***survivor***, in relation to a deceased person, means 
+***survivor***, in relation to a deceased person, means
 - **(a)** their spouse who was, at the time of the person’s death, residing with the person; or
-- **(b)** the person who was, at the time of the person’s death, the person’s common-law partner.
+- **(b)** the person who was, at the time of the person’s death, the person’s common-law partner. (*survivant*)
 
 **Couples living apart**
 
@@ -655,6 +659,8 @@ where
 	- **(a)** if, at the time of death, there is a survivor, the survivor is entitled to 100% of the amount;
 	- **(b)** if, at the time of death, there is no survivor, but there are one or more dependent children, each of those children is entitled to the amount obtained by dividing the amount to be paid by the number of those dependent children; and
 	- **(c)** if, at the time of death, there is no survivor or dependent child, no amount is to be paid.
+> 2014, c. 20, s. 107; 2017, c. 20, s. 292.
+
 
 
 
