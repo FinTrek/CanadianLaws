@@ -545,7 +545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **102** 
 
-- **(1)** Est versée à la personne qui a reçu une allocation pour perte de revenus en vertu des paragraphes 18(1) ou 22(1) de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes pour la période commençant le 29 mai 2012 et se terminant le 30 septembre 2012 — ou qui aurait été admissible à recevoir une telle allocation si la pension d’invalidité lui ayant été versée en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour cette période n’avait pas été prise en compte — la somme correspondant au résultat du calcul suivant :
+- **(1)** Est versée à la personne qui a reçu une allocation pour perte de revenus en vertu des paragraphes 18(1) ou 22(1) de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) pour la période commençant le 29 mai 2012 et se terminant le 30 septembre 2012 — ou qui aurait été admissible à recevoir une telle allocation si la pension d’invalidité lui ayant été versée en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour cette période n’avait pas été prise en compte — la somme correspondant au résultat du calcul suivant :
 ```
 A – B – C
 ```
@@ -556,7 +556,9 @@ où :
 
 **Versement**
 
-- **(2)** Toute somme versée ou à verser au titre du paragraphe (1) est réputée être une allocation pour perte de revenus versée ou à verser en vertu de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes.
+- **(2)** Toute somme versée ou à verser au titre du paragraphe (1) est réputée être une allocation pour perte de revenus versée ou à verser en vertu de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md).
+> 2014, ch. 20, art. 102; 2017, ch. 20, art. 292.
+
 
 
 
@@ -565,7 +567,7 @@ où :
 
 **103** 
 
-- **(1)** Est versée à la personne qui a reçu une allocation de soutien du revenu en vertu de l’un ou l’autre des articles 27 à 31 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes pour la période commençant le 29 mai 2012 et se terminant le 30 septembre 2012 — ou qui aurait été admissible à recevoir une telle allocation si la pension d’invalidité lui ayant été versée en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour cette période n’avait pas été prise en compte — la somme correspondant au résultat du calcul suivant :
+- **(1)** Est versée à la personne qui a reçu une allocation de soutien du revenu en vertu de l’un ou l’autre des articles 27 à 31 de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) pour la période commençant le 29 mai 2012 et se terminant le 30 septembre 2012 — ou qui aurait été admissible à recevoir une telle allocation si la pension d’invalidité lui ayant été versée en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour cette période n’avait pas été prise en compte — la somme correspondant au résultat du calcul suivant :
 ```
 A – B – C
 ```
@@ -576,7 +578,9 @@ où :
 
 **Versement**
 
-- **(2)** Toute somme versée ou à verser au titre du paragraphe (1) est réputée être une allocation de soutien du revenu versée ou à verser en vertu de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes.
+- **(2)** Toute somme versée ou à verser au titre du paragraphe (1) est réputée être une allocation de soutien du revenu versée ou à verser en vertu de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md).
+> 2014, ch. 20, art. 103; 2017, ch. 20, art. 292.
+
 
 
 
@@ -632,15 +636,15 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***enfant à charge*** S’entend :
-- **a)** dans le cas des versements visés aux articles 102 et 103, au sens du paragraphe 2(1) de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes;
-- **b)** dans le cas des versements visés aux articles 104 et 105, au sens du paragraphe 2(1) de la [Loi sur les allocations aux anciens combattants](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-3.md).
+***enfant à charge*** S’entend :
+- **a)** dans le cas des versements visés aux articles 102 et 103, au sens du paragraphe 2(1) de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md);
+- **b)** dans le cas des versements visés aux articles 104 et 105, au sens du paragraphe 2(1) de la [Loi sur les allocations aux anciens combattants](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-3.md). (*dependent child*)
 
-***survivant*** Selon le cas :
+***survivant*** Selon le cas :
 - **a)** l’époux qui, au moment du décès de la personne en cause, résidait avec celle-ci;
-- **b)** la personne qui, au moment du décès de la personne en cause, était son conjoint de fait.
+- **b)** la personne qui, au moment du décès de la personne en cause, était son conjoint de fait. (*survivor*)
 
 **Couples séparés**
 
@@ -655,6 +659,8 @@ où :
 	- **a)** si, au moment du décès, il y a un survivant, la somme lui est versée en entier;
 	- **b)** si, au moment du décès, il n’y a pas de survivant, mais qu’il y a un ou plusieurs enfants à charge, chacun d’eux reçoit la somme résultant de la division de la somme à verser par le nombre d’enfants à charge;
 	- **c)** si, au moment du décès, il n’y a ni survivant ni enfant à charge, aucune somme n’est versée.
+> 2014, ch. 20, art. 107; 2017, ch. 20, art. 292.
+
 
 
 
