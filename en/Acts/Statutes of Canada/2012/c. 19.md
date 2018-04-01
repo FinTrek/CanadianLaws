@@ -4289,31 +4289,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 50** 
-### Canadian Forces Members and Veterans Re-establishment and Compensation Act
+### [Repealed before coming into force, 2017, c. 20, s. 297]
+
+
+**682** [Repealed before coming into force, 2017, c. 20, s. 297]
 
 
 
-#### Amendments to the Act
-
-
-**682** [Amendment]
+**683** [Repealed before coming into force, 2017, c. 20, s. 297]
 
 
 
-**683** [Amendments]
-
-
-
-
-#### Coming into Force
-
-
-
-**Order in council**
-
-<sup><a href='#fn_IndCFCB_hq_12946'>[*]</a></sup>**684** This Division comes into force on a day to be fixed by order of the Governor in Council.
-
-<a name='fn_IndCFCB_hq_12946'><sup>*</sup></a>: [Note: Division 50 not in force.]<br />
+**684** [Repealed, 2017, c. 20, s. 297]
 
 
 
