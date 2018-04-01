@@ -4674,8 +4674,8 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $11.930 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
-		- **(ii)** $0.63 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** the number of litres of absolute ethyl alcohol in the spirits to which the offence relates multiplied by the rate of duty per litre of absolute ethyl alcohol applicable under section 1 of Schedule 4 at the time the offence was committed,
+		- **(ii)** the number of litres of wine to which the offence relates multiplied by the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed, and
 		- **(iii)** $10 multiplied by the number of litres of specially denatured alcohol or a restricted formulation to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
@@ -4683,8 +4683,8 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $23.860 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
-		- **(ii)** $1.26 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** the number of litres of absolute ethyl alcohol in the spirits to which the offence relates multiplied by 200% of the rate of duty per litre of absolute ethyl alcohol applicable under section 1 of Schedule 4 at the time the offence was committed,
+		- **(ii)** the number of litres of wine to which the offence relates multiplied by 200% of the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed, and
 		- **(iii)** $20 multiplied by the number of litres of specially denatured alcohol or a restricted formulation to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
 > 2002, c. 22, s. 217; 2006, c. 4, s. 44; 2007, c. 18, s. 118; 2017, c. 20, s. 52.
@@ -4705,16 +4705,16 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $23.860 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
-		- **(ii)** $1.26 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** the number of litres of absolute ethyl alcohol in the spirits to which the offence relates multiplied by 200% of the rate of duty per litre of absolute ethyl alcohol applicable under section 1 of Schedule 4 at the time the offence was committed, and
+		- **(ii)** the number of litres of wine to which the offence relates multiplied by 200% of the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $35.790 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
-		- **(ii)** $1.89 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** the number of litres of absolute ethyl alcohol in the spirits to which the offence relates multiplied by 300% of the rate of duty per litre of absolute ethyl alcohol applicable under section 1 of Schedule 4 at the time the offence was committed, and
+		- **(ii)** the number of litres of wine to which the offence relates multiplied by 300% of the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
 > 2002, c. 22, s. 218; 2006, c. 4, s. 45; 2007, c. 18, s. 119; 2017, c. 20, s. 53.
 
@@ -5048,7 +5048,7 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 **Contravention of section 72**
 
-**242** Every person who contravenes section 72 is liable to a penalty equal to $1.26 per litre of wine to which the contravention relates.
+**242** Every person who contravenes section 72 is liable to a penalty equal to the number of litres of wine to which the contravention relates multiplied by 200% of the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed.
 > 2002, c. 22, s. 242; 2006, c. 4, s. 46; 2017, c. 20, s. 55.
 
 
@@ -5061,13 +5061,13 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 - **(1)** Unless section 239, 241, 242 or 243.1 or subsection (2) applies, every person who contravenes section 73, 74 or 90 is liable to a penalty equal to
 	- **(a)** if the contravention relates to spirits, 200% of the duty that was imposed on the spirits; or
-	- **(b)** if the contravention relates to wine, $1.26 per litre of that wine.
+	- **(b)** if the contravention relates to wine, the number of litres of that wine multiplied by 200% of the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed.
 
 **Contravention of section 73 or 90 by licensed user**
 
 - **(2)** Every licensed user who exports, gives possession of or takes for use alcohol in contravention of section 73 or 90 is liable to a penalty equal to
 	- **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
-	- **(b)** if the contravention relates to wine, $0.63 per litre of that wine.
+	- **(b)** if the contravention relates to wine, the number of litres of that wine multiplied by the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed.
 > 2002, c. 22, s. 243; 2006, c. 4, s. 47; 2007, c. 18, s. 124; 2017, c. 20, s. 56.
 
 
@@ -5078,7 +5078,7 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 **243.1** Every person who contravenes section 76, 89 or 91 is liable to a penalty equal to
 - **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
-- **(b)** if the contravention relates to wine, $0.63 per litre of that wine.
+- **(b)** if the contravention relates to wine, the number of litres of that wine multiplied by the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed.
 > 2007, c. 18, s. 124; 2017, c. 20, s. 57.
 
 
@@ -7041,7 +7041,7 @@ where
 
 
 ### **SCHEDULE 4** 
-**(Sections 122, 123, 123.1 and 159.1)**
+**(Sections 122, 123, 123.1, 159.1, 217 and 218)**
 ## Rates of Duty on Spirits
 **1** Spirits: per litre of absolute ethyl alcohol contained in the spirits,
 
@@ -7084,7 +7084,7 @@ $0.12 per litre of absolute ethyl alcohol contained in the spirits.
 
 
 ### **SCHEDULE 6** 
-**(Sections 134, 135, 135.1 and 159.1)**
+**(Sections 134, 135, 135.1, 159.1, 217, 218, 242, 243 and 243.1)**
 ## Rates of Duty on Wine
 Wine:
 
