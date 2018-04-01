@@ -4643,8 +4643,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 11,930 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 0,63 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
+		- **(i)** le produit du nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte par le taux de droit applicable par litre d’alcool éthylique absolu, prévu à l’article 1 de l’annexe 4, au moment de la perpétration de l’infraction,
+		- **(ii)** le produit du nombre de litres de vin auxquels l’infraction se rapporte par le taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction,
 		- **(iii)** le produit de 10 $ par le nombre de litres d’alcool spécialement dénaturé ou de préparation assujettie à des restrictions auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
@@ -4652,8 +4652,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 23,860 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,26 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
+		- **(i)** le produit du nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte par 200 % du taux de droit applicable par litre d’alcool éthylique absolu, prévu à l’article 1 de l’annexe 4, au moment de la perpétration de l’infraction,
+		- **(ii)** le produit du nombre de litres de vin auxquels l’infraction se rapporte par 200 % du taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction,
 		- **(iii)** le produit de 20 $ par le nombre de litres d’alcool spécialement dénaturé ou de préparation assujettie à des restrictions auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 > 2002, ch. 22, art. 217; 2006, ch. 4, art. 44; 2007, ch. 18, art. 118; 2017, ch. 20, art. 52.
@@ -4674,16 +4674,16 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 23,860 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,26 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
+		- **(i)** le produit du nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte par 200 % du taux de droit applicable par litre d’alcool éthylique absolu, prévu à l’article 1 de l’annexe 4, au moment de la perpétration de l’infraction,
+		- **(ii)** le produit du nombre de litres de vin auxquels l’infraction se rapporte par 200 % du taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 35,790 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,89 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
+		- **(i)** le produit du nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte par 300 % du taux de droit applicable par litre d’alcool éthylique absolu, prévu à l’article 1 de l’annexe 4, au moment de la perpétration de l’infraction,
+		- **(ii)** le produit du nombre de litres de vin auxquels l’infraction se rapporte par 300 % du taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 > 2002, ch. 22, art. 218; 2006, ch. 4, art. 45; 2007, ch. 18, art. 119; 2017, ch. 20, art. 53.
 
@@ -5015,7 +5015,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Contravention — art. 72**
 
-**242** Quiconque contrevient à l’article 72 est passible d’une pénalité de 1,26 $ le litre sur le vin auquel la contravention se rapporte.
+**242** Quiconque contrevient à l’article 72 est passible d’une pénalité égale au produit du nombre de litres de vin auquel la contravention se rapporte par 200 % du taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction.
 > 2002, ch. 22, art. 242; 2006, ch. 4, art. 46; 2017, ch. 20, art. 55.
 
 
@@ -5028,13 +5028,13 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(1)** Sauf en cas d’application des articles 239, 241, 242 ou 243.1 ou du paragraphe (2), quiconque contrevient aux articles 73, 74 ou 90 est passible de la pénalité suivante :
 	- **a)** si la contravention se rapporte à des spiritueux, le montant représentant 200 % des droits imposés sur les spiritueux;
-	- **b)** si la contravention se rapporte à du vin, 1,26 $ le litre de vin.
+	- **b)** si la contravention se rapporte à du vin, le produit du nombre de litres de vin par 200 % du taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction.
 
 **Contravention de l’art. 73 ou 90 par l’utilisateur agréé**
 
 - **(2)** Tout utilisateur agréé qui, en contravention des articles 73 ou 90, exporte de l’alcool, l’utilise pour soi ou le met en la possession de quiconque est passible de la pénalité suivante :
 	- **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
-	- **b)** si la contravention se rapporte à du vin, 0,63 $ le litre de vin.
+	- **b)** si la contravention se rapporte à du vin, le produit du nombre de litres de vin par le taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction.
 > 2002, ch. 22, art. 243; 2006, ch. 4, art. 47; 2007, ch. 18, art. 124; 2017, ch. 20, art. 56.
 
 
@@ -5045,7 +5045,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **243.1** Quiconque contrevient aux articles 76, 89 ou 91 est passible de la pénalité suivante :
 - **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
-- **b)** si la contravention se rapporte à du vin, 0,63 $ le litre de vin.
+- **b)** si la contravention se rapporte à du vin, le produit du nombre de litres de vin par le taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction.
 > 2007, ch. 18, art. 124; 2017, ch. 20, art. 57.
 
 
@@ -6986,7 +6986,7 @@ où :
 
 
 ### **ANNEXE 4** 
-**(articles 122, 123, 123.1 et 159.1)**
+**(articles 122, 123, 123.1, 159.1, 217 et 218)**
 ## Taux du droit sur les spiritueux
 **1** Spiritueux : par litre d’alcool éthylique absolu contenu dans les spiritueux :
 
@@ -7025,7 +7025,7 @@ Droit spécial sur les spiritueux : 0,12 $ le litre d’alcool éthylique abso
 
 
 ### **ANNEXE 6** 
-**(articles 134, 135, 135.1 et 159.1)**
+**(articles 134, 135, 135.1, 159.1, 217, 218, 242, 243 et 243.1)**
 ## Taux du droit sur le vin
 Vin :
 
