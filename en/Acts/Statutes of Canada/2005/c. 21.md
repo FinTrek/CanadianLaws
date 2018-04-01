@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md)
 
-# Canadian Forces Members and Veterans Re-establishment and Compensation Act
+# Veterans Well-being Act
 
 **S.C. 2005, c. 21**
 
@@ -24,7 +24,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Short title**
 
-**1** This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act.
+**1** This Act may be cited as the Veterans Well-being Act.
+> 2005, c. 21, s. 1; 2017, c. 20, s. 270.
+
 
 
 
@@ -49,7 +51,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***common-law partner***, in relation to a member or a veteran, means a person who is cohabiting with the member or veteran in a conjugal relationship, having so cohabited for a period of at least one year. (*conjoint de fait*)
 
-***compensation*** means any of the following benefits under this Act, namely, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a family caregiver relief benefit. (*indemnisation*)
+***compensation*** means any of the following benefits under this Act, namely, an education and training benefit, an education and training completion bonus, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a caregiver recognition benefit. (*indemnisation*)
 
 ***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
@@ -130,7 +132,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deeming — medical assistance in dying**
 
 - **(7)** For the purposes of this Act, if a member or a veteran receives medical assistance in dying, that member or veteran is deemed to have died as a result of the illness, disease or disability for which they were determined to be eligible to receive that assistance, in accordance with paragraph 241.2(3)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9, c. 7, s. 97.
+> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9, c. 7, s. 97; 2017, c. 20, s. 271.
 
 
 
@@ -154,16 +156,40 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Eligibility — members and veterans**
+**Eligibility**
 
 **3** 
 
-- **(1)** The Minister may, on application, provide career transition services to a member or a veteran who meets the prescribed eligibility requirements if the Minister is satisfied that the member or veteran requires assistance in making the transition to the civilian labour force.
+- **(1)** Subject to this section, the Minister may, on application, provide career transition services to
+	- **(a)** a member who has completed basic training;
+	- **(b)** a veteran who completed basic training and who was released from the Canadian Forces on or after April 1, 2006;
+	- **(c)** a veteran who is entitled to a Canadian Forces income support benefit;
+	- **(d)** a spouse or common-law partner of a veteran who completed basic training and who was released from the Canadian Forces on or after April 1, 2006;
+	- **(e)** a survivor of a member who completed basic training and who died on or after April 1, 2006;
+	- **(f)** a survivor of a veteran who completed basic training and who was released from the Canadian Forces on or after April 1, 2006; and
+	- **(g)** a survivor who is entitled to a Canadian Forces income support benefit.
 
-**Assistance to spouses, common-law partners and survivors**
+**Limitation — member**
 
-- **(2)** The Minister may, on application, provide career transition services to a member’s or a veteran’s spouse, common-law partner or survivor if the spouse, common-law partner or survivor meets the prescribed eligibility requirements.
-> 2005, c. 21, s. 3; 2011, c. 12, s. 3.
+- **(2)** Career transition services may be provided to a member only if the member resides in Canada and the Minister is satisfied that they require assistance in making the transition to the civilian labour force.
+
+**Limitation — veteran**
+
+- **(3)** Career transition services may be provided to a veteran only if
+	- **(a)** the veteran resides in Canada;
+	- **(b)** the Minister is satisfied that the veteran requires assistance in making the transition to the civilian labour force; and
+	- **(c)** the veteran is not receiving rehabilitation services or vocational assistance under Part 2.
+
+**Limitation — spouse, common-law partner or survivor**
+
+- **(4)** Career transition services may be provided to a spouse, common-law partner or survivor only if they reside in Canada and are not receiving rehabilitation services or vocational assistance under Part 2.
+
+**Period — spouse or common-law partner of veteran**
+
+- **(5)** A spouse or common-law partner of a veteran who completed basic training and who was released from the Canadian Forces on or after April 1, 2006 may receive career transition services until the later of
+	- **(a)** March 31, 2020, and
+	- **(b)** the second anniversary of the day on which the veteran was released.
+> 2005, c. 21, s. 3; 2011, c. 12, s. 3; 2017, c. 20, s. 272.
 
 
 
@@ -173,7 +199,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** The Minister shall, on approving an application made under section 3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to career counselling, job-search training and job-finding assistance.
+- **(1)** The Minister shall, on approving an application made under section 3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to the career transition services that may be provided to them under this Part.
 
 **Career transition plan**
 
@@ -182,16 +208,212 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Development of plan**
 
 - **(3)** In developing a career transition plan, the Minister shall have regard to any prescribed principles.
-> 2005, c. 21, s. 4; 2011, c. 12, s. 4.
+> 2005, c. 21, s. 4; 2011, c. 12, s. 4; 2017, c. 20, s. 273.
 
 
 
 
 
-**Refusal to provide services**
+**Suspend or cancel**
 
-**5** The Minister may refuse to provide career transition services to a person under this Part to the extent that the person is entitled to receive those types of services from another organization or body.
-> 2005, c. 21, s. 5; 2011, c. 12, s. 5.
+**5** The Minister may, in the prescribed circumstances, suspend or cancel the provision of career transition services to a person under this Part.
+> 2005, c. 21, s. 5; 2011, c. 12, s. 5; 2017, c. 20, s. 274.
+
+
+
+
+
+**Regulations**
+
+**5.1** The Governor in Council may make regulations
+- **(a)** respecting the career transition services that may be provided under this Part; and
+- **(b)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of subsections 3(2) to (4).
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**PART 1.1** 
+## Education and Training Benefit
+
+
+
+**Eligibility — veterans**
+
+**5.2** 
+
+- **(1)** The Minister may, on application, pay an education and training benefit to a veteran in accordance with section 5.3 or 5.5 if the veteran
+	- **(a)** served for a total of at least six years in the regular force, in the reserve force or in both; and
+	- **(b)** was honourably released from the Canadian Forces on or after April 1, 2006.
+
+**Maximum cumulative amount**
+
+- **(2)** The maximum cumulative amount that the Minister may pay to a veteran is $40,000 or, if the veteran served for a total of at least 12 years in the regular force, in the reserve force or in both, $80,000.
+
+**Definitions**
+
+- **(3)** In this section, regular force and reserve force have the same meanings as in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Course of study at educational institution**
+
+**5.3** 
+
+- **(1)** An education and training benefit may be paid to a veteran entitled to a benefit under this Part in respect of
+	- **(a)** education or training received from an educational institution as part of a course of study leading to the completion of a degree, diploma, certification or designation; and
+	- **(b)** any expenses, including living expenses, that may be incurred by the veteran while enrolled at the institution.
+
+**Request for payment**
+
+- **(2)** A veteran requesting payment in respect of education or training described in paragraph (1)(a) shall provide the Minister with proof of acceptance, enrolment or registration at the institution for an upcoming period of study and with any prescribed information.
+
+**Additional information**
+
+- **(3)** The Minister may request that the veteran provide the Minister with additional information for the purpose of making the determination under subsection (4).
+
+**Minister’s determination**
+
+- **(4)** On being provided with the proof and information, the Minister shall, if he or she is satisfied that the requested payment may be made to the veteran, determine
+	- **(a)** the amount of the payment;
+	- **(b)** the period of study to which that amount is allocated; and
+	- **(c)** the day on which the payment is to be made.
+
+**Payment day**
+
+- **(5)** The day on which the payment is to be made must be no earlier than the 60th day before
+	- **(a)** the day on which fees for the education or training are due to be paid to the institution in respect of the period of study; or
+	- **(b)** the day on which the period of study begins, if the institution fixes no day on which the fees are due.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Education and training completion bonus**
+
+**5.4** On application, the Minister may pay, over and above an education and training benefit, an education and training completion bonus in the prescribed amount to a veteran who receives a degree, diploma, certification or designation in respect of which they received a payment of an education and training benefit under section 5.3.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Other education or training**
+
+**5.5** 
+
+- **(1)** An education and training benefit may be paid to a veteran entitled to a benefit under this Part for fees charged by the provider of any education or training, other than education or training described in paragraph 5.3(1)(a), that is approved by the Minister.
+
+**Maximum cumulative amount**
+
+- **(2)** The maximum cumulative amount that may be paid to a veteran for such fees is the prescribed amount.
+
+**Request for payment**
+
+- **(3)** A veteran requesting payment for such fees shall provide the Minister with a description of the education or training, the amount of the fees, the name of the provider and any prescribed information.
+
+**Additional information**
+
+- **(4)** The Minister may request that the veteran provide the Minister with additional information for the purpose of making the determination under subsection (5).
+
+**Minister’s determination**
+
+- **(5)** On being provided with the information referred to in subsections (3) and (4), the Minister may approve the education or training and shall, if he or she gives the approval and is satisfied that the requested payment may be made to the veteran, determine
+	- **(a)** the amount of the payment; and
+	- **(b)** the day on which the payment is to be made.
+
+**Payment day**
+
+- **(6)** The day on which the payment is to be made must be no earlier than the 60th day before
+	- **(a)** the day on which fees for the education or training are due to be paid to the provider; or
+	- **(b)** the day on which the education or training begins, if the provider fixes no day on which the fees are due.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**No payment to member**
+
+**5.6** For greater certainty, the Minister is not permitted to pay an education and training benefit to a person who is a member.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**No payment — other services or benefit**
+
+**5.7** The Minister is not permitted to pay an education and training benefit to a veteran if they are being provided with rehabilitation services or vocational assistance under Part 2, or are entitled to a Canadian Forces income support benefit under that Part.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Limitation — incarceration**
+
+**5.8** If a veteran is incarcerated in a correctional institution and is not responsible for paying their living expenses, the Minister may limit the amount of an education and training benefit payable to the veteran to the amount that is, in the Minister’s opinion, required to allow the veteran to participate in the education or training.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Duration of benefit**
+
+**5.9** 
+
+- **(1)** An education and training benefit ceases to be payable to a veteran on the later of
+	- **(a)** April 1, 2028, and
+	- **(b)** the day after the 10th anniversary of the day on which the veteran was last released from the Canadian Forces.
+
+**Education or training ending after cessation**
+
+- **(2)** A payment of an education and training benefit that is made before the day on which the benefit ceases to be payable may be made in respect of education or training that ends on or after that day.
+
+**Exception**
+
+- **(3)** Despite subsection (1), the Minister may, in the prescribed circumstances, pay an education and training benefit after it would otherwise cease to be payable.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Limitation**
+
+**5.91** The Minister is not permitted to pay an education and training benefit to a veteran after the day on which they receive the last of the payments totalling the maximum cumulative amount to which they are entitled on that day, despite any adjustment to the maximum cumulative amount that is made under the regulations after that day.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Suspension or cancellation**
+
+**5.92** The Minister may, in the prescribed circumstances, suspend the payment of an education and training benefit or cancel the benefit.
+> 2017, c. 20, s. 274.
+
+
+
+
+
+**Regulations**
+
+**5.93** The Governor in Council may make regulations
+- **(a)** prescribing how the length of service in the reserve force is to be determined for the purposes of paragraph 5.2(1)(a);
+- **(b)** respecting what constitutes honourable release for the purpose of paragraph 5.2(1)(b);
+- **(c)** providing for the periodic adjustment of the maximum cumulative amount referred to in subsection 5.2(2);
+- **(d)** defining educational institution for the purposes of paragraph 5.3(1)(a);
+- **(e)** prescribing the education or training that may or may not be approved by the Minister under section 5.5; and
+- **(f)** defining what constitutes incarceration in a correctional institution for the purposes of section 5.8.
+> 2017, c. 20, s. 274.
 
 
 
@@ -941,30 +1163,7 @@ where
 
 
 
-
-**Waiver of application**
-
-**40.5** 
-
-- **(1)** The Minister may waive the requirement for an application for the retirement income security benefit if the Minister is satisfied that the veteran or survivor would be eligible for the benefit if they were to apply for it based on information that has been collected or obtained by the Minister in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions in respect of the earnings loss benefit, career impact allowance or disability award or in respect of the disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
-
-**Notice of intent**
-
-- **(2)** If the Minister intends to waive the requirement for an application, the Minister shall notify the veteran or survivor in writing of that intention.
-
-**Accepting waiver**
-
-- **(3)** If the veteran or survivor accepts the waiver of the requirement for an application, the veteran or survivor shall, within the period specified by the Minister, file with the Minister any information requested by the Minister.
-
-**Declining waiver**
-
-- **(4)** The veteran or the survivor may, within the period specified by the Minister, decline a waiver of the requirement for an application by notifying the Minister in writing of their decision to do so.
-
-**Cancellation of waiver**
-
-- **(5)** Even if the Minister intends to waive the requirement for an application, the Minister may require that the veteran or the survivor make an application for the retirement income security benefit and, in that case, the Minister shall notify the veteran or survivor in writing of that requirement.
-> 2015, c. 36, s. 210; 2016, c. 7, s. 97.
-
+**40.5** [Repealed, 2017, c. 20, s. 275]
 
 
 
@@ -1009,8 +1208,8 @@ where
 
 **Non-application of this Part**
 
-**42** This Part, other than sections 44.1 to 44.3, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
-> 2005, c. 21, s. 42; 2015, c. 36, s. 213.
+**42** This Part, other than sections 44.1 and 44.2, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+> 2005, c. 21, s. 42; 2015, c. 36, s. 213; 2017, c. 20, s. 276.
 
 
 
@@ -1067,30 +1266,7 @@ where
 
 
 
-
-**Waiver of application**
-
-**44.3** 
-
-- **(1)** The Minister may waive the requirement for an application in subsection 44.1(1) if the Minister is satisfied, based on information that has been collected or obtained by the Minister in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions, including in respect of the disability award or in respect of the disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), that the member or veteran is entitled to the critical injury benefit.
-
-**Notice of intent**
-
-- **(2)** If the Minister intends to waive the requirement for an application, the Minister shall notify the member or veteran in writing of that intention.
-
-**Accepting waiver**
-
-- **(3)** If the member or veteran accepts the waiver of the requirement for an application, the member or the veteran shall, within the period specified by the Minister, file with the Minister any information requested by the Minister.
-
-**Declining waiver**
-
-- **(4)** The member or veteran may, within the period specified by the Minister, decline a waiver of the requirement for an application by notifying the Minister in writing of their decision to do so.
-
-**Cancellation of waiver**
-
-- **(5)** Even if the Minister intends to waive the requirement for an application, the Minister may require that the member or veteran make an application for the critical injury benefit and, in that case, the Minister shall notify the member or veteran in writing of that requirement.
-> 2015, c. 36, s. 214.
-
+**44.3** [Repealed, 2017, c. 20, s. 277]
 
 
 
@@ -1493,7 +1669,7 @@ where
 
 
 **PART 3.1** 
-## Family Caregiver Relief Benefit
+## Caregiver Recognition Benefit
 
 
 
@@ -1501,10 +1677,11 @@ where
 
 **65.1** 
 
-- **(1)** The Minister may, on application, pay a family caregiver relief benefit to a veteran if
-	- **(a)** they have had an application for a disability award approved under section 45;
-	- **(b)** as a result of the disability for which the application for a disability award was approved, they require ongoing care;
-	- **(c)** a person who is 18 years of age or older plays an essential role in the provision or coordination of the ongoing care in the veteran’s home for which the person receives no remuneration; and
+- **(1)** The Minister may, on application by a veteran, pay a caregiver recognition benefit to a person designated by the veteran if
+	- **(a)** the veteran has had an application for a disability award approved under section 45;
+	- **(b)** as a result of the disability for which the application for a disability award was approved, the veteran requires ongoing care;
+	- **(b.1)** the veteran has not been awarded a pension or compensation as those terms are defined in subsection 3(1) of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md);
+	- **(c)** the designated person is 18 years of age or older and plays an essential role in the provision or coordination of the ongoing care to the veteran in the veteran’s home for which the person receives no remuneration; and
 	- **(d)** the veteran meets the prescribed eligibility requirements.
 
 **Criteria to be considered**
@@ -1513,12 +1690,10 @@ where
 
 **Factors to be considered**
 
-- **(3)** In deciding whether the person referred to in paragraph (1)(c) plays an essential role in the provision or coordination of the ongoing care in the veteran’s home, the Minister shall consider only prescribed factors.
+- **(3)** In deciding whether a designated person plays an essential role in the provision or coordination of the ongoing care to the veteran in the veteran’s home, the Minister shall consider only prescribed factors.
 
-**Ineligibility**
-
-- **(4)** A veteran who is eligible for an attendance allowance under subsection 38(1) of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) is not eligible for a family caregiver relief benefit.
-> 2015, c. 36, s. 217.
+- **(4)** [Repealed, 2017, c. 20, s. 279]
+> 2015, c. 36, s. 217; 2017, c. 20, s. 279.
 
 
 
@@ -1526,8 +1701,61 @@ where
 
 **Amount of benefit**
 
-**65.2** The annual amount of a family caregiver relief benefit that is payable to a veteran shall be the amount set out in column 2 of item 5 of Schedule 2.
-> 2015, c. 36, s. 217.
+**65.2** The monthly amount of a caregiver recognition benefit that is payable to a designated person shall be the amount set out in column 2 of item 5 of Schedule 2.
+> 2015, c. 36, s. 217; 2017, c. 20, s. 280.
+
+
+
+
+
+**Only one designated person**
+
+**65.21** A veteran may, for the purpose of subsection 65.1(1), designate only one person at a time.
+> 2017, c. 20, s. 280.
+
+
+
+
+
+**When benefit payable**
+
+**65.22** 
+
+- **(1)** Subject to subsection (2), a caregiver recognition benefit begins to be payable on the first day of the month in which the application for the benefit is made.
+
+**Replacement of designated person**
+
+- **(2)** If a veteran, by means of a new application for a caregiver recognition benefit, replaces the designated person with a new designated person, the caregiver recognition benefit begins to be payable to the new designated person on the later of
+	- **(a)** the first day of the month in which the new application is made, and
+	- **(b)** the day on which the benefit ceases to be payable to the previously designated person.
+> 2017, c. 20, s. 280.
+
+
+
+
+
+**When benefit ceases to be payable**
+
+**65.23** A caregiver recognition benefit ceases to be payable on the earliest of
+- **(a)** the first day of the month after the month in which the conditions of eligibility set out in paragraphs 65.1(1)(a) to (d) are no longer met,
+- **(b)** the first day of the month after the month in which the veteran makes a new application to replace the designated person with a new designated person, or
+- **(c)** the first day of the month after the month in which the veteran or the designated person dies.
+> 2017, c. 20, s. 280.
+
+
+
+
+
+**Change in circumstances — veteran**
+
+**65.24** 
+
+- **(1)** A veteran shall inform the Minister if there is any change in circumstances relating to the conditions of eligibility set out in paragraphs 65.1(1)(a) to (d) or if the designated person dies.
+
+**Change in circumstances — designated person**
+
+- **(2)** A designated person shall inform the Minister if there is any change in circumstances relating to the conditions of eligibility set out in paragraph 65.1(1)(c) or if the veteran who designated the person dies.
+> 2017, c. 20, s. 280.
 
 
 
@@ -1535,8 +1763,17 @@ where
 
 **Assessment**
 
-**65.3** The Minister may, for the purpose of determining whether a veteran may continue to receive a family caregiver relief benefit, require the veteran to undergo an assessment by a person specified by the Minister.
-> 2015, c. 36, s. 217.
+**65.3** The Minister may, for the purpose of determining whether a designated person may continue to receive a caregiver recognition benefit, require the veteran who designated the person to undergo an assessment by a person specified by the Minister.
+> 2015, c. 36, s. 217; 2017, c. 20, s. 280.
+
+
+
+
+
+**Suspension or cancellation**
+
+**65.31** The Minister may, in the prescribed circumstances, suspend the payment of a caregiver recognition benefit or cancel the benefit.
+> 2017, c. 20, s. 280.
 
 
 
@@ -1762,6 +1999,56 @@ where
 
 
 
+### Waiver
+
+
+
+**Waiver of requirement for application**
+
+**78.1** 
+
+- **(1)** The Minister may waive the requirement for an application for compensation, career transition services, rehabilitation services or vocational assistance under this Act if he or she believes, based on information that has been collected or obtained by him or her in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions, that a person may be eligible for the compensation, services or assistance if they were to apply for it.
+
+**Notice of intent**
+
+- **(2)** If the Minister intends to waive the requirement for an application in respect of a person, the Minister shall notify the person in the prescribed manner of that intention.
+
+**Accepting waiver**
+
+- **(3)** The person may accept to have the requirement for an application waived by notifying the Minister in the prescribed manner of their decision to accept the waiver and, in that case, the person shall, in any period specified by the Minister, provide him or her with any information or document that he or she requests.
+
+**Date of waiver**
+
+- **(4)** The requirement for an application is waived on the day on which the Minister receives the person’s notice of their decision to accept the waiver of the requirement.
+
+**Minister may require application**
+
+- **(5)** The Minister may, at any time after he or she notifies the person of his or her intention to waive the requirement for an application and for any reason that he or she considers reasonable in the circumstances, including if the person does not provide the Minister with the information that he or she requested in the period that he or she specifies, require that the person make an application and, in that case, the Minister shall notify the person in writing of that requirement.
+
+**Waiver cancelled**
+
+- **(6)** A waiver is cancelled on the day on which the Minister notifies the person that they are required to make an application.
+> 2017, c. 20, s. 281.
+
+
+
+
+
+**Effect of waiver**
+
+**78.2** 
+
+- **(1)** If the requirement for an application for compensation, career transition services, rehabilitation services or vocational assistance under this Act is waived by the Minister, the application is deemed to have been made on the day on which the requirement is waived.
+
+**Effect of cancelling waiver**
+
+- **(2)** Despite subsection (1), if the waiver is cancelled after the day on which the Minister receives the person’s notice of their decision to accept the waiver, no application is deemed to have been made.
+> 2017, c. 20, s. 281.
+
+
+
+
+
 ### Inspection
 
 
@@ -1831,10 +2118,10 @@ where
 
 
 
-**Review of decision under Part 2 or 3.1**
+**Review of decision under Part 1, 1.1, 2 or 3.1**
 
-**83** Subject to the regulations, the Minister may, on application or on the Minister’s own motion, review a decision made under Part 2 or 3.1 or under this section.
-> 2005, c. 21, s. 83; 2015, c. 36, s. 220.
+**83** Subject to the regulations, the Minister may, on application or on the Minister’s own motion, review a decision made under Part 1, 1.1, 2 or 3.1 or under this section.
+> 2005, c. 21, s. 83; 2015, c. 36, s. 220; 2017, c. 20, s. 282.
 
 
 
@@ -1870,6 +2157,31 @@ where
 
 
 
+### Payments
+
+
+
+**Amount paid to survivor**
+
+**87.1** 
+
+- **(1)** Any amount that is payable under this Act to a person who dies before receiving it, is to be paid to their survivor.
+
+**Amount paid to estate or succession**
+
+- **(2)** However, the amount is to be paid to the person’s estate or succession if they have no survivor or their survivor dies before receiving the amount.
+
+**Definition of survivor**
+
+- **(3)** For the purposes of subsections (1) and (2), ***survivor***, in relation to a deceased person, means
+	- **(a)** their spouse who was, at the time of the person’s death, residing with them; or
+	- **(b)** the person who was, at the time of the person’s death, cohabiting with them in a conjugal relationship and had done so for a period of at least one year.
+> 2017, c. 20, s. 283.
+
+
+
+
+
 ### Overpayments
 
 
@@ -1897,16 +2209,16 @@ where
 
 **Erroneous payments of benefits or allowances**
 
-- **(4)** Despite anything in this Act, the Minister may continue the payment of an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
+- **(4)** Despite anything in this Act, the Minister may continue the payment of an education and training benefit, earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a caregiver recognition benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
 	- **(a)** the amount paid to the person to which the person was not entitled is the result of an administrative error, a delay or an oversight on the part of an officer or employee of the federal public administration and has been remitted under paragraph (3)(d);
 	- **(b)** no part of the amount paid to the person to which the person was not entitled was the result of a misrepresentation or of concealment of a material fact on the part of the person, in the opinion of the Minister;
 	- **(c)** the cancellation or reduction of the benefit or allowance would, in the opinion of the Minister, cause undue hardship to the person; and
-	- **(d)** the benefit or allowance has been paid to the person for five years or more.
+	- **(d)** the benefit or allowance has been paid to the person for five years or more or, in the case of an education and training benefit, for three years or more.
 
 **Recovery of overpayments**
 
 - **(5)** If a person retains any amount of a member’s or a veteran’s compensation paid after the member’s or veteran’s death and to which the member or veteran was not entitled, that amount may be deducted from any compensation paid to that person.
-> 2005, c. 21, s. 88; 2015, c. 36, s. 221; 2016, c. 7, s. 97.
+> 2005, c. 21, s. 88; 2015, c. 36, s. 221; 2016, c. 7, s. 97; 2017, c. 20, s. 284.
 
 
 
@@ -1984,9 +2296,10 @@ where
 - **(b)** respecting the time and manner of payment of compensation under this Act;
 - **(c)** providing for the periodic adjustment of the amounts set out in Schedules 1 to 3;
 - **(d)** providing for the payment or the reimbursement of fees for financial advice;
-- **(e)** respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information, declaration or document is provided;
-- **(f)** respecting the procedure to be followed by the Minister in suspending or cancelling rehabilitation services, vocational assistance or payment of compensation;
-- **(g)** providing for a review of any decisions made under Part 2 or 3.1 or under section 83, including the grounds for review, the powers on review and the number of reviews;
+- **(e)** respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, an education and training benefit, an education and training completion bonus, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit, bonus or allowance until the information, declaration or document is provided;
+- **(e.1)** respecting the provision of any information, declaration or document to the Minister by any veteran who applies for a caregiver recognition benefit under subsection 65.1(1) or by the person designated in the application, and authorizing the Minister to suspend payment of the benefit until the information, declaration or document is provided;
+- **(f)** respecting the procedure to be followed by the Minister in suspending or cancelling career transition services, rehabilitation services, vocational assistance or payment of compensation;
+- **(g)** providing for a review of any decisions made under Part 1, 1.1, 2 or 3.1 or under section 83, including the grounds for review, the powers on review and the number of reviews;
 - **(h)** respecting the time and manner of making an application for a review under sections 83 and 84;
 - **(i)** respecting the processes and procedures to be followed by the Minister in making decisions under this Act;
 - **(i.1)** respecting the determination of an amount of interest for the purposes of the description of C in paragraph 52.1(1)(b);
@@ -1994,7 +2307,7 @@ where
 - **(j)** prescribing any matter required or authorized by this Act to be prescribed;
 - **(j.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined; and
 - **(k)** generally, for carrying out the purposes and provisions of this Act.
-> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222; 2016, c. 7, s. 97.
+> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222; 2016, c. 7, s. 97; 2017, c. 20, s. 285.
 
 
 
@@ -2013,8 +2326,8 @@ where
 
 **Retroactive application of regulations**
 
-**94.1** Regulations made in respect of the retirement income security benefit and the family caregiver relief benefit under subsections 40.1(5), 40.2(5), 40.3(5) and 40.4(5) and sections 41, 65.4 and 94 may, if they so provide, be retroactive.
-> 2015, c. 36, s. 223.
+**94.1** Regulations made in respect of the retirement income security benefit and the caregiver recognition benefit under subsections 40.1(5), 40.2(5), 40.3(5) and 40.4(5) and sections 41, 65.4 and 94 may, if they so provide, be retroactive.
+> 2015, c. 36, s. 223; 2017, c. 20, s. 286.
 
 
 
@@ -2273,12 +2586,12 @@ where
 </tr>
 <tr>
 <td>5</td>
-<td>Family caregiver relief benefit</td>
-<td>7,238.00 (yearly)</td>
+<td>Caregiver recognition benefit</td>
+<td>1,000.00 (monthly)</td>
 </tr>
 </table>
 
-> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225; 2016, c. 7, ss. 93 to 95, 97.
+> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225; 2016, c. 7, ss. 93 to 95, 97; 2017, c. 20, s. 287.
 
 
 
