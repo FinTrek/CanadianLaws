@@ -219,10 +219,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Information that shall be made available to Minister**
 
 **13** The following personal information relating to the person who sustained the injury shall, if requested by the Minister, be made available to the Minister to determine the applicant’s eligibility for a benefit:
-- **(a)** personal information collected or obtained by the Department of Veterans Affairs in the administration of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act;
+- **(a)** personal information collected or obtained by the Department of Veterans Affairs in the administration of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or Part 3 of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md);
 - **(b)** personal information collected or obtained by the Department of Transport in the administration of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or any predecessor enactment relating to the same subject-matter; and
 - **(c)** personal information collected or obtained by the Library and Archives of Canada in the administration of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), or any predecessor enactment relating to the same subject-matter.
-> 2003, c. 14, ss. 13, 20; 2004, c. 11, s. 33; 2005, c. 21, s. 104.
+> 2003, c. 14, ss. 13, 20; 2004, c. 11, s. 33; 2005, c. 21, s. 104; 2017, c. 20, s. 292.
 
 
 
