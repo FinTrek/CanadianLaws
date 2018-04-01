@@ -4288,31 +4288,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 50** 
-### Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des forces canadiennes
+### [Abrogée avant d’entrer en vigueur, 2017, ch. 20, art. 297]
+
+
+**682** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 297]
 
 
 
-#### Modification de la loi
-
-
-**682** [Modification]
+**683** [Abrogé avant d’entrer en vigueur, 2017, ch. 20, art. 297]
 
 
 
-**683** [Modifications]
-
-
-
-
-#### Entrée en vigueur
-
-
-
-**Décret**
-
-<sup><a href='#fn_Ind21A3_hq_12937'>[*]</a></sup>**684** La présente section entre en vigueur à la date fixée par décret.
-
-<a name='fn_Ind21A3_hq_12937'><sup>*</sup></a>: [Note : Section 50 non en vigueur.]<br />
+**684** [Abrogé, 2017, ch. 20, art. 297]
 
 
 
