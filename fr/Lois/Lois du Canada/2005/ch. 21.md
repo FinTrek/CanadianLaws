@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md)
 
-# Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes
+# Loi sur le bien-être des vétérans
 
 **L.C. 2005, ch. 21**
 
@@ -24,7 +24,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes.
+**1** Loi sur le bien-être des vétérans.
+> 2005, ch. 21, art. 1; 2017, ch. 20, art. 270.
+
 
 
 
@@ -56,7 +58,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées. (*Canadian Forces*)
 
-***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour incidence sur la carrière, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation pour relève d’un aidant familial prévues par la présente loi. (*compensation*)
+***indemnisation*** Allocation pour études et formation, prime à l’achèvement des études ou de la formation, allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour incidence sur la carrière, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation de reconnaissance pour aidant prévues par la présente loi. (*compensation*) 
 
 ***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental. (*disability*)
 
@@ -124,7 +126,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption — aide médicale à mourir**
 
 - **(7)** Pour l’application de la présente loi, le militaire ou le vétéran qui a reçu l’aide médicale à mourir est réputé être décédé en raison de la maladie, de l’affection ou du handicap pour lequel il a été jugé admissible à cette aide au titre de l’alinéa 241.2(3)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9, ch. 7, art. 97.
+> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9, ch. 7, art. 97; 2017, ch. 20, art. 271.
 
 
 
@@ -148,16 +150,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Admissibilité : militaire et vétéran**
+**Admissibilité**
 
 **3** 
 
-- **(1)** Le ministre peut, sur demande, fournir des services de réorientation professionnelle au militaire ou vétéran qui satisfait aux conditions d’admissibilité réglementaires s’il est convaincu que cette aide est nécessaire à la réintégration de celui-ci dans la population active civile.
+- **(1)** Sous réserve du présent article, le ministre peut, sur demande, fournir des services de réorientation professionnelle :
+	- **a)** au militaire qui a terminé son entraînement de base;
+	- **b)** au vétéran qui a terminé son entraînement de base et qui a été libéré des Forces canadiennes le 1<sup>er</sup> avril 2006 ou après cette date;
+	- **c)** au vétéran qui a droit à l’allocation de soutien du revenu;
+	- **d)** à l’époux ou conjoint de fait du vétéran qui a terminé son entraînement de base et qui a été libéré des Forces canadiennes le 1<sup>er</sup> avril 2006 ou après cette date;
+	- **e)** au survivant du militaire qui a terminé son entraînement de base et qui est décédé le 1<sup>er</sup> avril 2006 ou après cette date;
+	- **f)** au survivant du vétéran qui a terminé son entraînement de base et qui a été libéré des Forces canadiennes le 1<sup>er</sup> avril 2006 ou après cette date;
+	- **g)** au survivant qui a droit à l’allocation de soutien du revenu.
 
-**Admissibilité : époux, conjoint de fait et survivant**
+**Limites : militaire**
 
-- **(2)** Il peut également, sur demande, fournir des services de réorientation professionnelle à l’époux ou conjoint de fait ou au survivant qui satisfait aux conditions d’admissibilité réglementaires.
-> 2005, ch. 21, art. 3; 2011, ch. 12, art. 3.
+- **(2)** Les services de réorientation professionnelle ne peuvent être fournis au militaire que s’il réside au Canada et si le ministre est convaincu que de l’aide est nécessaire à sa réintégration dans la population active civile.
+
+**Limites : vétéran**
+
+- **(3)** Les services de réorientation professionnelle ne peuvent être fournis au vétéran que si, à la fois :
+	- **a)** le vétéran réside au Canada;
+	- **b)** le ministre est convaincu que de l’aide est nécessaire pour la réintégration du vétéran dans la population active civile;
+	- **c)** il ne reçoit pas de services de réadaptation ni d’assistance professionnelle au titre de la partie 2.
+
+**Limites : époux, conjoint de fait et survivant**
+
+- **(4)** Les services de réorientation professionnelle ne peuvent être fournis à l’époux ou conjoint de fait et au survivant que s’il réside au Canada et ne reçoit pas de services de réadaptation ni d’assistance professionnelle au titre de la partie 2.
+
+**Délai : époux ou conjoint de fait du vétéran**
+
+- **(5)** L’époux ou conjoint de fait du vétéran qui a terminé son entraînement de base et qui a été libéré des Forces canadiennes le 1<sup>er</sup> avril 2006 ou après cette date peut recevoir des services de réorientation professionnelle jusqu’au dernier en date des moments suivants :
+	- **a)** le 31 mars 2020;
+	- **b)** le deuxième anniversaire de la libération du vétéran.
+> 2005, ch. 21, art. 3; 2011, ch. 12, art. 3; 2017, ch. 20, art. 272.
 
 
 
@@ -167,7 +193,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** S’il approuve la demande, le ministre évalue les besoins en matière d’orientation professionnelle, de conseils et d’aide à la recherche d’emploi du militaire ou vétéran, de l’époux ou conjoint de fait ou du survivant.
+- **(1)** S’il approuve la demande présentée au titre de l’article 3, le ministre évalue les besoins du militaire, du vétéran, de l’époux ou conjoint de fait ou du survivant en matière de services de réorientation professionnelle qui peuvent lui être fournis au titre de la présente partie.
 
 **Programme de réorientation professionnelle**
 
@@ -176,16 +202,208 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Considérations**
 
 - **(3)** Dans l’élaboration du programme de réorientation professionnelle, le ministre tient compte des principes réglementaires.
-> 2005, ch. 21, art. 4; 2011, ch. 12, art. 4.
+> 2005, ch. 21, art. 4; 2011, ch. 12, art. 4; 2017, ch. 20, art. 273.
 
 
 
 
 
-**Services offerts par un tiers**
+**Suspension ou annulation**
 
-**5** Le ministre peut refuser de fournir les services de réorientation professionnelle prévus à la présente partie à toute personne dans la mesure où celle-ci a droit de les recevoir d’un tiers.
-> 2005, ch. 21, art. 5; 2011, ch. 12, art. 5.
+**5** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler la fourniture de services de réorientation professionnelle prévue à la présente partie à toute personne.
+> 2005, ch. 21, art. 5; 2011, ch. 12, art. 5; 2017, ch. 20, art. 274.
+
+
+
+
+
+**Règlements**
+
+**5.1** Le gouverneur en conseil peut prendre des règlements :
+- **a)** régissant les services de réorientation professionnelle qui peuvent être fournis au titre de la présente partie;
+- **b)** précisant, pour l’application des paragraphes 3(2) à (4), ce qui constitue la résidence et les intervalles d’absence du Canada qui sont réputés ne pas interrompre la résidence au Canada.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**PARTIE 1.1** 
+## Allocation pour études et formation
+
+
+
+**Admissibilité : vétéran**
+
+**5.2** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation pour études et formation au vétéran, en conformité avec les articles 5.3 ou 5.5, si celui-ci, à la fois :
+	- **a)** a servi pendant au moins six ans au total dans la force régulière ou dans la force de réserve, ou dans les deux;
+	- **b)** a été libéré honorablement des Forces canadiennes le 1<sup>er</sup> avril 2006 ou après cette date.
+
+**Somme cumulative maximale**
+
+- **(2)** La somme cumulative maximale qui peut être versée au vétéran est de 40 000 $ ou, s’il a servi pendant au moins douze ans au total dans la force régulière ou dans la force de réserve, ou dans les deux, 80 000 $.
+
+**Définitions**
+
+- **(3)** Au présent article, force régulière et force de réserve s’entendent au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Programme d’études : établissement d’enseignement**
+
+**5.3** 
+
+- **(1)** L’allocation pour études et formation peut être versée aux fins suivantes :
+	- **a)** les cours ou la formation suivis dans un établissement d’enseignement, dans le cadre d’un programme d’études en vue de l’obtention d’un diplôme, d’un certificat ou d’un titre;
+	- **b)** les frais, notamment de subsistance, encourus par le vétéran pendant qu’il est inscrit à cet établissement.
+
+**Demande**
+
+- **(2)** Le vétéran qui demande un versement au titre de l’allocation aux fins prévues à l’alinéa (1)a) fournit au ministre une preuve d’inscription ou d’admission à l’établissement pour toute période d’études à venir ainsi que les renseignements réglementaires.
+
+**Renseignements supplémentaires**
+
+- **(3)** Le ministre peut demander que le vétéran lui communique des renseignements supplémentaires afin de prendre la décision visée au paragraphe (4).
+
+**Décision du ministre**
+
+- **(4)** Sur réception de la preuve et des renseignements et s’il est convaincu que le versement demandé peut être fait, le ministre, à la fois :
+	- **a)** fixe le montant du versement;
+	- **b)** décide de la période d’études à laquelle il sera appliqué;
+	- **c)** décide de la date du versement.
+
+**Date de versement**
+
+- **(5)** Le versement au titre de l’allocation ne peut être fait avant le soixantième jour précédant la date à laquelle les frais associés aux études ou à la formation doivent être acquittés auprès de l’établissement pour la période d’études en cause ou, si aucune date n’a été fixée, avant le soixantième jour précédant le début de cette période.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Prime à l’achèvement des études ou de la formation**
+
+**5.4** Le ministre peut, sur demande, verser une somme réglementaire comme prime à l’achèvement des études et de la formation, en sus de l’allocation pour études et formation, au vétéran qui obtient un diplôme, un certificat ou un titre à l’égard duquel il a reçu un versement au titre de cette allocation en vertu de l’article 5.3.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Autres cours ou formation**
+
+**5.5** 
+
+- **(1)** L’allocation pour études et formation peut être versée pour permettre au vétéran d’acquitter les frais facturés par un fournisseur pour les cours ou la formation, approuvés par le ministre, qui ne sont pas visés à l’alinéa 5.3(1)a).
+
+**Somme cumulative maximale**
+
+- **(2)** La somme cumulative maximale qui peut être versée au vétéran pour ces frais est celle prévue par règlement.
+
+**Demande**
+
+- **(3)** Le vétéran qui demande un versement pour ces frais fournit au ministre la description des cours ou de la formation, le montant des frais, le nom du fournisseur et les renseignements réglementaires.
+
+**Renseignements supplémentaires**
+
+- **(4)** Le ministre peut demander que le vétéran lui communique des renseignements supplémentaires afin de prendre la décision visée au paragraphe (5).
+
+**Décision du ministre**
+
+- **(5)** Sur réception des renseignements, le ministre peut approuver les cours ou la formation; le cas échéant et s’il est convaincu que le versement demandé peut être fait, le ministre, à la fois :
+	- **a)** fixe le montant du versement;
+	- **b)** décide de la date du versement.
+
+**Date de versement**
+
+- **(6)** Le versement au titre de l’allocation ne peut être fait avant le soixantième jour précédant la date à laquelle les frais associés aux cours ou à la formation doivent être acquittés auprès du fournisseur ou, si aucune date n’a été fixée, avant le soixantième jour précédant le début des cours ou de la formation.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Aucun versement au militaire**
+
+**5.6** Il est entendu que l’allocation pour études et formation ne peut être versée à une personne qui est un militaire.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Aucun versement : autres services ou allocations**
+
+**5.7** L’allocation pour études et formation ne peut être versée au vétéran à qui de l’assistance professionnelle ou des services de réadaptation sont fournis au titre de la partie 2 ou qui a droit à l’allocation de soutien du revenu au titre de cette partie.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Restriction : incarcération**
+
+**5.8** Le ministre peut, si un vétéran est incarcéré dans un établissement correctionnel et n’est pas responsable du paiement de ses frais de subsistance, limiter le montant du versement au titre de l’allocation pour études et formation exigible par ce vétéran au montant qui, de l’avis du ministre, est nécessaire pour lui permettre de suivre les cours ou la formation.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Fin de l’allocation**
+
+**5.9** 
+
+- **(1)** L’allocation pour études et formation ne peut plus être versée au vétéran à compter du dernier en date des moments suivants :
+	- **a)** le 1<sup>er</sup> avril 2028;
+	- **b)** le lendemain du dixième anniversaire de sa dernière libération des Forces canadiennes.
+
+**Cours ou formation après la fin de l’allocation**
+
+- **(2)** Tout versement au titre de l’allocation pour études et formation fait à la date la plus tardive à laquelle celle-ci peut être versée, ou avant cette date, peut être fait à l’égard d’un cours ou d’une formation qui se termine après la date la plus tardive à laquelle elle peut être versée.
+
+**Exception**
+
+- **(3)** Malgré le paragraphe (1), le ministre peut, dans les circonstances réglementaires, verser l’allocation pour études et formation après la date à laquelle elle ne pourrait plus autrement être versée.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Restriction**
+
+**5.91** Aucun versement au titre de l’allocation pour études et formation ne peut être fait au vétéran une fois que celui-ci a reçu des versements totalisant la somme cumulative maximale à laquelle il a droit à la date du dernier de ces versements, et ce, malgré tout rajustement à la somme cumulative maximale effectué en vertu des règlements après cette date.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Suspension ou annulation**
+
+**5.92** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’allocation pour études et formation.
+> 2017, ch. 20, art. 274.
+
+
+
+
+
+**Règlements**
+
+**5.93** Le gouverneur en conseil peut prendre des règlements :
+- **a)** prévoyant, pour l’application de l’alinéa 5.2(1)a), la manière d’établir la durée du service dans la force de réserve;
+- **b)** régissant ce qui constitue une libération honorable pour l’application de l’alinéa 5.2(1)b);
+- **c)** prévoyant le rajustement périodique de la somme cumulative maximale prévue au paragraphe 5.2(2);
+- **d)** définissant établissement d’enseignement pour l’application de l’alinéa 5.3(1)a);
+- **e)** prévoyant les cours ou la formation qui peuvent ou ne peuvent pas être approuvés par le ministre au titre de l’article 5.5;
+- **f)** définissant, pour l’application de l’article 5.8, ce qui constitue l’incarcération dans un établissement correctionnel.
+> 2017, ch. 20, art. 274.
 
 
 
@@ -921,30 +1139,7 @@ où :
 
 
 
-
-**Dispense**
-
-**40.5** 
-
-- **(1)** Le ministre peut dispenser le vétéran ou le survivant de l’obligation de présenter la demande d’allocation de sécurité du revenu de retraite, s’il est convaincu que le vétéran ou le survivant, s’il présentait une demande, serait admissible à cette allocation d’après les renseignements que le ministre a obtenus dans l’exercice de ses attributions relativement à l’allocation pour perte de revenus, à l’allocation pour incidence sur la carrière ou à l’indemnité d’invalidité ou relativement à la pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
-
-**Notification**
-
-- **(2)** S’il entend dispenser le vétéran ou le survivant de l’obligation de présenter une demande, le ministre l’en avise par écrit.
-
-**Acceptation**
-
-- **(3)** S’il accepte d’être dispensé de l’obligation de présenter une demande, le vétéran ou le survivant est tenu de produire auprès du ministre, dans le délai fixé par celui-ci, les renseignements que ce dernier demande.
-
-**Refus**
-
-- **(4)** Le vétéran ou le survivant peut, dans le délai fixé par le ministre, refuser d’être dispensé de l’obligation de présenter une demande, auquel cas il en avise le ministre par écrit.
-
-**Levée de la dispense**
-
-- **(5)** Le fait que le ministre entend accorder la dispense ne l’empêche pas d’obliger le vétéran ou le survivant à présenter une demande; le cas échéant, le ministre l’en avise par écrit.
-> 2015, ch. 36, art. 210; 2016, ch. 7, art. 97.
-
+**40.5** [Abrogé, 2017, ch. 20, art. 275]
 
 
 
@@ -989,8 +1184,8 @@ où :
 
 **Application de la présente partie**
 
-**42** La présente partie, exception faite des articles 44.1 à 44.3, ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
-> 2005, ch. 21, art. 42; 2015, ch. 36, art. 213.
+**42** La présente partie, exception faite des articles 44.1 et 44.2, ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+> 2005, ch. 21, art. 42; 2015, ch. 36, art. 213; 2017, ch. 20, art. 276.
 
 
 
@@ -1047,30 +1242,7 @@ où :
 
 
 
-
-**Dispense**
-
-**44.3** 
-
-- **(1)** Le ministre peut dispenser le militaire ou le vétéran de l’obligation de présenter la demande visée au paragraphe 44.1(1), s’il est convaincu, d’après les renseignements qu’il a obtenus dans l’exercice de ses attributions, notamment relativement à l’indemnité d’invalidité ou relativement à la pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), que le militaire ou le vétéran a droit à l’indemnité pour blessure grave.
-
-**Notification**
-
-- **(2)** S’il entend dispenser le militaire ou le vétéran de l’obligation de présenter une demande, le ministre l’en avise par écrit.
-
-**Acceptation**
-
-- **(3)** S’il accepte d’être dispensé de l’obligation de présenter une demande, le militaire ou le vétéran est tenu de produire auprès du ministre, dans le délai fixé par celui-ci, les renseignements que ce dernier demande.
-
-**Refus**
-
-- **(4)** Le militaire ou le vétéran peut, dans le délai fixé par le ministre, refuser d’être dispensé de l’obligation de présenter une demande, auquel cas il en avise le ministre par écrit.
-
-**Levée de la dispense**
-
-- **(5)** Le fait que le ministre entend accorder la dispense ne l’empêche pas d’obliger le militaire ou le vétéran à présenter une demande; le cas échéant, le ministre l’en avise par écrit.
-> 2015, ch. 36, art. 214.
-
+**44.3** [Abrogé, 2017, ch. 20, art. 277]
 
 
 
@@ -1466,7 +1638,7 @@ où :
 
 
 **PARTIE 3.1** 
-## Allocation pour relève d’un aidant familial
+## Allocation de reconnaissance pour aidant
 
 
 
@@ -1474,10 +1646,11 @@ où :
 
 **65.1** 
 
-- **(1)** Le ministre peut, sur demande, verser une allocation pour relève d’un aidant familial au vétéran si les conditions ci-après sont remplies :
+- **(1)** Le ministre peut, sur demande du vétéran, verser à la personne désignée par celui-ci une allocation de reconnaissance pour aidant si les conditions suivantes sont remplies :
 	- **a)** le vétéran a présenté une demande d’indemnité d’invalidité au titre de l’article 45 et celle-ci a déjà été approuvée;
 	- **b)** en raison de l’invalidité à l’égard de laquelle la demande d’indemnité a été approuvée, le vétéran a besoin de recevoir des soins de façon continue;
-	- **c)** une personne âgée d’au moins dix-huit ans joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins et n’est pas rémunérée pour ce faire;
+	- **b.1)** aucune pension ou indemnité, au sens de ces termes au paragraphe 3(1) de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), n’a été accordée au vétéran;
+	- **c)** la personne désignée est âgée d’au moins dix-huit ans et joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins sans être rémunérée pour ce faire;
 	- **d)** le vétéran remplit les conditions d’admissibilité réglementaires.
 
 **Critères à considérer**
@@ -1486,12 +1659,10 @@ où :
 
 **Facteurs à considérer**
 
-- **(3)** Pour établir si la personne visée à l’alinéa (1)c) joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins, le ministre tient compte uniquement des facteurs prévus par règlement.
+- **(3)** Pour établir si la personne désignée joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins, le ministre tient compte uniquement des facteurs prévus par règlement.
 
-**Inadmissibilité**
-
-- **(4)** Le vétéran qui est admissible à l’allocation pour soins au titre du paragraphe 38(1) de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) n’est pas admissible à l’allocation pour relève d’un aidant familial.
-> 2015, ch. 36, art. 217.
+- **(4)** [Abrogé, 2017, ch. 20, art. 279]
+> 2015, ch. 36, art. 217; 2017, ch. 20, art. 279.
 
 
 
@@ -1499,8 +1670,61 @@ où :
 
 **Montant de l’allocation**
 
-**65.2** Le montant de l’allocation pour relève d’un aidant familial exigible annuellement par le vétéran est celui prévu à la colonne 2 de l’annexe 2 en regard de l’article 5.
-> 2015, ch. 36, art. 217.
+**65.2** Le montant de l’allocation de reconnaissance pour aidant exigible mensuellement par la personne désignée est celui prévu à la colonne 2 de l’annexe 2 en regard de l’article 5.
+> 2015, ch. 36, art. 217; 2017, ch. 20, art. 280.
+
+
+
+
+
+**Une seule personne désignée**
+
+**65.21** Pour l’application du paragraphe 65.1(1), le vétéran ne peut désigner plus d’une personne à la fois.
+> 2017, ch. 20, art. 280.
+
+
+
+
+
+**Début des versements**
+
+**65.22** 
+
+- **(1)** Sous réserve du paragraphe (2), l’allocation de reconnaissance pour aidant est exigible à compter du premier jour du mois au cours duquel le vétéran présente sa demande d’allocation de reconnaissance pour aidant.
+
+**Changement de personne désignée**
+
+- **(2)** Si le vétéran remplace, au moyen d’une nouvelle demande d’allocation de reconnaissance pour aidant, la personne qu’il a préalablement désignée par une autre personne désignée, l’allocation de reconnaissance pour aidant est exigible par cette autre personne à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois au cours duquel le vétéran présente la nouvelle demande;
+	- **b)** le jour à compter duquel l’allocation cesse d’être versée.
+> 2017, ch. 20, art. 280.
+
+
+
+
+
+**Fin des versements**
+
+**65.23** L’allocation de reconnaissance pour aidant cesse d’être versée à compter du premier en date des moments suivants :
+- **a)** le premier jour du mois suivant le mois au cours duquel les conditions d’admissibilité prévues aux alinéas 65.1(1)a) à d) cessent d’être remplies;
+- **b)** le premier jour du mois suivant le mois au cours duquel le vétéran a présenté une nouvelle demande au moyen de laquelle il remplace la personne qu’il a préalablement désignée par une autre personne désignée;
+- **c)** le premier jour du mois suivant le mois au cours duquel le vétéran ou la personne désignée décède.
+> 2017, ch. 20, art. 280.
+
+
+
+
+
+**Changement de circonstances — vétéran**
+
+**65.24** 
+
+- **(1)** En cas de changement de circonstances à l’égard des conditions prévues aux alinéas 65.1(1)a) à d) ou de décès de la personne désignée par le vétéran, celui-ci en informe le ministre.
+
+**Changement de circonstances — personne désignée**
+
+- **(2)** En cas de changement de circonstances à l’égard des conditions prévues à l’alinéa 65.1(1)c) ou de décès du vétéran, la personne désignée par celui-ci en informe le ministre.
+> 2017, ch. 20, art. 280.
 
 
 
@@ -1508,8 +1732,17 @@ où :
 
 **Évaluation**
 
-**65.3** Le ministre peut exiger que le vétéran qui reçoit l’allocation pour relève d’un aidant familial subisse une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
-> 2015, ch. 36, art. 217.
+**65.3** Le ministre peut exiger, afin d’établir si la personne désignée a encore droit au versement de l’allocation de reconnaissance pour aidant, que le vétéran qui l’a désignée subisse une évaluation par la personne que le ministre précise.
+> 2015, ch. 36, art. 217; 2017, ch. 20, art. 280.
+
+
+
+
+
+**Suspension ou annulation**
+
+**65.31** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’allocation de reconnaissance pour aidant.
+> 2017, ch. 20, art. 280.
 
 
 
@@ -1733,6 +1966,56 @@ où :
 
 
 
+### Dispense
+
+
+
+**Dispense de l’obligation de présenter une demande**
+
+**78.1** 
+
+- **(1)** Le ministre peut dispenser une personne de l’obligation de présenter une demande d’indemnisation, de services de réorientation professionnelle, de services de réadaptation ou d’assistance professionnelle visés par la présente loi s’il estime, d’après les renseignements qu’il a obtenus dans l’exercice de ses attributions, que la personne pourrait être admissible à cette indemnisation, à ces services ou à cette assistance si elle présentait une demande.
+
+**Notification**
+
+- **(2)** S’il entend dispenser une personne de l’obligation de présenter une demande, le ministre l’en avise selon les modalités prévues par règlement.
+
+**Acceptation**
+
+- **(3)** La personne peut accepter d’être dispensée de cette obligation en avisant le ministre, selon les modalités prévues par règlement, de sa décision; elle est alors tenue de fournir au ministre les renseignements ou les documents que celui-ci demande dans le délai qu’il fixe.
+
+**Date de la dispense**
+
+- **(4)** La dispense est octroyée à la date où le ministre reçoit l’avis d’acceptation.
+
+**Demande exigée par le ministre**
+
+- **(5)** Le ministre peut, à tout moment après avoir avisé la personne qu’il entend lui accorder une dispense et pour toute raison qu’il estime raisonnable dans les circonstances, exiger que cette personne présente une demande, notamment si elle n’a pas fourni les renseignements demandés dans le délai fixé; le cas échéant, le ministre l’en avise par écrit.
+
+**Dispense annulée**
+
+- **(6)** La dispense est annulée à la date où le ministre avise la personne qu’elle doit présenter une demande.
+> 2017, ch. 20, art. 281.
+
+
+
+
+
+**Effet de la dispense**
+
+**78.2** 
+
+- **(1)** Lorsque le ministre dispense une personne de l’obligation de présenter une demande d’indemnisation, de services de réorientation professionnelle, de services de réadaptation ou d’assistance professionnelle visés par la présente loi, la demande est réputée avoir été présentée à la date de l’octroi de la dispense.
+
+**Effet de l’annulation de la dispense**
+
+- **(2)** Malgré le paragraphe (1), si la dispense est annulée après la date où le ministre reçoit l’avis d’acceptation, aucune demande n’est réputée avoir été présentée.
+> 2017, ch. 20, art. 281.
+
+
+
+
+
 ### Inspection
 
 
@@ -1795,10 +2078,10 @@ où :
 
 
 
-**Révision : parties 2 ou 3.1**
+**Révision : parties 1, 1.1, 2 ou 3.1**
 
-**83** Sous réserve des règlements, le ministre peut, sur demande ou de sa propre initiative, réviser toute décision prise au titre des parties 2 ou 3.1 ou du présent article.
-> 2005, ch. 21, art. 83; 2015, ch. 36, art. 220.
+**83** Sous réserve des règlements, le ministre peut, sur demande ou de sa propre initiative, réviser toute décision prise au titre des parties 1, 1.1, 2 ou 3.1 ou du présent article.
+> 2005, ch. 21, art. 83; 2015, ch. 36, art. 220; 2017, ch. 20, art. 282.
 
 
 
@@ -1832,6 +2115,31 @@ où :
 
 
 
+### Versements
+
+
+
+**Somme versée au survivant**
+
+**87.1** 
+
+- **(1)** Toute somme qui est exigible sous le régime de la présente loi par une personne qui décède avant de l’avoir reçue est versée à son survivant.
+
+**Somme versée à la succession**
+
+- **(2)** Cependant, si cette personne n’a pas de survivant ou si son survivant décède avant d’avoir reçu la somme, celle-ci est versée à sa succession.
+
+**Définition de survivant**
+
+- **(3)** Aux paragraphes (1) et (2), ***survivant*** s’entend, selon le cas :
+	- **a)** de l’époux qui, au moment du décès d’une personne, résidait avec celle-ci;
+	- **b)** de la personne qui, au moment du décès d’une personne, vivait avec celle-ci dans une relation conjugale depuis au moins un an.
+> 2017, ch. 20, art. 283.
+
+
+
+
+
 ### Trop-perçu
 
 
@@ -1856,12 +2164,12 @@ où :
 
 **Indemnisation erronée**
 
-- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour incidence sur la carrière, de l’allocation de sécurité du revenu de retraite, de l’allocation vestimentaire ou de l’allocation pour relève d’un aidant familial dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour études et formation, de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour incidence sur la carrière, de l’allocation de sécurité du revenu de retraite, de l’allocation vestimentaire ou de l’allocation de reconnaissance pour aidant dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ou depuis au moins trois ans dans le cas de l’allocation pour études et formation, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
 
 **Recouvrement**
 
 - **(5)** Le montant de l’indemnisation versé après le décès du militaire ou vétéran alors que celui-ci n’y était plus admissible peut être déduit de toute indemnisation accordée à la personne qui l’a retenu.
-> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221; 2016, ch. 7, art. 97.
+> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221; 2016, ch. 7, art. 97; 2017, ch. 20, art. 284.
 
 
 
@@ -1939,9 +2247,10 @@ où :
 - **b)** prévoyant les modalités — de temps ou autres — de versement de toute indemnisation;
 - **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 3;
 - **d)** prévoyant le paiement ou remboursement de frais associés aux services de conseillers financiers;
-- **e)** concernant la communication de tout renseignement, déclaration ou document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour incidence sur la carrière, l’allocation de sécurité du revenu de retraite, l’allocation vestimentaire ou l’allocation pour relève d’un aidant familial au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement, de la déclaration ou du document;
-- **f)** prévoyant les modalités de suspension ou d’annulation des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
-- **g)** concernant la révision de toute décision prise au titre des parties 2 ou 3.1 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
+- **e)** concernant la communication de tout renseignement, de toute déclaration ou de tout document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, l’allocation pour études et formation, la prime à l’achèvement des études ou de la formation, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour incidence sur la carrière, l’allocation de sécurité du revenu de retraite ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation ou de la prime dans l’attente du renseignement, de la déclaration ou du document;
+- **e.1)** concernant la communication de tout renseignement, de toute déclaration ou de tout document au ministre par tout vétéran qui présente une demande d’allocation de reconnaissance pour aidant au titre du paragraphe 65.1(1) ou par toute personne qui y est désignée, et autorisant le ministre à suspendre le versement de l’allocation dans l’attente du renseignement, de la déclaration ou du document;
+- **f)** concernant les modalités de suspension ou d’annulation des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
+- **g)** concernant la révision de toute décision prise au titre des parties 1, 1.1, 2 ou 3.1 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
 - **h)** prévoyant les modalités — de temps ou autres — de présentation de la demande de révision au titre des articles 83 ou 84;
 - **i)** prévoyant la procédure à suivre par le ministre pour prendre ses décisions;
 - **i.1)** régissant la détermination de l’intérêt pour l’application de l’élément C dans la formule prévue à l’alinéa 52.1(1)b);
@@ -1949,7 +2258,7 @@ où :
 - **j)** concernant toute mesure d’ordre réglementaire prévue par la présente loi;
 - **j.1)** précisant la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
 - **k)** concernant toute autre mesure d’application de la présente loi.
-> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222; 2016, ch. 7, art. 97.
+> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222; 2016, ch. 7, art. 97; 2017, ch. 20, art. 285.
 
 
 
@@ -1968,8 +2277,8 @@ où :
 
 **Rétroactivité**
 
-**94.1** Les règlements concernant l’allocation de sécurité du revenu de retraite ou l’allocation pour relève d’un aidant familial pris en vertu des paragraphes 40.1(5), 40.2(5), 40.3(5) ou 40.4(5) ou des articles 41, 65.4 ou 94 peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
-> 2015, ch. 36, art. 223.
+**94.1** Les règlements concernant l’allocation de sécurité du revenu de retraite ou l’allocation de reconnaissance pour aidant pris en vertu des paragraphes 40.1(5), 40.2(5), 40.3(5) ou 40.4(5) ou des articles 41, 65.4 ou 94 peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+> 2015, ch. 36, art. 223; 2017, ch. 20, art. 286.
 
 
 
@@ -2228,12 +2537,12 @@ où :
 </tr>
 <tr>
 <td>5</td>
-<td>Allocation pour relève d’un aidant familial</td>
-<td>7 238,00 (annuel)</td>
+<td>Allocation de reconnaissance pour aidant</td>
+<td>1 000,00 (mensuel)</td>
 </tr>
 </table>
 
-> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225; 2016, ch. 7, art. 93 à 95 et 97.
+> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225; 2016, ch. 7, art. 93 à 95 et 97; 2017, ch. 20, art. 287.
 
 
 
