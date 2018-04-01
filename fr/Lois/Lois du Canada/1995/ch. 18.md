@@ -225,8 +225,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence exclusive**
 
-**18** Le Tribunal a compétence exclusive pour réviser toute décision rendue en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou prise en vertu de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes et pour statuer sur toute question liée à la demande de révision.
-> 1995, ch. 18, art. 18; 2005, ch. 21, art. 110.
+**18** Le Tribunal a compétence exclusive pour réviser toute décision rendue en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou prise en vertu de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) et pour statuer sur toute question liée à la demande de révision.
+> 1995, ch. 18, art. 18; 2005, ch. 21, art. 110; 2017, ch. 20, art. 292.
 
 
 
@@ -240,8 +240,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Refus de constituer un comité**
 
-- **(2)** Le président, ou son délégué, peut refuser de constituer un comité de révision s’il estime qu’une demande portant sur le montant de la compensation visée par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou portant sur le montant de l’indemnité pour blessure grave, de l’indemnité d’invalidité, de l’indemnité de décès, de l’allocation vestimentaire ou de l’indemnité de captivité visées par la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes est de telle nature qu’aucun comité ne pourrait raisonnablement trancher en faveur du demandeur.
-> 1995, ch. 18, art. 19; 1999, ch. 10, art. 38; 2000, ch. 34, art. 66(F); 2005, ch. 21, art. 111; 2015, ch. 36, art. 226.
+- **(2)** Le président, ou son délégué, peut refuser de constituer un comité de révision s’il estime qu’une demande portant sur le montant de la compensation visée par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou portant sur le montant de l’indemnité pour blessure grave, de l’indemnité d’invalidité, de l’indemnité de décès, de l’allocation vestimentaire ou de l’indemnité de captivité visées par la partie 3 de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) est de telle nature qu’aucun comité ne pourrait raisonnablement trancher en faveur du demandeur.
+> 1995, ch. 18, art. 19; 1999, ch. 10, art. 38; 2000, ch. 34, art. 66(F); 2005, ch. 21, art. 111; 2015, ch. 36, art. 226; 2017, ch. 20, art. 292.
 
 
 
@@ -361,8 +361,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Question d’interprétation**
 
-**30** Lorsque l’appelant soulève une question d’interprétation en ce qui touche l’application de la présente loi, de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), de la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes ou de toute autre loi fédérale permettant d’interjeter appel au Tribunal — ou des règlements d’application de l’une ou l’autre de ces lois —, le comité d’appel, s’il estime que la question n’est pas frustratoire, en avise les personnes ou organisations désignées par règlement et leur donne la possibilité de faire valoir leurs arguments à ce sujet avant de trancher la question.
-> 1995, ch. 18, art. 30; 2005, ch. 21, art. 112.
+**30** Lorsque l’appelant soulève une question d’interprétation en ce qui touche l’application de la présente loi, de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), de la partie 3 de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) ou de toute autre loi fédérale permettant d’interjeter appel au Tribunal — ou des règlements d’application de l’une ou l’autre de ces lois —, le comité d’appel, s’il estime que la question n’est pas frustratoire, en avise les personnes ou organisations désignées par règlement et leur donne la possibilité de faire valoir leurs arguments à ce sujet avant de trancher la question.
+> 1995, ch. 18, art. 30; 2005, ch. 21, art. 112; 2017, ch. 20, art. 292.
 
 
 
@@ -417,7 +417,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **34** 
 
-- **(1)** En cas de refus de l’une des compensations visées par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou de l’indemnité pour blessure grave, de l’indemnité d’invalidité, de l’indemnité de décès, de l’allocation vestimentaire ou de l’indemnité de captivité visées par la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, une personne peut, après avoir épuisé les recours en révision et en appel prévus par la présente loi, adresser au Tribunal une demande d’allocation de commisération.
+- **(1)** En cas de refus de l’une des compensations visées par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou de l’indemnité pour blessure grave, de l’indemnité d’invalidité, de l’indemnité de décès, de l’allocation vestimentaire ou de l’indemnité de captivité visées par la partie 3 de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md), une personne peut, après avoir épuisé les recours en révision et en appel prévus par la présente loi, adresser au Tribunal une demande d’allocation de commisération.
 
 **Comité**
 
@@ -425,11 +425,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Allocation de commisération**
 
-- **(3)** Le comité peut accorder l’allocation de commisération dans tous les cas qu’il estime particulièrement méritoires, mais où le demandeur a été par ailleurs jugé inadmissible à une compensation prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou à l’indemnité pour blessure grave, l’indemnité d’invalidité, l’indemnité de décès, l’allocation vestimentaire ou l’indemnité de captivité visées par la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes.
+- **(3)** Le comité peut accorder l’allocation de commisération dans tous les cas qu’il estime particulièrement méritoires, mais où le demandeur a été par ailleurs jugé inadmissible à une compensation prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou à l’indemnité pour blessure grave, l’indemnité d’invalidité, l’indemnité de décès, l’allocation vestimentaire ou l’indemnité de captivité visées par la partie 3 de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md).
 
 **Montant**
 
-- **(4)** Il en fixe le montant, lequel ne peut toutefois dépasser celui auquel le demandeur aurait eu droit si sa demande au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes avait été acceptée.
+- **(4)** Il en fixe le montant, lequel ne peut toutefois dépasser celui auquel le demandeur aurait eu droit si sa demande au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) avait été acceptée.
 
 **Révision du montant**
 
@@ -454,7 +454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de allocation de commisération**
 
 - **(8)** Pour l’application du présent article, ***allocation de commisération*** s’entend d’une pension, allocation ou dotation supplémentaire de commisération.
-> 1995, ch. 18, art. 34; 2000, ch. 34, art. 67; 2005, ch. 21, art. 113; 2015, ch. 3, art. 159(F), ch. 36, art. 227.
+> 1995, ch. 18, art. 34; 2000, ch. 34, art. 67; 2005, ch. 21, art. 113; 2015, ch. 3, art. 159(F), ch. 36, art. 227; 2017, ch. 20, art. 292.
 
 
 
@@ -490,7 +490,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **37** 
 
-- **(1)** Le ministre, l’avocat-conseil en chef du Bureau, toute organisation d’anciens combattants constituée en personne morale sous le régime d’une loi fédérale, ainsi que toute personne intéressée peuvent saisir le Tribunal de toute question d’interprétation de la présente loi, de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), de la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes ou de toute autre loi fédérale permettant d’interjeter appel au Tribunal, ou des règlements d’application de l’une ou l’autre de ces lois.
+- **(1)** Le ministre, l’avocat-conseil en chef du Bureau, toute organisation d’anciens combattants constituée en personne morale sous le régime d’une loi fédérale, ainsi que toute personne intéressée peuvent saisir le Tribunal de toute question d’interprétation de la présente loi, de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), de la partie 3 de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) ou de toute autre loi fédérale permettant d’interjeter appel au Tribunal, ou des règlements d’application de l’une ou l’autre de ces lois.
 
 **Avis**
 
@@ -499,7 +499,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Refus de connaître**
 
 - **(3)** Le Tribunal peut refuser d’étudier toute question d’interprétation qu’il estime frustratoire.
-> 1995, ch. 18, art. 37; 2005, ch. 21, art. 114.
+> 1995, ch. 18, art. 37; 2005, ch. 21, art. 114; 2017, ch. 20, art. 292.
 
 
 
