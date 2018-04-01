@@ -49,6 +49,12 @@ Autorités habilitantes :
 
 
 
+**2.1** Le 1<sup>er</sup> avril 2019 et, ensuite, le 1<sup>er</sup> avril de chaque année, les droits fixés à l’annexe 1 seront rajustés en fonction du taux de variation sur douze mois de l’indice d’ensemble des prix à la consommation du Canada du mois d’avril de l’exercice précédent, publié par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md). Tous les droits rajustés sont arrondis au cent près.
+> DORS/2018-33, art. 1.
+
+
+
+
 
 ### Serment ou affirmation solennelle des commissaires
 
@@ -1020,52 +1026,38 @@ Autorités habilitantes :
 
 
 ### **ANNEXE 1** 
-**(article 2 et paragraphe 21(3))**
+**(articles 2 et 2.1 et paragraphe 21(3))**
 <table>
 <h4>Droits exigés par la Commission</h4>
 <tr>
-<th>Article</th>
+<th></th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
 <th>Colonne 4</th>
 </tr>
 <tr>
-<th>Droits, par exercice financier</th>
-</tr>
-<tr>
+<th>Article</th>
 <th>Désignation du droit</th>
 <th>Description du service</th>
 <th>Unité (par)</th>
-<th>2013-2014</th>
-<th>2014-2015</th>
-<th>2015-2016</th>
-<th>2016-2017</th>
-<th>2017-2018</th>
+<th>Droits</th>
 </tr>
 <tr>
-<td>Inspection officielle à la sortie</td>
+<td>Inspection officielle</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Inspection officielle à la sortie — navires (à payer par l’exploitant de l’installation)</td>
+<td>Inspection officielle – navires (à payer par l’exploitant de l’installation)</td>
 <td>Inspection officielle du grain ou des criblures déchargés dans des navires et établissement d’un certificat</td>
-<td>Tonne métrique</td>
-<td>1,60 $</td>
-<td>1,63 $</td>
-<td>1,65 $</td>
-<td>1,68 $</td>
+<td>Tonne</td>
 <td>1,35 $</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Inspection officielle à la sortie — wagons, camions ou conteneurs (à payer par l’exploitant de l’installation)</td>
+<td>Inspection officielle – wagons, camions ou conteneurs (à payer par l’exploitant de l’installation)</td>
 <td>Inspection officielle du grain ou des criblures déchargés dans des wagons, des camions ou des conteneurs et établissement d’un certificat</td>
 <td>Inspection</td>
-<td>143,99 $</td>
-<td>146,29 $</td>
-<td>148,63 $</td>
-<td>151,01 $</td>
 <td>121,12 $</td>
 </tr>
 <tr>
@@ -1074,218 +1066,150 @@ Autorités habilitantes :
 <tr>
 <td>3</td>
 <td>Réinspection du grain (à payer par la personne demandant la réinspection)</td>
-<td>Réinspection par l’inspecteur en chef des grains pour le Canada ou un autre inspecteur autorisé relativement à :**a)** une inspection du grain à l’arrivage;
+<td>Réinspection par l’inspecteur en chef des grains pour le Canada ou un autre inspecteur autorisé relativement à :
+
+**a)** une inspection du grain à l’arrivage;
+
+
 
 **b)** une inspection d’un échantillon soumis
 
+
+
 </td>
 <td>Réinspection</td>
-<td>70,48 $</td>
-<td>71,61 $</td>
-<td>72,76 $</td>
-<td>73,92 $</td>
-<td>75,11 $</td>
+<td>68,68 $</td>
 </tr>
 <tr>
-<td>Pesée officielle à la sortie</td>
+<td>Pesée officielle</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Pesée officielle à la sortie — navires (à payer par l’exploitant de l’installation)</td>
+<td>Pesée officielle – navires (à payer par l’exploitant de l’installation)</td>
 <td>Supervision d’une pesée officielle du grain ou des criblures déchargés dans des navires et établissement d’un certificat</td>
-<td>Tonne métrique</td>
-<td>0,15 $</td>
-<td>0,16 $</td>
-<td>0,16 $</td>
-<td>0,16 $</td>
+<td>Tonne</td>
 <td>0,07 $</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Pesée officielle à la sortie — wagons, camions ou conteneurs (à payer par l’exploitant de l’installation)</td>
+<td>Pesée officielle – wagons, camions ou conteneurs (à payer par l’exploitant de l’installation)</td>
 <td>Supervision d’une pesée officielle du grain ou des criblures déchargés dans des wagons, des camions ou des conteneurs et établissement d’un certificat</td>
 <td>Wagon, camion ou conteneur</td>
-<td>13,87 $</td>
-<td>14,09 $</td>
-<td>14,31 $</td>
-<td>14,54 $</td>
 <td>6,67 $</td>
 </tr>
 <tr>
-<td>Autorisation d’un tiers — inspection ou pesée à l’arrivage</td>
+<td>Fournisseur de services autorisé - inspection ou pesée</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Demande d’autorisation d’un tiers (à payer par le demandeur)</td>
-<td>Traitement d’une demande d’autorisation d’un tiers pour procéder à des inspections ou des pesées à l’arrivage</td>
-<td>Demande</td>
-<td>140,97 $</td>
-<td>143,22 $</td>
-<td>145,52 $</td>
-<td>147,84 $</td>
-<td>150,21 $</td>
+<td>Traitement d’une demande d’autorisation d’un tiers pour procéder à l’inspection ou à la pesée du grain lors de sa réception à un silo terminal</td>
+<td>Application</td>
+<td>137,35 $</td>
 </tr>
 <tr>
-<td>Frais supplémentaires pour inspection officielle à la sortie</td>
+<td>Frais supplémentaires pour inspection officielle</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Déplacement et logement (à payer par l’exploitant de l’installation)</td>
-<td>Déplacement et logement pour procéder à une inspection officielle à la sortie dans les endroits où une telle inspection n’est pas offerte sur place par la Commission</td>
-<td>Voyage</td>
-<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
-<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
-<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
-<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
-<td>Frais calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique ou, si aucun taux n’y est mentionné, les frais réels</td>
+<td>Déplacement et hébergement pour des services d’inspection officielle hors des lieux habituels (à payer par l’exploitant de l’installation)</td>
+<td>Personnel de la Commission canadienne des grains disponible pour effectuer une inspection officielle à un endroit où l’inspection n’est pas offerte sur place</td>
+<td>Coûts réels</td>
+<td>Coûts calculés conformément aux taux prévus dans la Directive sur les voyages du Conseil national mixte de la fonction publique du Canada, ou coûts réels si aucun taux n’est prévu</td>
 </tr>
 <tr>
-<td>8 et 9</td>
-<td>[Abrogés, DORS/2017-125, art. 3]</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Heures supplémentaires à tarif et demi — annulation (à payer par l’exploitant de l’installation)</td>
-<td>Annulation tardive d’heures supplémentaires pour procéder à une inspection officielle à la sortie</td>
-<td>Employé se présentant au travail</td>
-<td>193,50 $</td>
-<td>196,60 $</td>
-<td>199,74 $</td>
-<td>202,94 $</td>
-<td>206,18 $</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Heures supplémentaires à tarif double — annulation (à payer par l’exploitant de l’installation)</td>
-<td>Annulation tardive d’heures supplémentaires pour procéder à une inspection officielle à la sortie</td>
-<td>Employé se présentant au travail</td>
-<td>258,00 $</td>
-<td>262,13 $</td>
-<td>266,32 $</td>
-<td>270,58 $</td>
-<td>274,91 $</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Disponibilité (à payer par l’exploitant de l’installation)</td>
-<td>Disponibilité d’un employé pour procéder à une inspection officielle à la sortie pendant ses heures hors service</td>
-<td>Heure/employé</td>
-<td>43,00 $</td>
-<td>43,69 $</td>
-<td>44,39 $</td>
-<td>45,10 $</td>
-<td>45,82 $</td>
+<td>8</td>
+<td>Réservation de services non prévus – annulation (à payer par l’exploitant de l’installation)</td>
+<td>Lorsque les services d’employés de la Commission canadienne des grains sont réservés pour effectuer une inspection officielle en dehors des heures d’ouverture normales prévues à un endroit donné, les droits seront imposés en cas d’annulation</td>
+<td>Déclaration de l’employé</td>
+<td>239,06 $</td>
 </tr>
 <tr>
 <td>Délivrance de licences</td>
 </tr>
 <tr>
-<td>13</td>
+<td>9</td>
 <td>Licence pour une période complète (à payer par le titulaire)</td>
 <td>Délivrance d’une licence (de toute catégorie) pour un an ou, si la licence est délivrée suivant l’expiration d’une ou de plusieurs licences à court terme, pour une période équivalant au reste de l’année qui a commencé lors de la délivrance de la première licence à court terme</td>
 <td>Licence/mois ou partie de mois</td>
-<td>276,00 $</td>
-<td>280,00 $</td>
-<td>285,00 $</td>
-<td>289,00 $</td>
-<td>294,00 $</td>
+<td>275,68 $</td>
 </tr>
 <tr>
-<td>14</td>
+<td>10</td>
 <td>Licence à court terme (à payer par le titulaire)</td>
 <td>Délivrance d’une licence (de toute catégorie) pour un mois ou une partie de mois</td>
 <td>Licence</td>
-<td>353,00 $</td>
-<td>358,00 $</td>
-<td>364,00 $</td>
-<td>370,00 $</td>
-<td>376,00 $</td>
+<td>381,64 $</td>
 </tr>
 <tr>
 <td>Wagons de producteurs</td>
 </tr>
 <tr>
-<td>15</td>
+<td>11</td>
 <td>Demande de wagon de producteurs (à payer par le producteur)</td>
-<td>Traitement d’une demande de wagon de producteurs</td>
-<td>Wagon demandé</td>
-<td>26,50 $</td>
-<td>27,00 $</td>
-<td>27,50 $</td>
-<td>28,00 $</td>
-<td>28,50 $</td>
+<td>Traitement d’une demande complète de wagon de producteurs</td>
+<td>Wagon</td>
+<td>29 $</td>
 </tr>
 <tr>
 <td>Inspection d’échantillons soumis</td>
 </tr>
 <tr>
-<td>16</td>
-<td>Inspection d’un échantillon soumis — échantillon non officiel (à payer par la personne soumettant l’échantillon)</td>
-<td>Inspection d’un échantillon non officiel du grain ou des criblures et établissement d’un certificat</td>
+<td>12</td>
+<td>Inspection d’un échantillon soumis (à payer par la personne l’ayant soumis)</td>
+<td>Inspection d’un échantillon de grain ou de criblures et délivrance d’un certificat</td>
 <td>Échantillon</td>
-<td>46,99 $</td>
-<td>47,74 $</td>
-<td>48,51 $</td>
-<td>49,28 $</td>
-<td>50,07 $</td>
+<td>45,78 $</td>
 </tr>
 <tr>
-<td>17</td>
-<td>Inspection d’un échantillon soumis — Programme d’échantillonnage certifié de conteneurs (à payer par la personne soumettant l’échantillon)</td>
-<td>Inspection d’un échantillon de grain ou de criblures prélevé par une entreprise certifiée dans le cadre du Programme d’échantillonnage certifié de conteneurs de la Commission et établissement d’un certificat</td>
-<td>Échantillon</td>
-<td>46,99 $</td>
-<td>47,74 $</td>
-<td>48,51 $</td>
-<td>49,28 $</td>
-<td>50,07 $</td>
+<td>Services d’échantillonnage</td>
 </tr>
 <tr>
-<td>18</td>
-<td>Inspection d’un échantillon soumis — Programme d’échantillonneurs accrédités de conteneurs (à payer par la personne soumettant l’échantillon)</td>
-<td>Inspection d’un échantillon de grain ou de criblures prélevé par une tierce partie accréditée dans le cadre du Programme d’échantillonneurs accrédités de conteneurs de la Commission et établissement d’un certificat</td>
+<td>13</td>
+<td>Échantillon officiel (à payer par la personne présentant la demande)</td>
+<td>Au moment de l’inspection officielle, obtention et fourniture d’une portion de l’échantillon de grain représentatif et identification de la portion à l’aide d’un sceau de la Commission canadienne des grains</td>
 <td>Échantillon</td>
-<td>46,99 $</td>
-<td>47,74 $</td>
-<td>48,51 $</td>
-<td>49,28 $</td>
-<td>50,07 $</td>
+<td>68,68 $</td>
+</tr>
+<tr>
+<td>Documentation</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Documentation fournie (à payer par la personne présentant la demande)</td>
+<td>Fourniture des documents supplémentaires suivants :
+- **•** Certificats d’inspection
+- **•** Lettres d’analyse
+- **•** Énoncés d’assurance
+
+</td>
+<td>Document</td>
+<td>71,77 $</td>
 </tr>
 </table>
 
 
-###### REMARQUES :
-
-Droits visés aux articles 2 et 5
-
-**1** Lorsqu’il faut plus d’un certificat par wagon, camion ou conteneur, des droits d’inspection et de pesée distincts sont perçus pour chaque certificat établi.
+### Remarques :
 
 
+#### Droits visés (à tous les articles)
 
-
-Droits visés aux articles 8 à 12
-
-**2** Le tarif applicable (tarif et demi ou tarif double) aux heures supplémentaires et le début des heures supplémentaires et de la disponibilité sont déterminés conformément à la convention collective relative aux inspecteurs (classification Inspection des produits primaires, groupe Services techniques), dont le texte se trouve sur le site Web du Secrétariat du Conseil du Trésor du Canada.
+**1** Les droits ne comprennent pas la taxe sur les produits et services.
 
 
 
+#### Droits visés aux articles 1 et 4
 
-Droits visés aux articles 10 et 11
-
-**3** Les frais d’annulation des heures supplémentaires ne sont pas exigibles si la Commission reçoit un avis d’annulation au plus tard à 14 h le jour prévu de l’inspection ou, s’il s’agit d’un samedi ou un jour férié, au plus tard à 14 h le jour — autre qu’un samedi ou un jour férié — précédant ce jour.
-
-
-
-**4** Les droits ne comprennent pas la taxe sur les produits et services.
+**2** Les droits sont arrondis au cent près.
 
 
 
-**5** Les droits sont arrondis au cent près. Les heures supplémentaires sont calculées par tranche de quinze minutes.
+#### Droits visés aux articles 2 et 5
+
+**3** Lorsqu’il faut plus d’un certificat par wagon, camion ou conteneur, des droits d’inspection et de pesée distincts sont perçus pour chaque certificat établi (conformément à l’article 14).
 
 
-
-
-> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1; DORS/2017-125, art. 1 à 3.
+> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6; DORS/2013-109, art. 1; DORS/2017-125, art. 1 à 3; DORS/2018-33, art. 2.
 
 
 
