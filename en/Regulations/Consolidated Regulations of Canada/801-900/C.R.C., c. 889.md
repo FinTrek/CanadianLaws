@@ -49,6 +49,12 @@ Enabling authorities:
 
 
 
+**2.1** On April 1, 2019 and every subsequent year on April 1, all fees set out in Schedule 1 will be adjusted by the percentage change over 12 months in the April All-items Consumer Price Index for Canada, as published by Statistics Canada under the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for the previous fiscal year. All adjusted fees are calculated to the nearest cent.
+> SOR/2018-33, s. 1.
+
+
+
+
 
 ### Oath or Solemn Affirmation of Commissioner
 
@@ -1020,52 +1026,38 @@ Enabling authorities:
 
 
 ### **SCHEDULE 1** 
-**(Section 2 and subsection 21(3))**
+**(Sections 2 and 2.1 and subsection 21(3))**
 <table>
 <h4>Fees of the Commission</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 <th>Column 4</th>
 </tr>
 <tr>
-<th>Fee by Fiscal Year</th>
-</tr>
-<tr>
+<th>Item</th>
 <th>Fee Name</th>
 <th>Description of Service</th>
 <th>Unit (per)</th>
-<th>2013-14</th>
-<th>2014-15</th>
-<th>2015-16</th>
-<th>2016-17</th>
-<th>2017-18</th>
+<th>Fee</th>
 </tr>
 <tr>
-<td>Outward Official Inspection</td>
+<td>Official Inspection</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Outward official inspection — ships (payable by the elevator operator)</td>
-<td>Official inspection of grain or screenings discharged to ships, and issuance of certificate</td>
+<td>Official inspection – ships (payable by the elevator operator)</td>
+<td>Official inspection of grain or screenings discharged to ships and issuance of certificate</td>
 <td>Tonne</td>
-<td>$1.60</td>
-<td>$1.63</td>
-<td>$1.65</td>
-<td>$1.68</td>
 <td>$1.35</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Outward official inspection — railway cars, trucks or containers (payable by the elevator operator)</td>
+<td>Official inspection – railway cars, trucks, containers (payable by the elevator operator)</td>
 <td>Official inspection of grain or screenings discharged to railway cars, trucks or containers, and issuance of certificate</td>
 <td>Inspection</td>
-<td>$143.99</td>
-<td>$146.29</td>
-<td>$148.63</td>
-<td>$151.01</td>
 <td>$121.12</td>
 </tr>
 <tr>
@@ -1073,219 +1065,151 @@ Enabling authorities:
 </tr>
 <tr>
 <td>3</td>
-<td>Reinspection of grain (payable by the person requesting the reinspection)</td>
-<td>Reinspection by the chief grain inspector for Canada or other authorized inspector in respect of**(a)** an inward inspection of grain; or
+<td>Reinspection of grain (payable by the person requesting inspection)</td>
+<td>Reinspection by the Chief Grain Inspector for Canada or authorized inspector in respect of
+
+**(a)** an inspection of grain upon receipt; or
+
+
 
 **(b)** an inspection of a submitted sample
 
+
+
 </td>
 <td>Reinspection</td>
-<td>$70.48</td>
-<td>$71.61</td>
-<td>$72.76</td>
-<td>$73.92</td>
-<td>$75.11</td>
+<td>$68.68</td>
 </tr>
 <tr>
-<td>Outward Official Weighing</td>
+<td>Official Weighing</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Outward official weighing — ships (payable by the elevator operator)</td>
-<td>Monitoring of official weighing of grain or screenings discharged to ships, and issuance of certificate</td>
+<td>Official weighing – ships (payable by the elevator operator)</td>
+<td>Monitoring of official weighing of grain or screenings discharged to ships and issuance of certificate</td>
 <td>Tonne</td>
-<td>$0.15</td>
-<td>$0.16</td>
-<td>$0.16</td>
-<td>$0.16</td>
 <td>$0.07</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Outward official weighing — railway cars, trucks or containers (payable by the elevator operator)</td>
+<td>Official weighing – railway cars, trucks, containers (payable by the elevator operator)</td>
 <td>Monitoring of official weighing of grain or screenings discharged to railway cars, trucks or containers, and issuance of certificate</td>
 <td>Railway car, truck or container</td>
-<td>$13.87</td>
-<td>$14.09</td>
-<td>$14.31</td>
-<td>$14.54</td>
 <td>$6.67</td>
 </tr>
 <tr>
-<td>Third-Party Authorization — Inward Inspection or Weighing</td>
+<td>Authorized Service Provider – Inspection or Weighing</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Third-party authorization application (payable by the applicant)</td>
-<td>Processing of application for third-party authorization to provide inward inspection services or inward weighing services</td>
+<td>Third-party authorization (payable by the applicant)</td>
+<td>Processing of an application for authorization of a third party to provide inspection or weighing of grain upon receipt into a terminal elevator</td>
 <td>Application</td>
-<td>$140.97</td>
-<td>$143.22</td>
-<td>$145.52</td>
-<td>$147.84</td>
-<td>$150.21</td>
+<td>$137.35</td>
 </tr>
 <tr>
-<td>Supplementary Fees for Outward Official Inspection</td>
+<td>Supplementary Fees for Official Inspection</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Travel and accommodation (payable by the elevator operator)</td>
-<td>Travel and accommodation to conduct an outward official inspection in a location where on-site Commission inspection is not available</td>
-<td>Trip</td>
-<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
-<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
-<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
-<td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
+<td>Travel and accommodation for official inspection services outside regular location (payable by the elevator operator)</td>
+<td>Canadian Grain Commission staff are available to conduct official inspection in a location where on-site inspection is not available</td>
+<td>Actual</td>
 <td>Cost calculated in accordance with the rate set out in the Travel Directive of the National Joint Council of the Public Service or, if no rate is set, actual cost</td>
 </tr>
 <tr>
-<td>8 and 9</td>
-<td>[Repealed, SOR/2017-125, s. 3]</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Time and one-half overtime — cancellation (payable by the elevator operator)</td>
-<td>Late cancellation of overtime to conduct an outward official inspection</td>
+<td>8</td>
+<td>Non-scheduled service reservation – cancellation (payable by the elevator operator)</td>
+<td>If Canadian Grain Commission staff are reserved for official inspection outside of regularly scheduled location hours, the fee will be charged when service is cancelled</td>
 <td>Employee reporting</td>
-<td>$193.50</td>
-<td>$196.60</td>
-<td>$199.74</td>
-<td>$202.94</td>
-<td>$206.18</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Double time overtime — cancellation (payable by the elevator operator)</td>
-<td>Late cancellation of overtime to conduct an outward official inspection</td>
-<td>Employee reporting</td>
-<td>$258.00</td>
-<td>$262.13</td>
-<td>$266.32</td>
-<td>$270.58</td>
-<td>$274.91</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Standby (payable by the elevator operator)</td>
-<td>Employee on standby to conduct an outward official inspection during off-duty hours</td>
-<td>Hour/employee</td>
-<td>$43.00</td>
-<td>$43.69</td>
-<td>$44.39</td>
-<td>$45.10</td>
-<td>$45.82</td>
+<td>$239.06</td>
 </tr>
 <tr>
 <td>Licensing</td>
 </tr>
 <tr>
-<td>13</td>
-<td>Full-term licence (payable by the licensee)</td>
+<td>9</td>
+<td>Full-term licence (payable by the licencee)</td>
 <td>Issuance of licence (all classes) for a one-year term or, if the licence is issued following the expiry of one or more short-term licences, for a term that consists of the remainder of the year that began on the issuance of the first short-term licence</td>
-<td>Licence/month or partial month</td>
-<td>$276.00</td>
-<td>$280.00</td>
-<td>$285.00</td>
-<td>$289.00</td>
-<td>$294.00</td>
+<td>Licence / month or partial month</td>
+<td>$275.68</td>
 </tr>
 <tr>
-<td>14</td>
+<td>10</td>
 <td>Short-term licence (payable by the licensee)</td>
 <td>Issuance of licence (all classes) for one month or partial month</td>
 <td>Licence</td>
-<td>$353.00</td>
-<td>$358.00</td>
-<td>$364.00</td>
-<td>$370.00</td>
-<td>$376.00</td>
+<td>$381.64</td>
 </tr>
 <tr>
 <td>Producer Railway Cars</td>
 </tr>
 <tr>
-<td>15</td>
+<td>11</td>
 <td>Producer railway car application (payable by the producer)</td>
-<td>Processing of application for producer railway car</td>
-<td>Railway car applied for</td>
-<td>$26.50</td>
-<td>$27.00</td>
-<td>$27.50</td>
-<td>$28.00</td>
-<td>$28.50</td>
+<td>Processing of a complete application for a producer railway car</td>
+<td>Railway car</td>
+<td>$29.00</td>
 </tr>
 <tr>
 <td>Inspection of Submitted Samples</td>
 </tr>
 <tr>
-<td>16</td>
-<td>Inspection of submitted sample — unofficial sample (payable by the person submitting the sample)</td>
-<td>Inspection of unofficial sample of grain or screenings, and issuance of certificate</td>
+<td>12</td>
+<td>Inspection of submitted sample (payable by the person submitting the sample)</td>
+<td>Inspection of sample of grain or screenings and issuance of certificate</td>
 <td>Sample</td>
-<td>$46.99</td>
-<td>$47.74</td>
-<td>$48.51</td>
-<td>$49.28</td>
-<td>$50.07</td>
+<td>$45.78</td>
 </tr>
 <tr>
-<td>17</td>
-<td>Inspection of submitted sample — Certified Container Sampling Program (payable by the person submitting the sample)</td>
-<td>Inspection of sample of grain or screenings taken by a company certified under the Commission’s Certified Container Sampling Program, and issuance of certificate</td>
-<td>Sample</td>
-<td>$46.99</td>
-<td>$47.74</td>
-<td>$48.51</td>
-<td>$49.28</td>
-<td>$50.07</td>
+<td>Sampling services</td>
 </tr>
 <tr>
-<td>18</td>
-<td>Inspection of submitted sample — Accredited Container Sampler Program (payable by the person submitting the sample)</td>
-<td>Inspection of sample of grain or screenings taken by a third party accredited under the Commission’s Accredited Container Sampler Program, and issuance of certificate</td>
+<td>13</td>
+<td>Official sample (payable by the person making the request)</td>
+<td>At the time of official inspection, obtaining and supplying a portion of the representative grain sample and identifying the portion with a Canadian Grain Commission seal</td>
 <td>Sample</td>
-<td>$46.99</td>
-<td>$47.74</td>
-<td>$48.51</td>
-<td>$49.28</td>
-<td>$50.07</td>
+<td>$68.68</td>
+</tr>
+<tr>
+<td>Documentation</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Documentation issued (payable by the person making the request)</td>
+<td>Provision of the following types of supplemental documentation:
+- **•** inspection certificate
+- **•** letters of analysis
+- **•** statements of assurance
+
+</td>
+<td>Document</td>
+<td>$71.77</td>
 </tr>
 </table>
 
 
-###### NOTES:
-
-Fees for items 2 and 5
-
-**1** If more than one certificate is required for a railway car, truck or container, separate inspection and weighing fees will be applied for each certificate issued.
+### Notes:
 
 
+#### Fees for all items
 
-
-Fees for items 8 to 12
-
-**2** Type of overtime (time and one-half or double time) and the commencement of overtime and standby are determined in accordance with the collective agreement that is applicable to inspectors (Primary Products Inspection classification, Technical Services Group). The agreement may be found on the Treasury Board of Canada Secretariat’s website.
+**1** Fees are exclusive of the goods and services tax.
 
 
 
+#### Fees for items 1 and 4
 
-Fees for items 10 and 11
-
-**3** A fee is not payable for cancellation of overtime if notice of cancellation is received by the Commission no later than 2 p.m. on the day on which the inspection is to be conducted or, if the inspection is to be conducted on a Saturday or a holiday, no later than 2 p.m. on the day — other than a Saturday or holiday — before that day.
-
-
-
-**4** Fees are exclusive of the goods and services tax.
+**2** Fees are calculated to the nearest cent.
 
 
 
-**5** All fees are calculated to the nearest cent. Overtime hours are calculated in 15‑minute increments.
+#### Fees for items 2 and 5
+
+**3** If more than one certificate is required for a railway car, truck or container, separate inspection and weighing fees will be applied for each certificate issued (per item 14).
 
 
-
-
-> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1; SOR/2017-125, ss. 1 to 3.
+> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6; SOR/2013-109, s. 1; SOR/2017-125, ss. 1 to 3; SOR/2018-33, s. 2.
 
 
 
