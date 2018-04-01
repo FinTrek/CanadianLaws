@@ -2189,8 +2189,8 @@ is to be considered to have worked or not worked a full working week;
 
 **Definition of insured participant**
 
-**58** In this Part, ***insured participant*** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person for whom a benefit period is established or whose benefit period has ended within the previous 60 months.
-> 1996, c. 23, s. 58; 2015, c. 36, s. 153; 2016, c. 7, s. 216.
+**58** In this Part, ***insured participant*** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person for whom a benefit period is established or whose benefit period has ended within the previous 60 months or an unemployed person who paid, in at least 5 of the last 10 years, employee’s premiums that did not entitle the person to a refund under subsection 96(4).
+> 1996, c. 23, s. 58; 2015, c. 36, s. 153; 2016, c. 7, s. 216; 2017, c. 20, s. 306.
 
 
 
@@ -2229,15 +2229,17 @@ is to be considered to have worked or not worked a full working week;
 **Support measures**
 
 - **(4)** In support of the national employment service, the Commission may establish support measures to support
-	- **(a)** organizations that provide employment assistance services to unemployed persons;
+	- **(a)** organizations that provide employment assistance services;
 	- **(b)** employers, employee or employer associations, community groups and communities in developing and implementing strategies for dealing with labour force adjustments and meeting human resource requirements; and
 	- **(c)** research and innovative projects to identify better ways of helping persons prepare for, return to or keep employment and be productive participants in the labour force.
 
 **Limitation**
 
 - **(5)** Support measures established under paragraph (4)(b) shall not
-	- **(a)** provide assistance for employed persons unless they are facing a loss of their employment; or
+	- **(a)** provide assistance for employed persons unless they are facing a loss of their employment or need assistance to maintain their employment; or
 	- **(b)** provide direct federal government assistance for the provision of labour market training without the agreement of the government of the province in which the assistance is provided.
+> 1996, c. 23, s. 60; 2017, c. 20, s. 307.
+
 
 
 
@@ -2282,26 +2284,13 @@ is to be considered to have worked or not worked a full working week;
 	- **(a)** any costs of benefits or measures provided by the government, government agency or organization that are similar to employment benefits or support measures under this Part and are consistent with the purpose and guidelines of this Part; and
 	- **(b)** any administration costs that the government, government agency or organization incurs in providing the benefits or measures.
 
-**Insured participants**
-
-- **(2)** An agreement may be entered into under subsection (1) with a government even if the benefits provided by that government are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III.
-> 1996, c. 23, s. 63; 2015, c. 36, s. 154; 2016, c. 7, s. 217.
+- **(2)** [Repealed, 2017, c. 20, s. 308]
+> 1996, c. 23, s. 63; 2015, c. 36, s. 154; 2016, c. 7, s. 217; 2017, c. 20, s. 308.
 
 
 
 
-
-**Payment of contributions — insured participants**
-
-**63.1** 
-
-- **(1)** If an agreement that is entered into with a government under section 63 provides for the payment of contributions for all or a portion of the costs of benefits provided by the government that are similar to employment benefits under this Part and the benefits to be provided by that government under the agreement are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III, the contributions to be paid under the agreement shall be paid only for costs of benefits for an ***insured participant*** as defined in that section 58.
-
-**Application**
-
-- **(2)** Subsection (1) applies in respect of agreements entered into before, on or after the day on which this subsection comes into force.
-> 2015, c. 36, s. 155; 2016, c. 7, s. 218.
-
+**63.1** [Repealed, 2017, c. 20, s. 309]
 
 
 
@@ -7610,26 +7599,7 @@ In addition, the person shall pay to the Receiver General, on or before the pers
 
 
 ### **SCHEDULE III** 
-**(Subsections 63(2) and 63.1(1))**
-## Text of Section 58 as It Read Before June 23, 2015
-
-**Definition of insured participants**
-
-**58** 
-
-- **(1)** In this Part, ***insured participant*** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person
-	- **(a)** for whom a benefit period is established or whose benefit period has ended within the previous 36 months; or
-	- **(b)** for whom a benefit period has been established in the previous 60 months and who
-		- **(i)** was paid special benefits under section 22 or 23 during the benefit period,
-		- **(ii)** subsequently withdrew from active participation in the labour force to care for one or more of their new-born children or one or more children placed with them for the purpose of adoption, and
-		- **(iii)** is seeking to re-enter the labour force.
-
-**Interpretation**
-
-- **(2)** For the purposes of subsection (1), ***benefit period*** includes a benefit period established under the Unemployment Insurance Act and ***special benefits*** includes benefits under sections 18 and 20 of that Act.
-
-
-> 2016, c. 7, s. 224.
+[Repealed, 2017, c. 20, s. 310]
 
 
 
