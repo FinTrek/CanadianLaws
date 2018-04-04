@@ -166,19 +166,19 @@ Autorités habilitantes :
 		- **(iii)** d’un pharmacien en vertu de l’article 36,
 		- **(iv)** en vertu d’un document médical concernant le chanvre indien qui n’est pas fourni ou obtenu en violation du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md);
 	- **e)** qu’elle est un praticien en médecine qui a reçu ledit stupéfiant en vertu du paragraphe 68(3) ou (5) et qui l’a en sa possession aux seules fins énoncées au paragraphe 68(4) ou (6);
-	- **f)** qu’elle est un représentant d’un praticien en médecine qui a reçu le stupéfiant en vertu du paragraphe 68(3) et qui l’a en sa possession à la seule fin de se conformer au paragraphe 68(5);
+	- **f)** qu’elle est un mandataire d’un praticien en médecine qui a reçu le stupéfiant en vertu du paragraphe 68(3) et qui l’a en sa possession à la seule fin de se conformer au paragraphe 68(5);
 	- **g)** qu’elle est employée à titre d’inspecteur, de membre de la Gendarmerie royale du Canada, d’agent de police, d’agent de la paix ou de membre du personnel technique ou scientifique de tout service du gouvernement du Canada, d’une province ou d’une université, et qu’elle a le stupéfiant en sa possession aux fins de ses fonctions ou en rapport avec elles;
 	- **h)** qu’elle est une personne non visée aux alinéas e) ou f), qu’elle bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant et qu’elle en a la possession aux fins énoncées dans l’exemption; ou
 	- **i)** qu’elle est une personne visée à l’alinéa 68(4)b).
 
-- **(2)** Une personne est autorisée à avoir un stupéfiant en sa possession lorsqu’elle agit comme agent de toute personne visée aux alinéas (1)a) à e), h) et i).
+- **(2)** Une personne est autorisée à avoir un stupéfiant en sa possession lorsqu’elle agit comme mandataire de toute personne visée aux alinéas (1)a) à e), h) et i).
 
 - **(2.1)** Une personne est autorisée à avoir un stupéfiant en sa possession lorsque :
-	- **a)** d’une part, elle agit comme agent de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)g);
+	- **a)** d’une part, elle agit comme mandataire de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)g);
 	- **b)** d’autre part, la possession du stupéfiant a pour but d’aider cette dernière dans l’application ou l’exécution d’une loi ou d’un règlement.
 
 - **(3)** [Abrogé, DORS/2012-230, art. 15]
-> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15; DORS/2013-119, art. 202; DORS/2013-172, art. 4; DORS/2016-230, art. 263; DORS/2016-239, art. 3.
+> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15; DORS/2013-119, art. 202; DORS/2013-172, art. 4; DORS/2016-230, art. 263; DORS/2016-239, art. 3; DORS/2018-69, art. 75 et 76.
 
 
 
@@ -198,11 +198,13 @@ Autorités habilitantes :
 
 
 
-**5** Le fabricant d’un nécessaire d’essai contenant un stupéfiant peut demander au ministre un numéro d’enregistrement en présentant au Directeur une demande contenant
+**5** Le fabricant d’un nécessaire d’essai contenant un stupéfiant peut demander au ministre un numéro d’enregistrement en lui présentant une demande contenant
 - **a)** les détails de la présentation et de la composition du nécessaire d’essai;
 - **b)** une description détaillée du stupéfiant et des autres substances, s’il en est, que contient le nécessaire d’essai, y compris la composition qualitative et quantitative de chacun des composants;
-- **c)** une description de l’usage auquel on destine le nécessaire d’essai; et
-- **d)** tout autre renseignement et document susceptibles d’être demandés par le ministre afin qu’il puisse déterminer s’il peut émettre un numéro d’enregistrement pour le nécessaire d’essai.
+- **c)** une description de l’usage auquel on destine le nécessaire d’essai;
+- **d)** tout autre renseignement et document que le ministre peut exiger afin de déterminer s’il peut émettre un numéro d’enregistrement pour le nécessaire d’essai.
+> DORS/2018-69, art. 71.
+
 
 
 
@@ -1313,31 +1315,31 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(3)** Malgré toute disposition du présent règlement, une personne peut, aux fins d’identification ou d’analyse, fournir ou livrer un stupéfiant qu’elle a en sa possession aux personnes suivantes :
 	- **a)** à un praticien en médecine; ou
-	- **b)** au représentant d’un praticien, qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant.
+	- **b)** au mandataire d’un praticien, qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant.
 
 - **(4)** Un praticien en médecine qui a reçu un stupéfiant en vertu du paragraphe (3) doit, sans délai,
 	- **a)** à des fins d’identification ou d’analyse, fournir ou livrer ce stupéfiant à une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant à ces fins;
-	- **b)** remettre ledit stupéfiant au ministre ou à son représentant.
+	- **b)** remettre ledit stupéfiant au ministre.
 
-- **(5)** Le représentant du praticien en médecine qui a reçu un stupéfiant en vertu du paragraphe (3) le fournit ou le livre, sans délai, à l’une des personnes suivantes :
-	- **a)** au praticien dont il est le représentant; ou
-	- **b)** au ministre ou à son représentant.
+- **(5)** Le mandataire du praticien en médecine qui a reçu un stupéfiant en vertu du paragraphe (3) le fournit ou le livre, sans délai, à l’une des personnes suivantes :
+	- **a)** au praticien dont il est le mandataire; ou
+	- **b)** au ministre.
 
-- **(6)** Un praticien en médecine qui a reçu, en vertu du paragraphe (5), un stupéfiant de son représentant autorisé, doit, sans délai,
+- **(6)** Un praticien en médecine qui a reçu, en vertu du paragraphe (5), un stupéfiant de son mandataire autorisé, doit, sans délai,
 	- **a)** à des fins d’identification ou d’analyse, fournir ou livrer ce stupéfiant à une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession de ce stupéfiant à ces fins;
-	- **b)** remettre ledit stupéfiant au ministre ou à son représentant.
-> DORS/85-930, art. 9; DORS/99-124, art. 8; DORS/2004-237, art. 26.
+	- **b)** remettre ledit stupéfiant au ministre.
+> DORS/85-930, art. 9; DORS/99-124, art. 8; DORS/2004-237, art. 26; DORS/2018-69, art. 75 et 77.
 
 
 
 
-**69** Toute personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession d’un stupéfiant — sauf celle à qui un stupéfiant a été administré, vendu, livré ou fourni par un praticien en médecine bénéficiant d’une exemption aux termes de l’article 56 de la Loi relativement à l’application de tout paragraphe de l’article 53 à ce stupéfiant —, tout praticien en médecine qui a reçu un stupéfiant en vertu des paragraphes 68(3) ou (5) et tout représentant d’un praticien en médecine qui a reçu un stupéfiant en vertu du paragraphe 68(3) doivent :
+**69** Toute personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la possession d’un stupéfiant — sauf celle à qui un stupéfiant a été administré, vendu, livré ou fourni par un praticien en médecine bénéficiant d’une exemption aux termes de l’article 56 de la Loi relativement à l’application de tout paragraphe de l’article 53 à ce stupéfiant —, tout praticien en médecine qui a reçu un stupéfiant en vertu des paragraphes 68(3) ou (5) et tout mandataire d’un praticien en médecine qui a reçu un stupéfiant en vertu du paragraphe 68(3) doivent :
 - **a)** tenir un registre, dans lequel les inscriptions doivent être conservées pour une période de deux ans après leur entrée, faisant état
 	- **(i)** de la sorte et de la quantité de tout stupéfiant qu’elle a acheté ou reçu, ainsi que de la date de ladite acquisition ou réception,
 	- **(ii)** du nom et de l’adresse de la personne de qui ledit stupéfiant a été reçu, et
 	- **(iii)** des détails de l’usage fait dudit stupéfiant; et
 - **b)** fournir, à l’égard desdits stupéfiants, tout renseignement que peut exiger le ministre, et donner accès aux registres dont la tenue est exigée par le présent règlement.
-> DORS/85-588, art. 23; DORS/99-124, art. 9; DORS/2004-237, art. 27; DORS/2010-221, art. 15.
+> DORS/85-588, art. 23; DORS/99-124, art. 9; DORS/2004-237, art. 27; DORS/2010-221, art. 15; DORS/2018-69, art. 75.
 
 
 
@@ -1392,7 +1394,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 ### **ANNEXE** 
 **(article 2)**
-- **1** Pavot à opium (Papaver somniferum), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **1** Pavot à opium (*Papaver somniferum*), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** opium
 - **(2)** codéine (méthylmorphine)
 - **(3)** morphine (didéhydro-7,8 époxy-4,5 méthyl-17 morphinanediol-3,6)
@@ -1437,7 +1439,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(35)** narcotine (diméthoxy-6,7 (tétrahydro-5,6,7,8 méthoxy-4 méthyl-6 dioxolo-1,3[4,5-g]isoquinolinyl-5)-3 1(3H)-isobenzofuranone) et ses sels
 - **(36)** papavérine ([(diméthoxy-3,4 phényl) méthyl]-1 diméthoxy-6,7 isoquinoline) et ses sels
 - **(37)** graine de pavot
-- **2** Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **2** Coca (*Erythroxylum*), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** feuilles de coca
 - **(2)** cocaïne (ester méthylique de la benzoylecgonine)
 - **(3)** ecgonine (acide hydroxy-3 tropane-2 carboxylique)
@@ -1474,7 +1476,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - mais non compris :
 - **(2)** éthoheptazine (ester éthylique de l’acide méthyl-1 phényl-4 azépine carboxylique-4) et ses sels
 - **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro-1,2) phényl-4 pipéridine carboxylique-4 diméthyl-1,3) et ses sels
-- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4) et ses sels
+- **(4)** métheptazine (ester méthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4) et ses sels
 - **5** Amidones, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
 - **(1)** diméthylaminodiphénylbutanonitrile (cyano-4 diméthylamino-2 diphénylbutane-4,4)
 - **(2)** dipipanone (diphényl-4,4 pipéridino-6 heptanone-3)
@@ -1610,6 +1612,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9; DORS/2017-276, art. 1.
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9; DORS/2017-276, art. 1; DORS/2018-69, art. 72, 73 et 74(F).
 
 
