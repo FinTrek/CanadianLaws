@@ -168,19 +168,19 @@ Enabling authorities:
 		- **(iii)** from a pharmacist pursuant to section 36, or
 		- **(iv)** pursuant to a cannabis medical document that is not provided or obtained in contravention of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md);
 	- **(e)** is a practitioner of medicine who received the narcotic pursuant to subsection 68(3) or (5) and his possession is for a purpose referred to in subsection 68(4) or (6);
-	- **(f)** is an agent of a practitioner of medicine who received the narcotic pursuant to section 68(3) and his possession is for the purpose of complying with subsection 68(5);
+	- **(f)** is an agent or mandatary of a practitioner of medicine who received the narcotic pursuant to section 68(3) and his possession is for the purpose of complying with subsection 68(5);
 	- **(g)** is employed as an inspector, a member of the Royal Canadian Mounted Police, a police constable, peace officer or member of the technical or scientific staff of any department of the Government of Canada or of a province or university and such possession is for the purposes of and in connection with such employment;
 	- **(h)** is a person other than a person referred to in paragraph (e) or (f), is exempted under section 56 of the Act with respect to the possession of that narcotic and whose possession is for a purpose set out in the exemption; or
 	- **(i)** is a person referred to in paragraph 68(4)(b).
 
-- **(2)** A person is authorized to have a narcotic in his possession where the person is acting as the agent for any person referred to in paragraphs (1)(a) to (e), (h) or (i).
+- **(2)** A person is authorized to have a narcotic in his possession where the person is acting as the agent or mandatary for any person referred to in paragraphs (1)(a) to (e), (h) or (i).
 
 - **(2.1)** A person is authorized to have a narcotic in his possession where
-	- **(a)** the person is acting as the agent for a person he has reasonable grounds to believe is a person referred to in paragraph (1)(g); and
+	- **(a)** the person is acting as the agent or mandatary for a person he has reasonable grounds to believe is a person referred to in paragraph (1)(g); and
 	- **(b)** the possession of the narcotic is for the purpose of assisting that person in the enforcement or administration of an Act or regulation.
 
 - **(3)** [Repealed, SOR/2012-230, s. 15]
-> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15; SOR/2013-119, s. 202; SOR/2013-172, s. 4; SOR/2016-230, s. 263; SOR/2016-239, s. 3.
+> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15; SOR/2013-119, s. 202; SOR/2013-172, s. 4; SOR/2016-230, s. 263; SOR/2016-239, s. 3; SOR/2018-69, ss. 75, 76.
 
 
 
@@ -200,11 +200,13 @@ Enabling authorities:
 
 
 
-**5** The manufacturer of a test kit that contains a narcotic may apply for a registration number therefor by submitting to the Director an application containing
+**5** The manufacturer of a test kit that contains a narcotic may apply for a registration number by submitting to the Minister an application containing
 - **(a)** particulars of the design and construction of the test kit;
 - **(b)** a detailed description of the narcotic and other substances, if any, contained in the test kit, including the qualitative and quantitative composition of each component;
 - **(c)** a statement of the proposed use of the test kit; and
-- **(d)** any further information and material that the Minister may require in order to satisfy himself that the test kit is one for which a registration number may be issued.
+- **(d)** any further information and material that the Minister may require to determine whether the test kit is one for which a registration number may be issued.
+> SOR/2018-69, s. 71.
+
 
 
 
@@ -1315,31 +1317,31 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(3)** Despite anything in these Regulations, a person may, for the purpose of identification or analysis of a narcotic in their possession, provide or deliver the narcotic to
 	- **(a)** a practitioner of medicine, or
-	- **(b)** an agent of that practitioner where the agent is exempted under section 56 of the Act with respect to possession of that narcotic.
+	- **(b)** an agent or mandatary of that practitioner where the agent or mandatary is exempted under section 56 of the Act with respect to possession of that narcotic.
 
 - **(4)** A practitioner of medicine who has received a narcotic pursuant to subsection (3) shall forthwith
 	- **(a)** for the purpose of its identification or analysis, provide or deliver the narcotic to a person exempted under section 56 of the Act with respect to the possession of that narcotic for that purpose; or
-	- **(b)** deliver that narcotic to the Minister or his agent.
+	- **(b)** deliver that narcotic to the Minister.
 
-- **(5)** An agent of a practitioner of medicine who has received a narcotic under subsection (3) shall immediately provide or deliver the narcotic
-	- **(a)** to the practitioner of whom he is the agent, or
-	- **(b)** to the Minister or his agent.
+- **(5)** An agent or mandatary of a practitioner of medicine who has received a narcotic under subsection (3) shall immediately provide or deliver the narcotic
+	- **(a)** to the practitioner of whom he is the agent or mandatary, or
+	- **(b)** to the Minister.
 
-- **(6)** A practitioner of medicine who has received, pursuant to subsection (5), a narcotic from his authorized agent shall forthwith
+- **(6)** A practitioner of medicine who has received, pursuant to subsection (5), a narcotic from his authorized agent or mandatary shall forthwith
 	- **(a)** for the purpose of its identification or analysis, provide or deliver the narcotic to a person exempted under section 56 of the Act with respect to the possession of that narcotic for that purpose; or
-	- **(b)** deliver that narcotic to the Minister or his agent.
-> SOR/85-930, s. 9; SOR/99-124, s. 8; SOR/2004-237, s. 26.
+	- **(b)** deliver that narcotic to the Minister.
+> SOR/85-930, s. 9; SOR/99-124, s. 8; SOR/2004-237, s. 26; SOR/2018-69, ss. 75, 77.
 
 
 
 
-**69** Every person who is exempted under section 56 of the Act with respect to the possession of a narcotic, other than a person to whom a narcotic has been administered, sold, delivered or provided by a practitioner of medicine exempted under section 56 of the Act from the application of any subsection of section 53 with respect to that narcotic, every practitioner of medicine who has received a narcotic under subsection 68(3) or (5) and every agent of a practitioner of medicine who has received a narcotic under subsection 68(3) shall
+**69** Every person who is exempted under section 56 of the Act with respect to the possession of a narcotic, other than a person to whom a narcotic has been administered, sold, delivered or provided by a practitioner of medicine exempted under section 56 of the Act from the application of any subsection of section 53 with respect to that narcotic, every practitioner of medicine who has received a narcotic under subsection 68(3) or (5) and every agent or mandatary of a practitioner of medicine who has received a narcotic under subsection 68(3) shall
 - **(a)** keep and retain for a period of two years from the date of the making of the record, a record of
 	- **(i)** the kind, date and quantity of any narcotic purchased or received by him,
 	- **(ii)** the name and address of the person from whom the narcotic was received, and
 	- **(iii)** particulars of the use to which the narcotic was put; and
 - **(b)** furnish such information respecting such narcotics as the Minister may require, and shall permit access to the records required to be kept by these Regulations.
-> SOR/85-588, s. 23; SOR/99-124, s. 9; SOR/2004-237, s. 27; SOR/2010-221, s. 15.
+> SOR/85-588, s. 23; SOR/99-124, s. 9; SOR/2004-237, s. 27; SOR/2010-221, s. 15; SOR/2018-69, s. 75.
 
 
 
@@ -1394,7 +1396,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 ### **SCHEDULE** 
 **(Section 2)**
-- **1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
+- **1** Opium Poppy (*Papaver somniferum*), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Opium
 - **(2)** Codeine (methylmorphine)
 - **(3)** Morphine (7,8-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol)
@@ -1439,7 +1441,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(35)** Narcotine (6,7-dimethoxy-3-(5,6,7,8-tetrahydro-4-methoxy-6-methyl-1,3-dioxolo [4,5-g]isoquinolin-5-yl)-1(3H)-isobenzofuranone) and its salts
 - **(36)** Papaverine (1-[(3,4-dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline) and its salts
 - **(37)** Poppy seed
-- **2** Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
+- **2** Coca (*Erythroxylum*), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Coca leaves
 - **(2)** Cocaine (benzoylmethylecgonine)
 - **(3)** Ecgonine (3-hydroxy-2-tropane carboxylic acid)
@@ -1612,6 +1614,6 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1.
+> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1; SOR/2018-69, ss. 72, 73, 74(F).
 
 
