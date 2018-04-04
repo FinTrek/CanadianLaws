@@ -1753,7 +1753,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 ### **ANNEXE I** 
 **(articles 2, 4 à 7.1, 10, 29, 55 et 60)**
-- **1** Pavot à opium (Papaver somniferum), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **1** Pavot à opium (*Papaver somniferum*), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** opium
 - **(2)** codéine (méthylmorphine)
 - **(3)** morphine (didéhydro–7,8 époxy–4,5 méthyl–17 morphinanediol–3,6)
@@ -1797,7 +1797,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(35)** narcotine (diméthoxy-6,7 (tétrahydro-5,6,7,8 méthoxy-4 méthyl-6 dioxolo-1,3[4,5-g]isoquinolinyl-5)-3 1(3H)-isobenzofuranone) et ses sels
 - **(36)** papavérine ([(diméthoxy-3,4 phényl) méthyl]-1 diméthoxy-6,7 isoquinoline) et ses sels
 - **(37)** graine de pavot
-- **2** Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **2** Coca (*Erythroxylum*), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** feuilles de coca
 - **(2)** cocaïne (ester méthylique de la benzoylecgonine)
 - **(3)** ecgonine (acide hydroxy–3 tropane–2 carboxylique)
@@ -1834,7 +1834,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - mais non compris :
 - **(2)** éthoheptazine (ester éthylique de l’acide méthyl-1 phényl-4 azépine carboxylique-4) et ses sels
 - **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro-1,2) phényl-4 pipéridine carboxylique-4 diméthyl-1,3) et ses sels
-- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4) et ses sels
+- **(4)** métheptazine (ester méthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4) et ses sels
 - **5** Amidones, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
 - **(1)** diméthylaminodiphénylbutanonitrile (cyano–4 diméthylamino–2 diphénylbutane–4,4)
 - **(2)** dipipanone (diphényl–4,4 pipéridino–6 heptanone–3)
@@ -1956,7 +1956,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(3)** U-48520 (4-chloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide)
 - **(4)** U-50211 (N-(2-(diméthylamino)cyclohexyl)-4-hydroxy-N-méthylbenzamide)
 - **(5)** U-77891 (3,4-dibromo-N-méthyl-N-(1-méthyl-1-azaspiro[4.5]déc-6-yl)benzamide)
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1; DORS/2018-70, art. 1, 2 et 3(F).
 
 
 
@@ -2229,9 +2229,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **25** Zolpidem (N,N-diméthyl [méthyl-6 (méthyl-4 phényl)-2 imidazo[1,2-a]pyridinyl-3]-2 acétamide) et ses sels
 - **25.1** Pémoline (amino-2 phényl-5 oxazolinone-4) et ses sels
 - **26** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
-- **27** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
+- **27** *Salvia divinorum* (*S. divinorum*), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; 2017, ch. 7, art. 49; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12.
+> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; 2017, ch. 7, art. 49; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12; DORS/2018-70, art. 4.
 
 
 
