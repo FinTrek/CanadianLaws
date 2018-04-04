@@ -37,45 +37,49 @@ Enabling authorities:
 
 **A.01.010** In these Regulations,
 
-***acceptable method*** means a method of analysis or examination designated by the Director as acceptable for use in the administration of the Act and these Regulations; (*méthode acceptable*)
+***acceptable method*** means a method of analysis or examination designated by the Minister as acceptable for use in the administration of the Act and these Regulations; (*méthode acceptable*)
 
-***Act*** means the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), except in Parts G and J; (*Loi*)
+***Act*** means the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), except in Parts G and J; (*Loi*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
-***cubic centimetre*** and its abbreviation ***cc.*** shall be deemed to be interchangeable with the term ***millilitre*** and its abbreviation ***ml.***; (*centimètre cube*)
+***cubic centimetre*** and its abbreviation ***cc.*** shall be deemed to be interchangeable with the term millilitre and its abbreviation ml.; (*centimètre cube*)
 
-***Director*** means the Assistant Deputy Minister, Health Products and Food Branch, of the Department of Health; (*Directeur*)
+***Director***[Repealed, SOR/2018-69, s. 1]
 
-***inner label*** means the label on or affixed to an immediate container of a food or drug; (*étiquette intérieure*)
+***inner label*** means the label on or affixed to an immediate container of a food or drug; (*étiquette intérieure*)
 
-***Lot number*** means any combination of letters, figures, or both, by which any food or drug can be traced in manufacture and identified in distribution; (*numéro de lot*)
+***Lot number*** means any combination of letters, figures, or both, by which any food or drug can be traced in manufacture and identified in distribution; (*numéro de lot*)
 
 ***manufacturer***[Repealed, SOR/97-12, s. 1]
 
-***manufacturer*** or ***distributor*** means a person, including an association or partnership, who under their own name, or under a trade-, design or word mark, trade name or other name, word or mark controlled by them, sells a food or drug; (*fabricant*or*distributeur*)
+***manufacturer*** or ***distributor*** means a person, including an association or partnership, who under their own name, or under a trade-, design or word mark, trade name or other name, word or mark controlled by them, sells a food or drug; (*fabricant* or *distributeur*)
 
-***official method*** means a method of analysis or examination designated as such by the Director for use in the administration of the Act and these Regulations; (*méthode officielle*)
+***official method*** means a method of analysis or examination designated as such by Minister for use in the administration of the Act and these Regulations; (*méthode officielle*)
 
-***outer label*** means the label on or affixed to the outside of a package of a food or drug; (*étiquette extérieure*)
+***outer label*** means the label on or affixed to the outside of a package of a food or drug; (*étiquette extérieure*)
 
-***prescription drug*** means a drug that is set out in the Prescription Drug List, as amended from time to time, or a drug that is part of a class of drugs that is set out in it; (*drogue sur ordonnance*) 
+***prescription drug*** means a drug that is set out in the Prescription Drug List, as amended from time to time, or a drug that is part of a class of drugs that is set out in it; (*drogue sur ordonnance*)
 
-***Prescription Drug List*** means the list established by the Minister under section 29.1 of the Act; (*Liste des drogues sur ordonnance*) 
+***Prescription Drug List*** means the list established by the Minister under section 29.1 of the Act; (*Liste des drogues sur ordonnance*)
 
-***principal display panel*** has the same meaning as in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
+***principal display panel*** has the same meaning as in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
 
-***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (*emballage de sécurité*)
-> SOR/84-300, s. 1(F); SOR/85-141, s. 1; SOR/89-455, s. 1; SOR/97-12, s. 1; SOR/2000-353, s. 1; SOR/2001-272, s. 5; SOR/2003-135, s. 1; SOR/2013-122, s. 1.
-
-
-
-
-**A.01.011** The Director shall, upon request, furnish copies of official methods.
+***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (*emballage de sécurité*)
+> SOR/84-300, s. 1(F); SOR/85-141, s. 1; SOR/89-455, s. 1; SOR/97-12, s. 1; SOR/2000-353, s. 1; SOR/2001-272, s. 5; SOR/2003-135, s. 1; SOR/2013-122, s. 1; SOR/2018-69, ss. 1, 27.
 
 
 
-**A.01.012** The Director shall, upon request, indicate that a method is acceptable or otherwise upon its submission to him for a ruling.
+
+**A.01.011** The Minister shall, upon request, furnish copies of official methods.
+> SOR/2018-69, s. 27.
+
+
+
+
+**A.01.012** The Minister shall, upon request, indicate that a method is acceptable or otherwise upon its submission to him for a ruling.
+> SOR/2018-69, s. 27.
+
 
 
 
@@ -139,9 +143,9 @@ Enabling authorities:
 **A.01.024** The certificate of designation required pursuant to subsection 22(2) of the Act shall
 - **(a)** certify that the person named therein is an inspector for the purpose of the Act; and
 - **(b)** be signed by
-	- **(i)** the Director and the person named in the certificate, in the case of an inspector on the staff of the Department, or 
+	- **(i)** the Minister and the person named in the certificate, in the case of an inspector on the staff of the Department.
 	- **(ii)** [Repealed, SOR/2000-184, s. 60]
-> SOR/80-500, s. 1; SOR/92-626, s. 1; SOR/95-548, s. 5; SOR/2000-184, s. 60.
+> SOR/80-500, s. 1; SOR/92-626, s. 1; SOR/95-548, s. 5; SOR/2000-184, s. 60; SOR/2018-69, s. 27.
 
 
 
@@ -192,9 +196,9 @@ Enabling authorities:
 	- **(b)** the food or drug will be relabelled or modified as may be necessary to enable its sale to be lawful in Canada.
 
 - **(2)** No person shall sell a food or drug that has been imported into Canada under subsection (1) unless the food or drug has been relabelled or modified within three months after the importation or within such longer period as may be specified by
-	- **(a)** in the case of a drug, the Director; or
-	- **(b)** in the case of food, the Director or the President of the Canadian Food Inspection Agency. 
-> SOR/92-626, s. 3; SOR/95-548, s. 5; SOR/2000-184, s. 61; SOR/2000-317, s. 18.
+	- **(a)** in the case of a drug, the Minister; or
+	- **(b)** in the case of food, the Minister or the President of the Canadian Food Inspection Agency.
+> SOR/92-626, s. 3; SOR/95-548, s. 5; SOR/2000-184, s. 61; SOR/2000-317, s. 18; SOR/2018-69, s. 27.
 
 
 
@@ -276,11 +280,8 @@ Enabling authorities:
 
 
 
-- **(3)** The requirements of subsections (1) and (2) do not apply where
-	- **(a)** in relation to a drug or cosmetic, in the opinion of the Director, or
-	- **(b)** in relation to a food, in the opinion of the Minister of Consumer and Corporate Affairs,
-the design of the container, the materials used in its construction or the incorporation of a safety device eliminate the potential hazard therein.
-> SOR/81-616, s. 1; SOR/85-1023, s. 1; SOR/92-15, s. 2; SOR/2001-272, s. 7.
+- **(3)** The requirements of subsections (1) and (2) do not apply in relation to a drug or food if the Minister determines that the design of the container, the materials used in its construction or the incorporation of a safety device eliminate its potential hazard.
+> SOR/81-616, s. 1; SOR/85-1023, s. 1; SOR/92-15, s. 2; SOR/2001-272, s. 7; SOR/2018-69, s. 2.
 
 
 
@@ -1967,8 +1968,8 @@ in letters of at least the same size and prominence as the letters used in the n
 
 **B.01.054** 
 
-- **(1)** In order to generate information in support of an amendment to the Regulations, the Director may issue to the manufacturer or distributor of a food, where the food or the packaging, labelling or advertising of the food does not comply with the requirements of these Regulations, a Temporary Marketing Authorization Letter that authorizes the sale of the food described therein or the packaging, labelling or advertising of the food described therein for a specified period of time, within a designated area and in a specified quantity, in the manner specified in the Letter if
-	- **(a)** the manufacturer or distributor of the food has supplied to the Director the following information:
+- **(1)** In order to generate information in support of an amendment to the Regulations, the Minister may issue to the manufacturer or distributor of a food, where the food or the packaging, labelling or advertising of the food does not comply with the requirements of these Regulations, a Temporary Marketing Authorization Letter that authorizes the sale of the food described therein or the packaging, labelling or advertising of the food described therein for a specified period of time, within a designated area and in a specified quantity, in the manner specified in the Letter if
+	- **(a)** the manufacturer or distributor of the food has supplied to the Minister the following information:
 		- **(i)** the purpose for which the temporary marketing authorization of the food is required,
 		- **(ii)** a description of the food including a sample and proposed label,
 		- **(iii)** a description of any proposed variation from the requirements of these Regulations,
@@ -1976,14 +1977,14 @@ in letters of at least the same size and prominence as the letters used in the n
 		- **(v)** the proposed quantity of the food to be sold,
 		- **(vi)** the proposed period of time required for such sale,
 		- **(vii)** the proposed area designated for such sale, and
-		- **(viii)** such other data as the Director may require; and
+		- **(viii)** such other data as the Minister may require; and
 	- **(b)** the manufacturer or distributor of the food has agreed to
 		- **(i)** describe the food on a label or in an advertisement in a manner that is not false, misleading or deceptive,
-		- **(ii)** use such marks or statements on the label or in any advertisement as the Director may require,
-		- **(iii)** on request, submit to the Director results of the temporary marketing, and
-		- **(iv)** on request, withdraw the product from sale where the Director is of the opinion that it is in the public interest to do so.
+		- **(ii)** use such marks or statements on the label or in any advertisement as the Minister may require,
+		- **(iii)** on request, submit to the Minister results of the temporary marketing, and
+		- **(iv)** on request, withdraw the product from sale where the Minister is of the opinion that it is in the public interest to do so.
 
-- **(2)** The Director shall, in any Temporary Marketing Authorization Letter issued pursuant to subsection (1), set out
+- **(2)** The Minister shall, in any Temporary Marketing Authorization Letter issued pursuant to subsection (1), set out
 	- **(a)** the common name and description of the food to be sold;
 	- **(b)** the name and address of the manufacturer or distributor of the food;
 	- **(c)** the purpose for which the temporary marketing of the food is authorized;
@@ -1991,7 +1992,7 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(d.1)** the type of packaging, labelling or advertising authorized in respect of the food where the Letter is intended to authorize a variation from a requirement of any provision of the Regulations respecting packaging, labelling or advertising;
 	- **(e)** the period of time during which the food may be sold; and
 	- **(f)** the designated area within which the food may be sold.
-> SOR/81-566, s. 1; SOR/85-275, s. 1.
+> SOR/81-566, s. 1; SOR/85-275, s. 1; SOR/2018-69, s. 27.
 
 
 
@@ -6171,7 +6172,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(d)** in the case of a product described in subsection B.01.461(3), in a version that is described in paragraph B.01.461(3)(a), (b) or (c) or that is listed in column 1 of the table to section B.01.461;
 	- **(e)** in the case of a product described in subsection B.01.462(3), in a version that is described in paragraph B.01.462(3)(a), (b) or (c) or that is listed in column 1 of the table to section B.01.462; and
 	- **(f)** in the case of a product described in paragraph B.01.463(2)(b), in a version that is described in subparagraph B.01.463(2)(b)(i) or that is listed in column 1 of the table to section B.01.463.
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2018-69, s. 3(F).
 
 
 
@@ -10776,8 +10777,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 1; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/91-409, s. 1; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -10821,8 +10822,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E); SOR/2011-278, s. 4; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E); SOR/2011-278, s. 4; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -10859,8 +10860,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 3; SOR/92-400, s. 6; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/91-409, s. 3; SOR/92-400, s. 6; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -10901,8 +10902,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F); SOR/2011-278, s. 5; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F); SOR/2011-278, s. 5; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -10939,8 +10940,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 4; SOR/91-409, s. 5; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/82-1071, s. 4; SOR/91-409, s. 5; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -10981,8 +10982,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F); SOR/2011-278, s. 6; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F); SOR/2011-278, s. 6; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -11016,8 +11017,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/92-400, s. 8; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/92-400, s. 8; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -11055,8 +11056,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E); SOR/2011-278, s. 7; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E); SOR/2011-278, s. 7; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -11090,8 +11091,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -11129,8 +11130,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2011-278, s. 8; SOR/2017-18, s. 18(F).
+- **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2011-278, s. 8; SOR/2017-18, s. 18(F); SOR/2018-69, s. 28(F).
 
 
 
@@ -13117,7 +13118,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(i)** in the case of pumping pickle
 	- **(i)** for cured pork hams, shoulders and backs, artificial maple flavour, and
 	- **(ii)** for cured pork bellies, artificial maple flavour and an orange flavour that meets the standard prescribed in section B.10.005.
-> SOR/79-251, s. 4; SOR/80-13, s. 2; SOR/82-596, s. 1; SOR/88-336, s. 3; SOR/94-567, s. 1; SOR/2010-143, s. 10(F); SOR/2017-18, s. 4(F).
+> SOR/79-251, s. 4; SOR/80-13, s. 2; SOR/82-596, s. 1; SOR/88-336, s. 3; SOR/94-567, s. 1; SOR/2010-143, s. 10(F); SOR/2017-18, s. 4(F); SOR/2018-69, s. 4(F).
 
 
 
@@ -13292,7 +13293,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(h)** in the case of cured pork, beef and lamb cuts prepared with the aid of pumping pickle, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate;
 - **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more than 0.1% annatto; and
 - **(j)** in the case of vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
-> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2; SOR/2016-305, s. 57; SOR/2017-18, s. 5(F).
+> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2; SOR/2016-305, s. 57; SOR/2017-18, s. 5(F); SOR/2018-69, s. 5(F).
 
 
 
@@ -13832,13 +13833,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 **B.16.002** A request that a food additive be added to or a change made in the Tables following section B.16.100 shall be accompanied by a submission to the Minister in a form, manner and content satisfactory to him and shall include
 - **(a)** a description of the food additive, including its chemical name and the name under which it is proposed to be sold, its method of manufacture, its chemical and physical properties, its composition and its specifications and, where that information is not available, a detailed explanation;
 - **(b)** a statement of the amount of the food additive proposed for use, and the purpose for which it is proposed, together with all directions, recommendations and suggestions for use;
-- **(c)** where necessary, in the opinion of the Director, an acceptable method of analysis suitable for regulatory purposes that will determine the amount of the food additive and of any substance resulting from the use of the food additive in the finished food;
+- **(c)** where necessary, in the opinion of the Minister, an acceptable method of analysis suitable for regulatory purposes that will determine the amount of the food additive and of any substance resulting from the use of the food additive in the finished food;
 - **(d)** data establishing that the food additive will have the intended physical or other technical effect;
 - **(e)** detailed reports of tests made to establish the safety of the food additive under the conditions of use recommended;
 - **(f)** data to indicate the residues that may remain in or upon the finished food when the food additive is used in accordance with good manufacturing practice;
 - **(g)** a proposed maximum limit for residues of the food additive in or upon the finished food;
 - **(h)** specimens of the labelling proposed for the food additive; and
 - **(i)** a sample of the food additive in the form in which it is proposed to be used in foods, a sample of the active ingredient, and, on request a sample of food containing the food additive.
+> SOR/2018-69, s. 27.
+
 
 
 
@@ -22450,7 +22453,7 @@ and shall have
 
 
 
-**B.21.006** Prepared fish or prepared meat shall be the whole or minced food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
+**B.21.006** **[S].** Prepared fish or prepared meat shall be the whole or minced food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
 - **(a)** in the case of lobster paste and fish roe (caviar), contain food colour;
 - **(b)** in the case of canned shellfish, canned spring mackerel and frozen cooked shrimp, contain citric acid or lemon juice;
 - **(c)** in the case of fish paste, contain filler, fish binder, monoglycerides or mono and diglycerides;
@@ -22471,13 +22474,13 @@ and shall have
 - **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million;
 - **(s)** in the case of minced products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent; and
 - **(t)** contain a Class II preservative.
-> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9; SOR/2012-43, s. 46; SOR/2017-18, ss. 8, 9(F), 17.
+> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9; SOR/2012-43, s. 46; SOR/2017-18, ss. 8, 9(F), 17; SOR/2018-69, s. 6.
 
 
 
 
 **B.21.007** **[S]. Fish binder** for use in or upon prepared fish or prepared meat shall be filler with any combination of salt, sugar, dextrose, glucose, spices and other seasonings.
-> SOR/2017-18, s. 10(F).
+> SOR/2017-18, s. 10(F); SOR/2018-69, s. 7(F).
 
 
 
@@ -22510,7 +22513,7 @@ and shall have
 - **(c)** packaged fish and meat products that are marinated or otherwise cold-processed may contain saunderswood (sandalwood), benzoic acid or its salts, methyl-p-hydroxy benzoate and propyl-p-hydroxy benzoate;
 - **(d)** salted anchovy, salted scad and salted shrimp may contain erythrosine in such amount as will result in the finished product containing not more than 125 parts per million of erythrosine; and
 - **(e)** minced products may contain tragacanth gum at a level of use not exceeding 0.75 per cent.
-> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5; SOR/2011-280, s. 10; SOR/2017-18, ss. 11(F), 17, 20(F).
+> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5; SOR/2011-280, s. 10; SOR/2017-18, ss. 11(F), 17, 20(F); SOR/2018-69, s. 8(F).
 
 
 
@@ -22669,7 +22672,7 @@ and shall have
 
 
 **B.22.016** For the purposes of sections B.22.017 to B.22.019, ***stew poultry meat*** means cooked or uncooked poultry meat containing not more than 15 per cent fat, calculated on the weight of uncooked stew poultry meat.
-> SOR/78-874, s. 3.
+> SOR/78-874, s. 3; SOR/2018-69, s. 9(F).
 
 
 
@@ -22723,7 +22726,7 @@ and shall have
 - **(d)** vinegar;
 - **(e)** in the case of cured poultry or poultry meat prepared by means of injection or cover solution, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate, in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate; and
 - **(f)** in the case of vacuum-packed sliced cooked turkey, *Carnobacterium maltaromaticum* CB1.
-> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6; SOR/2011-280, s. 12; SOR/2017-18, s. 12(F).
+> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6; SOR/2011-280, s. 12; SOR/2017-18, s. 12(F); SOR/2018-69, s. 10(F).
 
 
 
@@ -23051,14 +23054,14 @@ the poultry product extender meets the requirements of paragraphs B.22.027(a) to
 
 **B.24.017** 
 
-- **(1)** Where the manufacturer of a formulated liquid diet, a meal replacement or a food represented for use in a very low energy diet is requested in writing by the Director to submit, on or before a specified day, evidence with respect to that product, the manufacturer shall make no further sales of that product after that day unless the manufacturer has submitted the evidence requested.
+- **(1)** Where the manufacturer of a formulated liquid diet, a meal replacement or a food represented for use in a very low energy diet is requested in writing by the Mnister to submit, on or before a specified day, evidence with respect to that product, the manufacturer shall make no further sales of that product after that day unless the manufacturer has submitted the evidence requested.
 
-- **(2)** Where the Director is of the opinion that the evidence submitted by a manufacturer pursuant to subsection (1) is not sufficient, he shall so notify the manufacturer in writing.
+- **(2)** If the Minister determines that the evidence submitted by a manufacturer under subsection (1) is not sufficient, he or she shall so notify the manufacturer in writing.
 
-- **(3)** Where, pursuant to subsection (2), a manufacturer is notified that the evidence with respect to a formulated liquid diet, a meal replacement or a food represented for use in a very low energy diet is not sufficient, the manufacturer shall make no further sales of that product unless the manufacturer submits further evidence and is notified in writing by the Director that the further evidence is sufficient.
+- **(3)** Where, pursuant to subsection (2), a manufacturer is notified that the evidence with respect to a formulated liquid diet, a meal replacement or a food represented for use in a very low energy diet is not sufficient, the manufacturer shall make no further sales of that product unless the manufacturer submits further evidence and is notified in writing by the Minister that the further evidence is sufficient.
 
 - **(4)** A reference in this section to evidence with respect to a formulated liquid diet, a meal replacement or a food represented for use in a very low energy diet means evidence to establish that the food is nutritionally adequate to be used as the sole source of nutrition in meeting the nutritional needs of a person for whom it is intended, when the food is consumed in accordance with the directions for use.
-> SOR/78-698, s. 6; SOR/94-35, s. 3.
+> SOR/78-698, s. 6; SOR/94-35, s. 3; SOR/2018-69, ss. 11, 27.
 
 
 
@@ -24032,7 +24035,7 @@ is a complete substitute for the total diet in meeting the nutritional requireme
 
 **B.24.305** 
 
-- **(1)** No person shall sell or advertise for sale a food represented for use in a very low energy diet unless the manufacturer, at least 90 days before the sale or advertisement, notifies the Director in writing of the intention to sell the food or advertise the food for sale.
+- **(1)** No person shall sell or advertise for sale a food represented for use in a very low energy diet unless the manufacturer, at least 90 days before the sale or advertisement, notifies the Minister in writing of the intention to sell the food or advertise the food for sale.
 
 - **(2)** The notification referred to in subsection (1) shall be signed by the manufacturer and shall include, in respect of the food represented for use in a low energy diet, the following information:
 	- **(a)** the name under which the food is to be sold or advertised for sale;
@@ -24049,15 +24052,15 @@ is a complete substitute for the total diet in meeting the nutritional requireme
 	- **(l)** the written text of all labels, including package inserts, to be used in connection with the food; and
 	- **(m)** the name and title of the person who signed the notification and the date of signature.
 
-- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a food represented for use in a very low energy diet, if the Director, after having been notified by the manufacturer pursuant to that subsection, has informed the manufacturer in writing that the notification meets the requirements of subsection (2).
-> SOR/94-35, s. 4.
+- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a food represented for use in a very low energy diet, if the Minister, after having been notified by the manufacturer pursuant to that subsection, has informed the manufacturer in writing that the notification meets the requirements of subsection (2).
+> SOR/94-35, s. 4; SOR/2018-69, ss. 27, 29(F).
 
 
 
 
 **B.24.306** 
 
-- **(1)** No person shall sell or advertise for sale a food represented for use in a very low energy diet that has undergone a major change, unless the manufacturer, at least 90 days before the sale or advertisement, notifies the Director in writing of the intention to sell or advertise for sale the food that has undergone the major change.
+- **(1)** No person shall sell or advertise for sale a food represented for use in a very low energy diet that has undergone a major change, unless the manufacturer, at least 90 days before the sale or advertisement, notifies the Minister in writing of the intention to sell or advertise for sale the food that has undergone the major change.
 
 - **(2)** The notification referred to in subsection (1) shall be signed by the manufacturer and shall include, in respect of the food represented for use in a very low energy diet that has undergone a major change, the following information:
 	- **(a)** the name under which the food is to be sold or advertised for sale;
@@ -24068,8 +24071,8 @@ is a complete substitute for the total diet in meeting the nutritional requireme
 	- **(f)** the written text of all labels, including package inserts, to be used in connection with the food; and
 	- **(g)** the name and title of the person who signed the notification and the date of signature.
 
-- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a food represented for use in a very low energy diet that has undergone a major change, if the Director, after having been notified by the manufacturer pursuant to that subsection, has informed the manufacturer in writing that the notification meets the requirements of subsection (2).
-> SOR/94-35, s. 4.
+- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a food represented for use in a very low energy diet that has undergone a major change, if the Minister, after having been notified by the manufacturer pursuant to that subsection, has informed the manufacturer in writing that the notification meets the requirements of subsection (2).
+> SOR/94-35, s. 4; SOR/2018-69, ss. 27, 29(F).
 
 
 
@@ -24148,7 +24151,7 @@ if sodium chloride has been added to that food.
 
 **B.25.046** 
 
-- **(1)** No person shall sell or advertise for sale a new human milk substitute unless the manufacturer, at least 90 days before the sale or advertisement, notifies the Director in writing of the intention to sell or advertise for sale the new human milk substitute.
+- **(1)** No person shall sell or advertise for sale a new human milk substitute unless the manufacturer, at least 90 days before the sale or advertisement, notifies the Minister in writing of the intention to sell or advertise for sale the new human milk substitute.
 
 - **(2)** The notification referred to in subsection (1) shall be signed and shall include, in respect of the new human milk substitute, the following information:
 	- **(a)** the name under which it will be sold or advertised for sale;
@@ -24165,8 +24168,8 @@ if sodium chloride has been added to that food.
 	- **(l)** the written text of all labels, including package inserts, to be used in connection with the new human milk substitute; and
 	- **(m)** the name and title of the person who signed the notification and the date of signature.
 
-- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a new human milk substitute if the manufacturer has notified the Director pursuant to subsection (1) and is informed in writing by the Director that the notification is satisfactory.
-> SOR/90-174, s. 2.
+- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a new human milk substitute if the manufacturer has notified the Minister pursuant to subsection (1) and is informed in writing by the Minister that the notification is satisfactory.
+> SOR/90-174, s. 2; SOR/2018-69, ss. 27, 30(F).
 
 
 
@@ -24179,7 +24182,7 @@ if sodium chloride has been added to that food.
 
 **B.25.048** 
 
-- **(1)** No person shall sell or advertise for sale a human milk substitute that has undergone a major change unless the manufacturer of the human milk substitute, at least 90 days before the sale or advertisement, notifies the Director in writing of the intention to sell or advertise for sale the human milk substitute.
+- **(1)** No person shall sell or advertise for sale a human milk substitute that has undergone a major change unless the manufacturer of the human milk substitute, at least 90 days before the sale or advertisement, notifies the Minister in writing of the intention to sell or advertise for sale the human milk substitute.
 
 - **(2)** The notification referred to in subsection (1) shall be signed and shall include, in respect of the human milk substitute, the following information:
 	- **(a)** the name under which it will be sold or advertised for sale;
@@ -24190,8 +24193,8 @@ if sodium chloride has been added to that food.
 	- **(f)** the written text of all labels, including package inserts, to be used in connection with the human milk substitute; and
 	- **(g)** the name and title of the person who signed the notification and the date of signature.
 
-- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a human milk substitute that has undergone a major change if the manufacturer has notified the Director pursuant to subsection (1) and is informed in writing by the Director that the notification is satisfactory.
-> SOR/90-174, s. 2.
+- **(3)** Notwithstanding subsection (1), a person may sell or advertise for sale a human milk substitute that has undergone a major change if the manufacturer has notified the Minister pursuant to subsection (1) and is informed in writing by the Minister that the notification is satisfactory.
+> SOR/90-174, s. 2; SOR/2018-69, ss. 27, 30(F).
 
 
 
@@ -24343,16 +24346,16 @@ and only the L forms of the amino acids have been added.
 
 **B.25.060** 
 
-- **(1)** Where the manufacturer of a human milk substitute or of a food that is represented as containing a human milk substitute is requested in writing by the Director to submit on or before a specified day evidence with respect to the human milk substitute, the manufacturer shall make no further sales of that human milk substitute or food that is represented as containing human milk substitute after that day unless he has submitted the evidence requested.
+- **(1)** Where the manufacturer of a human milk substitute or of a food that is represented as containing a human milk substitute is requested in writing by the Minister to submit on or before a specified day evidence with respect to the human milk substitute, the manufacturer shall make no further sales of that human milk substitute or food that is represented as containing human milk substitute after that day unless he has submitted the evidence requested.
 
-- **(2)** Where the Director is of the opinion that the evidence submitted by a manufacturer pursuant to subsection (1) is not sufficient, he shall notify the manufacturer in writing that the evidence is not sufficient.
+- **(2)** If the Minister determines that the evidence submitted by a manufacturer under subsection (1) is not sufficient, he or she shall so notify the manufacturer in writing.
 
-- **(3)** Where, pursuant to subsection (2), a manufacturer is notified that the evidence with respect to the human milk substitute is not sufficient, he shall make no further sales of that human milk substitute or of that food that is represented as containing the human milk substitute unless he submits further evidence and is notified in writing by the Director that the further evidence is sufficient.
+- **(3)** Where, pursuant to subsection (2), a manufacturer is notified that the evidence with respect to the human milk substitute is not sufficient, he shall make no further sales of that human milk substitute or of that food that is represented as containing the human milk substitute unless he submits further evidence and is notified in writing by the Minister that the further evidence is sufficient.
 
 - **(4)** In this section, ***evidence with respect to the human milk substitute*** means
 	- **(a)** evidence that establishes that the human milk substitute is nutritionally adequate to promote acceptable growth and development in infants when consumed in accordance with the directions for use; and
 	- **(b)** the results of tests carried out to determine the expiration date of the human milk substitute.
-> SOR/83-933, s. 1; SOR/88-424, s. 2; SOR/90-174, s. 3.
+> SOR/83-933, s. 1; SOR/88-424, s. 2; SOR/90-174, s. 3; SOR/2018-69, ss. 12, 27.
 
 
 
@@ -24669,16 +24672,16 @@ and only the L forms of the amino acids have been added.
 #### Changes to the Table
 
 
-**B.26.005** A request that a food be added or a change made to the table to this Division shall be accompanied by a submission to the Director containing the following information:
+**B.26.005** A request that a food be added or a change made to the table to this Division shall be accompanied by a submission to the Minister containing the following information:
 - **(a)** the purpose and details of the proposed irradiation — including the type and source of the ionizing radiation — and the proposed number of treatments and the minimum and maximum absorbed doses of the ionizing radiation;
 - **(b)** data indicating that the minimum dose of ionizing radiation proposed to be used accomplishes the intended purpose of the irradiation and the maximum dose of ionizing radiation proposed does not exceed the amount required to accomplish the purpose of the irradiation;
 - **(c)** information on the nature of the dosimeter used, the frequency of the dosimetry on the food and data pertaining to the dosimetry and phantoms used to assure that the dosimetry readings reflect the dose absorbed by the food during irradiation;
 - **(d)** data indicating the effects, if any, on the nutritional quality of the food, raw and ready-to-serve, under the proposed conditions of irradiation and any other processes that are combined with the irradiation;
 - **(e)** data establishing that the irradiated food has not been significantly altered in chemical, physical or microbiological characteristics to render the food unfit for human consumption;
-- **(f)** where the Director so requests, data establishing that the proposed irradiation is safe under the conditions proposed for the irradiation;
+- **(f)** where the Minister so requests, data establishing that the proposed irradiation is safe under the conditions proposed for the irradiation;
 - **(g)** the recommended conditions of storage and shipment of the irradiated food including the time, temperature and packaging and a comparison of the recommended conditions for the same food that has not been irradiated;
 - **(h)** details of any other processes to be applied to the food prior to or after the proposed irradiation; and
-- **(i)** such other data as the Director may require to establish that consumers and purchasers of the irradiated food will not be deceived or misled as to the character, value, composition, merit or safety of the irradiated food. 
+- **(i)** such other data as the Minister may require to establish that consumers and purchasers of the irradiated food will not be deceived or misled as to the character, value, composition, merit or safety of the irradiated food.
 #### TABLE
 <table>
 <tr>
@@ -24920,7 +24923,7 @@ and only the L forms of the amino acids have been added.
 </tr>
 </table>
 
-> SOR/89-175, s. 3; SOR/98-458, s. 7(F); SOR/2017-16, ss. 6, 7.
+> SOR/89-175, s. 3; SOR/98-458, s. 7(F); SOR/2017-16, ss. 6, 7; SOR/2018-69, s. 27.
 
 
 
@@ -24973,14 +24976,14 @@ and only the L forms of the amino acids have been added.
 
 **B.27.004** 
 
-- **(1)** Where, in the opinion of the Director, the sale of a low-acid food packaged in a hermetically sealed container may contravene section B.27.002 or B.27.003, the Director may, by notice in writing, request that the manufacturer or importer of the food submit, on or before the date specified in the notice, evidence that establishes that the processes used to manufacture, process and package the food rendered and maintained the food commercially sterile.
+- **(1)** Where, in the opinion of the Minister, the sale of a low-acid food packaged in a hermetically sealed container may contravene section B.27.002 or B.27.003, the Minister may, by notice in writing, request that the manufacturer or importer of the food submit, on or before the date specified in the notice, evidence that establishes that the processes used to manufacture, process and package the food rendered and maintained the food commercially sterile.
 
 - **(2)** Where a manufacturer or an importer receives a notice issued pursuant to subsection (1), the manufacturer or importer shall make no further sales of the food on or after the day specified in the notice until he has submitted the evidence requested in that notice.
 
-- **(3)** Where the Director is of the opinion that the evidence submitted by a manufacturer or importer pursuant to subsection (1) is not sufficient, the Director shall notify the manufacturer or importer in writing that the evidence is not sufficient.
+- **(3)** Where the Minister is of the opinion that the evidence submitted by a manufacturer or importer pursuant to subsection (1) is not sufficient, the Minister shall notify the manufacturer or importer in writing that the evidence is not sufficient.
 
-- **(4)** Where, pursuant to subsection (3), a manufacturer or importer is notified that the evidence he has submitted is not sufficient, the manufacturer or importer shall make no further sales of the food until he submits further evidence and is notified in writing by the Director that the further evidence is sufficient.
-> SOR/89-309, s. 1.
+- **(4)** Where, pursuant to subsection (3), a manufacturer or importer is notified that the evidence he has submitted is not sufficient, the manufacturer or importer shall make no further sales of the food until he submits further evidence and is notified in writing by the Minister that the further evidence is sufficient.
+> SOR/89-309, s. 1; SOR/2018-69, s. 27.
 
 
 
@@ -25034,8 +25037,8 @@ and only the L forms of the amino acids have been added.
 **B.28.002** 
 
 - **(1)** No person shall sell or advertise for sale a novel food unless the manufacturer or importer of the novel food
-	- **(a)** has notified the Director in writing of their intention to sell or advertise for sale the novel food; and
-	- **(b)** has received a written notice from the Director under paragraph B.28.003(1)(a) or subsection B.28.003(2).
+	- **(a)** has notified the Minister in writing of their intention to sell or advertise for sale the novel food; and
+	- **(b)** has received a written notice from the Minister under paragraph B.28.003(1)(a) or subsection B.28.003(2).
 
 - **(2)** A notification referred to in paragraph (1)(a) shall be signed by the manufacturer or importer, or a person authorized to sign on behalf of the manufacturer or importer, and shall include the following information:
 	- **(a)** the common name under which the novel food will be sold;
@@ -25050,19 +25053,19 @@ and only the L forms of the amino acids have been added.
 	- **(d)** information respecting the estimated levels of consumption by consumers of the novel food;
 	- **(e)** the text of all labels to be used in connection with the novel food; and
 	- **(f)** the name and title of the person who signed the notification and the date of signing.
-> SOR/99-392, s. 1.
+> SOR/99-392, s. 1; SOR/2018-69, s. 27.
 
 
 
 
 **B.28.003** 
 
-- **(1)** Within 45 days after receiving a notification referred to in paragraph B.28.002(1)(a), the Director shall review the information included in the notification and
+- **(1)** Within 45 days after receiving a notification referred to in paragraph B.28.002(1)(a), the Minister shall review the information included in the notification and
 	- **(a)** if the information establishes that the novel food is safe for consumption, notify the manufacturer or importer in writing that the information is sufficient; or
 	- **(b)** if additional information of a scientific nature is necessary in order to assess the safety of the novel food, request in writing that the manufacturer or importer submit that information.
 
-- **(2)** Within 90 days after receiving the additional information requested under paragraph (1)(b) the Director shall assess it and, if it establishes that the novel food is safe for consumption, notify the manufacturer or importer in writing that the information is sufficient.
-> SOR/99-392, s. 1.
+- **(2)** Within 90 days after receiving the additional information requested under paragraph (1)(b) the Minister shall assess it and, if it establishes that the novel food is safe for consumption, notify the manufacturer or importer in writing that the information is sufficient.
+> SOR/99-392, s. 1; SOR/2018-69, s. 27.
 
 
 
@@ -25972,9 +25975,9 @@ and only the L forms of the amino acids have been added.
 
 - **(6)** Subsections (1) to (5) do not apply to
 	- **(a)** prescription drugs;
-	- **(b)** drugs that are permitted to be sold without a prescription but that are administered only under the supervision of a practitioner; and
+	- **(b)** drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner; and
 	- **(c)** drugs that are represented as being solely for use as a disinfectant on hard non-porous surfaces.
-> SOR/2014-158, s. 5; SOR/2017-18, s. 23.
+> SOR/2014-158, s. 5; SOR/2017-18, s. 23; SOR/2018-69, s. 13.
 
 
 
@@ -26000,7 +26003,7 @@ and only the L forms of the amino acids have been added.
 
 **C.01.005** 
 
-- **(1)** The principal display panel of both the inner and outer label of a drug sold in dosage form shall show in a clear and legible manner the drug identification number assigned by the Director for that drug pursuant to subsection C.01.014.2(1), preceded by the words “Drug Identification Number” or “*Drogue : identification numérique*” or both, or the letters “DIN”.
+- **(1)** The principal display panel of both the inner and outer label of a drug sold in dosage form shall show in a clear and legible manner the drug identification number assigned by the Minister for that drug pursuant to subsection C.01.014.2(1), preceded by the words “Drug Identification Number” or “*Drogue : identification numérique*” or both, or the letters “DIN”.
 
 - **(2)** Subsection (1) does not apply to a drug
 	- **(a)** compounded by a pharmacist pursuant to a prescription or by a practitioner; or
@@ -26012,7 +26015,7 @@ and only the L forms of the amino acids have been added.
 - **(3)** For the purposes of this section and section C.01.014, ***a drug in dosage form*** means a drug in a form in which it is ready for use by the consumer without requiring any further manufacturing.
 
 - **(4) and (5)** [Repealed, SOR/81-248, s. 1]
-> SOR/81-248, s. 1; SOR/93-202, s. 3; SOR/98-423, s. 2; SOR/2001-181, s. 4.
+> SOR/81-248, s. 1; SOR/93-202, s. 3; SOR/98-423, s. 2; SOR/2001-181, s. 4; SOR/2018-69, s. 27.
 
 
 
@@ -26036,7 +26039,7 @@ and only the L forms of the amino acids have been added.
 
 
 **C.01.010** If it is necessary to provide adequate directions for the safe use of a parenteral drug or prescription drug that is used in the treatment or prevention of any disease, disorder or abnormal physical state mentioned in Schedule A to the Act, the disease, disorder or abnormal physical state may be mentioned on the drug’s labels, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug, and, in that respect, the drug is exempt from subsections 3(1) and (2) of the Act.
-> SOR/2013-122, s. 6; SOR/2014-158, s. 6; SOR/2017-18, s. 21(F).
+> SOR/2013-122, s. 6; SOR/2014-158, s. 6; SOR/2017-18, s. 21(F); SOR/2018-69, s. 14(F).
 
 
 
@@ -26047,34 +26050,36 @@ and only the L forms of the amino acids have been added.
 
 - **(2)** [Repealed, SOR/93-243, s. 2]
 
-- **(3)** Where a manufacturer’s standard is used for a drug, the manufacturer shall make available to the Director, on request, details of that standard and of a method of analysis for the drug acceptable to the Director.
+- **(3)** Where a manufacturer’s standard is used for a drug, the manufacturer shall make available to the Minister, on request, details of that standard and of a method of analysis for the drug acceptable to the Minister.
 
 - **(4)** No person shall use a manufacturer’s standard for a drug that provides
 	- **(a)** a lesser degree of purity than the highest degree of purity, or
 	- **(b)** a greater variation in potency than the least variation in potency,
 provided for that drug in any publication mentioned in Schedule B to the Act.
-> SOR/93-243, s. 2.
+> SOR/93-243, s. 2; SOR/2018-69, ss. 31(E), 32(F).
 
 
 
 
 **C.01.012** A manufacturer who makes representations on a label of a drug in oral dosage form, or in any advertisement, with respect to the site, rate or extent of release to the body of a medicinal ingredient of the drug, or the availability to the body of a medicinal ingredient of the drug, shall
 - **(a)** before making the representations, conduct such investigations, using an acceptable method, as may be necessary to demonstrate that the site, rate or extent of release to the body of the medicinal ingredient of the drug and the availability to the body of the medicinal ingredient of the drug, correspond to the representations; and
-- **(b)** on request submit the record of such investigations to the Director.
-> SOR/89-455, s. 2; SOR/94-36, s. 1.
+- **(b)** on request submit the record of such investigations to the Minister.
+> SOR/89-455, s. 2; SOR/94-36, s. 1; SOR/2018-69, s. 27.
 
 
 
 
 **C.01.013** 
 
-- **(1)** Where the manufacturer of a drug is requested in writing by the Director to submit on or before a specified day evidence with respect to a drug, the manufacturer shall make no further sales of that drug after that day unless he has submitted the evidence requested.
+- **(1)** Where the manufacturer of a drug is requested in writing by the Minister to submit on or before a specified day evidence with respect to a drug, the manufacturer shall make no further sales of that drug after that day unless he has submitted the evidence requested.
 
-- **(2)** Where the Director is of the opinion that the evidence submitted by a manufacturer, pursuant to subsection (1), is not sufficient, he shall notify the manufacturer in writing that the evidence is not sufficient.
+- **(2)** If the Minister determines that the evidence submitted by a manufacturer under subsection (1) is not sufficient, he or she shall so notify the manufacturer in writing.
 
-- **(3)** Where, pursuant to subsection (2), a manufacturer is notified that the evidence with respect to a drug is not sufficient, he shall make no further sales of that drug unless he submits further evidence and is notified in writing by the Director that that further evidence is sufficient.
+- **(3)** Where, pursuant to subsection (2), a manufacturer is notified that the evidence with respect to a drug is not sufficient, he shall make no further sales of that drug unless he submits further evidence and is notified in writing by the Minister that that further evidence is sufficient.
 
 - **(4)** A reference in this section to evidence with respect to a drug means evidence to establish the safety of the drug under the conditions of use recommended and the effectiveness of the drug for the purposes recommended.
+> SOR/2018-69, ss. 15, 27.
+
 
 
 
@@ -26102,7 +26107,7 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 
 - **(1)** A manufacturer of a drug, a person authorized by a manufacturer or, in the case of a drug to be imported into Canada, the importer of the drug may make an application for a drug identification number for that drug.
 
-- **(2)** An application under subsection (1) shall be made to the Director in writing and shall include the following information and material:
+- **(2)** An application under subsection (1) shall be made to the Minister in writing and shall include the following information and material:
 	- **(a)** the name of the manufacturer of the drug as it will appear on the label;
 	- **(b)** the pharmaceutical form in which the drug is to be sold;
 	- **(c)** in the case of any drug other than a drug described in paragraph (d), the recommended route of administration;
@@ -26124,28 +26129,28 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 		- **(iii)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01.
 
 - **(3)** In the case of a new drug, a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission filed under section C.08.002, C.08.002.01 or C.08.002.1 shall be regarded as an application for a drug identification number.
-> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2; SOR/2014-158, s. 7.
+> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2; SOR/2014-158, s. 7; SOR/2018-69, ss. 27, 33(F).
 
 
 
 
 **C.01.014.2** 
 
-- **(1)** Subject to subsection (2), if a manufacturer or importer has provided all the information described in subsection C.01.014.1(2) or section C.08.002, C.08.002.01 or C.08.002.1, as the case may be, in respect of a drug, the Director shall issue to the manufacturer or importer a document that
+- **(1)** Subject to subsection (2), if a manufacturer or importer has provided all the information described in subsection C.01.014.1(2) or section C.08.002, C.08.002.01 or C.08.002.1, as the case may be, in respect of a drug, the Minister shall issue to the manufacturer or importer a document that
 	- **(a)** sets out
 		- **(i)** the drug identification number assigned for the drug, preceded by the letters “DIN”, or
-		- **(ii)** if there are two or more brand names for the drug, the drug identification numbers assigned by the Director for the drug, each of which pertains to one of the brand names and is preceded by the letters “DIN”; and
+		- **(ii)** if there are two or more brand names for the drug, the drug identification numbers assigned by the Minister for the drug, each of which pertains to one of the brand names and is preceded by the letters “DIN”; and
 	- **(b)** contains the information referred to in paragraphs C.01.014.1(2)(a) to (f).
 
-- **(2)** Where the Director believes on reasonable grounds that a product in respect of which an application referred to in section C.01.014.1 has been made
+- **(2)** Where the Minister believes on reasonable grounds that a product in respect of which an application referred to in section C.01.014.1 has been made
 	- **(a)** is not a drug, or
 	- **(b)** is a drug but that its sale would cause injury to the health of the consumer or purchaser or would be a violation of the Act or these Regulations,
-he may refuse to issue the document referred to in subsection (1).
+he or she may refuse to issue the document referred to in subsection (1).
 
-- **(3)** Where the Director, pursuant to subsection (2), refuses to issue the document, the applicant may submit additional information and request the Director to reconsider his decision.
+- **(3)** Where the Minister, pursuant to subsection (2), refuses to issue the document, the applicant may submit additional information and request the Minister to reconsider his or her decision.
 
-- **(4)** On the basis of the additional information submitted pursuant to subsection (3), the Director shall reconsider the grounds on which the refusal to issue the document was made.
-> SOR/81-248, s. 2; SOR/92-230, s. 1; SOR/98-423, s. 4; SOR/2011-88, s. 3.
+- **(4)** On the basis of the additional information submitted pursuant to subsection (3), the Minister shall reconsider the grounds on which the refusal to issue the document was made.
+> SOR/81-248, s. 2; SOR/92-230, s. 1; SOR/98-423, s. 4; SOR/2011-88, s. 3; SOR/2018-69, ss. 16, 27.
 
 
 
@@ -26162,29 +26167,29 @@ he may refuse to issue the document referred to in subsection (1).
 	- **(ii)** that occurs after the sale of the drug, no further sale of the drug shall be made until a new application for a drug identification number in respect of that drug is made and a number is assigned; and
 - **(b)** in the case of a change in the subject matter of any of the information referred to in paragraphs C.01.014.1(2)(g) to (k)
 	- **(i)** that occurs prior to the sale of the drug, the particulars of the change shall be submitted with the return of the document referred to in section C.01.014.3, or
-	- **(ii)** that occurs after the sale of the drug, the person to whom the drug identification number in respect of that drug was issued shall, within 30 days of the change, inform the Director of the change.
-> SOR/81-248, s. 2; SOR/92-230, s. 2; SOR/98-423, s. 6; SOR/2016-139, s. 2(F).
+	- **(ii)** that occurs after the sale of the drug, the person to whom the drug identification number in respect of that drug was issued shall, within 30 days of the change, inform the Minister of the change.
+> SOR/81-248, s. 2; SOR/92-230, s. 2; SOR/98-423, s. 6; SOR/2016-139, s. 2(F); SOR/2018-69, s. 27.
 
 
 
 
-**C.01.014.5** Every manufacturer of a drug shall, annually before the first day of October and in a form authorized by the Director, furnish the Director with a notification signed by the manufacturer or by a person authorized to sign on his behalf, confirming that all the information previously supplied by the manufacturer with respect to that drug is correct.
-> SOR/81-248, s. 2.
+**C.01.014.5** Every manufacturer of a drug shall, annually before the first day of October and in a form authorized by the Minister, furnish the Minister with a notification signed by the manufacturer or by a person authorized to sign on his behalf, confirming that all the information previously supplied by the manufacturer with respect to that drug is correct.
+> SOR/81-248, s. 2; SOR/2018-69, s. 27.
 
 
 
 
 **C.01.014.6** 
 
-- **(1)** The Director shall cancel the assignment of a drug identification number for a drug where
+- **(1)** The Minister shall cancel the assignment of a drug identification number for a drug where
 	- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug advises under section C.01.014.7 that they have discontinued the sale of the drug;
 	- **(b)** the drug is a new drug in respect of which the notice of compliance has been suspended pursuant to section C.08.006; or
 	- **(c)** it has been determined that the product in respect of which the number was assigned is not a drug.
 
-- **(2)** The Director may cancel the assignment of a drug identification number for a drug where
+- **(2)** The Minister may cancel the assignment of a drug identification number for a drug where
 	- **(a)** the manufacturer of the drug has failed to comply with section C.01.014.5; or
 	- **(b)** the manufacturer to whom the number was assigned has been notified pursuant to section C.01.013 that the evidence he submitted in respect of the drug is insufficient.
-> SOR/81-248, s. 2; SOR/2016-139, s. 3.
+> SOR/81-248, s. 2; SOR/2016-139, s. 3; SOR/2018-69, s. 27.
 
 
 
@@ -26209,11 +26214,11 @@ he may refuse to issue the document referred to in subsection (1).
 	- **(i)** drugs included in Schedule I, II, III, IV or V to the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md),
 	- **(ii)** prescription drugs,
 	- **(iii)** drugs that are listed in Schedule D to the Act, and
-	- **(iv)** drugs that are permitted to be sold without a prescription but that are administered only under the supervision of a practitioner; or
+	- **(iv)** drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner; or
 - **(b)** a drug that is listed in Schedule C to the Act. (*drogue*)
 
 ***shortage*** means a situation in which an authorization holder for a drug is unable to meet the demand for the drug. (*pénurie*)
-> SOR/2016-139, s. 5.
+> SOR/2016-139, s. 5; SOR/2018-69, s. 17.
 
 
 
@@ -27226,6 +27231,8 @@ Extended ophthalmic use of corticosteroid drugs may cause increased intraocular 
 
 and
 - **(b)** the inner label carries the statements required by paragraph (a) or instructions to see the outer label or package insert for information about contraindications and side effects.
+> SOR/2018-69, s. 18(F).
+
 
 
 
@@ -27262,10 +27269,10 @@ and
 			- **(B)** a drug for nasal administration,
 			- **(C)** a drug for otic administration, or
 			- **(D)** a drug for parenteral administration that is packaged in a multi-dose container,
-in which the mercury or the salt or derivative thereof is present as a preservative and the manufacturer or importer has submitted evidence to the Director demonstrating that the only satisfactory way to maintain the sterility or stability of the drug is to use that preservative.
+in which the mercury or the salt or derivative thereof is present as a preservative and the manufacturer or importer has submitted evidence to the Minister demonstrating that the only satisfactory way to maintain the sterility or stability of the drug is to use that preservative.
 
 - **(2)** For the purpose of clause (1)(c)(ii)(A), ***area of the eye*** means the area bounded by the supraorbital and infraorbital ridges and includes the eyebrows, the skin underlying the eyebrows, the eyelids, the eyelashes, the conjunctival sac of the eye, the eyeball and the soft tissue that lies below the eye and within the infraorbital ridge.
-> SOR/78-423, s. 2; SOR/86-93, s. 3; SOR/89-229, s. 3.
+> SOR/78-423, s. 2; SOR/86-93, s. 3; SOR/89-229, s. 3; SOR/2018-69, s. 27.
 
 
 
@@ -27671,7 +27678,7 @@ the person who receives the order may distribute the drug to the physician, dent
 #### Recalls
 
 
-**C.01.051** Where a manufacturer who sells a drug in dosage form or a person who imports into and sells in Canada a drug in dosage form commences a recall of the drug, the manufacturer or importer shall forthwith submit to the Director the following information:
+**C.01.051** Where a manufacturer who sells a drug in dosage form or a person who imports into and sells in Canada a drug in dosage form commences a recall of the drug, the manufacturer or importer shall forthwith submit to the Minister the following information:
 - **(a)** the proper name of the drug, the common name of the drug if there is no proper name, the brand name of the drug and the lot number;
 - **(b)** in the case of an imported drug, the names of the manufacturer and importer;
 - **(c)** the quantity of the drug manufactured or imported;
@@ -27679,7 +27686,7 @@ the person who receives the order may distribute the drug to the physician, dent
 - **(e)** the quantity of the drug remaining on the premises of the manufacturer or importer;
 - **(f)** the reasons for initiating the recall; and
 - **(g)** a description of any other action taken by the manufacturer or importer with respect to the recall.
-> SOR/82-524, s. 2; SOR/93-202, s. 11.
+> SOR/82-524, s. 2; SOR/93-202, s. 11; SOR/2018-69, s. 27.
 
 
 
@@ -27780,96 +27787,96 @@ the person who receives the order may distribute the drug to the physician, dent
 <td>1</td>
 <td>vitamin A (or as B-carotene)</td>
 <td>10 000 I.U.</td>
-<td>90.0 - 165.0 %</td>
-<td>90.0 - 115.0 %</td>
+<td>90.0 - 165.0 %</td>
+<td>90.0 - 115.0 %</td>
 </tr>
 <tr>
 <td>2</td>
 <td>thiamine</td>
 <td>4.5 mg</td>
-<td>90.0 - 145.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 145.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>3</td>
 <td>riboflavin</td>
 <td>7.5 mg</td>
-<td>90.0 - 125.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>4</td>
 <td>niacin or niacinamide</td>
 <td>45 mg</td>
-<td>90.0 - 125.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>5</td>
 <td>pyridoxine</td>
 <td>3 mg</td>
-<td>90.0 - 125.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>6</td>
 <td>d-pantothenic acid</td>
 <td>15 mg</td>
-<td>90.0 - 135.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 135.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>7</td>
 <td>folic acid</td>
 <td>0.4 mg</td>
-<td>90.0 - 135.0 %</td>
-<td>90.0 - 115.0 %</td>
+<td>90.0 - 135.0 %</td>
+<td>90.0 - 115.0 %</td>
 </tr>
 <tr>
 <td>8</td>
 <td>vitamin B<sub>12</sub></td>
 <td>14 µg</td>
-<td>90.0 - 135.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 135.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>9</td>
 <td>vitamin C</td>
 <td>150 I.U.</td>
-<td>90.0 - 145.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 145.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>10</td>
 <td>vitamin D</td>
 <td>400 I.U.</td>
-<td>90.0 - 145.0 %</td>
-<td>90.0 - 115.0 %</td>
+<td>90.0 - 145.0 %</td>
+<td>90.0 - 115.0 %</td>
 </tr>
 <tr>
 <td>11</td>
 <td>vitamin E</td>
 <td>25 I.U.</td>
-<td>90.0 - 125.0 %</td>
-<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
+<td>90.0 - 125.0 %</td>
 </tr>
 <tr>
 <td>12</td>
 <td>vitamin K</td>
 <td>0.0 mg</td>
 <td></td>
-<td>90.0 - 115.0 %</td>
+<td>90.0 - 115.0 %</td>
 </tr>
 <tr>
 <td>13</td>
 <td>biotin</td>
 <td>0.0 mg</td>
 <td></td>
-<td>90.0 - 135.0 %</td>
+<td>90.0 - 135.0 %</td>
 </tr>
 </table>
 
-> SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8; SOR/2011-88, s. 5; SOR/2014-158, s. 9.
+> SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8; SOR/2011-88, s. 5; SOR/2014-158, s. 9; SOR/2018-69, s. 19(F).
 
 
 
@@ -27890,10 +27897,10 @@ the person who receives the order may distribute the drug to the physician, dent
 - **(a)** is tested by an acceptable method for identity, and the drug is found to be true to its proper name, or to its common name if there is no proper name;
 - **(b)** is tested by an acceptable method for sterility, except
 	- **(i)** for living vaccines, or
-	- **(ii)** where the manufacturer has submitted evidence, satisfactory to the Director to prove that processing controls ensure the sterility of the drug in its immediate container,
+	- **(ii)** where the manufacturer has submitted evidence, satisfactory to the Minister to prove that processing controls ensure the sterility of the drug in its immediate container,
 and the drug is found to be sterile; and
-- **(c)** is subjected to such further tests satisfactory to the Director to ensure that the drug is safe to use according to directions.
-> SOR/86-552, s. 1; SOR/90-586, s. 3; SOR/93-202, s. 12; SOR/96-399, s. 3.
+- **(c)** is subjected to such further tests satisfactory to the Minister to ensure that the drug is safe to use according to directions.
+> SOR/86-552, s. 1; SOR/90-586, s. 3; SOR/93-202, s. 12; SOR/96-399, s. 3; SOR/2018-69, s. 27.
 
 
 
@@ -28007,6 +28014,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
+> SOR/2018-69, s. 34(F).
+
 
 
 
@@ -28032,6 +28041,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
+
+> SOR/2018-69, s. 34(F).
 
 
 
@@ -28087,6 +28098,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(b)** the outer label or the package insert carries the following:
 	- **(i)** a warning statement to the effect that chloramphenicol should not be used in the treatment or prophylaxis of minor infections or where it is not indicated, as in cold, influenza, or infections of the upper respiratory tract; that there are two types of bone marrow depression associated with the use of chloramphenicol; that some degree of depression of the bone marrow is commonly seen during therapy, is dose-related and is potentially reversible; that blood studies may detect early changes and; that the other type of bone marrow depression, a sudden, delayed and usually fatal bone marrow hypoplasia that may occur without warning, is very rare, and
 	- **(ii)** a statement of precautions to be taken to the effect that it is essential that appropriate blood studies be made during treatment with chloramphenicol and that while blood studies may detect early peripheral blood changes, such studies cannot be relied on to detect the rare and generally irreversible bone marrow depression prior to development of aplastic anemia.
+> SOR/2018-69, s. 35(F).
+
 
 
 
@@ -28211,9 +28224,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 **C.01.606** No person shall sell an antibiotic preparation for the treatment of animals, other than an antibiotic preparation that is a new drug sold pursuant to section C.08.013, unless,
 - **(a)** where the preparation is not to be used for lactating animals providing milk to be consumed as food, the inner and outer labels of the preparation carry a statement to that effect; or
 - **(b)** where the preparation may be used for lactating animals providing milk to be consumed as food,
-	- **(i)** there has been submitted, on request, to the Director, acceptable evidence to show the period of time, not exceeding 96 hours, that must elapse after the last treatment with the preparation in order that the milk from treated lactating animals will contain no residue of antibiotics that would cause injury to human health, and
+	- **(i)** there has been submitted, on request, to the Minister, acceptable evidence to show the period of time, not exceeding 96 hours, that must elapse after the last treatment with the preparation in order that the milk from treated lactating animals will contain no residue of antibiotics that would cause injury to human health, and
 	- **(ii)** the principal display panel of the outer label of the preparation, the inner label and the packaging insert, if any, describing the antibiotic preparation carry the warning **“WARNING: MILK TAKEN FROM TREATED ANIMALS DURING TREATMENT AND WITHIN ... HOURS AFTER THE LATEST TREATMENT MUST NOT BE USED AS FOOD”**, where the number of hours to be inserted is determined according to evidence submitted pursuant to subparagraph (i).
-> SOR/88-378, s. 1; SOR/92-664, s. 2; SOR/93-467, s. 1.
+> SOR/88-378, s. 1; SOR/92-664, s. 2; SOR/93-467, s. 1; SOR/2018-69, s. 27.
 
 
 
@@ -28234,7 +28247,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
-**C.01.609** Notwithstanding the provisions of section C.01.401(a), the potency of an antibiotic in in amounts greater than 50 parts per million contained in a medicated feed registered under the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md) may be declared in grams per ton.
+**C.01.609** Despite paragraph C.01.401(a), the potency of an antibiotic in amounts greater than 50 parts per million contained in a medicated feed registered under the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md) may be declared in grams per tonne.
+> SOR/2018-69, s. 20.
+
 
 
 
@@ -28267,12 +28282,12 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.01.611** 
 
-- **(1)** The Director may, in writing, from time to time require the manufacturer of a drug recommended for administration to animals that may be consumed as food
-	- **(a)** to file with the Director in respect of that drug a submission describing in detail tests carried out to verify that the administration of the drug to an animal does not result in a substance named in column II of the List referred to in the [Marketing Authorization for Maximum Residue Limits for Veterinary Drugs in Foods](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/87.md) being present in a food set out in column III of the List, except in an amount within the maximum residue limit set out in column IV of the List in respect of the food and the substance; and
-	- **(b)** to print on the principal display panel of the outer label, the inner label and the packaging insert, if any, that describes the drug, a warning that food derived from animals to which the drug has been administered must not be sold for human consumption unless there has elapsed since the administration of the drug a period of time specified by the Director, based on a review of the available data with respect to drug residues.
+- **(1)** The Minister may, in writing, from time to time require the manufacturer of a drug recommended for administration to animals that may be consumed as food
+	- **(a)** to file with the Minister in respect of that drug a submission describing in detail tests carried out to verify that the administration of the drug to an animal does not result in a substance named in column II of the List referred to in the [Marketing Authorization for Maximum Residue Limits for Veterinary Drugs in Foods](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/87.md) being present in a food set out in column III of the List, except in an amount within the maximum residue limit set out in column IV of the List in respect of the food and the substance; and
+	- **(b)** to print on the principal display panel of the outer label, the inner label and the packaging insert, if any, that describes the drug, a warning that food derived from animals to which the drug has been administered must not be sold for human consumption unless there has elapsed since the administration of the drug a period of time specified by the Minister, based on a review of the available data with respect to drug residues.
 
-- **(2)** No manufacturer shall sell a drug in respect of which the Director has required a warning to be printed pursuant to paragraph (1)(b) unless the manufacturer has complied with that request.
-> SOR/93-467, s. 2; SOR/2016-74, s. 10.
+- **(2)** No manufacturer shall sell a drug in respect of which the Minister has required a warning to be printed pursuant to paragraph (1)(b) unless the manufacturer has complied with that request.
+> SOR/93-467, s. 2; SOR/2016-74, s. 10; SOR/2018-69, s. 27.
 
 
 
@@ -28991,8 +29006,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 #### Personnel
 
 
-**C.02.006** Every lot or batch of a drug shall be fabricated, packaged/labelled, tested and stored under the supervision of personnel who, having regard to the duties and responsibilities involved, have had such technical, academic and other training as the Director considers satisfactory in the interests of the health of the consumer or purchaser.
-> SOR/82-524, s. 3; SOR/85-754, s. 2; SOR/97-12, s. 52.
+**C.02.006** Every lot or batch of a drug shall be fabricated, packaged/labelled, tested and stored under the supervision of personnel who, having regard to the duties and responsibilities involved, have had such technical, academic and other training as the Minister considers satisfactory in the interests of the health of the consumer or purchaser.
+> SOR/82-524, s. 3; SOR/85-754, s. 2; SOR/97-12, s. 52; SOR/2018-69, s. 27.
 
 
 
@@ -29041,9 +29056,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(5)** Where the specifications referred to in subsections (1), (2) and (4) are not prescribed, they shall
 	- **(a)** be in writing;
-	- **(b)** be acceptable to the Director who shall take into account the specifications contained in any publication mentioned in Schedule B to the Act; and
+	- **(b)** be acceptable to the Minister who shall take into account the specifications contained in any publication mentioned in Schedule B to the Act; and
 	- **(c)** be approved by the person in charge of the quality control department.
-> SOR/82-524, s. 3; SOR/97-12, s. 59.
+> SOR/82-524, s. 3; SOR/97-12, s. 59; SOR/2018-69, s. 27.
 
 
 
@@ -29054,12 +29069,12 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(a)** after receipt of each lot or batch of raw material on the premises of the fabricator; or
 	- **(b)** subject to subsection (2), before receipt of each lot or batch of raw material on the premises of the fabricator, if
 		- **(i)** the fabricator
-			- **(A)** has evidence satisfactory to the Director to demonstrate that raw materials sold to him by the vendor of that lot or batch of raw material are consistently manufactured in accordance with and consistently comply with the specifications for those raw materials, and
-			- **(B)** undertakes periodic complete confirmatory testing with a frequency satisfactory to the Director, and
+			- **(A)** has evidence satisfactory to the Minister to demonstrate that raw materials sold to him by the vendor of that lot or batch of raw material are consistently manufactured in accordance with and consistently comply with the specifications for those raw materials, and
+			- **(B)** undertakes periodic complete confirmatory testing with a frequency satisfactory to the Minister, and
 		- **(ii)** the raw material has not been transported or stored under conditions that may affect its compliance with the specifications for that raw material.
 
 - **(2)** After a lot or batch of raw material is received on the premises of the fabricator, the lot or batch of raw material shall be tested for identity.
-> SOR/82-524, s. 3; SOR/97-12, ss. 12, 60.
+> SOR/82-524, s. 3; SOR/97-12, ss. 12, 60; SOR/2018-69, s. 27.
 
 
 
@@ -29150,9 +29165,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(3)** The specifications referred to in subsections (1) and (2) shall
 	- **(a)** be in writing;
-	- **(b)** be acceptable to the Director who shall take into account the specifications contained in any publication mentioned in Schedule B to the Act; and
+	- **(b)** be acceptable to the Minister who shall take into account the specifications contained in any publication mentioned in Schedule B to the Act; and
 	- **(c)** be approved by the person in charge of the quality control department.
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F).
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/2018-69, s. 27.
 
 
 
@@ -29163,14 +29178,14 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(a)** after receipt of each lot or batch of packaging material on the premises of the person who packages a drug; or
 	- **(b)** subject to subsection (2), before receipt of each lot or batch of packaging material on the premises of the person who packages a drug, if
 		- **(i)** that person
-			- **(A)** has evidence satisfactory to the Director to demonstrate that packaging materials sold to him by the vendor of that lot or batch of packaging material are consistently manufactured in accordance with and consistently comply with the specifications for those packaging materials, and
-			- **(B)** undertakes periodic complete confirmatory examination or testing with a frequency satisfactory to the Director,
+			- **(A)** has evidence satisfactory to the Minister to demonstrate that packaging materials sold to him by the vendor of that lot or batch of packaging material are consistently manufactured in accordance with and consistently comply with the specifications for those packaging materials, and
+			- **(B)** undertakes periodic complete confirmatory examination or testing with a frequency satisfactory to the Minister,
 		- **(ii)** the packaging material has not been transported or stored under conditions that may affect its compliance with the specifications for that packaging material.
 
 - **(2)** After a lot or batch of packaging material is received on the premises of the person who packages a drug,
 	- **(a)** the lot or batch of the packaging material shall be examined or tested for identity; and
 	- **(b)** the labels shall be examined or tested in order to ensure that they comply with the specifications for those labels.
-> SOR/82-524, s. 3; SOR/89-174, ss. 2(F), 8(F); SOR/97-12, s. 56(F).
+> SOR/82-524, s. 3; SOR/89-174, ss. 2(F), 8(F); SOR/97-12, s. 56(F); SOR/2018-69, s. 27.
 
 
 
@@ -29200,8 +29215,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(a)** after receipt of each lot or batch of the drug on their premises in Canada; or
 	- **(b)** before receipt of each lot or batch of the drug on their premises in Canada if the following conditions are met:
 		- **(i)** the packager/labeller, distributor or importer
-			- **(A)** has evidence satisfactory to the Director to demonstrate that drugs sold to them by the vendor of that lot or batch are consistently manufactured in accordance with and consistently comply with the specifications for those drugs, and
-			- **(B)** undertakes periodic complete confirmatory testing, with a frequency satisfactory to the Director, and
+			- **(A)** has evidence satisfactory to the Minister to demonstrate that drugs sold to them by the vendor of that lot or batch are consistently manufactured in accordance with and consistently comply with the specifications for those drugs, and
+			- **(B)** undertakes periodic complete confirmatory testing, with a frequency satisfactory to the Minister, and
 		- **(ii)** the drug has not been transported or stored under conditions that may affect its compliance with the specifications for that drug.
 
 - **(2)** If the packager/labeller, distributor or importer receives a lot or batch of a drug on their premises in Canada the useful life of which is more than 30 days, the lot or batch shall be tested for identity and the packager/labeller shall confirm the identity after the lot or batch is packaged/labelled.
@@ -29211,7 +29226,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(4)** Subsections (1) and (2) do not apply to a distributor or importer if the drug is fabricated, packaged/labelled and tested in an MRA country at a recognized building and both of the following requirements are met:
 	- **(a)** the address of the building is set out in their establishment licence; and
 	- **(b)** they retain a copy of the batch certificate for each lot or batch of the drug that they receive.
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 16, 57; SOR/2000-120, s. 11; SOR/2002-368, s. 10; SOR/2013-74, s. 11.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 16, 57; SOR/2000-120, s. 11; SOR/2002-368, s. 10; SOR/2013-74, s. 11; SOR/2018-69, s. 27.
 
 
 
@@ -29229,7 +29244,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(d)** evidence that establishes the period during which the drug in the container in which it is sold or made available for further use in fabrication will meet the specifications for that drug; and
 	- **(e)** evidence that the finished product testing referred to in section C.02.018 was carried out and the results of that testing.
 
-- **(2)** Every distributor referred to in paragraph C.01A.003(b) and importer shall make available to the Director, on request, the results of testing performed on raw materials and packaging/labelling materials for each lot or batch of a drug that it distributes or imports.
+- **(2)** Every distributor referred to in paragraph C.01A.003(b) and importer shall make available to the Minister, on request, the results of testing performed on raw materials and packaging/labelling materials for each lot or batch of a drug that it distributes or imports.
 
 - **(3)** Every fabricator shall maintain on their premises written specifications for all raw materials and adequate evidence of the testing of those raw materials referred to in section C.02.009 and of the test results.
 
@@ -29238,7 +29253,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(5)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada detailed plans and specifications of each building in Canada where they fabricate, package/label or test drugs and a description of the design and construction of those buildings.
 
 - **(6)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada personnel records in respect of each person who is employed to supervise the fabrication, packaging/labelling and testing of drugs, including the person’s title, responsibilities, qualifications, experience and training.
-> SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60; SOR/2013-74, s. 11.
+> SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60; SOR/2013-74, s. 11; SOR/2018-69, s. 27.
 
 
 
@@ -29432,8 +29447,8 @@ where the radioactive daughter is separated from its parent by
 
 
 
-**C.03.012** On written request from the Director, every fabricator, packager/labeller, tester, distributor referred to in paragraph C.01A.003(b) and importer of a drug shall submit protocols of tests together with samples of any lot or master lot of the drug before it is sold, and no person shall sell a lot of which the protocol or sample fails to meet the requirements of these Regulations.
-> SOR/97-12, s. 27.
+**C.03.012** On written request from the Minister, every fabricator, packager/labeller, tester, distributor referred to in paragraph C.01A.003(b) and importer of a drug shall submit protocols of tests together with samples of any lot or master lot of the drug before it is sold, and no person shall sell a lot of which the protocol or sample fails to meet the requirements of these Regulations.
+> SOR/97-12, s. 27; SOR/2018-69, s. 27.
 
 
 
@@ -29513,7 +29528,7 @@ where the radioactive daughter is separated from its parent by
 - **(3)** Subparagraph (1)(b)(viii) of this section does not apply where the information referred to in that subparagraph is shown on a package insert that accompanies the drug.
 
 - **(4)** Section C.01.005 does not apply to a radiopharmaceutical.
-> SOR/79-236, s. 2; SOR/93-202, s. 16; SOR/97-12, ss. 54, 58, 62; SOR/2001-203, s. 2; SOR/2012-129, s. 2.
+> SOR/79-236, s. 2; SOR/93-202, s. 16; SOR/97-12, ss. 54, 58, 62; SOR/2001-203, s. 2; SOR/2012-129, s. 2; SOR/2018-69, s. 35(F).
 
 
 
@@ -29536,7 +29551,7 @@ where the radioactive daughter is separated from its parent by
 	- **(m)** a statement cautioning against the dismantling of the radionuclide generator.
 
 - **(2)** Paragraphs (1)(i) and (j) of this section do not apply where the information referred to in those subparagraphs is shown on a package insert that accompanies the radionuclide generator.
-> SOR/79-236, s. 3; SOR/93-202, s. 17; SOR/97-12, ss. 54, 58, 62; SOR/2012-129, s. 3.
+> SOR/79-236, s. 3; SOR/93-202, s. 17; SOR/97-12, ss. 54, 58, 62; SOR/2012-129, s. 3; SOR/2018-69, ss. 21(F), 22(F).
 
 
 
@@ -29583,7 +29598,7 @@ where the radioactive daughter is separated from its parent by
 - **(e)** a statement of any special storage requirements with respect to temperature and light;
 - **(f)** the date after which the component is not recommended for use, the name of the month being written in full or designated by letter abbreviation; and
 - **(g)** adequate directions for use or a reference to the accompanying package insert that shows such directions.
-> SOR/79-236, s. 4; SOR/97-12, s. 58.
+> SOR/79-236, s. 4; SOR/97-12, s. 58; SOR/2018-69, s. 23(F).
 
 
 
@@ -29605,7 +29620,7 @@ where the radioactive daughter is separated from its parent by
 - **(n)** a statement of the recommended use for the prepared radiopharmaceutical and the recommended radioactivity to be administered for that use, or a reference to the accompanying package insert that shows such information; and
 - **(o)** a statement of the route of administration of the prepared radiopharmaceutical.
 - **(p)** [Repealed, SOR/2001-203, s. 3]
-> SOR/79-236, s. 4; SOR/93-202, s. 18; SOR/97-12, ss. 58, 62; SOR/2001-203, s. 3.
+> SOR/79-236, s. 4; SOR/93-202, s. 18; SOR/97-12, ss. 58, 62; SOR/2001-203, s. 3; SOR/2018-69, s. 36(F).
 
 
 
@@ -29626,7 +29641,7 @@ where the radioactive daughter is separated from its parent by
 - **(m)** a statement of the recommended use for the prepared radiopharmaceutical and the recommended radioactivity to be administered for that use;
 - **(n)** a statement of the route of administration of the prepared radiopharmaceutical; and
 - **(o)** a recommendation that the radiochemical purity and radioactivity content of the prepared radiopharmaceutical be checked prior to administration.
-> SOR/79-236, s. 4; SOR/93-202, s. 19; SOR/97-12, s. 58.
+> SOR/79-236, s. 4; SOR/93-202, s. 19; SOR/97-12, s. 58; SOR/2018-69, s. 36(F).
 
 
 
@@ -29872,7 +29887,7 @@ where the radioactive daughter is separated from its parent by
 	- **(v)** the code or other identification of the protocol,
 	- **(vi)** the warnings and precautions in respect of the use of the study drug, and
 	- **(vii)** a list of the possible adverse reactions that are associated with the use of the study drug.
-> SOR/2012-129, s. 5.
+> SOR/2012-129, s. 5; SOR/2018-69, s. 24(F).
 
 
 
@@ -30085,8 +30100,8 @@ where the radioactive daughter is separated from its parent by
 
 
 
-**C.04.015** On written request from the Director, every fabricator, packager/labeller, tester, distributor referred to in paragraph C.01A.003(b) and importer of a drug shall submit protocols of tests together with samples of any lot of the drug before it is sold, and no person shall sell any lot of that drug if the protocol or sample fails to meet the requirements of these Regulations. 
-> SOR/97-12, s. 37.
+**C.04.015** On written request from the Minister, every fabricator, packager/labeller, tester, distributor referred to in paragraph C.01A.003(b) and importer of a drug shall submit protocols of tests together with samples of any lot of the drug before it is sold, and no person shall sell any lot of that drug if the protocol or sample fails to meet the requirements of these Regulations.
+> SOR/97-12, s. 37; SOR/2018-69, s. 27.
 
 
 
@@ -30213,9 +30228,11 @@ and the inner label of a single-dose container shall carry a statement that it c
 
 
 **C.04.070** B.C.G. vaccine shall be prepared from living B.C.G. organisms that
-- **(a)** have been obtained directly from a source approved by the Director;
+- **(a)** have been obtained directly from a source approved by the Minister;
 - **(b)** are proved to be non-pathogenic by an acceptable method; and
 - **(c)** have a history of successful use in the production of B.C.G. vaccine.
+> SOR/2018-69, s. 27.
+
 
 
 
@@ -30343,8 +30360,8 @@ and shall conform to the requirements of these Regulations for bacterial vaccine
 
 
 
-**C.04.102** Upon written request from the Director every fabricator and packager/labeller shall submit with respect to each lot of virus or rickettsial vaccine, when ready for sale, detailed protocols of sterility, safety, identity, potency, and of any other tests required by these Regulations. 
-> SOR/97-12, s. 63.
+**C.04.102** Upon written request from the Minister every fabricator and packager/labeller shall submit with respect to each lot of virus or rickettsial vaccine, when ready for sale, detailed protocols of sterility, safety, identity, potency, and of any other tests required by these Regulations.
+> SOR/97-12, s. 63; SOR/2018-69, s. 27.
 
 
 
@@ -30462,8 +30479,8 @@ and shall conform to the requirements of these Regulations for bacterial vaccine
 
 
 
-**C.04.127** The expiration date of the poliomyelitis vaccine shall be not later than 12 months after the date of the last satisfactory potency test unless evidence, satisfactory to the Director, is presented that a longer period is appropriate. 
-> SOR/85-715, s. 6.
+**C.04.127** The expiration date of the poliomyelitis vaccine shall be not later than 12 months after the date of the last satisfactory potency test unless evidence, satisfactory to the Minister, is presented that a longer period is appropriate.
+> SOR/85-715, s. 6; SOR/2018-69, s. 27.
 
 
 
@@ -30473,11 +30490,13 @@ and shall conform to the requirements of these Regulations for bacterial vaccine
 
 
 **C.04.128** **Poliovirus Vaccine, Live, Oral** or **Poliovirus Vaccine, Live, Oral (Naming the strains)** shall be prepared from living poliomyelitis virus types I, II and III that
-- **(a)** have been obtained directly from a source acceptable to the Director;
+- **(a)** have been obtained directly from a source acceptable to the Minister;
 - **(b)** are shown to be genetically stable by an acceptable method;
 - **(c)** are shown to be non-pathogenic when given orally to humans;
 - **(d)** are proved to be capable of multiplying in the human alimentary tract and of producing type specific neutralizing antibodies when administered orally; and
 - **(e)** have a history of successful use in the production of polio-virus vaccine, live, oral.
+> SOR/2018-69, s. 27.
+
 
 
 
@@ -30494,9 +30513,9 @@ and shall conform to the requirements of these Regulations for bacterial vaccine
 
 
 **C.04.131** Notwithstanding sections C.04.129 and C.04.130, a fabricator may manufacture other drugs in an area in which polio-virus vaccine, live, oral is manufactured at times when that vaccine is not being manufactured, if
-- **(a)** both prior to and following each manufacture the area is cleaned and disinfected by methods acceptable to the Director; and
-- **(b)** the fabricator has received written permission from the Director to carry out such manufacture. 
-> SOR/97-12, s. 61.
+- **(a)** both prior to and following each manufacture the area is cleaned and disinfected by methods acceptable to the Minister; and
+- **(b)** the fabricator has received written permission from the Minister to carry out such manufacture.
+> SOR/97-12, s. 61; SOR/2018-69, s. 27.
 
 
 
@@ -30505,7 +30524,9 @@ and shall conform to the requirements of these Regulations for bacterial vaccine
 - **(a)** in a tissue culture,
 - **(b)** in a medium, and
 - **(c)** by methods
-acceptable to the Director.
+acceptable to the Minister.
+> SOR/2018-69, s. 27.
+
 
 
 
@@ -30515,8 +30536,8 @@ acceptable to the Director.
 
 
 
-**C.04.134** A fabricator of poliovirus vaccine, live, oral shall test, by a method acceptable to the Director, each lot of vaccine for neurovirulence and for genetic markers and it shall meet the requirements established by the Director. 
-> SOR/97-12, s. 61.
+**C.04.134** A fabricator of poliovirus vaccine, live, oral shall test, by a method acceptable to the Minister, each lot of vaccine for neurovirulence and for genetic markers and it shall meet the requirements established by the Minister.
+> SOR/97-12, s. 61; SOR/2018-69, s. 27.
 
 
 
@@ -31027,9 +31048,9 @@ acceptable to the Director.
 **C.04.555** 
 
 - **(1)** A fabricator shall not sell Insulin Injection unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of insulin or zinc-insulin crystals employed in the manufacture of Insulin Injection
@@ -31041,9 +31062,9 @@ acceptable to the Director.
 	- **(c)** for the first filling of the first finished lot of Insulin Injection from each master lot of insulin or zinc-insulin crystals,
 		- **(i)** a report of assay of its nitrogen content in milligrams per 1,000 International Units of insulin,
 		- **(ii)** a report of assay of its zinc content in milligrams per 1,000 International Units of insulin, and
-		- **(iii)** a report on the determination of its pH. 
+		- **(iii)** a report on the determination of its pH.
 		- **(iv)** [Repealed, SOR/95-203, s. 2]
-> SOR/82-769, s. 4; SOR/95-203, s. 2; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 2; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31097,9 +31118,9 @@ acceptable to the Director.
 **C.04.561** 
 
 - **(1)** A fabricator shall not sell Insulin Zinc Suspension — Rapid unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of insulin or zinc-insulin crystals employed in the manufacture of Insulin Zinc Suspension — Rapid,
@@ -31119,7 +31140,7 @@ acceptable to the Director.
 		- **(ii)** a report on the microscopic examination of the precipitate, and
 		- **(iii)** a report on its identification, as determined by an acceptable method.
 		- **(iv)** [Repealed, SOR/95-203, s. 3]
-> SOR/82-769, s. 4; SOR/95-203, s. 3; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 3; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31173,9 +31194,9 @@ acceptable to the Director.
 **C.04.567** 
 
 - **(1)** A fabricator shall not sell Insulin Zinc Suspension-Medium unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of insulin or zinc-insulin crystals employed in the manufacture of Insulin Zinc Suspension-Medium,
@@ -31196,7 +31217,7 @@ acceptable to the Director.
 		- **(ii)** a report on the microscopic examination of the precipitate, and
 		- **(iii)** a report on its identification as determined by an acceptable method.
 		- **(iv)** [Repealed, SOR/95-203, s. 4]
-> SOR/82-769, s. 4; SOR/95-203, s. 4; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 4; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31250,9 +31271,9 @@ acceptable to the Director.
 **C.04.573** 
 
 - **(1)** A fabricator shall not sell Insulin Zinc Suspension — Prolonged unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of insulin or zinc-insulin crystals employed in the manufacture of Insulin Zinc Suspension — Prolonged,
@@ -31273,7 +31294,7 @@ acceptable to the Director.
 		- **(ii)** a report on the microscopic examination of the precipitate, and
 		- **(iii)** a report on its identification as determined by an acceptable method.
 		- **(iv)** [Repealed, SOR/95-203, s. 5]
-> SOR/82-769, s. 4; SOR/95-203, s. 5; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 5; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31315,12 +31336,12 @@ acceptable to the Director.
 
 **C.04.578** 
 
-- **(1)** The Canadian Reference Standard for Globin Insulin with Zinc shall be the standard adopted therefor by the Director from time to time.
+- **(1)** The Canadian Reference Standard for Globin Insulin with Zinc shall be the standard adopted therefor by the Minister from time to time.
 
-- **(2)** Upon application of a person who holds an establishment licence, the Director shall furnish him with a portion of the Canadian Reference Standard with directions for comparative testing.
+- **(2)** Upon application of a person who holds an establishment licence, the Minister shall furnish him with a portion of the Canadian Reference Standard with directions for comparative testing.
 
-- **(3)** The testing of the biological reaction of Globin Insulin with Zinc shall be made by an acceptable method and that biological reaction shall be comparable to the biological reaction of the portion of the Canadian Reference Standard furnished by the Director. 
-> SOR/82-769, s. 4; SOR/97-12, s. 64.
+- **(3)** The testing of the biological reaction of Globin Insulin with Zinc shall be made by an acceptable method and that biological reaction shall be comparable to the biological reaction of the portion of the Canadian Reference Standard furnished by the Minister.
+> SOR/82-769, s. 4; SOR/97-12, s. 64; SOR/2018-69, ss. 31(E), 32(F).
 
 
 
@@ -31338,9 +31359,9 @@ acceptable to the Director.
 **C.04.580** 
 
 - **(1)** A fabricator shall not sell Globin Insulin with Zinc unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of insulin or zinc-insulin crystals employed in the manufacture of Globin Insulin with Zinc,
@@ -31365,9 +31386,9 @@ acceptable to the Director.
 	- **(f)** for the first filling of the first finished lot of Globin Insulin with Zinc from each trial mixture of Globin Insulin with Zinc,
 		- **(i)** a report of assay of its nitrogen content in milligrams per cubic centimetre or per 1,000 International Units of insulin,
 		- **(ii)** a report of assay of its zinc content in milligrams per cubic centimetre or per 1,000 International Units of insulin, and
-		- **(iii)** a report on the determination of its pH. 
+		- **(iii)** a report on the determination of its pH.
 		- **(iv)** [Repealed, SOR/95-203, s. 6]
-> SOR/82-769, s. 4; SOR/95-203, s. 6; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 6; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31434,9 +31455,9 @@ acceptable to the Director.
 **C.04.588** 
 
 - **(1)** A fabricator shall not sell NPH Insulin unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of zinc-insulin crystals employed in the manufacture of NPH Insulin,
@@ -31456,9 +31477,9 @@ acceptable to the Director.
 		- **(ii)** a report of assay of its zinc content in milligrams per cubic centimetre or per 1,000 International Units of insulin,
 		- **(iii)** a report on the determination of its pH,
 		- **(iv)** a report on the microscopic examination of the precipitate, and
-		- **(v)** a report of its identification as determined by an acceptable method. 
+		- **(v)** a report of its identification as determined by an acceptable method.
 		- **(vi)** [Repealed, SOR/95-203, s. 7]
-> SOR/82-769, s. 4; SOR/95-203, s. 7; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 7; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31501,12 +31522,12 @@ acceptable to the Director.
 
 **C.04.593** 
 
-- **(1)** The Canadian Reference Standard for Protamine Zinc Insulin shall be the standard adopted therefor by the Director from time to time.
+- **(1)** The Canadian Reference Standard for Protamine Zinc Insulin shall be the standard adopted therefor by the Minister from time to time.
 
-- **(2)** Upon application of a person who holds an establishment licence, the Director shall furnish him with a portion of the Canadian Reference Standard with directions for comparative testing.
+- **(2)** Upon application of a person who holds an establishment licence, the Minister shall furnish him with a portion of the Canadian Reference Standard with directions for comparative testing.
 
-- **(3)** The testing of the biological reaction of Protamine Zinc Insulin shall be made by an acceptable method and that biological reaction shall be comparable to the biological reaction of the portion of the Canadian Reference Standard furnished by the Director. 
-> SOR/82-769, s. 4; SOR/97-12, s. 64.
+- **(3)** The testing of the biological reaction of Protamine Zinc Insulin shall be made by an acceptable method and that biological reaction shall be comparable to the biological reaction of the portion of the Canadian Reference Standard furnished by the Minister.
+> SOR/82-769, s. 4; SOR/97-12, s. 64; SOR/2018-69, ss. 31(E), 32(F).
 
 
 
@@ -31525,9 +31546,9 @@ acceptable to the Director.
 **C.04.595** 
 
 - **(1)** A fabricator shall not sell Protamine Zinc Insulin unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of insulin or zinc-insulin crystals employed in the manufacture of Protamine Zinc Insulin,
@@ -31548,9 +31569,9 @@ acceptable to the Director.
 	- **(e)** for the first filling of the first finished lot of Protamine Zinc Insulin from each trial mixture of Protamine Zinc Insulin,
 		- **(i)** a report of assay of its nitrogen content in milligrams per cubic centimetre or per 1,000 International Units,
 		- **(ii)** a report of assay of its zinc content in milligrams per cubic centimetre or per 1,000 International Units, and
-		- **(iii)** a report on the determination of its pH. 
+		- **(iii)** a report on the determination of its pH.
 		- **(iv)** [Repealed, SOR/95-203, s. 8]
-> SOR/82-769, s. 4; SOR/95-203, s. 8; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 8; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31600,9 +31621,9 @@ acceptable to the Director.
 **C.04.601** 
 
 - **(1)** A fabricator shall not sell Sulphated Insulin unless he
-	- **(a)** has filed with the Director, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Director;
-	- **(b)** has furnished the Director with such additional information as the Director may require; and
-	- **(c)** has received from the Director a notice that the information contained in the submission is in accordance with the requirements of this section.
+	- **(a)** has filed with the Minister, in accordance with subsection (2), a submission relating to that preparation, in a form and having a content satisfactory to the Minister;
+	- **(b)** has furnished the Minister with such additional information as the Minister may require; and
+	- **(c)** has received from the Minister a notice that the information contained in the submission is in accordance with the requirements of this section.
 
 - **(2)** A submission filed pursuant to subsection (1) shall include at least,
 	- **(a)** for each master lot of zinc-insulin crystals employed in the manufacture of Sulphated Insulin,
@@ -31615,9 +31636,9 @@ acceptable to the Director.
 		- **(iii)** a report on the determination of the neutralization ratio,
 		- **(iv)** a report on the determination of the number of sulphate groups per insulin molecule,
 		- **(v)** protocols of assay of its potency expressed as International Units per cubic centimetre, and
-		- **(vi)** a report on the determination of its pH. 
+		- **(vi)** a report on the determination of its pH.
 		- **(vii)** [Repealed, SOR/95-203, s. 9]
-> SOR/82-769, s. 4; SOR/95-203, s. 9; SOR/97-12, s. 61.
+> SOR/82-769, s. 4; SOR/95-203, s. 9; SOR/97-12, s. 61; SOR/2018-69, ss. 27, 31(E), 32(F).
 
 
 
@@ -31838,9 +31859,9 @@ and if unpurified anterior pituitary extract
 
 **C.04.676** Reference standards for anterior pituitary extract shall be
 - **(a)** the International Standard,
-- **(b)** where no International Standard exists, the Canadian Reference Standard shall be that established and kept by the Director from whom portions for comparative testing may be had upon application, and
-- **(c)** where neither an International Standard nor a Canadian Reference Standard exists, a provisional reference standard that shall be a suitable quantity of the product submitted by the distributor referred to in paragraph C.01A.003(b) to the Director for checking the uniformity of the product. 
-> SOR/82-769, s. 13; SOR/97-12, s. 58.
+- **(b)** where no International Standard exists, the Canadian Reference Standard shall be that established and kept by the Minister from whom portions for comparative testing may be had upon application, and
+- **(c)** where neither an International Standard nor a Canadian Reference Standard exists, a provisional reference standard that shall be a suitable quantity of the product submitted by the distributor referred to in paragraph C.01A.003(b) to the Minister for checking the uniformity of the product.
+> SOR/82-769, s. 13; SOR/97-12, s. 58; SOR/2018-69, s. 27.
 
 
 
@@ -32701,7 +32722,7 @@ and if unpurified anterior pituitary extract
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
 	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
-> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10.
+> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10; SOR/2018-69, s. 33(F).
 
 
 
@@ -32822,7 +32843,7 @@ and if unpurified anterior pituitary extract
 		- **(ii)** mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages.
 
 - **(4)** If a supplement to an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission concerns a matter specified in subparagraph (2)(h)(iii), the supplement shall contain the attestation and supporting information referred to in paragraph C.08.002.01(2)(a).
-> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13.
+> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13; SOR/2018-69, s. 33(F).
 
 
 
@@ -32919,7 +32940,7 @@ and if unpurified anterior pituitary extract
 		- **(viii)** the methods, equipment, plant and controls used in the manufacture, processing and packaging of the new drug,
 		- **(ix)** the tests applied to control the potency, purity and safety of the new drug, and
 		- **(x)** the names and qualifications of all investigators to whom the drug is to be sold and the names of all institutions in which the clinical testing is to be carried out;
-	- **(b)** the Director has not, within 60 days after the date of receipt of the preclinical submission, sent by registered mail to the manufacturer a notice in respect of that new drug indicating that the preclinical submission is not satisfactory;
+	- **(b)** the Minister has not, within 60 days after the date of receipt of the preclinical submission, sent by registered mail to the manufacturer a notice in respect of that new drug indicating that the preclinical submission is not satisfactory;
 	- **(c)** all inner labels and outer labels used in conjunction with the sale of the new drug to qualified investigators carry the statements
 		- **(i)** “Investigational Drug” or “*Drogue de recherche*”, and
 		- **(ii)** “To Be Used By Qualified Investigators Only” or “*Réservée uniquement à l’usage de chercheurs compétents*”;
@@ -32929,21 +32950,21 @@ and if unpurified anterior pituitary extract
 	- **(e)** every qualified investigator to whom the new drug is to be sold has agreed in writing with the manufacturer that the investigator will
 		- **(i)** not use the new drug or permit it to be used other than for clinical testing,
 		- **(ii)** not permit the new drug to be used by any person other than the investigator except under the investigator’s direction,
-		- **(iii)** report immediately to that manufacturer and, if so required by the Director, report to the Director all serious adverse reactions encountered during the clinical testing, and
+		- **(iii)** report immediately to that manufacturer and, if so required by the Minister, report to the Minister all serious adverse reactions encountered during the clinical testing, and
 		- **(iv)** account to the manufacturer for all quantities of the new drug received, where so requested by the manufacturer.
 
 - **(1.1)** This section applies only in respect of a new drug for veterinary use.
 
 - **(2)** Notwithstanding subsection (1), no manufacturer shall sell a new drug to a qualified investigator unless that manufacturer has, in respect of all previous sales of that new drug to any qualified investigator,
-	- **(a)** kept accurate records of the distribution of that new drug and of the results of the clinical testing and has made those records available to the Director for inspection on the request of the Director; and
-	- **(b)** immediately reported to the Director all information he has obtained with respect to serious adverse reactions.
+	- **(a)** kept accurate records of the distribution of that new drug and of the results of the clinical testing and has made those records available to the Minister for inspection on the request of the Minister; and
+	- **(b)** immediately reported to the Minister all information he has obtained with respect to serious adverse reactions.
 
 - **(3)** The Minister may notify the manufacturer of a new drug that sales of that new drug to qualified investigators are prohibited if, in the opinion of the Minister, it is in the interest of public health to do so.
 
 - **(4)** Notwithstanding subsection (1), no manufacturer shall sell a new drug to a qualified investigator if the Minister has notified the manufacturer of that drug that such sales are prohibited.
 
 - **(5)** Paragraph (1)(c) does not apply to a radiopharmaceutical as defined in section C.03.201 or to a component or kit as defined in section C.03.205.
-> SOR/79-236, s. 5; SOR/85-143, s. 4; SOR/87-511, s. 1; SOR/93-202, s. 26; SOR/95-411, s. 7; SOR/2001-203, s. 6.
+> SOR/79-236, s. 5; SOR/85-143, s. 4; SOR/87-511, s. 1; SOR/93-202, s. 26; SOR/95-411, s. 7; SOR/2001-203, s. 6; SOR/2018-69, s. 27.
 
 
 
@@ -32996,9 +33017,9 @@ and if unpurified anterior pituitary extract
 	- **(c)** that the submission or supplement contained an untrue statement of material fact;
 	- **(d)** that the manufacturer has failed to establish a system for maintaining required records or has repeatedly or deliberately failed to maintain such records;
 	- **(e)** that, on the basis of new information obtained after the issuance of the notice of compliance, the methods, equipment, plant and controls used in the manufacturing, processing and packaging of the drug are inadequate to assure and preserve the identity, strength, quality or purity of the new drug;
-	- **(f)** that, on the basis of new information obtained after the issuance of the notice of compliance, the labelling of the drug is false or misleading or incomplete in any particular and that this defect was not corrected by the manufacturer upon receipt of a written notice from the Director specifying the respect in which the labelling is false or misleading or incomplete; or
+	- **(f)** that, on the basis of new information obtained after the issuance of the notice of compliance, the labelling of the drug is false or misleading or incomplete in any particular and that this defect was not corrected by the manufacturer upon receipt of a written notice from the Minister specifying the respect in which the labelling is false or misleading or incomplete; or
 	- **(g)** that, in the case of a new drug for extraordinary use, the manufacturer has not adhered to the plan referred to in subparagraph C.08.002.01(2)(b)(ix).
-> SOR/95-411, s. 9; SOR/2001-203, s. 8; SOR/2011-88, s. 18.
+> SOR/95-411, s. 9; SOR/2001-203, s. 8; SOR/2011-88, s. 18; SOR/2018-69, s. 27.
 
 
 
@@ -33076,23 +33097,23 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 
 **C.08.010** 
 
-- **(1)** The Director may issue a letter of authorization authorizing the sale of a quantity of a new drug for human or veterinary use to a practitioner named in the letter of authorization for use in the emergency treatment of a patient under the care of that practitioner, if
-	- **(a)** the practitioner has supplied to the Director information concerning
+- **(1)** The Minister may issue a letter of authorization authorizing the sale of a quantity of a new drug for human or veterinary use to a practitioner named in the letter of authorization for use in the emergency treatment of a patient under the care of that practitioner, if
+	- **(a)** the practitioner has supplied to the Minister information concerning
 		- **(i)** the medical emergency for which the drug is required,
 		- **(ii)** the data in the possession of the practitioner with respect to the use, safety and efficacy of that drug,
 		- **(iii)** the names of all institutions in which the drug is to be used, and
-		- **(iv)** such other data as the Director may require; and
+		- **(iv)** such other data as the Minister may require; and
 	- **(b)** the practitioner has agreed to
-		- **(i)** report to the manufacturer of the new drug and to the Director on the results of the use of the drug in the medical emergency, including information respecting any adverse reactions encountered, and
-		- **(ii)** account to the Director on request for all quantities of the drug received by him.
+		- **(i)** report to the manufacturer of the new drug and to the Minister on the results of the use of the drug in the medical emergency, including information respecting any adverse reactions encountered, and
+		- **(ii)** account to the Minister on request for all quantities of the drug received by him.
 
-- **(1.1)** The Director shall not issue a letter of authorization under subsection (1) for a new drug that is or that contains a restricted drug as defined in section J.01.001.
+- **(1.1)** The Minister shall not issue a letter of authorization under subsection (1) for a new drug that is or that contains a restricted drug as defined in section J.01.001.
 
-- **(2)** The Director shall, in any letter of authorization issued pursuant to subsection (1), state
+- **(2)** The Minister shall, in any letter of authorization issued pursuant to subsection (1), state
 	- **(a)** the name of the practitioner to whom the new drug may be sold;
 	- **(b)** the medical emergency in respect of which the new drug may be sold; and
 	- **(c)** the quantity of the new drug that may be sold to that practitioner for that emergency.
-> SOR/2013-172, s. 11.
+> SOR/2013-172, s. 11; SOR/2018-69, ss. 31(E), 32(F).
 
 
 
@@ -33113,7 +33134,7 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 
 - **(1)** Notwithstanding anything in this Division, a person may sell, pursuant to a written prescription of a veterinary practitioner, a medicated feed if
 	- **(a)** as regards the drug or drugs used as the medicating ingredient of the medicated feed,
-		- **(i)** the Director has assigned a drug identification number pursuant to section C.01.014.2, or
+		- **(i)** the Minister has assigned a drug identification number pursuant to section C.01.014.2, or
 		- **(ii)** the sale is permitted by section C.08.005, C.08.011 or C.08.013;
 	- **(b)** the medicated feed is for the treatment of animals under the direct care of the veterinary practitioner who signed the prescription;
 	- **(c)** the medicated feed is for therapeutic purposes only; and
@@ -33128,8 +33149,8 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 			- **(B)** a warning statement respecting the withdrawal period to be observed following the use of the medicated feed, and
 			- **(C)** where applicable, cautions with respect to animal health or to the handling or storage of the medicated feed.
 
-- **(2)** For the purpose of this section, ***medicated feed*** has the same meaning as in the Feeds Regulations. 
-> SOR/80-741, s. 1; SOR/92-130, s. 1; SOR/93-202, s. 27.
+- **(2)** For the purpose of this section, ***medicated feed*** has the same meaning as in the Feeds Regulations.
+> SOR/80-741, s. 1; SOR/92-130, s. 1; SOR/93-202, s. 27; SOR/2018-69, s. 27.
 
 
 
@@ -33144,18 +33165,18 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 
 **C.08.013** 
 
-- **(1)** Notwithstanding anything in this Division, a person may sell a new drug proposed for use in animals to an experimental studies investigator in a quantity specified by the Director for the purpose of conducting an experimental study in animals if
+- **(1)** Notwithstanding anything in this Division, a person may sell a new drug proposed for use in animals to an experimental studies investigator in a quantity specified by the Minister for the purpose of conducting an experimental study in animals if
 	- **(a)** the experimental studies investigator has been issued an experimental studies certificate pursuant to subsection C.08.015(1) and the certificate has not been suspended or cancelled pursuant to section C.08.018; and
 	- **(b)** the drug is labelled in accordance with subsection C.08.016(1).
 
 - **(2)** For the purposes of this section and sections C.08.014 to C.08.018,
 
-***experimental studies certificate*** means a certificate issued pursuant to subsection C.08.015(1); (*certificat d’études expérimentales*)
+***experimental studies certificate*** means a certificate issued pursuant to subsection C.08.015(1); (*certificat d’études expérimentales*)
 
-***experimental studies investigator*** means a person named as the investigator in an experimental studies certificate; (*expert en études expérimentales*)
+***experimental studies investigator*** means a person named as the investigator in an experimental studies certificate; (*expert en études expérimentales*)
 
-***experimental study*** means a limited test of a new drug in animals carried out by an experimental studies investigator. (*étude expérimentale*) 
-> SOR/81-333, s. 1.
+***experimental study*** means a limited test of a new drug in animals carried out by an experimental studies investigator. (*étude expérimentale*)
+> SOR/81-333, s. 1; SOR/2018-69, s. 27.
 
 
 
@@ -33166,7 +33187,7 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 
 **C.08.014** 
 
-- **(1)** For the purpose of obtaining an experimental studies certificate, an applicant shall submit to the Director, in writing, the following information and material:
+- **(1)** For the purpose of obtaining an experimental studies certificate, an applicant shall submit to the Minister, in writing, the following information and material:
 	- **(a)** the brand name of the new drug or the identifying name or code proposed for the new drug;
 	- **(b)** the objectives and an outline of the proposed experimental study of the new drug;
 	- **(c)** the species, number and production type of animals in respect of which the new drug is to be administered;
@@ -33178,26 +33199,26 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 	- **(i)** the proposed quantity of the new drug to be used for the experimental study;
 	- **(j)** the results of any toxicological or pharmacological studies that may have been conducted with the new drug;
 	- **(k)** the written agreement referred to in subsection (2); and
-	- **(l)** such other information and material as the Director may require.
+	- **(l)** such other information and material as the Minister may require.
 
 - **(2)** Where a food-producing animal is involved in an experimental study, the applicant referred to in subsection (1) shall, for the purposes of obtaining an experimental studies certificate, obtain from the owner of the animals, or from a person authorized by the owner, a written agreement not to sell the animal or any products from it without prior authorization from the experimental studies investigator.
 
-- **(3)** The Director may request the manufacturer of a new drug to submit to him samples of the new drug or of any ingredient of the drug and, in satisfactory form and manner, any other information that the Director requests and where such samples or information are not submitted, the Director may refuse to issue an experimental studies certificate.
-> SOR/81-333, s. 1; SOR/93-202, s. 28.
+- **(3)** The Minister may request the manufacturer of a new drug to submit to him samples of the new drug or of any ingredient of the drug and, in satisfactory form and manner, any other information that the Minister requests and where such samples or information are not submitted, the Minister may refuse to issue an experimental studies certificate.
+> SOR/81-333, s. 1; SOR/93-202, s. 28; SOR/2018-69, s. 27.
 
 
 
 
 **C.08.015** 
 
-- **(1)** Where, on receipt of the information and material submitted pursuant to section C.08.014, the Director is satisfied that
+- **(1)** Where, on receipt of the information and material submitted pursuant to section C.08.014, the Minister is satisfied that
 	- **(a)** the applicant is qualified as an experimental studies investigator for the purposes of the proposed experimental study,
 	- **(b)** the facilities for the conduct of the experimental study are adequate for the purposes of the proposed experimental study, and
 	- **(c)** the proposed experimental study can be conducted without undue foreseeable risk to humans or animals,
-the Director shall issue an experimental studies certificate for the purposes of the proposed experimental study and shall specify therein the quantity of the new drug that may be sold to the experimental studies investigator.
+the Minister shall issue an experimental studies certificate for the purposes of the proposed experimental study and shall specify therein the quantity of the new drug that may be sold to the experimental studies investigator.
 
-- **(2)** Where, on receipt of the information and material submitted pursuant to section C.08.014, the Director is not satisfied that the requirements of paragraphs (1)(a), (b) and (c) have been met, he shall refuse to issue an experimental studies certificate. 
-> SOR/81-333, s. 1.
+- **(2)** If, on receipt of the information and material submitted under section C.08.014, the Minister is not satisfied that the requirements of paragraphs (1)(a), (b) and (c) have been met, he or she shall refuse to issue an experimental studies certificate.
+> SOR/81-333, s. 1; SOR/2018-69, ss. 25, 27.
 
 
 
@@ -33227,13 +33248,13 @@ the Director shall issue an experimental studies certificate for the purposes of
 
 **C.08.017** An experimental studies investigator shall
 - **(a)** use the new drug only in accordance with the outline of the experimental study;
-- **(b)** report immediately to the Director all serious adverse drug reactions associated with the use of the new drug;
-- **(c)** report promptly to the Director, on request, the results of the experimental study;
+- **(b)** report immediately to the Minister all serious adverse drug reactions associated with the use of the new drug;
+- **(c)** report promptly to the Minister, on request, the results of the experimental study;
 - **(d)** return to the manufacturer, on request, all quantities of the new drug not used in the experimental study;
-- **(e)** maintain all records of the experimental study for a period of at least two years after the conclusion of the study and, on request, make such records available to the Director;
-- **(f)** report promptly to the Director any known disposition of animals involved in the study or of any products from the animals that is contrary to the terms of the agreement referred to in subsection C.08.014(2); and
-- **(g)** account to the Director, on request, for all quantities of the new drug received by him. 
-> SOR/81-333, s. 1; SOR/2001-203, s. 10.
+- **(e)** maintain all records of the experimental study for a period of at least two years after the conclusion of the study and, on request, make such records available to the Minister;
+- **(f)** report promptly to the Minister any known disposition of animals involved in the study or of any products from the animals that is contrary to the terms of the agreement referred to in subsection C.08.014(2); and
+- **(g)** account to the Minister, on request, for all quantities of the new drug received by him.
+> SOR/81-333, s. 1; SOR/2001-203, s. 10; SOR/2018-69, s. 27.
 
 
 
@@ -33244,15 +33265,15 @@ the Director shall issue an experimental studies certificate for the purposes of
 
 **C.08.018** 
 
-- **(1)** Where the Director is of the opinion that it is necessary in order to safeguard animal health or public health or to promote public safety, he may suspend for a definite or indefinite period or cancel an experimental studies certificate.
+- **(1)** If the Minister determines that it is necessary in order to safeguard animal health or public health or to promote public safety, he or she may suspend for a definite or indefinite period or cancel an experimental studies certificate.
 
-- **(2)** Without limiting the generality of subsection (1), the Director may suspend or cancel an experimental studies certificate if
+- **(2)** Without limiting the generality of subsection (1), the Minister may suspend or cancel an experimental studies certificate if
 	- **(a)** the information and material submitted pursuant to section C.08.014 contains an untrue statement or contains any omission concerning the properties of the drug that were known or ought reasonably to have been known to the manufacturer or the experimental studies investigator;
 	- **(b)** the labelling of the new drug is, at any time, false, misleading, deceptive or incomplete;
 	- **(c)** the qualifications of the experimental studies investigator prove to be inadequate;
 	- **(d)** there is evidence that the experimental studies investigator has not complied with the conditions referred to in section C.08.017; or
-	- **(e)** an action of the manufacturer in respect of the new drug has resulted in his conviction for a violation of section C.08.002. 
-> SOR/81-333, s. 1.
+	- **(e)** an action of the manufacturer in respect of the new drug has resulted in his conviction for a violation of section C.08.002.
+> SOR/81-333, s. 1; SOR/2018-69, ss. 26, 27.
 
 
 
@@ -33986,8 +34007,8 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 **D.02.011** No person shall sell a food to which sodium iron pyrophosphate has been added as a source of iron as a mineral nutrient unless
 - **(a)** the bioavailability of the iron in the food is not less than 50 per cent of the bioavailability of ferrous sulphate as determined by official method FO-42, Determination of Bioavailability of Iron, December 15, 1982; and
-- **(b)** that person retains documentary evidence showing that the bioavailability of the iron in the food has been determined by the official method referred to in paragraph (a) and, on request by the Director, submits such evidence to the Director. 
-> SOR/84-303, s. 1..
+- **(b)** that person retains documentary evidence showing that the bioavailability of the iron in the food has been determined by the official method referred to in paragraph (a) and, on request by the Minister, submits such evidence to the Minister.
+> SOR/84-303, s. 1; SOR/2018-69, s. 27.
 
 
 
@@ -34476,17 +34497,17 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 	- **(c)** is a hospital employee or a practitioner in a hospital;
 	- **(d)** has obtained the controlled drug for his own use from a practitioner or pursuant to a prescription that is not issued or obtained in contravention of these Regulations;
 	- **(e)** is a practitioner of medicine who received the controlled drug under subsection G.06.001(3) or (4) and whose possession is for a purpose referred to in subsection G.06.001(5);
-	- **(f)** is an agent of a practitioner of medicine who received the controlled drug under subsection G.06.001(3) and whose possession is for the purpose of complying with subsection G.06.001(4);
+	- **(f)** is an agent or mandatary of a practitioner of medicine who received the controlled drug under subsection G.06.001(3) and whose possession is for the purpose of complying with subsection G.06.001(4);
 	- **(g)** is employed as an inspector, a member of the Royal Canadian Mounted Police, a police constable, peace officer or member of the technical or scientific staff of any department of the Government of Canada or of a province or university and such possession is for the purposes of and in connection with such employment;
 	- **(h)** is a person other than a person referred to in paragraph (e) or (f), is exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to possession of that controlled drug and whose possession is for a purpose set out in the exemption; or
 	- **(i)** is a person referred to in paragraph G.06.001(5)(b).
 
-- **(2)** A person is authorized to have a controlled drug referred to in subsection (1) in his possession where the person is acting as the agent for any person referred to in paragraph (1)(a) to (e), (h) or (i).
+- **(2)** A person is authorized to have a controlled drug referred to in subsection (1) in his possession where the person is acting as the agent or mandatary for any person referred to in paragraph (1)(a) to (e), (h) or (i).
 
 - **(3)** A person is authorized to have a controlled drug referred to in subsection (1) in his possession where
-	- **(a)** the person is acting as the agent for a person he has reasonable grounds to believe is a person referred to in paragraph (1)(g); and
-	- **(b)** the possession of the controlled drug is for the purpose of assisting that person in the enforcement or administration of an Act or a regulation. 
-> SOR/97-515, s. 3; SOR/99-125, s. 1; SOR/2003-34, s. 1; SOR/2003-413, s. 1.
+	- **(a)** the person is acting as the agent or mandatary for a person he has reasonable grounds to believe is a person referred to in paragraph (1)(g); and
+	- **(b)** the possession of the controlled drug is for the purpose of assisting that person in the enforcement or administration of an Act or a regulation.
+> SOR/97-515, s. 3; SOR/99-125, s. 1; SOR/2003-34, s. 1; SOR/2003-413, s. 1; SOR/2018-69, ss. 67, 68.
 
 
 
@@ -35229,9 +35250,9 @@ from that pharmacist or practitioner.
 **G.03.014** A pharmacist may, upon receiving a written order for a controlled drug signed and dated by
 - **(a)** the licensed dealer who sold or provided that drug to them, return that drug to that licensed dealer;
 - **(b)** another pharmacist, sell or provide any quantity of that drug to that other pharmacist that is specified in the order as being required for emergency purposes;
-- **(c)** a Regional Director of the Department, sell or provide to or in accordance with the order of that Director any quantity of that drug, specified in the order, that is required by the Director in connection with their duties; and
+- **(c)** the Minister, sell or provide to or in accordance with his or her order any quantity of that drug, specified in the order, that is required by the Minister in connection with his or her duties; and
 - **(d)** a person exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to that controlled drug, sell or provide to that person any quantity of that drug that is specified in the order.
-> SOR/81-359, s. 2; SOR/85-550, s. 9; SOR/99-125, s. 3; SOR/2004-238, s. 21; SOR/2014-260, s. 8(E).
+> SOR/81-359, s. 2; SOR/85-550, s. 9; SOR/99-125, s. 3; SOR/2004-238, s. 21; SOR/2014-260, s. 8(E); SOR/2018-69, s. 65.
 
 
 
@@ -35540,16 +35561,16 @@ as the Minister may require;
 
 - **(3)** Despite anything in these Regulations, a person may, for the purpose of identification or analysis of a controlled drug in their possession, provide or deliver the drug to
 	- **(a)** a practitioner of medicine; or
-	- **(b)** an agent of a practitioner of medicine, where the agent has been exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of that controlled drug.
+	- **(b)** an agent or mandatary of a practitioner of medicine, where the agent or mandatary has been exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of that controlled drug.
 
-- **(4)** If an agent of a practitioner of medicine receives a controlled drug under subsection (3), they shall immediately provide or deliver it
-	- **(a)** to the practitioner of whom he is the agent; or
-	- **(b)** to the Minister or his agent.
+- **(4)** If an agent or mandatary of a practitioner of medicine receives a controlled drug under subsection (3), they shall immediately provide or deliver it
+	- **(a)** to the practitioner of whom he is the agent or mandatary; or
+	- **(b)** to the Minister.
 
 - **(5)** A practitioner of medicine who receives a controlled drug under subsection (3) or (4) shall immediately provide or deliver it
 	- **(a)** for the purpose of identification or analysis thereof, to a person exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of that controlled drug for that purpose; or
-	- **(b)** to the Minister or his agent. 
-> SOR/99-125, s. 5; SOR/2004-238, s. 29.
+	- **(b)** to the Minister.
+> SOR/99-125, s. 5; SOR/2004-238, s. 29; SOR/2018-69, ss. 67, 69.
 
 
 
@@ -35582,11 +35603,13 @@ as the Minister may require;
 
 
 
-**G.06.002.2** The manufacturer of a test kit that contains a controlled drug may apply for a registration number therefor by submitting to the Director an application containing
+**G.06.002.2** The manufacturer of a test kit that contains a controlled drug may apply for a registration number therefor by submitting to the Minister an application containing
 - **(a)** particulars of the design and construction of the test kit;
 - **(b)** a detailed description of the controlled drug and other substances, if any, contained in the test kit, including the qualitative and quantitative composition of each component;
 - **(c)** a statement of the proposed use of the test kit; and
 - **(d)** any further information and material that the Minister may require in order to satisfy himself that the test kit is one for which a registration number may be issued.
+> SOR/2018-69, s. 70.
+
 
 
 
@@ -36362,18 +36385,18 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 
 - **(3)** Despite anything in these Regulations, a person may, for the purpose of identification or analysis of a restricted drug, provide or deliver the restricted drug that they have in their possession to
 	- **(a)** a practitioner; or
-	- **(b)** an agent of a practitioner, where the agent has been exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of that restricted drug for that purpose.
+	- **(b)** an agent or mandatary of a practitioner, where the agent or mandatary has been exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of that restricted drug for that purpose.
 
-- **(4)** if an agent of a practitioner has received a restricted drug under subsection (3), the agent shall immediately provide or deliver it
-	- **(a)** to the practitioner of whom he is the agent; or
-	- **(b)** to the Minister or his agent.
+- **(4)** if an agent or mandatary of a practitioner has received a restricted drug under subsection (3), the agent or mandatary shall immediately provide or deliver it
+	- **(a)** to the practitioner of whom he is the agent or mandatary; or
+	- **(b)** to the Minister.
 
 - **(5)** A practitioner who has received a restricted drug under subsection (3) or (4) shall immediately provide or deliver it
 	- **(a)** for the purpose of identification or analysis thereof, to a person exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the possession of that restricted drug for that purpose; or
 	- **(b)** to the Minister.
 
-- **(6)** Sections J.01.021 and J.01.022 apply with such modifications as the circumstances may require to every person who has received a restricted drug pursuant to this section other than a person to whom a restricted drug has been administered pursuant to an exemption granted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the administration of that drug. 
-> SOR/99-125, s. 8; SOR/2004-238, s. 40.
+- **(6)** Sections J.01.021 and J.01.022 apply with such modifications as the circumstances may require to every person who has received a restricted drug pursuant to this section other than a person to whom a restricted drug has been administered pursuant to an exemption granted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to the administration of that drug.
+> SOR/99-125, s. 8; SOR/2004-238, s. 40; SOR/2018-69, ss. 67, 69.
 
 
 
@@ -36395,11 +36418,13 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 
 
 
-**J.01.033.2** The manufacturer of a test kit that contains a restricted drug may apply for a registration number therefor by submitting to the Director an application containing
+**J.01.033.2** The manufacturer of a test kit that contains a restricted drug may apply for a registration number therefor by submitting to the Minister an application containing
 - **(a)** particulars of the design and construction of the test kit;
 - **(b)** a detailed description of the restricted drug and other substances, if any, contained in the test kit, including the qualitative and quantitative composition of each component;
 - **(c)** a statement of the proposed use of the test kit; and
 - **(d)** any further information and material that the Minister may require in order to satisfy himself that the test kit is one for which a registration number may be issued.
+> SOR/2018-69, s. 70.
+
 
 
 
@@ -36513,13 +36538,13 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **PART II** 
 
-- **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
+- **1** *Salvia divinorum* (*S. divinorum*), its preparations and derivatives, including
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
 - **2** *Catha edulis* Forsk, its preparations, derivatives, alkaloids and salts, including
 - **(1)** Cathine (*d*-threo-2-amino-1-hydroxy-1-phenylpropane)
 - but not including
 - **(2)** Cathinone ((-)-α-aminopropiophenone) and its salts
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2; SOR/2017-278, s. 1.
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2; SOR/2017-278, s. 1; SOR/2018-69, s. 66.
 
 
 
