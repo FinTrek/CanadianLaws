@@ -37,45 +37,49 @@ Autorités habilitantes :
 
 **A.01.010** Dans le présent règlement,
 
-***centimètre cube*** ou son abréviation ***cc.*** sont censées interchangeables avec le mot ***millilitre*** et son abréviation ***ml.***; (*cubic centimetre*)
+***centimètre cube*** ou son abréviation ***cc.*** sont censées interchangeables avec le mot millilitre et son abréviation ml.; (*cubic centimetre*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an; (*common-law partner*)
 
-***Directeur*** désigne le sous-ministre adjoint de la Direction générale des produits de santé et des aliments du ministère. (*Director*)
+***Directeur***[Abrogée, DORS/2018-69, art. 1]
 
-***drogue sur ordonnance*** Drogue figurant sur la Liste des drogues sur ordonnance, avec ses modifications successives, ou faisant partie d’une catégorie de drogues figurant sur cette liste. (*prescription drug*)
+***drogue sur ordonnance*** Drogue figurant sur la Liste des drogues sur ordonnance, avec ses modifications successives, ou faisant partie d’une catégorie de drogues figurant sur cette liste; (*prescription drug*)
 
-***emballage de sécurité*** désigne un emballage doté d’un dispositif de sûreté qui offre au consommateur une assurance raisonnable que l’emballage n’a pas été ouvert avant l’achat; (*security package*)
+***emballage de sécurité*** désigne un emballage doté d’un dispositif de sûreté qui offre au consommateur une assurance raisonnable que l’emballage n’a pas été ouvert avant l’achat; (*security package*)
 
-***espace principal*** S’entend au sens du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md). (*principal display panel*)
+***espace principal*** S’entend au sens du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md); (*principal display panel*)
 
-***étiquette extérieure*** désigne l’étiquette sur l’extérieur d’un emballage d’aliment ou de drogue, ou y apposée; (*outer label*)
+***étiquette extérieure*** désigne l’étiquette sur l’extérieur d’un emballage d’aliment ou de drogue, ou y apposée; (*outer label*)
 
-***étiquette intérieure*** désigne l’étiquette sur le récipient immédiat d’un aliment ou d’une drogue, ou y apposée; (*inner label*)
+***étiquette intérieure*** désigne l’étiquette sur le récipient immédiat d’un aliment ou d’une drogue, ou y apposée; (*inner label*)
 
 ***fabricant***[Abrogée, DORS/97-12, art. 1]
 
-***fabricant*** ou ***distributeur*** Toute personne, y compris une association ou une société de personnes, qui, sous son propre nom ou sous une marque de commerce, un dessin-marque, un logo, un nom commercial ou un autre nom, dessin ou marque soumis à son contrôle, vend un aliment ou une drogue. (*manufacturer*ou*distributor*)
+***fabricant*** ou ***distributeur*** Toute personne, y compris une association ou une société de personnes, qui, sous son propre nom ou sous une marque de commerce, un dessin-marque, un logo, un nom commercial ou un autre nom, dessin ou marque soumis à son contrôle, vend un aliment ou une drogue; (*manufacturer* ou *distributor*)
 
-***Liste des drogues sur ordonnance*** Liste établie par le ministre en vertu de l’article 29.1 de la Loi. (*Prescription Drug List*)
+***Liste des drogues sur ordonnance*** Liste établie par le ministre en vertu de l’article 29.1 de la Loi; (*Prescription Drug List*)
 
-***Loi*** Sauf pour l’application des parties G et J, la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*Act*)
+***Loi*** Sauf pour l’application des parties G et J, la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md); (*Act*)
 
-***méthode acceptable*** Méthode d’analyse ou d’examen désignée par le Directeur comme étant acceptable aux fins de l’application de la Loi et du présent règlement. (*acceptable method*)
+***méthode acceptable*** Méthode d’analyse ou d’examen désignée par le ministre comme étant acceptable aux fins de l’application de la Loi et du présent règlement; (*acceptable method*)
 
-***méthode officielle*** signifie une méthode d’analyse ou d’examen désignée comme telle par le Directeur pour usage dans l’application de la Loi et du présent règlement; (*official method*)
+***méthode officielle*** signifie une méthode d’analyse ou d’examen désignée comme telle par le ministre pour usage dans l’application de la Loi et du présent règlement; (*official method*)
 
-***numéro de lot*** désigne toute combinaison de lettres, de chiffres ou de lettres et de chiffres au moyen de laquelle tout aliment ou une drogue peut être retracé au cours de la fabrication et identifié au cours de la distribution. (*Lot number*)
-> DORS/84-300, art. 1(F); DORS/85-141, art. 1; DORS/89-455, art. 1; DORS/97-12, art. 1; DORS/2000-353, art. 1; DORS/2001-272, art. 5; DORS/2003-135, art. 1; DORS/2013-122, art. 1.
-
-
-
-
-**A.01.011** Le Directeur doit, sur demande, fournir des exemplaires des méthodes officielles.
+***numéro de lot*** désigne toute combinaison de lettres, de chiffres ou de lettres et de chiffres au moyen de laquelle tout aliment ou une drogue peut être retracé au cours de la fabrication et identifié au cours de la distribution. (*Lot number*)
+> DORS/84-300, art. 1(F); DORS/85-141, art. 1; DORS/89-455, art. 1; DORS/97-12, art. 1; DORS/2000-353, art. 1; DORS/2001-272, art. 5; DORS/2003-135, art. 1; DORS/2013-122, art. 1; DORS/2018-69, art. 1 et 27.
 
 
 
-**A.01.012** Le Directeur doit, sur demande, indiquer si une méthode est acceptable ou non, lorsqu’on la lui présente en vue d’une décision.
+
+**A.01.011** Le ministre doit, sur demande, fournir des exemplaires des méthodes officielles.
+> DORS/2018-69, art. 27.
+
+
+
+
+**A.01.012** Le ministre doit, sur demande, indiquer si une méthode est acceptable ou non, lorsqu’on la lui présente en vue d’une décision.
+> DORS/2018-69, art. 27.
+
 
 
 
@@ -136,12 +140,12 @@ Autorités habilitantes :
 
 
 
-**A.01.024** Le certificat visé au paragraphe 22(2) de la Loi doit :
+**A.01.024** Le certificat visé au paragraphe 22(2) de la Loi doit :
 - **a)** établir que la personne qui y est nommée est un inspecteur pour les fins de la Loi; et
 - **b)** être signé par
-	- **(i)** le Directeur et la personne nommée au certificat, dans le cas d’un inspecteur du ministère.
+	- **(i)** le ministre et la personne nommée au certificat, dans le cas d’un inspecteur du ministère.
 	- **(ii)** [Abrogé, DORS/2000-184, art. 60]
-> DORS/80-500, art. 1; DORS/92-626, art. 1; DORS/95-548, art. 5; DORS/2000-184, art. 60.
+> DORS/80-500, art. 1; DORS/92-626, art. 1; DORS/95-548, art. 5; DORS/2000-184, art. 60; DORS/2018-69, art. 27.
 
 
 
@@ -187,14 +191,14 @@ Autorités habilitantes :
 
 **A.01.044** 
 
-- **(1)** Quiconque cherche à importer pour la vente un aliment ou une drogue dont la vente enfreindrait la Loi ou le présent règlement peut, dans les cas où un nouvel étiquetage ou une modification rendrait cette vente au Canada conforme à la Loi et au présent règlement, importer cet aliment ou cette drogue pour la vente aux conditions suivantes :
+- **(1)** Quiconque cherche à importer pour la vente un aliment ou une drogue dont la vente enfreindrait la Loi ou le présent règlement peut, dans les cas où un nouvel étiquetage ou une modification rendrait cette vente au Canada conforme à la Loi et au présent règlement, importer cet aliment ou cette drogue pour la vente aux conditions suivantes :
 	- **a)** l’importateur avise l’inspecteur de l’importation proposée;
 	- **b)** les aliments ou les drogues font l’objet d’un nouvel étiquetage ou d’une modification propre à rendre légale leur vente au Canada.
 
-- **(2)** Il est interdit de vendre un aliment ou une drogue importé au Canada en vertu du paragraphe (1), à moins qu’il n’ait fait l’objet d’un nouvel étiquetage ou d’une modification dans les trois mois suivant la date de l’importation ou dans le délai plus long fixé :
-	- **a)** par le directeur, s’il s’agit d’une drogue;
-	- **b)** par le directeur ou le président de l’Agence canadienne d’inspection des aliments, s’il s’agit d’un aliment.
-> DORS/92-626, art. 3; DORS/95-548, art. 5; DORS/2000-184, art. 61; DORS/2000-317, art. 18.
+- **(2)** Il est interdit de vendre un aliment ou une drogue importé au Canada en vertu du paragraphe (1), à moins qu’il n’ait fait l’objet d’un nouvel étiquetage ou d’une modification dans les trois mois suivant la date de l’importation ou dans le délai plus long fixé :
+	- **a)** par le ministre, s’il s’agit d’une drogue;
+	- **b)** par le ministre ou le président de l’Agence canadienne d’inspection des aliments, s’il s’agit d’un aliment.
+> DORS/92-626, art. 3; DORS/95-548, art. 5; DORS/2000-184, art. 61; DORS/2000-317, art. 18; DORS/2018-69, art. 27.
 
 
 
@@ -258,7 +262,7 @@ Autorités habilitantes :
 
 **A.01.061** 
 
-- **(1)** Sous réserve de l’article A.01.063, l’étiquette intérieure et l’étiquette extérieure d’un aliment ou d’une drogue emballés dans un contenant métallique non réutilisable, conçu pour permettre de libérer le contenu sous pression au moyen d’une valve actionnée à la main et faisant partie intégrante du contenant, doivent porter dans leur espace principal, conformément aux articles 15 à 18 du Règlement sur les produits chimiques et contenants destinés aux consommateurs, dans sa version en vigueur le 30 septembre 2001 :
+- **(1)** Sous réserve de l’article A.01.063, l’étiquette intérieure et l’étiquette extérieure d’un aliment ou d’une drogue emballés dans un contenant métallique non réutilisable, conçu pour permettre de libérer le contenu sous pression au moyen d’une valve actionnée à la main et faisant partie intégrante du contenant, doivent porter dans leur espace principal, conformément aux articles 15 à 18 du Règlement sur les produits chimiques et contenants destinés aux consommateurs, dans sa version en vigueur le 30 septembre 2001 :
 	- **a)** le signal de danger figurant à la colonne II de l’article 10 de l’annexe II de ce règlement et le mot indicateur « ATTENTION / *CAUTION* »;
 	- **b)** la mention de danger principale suivante : « CE CONTENANT PEUT EXPLOSER S’IL EST CHAUFFÉ. / *CONTAINER MAY EXPLODE IF HEATED.* ».
 
@@ -276,11 +280,8 @@ Autorités habilitantes :
 
 
 
-- **(3)** Les dispositions des paragraphes (1) et (2) ne s’appliquent pas lorsque,
-	- **a)** de l’avis du Directeur, s’il s’agit d’une drogue, ou
-	- **b)** de l’avis du ministre de la Consommation et des Corporations, s’il s’agit d’un aliment,
-la conception du contenant, les matériaux utilisés pour sa fabrication ou la présence d’un dispositif de sécurité éliminent le danger éventuel que présente ledit contenant.
-> DORS/81-616, art. 1; DORS/85-1023, art. 1; DORS/92-15, art. 2; DORS/2001-272, art. 7.
+- **(3)** Les exigences des paragraphes (1) et (2) ne s’appliquent pas à l’égard d’une drogue ou d’un aliment si le ministre conclut que la conception du contenant, les matériaux utilisés pour la fabrication de ce dernier ou la présence d’un dispositif de sécurité éliminent le danger éventuel que présente le contenant.
+> DORS/81-616, art. 1; DORS/85-1023, art. 1; DORS/92-15, art. 2; DORS/2001-272, art. 7; DORS/2018-69, art. 2.
 
 
 
@@ -1967,8 +1968,8 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.054** 
 
-- **(1)** Afin de recueillir des renseignements à l’appui d’une modification au présent règlement, le Directeur peut délivrer au fabricant ou au distributeur d’un aliment, lorsque l’aliment ou l’emballage, l’étiquetage ou l’annonce de celui-ci ne sont pas conformes aux exigences du présent règlement, une lettre d’autorisation de mise en marché temporaire permettant la vente, l’emballage, l’étiquetage ou l’annonce de l’aliment décrit dans la lettre pour une période déterminée, dans une région désignée, en quantité définie et de la manière précisée dans la lettre si
-	- **a)** le fabricant ou le distributeur lui a fourni les renseignements suivants :
+- **(1)** Afin de recueillir des renseignements à l’appui d’une modification au présent règlement, le ministre peut délivrer au fabricant ou au distributeur d’un aliment, lorsque l’aliment ou l’emballage, l’étiquetage ou l’annonce de celui-ci ne sont pas conformes aux exigences du présent règlement, une lettre d’autorisation de mise en marché temporaire permettant la vente, l’emballage, l’étiquetage ou l’annonce de l’aliment décrit dans la lettre pour une période déterminée, dans une région désignée, en quantité définie et de la manière précisée dans la lettre si
+	- **a)** le fabricant ou le distributeur lui a fourni les renseignements suivants :
 		- **(i)** la raison pour laquelle une autorisation de mise en marché temporaire de l’aliment est requise,
 		- **(ii)** une description de l’aliment, y compris un échantillon et un projet d’étiquette,
 		- **(iii)** une description de toute modification proposée aux exigences du présent règlement,
@@ -1976,14 +1977,14 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 		- **(v)** la quantité proposée d’aliment à vendre,
 		- **(vi)** la période projetée qui est requise pour une telle vente,
 		- **(vii)** la région proposée qui est désignée pour une telle vente, et
-		- **(viii)** toutes les autres données que le Directeur pourrait lui demander; et
+		- **(viii)** toutes les autres données que le ministre pourrait lui demander; et
 	- **b)** le fabricant ou le distributeur de l’aliment a consenti
 		- **(i)** à décrire l’aliment sur une étiquette ou dans une réclame d’une manière qui ne soit ni fausse, ni trompeuse, ni mensongère,
-		- **(ii)** à se servir sur l’étiquette ou dans toute annonce des marques ou déclarations que le Directeur pourrait exiger,
-		- **(iii)** à faire part au Directeur, sur demande, des résultats de la mise en marché temporaire, et
-		- **(iv)** à retirer le produit du marché, sur demande, si de l’avis du Directeur, il est de l’intérêt public de le faire.
+		- **(ii)** à se servir sur l’étiquette ou dans toute annonce des marques ou déclarations que le ministre pourrait exiger,
+		- **(iii)** à faire part au ministre, sur demande, des résultats de la mise en marché temporaire, et
+		- **(iv)** à retirer le produit du marché, sur demande, si de l’avis du ministre, il est de l’intérêt public de le faire.
 
-- **(2)** Le Directeur doit, dans toute lettre d’autorisation de mise en marché temporaire délivrée conformément au paragraphe (1), préciser
+- **(2)** Le ministre doit, dans toute lettre d’autorisation de mise en marché temporaire délivrée conformément au paragraphe (1), préciser
 	- **a)** le nom usuel et une description de l’aliment qui doit être vendu;
 	- **b)** le nom et l’adresse du fabricant ou du distributeur de l’aliment;
 	- **c)** la raison pour laquelle la mise en marché temporaire de l’aliment est autorisée;
@@ -1991,7 +1992,7 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 	- **d.1)** le genre d’emballage, d’étiquetage ou d’annonce autorisé à l’égard de l’aliment lorsque la lettre a pour objet d’autoriser une modification aux exigences du règlement traitant de l’emballage, de l’étiquetage ou de l’annonce;
 	- **e)** la période où l’aliment peut être vendu; et
 	- **f)** la région désignée dans laquelle l’aliment peut être vendu.
-> DORS/81-566, art. 1; DORS/85-275, art. 1.
+> DORS/81-566, art. 1; DORS/85-275, art. 1; DORS/2018-69, art. 27.
 
 
 
@@ -6142,23 +6143,23 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.466** 
 
-- **(1)** Malgré l’article A.01.016, le tableau de la valeur nutritive d’un produit préemballé qui répond aux critères mentionnés aux paragraphes B.01.454(3) ou B.01.455(3), à l’alinéa B.01.457(2)b), aux paragraphes B.01.461(3) ou B.01.462(3) ou à l’alinéa B.01.463(2)b) peut être placé sur, selon le cas :
+- **(1)** Malgré l’article A.01.016, le tableau de la valeur nutritive d’un produit préemballé qui répond aux critères mentionnés aux paragraphes B.01.454(3) ou B.01.455(3), à l’alinéa B.01.457(2)b), aux paragraphes B.01.461(3) ou B.01.462(3) ou à l’alinéa B.01.463(2)b) peut être placé sur, selon le cas :
 	- **a)** une étiquette mobile attachée à l’emballage;
-	- **b)** un encart inséré dans l’emballage;
+	- **b)** une notice d’accompagnement;
 	- **c)** le verso d’une étiquette;
 	- **d)** une étiquette dépliante;
 	- **e)** un manchon, une surenveloppe ou un collier.
 
 - **(2)** Si le tableau de la valeur nutritive est placé conformément aux alinéas (1)b) ou c), le recto de l’étiquette en indique l’endroit en caractères d’au moins 8 points.
 
-- **(3)** Si le tableau de la valeur nutritive est placé conformément au paragraphe (1), il est présenté :
+- **(3)** Si le tableau de la valeur nutritive est placé conformément au paragraphe (1), il est présenté :
 	- **a)** dans le cas de tout produit visé au paragraphe B.01.454(3), selon l’une des versions prévues aux alinéas B.01.454(3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau de l’article B.01.454;
 	- **b)** dans le cas de tout produit visé au paragraphe B.01.455(3), selon l’une des versions prévues aux alinéas B.01.455(3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau de l’article B.01.455;
 	- **c)** dans le cas de tout produit visé à l’alinéa B.01.457(2)b), selon l’une des versions prévues au sous-alinéa B.01.457(2)b)(i) ou selon l’une des versions figurant à la colonne 1 du tableau de l’article B.01.457;
 	- **d)** dans le cas de tout produit visé au paragraphe B.01.461(3), selon l’une des versions prévues aux alinéas B.01.461(3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau de l’article B.01.461;
 	- **e)** dans le cas de tout produit visé au paragraphe B.01.462(3), selon l’une des versions prévues aux alinéas B.01.462(3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau de l’article B.01.462;
 	- **f)** dans le cas de tout produit visé à l’alinéa B.01.463(2)b), selon l’une des versions prévues au sous-alinéa B.01.463(2)b)(i) ou selon l’une des versions figurant à la colonne 1 du tableau de l’article B.01.463.
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2018-69, art. 3(F).
 
 
 
@@ -10722,8 +10723,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu (indication de la variété)**
 	- **a)** doit
-		- **(i)** sous réserve du sous-alinéa (ii), être le produit du râpage et du mélange, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** dans le cas du fromage cheddar fondu, être le produit du râpage et du mélange, à l’aide d’une source de chaleur, des fromages suivants en vue de former une masse homogène :
+		- **(i)** sous réserve du sous-alinéa (ii), être le produit du broyage et du mélange, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** dans le cas du fromage cheddar fondu, être le produit du broyage et du mélange, à l’aide d’une source de chaleur, des fromages suivants en vue de former une masse homogène :
 			- **(A)** fromage cheddar,
 			- **(B)** fromage à caillé brassé,
 			- **(C)** fromage à caillé granuleux, ou
@@ -10742,10 +10743,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** s’il s’agit de fromage de lait écrémé fondu, du lait écrémé en poudre, du lait de beurre en poudre et du petit-lait en poudre ajoutés,
 		- **(iv)** du sel, du vinaigre et des agents édulcorants,
-		- **(v)** les colorants suivants :
+		- **(v)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(vi)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+		- **(vi)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
 			- **(C)** de la lécithine en quantité n’excédant pas 0,2 pour cent, et
@@ -10753,15 +10754,15 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(vi.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
 		- **(vii)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium, et de l’acide tartarique comme rajusteurs du pH,
 		- **(viii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(ix)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(ix)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 1; DORS/2017-18, art. 18(F).
+> DORS/79-752, art. 2; DORS/91-409, art. 1; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -10770,8 +10771,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu (indication de la variété), tout en conservant la nature fondamentale, les ingrédients suivants :
+		- **(i)** être le produit du broyage et du mélange, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu (indication de la variété), tout en conservant la nature fondamentale, les ingrédients suivants :
 			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l’arôme des variétés de fromage utilisées,
 			- **(B)** des assaisonnements, du chocolat, des condiments ou des épices,
 			- **(C)** des achards, des cornichons, des fruits, des légumes ou des noix,
@@ -10787,10 +10788,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
 			- **(C)** de la lécithine en quantité n’excédant pas 0,2 pour cent, et
@@ -10798,15 +10799,15 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
 		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium, et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A); DORS/2011-278, art. 4; DORS/2017-18, art. 18(F).
+> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A); DORS/2011-278, art. 4; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -10815,7 +10816,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage fondu**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
+		- **(i)** être le produit du broyage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
 		- **(ii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
@@ -10825,10 +10826,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou d’un mélange de ces produits.
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
 			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
@@ -10836,15 +10837,15 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
 		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, la propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, la sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, la propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, la sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 3; DORS/92-400, art. 6; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F).
+> DORS/79-752, art. 2; DORS/91-409, art. 3; DORS/92-400, art. 6; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -10853,8 +10854,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage fondu (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage fondu, tout en conservant sa nature fondamentale, les ingrédients suivants :
+		- **(i)** être le produit du broyage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage fondu, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
 			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
@@ -10867,10 +10868,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
 			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
@@ -10878,7 +10879,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
 		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
+		- **(viii)** les agents de conservation suivants :
 			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
 			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
 			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
@@ -10886,7 +10887,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F); DORS/2011-278, art. 5; DORS/2017-18, art. 18(F).
+> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F); DORS/2011-278, art. 5; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -10895,7 +10896,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu à tartiner**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
+		- **(i)** être le produit du broyage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
 		- **(ii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
@@ -10905,10 +10906,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-8po-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carraghénine d’ammonium, la carraghénine de calcium, la gomme de caroube (gomme de caroubier), la carraghénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carraghénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carraghénine de sodium, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
 			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
@@ -10916,15 +10917,15 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
 		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’exédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’exédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 4; DORS/91-409, art. 5; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F).
+> DORS/79-752, art. 2; DORS/82-1071, art. 4; DORS/91-409, art. 5; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -10933,40 +10934,40 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N]**. Le **fromage fondu à tartiner (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu à tartiner, tout en conservant sa nature fondamentale, les ingrédients suivants :
+		- **(i)** être le produit du broyage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu à tartiner, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
 			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
-			- **(B)** au plus 60 pour cent d'humidité, et
+			- **(B)** au plus 60 pour cent d’humidité, et
 			- **(C)** au moins 20 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conformant aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
-			- **(A)** en quantité n'excédant pas 0,5 pour cent, la carraghénine d'ammonium, la carraghénine de calcium, la gomme de caroube (gomme de caroubier), la carraghénine, la gélatine, la gomme de guar, la gélose de mousse d'Irlande, la carraghénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carraghénine de sodium, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
-			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d'aluminium et de sodium, l'hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
-			- **(C)** de la lécithine, en quantité n'excédant pas 0,2 pour cent, et
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carraghénine d’ammonium, la carraghénine de calcium, la gomme de caroube (gomme de caroubier), la carraghénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carraghénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carraghénine de sodium, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
+			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
+			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
 			- **(D)** en quantité ne dépassant pas 0,5 pour cent, des monoglycérides et des mono- et diglycérides ou un mélange de ces produits,
-		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n'excédant pas 1 pour cent,
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium, et de l'acide tartarique comme rajusteurs du pH,
+		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium, et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F); DORS/2011-278, art. 6; DORS/2017-18, art. 18(F).
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F); DORS/2011-278, art. 6; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -10975,33 +10976,33 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage conditionné à froid (indication de la variété)**
 	- **a)** doit
-		- **(i)** sous réserve du sous-alinéa (ii), être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** dans le cas du fromage cheddar conditionné à froid, être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, des fromages suivants, en vue de former une masse homogène :
+		- **(i)** sous réserve du sous-alinéa (ii), être le produit du broyage et du mélange, sans l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** dans le cas du fromage cheddar conditionné à froid, être le produit du broyage et du mélange, sans l’aide d’une source de chaleur, des fromages suivants, en vue de former une masse homogène :
 			- **(A)** fromage cheddar,
 			- **(B)** fromage à caillé brassé,
 			- **(C)** fromage à caillé granuleux, ou
 			- **(D)** fromage à caillé lavé,
-		- **(iii)** s'il est fait
-			- **(A)** d'une seule variété de fromage, ne pas contenir plus d'humidité que le pourcentage maximal permis pour cette variété, et ne pas contenir moins de matière grasse de lait que le pourcentage minimal permis pour cette variété, ou
-			- **(B)** de plusieurs variétés de fromage, ne pas contenir plus d'humidité que la moyenne des pourcentages maximaux permis pour ces variétés, et ne pas contenir moins de matière grasse de lait que la moyenne des pourcentages minimaux permis pour ces variétés; et
+		- **(iii)** s’il est fait
+			- **(A)** d’une seule variété de fromage, ne pas contenir plus d’humidité que le pourcentage maximal permis pour cette variété, et ne pas contenir moins de matière grasse de lait que le pourcentage minimal permis pour cette variété, ou
+			- **(B)** de plusieurs variétés de fromage, ne pas contenir plus d’humidité que la moyenne des pourcentages maximaux permis pour ces variétés, et ne pas contenir moins de matière grasse de lait que la moyenne des pourcentages minimaux permis pour ces variétés; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+		- **(v)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vi)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(vii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(vii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/92-400, art. 8; DORS/2017-18, art. 18(F).
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/92-400, art. 8; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -11010,37 +11011,37 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage conditionné à froid (indication de la variété), tout en conservant sa nature fondamentale, les ingrédients suivants :
-			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l'arôme des variétés de fromage utilisées dans le produit,
+		- **(i)** être le produit du broyage et du mélange, sans l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage conditionné à froid (indication de la variété), tout en conservant sa nature fondamentale, les ingrédients suivants :
+			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l’arôme des variétés de fromage utilisées dans le produit,
 			- **(B)** des assaisonnements, du chocolat, des condiments ou des épices,
 			- **(C)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(D)** de la viande préparée ou conservée, ou
 			- **(E)** du poisson préparé ou conservé, et
-		- **(iii)** s'il est fait
-			- **(A)** d'une seule variété de fromage, avoir un pourcentage d'humidité non supérieur au maximum permis pour cette variété, et un pourcentage de matière grasse de lait non inférieur de plus de un pour cent au minimum permis pour cette variété, ou
-			- **(B)** de plusieurs variétés de fromage, avoir un pourcentage d'humidité non supérieur à la moyenne des maximums permis pour ces variétés, et un pourcentage de matière grasse de lait non inférieur de plus de un pour cent à la moyenne des minimums permis pour ces variétés; et
+		- **(iii)** s’il est fait
+			- **(A)** d’une seule variété de fromage, avoir un pourcentage d’humidité non supérieur au maximum permis pour cette variété, et un pourcentage de matière grasse de lait non inférieur de plus de un pour cent au minimum permis pour cette variété, ou
+			- **(B)** de plusieurs variétés de fromage, avoir un pourcentage d’humidité non supérieur à la moyenne des maximums permis pour ces variétés, et un pourcentage de matière grasse de lait non inférieur de plus de un pour cent à la moyenne des minimums permis pour ces variétés; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d'ammonium, la carragénine de calcium, la gomme de caroube (fève de l'acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme du guar, la gélose de mousse d'Irlande, la carragénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme du guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
 
 
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH, et
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH, et
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A); DORS/2011-278, art. 7; DORS/2017-18, art. 18(F).
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A); DORS/2011-278, art. 7; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -11049,33 +11050,33 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage conditionné à froid**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du broyage et du mélange, sans l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
-			- **(C)** au plus 46 pour cent d'humidité, et
+			- **(C)** au plus 46 pour cent d’humidité, et
 			- **(D)** au moins 23 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d'ammonium, la carragénine de calcium, la gomme de caroube (fève de l'acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d'Irlande, la carragénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
 
 
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F).
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -11084,37 +11085,37 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage conditionné à froid, tout en conservant sa nature fondamentale, les ingrédients suivants :
+		- **(i)** être le produit du broyage et du mélange, sans l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage conditionné à froid, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
 			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
-			- **(B)** au plus 46 pour cent d'humidité, et
+			- **(B)** au plus 46 pour cent d’humidité, et
 			- **(C)** au moins 22 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** des agents édulcorants, du sel et du vinaigre,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d'ammonium, la carragénine de calcium, la gomme de caroube (fève de l'acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d'Irlande, la carragénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
 
 
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
-		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(viii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2011-278, art. 8; DORS/2017-18, art. 18(F).
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2011-278, art. 8; DORS/2017-18, art. 18(F); DORS/2018-69, art. 28(F).
 
 
 
@@ -13090,19 +13091,19 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.009** La marinade, la saumure et le mélange de salaison à sec employés dans le marinage des viandes conservées et des sous-produits de viande conservés peuvent renfermer
+**B.14.009** **[N].** La marinade, la saumure et le mélange de salaison à sec employés dans le marinage des viandes conservées et des sous-produits de viande conservés peuvent renfermer :
 - **a)** des agents de conservation de la catégorie I, si les nitrates ou les nitrites, ou les deux, d’une part, et les épices et condiments, d’autre part, sont emballés séparément;
 - **b)** de l’acide citrique, du citrate de sodium ou du vinaigre;
 - **c)** des agents édulcorants, y compris le sucre d’érable et le sirop d’érable;
 - **d)** un arôme de fumée liquide, un arôme de fumée liquide concentré, du sel, des assaisonnements, des épices, des extraits d’épice, des huiles d’épice ou des oléorésines d’épice;
 - **e)** du bicarbonate de sodium, de l’hydroxyde de sodium ou de l’hydroxyde de potassium;
-- **f)** dans la marinade servant à la salaison de coupes de porc, de boeuf, ou d’agneau : du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
+- **f)** dans la marinade servant à la salaison de coupes de porc, de boeuf, ou d’agneau : du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **g)** dans le cas de marinade servant à la salaison de parties de boeufs, des enzymes, si l’espace principal de l’étiquette du boeuf salé porte, immédiatement avant ou après le nom ordinaire, la mention « Attendri par...(nom de l’enzyme ou des enzymes protéolytiques) »;
-- **h)** dans le cas du mélange de salaison à sec : un agent anti-agglomérant ou un agent humidifiant; et
+- **h)** dans le cas du mélange de salaison à sec : un agent anti-agglomérant ou un agent humidifiant; et
 - **i)** dans le cas de la marinade servant à la salaison
 	- **(i)** de jambon, d’épaules et de dos de porc, de l’arôme artificiel d’érable, et
-	- **(ii)** de poitrines de porc : de l’arôme artificiel d’érable, et un arôme d’orange conforme à la norme prescrite à l’article B.10.005.
-> DORS/79-251, art. 4; DORS/80-13, art. 2; DORS/82-596, art. 1; DORS/88-336, art. 3; DORS/94-567, art. 1; DORS/2010-143, art. 10(F); DORS/2017-18, art. 4(F).
+	- **(ii)** de poitrines de porc : de l’arôme artificiel d’érable, et un arôme d’orange conforme à la norme prescrite à l’article B.10.005.
+> DORS/79-251, art. 4; DORS/80-13, art. 2; DORS/82-596, art. 1; DORS/88-336, art. 3; DORS/94-567, art. 1; DORS/2010-143, art. 10(F); DORS/2017-18, art. 4(F); DORS/2018-69, art. 4(F).
 
 
 
@@ -13264,7 +13265,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.031** La **viande conservée** et les **sous-produits de viande conservés** sont faits de viande crue ou cuite ou d’un sous-produit de viande crue ou cuite, qui ont été salés, asséchés, marinés, saumurés ou fumés et peuvent être garnis d’une glace et renfermer
+**B.14.031** **[N].** La **viande conservée** et les **sous-produits de viande conservés** sont faits de viande crue ou cuite ou d’un sous-produit de viande crue ou cuite, qui ont été salés, asséchés, marinés, saumurés ou fumés et peuvent être garnis d’une glace et renfermer :
 - **a)** un agent de conservation de la catégorie I;
 - **a.1)** un agent de conservation de la catégorie II;
 - **b)** des agents édulcorants;
@@ -13272,12 +13273,12 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **d)** du vinaigre;
 - **e)** de l’alcool;
 - **f)** de l’arôme de fumée ou de l’arôme artificiel de fumée;
-- **g)** dans le cas de jambons, d’épaules, de dos et de poitrines de porc fumés : de l’arôme artificiel d’érable;
-- **gg)** dans le cas des poitrines de porc de salaison : un arôme d’orange conforme à la norme prescrite à l’article B.10.005;
+- **g)** dans le cas de jambons, d’épaules, de dos et de poitrines de porc fumés : de l’arôme artificiel d’érable;
+- **gg)** dans le cas des poitrines de porc de salaison : un arôme d’orange conforme à la norme prescrite à l’article B.10.005;
 - **h)** dans le cas des coupes de porc, de boeuf ou d’agneau de salaison préparées à l’aide de marinade, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du phyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 % de rocou;
 - **j)** dans le cas de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
-> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2; DORS/2016-305, art. 57; DORS/2017-18, art. 5(F).
+> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2; DORS/2016-305, art. 57; DORS/2017-18, art. 5(F); DORS/2018-69, art. 5(F).
 
 
 
@@ -13817,13 +13818,15 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 **B.16.002** Toute demande tendant à ajouter un additif alimentaire, ou à modifier de quelque façon les tableaux qui suivent l’article B.16.100 doit être accompagnée d’une présentation au ministre, dans une forme, d’une teneur et d’une manière que le ministre jugera satisfaisantes, et doit comprendre
 - **a)** une description de l’additif alimentaire, y compris son nom chimique et le nom sous lequel on se propose de le vendre, la méthode de fabrication qui s’y applique, ses propriétés physiques et chimiques, sa composition, et ses caractères distinctifs, ou, lorsque ces renseignements ne sont pas disponibles, une explication détaillée;
 - **b)** la déclaration de la quantité d’additif alimentaire que l’on projette d’utiliser, les fins proposées pour son emploi, ainsi que le détail du mode d’emploi, des recommandations et conseils quant à son usage;
-- **c)** lorsque de l’avis du Directeur cela sera nécessaire, une méthode d’analyse acceptable qui convienne aux fins de contrôle et de réglementation, et qui permette de déterminer la quantité d’additif alimentaire et de toute autre substance résultant de son emploi, dans le produit alimentaire fini;
+- **c)** lorsque de l’avis du ministre cela sera nécessaire, une méthode d’analyse acceptable qui convienne aux fins de contrôle et de réglementation, et qui permette de déterminer la quantité d’additif alimentaire et de toute autre substance résultant de son emploi, dans le produit alimentaire fini;
 - **d)** les données établissant que l’additif alimentaire aura l’effet physique, ou tout autre effet technique, qui est prévu;
 - **e)** les rapports détaillés de toutes les épreuves effectuées pour établir l’innocuité de l’additif alimentaire, dans les conditions recommandées pour son usage;
 - **f)** les données indiquant les quantités de résidus qui peuvent rester dans ou sur le produit alimentaire fini, lorsque l’additif est utilisé conformément aux bonnes pratiques industrielles;
 - **g)** une limite de tolérance proposée, pour les résidus de l’additif alimentaire dans ou sur le produit alimentaire fini;
 - **h)** des échantillons des étiquettes proposées pour l’additif alimentaire; et
 - **i)** un échantillon de l’additif alimentaire dans la forme définitive prévue pour son usage, un échantillon de l’ingrédient actif et, sur demande, un échantillon de l’aliment qui renferme ledit additif alimentaire.
+> DORS/2018-69, art. 27.
+
 
 
 
@@ -22430,13 +22433,13 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.006** Le poisson et la chair préparés doivent être l’aliment entier ou haché préparé à partir du poisson ou de la chair, selon le cas, frais ou conservé; ils peuvent être cuits ou en conserve et peuvent,
+**B.21.006** **[N].** Le poisson et la chair préparés doivent être l’aliment entier ou haché préparé à partir du poisson ou de la chair, selon le cas, frais ou conservé; ils peuvent être cuits ou en conserve et peuvent :
 - **a)** dans le cas de pâte de homard et d’oeufs de poisson (caviar), contenir un colorant pour aliments;
 - **b)** dans le cas des crevettes cuites congelées, des crustacés en conserve, des maquereaux en conserve et des mollusques en conserve, contenir de l’acide citrique ou du jus de citron;
 - **c)** dans le cas de pâte de poisson, contenir un remplissage, un liant à poisson, des monoglycérides ou des mono et diglycérides;
 - **d)** dans le cas des conserves de chair de crabe, de crevettes, de homard, de saumon et de thon, contenir de l’éthylènediaminetétraacétate de calcium disodique et du sulfate d’aluminium;
 - **e)** dans le cas du thon en conserve, contenir de l’acide ascorbique;
-- **f)** dans le cas des fruits de mer en conserve, contenir de l’hexamétaphosphate de sodium, du pyrophosphate acide de sodium ou du tripolyphosphate de sodium, seul ou en association, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne devant pas dépasser 0,5 %;
+- **f)** dans le cas des fruits de mer en conserve, contenir de l’hexamétaphosphate de sodium, du pyrophosphate acide de sodium ou du tripolyphosphate de sodium, seul ou en association, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne devant pas dépasser 0,5 %;
 - **g)** contenir un arôme de fumée liquide ou un arôme de fumée liquide concentré;
 - **h)** contenir de l’huile comestible, un bouillon végétal, de la sauce tomate ou de la purée de tomates;
 - **i)** contenir un gélifiant (agent gélatinisant), si l’expression « en gelée » figure, comme partie intégrante du nom usuel, sur l’espace principal de l’étiquette;
@@ -22451,13 +22454,13 @@ il doit présenter les caractéristiques suivantes :
 - **r)** dans le cas des clams en conserve, contenir de l’érythorbate de sodium en une quantité n’excédant pas la limite de tolérance de 350 parties par million;
 - **s)** dans le cas des produits hachés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent;
 - **t)** contenir un agent de conservation de la catégorie II.
-> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9; DORS/2012-43, art. 46; DORS/2017-18, art. 8, 9(F) et 17.
+> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9; DORS/2012-43, art. 46; DORS/2017-18, art. 8, 9(F) et 17; DORS/2018-69, art. 6.
 
 
 
 
-**B.21.007** Le **liant à poisson** devant servir dans ou sur le poisson ou la chair préparés doit être du remplissage auquel on a ajouté n’importe quel mélange de sel, de sucre, de dextrose, de glucose, d’épices ou d’autres condiments.
-> DORS/2017-18, art. 10(F).
+**B.21.007** **[N].** Le **liant à poisson** devant servir dans ou sur le poisson ou la chair préparés est du remplissage auquel on a ajouté n’importe quel mélange de sel, de sucre, de dextrose, de glucose, d’épices ou d’autres condiments.
+> DORS/2017-18, art. 10(F); DORS/2018-69, art. 7(F).
 
 
 
@@ -22484,13 +22487,13 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.021** Le poisson conservé et la chair conservée doivent être du poisson ou de la chair, à l’état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, un agent de conservation de la catégorie II, du dextrose, du glucose, des épices, du sucre et du vinaigre, et :
-- **a)** le poisson desséché qui a été salé ou fumé et la pâte de poisson fumé et salé conditionnée à froid peuvent renfermer de l'acide sorbique et ses sels;
+**B.21.021** **[N].** Le poisson conservé et la chair conservée sont du poisson ou de la chair, à l’état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés, et peuvent renfermer un agent de conservation de la catégorie I, un agent de conservation de la catégorie II, du dextrose, du glucose, des épices, du sucre et du vinaigre, et :
+- **a)** le poisson desséché qui a été salé ou fumé et la pâte de poisson fumé et salé conditionnée à froid peuvent renfermer de l’acide sorbique et ses sels;
 - **b)** le poisson fumé peut renfermer un colorant pour aliments;
-- **c)** les produits de poisson ou de chair emballés, marinés ou conditionnés à froid par une autre méthode peuvent renfermer du bois de santal, de l'acide benzoïque ou ses sels, du méthyl-p-hydroxy-bensoate et du propyl-p-hydroxy-bensoate;
-- **d)** l'anchois salé, le chinchard salé et la crevette salée peuvent contenir de l'érythrosine en telle quantité que le produit fini renferme au plus 125 parties par million d'érythrosine;
+- **c)** les produits de poisson ou de chair emballés, marinés ou conditionnés à froid par une autre méthode peuvent renfermer du bois de santal, de l’acide benzoïque ou ses sels, du méthyl-p-hydroxy-bensoate et du propyl-p-hydroxy-bensoate;
+- **d)** l’anchois salé, le chinchard salé et la crevette salée peuvent contenir de l’érythrosine en telle quantité que le produit fini renferme au plus 125 parties par million d’érythrosine;
 - **e)** les produits hachés peuvent contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
-> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5; DORS/2011-280, art. 10; DORS/2017-18, art. 11(F), 17 et 20(F).
+> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5; DORS/2011-280, art. 10; DORS/2017-18, art. 11(F), 17 et 20(F); DORS/2018-69, art. 8(F).
 
 
 
@@ -22648,8 +22651,8 @@ il doit présenter les caractéristiques suivantes :
 #### Ragoûts de poulet
 
 
-**B.22.016** Aux fins des articles B.22.017 à B.22.019, on entend par ***viande de volaille pour ragoût*** de la viande de volaille contenant au plus 15 % de gras, calculés d’après le poids de la viande crue.
-> DORS/78-874, art. 3.
+**B.22.016** Aux fins des articles B.22.017 à B.22.019, ***viande de volaille pour ragoût*** s’entend de la viande de volaille cuite ou crue contenant au plus 15 % de gras, calculés d’après le poids de la viande crue.
+> DORS/78-874, art. 3; DORS/2018-69, art. 9(F).
 
 
 
@@ -22695,7 +22698,7 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.22.021** La viande de volaille conservée et les sous-produits de viande de volaille conservés sont de la viande de volaille ou des sous-produits de viande de volaille crus ou cuits, qui ont été salés ou fumés et qui peuvent renfermer :
+**B.22.021** **[N].** La viande de volaille conservée et les sous-produits de viande de volaille conservés sont de la viande de volaille ou des sous-produits de viande de volaille crus ou cuits, qui ont été salés ou fumés et qui peuvent renfermer :
 - **a)** un agent de conservation de la catégorie I;
 - **a.1)** un agent de conservation de la catégorie II;
 - **b)** un arôme de fumée liquide, un arôme de fumée liquide concentré ou des épices;
@@ -22703,7 +22706,7 @@ il doit présenter les caractéristiques suivantes :
 - **d)** du vinaigre;
 - **e)** dans le cas de la volaille et de la viande de volaille de salaison préparées à l’aide d’une solution d’injection ou d’immersion, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **f)** dans le cas de la dinde cuite tranchée emballée sous vide, du *Carnobacterium maltaromaticum* CB1.
-> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6; DORS/2011-280, art. 12; DORS/2017-18, art. 12(F).
+> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6; DORS/2011-280, art. 12; DORS/2017-18, art. 12(F); DORS/2018-69, art. 10(F).
 
 
 
@@ -23031,14 +23034,14 @@ l’allongeur de produits de volaille ne satisfasse aux exigences des alinéas B
 
 **B.24.017** 
 
-- **(1)** Lorsque le Directeur demande par écrit au fabricant d’une préparation pour régime liquide, d’un substitut de repas ou d’un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie de soumettre, à une date précise ou avant celle-ci, des preuves relatives à ce produit, le fabricant doit cesser de vendre ce produit le lendemain de cette date à moins d’avoir déposé les preuves demandées.
+- **(1)** Lorsque le ministre demande par écrit au fabricant d’une préparation pour régime liquide, d’un substitut de repas ou d’un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie de soumettre, à une date précise ou avant celle-ci, des preuves relatives à ce produit, le fabricant doit cesser de vendre ce produit le lendemain de cette date à moins d’avoir déposé les preuves demandées.
 
-- **(2)** Si le directeur est d’avis que les preuves présentées par le fabricant selon le paragraphe (1) sont insuffisantes, il doit l’en informer par écrit.
+- **(2)** Si le ministre conclut que les preuves présentées par le fabricant en application du paragraphe (1) sont insuffisantes, il en avise le fabricant par écrit.
 
-- **(3)** Lorsque, aux termes du paragraphe (2), un fabricant est informé que les preuves relatives à la préparation pour régime liquide, au substitut de repas ou à l’aliment présenté comme étant conçu pour un régime à très faible teneur en énergie sont insuffisantes, il doit cesser de vendre ce produit à moins qu’il ne présente des preuves supplémentaires et que le Directeur ne l’informe par écrit qu’elles sont suffisantes.
+- **(3)** Lorsque, aux termes du paragraphe (2), un fabricant est informé que les preuves relatives à la préparation pour régime liquide, au substitut de repas ou à l’aliment présenté comme étant conçu pour un régime à très faible teneur en énergie sont insuffisantes, il doit cesser de vendre ce produit à moins qu’il ne présente des preuves supplémentaires et que le ministre ne l’informe par écrit qu’elles sont suffisantes.
 
 - **(4)** Dans le présent article, les preuves relatives à une préparation pour régime liquide, à un substitut de repas ou à un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie s’entendent des preuves permettant d’établir que l’aliment possède les qualités nutritives voulues pour être utilisé comme source nutritive unique qui répond aux besoins nutritifs des personnes à qui il est destiné lorsqu’il est consommé suivant le mode d’emploi.
-> DORS/78-698, art. 6; DORS/94-35, art. 3.
+> DORS/78-698, art. 6; DORS/94-35, art. 3; DORS/2018-69, art. 11 et 27.
 
 
 
@@ -24012,9 +24015,9 @@ ne soit un succédané complet du régime total en ce qu’il satisfait aux beso
 
 **B.24.305** 
 
-- **(1)** Il est interdit de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie à moins que le fabricant n’ait donné au Directeur, au moins 90 jours avant la vente ou l’annonce, un avis écrit de son intention de vendre l’aliment ou de l’annoncer en vue de la vente.
+- **(1)** Il est interdit de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie à moins que le fabricant n’ait donné au ministre, au moins 90 jours avant la vente ou l’annonce, un avis écrit de son intention de vendre l’aliment ou de l’annoncer en vue de la vente.
 
-- **(2)** L’avis visé au paragraphe (1) est signé par le fabricant et contient, à l’égard de l’aliment présenté comme conçu pour un régime à très faible teneur en énergie, les renseignements suivants :
+- **(2)** L’avis visé au paragraphe (1) est signé par le fabricant et contient, à l’égard de l’aliment présenté comme conçu pour un régime à très faible teneur en énergie, les renseignements suivants :
 	- **a)** le nom sous lequel l’aliment sera vendu ou annoncé pour la vente;
 	- **b)** les nom et adresse du principal établissement du fabricant;
 	- **c)** les nom et adresse de chaque établissement où l’aliment est fabriqué;
@@ -24026,30 +24029,30 @@ ne soit un succédané complet du régime total en ce qu’il satisfait aux beso
 	- **i)** les preuves invoquées pour établir que l’aliment répond aux besoins nutritifs, autres que les besoins énergétiques, des personnes à qui il est destiné, lorsqu’il est consommé suivant le mode d’emploi;
 	- **j)** une description du type d’emballage qui sera utilisé;
 	- **k)** le mode d’emploi;
-	- **l)** le texte des étiquettes, y compris les feuillets à insérer dans l’emballage, qui seront utilisées avec l’aliment;
+	- **l)** le texte des étiquettes, y compris les notices d’accompagnement, qui seront utilisées avec l’aliment;
 	- **m)** les nom et titre du signataire de l’avis et la date de la signature.
 
-- **(3)** Malgré le paragraphe (1), il est permis de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie si le Directeur, après avoir été avisé par le fabricant conformément à ce paragraphe, informe celui-ci par écrit que l’avis satisfait aux exigences visées au paragraphe (2).
-> DORS/94-35, art. 4.
+- **(3)** Malgré le paragraphe (1), il est permis de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie si le ministre, après avoir été avisé par le fabricant conformément à ce paragraphe, informe celui-ci par écrit que l’avis satisfait aux exigences visées au paragraphe (2).
+> DORS/94-35, art. 4; DORS/2018-69, art. 27 et 29(F).
 
 
 
 
 **B.24.306** 
 
-- **(1)** Il est interdit de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie qui a subi un changement majeur, à moins que le fabricant n’ait donné au Directeur, au moins 90 jours avant la vente ou l’annonce, un avis écrit de son intention de vendre cet aliment ou de l’annoncer en vue de la vente.
+- **(1)** Il est interdit de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie qui a subi un changement majeur, à moins que le fabricant n’ait donné au ministre, au moins 90 jours avant la vente ou l’annonce, un avis écrit de son intention de vendre cet aliment ou de l’annoncer en vue de la vente.
 
-- **(2)** L’avis visé au paragraphe (1) est signé par le fabricant et contient, à l’égard de l’aliment présenté comme étant conçu pour un régime à très faible teneur en énergie qui a subi un changement majeur, les renseignements suivants :
+- **(2)** L’avis visé au paragraphe (1) est signé par le fabricant et contient, à l’égard de l’aliment présenté comme étant conçu pour un régime à très faible teneur en énergie qui a subi un changement majeur, les renseignements suivants :
 	- **a)** le nom sous lequel l’aliment sera vendu ou annoncé en vue de la vente;
 	- **b)** les nom et adresse du principal établissement du fabricant;
 	- **c)** la description du changement majeur;
 	- **d)** les preuves invoquées pour établir que l’aliment répond aux besoins nutritifs, autres que les besoins énergétiques, des personnes à qui il est destiné, lorsqu’il est consommé suivant le mode d’emploi;
 	- **e)** les preuves invoquées pour établir que le changement majeur n’a pas d’effet indésirable sur l’aliment ou son utilisation;
-	- **f)** le texte des étiquettes, y compris les feuillets à insérer dans l’emballage, qui seront utilisées avec l’aliment;
+	- **f)** le texte des étiquettes, y compris les notices d’accompagnement, qui seront utilisées avec l’aliment;
 	- **g)** les nom et titre du signataire de l’avis et la date de la signature.
 
-- **(3)** Malgré le paragraphe (1), il est permis de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie qui a subi un changement majeur si le Directeur, après avoir été avisé par le fabricant conformément à ce paragraphe, a informé celui-ci par écrit que l’avis satisfait aux exigences visées au paragraphe (2).
-> DORS/94-35, art. 4.
+- **(3)** Malgré le paragraphe (1), il est permis de vendre ou d’annoncer en vue de la vente un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie qui a subi un changement majeur si le ministre, après avoir été avisé par le fabricant conformément à ce paragraphe, a informé celui-ci par écrit que l’avis satisfait aux exigences visées au paragraphe (2).
+> DORS/94-35, art. 4; DORS/2018-69, art. 27 et 29(F).
 
 
 
@@ -24128,9 +24131,9 @@ auxquels du chlorure de sodium a été ajouté.
 
 **B.25.046** 
 
-- **(1)** Il est interdit de vendre ou d’annoncer pour la vente un succédané de lait humain nouveau, à moins que le fabricant n’ait donné au Directeur, au moins 90 jours avant la vente ou l’annonce de cet aliment, un avis écrit de son intention de vendre ou d’annoncer pour la vente le succédané de lait humain nouveau.
+- **(1)** Il est interdit de vendre ou d’annoncer pour la vente un succédané de lait humain nouveau, à moins que le fabricant n’ait donné au ministre, au moins 90 jours avant la vente ou l’annonce de cet aliment, un avis écrit de son intention de vendre ou d’annoncer pour la vente le succédané de lait humain nouveau.
 
-- **(2)** L’avis visé au paragraphe (1) est signé et contient les renseignements suivants :
+- **(2)** L’avis visé au paragraphe (1) est signé et contient les renseignements suivants :
 	- **a)** le nom sous lequel le succédané de lait humain nouveau sera vendu ou annoncé pour la vente;
 	- **b)** le nom et l’adresse du principal établissement du fabricant;
 	- **c)** les nom et adresse de chaque établissement où le succédané de lait humain nouveau est fabriqué;
@@ -24142,11 +24145,11 @@ auxquels du chlorure de sodium a été ajouté.
 	- **i)** les preuves établissant que le succédané de lait humain nouveau a une valeur nutritive suffisante pour favoriser une croissance et un développement acceptables chez les bébés s’il est consommé conformément au mode d’emploi;
 	- **j)** une description du type d’emballage qui sera utilisé pour le succédané de lait humain nouveau;
 	- **k)** le mode d’emploi du succédané de lait humain nouveau;
-	- **l)** le texte écrit des étiquettes, y compris les feuillets insérés dans l’emballage, qui seront utilisées pour le succédané de lait humain nouveau;
+	- **l)** le texte écrit des étiquettes, y compris les notices d’accompagnement, qui seront utilisées pour le succédané de lait humain nouveau;
 	- **m)** le nom et le titre du signataire de l’avis et la date de la signature.
 
-- **(3)** Nonobstant le paragraphe (1), il est permis de vendre ou d’annoncer pour la vente un succédané de lait humain nouveau si le fabricant en a avisé le Directeur conformément au paragraphe (1) et que celui-ci l’a informé par écrit que l’avis est satisfaisant.
-> DORS/90-174, art. 2.
+- **(3)** Nonobstant le paragraphe (1), il est permis de vendre ou d’annoncer pour la vente un succédané de lait humain nouveau si le fabricant en a avisé le ministre conformément au paragraphe (1) et que celui-ci l’a informé par écrit que l’avis est satisfaisant.
+> DORS/90-174, art. 2; DORS/2018-69, art. 27 et 30(F).
 
 
 
@@ -24159,19 +24162,19 @@ auxquels du chlorure de sodium a été ajouté.
 
 **B.25.048** 
 
-- **(1)** Il est interdit de vendre ou d’annoncer pour la vente un succédané de lait humain qui a fait l’objet d’un changement majeur, à moins que le fabricant n’ait donné au Directeur, au moins 90 jours avant la vente ou l’annonce de cet aliment, un avis écrit de son intention de vendre ou d’annoncer pour la vente le succédané de lait humain.
+- **(1)** Il est interdit de vendre ou d’annoncer pour la vente un succédané de lait humain qui a fait l’objet d’un changement majeur, à moins que le fabricant n’ait donné au ministre, au moins 90 jours avant la vente ou l’annonce de cet aliment, un avis écrit de son intention de vendre ou d’annoncer pour la vente le succédané de lait humain.
 
-- **(2)** L’avis visé au paragraphe (1) est signé et contient les renseignements suivants :
+- **(2)** L’avis visé au paragraphe (1) est signé et contient les renseignements suivants :
 	- **a)** le nom sous lequel le succédané de lait humain sera vendu ou annoncé pour la vente;
 	- **b)** le nom et l’adresse du principal établissement du fabricant;
 	- **c)** une description du changement majeur;
 	- **d)** la preuve établissant que le succédané de lait humain a une valeur nutritive suffisante pour favoriser une croissance et un développement acceptables chez les bébés s’il est consommé conformément au mode d’emploi;
 	- **e)** la preuve établissant que le changement majeur n’a pas eu d’effet préjudiciable sur le succédané de lait humain;
-	- **f)** le texte écrit des étiquettes, y compris les feuillets insérés dans l’emballage, qui seront utilisées pour le succédané de lait humain;
+	- **f)** le texte écrit des étiquettes, y compris les notices d’accompagnement, qui seront utilisées pour le succédané de lait humain;
 	- **g)** le nom et le titre du signataire de l’avis et la date de la signature.
 
-- **(3)** Nonobstant le paragraphe (1), il est permis de vendre ou d’annoncer pour la vente un succédané de lait humain qui a fait l’objet d’un changement majeur si le fabricant en a avisé le Directeur conformément au paragraphe (1) et que celui-ci l’a informé par écrit que l’avis est satisfaisant.
-> DORS/90-174, art. 2.
+- **(3)** Nonobstant le paragraphe (1), il est permis de vendre ou d’annoncer pour la vente un succédané de lait humain qui a fait l’objet d’un changement majeur si le fabricant en a avisé le ministre conformément au paragraphe (1) et que celui-ci l’a informé par écrit que l’avis est satisfaisant.
+> DORS/90-174, art. 2; DORS/2018-69, art. 27 et 30(F).
 
 
 
@@ -24323,16 +24326,16 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **B.25.060** 
 
-- **(1)** Lorsque le Directeur demande par écrit au fabricant de succédané de lait humain ou d’aliment présenté comme contenant ce succédané de fournir dans un délai précis des preuves concernant le succédané de lait humain, le fabricant, s’il n’a pas répondu à la demande dans le délai fixé, doit cesser, après l’expiration du délai, de vendre ce succédané ou cet aliment.
+- **(1)** Lorsque le ministre demande par écrit au fabricant de succédané de lait humain ou d’aliment présenté comme contenant ce succédané de fournir dans un délai précis des preuves concernant le succédané de lait humain, le fabricant, s’il n’a pas répondu à la demande dans le délai fixé, doit cesser, après l’expiration du délai, de vendre ce succédané ou cet aliment.
 
-- **(2)** Si le Directeur estime que les preuves présentées par le fabricant en vertu du paragraphe (1) sont insuffisantes, il en avise le fabricant par écrit.
+- **(2)** Si le ministre conclut que les preuves présentées par le fabricant en application du paragraphe (1) sont insuffisantes, il en avise le fabricant par écrit.
 
-- **(3)** Lorsque le fabricant reçoit, en application du paragraphe (2), un avis portant que les preuves concernant le succédané de lait humain sont insuffisantes, il doit cesser la vente de ce succédané de lait humain ou des aliments présentés comme contenant ce succédané de lait humain jusqu’à ce qu’il ait présenté des preuves supplémentaires et que le Directeur l’ait avisé que ces preuves sont suffisantes.
+- **(3)** Lorsque le fabricant reçoit, en application du paragraphe (2), un avis portant que les preuves concernant le succédané de lait humain sont insuffisantes, il doit cesser la vente de ce succédané de lait humain ou des aliments présentés comme contenant ce succédané de lait humain jusqu’à ce qu’il ait présenté des preuves supplémentaires et que le ministre l’ait avisé que ces preuves sont suffisantes.
 
-- **(4)** Pour l’application du présent article, ***preuves concernant le succédané de lait humain*** désigne :
+- **(4)** Pour l’application du présent article, ***preuves concernant le succédané de lait humain*** désigne :
 	- **a)** d’une part, la preuve établissant que le succédané de lait humain a une valeur nutritive suffisante pour favoriser une croissance et un développement acceptables chez les bébés s’il est consommé conformément au mode d’emploi;
 	- **b)** d’autre part, les résultats des examens effectués pour déterminer la date limite d’utilisation du succédané de lait humain.
-> DORS/83-933, art. 1; DORS/88-424, art. 2; DORS/90-174, art. 3.
+> DORS/83-933, art. 1; DORS/88-424, art. 2; DORS/90-174, art. 3; DORS/2018-69, art. 12 et 27.
 
 
 
@@ -24649,16 +24652,16 @@ si seulement des acides aminés de forme L ont été ajoutés.
 #### Modification du tableau
 
 
-**B.26.005** Toute demande visant la modification du tableau du présent titre ou l’adjonction d’un aliment à celui-ci doit être accompagnée d’une présentation au Directeur contenant les renseignements suivants :
+**B.26.005** Toute demande visant la modification du tableau du présent titre ou l’adjonction d’un aliment à celui-ci doit être accompagnée d’une présentation au ministre contenant les renseignements suivants :
 - **a)** le but et le détail de l’irradiation proposée, notamment le type et la source du rayonnement ionisant, le nombre proposé de traitements et les doses minimale et maximale absorbées du rayonnement ionisant;
 - **b)** les données indiquant que la dose minimale du rayonnement ionisant proposé permettra d’atteindre le but visé par l’irradiation et que la dose maximale du rayonnement ionisant proposé n’excédera pas le niveau approprié à cette fin;
 - **c)** les renseignements sur la nature du dosimètre utilisé, la fréquence de la dosimétrie de l’aliment ainsi que des données relatives à la dosimétrie et aux fantômes utilisés afin de garantir que les relevés dosimétriques correspondent activement à la dose absorbée par l’aliment durant l’irradiation;
 - **d)** les données relatives aux effets, le cas échéant, dans les conditions envisagées, de l’irradiation et de tout autre traitement qui y est combiné sur la qualité nutritive de l’aliment, cru et prêt à servir;
 - **e)** les données établissant que les caractéristiques chimiques, physiques ou microbiologiques de l’aliment irradié n’ont pas été modifiées de façon à le rendre impropre à la consommation humaine;
-- **f)** si le Directeur le demande, les données établissant que l’irradiation proposée est sans danger dans les conditions envisagées;
+- **f)** si le ministre le demande, les données établissant que l’irradiation proposée est sans danger dans les conditions envisagées;
 - **g)** les conditions recommandées pour l’emmagasinage et l’expédition de l’aliment irradié, notamment la durée, la température ainsi que l’emballage, et une comparaison avec les conditions recommandées pour le même aliment non irradié;
 - **h)** le détail de tout autre traitement que l’aliment doit subir avant ou après l’irradiation proposée;
-- **i)** toute autre donnée exigée par le Directeur qui établit que le consommateur ou l’acheteur de l’aliment irradié n’est pas déçu ou trompé quant à la nature, la valeur, la composition, les avantages et la sûreté de l’aliment irradié.
+- **i)** toute autre donnée exigée par le ministre qui établit que le consommateur ou l’acheteur de l’aliment irradié n’est pas déçu ou trompé quant à la nature, la valeur, la composition, les avantages et la sûreté de l’aliment irradié.
 #### TABLEAU
 <table>
 <tr>
@@ -24900,7 +24903,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 </tr>
 </table>
 
-> DORS/89-175, art. 3; DORS/98-458, art. 7(F); DORS/2017-16, art. 6 et 7.
+> DORS/89-175, art. 3; DORS/98-458, art. 7(F); DORS/2017-16, art. 6 et 7; DORS/2018-69, art. 27.
 
 
 
@@ -24953,14 +24956,14 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **B.27.004** 
 
-- **(1)** Lorsque le Directeur juge que la vente d’un aliment peu acide emballé dans un récipient hermétiquement fermé risque d’être en contravention avec les articles B.27.002 ou B.27.003, il peut, par avis écrit, demander au fabricant ou à l’importateur de l’aliment de lui présenter, au plus tard à la date précisée dans l’avis, la preuve que les procédés de fabrication, de transformation et d’emballage de l’aliment permettent d’atteindre et de maintenir la stérilité commerciale.
+- **(1)** Lorsque le ministre juge que la vente d’un aliment peu acide emballé dans un récipient hermétiquement fermé risque d’être en contravention avec les articles B.27.002 ou B.27.003, il peut, par avis écrit, demander au fabricant ou à l’importateur de l’aliment de lui présenter, au plus tard à la date précisée dans l’avis, la preuve que les procédés de fabrication, de transformation et d’emballage de l’aliment permettent d’atteindre et de maintenir la stérilité commerciale.
 
 - **(2)** Le fabricant ou l’importateur qui reçoit un avis émis en application du paragraphe (1) doit cesser la vente de l’aliment à compter de la date précisée dans l’avis jusqu’à ce qu’il ait présenté la preuve demandée.
 
-- **(3)** Si le Directeur juge insuffisante la preuve présentée par le fabricant ou l’importateur en application du paragraphe (1), il lui envoie un avis à cet effet.
+- **(3)** Si le ministre juge insuffisante la preuve présentée par le fabricant ou l’importateur en application du paragraphe (1), il lui envoie un avis à cet effet.
 
-- **(4)** Le fabricant ou l’importateur qui reçoit l’avis mentionné au paragraphe (3) doit cesser immédiatement la vente de l’aliment et ce, jusqu’à ce qu’il ait présenté une autre preuve et que le Directeur l’ait avisé par écrit que cette preuve est suffisante.
-> DORS/89-309, art. 1.
+- **(4)** Le fabricant ou l’importateur qui reçoit l’avis mentionné au paragraphe (3) doit cesser immédiatement la vente de l’aliment et ce, jusqu’à ce qu’il ait présenté une autre preuve et que le ministre l’ait avisé par écrit que cette preuve est suffisante.
+> DORS/89-309, art. 1; DORS/2018-69, art. 27.
 
 
 
@@ -25013,14 +25016,14 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **B.28.002** 
 
-- **(1)** Il est interdit de vendre ou d’annoncer en vue de la vente un aliment nouveau à moins que le fabricant ou l’importateur :
-	- **a)** n’ait donné au Directeur un avis écrit de son intention de vendre l’aliment nouveau ou de l’annoncer en vue de la vente;
-	- **b)** n’ait reçu du Directeur l’avis visé à l’alinéa B.28.003(1)a) ou au paragraphe B.28.003(2), selon le cas.
+- **(1)** Il est interdit de vendre ou d’annoncer en vue de la vente un aliment nouveau à moins que le fabricant ou l’importateur :
+	- **a)** n’ait donné au ministre un avis écrit de son intention de vendre l’aliment nouveau ou de l’annoncer en vue de la vente;
+	- **b)** n’ait reçu du ministre l’avis visé à l’alinéa B.28.003(1)a) ou au paragraphe B.28.003(2), selon le cas.
 
-- **(2)** L’avis visé à l’alinéa (1)a) est signé par le fabricant ou l’importateur, ou une personne autorisée à signer en son nom, et contient les renseignements suivants :
+- **(2)** L’avis visé à l’alinéa (1)a) est signé par le fabricant ou l’importateur, ou une personne autorisée à signer en son nom, et contient les renseignements suivants :
 	- **a)** le nom commun sous lequel l’aliment nouveau sera vendu;
 	- **b)** les nom et adresse du principal établissement du fabricant et, si l’adresse est à l’étranger, les nom et adresse du principal établissement de l’importateur;
-	- **c)** la description de l’aliment nouveau, accompagnée :
+	- **c)** la description de l’aliment nouveau, accompagnée :
 		- **(i)** des renseignements sur son élaboration,
 		- **(ii)** des renseignements détaillés sur son mode de fabrication, de préparation, de conservation, d’emballage et d’emmagasinage,
 		- **(iii)** de la description du changement majeur, le cas échéant,
@@ -25030,19 +25033,19 @@ si seulement des acides aminés de forme L ont été ajoutés.
 	- **d)** des renseignements sur les niveaux de consommation estimatifs chez les consommateurs de l’aliment nouveau;
 	- **e)** le texte des étiquettes qui seront utilisées avec l’aliment nouveau;
 	- **f)** les nom et titre du signataire de l’avis et la date de la signature.
-> DORS/99-392, art. 1.
+> DORS/99-392, art. 1; DORS/2018-69, art. 27.
 
 
 
 
 **B.28.003** 
 
-- **(1)** Dans les quarante-cinq jours suivant la réception de l’avis visé à l’alinéa B.28.002(1)a), le Directeur examine les renseignements contenus dans l’avis et :
+- **(1)** Dans les quarante-cinq jours suivant la réception de l’avis visé à l’alinéa B.28.002(1)a), le ministre examine les renseignements contenus dans l’avis et :
 	- **a)** si les renseignements établissent l’innocuité de l’aliment nouveau, il avise par écrit le fabricant ou l’importateur que ces renseignements sont suffisants;
 	- **b)** si d’autres renseignements sont nécessaires sur le plan scientifique afin d’évaluer l’innocuité de l’aliment nouveau, il demande par écrit au fabricant ou à l’importateur de les lui fournir.
 
-- **(2)** Dans les quatre-vingt-dix jours suivant la réception des renseignements additionnels visés à l’alinéa (1)b), le Directeur les évalue et, s’ils établissent l’innocuité de l’aliment nouveau, il avise par écrit le fabricant ou l’importateur que ces renseignements sont suffisants.
-> DORS/99-392, art. 1.
+- **(2)** Dans les quatre-vingt-dix jours suivant la réception des renseignements additionnels visés à l’alinéa (1)b), le ministre les évalue et, s’ils établissent l’innocuité de l’aliment nouveau, il avise par écrit le fabricant ou l’importateur que ces renseignements sont suffisants.
+> DORS/99-392, art. 1; DORS/2018-69, art. 27.
 
 
 
@@ -25952,9 +25955,9 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 - **(6)** Les paragraphes (1) à (5) ne s’appliquent pas :
 	- **a)** aux drogues sur ordonnance;
-	- **b)** aux drogues qui peuvent être vendues sans ordonnance mais qui sont administrées uniquement sous la surveillance d’un praticien;
+	- **b)** aux drogues qui peuvent être vendues sans ordonnance mais à administrer uniquement sous la surveillance d’un praticien;
 	- **c)** aux drogues qui sont présentées comme étant destinées exclusivement à la désinfection de surfaces dures non poreuses.
-> DORS/2014-158, art. 5; DORS/2017-18, art. 23.
+> DORS/2014-158, art. 5; DORS/2017-18, art. 23; DORS/2018-69, art. 13.
 
 
 
@@ -25980,7 +25983,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **C.01.005** 
 
-- **(1)** L’espace principal des étiquettes intérieure et extérieure d’une drogue vendue sous forme posologique doit indiquer clairement et lisiblement l’identification numérique que lui a attribuée le Directeur conformément au paragraphe C.01.014.2(1), précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* » ou des deux, ou de l’abréviation « DIN ».
+- **(1)** L’espace principal des étiquettes intérieure et extérieure d’une drogue vendue sous forme posologique doit indiquer clairement et lisiblement l’identification numérique que lui a attribuée le ministre conformément au paragraphe C.01.014.2(1), précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* » ou des deux, ou de l’abréviation « DIN ».
 
 - **(2)** Le paragraphe (1) ne s’applique pas à une drogue
 	- **a)** préparée par un pharmacien, conformément à une ordonnance, ou par un praticien; ou
@@ -25992,7 +25995,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 - **(3)** Aux fins du présent article et de l’article C.01.014, une ***drogue sous sa forme posologique*** s’entend d’une drogue prête pour la consommation sans autre transformation.
 
 - **(4) et (5)** [Abrogés, DORS/81-248, art. 1]
-> DORS/81-248, art. 1; DORS/93-202, art. 3; DORS/98-423, art. 2; DORS/2001-181, art. 4.
+> DORS/81-248, art. 1; DORS/93-202, art. 3; DORS/98-423, art. 2; DORS/2001-181, art. 4; DORS/2018-69, art. 27.
 
 
 
@@ -26015,8 +26018,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-**C.01.010** S’il y a lieu de fournir le mode d’emploi approprié et sûr d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un désordre ou d’un état physique anormal mentionnés à l’annexe A de la Loi, les étiquettes de la drogue, notamment tout feuillet inséré dans son emballage et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce désordre ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
-> DORS/2013-122, art. 6; DORS/2014-158, art. 6; DORS/2017-18, art. 21(F).
+**C.01.010** S’il y a lieu de fournir le mode d’emploi approprié et sûr d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un désordre ou d’un état physique anormal mentionnés à l’annexe A de la Loi, les étiquettes de la drogue, notamment toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce désordre ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
+> DORS/2013-122, art. 6; DORS/2014-158, art. 6; DORS/2017-18, art. 21(F); DORS/2018-69, art. 14(F).
 
 
 
@@ -26027,34 +26030,36 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 - **(2)** [Abrogé, DORS/93-243, art. 2]
 
-- **(3)** Lorsqu’une norme de fabricant est utilisée pour une drogue, le fabricant devra tenir à la disposition du Directeur général, à la demande de ce dernier, les détails relatifs à cette norme et à une méthode d’analyse de cette drogue qui soit acceptable au Directeur général.
+- **(3)** Lorsqu’une norme de fabricant est utilisée pour une drogue, le fabricant devra tenir à la disposition du ministre, à la demande de ce dernier, les détails relatifs à cette norme et à une méthode d’analyse de cette drogue qui soit acceptable au ministre.
 
 - **(4)** Il est interdit d’utiliser pour une drogue une norme de fabricant qui prévoit,
 	- **a)** un degré de pureté inférieur au degré maximal de pureté,
 	- **b)** un écart d’activité supérieur à l’écart minimal,
 indiqués pour cette drogue dans les publications mentionnées à l’annexe B de la Loi.
-> DORS/93-243, art. 2.
+> DORS/93-243, art. 2; DORS/2018-69, art. 31(A) et 32(F).
 
 
 
 
 **C.01.012** Le fabricant qui fait une déclaration sur l’étiquette d’une drogue sous forme de posologie orale, ou dans sa publicité, relativement au siège, à la vitesse ou à l’étendue de libération d’un ingrédient médicinal de la drogue dans l’organisme, ou à la disponibilité d’un ingrédient médicinal de la drogue dans l’organisme, doit :
 - **a)** avant de faire la déclaration, effectuer, par une méthode acceptable, les investigations qui se révèlent nécessaires pour démontrer que le siège, la vitesse ou l’étendue de libération de l’ingrédient médicinal de la drogue dans l’organisme et la disponibilité de l’ingrédient médicinal de la drogue dans l’organisme correspondent à la déclaration;
-- **b)** soumettre, sur demande, le dossier de telles investigations au Directeur.
-> DORS/89-455, art. 2; DORS/94-36, art. 1.
+- **b)** soumettre, sur demande, le dossier de telles investigations au ministre.
+> DORS/89-455, art. 2; DORS/94-36, art. 1; DORS/2018-69, art. 27.
 
 
 
 
 **C.01.013** 
 
-- **(1)** Lorsque le Directeur demande par écrit au fabricant d’une drogue de lui fournir, à ou avant une date donnée, des preuves concernant une drogue, le fabricant doit suspendre la vente de cette drogue après cette date, à moins qu’il n’ait fourni les preuves demandées.
+- **(1)** Lorsque le ministre demande par écrit au fabricant d’une drogue de lui fournir, à ou avant une date donnée, des preuves concernant une drogue, le fabricant doit suspendre la vente de cette drogue après cette date, à moins qu’il n’ait fourni les preuves demandées.
 
-- **(2)** Lorsque le Directeur est d’avis que les preuves fournies par le fabricant, conformément au paragraphe (1), sont insuffisantes, il doit en aviser par écrit le fabricant.
+- **(2)** Si le ministre conclut que les preuves fournies par le fabricant en application du paragraphe (1) sont insuffisantes, il en avise le fabricant par écrit.
 
-- **(3)** Lorsque, conformément au paragraphe (2), un fabricant est avisé que les preuves concernant une drogue donnée sont insuffisantes, il doit susprendre la vente de ladite drogue, à moins qu’il ne fournisse d’autres preuves et qu’il ne soit avisé par écrit par le Directeur que ces autres preuves sont suffisantes.
+- **(3)** Lorsque, conformément au paragraphe (2), un fabricant est avisé que les preuves concernant une drogue donnée sont insuffisantes, il doit susprendre la vente de ladite drogue, à moins qu’il ne fournisse d’autres preuves et qu’il ne soit avisé par écrit par le ministre que ces autres preuves sont suffisantes.
 
 - **(4)** Dans cet article ***preuves concernant une drogue*** signifie des preuves servant à établir l’innocuité de la drogue lorsqu’elle est utilisée dans les conditions d’emploi recommandées et son efficacité pour les indications recommandées.
+> DORS/2018-69, art. 15 et 27.
+
 
 
 
@@ -26082,7 +26087,7 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 - **(1)** Le fabricant d’une drogue, une personne autorisée par lui ou, dans le cas d’une drogue devant être importée au Canada, l’importateur de la drogue, peut présenter une demande d’identification numérique pour cette drogue.
 
-- **(2)** La demande d’identification numérique est présentée au Directeur par écrit et contient les renseignements et le matériel suivants :
+- **(2)** La demande d’identification numérique est présentée au ministre par écrit et contient les renseignements et le matériel suivants :
 	- **a)** le nom du fabricant de la drogue, tel qu’il figurera sur l’étiquette;
 	- **b)** la forme pharmaceutique sous laquelle la drogue doit être vendue;
 	- **c)** dans le cas d’une drogue non visée à l’alinéa d), la voie d’administration recommandée;
@@ -26095,8 +26100,8 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 	- **j)** la posologie recommandée;
 	- **k)** l’adresse du fabricant visé à l’alinéa a) et, si cette adresse est à l’extérieur du pays, le nom et l’adresse de l’importateur de la drogue;
 	- **l)** les nom et adresse du particulier, de l’entreprise ou de la société ou de la corporation, autres que les noms et adresses indiqués aux alinéas a) et k), qui paraîtront sur l’étiquette de la drogue;
-	- **m)** dans le cas d’une drogue pour usage vétérinaire, le libellé de toute étiquette à utiliser relativement à la drogue, y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande;
-	- **m.1)** dans le cas d’une drogue pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue;
+	- **m)** dans le cas d’une drogue pour usage vétérinaire, le libellé de toute étiquette à utiliser relativement à la drogue, y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande;
+	- **m.1)** dans le cas d’une drogue pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue;
 	- **n)** les nom et titre de la personne ayant signé la demande, ainsi que la date de signature;
 	- **o)** dans le cas d’une drogue pour usage humain, une appréciation de la question de savoir si la drogue est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
 		- **(i)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
@@ -26104,27 +26109,27 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 		- **(iii)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01.
 
 - **(3)** Dans le cas d’une drogue nouvelle, la présentation de drogue nouvelle, la présentation de drogue nouvelle pour usage exceptionnel, la présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel déposée en vertu des articles C.08.002, C.08.002.01 ou C.08.002.1 tient lieu de demande d’identification numérique.
-> DORS/81-248, art. 2; DORS/93-202, art. 4; DORS/98-423, art. 3; DORS/2011-88, art. 2; DORS/2014-158, art. 7.
+> DORS/81-248, art. 2; DORS/93-202, art. 4; DORS/98-423, art. 3; DORS/2011-88, art. 2; DORS/2014-158, art. 7; DORS/2018-69, art. 27 et 33(F).
 
 
 
 
 **C.01.014.2** 
 
-- **(1)** Sous réserve du paragraphe (2), sur réception des renseignements visés au paragraphe C.01.014.1(2) ou aux articles C.08.002, C.08.002.01 ou C.08.002.1, selon le cas, le Directeur remet au fabricant ou à l’importateur un document qui :
+- **(1)** Sous réserve du paragraphe (2), sur réception des renseignements visés au paragraphe C.01.014.1(2) ou aux articles C.08.002, C.08.002.01 ou C.08.002.1, selon le cas, le ministre remet au fabricant ou à l’importateur un document qui :
 	- **a)** indique :
 		- **(i)** soit l'identification numérique attribuée à la drogue, précédée de l'abréviation « DIN »,
-		- **(ii)** soit, si la drogue a deux marques nominatives ou plus, les identifications numériques attribuées à celle-ci par le Directeur, dont chacune correspond à une marque nominative et est précédée de l'abréviation « DIN »;
+		- **(ii)** soit, si la drogue a deux marques nominatives ou plus, les identifications numériques attribuées à celle-ci par le ministre, dont chacune correspond à une marque nominative et est précédée de l'abréviation « DIN »;
 	- **b)** comporte les renseignements visés aux alinéas C.01.014.1(2)a) à f).
 
-- **(2)** Le Directeur peut refuser de remettre le document visé au paragraphe (1) s'il a de bonnes raisons de croire que le produit faisant l'objet d'une demande visée à l'article C.01.014.1
-	- **a)** n'est pas une drogue; ou
-	- **b)** est une drogue dont la vente nuirait à la santé du consommateur ou de l'acheteur ou enfreindrait la Loi ou le présent règlement.
+- **(2)** Le ministre peut refuser de remettre le document visé au paragraphe (1) s’il a de bonnes raisons de croire que le produit faisant l’objet d’une demande visée à l’article C.01.014.1 :
+	- **a)** n’est pas une drogue;
+	- **b)** est une drogue dont la vente nuirait à la santé du consommateur ou de l’acheteur ou enfreindrait la Loi ou le présent règlement.
 
-- **(3)** Lorsque le Directeur refuse, selon le paragraphe (2), de remettre le document, le requérant peut fournir des renseignements supplémentaires et lui demander de reconsidérer sa décision.
+- **(3)** Lorsque le ministre refuse, selon le paragraphe (2), de remettre le document, le requérant peut fournir des renseignements supplémentaires et lui demander de reconsidérer sa décision.
 
-- **(4)** Le Directeur doit reconsidérer sa décision de refuser de remettre le document, en fonction des renseignements supplémentaires fournis conformément au paragraphe (3).
-> DORS/81-248, art. 2; DORS/92-230, art. 1; DORS/98-423, art. 4; DORS/2011-88, art. 3.
+- **(4)** Le ministre doit reconsidérer sa décision de refuser de remettre le document, en fonction des renseignements supplémentaires fournis conformément au paragraphe (3).
+> DORS/81-248, art. 2; DORS/92-230, art. 1; DORS/98-423, art. 4; DORS/2011-88, art. 3; DORS/2018-69, art. 16 et 27.
 
 
 
@@ -26135,35 +26140,35 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
-**C.01.014.4** Dans le cas où les renseignements visés au paragraphe C.01.014.1(2) ne sont plus exacts :
+**C.01.014.4** Dans le cas où les renseignements visés au paragraphe C.01.014.1(2) ne sont plus exacts :
 - **a)** en raison de la modification des renseignements visés aux alinéas C.01.014.1(2)a) à f) :
 	- **(i)** qui se produit avant la mise en marché de la drogue, une nouvelle demande doit être présentée, ou
 	- **(ii)** qui se produit après la mise en marché de la drogue, la vente doit être interrompue jusqu’à ce qu’une nouvelle demande d’identification numérique soit présentée et qu’une nouvelle identification numérique soit attribuée à l’égard de la drogue;
 - **b)** en raison de la modification des renseignements visés aux alinéas C.01.014.1(2)g) à k) :
 	- **(i)** qui se produit avant la mise en marché de la drogue, tous les détails de la modification doivent être présentés en même temps que le document visé à l’article C.01.014.3, ou
-	- **(ii)** qui se produit après la mise en marché de la drogue, la personne à qui l’identification numérique de la drogue a été attribuée doit en informer le Directeur dans les 30 jours suivant la modification.
-> DORS/81-248, art. 2; DORS/92-230, art. 2; DORS/98-423, art. 6; DORS/2016-139, art. 2(F).
+	- **(ii)** qui se produit après la mise en marché de la drogue, la personne à qui l’identification numérique de la drogue a été attribuée doit en informer le ministre dans les 30 jours suivant la modification.
+> DORS/81-248, art. 2; DORS/92-230, art. 2; DORS/98-423, art. 6; DORS/2016-139, art. 2(F); DORS/2018-69, art. 27.
 
 
 
 
-**C.01.014.5** Le fabricant d’une drogue doit fournir au Directeur, avant le premier octobre de chaque année et selon la forme autorisée par le Directeur, une déclaration signée par lui-même ou en son nom par une personne autorisée, attestant que tous les renseignements qu’il a présentés jusqu’alors au sujet de la drogue sont toujours exacts.
-> DORS/81-248, art. 2.
+**C.01.014.5** Le fabricant d’une drogue doit fournir au ministre, avant le premier octobre de chaque année et selon la forme autorisée par le ministre, une déclaration signée par lui-même ou en son nom par une personne autorisée, attestant que tous les renseignements qu’il a présentés jusqu’alors au sujet de la drogue sont toujours exacts.
+> DORS/81-248, art. 2; DORS/2018-69, art. 27.
 
 
 
 
 **C.01.014.6** 
 
-- **(1)** Le Directeur annule l’identification numérique d’une drogue
+- **(1)** Le ministre annule l’identification numérique d’une drogue
 	- **a)** si la personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue signale, en application de l’article C.01.014.7, qu’elle a cessé la vente de la drogue;
 	- **b)** si la drogue est une drogue nouvelle pour laquelle l’avis de conformité a été suspendu conformément à l’article C.08.006; ou
 	- **c)** s’il a été décidé que le produit faisant l’objet de l’identification numérique n’est pas une drogue.
 
-- **(2)** Le Directeur peut annuler l’identification numérique d’une drogue
+- **(2)** Le ministre peut annuler l’identification numérique d’une drogue
 	- **a)** si le fabricant de la drogue ne s’est pas conformé à l’article C.01.014.5; ou
 	- **b)** si le fabricant à qui l’identification numérique a été attribuée a été avisé, selon l’article C.01.013, que les preuves présentées au sujet de la drogue sont insuffisantes.
-> DORS/81-248, art. 2; DORS/2016-139, art. 3.
+> DORS/81-248, art. 2; DORS/2016-139, art. 3; DORS/2018-69, art. 27.
 
 
 
@@ -26188,11 +26193,11 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 	- **(i)** les drogues inscrites aux annexes I, II, III, IV ou V de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md),
 	- **(ii)** les drogues sur ordonnance,
 	- **(iii)** les drogues visées à l’annexe D de la Loi,
-	- **(iv)** les drogues qui peuvent être vendues sans ordonnance mais qui sont administrées uniquement sous la surveillance d’un praticien;
+	- **(iv)** les drogues qui peuvent être vendues sans ordonnance mais à administrer uniquement sous la surveillance d’un praticien;
 - **b)** soit de l’une des drogues visées à l’annexe C de la Loi. (*drug*)
 
 ***pénurie*** Situation où le titulaire de l’autorisation relative à une drogue est incapable de répondre à la demande pour cette drogue. (*shortage*)
-> DORS/2016-139, art. 5.
+> DORS/2016-139, art. 5; DORS/2018-69, art. 17.
 
 
 
@@ -27144,7 +27149,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 
 **C.01.032** Est interdite la vente de toute drogue corticostéroïde pour usage ophtalmique, à moins
-- **a)** que l’étiquette extérieure ou le feuillet inséré dans l’emballage ne porte, comme partie du mode d’emploi, les déclarations ci-dessous :
+- **a)** que l’étiquette extérieure ou la notice d’accompagnement ne porte, comme partie du mode d’emploi, les déclarations ci-dessous :
 
 
 
@@ -27178,7 +27183,9 @@ L’usage ophtalmique prolongé des drogues corticostéroïdes peut causer un ac
 
 
 et
-- **b)** que l’étiquette intérieure ne porte les déclarations requises par l’alinéa a) ou les instructions de lire l’étiquette extérieure ou le feuillet inséré dans l’emballage pour se renseigner sur les contre-indications et les effets secondaires.
+- **b)** que l’étiquette intérieure ne porte les déclarations requises par l’alinéa a) ou les instructions de lire l’étiquette extérieure ou la notice d’accompagnement pour se renseigner sur les contre-indications et les effets secondaires.
+> DORS/2018-69, art. 18(F).
+
 
 
 
@@ -27205,16 +27212,16 @@ et
 - **(1)** Il est interdit à un fabricant ou importateur de vendre
 	- **a)** une drogue qui contient de la phénacétine associée à un sel ou à un dérivé de l’acide salicylique;
 	- **b)** une drogue pour usage humain qui contient de l’oxyphénisatine, de l’acétate d’oxyphénisatine ou de la phénisatine; ou
-	- **c)** une drogue pour usage humain qui contient du mercure ou l’un de ses sels ou dérivés, sauf s’il s’agit de l’une des drogues suivantes dans laquelle le mercure ou l’un de ses sels ou dérivés est utilisé comme agent de conservation et pour laquelle le fabricant ou l’importateur a soumis au Directeur des preuves démontrant que l’utilisation de cet agent de conservation est le seul moyen satisfaisant d’assurer la stérilité ou la stabilité de la drogue :
+	- **c)** une drogue pour usage humain qui contient du mercure ou l’un de ses sels ou dérivés, sauf s’il s’agit de l’une des drogues suivantes dans laquelle le mercure ou l’un de ses sels ou dérivés est utilisé comme agent de conservation et pour laquelle le fabricant ou l’importateur a soumis au ministre des preuves démontrant que l’utilisation de cet agent de conservation est le seul moyen satisfaisant d’assurer la stérilité ou la stabilité de la drogue :
 		- **(i)** une drogue mentionnée aux annexes C ou D de la Loi,
-		- **(ii)** l’une des drogues suivantes :
+		- **(ii)** l’une des drogues suivantes :
 			- **(A)** une drogue ophtalmique ou une drogue pour usage dans la région oculaire,
 			- **(B)** une drogue pour administration par voie nasale,
 			- **(C)** une drogue pour administration par voie otique,
 			- **(D)** une drogue à usage parentéral emballée dans un contenant à doses multiples.
 
 - **(2)** Pour l’application de la division (1)c)(ii)(A), ***région oculaire*** désigne la région délimitée par les crêtes supraorbitale et infraorbitale et comprend les sourcils, la peau située sous les sourcils, les paupières, les cils, le sac conjonctival de l’oeil, le globe oculaire et le tissu mou situé sous l’oeil et à l’intérieur de la crête infraorbitale.
-> DORS/78-423, art. 2; DORS/86-93, art. 3; DORS/89-229, art. 3.
+> DORS/78-423, art. 2; DORS/86-93, art. 3; DORS/89-229, art. 3; DORS/2018-69, art. 27.
 
 
 
@@ -27620,7 +27627,7 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 #### Retrait du marché
 
 
-**C.01.051** Un fabricant qui vend une drogue sous une forme posologique ou une personne qui importe et vend au Canada une drogue sous une forme posologique doivent, s’ils décident de retirer la drogue du marché, fournir au Directeur les renseignements suivants dès le début du retrait :
+**C.01.051** Un fabricant qui vend une drogue sous une forme posologique ou une personne qui importe et vend au Canada une drogue sous une forme posologique doivent, s’ils décident de retirer la drogue du marché, fournir au ministre les renseignements suivants dès le début du retrait :
 - **a)** le nom propre de la drogue ou, à défaut, son nom usuel, ainsi que la marque nominative de la drogue et le numéro du lot;
 - **b)** dans le cas d’une drogue importée, le nom du fabricant et de l’importateur;
 - **c)** la quantité de la drogue fabriquée ou importée;
@@ -27628,7 +27635,7 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 - **e)** la quantité de la drogue qui reste dans les locaux du fabricant ou de l’importateur;
 - **f)** les raisons qui ont motivé le retrait; et
 - **g)** toute autre mesure prise par le fabricant ou l’importateur relativement au retrait.
-> DORS/82-524, art. 2; DORS/93-202, art. 11.
+> DORS/82-524, art. 2; DORS/93-202, art. 11; DORS/2018-69, art. 27.
 
 
 
@@ -27688,11 +27695,11 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 
 **C.01.062** 
 
-- **(1)** Sous réserve des paragraphes (2) à (5), le fabricant ne peut vendre une drogue sous forme posologique lorsque la quantité de tout ingrédient médicinal qu’elle contient, déterminée selon une méthode acceptable, représente :
+- **(1)** Sous réserve des paragraphes (2) à (5), le fabricant ne peut vendre une drogue sous forme posologique lorsque la quantité de tout ingrédient médicinal qu’elle contient, déterminée selon une méthode acceptable, représente :
 	- **a)** moins de 90,0 pour cent de la quantité indiquée sur l’étiquette;
 	- **b)** plus de 110,0 pour cent de la quantité indiquée sur l’étiquette.
 
-- **(2)** Sous réserve du paragraphe (5), lorsqu’une drogue sous forme posologique renferme un ingrédient médicinal qui est une substance volatile d’origine végétale ou son équivalent de synthèse, aucun écart par rapport à la quantité de l’ingrédient indiquée sur l’étiquette, déterminée selon une méthode acceptable, n’est permis en dehors de l’écart suivant :
+- **(2)** Sous réserve du paragraphe (5), lorsqu’une drogue sous forme posologique renferme un ingrédient médicinal qui est une substance volatile d’origine végétale ou son équivalent de synthèse, aucun écart par rapport à la quantité de l’ingrédient indiquée sur l’étiquette, déterminée selon une méthode acceptable, n’est permis en dehors de l’écart suivant :
 	- **a)** au moins 85,0 pour cent de la quantité indiquée sur l’étiquette;
 	- **b)** au plus 120,0 pour cent de la quantité indiquée sur l’étiquette.
 
@@ -27700,14 +27707,14 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 
 - **(4)** Sous réserve du paragraphe (5), lorsqu’une drogue sous forme posologique renferme un ingrédient médicinal qui est une vitamine, aucun écart par rapport à la quantité de l’ingrédient médicinal indiquée sur l’étiquette, déterminée selon une méthode acceptable, n’est permis, autre que l’écart précisé aux colonnes III ou IV du tableau du présent article en regard d’une vitamine figurant à la colonne I en la quantité indiquée à la colonne II.
 
-- **(5)** Les paragraphes de (1) à (4) ne s’appliquent pas à :
+- **(5)** Les paragraphes de (1) à (4) ne s’appliquent pas à :
 	- **a)** une drogue pour laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01;
 	- **b)** [Abrogé, DORS/98-423, art. 8]
 	- **c)** une drogue pour laquelle une norme est contenue dans une publication dont le nom figure à l’annexe B de la Loi;
 	- **d)** une drogue mentionnée aux annexes C ou D de la Loi ou au titre 6 de la partie C du présent règlement;
-	- **e)** une drogue à laquelle une identification numérique a été attribuée aux termes du paragraphe C.01.014.2(1) et :
+	- **e)** une drogue à laquelle une identification numérique a été attribuée aux termes du paragraphe C.01.014.2(1) et :
 		- **(i)** dont les conditions de fabrication et de contrôle de la qualité permettent le contrôle de son identité, de sa qualité, de sa pureté, de sa stabilité, de son innocuité, de sa teneur et de son activité,
-		- **(ii)** qui possède bien les propriétés que les étiquettes, notamment tout encart et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, s’y rapportant lui attribuent,
+		- **(ii)** qui possède bien les propriétés que les étiquettes, notamment toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, s’y rapportant lui attribuent,
 		- **(iii)** qui peut, sans risque prévisible excessif pour l’être humain, être utilisée aux fins et dans les conditions d’emploi recommandées par le fabricant,
 		- **(iv)** qui est efficace aux fins et dans les conditions d’emploi recommandées par le fabricant.
 #### TABLEAU
@@ -27728,97 +27735,97 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 <tr>
 <td>1</td>
 <td>vitamine A (ou comme B-carotène)</td>
-<td>10 000 U.I.</td>
-<td>90,0 - 165,0 %</td>
-<td>90,0 - 115,0 %</td>
+<td>10 000 U.I.</td>
+<td>90,0 - 165,0 %</td>
+<td>90,0 - 115,0 %</td>
 </tr>
 <tr>
 <td>2</td>
 <td>thiamine</td>
 <td>4,5 mg</td>
-<td>90,0 - 145,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 145,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>3</td>
 <td>riboflavine</td>
 <td>7,5 mg</td>
-<td>90,0 - 125,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>4</td>
 <td>niacine ou niacinamide</td>
 <td>45 mg</td>
-<td>90,0 - 125,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>5</td>
 <td>pyridoxine</td>
 <td>3 mg</td>
-<td>90,0 - 125,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>6</td>
 <td>acide d-pantothénique</td>
 <td>15 mg</td>
-<td>90,0 - 135,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 135,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>7</td>
 <td>acide folique</td>
 <td>0,4 mg</td>
-<td>90,0 - 135,0 %</td>
-<td>90,0 - 115,0 %</td>
+<td>90,0 - 135,0 %</td>
+<td>90,0 - 115,0 %</td>
 </tr>
 <tr>
 <td>8</td>
 <td>vitamine B<sub>12</sub></td>
 <td>14 µg</td>
-<td>90,0 - 135,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 135,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>9</td>
 <td>vitamine C</td>
 <td>150 mg</td>
-<td>90,0 - 145,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 145,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>10</td>
 <td>vitamine D</td>
 <td>400 U.I.</td>
-<td>90,0 - 145,0 %</td>
-<td>90,0 - 115,0 %</td>
+<td>90,0 - 145,0 %</td>
+<td>90,0 - 115,0 %</td>
 </tr>
 <tr>
 <td>11</td>
 <td>vitamine E</td>
 <td>25 U.I.</td>
-<td>90,0 - 125,0 %</td>
-<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
+<td>90,0 - 125,0 %</td>
 </tr>
 <tr>
 <td>12</td>
 <td>vitamine K</td>
 <td>0,0 mg</td>
 <td></td>
-<td>90,0 - 115,0 %</td>
+<td>90,0 - 115,0 %</td>
 </tr>
 <tr>
 <td>13</td>
 <td>biotine</td>
 <td>0,0 mg</td>
 <td></td>
-<td>90,0 - 135,0 %</td>
+<td>90,0 - 135,0 %</td>
 </tr>
 </table>
 
-> DORS/92-131, art. 1; DORS/92-591, art. 2; DORS/94-689, art. 2(A); DORS/95-530, art. 2; DORS/98-423, art. 8; DORS/2011-88, art. 5; DORS/2014-158, art. 9.
+> DORS/92-131, art. 1; DORS/92-591, art. 2; DORS/94-689, art. 2(A); DORS/95-530, art. 2; DORS/98-423, art. 8; DORS/2011-88, art. 5; DORS/2014-158, art. 9; DORS/2018-69, art. 19(F).
 
 
 
@@ -27835,13 +27842,13 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 
 
 
-**C.01.065** Il est interdit de vendre une drogue préparée pour usage ophtalmique ou usage parentéral, sauf si un échantillon représentatif de chaque lot de la drogue, dans son récipient immédiat :
+**C.01.065** Il est interdit de vendre une drogue préparée pour usage ophtalmique ou usage parentéral, sauf si un échantillon représentatif de chaque lot de la drogue, dans son récipient immédiat :
 - **a)** est soumis, selon une méthode acceptable, à une épreuve d’identité qui démontre que la drogue correspond à son nom propre, ou à défaut, à son nom usuel;
-- **b)** est soumis, par une méthode acceptable, à une épreuve de stérilité qui démontre que la drogue est stérile, laquelle épreuve n’est pas effectuée :
+- **b)** est soumis, par une méthode acceptable, à une épreuve de stérilité qui démontre que la drogue est stérile, laquelle épreuve n’est pas effectuée :
 	- **(i)** dans le cas des vaccins vivants, ou
-	- **(ii)** dans le cas où le fabricant présente une preuve que le Directeur juge satisfaisante démontrant que les contrôles employés dans la transformation de la drogue en assurent la stérilité dans son récipient immédiat;
-- **c)** est soumis aux autres épreuves que le Directeur juge satisfaisantes pour démontrer que la drogue est sûre à l’usage suivant le mode d’emploi.
-> DORS/86-552, art. 1; DORS/90-586, art. 3; DORS/93-202, art. 12; DORS/96-399, art. 3.
+	- **(ii)** dans le cas où le fabricant présente une preuve que le ministre juge satisfaisante démontrant que les contrôles employés dans la transformation de la drogue en assurent la stérilité dans son récipient immédiat;
+- **c)** est soumis aux autres épreuves que le ministre juge satisfaisantes pour démontrer que la drogue est sûre à l’usage suivant le mode d’emploi.
+> DORS/86-552, art. 1; DORS/90-586, art. 3; DORS/93-202, art. 12; DORS/96-399, art. 3; DORS/2018-69, art. 27.
 
 
 
@@ -27937,24 +27944,26 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 
 
 
-« MISE EN GARDE : L’agranulocytose fatale peut être associée à l’emploi de l’aminopyrine et de la dipyrone. Des congrès sanguins appropriés sont essentiels. (Voir mises en garde et précautions à l’intérieur) »; et que
+« MISE EN GARDE : L’agranulocytose fatale peut être associée à l’emploi de l’aminopyrine et de la dipyrone. Des congrès sanguins appropriés sont essentiels. (Voir mises en garde et précautions à l’intérieur) »; et que
 
 
 
-**b)** l’étiquette extérieure ou le dépliant compris dans l’emballage ne portent les déclarations suivantes :
+**b)** l’étiquette extérieure ou la notice d’accompagnement ne portent les déclarations suivantes :
 
 
 
-« MISE EN GARDE : Il est établi qu’une agranulocytose grave et même fatale peut survenir après l’administration de l’aminopyrine ou de la dipyrone. Une agranulocytose fatale est apparue après qu’on eut employé ces drogues pour une thérapie de courte durée, une thérapie intermittente ou une thérapie prolongée. Par conséquent, l’emploi de ces drogues devrait être d’une durée aussi brève que possible. Étant donné la possibilité de telles réactions, l’aminopyrine et la dipyrone ne devraient s’employer que lorsque des agents moins virtuellement dangereux sont inefficaces.
+« MISE EN GARDE : Il est établi qu’une agranulocytose grave et même fatale peut survenir après l’administration de l’aminopyrine ou de la dipyrone. Une agranulocytose fatale est apparue après qu’on eut employé ces drogues pour une thérapie de courte durée, une thérapie intermittente ou une thérapie prolongée. Par conséquent, l’emploi de ces drogues devrait être d’une durée aussi brève que possible. Étant donné la possibilité de telles réactions, l’aminopyrine et la dipyrone ne devraient s’employer que lorsque des agents moins virtuellement dangereux sont inefficaces.
 
 
 
-PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de leucocytes avec formule leucocytaire durant tout traitement avec ces drogues. Toutefois, il faut remarquer que l’agranulocytose peut se produire d’une façon subite sans aucun signe avant coureur. L’emploi de la drogue devrait être interrompu au premier signe d’un changement de la formule sanguine ou d’un symptôme d’agranulocytose, et il faudrait avertir le malade d’interrompre l’emploi de la drogue au premier signe du mal de gorge ou d’une autre infection de la bouche ou de la gorge (douleur, enflure, hyperesthésie, ulcération). »
+PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de leucocytes avec formule leucocytaire durant tout traitement avec ces drogues. Toutefois, il faut remarquer que l’agranulocytose peut se produire d’une façon subite sans aucun signe avant coureur. L’emploi de la drogue devrait être interrompu au premier signe d’un changement de la formule sanguine ou d’un symptôme d’agranulocytose, et il faudrait avertir le malade d’interrompre l’emploi de la drogue au premier signe du mal de gorge ou d’une autre infection de la bouche ou de la gorge (douleur, enflure, hyperesthésie, ulcération). »
 
 
 
 
 
+
+> DORS/2018-69, art. 34(F).
 
 
 
@@ -27973,7 +27982,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 #### Sels de potassium enrobés
 
 
-**C.01.134** Est interdite la vente de comprimés enrobés contenant des sels de potassium, avec ou sans diurétiques de thiazide, à moins que l’étiquette intérieure ou le dépliant compris dans l’emballage ne portent la déclaration suivante :
+**C.01.134** Est interdite la vente de comprimés enrobés contenant des sels de potassium, avec ou sans diurétiques de thiazide, à moins que l’étiquette intérieure ou la notice d’accompagnement ne portent la déclaration suivante :
 
 
 
@@ -27981,6 +27990,8 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
+
+> DORS/2018-69, art. 34(F).
 
 
 
@@ -28033,9 +28044,11 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 - **a)** l’étiquette intérieure ne porte un avertissement pour faire savoir
 	- **(i)** qu’une diminution de l’activité de la moëlle osseuse a été associée à l’emploi de chloramphénicol, et
 	- **(ii)** qu’il y a lieu de lire attentivement les avertissements et les précautions jointes; et
-- **b)** l’étiquette extérieure ou le prospectus d’emballage ne portent
+- **b)** l’étiquette extérieure ou la notice d’accompagnement ne portent
 	- **(i)** un avertissement pour faire savoir que le chloramphénicol ne devrait pas être employé dans le traitement ou la prévention des infections bénignes ou lorsqu’il n’est pas indiqué, comme pour les rhumes, la grippe, ou les infections des voies respiratoires supérieures; que deux types de diminution de l’activité de la moëlle osseuse sont associés à l’emploi de chloramphénicol; qu’une certaine diminution de l’activité de la moëlle osseuse est communément constatée durant le traitement, et qu’elle est fonction de la dose et potentiellement réversible; que des analyses de sang permettent de déceler les changements précoces; que l’autre forme de diminution de l’activité de la moëlle osseuse est très rare, se traduisant par une hypoplasie de la moëlle osseuse brutale, tardive et généralement fatale qui peut survenir sans avertissement, et
 	- **(ii)** une déclaration des précautions à prendre précisant qu’il est indispensable de faire des analyses de sang appropriées au cours du traitement par le chloramphénicol et que, bien que les analyses de sang permettent de déceler les modifications sanguines périphériques précoces, il ne faut pas s’y fier pour déceler la forme rare et généralement irréversible de diminution de l’activité de la moëlle osseuse avant l’apparition d’une anémie aplastique.
+> DORS/2018-69, art. 35(F).
+
 
 
 
@@ -28160,9 +28173,9 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 **C.01.606** Il est interdit de vendre pour le traitement des animaux une préparation d’antibiotique, autre qu’une préparation d’antibiotique qui est une drogue nouvelle vendue conformément à l’article C.08.013, à moins que les conditions suivantes ne soient remplies :
 - **a)** dans le cas où la préparation ne peut être administrée aux animaux en période de lactation dont le lait est destiné à être consommé comme aliment, une mention à cet effet figure sur les étiquettes intérieure et extérieure de la préparation;
 - **b)** dans le cas où la préparation peut être administrée aux animaux en période de lactation dont le lait est destiné à être consommé comme aliment :
-	- **(i)** il a été soumis au Directeur, sur demande, des preuves acceptables du délai ne dépassant pas 96 heures qui doit s’écouler après l’administration de la dernière dose de cette préparation pour que le lait des animaux traités ne contienne aucun résidu d’antibiotique qui soit dommageable à la santé de l’homme,
-	- **(ii)** l’espace principal de l’étiquette extérieure de la préparation, l’étiquette intérieure et, le cas échéant, la notice jointe à l’emballage qui décrit la préparation d’antibiotique portent la mise en garde suivante : **« MISE EN GARDE : LE LAIT PROVENANT DES ANIMAUX TRAITÉS QUI EST EXTRAIT PENDANT LE TRAITEMENT ET DANS LES ... HEURES APRÈS ADMINISTRATION DE LA DERNIÈRE DOSE NE DOIT PAS ÊTRE UTILISÉ COMME ALIMENT. »**, le nombre d’heures à indiquer étant celui du délai déterminé selon les preuves soumises aux termes du sous-alinéa (i).
-> DORS/88-378, art. 1; DORS/92-664, art. 2; DORS/93-467, art. 1.
+	- **(i)** il a été soumis au ministre, sur demande, des preuves acceptables du délai ne dépassant pas 96 heures qui doit s’écouler après l’administration de la dernière dose de cette préparation pour que le lait des animaux traités ne contienne aucun résidu d’antibiotique qui soit dommageable à la santé de l’homme,
+	- **(ii)** l’espace principal de l’étiquette extérieure de la préparation, l’étiquette intérieure et, le cas échéant, la notice jointe à l’emballage qui décrit la préparation d’antibiotique portent la mise en garde suivante : **« MISE EN GARDE : LE LAIT PROVENANT DES ANIMAUX TRAITÉS QUI EST EXTRAIT PENDANT LE TRAITEMENT ET DANS LES ... HEURES APRÈS ADMINISTRATION DE LA DERNIÈRE DOSE NE DOIT PAS ÊTRE UTILISÉ COMME ALIMENT. »**, le nombre d’heures à indiquer étant celui du délai déterminé selon les preuves soumises aux termes du sous-alinéa (i).
+> DORS/88-378, art. 1; DORS/92-664, art. 2; DORS/93-467, art. 1; DORS/2018-69, art. 27.
 
 
 
@@ -28183,7 +28196,9 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
-**C.01.609** Nonobstant les dispositions de l’alinéa C.01.401a), l’activité d’un antibiotique en quantités dépassant 50 parties par million contenu dans un aliment médicamenté du bétail, enregistré en vertu de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), peut être déclarée en grammes par tonne.
+**C.01.609** Malgré l’alinéa C.01.401a), l’activité d’un antibiotique en quantités dépassant 50 parties par million contenu dans un aliment médicamenté du bétail, enregistré en vertu de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), peut être déclarée en grammes par tonne.
+> DORS/2018-69, art. 20.
+
 
 
 
@@ -28216,12 +28231,12 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.01.611** 
 
-- **(1)** Le Directeur peut, par écrit, exiger de temps à autre du fabricant d’une drogue recommandée pour administration aux animaux qui peuvent servir d’aliment
+- **(1)** Le ministre peut, par écrit, exiger de temps à autre du fabricant d’une drogue recommandée pour administration aux animaux qui peuvent servir d’aliment
 	- **a)** une présentation relative à la drogue décrivant en détail les épreuves conduites pour vérifier qu’aucune substance mentionnée à la colonne II de la Liste visée par l’[Autorisation de mise en marché – limites maximales de résidus de drogues pour usage vétérinaire dans les aliments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/87.md) ne demeure dans un aliment mentionné à la colonne III, sauf dans la limite maximale de résidu prévue à la colonne IV pour cet aliment et cette substance;
-	- **b)** l’impression, dans l’espace principal de l’étiquette extérieure, sur l’étiquette intérieure et, le cas échéant, sur la notice jointe à l’emballage qui décrit la drogue, d’une mise en garde indiquant que les aliments provenant d’animaux auxquels a été administrée cette drogue ne peuvent être vendus pour consommation humaine que s’il s’est écoulé depuis cette administration le délai que fixe le Directeur en se fondant sur une étude des données connues sur les résidus de la drogue.
+	- **b)** l’impression, dans l’espace principal de l’étiquette extérieure, sur l’étiquette intérieure et, le cas échéant, sur la notice jointe à l’emballage qui décrit la drogue, d’une mise en garde indiquant que les aliments provenant d’animaux auxquels a été administrée cette drogue ne peuvent être vendus pour consommation humaine que s’il s’est écoulé depuis cette administration le délai que fixe le ministre en se fondant sur une étude des données connues sur les résidus de la drogue.
 
-- **(2)** Il est interdit à tout fabricant de vendre une drogue au sujet de laquelle le Directeur a exigé la mise en garde mentionnée à l’alinéa (1)b) si ledit fabricant n’a pas fait droit à ladite exigence.
-> DORS/93-467, art. 2; DORS/2016-74, art. 10.
+- **(2)** Il est interdit à tout fabricant de vendre une drogue au sujet de laquelle le ministre a exigé la mise en garde mentionnée à l’alinéa (1)b) si ledit fabricant n’a pas fait droit à ladite exigence.
+> DORS/93-467, art. 2; DORS/2016-74, art. 10; DORS/2018-69, art. 27.
 
 
 
@@ -28946,8 +28961,8 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 #### Personnel
 
 
-**C.02.006** Chaque lot ou lot de fabrication d’une drogue doit être manufacturé, emballé-étiqueté, analysé et entreposé sous la surveillance d’un personnel qui, sur le plan des fonctions et responsabilités en cause, a reçu une formation technique, une formation théorique de même qu’un autre type de formation que le Directeur juge satisfaisantes dans l’intérêt de la santé du consommateur ou de l’acheteur.
-> DORS/82-524, art. 3; DORS/85-754, art. 2; DORS/97-12, art. 52.
+**C.02.006** Chaque lot ou lot de fabrication d’une drogue doit être manufacturé, emballé-étiqueté, analysé et entreposé sous la surveillance d’un personnel qui, sur le plan des fonctions et responsabilités en cause, a reçu une formation technique, une formation théorique de même qu’un autre type de formation que le ministre juge satisfaisantes dans l’intérêt de la santé du consommateur ou de l’acheteur.
+> DORS/82-524, art. 3; DORS/85-754, art. 2; DORS/97-12, art. 52; DORS/2018-69, art. 27.
 
 
 
@@ -28996,9 +29011,9 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 - **(5)** Si les spécifications visées aux paragraphes (1), (2) et (4) ne sont pas prescrites, elles doivent
 	- **a)** être par écrit;
-	- **b)** être jugées acceptables par le Directeur, qui tiendra compte des spécifications énoncées dans les publications visées à l’annexe B de la Loi; et
+	- **b)** être jugées acceptables par le ministre, qui tiendra compte des spécifications énoncées dans les publications visées à l’annexe B de la Loi; et
 	- **c)** être approuvées par le responsable du service du contrôle de la qualité.
-> DORS/82-524, art. 3; DORS/97-12, art. 59.
+> DORS/82-524, art. 3; DORS/97-12, art. 59; DORS/2018-69, art. 27.
 
 
 
@@ -29008,13 +29023,13 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **(1)** Les analyses visées à l’article C.02.009 doivent être effectuées sur un échantillon prélevé
 	- **a)** après la réception de chaque lot ou chaque lot de fabrication de matières premières dans les locaux du manufacturier; ou
 	- **b)** sous réserve du paragraphe (2), avant la réception de chaque lot ou chaque lot de fabrication de matières premières dans les locaux du manufacturier,
-		- **(i)** si ce manufacturier :
-			- **(A)** prouve, à la satisfaction du Directeur, que les matières premières qui lui ont été vendues par le vendeur du lot ou du lot de fabrication sont fabriquées d’une façon constante selon les spécifications établies pour ces matières et qu’elles s’y conforment de manière constante, et
-			- **(B)** effectue des analyses de vérification complètes à une fréquence satisfaisant le Directeur, et
+		- **(i)** si ce manufacturier :
+			- **(A)** prouve, à la satisfaction du ministre, que les matières premières qui lui ont été vendues par le vendeur du lot ou du lot de fabrication sont fabriquées d’une façon constante selon les spécifications établies pour ces matières et qu’elles s’y conforment de manière constante, et
+			- **(B)** effectue des analyses de vérification complètes à une fréquence satisfaisant le ministre, et
 		- **(ii)** si les matières premières n’ont pas été transportées ni entreposées dans des conditions pouvant modifier leur conformité aux spécifications établies à leur égard.
 
 - **(2)** Chaque lot ou chaque lot de fabrication de matières premières reçu dans les locaux du manufacturier, doit être soumis à une analyse d’identité.
-> DORS/82-524, art. 3; DORS/97-12, art. 12 et 60.
+> DORS/82-524, art. 3; DORS/97-12, art. 12 et 60; DORS/2018-69, art. 27.
 
 
 
@@ -29105,9 +29120,9 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 - **(3)** Les spécifications visées aux paragraphes (1) et (2) doivent
 	- **a)** être par écrit;
-	- **b)** être jugées acceptables par le Directeur, qui tiendra compte des spécifications prévues dans les publications visées à l’annexe B de la Loi; et
+	- **b)** être jugées acceptables par le ministre, qui tiendra compte des spécifications prévues dans les publications visées à l’annexe B de la Loi; et
 	- **c)** être approuvées par le responsable du service du contrôle de la qualité.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F).
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/2018-69, art. 27.
 
 
 
@@ -29116,16 +29131,16 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 - **(1)** Les examens ou les analyses visés à l’article C.02.016 doivent être effectués sur un échantillon prélevé
 	- **a)** après la réception de chaque lot ou chaque lot de fabrication de matériel d’emballage dans les locaux de la personne qui emballe-étiquette une drogue; ou
-	- **b)** sous réserve du paragraphe (2), avant la réception de chaque lot ou lot de fabrication de matériel d’emballage dans les locaux de la personne qui emballe une drogue :
+	- **b)** sous réserve du paragraphe (2), avant la réception de chaque lot ou lot de fabrication de matériel d’emballage dans les locaux de la personne qui emballe une drogue :
 		- **(i)** si cette personne
-			- **(A)** prouve, à la satisfaction du Directeur, que le matériel d’emballage qui lui a été vendu par le vendeur du lot ou du lot de fabrication est fabriqué d’une façon constante selon les spécifications établies pour ce matériel et qu’il s’y conforme de manière constante, et
-			- **(B)** effectue des examens ou des analyses de vérification complets à une fréquence satisfaisant le Directeur, et
+			- **(A)** prouve, à la satisfaction du ministre, que le matériel d’emballage qui lui a été vendu par le vendeur du lot ou du lot de fabrication est fabriqué d’une façon constante selon les spécifications établies pour ce matériel et qu’il s’y conforme de manière constante, et
+			- **(B)** effectue des examens ou des analyses de vérification complets à une fréquence satisfaisant le ministre, et
 		- **(ii)** si le matériel d’emballage n’a pas été transporté ni entreposé dans des conditions pouvant modifier sa conformité aux spécifications établies à son égard.
 
 - **(2)** Sur réception d’un lot ou d’un lot de fabrication de matériel d’emballage dans les locaux de la personne qui emballe-étiquette la drogue
 	- **a)** le lot ou le lot de fabrication de matériel d’emballage doit être soumis à un examen ou à une analyse d’identité; et
 	- **b)** les étiquettes doivent être examinées ou analysées pour assurer leur conformité aux spécifications établies à leur égard.
-> DORS/82-524, art. 3; DORS/89-174, art. 2(F) et 8(F); DORS/97-12, art. 56(F).
+> DORS/82-524, art. 3; DORS/89-174, art. 2(F) et 8(F); DORS/97-12, art. 56(F); DORS/2018-69, art. 27.
 
 
 
@@ -29155,8 +29170,8 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 	- **a)** soit après la réception au Canada, dans ses locaux, du lot ou lot de fabrication de la drogue;
 	- **b)** soit avant la réception du lot ou lot de fabrication dans ses locaux, si les conditions ci-après sont réunies :
 		- **(i)** l’emballeur-étiqueteur, le distributeur ou l’importateur :
-			- **(A)** établit à la satisfaction du Directeur que la drogue qui lui a été vendue par le vendeur du lot ou lot de fabrication a été fabriquée d’une façon constante selon les spécifications établies pour celle-ci et qu’elle est invariablement conforme à ces spécifications,
-			- **(B)** effectue des analyses de vérification complètes à une fréquence acceptable selon le Directeur,
+			- **(A)** établit à la satisfaction du ministre que la drogue qui lui a été vendue par le vendeur du lot ou lot de fabrication a été fabriquée d’une façon constante selon les spécifications établies pour celle-ci et qu’elle est invariablement conforme à ces spécifications,
+			- **(B)** effectue des analyses de vérification complètes à une fréquence acceptable selon le ministre,
 		- **(ii)** la drogue n’a pas été transportée ou entreposée dans des conditions pouvant faire en sorte qu’elle ne soit plus conforme aux spécifications établies à son égard.
 
 - **(2)** Chaque lot ou lot de fabrication d’une drogue reçu au Canada dans les locaux de l’emballeur-étiqueteur, du distributeur ou de l’importateur doit, lorsque la période de vie utile de cette drogue est de plus de 30 jours, être soumis à une analyse d’identité, celle-ci devant être confirmée par l’emballeur-étiqueteur après l’emballage-étiquetage.
@@ -29166,7 +29181,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **(4)** Les paragraphes (1) et (2) ne s’appliquent ni au distributeur, ni à l’importateur si la drogue est manufacturée, emballée-étiquetée et analysée dans un bâtiment reconnu d’un pays participant et si les conditions ci-après sont réunies :
 	- **a)** l’adresse du bâtiment est indiquée dans la licence d’établissement du distributeur ou de l’importateur;
 	- **b)** pour chaque lot ou lot de fabrication de la drogue qu’il reçoit, le distributeur ou l’importateur conserve une copie du certificat de lot.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 16 et 57; DORS/2000-120, art. 11; DORS/2002-368, art. 10; DORS/2013-74, art. 11.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 16 et 57; DORS/2000-120, art. 11; DORS/2002-368, art. 10; DORS/2013-74, art. 11; DORS/2018-69, art. 27.
 
 
 
@@ -29184,7 +29199,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 	- **d)** une preuve attestant la période pendant laquelle la drogue demeurera conforme aux spécifications établies à son égard dans le contenant dans lequel elle est mise en vente ou rendue disponible pour utilisation ultérieure dans le cadre du processus de manufacture;
 	- **e)** une preuve attestant que les analyses du produit fini prévues à l’article C.02.018 ont été faites, accompagnée des résultats de celles-ci.
 
-- **(2)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur fournissent au Directeur, sur demande, les résultats des analyses des matières premières et des matériaux d’emballage-étiquetage effectuées pour chaque lot ou lot de fabrication d’une drogue qu’ils distribuent ou importent.
+- **(2)** Le distributeur visé à l’alinéa C.01A.003b) et l’importateur fournissent au ministre, sur demande, les résultats des analyses des matières premières et des matériaux d’emballage-étiquetage effectuées pour chaque lot ou lot de fabrication d’une drogue qu’ils distribuent ou importent.
 
 - **(3)** Le manufacturier conserve dans ses locaux les spécifications écrites relatives à ces matières ainsi qu’une preuve satisfaisante des analyses prévues à l’article C.02.009 et les résultats de celles-ci.
 
@@ -29193,7 +29208,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **(5)** Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada les plans et devis détaillés de chacun des bâtiments au Canada où la drogue est manufacturée, emballée-étiquetée ou analysée ainsi qu’une description de la conception et de la construction de ces bâtiments.
 
 - **(6)** Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada un dossier sur chaque membre de son personnel qui supervise les opérations visant à manufacturer, emballer-étiqueter ou analyser la drogue, notamment son titre, ses responsabilités, ses qualifications, son expérience et sa formation.
-> DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60; DORS/2013-74, art. 11.
+> DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60; DORS/2013-74, art. 11; DORS/2018-69, art. 27.
 
 
 
@@ -29387,8 +29402,8 @@ où l’élément de filiation est séparé de l’élément mère,
 
 
 
-**C.03.012** À la demande écrite du Directeur, le manufacturier, l’emballeur-étiqueteur, l’analyste, le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent soumettre les protocoles des essais en même temps que des échantillons de tout lot ou maître-lot de drogue avant sa vente, et il est interdit de vendre tout lot dont le protocole ou l’échantillon ne satisfait pas aux exigences du présent règlement.
-> DORS/97-12, art. 27.
+**C.03.012** À la demande écrite du ministre, le manufacturier, l’emballeur-étiqueteur, l’analyste, le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent soumettre les protocoles des essais en même temps que des échantillons de tout lot ou maître-lot de drogue avant sa vente, et il est interdit de vendre tout lot dont le protocole ou l’échantillon ne satisfait pas aux exigences du présent règlement.
+> DORS/97-12, art. 27; DORS/2018-69, art. 27.
 
 
 
@@ -29448,7 +29463,7 @@ où l’élément de filiation est séparé de l’élément mère,
 		- **(i)** l’adresse du distributeur visé à l’alinéa C.01A.003b),
 		- **(ii)** la norme à laquelle est censée répondre la drogue, s’il est fait mention de cette norme dans une publication mentionnée à l’annexe B de la Loi,
 		- **(iii)** la mention de la forme pharmaceutique ou de la voie d’administration de la drogue,
-		- **(iv)** la mention de l’emploi recommandé et de la radioactivité qu’il est recommandé d’administrer pour ledit emploi, ou une indication renvoyant au prospectus d’emballage où figurent les mêmes renseignements,
+		- **(iv)** la mention de l’emploi recommandé et de la radioactivité qu’il est recommandé d’administrer pour ledit emploi, ou une indication renvoyant à la notice d’accompagnement où figurent les mêmes renseignements,
 		- **(v)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « *Establishment Licence Number* » ou d’une abréviation de cette mention,
 		- **(vi)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »,
 		- **(vii)** les noms et les quantités de tout agent de conservation ou agent stabilisant que contient la drogue,
@@ -29465,17 +29480,17 @@ où l’élément de filiation est séparé de l’élément mère,
 
 - **(2)** [Abrogé, DORS/2001-203, art. 2]
 
-- **(3)** Le sous-alinéa (1)b)(viii) du présent article, ne s’applique pas lorsque les renseignements mentionnés dans ledit sous-alinéa figurent sur le prospectus d’emballage de la drogue.
+- **(3)** Le sous-alinéa (1)b)(viii) du présent article, ne s’applique pas lorsque les renseignements mentionnés dans ledit sous-alinéa figurent sur la notice d’accompagnement de la drogue.
 
 - **(4)** L’article C.01.005 ne s’applique pas aux produits pharmaceutiques radioactifs.
-> DORS/79-236, art. 2; DORS/93-202, art. 16; DORS/97-12, art. 54, 58 et 62; DORS/2001-203, art. 2; DORS/2012-129, art. 2.
+> DORS/79-236, art. 2; DORS/93-202, art. 16; DORS/97-12, art. 54, 58 et 62; DORS/2001-203, art. 2; DORS/2012-129, art. 2; DORS/2018-69, art. 35(F).
 
 
 
 
 **C.03.203** 
 
-- **(1)** Un générateur de radionucléide doit porter sur son étiquette intérieure
+- **(1)** Un générateur de radionucléide porte sur son étiquette intérieure, à la fois :
 	- **a)** le nom propre du générateur de radionucléide, immédiatement avant ou après la marque nominative, le cas échéant;
 	- **b)** le nom et l’adresse du distributeur visé à l’alinéa C.01A.003b);
 	- **c)** le numéro du lot;
@@ -29487,11 +29502,11 @@ où l’élément de filiation est séparé de l’élément mère,
 	- **i)** la mention de la vie utile recommandée ou de la date après laquelle l’utilisation du générateur de radionucléide est déconseillée (le mois étant inscrit ou indiqué en abrégé);
 	- **j)** la mention de la vie utile recommandée de la drogue après son extraction du générateur de radionucléide;
 	- **k)** la mention des exigences particulières de température ou de blindage en entrepôt;
-	- **l)** le mode d’emploi complet ou le renvoi à un document accompagnant l’emballage extérieur qui indique ces renseignements; et
+	- **l)** le mode d’emploi complet ou le renvoi à une notice d’accompagnement qui indique ces renseignements;
 	- **m)** une mise en garde contre le démontage du générateur de radionucléide.
 
-- **(2)** Les alinéas (1)i) et j) du présent article ne s’appliquent pas lorsque les renseignements qu’ils exigent apparaissent sur un document qui accompagne un générateur de radionucléide.
-> DORS/79-236, art. 3; DORS/93-202, art. 17; DORS/97-12, art. 54, 58 et 62; DORS/2012-129, art. 3.
+- **(2)** Les alinéas (1)i) et j) du présent article ne s’appliquent pas lorsque les renseignements qu’ils exigent apparaissent sur une notice d’accompagnement d’un générateur de radionucléide.
+> DORS/79-236, art. 3; DORS/93-202, art. 17; DORS/97-12, art. 54, 58 et 62; DORS/2012-129, art. 3; DORS/2018-69, art. 21(F) et 22(F).
 
 
 
@@ -29537,8 +29552,8 @@ où l’élément de filiation est séparé de l’élément mère,
 - **d)** le numéro de lot;
 - **e)** une déclaration des exigences spéciales d’entreposage quant à la température et la lumière;
 - **f)** la date après laquelle le constituant n’est pas recommandé pour usage, le mois étant inscrit au long ou indiqué en abrégé; et
-- **g)** le mode d’emploi approprié ou le renvoi à une prospectus de conditionnement accompagnant le produit.
-> DORS/79-236, art. 4; DORS/97-12, art. 58.
+- **g)** le mode d’emploi approprié ou le renvoi à une notice d’accompagnement.
+> DORS/79-236, art. 4; DORS/97-12, art. 58; DORS/2018-69, art. 23(F).
 
 
 
@@ -29554,18 +29569,18 @@ où l’élément de filiation est séparé de l’élément mère,
 - **h)** la date après laquelle la trousse n’est pas recommandée pour usage, le mois étant inscrit au long ou indiqué en abrégé;
 - **i)** une liste quantitative des ingrédients d’un constituant lorsque l’étiquette de ce constituant renvoie à l’étiquette d’une trousse qui porte des renseignements concernant ses ingrédients;
 - **j)** une déclaration de la stérilité et de l’apyrogénicité des composants;
-- **k)** le mode d’emploi approprié pour la préparation de produits pharmaceutiques radioactifs ou le renvoi, pour ces renseignements, à un prospectus de conditionnement;
+- **k)** le mode d’emploi approprié pour la préparation de produits pharmaceutiques radioactifs ou le renvoi, pour ces renseignements, à une notice d’accompagnement;
 - **l)** une déclaration de la vie utile du produit pharmaceutique radioactif préparé;
 - **m)** les conditions de conservation recommandées pour le produit pharmaceutique radioactif préparé;
-- **n)** l’usage recommandé pour le produit pharmaceutique radioactif préparé et la dose de radioactivité recommandée pour cet usage ou le renvoi, pour ces renseignements, à un prospectus de conditionnement;
+- **n)** l’usage recommandé pour le produit pharmaceutique radioactif préparé et la dose de radioactivité recommandée pour cet usage ou le renvoi, pour ces renseignements, à une notice d’accompagnement;
 - **o)** la voie d’administration prévue pour le produit pharmaceutique radioactif préparé.
 - **p)** [Abrogé, DORS/2001-203, art. 3]
-> DORS/79-236, art. 4; DORS/93-202, art. 18; DORS/97-12, art. 58 et 62; DORS/2001-203, art. 3.
+> DORS/79-236, art. 4; DORS/93-202, art. 18; DORS/97-12, art. 58 et 62; DORS/2001-203, art. 3; DORS/2018-69, art. 36(F).
 
 
 
 
-**C.03.209** Chaque trousse doit contenir un prospectus de conditionnement qui doit indiquer,
+**C.03.209** Chaque trousse doit contenir une notice d’accompagnement qui doit indiquer,
 - **a)** le nom propre et la marque nominative, le cas échéant, de la trousse et une description de son usage;
 - **b)** une liste de son contenu;
 - **c)** le nom et l’adresse de son distributeur visé à l’alinéa C.01A.003b);
@@ -29581,7 +29596,7 @@ où l’élément de filiation est séparé de l’élément mère,
 - **m)** une déclaration de l’usage recommandé pour le produit pharmaceutique radioactif recommandée pour cet usage;
 - **n)** une déclaration de la voie d’administration prévue pour le produit pharmaceutique radioactif préparé; et
 - **o)** une recommandation selon laquelle la pureté radiochimique et la teneur radioactive du produit pharmaceutique radioactif préparé doivent être vérifiées avant l’administration.
-> DORS/79-236, art. 4; DORS/93-202, art. 19; DORS/97-12, art. 58.
+> DORS/79-236, art. 4; DORS/93-202, art. 19; DORS/97-12, art. 58; DORS/2018-69, art. 36(F).
 
 
 
@@ -29819,15 +29834,8 @@ où l’élément de filiation est séparé de l’élément mère,
 - **a)** sur l’étiquette intérieure de la drogue destinée à l’étude :
 	- **(i)** son numéro de lot de fabrication unique,
 	- **(ii)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »;
-- **b)** dans l’encart informatif accompagnant la drogue destinée à l’étude :
-	- **(i)** une mention qu’elle ne peut être utilisée que sous la surveillance d’un chercheur qualifié,
-	- **(ii)** le nom chimique ou générique de ses ingrédients actifs,
-	- **(iii)** les nom et adresse municipale du fabricant,
-	- **(iv)** les nom et adresse municipale du promoteur,
-	- **(v)** le code ou l’identification du protocole,
-	- **(vi)** les mises en garde et précautions relatives à son utilisation,
-	- **(vii)** la liste des réactions indésirables possibles liées à son utilisation.
-> DORS/2012-129, art. 5.
+- **b)** dans la notice d’accompagnement de la drogue destinée à l’étude.
+> DORS/2012-129, art. 5; DORS/2018-69, art. 24(F).
 
 
 
@@ -30040,8 +30048,8 @@ où l’élément de filiation est séparé de l’élément mère,
 
 
 
-**C.04.015** À la demande écrite du Directeur, le manufacturier, l’emballeur-étiqueteur, l’analyste, le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent soumettre les protocoles des essais en même temps que les échantillons de tout lot de la drogue avant sa vente, et il est interdit de vendre tout lot dont le protocole ou un échantillon ne satisfait pas aux exigences du présent règlement.
-> DORS/97-12, art. 37.
+**C.04.015** À la demande écrite du ministre, le manufacturier, l’emballeur-étiqueteur, l’analyste, le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue doivent soumettre les protocoles des essais en même temps que les échantillons de tout lot de la drogue avant sa vente, et il est interdit de vendre tout lot dont le protocole ou un échantillon ne satisfait pas aux exigences du présent règlement.
+> DORS/97-12, art. 37; DORS/2018-69, art. 27.
 
 
 
@@ -30168,9 +30176,11 @@ et l’étiquette intérieure des récipients à dose unique doit porter la déc
 
 
 **C.04.070** Le vaccin B.C.G. doit être préparé à partir d’organismes B.C.G. vivants qui
-- **a)** ont été obtenus directement d’une source approuvée par le Directeur;
+- **a)** ont été obtenus directement d’une source approuvée par le ministre;
 - **b)** sont reconnus non pathogènes par une méthode acceptable; et
 - **c)** ont des antécédents de succès dans la production du vaccin B.C.G.
+> DORS/2018-69, art. 27.
+
 
 
 
@@ -30298,8 +30308,8 @@ et être conforme aux exigences du présent règlement relatif aux vaccins bact�
 
 
 
-**C.04.102** À la demande écrite du Directeur, le manufacturier et l’emballeur-étiqueteur doivent déposer pour chaque lot de virus vaccinal ou de vaccin de rickettsies prêt pour la vente des protocoles détaillés des essais de stérilité, de sécurité, d’identité, d’activité et de tout autre essai requis par le présent règlement.
-> DORS/97-12, art. 63.
+**C.04.102** À la demande écrite du ministre, le manufacturier et l’emballeur-étiqueteur doivent déposer pour chaque lot de virus vaccinal ou de vaccin de rickettsies prêt pour la vente des protocoles détaillés des essais de stérilité, de sécurité, d’identité, d’activité et de tout autre essai requis par le présent règlement.
+> DORS/97-12, art. 63; DORS/2018-69, art. 27.
 
 
 
@@ -30417,8 +30427,8 @@ et être conforme aux exigences du présent règlement relatif aux vaccins bact�
 
 
 
-**C.04.127** La date limite d’utilisation du vaccin antipoliomyélitique ne doit pas dépasser 12 mois après la date de la dernière épreuve satisfaisante d’activité à moins que des preuves, jugées satisfaisantes par le Directeur, ne soient présentées justifiant d’une période plus longue.
-> DORS/85-715, art. 6.
+**C.04.127** La date limite d’utilisation du vaccin antipoliomyélitique ne doit pas dépasser 12 mois après la date de la dernière épreuve satisfaisante d’activité à moins que des preuves, jugées satisfaisantes par le ministre, ne soient présentées justifiant d’une période plus longue.
+> DORS/85-715, art. 6; DORS/2018-69, art. 27.
 
 
 
@@ -30428,11 +30438,13 @@ et être conforme aux exigences du présent règlement relatif aux vaccins bact�
 
 
 **C.04.128** Le **Vaccin buccal de poliovirus vivant** et le **Vaccin buccal de poliovirus (nom de la souche) vivant,** doivent être préparés avec des virus poliomyélitiques vivants des types I, II et III, lesquels
-- **a)** ont été obtenus directement d’une source acceptable par le Directeur;
+- **a)** ont été obtenus directement d’une source acceptable par le ministre;
 - **b)** démontrent une stabilité génétique établie par une méthode acceptable;
 - **c)** sont démontrés non pathogènes lorsqu’ils sont administrés par voie buccale chez les humains;
 - **d)** sont prouvés capables de proliférer dans le tube digestif humain, et de produire des anticorps neutralisants de leur type spécifique lorsqu’ils sont administrés par voie buccale; et
 - **e)** ont été employés avec succès pendant assez longtemps dans la production de vaccin buccal contre la poliomyélite à base de virus vivants.
+> DORS/2018-69, art. 27.
+
 
 
 
@@ -30449,9 +30461,9 @@ et être conforme aux exigences du présent règlement relatif aux vaccins bact�
 
 
 **C.04.131** Nonobstant les articles C.04.129 et C.04.130, un manufacturier peut fabriquer d’autres drogues dans un lieu qui sert, de temps à autre, à la fabrication du vaccin buccal de poliovirus vivant, lorsque ce lieu ne sert pas à la fabrication dudit vaccin, pourvu que
-- **a)** les lieux soient nettoyés et désinfectés par des méthodes acceptables au Directeur, avant et après chaque fabrication de ce vaccin; et
-- **b)** le manufacturier ait reçu par écrit du Directeur, la permission d’effectuer cette fabrication d’autres drogues.
-> DORS/97-12, art. 61.
+- **a)** les lieux soient nettoyés et désinfectés par des méthodes acceptables au ministre, avant et après chaque fabrication de ce vaccin; et
+- **b)** le manufacturier ait reçu par écrit du ministre, la permission d’effectuer cette fabrication d’autres drogues.
+> DORS/97-12, art. 61; DORS/2018-69, art. 27.
 
 
 
@@ -30460,7 +30472,9 @@ et être conforme aux exigences du présent règlement relatif aux vaccins bact�
 - **a)** dans une culture de tissus,
 - **b)** dans un milieu, et
 - **c)** par des méthodes
-jugés acceptables par le Directeur.
+jugés acceptables par le ministre.
+> DORS/2018-69, art. 27.
+
 
 
 
@@ -30470,8 +30484,8 @@ jugés acceptables par le Directeur.
 
 
 
-**C.04.134** Un manufacturier de vaccin buccal de poliovirus vivant doit éprouver chaque lot de vaccin pour sa neurovirulence et ses traits génétiques marquants, par une méthode acceptable du Directeur, et ce vaccin doit remplir les conditions exigées par le Directeur.
-> DORS/97-12, art. 61.
+**C.04.134** Un manufacturier de vaccin buccal de poliovirus vivant doit éprouver chaque lot de vaccin pour sa neurovirulence et ses traits génétiques marquants, par une méthode acceptable du ministre, et ce vaccin doit remplir les conditions exigées par le ministre.
+> DORS/97-12, art. 61; DORS/2018-69, art. 27.
 
 
 
@@ -30982,9 +30996,9 @@ jugés acceptables par le Directeur.
 **C.04.555** 
 
 - **(1)** Le manufacturier ne doit pas vendre d’injection insulinique à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot d’insuline ou de cristaux d’insuline-zinc, ayant servi à la fabrication de l’injection insulinique,
@@ -30998,7 +31012,7 @@ jugés acceptables par le Directeur.
 		- **(ii)** un rapport du dosage de la teneur en zinc, en milligrammes par 1 000 unités internationales d’insuline,
 		- **(iii)** un rapport sur la détermination du pH.
 		- **(iv)** [Abrogé, DORS/95-203, art. 2]
-> DORS/82-769, art. 4; DORS/95-203, art. 2; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 2; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31052,9 +31066,9 @@ jugés acceptables par le Directeur.
 **C.04.561** 
 
 - **(1)** Le manufacturier ne doit pas vendre une suspension d’insuline-zinc d’absorption rapide à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot d’insuline ou de cristaux d’insuline-zinc, ayant servi à la fabrication de la suspension d’insuline-zinc d’absorption rapide,
@@ -31074,7 +31088,7 @@ jugés acceptables par le Directeur.
 		- **(ii)** un rapport sur l’examen du précipité au microscope,
 		- **(iii)** un rapport sur son identification faite d’après une méthode acceptable.
 		- **(iv)** [Abrogé, DORS/95-203, art. 3]
-> DORS/82-769, art. 4; DORS/95-203, art. 3; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 3; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31128,15 +31142,15 @@ jugés acceptables par le Directeur.
 **C.04.567** 
 
 - **(1)** Le manufacturier ne doit pas vendre une suspension d’insuline-zinc d’absorption moyenne à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot d’insuline ou de cristaux d’insuline-zinc ayant servi à la fabrication d’une suspension insuline-zinc d’absorption moyenne,
 		- **(i)** les protocoles du titrage de l’activité exprimée en unités internationales par centimètre cube, dans le cas de l’insuline, et en unités internationales par milligramme, dans le cas des cristaux d’insuline-zinc,
-		- **(ii)** un rapport de la teneur en humidité, exprimée en pourcentage et déterminée par dessiccation à poids constant à 100 °C, dans le cas des cristaux d’insuline-zinc, et
-		- **(iii)** des rapports du dosage de la teneur en azote en milligrammes et de la teneur en zinc en milligrammes par 1 000 unités internationales d’insuline;
+		- **(ii)** un rapport de la teneur en humidité, exprimée en pourcentage et déterminée par dessiccation à poids constant à 100 °C, dans le cas des cristaux d’insuline-zinc, et
+		- **(iii)** des rapports du dosage de la teneur en azote en milligrammes et de la teneur en zinc en milligrammes par 1 000 unités internationales d’insuline;
 	- **b)** à l’égard du premier lot fini de suspension d’insuline-zinc d’absorption moyenne préparée avec chaque maître-lot d’insuline ou de cristaux d’insuline-zinc,
 		- **(i)** un rapport sur la quantité de chaque composant entrant dans la préparation,
 		- **(ii)** un rapport du dosage de la teneur en azote exprimée en milligrammes par centimètre cube ou par 1 000 unités internationales d’insuline,
@@ -31151,7 +31165,7 @@ jugés acceptables par le Directeur.
 		- **(ii)** un rapport sur l’examen du précipité au microscope,
 		- **(iii)** un rapport sur son identification faite d’après une méthode acceptable.
 		- **(iv)** [Abrogé, DORS/95-203, art. 4]
-> DORS/82-769, art. 4; DORS/95-203, art. 4; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 4; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31205,9 +31219,9 @@ jugés acceptables par le Directeur.
 **C.04.573** 
 
 - **(1)** Le manufacturier ne doit pas vendre une suspension d’insuline-zinc d’absorption prolongée à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot d’insuline ou de cristaux d’insuline-zinc ayant servi à la fabrication de la suspension d’insuline-zinc d’absorption prolongée,
@@ -31228,7 +31242,7 @@ jugés acceptables par le Directeur.
 		- **(ii)** un rapport sur l’examen du précipité au microscope,
 		- **(iii)** un rapport sur son identification faite d’après une méthode acceptable.
 		- **(iv)** [Abrogé, DORS/95-203, art. 5]
-> DORS/82-769, art. 4; DORS/95-203, art. 5; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 5; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31270,12 +31284,12 @@ jugés acceptables par le Directeur.
 
 **C.04.578** 
 
-- **(1)** L’étalon canadien pour l’insuline-globine avec zinc doit être l’étalon adopté de temps à autre par le Directeur général pour ladite préparation.
+- **(1)** L’étalon canadien pour l’insuline-globine avec zinc doit être l’étalon adopté de temps à autre par le ministre pour ladite préparation.
 
-- **(2)** À la demande du titulaire de licence d’établissement, le Directeur général doit lui procurer un échantillon de l’étalon canadien et les directives nécessaires pour faire des essais comparatifs.
+- **(2)** À la demande du titulaire de licence d’établissement, le ministre doit lui procurer un échantillon de l’étalon canadien et les directives nécessaires pour faire des essais comparatifs.
 
-- **(3)** L’essai de la réaction biologique de l’insuline-globine avec zinc doit être fait suivant une méthode acceptable et cette réaction biologique doit être comparable à la réaction biologique de l’échantillon et l’étalon canadien procuré par le Directeur général.
-> DORS/82-769, art. 4; DORS/97-12, art. 64.
+- **(3)** L’essai de la réaction biologique de l’insuline-globine avec zinc doit être fait suivant une méthode acceptable et cette réaction biologique doit être comparable à la réaction biologique de l’échantillon et l’étalon canadien procuré par le ministre.
+> DORS/82-769, art. 4; DORS/97-12, art. 64; DORS/2018-69, art. 31(A) et 32(F).
 
 
 
@@ -31293,9 +31307,9 @@ jugés acceptables par le Directeur.
 **C.04.580** 
 
 - **(1)** Le manufacturier ne doit pas vendre de l’insuline-globine avec zinc à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot d’insuline ou de cristaux d’insuline-zinc ayant servi à la fabrication de l’insuline-globine avec zinc,
@@ -31322,7 +31336,7 @@ jugés acceptables par le Directeur.
 		- **(ii)** un rapport du dosage de la teneur en zinc exprimée en milligrammes par centimètre cube ou par 1 000 unités internationales d’insuline,
 		- **(iii)** un rapport sur la détermination du pH.
 		- **(iv)** [Abrogé, DORS/95-203, art. 6]
-> DORS/82-769, art. 4: DORS/95-203, art. 6; DORS/97-12, art. 61.
+> DORS/82-769, art. 4: DORS/95-203, art. 6; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31389,9 +31403,9 @@ jugés acceptables par le Directeur.
 **C.04.588** 
 
 - **(1)** Le manufacturier ne doit pas vendre de l’insuline NPH à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot de cristaux d’insuline-zinc ayant servi à la fabrication de l’insuline NPH,
@@ -31413,7 +31427,7 @@ jugés acceptables par le Directeur.
 		- **(iv)** un rapport sur l’examen du précipité au microscope,
 		- **(v)** un rapport sur l’identification faite d’après une méthode acceptable.
 		- **(vi)** [Abrogé, DORS/95-203, art. 7]
-> DORS/82-769, art. 4; DORS/95-203, art. 7; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 7; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31456,12 +31470,12 @@ jugés acceptables par le Directeur.
 
 **C.04.593** 
 
-- **(1)** L’étalon canadien pour l’insuline-zinc-protamine doit être l’étalon adopté de temps à autre par le Directeur général pour ladite préparation.
+- **(1)** L’étalon canadien pour l’insuline-zinc-protamine doit être l’étalon adopté de temps à autre par le ministre pour ladite préparation.
 
-- **(2)** À la demande du titulaire de licence d’établissement, le Directeur général doit lui procurer un échantillon de l’étalon canadien et les directives nécessaires pour faire des essais comparatifs.
+- **(2)** À la demande du titulaire de licence d’établissement, le ministre doit lui procurer un échantillon de l’étalon canadien et les directives nécessaires pour faire des essais comparatifs.
 
-- **(3)** L’essai de la réaction biologique de l’insuline-zinc-protamine doit être faite suivant une méthode acceptable et cette réaction biologique doit être comparable à la réaction biologique de l’étalon canadien procuré par le Directeur général.
-> DORS/82-769, art. 4; DORS/97-12, art. 64.
+- **(3)** L’essai de la réaction biologique de l’insuline-zinc-protamine doit être faite suivant une méthode acceptable et cette réaction biologique doit être comparable à la réaction biologique de l’étalon canadien procuré par le ministre.
+> DORS/82-769, art. 4; DORS/97-12, art. 64; DORS/2018-69, art. 31(A) et 32(F).
 
 
 
@@ -31480,9 +31494,9 @@ jugés acceptables par le Directeur.
 **C.04.595** 
 
 - **(1)** Le manufacturier ne doit pas vendre de l’insuline-zinc-protamine à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot d’insuline ou de cristaux d’insuline-zinc ayant servi à la fabrication de l’insuline-zinc-protamine,
@@ -31505,7 +31519,7 @@ jugés acceptables par le Directeur.
 		- **(ii)** un rapport du dosage de la teneur en zinc exprimée en milligrammes par centimètre cube ou par 1 000 unités internationales,
 		- **(iii)** un rapport sur la détermination du pH.
 		- **(iv)** [Abrogé, DORS/95-203, art. 8]
-> DORS/82-769, art. 4; DORS/95-203, art. 8; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 8; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31555,9 +31569,9 @@ jugés acceptables par le Directeur.
 **C.04.601** 
 
 - **(1)** Le manufacturier ne doit pas vendre de l’insuline sulfurisée à moins qu’il
-	- **a)** n’ait procuré au Directeur général, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du Directeur général;
-	- **b)** n’ait fourni au Directeur général les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
-	- **c)** n’ait reçu du Directeur un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
+	- **a)** n’ait procuré au ministre, en conformité du paragraphe (2), une présentation relative à ladite préparation, sous une forme et dans une teneur qui soient à la satisfaction du ministre;
+	- **b)** n’ait fourni au ministre les renseignements supplémentaires que celui-ci pourrait lui avoir demandés; et
+	- **c)** n’ait reçu du ministre un avis portant que les renseignements contenus dans la présentation sont conformes aux exigences du présent article.
 
 - **(2)** Une présentation soumise en exécution du paragraphe (1) doit contenir au moins,
 	- **a)** à l’égard de chaque maître-lot de cristaux d’insuline-zinc ayant servi à la fabrication de l’insuline sulfurisée,
@@ -31572,7 +31586,7 @@ jugés acceptables par le Directeur.
 		- **(v)** les protocoles du titrage de l’activité exprimée en unités internationales par centimètre cube,
 		- **(vi)** un rapport sur la détermination du pH.
 		- **(vii)** [Abrogé, DORS/95-203, art. 9]
-> DORS/82-769, art. 4; DORS/95-203, art. 9; DORS/97-12, art. 61.
+> DORS/82-769, art. 4; DORS/95-203, art. 9; DORS/97-12, art. 61; DORS/2018-69, art. 27, 31(A) et 32(F).
 
 
 
@@ -31793,9 +31807,9 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.04.676** Les étalons de l’extrait hypophysaire (lobe antérieur) doivent être
 - **a)** l’étalon international;
-- **b)** dans le cas où il n’y a pas d’étalon international, l’étalon canadien qui doit être établi et conservé par le Directeur, lequel peut, sur demande, en fournir des portions pour fins d’essais comparatifs; et
-- **c)** dans le cas où il n’y a pas d’étalon international ni d’étalon canadien, un étalon provisoire qui doit consister en une quantité appropriée du produit, soumise par le distributeur visé à l’alinéa C.01A.003b) au Directeur, en vue du contrôle de l’uniformité du produit.
-> DORS/82-769, art. 13; DORS/97-12, art. 58.
+- **b)** dans le cas où il n’y a pas d’étalon international, l’étalon canadien qui doit être établi et conservé par le ministre, lequel peut, sur demande, en fournir des portions pour fins d’essais comparatifs; et
+- **c)** dans le cas où il n’y a pas d’étalon international ni d’étalon canadien, un étalon provisoire qui doit consister en une quantité appropriée du produit, soumise par le distributeur visé à l’alinéa C.01A.003b) au ministre, en vue du contrôle de l’uniformité du produit.
+> DORS/82-769, art. 13; DORS/97-12, art. 58; DORS/2018-69, art. 27.
 
 
 
@@ -32636,8 +32650,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **g)** les rapports détaillés des épreuves effectuées en vue d’établir l’innocuité de la drogue nouvelle, aux fins et selon le mode d’emploi recommandés;
 	- **h)** des preuves substantielles de l’efficacité clinique de la drogue nouvelle aux fins et selon le mode d’emploi recommandés;
 	- **i)** la déclaration des noms et titres professionnels de tous les chercheurs à qui la drogue nouvelle a été vendue;
-	- **j)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande;
-	- **j.1)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
+	- **j)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande;
+	- **j.1)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
 	- **k)** la déclaration de toutes les recommandations qui doivent être faites dans la réclame pour la drogue nouvelle, au sujet
 		- **(i)** de la voie d’administration recommandée pour la drogue nouvelle,
 		- **(ii)** de la posologie proposée pour la drogue nouvelle,
@@ -32656,7 +32670,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **b)** des échantillons des ingrédients de la drogue nouvelle;
 	- **c)** des échantillons de la drogue nouvelle sous sa forme posologique proposée pour la vente;
 	- **d)** tout renseignement ou matériel supplémentaire se rapportant à l’innocuité et à l’efficacité de la drogue nouvelle.
-> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10.
+> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10; DORS/2018-69, art. 33(F).
 
 
 
@@ -32767,17 +32781,17 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(3.1)** Le supplément à toute présentation visée au paragraphe (1) contient, selon le cas, ce qui suit :
 	- **a)** si, en raison de l’élément visé au paragraphe (2) — autre que la marque nominative d’une drogue nouvelle pour usage humain — sur lequel porte le supplément, il est nécessaire de modifier les étiquettes de la drogue nouvelle :
-		- **(i)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande,
-		- **(ii)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
+		- **(i)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande,
+		- **(ii)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
 	- **b)** si le supplément porte sur la marque nominative d’une drogue nouvelle pour usage humain :
 		- **(i)** une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
 			- **(A)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
 			- **(B)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
 			- **(C)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
-		- **(ii)** des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle.
+		- **(ii)** des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle.
 
 - **(4)** S’il porte sur un élément visé au sous-alinéa (2)h)(iii), le supplément à une présentation de drogue nouvelle pour usage exceptionnel ou à une présentation abrégée de drogue nouvelle pour usage exceptionnel contient l’attestation et les renseignements à l’appui prévus à l’alinéa C.08.002.01(2)a).
-> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13.
+> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13; DORS/2018-69, art. 33(F).
 
 
 
@@ -32874,31 +32888,31 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(viii)** l’usine, les méthodes, l’outillage et les contrôles utilisés pour la fabrication, le conditionnement et l’empaquetage de la drogue nouvelle,
 		- **(ix)** les essais effectués en vue de contrôler l’activité, la pureté et l’innocuité de la drogue nouvelle,
 		- **(x)** les noms et les titres et compétences de tous les chercheurs auxquels la drogue doit être vendue, ainsi que les noms de tous les établissements où l’essai clinique doit avoir lieu;
-	- **b)** dans les 60 jours suivant la date de réception de la présentation préclinique, le Directeur n’a pas fait parvenir au fabricant, par courrier recommandé, un avis indiquant que la présentation de drogue nouvelle n’est pas satisfaisante;
-	- **c)** toutes les étiquettes intérieures et extérieures utilisées relativement à la vente de la drogue nouvelle portent les mentions suivantes :
+	- **b)** dans les 60 jours suivant la date de réception de la présentation préclinique, le ministre n’a pas fait parvenir au fabricant, par courrier recommandé, un avis indiquant que la présentation de drogue nouvelle n’est pas satisfaisante;
+	- **c)** toutes les étiquettes intérieures et extérieures utilisées relativement à la vente de la drogue nouvelle portent les mentions suivantes :
 		- **(i)** « Drogue de recherche » ou « *Investigational Drug* »,
 		- **(ii)** « Réservé uniquement à l’usage de chercheurs compétents » ou « *To Be Used By Qualified Investigators Only* »;
-	- **d)** le fabricant, avant la vente, vérifie que tout chercheur compétent à qui il est censé vendre la drogue nouvelle :
+	- **d)** le fabricant, avant la vente, vérifie que tout chercheur compétent à qui il est censé vendre la drogue nouvelle :
 		- **(i)** dispose des installations voulues pour l’essai clinique qu’il doit effectuer,
 		- **(ii)** a reçu les renseignements et la documentation visés aux sous-alinéas a)(i) à (vi);
 	- **e)** tout chercheur compétent à qui la drogue nouvelle doit être vendue a convenu par écrit avec le fabricant qu’il :
 		- **(i)** n’utilisera pas la drogue nouvelle ou ne permettra pas son utilisation à d’autres fins que l’essai clinique,
 		- **(ii)** ne permettra pas l’usage de la drogue nouvelle par une personne autre que lui-même, sauf sous sa direction,
-		- **(iii)** signalera immédiatement au fabricant, ainsi qu’au Directeur si celui-ci le lui demande, tout ce qui touche les réactions indésirables importantes qui auront été observées pendant l’essai clinique,
+		- **(iii)** signalera immédiatement au fabricant, ainsi qu’au ministre si celui-ci le lui demande, tout ce qui touche les réactions indésirables importantes qui auront été observées pendant l’essai clinique,
 		- **(iv)** rendra compte au fabricant, sur demande de celui-ci, de toutes les quantités de drogue nouvelle qu’il aura reçues.
 
 - **(1.1)** Le présent article ne s’applique qu’aux drogues nouvelles pour usage vétérinaire.
 
 - **(2)** Nonobstant le paragraphe (1) ci-dessus, il est interdit à tout fabricant de vendre une drogue nouvelle à un chercheur compétent, à moins que, au sujet de toutes les ventes préalables de cette drogue nouvelle à n’importe quel chercheur compétent, le fabricant n’ait
-	- **a)** tenu des registres exacts de la distribution de cette drogue nouvelle et des résultats des épreuves cliniques, et présenté lesdits registres à l’inspection, à la demande du Directeur; et
-	- **b)** rapporté immédiatement au Directeur tous les renseignements obtenus par lui-même au sujet de réactions fâcheuses importantes.
+	- **a)** tenu des registres exacts de la distribution de cette drogue nouvelle et des résultats des épreuves cliniques, et présenté lesdits registres à l’inspection, à la demande du ministre; et
+	- **b)** rapporté immédiatement au ministre tous les renseignements obtenus par lui-même au sujet de réactions fâcheuses importantes.
 
 - **(3)** Le ministre peut aviser le fabricant d’une drogue nouvelle que la vente de cette drogue nouvelle aux chercheurs compétents est interdite si, de l’avis du ministre, cette mesure est dans l’intérêt de la santé publique.
 
 - **(4)** Nonobstant le paragraphe (1) ci-dessus, il est interdit à un fabricant de vendre une drogue nouvelle à un chercheur compétent si le ministre a avisé ce fabricant que la vente de ladite drogue est interdite.
 
 - **(5)** L’alinéa (1)c) ne s’applique pas aux produits pharmaceutiques radioactifs définis à l’article C.03.201, ni aux constituants ni aux trousses définis à l’article C.03.205.
-> DORS/79-236, art. 5; DORS/85-143, art. 4; DORS/87-511, art. 1; DORS/93-202, art. 26; DORS/95-411, art. 7; DORS/2001-203, art. 6.
+> DORS/79-236, art. 5; DORS/85-143, art. 4; DORS/87-511, art. 1; DORS/93-202, art. 26; DORS/95-411, art. 7; DORS/2001-203, art. 6; DORS/2018-69, art. 27.
 
 
 
@@ -32951,9 +32965,9 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **c)** que la présentation ou le supplément renfermait une fausse déclaration touchant un fait substantiel;
 	- **d)** que le fabricant n’a pas établi un système pour tenir les registres exigés, ou qu’il a manqué, à plusieurs reprises, ou délibérément, de tenir lesdits registres;
 	- **e)** que, d’après des renseignements nouveaux obtenus après la délivrance de l’avis de conformité, les méthodes, l’outillage, l’usine ou les contrôles employés pour la fabrication, le conditionnement ou l’empaquetage de la drogue, ne suffisent pas à assurer ou à conserver l’identité, la force, la qualité ou la pureté de la drogue nouvelle;
-	- **f)** que, d’après des renseignements nouveaux obtenus après la délivrance de l’avis de conformité, l’étiquette de la drogue est fausse, trompeuse ou incomplète sous quelque rapport que ce soit, et que le fabricant n’a pas rectifié ce défaut après que le Directeur l’en a informé par écrit, en spécifiant l’aspect particulier de l’étiquette qui est faux, trompeur ou incomplet; ou
+	- **f)** que, d’après des renseignements nouveaux obtenus après la délivrance de l’avis de conformité, l’étiquette de la drogue est fausse, trompeuse ou incomplète sous quelque rapport que ce soit, et que le fabricant n’a pas rectifié ce défaut après que le ministre l’en a informé par écrit, en spécifiant l’aspect particulier de l’étiquette qui est faux, trompeur ou incomplet; ou
 	- **g) ** dans le cas d’une drogue nouvelle pour usage exceptionnel, que le fabricant n’a pas suivi le plan visé au sous-alinéa C.08.002.01(2)b)(ix).
-> DORS/95-411, art. 9; DORS/2001-203, art. 8; DORS/2011-88, art. 18.
+> DORS/95-411, art. 9; DORS/2001-203, art. 8; DORS/2011-88, art. 18; DORS/2018-69, art. 27.
 
 
 
@@ -33031,23 +33045,23 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 **C.08.010** 
 
-- **(1)** Le Directeur général peut fournir une lettre d’autorisation permettant la vente d’une certaine quantité d’une drogue nouvelle d’usage humain ou vétérinaire à un praticien nommé dans la lettre d’autorisation pour le traitement d’urgence d’un malade traité par ledit praticien, si
-	- **a)** le praticien a fourni au Directeur général des renseignements concernant
+- **(1)** Le ministre peut fournir une lettre d’autorisation permettant la vente d’une certaine quantité d’une drogue nouvelle d’usage humain ou vétérinaire à un praticien nommé dans la lettre d’autorisation pour le traitement d’urgence d’un malade traité par ledit praticien, si
+	- **a)** le praticien a fourni au ministre des renseignements concernant
 		- **(i)** l’état pathologique urgent pour laquel la drogue est requise,
 		- **(ii)** les données que possède le praticien à propos de l’usage, de l’innocuité et de l’efficacité de ladite drogue,
 		- **(iii)** le nom de tous les établissements où la drogue doit être utilisée, et
-		- **(iv)** les autres renseignements que le Directeur général pourrait lui demander; et
+		- **(iv)** les autres renseignements que le ministre pourrait lui demander; et
 	- **b)** le praticien a consenti à
-		- **(i)** faire part au fabricant de la drogue nouvelle et au Directeur général des résultats de l’usage de la drogue au cours de l’urgence, y compris les renseignements se rapportant à toute réaction défavorable qu’il aura observée, et
-		- **(ii)** rendre compte au Directeur général, sur demande, de toutes les quantités de la drogue qu’il aura reçues.
+		- **(i)** faire part au fabricant de la drogue nouvelle et au ministre des résultats de l’usage de la drogue au cours de l’urgence, y compris les renseignements se rapportant à toute réaction défavorable qu’il aura observée, et
+		- **(ii)** rendre compte au ministre, sur demande, de toutes les quantités de la drogue qu’il aura reçues.
 
-- **(1.1)** Toutefois, le Directeur général ne peut fournir une lettre d’autorisation pour une drogue nouvelle qui est ou qui contient une drogue d’usage restreint, au sens de l’article J.01.001.
+- **(1.1)** Toutefois, le ministre ne peut fournir une lettre d’autorisation pour une drogue nouvelle qui est ou qui contient une drogue d’usage restreint, au sens de l’article J.01.001.
 
-- **(2)** Le Directeur général doit, dans toute lettre d’autorisation fournie conformément au paragraphe (1), spécifier
+- **(2)** Le ministre doit, dans toute lettre d’autorisation fournie conformément au paragraphe (1), spécifier
 	- **a)** le nom du praticien auquel la drogue nouvelle peut être vendue;
 	- **b)** l’état pathologique urgent pour lequel la drogue nouvelle peut être vendue; et
 	- **c)** la quantité de la drogue nouvelle qui peut être vendue audit praticien pour ledit cas urgent.
-> DORS/2013-172, art. 11.
+> DORS/2013-172, art. 11; DORS/2018-69, art. 31(A) et 32(F).
 
 
 
@@ -33068,11 +33082,11 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 - **(1)** Nonobstant toute autre disposition du présent titre, il est permis de vendre, aux termes d’une ordonnance écrite d’un vétérinaire, un aliment médicamenté si
 	- **a)** quant à la drogue ou aux drogues utilisées comme substances médicatrices dans l’aliment médicamenté :
-		- **(i)** soit le Directeur leur a attribué une identification numérique conformément à l’article C.01.014.2,
+		- **(i)** soit le ministre leur a attribué une identification numérique conformément à l’article C.01.014.2,
 		- **(ii)** soit leur vente est permise aux termes des articles C.08.005, C.08.011 ou C.08.013;
 	- **b)** l’aliment médicamenté est destiné au traitement d’animaux directement soumis aux soins du vétérinaire ayant signé l’ordonnance;
 	- **c)** l’aliment médicamenté n’est prévu qu’à des fins thérapeutiques; et
-	- **d)** l’ordonnance écrite renferme les renseignements suivants :
+	- **d)** l’ordonnance écrite renferme les renseignements suivants :
 		- **(i)** le nom et l’adresse de la personne désignée dans l’ordonnance comme celle pour qui l’aliment médicamenté est préparé,
 		- **(ii)** l’espèce, le type de production et l’âge ou le poids des animaux qui seront traités avec l’aliment médicamenté,
 		- **(iii)** le genre et la quantité d’aliment médicamenté à préparer,
@@ -33084,7 +33098,7 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 			- **(C)** le cas échéant, les précautions à prendre à l’égard de la santé de l’animal ou de la manipulation ou de l’entreposage de l’aliment médicamenté.
 
 - **(2)** Aux fins du présent article, le terme ***aliment médicamenté*** a le sens que lui donne le Règlement sur les aliments du bétail.
-> DORS/80-741, art. 1; DORS/92-130, art. 1; DORS/93-202, art. 27.
+> DORS/80-741, art. 1; DORS/92-130, art. 1; DORS/93-202, art. 27; DORS/2018-69, art. 27.
 
 
 
@@ -33099,18 +33113,18 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 **C.08.013** 
 
-- **(1)** Nonobstant toute autre disposition du présent titre, il est permis de vendre à un expert en études expérimentales, une quantité spécifiée par le Directeur, de drogues nouvelles d’application vétérinaire destinées à l’exécution d’une étude expérimentale chez l’animal si,
+- **(1)** Nonobstant toute autre disposition du présent titre, il est permis de vendre à un expert en études expérimentales, une quantité spécifiée par le ministre, de drogues nouvelles d’application vétérinaire destinées à l’exécution d’une étude expérimentale chez l’animal si,
 	- **a)** l’expert en études expérimentales a reçu un certificat d’études expérimentales selon le paragraphe C.08.015(1) et si le certificat n’a pas été suspendu ou annulé selon l’article C.08.018; et
 	- **b)** la drogue est étiquetée conformément au paragraphe C.08.016(1).
 
 - **(2)** Aux fins des articles C.08.013 à C.08.018,
 
-***certificat d’études expérimentales*** désigne un certificat délivré selon le paragraphe C.08.015(1);
+***certificat d’études expérimentales*** désigne un certificat délivré selon le paragraphe C.08.015(1);
 
-***expert en études expérimentales*** désigne la personne visée dans un certificat d’études expérimentales;
+***expert en études expérimentales*** désigne la personne visée dans un certificat d’études expérimentales;
 
-***étude expérimentale*** désigne un test limité effectué par un expert en études expérimentales sur des animaux auxquels on a administré une drogue nouvelle.
-> DORS/81-333, art. 1.
+***étude expérimentale*** désigne un test limité effectué par un expert en études expérimentales sur des animaux auxquels on a administré une drogue nouvelle.
+> DORS/81-333, art. 1; DORS/2018-69, art. 27.
 
 
 
@@ -33121,7 +33135,7 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 **C.08.014** 
 
-- **(1)** Afin d’obtenir un certificat d’études expérimentales, un requérant doit présenter au Directeur, par écrit, les renseignements et pièces suivants :
+- **(1)** Afin d’obtenir un certificat d’études expérimentales, un requérant doit présenter au ministre, par écrit, les renseignements et pièces suivants :
 	- **a)** la marque nominative de la drogue nouvelle ou le nom ou code d’identification projeté pour celle-ci;
 	- **b)** les objectifs et le protocole du projet d’étude expérimentale de la drogue nouvelle;
 	- **c)** l’espèce, le nombre et le type de production des animaux auxquels la nouvelle drogue doit être administrée;
@@ -33133,26 +33147,26 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 	- **i)** la quantité de drogue nouvelle que l’on se propose d’utiliser au cours de l’étude expérimentale;
 	- **j)** les résultats de toutes les études toxicologiques ou pharmacologiques qui ont été conduites avec la drogue nouvelle;
 	- **k)** l’engagement écrit mentionné au paragraphe (2); et
-	- **l)** tous autres renseignements et pièces que le Directeur exige.
+	- **l)** tous autres renseignements et pièces que le ministre exige.
 
 - **(2)** Lorsque des animaux de boucherie doivent servir d’une manière quelconque dans une étude expérimentale, le requérant mentionné au paragraphe (1) doit, afin d’obtenir un certificat d’études expérimentales, obtenir un engagement écrit du propriétaire desdits animaux, ou d’une personne autorisée par lui, de ne pas vendre ces animaux ou tout produit en dérivant, sans obtenir au préalable une autorisation de l’expert en études expérimentales.
 
-- **(3)** Le Directeur peut demander au fabricant d’une drogue nouvelle qu’il lui fournisse des échantillons de ladite drogue, ou de l’un quelconque de ses ingrédients, sous une forme et d’une manière satisfaisantes, et tout autre renseignement que le Directeur demande. Si le Directeur ne reçoit pas les échantillons et les renseignements voulus, il peut refuser de délivrer le certificat d’études expérimentales demandé.
-> DORS/81-333, art. 1; DORS/93-202, art. 28.
+- **(3)** Le ministre peut demander au fabricant d’une drogue nouvelle qu’il lui fournisse des échantillons de ladite drogue, ou de l’un quelconque de ses ingrédients, sous une forme et d’une manière satisfaisantes, et tout autre renseignement que le ministre demande. Si le ministre ne reçoit pas les échantillons et les renseignements voulus, il peut refuser de délivrer le certificat d’études expérimentales demandé.
+> DORS/81-333, art. 1; DORS/93-202, art. 28; DORS/2018-69, art. 27.
 
 
 
 
 **C.08.015** 
 
-- **(1)** Lorsque, à la réception des renseignements et pièces fournis selon l’article C.08.014, le Directeur est convaincu que :
+- **(1)** Lorsque, à la réception des renseignements et pièces fournis selon l’article C.08.014, le ministre est convaincu que :
 	- **a)** le requérant a les qualifications voulues pour les fins de l’étude expérimentale envisagée,
 	- **b)** les installations destinées à servir à l’étude expérimentale envisagée sont appropriées, et
 	- **c)** l’étude expérimentale peut être effectuée sans risque indu et prévisible pour l’homme ou l’animal,
-le Directeur doit délivrer le certificat d’études expérimentales pour la conduite de l’étude expérimentale envisagée et doit y préciser la quantité de la drogue nouvelle qui peut être vendue à l’expert en études expérimentales.
+le ministre doit délivrer le certificat d’études expérimentales pour la conduite de l’étude expérimentale envisagée et doit y préciser la quantité de la drogue nouvelle qui peut être vendue à l’expert en études expérimentales.
 
-- **(2)** Lorsque, à la réception des renseignements et pièces fournis aux termes de l’article C.08.014, le Directeur n’est pas convaincu que l’on a satisfait aux exigences des alinéas (1)a), b) et c), il doit refuser de délivrer un certificat d’études expérimentales.
-> DORS/81-333, art. 1.
+- **(2)** Lorsque, à la réception des renseignements et pièces fournis aux termes de l’article C.08.014, le ministre n’est pas convaincu que les exigences des alinéas (1)a), b) et c) ont été satisfaites, il refuse de délivrer un certificat d’études expérimentales.
+> DORS/81-333, art. 1; DORS/2018-69, art. 25 et 27.
 
 
 
@@ -33182,13 +33196,13 @@ le Directeur doit délivrer le certificat d’études expérimentales pour la co
 
 **C.08.017** Un expert en études expérimentales doit
 - **a)** utiliser la drogue nouvelle conformément au protocole de l’étude expérimentale;
-- **b)** signaler immédiatement au Directeur toute réaction indésirable grave liée à l’utilisation de la drogue nouvelle;
-- **c)** communiquer rapidement au Directeur, sur demande, les résultats de l’étude expérimentale;
+- **b)** signaler immédiatement au ministre toute réaction indésirable grave liée à l’utilisation de la drogue nouvelle;
+- **c)** communiquer rapidement au ministre, sur demande, les résultats de l’étude expérimentale;
 - **d)** retourner au fabricant, sur demande, toute quantité de la drogue nouvelle non utilisée dans l’étude expérimentale;
-- **e)** conserver tous les dossiers de l’étude expérimentale pendant au moins deux ans suivant la fin de l’étude, et, sur demande, les mettre à la disposition du Directeur;
-- **f)** signaler rapidement au Directeur tout cas où l’on a disposé, contrairement aux termes de l’engagement mentionné au paragraphe C.08.014(2), d’animaux servant d’une manière quelconque dans une étude expérimentale, ou de leurs produits; et
-- **g)** rendre compte au Directeur, sur demande, de toutes les quantités de la drogue nouvelle qu’il aura reçues.
-> DORS/81-333, art. 1; DORS/2001-203, art. 10.
+- **e)** conserver tous les dossiers de l’étude expérimentale pendant au moins deux ans suivant la fin de l’étude, et, sur demande, les mettre à la disposition du ministre;
+- **f)** signaler rapidement au ministre tout cas où l’on a disposé, contrairement aux termes de l’engagement mentionné au paragraphe C.08.014(2), d’animaux servant d’une manière quelconque dans une étude expérimentale, ou de leurs produits; et
+- **g)** rendre compte au ministre, sur demande, de toutes les quantités de la drogue nouvelle qu’il aura reçues.
+> DORS/81-333, art. 1; DORS/2001-203, art. 10; DORS/2018-69, art. 27.
 
 
 
@@ -33199,15 +33213,15 @@ le Directeur doit délivrer le certificat d’études expérimentales pour la co
 
 **C.08.018** 
 
-- **(1)** Lorsque le Directeur est d’avis qu’il est nécessaire de sauvegarder la santé de l’animal ou la santé publique, ou d’assurer la sécurité publique, il peut suspendre un certificat d’études expérimentales pour une période définie ou indéfinie, ou encore l’annuler.
+- **(1)** Lorsque le ministre conclut qu’il est nécessaire de sauvegarder la santé de l’animal ou la santé publique ou d’assurer la sécurité publique, il peut suspendre un certificat d’études expérimentales pour une période définie ou indéfinie, ou encore l’annuler.
 
-- **(2)** Sans restreindre la portée générale du paragraphe (1), le Directeur peut suspendre ou annuler un certificat d’études expérimentales si
+- **(2)** Sans restreindre la portée générale du paragraphe (1), le ministre peut suspendre ou annuler un certificat d’études expérimentales si
 	- **a)** les renseignements et pièces fournis selon l’article C.08.014 comportent une fausse déclaration ou une omission concernant les propriétés de la drogue nouvelle, qui sont connues du fabricant ou de l’expert en études expérimentales, ou qui auraient raisonnablement dû l’être;
 	- **b)** l’étiquetage de la drogue nouvelle est, à n’importe quel moment, faux, mensonger, trompeur ou incomplet;
 	- **c)** l’expert en études expérimentales n’a pas les qualifications voulues;
 	- **d)** il existe des preuves que l’expert en études expérimentales n’a pas satisfait aux conditions mentionnées à l’article C.08.017; ou
 	- **e)** une activité du fabricant, relative à la drogue nouvelle, a entraîné la condamnation dudit fabricant pour infraction à l’article C.08.002.
-> DORS/81-333, art. 1.
+> DORS/81-333, art. 1; DORS/2018-69, art. 26 et 27.
 
 
 
@@ -33941,8 +33955,8 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 **D.02.011** Il est interdit à toute personne de vendre un aliment auquel a été ajouté du pyrophosphate de sodium et de fer en tant que source du minéral nutritif fer, à moins
 - **a)** que la biodisponibilité du fer dans l’aliment ne soit au moins égale à 50 pour cent de la biodisponibilité du sulfate ferreux, déterminée selon la méthode officielle FO-42, Détermination de la biodisponibilité du fer, 15 décembre 1982; et
-- **b)** que cette personne ne possède une preuve documentaire établissant que la biodisponibilité du fer dans l’aliment a été déterminée selon la méthode visée à l’alinéa a), et ne fournisse cette preuve au Directeur s’il en fait la demande.
-> DORS/84-303, art. 1..
+- **b)** que cette personne ne possède une preuve documentaire établissant que la biodisponibilité du fer dans l’aliment a été déterminée selon la méthode visée à l’alinéa a), et ne fournisse cette preuve au ministre s’il en fait la demande.
+> DORS/84-303, art. 1; DORS/2018-69, art. 27.
 
 
 
@@ -34420,7 +34434,7 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 **G.01.002** 
 
 - **(1)** Toute personne est autorisée à avoir en sa possession une drogue contrôlée mentionnée à l’un des articles 1 à 3, 8 à 10, 12 à 14, 16 et 17 de la partie I de l’annexe de la présente partie si elle l’a obtenue en vertu du présent règlement ou lors de l’exercice d’une activité se rapportant à l’application ou à l’exécution d’une loi ou d’un règlement, ou si elle l’a obtenue d’une personne bénéficiant d’une exemption accordée aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à l’application du paragraphe 5(1) de cette loi à cette drogue contrôlée, et que, selon le cas :
-	- **a)** elle a besoin de cette drogue pour son entreprise ou sa profession, étant :
+	- **a)** elle a besoin de cette drogue pour son entreprise ou sa profession, étant :
 		- **(i)** soit un distributeur autorisé,
 		- **(ii)** soit un pharmacien,
 		- **(iii)** soit un praticien inscrit et autorisé à exercer dans la province où elle détient cette drogue;
@@ -34428,17 +34442,17 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 	- **c)** elle est un employé d’un hôpital ou un praticien exerçant dans un hôpital;
 	- **d)** elle a obtenu cette drogue pour son propre usage d’un praticien ou en vertu d’une ordonnance qui n’a pas été délivrée ou obtenue en violation du présent règlement;
 	- **e)** elle est un praticien en médecine qui a reçu cette drogue contrôlée en vertu des paragraphes G.06.001(3) ou (4) et qui l’a en sa possession à l’une des fins énoncées au paragraphe G.06.001(5);
-	- **f)** elle est un représentant d’un praticien en médecine qui a reçu cette drogue contrôlée en vertu du paragraphe G.06.001(3) et qui l’a en sa possession à la seule fin de se conformer au paragraphe G.06.001(4);
+	- **f)** elle est un mandataire d’un praticien en médecine qui a reçu cette drogue contrôlée en vertu du paragraphe G.06.001(3) et qui l’a en sa possession à la seule fin de se conformer au paragraphe G.06.001(4);
 	- **g)** elle est employée à titre d’inspecteur, de membre de la Gendarmerie royale du Canada, d’agent de police, d’agent de la paix ou de membre du personnel technique ou scientifique de tout service du gouvernement du Canada, d’une province ou d’une université, et elle a cette drogue en sa possession dans le cadre de ses fonctions;
 	- **h)** elle est une personne non visée aux alinéas e) ou f), elle bénéficie d’une exemption accordée aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession de cette drogue contrôlée et elle en a la possession aux fins énoncées dans l’exemption;
 	- **i)** elle est une personne visée à l’alinéa G.06.001(5)b).
 
-- **(2)** Une personne est autorisée à avoir une drogue contrôlée mentionnée au paragraphe (1) en sa possession lorsqu’elle agit comme agent de toute personne visée à l’un des alinéas (1)a) à e), h) et i).
+- **(2)** Une personne est autorisée à avoir une drogue contrôlée mentionnée au paragraphe (1) en sa possession lorsqu’elle agit comme mandataire de toute personne visée à l’un des alinéas (1)a) à e), h) et i).
 
-- **(3)** Une personne est autorisée à avoir une drogue contrôlée mentionnée au paragraphe (1) en sa possession lorsque :
-	- **a)** d’une part, elle agit comme agent de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)g);
+- **(3)** Une personne est autorisée à avoir une drogue contrôlée mentionnée au paragraphe (1) en sa possession lorsque :
+	- **a)** d’une part, elle agit comme mandataire de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)g);
 	- **b)** d’autre part, la possession de la drogue a pour but d’aider cette dernière dans l’application ou l’exécution d’une loi ou d’un règlement.
-> DORS/97-515, art. 3; DORS/99-125, art. 1; DORS/2003-34, art. 1; DORS/2003-413, art. 1.
+> DORS/97-515, art. 3; DORS/99-125, art. 1; DORS/2003-34, art. 1; DORS/2003-413, art. 1; DORS/2018-69, art. 67 et 68.
 
 
 
@@ -35179,9 +35193,9 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 **G.03.014** Le pharmacien peut, lorsqu’il reçoit une commande écrite pour une drogue contrôlée, signée et datée
 - **a)** par le distributeur autorisé qui lui a vendu ou fourni la drogue, lui retourner cette drogue;
 - **b)** par un autre pharmacien, lui vendre ou lui fournir la quantité de drogue demandée pour une urgence;
-- **c)** par un directeur régional du ministère, vendre ou fournir à ce dernier ou conformément à sa commande la quantité de drogue demandée dont le directeur a besoin dans l’exercice de ses fonctions;
+- **c)** par le ministre, vendre ou fournir à ce dernier ou conformément à sa commande la quantité de drogue demandée dont le ministre a besoin dans l’exercice de ses fonctions;
 - **d)** par une personne qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à cette drogue, lui vendre ou lui fournir la quantité de drogue demandée.
-> DORS/81-359, art. 2; DORS/85-550, art. 9; DORS/99-125, art. 3; DORS/2004-238, art. 21; DORS/2014-260, art. 8(A).
+> DORS/81-359, art. 2; DORS/85-550, art. 9; DORS/99-125, art. 3; DORS/2004-238, art. 21; DORS/2014-260, art. 8(A); DORS/2018-69, art. 65.
 
 
 
@@ -35490,16 +35504,16 @@ selon que peut l’exiger le ministre;
 
 - **(3)** Malgré toute disposition du présent règlement, une personne peut, aux fins d’identification ou d’analyse, fournir ou livrer une drogue contrôlée qu’elle a en sa possession :
 	- **a)** à un praticien en médecine; ou
-	- **b)** à un représentant d’un praticien en médecine qui bénécifie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une telle drogue contrôlée.
+	- **b)** à un mandataire d’un praticien en médecine qui bénécifie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une telle drogue contrôlée.
 
-- **(4)** Lorsque le représentant d’un praticien en médecine a reçu une drogue contrôlée, aux termes du paragraphe (3), il la fournit ou la livre sans délai :
-	- **a)** au praticien dont il est le représentant; ou
-	- **b)** au ministre ou à son représentant.
+- **(4)** Lorsque le mandataire d’un praticien en médecine a reçu une drogue contrôlée, aux termes du paragraphe (3), il la fournit ou la livre sans délai :
+	- **a)** au praticien dont il est le mandataire; ou
+	- **b)** au ministre.
 
 - **(5)** Le praticien en médecine qui a reçu une drogue contrôlée aux termes du paragraphe (3) ou (4) la fournit ou la livre sans délai :
 	- **a)** à des fins d’identification ou d’analyse, à une personne qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement la possession d’une telle drogue à ces fins; ou
-	- **b)** au ministre ou à son représentant.
-> DORS/99-125, art. 5; DORS/2004-238, art. 29.
+	- **b)** au ministre.
+> DORS/99-125, art. 5; DORS/2004-238, art. 29; DORS/2018-69, art. 67 et 69.
 
 
 
@@ -35532,11 +35546,13 @@ selon que peut l’exiger le ministre;
 
 
 
-**G.06.002.2** Le fabricant d’un nécessaire d’essai contenant une drogue contrôlée peut demander un numéro d’enregistrement en présentant au Directeur une demande contenant
+**G.06.002.2** Le fabricant d’un nécessaire d’essai contenant une drogue contrôlée peut demander un numéro d’enregistrement en présentant au ministre une demande contenant
 - **a)** les détails de la présentation et de la composition du nécessaire d’essai;
 - **b)** une description détaillée de la drogue contrôlée et des autres substances, s’il en est, que contient le nécessaire d’essai, y compris la composition qualitative et quantitative de chacun des composants;
 - **c)** une description de l’usage auquel on destine le nécessaire d’essai; et
 - **d)** tout autre renseignement et document susceptibles d’être demandés par le ministre afin qu’il puisse déterminer s’il peut émettre un numéro d’enregistrement pour le nécessaire d’essai.
+> DORS/2018-69, art. 70.
+
 
 
 
@@ -36312,18 +36328,18 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 - **(3)** Malgré toute disposition du présent règlement, une personne peut, aux fins d’identification ou d’analyse, fournir ou livrer une drogue d’usage restreint qu’elle a en sa possession :
 	- **a)** à un praticien; ou
-	- **b)** à un représentant d’un praticien qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une telle drogue à ces fins.
+	- **b)** à un mandataire d’un praticien qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une telle drogue à ces fins.
 
-- **(4)** Lorsque le représentant d’un praticien a reçu une drogue d’usage restreint, aux termes du paragraphe (3), il doit, sans délai, la fournir ou la livrer :
-	- **a)** au praticien dont il est le représentant; ou
-	- **b)** au ministre ou à son représentant.
+- **(4)** Lorsque le mandataire d’un praticien a reçu une drogue d’usage restreint, aux termes du paragraphe (3), il doit, sans délai, la fournir ou la livrer :
+	- **a)** au praticien dont il est le mandataire; ou
+	- **b)** au ministre.
 
 - **(5)** Le praticien qui a reçu une drogue d’usage restreint aux termes du paragraphe (3) ou (4) doit, sans délai, la fournir ou la livrer :
 	- **a)** aux fins d’identification ou d’analyse, à une personne qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à la possession d’une telle drogue à ces fins; ou
 	- **b)** au ministre.
 
 - **(6)** Les articles J.01.021 et J.01.022 s’appliquent, compte tenu des modifications nécessaires, à toute personne qui a reçu une drogue d’usage restreint aux termes du présent article, à l’exception d’une personne à laquelle une telle drogue a été administrée aux termes d’une exemption accordée en vertu de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à l’administration de cette drogue.
-> DORS/99-125, art. 8; DORS/2004-238, art. 40.
+> DORS/99-125, art. 8; DORS/2004-238, art. 40; DORS/2018-69, art. 67 et 69.
 
 
 
@@ -36345,11 +36361,13 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 
 
-**J.01.033.2** Le fabricant d’un nécessaire d’essai contenant une drogue d’usage restreint peut demander un numéro d’enregistrement en présentant au Directeur une demande contenant
+**J.01.033.2** Le fabricant d’un nécessaire d’essai contenant une drogue d’usage restreint peut demander un numéro d’enregistrement en présentant au ministre une demande contenant
 - **a)** les détails de la présentation et de la composition du nécessaire d’essai;
 - **b)** une description détaillée de la drogue d’usage restreint et des autres   substances, s’il en est, que contient le nécessaire d’essai, y compris la composition qualitative et quantitative de chacun des composants;
 - **c)** une description de l’usage auquel on destine le nécessaire d’essai; et
 - **d)** tout autre renseignement et document susceptibles d’être demandés par le ministre afin qu’il puisse déterminer s’il peut émettre un numéro d’enregistrement pour le nécessaire d’essai.
+> DORS/2018-69, art. 70.
+
 
 
 
@@ -36463,13 +36481,13 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 **PARTIE II** 
 
-- **1** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
+- **1** *Salvia divinorum* (*S. divinorum*), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
 - **2** *Catha edulis* Forsk, ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** cathine (*d*-thréo-amino-2 hydroxy-1 phényl-1 propane)
 - mais non compris :
 - **(2)** cathinone (*l*-α-aminopropiophénone) et ses sels
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2; DORS/2017-278, art. 1.
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2; DORS/2017-278, art. 1; DORS/2018-69, art. 66.
 
 
 
