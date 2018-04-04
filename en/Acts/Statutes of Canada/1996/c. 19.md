@@ -1787,7 +1787,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 ### **SCHEDULE I** 
 **(Sections 2, 4 to 7.1, 10, 29, 55 and 60)**
-- **1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
+- **1** Opium Poppy (*Papaver somniferum*), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Opium
 - **(2)** Codeine (methylmorphine)
 - **(3)** Morphine (7,8–didehydro–4,5–epoxy–17–methylmorphinan–3,6–diol)
@@ -1831,7 +1831,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(35)** Narcotine (6,7-dimethoxy-3-(5,6,7,8-tetrahydro-4-methoxy-6-methyl-1,3-dioxolo [4,5-g]isoquinolin-5-yl)-1(3H)-isobenzofuranone) and its salts
 - **(36)** Papaverine (1-[(3,4-dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline) and its salts
 - **(37)** Poppy seed
-- **2** Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
+- **2** Coca (*Erythroxylum*), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Coca leaves
 - **(2)** Cocaine (benzoylmethylecgonine)
 - **(3)** Ecgonine (3–hydroxy–2–tropane carboxylic acid)
@@ -1990,7 +1990,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(3)** U-48520 (4-chloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide)
 - **(4)** U-50211 (N-(2-(dimethylamino)cyclohexyl)-4-hydroxy-N-methylbenzamide)
 - **(5)** U-77891 (3,4-dibromo-N-methyl-N-(1-methyl-1-azaspiro[4.5]decan-6-yl)benzamide)
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1; SOR/2018-70, ss. 1, 2, 3(F).
 
 
 
@@ -2263,9 +2263,9 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **25** Zolpidem (N,N,6-trimethyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-acetamide) and any salt thereof
 - **25.1** Pemoline (2-amino-5-phenyl-oxazolin-4-one) and any salt thereof
 - **26** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
-- **27** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
+- **27** *Salvia divinorum* (*S. divinorum*), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; 2017, c. 7, s. 49; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12.
+> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; 2017, c. 7, s. 49; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12; SOR/2018-70, s. 4.
 
 
 
