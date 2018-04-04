@@ -141,7 +141,7 @@ Autorités habilitantes :
 
 
 ### **ANNEXE II** 
-**(art. 3)**
+**(article 3)**
 
 **PARTIE I** 
 ## Récepteurs de télévision
@@ -998,8 +998,8 @@ où
 **4** Un explorateur laser doit fonctionner de manière à ce que, lorsqu’il est complètement assemblé et que ses commandes internes et externes sont réglées pour donner l’émission maximale, l’intensité moyenne du rayonnement laser, à tous les points accessibles, lorsque mesurée sur une surface circulaire fixe de 0,385 centimètre carré, ne dépasse pas les limites suivantes :
 - **a)** une exposition énergétique (dose) de 5,0 × 10<sup>-7</sup> joules par centimètre carré pour tout intervalle de temps de moins de 1,8 × 10<sup>-5</sup> secondes;
 - **b)** une exposition énergétique (dose) de 1,8 × 10<sup>-3</sup> t<sup>0,75</sup> joules par centimètre carré pour tout intervalle de temps, t secondes, dépassant 1,8 × 10<sup>-5</sup> secondes, mais inférieur ou égal à 10 secondes;
-- **c)** une exposition énergétique (dose) de 1,0 × 10<sup>-2</sup> joules par centimètre carré pour tout intervalle de temps dépassant 10 secondes, mais inférieur ou égal à 1,0 × 10<sup>-4</sup> secondes; et
-- **d)** un éclairement énergétique de 1,0 × 10<sup>-6</sup> watt par centimètre carré pour tout intervalle de temps dépassant 1,0 × 10<sup>-4</sup> secondes.
+- **c)** une exposition énergétique (dose) de 1,0 × 10<sup>–2</sup> joules par centimètre carré pour tout intervalle de temps dépassant 10 secondes, mais inférieur ou égal à 1,0 × 10<sup>4</sup> secondes;
+- **d)** un éclairement énergétique de 1,0 × 10<sup>–6</sup> watt par centimètre carré pour tout intervalle de temps dépassant 1,0 × 10<sup>4</sup> secondes.
 
 
 
@@ -2630,6 +2630,6 @@ la moyenne étant établie sur une surface de détection de 10 centimètres carr
 **PARTIE XVI** 
 ## [Abrogée, DORS/88-471, art. 4]
 
-> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1 à 6(F), 7, 8(F), 9(F) et 10; DORS/2014-25, art. 1 à 3.
+> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1 à 6(F), 7, 8(F), 9(F) et 10; DORS/2014-25, art. 1 à 3; DORS/2018-69, art. 86.
 
 
