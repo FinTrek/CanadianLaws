@@ -141,7 +141,7 @@ Enabling authorities:
 
 
 ### **SCHEDULE II** 
-**(s. 3)**
+**(Section 3)**
 
 **PART I** 
 ## Television Receivers
@@ -998,8 +998,8 @@ where
 **4** Every laser scanner, when fully assembled and operating with its service controls and user controls adjusted to yield the maximum emission, shall function in such a manner that the intensity of laser radiation at all accessible locations, when measured within a stationary circular area of 0.385 square centimetres and averaged over that area does not exceed the following limits:
 - **(a)** during any time interval of less than 1.8 × 10<sup>-5</sup> seconds, an integrated irradiance of 5.0 × 10<sup>-7</sup> joules per square centimetre;
 - **(b)** during any time interval, t seconds, that is greater than 1.8 × 10<sup>-5</sup> seconds but less than or equal to 10 seconds, an integrated irradiance of 1.8 × 10<sup>-3</sup> t<sup>0.75</sup> joules per square centimetre;
-- **(c)** during any time interval of greater than 10 seconds but less than or equal to 1.0 × 10<sup>-4</sup> seconds, an integrated irradiance of 1.0 × 10<sup>-2</sup> joules per square centimetre; and
-- **(d)** during any time interval of greater than 1.0 × 10<sup>-4</sup> seconds, an irradiance of 1.0 × 10<sup>-6</sup> watts per square centimetre.
+- **(c)** during any time interval of greater than 10 seconds but less than or equal to 1.0 × 10<sup>4</sup> seconds, an integrated irradiance of 1.0 × 10<sup>–2</sup> joules per square centimetre; and
+- **(d)** during any time interval of greater than 1.0 × 10<sup>4</sup> seconds, an irradiance of 1.0 × 10<sup>–6</sup> watts per square centimetre.
 
 
 
@@ -1565,7 +1565,7 @@ and converted into and expressed in minutes, where
 - **(a)** be displayed in two contrasting colours;
 - **(b)** be visible and identifiable from a distance of 1 m;
 - **(c)** be at least 2 cm high and at least 2 cm wide;
-- **(d)** bear the words “CAUTION: X-RAYS — *ATTENTION : RAYONS X*”; and
+- **(d)** bear the words “CAUTION: X-RAYS — *ATTENTION : RAYONS X*”; and
 - **(e)** conform to
 	- **(i)** the following diagram:
 > Image: Warning sign, bearing the words “Caution: X-Rays — Attention: Rayons X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
@@ -2442,7 +2442,7 @@ where
 	- **(i)** is displayed in two contrasting colours,
 	- **(ii)** is clearly visible and readily discernible from a distance of 1 m,
 	- **(iii)** has no outer dimension that is less than 2 cm,
-	- **(iv)** bears the words “CAUTION: X-RADIATION — *ATTENTION: RAYONNEMENTS X*”, and
+	- **(iv)** bears the words “CAUTION: X-RADIATION — *ATTENTION : RAYONNEMENTS X*”, and
 	- **(v)** conforms to the following diagram, namely,
 > Image: Warning sign, bearing the words “Caution: X-Rays — Attention: Rayons X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
 
@@ -2643,6 +2643,6 @@ when averaged over a detection area of ten square centimetres.
 **PART XVI** 
 ## [Revoked, SOR/88-471, s. 4]
 
-> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, ss. 1 to 6(F), 7, 8(F), 9(F), 10; SOR/2014-25, ss. 1 to 3.
+> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, ss. 1 to 6(F), 7, 8(F), 9(F), 10; SOR/2014-25, ss. 1 to 3; SOR/2018-69, s. 86.
 
 
