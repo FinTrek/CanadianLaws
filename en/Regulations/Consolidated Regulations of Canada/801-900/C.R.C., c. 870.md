@@ -26155,6 +26155,18 @@ he or she may refuse to issue the document referred to in subsection (1).
 
 
 
+**C.01.014.21** 
+
+- **(1)** The Minister may, at any time, impose terms and conditions on a drug identification number assigned for a Class B opioid or amend those terms and conditions.
+
+- **(2)** The Minister shall notify, in writing, the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number of any terms and conditions imposed on the drug identification number and of any amendment to those terms and conditions.
+
+- **(3)** In subsection (1), ***Class B opioid*** means a drug set out in Part B of the List of Opioids, published by the Government of Canada on its website, as amended from time to time.
+> SOR/2018-77, s. 4.
+
+
+
+
 **C.01.014.3** The manufacturer or importer, as the case may be, or a person authorized by the manufacturer or importer, shall, within 30 days after the day on which the drug is first sold in Canada, date and sign the document referred to in subsection C.01.014.2(1) and return it with a statement set out on it that the information it contains is correct and with an indication of the date on which the drug was first sold in Canada.
 > SOR/81-248, s. 2; SOR/98-423, s. 5; SOR/2014-158, s. 8.
 
@@ -26181,15 +26193,23 @@ he or she may refuse to issue the document referred to in subsection (1).
 
 **C.01.014.6** 
 
-- **(1)** The Minister shall cancel the assignment of a drug identification number for a drug where
-	- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug advises under section C.01.014.7 that they have discontinued the sale of the drug;
-	- **(b)** the drug is a new drug in respect of which the notice of compliance has been suspended pursuant to section C.08.006; or
-	- **(c)** it has been determined that the product in respect of which the number was assigned is not a drug.
+- **(1)** The Minister shall cancel the assignment of a drug identification number for a drug if
+	- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number advises under section C.01.014.7 that they discontinued the sale of the drug; or
+	- **(c)** the Minister determines that the product for which the drug identification number has been assigned is not a drug.
 
-- **(2)** The Minister may cancel the assignment of a drug identification number for a drug where
-	- **(a)** the manufacturer of the drug has failed to comply with section C.01.014.5; or
-	- **(b)** the manufacturer to whom the number was assigned has been notified pursuant to section C.01.013 that the evidence he submitted in respect of the drug is insufficient.
-> SOR/81-248, s. 2; SOR/2016-139, s. 3; SOR/2018-69, s. 27.
+- **(2)** The Minister may cancel the assignment of a drug identification number for a drug if
+	- **(a)** the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number contravenes section C.01.014.5;
+	- **(b)** the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number has been notified under section C.01.013 that the evidence that they submitted with respect to the drug is not sufficient; or
+	- **(c)** the drug is a new drug in respect of which the notice of compliance has been suspended under section C.08.006.
+
+- **(3)** The Minister may cancel the assignment of a drug identification number for a drug if, after he or she has, under section 21.31 of the Act, ordered the holder of a therapeutic product authorization referred to in subparagraph C.01.052(1)(b)(i) or (iii) to conduct an assessment of the drug in order to provide evidence establishing that the benefits associated with the drug outweigh the risks of injury to health,
+	- **(a)** the holder fails to comply with the order; or
+	- **(b)** the holder complies with the order but the Minister determines that the results of the assessment are not sufficient to establish that the benefits associated with the drug outweigh the risks of injury to health.
+
+- **(4)** For greater certainty, the Minister’s power to cancel the assignment of a drug identification number
+	- **(a)** under paragraph (2)(b) is not affected by his or her power to cancel the assignment of such a number under subsection (3); and
+	- **(b)** under subsection (3) is not affected by his or her power to cancel the assignment of such a number under paragraph (2)(b).
+> SOR/81-248, s. 2; SOR/2016-139, s. 3; SOR/2018-69, s. 27; SOR/2018-84, s. 1.
 
 
 
@@ -27691,7 +27711,58 @@ the person who receives the order may distribute the drug to the physician, dent
 
 
 
-**C.01.052** [Repealed, SOR/82-524, s. 2]
+
+#### Assessments Ordered Under Section 21.31 of the Act
+
+
+**C.01.052** 
+
+- **(1)** The Minister’s power to make an order under section 21.31 of the Act is subject to the following conditions:
+	- **(a)** the order shall relate to a drug;
+	- **(b)** the person to whom the order is made shall be the holder of one or more of the following therapeutic product authorizations in respect of the drug:
+		- **(i)** a drug identification number that has been assigned under subsection C.01.014.2(1),
+		- **(ii)** an establishment licence that has been issued under subsection C.01A.008(1), and
+		- **(iii)** a notice of compliance that has been issued under section C.08.004 or C.08.004.01; and
+	- **(c)** the Minister shall have reasonable grounds to believe that
+		- **(i)** in the case of a holder of a therapeutic product authorization referred to in subparagraph (b)(i) or (iii), the benefits or risks of injury to health associated with the drug are significantly different than they were when the authorization was issued,
+		- **(ii)** in the case of a holder of a therapeutic product authorization referred to in subparagraph (b)(ii) who is an importer, the manner in which one or more of the following activities is conducted may present a risk of injury to health associated with the drug:
+			- **(A)** importation, within the meaning of subsection C.01A.001(1), of the drug,
+			- **(B)** fabrication or packaging/labelling, within the meaning of subsection C.01A.001(1), of the drug outside Canada, or
+			- **(C)** testing of the drug outside Canada, or
+		- **(iii)** in the case of a holder of a therapeutic product authorization referred to in subparagraph (b)(ii) other than an importer, the manner in which an activity that is authorized under the authorization is conducted may present a risk of injury to health associated with the drug.
+
+- **(2)** The Minister shall, after examining the results of an assessment that was ordered under section 21.31 of the Act,
+	- **(a)** provide the holder of the therapeutic product authorization with the results of the examination; and
+	- **(b)** ensure that a summary of the results of the examination, together with a description of any steps that the Minister has taken or may take as a consequence of the examination, is published on the Government of Canada website.
+> SOR/2018-84, s. 3.
+
+
+
+
+
+#### Activities Ordered Under Section 21.32 of the Act
+
+
+**C.01.053** The Minister’s power to make an order under section 21.32 of the Act is subject to the following conditions:
+- **(a)** the order shall relate to a drug;
+- **(b)** the person to whom the order is made shall be the holder of one or more of the following therapeutic product authorizations in respect of the drug:
+	- **(i)** a drug identification number that has been assigned under subsection C.01.014.2(1),
+	- **(ii)** an establishment licence that has been issued under subsection C.01A.008(1), and
+	- **(iii)** a notice of compliance that has been issued under section C.08.004 or C.08.004.01;
+- **(c)** the Minister shall have reasonable grounds to believe that
+	- **(i)** in the case of a holder of a therapeutic product authorization referred to in subparagraph (b)(i) or (iii), there are significant uncertainties relating to the benefits or harms associated with the drug,
+	- **(ii)** in the case of a holder of a therapeutic product authorization referred to in subparagraph (b)(ii) who is an importer, the manner in which one or more of the following activities is conducted has introduced significant uncertainties relating to the benefits or harms associated with the drug:
+		- **(A)** importation, within the meaning of subsection C.01A.001(1), of the drug,
+		- **(B)** fabrication or packaging/labelling, within the meaning of subsection C.01A.001(1), of the drug outside Canada, or
+		- **(C)** testing of the drug outside Canada,
+	- **(iii)** in the case of a holder of a therapeutic product authorization referred to in subparagraph (b)(ii) other than an importer, the manner in which an activity that is authorized under the authorization is conducted has introduced significant uncertainties relating to the benefits or harms associated with the drug,
+	- **(iv)** the holder of the therapeutic product authorization is unable to provide the Minister with information that is sufficient to manage those uncertainties, and
+	- **(v)** the applicable requirements of these Regulations, together with any terms and conditions that have been imposed on the authorization, do not allow for sufficient information to be obtained to manage those uncertainties; and
+- **(d)** the Minister shall take into account the following matters:
+	- **(i)** whether the activities that the holder of the therapeutic product authorization will be ordered to undertake are feasible, and
+	- **(ii)** whether there are less burdensome ways of obtaining additional information about the drug’s effects on health or safety.
+> SOR/2018-84, s. 3.
+
 
 
 
@@ -28776,7 +28847,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.01A.016** 
 
-- **(1)** Subject to subsection (3), the Minister may suspend an establishment licence in respect of any or all matters indicated in subsection C.01A.008(2) if the Minister has reasonable grounds to believe that
+- **(1)** The Minister may suspend an establishment licence in respect of any or all matters indicated in subsection C.01A.008(2) if he or she has reasonable grounds to believe that
 	- **(a)** the licensee has contravened any provision of the Act or these Regulations; or
 	- **(b)** the licensee has made a false or misleading statement in the application for the establishment licence.
 
@@ -28784,29 +28855,39 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(a)** the licensee’s history of compliance with the Act and these Regulations; and
 	- **(b)** the risk that allowing the licence to continue in force would constitute for the health of the consumer.
 
-- **(3)** Subject to subsection C.01A.017(1), the Minister shall not suspend an establishment licence until
+- **(3)** The Minister shall not suspend an establishment licence until
 	- **(a)** an inspector has sent the licensee a written notice that sets out the reason for the proposed suspension, any corrective action required to be taken and the time within which it must be taken;
 	- **(b)** if corrective action is required, the time set out in the notice has passed without the action having been taken; and
 	- **(c)** the licensee has been given an opportunity to be heard in respect of the suspension.
-> SOR/97-12, s. 5.
+> SOR/97-12, s. 5; SOR/2018-84, s. 4.
 
 
 
 
 **C.01A.017** 
 
-- **(1)** The Minister may suspend an establishment licence without giving the licensee an opportunity to be heard if it is necessary to do so to prevent injury to the health of the consumer, by giving the licensee a notice in writing that states the reason for the suspension.
+- **(1)** The Minister may suspend an establishment licence in respect of any or all matters indicated in subsection C.01A.008(2) without giving the licensee an opportunity to be heard if it is necessary to do so to prevent a risk to the health of consumers, by giving the licensee a notice that states the reason for the suspension.
 
 - **(2)** A licensee may request of the Minister, in writing, that the suspension be reconsidered.
 
 - **(3)** The Minister shall, within 45 days after the date of receiving the request, provide the licensee with the opportunity to be heard.
-> SOR/97-12, s. 5.
+> SOR/97-12, s. 5; SOR/2018-84, s. 5.
 
 
 
 
-**C.01A.018** The Minister may reinstate an establishment licence after it has been suspended.
-> SOR/97-12, s. 5.
+**C.01A.017.1** The Minister may suspend an establishment licence in respect of any or all matters indicated in subsection C.01A.008(2) if, after the Minister has, under section 21.31 of the Act, ordered the licensee to conduct an assessment in order to provide evidence establishing that the licensee’s buildings, equipment or practices and procedures, as the case may be, continue to meet the requirements referred to in paragraph C.01A.005(l), subparagraph C.01A.005(m)(ii) or (iii) or paragraph C.01A.005(o),
+- **(a)** the licensee fails to comply with the order; or
+- **(b)** the licensee complies with the order but the Minister determines that the results of the assessment are not sufficient to establish that those requirements continue to be met.
+> SOR/2018-84, s. 6.
+
+
+
+
+**C.01A.018** The Minister shall reinstate an establishment licence in respect of any or all matters indicated in subsection C.01A.008(2) that are the subject of the suspension if, within 12 months after the effective date of the suspension, the licensee provides the Minister with sufficient evidence demonstrating that
+- **(a)** the situation on which the suspension was based has been corrected; or
+- **(b)** the situation on which the suspension was based did not exist.
+> SOR/97-12, s. 5; SOR/2018-84, s. 6.
 
 
 
@@ -28815,10 +28896,18 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 #### Cancellation
 
 
-**C.01A.018.1** The Minister shall cancel an establishment licence in either of the following circumstances:
-- **(a)** the licence has been suspended for a period of more than 12 months, or
-- **(b)** the licence holder has failed to submit an application for the review of their licence in accordance with subsection C.01A.009(1).
-> SOR/2011-81, s. 6.
+**C.01A.018.1** The Minister shall cancel an establishment licence if the licensee has failed to submit an application for the review of the licence in accordance with subsection C.01A.009(1).
+> SOR/2011-81, s. 6; SOR/2018-84, s. 7.
+
+
+
+
+**C.01A.018.2** 
+
+- **(1)** If the Minister has suspended an establishment licence in respect of all matters indicated in subsection C.01A.008(2) and the suspension is still in effect 12 months after the effective date of the suspension, the Minister shall cancel the licence.
+
+- **(2)** If the Minister has suspended an establishment licence in respect of one or more of the matters indicated in subsection C.01A.008(2) and the suspension is still in effect 12 months after the effective date of the suspension, the Minister shall cancel the licence only in respect of the matters that are the subject of the suspension.
+> SOR/2018-84, s. 7.
 
 
 
@@ -32722,7 +32811,7 @@ and if unpurified anterior pituitary extract
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
 	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
-> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10; SOR/2018-69, s. 33(F).
+> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10; SOR/2018-69, s. 33(F); SOR/2018-84, s. 8(F).
 
 
 
@@ -32843,7 +32932,7 @@ and if unpurified anterior pituitary extract
 		- **(ii)** mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages.
 
 - **(4)** If a supplement to an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission concerns a matter specified in subparagraph (2)(h)(iii), the supplement shall contain the attestation and supporting information referred to in paragraph C.08.002.01(2)(a).
-> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13; SOR/2018-69, s. 33(F).
+> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13; SOR/2018-69, s. 33(F); SOR/2018-84, s. 9(F).
 
 
 
@@ -32972,7 +33061,7 @@ and if unpurified anterior pituitary extract
 **C.08.005.1** 
 
 - **(1)** Every manufacturer who files a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission, a supplement to any of those submissions or a submission for the clinical testing of a new drug for veterinary use shall, in addition to any information and material that is required under section C.08.002, C.08.002.01, C.08.002.1, C.08.003 or C.08.005, include in the submission or supplement
-	- **(a)** a copy of all clinical case reports respecting any subject of a study included in the submission or supplement if that subject has died, suffered a serious adverse reaction or an unexpected adverse reaction, or the study, insofar as it relates to this subject, has not been completed;
+	- **(a)** [Repealed, SOR/2018-84, s. 10]
 	- **(b)** a sectional report in respect of each human, animal and *in vitro* study included in the submission or supplement;
 	- **(c)** a comprehensive summary of each human, animal and *in vitro* study referred to or included in the submission or supplement; and
 	- **(d)** a submission certificate in respect of all information and material contained in the submission or supplement and any additional information or material filed to amend the submission or supplement.
@@ -32995,19 +33084,17 @@ and if unpurified anterior pituitary extract
 		- **(i)** the senior executive officer in Canada of the manufacturer filing the submission or supplement, and
 		- **(ii)** the senior medical or scientific officer of the manufacturer.
 
-- **(5)** No person shall sign a submission certificate if a sectional report, comprehensive summary or any information or material included in the submission or supplement, or any additional information and material filed to amend the submission or supplement,
-	- **(a)** is false or misleading; or
-	- **(b)** contains omissions that may affect its accuracy and completeness.
+- **(5)** [Repealed, SOR/2018-84, s. 10]
 
 - **(6)** Every manufacturer who has filed a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission, a supplement to any of those submissions or a submission for the clinical testing of a new drug for veterinary use and who has any relating clinical case reports or raw data that were not included in the submission or supplement shall keep those reports or data and shall, within 30 days after receiving a written request from the Minister, submit them to the Minister.
-> SOR/85-143, s. 5; SOR/92-543, s. 1; SOR/94-689, s. 2(F); SOR/95-411, s. 8; SOR/2001-203, s. 7; SOR/2011-88, s. 17.
+> SOR/85-143, s. 5; SOR/92-543, s. 1; SOR/94-689, s. 2(F); SOR/95-411, s. 8; SOR/2001-203, s. 7; SOR/2011-88, s. 17; SOR/2018-84, s. 10.
 
 
 
 
 **C.08.006** 
 
-- **(1)** For the purposes of this section, evidence or new information obtained by the Minister includes any information or material filed by any person pursuant to Division 5 or section C.08.002, C.08.002.01, C.08.002.1, C.08.003, C.08.005 or C.08.005.1.
+- **(1)** For the purposes of subsection (2), evidence or new information obtained by the Minister includes any information or material filed by any person under Division 5 or section C.08.002, C.08.002.01, C.08.002.1, C.08.003, C.08.005 or C.08.005.1.
 
 - **(2)** The Minister may, by notice to a manufacturer, suspend, for a definite or indefinite period, a notice of compliance issued to that manufacturer in respect of a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission or a supplement to any of those submissions if the Minister considers
 	- **(a)** that the drug is not safe for the use represented in the submission or supplement, as shown by evidence obtained from
@@ -33019,7 +33106,11 @@ and if unpurified anterior pituitary extract
 	- **(e)** that, on the basis of new information obtained after the issuance of the notice of compliance, the methods, equipment, plant and controls used in the manufacturing, processing and packaging of the drug are inadequate to assure and preserve the identity, strength, quality or purity of the new drug;
 	- **(f)** that, on the basis of new information obtained after the issuance of the notice of compliance, the labelling of the drug is false or misleading or incomplete in any particular and that this defect was not corrected by the manufacturer upon receipt of a written notice from the Minister specifying the respect in which the labelling is false or misleading or incomplete; or
 	- **(g)** that, in the case of a new drug for extraordinary use, the manufacturer has not adhered to the plan referred to in subparagraph C.08.002.01(2)(b)(ix).
-> SOR/95-411, s. 9; SOR/2001-203, s. 8; SOR/2011-88, s. 18; SOR/2018-69, s. 27.
+
+- **(3)** The Minister may, by notice to a manufacturer, suspend for a definite or indefinite period a notice of compliance issued to that manufacturer in respect of a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission or a supplement to any of those submissions, if, after the Minister has, under section 21.31 of the Act, ordered the holder of a therapeutic product authorization referred to in subparagraph C.01.052(1)(b)(iii) to conduct an assessment of the new drug in order to provide evidence establishing that the benefits associated with the drug outweigh the risks of injury to health,
+	- **(a)** the holder fails to comply with the order; or
+	- **(b)** the holder complies with the order but the Minister determines that the results of the assessment are not sufficient to establish that the benefits associated with the drug outweigh the risks of injury to health.
+> SOR/95-411, s. 9; SOR/2001-203, s. 8; SOR/2011-88, s. 18; SOR/2018-69, s. 27; SOR/2018-84, s. 11.
 
 
 
@@ -33048,8 +33139,8 @@ and if unpurified anterior pituitary extract
 **C.08.008** No manufacturer shall sell a new drug unless the manufacturer has, with respect to all the manufacturer’s previous sales of that new drug, furnished to the Minister
 - **(a)** a summary of a record respecting any information referred to in paragraphs C.08.007(1)(a) to (c), on receipt of a request from the Minister for the summary;
 - **(b)** a summary of a record respecting any information referred to in paragraph C.08.007(1)(d) to (f), immediately on the manufacturer establishing the record; and
-- **(c)** a summary of a record respecting any information referred to in paragraph C.08.007(g) or (h), within 15 days of the day on which the manufacturer established the record. 
-> SOR/95-411, s. 11; SOR/95-521, s. 4; SOR/2014-125, s. 3.
+- **(c)** a summary of a record respecting any information referred to in paragraph C.08.007(1)(g) or (h), within 15 days after the day on which the manufacturer established the record.
+> SOR/95-411, s. 11; SOR/95-521, s. 4; SOR/2014-125, s. 3; SOR/2018-84, s. 12.
 
 
 
@@ -35851,18 +35942,18 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 
 **J.01.002** 
 
-- **(1)** The following persons are authorized to have a restricted drug other than a restricted drug listed in Part II of the schedule to this Part in their possession:
+- **(1)** The following persons are authorized to possess a restricted drug listed in Part I of the schedule to this Part or referred to in paragraph (b) of the definition restricted drug in section J.01.001:
 	- **(a)** a licensed dealer;
-	- **(b)** a qualified investigator if he has possession for the purpose of and in connection with research in an institution;
-	- **(c)** an analyst, inspector, member of the Royal Canadian Mounted Police, constable, peace officer, member of the staff of the Department of Health or officer of a court, if such person has possession for the purpose of and in connection with his employment; and
-	- **(d)** a person exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to that restricted drug.
+	- **(b)** a qualified investigator, if they possess the drug for the purpose of and in connection with research in an institution;
+	- **(c)** an analyst, inspector, member of the Royal Canadian Mounted Police, constable, peace officer, member of the staff of the Department of Health or officer of a court, if they possess the drug for the purpose of and in connection with their employment; and
+	- **(d)** a person exempted under section 56 of the Act with respect to the drug.
 
-- **(2)** A person is authorized to have a restricted drug other than a restricted drug listed in Part II of the schedule to this Part in their possession if the person is acting as the agent or mandatary of a person referred to in paragraph (1)(a), (b) or (d).
+- **(2)** A person is authorized to possess a restricted drug listed in Part I of the schedule to this Part or referred to in paragraph (b) of the definition restricted drug in section J.01.001 if they are acting as the agent or mandatary of a person referred to in paragraph (1)(a), (b) or (d).
 
-- **(2.1)** A person is authorized to have a restricted drug other than a restricted drug listed in Part II of the schedule to this Part in their possession if
-	- **(a)** the person is acting as the agent or mandatary of a person that they have reasonable grounds to believe is a person referred to in paragraph (1)(c); and
-	- **(b)** the possession of the restricted drug is for the purpose of assisting that person in the enforcement or administration of an Act or regulation.
-> SOR/97-228, s. 23; SOR/99-125, s. 7; SOR/2010-222, s. 23; SOR/2015-210, s. 2.
+- **(2.1)** A person is authorized to possess a restricted drug listed in Part I of the schedule to this Part or referred to in paragraph (b) of the definition restricted drug in section J.01.001 if they
+	- **(a)** are acting as the agent or mandatary of a person that they have reasonable grounds to believe is a person referred to in paragraph (1)(c); and
+	- **(b)** possess the restricted drug for the purpose of assisting a person referred to in paragraph (a) in the enforcement or administration of an Act or regulation.
+> SOR/97-228, s. 23; SOR/99-125, s. 7; SOR/2010-222, s. 23; SOR/2015-210, s. 2; SOR/2018-85, s. 1.
 
 
 
@@ -36337,10 +36428,10 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 
 
 
-**J.01.028** Every licensed dealer who is in possession of a restricted drug, every institution to which the sale of such a drug has been authorized by the Minister and every person who is in possession of a restricted drug other than a restricted drug listed in Part II of the schedule to this Part shall
+**J.01.028** Every licensed dealer who possesses a restricted drug, every qualified investigator who possesses a restricted drug for the purpose of and in connection with research in an institution, every person exempted under section 56 of the Act with respect to a restricted drug and every institution to which the sale of a restricted drug has been authorized by the Minister must
 - **(a)** provide such protection against loss or theft of the restricted drug as may be required by the Minister; and
 - **(b)** report forthwith to the Minister and to local law enforcement authorities any loss or theft of a restricted drug.
-> SOR/2015-210, s. 3.
+> SOR/2015-210, s. 3; SOR/2018-85, s. 2.
 
 
 
@@ -36468,6 +36559,22 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 
+#### Temporary Accelerated Scheduling
+
+
+**J.01.037** 
+
+- **(1)** The Minister may, by order, add to column 1 to Part III of the schedule to this Part any item or portion of an item listed in Schedule V to the Act for a period referred to in column 2 that is the same as that listed in Schedule V for that item.
+
+- **(2)** The Minister may, by order, delete any item or portion of an item from column 1 to Part III of the schedule to this Part.
+
+- **(3)** An item or portion of an item listed in Part III of the schedule to this Part is deemed to be deleted on the day on which it is no longer listed in Schedule V to the Act.
+> SOR/2018-85, s. 3.
+
+
+
+
+
 ### **SCHEDULE** 
 **(Sections J.01.001, J.01.002 and J.01.028)**
 
@@ -36544,7 +36651,27 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(1)** Cathine (*d*-threo-2-amino-1-hydroxy-1-phenylpropane)
 - but not including
 - **(2)** Cathinone ((-)-α-aminopropiophenone) and its salts
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2; SOR/2017-278, s. 1; SOR/2018-69, s. 66.
+
+**PART III** 
+
+<table>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Substance</th>
+<th>Period</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2; SOR/2017-278, s. 1; SOR/2018-69, s. 66; SOR/2018-85, s. 4.
 
 
 
