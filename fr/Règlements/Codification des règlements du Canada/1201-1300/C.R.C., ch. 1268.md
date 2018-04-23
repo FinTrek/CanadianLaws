@@ -290,8 +290,8 @@ Autorités habilitantes :
 **19** 
 
 - **(1)** Le titulaire d’un brevet de classe A pour la circonscription n<sup>o</sup> 1-1 doit
-	- **a)** être titulaire d’un certificat de compétence non inférieur à celui de capitaine, voyage local, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou à celui de capitaine, à proximité du littoral;
-	- **b)** avoir piloté dans cette circonscription :
+	- **a)** être titulaire d’un brevet de capitaine au long cours ou de capitaine, à proximité du littoral;
+	- **b)** avoir piloté dans cette circonscription, selon le cas :
 		- **(i)** durant au moins un an, à titre de titulaire d’un brevet de classe B pour cette circonscription et effectué, durant cette période, au moins les deux tiers de la moyenne des tâches de pilotage effectuées par les pilotes brevetés pour cette circonscription,
 		- **(ii)** au cours des 12 mois qui précèdent la date de la délivrance du brevet, à titre de titulaire d’un brevet de classe A pour la partie de la circonscription n<sup>o</sup> 1 comprise entre Montréal et Trois-Rivières et effectué au moins les deux tiers de la moyenne des tâches de pilotage effectuées par les pilotes brevetés pour cette partie de la circonscription.
 
@@ -299,11 +299,16 @@ Autorités habilitantes :
 	- **a)** avoir réussi à l’examen tenu par le jury d’examen;
 	- **b)** dans les 90 jours qui précèdent le test oral de l’examen visé à l’alinéa a), avoir été déclaré médicalement apte à exercer les fonctions de pilote conformément au [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
 	- **c)** avoir :
-		- **(i)** servi à titre d’apprenti pilote titulaire d’un permis d’apprenti pilote de classe D pour cette circonscription et effectué à ce titre, au cours d’une période d’au moins quatre mois mais d’au plus six mois, 200 déplacements dans celle-ci,
-		- **(ii)** effectué au cours des 12 mois qui précèdent la date de la délivrance du brevet, à titre de titulaire d’un brevet de classe B pour la circonscription n<sup>o</sup> 1, au moins les deux tiers de la moyenne des tâches de pilotage effectuées par les pilotes brevetés pour la partie de la circonscription n<sup>o</sup> 1 comprise entre Montréal et Trois-Rivières.
+		- **(i)** dans le cas du titulaire qui a réussi à l’examen visé à l’alinéa a) à son premier essai :
+			- **(A)** soit servi à titre d’apprenti pilote titulaire d’un permis d’apprenti pilote de classe D pour cette circonscription et effectué à ce titre, au cours d’une période d’au moins quatre mois mais d’au plus six mois, 200 déplacements dans la circonscription si, dans les cinq ans qui précèdent la date de la demande de permis, il a servi en mer au moins 12 mois à titre de capitaine,
+			- **(B)** soit servi à titre d’apprenti pilote titulaire d’un permis d’apprenti pilote de classe D pour cette circonscription et effectué à ce titre, au cours d’une période d’au moins six mois mais d’au plus 12 mois, 300 déplacements dans la circonscription si, dans les cinq ans qui précèdent la date de la demande de permis, il a servi au moins 24 mois en qualité de personne chargée du quart à la passerelle d’un navire,
+		- **(ii)** dans le cas du titulaire qui a réussi à l’examen visé à l’alinéa a) à son deuxième essai ou lors d’un essai subséquent :
+			- **(A)** soit servi à titre d’apprenti pilote titulaire d’un permis d’apprenti pilote de classe D pour cette circonscription et effectué à ce titre 300 déplacements dans la circonscription si, dans les cinq ans qui précèdent la date de la demande de permis, il a servi en mer au moins 12 mois à titre de capitaine,
+			- **(B)** soit servi à titre d’apprenti pilote titulaire d’un permis d’apprenti pilote de classe D pour cette circonscription et effectué à ce titre 400 déplacements dans la circonscription si, dans les cinq ans qui précèdent la date de la demande de permis, il a servi au moins 24 mois en qualité de personne chargée du quart à la passerelle d’un navire,
+		- **(iii)** effectué au cours des 12 mois qui précèdent la date de la délivrance du brevet, à titre de titulaire d’un brevet de classe B pour la circonscription n<sup>o</sup> 1, au moins les deux tiers de la moyenne des tâches de pilotage effectuées par les pilotes brevetés pour la partie de la circonscription n<sup>o</sup> 1 comprise entre Montréal et Trois-Rivières.
 
 - **(3)** [Abrogé, DORS/2002-346, art. 7]
-> DORS/81-890, art.1; DORS/89-567, art. 2; DORS/2002-346, art. 7; DORS/2008-80, art. 1.
+> DORS/81-890, art.1; DORS/89-567, art. 2; DORS/2002-346, art. 7; DORS/2008-80, art. 1; DORS/2018-78, art. 1.
 
 
 
@@ -329,7 +334,7 @@ Autorités habilitantes :
 	- **a)** avoir réussi à l’examen tenu par le jury d’examen;
 	- **b)** dans les 90 jours qui précèdent le test oral de l’examen visé à l’alinéa a), avoir été déclaré médicalement apte à exercer les fonctions de pilote conformément au [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
 	- **c)** avoir servi au moins 24 mois comme apprenti titulaire d’un permis d’apprenti de classe D dans la circonscription appropriée;
-	- **d)** avoir effectué dans la circonscription appropriée, lorsqu’il était titulaire d’un permis d’apprenti de classe D,
+	- **d)** dans le cas du titulaire qui a réussi à l’examen visé à l’alinéa a) à son premier essai, avoir effectué dans la circonscription appropriée, lorsqu’il était titulaire d’un permis d’apprenti de classe D,
 		- **(i)** au cours de chaque année dans le cas d’un titulaire de brevet pour la partie de circonscription n<sup>o</sup> 1 comprise entre Montréal et Trois-Rivières, au moins
 			- **(A)** 55 appareillages ou accostages dans le port de Montréal,
 			- **(B)** cinq appareillages ou accostages dans le port de Trois-Rivières,
@@ -354,13 +359,15 @@ Autorités habilitantes :
 			- **(D)** 113 voyages au cours d’une année, dont :
 				- **(I)** neuf à Chicoutimi ou à Grande-Anse,
 				- **(II)** 15 à Port-Alfred,
-				- **(III)** neuf durant la période de navigation d’hiver déterminée par l’Administration conformément au paragraphe 35(2).
+				- **(III)** neuf durant la période de navigation d’hiver déterminée par l’Administration conformément au paragraphe 35(2);
 			- **(E)** [Abrogé, DORS/2002-346, art. 8]
+	- **e)** dans le cas du titulaire qui a réussi à l’examen visé à l’alinéa a) à son deuxième essai, avoir effectué dans la circonscription appropriée, lorsqu’il était titulaire d’un permis d’apprenti de classe D, un nombre d’appareillages, d’accostages, d’arrivées, de départs, de voyages ou de déplacements correspondant à 150 % du nombre exigé par les sous-alinéas (3)d)(i) à (iii) arrondi, si nécessaire, au nombre entier supérieur;
+	- **f)** dans le cas du titulaire qui a réussi à l’examen visé à l’alinéa a) à son troisième essai, avoir effectué dans la circonscription appropriée, lorsqu’il était titulaire d’un permis d’apprenti de classe D, un nombre d’appareillages, d’accostages, d’arrivées, de départs, de voyages ou de déplacements correspondant à 175 % du nombre exigé par les sous-alinéas (3)d)(i) à (iii) arrondi, si nécessaire, au nombre entier supérieur.
 
 - **(4) et (5)** [Abrogés, DORS/2002-346, art. 8]
 
 - **(6)** [Abrogé, DORS/78-844, art. 1]
-> DORS/78-844, art. 1; DORS/80-252, art. 1; DORS/83-892, art. 1; DORS/89-567, art. 3; DORS/91-482, art. 1; DORS/92-680, art. 2; DORS/97-262, art. 1; DORS/99-417, art. 4; DORS/2002-346, art. 8; DORS/2008-80, art. 2.
+> DORS/78-844, art. 1; DORS/80-252, art. 1; DORS/83-892, art. 1; DORS/89-567, art. 3; DORS/91-482, art. 1; DORS/92-680, art. 2; DORS/97-262, art. 1; DORS/99-417, art. 4; DORS/2002-346, art. 8; DORS/2008-80, art. 2; DORS/2018-78, art. 2.
 
 
 
@@ -500,11 +507,11 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 **26.1** Le candidat à un permis d’apprenti pilote de classe D pour la circonscription n<sup>o</sup> 1-1 doit :
 - **a)** réussir le test linguistique tenu par l’Administration démontrant qu’il est en mesure d’exercer efficacement en anglais et en français les fonctions d’un apprenti pilote;
 - **b)** subir un examen médical dans les 90 jours précédant la date de délivrance du permis d’apprenti pilote de classe D et satisfaire aux conditions relatives à la santé prévues par le [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
-- **c)** être titulaire d’un certificat de compétence non inférieur à celui de capitaine, voyage local, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou à celui de capitaine, à proximité du littoral;
-- **d)** avoir servi à titre de capitaine d’un navire d’une longueur de plus de 70 m ou d’une jauge brute de plus de 2 000 tonneaux durant au moins 18 mois au cours des 60 mois qui précèdent la date de la demande;
+- **c)** être titulaire d’un brevet de capitaine au long cours ou de capitaine, à proximité du littoral;
+- **d)** avoir servi à bord d’un navire d’une longueur de plus de 70 m ou d’une jauge brute de plus de 2 000 tonneaux et avoir accumulé à bord d’un tel navire les états de service en mer exigés par l’article 12 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
 - **e)** avoir navigué dans les glaces;
 - **f)** obtenir la note minimale de 70 % au test écrit donné par le jury d’examen sur ses connaissances générales de la navigation à proximité du littoral, y compris sur ses connaissances de la manoeuvre des navires, des instruments de navigation, de l’usage des cartes marines, de la météorologie et de la navigation dans les glaces sur le fleuve Saint-Laurent.
-> DORS/2002-346, art. 12; DORS/2008-80, art. 6.
+> DORS/2002-346, art. 12; DORS/2008-80, art. 6; DORS/2018-78, art. 3.
 
 
 
@@ -519,11 +526,9 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 - **c)** selon le cas :
 	- **(i)** fournir une attestation établissant qu’il a réussi, dans un établissement reconnu au Canada, un programme de formation approuvé de cadets relatif à la navigation qui figure dans le document intitulé Cours de formation approuvés (TP 10655), publié par le ministère des Transports, avec ses modifications successives,
 	- **(ii)** avoir servi à titre de capitaine d’un navire d’une longueur de plus de 70 m ou d’une jauge brute de plus de 2 000 tonneaux durant au moins 18 mois au cours des 60 mois qui précèdent la date de la demande;
-- **d)** être titulaire d’un certificat de compétence non inférieur à celui de capitaine, voyage local, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), ou de capitaine, à proximité du littoral, et avoir servi à bord d’un navire d’une longueur de plus de 70 m ou d’une jauge brute de plus de 2 000 tonneaux, selon le cas :
-	- **(i)** à titre de capitaine durant au moins 10 mois au cours des 24 mois qui précèdent la date de la demande,
-	- **(ii)** à titre d’officier de quart à la passerelle alors qu’il était titulaire d’un certificat de compétence visé au présent alinéa durant au moins 20 mois au cours des 48 mois qui précèdent la date de la demande;
+- **d)** être titulaire d’un brevet de capitaine au long cours ou de capitaine, à proximité du littoral, avoir servi à bord d’un navire d’une longueur de plus de 70 m ou d’une jauge brute de plus de 2 000 tonneaux et avoir accumulé à bord d’un tel navire les états de service en mer exigés par l’article 12 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
 - **e)** obtenir la note minimale de 70 % au test écrit donné par le jury d’examen sur ses connaissances générales de la navigation à proximité du littoral, y compris sur ses connaissances de la manoeuvre des navires, des instruments de navigation, de l’usage des cartes marines, de la météorologie, de la navigation dans les glaces sur le fleuve Saint-Laurent et du calcul des marées.
-> DORS/2002-346, art. 12; DORS/2008-80, art. 7.
+> DORS/2002-346, art. 12; DORS/2008-80, art. 7; DORS/2018-78, art. 4.
 
 
 
@@ -537,10 +542,12 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 - **b)** de son acte de naissance ou de tout autre document officiel indiquant la date et le lieu de sa naissance;
 - **c)** des diplômes, des certificats de navigation et des documents établissant qu’il satisfait aux exigences de service en mer prévues par le présent règlement;
 - **d)** du rapport médical exigé par le [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
-- **e)** d’une lettre de recommandation :
-	- **(i)** soit de son dernier employeur, s’il a travaillé pour cet employeur plus de deux ans,
-	- **(ii)** soit de ses deux derniers employeurs, s’il a travaillé pour son dernier employeur moins de deux ans.
-> DORS/2002-346, art. 12.
+- **e)** selon le cas :
+	- **(i)** d’une lettre de recommandation :
+		- **(A)** soit de son dernier employeur,
+		- **(B)** soit de ses deux derniers employeurs, s’il a travaillé pour son dernier employeur moins de deux ans,
+	- **(ii)** de ses attestations de service en mer préparées conformément aux exigences du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md) pour les deux années qui précèdent la date de la demande.
+> DORS/2002-346, art. 12; DORS/2018-78, art. 5.
 
 
 
@@ -586,7 +593,7 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 - **(2.1)** L’examen que doivent subir les candidats à un premier brevet de pilotage consiste en un test écrit et un test oral portant sur la manoeuvre des navires et la connaissance des lieux de la circonscription, ou de la partie de celle-ci, où le candidat entend piloter.
 
 - **(3)** L’examen que doivent subir les candidats à un premier certificat de pilotage consiste en :
-	- **a)** un premier test écrit portant sur leurs connaissances de la navigation à proximité du littoral, y compris sur leurs connaissances de la manoeuvre des navires, des instruments de navigation, de l’usage des cartes marines, de la météorologie, de la navigation dans les glaces sur le fleuve Saint-Laurent et du calcul des marées;
+	- **a)** un premier test écrit portant sur leurs connaissances générales de la navigation à proximité du littoral, y compris sur leurs connaissances de la manoeuvre des navires, des instruments de navigation, de l’usage des cartes marines, de la météorologie, de la navigation dans les glaces sur le fleuve Saint-Laurent et du calcul des marées;
 	- **b)** sous réserve du paragraphe (4), un deuxième test écrit et un test oral portant sur la manoeuvre des navires et la connaissance des lieux de la circonscription, ou de la partie de celle-ci, où le candidat entend piloter;
 	- **c)** un test linguistique démontrant que le candidat est en mesure d’exercer efficacement en anglais et en français les fonctions de titulaire d’un certificat de pilotage.
 
@@ -604,20 +611,26 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 
 - **(7)** Le candidat dispose :
 	- **a)** dans le cas d’un candidat qui subit les tests visés au paragraphe (3) en deux étapes, d’un délai de 30 mois suivant la date du premier test écrit réussi pour compléter avec succès tous les tests;
-	- **b)** dans le cas du candidat qui subit les tests visés au paragraphe (2.1) ou qui suit le programme de formation visé à l’alinéa (6)a) et réussit les épreuves visées à l’alinéa (6)b), d’un délai de 36 mois suivant la date de la délivrance du permis d’apprenti pilote de classe D pour satisfaire à toutes les exigences en vue de la délivrance d’un brevet.
-> DORS/81-737, art. 1; DORS/89-567, art. 5; DORS/94-727, art. 2; DORS/2002-346, art. 12; DORS/2008-80, art. 11.
+	- **b)** dans le cas d’un candidat qui subit les tests visés au paragraphe (2.1) pour obtenir un premier brevet pour la circonscription n<sup>o</sup> 1-1, d’un délai de 18 mois à compter de la date de délivrance d’un permis d’apprenti pilote de classe D pour satisfaire à toutes les exigences en vue de la délivrance de ce brevet;
+	- **c)** dans le cas d’un candidat qui subit les tests visés au paragraphe (2.1) pour obtenir un premier brevet pour les circonscriptions n<sup>o</sup> 1 ou n<sup>o</sup> 2, d’un délai de 36 mois à compter de la date de la délivrance d’un permis d’apprenti pilote de classe D pour satisfaire à toutes les exigences en vue de la délivrance de ce brevet;
+	- **d)** dans le cas d’un candidat qui suit le programme de formation de pilotage visé à l’alinéa (6)a), d’un délai de 30 mois à compter de la date où il a réussi la première épreuve subie en application de l’alinéa (6)b) pour terminer le programme de formation et réussir les épreuves restantes.
+> DORS/81-737, art. 1; DORS/89-567, art. 5; DORS/94-727, art. 2; DORS/2002-346, art. 12; DORS/2008-80, art. 11; DORS/2018-78, art. 6.
 
 
 
 
 **29** 
 
-- **(1)** Le candidat qui échoue trois fois à l’un ou plusieurs des tests visés aux alinéas 26.1f) et 26.2e) et au paragraphe 28(2.1) n’a plus le droit de se présenter à ceux-ci.
+- **(1)** Le candidat qui échoue trois fois à l’un des tests visés aux alinéas 26.1f) et 26.2e) n’a plus le droit de se présenter à ceux-ci.
 
-- **(2)** Le candidat qui échoue trois fois à l’un ou plusieurs des tests visés au paragraphe 28(3) n’a plus le droit de se présenter à ceux-ci.
+- **(2)** Le candidat qui échoue trois fois à l’un ou plusieurs des tests visés au paragraphe 28(2.1) n’a plus le droit de se présenter à ceux-ci.
 
-- **(3)** Le candidat qui échoue trois fois aux épreuves visées à l’alinéa 28(6)b) n’a plus le droit de se présenter à celles-ci.
-> DORS/2002-346, art. 12; DORS/2008-80, art. 12.
+- **(3)** Le candidat qui échoue trois fois au test visé à l’alinéa 28(3)a) n’a plus le droit de se présenter à celui-ci.
+
+- **(4)** Le candidat qui échoue trois fois à l’un ou plusieurs des tests visés à l’alinéa 28(3)b) n’a plus le droit de se présenter à ceux-ci.
+
+- **(5)** Le candidat qui a suivi le programme de formation de pilotage visé à l’alinéa 28(6)a) et qui échoue quatre fois à l’une ou plusieurs des épreuves visées à l’alinéa 28(6)b) servant à évaluer les compétences obligatoires pour la certification de base ou qui échoue deux fois à l’une ou plusieurs des épreuves visées à l’alinéa 28(6)b) servant à évaluer les compétences optionnelles pouvant être rajoutées à la certification n’a plus le droit de se présenter à une épreuve dans le cadre de ce programme de formation de pilotage.
+> DORS/2002-346, art. 12; DORS/2008-80, art. 12; DORS/2018-78, art. 7.
 
 
 
@@ -629,14 +642,14 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 **30** 
 
 - **(1)** Le jury d’examen qui fait subir les examens pour l’obtention de brevets est nommé par l’Administration et est composé des personnes suivantes :
-	- **a)** deux titulaires d’un certificat de compétence non inférieur à celui de capitaine, voyage intermédiaire, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou à celui de capitaine, à proximité du littoral, l’un étant un dirigeant de l’Administration et l’autre étant un examinateur, tel qu’il est défini à l’article 1 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md), du ministère des Transports;
+	- **a)** deux titulaires d’un brevet de capitaine au long cours ou de capitaine, à proximité du littoral, l’un étant un dirigeant de l’Administration et l’autre étant un examinateur, au sens du paragraphe 1(1) du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md);
 	- **b)** trois pilotes brevetés qui répondent aux conditions suivantes :
 		- **(i)** ils connaissent bien la circonscription, ou la partie de celle-ci, où le candidat ou le titulaire entend piloter, sauf dans le cas des tests écrits mentionnés aux alinéas 26.1f) et 26.2e),
 		- **(ii)** ils sont désignés par la corporation des pilotes dont ils sont membres.
 
 - **(2)** Le jury d’examen qui fait subir les examens pour l’obtention de certificats de pilotage est nommé par l’Administration et est composé des personnes suivantes :
-	- **a)** trois titulaires d’un certificat de compétence non inférieur à celui de capitaine, voyage intermédiaire, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou à celui de capitaine, à proximité du littoral, lesquels sont :
-		- **(i)** un examinateur, tel qu’il est défini à l’article 1 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md), du ministère des Transports,
+	- **a)** trois titulaires d’un brevet de capitaine au long cours ou de capitaine, à proximité du littoral, lesquels sont :
+		- **(i)** un examinateur, au sens du paragraphe 1(1) du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md),
 		- **(ii)** un dirigeant de l’Administration,
 		- **(iii)** soit un titulaire de certificat de pilotage pour la circonscription, ou la partie de celle-ci, où le candidat ou le titulaire entend piloter, soit, lorsqu’un titulaire de certificat de pilotage n’est pas disponible, une personne qui possède les connaissances, l’expérience et les compétences nécessaires pour conduire un navire efficacement et en toute sécurité dans la circonscription, ou la partie de celle-ci, où le candidat ou le titulaire entend piloter;
 	- **b)** deux pilotes brevetés qui répondent aux conditions suivantes :
@@ -646,7 +659,7 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 - **(3)** Le dirigeant de l’Administration nommé conformément aux alinéas (1)a) ou (2)a), selon le cas, agit à titre de président du jury d’examen.
 
 - **(4)** L’Administration doit nommer une personne qui connaît bien chaque circonscription de pilotage où le candidat ou le titulaire entend piloter afin d’observer la façon dont le jury d’examen fait subir l’examen, et cette personne doit remettre au président de l’Administration, après l’examen, un rapport écrit sur le déroulement de l’examen.
-> DORS/2002-346, art. 12; DORS/2008-80, art. 13.
+> DORS/2002-346, art. 12; DORS/2008-80, art. 13; DORS/2018-78, art. 8.
 
 
 
