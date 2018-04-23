@@ -26134,6 +26134,18 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
+**C.01.014.21** 
+
+- **(1)** Le ministre peut, en tout temps, assortir de conditions l’identification numérique attribuée à un opioïde de catégorie B ou modifier de telles conditions.
+
+- **(2)** Il informe par écrit le fabricant à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue de toute condition dont il assortit l’identification numérique et de toute modification qu’il apporte à une telle condition.
+
+- **(3)** Au paragraphe (1), ***opioïde de catégorie B*** s’entend d’une drogue figurant dans la partie B de la Liste des opioïdes, publiée par le gouvernement du Canada sur son site Web, avec ses modifications successives.
+> DORS/2018-77, art. 4.
+
+
+
+
 **C.01.014.3** Dans les trente jours suivant la date de la mise en marché de la drogue au Canada, le fabricant ou l’importateur, selon le cas, ou la personne autorisée par lui, date et signe le document visé au paragraphe C.01.014.2(1), l’annote en y incluant une déclaration que les renseignements qu’il contient sont exacts ainsi qu’une mention de la date de cette mise en marché, et le renvoie.
 > DORS/81-248, art. 2; DORS/98-423, art. 5; DORS/2014-158, art. 8.
 
@@ -26160,15 +26172,23 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 **C.01.014.6** 
 
-- **(1)** Le ministre annule l’identification numérique d’une drogue
-	- **a)** si la personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue signale, en application de l’article C.01.014.7, qu’elle a cessé la vente de la drogue;
-	- **b)** si la drogue est une drogue nouvelle pour laquelle l’avis de conformité a été suspendu conformément à l’article C.08.006; ou
-	- **c)** s’il a été décidé que le produit faisant l’objet de l’identification numérique n’est pas une drogue.
+- **(1)** Le ministre annule l’identification numérique d’une drogue dans les cas suivants :
+	- **a)** la personne à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique l’informe, en application de l’article C.01.014.7, qu’elle a cessé la vente de la drogue;
+	- **c)** le ministre conclut que le produit auquel l’identification numérique a été attribuée n’est pas une drogue.
 
-- **(2)** Le ministre peut annuler l’identification numérique d’une drogue
-	- **a)** si le fabricant de la drogue ne s’est pas conformé à l’article C.01.014.5; ou
-	- **b)** si le fabricant à qui l’identification numérique a été attribuée a été avisé, selon l’article C.01.013, que les preuves présentées au sujet de la drogue sont insuffisantes.
-> DORS/81-248, art. 2; DORS/2016-139, art. 3; DORS/2018-69, art. 27.
+- **(2)** Le ministre peut annuler l’identification numérique d’une drogue dans les cas suivants :
+	- **a)** le fabricant à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique contrevient à l’article C.01.014.5;
+	- **b)** le fabricant à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique a été avisé, en application de l’article C.01.013, que les preuves qu’il a fournies concernant la drogue sont insuffisantes;
+	- **c)** la drogue est une drogue nouvelle pour laquelle l’avis de conformité a été suspendu en vertu de l’article C.08.006.
+
+- **(3)** Le ministre peut annuler l’identification numérique d’une drogue si, après qu’il a ordonné en vertu de l’article 21.31 de la Loi au titulaire d’une autorisation relative à un produit thérapeutique visée aux sous-alinéas C.01.052(1)b)(i) ou (iii) d’effectuer une évaluation de la drogue en vue de fournir des preuves établissant que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé :
+	- **a)** le titulaire ne se conforme pas à l’ordre;
+	- **b)** le titulaire se conforme à l’ordre, mais le ministre conclut que les résultats de l’évaluation sont insuffisants pour établir que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé.
+
+- **(4)** Il est entendu que le pouvoir du ministre d’annuler l’identification numérique attribuée à une drogue :
+	- **a)** en vertu de l’alinéa (2)b) n’a pas d’incidence sur son pouvoir d’annuler une telle identification en vertu du paragraphe (3);
+	- **b)** en vertu du paragraphe (3) n’a pas d’incidence sur son pouvoir d’annuler une telle identification en vertu de l’alinéa (2)b).
+> DORS/81-248, art. 2; DORS/2016-139, art. 3; DORS/2018-69, art. 27; DORS/2018-84, art. 1.
 
 
 
@@ -27640,7 +27660,58 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 
 
 
-**C.01.052** [Abrogé, DORS/82-524, art. 2]
+
+#### Évaluations ordonnées en vertu de l’article 21.31 de la Loi
+
+
+**C.01.052** 
+
+- **(1)** Le pouvoir du ministre de donner un ordre en vertu de l’article 21.31 de la Loi est assujetti aux conditions suivantes :
+	- **a)** l’ordre vise une drogue;
+	- **b)** la personne à qui l’ordre est donné est titulaire de l’une des autorisations relatives à un produit thérapeutique ci-après délivrées à l’égard de la drogue :
+		- **(i)** l’identification numérique attribuée en application du paragraphe C.01.014.2(1),
+		- **(ii)** la licence d’établissement délivrée en application du paragraphe C.01A.008(1),
+		- **(iii)** l’avis de conformité délivré en application des articles C.08.004 ou C.08.004.01;
+	- **c)** le ministre a des motifs raisonnables de croire :
+		- **(i)** s’agissant du titulaire de l’une des autorisations relatives à un produit thérapeutique visées aux sous-alinéas b)(i) ou (iii), que les bénéfices ou les risques de préjudice à la santé liés à la drogue sont considérablement différents de ce qu’ils étaient au moment où l’autorisation a été délivrée,
+		- **(ii)** s’agissant du titulaire de l’autorisation relative à un produit thérapeutique visée au sous-alinéa b)(ii) qui est un importateur, que la façon dont l’une ou plusieurs des activités ci-après sont menées est susceptible de présenter un risque de préjudice à la santé lié à la drogue :
+			- **(A)** importer la drogue, au sens du paragraphe C.01A.001(1),
+			- **(B)** manufacturer ou emballer-étiqueter la drogue à l’étranger, au sens du paragraphe C.01A.001(1),
+			- **(C)** analyser la drogue à l’étranger,
+		- **(iii)** s’agissant du titulaire de l’autorisation relative à un produit thérapeutique visée au sous-alinéa b)(ii) autre qu’un importateur, que la façon dont est menée une activité autorisée par l’autorisation est susceptible de présenter un risque de préjudice à la santé lié à la drogue.
+
+- **(2)** Au terme de son examen des résultats de l’évaluation qu’il a ordonnée en vertu de l’article 21.31 de la Loi, le ministre :
+	- **a)** communique au titulaire de l’autorisation relative à un produit thérapeutique les résultats de l’examen;
+	- **b)** veille à ce qu’un résumé des résultats de l’examen ainsi que la description, le cas échéant, des mesures que le ministre a prises ou peut prendre à la suite de cet examen soient publiés sur le site Web du gouvernement du Canada.
+> DORS/2018-84, art. 3.
+
+
+
+
+
+#### Activités ordonnées en vertu de l’article 21.32 de la Loi
+
+
+**C.01.053** Le pouvoir du ministre de donner un ordre en vertu de l’article 21.32 de la Loi est assujetti aux conditions suivantes  :
+- **a)** l’ordre vise une drogue;
+- **b)** la personne à qui l’ordre est donné est titulaire de l’une des autorisations relatives à un produit thérapeutique ci-après délivrées à l’égard de la drogue :
+	- **(i)** l’identification numérique attribuée en application du paragraphe C.01.014.2(1),
+	- **(ii)** la licence d’établissement délivrée en application du paragraphe C.01A.008(1),
+	- **(iii)** l’avis de conformité délivré en application des articles C.08.004 ou C.08.004.01;
+- **c)** le ministre a des motifs raisonnables de croire, à la fois :
+	- **(i)** s’agissant du titulaire de l’une des autorisations relatives à un produit thérapeutique visées aux sous-alinéas b)(i) ou (iii), que les bénéfices ou les effets nocifs liés à la drogue soulèvent des incertitudes importantes,
+	- **(ii)** s’agissant du titulaire de l’autorisation relative à un produit thérapeutique visée au sous-alinéa b)(ii) qui est un importateur, que la façon dont l’une ou plusieurs des activités ci-après sont menées a créé des incertitudes importantes en ce qui concerne les bénéfices ou les effets nocifs liés à la drogue :
+		- **(A)** importer la drogue, au sens du paragraphe C.01A.001(1),
+		- **(B)** manufacturer ou emballer-étiqueter la drogue à l’étranger, au sens du paragraphe C.01A.001(1),
+		- **(C)** analyser la drogue à l’étranger,
+	- **(iii)** s’agissant du titulaire de l’autorisation relative à un produit thérapeutique visée au sous-alinéa b)(ii) autre qu’un importateur, que la façon dont est menée une activité autorisée par l’autorisation a créé des incertitudes importantes en ce qui concerne les bénéfices ou les effets nocifs liés à la drogue,
+	- **(iv)** que le titulaire de l’autorisation relative à un produit thérapeutique n’est pas en mesure de fournir au ministre des renseignements suffisants pour gérer ces incertitudes,
+	- **(v)** que les exigences applicables du présent règlement ainsi que toute condition dont l’autorisation est assortie ne permettent pas de recueillir des renseignements suffisants pour gérer ces incertitudes;
+- **d)** le ministre tient compte des éléments suivants :
+	- **(i)** la faisabilité des activités qu’il ordonnera au titulaire de l’autorisation relative à un produit thérapeutique de mener,
+	- **(ii)** l’existence de moyens moins coûteux de recueillir des renseignements supplémentaires quant aux effets de la drogue sur la santé ou la sécurité.
+> DORS/2018-84, art. 3.
+
 
 
 
@@ -28729,37 +28800,47 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 **C.01A.016** 
 
-- **(1)** Sous réserve du paragraphe (3), le ministre peut suspendre la licence d’établissement à l’égard de toute indication visée au paragraphe C.01A.008(2) lorsqu’il a des motifs raisonnables de croire que :
-	- **a)** le titulaire de la licence d’établissement ne s’est pas conformé pas aux dispositions de la Loi ou du présent règlement;
-	- **b)** il a fait une déclaration fausse ou trompeuse au sujet de sa demande de licence.
+- **(1)** Le ministre peut suspendre une licence d’établissement à l’égard de toute indication visée au paragraphe C.01A.008(2) lorsqu’il a des motifs raisonnables de croire que :
+	- **a)** soit le titulaire de la licence a contrevenu à toute disposition de la Loi ou du présent règlement;
+	- **b)** soit le titulaire de la licence a fait une déclaration fausse ou trompeuse dans sa demande de licence.
 
 - **(2)** Avant de suspendre une licence d’établissement, le ministre prend en compte les faits suivants :
 	- **a)** les antécédents du titulaire pour ce qui est de la conformité aux dispositions de la Loi ou du présent règlement;
 	- **b)** le risque que présenterait le maintien de la licence pour la santé des consommateurs.
 
-- **(3)** Sous réserve du paragraphe C.01A.017(1), le ministre ne peut suspendre la licence d’établissement que si, à la fois :
+- **(3)** Le ministre ne peut suspendre la licence d’établissement que si, à la fois :
 	- **a)** l’inspecteur a envoyé au titulaire un avis écrit précisant les motifs de la suspension, et, le cas échéant, les mesures correctives qui s’imposent ainsi que le délai accordé pour les prendre;
 	- **b)** lorsque l’avis prévoit des mesures correctives, le titulaire ne les a pas prises dans le délai prévu;
 	- **c)** le titulaire a eu la possibilité de se faire entendre à l’égard de la suspension.
-> DORS/97-12, art. 5.
+> DORS/97-12, art. 5; DORS/2018-84, art. 4.
 
 
 
 
 **C.01A.017** 
 
-- **(1)** Le ministre peut, lorsque cela est nécessaire pour prévenir des risques pour la santé des consommateurs, suspendre la licence d’établissement sans que le titulaire ait la possibilité de se faire entendre, en lui faisant parvenir un avis motivé.
+- **(1)** Le ministre peut, lorsque cela est nécessaire pour prévenir des risques pour la santé des consommateurs, suspendre une licence d’établissement à l’égard de toute indication visée au paragraphe C.01A.008(2) sans que le titulaire de la licence ait la possibilité de se faire entendre, en lui faisant parvenir un avis motivé.
 
 - **(2)** Le titulaire d’une licence d’établissement peut demander, par écrit, au ministre que la suspension soit revisée.
 
-- **(3)** Le ministre doit, dans les 45 jours suivant la date de réception de la demande, donner au titulaire la possibilité de se faire entendre. 
-> DORS/97-12, art. 5.
+- **(3)** Le ministre doit, dans les 45 jours suivant la date de réception de la demande, donner au titulaire la possibilité de se faire entendre.
+> DORS/97-12, art. 5; DORS/2018-84, art. 5.
 
 
 
 
-**C.01A.018** Le ministre peut mettre fin à la suspension d’une licence d’établissement.
-> DORS/97-12, art. 5.
+**C.01A.017.1** Le ministre peut suspendre une licence d’établissement à l’égard de toute indication visée au paragraphe C.01A.008(2) si, après qu’il a ordonné en vertu de l’article 21.31 de la Loi au titulaire de la licence d’effectuer une évaluation en vue de fournir des preuves établissant que ses bâtiments, son équipement ou ses méthodes et pratiques, selon le cas, remplissent toujours les exigences prévues à l’alinéa C.01A.005l), aux sous-alinéas C.01A.005m)(ii) ou (iii) ou à l’alinéa C.01A.005o) :
+- **a)** le titulaire ne se conforme pas à l’ordre;
+- **b)** le titulaire se conforme à l’ordre, mais le ministre conclut que les résultats de l’évaluation sont insuffisants pour établir que ces exigences sont toujours remplies.
+> DORS/2018-84, art. 6.
+
+
+
+
+**C.01A.018** Le ministre rétablit la licence d’établissement à l’égard de toute indication visée au paragraphe C.01A.008(2) qui fait l’objet de la suspension si, dans les douze mois suivant la date de prise d’effet de la suspension, le titulaire de la licence lui fournit des preuves suffisantes démontrant :
+- **a)** soit que le titulaire de la licence a remédié à la situation sur laquelle la suspension était fondée;
+- **b)** soit que la situation sur laquelle la suspension était fondée n’a pas existé.
+> DORS/97-12, art. 5; DORS/2018-84, art. 6.
 
 
 
@@ -28768,10 +28849,18 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 #### Annulation
 
 
-**C.01A.018.1** Le ministre annule une licence dans les circonstances suivantes :
-- **a)** la licence a été suspendue pour plus de douze mois;
-- **b)** le titulaire a omis de présenter une demande d’examen annuel de sa licence conformément au paragraphe C.01A.009(1).
-> DORS/2011-81, art. 6.
+**C.01A.018.1** Le ministre annule la licence d’établissement dont le titulaire omet de présenter une demande d’examen conformément au paragraphe C.01A.009(1).
+> DORS/2011-81, art. 6; DORS/2018-84, art. 7.
+
+
+
+
+**C.01A.018.2** 
+
+- **(1)** S’il a suspendu une licence d’établissement à l’égard de toutes les indications visées au paragraphe C.01A.008(2) et que la suspension est toujours en vigueur douze mois après la date de sa prise d’effet, le ministre annule la licence.
+
+- **(2)** S’il a suspendu une licence d’établissement à l’égard de l’une ou de plusieurs des indications visées au paragraphe C.01A.008(2) et que la suspension est toujours en vigueur douze mois après la date de sa prise d’effet, le ministre annule la licence seulement à l’égard des indications qui font l’objet de la suspension.
+> DORS/2018-84, art. 7.
 
 
 
@@ -32637,7 +32726,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **(1)** Il est interdit de vendre ou d’annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies :
 	- **a)** le fabricant de la drogue nouvelle a, relativement à celle-ci, déposé auprès du ministre une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle ou une présentation abrégée de drogue nouvelle pour usage exceptionnel que celui-ci juge acceptable;
 	- **b)** le ministre a délivré au fabricant de la drogue nouvelle, en application des articles C.08.004 ou C.08.004.01, un avis de conformité relativement à la présentation;
-	- **c)** l’avis de conformité relatif à la présentation n’a pas été suspendu aux termes de l’article C.08.006.
+	- **c)** l’avis de conformité relatif à la présentation n’a pas été suspendu en vertu de l’article C.08.006.
 	- **d)** [Abrogé, DORS/2014-158, art. 10]
 
 - **(2)** La présentation de drogue nouvelle doit contenir suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de la drogue nouvelle, notamment :
@@ -32670,7 +32759,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **b)** des échantillons des ingrédients de la drogue nouvelle;
 	- **c)** des échantillons de la drogue nouvelle sous sa forme posologique proposée pour la vente;
 	- **d)** tout renseignement ou matériel supplémentaire se rapportant à l’innocuité et à l’efficacité de la drogue nouvelle.
-> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10; DORS/2018-69, art. 33(F).
+> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10; DORS/2018-69, art. 33(F); DORS/2018-84, art. 8(F).
 
 
 
@@ -32754,10 +32843,10 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.08.003** 
 
-- **(1)** Malgré l’article C.08.002, il est interdit de vendre une drogue nouvelle à l’égard de laquelle un avis de conformité a été délivré à son fabricant et n’a pas été suspendu aux termes de l’article C.08.006, lorsqu’un des éléments visés au paragraphe (2) diffère sensiblement des renseignements ou du matériel contenus dans la présentation de drogue nouvelle, la présentation de drogue nouvelle pour usage exceptionnel, la présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel, à moins que les conditions ci-après ne soient réunies :
+- **(1)** Malgré l’article C.08.002, il est interdit de vendre une drogue nouvelle à l’égard de laquelle un avis de conformité a été délivré à son fabricant et n’a pas été suspendu en vertu de l’article C.08.006 lorsqu’un des éléments visés au paragraphe (2) diffère sensiblement des renseignements ou du matériel contenus dans la présentation de drogue nouvelle, la présentation de drogue nouvelle pour usage exceptionnel, la présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel, à moins que les conditions ci-après ne soient réunies :
 	- **a)** le fabricant de la drogue nouvelle a déposé auprès du ministre un supplément à la présentation;
 	- **b)** le ministre a délivré au fabricant un avis de conformité relativement au supplément;
-	- **c)** l’avis de conformité relatif au supplément n’a pas été suspendu aux termes de l’article C.08.006.
+	- **c)** l’avis de conformité relatif au supplément n’a pas été suspendu en vertu de l’article C.08.006.
 	- **d)** [Abrogé, DORS/2014-158, art. 13]
 
 - **(2)** Pour l’application du paragraphe (1), les éléments ayant trait à la drogue nouvelle sont les suivants :
@@ -32791,7 +32880,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(ii)** des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle.
 
 - **(4)** S’il porte sur un élément visé au sous-alinéa (2)h)(iii), le supplément à une présentation de drogue nouvelle pour usage exceptionnel ou à une présentation abrégée de drogue nouvelle pour usage exceptionnel contient l’attestation et les renseignements à l’appui prévus à l’alinéa C.08.002.01(2)a).
-> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13; DORS/2018-69, art. 33(F).
+> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13; DORS/2018-69, art. 33(F); DORS/2018-84, art. 9(F).
 
 
 
@@ -32920,7 +33009,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 **C.08.005.1** 
 
 - **(1)** Le fabricant qui dépose une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle, une présentation abrégée de drogue nouvelle pour usage exceptionnel, un supplément à l’une de ces présentations ou une présentation pour l’essai clinique d’une drogue nouvelle pour usage vétérinaire doit, en plus des renseignements et du matériel exigés aux articles C.08.002, C.08.002.01, C.08.002.1, C.08.003 et C.08.005, y inclure :
-	- **a)** une copie des rapports d’observations cliniques relatifs à chaque sujet ayant participé à une étude comprise dans la présentation ou le supplément si celui-ci soit est mort, soit a subi une réaction indésirable grave ou une réaction indésirable imprévue, ou si l’étude, dans la mesure où elle a trait au sujet, n’a pas été complétée;
+	- **a)** [Abrogé, DORS/2018-84, art. 10]
 	- **b)** un résumé de section pour chaque étude sur l’homme, sur l’animal et *in vitro* comprise dans la présentation ou le supplément;
 	- **c)** une synthèse globale de chaque étude sur l’homme, sur l’animal et *in vitro* qui est comprise dans la présentation ou le supplément ou à laquelle il est fait renvoi;
 	- **d)** une attestation concernant les renseignements et le matériel que contient la présentation ou le supplément, ainsi que les renseignements ou le matériel supplémentaires déposés, le cas échéant, aux fins de la modification de la présentation ou du supplément.
@@ -32928,7 +33017,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **(2)** Le résumé de section visé à l’alinéa (1)b) doit comprendre :
 	- **a)** un résumé de chaque étude comprise dans la présentation ou le supplément;
 	- **b)** un sommaire des renseignements ou du matériel supplémentaires déposés, le cas échéant, aux fins de la modification de la présentation ou du supplément;
-	- **c)** lorsque le fabricant dispose des données brutes d’une étude :
+	- **c)** lorsque le fabricant dispose des données brutes d’une étude :
 		- **(i)** un sommaire de ces données,
 		- **(ii)** les renvois aux parties pertinentes du résumé de section,
 		- **(iii)** la description des conditions dans lesquelles se sont déroulées les expériences desquelles les données ont été obtenues,
@@ -32943,22 +33032,20 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(i)** le premier dirigeant au Canada du fabricant qui dépose la présentation ou le supplément,
 		- **(ii)** le directeur médical ou scientifique du fabricant.
 
-- **(5)** Il est interdit de signer une attestation si un résumé de section, la synthèse globale ou tout renseignement ou matériel compris dans la présentation ou le supplément, ou tout renseignement ou matériel supplémentaire déposé aux fins de la modification de cette présentation ou de ce supplément :
-	- **a)** soit est faux ou trompeur;
-	- **b)** soit comporte des omissions qui peuvent avoir une incidence sur son exactitude et son intégralité.
+- **(5)** [Abrogé, DORS/2018-84, art. 10]
 
 - **(6)** Le fabricant qui a déposé une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle, une présentation abrégée de drogue nouvelle pour usage exceptionnel, un supplément à l’une de ces présentations ou une présentation pour l’essai clinique d’une drogue nouvelle pour usage vétérinaire sans y inclure les fiches d’observations cliniques ou les données brutes y ayant trait doit conserver ces fiches ou ces données et les soumettre au ministre, s’il en fait la demande par écrit, dans les trente jours suivant la réception de celle-ci.
-> DORS/85-143, art. 5; DORS/92-543, art. 1; DORS/94-689, art. 2(F); DORS/95-411, art. 8; DORS/2001-203, art. 7; DORS/2011-88, art. 17.
+> DORS/85-143, art. 5; DORS/92-543, art. 1; DORS/94-689, art. 2(F); DORS/95-411, art. 8; DORS/2001-203, art. 7; DORS/2011-88, art. 17; DORS/2018-84, art. 10.
 
 
 
 
 **C.08.006** 
 
-- **(1)** Pour l’application du présent article, les éléments de preuve ou les nouveaux renseignements obtenus par le ministre comprennent les renseignements et le matériel que lui présente toute personne en vertu du titre 5 ou des articles C.08.002, C.08.002.01, C.08.002.1, C.08.003, C.08.005 ou C.08.005.1.
+- **(1)** Pour l’application du paragraphe (2), les éléments de preuve ou les nouveaux renseignements obtenus par le ministre comprennent les renseignements et le matériel que lui présente toute personne au titre du titre 5 ou des articles C.08.002, C.08.002.01, C.08.002.1, C.08.003, C.08.005 ou C.08.005.1.
 
-- **(2)** Le ministre peut suspendre, pour une période déterminée ou indéterminée, un avis de conformité délivré à l’égard d’une présentation de drogue nouvelle, d’une présentation de drogue nouvelle pour usage exceptionnel, d’une présentation abrégée de drogue nouvelle, d’une présentation abrégée de drogue nouvelle pour usage exceptionnel ou d’un supplément à l’une de ces présentations, en envoyant au fabricant qui a déposé la présentation ou le supplément une notification déclarant cette mesure nécessaire, s’il estime :
-	- **a)** que la drogue n’est pas sans danger aux fins spécifiées dans la présentation ou le supplément, en s’appuyant sur des éléments de preuve obtenus :
+- **(2)** Le ministre peut suspendre, pour une période déterminée ou indéterminée, l’avis de conformité délivré à un fabricant à l’égard d’une présentation de drogue nouvelle, d’une présentation de drogue nouvelle pour usage exceptionnel, d’une présentation abrégée de drogue nouvelle, d’une présentation abrégée de drogue nouvelle pour usage exceptionnel ou d’un supplément à l’une de ces présentations, en envoyant au fabricant une notification indiquant que cette mesure est nécessaire, s’il estime :
+	- **a)** que la drogue n’est pas sans danger aux fins spécifiées dans la présentation ou le supplément, en s’appuyant sur des éléments de preuve obtenus :
 		- **(i)** soit d’essais cliniques ou autres expériences qui ne sont pas signalés dans la présentation ou le supplément ou qui ne lui étaient accessibles au moment de la délivrance de l’avis de conformité,
 		- **(ii)** soit d’analyses par de nouvelles méthodes ou par des méthodes qui ne pouvaient vraisemblablement s’appliquer au moment de la délivrance de l’avis de conformité;
 	- **b)** que, d’après de nouveaux renseignements obtenus après la délivrance de l’avis de conformité, il n’y a pas assez de preuves substantielles que la drogue aura l’effet qui lui est attribué, dans les conditions d’usage prescrites, recommandées ou proposées par le fabricant;
@@ -32966,8 +33053,12 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **d)** que le fabricant n’a pas établi un système pour tenir les registres exigés, ou qu’il a manqué, à plusieurs reprises, ou délibérément, de tenir lesdits registres;
 	- **e)** que, d’après des renseignements nouveaux obtenus après la délivrance de l’avis de conformité, les méthodes, l’outillage, l’usine ou les contrôles employés pour la fabrication, le conditionnement ou l’empaquetage de la drogue, ne suffisent pas à assurer ou à conserver l’identité, la force, la qualité ou la pureté de la drogue nouvelle;
 	- **f)** que, d’après des renseignements nouveaux obtenus après la délivrance de l’avis de conformité, l’étiquette de la drogue est fausse, trompeuse ou incomplète sous quelque rapport que ce soit, et que le fabricant n’a pas rectifié ce défaut après que le ministre l’en a informé par écrit, en spécifiant l’aspect particulier de l’étiquette qui est faux, trompeur ou incomplet; ou
-	- **g) ** dans le cas d’une drogue nouvelle pour usage exceptionnel, que le fabricant n’a pas suivi le plan visé au sous-alinéa C.08.002.01(2)b)(ix).
-> DORS/95-411, art. 9; DORS/2001-203, art. 8; DORS/2011-88, art. 18; DORS/2018-69, art. 27.
+	- **g)** dans le cas d’une drogue nouvelle pour usage exceptionnel, que le fabricant n’a pas suivi le plan visé au sous-alinéa C.08.002.01(2)b)(ix).
+
+- **(3)** Le ministre peut suspendre, pour une période déterminée ou indéterminée, l’avis de conformité délivré à un fabricant à l’égard d’une présentation de drogue nouvelle, d’une présentation de drogue nouvelle pour usage exceptionnel, d’une présentation abrégée de drogue nouvelle, d’une présentation abrégée de drogue nouvelle pour usage exceptionnel ou d’un supplément à l’une de ces présentations en envoyant au fabricant une notification indiquant que cette mesure est nécessaire si, après qu’il a ordonné en vertu de l’article 21.31 de la Loi au titulaire d’une autorisation relative à un produit thérapeutique visée au sous-alinéa C.01.052(1)b)(iii) d’effectuer une évaluation de la drogue nouvelle en vue de fournir des preuves établissant que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé :
+	- **a)** le titulaire ne se conforme pas à l’ordre;
+	- **b)** le titulaire se conforme à l’ordre, mais le ministre conclut que les résultats de l’évaluation sont insuffisants pour établir que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé.
+> DORS/95-411, art. 9; DORS/2001-203, art. 8; DORS/2011-88, art. 18; DORS/2018-69, art. 27; DORS/2018-84, art. 11.
 
 
 
@@ -32996,8 +33087,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 **C.08.008** Il est interdit au fabricant de vendre une drogue nouvelle à moins que, à l’égard de ses ventes antérieures de cette drogue, il n’ait fourni au ministre :
 - **a)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007(1)a) à c), sur réception d’une demande du ministre à cet effet;
 - **b)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007(1)d) à f), dès son établissement par le fabricant;
-- **c)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007g) et h), dans les quinze jours suivant la date de son établissement par le fabricant.
-> DORS/95-411, art. 11; DORS/95-521, art. 4; DORS/2014-125, art. 3.
+- **c)** le résumé d’un registre relatif à tout renseignement visé aux alinéas C.08.007(1)g) ou h), dans les quinze jours suivant la date de son établissement par le fabricant.
+> DORS/95-411, art. 11; DORS/95-521, art. 4; DORS/2014-125, art. 3; DORS/2018-84, art. 12.
 
 
 
@@ -35794,18 +35885,18 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 **J.01.002** 
 
-- **(1)** Les personnes ci-après sont autorisées à avoir en leur possession des drogues d’usage restreint autres que celles mentionnées à la partie II de l’annexe de la présente partie :
+- **(1)** Les personnes ci-après sont autorisées à avoir en leur possession une drogue d’usage restreint mentionnée à la partie I de l’annexe de la présente partie ou visée à l’alinéa b) de la définition de drogue d’usage restreint à l’article J.01.001 :
 	- **a)** un distributeur autorisé;
-	- **b)** un chercheur compétent s’il se sert de la drogue à des fins de recherches dans un établissement ou en rapport avec un établissement;
-	- **c)** un analyste, un inspecteur, un membre de la Gendarmerie royale du Canada, un agent de police, un agent de la paix, un membre du personnel du ministère de la Santé ou un officier de justice, si la possession a quelque rapport avec l’emploi;
-	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à une telle drogue.
+	- **b)** un chercheur compétent si la possession vise et concerne la recherche dans un établissement;
+	- **c)** un analyste, un inspecteur, un membre de la Gendarmerie royale du Canada, un agent de police, un agent de la paix, un membre du personnel du ministère de la Santé ou un officier de justice si la possession vise et concerne l’emploi;
+	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à cette drogue.
 
-- **(2)** Une personne est autorisée à avoir en sa possession des drogues d’usage restreint autres que celles mentionnées à la partie II de l’annexe de la présente partie lorsqu’elle agit comme mandataire de toute personne visée aux alinéas (1)a), b) ou d).
+- **(2)** Toute personne est autorisée à avoir en sa possession une drogue d’usage restreint mentionnée à la partie I de l’annexe de la présente partie ou visée à l’alinéa b) de la définition de drogue d’usage restreint à l’article J.01.001 si elle agit comme mandataire de la personne visée aux alinéas (1)a), b) ou d).
 
-- **(2.1)** Une personne est autorisée à avoir en sa possession des drogues d’usage restreint autres que celles mentionnées à la partie II de l’annexe de la présente partie si, à la fois :
-	- **a)** elle agit comme mandataire de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)c);
-	- **b)** la possession a pour but d’aider cette personne dans l’application ou l’exécution d’une loi ou d’un règlement.
-> DORS/97-228, art. 23; DORS/99-125, art. 7; DORS/2010-222, art. 23; DORS/2015-210, art. 2.
+- **(2.1)** Toute personne est autorisée à avoir en sa possession une drogue d’usage restreint mentionnée à la partie I de l’annexe de la présente partie ou visée à l’alinéa b) de la définition de drogue d’usage restreint à l’article J.01.001 si les conditions ci-après sont réunies :
+	- **a)** elle agit comme mandataire de toute personne dont elle a des motifs raisonnables de croire que celle-ci est visée à l’alinéa (1)c);
+	- **b)** la possession de cette drogue a pour but d’aider toute personne visée à l’alinéa a) dans l’application ou l’exécution d’une loi ou d’un règlement.
+> DORS/97-228, art. 23; DORS/99-125, art. 7; DORS/2010-222, art. 23; DORS/2015-210, art. 2; DORS/2018-85, art. 1.
 
 
 
@@ -36280,10 +36371,10 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 
 
-**J.01.028** Tout distributeur autorisé qui est en possession d’une drogue d’usage restreint, tout établissement auquel le ministre a autorisé la vente d’une telle drogue et toute personne qui est en possession d’une drogue d’usage restreint autre que celles mentionnées à la partie II de l’annexe de la présente partie doivent :
+**J.01.028** Le distributeur autorisé qui est en possession d’une drogue d’usage restreint, le chercheur compétent si la possession vise et concerne la recherche d’une telle drogue dans un établissement, toute personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à une telle drogue ainsi que l’établissement auquel le ministre a autorisé la vente de celle-ci satisfont aux exigences suivantes :
 - **a)** prendre toute disposition, contre la perte ou le vol de ladite drogue d’usage restreint, que le ministre peut exiger; et
 - **b)** avertir le ministre et les autorités locales responsables de l’application des lois dès qu’il y a perte ou vol d’une drogue d’usage restreint.
-> DORS/2015-210, art. 3.
+> DORS/2015-210, art. 3; DORS/2018-85, art. 2.
 
 
 
@@ -36411,6 +36502,22 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 
+#### Inscription accélérée temporaire
+
+
+**J.01.037** 
+
+- **(1)** Le ministre peut, par arrêté, ajouter à la colonne 1 de la partie III de l’annexe de la présente partie tout ou partie d’un article qui est inscrit à l’annexe V de la Loi pour la période prévue à la colonne 2 correspondant à la même période que celle inscrite à l’annexe V pour cet article.
+
+- **(2)** Le ministre peut, par arrêté, supprimer de la colonne 1 de la partie III de l’annexe de la présente partie tout ou partie d’un article qui y est inscrit.
+
+- **(3)** Tout ou partie d’un article inscrit à la partie III de l’annexe à la présente partie est réputé être supprimé le jour où il n’est plus inscrit à l’annexe V de la Loi.
+> DORS/2018-85, art. 3.
+
+
+
+
+
 ### **ANNEXE** 
 **(articles J.01.001, J.01.002 et J.01.028)**
 
@@ -36418,7 +36525,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 - **1** Les amphétamines suivants, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues :
 - **(1)** N-éthylamphétamine (N-éthyl α-méthylbenzèneéthanamine)
-- **(2)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
+- **(2)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
 - **(3)** méthylènedioxy-3,4 amphétamine (MDA) (α-méthyl benzodioxole-1,3 éthanamine-5)
 - **(4)** diméthoxy-2,5 amphétamine (diméthoxy-2,5α-méthylbenzèneéthanamine)
 - **(5)** méthoxy-4 amphétamine (méthoxy-4 α-méthylbenzèneéthanamine)
@@ -36439,8 +36546,8 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **3** N,N-Diéthyltryptamine (DET) ((diéthylamino-2 éthyl)-3 indole) et ses sels
 - **4** N,N-Diméthyltryptamine (DMT) ((diméthylamino-2 éthyl)-3 indole) et ses sels
 - **5** N-Méthyl pipéridyl-3 benzilate (LBJ) ([(hydroxy-diphénylacétyl)oxy]-3 méthyl-1 pipéridine) et ses sels
-- **6** Harmaline (dihydro-4,9 méthoxy-7 méthyl-1 3H-pyrido(3,4-ß) indole) et ses sels
-- **7** Harmalol (dihydro-4,9 hydroxy-7 méthyl-1 3H-pyrido(3,4-b) indole) et ses sels
+- **6** Harmaline (dihydro-4,9 méthoxy-7 méthyl-1 3H-pyrido(3,4-ß) indole) et ses sels
+- **7** Harmalol (dihydro-4,9 hydroxy-7 méthyl-1 3H-pyrido(3,4-b) indole) et ses sels
 - **8** Psilocine ((diméthylamino-2 éthyl)-3 hydroxy-4 indole) et ses sels
 - **9** Psilocybine ((diméthylamino-2 éthyl)-3 phosphoryloxy-4 indole) et ses sels
 - **10** N-(Phényl-1 cyclohexyl) éthylamine (PCE) et ses sels
@@ -36487,7 +36594,27 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(1)** cathine (*d*-thréo-amino-2 hydroxy-1 phényl-1 propane)
 - mais non compris :
 - **(2)** cathinone (*l*-α-aminopropiophénone) et ses sels
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2; DORS/2017-278, art. 1; DORS/2018-69, art. 66.
+
+**PARTIE III** 
+
+<table>
+<tr>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Substance</th>
+<th>Période</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2; DORS/2017-278, art. 1; DORS/2018-69, art. 66; DORS/2018-85, art. 4.
 
 
 
