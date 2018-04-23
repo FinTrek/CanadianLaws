@@ -290,7 +290,7 @@ Enabling authorities:
 **19** 
 
 - **(1)** Every holder of a Class A licence for District No. 1-1 shall
-	- **(a)** be the holder of a certificate of competency not lower than master, local voyage issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Master, Near Coastal; and
+	- **(a)** be the holder of a certificate of competency for a Master Mariner or Master, Near Coastal; and
 	- **(b)** have piloted in that District
 		- **(i)** for at least one year, while holding a Class B licence for that District, and completed during that period at least two-thirds of the average number of pilotage assignments completed by licensed pilots for that District, or
 		- **(ii)** during the 12 months before the day on which the licence is issued, while holding a Class A licence for that part of District No. 1 between Montréal and Trois-Rivières, and completed during that period at least two-thirds of the average number of pilotage assignments completed by licensed pilots for that part of District No. 1.
@@ -299,11 +299,16 @@ Enabling authorities:
 	- **(a)** have obtained a passing mark in an examination held by the Board of Examiners;
 	- **(b)** within 90 days before the oral test portion of the examination referred to in paragraph (a), have been declared medically fit to perform pilotage duties in accordance with the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
 	- **(c)** have
-		- **(i)** served as an apprentice pilot holding a Class D apprentice pilot permit for that District and while so serving have completed during a period of not less than four months but not more than six months, 200 movages in that District, or
-		- **(ii)** completed during the 12 months before the day on which the license is issued, while holding a Class B licence for District No. 1, at least two-thirds of the average number of pilotage assignments completed by licensed pilots for that part of District No. 1 between Montréal and Trois-Rivières.
+		- **(i)** in the case of a holder who has obtained a passing mark in the examination referred to in paragraph (a) at the first attempt,
+			- **(A)** served as an apprentice pilot holding a Class D apprentice pilot permit for that District and while so serving have completed during a period of not less than four months but not more than six months, 200 movages in that District, if, during the five years before the day on which the application for the permit is made, the holder completed at least 12 months of sea service as master, or
+			- **(B)** served as an apprentice pilot holding a Class D apprentice pilot permit for that District and while so serving have completed during a period of not less than six months but not more than 12 months, 300 movages in that District, if, during the five years before the day on which the application for the permit is made, the holder completed at least 24 months of service as the person in charge of the deck watch of a ship,
+		- **(ii)** in the case of a holder who has obtained a passing mark in the examination referred to in paragraph (a) at a second or subsequent attempt,
+			- **(A)** served as an apprentice pilot holding a Class D apprentice pilot permit for that District and while so serving have completed 300 movages in that District, if, during the five years before the day on which the application for the permit is made, the holder completed at least 12 months of sea service as master, or
+			- **(B)** served as an apprentice pilot holding a Class D apprentice pilot permit for that District and while so serving have completed 400 movages in that District, if, during the five years before the day on which the application for the permit is made, the holder completed at least 24 months of service as the person in charge of the deck watch of a ship, or
+		- **(iii)** completed during the 12 months before the day on which the licence is issued, while holding a Class B licence for District No. 1, at least two-thirds of the average number of pilotage assignments completed by licensed pilots for that part of District No. 1 between Montréal and Trois-Rivières.
 
 - **(3)** [Repealed, SOR/2002-346, s. 7]
-> SOR/81-890, s. 1; SOR/89-567, s. 2; SOR/2002-346, s. 7; SOR/2008-80, s. 1.
+> SOR/81-890, s. 1; SOR/89-567, s. 2; SOR/2002-346, s. 7; SOR/2008-80, s. 1; SOR/2018-78, s. 1.
 
 
 
@@ -328,8 +333,8 @@ Enabling authorities:
 - **(3)** Every holder of a Class C licence for District No. 1 or District No. 2 shall
 	- **(a)** have obtained a passing mark in an examination held by the Board of Examiners;
 	- **(b)** within 90 days before the oral test portion of the examination referred to in paragraph (a), have been declared medically fit to perform pilotage duties in accordance with the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
-	- **(c)** have served at least 24 months as an apprentice and holder of a Class D apprentice permit in the appropriate District; and
-	- **(d)** have effected, in the appropriate District, while holding a Class D apprentice permit,
+	- **(c)** have served at least 24 months as an apprentice and holder of a Class D apprentice permit in the appropriate District;
+	- **(d)** in the case of holder who has obtained a passing mark in the examination referred to in paragraph (a) at the first attempt, have effected, in the appropriate District, while holding a Class D apprentice permit,
 		- **(i)** during each year, in the case of a holder of a licence for that part of District No. 1 between Montreal and Trois-Rivières, at least
 			- **(A)** 55 dockings or undockings within the Harbour of Montreal,
 			- **(B)** five dockings or undockings within the Harbour of Trois-Rivières,
@@ -354,13 +359,15 @@ Enabling authorities:
 			- **(D)** 113 trips in each year, of which
 				- **(I)** nine were to Chicoutimi or Grande-Anse,
 				- **(II)** 15 were to Port-Alfred, and
-				- **(III)** nine were during the winter navigation period determined by the Authority in accordance with subsection 35(2).
+				- **(III)** nine were during the winter navigation period determined by the Authority in accordance with subsection 35(2);
 			- **(E)** [Repealed, SOR/2002-346, s. 8]
+	- **(e)** in the case of a holder who has obtained a passing mark in the examination referred to in paragraph (a) at the second attempt, have effected, in the appropriate District, while holding a Class D apprentice permit, 150% of the number of dockings, undockings, arrivals, departures, trips or movages required under subparagraphs (3)(d)(i) to (iii), rounded up to the next highest whole number, if necessary; and
+	- **(f)** in the case of a holder who has obtained a passing mark in the examination referred to in paragraph (a) at a third attempt, have effected, in the appropriate District, while holding a Class D apprentice permit, 175% of the number of dockings, undockings, arrivals, departures, trips or movages required under subparagraphs (3)(d)(i) to (iii), rounded up to the next highest whole number, if necessary.
 
 - **(4) and (5)** [Repealed, SOR/2002-346, s. 8]
 
 - **(6)** [Repealed, SOR/78-844, s. 1]
-> SORS/78-844, s. 1; SOR/80-252, s. 1; SOR/83-892, s. 1; SOR/89-567, s. 3; SOR/91-482, s. 1; SOR/92-680, s. 2; SOR/97-262, s. 1; SOR/99-417, s. 4; SOR/2002-346, s. 8; SOR/2008-80, s. 2.
+> SORS/78-844, s. 1; SOR/80-252, s. 1; SOR/83-892, s. 1; SOR/89-567, s. 3; SOR/91-482, s. 1; SOR/92-680, s. 2; SOR/97-262, s. 1; SOR/99-417, s. 4; SOR/2002-346, s. 8; SOR/2008-80, s. 2; SOR/2018-78, s. 2.
 
 
 
@@ -500,11 +507,11 @@ in so far as they apply in that district; and
 **26.1** To obtain a Class D apprentice pilot permit for District No. 1-1, an applicant shall
 - **(a)** successfully complete a language test given by the Authority that demonstrates that the applicant is able to carry out the duties of an apprentice effectively in English and French;
 - **(b)** undergo a medical examination within the 90 days before the day on which the Class D apprentice pilot permit is issued and meet the health qualifications prescribed in the General Pilotage Regulations;
-- **(c)** be the holder of a certificate of competency not lower than master, local voyage issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Master, Near Coastal;
-- **(d)** have served as master of a ship that is over 70 m in length or over 2 000 tons gross tonnage for at least 18 months during the 60 months before the day on which the application is made;
+- **(c)** be the holder of a certificate of competency for Master Mariner or Master, Near Coastal;
+- **(d)** have served on board a ship that is over 70 m in length or over 2 000 tons gross tonnage and have accumulated on board such a ship the sea service required under section 12 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
 - **(e)** have experience navigating in ice; and
 - **(f)** obtain a mark of at least 70% on a written test given by the Board of Examiners on general knowledge of near coastal navigation, including knowledge of ship handling, navigational instruments, chartwork, meteorology and ice navigation on the St. Lawrence River.
-> SOR/2002-346, s. 12; SOR/2008-80, s. 6.
+> SOR/2002-346, s. 12; SOR/2008-80, s. 6; SOR/2018-78, s. 3.
 
 
 
@@ -519,11 +526,9 @@ in so far as they apply in that district; and
 - **(c)** either
 	- **(i)** provide an attestation establishing that the applicant has successfully completed, at a recognized institution in Canada, an approved cadet training program in navigation listed in the document entitled Approved Training Courses (TP 10655), published by the Department of Transport, as amended from time to time, or
 	- **(ii)** have served as a master of a ship that is over 70 m in length or over 2 000 tons gross tonnage for at least 18 months during the 60 months before the day on which the application is made;
-- **(d)** be the holder of a certificate of competency not lower than master, local voyage issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Master, Near Coastal, and have served on board a ship that is over 70 m in length or over 2 000 tons gross tonnage
-	- **(i)** as a master for at least 10 months during the 24 months before the day on which the application is made, or
-	- **(ii)** while holding a certificate referred to in this paragraph, as a deck watch officer for at least 20 months during the 48 months before the day on which the application is made; and
+- **(d)** be the holder of a certificate of competency for Master Mariner or Master, Near Coastal, have served on board a ship that is over 70 m in length or over 2 000 tons gross tonnage and have accumulated on board such a ship the sea service required under section 12 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
 - **(e)** obtain a mark of at least 70% on a written test given by the Board of Examiners on general knowledge of near coastal navigation, including knowledge of ship handling, navigational instruments, chartwork, meteorology, ice navigation on the St. Lawrence River and calculation of tides.
-> SOR/2002-346, s. 12; SOR/2008-80, s. 7.
+> SOR/2002-346, s. 12; SOR/2008-80, s. 7; SOR/2018-78, s. 4.
 
 
 
@@ -537,10 +542,12 @@ in so far as they apply in that district; and
 - **(b)** the applicant’s birth certificate or other official document showing the date and place of birth of the applicant;
 - **(c)** diplomas and navigational certificates as well as documents that establish that the sea service requirements of these Regulations have been met;
 - **(d)** the medical report required under the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
-- **(e)** a letter of recommendation from
-	- **(i)** the applicant’s most recent employer, if the applicant was employed by that employer for more than two years, or
-	- **(ii)** each of the applicant’s two most recent employers, if the applicant was employed by the most recent employer for less than two years.
-> SOR/2002-346, s. 12.
+- **(e)** either
+	- **(i)** a letter of recommendation
+		- **(A)** from the applicant’s most recent employer, or
+		- **(B)** from each of the applicant’s two most recent employers, if the applicant was employed by the most recent employer for less than two years, or
+	- **(ii)** the applicant’s testimonials of sea service prepared in accordance with the requirements of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md) for the two years preceding the date of the application.
+> SOR/2002-346, s. 12; SOR/2018-78, s. 5.
 
 
 
@@ -586,7 +593,7 @@ in so far as they apply in that district; and
 - **(2.1)** The examination of applicants that must be conducted for a first licence shall consist of a written and an oral test on ship handling and on local knowledge of the district or part of the district where the applicant is to pilot.
 
 - **(3)** The examination of applicants that must be conducted for a first pilotage certificate shall consist of
-	- **(a)** a first written test on general knowledge of pilotage, including knowledge of the legislation applicable to pilotage in that region and knowledge of ship handling, navigational instruments, chartwork, meteorology, ice navigation on the St. Lawrence River and calculation of tides;
+	- **(a)** a first written test on general knowledge of near coastal navigation, including knowledge of ship handling, navigational instruments, chartwork, meteorology, ice navigation on the St. Lawrence River and calculation of tides;
 	- **(b)** subject to subsection (4), a second written test and an oral test on ship handling and on local knowledge of the district or part of the district where the applicant is to pilot; and
 	- **(c)** a language test to demonstrate that the applicant is able to carry out the duties of a pilotage certificate holder effectively in English and French.
 
@@ -603,21 +610,27 @@ in so far as they apply in that district; and
 	- **(b)** the applicant has successfully completed the tests prepared under the direction of an officer of the Authority in accordance with the document entitled Pilotage Certificate Training for the Laurentian Region (District II Quebec City – Les Escoumins), TP 13458E, published in November 1999 by the Department of Transport.
 
 - **(7)** An applicant shall
-	- **(a)** in the case of an applicant who takes the tests referred to in subsection (3) in two stages, successfully complete all the tests during the 30 months following the day on which the first written test was successfully completed; or
-	- **(b)** in the case of an applicant who takes the tests referred to in subsection (2.1) or who attends the training referred to in paragraph (6)(a) and successfully completes the tests referred to in paragraph (6)(b), have 36 months from the day on which a Class D apprentice pilot permit is issued to satisfy all of the requirements for the issuance of a licence.
-> SOR/81-737, s. 1; SOR/89-567, s. 5; SOR/94-727, s. 2; SOR/2002-346, s. 12; SOR/2008-80, s. 11.
+	- **(a)** in the case of an applicant who takes the tests referred to in subsection (3) in two stages, successfully complete all the tests during the 30 months following the day on which the first written test was successfully completed;
+	- **(b)** in the case of an applicant who takes the tests referred to in subsection (2.1)  who attends the training referred to in paragraph (6)(a) and successfully completes the tests referred to in paragraph (6)(b), have 36 months from the day on which a Class D apprentice pilot permit is issued to satisfy all of the requirements for the issuance of a licence.
+	- **(c)** in the case of an applicant who takes the tests referred to in subsection (2.1) in order to obtain a first licence for District No. 1 or District No. 2, have 36 months from the day on which a Class D apprentice pilot permit is issued to satisfy all of the requirements for the issuance of a licence; or
+	- **(d)** in the case of an applicant who attends the pilotage training program referred to in paragraph (6)(a), have 30 months following the day on which the first test taken under paragraph (6)(b) was successfully completed to complete the training program and to successfully complete the remaining tests.
+> SOR/81-737, s. 1; SOR/89-567, s. 5; SOR/94-727, s. 2; SOR/2002-346, s. 12; SOR/2008-80, s. 11; SOR/2018-78, s. 6.
 
 
 
 
 **29** 
 
-- **(1)** An applicant who fails one or more of the tests referred to in paragraphs 26.1(f) and 26.2(e) and subsection 28(2.1) three times is no longer eligible to take those tests.
+- **(1)** An applicant who fails one of the tests referred to in paragraphs 26.1(f) and 26.2(e) three times is no longer eligible to take those tests.
 
-- **(2)** An applicant who fails one or more of the tests referred to in subsection 28(3) three times is no longer eligible to take those tests.
+- **(2)** An applicant who fails one or more of the tests referred to in subsection 28(2.1) three times is no longer eligible to take those tests.
 
-- **(3)** An applicant who fails the tests referred to in paragraph 28(6)(b) three times is no longer eligible to take those tests.
-> SOR/2002-346, s. 12; SOR/2008-80, s. 12.
+- **(3)** An applicant who fails the test referred to in paragraph 28(3)(a) three times is no longer eligible to take that test.
+
+- **(4)** An applicant who fails one or more of the tests referred to in paragraph 28(3)(b) three times is no longer eligible to take those tests.
+
+- **(5)** An applicant who has attended the pilotage training program referred to in paragraph 28(6)(a) and who fails one or more of the tests referred to in paragraph 28(6)(b) that assess mandatory skills for basic certification four times or who fails one or more of the tests referred to in paragraph 28(6)(b) that assess optional skills that can be added to a certificate twice is no longer eligible to take a test under the pilotage training program.
+> SOR/2002-346, s. 12; SOR/2008-80, s. 12; SOR/2018-78, s. 7.
 
 
 
@@ -629,14 +642,14 @@ in so far as they apply in that district; and
 **30** 
 
 - **(1)** The Board of Examiners that conducts the examinations for licences shall be appointed by the Authority and shall consist of the following persons:
-	- **(a)** two holders of a certificate of competency not lower than master, intermediate voyage issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Master, Near Coastal, one of whom is an officer of the Authority and one of whom is an examiner, as defined in section 1 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md), of the Department of Transport; and
+	- **(a)** two holders of a certificate of competency for Master Mariner or Master, Near Coastal, one of whom is an officer of the Authority and one of whom is an examiner, as defined in subsection 1(1) of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md); and
 	- **(b)** three licensed pilots, each of whom is
 		- **(i)** knowledgeable about the district or part of the district where the applicant or holder is to pilot, except in the case of the written tests set out in paragraphs 26.1(f) and 26.2(e), and
 		- **(ii)** nominated by the corporation of pilots of which they are a member.
 
 - **(2)** The Board of Examiners that conducts the examinations for pilotage certificates shall be appointed by the Authority and shall consist of the following persons:
-	- **(a)** three holders of a certificate of competency not lower than master, intermediate voyage issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Master, Near Coastal,
-		- **(i)** one of whom is an examiner, as defined in section 1 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md), of the Department of Transport,
+	- **(a)** three holders of a certificate of competency for Master Mariner or Master, Near Coastal,
+		- **(i)** one of whom is an examiner, as defined in subsection 1(1) of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md),
 		- **(ii)** one of whom is an officer of the Authority, and
 		- **(iii)** one of whom is the holder of a pilotage certificate for the district or part of the district where the applicant or holder is to pilot or, if no holder of a pilotage certificate is available, a person who has the skills, knowledge and experience to navigate ships in the district effectively and safely; and
 	- **(b)** two licensed pilots, each of whom is
@@ -646,7 +659,7 @@ in so far as they apply in that district; and
 - **(3)** The officer of the Authority appointed in accordance with paragraph (1)(a) or (2)(a), as the case may be, shall act as chairperson of the Board of Examiners.
 
 - **(4)** The Authority shall appoint a person who is knowledgeable about each pilotage district where the applicant or holder is to pilot to observe the conduct of any examination by the Board of Examiners and the person shall, following the examination, file with the Chairman of the Authority a written report on the conduct of the examination.
-> SOR/2002-346, s. 12; SOR/2008-80, s. 13.
+> SOR/2002-346, s. 12; SOR/2008-80, s. 13; SOR/2018-78, s. 8.
 
 
 
