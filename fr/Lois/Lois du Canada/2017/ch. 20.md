@@ -500,9 +500,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#fn_IndAD26_hq_20476'>[*]</a></sup>**102** Les articles 68, 69, 74, 75 et 84 à 91, le paragraphe 97(2) et les articles 98 à 101 entrent en vigueur à la date fixée par décret.
+<sup><a href='#fn_IndEEC8_hq_21940'>[*]</a></sup>**102** Les articles 68, 69, 74, 75 et 84 à 91, le paragraphe 97(2) et les articles 98 à 101 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_IndAD26_hq_20476'><sup>*</sup></a>: [Note : Articles 68, 69, 74, 75 et 84 à 91, paragraphe 97(2) et articles 98 à 101 non en vigueur ]<br />
+<a name='fn_IndEEC8_hq_21940'><sup>*</sup></a>: [Note : Articles 68, 69, 74, 75 et 84 à 91, paragraphe 97(2) et articles 98 à 101 en vigueur le 26 avril 2018, *voir* TR/2018-38.]<br />
 
 
 
