@@ -502,7 +502,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind1C51_hq_20447'>[*]</a></sup>**102** Sections 68, 69, 74, 75 and 84 to 91, subsection 97(2) and sections 98 to 101 come into force on the day fixed by order of the Governor in Council.
 
-<a name='fn_Ind1C51_hq_20447'><sup>*</sup></a>: [Note: Sections 68, 69, 74, 75 and 84 to 91, subsection 97(2) and sections 98 to 101 not in force.]<br />
+<a name='fn_Ind1C51_hq_20447'><sup>*</sup></a>: [Note: Sections 68, 69, 74, 75 and 84 to 91, subsection 97(2) and sections 98 to 101 in force April 26, 2018, *see* SI/2018-38.]<br />
 
 
 
