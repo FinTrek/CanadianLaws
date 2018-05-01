@@ -14,7 +14,7 @@ Sanctionnée sur le 31 mars 1998
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que les coopératives exercent leurs activités commerciales selon les principes coopératifs internationalement reconnus;
 
@@ -24,7 +24,7 @@ que le gouvernement du Canada estime qu’il est souhaitable de mettre à jour l
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -57,51 +57,55 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur*** Indépendamment de son titre, le particulier titulaire de ce poste au sein de la coopérative; « conseil d’administration » ou « conseil » s’entend de l’ensemble des administrateurs de la coopérative.
+***administrateur*** Indépendamment de son titre, le particulier titulaire de ce poste au sein de la coopérative; conseil d’administration ou conseil s’entend de l’ensemble des administrateurs de la coopérative. (*director*)
 
-***affaires internes*** Les relations entre la coopérative, les personnes morales appartenant au même groupe et leurs membres, détenteurs de parts de placement, actionnaires, administrateurs et dirigeants, à l’exclusion de leurs activités commerciales.
+***affaires internes*** Les relations entre la coopérative, les personnes morales appartenant au même groupe et leurs membres, détenteurs de parts de placement, actionnaires, administrateurs et dirigeants, à l’exclusion de leurs activités commerciales. (*affairs*)
 
-***assemblée d’une coopérative*** Selon le cas :
+***assemblée d’une coopérative*** Selon le cas :
 - **a)** assemblée des membres ou d’une catégorie de membres d’une coopérative;
-- **b)** assemblée des détenteurs de parts de placement d’une coopérative, ou d’une catégorie ou d’une série de celles-ci.
+- **b)** assemblée des détenteurs de parts de placement d’une coopérative, ou d’une catégorie ou d’une série de celles-ci. (*meeting of a cooperative*)
 
-***cabinet de comptables*** Société de personnes dont les associés et les employés qui sont comptables de profession exercent leur profession ou personne morale constituée sous le régime d’une loi provinciale qui fournit des services de comptabilité.
+***cabinet de comptables*** Société de personnes dont les associés et les employés qui sont comptables de profession exercent leur profession ou personne morale constituée sous le régime d’une loi provinciale qui fournit des services de comptabilité. (*firm of accountants*)
 
-***constitué*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
+***constitué*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime. (*incorporated*)
 
-***convention unanime*** Convention écrite conclue entre tous les membres et tous les détenteurs de parts de placement, le cas échéant, qui comporte une disposition visée au paragraphe 115(1).
+***convention unanime*** Convention écrite conclue entre tous les membres et tous les détenteurs de parts de placement, le cas échéant, qui comporte une disposition visée au paragraphe 115(1). (*unanimous agreement*)
 
-***coopérative*** Personne morale constituée sous le régime de la présente loi qui n’est pas passée sous le régime d’une autre autorité législative.
+***coopérative*** Personne morale constituée sous le régime de la présente loi qui n’est pas passée sous le régime d’une autre autorité législative. (*cooperative*)
 
-***coopérative ayant fait appel au public*** Sous réserve des paragraphes 4(4) et (5), s’entend au sens des règlements.
+***coopérative ayant fait appel au public*** Sous réserve des paragraphes 4(4) et (5), s’entend au sens des règlements. (*distributing cooperative*)
 
-***coopérative sous le régime de l’ancienne loi*** Coopérative constituée sous le régime de la Loi sur les associations coopératives du Canada.
+***coopérative sous le régime de l’ancienne loi*** Coopérative constituée sous le régime de la Loi sur les associations coopératives du Canada. (*former Act cooperative*)
 
-***délégué*** Particulier nommé ou élu pour représenter un membre à une assemblée des membres.
+***délégué*** Particulier nommé ou élu pour représenter un membre à une assemblée des membres. (*delegate*)
 
-***détenteur*** Soit la personne visée aux articles 5 ou 6, soit toute personne détenant un certificat de valeurs mobilières délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
+***détenteur*** Soit la personne visée aux articles 5 ou 6, soit toute personne détenant un certificat de valeurs mobilières délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc. (*holder*)
 
-***détenteur de parts de placement*** Personne visée à l’article 6.
+***détenteur de parts de placement*** Personne visée à l’article 6. (*shareholder*)
 
-***directeur*** Particulier nommé à ce titre en vertu de l’article 371.
+***directeur*** Particulier nommé à ce titre en vertu de l’article 371. (*Director*)
 
-***dirigeant*** Le président ou un vice-président du conseil d’administration, le président, un vice-président, le secrétaire, un secrétaire adjoint, le trésorier, un trésorier adjoint ou le directeur général d’une coopérative, tout autre particulier désigné comme dirigeant de celle-ci par règlement administratif ou résolution du conseil, ou tout autre particulier qui exerce pour la coopérative des fonctions semblables à celles qu’exerce habituellement un particulier occupant un tel poste.
+***dirigeant*** Le président ou un vice-président du conseil d’administration, le président, un vice-président, le secrétaire, un secrétaire adjoint, le trésorier, un trésorier adjoint ou le directeur général d’une coopérative, tout autre particulier désigné comme dirigeant de celle-ci par règlement administratif ou résolution du conseil, ou tout autre particulier qui exerce pour la coopérative des fonctions semblables à celles qu’exerce habituellement un particulier occupant un tel poste. (*officer*)
 
-***émetteur*** Entité qui émet des valeurs mobilières.
+***émetteur*** Entité qui émet des valeurs mobilières. (*issuer*)
 
-***entité*** Personne morale, fiducie, société de personnes, fonds ou organisation non dotée de la personnalité morale.
+***entité*** Personne morale, fiducie, société de personnes, fonds ou organisation non dotée de la personnalité morale. (*entity*)
 
-***entité coopérative*** Personne morale qui, sous le régime de la loi en vertu de laquelle elle est organisée et exploitée, doit être organisée et exploitée — et, dans les faits, l’est — suivant les principes coopératifs.
+***entité coopérative*** Personne morale qui, sous le régime de la loi en vertu de laquelle elle est organisée et exploitée, doit être organisée et exploitée — et, dans les faits, l’est — suivant les principes coopératifs. (*cooperative entity*)
 
-***envoyer*** A également le sens de remettre.
+***envoyer*** A également le sens de remettre. (*send*)
 
-***fédération*** Coopérative formée essentiellement d’autres entités coopératives, fédérations ou confédérations d’entités coopératives.
+***fédération*** Coopérative formée essentiellement d’autres entités coopératives, fédérations ou confédérations d’entités coopératives. (*federation*)
 
-***fondateur*** Tout signataire des statuts constitutifs.
+***fondateur*** Tout signataire des statuts constitutifs. (*incorporator*)
 
-***groupe*** L’ensemble des personnes morales visées au paragraphe (2).
+***groupe*** L’ensemble des personnes morales visées au paragraphe (2). (*affiliate*)
 
-***liens*** Relations entre une personne et :
+***incapable*** S’entend du particulier qui, sous le régime des lois d’une province, est reconnu comme étant incapable — sauf en raison de sa minorité — d’administrer ses biens ou qui fait l’objet d’une déclaration par un tribunal étranger d’une telle incapacité. (*incapable*)
+
+***législation antérieure*** S’entend de la Loi sur les associations coopératives du Canada, chapitre 6 des Statuts du Canada de 1970-71-72. (*prior legislation*)
+
+***liens*** Relations entre une personne et :
 - **a)** la personne morale dont elle est, soit directement, soit indirectement, le véritable propriétaire ou dont elle a, soit directement, soit indirectement, le contrôle d’un certain nombre de parts, d’actions ou de valeurs mobilières immédiatement convertibles en parts ou en actions conférant plus de dix pour cent des droits de vote en tout état de cause ou en raison soit de la réalisation continue d’une condition, soit d’une option ou d’un droit d’achat immédiat portant sur ces parts, actions ou valeurs mobilières convertibles;
 - **b)** l’entité coopérative dont elle est le véritable propriétaire des parts ou des actions conférant plus de dix pour cent des droits de vote qui peuvent être exercés à une assemblée de cette entité coopérative;
 - **c)** une organisation non constituée en personne morale dont elle détient, à titre de véritable propriétaire, plus de dix pour cent des droits de propriété;
@@ -109,74 +113,74 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** la fiducie ou la succession sur lesquelles elle a un droit découlant des droits du véritable propriétaire ou à l’égard desquelles elle remplit des fonctions de fiduciaire, d’exécuteur testamentaire ou de liquidateur de la succession ou des fonctions analogues;
 - **f)** son époux ou la personne qui vit avec elle dans une relation conjugale depuis au moins un an;
 - **g)** ses enfants ou ceux des personnes visées à l’alinéa f);
-- **h)** ses autres parents — ou ceux des personnes visées à l’alinéa f) — qui partagent sa résidence.
+- **h)** ses autres parents — ou ceux des personnes visées à l’alinéa f) — qui partagent sa résidence. (*associate*)
 
-***membre*** Personne qui est membre de la coopérative, à l’exclusion des membres auxiliaires.
+***membre*** Personne qui est membre de la coopérative, à l’exclusion des membres auxiliaires. (*member*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***option d’achat*** Option négociable par livraison qui permet d’exiger que soit livré un nombre précis de valeurs mobilières à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des valeurs mobilières de la coopérative qui l’a accordé.
+***option d’achat*** Option négociable par livraison qui permet d’exiger que soit livré un nombre précis de valeurs mobilières à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des valeurs mobilières de la coopérative qui l’a accordé. (*call*)
 
-***option de vente*** Option négociable par livraison qui permet de livrer un nombre précis de valeurs mobilières à un prix et dans un délai déterminés.
+***option de vente*** Option négociable par livraison qui permet de livrer un nombre précis de valeurs mobilières à un prix et dans un délai déterminés. (*put*)
 
-***part*** Part de membre ou part de placement.
+***part*** Part de membre ou part de placement. (*share*)
 
-***part de membre*** Part dont les caractéristiques sont énumérées à l’article 118.
+***part de membre*** Part dont les caractéristiques sont énumérées à l’article 118. (*membership share*)
 
-***part de placement*** Part du capital de parts d’une coopérative qui n’est pas une part de membre.
+***part de placement*** Part du capital de parts d’une coopérative qui n’est pas une part de membre. (*investment share*)
 
-***particulier*** Personne physique.
+***particulier*** Personne physique. (*individual*)
 
-***personne*** Particulier ou entité, notamment son représentant personnel.
+***personne*** Particulier ou entité, notamment son représentant personnel. (*person*)
 
-***personne morale*** Toute personne morale, y compris une coopérative, une entité coopérative ou une compagnie, indépendamment de son lieu ou mode de constitution.
+***personne morale*** Toute personne morale, y compris une coopérative, une entité coopérative ou une compagnie, indépendamment de son lieu ou mode de constitution. (*body corporate*)
 
-***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc.
+***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc. (*bearer*)
 
-***prêt de membre*** Prêt que la coopérative demande à ses membres comme condition de leur adhésion ou du renouvellement de celle-ci. Pour l’application des parties 8, 16, 17, 18.1 et 19 et du paragraphe 163(2), le prêt de membre est assimilé à une part de membre émise à sa valeur nominale.
+***prêt de membre*** Prêt que la coopérative demande à ses membres comme condition de leur adhésion ou du renouvellement de celle-ci. Pour l’application des parties 8, 16, 17, 18.1 et 19 et du paragraphe 163(2), le prêt de membre est assimilé à une part de membre émise à sa valeur nominale. (*member loan*)
 
-***procuration*** Formulaire de procuration rempli et signé par un détenteur de parts de placement par lequel celui-ci nomme un fondé de pouvoir pour le représenter aux assemblées où il est habile à voter.
+***procuration*** Formulaire de procuration rempli et signé par un détenteur de parts de placement par lequel celui-ci nomme un fondé de pouvoir pour le représenter aux assemblées où il est habile à voter. (*proxy*)
 
-***rachetable*** Se dit d’une part de placement que la coopérative émettrice, selon le cas :
+***rachetable*** Se dit d’une part de placement que la coopérative émettrice, selon le cas :
 - **a)** peut acquérir ou racheter unilatéralement;
-- **b)** est tenue, par ses statuts, d’acquérir ou de racheter à une date déterminée ou à la demande du détenteur.
+- **b)** est tenue, par ses statuts, d’acquérir ou de racheter à une date déterminée ou à la demande du détenteur. (*redeemable*)
 
-***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment le fiduciaire, l’exécuteur testamentaire, l’administrateur successoral, le liquidateur de succession, l’administrateur du bien d’autrui, le tuteur, le curateur, le séquestre, le mandataire et le fondé de pouvoir.
+***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment le fiduciaire, l’exécuteur testamentaire, l’administrateur successoral, le liquidateur de succession, l’administrateur du bien d’autrui, le tuteur, le curateur, le séquestre, le mandataire et le fondé de pouvoir. (*personal representative*)
 
-***résolution ordinaire*** Résolution adoptée à la majorité des voix — ou le nombre supérieur de voix nécessaires déterminé par les statuts ou une convention unanime — exprimées par les personnes habiles à voter en l’occurrence ou pour leur compte.
+***résolution ordinaire*** Résolution adoptée à la majorité des voix — ou le nombre supérieur de voix nécessaires déterminé par les statuts ou une convention unanime — exprimées par les personnes habiles à voter en l’occurrence ou pour leur compte. (*ordinary resolution*)
 
-***résolution spéciale*** Résolution adoptée aux deux tiers au moins des voix — ou le nombre supérieur de voix nécessaires déterminé par les statuts ou une convention unanime — exprimées par les personnes habiles à voter en l’occurrence ou pour leur compte.
+***résolution spéciale*** Résolution adoptée aux deux tiers au moins des voix — ou le nombre supérieur de voix nécessaires déterminé par les statuts ou une convention unanime — exprimées par les personnes habiles à voter en l’occurrence ou pour leur compte. (*special resolution*)
 
-***ristourne*** Montant qu’une coopérative attribue et verse à ses membres ou à ses clients, ou porte à leur crédit, dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire.
+***ristourne*** Montant qu’une coopérative attribue et verse à ses membres ou à ses clients, ou porte à leur crédit, dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire. (*patronage return*)
 
-***série*** Subdivision d’une catégorie de parts de placement.
+***série*** Subdivision d’une catégorie de parts de placement. (*series*)
 
-***statuts*** Les clauses, initiales ou mises à jour, réglementant la constitution ainsi que toute modification, fusion, prorogation, réorganisation, dissolution, reconstitution ou tout arrangement de la coopérative, ou les clauses correctives.
+***statuts*** Les clauses, initiales ou mises à jour, réglementant la constitution ainsi que toute modification, fusion, prorogation, réorganisation, dissolution, reconstitution ou tout arrangement de la coopérative, ou les clauses correctives. (*articles*)
 
-***sûreté*** Droit, intérêt ou charge grevant les biens d’une coopérative pour garantir le paiement de ses dettes ou l’exécution de ses obligations.
+***sûreté*** Droit, intérêt ou charge grevant les biens d’une coopérative pour garantir le paiement de ses dettes ou l’exécution de ses obligations. (*security interest*)
 
-***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans garantie, et notamment une obligation, une débenture ou un billet.
+***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans garantie, et notamment une obligation, une débenture ou un billet. (*debt obligation*)
 
-***tribunal*** Tribunal de première instance de juridiction supérieure d’une province.
+***tribunal*** Tribunal de première instance de juridiction supérieure d’une province. (*court*)
 
-***valeur mobilière*** S’entend notamment d’une part de placement, d’un titre de créance de la coopérative et, pour l’application de l’article 173 et des parties 18.1 et 19, d’une part de membre, y compris le certificat en attestant l’existence.
+***valeur mobilière*** S’entend notamment d’une part de placement, d’un titre de créance de la coopérative et, pour l’application de l’article 173 et des parties 18.1 et 19, d’une part de membre, y compris le certificat en attestant l’existence. (*security*)
 
-***vérificateur*** S’entend notamment d’un cabinet de comptables.
+***vérificateur*** S’entend notamment d’un cabinet de comptables. (*auditor*)
 
-***véritable propriétaire*** À l’égard des biens, s’entend notamment :
+***véritable propriétaire*** À l’égard des biens, s’entend notamment :
 - **a)** au Québec, du bénéficiaire d’une fiducie qui détient des biens ou du propriétaire des biens détenus par un ou plusieurs intermédiaires, notamment un mandataire ou un administrateur du bien d’autrui;
-- **b)** dans toute autre province, du propriétaire des biens détenus par un ou plusieurs intermédiaires, notamment un fiduciaire ou un représentant.
+- **b)** dans toute autre province, du propriétaire des biens détenus par un ou plusieurs intermédiaires, notamment un fiduciaire ou un représentant. (*beneficial ownership*)
 
 **Personnes morales appartenant au même groupe**
 
-- **(2)** Pour l’application de la présente loi :
+- **(2)** Pour l’application de la présente loi :
 	- **a)** appartiennent au même groupe deux personnes morales dont l’une est filiale de l’autre, qui sont toutes deux filiales de la même personne morale ou qui sont sous le contrôle de la même personne;
 	- **b)** sont réputées appartenir au même groupe deux personnes morales dont chacune appartient au groupe d’une même personne morale.
 
 **Minorité**
 
-- **(3)** Pour l’application de la présente loi, « mineur » s’entend au sens des règles du droit provincial applicables. En l’absence de telles règles, ce terme s’entend au sens donné au mot « enfant » dans la Convention internationale des droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
-> 1998, ch. 1, art. 2; 2000, ch. 12, art. 28; 2001, ch. 14, art. 137; 2011, ch. 21, art. 72.
+- **(3)** Pour l’application de la présente loi, mineur s’entend au sens des règles du droit provincial applicables. En l’absence de telles règles, ce terme s’entend au sens donné au mot enfant dans la Convention internationale des droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+> 1998, ch. 1, art. 2; 2000, ch. 12, art. 28; 2001, ch. 14, art. 137; 2011, ch. 21, art. 72; 2018, ch. 8, art. 47.
 
 
 
@@ -332,11 +336,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exclusions**
 
-- **(2)** Ne peut demander la constitution d’une coopérative :
+- **(2)** Ne peut demander la constitution d’une coopérative :
 	- **a)** le particulier qui a moins de dix-huit ans;
-	- **b)** le particulier dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
+	- **b)** le particulier qui est incapable;
 	- **c)** le particulier ou la personne morale qui a le statut de failli.
-> 1998, ch. 1, art. 8; 2001, ch. 14, art. 139.
+> 1998, ch. 1, art. 8; 2001, ch. 14, art. 139; 2018, ch. 8, art. 48.
 
 
 
@@ -359,13 +363,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demande**
 
-**10** La demande de constitution est envoyée au directeur accompagnée des éléments suivants :
+**10** La demande de constitution est envoyée au directeur accompagnée des éléments suivants :
 - **a)** les statuts constitutifs;
 - **b)** l’avis précisant l’adresse du siège social visé à l’article 30;
 - **c)** la liste des administrateurs visée à l’article 81;
-- **d)** une déclaration signée des fondateurs portant que, à la suite de sa constitution, la coopérative sera organisée et exploitée et exercera ses activités commerciales selon le principe coopératif;
-- **e)** si les parties 20 ou 21 s’y appliquent, une déclaration signée des fondateurs portant que, à la suite de sa constitution, la coopérative s’y conformera;
+- **d) et e)** [Abrogés, 2018, ch. 8, art. 49]
 - **f)** les autres renseignements que le directeur peut exiger pour l’application de l’article 12.
+> 1998, ch. 1, art. 10; 2018, ch. 8, art. 49.
+
 
 
 
@@ -378,17 +383,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** Les statuts constitutifs sont en la forme établie par le directeur et contiennent les renseignements suivants :
+- **(1)** Les statuts constitutifs sont en la forme établie par le directeur et contiennent les renseignements suivants :
 	- **a)** la dénomination sociale de la coopérative;
 	- **b)** le lieu projeté de son siège social au Canada;
-	- **c)** les nom et adresse résidentielle de chaque fondateur;
+	- **c)** [Abrogé, 2018, ch. 8, art. 50]
 	- **d)** le nombre précis ou les nombres minimal et maximal de ses administrateurs;
 	- **e)** toute limite imposée aux activités commerciales de la coopérative;
 	- **f)** toute limite imposée aux catégories de membres de la coopérative;
 	- **g)** une déclaration portant que la coopérative sera organisée et exploitée et exercera ses activités commerciales selon le principe coopératif;
 	- **h)** une déclaration portant que la coopérative exploitera son entreprise et aura des bureaux dans plus d’une province;
 	- **i)** le mode de constitution de la coopérative — avec ou sans capital de parts de membre — et, dans le deuxième cas, une déclaration portant que tout droit ou intérêt d’un membre à ce titre est égal, sous réserve du paragraphe 7(3), à celui de tout autre membre;
-	- **j)** lorsqu’il doit y avoir un capital de parts de membre, soit le fait que les parts de membre sont émises en nombre illimité, soit le fait qu’elles sont émises en nombre limité — et, dans ce cas, le nombre maximal — , de même que leur valeur nominale, s’il y a lieu, ou, si elles sont sans valeur nominale, soit le fait qu’elles doivent être émises, souscrites, rachetées ou acquises à un prix fixe, soit le fait qu’elles doivent l’être à un prix déterminé selon une formule, et, le cas échéant, le détail de cette formule;
+	- **j)** lorsqu’il doit y avoir un capital de parts de membre, soit le fait que les parts de membre sont émises en nombre illimité, soit le fait qu’elles sont émises en nombre limité — et, dans ce cas, le nombre maximal —, de même que leur valeur nominale, s’il y a lieu, ou, si elles sont sans valeur nominale, soit le fait qu’elles doivent être émises, souscrites, rachetées ou acquises à un prix fixe, soit le fait qu’elles doivent l’être à un prix déterminé selon une formule, et, le cas échéant, le détail de cette formule;
 	- **k)** toute disposition concernant le taux de rendement maximal qui peut être versé sur les prêts de membre ou les parts de membre;
 	- **l)** l’existence ou l’absence d’un capital de parts de placement et, s’il y a lieu, le détail de celui-ci;
 	- **m)** toute disposition concernant le mode de répartition des biens de la coopérative à sa dissolution et, dans le cas d’une coopérative visée par les parties 20 ou 21, les dispositions concernant le mode de répartition des biens de celle-ci à sa dissolution conformément à ces parties;
@@ -406,10 +411,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** S’il s’agit d’un vote pris pour la révocation d’un administrateur ou d’un délégué, ni les statuts ni une convention unanime ne peuvent exiger une majorité supérieure à la majorité simple des voix exprimées par les personnes habiles à voter en l’occurrence ou pour leur compte.
 
-**Signatures**
-
-- **(5)** Les fondateurs doivent signer les statuts constitutifs.
-> 1998, ch. 1, art. 11; 2011, ch. 21, art. 73.
+- **(5)** [Abrogé, 2018, ch. 8, art. 50]
+> 1998, ch. 1, art. 11; 2011, ch. 21, art. 73; 2018, ch. 8, art. 50.
 
 
 
@@ -423,16 +426,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Le directeur délivre le certificat de constitution de la coopérative s’il est convaincu que :
+- **(1)** Le directeur délivre le certificat de constitution de la coopérative s’il est convaincu que :
 	- **a)** les statuts sont conformes à l’article 11 et, s’il y a lieu, à l’article 353 et au paragraphe 359(2);
 	- **b)** la coopérative sera organisée et exploitée et exercera ses activités commerciales selon le principe coopératif;
 	- **c)** s’il y a lieu, les dispositions applicables des parties 20 ou 21 seront respectées;
 	- **d)** l’avis ou la liste exigés respectivement aux paragraphes 30(2) et 81(1) n’indiquent pas que la coopérative, une fois constituée, serait en contravention avec la présente loi.
 
-**Valeur des déclarations**
+**Valeur des statuts**
 
-- **(2)** Pour l’application des alinéas (1)b) et c), le directeur peut s’appuyer sur les statuts et les déclarations exigés par l’article 10.
-> 1998, ch. 1, art. 12; 2001, ch. 14, art. 140.
+- **(2)** Pour l’application des alinéas (1)b) et c), le directeur peut s’appuyer sur les statuts exigés par l’article 10.
+> 1998, ch. 1, art. 12; 2001, ch. 14, art. 140; 2018, ch. 8, art. 51.
 
 
 
@@ -747,7 +750,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(2)** Avis de la désignation ou du changement du lieu du siège social est envoyé au directeur, en la forme établie par lui, accompagné des clauses pertinentes des statuts.
+- **(2)** Avis du lieu où est maintenu le siège social est envoyé au directeur, en la forme établie par lui, avec les clauses pertinentes des statuts désignant ou modifiant le lieu où le siège social est situé.
 
 **Changement d’adresse**
 
@@ -756,6 +759,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(4)** La coopérative envoie au directeur dans les quinze jours avis, en la forme établie par lui, de tout changement d’adresse du siège social.
+> 1998, ch. 1, art. 30; 2018, ch. 8, art. 55(F).
+
 
 
 
@@ -1401,17 +1406,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Vote par les détenteurs de parts de placement**
 
-- **(6)** Les détenteurs de parts de placement inscrits sur la liste dressée en vertu du paragraphe (5) sont habiles à exercer les droits de vote dont sont assorties les parts de placement figurant en regard de leur nom; cependant, ces droits sont exercés par le cessionnaire lorsque les conditions suivantes sont réunies :
+- **(6)** Les détenteurs de parts de placement inscrits sur la liste dressée en vertu du paragraphe (5) sont habiles à exercer les droits de vote dont sont assorties les parts de placement figurant en regard de leur nom; cependant, ces droits sont exercés par le cessionnaire lorsque les conditions suivantes sont réunies :
 	- **a)** la cession est postérieure à la date de référence;
-	- **b)** le cessionnaire :
+	- **b)** le cessionnaire :
 		- **(i)** d’une part, exhibe les certificats de parts de placement régulièrement endossés ou prouve son titre,
 		- **(ii)** d’autre part, exige, au moins dix jours avant l’assemblée ou dans le délai plus court établi par les règlements administratifs de la coopérative, l’inscription de son nom sur la liste avant l’assemblée.
 
 **Consultation de la liste**
 
-- **(7)** Les personnes habiles à voter à l’assemblée d’une coopérative peuvent prendre connaissance de la liste de cette assemblée :
+- **(7)** Les personnes habiles à voter à l’assemblée d’une coopérative peuvent prendre connaissance de la liste de cette assemblée :
 	- **a)** au siège social de la coopérative ou au lieu où sont tenus ses registres des membres et des détenteurs de parts de placement, pendant les heures normales d’ouverture;
 	- **b)** lors de l’assemblée pour laquelle elle a été dressée.
+> 1998, ch. 1, art. 61; 2018, ch. 8, art. 57(A).
+
 
 
 
@@ -1689,10 +1696,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **78** 
 
-- **(1)** Ne peuvent être administrateurs :
+- **(1)** Ne peuvent être administrateurs :
 	- **a)** les personnes autres que les particuliers;
 	- **b)** les particuliers qui ont moins de dix-huit ans;
-	- **c)** les particuliers dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
+	- **c)** les particuliers qui sont incapables;
 	- **d)** les particuliers qui ont le statut de failli.
 
 **Autres qualités requises**
@@ -1710,7 +1717,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Élection par les membres**
 
 - **(5)** Sous réserve des paragraphes 124(3) et (4), les membres élisent tous les administrateurs.
-> 1998, ch. 1, art. 78; 2001, ch. 14, art. 159.
+> 1998, ch. 1, art. 78; 2001, ch. 14, art. 159; 2018, ch. 8, art. 58.
 
 
 
@@ -3036,6 +3043,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Aucune délivrance au porteur**
+
+**142.1** 
+
+- **(1)** Malgré l’article 142, la coopérative ne peut délivrer des titres, notamment des certificats, constatant des privilèges de conversion, ainsi que des options ou des droits d’acquérir des parts de placement qui sont au porteur.
+
+**Remplacement**
+
+- **(2)** À la demande du détenteur d’un titre constatant des privilèges de conversion ou des options ou des droits d’acquérir des parts de placement qui sont au porteur et délivrés avant l’entrée en vigueur du présent article, la coopérative lui délivre en échange un titre constatant des privilèges de conversion ou des options ou des droits d’acquérir des parts de placement qui sont nominatifs, selon le cas.
+> 2018, ch. 8, art. 61.
+
+
+
+
+
 **Réserve**
 
 **143** La coopérative dont les statuts limitent le nombre de parts qu’elle est autorisée à émettre doit conserver un nombre suffisant de parts pour assurer l’exercice tant des privilèges de conversion ou des droits qu’elle accorde que des options qu’elle émet.
@@ -3468,16 +3490,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Ordonnance de dispense**
+**Dispense**
 
 **167** 
 
-- **(1)** Le directeur peut dispenser, selon les modalités qu’il estime utiles, tout intéressé qui en fait la demande, des conditions imposées par l’article 165 ou le paragraphe 166(1). La dispense peut avoir un effet rétroactif.
+- **(1)** Le directeur peut, selon les modalités qu’il estime utiles, dispenser tout intéressé qui en fait la demande des exigences visées à l’article 165 ou aux paragraphes 166(1) ou 169(1). La dispense peut avoir un effet rétroactif.
 
-**Publicité**
-
-- **(2)** Le directeur doit communiquer dans une publication accessible au grand public les motifs ainsi que les détails des dispenses accordées en vertu du présent article.
-> 1998, ch. 1, art. 167; 2001, ch. 14, art. 189.
+- **(2)** [Abrogé, 2018, ch. 8, art. 62]
+> 1998, ch. 1, art. 167; 2001, ch. 14, art. 189; 2018, ch. 8, art. 62.
 
 
 
@@ -3564,23 +3584,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***dirigeant*** Particulier qui occupe le poste de président du conseil d’administration, président, vice-président, secrétaire, trésorier, contrôleur, chef du contentieux, directeur général ou administrateur délégué d’une entité ou qui exerce pour celle-ci des fonctions semblables à celles qu’exerce habituellement un particulier occupant un tel poste.
+***dirigeant*** Particulier qui occupe le poste de président du conseil d’administration, président, vice-président, secrétaire, trésorier, contrôleur, chef du contentieux, directeur général ou administrateur délégué d’une entité ou qui exerce pour celle-ci des fonctions semblables à celles qu’exerce habituellement un particulier occupant un tel poste. (*officer*)
 
-***initié*** Sauf à l’article 173, s’entend de :
+***initié*** Sauf à l’article 173, s’entend de :
 - **a)** tout administrateur ou dirigeant d’une coopérative ayant fait appel au public;
 - **b)** tout administrateur ou dirigeant d’une filiale d’une coopérative ayant fait appel au public;
 - **c)** tout administrateur ou dirigeant d’une entité qui participe à un regroupement d’entreprises avec une coopérative ayant fait appel au public;
-- **d)** toute personne employée par une coopérative ayant fait appel au public ou dont les services sont retenus par elle.
+- **d)** toute personne employée par une coopérative ayant fait appel au public ou dont les services sont retenus par elle. (*insider*)
 
-***part*** Part de placement qui est assortie d’un droit de vote en vertu des statuts ou, les conditions préalables étant réalisées, part de placement dont les droits de vote sont susceptibles d’exercice au titre de la présente loi, notamment :
+***part*** Part de placement qui est assortie d’un droit de vote en vertu des statuts ou, les conditions préalables étant réalisées, part de placement dont les droits de vote sont susceptibles d’exercice au titre de la présente loi, notamment :
 - **a)** la valeur mobilière immédiatement convertible en une telle part;
-- **b)** les options et droits susceptibles d’exercice immédiat permettant d’acquérir une telle part ou valeur mobilière convertible.
+- **b)** les options et droits susceptibles d’exercice immédiat permettant d’acquérir une telle part ou valeur mobilière convertible. (*share*)
 
-***regroupement d’entreprises*** Acquisition de la totalité ou d’une partie substantielle des biens d’une entité par une autre, fusion d’entités ou réorganisation similaire entre de telles entités.
+***regroupement d’entreprises*** Acquisition de la totalité ou de la quasi-totalité des biens d’une entité par une autre, fusion d’entités ou réorganisation similaire mettant en cause des entités. (*business combination*)
 
 **Interprétation**
 
-- **(2)** Pour l’application de la présente partie :
+- **(2)** Pour l’application de la présente partie :
 	- **a)** est réputé être initié d’une coopérative ayant fait appel au public tout administrateur ou dirigeant d’une entité qui est le véritable propriétaire — directement ou indirectement — de parts de la coopérative ayant fait appel au public ou qui exerce le contrôle ou a la haute main sur de telles parts, ou qui possède une combinaison de ces éléments, ces parts comportant un pourcentage de votes attachés à l’ensemble des parts de la coopérative ayant fait appel au public en circulation supérieur au pourcentage réglementaire, à l’exclusion des parts que cette personne détient en qualité de placeur pendant qu’elles font l’objet d’un appel public à l’épargne;
 	- **b)** tout administrateur ou dirigeant d’une filiale est réputé être initié de la coopérative mère ayant fait appel au public;
 	- **c)** une personne est réputée être le véritable propriétaire des parts ou actions dont l’entité qu’elle contrôle, même indirectement, a la propriété effective;
@@ -3592,7 +3612,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Pour l’application de la présente partie, la vente de parts de membre à des membres ou le versement d’un prêt de membre à une coopérative ne constitue pas un appel public à l’épargne.
 
 - **(4)** [Abrogé, 2001, ch. 14, art. 191]
-> 1998, ch. 1, art. 171; 2001, ch. 14, art. 191.
+> 1998, ch. 1, art. 171; 2001, ch. 14, art. 191; 2018, ch. 8, art. 64(F).
 
 
 
@@ -4049,24 +4069,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **185** 
 
-- **(1)** La coopérative peut émettre, pour chaque fraction de part de placement, soit un certificat, soit des certificats provisoires au porteur donnant droit à une part de placement entière en échange de tous les certificats provisoires correspondants.
+- **(1)** La coopérative peut émettre, pour chaque fraction de part de placement, soit un certificat nominatif, soit des certificats provisoires nominatifs donnant droit à une part de placement entière en échange de tous les certificats provisoires correspondants.
+
+**Remplacement**
+
+- **(1.1)** À la demande du détenteur d’un certificat pour une fraction de part de placement ou de certificats provisoires pour une fraction de part de placement émis au porteur avant l’entrée en vigueur du présent paragraphe, la coopérative lui délivre en échange, pour la fraction de part, un certificat nominatif ou des certificats provisoires nominatifs, selon le cas.
 
 **Conditions**
 
-- **(2)** Les administrateurs peuvent assortir les certificats provisoires de conditions, notamment les suivantes :
+- **(2)** Les administrateurs peuvent assortir les certificats provisoires de conditions, notamment les suivantes :
 	- **a)** ils sont frappés de nullité s’ils ne sont pas échangés avant une date déterminée contre les certificats représentant les parts de placement entières;
 	- **b)** les parts de placement contre lesquelles ils sont échangeables peuvent, malgré tout droit de préemption, faire l’objet, au profit de toute personne, d’une émission dont le produit est distribué, au prorata, aux détenteurs de ces certificats provisoires.
 
 **Droit de vote**
 
-- **(3)** Les détenteurs de fractions de parts de placement ne peuvent voter ni recevoir de dividendes que dans l’un ou l’autre des cas suivants :
+- **(3)** Les détenteurs de fractions de parts de placement ne peuvent voter ni recevoir de dividendes que dans l’un ou l’autre des cas suivants :
 	- **a)** le fractionnement est consécutif à un regroupement de parts de placement;
 	- **b)** les statuts de la coopérative le permettent.
 
 **Exercice du droit de vote**
 
 - **(4)** Les détenteurs de certificats provisoires ne peuvent, à ce titre, voter ni recevoir de dividendes.
-> 1998, ch. 1, art. 185; 2011, ch. 21, art. 90(A).
+> 1998, ch. 1, art. 185; 2011, ch. 21, art. 90(A); 2018, ch. 8, art. 65.
 
 
 
@@ -4132,9 +4156,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve de la propriété**
 
-**190** La coopérative qui limite le droit de transférer ses parts de placement peut, malgré l’article 189, considérer comme fondés à exercer les droits du propriétaire inscrit d’une valeur mobilière qu’ils représentent, dans la mesure où la preuve qu’elle exige lui est fournie :
-- **a)** le représentant de la succession d’un détenteur de valeurs mobilières ainsi que les héritiers de ce dernier ou d’un détenteur inscrit de valeurs mobilières mineur, incapable, inapte ou absent;
+**190** La coopérative qui limite le droit de transférer ses parts de placement peut, malgré l’article 189, considérer comme fondés à exercer les droits du propriétaire inscrit d’une valeur mobilière qu’ils représentent, dans la mesure où la preuve qu’elle exige lui est fournie :
+- **a)** le représentant de la succession d’un détenteur de valeurs mobilières ainsi que les héritiers de ce dernier ou d’un détenteur inscrit de valeurs mobilières mineur, incapable ou absent;
 - **b)** le liquidateur ou le syndic de faillite agissant pour un détenteur inscrit de valeurs mobilières.
+> 1998, ch. 1, art. 190; 2018, ch. 8, art. 66.
+
 
 
 
@@ -4242,14 +4268,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **199** 
 
-- **(1)** La personne tenue de livrer des valeurs mobilières peut livrer les valeurs de l’émission spécifiée de l’une des façons suivantes :
+- **(1)** La personne tenue de livrer des valeurs mobilières peut livrer les valeurs de l’émission spécifiée de l’une des façons suivantes :
 	- **a)** au porteur;
 	- **b)** sous forme nominative au cessionnaire;
 	- **c)** endossées, au profit de cette personne, ou en blanc.
 
 **Limites**
 
-- **(2)** Le paragraphe (1) est assujetti à toute convention à l’effet contraire ainsi qu’à toute loi fédérale ou provinciale, tout règlement ou toute règle d’une bourse qui s’applique.
+- **(2)** Le paragraphe (1) est assujetti à toute convention à l’effet contraire ainsi qu’à toute disposition de la présente loi, de toute autre loi fédérale, de toute loi provinciale ou de tout règlement pris en vertu de telles lois ou à toute règle d’une bourse qui s’applique.
+> 1998, ch. 1, art. 199; 2018, ch. 8, art. 67.
+
 
 
 
@@ -4491,11 +4519,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **221** 
 
-- **(1)** Au présent article, à l’article 222, aux paragraphes 229(1) et 237(1) et à l’article 241, ***compétente***, à l’égard d’une personne, désigne :
+- **(1)** Au présent article, à l’article 222, aux paragraphes 229(1) et 237(1) et à l’article 241, ***compétente***, à l’égard d’une personne, désigne :
 	- **a)** le titulaire de la valeur mobilière, mentionné sur celle-ci ou dans un endossement nominatif;
 	- **b)** la personne visée à l’alinéa a) désignée en qualité de représentant, mais qui n’agit plus en cette qualité, ou son successeur;
 	- **c)** tout représentant dont le nom figure parmi ceux qui sont mentionnés sur la valeur mobilière ou dans l’endossement visés à l’alinéa a), indépendamment de la présence d’un successeur nommé ou agissant à la place de ceux qui n’ont plus qualité;
-	- **d)** le représentant de la personne visée à l’alinéa a) si celle-ci est un particulier décédé ou incapable, notamment en raison de sa minorité;
+	- **d)** le représentant de la personne visée à l’alinéa a) si celle-ci est un particulier décédé, mineur ou incapable;
 	- **e)** tout survivant parmi les bénéficiaires avec droit ou gain de survie nommés sur la valeur mobilière ou dans l’endossement mentionnés à l’alinéa a);
 	- **f)** la personne qui a le pouvoir légal de signer;
 	- **g)** le mandataire autorisé des personnes visées aux alinéas a) à f) dans la mesure où elles ont qualité pour désigner un mandataire.
@@ -4503,6 +4531,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appréciation de l’état de personne compétente**
 
 - **(2)** La question de la compétence des signataires se règle au moment de la signature.
+> 1998, ch. 1, art. 221; 2018, ch. 8, art. 68.
+
 
 
 
@@ -4864,8 +4894,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **247** 
 
-- **(1)** Sous réserve de l’article 248, les administrateurs doivent, à l’assemblée annuelle des membres, leur présenter :
-	- **a)** les états financiers comparatifs réglementaires couvrant séparément :
+- **(1)** Les administrateurs doivent, à l’assemblée annuelle des membres, leur présenter :
+	- **a)** les états financiers comparatifs exigés par les règlements, établis conformément à ceux-ci et couvrant séparément :
 		- **(i)** la période se terminant six mois au plus avant l’assemblée et ayant commencé à la date soit de création de la coopérative, soit, si elle a déjà fonctionné durant un exercice complet, de la fin de cet exercice,
 		- **(ii)** l’exercice précédent;
 	- **b)** le rapport du vérificateur, s’il a été établi;
@@ -4878,13 +4908,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Par dérogation à l’alinéa (1)a) et au paragraphe (2), il n’est pas nécessaire de présenter les états financiers visés au sous-alinéa (1)a)(ii) si le motif en est donné dans les états financiers, ou dans une note y annexée, à présenter aux membres et, le cas échéant, aux détenteurs de parts de placement, à leur assemblée annuelle.
+> 1998, ch. 1, art. 247; 2018, ch. 8, art. 69.
 
 
 
 
-**Dispense**
 
-**248** Le directeur peut, sur demande de la coopérative, autoriser celle-ci, aux conditions raisonnables qu’il estime indiquées, à ne pas présenter dans ses états financiers certains postes réglementaires s’il a de bonnes raisons de croire que la divulgation des renseignements en cause serait préjudiciable à la coopérative.
+**Demande de dispense**
+
+**248** Le directeur peut, sur demande de la coopérative, soustraire celle-ci, aux conditions qu’il estime indiquées, à toute obligation prévue à l’article 247 ou à l’un des articles 249 à 252 s’il a de bonnes raisons de croire que les inconvénients pour la coopérative qui découleraient du respect de l’obligation l’emportent sur les avantages qui en résulteraient pour les membres ou les détenteurs de parts de placement ou, dans le cas de la coopérative ayant fait appel au public, sur les avantages qui en résulteraient pour le public.
+> 1998, ch. 1, art. 248; 2018, ch. 8, art. 70.
+
 
 
 
@@ -5509,14 +5543,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **285** 
 
-- **(1)** La personne morale constituée ou prorogée autrement qu’en vertu de la présente loi peut, si le texte qui la régit l’y autorise, demander au directeur de lui délivrer un certificat de prorogation en vertu de la présente loi, dans le cas suivant :
+- **(1)** La personne morale constituée ou prorogée autrement qu’en vertu de la présente loi peut, si le texte qui la régit l’y autorise, demander au directeur de lui délivrer un certificat de prorogation en vertu de la présente loi, dans le cas suivant :
 	- **a)** elle se conforme aux exigences en matière de constitution prévues par la présente loi ou, conformément à ses clauses de prorogation, elle s’y conformera;
 	- **b)** elle est organisée et exploitée et exerce ses activités selon le principe coopératif ou, conformément à ses clauses de prorogation, elle fait en sorte d’être organisée et exploitée et d’exercer ses activités selon le principe coopératif;
 	- **c)** elle a une structure de capital et une structure d’entreprise qui, si elles étaient énoncées dans les statuts et les règlements administratifs d’une coopérative, satisferaient aux exigences de la présente loi.
 
 **Prorogation afin de fusionner**
 
-- **(2)** La personne morale constituée ou prorogée autrement qu’en vertu de la présente loi peut, si le texte qui la régit l’y autorise, demander au directeur de lui délivrer un certificat de prorogation et un certificat de fusion en vertu de la présente loi, dans le cas suivant :
+- **(2)** La personne morale constituée ou prorogée autrement qu’en vertu de la présente loi peut, si le texte qui la régit l’y autorise, demander au directeur de lui délivrer un certificat de prorogation et un certificat de fusion en vertu de la présente loi, dans le cas suivant :
 	- **a)** elle a l’intention d’être prorogée en vertu du présent article afin de fusionner avec une autre personne morale conformément à la présente loi et elle satisfait ou satisfera, après la fusion, aux exigences en matière de constitution de la coopérative prévues par la présente loi;
 	- **b)** elle est organisée et exploitée et exerce ses activités selon le principe coopératif ou, à la suite de sa fusion, elle sera organisée et exploitée et exercera ses activités selon le principe coopératif;
 	- **c)** elle a une structure de capital et une structure d’entreprise qui, à la suite de sa fusion, satisferaient, si elles étaient énoncées dans ses statuts et ses règlements administratifs, aux exigences de la présente loi.
@@ -5527,27 +5561,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Clauses de prorogation**
 
-- **(4)** Les clauses de prorogation qui accompagnent la demande visée au paragraphe (1) doivent être envoyées au directeur en la forme établie par lui accompagnées des renseignements qu’il peut exiger et d’une déclaration des administrateurs portant qu’après sa prorogation :
-	- **a)** la coopérative sera organisée et exploitée et fera affaire selon le principe coopératif;
-	- **b)** dans le cas d’une coopérative régie par la partie 20, elle satisfera aux exigences de cette partie;
-	- **c)** dans le cas d’une coopérative régie par la partie 21, elle satisfera aux exigences de cette partie.
+- **(4)** Les clauses de prorogation qui accompagnent la demande visée au paragraphe (1) doivent être envoyées au directeur en la forme établie par lui et accompagnées des renseignements qu’il peut exiger.
 
 **Clauses de prorogation et clauses de fusion**
 
-- **(5)** Les clauses de prorogation et les clauses de fusion qui accompagnent la demande visée au paragraphe (2) doivent être envoyées au directeur en la forme établie par lui accompagnées de la convention qui prévoit les modalités visées à l’article 296, des renseignements qu’il peut exiger et d’une déclaration des administrateurs portant qu’après sa fusion :
-	- **a)** la coopérative sera organisée et exploitée et fera affaire selon le principe coopératif;
-	- **b)** dans le cas d’une coopérative régie par la partie 20, elle satisfera aux exigences de cette partie;
-	- **c)** dans le cas d’une coopérative régie par la partie 21, elle satisfera aux exigences de cette partie.
+- **(5)** Les clauses de prorogation et les clauses de fusion qui accompagnent la demande visée au paragraphe (2) doivent être envoyées au directeur en la forme établie par lui et accompagnées des renseignements qu’il peut exiger.
 
-**Certificat — clauses et déclarations**
+**Certificat**
 
-- **(6)** Le directeur doit délivrer :
-	- **a)** un certificat de prorogation, à la réception des clauses de prorogation et de la déclaration exigées au paragraphe (4), s’il est convaincu que les exigences en matière de constitution sont remplies;
-	- **b)** un certificat de prorogation et un certificat de fusion, à la réception des clauses de prorogation, des clauses de fusion, de la convention de fusion et de la déclaration exigées au paragraphe (5), s’il est convaincu que les exigences en matière de constitution et de fusion sont remplies.
+- **(6)** Le directeur délivre :
+	- **a)** un certificat de prorogation, à la réception des clauses de prorogation, s’il est convaincu que les exigences en matière de constitution sont remplies;
+	- **b)** un certificat de prorogation et un certificat de fusion, à la réception des clauses de prorogation et des clauses de fusion, s’il est convaincu que les exigences en matière de constitution et de fusion sont remplies.
 
-**Valeur des déclarations**
+**Valeur des clauses**
 
-- **(7)** Pour l’application du paragraphe (6), le directeur peut s’appuyer sur les clauses et les déclarations.
+- **(7)** Pour l’application du paragraphe (6), le directeur peut s’appuyer sur les clauses.
 
 **Effet du certificat**
 
@@ -5559,7 +5587,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Maintien des droits**
 
-- **(10)** En cas de prorogation d’une personne morale sous forme de coopérative régie par la présente loi :
+- **(10)** En cas de prorogation d’une personne morale sous forme de coopérative régie par la présente loi :
 	- **a)** la coopérative est propriétaire des biens de la personne morale;
 	- **b)** elle est responsable des obligations de celle-ci;
 	- **c)** aucune atteinte n’est portée aux causes d’action déjà nées;
@@ -5568,7 +5596,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Parts de membre**
 
-- **(11)** La prorogation d’une personne morale sous forme de coopérative régie par la présente loi a les effets suivants :
+- **(11)** La prorogation d’une personne morale sous forme de coopérative régie par la présente loi a les effets suivants :
 	- **a)** les actions ordinaires de la personne morale sont réputées être des parts de membre auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi et les statuts;
 	- **b)** les détenteurs des actions ordinaires de la personne morale sont réputés être membres de la coopérative;
 	- **c)** est nulle toute convention intervenue avant la prorogation et aux termes de laquelle les détenteurs d’actions ordinaires de la personne morale ont convenu d’exercer les droits de vote se rattachant à ces actions de la manière qui y est prévue.
@@ -5582,19 +5610,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Parts ou actions déjà émises**
 
-- **(12)** Sous réserve de l’article 182, la prorogation a aussi les effets suivants :
+- **(12)** Sous réserve de l’article 182 et du paragraphe (13), la prorogation a aussi les effets suivants :
 	- **a)** les parts ou actions émises avant la prorogation d’une personne morale sous forme de coopérative régie par la présente loi sont réputées l’avoir été en conformité avec la présente loi et avec les clauses de prorogation, qu’elles aient été ou non entièrement libérées et indépendamment de leur désignation et des droits, privilèges, restrictions ou conditions mentionnés dans les certificats représentant ces parts ou actions;
 	- **b)** la prorogation, en vertu de la présente loi, n’entraîne pas la suppression des droits, privilèges et obligations découlant des parts ou actions déjà émises;
 	- **c)** les parts ou actions comportent des droits de vote uniquement dans la mesure permise par la présente loi.
 
 **Certificats de parts nominatifs convertibles au porteur**
 
-- **(13)** La coopérative qui, avant sa prorogation sous le régime de la présente loi, avait émis des certificats de parts ou d’actions nominatifs mais convertibles au porteur peut émettre, au profit des titulaires qui exercent leur privilège, des certificats au porteur pour le même nombre de parts.
+- **(13)** La coopérative qui, avant sa prorogation sous le régime de la présente loi, avait émis des certificats de parts ou d’actions nominatifs mais convertibles au porteur ne peut pas émettre, au profit des titulaires qui exercent leur privilège, des certificats au porteur.
 
 **Définition de action ou part**
 
-- **(14)** Pour l’application des paragraphes (12) et (13), ***action*** ou ***part*** s’entendent, entre autres, du document visé à l’un des paragraphes 142(1) à (3), d’une option d’achat d’actions au sens donné à « titre au porteur » dans la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ou de tout titre analogue.
-> 1998, ch. 1, art. 285; 2010, ch. 12, art. 2113.
+- **(14)** Pour l’application des paragraphes (12) et (13), action ou part s’entendent, entre autres, du document visé à l’un des paragraphes 142(1) à (3), d’une option d’achat d’actions au sens donné à titre au porteur dans la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ou de tout titre analogue.
+> 1998, ch. 1, art. 285; 2010, ch. 12, art. 2113; 2018, ch. 8, art. 72.
 
 
 
@@ -5629,7 +5657,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **287** 
 
-- **(1)** Sous réserve du paragraphe (6) et des parties 20 et 21, la coopérative qui y est autorisée par résolution spéciale de ses membres et, dans le cas où elle a émis des parts de placement, par résolution spéciale distincte des détenteurs de parts de placement de chaque catégorie, et qui convainc le directeur, par une déclaration des administrateurs, peut demander, au fonctionnaire ou à l’administration compétents relevant d’une autre autorité législative, sa prorogation sous le régime de celle-ci. La déclaration des administrateurs porte que :
+- **(1)** Sous réserve du paragraphe (6) et des parties 20 et 21, la coopérative qui y est autorisée par résolution spéciale de ses membres et, dans le cas où elle a émis des parts de placement, par résolution spéciale distincte des détenteurs de parts de placement de chaque catégorie, et qui convainc le directeur des éléments ci-après, peut demander, au fonctionnaire ou à l’administration compétents relevant d’une autre autorité législative, sa prorogation sous le régime de celle-ci :
 	- **a)** ses membres, ses créanciers et ses détenteurs de parts de placement n’en subiront aucun préjudice;
 	- **b)** la coopérative continuera à exercer ses activités commerciales et à mener ses affaires internes en accord avec le principe coopératif;
 	- **c)** s’il s’agit d’une coopérative à laquelle la partie 20 s’applique, elle continuera à exercer ses activités commerciales et à mener ses affaires internes en accord avec les principes qui sous-tendent cette partie;
@@ -5653,12 +5681,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet nécessaire de la prorogation**
 
-- **(6)** La loi de toute autre autorité législative sous le régime de laquelle la coopérative est prorogée sous forme de personne morale doit prévoir que :
+- **(6)** La loi de toute autre autorité législative sous le régime de laquelle la coopérative est prorogée sous forme de personne morale doit prévoir que :
 	- **a)** la personne morale est propriétaire des biens de cette coopérative;
 	- **b)** la personne morale est responsable des obligations de cette coopérative;
 	- **c)** aucune atteinte n’est portée aux causes d’action déjà nées;
 	- **d)** la personne morale remplace la coopérative dans la conduite d’une enquête ou dans les poursuites civiles, pénales, administratives ou autres engagées par ou contre celle-ci;
 	- **e)** toute décision judiciaire ou quasi judiciaire rendue en faveur de la coopérative ou contre elle est exécutoire à l’égard de la personne morale.
+> 1998, ch. 1, art. 287; 2018, ch. 8, art. 73.
+
 
 
 
@@ -5740,21 +5770,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **291** 
 
-- **(1)** Sous réserve de l’annulation conformément aux paragraphes 130(5) ou 289(2), après l’adoption d’une modification, les renseignements qu’exige le directeur et les clauses modificatrices des statuts sont envoyées à celui-ci, en la forme qu’il établit, accompagnés d’une déclaration des administrateurs portant qu’après leur entrée en vigueur :
-	- **a)** la coopérative sera organisée et exploitée et fera affaire selon le principe coopératif;
-	- **b)** s’il s’agit d’une coopérative à laquelle la partie 20 s’applique, elle satisfera aux exigences de cette partie;
-	- **c)** s’il s’agit d’une coopérative à laquelle la partie 21 s’applique, elle satisfera aux exigences de cette partie.
+- **(1)** Sous réserve de l’annulation conformément aux paragraphes 130(5) ou 289(2), après l’adoption d’une modification, les renseignements qu’exige le directeur et les clauses modificatrices des statuts sont envoyées à celui-ci en la forme qu’il établit.
 
 **Réduction du capital déclaré**
 
 - **(2)** En cas de modification donnant lieu à une réduction du capital déclaré, les paragraphes 151(2) et (5) s’appliquent.
+> 1998, ch. 1, art. 291; 2018, ch. 8, art. 74.
+
 
 
 
 
 **Certificat de modification**
 
-**292** À la réception des clauses modificatrices et de la déclaration visées au paragraphe 291(1), le directeur délivre un certificat de modification.
+**292** À la réception des clauses modificatrices, le directeur délivre un certificat de modification.
+> 1998, ch. 1, art. 292; 2018, ch. 8, art. 75.
+
 
 
 
@@ -5892,29 +5923,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les statuts de la coopérative issue de la fusion, en la forme établie par le directeur, sont, après l’approbation de la fusion en vertu des articles 297 ou 298, envoyés à celui-ci avec un avis quant à l’adresse du siège social et la liste des administrateurs de la coopérative issue de la fusion.
 
-**Déclarations annexées**
+**Déclarations solennelles annexées**
 
-- **(2)** Les statuts de la coopérative issue de la fusion comportent en annexe une déclaration des administrateurs de chaque coopérative fusionnante établissant :
-	- **a)** que la coopérative sera organisée et exploitée et fera affaire selon le principe coopératif;
-	- **b)** s’il s’agit d’une coopérative à laquelle la partie 20 s’applique, qu’elle satisfera aux exigences de cette partie;
-	- **c)** s’il s’agit d’une coopérative à laquelle la partie 21 s’applique, qu’elle satisfera aux exigences de cette partie;
-	- **d)** l’existence de motifs raisonnables de croire que :
+- **(2)** Les statuts de la coopérative issue de la fusion comportent en annexe une déclaration solennelle de l’un des administrateurs ou dirigeants de chaque coopérative fusionnante établissant, à la satisfaction du directeur :
+	- **a) à c)** [Abrogés, 2018, ch. 8, art. 76]
+	- **d)** l’existence de motifs raisonnables de croire que :
 		- **(i)** d’une part, chaque coopérative fusionnante peut — et la coopérative issue de la fusion pourra — acquitter son passif à échéance,
 		- **(ii)** d’autre part, la valeur de réalisation de l’actif de la coopérative issue de la fusion ne sera pas inférieure au total de son passif et de son capital déclaré;
-	- **e)** l’existence de motifs raisonnables de croire que :
+	- **e)** l’existence de motifs raisonnables de croire que :
 		- **(i)** soit la fusion ne portera préjudice à aucun créancier,
 		- **(ii)** soit les créanciers connus des coopératives fusionnantes, ayant reçu un avis suffisant, ne s’opposent pas à la fusion, si ce n’est pour des motifs futiles ou vexatoires.
 
 **Avis suffisant**
 
-- **(3)** Pour l’application du sous-alinéa (2)e)(ii), pour être suffisant l’avis doit à la fois :
+- **(3)** Pour l’application du sous-alinéa (2)e)(ii), pour être suffisant l’avis doit à la fois :
 	- **a)** être écrit et envoyé à chaque créancier connu dont la créance à l’endroit d’une des coopératives fusionnantes est supérieure à mille dollars;
 	- **b)** être écrit et inséré une fois dans un journal publié ou diffusé au lieu du siège social de chaque coopérative fusionnante et recevoir une publicité suffisante dans chaque province où la coopérative exerce ses activités commerciales;
 	- **c)** indiquer l’intention de la coopérative de fusionner, en conformité avec la présente loi, avec les coopératives qu’il mentionne et le droit des créanciers de cette coopérative de s’opposer à la fusion dans les trente jours suivant la date de l’avis.
 
 **Certificat de fusion**
 
-- **(4)** À la réception des statuts de fusion et des déclarations exigées par le paragraphe (2), le directeur délivre un certificat de fusion s’il est convaincu que :
+- **(4)** À la réception des statuts de fusion et des déclarations exigées par le paragraphe (2), le directeur délivre un certificat de fusion s’il est convaincu que :
 	- **a)** les statuts sont conformes à l’article 11 et, le cas échéant, à l’article 353 et au paragraphe 359(2);
 	- **b)** la coopérative sera organisée et exploitée et fera affaires selon le principe coopératif;
 	- **c)** les éléments visés aux alinéas (2)d) et e) sont exacts;
@@ -5923,6 +5952,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Valeur des déclarations**
 
 - **(5)** Pour l’application des alinéas (4)b) à d), le directeur peut s’appuyer sur les statuts et les déclarations exigées par le paragraphe (2).
+> 1998, ch. 1, art. 299; 2018, ch. 8, art. 76.
+
 
 
 
@@ -6224,12 +6255,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **307** 
 
-- **(1)** La présente partie, sauf les articles 308 et 311, ne s’applique pas aux coopératives qui sont des personnes insolvables ou des faillies au sens du paragraphe 2(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+- **(1)** La présente partie, sauf les articles 308 et 311, ne s’applique pas aux coopératives qui sont des personnes insolvables au sens de l’article 2 de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou des faillies au sens de cet article 2.
 
 **Procédure suspendue**
 
-- **(2)** Toute procédure soit de dissolution, soit de liquidation et de dissolution, engagée en vertu de la présente partie, est suspendue dès la constatation de l’insolvabilité de la coopérative au cours de procédures intentées en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
-> 1998, ch. 1, art. 307; 2001, ch. 14, art. 209.
+- **(2)** Toute procédure soit de dissolution, soit de liquidation et de dissolution engagée en vertu de la présente partie à l’égard d’une coopérative est suspendue dès la constatation, au cours de procédures intentées en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), que la coopérative est une personne insolvable au sens de l’article 2 de cette loi.
+> 1998, ch. 1, art. 307; 2001, ch. 14, art. 209; 2018, ch. 8, art. 77.
 
 
 
@@ -6239,32 +6270,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **308** 
 
-- **(1)** Tout intéressé ou toute personne qui deviendrait intéressée lors de la reconstitution de la coopérative peut demander au directeur la reconstitution, en vertu de la présente loi, d’une coopérative dissoute en vertu de la présente partie.
+- **(1)** Tout intéressé ou toute personne qui deviendrait intéressée lors de la reconstitution d’une coopérative dissoute en vertu de la présente partie peut en demander au directeur la reconstitution en coopérative régie par la présente loi.
 
 **Clauses de reconstitution**
 
-- **(2)** Les clauses de reconstitution sont envoyées au directeur en la forme établie par lui et sont accompagnées d’une déclaration des administrateurs qui a le même effet qu’une déclaration visée aux alinéas 10d) et, s’il y a lieu, e).
+- **(2)** Les clauses de reconstitution sont envoyées au directeur en la forme établie par lui.
 
 **Certificat de reconstitution**
 
-- **(3)** À la réception des clauses de reconstitution, le directeur doit délivrer un certificat de reconstitution sauf s’il est convaincu :
-	- **a)** que sa délivrance aurait pour la coopérative les conséquences suivantes :
+- **(3)** À la réception des clauses de reconstitution, le directeur doit délivrer un certificat de reconstitution sauf s’il est convaincu :
+	- **a)** que sa délivrance aurait pour la coopérative dissoute les conséquences suivantes :
 		- **(i)** la coopérative ne peut plus être organisée ou exploitée ou faire affaire selon le principe coopératif,
 		- **(ii)** s’il s’agit d’une coopérative à laquelle la partie 20 s’applique, elle ne peut satisfaire aux exigences de cette partie,
 		- **(iii)** s’il s’agit d’une coopérative à laquelle la partie 21 s’applique, elle ne peut satisfaire aux exigences de cette partie;
 	- **b)** que sa délivrance n’est pas justifiée.
 
-**Valeur des déclarations**
+**Valeur des clauses**
 
-- **(4)** Pour l’application du paragraphe (3), le directeur peut s’appuyer sur les clauses et les déclarations visées au paragraphe (2).
+- **(4)** Pour l’application du paragraphe (3), le directeur peut s’appuyer sur les clauses de reconstitution.
 
 **Reconstitution**
 
-- **(5)** La coopérative est reconstituée en vertu de la présente loi à la date figurant sur le certificat.
+- **(5)** La coopérative dissoute est reconstituée en coopérative régie par la présente loi à la date précisée sur le certificat.
 
 **Maintien des droits**
 
-- **(6)** Sous réserve des modalités raisonnables imposées par le directeur, des droits acquis par toute personne après sa dissolution et de tout changement aux affaires internes de la coopérative survenu après sa dissolution, la coopérative reconstituée recouvre, comme si elle n’avait jamais été dissoute :
+- **(6)** Sous réserve des modalités raisonnables imposées par le directeur, des droits acquis par toute personne après sa dissolution et de tout changement aux affaires internes de la coopérative survenu après sa dissolution, la coopérative reconstituée recouvre, comme si elle n’avait jamais été dissoute :
 	- **a)** la même situation juridique, notamment ses droits et privilèges, indépendamment de leur date d’acquisition;
 	- **b)** la responsabilité des obligations qui seraient les siennes si elle n’avait pas été dissoute, indépendamment de la date où elles ont été contractées.
 
@@ -6274,11 +6305,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de intéressé**
 
-- **(8)** Pour l’application du présent article, ***intéressé*** s’entend notamment :
+- **(8)** Pour l’application du présent article, ***intéressé*** s’entend notamment :
 	- **a)** des membres, détenteurs de parts de placement, administrateurs, dirigeants, employés et créanciers de la coopérative dissoute;
-	- **b)** de toute personne ayant un lien contractuel avec elle;
-	- **c)** du syndic de faillite de la coopérative dissoute.
-> 1998, ch. 1, art. 308; 2001, ch. 14, art. 210.
+	- **b)** de toute personne liée par un contrat — à l’exclusion, au Québec, du contrat à titre gratuit — conclu avec la coopérative dissoute;
+	- **c)** du syndic de faillite ou du liquidateur de la coopérative dissoute.
+> 1998, ch. 1, art. 308; 2001, ch. 14, art. 210; 2018, ch. 8, art. 78.
 
 
 
@@ -6383,7 +6414,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **311** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), le directeur peut, par l’émission du certificat de dissolution prévu au présent article, dissoudre toute coopérative si, selon le cas :
+- **(1)** Sous réserve des paragraphes (2) et (3), le directeur peut, par l’émission du certificat de dissolution prévu au présent article, dissoudre toute coopérative si, selon le cas :
 	- **a)** la coopérative n’a pas commencé ses opérations dans les trois ans de la date figurant sur son certificat de constitution;
 	- **b)** elle n’a pas exercé ses activités commerciales pendant trois années consécutives;
 	- **c)** elle omet, pendant un délai d’un an, d’envoyer au directeur les droits, avis ou documents exigés par la présente loi;
@@ -6391,9 +6422,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(2)** Le directeur ne peut dissoudre, en vertu du présent article, une coopérative avant d’avoir pris les mesures suivantes :
+- **(2)** Le directeur ne peut dissoudre, en vertu du présent article, une coopérative avant d’avoir pris les mesures suivantes :
 	- **a)** lui avoir donné, ainsi qu’à chacun de ses administrateurs, un préavis de cent vingt jours de son intention;
-	- **b)** avoir publié un avis de son intention dans une publication accessible au grand public.
+	- **b)** avoir publié un avis de son intention dans une publication destinée au grand public.
 
 **Certificat de dissolution**
 
@@ -6406,7 +6437,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet du certificat**
 
 - **(4)** La coopérative cesse d’exister à la date figurant sur le certificat de dissolution.
-> 1998, ch. 1, art. 311; 2001, ch. 14, art. 211.
+> 1998, ch. 1, art. 311; 2001, ch. 14, art. 211; 2018, ch. 8, art. 79(F).
 
 
 
@@ -6416,7 +6447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **312** 
 
-- **(1)** Tout intéressé peut demander au tribunal de prononcer, par ordonnance, la dissolution de la coopérative qui, selon le cas :
+- **(1)** Tout intéressé peut demander au tribunal de prononcer, par ordonnance, la dissolution de la coopérative qui, selon le cas :
 	- **a)** n’a pas observé pendant au moins deux années consécutives les dispositions de la présente loi en matière de tenue des assemblées annuelles;
 	- **b)** a enfreint l’article 18, le paragraphe 27(2) ou les articles 31, 247 ou 249;
 	- **c)** a obtenu un certificat au titre de la présente loi sur présentation de faits erronés.
@@ -6431,14 +6462,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Certificat**
 
-- **(4)** À la réception de l’ordonnance visée au présent article ou à l’article 313, le directeur délivre, en la forme établie par lui, un certificat :
+- **(4)** À la réception de l’ordonnance visée au présent article ou à l’article 313, le directeur délivre, en la forme établie par lui, un certificat :
 	- **a)** de dissolution, s’il s’agit d’une ordonnance à cet effet;
-	- **b)** d’intention de dissolution, s’il s’agit d’une ordonnance de liquidation et de dissolution sous la surveillance du tribunal; il en fait publier un avis dans une publication accessible au grand public.
+	- **b)** d’intention de dissolution, s’il s’agit d’une ordonnance de liquidation et de dissolution sous la surveillance du tribunal; il en fait publier un avis dans une publication destinée au grand public.
 
 **Effet du certificat**
 
 - **(5)** La coopérative cesse d’exister à la date figurant sur le certificat de dissolution.
-> 1998, ch. 1, art. 312; 2001, ch. 14, art. 212.
+> 1998, ch. 1, art. 312; 2001, ch. 14, art. 212; 2018, ch. 8, art. 80(F).
 
 
 
@@ -6494,20 +6525,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs du tribunal**
 
-- **(3)** Après le dépôt de la demande visée au paragraphe 313(1), le tribunal peut ordonner aux administrateurs et dirigeants de lui fournir tous les renseignements pertinents en leur possession ou qu’ils peuvent raisonnablement obtenir, y compris :
+- **(3)** Après le dépôt de la demande visée au paragraphe 313(1), le tribunal peut ordonner aux administrateurs et dirigeants de lui fournir tous les renseignements pertinents en leur possession ou qu’ils peuvent raisonnablement obtenir, y compris :
 	- **a)** les états financiers de la coopérative;
 	- **b)** les noms et adresses des membres et des détenteurs de parts de placement;
 	- **c)** les noms et adresses des créanciers ou réclamants connus, y compris ceux qui ont des créances non liquidées, futures ou éventuelles, et des cocontractants de la coopérative.
 
 **Publication**
 
-- **(4)** L’ordonnance rendue en vertu du paragraphe (2) est à la fois :
-	- **a)** insérée de la manière qui y est indiquée, une fois au moins chaque semaine précédant la date de l’audience, dans une publication accessible au grand public;
+- **(4)** L’ordonnance rendue en vertu du paragraphe (2) est à la fois :
+	- **a)** insérée de la manière qui y est indiquée, une fois au moins chaque semaine précédant la date de l’audience, dans une publication destinée au grand public;
 	- **b)** signifiée au directeur et aux personnes qui y sont désignées.
 
 **Personne responsable**
 
 - **(5)** La publication et la signification des ordonnances visées au présent article sont faites, selon les modalités que prescrit le tribunal, par la coopérative ou par la personne qu’il désigne.
+> 1998, ch. 1, art. 315; 2018, ch. 8, art. 81(F).
+
 
 
 
@@ -6580,9 +6613,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligations du liquidateur**
 
-**320** Le liquidateur doit, sans délai, prendre les mesures suivantes :
+**320** Le liquidateur doit, sans délai, prendre les mesures suivantes :
 - **a)** donner avis de sa nomination aux réclamants et créanciers connus de lui;
-- **b)** insérer dans une publication accessible au grand public, tout en prenant des mesures raisonnables pour lui donner une certaine publicité dans chaque province ou dans tout pays étranger où la coopérative exerce ses activités commerciales, un avis obligeant :
+- **b)** insérer dans une publication destinée au grand public, tout en prenant des mesures raisonnables pour lui donner une certaine publicité dans chaque province ou dans tout pays étranger où la coopérative exerce ses activités commerciales, un avis obligeant :
 	- **(i)** les débiteurs de la coopérative à lui rendre compte et à lui payer leurs dettes, aux date et lieu qui y sont précisés,
 	- **(ii)** les personnes en possession des biens de la coopérative à les lui remettre aux date et lieu qui y sont précisés,
 	- **(iii)** les créanciers de la coopérative à lui fournir par écrit un relevé détaillé de leur créance, qu’elle soit ou non liquidée, future ou éventuelle, dans les deux mois de la première publication de l’avis;
@@ -6593,6 +6626,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** demander des instructions au tribunal après constatation de l’incapacité de la coopérative d’honorer ses obligations ou de constituer une provision suffisante à cette fin;
 - **h)** remettre, au tribunal ainsi qu’au directeur, au moins une fois tous les douze mois à compter de sa nomination et chaque fois que le tribunal l’ordonne, les états financiers de la coopérative en la forme exigée à l’article 247 ou en telle autre forme jugée indiquée par le liquidateur ou exigée par le tribunal;
 - **i)** après l’approbation de ses comptes définitifs par le tribunal, répartir le reliquat des biens de la coopérative entre les membres et les détenteurs de parts de placement selon leurs droits respectifs.
+> 1998, ch. 1, art. 320; 2018, ch. 8, art. 82(F).
+
 
 
 
@@ -6900,10 +6935,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(4)** Le directeur doit publier dans une publication accessible au grand public les renseignements obtenus en vertu du présent article lorsque les conditions suivantes sont réunies :
+- **(4)** Le directeur publie dans une publication destinée au grand public les renseignements qu’il a obtenus en vertu du présent article lorsque les conditions ci-après sont réunies :
 	- **a)** la présente loi ou les règlements l’exigent;
 	- **b)** ils ne l’ont pas été précédemment.
-> 1998, ch. 1, art. 335; 2011, ch. 21, art. 112.
+> 1998, ch. 1, art. 335; 2011, ch. 21, art. 112; 2018, ch. 8, art. 84(F).
 
 
 
@@ -7068,7 +7103,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **337.7** 
 
-- **(1)** Lorsqu’il est nécessaire, en vue d’établir la valeur visée au paragraphe 337.5(1), de déterminer la valeur d’une valeur mobilière négociée sur un marché organisé, celle-ci correspond, à la date applicable visée au paragraphe (3) :
+- **(1)** Lorsqu’il est nécessaire, en vue d’établir la valeur visée au paragraphe 337.5(1), de déterminer la valeur d’une valeur mobilière négociée sur un marché organisé, celle-ci correspond, à la date applicable visée au paragraphe (3) :
 	- **a)** soit au cours de clôture de la catégorie de la valeur mobilière;
 	- **b)** soit, à défaut d’un tel cours, à la moyenne du cours le plus haut et du cours le plus bas;
 	- **c)** soit, dans les cas où il n’y a pas eu de négociation, à la moyenne du cours acheteur et du cours vendeur de la catégorie de la valeur mobilière.
@@ -7083,8 +7118,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de marché organisé**
 
-- **(4)** Pour l’application du présent article, ***marché organisé*** s’entend d’une bourse reconnue à laquelle est cotée la catégorie de valeurs mobilières ou d’un marché qui publie régulièrement le cours de cette catégorie dans une publication accessible au grand public.
-> 2001, ch. 14, art. 218.
+- **(4)** Pour l’application du présent article, ***marché organisé*** s’entend d’une bourse reconnue à laquelle est cotée la catégorie de valeurs mobilières ou d’un marché qui publie régulièrement le cours de cette catégorie dans une publication destinée au grand public.
+> 2001, ch. 14, art. 218; 2018, ch. 8, art. 85(F).
 
 
 
@@ -7830,25 +7865,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Avis et documents
 
 
-
-**Signature des déclarations**
-
 **367** 
 
-- **(1)** Une déclaration des administrateurs fournie au directeur conformément aux paragraphes 285(4) ou (5), 287(1), 291(1), 299(2) ou 308(2) est suffisante si elle est signée par un administrateur ou un dirigeant qui est autorisé à signer par une résolution des administrateurs.
-
-**Déclarations**
-
-- **(2)** Le directeur peut, pour l’application de la présente loi, se fonder sur les déclarations visées aux alinéas 10d) ou e) ou sur une déclaration des administrateurs visée au paragraphe (1).
-
-**Particuliers autorisés à signer**
-
-- **(3)** Les avis visés aux paragraphes 30(2) et (4), la liste prévue au paragraphe 81(1), l’avis prévu au paragraphe 91(1) ainsi que le rapport annuel visé au paragraphe 374(1) peuvent être signés par tout particulier ayant une connaissance suffisante de la coopérative, sur autorisation des administrateurs ou, dans le cas de la liste visée au paragraphe 81(1), des fondateurs.
+- **(1) à (3)** [Abrogés, 2018, ch. 8, art. 86]
 
 **Présomption relative à la signature des documents**
 
 - **(4)** Les statuts, avis, résolutions, demandes, déclarations ou autres documents qui doivent ou peuvent être signés par plusieurs particuliers pour l’application de la présente loi peuvent être rédigés en plusieurs exemplaires de même forme, dont chacun est signé par un ou plusieurs de ces particuliers. Ces exemplaires dûment signés sont réputés constituer un seul document pour l’application de la présente loi.
-> 1998, ch. 1, art. 367; 2001, ch. 14, art. 226; 2011, ch. 21, art. 117(A).
+> 1998, ch. 1, art. 367; 2001, ch. 14, art. 226; 2011, ch. 21, art. 117(A); 2018, ch. 8, art. 86.
 
 
 
@@ -7860,17 +7884,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le directeur peut accepter une photocopie de tout avis ou document qui, aux termes de la présente loi, doit lui être envoyé.
 
-**Transmission électronique**
+**Présentation et teneur des documents**
 
-- **(2)** Sous réserve des règlements, les avis, documents, renseignements ou droits dont la présente loi exige ou autorise la remise au directeur ou l’envoi par celui-ci peuvent être transmis sous forme électronique ou autre, de la manière qu’il précise.
+- **(2)** Le directeur peut établir le mode de présentation — sous forme électronique ou autre — et la teneur des avis et autres documents qu’il envoie ou reçoit au titre de la présente loi, et, dans le cadre de l’exercice de ce pouvoir, il peut préciser notamment :
+	- **a)** les avis et documents qui peuvent être transmis sous forme électronique ou autre;
+	- **b)** les personnes ou catégories de personnes qui peuvent les signer ou en effectuer la transmission;
+	- **c)** les modalités de signature sous forme électronique ou autre de ceux-ci, y compris ce qui peut tenir lieu de signature;
+	- **d)** les circonstances — notamment le moment et le lieu — dans lesquelles les avis et documents électroniques sont présumés avoir été envoyés ou reçus.
 
-**Date de réception**
-
-- **(3)** Pour l’application de la présente loi, les documents, renseignements ou droits ainsi transmis sont réputés avoir été reçus par le directeur au moment déterminé par règlement.
+- **(3)** [Abrogé, 2018, ch. 8, art. 87]
 
 **Mise en mémoire**
 
 - **(4)** Sous réserve des règlements, les documents ou renseignements reçus par le directeur, en application de la présente loi, sous forme électronique ou autre, peuvent être mis en mémoire par tout procédé, notamment mécanographique ou informatique, susceptible de les restituer en clair dans un délai raisonnable.
+> 1998, ch. 1, art. 368; 2018, ch. 8, art. 87.
+
 
 
 
@@ -7914,36 +7942,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **372** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **b)** définir, élargir ou restreindre le sens de tout terme utilisé mais non défini dans la présente loi;
-	- **c)** prescrire les droits qui peuvent être imposés pour l’enregistrement, la vérification ou la copie de tous documents en vertu de la présente loi ou de ses règlements ou pour des services fournis par le directeur ou prescrire les modalités de la détermination de ces droits;
-	- **d)** prévoir le paiement des droits, y compris le moment et la manière selon laquelle ces droits doivent être payés, les droits supplémentaires qui peuvent être imposés pour les paiements en souffrance, ainsi que les circonstances dans lesquelles les droits peuvent être remboursés en tout ou en partie;
+	- **c)** établir les droits à imposer pour la réception, l’examen, l’enregistrement ou le dépôt, la délivrance ou la reproduction de documents ou pour les mesures, facultatives ou obligatoires, prises par le directeur sous le régime de la présente loi ou prévoir la manière de les fixer;
+	- **d)** prévoir les modalités de paiement des droits, notamment les modalités de temps, les droits supplémentaires qui peuvent être imposés pour les paiements en souffrance, ainsi que les circonstances dans lesquelles les droits peuvent être remboursés en tout ou en partie;
 	- **d.1)** prévoir, pour l’application du paragraphe 58(2.1), le mode de détermination du nombre des parts de placement requis pour soumettre une proposition, y compris les modalités — de temps ou autres — d’évaluation des parts de placement ou de détermination du pourcentage nécessaire par rapport à l’ensemble des parts de placement de la coopérative;
 	- **d.2)** prévoir, pour l’application de l’alinéa 58(4)d), l’appui nécessaire à la proposition d’une personne en fonction du nombre de propositions à peu près identiques déjà présentées par celui-ci dans le délai réglementaire;
 	- **e)** établir les règles relatives aux exemptions ou dispenses prévues par la présente loi;
-	- **f)** prescrire, pour l’application de l’alinéa 247(1)a), de suivre les normes en cours de l’organisme comptable désigné dans le règlement;
+	- **f)** régir les pouvoirs que peut accorder un détenteur de parts de placement dans un formulaire de procuration;
 	- **g)** prévoir tout ce qui est utile à l’application de la partie 21.1, y compris les délais et les circonstances dans lesquels un document électronique est présumé avoir été transmis ou reçu, ainsi que le lieu où le document est présumé avoir été transmis ou reçu;
 	- **h)** prévoir la façon de participer aux assemblées d’une coopérative ou aux réunions du conseil par tout moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer entre eux, ainsi que les exigences à respecter dans le cadre de cette participation;
 	- **i)** prévoir, pour l’application du paragraphe 65(3), la façon de voter par tout moyen de communication — téléphonique, électronique ou autre — lors d’une assemblée d’une coopérative, ainsi que les exigences à respecter dans le cadre du vote.
 
 **Incorporation par renvoi**
 
-- **(2)** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance — , soit dans sa version à une date donnée, soit avec ses modifications successives.
+- **(2)** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
 
 **Nature du document incorporé**
 
 - **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
-> 1998, ch. 1, art. 372; 2001, ch. 14, art. 227.
+> 1998, ch. 1, art. 372; 2001, ch. 14, art. 227; 2018, ch. 8, art. 89.
 
 
 
 
 
-**Paiement des droits antérieur à la fourniture du service**
+**Acquittement des droits**
 
-**372.1** Les droits pour le dépôt, l’examen ou la reproduction de documents ou pour les mesures que peut ou doit prendre le directeur doivent lui être versés au moment du dépôt, de l’examen ou de la reproduction ou avant qu’il ne prenne la mesure pour laquelle le droit est exigible.
-> 2001, ch. 14, art. 228.
+**372.1** Les droits à payer au directeur pour la réception, l’examen, l’enregistrement ou le dépôt, la délivrance ou la reproduction de documents ou pour toute mesure, facultative ou obligatoire, prise par celui-ci sont acquittés respectivement au moment de la réception ou de la reproduction ou avant l’examen, l’enregistrement ou le dépôt ou la délivrance du document ou bien la prise de la mesure.
+> 2001, ch. 14, art. 228; 2018, ch. 8, art. 90.
 
 
 
@@ -7959,16 +7987,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Au présent article, ***déclaration*** désigne les déclarations mentionnées à l’article 310 constatant soit l’intention de procéder à la dissolution, soit la révocation de cette intention.
 
-**Signature et dépôt**
+**Envoi de statuts ou d’une déclaration**
 
-- **(2)** Lorsque la présente loi exige que les statuts ou une déclaration concernant une coopérative soient envoyés au directeur :
-	- **a)** les statuts ou la déclaration doivent être signés par l’un des administrateurs ou dirigeants de la coopérative ou, dans le cas des statuts constitutifs, par les fondateurs;
-	- **b)** le directeur doit, à la réception des documents requis en la forme établie par lui et des droits y afférents :
-		- **(i)** enregistrer la date de réception,
-		- **(ii)** sous réserve des articles 12, 285, 292, 299 et 308, délivrer le certificat approprié,
-		- **(iii)** enregistrer le certificat, les statuts ou la déclaration, ou une copie ou une reproduction photographique, électronique ou autre de ces documents,
-		- **(iv)** envoyer le certificat ou une copie, image ou reproduction photographique, électronique ou autre de ce document, à la coopérative ou à son mandataire,
-		- **(v)** publier dans une publication accessible au grand public avis de la délivrance de ce certificat.
+- **(2)** Dans le cas où la présente loi prévoit l’envoi au directeur de statuts ou d’une déclaration relativement à une coopérative, le directeur, à la réception des statuts ou de la déclaration en la forme établie par lui, de tout autre document requis et des droits y afférents :
+	- **a)** note la date de réception;
+	- **b)** délivre le certificat approprié;
+	- **c)** envoie à la coopérative ou à son mandataire le certificat ou une copie, image ou reproduction photographique, électronique ou autre de celui-ci;
+	- **d)** publie dans une publication destinée au grand public un avis de la délivrance de ce certificat.
 
 **Date du certificat**
 
@@ -7981,7 +8006,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Date du certificat**
 
 - **(5)** Malgré le paragraphe (3), le certificat de changement de régime peut être daté du jour où la coopérative a été fusionnée en vertu d’une autre loi ou prorogée.
-> 1998, ch. 1, art. 373; 2001, ch. 14, art. 229; 2011, ch. 21, art. 118(A).
+> 1998, ch. 1, art. 373; 2001, ch. 14, art. 229; 2011, ch. 21, art. 118(A); 2018, ch. 8, art. 91.
+
+
+
+
+
+**Publicité**
+
+**373.1** Le directeur publie, dans une publication destinée au grand public, un avis de chaque décision où il accorde une demande faite en vertu des paragraphes 4(4) ou 167(1), de l’article 248 ou des paragraphes 263(2) ou 267(2).
+> 2018, ch. 8, art. 92.
 
 
 
@@ -7989,7 +8023,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport annuel**
 
-**374** La coopérative doit envoyer au directeur un rapport annuel, en la forme établie par lui, à la date qu’il fixe.
+**374** La coopérative envoie au directeur un rapport annuel, en la forme et dans le délai établis par lui.
+> 1998, ch. 1, art. 374; 2018, ch. 8, art. 92.
+
 
 
 
@@ -8030,7 +8066,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rectifications à la demande de la coopérative ou autre**
 
-- **(3)** À la demande de la coopérative ou de toute autre personne intéressée en vue de faire rectifier les erreurs contenues dans des documents visés au paragraphe (1), le directeur peut permettre que les documents rectifiés lui soient envoyés si :
+- **(3)** À la demande de la coopérative ou de toute autre personne intéressée en vue de faire rectifier les erreurs contenues dans des documents visés au paragraphe (1), le directeur peut permettre que les documents rectifiés lui soient envoyés si :
 	- **a)** les rectifications sont approuvées par les administrateurs de la coopérative, sauf dans le cas d’erreurs manifestes ou faites par le directeur lui-même;
 	- **b)** le directeur est convaincu que les rectifications ne porteraient pas préjudice aux membres ou détenteurs de parts de placement ou aux créanciers de la coopérative et qu’elles reflètent l’intention d’origine.
 
@@ -8052,8 +8088,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(8)** Le directeur donne sans délai avis des modifications importantes apportées par le certificat rectifié dans une publication accessible au grand public.
-> 2001, ch. 14, art. 230.
+- **(8)** Le directeur donne sans délai avis des modifications importantes apportées par le certificat rectifié dans une publication destinée au grand public.
+> 2001, ch. 14, art. 230; 2018, ch. 8, art. 93(F).
 
 
 
@@ -8119,7 +8155,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation de fournir copie**
 
-- **(2)** En cas de tenue des livres par le directeur sous une forme non écrite, les règles suivantes s’appliquent :
+- **(2)** En cas de tenue des livres par le directeur sous une forme non écrite, les règles suivantes s’appliquent :
 	- **a)** il doit fournir les copies exigées aux termes du paragraphe 377(2) sous une forme écrite compréhensible;
 	- **b)** les rapports extraits de ces livres et certifiés conformes par le directeur ont la même force probante que des originaux écrits.
 
@@ -8129,8 +8165,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Traitement de l’information**
 
-- **(4)** Les renseignements et avis que le directeur est tenu, en vertu de la présente loi, de résumer dans un périodique accessible au grand public ou de publier peuvent être résumés ou publiés à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information susceptible de donner, dans un délai raisonnable, les renseignements ou avis demandés sous une forme compréhensible.
-> 1998, ch. 1, art. 378; 2001, ch. 14, art. 232.
+- **(4)** Les renseignements et avis que le directeur est tenu, en application de la présente loi, de résumer dans une publication destinée au grand public ou de publier peuvent être résumés ou publiés à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information susceptible de donner, dans un délai raisonnable, les renseignements ou avis demandés sous une forme compréhensible.
+> 1998, ch. 1, art. 378; 2001, ch. 14, art. 232; 2018, ch. 8, art. 95.
 
 
 
