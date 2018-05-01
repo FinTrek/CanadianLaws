@@ -44,59 +44,63 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***activité*** S’entend notamment de tout acte accompli par l’organisation et visé par sa déclaration d’intention et de toute activité commerciale de la personne morale. Sont exclues les affaires internes de celle-ci.
+***activité*** S’entend notamment de tout acte accompli par l’organisation et visé par sa déclaration d’intention et de toute activité commerciale de la personne morale. Sont exclues les affaires internes de celle-ci. (*activities*)
 
-***administrateur*** Indépendamment de son titre, le titulaire de ce poste.
+***administrateur*** Indépendamment de son titre, le titulaire de ce poste. (*director*)
 
-***affaires internes*** Les relations entre l’organisation, les personnes morales appartenant au même groupe et leurs membres, actionnaires, administrateurs et dirigeants.
+***affaires internes*** Les relations entre l’organisation, les personnes morales appartenant au même groupe et leurs membres, actionnaires, administrateurs et dirigeants. (*affairs*)
 
-French version only***assemblée*** Assemblée de membres.
+***assemblée*** Assemblée de membres. (***French version only***)
 
-***convention unanime des membres*** Convention visée au paragraphe 170(1). Y est assimilée la déclaration d’un membre visée au paragraphe 170(2).
+***convention unanime des membres*** Convention visée au paragraphe 170(1). Y est assimilée la déclaration d’un membre visée au paragraphe 170(2). (*unanimous member agreement*)
 
-***créancier*** S’entend notamment du détenteur de titre de créance.
+***créancier*** S’entend notamment du détenteur de titre de créance. (*creditor*)
 
-***directeur*** Personne physique nommée à ce titre en vertu de l’article 281.
+***directeur*** Personne physique nommée à ce titre en vertu de l’article 281. (*Director*)
 
-***dirigeant*** Personne physique qui occupe le poste de président du conseil d’administration, président, vice-président, secrétaire, trésorier, contrôleur, chef du contentieux, directeur général ou administrateur délégué d’une organisation ou qui exerce pour celle-ci des fonctions semblables à celles qu’exerce habituellement une personne physique occupant un tel poste ainsi que toute autre personne physique nommée à titre de dirigeant en application de l’article 142.
+***dirigeant*** Personne physique qui occupe le poste de président du conseil d’administration, président, vice-président, secrétaire, trésorier, contrôleur, chef du contentieux, directeur général ou administrateur délégué d’une organisation ou qui exerce pour celle-ci des fonctions semblables à celles qu’exerce habituellement une personne physique occupant un tel poste ainsi que toute autre personne physique nommée à titre de dirigeant en application de l’article 142. (*officer*)
 
-***émetteur*** S’entend de l’organisation que la présente loi oblige à tenir un registre de titres de créance.
+***émetteur*** S’entend de l’organisation que la présente loi oblige à tenir un registre de titres de créance. (*issuer*)
 
-***entité*** Personne morale, société de personnes, fiducie, coentreprise ou association ou autre organisation non dotée de la personnalité morale.
+***entité*** Personne morale, société de personnes, fiducie, coentreprise ou association ou autre organisation non dotée de la personnalité morale. (*entity*)
 
-***envoyer*** A également le sens de remettre.
+***envoyer*** A également le sens de remettre. (*send*)
 
-***expert-comptable*** L’expert-comptable de l’organisation qui est nommé en vertu de l’alinéa 127(1)e) ou des paragraphes 181(1) ou 186(1) ou qui remplit une vacance en application des paragraphes 184(2) ou 185(1).
+***expert-comptable*** L’expert-comptable de l’organisation qui est nommé en vertu de l’alinéa 127(1)e) ou des paragraphes 181(1) ou 186(1) ou qui remplit une vacance en application des paragraphes 184(2) ou 185(1). (*public accountant*)
 
-***extraordinaire*** Se dit de la résolution qui est adoptée aux deux tiers au moins des voix exprimées.
+***extraordinaire*** Se dit de la résolution qui est adoptée aux deux tiers au moins des voix exprimées. (*special resolution*)
 
-***fondateur*** Signataire des statuts constitutifs d’une organisation.
+***fondateur*** Signataire des statuts constitutifs d’une organisation. (*incorporator*)
 
-***ordinaire*** Se dit de la résolution qui est adoptée à la majorité des voix exprimées.
+***incapable*** S’entend de la personne physique qui, sous le régime des lois d’une province, est reconnue comme étant incapable — sauf en raison de sa minorité — d’administrer ses biens ou qui fait l’objet d’une déclaration par un tribunal étranger d’une telle incapacité. (*incapable*)
 
-***organisation*** Personne morale constituée ou prorogée sous le régime de la présente loi et qui n’a pas changé de régime en application de celle-ci.
+***législation antérieure*** S’entend des diverses lois fédérales qui étaient en vigueur avant l’entrée en vigueur de la présente loi et qui s’appliquaient à la constitution de personnes morales de régime fédéral en vertu de ces lois, à l’exception de toute institution financière au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*prior legislation*) 
 
-***organisation ayant recours à la sollicitation*** Organisation visée au paragraphe (5.1).
+***ordinaire*** Se dit de la résolution qui est adoptée à la majorité des voix exprimées. (*ordinary resolution*)
 
-***personne*** Personne physique ou entité.
+***organisation*** Personne morale constituée ou prorogée sous le régime de la présente loi et qui n’a pas changé de régime en application de celle-ci. (*corporation*)
 
-***personne morale*** Groupement, y compris toute compagnie, doté de la personnalité juridique, quel que soit son lieu ou mode de constitution.
+***organisation ayant recours à la sollicitation*** Organisation visée au paragraphe (5.1). (*soliciting corporation*)
 
-***représentant personnel*** Personne agissant pour le compte d’une autre, notamment le fiduciaire, l’exécuteur testamentaire, l’administrateur du bien d’autrui, le liquidateur de succession, le tuteur, le curateur, le séquestre, le mandataire ou le conseiller juridique.
+***personne*** Personne physique ou entité. (*person*)
 
-***série*** Subdivision d’une catégorie de titres de créance.
+***personne morale*** Groupement, y compris toute compagnie, doté de la personnalité juridique, quel que soit son lieu ou mode de constitution. (*body corporate*)
 
-***statuts*** Les statuts constitutifs, initiaux ou mis à jour, ainsi que les clauses de modification, les statuts de fusion, les statuts de prorogation, les clauses de réorganisation, les clauses d’arrangement, les statuts de reconstitution et les clauses de dissolution de l’organisation.
+***représentant personnel*** Personne agissant pour le compte d’une autre, notamment le fiduciaire, l’exécuteur testamentaire, l’administrateur du bien d’autrui, le liquidateur de succession, le tuteur, le curateur, le séquestre, le mandataire ou le conseiller juridique. (*personal representative*)
 
-***titre de créance*** Toute preuve d’une créance sur l’organisation ou d’une garantie donnée par elle, avec ou sans sûreté, notamment une obligation, une débenture ou un billet.
+***série*** Subdivision d’une catégorie de titres de créance. (*series*)
 
-***tribunal*** Selon le cas :
+***statuts*** Les statuts constitutifs, initiaux ou mis à jour, ainsi que les clauses de modification, les statuts de fusion, les statuts de prorogation, les clauses de réorganisation, les clauses d’arrangement, les statuts de reconstitution et les clauses de dissolution de l’organisation. (*articles*)
+
+***titre de créance*** Toute preuve d’une créance sur l’organisation ou d’une garantie donnée par elle, avec ou sans sûreté, notamment une obligation, une débenture ou un billet. (*debt obligation*)
+
+***tribunal*** Selon le cas :
 - **a)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **b)** la Cour supérieure de justice de l’Ontario;
 - **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique ou de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Manitoba, de la Saskatchewan, de l’Alberta ou du Nouveau-Brunswick;
 - **e)** la Cour supérieure du Québec;
-- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 
 **Groupe**
 
@@ -134,7 +138,7 @@ French version only***assemblée*** Assemblée de membres.
 **Décision du directeur — sollicitation**
 
 - **(6)** Le directeur peut, sur demande de l’organisation, décider que celle-ci sera considérée, pour l’application de la présente loi, comme n’étant pas une organisation ayant recours à la sollicitation ou ne l’ayant jamais été, s’il est convaincu que cette décision ne porte pas atteinte à l’intérêt public.
-> 2009, ch. 23, art. 2; 2015, ch. 3, art. 23.
+> 2009, ch. 23, art. 2; 2015, ch. 3, art. 23; 2018, ch. 8, art. 96.
 
 
 
@@ -202,10 +206,12 @@ French version only***assemblée*** Assemblée de membres.
 
 **Personnes physiques**
 
-- **(2)** S’agissant de personnes physiques, elles doivent :
-	- **a)** avoir au moins dix-huit ans;
-	- **b)** ne pas avoir été déclarées incapables par un tribunal, au Canada ou à l’étranger;
-	- **c)** ne pas avoir le statut de failli.
+- **(2)** S’agissant de personnes physiques :
+	- **a)** elles ont au moins dix-huit ans;
+	- **b)** elles ne sont pas incapables;
+	- **c)** elles n’ont pas le statut de failli.
+> 2009, ch. 23, art. 6; 2018, ch. 8, art. 97.
+
 
 
 
@@ -292,11 +298,13 @@ French version only***assemblée*** Assemblée de membres.
 
 **12** 
 
-- **(1)** Le directeur peut, sur demande, réserver pendant la période réglementaire une dénomination à l’organisation dont la création est envisagée ou qui est sur le point de changer de dénomination.
+- **(1)** Le directeur peut, sur demande, réserver pendant la période réglementaire une dénomination à l’organisation dont la création est envisagée ou qui entend changer de dénomination.
 
 **Numéro matricule**
 
 - **(2)** Le directeur assigne à l’organisation, à sa demande ou à celle des fondateurs, un numéro matricule en guise de dénomination, suivi du mot « Canada » et d’un terme réglementaire.
+> 2009, ch. 23, art. 12; 2018, ch. 8, art. 98.
+
 
 
 
@@ -1266,7 +1274,7 @@ French version only***assemblée*** Assemblée de membres.
 	- **a)** le titulaire du titre de créance, mentionné sur celui-ci ou dans un endossement nominatif;
 	- **b)** la personne visée à l’alinéa a) désignée en qualité de représentant, mais qui n’agit plus en cette qualité, ou son successeur;
 	- **c)** tout représentant dont le nom figure parmi ceux qui sont mentionnés sur le titre de créance ou dans l’endossement visés à l’alinéa a), indépendamment de la présence d’un successeur nommé ou agissant à la place de ceux qui n’ont plus qualité;
-	- **d)** le représentant de la personne visée à l’alinéa a) si celle-ci est une personne physique décédée ou incapable, notamment en raison de sa minorité;
+	- **d)** le représentant de la personne visée à l’alinéa a) si celle-ci est une personne physique décédée, mineure ou incapable;
 	- **e)** tout survivant parmi les titulaires avec droit de survie nommés sur le titre de créance ou dans l’endossement mentionnés à l’alinéa a);
 	- **f)** la personne qui a le pouvoir légal de signer;
 	- **g)** le mandataire autorisé des personnes visées aux alinéas a) à f) dans la mesure où elles ont qualité pour désigner un mandataire.
@@ -1274,6 +1282,8 @@ French version only***assemblée*** Assemblée de membres.
 **Appréciation de la compétence**
 
 - **(2)** La compétence des signataires est déterminée au moment de la signature.
+> 2009, ch. 23, art. 78; 2018, ch. 8, art. 99.
+
 
 
 
@@ -1874,7 +1884,7 @@ French version only***assemblée*** Assemblée de membres.
 
 - **(1)** Ne peuvent être administrateurs :
 	- **a)** les personnes physiques de moins de dix-huit ans;
-	- **b)** les personnes physiques qui ont été déclarées incapables par un tribunal, au Canada ou à l’étranger;
+	- **b)** les personnes physiques qui sont incapables;
 	- **c)** les personnes autres que les personnes physiques;
 	- **d)** les personnes qui ont le statut de failli.
 
@@ -1885,6 +1895,8 @@ French version only***assemblée*** Assemblée de membres.
 **Suppléance**
 
 - **(3)** Nul ne peut agir à une réunion du conseil d’administration à la place d’un administrateur absent.
+> 2009, ch. 23, art. 126; 2018, ch. 8, art. 100.
+
 
 
 
@@ -1954,7 +1966,7 @@ French version only***assemblée*** Assemblée de membres.
 
 **Vacances**
 
-- **(7)** Les administrateurs élus lors d’une assemblée qui, en raison de l’absence de consentement, de l’inhabilité, de l’incapacité ou du décès de certains candidats, ne peut élire le nombre fixe ou minimal d’administrateurs requis par les statuts peuvent exercer tous les pouvoirs des administrateurs s’ils constituent le quorum au sein du conseil d’administration.
+- **(7)** Les administrateurs élus lors d’une assemblée qui, en raison de l’absence de consentement, de l’inhabilité en application de l’article 126 ou du décès de certains candidats, ne peut élire le nombre fixe ou minimal d’administrateurs requis par les statuts peuvent exercer tous les pouvoirs des administrateurs s’ils constituent le quorum au sein du conseil d’administration.
 
 **Nominations entre les assemblées annuelles**
 
@@ -1965,6 +1977,8 @@ French version only***assemblée*** Assemblée de membres.
 - **(9)** L’élection ou la nomination d’une personne physique au poste d’administrateur est subordonnée :
 	- **a)** si elle était présente à l’assemblée qui l’élit ou la nomme administrateur, à son consentement à occuper ce poste;
 	- **b)** si elle était absente, soit à son consentement à occuper ce poste, donné par écrit avant son élection ou sa nomination ou dans le délai réglementaire, soit au fait qu’elle a rempli les fonctions de ce poste après son élection ou sa nomination.
+> 2009, ch. 23, art. 128; 2018, ch. 8, art. 101.
+
 
 
 
@@ -5109,6 +5123,15 @@ French version only***assemblée*** Assemblée de membres.
 
 
 
+**Publicité**
+
+**277.1** Le directeur publie, dans une publication destinée au grand public, un avis de chaque décision où il accorde une demande faite en vertu des paragraphes 2(6), 104(3), 160(2), 162(5) ou 171(2) ou des articles 173, 190 ou 271.
+> 2018, ch. 8, art. 103.
+
+
+
+
+
 **Rapport annuel**
 
 **278** L’organisation envoie au directeur un rapport annuel, en la forme et dans le délai établis par lui.
@@ -5123,12 +5146,15 @@ French version only***assemblée*** Assemblée de membres.
 - **(1)** Sur paiement des droits exigibles, toute personne peut, pendant les heures normales d’ouverture des bureaux, consulter les documents dont l’envoi au directeur est requis par la présente loi ou les règlements et en prendre des copies ou extraits, sauf :
 	- **a)** les extraits obtenus au titre du paragraphe 24(1);
 	- **b)** les listes de membres ou de détenteurs de titres de créance obtenues au titre du paragraphe 24(2);
+	- **b.1)** les extraits ou les copies des livres ou des documents visés à l’article 25;
 	- **c)** les copies des documents obtenues au titre de l’article 177;
 	- **d)** les rapports obtenus au titre du paragraphe 248(2).
 
 **Copies ou extraits**
 
 - **(2)** Le directeur fournit à toute personne qui en fait la demande une copie ou un extrait — certifiés conformes ou non — des documents qui peuvent être consultés en vertu du paragraphe (1).
+> 2009, ch. 23, art. 279; 2018, ch. 8, art. 104.
+
 
 
 
@@ -5151,14 +5177,16 @@ French version only***assemblée*** Assemblée de membres.
 
 
 
-**Mode de présentation et teneur des avis et autres documents**
+**Présentation et teneur des documents**
 
-**282** Le directeur peut établir le mode de présentation et la teneur des avis et autres documents qu’il envoie ou reçoit au titre de la présente loi, et notamment :
+**282** Le directeur peut établir le mode de présentation — sous forme électronique ou autre — et la teneur des avis et autres documents qu’il envoie ou reçoit au titre de la présente loi, et dans le cadre de l’exercice de ce pouvoir, il peut préciser notamment :
 - **a)** les avis et documents qui peuvent être transmis sous forme électronique ou autre;
 - **b)** les personnes ou catégories de personnes qui peuvent les signer ou en effectuer la transmission;
 - **c)** les modalités de signature sous forme électronique ou autre de ceux-ci, y compris ce qui peut tenir lieu de signature;
-- **d)** les circonstances — notamment le moment et le lieu — dans lesquelles les avis et documents électroniques sont présumés avoir été envoyés ou reçus;
-- **e)** tout ce qui est utile à l’application du présent article.
+- **d)** les circonstances — notamment le moment et le lieu — dans lesquelles les avis et documents électroniques sont présumés avoir été envoyés ou reçus.
+- **e)** [Abrogé, 2018, ch. 8, art. 105]
+> 2009, ch. 23, art. 282; 2018, ch. 8, art. 105.
+
 
 
 
@@ -5361,6 +5389,8 @@ French version only***assemblée*** Assemblée de membres.
 **Nature du document incorporé**
 
 - **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 2009, ch. 23, art. 293; 2018, ch. 8, art. 107(A).
+
 
 
 
