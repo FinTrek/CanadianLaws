@@ -44,59 +44,63 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***activities*** includes any conduct of a corporation to further its purpose and any business carried on by a body corporate, but does not include the affairs of a body corporate.
+***activities*** includes any conduct of a corporation to further its purpose and any business carried on by a body corporate, but does not include the affairs of a body corporate. (*activité*)
 
-***affairs*** means the relationships among a corporation, its affiliates and the directors, officers, shareholders or members of those bodies corporate.
+***affairs*** means the relationships among a corporation, its affiliates and the directors, officers, shareholders or members of those bodies corporate. (*affaires internes*)
 
-***articles*** means original or restated articles of incorporation or articles of amendment, amalgamation, continuance, reorganization, arrangement, dissolution or revival.
+***articles*** means original or restated articles of incorporation or articles of amendment, amalgamation, continuance, reorganization, arrangement, dissolution or revival. (*statuts*)
 
-***body corporate*** includes a company or other organization with legal personality wherever or however incorporated.
+***body corporate*** includes a company or other organization with legal personality wherever or however incorporated. (*personne morale*)
 
-***corporation*** means a body corporate incorporated or continued under this Act and not discontinued under this Act.
+***corporation*** means a body corporate incorporated or continued under this Act and not discontinued under this Act. (*organisation*)
 
-***court*** means
+***court*** means
 - **(a)** in Newfoundland and Labrador, the Trial Division of the Supreme Court of the province;
 - **(b)** in Ontario, the Superior Court of Justice;
 - **(c)** in Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the province;
 - **(d)** in Manitoba, Saskatchewan, Alberta and New Brunswick, the Court of Queen’s Bench for the province;
 - **(e)** in Quebec, the Superior Court of the province; and
-- **(f)** in Yukon and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice.
+- **(f)** in Yukon and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice. (*tribunal*)
 
-***creditor*** includes a debt obligation holder.
+***creditor*** includes a debt obligation holder. (*créancier*)
 
-***debt obligation*** means a bond, debenture, note or other evidence of indebtedness or guarantee of a corporation, whether secured or unsecured.
+***debt obligation*** means a bond, debenture, note or other evidence of indebtedness or guarantee of a corporation, whether secured or unsecured. (*titre de créance*)
 
-***Director*** means an individual appointed under section 281.
+***Director*** means an individual appointed under section 281. (*directeur*)
 
-***director*** means an individual occupying the position of director by whatever name called.
+***director*** means an individual occupying the position of director by whatever name called. (*administrateur*)
 
-***entity*** means a body corporate, a partnership, a trust, a joint venture or an unincorporated association or organization.
+***entity*** means a body corporate, a partnership, a trust, a joint venture or an unincorporated association or organization. (*entité*)
 
-***incorporator*** means a person who signs articles of incorporation.
+***incapable***, in respect of an individual, means that the individual is found, under the laws of a province, to be unable, other than by reason of minority, to manage their property or is declared to be incapable by any court in a jurisdiction outside Canada. (*incapable*)
 
-***issuer*** means a corporation that is required by this Act to maintain a debt obligations register.
+***incorporator*** means a person who signs articles of incorporation. (*fondateur*)
 
-***officer*** means an individual appointed as an officer under section 142, the chairperson of the board of directors, the president, a vice-president, the secretary, the treasurer, the comptroller, the general counsel, the general manager or a managing director of a corporation, or any other individual who performs functions for a corporation similar to those normally performed by an individual occupying any of those offices.
+***issuer*** means a corporation that is required by this Act to maintain a debt obligations register. (*émetteur*)
 
-***ordinary resolution*** means a resolution passed by a majority of the votes cast on that resolution.
+***officer*** means an individual appointed as an officer under section 142, the chairperson of the board of directors, the president, a vice-president, the secretary, the treasurer, the comptroller, the general counsel, the general manager or a managing director of a corporation, or any other individual who performs functions for a corporation similar to those normally performed by an individual occupying any of those offices. (*dirigeant*)
 
-***person*** means an individual or entity.
+***ordinary resolution*** means a resolution passed by a majority of the votes cast on that resolution. (*ordinaire*)
 
-***personal representative*** means a person who stands in place of and represents another person, including a trustee, an executor, an administrator, a receiver, an agent, a mandatary, a liquidator of a succession, a guardian, a tutor, a curator or a legal counsel.
+***person*** means an individual or entity. (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations.
+***personal representative*** means a person who stands in place of and represents another person, including a trustee, an executor, an administrator, a receiver, an agent, a mandatary, a liquidator of a succession, a guardian, a tutor, a curator or a legal counsel. (*représentant personnel*)
 
-***public accountant***, in respect of a corporation, means the public accountant appointed for the corporation under paragraph 127(1)(e) or subsection 181(1) or 186(1) or who fills a vacancy under subsection 184(2) or 185(1).
+***prescribed*** means prescribed by the regulations. (***Version anglaise seulement***)
 
-***send*** includes deliver.
+***prior legislation*** means the various Acts of Parliament that were in force prior to the coming into force of this Act and that applied to the incorporation of federal companies under those Acts, other than any financial institution as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md). (*législation antérieure*)
 
-***series*** means a division of a class of debt obligations.
+***public accountant***, in respect of a corporation, means the public accountant appointed for the corporation under paragraph 127(1)(e) or subsection 181(1) or 186(1) or who fills a vacancy under subsection 184(2) or 185(1). (*expert-comptable*)
 
-***soliciting corporation*** means a corporation that is referred to in subsection (5.1).
+***send*** includes deliver. (*envoyer*)
 
-***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast on that resolution.
+***series*** means a division of a class of debt obligations. (*série*)
 
-***unanimous member agreement*** means an agreement described in subsection 170(1) or a declaration of a member described in subsection 170(2).
+***soliciting corporation*** means a corporation that is referred to in subsection (5.1). (*organisation ayant recours à la sollicitation*)
+
+***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast on that resolution. (*extraordinaire*)
+
+***unanimous member agreement*** means an agreement described in subsection 170(1) or a declaration of a member described in subsection 170(2). (*convention unanime des membres*)
 
 **Affiliated bodies corporate**
 
@@ -136,7 +140,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **Application to be deemed non-soliciting**
 
 - **(6)** On the application of a corporation, the Director may decide that the corporation is, for the purposes of this Act, to be considered as not being — or not having been — a soliciting corporation if the Director is satisfied that the determination would not be prejudicial to the public interest.
-> 2009, c. 23, s. 2; 2015, c. 3, s. 23.
+> 2009, c. 23, s. 2; 2015, c. 3, s. 23; 2018, c. 8, s. 96.
 
 
 
@@ -211,10 +215,12 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 **Individuals**
 
-- **(2)** No individual may incorporate a corporation under subsection (1) if that individual
-	- **(a)** is less than 18 years of age;
-	- **(b)** has been declared incapable by a court in Canada or in another country; or
-	- **(c)** has the status of a bankrupt.
+- **(2)** An individual may incorporate a corporation under subsection (1) only if that individual
+	- **(a)** is not less than 18 years of age;
+	- **(b)** is not incapable; or
+	- **(c)** does not have the status of bankrupt.
+> 2009, c. 23, s. 6; 2018, c. 8, s. 97.
+
 
 
 
@@ -301,11 +307,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 **12** 
 
-- **(1)** The Director may, on request, reserve for a prescribed period a name for an intended corporation or for a corporation about to change its name.
+- **(1)** The Director may, on request, reserve for a prescribed period a name for an intended corporation or for a corporation that intends to change its name.
 
 **Designating number**
 
 - **(2)** If requested to do so by the incorporators or a corporation, the Director shall assign to the corporation as its name a designating number followed by the word “Canada” and a prescribed term.
+> 2009, c. 23, s. 12; 2018, c. 8, s. 98.
+
 
 
 
@@ -1283,7 +1291,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 	- **(a)** the person who is specified by the debt obligation or by a special endorsement to be entitled to the debt obligation;
 	- **(b)** if the person described in paragraph (a) is described as a fiduciary but is no longer serving as one, either that person or their successor;
 	- **(c)** if the debt obligation or endorsement mentioned in paragraph (a) specifies more than one person as fiduciaries and one or more of those persons is no longer a fiduciary, the remaining fiduciary or fiduciaries, whether or not a successor has been appointed or qualified;
-	- **(d)** if the person described in paragraph (a) is an individual and is without capacity to act by reason of death, minority or other incapacity, the person’s fiduciary;
+	- **(d)** if the person described in paragraph (a) is an individual and is without capacity to act by reason of death, minority or incapability, the person’s fiduciary;
 	- **(e)** if the debt obligation or endorsement mentioned in paragraph (a) specifies more than one person with a right of survivorship and by reason of death not all of the persons can sign, the survivor or survivors;
 	- **(f)** a person who has the legal power to sign; or
 	- **(g)** to the extent that a person described in any of paragraphs (a) to (f) may act through an agent or mandatary, the person’s authorized agent or mandatary.
@@ -1291,6 +1299,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **Time for determination**
 
 - **(2)** The authority of a person signing is determined as of the time of signing.
+> 2009, c. 23, s. 78; 2018, c. 8, s. 99.
+
 
 
 
@@ -1899,7 +1909,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 - **(1)** The following persons are disqualified from being a director of a corporation:
 	- **(a)** anyone who is less than 18 years of age;
-	- **(b)** anyone who has been declared incapable by a court in Canada or in another country;
+	- **(b)** anyone who is incapable;
 	- **(c)** a person who is not an individual; and
 	- **(d)** a person who has the status of a bankrupt.
 
@@ -1910,6 +1920,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **No alternate directors**
 
 - **(3)** No person shall act for an absent director at a meeting of directors.
+> 2009, c. 23, s. 126; 2018, c. 8, s. 100.
+
 
 
 
@@ -1979,7 +1991,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 **Vacancy among candidates**
 
-- **(7)** If a meeting of members fails to elect the number or the minimum number of directors required by the articles by reason of the lack of consent, the disqualification, the incapacity or the death of any candidate, the directors elected at that meeting may exercise all the powers of the directors if the number of directors so elected constitutes a quorum.
+- **(7)** If a meeting of members fails to elect the number or the minimum number of directors required by the articles by reason of a lack of consent, a disqualification under section 126 or the death of any candidate, the directors elected at that meeting may exercise all the powers of the directors if the number of directors so elected constitutes a quorum.
 
 **Appointment of directors**
 
@@ -1992,6 +2004,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 	- **(b)** the individual was not present at the meeting when the election or appointment took place and
 		- **(i)** consented to hold office as a director in writing before the election or appointment or within the prescribed period, or
 		- **(ii)** has acted as a director after the election or appointment.
+> 2009, c. 23, s. 128; 2018, c. 8, s. 101.
+
 
 
 
@@ -5192,6 +5206,15 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 
 
+**Publication**
+
+**277.1** The Director must publish, in a publication generally available to the public, a notice of any decision made by the Director granting an application made under subsection 2(6), 104(3), 160(2), 162(5) or 171(2) or section 173, 190 or 271.
+> 2018, c. 8, s. 103.
+
+
+
+
+
 **Annual return**
 
 **278** Every corporation shall send to the Director an annual return in the form and within the period that the Director fixes.
@@ -5206,12 +5229,15 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 - **(1)** A person who has paid the required fee is entitled during usual business hours to examine and make copies of or take extracts from a document required by this Act or the regulations to be sent to the Director, except
 	- **(a)** extracts obtained under subsection 24(1);
 	- **(b)** a members or debt obligation holders list obtained under subsection 24(2);
+	- **(b.1)** extracts or copies of corporate records or documents referred to in section 25;
 	- **(c)** a copy of the documents obtained under section 177; and
 	- **(d)** a report obtained under subsection 248(2).
 
 **Copies or extracts**
 
 - **(2)** The Director shall, on request, furnish any person with a copy, extract, certified copy or certified extract of a document that may be examined under subsection (1).
+> 2009, c. 23, s. 279; 2018, c. 8, s. 104.
+
 
 
 
@@ -5234,14 +5260,16 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 
 
-**Content and form of notices and documents**
+**Content and form of documents**
 
-**282** The Director may establish the requirements for the content and fix the form, including electronic or other forms, of notices and other documents sent to or issued by the Director under this Act, including
+**282** The Director may establish the requirements for the content and fix the form, including electronic or other forms, of notices and other documents sent to or issued by the Director under this Act and, in so doing, the Director may specify, among other things,
 - **(a)** the notices and documents that may be transmitted in electronic or other form;
 - **(b)** the persons or classes of persons who may sign or transmit the notices and documents;
-- **(c)** their signature in electronic or other form, or the actions that are to have the same effect for the purposes of this Act as their signature;
-- **(d)** the time and circumstances when electronic notices and documents are to be considered to be sent or received, and the place where they are considered to have been sent or received; and
-- **(e)** any matter necessary for the purposes of the application of this section.
+- **(c)** their signature in electronic or other form, or the actions that are to have the same effect for the purposes of this Act as their signature; and
+- **(d)** the time and circumstances when electronic notices and documents are to be considered to be sent or received, and the place where they are considered to have been sent or received.
+- **(e)** [Repealed, 2018, c. 8, s. 105]
+> 2009, c. 23, s. 282; 2018, c. 8, s. 105.
+
 
 
 
@@ -5435,7 +5463,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **293** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** prescribing any matter required or authorized by this Act to be prescribed;
+	- **(a)** providing for anything that by this Act is to be prescribed or provided for by the regulations;
 	- **(b)** defining, enlarging or restricting the meaning of any word or expression used but not defined in this Act;
 	- **(c)** requiring the payment of a fee in respect of the receipt, acceptance, examination, issuance or copying of any document, or in respect of any action that the Director is required or authorized to take under this Act, and prescribing the amount of the fee or the manner of determining the fee;
 	- **(d)** respecting the payment of fees, including the time when and the manner in which the fees are to be paid, the additional fees that may be charged for the late payment of fees and the circumstances in which any fees previously paid may be refunded in whole or in part;
@@ -5454,6 +5482,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **Incorporated material is not a regulation**
 
 - **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
+> 2009, c. 23, s. 293; 2018, c. 8, s. 107(E).
+
 
 
 
