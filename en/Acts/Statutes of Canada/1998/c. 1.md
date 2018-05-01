@@ -55,11 +55,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***affairs*** means the relationship between a cooperative and its affiliates and their members, shareholders, directors and officers, but does not include the business carried on by those bodies corporate.
+***affairs*** means the relationship between a cooperative and its affiliates and their members, shareholders, directors and officers, but does not include the business carried on by those bodies corporate. (*affaires internes*)
 
-***affiliate*** means an affiliated body corporate within the meaning of subsection (2).
+***affiliate*** means an affiliated body corporate within the meaning of subsection (2). (*groupe*)
 
-***articles*** means the original or restated articles of incorporation, articles of amendment, articles of amalgamation, articles of continuance, articles of reorganization, articles of arrangement, articles of dissolution, articles of revival and articles of correction, and includes any amendments to any of them.
+***articles*** means the original or restated articles of incorporation, articles of amendment, articles of amalgamation, articles of continuance, articles of reorganization, articles of arrangement, articles of dissolution, articles of revival and articles of correction, and includes any amendments to any of them. (*statuts*)
 
 ***associate***, in respect of a relationship with a person, means
 - **(a)** a body corporate of which the person beneficially owns or controls, directly or indirectly, shares or securities currently convertible into shares carrying more than ten per cent of the voting rights under all circumstances or by reason of the occurrence of an event that has occurred and is continuing, or a currently exercisable option or right to purchase such shares or such convertible securities;
@@ -69,108 +69,112 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(e)** a trust or an estate or succession in which the person has a substantial beneficial interest or serves as a trustee, administrator, executor or liquidator of a succession or in a similar capacity;
 - **(f)** a spouse of the person or an individual who is cohabiting with the person in a conjugal relationship, having so cohabited for a period of at least one year;
 - **(g)** a child of the person or of the spouse or individual referred to in paragraph (f); and
-- **(h)** a relative of the person or of the spouse or individual referred to in paragraph (f), if that relative has the same residence as the person.
+- **(h)** a relative of the person or of the spouse or individual referred to in paragraph (f), if that relative has the same residence as the person. (*liens*)
 
-***auditor*** includes a firm of accountants.
+***auditor*** includes a firm of accountants. (*vérificateur*)
 
-***bearer***, in respect of a security, means the person who is in possession of a security that is payable to bearer or endorsed in blank.
+***bearer***, in respect of a security, means the person who is in possession of a security that is payable to bearer or endorsed in blank. (*porteur*)
 
-***beneficial ownership*** includes
+***beneficial ownership*** includes
 - **(a)** in Quebec, the rights of a beneficiary of a trust that owns property, and ownership of property through one or more administrators of the property of others, mandataries or other legal representatives; and
-- **(b)** in the rest of Canada, ownership of property through one or more trustees, legal representatives, agents or other intermediaries.
+- **(b)** in the rest of Canada, ownership of property through one or more trustees, legal representatives, agents or other intermediaries. (*véritable propriétaire*)
 
-***body corporate*** includes a cooperative, a cooperative entity, a company or any other body corporate wherever or however incorporated.
+***body corporate*** includes a cooperative, a cooperative entity, a company or any other body corporate wherever or however incorporated. (*personne morale*)
 
-***call*** means an option transferable by delivery, to demand delivery of a specified number or amount of securities at a fixed price within a specified time but does not include an option or right to acquire securities of the cooperative that granted the option or right to acquire.
+***call*** means an option transferable by delivery, to demand delivery of a specified number or amount of securities at a fixed price within a specified time but does not include an option or right to acquire securities of the cooperative that granted the option or right to acquire. (*option d’achat*)
 
-***cooperative*** means a body corporate that is incorporated under this Act and not discontinued under this Act.
+***cooperative*** means a body corporate that is incorporated under this Act and not discontinued under this Act. (*coopérative*)
 
-***cooperative entity*** means a body corporate that, by the law under which it is organized and operated, must be organized and operated on — and is organized and operated on — cooperative principles.
+***cooperative entity*** means a body corporate that, by the law under which it is organized and operated, must be organized and operated on — and is organized and operated on — cooperative principles. (*entité coopérative*)
 
-***court*** means the court of first instance of superior jurisdiction of a province.
+***court*** means the court of first instance of superior jurisdiction of a province. (*tribunal*)
 
-***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured.
+***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured. (*titre de créance*)
 
-***delegate*** means an individual who is appointed or elected to represent a member at a meeting of members.
+***delegate*** means an individual who is appointed or elected to represent a member at a meeting of members. (*délégué*)
 
-***Director*** means the Director appointed under section 371.
+***Director*** means the Director appointed under section 371. (*directeur*)
 
-***director*** means an individual occupying the position of director, by whatever name called, of a cooperative, and “board of directors” or “directors” refers to the directors as a body.
+***director*** means an individual occupying the position of director, by whatever name called, of a cooperative, and “board of directors” or “directors” refers to the directors as a body. (*administrateur*)
 
-***distributing cooperative*** means, subject to subsections 4(4) and (5), a distributing cooperative as defined in the regulations.
+***distributing cooperative*** means, subject to subsections 4(4) and (5), a distributing cooperative as defined in the regulations. (*coopérative ayant fait appel au public*)
 
-***entity*** means a body corporate, a trust, a partnership, a fund or an unincorporated organization.
+***entity*** means a body corporate, a trust, a partnership, a fund or an unincorporated organization. (*entité*)
 
-***federation*** means a cooperative whose membership is composed substantially of other cooperative entities, federations or leagues of cooperative entities.
+***federation*** means a cooperative whose membership is composed substantially of other cooperative entities, federations or leagues of cooperative entities. (*fédération*)
 
-***firm of accountants*** means a partnership whose partners and accountant employees are accountants engaged in the practice of accounting, or a body corporate that is incorporated by or under an Act of the legislature of a province and engaged in the practice of accounting.
+***firm of accountants*** means a partnership whose partners and accountant employees are accountants engaged in the practice of accounting, or a body corporate that is incorporated by or under an Act of the legislature of a province and engaged in the practice of accounting. (*cabinet de comptables*)
 
-***former Act cooperative*** means a cooperative that was incorporated under the Canada Cooperative Associations Act.
+***former Act cooperative*** means a cooperative that was incorporated under the Canada Cooperative Associations Act. (*coopérative sous le régime de l’ancienne loi*)
 
-***holder*** means
+***holder*** means
 - **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to the person or to bearer or in blank;
 - **(b)** in respect of the ownership of a membership share, the person referred to in section 5; and
-- **(c)** in respect of the ownership of an investment share, the person referred to in section 6.
+- **(c)** in respect of the ownership of an investment share, the person referred to in section 6. (*détenteur*)
 
-***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, includes a body corporate that is continued by or under any such Act.
+***incapable***, in respect of an individual, means that the individual is found, under the laws of a province, to be unable, other than by reason of minority, to manage their property or is declared to be incapable by any court in a jurisdiction outside Canada. (*incapable*)
 
-***incorporator*** means a person who signs articles of incorporation.
+***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, includes a body corporate that is continued by or under any such Act. (*constitué*)
 
-***individual*** means a natural person.
+***incorporator*** means a person who signs articles of incorporation. (*fondateur*)
 
-***issuer***, in respect of a security, means the entity that issues the security.
+***individual*** means a natural person. (*particulier*)
 
-***investment share*** means a share in the capital of a cooperative that is not a membership share.
+***issuer***, in respect of a security, means the entity that issues the security. (*émetteur*)
 
-***meeting of a cooperative*** means
+***investment share*** means a share in the capital of a cooperative that is not a membership share. (*part de placement*)
+
+***meeting of a cooperative*** means
 - **(a)** a meeting of members of a cooperative, or of a class of members of a cooperative, or
 - **(b)** a meeting of the holders of investment shares of a cooperative, or a class or series of investment shares,
 
-as the context permits.
+as the context permits. (*assemblée d’une coopérative*)
 
-***member*** means a member of a cooperative, but does not include an auxiliary member.
+***member*** means a member of a cooperative, but does not include an auxiliary member. (*membre*)
 
-***member loan*** means a loan required by the cooperative from its members as a condition of membership or to continue membership in the cooperative, and, for the purpose of Parts 8, 16, 17, 18.1 and 19 and subsection 163(2), a member loan is deemed to be a membership share issued at par value.
+***member loan*** means a loan required by the cooperative from its members as a condition of membership or to continue membership in the cooperative, and, for the purpose of Parts 8, 16, 17, 18.1 and 19 and subsection 163(2), a member loan is deemed to be a membership share issued at par value. (*prêt de membre*)
 
-***membership share*** means a share described in section 118.
+***membership share*** means a share described in section 118. (*part de membre*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada that is designated by the Governor in Council as the Minister for the purposes of this Act.
+***Minister*** means the member of the Queen’s Privy Council for Canada that is designated by the Governor in Council as the Minister for the purposes of this Act. (*ministre*)
 
-***officer*** includes the chairperson of the board of directors, a vice-chairperson of the board of directors, the president, a vice-president, the secretary, an assistant secretary, the treasurer, an assistant treasurer and the general manager of a cooperative, and any other individual designated as an officer of the cooperative by by-law or by resolution of the directors, or any other individual who performs functions for the cooperative similar to those normally performed by an individual occupying any such office.
+***officer*** includes the chairperson of the board of directors, a vice-chairperson of the board of directors, the president, a vice-president, the secretary, an assistant secretary, the treasurer, an assistant treasurer and the general manager of a cooperative, and any other individual designated as an officer of the cooperative by by-law or by resolution of the directors, or any other individual who performs functions for the cooperative similar to those normally performed by an individual occupying any such office. (*dirigeant*)
 
-***ordinary resolution*** means a resolution passed by a majority — or any greater number set out in the articles or a unanimous agreement — of the votes cast by or on behalf of the persons who are entitled to vote in respect of the resolution.
+***ordinary resolution*** means a resolution passed by a majority — or any greater number set out in the articles or a unanimous agreement — of the votes cast by or on behalf of the persons who are entitled to vote in respect of the resolution. (*résolution ordinaire*)
 
-***patronage return*** means an amount that the cooperative allocates among and credits or pays to its members or to its member and non-member patrons based on the business done by them with or through the cooperative.
+***patronage return*** means an amount that the cooperative allocates among and credits or pays to its members or to its member and non-member patrons based on the business done by them with or through the cooperative. (*ristourne*)
 
-***person*** means an individual or an entity, and includes a personal representative.
+***person*** means an individual or an entity, and includes a personal representative. (*personne*)
 
-***personal representative*** means a person who stands in place of and represents another person including, but not limited to, a trustee, an executor, an administrator, a liquidator of a succession, an administrator of the property of others, a guardian or tutor, a curator, a receiver or sequestrator, an agent or mandatary or an attorney.
+***personal representative*** means a person who stands in place of and represents another person including, but not limited to, a trustee, an executor, an administrator, a liquidator of a succession, an administrator of the property of others, a guardian or tutor, a curator, a receiver or sequestrator, an agent or mandatary or an attorney. (*représentant personnel*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
+***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
 
-***proxy*** means a completed and executed or, in Quebec, signed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of the shareholders.
+***prior legislation*** means the Canada Cooperative Associations Act, chapter 6 of the Statutes of Canada, 1970-71-72. (*législation antérieure*)
 
-***put*** means an option transferable by delivery, to deliver a specified number or amount of securities at a fixed price within a specified time.
+***proxy*** means a completed and executed or, in Quebec, signed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of the shareholders. (*procuration*)
+
+***put*** means an option transferable by delivery, to deliver a specified number or amount of securities at a fixed price within a specified time. (*option de vente*)
 
 ***redeemable***, with respect to an investment share issued by a cooperative, means that the share is one
 - **(a)** that the cooperative may acquire or redeem on the demand of the cooperative; or
-- **(b)** that the cooperative is required by its articles to acquire or redeem at a specified time or on the demand of the holder.
+- **(b)** that the cooperative is required by its articles to acquire or redeem at a specified time or on the demand of the holder. (*rachetable*)
 
-***security*** includes an investment share, a debt obligation of a cooperative and a certificate evidencing such a share or debt obligation and, for the purposes of section 173 and Parts 18.1 and 19, includes a membership share.
+***security*** includes an investment share, a debt obligation of a cooperative and a certificate evidencing such a share or debt obligation and, for the purposes of section 173 and Parts 18.1 and 19, includes a membership share. (*valeur mobilière*)
 
-***security interest*** means an interest or right in or charge on property of a cooperative to secure payment of a debt or the performance of an obligation of the cooperative.
+***security interest*** means an interest or right in or charge on property of a cooperative to secure payment of a debt or the performance of an obligation of the cooperative. (*sûreté*)
 
-***send*** includes deliver.
+***send*** includes deliver. (*envoyer*)
 
-***series***, in respect of investment shares, means a division of a class of those shares.
+***series***, in respect of investment shares, means a division of a class of those shares. (*série*)
 
-***share*** means a membership share or an investment share.
+***share*** means a membership share or an investment share. (*part*)
 
-***shareholder*** means a person described in section 6.
+***shareholder*** means a person described in section 6. (*détenteur de parts de placement*)
 
-***special resolution*** means a resolution passed by not less than two thirds — or any greater number set out in the articles or a unanimous agreement — of the votes cast by or on behalf of the persons who are entitled to vote in respect of the resolution.
+***special resolution*** means a resolution passed by not less than two thirds — or any greater number set out in the articles or a unanimous agreement — of the votes cast by or on behalf of the persons who are entitled to vote in respect of the resolution. (*résolution spéciale*)
 
-***unanimous agreement*** means an agreement in writing among all members and all shareholders, if any, that contains a provision referred to in subsection 115(1).
+***unanimous agreement*** means an agreement in writing among all members and all shareholders, if any, that contains a provision referred to in subsection 115(1). (*convention unanime*)
 
 **Affiliates**
 
@@ -180,8 +184,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Minors**
 
-- **(3)** For the purposes of this Act, the word “minor” has the same meaning as in the applicable provincial law and, in the absence of any such law, has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child, adopted in the United Nations General Assembly on November 20, 1989.
-> 1998, c. 1, s. 2; 2000, c. 12, s. 28; 2001, c. 14, s. 137; 2011, c. 21, s. 72.
+- **(3)** For the purposes of this Act, the word minor has the same meaning as in the applicable provincial law and, in the absence of any such law, has the same meaning as the word child in the United Nations Convention on the Rights of the Child, adopted in the United Nations General Assembly on November 20, 1989.
+> 1998, c. 1, s. 2; 2000, c. 12, s. 28; 2001, c. 14, s. 137; 2011, c. 21, s. 72; 2018, c. 8, s. 47.
 
 
 
@@ -337,13 +341,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(1)** An application for incorporation of a cooperative may be made by a minimum of three persons, or by one or more cooperative entities, who intend to be members of the cooperative.
 
-**Persons who may not be incorporators**
+**Persons not to be incorporators**
 
-- **(2)** A person may not make an application under subsection (1) if the person is
+- **(2)** An application under subsection (1) is not to be made by
 	- **(a)** an individual who is less than eighteen years of age;
-	- **(b)** an individual who is of unsound mind and has been so found by a court in Canada or elsewhere; or
+	- **(b)** an individual who is incapable; or
 	- **(c)** an individual or body corporate that has the status of bankrupt.
-> 1998, c. 1, s. 8; 2001, c. 14, s. 139.
+> 1998, c. 1, s. 8; 2001, c. 14, s. 139; 2018, c. 8, s. 48.
 
 
 
@@ -369,10 +373,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **10** An application for incorporation is made by sending the following to the Director:
 - **(a)** articles of incorporation;
 - **(b)** a notice of registered office in accordance with section 30;
-- **(c)** a notice of directors in accordance with section 81;
-- **(d)** a declaration signed by the incorporators that after incorporation the cooperative will be organized and operated and will carry on business on a cooperative basis;
-- **(e)** if applicable, a declaration signed by the incorporators that after the incorporation the cooperative will be in compliance with either Part 20 or 21; and
+- **(c)** a notice of directors in accordance with section 81; and
+- **(d) and (e)** [Repealed, 2018, c. 8, s. 49]
 - **(f)** any other information that the Director may require to make a decision under section 12.
+> 1998, c. 1, s. 10; 2018, c. 8, s. 49.
+
 
 
 
@@ -388,7 +393,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(1)** Articles of incorporation must be in the form fixed by the Director and contain the following particulars:
 	- **(a)** the name of the cooperative;
 	- **(b)** the place in Canada where its proposed registered office will be located;
-	- **(c)** the name and residence address of each of the incorporators;
+	- **(c)** [Repealed, 2018, c. 8, s. 50]
 	- **(d)** the number of directors or the minimum and maximum number of directors;
 	- **(e)** any restriction on the businesses that the cooperative may carry on;
 	- **(f)** any restriction on the class of membership in the cooperative;
@@ -413,10 +418,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(4)** Neither the articles nor a unanimous agreement may require, in order to remove a director or delegate, that more than a majority of the votes cast by or on behalf of the persons who are entitled to vote be so cast.
 
-**Signatures**
-
-- **(5)** The articles must be signed by the incorporators.
-> 1998, c. 1, s. 11; 2011, c. 21, s. 73.
+- **(5)** [Repealed, 2018, c. 8, s. 50]
+> 1998, c. 1, s. 11; 2011, c. 21, s. 73; 2018, c. 8, s. 50.
 
 
 
@@ -436,10 +439,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(c)** the cooperative will comply with Part 20 or 21, if applicable; and
 	- **(d)** a notice that is required to be given under subsection 30(2) or 81(1) indicates that the cooperative, if it came into existence, would be in compliance with the Act.
 
-**Reliance on certificate**
+**Reliance on articles**
 
-- **(2)** For the purposes of paragraphs (1)(b) and (c), the Director may rely on the articles and the declarations required by section 10.
-> 1998, c. 1, s. 12; 2001, c. 14, s. 140.
+- **(2)** For the purposes of paragraphs (1)(b) and (c), the Director may rely on the articles required by section 10.
+> 1998, c. 1, s. 12; 2001, c. 14, s. 140; 2018, c. 8, s. 51.
 
 
 
@@ -767,6 +770,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Notice of change of address**
 
 - **(4)** A cooperative must send to the Director, within fifteen days after any change of address of its registered office, a notice in the form that the Director fixes.
+> 1998, c. 1, s. 30; 2018, c. 8, s. 55(F).
+
 
 
 
@@ -1423,7 +1428,7 @@ the cooperative is not required to include in the notice of a meeting, or attach
 
 **List of shareholders entitled to receive notice**
 
-- **(5)** If a record date for voting is not fixed under subsection 51(4), a cooperative must prepare, not later than ten days after a record date for notice of meeting is fixed under subsection 51(3) or not later than the record date referred to in subsection 51(5), as the case may be, an alphabetical list of shareholders who are entitled to receive notice of a meeting of shareholders as of the record date that shows the number of shares held by each shareholder.
+- **(5)** If a record date for voting is not fixed under subsection 51(4), a cooperative must prepare, not later than 10 days after the record date for notice of a meeting that is fixed under subsection 51(3) or not later than the record date that is referred to in subsection 51(5), as the case may be, an alphabetical list of shareholders who are entitled to receive notice of a meeting of shareholders as of the record date that shows the number of shares held by each shareholder.
 
 **Entitlement to vote**
 
@@ -1437,6 +1442,8 @@ in which case the transferee may vote the shares at the meeting.
 - **(7)** A person who is entitled to vote at a meeting of a cooperative may examine a list that relates to the meeting
 	- **(a)** during usual business hours at the registered office of the cooperative or at the place where its records of members and shareholders are maintained; and
 	- **(b)** at the meeting for which the list was prepared.
+> 1998, c. 1, s. 61; 2018, c. 8, s. 57(E).
+
 
 
 
@@ -1724,7 +1731,7 @@ in which case the transferee may vote the shares at the meeting.
 - **(1)** A person is not qualified to be a director if the person
 	- **(a)** is not an individual;
 	- **(b)** is less than eighteen years of age;
-	- **(c)** is of unsound mind and has been so found by a court in Canada or elsewhere; or
+	- **(c)** is incapable; or
 	- **(d)** has the status of bankrupt.
 
 **Additional qualifications**
@@ -1742,7 +1749,7 @@ in which case the transferee may vote the shares at the meeting.
 **Member election**
 
 - **(5)** Subject to subsections 124(3) and (4), all directors are to be elected by the members.
-> 1998, c. 1, s. 78; 2001, c. 14, s. 159.
+> 1998, c. 1, s. 78; 2001, c. 14, s. 159; 2018, c. 8, s. 58.
 
 
 
@@ -3078,6 +3085,21 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 
 
+**Restriction regarding bearer investment shares**
+
+**142.1** 
+
+- **(1)** Despite section 142, a cooperative must not issue, in bearer form, a certificate, warrant or other evidence of a conversion privilege, option or right to acquire an investment share of the cooperative.
+
+**Replacement**
+
+- **(2)** A cooperative must, on the request of a holder of a certificate, warrant or other evidence of a conversion privilege, option or right to acquire an investment share of the cooperative that is in bearer form and that was issued before the coming into force of this section, issue in exchange to that holder, in registered form, a certificate, warrant or other evidence, as the case may be.
+> 2018, c. 8, s. 61.
+
+
+
+
+
 **Reserves**
 
 **143** If the articles limit the number of authorized shares, the cooperative must reserve sufficient authorized shares to meet the exercise of any conversion privileges, or any options or rights issued or granted by the cooperative to acquire shares.
@@ -3510,16 +3532,14 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 
 
-**Exemption order**
+**Exemption**
 
 **167** 
 
-- **(1)** On the application of any interested person, the Director may exempt, on any terms that the Director thinks fit, the person from any of the requirements of section 165 or subsection 166(1), which exemption may have retrospective effect.
+- **(1)** On the application of any interested person, the Director may exempt, on any terms that the Director thinks fit, the person from any of the requirements of section 165 or subsection 166(1) or 169(1). The exemption may have retroactive effect.
 
-**Publication**
-
-- **(2)** The Director must set out in a publication generally available to the public the particulars of all exemptions granted under this section together with the reasons for the exemptions.
-> 1998, c. 1, s. 167; 2001, c. 14, s. 189.
+- **(2)** [Repealed, 2018, c. 8, s. 62]
+> 1998, c. 1, s. 167; 2001, c. 14, s. 189; 2018, c. 8, s. 62.
 
 
 
@@ -3606,19 +3626,19 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 - **(1)** The definitions in this subsection apply in this Part.
 
-***business combination*** means an acquisition of all or substantially all the property of one entity by another, or an amalgamation of two or more entities, or any similar reorganization between or among two or more entities.
+***business combination*** means an acquisition of all or substantially all the property of one entity by another, or an amalgamation of two or more entities, or any similar reorganization between or among two or more entities. (*regroupement d’entreprises*)
 
-***insider*** means, except in section 173,
+***insider*** means, except in section 173,
 - **(a)** a director or officer of a distributing cooperative;
 - **(b)** a director or officer of a subsidiary of a distributing cooperative;
 - **(c)** a director or officer of an entity that enters into a business combination with a distributing cooperative; and
-- **(d)** a person employed or retained by a distributing cooperative.
+- **(d)** a person employed or retained by a distributing cooperative. (*initié*)
 
-***officer*** means the chairperson of the board of directors, president, vice-president, secretary, treasurer, comptroller, general counsel, general manager, managing director, or any other individual who performs functions for an entity similar to those normally performed by an individual occupying any of those offices.
+***officer*** means the chairperson of the board of directors, president, vice-president, secretary, treasurer, comptroller, general counsel, general manager, managing director, or any other individual who performs functions for an entity similar to those normally performed by an individual occupying any of those offices. (*dirigeant*)
 
-***share*** means an investment share that carries voting rights under the articles or in the circumstances in which voting rights are exercisable with respect to it under this Act, and includes
+***share*** means an investment share that carries voting rights under the articles or in the circumstances in which voting rights are exercisable with respect to it under this Act, and includes
 - **(a)** a security currently convertible into such an investment share; and
-- **(b)** currently exercisable options and rights to acquire such an investment share or such a convertible security.
+- **(b)** currently exercisable options and rights to acquire such an investment share or such a convertible security. (*part*)
 
 **Further interpretation**
 
@@ -3634,7 +3654,7 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 - **(3)** For the purposes of this Part, the sale of membership shares to members or the making of a member loan to a cooperative is not a distribution to the public.
 
 - **(4)** [Repealed, 2001, c. 14, s. 191]
-> 1998, c. 1, s. 171; 2001, c. 14, s. 191.
+> 1998, c. 1, s. 171; 2001, c. 14, s. 191; 2018, c. 8, s. 64(F).
 
 
 
@@ -4100,7 +4120,11 @@ but does not include
 
 **185** 
 
-- **(1)** A cooperative may issue a certificate for a fractional investment share or may instead issue a scrip certificate in bearer form that entitles the holder to receive a certificate for a full investment share in exchange for sufficient scrip certificates equalling a full investment share.
+- **(1)** A cooperative may issue for each fractional investment share, a certificate in registered form or scrip certificates in registered form that entitle the holder to receive a certificate for a full investment share in exchange for scrip certificates equalling a full investment share.
+
+**Replacement**
+
+- **(1.1)** A cooperative must, on the request of a holder of a certificate for a fractional investment share or scrip certificate that is in bearer form and that was issued before the coming into force of this subsection, issue in exchange to that holder, in registered form, a certificate for a fractional investment share or a scrip certificate, as the case may be.
 
 **Conditions**
 
@@ -4117,7 +4141,7 @@ but does not include
 **Exercise of voting rights**
 
 - **(4)** A holder of a scrip certificate is not entitled to exercise voting rights or to receive a dividend in respect of the scrip certificate.
-> 1998, c. 1, s. 185; 2011, c. 21, s. 90(E).
+> 1998, c. 1, s. 185; 2011, c. 21, s. 90(E); 2018, c. 8, s. 65.
 
 
 
@@ -4184,8 +4208,10 @@ but does not include
 **Proof of ownership**
 
 **190** If a cooperative restricts the right to transfer its investment shares, the cooperative may, despite section 189, treat a person as the registered holder of a security if the person provides the cooperative with evidence that reasonably meets the requirements of the cooperative that the person is
-- **(a)** the heir of a deceased security holder, or the fiduciary of the estate or succession of a deceased security holder, or of a registered security holder who is a minor, an incompetent or incapable person or a missing person; or
+- **(a)** the heir of a deceased security holder, or the fiduciary of the estate or succession of a deceased security holder, or of a registered security holder who is a minor, an incapable person or a missing person; or
 - **(b)** a liquidator of, or a trustee in bankruptcy for, a registered security holder.
+> 1998, c. 1, s. 190; 2018, c. 8, s. 66.
+
 
 
 
@@ -4300,7 +4326,9 @@ but does not include
 
 **Limitation**
 
-- **(2)** Subsection (1) is subject to any agreement to the contrary, to any applicable Act of Parliament or the legislature of a province or to any applicable regulation or stock exchange rule.
+- **(2)** Subsection (1) is subject to any agreement to the contrary, to the provisions of this Act, of any other applicable Act of Parliament, of any applicable Act of the legislature of a province or of any applicable regulation made under any such Act or to any applicable stock exchange rule.
+> 1998, c. 1, s. 199; 2018, c. 8, s. 67.
+
 
 
 
@@ -4546,7 +4574,7 @@ but does not include
 	- **(a)** the person who is specified by the security or by a special endorsement to be entitled to the security;
 	- **(b)** if a person described in paragraph (a) is described as a fiduciary but is no longer serving as one, either that person or their successor;
 	- **(c)** if the security or endorsement mentioned in paragraph (a) specifies more than one person as fiduciaries and one or more of those persons is no longer a fiduciary, the remaining fiduciary or fiduciaries, whether or not a successor has been appointed or qualified;
-	- **(d)** if a person described in paragraph (a) is an individual and is without capacity to act by reason of death, incompetence, minority or other incapacity, the person’s fiduciary;
+	- **(d)** if a person described in paragraph (a) is an individual and is without capacity to act by reason of death, minority or incapability, the person’s fiduciary;
 	- **(e)** if the security or endorsement mentioned in paragraph (a) specifies more than one person with right of survivorship and by reason of death not all of the persons can sign, the survivor or survivors;
 	- **(f)** a person who has the legal power to sign; or
 	- **(g)** to the extent that a person described in any of paragraphs (a) to (f) may act through an agent or mandatary, the person’s authorized agent or mandatary.
@@ -4554,6 +4582,8 @@ but does not include
 **Time for determination**
 
 - **(2)** The authority of a person signing is determined as of the time of signing.
+> 1998, c. 1, s. 221; 2018, c. 8, s. 68.
+
 
 
 
@@ -4917,8 +4947,8 @@ but does not include
 
 **247** 
 
-- **(1)** Subject to section 248, the directors must place before the members at every annual meeting of members
-	- **(a)** comparative financial statements as may be prescribed relating separately to
+- **(1)** The directors must place before the members at every annual meeting of members
+	- **(a)** prescribed comparative financial statements that conform to any prescribed requirements and relate separately to
 		- **(i)** the period that began on the date the cooperative came into existence and ended not more than six months before the annual meeting or, if the cooperative has completed a financial year, the period that began immediately after the end of the last completed financial year and ended not more than six months before the annual meeting, and
 		- **(ii)** the immediately preceding financial year;
 	- **(b)** the report of the auditor, if any; and
@@ -4931,13 +4961,17 @@ but does not include
 **Exception**
 
 - **(3)** Despite paragraph (1)(a) and subsection (2), the financial statements referred to in subparagraph (1)(a)(ii) may be omitted if the reason for the omission is set out in the financial statements, or in a note to those statements, to be placed before the members at an annual meeting of members and, in a case to which subsection (2) applies, the shareholders at an annual meeting of shareholders.
+> 1998, c. 1, s. 247; 2018, c. 8, s. 69.
 
 
 
 
-**Exemption**
 
-**248** The Director may, on application of a cooperative, authorize the cooperative to omit from its financial statements any prescribed item, and the Director may, if the Director reasonably believes that disclosure of any information to be contained in the statements would be detrimental to the cooperative, permit the omission on any reasonable conditions that the Director thinks fit.
+**Application for exemption**
+
+**248** On the application of a cooperative, the Director may exempt the cooperative, on any terms that the Director thinks fit, from any requirement set out in section 247 or any of sections 249 to 252, if the Director reasonably believes that the detriment that may be caused to the cooperative by the requirement outweighs its benefit to the members and shareholders or, in the case of a distributing cooperative, to the public.
+> 1998, c. 1, s. 248; 2018, c. 8, s. 70.
+
 
 
 
@@ -5583,27 +5617,21 @@ but does not include
 
 **Articles of continuance**
 
-- **(4)** If a body corporate wishes to apply for continuance under subsection (1), articles of continuance in the form that the Director fixes must be sent to the Director, together with any information that the Director may require and a declaration of the directors
-	- **(a)** that after continuance the cooperative will be organized and operated and will carry on business on a cooperative basis;
-	- **(b)** in the case of a cooperative to which Part 20 applies, that after continuance the cooperative will be in compliance with Part 20; and
-	- **(c)** in the case of a cooperative to which Part 21 applies, that after continuance the cooperative will be in compliance with Part 21.
+- **(4)** If a body corporate wishes to apply for continuance under subsection (1), articles of continuance in the form that the Director fixes must be sent to the Director, together with any information that the Director may require.
 
-**Articles of continuance and articles of amalgamation**
+**Articles of continuance and of amalgamation**
 
-- **(5)** If a body corporate wishes to apply for continuance under subsection (2), articles of continuance — and articles of amalgamation — in the form that the Director fixes must be sent to the Director, together with an amalgamation agreement containing the particulars set out in section 296, any information that the Director may require and a declaration of the directors
-	- **(a)** that after amalgamation the cooperative will be organized and operated and will carry on business on a cooperative basis;
-	- **(b)** in the case of a cooperative to which Part 20 applies, that after amalgamation the cooperative will be in compliance with Part 20; and
-	- **(c)** in the case of a cooperative to which Part 21 applies, that after amalgamation the cooperative will be in compliance with Part 21.
+- **(5)** If a body corporate wishes to apply for continuance under subsection (2), articles of continuance and articles of amalgamation in the form that the Director fixes must be sent to the Director, together with any information that the Director may require.
 
 **Certificate of continuance**
 
 - **(6)** The Director must issue
-	- **(a)** a certificate of continuance, on receipt of the articles of continuance and the declaration required by subsection (4), if she or he is satisfied that the requirements for incorporation have been met; or
-	- **(b)** a certificate of continuance and a certificate of amalgamation, on receipt of the articles of continuance, the articles of amalgamation, the amalgamation agreement and the declaration required by subsection (5), if she or he is satisfied that the requirements for incorporation and the requirements for amalgamation have been met.
+	- **(a)** a certificate of continuance, on receipt of the articles of continuance, if the Director is satisfied that the requirements for incorporation have been met; or
+	- **(b)** a certificate of continuance and a certificate of amalgamation, on receipt of the articles of continuance and the articles of amalgamation, if the Director is satisfied that the requirements for incorporation and the requirements for amalgamation have been met.
 
-**Reliance**
+**Reliance on articles**
 
-- **(7)** For the purpose of subsection (6), the Director may rely on the articles and the declarations.
+- **(7)** For the purpose of subsection (6), the Director may rely on the articles.
 
 **Effect of certificate**
 
@@ -5641,19 +5669,19 @@ but does not include
 
 **Issued shares**
 
-- **(12)** Subject to section 182,
+- **(12)** Subject to section 182 and subsection (13),
 	- **(a)** a share of a body corporate issued before it was continued under this Act is deemed to have been issued in compliance with this Act and with the provisions of the articles of continuance, irrespective of whether the share is fully paid and of any designation, right, privilege, restriction or condition set out on or referred to in the certificate representing the share;
 	- **(b)** continuance under this Act does not deprive a holder of any right or privilege that the holder claims under, or relieve the holder of any liability in respect of, an issued share; and
 	- **(c)** shares carry voting rights only to the extent permitted by this Act.
 
 **Conversion privilege**
 
-- **(13)** If a cooperative continued under this Act had, before it was so continued, issued a share certificate in registered form that is convertible to bearer form, the cooperative may, if a holder of such a share certificate exercises the conversion privilege attached to the certificate, issue a share certificate in bearer form for the same number of shares to the holder.
+- **(13)** If a cooperative continued under this Act had, before it was so continued, issued a share certificate in registered form that is convertible to bearer form, the cooperative must not, if a holder of such a share certificate exercises the conversion privilege attached to the certificate, issue a share certificate in bearer form.
 
 **Definition of share**
 
 - **(14)** For the purposes of subsections (12) and (13), ***share*** includes a document referred to in any of subsections 142(1) to (3), a share warrant within the meaning of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, or a like instrument.
-> 1998, c. 1, s. 285; 2010, c. 12, s. 2113.
+> 1998, c. 1, s. 285; 2010, c. 12, s. 2113; 2018, c. 8, s. 72.
 
 
 
@@ -5688,7 +5716,7 @@ but does not include
 
 **287** 
 
-- **(1)** Subject to subsection (6) and Parts 20 and 21, a cooperative, on a special resolution of the members and, if the cooperative has issued investment shares, on a separate special resolution of the shareholders of each class, may, if it establishes to the satisfaction of the Director by a declaration of the directors that its proposed continuance in another jurisdiction would not have an effect set out in any of paragraphs (a) to (d), apply to the appropriate official or public body of another jurisdiction requesting that the cooperative be continued as if it had been incorporated under the laws of that other jurisdiction, namely, that the continuance would not
+- **(1)** Subject to subsection (6) and Parts 20 and 21, a cooperative, on a special resolution of the members and, if the cooperative has issued investment shares, on a separate special resolution of the shareholders of each class, may, if it establishes to the satisfaction of the Director that its proposed continuance in another jurisdiction would not have an effect set out in any of paragraphs (a) to (d), apply to the appropriate official or public body of another jurisdiction requesting that the cooperative be continued as if it had been incorporated under the laws of that other jurisdiction, namely, that the continuance would not
 	- **(a)** adversely affect the members, creditors or shareholders;
 	- **(b)** result in the cooperative carrying on its business and affairs in a manner not consistent with carrying on business on a cooperative basis;
 	- **(c)** result in a cooperative to which Part 20 applies carrying on its business or affairs in a manner not consistent with Part 20; or
@@ -5718,6 +5746,8 @@ but does not include
 	- **(c)** an existing cause of action, claim or liability to prosecution is unaffected;
 	- **(d)** a civil, criminal, administrative, investigative or other action or proceeding pending by or against the cooperative may be continued to be prosecuted by or against the body corporate; and
 	- **(e)** a conviction against, or ruling, order or judgment in favour of or against, the cooperative may be enforced by or against the body corporate.
+> 1998, c. 1, s. 287; 2018, c. 8, s. 73.
+
 
 
 
@@ -5799,21 +5829,22 @@ but does not include
 
 **291** 
 
-- **(1)** Subject to any revocation under subsection 130(5) or 289(2), after an amendment has been adopted, articles of amendment must be sent to the Director in the form that the Director fixes, together with any information that the Director may require and a declaration of the directors
-	- **(a)** that the cooperative will be organized and operated and will carry on business on a cooperative basis;
-	- **(b)** if the cooperative is one to which Part 20 applies, that the cooperative will comply with Part 20; and
-	- **(c)** if the cooperative is one to which Part 21 applies, that the cooperative will comply with Part 21.
+- **(1)** Subject to any revocation under subsection 130(5) or 289(2), after an amendment has been adopted, articles of amendment in the form that the Director fixes must be sent to the Director, together with any information that the Director may require.
 
 **Reduction of stated capital**
 
 - **(2)** If an amendment effects or requires a reduction of stated capital, subsections 151(2) and (5) apply.
+> 1998, c. 1, s. 291; 2018, c. 8, s. 74.
+
 
 
 
 
 **Certificate of amendment**
 
-**292** On receipt of articles of amendment and the declaration required by subsection 291(1), the Director must issue a certificate of amendment.
+**292** On receipt of articles of amendment, the Director must issue a certificate of amendment.
+> 1998, c. 1, s. 292; 2018, c. 8, s. 75.
+
 
 
 
@@ -5951,12 +5982,10 @@ but does not include
 
 - **(1)** After an amalgamation has been approved under section 297 or 298, articles of amalgamation in the form that the Director fixes must be sent to the Director, together with a notice of registered office and a notice of the directors of the amalgamated cooperative.
 
-**Attached declarations**
+**Attached statutory declarations**
 
-- **(2)** A declaration of the directors of each amalgamating cooperative must be attached to the articles of amalgamation and must establish
-	- **(a)** that the amalgamated cooperative will be organized and operated and will carry on business on a cooperative basis;
-	- **(b)** if the cooperative is one to which Part 20 applies, that the amalgamated cooperative will comply with Part 20;
-	- **(c)** if the cooperative is one to which Part 21 applies, that the cooperative will comply with Part 21;
+- **(2)** A statutory declaration of a director or officer of each amalgamating cooperative must be attached to the articles of amalgamation and must establish to the satisfaction of the Director
+	- **(a) to (c)** [Repealed, 2018, c. 8, s. 76]
 	- **(d)** that there are reasonable grounds to believe that
 		- **(i)** each amalgamating cooperative is, and the amalgamated cooperative will be, able to pay its liabilities as they become due, and
 		- **(ii)** the realizable value of the amalgamated cooperative’s assets will not be less than the total of its liabilities and stated capital of all classes; and
@@ -5982,6 +6011,8 @@ but does not include
 **Reliance on certificate**
 
 - **(5)** For the purposes of paragraphs (4)(b) to (d), the Director may rely on the articles and the declarations required by subsection (2).
+> 1998, c. 1, s. 299; 2018, c. 8, s. 76.
+
 
 
 
@@ -6285,12 +6316,12 @@ but does not include
 
 **307** 
 
-- **(1)** This Part, other than sections 308 and 311, does not apply to a cooperative that is an insolvent person or a bankrupt as those terms are defined in subsection 2(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+- **(1)** This Part, other than sections 308 and 311, does not apply to a cooperative that is an insolvent person or a bankrupt as those terms are defined in section 2 of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
 
 **Staying of proceedings**
 
-- **(2)** Any proceedings taken under this Part to dissolve or to liquidate and dissolve a cooperative are stayed if the cooperative is at any time found, in a proceeding under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), to be an insolvent person as defined in that Act.
-> 1998, c. 1, s. 307; 2001, c. 14, s. 209.
+- **(2)** Any proceedings taken under this Part to dissolve or to liquidate and dissolve a cooperative are stayed if the cooperative is at any time found, in a proceeding under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), to be an insolvent person as defined in section 2 of that Act.
+> 1998, c. 1, s. 307; 2001, c. 14, s. 209; 2018, c. 8, s. 77.
 
 
 
@@ -6300,28 +6331,28 @@ but does not include
 
 **308** 
 
-- **(1)** When a cooperative is dissolved under this Part, any interested person, or any person who would be an interested person if a certificate of revival is issued under this section, may apply to the Director to have the cooperative revived under this Act.
+- **(1)** When a cooperative is dissolved under this Part, any interested person, or any person who would be an interested person if a certificate of revival were issued under this section, may apply to the Director to have the dissolved cooperative revived as a cooperative under this Act.
 
 **Articles of revival**
 
-- **(2)** Articles of revival in the form that the Director fixes must be sent to the Director, together with a declaration of the directors to the same effect as one referred to in paragraph 10(d) and, if applicable, in paragraph 10(e).
+- **(2)** Articles of revival in the form that the Director fixes must be sent to the Director.
 
 **Certificate of revival**
 
 - **(3)** On receipt of articles of revival, the Director must issue a certificate of revival, unless the Director is of the opinion that issuing the certificate
-	- **(a)** would result in the cooperative
+	- **(a)** would result in the dissolved cooperative
 		- **(i)** no longer being organized or operating or carrying on business on a cooperative basis,
 		- **(ii)** if the cooperative is one to which Part 20 applies, not complying with Part 20, and
 		- **(iii)** if the cooperative is one to which Part 21 applies, not complying with Part 21; or
 	- **(b)** would not be advisable for any other valid reason.
 
-**Reliance on declarations**
+**Reliance on articles**
 
-- **(4)** For the purpose of subsection (3), the Director may rely on the articles of revival and the declarations referred to in subsection (2).
+- **(4)** For the purpose of subsection (3), the Director may rely on the articles of revival.
 
 **Date of revival**
 
-- **(5)** A cooperative is revived under this Act on the date shown on the certificate of revival.
+- **(5)** A dissolved cooperative is revived as a cooperative under this Act on the date shown on the certificate of revival.
 
 **Rights preserved**
 
@@ -6337,9 +6368,9 @@ but does not include
 
 - **(8)** In this section, ***interested person*** includes
 	- **(a)** a member, a shareholder, a director, an officer, an employee and a creditor of the dissolved cooperative;
-	- **(b)** a person who has a contractual relationship with the dissolved cooperative; and
-	- **(c)** a trustee in bankruptcy for the dissolved cooperative.
-> 1998, c. 1, s. 308; 2001, c. 14, s. 210.
+	- **(b)** a person who has a contract — other than, in Quebec, a contract by gratuitous title — with the dissolved cooperative; and
+	- **(c)** a trustee in bankruptcy or liquidator for the dissolved cooperative.
+> 1998, c. 1, s. 308; 2001, c. 14, s. 210; 2018, c. 8, s. 78.
 
 
 
@@ -6467,7 +6498,7 @@ but does not include
 **Effect of certificate**
 
 - **(4)** The cooperative ceases to exist on the date shown in the certificate of dissolution.
-> 1998, c. 1, s. 311; 2001, c. 14, s. 211.
+> 1998, c. 1, s. 311; 2001, c. 14, s. 211; 2018, c. 8, s. 79(F).
 
 
 
@@ -6499,7 +6530,7 @@ but does not include
 **Effect of certificate**
 
 - **(5)** The cooperative ceases to exist on the date shown in the certificate of dissolution.
-> 1998, c. 1, s. 312; 2001, c. 14, s. 212.
+> 1998, c. 1, s. 312; 2001, c. 14, s. 212; 2018, c. 8, s. 80(F).
 
 
 
@@ -6566,6 +6597,8 @@ but does not include
 **Person responsible**
 
 - **(5)** Publication and service of an order under this section must be effected by the cooperative or by any other person and in any manner that the court may order.
+> 1998, c. 1, s. 315; 2018, c. 8, s. 81(F).
+
 
 
 
@@ -6651,6 +6684,8 @@ but does not include
 - **(g)** if at any time the liquidator determines that the cooperative is unable to pay or adequately provide for the discharge of its obligations, apply to the court for directions;
 - **(h)** deliver to the court and to the Director, at least once in every twelve month period after appointment or more often as the court may require, financial statements of the cooperative in the form required by section 247, or in any other form that the liquidator may think proper or that the court may require; and
 - **(i)** after the final accounts are approved by the court, distribute any remaining property of the cooperative among the members and shareholders according to their respective rights.
+> 1998, c. 1, s. 320; 2018, c. 8, s. 82(F).
+
 
 
 
@@ -6961,7 +6996,7 @@ but does not include
 - **(4)** The Director must publish, in a publication generally available to the public, the particulars of information obtained under this section if the particulars
 	- **(a)** are required by this Act or the regulations to be disclosed; and
 	- **(b)** have not previously been so disclosed.
-> 1998, c. 1, s. 335; 2011, c. 21, s. 112.
+> 1998, c. 1, s. 335; 2011, c. 21, s. 112; 2018, c. 8, s. 84(F).
 
 
 
@@ -7144,7 +7179,7 @@ but does not include
 **Definition of organized market**
 
 - **(4)** In this section, ***organized market*** means a recognized exchange for a class of securities or a market that regularly publishes the price of that class of securities in a publication that is generally available to the public.
-> 2001, c. 14, s. 218.
+> 2001, c. 14, s. 218; 2018, c. 8, s. 85(F).
 
 
 
@@ -7889,25 +7924,14 @@ but does not include
 ### Notices and Documents
 
 
-
-**Signature of declarations**
-
 **367** 
 
-- **(1)** A declaration of the directors provided to the Director in accordance with subsection 285(4) or (5), 287(1), 291(1), 299(2) or 308(2) is sufficient if it is signed by a director or officer authorized to do so by resolution of the directors.
-
-**Director may rely on declarations**
-
-- **(2)** The Director may, for all purposes of this Act, rely on a declaration provided under paragraph 10(d) or (e) or a declaration of the directors referred to in subsection (1).
-
-**Authority to sign notices**
-
-- **(3)** The notices referred to in subsections 30(2) and (4), 81(1) and 91(1), and the annual return referred to in subsection 374(1), may be signed by any individual who has the relevant knowledge of the cooperative and who is authorized to do so by the directors, or, in the case of the notice referred to in subsection 81(1), the incorporators.
+- **(1) to (3)** [Repealed, 2018, c. 8, s. 86]
 
 **Execution or signature of documents**
 
 - **(4)** Any articles, notice, resolution, requisition, statement or other document required or permitted to be executed or, in Quebec, signed by more than one individual for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the individuals. The documents, when duly executed or signed by all individuals required or permitted, as the case may be, to do so, are deemed to constitute one document for the purposes of this Act.
-> 1998, c. 1, s. 367; 2001, c. 14, s. 226; 2011, c. 21, s. 117(E).
+> 1998, c. 1, s. 367; 2001, c. 14, s. 226; 2011, c. 21, s. 117(E); 2018, c. 8, s. 86.
 
 
 
@@ -7919,17 +7943,21 @@ but does not include
 
 - **(1)** When a notice or document is required to be sent to the Director under this Act, the Director may accept a photostatic or photographic copy of it.
 
-**Electronic or other submission of documents, information or fees**
+**Content and form of documents**
 
-- **(2)** Except to the extent that may otherwise be prescribed, notices, documents, information or fees that are authorized or required to be submitted to, or issued by, the Director under this Act may be submitted or issued in electronic or other form in any manner fixed by the Director.
+- **(2)** The Director may establish the requirements for the content and fix the form, including electronic or other forms, of notices and other documents sent to or issued by the Director under this Act and, in so doing, the Director may specify, among other things,
+	- **(a)** the notices and documents that may be transmitted in electronic or other form;
+	- **(b)** the persons or classes of persons who may sign or transmit the notices and other documents;
+	- **(c)** their signature in electronic or other form, or the actions that are to have the same effect for the purposes of this Act as their signature; and
+	- **(d)** the time and circumstances when electronic notices and documents are to be considered to be sent or received, and the place where they are considered to have been sent or received.
 
-**Time of receipt**
-
-- **(3)** For the purposes of this Act, a document, information or a fee that is submitted in accordance with subsection (2) is deemed to have been received by the Director at the time provided by the regulations.
+- **(3)** [Repealed, 2018, c. 8, s. 87]
 
 **Storage of documents or information in electronic or other form**
 
 - **(4)** Subject to the regulations, a document or information that is received by the Director under this Act in electronic or other form may be entered or recorded by an information storage device, including a system of mechanical or electronic data processing, that is capable of reproducing stored documents or information in intelligible form within a reasonable time.
+> 1998, c. 1, s. 368; 2018, c. 8, s. 87.
+
 
 
 
@@ -7976,12 +8004,12 @@ but does not include
 - **(1)** The Governor in Council may make regulations
 	- **(a)** providing for anything that by this Act is to be prescribed or provided for by the regulations;
 	- **(b)** defining, enlarging or restricting the meaning of any word or expression used but not defined in this Act;
-	- **(c)** prescribing the fees or the manner of determining the fees that may be charged in respect of the filing, verification or copying of a document under this Act or under a regulation made under this Act, or in respect of any services provided by the Director;
+	- **(c)** requiring the payment of a fee in respect of the receipt, examination, filing, issuance or copying of any document, or in respect of any action that the Director is required or authorized to take under this Act, and prescribing the amount of the fee or the manner of determining the fee;
 	- **(d)** respecting the payment of any fees, including the time when and the manner in which the fees are to be paid, the additional fees that may be charged for the late payment of fees and the circumstances in which any fees previously paid may be refunded in whole or in part;
 	- **(d.1)** prescribing, for the purposes of subsection 58(2.1), a manner of determining the number of investment shares required for a person to be eligible to make a proposal, including the time and manner of determining a value or percentage of the outstanding investment shares;
 	- **(d.2)** prescribing, for the purposes of paragraph 58(4)(d), the minimum amount of support required in relation to the number of times the person has submitted substantially the same proposal within the prescribed period;
 	- **(e)** prescribing rules with respect to exemptions permitted by this Act;
-	- **(f)** prescribing that, for the purpose of paragraph 247(1)(a), the standards as they exist from time to time of an accounting body named in the regulations are to be followed;
+	- **(f)** respecting the powers that may be granted by a shareholder in a form of proxy;
 	- **(g)** prescribing any matter necessary for the purposes of the application of Part 21.1, including the time and circumstances when an electronic document is to be considered to have been provided or received and the place where it is considered to have been provided or received;
 	- **(h)** prescribing the manner of, and conditions for, participating in a meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting; and
 	- **(i)** prescribing, for the purposes of subsection 65(3), the manner of, and conditions for, voting at a meeting of a cooperative by means of a telephonic, electronic or other communication facility.
@@ -7993,16 +8021,16 @@ but does not include
 **Incorporated material is not a regulation**
 
 - **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
-> 1998, c. 1, s. 372; 2001, c. 14, s. 227.
+> 1998, c. 1, s. 372; 2001, c. 14, s. 227; 2018, c. 8, s. 89.
 
 
 
 
 
-**Fee to be paid before service performed**
+**Payment of fees**
 
-**372.1** The fee in respect of the filing, examination, or copying of any document or in respect of any action that the Director is required or authorized to take must be paid to the Director on the filing, examination, or copying or before the Director takes the action in respect of which the fee is payable.
-> 2001, c. 14, s. 228.
+**372.1** A fee in respect of the receipt or copying of any document must be paid to the Director when it is received or copied, and a fee in respect of the examination, filing or issuance of any document or in respect of any action that the Director is required or authorized to take must be paid to the Director before the document is examined, filed or issued or the action is taken.
+> 2001, c. 14, s. 228; 2018, c. 8, s. 90.
 
 
 
@@ -8018,16 +8046,13 @@ but does not include
 
 - **(1)** In this section, ***statement*** means a statement of intent to dissolve and a statement of revocation of intent to dissolve referred to in section 310.
 
-**Execution and filing**
+**Sending of articles and statements**
 
-- **(2)** When this Act requires that articles or a statement relating to a cooperative be sent to the Director,
-	- **(a)** the articles or statement must be signed by a director or officer or, in the case of articles of incorporation, by the incorporators; and
-	- **(b)** on receiving the articles or statement in the form that the Director has fixed, any other required documents and the required fees, the Director must
-		- **(i)** record the date on which it is received,
-		- **(ii)** subject to sections 12, 285, 292, 299 and 308, issue the appropriate certificate,
-		- **(iii)** file the certificate, articles or statement, or a copy, image or photographic, electronic or other reproduction of it,
-		- **(iv)** send the certificate, or a copy, image or photographic, electronic or other reproduction of it, to the cooperative or its agent or mandatary, and
-		- **(v)** publish a notice of the issuance of the certificate in a publication generally available to the public.
+- **(2)** If this Act requires that articles or a statement relating to a cooperative be sent to the Director, on receiving the articles or statement in the form that the Director fixes, any other required documents and the required fees, the Director shall
+	- **(a)** record the date of receipt;
+	- **(b)** issue the appropriate certificate;
+	- **(c)** send the certificate, or a copy, image or photographic, electronic or other reproduction of the certificate, to the cooperative or its agent or mandatary; and
+	- **(d)** publish a notice of the issuance of the certificate in a publication generally available to the public.
 
 **Date of certificate**
 
@@ -8040,7 +8065,16 @@ but does not include
 **Date of certificate**
 
 - **(5)** Despite subsection (3), a certificate of discontinuance may be dated as of the day a cooperative amalgamates under another Act or is continued.
-> 1998, c. 1, s. 373; 2001, c. 14, s. 229; 2011, c. 21, s. 118(E).
+> 1998, c. 1, s. 373; 2001, c. 14, s. 229; 2011, c. 21, s. 118(E); 2018, c. 8, s. 91.
+
+
+
+
+
+**Publication**
+
+**373.1** The Director must publish, in a publication generally available to the public, a notice of any decision made by the Director granting an application made under subsection 4(4) or 167(1), section 248 or subsection 263(2) or 267(2).
+> 2018, c. 8, s. 92.
 
 
 
@@ -8048,7 +8082,9 @@ but does not include
 
 **Annual return**
 
-**374** Every cooperative must send the Director an annual return in the form, and on the date, that the Director fixes.
+**374** Every cooperative must send the Director an annual return in the form and within the period that the Director fixes.
+> 1998, c. 1, s. 374; 2018, c. 8, s. 92.
+
 
 
 
@@ -8117,7 +8153,7 @@ but does not include
 **Notice**
 
 - **(8)** If a corrected certificate materially amends the terms of the original certificate, the Director must without delay give notice of the correction in a publication generally available to the public.
-> 2001, c. 14, s. 230.
+> 2001, c. 14, s. 230; 2018, c. 8, s. 93(F).
 
 
 
@@ -8194,7 +8230,7 @@ but does not include
 **Form of publication**
 
 - **(4)** Information or notices required by this Act to be summarized in a publication generally available to the public or to be published by the Director may be made available to the public or published by a system of mechanical or electronic data processing or any other information storage device that is capable of reproducing any required information or notice in intelligible form within a reasonable time.
-> 1998, c. 1, s. 378; 2001, c. 14, s. 232.
+> 1998, c. 1, s. 378; 2001, c. 14, s. 232; 2018, c. 8, s. 95.
 
 
 
