@@ -84,11 +84,11 @@ Enabling authorities:
 
 
 ### **SCHEDULE I** 
-**(s. 3)**
+**(Section 3)**
 **1** Television receivers, including video monitors and video display systems, being electronic appliances designed to display a picture or alphanumeric information, or both, after receiving signals through electromagnetic waves, cable or other means of transmission and including the cabinet or case of such appliances.
 
 
-**2** Dental X-ray equipment with an extra-oral source, being X-ray generating equipment that is designed primarily for the examination of dental structures in humans and that has an X-ray generating tube designed to be used outside the mouth.
+**2** Dental X-ray equipment, being radiation emitting devices that are designed primarily for the examination of dental and maxillofacial structures in living humans and that have an X-ray generating tube designed to be used outside the mouth.
 
 
 **3** Microwave ovens, being appliances or sets of components that are designed to supply microwave energy to material within a cavity.
@@ -120,7 +120,7 @@ Enabling authorities:
 **11** Tanning equipment as defined in section 1 of Part XI of Schedule II.
 
 
-**12** Diagnostic X-ray equipment, being X-ray devices that are used for the examination of the human body, not including dental X-ray equipment with an extra-oral source that is subject to Part II of these Regulations, photofluorographic X-ray equipment, radiation therapy simulators and computer-assisted tomographic equipment.
+**12** Diagnostic X-ray equipment, being radiation emitting devices that use X-rays and are designed for the examination of the human body. The equipment does not include dental X-ray equipment, photofluorographic X-ray equipment, radiation therapy simulators and computer-assisted tomographic equipment.
 
 
 **13** Ultrasound therapy devices, being devices designed to generate and emit ultrasonic power at acoustic frequencies above 20 kHz for use in physical therapy.
@@ -135,7 +135,7 @@ Enabling authorities:
 **16** [Revoked, SOR/88-471, s. 1]
 
 
-> SOR/78-407, s. 1; SOR/79-229, s. 1; SOR/80-381, s. 1; SOR/80-464, s. 1; SOR/81-23, s. 1; SOR/81-286, s. 1; SOR/81-545, s. 1; SOR/82-981, s. 1; SOR/83-495, s. 1; SOR/88-471, s. 1; SOR/93-201, s. 1; SOR/97-511, s. 1; SOR/2001-252, s. 1; SOR/2005-33, s. 1.
+> SOR/78-407, s. 1; SOR/79-229, s. 1; SOR/80-381, s. 1; SOR/80-464, s. 1; SOR/81-23, s. 1; SOR/81-286, s. 1; SOR/81-545, s. 1; SOR/82-981, s. 1; SOR/83-495, s. 1; SOR/88-471, s. 1; SOR/93-201, s. 1; SOR/97-511, s. 1; SOR/2001-252, s. 1; SOR/2005-33, s. 1; SOR/2017-228, ss. 1, 2.
 
 
 
@@ -211,263 +211,597 @@ the emission of ionizing radiation therefrom is such that the exposure rate of X
 
 
 **PART II** 
-## Dental X-ray Equipment with an Extra-oral Source
+## Dental X-Ray Equipment
 
 
 ### Interpretation
 
-**1** 
 
-- **(1)** In this Part,
+**Definitions**
 
-***coefficient of variation*** means the ratio of the standard deviation to the mean value of a series of measurements, calculated by using the following equation:
+**1** The following definitions apply in this Part.
+
+***aluminum*** means aluminum that has a degree of purity of 99.9% or higher and a density of 2.70 g/cm<sup>3</sup>. (*aluminium*) 
+
+***aluminum equivalent*** means the attenuation equivalent of an object, expressed in thickness of aluminum. (*équivalent en aluminium*) 
+
+***coefficient of variation*** means the ratio of the estimated standard deviation to the mean value of a series of measurements, determined by the formula 
 ```
 
-> Image: The coefficient of variation, calculated by the equation “C equals one divided by x bar multiplied by, open square bracket, sum from i equals one to n, open parenthesis, x sub i minus x bar, close parenthesis, squared, divided by n minus one, close square bracket, to the power of one half”
+> Image: The coefficient of variation, determined by the formula “C equals S divided by X bar, which is also equal to one divided by X bar multiplied by, open square bracket, sum from i equals one to n, open parentheses, X sub i minus X bar, close parentheses, squared, divided by n minus one, close square bracket, to the power of one half”.
 
 ```
 where
-- **C** is the coefficient of variation,
-- **X** <sub>i</sub>is the value of the i<sup>th</sup> measurement,
-- Xis the mean value of the measurements, and
-- **n** is the number of measurements; (*coefficient de variation*)
+- **C** is the coefficient of variation;
+- **S** is the estimated standard deviation;
+- Xis the mean value of the measurements;
+- **X** <sub>i</sub>is the value of the i<sup>th</sup> measurement; and
+- **n** is the number of measurements. (*coefficient de variation*)
 
-***radiation exposure to the X-ray image receptor*** means the amount of radiation registered by one or more detectors located in proximity to the X-ray image receptor. (*dose d’irradiation au récepteur d’image radiologique*)
+***dental volumetric reconstruction*** means reconstruction of the three-dimensional attenuation distribution of all or part of the irradiated volume from a series of two-dimensional projections that are produced by an X-ray beam on an X-ray image receptor moving around the head of a patient. (*reconstruction dentaire volumétrique*) 
 
-- **(2)** Unless otherwise provided, the other words and expressions used in this Part have the same meaning as in the International Electrotechnical Commission Standard entitled Medical radiology — Terminology, Publication 788, First edition, 1984.
+***deviation***, in respect of any parameter of dental X-ray equipment, means the percentage error between the measured value and the value indicated either on the equipment or in the accompanying information. (*variation*) 
+
+***digital X-ray image receptor*** means an X-ray image receptor that has a conversion method which is electrically powered. The conversion method may include single-step direct conversion or multi-step indirect conversion. (*récepteur numérique d’image radiologique*) 
+
+***effective image reception area*** means the part of the image reception area that is configured to receive an X-ray pattern that can be processed for display or storage. (*surface réceptrice de l’image efficace*) 
+
+***extra-oral***, in relation to dental radiography, means that the X-ray image receptor is located outside the oral cavity. (*extra-oral*) 
+
+***hand-held***, in respect of transportable dental X-ray equipment, means that the equipment, once it is placed into service, is held in or supported by the hand. (*portatif*) 
+
+***intra-oral***, in relation to dental radiography, means that all or part of the X-ray image receptor is located inside the oral cavity. (*intra-oral*) 
+
+***irradiation time*** means the duration of an irradiation, measured as the interval between the instant when the air kerma rate rises for the first time to a value of 50% of the peak value and the instant when it drops for the last time below 50% of the peak value. (*temps d’irradiation*) 
+
+***lead equivalent*** means the attenuation equivalent of an object, expressed in thickness of lead. (*équivalent en plomb*) 
+
+***loading factor*** means a factor the value of which influences the X-ray tube load. It includes the following: 
+- **(a)** in the case of an X-ray beam that is produced by the discharge of the capacitor through an X-ray tube, the X-ray tube voltage and the amount of capacitor charge;
+- **(b)** in the case of a field emission device in which the emission of electrons from the cathode is due solely to the action of an electric field, the X-ray tube voltage and the number of pulses; and
+- **(c)** in any other case, the X-ray tube voltage and either
+	- **(i)** the X-ray tube current and irradiation time, or
+	- **(ii)** the current time product. (*paramètre de charge*)
+
+***mode of operation*** means the technical state that is defined by a configuration of several predetermined loading factors and other settings for radiography or radioscopy, selectable simultaneously by the operation of a single control. (*mode de fonctionnement*) 
+
+***rectification type*** means the process by which the X-ray generator of dental X-ray equipment converts high voltage to X-ray tube voltage. (*type de redressement*) 
+
+***transportable***, in relation to dental X-ray equipment, means that the equipment is constructed so that, once it is placed into service, it is capable of being moved from one place to another. (*transportable*) 
+
+***X-ray field*** means the area on a surface that is intersected by a radiation beam whose boundary is determined by the points where the air kerma drops to 25% of the air kerma at the centre of the area. (*champ de rayonnement X*) 
+
+***X-ray image receptor*** means a device that converts incident X-rays into a visible image or into a form that can be made into a visible image. (*récepteur d’image radiologique*) 
 
 
 
-### Design Standards
+### Information and Labelling
 
-**2** 
 
-- **(1)** Dental X-ray equipment with an extra-oral source shall be designed to include the following safety features:
-	- **(a)** electrical meters or other indicators that
-		- **(i)** are clearly visible to the operator,
-		- **(ii)** are securely affixed to the X-ray equipment control panel,
-		- **(iii)** show a set of loading factors, by control of which the operator is able to obtain radiograms of diagnostic quality, and
-		- **(iv)** if the X-ray equipment operates by automatic exposure control when the X-ray tube is energized, provide a readily discernible visual or aural warning signal whenever the equipment cannot provide a radiogram of diagnostic quality;
-	- **(b)** separate warning indicators that
-		- **(i)** where aural, are clearly audible to the operator,
-		- **(ii)** where visual, are
-			- **(A)** clearly visible to the operator, and
-			- **(B)** affixed to the X-ray equipment control panel, and
-		- **(iii)** are readily discernible and clearly marked to indicate
-			- **(A)** visually when
-				- **(I)** the filament of the X-ray tube is carrying current,
-				- **(II)** the control panel is energized,
-				- **(III)** the automatic exposure control has been selected, and
-				- **(IV)** the loading factors controlled by the automatic exposure control have reached the limits specified in subparagraph 4(1)(e)(ii), and
-			- **(B)** visually and aurally when X-rays are being produced;
-	- **(c)** an irradiation switch that
-		- **(i)** requires continuous pressure by the operator until the completion of an irradiation, and
-		- **(ii)** is installed so as to allow the operator to stand at least 3 m from the X-ray source when the X-ray tube is energized;
-	- **(d)** a controlling timer that
-		- **(i)** when the equipment is not operating in panoramic mode, automatically resets itself to its original setting or to zero on the termination of an irradiation,
-		- **(ii)** prevents an irradiation from being initiated when it is set at zero or in the off position,
-		- **(iii)** causes the production of X-rays to be automatically terminated on the attainment of a preset
-			- **(A)** irradiation time,
-			- **(B)** current time product, or
-			- **(C)** radiation exposure to the X-ray image receptor, and
-		- **(iv)** when the equipment is operating in automatic exposure mode, ensures that the maximum irradiation time or the maximum current time product does not exceed the limits specified in clause 4(1)(e)(ii)(C) or subparagraph 4(1)(e)(iv), whichever is applicable;
-	- **(e)** a localizing cone or other device that limits the focal spot to skin distance to not less than
-		- **(i)** 15 cm, for equipment designed for panoramic examinations, and
-		- **(ii)** 18 cm, for all other equipment;
-	- **(f)** beam limiting devices that
-		- **(i)** provide a degree of radiation protection from stray radiation such that stray radiation does not exceed the limit for leakage radiation from the X-ray tube housing set out in paragraph 4(1)(g), and
-		- **(ii)** limit the size of the X-ray beam
-			- **(A)** at the X-ray image receptor of equipment designed for panoramic examinations, to a size that does not exceed any dimension of the scanning slit by more than one-half of that dimension or more than 2 per cent of the focal spot to image receptor distance, whichever is the lesser,
-			- **(B)** where the equipment is designed for and operated in cephalometric mode, to a circle not more than 30 cm in diameter or a rectangle not more than 800 cm<sup>2</sup> in area, fully intercepted by the X-ray image receptor, at a distance of 1.5 m or at the maximum focal spot to image receptor distance, whichever is the lesser, and
-			- **(C)** where the equipment is operated with an intra-oral X-ray image receptor, to a circle not more than 7 cm in diameter or a rectangle not more than 38.5 cm<sup>2</sup> in area;
-	- **(g)** radiation-absorbing filters that
-		- **(i)** are securely installed in the path of the X-ray beam, and
-		- **(ii)** provide a degree of attenuation of the X-ray beam such that the first half-value layer of aluminum is not less than the value shown in column II of the table to this subparagraph that corresponds to the X-ray tube voltage shown in column I of the table, or is not less than the value obtained by linear interpolation from that table;
+#### Information
+
+
+**General requirements**
+
+**2** The manufacturer, distributor and importer must ensure that all of the following information accompanies each piece of dental X-ray equipment:
+- **(a)** the manufacturer’s name and civic address, and its postal address if different;
+- **(b)** the model designation of the equipment;
+- **(c)** the installation instructions;
+- **(d)** any radiological safety procedures and additional precautions that are necessary because of any unique features of the equipment;
+- **(e)** instructions for use that include
+	- **(i)** a description of the influence of the main settings or selections that are available to the operator on the radiation dose to the patient,
+	- **(ii)** if protection of the operator is affected by distance from the equipment, information on the impact of distance on the radiation dose, and
+	- **(iii)** all information necessary to minimize the operator’s exposure to radiation;
+- **(f)** maintenance instructions;
+- **(g)** procedures for quality control testing to be performed on the equipment, including how often the tests are to be performed and the acceptance criteria;
+- **(h)** for each X-ray tube assembly,
+	- **(i)** the nominal focal spot sizes,
+	- **(ii)** the cooling curves for the anode and for the X-ray tube housing,
+	- **(iii)** the X-ray tube rating charts, and
+	- **(iv)** the focal spot position;
+- **(i)** the duty cycles, its rectification type and its generator rating;
+- **(j)** the nominal line voltage, the maximum line current and the line voltage regulation that are necessary to operate the equipment at the maximum line current;
+- **(k)** the loading factors that constitute the maximum line current condition for the X-ray generator;
+- **(l)** the recommended loading factors for each patient size;
+- **(m)** when combinations of loading factors are indicated on the control panel by either a single reference to the combination or the value of only one of the loading factors that makes up the combination, the values of all the loading factors for each combination;
+- **(n)** if the equipment can operate in automatic exposure control mode,
+	- **(i)** the accuracy limits of the automatic exposure control,
+	- **(ii)** the nominal shortest irradiation time in that mode, and
+	- **(iii)** the reproducibility of the air kerma relative to the range of loading factors, as the loading factors are adjusted by the automatic exposure control;
+- **(o)** if the equipment can operate in a mode other than automatic exposure control mode, the operating range and the maximum deviation for any setting within the operating range for each loading factor;
+- **(p)** if the equipment is battery-powered, the minimum state of charge that is necessary for it to operate;
+- **(q)** if removable protective devices are specified for use with the equipment by the manufacturer, information about their effectiveness, application and use;
+- **(r)** if dosimetric indications are displayed on the equipment, information and instructions on how to check and maintain their accuracy; and
+- **(s)** for transportable equipment, recommendations for secure storage of the equipment against theft and unauthorized use.
+
+
+
+**Additional requirements — intra-oral equipment**
+
+**3** In addition to the requirements set out in section 2, the manufacturer, distributor and importer must ensure that all of the following additional information accompanies each piece of intra-oral dental X-ray equipment:
+- **(a)** the shape and dimensions of the exit field;
+- **(b)** in the case of equipment that has a digital X-ray image receptor,
+	- **(i)** a description of the minimum performance criteria for the device that is used to display the images for diagnostic purposes,
+	- **(ii)** the nominal X-ray image receptor air kerma range that is needed for the intended use, and
+	- **(iii)** recommendations for typical loading factors at specified distances between the focal spot and the skin to achieve the air kerma referred to in subparagraph (ii);
+- **(c)** the method by which the distance between the focal spot and the skin can be determined using the indicator specified in paragraph 7(f);
+- **(d)** if the air kerma is indicated on the equipment, the maximum deviation;
+- **(e)** if the air kerma is not indicated on the equipment,
+	- **(i)** the air kerma at a given distance from the focal spot for every selectable combination of loading factors, and
+	- **(ii)** the maximum deviation of the air kerma;
+- **(f)** a method to calculate the dose area product using the air kerma and the exit field size; and
+- **(g)** in the case of hand-held equipment,
+	- **(i)** values for the leakage radiation at the operator’s position and the method to assess the leakage radiation,
+	- **(ii)** guidance on how to avoid image degradation caused by motion of the X-ray source assembly during loading and the methods to assess the degradation, and
+	- **(iii)** the designation of a significant zone of occupancy, as follows:
+		- **(A)** dimensions of at least 60 cm x 60 cm with a height of at least 200 cm,
+		- **(B)** a drawing that indicates the boundaries of the zone in relation to clearly recognizable features of the equipment,
+		- **(C)** at least one profile of stray radiation in the zone with respect to the height above the floor — under representative operating conditions indicated — and that includes the point that receives the highest dose, and
+		- **(D)** a description of the testing methodology used to determine the profiles of stray radiation, including instructions for achieving the loading factors used in the testing if they are controlled only by an automatic control system.
+
+
+
+**Additional requirements — extra-oral equipment**
+
+**4** In addition to the requirements set out in section 2, the manufacturer, distributor and importer must ensure that all of the following additional information accompanies each piece of extra-oral dental X-ray equipment:
+- **(a)** a description of the geometric relationship between the focal spot, X-ray beam dimensions, patient position and image reception area;
+- **(b)** if the air kerma is indicated on the equipment, the maximum deviation;
+- **(c)** if the air kerma is not indicated on the equipment,
+	- **(i)** the air kerma at the entrance of the X-ray image receptor for every selectable combination of loading factors, and
+	- **(ii)** the maximum deviation of the air kerma;
+- **(d)** the maximum deviation of the dose area product;
+- **(e)** instructions on how to identify the location and dimensions of the effective image reception area;
+- **(f)** for equipment in which any of the loading factors set out in items 1 to 3 and 5, column 1, of the table to subsection 30(1) vary during an irradiation, instructions on how to measure the deviation and on how to compare it with the maximum deviation set out in column 2 of that table; and
+- **(g)** if a precalculated or measured current time product is indicated on the equipment, the lowest current time product or the combinations of loading factors that result in the lowest current time product.
+
+
+
+#### Labelling
+
+
+**Presentation**
+
+**5** The manufacturer, distributor and importer must ensure that all information that is required by this Part to be displayed on dental X-ray equipment is set out in a permanent, clear and legible manner on the specified surface of the equipment when it is fully assembled for use.
+
+
+
+**Function of controls**
+
+**6** The manufacturer must ensure that all controls, warning lights and other indicators on the control panel are clearly labelled as to their function.
+
+
+
+**Displayed information**
+
+**7** The manufacturer must ensure that all of the following information is displayed on dental X-ray equipment:
+- **(a)** on the external surface of the control panel,
+	- **(i)** a statement that unauthorized use of the equipment is prohibited,
+	- **(ii)** a warning that hazardous X-rays are emitted when the equipment is in use, and
+	- **(iii)** one of the X-ray warning symbols set out in section 8;
+- **(b)** on an external surface of the equipment,
+	- **(i)** the name of its manufacturer,
+	- **(ii)** its model designation,
+	- **(iii)** its serial number,
+	- **(iv)** the date of its manufacture, and
+	- **(v)** the country where it was manufactured;
+- **(c)** on or near the external surface of the control panel — when combinations of loading factors are indicated on the control panel by either a single reference to the combination or the value of only one of the loading factors that makes up the combination — the values of all the loading factors for each combination;
+- **(d)** on the external surface of the X-ray source assembly, with respect to the X-ray tube,
+	- **(i)** the name of its manufacturer,
+	- **(ii)** the model designation,
+	- **(iii)** its serial number, and
+	- **(iv)** the country of its manufacture;
+- **(e)** on the external surface of the X-ray source assembly, the permanent filtration of the X-ray source assembly, expressed at a specified X-ray tube voltage either in millimetres of aluminum equivalent or as the thickness of any other material, together with its chemical symbol;
+- **(f)** on the external surface of the X-ray source assembly, a mark that indicates the location along the X-ray beam axis of the focal spot on the anode target;
+- **(g)** on the surface of any detachable beam-limiting device,
+	- **(i)** the name of its manufacturer,
+	- **(ii)** its model designation,
+	- **(iii)** its serial number,
+	- **(iv)** its quality equivalent filtration, if it is more than 0.2 mm aluminum equivalent, expressed at a specified X-ray tube voltage either in millimetres of aluminum equivalent or as the thickness of another material together with its chemical symbol, and
+	- **(v)** in the case of intra-oral equipment, its exit field size;
+- **(h)** on the external surface of every fixed layer of material in the path of the X-ray beam incident on the patient — excluding any added filters and non-removable materials in the X-ray tube assembly — the quality equivalent filtration, if it is more than 0.2 mm aluminum equivalent, expressed at a specified X-ray tube voltage either in millimetres of aluminum equivalent or as the thickness of another material together with its chemical symbols; and
+- **(i)** on the external surface of the X-ray tube housing of hand-held intra-oral equipment, the words“WARNING: Hand-held operation increases operator radiation exposure due to proximity. See manufacturer safety information.”
+
+*« ATTENTION : L’utilisation de l’appareil en mode portatif augmente l’exposition de l’opérateur au rayonnement en raison de la proximité. Consultez les renseignements de sécurité du fabricant. »*
+
+
+
+
+
+**Warning symbol**
+
+**8** The X-ray warning symbol must have the following characteristics:
+- **(a)** it must be displayed in two contrasting colours;
+- **(b)** it must be visible and identifiable from a distance of 1 m;
+- **(c)** it must be at least 2 cm high and at least 2 cm wide;
+- **(d)** it must bear the words “CAUTION: X-RAYS — *ATTENTION : RAYONS X*”; and
+- **(e)** it must conform to one of the following:
+	- **(i)** the X-ray warning symbol:
+> Image: Warning symbol consisting of an inverted triangle that contains a tube with a circle in the middle of it from which three dashed lines emerge.
+
+	- **(ii)** the symbol ISO 361 in the report of the International Electrotechnical Commission entitled Graphical symbols for electrical equipment in medical practice, Publication IEC TR 60878: 2015, Third Edition, illustrated as follows: 
+> Image: Warning symbol consisting of three black blades around a black circle.
+
+	- **(iii)** the symbol ISO 7010-W003 in the report of the International Electrotechnical Commission entitled Graphical symbols for electrical equipment in medical practice, Publication IEC TR 60878: 2015, Third Edition, illustrated as follows:
+> Image: Warning symbol consisting of a yellow triangle bordered by a black line and containing three black blades around a black circle.
+
+
+
+
+### Construction and Functioning Standards
+
+
+**Control panel**
+
+**9** The control panel of dental X-ray equipment must have all of the following features:
+- **(a)** a visual indicator that warns the operator when one further actuation of a control will initiate the emission of X-rays;
+- **(b)** a visual indicator that warns the operator when X-rays are being emitted and that is clearly visible during the emission;
+- **(c)** if the equipment can emit X-rays while not in automatic exposure control mode, controls and visual indicators that enable the operator to select the loading factors or mode of operation before initiation of the irradiation;
+- **(d)** if more than one X-ray source assembly is controlled by the same control panel, a visual indicator that shows, before initiation of the irradiation, which of the X-ray source assemblies is connected and ready to emit X-rays;
+- **(e)** if the equipment allows for the selection of added filters by remote control or an automatic system, a visual indicator that shows which filter has been selected;
+- **(f)** if the equipment is battery-powered, a visual indicator that shows whether the battery is adequately charged for the proper operation of the equipment;
+- **(g)** for extra-oral equipment, an indicator that displays the dose area product; and
+- **(h)** for extra-oral equipment, an indicator that displays the air kerma at the entrance of the X-ray image receptor, unless the air kerma is already provided in the accompanying information required by section 4.
+
+
+
+**Irradiation switch — functions**
+
+**10** 
+
+- **(1)** Every irradiation switch of dental X-ray equipment must enable all of the following functions:
+	- **(a)** to initiate and to end an irradiation;
+	- **(b)** to permit the emission of X-rays only when the operator exerts continuous pressure on the switch;
+	- **(c)** to operate in a way that it is not possible to initiate an irradiation without first releasing the switch by which the previous irradiation was initiated; and
+	- **(d)** except in the case of hand-held intra-oral equipment, to permit the operator to stand at least 2 m from the X-ray source assembly when the X-ray tube is energized.
+
+**Hand-held intra-oral equipment**
+
+- **(2)** Hand-held intra-oral equipment must also be equipped with a second irradiation switch, whether attached or remote, that gives the operator the option to stand at least 2 m from the X-ray source assembly when the equipment is supported on a stand.
+
+
+
+**Protected area**
+
+**11** Dental X-ray equipment, except transportable equipment, must have a means to permit initiation of an irradiation by the operator from an area that is protected from radiation by structural shielding or distance.
+
+
+
+**Audible signal**
+
+**12** Dental X-ray equipment must emit a signal, clearly audible to the operator, that indicates the end of an irradiation.
+
+
+
+**Line voltage fluctuations**
+
+**13** Dental X-ray equipment must have a means appropriate to its rectification type to compensate for variations in X-ray tube voltage that are caused by line voltage fluctuations.
+
+
+
+**X-ray tube**
+
+**14** The X-ray tube of dental X-ray equipment must be securely affixed to and aligned within the X-ray tube housing.
+
+
+
+**X-ray source assembly**
+
+**15** The X-ray source assembly of dental X-ray equipment must maintain its required position or trajectory without drift or vibration during operation.
+
+
+
+**Multiple X-ray source assemblies**
+
+**16** If more than one X-ray source assembly of dental X-ray equipment is controlled by the same control panel, the equipment must have a visual indicator on or near each X-ray tube housing that shows which of the X-ray source assemblies has been selected.
+
+
+
+**Filtration**
+
+**17** 
+
+- **(1)** Dental X-ray equipment must have radiation-absorbing filters that meet the following requirements:
+	- **(a)** the filters must be securely affixed to the exit port of the X-ray tube housing or to the beam-limiting device, or to both; and
+	- **(b)** the filters must provide the following degree of attenuation of the X-ray beam:
+		- **(i)** for each X-ray tube voltage peak value set out in column 1 of the table to this subsection, a first half-value layer of aluminum that is not less than the value set out in column 2, and
+		- **(ii)** in any other case, a first half-value layer of aluminum that is not less than the value obtained by linear interpolation or extrapolation from that table.
+#### TABLE
 <table>
 <tr>
 <th></th>
-<th>Column I</th>
-<th>Column II</th>
+<th>Column 1</th>
+<th>Column 2</th>
 </tr>
 <tr>
 <th>Item</th>
-<th>X-ray Tube Voltage (Kilovolts (Peak Value))</th>
+<th>X-ray Tube Voltage — Peak Value (kV)</th>
 <th>First Half-value Layer of Aluminum (mm)</th>
 </tr>
 <tr>
 <td>1</td>
-<td>50</td>
-<td>1.5</td>
+<td>60</td>
+<td>2.2</td>
 </tr>
 <tr>
 <td>2</td>
-<td>60</td>
-<td>1.5</td>
-</tr>
-<tr>
-<td>3</td>
 <td>70</td>
-<td>1.5</td>
-</tr>
-<tr>
-<td>4</td>
-<td>71</td>
-<td>2.1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>80</td>
-<td>2.3</td>
-</tr>
-<tr>
-<td>6</td>
-<td>90</td>
 <td>2.5</td>
 </tr>
 <tr>
-<td>7</td>
+<td>3</td>
+<td>80</td>
+<td>2.9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>90</td>
+<td>3.2</td>
+</tr>
+<tr>
+<td>5</td>
 <td>100</td>
-<td>2.7</td>
+<td>3.6</td>
+</tr>
+<tr>
+<td>6</td>
+<td>110</td>
+<td>3.9</td>
+</tr>
+<tr>
+<td>7</td>
+<td>120</td>
+<td>4.3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>130</td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>9</td>
+<td>140</td>
+<td>5.0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>150</td>
+<td>5.4</td>
 </tr>
 </table>
 
-	- **(h)** on the external surface of the X-ray tube housing or on a suitable structure rigidly and permanently affixed to the X-ray tube housing, a clearly visible mark or marks indicating, to within 4 mm, the location along the X-ray beam axis of the focal spot on the target; and
-	- **(i)** where the equipment is equipped with an automatic exposure control, an interlock that, when an automatically-timed irradiation has terminated because the limits specified in subparagraph 4(1)(e)(ii) have been reached, requires the operator to manually reset the equipment to its original setting before another irradiation can be made.
 
-- **(2)** Dental X-ray equipment with an extra-oral source shall, where more than one X-ray tube is controlled by one control panel, be designed to include, in addition to the safety features required by subsection (1),
-	- **(a)** an interlock that prevents the energizing of more than one X-ray tube at the same time;
-	- **(b)** on or near each X-ray tube housing, so as to be clearly visible to the operator, a visual indicator that indicates when the X-ray tube is connected and ready to be energized; and
-	- **(c)** on the control panel, so as to be clearly visible to the operator, a visual indicator that indicates which X-ray tubes are connected and ready to be energized.
+**Total filtration — intra-oral equipment**
+
+- **(2)** Despite paragraph (1)(b), if intra-oral dental X-ray equipment operates at a maximum nominal X-ray tube voltage of 70 kV or less, it may have a total filtration of at least 1.5 mm aluminum equivalent.
 
 
 
-### Construction Standards
+**Automatic exposure control**
 
-**3** Dental X-ray equipment with an extra-oral source shall be constructed of such materials and in such a way that
-- **(a)** the X-ray tube is securely fixed and correctly aligned within the X-ray tube housing;
-- **(b)** the X-ray source assembly maintains its position or its intended motion without tipping, excessive drift or vibration during irradiation;
-- **(c)** where the equipment has its original components or replacement components recommended by the manufacturer, the equipment functions, under normal conditions of use, in accordance with the functioning standards set out in subsection 4(1); and
-- **(d)** the exposure of ionizing radiation or kerma emitted by the X-ray source assembly when the irradiation control circuit has not been activated, or by any other component at any time, does not exceed 645 nanocoulombs per kilogram (2.5 milliroentgens) or 22 micrograys, in any one-hour period, when averaged over a detection area of 10 cm<sup>2</sup> and measured at a distance of 5 cm from any accessible surface of the equipment.
+**18** Dental X-ray equipment that has an automatic exposure control must have the following features:
+- **(a)** a means to automatically end the irradiation when,
+	- **(i)** in the case of extra-oral equipment, either
+		- **(A)** the product of the X-ray tube voltage, X-ray tube current and irradiation time exceeds 64 kJ per irradiation, or
+		- **(B)** the current time product exceeds 640 mAs per irradiation, and
+	- **(ii)** in the case of intra-oral equipment, either
+		- **(A)** the product of the X-ray tube voltage, X-ray tube current and irradiation time exceeds 3.2 kJ per irradiation, or
+		- **(B)** the current time product exceeds 32 mAs per irradiation;
+- **(b)** a visual indicator or audible signal to warn the operator that the irradiation has ended because one of the limits set out in paragraph (a) has been reached; and
+- **(c)** a reset control that must be activated manually once one of the limits set out in paragraph (a) has been reached and before another irradiation under automatic exposure control can be initiated.
 
 
 
-### Functioning Standards
+**Minimum distance — focal spot to skin**
 
-**4** 
+**19** The minimum distance between the focal spot and the skin must be
+- **(a)** 15 cm, in the case of extra-oral equipment; and
+- **(b)** 20 cm, in the case of intra-oral equipment.
 
-- **(1)** Dental X-ray equipment with an extra-oral source shall, when fully assembled for use and tested under the test conditions referred to in subsection (2), function in such a way that
-	- **(a)** the preset X-ray tube voltage cannot be below 50 kilovolts (peak value);
-	- **(b)** where a series of 10 consecutive radiation measurements is taken at the same distance from the target in the X-ray beam within a period of one hour, and where all variable controls for loading factors are adjusted to other settings and reset to the test setting before each measurement, the coefficient of variation of the measurements is not greater than 0.05;
-	- **(c)** the actual operating X-ray tube voltage
-		- **(i)** is not less than 50 kilovolts (peak value), and
-		- **(ii)** does not deviate from the indicated value by more than the maximum allowable deviation specified by the manufacturer in accordance with paragraph 5(2)(b);
-	- **(d)** where the design of the equipment allows the X-ray tube voltage to fall below 50 kilovolts (peak value) during an irradiation, a warning indicator gives a clearly visible or audible signal when conditions that result in an X-ray tube voltage lower than 50 kilovolts (peak value) occur;
-	- **(e)** the controlling timer referred to in paragraph 2(1)(d)
-		- **(i)** at each setting meets the accuracy limits specified by the manufacturer in accordance with subparagraph 5(2)(b)(ii),
-		- **(ii)** where the equipment is designed for conventional dental examinations,
-			- **(A)** is such that the minimum value at which it can be set is equal to or less than the longest of the minimum irradiation times set out in columns II to IV of the table to this clause for the minimum X-ray tube voltage shown in column I of the table,
+
+
+**Maximum deviation — focal spot to image receptor**
+
+**20** If the distance between the focal spot and the X-ray image receptor of extra-oral dental X-ray equipment is adjustable, the equipment must have a visual indicator that shows the distance that is selected and that has a maximum deviation of 5%.
+
+
+
+**Beam-limiting device — extra-oral equipment**
+
+**21** 
+
+- **(1)** Extra-oral dental X-ray equipment must have a beam-limiting device that meets the following requirements:
+	- **(a)** when used for dental volumetric reconstruction with a circular image reception area, the device must operate so that
+		- **(i)** the X-ray field does not exceed the boundary of the effective image reception area by more than 2 cm, measured along any diameter, and
+		- **(ii)** at least 90% of the area of the X-ray field overlaps the effective image reception area;
+	- **(b)** when used for dental volumetric reconstruction with a rectangular image reception area, the device must operate so that
+		- **(i)** along each of the two axes of the image reception area, the edges of the X-ray field do not exceed the corresponding edges of the effective image reception area by more than 2 cm or 3% of the indicated distance between the focal spot and the image receptor, whichever is larger, when the image reception plane is perpendicular to the X-ray beam axis, and
+		- **(ii)** the sum of the discrepancies on both axes does not exceed 3 cm or 4% of the indicated distance between the focal spot and the X-ray image receptor, whichever is larger;
+	- **(c)** when used for projection radiography, the device must operate so that the X-ray field does not exceed the boundary of the effective image reception area; and
+	- **(d)** when used for narrow beam scanning radiography, the device must operate so that
+		- **(i)** along the axis of the image reception area that is parallel to the direction of the scanning, the X-ray field does not exceed the boundary of the effective image reception area by more than 1 mm on each side, and
+		- **(ii)** along the axis of the image reception area that is perpendicular to the direction of the scanning, the X-ray field does not exceed boundary of the effective image reception area.
+
+**Beam-limiting device — intra-oral equipment**
+
+- **(2)** Intra-oral dental X-ray equipment must have a beam-limiting device that meets the following requirements:
+	- **(a)** the device limits the X-ray field to a circle of not more than 6 cm diameter, measured at the point at which the beam exits the equipment;
+	- **(b)** if the device has an optional means to limit the exit field to a rectangular shape, it must operate so that the rectangle fits inside that circle;
+	- **(c)** if the device has a rectangular exit field, it must operate so that the exit field can rotate with respect to the X-ray beam axis; and
+	- **(d)** in the case of equipment that has an integrated direct digital X-ray image receptor, the device has a means to limit the X-ray field to a rectangular shape that does not exceed the boundary of the effective image reception area by more than 1 cm in the diagonal.
+
+
+
+**Incremental settings**
+
+**22** When irradiation times are 0.08 s or greater, the range of settings for the X-ray tube current, irradiation time or current time product of dental X-ray equipment must be in increments that are not greater than the decimal multiples and submultiples of 1.00, 1.25, 1.60, 2.00, 2.50, 3.20, 4.00, 5.00, 6.30 and 8.00.
+
+
+
+**Modes of operation**
+
+**23** Dental X-ray equipment that has more than one mode of operation must be constructed in accordance with the following requirements:
+- **(a)** in the case of extra-oral equipment that does not have an integrated direct digital X-ray image receptor, the step size of the adjustment between adjacent settings of the current time product must not be greater than 1.6 mAs; and
+- **(b)** in the case of intra-oral equipment,
+	- **(i)** the step size of the adjustment between adjacent settings of the current time product must not be greater than 1.6 mAs, and
+	- **(ii)** the ratio of the maximum to minimum current time product settings must be at least 4:1.
+
+
+
+**Current time product**
+
+**24** For each selectable X-ray tube voltage of intra-oral dental X-ray equipment, the ratio of the maximum to minimum current time product settings must be at least 16:1.
+
+
+
+**Primary shielding**
+
+**25** Extra-oral dental X-ray equipment must have primary protective shielding that completely overlaps the X-ray field and that provides the following minimum attenuation:
+- **(a)** 0.5 mm lead equivalent, in the case of a nominal X-ray tube voltage of 90 kV or less; and
+- **(b)** 2 mm lead equivalent, in the case of a nominal X-ray tube voltage of more than 90 kV.
+
+
+
+**Attenuation equivalent**
+
+**26** All parts of extra-oral dental X-ray equipment that are located in the path of the X-ray beam between the patient and the X-ray image receptor must, when taken together, have an attenuation of not more than 1.2 mm aluminum equivalent, as determined at the highest X-ray tube voltage of the equipment.
+
+
+
+**Hand-held intra-oral equipment**
+
+**27** Hand-held intra-oral dental X-ray equipment must have all of the following features:
+- **(a)** a permanently affixed backscatter shield that has an attenuation of at least 0.25 mm lead equivalent, as determined at a nominal X-ray tube voltage of 70 kV;
+- **(b)** a means to prevent unauthorized operation; and
+- **(c)** a means to allow the equipment to be supported in a way that it maintains its position so that it is not necessary for the operator to hold the equipment during operation.
+
+
+
+**X-ray tube voltage**
+
+**28** The minimum nominal X-ray tube voltage of dental X-ray equipment must be at least 60 kV.
+
+
+
+**Functioning requirements**
+
+**29** Dental X-ray equipment must function in accordance with sections 30 to 35 under the following conditions:
+- **(a)** the unloaded line voltage must not vary by more than 1% of its nominal value; and
+- **(b)** the line voltage must be regulated so that it does not vary by more than 6% when the line is fully loaded at the maximum rated line current of the equipment.
+
+
+
+**Loading factors**
+
+**30** 
+
+- **(1)** Subject to subsection (2), for any combination of loading factors, the measured value of a loading factor set out in column 1 of the table to this subsection must not deviate from the indicated value by more than the amount set out in column 2.
+#### TABLE
 <table>
 <tr>
 <th></th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
-</tr>
-<tr>
-<th></th>
-<th>Minimum X-ray Tube Voltage (Kilovolts (Peak Value))</th>
-<th>Minimum Irradiation Time</th>
+<th>Column 1</th>
+<th>Column 2</th>
 </tr>
 <tr>
 <th>Item</th>
-<th>(Seconds)</th>
-<th>(Cycles)</th>
-<th>(Milliampere-seconds)</th>
+<th>Loading Factor</th>
+<th>Maximum Deviation</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Up to 70</td>
-<td>1/20</td>
-<td>3</td>
-<td>0.75</td>
+<td>X-ray tube voltage</td>
+<td>10%</td>
 </tr>
 <tr>
 <td>2</td>
-<td>71 to 80</td>
-<td>1/30</td>
-<td>2</td>
-<td>0.5</td>
+<td>X-ray tube current</td>
+<td>20%</td>
 </tr>
 <tr>
 <td>3</td>
-<td>81 or more</td>
-<td>1/60</td>
-<td>1</td>
-<td>0.25</td>
+<td>Irradiation time for extra-oral dental X-ray equipment</td>
+<td>5% + 50 ms</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Irradiation time for intra-oral dental X-ray equipment</td>
+<td>5% or 20 ms, whichever is greater</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Current time product for extra-oral dental X-ray equipment</td>
+<td>10% + 0.2 mAs</td>
 </tr>
 </table>
 
-			- **(B)** in the case of a timer that has a scale of irradiation times or milliampere-second values, is such that the ratio of no two consecutive settings exceeds 1.25:1, except for times not greater than 1/20 second, 3 cycles or the equivalent milliampere-second values, and
-			- **(C)** has a maximum irradiation time of no longer than 5 seconds or the time required to deliver 50 milliampere-seconds, whichever is the shorter,
-		- **(iii)** where the equipment is designed for operation in cephalometric mode, but not for conventional dental examinations, is such that the minimum value at which it can be set is equal to or less than the longest of
-			- **(A)** 1/10 second,
-			- **(B)** 6 cycles, and
-			- **(C)** the time required to deliver 3 milliampere-seconds, and
-		- **(iv)** where the equipment is designed for operation in panoramic mode, has a maximum irradiation time of not longer than 25 seconds or the time required to deliver 250 milliampere-seconds, whichever is the shorter;
-	- **(f)** for any selected X-ray tube voltage within the range of values of operating X-ray tube voltages specified for the equipment and for any irradiation time equal to or greater than the longest of the minimum irradiation times set out in columns II to IV of the table to clause 4(1)(e)(ii)(A) for the minimum X-ray tube voltage shown in column I of the table, the following relation shall hold:
+
+**Exception — intra-oral equipment**
+
+- **(2)** In the case of intra-oral dental X-ray equipment that has a one-peak high-voltage generator, the maximum deviation set out in item 4, column 2, of the table to subsection (1) does not apply when the irradiation time is shorter than 0.1 s.
+
+
+
+**Coefficient of variation — air kerma**
+
+**31** 
+
+- **(1)** For any combination of loading factors of dental X-ray equipment, the coefficient of variation of any five consecutive air kerma measurements — taken at the same point along the X-ray beam axis within a one-hour period — must be 0.05 or less.
+
+**Internally powered equipment**
+
+- **(2)** Dental X-ray equipment that is internally powered must meet the requirement set out in subsection (1) over the whole range of usable charging levels of the internal supply.
+
+
+
+**Maximum deviation — air kerma**
+
+**32** The maximum deviation of the air kerma for dental X-ray equipment must not exceed 50%.
+
+
+
+**Maximum deviation — dose area product**
+
+**33** The maximum deviation of the dose area product for extra-oral dental X-ray equipment must not exceed 50%.
+
+
+
+**Air kerma — linearity**
+
+**34** 
+
+- **(1)** Subject to subsection (2), for any selected value of X-ray tube voltage and over the whole range of current time product settings, for any two settings of the current time product that do not differ by more than a factor of 2, the quotients of the average of the air kerma measurements divided by the corresponding indicated current time product must not differ by more than 0.10 times their sum, as determined by the following formula, where X is the quotient of the average of the air kerma measurements divided by the indicated current time product, calculated at each of the two settings of the current time product:
 ```
-X<sub>l</sub> - X<sub>2</sub> < 0.1 (X<sub>1</sub> + X<sub>2</sub>)
+|X<sub>1</sub> – X<sub>2</sub>| ≤ 0.1(X<sub>1</sub> + X<sub>2</sub>)
 ```
-where 
-- **X** <sub>l</sub>** and X** <sub>2</sub>are the average exposure values (kerma) per second, per pulse or per milliampere-second obtained
-	- **(i)** where the X-ray tube current is fixed, at each two settings of the controlling timer that do not differ by more than a factor of two, and
-	- **(ii)** where the irradiation time is fixed, at each two X-ray tube current settings that do not differ by more than a factor of two; and
-	- **(g)** the leakage radiation from the X-ray tube housing, when measured at a distance of 1 m from the target and averaged over an area of 100 cm<sup>2</sup> having no linear dimension greater than 20 cm, does not exceed 25.8 microcoulombs per kilogram (100 milliroentgens) or 0.87 milligrays in any one-hour period under any combination of loading factors within the rated limits of use of the equipment.
 
-- **(2)** Any testing of dental X-ray equipment with an extra-oral source that is carried out to verify its compliance with the functioning standards set out in subsection (1) shall be conducted under the following conditions:
-	- **(a)** the unloaded line voltage must remain within 1 per cent of its nominal value; and
-	- **(b)** the line voltage must be regulated in such a manner that it does not vary by more than 6 per cent when the line is fully loaded at the maximum rated line current of the equipment.
+
+**Exception — intra-oral equipment**
+
+- **(2)** In the case of intra-oral dental X-ray equipment that has a one-peak high-voltage generator, the shortest irradiation time in the range of current time product settings is 80 ms.
 
 
 
-### Labelling and Information
+**Leakage radiation — loading state**
 
-**5** 
+**35** 
 
-- **(1)** Dental X-ray equipment with an extra-oral source shall bear
-	- **(a)** an X-radiation warning symbol that
-		- **(i)** is securely affixed to the equipment control panel,
-		- **(ii)** is displayed in two contrasting colours,
-		- **(iii)** is clearly visible and readily discernable from a distance of 1 m,
-		- **(iv)** has no outer dimension that is less than 2 cm,
-		- **(v)** bears the words “CAUTION: X-RAYS — ATTENTION : RAYONS X”, and
-		- **(vi)** conforms to the following diagram:
-> Image: Warning sign, bearing the words “CAUTION: X-RAYS — ATTENTION : RAYONS X”, described by an inverted triangle containing a tube with a circle in the middle emitting dashed lines
+- **(1)** Leakage radiation from the X-ray source assembly of dental X-ray equipment must not exceed the following air kerma rate when the equipment is operated at the nominal X-ray tube conditions of loading that correspond to the maximum specified energy input in one hour:
+	- **(a)** in the case of extra-oral equipment, 1.0 mGy/h; and
+	- **(b)** in the case of intra-oral equipment,
+		- **(i)** 1.5 µGy/h for hand-held intra-oral equipment, and
+		- **(ii)** 0.25 mGy/h for all other intra-oral equipment.
 
-	- **(b)** a warning sign that
-		- **(i)** is clearly visible and legible to the operator,
-		- **(ii)** indicates the possibility of hazardous radiation emission when the equipment is in operation, and
-		- **(iii)** states that any unauthorized use is prohibited;
-	- **(c)** on the external surface of the equipment control panel, a clearly visible and readily discernable permanent mark or label that indicates, with respect to the equipment,
-		- **(i)** the name of the manufacturer,
-		- **(ii)** the model designation,
-		- **(iii)** the serial number,
-		- **(iv)** the date of manufacture, and
-		- **(v)** the country of manufacture; and
-	- **(d)** on the external surface of the X-ray tube assembly, a clearly visible and readily discernable permanent mark or label that indicates, with respect to the X-ray tube assembly,
-		- **(i)** the name of the manufacturer,
-		- **(ii)** the model designation,
-		- **(iii)** the serial number,
-		- **(iv)** the date of installation of the X-ray tube in the X-ray tube housing, and
-		- **(v)** the country of manufacture.
+**Detection area**
 
-- **(2)** Dental X-ray equipment with an extra-oral source shall be accompanied by the following materials, which shall be furnished by the manufacturer:
-	- **(a)** operating instructions that provide the information necessary for the safe and proper operation of the equipment; and
-	- **(b)** the following information respecting the functioning of the equipment:
-		- **(i)** the maximum allowable deviation from the specified X-ray tube current and voltage,
-		- **(ii)** the accuracy of the controlling timer, and
-		- **(iii)** the specific conditions on which the information referred to in subparagraphs (i) and (ii) is based.
+- **(2)** For the purpose of subsection (1), the air kerma rate must be averaged over a detection area of 100 cm<sup>2</sup> — of which no linear dimension is greater than 20 cm — that is 1 m from the focal spot.
+
+**Leakage radiation — extra-oral equipment in non-loading state**
+
+- **(3)** In the case of extra-oral dental X-ray equipment that is not in the loading state, the leakage radiation from the X-ray source assembly must not exceed an air kerma rate of 20 µGy/h.
+
+**Detection area**
+
+- **(4)** For the purpose of subsection (3), the air kerma rate must be averaged over a detection area of 10 cm<sup>2</sup> — of which no linear dimension is greater than 5 cm — that is 5 cm from any accessible surface of the equipment.
 
 
 
@@ -2643,6 +2977,6 @@ when averaged over a detection area of ten square centimetres.
 **PART XVI** 
 ## [Revoked, SOR/88-471, s. 4]
 
-> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, ss. 1 to 6(F), 7, 8(F), 9(F), 10; SOR/2014-25, ss. 1 to 3; SOR/2018-69, s. 86.
+> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, ss. 1 to 6(F), 7, 8(F), 9(F), 10; SOR/2014-25, ss. 1 to 3; SOR/2017-228, s. 3; SOR/2018-69, s. 86.
 
 
