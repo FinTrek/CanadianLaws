@@ -84,11 +84,11 @@ Autorités habilitantes :
 
 
 ### **ANNEXE I** 
-**(art. 3)**
+**(article 3)**
 **1** Récepteurs de télévision, y compris les moniteurs vidéo et les systèmes d’exposition vidéo : dispositifs électroniques conçus pour présenter une image ou des renseignements alphanumériques, ou les deux, après réception de signaux transmis par ondes électromagnétiques, par câble ou par tout autre moyen, y compris le meuble ou coffret qui contient les dispositifs.
 
 
-**2** Appareil de radiographie dentaire à rayonnement X de source extra-oral : appareil émettant des rayonnements X qui est conçu principalement pour l’examen du système dentaire humain et dont le tube radiogène est conçu pour être utilisé à l’extérieur de la bouche.
+**2** Appareil à rayonnement X dentaire : dispositif émettant des radiations qui est conçu principalement pour l’examen du système dentaire et des structures maxillo-faciales des êtres humains vivants et dont le tube radiogène est conçu pour être utilisé à l’extérieur de la bouche.
 
 
 **3** Fours à micro-ondes : dispositifs ou ensembles d’éléments conçus pour fournir de l’énergie de micro-ondes à une substance placée dans une cavité.
@@ -120,7 +120,7 @@ Autorités habilitantes :
 **11** Appareils de bronzage au sens de l’article 1 de la partie XI de l’annexe II.
 
 
-**12** Appareil de radiodiagnostic : dispositif à rayons X pour l’examen du corps humain, à l’exclusion des appareils de radiographie dentaire à rayonnement X de source extra-orale assujettis à la partie II du présent règlement, de l’équipement de radiographie photofluorographique, des simulateurs de radiothérapie et des appareils tomographiques assistés par ordinateur.
+**12** Appareil de radiodiagnostic : dispositif émettant des radiations qui utilise des rayonnements X et qui est conçu pour l’examen du corps humain, à l’exclusion des appareils à rayonnement X dentaires, de l’équipement de radiographie photofluorographique, des simulateurs de radiothérapie et des appareils tomographiques assistés par ordinateur.
 
 
 **13** Appareils à ultrasons à usage thérapeutique : appareils conçus pour la production et l’émission d’énergie ultrasonore à des fins thérapeutiques à des fréquences acoustiques supérieures à 20 kHz.
@@ -135,7 +135,7 @@ Autorités habilitantes :
 **16** [Abrogé, DORS/88-471, art. 1]
 
 
-> DORS/78-407, art. 1; DORS/79-229, art. 1; DORS/80-381, art. 1; DORS/80-464, art. 1; DORS/81-23, art. 1; DORS/81-286, art. 1; DORS/81-545, art. 1; DORS/82-981, art. 1; DORS/83-495, art. 1; DORS/88-471, art. 1; DORS/93-201, art. 1; DORS/97-511, art. 1; DORS/2001-252, art. 1; DORS/2005-33, art. 1.
+> DORS/78-407, art. 1; DORS/79-229, art. 1; DORS/80-381, art. 1; DORS/80-464, art. 1; DORS/81-23, art. 1; DORS/81-286, art. 1; DORS/81-545, art. 1; DORS/82-981, art. 1; DORS/83-495, art. 1; DORS/88-471, art. 1; DORS/93-201, art. 1; DORS/97-511, art. 1; DORS/2001-252, art. 1; DORS/2005-33, art. 1; DORS/2017-228, art. 1 et 2.
 
 
 
@@ -151,13 +151,13 @@ Autorités habilitantes :
 
 **1** Dans la présente partie,
 
-***commande externe*** désigne une commande dont le fabricant a pourvu un récepteur de télévision pour les besoins du réglage et qui, en usage normal, est accessible à l’utilisateur; (*user control*)
+***commande externe*** désigne une commande dont le fabricant a pourvu un récepteur de télévision pour les besoins du réglage et qui, en usage normal, est accessible à l’utilisateur; (*user control*)
 
-***commande interne*** désigne une commande dont le fabricant a pourvu un récepteur de télévision pour les besoins du réglage et qui, en usage normal, n’est pas accessible à l’utilisateur; (*service control*)
+***commande interne*** désigne une commande dont le fabricant a pourvu un récepteur de télévision pour les besoins du réglage et qui, en usage normal, n’est pas accessible à l’utilisateur; (*service control*)
 
-***tension maximale d’essai*** signifie
+***tension maximale d’essai*** signifie
 - **a)** 127 volts, s’il s’agit d’un récepteur de télévision conçu pour fonctionner sur une alimentation de 110-120 volts, ou
-- **b)** 110 pour cent du voltage maximal sur lequel le récepteur de télévision est destiné à fonctionner, s’il s’agit d’un récepteur conçu pour fonctionner sur une alimentation autre que celle de 110-120 volts. (*maximum test voltage*)
+- **b)** 110 pour cent du voltage maximal sur lequel le récepteur de télévision est destiné à fonctionner, s’il s’agit d’un récepteur conçu pour fonctionner sur une alimentation autre que celle de 110-120 volts. (*maximum test voltage*)
 
 
 
@@ -211,260 +211,597 @@ l’émission de rayons ionisants soit telle que l’exposition moyenne, sur une
 
 
 **PARTIE II** 
-## Appareil de radiographie dentaire à rayonnement x de source extra-orale
+## Appareil à rayonnement X dentaire
 
 
 ### Définitions
 
-**1** 
 
-- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+**Définitions**
 
-***coefficient de variation*** Rapport entre l’écart type et la valeur moyenne d’une série de mesures, calculé au moyen de l’équation suivante :
+**1** Les définitions qui suivent s’appliquent à la présente partie.
+
+***aluminium*** Aluminium d’ un degré de pureté égal ou supérieur à 99,9 % et d’une densité de 2,70 g/cm<sup>3</sup>. (*aluminum*)
+
+***champ de rayonnement X*** Aire d’une surface intersectée par un faisceau de rayonnement dont les limites sont déterminées par les points où le kerma dans l’air descend à 25 % du kerma dans l’air au centre de cette aire. (*X-ray field*)
+
+***coefficient de variation*** Rapport entre l’écart type estimé et la valeur moyenne d’une série de mesures, déterminé selon la formule suivante :
 ```
 
-> Image: Le coefficient de variation, calculé au moyen de l’équation “C est égal à un divisé par X barré multiplié par, ouvrir la parenthèse carrée, la somme de i égale à un jusqu`a n, ouvrir la parenthèse, x indice i moins X barré, fermer la parenthèse, au carré, divisé par n moins un, fermer la parenthèse carrée, à la puissance une demie”
+> Image: Le coefficient de variation, déterminé selon la formule « C est égal à S divisé par X barre, lequel est aussi égal à un divisé par X barre multiplié par, ouvrir le crochet, la somme de i égale à un jusqu’à n, ouvrir la parenthèse, X indice i moins X barre, fermer la parenthèse, au carré, divisé par n moins un, fermer le crochet, à la puissance une demie ».
 
 ```
 où :
-- **C** représente le coefficient de variation,
-- **X** <sub>i</sub>la valeur de la i<sup>e</sup> mesure,
-- X**  ** la valeur moyenne des mesures,
-- **n** le nombre de mesures. (*coefficient of variation*)
+- **C** représente le coefficient de variation;
+- **S** l’écart type estimé;
+- Xla valeur moyenne des mesures;
+- **X** <sub>i</sub>la valeur de la i<sup>e</sup> mesure;
+- **n** le nombre de mesures. (*coefficient of variation*)
 
-***dose d’irradiation au récepteur d’image radiologique*** Quantité de rayonnement enregistrée par un ou plusieurs détecteurs placés à proximité du récepteur d’image radiologique. (*radiation exposure to the X-ray image receptor*)
+***équivalent en aluminium*** Équivalent d’atténuation d’un objet, exprimé en épaisseur d’aluminium. (*aluminum equivalent*)
 
-- **(2)** Sauf disposition contraire, les autres termes de la présente partie s’entendent au sens de la norme de la Commission électrotechnique internationale intitulée Radiologie médicale — Terminologie, publication 788, première édition, 1984.
+***équivalent en plomb*** Équivalent d’atténuation d’un objet, exprimé en épaisseur de plomb. (*lead equivalent*)
+
+***extra-oral*** Se dit du récepteur d’image radiologique qui se trouve à l’extérieur de la cavité buccale. (*extra-oral*)
+
+***intra-oral*** Se dit du récepteur d’image radiologique qui se trouve en tout ou en partie, à l’intérieur de la cavité buccale. (*intra-oral*)
+
+***mode de fonctionnement*** État technique défini par une configuration de plusieurs paramètres de charge prédéterminés et d’autres réglages pour la radiographie ou la radioscopie, pouvant être sélectionnés de manière simultanée au moyen d’une commande unique. (*mode of operation*)
+
+***paramètre de charge*** Tout facteur dont la valeur agit sur la charge du tube radiogène. Il inclut notamment :
+- **a)** dans le cas d’un faisceau de rayonnement X qui est produit par la décharge du condensateur dans le tube radiogène, la tension radiogène et la charge du condensateur;
+- **b)** dans le cas d’un dispositif d’émission par effet de champ qui permet l’émission d’électrons par une cathode uniquement par l’action d’un champ électrique, la tension radiogène et le nombre d’impulsions;
+- **c)** dans tout autre cas, la tension radiogène et :
+	- **(i)** soit l’intensité du courant du tube radiogène et le temps d’irradiation,
+	- **(ii)** soit le produit courant-temps. (*loading factor*)
+
+***portatif*** Se dit de l’appareil à rayonnement X dentaire transportable qui, une fois mis en service, est tenu ou soutenu par la main. (*hand-held*)
+
+***récepteur d’image radiologique*** Dispositif qui convertit les rayons X incidents en une image visible ou en une forme à partir de laquelle une image visible peut être obtenue. (*X-ray image receptor*)
+
+***récepteur numérique d’image radiologique*** Récepteur d’image radiologique ayant une méthode de conversion à fonctionnement électrique qui peut comprendre une méthode directe en une étape ou une méthode indirecte en plusieurs étapes. (*digital X-ray image receptor*)
+
+***reconstruction dentaire volumétrique*** Reconstruction de la distribution d’atténuation tridimensionnelle de tout ou partie du volume irradié à partir d’un ensemble de projections bidimensionnelles qui sont produites par un faisceau de rayonnement X sur un récepteur d’image radiologique se déplaçant autour de la tête du patient. (*dental volumetric reconstruction*)
+
+***surface réceptrice de l’image efficace*** Partie de la surface réceptrice de l’image qui est configurée pour recevoir une image radiologique potentielle pouvant être traitée pour être affichée ou stockée. (*effective image reception area*)
+
+***temps d’irradiation*** À l’égard d’une irradiation, l’intervalle entre le moment où le débit de kerma dans l’air atteint pour la première fois une valeur égale à 50 % de sa valeur de crête et celui où il descend en dessous d’une valeur égale à 50 % de sa valeur de crête pour la dernière fois. (*irradiation time*)
+
+***transportable*** Se dit de l’appareil à rayonnement X dentaire qui est construit de manière à en permettre le déplacement d’un lieu à un autre une fois qu’il est mis en service. (*transportable*)
+
+***type de redressement*** Processus par lequel le générateur radiologique de l’appareil à rayonnement X dentaire convertit la haute tension en tension radiogène. (*rectification type*)
+
+***variation*** Pourcentage d’erreur entre la valeur mesurée par le paramètre d’un appareil à rayonnement X dentaire et la valeur indiquée sur l’appareil ou dans les renseignements qui l’accompagnent. (*deviation*)
 
 
 
-### Normes de conception
+### Renseignements et étiquetage
 
-**2** 
 
-- **(1)** Tout appareil de radiographie dentaire à rayonnement X de source extra-orale doit être conçu de façon à être muni des dispositifs de sécurité suivants :
-	- **a)** des compteurs électriques ou autres indicateurs qui :
-		- **(i)** sont bien à la vue de l’opérateur,
-		- **(ii)** sont bien fixés au poste de commande de l’appareil,
-		- **(iii)** affichent un ensemble de paramètres de charge dont le réglage permet à l’opérateur d’obtenir des radiogrammes d’une qualité satisfaisante pour le diagnostic,
-		- **(iv)** s’il s’agit d’un appareil dont le fonctionnement est géré par la commande automatique d’exposition lorsque le tube radiogène est sous tension, donnent un signal d’avertissement visuel ou sonore nettement perceptible chaque fois que l’appareil ne peut pas produire un radiogramme d’une qualité satisfaisante pour le diagnostic;
-	- **b)** des avertisseurs séparés qui :
-		- **(i)** s’ils donnent un signal sonore, sont nettement audibles par l’opérateur,
-		- **(ii)** s’ils donnent un signal visuel, sont :
-			- **(A)** bien à la vue de l’opérateur,
-			- **(B)** fixés au poste de commande de l’appareil,
-		- **(iii)** sont nettement perceptibles et sont clairement marqués pour indiquer :
-			- **(A)** par un signal visuel que, selon le cas :
-				- **(I)** le courant électrique est appliqué au filament du tube radiogène,
-				- **(II)** le poste de commande est sous tension,
-				- **(III)** la commande automatique d’exposition a été sélectionnée,
-				- **(IV)** les paramètres de charge réglés par la commande automatique d’exposition ont atteint les limites spécifiées au sous-alinéa 4(1)e)(ii),
-			- **(B)** par un signal visuel et sonore qu’il y a production de rayonnements X;
-	- **c)** une commande d’irradiation qui :
-		- **(i)** demande de la part de l’opérateur l’exercice d’une pression continue jusqu’à la fin de l’irradiation,
-		- **(ii)** est installée de façon à permettre à l’opérateur de se tenir à une distance d’au moins 3 m de la source de rayonnements X lorsque le tube radiogène est sous tension;
-	- **d)** une minuterie qui :
-		- **(i)** lorsque l’appareil ne fonctionne pas en mode panoramique, revient automatiquement au réglage original ou en position zéro à la fin d’une irradiation,
-		- **(ii)** empêche le déclenchement d’une irradiation lorsqu’elle est réglée en position zéro ou à la position d’arrêt,
-		- **(iii)** fait cesser automatiquement la production de rayonnements X lorsqu’est atteinte l’une des valeurs prédéterminées suivantes :
-			- **(A)** le temps d’irradiation,
-			- **(B)** le produit courant-temps,
-			- **(C)** la dose d’irradiation au récepteur d’image radiologique,
-		- **(iv)** lorsque l’appareil fonctionne en mode d’exposition automatique, garantit que le temps d’irradiation maximal ou le produit courant-temps maximal ne dépasse pas les limites spécifiées à la division 4(1)e)(ii)(C) ou au sous-alinéa 4(1)e)(iv), selon le cas;
-	- **e)** un cône de localisation ou autre dispositif qui limite la distance foyer-peau à un minimum de :
-		- **(i)** 15 cm, dans le cas d’un appareil conçu pour les examens panoramiques,
-		- **(ii)** 18 cm, dans le cas de tout autre appareil;
-	- **f)** des dispositifs de limitation du faisceau qui :
-		- **(i)** assurent un degré de radioprotection des rayonnements parasites tel que ceux-ci ne dépassent pas la limite prévue à l’alinéa 4(1)g) pour les rayonnements de fuite en provenance de la gaine,
-		- **(ii)** limitent la taille du faisceau de rayonnement X de la façon suivante :
-			- **(A)** au niveau du récepteur d’image radiologique de l’appareil conçu pour les examens panoramiques, le faisceau de rayonnement X est tel qu’il ne dépasse aucune des dimensions de la fente d’exploration de plus de la moitié de cette dimension ou de plus de 2 % de la distance foyer-récepteur d’image, selon la moindre de ces deux valeurs,
-			- **(B)** dans le cas d’un appareil conçu pour fonctionner en mode céphalométrique et utilisé dans ce mode, le faisceau de rayonnement X se limite à un cercle d’au plus 30 cm de diamètre ou à un rectangle d’une superficie d’au plus 800 cm<sup>2</sup>, intercepté entièrement par le récepteur d’image radiologique à une distance de 1,5 m ou à la distance foyer-récepteur d’image maximale, selon la moindre de ces deux distances,
-			- **(C)** dans le cas d’un appareil utilisé avec un récepteur d’image radiologique intra-oral, le faisceau de rayonnement X se limite à un cercle d’au plus 7 cm de diamètre ou à un rectangle d’une superficie d’au plus 38,5 cm<sup>2</sup>;
-	- **g)** des filtres d’absorption des rayonnements qui :
-		- **(i)** sont solidement installés sur le parcours du faisceau de rayonnement X,
-		- **(ii)** assurent un degré d’atténuation du faisceau de rayonnement X tel que la première couche de demi-transmission d’aluminium soit au moins égale à la valeur indiquée à la colonne II du tableau du présent sous-alinéa, selon la haute tension radiogène de crête indiquée à la colonne I, ou au moins égale à la valeur obtenue par interpolation linéaire à partir de ce tableau;
+#### Renseignements
+
+
+**Renseignements généraux**
+
+**2** Le fabricant, le distributeur et l’importateur veillent à ce que les renseignements ci-après accompagnent chaque appareil à rayonnement X dentaire :
+- **a)** le nom et l’adresse municipale du fabricant et son adresse postale, si elle est différente;
+- **b)** la désignation du modèle de l’appareil;
+- **c)** les instructions d’installation;
+- **d)** les mesures de sécurité radiologique et les précautions supplémentaires qui sont nécessaires en raison de toute particularité de l’appareil;
+- **e)** les instructions d’utilisation, notamment :
+	- **(i)** une description de l’influence des principaux réglages ou des principales sélections à la disposition de l’opérateur sur la dose de rayonnement reçue par le patient,
+	- **(ii)** lorsque la protection de l’opérateur est affectée par la distance à laquelle il se tient de l’appareil, les renseignements concernant l’impact de la distance sur la dose de rayonnement,
+	- **(iii)** tout renseignement nécessaire en vue de minimiser l’exposition de l’opérateur aux rayonnements;
+- **f)** les instructions d’entretien;
+- **g)** les procédures relatives aux essais de contrôle de la qualité de l’appareil, notamment la fréquence des essais et les critères d’acceptation;
+- **h)** pour chaque gaine équipée :
+	- **(i)** les tailles nominales des foyers,
+	- **(ii)** les courbes de refroidissement de l’anode et de la gaine,
+	- **(iii)** les tables de capacité du tube radiogène,
+	- **(iv)** la position du foyer;
+- **i)** les cycles de service et le type de redressement, ainsi que la capacité du générateur;
+- **j)** la tension de secteur nominale de l’appareil et le courant de secteur maximal de l’appareil ainsi que la plage de régulation de la tension de secteur qui sont nécessaires à son fonctionnement au courant de secteur maximal;
+- **k)** les paramètres de charge qui constituent la condition de courant de secteur maximal pour le générateur radiologique;
+- **l)** les paramètres de charge recommandés en fonction de la taille du patient;
+- **m)** si les combinaisons de paramètres de charge sont indiquées sur le poste de commande de manière à ne donner que la combinaison ou la valeur d’un seul des paramètres de charge, la valeur de tous les paramètres de charge de chaque combinaison;
+- **n)** si l’appareil peut fonctionner en mode de commande automatique d’exposition :
+	- **(i)** les limites de précision de la commande automatique d’exposition,
+	- **(ii)** le temps minimal d’irradiation nominal dans ce mode,
+	- **(iii)** la reproductibilité du kerma dans l’air par rapport à la plage des paramètres de charge lorsqu’ils sont réglés au moyen de la commande automatique d’exposition;
+- **o)** si l’appareil peut fonctionner en un mode de commande autre que le mode de commande automatique d’exposition, la plage des valeurs de fonctionnement et la variation maximale des réglages de chaque paramètre de charge;
+- **p)** si l’appareil fonctionne à pile, l’état de charge minimale nécessaire à son fonctionnement;
+- **q)** si le fabricant précise les dispositifs de protection amovibles qui doivent être utilisés avec l’appareil, les renseignements sur leur efficacité, leur application et leur utilisation;
+- **r)** si des indications dosimétriques figurent sur l’appareil, des renseignements et des instructions sur la manière d’en vérifier et d’en maintenir l’exactitude;
+- **s)** si l’appareil est transportable, les lignes directrices concernant l’entreposage sécuritaire de l’appareil afin d’en prévenir le vol ou l’usage non autorisé.
+
+
+
+**Exigences additionnelles : appareil intra-oral**
+
+**3** En plus de se conformer aux exigences de l’article 2, le fabricant, le distributeur et l’importateur veillent à ce que les renseignements supplémentaires ci-après accompagnent l’appareil à rayonnement X dentaire intra-oral :
+- **a)** la forme et les dimensions du champ de sortie;
+- **b)** dans le cas d’un appareil muni d’un récepteur numérique d’image radiologique :
+	- **(i)** une description des critères de performance minimaux du dispositif utilisé pour afficher les images à des fins de diagnostic,
+	- **(ii)** la plage nominale de kerma dans l’air du récepteur d’image radiologique nécessaire à l’utilisation prévue,
+	- **(iii)** des recommandations relatives à des paramètres de charge typiques à des distances foyer-peau précises permettant d’obtenir le kerma dans l’air visé au sous-alinéa (ii);
+- **c)** la méthode permettant de déterminer la distance foyer-peau au moyen de l’indicateur visé à l’alinéa 7f);
+- **d)** si le kerma dans l’air est indiqué sur l’appareil, la variation maximale;
+- **e)** si le kerma dans l’air n’est pas indiqué sur l’appareil :
+	- **(i)** le kerma dans l’air à une distance donnée du foyer pour toute combinaison de paramètres de charge sélectionnables,
+	- **(ii)** la variation maximale du kerma dans l’air;
+- **f)** une méthode pour calculer le produit dose-surface à l’aide du kerma dans l’air et de la dimension du champ de sortie;
+- **g)** dans le cas d’un appareil portatif :
+	- **(i)** les valeurs relatives au rayonnement de fuite à l’endroit où se trouve l’opérateur et la méthode utilisée pour l’évaluer,
+	- **(ii)** des indications sur la manière d’éviter une dégradation des images due au mouvement de l’ensemble radiogène à rayonnement X pendant l’application d’une charge et les méthodes d’évaluation de la dégradation,
+	- **(iii)** la désignation d’une zone significative d’occupation, soit :
+		- **(A)** les dimensions de la zone, lesquelles doivent être d’au moins 60 cm x 60 cm et d’une hauteur d’au moins 200 cm,
+		- **(B)** un dessin de la zone qui indique l’emplacement des limites de cette zone par rapport aux caractéristiques clairement reconnaissables de l’appareil,
+		- **(C)** au moins un profil de rayonnement parasite dans la zone par rapport à la hauteur au-dessus du sol — dans les conditions de fonctionnement représentatives indiquées — qui contient le point où la dose est la plus élevée,
+		- **(D)** une description de la méthodologie d’essai utilisée pour déterminer les profils de rayonnement parasite, notamment des instructions pour obtenir les paramètres de charge utilisés pour les essais, si ceux-ci sont controllés uniquement par un système de commande automatique.
+
+
+
+**Exigences additionnelles — appareil extra-oral**
+
+**4** En plus de se conformer aux exigences de l’article 2, le fabricant, le distributeur et l’importateur veillent à ce que les renseignements supplémentaires ci-après accompagnent chaque appareil à rayonnement X dentaire extra-oral :
+- **a)** une description de la relation géométrique entre le foyer, les dimensions du faisceau de rayonnement X, la position du patient et la surface réceptrice de l’image;
+- **b)** si le kerma dans l’air est indiqué sur l’appareil, la variation maximale;
+- **c)** si le kerma dans l’air n’est pas indiqué sur l’appareil :
+	- **(i)** le kerma dans l’air à l’entrée du récepteur d’image radiologique pour toute combinaison sélectionnable de paramètres de charge,
+	- **(ii)** la variation maximale du kerma dans l’air;
+- **d)** la variation maximale du produit dose-surface;
+- **e)** des instructions sur la manière de déterminer la position et les dimensions de la surface réceptrice de l’image efficace;
+- **f)** dans le cas d’un appareil dont l’un des paramètres de charge visés aux articles 1 à 3 ou 5 figurant dans la colonne 1 du tableau du paragraphe 30(1) varie pendant une irradiation, des instructions sur la manière de mesurer la variation de ce paramètre et de la comparer à la variation maximale figurant dans la colonne 2 de ce tableau;
+- **g)** dans le cas d’un appareil indiquant un produit courant-temps précalculé ou mesuré, la valeur la plus faible du produit courant-temps ou les combinaisons de paramètres de charge qui permettent d’obtenir cette valeur.
+
+
+
+#### Étiquetage
+
+
+**Présentation**
+
+**5** Le fabriquant, le distributeur et l’importateur veillent à ce que les renseignements qui doivent figurer sur l’appareil à rayonnement X dentaire en application de la présente partie y soient inscrits d’une manière permanente, claire et lisible sur les surfaces indiquées lorsque l’appareil est entièrement assemblé et prêt à être utilisé.
+
+
+
+**Fonction des commandes**
+
+**6** Le fabricant veille à ce que toutes les fonctions des commandes, des avertisseurs lumineux et des autres indicateurs du poste de commande soient clairement identifiées.
+
+
+
+**Renseignements figurant sur l’appareil**
+
+**7** Le fabricant veille à ce que les renseignements ci-après figurent sur l’appareil à rayonnement X dentaire :
+- **a)** sur la surface externe du poste de commande :
+	- **(i)** un énoncé interdisant l’utilisation non autorisée de l’appareil,
+	- **(ii)** une mise en garde selon laquelle l’appareil émet des rayons X dangereux lorsqu’il est en marche,
+	- **(iii)** l’un des symboles de mise en garde contre les rayons X prévus à l’article 8;
+- **b)** sur l’une des surfaces externes de l’appareil :
+	- **(i)** le nom du fabricant,
+	- **(ii)** la désignation du modèle,
+	- **(iii)** le numéro de série,
+	- **(iv)** la date de fabrication,
+	- **(v)** le pays de fabrication;
+- **c)** sur la surface externe du poste de commande ou près de celle-ci, si les combinaisons de paramètres de charge sont indiquées sur le poste de commande de manière à ne donner que la combinaison ou la valeur d’un seul des paramètres de charge, la valeur de tous les paramètres de charge de chaque combinaison;
+- **d)** sur la surface externe de l’ensemble radiogène à rayonnement X, pour ce qui est du tube radiogène :
+	- **(i)** le nom du fabricant,
+	- **(ii)** la désignation du modèle,
+	- **(iii)** le numéro de série,
+	- **(iv)** le pays de fabrication;
+- **e)** sur la surface externe de l’ensemble radiogène à rayonnement X, la filtration permanente de cet ensemble, exprimée à une tension radiogène donnée, en millimètres d’équivalent en aluminium ou en épaisseur de toute autre matériau, avec le symbole chimique du matériau employé;
+- **f)** sur la surface externe de l’ensemble radiogène à rayonnement X, un indicateur de la position du foyer, le long de l’axe du faisceau de rayonnement X, sur la cible de l’anode;
+- **g)** sur la surface de tout dispositif de limitation du faisceau amovible :
+	- **(i)** le nom du fabricant,
+	- **(ii)** la désignation du modèle,
+	- **(iii)** le numéro de série,
+	- **(iv)** la filtration de qualité équivalente, si elle est supérieure à 0,2 mm d’équivalent en aluminium exprimée à une tension radiogène donnée, en millimètres d’équivalent en aluminium ou en épaisseur de tout autre matériau employé, avec le symbole chimique du matériau employé;
+	- **(v)** dans le cas d’un appareil intra-oral, la dimension du champ de sortie;
+- **h)** sur la surface externe de toute couche fixe de matériau dans la trajectoire du faisceau de rayonnement X incident sur le patient, à l’exclusion des filtres additionnels et des matériaux inamovibles dans les gaines équipées, la filtration de qualité équivalente, si elle est supérieure à 0,2 mm d’équivalent en aluminium exprimée à une tension radiogène donnée, en millimètres d’équivalent en aluminium ou en épaisseur de tout autre matériau, avec le symbole chimique du matériau employé,
+- **i)** dans le cas d’un appareil à rayonnement X dentaire intra-oral portatif, sur la surface externe de la gaine du tube radiogène, le texte suivant :« ATTENTION : L’utilisation de l’appareil en mode portatif augmente l’exposition de l’opérateur au rayonnement en raison de la proximité. Consultez les renseignements de sécurité du fabricant. »
+
+*“WARNING : Hand-held operation increases operator radiation exposure due to proximity. See manufacturer safety information.”*
+
+
+
+
+
+**Symbole de mise en garde**
+
+**8** Le symbole de mise en garde contre les rayonnements X présente les caractéristiques suivantes :
+- **a)** il est de deux couleurs contrastantes;
+- **b)** il est visible et reconnaissable à une distance de 1 m;
+- **c)** il a une hauteur minimale de 2 cm et une largeur minimale de 2 cm;
+- **d)** il porte la mention « ATTENTION : RAYONS X — *CAUTION : X-RAYS* »;
+- **e)** il est conforme :
+	- **(i)** soit au symbole suivant :
+> Image: Symbole de mise en garde constitué d’un triangle inversé contenant un tube avec, au centre, un cercle duquel sortent trois lignes pointillées.
+
+	- **(ii)** soit au symbole ISO 361 ci-après figurant dans le rapport de la Commission électrotechnique internationale intitulé Symboles graphiques des équipements électriques en pratique médicale, publication CEI/TR 60878, troisième édition, 2015 :
+> Image: Symbole de mise en garde constitué de trois pales noires autour d’un cercle noir.
+
+	- **(iii)** soit au symbole ISO 7010 - W003 ci-après figurant dans le rapport de la Commission électrotechnique internationale intitulé Symboles graphiques des équipements électriques en pratique médicale, publication CEI/TR 60878, troisième édition, 2015 :
+> Image: Symbole de mise en garde constitué d’un triangle jaune délimité par une bordure noire et contenant trois pales noires autour d’un cercle noir.
+
+
+
+
+### Normes de construction et de fonctionnement
+
+
+**Poste de commande**
+
+**9** Le poste de commande de tout appareil à rayonnement X dentaire comporte les éléments suivants :
+- **a)** un indicateur visuel qui avertit l’opérateur qu’une nouvelle manoeuvre de commande déclenchera l’émission de rayonnements X;
+- **b)** un indicateur visuel qui avertit l’opérateur de l’émission de rayonnements X et qui est clairement visible durant celle-ci;
+- **c)** si l’équipement peut émettre un rayonnement X lorsqu’il n’est pas en mode de commande automatique d’exposition, des commandes et des indicateurs visuels qui permettent à l’opérateur de sélectionner les paramètres de charge ou le mode de fonctionnement avant le déclenchement de l’irradiation;
+- **d)** si plusieurs ensembles radiogènes à rayonnement X sont contrôlés à partir d’un seul poste de commande, un indicateur visuel qui montre, avant le déclenchement de l’irradiation, l’ensemble radiogène à rayonnement X qui est connecté et prêt à émettre un rayonnement X;
+- **e)** si l’appareil permet la sélection de filtres additionnels par l’intermédiaire d’une télécommande ou d’un système automatique, un indicateur visuel qui montre le filtre additionnel sélectionné;
+- **f)** si l’appareil fonctionne à pile, un indicateur visuel indiquant si la pile est suffisamment chargée pour assurer le bon fonctionnement de l’appareil;
+- **g)** dans le cas d’un appareil extra-oral, un indicateur affichant le produit dose-surface;
+- **h)** dans le cas d’un appareil extra-oral, un indicateur affichant le kerma dans l’air à l’entrée du récepteur d’image radiologique, sauf si le kerma dans l’air est mentionné dans les renseignements exigés à l’article 4.
+
+
+
+**Fonctionnement de la commande d’irradiation**
+
+**10** 
+
+- **(1)** Toute commande d’irradiation d’un appareil à rayonnement X dentaire doit permettre :
+	- **a)** le déclenchement et l’arrêt d’une irradiation;
+	- **b)** l’émission de rayonnements X seulement si l’opérateur exerce une pression continue sur celle-ci;
+	- **c)** le déclenchement d’une irradiation seulement si l’opérateur relâche la commande ayant déclenché l’irradiation précédente;
+	- **d)** à l’opérateur de se tenir à une distance d’au moins 2 m de l’ensemble radiogène à rayonnement X lorsque le tube radiogène est sous tension, sauf dans le cas d’un appareil intra-oral portatif.
+
+**Appareil intra-oral portatif**
+
+- **(2)** L’appareil intra-oral portatif est en outre muni d’une commande d’irradiation additionnelle, fixée à l’appareil ou à distance, permettant à l’opérateur de se tenir à une distance d’au moins 2 m de l’ensemble radiogène à rayonnement X lorsque l’appareil est soutenu sur un pied.
+
+
+
+**Zone protégée**
+
+**11** L’appareil à rayonnement X dentaire est muni d’un dispositif qui permet à l’opérateur de déclencher une irradiation à partir d’une zone protégée par une barrière structurale ou par la distance, sauf dans le cas d’un appareil transportable.
+
+
+
+**Signal sonore**
+
+**12** L’appareil à rayonnement X dentaire émet un signal sonore clairement audible à l’opérateur afin de lui indiquer la fin de l’irradiation.
+
+
+
+**Fluctuations de la tension de secteur**
+
+**13** L’ appareil à rayonnement X dentaire est pourvu d’un moyen permettant de compenser, selon le type de redressement qui lui est applicable, les variations de tension radiogène causées par les fluctuations de la tension de secteur.
+
+
+
+**Tube radiogène**
+
+**14** Le tube radiogène d’un appareil à rayonnement X dentaire est fixé solidement à la gaine et est bien aligné à l’intérieur de celle-ci.
+
+
+
+**Ensemble radiogène à rayonnement X**
+
+**15** L’ensemble radiogène à rayonnement X d’un appareil à rayonnement X dentaire maintient sa position ou sa trajectoire requises sans dévier ni vibrer pendant son fonctionnement.
+
+
+
+**Plusieurs ensembles radiogènes à rayonnement X**
+
+**16** Si plusieurs ensembles radiogènes d’un appareil à rayonnement X dentaire sont contrôlés à partir d’un seul poste de commande, l’appareil comporte un indicateur visuel sur chaque gaine, ou à proximité de celle-ci, indiquant l’ensemble radiogène qui est sélectionné.
+
+
+
+**Filtres**
+
+**17** 
+
+- **(1)** L’appareil à rayonnement X dentaire comporte des filtres d’absorption des rayonnements qui sont conformes aux exigences suivantes :
+	- **a)** ils sont fixés solidement à l’orifice de sortie de la gaine ou au dispositif de limitation du faisceau, ou aux deux;
+	- **b)** ils fournissent le degré d’atténuation du faisceau de rayonnement X suivant :
+		- **(i)** pour toute valeur de crête de tension radiogène figurant à la colonne 1 du tableau du présent paragraphe, une valeur de la première couche de demi-transmission d’aluminium qui est au moins égale à la valeur figurant dans la colonne 2,
+		- **(ii)** dans les autres cas, une valeur de la première couche de demi-transmission d’aluminium qui est au moins égale à la valeur obtenue par interpolation ou extrapolation linéaire à partir du tableau.
+#### TABLEAU
 <table>
 <tr>
-<th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
-<th>Haute tension radiogène (valeur de crête en kilovolts)</th>
-<th>1<sup>re</sup> couche de demi-transmission d’aluminium (mm)</th>
+<th>Article</th>
+<th>Tension radiogène — valeur de crête (kV)</th>
+<th>Première couche de demi-transmission d’aluminium (mm)</th>
 </tr>
 <tr>
 <td>1</td>
-<td>50</td>
-<td>1,5</td>
+<td>60</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>2</td>
-<td>60</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>3</td>
 <td>70</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>4</td>
-<td>71</td>
-<td>2,1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>80</td>
-<td>2,3</td>
-</tr>
-<tr>
-<td>6</td>
-<td>90</td>
 <td>2,5</td>
 </tr>
 <tr>
-<td>7</td>
+<td>3</td>
+<td>80</td>
+<td>2,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>90</td>
+<td>3,2</td>
+</tr>
+<tr>
+<td>5</td>
 <td>100</td>
-<td>2,7</td>
+<td>3,6</td>
+</tr>
+<tr>
+<td>6</td>
+<td>110</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>7</td>
+<td>120</td>
+<td>4,3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>130</td>
+<td>4,7</td>
+</tr>
+<tr>
+<td>9</td>
+<td>140</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>150</td>
+<td>5,4</td>
 </tr>
 </table>
 
-	- **h)** sur la surface externe de la gaine ou sur toute structure appropriée fixée solidement et en permanence à la gaine, un ou plusieurs traits bien visibles indiquant, à 4 mm près, la position, le long de l’axe du faisceau de rayonnement X, du foyer sur la cible;
-	- **i)** dans le cas d’un appareil muni d’une commande automatique d’exposition, un verrouillage qui, lorsqu’une irradiation à réglage automatique de la durée a pris fin parce que les limites spécifiées au sous-alinéa 4(1)e)(ii) ont été atteintes, empêche le déclenchement d’une autre irradiation tant que l’opérateur n’a pas réalisé manuellement un retour au réglage original.
 
-- **(2)** Lorsque plusieurs tubes radiogènes sont commandés par un seul poste de commande, l’appareil de radiographie dentaire à rayonnement X de source extra-orale doit être conçu de façon à comprendre, en plus des dispositifs de sécurité visés au paragraphe (1) :
-	- **a)** un verrouillage qui empêche la mise sous tension de plus d’un tube radiogène à la fois;
-	- **b)** sur chaque gaine ou à proximité de celle-ci, bien à la vue de l’opérateur, un indicateur visuel signalant que le tube radiogène est branché et prêt à être mis sous tension;
-	- **c)** sur le poste de commande, un indicateur visuel bien à la vue de l’opérateur, qui signale quels tubes radiogènes sont branchés et prêts à être mis sous tension.
+**Filtration totale : appareil intra-oral**
+
+- **(2)** Malgré l’alinéa (1)b), dans le cas d’un appareil à rayonnement X dentaire intra-oral qui fonctionne à une tension nominale maximale ne dépassant pas 70 kV, l’appareil peut comporter une filtration totale d’au moins 1,5 mm d’équivalent en aluminium.
 
 
 
-### Normes de construction
+**Commande automatique d’exposition**
 
-**3** Tout appareil de radiographie dentaire à rayonnement X de source extra-orale doit être construit de matériaux et d’une façon tels que :
-- **a)** le tube radiogène soit bien fixé et correctement aligné à l’intérieur de sa gaine;
-- **b)** l’ensemble radiogène à rayonnement X maintienne sa position ou suive le mouvement prévu sans basculer ni présenter de déplacement excessif ou de vibration pendant l’irradiation;
-- **c)** dans des conditions normales d’utilisation, l’appareil fonctionne conformément aux normes de fonctionnement énoncées au paragraphe 4(1) tant qu’il comporte ses pièces d’origine ou les pièces de rechange recommandées par le constructeur;
-- **d)** l’exposition produite par le rayonnement ionisant ou le kerma émis par l’ensemble radiogène à rayonnement X lorsque le circuit de commande de l’irradiation n’est pas encore activé, ou par tout autre élément en tout temps, ne dépasse pas en moyenne, pour une surface de détection de 10 cm<sup>2</sup>, à une distance de 5 cm de toute surface accessible de l’appareil, 645 nanocoulombs par kilogramme (2,5 milliröntgens) ou 22 micrograys, au cours de toute période d’une heure.
+**18** L’appareil à rayonnement X dentaire qui est muni d’une commande automatique d’exposition comporte les caractéristiques suivantes :
+- **a)** un dispositif permettant d’arrêter automatiquement l’irradiation dans les cas suivants :
+	- **(i)** s’agisant d’un appareil extra-oral :
+		- **(A)** soit lorsque le produit de la tension radiogène, du courant du tube radiogène et du temps d’irradiation dépasse 64 kJ par irradiation,
+		- **(B)** soit lorsque le produit courant-temps dépasse 640 mAs par irradiation,
+	- **(ii)** s’agissant d’un appareil intra-oral :
+		- **(A)** soit lorsque le produit de la tension radiogène, du courant du tube radiogène et du temps d’irradiation dépasse 3,2 kJ par irradiation,
+		- **(B)** soit lorsque le produit courant-temps dépasse 32 mAs par irradiation;
+- **b)** un indicateur visuel ou un signal sonore qui avertit l’opérateur de la fin de l’irradiation parce que l’une des limites prévues à l’alinéa a) est atteinte;
+- **c)** une commande de remise à zéro qui doit être réglée manuellement après l’atteinte de l’une des limites prévues à l’alinéa a) et avant le déclenchement de toute autre irradiation par la commande automatique d’exposition.
 
 
 
-### Normes de fonctionnement
+**Distance minimale foyer-peau**
 
-**4** 
+**19** La distance foyer-peau doit être d’au moins :
+- **a)** 15 cm s’il s’agit d’un appareil extra-oral;
+- **b)** 20 cm s’il s’agit d’un appareil intra-oral.
 
-- **(1)** Tout appareil de radiographie dentaire à rayonnement X de source extra-orale, une fois qu’il a été monté pour utilisation et mis à l’essai dans les conditions prévues au paragraphe (2), doit fonctionner de façon que :
-	- **a)** la haute tension radiogène préréglée ne puisse être inférieure à 50 kilovolts (valeur de crête);
-	- **b)** lorsqu’une série de 10 mesures de rayonnement consécutives est effectuée à la même distance de la cible dans le faisceau de rayonnement X au cours d’une période d’une heure et que toutes les commandes variables pour les paramètres de charge sont réglées à d’autres valeurs et ramenées à la valeur d’essai avant chaque mesure, le coefficient de variation des mesures ne dépasse pas 0,05;
-	- **c)** la haute tension radiogène de fonctionnement réelle :
-		- **(i)** ne soit pas inférieure à 50 kilovolts (valeur de crête),
-		- **(ii)** n’ait pas, par rapport à la valeur indiquée, un écart supérieur à la valeur maximale spécifiée par le constructeur en application de l’alinéa 5(2)b);
-	- **d)** dans le cas où la conception de l’appareil permet la chute de la haute tension radiogène en deçà de 50 kilovolts (valeur de crête) pendant l’irradiation, un avertisseur donne un signal visuel ou sonore nettement perceptible lorsqu’existent des conditions qui font descendre la haute tension radiogène en deçà de 50 kilovolts (valeur de crête);
-	- **e)** la minuterie visée à l’alinéa 2(1)d) :
-		- **(i)** à tout réglage, respecte les limites de précision spécifiées par le constructeur en application du sous-alinéa 5(2)b)(ii),
-		- **(ii)** dans le cas d’un appareil conçu pour les examens dentaires ordinaires :
-			- **(A)** soit telle que la valeur minimale à laquelle elle peut être réglée est égale ou inférieure au plus élevé des temps minimaux d’irradiation indiqués aux colonnes II à IV du tableau de la présente division, selon la haute tension radiogène minimale mentionnée à la colonne I,
+
+
+**Variation maximale — distance foyer-récepteur**
+
+**20** Si la distance foyer-récepteur d’image radiologique de l’appareil à rayonnement X dentaire extra-oral est réglable, l’appareil comporte un indicateur visuel de la distance sélectionnée dont la variation maximale est de 5 %.
+
+
+
+**Dispositif de limitation du faisceau : appareil extra-oral**
+
+**21** 
+
+- **(1)** L’appareil à rayonnement X dentaire extra-oral comporte un dispositif de limitation du faisceau qui est conforme aux exigences suivantes :
+	- **a)** lorsque le dispositif est utilisé pour la reconstruction dentaire volumétrique avec une surface réceptrice de l’image circulaire, il fonctionne de manière à ce que :
+		- **(i)** le champ de rayonnement X, mesuré le long de tout diamètre, de manière à ce que celui-ci ne dépasse pas de plus de 2 cm les limites de la surface réceptrice de l’image efficace,
+		- **(ii)** au moins 90 % de la surface du champ de rayonnement X chevauche la surface réceptrice de l’image efficace;
+	- **b)** lorsqu’il est utilisé pour la reconstruction dentaire volumétrique avec une surface réceptrice de l’image rectangulaire, le dispositif fonctionne de manière à ce que :
+		- **(i)** le long de chacun des deux axes de la surface réceptrice de l’image, les bords du champ de rayonnement X ne dépassent pas les bords correspondants de la surface réceptrice de l’image efficace de plus de 2 cm ou de plus de 3 % de la distance foyer-récepteur d’image indiquée, selon la valeur la plus élevée, lorsque le plan du récepteur d’image est perpendiculaire à l’axe du faisceau de rayonnement X,
+		- **(ii)** la somme des écarts sur les deux axes ne dépasse 3 cm ou 4 % la distance foyer-récepteur d’image indiquée, selon la valeur la plus élevée;
+	- **c)** lorsqu’il est utilisé en radiographie de projection, il fonctionne de manière à ce que le champ de rayonnement X ne dépasse pas les limites de la surface réceptrice de l’image efficace;
+	- **d)** lorsqu’il est utilisé en radiographie à balayage par faisceau étroit, il fonctionne de manière à ce que :
+		- **(i)** le champ de rayonnement X ne dépasse pas les limites de la surface réceptrice de l’image efficace de plus de 1 mm de chaque côté le long de l’axe de la surface réceptrice de l’image qui est parallèle à la direction du balayage,
+		- **(ii)** le champ de rayonnement X ne dépasse pas les limites de la surface réceptrice de l’image efficace le long de l’axe de la surface réceptrice de l’image qui est perpendiculaire à la direction du balayage.
+
+**Dispositif de limitation du faisceau : appareil intra-oral**
+
+- **(2)** L’appareil à rayonnement X dentaire intra-oral comporte un dispositif de limitation du faisceau qui est conforme aux exigences suivantes :
+	- **a)** il limite le champ de rayonnement X de manière à ce que le diamètre du cercle créé par le faisceau ne dépasse pas 6 cm mesuré au point où le faisceau sort de l’appareil;
+	- **b)** s’il est pourvu d’un moyen optionnel permettant de limiter le champ de sortie en une forme rectangulaire, il fonctionne de manière à ce que le rectangle se situe à l’intérieur du cercle créé par le faisceau;
+	- **c)** s’il a un champ de sortie de forme rectangulaire, il fonctionne de manière à ce que le champ de sortie tourne par rapport à l’axe du faisceau de rayonnement X;
+	- **d)** dans le cas d’un appareil qui est muni d’un récepteur numérique d’image radiologique direct intégré, il est pourvu d’un moyen permettant de limiter le champ de rayonnement X en une forme rectangulaire ne dépassant pas la surface réceptrice de l’image efficace de plus de 1 cm dans la diagonale.
+
+
+
+**Incréments des réglages**
+
+**22** Lorsque le temps d’irradiation est égale ou supérieure à 0,08 s, les incréments des réglages ne dépassent pas les multiples et sous-multiples décimaux 1,00, 1,25, 1,60, 2,00, 2,50, 3,20, 4,00, 5,00, 6,30, ou 8,00 pour la plage des réglages du courant du tube radiogène, du temps d’irradiation ou du produit courant-temps d’un appareil à rayonnement X dentaire.
+
+
+
+**Modes de fonctionnement**
+
+**23** L’appareil à rayonnement X dentaire qui comporte divers modes de fonctionnement est fabriqué selon les exigences suivantes :
+- **a)** dans le cas d’un appareil extra-oral qui n’est pas muni d’un récepteur numérique d’image radiologique direct intégré, la dimension du pas de l’ajustement entre réglages voisins du produit courant-temps n’est pas supérieure à 1,6 mAs;
+- **b)** dans le cas d’un appareil intra-oral :
+	- **(i)** la dimension du pas de l’ajustement entre réglages voisins du produit courant-temps n’est pas supérieure à 1,6 mAs,
+	- **(ii)** le ratio des réglages entre les produits courant-temps maximal et minimal est d’au moins 4 : 1.
+
+
+
+**Produit courant-temps**
+
+**24** Pour chaque tension radiogène sélectionnable d’un appareil à rayonnement X dentaire intra-oral, le ratio entre les réglages des produits courant-temps maximal et minimal est d’au moins 16 : 1.
+
+
+
+**Barrière de protection primaire**
+
+**25** L’appareil à rayonnement X dentaire extra-oral comporte une barrière de protection primaire qui chevauche complètement le champ de rayonnement X et comporte les atténuations minimales suivantes :
+- **a)** 0,5 mm d’équivalent en plomb lorsque la tension radiogène nominale est de 90 kV ou moins;
+- **b)** 2 mm d’équivalent en plomb lorsque la tension radiogène nominale est de plus de 90 kV.
+
+
+
+**Équivalent d’atténuation**
+
+**26** Les éléments d’un appareil à rayonnement X dentaire extra-oral qui sont situés dans la trajectoire du faisceau de rayonnement X entre le patient et le récepteur d’image radiologique comportent, lorsqu’ils sont pris ensemble, une atténuation d’au plus 1,2 mm d’équivalent en aluminium, mesurée à la tension radiogène la plus élevée de l’appareil.
+
+
+
+**Appareil intra-oral portatif**
+
+**27** L’appareil à rayonnement X dentaire intra-oral portatif comporte les éléments suivants :
+- **a)** un écran de rétrodiffusion qui est fixé en permanence à l’appareil et qui comporte une atténuation d’au moins 0,25 mm en équivalent en plomb mesurée à une tension radiogène nominale de 70 kV;
+- **b)** un mécanisme pour empêcher son fonctionnement sans autorisation;
+- **c)** un mécanisme de soutien le maintenant en position de sorte que l’opérateur n’ait pas à le tenir pendant son fonctionnement.
+
+
+
+**Tension radiogène**
+
+**28** La tension radiogène nominale minimale d’un appareil à rayonnement X dentaire doit être d’au moins 60 kV.
+
+
+
+**Exigences de fonctionnement**
+
+**29** L’appareil à rayonnement X dentaire doit fonctionner conformément aux articles 30 à 35 dans les conditions suivantes :
+- **a)** la tension de secteur sans charge ne doit pas varier de plus de 1 % de sa valeur nominale;
+- **b)** la tension de secteur est stabilisée de façon à ce qu’elle ne subisse pas de variation de plus de 6 % lorsque la ligne d’alimentation est chargée au courant de secteur nominal maximal stipulé de l’appareil.
+
+
+
+**Paramètres de charge**
+
+**30** 
+
+- **(1)** Sous réserve du paragraphe (2), pour toute combinaison de paramètres de charge, la valeur mesurée d’un paramètre de charge figurant dans la colonne 1 du tableau du présent paragraphe ne doit pas varier de la valeur indiquée par plus de la quantité figurant dans la colonne 2 :
+#### TABLEAU
 <table>
 <tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
 <th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-</tr>
-<tr>
-<th>Haute tension radiogène minimale (valeur de crête en kilovolts)</th>
-<th>Temps minimal d’irradiation</th>
-</tr>
-<tr>
-<th>(en secondes)</th>
-<th>(en cycles)</th>
-<th>(en milli-ampères-secondes)</th>
+<th>Paramètre de charge</th>
+<th>Variation maximale</th>
 </tr>
 <tr>
 <td>1</td>
-<td>jusqu’à 70</td>
-<td>1/20</td>
-<td>3</td>
-<td>0,75</td>
+<td>Tension radiogène</td>
+<td>10 %</td>
 </tr>
 <tr>
 <td>2</td>
-<td>de 71 à 80</td>
-<td>1/30</td>
-<td>2</td>
-<td>0,5</td>
+<td>Courant du tube radiogène</td>
+<td>20 %</td>
 </tr>
 <tr>
 <td>3</td>
-<td>81 ou plus</td>
-<td>1/60</td>
-<td>1</td>
-<td>0,25</td>
+<td>Temps d’irradiation pour les appareils à rayonnement X dentaires extra-oraux</td>
+<td>5 % + 50 ms</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Temps d’irradiation pour les appareils à rayonnement X dentaires intra-oraux</td>
+<td>5 % ou 20 ms, selon la valeur la plus élevée</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Produit courant-temps pour les appareils à rayonnement X dentaires extra-oraux</td>
+<td>10 % + 0,2 mAs</td>
 </tr>
 </table>
 
-			- **(B)** si elle comporte une échelle de temps d’irradiation ou de valeurs en milliampères-secondes, soit telle que le rapport entre deux réglages successifs ne dépasse pas 1,25:1, sauf pour les temps d’au plus 1/20 seconde, 3 cycles ou les valeurs de réglage équivalentes en milliampères-secondes,
-			- **(C)** limite le temps d’irradiation maximal à une valeur ne dépassant pas 5 secondes ou le temps requis pour fournir 50 milliampères-secondes, selon le temps le plus bref,
-		- **(iii)** dans le cas d’un appareil conçu pour utilisation en mode céphalométrique mais non pour les examens dentaires ordinaires, soit telle que la valeur minimale à laquelle elle peut être réglée est égale ou inférieure à la plus élevée des valeurs suivantes :
-			- **(A)** 1/10 seconde,
-			- **(B)** 6 cycles,
-			- **(C)** l’intervalle de temps requis pour fournir 3 milliampères-secondes,
-		- **(iv)** dans le cas d’un appareil conçu pour les examens panoramiques, ait un temps d’irradiation maximal ne dépassant pas 25 secondes ou le temps requis pour fournir 250 milliampères-secondes, selon le temps le plus bref;
-	- **f)** pour toute haute tension radiogène sélectionnée dans la plage des valeurs de haute tension radiogène de fonctionnement spécifiées pour l’appareil et pour tout temps d’irradiation égal ou supérieur au plus élevé des temps minimaux d’irradiation indiqués aux colonnes II à IV du tableau de la division 4(1)e)(ii)(A), selon la haute tension radiogène minimale mentionnée à la colonne I de ce tableau, la relation suivante s’applique :
+
+**Exception : appareil intra-oral**
+
+- **(2)** Dans le cas d’un appareil à rayonnement X dentaire intra-oral muni d’un générateur de haute tension à une crête, la variation maximale figurant dans la colonne 2 du tableau du paragraphe (1) en regard de l’article 4 ne s’applique pas lorsque le temps d’irradiation est inférieur à 0,1 s.
+
+
+
+**Coefficient de variation : kerma dans l’air**
+
+**31** 
+
+- **(1)** Pour toute combinaison de paramètres de charge d’un appareil à rayonnement X dentaire, le coefficient de variation d’une série de cinq mesures consécutives du kerma dans l’air effectuées au même point sur l’axe du faisceau de rayonnement X au cours d’une période d’une heure ne doit pas dépasser 0,05.
+
+**Appareil à alimentation interne**
+
+- **(2)** Si l’appareil est pourvu d’une alimentation interne, il satisfait à l’exigence prévue au paragraphe (1) sur toute la plage des niveaux de charge utilisables de l’alimentation interne.
+
+
+
+**Kerma dans l’air : variation maximale**
+
+**32** La variation maximale du kerma dans l’air d’un appareil à rayonnement X dentaire ne doit pas dépasser 50 %.
+
+
+
+**Produit dose-surface : variation maximale**
+
+**33** La variation maximale du produit dose-surface d’un appareil à rayonnement X dentaire extra-oral ne doit pas dépasser 50 %.
+
+
+
+**Linéarité du kerma dans l’air**
+
+**34** 
+
+- **(1)** Sous réserve du paragraphe (2), pour toute valeur de tension radiogène sélectionnée et sur toute la plage des réglages du produit courant-temps, pour chaque deux valeurs de réglage du produit courant-temps qui ne diffèrent pas de plus d’un facteur de deux, les quotients de la valeur moyenne du kerma dans l’air divisé par le produit courant-temps indiqué ne doivent pas différer de plus de 0,10 fois la somme de ces quotients, calculés au moyen de la formule ci-après où X représente le quotient de la valeur moyenne du kerma dans l’air divisé par le produit courant-temps indiqué, calculé à chacun des deux réglages du produit courant-temps :
 ```
-X<sub>1</sub> - X<sub>2</sub> < 0,1 (X<sub>1</sub> + X<sub>2</sub>)
+|X<sub>1</sub> – X<sub>2</sub>| ≤ 0,1(X<sub>1</sub> + X<sub>2</sub>)
 ```
-où 
-- **X** <sub>1</sub>** et X** <sub>2</sub>sont les valeurs moyennes d’exposition (kerma) par seconde, par impulsion ou par milliampère-seconde obtenues :
-	- **(i)** lorsque le courant dans le tube radiogène est fixe, à chaque deux valeurs de réglage de la minuterie qui ne diffèrent pas de plus d’un facteur de deux,
-	- **(ii)** lorsque le temps d’irradiation est fixe, à chaque deux valeurs de réglage du courant dans le tube radiogène qui ne diffèrent pas de plus d’un facteur de deux;
-	- **g)** aucun rayonnement de fuite en provenance de la gaine, mesuré à une distance de 1 m de la cible, ne dépasse en moyenne au cours d’une période d’une heure, pour toute surface de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire de plus de 20 cm, 25,8 microcoulombs par kilogramme (100 milliröntgens) ou 0,87 milligray pour toute combinaison des paramètres de charge à l’intérieur des limites d’utilisation de l’appareil.
 
-- **(2)** La mise à l’essai d’un appareil de radiographie dentaire à rayonnement X de source extra-orale, effectuée pour vérifier sa conformité aux normes de fonctionnement énoncées au paragraphe (1), doit se faire dans les conditions suivantes :
-	- **a)** la tension de secteur sans charge demeure à au plus ± 1 % de sa valeur nominale;
-	- **b)** la tension de secteur est stabilisée de façon qu’elle ne subisse pas de variation de plus de 6 % lorsque la ligne d’alimentation est chargée à l’intensité nominale maximale de l’appareil.
+
+**Exception : appareil intra-oral**
+
+- **(2)** Dans le cas d’un appareil à rayonnement X dentaire intra-oral muni d’un générateur de haute tension à une crête, le temps d’irradiation le plus court de la plage des réglages courant-temps est de 80 ms.
 
 
 
-### Étiquetage et renseignements
+**Rayonnement de fuite — état de charge**
 
-**5** 
+**35** 
 
-- **(1)** Tout appareil de radiographie dentaire à rayonnement X de source extra-orale doit porter :
-	- **a)** un symbole de mise en garde contre les rayonnements X qui :
-		- **(i)** est bien apposé sur le poste de commande de l’appareil,
-		- **(ii)** est de deux couleurs contrastantes,
-		- **(iii)** est bien visible et facilement perceptible à une distance de 1 m,
-		- **(iv)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
-		- **(v)** porte la mention « ATTENTION : RAYONS X — *CAUTION : X-RAYS* »,
-		- **(vi)** est conforme au modèle suivant :
-> Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “CAUTION: X-RAYS — ATTENTION : RAYONS X”
+- **(1)** Lorsque l’appareil à rayonnement X dentaire fonctionne à la tension nominale dans des conditions d’application d’une charge correspondant à l’énergie maximale spécifiée en une heure, le rayonnement de fuite de l’ensemble radiogène à rayonnement X ne doit pas dépasser les débits de kerma dans l’air suivants :
+	- **a)** pour les appareils extra-oraux, 1,0 mGy/h;
+	- **b)** pour les appareils intra-oraux :
+		- **(i)** dans le cas d’un appareil portatif, 1,25 µGy/h,
+		- **(ii)** dans le cas de tout autre appareil intra-oral, 0,25 mGy/h.
 
-	- **b)** une mise en garde qui :
-		- **(i)** est nettement lisible et bien à la vue de l’opérateur,
-		- **(ii)** indique la possibilité d’émission de rayonnements dangereux lorsque l’appareil est en marche,
-		- **(iii)** précise que toute utilisation non autorisée est interdite;
-	- **c)** sur la surface externe du poste de commande de l’appareil, une marque ou étiquette permanente aisément perceptible et bien visible qui indique, quant à l’appareil :
-		- **(i)** le nom du constructeur,
-		- **(ii)** la désignation du modèle,
-		- **(iii)** le numéro de série,
-		- **(iv)** la date de construction,
-		- **(v)** le pays de construction;
-	- **d)** sur la surface externe de la gaine équipée, une marque ou étiquette permanente aisément perceptible et bien visible qui indique, quant à la gaine équipée :
-		- **(i)** le nom du constructeur,
-		- **(ii)** la désignation du modèle,
-		- **(iii)** le numéro de série,
-		- **(iv)** la date d’installation du tube radiogène dans la gaine,
-		- **(v)** le pays de construction.
+**Surface de détection**
 
-- **(2)** L’appareil de radiographie dentaire à rayonnement X de source extra-orale doit être accompagné des documents et renseignements suivants, fournis par le constructeur :
-	- **a)** les instructions d’utilisation qui donnent les renseignements nécessaires pour l’utilisation et le fonctionnement corrects et sûrs de l’appareil;
-	- **b)** les renseignements suivants sur le fonctionnement de l’appareil :
-		- **(i)** l’écart maximal permis par rapport au courant dans le tube radiogène et à la haute tension radiogène spécifiés,
-		- **(ii)** le degré de précision de la minuterie,
-		- **(iii)** les conditions spécifiques sur lesquelles sont basés les renseignements visés aux sous-alinéas (i) et (ii).
+- **(2)** Pour l’application du paragraphe (1), la moyenne des débits du kerma dans l’air est établie à une distance de 1 m du foyer sur une surface de détection de 100 cm<sup>2</sup> dont aucune dimension linéaire ne dépasse 20 cm.
+
+**Rayonnement de fuite : appareil extra-oral hors charge**
+
+- **(3)** Lorsqu’un appareil à rayonnement X dentaire extra-oral est hors charge, le débit de kerma dans l’air du rayonnement de fuite de l’ensemble radiogène à rayonnement X ne doit pas dépasser 20 µGy/h.
+
+**Surface de détection**
+
+- **(4)** Pour l’application du paragraphe (3), la moyenne du débit du kerma dans l’air est établie à une distance de 5 cm de toute surface accessible de l’équipement sur une surface de détection de 10 cm<sup>2</sup> dont aucune dimension linéaire ne dépasse 5 cm.
 
 
 
@@ -2630,6 +2967,6 @@ la moyenne étant établie sur une surface de détection de 10 centimètres carr
 **PARTIE XVI** 
 ## [Abrogée, DORS/88-471, art. 4]
 
-> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1 à 6(F), 7, 8(F), 9(F) et 10; DORS/2014-25, art. 1 à 3; DORS/2018-69, art. 86.
+> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1 à 6(F), 7, 8(F), 9(F) et 10; DORS/2014-25, art. 1 à 3; DORS/2017-228, art. 3; DORS/2018-69, art. 86.
 
 
