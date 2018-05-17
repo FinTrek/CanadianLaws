@@ -28460,64 +28460,69 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(1)** The definitions in this subsection apply in this Division and in Divisions 2 to 4.
 
-***active ingredient*** means a drug that, when used as a raw material in the fabrication of a drug in dosage form, provides its intended effect. (*ingrédient actif*)
+***active ingredient*** means a drug that, when used as a raw material in the fabrication of a drug in dosage form, provides its intended effect. (*ingrédient actif*)
 
-***active pharmaceutical ingredient*** means an active ingredient that is used in the fabrication of a pharmaceutical. (*ingrédient actif pharmaceutique*)
+***active pharmaceutical ingredient*** means an active ingredient that is used in the fabrication of a pharmaceutical. (*ingrédient actif pharmaceutique*)
 
-***antimicrobial agent*** means a drug that is capable of destroying pathogenic micro-organisms and that is labelled as being for use in the disinfection of environmental surfaces or medical devices, as defined in the [Medical Devices Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/282.md), that
+***antimicrobial agent*** means a drug that is capable of destroying pathogenic micro-organisms and that is labelled as being for use in the disinfection of environmental surfaces or medical devices, as defined in the [Medical Devices Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/282.md), that
 - **(a)** are not invasive devices as defined in those Regulations; and
-- **(b)** are intended to come into contact with intact skin only. (*agent antimicrobien*)
+- **(b)** are intended to come into contact with intact skin only. (*agent antimicrobien*)
 
-***batch certificate*** means a certificate issued by the fabricator of a lot or batch of a drug that is exported within the framework of a mutual recognition agreement and in which the fabricator
+***batch certificate*** means a certificate issued by the fabricator of a lot or batch of a drug that is exported within the framework of a mutual recognition agreement and in which the fabricator
 - **(a)** identifies the master production document for the drug and certifies that the lot or batch has been fabricated, packaged/labelled and tested in accordance with the procedures described in that document;
 - **(b)** provides a detailed description of the drug, including
 	- **(i)** a statement of all properties and qualities of the drug, including the identity, potency and purity of the drug, and
 	- **(ii)** a statement of tolerances for the properties and qualities of the drug;
 - **(c)** identifies the analytical methods used in testing the lot or batch and provides details of the analytical results obtained;
 - **(d)** sets out the addresses of the buildings at which the lot or batch was fabricated, packaged/labelled and tested; and
-- **(e)** certifies that the lot or batch was fabricated, packaged/labelled and tested in accordance with the good manufacturing practices of the regulatory authority that has recognized those buildings as meeting its good manufacturing practices standards. (*certificat de lot*)
+- **(e)** certifies that the lot or batch was fabricated, packaged/labelled and tested in accordance with the good manufacturing practices of the regulatory authority that has recognized those buildings as meeting its good manufacturing practices standards. (*certificat de lot*)
 
-***bulk process intermediate*** means an active ingredient that is used in the fabrication of either a drug of biological origin that is listed in Schedule C to the Act or a drug that is listed in Schedule D to the Act. (*produit intermédiaire en vrac*)
+***bulk process intermediate*** means an active ingredient that is used in the fabrication of either a drug of biological origin that is listed in Schedule C to the Act or a drug that is listed in Schedule D to the Act. (*produit intermédiaire en vrac*)
 
-***class monograph*** means a document prepared by the Department of Health that
+***class monograph*** means a document prepared by the Department of Health that
 - **(a)** lists the types and strengths of medicinal ingredients that may be contained in drugs of a specified class; and
-- **(b)** sets out labelling and other requirements that apply to those drugs. (*monographie de classe*)
+- **(b)** sets out labelling and other requirements that apply to those drugs. (*monographie de classe*)
 
-***dilute drug premix*** means a drug for veterinary use that results from mixing a drug premix with a feed as defined in section 2 of the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), to such a level that at least 10 kg of the resulting mixture is required to medicate one tonne of complete feed, as defined in section 2 of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), with the lowest approved dosage level of the drug. (*prémélange médicamenteux dilué*)
+***dilute drug premix*** means a drug for veterinary use that results from mixing a drug premix with a feed as defined in section 2 of the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), to such a level that at least 10 kg of the resulting mixture is required to medicate one tonne of complete feed, as defined in section 2 of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), with the lowest approved dosage level of the drug. (*prémélange médicamenteux dilué*)
 
-***dosage form class*** means a parenteral, tablet, capsule, solution, suspension, aerosol, powder, suppository, medical gas or drug premix, or any other dosage form class designated by the Minister. (*classe de forme posologique*)
+***dosage form class*** means a parenteral, tablet, capsule, solution, suspension, aerosol, powder, suppository, medical gas or drug premix, or any other dosage form class designated by the Minister. (*classe de forme posologique*)
 
-***drug premix*** means a drug for veterinary use to which a drug identification number has been assigned, where the directions on its label specify that it is to be mixed with feed as defined in section 2 of the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md). (*prémélange médicamenteux*)
+***drug premix*** means a drug for veterinary use to which a drug identification number has been assigned, where the directions on its label specify that it is to be mixed with feed as defined in section 2 of the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md). (*prémélange médicamenteux*)
 
-***fabricate*** means to prepare and preserve a drug for the purposes of sale. (*manufacturer*)
+***fabricate*** means to prepare and preserve a drug for the purposes of sale. (*manufacturer*)
 
-***import*** means to import into Canada a drug for the purpose of sale. (*importer*)
+***import*** means to import into Canada a drug for the purpose of sale. (*importer*)
 
-***MRA country*** means a country that is a participant in a mutual recognition agreement with Canada. (*pays participant*)
+***MRA country*** means a country that is a participant in a mutual recognition agreement with Canada. (*pays participant*)
 
-***mutual recognition agreement*** means an international agreement that provides for the mutual recognition of compliance certification for good manufacturing practices for drugs. (*accord de reconnaisance mutuelle*)
+***mutual recognition agreement*** means an international agreement that provides for the mutual recognition of compliance certification for good manufacturing practices for drugs. (*accord de reconnaisance mutuelle*)
 
-***package/label*** means to put a drug in its immediate container or to affix the inner or outer label to the drug. (*emballer-étiqueter*)
+***package/label*** means to put a drug in its immediate container or to affix the inner or outer label to the drug. (*emballer-étiqueter*)
 
-***pharmaceutical*** means a drug other than a drug listed in Schedule C or D to the Act. (*produit pharmaceutique*)
+***pharmaceutical*** means a drug other than a drug listed in Schedule C or D to the Act. (*produit pharmaceutique*)
 
-***recognized building*** means, in respect of the fabrication, packaging/labelling or testing of a drug, a building that a regulatory authority that is designated under subsection C.01A.019(1) in respect of that activity for that drug has recognized as meeting its good manufacturing practices standards in respect of that activity for that drug. (*bâtiment reconnu*)
+***recognized building*** means, in respect of the fabrication, packaging/labelling or testing of a drug, a building that a regulatory authority that is designated under subsection C.01A.019(1) in respect of that activity for that drug has recognized as meeting its good manufacturing practices standards in respect of that activity for that drug. (*bâtiment reconnu*)
 
-***regulatory authority*** means a government agency or other entity in an MRA country that has a legal right to control the use or sale of drugs within that country and that may take enforcement action to ensure that drugs marketed within its jurisdiction comply with legal requirements. (*autorité réglementaire*)
+***regulatory authority*** means a government agency or other entity in an MRA country that has a legal right to control the use or sale of drugs within that country and that may take enforcement action to ensure that drugs marketed within its jurisdiction comply with legal requirements. (*autorité réglementaire*)
 
 ***site***[Repealed, SOR/2002-368, s. 1]
 
 ***wholesale***[Repealed, SOR/2013-74, s. 2]
 
-***wholesaler*** means a person who is not a distributor described in section C.01A.003 and who sells any of the following drugs other than at retail sale: 
+***wholesaler*** means a person who is not a distributor described in section C.01A.003 and who sells any of the following drugs other than at retail sale: 
 - **(a)** a drug in dosage form that is listed in Schedule C or D to the Act, a drug that is a prescription drug or a controlled drug as defined in subsection G.01.001(1);
 - **(b)** an active ingredient; or
-- **(c)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md). (*grossiste*)
+- **(c)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md). (*grossiste*)
 
-- **(2)** In this Division and in Division 2, ***drug*** does not include a dilute drug premix, a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md), an active ingredient that is for veterinary use or a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015.
+- **(2)** In this Division and in Division 2, drug does not include any of the following:
+	- **(a)** a dilute drug premix;
+	- **(b)** a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md);
+	- **(c)** an active ingredient that is for veterinary use and that is not an active pharmaceutical ingredient;
+	- **(d)** an active pharmaceutical ingredient for veterinary use that is not required to be sold pursuant to a prescription and that is also a natural health product as defined in subsection 1(1) of the [Natural Health Products Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2003/196.md);
+	- **(e)** a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015.
 
-- **(3)** Where the Minister designates additional dosage form classes, the Minister shall make a list of those classes available on request. 
-> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14.
+- **(3)** Where the Minister designates additional dosage form classes, the Minister shall make a list of those classes available on request.
+> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14; SOR/2017-76, s. 7.
 
 
 
@@ -28530,12 +28535,12 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(1)** This Division does not apply to
 	- **(a)** wholesaling a drug premix;
-	- **(b)** importing or compounding, pursuant to a prescription, a drug that is not commercially available in Canada by one of the following persons, namely,
+	- **(b)** subject to subsection (3), importing or compounding, pursuant to a prescription, a drug that is not commercially available in Canada by one of the following persons:
 		- **(i)** a pharmacist,
 		- **(ii)** a practitioner, and
 		- **(iii)** a person who compounds a drug under the supervision of a practitioner;
 	- **(b.1)** any activity with respect to a positron-emitting radiopharmaceutical that is used only for the purposes of a basic clinical research study described in section C.03.304;
-	- **(c)** any activity with respect to a drug that is used only for the purposes of clinical testing in accordance with subsection C.05.006(1) or section C.08.005, 
+	- **(c)** any activity with respect to a drug that is used only for the purposes of clinical testing in accordance with subsection C.05.006(1) or section C.08.005,
 	- **(d)** fabricating, packaging/labelling, testing as required under Division 2, distributing as a distributer referred to in section C.01A.003, wholesaling or importing any of the following drugs for which prescriptions are not required and that are for human use in dosage form and not represented as a treatment, preventative or cure for any of the diseases, disorders or abnormal physical states set out in Schedule A to the Act, namely,
 		- **(i)** homeopathic drugs,
 		- **(ii)** drugs that meet the requirements of a class monograph entitled “Vitamin Supplements”, “Mineral Supplements”, “Dietary Vitamin Supplements” or “Dietary Mineral Supplements”, as the case may be, and
@@ -28547,6 +28552,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(1.1)** This Division and Division 2 do not apply to a veterinary health product or an active pharmaceutical ingredient that is used in the fabrication of a veterinary health product.
 
 - **(2)** This Division and Divisions 2 to 4 do not apply to the affixing of a label to a previously labelled container.
+
+- **(3)** This Division applies to the importing, by a pharmacist, a veterinary practitioner or a person who compounds a drug under the supervision of a veterinary practitioner, of an active pharmaceutical ingredient for veterinary use that is for the purpose of compounding, pursuant to a prescription, a drug in dosage form that is not commercially available in Canada, if that ingredient is set out in List A.
 > SOR/97-12, s. 5; SOR/98-7, s. 2; SOR/2001/-203, s. 1; SOR/2004-282, s. 2; SOR/2012-129, s. 1; SOR/2017-76, s. 8.
 
 
@@ -28736,9 +28743,13 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 <td>6</td>
 <td>Drugs that are prescription drugs, controlled drugs as defined in subsection G.01.001(1) and narcotics as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md)</td>
 </tr>
+<tr>
+<td>7</td>
+<td>Active pharmaceutical ingredients set out in List A that are for veterinary use</td>
+</tr>
 </table>
 
-> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2.
+> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9.
 
 
 
