@@ -28409,68 +28409,73 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de
 
 - **(1)** Les définitions qui suivent s’appliquent au présent titre et aux titres 2 à 4.
 
-***accord de reconnaissance mutuelle*** Accord international portant sur le reconnaissance mutuelle en matière de certification de la conformité aux bonnes pratiques de fabrication des drogues. (*mutual recognition agreement*)
+***accord de reconnaissance mutuelle*** Accord international portant sur le reconnaissance mutuelle en matière de certification de la conformité aux bonnes pratiques de fabrication des drogues. (*mutual recognition agreement*)
 
-***agent antimicrobien*** Drogue pouvant détruire les micro-organismes pathogènes et dont l’étiquette indique qu’elle est destinée à être utilisée dans la désinfection des surfaces de l’environnement ou des instruments médicaux, au sens du [Règlement sur les instruments médicaux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/282.md), qui :
+***agent antimicrobien*** Drogue pouvant détruire les micro-organismes pathogènes et dont l’étiquette indique qu’elle est destinée à être utilisée dans la désinfection des surfaces de l’environnement ou des instruments médicaux, au sens du [Règlement sur les instruments médicaux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/282.md), qui :
 - **a)** ne sont pas des instruments effractifs au sens de ce règlement;
-- **b)** sont destinés à entrer en contact uniquement avec une peau intacte. (*antimicrobial agent*)
+- **b)** sont destinés à entrer en contact uniquement avec une peau intacte. (*antimicrobial agent*)
 
-***autorité réglementaire*** Organisme public ou autre entité, dans un pays participant, qui est habilité à contrôler l’utilisation ou la vente de drogues dans ce pays et qui peut prendre des mesures d’exécution pour veiller à ce que les drogues commercialisées sur le territoire relevant de sa compétence satisfassent aux exigences légales. (*regulatory authority*)
+***autorité réglementaire*** Organisme public ou autre entité, dans un pays participant, qui est habilité à contrôler l’utilisation ou la vente de drogues dans ce pays et qui peut prendre des mesures d’exécution pour veiller à ce que les drogues commercialisées sur le territoire relevant de sa compétence satisfassent aux exigences légales. (*regulatory authority*)
 
-***bâtiment reconnu*** À l’égard de la manufacture, de l’emballage-étiquetage ou de l’analyse d’une drogue, bâtiment qu’une autorité réglementaire, désignée aux termes du paragraphe C.01A.019(1) à l’égard de cette activité pour cette drogue, a reconnu comme satisfaisant à ses normes de bonnes pratiques de fabrication à l’égard de cette activité pour cette drogue. (*recognized building*)
+***bâtiment reconnu*** À l’égard de la manufacture, de l’emballage-étiquetage ou de l’analyse d’une drogue, bâtiment qu’une autorité réglementaire, désignée aux termes du paragraphe C.01A.019(1) à l’égard de cette activité pour cette drogue, a reconnu comme satisfaisant à ses normes de bonnes pratiques de fabrication à l’égard de cette activité pour cette drogue. (*recognized building*)
 
-***certificat de lot*** Certificat délivré par le manufacturier d’un lot ou lot de fabrication d’une drogue exporté dans le cadre d’un accord de reconnaissance mutuelle et dans lequel le manufacturier :
+***certificat de lot*** Certificat délivré par le manufacturier d’un lot ou lot de fabrication d’une drogue exporté dans le cadre d’un accord de reconnaissance mutuelle et dans lequel le manufacturier :
 - **a)** identifie le document-type de production pour la drogue et atteste que le lot ou le lot de fabrication a été manufacturé, emballé-étiqueté et analysé conformément aux méthodes énoncées dans le document-type;
-- **b)** fournit une description détaillée de la drogue, y compris :
+- **b)** fournit une description détaillée de la drogue, y compris :
 	- **(i)** la liste des propriétés et des qualités de la drogue, y compris l’identité, l’activité et la pureté de la drogue,
 	- **(ii)** une indication des tolérances relatives aux propriétés et aux qualités de la drogue;
 - **c)** indique les méthodes d’analyse du lot ou lot de fabrication ainsi que les résultats analytiques détaillés obtenus;
 - **d)** indique les adresses des bâtiments où le lot ou le lot de fabrication a été manufacturé, emballé-étiqueté et analysé;
-- **e)** atteste que le lot ou le lot de fabrication a été manufacturé, emballé-étiqueté et analysé conformément aux bonnes pratiques de fabrication de l’autorité réglementaire qui a reconnu les bâtiments comme satisfaisant à ses normes de bonnes pratiques de fabrication. (*batch certificate*)
+- **e)** atteste que le lot ou le lot de fabrication a été manufacturé, emballé-étiqueté et analysé conformément aux bonnes pratiques de fabrication de l’autorité réglementaire qui a reconnu les bâtiments comme satisfaisant à ses normes de bonnes pratiques de fabrication. (*batch certificate*)
 
-***classe de forme posologique*** S’entend des parentérales, comprimés, capsules, solutions, suspensions, aérosols, poudres, suppositoires, gaz médicaux, prémélanges médicamenteux ou de toute autre classe de forme posologique désignée par le ministre. (*dosage form class*)
+***classe de forme posologique*** S’entend des parentérales, comprimés, capsules, solutions, suspensions, aérosols, poudres, suppositoires, gaz médicaux, prémélanges médicamenteux ou de toute autre classe de forme posologique désignée par le ministre. (*dosage form class*)
 
-***emballer-étiqueter*** Emballer une drogue dans son récipient immédiat ou apposer l’étiquette intérieure ou extérieure sur la drogue. (*package/label*)
+***emballer-étiqueter*** Emballer une drogue dans son récipient immédiat ou apposer l’étiquette intérieure ou extérieure sur la drogue. (*package/label*)
 
-***grossiste*** Personne, autre qu’un distributeur visé à l’article C.01A.003, qui vend une ou plusieurs des drogues ci-après autrement qu’au détail :
+***grossiste*** Personne, autre qu’un distributeur visé à l’article C.01A.003, qui vend une ou plusieurs des drogues ci-après autrement qu’au détail :
 - **a)** toute drogue sous forme posologique visée aux annexes C ou D de la Loi, toute drogue qui est une drogue sur ordonnance ou toute drogue contrôlée au sens du paragraphe G.01.001(1);
 - **b)** un ingrédient actif;
 - **c)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md).
 
-L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
+L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
-***importer*** Importer une drogue au Canada en vue de la vente. (*import*)
+***importer*** Importer une drogue au Canada en vue de la vente. (*import*)
 
-***ingrédient actif*** Drogue qui, lorsqu’elle est utilisée comme matière première dans la manufacture d’une drogue sous forme posologique, lui confère les effets recherchés. (*active ingredient*)
+***ingrédient actif*** Drogue qui, lorsqu’elle est utilisée comme matière première dans la manufacture d’une drogue sous forme posologique, lui confère les effets recherchés. (*active ingredient*)
 
-***ingrédient actif pharmaceutique*** Ingrédient actif utilisé dans la manufacture d’un produit pharmaceutique. (*active pharmaceutical ingredient*)
+***ingrédient actif pharmaceutique*** Ingrédient actif utilisé dans la manufacture d’un produit pharmaceutique. (*active pharmaceutical ingredient*)
 
-***manufacturer*** Préparer et conserver une drogue en vue de la vente. (*fabricate*)
+***manufacturer*** Préparer et conserver une drogue en vue de la vente. (*fabricate*)
 
-***monographie de classe*** Document établi par le ministère de la Santé qui :
+***monographie de classe*** Document établi par le ministère de la Santé qui :
 - **a)** présente la liste des types et concentrations d’ingrédients médicinaux qui peuvent être contenus dans les drogues d’une classe donnée;
-- **b)** énonce les exigences, notamment en matière d’étiquetage, applicables à ces drogues. (*class monograph*)
+- **b)** énonce les exigences, notamment en matière d’étiquetage, applicables à ces drogues. (*class monograph*)
 
-***pays participant*** Pays participant à un accord de reconnaissance mutuelle avec le Canada. (*MRA country*)
+***pays participant*** Pays participant à un accord de reconnaissance mutuelle avec le Canada. (*MRA country*)
 
 ***pays signataire***[Abrogée, DORS/2002-368, art. 1]
 
-***prémélange médicamenteux*** Drogue à usage vétérinaire qui a fait l’objet d’une identification numérique et dont l’étiquette porte qu’elle doit être combinée à un aliment au sens de l’article 2 de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md). (*drug premix*)
+***prémélange médicamenteux*** Drogue à usage vétérinaire qui a fait l’objet d’une identification numérique et dont l’étiquette porte qu’elle doit être combinée à un aliment au sens de l’article 2 de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md). (*drug premix*)
 
-***prémélange médicamenteux dilué*** Drogue à usage vétérinaire résultant de la combinaison d’un prémélange médicamenteux à un aliment au sens de l’article 2 de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md) de sorte qu’au taux le plus bas des posologies approuvées pour cette drogue, au moins 10 kg de la combinaison soit nécessaire pour médicamenter une tonne métrique d’un aliment complet au sens de l’article 2 du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md). (*dilute drug premix*)
+***prémélange médicamenteux dilué*** Drogue à usage vétérinaire résultant de la combinaison d’un prémélange médicamenteux à un aliment au sens de l’article 2 de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md) de sorte qu’au taux le plus bas des posologies approuvées pour cette drogue, au moins 10 kg de la combinaison soit nécessaire pour médicamenter une tonne métrique d’un aliment complet au sens de l’article 2 du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md). (*dilute drug premix*)
 
-***produit intermédiaire en vrac*** Ingrédient actif utilisé dans la manufacture d’une drogue d’origine biologique visée à l’annexe C de la Loi ou d’une drogue visée à l’annexe D de la Loi. (*bulk process intermediate*)
+***produit intermédiaire en vrac*** Ingrédient actif utilisé dans la manufacture d’une drogue d’origine biologique visée à l’annexe C de la Loi ou d’une drogue visée à l’annexe D de la Loi. (*bulk process intermediate*)
 
-***produit pharmaceutique*** Toute drogue non visée aux annexes C ou D de la Loi. (*pharmaceutical*)
+***produit pharmaceutique*** Toute drogue non visée aux annexes C ou D de la Loi. (*pharmaceutical*)
 
 ***site***[Abrogée, DORS/2002-368, art. 1]
 
 ***vendre en gros***[Abrogée, DORS/2013-74, art. 2]
 
-- **(2)** Au présent titre et au titre 2, le terme ***drogue*** ne vise pas le prémélange médicamenteux dilué, l’aliment médicamenté au sens du paragraphe 2(1) du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md), l’ingrédient actif pour usage vétérinaire et la drogue utilisée uniquement pour une étude expérimentale menée conformément au certificat délivré en vertu de l’article C.08.015.
+- **(2)** Au présent titre et au titre 2, le terme drogue ne vise pas :
+	- **a)** le prémélange médicamenteux dilué;
+	- **b)** l’aliment médicamenté au sens du paragraphe 2(1) du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md);
+	- **c)** l’ingrédient actif pour usage vétérinaire qui n’est pas un ingrédient actif pharmaceutique;
+	- **d)** l’ingrédient actif pharmaceutique pour usage vétérinaire qui peut être vendu sans ordonnance et qui est également un produit de santé naturel au sens du paragraphe 1(1) du [Règlement sur les produits de santé naturels](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2003/196.md);
+	- **e)** la drogue utilisée uniquement pour une étude expérimentale menée conformément au certificat délivré en vertu de l’article C.08.015.
 
 - **(3)** Lorsque le ministre désigne d’autres classes de formes posologiques, il met la liste de ces classes à la disposition de quiconque en fait la demande.
-> DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2; DORS/2013-122, art. 14.
+> DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2; DORS/2013-122, art. 14; DORS/2017-76, art. 7.
 
 
 
@@ -28483,16 +28488,16 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 - **(1)** Le présent titre ne s’applique pas dans les cas suivants :
 	- **a)** la vente en gros d’un prémélange médicamenteux;
-	- **b)** l’importation ou la préparation, conformément à une ordonnance, d’une drogue qui n’est pas disponible sur le marché canadien par les personnes suivantes :
+	- **b)** sous réserve du paragraphe (3), l’importation ou la préparation, conformément à une ordonnance, d’une drogue qui n’est pas disponible sur le marché canadien par les personnes suivantes :
 		- **(i)** le pharmacien,
 		- **(ii)** le praticien,
 		- **(iii)** la personne qui prépare une drogue sous la supervision d’un praticien;
 	- **b.1)** toute activité à l’égard d’un produit pharmaceutique radioactif émetteur de positrons destiné exclusivement à l’étude de recherche clinique fondamentale visée à l’article C.03.304;
 	- **c)** toute activité à l’égard d’une drogue destinée exclusivement aux essais cliniques visée au paragraphe C.05.006(1) ou à l’article C.08.005;
-	- **d)** les activités visant à manufacturer, emballer-étiqueter, analyser conformément au titre 2, distribuer à titre de distributeur visé à l’article C.01A.003, vendre en gros ou importer l’une ou l’autre des drogues suivantes vendues sans ordonnance et qui sont sous forme posologique et pour usage humain mais qui ne sont pas présentées comme traitement ou mesure préventive d’une maladie, d’un désordre ou d’un état physique anormal visés à l’annexe A de la Loi ou comme moyen de guérison :
+	- **d)** les activités visant à manufacturer, emballer-étiqueter, analyser conformément au titre 2, distribuer à titre de distributeur visé à l’article C.01A.003, vendre en gros ou importer l’une ou l’autre des drogues suivantes vendues sans ordonnance et qui sont sous forme posologique et pour usage humain mais qui ne sont pas présentées comme traitement ou mesure préventive d’une maladie, d’un désordre ou d’un état physique anormal visés à l’annexe A de la Loi ou comme moyen de guérison :
 		- **(i)** les drogues homéopathiques,
 		- **(ii)** les drogues conformes aux exigences de la monographie de classe intitulée, selon le cas, « Suppléments vitaminiques », « Suppléments minéraux », « Suppléments vitaminiques alimentaires » ou « Suppléments minéraux alimentaires »,
-		- **(iii)** toute drogue qui :
+		- **(iii)** toute drogue qui :
 			- **(A)** d’une part, contient une substance végétale, minérale ou animale dont les propriétés sont présentées comme étant thérapeutiques ou préventives, notamment les herbes médicinales traditionnelles, les médicaments traditionnels chinois, ayurvédiques (Indiens d’Asie) et autochtones (Amérique du Nord),
 			- **(B)** d’autre part, dont l’utilisation à des fins médicales est appuyée seulement de preuves historiques et ethnologiques tirées d’ouvrages de références relatifs à un système de médecine autre que celui fondé sur des normes scientifiques conventionnelles;
 	- **e)** les activités visant à manufacturer, emballer-étiqueter, analyser, distribuer ou importer un agent antimicrobien.
@@ -28500,6 +28505,8 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **(1.1)** Le présent titre et le titre 2 ne s’appliquent pas au produit de santé animale ou à l’ingrédient actif pharmaceutique qui est utilisé dans la manufacture d’un produit de santé animale.
 
 - **(2)** Le présent titre et les titres 2 à 4 ne s’appliquent pas dans le cas de l’activité visant à apposer une étiquette sur un récipient déjà étiqueté.
+
+- **(3)** Le présent titre s’applique à l’importation, par un pharmacien, un vétérinaire ou une personne qui prépare une drogue sous la supervision d’un vétérinaire, d’un ingrédient actif pharmaceutique, pour usage vétérinaire, qui figure dans la Liste A à des fins de préparation d’une drogue sous forme posologique conformément à une ordonnance et qui n’est pas disponible sur le marché canadien.
 > DORS/97-12, art. 5; DORS/98-7, art. 2; DORS/2001-203, art. 1; DORS/2004-282, art. 2; DORS/2012-129, art. 1; DORS/2017-76, art. 8.
 
 
@@ -28689,9 +28696,13 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 <td>6</td>
 <td>Drogue qui est une drogue sur ordonnance, drogue contrôlée au sens du paragraphe G.01.001(1), et stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md)</td>
 </tr>
+<tr>
+<td>7</td>
+<td>Ingrédient actif pharmaceutique figurant dans la Liste A qui est destiné à un usage vétérinaire</td>
+</tr>
 </table>
 
-> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2.
+> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9.
 
 
 
