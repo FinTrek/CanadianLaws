@@ -124,11 +124,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Produits du tabac**
 
-- **(2)** Elle ne s’applique aux produits du tabac au sens de l’article 2 de la Loi sur le tabac qu’en ce qui a trait à leur potentiel incendiaire.
+- **(2)** Elle ne s’applique pas aux produits du tabac au sens de l’article 2 de la [Loi sur le tabac et les produits de vapotage](/fr/Lois/Lois%20du%20Canada/1997/ch.%2013.md), sauf en ce qui a trait :
+	- **a)** au potentiel incendiaire de ces produits;
+	- **b)** aux dispositifs et aux pièces visés par cette définition.
+
+**Précision — pièces et dispositifs faits de tabac**
+
+- **(2.1)** Il est entendu que les dispositifs et les pièces qui sont faits entièrement ou partiellement de tabac ne sont pas visés par l’alinéa (2)b).
 
 **Produits de santé naturels**
 
 - **(3)** Il est entendu qu’elle ne s’applique pas aux produits de santé naturels au sens du paragraphe 1(1) du [Règlement sur les produits de santé naturels](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2003/196.md) pris en vertu de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
+
+**Produits de vapotage**
+
+- **(4)** Le [Règlement sur les produits chimiques et contenants de consommation (2001)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/269.md) ne s’applique à l’égard des produits de vapotage visés aux alinéas a) à c) de la définition de ce terme, à l’article 2 de la [Loi sur le tabac et les produits de vapotage](/fr/Lois/Lois%20du%20Canada/1997/ch.%2013.md), que s’il est modifié pour le prévoir expressément.
+> 2010, ch. 21, art. 4; 2018, ch. 9, art. 75.
+
 
 
 
@@ -1312,10 +1324,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **  2** Cosmétique au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
 
 
-**  3** Instrument au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
+**  3** Instrument au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), à l’exception des produits de vapotage, au sens de l’article 2 de la [Loi sur le tabac et les produits de vapotage](/fr/Lois/Lois%20du%20Canada/1997/ch.%2013.md), qui ne sont pas assujettis à la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
 
 
-**  4** Drogue au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
+**  4** Drogue au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), à l’exception des produits de vapotage, au sens de l’article 2 de la [Loi sur le tabac et les produits de vapotage](/fr/Lois/Lois%20du%20Canada/1997/ch.%2013.md), qui ne sont pas assujettis à la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
 
 
 **  5** Aliment au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
@@ -1365,6 +1377,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **20** Animal au sens du paragraphe 2(1) de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md).
 
+
+> 2010, ch. 21, ann. 1; 2018, ch. 9, art. 76.
 
 
 
