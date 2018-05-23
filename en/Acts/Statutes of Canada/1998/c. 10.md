@@ -571,11 +571,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **25** Even if the port authority or subsidiary is an agent of Her Majesty in right of Canada as provided under section 7, no payment to a port authority or a wholly-owned subsidiary of a port authority may be made under an appropriation by Parliament to enable the port authority or subsidiary to discharge an obligation or liability unless
 - **(a)** the payment
 	- **(i)** is made under the [Emergencies Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2022%20(4th%20Supp.).md) or any other Act in respect of emergencies,
+	- **(i.1)** is a loan made by the Canada Infrastructure Bank under the [Canada Infrastructure Bank Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20403.md),
 	- **(ii)** is a contribution in respect of the capital costs of an infrastructure project,
 	- **(iii)** is a contribution in respect of envi- ronmental sustainability, or
 	- **(iv)** is a contribution in respect of security, or
 - **(b)** the authority for the funding of Her Majesty’s obligations is an agreement that was in existence before March 1, 1999.
-> 1998, c. 10, s. 25; 2008, c. 21, s. 14.
+> 1998, c. 10, s. 25; 2008, c. 21, s. 14; 2018, c. 10, s. 73.
 
 
 
@@ -602,6 +603,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No guarantee**
 
 **26** No guarantee may be given under the authority of Parliament by or on behalf of Her Majesty for the discharge of an obligation or liability of a port authority or a wholly-owned subsidiary of a port authority. This section applies even if the port authority or subsidiary is an agent of Her Majesty in right of Canada as provided under section 7.
+
+
+
+
+**Canada Infrastructure Bank**
+
+**26.1** Section 26 does not apply with respect to a loan guarantee provided by the Canada Infrastructure Bank on behalf of the government of Canada under paragraph 18(h) of the [Canada Infrastructure Bank Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20403.md).
+> 2018, c. 10, s. 74.
+
 
 
 
