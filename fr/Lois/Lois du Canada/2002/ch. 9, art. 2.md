@@ -129,7 +129,11 @@ Sanctionnée sur le 1 avril 2002
 
 **6** 
 
-- **(1)** L’Administration a pour mission de prendre, soit directement, soit par l’entremise d’un fournisseur de services de contrôle, des mesures en vue de fournir un contrôle efficace des personnes — ainsi que des biens en leur possession ou sous leur contrôle, ou des effets personnels ou des bagages qu’elles confient à une compagnie aérienne en vue de leur transport — qui ont accès, par des points de contrôle, à un aéronef ou à une zone réglementée désignée sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) dans un aérodrome désigné par règlement ou dans tout autre endroit désigné par le ministre.
+- **(1)** L’Administration a pour mission de prendre, soit directement, soit par l’entremise d’un fournisseur de services de contrôle, des mesures en vue de fournir un contrôle efficace des personnes — ainsi que des biens en leur possession ou sous leur contrôle, ou des effets personnels ou des bagages qu’elles confient à une compagnie aérienne en vue de leur transport — qui ont accès, par des points de contrôle, à un aéronef ou à une zone réglementée.
+
+**Zone réglementée**
+
+- **(1.1)** Pour l’application du paragraphe (1), est une zone réglementée la zone ainsi désignée sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) qui se trouve dans un aérodrome désigné par règlement ou dans tout autre endroit, notamment tout autre aérodrome, désigné par le ministre.
 
 **Mission supplémentaire**
 
@@ -138,6 +142,8 @@ Sanctionnée sur le 1 avril 2002
 **Fonctions administratives**
 
 - **(3)** L’Administration exerce les attributions qui lui sont confiées sous le régime du présent article dans l’intérêt public et en tenant compte des intérêts des voyageurs; ces attributions sont exercées à titre de fonctions administratives.
+> 2002, ch. 9, art. 2 « 6 »; 2018, ch. 10, art. 68.
+
 
 
 
@@ -426,6 +432,25 @@ Sanctionnée sur le 1 avril 2002
 **Fourniture des installations**
 
 **30** L’exploitant d’un aérodrome désigné par règlement est tenu de fournir à l’Administration — et d’entretenir pour elle — , sans frais, les locaux à l’aérodrome que lui-même et l’Administration jugent nécessaires; il fournit également les services liés aux locaux dont l’Administration peut raisonnablement avoir besoin; s’il est impossible à l’exploitant et à l’Administration de s’entendre, il est tenu de lui fournir les locaux à l’aérodrome et les services dont l’Administration peut raisonnablement avoir besoin et que le ministre désigne comme étant nécessaires pour permettre à l’Administration de remplir sa mission.
+
+
+
+
+**Ententes — contrôle**
+
+**30.1** 
+
+- **(1)** L’Administration peut, avec l’approbation du ministre et sous réserve des modalités que celui-ci peut fixer, conclure une entente relative à la fourniture de services de contrôle visée au paragraphe 6(1) avec toute personne qui en fait la demande.
+
+**Mission**
+
+- **(2)** Il est entendu que la mission de l’Administration aux termes du paragraphe 6(1) comprend la fourniture de services de contrôle — soit directement, soit par l’entremise d’un fournisseur de services de contrôle — au titre d’une entente conclue en vertu du paragraphe (1).
+
+**Recouvrement des coûts**
+
+- **(3)** Cependant, la fourniture de services de contrôle par l’Administration au titre d’une entente conclue en vertu du paragraphe (1) et à l’égard de laquelle des sommes sont exigibles de l’autre partie est réputée, aux fins de recouvrement de ces sommes, ne pas être une obligation lui incombant au titre de la présente loi.
+> 2018, ch. 10, art. 69.
+
 
 
 
