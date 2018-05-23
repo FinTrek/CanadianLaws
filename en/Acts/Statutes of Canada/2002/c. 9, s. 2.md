@@ -129,7 +129,11 @@ Assented to on 1 April 2002
 
 **6** 
 
-- **(1)** The mandate of the Authority is to take actions, either directly or through a screening contractor, for the effective and efficient screening of persons who access aircraft or restricted areas through screening points, the property in their possession or control and the belongings or baggage that they give to an air carrier for transport. Restricted areas are those established under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) at an aerodrome designated by the regulations or at any other place that the Minister may designate.
+- **(1)** The Authority’s mandate is to take actions, either directly or through a screening contractor, for the effective and efficient screening of persons who access aircraft or restricted areas through screening points, the property in their possession or control and the belongings or baggage that they give to an air carrier for transport.
+
+**Restricted areas**
+
+- **(1.1)** For the purposes of subsection (1), a restricted area is an area designated as a restricted area under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) at an aerodrome designated by the regulations or at any other place, including any other aerodrome, designated by the Minister.
 
 **Other responsibilities**
 
@@ -138,6 +142,8 @@ Assented to on 1 April 2002
 **Carrying out mandate**
 
 - **(3)** The Authority must carry out its responsibilities under this section in the public interest, having due regard to the interest of the travelling public. Those responsibilities are a governmental function.
+> 2002, c. 9, s. 2 “6”; 2018, c. 10, s. 68.
+
 
 
 
@@ -426,6 +432,25 @@ Assented to on 1 April 2002
 **Provision of space**
 
 **30** Every operator of an aerodrome designated by the regulations must provide to the Authority, and maintain free of charge, such space at the aerodrome with services reasonably required by the Authority as the Authority and the operator agree on or, in the absence of agreement, such space at the aerodrome with services reasonably required by the Authority as the Minister determines to be necessary to enable the Authority to carry out its mandate.
+
+
+
+
+**Agreement — screening**
+
+**30.1** 
+
+- **(1)** The Authority may, with the Minister’s approval and subject to any terms and conditions that the Minister may establish, enter into an agreement respecting the delivery of screening referred to in subsection 6(1) with any person who requests the delivery of such screening.
+
+**Mandate**
+
+- **(2)** For greater certainty, the Authority’s mandate under subsection 6(1) includes any screening it delivers, either directly or through a screening contractor, under an agreement entered into under subsection (1).
+
+**Cost recovery**
+
+- **(3)** Despite subsection (2), if the Authority delivers screening for which payment of an amount is required from the other party under the terms of an agreement entered into under subsection (1), the delivery of that screening is deemed, for the purposes of recovering that amount, not to be a duty of the Authority under this Act.
+> 2018, c. 10, s. 69.
+
 
 
 
