@@ -102,11 +102,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Chairperson*** means the Chairperson of the Agency; (*président*)
 
+***class 1 rail carrier*** means
+- **(a)** the Canadian National Railway Company,
+- **(b)** the Canadian Pacific Railway Company,
+- **(c)** BNSF Railway Company,
+- **(d)** CSX Transportation, Inc.,
+- **(e)** Norfolk Southern Railway Company,
+- **(f)** Union Pacific Railroad Company, and
+- **(g)** any railway company, as defined in section 87, that is specified in the regulations; (*transporteur ferroviaire de catégorie 1*)
+
 ***goods*** includes rolling stock and mail; (*marchandises*)
 
 ***member*** means a member of the Agency appointed under subsection 7(2) and includes a temporary member; (*membre*)
 
 ***Minister*** means the Minister of Transport; (*ministre*)
+
+***radioactive material*** has the same meaning as in subsection 1(1) of the [Packaging and Transport of Nuclear Substances Regulations, 2015](/en/Regulations/Statutory%20Orders%20and%20Regulations/2015/145.md). It includes a dangerous good with any of UN numbers 2908 to 2913, 2915 to 2917, 2919, 2977, 2978, 3321 to 3333 and 3507 that are set out in Column 1 of the Dangerous Goods List in Chapter 3.2 of the Recommendations on the Transport of Dangerous Goods — Model Regulations, Eighteenth revised edition, 2013, published by the United Nations; (*matière radioactive*)
 
 ***rolling stock*** includes a locomotive, engine, motor car, tender, snow-plough, flanger and any car or railway equipment that is designed for movement on its wheels on the rails of a railway; (*matériel roulant*)
 
@@ -127,7 +138,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***TIH (Toxic Inhalation Hazard) material*** means a gas or substance that is included in Class 2.3 of the [Transportation of Dangerous Goods Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/286.md) or that, under paragraph 2.28(c) of those Regulations, is included in Class 6.1 of those Regulations. It includes a dangerous good with a UN number that is set out in Column 1 of the Dangerous Goods List in Chapter 3.2 of the Recommendations on the Transport of Dangerous Goods – Model Regulations, Eighteenth revised edition, 2013, published by the United Nations and that is listed in Schedule III; (*matière toxique par inhalation*)
 
 ***Vice-Chairperson*** means the Vice-Chairperson of the Agency. (*vice-président*)
-> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29, c. 31, s. 2.
+> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29, c. 31, s. 2; 2018, c. 10, s. 2.
+
+
+
+
+
+## Power of the Governor in Council
+
+
+
+**Governor in Council**
+
+**6.1** The Governor in Council may make regulations specifying railway companies for the purpose of paragraph (g) of the definition class 1 rail carrier.
+> 2018, c. 10, s. 3.
 
 
 
@@ -455,7 +479,7 @@ and in either case, the quorum in respect of the matter is deemed never to have 
 
 **27** 
 
-- **(1)** On an application made to the Agency, the Agency may grant the whole or part of the application, or may make any order or grant any further or other relief that to the Agency seems just and proper.
+- **(1)** The Agency may grant the whole or part of an application, or may make any order or grant any further or other relief that the Agency considers appropriate.
 
 - **(2) and (3)** [Repealed, 2008, c. 5, s. 1]
 
@@ -464,7 +488,7 @@ and in either case, the quorum in respect of the matter is deemed never to have 
 - **(4)** The Agency may, on terms or otherwise, make or allow any amendments in any proceedings before it.
 
 - **(5)** [Repealed, 2008, c. 5, s. 1]
-> 1996, c. 10, s. 27; 2008, c. 5, s. 1.
+> 1996, c. 10, s. 27; 2008, c. 5, s. 1; 2018, c. 10, s. 4(E).
 
 
 
@@ -618,6 +642,31 @@ and the Agency may direct that the whole or any portion of the order shall have 
 
 
 
+#### Information and Informal Dispute Resolution Services
+
+
+
+**Information and guidance**
+
+**36.11** 
+
+- **(1)** The Agency shall take measures to inform the public in respect of the provisions of Parts III and IV, including
+	- **(a)** publishing general information on its Internet site; and
+	- **(b)** providing information and guidance to any interested person on the manner in which remedies under those provisions may be accessed, having regard to their particular circumstances.
+
+**Informal resolution**
+
+- **(2)** A member of the Agency or its staff may attempt to resolve in an informal manner with a railway company any issue raised by an interested person to whom it has provided information and guidance. In doing so, the member or staff shall not reveal the identity of the interested person without their consent.
+
+**Person not to act in proceedings**
+
+- **(3)** A person who exercises the powers or performs the duties or functions under paragraph (1)(b) or subsection (2) shall not act in any proceedings before the Agency that are related to an issue in respect of which the person provided information, guidance or informal dispute resolution services.
+> 2018, c. 10, s. 5.
+
+
+
+
+
 #### Mediation or Arbitration
 
 
@@ -726,10 +775,18 @@ and the Agency may direct that the whole or any portion of the order shall have 
 
 - **(2)** The Agency shall include in every report referred to in subsection (1) the Agency’s assessment of the operation of this Act and any difficulties observed in the administration of this Act.
 
+**Railway transportation**
+
+- **(2.1)** The report shall include the number and nature of the applications, complaints and submissions for arbitration made under Parts III and IV, the manner they were dealt with and the systemic trends observed. The report shall also include the number of disputes that were mediated by the Agency and the number that were resolved through mediation by the Agency.
+
+**Confidential information**
+
+- **(2.2)** The Agency shall ensure that the report does not include any confidential information.
+
 **Tabling of report**
 
 - **(3)** The Minister shall have a copy of each report made under this section laid before each House of Parliament on any of the first thirty days on which that House is sitting after the Minister receives it.
-> 1996, c. 10, s. 42; 2013, c. 31, s. 2.
+> 1996, c. 10, s. 42; 2013, c. 31, s. 2; 2018, c. 10, s. 6.
 
 
 
@@ -828,14 +885,7 @@ for each day the person contravenes the order.
 ### Minister
 
 
-
-#### Support Agreements
-
-
-
-**Support agreements**
-
-**48** The Minister may, with the approval of the Governor in Council and on the terms and conditions that the Governor in Council may specify, enter into agreements in support of the national transportation policy set out in section 5 or in respect of any transportation matter that the Minister considers appropriate.
+**48** [Repealed, 2018, c. 10, s. 7]
 
 
 
@@ -846,7 +896,19 @@ for each day the person contravenes the order.
 
 **Minister may request inquiry**
 
-**49** The Minister may direct the Agency to inquire into any matter or thing concerning transportation to which the legislative authority of Parliament extends and report the findings on the inquiry to the Minister as and when the Minister may require.
+**49** 
+
+- **(1)** The Minister may direct the Agency to inquire into any matter or thing concerning transportation to which the legislative authority of Parliament extends and report the findings on the inquiry to the Minister as and when the Minister may require.
+
+**Powers**
+
+- **(2)** For greater certainty, sections 38 and 39 apply in respect of an inquiry.
+
+**Summary of findings**
+
+- **(3)** The Agency shall make public a summary of its findings that does not include any confidential information.
+> 1996, c. 10, s. 49; 2018, c. 10, s. 8.
+
 
 
 
@@ -868,6 +930,12 @@ for each day the person contravenes the order.
 	- **(e.1)** monitoring the grain transportation and handling system; or
 	- **(f)** the administration of this Act.
 
+**Class 1 rail carrier**
+
+- **(1.01)** The Governor in Council may make regulations requiring any class 1 rail carrier or class of those carriers to provide information, other than personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), to the Minister or Agency, when and in the form and manner that the regulations may specify, for the purposes of
+	- **(a)** determining the long-haul interswitching rate referred to in paragraph 134(1)(a); and
+	- **(b)** communicating service and performance indicators to the public.
+
 **Persons referred to**
 
 - **(1.1)** The persons for the purposes of subsection (1) are
@@ -885,10 +953,11 @@ for each day the person contravenes the order.
 
 **Information to be provided**
 
-- **(2)** Information required to be provided under subsection (1) may include the following:
-	- **(a)** financial data;
-	- **(b)** traffic and operating statistics; and
-	- **(c)** fitness and ownership information.
+- **(2)** Information that is required to be provided under this section may include the following:
+	- **(a)** financial information;
+	- **(b)** information respecting traffic and operations;
+	- **(c)** fitness and ownership information; and
+	- **(d)** information respecting the performance of air carriers and providers of services in relation to air transportation with regard to passenger experience and the quality of service.
 
 **Restriction**
 
@@ -906,12 +975,12 @@ for each day the person contravenes the order.
 
 **Exemptions**
 
-- **(4)** The Minister may exempt a carrier or transportation undertaking from the application of all or any part of a regulation made under subsection (1) if the Minister is satisfied that it is not practicable for the carrier or transportation undertaking to provide the information.
+- **(4)** The Minister may exempt a carrier or transportation undertaking from the application of all or any part of a regulation made under this section if the Minister is satisfied that it is not practicable for the carrier or transportation undertaking to provide the information.
 
 **Consultations**
 
 - **(5)** The Minister may consult with the Agency or Statistics Canada before making any regulation under this section.
-> 1996, c. 10, s. 50; 1998, c. 10, s. 163; 1999, c. 31, s. 36(E); 2000, c. 16, s. 1; 2007, c. 19, s. 8; 2013, c. 31, s. 3(F).
+> 1996, c. 10, s. 50; 1998, c. 10, s. 163; 1999, c. 31, s. 36(E); 2000, c. 16, s. 1; 2007, c. 19, s. 8; 2013, c. 31, s. 3(F); 2018, c. 10, s. 9.
 
 
 
@@ -921,7 +990,7 @@ for each day the person contravenes the order.
 
 **50.01** 
 
-- **(1)** A regulation made under subsection 50(1) may incorporate by reference any document that is produced by a person or body other than the Minister.
+- **(1)** A regulation made under subsection 50(1) or (1.01) may incorporate by reference any document that is produced by a person or body other than the Minister.
 
 **Type of incorporation by reference**
 
@@ -938,7 +1007,7 @@ for each day the person contravenes the order.
 **No registration or publication**
 
 - **(5)** For greater certainty, a document that is incorporated by reference is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
-> 2013, c. 31, s. 4.
+> 2013, c. 31, s. 4; 2018, c. 10, s. 10.
 
 
 
@@ -955,8 +1024,8 @@ for each day the person contravenes the order.
 
 **Information already provided**
 
-**50.1** For the purposes of subsection 50(1), if any information referred to in that subsection has already been provided to a department or agency of the Government of Canada, the Minister may request that department or agency to provide the information to the Minister.
-> 2007, c. 19, s. 9.
+**50.1** For the purposes of subsection 50(1) or (1.01), if any information referred to in that subsection has already been provided to a department or agency of the Government of Canada, the Minister may request that department or agency to provide the information to the Minister.
+> 2007, c. 19, s. 9; 2018, c. 10, s. 11.
 
 
 
@@ -971,9 +1040,9 @@ for each day the person contravenes the order.
 **Communication of information**
 
 - **(2)** Subsection (1) does not apply so as to prohibit
-	- **(a)** the communication of information to the Agency or to a minister of the Crown in right of Canada, the agent of any such minister or an officer or employee of, or adviser to, Her Majesty in right of Canada for the purposes of the administration of this Act or any other Act of Parliament or for the purposes of the development of policies;
+	- **(a)** the communication of information to the Agency, the Administrator of the Fund appointed under section 153.7, Statistics Canada or a minister of the Crown in right of Canada, the agent of that minister or an officer or employee of, or adviser to, Her Majesty in right of Canada for the purposes of the administration of this Act or any other Act of Parliament or for the purposes of the development of policies;
 	- **(b)** the communication of information to persons referred to in paragraph 50(1.1)(c) that is necessary for them to carry out their duties and functions;
-	- **(c)** the reporting of information in an aggregated form that prevents information obtained from an identifiable person from being related to that person;
+	- **(c)** the communication of information, including to the public, in an aggregated form that prevents information obtained from an identifiable person from being related to that person;
 	- **(d)** the communication of information by the Minister for the purpose of monitoring the grain transportation and handling system; or
 	- **(e)** the communication of information that is available to, or ascertainable by, the public.
 
@@ -988,7 +1057,49 @@ for each day the person contravenes the order.
 **Requirement for other persons to maintain confidentiality**
 
 - **(4)** Any person who receives information from the Minister that is confidential under this Act shall not knowingly disclose that information and shall take the measures necessary to maintain its confidentiality.
-> 1996, c. 10, s. 51; 2000, c. 16, s. 2; 2007, c. 19, s. 10.
+> 1996, c. 10, s. 51; 2000, c. 16, s. 2; 2007, c. 19, s. 10; 2018, c. 10, s. 12.
+
+
+
+
+
+**Publication**
+
+**51.1** Despite subsection 51(1), the Minister may make the information referred to in paragraph 50(2)(d) public.
+> 2018, c. 10, s. 13.
+
+
+
+
+
+**Confidentiality of information — Agency**
+
+**51.2** Information that is required to be provided to the Agency in accordance with regulations made under paragraph 50(1.01)(a) is, when it is received by the Agency, confidential and shall not knowingly be disclosed or made available by any person without the authorization of the person who provided the information, except for the purpose of a prosecution of a contravention of section 173.
+> 2018, c. 10, s. 13.
+
+
+
+
+
+**Use of information**
+
+**51.3** Information that is provided to the Minister or the Agency in accordance with regulations made under paragraph 50(1.01)(a) is only to be used by the Agency for the purpose of determining the long-haul interswitching rate referred to in paragraph 134(1)(a) and, despite subsection 51(4) and section 51.2, the Agency may, for that purpose, communicate the information in an aggregated form.
+> 2018, c. 10, s. 13.
+
+
+
+
+
+**Publication**
+
+**51.4** 
+
+- **(1)** If the Agency receives information from class 1 rail carriers or the Minister that is related to service and performance indicators provided in accordance with regulations made under paragraph 50(1.01)(b), the Agency shall publish the information on its Internet site within two days after it is received.
+
+**Information received from Minister**
+
+- **(2)** Subsection 51(4) does not apply to the publication, in accordance with subsection (1), of information that is received from the Minister.
+> 2018, c. 10, s. 13.
 
 
 
@@ -1616,6 +1727,24 @@ Version anglaise seulement***scheduled international licence*** means a licence 
 
 
 
+**Person affected**
+
+**67.3** Despite sections 67.1 and 67.2, a complaint against the holder of a domestic license related to any term or condition of carriage concerning any obligation prescribed by regulations made under subsection 86.11(1) may only be filed by a person adversely affected.
+> 2018, c. 10, s. 17.
+
+
+
+
+
+**Applying decision to other passengers**
+
+**67.4** The Agency may, to the extent that it considers it appropriate, make applicable to some or to all passengers of the same flight as the complainant all or part of its decision respecting a complaint related to any term or condition of carriage concerning any obligation prescribed by regulations made under paragraph 86.11(1)(b).
+> 2018, c. 10, s. 17.
+
+
+
+
+
 **Non-application of fares, etc.**
 
 **68** 
@@ -1973,10 +2102,11 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 	- **(e)** respecting the issuance, amendment and cancellation of permits for the operation of international charters;
 	- **(f)** respecting the duration and renewal of licences;
 	- **(g)** respecting the amendment of licences;
-	- **(h)** respecting traffic and tariffs, fares, rates, charges and terms and conditions of carriage for international service and
+	- **(h)** respecting traffic and tariffs, fares, rates, charges and terms and conditions of carriage for international service, including
 		- **(i)** providing for the disallowance or suspension by the Agency of any tariff, fare, rate or charge,
 		- **(ii)** providing for the establishment and substitution by the Agency of any tariff, fare, rate or charge disallowed by the Agency,
-		- **(iii)** authorizing the Agency to direct a licensee or carrier to take corrective measures that the Agency considers appropriate and to pay compensation for any expense incurred by a person adversely affected by the licensee’s or carrier’s failure to apply the fares, rates, charges or terms or conditions of carriage applicable to the service it offers that were set out in its tariffs, and
+		- **(iii)** authorizing the Agency to direct a licensee or carrier to take the corrective measures that the Agency considers appropriate and to pay compensation for any expense incurred by a person adversely affected by the licensee’s or carrier’s failure to apply the fares, rates, charges or terms or conditions of carriage that are applicable to the service it offers and that were set out in its tariffs, if the Agency receives a written complaint and, if the complaint is related to any term or condition of carriage concerning any obligation prescribed by regulations made under subsection 86.11(1), it is filed by the person adversely affected,
+		- **(iii.1)** authorizing the Agency to make applicable, to some or to all passengers of the same flight as the complainant, all or part of the Agency’s decision respecting a complaint related to any term or condition of carriage concerning any obligation prescribed by regulations made under paragraph 86.11(1)(b), to the extent that it considers appropriate, and
 		- **(iv)** requiring a licensee or carrier to display the terms and conditions of carriage for its international service on its Internet site, if the site is used for selling the international service of the licensee or carrier;
 	- **(i)** requiring licensees to file with the Agency any documents and information relating to activities under their licences that are necessary for the purposes of enabling the Agency to exercise its powers and perform its duties and functions under this Part and respecting the manner in which and the times at which the documents and information are to be filed;
 	- **(j)** requiring licensees to include in contracts or arrangements with travel wholesalers, tour operators, charterers or other persons associated with the provision of air services to the public, or to make those contracts and arrangements subject to, terms and conditions specified or referred to in the regulations;
@@ -1990,7 +2120,7 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 - **(2)** No regulation shall be made under paragraph (1)(l) that has the effect of relieving a person from any provision of this Part that requires a person to be a Canadian and to have a Canadian aviation document and prescribed liability insurance coverage in respect of an air service.
 
 - **(3)** [Repealed, 2007, c. 19, s. 26]
-> 1996, c. 10, s. 86; 2000, c. 15, s. 8; 2007, c. 19, s. 26.
+> 1996, c. 10, s. 86; 2000, c. 15, s. 8; 2007, c. 19, s. 26; 2018, c. 10, s. 18.
 
 
 
@@ -2010,6 +2140,40 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 - **(3)** Without limiting the generality of subsection (1), the regulations may prescribe what are costs, fees, charges and taxes for the purposes of subsection (2).
 > 2007, c. 19, s. 27.
+
+
+
+
+
+**Regulations — carrier’s obligations towards passengers**
+
+**86.11** 
+
+- **(1)** The Agency shall, after consulting with the Minister, make regulations in relation to flights to, from and within Canada, including connecting flights,
+	- **(a)** respecting the carrier’s obligation to make terms and conditions of carriage and information regarding any recourse available against the carrier, as specified in the regulations, readily available to passengers in language that is simple, clear and concise;
+	- **(b)** respecting the carrier’s obligations in the case of flight delay, flight cancellation or denial of boarding, including
+		- **(i)** the minimum standards of treatment of passengers that the carrier is required to meet and the minimum compensation the carrier is required to pay for inconvenience when the delay, cancellation or denial of boarding is within the carrier’s control,
+		- **(ii)** the minimum standards of treatment of passengers that the carrier is required to meet when the delay, cancellation or denial of boarding is within the carrier’s control, but is required for safety purposes, including in situations of mechanical malfunctions,
+		- **(iii)** the carrier’s obligation to ensure that passengers complete their itinerary when the delay, cancellation or denial of boarding is due to situations outside the carrier’s control, such as natural phenomena and security events, and
+		- **(iv)** the carrier’s obligation to provide timely information and assistance to passengers;
+	- **(c)** prescribing the minimum compensation for lost or damaged baggage that the carrier is required to pay;
+	- **(d)** respecting the carrier’s obligation to facilitate the assignment of seats to children under the age of 14 years in close proximity to a parent, guardian or tutor at no additional cost and to make the carrier’s terms and conditions and practices in this respect readily available to passengers;
+	- **(e)** requiring the carrier to establish terms and conditions of carriage with regard to the transportation of musical instruments;
+	- **(f)** respecting the carrier’s obligations in the case of tarmac delays over three hours, including the obligation to provide timely information and assistance to passengers, as well as the minimum standards of treatment of passengers that the carrier is required to meet; and
+	- **(g)** respecting any of the carrier’s other obligations that the Minister may issue directions on under subsection (2).
+
+**Ministerial directions**
+
+- **(2)** The Minister may issue directions to the Agency to make a regulation under paragraph (1)(g) respecting any of the carrier’s other obligations towards passengers. The Agency shall comply with these directions.
+
+**Restriction**
+
+- **(3)** A person shall not receive compensation from a carrier under regulations made under subsection (1) if that person has already received compensation for the same event under a different passenger rights regime than the one provided for under this Act.
+
+**Obligations deemed to be in tariffs**
+
+- **(4)** The carrier’s obligations established by a regulation made under subsection (1) are deemed to form part of the terms and conditions set out in the carrier’s tariffs in so far as the carrier’s tariffs do not provide more advantageous terms and conditions of carriage than those obligations.
+> 2018, c. 10, s. 19.
 
 
 
@@ -2046,11 +2210,17 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 ***operate*** includes, with respect to a railway, any act necessary for the maintenance of the railway or the operation of a train; (*exploitation*)
 
-***point of destination*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or 129(2), the point where the traffic is transferred from the line of a railway company to a line to which this Part does not apply; (*point de destination*)
+***point of destination*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or section 131, the point where the traffic is transferred from the line of a railway company to a line to which this Part does not apply; (*point de destination*)
 
-***point of origin*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or 129(2), the point where the traffic is transferred to the line of a railway company from a line to which this Part does not apply; (*point d’origine*)
+***point of origin*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or section 131, the point where the traffic is transferred to the line of a railway company from a line to which this Part does not apply; (*point d’origine*)
 
 ***public passenger service provider*** means VIA Rail Canada Inc., a passenger rail service provider designated by the Minister or an urban transit authority; (*société de transport publique*)
+
+***Quebec–Windsor corridor*** means the area of Canada that is bounded
+- **(a)** to the east by longitude 70.50° W,
+- **(b)** to the north by a straight line connecting a first point located at latitude 47.45° N and longitude 70.50° W to a second point located at latitude 43.70° N and longitude 83.25° W,
+- **(c)** to the west by longitude 83.25° W, and
+- **(d)** to the south by the Canada-United States border; (*axe Québec-Windsor*)
 
 ***railway*** means a railway within the legislative authority of Parliament and includes
 - **(a)** branches, extensions, sidings, railway bridges, tunnels, stations, depots, wharfs, rolling stock, equipment, stores, or other things connected with the railway, and
@@ -2068,8 +2238,14 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 ***traffic*** means the traffic of goods, including equipment required for their movement; (*transport* ou *trafic*)
 
-***urban transit authority*** means an entity owned or controlled by the federal government or a provincial, municipal or district government that provides commuter services. (*administration de transport de banlieue*)
-> 1996, c. 10, s. 87; 2007, c. 19, s. 28; 2015, c. 31, s. 4.
+***urban transit authority*** means an entity owned or controlled by the federal government or a provincial, municipal or district government that provides commuter services; (*administration de transport de banlieue*)
+
+***Vancouver–Kamloops corridor*** means the area of Canada that is bounded
+- **(a)** to the east by longitude 121.21° W,
+- **(b)** to the north by latitude 50.83° N,
+- **(c)** to the west by longitude 128.45° W, and
+- **(d)** to the south by the Canada-United States border. (*axe Vancouver-Kamloops*)
+> 1996, c. 10, s. 87; 2007, c. 19, s. 28; 2015, c. 31, s. 4; 2018, c. 10, s. 20.
 
 
 
@@ -2571,106 +2747,23 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 
 
-
-#### Insolvent Railway Companies
-
-
-
-**Scheme may be filed in Federal Court**
-
-**106** 
-
-- **(1)** If a railway company is insolvent, the directors may prepare a scheme of arrangement between the company and its creditors and may file it in the Federal Court.
-
-**May affect shareholders and capital**
-
-- **(2)** The scheme may include provisions for settling and defining any rights of shareholders of the railway company as among themselves and for raising additional share and loan capital, if necessary.
-
-**Documents to be filed**
-
-- **(3)** There must be filed with the scheme
-	- **(a)** a declaration in writing to the effect that the railway company is unable to meet its engagements with its creditors; and
-	- **(b)** an affidavit made by the president and directors of the company, or by a majority of them, that the declaration is true to the best of their knowledge.
-
-**Federal Court may restrain action**
-
-- **(4)** After the scheme is filed, the Federal Court may, on the application of the railway company, restrain any action against the company on any terms that the Federal Court considers appropriate.
-
-**Limitation**
-
-- **(5)** No order of the Federal Court or any other court restraining action against the railway company affects any right or remedy of a person in respect of, including the right to take possession of, the rolling stock, or any accessories or appurtenances relating to the rolling stock, of the company as a creditor under a security agreement, mortgage or hypothec or as a bailor, depositary, lessor or vendor under a conditional sale or an instalment sale, whether as trustee or otherwise, unless
-	- **(a)** within 60 days after filing the scheme of arrangement, or any extended period to which the person may agree, the railway company agrees to perform all its obligations under the security agreement, mortgage, hypothec, bailment, leasing, deposit, lease, conditional sale agreement or instalment sale agreement, as the case may be;
-	- **(b)** any event that occurred before or after the scheme was filed and that constitutes a default under the security agreement, mortgage, hypothec, bailment, leasing, deposit, lease, conditional sale agreement or instalment sale agreement, as the case may be, is cured before the later of
-		- **(i)** 30 days after the event, and
-		- **(ii)** the end of the period referred to in paragraph (a); and
-	- **(c)** any event that occurred on or after the expiry of the period referred to in paragraph (a) and that constitutes a default under the security agreement, mortgage, hypothec, bailment, leasing, deposit, lease, conditional sale agreement or instalment sale agreement, as the case may be, is cured in accordance with that instrument or act.
-
-**Extension of 60-day period**
-
-- **(6)** An extension of the 60-day period under paragraph (5)(a) does not prejudice the right to take possession of, or any other right or remedy in respect of, the rolling stock or the accessories or appurtenances relating to the rolling stock.
-> 1996, c. 10, s. 106; 2007, c. 19, s. 33.
+**106** [Repealed, 2018, c. 10, s. 21]
 
 
 
-
-
-**Assent to scheme**
-
-**107** 
-
-- **(1)** The scheme is assented to when it is both assented to by the ordinary shareholders of the railway company at a special meeting called for that purpose and assented to in writing by three quarters in value of the holders of
-	- **(a)** mortgages, hypothecs, bonds and debenture stock of the company;
-	- **(b)** any rent charge, or other payment, charged on the receipts of or payable by the company in consideration of the purchase of the railway of another company; and
-	- **(c)** each class of guaranteed or preferred shares of the company.
-
-**Assent of lessor**
-
-- **(2)** If the railway company leases a railway from another company, the scheme is assented to by the other company when it is assented to
-	- **(a)** by the ordinary shareholders of the other company at a special meeting called for that purpose; and
-	- **(b)** in writing by three quarters in value of the holders of mortgages, hypotheques, bonds and debenture stock of the other company and each class of guaranteed or preferred shares of that company.
-
-**No assent required from class not interested**
-
-- **(3)** Assent to the scheme is not required by a class of holders mentioned in subsection (1) or another company mentioned in subsection (2) if the scheme does not prejudicially affect any right or interest of that class or company.
+**107** [Repealed, 2018, c. 10, s. 21]
 
 
 
-
-**Application for confirmation of scheme**
-
-**108** 
-
-- **(1)** The directors of the railway company may apply to the Federal Court for confirmation of the scheme if, at any time within three months after the scheme is filed, or within any extended time that the Federal Court may allow, the directors consider the scheme to be assented to in accordance with section 107.
-
-- **(2)** [Repealed, 2007, c. 19, s. 34]
-
-**Confirmation of Federal Court**
-
-- **(3)** The Federal Court, after hearing the directors and any other persons whom it considers entitled to be heard on the application, may confirm the scheme, if it is satisfied that
-	- **(a)** the scheme has been assented to in accordance with section 107 within the period mentioned in subsection (1); and
-	- **(b)** no sufficient objection to the scheme has been established.
-
-**Registration in Federal Court**
-
-- **(4)** When the scheme is confirmed, it shall be registered in the Federal Court, and from then on it is binding on the company and all persons.
-
-- **(5)** [Repealed, 2007, c. 19, s. 34]
-> 1996, c. 10, s. 108; 2007, c. 19, s. 34.
+**108** [Repealed, 2018, c. 10, s. 21]
 
 
 
-
-
-**Rules of practice**
-
-**109** The judges of the Federal Court may, with the approval of the Governor in Council, make general rules governing the practice and procedure of the Court under sections 106 to 108.
+**109** [Repealed, 2018, c. 10, s. 21]
 
 
 
-
-**Copies of the scheme to be kept for sale**
-
-**110** The railway company shall keep at its principal or head office printed copies of the scheme when confirmed and registered, and shall provide a copy to any person who requests one and pays a fee not exceeding the cost of making the copy.
+**110** [Repealed, 2018, c. 10, s. 21]
 
 
 
@@ -2688,21 +2781,25 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 **111** In this Division,
 
-***competitive line rate*** means a rate determined with respect to a shipper in accordance with section 133;
+***competitive line rate***[Repealed, 2018, c. 10, s. 22]
 
-***confidential contract*** means a contract entered into under subsection 126(1);
+***confidential contract*** means a contract entered into under subsection 126(1); (*contrat confidentiel*)
 
-***connecting carrier*** means a railway company, other than a local carrier, that moves traffic to or from an interchange over a portion of a continuous route in respect of which the railway company and the shipper agree on the movement of the traffic, including the applicable rate;
+***connecting carrier*** means a railway company, other than a local carrier, that moves traffic to or from an interchange over a portion of a continuous route; (*transporteur de liaison*)
 
-***interchange*** means a place where the line of one railway company connects with the line of another railway company and where loaded or empty cars may be stored until delivered or received by the other railway company;
+***interchange*** means a place where the line of one railway company connects with the line of another railway company and where loaded or empty cars may be stored until delivered or received by the other railway company; (*lieu de correspondance*)
 
-***interswitch*** means to transfer traffic from the lines of one railway company to the lines of another railway company in accordance with regulations made under section 128;
+***interswitch*** means to transfer traffic from the lines of one railway company to the lines of another railway company; (*interconnexion*)
 
-Version anglaise seulement***interswitching rate*** means a rate established by, or determined in accordance with, regulations made under paragraph 128(1)(b);
+***interswitching rate*** means a rate determined by the Agency in accordance with section 127.1; (***Version anglaise seulement***)
 
-***local carrier*** means a railway company that moves traffic to or from an interchange on a continuous route from the point of origin or to the point of destination that is served exclusively by the railway company;
+***local carrier*** means a class 1 rail carrier that moves traffic to or from an interchange on a continuous route from the point of origin or to the point of destination that is served exclusively by the class 1 rail carrier; (*transporteur local*)
 
-Version anglaise seulement***service obligations*** means obligations under section 113 or 114.
+***long-haul interswitching rate*** means a rate determined by the Agency in accordance with paragraph 134(1)(a); (***Version anglaise seulement***)
+
+***service obligations*** means obligations under section 113 or 114. (***Version anglaise seulement***)
+> 1996, c. 10, s. 111; 2018, c. 10, s. 22.
+
 
 
 
@@ -2748,7 +2845,7 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **Confidential contract between company and shipper**
 
 - **(4)** A shipper and a railway company may, by means of a confidential contract or other written agreement, agree on the manner in which the obligations under this section are to be fulfilled by the company.
-> 1996, c. 10, s. 113; 2015, c. 31, s. 8.
+> 1996, c. 10, s. 113; 2015, c. 31, s. 8; 2018, c. 10, s. 59(F).
 
 
 
@@ -2796,15 +2893,36 @@ Version anglaise seulement***service obligations*** means obligations under sect
 
 - **(1)** On receipt of a complaint made by any person that a railway company is not fulfilling any of its service obligations, the Agency shall
 	- **(a)** conduct, as expeditiously as possible, an investigation of the complaint that, in its opinion, is warranted; and
-	- **(b)** within one hundred and twenty days after receipt of the complaint, determine whether the company is fulfilling that obligation.
+	- **(b)** within 90 days after receipt of the complaint, determine whether the company is fulfilling that obligation.
+
+**Time limits**
+
+- **(1.1)** For the purpose of an investigation conducted under subsection (1), the Agency shall allow a company at least 20 days to file an answer and at least 10 days for a complainant to file a reply.
+
+**Agency’s own motion**
+
+- **(1.11)** The Agency may, with the authorization of the Minister and subject to any terms and conditions that the Minister considers appropriate, of its own motion, conduct an investigation to determine whether a railway company is fulfilling its service obligations. The Agency shall conduct the investigation as expeditiously as possible and make its determination within 90 days after the investigation begins.
+
+**Considerations**
+
+- **(1.2)** The Agency shall determine that a company is fulfilling its service obligations if it is satisfied that the company provides the highest level of service in respect of those obligations that it can reasonably provide in the circumstances, having regard to the following considerations:
+	- **(a)** the traffic to which the service obligations relate;
+	- **(b)** the reasonableness of the shipper’s requests with respect to the traffic;
+	- **(c)** the service that the shipper requires with respect to the traffic;
+	- **(d)** any undertaking with respect to the traffic given by the shipper to the company;
+	- **(e)** the company’s and the shipper’s operational requirements and restrictions;
+	- **(f)** the company’s obligations, if any, with respect to a public passenger service provider;
+	- **(g)** the company’s obligations in respect of the operation of the railway under this Act;
+	- **(h)** the company’s contingency plans to allow it to fulfil its service obligations when faced with foreseeable or cyclical events; and
+	- **(i)** any information that the Agency considers relevant.
 
 **Confidential contract binding on Agency**
 
 - **(2)** If a company and a shipper agree, by means of a confidential contract, on the manner in which service obligations under section 113 are to be fulfilled by the company, the terms of that agreement are binding on the Agency in making its determination.
 
-**Competitive line rate provisions binding on Agency**
+**Long-haul interswitching order binding on Agency**
 
-- **(3)** If a shipper and a company agree under subsection 136(4) on the manner in which the service obligations are to be fulfilled by the local carrier, the terms of the agreement are binding on the Agency in making its determination.
+- **(3)** If a long-haul interwitching order has been made under subsection 134(1), the terms established by the order that are related to the manner in which the local carrier is to fulfil its service obligations are binding on the Agency in making its determination.
 
 **Orders of Agency**
 
@@ -2816,7 +2934,7 @@ Version anglaise seulement***service obligations*** means obligations under sect
 		- **(iv)** any specified steps, systems or methods be taken or followed by the company;
 	- **(b)** specify in the order the maximum charges that may be made by the company in respect of the matter so ordered;
 	- **(c)** order the company to fulfil that obligation in any manner and within any time or during any period that the Agency deems expedient, having regard to all proper interests, and specify the particulars of the obligation to be fulfilled;
-	- **(c.1)** [Repealed, 2014, c. 8, s. 5.1]
+	- **(c.1)** order the company to compensate any person adversely affected for any expenses that they incurred as a result of the company’s failure to fulfil its service obligations or, if the company is a party to a confidential contract with a shipper that requires the company to pay an amount of compensation for expenses incurred by the shipper as a result of the company’s failure to fulfil its service obligations, order the company to pay that amount to the shipper;
 	- **(d)** if the service obligation is in respect of a grain-dependent branch line listed in Schedule I, order the company to add to the plan it is required to prepare under subsection 141(1) an indication that it intends to take steps to discontinue operating the line; or
 	- **(e)** if the service obligation is in respect of a grain-dependent branch line listed in Schedule I, order the company, on the terms and conditions that the Agency considers appropriate, to grant to another railway company the right
 		- **(i)** to run and operate its trains over and on any portion of the line, and
@@ -2826,10 +2944,14 @@ Version anglaise seulement***service obligations*** means obligations under sect
 
 - **(5)** Every person aggrieved by any neglect or refusal of a company to fulfil its service obligations has, subject to this Act, an action for the neglect or refusal against the company.
 
+**Right of action not limited**
+
+- **(5.1)** If an arbitrator’s decision made under section 169.37 includes a term with respect to an amount described in paragraph 169.31(1)(c.1), the term does not limit the right to claim an amount of compensation in an action under subsection (5).
+
 **Company not relieved**
 
-- **(6)** Subject to the terms of a confidential contract referred to in subsection 113(4) or a tariff setting out a competitive line rate referred to in subsection 136(4), a company is not relieved from an action taken under subsection (5) by any notice, condition or declaration if the damage claimed in the action arises from any negligence or omission of the company or any of its employees.
-> 1996, c. 10, s. 116; 2000, c. 16, s. 4; 2014, c. 8, s. 5.1.
+- **(6)** Subject to the terms of a confidential contract referred to in subsection 113(4) or a tariff that sets out, in accordance with subsection 136.4(1), terms established in a long-haul interswitching order, a company is not relieved from an action taken under subsection (5) by any notice, condition or declaration if the damage claimed in the action arises from any negligence or omission of the company or any of its employees.
+> 1996, c. 10, s. 116; 2000, c. 16, s. 4; 2014, c. 8, s. 5.1; 2018, c. 10, ss. 23, 95.
 
 
 
@@ -2865,17 +2987,17 @@ Version anglaise seulement***service obligations*** means obligations under sect
 
 - **(2)** The tariff must include any information that the Agency may prescribe by regulation.
 
-**Publication of tariff**
+**Accessibility of tariff**
 
-- **(3)** The railway company shall publish and either publicly display the tariff or make it available for public inspection at its offices.
+- **(3)** The railway company shall make the tariff accessible to the public by publishing it on its Internet site.
 
-**Copy of tariff on payment of fee**
-
-- **(4)** The railway company shall provide a copy of the tariff, or any portion of it, to any person who requests it and pays a fee not exceeding the cost of making the copy.
+- **(4)** [Repealed, 2018, c. 10, s. 24]
 
 **Record of tariff**
 
 - **(5)** The railway company shall keep a record of the tariff for at least three years after its cancellation.
+> 1996, c. 10, s. 117; 2018, c. 10, s. 24.
+
 
 
 
@@ -3038,12 +3160,18 @@ Version anglaise seulement***service obligations*** means obligations under sect
 	- **(a)** the rates to be charged by the company to the shipper;
 	- **(b)** reductions or allowances pertaining to rates in tariffs that have been issued and published in accordance with this Division;
 	- **(c)** rebates or allowances pertaining to rates in tariffs or confidential contracts that have previously been lawfully charged;
-	- **(d)** any conditions relating to the traffic to be moved by the company; and
-	- **(e)** the manner in which the company shall fulfill its service obligations under section 113.
+	- **(d)** the manner in which the company is to fulfil its service obligations under section 113; and
+	- **(e)** any conditions relating to the traffic to be moved by the company, including any amount to be paid by the company or the shipper in relation to a failure to comply with any condition related to the service obligations referred to in paragraph (d).
 
 **Request for confidential contract**
 
-- **(1.1)** If a shipper wishes to enter into a contract under subsection (1) with a railway company respecting the manner in which the railway company must fulfil its service obligations under section 113, the shipper may request that the railway company make it an offer to enter into such a contract.
+- **(1.1)** A shipper may request that a railway company make it an offer to enter into a contract under subsection (1) with the railway company respecting
+	- **(a)** the manner in which the company is to fulfil its service obligations under section 113; or
+	- **(b)** any amount to be paid in relation to the company’s or the shipper’s failure to comply with a term related to those service obligations, the purpose of which is to encourage the efficient movement of the shipper’s traffic and the performance of the railway system.
+
+**Restriction**
+
+- **(1.11)** The shipper may only make a request in respect of an amount described in paragraph (1.1)(b) if the amount relates to a term that is included in the request under subsection (1.1).
 
 **Content of request**
 
@@ -3058,7 +3186,7 @@ Version anglaise seulement***service obligations*** means obligations under sect
 - **(1.4)** Subject to subsection (1.5), the railway company is not required to include in its offer terms with respect to a matter that
 	- **(a)** is governed by a written agreement to which the shipper and the railway company are parties;
 	- **(b)** is the subject of an order, other than an interim order, made under subsection 116(4);
-	- **(c)** is set out in a tariff referred to in subsection 136(4) or 165(3); or
+	- **(c)** is set out in a tariff referred to in subsection 136.4(1) or 165(3); or
 	- **(d)** is the subject of an arbitration decision made under section 169.37.
 
 **Clarification**
@@ -3068,7 +3196,7 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **No investigation or arbitration of confidential contracts**
 
 - **(2)** No party to a confidential contract is entitled to submit a matter governed by the contract to the Agency for final offer arbitration under section 161, without the consent of all the parties to the contract.
-> 1996, c. 10, s. 126; 2013, c. 31, s. 8.
+> 1996, c. 10, s. 126; 2013, c. 31, s. 8; 2018, c. 10, s. 25.
 
 
 
@@ -3086,15 +3214,48 @@ Version anglaise seulement***service obligations*** means obligations under sect
 
 **Order**
 
-- **(2)** The Agency may order the railway companies to provide reasonable facilities for the convenient interswitching of traffic in both directions at an interchange between the lines of either railway and those of other railway companies connecting with them.
+- **(2)** If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km of an interchange, the Agency may order
+	- **(a)** one of the companies to interswitch the traffic; and
+	- **(b)** the railway companies to provide reasonable facilities for the convenient interswitching of traffic in both directions at an interchange between the lines of either railway and those of other railway companies connecting with them.
 
 **Interswitching limits**
 
-- **(3)** If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km, or a prescribed greater distance, of an interchange, a railway company shall not transfer the traffic at the interchange except in accordance with the regulations.
+- **(3)** If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km of an interchange, a railway company shall not transfer the traffic at the interchange except in accordance with the regulations and the interswitching rate.
 
 **Extension of interswitching limits**
 
-- **(4)** On the application of a person referred to in subsection (1), the Agency may deem a point of origin or destination of a movement of traffic in any particular case to be within 30 km, or a prescribed greater distance, of an interchange, if the Agency is of the opinion that, in the circumstances, the point of origin or destination is reasonably close to the interchange.
+- **(4)** On the application of a person referred to in subsection (1), the Agency may deem a point of origin or destination of a movement of traffic in any particular case to be within 30 km of an interchange if the Agency is of the opinion that, in the circumstances, the point of origin or destination is reasonably close to the interchange.
+> 1996, c. 10, s. 127; 2018, c. 10, ss. 26, 95.
+
+
+
+
+
+**Interswitching rate**
+
+**127.1** 
+
+- **(1)** The Agency shall, no later than December 1 of every year, determine the rate per car to be charged for interswitching traffic for the following calendar year.
+
+**Considerations**
+
+- **(2)** In determining an interswitching rate, the Agency shall take into consideration
+	- **(a)** any reduction in costs that, in the opinion of the Agency, results from moving a greater number of cars or from transferring several cars at the same time; and
+	- **(b)** any long-term investment needed in the railways.
+
+**Limit on rate**
+
+- **(3)** In determining an interswitching rate, the Agency shall consider the average variable costs of all movements of traffic that are subject to the rate and the rate shall not be less than the variable costs of moving the traffic, as determined by the Agency.
+
+**Publication of method**
+
+- **(4)** The Agency shall, when it makes its determination under subsection (1), publish the method that it followed for determining the rate.
+
+**Interswitching rate to be published**
+
+- **(5)** The Agency shall cause the interswitching rate to be published in the Canada Gazette no later than December 31 before the beginning of the calendar year for which the rate applies.
+> 2018, c. 10, s. 27.
+
 
 
 
@@ -3104,19 +3265,13 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **128** 
 
 - **(1)** The Agency may make regulations
-	- **(a)** prescribing terms and conditions governing the interswitching of traffic, other than terms and conditions relating to safety;
-	- **(b)** determining the rate per car to be charged for interswitching traffic, or prescribing the manner of determining that rate, including the adjustments to be made to that rate as a result of changes in costs, and establishing distance zones for those purposes; and
-	- **(c)** prescribing, for the purposes of subsections 127(3) and (4), a greater distance than 30 km from an interchange.
+	- **(a)** prescribing terms and conditions governing the interswitching of traffic, other than terms and conditions relating to safety; and
+	- **(b)** establishing distance zones for the purpose of determining the interswitching rate.
+	- **(c)** [Repealed, 2018, c. 10, s. 28]
 
 - **(1.1)** [Repealed, 2014, c. 8, s. 7]
 
-**Cost savings to be considered**
-
-- **(2)** In determining an interswitching rate, the Agency shall take into consideration any reduction in costs that, in the opinion of the Agency, results from moving a greater number of cars or from transferring several cars at the same time.
-
-**Limit on rate**
-
-- **(3)** In determining an interswitching rate, the Agency shall consider the average variable costs of all movements of traffic that are subject to the rate and the rate must not be less than the variable costs of moving the traffic, as determined by the Agency.
+- **(2) and (3)** [Repealed, 2018, c. 10, s. 28]
 
 **Transfer of lines does not affect entitlement**
 
@@ -3125,180 +3280,309 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **Review of interswitching regulations**
 
 - **(5)** The Agency shall review the regulations when the circumstances warrant and at least once in every five year period after the regulations are made.
-> 1996, c. 10, s. 128; 2014, c. 8, s. 7.
+> 1996, c. 10, s. 128; 2014, c. 8, s. 7; 2018, c. 10, s. 28.
 
 
 
 
 
-#### Competitive Line Rates
+**Power to require information**
+
+**128.1** No later than August 31 of every year, a railway company shall provide to the Agency, in the form and manner specified by the Agency, the information or documents that the Agency considers necessary to exercise its powers or perform its duties or functions under section 127.1.
+> 2018, c. 10, s. 29.
 
 
 
-**Application**
+
+
+#### Long-haul Interswitching
+
+
+
+**Long-haul interswitching order**
 
 **129** 
 
-- **(1)** Sections 130 to 136 apply where
-	- **(a)** a shipper has access to the lines of only one railway company at the point of origin or destination of the movement of the shipper’s traffic; and
-	- **(b)** a continuous route between those points is operated by two or more companies.
+- **(1)** A shipper may apply to the Agency for a long-haul interswitching order against a railway company that is a class 1 rail carrier if
+	- **(a)** the shipper has access to the lines of only that railway company at the point of origin or destination of the movement of the shipper’s traffic in the reasonable direction of the traffic and its destination;
+	- **(b)** a continuous route between those points is operated by two or more railway companies;
+	- **(c)** the shipper is dissatisfied with a rate charged or proposed to be charged by the railway company referred to in paragraph (a) or with the proposed manner in which that railway company is to fulfil its service obligations for the movement of the shipper’s traffic between the point of origin or destination that is served exclusively by that railway company and the nearest interchange in Canada with a connecting carrier; and
+	- **(d)** the matter described in paragraph (c) cannot be resolved between the shipper and the railway company.
 
-**Transferred railway lines**
+**Restriction**
 
-- **(2)** For greater certainty, the transfer of a railway line, or an operating interest in it, under Division V or section 158 of the National Transportation Act, 1987 does not affect the right of a shipper to obtain a competitive line rate under sections 130 to 136.
+- **(2)** If, at both the point of origin and the point of destination of the movement of the shipper’s traffic, a shipper has access to the lines of only one railway company that is a class 1 rail carrier, the shipper is entitled to apply for only one long-haul interswitching order, which is to be in respect of either the movement of the traffic from the point of origin to the nearest interchange in Canada or the movement of the traffic from the nearest interchange in Canada to the point of destination.
+
+**No entitlement**
+
+- **(3)** A shipper is not entitled to apply to the Agency for a long-haul interswitching order
+	- **(a)** if the point of origin or destination that is served exclusively by the local carrier is within a radius of 30 km of an interchange in Canada that is in the reasonable direction of the shipper’s traffic and its destination;
+	- **(b)** if the point of origin or destination that is served exclusively by the local carrier or the nearest interchange is located within the Quebec–Windsor corridor or the Vancouver–Kamloops corridor;
+	- **(c)** if the point of origin or destination that is served exclusively by the local carrier is located on a track that
+		- **(i)** serves a reload or distribution compound, a container terminal or any other facility operated by the local carrier or for the local carrier’s own purposes, or
+		- **(ii)** is used by the local carrier for the transfer of traffic between cars or between a car and a warehouse owned by the local carrier;
+	- **(d)** for the movement of vehicles, as defined in section 2 of the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md), or of parts of those vehicles;
+	- **(e)** for the movement of TIH (Toxic Inhalation Hazard) material;
+	- **(f)** for the movement of radioactive material;
+	- **(g)** for the movement of oversized traffic on flat cars, if the dimensions of the traffic require exceptional measures be taken;
+	- **(h)** for the movement, on flat cars, of containers or trailers;
+	- **(i)** if the traffic to be moved is already the subject of a long-haul interswitching order;
+	- **(j)** if an order or consent agreement made under Part VIII of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md), which followed an application made by the Commissioner of Competition, addresses the rate for the traffic to be moved; or
+	- **(k)** in any other case specified in the regulations.
+
+**Deeming — interchange**
+
+- **(4)** For the purpose of paragraph (3)(b), an interchange located in the metropolitan area of Montreal is deemed to be the nearest interchange and to be located outside the Quebec–Windsor corridor if
+	- **(a)** the point of origin of the movement of the shipper’s traffic is located in Quebec and north of the Quebec-Windsor corridor;
+	- **(b)** the shipper has access to the lines of only one class 1 rail carrier at the point of origin; and
+	- **(c)** the nearest interchange is located in the Quebec–Windsor corridor.
+> 1996, c. 10, s. 129; 2018, c. 10, ss. 29, 95.
 
 
 
 
-**When competitive line rate to be established on shipper’s request**
+
+**Conditions**
 
 **130** 
 
-- **(1)** Subject to section 131, the local carrier serving the shipper at the point of origin or destination, as the case may be, shall, on the request of the shipper, establish a competitive line rate applicable to the movement of the traffic between the point of origin or destination, whichever is served exclusively by the local carrier, and the nearest interchange with a connecting carrier.
+- **(1)** Subsection (2) applies if
+	- **(a)** a shipper has access to the lines of only one railway company at the point of origin or destination of the movement of the shipper’s traffic;
+	- **(b)** the railway company referred to in paragraph (a) is not a class 1 rail carrier; and
+	- **(c)** there is a junction between the lines of the railway company referred to in paragraph (a) and the lines of a railway that is operated by a class 1 rail carrier and the shipper has access to only those railway lines at that junction.
 
-**Requirement unaffected by extent of carrier’s capability**
+**Deeming**
 
-- **(2)** The local carrier shall establish the competitive line rate even if it is able to move the traffic over the whole of the continuous route or a portion of that route that is longer than the portion in respect of which the competitive line rate is to apply.
-
-**Designation of route by shipper**
-
-- **(3)** The shipper may designate the continuous route for the movement of the shipper’s traffic from the point of origin to the point of destination.
-
-**Route within Canada**
-
-- **(4)** If the ultimate point of destination of a movement of the shipper’s traffic is in Canada, the shipper shall designate a route wholly within Canada, unless there is no cost-effective continuous route wholly within Canada that is available to the shipper and over which it is reasonable to move the shipper’s traffic.
-
-**Export and import**
-
-- **(5)** For the purposes of this section,
-	- **(a)** if the point of destination of a movement of traffic is a port in Canada for export out of Canada, that port is the ultimate point of destination in Canada; and
-	- **(b)** if the point of origin of a movement of traffic is a port in Canada for import into Canada, that port is the point of origin.
-
-**Nearest interchange**
-
-- **(6)** For the purposes of subsection (1), the nearest interchange is the one nearest the point of origin or destination, whichever is served exclusively by the local carrier, in the reasonable direction of the movement of the traffic from the point of origin to the point of destination on the continuous route designated by the shipper, unless the local carrier can demonstrate that the interchange cannot be used for engineering reasons.
+- **(2)** For the purposes of sections 129 and 131 to 136.6,
+	- **(a)** the junction referred to in paragraph (1)(c) is deemed to be the point of origin or the point of destination, as the case may be;
+	- **(b)** the junction referred to in paragraph (1)(c) is deemed to be served exclusively by the class 1 rail carrier referred to in that paragraph; and
+	- **(c)** the class 1 rail carrier referred to in paragraph (1)(c) is deemed to be the local carrier.
+> 1996, c. 10, s. 130; 2018, c. 10, s. 29.
 
 
 
 
-**Shipper and connecting carriers must agree**
 
-**131** 
+**Transferred railway lines**
 
-- **(1)** A competitive line rate must not be established unless the shipper agrees with the connecting carrier, and with any other company, other than the local carrier, that moves traffic over a portion of the continuous route, on the terms and conditions governing their movement of the traffic, including the applicable rate.
+**131** For greater certainty, the transfer of a railway line, or an operating interest in it, under Division V or section 158 of the National Transportation Act, 1987 does not affect the right of a shipper to apply for a long-haul interswitching order.
+> 1996, c. 10, s. 131; 2018, c. 10, s. 29.
 
-**No other rate applies**
 
-- **(2)** If an interswitching rate determined under paragraph 128(1)(b) is available for a portion of the route operated by the local carrier, no other rate may be applied to that portion of the route.
 
-**Movement on flat cars or less than carload traffic**
 
-- **(3)** A competitive line rate must not be established for the movement of trailers on flat cars, containers on flat cars or less than carload traffic, unless they arrive at a port in Canada by water for movement by rail or by rail for movement by water.
+
+**Contents of application**
+
+**132** The shipper shall, in its application for a long-haul interswitching order,
+- **(a)** provide an undertaking to the local carrier to move the traffic by rail with the local carrier between the point of origin or destination that is served exclusively by the local carrier and the nearest interchange in Canada with a connecting carrier in accordance with the long-haul interswitching order; and
+- **(b)** indicate the continuous route that the shipper has chosen for the movement of the shipper’s traffic.
+> 1996, c. 10, s. 132; 2018, c. 10, s. 29.
+
+
+
+
+
+**Dismissal of application**
+
+**133** The Agency shall dismiss the application for a long-haul interswitching order if the shipper does not demonstrate, to the Agency’s satisfaction, that an attempt has been made to resolve the matters referred to in the application.
+> 1996, c. 10, s. 133; 2018, c. 10, s. 29.
+
+
+
+
+
+**Determination by Agency**
+
+**134** 
+
+- **(1)** Within 30 business days after receiving the application for a long-haul interswitching order, the Agency shall, by order, determine any of the following matters in respect of which the shipper and the local carrier do not agree:
+	- **(a)** the long-haul interswitching rate that applies in respect of the movement of the shipper’s traffic between the point of origin or destination that is served exclusively by the class 1 rail carrier and the nearest interchange in Canada with a connecting carrier;
+	- **(b)** the continuous route from the point of origin to the point of destination;
+	- **(c)** the nearest interchange in Canada; and
+	- **(d)** the manner in which the local carrier is to fulfil its service obligations in respect of the movement of traffic described in paragraph (a).
 
 **Maximum portion of traffic**
 
-- **(4)** The portion of a movement of traffic in respect of which a competitive line rate may be established must not exceed 50 per cent of the total number of kilometres over which the traffic is moved by rail or 1 200 km, whichever is greater.
-
-**Exception**
-
-- **(5)** On application of a shipper, the Agency may establish a competitive line rate for a greater portion of a movement of traffic if the Agency is satisfied that no interchange exists within the maximum portion referred to in subsection (4).
-
-**No other rates may be established**
-
-- **(6)** If a competitive line rate has been established for a movement of traffic of a shipper, no other competitive line rate may be established in respect of that movement while the rate is in effect.
+- **(2)** The Agency shall not make a long-haul interswitching order if the movement of the shipper’s traffic between the point of origin or destination that is served exclusively by the class 1 rail carrier and the nearest interchange in Canada exceeds the greater of
+	- **(a)** 1 200 km; and
+	- **(b)** 50% of the total number of kilometres over which the traffic is moved by rail in Canada.
+> 1996, c. 10, s. 134; 2018, c. 10, s. 29.
 
 
 
 
-**Application to Agency to establish competitive line rates**
 
-**132** 
+**Long-haul interswitching rate**
 
-- **(1)** On the application of a shipper, the Agency shall, within forty-five days after receiving the application, establish any of the following matters in respect of which the shipper and the local carrier do not agree:
-	- **(a)** the amount of the competitive line rate;
-	- **(b)** the designation of the continuous route;
-	- **(c)** the designation of the nearest interchange; and
-	- **(d)** the manner in which the local carrier shall fulfil its service obligations.
+**135** 
+
+- **(1)** The following rules apply to the determination of the long-haul interswitching rate:
+	- **(a)** for the first 30 km, the rate is to be the interswitching rate; and
+	- **(b)** for the remainder of the distance, the Agency shall determine the rate by having regard to the revenue per tonne kilometre for the movement by the local carrier of comparable traffic in respect of which no long-haul interswitching rate applies.
+
+**Minimum rate**
+
+- **(2)** The Agency shall not determine the rate described in paragraph (1)(b) to be less than the average of the revenue per tonne kilometre for the movement by the local carrier of comparable traffic in respect of which no long-haul interswitching rate applies.
+
+**Factors to consider — comparable traffic**
+
+- **(3)** For the purpose of paragraph (1)(b), the Agency shall determine what constitutes comparable traffic by having regard to
+	- **(a)** the type of traffic;
+	- **(b)** the distance over which the traffic is moved;
+	- **(c)** the conditions of the movement of the traffic, including whether it is moved as single cars, blocks of cars or unit trains;
+	- **(d)** the type and ownership of the cars used to move the traffic;
+	- **(e)** the handling requirements for the traffic;
+	- **(f)** the volume and frequency of the traffic;
+	- **(g)** any undertaking given by the shipper in respect of the volume of the traffic;
+	- **(h)** any incentives, rebates or any similar reductions in respect of the traffic; and
+	- **(i)** any other factor related to the requirements of the shipper and the local carrier that the Agency considers appropriate.
+
+**Factors to consider — rate**
+
+- **(4)** The Agency shall determine the rate described in paragraph (1)(b) by having regard to the factors described in subsection (3), the density of traffic on the lines of the local carrier on which the traffic is to be moved and any long-term investment needed in those lines.
+> 1996, c. 10, s. 135; 2018, c. 10, ss. 29, 95.
+
+
+
+
+
+**Continuous route**
+
+**136** 
+
+- **(1)** The Agency shall, in determining the continuous route from the point of origin to the point of destination, have regard to the continuous route that has been chosen by the shipper for the movement of its traffic in its application.
+
+**Route in Canada**
+
+- **(2)** If the point of destination of the continuous route of a movement of the shipper’s traffic is in Canada, the Agency shall determine a continuous route that is wholly within Canada, unless there is no cost-effective continuous route wholly within Canada that is available to the shipper and over which it is reasonable to move the shipper’s traffic.
+
+**Export and import**
+
+- **(3)** For the purposes of subsections (1) and (2),
+	- **(a)** if the traffic is to be moved through a port in Canada for import into Canada, that port is the point of origin; and
+	- **(b)** if the traffic is to be moved through a port in Canada for export out of Canada, that port is the point of destination.
+> 1996, c. 10, s. 136; 2018, c. 10, s. 29.
+
+
+
+
+
+**Nearest interchange**
+
+**136.1** The Agency shall determine the nearest interchange in Canada to be the one nearest to the point of origin or destination, whichever is served exclusively by the local carrier, in the reasonable direction of the movement of the traffic from the point of origin to the point of destination on the continuous route, unless the local carrier can demonstrate that the interchange cannot be used for engineering reasons.
+> 2018, c. 10, s. 29.
+
+
+
+
+
+**Service obligations**
+
+**136.2** The Agency shall determine the manner in which the local carrier is to fulfil its service obligations by having regard to the considerations set out in paragraphs 116(1.2)(a) to (i).
+> 2018, c. 10, s. 29.
+
+
+
+
+
+**Duration of order**
+
+**136.3** The long-haul interswitching order applies to the parties for a period of one year as of the date of the order, unless the parties agree otherwise.
+> 2018, c. 10, s. 29.
+
+
+
+
+
+**Incorporation in tariff**
+
+**136.4** 
+
+- **(1)** The local carrier shall, without delay after the long-haul interswitching order is made, set out in a tariff the terms established by the order, unless the shipper and local carrier agree to include those terms in a confidential contract.
+
+**Publication not required**
+
+- **(2)** Subsection 117(3) does not apply in respect of the tariff.
+> 2018, c. 10, s. 29.
+
+
+
+
 
 **No final offer arbitration**
 
-- **(2)** If a matter is established by the Agency under this section, the shipper is not entitled to submit the matter to the Agency for final offer arbitration under section 161.
+**136.5** If a long-haul interswitching order is made by the Agency, the shipper is not entitled to submit any matter related to the movement of the traffic that is the subject of the order to the Agency for final offer arbitration under section 161.
+> 2018, c. 10, s. 29.
 
-
-
-
-**Competitive line rate**
-
-**133** 
-
-- **(1)** A competitive line rate in respect of the movement of traffic of a shipper is the result obtained by applying the following formula:
-```
-A + (B/C × (D - E))
-```
-where
-- **A** is the amount resulting from the application of the interswitching rate;
-- **B** is the total revenue that the local carrier received in respect of all movement over its lines of railway
-- **(a)** of traffic that
-- **(i)** is the same as or substantially similar to, the traffic moved, and
-- **(ii)** is moved over similar distances, unless no such traffic is moved over similar distances; and
-- **(b)** during the most recent period designated by the local carrier or any other period determined by the Agency, if the Agency determines that the designated period is not appropriate in the circumstances;
-- **C** is the total number of tonne kilometres of the movement of traffic that generated the total revenue;
-- **D** is the number of kilometres over which the competitive line rate is to apply; and
-- **E** is the total number of kilometres to which the interswitching rate is applicable.
-
-**Adjustment of rate**
-
-- **(2)** If a shipper performs any of the activities in respect of which an interswitching rate is applicable, the applicable interswitching rate in the description of A in the formula must be adjusted to account for the performance of those activities.
-
-**Alternative determination**
-
-- **(3)** The Agency may make an order in respect of a particular shipper or railway company, or make regulations that apply generally to shippers or railway companies, establishing an alternative method of determining the amount of a competitive line rate if the amount cannot be determined in accordance with this section.
-
-**Rate must be compensatory**
-
-- **(4)** A competitive line rate determined under this section must not be less than the variable costs of moving the traffic, as determined by the Agency.
-
-
-
-
-**Rate to be included in tariff or confidential contract**
-
-**134** A competitive line rate must be set out in a tariff or confidential contract.
-
-
-
-
-**Effective period of rate**
-
-**135** If a competitive line rate is established by the Agency, it has effect for one year after its effective date, or for any other period that the shipper and the local carrier agree on.
 
 
 
 
 **Obligation of carriers to provide cars**
 
-**136** 
+**136.6** 
 
-- **(1)** If a competitive line rate is established, a railway company, other than the local carrier, shall provide the shipper with an adequate supply of cars for the traffic being moved.
+- **(1)** Subject to any agreement to the contrary, if a long-haul interswitching order is made, the connecting carrier is responsible for providing the shipper with an adequate supply of cars for the traffic being moved, in addition to its other service obligations in relation to the movement of the traffic.
 
 **Additional obligations**
 
-- **(2)** Subject to any agreement to the contrary between the local carrier and any connecting carrier concerned, the connecting carrier is responsible for
-	- **(a)** a prorated share, determined in accordance with subsection (3), of the costs of operating and maintaining the interchange during the period in respect of which the competitive line rate is in effect; and
-	- **(b)** the capital cost of making any change or addition to the interchange that may be necessary for transferring the traffic for which the competitive line rate is established.
+- **(2)** Subject to any agreement to the contrary, the connecting carrier is, in respect of the interchange referred to in paragraph 129(1)(c), responsible for
+	- **(a)** a prorated share, determined in accordance with subsection (3), of the costs of operating and maintaining the interchange during the period in which the long-haul interswitching order applies; and
+	- **(b)** the capital cost of making any change to the interchange that may be necessary for transferring the traffic that is the subject of the long-haul interswitching order.
 
 **Determination of prorated share**
 
-- **(3)** The prorated share is the proportion that
-	- **(a)** the competitive line rate traffic transferred at the interchange during the period
-is of
-	- **(b)** the total traffic transferred at the interchange during the period.
+- **(3)** The prorated share is the proportion that the traffic that is the subject of the order transferred at the interchange and moved by the connecting carrier during the period in which the order applies is of the total traffic transferred at the interchange during that period.
 
-**Tariff to set out service obligations**
+**Share of capital cost**
 
-- **(4)** The tariff setting out a competitive line rate must set out the manner in which the local carrier issuing the tariff shall, subject to subsection (1), fulfil its service obligations
-	- **(a)** as agreed on by the shipper and the local carrier, if they agree on the amount of the competitive line rate; or
-	- **(b)** as determined by the Agency, if the amount of the competitive line rate is established by the Agency under section 132.
+- **(4)** If more than one connecting carrier moves the traffic that is the subject of the order, the capital cost is to be shared between the connecting carriers based on each connecting carrier’s share of the amount of traffic moved.
+> 2018, c. 10, s. 29.
+
+
+
+
+
+**Regulations**
+
+**136.7** The Governor in Council may, for the purpose of paragraph 129(3)(k), make regulations specifying cases in which a shipper is not entitled to apply for a long-haul interswitching order.
+> 2018, c. 10, s. 29.
+
+
+
+
+
+**Suspension of operation**
+
+**136.8** If the Governor in Council is of the opinion that the financial viability of a railway company is seriously affected by the operation of sections 129 to 136.7, the Governor in Council may, by order, suspend the operation of those sections during the period specified in the order.
+> 2018, c. 10, s. 29.
+
+
+
+
+
+#### Interchanges
+
+
+
+**List**
+
+**136.9** 
+
+- **(1)** A railway company shall prepare and keep up to date a list of the locations of the interchanges on the railway that the company operates. It shall publish the list on its Internet site or the Internet site of an association or other entity representing railway companies.
+
+**Notice**
+
+- **(2)** A railway company may remove an interchange from its list only after the expiry of 120 days after it
+	- **(a)** has published a notice of its intention to do so on its Internet site or the Internet site of an association or other entity representing railway companies; and
+	- **(b)** has sent a copy of the notice to the Agency.
+
+**Service obligations**
+
+- **(3)** For greater certainty, the removal of an interchange under subsection (2) does not relieve a railway company from its service obligations.
+> 2018, c. 10, s. 29.
+
 
 
 
@@ -3311,7 +3595,7 @@ is of
 
 **137** 
 
-- **(1)** The railway company’s liability, including to a third party, in respect of the movement of a shipper’s traffic shall be dealt with between the company and the shipper only by means of a written agreement that is signed by the shipper or by an association or other body representing shippers.
+- **(1)** Any issue related to liability, including liability to a third party, in respect of the movement of a shipper’s traffic shall be dealt with between the railway company and the shipper only by means of a written agreement that is signed by the shipper or by an association or other entity representing shippers.
 
 **No agreement**
 
@@ -3322,7 +3606,16 @@ is of
 **Regulations**
 
 - **(3)** For the purposes of paragraph (2)(b), the Agency may make regulations respecting the manner in which a railway company’s liability under subsection (2) is to be dealt with between a company and a shipper.
-> 1996, c. 10, s. 137; 2015, c. 31, s. 9.
+> 1996, c. 10, s. 137; 2015, c. 31, s. 9; 2018, c. 10, s. 30.
+
+
+
+
+
+**Complaints**
+
+**137.1** If, after receiving a complaint, the Agency finds that a railway company is not complying with subsection 137(1), the Agency may order it to take any measures that the Agency considers appropriate to comply with that subsection.
+> 2018, c. 10, s. 31.
 
 
 
@@ -3398,9 +3691,9 @@ request two or more railway companies to consider the joint or common use of a r
 
 - **(1)** A railway company shall prepare and keep up to date a plan indicating for each of its railway lines whether it intends to continue to operate the line or whether, within the next three years, it intends to take steps to discontinue operating the line.
 
-**Public availability of plan**
+**Public accessibility of plan**
 
-- **(2)** The railway company shall make the plan available for public inspection in offices of the company that it designates for that purpose.
+- **(2)** The railway company shall make the plan accessible to the public by publishing it on its Internet site or the Internet site of an association or other entity representing railway companies.
 
 **Notification of changes**
 
@@ -3411,14 +3704,28 @@ request two or more railway companies to consider the joint or common use of a r
 	- **(d)** the chairperson of every urban transit authority through whose territory the railway line passes; and
 	- **(e)** the clerk or other senior administrative officer of every municipal or district government through which the railway line passes.
 
+**Information to provide to Minister**
+
+- **(2.2)** The railway company shall, within 60 days after indicating in the plan its intention to discontinue operating a railway line, provide to the Minister
+	- **(a)** an assessment of whether or not section 96 applies to the land on which the railway line is located; and
+	- **(b)** a legal description of any land to which the assessment indicates section 96 applies and, in the form specified by the Minister, geographical information that would allow for mapping of the land.
+
+**Discontinuance already indicated in plan**
+
+- **(2.3)** If a railway company has, on the day on which subsection (2.2) comes into force, a plan indicating its intention to discontinue operating a railway line, but the company has not yet made an advertisement under section 143 in respect of that line, it shall provide to the Minister the information referred to in that subsection before making the advertisement.
+
 **When sale, etc., permitted**
 
 - **(3)** Subject to section 144.1, a railway company may sell, lease or otherwise transfer its railway lines, or its operating interest in its lines, for continued operation.
 
+**Declaration**
+
+- **(3.1)** The railway company shall provide a written declaration to the person to whom the railway line or the operating interest is being sold, leased or otherwise transferred, stating that the sale, lease or transfer is in compliance with section 96. It shall also send a copy of the declaration to the Minister.
+
 **Continued operation of a portion of a line**
 
 - **(4)** A railway company that sells, leases or otherwise transfers a portion of a grain-dependent branch line listed in Schedule I, or its operating interest in such a portion, to a person who intends to operate the portion shall continue to operate the remaining portion for three years, unless the Minister determines that it is not in the public interest for the company to do so.
-> 1996, c. 10, s. 141; 2000, c. 16, s. 5; 2007, c. 19, s. 35.
+> 1996, c. 10, s. 141; 2000, c. 16, s. 5; 2007, c. 19, s. 35; 2018, c. 10, s. 32.
 
 
 
@@ -3428,18 +3735,22 @@ request two or more railway companies to consider the joint or common use of a r
 
 **142** 
 
-- **(1)** A railway company shall comply with the steps described in this Division before discontinuing operating a railway line.
+- **(1)** A railway company shall comply with the steps described in this Division before discontinuing operating a railway line. The railway company shall publish and keep up to date on its Internet site or the Internet site of an association or other entity representing railway companies a report that sets out the date that it commenced and completed each step.
 
 **Limitation**
 
 - **(2)** A railway company shall not take steps to discontinue operating a railway line before the company’s intention to discontinue operating the line has been indicated in its plan for at least 12 months.
+
+**Exception**
+
+- **(2.1)** Subsection (2) does not apply to a railway company that is the subject of proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
 
 **Community-based groups**
 
 - **(3)** Subsection (2) does not apply and a railway company shall without delay take the steps described in section 143 if
 	- **(a)** the federal government, a provincial, municipal or district government or a community-based group endorsed in writing by such a government has written to the company to express an interest in acquiring all or a portion of a grain-dependent branch line that is listed in Schedule I for the purpose of continuing to operate that line or portion of a line; and
 	- **(b)** that line or portion of a line is indicated on the company’s plan as being a line or a portion of a line that the company intends to take steps to discontinue operating.
-> 1996, c. 10, s. 142; 2000, c. 16, s. 6.
+> 1996, c. 10, s. 142; 2000, c. 16, s. 6; 2018, c. 10, s. 33.
 
 
 
@@ -3457,12 +3768,14 @@ request two or more railway companies to consider the joint or common use of a r
 	- **(a)** a statement that the advertisement is directed to persons interested in buying, leasing or otherwise acquiring the railway line, or the railway company’s operating interest in it, for the purpose of continuing railway operations; and
 	- **(b)** the date by which interested persons must make their interest known in writing to the company, but that date must be at least sixty days after the first publication of the advertisement.
 
-**Disclosure of agreement with public passenger service provider**
+**Disclosure — advertisement**
 
-- **(3)** The advertisement must also disclose the existence of any agreement between the railway company and a public passenger service provider in respect of the operation of a passenger rail service on the railway line.
+- **(3)** The advertisement shall also disclose
+	- **(a)** the existence of any agreement between the railway company and a public passenger service provider in respect of the operation of a passenger rail service on the railway line; and
+	- **(b)** an indication as to whether or not section 96 applies to the land on which that railway line is located.
 
 - **(4)** [Repealed, 2007, c. 19, s. 36]
-> 1996, c. 10, s. 143; 2007, c. 19, s. 36.
+> 1996, c. 10, s. 143; 2007, c. 19, s. 36; 2018, c. 10, s. 34.
 
 
 
@@ -3492,6 +3805,10 @@ request two or more railway companies to consider the joint or common use of a r
 
 - **(5)** If an agreement is not reached within the six months, the railway company may decide to continue operating the railway line, in which case it is not required to comply with section 145, but shall amend its plan to reflect its decision.
 
+**Declaration**
+
+- **(5.1)** If an agreement is reached, including an agreement entered into to in accordance with an order by the Agency, the railway company shall provide a written declaration to the person to whom the railway line or the operating interest is being sold, leased or otherwise transferred, stating that the sale, lease or transfer is in compliance with section 96. It shall also send a copy of the declaration to the Minister.
+
 **Remedy if bad faith by a railway company**
 
 - **(6)** If, on complaint in writing by the interested person, the Agency finds that the railway company is not negotiating in good faith and the Agency considers that a sale, lease or other transfer of the railway line, or the company’s operating interest in the line, to the interested person for continued operation would be commercially fair and reasonable to the parties, the Agency may order the railway company to enter into an agreement with the interested person to effect the transfer and with respect to operating arrangements for the interchange of traffic, subject to the terms and conditions, including consideration, specified by the Agency.
@@ -3499,7 +3816,7 @@ request two or more railway companies to consider the joint or common use of a r
 **Remedy if bad faith by an interested person**
 
 - **(7)** If, on complaint in writing by the railway company, the Agency finds that the interested person is not negotiating in good faith, the Agency may order that the railway company is no longer required to negotiate with the person.
-> 1996, c. 10, s. 144; 2000, c. 16, s. 7; 2007, c. 19, s. 37.
+> 1996, c. 10, s. 144; 2000, c. 16, s. 7; 2007, c. 19, s. 37; 2018, c. 10, s. 35.
 
 
 
@@ -3534,6 +3851,10 @@ request two or more railway companies to consider the joint or common use of a r
 	- **(a)** no person makes their interest known to the railway company, or no agreement with an interested person is reached, within the required time; or
 	- **(b)** an agreement is reached within the required time, but the transfer is not completed in accordance with the agreement.
 
+**Disclosure — offer**
+
+- **(1.1)** The offer shall disclose whether or not section 96 applies to the land on which that railway line is located, and if the information described in paragraphs 141(2.2)(a) and (b) has not yet been provided to the Minister, the railway company shall provide it to the Minister with the offer.
+
 **Which governments receive offer**
 
 - **(2)** After the requirement to make the offer arises, the railway company shall send it simultaneously
@@ -3549,19 +3870,31 @@ request two or more railway companies to consider the joint or common use of a r
 **Time limits for acceptance**
 
 - **(3)** Subject to subsection 146.3(3), after the offer is received
-	- **(a)** by the Minister, the Government of Canada may accept it within thirty days;
+	- **(a)** by the Minister, the Government of Canada may accept it within 60 days or, if the Minister has extended the period under subsection (3.1), within that period;
 	- **(b)** by a provincial minister, the government of the province may accept it within thirty days, unless the offer is received by the Minister, in which case the government of each province may accept it within an additional thirty days after the end of the period mentioned in paragraph (a) if it is not accepted under that paragraph;
 	- **(b.1)** by an urban transit authority, it may accept it within an additional 30 days after the end of the period or periods for acceptance under paragraphs (a) and (b), if it is not accepted under those paragraphs; and
 	- **(c)** by a municipal or district government, it may accept it within an additional 30 days after the end of the period or periods for acceptance under paragraphs (a), (b) and (b.1), if it is not accepted under those paragraphs.
+
+**Extension**
+
+- **(3.1)** If the Minister considers it appropriate to do so, the Minister may extend the period referred to in paragraph (3)(a) by 120 days. The Minister may further extend the period, but the total of those further extensions may not exceed 365 days. Each time the Minister extends the period, the Minister shall provide a notice to the railway company and the railway company shall notify the other governments and urban transit authorities.
+
+**Service obligations**
+
+- **(3.2)** If the Minister extends the period referred to in paragraph (3)(a), the railway company has no service obligations in respect of the operation of the railway line commencing on the expiry of 150 days after the offer was received by the Minister and ending on the expiry of 280 days after the expiry of the extended period referred to in that paragraph. The railway company shall not remove any of the infrastructure associated with the line during the period for which it has no service obligations.
 
 **Communication and notice of acceptance**
 
 - **(4)** Once a government or an urban transit authority communicates its written acceptance of the offer to the railway company, the right of any other government or urban transit authority to accept the offer is extinguished, and the railway company must notify the other governments and urban transit authorities of the acceptance.
 
+**Declaration**
+
+- **(4.1)** The railway company shall, at the time of a transfer to a government or an urban transit authority, provide a written declaration to the government or urban transit authority stating that the transfer is in compliance with section 96. It shall also send a copy of the declaration to the Minister.
+
 **Net salvage value**
 
 - **(5)** If a government or an urban transit authority accepts the offer, but cannot agree with the railway company on the net salvage value within 90 days after the acceptance, the Agency may, on the application of the government or urban transit authority or the railway company, determine the net salvage value.
-> 1996, c. 10, s. 145; 2007, c. 19, s. 39.
+> 1996, c. 10, s. 145; 2007, c. 19, s. 39; 2018, c. 10, s. 36.
 
 
 
@@ -3573,10 +3906,14 @@ request two or more railway companies to consider the joint or common use of a r
 
 - **(1)** If a railway company has complied with the process set out in sections 143 to 145, but an agreement for the sale, lease or other transfer of the railway line or an interest in it is not entered into through that process, the railway company may discontinue operating the line on providing notice of the discontinuance to the Agency. After providing the notice, the railway company has no obligations under this Act in respect of the operation of the railway line and has no obligations with respect to any operations by any public passenger service provider over the railway line.
 
+**Documents to accompany notice of discontinuance**
+
+- **(1.1)** The notice of discontinuance shall be accompanied by a copy of the advertisement referred to in section 143 and the offers to the governments and transit authorities referred to in subsection 145(1).
+
 **No obligation**
 
 - **(2)** If the railway line, or any interest of the railway company in it, is sold, leased or otherwise transferred by an agreement entered into through the process set out in sections 143 to 145 or otherwise, the railway company that conveyed the railway line has no obligations under this Act in respect of the operation of the railway line as and from the date the sale, lease or other transfer was completed and has no obligations with respect to any operations by any public passenger service provider over the railway line as and from that date.
-> 1996, c. 10, s. 146; 2007, c. 19, s. 40.
+> 1996, c. 10, s. 146; 2007, c. 19, s. 40; 2018, c. 10, s. 37.
 
 
 
@@ -3714,6 +4051,15 @@ request two or more railway companies to consider the joint or common use of a r
 
 
 
+**Complaints**
+
+**146.6** If, after receiving a complaint, the Agency finds that a railway company is not complying with this Division, the Agency may order it to take any measures that the Agency considers appropriate to comply with this Division.
+> 2018, c. 10, s. 38.
+
+
+
+
+
 **DIVISION VI** 
 ### Transportation of Western Grain
 
@@ -3727,32 +4073,32 @@ request two or more railway companies to consider the joint or common use of a r
 
 **147** In this Division,
 
-***crop year*** means the period beginning on August 1 in any year and ending on July 31 in the next year;
+***crop year*** means the period beginning on August 1 in any year and ending on July 31 in the next year; (*campagne agricole*)
 
-***export***, in respect of grain, means shipment by a vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) , to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country;
+***export***, in respect of grain, means shipment by a vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) , to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; (*exportation*)
 
-***government hopper car*** means a hopper car provided to a prescribed railway company by the government of Canada or a province;
+***government hopper car***[Repealed, 2018, c. 10, s. 39]
 
-***grain*** means 
+***grain*** means 
 - **(a)** any grain or crop included in Schedule II that is grown in the Western Division, or any product of it included in Schedule II that is processed in the Western Division, or
-- **(b)** any grain or crop included in Schedule II that is grown outside Canada and imported into Canada, or any product of any grain or crop included in Schedule II that is itself included in Schedule II and is processed outside Canada and imported into Canada;
+- **(b)** any grain or crop included in Schedule II that is grown outside Canada and imported into Canada, or any product of any grain or crop included in Schedule II that is itself included in Schedule II and is processed outside Canada and imported into Canada; (*grain*)
 
 ***joint line movement***[Repealed, 2000, c. 16, s. 9]
 
 ***maximum rate scale***[Repealed, 2000, c. 16, s. 9]
 
 ***movement***, in respect of grain, means the carriage of grain by a prescribed railway company over a railway line from a point on any line west of Thunder Bay or Armstrong, Ontario, to
-- **(a)** Thunder Bay or Armstrong, Ontario, or
-- **(b)** Churchill, Manitoba, or a port in British Columbia for export,
+- **(a)** Thunder Bay or Armstrong, Ontario,
+- **(b)** Churchill, Manitoba for export,
+- **(c)** a port in British Columbia for export, other than export to the United States for consumption in that country, or
+- **(d)** a point west of Thunder Bay or Armstrong, Ontario, if the grain is to be carried to a port in British Columbia for export, other than export to the United States for consumption in that country; (*mouvement du grain*)
 
-but does not include the carriage of grain to a port in British Columbia for export to the United States for consumption in that country;
+***port in British Columbia*** includes Vancouver, North Vancouver, New Westminster, Roberts Bank, Prince Rupert, Ridley Island, Burnaby, Fraser Mills, Fraser Surrey, Fraser Wharves, Lake City, Lulu Island Junction, Port Coquitlam, Port Moody, Steveston, Tilbury and Woodwards Landing; (*port de la Colombie-Britannique*)
 
-***port in British Columbia*** means Vancouver, North Vancouver, New Westminster, Roberts Bank, Prince Rupert, Ridley Island, Burnaby, Fraser Mills, Fraser Surrey, Fraser Wharves, Lake City, Lulu Island Junction, Port Coquitlam, Port Moody, Steveston, Tilbury and Woodwards Landing;
+***prescribed railway company*** means the Canadian National Railway Company, the Canadian Pacific Railway Company and any railway company that may be specified in the regulations; (*compagnie de chemin de fer régie*)
 
-***prescribed railway company*** means the Canadian National Railway Company, the Canadian Pacific Railway Company and any railway company that may be specified in the regulations;
-
-***Western Division*** means the part of Canada lying west of the meridian passing through the eastern boundary of the City of Thunder Bay, including the whole of the Province of Manitoba.
-> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2001, c. 26, s. 282; 2005, c. 24, s. 3; 2011, c. 25, s. 60.
+***Western Division*** means the part of Canada lying west of the meridian passing through the eastern boundary of the City of Thunder Bay, including the whole of the Province of Manitoba. (*région de l’Ouest*)
+> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2001, c. 26, s. 282; 2005, c. 24, s. 3; 2011, c. 25, s. 60; 2018, c. 10, s. 39.
 
 
 
@@ -3806,8 +4152,10 @@ but does not include the carriage of grain to a port in British Columbia for exp
 
 - **(3)** For the purposes of this section, a prescribed railway company’s revenue for the movement of grain in a crop year shall not include
 	- **(a)** incentives, rebates or any similar reductions paid or allowed by the company;
-	- **(b)** any amount that is earned by the company and that the Agency determines is reasonable to characterize as a performance penalty or as being in respect of demurrage or for the storage of railway cars loaded with grain; or
-	- **(c)** compensation for running rights.
+	- **(b)** any amount that is earned by the company and that the Agency determines is reasonable to characterize as a performance penalty or as being in respect of demurrage or for the storage of railway cars loaded with grain;
+	- **(c)** compensation for running rights;
+	- **(d)** any amount that is earned by the company at the interswitching rate determined in accordance with section 127.1; or
+	- **(e)** any amount that is earned by the company for the movement of grain in containers on flat cars.
 
 **Impermissible reductions**
 
@@ -3820,7 +4168,7 @@ but does not include the carriage of grain to a port in British Columbia for exp
 **Agency to determine revenue**
 
 - **(6)** The Agency shall make the determination of a prescribed railway company’s revenues for the movement of grain in a crop year on or before December 31 of the following crop year.
-> 1996, c. 10, s. 150; 2000, c. 16, s. 10.
+> 1996, c. 10, s. 150; 2000, c. 16, s. 10; 2018, c. 10, s. 40.
 
 
 
@@ -3844,7 +4192,7 @@ where
 - **C** is the number of miles of the company’s average length of haul for the movement of grain in that crop year as determined by the Agency;
 - **D** is the number of miles of the company’s average length of haul for the movement of grain in the base year;
 - **E** is the number of tonnes of grain involved in the company’s movement of grain in the crop year as determined by the Agency; and
-- **F** is the volume-related composite price index as determined by the Agency.
+- **F** is the volume-related composite price index that applies to the company, as determined by the Agency.
 
 **Canadian National Railway Company**
 
@@ -3862,19 +4210,40 @@ where
 
 **Volume-related composite price index**
 
-- **(4)** The following rules are applicable to the volume-related composite price index:
-	- **(a)** in the crop year 2000-2001, the index is deemed to be 1.0;
-	- **(b)** the index applies in respect of all of the prescribed railway companies; and
-	- **(c)** the Agency shall make adjustments to the index to reflect the costs incurred by the prescribed railway companies for the purpose of obtaining cars as a result of the sale, lease or other disposal or withdrawal from service of government hopper cars and the costs incurred by the prescribed railway companies for the maintenance of cars that have been so obtained.
+- **(4)** The following rules are applicable to a volume-related composite price index:
+	- **(a)** in the crop year 2016-2017, each prescribed railway company’s index is 1.3275;
+	- **(b)** an index shall be determined in respect of each prescribed railway company; and
+	- **(c)** the Agency shall make adjustments to each prescribed railway company’s index to reflect the costs incurred by the prescribed railway company to obtain hopper cars for the movement of grain and the costs incurred by the prescribed railway company for the maintenance of those hopper cars.
 
 **When Agency to make determination**
 
-- **(5)** The Agency shall make the determination of a prescribed railway company’s maximum revenue entitlement for the movement of grain in a crop year under subsection (1) on or before December 31 of the following crop year and shall make the determination of the volume-related composite price index on or before April 30 of the previous crop year.
+- **(5)** The Agency shall make the determination of a prescribed railway company’s maximum revenue entitlement for the movement of grain in a crop year under subsection (1) on or before December 31 of the following crop year and shall make the determination of a prescribed railway company’s volume-related composite price index on or before April 30 of the previous crop year.
 
 **Making of adjustments**
 
 - **(6)** Despite subsection (5), the Agency shall make the adjustments referred to in paragraph (4)(c) at any time that it considers appropriate and determine the date when the adjusted index takes effect.
-> 1996, c. 10, s. 151; 2000, c. 16, s. 10; 2007, c. 19, s. 43.
+> 1996, c. 10, s. 151; 2000, c. 16, s. 10; 2007, c. 19, s. 43; 2018, c. 10, s. 41.
+
+
+
+
+
+**Report to Minister**
+
+**151.01** 
+
+- **(1)** Before the beginning of every crop year, a prescribed railway company shall provide to the Minister a report, in the form and manner that may be specified by the Minister, that
+	- **(a)** assesses the prescribed railway company’s ability to move the grain that it is required to move during the crop year taking into account the total volume of grain expected to be moved for the crop year; and
+	- **(b)** identifies the steps that the prescribed railway company is taking to enable it to move the grain that it is required to move during the crop year.
+
+**Report — winter contingency plans**
+
+- **(2)** Before October 1 of every year, a prescribed railway company shall provide to the Minister a report, in the form and manner that may be specified by the Minister, that describes the railway company’s contingency plans to enable it to move the grain along with other traffic when faced with winter weather conditions.
+
+**Publication**
+
+- **(3)** The prescribed railway company shall publish the reports referred to in subsections (1) and (2) on its Internet site at the same time that they are provided to the Minister.
+> 2018, c. 10, s. 42.
 
 
 
@@ -4553,7 +4922,7 @@ where
 **Meaning of calendar quarter**
 
 - **(4)** In this section, ***calendar quarter*** means a three-month period that begins on the first day of January, April, July or October.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10; 2018, c. 10, s. 59(F).
 
 
 
@@ -4561,8 +4930,14 @@ where
 
 **Interest on unpaid amounts**
 
-**155.8** If any portion of a levy is not paid by a railway company as required by subsection 155.7(1), the railway company shall pay to the Receiver General interest on that portion — calculated in the manner and at the rate that the Governor in Council may, by order, determine — from the time when the payment was required to be made.
-> 2015, c. 31, s. 10.
+**155.8** 
+
+- **(1)** If any portion of a levy is not paid by a railway company as required by subsection 155.7(1), the company shall pay to the Receiver General interest on that portion — calculated and compounded monthly at the rate of interest determined under the regulations made under section 155.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) — beginning on the day on which the payment was required to be made and ending on the day before the day on which the payment is received by the Receiver General.
+
+**Partial payment**
+
+- **(2)** If a partial payment is made, the period for which interest is payable in respect of the amount paid ends on the day before the day on which the partial payment is received by the Receiver General.
+> 2015, c. 31, s. 10; 2018, c. 10, s. 43.
 
 
 
@@ -4618,7 +4993,7 @@ where
 **Examination of records**
 
 - **(3)** Every railway company that is required by subsection (1) to keep records and books of account shall, at all reasonable times, make the records and books of account, and every account or voucher that is necessary to verify the information contained in them, available to any person designated under subsection 155.85(1) and give that person every facility that is necessary to examine them.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10; 2018, c. 10, s. 59(F).
 
 
 
@@ -4858,14 +5233,14 @@ where
 **Governor in Council**
 
 **155.97** The Governor in Council may make regulations
-- **(a)** designating goods or classes of goods for the purpose of the definition ***designated good*** in section 152.5;
+- **(a)** designating goods or classes of goods for the purpose of the definition designated good in section 152.5;
 - **(b)** setting out defences for the purpose of section 153.1;
 - **(c)** respecting traffic or any class of traffic for the purposes of section 155.5 and a levy for the carriage of that traffic or class of traffic, or a manner of calculating the levy;
 - **(d)** respecting a period for the purpose of subsection 155.7(1);
 - **(e)** respecting the keeping, by railway companies, of information in relation to their carriage of any traffic in respect of which there is a levy under section 155.3 or 155.5, or a levy imposed by an order made under section 155.6, and the filing of that information with the Minister;
-- **(f)** respecting a rate of interest for the purpose of section 155.8, or a manner of calculating the rate; and
+- **(f)** [Repealed, 2018, c. 10, s. 44]
 - **(g)** generally for carrying out the purposes and provisions of this Division.
-> 2015, c. 31, s. 10.
+> 2015, c. 31, s. 10; 2018, c. 10, s. 44.
 
 
 
@@ -4943,6 +5318,12 @@ where
 **Determination final and binding**
 
 - **(4)** A determination of costs by the Agency under this Part is final and binding on all interested or affected parties.
+
+**Costing information**
+
+- **(5)** No later than August 31 of every year, the Canadian National Railway Company and the Canadian Pacific Railway Company shall provide to the Agency, in the form and manner specified by the Agency, all unit costs, output units and other financial, statistical and supporting information for the preceding calendar year that is required for the determination of costs by the Agency under this Part.
+> 1996, c. 10, s. 157; 2018, c. 10, s. 45.
+
 
 
 
@@ -5035,7 +5416,7 @@ where
 
 - **(2)** A copy of a submission under subsection (1) shall be served on the carrier by the shipper and the submission shall contain
 	- **(a)** the final offer of the shipper to the carrier in the matter, excluding any dollar amounts;
-	- **(b)** [Repealed, 2000, c. 16, s. 11]
+	- **(b)** the period requested by the shipper, not exceeding two years, for which the decision of the arbitrator is to apply;
 	- **(c)** an undertaking by the shipper to ship the goods to which the arbitration relates in accordance with the decision of the arbitrator;
 	- **(d)** an undertaking by the shipper to the Agency whereby the shipper agrees to pay to the arbitrator the fee for which the shipper is liable under section 166 as a party to the arbitration; and
 	- **(e)** the name of the arbitrator, if any, that the shipper and the carrier agreed should conduct the arbitration or, if they agreed that the arbitration should be conducted by a panel of three arbitrators, the name of an arbitrator chosen by the shipper and the name of an arbitrator chosen by the carrier.
@@ -5047,7 +5428,7 @@ where
 **Final offer arbitration not a proceeding**
 
 - **(4)** A final offer arbitration is not a proceeding before the Agency.
-> 1996, c. 10, s. 161; 2000, c. 16, s. 11.
+> 1996, c. 10, s. 161; 2000, c. 16, s. 11; 2018, c. 10, s. 46.
 
 
 
@@ -5150,11 +5531,40 @@ where
 
 **Summary process**
 
-**164.1** If the Agency determines that a shipper’s final offer submitted under subsection 161.1(1) involves freight charges in an amount of not more than $750,000 and the shipper did not indicate a contrary intention when submitting the offer, sections 163 and 164 do not apply and the arbitration shall proceed as follows:
+**164.1** If the Agency determines that a shipper’s final offer submitted under subsection 161.1(1) involves freight charges in an amount of not more than $2,000,000, adjusted in accordance with section 164.2, and the shipper did not indicate a contrary intention when submitting the offer, sections 163 and 164 do not apply and the arbitration shall proceed as follows:
 - **(a)** within seven days after a matter is referred to an arbitrator, the shipper and the carrier may file with the arbitrator a response to the final offer of the other party;
 - **(b)** subject to paragraph (c), the arbitrator shall decide the matter on the basis of the final offers and any response filed under paragraph (a); and
 - **(c)** if the arbitrator considers it necessary, the arbitrator may invite the parties to make oral representations or may ask the parties to appear before him or her to provide further information.
-> 2000, c. 16, s. 15.
+> 2000, c. 16, s. 15; 2018, c. 10, s. 47.
+
+
+
+
+
+**Triennial adjustment**
+
+**164.2** 
+
+- **(1)** The maximum amount of freight charges for the purpose of section 164.1 shall be adjusted every three years, on April 1, in accordance with the formula
+```
+[A/B] × C
+```
+where
+- **A** is the Consumer Price Index for the calendar year before the year in which the adjustment is made;
+- **B** is the Consumer Price Index for 2017; and
+- **C** is $2,000,000.
+
+**Consumer Price Index**
+
+- **(2)** For the purposes of subsection (1),
+	- **(a)** a reference to the Consumer Price Index for any 12-month period means the average of the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that 12-month period;
+	- **(b)** if at any time the Consumer Price Index for Canada is adjusted to reflect a new time basis, a corresponding adjustment is to be made in the Consumer Price Index for any 12-month period that is used for the purpose of calculating the maximum amount under subsection (1); and
+	- **(c)** if at any time the Consumer Price Index for Canada is adjusted to reflect a new content basis, that adjustment does not affect the operation of this section.
+
+**Maximum amount to be published**
+
+- **(3)** The Agency shall adjust the maximum amount in accordance with subsection (1) and cause it to be published in the Canada Gazette no later than March 31 before the commencement of the three-year period for which the maximum amount applies, and that published amount is conclusive proof of the maximum amount for that three-year period.
+> 2018, c. 10, s. 48.
 
 
 
@@ -5171,7 +5581,7 @@ where
 - **(2)** The decision of the arbitrator shall
 	- **(a)** be in writing;
 	- **(b)** unless the parties agree otherwise, be rendered within 60 days or, in the case of an arbitration conducted in accordance with section 164.1, 30 days after the date on which the submission for the final offer arbitration was received by the Agency; and
-	- **(c)** unless the parties agree otherwise, be rendered so as to apply to the parties for a period of one year or any lesser period that may be appropriate, having regard to the negotiations between the parties that preceded the arbitration.
+	- **(c)** be rendered so as to apply for the period that is agreed to by the parties or, if no period has been agreed to by the parties, for the period, not exceeding two years, that the shipper requested in its submission.
 
 **Incorporation in tariff**
 
@@ -5194,7 +5604,7 @@ where
 **Payment by party**
 
 - **(7)** Moneys and interest referred to in paragraph (6)(b) that are owed by a party pursuant to a decision of the arbitrator shall be paid without delay to the other party.
-> 1996, c. 10, s. 165; 2000, c. 16, s. 16.
+> 1996, c. 10, s. 165; 2000, c. 16, s. 16; 2018, c. 10, s. 49.
 
 
 
@@ -5361,10 +5771,14 @@ where
 	- **(a)** the operational terms that the railway company must comply with in respect of receiving, loading, carrying, unloading and delivering the traffic, including performance standards and communication protocols;
 	- **(b)** the operational terms that the railway company must comply with if it fails to comply with an operational term described in paragraph (a);
 	- **(c)** any operational term that the shipper must comply with that is related to an operational term described in paragraph (a) or (b);
-	- **(d)** any service provided by the railway company incidental to transportation that is customary or usual in connection with the business of a railway company; or
-	- **(e)** the question of whether the railway company may apply a charge with respect to an operational term described in paragraph (a) or (b) or for a service described in paragraph (d).
+	- **(c.1)** any amount to be paid by the company or the shipper in relation to a failure to comply with any operational term described in paragraphs (a) to (c);
+	- **(d)** any service provided by the railway company incidental to transportation that is customary or usual in connection with the business of a railway company;
+	- **(e)** the question of whether the railway company may apply a charge with respect to an operational term described in paragraph (a) or (b) or for a service described in paragraph (d); or
+	- **(f)** the dispute resolution process related to the implementation of the arbitrator’s decision.
 
-- **(1.1)** [Repealed, 2014, c. 8, s. 8]
+**Regulations**
+
+- **(1.1)** The Agency may make regulations specifying what constitutes operational terms for the purposes of paragraphs (1)(a) to (c).
 
 **Matter excluded from arbitration**
 
@@ -5377,13 +5791,13 @@ where
 - **(3)** The shipper is not entitled to submit to the Agency for arbitration a matter that is in respect of traffic that is the subject of
 	- **(a)** a confidential contract between the shipper and the railway company that is in force immediately before the day on which this section comes into force;
 	- **(b)** a tariff, or a contract, referred to in subsection 165(3);
-	- **(c)** a competitive line rate; or
+	- **(c)** a long-haul interswitching order made under subsection 134(1); or
 	- **(d)** an arbitrator’s decision made under section 169.37.
 
 **Clarification**
 
-- **(4)** For greater certainty, neither a rate for the movement of the traffic nor the amount of a charge for that movement or for the provision of incidental services is to be subject to arbitration.
-> 2013, c. 31, s. 11; 2014, c. 8, s. 8.
+- **(4)** For greater certainty, a rate for the movement of the traffic is not to be subject to arbitration.
+> 2013, c. 31, s. 11; 2014, c. 8, s. 8; 2018, c. 10, ss. 50, 95.
 
 
 
@@ -5432,8 +5846,10 @@ where
 
 - **(1)** Despite any application filed under section 169.43, the shipper and the railway company must each submit, within 10 days after the day on which a copy of a submission is served under subsection 169.32(2), to the Agency, in order to resolve the matters that are submitted to it for arbitration by the shipper, a proposal that contains any of the following terms:
 	- **(a)** any operational term described in paragraph 169.31(1)(a), (b) or (c);
-	- **(b)** any term for the provision of a service described in paragraph 169.31(1)(d); or
-	- **(c)** any term with respect to the application of a charge described in paragraph 169.31(1)(e).
+	- **(a.1)** any term with respect to an amount described in paragraph 169.31(1)(c.1), if the matter in respect of the amount has been submitted by the shipper for arbitration;
+	- **(b)** any term for the provision of a service described in paragraph 169.31(1)(d);
+	- **(c)** any term with respect to the application of a charge described in paragraph 169.31(1)(e); or
+	- **(d)** any term with respect to the dispute resolution process described in paragraph 169.31(1)(f).
 
 **Proposals provided to parties**
 
@@ -5450,7 +5866,7 @@ where
 **If no proposal from party**
 
 - **(5)** If one party does not submit a proposal in accordance with subsection (1), the proposal submitted by the other party is the arbitrator’s decision made under section 169.37.
-> 2013, c. 31, s. 11.
+> 2013, c. 31, s. 11; 2018, c. 10, s. 51.
 
 
 
@@ -5500,16 +5916,31 @@ where
 
 **Arbitrator’s decision**
 
-**169.37** The arbitrator’s decision must establish any operational term described in paragraph 169.31(1)(a), (b) or (c), any term for the provision of a service described in paragraph 169.31(1)(d) or any term with respect to the application of a charge described in paragraph 169.31(1)(e), or any combination of those terms, that the arbitrator considers necessary to resolve the matters that are referred to him or her for arbitration. In making his or her decision, the arbitrator must have regard to the following:
-- **(a)** the traffic to which the service obligations relate;
-- **(b)** the service that the shipper requires with respect to the traffic;
-- **(c)** any undertaking described in paragraph 169.32(1)(c) that is contained in the shipper’s submission;
-- **(d)** the railway company’s service obligations under section 113 to other shippers and the railway company’s obligations to persons and other companies under section 114;
-- **(e)** the railway company’s obligations, if any, with respect to a public passenger service provider;
-- **(f)** the railway company’s and the shipper’s operational requirements and restrictions;
-- **(g)** the question of whether there is available to the shipper an alternative, effective, adequate and competitive means of transporting the goods to which the service obligations relate; and
-- **(h)** any information that the arbitrator considers relevant.
-> 2013, c. 31, s. 11.
+**169.37** 
+
+- **(1)** The arbitrator’s decision must establish the following terms, or any combination of the following terms, that the arbitrator considers necessary to resolve the matters that are referred to him or her for arbitration:
+	- **(a)** any operational term described in paragraph 169.31(1)(a), (b) or (c);
+	- **(b)** any term with respect to an amount described in paragraph 169.31(1)(c.1) if the matter in respect of the amount has been submitted by the shipper for arbitration;
+	- **(c)** any term for the provision of a service described in paragraph 169.31(1)(d);
+	- **(d)** any term with respect to the application of a charge described in paragraph 169.31(1)(e); or
+	- **(e)** any term with respect to the dispute resolution process described in paragraph 169.31(1)(f).
+
+**Elements to consider**
+
+- **(2)** In making the decision, the arbitrator must have regard to the following:
+	- **(a)** the traffic to which the service obligations relate;
+	- **(b)** the service that the shipper requires with respect to the traffic;
+	- **(c)** any undertaking described in paragraph 169.32(1)(c) that is contained in the shipper’s submission;
+	- **(d)** the railway company’s obligations under this Act in respect of the operation of the railway;
+	- **(e)** the railway company’s obligations, if any, with respect to a public passenger service provider;
+	- **(f)** the railway company’s and the shipper’s operational requirements and restrictions;
+	- **(g)** the question of whether there is available to the shipper an alternative, effective, adequate and competitive means of transporting the goods to which the service obligations relate; and
+	- **(h)** any information that the arbitrator considers relevant.
+
+**Efficiency**
+
+- **(3)** The arbitrator shall establish a term with respect to an amount described in paragraph 169.31(1)(c.1) in a manner that encourages the efficient movement of the shipper’s traffic and the performance of the railway system and that is balanced between the shipper and the railway company.
+> 2013, c. 31, s. 11; 2018, c. 10, s. 52.
 
 
 
@@ -5756,19 +6187,19 @@ as a provision, requirement or condition the contravention of which may be proce
 		- **(i)** $5,000, in the case of an individual, and
 		- **(ii)** $25,000, in the case of a corporation.
 
-**Regulation-making powers — railway company’s obligations**
-
-- **(1.1)** The Agency may, by regulation,
-	- **(a)** designate any requirement imposed on a railway company in an arbitrator’s decision made under section 169.37 as a requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180; and
-	- **(b)** prescribe the maximum amount payable for each violation, but the amount shall not be more than $100,000.
+- **(1.1)** [Repealed, 2018, c. 10, s. 53]
 
 **Regulations by Minister**
 
 - **(2)** The Minister may, by regulation,
-	- **(a)** designate as a provision or requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180 any provision of section 51 or of any regulation made under section 50 or 51, or any requirement of any of those provisions; and
+	- **(a)** designate as a provision or requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180 any provision of section 51 or 51.2 or any provision of any regulation made under section 50 or 51, or any requirement of section 51 or 51.2 or those regulations; and
 	- **(b)** prescribe the maximum amount payable for each violation, but the amount shall not exceed
 		- **(i)** $5,000, in the case of an individual, and
 		- **(ii)** $25,000, in the case of a corporation.
+
+**Regulations made under subsection 50(1.01)**
+
+- **(2.01)** The contravention of any provision of a regulation made under subsection 50(1.01) may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $25,000.
 
 **Sections 93.1 or 94**
 
@@ -5779,7 +6210,7 @@ as a provision, requirement or condition the contravention of which may be proce
 - **(2.2)** The contravention of subsection 155.7(1) or any of subsections 155.84(1) to (3) may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $100,000.
 
 - **(3)** [Repealed, 2014, c. 8, s. 9]
-> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9; 2015, c. 31, s. 11.
+> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9; 2015, c. 31, s. 11; 2018, c. 10, s. 53.
 
 
 
@@ -5789,7 +6220,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **178** 
 
-- **(1)** The Agency, in respect of a violation referred to in subsection 177(1), (1.1) or (2.1), or the Minister, in respect of a violation referred to in subsection 177(2) or (2.2), may
+- **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (2.1), or the Minister, in respect of a violation referred to in subsection 177(2), (2.01) or (2.2), may
 	- **(a)** designate persons, or classes of persons, as enforcement officers who are authorized to issue notices of violation; and
 	- **(b)** establish the form and content of notices of violation.
 
@@ -5808,7 +6239,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **Assistance to enforcement officers**
 
 - **(5)** Any person from whom documents or data are requested pursuant to subsection (4) shall provide all such reasonable assistance as is in their power to enable the enforcement officer making the request to carry out the enforcement officer’s duties and shall furnish such information as the enforcement officer reasonably requires for the purposes of this Act.
-> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10; 2015, c. 31, ss. 12, 38.
+> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10; 2015, c. 31, ss. 12, 38; 2018, c. 10, ss. 54, 96.
 
 
 
@@ -5838,9 +6269,9 @@ as a provision, requirement or condition the contravention of which may be proce
 **Issuance of notice of violation**
 
 **180** If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue and serve on the person a notice of violation that names the person, identifies the violation and sets out
-- **(a)** the penalty, established in accordance with the regulations made under section 177, for the violation that the person is liable to pay; and
+- **(a)** the penalty for the violation that the person is liable to pay; and
 - **(b)** the particulars concerning the time for paying and the manner of paying the penalty.
-> 1996, c. 10, s. 180; 2001, c. 29, s. 52; 2007, c. 19, s. 52.
+> 1996, c. 10, s. 180; 2001, c. 29, s. 52; 2007, c. 19, s. 52; 2018, c. 10, s. 55.
 
 
 
@@ -5904,8 +6335,8 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **180.5** If, at the conclusion of a review under section 180.3, the member of the Tribunal who conducts the review determines that
 - **(a)** the person has not contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and, subject to section 180.6, no further proceedings under this Part shall be taken against the person in respect of the alleged contravention; or
-- **(b)** the person has contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and, subject to any regulations made under section 177, of the amount determined by the member of the Tribunal to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time that the member of the Tribunal may allow, the member of the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
-> 2007, c. 19, s. 52.
+- **(b)** the person has contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and of the amount determined by the member of the Tribunal to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time that the member of the Tribunal may allow, the member of the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
+> 2007, c. 19, s. 52; 2018, c. 10, s. 56.
 
 
 
@@ -5927,8 +6358,8 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **Certificate**
 
-- **(4)** If the appeal panel finds that a person has contravened the designated provision, the panel shall without delay inform the person of the finding and, subject to any regulations made under section 177, of the amount determined by the panel to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time allowed by the Tribunal, the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
-> 2007, c. 19, s. 52.
+- **(4)** If the appeal panel finds that a person has contravened the designated provision, the panel shall without delay inform the person of the finding and of the amount determined by the panel to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time allowed by the Tribunal, the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
+> 2007, c. 19, s. 52; 2018, c. 10, s. 57.
 
 
 
@@ -5957,12 +6388,12 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **180.8** 
 
-- **(1)** In the case of a violation referred to in subsection 177(1) or (1.1), every reference to the “Minister” in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
+- **(1)** In the case of a violation referred to in subsection 177(1), every reference to the “Minister” in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
 
 **Delegation by Minister**
 
-- **(2)** In the case of a violation referred to in subsection 177(2) or (2.2), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
-> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12; 2015, c. 31, ss. 13, 38.
+- **(2)** In the case of a violation referred to in subsection 177(2), (2.01) or (2.2), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
+> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12; 2015, c. 31, ss. 13, 38; 2018, c. 10, ss. 58, 96.
 
 
 
@@ -6688,10 +7119,10 @@ Barley, pot
 Barley sprouts
 
 
-Bean (except soybean) derivatives (flour, protein, isolates, fibre)
+Bean (including soybean) derivatives (flour, protein, isolates, fibre)
 
 
-Beans (except soybeans), including faba beans, splits and screenings
+Beans, including soybeans, faba beans, splits and screenings
 
 
 Bran
@@ -6760,6 +7191,9 @@ Meal, rapeseed or canola
 Meal, rye
 
 
+Meal, soybean
+
+
 Meal, wheat
 
 
@@ -6767,6 +7201,9 @@ Meal, oil cake, linseed
 
 
 Meal, oil cake, rapeseed or canola
+
+
+Meal, oil cake, soybean
 
 
 Meal, oil cake, sunflower seed
@@ -6796,6 +7233,9 @@ Oil, linseed
 Oil, rapeseed or canola
 
 
+Oil, soybean
+
+
 Oil, sunflower seed
 
 
@@ -6803,6 +7243,9 @@ Oil cake, linseed
 
 
 Oil cake, rapeseed or canola
+
+
+Oil cake, soybean
 
 
 Oil cake, sunflower seed
@@ -6843,6 +7286,8 @@ Wheat, rolled
 
 Wheat germ
 
+
+> 1996, c. 10, Sch. II; 2018, c. 10, s. 59.1.
 
 
 
