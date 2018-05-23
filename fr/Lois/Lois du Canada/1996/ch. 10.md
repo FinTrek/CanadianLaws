@@ -11,7 +11,7 @@ Sanctionnée sur le 29 mai 1996
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -112,6 +112,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***matériel roulant*** Toute sorte de voitures et de matériel muni de roues destinés à servir sur les rails d’un chemin de fer, y compris les locomotives, machines actionnées par quelque force motrice, voitures automotrices, tenders, chasse-neige et *flangers*. (*rolling stock*)
 
+***matière radioactive*** S’entend au sens du paragraphe 1(1) du [Règlement sur l’emballage et le transport des substances nucléaires (2015)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2015/145.md). Sont notamment visées par la présente définition les marchandises dangereuses dont le numéro ONU — indiqué à la colonne 1 de la Liste des marchandises dangereuses figurant au chapitre 3.2 des Recommandations relatives au transport des marchandises dangereuses — Règlement type, 18<sup>e</sup> édition révisée, 2013, publiées par les Nations Unies — est l’un des numéros suivants : 2908 à 2913, 2915 à 2917, 2919, 2977, 2978, 3321 à 3333 et 3507. (*radioactive material*)
+
 ***matière toxique par inhalation*** Gaz ou matière inclus dans la classe 2.3 du [Règlement sur le transport des marchandises dangereuses](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/286.md) ou, en application de l’alinéa 2.28c) de ce règlement, inclus dans la classe 6.1 du même règlement. Sont notamment comprises dans la présente définition les marchandises dangereuses dont le numéro ONU indiqué à la colonne 1 de la Liste des marchandises dangereuses figurant au chapitre 3.2 des Recommandations relatives au transport des marchandises dangereuses — Règlement type, 18<sup>e</sup> édition révisée, 2013, publiées par les Nations Unies, est énuméré à l’annexe III. (*TIH (Toxic Inhalation Hazard) material*)
 
 ***membre*** Tout membre de l’Office nommé en vertu du paragraphe 7(2) et tout membre temporaire de l’Office. (*member*)
@@ -126,8 +128,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***transporteur*** Personne se livrant au transport de passagers ou de marchandises par un moyen de transport assujetti à la compétence législative du Parlement. (*carrier*)
 
+***transporteur ferroviaire de catégorie 1*** S’entend des transporteurs ferroviaires suivants :
+- **a)** la Compagnie des chemins de fer nationaux du Canada;
+- **b)** la Compagnie de chemin de fer Canadien Pacifique;
+- **c)** la BNSF Railway Company;
+- **d)** la CSX Transportation, Inc.;
+- **e)** la Norfolk Southern Railway Company;
+- **f)** l’Union Pacific Railroad Company;
+- **g)** les compagnies de chemin de fer, au sens de l’article 87, désignées par règlement. (*class 1 rail carrier*)
+
 ***vice-président*** Le vice-président de l’Office. (*Vice-Chairperson*)
-> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29, ch. 31, art. 2.
+> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29, ch. 31, art. 2; 2018, ch. 10, art. 2.
+
+
+
+
+
+## Pouvoir du gouverneur en conseil
+
+
+
+**Pouvoir du gouverneur en conseil**
+
+**6.1** Le gouverneur en conseil peut, par règlement, désigner toute compagnie de chemin de fer pour l’application de l’alinéa g) de la définition de transporteur ferroviaire de catégorie 1.
+> 2018, ch. 10, art. 3.
 
 
 
@@ -464,7 +488,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 - **(4)** L’Office peut, notamment sous condition, apporter ou autoriser toute modification aux procédures prises devant lui.
 
 - **(5)** [Abrogé, 2008, ch. 5, art. 1]
-> 1996, ch. 10, art. 27; 2008, ch. 5, art. 1.
+> 1996, ch. 10, art. 27; 2008, ch. 5, art. 1; 2018, ch. 10, art. 4(A).
 
 
 
@@ -614,6 +638,31 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 
 
+#### Services d’information et de règlement informel de différends
+
+
+
+**Information et conseils**
+
+**36.11** 
+
+- **(1)** L’Office prend des mesures visant à informer le public sur les dispositions prévues aux parties III et IV, notamment les mesures suivantes :
+	- **a)** publier sur son site Internet des informations générales;
+	- **b)** renseigner tout intéressé et le conseiller sur la façon de se prévaloir des recours que ces dispositions prévoient en tenant compte de la situation particulière de l’intéressé.
+
+**Règlement informel**
+
+- **(2)** Tout membre de l’Office ou de son personnel peut tenter de résoudre de façon informelle avec une compagnie de chemin de fer les questions soulevées par l’intéressé qu’il a renseigné et conseillé. Ce faisant, le membre de l’Office ou de son personnel ne peut divulguer l’identité de l’intéressé à la compagnie que si celui-ci y consent.
+
+**Impossibilité d’agir**
+
+- **(3)** La personne qui exerce les attributions conférées au titre de l’alinéa (1)b) ou du paragraphe (2) ne peut agir dans le cadre de procédures devant l’Office relativement aux questions à l’égard desquelles elle a fourni des renseignements, des conseils ou des services de règlement informel de différends.
+> 2018, ch. 10, art. 5.
+
+
+
+
+
 #### Médiation ou arbitrage
 
 
@@ -722,10 +771,18 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 - **(2)** L’Office joint à ce rapport son évaluation de l’effet de la présente loi et des difficultés rencontrées dans l’application de celle-ci.
 
+**Transport ferroviaire**
+
+- **(2.1)** L’Office inclut dans le rapport le nombre et la nature des demandes, plaintes et soumissions de questions à l’arbitrage qui ont été présentées au titre des parties III ou IV, la manière dont elles ont été traitées et les tendances systémiques qui se sont manifestées. Le rapport précise le nombre de différends qui ont fait l’objet d’une médiation de l’Office et le nombre de différends réglés par la médiation de l’Office.
+
+**Renseignements confidentiels**
+
+- **(2.2)** L’Office veille à ce que le rapport ne contienne aucun renseignement confidentiel.
+
 **Dépôt**
 
 - **(3)** Dans les trente jours de séance de chaque chambre du Parlement suivant la réception du rapport par le ministre, celui-ci le fait déposer devant elle.
-> 1996, ch. 10, art. 42; 2013, ch. 31, art. 2.
+> 1996, ch. 10, art. 42; 2013, ch. 31, art. 2; 2018, ch. 10, art. 6.
 
 
 
@@ -822,14 +879,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 ### Ministre
 
 
-
-#### Accords de mise en oeuvre
-
-
-
-**Accords de mise en oeuvre**
-
-**48** Le ministre peut, avec l’agrément du gouverneur en conseil et aux conditions précisées par celui-ci, conclure des accords de mise en oeuvre de la politique nationale des transports énoncée à l’article 5 ou des accords sur les questions de transport que le ministre estime indiquées.
+**48** [Abrogé, 2018, ch. 10, art. 7]
 
 
 
@@ -840,7 +890,19 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **Enquêtes ordonnées par le ministre**
 
-**49** Le ministre peut déléguer à l’Office la charge d’enquêter sur toute question de transport relevant de la compétence législative du Parlement et de lui faire rapport de ses conclusions selon les modalités et dans le délai qu’il fixe.
+**49** 
+
+- **(1)** Le ministre peut déléguer à l’Office la charge d’enquêter sur toute question de transport relevant de la compétence législative du Parlement et de lui faire rapport de ses conclusions selon les modalités et dans le délai qu’il fixe.
+
+**Pouvoirs**
+
+- **(2)** Il est entendu que les articles 38 et 39 s’appliquent à l’égard de l’enquête.
+
+**Résumé des conclusions**
+
+- **(3)** L’Office rend public un résumé de ses conclusions qui ne contient aucun renseignement confidentiel.
+> 1996, ch. 10, art. 49; 2018, ch. 10, art. 8.
+
 
 
 
@@ -862,9 +924,15 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 	- **e.1)** de la surveillance du système de transport et de manutention du grain;
 	- **f)** de l’application de la présente loi.
 
+**Transporteur ferroviaire de catégorie 1**
+
+- **(1.01)** Le gouverneur en conseil peut, par règlement, exiger des transporteurs ferroviaires de catégorie 1 ou de toute catégorie de tels transporteurs qu’ils fournissent au ministre ou à l’Office des renseignements, autres que les renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), aux dates, en la forme et de la manière que le règlement peut préciser, en vue :
+	- **a)** de l’établissement du prix de l’interconnexion de longue distance visé à l’alinéa 134(1)a);
+	- **b)** de la communication au public des indicateurs de service et de rendement.
+
 **Personnes visées**
 
-- **(1.1)** Les renseignements peuvent être exigés des personnes suivantes :
+- **(1.1)** Pour l’application du paragraphe (1), les renseignements peuvent être exigés des personnes suivantes :
 	- **a)** les transporteurs;
 	- **b)** les propriétaires ou exploitants :
 		- **(i)** d’entreprises de transport,
@@ -879,10 +947,11 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **Renseignements**
 
-- **(2)** Peuvent notamment être exigés :
-	- **a)** des données sur la situation financière;
-	- **b)** des données statistiques relatives au trafic et à l’exploitation;
-	- **c)** des renseignements relatifs à l’aptitude et à la propriété.
+- **(2)** Peuvent notamment être exigés sous le régime du présent article :
+	- **a)** des renseignements sur la situation financière;
+	- **b)** des renseignements relatifs au trafic et à l’exploitation;
+	- **c)** des renseignements relatifs à l’aptitude et à la propriété;
+	- **d)** des renseignements sur le rendement des transporteurs aériens et des fournisseurs de services en matière de transport aérien quant à la qualité du service et à l’expérience passager.
 
 **Restriction**
 
@@ -894,18 +963,18 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **Rapport sur la surveillance du système de transport et de manutention du grain**
 
-- **(3.2)** Le ministre doit préparer, dans les six mois suivant chaque campagne agricole, un rapport sur la surveillance du système de transport et de manutention du grain et le faire déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa préparation, si le ministre :
+- **(3.2)** Le ministre doit préparer, dans les six mois suivant chaque campagne agricole, un rapport sur la surveillance du système de transport et de manutention du grain et le faire déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa préparation, si le ministre :
 	- **a)** prend un règlement en vertu de l’alinéa (1)e.1);
 	- **b)** utilise ou communique les renseignements visant la surveillance du système de transport et de manutention du grain obtenus en application du règlement.
 
 **Exception**
 
-- **(4)** Le ministre peut exempter un transporteur ou l’exploitant d’une entreprise de transport de l’application de tout ou partie du règlement pris en vertu du paragraphe (1) s’il est convaincu qu’il n’est pas en mesure de fournir les renseignements en cause.
+- **(4)** Le ministre peut exempter un transporteur ou l’exploitant d’une entreprise de transport de l’application de tout ou partie du règlement pris en vertu du présent article s’il est convaincu qu’il n’est pas en mesure de fournir les renseignements en cause.
 
 **Consultations**
 
 - **(5)** Le ministre peut consulter l’Office et Statistique Canada avant de prendre un règlement en vertu du présent article.
-> 1996, ch. 10, art. 50; 1998, ch. 10, art. 163; 1999, ch. 31, art. 36(A); 2000, ch. 16, art. 1; 2007, ch. 19, art. 8; 2013, ch. 31, art. 3(F).
+> 1996, ch. 10, art. 50; 1998, ch. 10, art. 163; 1999, ch. 31, art. 36(A); 2000, ch. 16, art. 1; 2007, ch. 19, art. 8; 2013, ch. 31, art. 3(F); 2018, ch. 10, art. 9.
 
 
 
@@ -915,7 +984,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **50.01** 
 
-- **(1)** Le règlement pris en vertu du paragraphe 50(1) peut incorporer par renvoi tout document établi par une personne ou un organisme autre que le ministre.
+- **(1)** Le règlement pris en vertu des paragraphes 50(1) ou (1.01) peut incorporer par renvoi tout document établi par une personne ou un organisme autre que le ministre.
 
 **Portée de l’incorporation par renvoi**
 
@@ -932,7 +1001,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Ni enregistrement ni publication**
 
 - **(5)** Il est entendu que le document incorporé par renvoi n’a pas à être transmis pour enregistrement ni à être publié dans la Gazette du Canada du seul fait de son incorporation.
-> 2013, ch. 31, art. 4.
+> 2013, ch. 31, art. 4; 2018, ch. 10, art. 10.
 
 
 
@@ -949,8 +1018,8 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **Renseignements déjà fournis**
 
-**50.1** Pour l’application du paragraphe 50(1), le ministre peut demander, au ministère ou à l’organisme fédéral à qui les renseignements ont déjà été fournis, de les lui communiquer.
-> 2007, ch. 19, art. 9.
+**50.1** Pour l’application des paragraphes 50(1) ou (1.01), le ministre peut demander, au ministère ou à l’organisme fédéral à qui les renseignements ont déjà été fournis, de les lui communiquer.
+> 2007, ch. 19, art. 9; 2018, ch. 10, art. 11.
 
 
 
@@ -965,9 +1034,9 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Communication des renseignements**
 
 - **(2)** Le paragraphe (1) n’a pas pour effet :
-	- **a)** d’empêcher la communication de renseignements à l’Office, à un ministre fédéral ou à son représentant, ou à un employé ou conseiller de Sa Majesté du chef du Canada dans le cadre de l’application de la présente loi ou de toute autre loi fédérale ou en vue de l’élaboration d’orientations;
+	- **a)** d’empêcher la communication de renseignements à l’Office, à l’administrateur nommé en vertu de l’article 153.7, à Statistique Canada, à un ministre fédéral ou à son représentant, ou à un employé ou conseiller de Sa Majesté du chef du Canada dans le cadre de l’application de la présente loi ou de toute autre loi fédérale ou en vue de l’élaboration d’orientations;
 	- **b)** d’empêcher la communication de renseignements à toute personne visée à l’alinéa 50(1.1)c) si cela est nécessaire dans l’exercice de ses attributions;
-	- **c)** d’empêcher la communication de renseignements sous forme de compilation qui ne permet pas d’associer les renseignements obtenus d’une personne identifiable à celle-ci;
+	- **c)** d’empêcher la communication, notamment au public, de renseignements sous forme de compilation qui ne permet pas d’associer les renseignements obtenus d’une personne identifiable à celle-ci;
 	- **d)** d’empêcher la communication par le ministre de renseignements visant la surveillance du système de transport et de manutention du grain;
 	- **e)** d’empêcher la communication de renseignements auxquels le public a accès ou qu’il peut obtenir.
 
@@ -982,7 +1051,49 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Obligation de ceux à qui les renseignements sont communiqués**
 
 - **(4)** La personne à qui le ministre communique des renseignements qui sont confidentiels en application de la présente loi ne peut, sciemment, les communiquer à son tour; elle prend les mesures nécessaires pour en préserver le caractère confidentiel.
-> 1996, ch. 10, art. 51; 2000, ch. 16, art. 2; 2007, ch. 19, art. 10.
+> 1996, ch. 10, art. 51; 2000, ch. 16, art. 2; 2007, ch. 19, art. 10; 2018, ch. 10, art. 12.
+
+
+
+
+
+**Publication**
+
+**51.1** Malgré le paragraphe 51(1), le ministre peut rendre publics les renseignements prévus à l’alinéa 50(2)d).
+> 2018, ch. 10, art. 13.
+
+
+
+
+
+**Renseignements confidentiels — Office**
+
+**51.2** Les renseignements qui doivent être fournis à l’Office au titre des règlements pris en vertu de l’alinéa 50(1.01)a) deviennent confidentiels dès leur réception par celui-ci. Nul ne peut, sciemment, les communiquer sans l’autorisation de la personne qui les a fournis, sauf dans le cadre d’une poursuite pour infraction à l’article 173.
+> 2018, ch. 10, art. 13.
+
+
+
+
+
+**Utilisation des renseignements**
+
+**51.3** Les renseignements fournis au ministre ou à l’Office au titre des règlements pris en vertu de l’alinéa 50(1.01)a) ne peuvent être utilisés par l’Office que dans le but d’établir le prix de l’interconnexion de longue distance visé à l’alinéa 134(1)a). Malgré le paragraphe 51(4) et l’article 51.2, l’Office peut, dans le même but, les communiquer sous forme de compilation.
+> 2018, ch. 10, art. 13.
+
+
+
+
+
+**Publication**
+
+**51.4** 
+
+- **(1)** L’Office publie sur son site Internet, dans les deux jours suivant sa réception, tout renseignement relatif aux indicateurs de service et de rendement fourni aux termes des règlements pris en vertu de l’alinéa 50(1.01)b) qu’il reçoit des transporteurs ferroviaires de catégorie 1 ou du ministre.
+
+**Renseignements reçus du ministre**
+
+- **(2)** Le paragraphe 51(4) ne s’applique pas à la publication, en application du paragraphe (1), des renseignements reçus du ministre.
+> 2018, ch. 10, art. 13.
 
 
 
@@ -1596,6 +1707,24 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 
 
 
+**Personne lésée**
+
+**67.3** Malgré les articles 67.1 et 67.2, seule une personne lésée peut déposer une plainte contre le titulaire d’une licence intérieure relativement à toute condition de transport visant une obligation prévue par un règlement pris en vertu du paragraphe 86.11(1).
+> 2018, ch. 10, art. 17.
+
+
+
+
+
+**Application de la décision à d’autres passagers**
+
+**67.4** L’Office peut, dans la mesure qu’il estime indiquée, rendre applicable à une partie ou à l’ensemble des passagers du même vol que le plaignant, tout ou partie de sa décision relative à la plainte de celui-ci portant sur une condition de transport visant une obligation prévue par un règlement pris en vertu de l’alinéa 86.11(1)b).
+> 2018, ch. 10, art. 17.
+
+
+
+
+
 **Non-application de certaines dispositions**
 
 **68** 
@@ -1935,7 +2064,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **86** 
 
-- **(1)** L’Office peut, par règlement :
+- **(1)** L’Office peut, par règlement :
 	- **a)** classifier les services aériens;
 	- **b)** classifier les aéronefs;
 	- **c)** prévoir les exigences relatives à la couverture d’assurance responsabilité pour les services aériens et les aéronefs;
@@ -1943,10 +2072,11 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 	- **e)** régir la délivrance, la modification et l’annulation des permis d’affrètements internationaux;
 	- **f)** fixer la durée de validité et les modalités de renouvellement des licences;
 	- **g)** régir la modification des licences;
-	- **h)** prendre toute mesure concernant le trafic et les tarifs, prix, taux, frais et conditions de transport liés au service international, notamment prévoir qu’il peut :
+	- **h)** prendre toute mesure concernant le trafic et les tarifs, prix, taux, frais et conditions de transport liés au service international, notamment prévoir qu’il peut :
 		- **(i)** annuler ou suspendre des tarifs, prix, taux ou frais,
 		- **(ii)** établir de nouveaux tarifs, prix, taux ou frais en remplacement de ceux annulés,
-		- **(iii)** enjoindre à tout licencié ou transporteur de prendre les mesures correctives qu’il estime indiquées et de verser des indemnités aux personnes lésées par la non-application par le licencié ou transporteur des prix, taux, frais ou conditions de transport applicables au service et qui figuraient au tarif,
+		- **(iii)** sur dépôt d’une plainte écrite, laquelle, si elle se rapporte à des conditions de transport visant des obligations prévues par un règlement pris en vertu du paragraphe 86.11(1), doit être déposée par la personne lésée, enjoindre à tout licencié ou transporteur de prendre les mesures correctives qu’il estime indiquées et de verser des indemnités à la personne lésée par la non-application par le licencié ou le transporteur des prix, taux, frais ou conditions de transport applicables au service et qui figuraient au tarif,
+		- **(iii.1)** rendre applicable, dans la mesure qu’il estime indiquée, à une partie ou à l’ensemble des passagers du même vol que l’auteur d’une plainte qui porte sur une condition de transport visant une obligation prévue par un règlement pris en vertu de l’alinéa 86.11(1)b), tout ou partie de sa décision relative à cette plainte,
 		- **(iv)** obliger tout licencié ou transporteur à publier les conditions de transport du service international sur tout site Internet qu’il utilise pour vendre ce service;
 	- **i)** demander aux licenciés de déposer auprès de lui les documents ainsi que les renseignements relatifs aux activités liées à leurs licences et nécessaires à l’exercice de ses attributions dans le cadre de la présente partie, et fixer les modalités de temps ou autres du dépôt;
 	- **j)** demander aux licenciés d’inclure dans les contrats ou ententes conclus avec les grossistes en voyages, voyagistes, affréteurs ou autres personnes associées à la prestation de services aériens au public les conditions prévues dans les règlements ou d’assujettir ces contrats ou ententes à ces conditions;
@@ -1960,7 +2090,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(2)** Les obligations imposées par la présente partie relativement à la qualité de Canadien, au document d’aviation canadien et à la police d’assurance responsabilité réglementaire en matière de service aérien ne peuvent faire l’objet de l’exemption prévue à l’alinéa (1)l).
 
 - **(3)** [Abrogé, 2007, ch. 19, art. 26]
-> 1996, ch. 10, art. 86; 2000, ch. 15, art. 8; 2007, ch. 19, art. 26.
+> 1996, ch. 10, art. 86; 2000, ch. 15, art. 8; 2007, ch. 19, art. 26; 2018, ch. 10, art. 18.
 
 
 
@@ -1980,6 +2110,40 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 - **(3)** Les règlements peuvent également préciser, pour l’application du paragraphe (2), les types de coûts, frais, droits et taxes visés à ce paragraphe.
 > 2007, ch. 19, art. 27.
+
+
+
+
+
+**Règlements — obligations des transporteurs aériens envers les passagers**
+
+**86.11** 
+
+- **(1)** L’Office prend, après consultation du ministre, des règlements relatifs aux vols à destination, en provenance et à l’intérieur du Canada, y compris les vols de correspondance, pour :
+	- **a)** régir l’obligation, pour le transporteur, de rendre facilement accessibles aux passagers en langage simple, clair et concis les conditions de transport — et les renseignements sur les recours possibles contre le transporteur — qui sont précisés par règlements;
+	- **b)** régir les obligations du transporteur dans les cas de retard et d’annulation de vols et de refus d’embarquement, notamment :
+		- **(i)** les normes minimales à respecter quant au traitement des passagers et les indemnités minimales qu’il doit verser aux passagers pour les inconvénients qu’ils ont subis, lorsque le retard, l’annulation ou le refus d’embarquement lui est attribuable,
+		- **(ii)** les normes minimales relatives au traitement des passagers que doit respecter le transporteur lorsque le retard, l’annulation ou le refus d’embarquement lui est attribuable, mais est nécessaire par souci de sécurité, notamment en cas de défaillance mécanique,
+		- **(iii)** l’obligation, pour le transporteur, de faire en sorte que les passagers puissent effectuer l’itinéraire prévu lorsque le retard, l’annulation ou le refus d’embarquement est attribuable à une situation indépendante de sa volonté, notamment un phénomène naturel ou un événement lié à la sécurité,
+		- **(iv)** l’obligation, pour le transporteur, de fournir des renseignements et de l’assistance en temps opportun aux passagers;
+	- **c)** prévoir les indemnités minimales à verser par le transporteur aux passagers en cas de perte ou d’endommagement de bagage;
+	- **d)** régir l’obligation, pour le transporteur, de faciliter l’attribution, aux enfants de moins de quatorze ans, de sièges à proximité d’un parent ou d’un tuteur sans frais supplémentaires et de rendre facilement accessibles aux passagers ses conditions de transport et pratiques à cet égard;
+	- **e)** exiger du transporteur qu’il élabore des conditions de transport applicables au transport d’instruments de musique;
+	- **f)** régir les obligations du transporteur en cas de retard de plus de trois heures sur l’aire de trafic, notamment celle de fournir des renseignements et de l’assistance en temps opportun aux passagers et les normes minimales à respecter quant au traitement des passagers;
+	- **g)** régir toute autre obligation du transporteur sur directives du ministre données en vertu du paragraphe (2).
+
+**Directives ministérielles**
+
+- **(2)** Le ministre peut donner des directives à l’Office lui demandant de régir par un règlement pris en vertu de l’alinéa (1)g) toute autre obligation du transporteur envers les passagers. L’Office est tenu de se conformer à ces directives.
+
+**Restriction**
+
+- **(3)** Nul ne peut obtenir du transporteur une indemnité au titre d’un règlement pris en vertu du paragraphe (1) dans le cas où il a déjà été indemnisé pour le même événement dans le cadre d’un autre régime de droits des passagers que celui prévu par la présente loi.
+
+**Obligations réputées figurer au tarif**
+
+- **(4)** Les obligations du transporteur prévues par un règlement pris en vertu du paragraphe (1) sont réputées figurer au tarif du transporteur dans la mesure où le tarif ne prévoit pas des conditions de transport plus avantageuses que ces obligations.
+> 2018, ch. 10, art. 19.
 
 
 
@@ -2010,7 +2174,19 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 ***administration de transport de banlieue*** Entité qui est contrôlée par le gouvernement fédéral ou provincial ou une administration municipale, ou qui lui appartient, et qui fournit des services publics de transport de passagers. (*urban transit authority*)
 
-***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
+***axe Québec-Windsor*** La zone du Canada bornée :
+- **a)** à l’est par la longitude 70,50° O;
+- **b)** au nord par une ligne droite reliant un premier point situé à la latitude 47,45° N et à la longitude 70,50° O à un second point situé à la latitude 43,70° N et à la longitude 83,25° O;
+- **c)** à l’ouest par la longitude 83,25° O;
+- **d)** au sud par la frontière canado-américaine. (*Quebec–Windsor corridor*)
+
+***axe Vancouver-Kamloops*** La zone du Canada bornée :
+- **a)** à l’est par la longitude 121,21° O;
+- **b)** au nord par la latitude 50,83° N;
+- **c)** à l’ouest par la longitude 128,45° O;
+- **d)** au sud par la frontière canado-américaine. (*Vancouver–Kamloops corridor*)
+
+***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
 - **a)** les embranchements et prolongements, les voies de garage et d’évitement, les ponts et tunnels, les gares et stations, les dépôts et quais, le matériel roulant, l’équipement et les fournitures, ainsi que tous les autres biens qui dépendent du chemin de fer;
 - **b)** les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer. (*railway*)
 
@@ -2018,15 +2194,15 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 ***exploitation*** Y sont assimilés l’entretien du chemin de fer et le fonctionnement d’un train. (*operate*)
 
-***loi spéciale*** Loi en vertu de laquelle la compagnie de chemin de fer est autorisée à construire ou à exploiter un chemin de fer, ou loi édictée spécialement au sujet d’un chemin de fer. Sont visées par la présente définition :
+***loi spéciale*** Loi en vertu de laquelle la compagnie de chemin de fer est autorisée à construire ou à exploiter un chemin de fer, ou loi édictée spécialement au sujet d’un chemin de fer. Sont visées par la présente définition :
 - **a)** les lettres patentes qui autorisent une compagnie à construire ou à exploiter un chemin de fer et qui lui ont été accordées avant le 1<sup>er</sup> avril 1969, sous le régime d’une loi quelconque, ainsi que la loi en vertu de laquelle ont été accordées ou confirmées ces lettres patentes;
 - **b)** les lettres patentes constituant en personne morale une compagnie en vertu de l’article 11 de la Loi sur les chemins de fer le 1<sup>er</sup> avril 1969 ou après cette date et dont les objets sont la construction ou l’exploitation d’un chemin de fer au Canada. (*Special Act*)
 
 ***pétrole brut*** Pétrole naturel non raffiné ou bitume dilué ou autre mélange non raffiné d’hydrocarbures de composition semblable à celle du pétrole naturel non raffiné. Est notamment compris dans la présente définition le pétrole brut dont le numéro ONU indiqué à la colonne 1 de la Liste des marchandises dangereuses figurant au chapitre 3.2 des Recommandations relatives au transport des marchandises dangereuses — Règlement type, 18<sup>e</sup> édition révisée, 2013, publiées par les Nations Unies, est 1267 ou 3494. (*crude oil*)
 
-***point de destination*** Le point de transfert du trafic, pour une ligne faisant l’objet d’un transfert visé aux paragraphes 128(4) ou 129(2), depuis la ligne d’une compagnie de chemin de fer sur celle d’une compagnie non assujettie à la présente partie. (*point of destination*)
+***point de destination*** À l’égard d’une ligne faisant l’objet d’un transfert visé au paragraphe 128(4) ou à l’article 131, s’entend du point de transfert du trafic depuis la ligne d’une compagnie de chemin de fer sur celle d’une compagnie non assujettie à la présente partie. (*point of destination*)
 
-***point d’origine*** Le point de transfert du trafic, pour une ligne faisant l’objet d’un transfert visé aux paragraphes 128(4) ou 129(2), sur la ligne d’une compagnie de chemin de fer depuis celle d’une compagnie non assujettie à la présente partie. (*point of origin*)
+***point d’origine*** À l’égard d’une ligne faisant l’objet d’un transfert visé au paragraphe 128(4) ou à l’article 131, s’entend du point de transfert du trafic sur la ligne d’une compagnie de chemin de fer depuis celle d’une compagnie non assujettie à la présente partie. (*point of origin*)
 
 ***région métropolitaine*** Région que Statistique Canada a classée comme région métropolitaine de recensement lors de son dernier recensement. (*metropolitan area*)
 
@@ -2038,8 +2214,8 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 ***terres*** Y sont assimilés les intérêts fonciers et, pour la province de Québec, les droits du locataire d’une terre. (*land*)
 
-***transport*** ou ***trafic*** Le transport des marchandises et l’emploi du matériel nécessaire à ces fins. (*traffic*)
-> 1996, ch. 10, art. 87; 2007, ch. 19, art. 28; 2015, ch. 31, art. 4.
+***transport*** ou ***trafic*** Le transport des marchandises et l’emploi du matériel nécessaire à ces fins. (*traffic*)
+> 1996, ch. 10, art. 87; 2007, ch. 19, art. 28; 2015, ch. 31, art. 4; 2018, ch. 10, art. 20.
 
 
 
@@ -2539,102 +2715,23 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 
-
-#### Insolvabilité
-
-
-
-**Dépôt du projet de concordat en Cour fédérale**
-
-**106** 
-
-- **(1)** Les administrateurs de la compagnie de chemin de fer qui est insolvable peuvent dresser un projet de concordat entre celle-ci et ses créanciers et le déposer à la Cour fédérale.
-
-**Mise en cause des actionnaires et du capital social**
-
-- **(2)** Le projet peut comprendre des stipulations établissant les droits réciproques des actionnaires de la compagnie et visant, au besoin, à augmenter le capital-actions et à obtenir des capitaux d’emprunt supplémentaires.
-
-**Documents à déposer**
-
-- **(3)** Sont produits, avec le projet :
-	- **a)** une déclaration écrite, portant que la compagnie est incapable de s’acquitter de ses obligations envers ses créanciers;
-	- **b)** un affidavit du président et des administrateurs de celle-ci, ou d’une majorité d’entre eux, attestant qu’à leur connaissance la déclaration est véridique.
-
-**Interdiction par la Cour fédérale**
-
-- **(4)** Après le dépôt du projet, la Cour fédérale peut, sur demande de la compagnie, interdire toute action contre celle-ci, selon les modalités qu’elle juge indiquées.
-
-**Restriction**
-
-- **(5)** Malgré toute ordonnance de la Cour fédérale ou de toute autre juridiction interdisant une action contre la compagnie, une personne peut exercer tout droit ou recours — notamment la prise de possession — à l’égard du matériel roulant de la compagnie, ou de ses accessoires ou équipements connexes, en sa qualité de créancier au titre d’un accord constatant une hypothèque, un baillement, un crédit-bail, un dépôt, un bail ou une vente sous condition ou à tempérament, ou au titre d’un accord de garantie, comme fiduciaire ou autrement, sauf :
-	- **a)** si, dans les soixante jours suivant le dépôt du projet ou dans le délai consenti au titre du paragraphe (6), la compagnie accepte d’exécuter toutes ses obligations envers elle;
-	- **b)** s’il a été remédié à tout fait — préalable ou postérieur au dépôt du projet et constituant un défaut — dans les trente jours du défaut ou avant l’expiration du délai mentionné à l’alinéa a), la dernière en date de ces éventualités étant retenue;
-	- **c)** s’il a été remédié, conformément à l’accord, à tout fait qui survient à l’expiration du délai mentionné à l’alinéa a) ou par la suite et qui constitue un défaut au titre de l’accord.
-
-**Prorogation du délai**
-
-- **(6)** La personne peut, sans préjudice de son droit de prendre possession du matériel roulant ou des accessoires ou équipements connexes, ou de celui d’exercer d’autres droits ou recours à leur égard, consentir à la prorogation du délai de soixante jours.
-> 1996, ch. 10, art. 106; 2007, ch. 19, art. 33.
+**106** [Abrogé, 2018, ch. 10, art. 21]
 
 
 
-
-
-**Ratification du concordat**
-
-**107** 
-
-- **(1)** Le projet est ratifié lorsque les actionnaires ordinaires de la compagnie de chemin de fer y consentent à une assemblée extraordinaire convoquée à cette fin et que les trois quarts, en valeur, des personnes suivantes y consentent par écrit :
-	- **a)** les créanciers hypothécaires de la compagnie et les détenteurs d’obligations émises par elle;
-	- **b)** les créanciers de la compagnie à l’égard de loyers ou autres paiements pour l’acquisition du chemin de fer d’une autre compagnie;
-	- **c)** les actionnaires garantis ou privilégiés de la compagnie.
-
-**Ratification par le bailleur**
-
-- **(2)** Si la compagnie est locataire d’un chemin de fer, le projet est ratifié par le bailleur lorsqu’y consentent :
-	- **a)** les actionnaires ordinaires de celui-ci, à une assemblée extraordinaire convoquée à cette fin;
-	- **b)** par écrit, les trois quarts, en valeur, des créanciers hypothécaires, des détenteurs d’obligations émises par le bailleur, et de chaque catégorie d’actionnaires garantis ou privilégiés de celui-ci.
-
-**Non-ratification — catégories désintéressées**
-
-- **(3)** Le projet n’a pas à être ratifié par une catégorie de personnes visées au paragraphe (1) ou par le bailleur visé au paragraphe (2) s’il ne porte préjudice à aucun de leurs droits ou intérêts.
+**107** [Abrogé, 2018, ch. 10, art. 21]
 
 
 
-
-**Demande d’entérinement du projet**
-
-**108** 
-
-- **(1)** Les administrateurs de la compagnie peuvent demander à la Cour fédérale d’entériner le projet s’ils considèrent, au cours des trois mois suivant le dépôt de celui-ci ou de tout délai prorogé par la cour, que le projet est ratifié conformément à l’article 107.
-
-- **(2)** [Abrogé, 2007, ch. 19, art. 34]
-
-**Entérinement par la Cour fédérale**
-
-- **(3)** Après avoir entendu les administrateurs et toute autre personne qu’elle souhaite entendre, la Cour fédérale peut entériner le projet si elle est convaincue qu’il a été ratifié conformément à l’article 107 dans le délai imparti et qu’aucune opposition ne justifie une décision contraire.
-
-**Enregistrement**
-
-- **(4)** Le projet entériné par la Cour fédérale y est enregistré et est dès lors opposable à la compagnie et aux tiers.
-
-- **(5)** [Abrogé, 2007, ch. 19, art. 34]
-> 1996, ch. 10, art. 108; 2007, ch. 19, art. 34.
+**108** [Abrogé, 2018, ch. 10, art. 21]
 
 
 
-
-
-**Règles de pratique**
-
-**109** Les juges de la Cour fédérale peuvent, avec l’agrément du gouverneur en conseil, établir des règles de pratique et de procédure pour l’application des articles 106 à 108.
+**109** [Abrogé, 2018, ch. 10, art. 21]
 
 
 
-
-**Exemplaires du projet à garder pour la vente**
-
-**110** La compagnie de chemin de fer est tenue de garder, à son bureau principal ou à son siège social, des exemplaires imprimés du projet ainsi entériné et enregistré et de les fournir au prix coûtant à quiconque veut s’en procurer.
+**110** [Abrogé, 2018, ch. 10, art. 21]
 
 
 
@@ -2652,17 +2749,19 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **111** Les définitions qui suivent s’appliquent à la présente section.
 
-***contrat confidentiel*** Contrat conclu en application du paragraphe 126(1).
+***contrat confidentiel*** Contrat conclu en application du paragraphe 126(1). (*confidential contract*)
 
-***interconnexion*** Le transfert du trafic des lignes d’une compagnie de chemin de fer à celles d’une autre compagnie de chemin de fer conformément aux règlements d’application de l’article 128.
+***interconnexion*** Le transfert du trafic des lignes d’une compagnie de chemin de fer à celles d’une autre compagnie de chemin de fer. (*interswitch*)
 
-***lieu de correspondance*** Lieu où la ligne d’une compagnie de chemin de fer est raccordée avec celle d’une autre compagnie de chemin de fer et où des wagons chargés ou vides peuvent être garés jusqu’à livraison ou réception par cette autre compagnie.
+***lieu de correspondance*** Lieu où la ligne d’une compagnie de chemin de fer est raccordée avec celle d’une autre compagnie de chemin de fer et où des wagons chargés ou vides peuvent être garés jusqu’à livraison ou réception par cette autre compagnie. (*interchange*)
 
-***prix de ligne concurrentiel*** Prix applicable à un expéditeur, déterminé conformément à l’article 133.
+***prix de ligne concurrentiel***[Abrogée, 2018, ch. 10, art. 22]
 
-***transporteur de liaison*** Compagnie de chemin de fer, transporteur local exclu, qui effectue du transport à destination ou à partir d’un lieu de correspondance sur une partie d’un parcours continu à l’égard duquel la compagnie et l’expéditeur ont conclu un accord sur le transport de marchandises ainsi que sur le prix applicable à celui-ci.
+***transporteur de liaison*** Compagnie de chemin de fer, transporteur local exclu, qui effectue du transport à destination ou à partir d’un lieu de correspondance sur une partie d’un parcours continu. (*connecting carrier*)
 
-***transporteur local*** Compagnie de chemin de fer qui effectue du transport à destination ou à partir d’un lieu de correspondance à un point d’origine ou à un point de destination qu’elle dessert exclusivement.
+***transporteur local*** Transporteur ferroviaire de catégorie 1 qui effectue du transport à destination ou à partir d’un lieu de correspondance à un point d’origine ou à un point de destination qu’il dessert exclusivement. (*local carrier*)
+> 1996, ch. 10, art. 111; 2018, ch. 10, art. 22.
+
 
 
 
@@ -2686,7 +2785,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **113** 
 
-- **(1)** Chaque compagnie de chemin de fer, dans le cadre de ses attributions, relativement au chemin de fer qui lui appartient ou qu’elle exploite :
+- **(1)** Chaque compagnie de chemin de fer, dans le cadre de ses attributions, relativement au chemin de fer qui lui appartient ou qu’elle exploite :
 	- **a)** fournit, au point d’origine de son chemin de fer et au point de raccordement avec d’autres, et à tous les points d’arrêt établis à cette fin, des installations convenables pour la réception et le chargement des marchandises à transporter par chemin de fer;
 	- **b)** fournit les installations convenables pour le transport, le déchargement et la livraison des marchandises;
 	- **c)** reçoit, transporte et livre ces marchandises sans délai et avec le soin et la diligence voulus;
@@ -2699,7 +2798,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **Paiement de la contribution**
 
-- **(2.1)** Lorsque le transport de marchandises par une compagnie de chemin de fer est associé à une contribution prévue aux articles 155.3 ou 155.5, celles-ci sont transportées par la compagnie de chemin de fer aux points visés à l’alinéa (1)a) sur paiement de la contribution par l’expéditeur à cette compagnie si elle est la première compagnie de chemin de fer à transporter les marchandises après leur chargement pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b).
+- **(2.1)** Lorsque le transport de marchandises par une compagnie de chemin de fer est associé à une contribution prévue aux articles 155.3 ou 155.5, celles-ci sont transportées par la compagnie de chemin de fer aux points visés à l’alinéa (1)a) sur paiement de la contribution par l’expéditeur à cette compagnie si elle est la première compagnie de chemin de fer à transporter les marchandises après leur chargement pour un prix autre qu’un prix fixé en application de l’article 127.1.
 
 **Indemnité de matériel roulant**
 
@@ -2708,7 +2807,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Contrat confidentiel**
 
 - **(4)** Un expéditeur et une compagnie peuvent s’entendre, par contrat confidentiel ou autre accord écrit, sur les moyens à prendre par la compagnie pour s’acquitter de ses obligations.
-> 1996, ch. 10, art. 113; 2015, ch. 31, art. 8.
+> 1996, ch. 10, art. 113; 2015, ch. 31, art. 8; 2018, ch. 10, art. 59(F).
 
 
 
@@ -2750,29 +2849,50 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **116** 
 
-- **(1)** Sur réception d’une plainte selon laquelle une compagnie de chemin de fer ne s’acquitte pas de ses obligations prévues par les articles 113 ou 114, l’Office mène, aussi rapidement que possible, l’enquête qu’il estime indiquée et décide, dans les cent vingt jours suivant la réception de la plainte, si la compagnie s’acquitte de ses obligations.
+- **(1)** Sur réception d’une plainte selon laquelle une compagnie de chemin de fer ne s’acquitte pas de ses obligations prévues par les articles 113 ou 114, l’Office mène, aussi rapidement que possible, l’enquête qu’il estime indiquée et décide, dans les quatre-vingt-dix jours suivant la réception de la plainte, si la compagnie s’acquitte de ses obligations.
+
+**Délais**
+
+- **(1.1)** Dans le cadre d’une enquête menée au titre du paragraphe (1), l’Office accorde à la compagnie au moins vingt jours pour produire sa réponse et au moins dix jours au plaignant pour produire sa réplique.
+
+**Initiative de l’Office**
+
+- **(1.11)** L’Office peut, si le ministre l’autorise et selon les conditions que celui-ci estime indiquées, enquêter de sa propre initiative sur la question de savoir si une compagnie de chemin de fer s’acquitte de ses obligations prévues par les articles 113 ou 114. L’Office mène l’enquête aussi rapidement que possible et décide de la question dans les quatre-vingt-dix jours suivant le début de l’enquête.
+
+**Éléments à prendre en compte**
+
+- **(1.2)** L’Office décide que la compagnie s’acquitte de ses obligations prévues par les articles 113 ou 114 s’il est convaincu, compte tenu des éléments ci-après, que celle-ci fournit, en ce qui a trait à ces obligations, le niveau de services le plus élevé qu’elle peut raisonnablement fournir dans les circonstances :
+	- **a)** le transport en cause;
+	- **b)** le caractère raisonnable des demandes de l’expéditeur pour le transport en cause;
+	- **c)** les services dont l’expéditeur a besoin pour le transport en cause;
+	- **d)** les engagements pris par l’expéditeur envers la compagnie relativement au transport en cause;
+	- **e)** les besoins et les contraintes de l’expéditeur et de la compagnie en matière d’exploitation;
+	- **f)** les obligations que peut avoir la compagnie envers une société de transport publique;
+	- **g)** les obligations de la compagnie au titre de la présente loi relativement à l’exploitation du chemin de fer;
+	- **h)** les plans établis par la compagnie pour lui permettre de s’acquitter de ses obligations prévues par les articles 113 ou 114 quand elle fait face à des situations cycliques ou prévisibles;
+	- **i)** les renseignements qu’il estime pertinents.
 
 **Contrat confidentiel**
 
 - **(2)** Dans les cas où une compagnie et un expéditeur conviennent, par contrat confidentiel, de la manière dont la compagnie s’acquittera de ses obligations prévues par l’article 113, les clauses du contrat lient l’Office dans sa décision.
 
-**Obligation de l’Office**
+**Arrêté d’interconnexion de longue distance**
 
-- **(3)** Lorsque, en application du paragraphe 136(4), un expéditeur et une compagnie s’entendent sur les moyens à prendre par le transporteur local pour s’acquitter de ses obligations prévues par les articles 113 et 114, les modalités de l’accord lient l’Office dans sa décision.
+- **(3)** Dans sa décision, l’Office est lié par l’arrêté d’interconnexion de longue distance pris en vertu du paragraphe 134(1) en ce qui concerne les moyens à prendre par le transporteur local pour s’acquitter de ses obligations prévues par les articles 113 et 114.
 
 **Arrêtés de l’Office**
 
-- **(4)** L’Office, ayant décidé qu’une compagnie ne s’acquitte pas de ses obligations prévues par les articles 113 ou 114, peut :
-	- **a)** ordonner la prise de l’une ou l’autre des mesures suivantes :
+- **(4)** L’Office, ayant décidé qu’une compagnie ne s’acquitte pas de ses obligations prévues par les articles 113 ou 114, peut :
+	- **a)** ordonner la prise de l’une ou l’autre des mesures suivantes :
 		- **(i)** la construction ou l’exécution d’ouvrages spécifiques,
 		- **(ii)** l’acquisition de biens,
 		- **(iii)** l’attribution, la distribution, l’usage ou le déplacement de wagons, de moteurs ou d’autre matériel selon ses instructions,
 		- **(iv)** la prise de mesures ou l’application de systèmes ou de méthodes par la compagnie;
 	- **b)** préciser le prix maximal que la compagnie peut exiger pour mettre en oeuvre les mesures qu’il impose;
 	- **c)** ordonner à la compagnie de remplir ses obligations selon les modalités de forme et de temps qu’il estime indiquées, eu égard aux intérêts légitimes, et préciser les détails de l’obligation à respecter;
-	- **c.1)** [Abrogé, 2014, ch. 8, art. 5.1]
+	- **c.1)** ordonner à la compagnie d’indemniser toute personne lésée des dépenses qu’elle a supportées en conséquence du non-respect des obligations de la compagnie ou, si celle-ci est partie à un contrat confidentiel avec un expéditeur qui prévoit qu’elle versera, en cas de manquement à ses obligations, une indemnité pour les dépenses que l’expéditeur a supportées en conséquence du non-respect des obligations de la compagnie, lui ordonner de verser à l’expéditeur cette indemnité;
 	- **d)** en cas de manquement à une obligation de service relative à un embranchement tributaire du transport du grain mentionné à l’annexe I, ordonner à la compagnie d’ajouter l’embranchement au plan visé au paragraphe 141(1) à titre de ligne dont elle entend cesser l’exploitation;
-	- **e)** en cas de manquement à une obligation de service relative à un embranchement tributaire du transport du grain mentionné à l’annexe I, ordonner à la compagnie, selon les modalités qu’il estime indiquées, d’autoriser une autre compagnie :
+	- **e)** en cas de manquement à une obligation de service relative à un embranchement tributaire du transport du grain mentionné à l’annexe I, ordonner à la compagnie, selon les modalités qu’il estime indiquées, d’autoriser une autre compagnie :
 		- **(i)** à faire circuler et à exploiter ses trains sur toute partie de l’embranchement,
 		- **(ii)** dans la mesure nécessaire pour assurer le service sur l’embranchement, à faire circuler et à exploiter ses trains sur toute autre partie du chemin de fer de la compagnie, sans toutefois lui permettre d’offrir des services de transport sur cette partie du chemin de fer, de même qu’à utiliser ou à occuper des terres lui appartenant, ou à prendre possession de telles terres, ou à utiliser tout ou partie de l’emprise, des rails, des têtes de lignes, des gares ou des terrains lui appartenant.
 
@@ -2780,10 +2900,14 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 - **(5)** Quiconque souffre préjudice de la négligence ou du refus d’une compagnie de s’acquitter de ses obligations prévues par les articles 113 ou 114 possède, sous réserve de la présente loi, un droit d’action contre la compagnie.
 
+**Droit d’action non affecté**
+
+- **(5.1)** Si une décision arbitrale rendue en vertu de l’article 169.37 établit les modalités concernant les sommes à payer par la compagnie en cas de non-respect des conditions d’exploitation, ces modalités ne limitent pas le droit d’action en ce qui a trait au montant de l’indemnisation qui peut être demandé.
+
 **Compagnie non soustraite**
 
-- **(6)** Sous réserve des stipulations d’un contrat confidentiel visé au paragraphe 113(4) ou d’un tarif établissant un prix de ligne concurrentiel visé au paragraphe 136(4), une compagnie n’est pas soustraite à une action intentée en vertu du paragraphe (5) par un avis, une condition ou une déclaration, si les dommages-intérêts réclamés sont causés par la négligence ou les omissions de la compagnie ou d’un de ses employés.
-> 1996, ch. 10, art. 116; 2000, ch. 16, art. 4; 2014, ch. 8, art. 5.1.
+- **(6)** Sous réserve des stipulations d’un contrat confidentiel visé au paragraphe 113(4) ou d’un tarif où figurent, en application du paragraphe 136.4(1), les termes établis par un arrêté d’interconnexion de longue distance, une compagnie n’est pas soustraite à une action intentée en vertu du paragraphe (5) par un avis, une condition ou une déclaration, si le dommage allégué est causé par la négligence ou les omissions de la compagnie ou d’un de ses employés.
+> 1996, ch. 10, art. 116; 2000, ch. 16, art. 4; 2014, ch. 8, art. 5.1; 2018, ch. 10, art. 23 et 95.
 
 
 
@@ -2819,17 +2943,17 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 - **(2)** Le tarif comporte les renseignements que l’Office peut exiger par règlement.
 
-**Publication des tarifs**
+**Accès au tarif**
 
-- **(3)** La compagnie de chemin de fer fait publier et soit affiche le tarif, soit permet au public de le consulter à ses bureaux.
+- **(3)** La compagnie rend le tarif accessible au public en le publiant sur son site Internet.
 
-**Exemplaire du tarif**
-
-- **(4)** Elle fournit un exemplaire de tout ou partie de son tarif sur demande et paiement de frais non supérieurs au coût de reproduction de l’exemplaire.
+- **(4)** [Abrogé, 2018, ch. 10, art. 24]
 
 **Conservation**
 
 - **(5)** Elle conserve le tarif en archive pour une période minimale de trois ans après son annulation.
+> 1996, ch. 10, art. 117; 2018, ch. 10, art. 24.
+
 
 
 
@@ -2986,16 +3110,22 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **126** 
 
-- **(1)** Les compagnies de chemin de fer peuvent conclure avec les expéditeurs un contrat, que les parties conviennent de garder confidentiel, en ce qui concerne :
+- **(1)** Les compagnies de chemin de fer peuvent conclure avec les expéditeurs un contrat, que les parties conviennent de garder confidentiel, en ce qui concerne :
 	- **a)** les prix exigés de l’expéditeur par la compagnie;
 	- **b)** les baisses de prix, ou allocations afférentes à ceux-ci, indiquées dans les tarifs établis et publiés conformément à la présente section;
 	- **c)** les rabais sur les prix, ou allocations afférentes à ceux-ci, établis dans les tarifs ou dans les contrats confidentiels, qui ont antérieurement été exigés licitement;
-	- **d)** les conditions relatives au transport à effectuer par la compagnie;
-	- **e)** les moyens pris par la compagnie pour s’acquitter de ses obligations en application de l’article 113.
+	- **d)** les moyens pris par la compagnie pour s’acquitter de ses obligations en application de l’article 113;
+	- **e)** les conditions relatives au transport à effectuer par la compagnie, notamment les sommes à payer par la compagnie ou l’expéditeur en cas de non-respect de toute condition liée aux obligations visées à l’alinéa d).
 
 **Demande de contrat confidentiel**
 
-- **(1.1)** L’expéditeur qui souhaite conclure avec une compagnie de chemin de fer un contrat en application du paragraphe (1) concernant les moyens que celle-ci doit prendre pour s’acquitter de ses obligations en application de l’article 113 peut demander à cette compagnie de lui présenter une offre en vue de la conclusion d’un tel contrat.
+- **(1.1)** L’expéditeur peut demander à une compagnie de chemin de fer de lui présenter une offre en vue de la conclusion d’un contrat, en application du paragraphe (1), concernant :
+	- **a)** les moyens que celle-ci doit prendre pour s’acquitter de ses obligations en application de l’article 113;
+	- **b)** les sommes à payer, pour encourager l’efficacité du transport des marchandises de l’expéditeur et l’amélioration du rendement du système de chemin de fer, en cas de non-respect, par la compagnie ou l’expéditeur, des conditions liées à ces obligations.
+
+**Restriction**
+
+- **(1.11)** L’expéditeur ne peut présenter une demande au titre du paragraphe (1.1) concernant les sommes à payer en cas de non-respect par la compagnie ou l’expéditeur des conditions liées aux obligations prévues par l’article 113 qu’à l’égard de celles de ces conditions qui sont elles aussi visées par la demande.
 
 **Contenu de la demande**
 
@@ -3010,7 +3140,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 - **(1.4)** Sous réserve du paragraphe (1.5), la compagnie de chemin de fer n’est toutefois pas tenue d’inclure dans son offre une stipulation portant sur une question qui, selon le cas :
 	- **a)** fait l’objet d’un accord écrit auquel l’expéditeur et la compagnie de chemin de fer sont parties;
 	- **b)** est visée par un arrêté, autre qu’un arrêté provisoire, pris en vertu du paragraphe 116(4);
-	- **c)** figure dans un tarif visé aux paragraphes 136(4) ou 165(3);
+	- **c)** figure dans un tarif visé aux paragraphes 136.4(1) ou 165(3);
 	- **d)** fait l’objet d’une décision arbitrale rendue en vertu de l’article 169.37.
 
 **Précision**
@@ -3020,7 +3150,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Arbitrage**
 
 - **(2)** Toute demande d’arbitrage au titre de l’article 161 sur une question faisant l’objet d’un contrat confidentiel est subordonnée à l’assentiment de toutes les parties au contrat.
-> 1996, ch. 10, art. 126; 2013, ch. 31, art. 8.
+> 1996, ch. 10, art. 126; 2013, ch. 31, art. 8; 2018, ch. 10, art. 25.
 
 
 
@@ -3038,15 +3168,48 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **Interconnexion**
 
-- **(2)** L’Office peut ordonner aux compagnies de fournir les installations convenables pour permettre l’interconnexion, d’une manière commode et dans les deux directions, à un lieu de correspondance, du trafic, entre les lignes de l’un ou l’autre chemin de fer et celles des autres compagnies de chemins de fer qui y sont raccordées.
+- **(2)** Si le point d’origine ou le point de destination d’un transport continu est situé dans un rayon de trente kilomètres d’un lieu de correspondance, l’Office peut ordonner :
+	- **a)** à l’une des compagnies d’effectuer l’interconnexion;
+	- **b)** aux compagnies de fournir les installations convenables pour permettre l’interconnexion, d’une manière commode et dans les deux directions, à un lieu de correspondance, du trafic, entre les lignes de l’un ou l’autre chemin de fer et celles des autres compagnies de chemins de fer qui y sont raccordées.
 
 **Limites**
 
-- **(3)** Si le point d’origine ou de destination d’un transport continu est situé dans un rayon de 30 kilomètres d’un lieu de correspondance, ou à la distance supérieure prévue par règlement, le transfert de trafic par une compagnie de chemin de fer à ce lieu de correspondance est subordonné au respect des règlements.
+- **(3)** Si le point d’origine ou le point de destination d’un transport continu est situé dans un rayon de trente kilomètres d’un lieu de correspondance, le transfert de trafic par une compagnie de chemin de fer à ce lieu de correspondance est subordonné au respect des règlements et du prix fixé en application de l’article 127.1.
 
 **Agrandissement des limites**
 
-- **(4)** Sur demande formée au titre du paragraphe (1), l’Office peut statuer que, dans un cas particulier où le point d’origine ou de destination du trafic est situé à plus de 30 kilomètres d’un lieu de correspondance, ou à la distance supérieure prévue par règlement, et où il est d’avis que, dans les circonstances, le point d’origine ou de destination est suffisamment près du lieu de correspondance, le point d’origine ou de destination, selon le cas, est réputé situé à l’intérieur de cette distance.
+- **(4)** Sur demande formée au titre du paragraphe (1), l’Office peut statuer que, dans un cas particulier où le point d’origine ou le point de destination du trafic est situé à plus de trente kilomètres d’un lieu de correspondance et où il est d’avis que, dans les circonstances, le point d’origine ou le point de destination est suffisamment près du lieu de correspondance, le point d’origine ou le point de destination, selon le cas, est réputé situé à l’intérieur de cette distance.
+> 1996, ch. 10, art. 127; 2018, ch. 10, art. 26 et 95.
+
+
+
+
+
+**Prix par wagon pour l’interconnexion**
+
+**127.1** 
+
+- **(1)** Au plus tard le 1<sup>er</sup> décembre de chaque année, l’Office fixe le prix par wagon à exiger durant l’année civile suivante pour l’interconnexion du trafic.
+
+**Éléments à prendre en compte**
+
+- **(2)** Lorsqu’il fixe le prix, l’Office prend en compte :
+	- **a)** les réductions de coûts qui, à son avis, sont entraînées par le mouvement d’un plus grand nombre de wagons ou par le transfert de plusieurs wagons à la fois;
+	- **b)** les investissements à long terme requis dans les chemins de fer.
+
+**Prix minimal**
+
+- **(3)** Le prix tient compte des frais variables moyens de tous les transports de marchandises visés par celui-ci et ne peut être inférieur aux frais variables — établis par l’Office — de ces transports.
+
+**Publication de la méthode**
+
+- **(4)** L’Office publie, quand il fixe ce prix, la méthode qu’il a suivie pour le faire.
+
+**Publication du prix**
+
+- **(5)** L’Office fait publier le prix dans la Gazette du Canada au plus tard le 31 décembre précédant le début de l’année civile durant laquelle il s’appliquera.
+> 2018, ch. 10, art. 27.
+
 
 
 
@@ -3055,20 +3218,14 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **128** 
 
-- **(1)** L’Office peut, par règlement :
+- **(1)** L’Office peut, par règlement :
 	- **a)** fixer les modalités de l’interconnexion du trafic autres qu’en matière de sécurité;
-	- **b)** fixer le prix par wagon ou la manière de le déterminer, de même que les modifications de ce prix découlant de la variation des coûts, à exiger pour l’interconnexion du trafic et, à ces fins, établir des zones tarifaires;
-	- **c)** fixer, pour l’application des paragraphes 127(3) et (4), la distance depuis un lieu de correspondance qui est supérieure à 30 kilomètres.
+	- **b)** établir des zones tarifaires en vue de fixer, en application de l’article 127.1, le prix par wagon à exiger pour l’interconnexion du trafic.
+	- **c)** [Abrogé, 2018, ch. 10, art. 28]
 
 - **(1.1)** [Abrogé, 2014, ch. 8, art. 7]
 
-**Prise en compte des économies**
-
-- **(2)** Lorsqu’il fixe le prix, l’Office prend en compte les réductions de frais qui, à son avis, sont entraînées par le mouvement d’un plus grand nombre de wagons ou par le transfert de plusieurs wagons à la fois.
-
-**Plafond**
-
-- **(3)** Le prix tient compte des frais variables moyens de tous les transports de marchandises qui y sont assujettis et ne peut être inférieur aux frais variables — établis par l’Office — de ces transports.
+- **(2) et (3)** [Abrogés, 2018, ch. 10, art. 28]
 
 **Transfert de lignes**
 
@@ -3077,171 +3234,309 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Révision des limites**
 
 - **(5)** L’Office révise les règlements à intervalles de cinq ans à compter de la date de leur prise ou à intervalles plus rapprochés si les circonstances le justifient.
-> 1996, ch. 10, art. 128; 2014, ch. 8, art. 7.
+> 1996, ch. 10, art. 128; 2014, ch. 8, art. 7; 2018, ch. 10, art. 28.
 
 
 
 
 
-#### Prix de ligne concurrentiels
+**Demande de renseignements**
+
+**128.1** Au plus tard le 31 août de chaque année, la compagnie de chemin de fer fournit à l’Office, en la forme et selon les modalités précisées par celui-ci, les renseignements ou documents qu’il estime nécessaires à l’exercice de ses attributions au titre de l’article 127.1.
+> 2018, ch. 10, art. 29.
 
 
 
-**Application**
+
+
+#### Interconnexion de longue distance
+
+
+
+**Demande d’arrêté**
 
 **129** 
 
-- **(1)** Les articles 130 à 136 s’appliquent quand un expéditeur n’a accès qu’aux lignes d’une seule compagnie de chemin de fer au point d’origine ou de destination du transport effectué pour lui et qu’un parcours continu est exploité entre ces points par plusieurs compagnies.
+- **(1)** L’expéditeur peut demander à l’Office de prendre un arrêté d’interconnexion de longue distance à l’encontre d’une compagnie de chemin de fer qui est un transporteur ferroviaire de catégorie 1 si les conditions suivantes sont réunies :
+	- **a)** l’expéditeur n’a accès qu’aux lignes de cette compagnie de chemin de fer au point d’origine ou au point de destination du transport dans la direction la plus judicieuse du transport vers sa destination;
+	- **b)** un parcours continu est exploité entre ces points par plusieurs compagnies de chemin de fer;
+	- **c)** l’expéditeur est insatisfait du prix appliqué ou proposé par la compagnie en cause ou des moyens qu’elle offre de prendre pour s’acquitter de ses obligations prévues par les articles 113 et 114 pour le transport de marchandises entre celui du point d’origine ou du point de destination qui est desservi exclusivement par elle et le lieu de correspondance le plus proche, situé au Canada, avec un transporteur de liaison;
+	- **d)** la compagnie en cause et l’expéditeur ne sont pas en mesure de régler eux-mêmes la question visée à l’alinéa c).
 
-**Transfert de lignes**
+**Restriction**
 
-- **(2)** Il demeure entendu que le transfert des droits de propriété ou d’exploitation d’une ligne en application de la section V ou de l’article 158 de la Loi de 1987 sur les transports nationaux ne limite pas le droit de l’expéditeur d’obtenir un prix de ligne concurrentiel au titre des articles 130 à 136.
+- **(2)** Si l’expéditeur n’a accès qu’aux lignes d’une seule compagnie de chemin de fer qui est un transporteur ferroviaire de catégorie 1 au point d’origine et au point de destination du transport, il ne peut présenter qu’une seule demande, laquelle vise soit le transport du point d’origine au lieu de correspondance le plus proche situé au Canada soit le transport du lieu de correspondance le plus proche situé au Canada au point de destination.
+
+**Exclusions**
+
+- **(3)** L’expéditeur ne peut demander à l’Office de prendre un arrêté d’interconnexion de longue distance dans les cas suivants :
+	- **a)** celui du point d’origine ou du point de destination du transport qui est desservi exclusivement par le transporteur local est situé dans un rayon de trente kilomètres d’un lieu de correspondance situé au Canada qui est dans la direction la plus judicieuse du transport vers sa destination;
+	- **b)** celui du point d’origine ou du point de destination du transport qui est desservi exclusivement par le transporteur local ou le lieu de correspondance le plus proche est situé dans l’axe Québec-Windsor ou dans l’axe Vancouver-Kamloops;
+	- **c)** celui du point d’origine ou du point de destination du transport qui est desservi exclusivement par le transporteur local est situé :
+		- **(i)** soit sur une voie desservant un terminal de transbordement ou de distribution, un terminal à conteneurs ou toute autre installation qui sont exploités par le transporteur local ou pour les besoins de celui-ci,
+		- **(ii)** soit sur une voie utilisée par ce transporteur pour le transfert du trafic d’un wagon à un autre ou d’un wagon à un entrepôt lui appartenant ou vice versa;
+	- **d)** les marchandises à transporter sont des véhicules au sens de l’article 2 de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) ou des pièces de tels véhicules;
+	- **e)** les marchandises à transporter sont des matières toxiques par inhalation;
+	- **f)** les marchandises à transporter sont des matières radioactives;
+	- **g)** le transport sur wagons plats de marchandises surdimensionnées qui requiert la prise de mesures exceptionnelles en raison des dimensions des marchandises;
+	- **h)** le transport, sur wagons plats, de remorques ou de conteneurs;
+	- **i)** le transport en cause fait déjà l’objet d’un tel arrêté;
+	- **j)** le prix du transport est visé par une ordonnance ou un consentement visés à la partie VIII de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) qui découlent d’une demande présentée par le commissaire de la concurrence;
+	- **k)** tout autre cas prévu par règlement.
+
+**Présomption — lieu de correspondance**
+
+- **(4)** Pour l’application de l’alinéa (3)b), un lieu de correspondance situé dans la région métropolitaine de Montréal est réputé être le plus proche et être situé à l’extérieur de l’axe Québec-Windsor si les conditions ci-après sont remplies :
+	- **a)** le point d’origine du transport est situé au Québec et au nord de cet axe;
+	- **b)** l’expéditeur a accès aux lignes d’un seul transporteur ferroviaire de catégorie 1 au point d’origine;
+	- **c)** le lieu de correspondance le plus proche est situé dans cet axe.
+> 1996, ch. 10, art. 129; 2018, ch. 10, art. 29 et 95.
 
 
 
 
-**Demande de prix de ligne concurrentiel**
+
+**Conditions**
 
 **130** 
 
-- **(1)** Sous réserve de l’article 131, le transporteur local desservant l’expéditeur au point d’origine ou de destination, selon le cas, doit, sur demande de celui-ci, établir un prix de ligne concurrentiel pour le transport de marchandises effectué entre le point d’origine ou de destination, selon celui qui est desservi exclusivement par le transporteur local, et le lieu de correspondance le plus proche avec un transporteur de liaison.
+- **(1)** Le paragraphe (2) s’applique si les conditions suivantes sont réunies :
+	- **a)** l’expéditeur n’a accès qu’aux lignes d’une seule compagnie de chemin de fer au point d’origine ou au point de destination du transport;
+	- **b)** cette compagnie n’est pas un transporteur ferroviaire de catégorie 1;
+	- **c)** il y a un point de raccordement entre les lignes exploitées par la compagnie visée à l’alinéa a) et celles exploitées par un transporteur ferroviaire de catégorie 1 et l’expéditeur n’a accès, à ce point de raccordement, qu’à ces lignes de chemin de fer.
 
-**Désignation**
+**Fictions**
 
-- **(2)** Le transporteur local établit un prix de ligne concurrentiel malgré sa capacité d’effectuer le transport sur l’ensemble du parcours continu ou sur une partie de ce parcours qui est plus longue que la partie à l’égard de laquelle le prix de ligne concurrentiel doit s’appliquer.
-
-**Désignation du parcours par l’expéditeur**
-
-- **(3)** L’expéditeur peut, pour l’application du présent article, désigner le parcours continu sur lequel doit être effectué le transport entre le point d’origine et celui de destination.
-
-**Parcours au Canada**
-
-- **(4)** Si le point de destination finale de son transport est situé au Canada, l’expéditeur doit désigner un parcours continu qui y est entièrement situé; il n’est toutefois pas tenu de le faire s’il n’y en a pas qu’il puisse emprunter convenablement pour un prix concurrentiel.
-
-**Exportation et importation**
-
-- **(5)** Pour l’application du présent article :
-	- **a)** si la destination d’un transport est un port au Canada en vue de l’exportation du Canada, ce port est un point de destination finale située au Canada;
-	- **b)** si l’origine d’un transport est un port au Canada en vue de l’importation au Canada, le port est le point d’origine du transport.
-
-**Désignation du lieu de correspondance**
-
-- **(6)** Pour l’application du paragraphe (1), le lieu de correspondance le plus proche est celui le plus proche de l’origine ou de la destination desservie exclusivement par le transporteur local du transport effectué dans la direction la plus plausible de l’origine à la destination sur le parcours continu désigné par l’expéditeur, sauf si le transporteur local peut établir que ce lieu de correspondance ne peut pas être utilisé pour des raisons techniques.
+- **(2)** Pour l’application des articles 129 et 131 à 136.6 :
+	- **a)** le point de raccordement visé à l’alinéa (1)c) est réputé être le point d’origine ou le point de destination, selon le cas;
+	- **b)** le point de raccordement visé à l’alinéa (1)c) est réputé desservi exclusivement par le transporteur ferroviaire de catégorie 1 visé à cet alinéa;
+	- **c)** le transporteur ferroviaire de catégorie 1 visé à l’alinéa (1)c) est réputé être le transporteur local.
+> 1996, ch. 10, art. 130; 2018, ch. 10, art. 29.
 
 
 
 
-**Accord**
 
-**131** 
+**Transfert de lignes**
 
-- **(1)** L’établissement d’un prix de ligne concurrentiel est subordonné à la conclusion, entre l’expéditeur et le transporteur de liaison, et toute autre compagnie — transporteur local exclu — qui effectue du transport sur une partie du parcours continu, d’un accord sur les conditions régissant le transport des marchandises, y compris sur le prix qui s’y applique.
+**131** Il demeure entendu que le transfert des droits de propriété ou d’exploitation sur une ligne en application de la section V ou de l’article 158 de la Loi de 1987 sur les transports nationaux ne limite pas le droit de l’expéditeur de demander un arrêté d’interconnexion de longue distance.
+> 1996, ch. 10, art. 131; 2018, ch. 10, art. 29.
 
-**Exception**
 
-- **(2)** Il n’est établi aucun autre prix pour la partie d’un parcours continu pour laquelle un prix fixé en application de l’alinéa 128(1)b) est disponible.
 
-**Exception**
 
-- **(3)** Il n’est pas établi de prix de ligne concurrentiel pour le transport soit de remorques ou de conteneurs sur wagons plats, soit de chargements non complets, sauf s’ils arrivent à un port du Canada soit par eau en vue du transport ultérieur par rail, soit par rail en vue du transport ultérieur par eau.
 
-**Condition**
+**Contenu de la demande**
 
-- **(4)** La partie d’un transport de marchandises pour laquelle un prix de ligne concurrentiel peut être établi ne peut dépasser la plus grande des distances suivantes : 50 pour cent de la distance totale du transport par rail ou 1 200 kilomètres.
+**132** La demande d’arrêté d’interconnexion de longue distance contient :
+- **a)** d’une part, l’engagement pris par l’expéditeur envers le transporteur local de faire transporter, conformément à l’arrêté, les marchandises par rail entre celui du point d’origine ou du point de destination qui est desservi exclusivement par ce transporteur et le lieu de correspondance le plus proche, situé au Canada, avec un transporteur de liaison;
+- **b)** d’autre part, le parcours continu choisi par l’expéditeur.
+> 1996, ch. 10, art. 132; 2018, ch. 10, art. 29.
 
-**Exception**
 
-- **(5)** Sur demande d’un expéditeur et s’il est convaincu qu’il n’y a pas de lieu de correspondance à l’intérieur de cette limite, l’Office peut établir un prix de ligne concurrentiel pour une partie d’un transport de marchandises couvrant une distance supérieure.
 
-**Prix définitif**
 
-- **(6)** Une fois qu’un prix de ligne concurrentiel a été établi pour un transport de marchandises pour un expéditeur, aucun autre prix de ligne concurrentiel ne peut être établi pour ce transport tant que ce prix est en vigueur.
+
+**Demande rejetée**
+
+**133** L’Office rejette la demande d’arrêté d’interconnexion de longue distance si l’expéditeur ne le convainc pas que des efforts ont été déployés pour régler les questions soulevées dans la demande.
+> 1996, ch. 10, art. 133; 2018, ch. 10, art. 29.
+
 
 
 
 
 **Établissement par l’Office**
 
-**132** 
+**134** 
 
-- **(1)** Sur demande d’un expéditeur, l’Office établit, dans les quarante-cinq jours suivant la demande, tels des éléments suivants qui n’ont pas fait l’objet d’un accord entre l’expéditeur et le transporteur local :
-	- **a)** le montant du prix de ligne concurrentiel;
-	- **b)** la désignation du parcours continu;
-	- **c)** la désignation du lieu de correspondance le plus proche;
-	- **d)** les moyens à prendre par le transporteur local pour s’acquitter de ses obligations prévues par les articles 113 et 114.
+- **(1)** L’Office établit par arrêté, dans les trente jours ouvrables suivant la réception de la demande d’arrêté d’interconnexion de longue distance, tels des éléments ci-après qui n’ont pas fait l’objet d’une entente entre l’expéditeur et le transporteur local :
+	- **a)** le prix de l’interconnexion de longue distance qui s’applique au transport de marchandises entre celui du point d’origine ou du point de destination qui est desservi exclusivement par le transporteur ferroviaire de catégorie 1 et le lieu de correspondance le plus proche, situé au Canada, avec un transporteur de liaison;
+	- **b)** le parcours continu entre le point d’origine et le point de destination;
+	- **c)** le lieu de correspondance le plus proche situé au Canada;
+	- **d)** les moyens à prendre par le transporteur local pour s’acquitter, en ce qui a trait au transport visé à l’alinéa a), de ses obligations prévues par les articles 113 et 114.
 
-**Exclusion de l’arbitrage**
+**Distance maximale**
 
-- **(2)** L’élément ainsi établi ne peut être assujetti à l’arbitrage prévu à l’article 161.
-
-
-
-
-**Prix de ligne concurrentiel**
-
-**133** 
-
-- **(1)** Le prix de ligne concurrentiel applicable au transport effectué pour un expéditeur est calculé selon la formule suivante :
-```
-A + (B/C × (D - E))
-```
-où
-- **A** représente le prix fixé en application de l’alinéa 128(1)b);
-- **B** le montant des recettes totales du transporteur local tirées de tout le transport de marchandises identiques ou semblables effectué sur ses lignes — et, le cas échéant, sur des distances semblables — pendant la période la plus récente désignée par celui-ci ou celle fixée par l’Office, s’il détermine que la période désignée n’est pas convenable dans les circonstances;
-- **C** le nombre de tonnes kilomètres de transport qui a produit les recettes;
-- **D** le nombre de kilomètres visé par le prix de ligne concurrentiel;
-- **E** le nombre de kilomètres visé par le prix fixé en application de l’alinéa 128(1)b).
-
-**Ajustement**
-
-- **(2)** Dans les cas où l’expéditeur exerce une des activités à l’égard de laquelle un prix fixé en application de l’alinéa 128(1)b) est applicable, le prix applicable que représente l’élément A est ajusté pour tenir compte de l’exercice de ces activités.
-
-**Modification du mode de détermination**
-
-- **(3)** L’Office peut, par arrêté applicable à un expéditeur donné ou à une compagnie de chemin de fer donnée, ou par règlement général applicable aux expéditeurs ou compagnies de chemin de fer, modifier le mode de détermination du montant d’un prix de ligne concurrentiel prévu par le présent article lorsque ce montant ne peut être déterminé conformément à cet article.
-
-**Plafond**
-
-- **(4)** Le prix de ligne concurrentiel déterminé conformément au présent article ne peut être inférieur aux frais variables, établis par l’Office, du transport des marchandises.
+- **(2)** L’Office ne peut prendre l’arrêté si la distance entre celui du point d’origine ou du point de destination qui est desservi exclusivement par le transporteur ferroviaire de catégorie 1 et le lieu de correspondance le plus proche, situé au Canada, avec un transporteur de liaison dépasse la plus grande des distances suivantes :
+	- **a)** 1 200 km;
+	- **b)** cinquante pour cent de la distance totale du transport par rail au Canada.
+> 1996, ch. 10, art. 134; 2018, ch. 10, art. 29.
 
 
 
 
-**Inclusion**
 
-**134** Le prix de ligne concurrentiel est indiqué dans un tarif ou un contrat confidentiel.
+**Prix de l’interconnexion de longue distance**
+
+**135** 
+
+- **(1)** Les règles ci-après s’appliquent à l’établissement du prix de l’interconnexion de longue distance :
+	- **a)** pour les trente premiers kilomètres, le prix est celui fixé en application de l’article 127.1;
+	- **b)** pour la portion restante, l’Office établit un prix en tenant compte des recettes par tonne-kilomètre pour un transport comparable qui est effectué par le transporteur local en cause et dont le prix n’est pas établi par un arrêté d’interconnexion de longue distance.
+
+**Prix minimal**
+
+- **(2)** Le prix établi par l’Office pour la portion du transport visée à l’alinéa (1)b) doit toutefois être égal ou supérieur à la moyenne des recettes par tonne-kilomètre pour un transport comparable visé à cet alinéa.
+
+**Facteurs à prendre en compte — transport comparable**
+
+- **(3)** Pour décider, pour l’application de l’alinéa (1)b), ce qui constitue un transport comparable, l’Office tient compte des facteurs suivants :
+	- **a)** le type de marchandises;
+	- **b)** la distance à franchir;
+	- **c)** les conditions du transport, notamment le fait que le transport est effectué par wagon unique, par rame de wagons ou par train-bloc;
+	- **d)** le type et la propriété des wagons utilisés;
+	- **e)** les exigences relatives à la manutention des marchandises;
+	- **f)** le volume de marchandises et la fréquence du transport;
+	- **g)** les engagements pris par l’expéditeur relativement au volume de marchandises;
+	- **h)** les primes, rabais ou réductions semblables accordés relativement au transport;
+	- **i)** tout autre facteur lié aux besoins de l’expéditeur et du transporteur local qu’il estime pertinent.
+
+**Facteurs à prendre en compte — prix**
+
+- **(4)** Pour établir le prix visé à l’alinéa (1)b), l’Office tient compte des facteurs prévus au paragraphe (3), de la densité du trafic sur les lignes du transporteur local sur lesquelles celui-ci effectue le transport et des investissements à long terme requis sur ces lignes.
+> 1996, ch. 10, art. 135; 2018, ch. 10, art. 29 et 95.
 
 
 
 
-**Période d’application**
 
-**135** Les prix de ligne concurrentiels s’appliquent pour une période d’un an à compter de la date de leur prise d’effet ou pour la période convenue entre l’expéditeur et le transporteur local.
-
-
-
-
-**Obligation du transporteur**
+**Parcours continu**
 
 **136** 
 
-- **(1)** Si un prix de ligne concurrentiel est établi, la compagnie de chemin de fer, autre que le transporteur local, fournit à l’expéditeur une quantité suffisante de wagons eu égard au transport à effectuer.
+- **(1)** Pour établir le parcours continu du point d’origine au point de destination, l’Office tient compte du parcours continu choisi par l’expéditeur dans sa demande.
+
+**Parcours au Canada**
+
+- **(2)** Si le point de destination du parcours continu est situé au Canada, l’Office établit un parcours continu qui y est entièrement situé; il n’est toutefois pas tenu de le faire s’il n’y en a pas qui puisse être emprunté convenablement pour un prix concurrentiel.
+
+**Exportation et importation**
+
+- **(3)** Pour l’application des paragraphes (1) et (2) :
+	- **a)** si le transport passe par un port au Canada en vue de l’importation au Canada, ce port est le point d’origine;
+	- **b)** si le transport passe par un port au Canada en vue de l’exportation du Canada, ce port est le point de destination.
+> 1996, ch. 10, art. 136; 2018, ch. 10, art. 29.
+
+
+
+
+
+**Lieu de correspondance le plus proche**
+
+**136.1** Le lieu de correspondance le plus proche situé au Canada établi par l’Office est celui le plus proche du point d’origine ou du point de destination desservi exclusivement par le transporteur local du transport effectué dans la direction la plus judicieuse de l’origine à la destination sur le parcours continu, sauf si le transporteur local peut établir que ce lieu de correspondance ne peut pas être utilisé pour des raisons techniques.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Moyens à prendre**
+
+**136.2** Pour établir les moyens à prendre par le transporteur local pour s’acquitter de ses obligations prévues par les articles 113 et 114, l’Office tient compte des éléments prévus aux alinéas 116(1.2)a) à i).
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Durée**
+
+**136.3** L’arrêté d’interconnexion de longue distance s’applique aux parties pendant un an à compter de sa date, sauf accord entre elles à l’effet contraire.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Insertion dans le tarif**
+
+**136.4** 
+
+- **(1)** Le transporteur local inscrit, sans délai après le prononcé de l’arrêté d’interconnexion de longue distance, les termes établis par l’arrêté dans un tarif, sauf s’il convient avec l’expéditeur de les inclure dans un contrat confidentiel.
+
+**Exemption de publication**
+
+- **(2)** Le paragraphe 117(3) ne s’applique pas à l’égard de ce tarif.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Exclusion de l’arbitrage**
+
+**136.5** Les questions relatives au transport visé par un arrêté d’interconnexion de longue distance ne peuvent pas être soumises à l’arbitrage prévu à l’article 161.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Obligation du transporteur de liaison**
+
+**136.6** 
+
+- **(1)** Si un arrêté d’interconnexion de longue distance est pris, il incombe au transporteur de liaison, en plus de ses autres obligations prévues par les articles 113 et 114 à l’égard du transport, de fournir à l’expéditeur une quantité suffisante de wagons pour le transport à effectuer, sous réserve d’une entente à l’effet contraire.
 
 **Responsabilité du transporteur**
 
-- **(2)** Sous réserve d’une entente à l’effet contraire entre le transporteur local et un transporteur de liaison visé, le transporteur de liaison est responsable :
-	- **a)** d’une part, répartie conformément au paragraphe (3), des frais, supportés pendant la période d’application du prix de ligne concurrentiel, d’exploitation et d’entretien du lieu de correspondance;
-	- **b)** des frais en immobilisations relatifs à la modification ou à l’amélioration de celui-ci qui peuvent être nécessaires pour permettre le transfert du trafic visé par le prix de ligne concurrentiel.
+- **(2)** Sous réserve d’une entente à l’effet contraire, le transporteur de liaison est responsable, à l’égard du lieu de correspondance visé à l’alinéa 129(1)c) :
+	- **a)** d’une part, répartie conformément au paragraphe (3), des frais, supportés pendant la période d’application de l’arrêté, d’exploitation et d’entretien du lieu de correspondance;
+	- **b)** des frais en immobilisations relatifs à la modification de celui-ci qui peuvent être nécessaires pour permettre le transfert du trafic visé par l’arrêté.
 
 **Part répartie**
 
-- **(3)** La part répartie correspond à la proportion du trafic visé par le prix de ligne concurrentiel échangé au lieu de correspondance pendant cette période par rapport au trafic total échangé à ce lieu pendant la période.
+- **(3)** La part répartie correspond à la proportion du trafic visé par l’arrêté échangé au lieu de correspondance et transporté par le transporteur de liaison pendant cette période par rapport au trafic total échangé à ce lieu pendant la période.
 
-**Prestation du service**
+**Portion des frais en immobilisations**
 
-- **(4)** Le tarif établissant un prix de ligne concurrentiel doit toutefois indiquer les moyens pris par le transporteur local qui l’a établi pour s’acquitter de ses obligations prévues par les articles 113 et 114 :
-	- **a)** si le montant du prix de ligne concurrentiel est convenu entre l’expéditeur et le transporteur local, selon l’accord intervenu entre ceux-ci;
-	- **b)** si le montant de ce prix est établi par l’Office en application de l’article 132, selon ce que celui-ci détermine.
+- **(4)** Si le trafic visé par l’arrêté est transporté par plusieurs transporteurs de liaison, les frais en immobilisations sont répartis entre ces transporteurs en fonction de la proportion du trafic que chacun d’eux transporte.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Règlements**
+
+**136.7** Le gouverneur en conseil peut, par règlement, prévoir pour l’application de l’alinéa 129(3)k) des cas où l’expéditeur ne peut demander à l’Office de prendre un arrêté d’interconnexion de longue distance.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+**Suspension de l’application**
+
+**136.8** S’il est d’avis que l’application des articles 129 à 136.7 a des répercussions importantes sur la viabilité financière d’une compagnie de chemin de fer, le gouverneur en conseil peut, par décret, suspendre l’application de ces articles pour la période qu’il précise.
+> 2018, ch. 10, art. 29.
+
+
+
+
+
+#### Lieux de correspondance
+
+
+
+**Liste**
+
+**136.9** 
+
+- **(1)** La compagnie de chemin de fer établit et met à jour la liste des emplacements de lieux de correspondance situés sur le chemin de fer qu’elle exploite. Elle la publie sur son site Internet ou sur celui d’une association ou autre entité représentant les compagnies de chemin de fer.
+
+**Avis de suppression**
+
+- **(2)** Elle ne peut supprimer un lieu de correspondance de la liste qu’à l’expiration du délai de cent vingt jours suivant :
+	- **a)** d’une part, la publication d’un avis sur son site Internet ou sur celui d’une association ou autre entité représentant les compagnies de chemin de fer;
+	- **b)** d’autre part, l’envoi d’une copie de cet avis à l’Office.
+
+**Obligations de la compagnie**
+
+- **(3)** Il est entendu que le fait pour la compagnie de chemin de fer de supprimer un lieu de correspondance au titre du paragraphe (2) ne la relève pas de ses obligations prévues par les articles 113 et 114.
+> 2018, ch. 10, art. 29.
+
 
 
 
@@ -3254,7 +3549,7 @@ où
 
 **137** 
 
-- **(1)** La question de la responsabilité de la compagnie de chemin de fer relativement au transport des marchandises d’un expéditeur, notamment à l’égard des tiers, ne peut être traitée entre la compagnie de chemin de fer et l’expéditeur que par accord écrit signé soit par l’expéditeur, soit par une association ou un groupe représentant les expéditeurs.
+- **(1)** Les questions portant sur la responsabilité relativement au transport des marchandises d’un expéditeur, notamment envers les tiers, ne peuvent être traitées entre la compagnie de chemin de fer et l’expéditeur que par accord écrit signé soit par l’expéditeur, soit par une association ou une autre entité représentant les expéditeurs.
 
 **Aucun accord**
 
@@ -3265,7 +3560,16 @@ où
 **Règlements**
 
 - **(3)** Pour l’application de l’alinéa (2)b), l’Office peut, par règlement, régir les modalités du traitement, entre une compagnie de chemin de fer et un expéditeur, de la question visée au paragraphe (2).
-> 1996, ch. 10, art. 137; 2015, ch. 31, art. 9.
+> 1996, ch. 10, art. 137; 2015, ch. 31, art. 9; 2018, ch. 10, art. 30.
+
+
+
+
+
+**Plaintes**
+
+**137.1** Saisi d’une plainte, l’Office peut, s’il constate qu’une compagnie de chemin de fer ne se conforme pas au paragraphe 137(1), ordonner à celle-ci de prendre les mesures qu’il estime indiquées pour qu’elle se conforme à ce paragraphe.
+> 2018, ch. 10, art. 31.
 
 
 
@@ -3338,7 +3642,7 @@ où
 
 **Accès au plan**
 
-- **(2)** Le plan peut être consulté à ceux de ses bureaux que la compagnie désigne.
+- **(2)** La compagnie rend le plan accessible au public en le publiant sur son site Internet ou sur celui d’une association ou autre entité représentant les compagnies de chemin de fer.
 
 **Avis de modification du plan**
 
@@ -3349,14 +3653,28 @@ où
 	- **d)** le président de toute administration de transport de banlieue dont la ligne franchit le territoire;
 	- **e)** le greffier ou un premier dirigeant de toute administration municipale dont la ligne franchit le territoire.
 
+**Éléments à fournir au ministre**
+
+- **(2.2)** Dans les soixante jours après avoir indiqué dans son plan qu’elle entend cesser l’exploitation d’une ligne de chemin de fer, la compagnie fournit au ministre les éléments suivants :
+	- **a)** un rapport portant sur la question de savoir si l’article 96 s’applique ou non aux terres sur lesquelles la ligne de chemin de fer est située;
+	- **b)** la description officielle des terres auxquelles, selon le rapport, cet article s’applique ainsi que des informations géographiques, en la forme que le ministre précise, permettant de les cartographier.
+
+**Cessation déjà mentionnée au plan**
+
+- **(2.3)** La compagnie de chemin de fer dont le plan indique, à la date d’entrée en vigueur du paragraphe (2.2), qu’elle entend cesser l’exploitation d’une ligne de chemin de fer à l’égard de laquelle l’annonce prévue à l’article 143 n’a pas encore été faite, fournit au ministre les éléments visés au paragraphe (2.2) avant de faire cette annonce.
+
 **Transfert d’une ligne**
 
 - **(3)** Sous réserve de l’article 144.1, la compagnie de chemin de fer peut transférer, notamment par vente ou bail, ses droits de propriété ou d’exploitation sur une ligne en vue de la continuation de son exploitation.
 
+**Attestation**
+
+- **(3.1)** La compagnie de chemin de fer fournit à la personne à qui elle transfère ses droits de propriété ou d’exploitation sur la ligne une attestation écrite portant que le transfert est conforme à l’article 96. Elle envoie copie de l’attestation au ministre.
+
 **Obligation en cas de transfert**
 
 - **(4)** La compagnie de chemin de fer qui transfère, notamment par vente ou bail, ses droits de propriété ou d’exploitation sur une partie d’un embranchement tributaire du transport du grain mentionné à l’annexe I à une personne qui entend l’exploiter doit continuer d’exploiter la portion restante pendant les trois ans suivant le transfert, sauf si le ministre conclut que cela n’est pas dans l’intérêt public.
-> 1996, ch. 10, art. 141; 2000, ch. 16, art. 5; 2007, ch. 19, art. 35.
+> 1996, ch. 10, art. 141; 2000, ch. 16, art. 5; 2007, ch. 19, art. 35; 2018, ch. 10, art. 32.
 
 
 
@@ -3366,16 +3684,20 @@ où
 
 **142** 
 
-- **(1)** La compagnie de chemin de fer qui entend cesser d’exploiter une ligne suit les étapes prescrites par la présente section.
+- **(1)** La compagnie de chemin de fer qui entend cesser d’exploiter une ligne suit les étapes prescrites par la présente section. Elle publie et tient à jour sur son site Internet ou sur celui d’une association ou autre entité représentant les compagnies de chemin de fer un rapport indiquant la date où elle a commencé et celle où elle a franchi chacune des étapes prescrites par la présente section.
 
 **Réserve**
 
 - **(2)** Elle ne peut cesser d’exploiter une ligne que si son intention de ce faire a figuré au plan pendant au moins douze mois.
 
+**Exception**
+
+- **(2.1)** Le paragraphe (2) ne s’applique pas à la compagnie de chemin de fer qui fait l’objet d’une procédure prévue par la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+
 **Groupes communautaires**
 
 - **(3)** Si le gouvernement fédéral, un gouvernement provincial, une administration municipale ou un groupe communautaire appuyé par écrit par un tel gouvernement ou une telle administration a informé par écrit une compagnie de chemin de fer qu’il serait intéressé à acquérir, en vue d’en continuer l’exploitation, tout ou partie d’un embranchement tributaire du transport du grain mentionné à l’annexe I et figurant dans le plan de la compagnie à titre de ligne dont elle a l’intention de cesser, en tout ou en partie, l’exploitation, le paragraphe (2) ne s’applique pas et la compagnie doit sans délai suivre les étapes visées à l’article 143.
-> 1996, ch. 10, art. 142; 2000, ch. 16, art. 6.
+> 1996, ch. 10, art. 142; 2000, ch. 16, art. 6; 2018, ch. 10, art. 33.
 
 
 
@@ -3391,12 +3713,14 @@ où
 
 - **(2)** L’annonce comporte la description de la ligne et les modalités du transfert, notamment par vente ou cession, du droit de propriété ou d’exploitation de celle-ci, et énonce les étapes préalables à la cessation, la mention qu’elle vise quiconque est intéressé à acquérir, notamment par achat ou prise à bail, les droits de propriété ou d’exploitation de la compagnie en vue de poursuivre l’exploitation de la ligne, ainsi que le délai, d’au moins soixante jours suivant sa première publication, donné aux intéressés pour manifester, par écrit, leur intention.
 
-**Existence d’une entente**
+**Mentions dans l’annonce**
 
-- **(3)** L’annonce doit aussi mentionner toute entente conclue entre la compagnie et une société de transport publique sur l’exploitation d’un service passagers sur une ligne de la compagnie.
+- **(3)** L’annonce mentionne aussi :
+	- **a)** toute entente conclue entre la compagnie et une société de transport publique sur l’exploitation d’un service passagers sur une ligne de la compagnie;
+	- **b)** soit que l’article 96 s’applique aux terres sur lesquelles la ligne est située soit qu’il ne s’applique pas à celles-ci.
 
 - **(4)** [Abrogé, 2007, ch. 19, art. 36]
-> 1996, ch. 10, art. 143; 2007, ch. 19, art. 36.
+> 1996, ch. 10, art. 143; 2007, ch. 19, art. 36; 2018, ch. 10, art. 34.
 
 
 
@@ -3426,6 +3750,10 @@ où
 
 - **(5)** À défaut d’entente dans les six mois, elle peut décider de poursuivre l’exploitation de la ligne, auquel cas elle n’est pas tenue de se conformer à l’article 145, mais doit modifier son plan en conséquence.
 
+**Attestation**
+
+- **(5.1)** Si une entente est conclue, y compris une entente conclue en application d’un arrêté de l’Office, la compagnie de chemin de fer fournit à la personne à qui elle transfère ses droits de propriété ou d’exploitation sur la ligne une attestation écrite portant que le transfert est conforme à l’article 96. Elle envoie copie de l’attestation au ministre.
+
 **Défaut par le chemin de fer de négocier de bonne foi**
 
 - **(6)** Saisi d’une plainte écrite formulée par l’intéressé, l’Office peut, s’il conclut que la compagnie ne négocie pas de bonne foi et que le transfert à l’intéressé, notamment par vente ou bail, des droits de propriété ou d’exploitation sur la ligne en vue de la continuation de son exploitation serait commercialement équitable et raisonnable pour les parties, ordonner à la compagnie de conclure avec l’intéressé une entente pour effectuer ce transfert et prévoyant les modalités d’exploitation relativement à l’interconnexion du trafic, selon les modalités qu’il précise, notamment la remise d’une contrepartie.
@@ -3433,7 +3761,7 @@ où
 **Défaut par l’intéressé de négocier de bonne foi**
 
 - **(7)** Saisi d’une plainte écrite formulée par la compagnie, l’Office peut décider que la compagnie n’est plus tenue de négocier avec l’intéressé s’il conclut que celui-ci ne négocie pas de bonne foi.
-> 1996, ch. 10, art. 144; 2000, ch. 16, art. 7; 2007, ch. 19, art. 37.
+> 1996, ch. 10, art. 144; 2000, ch. 16, art. 7; 2007, ch. 19, art. 37; 2018, ch. 10, art. 35.
 
 
 
@@ -3466,6 +3794,10 @@ où
 
 - **(1)** La compagnie de chemin de fer est tenue d’offrir aux gouvernements, administrations de transport de banlieue et administrations municipales de leur transférer tous ses intérêts à leur valeur nette de récupération ou moins si personne ne manifeste d’intérêt ou aucune entente n’est conclue dans le délai prescrit, ou si le transfert n’est pas effectué conformément à l’entente.
 
+**Communication**
+
+- **(1.1)** L’offre mentionne soit que l’article 96 s’applique aux terres sur lesquelles la ligne est située soit qu’il ne s’applique pas à celles-ci. Si elle ne l’a pas encore fait, la compagnie fournit au ministre, avec l’offre, les éléments visés aux alinéas 141(2.2)a) et b).
+
 **Précision**
 
 - **(2)** L’offre est faite simultanément :
@@ -3481,19 +3813,31 @@ où
 **Délai d’acceptation**
 
 - **(3)** Sous réserve du paragraphe 146.3(3), les destinataires de l’offre disposent, après sa réception, des délais suivants pour l’accepter :
-	- **a)** trente jours pour le gouvernement fédéral;
+	- **a)** soixante jours ou le délai prolongé en application du paragraphe (3.1) pour le gouvernement fédéral;
 	- **b)** trente jours pour le gouvernement provincial, mais si le gouvernement fédéral n’accepte pas l’offre qui lui est d’abord faite, chaque gouvernement provincial visé dispose de trente jours supplémentaires une fois expiré le délai mentionné à l’alinéa a);
 	- **b.1)** trente jours pour chaque administration de transport de banlieue, une fois expirés les délais mentionnés aux alinéas a) et b);
 	- **c)** trente jours pour chaque administration municipale, une fois expirés les délais mentionnés aux alinéas a), b) et b.1).
+
+**Prolongations**
+
+- **(3.1)** S’il l’estime indiqué, le ministre peut prolonger de cent vingt jours le délai prévu à l’alinéa (3)a). Il peut aussi prolonger ce délai de nouveau, mais la somme des prolongations supplémentaires ne peut excéder trois cent soixante-cinq jours. Il avise la compagnie de chacune des prolongations et celle-ci en avise les autres destinataires de l’offre.
+
+**Suspension des obligations de la compagnie**
+
+- **(3.2)** Si le ministre prolonge le délai prévu à l’alinéa (3)a), les obligations prévues par les articles 113 et 114 qui incombent à la compagnie de chemin de fer relativement à l’exploitation de la ligne sont suspendues pour la période commençant à l’expiration des cent cinquante jours suivant la réception de l’offre par le ministre et se terminant à l’expiration des deux cent quatre-vingts jours suivant l’expiration du délai prolongé par le ministre. Il est toutefois interdit à la compagnie de chemin de fer de retirer, durant cette période, toute partie de l’infrastructure se rapportant à la ligne.
 
 **Acceptation**
 
 - **(4)** La communication, par écrit, de l’acceptation à la compagnie éteint le droit des autres destinataires de l’offre; celle-ci leur notifie l’acceptation de l’offre.
 
+**Attestation**
+
+- **(4.1)** Lors du transfert de la ligne, la compagnie fournit au destinataire de l’offre qui a accepté celle-ci une attestation écrite portant que le transfert est conforme à l’article 96. Elle envoie copie de l’attestation au ministre.
+
 **Valeur nette de récupération**
 
 - **(5)** Si les parties ne peuvent s’entendre, dans les quatre-vingt-dix jours suivant l’acceptation de l’offre, sur la valeur nette de récupération, l’Office la détermine, sur demande de l’une d’elles.
-> 1996, ch. 10, art. 145; 2007, ch. 19, art. 39.
+> 1996, ch. 10, art. 145; 2007, ch. 19, art. 39; 2018, ch. 10, art. 36.
 
 
 
@@ -3505,10 +3849,14 @@ où
 
 - **(1)** Lorsqu’elle s’est conformée au processus établi en vertu des articles 143 à 145, sans qu’une convention de transfert n’en résulte, la compagnie de chemin de fer peut mettre fin à l’exploitation de la ligne pourvu qu’elle en avise l’Office. Par la suite, elle n’a aucune obligation, en vertu de la présente loi, relativement à l’exploitation de la ligne ou à son utilisation par toute société de transport publique.
 
+**Documents à joindre à l’avis**
+
+- **(1.1)** L’avis est accompagné d’une copie de l’annonce exigée au titre de l’article 143 et des offres faites, en application du paragraphe 145(1), aux gouvernements, administrations de transport de banlieue et administrations municipales.
+
 **Non-obligation**
 
 - **(2)** En cas de transfert — notamment par vente ou bail — par la compagnie de la ligne ou de droits qu’elle y détient, en vertu d’une convention résultant du processus établi en vertu des articles 143 à 145 ou autrement, la compagnie cessionnaire n’a plus d’obligation en vertu de la présente loi relativement à l’exploitation de la ligne ou à son utilisation par la société de transport publique, et ce à compter de la date de signature de l’acte de transfert.
-> 1996, ch. 10, art. 146; 2007, ch. 19, art. 40.
+> 1996, ch. 10, art. 146; 2007, ch. 19, art. 40; 2018, ch. 10, art. 37.
 
 
 
@@ -3647,6 +3995,15 @@ Cette offre leur est faite simultanément.
 
 
 
+**Plaintes**
+
+**146.6** Saisi d’une plainte, l’Office peut, s’il constate qu’une compagnie de chemin de fer ne se conforme pas à la présente section, ordonner à celle-ci de prendre les mesures qu’il estime indiquées pour qu’elle s’y conforme.
+> 2018, ch. 10, art. 38.
+
+
+
+
+
 **SECTION VI** 
 ### Transport du grain de l’Ouest
 
@@ -3662,26 +4019,26 @@ Cette offre leur est faite simultanément.
 
 ***barème***[Abrogée, 2000, ch. 16, art. 9]
 
-***campagne agricole*** Période commençant le 1<sup>er</sup> août et se terminant le 31 juillet de l’année suivante.
+***campagne agricole*** Période commençant le 1<sup>er</sup> août et se terminant le 31 juillet de l’année suivante. (*crop year*)
 
-***compagnie de chemin de fer régie*** La Compagnie des chemins de fer nationaux du Canada, la Compagnie de chemin de fer Canadien Pacifique et toute autre compagnie de chemin de fer précisée par règlement.
+***compagnie de chemin de fer régie*** La Compagnie des chemins de fer nationaux du Canada, la Compagnie de chemin de fer Canadien Pacifique et toute autre compagnie de chemin de fer précisée par règlement. (*prescribed railway company*)
 
-***exportation*** L’expédition de grain par bâtiment, au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), vers toute destination à l’étranger ainsi que l’expédition de grain par tout autre moyen de transport vers les États-Unis pour l’utilisation dans ce pays et non pour expédition hors de celui-ci.
+***exportation*** L’expédition de grain par bâtiment, au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), vers toute destination à l’étranger ainsi que l’expédition de grain par tout autre moyen de transport vers les États-Unis pour l’utilisation dans ce pays et non pour expédition hors de celui-ci. (*export*)
 
 ***grain***
 - **a)** Grain ou plante mentionnés à l’annexe II et cultivés dans la région de l’Ouest, y étant assimilés les produits mentionnés à cette annexe provenant de leur transformation dans cette région;
-- **b)** grain ou plante mentionnés à l’annexe II et importés au Canada après avoir été cultivés à l’étranger, y étant assimilés les produits mentionnés à cette annexe qui, d’une part, proviennent de la transformation à l’étranger de grains ou plantes qui y sont également mentionnés et, d’autre part, ont été importés au Canada.
+- **b)** grain ou plante mentionnés à l’annexe II et importés au Canada après avoir été cultivés à l’étranger, y étant assimilés les produits mentionnés à cette annexe qui, d’une part, proviennent de la transformation à l’étranger de grains ou plantes qui y sont également mentionnés et, d’autre part, ont été importés au Canada. (*grain*)
 
-***mouvement du grain*** Transport du grain par une compagnie de chemin de fer régie sur toute ligne soit dans le sens ouest-est à destination de Thunder Bay ou d’Armstrong (Ontario), soit au départ de tout point situé à l’ouest de Thunder Bay ou d’Armstrong et à destination de Churchill (Manitoba) ou d’un port de la Colombie-Britannique, pour exportation. La présente définition ne s’applique pas au grain exporté d’un port de la Colombie-Britannique aux États-Unis pour consommation.
+***mouvement du grain*** Transport du grain par une compagnie de chemin de fer régie sur toute ligne soit dans le sens ouest-est à destination de Thunder Bay ou d’Armstrong (Ontario), soit au départ de tout point situé à l’ouest de Thunder Bay ou d’Armstrong et à destination de Churchill (Manitoba) pour exportation, d’un port de la Colombie-Britannique pour exportation ou, si le grain est par la suite transporté jusqu’à un port de la Colombie-Britannique pour exportation, de tout autre point situé à l’ouest de Thunder Bay ou d’Armstrong. La présente définition ne s’applique pas au grain exporté d’un port de la Colombie-Britannique aux États-Unis pour consommation. (*movement*) 
 
 ***mouvement sur ligne conjointe***[Abrogée, 2000, ch. 16, art. 9]
 
-***port de la Colombie-Britannique*** Vancouver, North Vancouver, New Westminster, Roberts Bank, Prince Rupert, Ridley Island, Burnaby, Fraser Mills, Fraser Surrey, Fraser Wharves, Lake City, Lulu Island Junction, Port Coquitlam, Port Moody, Steveston, Tilbury et Woodwards Landing.
+***port de la Colombie-Britannique*** Vise notamment Vancouver, North Vancouver, New Westminster, Roberts Bank, Prince Rupert, Ridley Island, Burnaby, Fraser Mills, Fraser Surrey, Fraser Wharves, Lake City, Lulu Island Junction, Port Coquitlam, Port Moody, Steveston, Tilbury et Woodwards Landing. (*port in British Columbia*)
 
-***région de l’Ouest*** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba.
+***région de l’Ouest*** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba. (*Western Division*)
 
-***wagon-trémie du gouvernement*** Wagon-trémie fourni à une compagnie de chemin de fer régie par le gouvernement fédéral ou le gouvernement d’une province.
-> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3; 2011, ch. 25, art. 60.
+***wagon-trémie du gouvernement***[Abrogée, 2018, ch. 10, art. 39]
+> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3; 2011, ch. 25, art. 60; 2018, ch. 10, art. 39.
 
 
 
@@ -3733,10 +4090,12 @@ Cette offre leur est faite simultanément.
 
 **Exclusion**
 
-- **(3)** Pour l’application du présent article, sont exclus du revenu d’une compagnie de chemin de fer régie pour le mouvement du grain au cours d’une campagne agricole :
-	- **a)** les incitatifs, rabais ou réductions semblables versés ou accordés par la compagnie;
+- **(3)** Pour l’application du présent article, sont exclus du revenu d’une compagnie de chemin de fer régie pour le mouvement du grain au cours d’une campagne agricole :
+	- **a)** les primes, rabais ou réductions semblables versés ou accordés par la compagnie;
 	- **b)** les recettes attribuables aux amendes pour non-exécution, aux droits de stationnement et aux droits de stockage des wagons chargés de grain que l’Office estime justifié de considérer comme telles;
-	- **c)** les indemnités pour les droits de circulation.
+	- **c)** les indemnités pour les droits de circulation;
+	- **d)** les revenus perçus pour l’interconnexion du trafic dont le prix est fixé en application de l’article 127.1;
+	- **e)** les revenus tirés du mouvement du grain par conteneurs sur wagons plats.
 
 **Sommes non déduites**
 
@@ -3749,7 +4108,7 @@ Cette offre leur est faite simultanément.
 **Calcul du revenu des compagnies**
 
 - **(6)** L’Office calcule le montant du revenu de chaque compagnie de chemin de fer régie pour le mouvement du grain au cours d’une campagne agricole au plus tard le 31 décembre de la campagne suivante.
-> 1996, ch. 10, art. 150; 2000, ch. 16, art. 10.
+> 1996, ch. 10, art. 150; 2000, ch. 16, art. 10; 2018, ch. 10, art. 40.
 
 
 
@@ -3763,7 +4122,7 @@ Cette offre leur est faite simultanément.
 
 **151** 
 
-- **(1)** Le revenu admissible maximal d’une compagnie de chemin de fer régie pour le mouvement du grain au cours d’une campagne agricole est calculé par l’Office selon la formule suivante :
+- **(1)** Le revenu admissible maximal d’une compagnie de chemin de fer régie pour le mouvement du grain au cours d’une campagne agricole est calculé par l’Office selon la formule suivante :
 ```
 [A/B + ((C - D) × 0,022 $)] × E × F
 ```
@@ -3773,37 +4132,58 @@ où
 - **C** le nombre de milles correspondant à la longueur moyenne des mouvements de grain effectués par la compagnie au cours de la campagne agricole, tel qu’il est déterminé par l’Agence;
 - **D** le nombre de milles correspondant à la longueur moyenne des mouvements de grain effectués par la compagnie au cours de l’année de référence;
 - **E** le nombre de tonnes métriques correspondant aux mouvements de grain effectués par la compagnie au cours de la campagne agricole, tel qu’il est déterminé par l’Office;
-- **F** l’indice des prix composite afférent au volume, tel qu’il est déterminé par l’Office.
+- **F** l’indice des prix composite afférent au volume applicable à la compagnie, tel qu’il est déterminé par l’Office.
 
 **Compagnie des chemins de fer nationaux du Canada**
 
 - **(2)** Pour l’application du paragraphe (1), dans le cas de la Compagnie des chemins de fer nationaux du Canada :
-	- **a)** A est égal à 348 000 000 $;
-	- **b)** B est égal à 12 437 000;
+	- **a)** A est égal à 348 000 000 $;
+	- **b)** B est égal à 12 437 000;
 	- **c)** D est égal à 1 045.
 
 **Compagnie de chemin de fer Canadien Pacifique**
 
 - **(3)** Pour l’application du paragraphe (1), dans le cas de la Compagnie de chemin de fer Canadien Pacifique :
-	- **a)** A est égal à 362 900 000 $;
-	- **b)** B est égal à 13 894 000;
+	- **a)** A est égal à 362 900 000 $;
+	- **b)** B est égal à 13 894 000;
 	- **c)** D est égal à 897.
 
 **Indice des prix composite afférent au volume**
 
-- **(4)** Les règles suivantes s’appliquent à l’indice des prix composite afférent au volume :
-	- **a)** l’indice pour la campagne agricole 2000-2001 est égal à 1,0;
-	- **b)** l’indice est applicable à toutes les compagnies de chemin de fer régies;
-	- **c)** l’Office ajuste l’indice afin de tenir compte des coûts supportés par les compagnies de chemin de fer régies, d’une part, pour l’obtention de wagons à la suite de la disposition, notamment par vente ou location, ou de la mise hors de service de wagons-trémies du gouvernement et, d’autre part, pour l’entretien des wagons ainsi obtenus.
+- **(4)** Les règles ci-après s’appliquent à l’indice des prix composite afférent au volume :
+	- **a)** l’indice pour chaque compagnie de chemin de fer régie pour la campagne agricole 2016-2017 est égal à 1,3275;
+	- **b)** l’indice est déterminé pour chaque compagnie de chemin de fer régie;
+	- **c)** l’Office ajuste l’indice déterminé pour chaque compagnie de chemin de fer régie afin de tenir compte des coûts supportés par la compagnie en cause pour l’obtention de wagons-trémies en vue du mouvement du grain et pour l’entretien des wagons obtenus.
 
-**Délai pour le calcul du revenu admissible maximal et de l’indice**
+**Délai pour effectuer le calcul**
 
-- **(5)** L’Office calcule le montant du revenu admissible maximal pour le mouvement du grain de chaque compagnie de chemin de fer régie au cours d’une campagne agricole au plus tard le 31 décembre de la campagne suivante et calcule l’indice des prix composite afférent au volume pour cette campagne au plus tard le 30 avril de la campagne précédente.
+- **(5)** L’Office calcule le montant du revenu admissible maximal pour le mouvement du grain de chaque compagnie de chemin de fer régie au cours d’une campagne agricole au plus tard le 31 décembre de la campagne suivante et calcule, pour chaque compagnie de chemin de fer régie, l’indice des prix composite afférent au volume pour cette campagne au plus tard le 30 avril de la campagne précédente.
 
 **Ajustements**
 
 - **(6)** Malgré le paragraphe (5), l’Office effectue les ajustements visés à l’alinéa (4)c) lorsqu’il l’estime indiqué, et détermine la date de prise d’effet de l’indice ainsi ajusté.
-> 1996, ch. 10, art. 151; 2000, ch. 16, art. 10; 2007, ch. 19, art. 43.
+> 1996, ch. 10, art. 151; 2000, ch. 16, art. 10; 2007, ch. 19, art. 43; 2018, ch. 10, art. 41.
+
+
+
+
+
+**Rapport au ministre**
+
+**151.01** 
+
+- **(1)** Avant le début de chaque campagne agricole, la compagnie de chemin de fer régie fournit au ministre, en la forme et selon les modalités que celui-ci peut préciser, un rapport comportant :
+	- **a)** d’une part, une évaluation de sa capacité à effectuer le mouvement du grain qu’elle devra effectuer pour la campagne agricole, compte tenu des prévisions portant sur le volume total du grain à transporter pour cette campagne;
+	- **b)** d’autre part, les mesures qu’elle prend pour lui permettre d’effectuer le mouvement du grain qu’elle devra effectuer pour la campagne agricole.
+
+**Rapport au ministre — conditions hivernales**
+
+- **(2)** Avant le 1<sup>er</sup> octobre de chaque année, la compagnie de chemin de fer régie fournit au ministre, en la forme et selon les modalités que celui-ci peut préciser, un rapport comportant les plans qu’elle a établis pour lui permettre d’effectuer le mouvement du grain et le transport d’autres marchandises malgré les conditions météorologiques hivernales.
+
+**Publication**
+
+- **(3)** Dès que la compagnie de chemin de fer régie fournit au ministre un rapport en application des paragraphes (1) ou (2), elle le publie sur son site Internet.
+> 2018, ch. 10, art. 42.
 
 
 
@@ -4467,11 +4847,11 @@ où
 
 **155.7** 
 
-- **(1)** La première compagnie de chemin de fer à transporter, après leur chargement, pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b), des marchandises dont le transport est associé à une contribution prévue aux articles 155.3 ou 155.5 et toute compagnie de chemin de fer tenue de verser une contribution au titre de l’arrêté pris en vertu de l’article 155.6 versent au receveur général une somme équivalant à la contribution qu’elle est ainsi tenue de payer ou qui est associée aux marchandises qu’elle transporte. Le versement est effectué dans les trente jours suivant la fin du trimestre au cours duquel la contribution est devenue exigible ou, si un règlement pris en vertu de l’alinéa 155.97d) est en vigueur, avant la fin de la période prévue dans ce règlement.
+- **(1)** La première compagnie de chemin de fer à transporter, après leur chargement, pour un prix autre qu’un prix fixé en application de l’article 127.1, des marchandises dont le transport est associé à une contribution prévue aux articles 155.3 ou 155.5 et toute compagnie de chemin de fer tenue de verser une contribution au titre de l’arrêté pris en vertu de l’article 155.6 versent au receveur général une somme équivalant à la contribution qu’elle est ainsi tenue de payer ou qui est associée aux marchandises qu’elle transporte. Le versement est effectué dans les trente jours suivant la fin du trimestre au cours duquel la contribution est devenue exigible ou, si un règlement pris en vertu de l’alinéa 155.97d) est en vigueur, avant la fin de la période prévue dans ce règlement.
 
 **Exigibilité de la contribution — articles 155.3 et 155.5**
 
-- **(2)** La contribution prévue aux articles 155.3 ou 155.5 est exigible le premier jour où les marchandises sont transportées par la première compagnie de chemin de fer à les transporter après leur chargement pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b).
+- **(2)** La contribution prévue aux articles 155.3 ou 155.5 est exigible le premier jour où les marchandises sont transportées par la première compagnie de chemin de fer à les transporter après leur chargement pour un prix autre qu’un prix fixé en application de l’article 127.1.
 
 **Exigibilité de la contribution — article 155.6**
 
@@ -4480,7 +4860,7 @@ où
 **Définition de trimestre**
 
 - **(4)** Pour l’application du présent article, ***trimestre*** s’entend de toute période de trois mois débutant le premier jour de janvier, d’avril, de juillet ou d’octobre.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 59(F).
 
 
 
@@ -4488,8 +4868,14 @@ où
 
 **Intérêts sur les sommes non versées**
 
-**155.8** La compagnie de chemin de fer verse au receveur général sur le solde de la contribution qu’elle est tenue de verser selon les modalités prévues au paragraphe 155.7(1), des intérêts calculés au taux et selon les modalités fixés par décret du gouverneur en conseil, à compter du moment où le versement au receveur général est devenu exigible.
-> 2015, ch. 31, art. 10.
+**155.8** 
+
+- **(1)** La compagnie de chemin de fer verse au receveur général sur le solde de la contribution qu’elle est tenue de verser selon les modalités prévues au paragraphe 155.7(1), des intérêts composés calculés mensuellement, au taux fixé conformément aux règlements pris en vertu de l’article 155.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à compter du jour où le versement au receveur général est devenu exigible jusqu’à la veille de la date de réception, par celui-ci, du versement.
+
+**Paiement partiel**
+
+- **(2)** En cas de versement partiel, la période de calcul des intérêts sur le montant payé se termine la veille de la date de réception de celui-ci par le receveur général.
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 43.
 
 
 
@@ -4535,7 +4921,7 @@ où
 - **(1)** Toute compagnie de chemin de fer tenue de verser une contribution en application du paragraphe 155.7(1) tient, à son établissement au Canada ou à un autre endroit au Canada désigné par le ministre, des registres et livres comptables qui contiennent les renseignements suivants :
 	- **a)** les sommes à verser en application de ce paragraphe;
 	- **b)** les types et les quantités de marchandises transportées auxquelles se rapportent ces sommes;
-	- **c)** si ces sommes se rapportent à un transport auquel est associée une contribution prévue aux articles 155.3 ou 155.5, la date à laquelle les marchandises ont été transportées par la compagnie de chemin de fer pour la première fois après leur chargement et le lieu de départ des marchandises ainsi transportées pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b);
+	- **c)** si ces sommes se rapportent à un transport auquel est associée une contribution prévue aux articles 155.3 ou 155.5, la date à laquelle les marchandises ont été transportées par la compagnie de chemin de fer pour la première fois après leur chargement et le lieu de départ des marchandises ainsi transportées pour un prix autre qu’un prix fixé en application de l’article 127.1;
 	- **d)** si ces sommes se rapportent à un transport auquel est associée une contribution précisée dans l’arrêté pris en vertu de l’article 155.6, la date à laquelle les marchandises ont été transportées par la compagnie de chemin de fer et les lieux de départ et d’arrivée des marchandises ainsi transportées.
 
 **Destruction**
@@ -4545,7 +4931,7 @@ où
 **Examen**
 
 - **(3)** Elles doivent, à toute heure convenable, permettre aux personnes désignées par le ministre en vertu du paragraphe 155.85(1) d’examiner les registres et livres comptables, ainsi que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent; elles doivent aussi leur fournir les moyens nécessaires à cet examen.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 59(F).
 
 
 
@@ -4788,9 +5174,9 @@ où
 - **c)** régir toute marchandise — ou catégorie de marchandises — pour l’application de l’article 155.5 et fixer le montant et la méthode de calcul de la contribution qui y est associée;
 - **d)** régir la période pour l’application du paragraphe 155.7(1);
 - **e)** régir la conservation et le dépôt, auprès du ministre, par les compagnies de chemin de fer, de renseignements concernant tout transport qu’elles ont effectué et auquel est associée une contribution prévue aux articles 155.3, 155.5 ou 155.6;
-- **f)** régir le taux d’intérêt pour l’application de l’article 155.8 ou la méthode de calcul de ce taux;
+- **f)** [Abrogé, 2018, ch. 10, art. 44]
 - **g)** prendre toute autre mesure d’application de la présente section.
-> 2015, ch. 31, art. 10.
+> 2015, ch. 31, art. 10; 2018, ch. 10, art. 44.
 
 
 
@@ -4859,13 +5245,19 @@ où
 
 **Calcul pour partie**
 
-- **(3)** Lorsque le calcul ne vise qu’une partie des frais d’une compagnie de chemin de fer, l’Office :
+- **(3)** Lorsque le calcul ne vise qu’une partie des frais d’une compagnie de chemin de fer, l’Office :
 	- **a)** inclut dans le calcul ceux des frais de l’ensemble ou de toute autre partie du chemin de fer normalement attribuables, selon lui, à la partie ou à l’exploitation pour laquelle le calcul est fait sans qu’il soit tenu compte du moment, de la manière ou de l’origine des frais;
 	- **b)** s’agissant des opérations futures, les détermine d’après les prévisions établies sur la base qu’il estime raisonnable en l’occurrence.
 
 **Effet**
 
 - **(4)** Le calcul effectué en application de la présente partie est définitif et opposable aux parties intéressées ou visées.
+
+**Renseignements sur les coûts**
+
+- **(5)** Au plus tard le 31 août de chaque année, la Compagnie des chemins de fer nationaux du Canada et la Compagnie de chemin de fer Canadien Pacifique fournissent à l’Office, en la forme et selon les modalités précisées par celui-ci, les données financières ou statistiques — notamment les données relatives aux frais unitaires et aux unités de production — et les renseignements à l’appui pour l’année civile qui précède dont il a besoin pour effectuer le calcul des frais sous le régime de la présente partie.
+> 1996, ch. 10, art. 157; 2018, ch. 10, art. 45.
+
 
 
 
@@ -4956,9 +5348,9 @@ où
 
 **Contenu de la demande**
 
-- **(2)** Un exemplaire de la demande d’arbitrage est signifié au transporteur par l’expéditeur; la demande contient :
+- **(2)** Un exemplaire de la demande d’arbitrage est signifié au transporteur par l’expéditeur; la demande contient :
 	- **a)** la dernière offre faite par l’expéditeur au transporteur, sans mention de sommes d’argent;
-	- **b)** [Abrogé, 2000, ch. 16, art. 11] 
+	- **b)** la mention de la période d’au plus deux ans durant laquelle l’expéditeur souhaite que la décision de l’arbitre s’applique;
 	- **c)** l’engagement par l’expéditeur d’expédier les marchandises visées par l’arbitrage selon les termes de la décision de l’arbitre;
 	- **d)** l’engagement par l’expéditeur envers l’Office de payer à l’arbitre les honoraires auxquels il est tenu en application de l’article 166 à titre de partie à l’arbitrage;
 	- **e)** le cas échéant, le nom de l’arbitre sur lequel l’expéditeur et le transporteur se sont entendus ou, s’ils ont convenu que la question soit soumise à une formation de trois arbitres, le nom de l’arbitre choisi par l’expéditeur et le nom de celui choisi par le transporteur.
@@ -4970,7 +5362,7 @@ où
 **Soumission d’une question pour arbitrage**
 
 - **(4)** La soumission d’une question à l’Office pour arbitrage ne constitue pas une procédure devant l’Office.
-> 1996, ch. 10, art. 161; 2000, ch. 16, art. 11.
+> 1996, ch. 10, art. 161; 2000, ch. 16, art. 11; 2018, ch. 10, art. 46.
 
 
 
@@ -5071,11 +5463,40 @@ où
 
 **Procédure sommaire**
 
-**164.1** Si l’Office établit que la valeur des frais de transport de marchandises visés par la dernière offre d’un expéditeur présentée conformément au paragraphe 161.1(1) est d’au plus 750 000 $, les articles 163 et 164 ne s’appliquent pas et l’affaire soumise à l’arbitrage est entendue selon la procédure sommaire ci-après, sauf si l’expéditeur a indiqué à l’Office son intention contraire lors de la présentation de l’offre :
+**164.1** Si l’Office établit que la valeur des frais de transport de marchandises visés par la dernière offre d’un expéditeur présentée conformément au paragraphe 161.1(1) est d’au plus 2 000 000 $, ce montant maximal étant rajusté conformément à l’article 164.2, les articles 163 et 164 ne s’appliquent pas et l’affaire soumise à l’arbitrage est entendue selon la procédure sommaire ci-après, sauf si l’expéditeur a indiqué à l’Office son intention contraire lors de la présentation de l’offre :
 - **a)** l’expéditeur et le transporteur disposent de sept jours à compter du renvoi de l’affaire à l’arbitrage pour déposer une réponse à la dernière offre de l’autre partie;
 - **b)** sous réserve de l’alinéa c), l’arbitre rend sa décision sur le fondement des dernières offres et des réponses des parties;
 - **c)** s’il l’estime nécessaire, l’arbitre peut inviter les parties à lui présenter oralement des observations ou à comparaître devant lui pour lui fournir des renseignements.
-> 2000, ch. 16, art. 15.
+> 2000, ch. 16, art. 15; 2018, ch. 10, art. 47.
+
+
+
+
+
+**Rajustement triennal**
+
+**164.2** 
+
+- **(1)** Le montant maximal prévu à l’article 164.1 est rajusté tous les trois ans, le 1<sup>er</sup> avril, de façon à correspondre au résultat obtenu par la formule suivante :
+```
+[A/B] × C
+```
+où :
+- **A** représente l’indice des prix à la consommation pour l’année civile qui précède celle où le rajustement est effectué;
+- **B** l’indice des prix à la consommation pour l’année 2017;
+- **C** 2 000 000 $.
+
+**Indice des prix à la consommation**
+
+- **(2)** Pour l’application du paragraphe (1), les règles ci-après s’appliquent :
+	- **a)** toute mention de l’indice des prix à la consommation s’entend, pour une période de douze mois, de la moyenne des indices des prix à la consommation pour le Canada pour chaque mois de cette période, publiés par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **b)** dans les cas où l’indice des prix à la consommation pour le Canada est rajusté pour refléter une nouvelle base de temps, un rajustement correspondant est fait à l’indice des prix à la consommation à l’égard de toute période de douze mois servant au calcul du montant maximal en application du paragraphe (1);
+	- **c)** un rajustement de l’indice des prix à la consommation pour le Canada pour refléter une nouvelle base quant au contenu n’a aucun effet sur l’application du présent article.
+
+**Publication du montant maximal rajusté**
+
+- **(3)** Il incombe à l’Office de calculer le montant maximal rajusté conformément au paragraphe (1) et de le faire publier dans la Gazette du Canada au plus tard le 31 mars précédant le début de la période triennale durant laquelle le montant maximal rajusté s’appliquera; le montant ainsi publié fait foi du montant maximal pour cette période de trois ans.
+> 2018, ch. 10, art. 48.
 
 
 
@@ -5089,10 +5510,10 @@ où
 
 **Décision de l’arbitre**
 
-- **(2)** La décision de l’arbitre est rendue :
+- **(2)** La décision de l’arbitre est rendue :
 	- **a)** par écrit;
 	- **b)** sauf accord entre les parties à l’effet contraire, dans les soixante jours suivant la date de réception par l’Office de la demande d’arbitrage ou, dans le cas de la demande entendue conformément à l’article 164.1, dans les trente jours suivant cette date;
-	- **c)** sauf accord entre les parties à l’effet contraire, de manière à être applicable à celles-ci pendant un an, ou le délai inférieur indiqué, eu égard aux négociations ayant eu lieu entre les parties avant l’arbitrage.
+	- **c)** de manière à être applicable pendant la période convenue entre les parties ou, à défaut de période convenue, pendant la période d’au plus deux ans que l’expéditeur a demandée dans la demande d’arbitrage.
 
 **Insertion dans le tarif**
 
@@ -5108,14 +5529,14 @@ où
 
 **Application de la décision**
 
-- **(6)** Sauf accord entre les parties à l’effet contraire :
+- **(6)** Sauf accord entre les parties à l’effet contraire :
 	- **a)** la décision de l’arbitre est définitive et obligatoire, s’applique aux parties à compter de la date de la réception par l’Office de la demande d’arbitrage présentée par l’expéditeur et, aux fins de son exécution, est assimilée à un arrêté de l’Office;
 	- **b)** l’arbitre indique dans la décision les intérêts, au taux raisonnable qu’il fixe, à payer sur les sommes qui, par application de l’alinéa a), sont en souffrance depuis la date de la demande jusqu’à celle du paiement.
 
 **Paiement**
 
 - **(7)** Les montants exigibles visés à l’alinéa (6)b) sont payables sans délai à qui y a droit.
-> 1996, ch. 10, art. 165; 2000, ch. 16, art. 16.
+> 1996, ch. 10, art. 165; 2000, ch. 16, art. 16; 2018, ch. 10, art. 49.
 
 
 
@@ -5280,10 +5701,14 @@ où
 	- **a)** les conditions d’exploitation auxquelles la compagnie de chemin de fer est assujettie relativement à la réception, au chargement, au transport, au déchargement et à la livraison des marchandises en cause, y compris les normes de rendement et les protocoles de communication;
 	- **b)** les conditions d’exploitation auxquelles la compagnie de chemin de fer est assujettie en cas de non-respect d’une condition d’exploitation visée à l’alinéa a);
 	- **c)** les conditions d’exploitation auxquelles l’expéditeur est assujetti et qui sont liées aux conditions d’exploitation visées aux alinéas a) ou b);
+	- **c.1)** les sommes à payer en cas de non-respect, par la compagnie ou l’expéditeur, des conditions d’exploitation visées aux alinéas a) à c);
 	- **d)** les services fournis par la compagnie de chemin de fer qui sont normalement liés à l’exploitation d’un service de transport par une compagnie de chemin de fer;
-	- **e)** la question de savoir si des frais peuvent être imposés par la compagnie de chemin de fer relativement aux conditions d’exploitation visées aux alinéas a) ou b) ou pour les services visés à l’alinéa d).
+	- **e)** la question de savoir si des frais peuvent être imposés par la compagnie de chemin de fer relativement aux conditions d’exploitation visées aux alinéas a) ou b) ou pour les services visés à l’alinéa d);
+	- **f)** le processus de règlement des différends lié à la mise en oeuvre de la décision de l’arbitre.
 
-- **(1.1)** [Abrogé, 2014, ch. 8, art. 8]
+**Règlement**
+
+- **(1.1)** L’Office peut, par règlement, préciser ce qui constitue des conditions d’exploitation pour l’application des alinéas (1)a) à c).
 
 **Exclusions**
 
@@ -5296,13 +5721,13 @@ où
 - **(3)** L’expéditeur ne peut soumettre à l’Office pour arbitrage une question qui concerne le transport faisant l’objet, selon le cas :
 	- **a)** d’un contrat confidentiel conclu entre l’expéditeur et la compagnie de chemin de fer qui est en vigueur à l’entrée en vigueur du présent article;
 	- **b)** d’un contrat ou d’un tarif visés au paragraphe 165(3);
-	- **c)** d’un prix de ligne concurrentiel;
+	- **c)** d’un arrêté d’interconnexion de longue distance pris en vertu du paragraphe 134(1);
 	- **d)** d’une décision arbitrale rendue en vertu de l’article 169.37.
 
 **Précision**
 
-- **(4)** Il est entendu que l’arbitrage ne peut porter sur les prix relatifs au transport, ni sur le montant des frais relatifs au transport ou aux services connexes.
-> 2013, ch. 31, art. 11; 2014, ch. 8, art. 8.
+- **(4)** Il est entendu que l’arbitrage ne peut porter sur les prix relatifs au transport.
+> 2013, ch. 31, art. 11; 2014, ch. 8, art. 8; 2018, ch. 10, art. 50 et 95.
 
 
 
@@ -5351,8 +5776,10 @@ où
 
 - **(1)** Malgré la présentation d’une demande en vertu de l’article 169.43, l’expéditeur et la compagnie de chemin de fer, dans les dix jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), présentent chacun à l’Office leur proposition en vue du règlement des questions que l’expéditeur a soumises à l’Office pour arbitrage. La proposition contient une ou plusieurs des conditions ou modalités suivantes :
 	- **a)** les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c);
+	- **a.1)** si l’expéditeur a soumis la question à l’arbitrage, les modalités concernant les sommes visées à l’alinéa 169.31(1)c.1);
 	- **b)** les modalités de fourniture des services visés à l’alinéa 169.31(1)d);
-	- **c)** les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e).
+	- **c)** les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e);
+	- **d)** les modalités du processus de règlement des différends visé à l’alinéa 169.31(1)f).
 
 **Communication des propositions**
 
@@ -5369,7 +5796,7 @@ où
 **Une seule proposition**
 
 - **(5)** Si une partie ne se conforme pas au paragraphe (1), la proposition de l’autre partie constitue la décision de l’arbitre au titre de l’article 169.37.
-> 2013, ch. 31, art. 11.
+> 2013, ch. 31, art. 11; 2018, ch. 10, art. 51.
 
 
 
@@ -5419,16 +5846,31 @@ où
 
 **Décision de l’arbitre**
 
-**169.37** Dans sa décision, l’arbitre établit les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c), les modalités de fourniture des services visés à l’alinéa 169.31(1)d) ou les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e), ou prend n’importe lesquelles de ces mesures, selon ce qu’il estime nécessaire pour régler les questions qui lui sont renvoyées. Pour rendre sa décision, il tient compte :
-- **a)** du transport en cause;
-- **b)** des services dont l’expéditeur a besoin pour le transport en cause;
-- **c)** de tout engagement visé à l’alinéa 169.32(1)c) qui est contenu dans la demande d’arbitrage;
-- **d)** des obligations qu’a la compagnie de chemin de fer envers d’autres expéditeurs aux termes de l’article 113, et de celles qu’elle a envers les personnes et autres compagnies aux termes de l’article 114;
-- **e)** des obligations que peut avoir la compagnie de chemin de fer envers une société de transport publique;
-- **f)** des besoins et des contraintes de l’expéditeur et de la compagnie de chemin de fer en matière d’exploitation;
-- **g)** de la possibilité pour l’expéditeur de faire appel à un autre mode de transport efficace, bien adapté et concurrentiel des marchandises en cause;
-- **h)** de tout renseignement qu’il estime pertinent.
-> 2013, ch. 31, art. 11.
+**169.37** 
+
+- **(1)** Dans sa décision, l’arbitre prend les mesures ci-après ou n’importe lesquelles d’entre elles selon ce qu’il estime nécessaire pour régler les questions qui lui sont renvoyées :
+	- **a)** établir les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c);
+	- **b)** si l’expéditeur a soumis à l’arbitrage la question des sommes visées à l’alinéa 169.31(1)c.1), établir les modalités concernant ces sommes;
+	- **c)** établir les modalités de fourniture des services visés à l’alinéa 169.31(1)d);
+	- **d)** établir les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e);
+	- **e)** établir les modalités du processus de règlement des différends visé à l’alinéa 169.31(1)f).
+
+**Éléments à prendre en compte**
+
+- **(2)** Pour rendre sa décision, l’arbitre tient compte :
+	- **a)** du transport en cause;
+	- **b)** des services dont l’expéditeur a besoin pour le transport en cause;
+	- **c)** de tout engagement visé à l’alinéa 169.32(1)c) qui est contenu dans la demande d’arbitrage;
+	- **d)** des obligations de la compagnie de chemin de fer au titre de la présente loi relativement à l’exploitation du chemin de fer;
+	- **e)** des obligations que peut avoir la compagnie de chemin de fer envers une société de transport publique;
+	- **f)** des besoins et des contraintes de l’expéditeur et de la compagnie de chemin de fer en matière d’exploitation;
+	- **g)** de la possibilité pour l’expéditeur de faire appel à un autre mode de transport efficace, bien adapté et concurrentiel des marchandises en cause;
+	- **h)** de tout renseignement qu’il estime pertinent.
+
+**Efficacité**
+
+- **(3)** L’arbitre établit les modalités concernant les sommes visées à l’alinéa 169.31(1)c.1) de façon à encourager l’efficacité du transport des marchandises de l’expéditeur et l’amélioration du rendement du système de chemin de fer et de façon à ce que ces modalités soient équitables tant pour l’expéditeur que pour la compagnie de chemin de fer.
+> 2013, ch. 31, art. 11; 2018, ch. 10, art. 52.
 
 
 
@@ -5666,23 +6108,23 @@ où
 **177** 
 
 - **(1)** L’Office peut, par règlement :
-	- **a)** désigner comme un texte dont la contravention est assujettie aux articles 179 et 180 :
+	- **a)** désigner comme un texte dont la contravention est assujettie aux articles 179 et 180 :
 		- **(i)** toute disposition de la présente loi ou de ses textes d’application,
 		- **(ii)** toute obligation imposée par la présente loi ou ses textes d’application,
 		- **(iii)** toute condition d’une licence délivrée au titre de la présente loi;
 	- **b)** prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
 
-**Règlements — compagnie de chemin de fer**
-
-- **(1.1)** L’Office peut, par règlement :
-	- **a)** désigner toute obligation imposée à une compagnie de chemin de fer par une décision arbitrale rendue en vertu de l’article 169.37 comme un texte dont la contravention est assujettie aux articles 179 et 180;
-	- **b)** prévoir le montant maximal de la sanction applicable à chaque contravention à un texte ainsi désigné, plafonné à 100 000 $.
+- **(1.1)** [Abrogé, 2018, ch. 10, art. 53]
 
 **Pouvoirs réglementaires du ministre**
 
 - **(2)** Le ministre peut, par règlement :
-	- **a)** désigner comme texte dont la contravention est assujettie aux articles 179 et 180 toute disposition de l’article 51 ou des règlements pris en vertu des articles 50 ou 51, ou toute obligation imposée par l’article 51 ou ces règlements;
+	- **a)** désigner comme texte dont la contravention est assujettie aux articles 179 et 180 toute disposition des articles 51 ou 51.2 ou toute disposition des règlements pris en vertu des articles 50 ou 51, ou toute obligation imposée par les articles 51 ou 51.2 ou ces règlements;
 	- **b)** prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
+
+**Règlements pris en vertu du paragraphe 50(1.01)**
+
+- **(2.01)** Toute contravention aux règlements pris en vertu du paragraphe 50(1.01) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 25 000 $.
 
 **Articles 93.1 ou 94**
 
@@ -5693,7 +6135,7 @@ où
 - **(2.2)** Toute contravention au paragraphe 155.7(1) ou à l’un des paragraphes 155.84(1) à (3) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 100 000 $.
 
 - **(3)** [Abrogé, 2014, ch. 8, art. 9]
-> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9; 2015, ch. 31, art. 11.
+> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9; 2015, ch. 31, art. 11; 2018, ch. 10, art. 53.
 
 
 
@@ -5703,7 +6145,7 @@ où
 
 **178** 
 
-- **(1)** L’Office, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1) ou (2.1), ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(2) ou (2.2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+- **(1)** L’Office, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (2.1), ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.01) ou (2.2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
 
 **Attributions des agents**
 
@@ -5720,7 +6162,7 @@ où
 **Assistance**
 
 - **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
-> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10; 2015, ch. 31, art. 12 et 38.
+> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10; 2015, ch. 31, art. 12 et 38; 2018, ch. 10, art. 54 et 96.
 
 
 
@@ -5749,8 +6191,8 @@ où
 
 **Verbalisation**
 
-**180** L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il signifie au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant, établi conformément aux règlements pris en vertu de l’article 177, de la sanction à payer, ainsi que le délai et les modalités de paiement.
-> 1996, ch. 10, art. 180; 2001, ch. 29, art. 52; 2007, ch. 19, art. 52.
+**180** L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il signifie au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant de la sanction à payer, ainsi que le délai et les modalités de paiement.
+> 1996, ch. 10, art. 180; 2001, ch. 29, art. 52; 2007, ch. 19, art. 52; 2018, ch. 10, art. 55.
 
 
 
@@ -5814,8 +6256,8 @@ où
 
 **180.5** Après audition des parties, le membre du Tribunal informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
 - **a)** qu’il n’y a pas eu contravention, sous réserve de l’article 180.6, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente partie;
-- **b)** qu’il y a eu contravention, il les informe également, sous réserve des règlements pris en vertu de l’article 177, de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
-> 2007, ch. 19, art. 52.
+- **b)** qu’il y a eu contravention, il les informe également de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
+> 2007, ch. 19, art. 52; 2018, ch. 10, art. 56.
 
 
 
@@ -5837,8 +6279,8 @@ où
 
 **Avis**
 
-- **(4)** S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé. Sous réserve des règlements pris en vertu de l’article 177, il l’informe également de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
-> 2007, ch. 19, art. 52.
+- **(4)** S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé. Il l’informe également de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
+> 2007, ch. 19, art. 52; 2018, ch. 10, art. 57.
 
 
 
@@ -5867,12 +6309,12 @@ où
 
 **180.8** 
 
-- **(1)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (1.1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
+- **(1)** S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
 
 **Délégation ministérielle**
 
-- **(2)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(2) ou (2.2), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
-> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12; 2015, ch. 31, art. 13 et 38.
+- **(2)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.01) ou (2.2), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
+> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12; 2015, ch. 31, art. 13 et 38; 2018, ch. 10, art. 58 et 96.
 
 
 
@@ -6602,7 +7044,7 @@ Colza ou colza canola
 Criblures ou criblures granulées (ne s’applique qu’aux criblures des produits mentionnés à la présente annexe)
 
 
-Dérivés de la fève (à l’exclusion de soja) (farine, protéines, isolats, fibres)
+Dérivés de la fève, y compris le soya (farine, protéines, isolats, fibres)
 
 
 Dérivés du pois (farine, protéines, isolats, fibres)
@@ -6632,10 +7074,16 @@ Farine de lin
 Farine de seigle
 
 
+Farine de soya
+
+
 Farine de tourteau de colza ou du colza canola
 
 
 Farine de tourteau de lin
+
+
+Farine de tourteau de soya
 
 
 Farine de tourteau de tournesol
@@ -6644,7 +7092,7 @@ Farine de tourteau de tournesol
 Farine, granulé ou cubes de luzerne déshydratés
 
 
-Fèves (à l’exclusion du soja), marais, les fèves cassées et les criblures
+Fèves, y compris le soya, marais, les fèves cassées et les criblures
 
 
 Fibre de lin
@@ -6681,6 +7129,9 @@ Huile de colza ou de colza canola
 
 
 Huile de lin
+
+
+Huile de soya
 
 
 Huile de tournesol
@@ -6743,11 +7194,16 @@ Tourteau de colza ou de colza canola
 Tourteau de lin
 
 
+Tourteau de soya
+
+
 Tourteau de tournesol
 
 
 Triticale
 
+
+> 1996, ch. 10, ann. II; 2018, ch. 10, art. 59.1.
 
 
 
