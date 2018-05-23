@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md)
 
-# Loi sur le tabac
+# Loi sur le tabac et les produits de vapotage
 
 **L.C. 1997, ch. 13**
 
@@ -24,7 +24,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi sur le tabac.
+**1** Loi sur le tabac et les produits de vapotage.
+> 1997, ch. 13, art. 1; 2018, ch. 9, art. 2.
+
 
 
 
@@ -37,50 +39,60 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accessoire*** Produit qui peut être utilisé pour la consommation d’un produit du tabac, notamment une pipe, un fume-cigarettes, un coupe-cigare, des allumettes ou un briquet.
+***accessoire*** Produit qui peut être utilisé pour la consommation d’un produit du tabac, notamment une pipe, un fume-cigarette, un coupe-cigare, des allumettes ou un briquet. La présente définition vise également la pipe à eau. (*accessory*)
 
-***additif*** Ingrédient autre que les feuilles de tabac.
+***additif*** S’entend, à l’égard d’un produit du tabac, d’un ingrédient autre que les feuilles de tabac. (*additive*)
 
-***analyste*** Personne désignée à titre d’analyste aux termes du paragraphe 34(1).
+***analyste*** Personne désignée à titre d’analyste aux termes du paragraphe 34(1). (*analyst*)
 
-***détaillant*** Personne qui exploite une entreprise consistant en tout ou en partie dans la vente de produits du tabac au consommateur.
+***détaillant*** Personne qui exploite une entreprise consistant en tout ou en partie dans la vente au consommateur de produits du tabac ou de produits de vapotage. (*retailer*)
 
-***élément de marque*** Sont compris dans les éléments de marque un nom commercial, une marque de commerce, un logo, un signe distinctif, un dessin ou un slogan qu’il est raisonnablement possible d’associer à un produit, à un service ou à une marque d’un produit ou d’un service ou qui les évoque, à l’exception d’une couleur.
+***élément de marque*** Sont compris dans les éléments de marque un nom commercial, une marque de commerce, un logo, un signe distinctif, un dessin ou un slogan qu’il est raisonnablement possible d’associer à un produit, à un service ou à une marque d’un produit ou d’un service ou qui les évoque, à l’exception d’une couleur. (*brand element*)
 
 ***emballage***[Abrogée, 2009, ch. 27, art. 2]
 
-***émission*** Substance qui est produite quand un produit du tabac est utilisé.
+***émission*** Substance qui est produite lors de l’utilisation d’un produit du tabac ou d’un produit de vapotage. (*emission*)
 
-***entité*** Personne morale, firme, société de personnes, fiducie, association ou autre organisation, dotée ou non de la personnalité morale.
+***entité*** Personne morale, firme, société de personnes, fiducie, association ou autre organisation, dotée ou non de la personnalité morale. (*entity*)
 
-***fabricant*** Est assimilée au fabricant de produits du tabac toute entité qui a des liens avec lui, notamment qui le contrôle ou qui est contrôlée par lui ou qui est contrôlée par la même entité que celle qui le contrôle.
+***fabricant*** Est assimilée au fabricant de produits du tabac ou de produits de vapotage toute entité qui a des liens avec lui, notamment qui le contrôle ou qui est contrôlée par lui ou qui est contrôlée par la même entité que celle qui le contrôle. (*manufacturer*)
 
-***fabriquer*** Est assimilé à l’acte de fabriquer le produit du tabac le fait de le distribuer, de l’importer, de l’emballer ou de l’étiqueter pour le vendre au Canada.
+***fabriquer*** Vise notamment la fabrication d’un produit du tabac ou d’un produit de vapotage en vue de l’exportation. Est assimilé à l’acte de fabriquer le produit du tabac ou le produit de vapotage le fait de le distribuer, de l’importer, de l’emballer ou de l’étiqueter pour le vendre au Canada. (*manufacture*)
 
-***feuille d’enveloppe*** Feuille, y compris une feuille roulée, prête à être remplie et composée notamment de tabac naturel ou reconstitué.
+***feuille d’enveloppe*** Feuille, y compris une feuille roulée, prête à être remplie et composée notamment de tabac naturel ou reconstitué. (*blunt wrap*)
 
-***fournir*** Vendre, prêter, céder, donner ou expédier à un autre, à titre gratuit ou onéreux, ou échanger contre un produit ou un service.
+***fournir*** Vendre, prêter, céder, donner ou expédier à un autre, à titre gratuit ou onéreux, ou échanger contre un produit ou un service. (*furnish*)
 
-***ingrédient*** S’entend des feuilles de tabac et de toute substance utilisée dans la fabrication d’un produit du tabac ou de ses composants et vise notamment les substances utilisées dans la fabrication d’une telle substance.
+***ingrédient*** S’entend de toute substance utilisée dans la fabrication d’un produit du tabac, d’un produit de vapotage ou de leurs composants et vise notamment les substances utilisées dans la fabrication d’une telle substance. S’agissant d’un produit du tabac, la présente définition vise également les feuilles de tabac. (*ingredient*)
 
-***inspecteur*** Personne désignée à titre d’inspecteur aux termes du paragraphe 34(1).
+***inspecteur*** Personne désignée à titre d’inspecteur aux termes du paragraphe 34(1). (*inspector*)
 
-***jeune*** Personne âgée de moins de dix-huit ans.
+***jeune*** Personne âgée de moins de dix-huit ans. (*young person*)
 
-***ministre*** Le ministre de la Santé.
+***ministre*** Le ministre de la Santé. (*Minister*)
 
-***petit cigare*** Rouleau ou article de forme tubulaire qui remplit les conditions suivantes :
+***petit cigare*** Rouleau ou article de forme tubulaire qui remplit les conditions suivantes :
 - **a)** il est destiné à être fumé;
 - **b)** il comporte une tripe composée notamment de tabac naturel ou reconstitué;
 - **c)** il comporte soit une sous-cape et une cape, soit une cape qui sont composées notamment de tabac naturel ou reconstitué;
 - **d)** il comporte un bout-filtre de cigarette ou pèse au plus 1,4 gramme, sans le poids des embouts.
 
-La présente définition vise aussi les produits du tabac que les règlements désignent comme des petits cigares.
+La présente définition vise aussi les produits du tabac que les règlements désignent comme des petits cigares. (*little cigar*)
 
-***produit du tabac*** Produit fabriqué à partir du tabac, y compris des feuilles et des extraits de celles-ci; y sont assimilés les tubes, papiers et filtres à cigarette. Sont toutefois exclus de la présente définition les aliments, drogues et instruments contenant de la nicotine régis par la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
+***produit de vapotage*** S’entend, à la fois :
+- **a)** du dispositif qui produit des émissions sous forme d’aérosol et qui est destiné à être porté à la bouche en vue de l’inhalation de l’aérosol;
+- **b)** du dispositif que les règlements désignent comme un produit de vapotage;
+- **c)** des pièces pouvant être utilisées avec ces dispositifs;
+- **d)** de la substance ou du mélange de substances — contenant ou non de la nicotine — destiné à être utilisé avec ces dispositifs pour produire des émissions.
 
-***vendre*** Est assimilé à l’acte de vendre le fait de mettre en vente ou d’exposer pour la vente.
-> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2.
+Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou mélanges de substances exclus par règlement et les produits du tabac et leurs accessoires. (*vaping product*)
+
+***produit du tabac*** Produit fait entièrement ou partiellement de tabac, y compris des feuilles; y sont assimilés les tubes, papiers et filtres destinés à être utilisés avec ce produit, les dispositifs, exception faite des pipes à eau, nécessaires à l’utilisation de ce produit et les pièces pouvant être utilisées avec ces dispositifs. (*tobacco product*)
+
+***publicité de style de vie*** Publicité qui associe un produit à une façon de vivre — telle une façon de vivre intégrant notamment du prestige, des loisirs, de l’enthousiasme, de la vitalité, du risque ou de l’audace — ou qui évoque une émotion ou une image, positive ou négative, à l’égard d’une façon de vivre. (*lifestyle advertising*)
+
+***vendre*** Vise notamment le fait de vendre en vue de l’exportation. Est assimilé à l’acte de vendre le fait de mettre en vente ou d’exposer pour la vente. (*sell*)
+> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2; 2018, ch. 9, art. 3.
 
 
 
@@ -90,16 +102,19 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
-**Règlements — petit cigare**
+**Règlements — petit cigare et produit de vapotage**
 
 **2.1** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, désigner tout produit du tabac comme petit cigare pour l’application de la définition de ce terme.
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** désigner tout produit du tabac comme petit cigare pour l’application de la définition de ce terme;
+	- **b)** désigner tout dispositif comme étant ou n’étant pas un produit de vapotage pour l’application de la définition de ce terme;
+	- **c)** désigner toute substance ou tout mélange de substances comme n’étant pas un produit de vapotage pour l’application de la définition de ce terme.
 
 **Décret — petit cigare**
 
 - **(2)** Le gouverneur en conseil peut, par décret, remplacer le poids qui figure à la définition de petit cigare par un poids égal ou supérieur à 1,4 gramme.
-> 2009, ch. 27, art. 3.
+> 2009, ch. 27, art. 3; 2018, ch. 9, art. 4.
 
 
 
@@ -122,11 +137,28 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **Santé publique**
 
-**4** La présente loi a pour objet de s’attaquer, sur le plan législatif, à un problème qui, dans le domaine de la santé publique, est grave et d’envergure nationale et, plus particulièrement :
-- **a)** de protéger la santé des Canadiennes et des Canadiens compte tenu des preuves établissant, de façon indiscutable, un lien entre l’usage du tabac et de nombreuses maladies débilitantes ou mortelles;
-- **b)** de préserver notamment les jeunes des incitations à l’usage du tabac et du tabagisme qui peut en résulter;
-- **c)** de protéger la santé des jeunes par la limitation de l’accès au tabac;
-- **d)** de mieux sensibiliser la population aux dangers que l’usage du tabac présente pour la santé.
+**4** 
+
+- **(1)** La présente loi a pour objet de s’attaquer, sur le plan législatif, à un problème qui, dans le domaine de la santé publique, est grave et d’envergure nationale et de protéger la santé des Canadiennes et des Canadiens compte tenu des preuves établissant, de façon indiscutable, un lien entre l’usage du tabac et de nombreuses maladies débilitantes ou mortelles.
+
+**Produits du tabac**
+
+- **(2)** S’agissant des produits du tabac, la présente loi a pour objet d’appuyer l’atteinte des objectifs énoncés au paragraphe (1) et, plus particulièrement :
+	- **a)** de préserver notamment les jeunes des incitations à l’usage du tabac et du tabagisme qui peut en résulter;
+	- **b)** de protéger la santé des jeunes par la limitation de l’accès au tabac;
+	- **c)** d’empêcher que la population ne soit trompée ou induite en erreur au sujet des dangers que présente l’usage du tabac pour la santé;
+	- **d)** de mieux sensibiliser la population à ces dangers.
+
+**Produits de vapotage**
+
+- **(3)** S’agissant des produits de vapotage, la présente loi a pour objet d’appuyer l’atteinte des objectifs énoncés au paragraphe (1), d’empêcher que l’usage des produits de vapotage ne pousse les jeunes et les non-utilisateurs de produits du tabac à l’usage du tabac et, plus particulièrement :
+	- **a)** de préserver les jeunes et les non-utilisateurs de produits du tabac des incitations à l’usage des produits de vapotage;
+	- **b)** de protéger la santé des jeunes et des non-utilisateurs de produits du tabac contre l’exposition et la dépendance à la nicotine qui pourraient découler de l’usage des produits de vapotage;
+	- **c)** de protéger la santé des jeunes par la limitation de l’accès aux produits de vapotage;
+	- **d)** d’empêcher que la population ne soit trompée ou induite en erreur au sujet des dangers que présente l’usage des produits de vapotage pour la santé;
+	- **e)** de mieux sensibiliser la population à ces dangers.
+> 1997, ch. 13, art. 4; 2018, ch. 9, art. 5.
+
 
 
 
@@ -138,7 +170,9 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **Normes réglementaires**
 
-**5** Il est interdit de fabriquer un produit du tabac qui n’est pas conforme aux normes établies par règlement.
+**5** Il est interdit au fabricant de fabriquer ou de vendre un produit du tabac qui n’est pas conforme aux normes établies par règlement.
+> 1997, ch. 13, art. 5; 2018, ch. 9, art. 6.
+
 
 
 
@@ -147,12 +181,12 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **5.1** 
 
-- **(1)** Il est interdit d’utiliser un additif visé à la colonne 1 de l’annexe dans la fabrication d’un produit du tabac visé à la colonne 2.
+- **(1)** Il est interdit au fabricant d’utiliser un additif visé à la colonne 1 de l’annexe dans la fabrication d’un produit du tabac visé à la colonne 2.
 
 **Exception — marque de commerce ou inscription**
 
 - **(2)** Le paragraphe (1) n’a pas pour effet d’interdire l’utilisation d’un agent colorant pour représenter une marque de commerce sur un produit du tabac, pour faire figurer sur un tel produit une inscription exigée sous le régime de la présente loi ou d’une autre loi fédérale ou provinciale ou pour tout autre motif prévu par règlement.
-> 2009, ch. 27, art. 4.
+> 2009, ch. 27, art. 4; 2018, ch. 9, art. 7.
 
 
 
@@ -177,12 +211,39 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **6** 
 
-- **(1)** Le fabricant est tenu de transmettre au ministre, dans les délais et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits du tabac, en vente ou non, leurs émissions et la recherche et le développement liés à ces produits et à ces émissions.
+- **(1)** Le fabricant transmet au ministre, dans les délais, en la forme et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits du tabac, en vente ou non, leurs émissions et la recherche et le développement liés à ces produits et à ces émissions.
 
-**Demandes de renseignements supplémentaires**
+**Renseignements supplémentaires**
 
-- **(2)** Le ministre peut, sous réserve des règlements, demander des renseignements supplémentaires portant sur les mêmes sujets. Le fabricant est tenu de les lui transmettre.
-> 1997, ch. 13, art. 6; 2009, ch. 27, art. 6.
+- **(2)** Le ministre peut, sous réserve des règlements, demander des renseignements supplémentaires portant sur les mêmes sujets. Le fabricant les transmet au ministre dans le délai, en la forme et selon les modalités fixés par celui-ci.
+> 1997, ch. 13, art. 6; 2009, ch. 27, art. 6; 2018, ch. 9, art. 9.
+
+
+
+
+
+**Communication par le fabricant**
+
+**6.1** Le fabricant met à la disposition du public, dans les délais, en la forme et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits du tabac et leurs émissions.
+> 2018, ch. 9, art. 9.
+
+
+
+
+
+**Communication par le ministre**
+
+**6.2** Le ministre met à la disposition du public, dans les délais et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits du tabac, leurs émissions et la recherche et le développement liés à ces produits et à ces émissions.
+> 2018, ch. 9, art. 9.
+
+
+
+
+
+**Non-application**
+
+**6.3** Les articles 6.1 et 6.2 ne s’appliquent pas à l’égard des produits du tabac qui n’ont jamais été en vente au Canada.
+> 2018, ch. 9, art. 9.
 
 
 
@@ -191,16 +252,18 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 **Règlements**
 
 **7** Le gouverneur en conseil peut prendre des règlements :
-- **a)** établissant des normes applicables aux produits du tabac, notamment pour régir les quantités des substances que peuvent contenir les produits et leurs émissions;
+- **a)** établissant des normes concernant les caractéristiques des produits du tabac et de leurs émissions, notamment les propriétés sensorielles — y compris l’apparence et la forme — des produits et de leurs émissions, les dimensions, le poids, les composants et le rendement des produits, et concernant les quantités et concentrations des substances que peuvent contenir les produits et leurs émissions;
 - **b)** concernant les méthodes d’essai, notamment en ce qui touche la conformité des produits du tabac aux normes;
-- **c)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement aux produits du tabac et à leurs émissions, notamment des données sur la vente et des renseignements sur les études de marché et sur la composition, les ingrédients, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
-- **c.1)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement à la recherche et au développement liés aux produits du tabac et à leurs émissions, notamment des renseignements sur les études de marché et sur la composition, les ingrédients, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
+- **c)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement aux produits du tabac et à leurs émissions, notamment des données sur la vente et des renseignements sur les études de marché et sur la composition, les ingrédients, les matériaux, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
+- **c.1)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement à la recherche et au développement liés aux produits du tabac et à leurs émissions, notamment des renseignements sur les études de marché et sur la composition, les ingrédients, les matériaux, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
 - **c.2)** concernant les demandes de renseignements supplémentaires visées au paragraphe 6(2);
-- **c.3)** concernant l’interdiction prévue à l’article 6.1, notamment en ce qui concerne la suspension de la fabrication et de la vente du produit du tabac en cause;
+- **c.3)** [Abrogé, 2018, ch. 9, art. 11]
 - **d)** prévoyant les modalités de transmission des renseignements visés aux alinéas c) à c.2), notamment sous forme électronique;
+- **d.01)** prévoyant, pour l’application de l’article 6.1, les renseignements que le fabricant doit mettre à la disposition du public, notamment les renseignements visés à l’alinéa c);
+- **d.02)** prévoyant, pour l’application de l’article 6.2, les renseignements que le ministre doit mettre à la disposition du public, notamment les renseignements visés aux alinéas c) et c.1);
 - **d.1)** prévoyant toute autre mesure réglementaire prévue par la présente partie;
 - **e)** prévoyant toute autre mesure nécessaire à l’application de la présente partie.
-> 1997, ch. 13, art. 7; 2009, ch. 27, art. 8.
+> 1997, ch. 13, art. 7; 2009, ch. 27, art. 8; 2018, ch. 9, art. 11.
 
 
 
@@ -223,27 +286,145 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
+**PARTIE I.1** 
+## Produits de vapotage
+
+
+
+**Normes réglementaires**
+
+**7.2** Il est interdit au fabricant de fabriquer ou de vendre un produit de vapotage qui n’est pas conforme aux normes établies par règlement.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
+**Fabricant — renseignements**
+
+**7.3** 
+
+- **(1)** Le fabricant transmet au ministre, dans les délais, en la forme et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits de vapotage, en vente ou non, leurs émissions et la recherche et le développement liés à ces produits et à ces émissions.
+
+**Renseignements supplémentaires**
+
+- **(2)** Le ministre peut, sous réserve des règlements, demander des renseignements supplémentaires portant sur les mêmes sujets. Le fabricant les transmet au ministre dans le délai, en la forme et selon les modalités fixés par celui-ci.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
+**Interdiction**
+
+**7.4** Il est interdit au fabricant, sous réserve des règlements, de vendre un produit de vapotage à moins de transmettre au ministre les renseignements exigés en vertu du paragraphe 7.3(1) à l’égard de ce produit.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
+**Communication par le fabricant**
+
+**7.5** Le fabricant met à la disposition du public, dans les délais, en la forme et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits de vapotage et leurs émissions.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
+**Communication par le ministre**
+
+**7.6** Le ministre met à la disposition du public, dans les délais et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits de vapotage, leurs émissions et la recherche et le développement liés à ces produits et à ces émissions.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
+**Non-application**
+
+**7.7** Les articles 7.5 et 7.6 ne s’appliquent pas à l’égard des produits de vapotage qui n’ont jamais été en vente au Canada.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
+**Règlements**
+
+**7.8** Le gouverneur en conseil peut prendre des règlements :
+- **a)** établissant des normes concernant les caractéristiques des produits de vapotage et de leurs émissions, notamment les fonctions et le rendement des produits, les propriétés sensorielles — y compris l’apparence et la forme — des produits et de leurs émissions, et concernant les quantités et concentrations des substances que peuvent contenir les produits et leurs émissions;
+- **b)** concernant les méthodes d’essai, notamment en ce qui touche la conformité des produits de vapotage aux normes;
+- **c)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement aux produits de vapotage et à leurs émissions, notamment des données sur la vente et des renseignements sur les études de marché et sur la composition, les ingrédients, les matériaux, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
+- **d)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement à la recherche et au développement liés aux produits de vapotage et à leurs émissions, notamment des renseignements sur les études de marché et sur la composition, les ingrédients, les matériaux, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
+- **e)** concernant les demandes de renseignements supplémentaires visées au paragraphe 7.3(2);
+- **f)** concernant l’interdiction prévue à l’article 7.4, notamment en ce qui concerne la suspension de la vente du produit de vapotage en cause;
+- **g)** prévoyant les modalités de transmission des renseignements visés aux alinéas c) à e), notamment sous forme électronique;
+- **h)** prévoyant, pour l’application de l’article 7.5, les renseignements que le fabricant doit mettre à la disposition du public, notamment les renseignements visés à l’alinéa c);
+- **i)** prévoyant, pour l’application de l’article 7.6, les renseignements que le ministre doit mettre à la disposition du public, notamment les renseignements visés aux alinéas c) et d);
+- **j)** prévoyant toute autre mesure réglementaire prévue par la présente partie;
+- **k)** prévoyant toute autre mesure nécessaire à l’application de la présente partie.
+> 2018, ch. 9, art. 12.
+
+
+
+
+
 **PARTIE II** 
 ## Accès
 
 
 
-**Fourniture de tabac aux jeunes**
+**Fourniture de produits aux jeunes**
 
 **8** 
 
-- **(1)** Il est interdit, dans des lieux publics ou dans des lieux où le public a normalement accès, de fournir des produits du tabac à un jeune.
+- **(1)** Il est interdit, dans des lieux publics ou dans des lieux où le public a accès, de fournir des produits du tabac ou des produits de vapotage à un jeune.
 
 **Moyen de défense**
 
 - **(2)** Une personne ne peut être reconnue coupable d’une infraction au paragraphe (1) s’il est établi qu’elle a tenté de vérifier si la personne avait au moins dix-huit ans en demandant et examinant une pièce d’identité conforme aux règlements et qu’elle avait des motifs raisonnables de croire que la pièce était authentique.
+> 1997, ch. 13, art. 8; 2018, ch. 9, art. 14.
 
 
 
 
-**Affiche**
 
-**9** Sous réserve des exceptions prévues par règlement, le détaillant doit placer dans son établissement les affiches réglementaires, aux endroits prévus par règlement, ou comportant un message réglementaire relatif à la santé et précisant l’interdiction de la fourniture de produits du tabac aux jeunes.
+**Expédition et livraison aux jeunes**
+
+**9** 
+
+- **(1)** Il est interdit d’expédier ou de livrer des produits du tabac ou des produits de vapotage à un jeune.
+
+**Moyen de défense de l’expéditeur**
+
+- **(2)** Une personne ne peut être reconnue coupable d’avoir contrevenu au paragraphe (1) pour avoir expédié un produit du tabac ou un produit de vapotage s’il est établi qu’elle a respecté les conditions suivantes :
+	- **a)** elle a informé le livreur de la nature du produit et de l’interdiction de le livrer à un jeune;
+	- **b)** elle a sommé le livreur de vérifier si la personne qui prend livraison du produit a au moins dix-huit ans, et ce en demandant et en examinant une pièce d’identité délivrée par une autorité fédérale ou provinciale ou par un gouvernement étranger sur laquelle figurent le nom de cette personne, sa photographie, sa date de naissance et sa signature.
+
+**Moyen de défense du livreur**
+
+- **(3)** Une personne ne peut être reconnue coupable d’avoir contrevenu au paragraphe (1) pour avoir livré un produit du tabac ou un produit de vapotage s’il est établi qu’elle a respecté les conditions suivantes :
+	- **a)** elle a vérifié si la personne qui a pris livraison du produit avait au moins dix-huit ans en demandant et en examinant une pièce d’identité délivrée par une autorité fédérale ou provinciale ou par un gouvernement étranger sur laquelle figurent le nom de cette personne, sa photographie, sa date de naissance et sa signature;
+	- **b)** elle avait des motifs raisonnables de croire que la pièce était authentique.
+> 1997, ch. 13, art. 9; 2018, ch. 9, art. 15.
+
+
+
+
+
+**Produits du tabac — expédition et livraison interprovinciales**
+
+**9.1** 
+
+- **(1)** Il est interdit d’expédier ou de livrer, à titre onéreux, un produit du tabac d’une province à l’autre, sauf si l’expédition ou la livraison est effectuée entre des fabricants et des détaillants ou est soustraite par règlement à l’application du présent article.
+
+**Annonce**
+
+- **(2)** Il est interdit d’annoncer une offre d’expédition ou de livraison d’un produit du tabac d’une province à l’autre.
+> 2018, ch. 9, art. 15.
+
 
 
 
@@ -257,7 +438,11 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 **Autres produits du tabac**
 
 - **(2)** S’agissant d’un autre produit du tabac qui est visé par règlement d’application du présent paragraphe, il est interdit de l’importer pour le vendre au Canada, de l’emballer, de le distribuer ou de le vendre, sauf dans un emballage en contenant au moins les portions, le nombre ou la quantité réglementaires.
-> 1997, ch. 13, art. 10; 2009, ch. 27, art. 10.
+
+**Produits de vapotage**
+
+- **(3)** S’agissant d’un produit de vapotage qui est visé par règlement d’application du présent paragraphe, il est interdit de l’importer pour le vendre au Canada, de l’emballer, de le distribuer ou de le vendre, sauf dans un emballage en contenant un nombre ou une quantité conforme aux exigences réglementaires.
+> 1997, ch. 13, art. 10; 2009, ch. 27, art. 10; 2018, ch. 9, art. 16.
 
 
 
@@ -279,15 +464,21 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
-**Livraison et envoi**
+**Produits de vapotage sur ordonnance**
 
 **13** 
 
-- **(1)** Il est interdit de faire livrer, à titre onéreux, un produit du tabac d’une province à l’autre ou de le faire envoyer, à titre onéreux, par la poste, sauf entre des fabricants et des détaillants et sous réserve de toute autre exception prévue par règlement.
+- **(1)** Les paragraphes 8(1), 9(1) et 10(3) ne s’appliquent :
+	- **a)** ni à l’égard des produits de vapotage sur ordonnance;
+	- **b)** ni à l’égard des instruments, au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), visés par une autorisation, délivrée sous le régime de cette loi, qui en permet la vente pour servir avec ces produits.
 
-**Publication d’une offre**
+**Définition de sur ordonnance**
 
-- **(2)** Il est interdit d’annoncer une offre de livraison d’un produit du tabac d’une province à l’autre ou d’envoi d’un produit du tabac par la poste.
+- **(2)** Au présent article, ***sur ordonnance*** se dit du produit de vapotage qui, selon le cas :
+	- **a)** contient une drogue figurant sur la liste des drogues sur ordonnance, avec ses modifications successives, établie en vertu du paragraphe 29.1(1) de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou faisant partie d’une catégorie de drogues figurant sur cette liste et est visé par une autorisation qui en permet la vente, délivrée sous le régime de cette loi;
+	- **b)** contient une substance désignée, au sens du paragraphe 2(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), dont la vente ou la fourniture sont autorisées sous le régime de cette loi.
+> 1997, ch. 13, art. 13; 2018, ch. 9, art. 18.
+
 
 
 
@@ -296,12 +487,15 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **14** Le gouverneur en conseil peut, par règlement :
 - **a)** préciser les documents qui peuvent servir à prouver l’âge d’une personne dans le cadre du paragraphe 8(2);
-- **b)** préciser les personnes qui peuvent être exemptées de l’application des articles 9, 11 et 13;
-- **c)** prévoir la forme, la taille et le contenu des affiches prévues à l’article 9, leur nombre et les endroits où elles doivent être placées;
-- **d)** préciser les produits du tabac auxquels s’applique le paragraphe 10(2);
+- **a.1)** régir les exceptions à l’interdiction prévue au paragraphe 9.1(1);
+- **b)** préciser les produits du tabac auxquels s’applique le paragraphe 10(2) et les produits de vapotage auxquels s’applique le paragraphe 10(3);
+- **c)** régir, pour l’application du paragraphe 10(3), le nombre ou la quantité de produits de vapotage qu’un emballage doit contenir, notamment en précisant des nombres ou quantités minimaux et maximaux;
+- **d)** préciser les personnes qui sont exemptées de l’application de l’article 11;
 - **e)** régir les exemptions de l’application de l’article 12;
 - **f)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie;
 - **g)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+> 1997, ch. 13, art. 14; 2018, ch. 9, art. 19.
+
 
 
 
@@ -311,26 +505,75 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
-**Information — emballage**
+**Information — vente de produits du tabac**
 
 **15** 
 
-- **(1)** Il est interdit au fabricant et au détaillant de vendre un produit du tabac à moins que ne figure sur l’emballage, en la forme et selon les modalités réglementaires, l’information — exigée par les règlements — sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+- **(1)** Il est interdit au fabricant et au détaillant de vendre un produit du tabac à moins que ne figure sur le produit et l’emballage, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
 
 **Information — prospectus**
 
-- **(2)** Si les règlements l’exigent, le fabricant ou le détaillant est tenu de remettre, en la forme et selon les modalités réglementaires, un prospectus comportant l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+- **(2)** Si les règlements l’exigent, le fabricant ou le détaillant fournit avec le produit du tabac, en la forme et selon les modalités réglementaires, un prospectus comportant l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+
+- **(3)** [Abrogé, 2018, ch. 9, art. 20]
+> 1997, ch. 13, art. 15; 2018, ch. 9, art. 20.
+
+
+
+
+
+**Information — vente de produits de vapotage**
+
+**15.1** 
+
+- **(1)** Il est interdit au fabricant et au détaillant de vendre un produit de vapotage à moins que ne figure sur le produit et sur l’emballage, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+
+**Information — fabrication de produits de vapotage**
+
+- **(2)** Il est interdit de fabriquer un produit de vapotage à moins que ne figure sur le produit, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+
+**Information — emballage de produits de vapotage**
+
+- **(3)** Il est interdit d’emballer un produit de vapotage à moins que ne figure sur l’emballage, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+
+**Information — prospectus ou étiquette**
+
+- **(4)** Si les règlements l’exigent, le fabricant ou le détaillant fournit avec le produit de vapotage, en la forme et selon les modalités réglementaires, un prospectus ou une étiquette comportant l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+> 2018, ch. 9, art. 21.
+
+
+
+
 
 **Attribution**
 
-- **(3)** L’information visée aux paragraphes (1) et (2) peut être attribuée à un organe ou une personne désignés par règlement si l’attribution est faite selon les modalités réglementaires.
+**15.2** L’information visée aux articles 15 et 15.1 peut être attribuée à un organisme ou à une personne désignés par règlement si l’attribution est faite en la forme et selon les modalités réglementaires.
+> 2018, ch. 9, art. 21.
 
 
 
 
-**Maintien d’obligations existantes**
 
-**16** La présente partie n’a pas pour effet de libérer le fabricant ou le détaillant de toute obligation — qu’il peut avoir, au titre de toute règle de droit, notamment aux termes d’une loi fédérale ou provinciale — d’avertir les consommateurs des dangers pour la santé et des effets sur celle-ci liés à l’usage du produit et à ses émissions.
+**Présentation d’informations — emballage d’un produit du tabac**
+
+**15.3** 
+
+- **(1)** Il est interdit au fabricant et au détaillant de vendre un produit du tabac si l’emballage comporte des informations présentées d’une manière non conforme aux règlements.
+
+**Fourniture d’informations — autres supports**
+
+- **(2)** Il est interdit au fabricant et au détaillant de fournir des informations écrites avec un produit du tabac d’une manière non conforme aux règlements.
+> 2018, ch. 9, art. 21.
+
+
+
+
+
+**Précision**
+
+**16** Il est entendu que la présente partie n’a pas pour effet de libérer le fabricant ou le détaillant de toute obligation — qu’il peut avoir, au titre de toute règle de droit, notamment aux termes d’une loi fédérale ou provinciale — d’avertir les consommateurs des dangers pour la santé et des effets sur celle-ci liés à l’usage du produit du tabac ou du produit de vapotage et à leurs émissions.
+> 1997, ch. 13, art. 16; 2018, ch. 9, art. 21.
+
 
 
 
@@ -338,9 +581,13 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 **Règlements**
 
 **17** Le gouverneur en conseil peut, par règlement :
-- **a)** régir l’information sur les produits du tabac et leurs émissions, et sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions qui doit figurer sur l’emballage ou que doit comporter le prospectus;
+- **a)** régir l’information sur les produits du tabac et leurs émissions et sur les dangers pour la santé et les effets sur celle-ci liés à l’usage des produits du tabac et à leurs émissions qui doit figurer sur les produits du tabac et sur l’emballage de ces produits ou que doit comporter le prospectus;
+- **a.1)** régir l’information sur les produits de vapotage et leurs émissions et sur les dangers pour la santé et les effets sur celle-ci liés à l’usage des produits de vapotage et à leurs émissions qui doit figurer sur ces produits ou sur leur emballage ou que doit comporter le prospectus ou l’étiquette;
+- **a.2)** régir, pour l’application de l’article 15.3, la manière de présenter ou de fournir de l’information, notamment en ce qui a trait à la forme et à l’emplacement de l’information;
 - **b)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie;
 - **c)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+> 1997, ch. 13, art. 17; 2018, ch. 9, art. 22.
+
 
 
 
@@ -356,13 +603,27 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 - **(1)** Dans la présente partie, ***promotion*** s’entend de la présentation, par tout moyen, d’un produit ou d’un service — y compris la communication de renseignements sur son prix ou sa distribution —, directement ou indirectement, susceptible d’influencer et de créer des attitudes, croyances ou comportements au sujet de ce produit ou service.
 
-**Application**
+**Application de la section 1**
 
-- **(2)** La présente partie ne s’applique pas :
+- **(2)** La section 1 de la présente partie ne s’applique pas :
 	- **a)** aux oeuvres littéraires, dramatiques, musicales, cinématographiques, artistiques, scientifiques ou éducatives — quels qu’en soient le mode ou la forme d’expression — sur ou dans lesquelles figure un produit du tabac ou un élément de marque d’un produit du tabac, sauf si un fabricant ou un détaillant a donné une contrepartie, directement ou indirectement, pour la représentation du produit ou de l’élément de marque dans ces oeuvres;
 	- **b)** aux comptes rendus, commentaires et opinions portant sur un produit du tabac ou une marque d’un produit du tabac et relativement à ce produit ou à cette marque, sauf si un fabricant ou un détaillant a donné une contrepartie, directement ou indirectement, pour la mention du produit ou de la marque;
 	- **c)** aux promotions faites par un tabaculteur ou un fabricant auprès des tabaculteurs, des fabricants, des personnes qui distribuent des produits du tabac ou des détaillants, mais non directement ou indirectement auprès des consommateurs.
 
+**Application de la section 2**
+
+- **(3)** La section 2 de la présente partie ne s’applique pas :
+	- **a)** aux oeuvres littéraires, dramatiques, musicales, cinématographiques, artistiques, scientifiques ou éducatives — quels qu’en soient le mode ou la forme d’expression — sur ou dans lesquelles figure un produit de vapotage ou un élément de marque d’un produit de vapotage, sauf si un fabricant ou un détaillant a donné une contrepartie, directement ou indirectement, pour la représentation du produit ou de l’élément de marque dans ces oeuvres;
+	- **b)** aux comptes rendus, commentaires et opinions portant sur un produit de vapotage ou une marque d’un produit de vapotage et relativement à ce produit ou à cette marque, sauf si un fabricant ou un détaillant a donné une contrepartie, directement ou indirectement, pour la mention du produit ou de la marque;
+	- **c)** aux promotions faites par un fabricant auprès des fabricants, des personnes qui distribuent des produits de vapotage ou des détaillants, mais non directement ou indirectement auprès des consommateurs.
+> 1997, ch. 13, art. 18; 2018, ch. 9, art. 23.
+
+
+
+
+
+**SECTION 1** 
+### Produits du tabac
 
 
 
@@ -375,7 +636,15 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **Promotion trompeuse**
 
-**20** Il est interdit de faire la promotion d’un produit du tabac, y compris sur l’emballage de celui-ci, d’une manière fausse ou trompeuse ou susceptible de créer une fausse impression sur les caractéristiques, les effets sur la santé ou les dangers pour celle-ci du produit ou de ses émissions.
+**20** 
+
+- **(1)** Il est interdit de faire la promotion d’un produit du tabac, y compris au moyen de l’emballage, d’une manière fausse, trompeuse ou susceptible de créer une fausse impression quant aux caractéristiques, aux effets sur la santé ou aux dangers pour celle-ci du produit ou de ses émissions.
+
+**Éléments à prendre en compte**
+
+- **(2)** Pour déterminer si la promotion est faite de manière trompeuse ou susceptible de créer une fausse impression quant aux caractéristiques, aux effets sur la santé ou aux dangers pour celle-ci du produit du tabac ou de ses émissions, il faut tenir compte de l’impression générale que donne la promotion et, si elle contient un énoncé, du sens littéral de celui-ci.
+> 1997, ch. 13, art. 20; 2018, ch. 9, art. 26.
+
 
 
 
@@ -401,31 +670,31 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **22** 
 
-- **(1)** Il est interdit, sous réserve des autres dispositions du présent article, de faire la promotion d’un produit du tabac par des annonces qui représentent tout ou partie d’un produit du tabac, de l’emballage de celui-ci ou d’un élément de marque d’un produit du tabac, ou qui évoquent le produit du tabac ou un élément de marque d’un produit du tabac.
+- **(1)** Il est interdit, sous réserve des autres dispositions du présent article, de faire la promotion d’un produit du tabac en recourant à de la publicité qui représente tout ou partie d’un produit du tabac, de l’emballage de celui-ci ou d’un élément de marque d’un produit du tabac, ou qui évoque un produit du tabac ou un élément de marque d’un produit du tabac.
 
 **Exception**
 
 - **(2)** Il est possible, sous réserve des règlements, de faire la publicité — publicité informative ou préférentielle — d’un produit du tabac :
-	- **a)** dans les publications qui sont expédiées par le courrier et qui sont adressées à un adulte désigné par son nom;
+	- **a)** dans les publications qui sont adressées et expédiées à un adulte désigné par son nom;
 	- **b)** [Abrogé, 2009, ch. 27, art. 11]
 	- **c)** sur des affiches placées dans des endroits dont l’accès est interdit aux jeunes par la loi.
 
 **Publicité de style de vie**
 
-- **(3)** Le paragraphe (2) ne s’applique pas à la publicité de style de vie ou à la publicité dont il existe des motifs raisonnables de croire qu’elle pourrait être attrayante pour les jeunes.
+- **(3)** Le paragraphe (2) ne s’applique pas à la publicité de style de vie ou à la publicité à l’égard de laquelle il existe des motifs raisonnables de croire qu’elle pourrait être attrayante pour les jeunes.
 
 **Définitions**
 
 - **(4)** Les définitions qui suivent s’appliquent au présent article.
 
-***publicité de style de vie*** Publicité qui associe un produit avec une façon de vivre, tels le prestige, les loisirs, l’enthousiasme, la vitalité, le risque ou l’audace ou qui évoque une émotion ou une image, positive ou négative, au sujet d’une telle façon de vivre.
+***publicité de style de vie***[Abrogée, 2018, ch. 9, art. 29]
 
-***publicité informative*** Publicité qui donne au consommateur des renseignements factuels et qui porte :
+***publicité informative*** Publicité qui donne au consommateur des renseignements factuels et qui porte :
 - **a)** sur un produit ou ses caractéristiques;
-- **b)** sur la possibilité de se procurer un produit ou une marque d’un produit ou sur le prix du produit ou de la marque.
+- **b)** sur la possibilité de se procurer un produit ou une marque d’un produit ou sur le prix du produit ou de la marque. (*information advertising*)
 
-***publicité préférentielle*** Publicité qui fait la promotion d’un produit du tabac en se fondant sur les caractéristiques de sa marque.
-> 1997, ch. 13, art. 22; 2009, ch. 27, art. 11.
+***publicité préférentielle*** Publicité qui fait la promotion d’un produit du tabac en se fondant sur les caractéristiques de sa marque. (*brand-preference advertising*)
+> 1997, ch. 13, art. 22; 2009, ch. 27, art. 11; 2018, ch. 9, art. 29.
 
 
 
@@ -433,7 +702,15 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **Emballage**
 
-**23** Il est interdit d’emballer un produit du tabac d’une manière non conforme à la présente loi et aux règlements.
+**23** 
+
+- **(1)** Il est interdit d’emballer un produit du tabac d’une manière non conforme aux dispositions de la présente loi et des règlements.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit du tabac dont l’emballage n’est pas conforme aux dispositions de la présente loi et des règlements.
+> 1997, ch. 13, art. 23; 2018, ch. 9, art. 30.
+
 
 
 
@@ -453,19 +730,25 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
-**Interdiction — promotion de commandite**
+**Promotion de commandite**
 
-**24** Il est interdit d’utiliser, directement ou indirectement, un élément de marque d’un produit du tabac ou le nom d’un fabricant sur le matériel relatif à la promotion d’une personne, d’une entité, d’une manifestation, d’une activité ou d’installations permanentes.
-> 1997, ch. 13, art. 24; 1998, ch. 38, art. 1.
+**24** 
+
+- **(1)** Il est interdit de faire la promotion d’un élément de marque d’un produit du tabac ou du nom d’un fabricant de produits du tabac d’une manière susceptible de créer une association entre cet élément ou ce nom et une personne, une entité, une manifestation, une activité ou une installation permanente.
+
+**Matériel relatif à la promotion**
+
+- **(2)** Il est interdit d’utiliser, directement ou indirectement, un élément de marque d’un produit du tabac ou le nom d’un fabricant de produits du tabac sur le matériel relatif à la promotion d’une personne, d’une entité, d’une manifestation, d’une activité ou d’une installation permanente.
+> 1997, ch. 13, art. 24; 1998, ch. 38, art. 1; 2018, ch. 9, art. 33.
 
 
 
 
 
-**Interdiction — élément ou nom figurant dans la dénomination**
+**Élément ou nom figurant dans la dénomination**
 
-**25** Il est interdit d’utiliser un élément de marque d’un produit du tabac ou le nom d’un fabricant sur des installations permanentes, notamment dans la dénomination de celles-ci, si l’élément ou le nom est de ce fait associé à une manifestation ou activité sportive ou culturelle.
-> 1997, ch. 13, art. 25; 1998, ch. 38, art. 2.
+**25** Il est interdit d’utiliser un élément de marque d’un produit du tabac ou le nom d’un fabricant de produits du tabac sur des installations permanentes qui servent à des manifestations ou activités sportives ou culturelles, notamment dans la dénomination de ces installations.
+> 1997, ch. 13, art. 25; 1998, ch. 38, art. 2; 2018, ch. 9, art. 33.
 
 
 
@@ -486,48 +769,173 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
-**Articles associés aux jeunes ou à un style de vie**
+**Éléments de marque — choses ou services**
 
-**27** Il est interdit de fournir ou de promouvoir un produit du tabac si l’un de ses éléments de marque figure sur des articles autres que des produits du tabac — à l’exception des accessoires — ou est utilisé pour des services et que ces articles ou ces services :
-- **a)** soit sont associés aux jeunes ou dont il existe des motifs raisonnables de croire qu’ils pourraient être attrayants pour les jeunes;
-- **b)** soit sont associés avec une façon de vivre, tels le prestige, les loisirs, l’enthousiasme, la vitalité, le risque ou l’audace.
+**27** Il est interdit, dans les cas ci-après, de fournir un produit du tabac ou d’en faire la promotion si l’un de ses éléments de marque figure sur des choses — qui ne sont ni des produits du tabac ni des accessoires — ou est utilisé pour des services :
+- **a)** ces choses ou ces services sont associés aux jeunes;
+- **b)** il existe des motifs raisonnables de croire qu’ils pourraient être attrayants pour les jeunes;
+- **c)** ils sont associés à une façon de vivre, telle une façon de vivre intégrant notamment du prestige, des loisirs, de l’enthousiasme, de la vitalité, du risque ou de l’audace.
+> 1997, ch. 13, art. 27; 2018, ch. 9, art. 34.
 
 
 
 
-**Autres articles**
+
+**Autres choses et services**
 
 **28** 
 
-- **(1)** Sous réserve des règlements, il est possible de vendre un produit du tabac ou d’en faire la publicité conformément à l’article 22 dans les cas où l’un de ses éléments de marque figure sur des articles autres que des produits du tabac — à l’exception des accessoires — ou est utilisé pour des services qui ne sont pas visés par les alinéas 27a) ou b).
+- **(1)** Il est possible, sous réserve des règlements, de vendre un produit du tabac ou d’en faire la publicité conformément à l’article 22 dans les cas où l’un de ses éléments de marque figure sur des choses qui ne sont ni des produits du tabac ni des accessoires ou est utilisé pour des services si ces choses ou services ne sont visés à aucun des alinéas 27a) à c).
 
 **Promotion**
 
-- **(2)** Sous réserve des règlements, il est possible de promouvoir des articles autres que des produits du tabac — à l’exception des accessoires — portant un élément de marque d’un produit du tabac ou des services utilisant un tel élément qui ne sont pas visés à l’article 27.
+- **(2)** Il est possible, sous réserve des règlements, de faire la promotion de choses qui ne sont ni des produits du tabac ni des accessoires et qui portent un élément de marque d’un produit du tabac ou de services qui utilisent un tel élément si ces choses ou services ne sont visés à aucun des alinéas 27a) à c).
+> 1997, ch. 13, art. 28; 2018, ch. 9, art. 34.
+
 
 
 
 
 **Promotion des ventes**
 
-**29** Il est interdit au fabricant et au détaillant :
-- **a)** d’offrir ou de donner, directement ou indirectement, une contrepartie pour l’achat d’un produit du tabac, notamment un cadeau à l’acheteur ou à un tiers, une prime, un rabais ou le droit de participer à un tirage, à une loterie ou à un concours;
-- **b)** de fournir un produit du tabac à titre gratuit ou en contrepartie de l’achat d’un produit ou d’un service ou de la prestation d’un service;
-- **c)** de fournir un accessoire sur lequel figure un élément de marque d’un produit du tabac à titre gratuit ou en contrepartie de l’achat d’un produit ou d’un service ou de la prestation d’un service.
+**29** Il est interdit au fabricant et au détaillant de faire ou d’offrir de faire l’une des actions suivantes :
+- **a)** donner une contrepartie pour l’achat d’un produit du tabac, notamment un cadeau à l’acheteur ou à un tiers, une prime, un rabais ou le droit de participer à un jeu, à un tirage, à une loterie ou à un concours;
+- **b)** fournir un produit du tabac à titre gratuit ou en contrepartie de l’achat d’un produit ou d’un service ou de la prestation d’un service;
+- **c)** fournir un accessoire sur lequel figure un élément de marque d’un produit du tabac à titre gratuit ou en contrepartie de l’achat d’un produit ou d’un service ou de la prestation d’un service.
+> 1997, ch. 13, art. 29; 2018, ch. 9, art. 35.
 
 
 
 
-**Autorisation**
+
+**Exposition au point de vente**
 
 **30** 
 
-- **(1)** Sous réserve des règlements, il est possible, dans un établissement de vente au détail, d’exposer des produits du tabac et des accessoires portant un élément de marque d’un produit du tabac.
+- **(1)** Il est possible, sous réserve des règlements, d’exposer au point de vente des produits du tabac et des accessoires portant un élément de marque d’un produit du tabac.
 
 **Affiches**
 
-- **(2)** Il est possible pour un détaillant, sous réserve des règlements, de signaler dans son établissement que des produits du tabac y sont vendus et d’indiquer leurs prix.
+- **(2)** Il est possible pour un détaillant, sous réserve des règlements, de signaler au point de vente que des produits du tabac y sont vendus et d’indiquer leurs prix.
 
+**Précision**
+
+- **(3)** Il est entendu que le paragraphe (1) n’autorise pas l’exposition d’un produit du tabac dont l’emballage n’est pas conforme aux dispositions de la présente loi et des règlements.
+> 1997, ch. 13, art. 30; 2018, ch. 9, art. 36.
+
+
+
+
+
+**SECTION 2** 
+### Produits de vapotage
+
+
+
+**Publicité attrayante pour les jeunes**
+
+**30.1** Il est interdit de faire la promotion d’un produit de vapotage, d’un élément de marque d’un produit de vapotage ou d’une chose sur laquelle figure un tel élément en recourant à de la publicité s’il existe des motifs raisonnables de croire que la publicité en cause pourrait être attrayante pour les jeunes.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Publicité de style de vie**
+
+**30.2** Il est interdit de faire la promotion d’un produit de vapotage, d’un élément de marque d’un produit de vapotage ou d’une chose sur laquelle figure un tel élément de marque en recourant à de la publicité de style de vie.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Promotion de commandite**
+
+**30.3** 
+
+- **(1)** Il est interdit de faire la promotion d’un élément de marque d’un produit de vapotage ou du nom d’un fabricant de produits de vapotage d’une manière susceptible de créer une association entre cet élément ou ce nom et une personne, une entité, une manifestation, une activité ou une installation permanente.
+
+**Matériel relatif à la promotion**
+
+- **(2)** Il est interdit d’utiliser, directement ou indirectement, un élément de marque d’un produit de vapotage ou le nom d’un fabricant de produits de vapotage sur le matériel relatif à la promotion d’une personne, d’une entité, d’une manifestation, d’une activité ou d’une installation permanente.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Élément ou nom figurant dans la dénomination**
+
+**30.4** Il est interdit d’utiliser un élément de marque d’un produit de vapotage ou le nom d’un fabricant de produits de vapotage sur des installations permanentes qui servent à des manifestations ou activités sportives ou culturelles, notamment dans la dénomination de ces installations.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Donner ou offrir de donner**
+
+**30.5** Il est interdit au fabricant et au détaillant, sous réserve des règlements, de donner ou d’offrir de donner l’une des choses suivantes :
+- **a)** un produit de vapotage;
+- **b)** une chose sur laquelle figure un élément de marque d’un tel produit si, selon le cas :
+	- **(i)** la chose est associée aux jeunes,
+	- **(ii)** il existe des motifs raisonnables de croire qu’elle pourrait être attrayante pour les jeunes,
+	- **(iii)** elle est associée à une façon de vivre, telle une façon de vivre intégrant notamment du prestige, des loisirs, de l’enthousiasme, de la vitalité, du risque ou de l’audace.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Promotion des ventes — offrir une contrepartie**
+
+**30.6** 
+
+- **(1)** Il est interdit au fabricant et au détaillant, dans un lieu où les jeunes ont accès, d’offrir de faire l’une des actions suivantes :
+	- **a)** donner une contrepartie pour l’achat d’un produit de vapotage, notamment un cadeau à l’acheteur ou à un tiers, une prime, un rabais ou le droit de participer à un jeu, à un tirage, à une loterie ou à un concours;
+	- **b)** fournir un produit de vapotage en contrepartie de l’achat d’un produit ou d’un service ou de la prestation d’un service.
+
+**Promotion des ventes — donner une contrepartie**
+
+- **(2)** Il est interdit au fabricant et au détaillant, ailleurs que dans un établissement où des produits de vapotage sont habituellement vendus aux consommateurs, de faire l’une des actions suivantes :
+	- **a)** donner une contrepartie pour l’achat d’un produit de vapotage, notamment un cadeau à l’acheteur ou à un tiers, une prime, un rabais ou le droit de participer à un jeu, à un tirage, à une loterie ou à un concours;
+	- **b)** fournir un produit de vapotage en contrepartie de l’achat d’un produit ou d’un service ou de la prestation d’un service.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Publicité — information exigée**
+
+**30.7** Il est interdit de faire la promotion d’un produit de vapotage ou d’un élément de marque d’un tel produit en recourant à de la publicité à moins que celle-ci ne communique, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Publicité — règlements**
+
+**30.701** Il est interdit de faire la promotion d’un produit de vapotage ou d’un élément de marque d’un tel produit en recourant à de la publicité faite d’une manière non conforme aux règlements.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**Promotion au point de vente**
+
+**30.8** Il est interdit, au point de vente, de faire la promotion d’un produit de vapotage ou d’un élément de marque d’un tel produit, y compris au moyen de l’emballage, d’une manière non conforme aux règlements.
+> 2018, ch. 9, art. 36.
+
+
+
+
+
+**SECTION 3** 
+### Dispositions diverses
 
 
 
@@ -543,46 +951,56 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **Usage des médias étrangers**
 
-- **(3)** Il est interdit à toute personne se trouvant au Canada de faire la promotion, dans une publication ou une émission provenant de l’étranger ou dans une communication, autre qu’une publication ou une émission, provenant de l’étranger, d’un produit à la promotion duquel s’applique la présente partie ou de diffuser du matériel relatif à une promotion contenant un élément de marque d’un produit du tabac d’une manière non conforme à la présente partie.
+- **(3)** Il est interdit à toute personne se trouvant au Canada de faire la promotion, dans une publication ou une émission provenant de l’étranger ou dans une communication, autre qu’une publication ou une émission, provenant de l’étranger, d’un produit à la promotion duquel s’applique la présente partie ou de diffuser du matériel relatif à une promotion contenant un élément de marque d’un produit du tabac ou d’un produit de vapotage d’une manière non conforme à la présente partie.
+> 1997, ch. 13, art. 31; 2018, ch. 9, art. 41.
+
 
 
 
 
 **Renseignements**
 
-**32** Le fabricant est tenu de transmettre au ministre les renseignements exigés par les règlements, dans les délais et selon les modalités réglementaires, sur les promotions visées par la présente partie.
+**32** 
+
+- **(1)** Le fabricant transmet au ministre les renseignements exigés par les règlements, dans les délais, en la forme et selon les modalités réglementaires, sur les promotions visées aux alinéas 18(2)c) ou (3)c) et sur celles visées aux sections 1 ou 2.
+
+**Renseignements supplémentaires**
+
+- **(2)** Le ministre peut, sous réserve des règlements, demander des renseignements supplémentaires portant sur les mêmes sujets. Le fabricant les transmet au ministre dans le délai, en la forme et selon les modalités fixés par celui-ci.
+> 1997, ch. 13, art. 32; 2018, ch. 9, art. 42.
 
 
-
-
-### Règlements
 
 
 
 **Règlements**
 
 **33** Le gouverneur en conseil peut, par règlement :
-- **a)** régir l’emballage et la promotion des produits du tabac et l’utilisation des éléments de marque de ces produits, y compris les modalités et les conditions applicables à l’emballage et à la promotion, et la promotion des articles et services visés à l’article 28;
+- **a)** régir l’emballage et la promotion des produits du tabac, l’utilisation et la promotion des éléments de marque de ces produits, y compris les modalités et les conditions applicables à l’emballage et à la promotion, et la promotion des choses et services visés à l’article 28;
 - **b)** régir la publicité des produits du tabac pour l’application du paragraphe 22(2);
-- **c) et d)** [Abrogés, 1998, ch. 38, art. 3]
-- **e)** régir, pour l’application du paragraphe 26(1), la manière dont un élément de marque d’un produit du tabac peut figurer sur les accessoires;
-- **f)** régir l’exposition des produits du tabac et des accessoires dans les établissements de vente au détail;
-- **g)** régir, pour l’application du paragraphe 30(2), les affiches que le détaillant peut placer, y compris leur contenu, leur taille, leur nombre et les endroits où elles peuvent être placées;
-- **h)** exiger d’un fabricant qu’il fournisse les détails de ses éléments de marque et de ses activités de promotion;
-- **i)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie;
-- **j)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
-> 1997, ch. 13, art. 33; 1998, ch. 38, art. 3.
+- **c)** régir, pour l’application du paragraphe 26(1), la manière dont un élément de marque d’un produit du tabac peut figurer sur un accessoire;
+- **d)** régir l’exposition des produits du tabac et des accessoires dans les points de vente;
+- **e)** régir, pour l’application du paragraphe 30(2), les affiches que le détaillant peut placer, notamment leur contenu, leur taille, leur nombre et les endroits où elles peuvent être placées;
+- **f)** régir les exceptions à l’interdiction prévue à l’article 30.5;
+- **g)** régir, pour l’application de l’article 30.7, l’information sur les produits de vapotage et leurs émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage des produits et à leurs émissions qui doit être communiquée dans la publicité;
+- **g.1)** régir, pour l’application de l’article 30.701, la publicité des produits de vapotage ou des éléments de marque de tels produits;
+- **h)** régir, pour l’application de l’article 30.8, la promotion, au point de vente, des produits de vapotage ou des éléments de marque de tels produits, notamment en ce qui touche leur exposition;
+- **i)** exiger d’un fabricant qu’il fournisse les détails de ses éléments de marque de produits du tabac et de produits de vapotage et de ses activités de promotion;
+- **j)** régir les demandes de renseignements supplémentaires visées au paragraphe 32(2);
+- **k)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie;
+- **l)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+> 1997, ch. 13, art. 33; 1998, ch. 38, art. 3; 2018, ch. 9, art. 44.
 
 
 
 
 
 **PARTIE V** 
-## Contrôle d’application
+## Exécution et contrôle d’application
 
 
 
-### Inspection
+### Inspection et analyse
 
 
 
@@ -590,62 +1008,88 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 **34** 
 
-- **(1)** Pour le contrôle d’application de la présente loi, le ministre peut désigner des personnes ou catégories de personnes pour remplir les fonctions d’inspecteur ou d’analyste; le cas échéant, il leur remet un certificat établi en la forme qu’il prévoit et attestant leur qualité.
+- **(1)** Pour l’exécution et le contrôle d’application de la présente loi, le ministre peut désigner toute personne — à titre individuel ou au titre de son appartenance à une catégorie déterminée — à titre d’inspecteur ou d’analyste.
+
+**Certificat**
+
+- **(2)** Chaque inspecteur et analyste reçoit un certificat, en la forme établie par le ministre, attestant leur qualité.
 
 **Production du certificat**
 
-- **(2)** L’inspecteur doit, sur demande, présenter son certificat au responsable des lieux visités en application de la présente loi.
+- **(3)** L’inspecteur doit, sur demande, présenter son certificat au responsable des lieux dans lesquels il entre en vertu de la présente loi.
+> 1997, ch. 13, art. 34; 2018, ch. 9, art. 45.
 
 
 
 
-**Visite**
+
+**Accès au lieu**
 
 **35** 
 
-- **(1)** En vue de faire observer la présente loi, l’inspecteur peut, à toute heure convenable et sous réserve de l’article 36, procéder à la visite de tout lieu — à l’exception d’un moyen de transport — où, à son avis :
-	- **a)** sont fabriqués, soumis à des essais, entreposés, emballés, étiquetés ou vendus des produits du tabac;
-	- **b)** se trouvent des choses utilisées dans le cadre de la fabrication, l’emballage, l’étiquetage, la promotion ou la vente de produits du tabac, ou dans le cadre d’essais;
-	- **c)** se trouvent des renseignements relatifs à la fabrication, l’emballage, l’étiquetage, la promotion ou la vente de produits du tabac, ou aux essais.
-L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
+- **(1)** À toute fin liée à la vérification du respect de la présente loi, l’inspecteur peut, sous réserve de l’article 36, entrer dans tout lieu, y compris un moyen de transport, s’il a des motifs raisonnables de croire, selon le cas :
+	- **a)** que des produits de tabac ou des produits de vapotage y sont fabriqués, soumis à des essais, entreposés, transportés ou fournis ou y font l’objet d’une activité de promotion;
+	- **b)** que s’y trouvent des choses utilisées dans le cadre de la fabrication, de la mise à l’essai, de la promotion ou de la fourniture de produits du tabac ou de produits de vapotage;
+	- **c)** que s’y trouvent des renseignements relatifs à la fabrication, à la mise à l’essai, à l’entreposage, à la promotion, au transport ou à la fourniture de produits du tabac ou de produits de vapotage.
 
 **Pouvoirs de l’inspecteur**
 
-- **(2)** Dans le cadre de sa visite, l’inspecteur peut :
-	- **a)** examiner des produits du tabac et les choses mentionnées à l’alinéa (1)b);
-	- **b)** exiger la présentation, pour examen, de tels produits ou choses, selon les modalités et les conditions qu’il précise;
-	- **c)** ouvrir ou faire ouvrir tout contenant ou emballage où, à son avis, se trouvent de tels produits ou choses;
-	- **d)** prélever ou faire prélever des échantillons de tels produits ou choses;
+- **(2)** L’inspecteur peut, à toute fin prévue au paragraphe (1) :
+	- **a)** examiner des produits du tabac, des produits de vapotage et des choses mentionnées à l’alinéa (1)b) qui se trouvent dans le lieu;
+	- **b)** ordonner à quiconque de présenter, pour examen, de tels produits ou de telles choses, selon les modalités et les conditions qu’il précise;
+	- **c)** ouvrir ou ordonner à quiconque d’ouvrir tout contenant ou emballage dans lequel il a des motifs raisonnables de croire que se trouvent de tels produits ou de telles choses;
+	- **d)** prélever ou ordonner à quiconque de prélever sans frais des échantillons de tels produits ou de telles choses;
 	- **e)** effectuer des essais, des analyses et des mesures;
-	- **f)** exiger, aux fins d’examen ou de reproduction, la communication de tout renseignement — sur support électronique ou autre — utile à l’application de la présente loi.
-L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
+	- **f)** ordonner à quiconque se trouve dans le lieu de communiquer, aux fins d’examen ou de reproduction, tout renseignement sur support électronique ou autre;
+	- **g)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **h)** ordonner au propriétaire de tels produits ou de telles choses ou, le cas échéant, du moyen de transport, ou à la personne qui en a la possession, la responsabilité ou la charge, de les déplacer ou de ne pas les déplacer ou d’en limiter le déplacement aussi longtemps que nécessaire;
+	- **i)** ordonner au propriétaire ou au responsable du lieu, ou à quiconque s’y trouve et y fabrique, met à l’essai, entrepose, transporte ou fournit des produits du tabac ou des produits de vapotage ou en fait la promotion, d’établir, à sa satisfaction, son identité;
+	- **j)** utiliser ou ordonner à quiconque d’utiliser tout ordinateur, au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qui se trouve dans le lieu pour prendre connaissance des données qu’il contient ou auxquelles il donne accès, reproduire ou ordonner à quiconque de reproduire ces données sous forme d’imprimé ou toute autre forme intelligible et emporter tout imprimé ou sortie de données pour examen ou reproduction;
+	- **k)** utiliser ou ordonner à quiconque d’utiliser le matériel de reproduction qui se trouve dans le lieu et emporter les copies aux fins d’examen.
 
-**Usage d’ordinateurs et de photocopieuses**
+**Moyens de télécommunication**
 
-- **(3)** Dans le cadre de sa visite, l’inspecteur peut :
-	- **a)** utiliser ou faire utiliser tout système informatique se trouvant sur place pour prendre connaissance des données — utiles à l’application de la présente loi — qu’il contient ou auxquelles il donne accès;
-	- **b)** obtenir ces données sous toute forme intelligible et les emporter aux fins d’examen ou de reproduction;
-	- **c)** utiliser ou faire utiliser le matériel se trouvant sur place pour faire des copies de tous documents ou données.
+- **(3)** Pour l’application des paragraphes (1) et (2), est considéré comme une entrée dans un lieu le fait d’y entrer à distance à l’aide d’un moyen de télécommunication.
+
+**Limites au droit d’accès à l’aide de moyens de télécommunication**
+
+- **(4)** L’inspecteur qui entre à distance, à l’aide d’un moyen de télécommunication, dans un lieu non accessible au public le fait à la connaissance du propriétaire ou du responsable du lieu et limite la durée de sa visite à ce qui est nécessaire à toute fin prévue au paragraphe (1).
+
+**Personnes accompagnant l’inspecteur**
+
+- **(5)** L’inspecteur peut être accompagné des personnes qu’il estime nécessaires pour l’aider dans l’exercice de ses attributions au titre du présent article.
+
+**Droit de passage sur une propriété privée**
+
+- **(6)** L’inspecteur et toute personne l’accompagnant peuvent, afin d’accéder au lieu visé au paragraphe (1), pénétrer dans une propriété privée — à l’exclusion de toute maison d’habitation — et y circuler.
+> 1997, ch. 13, art. 35; 2018, ch. 9, art. 45.
 
 
 
 
-**Mandat pour un local d’habitation**
+
+**Mandat pour maison d’habitation**
 
 **36** 
 
-- **(1)** L’inspecteur ne peut procéder à la visite d’un local d’habitation sans l’autorisation de l’occupant que s’il est muni du mandat prévu au paragraphe (2).
+- **(1)** Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois y entrer sans le consentement de l’occupant que s’il est muni d’un mandat décerné en vertu du paragraphe (2).
 
 **Délivrance du mandat**
 
-- **(2)** Sur demande *ex parte*, le juge de paix au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peut délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite d’un local d’habitation, s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
-	- **a)** les circonstances prévues au paragraphe 35(1) existent;
-	- **b)** la visite est nécessaire pour l’application de la présente loi;
-	- **c)** soit un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas, soit il n’est pas possible d’obtenir le consentement de l’occupant.
+- **(2)** Sur demande *ex parte*, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions ci-après sont réunies :
+	- **a)** la maison d’habitation est un lieu visé au paragraphe 35(1);
+	- **b)** l’entrée est nécessaire à toute fin prévue à ce paragraphe;
+	- **c)** soit l’occupant a refusé l’entrée à l’inspecteur, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir le consentement de l’occupant.
 
 **Usage de la force**
 
-- **(3)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
+- **(3)** L’inspecteur ne peut recourir à la force dans l’exécution d’un mandat autorisant l’entrée dans une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’il est accompagné d’un agent de la paix.
+
+**Télémandats**
+
+- **(4)** L’inspecteur qui considère qu’il serait peu commode de se présenter en personne devant le juge de paix pour y demander le mandat visé au paragraphe (2) peut demander qu’il lui soit décerné par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
+> 1997, ch. 13, art. 36; 2018, ch. 9, art. 45.
+
 
 
 
@@ -661,11 +1105,13 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **38** 
 
-- **(1)** Le propriétaire ou le responsable du lieu visité, ainsi que quiconque s’y trouve, est tenu de prêter à l’inspecteur toute l’assistance possible et de lui donner les renseignements qu’il peut valablement exiger.
+- **(1)** Le propriétaire ou le responsable du lieu visé au paragraphe 35(1) ainsi que quiconque s’y trouve sont tenus de prêter à l’inspecteur toute l’assistance que ce dernier peut valablement exiger pour lui permettre d’exercer ses attributions au titre de la présente loi, notamment en lui fournissant les documents, les renseignements et l’accès aux données qu’il peut valablement exiger et en se conformant aux ordres qu’il donne en vertu du paragraphe 35(2) ou de l’alinéa 39(2)b).
 
 **Entrave et fausses déclarations**
 
-- **(2)** Il est interdit d’entraver l’action de l’inspecteur ou de lui faire en connaissance de cause une déclaration fausse ou trompeuse.
+- **(2)** Il est interdit d’entraver l’action de l’inspecteur qui agit dans l’exercice de ses attributions au titre de la présente loi ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+> 1997, ch. 13, art. 38; 2018, ch. 9, art. 46.
+
 
 
 
@@ -678,15 +1124,19 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **39** 
 
-- **(1)** Au cours de la visite, l’inspecteur peut saisir toute chose — notamment un produit du tabac — dont il a des motifs raisonnables de croire qu’elle a servi ou donné lieu à une infraction à la présente loi.
+- **(1)** L’inspecteur peut saisir toute chose — notamment un produit du tabac ou un produit de vapotage — qui se trouve dans le lieu visé au paragraphe 35(1) ou tout moyen de transport visé à ce paragraphe, s’il a des motifs raisonnables de croire qu’ils ont servi ou sont liés à la contravention de la présente loi.
 
-**Entreposage et transfert**
+**Entreposage**
 
-- **(2)** L’inspecteur peut exiger que la chose saisie soit entreposée sur les lieux; il peut également exiger qu’elle soit transférée dans un autre lieu.
+- **(2)** En cas de saisie, l’inspecteur peut :
+	- **a)** entreposer ou déplacer la chose ou le moyen de transport, sur avis à l’intéressé — le propriétaire ou la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie — et aux frais de celui-ci;
+	- **b)** ordonner à l’intéressé d’entreposer ou de déplacer la chose ou le moyen de transport à ses frais.
 
 **Interdiction**
 
-- **(3)** Il est interdit, sans autorisation de l’inspecteur, de déplacer la chose saisie, ou d’en modifier l’état de quelque manière que ce soit.
+- **(3)** Il est interdit, sans autorisation de l’inspecteur, de déplacer la chose ou le moyen de transport saisi ou d’en modifier l’état de quelque manière que ce soit.
+> 1997, ch. 13, art. 39; 2018, ch. 9, art. 47.
+
 
 
 
@@ -695,23 +1145,25 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **40** 
 
-- **(1)** La personne dont la chose a été saisie peut, dans les soixante jours suivant la date de saisie et à la condition que la personne adresse au ministre, en la manière et dans le délai réglementaires, un préavis contenant les renseignements réglementaires, demander à un juge de la cour provinciale dans le ressort duquel la saisie a été faite de rendre une ordonnance de restitution.
+- **(1)** Le saisi peut, dans les soixante jours suivant la date de saisie et à la condition qu’il adresse au ministre, en la manière et dans le délai réglementaires, un préavis contenant les renseignements réglementaires, demander à un juge de la cour provinciale dans le ressort duquel la saisie a été faite de rendre une ordonnance de restitution.
 
 **Ordonnance de restitution immédiate**
 
-- **(2)** Le juge de la cour provinciale ordonne la restitution immédiate si, après audition de la demande, il est convaincu :
-	- **a)** d’une part, que le demandeur a droit à la possession de la chose saisie;
-	- **b)** d’autre part, que celle-ci ne sert pas ou ne servira pas de preuve dans une procédure relative à une infraction à la présente loi.
+- **(2)** Le juge de la cour provinciale peut ordonner la restitution immédiate si, après audition de la demande, il est convaincu :
+	- **a)** d’une part, que le demandeur a droit à la possession de la chose ou du moyen de transport saisi;
+	- **b)** d’autre part, que la chose ou le moyen de transport ne sert pas ou ne servira pas de preuve dans une procédure relative à une infraction à la présente loi.
 
 **Restitution différée**
 
-- **(3)** Si le juge de la cour provinciale est convaincu du droit du demandeur à la possession de la chose saisie sans avoir la conviction visée à l’alinéa (2)b), il ordonne qu’elle soit restituée au demandeur :
+- **(3)** Si le juge de la cour provinciale est convaincu du droit du demandeur à la possession de la chose ou du moyen de transport saisi sans avoir la conviction visée à l’alinéa (2)b), il peut ordonner que la chose ou le moyen de transport soit restitué au demandeur :
 	- **a)** dès l’expiration d’un délai de cent quatre-vingts jours à compter de la date de saisie, sauf introduction, dans ce délai, d’une poursuite visant une infraction à la présente loi;
 	- **b)** dès que la poursuite est définitivement tranchée, dans les autres cas.
 
 **Confiscation sur consentement**
 
-- **(4)** Il ne peut être rendu d’ordonnance en vertu du présent article si la chose saisie a été confisquée en application du paragraphe 41(3).
+- **(4)** Il ne peut être rendu d’ordonnance en vertu du présent article si la chose ou le moyen de transport saisi a été confisqué en application du paragraphe 41(3).
+> 1997, ch. 13, art. 40; 2018, ch. 9, art. 48.
+
 
 
 
@@ -720,15 +1172,51 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **41** 
 
-- **(1)** Si aucune demande de restitution n’est faite dans les soixante jours qui suivent la date de saisie, ou si la demande qui est faite n’est pas, après audition, suivie d’une ordonnance de restitution, la chose saisie est confisquée au profit de Sa Majesté; il en est disposé conformément aux instructions du ministre.
+- **(1)** Si aucune demande de restitution n’est faite dans les soixante jours qui suivent la date de saisie ou si la demande qui est faite n’est pas, après audition, suivie d’une ordonnance de restitution, la chose ou le moyen de transport saisi est confisqué au profit de Sa Majesté du chef du Canada.
 
 **Confiscation — déclaration de culpabilité**
 
-- **(2)** Sur déclaration de culpabilité de l’auteur de toute infraction à la présente loi, la chose saisie qui a servi ou donné lieu à l’infraction est confisquée au profit de Sa Majesté; il en est disposé conformément aux instructions du ministre.
+- **(2)** Sur déclaration de culpabilité de l’auteur de toute infraction à la présente loi, la chose ou le moyen de transport saisi qui a servi ou donné lieu à l’infraction est confisqué au profit de Sa Majesté du chef du Canada.
 
 **Confiscation sur consentement**
 
-- **(3)** Le propriétaire ou le dernier possesseur de la chose saisie peut consentir par écrit à sa confiscation. Elle est dès lors confisquée au profit de Sa Majesté, et il en est disposé conformément aux instructions du ministre.
+- **(3)** Le propriétaire ou le dernier possesseur de la chose ou du moyen de transport saisi peut consentir par écrit à sa confiscation. La chose ou le moyen de transport est dès lors confisqué au profit de Sa Majesté du chef du Canada.
+
+**Disposition**
+
+- **(4)** En cas de confiscation de la chose ou du moyen de transport saisi, il peut en être disposé, conformément aux instructions du ministre, aux frais du propriétaire ou de la personne qui avait droit à sa possession au moment de la saisie.
+> 1997, ch. 13, art. 41; 2018, ch. 9, art. 49.
+
+
+
+
+
+**Recouvrement des frais**
+
+**41.1** 
+
+- **(1)** Sa Majesté du chef du Canada peut recouvrer, à titre de créance de Sa Majesté du chef du Canada, les frais exposés par elle et liés aux mesures prises au titre de l’article 39 ou du paragraphe 41(4), notamment l’entreposage, le déplacement ou la disposition d’une chose ou d’un moyen de transport.
+
+**Prescription**
+
+- **(2)** Le recouvrement en vertu du paragraphe (1) de toute créance de Sa Majesté du chef du Canada se prescrit par cinq ans à compter de la date à laquelle la créance est devenue exigible.
+> 2018, ch. 9, art. 49.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**41.2** 
+
+- **(1)** Le ministre peut établir un certificat de non-paiement pour la partie impayée des créances dont le recouvrement peut être poursuivi en vertu du paragraphe 41.1(1).
+
+**Enregistrement en Cour fédérale**
+
+- **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2018, ch. 9, art. 49.
+
 
 
 
@@ -742,37 +1230,69 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **42** Le gouverneur en conseil peut, par règlement :
 - **a)** régir les pouvoirs et fonctions des inspecteurs et des analystes;
 - **b)** régir le prélèvement d’échantillons;
+- **b.1)** régir les frais liés aux mesures prises au titre de l’article 39 ou du paragraphe 41(4);
 - **c)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie;
 - **d)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+> 1997, ch. 13, art. 42; 2018, ch. 9, art. 50.
+
 
 
 
 
 **PARTIE V.1** 
-## Dépôt des projets de règlement
+## Dispositions diverses
+
+
+**42.1** [Abrogé, 2018, ch. 9, art. 52]
 
 
 
-**Dépôt des projets de règlement**
 
-**42.1** 
+**[Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md)**
 
-- **(1)** Le gouverneur en conseil ne peut prendre de règlement en vertu de l’article 7, 14, 17, 33 ou 42 à moins que le ministre n’ait fait déposer le projet de règlement devant la Chambre des communes.
+**42.2** 
 
-**Rapport du comité**
+- **(1)** Le gouverneur en conseil peut, par règlement, prévoir que la présente loi, ou l’une ou plusieurs de ses dispositions, ne s’applique pas à l’égard des produits de vapotage qui sont régis sous le régime de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou qui contiennent une substance désignée au sens du paragraphe 2(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), ou à l’égard de certains de ces produits.
 
-- **(2)** Tout comité compétent, d’après le règlement de la Chambre des communes, est automatiquement saisi du projet de règlement et peut effectuer une enquête ou tenir des audiences publiques à cet égard et faire rapport de ses conclusions à la Chambre.
+**Précision**
 
-**Prise des règlements**
+- **(2)** Il est entendu que les règlements peuvent établir des distinctions entre produits de vapotage en fonction du type d’autorisation, notamment du type de licence, délivrée sous le régime de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou en fonction du type de licence, de permis, d’autorisation ou d’exemption accordé sous le régime de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md).
+> 2018, ch. 9, art. 53.
 
-- **(3)** Le gouverneur en conseil peut prendre un règlement en vertu de l’article 7, 14, 17, 33 ou 42 dans les cas suivants :
-	- **a)** la Chambre des communes n’a donné son agrément à aucun rapport du comité au sujet du projet de règlement dans les trente jours de séance de la Chambre suivant le dépôt du projet de règlement; dans ce cas, le règlement pris doit être conforme au projet déposé;
-	- **b)** la Chambre des communes a donné son agrément à un rapport du comité approuvant le projet de règlement avec ou sans modifications; dans ce cas, le gouverneur en conseil doit prendre un règlement conforme au projet agréé par la Chambre.
 
-**Définition de jour de séance**
 
-- **(4)** Pour l’application du présent article, ***jour de séance*** s’entend d’un jour où la Chambre des communes siège.
-> 1997, ch. 13, art. 42.1; 2015, ch. 3, art. 154(F).
+
+
+**Marques de commerce**
+
+**42.3** 
+
+- **(1)** Malgré la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), l’enregistrement d’une marque de commerce ne peut être considéré comme invalide au titre des alinéas 18(1)b) ou c) de cette loi pour des raisons découlant du respect de la présente loi.
+
+**Précision**
+
+- **(2)** Pour l’application de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), il est entendu que le défaut d’emploi d’une marque de commerce qui découle du respect de la présente loi constitue un défaut d’emploi attribuable à des circonstances spéciales qui le justifient.
+> 2018, ch. 9, art. 53.
+
+
+
+
+
+**Règlements**
+
+**42.4** Le gouverneur en conseil peut, par règlement :
+- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente partie;
+- **b)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+> 2018, ch. 9, art. 53.
+
+
+
+
+
+**Incorporation par renvoi — restriction levée**
+
+**42.5** La restriction prévue à l’alinéa 18.1(2)a) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) selon laquelle le document doit être incorporé par renvoi dans sa version à une date donnée ne s’applique pas aux pouvoirs de prendre des règlements conférés par les articles 7, 7.8, 14, 17, 33, 42 et 42.4.
+> 2018, ch. 9, art. 53.
 
 
 
@@ -783,28 +1303,36 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
-**Emballage et promotion**
+**Produit et promotion — fabricants**
 
-**43** Quiconque contrevient aux articles 5 ou 19 commet une infraction et est passible, sur déclaration de culpabilité :
-- **a)** par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
-- **b)** par mise en accusation, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+**43** 
 
+- **(1)** Le fabricant qui contrevient aux articles 5, 7.2 ou 19 commet une infraction et est passible, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** par mise en accusation, d’une amende maximale de 1 000 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
 
+**Promotion — autres contrevenants**
 
-
-**Additifs interdits — fabricants**
-
-**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1), 5.2(1) ou 23.1(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
-> 2009, ch. 27, art. 14.
-
+- **(2)** Quiconque, n’étant pas un fabricant, contrevient à l’article 19 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $.
+> 1997, ch. 13, art. 43; 2018, ch. 9, art. 55.
 
 
 
 
-**Additifs interdits — détaillants**
 
-**43.2** Le détaillant qui contrevient aux paragraphes 5.2(1) ou 23.1(2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $.
-> 2009, ch. 27, art. 14.
+**Additifs — fabricants**
+
+**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1) ou 5.2(1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 2009, ch. 27, art. 14; 2018, ch. 9, art. 55.
+
+
+
+
+
+**Additifs — autres contrevenants**
+
+**43.2** Quiconque, n’étant pas un fabricant, contrevient au paragraphe 5.2(1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $.
+> 2009, ch. 27, art. 14; 2018, ch. 9, art. 55.
 
 
 
@@ -812,8 +1340,17 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Infractions — procédure sommaire**
 
-**44** Quiconque contrevient aux paragraphes 6(1) ou (2), 10(1) ou (2), 26(1) ou (2) ou 31(1) ou (3), à l’article 32 ou aux paragraphes 38(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
-> 1997, ch. 13, art. 44; 2009, ch. 27, art. 15.
+**44** Quiconque contrevient aux paragraphes 6(1) ou (2), à l’article 6.1, aux paragraphes 7.3(1) ou (2), à l’article 7.5, aux paragraphes 10(1), (2) ou (3) ou 26(1) ou (2), à l’article 30.7 ou aux paragraphes 31(1) ou (3), 32(1) ou (2) ou 38(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 1997, ch. 13, art. 44; 2009, ch. 27, art. 15; 2018, ch. 9, art. 55.
+
+
+
+
+
+**Interdiction de vendre**
+
+**44.1** Le fabricant qui contrevient à l’article 7.4 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 2018, ch. 9, art. 55.
 
 
 
@@ -821,9 +1358,11 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Vente aux jeunes et promotion**
 
-**45** Quiconque contrevient aux articles 8, 9, 11 ou 12 ou le détaillant qui contrevient à l’article 29 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire :
+**45** Quiconque contrevient aux paragraphes 8(1) ou 9(1) ou aux articles 11 ou 12 ou le détaillant qui contrevient aux articles 29 ou 30.5 ou aux paragraphes 30.6(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire :
 - **a)** pour une première infraction, d’une amende maximale de 3 000 $;
 - **b)** pour toute infraction subséquente, d’une amende maximale de 50 000 $.
+> 1997, ch. 13, art. 45; 2018, ch. 9, art. 60.
+
 
 
 
@@ -832,18 +1371,26 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **46** 
 
-- **(1)** Le détaillant qui contrevient aux paragraphes 15(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $.
+- **(1)** Le détaillant qui contrevient aux paragraphes 15(1) ou (2), 15.1(1) ou (4) ou 15.3(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $.
 
 **Infractions — fabricants**
 
-- **(2)** Le fabricant qui contrevient aux paragraphes 15(1) ou (2) ou à l’article 29 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+- **(2)** Le fabricant qui contrevient aux paragraphes 15(1) ou (2), 15.1(1) ou (4) ou 15.3(1) ou (2), aux articles 29 ou 30.5 ou aux paragraphes 30.6(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+
+**Infractions**
+
+- **(3)** Quiconque contrevient aux paragraphes 15.1(2) ou (3) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 1997, ch. 13, art. 46; 2018, ch. 9, art. 61.
+
 
 
 
 
 **Infractions**
 
-**47** Quiconque contrevient aux paragraphes 13(1) ou (2), à l’article 20, aux paragraphes 21(1) ou 22(1) ou aux articles 23 ou 27 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+**47** Quiconque contrevient aux paragraphes 9.1(1) ou (2), 20(1), 21(1), 22(1), 23(1) ou (2), 23.1(1) ou (2) ou 24(1) ou (2), aux articles 25, 27, 30.1 ou 30.2, aux paragraphes 30.3(1) ou (2) ou aux articles 30.4 ou 30.701 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 1997, ch. 13, art. 47; 2018, ch. 9, art. 61.
+
 
 
 
@@ -851,6 +1398,15 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Infractions — autres dispositions**
 
 **48** Quiconque contrevient à une disposition de la loi ou des règlements pour laquelle aucune peine n’est prévue commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $.
+
+
+
+
+**Disculpation : précautions voulues**
+
+**48.1** Nul ne peut être déclaré coupable d’une infraction prévue à la présente loi s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+> 2018, ch. 9, art. 64.
+
 
 
 
@@ -930,8 +1486,10 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Présomptions**
 
 **57** Dans les poursuites visant une infraction à la présente loi :
-- **a)** la mention, sur l’emballage, selon laquelle celui-ci contient un produit du tabac fait foi, sauf preuve contraire, de ce fait;
-- **b)** le nom ou l’adresse, sur l’emballage, censés être le nom ou l’adresse de la personne qui a fabriqué le produit du tabac fait foi, sauf preuve contraire, de l’identité du fabricant.
+- **a)** la mention, sur l’emballage, selon laquelle celui-ci contient un produit du tabac ou un produit de vapotage, selon le cas, fait foi, sauf preuve contraire, de ce fait;
+- **b)** le nom ou l’adresse, sur l’emballage, censés être le nom ou l’adresse de la personne qui a fabriqué le produit du tabac ou le produit de vapotage fait foi, sauf preuve contraire, de l’identité du fabricant.
+> 1997, ch. 13, art. 57; 2018, ch. 9, art. 65.
+
 
 
 
@@ -947,11 +1505,13 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **59** En sus de toute peine prévue par la présente loi et compte tenu de la nature de l’infraction et des circonstances de sa perpétration, le tribunal peut, lors du prononcé de la sentence, rendre une ordonnance imposant au contrevenant déclaré coupable tout ou partie des obligations suivantes :
 - **a)** s’abstenir de tout acte ou activité qui pourrait entraîner la continuation de l’infraction ou la récidive;
-- **b)** s’abstenir de vendre des produits du tabac, et ce pour une période maximale d’un an, en cas de récidive relativement à une infraction aux articles 8, 9, 11, 12 ou 29;
+- **b)** s’abstenir de vendre des produits du tabac et des produits de vapotage, et ce, pour une période maximale d’un an, en cas de récidive relativement à une infraction pour contravention au paragraphe 8(1) ou aux articles 11, 12, 29, 30.5 ou 30.6;
 - **c)** publier, en la forme qu’il précise, les faits liés à la déclaration de culpabilité;
 - **d)** donner tel cautionnement ou déposer telle somme d’argent en garantie de l’observation d’une ordonnance rendue en vertu du présent article;
 - **e)** indemniser, en tout ou en partie, le ministre des frais exposés pour la prise des mesures, par celui-ci ou en son nom, découlant des faits qui ont mené à la déclaration de culpabilité;
-- **f)** verser une somme d’argent destinée à permettre les recherches sur les produits du tabac qu’il estime indiquées.
+- **f)** verser une somme d’argent destinée à permettre les recherches sur les produits du tabac et sur les produits de vapotage qu’il estime indiquées.
+> 1997, ch. 13, art. 59; 2018, ch. 9, art. 66.
+
 
 
 
@@ -961,11 +1521,11 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
-**Accords sur l’exécution de la loi**
+**Accords administratifs**
 
 **60** 
 
-- **(1)** Le ministre peut conclure des accords avec les provinces ou des organismes sur l’exécution et le contrôle d’application de la présente loi, y compris la désignation d’agents de la province ou de l’organisme à titre d’inspecteurs dans le cadre de la présente loi ou d’agents fédéraux à titre d’inspecteurs dans le cadre de la législation provinciale portant sur le tabac.
+- **(1)** Le ministre peut conclure des accords avec les provinces ou des organismes sur l’exécution et le contrôle d’application de la présente loi ou de certaines dispositions de celle-ci, y compris la désignation d’agents de la province ou de l’organisme à titre d’inspecteurs dans le cadre de la présente loi ou d’agents fédéraux à titre d’inspecteurs dans le cadre de la législation provinciale portant sur le tabac et sur les produits de vapotage.
 
 **Accords d’équivalence**
 
@@ -978,7 +1538,27 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Dépôt devant le Parlement**
 
 - **(4)** Une copie de l’accord d’équivalence doit être déposée devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la prise du décret en vertu du paragraphe (3).
-> 1997, ch. 13, art. 60; 2015, ch. 3, art. 155.
+> 1997, ch. 13, art. 60; 2015, ch. 3, art. 155; 2018, ch. 9, art. 67.
+
+
+
+
+
+**PARTIE VII.1** 
+## Examen de la loi
+
+
+
+**Examen de la loi**
+
+**60.1** 
+
+- **(1)** Trois ans après l’entrée en vigueur du présent article, et tous les deux ans par la suite, le ministre procède à l’examen des dispositions et de l’application de la présente loi.
+
+**Rapport auprès du Parlement**
+
+- **(2)** Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
+> 2018, ch. 9, art. 67.1.
 
 
 
@@ -1133,69 +1713,101 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 </td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Cigares qui sont munis d’une cape non apposée en hélice, cigares avec papier de manchette et petits cigares
+**(1)** les cigarettes
 
-**(3)** Feuilles d’enveloppe
+
+
+**(2)** les cigares qui sont munis d’une cape non apposée en hélice, les cigares avec papier de manchette et les petits cigares
+
+
+
+**(3)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>1.1</td>
 <td>Additifs interdits visés à l’article 1, sauf s’ils confèrent un arôme communément attribué au porto, au vin, au rhum ou au whisky</td>
-<td>Cigares qui sont munis d’une cape apposée en hélice et pèsent plus de 1,4 g mais au plus 6 g, sans le poids des embouts, sauf ceux visés à l’article 1</td>
+<td>Les cigares qui sont munis d’une cape apposée en hélice et pèsent plus de 1,4 g mais au plus 6 g, sans le poids des embouts, sauf ceux visés à l’article 1 et ceux fabriqués ou vendus en vue de leur exportation</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Acides aminés</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>3</td>
 <td>Caféine</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>4</td>
 <td>Agents colorants, sauf ceux utilisés pour blanchir le papier ou le filtre ou pour donner au papier de manchette l’aspect du liège</td>
-<td>Cigarettes</td>
+<td>Les cigarettes, sauf celles fabriquées ou vendues en vue de leur exportation</td>
 </tr>
 <tr>
 <td>4.1</td>
 <td>Agents colorants</td>
-<td>Feuilles d’enveloppe</td>
+<td>Les feuilles d’enveloppe, sauf celles fabriquées ou vendues en vue de leur exportation</td>
 </tr>
 <tr>
 <td>4.2</td>
 <td>Agents colorants, sauf ceux utilisés pour blanchir ou bronzer l’embout</td>
-<td>Cigares, sauf les suivants :
+<td>Les cigares, sauf les suivants :
 
-**(1)** Petits cigares
-
-
-
-**(2)** Cigares avec papier de manchette
+**(1)** les petits cigares
 
 
 
-**(3)** Cigares qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+**(2)** les cigares avec papier de manchette
+
+
+
+**(3)** les cigares qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les cigares qui sont fabriqués ou vendus en vue de leur exportation
 
 
 
@@ -1204,127 +1816,217 @@ Ne sont toutefois pas visés les additifs suivants :
 <tr>
 <td>4.3</td>
 <td>Agents colorants, sauf ceux utilisés pour blanchir le papier de gainage, pour brunir ou bronzer le papier de manchette, pour donner à ce dernier l’aspect du liège ou pour blanchir ou bronzer l’embout</td>
-<td>Petits cigares</td>
+<td>Les petits cigares, sauf ceux fabriqués ou vendus en vue de leur exportation</td>
 </tr>
 <tr>
 <td>4.4</td>
 <td>Agents colorants, sauf ceux utilisés pour brunir ou bronzer le papier de manchette ou pour blanchir ou bronzer l’embout</td>
-<td>Cigares avec papier de manchette, sauf les petits cigares</td>
+<td>Les cigares avec papier de manchette, sauf ceux fabriqués ou vendus en vue de leur exportation et les petits cigares</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Acides gras essentiels</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>6</td>
 <td>Fruits, légumes et tout produit obtenu par leur transformation, sauf le charbon activé et l’amidon</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>7</td>
 <td>Glucuronolactone</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>8</td>
 <td>Probiotiques</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>9</td>
 <td>Épices, aromates et herbes</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>10</td>
 <td>Sucres et édulcorants, sauf l’amidon</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>11</td>
 <td>Taurine</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>12</td>
 <td>Vitamines</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
 <tr>
 <td>13</td>
 <td>Minéraux nutritifs, sauf ceux qui sont nécessaires à la fabrication du produit du tabac</td>
-<td>**(1)** Cigarettes
+<td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
-**(2)** Petits cigares
+**(1)** les cigarettes
 
-**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
 
-**(4)** Feuilles d’enveloppe
+
+**(2)** les petits cigares
+
+
+
+**(3)** tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+**(4)** les feuilles d’enveloppe
+
+
 
 </td>
 </tr>
@@ -1336,6 +2038,6 @@ Ne sont toutefois pas visés les additifs suivants :
 **Note 2 :** Dans la colonne 2, ***cape apposée en hélice*** s’entend de la cape d’un cigare qui est apposée avec un angle aigu d’au moins 30 degrés par rapport à l’axe longitudinal du cigare.
 
 
-> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7; 2017, ch. 26, art. 20(F); DORS/2017-45.
+> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7; 2017, ch. 26, art. 20(F); DORS/2017-45; 2018, ch. 9, art. 68.
 
 
