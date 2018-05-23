@@ -130,11 +130,23 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Tobacco products**
 
-- **(2)** This Act applies to tobacco products as defined in section 2 of the Tobacco Act but only in respect of their ignition propensity.
+- **(2)** This Act does not apply to a tobacco product as defined in section 2 of the [Tobacco and Vaping Products Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md), except in respect of
+	- **(a)** the ignition propensity of that product; and
+	- **(b)** the devices and parts referred to in that definition.
+
+**For greater certainty — devices and parts made of tobacco**
+
+- **(2.1)** For greater certainty, the devices and parts referred to in paragraph (2)(b) do not include those made in whole or in part of tobacco.
 
 **Natural health products**
 
 - **(3)** For greater certainty, this Act does not apply to natural health products as defined in subsection 1(1) of the [Natural Health Products Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2003/196.md) made under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
+
+**Vaping products**
+
+- **(4)** The [Consumer Chemicals and Containers Regulations, 2001](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/269.md) do not apply in respect of vaping products, within the meaning of paragraphs (a) to (c) of the definition vaping product in section 2 of the [Tobacco and Vaping Products Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md), unless those regulations are amended to expressly provide that they apply in respect of those products.
+> 2010, c. 21, s. 4; 2018, c. 9, s. 75.
+
 
 
 
@@ -1351,10 +1363,10 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **  2** Cosmetics within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
 
 
-**  3** Devices within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
+**  3** Devices within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), except a vaping product within the meaning of section 2 of the [Tobacco and Vaping Products Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md) that is not subject to the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
 
 
-**  4** Drugs within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
+**  4** Drugs within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), except a vaping product within the meaning of section 2 of the [Tobacco and Vaping Products Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md) that is not subject to the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
 
 
 **  5** Food within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
@@ -1404,6 +1416,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **20** Animals within the meaning of subsection 2(1) of the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md).
 
+
+> 2010, c. 21, Sch. 1; 2018, c. 9, s. 76.
 
 
 
