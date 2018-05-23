@@ -130,7 +130,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **8** 
 
 - **(1)** The articles of continuance of CN shall contain
-	- **(a)** provisions imposing constraints on the issue, transfer and ownership, including joint ownership, of voting shares of CN to prevent any one person, together with the associates of that person, from holding, beneficially owning or controlling, directly or indirectly, otherwise than by way of security only, in the aggregate, voting shares to which are attached more than fifteen per cent of the votes that may ordinarily be cast to elect directors of CN;
+	- **(a)** provisions imposing constraints on the issue, transfer and ownership, including joint ownership, of voting shares of CN to prevent any one person, together with the associates of that person, from holding, beneficially owning or controlling, directly or indirectly, otherwise than by way of security only, in the aggregate, voting shares to which are attached more than 25% of the votes that may ordinarily be cast to elect directors of CN;
 	- **(b)** provisions respecting the enforcement of the constraints imposed pursuant to paragraph (a); and
 	- **(c)** provisions specifying that the head office of CN is to be situated in the Montreal Urban Community, Quebec.
 
@@ -179,11 +179,13 @@ the declarant and that other person are not associates so long as the directors 
 
 - **(7)** In this section,
 
-***corporation*** includes a body corporate, partnership and unincorporated organization;
+***corporation*** includes a body corporate, partnership and unincorporated organization; (*société*)
 
-***person*** includes an individual, corporation, government, government agency, trustee, executor, administrator and other legal representative;
+***person*** includes an individual, corporation, government, government agency, trustee, executor, administrator and other legal representative; (*personne*)
 
-***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security.
+***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security. (*action avec droit de vote*)
+> 1995, c. 24, s. 8; 2018, c. 10, s. 60.
+
 
 
 
