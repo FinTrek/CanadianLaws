@@ -33,6 +33,8 @@
 - **c)** le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique, le Service de protection parlementaire ou le bureau du directeur parlementaire du budget, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
 - **d)** parlementaire, éventuellement ministre, pour ce qui est de son personnel ou des employés qui, appartenant au personnel d’un parti politique et travaillant dans des locaux du Sénat ou de la Chambre des communes, sont placés sous son autorité. (*employer*)
 
+***fumer*** Fumer un produit à base de tabac ou avoir par-devers soi un tel produit allumé ou vapoter au moyen d’un produit de vapotage. (*smoke*)
+
 ***fumoir*** Pièce, désignée en application du paragraphe 3(2), où il est permis de fumer. (*designated smoking room*)
 
 ***inspecteur*** Personne désignée à ce titre conformément à l’article 9. (*inspector*)
@@ -41,7 +43,11 @@
 
 ***produit à base de tabac*** Produit fabriqué à partir du tabac et destiné à être fumé. (*tobacco product*)
 
-***usage du tabac*** Fait de fumer un produit à base de tabac ou d’avoir par-devers soi un tel produit allumé. (*smoke*)
+***produit de vapotage*** S’entend, à la fois :
+- **a)** du dispositif destiné à être utilisé pour simuler l’acte de fumer un produit à base de tabac et émettant un aérosol destiné à être inhalé, notamment une cigarette électronique, un cigare électronique et une pipe électronique;
+- **b)** du dispositif que les règlements désignent comme un produit de vapotage. (*vaping product*)
+
+***usage du tabac***[Abrogée, 2018, ch. 9, art. 82]
 
 ***zone fumeurs*** Zone, à l’exclusion d’un fumoir, désignée en application du paragraphe 3(2), où il est permis de fumer. (*designated smoking area*)
 
@@ -56,7 +62,7 @@
 **Non-application aux trains de banlieue**
 
 - **(4)** La présente loi ne s’applique pas aux lieux de travail situés à bord des trains de banlieue exploités par ou pour un gouvernement ou un organisme public provincial.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202; 2015, ch. 36, art. 143; 2017, ch. 20, art. 178.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202; 2015, ch. 36, art. 143; 2017, ch. 20, art. 178; 2018, ch. 9, art. 82.
 
 
 
@@ -145,8 +151,8 @@
 
 **Autres règles de droit**
 
-**6** Les articles 4 et 5 ne font pas obstacle à l’application des dispositions d’autres lois fédérales ou de leurs règlements, ou de toute autre règle de droit, relatives à la protection contre la fumée du tabac.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 6; 1989, ch. 7, art. 1.
+**6** Les articles 4 et 5 ne font pas obstacle à l’application des dispositions d’autres lois fédérales ou de leurs règlements, ou de toute autre règle de droit, relatives à la protection contre la fumée du tabac ou les émissions des produits de vapotage.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 6; 1989, ch. 7, art. 1; 2018, ch. 9, art. 83.
 
 
 
@@ -158,6 +164,7 @@
 
 - **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** déterminer les dimensions, le nombre, la surface proportionnelle, l’emplacement, l’utilisation, les critères quantitatifs d’occupation et les autres caractéristiques des fumoirs ou zones fumeurs visés au paragraphe 3(2);
+	- **a.1)** désigner tout dispositif comme étant un produit de vapotage pour l’application de la définition de ce terme;
 	- **b)** déterminer les critères relatifs au système de ventilation des fumoirs;
 	- **c)** permettre la désignation de fumoirs ou zones fumeurs à bord d’aéronefs, de trains, de véhicules automobiles ou de navires, soit de façon générale, soit pour des trajets ou des catégories de liaisons déterminés, et prévoir, sous réserve du paragraphe 5(2), la proportion maximale des places d’une même classe susceptibles d’être comprises dans des fumoirs ou zones fumeurs;
 	- **d)** prévoir, soit de façon générale, soit pour des trajets ou des catégories de liaisons déterminés, la proportion maximale de vols ou mouvements par des aéronefs, des trains, des véhicules automobiles ou des navires transportant des passagers à titre onéreux et susceptibles de comporter des fumoirs ou zones fumeurs pendant des périodes déterminées;
@@ -170,7 +177,7 @@
 **Champ d’application**
 
 - **(2)** Les règlements pris en vertu du présent article peuvent s’appliquer à l’ensemble des employeurs ou des lieux de travail, ou à toute catégorie d’entre eux.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 7; 1989, ch. 7, art. 1.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 7; 1989, ch. 7, art. 1; 2018, ch. 9, art. 84.
 
 
 
@@ -202,7 +209,7 @@
 
 **Règlements**
 
-- **(2)** Le gouverneur en conseil peut, sur recommandation du ministre du Travail, prendre des règlements régissant l’usage du tabac dans les lieux de travail liés à l’emploi visé par un règlement pris en vertu du paragraphe (1).
+- **(2)** Le gouverneur en conseil peut, sur recommandation du ministre du Travail, prendre des règlements régissant le fait de fumer dans les espaces de travail liés à l’emploi visé par un règlement pris en vertu du paragraphe (1).
 
 **Incorporation d’un texte provincial**
 
@@ -225,7 +232,7 @@
 **Procédure**
 
 - **(7)** Les poursuites relatives à l’infraction définie au paragraphe (6) sont intentées par le procureur général de la province où l’infraction est commise.
-> 1996, ch. 12, art. 5; 1997, ch. 9, art. 125.
+> 1996, ch. 12, art. 5; 1997, ch. 9, art. 125; 2018, ch. 9, art. 85.
 
 
 
