@@ -130,7 +130,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **8** 
 
 - **(1)** Les clauses de prorogation des statuts du CN comportent obligatoirement :
-	- **a)** des dispositions imposant des restrictions à l’émission, au transfert et à la propriété, ou à la copropriété, d’actions avec droit de vote du CN afin d’empêcher toute personne, de concert avec des personnes avec qui elle est liée, d’être la détentrice ou la véritable propriétaire ou d’avoir le contrôle, directement ou indirectement, autrement qu’à titre de garantie seulement, d’une quantité totale d’actions avec droit de vote conférant plus de quinze pour cent des droits de vote qui peuvent normalement être exercés pour l’élection des administrateurs du CN;
+	- **a)** des dispositions imposant des restrictions à l’émission, au transfert et à la propriété, ou à la copropriété, d’actions avec droit de vote du CN afin d’empêcher toute personne, de concert avec des personnes avec qui elle est liée, d’être la détentrice ou la véritable propriétaire ou d’avoir le contrôle, directement ou indirectement, autrement qu’à titre de garantie seulement, d’une quantité totale d’actions avec droit de vote conférant plus de vingt-cinq pour cent des droits de vote qui peuvent normalement être exercés pour l’élection des administrateurs du CN;
 	- **b)** des dispositions régissant l’application des restrictions prévues à l’alinéa a);
 	- **c)** des dispositions indiquant que le siège social du CN est situé dans la Communauté urbaine de Montréal (Québec).
 
@@ -174,11 +174,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(7)** Les définitions qui suivent s’appliquent au présent article.
 
-***action avec droit de vote*** Action conférant un droit de vote en tout état de cause ou en raison de la survenance d’un événement dont les effets demeurent, y compris la valeur mobilière immédiatement convertible en une telle action et les options ou droits susceptibles d’exercice immédiat et permettant d’acquérir cette action ou cette valeur.
+***action avec droit de vote*** Action conférant un droit de vote en tout état de cause ou en raison de la survenance d’un événement dont les effets demeurent, y compris la valeur mobilière immédiatement convertible en une telle action et les options ou droits susceptibles d’exercice immédiat et permettant d’acquérir cette action ou cette valeur. (*voting share*)
 
-***personne*** Sont compris parmi les personnes les particuliers ou sociétés et, en outre, les gouvernements ou leurs mandataires, les fiduciaires, exécuteurs, administrateurs ou autres représentants légaux.
+***personne*** Sont compris parmi les personnes les particuliers ou sociétés et, en outre, les gouvernements ou leurs mandataires, les fiduciaires, exécuteurs, administrateurs ou autres représentants légaux. (*person*)
 
-***société*** Sont compris parmi les sociétés les personnes morales, les sociétés de personnes et les organismes non dotés de la personnalité morale.
+***société*** Sont compris parmi les sociétés les personnes morales, les sociétés de personnes et les organismes non dotés de la personnalité morale. (*corporation*)
+> 1995, ch. 24, art. 8; 2018, ch. 10, art. 60.
+
 
 
 
