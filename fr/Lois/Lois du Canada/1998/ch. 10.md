@@ -577,11 +577,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **25** Sauf dans les cas ci-après, il ne peut être accordé à une administration portuaire ou à une filiale à cent pour cent d’une administration portuaire aucune somme par voie de crédit affecté par le Parlement pour lui permettre d’exécuter ses obligations, et ce même si l’administration portuaire ou la filiale est mandataire de Sa Majesté du chef du Canada au titre de l’article 7 :
 - **a)** la somme :
 	- **(i)** est versée au titre de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md) ou de toute autre loi en matière de situation d’urgence,
+	- **(i.1)** est un prêt consenti par la Banque de l’infrastructure du Canada sous le régime de la [Loi sur la Banque de l’infrastructure du Canada](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20403.md),
 	- **(ii)** est une contribution au coût en capital d’un projet d’infrastructure,
 	- **(iii)** est une contribution versée pour la durabilité environnementale,
 	- **(iv)** est une contribution versée pour répondre à des exigences liées à la sûreté;
 - **b)** l’autorisation de financement visant à permettre à Sa Majesté d’exécuter les obligations découle d’un accord conclu avant le 1<sup>er</sup> mars 1999.
-> 1998, ch. 10, art. 25; 2008, ch. 21, art. 14.
+> 1998, ch. 10, art. 25; 2008, ch. 21, art. 14; 2018, ch. 10, art. 73.
 
 
 
@@ -608,6 +609,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction de garanties**
 
 **26** Il ne peut être accordé de garantie fournie avec l’approbation du Parlement, par Sa Majesté ou en son nom pour l’exécution d’une obligation d’une administration portuaire ou d’une filiale à cent pour cent d’une administration portuaire même si l’administration portuaire ou la filiale est mandataire de Sa Majesté du chef du Canada au titre de l’article 7.
+
+
+
+
+**Banque de l’infrastructure du Canada**
+
+**26.1** L’article 26 ne s’applique pas en ce qui concerne les garanties d’emprunt consenties par la Banque de l’infrastructure du Canada au nom du gouvernement fédéral au titre de l’alinéa 18h) de la [Loi sur la Banque de l’infrastructure du Canada](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20403.md).
+> 2018, ch. 10, art. 74.
+
 
 
 
