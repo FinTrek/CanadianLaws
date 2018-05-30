@@ -28,98 +28,98 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***Act*** means the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md); (*Loi*)
+***Act*** means the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md); (*Loi*)
 
-***adult*** means a person who is 18 years of age or over; (*adulte*)
+***adult*** means a person who is 18 years of age or over; (*adulte*)
 
-***animal*** means any animal belonging to a species that is wild by nature or that is not easily distinguishable from such a species; (*animal*)
+***animal*** means any animal belonging to a species that is wild by nature or that is not easily distinguishable from such a species; (*animal*)
 
-***bismuth shot*** means shotgun pellets consisting, by weight, of
+***bismuth shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 96% bismuth,
 - **(b)** not more than 4% tin, and
-- **(c)** not more than 1% each of any other element; (*grenaille de bismuth*)
+- **(c)** not more than 1% each of any other element; (*grenaille de bismuth*)
 
-***child*** means a person who is 12 years of age or under; (*enfant*)
+***child***[Repealed, SOR/2018-113, s. 1]
 
 ***family***[Repealed, SOR/99-95, s. 1]
 
-***firearm*** means any barrelled weapon from which any shot, bullet or other missile can be discharged; (*arme à feu*)
+***firearm*** means any barrelled weapon from which any shot, bullet or other missile can be discharged; (*arme à feu*)
 
 ***general interpretation services***[Repealed, SOR/99-95, s. 1]
 
-***hunt*** means to chase, pursue, worry, follow after or on the trail of, stalk or lie in wait for the purpose of taking animals, and includes molesting, trapping, attempting to trap or shooting at animals, whether or not the animal is then or subsequently captured, killed or injured; (*chasser*)
+***hunt*** means to chase, pursue, worry, follow after or on the trail of, stalk or lie in wait for the purpose of taking animals, and includes molesting, trapping, attempting to trap or shooting at animals, whether or not the animal is then or subsequently captured, killed or injured; (*chasser*)
 
-***interpretation services*** means an activity that involves the interpretation of wildlife and is carried out in the Cap Tourmente National Wildlife Area; (*services d’interprétation*)
+***interpretation services*** means an activity that involves the interpretation of wildlife and is carried out in the Cap Tourmente National Wildlife Area; (*services d’interprétation*)
 
-***lead jig*** means a weighted hook that is used for fishing and that contains more than one per cent by weight of lead; (*turlutte en plomb*)
+***lead jig*** means a weighted hook that is used for fishing and that contains more than one per cent by weight of lead; (*turlutte en plomb*)
 
-***lead sinker*** means an object that is used to sink a fishing line and that contains more than one per cent by weight of lead; (*plomb*)
+***lead sinker*** means an object that is used to sink a fishing line and that contains more than one per cent by weight of lead; (*plomb*)
 
 ***Minister***[Repealed, SOR/94-594, s. 4]
 
-***non-toxic shot*** means bismuth shot, steel shot, tin shot, tungsten-bronze-iron shot, tungsten-iron shot, tungsten-iron-nickel-copper shot, tungsten-matrix shot, tungsten-nickel-iron shot or tungsten-polymer shot; (*grenaille non toxique*)
+***non-toxic shot*** means bismuth shot, steel shot, tin shot, tungsten-bronze-iron shot, tungsten-iron shot, tungsten-iron-nickel-copper shot, tungsten-matrix shot, tungsten-nickel-iron shot or tungsten-polymer shot; (*grenaille non toxique*)
 
 ***permit***[Repealed, SOR/94-594, s. 4]
 
-***plant*** means any plant belonging to a species that is wild by nature or that is not easily distinguishable from such a species; (*végétal*)
+***plant*** means any plant belonging to a species that is wild by nature or that is not easily distinguishable from such a species; (*végétal*)
 
-***senior*** means a person who is 65 years of age or over; (*aîné*)
+***senior*** means a person who is 65 years of age or over; (*aîné*)
 
 ***special-activity interpretation services***[Repealed, SOR/99-95, s. 1]
 
-***steel shot*** means shotgun pellets consisting, by weight, of
+***steel shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 98% iron, and
-- **(b)** not more than 1% each of any other element; (*grenaille d’acier*)
+- **(b)** not more than 1% each of any other element; (*grenaille d’acier*)
 
-***student*** means a person who is 13 years of age or over but under 18 years of age, or a person who holds a valid student identification card from a recognized educational institution; (*étudiant*)
+***student*** means a person who is 13 years of age or over but under 18 years of age, or a person who holds a valid student identification card from a recognized educational institution; (*étudiant*)
 
-***tin shot*** means shotgun pellets consisting, by weight, of
+***tin shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 98% tin, and
-- **(b)** not more than 1% each of any other element; (*grenaille d’étain*)
+- **(b)** not more than 1% each of any other element; (*grenaille d’étain*)
 
-***tungsten-bronze-iron shot*** means shotgun pellets consisting of, by weight,
+***tungsten-bronze-iron shot*** means shotgun pellets consisting of, by weight,
 - **(a)** not more than 90% tungsten,
 - **(b)** not more than 90% tin,
 - **(c)** not more than 90% iron,
 - **(d)** not more than 45% copper, and
-- **(e)** not more than 1% each of any other element; (*grenaille de tungstène-bronze-fer*)
+- **(e)** not more than 1% each of any other element; (*grenaille de tungstène-bronze-fer*)
 
-***tungsten-iron-nickel-copper shot*** means shotgun pellets consisting of, by weight,
+***tungsten-iron-nickel-copper shot*** means shotgun pellets consisting of, by weight,
 - **(a)** 40 to 76% tungsten,
 - **(b)** 10 to 37% iron,
 - **(c)** 9 to 16% copper,
 - **(d)** 5 to 7% nickel, and
-- **(e)** not more than 1% lead or zinc; (*grenaille de tungstène-fer-nickel-cuivre*)
+- **(e)** not more than 1% lead or zinc; (*grenaille de tungstène-fer-nickel-cuivre*)
 
-***tungsten-iron shot*** means shotgun pellets consisting, by weight, of
+***tungsten-iron shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 45% iron,
 - **(b)** not more than 55% tungsten, and
-- **(c)** not more than 1% each of any other element; (*grenaille de tungstène-fer*)
+- **(c)** not more than 1% each of any other element; (*grenaille de tungstène-fer*)
 
-***tungsten-matrix shot*** means shotgun pellets consisting, by weight, of
+***tungsten-matrix shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 86% tungsten,
 - **(b)** not more than 5% nickel,
 - **(c)** not more than 3% iron,
 - **(d)** not more than 5% ethylene methacrylic acid copolymer, and
-- **(e)** not more than 1% each of any other element or compound; (*grenaille à matrice de tungstène*)
+- **(e)** not more than 1% each of any other element or compound; (*grenaille à matrice de tungstène*)
 
-***tungsten-nickel-iron shot*** means shotgun pellets consisting of, by weight,
+***tungsten-nickel-iron shot*** means shotgun pellets consisting of, by weight,
 - **(a)** not more than 90% tungsten,
 - **(b)** not more than 90% iron,
 - **(c)** not more than 40% nickel, and
-- **(d)** not more than 1% each of any other element; (*grenaille de tungstène-nickel-fer*)
+- **(d)** not more than 1% each of any other element; (*grenaille de tungstène-nickel-fer*)
 
-***tungsten-polymer shot*** means shotgun pellets consisting, by weight, of
+***tungsten-polymer shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 93% tungsten,
 - **(b)** not more than 7% Nylon 6 or Nylon 11, and
-- **(c)** not more than 1% each of any other element or compound; (*grenaille de tungstène-polymère*)
+- **(c)** not more than 1% each of any other element or compound; (*grenaille de tungstène-polymère*)
 
 ***wildlife***[Repealed, SOR/94-594, s. 4]
 
-***wildlife area*** means an area of public lands set out in Schedule I. (*réserve d’espèces sauvages*) 
+***wildlife area*** means an area of public lands set out in Schedule I. (*réserve d’espèces sauvages*) 
 
 ***wildlife area officer***[Repealed, SOR/94-594, s. 4]
-> SOR/78-408, s. 1; SOR/78-466, s. 1(F); SOR/85-227, s. 1; SOR/94-594, ss. 4, 10; SOR/95-78, s. 1; SOR/96-442, s. 1; SOR/97-439, s. 1; SOR/99-95, s. 1; SOR/2001-322, s. 1; SOR/2003-226, s. 1; SOR/2005-124, s. 1; SOR/2007-138, s. 1.
+> SOR/78-408, s. 1; SOR/78-466, s. 1(F); SOR/85-227, s. 1; SOR/94-594, ss. 4, 10; SOR/95-78, s. 1; SOR/96-442, s. 1; SOR/97-439, s. 1; SOR/99-95, s. 1; SOR/2001-322, s. 1; SOR/2003-226, s. 1; SOR/2005-124, s. 1; SOR/2007-138, s. 1; SOR/2018-113, s. 1.
 
 
 
@@ -218,10 +218,10 @@ unless he does so under and in accordance with a permit issued by the Minister p
 
 **8.3** 
 
-- **(1)** Every person who enters Cap Tourmente National Wildlife Area shall pay the applicable amount set out in item 1, 2, 3 or 4 of Schedule II.
+- **(1)** Every person who enters Cap Tourmente National Wildlife Area shall pay the applicable amount, if any, set out in item 1, 2, 3 or 4 of Schedule II.
 
 - **(2)** Every person who requests naturalist services shall pay the amount set out in item 5 of Schedule II.
-> SOR/95-78, s. 2; SOR/99-95, s. 2; SOR/2003-296, s. 1.
+> SOR/95-78, s. 2; SOR/99-95, s. 2; SOR/2003-296, s. 1; SOR/2018-113, s. 2.
 
 
 
@@ -2515,10 +2515,9 @@ Said parcel containing an area of approximately 398 square kilometres.
 <td>$5.00</td>
 </tr>
 <tr>
-<td>**(c)** child accompanied by a parent 
+<td>**(c)** [Repealed, SOR/2018-113, s. 3]
 
 </td>
-<td>free</td>
 </tr>
 <tr>
 <td>**(d)** adult’s group (minimum 10 people) 
@@ -2573,10 +2572,9 @@ Said parcel containing an area of approximately 398 square kilometres.
 <td>$2.00</td>
 </tr>
 <tr>
-<td>**(b)** child accompanied by a parent 
+<td>**(b)** [Repealed, SOR/2018-113, s. 3]
 
 </td>
-<td>free</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2590,7 +2588,7 @@ Said parcel containing an area of approximately 398 square kilometres.
 </tr>
 </table>
 
-> SOR/95-78, s. 4; SOR/99-95, s. 4; SOR/2003-296, s. 2.
+> SOR/95-78, s. 4; SOR/99-95, s. 4; SOR/2003-296, s. 2; SOR/2018-113, s. 3.
 
 
 
