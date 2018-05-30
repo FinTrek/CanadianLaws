@@ -2531,8 +2531,6 @@ Baleine grise (*Eschrichtius robustus*) population de l’Atlantique<br />- <i>W
 
 Morse de l’Atlantique (*Odobenus rosmarus rosmarus*) population de l’Atlantique Nord-Ouest<br />- <i>Walrus, Atlantic Northwest Atlantic population</i>
 
-Ours grizzli (*Ursus arctos*) population des Prairies<br />- <i>Bear, Grizzly Prairie population</i>
-
 Putois d’Amérique (*Mustela nigripes*)<br />- <i>Ferret, Black-footed</i>
 
 
@@ -2634,9 +2632,9 @@ Béluga (*Delphinapterus leucas*) population de l’estuaire du Saint-Laurent<br
 
 Blaireau d’Amérique de la sous-espèce *jacksoni* (*Taxidea taxus jacksoni*)<br />- <i>Badger jacksoni subspecies, American</i>
 
-Blaireau d’Amérique de la sous-espèce *jeffersonii* (*Taxidea taxus jeffersonii*)<br />- <i>Badger jeffersonii subspecies, American</i>
+Blaireau d’Amérique de la sous-espèce *jeffersonii* (*Taxidea taxus jeffersonii*) population de l’Est<br />- <i>Badger jeffersonii subspecies, American Eastern population</i>
 
-Carcajou (*Gulo gulo*) population de l’Est<br />- <i>Wolverine Eastern population</i>
+Blaireau d’Amérique de la sous-espèce *jeffersonii* (*Taxidea taxus jeffersonii*) population de l’Ouest<br />- <i>Badger jeffersonii subspecies, American Western population</i>
 
 Caribou de Peary (*Rangifer tarandus pearyi*)<br />- <i>Caribou, Peary</i>
 
@@ -2898,6 +2896,8 @@ Villeuse irisée (*Villosa iris*)<br />- <i>Mussel, Rainbow</i>
 
 ##### Arthropodes
 
+Abeille-coucou de Macropis (*Epeoloides pilosulus*)<br />- <i>Cuckoo Bee, Macropis</i>
+
 Asile de l’Okanagan (*Efferia okanagana*)<br />- <i>Efferia, Okanagan</i>
 
 Bleu insulaire (*Plebejus saepiolus insulanus*)<br />- <i>Blue, Island</i>
@@ -2953,6 +2953,8 @@ Perce-tige d’Aweme (*Papaipema aweme*)<br />- <i>Borer, Aweme</i>
 Porte-queue de Behr (*Satyrium behrii*)<br />- <i>Hairstreak, Behr’s</i>
 
 Porte-queue demi-lune (*Satyrium semiluna*)<br />- <i>Hairstreak, Half-moon</i>
+
+Psithyre bohémien (*Bombus bohemicus*)<br />- <i>Bumble Bee, Gypsy Cuckoo</i>
 
 Satyre fauve des Maritimes (*Coenonympha nipisiquit*)<br />- <i>Ringlet, Maritime</i>
 
@@ -3179,6 +3181,8 @@ Andersonie charmante (*Bryoandersonia illecebra*)<br />- <i>Moss, Spoon-leaved</
 
 Bartramie à feuilles dressées (*Bartramia stricta*)<br />- <i>Moss, Rigid Apple</i>
 
+Brotherelle de Ro​ell (*Brotherella ro​ellii*)<br />- <i>Moss, Ro​ell’s Brotherella</i>
+
 Entosthodon rouilleux (*Entosthodon rubiginosus*)<br />- <i>Cord-moss, Rusty</i>
 
 Fabronie naine (*Fabronia pusilla*)<br />- <i>Moss, Silver Hair</i>
@@ -3240,6 +3244,8 @@ Bécasseau maubèche du type *roselaari* (*Calidris canutus roselaari* type)<br 
 Bruant à ventre noir (*Calcarius ornatus*)<br />- <i>Longspur, Chestnut-collared</i>
 
 Buse rouilleuse (*Buteo regalis*)<br />- <i>Hawk, Ferruginous</i>
+
+Effraie des clochers (*Tyto alba*) population de l’Ouest<br />- <i>Owl, Barn Western population</i>
 
 Engoulevent bois-pourri (*Caprimulgus vociferus*)<br />- <i>Whip-poor-will</i>
 
@@ -3379,6 +3385,10 @@ Pholade tronquée (*Barnea truncata*)<br />- <i>Atlantic Mud-piddock</i>
 ##### Arthropodes
 
 Cicindèle à grandes taches de Gibson (*Cicindela formosa gibsoni*)<br />- <i>Tiger Beetle, Gibson’s Big Sand</i>
+
+Cicindèle d’Audouin (*Omus audouini*)<br />- <i>Tiger Beetle, Audouin’s Night-stalking</i>
+
+Halicte de l’île de Sable (*Lasioglossum sablense*)<br />- <i>Sweat Bee, Sable Island</i>
 
 Héliotin de Verna (*Schinia verna*)<br />- <i>Flower Moth, Verna’s</i>
 
@@ -3524,6 +3534,8 @@ Blaireau d’Amérique de la sous-espèce *taxus* (*Taxidea taxus taxus*)<br />-
 
 Campagnol sylvestre (*Microtus pinetorum*)<br />- <i>Vole, Woodland</i>
 
+Carcajou (*Gulo gulo*)<br />- <i>Wolverine</i>
+
 Caribou de la toundra (*Rangifer tarandus groenlandicus*) population Dolphin-et-Union<br />- <i>Caribou, Barren-ground Dolphin and Union population</i>
 
 Caribou des bois (*Rangifer tarandus caribou*) population des montagnes du Nord<br />- <i>Caribou, Woodland Northern Mountain population</i>
@@ -3543,6 +3555,8 @@ Oreillard maculé (*Euderma maculatum*)<br />- <i>Bat, Spotted</i>
 Otarie de Steller (*Eumetopias jubatus*)<br />- <i>Sea Lion, Steller</i>
 
 Ours blanc (*Ursus maritimus*)<br />- <i>Bear, Polar</i>
+
+Ours grizzli (*Ursus arctos*) population de l’Ouest<br />- <i>Bear, Grizzly Western population</i>
 
 Pica à collier (*Ochotona collaris*)<br />- <i>Pika, Collared</i>
 
@@ -3577,8 +3591,6 @@ Bruant sauterelle de la sous-espèce de l’Est (*Ammodramus savannarum pratensi
 
 Courlis à long bec (*Numenius americanus*)<br />- <i>Curlew, Long-billed</i>
 
-Effraie des clochers (*Tyto alba*) population de l’Ouest<br />- <i>Owl, Barn Western population</i>
-
 Faucon pèlerin *anatum/tundrius* (*Falco peregrinus anatum/tundrius*)<br />- <i>Falcon *anatum/tundrius*, Peregrine</i>
 
 Faucon pèlerin de la sous-espèce *pealei* (*Falco peregrinus pealei*)<br />- <i>Falcon pealei subspecies, Peregrine</i>
@@ -3612,7 +3624,9 @@ Râle jaune (*Coturnicops noveboracensis*)<br />- <i>Rail, Yellow</i>
 
 ##### Amphibiens
 
-Crapaud de l’Ouest (*Anaxyrus boreas*)<br />- <i>Toad, Western</i>
+Crapaud de l’Ouest (*Anaxyrus boreas*) population chantante<br />- <i>Toad, Western Calling population</i>
+
+Crapaud de l’Ouest (*Anaxyrus boreas*) population non-chantante<br />- <i>Toad, Western Non-calling population</i>
 
 Crapaud des steppes (*Anaxyrus cognatus*)<br />- <i>Toad, Great Plains</i>
 
@@ -3746,6 +3760,8 @@ Vertigo à crêtes fines (*Nearctula* sp.)<br />- <i>Vertigo, Threaded</i>
 
 Amiral de Weidemeyer (*Limenitis weidemeyerii*)<br />- <i>Weidemeyer’s Admiral</i>
 
+Bourdon terricole (*Bombus terricola*)<br />- <i>Bumble Bee, Yellow-banded</i>
+
 Criquet de l’armoise (*Hypochlora alba*)<br />- <i>Grasshopper, Greenish-white</i>
 
 Gnaphose de Snohomish (*Gnaphosa snohomish*)<br />- <i>Spider, Georgia Basin Bog</i>
@@ -3874,7 +3890,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229; DORS/2018-10.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229; DORS/2018-10, 112.
 
 
 
