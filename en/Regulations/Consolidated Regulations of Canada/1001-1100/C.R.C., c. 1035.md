@@ -422,10 +422,13 @@ and the number of carcasses does not exceed the possession limit for that specie
 
 - **(4)** A consent obtained pursuant to paragraph (3)(a) is valid only in respect of the open seasons in respect of which it was obtained.
 
-- **(5)** Subsection (3) does not apply to the holder of a permit referred to in section 19 or 20 who places bait
-	- **(a)** in a confined area specified in his permit, or
-	- **(b)** at a distance of not less than 400 metres from an area where the hunting of migratory birds is permitted
-for the sole purpose of feeding migratory birds lawfully in his possession.
+- **(5)** Subsection (3) does not apply to
+	- **(a)** the holder of a scientific permit issued under section 19 who deposits bait
+		- **(i)** for the sole purpose of attracting migratory birds for capturing and banding them, or
+		- **(ii)** in a confined area specified in their permit for scientific purposes other than the one specified in subparagraph (i); or
+	- **(b)** the holder of an aviculture permit issued under section 20 who places bait in a confined area specified in their permit for the sole purpose of feeding migratory birds lawfully in their possession.
+
+- **(5.1)** The permit holder who places bait for the purpose referred to in subparagraph (5)(a)(i) or (ii), must post signs, within a radius of 400 m from the bait, of the type, wording and number specified in the permit, advising that hunting is prohibited.
 
 - **(6)** For the purpose of subsection (1), any area
 	- **(a)** of standing crops, whether flooded or not,
@@ -435,7 +438,7 @@ for the sole purpose of feeding migratory birds lawfully in his possession.
 shall not be regarded as a place where bait has been deposited.
 
 - **(7)** [Repealed, SOR/81-641, s. 2]
-> SOR/78-490, s. 3; SOR/79-544, s. 6; SOR/80-577, s. 6; SOR/81-641, s. 2; SOR/93-431, s. 2; SOR/99-147, s. 3; SOR/2001-323, s. 2.
+> SOR/78-490, s. 3; SOR/79-544, s. 6; SOR/80-577, s. 6; SOR/81-641, s. 2; SOR/93-431, s. 2; SOR/99-147, s. 3; SOR/2001-323, s. 2; SOR/2018-111, s. 1.
 
 
 
@@ -487,13 +490,13 @@ shall not be regarded as a place where bait has been deposited.
 **15.1** 
 
 - **(1)** Subject to subsection (2), no person shall
-	- **(a)** possess, for the purpose of hunting a migratory game bird, except a woodcock, band-tailed pigeon or mourning dove, shot other than non-toxic shot; or
-	- **(b)** hunt a migratory game bird, except a woodcock, band-tailed pigeon or mourning dove, by the use of shot other than non-toxic shot.
+	- **(a)** possess, for the purpose of hunting a migratory game bird, except a woodcock, band-tailed pigeon, mourning dove or Eurasian collared-dove, shot other than non-toxic shot; or
+	- **(b)** hunt a migratory game bird, except a woodcock, band-tailed pigeon, mourning dove or Eurasian collared-dove, by the use of shot other than non-toxic shot.
 
-- **(2)** The exceptions of woodcock, band-tailed pigeon and mourning dove set out in subsection (1) do not apply in
+- **(2)** The exceptions of woodcock, band-tailed pigeon, mourning dove and Eurasian collared-dove set out in subsection (1) do not apply in
 	- **(a)** any area in which the use of non-toxic shot is required under Schedule I when hunting those species; and
 	- **(b)** the wildlife areas set out in Schedule I to the [Wildlife Area Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1601-1700/C.R.C.,%20c.%201609.md).
-> SOR/90-623, s. 1; SOR/93-432, s. 2; SOR/97-400, s. 2; SOR/2013-126, s. 2.
+> SOR/90-623, s. 1; SOR/93-432, s. 2; SOR/97-400, s. 2; SOR/2013-126, s. 2; SOR/2018-111, s. 2.
 
 
 
@@ -898,13 +901,20 @@ to kill on the airport migratory birds that are considered by such manager, comm
 </tr>
 <tr>
 <td>1</td>
-<td>All Coastal Zones</td>
+<td>Northwestern Coastal Zone</td>
+<td>Second Saturday of September</td>
+<td>Third Saturday of September to last Saturday of December</td>
+<td>November 1 to February 14</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Southwestern, Southern, Avalon-Burin, Northeastern and Northern Coastal Zones</td>
 <td>Second Saturday of September</td>
 <td>Third Saturday of September to last Saturday of December</td>
 <td>November 25 to March 10</td>
 </tr>
 <tr>
-<td>2</td>
+<td>3</td>
 <td>All Inland Zones</td>
 <td>Second Saturday of September</td>
 <td>Third Saturday of September to last Saturday of December</td>
@@ -914,7 +924,11 @@ to kill on the airport migratory birds that are considered by such manager, comm
 
 **1** In this Part,
 
-**(a)** ***Northern Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 meters of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a due west line from Point Riche, thence northward around Cape Bauld and southward along the east coast, ending in a boundary line drawn due north through Cape St. John;
+**(a)** ***Northwestern Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 m of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a due west line from Cape St. Gregory, and from there northward and eastward along the coast ending in a boundary line drawn due northeast through Cape Bauld;
+
+
+
+**(a.1)** ***Northern Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 m of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a line due northeast from Cape Bauld and southward along the east coast, ending in a boundary line drawn due northeast through Cape St. John;
 
 
 
@@ -922,15 +936,15 @@ to kill on the airport migratory birds that are considered by such manager, comm
 
 
 
-**(c)** ***Western Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 meters of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a due west line from Point Riche, thence southward along the coast ending in a boundary line drawn due west through Cape Ray;
+**(c)** ***Southwestern Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 m of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a due west line from Cape St. Gregory, and from there southward along the coast ending in a boundary line drawn due west through Cape Ray;
 
 
 
-**(d)** ***Northeastern Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 meters of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and adjacent marine coastal waters, bounded by a due north line drawn through Cape Bonavista, thence in a generally westerly direction along the coast ending at a boundary line drawn due north through Cape St. John;
+**(d)** ***Northeastern Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 m of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and adjacent marine coastal waters, bounded by a due northeast line drawn through Cape Bonavista, and from there in a generally westerly direction along the coast ending at a boundary line drawn due northeast through Cape St. John;
 
 
 
-**(e)** ***Avalon-Burin Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 meters of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a straight line drawn due south from Cape Rosey, thence in a generally easterly and northerly direction along the coast ending at a boundary line drawn due north from Cape Bonavista;
+**(e)** ***Avalon-Burin Coastal Zone*** means all that portion of the coast of the Island of Newfoundland lying within 100 m of the mean ordinary high-water mark, including portions of adjacent offshore islands not included in the inland zones, and the adjacent marine coastal waters, bounded by a straight line drawn due south from Cape Rosey, and from there in a generally easterly and northerly direction along the coast ending at a boundary line drawn due northeast from Cape Bonavista;
 
 
 
@@ -989,7 +1003,7 @@ to kill on the airport migratory birds that are considered by such manager, comm
 </table>
 
 
-<a name='fn_CRC1035_EN_hq_12089'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye and not more than four may be American Black Ducks.<br />
+<a name='fn_CRC1035_EN_hq_12089'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye and, during the period beginning on November 30 and ending on the last Saturday of December, not more than four may be American Black Ducks.<br />
 
 <a name='fn_CRC1035_EN_hq_12090'><sup>(b)</sup></a>: Not more than one may be Barrow’s Goldeneye.<br />
 #### TABLE II
@@ -1034,7 +1048,7 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <td>Southern Labrador Zone</td>
 <td>First Saturday of September</td>
 <td>First Saturday of September to third Saturday of December</td>
-<td>November 25 to March 10</td>
+<td>November 1 to February 14</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1146,11 +1160,11 @@ to kill on the airport migratory birds that are considered by such manager, comm
 
 
 
-**(b)** ***Zone No. 2*** means all coastal waters in the Southern Labrador Zone as defined in Table II of this Part, and those portions of the Western Coastal Zone, Northern Coastal Zone and Northeastern Coastal Zone of Newfoundland as defined in Table I of this Part, bounded by a due northeast line from Deadman’s Point (49°21′N, 53°41′W) and a due west line from Cape St. Gregory (49°24′N, 58°14′W);
+**(b)** ***Zone No. 2*** means all coastal waters in the Southern Labrador Zone as defined in Table II of this Part, and those portions of the Northwestern Coastal Zone, Northern Coastal Zone and Northeastern Coastal Zone of Newfoundland as defined in Table I of this Part, bounded by a due northeast line from Deadman’s Point (49°21′N, 53°41′W) and a due west line from Cape St. Gregory (49°24′N, 58°14′W);
 
 
 
-**(c)** ***Zone No. 3*** means those portions of the Western Coastal Zone and Avalon-Burin Coastal Zone of Newfoundland as defined in Table I of this Part, bounded by a due west line from Cape St. Gregory (49°24′N, 58°14′W) and a due east line from Western Bay Head (47°53′N, 53°03′W), excluding the portion of the Avalon-Burin Coastal Zone of Newfoundland bounded by a due east line from Cape Race (46°39′N, 53°04′W) and a due east line from Cape Spear (47°31′20″N, 52°37′40″W); and
+**(c)** ***Zone No. 3*** means those portions of the Southwestern Coastal Zone and Avalon-Burin Coastal Zone of Newfoundland as defined in Table I of this Part, bounded by a due west line from Cape St. Gregory (49°24′N, 58°14′W) and a due east line from Western Bay Head (47°53′N, 53°03′W), excluding the portion of the Avalon-Burin Coastal Zone of Newfoundland bounded by a due east line from Cape Race (46°39′N, 53°04′W) and a due east line from Cape Spear (47°31′20″N, 52°37′40″W); and
 
 
 
@@ -1274,7 +1288,7 @@ October 1 to December 31
 </table>
 
 
-<a name='fn_CRC1035_EN_hq_12097'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye. During the period beginning on October 1 and ending on November 7, not more than four may be Mallard-American Black Duck hybrids or American Black Ducks or any combination of them and, during the period beginning on November 8 and ending on December 31, not more than two may be Mallard-American Black Duck hybrids or American Black Ducks or any combination of them.<br />
+<a name='fn_CRC1035_EN_hq_12097'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye, and during the period beginning on December 1 and ending on December 31, not more than four may be Mallard-American Black Duck hybrids or American Black Ducks or any combination of them.<br />
 
 <a name='fn_CRC1035_EN_hq_12098'><sup>(b)</sup></a>: Not more than one may be Barrow’s Goldeneye.<br />
 
@@ -1319,8 +1333,8 @@ October 1 to December 31
 <td>1</td>
 <td>Zone No. 1</td>
 <td>Third Saturday of September</td>
-<td>October 1 to December 31</td>
-<td>October 1 to December 31</td>
+<td>October 1 to January 7</td>
+<td>October 1 to January 7</td>
 <td>For a period of 15 days beginning on the day after Labour Day
 
 October 1 to December 31
@@ -1332,7 +1346,7 @@ October 1 to December 31
 <td>2</td>
 <td>Zone No. 2</td>
 <td>Third Saturday of September</td>
-<td>October 22 to January 15</td>
+<td>October 8 to January 15</td>
 <td>October 8 to January 15</td>
 <td>For a period of 21 days beginning on the day after Labour Day
 
@@ -1345,7 +1359,7 @@ October 22 to January 15
 <td>3</td>
 <td>Zone No. 3</td>
 <td>Third Saturday of September</td>
-<td>October 22 to January 15</td>
+<td>October 8 to January 15</td>
 <td>October 8 to January 15</td>
 <td>For a period of 21 days beginning on the day after Labour Day
 
@@ -1419,7 +1433,7 @@ October 22 to January 15
 </table>
 
 
-<a name='fn_CRC1035_EN_hq_12106'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye and not more than four may be American Black Ducks.<br />
+<a name='fn_CRC1035_EN_hq_12106'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye. In Zone No. 1, during the period beginning on December 1 and ending on January 7, and in Zone No. 2 and Zone No. 3, during the period beginning on December 8 and ending on January 15, not more than four may be American Black Ducks.<br />
 
 <a name='fn_CRC1035_EN_hq_12107'><sup>(b)</sup></a>: Not more than one may be Barrow’s Goldeneye.<br />
 
@@ -1464,7 +1478,7 @@ October 22 to January 15
 <td>1</td>
 <td>Zone No. 1</td>
 <td>Third Saturday of September</td>
-<td>October 15 to January 4</td>
+<td>October 15 to January 14</td>
 <td>For the period beginning on the day after Labour Day and ending on the Tuesday before the last Saturday in September
 
 October 15 to January 4
@@ -1481,7 +1495,7 @@ February 1 to 24
 <td>2</td>
 <td>Zone No. 2</td>
 <td>Third Saturday of September</td>
-<td>October 1 to December 18</td>
+<td>October 1 to December 31</td>
 <td>For the period beginning on the day after Labour Day and ending on the Tuesday before the last Saturday in September
 
 October 1 to December 18
@@ -1586,7 +1600,7 @@ island no. 2: latitude 47°37′59″, longitude 65°38′48″;
 </table>
 
 
-<a name='fn_CRC1035_EN_hq_12114'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye and not more than three may be American Black Ducks.<br />
+<a name='fn_CRC1035_EN_hq_12114'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye. In Zone No. 1, during the period beginning on December 15 and ending on January 14, and in Zone No. 2, during the period beginning on December 1 and ending on December 31, not more than four may be American Black Ducks.<br />
 
 <a name='fn_CRC1035_EN_hq_12115'><sup>(b)</sup></a>: Not more than one may be Barrow’s Goldeneye.<br />
 
@@ -1690,7 +1704,7 @@ The first Saturday after September 18 to December 21
 
 <a name='fn_CRC1035_EN_hq_12119'><sup>(a)</sup></a>: In Districts C, D, E and F, hunting for Canada Geese and Cackling Geese is allowed only on farmland.<br />
 
-<a name='fn_CRC1035_EN_hq_12120'><sup>(b)</sup></a>: In District B in the portion of the North Shore west of the Natashquan River, the hunting season for Eiders begins on October 1 and ends on October 24 and the hunting season for Long-tailed Ducks begins on November 15 and ends on February 5.<br />
+<a name='fn_CRC1035_EN_hq_12120'><sup>(b)</sup></a>: In District B, in the portion of the North Shore west of the Natashquan River, for Eiders and Long-tailed Ducks, the hunting seasons are the periods beginning on October 1 and ending on October 24 and beginning on November 15 and ending on February 5.<br />
 
 <a name='fn_CRC1035_EN_hq_12121'><sup>(c)</sup></a>: In District E, the open season for Barrow’s and Common Goldeneyes closes on October 21 in Provincial Hunting Zone No. 21 and 100 m beyond this zone. In District F, the open season for Barrow’s and Common Goldeneyes closes on October 21 between Pointe Jureux (Saint-Irénée) and the Gros Cap à l’Aigle (Saint-Fidèle) from routes 362 and 138 to 2 km within Provincial Hunting Zone No. 21.<br />
 
@@ -1739,9 +1753,21 @@ The first Saturday after September 18 to December 21
 
 **3** The open seasons set out in Table I and Table I.2 do not apply to the following areas in the Province of Quebec:
 
-**(a)** Cap-Tourmente (Water):
+**(a)** Cap-Tourmente:
 
-Commencing at the intersection of the low-water mark along the northerly shore of the St. Lawrence River with the southwesterly boundary of shore lot 3,814,431 of the cadastre of Quebec, registration division of Montmorency; thence southeasterly along the extension of that boundary to a point on the straight line joining the light buoys designated V13 and V6 on Canadian Hydrographic Service chart number 1317; thence easterly along that straight line to the light buoy designated V6 on that chart; thence northeasterly in a straight line toward the light buoys designated K108 and K103 on chart number 1317; thence northeasterly in a straight line to the light buoy designated K95 on chart number 1317, but ending abreast of LL 1902 Cap Brûlé fixed navigation aid located on the northern shore of the St. Lawrence River; thence northwesterly in a line perpendicular to the low-water mark opposite LL 1902 Cap Brûlé fixed navigation aid; thence southwesterly along the low-water mark to the point of commencement, together with that portion of the right-of-way of the railway from Lot 3,814,431 of the cadastre of Quebec, registration division of Montmorency, thence easterly abreast of LL 1902 Cap Brûlé fixed navigation aid;
+The waters included within the limit described as:
+
+Commencing at the intersection of the low-water mark along the northerly shore of the St. Lawrence River with the southwesterly boundary of shore lot 3,814,431 of the cadastre of Quebec, registration division of Montmorency; from there southeasterly along the extension of that boundary to a point on the straight line joining the light buoys designated V13 and V6 on Canadian Hydrographic Service chart number 1317; from there easterly along that straight line to the light buoy designated V6 on that chart; from there northeasterly in a straight line toward the light buoys designated K108 and K103 on chart number 1317; from there northeasterly in a straight line to the light buoy designated K95 on chart number 1317, but ending abreast of LL 1902 Cap Brûlé fixed navigation aid located on the northern shore of the St. Lawrence River; from there northwesterly in a line perpendicular to the low-water mark opposite LL 1902 Cap Brûlé fixed navigation aid; from there southwesterly along the low-water mark to the point of commencement, together with that portion of the right-of-way of the railway from lot 3,814,431 of the cadastre of Quebec, registration division of Montmorency, from there easterly abreast of LL 1902 Cap Brûlé fixed navigation aid;
+
+
+
+
+
+The parcel of land described as follows:
+
+Lot 3,815,311 of the cadastre of Quebec, registration division of Montmorency, and part of the right-of-way of the railway shown on Public Works Canada Plan AM-92-7485, and the zone between the low line waters of the St. Lawrence River and the northern limit of the railway right-of-way, bounded on the west by Cap-Tourmente National Wildlife Area and on the east by LL 1902 Cap Brûlé fixed navigation aid. In addition, this zone includes the right of way of the public road called “Cap-Tourmente Road”, which is located in the municipality of Saint-Joachim;
+
+
 
 
 
@@ -1749,9 +1775,9 @@ Commencing at the intersection of the low-water mark along the northerly shore o
 
 **(b)** Portage:
 
-In the Gulf of St. Lawrence (at approximate latitude 47°37′15″N and approximate longitude 61°29′30″W) a part of les îles de la Madeleine together with the waters included within the limit described as follows:
+In the Gulf of St. Lawrence, at approximate latitude 47°37′15″N and approximate longitude 61°29′30″W, a part of les îles de la Madeleine together with the waters included within the limit described as follows:
 
-Commencing at the intersection of the ordinary high-water mark of Baie Clarke with a plumb line originating from the centre of the bridge of Route 199 at its northwesterly end; thence southwesterly in a straight line (in Havre de la Grande Entrée) to a point situated 200 m from the ordinary high-water mark and on the extension southeasterly of the most easterly limit of lot 3,777,710 of the cadastre of Quebec, registration division of Îles-de-la-Madeleine; thence northwesterly following that extension line and southeasterly limit of said lot; thence northwesterly following the easterly limits of lots 3,777,410; 3,779,909 and 3,776,833 and its extension in the Gulf of St. Lawrence to a point situated 200 m measured at right angle to the ordinary high-water mark of that Gulf; thence easterly following a line at 200 m from that water mark to a point situated 2 000 m in a straight line from that point; thence southerly in a straight line to the intersection of the westerly bank of an unnamed creek with the ordinary high-water mark of Baie Clarke (at approximate latitude 47°37′15,32″N and approximate longitude 61°28′24,45″W); thence southwesterly following that water mark to the point of commencement;
+Commencing at the intersection of the ordinary high-water mark of Baie Clarke with a plumb line originating from the centre of the bridge of Route 199 at its northwesterly end; from there southwesterly in a straight line (in Havre de la Grande Entrée) to a point situated 200 m from the ordinary high-water mark and on the extension southeasterly of the most easterly limit of lot 3,777,710 of the cadastre of Quebec, registration division of Îles-de-la-Madeleine; from there northwesterly following that extension line and southeasterly limit of said lot; from there northwesterly following the easterly limits of lots 3,777,410, 3,779,909 and 3,776,833 and its extension in the Gulf of St. Lawrence to a point situated 200 m measured at a right angle to the ordinary high-water mark of that Gulf; from there easterly following a line at 200 m from that water mark to a point situated 2,000 m in a straight line from that point; from there southerly in a straight line to the intersection of the westerly bank of an unnamed creek with the ordinary high-water mark of Baie Clarke at approximate latitude 47°37′15.32″N and approximate longitude 61°28′24.45″W; from there southwesterly following that water mark to the point of commencement;
 
 
 
@@ -1763,7 +1789,7 @@ Commencing at the intersection of the ordinary high-water mark of Baie Clarke wi
 
 In the municipality of Îles-de-la-Madeleine, comprising a part of île du Cap aux Meules and a part of île du Havre Aubert, a parcel of land described as follows:
 
-Commencing at a northwestern point at approximate latitude 47º19′12″N and approximate longitude 61º57′41″W; thence southwesterly along the ordinary high-water mark of the Gulf of St. Lawrence to a southwestern point 47º18′1,48″N and 61º58′16,70″W; thence easterly in a straight line to a southeastern point at approximate latitude of 47º18′14,49″N and approximate longitude 61º56′2,37″W; thence northerly, along the ordinary high-water mark of Baie de Plaisance to a northeastern point at approximate latitude 47º18′59″N and approximate longitude 61º56′09″W; thence westerly in a straight line to the point of commencement; together with a zone extending 200 m easterly from the ordinary high-water mark of Baie de Plaisance and a zone extending 200 m westerly from the ordinary high-water mark of the Gulf of St. Lawrence; the northern and southern limits of said zones being an extension of the northerly boundary between the northeastern and northwestern points previously described and the extension of the southerly boundary between the southeastern and southwestern points previously described; the eastern and western limits of said zones being lines parallel to the ordinary high-water marks of Baie de Plaisance and the Gulf of St. Lawrence;
+Commencing at a northwestern point at approximate latitude 47º19′12″N and approximate longitude 61º57′41″W; from there southwesterly along the ordinary high-water mark of the Gulf of St. Lawrence to a southwestern point at approximate latitude 47º18′1.48″N and approximate longitude 61º58′16.70″W; from there easterly in a straight line to a southeastern point at approximate latitude of 47º18′14.49″N and approximate longitude 61º56′2.37″W; from there northerly, along the ordinary high-water mark of Baie de Plaisance to a northeastern point at approximate latitude 47º18′59″N and approximate longitude 61º56′09″W; from there westerly in a straight line to the point of commencement; together with a zone extending 200 m easterly from the ordinary high-water mark of Baie de Plaisance and a zone extending 200 m westerly from the ordinary high-water mark of the Gulf of St. Lawrence; the northern and southern limits of those zones being an extension of the northerly boundary between the northeastern and northwestern points previously described and the extension of the southerly boundary between the southeastern and southwestern points previously described; the eastern and western limits of those zones being lines parallel to the ordinary high-water marks of Baie de Plaisance and the Gulf of St. Lawrence;
 
 
 
@@ -1771,17 +1797,13 @@ Commencing at a northwestern point at approximate latitude 47º19′12″N and a
 
 
 
-**(d)** Cap-Tourmente (Ground):
-
-Lot 3,815,311 of the cadastre of Quebec, registration division of Montmorency, and the part of the railroad right-of-way that appears on Public Works Canada map AM-92-7485, and the area between the low-water mark of the St. Lawrence River and the northern boundary of the railroad right-of-way, bounded on the west by Cap Tourmente National Wildlife Area and on the east by LL 1902 Cap Brûlé fixed navigation aid. In addition, this sector includes the public road called “chemin du Cap-Tourmente” located in the municipality of Saint-Joachim;
-
-
+**(d)** [Repealed, SOR/2018-111, s. 15]
 
 
 
 **(e)** Lac Saint-Pierre (Nicolet):
 
-This sector is located in the St. Lawrence River to the northwest of the National Defence property near the town of Nicolet. It includes the open water and marshes inside a straight line between battery #5 (46°13′30″N and 72°40′5″W) and the end of the Longue Pointe called OP-6 (46°10′15″N and 72°45′03″W) on the National Defence property, to the limit of the Nicolet Migratory Bird Sanctuary; and
+This sector is located in the St. Lawrence River to the northwest of the National Defence property near the town of Nicolet. It includes the open water and marshes inside a straight line between battery No. 5 (46°13′31″N and 72°40′16″W) and the end of the Longue Pointe called OP-6 (46°10′15″N and 72°45′03″W) on the National Defence property, to the limit of the Nicolet Migratory Bird Sanctuary; and
 
 
 
@@ -1789,7 +1811,7 @@ This sector is located in the St. Lawrence River to the northwest of the Nationa
 
 **(f)** Cap-Saint-Ignace:
 
-This sector is located in the St. Lawrence River near the municipality of Cap-Saint-Ignace, at approximate latitude 47°02′15″N and approximate longitude 70°29′10″W. This sector includes the open water and marshes between the high-water mark and the low-water mark starting from the western limit of the Cap-Saint-Ignace Migratory Bird Sanctuary, going west for a distance of about 400 m up to the eastern limit of lot 3,251,418 of the cadastre of Quebec, registration division of Montmorency.
+This sector is located in the St. Lawrence River near the municipality of Cap-Saint-Ignace at approximate latitude 47°02′15″N and approximate longitude 70°29′10″W. This sector includes the open water and marshes between the high-water mark and the low-water mark starting from the western limit of the Cap-Saint-Ignace Migratory Bird Sanctuary, going west for a distance of about 400 m up to the eastern limit of lot 3,251,418 of the cadastre of Quebec, registration division of Montmagny.
 
 
 
@@ -1908,7 +1930,7 @@ Recorded bird calls <sup><a href='#fn_CRC1035_EN_hq_12130'>[(d)]</a></sup><sup>,
 
 <a name='fn_CRC1035_EN_hq_12124'><sup>(a)</sup></a>: Hunting and hunting equipment are allowed only on farmland.<br />
 
-<a name='fn_CRC1035_EN_hq_12126'><sup>(b)</sup></a>: In District F, no person shall hunt south of the St. Lawrence River and north of the road right-of-way of Route 132 between the western limit of Montmagny municipality and the eastern limit of Cap-Saint-Ignace municipality, other than in lots 4 598 472 and 2 611 981 in Montmagny municipality.<br />
+<a name='fn_CRC1035_EN_hq_12126'><sup>(b)</sup></a>: In District F, no person shall hunt south of the St. Lawrence River and north of the road right-of-way of Route 132 between the western limit of Montmagny municipality and the eastern limit of Cap-Saint-Ignace municipality, other than in lots 4,598,472, 2,611,981 and 2,611,982 of the cadastre of Quebec (all located in Montmagny municipality).<br />
 
 <a name='fn_CRC1035_EN_hq_12128'><sup>(c)</sup></a>: In District F, on the north shore of the St. Lawrence River, no person shall hunt north of the St. Lawrence River and south of a line located at 1000 m north of Highway 40 between Montée St-Laurent and the Maskinongé River. On the south shore of the St. Lawrence River, no person shall hunt south of the St. Lawrence River and north of the railroad right-of-way located near Route 132 between the Nicolet River in the east and Lacerte Road in the west.<br />
 
@@ -1967,7 +1989,7 @@ Recorded bird calls <sup><a href='#fn_CRC1035_EN_hq_12130'>[(d)]</a></sup><sup>,
 </table>
 
 
-<a name='fn_SOR-2013-126_e_hq_12310'><sup>(a)</sup></a>: Not more than four may be American Black Ducks, except in the portion of District F that is west of Route 155 and Highway 55, in which case not more than two may be American Black Ducks.<br />
+<a name='fn_SOR-2013-126_e_hq_12310'><sup>(a)</sup></a>: In the portion of District F that is south of Route 148 and is west of Highway 15, not more than two may be American Black Ducks.<br />
 
 <a name='fn_SOR-2013-126_e_hq_12312'><sup>(b)</sup></a>: Not more than one may be Blue-winged Teal and not more than one may be Barrow’s Goldeneye.<br />
 
@@ -2016,7 +2038,7 @@ Recorded bird calls <sup><a href='#fn_CRC1035_EN_hq_12130'>[(d)]</a></sup><sup>,
 <td>First Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_12319'>[(a)]</a></sup></td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
-<td>September 1 to December 15</td>
+<td>September 15 to December 16</td>
 <td>No open season</td>
 </tr>
 <tr>
@@ -2025,25 +2047,23 @@ Recorded bird calls <sup><a href='#fn_CRC1035_EN_hq_12130'>[(d)]</a></sup><sup>,
 <td>First Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_12319'>[(a)]</a></sup></td>
 <td>September 10 to December 24</td>
 <td>September 1 to December 16</td>
-<td>September 15 to December 15</td>
+<td>September 15 to December 16</td>
 <td>No open season</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Central District</td>
-<td>Second Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_12319'>[(a)]</a></sup><sup>,</sup><sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
+<td>Second Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
 <td>For a period of 106 days beginning on the third Saturday of September</td>
-<td>For a period of 107 days beginning on the day after Labour Day</td>
-<td>September 20 to December 20</td>
-<td>For a period of 70 days beginning on the day after Labour Day <sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
+<td>September 1 to December 16</td>
+<td>September 15 to December 16</td>
+<td>September 1 to November 30 <sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
 </tr>
 <tr>
 <td>4</td>
 <td>Southern District</td>
-<td>Third Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_12319'>[(a)]</a></sup><sup>,</sup><sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
-<td>For a period of 106 days beginning on the fourth Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_12320'>[(c)]</a></sup><sup>, </sup><sup><a href='#nbp_SOR-2014-136_e'>[(g)]</a></sup>
-
-</td>
+<td>Third Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
+<td>For a period of 106 days beginning on the fourth Saturday of September <sup><a href='#fn_SOR-2013-126_e_hq_12320'>[(c)]</a></sup></td>
 <td>For a period of 11 days beginning on the first Thursday after Labour Day <sup><a href='#fn_SOR-2013-126_e_hq_12321'>[(d)]</a></sup>
 
 For a period of 11 days beginning on the first Thursday after Labour Day, except for any Sunday within this period <sup><a href='#fn_SOR-2013-126_e_hq_12322'>[(e)]</a></sup>
@@ -2055,17 +2075,21 @@ For a period of 106 days — 105 days if Labour Day falls on September 1 or 2 �
 For a period of 8 days beginning on the fourth Saturday of February, except for any Sunday within this period <sup><a href='#fn_SOR-2013-126_e_hq_12322'>[(e)]</a></sup><sup>, </sup><sup><a href='#fn_SOR-2013-126_e_hq_12323'>[(f)]</a></sup>
 
 </td>
-<td>September 25 to December 20</td>
-<td>For a period of 70 days beginning on the first Thursday after Labour Day <sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
+<td>September 15 to December 20 <sup><a href='#nbp_SOR-2014-136_e'>[(g)]</a></sup>
+
+September 25 to December 20 <sup><a href='#footnoteh_e'>[(h)]</a></sup>
+
+</td>
+<td>September 1 to November 30 <sup><a href='#fn_SOR-2013-126_e_hq_123199'>[(b)]</a></sup></td>
 </tr>
 </table>
 
 
-<a name='fn_SOR-2013-126_e_hq_12319'><sup>(a)</sup></a>: The Mourning Dove season only opens in the Central District and Southern District.<br />
+<a name='fn_SOR-2013-126_e_hq_12319'><sup>(a)</sup></a>: Except for the Mourning Dove.<br />
 
 <a name='fn_SOR-2013-126_e_hq_123199'><sup>(b)</sup></a>: Non-toxic shot required.<br />
 
-<a name='fn_SOR-2013-126_e_hq_12320'><sup>(c)</sup></a>: In Wildlife Management Unit 65, recorded Snow Goose calls may be used when hunting Snow Geese; any species of migratory bird for which it is open season may be taken while hunting Snow Geese with those calls.<br />
+<a name='fn_SOR-2013-126_e_hq_12320'><sup>(c)</sup></a>: In Wildlife Management Unit 65, recorded Snow Goose and Ross’s Goose calls may be used when hunting those geese; any species of migratory bird for which it is open season may be taken while hunting Snow Geese and Ross’s Geese with those calls.<br />
 
 <a name='fn_SOR-2013-126_e_hq_12321'><sup>(d)</sup></a>: In municipalities where Sunday gun hunting is permitted by provincial regulations.<br />
 
@@ -2073,7 +2097,9 @@ For a period of 8 days beginning on the fourth Saturday of February, except for 
 
 <a name='fn_SOR-2013-126_e_hq_12323'><sup>(f)</sup></a>: Except in Wildlife Management Unit 94.<br />
 
-<a name='nbp_SOR-2014-136_e'><sup>(g)</sup></a>: Except for American Black Ducks, for which the open season begins on the fourth Saturday of September and ends on December 20.<br />
+<a name='nbp_SOR-2014-136_e'><sup>(g)</sup></a>: In Wildlife Management Units 60–67, 69B.<br />
+
+<a name='footnoteh_e'><sup>(h)</sup></a>: In Wildlife Management Units 68, 69A, 70–95.<br />
 **1** In this Part,
 
 **(a)** a reference to a Wildlife Management Unit is a reference to that unit in the Province of Ontario as referred to in Schedule 1 of Part 6 of Ontario Regulation 663/98 (Area Descriptions) made under the Fish and Wildlife Conservation Act, 1997, S.O. 1997, c. 41, and if a wildlife management unit is referred to by whole number only, the whole number includes a reference to all of the wildlife management units referred to in that schedule by that number used in combination with a letter, or a letter and another number; and
@@ -2125,7 +2151,7 @@ For a period of 8 days beginning on the fourth Saturday of February, except for 
 
 
 
-**(d)** that portion of the St. Lawrence River within Lake St. Francis and the islands contained therein, lying between the easterly boundary of the dam at the site of the Robert H. Saunders Generating Station and the Interprovincial Boundary between Ontario and Quebec, situated beyond 300 m from the shore of the mainland or of any island contained within the said area or from any area of emergent vegetation or water line that forms a boundary of private property;
+**(d)** that portion of the St. Lawrence River within Lake St. Francis, lying between the easterly boundary of the dam at the site of the Robert H. Saunders Generating Station and the Interprovincial Boundary between Ontario and Quebec, and situated beyond 300 m from the shore of the mainland or any island, from any area of emergent vegetation, or from any water line that forms a boundary of private property;
 
 
 
@@ -2177,7 +2203,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <th>Item</th>
 <th>Area</th>
-<th>Period during which Snow Geese may be killed</th>
+<th>Period during which Snow Geese and Ross’s Geese may be killed</th>
 <th>Additional hunting method or equipment</th>
 </tr>
 <tr>
@@ -2212,11 +2238,11 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <th>Limit</th>
 <th>Ducks (other than Harlequin Ducks)</th>
 <th>Canada Geese and Cackling Geese</th>
-<th>White-fronted Geese and Brant</th>
-<th>Snow Geese</th>
-<th>Rails (other than Yellow Rails and King Rails) and Snipe</th>
-<th>Gallinules</th>
-<th>Woodcock and Coots</th>
+<th>Snow Geese and Ross’s Geese</th>
+<th>Other Geese</th>
+<th>Rails (other than Yellow Rails and King Rails), Coots and Gallinules</th>
+<th>Snipe</th>
+<th>Woodcock</th>
 <th>Mourning Doves</th>
 </tr>
 <tr>
@@ -2224,10 +2250,10 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <td>Daily Bag</td>
 <td>6 <sup><a href='#fn_CRC1035_EN_hq_12181'>[(a)]</a></sup></td>
 <td>5 <sup><a href='#fn_CRC1035_EN_hq_12184'>[(c)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12186'>[(d)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12188'>[(e)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12190'>[(f)]</a></sup></td>
-<td>5</td>
 <td>20 <sup><a href='#fn_CRC1035_EN_hq_121921'>[(g)]</a></sup></td>
+<td>5</td>
+<td>10 <sup><a href='#footnoteh2_e'>[(h)]</a></sup></td>
 <td>10</td>
-<td>4</td>
 <td>8</td>
 <td>15</td>
 </tr>
@@ -2236,33 +2262,33 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <td>Possession</td>
 <td>18 <sup><a href='#fn_CRC1035_EN_hq_12182'>[(b)]</a></sup></td>
 <td>no limit</td>
-<td>15</td>
 <td>no limit</td>
+<td>15</td>
+<td>30 <sup><a href='#footnotei_e'>[(i)]</a></sup></td>
 <td>30</td>
-<td>12</td>
 <td>24</td>
 <td>45</td>
 </tr>
 </table>
 
 
-<a name='fn_CRC1035_EN_hq_12181'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye. In the Southern District and Central District, not more than one may be an American Black Duck, and in the Hudson-James Bay District and Northern District, not more than two may be American Black Ducks.<br />
+<a name='fn_CRC1035_EN_hq_12181'><sup>(a)</sup></a>: Not more than one may be Barrow’s Goldeneye. In the Southern District, not more than two may be American Black Ducks, and in the Hudson-James Bay District, Northern District and Central District, not more than four may be American Black Ducks.<br />
 
-<a name='fn_CRC1035_EN_hq_12182'><sup>(b)</sup></a>: Not more than one may be Barrow’s Goldeneye. In the Southern District and Central District, not more than three may be American Black Ducks, and in the Hudson-James Bay District and Northern District, not more than six may be American Black Ducks.<br />
+<a name='fn_CRC1035_EN_hq_12182'><sup>(b)</sup></a>: Not more than one may be Barrow’s Goldeneye. In the Southern District, not more than six may be American Black Ducks, and in the Hudson-James Bay District, Northern District and Central District, not more than 12 may be American Black Ducks.<br />
 
 <a name='fn_CRC1035_EN_hq_12184'><sup>(c)</sup></a>: A total of not more than two Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Unit 94 in the period beginning on the fourth Saturday in September and ending on the last day of the open season.<br />
 
 <a name='fn_CRC1035_EN_hq_12186'><sup>(d)</sup></a>: A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82, 84, 85 and 93 during the period beginning on the fourth Saturday of September and ending on October 31.<br />
 
-<a name='fn_CRC1035_EN_hq_12188'><sup>(e)</sup></a>: Up to five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in<br />
+<a name='fn_CRC1035_EN_hq_12188'><sup>(e)</sup></a>: Up to five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in the following Wildlife Management Units:<br />
 
-<sup></sup>: (i) Wildlife Management Units 36 and 45 during the period beginning on September 1 and ending on September 9,<br />
+<sup></sup>: (i) 8, 10, 13, 36, 37, 39, 41 and 45 during the period beginning on September 1 and ending on September 9,<br />
 
-<sup></sup>: (ii) Wildlife Management Units 42 to 44 and 46 to 59 during the period beginning on the day after Labour Day and ending on the Friday preceding the third Saturday in September,<br />
+<sup></sup>: (ii) 42 to 44 and 46 to 59 during the period beginning on September 1 and ending on the Friday preceding the third Saturday in September,<br />
 
-<sup></sup>: (iii) Wildlife Management Units 60 to 81, 83, 86 to 92 and 95 during the 11-day period beginning on the first Thursday after Labour Day, and<br />
+<sup></sup>: (iii) 60 to 81, 83, 86 to 92 and 95 during the 11-day period beginning on the first Thursday after Labour Day, and<br />
 
-<sup></sup>: (iv) Wildlife Management Units 60 to 81, 83 and 86 to 92 during the eight-day period beginning on the fourth Saturday in February, in municipalities where Sunday gun hunting is not permitted.<br />
+<sup></sup>: (iv) 60 to 81, 83 and 86 to 92 during the eight-day period beginning on the fourth Saturday in February, in municipalities where Sunday gun hunting is not permitted.<br />
 
 <a name='fn_CRC1035_EN_hq_12190'><sup>(f)</sup></a>: Up to three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in<br />
 
@@ -2270,7 +2296,11 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 
 <sup></sup>: (ii) Wildlife Management Units 82, 84, 85 and 93 during the eight-day period beginning on the fourth Saturday in February in municipalities where Sunday gun hunting is not permitted.<br />
 
-<a name='fn_CRC1035_EN_hq_121921'><sup>(g)</sup></a>: Up to 30 additional Snow Geese may be taken daily in the Hudson-James Bay District.<br />
+<a name='fn_CRC1035_EN_hq_121921'><sup>(g)</sup></a>: Up to 30 additional Snow Geese or Ross’s Geese, or any combination of them, may be taken daily in the Hudson-James Bay District.<br />
+
+<a name='footnoteh2_e'><sup>(h)</sup></a>: Not more than four may be Gallinules and not more than eight may be Coots.<br />
+
+<a name='footnotei_e'><sup>(i)</sup></a>: Not more than 12 may be Gallinules and not more than 24 may be Coots.<br />
 
 **PART VII** 
 
@@ -2286,62 +2316,77 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <th>Column 5</th>
 <th>Column 6</th>
 <th>Column 7</th>
+<th>Column 8</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
-<th>Waterfowler Heritage Day</th>
+<th>Waterfowler Heritage Days</th>
 <th>Open Season</th>
+<th></th>
 </tr>
 <tr>
 <th>Item</th>
 <th>Area</th>
 <th>Ducks, Geese, Coots, Snipe and Sandhill Cranes</th>
-<th>Ducks, Geese, Coots and Snipe RESIDENTS OF CANADA</th>
-<th>Ducks, Canada Geese, Cackling Geese, White-fronted Geese, Brant, Coots and Snipe NON-RESIDENTS OF CANADA</th>
+<th>Ducks, Geese, Coots and SnipeRESIDENTS OF CANADA
+
+</th>
+<th>Ducks, Canada Geese, Cackling Geese, White-fronted Geese, Brant, Coots and SnipeNON-RESIDENTS OF CANADA
+
+</th>
 <th>Sandhill Cranes</th>
-<th>Snow and Ross’s Geese NON-RESIDENTS OF CANADA</th>
+<th>Snow and Ross’s GeeseNON-RESIDENTS OF CANADA
+
+</th>
 <th>American Woodcock</th>
+<th>Canada Geese and Cackling GeeseRESIDENTS OF CANADA
+
+</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Game Bird Hunting Zone 1</td>
+<td>Game Bird Hunting Zone No. 1</td>
 <td>September 1 to September 7 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
 <td>September 1 to October 31 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
 <td>September 1 to October 31</td>
 <td>September 1 to November 30</td>
 <td>September 1 to October 31 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
 <td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Game Bird Hunting Zone 2</td>
+<td>Game Bird Hunting Zone No. 2</td>
 <td>September 1 to September 7 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
 <td>September 1 to November 30 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
 <td>September 8 to November 30</td>
 <td>September 1 to November 30</td>
 <td>September 8 to November 30 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
 <td>N/A</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Game Bird Hunting Zone 3</td>
+<td>Game Bird Hunting Zone No. 3</td>
 <td>September 1 to September 7 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
-<td>September 1 to November 30 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
-<td>September 24 to November 30</td>
-<td>September 1 to November 30</td>
-<td>September 17 to November 30 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
-<td>September 8 to November 30</td>
+<td>September 1 to December 6 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
+<td>September 24 to December 6</td>
+<td>September 1 to December 6</td>
+<td>September 17 to December 6 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
+<td>September 8 to December 6</td>
+<td>March 1 to March 10</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Game Bird Hunting Zone 4</td>
+<td>Game Bird Hunting Zone No. 4</td>
 <td>September 1 to September 7 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
-<td>September 1 to November 30 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
-<td>September 24 to November 30</td>
-<td>September 1 to November 30</td>
-<td>September 17 to November 30 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
-<td>September 8 to November 30</td>
+<td>September 1 to December 6 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
+<td>September 24 to December 6</td>
+<td>September 1 to December 6</td>
+<td>September 17 to December 6 <sup><a href='#fn_CRC1035_EN_hq_12192'>[(a)]</a></sup></td>
+<td>September 8 to December 6</td>
+<td>March 1 to March 10</td>
 </tr>
 </table>
 
@@ -2407,7 +2452,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 
 
 
-**(d)** ***Game Bird Hunting Zone 4*** means that portion of the Province of Manitoba included in Provincial Game Hunting Areas No. 22, 23, 24, 25A, 25B, 27, 28, 29, 29A, 30, 31, 31A, 32, 33, 34, 34A, 34B, 34C, 35, 35A, 36 and 38 as described in the Hunting Areas and Zones Regulation, 220/86, of the Province of Manitoba, made pursuant to The Wildlife Act, C.C.S.M., c. W130;
+**(d)** ***Game Bird Hunting Zone 4*** means that portion of the Province of Manitoba included in Provincial Game Hunting Areas No. 22, 23, 24, 25A, 25B, 27, 28, 29, 29A, 30, 31, 31A, 32, 33, 34, 34A, 34B, 34C, 35, 35A, 36 and 38 as described in the Hunting Areas and Zones Regulation, 220/86, of the Province of Manitoba, made pursuant to The Wildlife Act, C.C.S.M., c. W130.
 
 
 
@@ -2543,15 +2588,9 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 </tr>
 <tr>
 <td>1</td>
-<td>No. 1 (North)</td>
-<td>Saturday, Sunday and Monday of Labour Day weekend, excluding any day in August, and of Thanksgiving weekend <sup><a href='#fn_CRC1035_EN_hq_12200'>[(b)]</a></sup></td>
-<td>September 1 to December 16 <sup><a href='#fn_CRC1035_EN_hq_12200'>[(b)]</a></sup></td>
-</tr>
-<tr>
-<td>2</td>
-<td>No. 2 (South)</td>
+<td>No. 1 (North) and No. 2 (South)</td>
 <td>Saturday, Sunday and Monday of Labour Day weekend, excluding any day in August, and of Thanksgiving weekend <sup><a href='#fn_CRC1035_EN_hq_12200'>[(b)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12201'>[(c)]</a></sup></td>
-<td>September 1 to December 16 <sup><a href='#fn_CRC1035_EN_hq_12199'>[(a)]</a></sup><sup>,</sup><sup><a href='#fn_CRC1035_EN_hq_12200'>[(b)]</a></sup><sup>,</sup><sup><a href='#fn_CRC1035_EN_hq_12200'>[(c)]</a></sup></td>
+<td>September 1 to December 16 <sup><a href='#fn_CRC1035_EN_hq_12199'>[(a)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12200'>[(b)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12201'>[(c)]</a></sup></td>
 </tr>
 </table>
 
@@ -2677,7 +2716,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <th></th>
 <th></th>
-<th>Waterfowler Heritage Day</th>
+<th>Waterfowler Heritage Days</th>
 <th>Open Season</th>
 </tr>
 <tr>
@@ -2884,7 +2923,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <th></th>
 <th></th>
-<th>Waterfowler Heritage Day</th>
+<th>Waterfowler Heritage Days</th>
 <th>Open Season</th>
 </tr>
 <tr>
@@ -2896,7 +2935,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <th>Other Geese</th>
 <th>Brant</th>
 <th>Band-tailed Pigeons</th>
-<th>Mourning Doves</th>
+<th>Mourning Doves and Eurasian Collared-Doves</th>
 </tr>
 <tr>
 <td>1</td>
@@ -3135,6 +3174,8 @@ For the period of 18 days ending on March 10 <sup><a href='#fn_CRC1035_EN_hq_122
 <th>Column 5</th>
 <th>Column 6</th>
 <th>Column 7</th>
+<th>Column 8</th>
+<th>Column 9</th>
 </tr>
 <tr>
 <th>Item</th>
@@ -3143,57 +3184,65 @@ For the period of 18 days ending on March 10 <sup><a href='#fn_CRC1035_EN_hq_122
 <th>White Geese (Snow and Ross’s Geese)</th>
 <th>Dark Geese (Canada, Cackling and White-fronted Geese)</th>
 <th>Brant</th>
-<th>Coots and Snipe</th>
-<th>Band-tailed Pigeons and Mourning Doves</th>
+<th>Coots</th>
+<th>Snipe</th>
+<th>Band-tailed Pigeons</th>
+<th>Mourning Doves and Eurasian Collared-Doves</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Daily Bag</td>
-<td>8 <sup><a href='#fn_CRC1035_EN_hq_12238'>[(a)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12242'>[(c)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12246'>[(e)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12249'>[(g)]</a></sup></td>
+<td>8 <sup><a href='#fn_CRC1035_EN_hq_12238'>[(a)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12242'>[(b)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12246'>[(c)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12249'>[(d)]</a></sup></td>
 <td>5 <sup><a href='#fn_CRC1035_EN_hq_12251'>[(i)]</a></sup></td>
 <td>5 <sup><a href='#fn_CRC1035_EN_hq_12254'>[(k)]</a></sup>, 10 <sup><a href='#fn_CRC1035_EN_hq_12255'>[(l)]</a></sup></td>
-<td>2 <sup><a href='#fn_CRC1035_EN_hq_12256'>[(m)]</a></sup></td>
+<td>3 <sup><a href='#fn_CRC1035_EN_hq_12256'>[(m)]</a></sup></td>
+<td>10</td>
 <td>10</td>
 <td>5</td>
+<td>5 <sup><a href='#fn_81000-2-3343-0313_hq_21539'>[(n)]</a></sup></td>
 </tr>
 <tr>
 <td>2</td>
 <td>Possession</td>
-<td>24 <sup><a href='#fn_CRC1035_EN_hq_12240'>[(b)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12244'>[(d)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12248'>[(f)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12250'>[(h)]</a></sup></td>
+<td>24 <sup><a href='#fn_CRC1035_EN_hq_12240'>[(e)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12244'>[(f)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12248'>[(g)]</a></sup><sup>, </sup><sup><a href='#fn_CRC1035_EN_hq_12250'>[(h)]</a></sup></td>
 <td>15 <sup><a href='#fn_CRC1035_EN_hq_12252'>[(j)]</a></sup></td>
 <td>15 <sup><a href='#fn_CRC1035_EN_hq_12254'>[(k)]</a></sup>, 30 <sup><a href='#fn_CRC1035_EN_hq_12255'>[(l)]</a></sup></td>
-<td>6 <sup><a href='#fn_CRC1035_EN_hq_12256'>[(m)]</a></sup></td>
+<td>9 <sup><a href='#fn_CRC1035_EN_hq_12256'>[(m)]</a></sup></td>
+<td>30</td>
 <td>30</td>
 <td>15</td>
+<td>15 <sup><a href='#fn_81000-2-3343-0313_hq_21539'>[(n)]</a></sup></td>
 </tr>
 </table>
 
 
 <a name='fn_CRC1035_EN_hq_12238'><sup>(a)</sup></a>: Not more than four may be Northern Pintails.<br />
 
-<a name='fn_CRC1035_EN_hq_12240'><sup>(b)</sup></a>: Not more than 12 may be Northern Pintails.<br />
+<a name='fn_CRC1035_EN_hq_12242'><sup>(b)</sup></a>: Not more than four may be Canvasbacks.<br />
 
-<a name='fn_CRC1035_EN_hq_12242'><sup>(c)</sup></a>: Not more than four may be Canvasbacks.<br />
+<a name='fn_CRC1035_EN_hq_12246'><sup>(c)</sup></a>: Not more than two may be Goldeneyes.<br />
 
-<a name='fn_CRC1035_EN_hq_12244'><sup>(d)</sup></a>: Not more than 12 may be Canvasbacks.<br />
+<a name='fn_CRC1035_EN_hq_12249'><sup>(d)</sup></a>: Not more than two may be Harlequin Ducks.<br />
 
-<a name='fn_CRC1035_EN_hq_12246'><sup>(e)</sup></a>: Not more than two may be Goldeneyes.<br />
+<a name='fn_CRC1035_EN_hq_12240'><sup>(e)</sup></a>: Not more than 12 may be Northern Pintails.<br />
 
-<a name='fn_CRC1035_EN_hq_12248'><sup>(f)</sup></a>: Not more than six may be Goldeneyes.<br />
+<a name='fn_CRC1035_EN_hq_12244'><sup>(f)</sup></a>: Not more than 12 may be Canvasbacks.<br />
 
-<a name='fn_CRC1035_EN_hq_12249'><sup>(g)</sup></a>: Not more than two may be Harlequin Ducks.<br />
+<a name='fn_CRC1035_EN_hq_12248'><sup>(g)</sup></a>: Not more than six may be Goldeneyes.<br />
 
 <a name='fn_CRC1035_EN_hq_12250'><sup>(h)</sup></a>: Not more than six may be Harlequin Ducks.<br />
 
-<a name='fn_CRC1035_EN_hq_12251'><sup>(i)</sup></a>: In Provincial Management Units 2-4 and 2-5 only, a total of 10 White Geese including not more than five Ross’s Geese may be taken daily.<br />
+<a name='fn_CRC1035_EN_hq_12251'><sup>(i)</sup></a>: In Provincial Management Units 2-4 and 2-5, up to 15 White Geese including not more than five Ross’s Geese may be taken daily and in Provincial Management Units 2-2 and 2-3 and 2-6 to 2-19 inclusively, up to 10 White Geese including not more than five Ross’s Geese may be taken daily.<br />
 
-<a name='fn_CRC1035_EN_hq_12252'><sup>(j)</sup></a>: In Provincial Management Units 2-4 and 2-5 only, a total of 30 White Geese including not more than 15 Ross’s Geese may be possessed.<br />
+<a name='fn_CRC1035_EN_hq_12252'><sup>(j)</sup></a>: In Provincial Management Units 2-4 and 2-5, up to 45 White Geese including not more than 15 Ross’s Geese may be possessed and in Provincial Management Units 2-2 and 2-3 and 2-6 to 2-19 inclusively, up to 30 White Geese including not more than 15 Ross’s Geese may be possessed daily.<br />
 
 <a name='fn_CRC1035_EN_hq_12254'><sup>(k)</sup></a>: For White-fronted Geese only.<br />
 
 <a name='fn_CRC1035_EN_hq_12255'><sup>(l)</sup></a>: Any combination of Canada Geese and Cackling Geese.<br />
 
-<a name='fn_CRC1035_EN_hq_12256'><sup>(m)</sup></a>: Provincial Management Unit 2-4 only.<br />
+<a name='fn_CRC1035_EN_hq_12256'><sup>(m)</sup></a>: Provincial Management Unit 2-4.<br />
+
+<a name='fn_81000-2-3343-0313_hq_21539'><sup>(n)</sup></a>: Any combination of Mourning Doves and Eurasian Collared-Doves.<br />
 
 **PART XI** 
 
@@ -3462,12 +3511,13 @@ September 1 to October 31 for non-residents of Yukon
 <table>
 <h4>Measures in Yukon Concerning Overabundant Species</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Area</th>
 <th>Period During Which Snow Geese and Ross’s Geese May Be Killed</th>
 <th>Additional Hunting Method or Equipment</th>
@@ -3576,12 +3626,13 @@ September 1 to October 31 for non-residents of Yukon
 <table>
 <h4>Measures in Nunavut Concerning Overabundant Species</h4>
 <tr>
-<th>Item</th>
+<th></th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Area</th>
 <th>Period during which Snow Geese and Ross’s Geese may be killed</th>
 <th>Additional hunting method or equipment</th>
@@ -3687,7 +3738,7 @@ September 1 to October 31 for non-residents of Yukon
 <a name='fn_CRC1035_EN_hq_12280'><sup>(f)</sup></a>: Not more than four may be White-fronted Geese. In that portion of the islands and waters of James Bay that are west of 80°15‘W longitude and south of 55°N latitude, there is no limit on Canada Geese and Cackling Geese.<br />
 
 <a name='fn_CRC1035_EN_hq_12281'><sup>(g)</sup></a>: Except in that portion of the islands and waters of James Bay that are south of 55°N latitude, where the limit is 20.<br />
-> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19; SOR/2010-139, ss. 1 to 6, 7(F), 8 to 10, 11(F), 12 to 14, 15(E), 16 to 19, 20 to 23(F), 24 to 28, 29(E), 30(F), 31(F), 32 to 35, 36(F), 37 to 45, 46(F), 47(F), 48; SOR/2011-120, ss. 1, 2(E), 3, 4(E), 5, 6, 7(F), 8(F), 9 to 16, 17(F), 18(E), 19, 20(F), 21(F), 22, 23, 24(F), 25, 26(F); SOR/2012-110, ss. 1 to 31; SOR/2013-126, ss. 3 to 21, 22(E), 23 to 48, 49(F), 50 to 54; SOR/2014-136, ss. 1 to 38; SOR/2016-126, ss. 3 to 20, 21(E), 22 to 30.
+> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19; SOR/2010-139, ss. 1 to 6, 7(F), 8 to 10, 11(F), 12 to 14, 15(E), 16 to 19, 20 to 23(F), 24 to 28, 29(E), 30(F), 31(F), 32 to 35, 36(F), 37 to 45, 46(F), 47(F), 48; SOR/2011-120, ss. 1, 2(E), 3, 4(E), 5, 6, 7(F), 8(F), 9 to 16, 17(F), 18(E), 19, 20(F), 21(F), 22, 23, 24(F), 25, 26(F); SOR/2012-110, ss. 1 to 31; SOR/2013-126, ss. 3 to 21, 22(E), 23 to 48, 49(F), 50 to 54; SOR/2014-136, ss. 1 to 38; SOR/2016-126, ss. 3 to 20, 21(E), 22 to 30; SOR/2018-111, ss. 3 to 35, 36(F).
 
 
 
