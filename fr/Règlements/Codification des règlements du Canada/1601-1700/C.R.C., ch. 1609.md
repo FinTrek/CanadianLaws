@@ -28,100 +28,100 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***adulte*** Personne âgée de 18 ans ou plus. (*adult*)
+***adulte*** Personne âgée de 18 ans ou plus. (*adult*)
 
-***aîné*** Personne âgée de 65 ans ou plus. (*senior*)
+***aîné*** Personne âgée de 65 ans ou plus. (*senior*)
 
-***animal*** Animal appartenant à une espèce sauvage ainsi qu’un animal qui ne s’en différencie pas aisément. (*animal*)
+***animal*** Animal appartenant à une espèce sauvage ainsi qu’un animal qui ne s’en différencie pas aisément. (*animal*)
 
-***arme à feu*** toute arme munie d’un canon permettant de tirer du plomb, des balles ou tout autre projectile; (*firearm*)
+***arme à feu*** toute arme munie d’un canon permettant de tirer du plomb, des balles ou tout autre projectile; (*firearm*)
 
-***chasser*** comprend le fait de pourchasser, poursuivre, harceler, traquer un animal, le suivre ou en suivre la piste et être à l’affût en vue de le prendre, y compris le fait de le molester, de le piéger, de tenter de le piéger ou de le tirer, que l’animal soit ou non capturé, abattu ou blessé, à l’instant même ou plus tard; (*hunt*)
+***chasser*** comprend le fait de pourchasser, poursuivre, harceler, traquer un animal, le suivre ou en suivre la piste et être à l’affût en vue de le prendre, y compris le fait de le molester, de le piéger, de tenter de le piéger ou de le tirer, que l’animal soit ou non capturé, abattu ou blessé, à l’instant même ou plus tard; (*hunt*)
 
-***enfant*** Personne âgée de 12 ans ou moins. (*child*)
+***enfant***[Abrogée, DORS/2018-113, art. 1]
 
-***étudiant*** Personne âgée de 13 ans ou plus, mais de moins de 18 ans, ou personne qui possède une carte d’étudiant valide délivrée par un établissement d’enseignement reconnu. (*student*)
+***étudiant*** Personne âgée de 13 ans ou plus, mais de moins de 18 ans, ou personne qui possède une carte d’étudiant valide délivrée par un établissement d’enseignement reconnu. (*student*)
 
 ***famille***[Abrogée, DORS/99-95, art. 1]
 
-***faune*** ou ***animaux sauvages***[Abrogée, DORS/94-594, art. 4]
+***faune*** ou ***animaux sauvages***[Abrogée, DORS/94-594, art. 4]
 
 ***fonctionnaire de réserve de faune***[Abrogée, DORS/94-594, art. 4]
 
-***grenaille à matrice de tungstène*** Grenaille contenant en poids :
+***grenaille à matrice de tungstène*** Grenaille contenant en poids :
 - **a)** au moins 86 % de tungstène;
 - **b)** au plus 5 % de nickel;
 - **c)** au plus 3 % de fer;
 - **d)** au plus 5 % de copolymère d’acide méthacrylique éthylique;
-- **e)** au plus 1 % de tout autre élément ou composé. (*tungsten-matrix shot*)
+- **e)** au plus 1 % de tout autre élément ou composé. (*tungsten-matrix shot*)
 
-***grenaille d’acier*** Grenaille contenant en poids :
+***grenaille d’acier*** Grenaille contenant en poids :
 - **a)** au moins 98 % de fer;
-- **b)** au plus 1 % de tout autre élément. (*steel shot*)
+- **b)** au plus 1 % de tout autre élément. (*steel shot*)
 
-***grenaille de bismuth*** Grenaille contenant en poids :
+***grenaille de bismuth*** Grenaille contenant en poids :
 - **a)** au moins 96 % de bismuth;
 - **b)** au plus 4 % d’étain;
-- **c)** au plus 1 % de tout autre élément. (*bismuth shot*)
+- **c)** au plus 1 % de tout autre élément. (*bismuth shot*)
 
-***grenaille d’étain*** Grenaille contenant en poids :
+***grenaille d’étain*** Grenaille contenant en poids :
 - **a)** au moins 98 % d’étain;
-- **b)** au plus 1 % de tout autre élément. (*tin shot*)
+- **b)** au plus 1 % de tout autre élément. (*tin shot*)
 
-***grenaille de tungstène-bronze-fer*** Grenaille contenant, en poids :
+***grenaille de tungstène-bronze-fer*** Grenaille contenant, en poids :
 - **a)** au plus 90 % de tungstène;
 - **b)** au plus 90 % d’étain;
 - **c)** au plus 90 % de fer;
 - **d)** au plus 45 % de cuivre;
-- **e)** au plus 1 % de tout autre élément. (*tungsten-bronze-iron shot*)
+- **e)** au plus 1 % de tout autre élément. (*tungsten-bronze-iron shot*)
 
-***grenaille de tungstène-fer*** Grenaille contenant en poids :
+***grenaille de tungstène-fer*** Grenaille contenant en poids :
 - **a)** au moins 45 % de fer;
 - **b)** au plus 55 % de tungstène;
-- **c)** au plus 1 % de tout autre élément. (*tungsten-iron shot*)
+- **c)** au plus 1 % de tout autre élément. (*tungsten-iron shot*)
 
-***grenaille de tungstène-fer-nickel-cuivre*** Grenaille contenant, en poids :
+***grenaille de tungstène-fer-nickel-cuivre*** Grenaille contenant, en poids :
 - **a)** de 40 % à 76 % de tungstène;
 - **b)** de 10 % à 37 % de fer;
 - **c)** de 9 % à 16 % de cuivre;
 - **d)** de 5 % à 7 % de nickel;
-- **e)** au plus 1 % de plomb ou de zinc. (*tungsten-iron-nickel-copper shot*)
+- **e)** au plus 1 % de plomb ou de zinc. (*tungsten-iron-nickel-copper shot*)
 
-***grenaille de tungstène-nickel-fer*** Grenaille contenant, en poids :
+***grenaille de tungstène-nickel-fer*** Grenaille contenant, en poids :
 - **a)** au plus 90 % de tungstène;
 - **b)** au plus 90 % de fer;
 - **c)** au plus 40 % de nickel;
-- **d)** au plus 1 % de tout autre élément. (*tungsten-nickel-iron shot*)
+- **d)** au plus 1 % de tout autre élément. (*tungsten-nickel-iron shot*)
 
-***grenaille de tungstène-polymère*** Grenaille contenant en poids :
+***grenaille de tungstène-polymère*** Grenaille contenant en poids :
 - **a)** au moins 93 % de tungstène;
 - **b)** au plus 7 % de Nylon 6 ou de Nylon 11;
-- **c)** au plus 1 % de tout autre élément ou composé. (*tungsten-polymer shot*)
+- **c)** au plus 1 % de tout autre élément ou composé. (*tungsten-polymer shot*)
 
-***grenaille non toxique*** Grenaille à matrice de tungstène, grenaille d’acier, grenaille de bismuth, grenaille d’étain, grenaille de tungstène-bronze-fer, grenaille de tungstène-fer, grenaille de tungstène-fer-nickel-cuivre, grenaille de tungstène-nickel-fer ou grenaille de tungstène-polymère. (*non-toxic shot*)
+***grenaille non toxique*** Grenaille à matrice de tungstène, grenaille d’acier, grenaille de bismuth, grenaille d’étain, grenaille de tungstène-bronze-fer, grenaille de tungstène-fer, grenaille de tungstène-fer-nickel-cuivre, grenaille de tungstène-nickel-fer ou grenaille de tungstène-polymère. (*non-toxic shot*)
 
-***Loi*** La [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md). (*Act*)
+***Loi*** La [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md). (*Act*)
 
 ***ministre***[Abrogée, DORS/94-594, art. 4]
 
 ***permis***[Abrogée, DORS/94-594, art. 4]
 
-***plomb*** Objet qui sert à faire plonger une ligne et qui contient plus de un pour cent de plomb en poids. (*lead sinker*)
+***plomb*** Objet qui sert à faire plonger une ligne et qui contient plus de un pour cent de plomb en poids. (*lead sinker*)
 
 ***réserve de faune***[Abrogée, DORS/94-594, art. 4(F)]
 
-***réserve d’espèces sauvages*** Étendue de terres domaniales dont la description figure à l’annexe I. (*wildlife area*)
+***réserve d’espèces sauvages*** Étendue de terres domaniales dont la description figure à l’annexe I. (*wildlife area*)
 
-***services d’interprétation*** Activité comportant l’interprétation des espèces sauvages, exercée dans la Réserve nationale de faune de Cap-Tourmente. (*interpretation services*)
+***services d’interprétation*** Activité comportant l’interprétation des espèces sauvages, exercée dans la Réserve nationale de faune de Cap-Tourmente. (*interpretation services*)
 
 ***services d’interprétation généraux***[Abrogée, DORS/99-95, art. 1]
 
 ***services d’interprétation spéciaux***[Abrogée, DORS/99-95, art. 1]
 
-***turlutte en plomb*** Amorce lestée qui sert à la pêche et qui contient plus de un pour cent de plomb en poids. (*lead jig*)
+***turlutte en plomb*** Amorce lestée qui sert à la pêche et qui contient plus de un pour cent de plomb en poids. (*lead jig*)
 
-***végétal*** Végétal appartenant à une espèce sauvage ainsi qu’un végétal qui ne s’en différencie pas aisément. (*plant*) 
-> DORS/78-408, art. 1; DORS/78-466, art. 1(F); DORS/85-227, art. 1; DORS/94-594, art. 4 et 10; DORS/95-78, art. 1; DORS/96-442, art. 1; DORS/97-439, art. 1; DORS/99-95, art. 1; DORS/2001-322, art. 1; DORS/2003-226, art. 1; DORS/2005-124, art. 1; DORS/2007-138, art. 1.
+***végétal*** Végétal appartenant à une espèce sauvage ainsi qu’un végétal qui ne s’en différencie pas aisément. (*plant*)
+> DORS/78-408, art. 1; DORS/78-466, art. 1(F); DORS/85-227, art. 1; DORS/94-594, art. 4 et 10; DORS/95-78, art. 1; DORS/96-442, art. 1; DORS/97-439, art. 1; DORS/99-95, art. 1; DORS/2001-322, art. 1; DORS/2003-226, art. 1; DORS/2005-124, art. 1; DORS/2007-138, art. 1; DORS/2018-113, art. 1.
 
 
 
@@ -220,10 +220,10 @@ Autorités habilitantes :
 
 **8.3** 
 
-- **(1)** Quiconque entre dans la Réserve nationale de faune du Cap Tourmente paie les droits applicables prévus aux articles 1, 2, 3 ou 4 de l’annexe II.
+- **(1)** Quiconque entre dans la Réserve nationale de faune du Cap Tourmente paie les droits applicables prévus aux articles 1, 2, 3 ou 4 de l’annexe II, le cas échéant.
 
 - **(2)** Quiconque demande les services d’un naturaliste paie les droits prévus à l’article 5 de l’annexe II.
-> DORS/95-78, art. 2; DORS/99-95, art. 2; DORS/2003-296, art. 1.
+> DORS/95-78, art. 2; DORS/99-95, art. 2; DORS/2003-296, art. 1; DORS/2018-113, art. 2.
 
 
 
@@ -2500,10 +2500,9 @@ Ladite parcelle renferme une superficie d’environ 398 kilomètres carrés.
 <td>5,00 $</td>
 </tr>
 <tr>
-<td>**c)** enfant accompagné de son père ou de sa mère 
+<td>**c)** [Abrogé, DORS/2018-113, art. 3]
 
 </td>
-<td>gratuit</td>
 </tr>
 <tr>
 <td>**d)** groupe d’adultes (minimum de 10 personnes) 
@@ -2558,10 +2557,9 @@ Ladite parcelle renferme une superficie d’environ 398 kilomètres carrés.
 <td>2,00 $</td>
 </tr>
 <tr>
-<td>**b)** enfant accompagné de son père ou de sa mère 
+<td>**b)** [Abrogé, DORS/2018-113, art. 3]
 
 </td>
-<td>gratuit</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2575,7 +2573,7 @@ Ladite parcelle renferme une superficie d’environ 398 kilomètres carrés.
 </tr>
 </table>
 
-> DORS/95-78, art. 4; DORS/99-95, art. 4; DORS/2003-296, art. 2.
+> DORS/95-78, art. 4; DORS/99-95, art. 4; DORS/2003-296, art. 2; DORS/2018-113, art. 3.
 
 
 
