@@ -2526,8 +2526,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ##### Mammals
 
-Bear, Grizzly (*Ursus arctos*) Prairie population<br />- <i>Ours grizzli population des Prairies</i>
-
 Ferret, Black-footed (*Mustela nigripes*)<br />- <i>Putois d’Amérique</i>
 
 Walrus, Atlantic (*Odobenus rosmarus rosmarus*) Northwest Atlantic population<br />- <i>Morse de l’Atlantique population de l’Atlantique Nord-Ouest</i>
@@ -2625,7 +2623,9 @@ Moss, Incurved Grizzled (*Ptychomitrium incurvum*)<br />- <i>Ptychomitre à feui
 
 Badger *jacksoni* subspecies, American (*Taxidea taxus jacksoni*)<br />- <i>Blaireau d’Amérique de la sous-espèce jacksoni</i>
 
-Badger *jeffersonii* subspecies, American (*Taxidea taxus jeffersonii*)<br />- <i>Blaireau d’Amérique de la sous-espèce jeffersonii</i>
+Badger *jeffersonii* subspecies, American (*Taxidea taxus jeffersonii*) Eastern population<br />- <i>Blaireau d’Amérique de la sous-espèce jeffersonii population de l’Est</i>
+
+Badger *jeffersonii* subspecies, American (*Taxidea taxus jeffersonii*) Western population<br />- <i>Blaireau d’Amérique de la sous-espèce jeffersonii population de l’Ouest</i>
 
 Bat, Tri-coloured (*Perimyotis subflavus*)<br />- <i>Pipistrelle de l’Est</i>
 
@@ -2664,8 +2664,6 @@ Whale, North Pacific Right (*Eubalaena japonica*)<br />- <i>Baleine noire du Pac
 Whale, Northern Bottlenose (*Hyperoodon ampullatus*) Scotian Shelf population<br />- <i>Baleine à bec commune, population du plateau néo-écossais</i>
 
 Whale, Sei (*Balaenoptera borealis*) Pacific population<br />- <i>Rorqual boréal population du Pacifique</i>
-
-Wolverine (*Gulo gulo*) Eastern population<br />- <i>Carcajou population de l’Est</i>
 
 
 
@@ -2903,6 +2901,8 @@ Borer, Aweme (*Papaipema aweme*)<br />- <i>Perce-tige d’Aweme</i>
 
 Buckmoth, Bogbean (*Hemileuca* sp.)<br />- <i>Hémileucin du ményanthe</i>
 
+Bumble Bee, Gypsy Cuckoo (*Bombus bohemicus*)<br />- <i>Psithyre bohémien</i>
+
 Bumble Bee, Rusty-patched (*Bombus affinis*)<br />- <i>Bourdon à tache rousse</i>
 
 Checkerspot, Taylor’s (*Euphydryas editha taylori*)<br />- <i>Damier de Taylor</i>
@@ -2916,6 +2916,8 @@ Clubtail, Riverine (*Stylurus amnicola*) Great Lakes Plains population<br />- <i
 Clubtail, Skillet (*Gomphus ventricosus*)<br />- <i>Gomphe ventru</i>
 
 Crawling Water Beetle, Hungerford’s (*Brychius hungerfordi*)<br />- <i>Haliplide de Hungerford</i>
+
+Cuckoo Bee, Macropis (*Epeoloides pilosulus*)<br />- <i>Abeille-coucou de Macropis</i>
 
 Diving Beetle, Bert’s Predaceous (*Sanfilippodytes bertae*)<br />- <i>Hydropore de Bertha</i>
 
@@ -3184,6 +3186,8 @@ Moss, Poor Pocket (*Fissidens pauperculus*)<br />- <i>Fissident appauvri</i>
 
 Moss, Rigid Apple (*Bartramia stricta*)<br />- <i>Bartramie à feuilles dressées</i>
 
+Moss, Roell’s Brotherella (*Brotherella roellii*)<br />- <i>Brotherelle de Ro‌ell</i>
+
 Moss, Silver Hair (*Fabronia pusilla*)<br />- <i>Fabronie naine</i>
 
 Moss, Spoon-leaved (*Bryoandersonia illecebra*)<br />- <i>Andersonie charmante</i>
@@ -3253,6 +3257,8 @@ Meadowlark, Eastern (*Sturnella magna*)<br />- <i>Sturnelle des prés</i>
 Murrelet, Marbled (*Brachyramphus marmoratus*)<br />- <i>Guillemot marbré</i>
 
 Nighthawk, Common (*Chordeiles minor*)<br />- <i>Engoulevent d’Amérique</i>
+
+Owl, Barn (*Tyto alba*) Western population<br />- <i>Effraie des clochers population de l’Ouest</i>
 
 Owl *brooksi* subspecies, Northern Saw-whet (*Aegolius acadicus brooksi*)<br />- <i>Petite Nyctale de la sous-espèce brooksi</i>
 
@@ -3382,6 +3388,10 @@ Flower Moth, Verna’s (*Schinia verna*)<br />- <i>Héliotin de Verna</i>
 Skipper, Dun (*Euphyes vestris*) Western population<br />- <i>Hespérie rurale population de l’Ouest</i>
 
 Skipperling, Poweshiek (*Oarisma poweshiek*)<br />- <i>Hespérie de Poweshiek</i>
+
+Sweat Bee, Sable Island (*Lasioglossum sablense*)<br />- <i>Halicte de l’île de Sable</i>
+
+Tiger Beetle, Audouin’s Night-stalking (*Omus audouini*)<br />- <i>Cicindèle d’Audouin</i>
 
 Tiger Beetle, Gibson’s Big Sand (*Cicindela formosa gibsoni*)<br />- <i>Cicindèle à grandes taches de Gibson</i>
 
@@ -3517,6 +3527,8 @@ Badger *taxus* subspecies, American (*Taxidea taxus taxus*)<br />- <i>Blaireau d
 
 Bat, Spotted (*Euderma maculatum*)<br />- <i>Oreillard maculé</i>
 
+Bear, Grizzly (*Ursus arctos*) Western population<br />- <i>Ours grizzli population de l’Ouest</i>
+
 Bear, Polar (*Ursus maritimus*)<br />- <i>Ours blanc</i>
 
 Beaver, Mountain (*Aplodontia rufa*)<br />- <i>Castor de montagne</i>
@@ -3553,6 +3565,8 @@ Whale, Sowerby’s Beaked (Mesoplodon bidens)<br />- <i>Baleine à bec de Sowerb
 
 Wolf, Eastern (*Canis lupus lycaon*)<br />- <i>Loup de l’Est</i>
 
+Wolverine (*Gulo gulo*)<br />- <i>Carcajou</i>
+
 
 
 
@@ -3583,8 +3597,6 @@ Knot *islandica* subspecies, Red (*Calidris canutus islandica*)<br />- <i>Bécas
 Longspur, McCown’s (*Calcarius mccownii*)<br />- <i>Bruant de McCown</i>
 
 Murrelet, Ancient (*Synthliboramphus antiquus*)<br />- <i>Guillemot à cou blanc </i>
-
-Owl, Barn (*Tyto alba*) Western population<br />- <i>Effraie des clochers population de l’Ouest</i>
 
 Owl, Flammulated (*Otus flammeolus*)<br />- <i>Petit-duc nain</i>
 
@@ -3625,7 +3637,9 @@ Salamander, Western Tiger (*Ambystoma mavortium*) Prairie/Boreal population<br /
 
 Toad, Great Plains (*Anaxyrus cognatus*)<br />- <i>Crapaud des steppes</i>
 
-Toad, Western (*Anaxyrus boreas*)<br />- <i>Crapaud de l’Ouest</i>
+Toad, Western (*Anaxyrus boreas*) Calling population<br />- <i>Crapaud de l’Ouest population chantante</i>
+
+Toad, Western (*Anaxyrus boreas*) Non-calling population<br />- <i>Crapaud de l’Ouest population non-chantante</i>
 
 
 
@@ -3742,6 +3756,8 @@ Vertigo, Threaded (*Nearctula* sp.)<br />- <i>Vertigo à crêtes fines</i>
 
 
 ##### Arthropods
+
+Bumble Bee, Yellow-banded (*Bombus terricola*)<br />- <i>Bourdon terricole</i>
 
 Grasshopper, Greenish-white (*Hypochlora alba*)<br />- <i>Criquet de l’armoise</i>
 
@@ -3873,7 +3889,7 @@ Lichen, Peacock Vinyl (*Leptogium polycarpum*)<br />- <i>Leptoge à quatre spore
 Waterfan, Western (*Peltigera gowardii*)<br />- <i>Peltigère éventail d’eau de l’Ouest</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112.
 
 
 
