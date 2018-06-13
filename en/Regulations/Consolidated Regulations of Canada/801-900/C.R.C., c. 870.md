@@ -25095,9 +25095,7 @@ and only the L forms of the amino acids have been added.
 
 ***antibiotic*** means any drug or combination of drugs such as those named in C.01.410 to C.01.592 which is prepared from certain micro-organisms, or which formerly was prepared from micro-organisms but is now made synthetically and which possesses inhibitory action on the growth of other micro-organisms; (*antibiotique*)
 
-***authorization holder*** means, in respect of a drug,
-- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug; and
-- **(b)** in the case of a drug that is listed in Schedule C to the Act, the manufacturer to whom a notice of compliance in respect of the drug was issued under section C.08.004 or C.08.004.01; (*titulaire de l’autorisation*)
+***authorization holder***[Repealed, SOR/2017-259, s. 1]
 
 ***brand name*** means, with reference to a drug, the name, whether or not including the name of any manufacturer, corporation, partnership or individual, in English or French,
 - **(a)** that is assigned to the drug by its manufacturer,
@@ -25114,7 +25112,7 @@ and only the L forms of the amino acids have been added.
 - **(a)** commonly known, and
 - **(b)** designated in scientific or technical journals, other than the publications referred to in Schedule B to the Act; (*nom usuel*)
 
-***discontinue*** means, in respect of the sale of a drug by the authorization holder for the drug, to permanently cease the sale of the drug; (*cesser*)
+***discontinue*** means, in respect of the sale of a drug by the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug, to permanently cease the sale of the drug; (*cesser*)
 
 ***expiration date*** means
 - **(a)** in the case of a drug in dosage form, the earlier of the following dates, expressed at minimum as a year and month:
@@ -25199,7 +25197,7 @@ and only the L forms of the amino acids have been added.
 			- **(B)** where the package is designed so that, once opened and reclosed, it continues to meet the requirements of subparagraph (i), can be so reclosed by at least 90 per cent of those adults; or
 	- **(b)** complies with the requirements of one of the following standards, namely,
 		- **(i)** Canadian Standards Association Standard CAN/CSA-Z76.1-M90, entitled Recloseable Child-Resistant Packages, published January 1990, as amended from time to time,
-		- **(ii)** European Standard EN 28317:1992, entitled Child-resistant packaging—Requirements and testing procedures for reclosable packages, as adopted by the European Committee for Standardization on October 30, 1992, recognized by the British Standards Institution, and effective February 15, 1993 and by the Association française de normalisation, and effective December 20, 1992, and which reiterates fully the international standard ISO 8317:1989, as amended from time to time, and
+		- **(ii)** European Standard EN 28317:1992, entitled Child-resistant packaging — Requirements and testing procedures for reclosable packages, as adopted by the European Committee for Standardization on October 30, 1992, recognized by the British Standards Institution, and effective February 15, 1993 and by the Association française de normalisation, and effective December 20, 1992, and which reiterates fully the international standard ISO 8317:1989, as amended from time to time, and
 		- **(iii)** Code of Federal Regulations (United States), Title 16, Section 1700.15, entitled Poison prevention packaging standards, as amended from time to time.
 
 - **(3)** For the purposes of this section, test group means
@@ -25213,7 +25211,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1; SOR/2017-76, s. 1; SOR/2017-133, s. 1.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1; SOR/2017-76, s. 1; SOR/2017-133, s. 1; SOR/2017-259, s. 1.
 
 
 
@@ -26003,7 +26001,7 @@ and only the L forms of the amino acids have been added.
 
 **C.01.005** 
 
-- **(1)** The principal display panel of both the inner and outer label of a drug sold in dosage form shall show in a clear and legible manner the drug identification number assigned by the Minister for that drug pursuant to subsection C.01.014.2(1), preceded by the words “Drug Identification Number” or “*Drogue : identification numérique*” or both, or the letters “DIN”.
+- **(1)** The principal display panel of both the inner label and outer label of a drug in dosage form shall show the drug identification number assigned for that drug, preceded by the expression “Drug Identification Number” or “*Drogue : identification numérique*”, or both, or the abbreviation “DIN”.
 
 - **(2)** Subsection (1) does not apply to a drug
 	- **(a)** compounded by a pharmacist pursuant to a prescription or by a practitioner; or
@@ -26015,7 +26013,7 @@ and only the L forms of the amino acids have been added.
 - **(3)** For the purposes of this section and section C.01.014, ***a drug in dosage form*** means a drug in a form in which it is ready for use by the consumer without requiring any further manufacturing.
 
 - **(4) and (5)** [Repealed, SOR/81-248, s. 1]
-> SOR/81-248, s. 1; SOR/93-202, s. 3; SOR/98-423, s. 2; SOR/2001-181, s. 4; SOR/2018-69, s. 27.
+> SOR/81-248, s. 1; SOR/93-202, s. 3; SOR/98-423, s. 2; SOR/2001-181, s. 4; SOR/2017-259, s. 2; SOR/2018-69, s. 27.
 
 
 
@@ -26097,15 +26095,15 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 
 - **(1)** No manufacturer shall sell a drug in dosage form unless a drug identification number has been assigned for that drug and the assignment of the number has not been cancelled pursuant to section C.01.014.6.
 
-- **(2)** Subsection (1) does not apply in respect of a drug that is listed in Schedule C to the Act or a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md).
-> SOR/81-248, s. 2; SOR/97-12, s. 3; SOR/2013-179, s. 1.
+- **(2)** Subsection (1) does not apply in respect of a veterinary health product, a study drug as defined in section C.03.301 or a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md).
+> SOR/81-248, s. 2; SOR/97-12, s. 3; SOR/2013-179, s. 1; SOR/2017-259, s. 3.
 
 
 
 
 **C.01.014.1** 
 
-- **(1)** A manufacturer of a drug, a person authorized by a manufacturer or, in the case of a drug to be imported into Canada, the importer of the drug may make an application for a drug identification number for that drug.
+- **(1)** A manufacturer of a drug may make an application for a drug identification number for that drug.
 
 - **(2)** An application under subsection (1) shall be made to the Minister in writing and shall include the following information and material:
 	- **(a)** the name of the manufacturer of the drug as it will appear on the label;
@@ -26123,34 +26121,30 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 	- **(m)** in the case of a drug for veterinary use, the written text of every label to be used in connection with the drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug;
 	- **(m.1)** in the case of a drug for human use, mock-ups of every label to be used in connection with the drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug — and mock-ups of the drug’s packages;
 	- **(n)** the name and title of the person who signed the application and the date of signature; and
-	- **(o)** in the case of a drug for human use, an assessment as to whether there is a likelihood that the drug will be mistaken for any of the following products due to a resemblance between the brand name that is proposed to be used in respect of the drug and the brand name, common name or proper name of any of those products:
-		- **(i)** a drug in respect of which a drug identification number has been assigned,
-		- **(ii)** a radiopharmaceutical, as defined in section C.03.201, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
-		- **(iii)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01.
+	- **(o)** in the case of a drug for human use, an assessment as to whether there is a likelihood that the drug will be mistaken for another drug for which a drug identification number has been assigned due to a resemblance between the brand name that is proposed to be used in respect of the drug and the brand name, common name or proper name of the other drug.
 
 - **(3)** In the case of a new drug, a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission filed under section C.08.002, C.08.002.01 or C.08.002.1 shall be regarded as an application for a drug identification number.
-> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2; SOR/2014-158, s. 7; SOR/2018-69, ss. 27, 33(F).
+> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2; SOR/2014-158, s. 7; SOR/2017-259, s. 4; SOR/2018-69, ss. 27, 33(F).
 
 
 
 
 **C.01.014.2** 
 
-- **(1)** Subject to subsection (2), if a manufacturer or importer has provided all the information described in subsection C.01.014.1(2) or section C.08.002, C.08.002.01 or C.08.002.1, as the case may be, in respect of a drug, the Minister shall issue to the manufacturer or importer a document that
+- **(1)** Subject to subsection (2), if a manufacturer has provided all the information and material described in subsection C.01.014.1(2) or section C.08.002, C.08.002.01 or C.08.002.1, as the case may be, in respect of a drug, the Minister shall issue to the manufacturer a document that
 	- **(a)** sets out
-		- **(i)** the drug identification number assigned for the drug, preceded by the letters “DIN”, or
-		- **(ii)** if there are two or more brand names for the drug, the drug identification numbers assigned by the Minister for the drug, each of which pertains to one of the brand names and is preceded by the letters “DIN”; and
+		- **(i)** the drug identification number assigned for the drug, preceded by the abbreviation “DIN”, or
+		- **(ii)** if there are two or more brand names for the drug, the drug identification numbers assigned by the Minister for the drug, each of which pertains to one of the brand names and is preceded by the abbreviation “DIN”; and
 	- **(b)** contains the information referred to in paragraphs C.01.014.1(2)(a) to (f).
 
-- **(2)** Where the Minister believes on reasonable grounds that a product in respect of which an application referred to in section C.01.014.1 has been made
+- **(2)** The Minister may refuse to issue the document referred to in subsection (1) if he or she has reasonable grounds to believe that the product in respect of which an application referred to in section C.01.014.1 has been made
 	- **(a)** is not a drug, or
-	- **(b)** is a drug but that its sale would cause injury to the health of the consumer or purchaser or would be a violation of the Act or these Regulations,
-he or she may refuse to issue the document referred to in subsection (1).
+	- **(b)** is a drug but its sale would cause injury to the health of the purchaser or consumer or would be a contravention of the Act or these Regulations.
 
-- **(3)** Where the Minister, pursuant to subsection (2), refuses to issue the document, the applicant may submit additional information and request the Minister to reconsider his or her decision.
+- **(3)** If the Minister refuses to issue the document under subsection (2), the manufacturer may submit additional information or material and request the Minister to reconsider his or her decision.
 
-- **(4)** On the basis of the additional information submitted pursuant to subsection (3), the Minister shall reconsider the grounds on which the refusal to issue the document was made.
-> SOR/81-248, s. 2; SOR/92-230, s. 1; SOR/98-423, s. 4; SOR/2011-88, s. 3; SOR/2018-69, ss. 16, 27.
+- **(4)** On the basis of the additional information or material submitted under subsection (3), the Minister shall reconsider the grounds on which the refusal to issue the document was made.
+> SOR/81-248, s. 2; SOR/92-230, s. 1; SOR/98-423, s. 4; SOR/2011-88, s. 3; SOR/2017-259, s. 5; SOR/2018-69, ss. 16, 27, 37.
 
 
 
@@ -26167,8 +26161,8 @@ he or she may refuse to issue the document referred to in subsection (1).
 
 
 
-**C.01.014.3** The manufacturer or importer, as the case may be, or a person authorized by the manufacturer or importer, shall, within 30 days after the day on which the drug is first sold in Canada, date and sign the document referred to in subsection C.01.014.2(1) and return it with a statement set out on it that the information it contains is correct and with an indication of the date on which the drug was first sold in Canada.
-> SOR/81-248, s. 2; SOR/98-423, s. 5; SOR/2014-158, s. 8.
+**C.01.014.3** The manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, within 30 days after the day on which the drug is first sold following the issuance by the Minister of the document, date and sign the document and return it to the Minister with a statement set out on it that the information it contains is correct and with an indication of the date of that first sale.
+> SOR/81-248, s. 2; SOR/98-423, s. 5; SOR/2014-158, s. 8; SOR/2017-259, s. 6; SOR/2018-69, s. 38.
 
 
 
@@ -26185,8 +26179,18 @@ he or she may refuse to issue the document referred to in subsection (1).
 
 
 
-**C.01.014.5** Every manufacturer of a drug shall, annually before the first day of October and in a form authorized by the Minister, furnish the Minister with a notification signed by the manufacturer or by a person authorized to sign on his behalf, confirming that all the information previously supplied by the manufacturer with respect to that drug is correct.
-> SOR/81-248, s. 2; SOR/2018-69, s. 27.
+**C.01.014.5** 
+
+- **(1)** The manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, annually before the first day of October and in a form established by the Minister, provide the Minister with a notification that is signed by them and that
+	- **(a)** indicates whether any of the following circumstances apply in respect of the drug:
+		- **(i)** as of the day on which the notification is sent,
+			- **(A)** the manufacturer sells the drug in Canada, or
+			- **(B)** the manufacturer has discontinued the sale of the drug in Canada, or
+		- **(ii)** the manufacturer has not sold the drug in Canada for a period that is greater than 12 months and a portion of that period is covered by the notification; and
+	- **(b)** subject to subsection (2), confirms that the information that the manufacturer previously submitted with respect to the drug under subsection C.01.014.1(2), paragraph C.01.014.4(b) or section C.08.002, C.08.002.01, C.08.002.1 or C.08.003, as the case may be, is correct as of the day on which the notification is sent.
+
+- **(2)** If any of the information that the manufacturer submitted under a provision referred to in paragraph (1)(b) is not correct as of the day on which the notification is sent, the manufacturer shall update that information in the notification.
+> SOR/81-248, s. 2; SOR/2017-259, s. 7; SOR/2018-69, ss. 27, 39.
 
 
 
@@ -26194,7 +26198,7 @@ he or she may refuse to issue the document referred to in subsection (1).
 **C.01.014.6** 
 
 - **(1)** The Minister shall cancel the assignment of a drug identification number for a drug if
-	- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number advises under section C.01.014.7 that they discontinued the sale of the drug; or
+	- **(a)** the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number advises under section C.01.014.7 that they discontinued the sale of the drug; or
 	- **(c)** the Minister determines that the product for which the drug identification number has been assigned is not a drug.
 
 - **(2)** The Minister may cancel the assignment of a drug identification number for a drug if
@@ -26209,7 +26213,7 @@ he or she may refuse to issue the document referred to in subsection (1).
 - **(4)** For greater certainty, the Minister’s power to cancel the assignment of a drug identification number
 	- **(a)** under paragraph (2)(b) is not affected by his or her power to cancel the assignment of such a number under subsection (3); and
 	- **(b)** under subsection (3) is not affected by his or her power to cancel the assignment of such a number under paragraph (2)(b).
-> SOR/81-248, s. 2; SOR/2016-139, s. 3; SOR/2018-69, s. 27; SOR/2018-84, s. 1.
+> SOR/81-248, s. 2; SOR/2016-139, s. 3; SOR/2017-259, s. 7; SOR/2018-69, ss. 27, 39; SOR/2018-84, ss. 1, 13.
 
 
 
@@ -26218,36 +26222,46 @@ he or she may refuse to issue the document referred to in subsection (1).
 #### Shortages of Drugs and Interruption and Discontinuation of Sale of Drugs
 
 
-**C.01.014.7** The person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, within 30 days after the day on which they discontinue the sale of the drug, submit the following information to the Minister:
-- **(a)** the drug identification number assigned for the drug under that subsection;
-- **(b)** the date on which the person discontinued the sale of the drug; and
-- **(c)** the latest expiration date of the drug that the person sold and the lot number of that drug.
-> SOR/81-248, s. 2; SOR/2016-139, s. 5.
+**C.01.014.7** The manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, within 30 days after the day on which they discontinue the sale of the drug, submit the following information to the Minister:
+- **(a)** the drug identification number assigned for the drug;
+- **(b)** the date on which the manufacturer discontinued the sale of the drug; and
+- **(c)** the latest expiration date of the drug that the manufacturer sold and the lot number of that drug.
+> SOR/81-248, s. 2; SOR/2016-139, s. 5; SOR/2017-259, s. 8.
 
 
 
 
-**C.01.014.8** The following definitions apply in this section and in sections C.01.014.9 to C.01.014.12.
+**C.01.014.71** If a period of 12 months has elapsed since the day on which the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug as defined in section C.01.014.8 last sold the drug, the manufacturer shall so notify the Minister in writing within 30 days after the day on which that period ends.
+> SOR/2017-259, s. 8.
 
-***drug*** means
-- **(a)** any of the following drugs for human use in respect of which a drug identification number was assigned under subsection C.01.014.2(1):
-	- **(i)** drugs included in Schedule I, II, III, IV or V to the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md),
-	- **(ii)** prescription drugs,
-	- **(iii)** drugs that are listed in Schedule D to the Act, and
-	- **(iv)** drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner; or
-- **(b)** a drug that is listed in Schedule C to the Act. (*drogue*)
 
-***shortage*** means a situation in which an authorization holder for a drug is unable to meet the demand for the drug. (*pénurie*)
-> SOR/2016-139, s. 5; SOR/2018-69, s. 17.
+
+
+**C.01.014.72** If the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug resumes the sale of the drug after a period of 12 months has elapsed since the day on which they last sold the drug, the manufacturer shall so notify the Minister in writing within 30 days after the day on which they resume the sale of the drug.
+> SOR/2017-259, s. 8.
+
+
+
+
+**C.01.014.8** The following definitions apply in this section and in sections C.01.014.9 and C.01.014.10.
+
+***drug*** means any of the following drugs for human use for which a drug identification number has been assigned:
+- **(a)** drugs included in Schedule I, II, III, IV or V to the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+- **(b)** prescription drugs;
+- **(c)** drugs that are listed in Schedule C or D to the Act; and
+- **(d)** drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner. (*drogue*)
+
+***shortage*** means, in respect of a drug, a situation in which the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug is unable to meet the demand for the drug. (*pénurie*)
+> SOR/2016-139, s. 5; SOR/2017-259, s. 8; SOR/2018-69, ss. 17, 40.
 
 
 
 
 **C.01.014.9** 
 
-- **(1)** If a shortage of a drug exists or is likely to occur, the authorization holder for the drug shall post the following information in English and French on a website that is operated by a party for that purpose with whom Her Majesty in right of Canada has entered into a contract to make that information available to the public:
-	- **(a)** the authorization holder’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
-	- **(b)** the drug identification number assigned for the drug under subsection C.01.014.2(1), if applicable;
+- **(1)** If a shortage of a drug exists or is likely to occur, the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug shall post the following information in English and French on a website that is operated by a party for that purpose with whom Her Majesty in right of Canada has entered into a contract to make that information available to the public:
+	- **(a)** the manufacturer’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
+	- **(b)** the drug identification number assigned for the drug;
 	- **(c)** the drug’s brand name and proper name or, if it does not have a proper name, its common name;
 	- **(d)** the proper names of the drug’s medicinal ingredients or, if they do not have proper names, their common names;
 	- **(e)** the drug’s therapeutic classification according to the Anatomical Therapeutic Chemical classification system (ATC), established by the World Health Organization Collaborating Centre for Drug Statistics Methodology — namely the level 3 description of, and level 4 code for, the drug;
@@ -26256,27 +26270,27 @@ he or she may refuse to issue the document referred to in subsection (1).
 	- **(h)** the quantity of the drug contained in its package;
 	- **(i)** the drug’s route of administration;
 	- **(j)** the date when the shortage began or is anticipated to begin;
-	- **(k)** the anticipated date when the authorization holder will be able to meet the demand for the drug, if the authorization holder can anticipate that date; and
+	- **(k)** the anticipated date when the manufacturer will be able to meet the demand for the drug, if they can anticipate that date; and
 	- **(l)** the actual or anticipated reason for the shortage.
 
-- **(2)** The authorization holder shall post the information
+- **(2)** The manufacturer shall post the information
 	- **(a)** if they anticipate that a shortage will begin in more than six months, at least six months before the day on which they anticipate it to begin;
 	- **(b)** if they anticipate that a shortage will begin in six months or less, within five days after the day on which they anticipate it; or
 	- **(c)** if they did not anticipate the shortage, within five days after the day on which they become aware of it.
 
-- **(3)** If any of the information that was posted by an authorization holder changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
+- **(3)** If any of the information that was posted by the manufacturer changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
 
-- **(4)** Within two days after the day on which the authorization holder is able to meet the demand for the drug, they shall post information on the website to that effect.
-> SOR/2016-139, s. 5.
+- **(4)** Within two days after the day on which the manufacturer is able to meet the demand for the drug, they shall post information on the website to that effect.
+> SOR/2016-139, s. 5; SOR/2017-259, s. 9.
 
 
 
 
 **C.01.014.10** 
 
-- **(1)** If an authorization holder for a drug decides to discontinue the sale of the drug, they shall post the following information in English and French on the website referred to in subsection C.01.014.9(1):
-	- **(a)** the authorization holder’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
-	- **(b)** the drug identification number assigned for that drug under subsection C.01.014.2(1), if applicable;
+- **(1)** If the manufacturer to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug decides to discontinue the sale of the drug, they shall post the following information in English and French on the website referred to in subsection C.01.014.9(1):
+	- **(a)** the manufacturer’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
+	- **(b)** the drug identification number assigned for the drug;
 	- **(c)** the drug’s brand name and proper name or, if it does not have a proper name, its common name;
 	- **(d)** the proper names of the drug’s medicinal ingredients or, if they do not have proper names, their common names;
 	- **(e)** the drug’s therapeutic classification according to the Anatomical Therapeutic Chemical classification system (ATC), established by the World Health Organization Collaborating Centre for Drug Statistics Methodology — namely the level 3 description of, and level 4 code for, the drug;
@@ -26284,38 +26298,30 @@ he or she may refuse to issue the document referred to in subsection (1).
 	- **(g)** the drug’s dosage form;
 	- **(h)** the quantity of the drug contained in its package;
 	- **(i)** the drug’s route of administration;
-	- **(j)** the date on which the authorization holder will discontinue the sale of the drug; and
+	- **(j)** the date on which the manufacturer will discontinue the sale of the drug; and
 	- **(k)** the reason for the discontinuation of sale.
 
-- **(2)** The authorization holder shall post the information
+- **(2)** The manufacturer shall post the information
 	- **(a)** if they decide to discontinue the sale of the drug in more than six months, at least six months before the day on which they will discontinue its sale; and
 	- **(b)** if they decide to discontinue the sale of the drug in six months or less, within five days after the day on which that decision is made.
 
-- **(3)** If any of the information that was posted by an authorization holder changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
-> SOR/2016-139, s. 5.
+- **(3)** If any of the information that was posted by the manufacturer changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
+> SOR/2016-139, s. 5; SOR/2017-259, s. 10.
 
 
 
 
-**C.01.014.11** The Minister shall maintain a hyperlink to the website referred to in subsection C.01.014.9(1) on the Department of Health website.
-> SOR/2016-139, s. 5.
+**C.01.014.11** The Minister shall ensure that a hyperlink to the website referred to in subsection C.01.014.9(1) is on the Government of Canada website.
+> SOR/2016-139, s. 5; SOR/2017-259, s. 11.
 
 
 
 
-**C.01.014.12** 
-
-- **(1)** If a period of 12 months has elapsed since an authorization holder for a drug last sold the drug, they shall notify the Minister of that fact within 30 days after the day on which that period ends.
-
-- **(2)** The authorization holder shall, within 30 days after the day on which they resume the sale of the drug, notify the Minister of that fact.
-> SOR/2016-139, s. 5.
+**C.01.014.12** [Repealed, SOR/2017-259, s. 11]
 
 
 
-
-**C.01.014.13** Sections C.01.014 to C.01.014.7 do not apply in respect of a veterinary health product.
-> SOR/2017-76, s. 3.
-
+**C.01.014.13** [Repealed, SOR/2017-259, s. 11]
 
 
 
@@ -28560,9 +28566,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 **C.01A.003** This Division and Divisions 2 to 4 apply to the following distributors:
-- **(a)** a distributor of an active ingredient or a drug in dosage form that is listed in Schedule C to the Act; and
+- **(a)** a distributor of an active ingredient; and
 - **(b)** a distributor of a drug for which the distributor holds the drug identification number.
-> SOR/97-12, s. 5; SOR/2002-368, s. 2; SOR/2013-74, s. 3.
+> SOR/97-12, s. 5; SOR/2002-368, s. 2; SOR/2013-74, s. 3; SOR/2017-259, s. 12.
 
 
 
@@ -28576,13 +28582,13 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(1)** Subject to subsection (2), no person shall, except in accordance with an establishment licence,
 	- **(a)** fabricate, package/label or import a drug;
 	- **(b)** perform the tests, including examinations, required under Division 2;
-	- **(c)** distribute a drug as set out in section C.01A.003 that is not an active pharmaceutical ingredient; or
-	- **(d)** wholesale a drug that is not an active pharmaceutical ingredient.
+	- **(c)** distribute as a distributor referred to in section C.01A.003 a drug that is not an active pharmaceutical ingredient or an active ingredient that is used in the fabrication of a drug that is of non-biological origin and that is listed in Schedule C to the Act; or
+	- **(d)** wholesale a drug that is not an active pharmaceutical ingredient or an active ingredient that is used in the fabrication of a drug that is of non-biological origin and that is listed in Schedule C to the Act.
 
 - **(2)** A person does not require an establishment licence to perform tests under Division 2 if the person holds an establishment licence as a fabricator, a packager/labeller, a distributor referred to in paragraph C.01A.003(b) or an importer.
 
 - **(3)** No person shall carry on an activity referred to in subsection (1) in respect of a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or a controlled drug as defined in subsection G.01.001(1) unless the person holds a licence for that narcotic or drug under the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or Part G of these Regulations, as the case may be.
-> SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4.
+> SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4; SOR/2017-259, s. 13.
 
 
 
@@ -28693,11 +28699,11 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>4</td>
-<td>Distribute as set out in paragraph C.01A.003(a) a drug that is not an active pharmaceutical ingredient</td>
+<td>Distribute as a distributor referred to in paragraph C.01A.003(a) an active ingredient that is not an active pharmaceutical ingredient or an active ingredient that is used in the fabrication of a drug that is of non-biological origin and that is listed in Schedule C to the Act</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Distribute as set out in paragraph C.01A.003(b)</td>
+<td>Distribute as a distributor referred to in paragraph C.01A.003(b)</td>
 </tr>
 <tr>
 <td>6</td>
@@ -28705,7 +28711,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>7</td>
-<td>Wholesale a drug that is not an active pharmaceutical ingredient</td>
+<td>Wholesale a drug that is not an active pharmaceutical ingredient or an active ingredient that is used in the fabrication of a drug that is of non-biological origin and that is listed in Schedule C to the Act</td>
 </tr>
 </table>
 
@@ -28749,7 +28755,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 </table>
 
-> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9.
+> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9; SOR/2017-259, s. 14.
 
 
 
@@ -29338,7 +29344,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 **C.02.020** 
 
 - **(1)** Every fabricator, packager/labeller, distributor referred to in paragraph C.01A.003(b) and importer shall maintain all of the following records on their premises in Canada for each drug that they fabricate, package/label, distribute or import:
-	- **(a)** except in the case of an importer of an active pharmaceutical ingredient, master production documents for the drug;
+	- **(a)** except in the case of an importer of an active pharmaceutical ingredient or an active ingredient that is used in the fabrication of a drug that is of non-biological origin and that is listed in Schedule C to the Act, master production documents for the drug;
 	- **(b)** evidence that each lot or batch of the drug has been fabricated, packaged/labelled, tested and stored in accordance with the procedures described in the master production documents;
 	- **(c)** evidence that the conditions under which the drug was fabricated, packaged/labelled, tested and stored are in compliance with the requirements of this Division;
 	- **(d)** evidence that establishes the period during which the drug in the container in which it is sold or made available for further use in fabrication will meet the specifications for that drug; and
@@ -29353,7 +29359,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(5)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada detailed plans and specifications of each building in Canada where they fabricate, package/label or test drugs and a description of the design and construction of those buildings.
 
 - **(6)** Every fabricator, packager/labeller and tester shall maintain on their premises in Canada personnel records in respect of each person who is employed to supervise the fabrication, packaging/labelling and testing of drugs, including the person’s title, responsibilities, qualifications, experience and training.
-> SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60; SOR/2013-74, s. 11; SOR/2018-69, s. 27.
+> SOR/82-524, s. 3; SOR/89-174, ss. 3(F), 8(F); SOR/97-12, ss. 17, 52, 60; SOR/2013-74, s. 11; SOR/2017-259, s. 15; SOR/2018-69, s. 27.
 
 
 
@@ -29602,14 +29608,15 @@ where the radioactive daughter is separated from its parent by
 - **(1)** Every package containing a radiopharmaceutical, other than a radionuclide generator, shall carry,
 	- **(a)** on both the inner and the outer labels,
 		- **(i)** the proper name of the drug, which proper name, where there is a brand name, shall immediately precede or follow the brand name,
-		- **(ii)** the name of the distributor referred to in paragraph C.01A.003(b), and
-		- **(iii)** the lot number; and
+		- **(ii)** the name of the distributor referred to in paragraph C.01A.003(b),
+		- **(iii)** the lot number, and
+		- **(iv)** the drug identification number assigned for the radiopharmaceutical, preceded by the expression “Drug Identification Number” or “*Drogue : identification numérique*”, or both, or the abbreviation “DIN”; and
 	- **(b)** on the outer label
 		- **(i)** the address of the distributor referred to in paragraph C.01A.003(b),
 		- **(ii)** the standard that the drug professes to meet, if that standard is referred to in any publication mentioned in Schedule B to the Act,
 		- **(iii)** a statement of the pharmaceutical form or the route of administration of the drug,
 		- **(iv)** a statement of the recommended use and the recommended radioactivity to be administered for that use, or a reference to an accompanying package insert that shows such information,
-		- **(v)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof,
+		- **(v)** [Repealed, SOR/2017-259, s. 16]
 		- **(vi)** the radiation warning symbol set out in Schedule 3 to the [Radiation Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/203.md) and the words “*RAYONNEMENT* — DANGER — RADIATION”,
 		- **(vii)** the names and a statement of the amounts of any preservatives or stabilizing agents contained in the drug,
 		- **(viii)** the names and a statement of the amounts of all other non-radioactive contents of the drug,
@@ -29623,12 +29630,17 @@ where the radioactive daughter is separated from its parent by
 		- **(xiv)** a statement of the recommended useful life or the date after which the drug is not recommended for use, the name of the month being written or designated by letter abbreviation, and
 		- **(xv)** a statement of the special storage requirements with reference to temperature and light.
 
-- **(2)** [Repealed, SOR/2001-203, s. 2]
+- **(2)** Subparagraph (1)(a)(iv) does not apply to a radiopharmaceutical that is
+	- **(a)** compounded by a pharmacist under a prescription or by a practitioner; or
+	- **(b)** sold under a prescription, if the radiopharmaceutical’s label indicates
+		- **(i)** its proper name, common name or brand name,
+		- **(ii)** its potency, and
+		- **(iii)** the name of its manufacturer.
 
 - **(3)** Subparagraph (1)(b)(viii) of this section does not apply where the information referred to in that subparagraph is shown on a package insert that accompanies the drug.
 
 - **(4)** Section C.01.005 does not apply to a radiopharmaceutical.
-> SOR/79-236, s. 2; SOR/93-202, s. 16; SOR/97-12, ss. 54, 58, 62; SOR/2001-203, s. 2; SOR/2012-129, s. 2; SOR/2018-69, s. 35(F).
+> SOR/79-236, s. 2; SOR/93-202, s. 16; SOR/97-12, ss. 54, 58, 62; SOR/2001-203, s. 2; SOR/2012-129, s. 2; SOR/2017-259, s. 16; SOR/2018-69, s. 35(F).
 
 
 
@@ -29640,7 +29652,7 @@ where the radioactive daughter is separated from its parent by
 	- **(b)** the name and address of the distributor referred to in paragraph C.01A.003(b);
 	- **(c)** the lot number;
 	- **(d)** the standard that the radionuclide generator professes to meet, if that standard is referred to in any publication mentioned in Schedule B to the Act;
-	- **(e)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof;
+	- **(e)** the drug identification number assigned for the radionuclide generator, preceded by the expression “Drug Identification Number” or “*Drogue : identification numérique*”, or both, or the abbreviation “DIN”;
 	- **(f)** the radiation warning symbol set out in Schedule 3 to the [Radiation Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/203.md) and the words “*RAYONNEMENT* — DANGER — RADIATION”;
 	- **(g)** a statement of the total parent radioactivity contained in the radionuclide generator;
 	- **(h)** a statement of the hour and date at which the radioactivity value mentioned in paragraph (g) is valid, the name of the month being written or designated by letter abbreviation;
@@ -29651,7 +29663,9 @@ where the radioactive daughter is separated from its parent by
 	- **(m)** a statement cautioning against the dismantling of the radionuclide generator.
 
 - **(2)** Paragraphs (1)(i) and (j) of this section do not apply where the information referred to in those subparagraphs is shown on a package insert that accompanies the radionuclide generator.
-> SOR/79-236, s. 3; SOR/93-202, s. 17; SOR/97-12, ss. 54, 58, 62; SOR/2012-129, s. 3; SOR/2018-69, ss. 21(F), 22(F).
+
+- **(3)** Section C.01.005 does not apply to a radionuclide generator.
+> SOR/79-236, s. 3; SOR/93-202, s. 17; SOR/97-12, ss. 54, 58, 62; SOR/2012-129, s. 3; SOR/2017-259, s. 17; SOR/2018-69, ss. 21(F), 22(F).
 
 
 
@@ -29668,18 +29682,20 @@ where the radioactive daughter is separated from its parent by
 
 
 #### Drugs, Other than Radionuclides, Sold or Represented for Use in the Preparation of Radiopharmaceuticals
+> [SOR/2017-259, s. 18(F)]
 
 
-**C.03.205** For the purposes of sections C.03.206 to C.03.209,
 
-***component*** means
-- **(a)** a unit of a drug, other than a radionuclide, separately packaged in a kit for use in the preparation of a radiopharmaceutical, or
-- **(b)** an empty vial or other accessory item in a kit; (*constituant*)
+**C.03.205** The following definitions apply in this section and in sections C.03.206 to C.03.209.
 
-***kit*** means a package
-- **(a)** that contains one or more separately packaged units of a drug, other than a radionuclide, and
-- **(b)** that may contain empty vials or other accessory items, for use in the preparation of radiopharmaceuticals. (*trousse*)
-> SOR/79-236, s. 4.
+***component*** means
+- **(a)** a unit of a drug, other than a radionuclide, separately packaged in a kit; or
+- **(b)** an empty vial or other accessory item in a kit. (*constituant*)
+
+***kit*** means a package that is intended to be used in the preparation of radiopharmaceuticals and that
+- **(a)** contains one or more separately packaged units of a drug, other than a radionuclide; and
+- **(b)** may contain empty vials or other accessory items. (*trousse*)
+> SOR/79-236, s. 4; SOR/2017-259, s. 19.
 
 
 
@@ -29690,15 +29706,19 @@ where the radioactive daughter is separated from its parent by
 
 
 
-**C.03.207** Every component shall be labelled to show
-- **(a)** adequate identification of the component and an adequate description of its function;
-- **(b)** where applicable, a quantitative list of its ingredients or a reference to the label of the kit that shows such information;
-- **(c)** the name of the distributor referred to in paragraph C.01A.003(b);
-- **(d)** the lot number;
-- **(e)** a statement of any special storage requirements with respect to temperature and light;
-- **(f)** the date after which the component is not recommended for use, the name of the month being written in full or designated by letter abbreviation; and
-- **(g)** adequate directions for use or a reference to the accompanying package insert that shows such directions.
-> SOR/79-236, s. 4; SOR/97-12, s. 58; SOR/2018-69, s. 23(F).
+**C.03.207** 
+
+- **(1)** Every component shall be labelled to show
+	- **(a)** adequate identification of the component and an adequate description of its function;
+	- **(b)** where applicable, a quantitative list of its ingredients or a reference to the label of the kit that shows such information;
+	- **(c)** the name of the distributor referred to in paragraph C.01A.003(b);
+	- **(d)** the lot number;
+	- **(e)** a statement of any special storage requirements with respect to temperature and light;
+	- **(f)** the date after which the component is not recommended for use, the name of the month being written in full or designated by letter abbreviation; and
+	- **(g)** adequate directions for use or a reference to the accompanying package insert that shows such directions.
+
+- **(2)** The component of a kit that is intended to contain the prepared radiopharmaceutical shall be labelled to display the drug identification number assigned for the kit, preceded by the expression “Drug Identification Number” or “*Drogue : identification numérique*”, or both, or the abbreviation “DIN”.
+> SOR/79-236, s. 4; SOR/97-12, s. 58; SOR/2017-259, s. 20; SOR/2018-69, s. 23(F).
 
 
 
@@ -29708,7 +29728,7 @@ where the radioactive daughter is separated from its parent by
 - **(b)** its brand name, if any;
 - **(c)** a list of its contents;
 - **(d)** the name and address of the distributor referred to in paragraph C.01A.003(b);
-- **(e)** the establishment licence number of the distributor preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof;
+- **(e)** the drug identification number assigned for the kit, preceded by the expression “Drug Identification Number” or “*Drogue : identification numérique*”, or both, or the abbreviation “DIN”;
 - **(f)** the lot number;
 - **(g)** a statement of any special storage requirements with respect to temperature and light;
 - **(h)** the date after which the kit is not recommended for use, the name of the month being written in full or designated by letter abbreviation;
@@ -29720,7 +29740,7 @@ where the radioactive daughter is separated from its parent by
 - **(n)** a statement of the recommended use for the prepared radiopharmaceutical and the recommended radioactivity to be administered for that use, or a reference to the accompanying package insert that shows such information; and
 - **(o)** a statement of the route of administration of the prepared radiopharmaceutical.
 - **(p)** [Repealed, SOR/2001-203, s. 3]
-> SOR/79-236, s. 4; SOR/93-202, s. 18; SOR/97-12, ss. 58, 62; SOR/2001-203, s. 3; SOR/2018-69, s. 36(F).
+> SOR/79-236, s. 4; SOR/93-202, s. 18; SOR/97-12, ss. 58, 62; SOR/2001-203, s. 3; SOR/2017-259, s. 21; SOR/2018-69, s. 36(F).
 
 
 
@@ -32812,17 +32832,14 @@ and if unpurified anterior pituitary extract
 	- **(l)** a description of the dosage form in which it is proposed that the new drug be sold;
 	- **(m)** evidence that all test batches of the new drug used in any studies conducted in connection with the submission were manufactured and controlled in a manner that is representative of market production;
 	- **(n)** in the case of a new drug intended for administration to food-producing animals, the withdrawal period of the new drug; and
-	- **(o)** in the case of a new drug for human use, an assessment as to whether there is a likelihood that the new drug will be mistaken for any of the following products due to a resemblance between the brand name that is proposed to be used in respect of the new drug and the brand name, common name or proper name of any of those products:
-		- **(i)** a drug in respect of which a drug identification number has been assigned,
-		- **(ii)** a radiopharmaceutical, as defined in section C.03.201, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
-		- **(iii)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01.
+	- **(o)** in the case of a new drug for human use, an assessment as to whether there is a likelihood that the new drug will be mistaken for another drug for which a drug identification number has been assigned due to a resemblance between the brand name that is proposed to be used in respect of the new drug and the brand name, common name or proper name of the other drug.
 
 - **(3)** The manufacturer of a new drug shall, at the request of the Minister, provide the Minister, where for the purposes of a new drug submission the Minister considers it necessary to assess the safety and effectiveness of the new drug, with the following information and material:
 	- **(a)** the names and addresses of the manufacturers of each of the ingredients of the new drug and the names and addresses of the manufacturers of the new drug in the dosage form in which it is proposed that the new drug be sold;
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
-	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
-> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10; SOR/2018-69, s. 33(F); SOR/2018-84, s. 8(F).
+	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug.
+> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10; SOR/2017-259, s. 22; SOR/2018-69, s. 33(F); SOR/2018-84, s. 8(F).
 
 
 
@@ -32936,14 +32953,11 @@ and if unpurified anterior pituitary extract
 		- **(i)** in the case of a new drug for veterinary use, a draft of every label to be used in connection with the new drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug, or
 		- **(ii)** in the case of a new drug for human use, mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages; or
 	- **(b)** if the supplement concerns the brand name of a new drug for human use:
-		- **(i)** an assessment as to whether there is a likelihood that the new drug will be mistaken for any of the following products due to a resemblance between the brand name that is proposed to be used in respect of the new drug and the brand name, common name or proper name of any of those products:
-			- **(A)** a drug in respect of which a drug identification number has been assigned,
-			- **(B)** a radiopharmaceutical, as defined in section C.03.201, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
-			- **(C)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
+		- **(i)** an assessment as to whether there is a likelihood that the new drug will be mistaken for another drug for which a drug identification number has been assigned due to a resemblance between the brand name that is proposed to be used in respect of the new drug and the brand name, common name or proper name of the other drug, and
 		- **(ii)** mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages.
 
 - **(4)** If a supplement to an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission concerns a matter specified in subparagraph (2)(h)(iii), the supplement shall contain the attestation and supporting information referred to in paragraph C.08.002.01(2)(a).
-> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13; SOR/2018-69, s. 33(F); SOR/2018-84, s. 9(F).
+> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13; SOR/2017-259, s. 23; SOR/2018-69, s. 33(F); SOR/2018-84, s. 9(F).
 
 
 
