@@ -25069,7 +25069,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***antibiotique*** désigne toute drogue ou tout mélange de drogues, tels que ceux qui figurent aux articles C.01.410 à C.01.592, lesquels sont préparés à partir de certains microorganismes, ou l’ont été antérieurement, mais sont maintenant fabriqués par synthèse, et sont doués de propriétés inhibitrices de la croissance d’autres microorganismes; (*antibiotic*)
 
-***cesser*** S’entend, à l’égard de la vente d’une drogue par le titulaire de l’autorisation relative à cette drogue, du fait d’abandonner définitivement la vente de la drogue; (*discontinue*)
+***cesser*** S’entend, à l’égard de la vente d’une drogue par le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue, du fait d’abandonner définitivement la vente de la drogue; (*discontinue*)
 
 ***cuillerée à thé*** désigne, aux fins du calcul d’une dose, un volume de cinq centimètres cubes; (*teaspoon*)
 
@@ -25159,9 +25159,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 - **a)** d’une part, est autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de technicien en pharmacie;
 - **b)** d’autre part, exerce la profession de technicien en pharmacie dans cette province; (*pharmacy technician*)
 
-***titulaire de l’autorisation*** S’entend, à l’égard d’une drogue :
-- **a)** de la personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue;
-- **b)** dans le cas d’une drogue visée à l’annexe C de la Loi, du fabricant auquel un avis de conformité a été délivré à l’égard de la drogue en application des articles C.08.004 ou C.08.004.01; (*authorization holder*)
+***titulaire de l’autorisation***[Abrogée, DORS/2017-259, art. 1]
 
 ***usage interne*** signifie l’absorption par la bouche ou l’application, en vue d’une action fonctionnelle, à toute partie du corps dans laquelle ladite drogue vient en contact avec une muqueuse; (*internal use*)
 
@@ -25179,8 +25177,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 			- **(B)** s’il s’agit d’un emballage conçu pour être refermé de façon à répondre aux exigences du sous-alinéa (i), peut être ainsi refermé par au moins 90 pour cent de ces adultes;
 	- **b)** soit est conforme à l’une des normes suivantes :
 		- **(i)** la norme CAN/CSA-Z76.1-M90 de l’Association canadienne de normalisation intitulée Emballages de sécurité réutilisables pour enfants, publiée en janvier 1990, compte tenu de ses modifications successives,
-		- **(ii)** la norme européenne EN 28317 : 1992 intitulée Emballages à l’épreuve des enfants — Exigences et méthodes d’essai pour emballages refermables, adoptée par le Comité européen de normalisation le 30 octobre 1992 et homologuée par l’Association française de normalisation le 20 décembre 1992 et par la *British Standards Institution* le 15 février 1993, qui reproduit intégralement la norme internationale ISO 8317 : 1989, compte tenu de ses modifications successives,
-		- **(iii)** l’article 1700.15 intitulé Poison prevention packaging standards, titre 16, du Code of Federal Regulations des États-Unis, compte tenu de ses modifications successives.
+		- **(ii)** la norme européenne EN 28317 : 1992 intitulée Emballages à l’épreuve des enfants — Exigences et méthodes d’essai pour emballages refermables, adoptée par le Comité européen de normalisation le 30 octobre 1992 et homologuée par l’Association française de normalisation le 20 décembre 1992 et par la *British Standards Institution* le 15 février 1993, qui reproduit intégralement la norme internationale ISO 8317 : 1989, compte tenu de ses modifications successives,
+		- **(iii)** l’article 1700.15 intitulé Poison prevention packaging standards, titre 16, du *Code of Federal Regulations* des États-Unis, compte tenu de ses modifications successives.
 
 - **(3)** Pour l’application du présent article, le groupe d’essai est constitué :
 	- **a)** dans le cas des enfants, d’au moins 200 enfants qui :
@@ -25193,7 +25191,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** représentent dans une égale proportion, avec une marge de plus ou moins 10 pour cent, les divers âges, exprimés en années, de 18 à 45 ans, calculés à l’année près.
 
 - **(4)** Pour l’application du présent article, les modifications successives des normes visées à l’alinéa (2)b) entrent en vigueur à l’expiration du délai de 18 mois suivant la date désignée par l’autorité compétente comme étant celle de leur entrée en vigueur.
-> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1; DORS/2017-76, art. 1; DORS/2017-133, art. 1.
+> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1; DORS/2017-76, art. 1; DORS/2017-133, art. 1; DORS/2017-259, art. 1.
 
 
 
@@ -25983,7 +25981,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **C.01.005** 
 
-- **(1)** L’espace principal des étiquettes intérieure et extérieure d’une drogue vendue sous forme posologique doit indiquer clairement et lisiblement l’identification numérique que lui a attribuée le ministre conformément au paragraphe C.01.014.2(1), précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* » ou des deux, ou de l’abréviation « DIN ».
+- **(1)** L’espace principal de l’étiquette intérieure et de l’étiquette extérieure d’une drogue sous forme posologique indique l’identification numérique attribuée à la drogue, précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* », ou des deux, ou de l’abréviation « DIN ».
 
 - **(2)** Le paragraphe (1) ne s’applique pas à une drogue
 	- **a)** préparée par un pharmacien, conformément à une ordonnance, ou par un praticien; ou
@@ -25995,7 +25993,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 - **(3)** Aux fins du présent article et de l’article C.01.014, une ***drogue sous sa forme posologique*** s’entend d’une drogue prête pour la consommation sans autre transformation.
 
 - **(4) et (5)** [Abrogés, DORS/81-248, art. 1]
-> DORS/81-248, art. 1; DORS/93-202, art. 3; DORS/98-423, art. 2; DORS/2001-181, art. 4; DORS/2018-69, art. 27.
+> DORS/81-248, art. 1; DORS/93-202, art. 3; DORS/98-423, art. 2; DORS/2001-181, art. 4; DORS/2017-259, art. 2; DORS/2018-69, art. 27.
 
 
 
@@ -26077,15 +26075,15 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 - **(1)** Il est interdit à un fabricant de vendre, sous forme posologique, une drogue qui n’a pas fait l’objet d’une identification numérique, ou dont l’identification a été annulée selon l’article C.01.014.6.
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux drogues visées à l’annexe C de la Loi ni aux aliments médicamentés au sens du paragraphe 2(1) du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md).
-> DORS/81-248, art. 2; DORS/97-12, art. 3; DORS/2013-179, art. 1.
+- **(2)** Le paragraphe (1) ne s’applique pas au produit de santé animale, à la drogue destinée à l’étude au sens de l’article C.03.301, ni à l’aliment médicamenté au sens du paragraphe 2(1) du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md).
+> DORS/81-248, art. 2; DORS/97-12, art. 3; DORS/2013-179, art. 1; DORS/2017-259, art. 3.
 
 
 
 
 **C.01.014.1** 
 
-- **(1)** Le fabricant d’une drogue, une personne autorisée par lui ou, dans le cas d’une drogue devant être importée au Canada, l’importateur de la drogue, peut présenter une demande d’identification numérique pour cette drogue.
+- **(1)** Le fabricant d’une drogue peut présenter une demande d’identification numérique pour cette drogue.
 
 - **(2)** La demande d’identification numérique est présentée au ministre par écrit et contient les renseignements et le matériel suivants :
 	- **a)** le nom du fabricant de la drogue, tel qu’il figurera sur l’étiquette;
@@ -26103,33 +26101,30 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 	- **m)** dans le cas d’une drogue pour usage vétérinaire, le libellé de toute étiquette à utiliser relativement à la drogue, y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande;
 	- **m.1)** dans le cas d’une drogue pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue;
 	- **n)** les nom et titre de la personne ayant signé la demande, ainsi que la date de signature;
-	- **o)** dans le cas d’une drogue pour usage humain, une appréciation de la question de savoir si la drogue est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
-		- **(i)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
-		- **(ii)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
-		- **(iii)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01.
+	- **o)** dans le cas d’une drogue pour usage humain, une appréciation de la question de savoir si la drogue est susceptible d’être confondue avec une autre drogue à laquelle une identification numérique a été attribuée en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour la drogue avec la marque nominative, le nom usuel ou le nom propre de l’autre drogue.
 
 - **(3)** Dans le cas d’une drogue nouvelle, la présentation de drogue nouvelle, la présentation de drogue nouvelle pour usage exceptionnel, la présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel déposée en vertu des articles C.08.002, C.08.002.01 ou C.08.002.1 tient lieu de demande d’identification numérique.
-> DORS/81-248, art. 2; DORS/93-202, art. 4; DORS/98-423, art. 3; DORS/2011-88, art. 2; DORS/2014-158, art. 7; DORS/2018-69, art. 27 et 33(F).
+> DORS/81-248, art. 2; DORS/93-202, art. 4; DORS/98-423, art. 3; DORS/2011-88, art. 2; DORS/2014-158, art. 7; DORS/2017-259, art. 4; DORS/2018-69, art. 27 et 33(F).
 
 
 
 
 **C.01.014.2** 
 
-- **(1)** Sous réserve du paragraphe (2), sur réception des renseignements visés au paragraphe C.01.014.1(2) ou aux articles C.08.002, C.08.002.01 ou C.08.002.1, selon le cas, le ministre remet au fabricant ou à l’importateur un document qui :
+- **(1)** Sous réserve du paragraphe (2), sur réception des renseignements et du matériel visés au paragraphe C.01.014.1(2) ou aux articles C.08.002, C.08.002.01 ou C.08.002.1, selon le cas, fournis par le fabricant à l’égard d’une drogue, le ministre délivre à ce dernier un document qui :
 	- **a)** indique :
-		- **(i)** soit l'identification numérique attribuée à la drogue, précédée de l'abréviation « DIN »,
-		- **(ii)** soit, si la drogue a deux marques nominatives ou plus, les identifications numériques attribuées à celle-ci par le ministre, dont chacune correspond à une marque nominative et est précédée de l'abréviation « DIN »;
+		- **(i)** soit l’identification numérique attribuée à la drogue, précédée de l’abréviation « DIN »,
+		- **(ii)** soit, si la drogue a deux marques nominatives ou plus, les identifications numériques attribuées à celle-ci par le ministre, dont chacune correspond à une marque nominative et est précédée de l’abréviation « DIN »;
 	- **b)** comporte les renseignements visés aux alinéas C.01.014.1(2)a) à f).
 
-- **(2)** Le ministre peut refuser de remettre le document visé au paragraphe (1) s’il a de bonnes raisons de croire que le produit faisant l’objet d’une demande visée à l’article C.01.014.1 :
+- **(2)** Le ministre peut refuser de délivrer le document prévu au paragraphe (1) s’il a des motifs raisonnables de croire que le produit faisant l’objet d’une demande visée à l’article C.01.014.1 :
 	- **a)** n’est pas une drogue;
-	- **b)** est une drogue dont la vente nuirait à la santé du consommateur ou de l’acheteur ou enfreindrait la Loi ou le présent règlement.
+	- **b)** est une drogue dont la vente causerait un préjudice à la santé de l’acheteur ou du consommateur ou contreviendrait à la Loi ou au présent règlement.
 
-- **(3)** Lorsque le ministre refuse, selon le paragraphe (2), de remettre le document, le requérant peut fournir des renseignements supplémentaires et lui demander de reconsidérer sa décision.
+- **(3)** Lorsque le ministre refuse, en vertu du paragraphe (2), de délivrer le document, le fabricant peut fournir des renseignements et du matériel supplémentaires et lui demander de reconsidérer sa décision.
 
-- **(4)** Le ministre doit reconsidérer sa décision de refuser de remettre le document, en fonction des renseignements supplémentaires fournis conformément au paragraphe (3).
-> DORS/81-248, art. 2; DORS/92-230, art. 1; DORS/98-423, art. 4; DORS/2011-88, art. 3; DORS/2018-69, art. 16 et 27.
+- **(4)** Le ministre reconsidère sa décision de refuser de délivrer le document en fonction des renseignements et du matériel supplémentaires fournis en vertu du paragraphe (3).
+> DORS/81-248, art. 2; DORS/92-230, art. 1; DORS/98-423, art. 4; DORS/2011-88, art. 3; DORS/2017-259, art. 5; DORS/2018-69, art. 16, 27 et 37.
 
 
 
@@ -26146,8 +26141,8 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
-**C.01.014.3** Dans les trente jours suivant la date de la mise en marché de la drogue au Canada, le fabricant ou l’importateur, selon le cas, ou la personne autorisée par lui, date et signe le document visé au paragraphe C.01.014.2(1), l’annote en y incluant une déclaration que les renseignements qu’il contient sont exacts ainsi qu’une mention de la date de cette mise en marché, et le renvoie.
-> DORS/81-248, art. 2; DORS/98-423, art. 5; DORS/2014-158, art. 8.
+**C.01.014.3** Dans les trente jours suivant la date de la première vente de la drogue après que le ministre a délivré au fabricant le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue, le fabricant date et signe le document, l’annote en y incluant une déclaration portant que les renseignements qu’il contient sont exacts ainsi qu’une mention de la date de cette première vente, et le renvoie au ministre.
+> DORS/81-248, art. 2; DORS/98-423, art. 5; DORS/2014-158, art. 8; DORS/2017-259, art. 6; DORS/2018-69, art. 38.
 
 
 
@@ -26164,31 +26159,41 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
-**C.01.014.5** Le fabricant d’une drogue doit fournir au ministre, avant le premier octobre de chaque année et selon la forme autorisée par le ministre, une déclaration signée par lui-même ou en son nom par une personne autorisée, attestant que tous les renseignements qu’il a présentés jusqu’alors au sujet de la drogue sont toujours exacts.
-> DORS/81-248, art. 2; DORS/2018-69, art. 27.
+**C.01.014.5** 
+
+- **(1)** Le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue fournit au ministre, avant le 1<sup>er</sup> octobre de chaque année et en la forme établie par ce dernier, un avis qu’il signe et dans lequel :
+	- **a)** il indique si l’une des circonstances ci-après s’applique à l’égard de la drogue :
+		- **(i)** à la date d’envoi de l’avis :
+			- **(A)** soit il vend la drogue au Canada,
+			- **(B)** soit il a cessé la vente de la drogue au Canada,
+		- **(ii)** il n’a pas vendu la drogue au Canada durant une période de plus de douze mois et une partie de cette période est visée par l’avis;
+	- **b)** sous réserve du paragraphe (2), il confirme que les renseignements qu’il a présentés jusqu’alors au sujet de la drogue en application du paragraphe C.01.014.1(2), de l’alinéa C.01.014.4b) ou des articles C.08.002, C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, sont exacts à la date d’envoi de l’avis.
+
+- **(2)** Si l’un des renseignements qu’il a présentés en application d’une disposition visée à l’alinéa (1)b) n’est pas exact à la date d’envoi de l’avis, le fabricant met le renseignement à jour dans cet avis.
+> DORS/81-248, art. 2; DORS/2017-259, art. 7; DORS/2018-69, art. 27 et 39.
 
 
 
 
 **C.01.014.6** 
 
-- **(1)** Le ministre annule l’identification numérique d’une drogue dans les cas suivants :
-	- **a)** la personne à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique l’informe, en application de l’article C.01.014.7, qu’elle a cessé la vente de la drogue;
+- **(1)** Le ministre annule l’identification numérique attribuée à une drogue dans les cas suivants :
+	- **a)** le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique signale, en application de l’article C.01.014.7, qu’il a cessé la vente de la drogue;
 	- **c)** le ministre conclut que le produit auquel l’identification numérique a été attribuée n’est pas une drogue.
 
-- **(2)** Le ministre peut annuler l’identification numérique d’une drogue dans les cas suivants :
-	- **a)** le fabricant à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique contrevient à l’article C.01.014.5;
-	- **b)** le fabricant à qui a été remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique a été avisé, en application de l’article C.01.013, que les preuves qu’il a fournies concernant la drogue sont insuffisantes;
+- **(2)** Le ministre peut annuler l’identification numérique attribuée à une drogue dans les cas suivants :
+	- **a)** le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique contrevient à l’article C.01.014.5;
+	- **b)** le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique a été avisé, en application de l’article C.01.013, que les preuves qu’il a fournies concernant la drogue sont insuffisantes;
 	- **c)** la drogue est une drogue nouvelle pour laquelle l’avis de conformité a été suspendu en vertu de l’article C.08.006.
 
-- **(3)** Le ministre peut annuler l’identification numérique d’une drogue si, après qu’il a ordonné en vertu de l’article 21.31 de la Loi au titulaire d’une autorisation relative à un produit thérapeutique visée aux sous-alinéas C.01.052(1)b)(i) ou (iii) d’effectuer une évaluation de la drogue en vue de fournir des preuves établissant que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé :
+- **(3)** Le ministre peut annuler l’identification numérique attribuée à une drogue si, après qu’il a ordonné en vertu de l’article 21.31 de la Loi au titulaire d’une autorisation relative à un produit thérapeutique visée aux sous-alinéas C.01.052(1)b)(i) ou (iii) d’effectuer une évaluation de la drogue en vue de fournir des preuves établissant que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé :
 	- **a)** le titulaire ne se conforme pas à l’ordre;
 	- **b)** le titulaire se conforme à l’ordre, mais le ministre conclut que les résultats de l’évaluation sont insuffisants pour établir que les bénéfices liés à la drogue l’emportent sur les risques de préjudice à la santé.
 
 - **(4)** Il est entendu que le pouvoir du ministre d’annuler l’identification numérique attribuée à une drogue :
 	- **a)** en vertu de l’alinéa (2)b) n’a pas d’incidence sur son pouvoir d’annuler une telle identification en vertu du paragraphe (3);
 	- **b)** en vertu du paragraphe (3) n’a pas d’incidence sur son pouvoir d’annuler une telle identification en vertu de l’alinéa (2)b).
-> DORS/81-248, art. 2; DORS/2016-139, art. 3; DORS/2018-69, art. 27; DORS/2018-84, art. 1.
+> DORS/81-248, art. 2; DORS/2016-139, art. 3; DORS/2017-259, art. 7; DORS/2018-69, art. 27 et 39; DORS/2018-84, art. 1 et 13.
 
 
 
@@ -26197,36 +26202,46 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 #### Pénuries de drogues et interruption et cessation de la vente de drogues
 
 
-**C.01.014.7** La personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue fournit au ministre, dans les trente jours suivant la cessation de la vente de cette drogue, les renseignements suivants :
-- **a)** l’identification numérique attribuée à la drogue en application de ce paragraphe;
-- **b)** la date à laquelle elle a cessé la vente de la drogue;
-- **c)** la date limite d’utilisation la plus tardive attribuée à la drogue qu’elle a vendue et le numéro de lot de celle-ci.
-> DORS/81-248, art. 2; DORS/2016-139, art. 5.
+**C.01.014.7** Le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue fournit au ministre, dans les trente jours suivant la cessation de la vente de cette drogue, les renseignements suivants :
+- **a)** l’identification numérique attribuée à la drogue;
+- **b)** la date à laquelle il a cessé la vente de la drogue;
+- **c)** la date limite d’utilisation la plus tardive attribuée à la drogue qu’il a vendue et le numéro de lot de celle-ci.
+> DORS/81-248, art. 2; DORS/2016-139, art. 5; DORS/2017-259, art. 8.
 
 
 
 
-**C.01.014.8** Les définitions qui suivent s’appliquent au présent article et aux articles C.01.014.9 à C.01.014.12.
+**C.01.014.71** Si douze mois se sont écoulés depuis le jour où il a procédé à la dernière vente d’une drogue au sens de l’article C.01.014.8, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue en avise le ministre par écrit dans les trente jours suivant la fin de cette période.
+> DORS/2017-259, art. 8.
 
-***drogue*** S’entend :
-- **a)** soit de l’une des drogues pour usage humain ci-après auxquelles une identification numérique a été attribuée en application du paragraphe C.01.014.2(1) :
-	- **(i)** les drogues inscrites aux annexes I, II, III, IV ou V de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md),
-	- **(ii)** les drogues sur ordonnance,
-	- **(iii)** les drogues visées à l’annexe D de la Loi,
-	- **(iv)** les drogues qui peuvent être vendues sans ordonnance mais à administrer uniquement sous la surveillance d’un praticien;
-- **b)** soit de l’une des drogues visées à l’annexe C de la Loi. (*drug*)
 
-***pénurie*** Situation où le titulaire de l’autorisation relative à une drogue est incapable de répondre à la demande pour cette drogue. (*shortage*)
-> DORS/2016-139, art. 5; DORS/2018-69, art. 17.
+
+
+**C.01.014.72** S’il recommence à vendre la drogue après que douze mois se sont écoulés depuis le jour où il a procédé à la dernière vente de la drogue, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue en avise le ministre par écrit dans les trente jours suivant la date à laquelle il recommence à vendre la drogue.
+> DORS/2017-259, art. 8.
+
+
+
+
+**C.01.014.8** Les définitions qui suivent s’appliquent au présent article et aux articles C.01.014.9 et C.01.014.10.
+
+***drogue*** S’entend de l’une des drogues pour usage humain ci-après auxquelles une identification numérique a été attribuée :
+- **a)** les drogues inscrites aux annexes I, II, III, IV ou V de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+- **b)** les drogues sur ordonnance;
+- **c)** les drogues visées aux annexes C ou D de la Loi;
+- **d)** les drogues qui peuvent être vendues sans ordonnance mais à administrer uniquement sous la surveillance d’un praticien. (*drug*)
+
+***pénurie*** S’entend, à l’égard d’une drogue, d’une situation où le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue est incapable de répondre à la demande pour la drogue. (*shortage*)
+> DORS/2016-139, art. 5; DORS/2017-259, art. 8; DORS/2018-69, art. 17 et 40.
 
 
 
 
 **C.01.014.9** 
 
-- **(1)** S’il y a pénurie ou probabilité de pénurie d’une drogue, le titulaire de l’autorisation relative à la drogue affiche les renseignements ci-après, en français et en anglais, sur un site Web exploité à cette fin par un contractant avec lequel Sa Majesté du chef du Canada a conclu un contrat pour rendre cette information disponible au public :
-	- **a)** son nom et son numéro de téléphone, son adresse électronique, son adresse de site Web, son adresse postale ou tout autre renseignement permettant de communiquer avec lui;
-	- **b)** l’identification numérique attribuée à la drogue en application du paragraphe C.01.014.2(1), s’il y a lieu;
+- **(1)** S’il y a pénurie ou probabilité de pénurie d’une drogue, le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue affiche les renseignements ci-après, en français et en anglais, sur un site Web exploité à cette fin par un contractant avec lequel Sa Majesté du chef du Canada a conclu un contrat pour rendre cette information disponible au public :
+	- **a)** son nom, ainsi que ses numéro de téléphone, adresse électronique, adresse de site Web ou adresse postale ou tout autre renseignement permettant de communiquer avec lui;
+	- **b)** l’identification numérique attribuée à la drogue;
 	- **c)** la marque nominative de la drogue et son nom propre ou, à défaut, son nom usuel;
 	- **d)** le nom propre des ingrédients médicinaux de la drogue ou, à défaut, leur nom usuel;
 	- **e)** la classification thérapeutique de la drogue dans le système de classification anatomique, thérapeutique et chimique (ATC), établi par le Centre collaborateur de l’Organisation mondiale de la Santé pour la méthodologie sur l’établissement des statistiques concernant les produits médicamenteux, à savoir sa description de niveau 3 et son code de niveau 4;
@@ -26235,27 +26250,27 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 	- **h)** la quantité de drogue contenue dans l’emballage;
 	- **i)** la voie d’administration de la drogue;
 	- **j)** la date réelle ou prévue du début de la pénurie;
-	- **k)** la date à laquelle il est prévu que le titulaire de l’autorisation sera capable de répondre à la demande pour la drogue, dans la mesure où ce dernier peut prévoir une telle date;
+	- **k)** la date à laquelle il est prévu que le fabricant sera capable de répondre à la demande pour la drogue, dans la mesure où ce dernier peut prévoir une telle date;
 	- **l)** la raison réelle ou prévue de la pénurie.
 
-- **(2)** Le titulaire de l’autorisation affiche les renseignements :
+- **(2)** Le fabricant affiche les renseignements :
 	- **a)** s’il prévoit que la pénurie débutera dans plus de six mois, au moins six mois avant la date à laquelle il prévoit que la pénurie débutera;
 	- **b)** s’il prévoit que la pénurie débutera dans six mois ou moins, dans les cinq jours qui suivent la date où il établit cette prévision;
 	- **c)** s’il n’a pas prévu la pénurie, dans les cinq jours qui suivent la date où il en constate l’existence.
 
-- **(3)** Si les renseignements affichés changent, le titulaire de l’autorisation les met à jour sur le site Web dans les deux jours qui suivent la date à laquelle il fait ou constate le changement.
+- **(3)** Si les renseignements affichés changent, le fabricant les met à jour sur le site Web dans les deux jours suivant la date à laquelle il fait ou constate le changement.
 
-- **(4)** Dans les deux jours qui suivent la date à laquelle il est capable de répondre à la demande pour la drogue, le titulaire de l’autorisation le signale sur le site Web.
-> DORS/2016-139, art. 5.
+- **(4)** Dans les deux jours suivant la date à laquelle il est capable de répondre à la demande pour la drogue, le fabricant le signale sur le site Web.
+> DORS/2016-139, art. 5; DORS/2017-259, art. 9.
 
 
 
 
 **C.01.014.10** 
 
-- **(1)** Si le titulaire de l’autorisation relative à une drogue décide de cesser la vente de cette drogue, il affiche les renseignements ci-après, en français et en anglais, sur le site Web visé au paragraphe C.01.014.9(1) :
-	- **a)** son nom et son numéro de téléphone, son adresse électronique, son adresse de site Web, son adresse postale ou tout autre renseignement permettant de communiquer avec lui;
-	- **b)** l’identification numérique attribuée à la drogue en application du paragraphe C.01.014.2(1), s’il y a lieu;
+- **(1)** Si le fabricant à qui a été délivré le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue décide de cesser la vente de la drogue, il affiche les renseignements ci-après, en français et en anglais, sur le site Web visé au paragraphe C.01.014.9(1) :
+	- **a)** son nom, ainsi que ses numéro de téléphone, adresse électronique, adresse de site Web ou adresse postale ou tout autre renseignement permettant de communiquer avec lui;
+	- **b)** l’identification numérique attribuée à la drogue;
 	- **c)** la marque nominative de la drogue et son nom propre ou, à défaut, son nom usuel;
 	- **d)** le nom propre des ingrédients médicinaux de la drogue ou, à défaut, leur nom usuel;
 	- **e)** la classification thérapeutique de la drogue dans le système de classification anatomique, thérapeutique et chimique (ATC), établi par le Centre collaborateur de l’Organisation mondiale de la Santé pour la méthodologie sur l’établissement des statistiques concernant les produits médicamenteux, à savoir sa description de niveau 3 et son code de niveau 4;
@@ -26263,38 +26278,30 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 	- **g)** la forme posologique de la drogue;
 	- **h)** la quantité de drogue contenue dans l’emballage;
 	- **i)** la voie d’administration de la drogue;
-	- **j)** la date à laquelle le titulaire de l’autorisation cessera la vente de la drogue;
+	- **j)** la date à laquelle le fabricant cessera la vente de la drogue;
 	- **k)** la raison de la cessation de la vente.
 
-- **(2)** Le titulaire de l’autorisation affiche les renseignements :
+- **(2)** Le fabricant affiche les renseignements :
 	- **a)** s’il décide de cesser la vente de la drogue dans plus de six mois, au moins six mois avant la date de la cessation;
 	- **b)** s’il décide de cesser la vente de la drogue dans six mois ou moins, dans les cinq jours qui suivent la date à laquelle il prend cette décision.
 
-- **(3)** Si les renseignements affichés changent, le titulaire de l’autorisation les met à jour sur le site Web dans les deux jours qui suivent la date à laquelle il fait ou constate le changement.
-> DORS/2016-139, art. 5.
+- **(3)** Si les renseignements affichés changent, le fabricant les met à jour sur le site Web dans les deux jours suivant la date à laquelle il fait ou constate le changement.
+> DORS/2016-139, art. 5; DORS/2017-259, art. 10.
 
 
 
 
-**C.01.014.11** Le ministre maintient sur le site Web du ministère de la Santé un hyperlien actualisé menant au site Web visé au paragraphe C.01.014.9(1).
-> DORS/2016-139, art. 5.
+**C.01.014.11** Le ministre veille à ce qu’un hyperlien menant au site Web visé au paragraphe C.01.014.9(1) figure sur le site Web du gouvernement du Canada.
+> DORS/2016-139, art. 5; DORS/2017-259, art. 11.
 
 
 
 
-**C.01.014.12** 
-
-- **(1)** Si douze mois se sont écoulés depuis la date de la dernière vente d’une drogue par le titulaire de l’autorisation relative à cette drogue, ce dernier en avise le ministre dans les trente jours qui suivent la fin de cette période.
-
-- **(2)** S’il recommence à vendre la drogue, le titulaire de l’autorisation en avise le ministre dans les trente jours suivant le début de la vente.
-> DORS/2016-139, art. 5.
+**C.01.014.12** [Abrogé, DORS/2017-259, art. 11]
 
 
 
-
-**C.01.014.13** Les articles C.01.014 à C.01.014.7 ne s’appliquent pas à l’égard des produits de santé animale.
-> DORS/2017-76, art. 3.
-
+**C.01.014.13** [Abrogé, DORS/2017-259, art. 11]
 
 
 
@@ -28513,9 +28520,9 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 
 **C.01A.003** Le présent titre et les titres 2 à 4 s’appliquent aux distributeurs suivants :
-- **a)** le distributeur d’une drogue sous forme posologique visée à l’annexe C de la Loi ou d’un ingrédient actif;
+- **a)** le distributeur d’un ingrédient actif;
 - **b)** celui d’une drogue dont il a obtenu l’identification numérique.
-> DORS/97-12, art. 5; DORS/2002-368, art. 2; DORS/2013-74, art. 3.
+> DORS/97-12, art. 5; DORS/2002-368, art. 2; DORS/2013-74, art. 3; DORS/2017-259, art. 12.
 
 
 
@@ -28529,13 +28536,13 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **(1)** Sous réserve du paragraphe (2), il est interdit, sauf conformément à une licence d’établissement :
 	- **a)** de manufacturer, d’emballer-étiqueter et d’importer une drogue;
 	- **b)** d’effectuer les analyses, y compris les examens, exigées au titre 2;
-	- **c)** de distribuer à titre de distributeur visé à l’article C.01A.003 une drogue autre qu’un ingrédient actif pharmaceutique;
-	- **d)** de vendre en gros une drogue autre qu’un ingrédient actif pharmaceutique.
+	- **c)** de distribuer à titre de distributeur visé à l’article C.01A.003 une drogue autre qu’un ingrédient actif pharmaceutique ou qu’un ingrédient actif utilisé dans la manufacture d’une drogue d’origine non biologique visée à l’annexe C de la Loi;
+	- **d)** de vendre en gros une drogue autre qu’un ingrédient actif pharmaceutique ou qu’un ingrédient actif utilisé dans la manufacture d’une drogue d’origine non biologique visée à l’annexe C de la Loi.
 
 - **(2)** Une personne n’est pas tenue d’être titulaire d’une licence d’établissement pour effectuer les analyses exigées au titre 2 si elle est autorisée par une licence d’établissement à manufacturer, emballer-étiqueter, distribuer à titre de distributeur visé à l’alinéa C.01A.003b) ou importer une drogue.
 
 - **(3)** Il est interdit d’exercer une activité visée au paragraphe (1) à l’égard d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md) ou d’une drogue contrôlée au sens du paragraphe G.01.001(1) du présent règlement à moins d’être titulaire de la licence prévue pour ce stupéfiant ou cette drogue dans le règlement applicable.
-> DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4.
+> DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4; DORS/2017-259, art. 13.
 
 
 
@@ -28646,7 +28653,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 </tr>
 <tr>
 <td>4</td>
-<td>Distribuer à titre de distributeur visé à l’alinéa C.01A.003a) une drogue autre qu’un ingrédient actif pharmaceutique</td>
+<td>Distribuer à titre de distributeur visé à l’alinéa C.01A.003a) un ingrédient actif autre qu’un ingrédient actif pharmaceutique ou qu’un ingrédient actif utilisé dans la manufacture d’une drogue d’origine non biologique visée à l’annexe C de la Loi</td>
 </tr>
 <tr>
 <td>5</td>
@@ -28658,7 +28665,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 </tr>
 <tr>
 <td>7</td>
-<td>Vendre en gros une drogue autre qu’un ingrédient actif pharmaceutique</td>
+<td>Vendre en gros une drogue autre qu’un ingrédient actif pharmaceutique ou qu’un ingrédient actif utilisé dans la manufacture d’une drogue d’origine non biologique visée à l’annexe C de la Loi</td>
 </tr>
 </table>
 
@@ -28702,7 +28709,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 </tr>
 </table>
 
-> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9.
+> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9; DORS/2017-259, art. 14.
 
 
 
@@ -29293,7 +29300,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 **C.02.020** 
 
 - **(1)** Le manufacturier, l’emballeur-étiqueteur, le distributeur visé à l’alinéa C.01A.003b) et l’importateur conservent dans leurs locaux au Canada, pour chaque drogue qu’ils fabriquent, emballent-étiquettent, distribuent ou importent :
-	- **a)** sauf dans le cas de l’importateur d’un ingrédient actif pharmaceutique, des documents-types de production de la drogue;
+	- **a)** sauf dans le cas de l’importateur d’un ingrédient actif pharmaceutique ou d’un ingrédient actif utilisé dans la manufacture d’une drogue d’origine non biologique visée à l’annexe C de la Loi, des documents-types de production de la drogue;
 	- **b)** une preuve attestant que chaque lot ou chaque lot de fabrication de la drogue a été manufacturé, emballé-étiqueté, analysé et entreposé conformément aux méthodes énoncées dans les documents-types de production;
 	- **c)** une preuve attestant que les conditions dans lesquelles la drogue a été manufacturée, emballée-étiquetée, analysée et entreposée sont conformes aux exigences du présent titre;
 	- **d)** une preuve attestant la période pendant laquelle la drogue demeurera conforme aux spécifications établies à son égard dans le contenant dans lequel elle est mise en vente ou rendue disponible pour utilisation ultérieure dans le cadre du processus de manufacture;
@@ -29308,7 +29315,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **(5)** Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada les plans et devis détaillés de chacun des bâtiments au Canada où la drogue est manufacturée, emballée-étiquetée ou analysée ainsi qu’une description de la conception et de la construction de ces bâtiments.
 
 - **(6)** Le manufacturier, l’emballeur-étiqueteur et l’analyste conservent dans leurs locaux au Canada un dossier sur chaque membre de son personnel qui supervise les opérations visant à manufacturer, emballer-étiqueter ou analyser la drogue, notamment son titre, ses responsabilités, ses qualifications, son expérience et sa formation.
-> DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60; DORS/2013-74, art. 11; DORS/2018-69, art. 27.
+> DORS/82-524, art. 3; DORS/89-174, art. 3(F) et 8(F); DORS/97-12, art. 17, 52 et 60; DORS/2013-74, art. 11; DORS/2017-259, art. 15; DORS/2018-69, art. 27.
 
 
 
@@ -29557,14 +29564,15 @@ où l’élément de filiation est séparé de l’élément mère,
 - **(1)** L’emballage d’un produit pharmaceutique radioactif, sauf s’il s’agit d’un générateur de radionucléide, doit porter,
 	- **a)** sur les étiquettes intérieure et extérieure,
 		- **(i)** le nom propre de la drogue, immédiatement avant ou après la marque nominative, le cas échéant,
-		- **(ii)** le nom du distributeur visé à l’alinéa C.01A.003b), et
-		- **(iii)** le numéro de lot; et,
+		- **(ii)** le nom du distributeur visé à l’alinéa C.01A.003b),
+		- **(iii)** le numéro de lot,
+		- **(iv)** l’identification numérique attribuée au produit pharmaceutique radioactif, précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* », ou des deux, ou de l’abréviation « DIN »;
 	- **b)** sur l’étiquette extérieure
 		- **(i)** l’adresse du distributeur visé à l’alinéa C.01A.003b),
 		- **(ii)** la norme à laquelle est censée répondre la drogue, s’il est fait mention de cette norme dans une publication mentionnée à l’annexe B de la Loi,
 		- **(iii)** la mention de la forme pharmaceutique ou de la voie d’administration de la drogue,
 		- **(iv)** la mention de l’emploi recommandé et de la radioactivité qu’il est recommandé d’administrer pour ledit emploi, ou une indication renvoyant à la notice d’accompagnement où figurent les mêmes renseignements,
-		- **(v)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « *Establishment Licence Number* » ou d’une abréviation de cette mention,
+		- **(v)** [Abrogé, DORS/2017-259, art. 16]
 		- **(vi)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »,
 		- **(vii)** les noms et les quantités de tout agent de conservation ou agent stabilisant que contient la drogue,
 		- **(viii)** les noms et les quantités de tous les autres ingrédients non radioactifs de la drogue,
@@ -29578,12 +29586,17 @@ où l’élément de filiation est séparé de l’élément mère,
 		- **(xiv)** la mention de la vie utile recommandée ou la date après laquelle l’emploi de la drogue est déconseillé (le mois étant inscrit ou indiqué en abrégé), et
 		- **(xv)** la mention des conditions de conservation particulières à respecter, avec indication de la température et de la lumière.
 
-- **(2)** [Abrogé, DORS/2001-203, art. 2]
+- **(2)** Le sous-alinéa (1)a)(iv) ne s’applique pas au produit pharmaceutique radioactif qui remplit l’une des conditions suivantes :
+	- **a)** il est préparé par un pharmacien, conformément à une ordonnance, ou par un praticien;
+	- **b)** il est vendu conformément à une ordonnance et son étiquette indique :
+		- **(i)** son nom propre, son nom usuel ou sa marque nominative,
+		- **(ii)** son activité,
+		- **(iii)** le nom de son fabricant.
 
 - **(3)** Le sous-alinéa (1)b)(viii) du présent article, ne s’applique pas lorsque les renseignements mentionnés dans ledit sous-alinéa figurent sur la notice d’accompagnement de la drogue.
 
 - **(4)** L’article C.01.005 ne s’applique pas aux produits pharmaceutiques radioactifs.
-> DORS/79-236, art. 2; DORS/93-202, art. 16; DORS/97-12, art. 54, 58 et 62; DORS/2001-203, art. 2; DORS/2012-129, art. 2; DORS/2018-69, art. 35(F).
+> DORS/79-236, art. 2; DORS/93-202, art. 16; DORS/97-12, art. 54, 58 et 62; DORS/2001-203, art. 2; DORS/2012-129, art. 2; DORS/2017-259, art. 16; DORS/2018-69, art. 35(F).
 
 
 
@@ -29595,7 +29608,7 @@ où l’élément de filiation est séparé de l’élément mère,
 	- **b)** le nom et l’adresse du distributeur visé à l’alinéa C.01A.003b);
 	- **c)** le numéro du lot;
 	- **d)** la norme à laquelle le générateur de radionucléide semble se conformer si cette norme est mentionnée dans une publication visée à l’annexe B de la Loi;
-	- **e)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « *Establishment Licence Number* » ou d’une abréviation de cette mention;
+	- **e)** l’identification numérique attribuée au générateur de radionucléide, précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* », ou des deux, ou de l’abréviation « DIN »;
 	- **f)** le symbole de mise en garde contre les rayonnements figurant à l’annexe 3 du [Règlement sur la radioprotection](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/203.md) et la mention « RAYONNEMENT — DANGER — *RADIATION* »;
 	- **g)** la mention de la totalité de la radioactivité mère contenue dans le générateur de radionucléide;
 	- **h)** la mention de l’heure et la date de validité de la radioactivité visée à l’alinéa g) (le mois étant inscrit ou indiqué en abrégé);
@@ -29606,7 +29619,9 @@ où l’élément de filiation est séparé de l’élément mère,
 	- **m)** une mise en garde contre le démontage du générateur de radionucléide.
 
 - **(2)** Les alinéas (1)i) et j) du présent article ne s’appliquent pas lorsque les renseignements qu’ils exigent apparaissent sur une notice d’accompagnement d’un générateur de radionucléide.
-> DORS/79-236, art. 3; DORS/93-202, art. 17; DORS/97-12, art. 54, 58 et 62; DORS/2012-129, art. 3; DORS/2018-69, art. 21(F) et 22(F).
+
+- **(3)** L’article C.01.005 ne s’applique pas aux générateurs de radionucléide.
+> DORS/79-236, art. 3; DORS/93-202, art. 17; DORS/97-12, art. 54, 58 et 62; DORS/2012-129, art. 3; DORS/2017-259, art. 17; DORS/2018-69, art. 21(F) et 22(F).
 
 
 
@@ -29622,19 +29637,21 @@ où l’élément de filiation est séparé de l’élément mère,
 
 
 
-#### Drogues autres radionucléides, vendues pour être employées dans la préparation de produits pharmaceutiques radioactifs ou représentés comme pouvant servir à cette fin
+#### Drogues, autres que les radionucléides, vendues pour être employées dans la préparation de produits pharmaceutiques radioactifs ou représentées comme pouvant servir à cette fin
+> [DORS/2017-259, art. 18(F)]
 
 
-**C.03.205** Aux fins des articles C.03.206 à C.03.209,
 
-***constituant*** désigne
-- **a)** une unité d’une drogue, autre qu’un radionucléide, emballés séparément dans une trousse pour être employée dans la préparation d’un produit pharmaceutique radioactif ou
-- **b)** un flacon vide ou autre article accessoire dans une trousse; (*component*)
+**C.03.205** Les définitions qui suivent s’appliquent au présent article et aux articles C.03.206 à C.03.209.
 
-***trousse*** désigne un emballage destiné à la préparation de produits pharmaceutiques radioactifs,
-- **a)** qui contient des unités de drogues, autres que des radionucléides, conditionnées séparément, et
-- **b)** qui peut contenir des fioles vides ou autres articles accessoires. (*kit*)
-> DORS/79-236, art. 4.
+***constituant*** S’entend :
+- **a)** soit d’une unité d’une drogue, autre qu’un radionucléide, emballée séparément dans une trousse;
+- **b)** soit d’une fiole vide ou d’un autre article accessoire dans une trousse. (*component*)
+
+***trousse*** Emballage destiné à la préparation de produits pharmaceutiques radioactifs qui :
+- **a)** contient une ou plusieurs unités d’une drogue, autre qu’un radionucléide, emballées séparément;
+- **b)** peut contenir des fioles vides ou d’autres articles accessoires. (*kit*)
+> DORS/79-236, art. 4; DORS/2017-259, art. 19.
 
 
 
@@ -29645,25 +29662,29 @@ où l’élément de filiation est séparé de l’élément mère,
 
 
 
-**C.03.207** L’étiquette devant être apposée sur un constituant doit comprendre
-- **a)** son identification adéquate et une description adéquate de sa fonction;
-- **b)** le cas échéant, une liste quantitative de ses ingrédients ou un renvoi à l’étiquette de la trousse pour de tels renseignements;
-- **c)** le nom du distributeur visé à l’alinéa C.01A.003b);
-- **d)** le numéro de lot;
-- **e)** une déclaration des exigences spéciales d’entreposage quant à la température et la lumière;
-- **f)** la date après laquelle le constituant n’est pas recommandé pour usage, le mois étant inscrit au long ou indiqué en abrégé; et
-- **g)** le mode d’emploi approprié ou le renvoi à une notice d’accompagnement.
-> DORS/79-236, art. 4; DORS/97-12, art. 58; DORS/2018-69, art. 23(F).
+**C.03.207** 
+
+- **(1)** L’étiquette devant être apposée sur un constituant doit comprendre
+	- **a)** son identification adéquate et une description adéquate de sa fonction;
+	- **b)** le cas échéant, une liste quantitative de ses ingrédients ou un renvoi à l’étiquette de la trousse pour de tels renseignements;
+	- **c)** le nom du distributeur visé à l’alinéa C.01A.003b);
+	- **d)** le numéro de lot;
+	- **e)** une déclaration des exigences spéciales d’entreposage quant à la température et la lumière;
+	- **f)** la date après laquelle le constituant n’est pas recommandé pour usage, le mois étant inscrit au long ou indiqué en abrégé; et
+	- **g)** le mode d’emploi approprié ou le renvoi à une notice d’accompagnement.
+
+- **(2)** L’étiquette devant être apposée sur le constituant d’une trousse destiné à contenir le produit pharmaceutique radioactif préparé indique l’identification numérique attribuée à la trousse, précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* », ou des deux, ou de l’abréviation « DIN ».
+> DORS/79-236, art. 4; DORS/97-12, art. 58; DORS/2017-259, art. 20; DORS/2018-69, art. 23(F).
 
 
 
 
-**C.03.208** Chaque trousse doit être étiquetée pour montrer :
+**C.03.208** Chaque trousse doit être étiquetée pour montrer :
 - **a)** son nom propre;
 - **b)** la marque nominative de celle-ci, le cas échéant;
 - **c)** une liste de son contenu;
 - **d)** le nom et l’adresse de son distributeur visé à l’alinéa C.01A.003b);
-- **e)** le numéro de licence d’établissement du distributeur, précédé de la mention « Numéro de licence d’établissement » « *Establishment Licence Number* » ou d’une abréviation de cette mention;
+- **e)** l’identification numérique attribuée à la trousse, précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* », ou des deux, ou de l’abréviation « DIN »;
 - **f)** son numéro de lot;
 - **g)** une déclaration des exigences spéciales d’entreposage quant à la température et la lumière;
 - **h)** la date après laquelle la trousse n’est pas recommandée pour usage, le mois étant inscrit au long ou indiqué en abrégé;
@@ -29675,7 +29696,7 @@ où l’élément de filiation est séparé de l’élément mère,
 - **n)** l’usage recommandé pour le produit pharmaceutique radioactif préparé et la dose de radioactivité recommandée pour cet usage ou le renvoi, pour ces renseignements, à une notice d’accompagnement;
 - **o)** la voie d’administration prévue pour le produit pharmaceutique radioactif préparé.
 - **p)** [Abrogé, DORS/2001-203, art. 3]
-> DORS/79-236, art. 4; DORS/93-202, art. 18; DORS/97-12, art. 58 et 62; DORS/2001-203, art. 3; DORS/2018-69, art. 36(F).
+> DORS/79-236, art. 4; DORS/93-202, art. 18; DORS/97-12, art. 58 et 62; DORS/2001-203, art. 3; DORS/2017-259, art. 21; DORS/2018-69, art. 36(F).
 
 
 
@@ -32734,13 +32755,13 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.08.002** 
 
-- **(1)** Il est interdit de vendre ou d’annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies :
+- **(1)** Il est interdit de vendre ou d’annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies :
 	- **a)** le fabricant de la drogue nouvelle a, relativement à celle-ci, déposé auprès du ministre une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle ou une présentation abrégée de drogue nouvelle pour usage exceptionnel que celui-ci juge acceptable;
 	- **b)** le ministre a délivré au fabricant de la drogue nouvelle, en application des articles C.08.004 ou C.08.004.01, un avis de conformité relativement à la présentation;
 	- **c)** l’avis de conformité relatif à la présentation n’a pas été suspendu en vertu de l’article C.08.006.
 	- **d)** [Abrogé, DORS/2014-158, art. 10]
 
-- **(2)** La présentation de drogue nouvelle doit contenir suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de la drogue nouvelle, notamment :
+- **(2)** La présentation de drogue nouvelle doit contenir suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de la drogue nouvelle, notamment :
 	- **a)** une description de la drogue nouvelle et une mention de son nom propre ou, à défaut, de son nom usuel;
 	- **b)** une mention de la marque nominative de la drogue nouvelle ou du nom ou code d’identification projeté pour celle-ci;
 	- **c)** la liste quantitative des ingrédients de la drogue nouvelle et les spécifications relatives à chaque ingrédient;
@@ -32760,17 +32781,14 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **l)** la description de la forme posologique proposée pour la vente de la drogue nouvelle;
 	- **m)** les éléments de preuve établissant que les lots d’essai de la drogue nouvelle ayant servi aux études menées dans le cadre de la présentation ont été fabriqués et contrôlés d’une manière représentative de la production destinée au commerce;
 	- **n)** dans le cas d’une drogue nouvelle destinée à être administrée à des animaux producteurs de denrées alimentaires, le délai d’attente applicable;
-	- **o)** dans le cas d’une drogue nouvelle pour usage humain, une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
-		- **(i)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
-		- **(ii)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
-		- **(iii)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01.
+	- **o)** dans le cas d’une drogue nouvelle pour usage humain, une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec une autre drogue à laquelle une identification numérique a été attribuée en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle avec la marque nominative, le nom usuel ou le nom propre de l’autre drogue.
 
-- **(3)** Le fabricant de la drogue nouvelle doit, à la demande du ministre, lui fournir, selon ce que celui-ci estime nécessaire pour évaluer l’innocuité et l’efficacité de la drogue dans le cadre de la présentation de drogue nouvelle, les renseignements et le matériel suivants :
+- **(3)** Le fabricant de la drogue nouvelle doit, à la demande du ministre, lui fournir, selon ce que celui-ci estime nécessaire pour évaluer l’innocuité et l’efficacité de la drogue dans le cadre de la présentation de drogue nouvelle, les renseignements et le matériel suivants :
 	- **a)** les nom et adresse des fabricants de chaque ingrédient de la drogue nouvelle et les nom et adresse des fabricants de la drogue nouvelle sous sa forme posologique proposée pour la vente;
 	- **b)** des échantillons des ingrédients de la drogue nouvelle;
 	- **c)** des échantillons de la drogue nouvelle sous sa forme posologique proposée pour la vente;
 	- **d)** tout renseignement ou matériel supplémentaire se rapportant à l’innocuité et à l’efficacité de la drogue nouvelle.
-> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10; DORS/2018-69, art. 33(F); DORS/2018-84, art. 8(F).
+> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10; DORS/2017-259, art. 22; DORS/2018-69, art. 33(F); DORS/2018-84, art. 8(F).
 
 
 
@@ -32860,7 +32878,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **c)** l’avis de conformité relatif au supplément n’a pas été suspendu en vertu de l’article C.08.006.
 	- **d)** [Abrogé, DORS/2014-158, art. 13]
 
-- **(2)** Pour l’application du paragraphe (1), les éléments ayant trait à la drogue nouvelle sont les suivants :
+- **(2)** Pour l’application du paragraphe (1), les éléments ayant trait à la drogue nouvelle sont les suivants :
 	- **a)** sa description;
 	- **b)** sa marque nominative ou le nom ou code sous lequel il est proposé de l’identifier;
 	- **c)** les spécifications de ses ingrédients;
@@ -32869,7 +32887,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **f)** les analyses effectuées pour contrôler son activité, sa pureté, sa stabilité et son innocuité;
 	- **g)** les étiquettes à utiliser pour la drogue nouvelle;
 	- **g.1)** dans le cas d’une drogue nouvelle pour usage humain, les emballages de celle-ci;
-	- **h)** les observations faites relativement :
+	- **h)** les observations faites relativement :
 		- **(i)** à la voie d’administration recommandée pour la drogue nouvelle,
 		- **(ii)** à sa posologie,
 		- **(iii)** aux propriétés qui lui sont attribuées,
@@ -32884,14 +32902,11 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(i)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande,
 		- **(ii)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
 	- **b)** si le supplément porte sur la marque nominative d’une drogue nouvelle pour usage humain :
-		- **(i)** une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
-			- **(A)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
-			- **(B)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
-			- **(C)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
+		- **(i)** une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec une autre drogue à laquelle une identification numérique a été attribuée en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle avec la marque nominative, le nom usuel ou le nom propre de l’autre drogue,
 		- **(ii)** des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris toute notice d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle.
 
 - **(4)** S’il porte sur un élément visé au sous-alinéa (2)h)(iii), le supplément à une présentation de drogue nouvelle pour usage exceptionnel ou à une présentation abrégée de drogue nouvelle pour usage exceptionnel contient l’attestation et les renseignements à l’appui prévus à l’alinéa C.08.002.01(2)a).
-> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13; DORS/2018-69, art. 33(F); DORS/2018-84, art. 9(F).
+> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13; DORS/2017-259, art. 23; DORS/2018-69, art. 33(F); DORS/2018-84, art. 9(F).
 
 
 
