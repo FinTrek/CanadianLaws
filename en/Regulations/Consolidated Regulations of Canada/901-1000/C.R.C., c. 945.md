@@ -686,9 +686,9 @@ shall make an information return in prescribed form in respect of such payment o
 	- **(b)** interest (other than the portion of the interest to which any of subsections (4) to (4.2) applies)
 		- **(i)** on a fully registered bond or debenture,
 		- **(ii)** in respect of
-			- **(A)** money on loan to,
-			- **(B)** money on deposit with, or
-			- **(C)** property of any kind deposited or placed with,a corporation, association, organization or institution,
+			- **(A)** money on loan to an association, corporation, institution, organization, partnership or trust,
+			- **(B)** money on deposit with an association, corporation, institution, organization, partnership or trust, or
+			- **(C)** property deposited or placed with an association, corporation, institution, organization, partnership or trust,
 		- **(iii)** in respect of an account with an investment dealer or broker,
 		- **(iv)** paid by an insurer in connection with an insurance policy or an annuity contract, or
 		- **(v)** on an amount owing in respect of compensation for property expropriated,
@@ -724,7 +724,7 @@ that person or partnership shall make an information return in prescribed form i
 	- **(a)** a debt obligation that is redeemed for the amount for which the debt obligation was issued;
 	- **(b)** a debt obligation described in paragraph 7000(1)(b); and
 	- **(c)** a coupon, warrant or cheque referred to in subsection 207(1).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1; 2013, c. 40, s. 96; 2016, c. 12, s. 74.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1; 2013, c. 40, s. 96; 2016, c. 12, s. 74; 2018, c. 12, s. 42.
 
 
 
@@ -1503,7 +1503,10 @@ shall be filed on or before March 31, 1984.
 
 - **(1)** Every member, of a partnership that carries on a business in Canada at any time in a fiscal period of the partnership (other than a member that is, because of subsection 115.2(2) of the Act, not considered to be carrying on business in Canada at that time), or of a partnership that is at any time in a fiscal period of the partnership, a Canadian partnership or a SIFT partnership, shall make for that period an information return in prescribed form containing the following information:
 	- **(a)** the income or loss of the partnership for the fiscal period;
-	- **(b)** the name, address and, in the case of an individual, the social insurance number of each member of the partnership who is entitled to a share referred to in paragraph (c) or (d) for the fiscal period;
+	- **(b)** in respect of each member of the partnership who is entitled to a share referred to in paragraph (c) or (d) for the fiscal period, the member’s
+		- **(i)** name,
+		- **(ii)** address, and
+		- **(iii)** business number, Social Insurance Number or trust account number, as the case may be;
 	- **(c)** the share of each member of the income or loss of the partnership for the fiscal period;
 	- **(d)** the share of each member for the fiscal period of each deduction, credit or other amount in respect of the partnership that is relevant in determining the member’s income, taxable income, tax payable or other amount under the Act;
 	- **(e)** the prescribed information contained in the form prescribed for the purposes of subsection 37(1) of the Act, where the partnership has made an expenditure in respect of scientific research and experimental development in the fiscal period; and
@@ -1525,7 +1528,7 @@ shall be filed on or before March 31, 1984.
 - **(6)** Where a partnership discontinues its business or activity, the return required under this section shall be filed, in respect of any fiscal period or portion thereof prior to the discontinuance of the business or activity for which a return has not previously been filed under this section, on or before the earlier of
 	- **(a)** the day that is 90 days after the discontinuance of the business or activity, and
 	- **(b)** the day the return is required to be filed under subsection (5).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F); 2007, c. 29, s. 30; 2013, c. 34, s. 377.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F); 2007, c. 29, s. 30; 2013, c. 34, s. 377; 2018, c. 12, s. 43.
 
 
 
@@ -9402,11 +9405,11 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 
 
 
-### Universities Outside Canada
+### 
 
 
-**3503** For the purposes of subparagraph (a)(iv) of the definition ***qualified donee*** in subsection 149.1(1) of the Act, the universities outside Canada named in Schedule VIII are prescribed to be universities the student body of which ordinarily includes students from Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; NOTE: Application provisions are not included in the consolidated text; see relevant amending  Acts and regulations. SOR/90-411, s. 1; SOR/94-686, s. 51(F); 2011, c. 24, s. 83.
+**3503** [Repealed, 2018, c. 12, s. 44]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-411, s. 1; SOR/94-686, s. 51(F); 2011, c. 24, s. 83; 2018, c. 12, s. 44.
 
 
 
@@ -20178,7 +20181,7 @@ Property not included in any other class that is
 **(q)** a building or other structure, or a part of it, including any component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators and escalators (except property described in any of paragraphs (k) and (m) to (p) of this Class or in any of paragraphs (a) to (e) of Class 8).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 10; SOR/97-377, s. 6; SOR/2005-371, s. 7; SOR/2006-117, s. 8; SOR/2010-93, s. 27(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 10; SOR/97-377, s. 6; SOR/2005-371, s. 7; SOR/2006-117, s. 8; SOR/2010-93, s. 27(F).
 
 
 
@@ -20251,7 +20254,7 @@ acquired by the taxpayer
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/79-427, s. 2; SOR/85-270, s. 1; SOR/86-1092, ss. 19(F), 20; SOR/90-22, s. 11..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-427, s. 2; SOR/85-270, s. 1; SOR/86-1092, ss. 19(F), 20; SOR/90-22, s. 11.
 
 
 
@@ -20352,7 +20355,7 @@ to the extent that the aggregate cost of all such additions or alterations to th
 **(l)** ancillary to a wire or cable referred to in paragraph (j) or Class 42 and that is supporting equipment such as a pole, mast, tower, conduit, brace, crossarm, guy or insulator.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-949, s. 2; SOR/90-22, s. 12; SOR/94-140, s. 17..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-949, s. 2; SOR/90-22, s. 12; SOR/94-140, s. 17.
 
 
 
@@ -20515,7 +20518,7 @@ to a building that would have been included in this class during that period but
 **(k)** an addition or alteration, made after 1978 to a building included in this class by virtue of subparagraph (a)(viii), to the extent that the aggregate cost of all such additions and alterations to the building does not exceed $100,000.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-949, s. 3; SOR/94-140, s. 18; SOR/2009-126, s. 5..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-949, s. 3; SOR/94-140, s. 18; SOR/2009-126, s. 5.
 
 
 
@@ -20596,7 +20599,7 @@ Property that is
 **(k)** pumping or compression equipment that is acquired after February 25, 2008, including equipment ancillary to pumping and compression equipment, that is on a pipeline and that pumps or compresses carbon dioxide for the purpose of moving it through the pipeline.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 13; SOR/2005-371, s. 8; SOR/2006-117, s. 9; SOR/2009-126, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 13; SOR/2005-371, s. 8; SOR/2006-117, s. 9; SOR/2009-126, s. 6.
 
 
 
@@ -20733,7 +20736,7 @@ Property not included in Class 1, 2, 7, 9, 11, 17 or 30 that is
 **(m)** a greenhouse constructed of a rigid frame and a replaceable, flexible plastic cover.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/80-881, s. 1; SOR/80-926, s. 3(F); SOR/85-853, s. 1; SOR/90-22, s. 14; SOR/94-140, s. 19; SOR/97-377, s. 7; SOR/99-179, s. 12; SOR/2005-371, s. 9..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-881, s. 1; SOR/80-926, s. 3(F); SOR/85-853, s. 1; SOR/90-22, s. 14; SOR/94-140, s. 19; SOR/97-377, s. 7; SOR/99-179, s. 12; SOR/2005-371, s. 9.
 
 
 
@@ -21097,7 +21100,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **(y)** a railway locomotive that is not an automotive railway car and that was not used or acquired for use for any purpose by any taxpayer before February 26, 2008.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F); SOR/2011-9, s. 6; 2013, c. 40, s. 116..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F); SOR/2011-9, s. 6; 2013, c. 40, s. 116.
 
 
 
@@ -21105,7 +21108,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **CLASS 10.1** 
 
 Property that would otherwise be included in Class 10 that is a passenger vehicle, the cost of which to the taxpayer exceeds $20,000 or such other amount as may be prescribed for the purposes of subsection 13(2) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/91-673, s. 5..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 5.
 
 
 
@@ -21138,7 +21141,7 @@ Property not included in any other class that is used to earn rental income and 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 16..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 16.
 
 
 
@@ -21279,7 +21282,7 @@ and property that would otherwise be included in another class in this Schedule 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7; SOR/2010-93, s. 29; SOR/2011-187, s. 2..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7; SOR/2010-93, s. 29; SOR/2011-187, s. 2.
 
 
 
@@ -21299,7 +21302,7 @@ Property that is a leasehold interest and property acquired by a taxpayer that w
 **(c)** a property included in Class 23.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-140, s. 21..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 21.
 
 
 
@@ -21327,7 +21330,7 @@ Property that is a patent, franchise, concession or licence for a limited period
 **(e)** a property that is included in Class 44.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/83-855, s. 2; SOR/94-170, s. 4..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-855, s. 2; SOR/94-170, s. 4.
 
 
 
@@ -21380,7 +21383,7 @@ Property of a taxpayer that, in respect of a business of the taxpayer,
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] 2016, c. 12, s. 84..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2016, c. 12, s. 84.
 
 
 
@@ -21408,7 +21411,7 @@ except
 **(d)** a timber resource property.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-140, s. 22..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 22.
 
 
 
@@ -21473,7 +21476,7 @@ and property acquired after December 6, 1991 that is
 **(g)** a truck or tractor designed for hauling freight, and that is primarily so used by the taxpayer or a person with whom the taxpayer does not deal at arm’s length in a business that includes hauling freight, and that has a “gross vehicle weight rating” (as that term is defined in subsection 2(1) of the [Motor Vehicle Safety Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201038.md)) in excess of 11,788 kg.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/83-340, s. 4; SOR/85-696, s. 21; SOR/91-673, s. 6; SOR/94-140, s. 23, SOR/94-686, s. 66(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-340, s. 4; SOR/85-696, s. 21; SOR/91-673, s. 6; SOR/94-140, s. 23, SOR/94-686, s. 66(F).
 
 
 
@@ -21526,7 +21529,7 @@ and property not included in any other class, acquired after May 25, 1976, that 
 **(c)** a road (other than a specified temporary access road of the taxpayer), sidewalk, airplane runway, parking area, storage area or similar surface construction.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/99-179, s. 13; SOR/2005-371, s. 10; SOR/2006-117, s. 10; SOR/2010-93, s. 30(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-179, s. 13; SOR/2005-371, s. 10; SOR/2006-117, s. 10; SOR/2010-93, s. 30(F).
 
 
 
@@ -21543,7 +21546,7 @@ Property that is a motion picture film acquired before May 26, 1976, except
 **(b)** a certified feature film.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/95-244, s. 9(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 9(F).
 
 
 
@@ -21619,7 +21622,7 @@ was not less than 2/3 of the amount by which the gross revenue from the business
 **(c)** the property had not been used for any purpose whatever before it was acquired by the taxpayer.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-686, ss. 48, 79(F), 81(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 48, 79(F), 81(F).
 
 
 
@@ -21679,7 +21682,7 @@ and that has been certified by the Minister of Industry, upon application by the
 **(b)** the capital cost of which was included in the approved capital costs as defined in the Area Development Incentives Act upon which approved capital cost the Minister of Industry has based the amount of a development grant authorized under that Act.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-686, s. 48; SOR/2010-93, s. 31(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2010-93, s. 31(F).
 
 
 
@@ -21703,7 +21706,7 @@ Property that would otherwise be included in Class 8 or 19
 **(b)** the capital cost of which was included in the approved capital costs as defined in the Area Development Incentives Act upon which approved capital cost the Minister of Industry has based the amount of a development grant authorized under that Act.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-686, ss. 48, 81(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 48, 81(F).
 
 
 
@@ -21731,7 +21734,7 @@ Property acquired by the taxpayer after March 16, 1964 and
 that is power-operated movable equipment designed for the purpose of excavating, moving, placing or compacting earth, rock, concrete or asphalt, except a property included in Class 7.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/79-426, s. 6; SOR/90-22, s. 17..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-426, s. 6; SOR/90-22, s. 17.
 
 
 
@@ -21756,7 +21759,7 @@ Property that is
 **(d)** a building or other structure, including component parts, erected on land that is the subject matter of a leasehold interest or licence described in paragraph (c) where such building or other structure, including component parts, is of a temporary nature and is required by the agreement to be removed not later than January 31, 1987.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/85-13, s. 2; SOR/94-686, s. 79(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-13, s. 2; SOR/94-686, s. 79(F).
 
 
 
@@ -21892,7 +21895,7 @@ and for the purposes of paragraphs (a) and (b)
 **(e)** this class shall be read without reference to subparagraph (b)(i) where paragraph (c) or (d) applies to the taxpayer and the property was acquired before 1992.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 1; SOR/79-426, s. 7; SOR/94-140, s. 24; SOR/94-686, s. 79(F); SOR/97-377, s. 8; SOR/2010-93, s. 32(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-146, s. 1; SOR/79-426, s. 7; SOR/94-140, s. 24; SOR/94-686, s. 79(F); SOR/97-377, s. 8; SOR/2010-93, s. 32(F).
 
 
 
@@ -21921,7 +21924,7 @@ if the taxpayer was, on October 22, 1968, a corporation, commission or associati
 **(d)** would have applied but for subparagraph (i) or (ii) of that paragraph.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-686, ss. 48, 79(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 48, 79(F).
 
 
 
@@ -21938,7 +21941,7 @@ Property that is
 **(b)** deuterium enriched water (commonly known as “heavy water”) acquired after May 22, 1979.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/79-427, s. 3..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-427, s. 3.
 
 
 
@@ -22030,7 +22033,7 @@ and for the purposes of paragraphs (a) to (d),
 **(g)** this class shall be read without reference to paragraph (a) where paragraph (e) or (f) applies to the taxpayer and the property was acquired before 1992.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 2; SOR/79-426, s. 8; SOR/94-140, s. 25; SOR/94-686, ss. 45(F), 79(F); SOR/97-377, s. 9; SOR/2010-93, s. 33(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-146, s. 2; SOR/79-426, s. 8; SOR/94-140, s. 25; SOR/94-686, ss. 45(F), 79(F); SOR/97-377, s. 9; SOR/2010-93, s. 33(F).
 
 
 
@@ -22142,7 +22145,7 @@ and that
 or that would be described in paragraphs (b) to (e) if in those paragraphs each reference to a “mine” were read as a reference to a “mine that is a location in a bituminous sands deposit, oil sands deposit or oil shale deposit from which material is extracted”, and each reference to “after November 7, 1969” were read as “before November 8, 1969”.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 8; SOR/80-926, s. 5; SOR/90-22, s. 18; SOR/94-140, s. 26; SOR/2000-327, s. 5..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 8; SOR/80-926, s. 5; SOR/90-22, s. 18; SOR/94-140, s. 26; SOR/2000-327, s. 5.
 
 
 
@@ -22254,7 +22257,7 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8; 2011, c. 24, s. 100; 2013, c. 33, s. 40..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8; 2011, c. 24, s. 100; 2013, c. 33, s. 40.
 
 
 
@@ -22306,7 +22309,7 @@ Property of a taxpayer that is
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 20; 2010, c. 25, s. 89..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 20; 2010, c. 25, s. 89.
 
 
 
@@ -22383,7 +22386,7 @@ and that was acquired by the taxpayer
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 3; SOR/79-426, s. 9; SOR/81-244, s. 3; SOR/82-1070, s. 1; SOR/90-22, s. 21..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-146, s. 3; SOR/79-426, s. 9; SOR/81-244, s. 3; SOR/82-1070, s. 1; SOR/90-22, s. 21.
 
 
 
@@ -22408,7 +22411,7 @@ Property that is a multiple-unit residential building in Canada that would other
 **(b)** not more than 20 per cent of the floor space is used for any purpose other than the purposes referred to in subparagraph (a)(ii).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-949, s. 4..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-949, s. 4.
 
 
 
@@ -22623,7 +22626,7 @@ but not including
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/80-114, s. 1; SOR/80-935, s. 2; SOR/82-265, s. 6(F); SOR/84-454, s. 3; SOR/85-853, s. 2; SOR/87-667, s. 1; SOR/90-22, s. 22; SOR/94-686, s. 66(F); 77(F); SOR/97-377, s. 10..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-114, s. 1; SOR/80-935, s. 2; SOR/82-265, s. 6(F); SOR/84-454, s. 3; SOR/85-853, s. 2; SOR/87-667, s. 1; SOR/90-22, s. 22; SOR/94-686, s. 66(F); 77(F); SOR/97-377, s. 10.
 
 
 
@@ -22639,7 +22642,7 @@ Property not included in any other class that is
 **(b)** a rail suspension device designed to carry trailers that are designed to be hauled on both highways and railway tracks.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-140, s. 27..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 27.
 
 
 
@@ -22647,7 +22650,7 @@ Property not included in any other class that is
 **CLASS 36** 
 
 Property acquired after December 11, 1979 that is deemed to be depreciable property by virtue of paragraph 13(5.2)(c) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/82-265, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-265, s. 6.
 
 
 
@@ -22696,7 +22699,7 @@ Property that would otherwise be included in another class in this schedule that
 and property not included in another class in this schedule that is a waterway or a land improvement (other than landscaping, clearing or levelling land) used in connection with an amusement park.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/82-265, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-265, s. 6.
 
 
 
@@ -22704,7 +22707,7 @@ and property not included in another class in this schedule that is a waterway o
 **CLASS 38** 
 
 Property not included in Class 22 but that would otherwise be included in that class if that class were read without reference to paragraphs (a) and (b) thereof.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 23.
 
 
 
@@ -22712,7 +22715,7 @@ Property not included in Class 22 but that would otherwise be included in that c
 **CLASS 39** 
 
 Property acquired after 1987 and before February 26, 1992 that is not included in Class 29, but that would otherwise be included in that Class if that Class were read without reference to subparagraphs (b)(iii) and (v) and paragraph (c) thereof.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 10..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 23; SOR/94-169, s. 10.
 
 
 
@@ -22720,7 +22723,7 @@ Property acquired after 1987 and before February 26, 1992 that is not included i
 **CLASS 40** 
 
 Property acquired after 1987 and before 1990 that is a powered industrial lift truck or property described in paragraph (b) or (f) of Class 10 and that is property not included in Class 29 but that would otherwise be included in that class if that class were read without reference to paragraph (c) thereof.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 23.
 
 
 
@@ -22905,7 +22908,7 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F); 2013, c. 40, s. 117..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F); 2013, c. 40, s. 117.
 
 
 
@@ -22921,7 +22924,7 @@ Oil sands property (other than specified oil sands property) that
 **(b)** is acquired by a taxpayer after 2015 and that if acquired before March 19, 2007 would be included in Class 41.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2011-9, s. 8..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2011-9, s. 8.
 
 
 
@@ -22937,7 +22940,7 @@ Property, other than an oil sands property or eligible mine development property
 **(b)** that is acquired by a taxpayer after 2020 and that, if acquired on March 20, 2013, would be included in paragraph (a) or (a.1) of Class 41.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] 2013, c. 40, s. 118..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 40, s. 118.
 
 
 
@@ -22953,7 +22956,7 @@ Property that is
 **(b)** telephone, telegraph or data communication equipment that is a wire or cable (other than a cable included in this class because of paragraph (a)), acquired after February 22, 2005, and that has not been used, or acquired for use, for any purpose before February 23, 2005.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-140, s. 28; SOR/2006-117, s. 11..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 28; SOR/2006-117, s. 11.
 
 
 
@@ -22977,7 +22980,7 @@ Property acquired after February 25, 1992 that
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-169, s. 12; SOR/97-377, s. 12; 2015, c. 36, s. 25..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-169, s. 12; SOR/97-377, s. 12; 2015, c. 36, s. 25.
 
 
 
@@ -23333,14 +23336,14 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119; 2014, c. 39, s. 90; 2017, c. 33, s. 104..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119; 2014, c. 39, s. 90; 2017, c. 33, s. 104.
 
 
 
 
 **CLASS 43.2** 
 
-Property that is acquired after February 22, 2005 and before 2020 (other than property that was included, before it was acquired, in another class in this Schedule by any taxpayer) and that is property that would otherwise be included in Class 43.1
+Property that is acquired after February 22, 2005 and before 2025 (other than property that was included, before it was acquired, in another class in this Schedule by any taxpayer) and that is property that would otherwise be included in Class 43.1
 
 **(a)** if the expression “6,000 BTU” in clause (c)(i)(B) of that Class were read as the expression “4,750 BTU”; or
 
@@ -23349,7 +23352,7 @@ Property that is acquired after February 22, 2005 and before 2020 (other than pr
 **(b)** because of paragraph (d) of that Class.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 13; SOR/2009-115, s. 8..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2006-117, s. 13; SOR/2009-115, s. 8; 2018, c. 12, s. 45.
 
 
 
@@ -23357,7 +23360,7 @@ Property that is acquired after February 22, 2005 and before 2020 (other than pr
 **CLASS 44** 
 
 Property that is a patent, or a right to use patented information for a limited or unlimited period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-170, s. 5..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-170, s. 5.
 
 
 
@@ -23381,7 +23384,7 @@ Property acquired after March 22, 2004 and before March 19, 2007 (other than pro
 **(d)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6; SOR/2009-115, s. 9; SOR/2010-93, s. 35(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-414, s. 6; SOR/2009-115, s. 9; SOR/2010-93, s. 35(F).
 
 
 
@@ -23389,7 +23392,7 @@ Property acquired after March 22, 2004 and before March 19, 2007 (other than pro
 **CLASS 46** 
 
 Property acquired after March 22, 2004 that is data network infrastructure equipment, and systems software for that equipment, that would, but for this Class, be included in Class 8 because of paragraph (i) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6; SOR/2010-93, s. 36(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-414, s. 6; SOR/2010-93, s. 36(F).
 
 
 
@@ -23425,7 +23428,7 @@ Property that is
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14; SOR/2009-115, s. 10..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2006-117, s. 14; SOR/2009-115, s. 10.
 
 
 
@@ -23445,7 +23448,7 @@ Property acquired after February 22, 2005 that is a combustion turbine (includin
 **(c)** property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2006-117, s. 14.
 
 
 
@@ -23485,7 +23488,7 @@ Property that is a pipeline, including control and monitoring devices, valves an
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14; SOR/2009-126, s. 9..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2006-117, s. 14; SOR/2009-126, s. 9.
 
 
 
@@ -23509,7 +23512,7 @@ Property acquired after March 18, 2007 that is general-purpose electronic data p
 **(d)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11; SOR/2009-126, s. 10; SOR/2010-93, s. 37(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-115, s. 11; SOR/2009-126, s. 10; SOR/2010-93, s. 37(F).
 
 
 
@@ -23529,7 +23532,7 @@ Property acquired after March 18, 2007 that is a pipeline, including control and
 **(c)** a building or other structure.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-115, s. 11.
 
 
 
@@ -23577,7 +23580,7 @@ Property acquired by a taxpayer after January 27, 2009 and before February 2011 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-126, s. 11; SOR/2009-155, s. 1..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-126, s. 11; SOR/2009-155, s. 1.
 
 
 
@@ -51543,636 +51546,8 @@ by
 
 
 ### **SCHEDULE VIII** 
-**(Section 3503)**
-## Universities Outside Canada
-**1** The universities situated in the United States that are prescribed by section 3503 are the following:
-- Abilene Christian University, Abilene, Texas
-- Adams State College, Alamosa, Colorado
-- Academy of the New Church, The, Bryn Athyn, Pennsylvania
-- Adler School of Professional Psychology, Chicago, Illinois
-- Albany College of Pharmacy and Health Sciences, Albany, New York
-- Alfred University, Alfred, New York
-- American Film Institute Center for Advanced Film and Television Studies, Los Angeles, California
-- American Film Institute, Los Angeles, California
-- American International College, Springfield, Massachusetts
-- American Jewish University, Bel Air, California
-- American University, The, Washington, District of Columbia
-- American University in Cairo, The, New York, New York
-- Amherst College, Amherst, Massachusetts
-- Anabaptist Mennonite Biblical Seminary, Elkhart, Indiana
-- Anderson College, Anderson, South Carolina
-- Andover Newton Theological School, Newton Centre, Massachusetts
-- Andrews University, Berrien Springs, Michigan
-- Antioch College, Yellow Springs, Ohio
-- Arizona State University, Tempe, Arizona
-- Asbury Theological Seminary, Wilmore, Kentucky
-- Atlantic Union College, South Lancaster, Massachusetts
-- Aurora University, Aurora, Illinois
-- Azusa Pacific College, Azusa, California
-- Babson College, Babson Park, Massachusetts
-- Bacone College, Muskogee, Oklahoma
-- Bard College, Annandale-On-Hudson, New York
-- Barnard College, New York, New York
-- Bastyr University, Seattle, Washington
-- Bates College, Lewiston, Maine
-- Baylor College of Medicine, Houston, Texas
-- Baylor University, Waco, Texas
-- Bemidji State University, Bemidji, Minnesota
-- Bentley College, Waltham, Massachusetts
-- Berklee College of Music, Boston, Massachusetts
-- Beth Medrash Govoha, Lakewood, New Jersey
-- Biola University, La Mirada, California
-- Bob Jones University, Greenville, South Carolina
-- Boston University, Boston, Massachusetts
-- Bowdoin College, Brunswick, Maine
-- Bowling Green State University, Bowling Green, Ohio
-- Brandeis University, Waltham, Massachusetts
-- Brigham Young University — Hawaii Campus, Laie, Hawaii
-- Brigham Young University — Idaho, Rexburg, Idaho
-- Brigham Young University, Provo, Utah
-- Brown University, Providence, Rhode Island
-- Bryn Mawr College, Bryn Mawr, Pennsylvania
-- Bucknell University, Lewisburg, Pennsylvania
-- California College of the Arts, San Francisco, California
-- California Institute of Technology, Pasadena, California
-- California Institute of the Arts, Valencia, California
-- California Lutheran University, Thousand Oaks, California
-- Calvin College, Grand Rapids, Michigan
-- Calvin Theological Seminary, Grand Rapids, Michigan
-- Canisius College, Buffalo, New York
-- Carleton College, Northfield, Minnesota
-- Carnegie-Mellon University, Pittsburgh, Pennsylvania
-- Carroll College, Helena, Montana
-- Case Western Reserve University, Cleveland, Ohio
-- Catholic University of America, The, Washington, District of Columbia
-- Cedarville College, Cedarville, Ohio
-- Centenary College, Hackettstown, New Jersey
-- Central Michigan University, Mount Pleasant, Michigan
-- Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
-- Christendom College, Front Royal, Virginia
-- City University of New York, The, John Jay College of Criminal Justice, New York, New York
-- City University of Seattle, Bellevue, Washington
-- Claremont McKenna College, Claremont, California
-- Clark University, Worcester, Massachusetts
-- Clarkson University, Potsdam, New York
-- Colby College, Waterville, Maine
-- Colby-Sawyer College, New London, New Hampshire
-- Colgate — Rochester Divinity School, The, Rochester, New York
-- Colgate University, Hamilton, New York
-- College of William and Mary, Williamsburg, Virginia
-- Colorado College, The, Colorado Springs, Colorado
-- Colorado School of Mines, Golden, Colorado
-- Colorado State University, Fort Collins, Colorado
-- Columbia International University, Columbia, South Carolina
-- Columbia Union College, Takoma Park, Maryland
-- Columbia University in the City of New York, New York, New York
-- Concordia College, Moorhead, Minnesota
-- Concordia University, Mequon, Wisconsin
-- Connecticut College, New London, Connecticut
-- Conway School of Landscape Design, Conway, Massachusetts
-- Cooper Union for the Advancement of Science and Art, The, New York, New York
-- Cornell University, Ithaca, New York
-- Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
-- Covenant College, Lookout Mountain, Tennessee
-- Cranbrook Academy of Art, Bloomfield Hills, Michigan
-- Creighton University, Omaha, Nebraska
-- Curtis Institute of Music, The, Philadelphia, Pennsylvania
-- Dallas Theological Seminary, Dallas, Texas
-- Dartmouth College, Hanover, New Hampshire
-- Denison University, Granville, Ohio
-- De Paul University, Chicago, Illinois
-- Dordt College, Sioux Center, Iowa
-- Drake University, Des Moines, Iowa
-- Drew University, Madison, New Jersey
-- Drury College, Springfield, Missouri
-- Duke University, Durham, North Carolina
-- Duquesne University, Pittsburgh, Pennsylvania
-- D’Youville College, Buffalo, New York
-- Eastern College, St. Davids, Pennsylvania
-- Eastern Mennonite University, Harrisonburg, Virginia
-- Eastern Washington University, Cheney, Washington
-- Eckerd College, St. Petersburg, Florida
-- Ecumenical Theological Center, Detroit, Michigan
-- Elmira College, Elmira, New York
-- Embry-Riddle Aeronautical University, Daytona Beach, Florida
-- Emerson College, Boston, Massachusetts
-- Emmanuel School of Religion, Johnson City, Tennessee
-- Emmaus Bible College, Dubuque, Iowa
-- Emory University, Atlanta, Georgia
-- Emporia State University, Emporia, Kansas
-- Fairleigh Dickinson University, Teaneck, New Jersey
-- Ferris State University, Big Rapids, Michigan
-- Finlandia University, Hancock, Michigan
-- Florida Atlantic University, Boca Raton, Florida
-- Florida Gulf Coast University, Fort Myers, Florida
-- Florida State University, Tallahassee, Florida
-- Fordham University, New York, New York
-- Franciscan University of Steubenville, Steubenville, Ohio
-- Freed-Hardeman University, Henderson, Tennessee
-- Fresno Pacific College, Fresno, California
-- Fuller Theological Seminary, Pasadena, California
-- Gallaudet College, Washington, District of Columbia
-- Geneva College, Beaver Falls, Pennsylvania
-- Georgetown University, Washington, District of Columbia
-- George Washington University, The, Washington, District of Columbia
-- Georgia Institute of Technology, Atlanta, Georgia
-- Goddard College, Plainfield, Vermont
-- God’s Bible School and College, Cincinnati, Ohio
-- Gonzaga University, Spokane, Washington
-- Gordon College, Wenham, Massachusetts
-- Gordon-Conwell Theological Seminary, South Hamilton, Massachusetts
-- Goshen College, Goshen, Indiana
-- Graceland College, Lamoni, Iowa
-- Grace University, Omaha, Nebraska
-- Greenville College, Greenville, Illinois
-- Grinnell College, Grinnell, Iowa
-- Hamilton College, Clinton, New York
-- Hampshire College, Amherst, Massachusetts
-- Harvard University, Cambridge, Massachusetts
-- Haverford College, Haverford, Pennsylvania
-- Hawaii Pacific University, Honolulu, Hawaii
-- Hebrew Union College — Jewish Institute of Religion, Cincinnati, Ohio
-- Hillsdale College, Hillsdale, Michigan
-- Hobart and William Smith Colleges, Geneva, New York
-- Holy Trinity Orthodox Seminary, The, Jordanville, New York
-- Hope College, Holland, Michigan
-- Houghton College, Houghton, New York
-- Howard University, Washington, District of Columbia
-- Huntington University, Huntington, Indiana
-- Idaho State University, Pocatello, Idaho
-- Illinois Institute of Technology, Chicago, Illinois
-- Illinois State University, Normal, Illinois
-- Indiana University, Bloomington, Indiana
-- Iowa State University of Science and Technology, Ames, Iowa
-- Ithaca College, Ithaca, New York
-- Jacksonville State University, Jacksonville, Alabama
-- Jamestown College, Jamestown, North Dakota
-- Jewish Theological Seminary of America, The, New York, New York
-- John Brown University, Siloam Springs, Arkansas
-- Johns Hopkins University, The, Baltimore, Maryland
-- Juilliard School, The, New York, New York
-- Kansas State University, Manhattan, Kansas
-- Kent State University, Kent, Ohio
-- Kenyon College, Gambier, Ohio
-- Kettering University, Flint, Michigan
-- Kuyper College, Grand Rapids, Michigan
-- Lafayette College, Easton, Pennsylvania
-- Lake Superior State University, Sault Ste. Marie, Michigan
-- Lawrence Technological University, Southfield, Michigan
-- Lehigh University, Bethlehem, Pennsylvania
-- Leland Stanford Junior University (Stanford University), Stanford, California
-- Le Moyne College, Syracuse, New York
-- LeTourneau College, Longview, Texas
-- Liberty University, Lynchburg, Virginia
-- Life Chiropractic College West, Hayward, California
-- Life University, Marietta, Georgia
-- Limestone College, Gaffney, South Carolina
-- Logan College of Chiropractic, St. Louis, Missouri
-- Loma Linda University, Loma Linda, California
-- Louisiana State University and Agricultural and Mechanical College, Baton Rouge, Louisiana
-- Loyola Marymount University, Los Angeles, California
-- Loyola University, Chicago, Illinois
-- Macalester College, St. Paul, Minnesota
-- Magdalen College, Warner, New Hampshire
-- Maharishi University of Management, Fairfield, Iowa
-- Manchester College, North Manchester, Indiana
-- Manhattanville College, Purchase, New York
-- Mankato State University, Mankato, Minnesota
-- Maranatha Baptist Bible College, Watertown, Wisconsin
-- Marian University, Fond du Lac, Wisconsin
-- Marquette University, Milwaukee, Wisconsin
-- Massachusetts Institute of Technology, Cambridge, Massachusetts
-- Mayo Foundation, Rochester, Minnesota
-- Mayo Graduate School of Medicine, Rochester, Minnesota
-- Meadville-Lombard Theological School, Chicago, Illinois
-- Medaille College, Buffalo, New York
-- Medical College of Ohio, Toledo, Ohio
-- Medical University of South Carolina, Charleston, South Carolina
-- Mercyhurst College, Erie, Pennsylvania
-- Mesivta Torah Vodaath Rabbinical Seminary, Brooklyn, New York
-- Mesivta Yeshiva Rabbi Chaim Berlin, Brooklyn, New York
-- Messiah College, Grantham, Pennsylvania
-- Miami University, Oxford, Ohio
-- Michigan State University College of Law, East Lansing, Michigan
-- Michigan State University, East Lansing, Michigan
-- Michigan Technological University, Houghton, Michigan
-- Middlebury College, Middlebury, Vermont
-- Minot State University, Minot, North Dakota
-- Mirrer Yeshiva Central Institute, Brooklyn, New York
-- Montana State University, Bozeman, Montana
-- Montana Tech of the University of Montana, Butte, Montana
-- Moody Bible Institute, Chicago, Illinois
-- Moravian College, Bethlehem, Pennsylvania
-- Mount Holyoke College, South Hadley, Massachusetts
-- Mount Ida College, Newton Centre, Massachusetts
-- Mount Sinai School of Medicine, New York, New York
-- Multnomah Bible College, Portland, Oregon
-- Naropa University, Boulder, Colorado
-- National College of Chiropractic, The, Lombard, Illinois
-- Nazarene Theological Seminary, Kansas City, Missouri
-- Ner Israel Rabbinical College, Baltimore, Maryland
-- New England College, Henniker, New Hampshire
-- New School University, New York, New York
-- New York University, New York, New York
-- Niagara University, Niagara University, New York
-- North American Baptist Seminary, Sioux Falls, South Dakota
-- North Carolina State University at Raleigh, Raleigh, North Carolina
-- North Dakota State University of Agriculture and Applied Science, Fargo, North Dakota
-- Northeastern University, Boston, Massachusetts
-- Northern Michigan University, Marquette, Michigan
-- Northwestern College, Orange City, Iowa
-- Northwestern College, St. Paul, Minnesota
-- Northwestern University, Evanston, Illinois
-- Northwood University, Midland, Michigan
-- Nova Southeastern University, Fort Lauderdale, Florida
-- Nyack College, Nyack, New York
-- Oakland University, Rochester, Michigan
-- Oakwood College, Huntsville, Alabama
-- Oberlin College, Oberlin, Ohio
-- Ohio State University, The, Columbus, Ohio
-- Ohio University, Athens, Ohio
-- Ohr Somayach/Joseph Tanenbaum Educational Center, Monsey, New York
-- Old Dominion University, Norfolk, Virginia
-- Olivet Nazarene University, Bourbonnais, Illinois
-- Oral Roberts University, Tulsa, Oklahoma
-- Oregon State University, Corvallis, Oregon
-- Pace University, New York, New York
-- Pacific Graduate School of Psychology, Menlo Park, California
-- Pacific Lutheran University, Tacoma, Washington
-- Pacific Union College, Angwin, California
-- Pacific University, Forest Grove, Oregon
-- Palm Beach Atlantic University, West Palm Beach, Florida
-- Palmer College of Chiropractic, Davenport, Iowa
-- Palmer College of Chiropractic-West, San Jose, California
-- Park University, Parkville, Missouri
-- Pennsylvania State University, The, University Park, Pennsylvania
-- Pepperdine University, Malibu, California
-- Philadelphia Biblical University, Langhorne, Pennsylvania
-- Pomona College, Claremont, California
-- Princeton Theological Seminary, Princeton, New Jersey
-- Princeton University, Princeton, New Jersey
-- Principia College, The, Elsah, Illinois
-- Providence College, Providence, Rhode Island
-- Purdue University, Lafayette, Indiana
-- Rabbinical College Bobover Yeshiva Bnei Zion, Brooklyn, New York
-- Rabbinical College of America, Morristown, New Jersey
-- Rabbinical College of Long Island, Long Beach, New York
-- Rabbinical Seminary of America, Forest Hills, New York
-- Reed College, Portland, Oregon
-- Reformed Theological Seminary, Jackson, Mississippi
-- Rensselaer Polytechnic Institute, Troy, New York
-- Rice University, Houston, Texas
-- Rio Grande Bible Institute, Edinburg, Texas
-- Roberts Wesleyan College, North Chili, New York
-- Rockefeller University, New York, New York
-- Rollins College, Winter Park, Florida
-- Rush University, Chicago, Illinois
-- Rutgers — The State University, New Brunswick, New Jersey
-- St. Bonaventure University, St. Bonaventure, New York
-- St. John’s College, Annapolis, Maryland
-- St. John’s College, Santa Fe, New Mexico
-- Saint John’s University, Collegeville, Minnesota
-- St. John’s University, Jamaica, New York
-- St. Lawrence University, Canton, New York
-- Saint Louis University, St. Louis, Missouri
-- Saint Mary’s University of Minnesota, Winona, Minnesota
-- St. Mary’s University of San Antonio, San Antonio, Texas
-- Saint Olaf College, Northfield, Minnesota
-- St. Vladimir’s Orthodox Theological Seminary, Crestwood, New York
-- San Francisco State College, San Francisco, California
-- San José State University, San José, California
-- Santa Clara University, Santa Clara, California
-- Sarah Lawrence College, Bonxville, New York
-- Scripps College, Claremont, California
-- Scripps Research Institute, The, La Jolla, California
-- Seattle Pacific College, Seattle, Washington
-- Seattle Pacific University, Seattle, Washington
-- Simpson College, Indianola, Iowa
-- Simpson College, Redding, California
-- Skidmore College, Saratoga Springs, New York
-- Smith College, The, Northampton, Massachusetts
-- Southeastern University, Lakeland, Florida
-- Southern Adventist University, Collegedale, Tennessee
-- Southern Methodist University, Dallas, Texas
-- Southwestern Adventist University, Keene, Texas
-- Spring Arbor College, Spring Arbor, Michigan
-- State University College at Oswego, Oswego, New York
-- State University College at Potsdam, Potsdam, New York
-- State University of New York at Binghamton, Binghamton, New York
-- State University of New York at Buffalo, Buffalo, New York
-- State University of New York at Geneseo, Geneseo, New York
-- State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
-- Stephens College, Columbia, Missouri
-- Swarthmore College, Swarthmore, Pennsylvania
-- Syracuse University, Syracuse, New York
-- Tabor College, Hillsboro, Kansas
-- Talmudical Yeshiva of Philadelphia, Philadelphia, Pennsylvania
-- Taylor University, Upland, Indiana
-- Teachers College, Columbia University, New York, New York
-- Telshe Yeshiva Rabbinical College of Telshe, Inc., Wickcliffe, Ohio
-- Telshe Yeshiva-Chicago, Rabbinical College of Telshe-Chicago, Inc., Chicago, Illinois
-- Temple University, Philadelphia, Pennsylvania
-- Temple University School of Podiatric Medicine, Philadelphia, Pennsylvania
-- Texas A&M University, College Station, Texas
-- Texas Chiropractic College, Pasadena, Texas
-- Texas Woman’s University, Denton, Texas
-- The Herman M. Finch University of Health Sciences/The Chicago Medical School, North Chicago, Illinois
-- Thomas Aquinas College, Santa Paula, California
-- Thunderbird School of Global Management, Glendale, Arizona
-- Touro College, New York, New York
-- Trinity Bible College, Ellendale, North Dakota
-- Trinity Christian College, Palos Heights, Illinois
-- Trinity College, Hartford, Connecticut
-- Trinity Episcopal School for Ministry, Ambridge, Pennsylvania
-- Trinity Evangelical Divinity School, Deerfield, Illinois
-- Trinity Lutheran College, Issaquah, Washington
-- Trinity University, San Antonio, Texas
-- Tufts University, Medford, Massachusetts
-- Tulane University, New Orleans, Louisiana
-- Union College, Lincoln, Nebraska
-- Union College, Schenectady, New York
-- Union Institute & University, Cincinnati, Ohio
-- Union University, Jackson, Tennessee
-- University at Albany, State University of New York, Albany, New York
-- University of Alabama at Birmingham, The, Birmingham, Alabama
-- University of Alabama in Huntsville, Huntsville, Alabama
-- University of Arizona, The, Tucson, Arizona
-- University of California, Berkeley, California
-- University of California, Davis, California
-- University of California, Irvine, California
-- University of California, Los Angeles, California
-- University of California, Riverside, California
-- University of California, San Diego, California
-- University of California, Santa Barbara, California
-- University of California, Santa Cruz, California
-- University of California, San Francisco, California
-- University of Central Florida, Orlando, Florida
-- University of Chicago, The, Chicago, Illinois
-- University of Cincinnati, Cincinnati, Ohio
-- University of Colorado, Boulder, Colorado
-- University of Delaware, Newark, Delaware
-- University of Denver, Denver, Colorado
-- University of Detroit Mercy, Detroit, Michigan
-- University of Findlay, The, Findlay, Ohio
-- University of Florida, Gainesville, Florida
-- University of Georgia, The, Athens, Georgia
-- University of Houston, Houston, Texas
-- University of Idaho, Moscow, Idaho
-- University of Illinois, Urbana, Illinois
-- University of Kansas, Lawrence, Kansas
-- University of Kentucky, Lexington, Kentucky
-- University of Louisville, Louisville, Kentucky
-- University of Maine, Orono, Maine
-- University of Maryland, College Park, Maryland
-- University of Massachusetts at Amherst, Amherst, Massachusetts
-- University of Miami, Coral Gables, Florida
-- University of Michigan, The, Ann Arbor, Michigan
-- University of Minnesota, Minneapolis, Minnesota
-- University of Mississippi, The, Oxford, Mississippi
-- University of Missouri, Columbia, Missouri
-- University of Montana-Missoula, The, Missoula, Montana
-- University of Nebraska, The, Lincoln, Nebraska
-- University of Nevada-Reno, Reno, Nevada
-- University of North Carolina at Chapel Hill, Chapel Hill, North Carolina
-- University of North Dakota, Grand Forks, North Dakota
-- University of North Texas, Denton, Texas
-- University of Notre Dame du Lac, Notre Dame, Indiana
-- University of Oklahoma, Norman, Oklahoma
-- University of Oregon, Eugene, Oregon
-- University of Pennsylvania, Philadelphia, Pennsylvania
-- University of Pittsburgh, Pittsburgh, Pennsylvania
-- University of Portland, Portland, Oregon
-- University of Rhode Island, Kingston, Rhode Island
-- University of Rochester, Rochester, New York
-- University of San Diego, San Diego, California
-- University of Southern California, Los Angeles, California
-- University of Southern Mississippi, The, Hattiesburg, Mississippi
-- University of St. Thomas, Houston, Texas
-- University of St. Thomas, St. Paul, Minnesota
-- University of Tennessee, The, Knoxville, Tennessee
-- University of Texas at Arlington, Arlington, Texas
-- University of Texas, Austin, Texas
-- University of Texas Health Science Center at Houston, Houston, Texas
-- University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
-- University of the Pacific, Stockton, California
-- University of Tulsa, Tulsa, Oklahoma
-- University of Utah, Salt Lake City, Utah
-- University of Vermont, Burlington, Vermont
-- University of Virginia, Charlottesville, Virginia
-- University of Washington, Seattle, Washington
-- University of Western States, Portland, Oregon
-- University of Wisconsin, Madison, Wisconsin
-- University of Wisconsin-Milwaukee, Milwaukee, Wisconsin
-- University of Wyoming, The, Laramie, Wyoming
-- Utah State University of Agriculture and Applied Science, Logan, Utah
-- Utah Valley University, Orem, Utah
-- Valparaiso University, Valparaiso, Indiana
-- Vanderbilt University, Nashville, Tennessee
-- Vassar College, Poughkeepsie, New York
-- Villanova University, Villanova, Pennsylvania
-- Wake Forest University, Winston-Salem, North Carolina
-- Walla Walla University, College Place, Washington
-- Washington and Lee University, Lexington, Virginia
-- Washington State University, Pullman, Washington
-- Washington University, St. Louis, Missouri
-- Wayne State University, Detroit, Michigan
-- Welch College, Nashville, Tennessee
-- Wellesley College, Wellesley, Massachusetts
-- Wesleyan University, Middletown, Connecticut
-- Western Illinois University, Macomb, Illinois
-- Western Seminary, Portland, Oregon
-- Western University of Health Sciences, Pomona, California
-- Western Washington University, Bellingham, Washington
-- Westminster Theological Seminary, Philadelphia, Pennsylvania
-- West Virginia University, Morgantown, West Virginia
-- Wheaton College, Norton, Massachusetts
-- Wheaton College, Wheaton, Illinois
-- Whitman College, Walla Walla, Washington
-- Whittier College, Whittier, California
-- Whitworth College, Spokane, Washington
-- Williams College, Willamstown, Massachusetts
-- Wittenberg University, Springfield, Ohio
-- Woods Hole Oceanographic Institution, Woods Hole, Massachusetts
-- Yale University, New Haven, Connecticut
-- Yeshiva Ohr Elchonon Chabad/West Coast Talmudic Seminary, Los Angeles, California
-- Yeshiva University, New York, New York
-
-
-**2** The universities situated in the United Kingdom of Great Britain and Northern Ireland that are prescribed by section 3503 are the following:
-- Aston University, Birmingham, England
-- Brunel University, Uxbridge, England
-- City University London, London, England
-- Cranfield University, Bedfordshire, England
-- Gateshead Talmudical College, Gateshead, England
-- Heriot-Watt University, Edinburgh, Scotland
-- Imperial College of Science, Technology and Medicine, London, England
-- King’s College London, London, England
-- London Business School, London, England
-- London School of Economics and Political Science, The, London, England
-- London School of Hygiene & Tropical Medicine, London, England
-- Loughborough University, Leicestershire, England
-- Queen’s University of Belfast, The, Belfast, Northern Ireland
-- Swansea University, Swansea, Wales
-- University of Aberdeen, Aberdeen, Scotland
-- University of Bath, The, Bath, England
-- University of Birmingham, Birmingham, England
-- University of Bradford, Bradford, England
-- University of Bristol, Bristol, England
-- University of Buckingham, The, Buckingham, England
-- University of Cambridge, Cambridge, England
-- University College London, London, England
-- University of Dundee, The, Dundee, Scotland
-- University of Durham, Durham, England
-- University of Edinburgh, Edinburgh, Scotland
-- University of Exeter, Exeter, England
-- University of Glasgow, Glasgow, Scotland
-- University of Keele, Keele, England
-- University of Kent, Canterbury, England
-- University of Leeds, Leeds, England
-- University of Liverpool, Liverpool, England
-- University of London, London, England
-- University of Manchester, The, Manchester, England
-- University of Newcastle, The, Newcastle upon Tyne, England
-- University of Nottingham, The, Nottingham, England
-- University of Oxford, Oxford, England
-- University of Reading, Reading, England
-- University of St. Andrews, St. Andrews, Scotland
-- University of Sheffield, Sheffield, England
-- University of Southampton, Southampton, England
-- University of Strathclyde, Glasgow, Scotland
-- University of Surrey, Guildford, Surrey, England
-- University of Sussex, Brighton, England
-- University of Ulster, Newtonabbey, Northern Ireland
-- University of Wales, Cardiff, Wales
-- University of York, York, England
-
-
-**3** The universities situated in France that are prescribed by section 3503 are the following:
-- American University in Paris, Paris
-- Catholic Faculties of Lyon, Lyon
-- Catholic Institute of Paris, Paris
-- Catholic University of Lille, The, Lille
-- École Nationale des Ponts et Chaussées, Paris
-- European Institute of Business Administration (INSEAD), Fontainebleau
-- Hautes Études Commerciales, Paris
-
-
-**4** The universities situated in Austria that are prescribed by section 3503 are the following:
-- WU Vienna University of Economics and Business, Vienna
-
-
-**5** The universities situated in Belgium that are prescribed by section 3503 are the following:
-- Catholic University of Louvain, Louvain
-
-
-**6** The universities situated in Switzerland that are prescribed by section 3503 are the following:
-- Franklin College of Switzerland, Sorengo (Lugano)
-- University of Lausanne, Lausanne
-
-
-**7** [Repealed, SOR/2014-81, s. 5]
-
-
-**8** The universities situated in Israel that are prescribed by section 3503 are the following:
-- Bar-Ilan University, Ramat-Gan
-- Ben Gurion University of the Negev, Beersheba, Jerusalem
-- College for Women, Bayit-Vegan, Jerusalem
-- École biblique et archéologique française, Jerusalem
-- Hebrew University of Jerusalem, The, Jerusalem
-- Interdisciplinary Center, The, Herzliya, Israel
-- Jerusalem College of Technology, Jerusalem
-- Technion-Israel Institute of Technology, Haifa
-- Tel-Aviv University, Tel-Aviv
-- University of Haifa, Haifa
-- Weizmann Institute of Science, Rehovot, Israel
-- Yeshivat Aish Hatorah, Jerusalem
-
-
-**9** The universities situated in Lebanon that are prescribed by section 3503 are the following:
-- American University of Beirut, Riad El Solh, Beirut
-- St. Joseph University, Beirut
-
-
-**10** The universities situated in Ireland that are prescribed by section 3503 are the following:
-- National University of Ireland, Dublin
-- Royal College of Surgeons in Ireland, Dublin
-- University of Dublin, The, Trinity College, Dublin
-
-
-**11** The universities situated in the Federal Republic of Germany that are prescribed by section 3503 are the following:
-- Ukrainian Free University, Munich
-- University of Heidelberg, Heidelberg
-
-
-**12** The universities situated in Poland that are prescribed by section 3503 are the following:
-- Catholic University of Lublin, Lublin
-- Jagiellonian University, Krakow
-
-
-**13** The universities situated in Spain that are prescribed by section 3503 are the following:
-- University of Navarra, Pamplona
-
-
-**14** The universities situated in the People’s Republic of China that are prescribed by section 3503 are the following:
-- Nanjing University, Nanjing
-- Peking University, Beijing
-
-
-**15** The universities situated in Jamaica that are prescribed for the purposes of section 3503 are the following:
-- University of the West Indies, Mona Campus, Kingston
-
-
-**16** For the purposes of section 3503, the university situated in Italy is the following:
-- John Cabot University, Rome
-- Pontifical University of the Holy Cross, Rome
-
-
-**17** The universities situated in Australia that are prescribed by section 3503 are the following:
-- Adelaide University, Adelaide
-- Australian National University, Canberra
-- Avondale College, Cooranbong
-- Monash University, Victoria
-- University of Melbourne, The, Parkville
-- University of Tasmania, Hobart
-
-
-**18** [Repealed, SOR/2012-218, s. 8]
-
-
-**19** The universities situated in South Africa that are prescribed by section 3503 are the following:
-- University of Cape Town, Rondebosch
-- University of KwaZulu-Natal, Durban
-
-
-**20** For the purposes of section 3503 the universities situated in the Netherlands are the following:
-- Leiden University, Leiden
-- Nyenrode University, Breukelen
-- University of Groningen, Groningen
-
-
-**21** For the purposes of section 3503 the universities situated in Hong Kong are the following:
-- Chinese University of Hong Kong, The, Shatin, New Territories
-- Hong Kong University of Science and Technology, The, Kowloon
-- University of Hong Kong, The, Hong Kong
-
-
-**22** The universities situated in New Zealand that are prescribed by section 3503 are the following:
-- University of Auckland, The, Auckland
-- University of Otago, Dunedin
-
-
-**23** The university situated in Hungary that is prescribed by section 3503 is the following:
-- Central European University, Budapest
-
-
-**24** [Repealed, SOR/2014-81, s. 10]
-
-
-**25** The university situated in Estonia that is prescribed by section 3503 is the following:
-- University of Tartu, Tartu
-
-
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9; SOR/2014-81, ss. 1 to 10; SOR/2015-170, ss. 4, 5.
+## [Repealed, 2018, c. 12, s. 46]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9; SOR/2014-81, ss. 1 to 10; SOR/2015-170, ss. 4, 5; 2018, c. 12, s. 46.
 
 
 
