@@ -701,7 +701,7 @@ and that is not discontinued under this Act.
 
 **21** 
 
-- **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after March 29, 2019.
+- **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent.
 
 **Extension**
 
@@ -713,8 +713,8 @@ and that is not discontinued under this Act.
 
 **Exception — dissolution**
 
-- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
-> 1991, c. 47, s. 21; 1997, c. 15, s. 168; 2001, c. 9, s. 353; 2006, c. 4, s. 201; 2007, c. 6, s. 189; 2012, c. 5, s. 123; 2016, c. 7, s. 120.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 47, s. 21; 1997, c. 15, s. 168; 2001, c. 9, s. 353; 2006, c. 4, s. 201; 2007, c. 6, s. 189; 2012, c. 5, s. 123; 2016, c. 7, s. 120; 2018, c. 12, s. 357.
 
 
 
@@ -9729,28 +9729,29 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 	- **(d)** outside Canada, or with the prior written approval of the Minister, in Canada, engage in any of the following activities, namely,
 		- **(i)** collecting, manipulating and transmitting
 			- **(A)** information that is primarily financial or economic in nature,
-			- **(B)** information that relates to the business of a permitted entity, as defined in subsection 490(1), or
+			- **(B)** information that relates to the business of a permitted entity, as defined in subsection 490(1), or
 			- **(C)** any other information that the Minister may, by order, specify,
 		- **(ii)** providing advisory or other services in the design, development or implementation of information management systems,
 		- **(iii)** designing, developing or marketing computer software, and
-		- **(iv)** designing, developing, manufacturing or selling, as an ancillary activity to any activity referred to in any of subparagraphs (i) to (iii) that the company is engaging in, computer equipment integral to the provision of information services related to the business of financial institutions or to the provision of financial services;
+		- **(iv)** designing, developing, manufacturing or selling, as an ancillary activity to any activity referred to in any of subparagraphs (i) to (iii) that the company is engaging in, computer equipment integral to the provision of information services related to the business of financial institutions or to the provision of financial services;
 	- **(d.1)** with the prior written approval of the Minister, develop, design, hold, manage, manufacture, sell or otherwise deal with data transmission systems, information sites, communication devices or information platforms or portals that are used
 		- **(i)** to provide information that is primarily financial or economic in nature,
-		- **(ii)** to provide information that relates to the business of a permitted entity, as defined in subsection 490(1), or
+		- **(ii)** to provide information that relates to the business of a permitted entity, as defined in subsection 490(1), or
 		- **(iii)** for a prescribed purpose or in prescribed circumstances;
 	- **(e)** promote merchandise and services to the holders of any payment, credit or charge card issued by the company;
 	- **(f)** engage in the sale of
 		- **(i)** tickets, including lottery tickets, on a non-profit public service basis in connection with special, temporary and infrequent non-commercial celebrations or projects that are of local, municipal, provincial or national interest,
 		- **(ii)** urban transit tickets, and
 		- **(iii)** tickets in respect of a lottery sponsored by the federal government or a provincial or municipal government or an agency of any such government or governments;
-	- **(g)** act as a custodian of property; and
+	- **(g)** act as a custodian of property;
 	- **(h)** with the consent of the Minister
 		- **(i)** provide safety and risk prevention services and services respecting risk management and claims adjustment, where the provision of those services is reasonably ancillary to the business of insurance carried on by the company,
 		- **(ii)** operate rehabilitation and training and development centres, where the operation of those centres is reasonably ancillary to the business of insurance carried on by the company,
 		- **(iii)** provide computer systems to independent insurance brokers and agents, where the provision of those systems is reasonably ancillary to the business of insurance carried on by the company,
 		- **(iv)** provide support to independent insurance brokers and agents, where the provision of that support is reasonably ancillary to the business of insurance carried on by the company,
 		- **(v)** operate repair and appraisal centres, where the operation of those centres is reasonably ancillary to the business of insurance carried on by the company, and
-		- **(vi)** carry on any other activities that are reasonably ancillary to the business of insurance carried on by the company.
+		- **(vi)** carry on any other activities that are reasonably ancillary to the business of insurance carried on by the company; and
+	- **(i)** provide identification, authentication or verification services.
 
 **Additional activities — life companies**
 
@@ -9758,7 +9759,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **Terms and conditions**
 
-- **(2)** A consent given under paragraph (1)(h) is subject to the terms and conditions imposed by the Minister.
+- **(2)** A consent given under paragraph (1)(h) is subject to the terms and conditions imposed by the Minister.
 
 **Restriction**
 
@@ -9767,12 +9768,12 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations
-	- **(a)** respecting what a company may or may not do with respect to the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1);
+	- **(a)** respecting what a company may or may not do with respect to the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1);
 	- **(b)** imposing terms and conditions in respect of
-		- **(i)** the provision of services referred to in paragraphs (1)(a) and 440(2)(b), and
-		- **(ii)** the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1); and
-	- **(c)** respecting the circumstances in which companies may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(d) or (d.1).
-> 1991, c. 47, s. 441; 1993, c. 34, s. 80(F); 1994, c. 26, s. 41(F); 1997, c. 15, s. 247; 2001, c. 9, s. 416; 2007, c. 6, s. 217(E).
+		- **(i)** the provision of services referred to in paragraphs (1)(a) and 440(2)(b), and
+		- **(ii)** the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1); and
+	- **(c)** respecting the circumstances in which companies may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(d) or (d.1).
+> 1991, c. 47, s. 441; 1993, c. 34, s. 80(F); 1994, c. 26, s. 41(F); 1997, c. 15, s. 247; 2001, c. 9, s. 416; 2007, c. 6, s. 217(E); 2018, c. 12, s. 329.
 
 
 
@@ -16553,7 +16554,7 @@ where
 
 **707** 
 
-- **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after March 29, 2019.
+- **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent.
 
 **Extension**
 
@@ -16565,8 +16566,8 @@ where
 
 **Exception — dissolution**
 
-- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
-> 1991, c. 47, s. 707; 1997, c. 15, s. 332; 2001, c. 9, s. 465; 2006, c. 4, s. 201.1; 2007, c. 6, s. 310; 2012, c. 5, s. 154; 2016, c. 7, s. 121.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 47, s. 707; 1997, c. 15, s. 332; 2001, c. 9, s. 465; 2006, c. 4, s. 201.1; 2007, c. 6, s. 310; 2012, c. 5, s. 154; 2016, c. 7, s. 121; 2018, c. 12, s. 358.
 
 
 
