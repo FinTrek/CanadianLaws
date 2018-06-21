@@ -40,18 +40,18 @@ Sanctionnée sur le 18 juin 2009
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***loi environnementale*** La [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md), la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md) ou la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md).
+***loi environnementale*** La [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md), la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md), la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md) ou la [Loi sur la tarification de la pollution causée par les gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012,%20art.%20186.md). (*Environmental Act*)
 
 ***ministre***
-- **a)** En ce qui concerne les contraventions relatives à la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md) et la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md), le ministre de l’Environnement;
-- **b)** en ce qui concerne les contraventions relatives à la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md), la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md) et la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), le ministre responsable de l’Agence Parcs Canada.
+- **a)** En ce qui concerne les contraventions relatives à la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md), la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md) et la [Loi sur la tarification de la pollution causée par les gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012,%20art.%20186.md), le ministre de l’Environnement;
+- **b)** en ce qui concerne les contraventions relatives à la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md), la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md) et la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), le ministre responsable de l’Agence Parcs Canada. (*Minister*)
 
-***pénalité*** Sanction administrative pécuniaire infligée en vertu de la présente loi pour une violation.
+***pénalité*** Sanction administrative pécuniaire infligée en vertu de la présente loi pour une violation. (*penalty*)
 
-***réviseur*** Personne nommée à ce titre en application de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md). 
+***réviseur*** Personne nommée à ce titre en application de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md).  (*review officer*)
 
-***réviseur-chef*** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef. 
-> 2009, ch. 14, art. 126 « 2 »; 2012, ch. 19, art. 53; 2015, ch. 10, art. 61.
+***réviseur-chef*** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef.  (*Chief Review Officer*)
+> 2009, ch. 14, art. 126 « 2 »; 2012, ch. 19, art. 53; 2015, ch. 10, art. 61; 2018, ch. 12, art. 195.
 
 
 
@@ -111,10 +111,14 @@ Sanctionnée sur le 18 juin 2009
 
 - **(3.1)** S’agissant de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), seule la contravention à l’article 6, au paragraphe 94(3) ou aux articles 97 ou 98 de cette loi peut être désignée en vertu de l’alinéa (1)a).
 
+**Limitation — [Loi sur la tarification de la pollution causée par les gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012,%20art.%20186.md)**
+
+- **(3.2)** S’agissant de la [Loi sur la tarification de la pollution causée par les gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012,%20art.%20186.md), seule la contravention à une disposition de la partie 2 de cette loi, ou à une disposition des règlements pris en vertu de cette partie, peut être désignée en vertu de l’alinéa (1)a).
+
 **Plafond — montant de la pénalité**
 
 - **(4)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des autres personnes et navires ou bâtiments, à 25 000 $.
-> 2009, ch. 14, art. 126 « 5 »; 2012, ch. 19, art. 54.
+> 2009, ch. 14, art. 126 « 5 »; 2012, ch. 19, art. 54; 2018, ch. 12, art. 196.
 
 
 
@@ -215,6 +219,15 @@ Sanctionnée sur le 18 juin 2009
 **Violation continue**
 
 **12** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+
+
+
+
+**[Loi sur la tarification de la pollution causée par les gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012,%20art.%20186.md)**
+
+**12.1** Si le paragraphe 174(1) ou l’alinéa 178(1)a) de la [Loi sur la tarification de la pollution causée par les gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012,%20art.%20186.md) est désigné par règlement pris en vertu de l’alinéa 5(1)a) de la présente loi, il est compté une violation distincte pour chaque tonne de CO<sub>2</sub>e provenant d’un gaz à effet de serre émise au-delà de la limite d’émissions applicable et à l’égard de laquelle une compensation n’a pas été versée dans le délai de compensation à taux élevé.
+> 2018, ch. 12, art. 197.
+
 
 
 
