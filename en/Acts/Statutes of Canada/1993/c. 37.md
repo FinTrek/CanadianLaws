@@ -114,18 +114,9 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **4** 
 
 - **(1)** On taking possession or control thereof, the Minister shall be responsible for the custody and management of all property that is
-	- **(a)** seized under a warrant issued under section 83.13, 462.32 or 487 of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 11 of the 
-[Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 14.1(2) of the 
-[Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be;
-	- **(b)** subject to a restraint order made under section 83.13, 462.33 or 490.8 of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 14 of the 
-[Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 14.1(2) of the 
-[Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be;
-	- **(b.1)** forfeited under subsection 14(5), seized under subsection 18(1) or paid under subsection 18(2) of the 
-[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md); or
+	- **(a)** seized under a warrant issued under section 83.13, 462.32 or 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 11 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 15.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be;
+	- **(b)** subject to a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 15.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be;
+	- **(b.1)** forfeited under subsection 14(5), seized under subsection 18(1) or paid under subsection 18(2) of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md); or
 	- **(c)** subject to a management order.
 
 **Responsibility continues after forfeiture**
@@ -139,7 +130,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Application of other Acts**
 
 - **(4)** Nothing in this section precludes the operation of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or any other Act of Parliament in respect of any property that is in the possession or under the control of the Minister.
-> 1993, c. 37, s. 4; 1996, c. 19, s. 87; 1997, c. 18, s. 135(F); 2000, c. 17, s. 93; 2001, c. 32, s. 75, c. 41, ss. 84, 107, 135.
+> 1993, c. 37, s. 4; 1996, c. 19, s. 87; 1997, c. 18, s. 135(F); 2000, c. 17, s. 93; 2001, c. 32, s. 75, c. 41, ss. 84, 107, 135; 2017, c. 7, s. 70.
 
 
 
@@ -149,14 +140,14 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **5** 
 
-- **(1)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2), 462.331(1) or 490.81(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 14.1(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 7(1) of this Act shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property or any part of the property that is needed as evidence or is necessary for the purposes of an investigation.
+- **(1)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2), 462.331(1) or 490.81(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 15.1(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 7(1) of this Act shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property or any part of the property that is needed as evidence or is necessary for the purposes of an investigation.
 
 **Minister to report location**
 
 - **(2)** Where the Minister takes control of property pursuant to subsection (1) and detains the property in a location other than the location referred to in the report required to be filed pursuant to paragraph 462.32(4)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the Minister shall prepare a report in the prescribed form identifying the location of the property and cause the report to be filed in the prescribed manner with the clerk of the court that issued the warrant.
 
 - **(3)** [Repealed, 2015, c. 3, s. 152]
-> 1993, c. 37, s. 5; 2001, c. 32, s. 76, c. 41, ss. 108, 135; 2015, c. 3, s. 152.
+> 1993, c. 37, s. 5; 2001, c. 32, s. 76, c. 41, ss. 108, 135; 2015, c. 3, s. 152; 2017, c. 7, s. 71.
 
 
 
@@ -190,8 +181,9 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Power to manage**
 
 - **(2)** The power of the Minister in respect of any seized property that is the subject of a management order includes
-	- **(a)** in the case of perishable or rapidly depreciating property, the power to make an interlocutory sale of that property; and
-	- **(b)** in the case of property that has little or no value, the power to destroy that property.
+	- **(a)** the power to make an interlocutory sale of perishable or rapidly depreciating property;
+	- **(b)** the power to destroy, in accordance with subsections (2.1) to (2.4), property that has little or no value; and
+	- **(c)** the power to have property, other than real property or a conveyance, forfeited to Her Majesty in accordance with subsection (2.5).
 
 **Application for destruction order**
 
@@ -199,22 +191,33 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Notice**
 
-- **(2.2)** Before making a destruction order in relation to any property, a court shall require notice in accordance with subsection (2.3) to be given to, and may hear, any person who, in the opinion of the court, appears to have a valid interest in the property.
+- **(2.2)** Before making a destruction order, a court shall require notice in accordance with subsection (2.3) to be given to and may hear any person who, in the court’s opinion, appears to have a valid interest in the property.
 
 **Manner of giving notice**
 
 - **(2.3)** A notice shall
-	- **(a)** be given or served in the manner that the court directs or that may be specified in the rules of the court; and
-	- **(b)** be of any duration that the court considers reasonable or that may be specified in the rules of the court.
+	- **(a)** be given in the manner that the court directs or that may be specified in the rules of the court; and
+	- **(b)** specify the effective period of the notice that the court considers reasonable or that may be set out in the rules of the court.
 
-**Order**
+**Destruction order**
 
-- **(2.4)** A court may order that the property be destroyed if it is satisfied that the property has little or no value, whether financial or other.
+- **(2.4)** A court shall order that the property be destroyed if it is satisfied that the property has little or no financial or other value.
 
-**When order ceases to have effect**
+**Forfeiture order**
 
-- **(3)** A management order ceases to have effect when the property that is the subject of the management order is returned in accordance with the law to an applicant therefor or forfeited to Her Majesty.
-> 1993, c. 37, s. 7; 2001, c. 32, s. 77.
+- **(2.5)** On application by the Minister, a court shall order that the property, other than real property or a conveyance, be forfeited to Her Majesty and disposed of or otherwise dealt with in accordance with the law if
+	- **(a)** a notice is given or published in the manner that the court directs or that may be specified in the rules of the court;
+	- **(b)** the notice specifies a period of 60 days during which a person may make an application to the court asserting their interest in the property; and
+	- **(c)** during that period, no one makes such an application.
+
+**When management order ceases to have effect**
+
+- **(3)** A management order ceases to have effect when the property that is the subject of the management order is returned in accordance with the law, destroyed or forfeited to Her Majesty.
+
+**For greater certainty**
+
+- **(4)** For greater certainty, if property that is the subject of a management order is sold, the management order applies to the net proceeds of the sale.
+> 1993, c. 37, s. 7; 2001, c. 32, s. 77; 2017, c. 7, s. 72.
 
 
 
