@@ -42,13 +42,19 @@ Assented to on 16 December 2014
 
 ***Arctic***, when used in relation to Canada, means those parts of Canada
 - **(a)** north of sixty degrees north latitude; or
-- **(b)** south of sixty degrees north latitude but north of the southern limit of the discontinuous permafrost zone.
+- **(b)** south of sixty degrees north latitude but north of the southern limit of the discontinuous permafrost zone. (*Arctique*)
 
-***Board*** means the Board of Directors of CHARS.
+***Board*** means the Board of Directors of CHARS. (*conseil*)
 
-***CHARS*** means the Canadian High Arctic Research Station established by subsection 4(1).
+***CHARS*** means the Canadian High Arctic Research Station established by subsection 4(1). (*SCREA*)
 
-***Minister*** means the Minister designated under section 3.
+***immovable*** has the same meaning as in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md). (*immeuble*)
+
+***Minister*** means the Minister designated under section 3. (*ministre*)
+
+***real property*** has the same meaning as in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md). (*biens réels*)
+> 2014, c. 39, s. 145 “2”; 2018, c. 12, s. 247.
+
 
 
 
@@ -123,21 +129,31 @@ Assented to on 16 December 2014
 	- **(e)** license, assign, sell or otherwise make available, and receive fees, royalties and payment for, any patent, copyright, industrial design, trademark, trade secret or other similar property right held, controlled or administered by CHARS;
 	- **(f)** enter into contracts, agreements, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or of CHARS;
 	- **(g)** lease personal property or movables, acquire any money, securities or other personal property or movables, including by purchase, gift or bequest or legacy, and — subject to any terms of the acquisition — spend or invest the money or securities;
-	- **(h)** acquire real property or immovables, have the administration, as defined in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md), of the real property or immovables or acquire a licence as defined in section 2 of that Act;
+	- **(h)** acquire real property or immovables, have the administration of the real property or immovables or acquire a licence as defined in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md);
 	- **(i)** as lessor, lease any personal property or movables referred to in paragraph (g) or dispose by any means of property or movables acquired under that paragraph, subject to any terms on which the property or movables were acquired;
 	- **(j)** subject to any terms on which the real property or immovables were acquired, dispose of any real property or immovables or give a licence as defined in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md); and
 	- **(k)** undertake any other activities that the Board considers conducive to the furtherance of CHARS’s purpose and to the performance of its functions and exercise of its powers.
 
 **Approval of Governor in Council**
 
-- **(3)** Despite paragraphs (2)(h) and (j), CHARS may acquire or dispose of real property or immovables, and interests in real property or immovable real rights, only with the approval of the Governor in Council.
+- **(3)** Despite paragraphs (2)(h) and (j), CHARS may acquire or dispose of real property or immovables only with the approval of the Governor in Council.
 
 **Exception**
 
 - **(4)** Subsection (3) does not apply to any
-	- **(a)** acquisition or disposition by lease;
-	- **(b)** acquiring or giving of a licence as defined in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md); or
-	- **(c)** disposition to a public utility or a municipality of easements or servitudes or other interests in real property or immovable real rights if the disposition is necessary for the utility or municipality to carry out its activities, including the construction or maintenance of a public work.
+	- **(a)** lease of real property or of an immovable; or
+	- **(b)** disposition to a public utility or municipality of an easement or any other interest in real property, other than a fee simple, or of a servitude or any other immovable real right, other than the ownership of an immovable, if the disposition is necessary for the utility or municipality to carry out its activities, including the construction or maintenance of a public work.
+	- **(c)** [Repealed, 2018, c. 12, s. 248]
+
+**Property of Her Majesty**
+
+- **(5)** Property acquired by CHARS is property of Her Majesty in right of Canada and title to it may be held in the name of Her Majesty in right of Canada or of CHARS.
+
+**Transfer of administration**
+
+- **(6)** Paragraph 16(1)(g) of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md) applies to CHARS as if it were an agent corporation as defined in that Act.
+> 2014, c. 39, s. 145 “6”; 2018, c. 12, s. 248.
+
 
 
 
