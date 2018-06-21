@@ -39,18 +39,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***Agency*** means the Canada Revenue Agency continued by subsection 4(1).
+***Agency*** means the Canada Revenue Agency continued by subsection 4(1). (*Agence*)
 
-***Board*** means the Board of Management of the Agency established by section 14.
+***Board*** means the Board of Management of the Agency established by section 14. (*conseil*)
 
-***Commissioner*** means the Commissioner of Revenue appointed under section 25.
+***Commissioner*** means the Commissioner of Revenue appointed under section 25. (*commissaire*)
 
-***Minister*** means the Minister of National Revenue, appointed to serve at pleasure by commission under the Great Seal.
+***Minister*** means the Minister of National Revenue, appointed to serve at pleasure by commission under the Great Seal. (*ministre*)
 
-***program legislation*** means any other Act of Parliament or any instrument made under it, or any part of such an Act or instrument
-- **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and the [Softwood Lumber Products Export Charge Act, 2006](/en/Acts/Statutes%20of%20Canada/2006/c.%2013.md); or
-- **(b)** under which the Minister or another minister authorizes the Agency, the Commissioner or an employee of the Agency to administer a program or carry out an activity.
-> 1999, c. 17, s. 2; 2002, c. 22, s. 322; 2005, c. 38, ss. 36, 140; 2006, c. 13, s. 120.
+***program legislation*** means any other Act of Parliament or any instrument made under it, or any part of such an Act or instrument
+- **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Greenhouse Gas Pollution Pricing Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2012,%20s.%20186.md), the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and the [Softwood Lumber Products Export Charge Act, 2006](/en/Acts/Statutes%20of%20Canada/2006/c.%2013.md); or
+- **(b)** under which the Minister or another minister authorizes the Agency, the Commissioner or an employee of the Agency to administer a program or carry out an activity. (*législation fiscale*)
+> 1999, c. 17, s. 2; 2002, c. 22, s. 322; 2005, c. 38, ss. 36, 140; 2006, c. 13, s. 120; 2018, c. 12, s. 193.
 
 
 
