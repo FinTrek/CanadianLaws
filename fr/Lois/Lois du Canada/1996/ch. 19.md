@@ -47,6 +47,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***bien infractionnel*** Bien situé au Canada ou à l’extérieur du Canada, à l’exception des substances désignées, qui sert ou donne lieu à la perpétration d’une infraction désignée ou qui est utilisé de quelque manière dans la perpétration d’une telle infraction, ou encore qui est destiné à servir à une telle fin. (*offence-related property*)
 
+***bien infractionnel chimique*** Bien infractionnel qui est une substance chimique ou un précurseur. Est également visée toute chose contenant le bien, y compris superficiellement. (*chemical offence-related property*)
+
+***bien infractionnel non-chimique*** Bien infractionnel qui n’est pas un bien infractionnel chimique. (*non-chemical offence-related property*)
+
 ***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*customs office*)
 
 ***fournir*** Procurer, même indirectement et notamment par don ou transfert, en échange ou non d’une contrepartie. (*provide*)
@@ -62,6 +66,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*justice*)
 
 ***ministre*** Le ministre de la Santé. (*Minister*)
+
+***organisation*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*organization*)
+
+***personne*** Individu ou organisation. Ces notions sont visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. (*person*)
 
 ***possession*** S’entend au sens du paragraphe 4(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*possession*)
 
@@ -96,7 +104,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Interprétation**
 
 - **(3)** Pour l’application de la présente loi, les substances figurant expressément dans l’une ou l’autre des annexes I à VI sont réputées exclues de celles de ces annexes dans lesquelles elles ne figurent pas expressément.
-> 1996, ch. 8, art. 35, ch. 19, art. 2; 2001, ch. 32, art. 47; 2017, ch. 7, art. 1.
+> 1996, ch. 8, art. 35, ch. 19, art. 2; 2001, ch. 32, art. 47; 2017, ch. 7, art. 1; 2018, ch. 16, art. 194.
 
 
 
@@ -108,10 +116,8 @@ Y est assimilée l’offre de produire. (*produce*)
 
 - **(1)** Les pouvoirs et fonctions prévus par la présente loi relativement à toute infraction à celle-ci s’appliquent tout autant à l’égard du complot ou de la tentative de commettre une telle infraction, de la complicité après le fait à son égard ou du fait de conseiller de la commettre.
 
-**Interprétation**
-
-- **(2)** Pour l’application des articles 16 et 20, la mention d’une personne reconnue coupable d’une infraction désignée vaut également mention d’un contrevenant absous aux termes de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 1995, ch. 22, art. 18; 1996, ch. 19, art. 3.
+- **(2)** [Abrogé, 2017, ch. 7, art. 2]
+> 1995, ch. 22, art. 18; 1996, ch. 19, art. 3; 2017, ch. 7, art. 2.
 
 
 
@@ -228,7 +234,7 @@ Y est assimilée l’offre de produire. (*produce*)
 			- **(A)** a commis l’infraction au profit ou sous la direction d’une organisation criminelle au sens du paragraphe 467.1(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou en association avec elle,
 			- **(B)** a eu recours ou a menacé de recourir à la violence lors de la perpétration de l’infraction,
 			- **(C)** portait ou a utilisé ou menacé d’utiliser une arme lors de la perpétration de l’infraction,
-			- **(D)** a, au cours des dix dernières années, été reconnue coupable d’une infraction désignée ou purgé une peine d’emprisonnement relativement à une telle infraction,
+			- **(D)** a, au cours des dix dernières années, été condamnée pour une infraction désignée ou purgé une peine d’emprisonnement relativement à une telle infraction,
 		- **(ii)** à deux ans, si la personne, selon le cas :
 			- **(A)** a commis l’infraction à l’intérieur d’une école, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieupublic normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
 
@@ -395,13 +401,13 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **Circonstances à prendre en considération**
 
-- **(2)** Le tribunal qui détermine la peine à infliger à une personne reconnue coupable d’une infraction désignée — autre qu’une infraction pour laquelle il est tenu d’imposer une peine minimale d’emprisonnement — est tenu de considérer toute circonstance aggravante pertinente, notamment le fait que cette personne, selon le cas :
+- **(2)** Le tribunal qui détermine la peine à infliger à une personne condamnée pour une infraction désignée — autre qu’une infraction pour laquelle il est tenu d’imposer une peine minimale d’emprisonnement — est tenu de considérer toute circonstance aggravante pertinente, notamment le fait que cette personne, selon le cas :
 	- **a)** relativement à la perpétration de cette infraction :
 		- **(i)** soit portait ou a utilisé ou menacé d’utiliser une arme,
 		- **(ii)** soit a eu recours ou a menacé de recourir à la violence,
 		- **(iii)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III, IV ou V — ou l’a eue en sa possession en vue d’en faire le trafic — à l’intérieur d’une école ou près de celle-ci, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieu public normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
 		- **(iv)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III, IV ou V — ou l’a eue en sa possession en vue d’en faire le trafic — auprès d’une personne de moins de dix-huit ans;
-	- **b)** a déjà été reconnue coupable d’une infraction désignée;
+	- **b)** a déjà été condamnée pour une infraction désignée;
 	- **c)** a eu recours aux services d’une personne de moins de dix-huit ans pour la perpétration de l’infraction ou l’y a mêlée.
 
 **Motifs du tribunal**
@@ -410,7 +416,7 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **Programme judiciaire de traitement de la toxicomanie**
 
-- **(4)** Le tribunal qui détermine la peine à infliger à une personne reconnue coupable d’une infraction prévue par la présente partie peut reporter la détermination de la peine :
+- **(4)** Le tribunal qui détermine la peine à infliger à une personne condamnée pour une infraction prévue par la présente partie peut reporter la détermination de la peine :
 	- **a)** afin de permettre à la personne de participer à un programme judiciaire de traitement de la toxicomanie approuvé par le procureur général;
 	- **b)** afin de permettre à la personne de participer à un programme conformément au paragraphe 720(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
@@ -425,10 +431,6 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **PARTIE II** 
 ## Exécution et mesures de contrainte
-
-
-
-### Perquisitions, fouilles, saisies et rétention
 
 
 
@@ -486,6 +488,30 @@ Y est assimilée l’offre de produire. (*produce*)
 
 
 
+**Rapport de saisie, de découverte, etc.**
+
+**12.1** Sous réserve des règlements, l’agent de la paix, l’inspecteur ou la personne visée par règlement qui saisit, trouve ou obtient de toute autre manière une substance désignée, un précurseur ou un bien infractionnel chimique est tenu, dans les trente jours suivant la saisie, la découverte ou l’obtention :
+- **a)** d’établir un rapport précisant :
+	- **(i)** la substance, le précurseur ou le bien,
+	- **(ii)** la quantité saisie, trouvée ou obtenue,
+	- **(iii)** le lieu de la saisie, de la découverte ou de l’obtention,
+	- **(iv)** la date de la saisie, de la découverte ou de l’obtention,
+	- **(v)** le nom du corps policier, de l’organisme ou de l’entité auquel appartient l’agent de la paix, l’inspecteur ou la personne visée par règlement,
+	- **(vi)** le numéro du rapport de police ou du dossier relatif à la saisie, la découverte ou l’obtention,
+	- **(vii)** tout autre renseignement réglementaire;
+- **b)** de faire envoyer le rapport au ministre;
+- **c)** dans le cas d’une saisie effectuée en vertu de l’article 11 de la présente loi, du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou d’un pouvoir spécifique reconnu par la common law, de faire déposer une copie du rapport auprès du juge de paix qui a décerné le mandat ou d’un autre juge de paix de la même circonscription territoriale, ou encore, auprès d’un juge de paix qui aurait été compétent pour le décerner, dans le cas où la saisie s’est effectuée sans mandat.
+> 2017, ch. 7, art. 10.
+
+
+
+
+
+**PARTIE III** 
+## Disposition
+
+
+
 **Application des articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
 **13** 
@@ -494,31 +520,29 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **Application des articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
-- **(2)** Dans le cas de biens infractionnels, les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent sous réserve des articles 16 à 22 de la présente loi.
+- **(2)** Dans le cas de biens infractionnels non-chimiques, les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent sous réserve des articles 16 à 22 et des paragraphes 31(6) à (9) de la présente loi.
 
-**Dispositions applicables**
+**Application : saisie**
 
-- **(3)** La présente loi et ses règlements s’appliquent aux substances désignées saisies en vertu de la présente loi ou de toute autre loi fédérale ou d’un pouvoir spécifique reconnu par la *common law*.
-
-**Rapport au juge de paix**
-
-- **(4)** Sous réserve des règlements, l’agent de la paix qui, aux termes de l’article 11, saisit une substance désignée est tenu, dès que les circonstances le permettent :
-	- **a)** d’établir un rapport précisant le lieu de la perquisition, la substance désignée saisie et le lieu de sa rétention;
-	- **b)** de faire déposer le rapport auprès du juge de paix qui a décerné le mandat ou d’un autre juge de paix de la même circonscription territoriale, ou encore, dans le cas où, en raison de l’urgence de la situation, la saisie s’est effectuée sans mandat, auprès du juge de paix qui aurait été compétent pour le décerner;
-	- **c)** d’envoyer une copie du rapport au ministre.
-
-**Rapport au juge de paix**
-
-- **(5)** Le rapport établi selon la formule 5.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peut tenir lieu du rapport prévu au paragraphe (4).
+- **(3)** Les dispositions de la présente loi et de ses règlements s’appliquent aux substances désignées, aux précurseurs et aux biens infractionnels chimiques saisis en vertu de la présente loi, de toute autre loi fédérale ou d’un pouvoir spécifique reconnu par la common law.
 
 **Engagement**
 
-- **(6)** Le juge ou juge de paix qui rend une ordonnance en vertu de l’alinéa 490(9)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sur une demande — présentée au titre du présent article — visant la remise d’un bien infractionnel saisi en vertu de la présente loi peut exiger du demandeur qu’il contracte devant lui, avec ou sans caution, un engagement dont le montant et les conditions, le cas échéant, sont fixés par lui et, si le juge ou juge de paix l’estime indiqué, qu’il dépose auprès de lui la somme d’argent ou toute autre valeur que celui-ci fixe.
+- **(4)** Le juge ou juge de paix qui, au titre du présent article, rend une ordonnance en application de l’alinéa 490(9)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) visant la restitution d’un bien infractionnel non-chimique saisi en vertu de la présente loi peut exiger du demandeur qu’il contracte devant lui, avec ou sans caution, un engagement dont le montant et, le cas échéant, les conditions sont fixés par lui. S’il l’estime indiqué, le juge ou juge de paix peut exiger du demandeur qu’il dépose auprès de lui la somme d’argent ou toute autre valeur fixée par lui.
+
+- **(5) et (6)** [Abrogés, 2017, ch. 7, art. 11]
+> 1996, ch. 19, art. 13; 2017, ch. 7, art. 11.
 
 
 
 
-### Ordonnances de blocage
+
+**SECTION 1** 
+### Biens infractionnels non-chimiques
+
+
+
+#### Ordonnances de blocage
 
 
 
@@ -526,18 +550,18 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **14** 
 
-- **(1)** Le procureur général peut, sous le régime du présent article, demander une ordonnance de blocage d’un bien infractionnel.
+- **(1)** Le procureur général peut, sous le régime du présent article, demander une ordonnance de blocage d’un bien infractionnel non-chimique.
 
 **Procédure**
 
-- **(2)** La demande d’ordonnance est à présenter à un juge par écrit mais peut être faite *ex parte*; elle est accompagnée de l’affidavit du procureur général ou de toute autre personne comportant les éléments suivants :
-	- **a)** désignation de l’infraction à laquelle est liée le bien;
+- **(2)** La demande d’ordonnance est présentée à un juge par écrit et peut être faite *ex parte*; elle est accompagnée de l’affidavit du procureur général ou de toute autre personne comportant les éléments suivants :
+	- **a)** désignation de l’infraction à laquelle est lié le bien;
 	- **b)** désignation de la personne que l’on croit en possession du bien;
 	- **c)** description du bien.
 
 **Ordonnance de blocage**
 
-- **(3)** Le juge saisi de la demande peut rendre une ordonnance de blocage s’il est convaincu qu’il existe des motifs raisonnables de croire que le bien est un bien infractionnel; l’ordonnance prévoit qu’il est interdit à toute personne de se départir du bien mentionné dans l’ordonnance ou d’effectuer des opérations sur les droits qu’elle détient sur lui, sauf dans la mesure où l’ordonnance le prévoit.
+- **(3)** Le juge saisi de la demande peut rendre une ordonnance de blocage s’il est convaincu qu’il existe des motifs raisonnables de croire que le bien est un bien infractionnel non-chimique; l’ordonnance prévoit qu’il est interdit à toute personne de disposer du bien qui y est mentionné ou d’effectuer toute autre opération sur les droits qu’elle détient sur lui, sauf dans la mesure prévue par l’ordonnance.
 
 **Biens à l’étranger**
 
@@ -568,57 +592,12 @@ Y est assimilée l’offre de produire. (*produce*)
 **Infraction**
 
 - **(10)** Toute personne à qui une ordonnance de blocage est signifiée en conformité avec le présent article et qui, pendant que celle-ci est en vigueur, contrevient à ses dispositions est coupable d’un acte criminel ou d’une infraction punissable par déclaration de culpabilité par procédure sommaire.
-> 1996, ch. 19, art. 14 et 93.2; 2001, ch. 32, art. 49.
+> 1996, ch. 19, art. 14 et 93.2; 2001, ch. 32, art. 49; 2017, ch. 7, art. 13.
 
 
 
 
-
-**Ordonnance de prise en charge**
-
-**14.1** 
-
-- **(1)** À la demande du procureur général ou d’une autre personne munie de son consentement écrit, le juge de paix, à l’égard de biens infractionnels saisis en vertu de l’article 11, ou le juge, à l’égard de biens infractionnels bloqués en vertu de l’article 14, peut, s’il l’estime indiqué dans les circonstances :
-	- **a)** nommer un administrateur et lui ordonner de prendre en charge ces biens en tout ou en partie, de les administrer ou d’effectuer toute autre opération à leur égard conformément aux directives du juge ou du juge de paix;
-	- **b)** ordonner à toute personne qui a la possession d’un bien, à l’égard duquel un administrateur est nommé, de le remettre à celui-ci.
-
-**Ministre des Travaux publics et des Services gouvernementaux**
-
-- **(2)** À la demande du procureur général du Canada, le juge ou le juge de paix nomme le ministre des Travaux publics et des Services gouvernementaux à titre d’administrateur visé au paragraphe (1).
-
-**Administration**
-
-- **(3)** La charge d’administrer des biens ou d’effectuer toute autre opération à leur égard comprend notamment :
-	- **a)** dans le cas de biens périssables ou qui se déprécient rapidement, le pouvoir de les vendre en cours d’instance;
-	- **b)** dans le cas de biens qui n’ont pas ou peu de valeur, le pouvoir de les détruire.
-
-**Demande d’ordonnance de destruction**
-
-- **(4)** Avant de détruire un bien d’aucune ou de peu de valeur, la personne qui en a la charge est tenue de demander au tribunal de rendre une ordonnance de destruction.
-
-**Avis**
-
-- **(5)** Avant de rendre une ordonnance de destruction d’un bien, le tribunal exige que soit donné un avis conformément au paragraphe (6) à quiconque, à son avis, semble avoir un droit sur le bien; le tribunal peut aussi entendre une telle personne.
-
-**Modalités de l’avis**
-
-- **(6)** L’avis :
-	- **a)** est donné ou signifié selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
-	- **b)** est donné dans le délai que le tribunal estime raisonnable ou que fixent les règles de celui-ci.
-
-**Ordonnance**
-
-- **(7)** Le tribunal ordonne la destruction du bien s’il est convaincu que le bien n’a pas ou peu de valeur, financière ou autre.
-
-**Cessation d’effet de l’ordonnance de prise en charge**
-
-- **(8)** L’ordonnance de prise en charge cesse d’avoir effet lorsque les biens qu’elle vise sont remis, conformément à la loi, à celui qui présente une demande en ce sens ou sont confisqués au profit de Sa Majesté.
-
-**Demande de modification des conditions**
-
-- **(9)** Le procureur général peut demander au juge ou au juge de paix d’annuler ou de modifier une condition à laquelle est assujettie l’ordonnance de prise en charge, à l’exclusion d’une modification de la nomination effectuée en vertu du paragraphe (2).
-> 2001, ch. 32, art. 50.
-
+**14.1** [Abrogé, 2017, ch. 7, art. 14]
 
 
 
@@ -627,32 +606,97 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **15** 
 
-- **(1)** Sous réserve des articles 16 à 22, les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, aux biens infractionnels ayant fait l’objet d’une ordonnance de blocage en vertu de l’article 14.
+- **(1)** Sous réserve des articles 16 à 22, les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, aux biens faisant l’objet d’une ordonnance de blocage au titre de l’article 14.
 
 **Engagement**
 
-- **(2)** Le juge ou juge de paix qui rend une ordonnance en vertu de l’alinéa 490(9)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sur une demande — présentée au titre du paragraphe (1) — visant la remise d’un bien infractionnel faisant l’objet d’une ordonnance de blocage prévue à l’article 14 peut exiger du demandeur qu’il contracte devant lui, avec ou sans caution, un engagement dont le montant et les conditions, le cas échéant, sont fixés par lui et, si le juge ou juge de paix l’estime indiqué, qu’il dépose auprès de lui la somme d’argent ou toute autre valeur que celui-ci fixe.
+- **(2)** Le juge ou juge de paix qui, au titre du présent article, rend une ordonnance en application de l’alinéa 490(9)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) visant la restitution d’un bien faisant l’objet d’une ordonnance de blocage au titre de l’article 14 peut exiger du demandeur qu’il contracte devant lui, avec ou sans caution, un engagement dont le montant et, le cas échéant, les conditions sont fixés par lui. S’il l’estime indiqué, le juge ou juge de paix peut exiger du demandeur qu’il dépose auprès de lui la somme d’argent ou toute autre valeur fixée par lui.
+> 1996, ch. 19, art. 15; 2017, ch. 7, art. 14.
 
 
 
 
-### Confiscation de biens infractionnels
+
+#### Ordonnances de prise en charge
 
 
 
-**Confiscation lors de la déclaration de culpabilité**
+**Ordonnance de prise en charge**
+
+**15.1** 
+
+- **(1)** Sur demande du procureur général ou d’une autre personne munie de son consentement écrit, le juge de paix, à l’égard de biens infractionnels non-chimiques saisis en vertu de l’article 11 de la présente loi, du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou d’un pouvoir spécifique reconnu par la common law, ou le juge, à l’égard de biens bloqués au titre de l’article 14, peut, s’il l’estime indiqué dans les circonstances :
+	- **a)** nommer un administrateur et lui ordonner de prendre en charge ces biens en tout ou en partie et de les administrer ou d’effectuer toute autre opération à leur égard conformément aux directives du juge ou du juge de paix;
+	- **b)** ordonner à toute personne qui a la possession d’un bien, à l’égard duquel un administrateur est nommé, de le remettre à celui-ci.
+
+**Ministre des Travaux publics et des Services gouvernementaux**
+
+- **(2)** À la demande du procureur général du Canada, le juge ou le juge de paix nomme le ministre des Travaux publics et des Services gouvernementaux à titre d’administrateur visé au paragraphe (1).
+
+**Administration**
+
+- **(3)** La charge d’administrer des biens ou d’effectuer toute autre opération à leur égard comprend notamment :
+	- **a)** le pouvoir de vendre en cours d’instance les biens périssables ou qui se déprécient rapidement;
+	- **b)** le pouvoir de détruire, conformément aux paragraphes (4) à (7), les biens d’aucune ou de peu de valeur;
+	- **c)** le pouvoir de faire confisquer, au profit de Sa Majesté, les biens autres que les biens immeubles ou les moyens de transport, conformément au paragraphe (8).
+
+**Demande d’ordonnance de destruction**
+
+- **(4)** Avant de détruire un bien d’aucune ou de peu de valeur, l’administrateur est tenu de demander au tribunal de rendre une ordonnance de destruction.
+
+**Avis requis avant la destruction**
+
+- **(5)** Avant de rendre une ordonnance de destruction, le tribunal exige que soit donné un avis conformément au paragraphe (6) à quiconque, à son avis, semble avoir un droit sur le bien; le tribunal peut aussi entendre une telle personne.
+
+**Modalités de l’avis**
+
+- **(6)** L’avis :
+	- **a)** est donné selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
+	- **b)** précise la durée que le tribunal estime raisonnable quant à sa validité ou que fixent les règles de celui-ci.
+
+**Ordonnance de destruction**
+
+- **(7)** Le tribunal ordonne la destruction du bien s’il est convaincu que le bien n’a que peu ou pas de valeur, financière ou autre.
+
+**Demande d’ordonnance de confiscation**
+
+- **(8)** Sur demande de l’administrateur, le tribunal ordonne que le bien autre qu’un bien immeuble ou un moyen de transport soit confisqué au profit de Sa Majesté pour qu’il en soit disposé conformément au droit applicable si, à la fois :
+	- **a)** un avis a été donné ou publié selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
+	- **b)** l’avis précise un délai de soixante jours dans lequel toute personne peut présenter une demande alléguant un droit sur le bien;
+	- **c)** personne n’a présenté une telle demande dans ce délai.
+
+**Cessation d’effet de l’ordonnance de prise en charge**
+
+- **(9)** L’ordonnance de prise en charge cesse d’avoir effet lorsque les biens qu’elle vise sont restitués, conformément au droit applicable, détruits ou confisqués au profit de Sa Majesté.
+
+**Précision**
+
+- **(10)** Il est entendu que l’ordonnance de prise en charge s’applique au produit net de la vente du bien faisant l’objet de l’ordonnance.
+
+**Demande de modification des conditions**
+
+- **(11)** Le procureur général peut demander au juge ou au juge de paix d’annuler ou de modifier une condition à laquelle est assujettie l’ordonnance de prise en charge, il ne peut, toutefois, lui demander de modifier la nomination effectuée en application du paragraphe (2).
+> 2017, ch. 7, art. 14.
+
+
+
+
+
+#### Confiscation
+
+
+
+**Confiscation**
 
 **16** 
 
-- **(1)** Sous réserve des articles 18 à 19.1 et sur demande du procureur général, le tribunal qui déclare une personne coupable d’une infraction désignée et qui est convaincu, selon la prépondérance des probabilités, que des biens infractionnels sont liés à la perpétration de cette infraction ordonne :
-	- **a)** dans le cas de substances inscrites à l’annexe VI, que celles-ci soient confisquées au profit de Sa Majesté du chef du Canada pour que le ministre en dispose à sa guise;
-	- **b)** que les autres biens infractionnels soient confisqués au profit :
-		- **(i)** soit de Sa Majesté du chef de la province où les procédures relatives à l’infraction ont été engagées, si elles l’ont été à la demande du gouvernement de cette province et menées par ce dernier ou en son nom, pour que le procureur général ou le solliciteur général de la province en dispose en conformité avec la loi,
-		- **(ii)** soit de Sa Majesté du chef du Canada pour que le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application du présent sous-alinéa en dispose en conformité avec la loi, dans tout autre cas.
+- **(1)** Sous réserve des articles 18 à 19.1 et sur demande du procureur général, le tribunal qui condamne une personne pour une infraction désignée ou l’en absout en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et qui est convaincu, selon la prépondérance des probabilités, que des biens infractionnels non-chimiques sont liés à la perpétration de cette infraction ordonne qu’ils soient confisqués au profit :
+	- **a)** soit de Sa Majesté du chef de la province où les procédures relatives à l’infraction ont été engagées, si elles l’ont été à la demande du gouvernement de cette province et menées par ce dernier ou en son nom, pour que le procureur général ou le solliciteur général de la province en dispose conformément au droit applicable;
+	- **b)** soit de Sa Majesté du chef du Canada pour que le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application du présent alinéa en dispose conformément au droit applicable, dans tout autre cas.
 
 **Biens liés à d’autres infractions**
 
-- **(2)** Sous réserve des articles 18 à 19.1, le tribunal peut rendre une ordonnance de confiscation aux termes du paragraphe (1) à l’égard de biens dont il n’est pas convaincu qu’ils sont liés à l’infraction désignée dont la personne a été reconnue coupable, à la condition toutefois d’être convaincu, hors de tout doute raisonnable, qu’il s’agit de biens infractionnels.
+- **(2)** Sous réserve des articles 18 à 19.1, le tribunal peut rendre une ordonnance de confiscation aux termes du paragraphe (1) à l’égard de biens dont il n’est pas convaincu qu’ils sont liés à la perpétration de l’infraction désignée pour laquelle la personne a été condamnée — ou à l’égard de laquelle elle a été absoute — s’il est convaincu, hors de tout doute raisonnable, qu’il s’agit de biens infractionnels non-chimiques.
 
 **Biens à l’étranger**
 
@@ -660,8 +704,8 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **Appel**
 
-- **(3)** La personne qui a été reconnue coupable d’une infraction désignée peut, de même que le procureur général, interjeter appel devant la cour d’appel de l’ordonnance rendue aux termes du paragraphe (1) ou de la décision du tribunal de ne pas rendre une telle ordonnance, comme s’il s’agissait d’un appel interjeté à l’encontre de la peine infligée à la personne relativement à l’infraction désignée en cause.
-> 1996, ch. 19, art. 16; 2001, ch. 32, art. 51.
+- **(3)** La personne qui a été condamnée pour une infraction désignée ou en a été absoute peut, de même que le procureur général, interjeter appel devant la cour d’appel de l’ordonnance rendue aux termes du paragraphe (1) ou de la décision du tribunal de ne pas rendre une telle ordonnance, comme s’il s’agissait d’un appel interjeté à l’encontre de la peine infligée à la personne relativement à l’infraction désignée en cause.
+> 1996, ch. 19, art. 16; 2001, ch. 32, art. 51; 2017, ch. 7, art. 16.
 
 
 
@@ -676,8 +720,8 @@ Y est assimilée l’offre de produire. (*produce*)
 **Ordonnance de confiscation**
 
 - **(2)** Sous réserve des articles 18 à 19.1, le juge saisi de la demande doit rendre une ordonnance de confiscation et de disposition à l’égard des biens en question, conformément au paragraphe (4), s’il est convaincu que les conditions suivantes sont réunies :
-	- **a)** les biens sont, hors de tout doute raisonnable, des biens infractionnels;
-	- **b)** des procédures ont été engagées relativement à une infraction désignée ayant trait à ces biens;
+	- **a)** les biens sont, hors de tout doute raisonnable, des biens infractionnels non-chimiques;
+	- **b)** des procédures ont été engagées relativement à une infraction désignée à laquelle sont liés ces biens;
 	- **c)** la personne accusée de l’infraction est décédée ou s’est esquivée.
 
 **Interprétation**
@@ -690,24 +734,24 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 
 **Disposant**
 
-- **(4)** Pour l’application du paragraphe (2), le juge doit ordonner :
-	- **a)** la confiscation au profit de Sa Majesté du chef du Canada des substances inscrites à l’annexe VI pour que le ministre en dispose à sa guise;
-	- **b)** la confiscation des autres biens infractionnels au profit :
-		- **(i)** soit de Sa Majesté du chef de la province où les procédures visées à l’alinéa (2)b) ont été engagées, si elles l’ont été à la demande du gouvernement de cette province, pour que le procureur général ou le solliciteur général de la province en dispose en conformité avec la loi,
-		- **(ii)** soit de Sa Majesté du chef du Canada pour que le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application du présent sous-alinéa en dispose en conformité avec la loi, dans tout autre cas.
+- **(4)** Pour l’application du paragraphe (2), le juge ordonne la confiscation des biens infractionnels non-chimiques au profit :
+	- **a)** soit de Sa Majesté du chef de la province où les procédures visées à l’alinéa (2)b) ont été engagées, si elles l’ont été à la demande du gouvernement de cette province, pour que le procureur général ou le solliciteur général de la province en dispose conformément au droit applicable;
+	- **b)** soit de Sa Majesté du chef du Canada pour que le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application du présent alinéa en dispose conformément au droit applicable, dans tout autre cas.
 
 **Biens à l’étranger**
 
 - **(5)** Les ordonnances visées au présent article peuvent être rendues à l’égard de biens situés à l’étranger, avec les adaptations nécessaires.
-> 1996, ch. 19, art. 17; 2001, ch. 32, art. 52.
+> 1996, ch. 19, art. 17; 2001, ch. 32, art. 52; 2017, ch. 7, art. 17.
 
 
 
 
 
-**Annulation des cessions**
+**Annulation des transferts**
 
-**18** Avant d’ordonner la confiscation visée aux paragraphes 16(1) ou 17(2), le tribunal peut annuler toute cession d’un bien infractionnel survenue après sa saisie ou son blocage; le présent article ne vise toutefois pas les cessions qui ont été faites à titre onéreux à une personne agissant de bonne foi.
+**18** Avant d’ordonner la confiscation visée aux paragraphes 16(1) ou 17(2), le tribunal peut annuler tout transfert d’un bien survenu après sa saisie ou son blocage; le présent article ne vise toutefois pas les transferts qui ont été faits pour contrepartie à titre onéreux à une personne agissant de bonne foi.
+> 1996, ch. 19, art. 18; 2017, ch. 7, art. 18.
+
 
 
 
@@ -720,14 +764,16 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 
 **Modalités**
 
-- **(2)** L’avis mentionné au paragraphe (1) :
-	- **a)** est donné ou signifié de la façon que le tribunal l’ordonne ou que prévoient les règles de celui-ci;
-	- **b)** prévoit le délai que le tribunal estime raisonnable ou que fixent les règles de celui-ci;
+- **(2)** L’avis :
+	- **a)** est donné selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
+	- **b)** précise le délai que le tribunal estime raisonnable ou que fixent les règles de celui-ci dans lequel toute personne peut présenter une demande alléguant un droit sur le bien;
 	- **c)** mentionne l’infraction désignée à l’origine de l’accusation et comporte une description du bien en question.
 
 **Ordonnance de restitution**
 
 - **(3)** Le tribunal peut ordonner que des biens qui autrement seraient confisqués en vertu des paragraphes 16(1) ou 17(2) soient restitués en tout ou en partie à une personne — autre que celle qui est accusée d’une infraction désignée ou celle qui a obtenu un titre ou un droit de possession sur ces biens de la personne accusée d’une telle infraction dans des circonstances telles qu’elles permettent raisonnablement d’induire que l’opération a été effectuée dans l’intention d’éviter la confiscation des biens — à la condition d’être convaincu que cette personne en est le propriétaire légitime ou a droit à leur possession et semble innocente de toute complicité ou collusion à l’égard de l’infraction.
+> 1996, ch. 19, art. 19; 2017, ch. 7, art. 19.
+
 
 
 
@@ -736,25 +782,25 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 
 **19.1** 
 
-- **(1)** Avant de rendre une ordonnance de confiscation de biens infractionnels — composés d’une maison d’habitation en tout ou en partie — confiscables en vertu des paragraphes 16(1) ou 17(2), le tribunal exige que soit donné un avis conformément au paragraphe (2) à toute personne qui est membre de la famille immédiate de la personne accusée ou reconnue coupable d’un acte criminel prévu à la présente loi et lié à la confiscation des biens et qui habite la maison; le tribunal peut aussi entendre un tel membre.
+- **(1)** Avant de rendre une ordonnance de confiscation de biens — composés d’une maison d’habitation en tout ou en partie — confiscables au titre des paragraphes 16(1) ou 17(2), le tribunal exige que soit donné un avis conformément au paragraphe (2) à toute personne qui habite la maison et qui est membre de la famille immédiate de la personne accusée d’un acte criminel prévu à la présente loi et lié à la confiscation des biens, condamnée pour cet acte criminel ou absoute de celui-ci en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); le tribunal peut aussi entendre un tel membre.
 
 **Modalités de l’avis**
 
 - **(2)** L’avis :
-	- **a)** est donné ou signifié selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
-	- **b)** est donné dans le délai que le tribunal estime raisonnable ou que fixent les règles de celui-ci;
+	- **a)** est donné selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
+	- **b)** précise le délai que le tribunal estime raisonnable ou que fixent les règles de celui-ci dans lequel le membre de la famille immédiate qui habite la maison peut se manifester;
 	- **c)** mentionne l’infraction à l’origine de l’accusation et comporte une description des biens.
 
 **Non-confiscation de biens immeubles**
 
-- **(3)** Sous réserve d’une ordonnance rendue en vertu du paragraphe 19(3), le tribunal peut ne pas ordonner la confiscation de tout ou partie de biens immeubles confiscables en vertu des paragraphes 16(1) ou 17(2) et annuler toute ordonnance de blocage à l’égard de tout ou partie des biens, s’il est convaincu que la confiscation serait démesurée par rapport à la nature et à la gravité de l’infraction, aux circonstances de sa perpétration et, s’il y a lieu, au casier judiciaire de la personne accusée ou reconnue coupable de l’infraction, selon le cas.
+- **(3)** Sous réserve d’une ordonnance rendue en vertu du paragraphe 19(3), le tribunal peut ne pas ordonner la confiscation de tout ou partie de biens immeubles confiscables en vertu des paragraphes 16(1) ou 17(2) et annuler toute ordonnance de blocage à l’égard de tout ou partie des biens, s’il est convaincu que l’effet de la confiscation serait démesuré par rapport à la nature et à la gravité de l’infraction, aux circonstances de sa perpétration et, s’il y a lieu, au casier judiciaire de la personne qui est accusée de l’infraction, condamnée pour cette infraction ou en est absoute en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), selon le cas.
 
 **Facteurs : maison d’habitation**
 
 - **(4)** Dans le cas où les biens confiscables en vertu des paragraphes 16(1) ou 17(2) sont composés d’une maison d’habitation en tout ou en partie, le tribunal, pour rendre sa décision au titre du paragraphe (3), prend aussi en compte les facteurs suivants :
-	- **a)** l’effet qu’aurait la confiscation à l’égard d’un membre de la famille immédiate de la personne accusée ou reconnue coupable de l’infraction, si la maison était la résidence principale de ce membre avant que l’accusation soit portée et elle continue de l’être par la suite;
+	- **a)** l’effet qu’aurait la confiscation à l’égard d’un membre de la famille immédiate de la personne qui est accusée de l’infraction, condamnée pour cette infraction ou en est absoute, si la maison était la résidence principale de ce membre avant que l’accusation ne soit portée et qu’elle continue de l’être par la suite;
 	- **b)** le fait que le membre de la famille visé à l’alinéa a) semble innocent ou non de toute complicité ou collusion à l’égard de l’infraction.
-> 2001, ch. 32, art. 53.
+> 2001, ch. 32, art. 53; 2017, ch. 7, art. 20.
 
 
 
@@ -764,8 +810,8 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 
 **20** 
 
-- **(1)** Quiconque prétend avoir un droit sur un bien infractionnel confisqué au profit de Sa Majesté en vertu des paragraphes 16(1) ou 17(2) peut, dans les trente jours suivant la confiscation, demander par écrit à un juge de rendre en sa faveur l’ordonnance prévue au paragraphe (4); le présent paragraphe ne s’applique pas aux personnes suivantes :
-	- **a)** celle qui a été reconnue coupable de l’infraction désignée commise relativement à un bien confisqué aux termes du paragraphe 16(1);
+- **(1)** Quiconque prétend avoir un droit sur un bien confisqué au profit de Sa Majesté au titre des paragraphes 16(1) ou 17(2) peut, dans les trente jours suivant la confiscation, demander par écrit à un juge de rendre en sa faveur l’ordonnance prévue au paragraphe (4); le présent paragraphe ne s’applique pas aux personnes suivantes :
+	- **a)** celle qui a été condamnée pour l’infraction désignée commise relativement à un bien confisqué aux termes du paragraphe 16(1) ou en a été absoute en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** celle qui a été accusée de l’infraction désignée commise relativement à un bien confisqué aux termes du paragraphe 17(2);
 	- **c)** celle qui a obtenu, de l’une ou l’autre des personnes visées aux alinéas a) ou b), un titre ou un droit de possession sur ce bien dans des circonstances telles qu’elles permettent raisonnablement d’induire que l’opération a été effectuée dans l’intention d’éviter la confiscation du bien.
 
@@ -792,6 +838,8 @@ La présomption vaut alors à compter du dernier jour de cette période de six m
 - **(6)** Le ministre est tenu, à la demande de toute personne à l’égard de laquelle une ordonnance a été rendue en vertu du paragraphe (4) et lorsque les délais d’appel sont expirés et que l’appel interjeté a été tranché, d’ordonner :
 	- **a)** soit la restitution, au demandeur, du bien ou de la partie du bien sur laquelle porte le droit de celui-ci;
 	- **b)** soit le paiement, au demandeur, d’une somme égale à la valeur de son droit déclarée dans l’ordonnance.
+> 1996, ch. 19, art. 20; 2017, ch. 7, art. 21.
+
 
 
 
@@ -812,13 +860,30 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
-**23** [Abrogé, 2001, ch. 32, art. 54]
+
+**SECTION 2** 
+### Substances désignées, précurseurs et biens infractionnels chimiques
 
 
 
+**Restitution**
 
-**PARTIE III** 
-## Disposition des substances désignées
+**23** 
+
+- **(1)** L’agent de la paix, l’inspecteur ou la personne visée par règlement qui saisit, trouve ou obtient de toute autre manière une substance désignée, un précurseur ou un bien infractionnel chimique peut restituer la substance, le précurseur ou le bien au propriétaire légitime ou à la personne qui a droit à sa possession, lorsqu’il est convaincu :
+	- **a)** d’une part, qu’il n’y a aucune contestation quant à la propriété ou à la possession légitime de la substance, du précurseur ou du bien;
+	- **b)** d’autre part, que la détention de celui-ci n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale.
+
+**Reçu**
+
+- **(2)** Lorsqu’il restitue la substance, le précurseur ou le bien, l’agent de la paix, l’inspecteur ou la personne visée par règlement obtient un reçu en attestant la restitution.
+
+**Rapport par l’agent de la paix**
+
+- **(3)** Dans le cas d’une saisie effectuée en vertu de l’article 11 de la présente loi, du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou d’un pouvoir spécifique reconnu par la common law, l’agent de la paix fait rapport de la restitution au juge de paix qui a décerné le mandat ou à un autre juge de paix de la même circonscription territoriale, ou encore, au juge de paix qui aurait été compétent pour le décerner, dans le cas où la saisie s’est effectuée sans mandat.
+> 1996, ch. 19, art. 23; 2001, ch. 32, art. 54; 2017, ch. 7, art. 22.
+
+
 
 
 
@@ -826,70 +891,89 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **24** 
 
-- **(1)** Toute personne peut, dans les soixante jours suivant la date où une substance désignée a été saisie, trouvée ou obtenue de toute autre manière par un agent de la paix ou un inspecteur et sur préavis donné au procureur général selon les modalités réglementaires, demander par avis écrit à un juge de paix de la circonscription territoriale où la substance est retenue de lui en ordonner la restitution.
+- **(1)** Toute personne peut, dans les soixante jours suivant la date où une substance désignée, un précurseur ou un bien infractionnel chimique a été saisi, trouvé ou obtenu de toute autre manière par un agent de la paix, un inspecteur ou une personne visée par règlement et sur préavis donné au procureur général selon les modalités réglementaires, demander par avis écrit à un juge de paix de la circonscription territoriale où la substance, le précurseur ou le bien est retenu d’ordonner la restitution.
 
-**Ordonnance de restitution immédiate**
+**Ordonnance de restitution dès que possible**
 
-- **(2)** S’il est convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance désignée ou a droit à sa possession et si le procureur général n’a pas indiqué que la substance pourrait, en tout ou en partie, être nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, le juge de paix, sous réserve du paragraphe (5), ordonne qu’elle soit, en tout ou en partie, selon le cas, restituée sans délai au demandeur.
+- **(2)** S’il est convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance, du précurseur ou du bien ou a droit à sa possession et si le procureur général n’a pas indiqué que tout ou partie de la substance, du précurseur ou du bien pourrait être nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, le juge de paix, sous réserve du paragraphe (5), ordonne que la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, soit restituée, dès que possible, au demandeur.
 
 **Ordonnance de restitution ultérieure**
 
-- **(3)** Si le procureur général fait savoir que la substance désignée pourrait, en tout ou en partie, être nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, le juge de paix, au lieu d’en ordonner la restitution immédiate, est tenu, sous réserve du paragraphe (5), d’ordonner qu’elle soit, en tout ou en partie, selon le cas, restituée au demandeur :
-	- **a)** à l’expiration du cent quatre-vingtième jour suivant la date de la demande, si aucune procédure n’a encore été engagée à l’égard de la substance;
-	- **b)** dans le cas contraire, à l’issue des procédures, si le demandeur n’y a été reconnu coupable d’aucune infraction perpétrée en rapport avec la substance.
+- **(3)** S’il est convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance, du précurseur ou du bien ou a droit à sa possession mais que le procureur général indique que tout ou partie de la substance, du précurseur ou du bien pourrait être nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, le juge de paix, sous réserve du paragraphe (5), ordonne que la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, soit restituée au demandeur :
+	- **a)** à l’expiration des cent quatre-vingts jours suivant la date de la demande, si aucune procédure n’a encore été engagée à l’égard de la substance, du précurseur ou du bien;
+	- **b)** dans le cas contraire, à l’issue des procédures, si le demandeur n’est reconnu coupable d’aucune infraction perpétrée à l’égard de la substance, du précurseur ou du bien.
 
 **Ordonnance de confiscation**
 
-- **(4)** S’il n’est pas convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance désignée ou a droit à sa possession, le juge de paix ordonne que la substance, dans la mesure où elle n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, soit, en tout ou en partie, selon le cas, confisquée au profit de Sa Majesté. Il en est alors disposé conformément aux règlements applicables ou, à défaut, selon les instructions du ministre.
+- **(4)** S’il n’est pas convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance, du précurseur ou du bien ou a droit à sa possession, le juge de paix ordonne que la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, qui n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, soit confisquée au profit de Sa Majesté. Il en est alors disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
 
 **Paiement compensatoire**
 
-- **(5)** S’il est convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance désignée ou a droit à sa possession, mais que la substance a fait l’objet d’une ordonnance rendue aux termes du paragraphe 26(2), le juge de paix ordonne que soit versée à cette personne une somme de valeur égale à celle de la substance désignée.
+- **(5)** S’il est convaincu, lors de l’audition de la demande, que l’auteur de celle-ci est le propriétaire légitime de la substance, du précurseur ou du bien ou a droit à sa possession, mais qu’il a en été disposé en application de l’article 26, le juge de paix ordonne que soit versée à cette personne une somme de valeur égale à celle de la substance, du précurseur ou du bien.
+> 1996, ch. 19, art. 24; 2017, ch. 7, art. 22.
 
 
 
 
-**Défaut de demande**
 
-**25** À défaut de demande de restitution dans le délai de soixante jours prévu au paragraphe 24(1), la substance désignée, dans la mesure où elle n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, est, en tout ou en partie, selon le cas, remise au ministre. Il en est alors disposé conformément aux règlements applicables ou, à défaut, selon les instructions du ministre.
+**Confiscation : absence de demande**
+
+**25** Si tout ou partie d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique saisi, trouvé ou obtenu de toute autre manière par un agent de la paix, un inspecteur ou une personne visée par règlement n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale et qu’aucune demande de restitution n’a été faite à l’égard de la substance, du précurseur ou du bien dans le délai de soixante jours prévu au paragraphe 24(1), la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, est confisquée au profit de Sa Majesté et il peut en être disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
+> 1996, ch. 19, art. 25; 2017, ch. 7, art. 22.
 
 
 
 
-**Risque d’atteinte à la sécurité ou à la santé publiques**
 
-**26** 
+**Disposition expresse**
 
-- **(1)** S’il a des motifs raisonnables de croire qu’une substance désignée qui a été saisie, trouvée ou obtenue de toute autre manière par un agent de la paix ou un inspecteur risque de porter atteinte à la sécurité ou à la santé publiques, le ministre peut à tout moment, sur préavis donné au procureur général selon les modalités réglementaires, demander, par procédure *ex parte*, au juge de paix d’ordonner que la substance soit confisquée au profit de Sa Majesté pour qu’il en soit par la suite disposé conformément aux règlements applicables ou, à défaut, selon les instructions du ministre.
+**26** Le ministre, un agent de la paix ou une personne visée par règlement peut, si tout ou partie d’un précurseur ou d’un bien infractionnel chimique, dont l’entreposage ou la manutention pose un risque à la santé ou à la sécurité, ou d’une substance désignée n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, en disposer conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
+> 1996, ch. 19, art. 26; 2017, ch. 7, art. 22.
 
-**Risque d’atteinte à la sécurité ou à la santé publiques**
-
-- **(2)** S’il est convaincu, lors de l’audition de la demande, qu’il y a des motifs raisonnables de croire que la substance désignée risque de porter atteinte à la sécurité ou à la santé publiques, le juge de paix ordonne que la substance, dans la mesure où elle n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, soit, en tout ou en partie, selon le cas, confisquée au profit de Sa Majesté pour qu’il en soit par la suite disposé conformément aux règlements applicables ou, à défaut, selon les instructions du ministre.
 
 
 
 
 **Autres cas de disposition**
 
-**27** Sous réserve de l’article 24, s’il est convaincu que la substance désignée qui se trouve devant lui dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — dont il a été saisi aux termes de la présente loi ou de toute autre loi fédérale n’est plus nécessaire à ses travaux ou à ceux d’une autre juridiction, le tribunal :
+**27** Sous réserve de l’article 24, s’il est convaincu que la substance désignée, le précurseur ou le bien infractionnel chimique qui se trouve devant lui dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — dont il a été saisi aux termes de la présente loi ou de toute autre loi fédérale n’est plus nécessaire à ses travaux ou à ceux d’une autre juridiction, le tribunal :
 - **a)** en ordonne la restitution :
-	- **(i)** au saisi, s’il est convaincu par ailleurs que celui-ci en avait pris possession, et avait par la suite continué à s’en servir, conformément aux règlements,
-	- **(ii)** à son propriétaire légitime ou à la personne qui a droit à sa possession, si elle est connue et si le tribunal est convaincu que le saisi n’en avait pas la possession légitime;
-- **b)** peut en ordonner la confiscation au profit de Sa Majesté — et il peut alors en être disposé conformément aux règlements applicables ou, à défaut, selon les instructions du ministre — dans les cas où soit il n’est pas convaincu du bien-fondé de sa restitution, soit le saisi n’en avait pas la possession légitime et son propriétaire légitime ou la personne qui a droit à sa possession n’est pas connu.
+	- **(i)** au saisi, s’il est convaincu par ailleurs que celui-ci en avait pris possession, et avait par la suite continué à s’en servir, légitimement,
+	- **(ii)** à la personne qui est son propriétaire légitime ou qui a droit à sa possession, si elle est connue et si le tribunal est convaincu que le saisi n’en avait pas la possession légitime;
+- **b)** peut en ordonner la confiscation au profit de Sa Majesté — pour qu’il en soit disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre — dans les cas où soit il n’est pas convaincu du bien-fondé de sa restitution, soit le saisi n’en avait pas la possession légitime et la personne qui est son propriétaire légitime ou qui a droit à sa possession n’est pas connue.
+> 1996, ch. 19, art. 27; 2017, ch. 7, art. 23.
+
 
 
 
 
 **Disposition sur consentement**
 
-**28** Le propriétaire légitime de toute substance désignée qui a été saisie, trouvée ou obtenue de toute autre manière par un agent de la paix ou un inspecteur aux termes de la présente loi ou de ses règlements, de même que la personne qui a droit à sa possession, peut, dans la mesure où tout ou partie de la substance n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, consentir à ce qu’il en soit disposé. La substance est dès lors confisquée, en tout ou en partie, selon le cas, au profit de Sa Majesté et il peut en être disposé conformément aux règlements applicables ou, à défaut, selon les instructions du ministre.
+**28** Le propriétaire légitime d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique qui a été saisi, trouvé ou obtenu de toute autre manière par un agent de la paix, un inspecteur ou une personne visée par règlement, peut, dans la mesure où la totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, n’est pas nécessaire dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale, consentir à ce qu’il en soit disposé. La totalité ou la partie de la substance, du précurseur ou du bien, selon le cas, est dès lors confisquée au profit de Sa Majesté et il peut en être disposé conformément aux règlements ou, à défaut, de la manière prévue par le ministre.
+> 1996, ch. 19, art. 28; 2017, ch. 7, art. 24.
 
 
 
 
-**Destruction des plantes**
 
-**29** Le ministre peut, sur préavis donné au procureur général, faire détruire les plantes dont peuvent être extraites les substances inscrites aux annexes I, II, III ou IV et qui sont produites sans permis réglementaire ou en violation de celui-ci.
+**Rapport de disposition**
+
+**29** 
+
+- **(1)** Sous réserve des règlements, l’agent de la paix, l’inspecteur ou la personne visée par règlement qui, en application de la présente section, dispose d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique est tenu, dans les trente jours suivant la disposition, d’établir un rapport précisant les renseignements ci-après et de le faire envoyer au ministre :
+	- **a)** la substance, le précurseur ou le bien;
+	- **b)** la quantité dont il est disposé;
+	- **c)** la manière dont il en est disposé;
+	- **d)** la date de la disposition;
+	- **e)** le nom du corps policier, de l’organisme ou de l’entité dont est membre l’agent de la paix, l’inspecteur ou la personne visée par règlement;
+	- **f)** le numéro du rapport de police ou du dossier relatif à la disposition;
+	- **g)** tout autre renseignement réglementaire.
+
+**Précision**
+
+- **(2)** Pour l’application du paragraphe (1), la disposition d’une substance désignée, d’un précurseur ou d’un bien infractionnel chimique par un agent de la paix s’entend notamment de l’utilisation de la substance, du précurseur ou du bien à des fins d’enquête ou à des fins de formation.
+> 1996, ch. 19, art. 29; 2017, ch. 7, art. 24.
+
 
 
 
@@ -995,7 +1079,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Restitution ou disposition par le ministre**
 
-- **(9)** Malgré les articles 24, 25 et 27, les choses saisies en vertu du présent article qui n’ont pas, dans les cent vingt jours suivant la date de leur saisie, été restituées en application du paragraphe (8) doivent, conformément aux règlements ou, à défaut, de la manière prévue par le ministre, être restituées ou faire l’objet d’une disposition.
+- **(9)** Les choses saisies en vertu du présent article et qui n’ont pas, dans les cent vingt jours suivant la date de leur saisie, été restituées ou dont il n’a pas été disposé en application du paragraphe (8) ou de l’un ou l’autre des articles 24 à 27, doivent, conformément aux règlements ou, à défaut, de la manière prévue par le ministre, être restituées ou faire l’objet d’une disposition.
 > 1996, ch. 19, art. 31; 2015, ch. 22, art. 3; 2017, ch. 7, art. 26.
 
 
@@ -1184,11 +1268,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **45** 
 
-- **(1)** L’inspecteur ou l’agent de la paix peut transmettre à l’analyste, pour analyse ou examen, toute substance — ou tout échantillon de celle-ci — qu’il a recueillie dans le cadre de la présente loi.
+- **(1)** L’agent de la paix, l’inspecteur ou la personne visée par règlement peut transmettre à l’analyste, pour analyse ou examen, toute substance — ou tout échantillon de celle-ci — qu’il a recueillie.
 
 **Certificat ou rapport**
 
 - **(2)** L’analyste peut, après analyse ou examen, établir un certificat ou un rapport faisant état de cette analyse ou de cet examen, ainsi que de ses résultats.
+> 1996, ch. 19, art. 45; 2017, ch. 7, art. 29.
+
 
 
 
@@ -1297,9 +1383,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Peine**
 
 **46** Quiconque contrevient à une disposition de la présente loi pour laquelle aucune peine n’est spécifiquement prévue, à une disposition d’un règlement ou à un arrêté pris en vertu des articles 45.1 ou 45.2 commet :
-- **a)** soit un acte criminel passible d’une amende maximale de cinq mille dollars et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines;
-- **b)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
-> 1996, ch. 19, art. 46; 2017, ch. 7, art. 33.
+- **a)** soit un acte criminel passible d’une amende maximale de 5 000 000 $ et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines;
+- **b)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible, pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines, et, en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
+> 1996, ch. 19, art. 46; 2017, ch. 7, art. 33; 2018, ch. 16, art. 200.
 
 
 
@@ -1421,13 +1507,15 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **50** 
 
-- **(1)** Sous réserve du paragraphe (2), le certificat ou autre document délivré en application des règlements pris aux termes de l’alinéa 55(2)c) est admissible en preuve dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale et, sauf preuve contraire, fait foi de la validité de sa délivrance et de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+- **(1)** Sous réserve du paragraphe (2), le certificat ou autre document délivré en application des règlements pris aux termes des alinéas 55(2)c) ou (2.1)c) est admissible en preuve dans le cadre d’une procédure — notamment d’une enquête préliminaire ou d’un procès — engagée sous le régime de la présente loi ou de toute autre loi fédérale et, sauf preuve contraire, fait foi de la validité de sa délivrance et de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
 
 **Affidavit ou comparution**
 
 - **(2)** La défense peut, avec l’autorisation du tribunal, exiger de la personne qui a délivré le certificat ou autre document :
 	- **a)** soit qu’elle produise un affidavit ou une déclaration solennelle portant sur l’un ou l’autre des éléments dont le certificat ou autre document est censé faire foi aux termes du paragraphe (1);
 	- **b)** soit qu’elle comparaisse devant le tribunal pour interrogatoire ou contre-interrogatoire sur la délivrance du certificat ou autre document.
+> 1996, ch. 19, art. 50; 2018, ch. 16, art. 201.
+
 
 
 
@@ -1478,6 +1566,19 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Copies des documents**
 
 **54** Les livres, registres, données électroniques ou autres documents examinés ou saisis en application de la présente loi ou de ses règlements peuvent être reproduits à la demande du ministre ou de l’agent qui procède à l’examen ou à la saisie. Toute copie censée certifiée par le ministre ou son délégué est admissible en preuve et a, sauf preuve contraire, la force probante d’un original dont l’authenticité aurait été établie selon la procédure habituelle.
+
+
+
+
+### Assistance technique
+
+
+
+**Conseils d’experts**
+
+**54.1** Le ministre peut retenir les services d’experts ou de spécialistes pour le conseiller relativement à l’exercice de ses attributions en vertu de la présente loi et, avec l’approbation du Conseil du Trésor, fixer leur rémunération.
+> 2018, ch. 16, art. 202.
+
 
 
 
