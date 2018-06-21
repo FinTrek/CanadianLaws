@@ -111,23 +111,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **4** 
 
 - **(1)** Lorsqu’il en prend possession ou qu’il en prend la charge, le ministre devient responsable de la garde et de l’administration des biens suivants :
-	- **a)
-** les biens saisis en vertu d’un mandat délivré à la demande du procureur général sous le régime des articles 83.13, 462.32 ou 487 du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 11 de la 
-[Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 14.1(2) de la 
-[Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
-	- **b)
-** les biens bloqués en vertu d’une ordonnance rendue à la demande du procureur général sous le régime des articles 83.13, 462.33 ou 490.8 du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 14 de la 
-[Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 14.1(2) de la 
-[Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
-	- **b.1)
-** les biens confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la 
-[Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
-	- **c)
-** les biens visés par une ordonnance de prise en charge.
+	- **a)** les biens saisis en vertu d’un mandat délivré à la demande du procureur général sous le régime des articles 83.13, 462.32 ou 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 11 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 15.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+	- **b)** les biens bloqués en vertu d’une ordonnance rendue à la demande du procureur général sous le régime des articles 83.13, 462.33 ou 490.8 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 14 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 15.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+	- **b.1)** les biens confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
+	- **c)** les biens visés par une ordonnance de prise en charge.
 
 **Maintien de la responsabilité**
 
@@ -140,7 +127,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application d’autres lois**
 
 - **(4)** Le présent article n’a pas pour effet de porter atteinte aux dispositions du* Code criminel*, de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de toute autre loi fédérale concernant les biens dont le ministre a la possession ou la charge.
-> 1993, ch. 37, art. 4; 1996, ch. 19, art. 87; 1997, ch. 18, art. 135(F); 2000, ch. 17, art. 93; 2001, ch. 32, art. 75, ch. 41, art. 84, 107 et 135.
+> 1993, ch. 37, art. 4; 1996, ch. 19, art. 87; 1997, ch. 18, art. 135(F); 2000, ch. 17, art. 93; 2001, ch. 32, art. 75, ch. 41, art. 84, 107 et 135; 2017, ch. 7, art. 70.
 
 
 
@@ -150,14 +137,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** La personne qui a la charge de biens visés par une ordonnance de prise en charge rendue sous le régime des paragraphes 83.13(2), 462.331(1) ou 490.81(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 14.1(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou du paragraphe 7(1) de la présente loi doit, dans les meilleurs délais possible après la prise de l’ordonnance, transférer au ministre la charge des biens, sauf de ceux requis, en tout ou en partie, aux fins de preuve ou d’enquête.
+- **(1)** La personne qui a la charge de biens visés par une ordonnance de prise en charge rendue sous le régime des paragraphes 83.13(2), 462.331(1) ou 490.81(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 15.1(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou du paragraphe 7(1) de la présente loi est tenue, dans les meilleurs délais possible après la prise de l’ordonnance, de transférer au ministre la charge des biens, sauf de ceux requis, en tout ou en partie, aux fins de preuve ou d’enquête.
 
 **Rapport sur la situation des biens**
 
 - **(2)** Le ministre fait rapport des biens dont il a pris la charge en application du paragraphe (1) et qu’il détient dans un lieu différent de celui précisé dans le rapport prévu à l’alinéa 462.32(4)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). Il établit son rapport en la forme réglementaire, y précise la localisation des biens et le dépose selon les modalités réglementaires auprès du greffier du tribunal qui a délivré le mandat.
 
 - **(3)** [Abrogé, 2015, ch. 3, art. 152]
-> 1993, ch. 37, art. 5; 2001, ch. 32, art. 76, ch. 41, art. 108 et 135; 2015, ch. 3, art. 152.
+> 1993, ch. 37, art. 5; 2001, ch. 32, art. 76, ch. 41, art. 108 et 135; 2015, ch. 3, art. 152; 2017, ch. 7, art. 71.
 
 
 
@@ -191,8 +178,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Administration**
 
 - **(2)** Le pouvoir du ministre à l’égard des biens saisis assujettis à l’ordonnance de prise en charge comprend notamment :
-	- **a)** dans le cas de biens périssables ou qui se déprécient rapidement, le pouvoir de les vendre en cours d’instance;
-	- **b)** dans le cas de biens qui n’ont pas ou peu de valeur, le pouvoir de les détruire.
+	- **a)** le pouvoir de vendre en cours d’instance les biens périssables ou qui se déprécient rapidement;
+	- **b)** le pouvoir de détruire, conformément aux paragraphes (2.1) à (2.4), les biens d’aucune ou de peu de valeur;
+	- **c)** le pouvoir de faire confisquer, au profit de Sa Majesté, les biens autres que les biens immeubles ou les moyens de transport, conformément au paragraphe (2.5).
 
 **Demande d’ordonnance de destruction**
 
@@ -200,22 +188,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(2.2)** Avant de rendre une ordonnance de destruction d’un bien, le tribunal exige que soit donné un avis conformément au paragraphe (2.3) à quiconque, à son avis, semble avoir un droit sur le bien; le tribunal peut aussi entendre une telle personne.
+- **(2.2)** Avant de rendre une ordonnance de destruction, le tribunal exige que soit donné un avis conformément au paragraphe (2.3) à quiconque, à son avis, semble avoir un droit sur le bien; le tribunal peut aussi entendre une telle personne.
 
 **Modalités de l’avis**
 
 - **(2.3)** L’avis :
-	- **a)** est donné ou signifié selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
-	- **b)** est donné dans le délai que le tribunal estime raisonnable ou que fixent les règles de celui-ci.
+	- **a)** est donné selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
+	- **b)** précise la durée que le tribunal estime raisonnable quant à sa validité ou que fixent les règles de celui-ci.
 
-**Ordonnance**
+**Ordonnance de destruction**
 
-- **(2.4)** Le tribunal ordonne la destruction du bien s’il est convaincu que le bien n’a pas ou peu de valeur, financière ou autre.
+- **(2.4)** Le tribunal ordonne la destruction du bien s’il est convaincu que le bien n’a que peu ou pas de valeur, financière ou autre.
 
-**Fin d’effet**
+**Ordonnance de confiscation**
 
-- **(3)** L’ordonnance prend fin lorsque les biens qu’elle vise sont remis, conformément à la loi, à celui qui présente une demande à cet effet ou qu’ils sont confisqués au profit de Sa Majesté.
-> 1993, ch. 37, art. 7; 2001, ch. 32, art. 77.
+- **(2.5)** Sur demande du ministre, le tribunal ordonne que le bien autre qu’un bien immeuble ou un moyen de transport soit confisqué au profit de Sa Majesté pour qu’il en soit disposé conformément au droit applicable si, à la fois :
+	- **a)** un avis a été donné ou publié selon les modalités précisées par le tribunal ou prévues par les règles de celui-ci;
+	- **b)** l’avis précise un délai de soixante jours dans lequel toute personne peut présenter une demande alléguant un droit sur le bien;
+	- **c)** personne n’a présenté une telle demande dans ce délai.
+
+**Cessation d’effet de l’ordonnance de prise en charge**
+
+- **(3)** L’ordonnance de prise en charge prend fin lorsque les biens qu’elle vise sont restitués, conformément au droit applicable, détruits ou confisqués au profit de Sa Majesté.
+
+**Précision**
+
+- **(4)** Il est entendu que l’ordonnance de prise en charge s’applique au produit net de la vente du bien faisant l’objet de l’ordonnance.
+> 1993, ch. 37, art. 7; 2001, ch. 32, art. 77; 2017, ch. 7, art. 72.
 
 
 
