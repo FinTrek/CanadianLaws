@@ -520,16 +520,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Radiation et destruction des renseignements**
 
 - **(2)** Malgré toute autre loi fédérale, tous les renseignements afférents à une ordonnance qui sont recueillis sous le régime de la présente loi ou enregistrés dans la banque de données sont radiés et détruits dans les cas suivants :
-	- **a)** acquittement final de l’intéressé ou pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard de chaque infraction à l’origine de l’ordonnance;
+	- **a)** acquittement final de l’intéressé, pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou ordonnance de radiation rendue au titre de la [Loi sur la radiation de condamnations constituant des injustices historiques](/fr/Lois/Lois%20du%20Canada/2018/ch.%2011.md) à l’égard de chaque infraction à l’origine de l’ordonnance;
 	- **b)** cessation d’effet, aux termes du paragraphe 249.11(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de la sentence imposée à l’intéressé à l’égard de chaque infraction à l’origine de l’ordonnance.
 
 **Radiation et destruction des renseignements**
 
 - **(3)** Malgré toute autre loi fédérale, tous les renseignements afférents à l’obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) qui sont recueillis sous le régime de la présente loi ou enregistrés dans la banque de données sont radiés et détruits dans les cas suivants :
-	- **a)** acquittement final de l’intéressé ou pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard de chaque infraction à l’origine de l’obligation;
+	- **a)** acquittement final de l’intéressé, pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou ordonnance de radiation rendue au titre de la [Loi sur la radiation de condamnations constituant des injustices historiques](/fr/Lois/Lois%20du%20Canada/2018/ch.%2011.md) à l’égard de chaque infraction à l’origine de l’obligation;
 	- **b)** cessation d’effet, aux termes du paragraphe 249.11(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de la sentence imposée à l’intéressé à l’égard de chaque infraction à l’origine de l’obligation;
 	- **c)** dispense de l’obligation prononcée au titre des paragraphes 490.023(2) ou 490.02905(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 227.1(4) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou sur appel de la décision rendue au titre d’une de ces dispositions.
-> 2004, ch. 10, art. 15; 2007, ch. 5, art. 46; 2010, ch. 17, art. 42.
+> 2004, ch. 10, art. 15; 2007, ch. 5, art. 46; 2010, ch. 17, art. 42; 2018, ch. 11, art. 30.
 
 
 
