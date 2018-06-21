@@ -67,7 +67,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***boutique hors taxes à l’étranger*** Magasin de vente au détail situé dans un pays étranger qui est autorisé par les lois du pays à vendre des marchandises en franchise de certains droits et taxes aux particuliers sur le point de quitter le pays. (*foreign duty free shop*)
 
+***cannabis*** S’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*cannabis*) 
+
 ***centre de remplissage libre-service*** Local où, conformément aux lois de la province où il est situé, de l’alcool est fourni à partir d’un contenant spécial marqué, en vue d’être emballé par l’acheteur. (*bottle-your-own premises*)
+
+***chanvre industriel*** Cannabis qui constitue du chanvre industriel pour l’application de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) ou du [Règlement sur le chanvre industriel](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/145.md). (*industrial hemp*) 
 
 ***cigare*** Comprend :
 - **a)** les cigarillos et manilles;
@@ -81,7 +85,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***commissaire*** Le commissaire du revenu, nommé en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md). (*Commissioner*)
 
-***contenant*** En ce qui concerne les produits du tabac, enveloppe, paquet, cartouche, boîte, caisse ou autre contenant les renfermant. La présente définition ne s’applique pas aux articles 258 et 260. (*container*)
+***contenant*** En ce qui concerne un produit du tabac ou un produit du cannabis, enveloppe, paquet, cartouche, boîte, caisse, bouteille, ampoule ou autre contenant le renfermant. La présente définition ne s’applique pas aux articles 258 et 260. (*container*) 
 
 ***contenant spécial***
 - **a)** En ce qui concerne les spiritueux, contenant d’une capacité de plus de 100 L et d’au plus 1 500 L;
@@ -99,14 +103,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***données*** Toute forme de représentation d’informations ou de notions. (*data*)
 
+***drogue de cannabis sur ordonnance*** Produit du cannabis qui est une drogue à laquelle une identification numérique a été attribuée en application du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), sauf les produits suivants : 
+- **a)** une drogue ou un mélange de drogues qui peut, aux termes de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), être vendu à un consommateur, au sens du paragraphe 123(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), sans ordonnance, au sens de l’article 1 de la partie I de l’annexe VI de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
+- **b)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire. (*prescription cannabis drug*)
+
 ***droit*** Sauf indication contraire, le droit imposé en vertu de la présente loi et le droit perçu en vertu des articles 21.1 ou 21.2 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), y compris, sauf aux parties 3 et 4, le droit spécial. (*duty*)
+
+***droit additionnel sur le cannabis*** Droit imposé en vertu des articles 158.2 ou 158.22. (*additional cannabis duty*) 
 
 ***droit spécial***
 - **a)** En ce qui concerne les produits du tabac, le droit spécial imposé en vertu des paragraphes 53(1), 54(2) ou 56(1);
 - **b)** en ce qui concerne les spiritueux importés, le droit spécial imposé en vertu du paragraphe 133(1). (*special duty*)
 
+***droit sur le cannabis*** Droit imposé en vertu des articles 158.19 ou 158.21. (*cannabis duty*) 
+
 ***emballé***
-- **a)** Se dit du tabac en feuilles ou des produits du tabac qui sont présentés dans un emballage réglementaire;
+- **a)** Se dit du tabac en feuilles, des produits du tabac ou des produits du cannabis qui sont présentés dans un emballage réglementaire;
 - **b)** se dit de l’alcool qui est présenté :
 	- **(i)** soit dans un contenant d’une capacité maximale de 100 L qui est habituellement vendu aux consommateurs sans que l’alcool n’ait à être emballé de nouveau,
 	- **(ii)** soit dans un contenant spécial marqué. (*packaged*)
@@ -121,7 +133,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***en vrac*** Se dit de l’alcool qui n’est pas emballé. (*bulk*)
 
-***estampillé*** Se dit d’un produit du tabac, ou de son contenant, sur lequel un timbre d’accise ainsi que les mentions prévues par règlement et de présentation réglementaire sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés. (*stamped*)
+***estampillé***
+- **a)** Se dit d’un produit du tabac, ou de son contenant, sur lequel un timbre d’accise de tabac ainsi que les mentions prévues par règlement et de présentation réglementaire relativement au produit du tabac sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés;
+- **b)** se dit d’un produit du cannabis, ou de son contenant, sur lequel un timbre d’accise de cannabis ainsi que les mentions prévues par règlement et de présentation réglementaire relativement au produit du cannabis sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents ont été acquittés. (*stamped*)
 
 ***exercice*** S’entend, relativement à une personne, de la période qui correspond à son exercice selon la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*fiscal year*)
 
@@ -141,6 +155,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***fabrication*** Comprend toute étape de la préparation ou de la façon du tabac en feuilles pour en faire un produit du tabac, notamment l’empaquetage, l’écôtage, la reconstitution, la transformation et l’emballage du tabac en feuilles ou du produit du tabac. (*manufacture*)
 
+***graine viable*** Graine viable d’une plante de cannabis qui n’est pas une plante de chanvre industriel. (*viable seed*) 
+
 ***importation*** Le fait d’importer au Canada. (*import*)
 
 ***juge*** Juge d’une cour supérieure de la province où l’affaire prend naissance ou juge de la Cour fédérale. (*judge*)
@@ -157,6 +173,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***matériel de fabrication du tabac*** Toute machine ou tout matériel conçu ou modifié expressément pour la fabrication d’un produit du tabac. (*tobacco manufacturing equipment*)
 
+***matière florifère*** L’inflorescence totale ou partielle d’une plante de cannabis (sauf les graines viables) peu importe le stade de développement, y compris le stade de l’infrutescence. (*flowering material*) 
+
+***matière non florifère*** Partie de la plante de cannabis qui n’est ni de la matière florifère ni une graine viable ni une des parties de la plante figurant à l’annexe 2 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*non-flowering material*) 
+
 ***mention obligatoire*** Mention réglementaire que doit porter, en application de la présente loi, un contenant de produits du tabac qui n’ont pas à être estampillés en vertu de la présente loi. (*tobacco marking*)
 
 ***ministre*** Le ministre du Revenu national. (*Minister*)
@@ -167,13 +187,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***mois d’exercice*** Mois d’exercice déterminé en application de l’article 159. (*fiscal month*)
 
-***non acquitté*** Se dit de l’alcool emballé sur lequel un droit, sauf le droit spécial, n’a pas été acquitté. (*non-duty-paid*)
+***non acquitté*** Se dit de l’alcool emballé ou d’un produit du cannabis sur lequel un droit, sauf le droit spécial dans le cas de l’alcool, n’a pas été acquitté. (*non-duty-paid*) 
 
 ***non ciblé*** Se dit du tabac fabriqué qui est estampillé, mais qui n’est pas marqué en conformité avec une loi provinciale de façon à indiquer qu’il s’agit de tabac destiné à la vente au détail dans une ou des provinces en particulier. (*black stock*)
 
 ***période de déclaration*** Période de déclaration déterminée en application de l’article 159.1. (*reporting period*)
 
 ***personne*** Particulier, société de personnes, personne morale, fiducie, gouvernement ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation. (*person*)
+
+***plante de cannabis*** S’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*cannabis plant*) 
+
+***plante de cannabis à l’état végétatif*** Plante de cannabis, incluant un semis, qui n’a pas encore produit de structures reproductives, notamment des fleurs, des fruits ou des graines. (*vegetative cannabis plant*) 
+
+***plante de chanvre industriel*** Plante de cannabis, incluant un semis, qui constitue du chanvre industriel. (*industrial hemp plant*) 
 
 ***préparation approuvée***
 - **a)** Produit à base d’alcool fabriqué par un utilisateur agréé conformément à une formule qu’il a fait approuver par le ministre;
@@ -192,11 +218,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** toute somme, s’ajoutant à la somme demandée au titre du prix, que l’acheteur est tenu de payer au vendeur en raison ou à l’égard de la vente des cigares — qu’elle soit exigible au même moment que le prix ou à un autre moment — et notamment toute somme prélevée pour la publicité, le financement, le paiement de commissions ou à quelque autre titre, ou destinée à y pourvoir;
 - **d)** le droit imposé sur les cigares en vertu de l’article 42. (*sale price*)
 
+***producteur de chanvre industriel*** Personne qui est titulaire d’une licence ou d’un permis en vertu de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) qui l’autorise à produire des plantes de chanvre industriel. (*industrial hemp grower*) 
+
 ***production***
 - **a)** En ce qui concerne les spiritueux, le fait de les obtenir par la distillation ou un autre procédé ou de les récupérer;
-- **b)** en ce qui concerne le vin, le fait de l’obtenir par la fermentation. (*produce*)
+- **b)** en ce qui concerne le vin, le fait de l’obtenir par la fermentation;
+- **c)** en ce qui concerne un produit du cannabis, s’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), mais comprend également le fait d’emballer le produit du cannabis. (*produce*)
+
+***produit du cannabis***
+- **a)** Produit qui constitue du cannabis, mais qui n’est pas du chanvre industriel produit ou importé conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) ou au [Règlement sur le chanvre industriel](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/145.md);
+- **b)** produit qui constitue un sous-produit de chanvre industriel;
+- **c)** tout ce qui est fabriqué avec un produit visé aux alinéas a) ou b) ou qui en contient;
+- **d)** substance, matière ou chose visée par règlement.
+
+Cependant, n’est pas comprise à la présente définition toute substance, matière ou chose exclue par règlement. (*cannabis product*)
+
+***produit du cannabis à faible teneur en THC*** Produit du cannabis :
+- **a)** constitué entièrement de cannabis d’une catégorie visée aux articles 1 à 3 de l’annexe 4 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
+- **b)** dont aucune partie ne compte plus que la limite maximale de rendement de 0,3 % de THC p/p, compte tenu du potentiel de transformation de l’acide delta-9-tétrahydrocannabinolique en THC, tel que déterminé conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*low-THC cannabis product*)
 
 ***produit du tabac*** Le tabac fabriqué, le tabac en feuilles emballé et les cigares. (*tobacco product*)
+
+***province déterminée*** Province visée par règlement. (*specified province*) 
 
 ***provisions de bord à l’étranger*** Produits du tabac pris à bord d’un navire ou d’un aéronef, pendant qu’il se trouve à l’étranger, qui sont destinés à être consommés par les passagers ou les membres d’équipage, ou à leur être vendus, pendant qu’ils sont à bord du navire ou de l’aéronef. (*foreign ships’ stores*)
 
@@ -211,6 +254,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
 
 ***semestre d’exercice*** Semestre d’exercice déterminé en application du paragraphe 159(1.1). (*fiscal half-year*)
+
+***somme passible de droits*** En ce qui concerne un produit du cannabis : 
+- **a)** si l’alinéa b) ne s’applique pas, la somme obtenue par la formule suivante :
+```
+A × [100 %/(100 % + B + C)]
+```
+où :
+- **A** représente le total des montants suivants que l’acheteur est tenu de payer au vendeur en raison de la vente du produit du cannabis ou à l’égard de cette vente :
+- **(i)** la contrepartie, déterminée pour l’application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), pour le produit du cannabis,
+- **(ii)** toute contrepartie additionnelle, déterminée pour l’application de cette partie, pour le contenant qui renferme le produit du cannabis,
+- **(iii)** tout montant de contrepartie, déterminé pour l’application de cette partie, s’ajoutant aux montants visés aux sous-alinéas (i) et (ii), qu’il soit exigible au même moment ou à un autre moment, notamment tout montant prélevé pour la publicité, le financement, le paiement de commissions ou à quelque autre titre, ou destiné à y pourvoir,
+- **B** le pourcentage prévu à l’article 2 de l’annexe 7,
+- **C** :
+- **(i)** si un droit additionnel sur le cannabis relativement à une province déterminée est imposé sur le produit du cannabis, le pourcentage visé par règlement relativement à la province,
+- **(ii)** sinon, 0 %;
+- **b)** dans les circonstances prévues par règlement, le montant établi selon les modalités réglementaires. (*dutiable amount*)
+
+***sous-produit de chanvre industriel*** Matière florifère (autre que des akènes viables) ou non florifère qui a été retirée ou séparée d’une plante de chanvre industriel et dont il n’a pas été :
+- **a)** disposée par rouissage ou en la mettant dans un état tel qu’elle ne peut être utilisée à des fins autres que celles permises par la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+- **b)** disposée d’une manière semblable en application de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*industrial hemp by-product*)
 
 ***spiritueux*** Toute matière ou substance contenant plus de 0,5 % d’alcool éthylique absolu par volume, à l’exclusion de ce qui suit :
 - **a)** le vin;
@@ -228,9 +291,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***tabac partiellement fabriqué*** Tabac fabriqué qui est du tabac haché ou du tabac ayant subi moins de transformations que le tabac haché. (*partially manufactured tobacco*)
 
-***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) qui n’a pas été annulé en vertu de l’article 25.5. (*excise stamp*)
+***THC*** Δ<sup>9</sup>-tétrahydrocannabinol (tétrahydro-6a,7,8,10a hydroxy-1 triméthyl-6,6,9 pentyl-3 6H-dibenzo[b,d]pyranne-(6aR, 10aR)). (*THC*) 
+
+***timbre d’accise*** Timbre d’accise de tabac ou timbre d’accise de cannabis. (*excise stamp*) 
+
+***timbre d’accise de cannabis*** Timbre émis par le ministre en vertu du paragraphe 158.03(1) qui n’a pas été annulé en vertu de l’article 158.07. (*cannabis excise stamp*) 
+
+***timbre d’accise de tabac*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) qui n’a pas été annulé en vertu de l’article 25.5. (*tobacco excise stamp*) 
 
 ***titulaire de licence d’alcool*** Personne qui est titulaire de licence de spiritueux ou titulaire de licence de vin. (*alcohol licensee*)
+
+***titulaire de licence de cannabis*** Titulaire de la licence de cannabis délivrée en vertu de l’article 14. (*cannabis licensee*) 
 
 ***titulaire de licence de spiritueux*** Titulaire de la licence de spiritueux délivrée en vertu de l’article 14. (*spirits licensee*)
 
@@ -246,7 +317,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***utilisateur autorisé*** Titulaire de l’autorisation délivrée en vertu de l’article 16. (*registered user*)
 
-***utilisation pour soi*** En ce qui concerne l’alcool, le fait d’en consommer, de l’analyser ou de le détruire, ou de l’utiliser de façon à obtenir un produit autre que de l’alcool. (*take for use*)
+***utilisation pour soi***
+- **a)** En ce qui concerne l’alcool, le fait d’en consommer, de l’analyser ou de le détruire, ou de l’utiliser de façon à obtenir un produit autre que de l’alcool;
+- **b)** en ce qui concerne un produit du cannabis, le fait de le consommer, de l’analyser ou de le détruire. (*take for use*)
 
 ***valeur à l’acquitté***
 - **a)** En ce qui concerne les cigares importés, leur valeur telle qu’elle serait déterminée pour le calcul d’un droit *ad valorem* sur les cigares conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), qu’ils soient ou non sujets à un tel droit, plus les droits afférents imposés en vertu de l’article 42 de la présente loi et de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
@@ -261,7 +334,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume. (*wine*)
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant. (*ferment-on-premises facility*)
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107; 2011, ch. 15, art. 9.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107; 2011, ch. 15, art. 9; 2018, ch. 12, art. 69.
 
 
 
@@ -285,14 +358,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Pour l’application de l’article 25.2, des paragraphes 25.3(1), 30(1), 32(1) et 32.1(1), de l’article 61, des paragraphes 70(1) et 88(1), des articles 230 et 231 et du paragraphe 238.1(1), la chose qu’une personne a en sa possession au su et avec le consentement d’autres personnes est réputée être sous la garde et en la possession de toutes ces personnes et de chacune d’elles.
+- **(1)** Pour l’application de l’article 25.2, des paragraphes 25.3(1), 30(1), 32(1) et 32.1(1), de l’article 61, des paragraphes 70(1) et 88(1), de l’article 158.04, des paragraphes 158.05(1) et 158.11(1) et (2), des articles 230 et 231 et du paragraphe 238.1(1), la chose qu’une personne a en sa possession au su et avec le consentement d’autres personnes est réputée être sous la garde et en la possession de toutes ces personnes et de chacune d’elles.
 
-**Sens de possession**
+**Définition de possession**
 
-- **(2)** Au présent article, à l’article 25.2, aux paragraphes 25.3(1), 30(1), 32(1) et 32.1(1), à l’article 61 et aux paragraphes 70(1), 88(1) et 238.1(1), ***possession*** s’entend du fait pour une personne d’avoir une chose en sa possession personnelle ainsi que du fait, pour elle :
+- **(2)** Au présent article, à l’article 25.2, aux paragraphes 25.3(1), 30(1), 32(1) et 32.1(1), à l’article 61, aux paragraphes 70(1) et 88(1), à l’article 158.04 et aux paragraphes 158.05(1), 158.11(1) et (2) et 238.1(1), ***possession*** s’entend du fait pour une personne d’avoir une chose en sa possession personnelle ainsi que du fait, pour elle :
 	- **a)** de savoir qu’une autre personne l’a en sa possession effective ou sous sa garde effective pour son compte;
 	- **b)** de savoir qu’elle l’a dans un endroit quelconque, à son usage ou avantage, ou à celui d’une autre personne.
-> 2002, ch. 22, art. 5; 2008, ch. 28, art. 51; 2010, ch. 12, art. 39.
+> 2002, ch. 22, art. 5; 2008, ch. 28, art. 51; 2010, ch. 12, art. 39; 2018, ch. 12, art. 70.
 
 
 
@@ -465,6 +538,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** une licence de tabac, autorisant son titulaire à fabriquer des produits du tabac;
 	- **e)** un agrément de commerçant de tabac, autorisant son titulaire à exercer les activités d’un commerçant de tabac.
 
+**Licence de cannabis**
+
+- **(1.1)** Sous réserve des règlements, le ministre peut, sur demande, délivrer une licence de cannabis à une personne pour l’application de la présente loi.
+
+**Licence de cannabis — prise d’effet**
+
+- **(1.2)** La licence de cannabis délivrée à son titulaire ne peut prendre effet avant la prise d’effet d’une licence ou d’un permis délivré à cette personne en vertu du paragraphe 62(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md).
+
 **Activités exclues**
 
 - **(2)** La personne qui est réputée avoir emballé de l’alcool par l’effet des articles 77 ou 82 ne peut, de ce seul fait, obtenir la licence mentionnée aux alinéas (1)a) ou b).
@@ -478,7 +559,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délivrance d’une licence de vin**
 
 - **(4)** Sous réserve des règlements, le ministre peut délivrer, à tout titulaire de licence de spiritueux et d’agrément d’utilisateur qui en fait la demande, une licence de vin l’autorisant à fortifier le vin.
-> 2002, ch. 22, art. 14; 2007, ch. 18, art. 68.
+> 2002, ch. 22, art. 14; 2007, ch. 18, art. 68; 2018, ch. 12, art. 71.
 
 
 
@@ -621,15 +702,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2.1)** Le ministre peut modifier, suspendre ou révoquer la licence, l’agrément ou l’autorisation d’une personne si, selon le cas :
 	- **a)** l’accès au local du titulaire de la licence, de l’agrément ou de l’autorisation est refusé ou entravé par une personne quelconque;
+	- **a.1)** en ce qui concerne une licence de cannabis, la licence ou le permis délivré à la personne en vertu du paragraphe 62(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) est modifié, suspendu ou révoqué;
 	- **b)** d’une façon générale, l’intérêt public le justifie.
 
 **Conditions**
 
 - **(3)** Lors de la délivrance d’une licence, d’un agrément ou d’une autorisation ou postérieurement, le ministre :
 	- **a)** peut, sous réserve des règlements, préciser les activités dont la licence, l’agrément ou l’autorisation permet l’exercice ainsi que le local où elles peuvent être exercées;
-	- **b)** exige, dans le cas d’une licence de spiritueux ou d’une licence de tabac, que soit fournie sous une forme qu’il juge acceptable une caution d’une somme déterminée conformément aux règlements;
+	- **b)** exige, dans le cas d’une licence de spiritueux, d’une licence de tabac ou d’une licence de cannabis, que soit fournie sous une forme qu’il juge acceptable une caution d’une somme déterminée conformément aux règlements;
 	- **c)** peut imposer d’autres conditions qu’il estime indiquées relativement à l’exercice des activités visées par la licence, l’agrément ou l’autorisation.
-> 2002, ch. 22, art. 23; 2008, ch. 28, art. 52.
+> 2002, ch. 22, art. 23; 2008, ch. 28, art. 52; 2018, ch. 12, art. 72.
 
 
 
@@ -689,22 +771,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sur demande présentée en la forme et selon les modalités qu’il autorise, le ministre peut émettre, aux titulaires de licence de tabac et aux personnes visées par règlement qui importent des produits du tabac, des timbres qui servent à indiquer que les droits autres que le droit spécial ont été acquittés sur un produit du tabac.
 
-**Nombre de timbres d’accise**
+**Nombre de timbres d’accise de tabac**
 
-- **(2)** Le ministre peut limiter le nombre de timbres d’accise qui peuvent être émis à une personne en vertu du paragraphe (1).
+- **(2)** Le ministre peut limiter le nombre de timbres d’accise de tabac qui peuvent être émis à une personne en vertu du paragraphe (1).
 
 **Caution**
 
-- **(3)** Il n’est émis de timbre d’accise qu’aux personnes ayant fourni, sous une forme que le ministre juge acceptable, une caution d’une somme déterminée conformément aux règlements.
+- **(3)** Il n’est émis de timbre d’accise de tabac qu’aux personnes ayant fourni, sous une forme que le ministre juge acceptable, une caution d’une somme déterminée conformément aux règlements.
 
-**Fourniture de timbres d’accise**
+**Fourniture de timbres d’accise de tabac**
 
-- **(4)** Le ministre peut autoriser un producteur de timbres d’accise à fournir, sur son ordre, des timbres d’accise à toute personne à qui ces timbres sont émis en application du paragraphe (1).
+- **(4)** Le ministre peut autoriser un producteur de timbres d’accise de tabac à fournir, sur son ordre, des timbres d’accise de tabac à toute personne à qui ces timbres sont émis en application du paragraphe (1).
 
 **Conception et fabrication**
 
-- **(5)** La conception et la fabrication des timbres d’accise sont sujettes à l’approbation du ministre.
-> 2010, ch. 12, art. 40.
+- **(5)** La conception et la fabrication des timbres d’accise de tabac sont sujettes à l’approbation du ministre.
+> 2010, ch. 12, art. 40; 2018, ch. 12, art. 94.
 
 
 
@@ -712,47 +794,47 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contrefaçon**
 
-**25.2** Nul ne peut, sans justification ou excuse légitime dont la preuve lui incombe, produire, posséder, vendre ou autrement fournir, ou offrir de fournir, une chose qui est destinée à ressembler à un timbre d’accise ou à passer pour un tel timbre.
-> 2010, ch. 12, art. 40.
+**25.2** Nul ne peut, sans justification ou excuse légitime dont la preuve lui incombe, produire, posséder, vendre ou autrement fournir, ou offrir de fournir, une chose qui est destinée à ressembler à un timbre d’accise de tabac ou à passer pour un tel timbre.
+> 2010, ch. 12, art. 40; 2018, ch. 12, art. 94.
 
 
 
 
 
-**Possession illégale de timbres d’accise**
+**Possession illégale de timbres d’accise de tabac**
 
 **25.3** 
 
-- **(1)** Nul ne peut avoir en sa possession un timbre d’accise qui n’a pas été apposé sur un produit du tabac ou sur son contenant selon les modalités réglementaires visées à la définition de ***estampillé*** à l’article 2 pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
+- **(1)** Nul ne peut avoir en sa possession un timbre d’accise de tabac qui n’a pas été apposé sur un produit du tabac ou sur son contenant selon les modalités réglementaires visées à la définition de estampillé à l’article 2 pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
 
 **Exceptions — possession**
 
-- **(2)** Le paragraphe (1) ne s’applique pas dans le cas où le timbre d’accise est en la possession des personnes suivantes :
+- **(2)** Le paragraphe (1) ne s’applique pas dans le cas où le timbre d’accise de tabac est en la possession des personnes suivantes :
 	- **a)** la personne qui a légalement produit le timbre;
 	- **b)** la personne à qui le timbre a été émis;
 	- **c)** l’exploitant agréé d’entrepôt d’attente qui possède le timbre dans son entrepôt d’attente pour le compte de la personne mentionnée à l’alinéa b);
 	- **d)** toute personne visée par règlement.
-> 2010, ch. 12, art. 40.
+> 2010, ch. 12, art. 40; 2018, ch. 12, art. 94.
 
 
 
 
 
-**Fourniture illégale de timbres d’accise**
+**Fourniture illégale de timbres d’accise de tabac**
 
-**25.4** Il est interdit de vendre ou de fournir autrement, ou d’offrir de fournir, un timbre d’accise, ou d’en disposer, autrement que conformément à la présente loi.
-> 2010, ch. 12, art. 40.
-
-
+**25.4** Il est interdit de vendre ou de fournir autrement, ou d’offrir de fournir, un timbre d’accise de tabac, ou d’en disposer, autrement que conformément à la présente loi.
+> 2010, ch. 12, art. 40; 2018, ch. 12, art. 94.
 
 
 
-**Annulation, retour et destruction des timbres d’accise**
+
+
+**Annulation, retour et destruction des timbres d’accise de tabac**
 
 **25.5** Le ministre peut :
-- **a)** d’une part, annuler un timbre d’accise après son émission;
+- **a)** d’une part, annuler un timbre d’accise de tabac après son émission;
 - **b)** d’autre part, ordonner qu’il soit retourné ou détruit selon ses instructions.
-> 2010, ch. 12, art. 40.
+> 2010, ch. 12, art. 40; 2018, ch. 12, art. 94.
 
 
 
@@ -1106,32 +1188,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **43.1** 
 
-- **(1)** Au présent article, ***année inflationniste*** s’entend de 2019 et de chacune des cinquièmes années suivantes.
+- **(1)** Au présent article, ***année inflationniste*** s’entend de 2019 et de chacune des années suivantes.
 
-**Ajustements**
+**Ajustements annuels**
 
-- **(2)** Chacun des taux de droit prévus aux articles 1 à 4 de l’annexe 1 et à l’alinéa a) de l’annexe 2 relativement à un produit du tabac est ajusté le 1<sup>er</sup> décembre d’une année inflationniste donnée de façon à ce qu’il s’établisse au plus élevé des taux suivants :
+- **(2)** Chacun des taux de droit prévus aux articles 1 à 4 de l’annexe 1 et à l’alinéa a) de l’annexe 2 relativement à un produit du tabac est ajusté le 1<sup>er</sup> avril d’une année inflationniste de façon à ce qu’il s’établisse au plus élevé des taux suivants :
 	- **a)** le taux obtenu par la formule suivante :
 ```
 A × B
 ```
 où :
-- **A** représente le taux de droit applicable au produit du tabac le 30 novembre de l’année inflationniste donnée,
-- **B** la somme  —  arrêtée à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure  —  obtenue par celle des formules ci-après qui est applicable :
-	- **(i)** si l’année inflationniste donnée est 2019 :
+- **A** représente le taux de droit applicable au produit du tabac le 31 mars de l’année inflationniste,
+- **B** la somme — arrêtée à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure — obtenue par la formule suivante :
 ```
 C/D
 ```
 où :
-- **C** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre 2019,
-- **D** l’indice des prix à la consommation pour la période de douze mois s’étant terminée le 30 septembre 2013,
-	- **(ii)** pour toute autre année inflationniste donnée :
-```
-E/F
-```
-où :
-- **E** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année inflationniste donnée,
-- **F** l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année inflationniste qui précède l’année inflationniste donnée;
+- **C** représente l’indice des prix à la consommation pour la période de douze mois se terminant le 30 septembre de l’année donnée qui précède l’année inflationniste,
+- **D** l’indice des prix à la consommation pour la période de douze mois s’étant terminée le 30 septembre de l’année qui précède l’année donnée;
 	- **b)** le taux de droit visé à l’élément A de la formule figurant à l’alinéa a).
 
 **Arrondissement**
@@ -1144,7 +1218,7 @@ où :
 	- **a)** l’addition des indices mensuels des prix à la consommation de la période pour le Canada, publiés par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
 	- **b)** la division de ce total par douze;
 	- **c)** l’arrêt du quotient ainsi obtenu à la troisième décimale, les résultats ayant au moins cinq en quatrième décimale étant arrondis à la troisième décimale supérieure.
-> 2014, ch. 20, art. 64.
+> 2014, ch. 20, art. 64; 2018, ch. 12, art. 47.
 
 
 
@@ -1422,14 +1496,15 @@ où :
 
 ***année inflationniste*** S’entend au sens du paragraphe 43.1(1). (*inflationary adjusted year*)
 
-***cigarettes imposées*** Cigarettes sur lesquelles le droit prévu à l’article 42 a été imposé avant le 23 mars 2017 au taux figurant à l’alinéa 1a) de l’annexe 1, en son état le 22 mars 2017, et qui, à zéro heure le 23 mars 2017, à la fois :
+***cigarettes imposées*** Cigarettes sur lesquelles le droit prévu aux articles 42 ou 53 a été imposé au taux applicable la veille d’une date d’ajustement et qui, à zéro heure à la date d’ajustement, à la fois :
 - **a)** étaient offertes en vente dans le cours normal des activités de leur propriétaire;
 - **b)** n’étaient pas offertes en vente par distributeur automatique;
 - **c)** n’étaient pas exonérées de ce droit en vertu de la présente loi. (*taxed cigarettes*)
 
 ***date d’ajustement***
 - **a)** Le 23 mars 2017;
-- **b)** dans le cas d’une année inflationniste, le 1<sup>er</sup> décembre de cette année. (*adjustment day*)
+- **a.1)** le 28 février 2018;
+- **b)** dans le cas d’une année inflationniste, le 1<sup>er</sup> avril de cette année. (*adjustment day*)
 
 ***établissement de détail distinct*** Boutique ou magasin qui répond aux conditions suivantes :
 - **a)** il est géographiquement distinct des autres établissements commerciaux de l’exploitant;
@@ -1441,7 +1516,7 @@ où :
 ***tabac imposé***[Abrogée, 2014, ch. 20, art. 69]
 
 ***unité***[Abrogée, 2014, ch. 20, art. 69]
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197; 2014, ch. 20, art. 69; 2017, ch. 20, art. 45.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197; 2014, ch. 20, art. 69; 2017, ch. 20, art. 45; 2018, ch. 12, art. 48.
 
 
 
@@ -1453,28 +1528,32 @@ où :
 
 - **(1)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 23 mars 2017 au taux de 0,002 65 $ par cigarette.
 
-**Assujettissement —  années inflationnistes**
+**Assujettissement — majoration de 2018**
 
-- **(2)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 1<sup>er</sup> décembre d’une année inflationniste au taux, par cigarette, obtenu par celle des formules ci-après qui est applicable :
+- **(1.1)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 28 février 2018 au taux de 0,011 468 $ par cigarette.
+
+**Assujettissement — années inflationnistes**
+
+- **(2)** Sous réserve de l’article 58.3, toute personne est tenue de payer à Sa Majesté une taxe sur les cigarettes imposées de la personne détenues à zéro heure le 1<sup>er</sup> avril d’une année inflationniste au taux, par cigarette, obtenu par celle des formules ci-après qui est applicable :
 	- **a)** s’agissant de cigarettes sur lesquelles le droit prévu à l’article 42 a été imposé :
 ```
 (A – B)/5
 ```
 où :
-- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes le 1<sup>er</sup> décembre de l’année inflationniste, prévu à l’alinéa 1b) de l’annexe 1,
-- **B** le taux de droit applicable à chaque quantité de cinq cigarettes le 30 novembre de l’année inflationniste, prévu à l’article 1 de l’annexe 1;
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes le 1<sup>er</sup> avril de l’année inflationniste, prévu à l’article 1 de l’annexe 1,
+- **B** le taux de droit applicable à chaque quantité de cinq cigarettes le 31 mars de l’année inflationniste, prévu à l’article 1 de l’annexe 1;
 	- **b)** s’agissant de cigarettes sur lesquelles le droit prévu à l’article 53 a été imposé :
 ```
 C – D
 ```
 où :
-- **C** représente le taux de droit applicable à chaque cigarette le 1<sup>er</sup> décembre de l’année inflationniste, prévu à l’alinéa 1a) de l’annexe 3,
-- **D** le taux de droit applicable à chaque cigarette le 30 novembre de l’année inflationniste, prévu à l’alinéa 1a) de l’annexe 3.
+- **C** représente le taux de droit applicable à chaque cigarette le 1<sup>er</sup> avril de l’année inflationniste, prévu à l’alinéa 1a) de l’annexe 3,
+- **D** le taux de droit applicable à chaque cigarette le 31 mars de l’année inflationniste, prévu à l’alinéa 1a) de l’annexe 3.
 
 **Arrondissement**
 
 - **(3)** Le résultat obtenu en application des alinéas (2)a) ou b) est arrêté à la cinquième décimale, les résultats ayant au moins cinq en sixième décimale étant arrondis à la cinquième décimale supérieure.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198; 2014, ch. 20, art. 70; 2017, ch. 20, art. 46.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198; 2014, ch. 20, art. 70; 2017, ch. 20, art. 46; 2018, ch. 12, art. 49.
 
 
 
@@ -1504,12 +1583,13 @@ où :
 
 - **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter une déclaration au ministre, en la forme et selon les modalités autorisées par celui-ci, au plus tard :
 	- **a)** le 31 mai 2017, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
-	- **b)** le dernier jour du mois suivant décembre d’une année inflationniste, dans les autres cas.
+	- **a.1)** le 30 avril 2018, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1.1);
+	- **b)** s’agissant de la taxe imposée en vertu du paragraphe 58.2(2), relativement à une année inflationniste, le 31 mai de l’année inflationniste.
 
 **Déclarations distinctes**
 
 - **(2)** Toute personne autorisée, en vertu du paragraphe 239(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à produire des déclarations distinctes pour des succursales ou divisions peut aussi en produire pour chacune d’elles en application de la présente partie.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200; 2014, ch. 20, art. 71; 2017, ch. 20, art. 47.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200; 2014, ch. 20, art. 71; 2017, ch. 20, art. 47; 2018, ch. 12, art. 50.
 
 
 
@@ -1521,7 +1601,8 @@ où :
 
 - **(1)** Toute personne est tenue de verser au receveur général le total de la taxe dont elle est redevable en vertu de la présente partie, au plus tard :
 	- **a)** le 31 mai 2017, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1);
-	- **b)** le dernier jour du mois suivant décembre d’une année inflationniste, dans les autres cas.
+	- **a.1)** le 30 avril 2018, s’il s’agit de la taxe imposée en vertu du paragraphe 58.2(1.1);
+	- **b)** s’agissant de la taxe imposée en vertu du paragraphe 58.2(2), relativement à une année inflationniste, le 31 mai de l’année inflationniste.
 
 **Intérêts de moins de 25 $**
 
@@ -1532,7 +1613,7 @@ où :
 - **(3)** Le ministre peut, à tout moment, proroger par écrit le délai prévu par la présente partie pour la production d’une déclaration ou le versement de la taxe exigible. Le cas échéant :
 	- **a)** la déclaration doit être produite ou la taxe exigible, payée dans le délai prorogé;
 	- **b)** les intérêts sont exigibles aux termes de l’article 170 comme si le délai n’avait pas été prorogé.
-> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201; 2014, ch. 20, art. 72; 2017, ch. 20, art. 48.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201; 2014, ch. 20, art. 72; 2017, ch. 20, art. 48; 2018, ch. 12, art. 51.
 
 
 
@@ -3049,6 +3130,451 @@ où :
 
 
 
+**PARTIE 4.1** 
+## Cannabis
+
+
+
+### Exclusions
+
+
+
+**Non-application**
+
+**158.01** La présente partie ne s’applique pas aux produits du cannabis qui ont été produits au Canada dans les situations suivantes :
+- **a)** ils l’ont été par un particulier pour son usage personnel et conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), mais seulement dans la mesure où ils sont utilisés dans des activités qui ne sont pas interdites sous le régime de cette loi;
+- **b)** ils l’ont été par un particulier à ses propres fins médicales, conformément, selon le cas, à la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), mais seulement dans la mesure où ils sont utilisés par le particulier dans des activités qui ne sont pas interdites sous le régime de celle de ces lois qui s’applique;
+- **c)** ils l’ont été par une personne désignée — soit un particulier autorisé en vertu de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) à produire du cannabis à des fins médicales — pour les fins médicales d’un autre particulier conformément à celle de ces lois qui s’applique, mais seulement dans la mesure où ils sont utilisés par la personne désignée ou l’autre particulier dans des activités qui ne sont pas interdites sous le régime de celle de ces lois qui s’applique.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+### Production et estampillage du cannabis
+
+
+**158.02** [Non en vigueur]
+
+
+
+
+**Émission de timbres d’accise de cannabis**
+
+**158.03** 
+
+- **(1)** Sur demande présentée en la forme et selon les modalités qu’il autorise, le ministre peut émettre aux titulaires de licence de cannabis des timbres servant à indiquer que le droit sur le cannabis et, s’il y a lieu, le droit additionnel sur le cannabis ont été acquittés sur un produit du cannabis.
+
+**Nombre de timbres d’accise de cannabis**
+
+- **(2)** Le ministre peut limiter la quantité de timbres d’accise de cannabis qui peuvent être émis à une personne en vertu du paragraphe (1).
+
+**Caution**
+
+- **(3)** Il n’est émis de timbre d’accise de cannabis qu’aux personnes ayant fourni, sous une forme que le ministre juge acceptable, toute caution prévue par règlement.
+
+**Fourniture de timbres d’accise de cannabis**
+
+- **(4)** Le ministre peut autoriser un producteur de timbres d’accise de cannabis à fournir, sur son ordre, des timbres d’accise de cannabis à toute personne à qui ces timbres sont émis en application du paragraphe (1).
+
+**Conception et fabrication**
+
+- **(5)** La conception et la fabrication des timbres d’accise de cannabis sont sujettes à l’approbation du ministre.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Contrefaçon**
+
+**158.04** Nul ne peut, sans justification ou excuse légitime dont la preuve lui incombe, produire, posséder, vendre ou autrement fournir, ou offrir de fournir, une chose qui est destinée à ressembler à un timbre d’accise de cannabis ou à passer pour un tel timbre.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Possession illégale de timbres d’accise de cannabis**
+
+**158.05** 
+
+- **(1)** Nul ne peut avoir en sa possession un timbre d’accise de cannabis qui n’a pas été apposé sur un produit du cannabis emballé selon les modalités réglementaires visées à la définition de estampillé à l’article 2 pour indiquer que les droits afférents ont été acquittés.
+
+**Exceptions — possession**
+
+- **(2)** Le paragraphe (1) ne s’applique pas dans le cas où le timbre d’accise de cannabis est en la possession des personnes suivantes :
+	- **a)** la personne qui a légalement produit le timbre;
+	- **b)** la personne à qui le timbre a été émis;
+	- **c)** toute personne visée par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Fourniture illégale de timbres d’accise de cannabis**
+
+**158.06** Il est interdit de vendre ou de fournir autrement, ou d’offrir de fournir un timbre d’accise de cannabis, ou d’en disposer, autrement que conformément à la présente loi.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Annulation des timbres d’accise de cannabis**
+
+**158.07** Le ministre peut :
+- **a)** d’une part, annuler un timbre d’accise de cannabis après son émission;
+- **b)** d’autre part, ordonner qu’il soit retourné ou détruit selon ses instructions.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Emballage ou estampillage illégal**
+
+**158.08** Il est interdit d’emballer ou d’estampiller un produit du cannabis sans être titulaire de licence de cannabis ou une personne visée par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+**158.09 â 158.12** [Non en vigueur]
+
+
+
+
+**Emballage et estampillage du cannabis**
+
+**158.13** Le titulaire de licence de cannabis qui produit un produit du cannabis ne peut le mettre sur le marché des marchandises acquittées que si les conditions suivantes sont réunies :
+- **a)** il a emballé le produit du cannabis;
+- **b)** les mentions prévues par règlement ont été imprimées sur l’emballage;
+- **c)** le produit du cannabis est estampillé par le titulaire de licence pour indiquer que le droit sur le cannabis a été acquitté;
+- **d)** si le produit du cannabis est destiné au marché des marchandises acquittées d’une province déterminée, le produit du cannabis est estampillé par le titulaire de licence pour indiquer que le droit additionnel sur le cannabis relativement à la province déterminée a été acquitté.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Avis — absence d’estampille**
+
+**158.14** 
+
+- **(1)** L’absence d’estampille sur un produit du cannabis indiquant que le droit sur le cannabis a été acquitté constitue un avis que ce droit n’a pas été acquitté relativement à ce produit.
+
+**Avis — absence d’estampille**
+
+- **(2)** L’absence d’estampille sur un produit du cannabis indiquant que le droit additionnel sur le cannabis a été acquitté relativement à une province déterminée constitue un avis que ce droit n’a pas été acquitté relativement à ce produit.
+> 2018, ch. 12, art. 73.
+
+
+
+
+**158.15 et 158.16** [Non en vigueur]
+
+
+
+
+### Responsabilité en matière de cannabis
+
+
+
+**Responsabilité**
+
+**158.17** Sous réserve de l’article 158.18, une personne est responsable d’un produit du cannabis à un moment donné dans les cas suivants :
+- **a)** la personne est :
+	- **(i)** le titulaire de licence de cannabis qui est propriétaire du produit du cannabis à ce moment,
+	- **(ii)** si le produit du cannabis n’appartient pas à un titulaire de licence de cannabis à ce moment, le titulaire de licence de cannabis qui en a été le dernier propriétaire;
+- **b)** la personne est visée par règlement ou remplit les conditions prévues par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Fin de la responsabilité**
+
+**158.18** La personne qui est responsable d’un produit du cannabis cesse d’en être responsable dans les cas suivants :
+- **a)** il est emballé et estampillé et les droits afférents sont acquittés;
+- **b)** il est consommé ou utilisé dans la production d’un produit du cannabis qui est :
+	- **(i)** un produit du cannabis à faible teneur en THC,
+	- **(ii)** une drogue de cannabis sur ordonnance,
+	- **(iii)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire;
+- **c)** il est utilisé pour soi et les droits afférents sont acquittés;
+- **d)** il est utilisé pour soi conformément à l’un des sous-alinéas 158.3a)(i) à (v);
+- **e)** il est exporté conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
+- **f)** il est perdu dans les circonstances prévues par règlement, et la personne remplit toute condition prévue par règlement;
+- **g)** les circonstances prévues par règlement s’avèrent ou la personne remplit toute condition prévue par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+### Imposition et acquittement des droits sur le cannabis
+
+
+
+**Imposition — droit uniforme**
+
+**158.19** 
+
+- **(1)** Un droit sur les produits du cannabis produits au Canada est imposé au moment de leur emballage au montant déterminé selon l’article 1 de l’annexe 7.
+
+**Imposition — droit ad valorem**
+
+- **(2)** Un droit sur les produits du cannabis emballés produits au Canada est imposé au moment de leur livraison à un acheteur au montant déterminé selon l’article 2 de l’annexe 7.
+
+**Droit exigible**
+
+- **(3)** Le montant le plus élevé du droit imposé en vertu du paragraphe (1) et du droit imposé en vertu du paragraphe (2) est exigible du titulaire de licence de cannabis qui a emballé les produits du cannabis et ces produits sont exonérés du droit le moins élevé. Le montant devient exigible au moment de la livraison des produits du cannabis à un acheteur.
+
+**Droits égaux**
+
+- **(4)** Si le montant du droit imposé en vertu du paragraphe (1) est égal au montant du droit imposé en vertu du paragraphe (2), le droit imposé en vertu du paragraphe (1) est exigible du titulaire de licence de cannabis qui a emballé les produits et ce, au moment de leur livraison à un acheteur. Dans ce cas, les produits du cannabis sont exonérés du droit imposé en vertu du paragraphe (2).
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Imposition — droit additionnel sur le cannabis**
+
+**158.2** 
+
+- **(1)** En plus du droit imposé en vertu de l’article 158.19, un droit relativement à une province déterminée est imposé, dans les circonstances prévues par règlement, sur les produits du cannabis produits au Canada au montant établi selon les modalités réglementaires.
+
+**Droit exigible**
+
+- **(2)** Le droit imposé en vertu du paragraphe (1) est exigible du titulaire de licence de cannabis qui a emballé les produits du cannabis au moment de leur livraison à l’acheteur.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Droit sur le cannabis importé**
+
+**158.21** 
+
+- **(1)** Un droit sur les produits du cannabis importés est imposé à un montant égal au plus élevé des montants suivants :
+	- **a)** le montant déterminé selon l’article 1 de l’annexe 7 relativement à ces produits;
+	- **b)** le montant déterminé selon l’article 3 de l’annexe 7 relativement à ces produits.
+
+**Droit exigible**
+
+- **(2)** Le droit imposé en vertu du paragraphe (1) est exigible de l’importateur, du propriétaire ou d’une autre personne qui est tenue, aux termes de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de payer les droits perçus en vertu de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou qui serait tenue de payer ces droits sur les produits du cannabis s’ils y étaient assujettis.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Droit additionnel sur le cannabis importé**
+
+**158.22** 
+
+- **(1)** En plus du droit imposé en vertu de l’article 158.21, un droit relativement à une province déterminée est imposé, dans les circonstances prévues par règlement, sur les produits du cannabis importés au montant établi selon les modalités réglementaires.
+
+**Droit exigible**
+
+- **(2)** Le droit imposé en vertu du paragraphe (1) est exigible de l’importateur, du propriétaire ou d’une autre personne qui est tenue, aux termes de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de payer les droits perçus en vertu de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou qui serait tenue de payer ces droits sur les produits du cannabis s’ils y étaient assujettis.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md)**
+
+**158.23** Les droits imposés en vertu des articles 158.21 et 158.22 sur les produits du cannabis importés sont payés et perçus aux termes de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). Des intérêts et pénalités sont imposés, calculés, payés et perçus aux termes de cette loi comme si les droits étaient des droits perçus en vertu de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). À ces fins, la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) s’applique avec les adaptations nécessaires.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Valeur pour le calcul du droit**
+
+**158.24** Pour l’application de l’article 3 de l’annexe 7 et des règlements pris pour l’application de l’article 158.22 relativement aux produits du cannabis importés :
+- **a)** la valeur d’un produit du cannabis est égale à la valeur du produit du cannabis déterminée aux termes de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) en vue du calcul des droits imposés sur le produit du cannabis à un certain taux en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), que le produit du cannabis soit ou non frappé de droits en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
+- **b)** malgré l’alinéa a), la valeur d’un produit du cannabis importé dans les circonstances prévues par règlement est établie selon les modalités réglementaires.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Droit sur le cannabis utilisé pour soi**
+
+**158.25** 
+
+- **(1)** Si une personne donnée est responsable de produits du cannabis à un moment donné où les produits du cannabis sont utilisés pour soi, les règles suivantes s’appliquent :
+	- **a)** si les produits du cannabis sont emballés, ils sont exonérés du droit imposé en vertu du paragraphe 158.19(1);
+	- **b)** un droit est imposé sur les produits du cannabis à un montant égal au plus élevé des montants suivants :
+		- **(i)** le montant déterminé selon l’article 1 de l’annexe 7 relativement à ces produits,
+		- **(ii)** le montant déterminé selon l’article 4 de l’annexe 7 relativement à ces produits.
+
+**Province déterminée — droit sur le cannabis utilisé pour soi**
+
+- **(2)** Si une personne donnée est responsable de produits du cannabis à un moment donné où ces produits sont utilisés pour soi, un droit relativement à une province déterminée est imposé, dans les circonstances prévues par règlement, sur ces produits au montant établi selon les modalités réglementaires. Ce droit s’ajoute au droit imposé en vertu du paragraphe (1).
+
+**Droit exigible**
+
+- **(3)** Le droit imposé en vertu d’un des paragraphes (1) et (2) est exigible au moment donné visé à ce paragraphe de la personne donnée visée à ce paragraphe.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Droit sur le cannabis égaré**
+
+**158.26** 
+
+- **(1)** Si une personne donnée qui est responsable de produits du cannabis à un moment donné ne peut rendre compte de ces produits comme étant, au moment donné, en la possession d’un titulaire de licence de cannabis, ou en la possession d’une autre personne conformément au paragraphe 158.11(3) ou à l’alinéa 158.11(5)a), les règles suivantes s’appliquent :
+	- **a)** si les produits du cannabis sont emballés, ils sont exonérés du droit imposé en vertu du paragraphe 158.19(1);
+	- **b)** un droit est imposé sur les produits du cannabis à un montant égal au plus élevé des montants suivants :
+		- **(i)** le montant déterminé selon l’article 1 de l’annexe 7 relativement à ces produits,
+		- **(ii)** le montant déterminé selon l’article 4 de l’annexe 7 relativement à ces produits.
+
+**Province déterminée — droit sur le cannabis égaré**
+
+- **(2)** Si une personne donnée qui est responsable de produits du cannabis à un moment donné ne peut rendre compte de ces produits comme étant, au moment donné, en la possession d’un titulaire de licence de cannabis, ou en la possession d’une autre personne conformément au paragraphe 158.11(3) ou à l’alinéa 158.11(5)a), un droit relativement à une province déterminée est imposé, dans les circonstances prévues par règlement, sur ces produits au montant établi selon les modalités réglementaires. Ce droit s’ajoute au droit imposé en vertu du paragraphe (1).
+
+**Droit exigible**
+
+- **(3)** Le droit imposé en vertu d’un des paragraphes (1) et (2) est exigible au moment donné visé à ce paragraphe de la personne donnée visée à ce paragraphe.
+
+**Exception**
+
+- **(4)** Le paragraphe (1) ne s’applique pas dans les circonstances où la personne donnée visée à ce paragraphe est déclarée coupable de l’infraction visée à l’article 218.1.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Définition de date de référence**
+
+**158.27** 
+
+- **(1)** Pour l’application du présent article, ***date de référence*** s’entend au sens de l’article 152 de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md).
+
+**Droit sur le cannabis — production avant la date de référence**
+
+- **(2)** Un droit sur les produits du cannabis produits au Canada et livrés à un acheteur avant la date de référence pour la vente ou la distribution à compter de cette date est imposé à un montant égal au plus élevé des montants suivants :
+	- **a)** le montant déterminé selon l’article 1 de l’annexe 7 relativement à ces produits;
+	- **b)** le montant déterminé selon l’article 2 de l’annexe 7 relativement à ces produits.
+
+**Droit additionnel sur le cannabis — production avant la date de référence**
+
+- **(3)** En plus du droit imposé en vertu du paragraphe (2), un droit relativement à une province déterminée est imposé sur les produits du cannabis produits au Canada et livrés à un acheteur avant la date de référence pour la vente ou la distribution à compter de cette date dans des circonstances prévues par règlement au montant déterminé selon les modalités réglementaires.
+
+**Droit exigible**
+
+- **(4)** Le droit imposé en vertu des paragraphes (2) ou (3) est exigible à la date de référence du titulaire de licence de cannabis qui a emballé le produit du cannabis.
+
+**Exception**
+
+- **(5)** Le paragraphe (2) ne s’applique pas à un produit du cannabis visé par règlement ou d’une catégorie réglementaire livré à une personne visée par règlement dans les circonstances ou à des fins prévues par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Exonération — cannabis importé par un titulaire de licence**
+
+**158.28** Est exonéré des droits imposés en vertu des articles 158.21 et 158.22 :
+- **a)** le produit du cannabis non emballé qui est importé par un titulaire de licence de cannabis;
+- **b)** le produit du cannabis visé par règlement ou d’une catégorie réglementaire qui est importé par une personne visée par règlement dans les circonstances ou à des fins prévues par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Exonération — circonstances prévues par règlement**
+
+**158.29** Un produit du cannabis visé par règlement ou d’une catégorie réglementaire est exonéré des droits imposés en vertu de l’un des articles 158.19 à 158.22 et 158.27 dans les circonstances prévues par règlement ou si les conditions prévues par règlement sont remplies.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Exonération**
+
+**158.3** Les droits ne sont pas exigibles sur les produits du cannabis suivants :
+- **a)** le produit du cannabis qui est :
+	- **(i)** utilisé à des fins d’analyse ou détruit par le ministre,
+	- **(ii)** utilisé à des fins d’analyse ou détruit par le ministre, au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md),
+	- **(iii)** utilisé à des fins d’analyse par un titulaire de licence de cannabis, de la manière approuvée par le ministre,
+	- **(iv)** détruit par un titulaire de licence de cannabis de la manière approuvée par le ministre,
+	- **(v)** livré par un titulaire de licence de cannabis à une autre personne à des fins d’analyse ou de destruction par celle-ci de la manière approuvée par le ministre,
+	- **(vi)** un produit du cannabis à faible teneur en THC,
+	- **(vii)** une drogue de cannabis sur ordonnance,
+	- **(viii)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire;
+- **b)** un produit du cannabis non acquitté qu’un titulaire de licence de cannabis sort de ses locaux pour l’exporter conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
+- **c)** le produit du cannabis visé par règlement ou d’une catégorie réglementaire qu’un titulaire de licence de cannabis livre à une personne visée par règlement dans les circonstances ou à des fins prévues par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Quantité de cannabis**
+
+**158.31** Pour le calcul d’un montant de droit relativement à un produit du cannabis selon l’article 1 de l’annexe 7, les règles suivantes s’appliquent :
+- **a)** la quantité de matière florifère et de matière non florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis est établie selon les modalités prévues par règlement dans les circonstances prévues par règlement;
+- **b)** si l’alinéa a) ne s’applique pas relativement au produit du cannabis :
+	- **(i)** la quantité de matière florifère et de matière non florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis est établie au moment de son inclusion ou de son utilisation d’une manière que le ministre juge acceptable,
+	- **(ii)** si la quantité de matière florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis est établie conformément au sous-alinéa (i), la quantité donnée de cette matière florifère qui constitue un sous-produit de chanvre industriel est réputée être de la matière non florifère si cette quantité donnée est établie d’une manière que le ministre juge acceptable.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Livraison à un acheteur**
+
+**158.32** Pour l’application des articles 158.19, 158.2, et 158.27, il est entendu que la livraison à un acheteur comprend :
+- **a)** le fait de livrer à une personne autre que l’acheteur des produits du cannabis pour le compte de l’acheteur ou suivant ses instructions ou de les mettre à la disposition d’une telle personne pour le compte de l’acheteur ou suivant ses instructions;
+- **b)** le fait de livrer des produits du cannabis à une personne qui les obtient autrement que par achat ou de les mettre à la disposition d’une telle personne;
+- **c)** le fait de livrer des produits du cannabis ou de les mettre à la disposition de personnes dans les circonstances prévues par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Moment de la livraison**
+
+**158.33** Pour l’application des articles 158.19, 158.2 et 158.27, un produit du cannabis est réputé être livré à un acheteur par le titulaire de licence de cannabis au premier en date des moments suivants :
+- **a)** le moment où le titulaire de licence de cannabis livre le produit du cannabis à l’acheteur ou le met à sa disposition;
+- **b)** le moment où le titulaire de licence de cannabis fait transférer la possession matérielle du produit du cannabis à l’acheteur;
+- **c)** le moment où le titulaire de licence de cannabis fait transférer la possession matérielle du produit du cannabis à un transporteur — soit la personne qui offre un service de transport de marchandises, étant entendu que le service de livraison du courrier est un tel service de transport — pour livraison à l’acheteur.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Somme passible de droits**
+
+**158.34** Pour l’application de l’article 2 de l’annexe 7, la somme passible de droits pour un produit du cannabis est réputée être égale à la juste valeur marchande du produit du cannabis dans les cas suivants :
+- **a)** le produit du cannabis est livré à une personne qui l’obtient autrement que par l’achat ou est mis à sa disposition;
+- **b)** les circonstances prévues par règlement s’avèrent.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
 **PARTIE 5** 
 ## Dispositions générales concernant les droits et autres sommes exigibles
 
@@ -3062,10 +3588,14 @@ où :
 
 **159** 
 
-- **(1)** Les mois d’exercice d’une personne sont déterminés selon les règles suivantes :
+- **(1)** Les mois d’exercice d’une personne, sauf un titulaire de licence de cannabis, sont déterminés selon les règles suivantes :
 	- **a)** si les mois d’exercice ont été déterminés selon les paragraphes 243(2) ou (4) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) pour l’application de la partie IX de cette loi, chacun de ces mois est un mois d’exercice de la personne pour l’application de la présente loi;
 	- **b)** sinon, la personne peut choisir, pour l’application de la présente loi, des mois d’exercice qui remplissent les exigences énoncées au paragraphe 243(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **c)** en cas d’inapplication des alinéas a) et b), tout mois civil est un mois d’exercice de la personne pour l’application de la présente loi.
+
+**Mois d’exercice — titulaire de licence de cannabis**
+
+- **(1.01)** Pour l’application de la présente loi, le mois d’exercice d’un titulaire de licence de cannabis correspond au mois civil.
 
 **Semestres d’exercice**
 
@@ -3076,7 +3606,7 @@ où :
 **Avis au ministre**
 
 - **(2)** Quiconque est tenu de produire une déclaration doit aviser le ministre de ses mois d’exercice en la forme et selon les modalités autorisées par celui-ci.
-> 2002, ch. 22, art. 159; 2010, ch. 25, art. 110.
+> 2002, ch. 22, art. 159; 2010, ch. 25, art. 110; 2018, ch. 12, art. 74.
 
 
 
@@ -3424,7 +3954,9 @@ où :
 
 **Exportation — droit non remboursé**
 
-**180** Sous réserve des autres dispositions de la présente loi, les droits payés sur les produits du tabac ou l’alcool entrés dans le marché des marchandises acquittées ne sont pas remboursés à l’exportation des produits ou de l’alcool.
+**180** Sous réserve des autres dispositions de la présente loi, les droits payés sur les produits du tabac, les produits du cannabis et l’alcool entrés dans le marché des marchandises acquittées ne sont pas remboursés à l’exportation des produits du tabac, des produits du cannabis ou de l’alcool.
+> 2002, ch. 22, art. 180; 2018, ch. 12, art. 75.
+
 
 
 
@@ -3449,7 +3981,7 @@ où :
 
 **Remboursement de la taxe sur les stocks — cigarettes importées détruites**
 
-- **(3)** Le ministre peut rembourser à une personne donnée la taxe imposée et exigible en vertu de la partie 3.1 sur les cigarettes imposées, au sens de l’article 58.1, si, à la fois :
+- **(3)** Le ministre peut rembourser à une personne donnée la taxe imposée et exigible en vertu de la partie 3.1 sur les cigarettes imposées, au sens de l’article 58.1, autres que les cigarettes sur lesquelles le droit prévu à l’article 53 a été imposé, si, à la fois :
 	- **a)** la personne donnée fournit au ministre une preuve, agréée par celui-ci, des faits que les cigarettes ont été importées par elle, qu’elle a détruit les cigarettes conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et que, selon le cas :
 		- **(i)** les cigarettes étaient des cigarettes imposées de la personne donnée et qu’elle a payé la taxe,
 		- **(ii)** les cigarettes étaient des cigarettes imposées d’une personne autre que la personne donnée, l’autre personne a payé la taxe et la personne donnée a versé à l’autre personne une somme équivalente à la taxe au titre de cette taxe;
@@ -3460,10 +3992,20 @@ où :
 
 
 
-**Tabac fabriqué importé détruit**
+**Remboursement du droit — tabac importé détruit**
 
-**181.1** Le ministre peut rembourser à l’exploitant agréé de boutique hors taxes le droit spécial imposé en vertu de l’article 53 et payé sur le tabac fabriqué importé que l’exploitant détruit conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) si celui-ci en fait la demande dans les deux ans suivant la destruction du tabac.
-> 2007, ch. 18, art. 110.
+**181.1** 
+
+- **(1)** Le ministre peut rembourser à l’exploitant agréé de boutique hors taxes le droit imposé en vertu de l’article 53 et payé sur le tabac fabriqué importé que l’exploitant détruit conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) si celui-ci en fait la demande dans les deux ans suivant la destruction du tabac.
+
+**Remboursement de la taxe sur les stocks — cigarettes importées détruites**
+
+- **(2)** Le ministre peut rembourser à l’exploitant agréé de boutique hors taxes la taxe imposée et exigible en vertu de la partie 3.1 sur les cigarettes imposées, au sens de l’article 58.1, de l’exploitant sur lesquelles le droit prévu à l’article 53 a été imposé, si, à la fois :
+	- **a)** l’exploitant fournit au ministre une preuve, agréée par celui-ci, des faits suivants :
+		- **(i)** les cigarettes étaient des cigarettes imposées de l’exploitant et il a payé la taxe,
+		- **(ii)** l’exploitant a détruit les cigarettes conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
+	- **b)** l’exploitant demande le remboursement dans les deux ans suivant la destruction des cigarettes imposées.
+> 2007, ch. 18, art. 110; 2014, ch. 39, art. 101.
 
 
 
@@ -3554,6 +4096,15 @@ où :
 **187** Dans le cas où un contenant spécial marqué d’alcool est retourné à l’exploitant agréé d’entrepôt d’accise qui a payé le droit sur l’alcool, le ministre peut lui rembourser le droit sur l’alcool qui reste dans le contenant au moment de son retour, si l’exploitant, à la fois :
 - **a)** détruit l’alcool de la manière approuvée par le ministre;
 - **b)** demande le remboursement dans les deux ans suivant le retour.
+
+
+
+
+**Remboursement du droit — cannabis détruit**
+
+**187.1** Le ministre peut rembourser à un titulaire de licence de cannabis le droit payé sur un produit du cannabis qui est façonné de nouveau ou détruit par le titulaire conformément à l’article 158.16 si celui-ci en fait la demande dans les deux ans suivant la nouvelle façon ou la destruction du produit.
+> 2018, ch. 12, art. 76.
+
 
 
 
@@ -4117,11 +4668,15 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 	- **a)** les titulaires de licence, d’agrément ou d’autorisation;
 	- **b)** les personnes tenues de produire une déclaration en vertu de la présente loi;
 	- **c)** les personnes qui présentent une demande en vue d’obtenir un remboursement en vertu de la présente loi;
-	- **d)** les personnes qui transportent de l’alcool emballé non acquitté ou des produits du tabac non estampillés.
+	- **d)** les personnes qui transportent des produits du tabac ou des produits du cannabis non estampillés ou de l’alcool emballé non acquitté.
 
 **Obligation de tenir des registres — tabaculteurs et offices provinciaux de commercialisation du tabac**
 
 - **(2)** Tout tabaculteur et tout organisme établi en vertu d’une loi provinciale sur la commercialisation du tabac en feuilles cultivé dans la province doit tenir des registres permettant d’établir la quantité de tabac en feuilles qu’il cultive ou reçoit, ou dont il dispose.
+
+**Obligation de tenir des registres — titulaire de licence de cannabis**
+
+- **(2.01)** Tout titulaire de licence de cannabis doit tenir des registres permettant d’établir la quantité de produits du cannabis qu’il produit, reçoit, utilise, emballe, façonne de nouveau ou vend, ou dont il dispose.
 
 **Obligation de tenir des registres — matériel de fabrication du tabac**
 
@@ -4150,7 +4705,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **Durée de conservation**
 
 - **(7)** La personne obligée de tenir des registres doit les conserver pendant la période de six ans suivant la fin de l’année qu’ils visent ou pendant toute autre période fixée par règlement.
-> 2002, ch. 22, art. 206; 2008, ch. 28, art. 59; 2010, ch. 12, art. 41.
+> 2002, ch. 22, art. 206; 2008, ch. 28, art. 59; 2010, ch. 12, art. 41; 2018, ch. 12, art. 77.
 
 
 
@@ -4372,8 +4927,8 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 		- **(ii)** à un fonctionnaire, mais uniquement en vue de la mise à exécution de la politique fiscale ou en vue de l’exécution ou du contrôle d’application de la Loi sur l’assurance-chômage, du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou d’une loi fédérale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
 		- **(iii)** à un fonctionnaire, mais uniquement en vue de l’exécution ou du contrôle d’application d’une loi provinciale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
 		- **(iv)** à un fonctionnaire provincial, mais uniquement en vue de la formulation ou de l’évaluation de la politique fiscale,
-		- **(iv.1)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi canadienne sur l’épargne-études](/fr/Lois/Lois%20du%20Canada/2004/ch.%2026.md) ou d’un ***programme provincial désigné*** au sens du paragraphe 146.1(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(iv.2)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi canadienne sur l’épargne-invalidité](/fr/Lois/Lois%20du%20Canada/2007/ch.%2035,%20art.%20136.md) ou d’un ***programme provincial désigné*** au sens du paragraphe 146.4(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(iv.1)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi canadienne sur l’épargne-études](/fr/Lois/Lois%20du%20Canada/2004/ch.%2026.md) ou d’un programme provincial désigné au sens du paragraphe 146.1(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(iv.2)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi canadienne sur l’épargne-invalidité](/fr/Lois/Lois%20du%20Canada/2007/ch.%2035,%20art.%20136.md) ou d’un programme provincial désigné au sens du paragraphe 146.4(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
 		- **(v)** à un fonctionnaire d’un ministère ou organisme fédéral ou provincial, quant aux nom, adresse, numéro de téléphone et profession d’une personne et à la taille et au genre de son entreprise, mais uniquement en vue de permettre à ce ministère ou à cet organisme de recueillir des données statistiques pour la recherche et l’analyse,
 		- **(v.1)** à un fonctionnaire du ministère de l’Emploi et du Développement social, mais uniquement en vue de l’application ou de l’exécution d’un programme établi sous le régime de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md) relativement à des enfants décédés ou disparus par suite d’une infraction, avérée ou probable, prévue au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(vi)** à un fonctionnaire, mais uniquement en vue de procéder, par voie de compensation, à la retenue, sur toute somme due par Sa Majesté, de tout montant égal à une créance :
@@ -4381,7 +4936,8 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 			- **(B)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province aux termes de laquelle le Canada est autorisé à percevoir les impôts ou taxes à payer à la province,
 		- **(vii)** à un fonctionnaire, mais uniquement pour l’application de l’article 7.1 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md),
 		- **(viii)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, mais uniquement en vue de permettre au Centre d’évaluer l’utilité des renseignements qu’il fournit à l’Agence du revenu du Canada en vertu de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md),
-		- **(ix)** à un fonctionnaire de l’Agence, mais uniquement en vue de la perception d’une somme due à Sa Majesté du chef du Canada ou d’une province aux termes de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), de la [Loi sur l’indemnisation des marins marchands](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-6.md), de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md), de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md), de la [Loi de 1997 sur le maintien des services postaux](/fr/Lois/Lois%20du%20Canada/1997/ch.%2034.md), de la [Loi sur le Programme de protection des salariés](/fr/Lois/Lois%20du%20Canada/2005/ch.%2047,%20art.%201.md), de la [Loi sur les prêts aux apprentis](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020,%20art.%20483.md) ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire;
+		- **(ix)** à un fonctionnaire de l’Agence, mais uniquement en vue de la perception d’une somme due à Sa Majesté du chef du Canada ou d’une province aux termes de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), de la [Loi sur l’indemnisation des marins marchands](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-6.md), de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md), de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md), de la [Loi de 1997 sur le maintien des services postaux](/fr/Lois/Lois%20du%20Canada/1997/ch.%2034.md), de la [Loi sur le Programme de protection des salariés](/fr/Lois/Lois%20du%20Canada/2005/ch.%2047,%20art.%201.md), de la [Loi sur les prêts aux apprentis](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020,%20art.%20483.md) ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire,
+		- **(x)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
 	- **f)** fournir un renseignement confidentiel, mais uniquement pour l’application des articles 23 à 25 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **g)** utiliser un renseignement confidentiel en vue de compiler des renseignements sous une forme qui ne révèle pas, même indirectement, l’identité de la personne en cause;
 	- **h)** utiliser ou fournir un renseignement confidentiel, mais uniquement à une fin liée à la surveillance ou à l’évaluation d’une personne autorisée, ou à des mesures disciplinaires prises à son endroit, par Sa Majesté relativement à une période au cours de laquelle la personne autorisée était soit employée par Sa Majesté, soit engagée par elle ou en son nom, pour aider à l’exécution ou au contrôle d’application de la présente loi, dans la mesure où le renseignement a rapport à cette fin;
@@ -4467,7 +5023,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75; 2018, ch. 12, art. 78.
 
 
 
@@ -4564,12 +5120,12 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
-**Production, vente, etc., illégales de tabac ou d’alcool**
+**Production, vente, etc., illégales**
 
-**214** Quiconque contrevient à l’un des articles 25, 25.2 à 25.4, 27 et 29, au paragraphe 32.1(1) ou aux articles 60 ou 62 commet une infraction passible, sur déclaration de culpabilité :
+**214** Quiconque contrevient à l’un des articles 25, 25.2 à 25.4, 27 et 29, au paragraphe 32.1(1) ou à l’un des articles 60, 62, 158.04 à 158.06 et 158.08 commet une infraction passible, sur déclaration de culpabilité :
 - **a)** par mise en accusation, d’une amende d’au moins 50 000 $, sans dépasser 1 000 000 $, et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 - **b)** par procédure sommaire, d’une amende d’au moins 10 000 $, sans dépasser 500 000 $, et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
-> 2002, ch. 22, art. 214; 2008, ch. 28, art. 60; 2010, ch. 12, art. 42.
+> 2002, ch. 22, art. 214; 2008, ch. 28, art. 60; 2010, ch. 12, art. 42; 2018, ch. 12, art. 79.
 
 
 
@@ -4610,22 +5166,22 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** le total des produits suivants :
-		- **(i)** le produit de 0,22 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,22 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,27 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,42 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,24 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,24 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,30 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,47 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** le total des produits suivants :
-		- **(i)** le produit de 0,32 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,32 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,40 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,84 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,36 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,36 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,45 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,93 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76; 2017, ch. 20, art. 51.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76; 2017, ch. 20, art. 51; 2018, ch. 12, art. 52.
 
 
 
@@ -4901,6 +5457,28 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
+**Contravention — article 158.13**
+
+**233.1** Le titulaire de licence de cannabis qui contrevient à l’article 158.13 est passible d’une pénalité égale à la somme obtenue par la formule suivante :
+```
+(A + B + C) × 200 %
+```
+où :
+- **A** représente la plus élevée des sommes suivantes :
+- **a)** la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment de la contravention, relativement aux produits du cannabis auxquels la contravention se rapporte,
+- **b)** la somme obtenue en multipliant la juste valeur marchande au moment de la contravention des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’article 4 de l’annexe 7, dans sa version applicable à ce moment;
+- **B** :
+- **a)** si la contravention est commise dans une province déterminée, 300 % de la valeur de l’élément A,
+- **b)** sinon, zéro;
+- **C** :
+- **a)** si la contravention est commise dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
+- **b)** sinon, zéro.
+> 2018, ch. 12, art. 84.
+
+
+
+
+
 **Contravention — articles 38, 40, 49, 61, 62.1, 99, 149 ou 151**
 
 **234** 
@@ -4910,7 +5488,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Défaut de se conformer**
 
 - **(2)** Quiconque omet de retourner ou de détruire des timbres selon les instructions du ministre visées à l’alinéa 25.5b), ou omet de façonner de nouveau ou de détruire un produit du tabac de la manière autorisée par le ministre aux termes de l’article 41, est passible d’une pénalité maximale de 25 000 $.
-> 2002, ch. 22, art. 234; 2007, ch. 18, art. 121; 2010, ch. 12, art. 43.
+
+**Défaut de se conformer**
+
+- **(3)** Quiconque omet de retourner ou de détruire des timbres selon les instructions du ministre visées à l’alinéa 158.07b) est passible d’une pénalité maximale de 25 000 $.
+> 2002, ch. 22, art. 234; 2007, ch. 18, art. 121; 2010, ch. 12, art. 43; 2018, ch. 12, art. 85.
 
 
 
@@ -4973,13 +5555,18 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **238.1** 
 
 - **(1)** Toute personne à qui des timbres d’accise ont été émis, mais qui ne peut rendre compte des timbres comme étant en sa possession est passible d’une pénalité, sauf si :
-	- **a)** elle peut démontrer que les timbres ont été apposés sur des produits du tabac ou sur leur contenant selon les modalités réglementaires visées à la définition de ***estampillé*** à l’article 2 et que les droits afférents autres que le droit spécial ont été acquittés;
+	- **a)** elle peut démontrer que les timbres ont été apposés sur des produits du tabac, sur des produits du cannabis ou sur leur contenant selon les modalités réglementaires visées à la définition de estampillé à l’article 2 et que les droits afférents autres que le droit spécial ont été acquittés;
 	- **b)** s’agissant de timbres qui ont été annulés, elle peut démontrer que les timbres ont été retournés ou détruits selon les instructions du ministre.
 
 **Pénalité**
 
-- **(2)** La pénalité pour chaque timbre d’accise dont il ne peut être rendu compte est égale au droit qui serait imposé sur un produit du tabac pour lequel le timbre a été émis en vertu du paragraphe 25.1(1).
-> 2010, ch. 12, art. 44.
+- **(2)** La pénalité pour chaque timbre d’accise dont il ne peut être rendu compte est égale à ce qui suit :
+	- **a)** en ce qui concerne le timbre d’accise de tabac, le droit qui serait imposé sur un produit du tabac pour lequel le timbre a été émis en vertu du paragraphe 25.1(1);
+	- **b)** en ce qui concerne le timbre d’accise de cannabis, cinq fois le total des sommes suivantes :
+		- **(i)** le montant exprimé en dollars prévu à l’alinéa 1a) de l’annexe 7,
+		- **(ii)** trois fois le montant exprimé en dollars prévu à l’alinéa 1a) de l’annexe 7 si le timbre vise une province déterminée,
+		- **(iii)** cinq dollars si le timbre vise une province déterminée visée par règlement.
+> 2010, ch. 12, art. 44; 2018, ch. 12, art. 87.
 
 
 
@@ -4997,10 +5584,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,41 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,41 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 508,81 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78; 2017, ch. 20, art. 54.
+- **a)** 0,43 $ par cigarette retirée en contravention avec ce paragraphe;
+- **b)** 0,43 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **c)** 537,48 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78; 2017, ch. 20, art. 54; 2018, ch. 12, art. 53.
 
 
 
@@ -5367,8 +5954,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Pas de restitution**
 
-**264** Malgré les autres dispositions de la présente loi, l’alcool, l’alcool spécialement dénaturé, la préparation assujettie à des restrictions, le tabac en feuilles, les timbres d’accise et les produits du tabac qui sont saisis en vertu de l’article 260 ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
-> 2002, ch. 22, art. 264; 2007, ch. 18, art. 127; 2010, ch. 12, art. 45.
+**264** Malgré les autres dispositions de la présente loi, l’alcool, l’alcool spécialement dénaturé, la préparation assujettie à des restrictions, le tabac en feuilles, les timbres d’accise, les produits du tabac et les produits du cannabis qui sont saisis en vertu de l’article 260 ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+> 2002, ch. 22, art. 264; 2007, ch. 18, art. 127; 2010, ch. 12, art. 45; 2018, ch. 12, art. 89.
 
 
 
@@ -5399,14 +5986,15 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **a)** les spiritueux ou l’alcool spécialement dénaturé saisis, mais seulement à un titulaire de licence de spiritueux;
 	- **b)** le vin saisi, mais seulement à un titulaire de licence de vin;
 	- **c)** le tabac en feuilles ou les produits du tabac saisis, mais seulement à un titulaire de licence de tabac;
-	- **d)** les préparations assujetties à des restrictions saisies, mais seulement à un utilisateur agréé.
+	- **d)** les préparations assujetties à des restrictions saisies, mais seulement à un utilisateur agréé;
+	- **e)** des produits du cannabis saisis, mais seulement à un titulaire de licence de cannabis.
 
 **Versement d’une compensation**
 
 - **(3)** S’il est impossible de restituer une chose à une personne qui y aurait droit par ailleurs, il lui est versé :
 	- **a)** en cas de vente de la chose, le produit de la vente;
 	- **b)** dans les autres cas, une somme égale à la valeur de la chose au moment de la saisie, déterminée par le ministre.
-> 2002, ch. 22, art. 266; 2007, ch. 18, art. 128; 2010, ch. 12, art. 46.
+> 2002, ch. 22, art. 266; 2007, ch. 18, art. 128; 2010, ch. 12, art. 46; 2018, ch. 12, art. 90.
 
 
 
@@ -6414,9 +7002,10 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **a)** préciser les exigences et conditions à remplir pour obtenir ou détenir une licence, un agrément ou une autorisation;
 	- **b)** préciser les activités que les titulaires de licence, d’agrément ou d’autorisation sont autorisés à exercer ainsi que les locaux où ces activités peuvent être exercées;
 	- **c)** prévoir les types de cautions qui sont acceptables pour l’application de l’alinéa 23(3)b) ou du paragraphe 25.1(3) ainsi que le mode de calcul des cautions, dont le montant doit être d’au moins 5 000 $;
+	- **c.1)** prévoir les types de cautions qui sont acceptables pour l’application du paragraphe 158.03(3) ainsi que le mode de calcul des cautions;
 	- **d)** régir la durée, la modification, la suspension, le renouvellement, la révocation, le retrait et le rétablissement des licences, agréments et autorisations;
 	- **e)** prévoir les installations, le matériel et le personnel dont un titulaire de licence, d’agrément ou d’autorisation doit doter le local précisé par le ministre en vertu du paragraphe 23(3);
-	- **f)** préciser les renseignements à indiquer sur les produits du tabac et l’alcool emballé et sur leurs contenants;
+	- **f)** préciser les renseignements à indiquer sur les produits du tabac, l’alcool emballé et les produits du cannabis et sur leurs contenants;
 	- **f.1)** prévoir des règles concernant l’émission de timbres d’accise;
 	- **g)** désigner certaines catégories de marchandises comme provisions de bord pour usage à bord d’un moyen de transport d’une catégorie réglementaire, y compris une catégorie fondée sur les critères suivants appliqués aux moyens de transport :
 		- **(i)** leurs attributs physiques, leur fonction ou leur description officielle,
@@ -6429,7 +7018,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **k)** prévoir les frais à payer pour obtenir une licence, un agrément ou une autorisation ou la manière de les déterminer;
 	- **l)** obliger toute catégorie de personnes à produire des déclarations concernant toute catégorie de renseignements nécessaires à l’exécution et au contrôle d’application de la présente loi;
 	- **m)** obliger toute personne à aviser le ministre de son numéro d’assurance sociale;
-	- **n)** régir la vente, en vertu de l’article 266, d’alcool, de produits du tabac, de tabac en feuilles, d’alcool spécialement dénaturé ou de préparations assujetties à des restrictions saisis en vertu de l’article 260;
+	- **n)** régir la vente, en vertu de l’article 266, d’alcool, de produits du tabac, de tabac en feuilles, d’alcool spécialement dénaturé, de préparations assujetties à des restrictions ou de produits du cannabis saisis en vertu de l’article 260;
 	- **o)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **p)** prendre toute autre mesure d’application de la présente loi.
 
@@ -6444,7 +7033,72 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Incorporation par renvoi**
 
 - **(3)** Peut être incorporé par renvoi dans un règlement pris en vertu de la présente loi tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
-> 2002, ch. 22, art. 304; 2007, ch. 18, art. 130; 2010, ch. 12, art. 47.
+> 2002, ch. 22, art. 304; 2007, ch. 18, art. 130; 2010, ch. 12, art. 47; 2018, ch. 12, art. 91.
+
+
+
+
+
+**Définition de régime coordonné des droits sur le cannabis**
+
+**304.1** 
+
+- **(1)** Au présent article, ***régime coordonné des droits sur le cannabis*** s’entend du régime qui prévoit le paiement, la perception et le versement des droits imposés en vertu de l’un des articles 158.2 et 158.22 et des paragraphes 158.25(2) et 158.26(2), ainsi que des dispositions concernant ces droits ou les remboursements relativement à ces droits.
+
+**Règlement concernant le régime coordonné des droits sur le cannabis**
+
+- **(2)** En ce qui concerne le passage d’une province au régime coordonné des droits sur le cannabis, le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir des mesures transitoires, y compris :
+		- **(i)** une taxe sur les stocks de produits du cannabis détenus par un titulaire de licence de cannabis ou toute autre personne,
+		- **(ii)** un droit ou une taxe sur les produits du cannabis livrés avant que la province ne passe à ce régime;
+	- **b)** prendre toute mesure en vue de la mise en oeuvre de ce régime, à l’égard de la province.
+
+**Règlement concernant le régime coordonné des droits sur le cannabis — variation de taux**
+
+- **(3)** Le gouverneur en conseil peut, par règlement :
+	- **a)** établir des règles prévoyant le moment à partir duquel s’opère un changement de taux des droits applicables à une province déterminée (un tel changement de taux étant appelé au présent article « variation de taux »), ainsi que les modalités d’application d’un tel changement, y compris des règles selon lesquelles l’état d’une chose est réputé, dans des circonstances déterminées et à des fins déterminées, être différent de ce qu’il serait par ailleurs, notamment le moment où les droits sont imposés ou exigibles, et le moment où les droits doivent être déclarés et où il faut en rendre compte;
+	- **b)** si une manière de déterminer un montant de droit doit être établie selon les modalités réglementaires relativement au régime coordonné des droits sur le cannabis :
+		- **(i)** préciser les circonstances et les conditions en vertu desquelles un changement à la manière s’applique :
+		- **(ii)** prévoir des mesures transitoires relativement à un changement à la manière, y compris :
+			- **(A)** une taxe sur les stocks de produits du cannabis détenus par un titulaire de licence de cannabis ou toute autre personne,
+			- **(B)** un droit ou une taxe sur les produits du cannabis livrés avant le changement;
+	- **c)** prévoir les montants et les taux devant entrer dans le calcul du montant de tout remboursement relatif au régime coordonné des droits sur le cannabis ou sur lequel celui-ci a une incidence, exclure les montants qui entreraient par ailleurs dans le calcul d’un tel remboursement et préciser les circonstances dans lesquelles un tel remboursement n’est pas versé ou effectué.
+
+**Règlement concernant le régime coordonné des droits sur le cannabis — général**
+
+- **(4)** Afin de faciliter la mise en oeuvre, l’application, l’administration et l’exécution du régime coordonné des droits sur le cannabis ou une variation de taux, ou le passage d’une province à ce régime, le gouverneur en conseil peut, par règlement :
+	- **a)** établir des règles prévoyant le moment à partir duquel ce régime s’applique, ainsi que ses modalités d’application, et des règles liées à d’autres aspects concernant l’application de ce régime relativement à une province déterminée, y compris des règles selon lesquelles l’état d’une chose est réputé, dans des circonstances déterminées et à des fins déterminées, être différent de ce qu’il serait par ailleurs, notamment le moment où les droits sont imposés ou exigibles, et le moment où les droits doivent être déclarés et où il faut en rendre compte;
+	- **b)** établir des règles relatives au mouvement de produits du cannabis entre les provinces, notamment une taxe, un droit ou un remboursement lié à ce mouvement;
+	- **c)** prévoir des remboursements concernant l’application de ce régime relativement à une province déterminée;
+	- **d)** adapter toute disposition de la présente loi ou de règlements pris en application de la présente loi au régime coordonné des droits sur le cannabis ou la modifier en vue de l’adapter à ce régime;
+	- **e)** définir, pour l’application de la présente loi ou des règlements pris en application de la présente loi, ou d’une de leurs dispositions, en son état applicable au nouveau régime coordonné des droits sur le cannabis, des mots ou expressions utilisés dans la présente loi ou ces règlements, y compris ceux définis dans une de leurs dispositions;
+	- **f)** exclure une des dispositions de la présente loi ou des règlements pris en application de la présente loi, ou une partie d’une telle disposition, de l’application du régime coordonné des droits sur le cannabis;
+	- **g)** établir des mesures d’observation, notamment des pénalités et des règles anti-évitement;
+	- **h)** prendre toute autre mesure en vue de l’application de ce régime relativement à une province.
+
+**Primauté**
+
+- **(5)** S’il est précisé, dans un règlement pris sous le régime de la présente loi relativement au régime coordonné des droits sur le cannabis, que ses dispositions s’appliquent malgré les dispositions de la présente loi, les dispositions du règlement l’emportent sur les dispositions incompatibles de la présente loi.
+> 2018, ch. 12, art. 92.
+
+
+
+
+
+**Définition de régime de droits sur le cannabis**
+
+**304.2** 
+
+- **(1)** Au présent article, ***régime de droits sur le cannabis*** s’entend du régime qui prévoit le paiement, la perception et le versement des droits imposés en vertu de la partie 4.1 ainsi que des dispositions concernant ces droits ou les remboursements relativement à ces droits.
+
+**Règlements transitoires sur le régime de droits sur le cannabis**
+
+- **(2)** Dans le but de faciliter la mise en oeuvre, l’application, l’administration ou l’exécution du régime de droits sur le cannabis, le gouverneur en conseil peut par règlement adapter les dispositions de la présente loi ou des règlements pris en application de la présente loi afin de tenir compte de la prise de règlements en application de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) ou de la modification des règlements pris en application de cette loi.
+
+**Rétroactivité**
+
+- **(3)** Malgré le paragraphe 304(2), les règlements pris en vertu du paragraphe (2) peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+> 2018, ch. 12, art. 92.
 
 
 
@@ -6807,7 +7461,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 ## Taux du droit sur les produits du tabac
 **1** Cigarettes, par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet :
 
-**a)** 0,539 00 $;
+**a)** 0,596 34 $;
 
 
 
@@ -6818,7 +7472,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **2** Bâtonnets de tabac, par bâtonnet :
 
-**a)** 0,107 80 $;
+**a)** 0,119  27 $;
 
 
 
@@ -6829,7 +7483,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, par quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage :
 
-**a)** 6,737 50 $;
+**a)** 7,454 25 $;
 
 
 
@@ -6840,7 +7494,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **4** Cigares, par lot de 1 000 cigares :
 
-**a)** 23,462 35 $;
+**a)** 25,958 32 $;
 
 
 
@@ -6852,7 +7506,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56; 2014, ch. 20, art. 79; 2017, ch. 20, art. 58 à 61 .
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64; 2013, ch. 33, art. 56; 2014, ch. 20, art. 79; 2017, ch. 20, art. 58 à 61 ; 2018, ch. 12, art. 54 à 57.
 
 
 
@@ -6864,7 +7518,7 @@ Cigares, par cigare, la plus élevée des sommes suivantes :
 
 **a)** selon le cas :
 
-**(i)** 0,084 34 $,
+**(i)** 0,093 31 $,
 
 
 
@@ -6874,25 +7528,12 @@ Cigares, par cigare, la plus élevée des sommes suivantes :
 
 
 
-**b)** le produit du prix de vente, dans le cas de cigares fabriqués au Canada, ou de la valeur à l’acquitté, dans le cas de cigares importés, par celui des pourcentages ci-après qui est applicable :
-
-**(i)** si le taux prévu au sous-alinéa a)(i) n’a pas été ajusté conformément au paragraphe 43.1(2), 84 %,
-
-
-
-**(ii)** si oui, la somme, exprimée en pourcentage, — arrêtée à l’unité, les résultats ayant au moins cinq en première décimale étant arrondis à l’unité supérieure — obtenue par la formule suivante :
-```
-A × 1000
-```
-où :
-- **A** représente le taux ajusté prévu au sous-alinéa a)(ii), à supposer qu’il n’est pas exprimé en dollars.
+**b)** le produit du prix de vente, dans le cas de cigares fabriqués au Canada, ou de la valeur à l’acquitté, dans le cas de cigares importés, par 88 %.
 
 
 
 
-
-
-> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208; 2014, ch. 20, art. 80; 2017, ch. 20, art. 62 et 63.
+> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208; 2014, ch. 20, art. 80; 2017, ch. 20, art. 62 et 63; 2018, ch. 12, art. 58.
 
 
 
@@ -7072,7 +7713,36 @@ Vin :
 
 
 ### **ANNEXE 7** 
-[Modification]
+**(articles 2, 158.19, 158.21,158.24 à 158.27, 158.31, 158.34, 218.1, 233.1, 234.1 et 238.1)**
+## Droit sur les produits du cannabis
+**1** Tout produit du cannabis produit au Canada ou importé, le total des montants suivants :
 
+**a)** 0,25 $ le gramme de matière florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
+
+
+
+**b)** 0,075 $ le gramme de matière non florifère incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
+
+
+
+**c)** 0,25 $ la graine viable incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis;
+
+
+
+**d)** 0,25 $ la plante de cannabis à l’état végétatif incluse dans le produit du cannabis ou utilisée dans la production du produit du cannabis.
+
+
+
+
+**2** Tout produit du cannabis produit au Canada : le montant obtenu en multipliant la somme passible de droits pour le produit du cannabis par 2,5 %.
+
+
+**3** Tout produit du cannabis importé : le montant obtenu en multipliant la valeur du produit du cannabis par 2,5 %.
+
+
+**4** Tout produit du cannabis utilisé pour soi ou égaré : le montant obtenu en multipliant la juste valeur marchande du produit du cannabis par 2,5 %.
+
+
+> 2002, ch. 22, ann. 7; 2018, ch. 12, art. 93.
 
 
