@@ -53,7 +53,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**6** [Modifications]
+**6** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé avant d’entrer en vigueur, 2018, ch. 12, art. 41]
+
+- **(3)** [Modification]
+
+- **(4)** [Disposition connexe]
+
+- **(5)** [Abrogé, 2018, ch. 12, art. 41]
+
+- **(6)** [Disposition connexe]
 
 
 
@@ -239,7 +251,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md)
 
 
-**45** [Modifications]
+**45** 
+
+- **(1) et (2)** [Modifications]
+
+- **(3)** [Abrogé avant d’entrer en vigueur, 2018, ch. 12, art. 66]
+
+- **(4)** [Disposition connexe]
+
+- **(5)** [Abrogé, 2018, ch. 12, art. 66]
 
 
 
