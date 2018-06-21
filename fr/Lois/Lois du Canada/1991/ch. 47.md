@@ -660,7 +660,7 @@ Est exclue de la présente définition la société mutuelle transformée en soc
 
 **21** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités ni les sociétés étrangères leurs activités au Canada après le 29 mars 2019.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités, et les sociétés étrangères ne peuvent exercer leurs activités au Canada, après le cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md).
 
 **Prorogation**
 
@@ -672,8 +672,8 @@ Est exclue de la présente définition la société mutuelle transformée en soc
 
 **Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités et les sociétés étrangères leurs activités au Canada jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
-> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201; 2007, ch. 6, art. 189; 2012, ch. 5, art. 123; 2016, ch. 7, art. 120.
+- **(4)** En cas de dissolution du Parlement au cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md), ou au cours des six mois qui précèdent cet anniversaire, ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités, et les sociétés étrangères peuvent exercer leurs activités au Canada, jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201; 2007, ch. 6, art. 189; 2012, ch. 5, art. 123; 2016, ch. 7, art. 120; 2018, ch. 12, art. 357.
 
 
 
@@ -9561,13 +9561,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **b)** détenir ou gérer des biens immeubles ou effectuer toutes opérations à leur égard;
 	- **c)** fournir au Canada à des entités dans lesquelles elle détient un intérêt de groupe financier des services de traitement de données qu’elle a établis pour son propre usage et qui font partie intégrante de ses activités, à la condition que celles-ci ne fournissent pas de services de traitement de données à d’autres personnes;
 	- **(d)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
-		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1), ou encore précisée par arrêté du ministre,
+		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1), ou encore précisée par arrêté du ministre,
 		- **(ii)** la prestation de services consultatifs ou autres en matière de conception, de développement ou de mise sur pied de systèmes de gestion de l’information,
 		- **(iii)** la conception, le développement ou la commercialisation de logiciels,
-		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
+		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
 	- **d.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
-		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1),
+		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1),
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
 	- **e)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle;
 	- **f)** vendre des billets :
@@ -9575,7 +9575,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 		- **(ii)** de transport en commun urbain,
 		- **(iii)** d’une loterie parrainée par le gouvernement fédéral, un gouvernement provincial ou une administration municipale, ou encore par tout organisme de l’un ou l’autre;
 	- **g)** faire fonction de gardien de biens;
-	- **h)** avec l’autorisation du ministre, effectuer des opérations, notamment offrir des services en matière de sécurité et prévention, de gestion des risques et d’évaluation ou de règlement des sinistres, exploiter des centres de rééducation et de perfectionnement, fournir de l’équipement informatique ou de l’aide à ses agents et courtiers d’assurances indépendants, exploiter des centres de réparation et d’évaluation, pourvu qu’elles soient raisonnablement connexes au commerce de l’assurance exercé par la société.
+	- **h)** avec l’autorisation du ministre, effectuer des opérations, notamment offrir des services en matière de sécurité et prévention, de gestion des risques et d’évaluation ou de règlement des sinistres, exploiter des centres de rééducation et de perfectionnement, fournir de l’équipement informatique ou de l’aide à ses agents et courtiers d’assurances indépendants, exploiter des centres de réparation et d’évaluation, pourvu qu’elles soient raisonnablement connexes au commerce de l’assurance exercé par la société;
+	- **i)** fournir des services d’identification, d’authentification ou de vérification.
 
 **Activités supplémentaires**
 
@@ -9583,7 +9584,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Conditions**
 
-- **(2)** L’autorisation visée à l’alinéa (1)h) est assujettie aux conditions fixées par le ministre.
+- **(2)** L’autorisation visée à l’alinéa (1)h) est assujettie aux conditions fixées par le ministre.
 
 **Interdiction**
 
@@ -9592,10 +9593,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Règlements**
 
 - **(4)** Le gouverneur en conseil peut, par règlement :
-	- **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)d) et d.1) et au paragraphe (1.1);
-	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés aux alinéas (1)a) et 440(2)b);
-	- **c)** prévoir les circonstances dans lesquelles la société peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)d) ou d.1).
-> 1991, ch. 47, art. 441; 1993, ch. 34, art. 80(F); 1994, ch. 26, art. 41(F); 1997, ch. 15, art. 247; 2001, ch. 9, art. 416; 2007, ch. 6, art. 217(A).
+	- **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)d) et d.1) et au paragraphe (1.1);
+	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés aux alinéas (1)a) et 440(2)b);
+	- **c)** prévoir les circonstances dans lesquelles la société peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)d) ou d.1).
+> 1991, ch. 47, art. 441; 1993, ch. 34, art. 80(F); 1994, ch. 26, art. 41(F); 1997, ch. 15, art. 247; 2001, ch. 9, art. 416; 2007, ch. 6, art. 217(A); 2018, ch. 12, art. 329.
 
 
 
@@ -16194,7 +16195,7 @@ où :
 
 **707** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après le 29 mars 2019.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après le cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md).
 
 **Prorogation**
 
@@ -16206,8 +16207,8 @@ où :
 
 **Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille d’assurances peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
-> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1; 2007, ch. 6, art. 310; 2012, ch. 5, art. 154; 2016, ch. 7, art. 121.
+- **(4)** En cas de dissolution du Parlement au cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md), ou au cours des six mois qui précèdent cet anniversaire, ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille d’assurances peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1; 2007, ch. 6, art. 310; 2012, ch. 5, art. 154; 2016, ch. 7, art. 121; 2018, ch. 12, art. 358.
 
 
 
