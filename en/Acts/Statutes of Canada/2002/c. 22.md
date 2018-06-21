@@ -41,6 +41,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act. (*représentant accrédité*)
 
+***additional cannabis duty*** means a duty imposed under section 158.2 or 158.22. (*droit additionnel sur le cannabis*)
+
 ***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*Agence*)
 
 ***alcohol*** means spirits or wine. (*alcool*)
@@ -65,6 +67,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***bulk***, in respect of alcohol, means alcohol that is not packaged. (*en vrac*)
 
+***cannabis*** has the same meaning as in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*cannabis*)
+
+***cannabis duty*** means a duty imposed under section 158.19 or 158.21. (*droit sur le cannabis*)
+
+***cannabis excise stamp*** means a stamp that is issued by the Minister under subsection 158.03(1) and that has not been cancelled under section 158.07. (*timbre d’accise de cannabis*)
+
+***cannabis licensee*** means a person that holds a cannabis licence issued under section 14. (*titulaire de licence de cannabis*)
+
+***cannabis plant*** has the same meaning as in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*plante de cannabis*)
+
+***cannabis product*** means
+- **(a)** a product that is cannabis but that is not industrial hemp produced or imported in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) or the [Industrial Hemp Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/145.md),
+- **(b)** a product that is an industrial hemp by-product,
+- **(c)** anything that is made with or contains a product described in paragraph (a) or (b), or
+- **(d)** a prescribed substance, material or thing,
+
+but does not include a prescribed substance, material or thing. (*produit du cannabis*)
+
 ***cigar*** includes
 - **(a)** a cigarillo or cheroot; and
 - **(b)** any roll or tubular construction intended for smoking that consists of a filler composed of pieces of natural or reconstituted leaf tobacco, a binder of natural or reconstituted leaf tobacco in which the filler is wrapped and a wrapper of natural or reconstituted leaf tobacco. (*cigare*)
@@ -73,7 +93,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*commissaire*)
 
-***container***, in respect of a tobacco product, means a wrapper, package, carton, box, crate or other container that contains the tobacco product. (*contenant*)
+***container***, in respect of a tobacco product or a cannabis product, means a wrapper, package, carton, box, crate, bottle, vial or other container that contains the tobacco product or cannabis product. (*contenant*)
 
 ***customs bonded carrier*** means a person who transports or causes to be transported goods in accordance with section 20 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*transporteur cautionné*)
 
@@ -87,6 +107,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***denatured alcohol*** means any prescribed grade of denatured alcohol made from spirits in accordance with the prescribed specification for that grade. (*alcool dénaturé*)
 
+***dutiable amount***, in respect of a cannabis product, means
+- **(a)** if paragraph (b) does not apply, the amount determined by the formula
+```
+A × [100%/(100% + B + C)]
+```
+where
+- **A** is the total of the following amounts that the purchaser is liable to pay to the vendor by reason of, or in respect of, the sale of the cannabis product:
+- **(i)** the consideration, as determined for the purposes of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), for the cannabis product,
+- **(ii)** any additional consideration, as determined for the purposes of that Part, for the container in which the cannabis product is contained, and
+- **(iii)** any amount of consideration, as determined for the purposes of that Part, that is in addition to the amounts referred to in subparagraphs (i) and (ii), whether payable at the same or any other time, including, but not limited to, any amount charged for or to make provision for advertising, financing, commissions or any other matter,
+- **B** is the percentage set out in section 2 of Schedule 7, and
+- **C** is
+- **(i)** if additional cannabis duty in respect of a specified province is imposed on the cannabis product, the prescribed percentage in respect of the specified province, or
+- **(ii)** in any other case, 0%; and
+- **(b)** in prescribed circumstances, the amount determined in prescribed manner. (*somme passible de droits*)
+
 ***duty*** means, unless a contrary intention appears, the duty imposed under this Act and the duty levied under section 21.1 or 21.2 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and, except in Parts 3 and 4, includes special duty. (*droit*)
 
 ***duty free shop*** means a place that is licensed as a duty free shop under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*boutique hors taxes*)
@@ -99,7 +135,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** in respect of imported cigars, the value of the cigars as it would be determined for the purpose of calculating an *ad valorem* duty on the cigars in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), whether or not the cigars are subject to *ad valorem* duty, plus the amount of any duty imposed on the cigars under section 42 of this Act and section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
 - **(b)** in respect of imported cigars that, when imported, are contained in containers or otherwise prepared for sale, the total of the value of the cigars as determined in accordance with paragraph (a) and the value similarly determined of the container in which they are contained. (*valeur à l’acquitté*)
 
-***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) and that has not been cancelled under section 25.5. (*timbre d’accise*)
+***excise stamp*** means a tobacco excise stamp or a cannabis excise stamp. (*timbre d’accise*)
 
 ***excise warehouse*** means the premises of an excise warehouse licensee that are specified by the Minister as the excise warehouse of the licensee. (*entrepôt d’accise*)
 
@@ -117,6 +153,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***fiscal year*** of a person means the same period that is the person’s fiscal year under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*exercice*)
 
+***flowering material*** means the whole or any part (other than viable seeds) of an inflorescence of a cannabis plant at any stage of development, including the infructescence stage of development. (*matière florifère*)
+
 ***foreign duty free shop*** means a retail store that is located in a country other than Canada and that is authorized under the laws of that country to sell goods free of certain duties and taxes to individuals who are about to leave that country. (*boutique hors taxes à l’étranger*)
 
 ***foreign ships’ stores*** means tobacco products taken on board a vessel or aircraft while the vessel or aircraft is outside Canada and that are intended for consumption by or sale to the passengers or crew while the passengers and crew are on board the vessel or aircraft. (*provisions de bord à l’étranger*)
@@ -124,6 +162,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Her Majesty*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
 ***import*** means to import into Canada. (*importation*)
+
+***industrial hemp*** means cannabis that is industrial hemp for the purposes of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) or the [Industrial Hemp Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/145.md). (*chanvre industriel*)
+
+***industrial hemp by-product*** means flowering material (other than viable achenes) or non-flowering material that has been removed or separated from an industrial hemp plant and that has not
+- **(a)** been disposed of by retting or by otherwise rendering it into a condition such that it cannot be used for any purpose not permitted under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md); or
+- **(b)** been disposed of in a similar manner under the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*sous-produit de chanvre industriel*)
+
+***industrial hemp grower*** means a person that holds a licence or permit under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) authorizing the person to produce industrial hemp plants. (*producteur de chanvre industriel*)
+
+***industrial hemp plant*** means a cannabis plant, including a seedling, that is industrial hemp. (*plante de chanvre industriel*)
 
 ***intoxicating liquor*** has the same meaning as in section 2 of the [Importation of Intoxicating Liquors Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-3.md). (*boisson enivrante*)
 
@@ -138,6 +186,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***listed international agreement*** means
 - **(a)** the Convention on Mutual Administrative Assistance in Tax Matters, concluded at Strasbourg on January 25, 1988, as amended from time to time by a protocol, or other international instrument, as ratified by Canada; or
 - **(b)** a comprehensive tax information exchange agreement that Canada has entered into and that has effect, in respect of another country or jurisdiction. (*accord international désigné*)
+
+***low-THC cannabis product*** means a cannabis product
+- **(a)** consisting entirely of cannabis of a class referred to in any of items 1 to 3 of Schedule 4 to the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); and
+- **(b)** any part of which does not have a maximum yield of more than 0.3% THC w/w, taking into account the potential to convert delta-9-tetrahydrocannabinolic acid into THC, as determined in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*produit du cannabis à faible teneur en THC*)
 
 ***manufacture***, in respect of a tobacco product, includes any step in the preparation or working up of raw leaf tobacco into the tobacco product. It includes packing, stemming, reconstituting, converting or packaging the raw leaf tobacco or tobacco product. (*fabrication*)
 
@@ -155,15 +207,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the day immediately before the day in the next calendar month that has the same calendar number as the particular day; or
 - **(b)** if the next calendar month does not have a day that has the same calendar number as the particular day, the last day of that next calendar month. (*mois*)
 
-***non-duty-paid***, in respect of packaged alcohol, means that duty, other than special duty, has not been paid on the alcohol. (*non acquitté*)
+***non-duty-paid***, in respect of packaged alcohol or a cannabis product, means that duty (other than special duty in the case of alcohol) has not been paid on the alcohol or cannabis product. (*non acquitté*)
 
-***officer*** means, except in section 167, in the definition ***contact information*** in subsection 211(1) and in sections 226 and 296,
+***non-flowering material*** means any part of a cannabis plant other than flowering material, viable seeds and a part of the plant referred to in Schedule 2 to the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*matière non florifère*)
+
+***officer*** means, except in section 167, in the definition contact information in subsection 211(1) and in sections 226 and 296,
 - **(a)** a person who is appointed or employed in the administration or enforcement of this Act;
 - **(b)** a member of the Royal Canadian Mounted Police or a member of a police force designated under subsection 10(1); and
 - **(c)** with respect to imported goods that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an officer as defined in subsection 2(1) of that Act. (*préposé*)
 
 ***packaged*** means
-- **(a)** in respect of raw leaf tobacco or a tobacco product, packaged in a prescribed package; or
+- **(a)** in respect of raw leaf tobacco, a tobacco product or a cannabis product, packaged in a prescribed package; or
 - **(b)** in respect of alcohol, packaged
 	- **(i)** in a container of a capacity of not more than 100 L that is ordinarily sold to consumers without the alcohol being repackaged, or
 	- **(ii)** in a marked special container. (*emballé*)
@@ -179,11 +233,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***prescribed*** means
 - **(a)** in the case of a form or the manner of filing a form, authorized by the Minister;
 - **(b)** in the case of the information to be given on or with a form, specified by the Minister; and
-- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation. (*Version anglaise seulement*)
+- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation. (***Version anglaise seulement***)
+
+***prescription cannabis drug*** means a cannabis product that is a drug that has been assigned a drug identification number under the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), other than
+- **(a)** a drug or mixture of drugs that may, under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), be sold to a consumer, as defined in subsection 123(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), without a prescription, as defined in section 1 of Part I of Schedule VI to the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); or
+- **(b)** a prescribed cannabis product or a cannabis product of a prescribed class. (*drogue de cannabis sur ordonnance*)
 
 ***produce*** means
-- **(a)** in respect of spirits, to bring into existence by distillation or other process or to recover; or
-- **(b)** in respect of wine, to bring into existence by fermentation. (*production*)
+- **(a)** in respect of spirits, to bring into existence by distillation or other process or to recover;
+- **(b)** in respect of wine, to bring into existence by fermentation; or
+- **(c)** in respect of a cannabis product, has the same meaning as in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) but also includes packaging the cannabis product. (*production*)
 
 ***raw leaf tobacco*** means unmanufactured tobacco or the leaves and stems of the tobacco plant. (*tabac en feuilles*)
 
@@ -221,6 +280,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***specified premises***, in respect of a licensed user, means the premises of the licensed user that are specified by the Minister under subsection 23(3). (*local déterminé*)
 
+***specified province*** means a prescribed province. (*province déterminée*)
+
 ***spirits*** means any material or substance containing more than 0.5% absolute ethyl alcohol by volume other than
 - **(a)** wine;
 - **(b)** beer;
@@ -233,17 +294,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***spirits licensee*** means a person who holds a spirits licence issued under section 14. (*titulaire de licence de spiritueux*)
 
-***stamped***, in respect of a tobacco product, means that an excise stamp, and all prescribed information in a prescribed format, are stamped, impressed, printed or marked on, indented into or affixed to the product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the product. (*estampillé*)
+***stamped*** means
+- **(a)** in respect of a tobacco product, that a tobacco excise stamp, and all prescribed information in a prescribed format in respect of the tobacco product, are stamped, impressed, printed or marked on, indented into or affixed to the tobacco product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the tobacco product; and
+- **(b)** in respect of a cannabis product, that a cannabis excise stamp, and all prescribed information in a prescribed format in respect of the cannabis product, are stamped, impressed, printed or marked on, indented into or affixed to the cannabis product or its container in the prescribed manner to indicate that duty has been paid on the cannabis product. (*estampillé*)
 
 ***sufferance warehouse*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*entrepôt d’attente*)
 
 ***sufferance warehouse licensee*** means a person licensed under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to operate a sufferance warehouse. (*exploitant agréé d’entrepôt d’attente*)
 
-***take for use***, in respect of alcohol, means to consume, analyze or destroy alcohol or to use alcohol for any purpose that results in a product other than alcohol. (*utilisation pour soi*)
+***take for use*** means
+- **(a)** in respect of alcohol, to consume, analyze or destroy alcohol or to use alcohol for any purpose that results in a product other than alcohol; and
+- **(b)** in respect of a cannabis product, to consume, analyze or destroy the cannabis product. (*utilisation pour soi*)
 
 ***Tax Court*** means the Tax Court of Canada. (*Cour de l’impôt*)
 
+***THC*** means Δ<sup>9</sup>-tetrahydrocannabinol ((6aR, 10aR)-6a, 7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo [b,d] pyran-1-ol). (*THC*)
+
 ***tobacco dealer*** means a person, other than a tobacco licensee, who purchases for resale, sells or offers to sell raw leaf tobacco on which duty is not imposed under this Act. (*commerçant de tabac*)
+
+***tobacco excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) and that has not been cancelled under section 25.5. (*timbre d’accise de tabac*)
 
 ***tobacco licensee*** means a person who holds a tobacco licence issued under section 14. (*titulaire de licence de tabac*)
 
@@ -255,6 +324,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***tobacco stick*** means any roll or tubular construction of tobacco intended for smoking, other than a cigar, that requires further preparation to be consumed. If a tobacco stick exceeds 90 mm in length or 800 mg, each portion of 60 mm or less or each portion of 650 mg or less, respectively, is considered to be a separate stick. (*bâtonnet de tabac*)
 
+***vegetative cannabis plant*** means a cannabis plant, including a seedling, that has not yet produced reproductive structures, including flowers, fruits or seeds. (*plante de cannabis à l’état végétatif*)
+
+***viable seed*** means a viable seed of a cannabis plant that is not an industrial hemp plant. (*graine viable*)
+
 ***wine*** means
 - **(a)** a beverage, containing more than 0.5% absolute ethyl alcohol by volume, that is produced without distillation, other than distillation to reduce the absolute ethyl alcohol content, by the alcoholic fermentation of
 	- **(i)** an agricultural product other than grain,
@@ -264,7 +337,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume. (*vin*)
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14. (*titulaire de licence de vin*)
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107; 2011, c. 15, s. 9.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107; 2011, c. 15, s. 9; 2018, c. 12, s. 69.
 
 
 
@@ -288,14 +361,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5** 
 
-- **(1)** For the purposes of section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), sections 230 and 231 and subsection 238.1(1), if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person’s possession, it is deemed to be in the custody and possession of each and all of them.
+- **(1)** For the purposes of section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), section 158.04, subsections 158.05(1) and 158.11(1) and (2), sections 230 and 231 and subsection 238.1(1), if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person’s possession, it is deemed to be in the custody and possession of each and all of them.
 
-**Meaning of possession**
+**Definition of possession**
 
-- **(2)** In this section and in section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61 and subsections 70(1), 88(1) and 238.1(1), ***possession*** means not only having in one’s own personal possession but also knowingly
+- **(2)** In this section and in section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), section 158.04 and subsections 158.05(1), 158.11(1) and (2) and 238.1(1), ***possession*** means not only having in one’s own personal possession but also knowingly
 	- **(a)** having in the actual possession or custody of another person; or
 	- **(b)** having in any place, whether belonging to or occupied by one’s self or not, for one’s own use or benefit or that of another person.
-> 2002, c. 22, s. 5; 2008, c. 28, s. 51; 2010, c. 12, s. 39.
+> 2002, c. 22, s. 5; 2008, c. 28, s. 51; 2010, c. 12, s. 39; 2018, c. 12, s. 70.
 
 
 
@@ -470,6 +543,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** a tobacco licence, authorizing the person to manufacture tobacco products; or
 	- **(e)** a tobacco dealer’s licence, authorizing the person to carry on the activity of a tobacco dealer.
 
+**Cannabis licence**
+
+- **(1.1)** Subject to the regulations, on application, the Minister may issue to a person a cannabis licence for the purposes of this Act.
+
+**Cannabis licence — effect**
+
+- **(1.2)** A cannabis licence issued to a person shall not have effect before a licence or permit issued to the person under subsection 62(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) comes into effect.
+
 **Deemed packaging excluded**
 
 - **(2)** A person is not entitled to a licence under paragraph (1)(a) or (b) by reason only of having been deemed to have packaged alcohol under section 77 or 82.
@@ -483,7 +564,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Issuance of a wine licence**
 
 - **(4)** Subject to the regulations, on application by a person who is the holder of a spirits licence and a user’s licence, the Minister may issue to the person a wine licence, authorizing the person to fortify wine.
-> 2002, c. 22, s. 14; 2007, c. 18, s. 68.
+> 2002, c. 22, s. 14; 2007, c. 18, s. 68; 2018, c. 12, s. 71.
 
 
 
@@ -625,16 +706,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Cancellation, etc. — access to premises**
 
 - **(2.1)** The Minister may amend, suspend or cancel any licence or registration of a person if
-	- **(a)** access to the premises of the licensee or registrant is denied or impeded by any person; or
+	- **(a)** access to the premises of the licensee or registrant is denied or impeded by any person;
+	- **(a.1)** in the case of a cannabis licence, a licence or permit issued to the person under subsection 62(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) is amended, suspended or revoked; or
 	- **(b)** it is otherwise in the public interest.
 
 **Conditions imposed by Minister**
 
 - **(3)** On issuing a licence or registration, or at any later time, the Minister
 	- **(a)** may, subject to the regulations, specify the activities that may be carried on under the licence or registration and the premises where those activities may be carried on;
-	- **(b)** shall, in the case of a spirits licence or a tobacco licence, require security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations; and
+	- **(b)** shall, in the case of a spirits licence, a tobacco licence or a cannabis licence, require security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations; and
 	- **(c)** may impose any other conditions that the Minister considers appropriate with respect to the carrying on of activities under the licence or registration.
-> 2002, c. 22, s. 23; 2008, c. 28, s. 52.
+> 2002, c. 22, s. 23; 2008, c. 28, s. 52; 2018, c. 12, s. 72.
 
 
 
@@ -694,70 +776,70 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** On application in the prescribed form and manner, the Minister may issue, to a tobacco licensee or a prescribed person who is importing tobacco products, stamps the purpose of which is to indicate that duty, other than special duty, has been paid on a tobacco product.
 
-**Quantity of excise stamps**
+**Quantity of tobacco excise stamps**
 
-- **(2)** The Minister may limit the quantity of excise stamps that may be issued to a person under subsection (1).
+- **(2)** The Minister may limit the quantity of tobacco excise stamps that may be issued to a person under subsection (1).
 
 **Security**
 
-- **(3)** No person shall be issued an excise stamp unless the person has provided security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations.
+- **(3)** No person shall be issued a tobacco excise stamp unless the person has provided security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations.
 
-**Supply of excise stamps**
+**Supply of tobacco excise stamps**
 
-- **(4)** The Minister may authorize a producer of excise stamps to supply, on the direction of the Minister, excise stamps to a person who is issued those stamps under subsection (1).
+- **(4)** The Minister may authorize a producer of tobacco excise stamps to supply, on the direction of the Minister, tobacco excise stamps to a person who is issued those stamps under subsection (1).
 
 **Design and construction**
 
-- **(5)** The design and construction of excise stamps shall be subject to the approval of the Minister.
-> 2010, c. 12, s. 40.
+- **(5)** The design and construction of tobacco excise stamps shall be subject to the approval of the Minister.
+> 2010, c. 12, s. 40; 2018, c. 12, s. 94.
 
 
 
 
 
-**Counterfeiting excise stamps**
+**Counterfeiting tobacco excise stamps**
 
-**25.2** No person shall produce, possess, sell or otherwise supply, or offer to supply, without lawful justification or excuse the proof of which lies on the person, anything that is intended to resemble or pass for an excise stamp.
-> 2010, c. 12, s. 40.
-
-
+**25.2** No person shall produce, possess, sell or otherwise supply, or offer to supply, without lawful justification or excuse the proof of which lies on the person, anything that is intended to resemble or pass for a tobacco excise stamp.
+> 2010, c. 12, s. 40; 2018, c. 12, s. 94.
 
 
 
-**Unlawful possession of excise stamps**
+
+
+**Unlawful possession of tobacco excise stamps**
 
 **25.3** 
 
-- **(1)** No person shall possess an excise stamp that has not been affixed to a tobacco product or its container in the manner prescribed for the purposes of the definition ***stamped*** in section 2 to indicate that duty, other than special duty, has been paid on the product.
+- **(1)** No person shall possess a tobacco excise stamp that has not been affixed to a tobacco product or its container in the manner prescribed for the purposes of the definition stamped in section 2 to indicate that duty, other than special duty, has been paid on the product.
 
 **Exceptions — possession**
 
-- **(2)** Subsection (1) does not apply to the possession of an excise stamp by
-	- **(a)** the person who lawfully produced the excise stamp;
-	- **(b)** the person who is issued the excise stamp;
-	- **(c)** a sufferance warehouse licensee who possesses the excise stamp in their sufferance warehouse on behalf of a person described under paragraph (b); or
+- **(2)** Subsection (1) does not apply to the possession of a tobacco excise stamp by
+	- **(a)** the person who lawfully produced the tobacco excise stamp;
+	- **(b)** the person who is issued the tobacco excise stamp;
+	- **(c)** a sufferance warehouse licensee who possesses the tobacco excise stamp in their sufferance warehouse on behalf of a person described under paragraph (b); or
 	- **(d)** a prescribed person.
-> 2010, c. 12, s. 40.
+> 2010, c. 12, s. 40; 2018, c. 12, s. 94.
 
 
 
 
 
-**Unlawful supply of excise stamps**
+**Unlawful supply of tobacco excise stamps**
 
-**25.4** No person shall dispose of, sell or otherwise supply, or offer to supply, an excise stamp otherwise than in accordance with this Act.
-> 2010, c. 12, s. 40.
-
-
+**25.4** No person shall dispose of, sell or otherwise supply, or offer to supply, a tobacco excise stamp otherwise than in accordance with this Act.
+> 2010, c. 12, s. 40; 2018, c. 12, s. 94.
 
 
 
-**Cancellation, return and destruction of excise stamps**
+
+
+**Cancellation, return and destruction of tobacco excise stamps**
 
 **25.5** The Minister may
-- **(a)** cancel an excise stamp that has been issued; and
+- **(a)** cancel a tobacco excise stamp that has been issued; and
 - **(b)** direct that it be returned or destroyed in a manner specified by the Minister.
-> 2010, c. 12, s. 40.
+> 2010, c. 12, s. 40; 2018, c. 12, s. 94.
 
 
 
@@ -1111,32 +1193,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **43.1** 
 
-- **(1)** In this section, ***inflationary adjusted year*** means 2019 and every fifth year after that year.
+- **(1)** In this section, ***inflationary adjusted year*** means 2019 and every year after that year.
 
-**Adjustments**
+**Annual adjustments**
 
-- **(2)** Each rate of duty set out in sections 1 to 4 of Schedule 1 and paragraph (a) of Schedule 2 in respect of a tobacco product is to be adjusted on December 1 of a particular inflationary adjusted year so that the rate is equal to the greater of
+- **(2)** Each rate of duty set out in sections 1 to 4 of Schedule 1 and paragraph (a) of Schedule 2 in respect of a tobacco product is to be adjusted on April 1 of an inflationary adjusted year so that the rate is equal to the greater of
 	- **(a)** the rate determined by the formula
 ```
 A × B
 ```
 where
-- **A** is the rate of duty applicable to the tobacco product on November 30 of the particular inflationary adjusted year, and
-- **B** is the amount determined by the formula in subparagraph (i) or (ii), rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth,
-	- **(i)** if the particular inflationary adjusted year is 2019,
+- **A** is the rate of duty applicable to the tobacco product on March 31 of the inflationary adjusted year, and
+- **B** is the amount, rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth, determined by the formula
 ```
 C/D
 ```
 where
-- **C** is the Consumer Price Index for the 12-month period ending on September 30, 2019, and
-- **D** is the Consumer Price Index for the 12-month period that ended on September 30, 2013,
-	- **(ii)** for any other particular inflationary adjusted year,
-```
-E/F
-```
-where
-- **E** is the Consumer Price Index for the 12-month period ending on September 30 of the particular inflationary adjusted year, and
-- **F** is the Consumer Price Index for the 12-month period ending on September 30 of the inflationary adjusted year that precedes the particular inflationary adjusted year; and
+- **C** is the Consumer Price Index for the 12-month period ending on September 30 of the particular year preceding the inflationary adjusted year, and
+- **D** is the Consumer Price Index for the 12-month period ending on September 30 of the year preceding the particular year; and
 	- **(b)** the rate of duty referred to in the description of A in paragraph (a).
 
 **Rounding**
@@ -1149,7 +1223,7 @@ where
 	- **(a)** aggregating the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that period;
 	- **(b)** dividing the aggregate obtained under paragraph (a) by 12; and
 	- **(c)** rounding the result obtained under paragraph (b) to the nearest one-thousandth or, if the result obtained is equidistant from two consecutive one-thousandths, to the higher one-thousandth.
-> 2014, c. 20, s. 64.
+> 2014, c. 20, s. 64; 2018, c. 12, s. 47.
 
 
 
@@ -1426,8 +1500,9 @@ where
 **58.1** The following definitions apply in this Part.
 
 ***adjustment day*** means
-- **(a)** March 23, 2017; or
-- **(b)** in the case of an inflationary adjusted year, December 1 of that year. (*date d’ajustement*)
+- **(a)** March 23, 2017;
+- **(a.1)** February 28, 2018; or
+- **(b)** in the case of an inflationary adjusted year, April 1 of that year. (*date d’ajustement*)
 
 ***inflationary adjusted year*** has the same meaning as in subsection 43.1(1). (*année inflationniste*)
 
@@ -1438,7 +1513,7 @@ where
 - **(b)** at which, in the ordinary course of the person’s business, the person regularly sells, otherwise than through vending machines, tobacco products to consumers, within the meaning of section 123 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), attending at the shop or store; and
 - **(c)** in respect of which separate records are maintained. (*établissement de détail distinct*)
 
-***taxed cigarettes*** of a person means cigarettes in respect of which duty has been imposed under section 42 before March 23, 2017 at the rate set out in paragraph 1(a) of Schedule 1, as it read on March 22, 2017, and that, at the beginning of March 23, 2017,
+***taxed cigarettes*** of a person means cigarettes in respect of which duty has been imposed under section 42 or 53 at the rate applicable on the day before an adjustment day, and that, at the beginning of the adjustment day,
 - **(a)** were owned by that person for sale in the ordinary course of a business of the person;
 - **(b)** were not held in a vending machine; and
 - **(c)** were not relieved from that duty under this Act. (*cigarettes imposées*)
@@ -1446,7 +1521,7 @@ where
 ***taxed tobacco***[Repealed, 2014, c. 20, s. 69]
 
 ***unit***[Repealed, 2014, c. 20, s. 69]
-> 2006, c. 4, s. 34; 2007, c. 35, s. 197; 2014, c. 20, s. 69; 2017, c. 20, s. 45.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 197; 2014, c. 20, s. 69; 2017, c. 20, s. 45; 2018, c. 12, s. 48.
 
 
 
@@ -1458,28 +1533,32 @@ where
 
 - **(1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of March 23, 2017 at the rate of $0.00265 per cigarette.
 
-**Imposition of tax  — inflationary adjusted years**
+**Imposition of tax — 2018 increase**
 
-- **(2)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of December 1 of an inflationary adjusted year at a rate per cigarette equal to
+- **(1.1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of February 28, 2018 at the rate of $0.011468 per cigarette.
+
+**Imposition of tax — inflationary adjusted years**
+
+- **(2)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of April 1 of an inflationary adjusted year at a rate per cigarette equal to
 	- **(a)** in the case of cigarettes in respect of which duty has been imposed under section 42, the amount determined by the formula
 ```
 (A – B)/5
 ```
 where
-- **A** is the rate of duty applicable under paragraph 1(b) of Schedule 1 for each five cigarettes on December 1 of the inflationary adjusted year, and
-- **B** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on November 30 of the inflationary adjusted year; and
+- **A** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on April 1 of the inflationary adjusted year, and
+- **B** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on March 31 of the inflationary adjusted year; and
 	- **(b)** in the case of cigarettes in respect of which duty has been imposed under section 53, the amount determined by the formula
 ```
 C – D
 ```
 where
-- **C** is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on December 1 of the inflationary adjusted year, and
-- **D** is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on November 30 of the inflationary adjusted year.
+- **C** is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on April 1 of the inflationary adjusted year, and
+- **D** is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on March 31 of the inflationary adjusted year.
 
 **Rounding**
 
 - **(3)** The amount determined under paragraph (2)(a) or (b) is to be rounded to the nearest one-hundred-thousandth or, if the amount is equidistant from two consecutive one-hundred-thousandths, to the higher one-hundred-thousandth.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 198; 2014, c. 20, s. 70; 2017, c. 20, s. 46.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 198; 2014, c. 20, s. 70; 2017, c. 20, s. 46; 2018, c. 12, s. 49.
 
 
 
@@ -1508,13 +1587,14 @@ where
 **58.5** 
 
 - **(1)** Every person liable to pay tax under this Part shall file a return with the Minister in the prescribed form and manner on or before,
-	- **(a)** in the case of the tax imposed under subsection 58.2(1), May 31, 2017; or
-	- **(b)** in any other case, the last day of the month following December of an inflationary adjusted year.
+	- **(a)** in the case of the tax imposed under subsection 58.2(1), May 31, 2017;
+	- **(a.1)** in the case of the tax imposed under subsection 58.2(1.1), April 30, 2018; or
+	- **(b)** in the case of the tax imposed under subsection 58.2(2) in respect of an inflationary adjusted year, May 31 of the inflationary adjusted year.
 
 **Separate returns**
 
 - **(2)** A person authorized under subsection 239(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) to file separate returns in respect of a separate branch or division may file separate returns under this Part in respect of that branch or division.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 200; 2014, c. 20, s. 71; 2017, c. 20, s. 47.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 200; 2014, c. 20, s. 71; 2017, c. 20, s. 47; 2018, c. 12, s. 50.
 
 
 
@@ -1525,8 +1605,9 @@ where
 **58.6** 
 
 - **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before
-	- **(a)** in the case of the tax imposed under subsection 58.2(1), May 31, 2017; or
-	- **(b)** in any other case, the last day of the month following December of an inflationary adjusted year.
+	- **(a)** in the case of the tax imposed under subsection 58.2(1), May 31, 2017;
+	- **(a.1)** in the case of the tax imposed under subsection 58.2(1.1), April 30, 2018; or
+	- **(b)** in the case of the tax imposed under subsection 58.2(2) in respect of an inflationary adjusted year, May 31 of the inflationary adjusted year.
 
 **Minimum interest**
 
@@ -1537,7 +1618,7 @@ where
 - **(3)** The Minister may at any time extend in writing the time for filing a return, or paying the tax payable, under this Part and, where the Minister so extends the time,
 	- **(a)** the return shall be filed or tax payable shall be paid within the time as so extended; and
 	- **(b)** interest is payable under section 170 as if the time had not been extended.
-> 2006, c. 4, s. 34; 2007, c. 35, s. 201; 2014, c. 20, s. 72; 2017, c. 20, s. 48.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 201; 2014, c. 20, s. 72; 2017, c. 20, s. 48; 2018, c. 12, s. 51.
 
 
 
@@ -3054,6 +3135,451 @@ where
 
 
 
+**PART 4.1** 
+## Cannabis
+
+
+
+### Exclusions
+
+
+
+**Non-application**
+
+**158.01** This Part does not apply to
+- **(a)** cannabis products that are produced in Canada by an individual for the personal use of the individual and in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), but only to the extent that those cannabis products are used in activities that are not prohibited for those cannabis products under that Act;
+- **(b)** cannabis products that are produced in Canada by an individual for the medical purposes of the individual and in accordance with the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as applicable, but only to the extent that those cannabis products are used by the individual in activities that are not prohibited for those cannabis products under whichever of those Acts is applicable; or
+- **(c)** cannabis products that are produced in Canada by a designated person — being an individual who is authorized under the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) to produce cannabis for the medical purposes of another individual — for the medical purposes of the other individual and in accordance with whichever of those Acts is applicable, but only to the extent that those cannabis products are used by the designated person or the other individual in activities that are not prohibited for those cannabis products under whichever of those Acts is applicable.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+### Cannabis Production and Stamping
+
+
+**158.02** [Not in force]
+
+
+
+
+**Issuance of cannabis excise stamps**
+
+**158.03** 
+
+- **(1)** On application in the prescribed form and manner, the Minister may issue, to a cannabis licensee, stamps the purpose of which is to indicate that cannabis duty and, if applicable, additional cannabis duty have been paid on a cannabis product.
+
+**Quantity of cannabis excise stamps**
+
+- **(2)** The Minister may limit the quantity of cannabis excise stamps that may be issued to a person under subsection (1).
+
+**Security**
+
+- **(3)** No person shall be issued a cannabis excise stamp unless the person has provided any security required by regulation in a form satisfactory to the Minister.
+
+**Supply of cannabis excise stamps**
+
+- **(4)** The Minister may authorize a producer of cannabis excise stamps to supply, on the direction of the Minister, cannabis excise stamps to a person to which those stamps are issued under subsection (1).
+
+**Design and construction**
+
+- **(5)** The design and construction of cannabis excise stamps shall be subject to the approval of the Minister.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Counterfeit cannabis excise stamps**
+
+**158.04** No person shall produce, possess, sell or otherwise supply, or offer to supply, without lawful justification or excuse the proof of which lies on the person, anything that is intended to resemble or pass for a cannabis excise stamp.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Unlawful possession of cannabis excise stamps**
+
+**158.05** 
+
+- **(1)** No person shall possess a cannabis excise stamp that has not been affixed to a packaged cannabis product in the manner prescribed for the purposes of the definition stamped in section 2 to indicate that duty has been paid on the cannabis product.
+
+**Exceptions — possession**
+
+- **(2)** Subsection (1) does not apply to the possession of a cannabis excise stamp by
+	- **(a)** the person that lawfully produced the cannabis excise stamp;
+	- **(b)** the person to which the cannabis excise stamp is issued; or
+	- **(c)** a prescribed person.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Unlawful supply of cannabis excise stamps**
+
+**158.06** No person shall dispose of, sell or otherwise supply, or offer to supply, a cannabis excise stamp otherwise than in accordance with this Act.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Cancellation of cannabis excise stamps**
+
+**158.07** The Minister may
+- **(a)** cancel a cannabis excise stamp that has been issued; and
+- **(b)** direct that it be returned or destroyed in a manner specified by the Minister.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Unlawful packaging or stamping**
+
+**158.08** No person shall package or stamp a cannabis product unless the person is a cannabis licensee or a prescribed person.
+> 2018, c. 12, s. 73.
+
+
+
+
+**158.09 to 158.12** [Not in force]
+
+
+
+
+**Packaging and stamping of cannabis**
+
+**158.13** A cannabis licensee that produces a cannabis product shall not enter the cannabis product into the duty-paid market unless
+- **(a)** the cannabis product has been packaged by the licensee;
+- **(b)** the package has printed on it prescribed information;
+- **(c)** the cannabis product is stamped by the licensee to indicate that cannabis duty has been paid; and
+- **(d)** if the cannabis product is to be entered in the duty-paid market of a specified province, the cannabis product is stamped by the licensee to indicate that additional cannabis duty in respect of the specified province has been paid.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Notice — absence of stamping**
+
+**158.14** 
+
+- **(1)** The absence on a cannabis product of stamping that indicates that cannabis duty has been paid is notice to all persons that cannabis duty has not been paid on the cannabis product.
+
+**Notice — absence of stamping**
+
+- **(2)** The absence on a cannabis product of stamping that indicates that additional cannabis duty in respect of a specified province has been paid is notice to all persons that additional cannabis duty in respect of the specified province has not been paid on the cannabis product.
+> 2018, c. 12, s. 73.
+
+
+
+
+**158.15 and 158.16** [Not in force]
+
+
+
+
+### Responsibility for Cannabis
+
+
+
+**Responsibility**
+
+**158.17** Subject to section 158.18, a person is responsible for a cannabis product at any time if
+- **(a)** the person is
+	- **(i)** the cannabis licensee that owns the cannabis product at that time, or
+	- **(ii)** if the cannabis product is not owned at that time by a cannabis licensee, the cannabis licensee that last owned it; or
+- **(b)** the person is a prescribed person or a person that meets prescribed conditions.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Person not responsible**
+
+**158.18** A person that is responsible for a cannabis product ceases to be responsible for it
+- **(a)** if it is packaged and stamped and the duty on it is paid;
+- **(b)** if it is consumed or used in the production of a cannabis product that is
+	- **(i)** a low-THC cannabis product,
+	- **(ii)** a prescription cannabis drug, or
+	- **(iii)** a prescribed cannabis product or a cannabis product of a prescribed class;
+- **(c)** if it is taken for use and the duty on it is paid;
+- **(d)** if it is taken for use in accordance with any of subparagraphs 158.3(a)(i) to (v);
+- **(e)** if it is exported in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md);
+- **(f)** if it is lost in prescribed circumstances and the person fulfils any prescribed conditions; or
+- **(g)** in prescribed circumstances or if prescribed conditions are met.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+### Imposition and Payment of Duty on Cannabis
+
+
+
+**Imposition — flat-rate duty**
+
+**158.19** 
+
+- **(1)** Duty is imposed on cannabis products produced in Canada at the time they are packaged in the amount determined under section 1 of Schedule 7.
+
+**Imposition — ad valorem duty**
+
+- **(2)** Duty is imposed on packaged cannabis products produced in Canada at the time of their delivery to a purchaser in the amount determined under section 2 of Schedule 7.
+
+**Duty payable**
+
+- **(3)** The greater of the duty imposed under subsection (1) and the duty imposed under subsection (2) is payable by the cannabis licensee that packaged the cannabis products at the time of their delivery to a purchaser and the cannabis products are relieved of the lesser of those duties.
+
+**Equal duties**
+
+- **(4)** If the amount of duty imposed under subsection (1) is equal to the amount of duty imposed under subsection (2), the duty imposed under subsection (1) is payable by the cannabis licensee that packaged the cannabis products at the time of their delivery to a purchaser and the cannabis products are relieved of the duty imposed under subsection (2).
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Imposition — additional cannabis duty**
+
+**158.2** 
+
+- **(1)** In addition to the duty imposed under section 158.19, a duty in respect of a specified province is imposed on cannabis products produced in Canada in prescribed circumstances in the amount determined in a prescribed manner.
+
+**Duty payable**
+
+- **(2)** The duty imposed under subsection (1) is payable by the cannabis licensee that packaged the cannabis products at the time of their delivery to a purchaser.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Duty on imported cannabis**
+
+**158.21** 
+
+- **(1)** Duty is imposed on imported cannabis products in the amount that is equal to the greater of
+	- **(a)** the amount determined in respect of the cannabis products under section 1 of Schedule 7, and
+	- **(b)** the amount determined in respect of the cannabis products under section 3 of Schedule 7.
+
+**Duty payable**
+
+- **(2)** The duty imposed under subsection (1) is payable by the importer, owner or other person that is liable under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to pay duty levied under section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or that would be liable to pay that duty on the cannabis products if they were subject to that duty.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Additional cannabis duty on imported cannabis**
+
+**158.22** 
+
+- **(1)** In addition to the duty imposed under section 158.21, a duty in respect of a specified province is imposed on imported cannabis products in prescribed circumstances in the amount determined in a prescribed manner.
+
+**Duty payable**
+
+- **(2)** The duty imposed under subsection (1) is payable by the importer, owner or other person that is liable under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to pay duty levied under section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or that would be liable to pay that duty on the cannabis products if they were subject to that duty.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Application of [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md)**
+
+**158.23** The duties imposed under sections 158.21 and 158.22 on imported cannabis products shall be paid and collected under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and interest and penalties shall be imposed, calculated, paid and collected under that Act, as if the duties were a duty levied under section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), and, for those purposes, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) applies with any modifications that the circumstances require.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Value for duty**
+
+**158.24** For the purposes of section 3 of Schedule 7 and of any regulations made for the purposes of section 158.22 in respect of imported cannabis products,
+- **(a)** the value of a cannabis product is equal to the value of the cannabis product, as it would be determined under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) for the purpose of calculating duties imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) on the cannabis product at a percentage rate, whether the cannabis product is in fact subject to duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); or
+- **(b)** despite paragraph (a), the value of a cannabis product imported in prescribed circumstances shall be determined in prescribed manner.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Duty on cannabis taken for use**
+
+**158.25** 
+
+- **(1)** If a particular person is responsible for cannabis products at a particular time when the cannabis products are taken for use, the following rules apply:
+	- **(a)** if the cannabis products are packaged, they are relieved of the duty imposed under subsection 158.19(1); and
+	- **(b)** duty is imposed on the cannabis products in the amount that is equal to the greater of
+		- **(i)** the amount determined in respect of the cannabis products under section 1 of Schedule 7, and
+		- **(ii)** the amount determined in respect of the cannabis products under section 4 of Schedule 7.
+
+**Specified province — duty on cannabis taken for use**
+
+- **(2)** If a particular person is responsible for cannabis products at a particular time when the cannabis products are taken for use, a duty in respect of a specified province is imposed on the cannabis products in prescribed circumstances in the amount determined in prescribed manner. This duty is in addition to the duty imposed under subsection (1).
+
+**Duty payable**
+
+- **(3)** The duty imposed under subsection (1) or (2) is payable at the particular time, and by the particular person, referred to in that subsection.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Duty on unaccounted cannabis**
+
+**158.26** 
+
+- **(1)** If a particular person that is responsible at a particular time for cannabis products cannot account for the cannabis products as being, at the particular time, in the possession of a cannabis licensee or in the possession of another person in accordance with subsection 158.11(3) or paragraph 158.11(5)(a), the following rules apply:
+	- **(a)** if the cannabis products are packaged, they are relieved of the duty imposed under subsection 158.19(1); and
+	- **(b)** duty is imposed on the cannabis products in the amount that is equal to the greater of
+		- **(i)** the amount determined in respect of the cannabis products under section 1 of Schedule 7, and
+		- **(ii)** the amount determined in respect of the cannabis products under section 4 of Schedule 7.
+
+**Specified province — duty on unaccounted cannabis**
+
+- **(2)** If a particular person that is responsible at a particular time for cannabis products cannot account for the cannabis products as being, at the particular time, in the possession of a cannabis licensee or in the possession of another person in accordance with subsection 158.11(3) or paragraph 158.11(5)(a), a duty in respect of a specified province is imposed on the cannabis products in prescribed circumstances in the amount determined in prescribed manner. This duty is in addition to the duty imposed under subsection (1).
+
+**Duty payable**
+
+- **(3)** The duty imposed under subsection (1) or (2) is payable at the particular time, and by the particular person, referred to in that subsection.
+
+**Exception**
+
+- **(4)** Subsection (1) does not apply in circumstances in which the particular person referred to in that subsection is convicted of an offence under section 218.1.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Definition of commencement day**
+
+**158.27** 
+
+- **(1)** For the purposes of this section, ***commencement day*** has the same meaning as in section 152 of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md).
+
+**Duty on cannabis — production before commencement day**
+
+- **(2)** Duty is imposed on cannabis products that are produced in Canada and delivered to a purchaser before commencement day for sale or distribution on or after that day in the amount that is equal to the greater of
+	- **(a)** the amount determined in respect of the cannabis product under section 1 of Schedule 7, and
+	- **(b)** the amount determined in respect of the cannabis product under section 2 of Schedule 7.
+
+**Additional cannabis duty — production before commencement day**
+
+- **(3)** In addition to the duty imposed under subsection (2), a duty in respect of a specified province is imposed on cannabis products that are produced in Canada and delivered to a purchaser before commencement day for sale or distribution on or after that day in prescribed circumstances in the amount determined in a prescribed manner.
+
+**Duty payable**
+
+- **(4)** The duty imposed under subsection (2) or (3) is payable on commencement day by the cannabis licensee that packaged the cannabis product.
+
+**Exception**
+
+- **(5)** Subsection (2) does not apply to a prescribed cannabis product, or a cannabis product of a prescribed class, that is delivered to a prescribed person in prescribed circumstances or for a prescribed purpose.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Duty relieved — cannabis imported by licensee**
+
+**158.28** The duties imposed under sections 158.21 and 158.22 are relieved on
+- **(a)** a cannabis product that is not packaged and that is imported by a cannabis licensee; or
+- **(b)** a prescribed cannabis product, or a cannabis product of a prescribed class, that is imported by a prescribed person in prescribed circumstances or for a prescribed purpose.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Duty relieved — prescribed circumstances**
+
+**158.29** The duties imposed under any of sections 158.19 to 158.22 and 158.27 are relieved on a prescribed cannabis product, or a cannabis product of a prescribed class, in prescribed circumstances or if prescribed conditions are met.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Duty not payable**
+
+**158.3** Duty is not payable on
+- **(a)** a cannabis product that
+	- **(i)** is taken for analysis or destroyed by the Minister,
+	- **(ii)** is taken for analysis or destroyed by the Minister, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md),
+	- **(iii)** is taken for analysis by a cannabis licensee in a manner approved by the Minister,
+	- **(iv)** is destroyed by a cannabis licensee in a manner approved by the Minister,
+	- **(v)** is delivered by a cannabis licensee to another person for analysis or destruction by that person in a manner approved by the Minister,
+	- **(vi)** is a low-THC cannabis product,
+	- **(vii)** is a prescription cannabis drug, or
+	- **(viii)** is a prescribed cannabis product or a cannabis product of a prescribed class;
+- **(b)** a non-duty-paid cannabis product that is removed from the premises of a cannabis licensee for export in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); or
+- **(c)** a prescribed cannabis product, or a cannabis product of a prescribed class, that is delivered by a cannabis licensee to a prescribed person in prescribed circumstances or for a prescribed purpose.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Quantity of cannabis**
+
+**158.31** For the purposes of determining an amount of duty in respect of a cannabis product under section 1 of Schedule 7, the following rules apply:
+- **(a)** the quantity of flowering material and non-flowering material included in the cannabis product or used in the production of the cannabis product is to be determined in a prescribed manner in prescribed circumstances; and
+- **(b)** if paragraph (a) does not apply in respect of the cannabis product,
+	- **(i)** the quantity of flowering material and non-flowering material included in the cannabis product or used in the production of the cannabis product is to be determined at the time the flowering material and non-flowering material are so included or used and in a manner satisfactory to the Minister, and
+	- **(ii)** if the quantity of flowering material included in the cannabis product or used in the production of the cannabis product is determined in accordance with subparagraph (i), the particular quantity of that flowering material that is industrial hemp by-product is deemed to be non-flowering material if that particular quantity is determined in a manner satisfactory to the Minister.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Delivery to purchaser**
+
+**158.32** For the purposes of sections 158.19, 158.2 and 158.27 and for greater certainty, delivery to a purchaser includes
+- **(a)** delivering cannabis products, or making them available, to a person other than the purchaser on behalf of or under the direction of the purchaser;
+- **(b)** delivering cannabis products, or making them available, to a person that obtains them otherwise than by means of a purchase; and
+- **(c)** delivering cannabis products or making them available in prescribed circumstances.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Time of delivery**
+
+**158.33** For the purposes of sections 158.19, 158.2 and 158.27, a cannabis product is deemed to be delivered to a purchaser by a cannabis licensee at the earliest of
+- **(a)** the time at which the cannabis licensee delivers the cannabis product or makes it available to the purchaser,
+- **(b)** the time at which the cannabis licensee causes physical possession of the cannabis product to be transferred to the purchaser, and
+- **(c)** the time at which the cannabis licensee causes physical possession of the cannabis product to be transferred to a carrier — being a person that provides a service of transporting goods including, for greater certainty, a service of delivering mail — for delivery to the purchaser.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Dutiable amount**
+
+**158.34** For the purpose of section 2 of Schedule 7, the dutiable amount of a cannabis product is deemed to be equal to the fair market value of the cannabis product
+- **(a)** if the cannabis product is delivered or made available to a person that obtains it otherwise than by means of a purchase; or
+- **(b)** in prescribed circumstances.
+> 2018, c. 12, s. 73.
+
+
+
+
+
 **PART 5** 
 ## General Provisions Concerning Duty and Other Amounts Payable
 
@@ -3067,10 +3593,14 @@ where
 
 **159** 
 
-- **(1)** The fiscal months of a person shall be determined in accordance with the following rules:
+- **(1)** The fiscal months of a person other than a cannabis licensee shall be determined in accordance with the following rules:
 	- **(a)** if fiscal months of the person have been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, each of those fiscal months is a fiscal month of the person for the purposes of this Act;
 	- **(b)** if fiscal months of the person have not been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, the person may select for the purposes of this Act fiscal months that meet the requirements set out in that subsection 243(2); and
 	- **(c)** if neither paragraph (a) nor paragraph (b) applies, each calendar month is a fiscal month of the person for the purposes of this Act.
+
+**Fiscal months — cannabis licensee**
+
+- **(1.01)** For the purposes of this Act, the fiscal months of a cannabis licensee are calendar months.
 
 **Determination of fiscal half-years**
 
@@ -3081,7 +3611,7 @@ where
 **Notification of Minister**
 
 - **(2)** Every person who is required to file a return shall notify the Minister of their fiscal months in the prescribed form and manner.
-> 2002, c. 22, s. 159; 2010, c. 25, s. 110.
+> 2002, c. 22, s. 159; 2010, c. 25, s. 110; 2018, c. 12, s. 74.
 
 
 
@@ -3427,9 +3957,11 @@ where
 
 
 
-**No refund on exported tobacco products or alcohol**
+**No refund — exportation**
 
-**180** Subject to this Act, the duty paid on any tobacco product or alcohol entered into the duty-paid market shall not be refunded on the exportation of the tobacco product or alcohol.
+**180** Subject to this Act, the duty paid on any tobacco product, cannabis product or alcohol entered into the duty-paid market shall not be refunded on the exportation of the tobacco product, cannabis product or alcohol.
+> 2002, c. 22, s. 180; 2018, c. 12, s. 75.
+
 
 
 
@@ -3438,13 +3970,13 @@ where
 
 
 
-**Refund of duty — destroyed tobacco products**
+**Refund of duty  — destroyed tobacco products**
 
 **181** 
 
 - **(1)** The Minister may refund to a tobacco licensee the duty paid on a tobacco product that is re-worked or destroyed by the tobacco licensee in accordance with section 41 if the licensee applies for the refund within two years after the tobacco product is re-worked or destroyed.
 
-**Refund of inventory tax — destroyed domestic cigarettes**
+**Refund of inventory tax  — destroyed domestic cigarettes**
 
 - **(2)** The Minister may refund to a tobacco licensee the tax imposed and payable under Part 3.1 on taxed cigarettes, as defined in section 58.1, if
 	- **(a)** the licensee provides evidence satisfactory to the Minister that the cigarettes were manufactured in Canada, that they were re-worked or destroyed by the licensee in accordance with section 41 and that either
@@ -3454,7 +3986,7 @@ where
 
 **Refund of inventory tax — destroyed imported cigarettes**
 
-- **(3)** The Minister may refund to a particular person the tax imposed and payable under Part 3.1 on taxed cigarettes, as defined in section 58.1, if
+- **(3)** The Minister may refund to a particular person the tax imposed and payable under Part 3.1 on taxed cigarettes, as defined in section 58.1, other than cigarettes in respect of which duty has been imposed under section 53, if
 	- **(a)** the particular person provides evidence satisfactory to the Minister that the cigarettes were imported by the particular person, that they were destroyed by the particular person in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and that either
 		- **(i)** the cigarettes were taxed cigarettes of the particular person and the tax was paid by the particular person, or
 		- **(ii)** the cigarettes were taxed cigarettes of another person that is not the particular person, the tax was paid by the other person and an amount equal to the tax was paid by the particular person to the other person on account of that tax; and
@@ -3465,10 +3997,20 @@ where
 
 
 
-**Destroyed imported manufactured tobacco**
+**Refund of duty — destroyed imported tobacco**
 
-**181.1** The Minister may refund to a duty free shop licensee the special duty under section 53 that was paid on imported manufactured tobacco that is destroyed by the licensee in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) if the licensee applies for the refund within two years after the tobacco is destroyed.
-> 2007, c. 18, s. 110.
+**181.1** 
+
+- **(1)** The Minister may refund to a duty free shop licensee the duty under section 53 that was paid on imported manufactured tobacco that is destroyed by the licensee in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) if the licensee applies for the refund within two years after the tobacco is destroyed.
+
+**Refund of inventory tax — destroyed imported cigarettes**
+
+- **(2)** The Minister may refund to a duty free shop licensee the tax imposed and payable under Part 3.1 on taxed cigarettes, as defined in section 58.1, of the licensee in respect of which duty has been imposed under section 53, if
+	- **(a)** the licensee provides evidence satisfactory to the Minister that
+		- **(i)** the cigarettes were taxed cigarettes of the licensee and the tax was paid by the licensee, and
+		- **(ii)** the cigarettes were destroyed by the licensee in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); and
+	- **(b)** the licensee applies for the refund within two years after the cigarettes are destroyed.
+> 2007, c. 18, s. 110; 2014, c. 39, s. 101.
 
 
 
@@ -3559,6 +4101,15 @@ where
 **187** If a marked special container of alcohol is returned to the excise warehouse licensee who paid duty on the alcohol, the Minister may refund to the licensee the duty on the alcohol remaining in the container when it is returned if the licensee
 - **(a)** destroys the alcohol in the manner approved by the Minister; and
 - **(b)** applies for the refund within two years after the container is returned.
+
+
+
+
+**Refund of duty — destroyed cannabis**
+
+**187.1** The Minister may refund to a cannabis licensee the duty paid on a cannabis product that is re-worked or destroyed by the cannabis licensee in accordance with section 158.16 if the cannabis licensee applies for the refund within two years after the cannabis product is re-worked or destroyed.
+> 2018, c. 12, s. 76.
+
 
 
 
@@ -4145,11 +4696,15 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** every licensee or registrant;
 	- **(b)** every person who is required under this Act to file a return;
 	- **(c)** every person who makes an application for a refund that may be obtained under this Act; and
-	- **(d)** every person who transports non-duty-paid packaged alcohol or a tobacco product that is not stamped.
+	- **(d)** every person that transports a tobacco product or cannabis product that is not stamped or non-duty-paid packaged alcohol.
 
 **Keeping records — tobacco growers and provincial tobacco marketing boards**
 
 - **(2)** Every tobacco grower and every body established under provincial law for the marketing of raw leaf tobacco grown in the province shall keep records that will enable the determination of the amount of raw leaf tobacco grown, received or disposed of by them.
+
+**Keeping records — cannabis licensee**
+
+- **(2.01)** Every cannabis licensee shall keep records that will enable the determination of the amount of cannabis product produced, received, used, packaged, re-worked, sold or disposed of by the licensee.
 
 **Keeping records — tobacco manufacturing equipment**
 
@@ -4178,7 +4733,7 @@ and ending on the day on which the refund is paid to the person.
 **Period for retention**
 
 - **(7)** Every person who is required to keep records shall retain them until the expiry of six years after the end of the year to which they relate or for any other period that may be prescribed.
-> 2002, c. 22, s. 206; 2008, c. 28, s. 59; 2010, c. 12, s. 41.
+> 2002, c. 22, s. 206; 2008, c. 28, s. 59; 2010, c. 12, s. 41; 2018, c. 12, s. 77.
 
 
 
@@ -4403,16 +4958,17 @@ It excludes information that does not directly or indirectly reveal the identity
 		- **(ii)** to an official solely for the purpose of the initial implementation of a fiscal policy or for the purposes of the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the Unemployment Insurance Act or an Act of Parliament that provides for the imposition or collection of a tax or duty,
 		- **(iii)** to an official solely for the purposes of the administration or enforcement of a law of a province that provides for the imposition or collection of a tax or duty,
 		- **(iv)** to an official of the government of a province solely for the purpose of the formulation or evaluation of fiscal policy,
-		- **(iv.1)** to an official solely for the purpose of the administration or enforcement of the [Canada Education Savings Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2026.md) or a ***designated provincial program***, as defined in subsection 146.1(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
-		- **(iv.2)** to an official solely for the purpose of the administration or enforcement of the [Canada Disability Savings Act](/en/Acts/Statutes%20of%20Canada/2007/c.%2035,%20s.%20136.md) or a ***designated provincial program***, as defined in subsection 146.4(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(iv.1)** to an official solely for the purpose of the administration or enforcement of the [Canada Education Savings Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2026.md) or a designated provincial program, as defined in subsection 146.1(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(iv.2)** to an official solely for the purpose of the administration or enforcement of the [Canada Disability Savings Act](/en/Acts/Statutes%20of%20Canada/2007/c.%2035,%20s.%20136.md) or a designated provincial program, as defined in subsection 146.4(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
 		- **(v)** to an official of a department or agency of the Government of Canada or of a province as to the name, address, telephone number, occupation, size or type of business of a person, solely for the purpose of enabling the department or agency to obtain statistical data for research and analysis,
 		- **(v.1)** to an official of the Department of Employment and Social Development solely for the purpose of the administration or enforcement of a program established under the authority of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) in respect of children who are deceased or missing as a result of an offence, or a probable offence, under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 		- **(vi)** to an official solely for the purpose of setting off, against any sum of money that may be due or payable by Her Majesty, a debt due to
 			- **(A)** Her Majesty, or
 			- **(B)** Her Majesty in right of a province on account of taxes payable to the province, if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province,
 		- **(vii)** to an official solely for the purposes of section 7.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md),
-		- **(viii)** to an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of enabling the Centre to evaluate the usefulness of information provided by the Centre to the Canada Revenue Agency under the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), or
-		- **(ix)** to an official of the Agency solely for the purpose of the collection of amounts owing to Her Majesty in right of Canada or of a province under the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), the [Merchant Seamen Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-6.md), the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md), the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md), the [Postal Services Continuation Act, 1997](/en/Acts/Statutes%20of%20Canada/1997/c.%2034.md), the [Wage Earner Protection Program Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2047,%20s.%201.md), the [Apprentice Loans Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2020,%20s.%20483.md) or a law of a province governing the granting of financial assistance to students at the post-secondary school level;
+		- **(viii)** to an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of enabling the Centre to evaluate the usefulness of information provided by the Centre to the Canada Revenue Agency under the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md),
+		- **(ix)** to an official of the Agency solely for the purpose of the collection of amounts owing to Her Majesty in right of Canada or of a province under the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), the [Merchant Seamen Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-6.md), the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md), the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md), the [Postal Services Continuation Act, 1997](/en/Acts/Statutes%20of%20Canada/1997/c.%2034.md), the [Wage Earner Protection Program Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2047,%20s.%201.md), the [Apprentice Loans Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2020,%20s.%20483.md) or a law of a province governing the granting of financial assistance to students at the post-secondary school level, or
+		- **(x)** to an official solely for the administration or enforcement of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md);
 	- **(f)** provide confidential information solely for the purposes of sections 23 to 25 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 	- **(g)** use confidential information to compile information in a form that does not directly or indirectly reveal the identity of the person to whom the information relates;
 	- **(h)** use, or provide any person with, confidential information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by Her Majesty in respect of a period during which the authorized person was employed by or engaged by or on behalf of Her Majesty to assist in the administration or enforcement of this Act, to the extent that the information is relevant for that purpose;
@@ -4426,7 +4982,7 @@ It excludes information that does not directly or indirectly reveal the identity
 		- **(iii)** the offence can reasonably be considered to be related to that administration or enforcement;
 	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a listed international agreement;
 	- **(m)** provide confidential information to any person solely for the purpose of enabling the Chief Statistician, within the meaning assigned by section 2 of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), to provide to a statistical agency of a province data concerning business activities carried on in the province, if the information is used by the statistical agency solely for research and analysis and the statistical agency is authorized under the law of the province to collect the same or similar information on its own behalf in respect of such activities; or
-	- **(n)** provide confidential information to a person who has  —  under a program administered by the Canada Revenue Agency to obtain information relating to tax non-compliance  —  entered into a contract to provide information to the Canada Revenue Agency, to the extent necessary to inform the person of any amount they may be entitled to under the contract and of the status of their claim under the contract.
+	- **(n)** provide confidential information to a person who has — under a program administered by the Canada Revenue Agency to obtain information relating to tax non-compliance — entered into a contract to provide information to the Canada Revenue Agency, to the extent necessary to inform the person of any amount they may be entitled to under the contract and of the status of their claim under the contract.
 
 **Restrictions on information sharing**
 
@@ -4498,7 +5054,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75; 2018, c. 12, s. 78.
 
 
 
@@ -4595,12 +5151,12 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 
 
-**Unlawful production, sale, etc., of tobacco or alcohol**
+**Unlawful production, sale, etc.**
 
-**214** Every person who contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60 and 62 is guilty of an offence and liable
+**214** Every person that contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60, 62, 158.04 to 158.06 and 158.08 is guilty of an offence and liable
 - **(a)** on conviction on indictment, to a fine of not less than $50,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; or
 - **(b)** on summary conviction, to a fine of not less than $10,000 and not more than $500,000 or to imprisonment for a term of not more than 18 months, or to both.
-> 2002, c. 22, s. 214; 2008, c. 28, s. 60; 2010, c. 12, s. 42.
+> 2002, c. 22, s. 214; 2008, c. 28, s. 60; 2010, c. 12, s. 42; 2018, c. 12, s. 79.
 
 
 
@@ -4641,22 +5197,22 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.22 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.22 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.27 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.42 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.24 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.24 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.30 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.47 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.32 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.32 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.40 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.84 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.36 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.36 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.45 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.93 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54; 2014, c. 20, s. 76; 2017, c. 20, s. 51.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54; 2014, c. 20, s. 76; 2017, c. 20, s. 51; 2018, c. 12, s. 52.
 
 
 
@@ -4934,6 +5490,28 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 
 
+**Contravention of section 158.13**
+
+**233.1** Every cannabis licensee that contravenes section 158.13 is liable to a penalty equal to the amount determined by the formula
+```
+(A + B + C) × 200%
+```
+where
+- **A** is the greater of
+- **(a)** the amount determined under section 1 of Schedule 7, as that section read at the time the contravention occurred, in respect of the cannabis products to which the contravention relates, and
+- **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in section 4 of Schedule 7, as that section read at that time;
+- **B** is
+- **(a)** if the offence occurred in a specified province, 300% of the amount determined for A, and
+- **(b)** in any other case, 0; and
+- **C** is
+- **(a)** if the offence occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
+- **(b)** in any other case, 0.
+> 2018, c. 12, s. 84.
+
+
+
+
+
 **Contravention of section 38, 40, 49, 61, 62.1, 99, 149 or 151**
 
 **234** 
@@ -4943,7 +5521,11 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **Failure to comply**
 
 - **(2)** Every person who fails to return or destroy stamps as directed by the Minister under paragraph 25.5(b), or who fails to re-work or destroy a tobacco product in the manner authorized by the Minister under section 41, is liable to a penalty of not more than $25,000.
-> 2002, c. 22, s. 234; 2007, c. 18, s. 121; 2010, c. 12, s. 43.
+
+**Failure to comply**
+
+- **(3)** Every person that fails to return or destroy stamps as directed by the Minister under paragraph 158.07(b) is liable to a penalty of not more than $25,000.
+> 2002, c. 22, s. 234; 2007, c. 18, s. 121; 2010, c. 12, s. 43; 2018, c. 12, s. 85.
 
 
 
@@ -5006,13 +5588,18 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **238.1** 
 
 - **(1)** Every person who is issued excise stamps is liable to a penalty if the person cannot account for the stamps as being in their possession unless
-	- **(a)** the person can demonstrate that the stamps were affixed to tobacco products or their containers in the manner prescribed for the purposes of the definition ***stamped*** in section 2 and that duty, other than special duty, has been paid on the products; or
+	- **(a)** the person can demonstrate that the stamps were affixed to tobacco products, cannabis products or their containers in the manner prescribed for the purposes of the definition stamped in section 2 and that duty, other than special duty, has been paid on the tobacco products or cannabis products; or
 	- **(b)** in the case of stamps that were cancelled, the person can demonstrate that the stamps were returned or destroyed as directed by the Minister.
 
 **Amount of the penalty**
 
-- **(2)** The amount of the penalty for each excise stamp that cannot be accounted for is equal to the duty that would be imposed on a tobacco product for which the stamp was issued under subsection 25.1(1).
-> 2010, c. 12, s. 44.
+- **(2)** The amount of the penalty for each excise stamp that cannot be accounted for is equal to
+	- **(a)** in the case of a tobacco excise stamp, the duty that would be imposed on a tobacco product for which the stamp was issued under subsection 25.1(1); or
+	- **(b)** in the case of a cannabis excise stamp, five times the total of the following amounts:
+		- **(i)** the dollar amount set out in paragraph 1(a) of Schedule 7,
+		- **(ii)** if the stamp is in respect of a specified province, three times the dollar amount set out in paragraph 1(a) of Schedule 7, and
+		- **(iii)** if the stamp is in respect of a prescribed specified province, $5.00.
+> 2010, c. 12, s. 44; 2018, c. 12, s. 87.
 
 
 
@@ -5030,10 +5617,10 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **Contravention of subsection 50(5)**
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
-- **(a)** $0.41 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.41 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $508.81 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55; 2014, c. 20, s. 78; 2017, c. 20, s. 54.
+- **(a)** $0.43 per cigarette that was removed in contravention of that subsection,
+- **(b)** $0.43 per tobacco stick that was removed in contravention of that subsection, and
+- **(c)** $537.48 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55; 2014, c. 20, s. 78; 2017, c. 20, s. 54; 2018, c. 12, s. 53.
 
 
 
@@ -5406,8 +5993,8 @@ exceeds
 
 **Certain things not to be returned**
 
-**264** Despite this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco, excise stamp or tobacco product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
-> 2002, c. 22, s. 264; 2007, c. 18, s. 127; 2010, c. 12, s. 45.
+**264** Despite any other provision of this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco, excise stamp, tobacco product or cannabis product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
+> 2002, c. 22, s. 264; 2007, c. 18, s. 127; 2010, c. 12, s. 45; 2018, c. 12, s. 89.
 
 
 
@@ -5437,15 +6024,16 @@ exceeds
 - **(2)** Subject to the regulations, the Minister may sell
 	- **(a)** seized spirits or specially denatured alcohol only to a spirits licensee;
 	- **(b)** seized wine only to a wine licensee;
-	- **(c)** seized raw leaf tobacco or a seized tobacco product only to a tobacco licensee; and
-	- **(d)** a seized restricted formulation only to a licensed user.
+	- **(c)** seized raw leaf tobacco or a seized tobacco product only to a tobacco licensee;
+	- **(d)** a seized restricted formulation only to a licensed user; and
+	- **(e)** a seized cannabis product only to a cannabis licensee.
 
 **Payment of compensation**
 
 - **(3)** If a person would be entitled to the return of a thing if it were available to be returned, but it is not possible to return it, the person shall be paid
 	- **(a)** if the thing was sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the thing at the time of its seizure as determined by the Minister.
-> 2002, c. 22, s. 266; 2007, c. 18, s. 128; 2010, c. 12, s. 46.
+> 2002, c. 22, s. 266; 2007, c. 18, s. 128; 2010, c. 12, s. 46; 2018, c. 12, s. 90.
 
 
 
@@ -6469,9 +7057,10 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(a)** respecting any requirements and conditions that must be met by a person to be issued or to hold a licence or a registration;
 	- **(b)** respecting the activities that a licensee or registrant may carry on and the premises where those activities may be carried on;
 	- **(c)** respecting the types of security that are acceptable for the purposes of paragraph 23(3)(b) or subsection 25.1(3), and the manner by which the amount of the security is to be determined but that amount must not be less than $5,000;
+	- **(c.1)** respecting the types of security that are acceptable for the purposes of subsection 158.03(3), and the manner by which the amount of the security is to be determined;
 	- **(d)** respecting the duration, amendment, suspension, renewal, cancellation or reinstatement of licences and registrations;
 	- **(e)** prescribing facilities, equipment and personnel that must be provided by a licensee or registrant at the premises specified by the Minister under subsection 23(3);
-	- **(f)** respecting the information to be provided on tobacco products and packaged alcohol and containers of tobacco products and packaged alcohol;
+	- **(f)** respecting the information to be provided on tobacco products, packaged alcohol and cannabis products and on containers of tobacco products, packaged alcohol and cannabis products;
 	- **(f.1)** respecting the issuance of excise stamps;
 	- **(g)** designating certain classes of goods as ships’ stores for use on board a conveyance of a prescribed class, including a class based on
 		- **(i)** the physical attributes, functions or legal descriptions of conveyances,
@@ -6484,7 +7073,7 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(k)** prescribing the fees or the manner of determining any fees to be paid for a licence or registration;
 	- **(l)** requiring any class of persons to make returns respecting any class of information required in connection with the administration or enforcement of this Act;
 	- **(m)** requiring any person to provide the Minister with the person’s Social Insurance Number;
-	- **(n)** respecting the sale under section 266 of alcohol, tobacco products, raw leaf tobacco, specially denatured alcohol or restricted formulations seized under section 260;
+	- **(n)** respecting the sale under section 266 of alcohol, tobacco products, raw leaf tobacco, specially denatured alcohol, restricted formulations or cannabis products seized under section 260;
 	- **(o)** prescribing any matter or thing that by this Act is to be or may be prescribed; and
 	- **(p)** generally to carry out the purposes and provisions of this Act.
 
@@ -6499,7 +7088,72 @@ However, nothing in this subsection limits the liability of the transferor under
 **Incorporation by reference**
 
 - **(3)** For greater certainty, a regulation made under this Act may incorporate by reference any material, regardless of its source and either as it exists on a particular date or as amended from time to time.
-> 2002, c. 22, s. 304; 2007, c. 18, s. 130; 2010, c. 12, s. 47.
+> 2002, c. 22, s. 304; 2007, c. 18, s. 130; 2010, c. 12, s. 47; 2018, c. 12, s. 91.
+
+
+
+
+
+**Definition of coordinated cannabis duty system**
+
+**304.1** 
+
+- **(1)** In this section, ***coordinated cannabis duty system*** means the system providing for the payment, collection and remittance of duty imposed under any of sections 158.2 and 158.22 and subsections 158.25(2) and 158.26(2) and any provisions relating to duty imposed under those provisions or to refunds in respect of any such duty.
+
+**Coordinated cannabis duty system regulations — transition**
+
+- **(2)** The Governor in Council may make regulations, in relation to the joining of a province to the coordinated cannabis duty system,
+	- **(a)** prescribing transitional measures, including
+		- **(i)** a tax on the inventory of cannabis products held by a cannabis licensee or any other person, and
+		- **(ii)** a duty or tax on cannabis products that are delivered prior to the province joining that system; and
+	- **(b)** generally to effect the implementation of that system in relation to the province.
+
+**Coordinated cannabis duty system regulations — rate variation**
+
+- **(3)** The Governor in Council may make regulations
+	- **(a)** prescribing rules in respect of whether, how and when a change in the rate of duty for a specified province applies (in this section any such change in the rate of duty is referred to as a “rate variation”), including rules deeming, in specified circumstances and for specified purposes, the status of anything to be different than what it would otherwise be, including when duty is imposed or payable and when duty is required to be reported and accounted for;
+	- **(b)** if a manner of determining an amount of duty is to be prescribed in relation to the coordinated cannabis duty system,
+		- **(i)** specifying the circumstances or conditions under which a change in the manner applies, and
+		- **(ii)** prescribing transitional measures in respect of a change in the manner, including
+			- **(A)** a tax on the inventory of cannabis products held by a cannabis licensee or any other person, and
+			- **(B)** a duty or tax on cannabis products that are delivered prior to the change; and
+	- **(c)** prescribing amounts and rates to be used to determine any refund that relates to, or is affected by, the coordinated cannabis duty system, excluding amounts that would otherwise be included in determining any such refund, and specifying circumstances under which any such refund shall not be paid or made.
+
+**Coordinated cannabis duty system regulations — general**
+
+- **(4)** For the purpose of facilitating the implementation, application, administration and enforcement of the coordinated cannabis duty system or a rate variation or the joining of a province to the coordinated cannabis duty system, the Governor in Council may make regulations
+	- **(a)** prescribing rules in respect of whether, how and when that system applies and rules in respect of other aspects relating to the application of that system in relation to a specified province, including rules deeming, in specified circumstances and for specified purposes, the status of anything to be different than what it would otherwise be, including when duty is imposed or payable and when duty is required to be reported and accounted for;
+	- **(b)** prescribing rules related to the movement of cannabis products between provinces, including a duty, tax or refund in respect of such movement;
+	- **(c)** providing for refunds relating to the application of that system in relation to a specified province;
+	- **(d)** adapting any provision of this Act or of the regulations made under this Act to the coordinated cannabis duty system or modifying any provision of this Act or those regulations to adapt it to the coordinated cannabis duty system;
+	- **(e)** defining, for the purposes of this Act or the regulations made under this Act, or any provision of this Act or those regulations, in its application to the coordinated cannabis duty system, words or expressions used in this Act or those regulations including words or expressions defined in a provision of this Act or those regulations;
+	- **(f)** providing that a provision of this Act or of the regulations made under this Act, or a part of such a provision, does not apply to the coordinated cannabis duty system;
+	- **(g)** prescribing compliance measures, including penalties and anti-avoidance rules; and
+	- **(h)** generally in respect of the application of that system in relation to a province.
+
+**Conflict**
+
+- **(5)** If a regulation made under this Act in respect of the coordinated cannabis duty system states that it applies despite any provision of this Act, in the event of a conflict between the regulation and this Act, the regulation prevails to the extent of the conflict.
+> 2018, c. 12, s. 92.
+
+
+
+
+
+**Definition of cannabis duty system**
+
+**304.2** 
+
+- **(1)** In this section, ***cannabis duty system*** means the system providing for the payment, collection and remittance of duty imposed under Part 4.1 and any provisions relating to duty imposed under that Part or to refunds in respect of any such duty.
+
+**Transitional cannabis duty system regulations**
+
+- **(2)** For the purpose of facilitating the implementation, application, administration or enforcement of the cannabis duty system, the Governor in Council may make regulations adapting any provision of this Act or of the regulations made under this Act to take into account the making of regulations under the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) or amendments to those regulations.
+
+**Retroactive effect**
+
+- **(3)** Despite subsection 304(2), regulations made under subsection (2) may, if they so provide, be retroactive and have effect with respect to any period before they are made.
+> 2018, c. 12, s. 92.
 
 
 
@@ -6862,7 +7516,7 @@ However, nothing in this subsection limits the liability of the transferor under
 ## Rates of Duty on Tobacco Products
 **1** Cigarettes: for each five cigarettes or fraction of five cigarettes contained in any package,
 
-**(a)** $0.53900; or
+**(a)** $0.59634; or
 
 
 
@@ -6873,7 +7527,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **2** Tobacco sticks: per stick,
 
-**(a)** $0.10780; or
+**(a)** $0.11927; or
 
 
 
@@ -6884,7 +7538,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **3** Manufactured tobacco other than cigarettes and tobacco sticks: per 50 grams or fraction of 50 grams contained in any package,
 
-**(a)** $6.73750; or
+**(a)** $7.45425; or
 
 
 
@@ -6895,7 +7549,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **4** Cigars: per 1,000 cigars,
 
-**(a)** $23.46235; or
+**(a)** $25.95832; or
 
 
 
@@ -6907,7 +7561,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56; 2014, c. 20, s. 79; 2017, c. 20, ss. 58 to 61.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64; 2013, c. 33, s. 56; 2014, c. 20, s. 79; 2017, c. 20, ss. 58 to 61; 2018, c. 12, ss. 54 to 57.
 
 
 
@@ -6919,7 +7573,7 @@ Cigars: per cigar, the greater of
 
 **(a)** either
 
-**(i)** $0.08434, or
+**(i)** $0.09331, or
 
 
 
@@ -6929,25 +7583,12 @@ Cigars: per cigar, the greater of
 
 
 
-**(b)** the amount obtained by multiplying the sale price, in the case of cigars manufactured in Canada, or the duty-paid value, in the case of imported cigars, by the following percentage:
-
-**(i)** if the rate referred to in subparagraph (a)(i) has not been adjusted under subsection 43.1(2), 84%, or
-
-
-
-**(ii)** if the rate referred to in subparagraph (a)(i) has been adjusted under subsection 43.1(2), the amount, rounded to the nearest whole number, or, if the amount is equidistant from two consecutive whole numbers, to the higher whole number, expressed as a percentage, determined by the formula
-```
-A × 1000
-```
-where
-- **A** is the adjusted rate referred to in subparagraph (a)(ii), as if that rate were not expressed in dollars.
+**(b)** the amount obtained by multiplying the sale price, in the case of cigars manufactured in Canada, or the duty-paid value, in the case of imported cigars, by 88%.
 
 
 
 
-
-
-> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208; 2014, c. 20, s. 80; 2017, c. 20, ss. 62, 63.
+> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208; 2014, c. 20, s. 80; 2017, c. 20, ss. 62, 63; 2018, c. 12, s. 58.
 
 
 
@@ -7131,7 +7772,36 @@ Wine:
 
 
 ### **SCHEDULE 7** 
-[Amendment]
+**(Sections 2, 158.19, 158.21, 158.24 to 158.27, 158.31, 158.34, 218.1, 233.1, 234.1 and 238.1)**
+## Duty on Cannabis Products
+**1** Any cannabis product produced in Canada or imported: the amount equal to the total of
 
+**(a)** $0.25 per gram of flowering material included in the cannabis product or used in the production of the cannabis product,
+
+
+
+**(b)** $0.075 per gram of non-flowering material included in the cannabis product or used in the production of the cannabis product,
+
+
+
+**(c)** $0.25 per viable seed included in the cannabis product or used in the production of the cannabis product, and
+
+
+
+**(d)** $0.25 per vegetative cannabis plant included in the cannabis product or used in the production of the cannabis product.
+
+
+
+
+**2** Any cannabis product produced in Canada: the amount obtained by multiplying the dutiable amount for the cannabis product by 2.5%.
+
+
+**3** Any imported cannabis product: the amount obtained by multiplying the value of the cannabis product by 2.5%.
+
+
+**4** Any cannabis product taken for use or unaccounted for: the amount obtained by multiplying the fair market value of the cannabis product by 2.5%.
+
+
+> 2002, c. 22, Sch. 7; 2018, c. 12, s. 93.
 
 
