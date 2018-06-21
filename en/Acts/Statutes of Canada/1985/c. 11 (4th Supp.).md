@@ -107,7 +107,7 @@
 		- **(ii)** related to the development of business opportunity data banks and networks, and
 		- **(iii)** to improve business communication and cooperation;
 	- **(e)** initiate, implement, sponsor, promote and coordinate policy research, policy development and economic analysis to support development and diversification of the economy of Western Canada;
-	- **(f)** with the approval of the Governor in Council, enter into any agreement with the government of any province, or with any agency of any such government, respecting the carrying out of the powers, duties and functions of the Minister; and
+	- **(f)** enter into any agreement with the government of any province, or with any agency of such a government, respecting the exercise of the Minister’s powers and the carrying out of the Minister’s duties and functions; and
 	- **(g)** do all such other things as are necessary or incidental to the attainment of the purpose of this Act.
 
 **Financial assistance**
@@ -119,6 +119,8 @@
 **Idem**
 
 - **(3)** The Minister may, in accordance with terms and conditions approved by the Treasury Board, make grants and contributions in support of programs and projects undertaken by the Minister.
+> R.S., 1985, c. 11 (4th Supp.), s. 6; 2018, c. 12, s. 359.
+
 
 
 
