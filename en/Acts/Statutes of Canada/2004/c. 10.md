@@ -528,16 +528,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Permanent removal and destruction of information**
 
 - **(2)** Despite any other Act of Parliament, all information that is collected under this Act, or registered in the database, in connection with an order shall be destroyed and permanently removed from the database if
-	- **(a)** the person who is subject to the order is finally acquitted of every offence in connection with which the order was made or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence; or
+	- **(a)** the person who is subject to the order is finally acquitted of every offence in connection with which the order was made or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence or is the subject of an expungement order under the [Expungement of Historically Unjust Convictions Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2011.md) for every such offence; or
 	- **(b)** the sentence for every offence in connection with which the order was made ceases to have force and effect under subsection 249.11(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
 
 **Permanent removal and destruction of information**
 
 - **(3)** Despite any other Act of Parliament, all information that is collected under this Act, or registered in the database, in connection with an obligation under section 490.019 or 490.02901 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) shall be destroyed and permanently removed from the database if
-	- **(a)** the person who is subject to the obligation is finally acquitted of every offence to which it relates or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence;
+	- **(a)** the person who is subject to the obligation is finally acquitted of every offence to which it relates or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence or is the subject of an expungement order under the [Expungement of Historically Unjust Convictions Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2011.md) for every such offence;
 	- **(b)** the sentence for every offence to which the obligation relates ceases to have force and effect under subsection 249.11(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
 	- **(c)** the person who is subject to the obligation is granted an exemption order under subsection 490.023(2) or 490.02905(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 227.1(4) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or on an appeal from a decision made under that subsection.
-> 2004, c. 10, s. 15; 2007, c. 5, s. 46; 2010, c. 17, s. 42.
+> 2004, c. 10, s. 15; 2007, c. 5, s. 46; 2010, c. 17, s. 42; 2018, c. 11, s. 30.
 
 
 
