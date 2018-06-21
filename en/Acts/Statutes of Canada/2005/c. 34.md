@@ -39,12 +39,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***Commission*** means the Canada Employment Insurance Commission continued by section 20.
+***Commission*** means the Canada Employment Insurance Commission continued by section 20. (*Commission*)
 
-***Minister*** means the Minister of Employment and Social Development.
+***Minister*** means the Minister of Employment and Social Development. (*ministre*)
 
-***Tribunal*** means the Social Security Tribunal established under section 44.
-> 2005, c. 34, s. 2; 2012, c. 19, s. 223; 2013, c. 40, s. 206.
+***partner entity*** means
+- **(a)** a department or any other body, other than a parent Crown corporation, referred to in a schedule to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+- **(b)** a parent Crown corporation and any wholly-owned subsidiary, as those terms are defined in section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+- **(c)** the government of a province, a public body created under the law of a province, or a municipality;
+- **(d)** a council, government or other entity authorized to act on behalf of either a band, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or a First Nation, Aboriginal people or Aboriginal organization that is a party to a land claim agreement or any other treaty, self-government agreement or settlement agreement; and
+- **(e)** a non-profit corporation or public body performing a function for an entity referred to in any of paragraphs (a) to (d). (*entité partenaire*)
+
+***Tribunal*** means the Social Security Tribunal established under section 44. (*Tribunal*)
+> 2005, c. 34, s. 2; 2012, c. 19, s. 223; 2013, c. 40, s. 206; 2018, c. 12, s. 268.
 
 
 
@@ -118,12 +125,57 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Service delivery to public**
+
+**5.1** 
+
+- **(1)** The Minister may provide support for service delivery to the public and, in so doing, he or she may
+	- **(a)** provide the following services and facilities to any partner entity and perform activities related to those services and facilities:
+		- **(i)** services and facilities in support of its delivery of its programs and services, and
+		- **(ii)** any other service or facility that is authorized by the Governor in Council;
+	- **(b)** provide the following services to any department or body listed in Schedule I, I.1 or II to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and to any other partner entity authorized by the Governor in Council and perform activities related to those services:
+		- **(i)** the administration of websites that are accessible to the public,
+		- **(ii)** the administration of social media accounts,
+		- **(iii)** the publication of mobile applications on third-party mobile application stores and on the Government of Canada website,
+		- **(iv)** online citizen engagement, and
+		- **(v)** any other related electronic or digital service;
+	- **(c)** administer the Government of Canada website; and
+	- **(d)** provide information services relating to programs and services of the Government of Canada and of any other person, organization or government authorized by the Governor in Council.
+
+**Authorization — Governor in Council**
+
+- **(2)** The Minister may provide any service or facility that is described in subsection (1), other than the services described in paragraph (1)(c) or (d), and that is authorized by the Governor in Council to any other person, organization or government that the Governor in Council authorizes.
+
+**Exercise of powers**
+
+- **(3)** The Minister shall, in supporting service delivery to the public, do so with a view to better serving the needs of Canadians.
+> 2018, c. 12, s. 269.
+
+
+
+
+
+**Fees — services and facilities**
+
+**5.2** 
+
+- **(1)** The Minister may charge for any service or facility provided under subsection 5.1(1), except the services provided under paragraph 5.1(1)(c) or (d).
+
+**Spending authority**
+
+- **(2)** The Minister may spend revenues obtained under subsection (1).
+> 2018, c. 12, s. 269.
+
+
+
+
+
 **Powers**
 
 **6** In exercising the powers and performing the duties and functions assigned to the Minister under this or any other Act, the Minister may
-- **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyse, interpret, publish and distribute information relating to human resources and skills development or to social development; and
-- **(b)** cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development or for social development.
-> 2005, c. 34, s. 6; 2012, c. 19, s. 687.
+- **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyze, interpret, publish and distribute information relating to human resources and skills development, social development or service delivery to the public; and
+- **(b)** cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development, social development, or service delivery to the public.
+> 2005, c. 34, s. 6; 2012, c. 19, s. 687; 2018, c. 12, s. 271.
 
 
 
@@ -131,13 +183,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Programs**
 
-**7** The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, or that contribute to the social development of Canada, and the Minister may make grants and contributions in support of the programs.
-> 2005, c. 34, s. 7; 2012, c. 19, s. 687.
+**7** The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, to the social development of Canada or to service delivery to the public, and the Minister may make grants and contributions in support of the programs.
+> 2005, c. 34, s. 7; 2012, c. 19, s. 687; 2018, c. 12, s. 272.
 
 
 
 
-**8** [Repealed, 2012, c. 19, s. 687]
+
+**Business numbers — Minister**
+
+**8** The Minister may collect any business number, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and use it as an identifier for the purposes of the administration or enforcement any Act, program or activity in respect of which the administration or enforcement is the responsibility of the Minister.
+> 2005, c. 34, s. 8; 2012, c. 19, s. 687; 2018, c. 12, s. 272.
+
 
 
 
@@ -276,6 +333,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Business numbers — Minister of Labour**
+
+**19.01** The Minister of Labour may collect any business number, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and use it as an identifier for the purposes of the administration or enforcement of any Act, program or activity in respect of which the administration or enforcement is the responsibility of that Minister.
+> 2018, c. 12, s. 273.
+
+
+
+
+
 **Crediting to Labour Cooperation Treaties Account**
 
 **19.1** 
@@ -398,6 +464,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Directions to Commission**
 
 - **(3)** The Commission shall comply with any directions given to it from time to time by the Minister respecting the exercise of its powers or the performance of its duties and functions.
+
+
+
+
+**Business numbers — Commission**
+
+**24.1** The Commission may collect any business number, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and use it as an identifier for the purposes of the administration or enforcement of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+> 2018, c. 12, s. 274.
+
 
 
 
@@ -585,6 +660,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Designation of investigators**
+
+**28.5** 
+
+- **(1)** The Minister or the Commission may designate as an investigator for the purpose of enforcing section 28.4 any person, or class of persons, that the Minister or the Commission considers qualified.
+
+**Territorial jurisdiction**
+
+- **(2)** An information or complaint about an offence under this Part may be heard, tried or determined by any provincial court judge, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if the accused is resident, carrying on business, found, apprehended or in custody in the judge’s territorial jurisdiction regardless of whether or not the matter of the information or complaint arose in that jurisdiction.
+
+**Limitation period**
+
+- **(3)** Proceedings in respect of an offence under this Part may be commenced at any time within, but not later than, five years after the day on which the subject matter of the proceedings arose.
+> 2018, c. 12, s. 275.
+
+
+
+
+
 ### Audit
 
 
@@ -609,22 +703,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Part.
 
-***administration***, in respect of programs, includes development, operation and evaluation.
+***administration***, in respect of programs, includes development, operation and evaluation. (*mise en oeuvre*)
 
-***federal institution*** means a department or any other body referred to in a schedule to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+***federal institution*** means a department or any other body referred to in a schedule to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md). (*institution fédérale*)
 
-***information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), except that the portion of that definition between paragraphs (i) and (j) shall be read as “but, for the purposes of this Part, does not include”.
+***information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), except that the portion of that definition between paragraphs (i) and (j) shall be read as “but, for the purposes of this Part, does not include”. (*renseignements*)
 
-***program***, except in subsection (2), means any program the administration or enforcement of which is the responsibility of the Minister or the Commission and includes any legislation, policy or activity the administration or enforcement of which is their responsibility.
+***program***, except in subsection (2), means any program the administration or enforcement of which is the responsibility of the Minister or the Commission and includes any legislation, policy or activity the administration or enforcement of which is their responsibility. (*programme*)
 
-***public officer*** means an officer or employee of a federal institution, a prescribed individual or a member of a prescribed class of individuals.
+***public officer*** means an officer or employee of a federal institution, a prescribed individual or a member of a prescribed class of individuals. (*fonctionnaire public*)
+
+***service delivery program*** means a program for the provision of a service or facility referred to in subparagraph 5.1(1)(a)(i), including the performance of its related activities. (*programme de prestation de services*)
 
 **Interpretation**
 
 - **(2)** For the purposes of this Part, a reference to the Minister includes the Minister of Labour in respect of any program, legislation, policy or activity the administration or enforcement of which is the responsibility of the Minister of Labour.
 
 - **(3)** [Repealed, 2012, c. 19, s. 282]
-> 2005, c. 34, s. 30; 2012, c. 19, s. 282.
+> 2005, c. 34, s. 30; 2012, c. 19, s. 282; 2018, c. 12, s. 276.
 
 
 
@@ -675,6 +771,44 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Availability of information within the Department**
 
 - **(2)** Information may be made available to the Commission or a public officer of the Department for the administration or enforcement of a program.
+
+
+
+
+**Service delivery programs**
+
+**34.1** 
+
+- **(1)** Information may be made available to any person or body for the administration of the service delivery program under which that information was obtained or prepared.
+
+**Co-administered programs**
+
+- **(2)** Information obtained or prepared under a program the administration or enforcement of which is the responsibility, under an Act of Parliament, of the Minister and one or more partner entities may be made available to that entity or those entities for the administration or enforcement of that program.
+
+**Other programs**
+
+- **(3)** Information obtained or prepared under a program, other than a service delivery program, that is related to the provision of a service or facility referred to in subsection 5.1(1) may be made available to any person or body for the administration or enforcement of the program under which it was obtained or prepared.
+
+**Application**
+
+- **(4)** For greater certainty, this section applies to information obtained or prepared before the day on which this subsection comes into force.
+> 2018, c. 12, s. 277.
+
+
+
+
+
+**Non-application — information made available**
+
+**34.2** 
+
+- **(1)** Sections 32 to 34 and 35 to 42 do not apply in respect of information that is made available under section 34.1.
+
+**Non application — information obtained**
+
+- **(2)** Sections 33, 34, 35 to 36.2, 40 and 41 do not apply in respect of information obtained under a service delivery program.
+> 2018, c. 12, s. 277.
+
 
 
 
@@ -745,8 +879,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Notice of disclosure**
 
-- **(2)** The Minister shall notify the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) in writing of any disclosure of information under subsection (1) prior to the disclosure where reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she deems it appropriate, notify the individual to whom the information relates of the disclosure.
-> 2005, c. 34, s. 37; 2012, c. 19, s. 287.
+- **(2)** The Minister shall, prior to the disclosure, notify the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) and any affected partner entity in writing of any disclosure of information under subsection (1) if it is reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she considers it appropriate, notify the individual to whom the information relates of the disclosure.
+> 2005, c. 34, s. 37; 2012, c. 19, s. 287; 2018, c. 12, s. 278.
 
 
 
@@ -1322,17 +1456,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application**
 
-**70.1** This Part applies to the following Acts, programs and activities:
-- **(a)** the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
-- **(b)** the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md);
-- **(c)** the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md);
-- **(d)** the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md);
-- **(e)** the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md);
-- **(e.1)** the [Apprentice Loans Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2020,%20s.%20483.md);
-- **(f)** the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md);
-- **(g)** any programs that are supported by grants or contributions under section 7; and
-- **(h)** any activities in respect of which the administration or enforcement is the responsibility of the Minister under the [Immigration and Refugee Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/227.md).
-> 2013, c. 40, s. 211; 2014, c. 20, s. 485.
+**70.1** This Part applies to any Act, program or activity whose administration or enforcement is the responsibility of the Minister, the Minister of Labour or the Commission.
+> 2013, c. 40, s. 211; 2014, c. 20, s. 485; 2018, c. 12, s. 279.
 
 
 
@@ -1342,7 +1467,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **71** 
 
-- **(1)** Subject to the regulations, the Minister may administer or enforce electronically the Acts, programs and activities referred to in paragraphs 70.1(a) to (e.1), (g) and (h), the Minister of Labour may administer or enforce electronically the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and the Commission may administer or enforce electronically the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), including for the purposes of
+- **(1)** Subject to the regulations, if the Minister, the Minister of Labour or the Commission is responsible for an Act, program or activity, that responsible Minister or Commission may administer or enforce it electronically, including for the purposes of
 	- **(a)** creating, communicating, making available, collecting, receiving, storing, or managing or otherwise dealing with documents or information;
 	- **(b)** providing any services, benefits or other assistance;
 	- **(c)** providing notifications;
@@ -1353,7 +1478,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(2)** The Minister and the Commission must not require persons or entities to apply electronically for, or receive electronically, services, benefits or other assistance except for classes of persons or entities and those services, benefits or other assistance that are prescribed by the regulations.
-> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212; 2017, c. 26, s. 51.
+> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224; 2013, c. 40, s. 212; 2017, c. 26, s. 51; 2018, c. 12, s. 280.
 
 
 
@@ -1363,22 +1488,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **72** 
 
-- **(1)** Unless another manner of filing a document or information is expressly required by a provision of an Act referred to in section 70.1 or any of its regulations, by a term or condition of a program referred to in paragraph 70.1(g) or by a provision of a regulation referred to in paragraph 70.1(h), the filing of an electronic version of the document or information is to be considered as the filing of a document or information in accordance with the provision or the term or condition.
+- **(1)** Unless another manner of filing a document or information is expressly required by a provision of an Act or a regulation, or by a term or condition of a program, the filing of an electronic version of the document or information is to be considered as the filing of a document or information in accordance with the provision or the term or condition.
 
 **Power to prescribe form or manner of filing**
 
-- **(2)** A provision of an Act referred to in section 70.1 or any of its regulations, or a term or condition of a program referred to in paragraph 70.1(g) or a provision of a regulation referred to in paragraph 70.1(h), that provides for a power to issue, prescribe or in any other manner establish a form or to establish the manner of filing a document or information includes the power to do so with respect to an electronic document or information.
+- **(2)** A provision of an Act or a regulation, or a term or condition of a program, that provides for a power to issue, prescribe or in any other manner establish a form or to establish the manner of filing a document or information includes the power to do so with respect to an electronic document or information.
 
 **Written documents or information**
 
-- **(3)** A requirement under a provision of an Act referred to in section 70.1 or any of its regulations, or a term or condition of a program referred to in paragraph 70.1(g) or a provision of a regulation referred to in paragraph 70.1(h), that a document be in writing or information be provided in writing is satisfied by an electronic document or information if the electronic document or information
+- **(3)** A requirement under a provision of an Act or a regulation, or a term or condition of a program, that a document be in writing or information be provided in writing is satisfied by an electronic document or information if the electronic document or information
 	- **(a)** is readable or perceivable so as to be usable for subsequent reference;
 	- **(b)** is in a format that does not prevent it from being retained by the recipient; and
 	- **(c)** meets the prescribed requirements, if any.
 
 **Signatures**
 
-- **(4)** A requirement under a provision of an Act referred to in section 70.1 or any of its regulations, or a term or condition of a program referred to in paragraph 70.1(g) or a provision of a regulation referred to in paragraph 70.1(h), for a signature is satisfied by an electronic signature if the electronic signature
+- **(4)** A requirement under a provision of an Act or a regulation, or a term or condition of a program, to provide a signature is satisfied by an electronic signature if the electronic signature
 	- **(a)** is reliable for the purposes for which it is required;
 	- **(b)** is reliably linked with the electronic document in respect of which the signature is required; and
 	- **(c)** meets the prescribed requirements, if any.
@@ -1386,7 +1511,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Meaning of filing**
 
 - **(5)** In this section, ***filing*** includes all manner of transmitting, regardless of how it is designated.
-> 2005, c. 34, s. 72; 2012, c. 19, s. 224; 2013, c. 40, s. 213.
+> 2005, c. 34, s. 72; 2012, c. 19, s. 224; 2013, c. 40, s. 213; 2018, c. 12, s. 281.
 
 
 
@@ -1407,7 +1532,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** establishing criteria for the validity of an agreement or arrangement entered into electronically;
 	- **(e)** respecting terms and conditions for providing or receiving electronically services, benefits or other assistance, including the payment of amounts electronically;
 	- **(f)** respecting the technology to be used and the process to be followed for verifying electronically the identity of any person or entity;
-	- **(g)** respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of an Act referred to in section 70.1, of a program referred to in paragraph 70.1(g) or of a provision of a regulation referred to in paragraph 70.1(h), and respecting the manner in which and the extent to which any provision of that Act or its regulations, any term or condition of that program or any provision of that regulation applies to the electronic systems; and
+	- **(g)** respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of an Act or regulation to which this Part applies or in the administration or enforcement of a program or activity to which this Part applies, and respecting the manner in which and the extent to which any provision of that Act or regulation, or any term or condition of that program applies to the electronic systems; and
 	- **(h)** prescribing anything that by this Part is to be prescribed.
 
 **Incorporation by reference**
@@ -1425,7 +1550,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No registration or publication**
 
 - **(5)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
-> 2005, c. 34, s. 73; 2012, c. 19, s. 224; 2013, c. 40, s. 214.
+> 2005, c. 34, s. 73; 2012, c. 19, s. 224; 2013, c. 40, s. 214; 2018, c. 12, s. 282.
 
 
 
