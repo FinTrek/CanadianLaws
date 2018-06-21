@@ -811,6 +811,15 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
+**Publication**
+
+**37.01** After proceedings in respect of a violation in relation to section 983 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) are ended, the Superintendent must make public the nature of the violation, the name of the person who committed it and the amount of the penalty imposed.
+> 2018, c. 12, s. 351.
+
+
+
+
+
 ## Remission and Write-off
 
 
