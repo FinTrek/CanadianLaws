@@ -164,45 +164,53 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **7** 
 
-- **(1)** There shall be a Governing Council of the CIHR consisting of not more than 18 members, one of whom shall be the President of the CIHR.
+- **(1)** The Governing Council of the CIHR shall consist of not more than 18 members, including the Chairperson appointed under subsection (3.1).
 
 **Appointment and tenure of members**
 
-- **(2)** Each initial member of the Governing Council, other than the President, shall be appointed by the Governor in Council to hold office for any term of not more than three years that will ensure, as far as possible, the expiry in any one year of the terms of office of not more than one third of the members. Subsequently appointed members shall be appointed by the Governor in Council for a three-year term.
+- **(2)** Subject to section 8, each initial member of the Governing Council shall be appointed by the Governor in Council to hold office for any term of not more than three years that will ensure, as far as possible, the expiry in any one year of the terms of office of not more than one third of the members. Subsequently appointed members shall be appointed by the Governor in Council for a three-year term.
 
 **Removal and reappointment**
 
-- **(3)** The members appointed under subsection (2) shall be appointed to hold office during pleasure. They may be appointed to no more than two consecutive terms.
+- **(3)** Except for the Chairperson appointed under subsection (3.1), the members shall be appointed to hold office during pleasure and may be appointed to no more than two consecutive terms.
+
+**Chairperson**
+
+- **(3.1)** Subject to subsection (3.2), the Governor in Council shall appoint a Chairperson to hold office during pleasure for a term of not more than five years. The Chairperson is eligible for reappointment.
+
+**Ineligibility for appointment**
+
+- **(3.2)** The President is not eligible to be appointed as the Chairperson.
 
 **Appointment criteria**
 
 - **(4)** The Governor in Council shall appoint as members of the Governing Council women and men who are able to contribute to the achievement of the objective of the CIHR in the overall interests of Canadians. The Governor in Council shall consider appointing women and men who reflect the highest standards of scientific excellence and women and men who reflect a range of relevant backgrounds and disciplines.
-> 2000, c. 6, s. 7; 2010, c. 12, s. 1693.
+> 2000, c. 6, s. 7; 2010, c. 12, s. 1693; 2018, c. 12, s. 250.
 
 
 
 
 
-**Deputy Minister of Health**
+**President and Deputy Minister of Health**
 
-**8** Notwithstanding subsection 7(2), the Deputy Minister of Health is an *ex officio* and non-voting member of the Governing Council.
+**8** The President and the Deputy Minister of Health are *ex officio* and non-voting members of the Governing Council.
+> 2000, c. 6, s. 8; 2018, c. 12, s. 251.
 
 
 
 
-**Chairperson**
-
-**9** 
-
-- **(1)** The President is the Chairperson of the Governing Council.
 
 **Vice-Chairperson**
 
-- **(2)** The Governing Council shall elect one of its members to be a Vice-Chairperson.
+**9** 
+
+- **(1)** The Governing Council shall elect a Vice-Chairperson from among its members, other than the President and the Deputy Minister of Health.
 
 **Absence or incapacity**
 
-- **(3)** In the event of the absence or incapacity of the Chairperson or if the office of the Chairperson is vacant, the Vice-Chairperson has and may exercise all the powers and perform all the duties and functions of the Chairperson.
+- **(2)** In the event of the absence or incapacity of the Chairperson or if the office of the Chairperson is vacant, the Vice-Chairperson has and may exercise all the powers and perform all the duties and functions of the Chairperson.
+> 2000, c. 6, s. 9; 2018, c. 12, s. 251.
+
 
 
 
@@ -243,7 +251,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** shall be paid the remuneration that may be fixed by the Governor in Council;
 - **(b)** is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and is deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
 - **(c)** is entitled to be reimbursed for reasonable travel and living expenses incurred by the President in the course of performing the President’s duties while absent from the President’s ordinary place of work.
-> 2000, c. 6, s. 12; 2003, c. 22, s. 138(E).
+> 2000, c. 6, s. 12; 2003, c. 22, s. 138(E); 2018, c. 12, s. 252(F).
 
 
 
@@ -268,21 +276,31 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Management of the CIHR**
 
 **14** The Governing Council is responsible for the management of the CIHR, including
-- **(a)** developing its strategic directions, goals and policies;
+- **(a)** developing its strategic directions and goals;
 - **(b)** evaluating its overall performance, including with respect to achievement of its objective;
 - **(c)** approving its budget;
 - **(d)** establishing a peer review process for research proposals made to the CIHR;
 - **(e)** approving funding for research;
 - **(f)** approving other expenditures to carry out its objective;
-- **(g)** establishing policies respecting consulting and collaborating with persons and organizations that have an interest in health research; and
+- **(g)** establishing policies; and
 - **(h)** dealing with any other matter that the Governing Council considers related to the affairs of the CIHR.
+> 2000, c. 6, s. 14; 2018, c. 12, s. 253.
+
 
 
 
 
 **Delegation**
 
-**15** The Governing Council may delegate any of its powers, duties and functions, except those under any of paragraphs 14(a) and (c), sections 16 and 19 to 21 and subsections 22(3) and 32(1), to any of its members or committees, the President or a Health Research Institute, an Advisory Board or a Scientific Director referred to in subsection 20(1).
+**15** 
+
+- **(1)** Subject to subsection (2), the Governing Council may delegate its powers, duties and functions to its members or committees or to the President.
+
+**Limit on delegation**
+
+- **(2)** The Governing Council shall not delegate its powers, duties and functions under any of paragraphs 14(a) and (c), sections 16 and 19 to 21 and subsections 22(3) and 32(1).
+> 2000, c. 6, s. 15; 2018, c. 12, s. 254.
+
 
 
 
@@ -339,7 +357,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **20** 
 
 - **(1)** The Governing Council shall
-	- **(a)** establish, maintain and terminate divisions of the CIHR, to be called Health Research Institutes, and determine the mandate of each Health Research Institute;
+	- **(a)** establish, maintain and terminate Health Research Institutes, and determine the mandate of each one;
 	- **(b)** create an Advisory Board for each Health Research Institute and appoint the members of the Advisory Boards; and
 	- **(c)** appoint a Scientific Director for each Health Research Institute.
 
@@ -354,6 +372,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Appointments to Advisory Boards**
 
 - **(4)** The Governing Council shall appoint to the Advisory Boards women and men who are able to contribute to the achievement of the objective of the CIHR in the overall interests of Canadians. The Governing Council shall consider appointing women and men who reflect the highest standards of scientific excellence and a range of relevant backgrounds and disciplines, such as researchers in the fields of bio-medical research, clinical research and research respecting health systems, health services, the health of populations, societal and cultural dimensions of health and environmental influences on health.
+> 2000, c. 6, s. 20; 2018, c. 12, s. 255.
+
 
 
 
@@ -398,6 +418,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Acting President**
 
 - **(2)** In the event of the absence or incapacity of the President or a vacancy in that office, the Governing Council may authorize an officer of the CIHR to act as President, but no person may act as President for a period exceeding 90 days without the approval of the Governor in Council.
+> 2000, c. 6, s. 23; 2018, c. 12, s. 256(F).
+
 
 
 
