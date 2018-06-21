@@ -898,7 +898,7 @@ Schedules I and II shall be amended accordingly.
 
 **21** 
 
-- **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after March 29, 2019.
+- **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent.
 
 **Extension**
 
@@ -910,8 +910,8 @@ Schedules I and II shall be amended accordingly.
 
 **Exception — dissolution**
 
-- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
-> 1991, c. 46, s. 21; 1997, c. 15, s. 2; 1999, c. 28, s. 9; 2001, c. 9, s. 44; 2006, c. 4, s. 199; 2007, c. 6, s. 4; 2012, c. 5, s. 3; 2016, c. 7, s. 118.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 46, s. 21; 1997, c. 15, s. 2; 1999, c. 28, s. 9; 2001, c. 9, s. 44; 2006, c. 4, s. 199; 2007, c. 6, s. 4; 2012, c. 5, s. 3; 2016, c. 7, s. 118; 2018, c. 12, s. 355.
 
 
 
@@ -10288,8 +10288,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 		- **(i)** tickets, including lottery tickets, on a non-profit public service basis in connection with special, temporary and infrequent non-commercial celebrations or projects that are of local, municipal, provincial or national interest,
 		- **(ii)** urban transit tickets, and
 		- **(iii)** tickets in respect of a lottery sponsored by the federal government or a provincial or municipal government or an agency of any such government or governments;
-	- **(f)** act as a custodian of property; and
-	- **(g)** act as receiver, liquidator or sequestrator.
+	- **(f)** act as a custodian of property;
+	- **(g)** act as receiver, liquidator or sequestrator; and
+	- **(h)** provide identification, authentication or verification services.
 
 **Restriction**
 
@@ -10304,7 +10305,7 @@ but when a report required under paragraph (b) has been made in respect of loans
 		- **(ii)** the provision of services referred to in paragraph 409(2)(c), and
 		- **(iii)** the carrying on of the activities referred to in any of paragraphs (1)(c) to (c.2); and
 	- **(c)** respecting the circumstances in which banks may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(c) or (c.1).
-> 1991, c. 46, s. 410; 1993, c. 34, s. 8(F); 1997, c. 15, s. 42; 2001, c. 9, s. 100.
+> 1991, c. 46, s. 410; 1993, c. 34, s. 8(F); 1997, c. 15, s. 42; 2001, c. 9, s. 100; 2018, c. 12, s. 316.
 
 
 
@@ -15268,8 +15269,9 @@ but before making a further order the Superintendent shall provide the authorize
 		- **(i)** tickets, including lottery tickets, on a non-profit public service basis in connection with special, temporary and infrequent non-commercial celebrations or projects that are of local, municipal, provincial or national interest,
 		- **(ii)** urban transit tickets, and
 		- **(iii)** tickets in respect of a lottery sponsored by the federal government or a provincial or municipal government or an agency of any of those governments;
-	- **(e)** act as a custodian of property; and
-	- **(f)** act as receiver, liquidator or sequestrator.
+	- **(e)** act as a custodian of property;
+	- **(f)** act as receiver, liquidator or sequestrator; and
+	- **(g)** provide identification, authentication or verification services.
 
 **Restriction**
 
@@ -15284,7 +15286,7 @@ but before making a further order the Superintendent shall provide the authorize
 		- **(ii)** the provision of services referred to in paragraph 538(2)(c), and
 		- **(iii)** the carrying on of the activities referred to in any of paragraphs (1)(b.1) to (b.3); and
 	- **(c)** respecting the circumstances in which authorized foreign banks may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(b.1) or (b.2).
-> 1991, c. 46, s. 539; 1996, c. 6, s. 16; 1999, c. 28, s. 35; 2001, c. 9, s. 139; 2007, c. 6, s. 82.
+> 1991, c. 46, s. 539; 1996, c. 6, s. 16; 1999, c. 28, s. 35; 2001, c. 9, s. 139; 2007, c. 6, s. 82; 2018, c. 12, s. 324.
 
 
 
@@ -18120,7 +18122,7 @@ together with such other information about the background, business record and e
 
 **670** 
 
-- **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after March 29, 2019.
+- **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent.
 
 **Extension**
 
@@ -18132,8 +18134,8 @@ together with such other information about the background, business record and e
 
 **Exception — dissolution**
 
-- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), bank holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
-> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2006, c. 4, s. 199.1; 2007, c. 6, s. 105; 2012, c. 5, s. 77; 2016, c. 7, s. 119.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), bank holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2006, c. 4, s. 199.1; 2007, c. 6, s. 105; 2012, c. 5, s. 77; 2016, c. 7, s. 119; 2018, c. 12, s. 356.
 
 
 
@@ -24734,7 +24736,7 @@ together with such other information about the background, business record and e
 
 **Unauthorized name**
 
-- **(2)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every entity, other than a bank, that acquires, adopts or retains a name that includes the word “bank”, “banker” or “banking”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+- **(2)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every entity, other than a bank, that acquires, adopts or retains a name, a domain name or an identifying mark that includes the word “bank”, “banker” or “banking”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
 
 **Unauthorized name — “credit union” and “bank”**
 
@@ -24754,7 +24756,11 @@ together with such other information about the background, business record and e
 
 **Unauthorized use of word “bank”, “banker” or “banking”**
 
-- **(2.1)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who uses the word “bank”, “banker” or “banking” to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+- **(2.1)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who uses the word “bank”, “banker” or “banking”, without being authorized to do so by this Act or any other Act of Parliament, to indicate or describe a business in Canada or any part of a business in Canada, including any of its products or services or the means by which any of those products or services may be obtained, is guilty of an offence.
+
+**Unauthorized use of word “bank”, “banker” or “banking”**
+
+- **(2.11)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who, in respect of their own business, causes or authorizes another person to use the word “bank”, “banker” or “banking”, without being authorized to do so by this Act or any other Act of Parliament, to indicate or describe that business in Canada, or any part of that business in Canada, including any of its products or services or the means by which any of those products or services may be obtained, is guilty of an offence.
 
 **Unauthorized use of name or identifying mark of bank or foreign bank**
 
@@ -24800,7 +24806,28 @@ together with such other information about the background, business record and e
 
 **Permitted use**
 
-- **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark of that bank in carrying on its business.
+- **(4.2)** Subject to the regulations, no person commits an offence under subsection (2.1) or (2.11) if they meet the requirements set out in subsection (4.3) and they are
+	- **(a)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies;
+	- **(b)** a trust or loan corporation incorporated or formed by or under an Act of the legislature of a province;
+	- **(c)** a central cooperative credit society;
+	- **(d)** a local cooperative credit society;
+	- **(e)** a federation of cooperative credit societies;
+	- **(f)** the corporation known as “ATB Financial” and referred to in section 2 of the ATB Financial Act, chapter A-45.2 of the Revised Statutes of Alberta 2000, or a successor of that corporation; or
+	- **(g)** a prescribed entity.
+
+**Requirements**
+
+- **(4.3)** For the purposes of subsection (4.2), the requirements are the following:
+	- **(a)** subject to the regulations, the entity discloses
+		- **(i)** the type of entity it is, as described in any of paragraphs (4.2)(a) to (g) or in the regulations,
+		- **(ii)** the jurisdiction under whose laws the entity is primarily regulated,
+		- **(iii)** whether it participates in a deposit insurance system in Canada, and if so, the name of that system, and
+		- **(iv)** any other prescribed information; and
+	- **(b)** the entity complies with any prescribed requirements or conditions.
+
+**Permitted use**
+
+- **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark or domain name of that bank in carrying on its business.
 
 **Permitted use**
 
@@ -24884,7 +24911,8 @@ together with such other information about the background, business record and e
 
 - **(15)** For the purposes of this section, an identifying mark of an entity includes
 	- **(a)** any logogram, insignia or logo of the entity;
-	- **(b)** the initials or any acronym of the entity; and
+	- **(b)** the initials or any acronym of the entity;
+	- **(b.1)** any trademark of the entity; and
 	- **(c)** any mark that is substantially similar to any identifying mark of the entity.
 
 **Definition of foreign bank**
@@ -24897,8 +24925,8 @@ together with such other information about the background, business record and e
 
 **Regulations**
 
-- **(18)** The Governor in Council may make regulations for the purposes of subsections (1) to (3), paragraphs (4)(b), (g) and (h) and subsections (5.3), (8) and (9.1) to (11).
-> 2001, c. 9, s. 183; 2007, c. 6, s. 129; 2010, c. 12, s. 2093.
+- **(18)** The Governor in Council may make regulations for the purposes of subsections (1) to (3), paragraphs (4)(b), (g) and (h) and subsections (4.2), (4.3), (5.3), (8) and (9.1) to (11).
+> 2001, c. 9, s. 183; 2007, c. 6, s. 129; 2010, c. 12, s. 2093; 2018, c. 12, s. 352.
 
 
 
@@ -25010,6 +25038,55 @@ together with such other information about the background, business record and e
 
 - **(3)** If a bank or an authorized foreign bank or any director, officer, employee or agent of one does not comply with any applicable consumer provision, the Commissioner or any complainant may, in addition to any other right that that person has, apply to a court for an order directing the bank, authorized foreign bank, director, officer, employee or agent to comply with — or restraining the bank, authorized foreign bank, director, officer, employee or agent from acting in breach of — the consumer provision and, on the application, the court may so order and make any further order it thinks fit.
 > 2001, c. 9, s. 183; 2007, c. 6, s. 130.
+
+
+
+
+
+**Production of information and documents**
+
+**989.1** The Superintendent may direct an entity to provide him or her with the information or documents that he or she specifies if he or she is of the opinion that their production is necessary in order to be satisfied that the entity is meeting the requirements of subsection 983(4.3).
+> 2018, c. 12, s. 353.
+
+
+
+
+
+**Superintendent’s directions**
+
+**989.2** 
+
+- **(1)** If, in the opinion of the Superintendent, a person is acting in a manner that is prohibited by section 983, the Superintendent may direct the person to
+	- **(a)** cease or refrain from acting in that manner; and
+	- **(b)** perform the acts that in the opinion of the Superintendent are necessary to remedy the situation.
+
+**Opportunity for representations**
+
+- **(2)** Subject to subsection (3), no direction is to be issued to a person under subsection (1) unless the person is provided with a reasonable opportunity to make representations in respect of the matter.
+
+**Temporary direction**
+
+- **(3)** If, in the opinion of the Superintendent, the length of time required for representations to be made might be prejudicial to the public interest, the Superintendent may make a temporary direction with respect to the matters referred to in paragraphs (1)(a) and (b) having effect for a period of not more than 15 days.
+
+**Continued effect**
+
+- **(4)** A temporary direction under subsection (3) continues to have effect after the expiration of the 15-day period referred to in that subsection if no representations are made within that period or, if representations have been made, the Superintendent notifies the person that the Superintendent is not satisfied that there are sufficient grounds for revoking the direction.
+> 2018, c. 12, s. 353.
+
+
+
+
+
+**Court enforcement**
+
+**989.3** 
+
+- **(1)** If a person contravenes a direction made under subsection 989.2(1) or (3), the Superintendent may, in addition to any other action that may be taken under this Act or the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), apply to a court for an order requiring the person to comply with the direction, and on such application the court may so order and make any other order it thinks fit.
+
+**Appeal**
+
+- **(2)** An appeal from an order of a court under subsection (1) lies in the same manner, and to the same court, as an appeal from any other order of the court.
+> 2018, c. 12, s. 353.
 
 
 
