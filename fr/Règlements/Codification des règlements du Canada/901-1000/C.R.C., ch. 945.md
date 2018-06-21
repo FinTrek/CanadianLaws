@@ -681,12 +681,12 @@ doit remplir à l’égard de ce paiement ou de cet avantage une déclaration de
 
 - **(1)** Toute personne qui fait un versement à un résident du Canada à titre ou au titre
 	- **a)** d’un dividende ou d’un montant réputé, aux termes de la Loi, être un dividende (autre qu’un dividende qui est réputé avoir été payé à une personne en vertu de l’un des paragraphes 84(1) à (4) de la Loi lorsque, en vertu du paragraphe 84(8) de la Loi, ces paragraphes ne s’appliquent pas de façon que les dividendes soient réputés avoir été reçus par la personne),
-	- **b)** d’intérêts (sauf la partie de ceux-ci à laquelle s’applique l’un des paragraphes (4) à (4.2)) :
+	- **b)** d’intérêts (sauf la partie de ceux-ci à laquelle s’applique l’un des paragraphes (4) à (4.2)) :
 		- **(i)** sur une obligation pleinement nominative,
-		- **(ii)** à l’égard
-			- **(A)** d’argent prêté,
-			- **(B)** d’argent déposé, ou
-			- **(C)** de biens de quelque nature que ce soit déposés ou confiésà une société, association, organisation ou institution,
+		- **(ii)** à l’égard, selon le cas :
+			- **(A)** d’argent prêté à une société, association, organisation, institution, société de personnes ou fiducie,
+			- **(B)** d’argent déposé à une société, association, organisation, institution, société de personnes ou fiducie,
+			- **(C)** de biens de quelque nature que ce soit déposés ou confiés à une société, association, organisation, institution, société de personnes ou fiducie,
 		- **(iii)** à l’égard d’un compte chez un courtier de placement ou agent de change,
 		- **(iv)** versé par un assureur relativement à une police d’assurance ou à un contrat de rente, ou
 		- **(v)** sur une somme payable à titre de dédommagement pour l’expropriation d’un bien,
@@ -705,7 +705,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 
 - **(4.1)** La personne ou la société de personnes qui, au cours d’une année civile, est débitrice relativement à un titre de créance indexé auquel l’alinéa (1)b) s’applique doit remplir, sur le formulaire prescrit, pour chaque contribuable qui détient un intérêt dans la créance au cours de l’année, une déclaration de renseignements à l’égard du montant qui, si l’année en question était une année d’imposition du contribuable, serait inclus à titre d’intérêts sur la créance dans le calcul du revenu de celui-ci pour l’année.
 
-- **(4.2)** La personne ou la société de personnes qui, au cours d’une année civile, détient, à titre de mandataire ou d’agent d’un contribuable qui réside au Canada, un intérêt dans une créance visée à l’alinéa (1)b) qui est l’une des suivantes doit remplir, sur le formulaire prescrit, une déclaration de renseignements à l’égard du montant qui, si l’année en question était une année d’imposition du contribuable, serait inclus à titre d’intérêts sur la créance dans le calcul du revenu de celui-ci pour l’année :
+- **(4.2)** La personne ou la société de personnes qui, au cours d’une année civile, détient, à titre de mandataire ou d’agent d’un contribuable qui réside au Canada, un intérêt dans une créance visée à l’alinéa (1)b) qui est l’une des suivantes doit remplir, sur le formulaire prescrit, une déclaration de renseignements à l’égard du montant qui, si l’année en question était une année d’imposition du contribuable, serait inclus à titre d’intérêts sur la créance dans le calcul du revenu de celui-ci pour l’année :
 	- **a)** une créance à laquelle le paragraphe 12(4) de la Loi s’applique quant au contribuable;
 	- **b)** un titre de créance indexé.
 
@@ -717,11 +717,11 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 
 - **(6)** Toute personne qui, pour la disposition ou le rachat d’un titre de créance au porteur, fait un versement à un particulier résidant au Canada ou agit à titre d’agent ou de mandataire de ce dernier doit remplir une déclaration de renseignements sur le formulaire prescrit en indiquant notamment le produit de la disposition ou le montant du rachat.
 
-- **(7)** Pour l’application du paragraphe (6), ***titre de créance au porteur*** s’entend de tout titre de créance au porteur à l’exclusion :
+- **(7)** Pour l’application du paragraphe (6), ***titre de créance au porteur*** s’entend de tout titre de créance au porteur à l’exclusion :
 	- **a)** des titres de créance rachetés à leur prix d’émission;
 	- **b)** des créances visées à l’alinéa 7000(1)b);
 	- **c)** des coupons, titres ou chèques visés au paragraphe 207(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-939, art. 2; DORS/83-866, art. 2; DORS/83-867, art. 2; DORS/86-426, art. 1; DORS/86-1092, art. 1(F); DORS/88-165, art. 31(F); DORS/88-554, art. 1; DORS/91-123, art. 1; DORS/93-527, art. 1; DORS/94-686, art. 1(F), 78(F) et 79(F); DORS/96-283, art. 1; DORS/96-435, art. 1; DORS/2010-93, art. 1; 2013, ch. 40, art. 96; 2016, ch. 12, art. 74.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-939, art. 2; DORS/83-866, art. 2; DORS/83-867, art. 2; DORS/86-426, art. 1; DORS/86-1092, art. 1(F); DORS/88-165, art. 31(F); DORS/88-554, art. 1; DORS/91-123, art. 1; DORS/93-527, art. 1; DORS/94-686, art. 1(F), 78(F) et 79(F); DORS/96-283, art. 1; DORS/96-435, art. 1; DORS/2010-93, art. 1; 2013, ch. 40, art. 96; 2016, ch. 12, art. 74; 2018, ch. 12, art. 42.
 
 
 
@@ -1499,7 +1499,10 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(1)** Chacun des associés d’une société de personnes qui exploite une entreprise au Canada à un moment de son exercice, à l’exception d’un associé qui, par l’effet du paragraphe 115.2(2) de la Loi, n’est pas considéré comme exploitant une entreprise au Canada à ce moment, ou d’une société de personnes qui est, à un moment de son exercice, une société de personnes canadienne ou une société de personnes intermédiaire de placement déterminée, doit remplir pour cet exercice une déclaration de renseignements, sur le formulaire prescrit, contenant les renseignements suivants :
 	- **a)** le revenu ou la perte de la société de personnes pour l’exercice;
-	- **b)** le nom, l’adresse et, le cas échéant, le numéro d’assurance sociale de chaque associé qui a droit, pour l’exercice, à une part visée à l’alinéa c) ou d);
+	- **b)** relativement à chaque associé qui a droit, pour l’exercice, à une part visée aux alinéas c) ou d) :
+		- **(i)** son nom,
+		- **(ii)** son adresse,
+		- **(iii)** son numéro d’assurance sociale, numéro d’entreprise ou numéro de compte en fiducie, selon le cas;
 	- **c)** la part du revenu ou de la perte de la société de personnes revenant à chaque associé pour l’exercice;
 	- **d)** la part de chaque associé pour l’exercice quant aux déductions, crédits ou autres montants relatifs à la société de personnes pris en compte dans le calcul du revenu, du revenu imposable, de l’impôt payable ou de tout autre montant de l’associé en application de la Loi;
 	- **e)** les renseignements prescrits contenus dans le formulaire prescrit pour l’application du paragraphe 37(1) de la Loi, dans le cas où la société de personnes a fait une dépense pour activités de recherche scientifique et de développement expérimental au cours de l’exercice;
@@ -1511,17 +1514,17 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(4)** [Abrogé, DORS/93-443, art. 1]
 
-- **(5)** Sous réserve du paragraphe (6), la déclaration de renseignements est produite au ministre, sans avis ni mise en demeure :
+- **(5)** Sous réserve du paragraphe (6), la déclaration de renseignements est produite au ministre, sans avis ni mise en demeure :
 	- **a)** dans le cas d’un exercice d’une société de personnes dont tous les associés sont des sociétés tout au long de l’exercice, dans les cinq mois suivant la fin de l’exercice;
 	- **b)** dans le cas d’un exercice d’une société de personnes dont tous les associés sont des particuliers tout au long de l’exercice, au plus tard le 31 mars de l’année civile qui suit celle où se termine l’exercice ou celle dont la fin coïncide avec la fin de l’exercice;
-	- **c)** dans le cas de tout autre exercice de la société de personnes, au plus tard le premier en date des jours suivants :
+	- **c)** dans le cas de tout autre exercice de la société de personnes, au plus tard le premier en date des jours suivants :
 		- **(i)** le dernier jour du cinquième mois suivant la fin de l’exercice,
 		- **(ii)** le 31 mars de l’année civile qui suit celle où se termine l’exercice ou celle dont la fin coïncide avec la fin de l’exercice.
 
-- **(6)** Dans le cas où la société de personnes cesse d’exploiter son entreprise ou d’exercer ses activités, la déclaration de renseignements visée au présent article doit être produite pour tout ou partie de l’exercice qui précède la cessation et pour lequel une telle déclaration n’a pas encore été produite, au plus tard le premier en date des jours suivants :
+- **(6)** Dans le cas où la société de personnes cesse d’exploiter son entreprise ou d’exercer ses activités, la déclaration de renseignements visée au présent article doit être produite pour tout ou partie de l’exercice qui précède la cessation et pour lequel une telle déclaration n’a pas encore été produite, au plus tard le premier en date des jours suivants :
 	- **a)** le 90<sup>e</sup> jour suivant la date de cessation de l’entreprise ou des activités;
 	- **b)** la date limite de production visée au paragraphe (5).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F); 2007, ch. 29, art. 30; 2013, ch. 34, art. 377.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F); 2007, ch. 29, art. 30; 2013, ch. 34, art. 377; 2018, ch. 12, art. 43.
 
 
 
@@ -9357,8 +9360,8 @@ les reçus officiels peuvent porter une signature autographiée.
 ### Universités à l’extérieur du Canada
 
 
-**3503** Pour l’application du sous-alinéa a)(iv) de la définition de ***donataire reconnu*** au paragraphe 149.1(1) de la Loi, les universités situées à l’étranger qui comptent d’ordinaire parmi leurs étudiants des étudiants venant du Canada sont celles qui sont visées à l’annexe VIII.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-411, art. 1; DORS/94-686, art. 51(F); 2011, ch. 24, art. 83.
+**3503** [Abrogé, 2018, ch. 12, art. 44]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-411, art. 1; DORS/94-686, art. 51(F); 2011, ch. 24, art. 83; 2018, ch. 12, art. 44.
 
 
 
@@ -20042,7 +20045,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 **q)** un bâtiment ou une autre construction, ou toute partie de ceux-ci, y compris les parties constituantes notamment les fils électriques, la plomberie, les réseaux d’extinction automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers roulants (à l’exception des biens visés à l’un des alinéas k) et m) à p) de la présente catégorie ou à l’un des alinéas a) à e) de la catégorie 8).
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 10; DORS/97-377, art. 6; DORS/2005-371, art. 7; DORS/2006-117, art. 8; DORS/2010-93, art. 27(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 10; DORS/97-377, art. 6; DORS/2005-371, art. 7; DORS/2006-117, art. 8; DORS/2010-93, art. 27(F).
 
 
 
@@ -20115,7 +20118,7 @@ acquis par le contribuable
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-427, art. 2; DORS/85-270, art. 1; DORS/86-1092, art. 19(F) et 20; DORS/90-22, art. 11..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-427, art. 2; DORS/85-270, art. 1; DORS/86-1092, art. 19(F) et 20; DORS/90-22, art. 11.
 
 
 
@@ -20216,7 +20219,7 @@ dans la mesure où le coût total du rajout ou de la modification ne dépasse pa
 **l)** un bien accessoire à un fil ou à un câble visés à l’alinéa j) ou à la catégorie 42, à savoir du matériel de soutien tel un poteau, un mât, un pylône, un conduit, une entretoise, une traverse, un hauban ou un isolateur.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 2; DORS/90-22, art. 12; DORS/94-140, art. 17..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-949, art. 2; DORS/90-22, art. 12; DORS/94-140, art. 17.
 
 
 
@@ -20379,7 +20382,7 @@ l’installation de la semelle de l’édifice ou d’un autre genre d’appui e
 **k)** un rajout ou une modification fait après 1978 à un édifice compris dans la présente catégorie selon le sous-alinéa a)(viii), pourvu que le coût total de ces rajouts ou modifications ne dépasse pas 100 000 $.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 3; DORS/94-140, art. 18; DORS/2009-126, art. 5..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-949, art. 3; DORS/94-140, art. 18; DORS/2009-126, art. 5.
 
 
 
@@ -20460,7 +20463,7 @@ Les biens constitués par
 **k)** le matériel de pompage ou de compression acquis après le 25 février 2008, y compris ses appareils auxiliaires, qui fait partie d’un pipeline et qui sert à pomper ou à comprimer le dioxyde de carbone en vue de son transport au moyen du pipeline.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8; DORS/2006-117, art. 9; DORS/2009-126, art. 6..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 13; DORS/2005-371, art. 8; DORS/2006-117, art. 9; DORS/2009-126, art. 6.
 
 
 
@@ -20597,7 +20600,7 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont con
 **m)** une serre à structure rigide recouverte de plastique souple et remplaçable.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/80-881, art. 1; DORS/80-926, art. 3(F); DORS/85-853, art. 1; DORS/90-22, art. 14; DORS/94-140, art. 19; DORS/97-377, art. 7; DORS/99-179, art. 12; DORS/2005-371, art. 9..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-881, art. 1; DORS/80-926, art. 3(F); DORS/85-853, art. 1; DORS/90-22, art. 14; DORS/94-140, art. 19; DORS/97-377, art. 7; DORS/99-179, art. 12; DORS/2005-371, art. 9.
 
 
 
@@ -20961,7 +20964,7 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 **y)** une locomotive de chemin de fer qui n’est pas une voiture de chemin de fer automobile et qui n’a pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; 2010, ch. 25, art. 88; DORS/2010-93, art. 28(F); DORS/2011-9, art. 6; 2013, ch. 40, art. 116..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; 2010, ch. 25, art. 88; DORS/2010-93, art. 28(F); DORS/2011-9, art. 6; 2013, ch. 40, art. 116.
 
 
 
@@ -20969,7 +20972,7 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 **CATÉGORIE 10.1** 
 
 Les biens — voitures de tourisme dont le coût individuel, pour le contribuable, dépasse 20 000 $ ou tout autre montant qui peut être fixé pour l’application du paragraphe 13(2) de la Loi — qui autrement seraient compris dans la catégorie 10.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/91-673, art. 5..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 5.
 
 
 
@@ -21002,7 +21005,7 @@ Les biens non compris dans aucune autre catégorie, qui servent à gagner un rev
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 16..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 16.
 
 
 
@@ -21143,7 +21146,7 @@ ainsi que les biens qui seraient compris par ailleurs dans une autre catégorie 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F); DORS/2005-126, art. 7; DORS/2010-93, art. 29; DORS/2011-187, art. 2..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F); DORS/2005-126, art. 7; DORS/2010-93, art. 29; DORS/2011-187, art. 2.
 
 
 
@@ -21163,7 +21166,7 @@ Les biens qui sont des tenures à bail et les biens acquis par un contribuable q
 **c)** un bien compris dans la catégorie 23.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 21..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 21.
 
 
 
@@ -21191,7 +21194,7 @@ Les biens constitués par un brevet, une concession ou un permis de durée limit
 **e)** un bien compris dans la catégorie 44.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/83-855, art. 2; DORS/94-170, art. 4..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-855, art. 2; DORS/94-170, art. 4.
 
 
 
@@ -21242,7 +21245,7 @@ Les biens d’un contribuable qui sont relatifs à une entreprise du contribuabl
 **(viii)** les intérêts ou, pour l’application du droit civil, les droits, sur les biens visés aux sous-alinéas (i) à (vii), ou les droits d’acquérir de tels biens.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] 2016, ch. 12, art. 84..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2016, ch. 12, art. 84.
 
 
 
@@ -21272,7 +21275,7 @@ Sont exclus de la présente catégorie :
 **d)** les avoirs forestiers.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 22..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 22.
 
 
 
@@ -21337,7 +21340,7 @@ et les biens acquis après le 6 décembre 1991, constitués par :
 **g)** un camion ou un tracteur conçus pour transporter des marchandises et utilisés principalement à cette fin par le contribuable ou une personne avec laquelle il a un lien de dépendance dans le cadre d’une entreprise qui consiste notamment à transporter des marchandises, et dont le « poids nominal brut du véhicule », au sens du paragraphe 2(1) du [Règlement sur la sécurité des véhicules automobiles](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201038.md), dépasse 11 788 kg.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/83-340, art. 4; DORS/85-696, art. 21; DORS/91-673, art. 6; DORS/94-140, art. 23; DORS/94-686, art. 66(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-340, art. 4; DORS/85-696, art. 21; DORS/91-673, art. 6; DORS/94-140, art. 23; DORS/94-686, art. 66(F).
 
 
 
@@ -21390,7 +21393,7 @@ ainsi que les biens ci-après qui ont été acquis après le 25 mai 1976 et ne s
 **c)** une route (sauf une route d’accès temporaire déterminée du contribuable), un trottoir, une piste d’envol, une aire de stationnement ou d’entreposage ou une construction de surface semblable.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/99-179, art. 13; DORS/2005-371, art. 10; DORS/2006-117, art. 10; DORS/2010-93, art. 30(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-179, art. 13; DORS/2005-371, art. 10; DORS/2006-117, art. 10; DORS/2010-93, art. 30(F).
 
 
 
@@ -21407,7 +21410,7 @@ Les biens constitués d’un film cinématographique acquis avant le 26 mai 1976
 **b)** d’un long métrage portant visa.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/95-244, art. 9(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 9(F).
 
 
 
@@ -21483,7 +21486,7 @@ n’était pas inférieur aux 2/3 du montant par lequel le revenu brut tiré de 
 **c)** les biens n’avaient pas été utilisés à quelque fin que ce soit avant d’être acquis par le contribuable.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48, 79(F) et 81(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48, 79(F) et 81(F).
 
 
 
@@ -21543,7 +21546,7 @@ et qui, suivant l’attestation du ministre de l’Industrie, sur demande faite 
 **b)** dont le coût en capital a été inclus dans le coût approuvé d’immobilisation défini dans la Loi stimulant le développement de certaines régions sur lequel coût approuvé d’immobilisation le montant d’un octroi en vertu de cette Loi a été fondé par le ministre de l’Industrie.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48; DORS/2010-93, art. 31(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2010-93, art. 31(F).
 
 
 
@@ -21567,7 +21570,7 @@ Les biens qui seraient autrement compris dans la catégorie 8 ou 19
 **b)** dont le coût en capital a été inclus dans le coût approuvé d’immobilisation défini dans la Loi stimulant le développement de certaines régions sur lequel coût approuvé d’immobilisation le montant d’un octroi en vertu de cette Loi a été fondé par le ministre de l’Industrie.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48 et 81(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48 et 81(F).
 
 
 
@@ -21591,7 +21594,7 @@ Les biens qui sont du matériel mobile à moteur conçu pour l’excavation, le 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-426, art. 6; DORS/90-22, art. 17..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-426, art. 6; DORS/90-22, art. 17.
 
 
 
@@ -21616,7 +21619,7 @@ Les biens constitués par
 **d)** un bâtiment ou autre structure, y compris les parties constituantes, érigé sur le terrain faisant l’objet d’une tenure à bail ou d’un permis prévu à l’alinéa c), dans les cas où le bâtiment ou la structure, y compris les parties constituantes, a un caractère provisoire et devra, en vertu de la convention, être enlevé au plus tard le 31 janvier 1987.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/85-13, art. 2; DORS/94-686, art. 79(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-13, art. 2; DORS/94-686, art. 79(F).
 
 
 
@@ -21752,7 +21755,7 @@ Pour l’application des alinéas a) et b) :
 **e)** il est fait abstraction du sous-alinéa b)(i) si les alinéas c) ou d) s’appliquent au contribuable et si les biens ont été acquis avant 1992.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-146, art. 1; DORS/79-426, art. 7; DORS/94-140, art. 24; DORS/94-686, art. 79(F); DORS/97-377, art. 8; DORS/2010-93, art. 32(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-146, art. 1; DORS/79-426, art. 7; DORS/94-140, art. 24; DORS/94-686, art. 79(F); DORS/97-377, art. 8; DORS/2010-93, art. 32(F).
 
 
 
@@ -21781,7 +21784,7 @@ si le contribuable était, le 22 octobre 1968, une société, une commission ou 
 **d)** se serait appliqué si ce n’était du sous-alinéa (i) ou (ii) dudit alinéa.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48 et 79(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48 et 79(F).
 
 
 
@@ -21798,7 +21801,7 @@ Les biens constitués par
 **b)** l’eau enrichie au deutérium (communément appelée « l’eau lourde » acquis après le 22 mai 1979.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-427, art. 3..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-427, art. 3.
 
 
 
@@ -21890,7 +21893,7 @@ Pour l’application des alinéas a) à d) :
 **g)** il est fait abstraction de l’alinéa a) si les alinéas e) ou f) s’appliquent au contribuable et si les biens ont été acquis avant 1992.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-146, art. 2; DORS/79-426, art. 8; DORS/94-140, art. 25; DORS/94-686, art. 45(F) et 79(F); DORS/97-377, art. 9; DORS/2010-93, art. 33(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-146, art. 2; DORS/79-426, art. 8; DORS/94-140, art. 25; DORS/94-686, art. 45(F) et 79(F); DORS/97-377, art. 9; DORS/2010-93, art. 33(F).
 
 
 
@@ -22002,7 +22005,7 @@ et d’autre part :
 ou qui seraient visés aux alinéas b), c), d) et e) si, à ces alinéas, la mention de « mine » valait mention de « mine située dans un gisement de sables bitumineux, de sables pétrolifères ou de schistes bitumineux dont des matières sont extraites » et la mention « après le 7 novembre 1969 » valait mention de « avant le 8 novembre 1969 ».
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 8; DORS/80-926, art. 5; DORS/90-22, art. 18; DORS/94-140, art. 26; DORS/2000-327, art. 5..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 8; DORS/80-926, art. 5; DORS/90-22, art. 18; DORS/94-140, art. 26; DORS/2000-327, art. 5.
 
 
 
@@ -22114,7 +22117,7 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14; DORS/2009-115, art. 5; DORS/2009-126, art. 8; 2011, ch. 24, art. 100; 2013, ch. 33, art. 40..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14; DORS/2009-115, art. 5; DORS/2009-126, art. 8; 2011, ch. 24, art. 100; 2013, ch. 33, art. 40.
 
 
 
@@ -22166,7 +22169,7 @@ Les biens ci-après d’un contribuable :
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 20; 2010, c. 25, art. 89..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 20; 2010, c. 25, art. 89.
 
 
 
@@ -22243,7 +22246,7 @@ et qui a été acquis par le contribuable :
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-146, art. 3; DORS/79-426, art. 9; DORS/81-244, art. 3; DORS/82-1070, art. 1; DORS/90-22, art. 21..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-146, art. 3; DORS/79-426, art. 9; DORS/81-244, art. 3; DORS/82-1070, art. 1; DORS/90-22, art. 21.
 
 
 
@@ -22268,7 +22271,7 @@ Un bien qui est un immeuble résidentiel à logements multiples au Canada, qui a
 **b)** au plus 20 pour cent de l’aire de plancher est utilisée pour une fin autre que celles visées au sous-alinéa a)(ii).
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 4..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-949, art. 4.
 
 
 
@@ -22475,7 +22478,7 @@ mais sans comprendre
 **k)** des biens relativement auxquels aucun certificat n’a été délivré en application des alinéas d) ou g) avant la fin de 1995 ou, s’il est postérieur, le moment qui tombe deux ans après l’acquisition des biens par le contribuable ou, s’il s’agit de biens acquis dans les circonstances visées à l’alinéa j), deux ans après que leur construction est achevée en grande partie.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/80-114, art. 1; DORS/80-935, art. 2; DORS/82-265, art. 6(F); DORS/84-454, art. 3; DORS/85-853, art. 2; DORS/87-667, art. 1; DORS/90-22, art. 22; DORS/94-686, art. 66(F) et 77(F); DORS/97-377, art. 10..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-114, art. 1; DORS/80-935, art. 2; DORS/82-265, art. 6(F); DORS/84-454, art. 3; DORS/85-853, art. 2; DORS/87-667, art. 1; DORS/90-22, art. 22; DORS/94-686, art. 66(F) et 77(F); DORS/97-377, art. 10.
 
 
 
@@ -22491,7 +22494,7 @@ Les biens non compris dans une autre catégorie qui sont :
 **b)** des dispositifs de suspension sur rails conçus pour transporter des remorques conçues pour être utilisées sur route et sur rail.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 27..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 27.
 
 
 
@@ -22499,7 +22502,7 @@ Les biens non compris dans une autre catégorie qui sont :
 **CATÉGORIE 36** 
 
 Les biens acquis après le 11 décembre 1979 qui sont réputés être des biens amortissables en vertu de l’alinéa 13(5.2)c) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/82-265, art. 6..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-265, art. 6.
 
 
 
@@ -22548,7 +22551,7 @@ Les biens qui seraient autrement compris dans une autre catégorie de la présen
 et tout bien non compris dans une autre catégorie de la présente annexe qui est un cours d’eau ou un ouvrage conçu pour l’amélioration du terrain (autre que l’aménagement paysager, le creusage ou le nivelage de terrain), servant à un parc d’attraction.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/82-265, art. 6..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-265, art. 6.
 
 
 
@@ -22556,7 +22559,7 @@ et tout bien non compris dans une autre catégorie de la présente annexe qui es
 **CATÉGORIE 38** 
 
 Les biens non compris dans la catégorie 22 mais qui seraient compris par ailleurs dans cette catégorie s’il était fait abstraction de ses alinéas a) et b).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 23.
 
 
 
@@ -22564,7 +22567,7 @@ Les biens non compris dans la catégorie 22 mais qui seraient compris par ailleu
 **CATÉGORIE 39** 
 
 Les biens acquis après 1987 et avant le 26 février 1992 qui ne sont pas compris dans la catégorie 29, mais qui y seraient compris par ailleurs en l’absence de ses sous-alinéas b)(iii) et (v) et de son alinéa c).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 10..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 23; DORS/94-169, art. 10.
 
 
 
@@ -22572,7 +22575,7 @@ Les biens acquis après 1987 et avant le 26 février 1992 qui ne sont pas compri
 **CATÉGORIE 40** 
 
 Les biens acquis après 1987 et avant 1990 qui sont des chariots élévateurs industriels à moteur ou des biens visés à l’alinéa b) ou f) de la catégorie 10, qui ne sont pas compris dans la catégorie 29 mais seraient compris par ailleurs dans cette catégorie s’il était fait abstraction de son alinéa c).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 23.
 
 
 
@@ -22757,7 +22760,7 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11; DORS/2009-115, art. 6; DORS/2011-9, art. 7; DORS/2011-195, art. 9(F); 2013, ch. 40, art. 117..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11; DORS/2009-115, art. 6; DORS/2011-9, art. 7; DORS/2011-195, art. 9(F); 2013, ch. 40, art. 117.
 
 
 
@@ -22773,7 +22776,7 @@ Les biens de sables bitumineux (sauf les biens de sables bitumineux déterminés
 **b)** sont acquis par un contribuable après 2015 et qui, s’ils avaient été acquis avant le 19 mars 2007, auraient été compris dans la catégorie 41.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2011-9, art. 8..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2011-9, art. 8.
 
 
 
@@ -22789,7 +22792,7 @@ Les biens (sauf les biens de sables bitumineux et les biens admissibles liés à
 **b)** qui sont acquis par un contribuable après 2020 et qui seraient visés aux alinéas a) ou a.1) de la catégorie 41 s’ils étaient acquis le 20 mars 2013.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] 2013, ch. 40, art. 118..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 40, art. 118.
 
 
 
@@ -22805,7 +22808,7 @@ Les biens constitués par :
 **b)** de l’équipement téléphonique, télégraphique ou de transmission de données qui consiste en des fils ou des câbles, autre que des câbles de fibres optiques inclus dans la présente catégorie en vertu de l’alinéa a), acquis après le 22 février 2005, et qui n’ont pas été utilisés, ni achetés pour être utilisés, à quelque fin que ce soit avant le 23 février 2005.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 28; DORS/2006-117, art. 11..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 28; DORS/2006-117, art. 11.
 
 
 
@@ -22829,7 +22832,7 @@ Les biens acquis après le 25 février 1992 qui, selon le cas :
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-169, art. 12; DORS/97-377, art. 12; 2015, ch. 36, art. 25..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-169, art. 12; DORS/97-377, art. 12; 2015, ch. 36, art. 25.
 
 
 
@@ -23181,14 +23184,14 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90; 2017, ch. 33, art. 104..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90; 2017, ch. 33, art. 104.
 
 
 
 
 **CATÉGORIE 43.2** 
 
-Les biens acquis après le 22 février 2005 et avant 2020 (sauf les biens qui, avant leur acquisition, ont été inclus dans une autre catégorie par un contribuable) qui seraient compris par ailleurs dans la catégorie 43.1 :
+Les biens acquis après le 22 février 2005 et avant 2025 (sauf les biens qui, avant leur acquisition, ont été inclus dans une autre catégorie par un contribuable) qui seraient compris par ailleurs dans la catégorie 43.1 :
 
 **a)** si le passage « 6 000 BTU » à la division c)(i)(B) de cette catégorie était remplacé par « 4 750 BTU »;
 
@@ -23197,7 +23200,7 @@ Les biens acquis après le 22 février 2005 et avant 2020 (sauf les biens qui, a
 **b)** par l’effet de l’alinéa d) de cette catégorie.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 13; DORS/2009-115, art. 8..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 13; DORS/2009-115, art. 8; 2018, ch. 12, art. 45.
 
 
 
@@ -23205,7 +23208,7 @@ Les biens acquis après le 22 février 2005 et avant 2020 (sauf les biens qui, a
 **CATÉGORIE 44** 
 
 Les biens constitués par un brevet ou par un droit permettant l’utilisation de renseignements brevetés pour une durée limitée ou non.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-170, art. 5..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-170, art. 5.
 
 
 
@@ -23229,7 +23232,7 @@ Les biens acquis après le 22 mars 2004 et avant le 19 mars 2007 (sauf ceux acqu
 **d)** de matériel de traitement de l’information, à moins qu’il ne s’ajoute au matériel électronique universel de traitement de l’information.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2005-414, art. 6; DORS/2009-115, art. 9; DORS/2010-93, art. 35(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-414, art. 6; DORS/2009-115, art. 9; DORS/2010-93, art. 35(F).
 
 
 
@@ -23237,7 +23240,7 @@ Les biens acquis après le 22 mars 2004 et avant le 19 mars 2007 (sauf ceux acqu
 **CATÉGORIE 46** 
 
 Les biens acquis après le 22 mars 2004 qui sont constitués de matériel d’infrastructure pour réseaux de données et de logiciels d’exploitation pour ce matériel et qui, en l’absence de la présente catégorie, seraient compris dans la catégorie 8 par l’effet de son alinéa i).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2005-414, art. 6; DORS/2010-93, art. 36(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-414, art. 6; DORS/2010-93, art. 36(F).
 
 
 
@@ -23273,7 +23276,7 @@ Les biens ci-après :
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14; DORS/2009-115, art. 10..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 14; DORS/2009-115, art. 10.
 
 
 
@@ -23293,7 +23296,7 @@ Les biens acquis après le 22 février 2005 qui constituent des turbines de comb
 **c)** des biens qui ont été utilisés ou acquis en vue d’être utilisés à une fin quelconque par un contribuable avant le 23 février 2005.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 14.
 
 
 
@@ -23333,7 +23336,7 @@ Les biens qui constituent un pipeline, y compris les appareils de contrôle et d
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14; DORS/2009-126, art. 9..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 14; DORS/2009-126, art. 9.
 
 
 
@@ -23357,7 +23360,7 @@ Les biens acquis après le 18 mars 2007 qui sont constitués de matériel élect
 **d)** de matériel de traitement de l’information, à moins qu’il ne s’ajoute au matériel électronique universel de traitement de l’information.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-115, art. 11; DORS/2009-126, art. 10; DORS/2010-93, art. 37(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-115, art. 11; DORS/2009-126, art. 10; DORS/2010-93, art. 37(F).
 
 
 
@@ -23377,7 +23380,7 @@ Les biens acquis après le 18 mars 2007 qui sont constitués par des pipelines, 
 **c)** les bâtiments et autres constructions.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-115, art. 11..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-115, art. 11.
 
 
 
@@ -23425,7 +23428,7 @@ Les biens acquis par un contribuable après le 27 janvier 2009 et avant février
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-126, art. 11; DORS/2009-155, art. 1..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-126, art. 11; DORS/2009-155, art. 1.
 
 
 
@@ -51391,635 +51394,8 @@ par
 
 
 ### **ANNEXE VIII** 
-**(article 3503)**
-## Universités à l’extérieur du Canada
-**1** Les universités situées aux États-Unis qui sont prescrites par l’article 3503 sont les suivantes :
-- Abilene Christian University, Abilene, Texas
-- Academy of the New Church, The, Bryn Athyn, Pennsylvanie
-- Adams State College, Alamosa, Colorado
-- Adler School of Professional Psychology, Chicago, Illinois
-- Albany College of Pharmacy and Health Sciences, Albany, New York
-- Alfred University, Alfred, New York
-- American Film Institute Center for Advanced Film and Television Studies, Los Angeles, Californie
-- American Film Institute, Los Angeles, Californie
-- American International College, Springfield, Massachussetts
-- American Jewish University, Bel Air, Californie
-- American University, The, Washington, District de Columbia
-- American University in Cairo, The, New York, New York
-- Amherst College, Amherst, Massachusetts
-- Anabaptist Mennonite Biblical Seminary, Elkhart, Indiana
-- Anderson College, Anderson, Caroline du Sud
-- Andover Newton Theological School, Newton Centre, Massachusetts
-- Andrews University, Berrien Springs, Michigan
-- Antioch College, Yellow Springs, Ohio
-- Arizona State University, Tempe, Arizona
-- Asbury Theological Seminary, Wilmore, Kentucky
-- Atlantic Union College, South Lancaster, Massachussetts
-- Aurora University, Aurora, Illinois
-- Azusa Pacific College, Azusa, Californie
-- Babson College, Babson Park, Massachusetts
-- Bacone College, Muskogee, Oklahoma
-- Bard College, Annandale-on-Hudson, New York
-- Barnard College, New York, New York
-- Bastyr University, Seattle, Washington
-- Bates College, Lewiston, Maine
-- Baylor College of Medicine, Houston, Texas
-- Baylor University, Waco, Texas
-- Bemidji State University, Bemidji, Minnesota
-- Bentley College, Waltham, Massachusetts
-- Berklee College of Music, Boston, Massachusetts
-- Beth Medrash Govoha, Lakewood, New Jersey
-- Biola University, La Mirada, Californie
-- Bob Jones University, Greenville, Caroline du Sud
-- Boston University, Boston, Massachusetts
-- Bowdoin College, Brunswick, Maine
-- Bowling Green State University, Bowling Green, Ohio
-- Brandeis University, Waltham, Massachusetts
-- Brigham Young University — Hawaii Campus, Laie, Hawaii
-- Brigham Young University — Idaho, Rexburg, Idaho
-- Brigham Young University, Provo, Utah
-- Brown University, Providence, Rhode Island
-- Bryn Mawr College, Bryn Mawr, Pennsylvanie
-- Bucknell University, Lewisburg, Pennsylvanie
-- California College of the Arts, San Francisco, Californie
-- California Institute of Technology, Pasadena, Californie
-- California Institute of the Arts, Valencia, Californie
-- California Lutheran University, Thousand Oaks, Californie
-- Calvin College, Grand Rapids, Michigan
-- Calvin Theological Seminary, Grand Rapids, Michigan
-- Canisius College, Buffalo, New York
-- Carleton College, Northfield, Minnesota
-- Carnegie-Mellon University, Pittsburgh, Pennsylvanie
-- Carroll College, Helena, Montana
-- Case Western Reserve University, Cleveland, Ohio
-- Catholic University of America, The, Washington, District de Columbia
-- Cedarville College, Cedarville, Ohio
-- Centenary College, Hackettstown, New Jersey
-- Central Michigan University, Mount Pleasant, Michigan
-- Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
-- Christendom College, Front Royal, Virginie
-- City University of New York, The, John Jay College of Criminal Justice, New York, New York
-- City University of Seattle, Bellevue, Washington
-- Claremont McKenna College, Claremont, Californie
-- Clark University, Worcester, Massachusetts
-- Clarkson University, Potsdam, New York
-- Colby College, Waterville, Maine
-- Colby-Sawyer College, New London, New Hampshire
-- Colgate — Rochester Divinity School, The, Rochester, New York
-- Colgate University, Hamilton, New York
-- College of William and Mary, Williamsburg, Virginie
-- Colorado College, The, Colorado Springs, Colorado
-- Colorado School of Mines, Golden, Colorado
-- Colorado State University, Fort Collins, Colorado
-- Columbia International University, Columbia, Caroline du Sud
-- Columbia Union College, Takoma Park, Maryland
-- Columbia University in the City of New York, New York, New York
-- Concordia College, Moorhead, Minnesota
-- Concordia University, Mequon, Wisconsin
-- Connecticut College, New London, Connecticut
-- Conway School of Landscape Design, Conway, Massachusetts
-- Cooper Union for the Advancement of Science and Art, The, New York, New York
-- Cornell University, Ithaca, New York
-- Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
-- Covenant College, Lookout Mountain, Tennessee
-- Cranbrook Academy of Art, Bloomfield Hills, Michigan
-- Creighton University, Omaha, Nebraska
-- Curtis Institute of Music, The, Philadelphie, Pennsylvanie
-- Dallas Theological Seminary, Dallas, Texas
-- Dartmouth College, Hanover, New Hampshire
-- Denison University, Granville, Ohio
-- De Paul University, Chicago, Illinois
-- Dordt College, Sioux Centre, Iowa
-- Drake University, Des Moines, Iowa
-- Drew University, Madison, New Jersey
-- Drury College, Springfield, Missouri
-- Duke University, Durham, Caroline du Nord
-- Duquesne University, Pittsburgh, Pennsylvanie
-- D’Youville College, Buffalo, New York
-- Eastern College, St. Davids, Pennsylvanie
-- Eastern Mennonite University, Harrisonburg, Virginie
-- Eastern Washington University, Cheney, Washington
-- Eckerd College, St. Petersburg, Floride
-- Ecumenical Theological Center, Detroit, Michigan
-- Elmira College, Elmira, New York
-- Embry-Riddle Aeronautical University, Daytona Beach, Floride
-- Emerson College, Boston, Massachusetts
-- Emmanuel School of Religion, Johnson City, Tennessee
-- Emmaus Bible College, Dubuque, Iowa
-- Emory University, Atlanta, Géorgie
-- Emporia State University, Emporia, Kansas
-- Fairleigh Dickinson University, Teaneck, New Jersey
-- Ferris State University, Big Rapids, Michigan
-- Finlandia University, Hancock, Michigan
-- Florida Atlantic University, Boca Raton, Floride
-- Florida Gulf Coast University, Fort Myers, Floride
-- Florida State University, Tallahassee, Floride
-- Fordham University, New York, New York
-- Franciscan University of Steubenville, Steubenville, Ohio
-- Freed-Hardeman University, Henderson, Tennessee
-- Fresno Pacific College, Fresno, Californie
-- Fuller Theological Seminary, Pasadena, Californie
-- Gallaudet College, Washington, District de Columbia
-- Geneva College, Beaver Falls, Pennsylvanie
-- Georgetown University, Washington, district de Columbia
-- George Washington University, The, Washington, District de Columbia
-- Georgia Institute of Technology, Atlanta, Georgie
-- Goddard College, Plainfield, Vermont
-- God’s Bible School and College, Cincinnati, Ohio
-- Gonzaga University, Spokane, Washington
-- Gordon College, Wenham, Massachusetts
-- Gordon-Conwell Theological Seminary, South Hamilton, Massachusetts
-- Goshen College, Goshen, Indiana
-- Grace University, Omaha, Nebraska
-- Graceland College, Lamoni, Iowa
-- Greenville College, Greenville, Illinois
-- Grinnel College, Grinnell, Iowa
-- Hamilton College, Clinton, New York
-- Hampshire College, Amherst, Massachusetts
-- Harvard University, Cambridge, Massachusetts
-- Haverford College, Haverford, Pennsylvanie
-- Hawaii Pacific University, Honolulu , Hawaii
-- Hebrew Union College — Jewish Institute of Religion, Cincinnati, Ohio
-- Hillsdale College, Hillsdale, Michigan
-- Hobart and William Smith Colleges, Geneva, New York
-- Holy Trinity Orthodox Seminary, The, Jordanville, New York
-- Hope College, Holland, Michigan
-- Houghton College, Houghton, New York
-- Howard University, Washington, district de Columbia
-- Huntington University, Huntington, Indiana
-- Idaho State University, Pocatello, Idaho
-- Illinois Institute of Technology, Chicago, Illinois
-- Illinois State University, Normal, Illinois
-- Indiana University, Bloomington, Indiana
-- Iowa State University of Science and Technology, Ames, Iowa
-- Ithaca College, Ithaca, New York
-- Jacksonville State University, Jacksonville, Alabama
-- Jamestown College, Jamestown, Dakota du Nord
-- Jewish Theological Seminary of America, The, New York, New York
-- John Brown University, Siloam Springs, Arkansas
-- Johns Hopkins University, The, Baltimore, Maryland
-- Juilliard School, The, New York, New York
-- Kansas State University, Manhattan, Kansas
-- Kent State University, Kent, Ohio
-- Kenyon College, Gambier, Ohio
-- Kettering University, Flint, Michigan
-- Kuyper College, Grand Rapids, Michigan
-- Lafayette College, Easton, Pennsylvanie
-- Lake Superior State University, Sault Ste-Marie, Michigan
-- Lawrence Technological University, Southfield, Michigan
-- Lehigh University, Bethlehem, Pennsylvanie
-- Leland Stanford Junior University (Stanford University), Stanford, Californie
-- Le Moyne College, Syracuse, New York
-- LeTourneau College, Longview, Texas
-- Liberty University, Lynchburg, Virginie
-- Life Chiropractic College West, Hayward, Californie
-- Life University, Marietta, Georgie
-- Limestone College, Gaffney, Caroline du Sud
-- Logan College of Chiropractic, Saint-Louis, Missouri
-- Loma Linda University, Loma Linda, Californie
-- Louisiana State University and Agricultural and Mechanical College, Baton Rouge, Louisiane
-- Loyola Marymount University, Los Angeles, Californie
-- Loyola University, Chicago, Illinois
-- Macalester College, St. Paul, Minnesota
-- Magdalen College, Warner, New Hampshire
-- Maharishi University of Management, Fairfield, Iowa
-- Manchester College, North Manchester, Indiana
-- Manhattanville College, Purchase, New York
-- Mankato State University, Mankato, Minnesota
-- Maranatha Baptist Bible College, Watertown, Wisconsin
-- Marian University, Fond du Lac, Wisconsin
-- Marquette University, Milwaukee, Wisconsin
-- Massachusetts Institute of Technology, Cambridge, Massachusetts
-- Mayo Foundation, Rochester, Minnesota
-- Mayo Graduate School of Medicine, Rochester, Minnesota
-- Meadville-Lombard Theological School, Chicago, Illinois
-- Medaille College, Buffalo, New York
-- Medical College of Ohio, Toledo, Ohio
-- Medical University of South Carolina, Charleston, Caroline du Sud
-- Mercyhurst College, Erie, Pennsylvanie
-- Mesivta Torah Vodaath Rabbinical Seminary, Brooklyn, New York
-- Mesivta Yeshiva Rabbi Chaim Berlin, Brooklyn, New York
-- Messiah College, Grantham, Pennsylvanie
-- Miami University, Oxford, Ohio
-- Michigan State University College of Law, East Lansing, Michigan
-- Michigan State University, East Lansing, Michigan
-- Michigan Technological University, Houghton, Michigan
-- Middlebury College, Middlebury, Vermont
-- Minot State University, Minot, Dakota du Nord
-- Mirrer Yeshiva Central Institute, Brooklyn, New York
-- Montana Tech of the University of Montana, Butte, Montana
-- Montana State University, Bozeman, Montana
-- Moody Bible Institute, Chicago, Illinois
-- Moravian College, Bethlehem, Pennsylvanie
-- Mount Holyoke College, South Hadley, Massachusetts
-- Mount Ida College, Newton Centre, Massachusetts
-- Mount Sinai School of Medicine, New York, New York
-- Multnomah Bible College, Portland, Oregon
-- Naropa University, Boulder, Colorado
-- National College of Chiropractic, The, Lombard, Illinois
-- Nazarene Theological Seminary, Kansas City, Missouri
-- Ner Israel Rabbinical College, Baltimore, Maryland
-- New England College, Henniker, New Hampshire
-- New School University, New York, New York
-- New York University, New York, New York
-- Niagara University, Niagara University, New York
-- North American Baptist Seminary, Sioux Falls, Dakota du Sud
-- North Carolina State University at Raleigh, Raleigh, Caroline du Nord
-- North Dakota State University of Agriculture and Applied Science, Fargo, Dakota du Nord
-- Northeastern University, Boston, Massachusetts
-- Northern Michigan University, Marquette, Michigan
-- Northwestern College, Orange City, Iowa
-- Northwestern College, St. Paul, Minnesota
-- Northwestern University, Evanston, Illinois
-- Northwood University, Midland, Michigan
-- Nova Southeastern University, Fort Lauderdale, Floride
-- Nyack College, Nyack, New York
-- Oakland University, Rochester, Michigan
-- Oakwood College, Huntsville, Alabama
-- Oberlin College, Oberlin, Ohio
-- Ohio State University, The, Columbus, Ohio
-- Ohio University, Athens, Ohio
-- Ohr Somayach/Joseph Tanenbaum Educational Center, Monsey, New York
-- Old Dominion University, Norfolk, Virginie
-- Olivet Nazarene University, Bourbonnais, Illinois
-- Oral Roberts University, Tulsa, Oklahoma
-- Oregon State University, Corvallis, Oregon
-- Pace University, New York, New York
-- Pacific Graduate School of Psychology, Menlo Park, Californie
-- Pacific Lutheran University, Tacoma, Washington
-- Pacific Union College, Angwin, Californie
-- Pacific University, Forest Grove, Oregon
-- Palm Beach Atlantic University, West Palm Beach, Floride
-- Palmer College of Chiropractic, Davenport, Iowa
-- Palmer College of Chiropractic-West, San Jose, Californie
-- Park University, Parkville, Missouri
-- Pennsylvania State University, The, University Park, Pennsylvanie
-- Pepperdine University, Malibu, Californie
-- Philadelphia Biblical University, Langhorne, Pennsylvanie
-- Pomona College, Claremont, Californie
-- Princeton University, Princeton, New Jersey
-- Princeton Theological Seminary, Princeton, New Jersey
-- Principia College, The, Elsah, Illinois
-- Providence College, Providence, Rhode Island
-- Purdue University, Lafayette, Indiana
-- Rabbinical College Bobover Yeshiva Bnei Zion, Brooklyn, New York
-- Rabbinical College of America, Morristown, New Jersey
-- Rabbinical College of Long Island, Long Beach, New York
-- Rabbinical Seminary of America, Forest Hills, New York
-- Reed College, Portland, Oregon
-- Reformed Theological Seminary, Jackson, Mississippi
-- Rensselaer Polytechnic Institute, Troy, New York
-- Rice University, Houston, Texas
-- Rio Grande Bible Institute, Edinburg, Texas
-- Roberts Wesleyan College, North Chili, New York
-- Rockefeller University, New York, New York
-- Rollins College, Winter Park, Floride
-- Rush University, Chicago, Illinois
-- Rutgers — The State University, New Brunswick, New Jersey
-- St. Bonaventure University, St. Bonaventure, New York
-- St. John’s College, Annapolis, Maryland
-- St. John’s College, Santa Fe, New Mexico
-- Saint John’s University, Collegeville, Minnesota
-- St. John’s University, Jamaica, New York
-- St. Lawrence University, Canton, New York
-- Saint Louis University, Saint-Louis, Missouri
-- Saint Mary’s University of Minnesota, Winona, Minnesota
-- St. Mary’s University of San Antonio, San Antonio, Texas
-- Saint Olaf College, Northfield, Minnesota
-- St. Vladimir’s Orthodox Theological Seminary, Crestwood, New York
-- San Francisco State College, San Francisco, Californie
-- San José State University, San José, Californie
-- Santa Clara University, Santa Clara, Californie
-- Sarah Lawrence College, Bronxville, New York
-- Scripps College, Claremont, Californie
-- Scripps Research Institute, The, La Jolla, Californie
-- Seattle Pacific University, Seattle, Washington
-- Seattle University, Seattle, Washington
-- Simpson College, Indianola, Iowa
-- Simpson College, Redding, Californie
-- Skidmore College, Saratoga Springs, New York
-- Smith College, The, Northampton, Massachusetts
-- Southeastern University, Lakeland, Floride
-- Southern Adventist University, Collegedale, Tennessee
-- Southern Methodist University, Dallas, Texas
-- Southwestern Adventist University, Keene, Texas
-- Spring Arbor College, Spring Arbor, Michigan
-- State University College at Oswego, Oswego, New York
-- State University College at Potsdam, Potsdam, New York
-- State University of New York at Binghamton, Binghamton, New York
-- State University of New York at Buffalo, Buffalo, New York
-- State University of New York at Geneseo, Geneseo, New York
-- State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
-- Stephens College, Columbia, Missouri
-- Swarthmore College, Swarthmore, Pennsylvania
-- Syracuse University, Syracuse, New York
-- Tabor College, Hillsboro, Kansas
-- Talmudical Yeshiva of Philadelphia, Philadelphie, Pennsylvanie
-- Taylor University, Upland, Indiana
-- Teachers College, Columbia University, New York, New York
-- Telshe Yeshiva Rabbinical College of Telshe, Inc., Wickcliffe, Ohio
-- Telshe Yeshiva-Chicago, Rabbinical College of Telshe-Chicago, Inc., Chicago, Illinois
-- Temple University, Philadelphie, Pennsylvanie
-- Temple University School of Podiatric Medicine, Philadelphie, Pennsylvanie
-- Texas A&M University, College Station, Texas
-- Texas Chiropractic College, Pasadena, Texas
-- Texas Woman’s University, Denton, Texas
-- The Herman M. Finch University of Health Sciences/The Chicago Medical School, North Chicago, Illinois
-- Thomas Aquinas College, Santa Paula, Californie
-- Thunderbird School of Global Management, Glendale, Arizona
-- Touro College, New York, New York
-- Trinity Bible College, Ellendale, Dakota du Nord
-- Trinity Christian College, Palos Heights, Illinois
-- Trinity College, Hartford, Connecticut
-- Trinity Episcopal School for Ministry, Ambridge, Pennsylvanie
-- Trinity Evangelical Divinity School, Deerfield, Illinois
-- Trinity Lutheran College, Issaquah, Washington
-- Trinity University, San Antonio, Texas
-- Tufts University, Medford, Massachusetts
-- Tulane University, Nouvelle-Orléans, Louisiane
-- Union College, Lincoln, Nebraska
-- Union College, Schenectady, New York
-- Union Institute & University, Cincinnati, Ohio
-- Union University, Jackson, Tennessee
-- University at Albany, State University of New York, Albany, New York
-- University of Alabama at Birmingham, The, Birmingham, Alabama
-- University of Alabama in Huntsville, Huntsville, Alabama
-- University of Arizona, The, Tucson, Arizona
-- University of California, Berkeley, Californie
-- University of California, Davis, Californie
-- University of California, Irvine, Californie
-- University of California, Los Angeles, Californie
-- University of California, Riverside, Californie
-- University of California, San Diego, Californie
-- University of California, San Francisco, Californie
-- University of California, Santa Barbara, Californie
-- University of California, Santa Cruz, Californie
-- University of Central Florida, Orlando, Floride
-- University of Chicago, The, Chicago, Illinois
-- University of Cincinnati, Cincinnati, Ohio
-- University of Colorado, Boulder, Colorado
-- University of Delaware, Newark, Delaware
-- University of Denver, Denver, Colorado
-- University of Detroit Mercy, Detroit, Michigan
-- University of Findlay, The, Findlay, Ohio
-- University of Florida, Gainesville, Floride
-- University of Georgia, The, Athens, Georgie
-- University of Houston, Houston, Texas
-- University of Idaho, Moscow, Idaho
-- University of Illinois, Urbana, Illinois
-- University of Kansas, Lawrence, Kansas
-- University of Kentucky, Lexington, Kentucky
-- University of Louisville, Louisville, Kentucky
-- University of Maine, Orono, Maine
-- University of Maryland, College Park, Maryland
-- University of Massachusetts at Amherst, Amherst, Massachusetts
-- University of Miami, Coral Gables, Floride
-- University of Michigan, The, Ann Arbor, Michigan
-- University of Minnesota, Minneapolis, Minnesota
-- University of Mississippi, The, Oxford, Mississippi
-- University of Missouri, Columbia, Missouri
-- University of Montana-Missoula, The, Missoula, Montana
-- University of Nebraska, The, Lincoln, Nebraska
-- University of Nevada-Reno, Reno, Nevada
-- University of North Carolina at Chapel Hill, Chapel Hill, Caroline du Nord
-- University of North Dakota, Grand Forks, Dakota du Nord
-- University of North Texas, Denton, Texas
-- University of Notre Dame du Lac, Notre Dame, Indiana
-- University of Oklahoma, Norman, Oklahoma
-- University of Oregon, Eugene, Oregon
-- University of Pennsylvania, Philadelphie, Pennsylvanie
-- University of Pittsburgh, Pittsburgh, Pennsylvanie
-- University of Portland, Portland, Oregon
-- University of Rhode Island, Kingston, Rhode Island
-- University of Rochester, Rochester, New York
-- University of San Diego, San Diego, Californie
-- University of Southern California, Los Angeles, Californie
-- University of Southern Mississippi, The, Hattiesburg, Mississippi
-- University of St. Thomas, Houston, Texas
-- University of St. Thomas, St. Paul, Minnesota
-- University of Tennessee, The, Knoxville, Tennessee
-- University of Texas at Arlington, Arlington, Texas
-- University of Texas, Austin, Texas
-- University of Texas Health Science Center at Houston, Houston, Texas
-- University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
-- University of the Pacific, Stockton, Californie
-- University of Tulsa, Tulsa, Oklahoma
-- University of Utah, Salt Lake City, Utah
-- University of Vermont, Burlington, Vermont
-- University of Virginia, Charlottesville, Virginie
-- University of Washington, Seattle, Washington
-- University of Western States, Portland, Oregon
-- University of Wisconsin, Madison, Wisconsin
-- University of Wisconsin-Milwaukee, Milwaukee, Wisconsin
-- University of Wyoming, The, Laramie, Wyoming
-- Utah State University of Agriculture and Applied Science, Logan, Utah
-- Utah Valley University, Orem, Utah
-- Valparaiso University, Valparaiso, Indiana
-- Vanderbilt University, Nashville, Tennessee
-- Vassar College, Poughkeepsie, New York
-- Villanova University, Villanova, Pennsylvanie
-- Wake Forest University, Winston-Salem, Caroline du Nord
-- Walla Walla University, College Place, Washington
-- Washington and Lee University, Lexington, Virginie
-- Washington State University, Pullman, Washington
-- Washington University, Saint Louis, Missouri
-- Wayne State University, Detroit, Michigan
-- Welch College, Nashville, Tennessee
-- Wellesley College, Wellesley, Massachusetts
-- Wesleyan University, Middletown, Connecticut
-- Western Illinois University, Macomb, Illinois
-- Western Seminary, Portland, Oregon
-- Western University of Health Sciences, Pomona, Californie
-- Western Washington University, Bellingham, Washington
-- Westminster Theological Seminary, Philadelphie, Pennsylvanie
-- West Virginia University, Morgantown, Virginie de l’Ouest- Occidentale
-- Wheaton College, Norton, Massachusetts Wheaton College, Wheaton, Illinois
-- Whitman College, Walla Walla, Washington
-- Whittier College, Whittier, Californie
-- Whitworth College, Spokane, Washington
-- Williams College, Williamstown, Massachusetts
-- Wittenberg University, Springfield, Ohio
-- Woods Hole Oceanographic Institution, Woods Hole, Massachusetts
-- Yale University, New Haven, Connecticut
-- Yeshiva Ohr Elchonon Chabad/West Coast Talmudic Seminary, Los Angeles, Californie
-- Yeshiva University, New York, New York
-
-
-**2** Les universités situées au Royaume-Uni de la Grande-Bretagne et de l’Irlande du Nord qui sont prescrites par l’article 3503 sont les suivantes :
-- Aston University, Birmingham, Angleterre
-- Brunel University, Uxbridge, England
-- City University London, Londres, Angleterre
-- Cranfield University, Bedfordshire, Angleterre
-- Gateshead Talmudical College, Gateshead, Angleterre
-- Heriot-Watt University, Édimbourg, Écosse
-- Imperial College of Science, Technology and Medicine, Londres, Angleterre
-- King’s College London, Londres, Angleterre
-- London Business School, Londres, Angleterre
-- London School of Economics and Political Science, The, London, England
-- London School of Hygiene & Tropical Medicine, Londres, Angleterre
-- Loughborough University, Leicestershire, Angleterre
-- Queen’s University of Belfast, The, Belfast, Irlande du Nord
-- Swansea University, Swansea, Pays de Galles
-- University College London, Londres, Angleterre
-- University of Aberdeen, Aberdeen, Écosse
-- University of Bath, The, Bath, Angleterre
-- University of Birmingham, Birmingham, Angleterre
-- University of Bradford, Bradford, Angleterre
-- University of Bristol, Bristol, Angleterre
-- University of Buckingham, The, Buckingham, Angleterre
-- University of Cambridge, Cambridge, Angleterre
-- University of Dundee, The, Dundee, Écosse
-- University of Durham, Durham, Angleterre
-- University of Edinburgh, Édimbourg, Écosse
-- University of Exeter, Exeter, Angleterre
-- University of Glasgow, Glasgow, Écosse
-- University of Keele, Keele, England
-- University of Kent, Canterbury, England
-- University of Leeds, Leeds, Angleterre
-- University of Liverpool, Liverpool, Angleterre
-- University of London, Londres, Angleterre
-- University of Manchester, The, Manchester, Angleterre
-- University of Newcastle, The, Newcastle upon Tyne, Angleterre
-- University of Nottingham, The, Nottingham, Angleterre
-- University of Oxford, Oxford, Angleterre
-- University of Reading, Reading, Angleterre
-- University of St. Andrews, St. Andrews, Écosse
-- University of Sheffield, Sheffield, Angleterre
-- University of Southampton, Southampton, Angleterre
-- University of Strathclyde, Glasgow, Écosse
-- University of Surrey, Guildford, Surrey, Angleterre
-- University of Sussex, Brighton, Angleterre
-- University of Ulster, Newtonabbey, Irlande du Nord
-- University of Wales, Cardiff, Pays de Galles
-- University of York, York, Angleterre
-
-
-**3** Les universités situées en France qui sont prescrites par l’article 3503 sont les suivantes :
-- American University in Paris, Paris
-- École Nationale des Ponts et Chaussées, Paris
-- Hautes Études Commerciales, Paris
-- Institut Européen d’Administration des Affaires (INSEAD), Fontainebleau
-- Les Facultés Catholiques de Lyon, Lyon
-- L’Institut Catholique de Paris, Paris
-- Université Catholique de Lille, Lille
-
-
-**4** Les universités situées en Autriche qui sont prescrites par l’article 3503 sont les suivantes :
-- WU Vienna University of Economics and Business, Vienna
-
-
-**5** Les universités situées en Belgique qui sont prescrites par l’article 3503 sont les suivantes :
-- L’Université Catholique de Louvain, Louvain
-
-
-**6** Les universités situées en Suisse qui sont prescrites par l’article 3503 sont les suivantes :
-- Franklin College of Switzerland, Sorengo (Lugano)
-- L’Université de Lausanne, Lausanne
-
-
-**7** [Abrogé, DORS/2014-81, art. 5]
-
-
-**8** Les universités situées en Israël qui sont prescrites par l’article 3503 sont les suivantes :
-- École biblique et archéologique française, Jérusalem
-- Interdisciplinary Center, The, Herzliya, Israël
-- Jerusalem College for Women, Bayit-Vegan, Jerusalem
-- Jerusalem College of Technology, Jerusalem
-- L’Université Bar-Ilan, Ramat-Gan
-- L’Université Ben Gurion du Negev, Beersheba
-- L’Université hébraïque de Jérusalem, Jérusalem
-- Technion-Israel Institute of Technology, Haïfa
-- Université de Tel-Aviv, Tel-Aviv
-- Université de Haïfa, Haïfa
-- Weizmann Institute of Science, Rehovot, Israël
-- Yeshivat Aish Hatorah, Jérusalem
-
-
-**9** Les universités situées au Liban qui sont prescrites par l’article 3503 sont les suivantes :
-- American University of Beirut, Riad El Solh, Beyrouth
-- L’Université Saint Joseph, Beyrouth
-
-
-**10** Les universités situées en Irlande qui sont prescrites par l’article 3503 sont les suivantes :
-- National University of Ireland, Dublin
-- Royal College of Surgeons in Ireland, Dublin
-- University of Dublin, The, Trinity College, Dublin
-
-
-**11** Les universités situées dans la République fédérale d’Allemagne qui sont prescrites par l’article 3503 sont les suivantes :
-- Université libre d’Ukraine, Munich
-- University of Heidelberg, Heidelberg
-
-
-**12** Les universités situées en Pologne qui sont prescrites par l’article 3503 sont les suivantes :
-- Catholic University of Lublin, Lublin.
-- Jagiellonian University, Cracovie
-
-
-**13** Les universités situées en Espagne qui sont prescrites par l’article 3503 sont les suivantes :
-- Université de Navarra, Pamplona
-
-
-**14** Les universités situées en République populaire de Chine qui sont prescrites par l’article 3503 sont les suivantes :
-- Nanjing University, Nanjing
-- Peking University, Beijing
-
-
-**15** Les universités situées en Jamaïque qui sont prescrites par l’article 3503 sont les suivantes :
-- University of the West Indies, Mona Campus, Kingston
-
-
-**16** Pour l’application de l’article 3503, l’université située en Italie est la suivante :
-- John Cabot University, Rome
-- Pontifical University of the Holy Cross, Rome
-
-
-**17** Les universités suivantes, situées en Australie, sont désignées pour l’application de l’article 3503 :
-- Adelaide University, Adélaïde
-- Australian National University, Canberra
-- Avondale College, Cooranbong
-- Monash University, Victoria
-- University of Melbourne, The, Parkville
-- University of Tasmania, Hobart
-
-
-**18** [Abrogé, DORS/2012-218, art. 8]
-
-
-**19** Les universités suivantes, situées en Afrique du Sud, sont désignées pour l’application de l’article 3503 :
-- University of Cape Town, Rondebosch
-- University of KwaZulu-Natal, Durban
-
-
-**20** Pour l’application de l’article 3503, les universités situées aux Pays-Bas sont les suivantes :
-- Leiden University, Leiden
-- Nyenrode University, Breukelen
-- University of Groningen, Groningen
-
-
-**21** Pour l’application de l’article 3503, les universités situées à Hong Kong sont les suivantes :
-- Chinese University of Hong Kong, The, Shatin, New Territories
-- Hong Kong University of Science and Technology, The, Kowloon
-- University of Hong Kong, The, Hong Kong
-
-
-**22** Les universités ci-après, situées en Nouvelle-Zélande, sont désignées pour l’application de l’article 3503 :
-- University of Auckland, The, Auckland
-- University of Otago, Dunedin
-
-
-**23** L’université suivante, située en Hongrie, est désignée pour l’application de l’article 3503 :
-- Central European University, Budapest
-
-
-**24** [Abrogé, DORS/2014-81, art. 10]
-
-
-**25** L’université suivante, située en Estonie, est désignée pour l’application de l’article 3503 :
-- Université de Tartu, Tartu
-
-
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9; DORS/2014-81, art. 1 à 10; DORS/2015-170, art. 4 et 5.
+## [Abrogée, 2018, ch. 12, art. 46]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9; DORS/2014-81, art. 1 à 10; DORS/2015-170, art. 4 et 5; 2018, ch. 12, art. 46.
 
 
 
