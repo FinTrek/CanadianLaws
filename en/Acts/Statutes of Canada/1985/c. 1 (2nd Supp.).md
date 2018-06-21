@@ -111,7 +111,7 @@
 
 ***EU country or other CETA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*)
 
-***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and that has not been cancelled under section 25.5 of that Act; (*timbre d’accise*)
+***excise stamp*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*timbre d’accise*)
 
 ***export*** means export from Canada; (*exporter*)
 
@@ -183,7 +183,7 @@
 
 ***preferential tariff treatment under NAFTA***[Repealed, 2012, c. 18, s. 24]
 
-***prescribed*** means 
+***prescribed*** means
 - **(a)** in respect of a form or the manner of filing a form, authorized by the Minister,
 - **(b)** in respect of the information to be provided on or with a form, specified by the Minister, and
 - **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation; (*réglementaire*)
@@ -277,7 +277,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115.
 
 
 
@@ -5870,16 +5870,16 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 **Impaired driving offences**
 
-- **(2)** A designated officer who is at a customs office performing the normal duties of an officer or is acting in accordance with section 99.1 has the powers and obligations of a peace officer under sections 254 and 256 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If, by demand, they require a person to provide samples of blood or breath under subsection 254(3) of that Act, or to submit to an evaluation under subsection 254(3.1) of that Act, they may also require the person to accompany a peace officer referred to in paragraph (c) of the definition ***peace officer*** in section 2 of that Act, for that purpose.
+- **(2)** A designated officer who is at a customs office performing the normal duties of an officer or is acting in accordance with section 99.1 has the powers and obligations of a peace officer under sections 254 and 256 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If, by demand, they require a person to provide samples of blood or breath under subsection 254(3) of that Act, or to submit to an evaluation or to provide samples of blood under subsection 254(3.1) of that Act, they may also require the person to accompany a peace officer referred to in paragraph (c) of the definition peace officer in section 2 of that Act, for that purpose.
 
 **Power to detain**
 
-- **(3)** A designated officer who arrests a person in the exercise of the powers conferred under subsection (1) may detain the person until the person can be placed in the custody of a peace officer referred to in paragraph (c) of the definition ***peace officer*** in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+- **(3)** A designated officer who arrests a person in the exercise of the powers conferred under subsection (1) may detain the person until the person can be placed in the custody of a peace officer referred to in paragraph (c) of the definition peace officer in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 **Limitation on powers**
 
 - **(4)** A designated officer may not use any power conferred on the officer for the enforcement of this Act for the sole purpose of looking for evidence of a criminal offence under any other Act of Parliament.
-> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59.
+> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59; 2018, c. 21, s. 11.
 
 
 
