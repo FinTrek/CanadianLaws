@@ -40,15 +40,21 @@ Sanctionnée sur le 16 décembre 2014
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Arctique*** Dans le contexte canadien, les parties du Canada situées soit :
+***Arctique*** Dans le contexte canadien, les parties du Canada situées soit :
 - **a)** au nord du soixantième degré de latitude nord;
-- **b)** au sud du soixantième degré de latitude nord et au nord de la limite inférieure de la zone du pergélisol discontinu.
+- **b)** au sud du soixantième degré de latitude nord et au nord de la limite inférieure de la zone du pergélisol discontinu. (*Arctic*)
 
-***conseil*** Le conseil d’administration de la SCREA.
+***biens réels*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*real property*)
 
-***ministre*** Le ministre désigné en vertu de l’article 3.
+***conseil*** Le conseil d’administration de la SCREA. (*Board*)
 
-***SCREA*** La Station canadienne de recherche dans l’Extrême-Arctique constituée par le paragraphe 4(1).
+***immeuble*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*immovable*)
+
+***ministre*** Le ministre désigné en vertu de l’article 3. (*minister*)
+
+***SCREA*** La Station canadienne de recherche dans l’Extrême-Arctique constituée par le paragraphe 4(1). (*CHARS*)
+> 2014, ch. 39, art. 145 « 2 »; 2018, ch. 12, art. 247.
+
 
 
 
@@ -123,21 +129,31 @@ Sanctionnée sur le 16 décembre 2014
 	- **e)** rendre disponibles, notamment par octroi de licence, cession ou vente, les brevets, droits d’auteur, dessins industriels, marques de commerce, secrets industriels ou droits de propriété analogues détenus par elle ou placés sous son administration ou son contrôle et recevoir des redevances, droits et paiements à cet égard;
 	- **f)** conclure des contrats, accords, ententes ou autres arrangements sous le nom de Sa Majesté du chef du Canada ou en son propre nom;
 	- **g)** louer des biens meubles ou personnels, acquérir, notamment par achat, donation ou legs, des valeurs mobilières ou autres biens meubles ou personnels — notamment sous forme d’argent — et employer ou investir cette somme d’argent et ces valeurs mobilières aux conditions dont est assortie cette acquisition;
-	- **h)** acquérir des immeubles ou des biens réels, en avoir la gestion au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md) ou acquérir des permis au sens de cet article;
+	- **h)** acquérir des immeubles ou des biens réels, en avoir la gestion ou acquérir des permis au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md);
 	- **i)** à titre de locateur, louer des biens meubles ou personnels visés à l’alinéa g) ou en disposer par tout moyen aux conditions dont est assortie leur acquisition;
 	- **j)** disposer d’immeubles et de biens réels ou octroyer des permis, au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), aux conditions dont est assortie leur acquisition;
 	- **k)** effectuer toute autre activité que le conseil estime utile à la réalisation de sa mission et à l’exercice de ses attributions.
 
 **Approbation du gouverneur en conseil**
 
-- **(3)** La SCREA ne peut toutefois, sans l’approbation du gouverneur en conseil, acquérir ou disposer des immeubles ou biens réels visés aux alinéas (2)h) ou j) ainsi que des intérêts sur des biens réels ou des droits réels immobiliers.
+- **(3)** La SCREA ne peut toutefois, sans l’approbation du gouverneur en conseil, acquérir ou disposer des immeubles ou biens réels visés aux alinéas (2)h) ou j).
 
 **Exception**
 
 - **(4)** Le paragraphe (3) ne s’applique pas à ce qui suit :
-	- **a)** l’acquisition ou la disposition par location;
-	- **b)** l’acquisition ou l’octroi de permis au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md);
-	- **c)** la disposition d’une servitude ou de tout autre intérêt sur un bien réel ou droit réel immobilier à une municipalité ou à un service d’utilité publique, si elle est nécessaire pour l’exercice de leurs activités, notamment la construction ou le maintien d’ouvrages publics.
+	- **a)** la location d’un immeuble ou d’un bien réel;
+	- **b)** la disposition, à une municipalité ou à un service d’utilité publique, d’une servitude ou de tout autre droit réel immobilier — à l’exception de la propriété de l’immeuble — ou de tout autre intérêt sur un bien réel — à l’exception du fief simple —, si elle est nécessaire pour l’exercice de leurs activités, notamment la construction ou le maintien d’ouvrages publics.
+	- **c)** [Abrogé, 2018, ch. 12, art. 248]
+
+**Biens de Sa Majesté**
+
+- **(5)** Les biens acquis par la SCREA appartiennent à Sa Majesté du chef du Canada et peuvent être détenus au nom de celle-ci ou au sien.
+
+**Transfert de la gestion**
+
+- **(6)** L’alinéa 16(1)g) de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md) s’applique à la SCREA comme si elle était une société mandataire au sens de cette loi.
+> 2014, ch. 39, art. 145 « 6 »; 2018, ch. 12, art. 248.
+
 
 
 
