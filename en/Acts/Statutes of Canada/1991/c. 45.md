@@ -598,7 +598,7 @@ and that is not discontinued under this Act.
 
 **20** 
 
-- **(1)** Subject to subsections (2) and (4), companies shall not carry on business after March 29, 2019.
+- **(1)** Subject to subsections (2) and (4), companies shall not carry on business after the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent.
 
 **Extension**
 
@@ -610,8 +610,8 @@ and that is not discontinued under this Act.
 
 **Exception — dissolution**
 
-- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
-> 1991, c. 45, s. 20; 1997, c. 15, s. 341; 2001, c. 9, s. 484; 2006, c. 4, s. 202; 2007, c. 6, s. 338; 2012, c. 5, s. 163; 2016, c. 7, s. 117.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which the [Budget Implementation Act, 2018, No. 1](/en/Acts/Statutes%20of%20Canada/2018/c.%2012.md) receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 45, s. 20; 1997, c. 15, s. 341; 2001, c. 9, s. 484; 2006, c. 4, s. 202; 2007, c. 6, s. 338; 2012, c. 5, s. 163; 2016, c. 7, s. 117; 2018, c. 12, s. 354.
 
 
 
@@ -8013,8 +8013,9 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 	- **(f)** engage in the sale of
 		- **(i)** tickets, including lottery tickets, on a non-profit public service basis in connection with special, temporary and infrequent non-commercial celebrations or projects that are of local, municipal, provincial or national interest,
 		- **(ii)** urban transit tickets, and
-		- **(iii)** tickets in respect of a lottery sponsored by the federal government or a provincial or municipal government or an agency of any such government or governments; and
-	- **(g)** act as a custodian of property.
+		- **(iii)** tickets in respect of a lottery sponsored by the federal government or a provincial or municipal government or an agency of any such government or governments;
+	- **(g)** act as a custodian of property; and
+	- **(h)** provide identification, authentication or verification services.
 
 **Restriction**
 
@@ -8026,7 +8027,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 	- **(a)** respecting what a company may or may not do with respect to the carrying on of the activities referred to in paragraphs (1)(c), (c.1) and (d.1);
 	- **(b)** imposing terms and conditions in respect of the provision of the services referred to in paragraphs (1)(a) and 409(2)(c) and the carrying on of the activities referred to in paragraphs (1)(c), (c.1) and (d.1); and
 	- **(c)** respecting the circumstances in which companies may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(c) or (c.1).
-> 1991, c. 45, s. 410; 1993, c. 34, s. 126(F); 1997, c. 15, s. 375; 2001, c. 9, s. 530.
+> 1991, c. 45, s. 410; 1993, c. 34, s. 126(F); 1997, c. 15, s. 375; 2001, c. 9, s. 530; 2018, c. 12, s. 310.
 
 
 
