@@ -49,6 +49,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the Attorney General of Canada, and includes their lawful deputy, or
 - **(b)** with respect to proceedings commenced at the instance of the government of a province and conducted by or on behalf of that government, the Attorney General of that province, and includes their lawful deputy; (*procureur général*)
 
+***chemical offence-related property*** means offence-related property that is a chemical or precursor and includes anything that contains such property or has such property on it; (*bien infractionnel chimique*)
+
 ***controlled substance*** means a substance included in Schedule I, II, III, IV or V; (*substance désignée*)
 
 ***customs office*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); (*bureau de douane*)
@@ -67,10 +69,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Minister*** means the Minister of Health; (*ministre*)
 
+***non-chemical offence-related property*** means offence-related property that is not chemical offence-related property; (*bien infractionnel non-chimique*)
+
 ***offence-related property*** means, with the exception of a controlled substance, any property, within or outside Canada,
 - **(a)** by means of or in respect of which a designated substance offence is committed,
 - **(b)** that is used in any manner in connection with the commission of a designated substance offence, or
 - **(c)** that is intended for use for the purpose of committing a designated substance offence; (*bien infractionnel*)
+
+***organization*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*organisation*)
+
+***person*** means an individual or an organization. (*personne*)
 
 ***possession*** means possession within the meaning of subsection 4(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*possession*)
 
@@ -110,7 +118,7 @@ otherwise than under the authority of the regulations. (*trafic*)
 **Interpretation**
 
 - **(3)** For the purposes of this Act, where a substance is expressly named in any of Schedules I to VI, it shall be deemed not to be included in any other of those Schedules.
-> 1996, c. 8, s. 35, c. 19, s. 2; 2001, c. 32, s. 47; 2017, c. 7, s. 1.
+> 1996, c. 8, s. 35, c. 19, s. 2; 2001, c. 32, s. 47; 2017, c. 7, s. 1; 2018, c. 16, s. 194.
 
 
 
@@ -122,10 +130,8 @@ otherwise than under the authority of the regulations. (*trafic*)
 
 - **(1)** Every power or duty imposed under this Act that may be exercised or performed in respect of an offence under this Act may be exercised or performed in respect of a conspiracy, or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act.
 
-**Interpretation**
-
-- **(2)** For the purposes of sections 16 and 20, a reference to a person who is or was convicted of a designated substance offence includes a reference to an offender who is discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 1995, c. 22, s. 18; 1996, c. 19, s. 3.
+- **(2)** [Repealed, 2017, c. 7, s. 2]
+> 1995, c. 22, s. 18; 1996, c. 19, s. 3; 2017, c. 7, s. 2.
 
 
 
@@ -443,10 +449,6 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 
 
-### Search, Seizure and Detention
-
-
-
 **Information for search warrant**
 
 **11** 
@@ -504,39 +506,61 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 
 
 
+**Report of seizure, finding, etc.**
+
+**12.1** Subject to the regulations, every peace officer, inspector or prescribed person who seizes, finds or otherwise acquires a controlled substance, precursor or chemical offence-related property shall, within 30 days,
+- **(a)** prepare a report setting out
+	- **(i)** the substance, precursor or property,
+	- **(ii)** the amount of it that was seized, found or acquired,
+	- **(iii)** the place where it was seized, found or acquired,
+	- **(iv)** the date on which it was seized, found or acquired,
+	- **(v)** the name of the police force, agency or entity to which the peace officer, inspector or prescribed person belongs,
+	- **(vi)** the number of the file or police report related to the seizure, finding or acquisition, and
+	- **(vii)** any other prescribed information;
+- **(b)** cause the report to be sent to the Minister; and
+- **(c)** in the case of a seizure made under section 11 of this Act, the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a power of seizure at common law, cause a copy of the report to be filed with the justice who issued the warrant or another justice for the same territorial division or, if a warrant was not issued, a justice who would have had jurisdiction to issue a warrant.
+> 2017, c. 7, s. 10.
+
+
+
+
+
+**PART III** 
+## Disposition
+
+
+
 **Sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applicable**
 
 **13** 
 
 - **(1)** Subject to subsections (2) and (3), sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply to any thing seized under this Act.
 
-**Sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applicable**
+**Sections 489.1 and 490 of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applicable**
 
-- **(2)** Where a thing seized under this Act is offence-related property, sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply subject to sections 16 to 22 of this Act.
+- **(2)** If a thing seized under this Act is non-chemical offence-related property, sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply subject to sections 16 to 22 and subsections 31(6) to (9) of this Act.
 
 **Provisions of this Act applicable**
 
-- **(3)** Where a controlled substance is seized under this Act or any other Act of Parliament or pursuant to a power of seizure at common law, this Act and the regulations apply in respect of that substance.
-
-**Report to justice**
-
-- **(4)** Subject to the regulations, every peace officer who, pursuant to section 11, seizes a controlled substance shall, as soon as is reasonable in the circumstances after the seizure,
-	- **(a)** prepare a report identifying the place searched, the controlled substance and the location where it is being detained;
-	- **(b)** cause the report to be filed with the justice who issued the warrant or another justice for the same territorial division or, where by reason of exigent circumstances a warrant was not issued, a justice who would have had jurisdiction to issue a warrant; and
-	- **(c)** cause a copy of the report to be sent to the Minister.
-
-**Report to justice**
-
-- **(5)** A report in Form 5.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may be filed as a report for the purposes of subsection (4).
+- **(3)** If a controlled substance, precursor or chemical offence-related property is seized under this Act, any other Act of Parliament or a power of seizure at common law, the provisions of this Act and the regulations apply in respect of that substance, precursor or property.
 
 **Recognizance**
 
-- **(6)** Where, pursuant to this section, an order is made under paragraph 490(9)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for the return of any offence-related property seized under this Act, the judge or justice making the order may require the applicant for the order to enter into a recognizance before the judge or justice, with or without sureties, in such amount and with such conditions, if any, as the judge or justice directs and, where the judge or justice considers it appropriate, require the applicant to deposit with the judge or justice such sum of money or other valuable security as the judge or justice directs.
+- **(4)** If, under this section, an order is made in accordance with paragraph 490(9)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for the return of any non-chemical offence-related property seized under this Act, the judge or justice making the order may require the applicant for the order to enter into a recognizance before the judge or justice, with or without sureties, in the amount and with any conditions that the judge or justice directs and, if the judge or justice considers it appropriate, require the applicant to deposit with the judge or justice the sum of money or other valuable security that the judge or justice directs.
+
+- **(5) and (6)** [Repealed, 2017, c. 7, s. 11]
+> 1996, c. 19, s. 13; 2017, c. 7, s. 11.
 
 
 
 
-### Restraint Orders
+
+**DIVISION 1** 
+### Non-chemical Offence-related Property
+
+
+
+#### Restraint Orders
 
 
 
@@ -544,18 +568,18 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 
 **14** 
 
-- **(1)** The Attorney General may make an application in accordance with this section for a restraint order under this section in respect of any offence-related property.
+- **(1)** The Attorney General may make an application in accordance with this section for a restraint order in respect of any non-chemical offence-related property.
 
 **Procedure**
 
-- **(2)** An application made under subsection (1) for a restraint order in respect of any offence-related property may be made *ex parte* and shall be made in writing to a judge and be accompanied by an affidavit sworn on the information and belief of the Attorney General or any other person deposing to the following matters:
-	- **(a)** the offence against this Act to which the offence-related property relates;
-	- **(b)** the person who is believed to be in possession of the offence-related property; and
-	- **(c)** a description of the offence-related property.
+- **(2)** The application for a restraint order may be made *ex parte* and shall be made in writing to a judge and be accompanied by an affidavit of the Attorney General or any other person deposing to the following matters :
+	- **(a)** the offence to which the property relates;
+	- **(b)** the person who is believed to be in possession of the property; and
+	- **(c)** a description of the property.
 
 **Restraint order**
 
-- **(3)** Where an application for a restraint order is made to a judge under subsection (1), the judge may, if satisfied that there are reasonable grounds to believe that the property is offence-related property, make a restraint order prohibiting any person from disposing of, or otherwise dealing with any interest in, the offence-related property specified in the order otherwise than in such manner as may be specified in the order.
+- **(3)** The judge to whom the application is made may, if satisfied that there are reasonable grounds to believe that the property is non-chemical offence-related property, make a restraint order prohibiting any person from disposing of, or otherwise dealing with any interest in, the property specified in the order other than in the manner that is specified in the order.
 
 **Property outside Canada**
 
@@ -586,91 +610,111 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Offence**
 
 - **(10)** Any person on whom a restraint order made under this section is served in accordance with this section and who, while the order is in force, acts in contravention of or fails to comply with the order is guilty of an indictable offence or an offence punishable on summary conviction.
-> 1996, c. 19, ss. 14, 93.2; 2001, c. 32, s. 49.
+> 1996, c. 19, ss. 14, 93.2; 2001, c. 32, s. 49; 2017, c. 7, s. 13.
 
 
+
+
+**14.1** [Repealed, 2017, c. 7, s. 14]
+
+
+
+
+**Sections 489.1 and 490 of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applicable**
+
+**15** 
+
+- **(1)** Subject to sections 16 to 22, sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with any modifications that the circumstances require, to any property that is the subject of a restraint order made under section 14.
+
+**Recognizance**
+
+- **(2)** If, under this section, an order is made in accordance with paragraph 490(9)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for the return of any property that is the subject of a restraint order made under section 14, the judge or justice making the order may require the applicant for the order to enter into a recognizance before the judge or justice, with or without sureties, in the amount and with any conditions that the judge or justice directs and, if the judge or justice considers it appropriate, require the applicant to deposit with the judge or justice the sum of money or other valuable security that the judge or justice directs.
+> 1996, c. 19, s. 15; 2017, c. 7, s. 14.
+
+
+
+
+
+#### Management Orders
 
 
 
 **Management order**
 
-**14.1** 
+**15.1** 
 
-- **(1)** On application of the Attorney General or of any other person with the written consent of the Attorney General, a justice in the case of offence-related property seized under section 11, or a judge in the case of offence-related property restrained under section 14, may, where he or she is of the opinion that the circumstances so require,
+- **(1)** On application of the Attorney General or of any other person with the written consent of the Attorney General, a justice in the case of non-chemical offence-related property seized under section 11 of this Act, the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a power of seizure at common law, or a judge in the case of property restrained under section 14, may, if they are of the opinion that the circumstances so require,
 	- **(a)** appoint a person to take control of and to manage or otherwise deal with all or part of the property in accordance with the directions of the judge or justice; and
 	- **(b)** require any person having possession of that property to give possession of the property to the person appointed under paragraph (a).
 
 **Appointment of Minister of Public Works and Government Services**
 
-- **(2)** When the Attorney General of Canada so requests, a judge or justice appointing a person under subsection (1) shall appoint the Minister of Public Works and Government Services.
+- **(2)** If the Attorney General of Canada so requests, a judge or justice appointing a person under subsection (1) shall appoint the Minister of Public Works and Government Services.
 
 **Power to manage**
 
 - **(3)** The power to manage or otherwise deal with property under subsection (1) includes
-	- **(a)** in the case of perishable or rapidly depreciating property, the power to make an interlocutory sale of that property; and
-	- **(b)** in the case of property that has little or no value, the power to destroy that property.
+	- **(a)** the power to make an interlocutory sale of perishable or rapidly depreciating property;
+	- **(b)** the power to destroy, in accordance with subsections (4) to (7), property that has little or no value; and
+	- **(c)** the power to have property, other than real property or a conveyance, forfeited to Her Majesty in accordance with subsection (8).
 
 **Application for destruction order**
 
-- **(4)** Before a person appointed to manage property destroys property that has little or no value, he or she shall apply to a court for a destruction order.
+- **(4)** Before a person who is appointed to manage property destroys property that has little or no value, they shall apply to a court for a destruction order.
 
-**Notice**
+**Notice required before destruction**
 
-- **(5)** Before making a destruction order in relation to any property, a court shall require notice in accordance with subsection (6) to be given to, and may hear, any person who, in the opinion of the court, appears to have a valid interest in the property.
+- **(5)** Before making a destruction order, a court shall require notice in accordance with subsection (6) to be given to and may hear any person who, in the court’s opinion, appears to have a valid interest in the property.
 
 **Manner of giving notice**
 
 - **(6)** A notice shall
-	- **(a)** be given or served in the manner that the court directs or that may be specified in the rules of the court; and
-	- **(b)** be of any duration that the court considers reasonable or that may be specified in the rules of the court.
+	- **(a)** be given in the manner that the court directs or that may be specified in the rules of the court; and
+	- **(b)** specify the effective period of the notice that the court considers reasonable or that may be set out in the rules of the court.
 
-**Order**
+**Destruction order**
 
-- **(7)** A court may order that the property be destroyed if it is satisfied that the property has little or no value, whether financial or other.
+- **(7)** A court shall order that the property be destroyed if it is satisfied that the property has little or no financial or other value.
+
+**Application for forfeiture order**
+
+- **(8)** On application by a person who is appointed to manage the property, a court shall order that the property, other than real property or a conveyance, be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the law if
+	- **(a)** a notice is given or published in the manner that the court directs or that may be specified in the rules of the court;
+	- **(b)** the notice specifies a period of 60 days during which a person may make an application to the court asserting their interest in the property; and
+	- **(c)** during that period, no one makes such an application.
 
 **When management order ceases to have effect**
 
-- **(8)** A management order ceases to have effect when the property that is the subject of the management order is returned in accordance with the law to an applicant or forfeited to Her Majesty.
+- **(9)** A management order ceases to have effect when the property that is the subject of the management order is returned in accordance with the law, destroyed or forfeited to Her Majesty.
+
+**For greater certainty**
+
+- **(10)** For greater certainty, if property that is the subject of a management order is sold, the management order applies to the net proceeds of the sale.
 
 **Application to vary conditions**
 
-- **(9)** The Attorney General may at any time apply to the judge or justice to cancel or vary any condition to which a management order is subject but may not apply to vary an appointment made under subsection (2).
-> 2001, c. 32, s. 50.
+- **(11)** The Attorney General may at any time apply to the judge or justice to cancel or vary any condition to which a management order is subject but may not apply to vary an appointment made under subsection (2).
+> 2017, c. 7, s. 14.
 
 
 
 
 
-**Sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applicable**
-
-**15** 
-
-- **(1)** Subject to sections 16 to 22, sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with such modifications as the circumstances require, to any offence-related property that is the subject-matter of a restraint order made under section 14.
-
-**Recognizance**
-
-- **(2)** Where, pursuant to subsection (1), an order is made under paragraph 490(9)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for the return of any offence-related property that is the subject of a restraint order under section 14, the judge or justice making the order may require the applicant for the order to enter into a recognizance before the judge or justice, with or without sureties, in such amount and with such conditions, if any, as the judge or justice directs and, where the judge or justice considers it appropriate, require the applicant to deposit with the judge or justice such sum of money or other valuable security as the judge or justice directs.
+#### Forfeiture
 
 
 
-
-### Forfeiture of Offence-related Property
-
-
-
-**Order of forfeiture of property on conviction**
+**Forfeiture of property**
 
 **16** 
 
-- **(1)** Subject to sections 18 to 19.1, where a person is convicted of a designated substance offence and, on application of the Attorney General, the court is satisfied, on a balance of probabilities, that any property is offence-related property and that the offence was committed in relation to that property, the court shall
-	- **(a)** in the case of a substance included in Schedule VI, order that the substance be forfeited to Her Majesty in right of Canada and disposed of by the Minister as the Minister thinks fit; and
-	- **(b)** in the case of any other offence-related property,
-		- **(i)** where the prosecution of the offence was commenced at the instance of the government of a province and conducted by or on behalf of that government, order that the property be forfeited to Her Majesty in right of that province and disposed of by the Attorney General or Solicitor General of that province in accordance with the law, and
-		- **(ii)** in any other case, order that the property be forfeited to Her Majesty in right of Canada and disposed of by such member of the Queen’s Privy Council for Canada as may be designated for the purposes of this subparagraph in accordance with the law.
+- **(1)** Subject to sections 18 to 19.1, if a person is convicted, or discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), of a designated substance offence and, on application of the Attorney General, the court is satisfied, on a balance of probabilities, that non-chemical offence-related property is related to the commission of the offence, the court shall
+	- **(a)** if the prosecution of the offence was commenced at the instance of the government of a province and conducted by or on behalf of that government, order that the property be forfeited to Her Majesty in right of that province to be disposed of or otherwise dealt with in accordance with the law by the Attorney General or Solicitor General of that province; and
+	- **(b)** in any other case, order that the property be forfeited to Her Majesty in right of Canada to be disposed of or otherwise dealt with in accordance with the law by the member of the Queen’s Privy Council for Canada that is designated by the Governor in Council for the purposes of this paragraph.
 
 **Property related to other offences**
 
-- **(2)** Subject to sections 18 to 19.1, where the evidence does not establish to the satisfaction of the court that the designated substance offence of which a person has been convicted was committed in relation to property in respect of which an order of forfeiture would otherwise be made under subsection (1) but the court is satisfied, beyond a reasonable doubt, that that property is offence-related property, the court may make an order of forfeiture under subsection (1) in relation to that property.
+- **(2)** Subject to sections 18 to 19.1, if the evidence does not establish to the satisfaction of the court that property in respect of which an order of forfeiture would otherwise be made under subsection (1) is related to the commission of the designated substance offence of which a person is convicted or discharged, but the court is satisfied, beyond a reasonable doubt, that the property is non-chemical offence-related property, the court may make an order of forfeiture under subsection (1) in relation to that property.
 
 **Property outside Canada**
 
@@ -678,8 +722,8 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 
 **Appeal**
 
-- **(3)** A person who has been convicted of a designated substance offence or the Attorney General may appeal to the court of appeal from an order or a failure to make an order under subsection (1) as if the appeal were an appeal against the sentence imposed on the person in respect of the offence.
-> 1996, c. 19, s. 16; 2001, c. 32, s. 51.
+- **(3)** A person who has been convicted or discharged of a designated substance offence or the Attorney General may appeal to the court of appeal from an order or a failure to make an order under subsection (1) as if the appeal were an appeal against the sentence imposed on the person in respect of the offence.
+> 1996, c. 19, s. 16; 2001, c. 32, s. 51; 2017, c. 7, s. 16.
 
 
 
@@ -694,8 +738,8 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Order of forfeiture of property**
 
 - **(2)** Subject to sections 18 to 19.1, where an application is made to a judge under subsection (1) and the judge is satisfied
-	- **(a)** beyond a reasonable doubt that any property is offence-related property,
-	- **(b)** that proceedings in respect of a designated substance offence in relation to the property referred to in paragraph (a) were commenced, and
+	- **(a)** beyond a reasonable doubt that any property is non-chemical offence-related property,
+	- **(b)** that proceedings were commenced in respect of a designated substance offence to which the property referred to in paragraph (a) is related, and
 	- **(c)** that the accused charged with the designated substance offence has died or absconded,
 the judge shall order that the property be forfeited and disposed of in accordance with subsection (4).
 
@@ -710,15 +754,13 @@ and the accused shall be deemed to have so absconded on the last day of that six
 **Who may dispose of forfeited property**
 
 - **(4)** For the purposes of subsection (2),
-	- **(a)** in the case of a substance included in Schedule VI, the judge shall order that the substance be forfeited to Her Majesty in right of Canada and disposed of by the Minister as the Minister thinks fit; and
-	- **(b)** in the case of any other offence-related property,
-		- **(i)** where the proceedings referred to in paragraph (2)(b) were commenced at the instance of the government of a province, the judge shall order that the property be forfeited to Her Majesty in right of that province and disposed of by the Attorney General or Solicitor General of that province in accordance with the law, and
-		- **(ii)** in any other case, the judge shall order that the property be forfeited to Her Majesty in right of Canada and disposed of by such member of the Queen’s Privy Council for Canada as may be designated for the purposes of this subparagraph in accordance with the law.
+	- **(a)** if the proceedings referred to in paragraph (2)(b) were commenced at the instance of the government of a province, the judge shall order that the property be forfeited to Her Majesty in right of that province and disposed of or otherwise dealt with in accordance with the law by the Attorney General or Solicitor General of that province; and
+	- **(b)** in any other case, the judge shall order that the property be forfeited to Her Majesty in right of Canada and disposed of or otherwise dealt with in accordance with the law by the member of the Queen’s Privy Council for Canada that is designated by the Governor in Council for the purposes of this paragraph.
 
 **Property outside Canada**
 
 - **(5)** An order may be issued under this section in respect of property situated outside Canada, with any modifications that the circumstances require.
-> 1996, c. 19, s. 17; 2001, c. 32, s. 52.
+> 1996, c. 19, s. 17; 2001, c. 32, s. 52; 2017, c. 7, s. 17.
 
 
 
@@ -726,7 +768,9 @@ and the accused shall be deemed to have so absconded on the last day of that six
 
 **Voidable transfers**
 
-**18** A court may, before ordering that offence-related property be forfeited under subsection 16(1) or 17(2), set aside any conveyance or transfer of the property that occurred after the seizure of the property, or the making of a restraint order in respect of the property, unless the conveyance or transfer was for valuable consideration to a person acting in good faith.
+**18** A court may, before ordering that property be forfeited under subsection 16(1) or 17(2), set aside any conveyance or transfer of the property that occurred after the property was seized or restrained, unless the conveyance or transfer was for valuable consideration to a person acting in good faith.
+> 1996, c. 19, s. 18; 2017, c. 7, s. 18.
+
 
 
 
@@ -739,9 +783,9 @@ and the accused shall be deemed to have so absconded on the last day of that six
 
 **Manner of giving notice**
 
-- **(2)** A notice given under subsection (1) shall
-	- **(a)** be given or served in such manner as the court directs or as may be specified in the rules of the court;
-	- **(b)** be of such duration as the court considers reasonable or as may be specified in the rules of the court; and
+- **(2)** A notice shall
+	- **(a)** be given in the manner that the court directs or that may be specified in the rules of the court;
+	- **(b)** specify the period that the court considers reasonable or that may be set out in the rules of the court during which a person may make an application to the court asserting their interest in the property; and
 	- **(c)** set out the designated substance offence charged and a description of the property.
 
 **Order of restoration of property**
@@ -750,6 +794,8 @@ and the accused shall be deemed to have so absconded on the last day of that six
 	- **(a)** a person who was charged with a designated substance offence, or
 	- **(b)** a person who acquired title to or a right of possession of the property from a person referred to in paragraph (a) under circumstances that give rise to a reasonable inference that the title or right was transferred for the purpose of avoiding the forfeiture of the property,
 is the lawful owner or is lawfully entitled to possession of any property or any part of any property that would otherwise be forfeited pursuant to an order made under subsection 16(1) or 17(2) and that the person appears innocent of any complicity in an offence referred to in paragraph (a) or of any collusion in relation to such an offence, the court may order that the property or part be returned to that person.
+> 1996, c. 19, s. 19; 2017, c. 7, s. 19.
+
 
 
 
@@ -758,25 +804,25 @@ is the lawful owner or is lawfully entitled to possession of any property or any
 
 **19.1** 
 
-- **(1)** Where all or part of offence-related property that would otherwise be forfeited under subsection 16(1) or 17(2) is a dwelling-house, before making an order of forfeiture, a court shall require notice in accordance with subsection (2) to be given to, and may hear, any person who resides in the dwelling-house and is a member of the immediate family of the person charged with or convicted of the indictable offence under this Act in relation to which the property would be forfeited.
+- **(1)** If all or part of the property that would otherwise be forfeited under subsection 16(1) or 17(2) is a dwelling-house, before making an order of forfeiture, a court shall require notice in accordance with subsection (2) to be given to and may hear any person who resides in the dwelling-house and is a member of the immediate family of the person charged with or convicted, or discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), of the indictable offence under this Act in relation to which the property would be forfeited.
 
 **Manner of giving notice**
 
 - **(2)** A notice shall
-	- **(a)** be given or served in the manner that the court directs or that may be specified in the rules of the court;
-	- **(b)** be of any duration that the court considers reasonable or that may be specified in the rules of the court; and
+	- **(a)** be given in the manner that the court directs or that may be specified in the rules of the court;
+	- **(b)** specify the period that the court considers reasonable or that may be set out in the rules of the court during which a member of the immediate family who resides in the dwelling-house may make themselves known to the court; and
 	- **(c)** set out the offence charged and a description of the property.
 
 **Non-forfeiture of real property**
 
-- **(3)** Subject to an order made under subsection 19(3), if a court is satisfied that the impact of an order of forfeiture made under subsection 16(1) or 17(2) in respect of real property would be disproportionate to the nature and gravity of the offence, the circumstances surrounding the commission of the offence and the criminal record, if any, of the person charged with or convicted of the offence, as the case may be, it may decide not to order the forfeiture of the property or part of the property and may revoke any restraint order made in respect of that property or part.
+- **(3)** Subject to an order made under subsection 19(3), if a court is satisfied that the impact of an order of forfeiture made under subsection 16(1) or 17(2) in respect of real property would be disproportionate to the nature and gravity of the offence, the circumstances surrounding the commission of the offence and the criminal record, if any, of the person charged with or convicted, or discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), of the offence, as the case may be, it may decide not to order the forfeiture of the property or part of the property and may revoke any restraint order made in respect of that property or part.
 
 **Factors in relation to dwelling-house**
 
 - **(4)** Where all or part of the property that would otherwise be forfeited under subsection 16(1) or 17(2) is a dwelling-house, when making a decision under subsection (3), the court shall also consider
-	- **(a)** the impact of an order of forfeiture on any member of the immediate family of the person charged with or convicted of the offence, if the dwelling-house was the member’s principal residence at the time the charge was laid and continues to be the member’s principal residence; and
+	- **(a)** the impact of an order of forfeiture on any member of the immediate family of the person charged with or convicted or discharged of the offence, if the dwelling-house was the member’s principal residence at the time the charge was laid and continues to be the member’s principal residence; and
 	- **(b)** whether the member referred to in paragraph (a) appears innocent of any complicity in the offence or of any collusion in relation to the offence.
-> 2001, c. 32, s. 53.
+> 2001, c. 32, s. 53; 2017, c. 7, s. 20.
 
 
 
@@ -786,8 +832,8 @@ is the lawful owner or is lawfully entitled to possession of any property or any
 
 **20** 
 
-- **(1)** Where any offence-related property is forfeited to Her Majesty pursuant to an order made under subsection 16(1) or 17(2), any person who claims an interest in the property, other than
-	- **(a)** in the case of property forfeited pursuant to an order made under subsection 16(1), a person who was convicted of the designated substance offence in relation to which the property was forfeited,
+- **(1)** If any property is forfeited to Her Majesty under an order made under subsection 16(1) or 17(2), any person who claims an interest in the property, other than
+	- **(a)** in the case of property forfeited under an order made under subsection 16(1), a person who was convicted, or discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), of the designated substance offence in relation to which the property was forfeited,
 	- **(b)** in the case of property forfeited pursuant to an order made under subsection 17(2), a person who was charged with the designated substance offence in relation to which the property was forfeited, or
 	- **(c)** a person who acquired title to or a right of possession of the property from a person referred to in paragraph (a) or (b) under circumstances that give rise to a reasonable inference that the title or right was transferred from that person for the purpose of avoiding the forfeiture of the property,
 may, within thirty days after the forfeiture, apply by notice in writing to a judge for an order under subsection (4).
@@ -816,6 +862,8 @@ the judge may make an order declaring that the interest of the applicant is not 
 - **(6)** The Minister shall, on application made to the Minister by any person in respect of whom a judge has made an order under subsection (4), and where the periods with respect to the taking of appeals from that order have expired and any appeal from that order taken under subsection (5) has been determined, direct that
 	- **(a)** the property, or the part of it to which the interest of the applicant relates, be returned to the applicant; or
 	- **(b)** an amount equal to the value of the interest of the applicant, as declared in the order, be paid to the applicant.
+> 1996, c. 19, s. 20; 2017, c. 7, s. 21.
+
 
 
 
@@ -836,84 +884,120 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 
 
 
-**23** [Repealed, 2001, c. 32, s. 54]
+
+**DIVISION 2** 
+### Controlled Substances, Precursors and Chemical Offence-related Property
+
+
+
+**Return**
+
+**23** 
+
+- **(1)** A peace officer, inspector or prescribed person who seizes, finds or otherwise acquires a controlled substance, precursor or chemical offence-related property may return it to the person who is its lawful owner or who is lawfully entitled to its possession if the peace officer, inspector or prescribed person is satisfied
+	- **(a)** that there is no dispute as to who is the lawful owner or is lawfully entitled to possession of the substance, precursor or property; and
+	- **(b)** that the continued detention of the substance, precursor or property is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament.
+
+**Receipt**
+
+- **(2)** When the substance, precursor or property is returned, the peace officer, inspector or prescribed person shall obtain a receipt for it.
+
+**Report by peace officer**
+
+- **(3)** In the case of a seizure made under section 11 of this Act, the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a power of seizure at common law, the peace officer shall make a report about the return to the justice who issued the warrant or another justice for the same territorial division or, if a warrant was not issued, a justice who would have had jurisdiction to issue a warrant.
+> 1996, c. 19, s. 23; 2001, c. 32, s. 54; 2017, c. 7, s. 22.
 
 
 
 
-**PART III** 
-## Disposal of Controlled Substances
 
-
-
-**Application for return of substance**
+**Application for return**
 
 **24** 
 
-- **(1)** Where a controlled substance has been seized, found or otherwise acquired by a peace officer or an inspector, any person may, within sixty days after the date of the seizure, finding or acquisition, on prior notification being given to the Attorney General in the prescribed manner, apply, by notice in writing to a justice in the jurisdiction in which the substance is being detained, for an order to return that substance to the person.
+- **(1)** If a controlled substance, precursor or chemical offence-related property has been seized, found or otherwise acquired by a peace officer, inspector or prescribed person, any person may, within 60 days after the date of the seizure, finding or acquisition, on prior notification being given to the Attorney General in the prescribed manner, apply, by notice in writing to a justice in the jurisdiction in which it is being detained, for an order to return it to the person.
 
-**Order to return substance forthwith**
+**Order to return as soon as practicable**
 
-- **(2)** Where, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the controlled substance and the Attorney General does not indicate that the substance or a portion of it may be required for the purposes of a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament, the justice shall, subject to subsection (5), order that the substance or the portion not required for the purposes of the proceeding be returned forthwith to the applicant.
+- **(2)** If, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the substance, precursor or property and the Attorney General does not indicate that it or a portion of it may be required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the justice shall, subject to subsection (5), order that it or the portion be returned as soon as practicable to the applicant.
 
-**Order to return substance at specified time**
+**Order to return at specified time**
 
-- **(3)** Where, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the controlled substance but the Attorney General indicates that the substance or a portion of it may be required for the purposes of a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament, the justice shall, subject to subsection (5), order that the substance or the portion required for the purposes of the proceeding be returned to the applicant
-	- **(a)** on the expiration of one hundred and eighty days after the application was made, if no proceeding in relation to the substance has been commenced before that time; or
-	- **(b)** on the final conclusion of the proceeding or any other proceeding in relation to the substance, where the applicant is not found guilty in those proceedings of an offence committed in relation to the substance.
+- **(3)** If, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the substance, precursor or property but the Attorney General indicates that it or a portion of it may be required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the justice shall, subject to subsection (5), order that it or the portion be returned to the applicant
+	- **(a)** on the expiry of 180 days after the day on which the application was made, if no proceeding in relation to it has been commenced before that time; or
+	- **(b)** on the final conclusion of the proceeding or any other proceeding in relation to it, if the applicant is not found guilty in those proceedings of an offence committed in relation to it.
 
-**Order to return substance refused**
+**Forfeiture order**
 
-- **(4)** Where, on the hearing of an application made under subsection (1), a justice is not satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the controlled substance, the justice shall order that the substance or the portion not required for the purposes of a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in such manner as the Minister directs.
+- **(4)** If, on the hearing of an application made under subsection (1), a justice is not satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the substance, precursor or property, and it or a portion of it is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the justice shall order that it or the portion be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
 
 **Payment of compensation in lieu**
 
-- **(5)** Where, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of a controlled substance, but an order has been made under subsection 26(2) in respect of the substance, the justice shall make an order that an amount equal to the value of the substance be paid to the applicant.
+- **(5)** If, on the hearing of an application made under subsection (1), a justice is satisfied that an applicant is the lawful owner or is lawfully entitled to possession of the substance, precursor or property, but it was disposed of or otherwise dealt with under section 26, the justice shall order that an amount equal to its value be paid to the applicant.
+> 1996, c. 19, s. 24; 2017, c. 7, s. 22.
 
 
 
 
-**Disposal by Minister where no application**
 
-**25** Where no application for the return of a controlled substance has been made under subsection 24(1) within sixty days after the date of the seizure, finding or acquisition by a peace officer or inspector and the substance or a portion of it is not required for the purposes of any preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the substance or the portion not required for the purposes of the proceeding shall be delivered to the Minister to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in such manner as the Minister directs.
+**Forfeiture if no application**
 
-
-
-
-**Security, health or safety hazard**
-
-**26** 
-
-- **(1)** Where the Minister has reasonable grounds to believe that a controlled substance that has been seized, found or otherwise acquired by a peace officer or inspector constitutes a potential security, public health or safety hazard, the Minister may, on prior notification being given to the Attorney General in the prescribed manner, at any time, make an application, *ex parte*, to a justice for an order that the substance or a portion of it be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in such manner as the Minister directs.
-
-**Security, health or safety hazard**
-
-- **(2)** Where, on the hearing of an application made under subsection (1), a justice is satisfied that there are reasonable grounds to believe that the controlled substance constitutes a potential security, public health or safety hazard, the justice shall order that the substance or any portion not required for the purposes of a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in such manner as the Minister directs.
+**25** If no application for the return of a controlled substance, precursor or chemical offence-related property has been made under subsection 24(1) within 60 days after the date of the seizure, finding or acquisition by a peace officer, inspector or prescribed person and it or a portion of it is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, it or the portion is forfeited to Her Majesty and may be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
+> 1996, c. 19, s. 25; 2017, c. 7, s. 22.
 
 
 
 
-**Disposal following proceedings**
 
-**27** Subject to section 24, where, pursuant to a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament, the court before which the proceedings have been brought is satisfied that any controlled substance that is the subject of proceedings before the court is no longer required by that court or any other court, the court
+**Expedited disposition**
+
+**26** If a precursor or chemical offence-related property — whose storage or handling poses a risk to health or safety — or a controlled substance, or a portion of any of them, is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, it or the portion may be disposed of or otherwise dealt with by the Minister, a peace officer or a prescribed person in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
+> 1996, c. 19, s. 26; 2017, c. 7, s. 22.
+
+
+
+
+
+**Disposition following proceedings**
+
+**27** Subject to section 24, if, in a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the court before which the proceedings have been brought is satisfied that any controlled substance, precursor or chemical offence-related property that is the subject of proceedings before the court is no longer required by that court or any other court, the court
 - **(a)** shall
-	- **(i)** where it is satisfied that the person from whom the substance was seized came into possession of the substance in accordance with the regulations and continued to deal with it in accordance with the regulations, order that the substance be returned to the person, or
-	- **(ii)** where it is satisfied that possession of the substance by the person from whom it was seized is unlawful and the person who is lawfully entitled to its possession is known, order that the substance be returned to the person who is the lawful owner or is lawfully entitled to its possession; and
-- **(b)** may, where it is not satisfied that the substance should be returned pursuant to subparagraph (i) or (ii) or where possession of the substance by the person from whom it was seized is unlawful and the person who is the lawful owner or is lawfully entitled to its possession is not known, order that the substance be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in such manner as the Minister directs.
+	- **(i)** if it is satisfied that the person from whom the substance, precursor or property was seized came into possession of it lawfully and continued to deal with it lawfully, order that it be returned to the person, or
+	- **(ii)** if it is satisfied that possession of the substance, precursor or property by the person from whom it was seized is unlawful and the person who is the lawful owner or is lawfully entitled to its possession is known, order that it be returned to the person who is the lawful owner or is lawfully entitled to its possession; and
+- **(b)** may, if it is not satisfied that the substance, precursor or property should be returned under subparagraph (a)(i) or (ii) or if possession of it by the person from whom it was seized is unlawful and the person who is the lawful owner or is lawfully entitled to its possession is not known, order that it be forfeited to Her Majesty to be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
+> 1996, c. 19, s. 27; 2017, c. 7, s. 23.
 
 
 
 
-**Disposal with consent**
 
-**28** Where a controlled substance has been seized, found or otherwise acquired by a peace officer or inspector under this Act or the regulations and the substance or a portion of it is not required for the purposes of a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament, the person who is the lawful owner or is lawfully entitled to its possession may consent to its disposal, and on such consent being given the substance or portion is thereupon forfeited to Her Majesty and may be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in such manner as the Minister directs.
+**Disposition with consent**
+
+**28** If a controlled substance, precursor or chemical offence-related property has been seized, found or otherwise acquired by a peace officer, inspector or prescribed person and it or a portion of it is not required for the purposes of a preliminary inquiry, trial or other proceeding under this Act or any other Act of Parliament, the person who is its lawful owner may consent to its disposition, and when that consent is given, it or the portion is forfeited to Her Majesty and may be disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
+> 1996, c. 19, s. 28; 2017, c. 7, s. 24.
 
 
 
 
-**Destruction of plant**
 
-**29** The Minister may, on prior notification being given to the Attorney General, cause to be destroyed any plant from which a substance included in Schedule I, II, III or IV may be extracted that is being produced otherwise than under the authority of and in accordance with a licence issued under the regulations.
+**Report of disposition**
+
+**29** 
+
+- **(1)** Subject to the regulations, every peace officer, inspector or prescribed person who disposes of or otherwise deals with a controlled substance, precursor or chemical offence-related property under this Division shall, within 30 days, prepare a report setting out the following information and cause the report to be sent to the Minister :
+	- **(a)** the substance, precursor or property;
+	- **(b)** the amount of it that was disposed of or otherwise dealt with;
+	- **(c)** the manner in which it was disposed of or otherwise dealt with;
+	- **(d)** the date on which it was disposed of or otherwise dealt with;
+	- **(e)** the name of the police force, agency or entity to which the peace officer, inspector or prescribed person belongs;
+	- **(f)** the number of the file or police report related to the disposition of it or other dealing with it; and
+	- **(g)** any other prescribed information.
+
+**Interpretation**
+
+- **(2)** For the purposes of subsection (1), dealing with a controlled substance, precursor or chemical offence-related property by a peace officer includes using it to conduct an investigation or for training purposes.
+> 1996, c. 19, s. 29; 2017, c. 7, s. 24.
+
 
 
 
@@ -1019,7 +1103,7 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 
 **Return or disposition by Minister**
 
-- **(9)** Despite sections 24, 25 and 27, if a period of 120 days has elapsed after the date of a seizure under this section and the thing has not been returned in accordance with subsection (8), it shall be returned, disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
+- **(9)** If a period of 120 days has elapsed after the date of a seizure under this section and the thing has not been returned, disposed of or otherwise dealt with in accordance with subsection (8) or any of sections 24 to 27, it shall be returned, disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
 > 1996, c. 19, s. 31; 2015, c. 22, s. 3; 2017, c. 7, s. 26.
 
 
@@ -1216,11 +1300,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **45** 
 
-- **(1)** An inspector or peace officer may submit to an analyst for analysis or examination any substance or sample thereof taken by the inspector or peace officer.
+- **(1)** A peace officer, inspector or prescribed person may submit to an analyst for analysis or examination any substance or sample of it taken by the peace officer, inspector or prescribed person.
 
 **Report**
 
 - **(2)** An analyst who has made an analysis or examination under subsection (1) may prepare a certificate or report stating that the analyst has analysed or examined a substance or a sample thereof and setting out the results of the analysis or examination.
+> 1996, c. 19, s. 45; 2017, c. 7, s. 29.
+
 
 
 
@@ -1329,9 +1415,9 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Penalty**
 
 **46** Every person who contravenes a provision of this Act for which punishment is not otherwise provided, a provision of a regulation or an order made under section 45.1 or 45.2
-- **(a)** is guilty of an indictable offence and liable to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding three years, or to both; or
-- **(b)** is guilty of an offence punishable on summary conviction and liable to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months, or to both.
-> 1996, c. 19, s. 46; 2017, c. 7, s. 33.
+- **(a)** is guilty of an indictable offence and liable to a fine of not more than $5,000,000 or to imprisonment for a term not exceeding three years, or to both; or
+- **(b)** is guilty of an offence punishable on summary conviction and liable, for a first offence, to a fine of not more than $250,000 or imprisonment for a term of not more than six months, or to both, and, for any subsequent offence, to a fine of not more than $500,000 or imprisonment for a term of not more than 18 months, or to both.
+> 1996, c. 19, s. 46; 2017, c. 7, s. 33; 2018, c. 16, s. 200.
 
 
 
@@ -1449,17 +1535,19 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**Certificate issued pursuant to regulations**
+**Certificate issued under regulations**
 
 **50** 
 
-- **(1)** Subject to subsection (2), any certificate or other document issued pursuant to regulations made under paragraph 55(2)(c) is admissible in evidence in a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament and, in the absence of evidence to the contrary, is proof that the certificate or other document was validly issued and of the facts contained in it, without proof of the signature or official character of the person purporting to have certified it.
+- **(1)** Subject to subsection (2), any certificate or other document issued under regulations made under paragraph 55(2)(c) or (2.1)(c) is admissible in evidence in a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament and, in the absence of evidence to the contrary, is proof that the certificate or other document was validly issued and of the facts contained in it, without proof of the signature or official character of the person purporting to have certified it.
 
 **Certificate issued pursuant to regulations**
 
 - **(2)** The defence may, with leave of the court, require that the person who issued the certificate or other document
 	- **(a)** produce an affidavit or solemn declaration attesting to any of the matters deemed to be proved under subsection (1); or
 	- **(b)** appear before the court for examination or cross-examination in respect of the issuance of the certificate or other document.
+> 1996, c. 19, s. 50; 2018, c. 16, s. 201.
+
 
 
 
@@ -1510,6 +1598,19 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Copies of records, books or documents**
 
 **54** Where any record, book, electronic data or other document is examined or seized under this Act or the regulations, the Minister, or the officer by whom the record, book, electronic data or other document is examined or seized, may make or cause to be made one or more copies thereof, and a copy of any such record, book, electronic data or other document purporting to be certified by the Minister or a person authorized by the Minister is admissible in evidence and, in the absence of evidence to the contrary, has the same probative force as the original record, book, electronic data or other document would have had if it had been proved in the ordinary way.
+
+
+
+
+### Technical Assistance
+
+
+
+**Advice of experts**
+
+**54.1** The Minister may engage the services of persons having technical or specialized knowledge to advise the Minister in respect of his or her powers, duties or functions under this Act and, with the approval of the Treasury Board, fix their remuneration.
+> 2018, c. 16, s. 202.
+
 
 
 
