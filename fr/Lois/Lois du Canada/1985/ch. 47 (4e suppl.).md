@@ -207,7 +207,7 @@ Ukraine
 
 **3** 
 
-- **(1)** Est constitué le Tribunal canadien du commerce extérieur, composé d’au plus sept titulaires, dont le président, nommés par le gouverneur en conseil.
+- **(1)** Est constitué le Tribunal canadien du commerce extérieur, composé d’au plus sept titulaires, dont le président et le vice-président, nommés par le gouverneur en conseil.
 
 **Vacataires**
 
@@ -223,12 +223,16 @@ Ukraine
 
 **Nouveau mandat des titulaires**
 
-- **(5)** Les titulaires ne peuvent recevoir qu’un seul nouveau mandat, aux fonctions identiques ou non.
+- **(5)** Le titulaire ou l’ex-titulaire ne peuvent recevoir qu’un seul nouveau mandat à titre de titulaire, aux fonctions identiques — ou non — à celles occupées pendant le mandat précédent. Ils ne peuvent rester en poste à titre de titulaire pendant plus de dix ans.
+
+**Précision**
+
+- **(5.1)** Il est entendu que le changement de fonction d’un titulaire en cours de mandat, qu’il s’agisse des fonctions de président, de vice-président ou d’un autre titulaire, ne constitue pas pour ce titulaire le début d’un nouveau mandat.
 
 **Nouveaux mandats des vacataires**
 
 - **(6)** Les vacataires peuvent recevoir de nouveaux mandats.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 3; 1999, ch. 12, art. 54(A); 2010, ch. 12, art. 1695; 2012, ch. 19, art. 487.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 3; 1999, ch. 12, art. 54(A); 2010, ch. 12, art. 1695; 2012, ch. 19, art. 487; 2018, ch. 12, art. 245.
 
 
 
@@ -278,12 +282,24 @@ Ukraine
 
 **8** 
 
-- **(1)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le ministre peut autoriser l’un des titulaires à assurer l’intérim avec pleins pouvoirs; l’intérim ne peut cependant dépasser soixante jours sans l’approbation du gouverneur en conseil.
+- **(1)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le vice-président assure l’intérim avec pleins pouvoirs.
 
-**Intérim des membres**
+**Intérim du président — absence du vice-président**
 
-- **(2)** En cas d’absence ou d’empêchement d’un titulaire autre que le président ou d’un vacataire, le gouverneur en conseil peut nommer un suppléant, aux conditions et selon les modalités qu’il fixe, pour assurer l’intérim.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 12, art. 55(A) et 61(A); 2012, ch. 19, art. 488.
+- **(1.1)** Si le paragraphe (1) ne s’applique pas en raison de l’absence ou de l’empêchement du vice-président ou de vacance de son poste, le ministre peut autoriser un autre titulaire à assurer l’intérim avec pleins pouvoirs.
+
+**Intérim du vice-président**
+
+- **(1.2)** En cas d’absence ou d’empêchement du vice-président ou de vacance de son poste, le ministre peut autoriser un autre titulaire à assurer l’intérim avec pleins pouvoirs.
+
+**Approbation du gouverneur en conseil**
+
+- **(1.3)** Le titulaire autorisé par le ministre à assurer l’intérim au titre des paragraphes (1.1) et (1.2) ne peut le faire pendant plus de soixante jours sans l’approbation du gouverneur en conseil.
+
+**Intérim des autres membres**
+
+- **(2)** En cas d’absence ou d’empêchement d’un titulaire, autre que le président ou le vice-président, ou d’un vacataire, le gouverneur en conseil peut nommer un suppléant, aux conditions et selon les modalités qu’il fixe, pour assurer l’intérim.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 12, art. 55(A) et 61(A); 2012, ch. 19, art. 488; 2018, ch. 12, art. 246.
 
 
 
