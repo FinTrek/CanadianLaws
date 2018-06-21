@@ -562,7 +562,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **20** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités après le 29 mars 2019.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités après le cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md).
 
 **Prorogation**
 
@@ -574,8 +574,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
-> 1991, ch. 45, art. 20; 1997, ch. 15, art. 341; 2001, ch. 9, art. 484; 2006, ch. 4, art. 202; 2007, ch. 6, art. 338; 2012, ch. 5, art. 163; 2016, ch. 7, art. 117.
+- **(4)** En cas de dissolution du Parlement au cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md), ou au cours des six mois qui précèdent cet anniversaire, ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 45, art. 20; 1997, ch. 15, art. 341; 2001, ch. 9, art. 484; 2006, ch. 4, art. 202; 2007, ch. 6, art. 338; 2012, ch. 5, art. 163; 2016, ch. 7, art. 117; 2018, ch. 12, art. 354.
 
 
 
@@ -7843,26 +7843,27 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **410** 
 
-- **(1)** La société peut en outre :
+- **(1)** La société peut en outre :
 	- **a)** agir en qualité de mandataire pour des acheteurs, des vendeurs, des créanciers ou débiteurs hypothécaires, des locataires ou des bailleurs de biens immeubles et fournir des services de consultation et d’évaluation en matière de biens immeubles;
 	- **b)** détenir ou gérer des biens immeubles ou effectuer toutes opérations à leur égard;
-	- **c)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
+	- **c)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
 		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 449(1), ou encore précisée par arrêté du ministre,
 		- **(ii)** la prestation de services consultatifs ou autres en matière de conception, de développement ou de mise sur pied de systèmes de gestion de l’information,
 		- **(iii)** la conception, le développement ou la commercialisation de logiciels,
 		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
-	- **c.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
+	- **c.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
 		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 449(1),
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
 	- **d)** exercer au Canada toute activité visée à l’alinéa c) qu’elle exerçait avant le 1<sup>er</sup> juin 1992;
 	- **d.1)** fournir, aux conditions éventuellement fixées par règlement, des services spéciaux de gestion commerciale ou des services de consultation;
 	- **e)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle;
-	- **f)** vendre des billets :
+	- **f)** vendre des billets :
 		- **(i)** y compris de loterie, à titre de service public non lucratif pour des fêtes ou activités spéciales, temporaires, à caractère non commercial et d’intérêt local, municipal, provincial ou national,
 		- **(ii)** de transport en commun urbain,
 		- **(iii)** d’une loterie parrainée par le gouvernement fédéral, un gouvernement provincial ou une administration municipale, ou encore par tout organisme de l’un ou l’autre;
-	- **g)** faire fonction de gardien de biens.
+	- **g)** faire fonction de gardien de biens;
+	- **h)** fournir des services d’identification, d’authentification ou de vérification.
 
 **Interdiction**
 
@@ -7870,11 +7871,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, par règlement :
+- **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)c), c.1) ou d.1);
 	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés aux alinéas (1)a) et 409(2)c);
 	- **c)** prévoir les circonstances dans lesquelles la société peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)c) ou c.1).
-> 1991, ch. 45, art. 410; 1993, ch. 34, art. 126(F); 1997, ch. 15, art. 375; 2001, ch. 9, art. 530.
+> 1991, ch. 45, art. 410; 1993, ch. 34, art. 126(F); 1997, ch. 15, art. 375; 2001, ch. 9, art. 530; 2018, ch. 12, art. 310.
 
 
 
