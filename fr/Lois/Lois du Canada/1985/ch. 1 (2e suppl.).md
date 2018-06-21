@@ -200,7 +200,7 @@
 
 ***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire. (*specified rate*)
 
-***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) qui n’a pas été annulé au titre de l’article 25.5 de cette loi. (*excise stamp*)
+***timbre d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*excise stamp*)
 
 ***titulaire de licence de spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*spirits licensee*)
 
@@ -277,7 +277,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115.
 
 
 
@@ -5850,16 +5850,16 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Pouvoirs à l’égard des infractions de conduite avec capacités affaiblies**
 
-- **(2)** L’agent des douanes désigné a, dans le cadre de l’exercice normal de ses attributions à un bureau de douane ou s’il agit en conformité avec l’article 99.1, les pouvoirs et obligations que les articles 254 et 256 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) confèrent à un agent de la paix; il peut en outre, dans le cas où, en vertu du paragraphe 254(3) de cette loi, il ordonne à une personne de fournir des échantillons d’haleine ou de sang ou, dans le cas où, en vertu du paragraphe 254(3.1) de cette loi, il ordonne à une personne de se soumettre à une évaluation, lui ordonner, à cette fin, de suivre un agent de la paix visé à l’alinéa c) de la définition de ***agent de la paix*** à l’article 2 de la même loi.
+- **(2)** L’agent des douanes désigné a, dans le cadre de l’exercice normal de ses attributions à un bureau de douane ou s’il agit en conformité avec l’article 99.1, les pouvoirs et obligations que les articles 254 et 256 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) confèrent à un agent de la paix; il peut en outre, dans le cas où, en vertu du paragraphe 254(3) de cette loi, il ordonne à une personne de fournir des échantillons d’haleine ou de sang ou, dans le cas où, en vertu du paragraphe 254(3.1) de cette loi, il ordonne à une personne de se soumettre à une évaluation ou de fournir des échantillons de sang, lui ordonner, à cette fin, de suivre un agent de la paix visé à l’alinéa c) de la définition de agent de la paix à l’article 2 de la même loi.
 
 **Pouvoir de détention**
 
-- **(3)** L’agent des douanes désigné qui arrête une personne en vertu des pouvoirs que le paragraphe (1) lui confère peut la détenir jusqu’à ce qu’elle soit confiée à la garde d’un agent de la paix visé à l’alinéa c) de la définition de ***agent de la paix*** à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+- **(3)** L’agent des douanes désigné qui arrête une personne en vertu des pouvoirs que le paragraphe (1) lui confère peut la détenir jusqu’à ce qu’elle soit confiée à la garde d’un agent de la paix visé à l’alinéa c) de la définition de agent de la paix à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Restriction**
 
 - **(4)** L’agent des douanes désigné ne peut recourir à ses pouvoirs d’application de la présente loi uniquement pour rechercher des éléments de preuve d’infraction criminelle à une autre loi fédérale.
-> 1998, ch. 7, art. 1; 2001, ch. 25, art. 84; 2008, ch. 6, art. 59.
+> 1998, ch. 7, art. 1; 2001, ch. 25, art. 84; 2008, ch. 6, art. 59; 2018, ch. 21, art. 11.
 
 
 
