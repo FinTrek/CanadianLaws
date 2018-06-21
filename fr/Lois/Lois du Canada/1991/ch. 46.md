@@ -862,7 +862,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 **21** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après le 29 mars 2019.
+- **(1)** Sous réserve des paragraphes (2) et (4), les banques ne peuvent exercer leurs activités, et les banques étrangères autorisées ne peuvent exercer leurs activités au Canada, après le cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md).
 
 **Prorogation**
 
@@ -874,8 +874,8 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 **Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les banques peuvent exercer leurs activités et les banques étrangères autorisées leurs activités au Canada jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
-> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199; 2007, ch. 6, art. 4; 2012, ch. 5, art. 3; 2016, ch. 7, art. 118.
+- **(4)** En cas de dissolution du Parlement au cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md), ou au cours des six mois qui précèdent cet anniversaire, ou au cours de la période prévue au paragraphe (2), les banques peuvent exercer leurs activités, et les banques étrangères autorisées peuvent exercer leurs activités au Canada, jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199; 2007, ch. 6, art. 4; 2012, ch. 5, art. 3; 2016, ch. 7, art. 118; 2018, ch. 12, art. 355.
 
 
 
@@ -10158,26 +10158,27 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **410** 
 
-- **(1)** La banque peut en outre :
+- **(1)** La banque peut en outre :
 	- **a)** détenir ou gérer des biens immeubles ou effectuer toutes opérations à leur égard;
 	- **b)** fournir des services informatiques relatifs à des activités bancaires prévus par règlement;
-	- **c)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
+	- **c)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
 		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 464(1), ou encore précisée par arrêté du ministre,
 		- **(ii)** la prestation de services consultatifs ou autres en matière de conception, de développement ou de mise sur pied de systèmes de gestion de l’information,
 		- **(iii)** la conception, le développement ou la commercialisation de logiciels,
 		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
-	- **c.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou de portails d’information qui sont utilisés :
+	- **c.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou de portails d’information qui sont utilisés :
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
 		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 464(1),
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
 	- **c.2)** fournir, aux conditions éventuellement fixées par règlement, des services spéciaux de gestion commerciale ou des services de consultation;
 	- **d)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle;
-	- **e)** vendre des billets :
+	- **e)** vendre des billets :
 		- **(i)** y compris de loterie, à titre de service public non lucratif pour des fêtes ou activités spéciales, temporaires, à caractère non commercial et d’intérêt local, municipal, provincial ou national,
 		- **(ii)** de transport en commun urbain,
 		- **(iii)** d’une loterie parrainée par le gouvernement fédéral, un gouvernement provincial ou une administration municipale, ou encore par tout organisme de l’un ou l’autre;
 	- **f)** faire fonction de gardien de biens;
-	- **g)** faire fonction de séquestre ou de liquidateur.
+	- **g)** faire fonction de séquestre ou de liquidateur;
+	- **h)** fournir des services d’identification, d’authentification ou de vérification.
 
 **Interdiction**
 
@@ -10185,11 +10186,11 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, par règlement :
+- **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir ce que la banque peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)c) à c.2);
 	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés à l’alinéa 409(2)a) qui sont des services de planification financière ou des services visés à l’alinéa 409(2)c);
 	- **c)** prévoir les circonstances dans lesquelles la banque peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)c) ou c.1).
-> 1991, ch. 46, art. 410; 1993, ch. 34, art. 8(F); 1997, ch. 15, art. 42; 2001, ch. 9, art. 100.
+> 1991, ch. 46, art. 410; 1993, ch. 34, art. 8(F); 1997, ch. 15, art. 42; 2001, ch. 9, art. 100; 2018, ch. 12, art. 316.
 
 
 
@@ -15028,26 +15029,27 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 
 **539** 
 
-- **(1)** La banque étrangère autorisée peut en outre, au Canada :
+- **(1)** La banque étrangère autorisée peut en outre, au Canada :
 	- **a)** détenir ou gérer des biens immeubles ou effectuer toutes opérations à leur égard;
 	- **b)** fournir des services informatiques relatifs à des activités bancaires prévus par règlement;
-	- **b.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, exercer les activités suivantes :
+	- **b.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, exercer les activités suivantes :
 		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative aux activités d’une entité dans laquelle une banque est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 468 ou aux activités d’une entité canadienne acquise ou détenue dans le cadre de l’article 522.08, ou encore précisée par arrêté du ministre,
 		- **(ii)** la prestation de services consultatifs ou autres en matière de conception, de développement ou de mise sur pied de systèmes de gestion de l’information,
 		- **(iii)** la conception, le développement ou la commercialisation de logiciels,
 		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
-	- **b.2)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
+	- **b.2)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
 		- **(ii)** soit pour la fourniture d’information relative aux activités d’une entité dans laquelle une banque est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 468 ou aux activités d’une entité canadienne acquise ou détenue dans le cadre de l’article 522.08,
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
 	- **b.3)** fournir, aux conditions éventuellement fixées par règlement, des services spéciaux de gestion commerciale ou des services de consultation;
 	- **c)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle;
-	- **d)** vendre des billets :
+	- **d)** vendre des billets :
 		- **(i)** y compris de loterie, à titre de service public non lucratif pour des fêtes ou activités spéciales, temporaires, à caractère non commercial et d’intérêt local, municipal, provincial ou national,
 		- **(ii)** de transport en commun urbain,
 		- **(iii)** d’une loterie parrainée par le gouvernement fédéral, un gouvernement provincial ou une administration municipale, ou encore par tout organisme de l’un ou l’autre;
 	- **e)** faire fonction de gardien de biens;
-	- **f)** faire fonction de séquestre ou de liquidateur.
+	- **f)** faire fonction de séquestre ou de liquidateur;
+	- **g)** fournir des services d’identification, d’authentification ou de vérification.
 
 **Interdiction**
 
@@ -15055,11 +15057,11 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, par règlement :
+- **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir ce que la banque étrangère autorisée peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)b.1) à b.3);
 	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés à l’alinéa 538(2)a) qui sont des services de planification financière ou des services visés à l’alinéa 538(2)c);
 	- **c)** prévoir les circonstances dans lesquelles la banque étrangère autorisée peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)b.1) ou b.2).
-> 1991, ch. 46, art. 539; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 139; 2007, ch. 6, art. 82.
+> 1991, ch. 46, art. 539; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 139; 2007, ch. 6, art. 82; 2018, ch. 12, art. 324.
 
 
 
@@ -17820,7 +17822,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **670** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après le 29 mars 2019.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après le cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md).
 
 **Prorogation**
 
@@ -17832,8 +17834,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille bancaires peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
-> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1; 2007, ch. 6, art. 105; 2012, ch. 5, art. 77; 2016, ch. 7, art. 119.
+- **(4)** En cas de dissolution du Parlement au cinquième anniversaire de la sanction de la [Loi no 1 d’exécution du budget de 2018](/fr/Lois/Lois%20du%20Canada/2018/ch.%2012.md), ou au cours des six mois qui précèdent cet anniversaire, ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille bancaires peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1; 2007, ch. 6, art. 105; 2012, ch. 5, art. 77; 2016, ch. 7, art. 119; 2018, ch. 12, art. 356.
 
 
 
@@ -24363,27 +24365,31 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Dénomination non autorisée**
 
-- **(2)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute entité, à l’exception d’une banque, qui acquiert, adopte ou conserve une dénomination qui comprend le terme « banque », « banquier » ou « opérations bancaires », employé seul ou combiné avec d’autres mots, pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+- **(2)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute entité, à l’exception d’une banque, qui acquiert, adopte ou conserve une dénomination, un nom de domaine ou une marque d’identification qui comprend le terme « banque », « banquier » ou « bancaire », employé seul ou combiné avec d’autres mots, pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
 
-**Utilisation non autorisée — « banque » et « coopérative de crédit »**
+**Utilisation non autorisée — « banque » et « coopérative de crédit »**
 
-- **(2.01)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « banque » et « coopérative de crédit » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+- **(2.01)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « banque » et « coopérative de crédit » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
 
-**Utilisation non autorisée — « coopérative de crédit » et « fédéral »**
+**Utilisation non autorisée — « coopérative de crédit » et « fédéral »**
 
-- **(2.02)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « coopérative de crédit » et « fédéral » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+- **(2.02)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « coopérative de crédit » et « fédéral » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
 
-**Utilisation non autorisée — « banque » et « coopérative »**
+**Utilisation non autorisée — « banque » et « coopérative »**
 
-- **(2.03)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « banque » et « coopérative » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+- **(2.03)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « banque » et « coopérative » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
 
-**Utilisation non autorisée — « coopérative » et « fédéral »**
+**Utilisation non autorisée — « coopérative » et « fédéral »**
 
-- **(2.04)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « coopérative » et « fédéral » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+- **(2.04)** Sous réserve des règlements et des paragraphes (4) à (5.1) et (12), commet une infraction toute entité, à l’exception d’une coopérative de crédit fédérale, qui utilise les termes « coopérative » et « fédéral » seuls ou en combinaison avec d’autres termes pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
 
-**Utilisation non autorisée du terme « banque », « banquier » ou « opérations bancaires »**
+**Utilisation non autorisée du terme « banque », « banquier » ou « bancaire »**
 
-- **(2.1)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute personne, à l’exception d’une banque, qui utilise le terme « banque », « banquier » ou « opérations bancaires » pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, sans y être autorisée par la présente loi ou par une autre loi fédérale.
+- **(2.1)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute personne, à l’exception d’une banque, qui utilise le terme « banque », « banquier » ou « bancaire », sans y être autorisée par la présente loi ou par une autre loi fédérale, pour indiquer ou décrire une entreprise ou une partie des opérations d’une entreprise au Canada, notamment pour indiquer ou décrire les produits ou services de l’entreprise ou la façon d’obtenir de tels produits ou services.
+
+**Utilisation non autorisée du terme « banque », « banquier » ou « bancaire »**
+
+- **(2.11)** Sous réserve des règlements et des paragraphes (4) à (5.1), (6) et (12), commet une infraction toute personne, à l’exception d’une banque, qui, relativement à sa propre entreprise, autorise une autre personne à utiliser, ou fait en sorte qu’une autre personne utilise, le terme « banque », « banquier » ou « bancaire », sans y être autorisée par la présente loi ou par une autre loi fédérale, pour indiquer ou décrire cette entreprise ou une partie des opérations de cette entreprise au Canada, notamment pour indiquer ou décrire les produits ou services de l’entreprise ou la façon d’obtenir de tels produits ou services.
 
 **Utilisation non autorisée de la dénomination ou d’une marque d’identification**
 
@@ -24429,7 +24435,28 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Utilisation autorisée**
 
-- **(5)** Ne constitue pas une infraction le simple fait pour la filiale d’une banque d’utiliser la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités, ou d’utiliser, dans l’exercice de ses activités, une marque d’identification de cette banque.
+- **(4.2)** Sous réserve des règlements, ne commettent pas l’infraction prévue au paragraphe (2.1) ou (2.11) les personnes suivantes qui respectent les exigences prévues au paragraphe (4.3) :
+	- **a)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
+	- **b)** une société de fiducie ou de prêt constituée en personne morale ou formée sous le régime d’une loi provinciale;
+	- **c)** une société coopérative de crédit centrale;
+	- **d)** une société coopérative de crédit locale;
+	- **e)** une fédération de sociétés coopératives de crédit;
+	- **f)** le bureau du Trésor de l’Alberta nommé « *ATB Financial* » et visé par l’article 2 de la loi intitulée *ATB Financial Act*, chapitre A-45.2 des lois intitulées *Revised Statutes of Alberta 2000*, ou toute entité qui remplace ce bureau;
+	- **g)** une entité visée par règlement.
+
+**Exigences**
+
+- **(4.3)** Pour l’application du paragraphe (4.2), les exigences sont les suivantes :
+	- **a)** l’entité communique, sous réserve des règlements, les renseignements suivants :
+		- **(i)** sa nature au sens des alinéas (4.2)a) à g) ou au sens des règlements,
+		- **(ii)** le territoire sous le régime des lois duquel elle est principalement réglementée,
+		- **(iii)** le fait qu’elle fasse partie ou non d’un système d’assurance-dépôts canadien et, s’il y a lieu, le nom de ce système,
+		- **(iv)** tout autre renseignement prévu par règlement;
+	- **b)** l’entité observe toute exigence ou condition prévue par règlement.
+
+**Utilisation autorisée**
+
+- **(5)** Ne constitue pas une infraction le simple fait pour la filiale d’une banque d’utiliser la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités, ou d’utiliser, dans l’exercice de ses activités, toute marque d’identification ou tout nom de domaine de cette banque.
 
 **Utilisation autorisée**
 
@@ -24441,7 +24468,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Utilisation autorisée**
 
-- **(5.3)** Sous réserve des règlements, ne commet pas une infraction l’entité qui appartient au groupe d’une banque du simple fait qu’elle utilise la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou toute marque d’identification de la banque dans l’exercice de ses activités si elle n’utilise pas les termes « banque », « banquier », « coopérative de crédit fédérale » ou « opérations bancaires » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
+- **(5.3)** Sous réserve des règlements, ne commet pas une infraction l’entité qui appartient au groupe d’une banque du simple fait qu’elle utilise la dénomination de la banque dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou toute marque d’identification de la banque dans l’exercice de ses activités si elle n’utilise pas les termes « banque », « banquier », « coopérative de crédit fédérale » ou « bancaire » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
 
 **Utilisation autorisée**
 
@@ -24451,13 +24478,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Utilisation autorisée**
 
-- **(7)** Ne commet pas une infraction la filiale d’une société de portefeuille bancaire du simple fait qu’elle utilise la dénomination de la société de portefeuille bancaire dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou une marque d’identification de la société de portefeuille bancaire dans l’exercice de ses activités pourvu que, si elle n’est pas une banque ou la filiale d’une banque, elle n’utilise pas les termes « banque », « banquier » ou « opérations bancaires » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
+- **(7)** Ne commet pas une infraction la filiale d’une société de portefeuille bancaire du simple fait qu’elle utilise la dénomination de la société de portefeuille bancaire dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou une marque d’identification de la société de portefeuille bancaire dans l’exercice de ses activités pourvu que, si elle n’est pas une banque ou la filiale d’une banque, elle n’utilise pas les termes « banque », « banquier » ou « bancaire » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
 
 - **(7.1)** [Abrogé, 2007, ch. 6, art. 129]
 
 **Utilisation autorisée**
 
-- **(8)** Sous réserve des règlements, ne commet pas une infraction l’entité qui appartient au groupe d’une société de portefeuille bancaire du simple fait qu’elle utilise la dénomination de la société de portefeuille bancaire dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou une marque d’identification de la société de portefeuille bancaire dans l’exercice de ses activités, si elle n’utilise pas les termes « banque », « banquier » ou « opérations bancaires » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
+- **(8)** Sous réserve des règlements, ne commet pas une infraction l’entité qui appartient au groupe d’une société de portefeuille bancaire du simple fait qu’elle utilise la dénomination de la société de portefeuille bancaire dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou une marque d’identification de la société de portefeuille bancaire dans l’exercice de ses activités, si elle n’utilise pas les termes « banque », « banquier » ou « bancaire » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification.
 
 - **(8.1)** [Abrogé, 2007, ch. 6, art. 129]
 
@@ -24472,22 +24499,22 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Utilisation autorisée**
 
 - **(10)** Sous réserve des règlements, ne commet pas une infraction l’entité canadienne qui est une entité liée à une banque étrangère du simple fait qu’elle utilise la dénomination de la banque étrangère dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités, ou une marque d’identification de la banque étrangère dans l’exercice de ses activités, pourvu que les conditions suivantes soient réunies :
-	- **a)** elle n’utilise pas les termes « banque », « banquier » ou « opérations bancaires » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification;
+	- **a)** elle n’utilise pas les termes « banque », « banquier » ou « bancaire » dans sa dénomination sociale ou dans la dénomination sous laquelle elle exerce ses activités ou dans une de ses marques d’identification;
 	- **b)** la banque étrangère consent à cette utilisation.
 
 - **(10.1)** [Abrogé, 2007, ch. 6, art. 129]
 
 **Utilisation autorisée**
 
-- **(11)** Sous réserve des règlements, ne commet pas une infraction la banque étrangère qui exerce les activités visées aux articles 510.1, 522.05, 522.18 ou 522.19 ou l’entité constituée ou formée sous le régime des lois d’un pays étranger qui exerce les activités visées à l’un de ces articles et qui est une entité liée à une banque étrangère du simple fait qu’elle utilise sa dénomination ou une de ses marques d’identification, pourvu qu’elle n’utilise pas les termes « banque », « banquier » ou « opérations bancaires ».
+- **(11)** Sous réserve des règlements, ne commet pas une infraction la banque étrangère qui exerce les activités visées aux articles 510.1, 522.05, 522.18 ou 522.19 ou l’entité constituée ou formée sous le régime des lois d’un pays étranger qui exerce les activités visées à l’un de ces articles et qui est une entité liée à une banque étrangère du simple fait qu’elle utilise sa dénomination ou une de ses marques d’identification, pourvu qu’elle n’utilise pas les termes « banque », « banquier » ou « bancaire ».
 
 **Utilisation autorisée**
 
 - **(12)** Ne commet pas l’infraction prévue à l’un des paragraphes (2) à (3) la personne qui accomplit l’acte visé à ce paragraphe si elle a obtenu l’agrément du surintendant et se conforme aux modalités qu’il fixe et, dans le cas où l’acte comporte l’utilisation de la dénomination ou d’une marque d’identification d’une banque, d’une société de portefeuille bancaire ou d’une banque étrangère, si elle a obtenu le consentement de celle-ci.
 
-**banque, banquier et opérations bancaires**
+**banque, banquier et bancaire**
 
-- **(13)** Pour l’application du présent article, les termes ***banque***, ***banquier*** ou ***opérations bancaires*** s’entendent en outre :
+- **(13)** Pour l’application du présent article, les termes ***banque***, ***banquier*** ou ***bancaire*** s’entendent en outre :
 	- **a)** de l’un ou l’autre de ces termes dans quelque langue que ce soit;
 	- **b)** d’un ou de plusieurs mots ayant un sens équivalent à l’un de ces termes, dans quelque langue que ce soit.
 
@@ -24514,6 +24541,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **(15)** Pour l’application du présent article, la marque d’identification d’une entité s’entend en outre :
 	- **a)** de tout signe graphique, symbole ou logo de l’entité;
 	- **b)** du sigle ou de tout acronyme de l’entité;
+	- **b.1)** de toute marque de commerce de l’entité;
 	- **c)** de toute marque qui lui est essentiellement semblable.
 
 **Définition de banque étrangère**
@@ -24526,8 +24554,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Règlements**
 
-- **(18)** Le gouverneur en conseil peut prendre des règlements pour l’application des paragraphes (1) à (3), des alinéas (4)*b*), g) et h) et des paragraphes (5.3), (8) et (9.1) à (11).
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 129; 2010, ch. 12, art. 2093.
+- **(18)** Le gouverneur en conseil peut prendre des règlements pour l’application des paragraphes (1) à (3), des alinéas (4)b), g) et h) et des paragraphes (4.2), (4.3), (5.3), (8) et (9.1) à (11).
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 129; 2010, ch. 12, art. 2093; 2018, ch. 12, art. 352.
 
 
 
@@ -24639,6 +24667,55 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(3)** Le commissaire ou un plaignant peut, en plus de tous ses autres droits, demander au tribunal une ordonnance enjoignant à la banque ou à la banque étrangère autorisée ou à ceux de ses administrateurs, dirigeants, employés ou mandataires qui ne respectent pas les dispositions visant les consommateurs applicables de s’y conformer, ou leur interdisant d’y contrevenir; le tribunal peut acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
 > 2001, ch. 9, art. 183; 2007, ch. 6, art. 130.
+
+
+
+
+
+**Fourniture de renseignements**
+
+**989.1** Le surintendant peut, s’il est d’avis que la fourniture de renseignements ou de documents est nécessaire pour s’assurer qu’une entité respecte les exigences prévues au paragraphe 983(4.3), enjoindre à cette entité de lui fournir les renseignements ou documents qu’il précise.
+> 2018, ch. 12, art. 353.
+
+
+
+
+
+**Décisions du surintendant**
+
+**989.2** 
+
+- **(1)** S’il est d’avis qu’une personne agit d’une manière qui est interdite par l’article 983, le surintendant peut lui enjoindre de prendre les mesures ci-après ou l’une d’elles :
+	- **a)** mettre un terme à ces agissements ou s’abstenir de s’y livrer;
+	- **b)** prendre les mesures qui, selon le surintendant, s’imposent pour remédier à cette situation.
+
+**Observations**
+
+- **(2)** Sous réserve du paragraphe (3), le surintendant ne peut enjoindre à une personne à prendre des mesures en vertu du paragraphe (1) sans donner la possibilité raisonnable à cette personne de présenter ses observations à cet égard.
+
+**Décision provisoire**
+
+- **(3)** Lorsqu’à son avis, le délai pour la présentation des observations pourrait être préjudiciable à l’intérêt public, le surintendant peut imposer les obligations visées aux alinéas (1)a) et b) pour une période d’au plus quinze jours.
+
+**Durée**
+
+- **(4)** La décision prise par le surintendant aux termes du paragraphe (3) reste en vigueur après l’expiration des quinze jours si aucune observation n’a été présentée dans ce délai ou si le surintendant avise la personne qu’il n’est pas convaincu que les observations présentées justifient la révocation de la décision.
+> 2018, ch. 12, art. 353.
+
+
+
+
+
+**Exécution judiciaire**
+
+**989.3** 
+
+- **(1)** En cas de manquement à une décision prise par le surintendant aux termes des paragraphes 989.2(1) ou (3), le surintendant peut, en plus de toute autre mesure qu’il est déjà habilité à prendre sous le régime de la présente loi ou de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md), demander à un tribunal de rendre une ordonnance obligeant la personne à mettre fin ou remédier au manquement, ou toute autre ordonnance qu’il juge indiquée en l’espèce.
+
+**Appel**
+
+- **(2)** L’ordonnance rendue par ce tribunal peut être portée en appel devant la juridiction compétente pour juger en appel toute autre ordonnance de ce tribunal.
+> 2018, ch. 12, art. 353.
 
 
 
