@@ -96,29 +96,31 @@
 
 **6** 
 
-- **(1)** Le ministre peut :
+- **(1)** Le ministre peut :
 	- **a)** élaborer des projets et des stratégies unifiées en vue d’appuyer le développement et la diversification de l’économie de l’Ouest canadien;
 	- **b)** pour la mise en oeuvre de ces projets et stratégies, surveiller la réalisation de programmes ou opérations et en lancer ou réaliser lui-même lorsque d’autres ministres, ministères ou organismes fédéraux ne vont pas en entreprendre;
-	- **c)** concevoir, réaliser, diriger et gérer des programmes ou opérations destinés à contribuer, même indirectement :
+	- **c)** concevoir, réaliser, diriger et gérer des programmes ou opérations destinés à contribuer, même indirectement :
 		- **(i)** à la création, au développement, au soutien et à la promotion d’entreprises, et plus particulièrement de petites et moyennes entreprises, dans l’Ouest canadien,
 		- **(ii)** à la prospérité économique de la région;
-	- **d)** concevoir, réaliser, diriger et gérer des programmes ou opérations visant à améliorer le contexte commercial de l’Ouest canadien, notamment en ce qui concerne :
+	- **d)** concevoir, réaliser, diriger et gérer des programmes ou opérations visant à améliorer le contexte commercial de l’Ouest canadien, notamment en ce qui concerne :
 		- **(i)** dans le domaine des affaires, les aides aux associations, conférences, recherches, consultations, expositions et projets de démonstration ainsi qu’aux études de marché,
 		- **(ii)** la création de fichiers et de réseaux informatisés sur les perspectives commerciales,
 		- **(iii)** l’amélioration de l’information et de la coopération commerciales;
 	- **e)** lancer, gérer, parrainer, promouvoir et coordonner la recherche et l’élaboration d’orientations de même que les études économiques en vue de soutenir le développement et la diversification de l’économie de l’Ouest canadien;
-	- **f)** avec l’approbation du gouverneur en conseil, conclure des accords avec tout gouvernement provincial, ou tout organisme de celui-ci, relativement à l’exercice de ses attributions;
+	- **f)** conclure des accords avec tout gouvernement provincial, ou tout organisme de celui-ci, relativement à l’exercice de ses attributions;
 	- **g)** prendre toute autre mesure utile à l’application de la présente loi.
 
 **Assistance financière**
 
-- **(2)** Le ministre peut, conformément aux modalités approuvées par le Conseil du Trésor et avec l’approbation du ministre des Finances :
+- **(2)** Le ministre peut, conformément aux modalités approuvées par le Conseil du Trésor et avec l’approbation du ministre des Finances :
 	- **a)** accorder des prêts pour la création ou le développement des entreprises, et plus particulièrement de petites et moyennes entreprises, dans l’Ouest canadien;
 	- **b)** garantir le remboursement de tout engagement financier contracté aux fins visées à l’alinéa a), ou souscrire des assurances-prêts ou assurances-crédit à cet égard.
 
 **Idem**
 
 - **(3)** Le ministre peut, conformément aux modalités approuvées par le Conseil du Trésor, contribuer par des subventions ou autres aides, au financement de programmes ou opérations entrepris par lui.
+> L.R. (1985), ch. 11 (4<sup>e</sup> suppl.), art. 6; 2018, ch. 12, art. 359.
+
 
 
 
