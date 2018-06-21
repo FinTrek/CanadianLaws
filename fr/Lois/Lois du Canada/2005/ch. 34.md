@@ -39,12 +39,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Commission*** La Commission de l’assurance-emploi du Canada maintenue par l’article 20.
+***Commission*** La Commission de l’assurance-emploi du Canada maintenue par l’article 20. (*Commission*)
 
-***ministre*** Le ministre de l’Emploi et du Développement social.
+***entité partenaire***
+- **a)** Un ministère ou tout autre organisme, autre qu’une société d’État mère, mentionné dans une annexe de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** toute société d’État mère ou filiale à cent pour cent, au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **c)** l’administration d’une province, un organisme public créé en vertu d’une loi provinciale ou une municipalité;
+- **d)** un conseil, un gouvernement ou une autre entité autorisé à agir soit pour le compte d’une bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit pour celui d’une première nation, d’un peuple autochtone ou de tout organisme autochtone qui est partie à un accord sur des revendications territoriales ou à tout autre traité, à un accord sur l’autonomie gouvernementale ou à une entente de règlement;
+- **e)** une société sans but lucratif ou un organisme public exerçant des fonctions pour toute entité visée à l’un ou l’autre des alinéas a) à d). (*partner entity*)
 
-***Tribunal*** Le Tribunal de la sécurité sociale constitué par l’article 44.
-> 2005, ch. 34, art. 2; 2012, ch. 19, art. 223; 2013, ch. 40, art. 206.
+***ministre*** Le ministre de l’Emploi et du Développement social. (*Minister*)
+
+***Tribunal*** Le Tribunal de la sécurité sociale constitué par l’article 44. (*Tribunal*)
+> 2005, ch. 34, art. 2; 2012, ch. 19, art. 223; 2013, ch. 40, art. 206; 2018, ch. 12, art. 268.
 
 
 
@@ -118,12 +125,57 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Prestation de services au public**
+
+**5.1** 
+
+- **(1)** Le ministre peut appuyer la prestation de services au public; à cette fin, il peut :
+	- **a)** fournir les services et les installations ci-après à toute entité partenaire ainsi qu’exercer toute activité se rapportant à ces services et à ces installations, à savoir :
+		- **(i)** des services et des installations pour l’appuyer dans la prestation de ses programmes et de ses services,
+		- **(ii)** tout autre service ou toute autre installation désigné par le gouverneur en conseil;
+	- **b)** fournir les services ci-après aux ministères et aux organismes visés aux annexes I, I.1 ou II de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou à toute autre entité partenaire désignée par le gouverneur en conseil ainsi qu’exercer toute activité se rapportant à ces services, à savoir :
+		- **(i)** l’administration de sites Web accessibles au public,
+		- **(ii)** l’administration de comptes de médias sociaux,
+		- **(iii)** la publication d’applications mobiles dans les boutiques d’applications mobiles de tiers et sur le site Web du gouvernement du Canada,
+		- **(iv)** des services en ligne de mobilisation des citoyens,
+		- **(v)** tout autre service électronique ou numérique connexe;
+	- **c)** administrer le site Web du gouvernement du Canada;
+	- **d)** fournir des services d’information concernant les programmes et services du gouvernement du Canada ou de toute autre personne, de tout autre organisme ou de tout autre gouvernement désigné par le gouverneur en conseil.
+
+**Désignation — gouverneur en conseil**
+
+- **(2)** Le ministre peut fournir tout service ou toute installation visé au paragraphe (1) — sauf les services visés aux alinéas (1)c) ou d) — et désigné par le gouverneur en conseil à toute autre personne, à tout autre organisme ou à tout autre gouvernement désigné par celui-ci.
+
+**Exercice des attributions**
+
+- **(3)** Lorsqu’il appuie la prestation de services au public, le ministre agit en vue de mieux satisfaire aux besoins des Canadiens.
+> 2018, ch. 12, art. 269.
+
+
+
+
+
+**Droits — services et installations**
+
+**5.2** 
+
+- **(1)** Le ministre peut exiger des droits pour les services et les installations qu’il fournit au titre du paragraphe 5.1(1), sauf pour les services qu’il fournit au titre des alinéas 5.1(1)c) ou d).
+
+**Dépenses**
+
+- **(2)** Le ministre peut dépenser les recettes perçues en application du paragraphe (1).
+> 2018, ch. 12, art. 269.
+
+
+
+
+
 **Pouvoirs**
 
 **6** Dans le cadre des attributions que lui confère la présente loi ou toute autre loi, le ministre peut :
-- **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur les ressources humaines et le développement des compétences ou sur le développement social;
-- **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant les ressources humaines et le développement des compétences ou le développement social.
-> 2005, ch. 34, art. 6; 2012, ch. 19, art. 687.
+- **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur les ressources humaines et le développement des compétences, sur le développement social ou sur la prestation de services au public;
+- **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant les ressources humaines et le développement des compétences, le développement social ou la prestation de services au public.
+> 2005, ch. 34, art. 6; 2012, ch. 19, art. 687; 2018, ch. 12, art. 271.
 
 
 
@@ -131,13 +183,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Programmes**
 
-**7** Le ministre peut, dans le cadre des attributions que lui confère la présente loi, concevoir et réaliser des programmes destinés à appuyer les projets ou autres activités qui contribuent au développement des ressources humaines au Canada et au développement des compétences des Canadiens ou au développement social du Canada et accorder des subventions et des contributions pour les appuyer.
-> 2005, ch. 34, art. 7; 2012, ch. 19, art. 687.
+**7** Le ministre peut, dans le cadre des attributions que lui confère la présente loi, concevoir et réaliser des programmes destinés à appuyer les projets ou autres activités qui contribuent au développement des ressources humaines au Canada et au développement des compétences des Canadiens, au développement social du Canada ou à la prestation de services au public, et accorder des subventions et des contributions pour appuyer ces programmes.
+> 2005, ch. 34, art. 7; 2012, ch. 19, art. 687; 2018, ch. 12, art. 272.
 
 
 
 
-**8** [Abrogé, 2012, ch. 19, art. 687]
+
+**Numéros d’entreprise — ministre**
+
+**8** Le ministre peut collecter des numéros d’entreprise, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et les utiliser comme identificateurs pour la mise en oeuvre ou l’exécution de toute loi, de tout programme ou de toute activité dont la mise en oeuvre ou l’exécution relève de lui.
+> 2005, ch. 34, art. 8; 2012, ch. 19, art. 687; 2018, ch. 12, art. 272.
+
 
 
 
@@ -276,6 +333,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Numéros d’entreprise — ministre du Travail**
+
+**19.01** Le ministre du Travail peut collecter des numéros d’entreprise, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et les utiliser comme identificateurs pour la mise en oeuvre ou l’exécution de toute loi, de tout programme ou de toute activité dont la mise en oeuvre ou l’exécution relève de lui.
+> 2018, ch. 12, art. 273.
+
+
+
+
+
 **Crédits — compte sur les traités sur le travail**
 
 **19.1** 
@@ -394,6 +460,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Instructions**
 
 - **(3)** Pour l’exercice de ses attributions, la Commission se conforme aux instructions qui lui sont données par le ministre à cet égard.
+
+
+
+
+**Numéros d’entreprise — Commission**
+
+**24.1** La Commission peut collecter des numéros d’entreprise, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et les utiliser comme identificateurs pour la mise en oeuvre ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+> 2018, ch. 12, art. 274.
+
 
 
 
@@ -581,6 +656,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Désignation d’enquêteurs**
+
+**28.5** 
+
+- **(1)** Le ministre ou la Commission peut désigner des personnes — à titre individuel ou au titre de leur appartenance à une catégorie déterminée — qu’il ou elle estime qualifiées à titre d’enquêteurs chargés de faire observer l’article 28.4.
+
+**Ressort**
+
+- **(2)** Une dénonciation ou une plainte à l’égard d’une infraction à la présente partie peut être entendue, jugée ou décidée par un juge de la cour provinciale, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans le ressort duquel l’accusé réside, exerce ses activités, ou est trouvé, appréhendé ou détenu, indépendamment du lieu de perpétration de l’infraction.
+
+**Prescription**
+
+- **(3)** Les poursuites visant une infraction à la présente partie se prescrivent par cinq ans à compter de la date de sa perpétration.
+> 2018, ch. 12, art. 275.
+
+
+
+
+
 ### Vérification
 
 
@@ -605,22 +699,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***fonctionnaire public*** Quiconque occupe une fonction ou est employé dans une institution fédérale et tout particulier désigné par règlement ou membre d’une catégorie de particuliers désignée par règlement.
+***fonctionnaire public*** Quiconque occupe une fonction ou est employé dans une institution fédérale et tout particulier désigné par règlement ou membre d’une catégorie de particuliers désignée par règlement. (*public officer*)
 
-***institution fédérale*** Ministère ou tout autre organisme mentionnés dans une annexe de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***institution fédérale*** Ministère ou tout autre organisme mentionnés dans une annexe de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*federal institution*)
 
-***mise en oeuvre*** S’agissant de programmes, sont assimilées à la mise en oeuvre la conception, l’élaboration et l’évaluation.
+***mise en oeuvre*** S’agissant de programmes, sont assimilées à la mise en oeuvre la conception, l’élaboration et l’évaluation. (*administration*)
 
-***programme*** Sauf au paragraphe (2), s’entend de tout programme dont la mise en oeuvre ou l’exécution relèvent du ministre ou de la Commission; y sont assimilées les lois, politiques ou activités dont la mise en oeuvre ou l’exécution relèvent de l’un ou de l’autre.
+***programme*** Sauf au paragraphe (2), s’entend de tout programme dont la mise en oeuvre ou l’exécution relèvent du ministre ou de la Commission; y sont assimilées les lois, politiques ou activités dont la mise en oeuvre ou l’exécution relèvent de l’un ou de l’autre. (*program*)
 
-***renseignements*** S’entend de renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le passage figurant entre les alinéas i) et j) de la définition étant réputé être ainsi libellé : « toutefois, il demeure entendu que, pour l’application de la présente partie, les renseignements ne comprennent pas les renseignements concernant : ».
+***programme de prestation de services*** Programme pour la fourniture d’un service ou d’une installation visé au sous-alinéa 5.1(1)a)(i) ainsi que l’exercice de toute activité s’y rapportant. (*service delivery program*)
+
+***renseignements*** S’entend de renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le passage figurant entre les alinéas i) et j) de la définition étant réputé être ainsi libellé : « toutefois, il demeure entendu que, pour l’application de la présente partie, les renseignements ne comprennent pas les renseignements concernant : ». (*information*)
 
 **Précision**
 
 - **(2)** Pour l’application de la présente partie, toute mention du ministre vaut mention du ministre du Travail pour ce qui est des programmes, des lois, des politiques ou des activités dont la mise en oeuvre ou l’exécution relèvent de lui.
 
 - **(3)** [Abrogé, 2012, ch. 19, art. 282]
-> 2005, ch. 34, art. 30; 2012, ch. 19, art. 282.
+> 2005, ch. 34, art. 30; 2012, ch. 19, art. 282; 2018, ch. 12, art. 276.
 
 
 
@@ -671,6 +767,44 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Au sein du ministère**
 
 - **(2)** Les renseignements peuvent être rendus accessibles à la Commission ou à tout fonctionnaire public du ministère pour la mise en oeuvre ou l’exécution d’un programme.
+
+
+
+
+**Programmes de prestation de services**
+
+**34.1** 
+
+- **(1)** Les renseignements peuvent être rendus accessibles à toute personne ou à tout organisme pour la mise en oeuvre du programme de prestation de services dans le cadre duquel ils ont été obtenus ou préparés.
+
+**Programmes co-administrés**
+
+- **(2)** Les renseignements obtenus ou préparés dans le cadre de tout programme dont la mise en oeuvre ou l’exécution, en vertu d’une loi fédérale, relève du ministre et d’une ou de plusieurs entités partenaires peuvent être rendus accessibles à ces entités pour la mise en oeuvre ou l’exécution de ce programme.
+
+**Autres programmes**
+
+- **(3)** Les renseignements obtenus ou préparés dans le cadre d’un programme, sauf un programme de prestation de services, concernant la fourniture d’un service ou d’une installation visé au paragraphe 5.1(1) peuvent être rendus accessibles à toute personne ou à tout organisme pour la mise en oeuvre ou l’exécution du programme dans le cadre duquel ils ont été obtenus ou préparés.
+
+**Application**
+
+- **(4)** Il est entendu que le présent article s’applique aux renseignements obtenus ou préparés avant la date d’entrée en vigueur du présent paragraphe.
+> 2018, ch. 12, art. 277.
+
+
+
+
+
+**Non-application — renseignements rendus accessibles**
+
+**34.2** 
+
+- **(1)** Les articles 32 à 34 et 35 à 42 ne s’appliquent pas aux renseignements rendus accessibles en vertu de l’article 34.1.
+
+**Non-application — renseignements obtenus**
+
+- **(2)** Les articles 33, 34, 35 à 36.2, 40 et 41 ne s’appliquent pas aux renseignements obtenus dans le cadre d’un programme de prestation de services.
+> 2018, ch. 12, art. 277.
+
 
 
 
@@ -741,8 +875,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis au Commissaire à la protection de la vie privée**
 
-- **(2)** Dans le cas prévu au paragraphe (1), le ministre donne un préavis écrit de la communication des renseignements au Commissaire à la protection de la vie privée nommé en vertu de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) si les circonstances le justifient; sinon, il en avise par écrit le Commissaire immédiatement après la communication. La décision de mettre au courant le particulier concerné est laissée à l’appréciation du Commissaire.
-> 2005, ch. 34, art. 37; 2012, ch. 19, art. 287.
+- **(2)** Dans le cas prévu au paragraphe (1), le ministre donne un préavis écrit de la communication des renseignements au Commissaire à la protection de la vie privée nommé en vertu de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et à toute entité partenaire touchée si les circonstances le justifient; sinon, il en avise par écrit le Commissaire immédiatement après la communication. La décision de mettre au courant le particulier concerné est laissée à l’appréciation du Commissaire.
+> 2005, ch. 34, art. 37; 2012, ch. 19, art. 287; 2018, ch. 12, art. 278.
 
 
 
@@ -1318,17 +1452,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application**
 
-**70.1** La présente partie s’applique aux lois, programmes et activités qui suivent :
-- **a)** le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
-- **b)** la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md);
-- **c)** la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
-- **d)** la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md);
-- **e)** la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md);
-- **e.1)** la [Loi sur les prêts aux apprentis](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020,%20art.%20483.md);
-- **f)** le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md);
-- **g)** tout programme appuyé par des subventions ou des contributions en vertu de l’article 7;
-- **h)** toute activité dont la mise en oeuvre ou l’exécution relèvent du ministre en vertu du [Règlement sur l’immigration et la protection des réfugiés](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/227.md).
-> 2013, ch. 40, art. 211; 2014, ch. 20, art. 485.
+**70.1** La présente partie s’applique à toute loi, à tout programme et à toute activité dont la mise en oeuvre ou l’exécution relève du ministre, du ministre du Travail ou de la Commission.
+> 2013, ch. 40, art. 211; 2014, ch. 20, art. 485; 2018, ch. 12, art. 279.
 
 
 
@@ -1338,7 +1463,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **71** 
 
-- **(1)** Sous réserve des règlements, le ministre peut, par voie électronique, mettre en oeuvre ou exécuter les lois, programmes et activités visés aux alinéas 70.1a) à e.1), g) et h), le ministre du Travail peut, par voie électronique, mettre en oeuvre ou exécuter le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et la Commission peut, par voie électronique, mettre en oeuvre ou exécuter la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), notamment pour :
+- **(1)** Sous réserve des règlements, le ministre, le ministre du Travail et la Commission peuvent, par voie électronique, mettre en oeuvre ou exécuter les lois, programmes et activités qui relèvent de leurs compétences respectives, notamment pour :
 	- **a)** créer, communiquer, rendre accessibles, recueillir, recevoir, mettre en mémoire, gérer ou traiter de quelque autre façon des documents ou de l’information;
 	- **b)** fournir des services, des prestations ou d’autres formes d’aide;
 	- **c)** donner des notifications;
@@ -1349,7 +1474,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limitation**
 
 - **(2)** Le ministre ou la Commission ne peut exiger qu’une personne ou une entité demande ou obtienne par voie électronique des services, prestations ou autres formes d’aide, à moins que cette personne ou cette entité fasse partie d’une catégorie de personnes ou d’entités désignée par règlement et que ces services, prestations ou autres formes d’aide soient désignés par règlement.
-> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212; 2017, ch. 26, art. 51.
+> 2005, ch. 34, art. 71 et 83; 2012, ch. 19, art. 224; 2013, ch. 40, art. 212; 2017, ch. 26, art. 51; 2018, ch. 12, art. 280.
 
 
 
@@ -1359,22 +1484,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **72** 
 
-- **(1)** À moins que toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou que toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) n’exige un moyen exprès pour le dépôt de documents ou de l’information, le dépôt de leur version électronique satisfait à l’exigence de dépôt de la disposition ou modalité en cause.
+- **(1)** À moins que toute disposition d’une loi ou d’un règlement ou que toute modalité d’un programme n’exige un moyen exprès pour le dépôt de documents ou de l’information, le dépôt de leur version électronique satisfait à l’exigence de dépôt de la disposition ou modalité en cause.
 
 **Pouvoir de prescrire un formulaire ou d’établir un mode de dépôt**
 
-- **(2)** Le pouvoir de publier, de prescrire ou d’établir des formulaires ou d’établir le mode de dépôt de documents ou de l’information, prévu dans toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou prévu par toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) emporte le même pouvoir quant à leur version électronique.
+- **(2)** Le pouvoir de publier, de prescrire ou d’établir des formulaires ou d’établir le mode de dépôt de documents ou de l’information, prévu dans toute disposition d’une loi ou d’un règlement, ou prévu par toute modalité d’un programme, emporte le même pouvoir quant à leur version électronique.
 
 **Documents ou information sous forme écrite**
 
-- **(3)** Dans le cas où toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) exige qu’un document soit fait par écrit ou que l’information soit fournie par écrit, leur version électronique satisfait à l’exigence si les conditions ci-après sont réunies :
+- **(3)** Dans le cas où toute disposition d’une loi ou d’un règlement, ou toute modalité d’un programme, exige qu’un document soit fait par écrit ou que l’information soit fournie par écrit, leur version électronique satisfait à l’exigence si les conditions ci-après sont réunies :
 	- **a)** le document ou l’information est lisible ou perceptible de façon à pouvoir servir à la consultation ultérieure;
 	- **b)** le document ou l’information est sur un support qui n’empêche pas le destinataire de le conserver;
 	- **c)** le document ou l’information satisfait à toute autre exigence prévue par règlement.
 
 **Signatures**
 
-- **(4)** Dans le cas où toute disposition d’une loi visée à l’article 70.1, ou d’un de ses règlements, ou toute modalité d’un programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) exige une signature, la signature électronique satisfait à l’exigence si les conditions ci-après sont réunies :
+- **(4)** Dans le cas où toute disposition d’une loi ou d’un règlement, ou toute modalité d’un programme, exige une signature, la signature électronique satisfait à l’exigence si les conditions ci-après sont réunies :
 	- **a)** elle est fiable aux fins requises;
 	- **b)** le lien entre elle et le document électronique pour lequel elle est exigée est fiable;
 	- **c)** elle satisfait à toute autre exigence prévue par règlement.
@@ -1382,7 +1507,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de dépôt**
 
 - **(5)** Au présent article, est assimilée au dépôt toute forme de transmission, quelle que soit la désignation de celle-ci.
-> 2005, ch. 34, art. 72; 2012, ch. 19, art. 224; 2013, ch. 40, art. 213.
+> 2005, ch. 34, art. 72; 2012, ch. 19, art. 224; 2013, ch. 40, art. 213; 2018, ch. 12, art. 281.
 
 
 
@@ -1403,7 +1528,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** établir les critères de validité d’un accord ou d’un arrangement conclu par voie électronique;
 	- **e)** régir les modalités de fourniture ou de réception, par voie électronique, des services, prestations ou autres formes d’aide, notamment le versement de sommes;
 	- **f)** régir la technologie à utiliser et la procédure à suivre pour vérifier par voie électronique l’identité de toute personne ou entité;
-	- **g)** régir l’établissement et le fonctionnement de systèmes électroniques ou de tout autre moyen électronique pour la mise en oeuvre ou l’exécution d’une loi visée à l’article 70.1 et de tout programme visé à l’alinéa 70.1g) ou dans une disposition d’un règlement visé à l’alinéa 70.1h) et régir les modalités d’application des dispositions de cette loi ou de ses règlements ou d’un tel programme ou d’une telle activité à ces systèmes électroniques, ainsi que la mesure dans laquelle elles s’y appliquent;
+	- **g)** régir l’établissement et le fonctionnement de systèmes électroniques ou de tout autre moyen électronique pour la mise en oeuvre ou l’exécution d’une loi ou d’un règlement auxquels la présente partie s’applique et de tout programme ou toute activité auxquels la présente partie s’applique et régir les modalités d’application des dispositions d’une telle loi, d’un tel règlement ou d’un tel programme à ces systèmes électroniques, ainsi que la mesure dans laquelle elles s’y appliquent;
 	- **h)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie.
 
 **Incorporation par renvoi**
@@ -1421,7 +1546,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enregistrement ou publication non requis**
 
 - **(5)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
-> 2005, ch. 34, art. 73; 2012, ch. 19, art. 224; 2013, ch. 40, art. 214.
+> 2005, ch. 34, art. 73; 2012, ch. 19, art. 224; 2013, ch. 40, art. 214; 2018, ch. 12, art. 282.
 
 
 
