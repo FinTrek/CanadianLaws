@@ -213,7 +213,7 @@ Ukraine
 
 **3** 
 
-- **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting, subject to subsection (2), of a Chairperson and not more than six other permanent members to be appointed by the Governor in Council.
+- **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting of up to seven permanent members, including a Chairperson and a Vice-chairperson, to be appointed by the Governor in Council.
 
 **Temporary members**
 
@@ -229,12 +229,16 @@ Ukraine
 
 **Re-appointment of permanent members**
 
-- **(5)** A permanent member, on the expiration of a first term of office, is eligible to be re-appointed for one further term in the same or another capacity.
+- **(5)** A permanent member or former permanent member is eligible to be re-appointed as a permanent member for one further term in the same capacity as in the previous term or in another capacity, but may hold office as a permanent member for no more than ten years.
+
+**Clarification**
+
+- **(5.1)** For greater certainty, a change during a permanent member’s term of office in the capacity to which the member is appointed — whether as Chairperson, Vice-chairperson or one of the other permanent members — is not a re-appointment to a further term of office for the purposes of subsection (5).
 
 **Re-appointment of temporary members**
 
 - **(6)** A temporary member is eligible to be re-appointed on the expiration of a first or subsequent term of office.
-> R.S., 1985, c. 47 (4th Supp.), s. 3; 1999, c. 12, s. 54(E); 2010, c. 12, s. 1695; 2012, c. 19, s. 487.
+> R.S., 1985, c. 47 (4th Supp.), s. 3; 1999, c. 12, s. 54(E); 2010, c. 12, s. 1695; 2012, c. 19, s. 487; 2018, c. 12, s. 245.
 
 
 
@@ -282,16 +286,28 @@ Ukraine
 
 
 
-**Absence, etc., of Chairperson**
+**Absence, etc. — Chairperson**
 
 **8** 
 
-- **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Minister may authorize a permanent member to act as Chairperson but no person is authorized to act as Chairperson for a period exceeding 60 days without the approval of the Governor in Council. A permanent member so authorized has and may exercise and perform all the powers, duties and functions of the Chairperson.
+- **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Vice-chairperson shall act as Chairperson and may exercise all the powers and perform all the duties and functions of the Chairperson.
 
-**Absence, etc., of other members**
+**Absence, etc. — Chairperson and Vice-chairperson**
 
-- **(2)** In the event of the absence or incapacity of a temporary member or a permanent member other than the Chairperson, the Governor in Council may appoint a person, on such terms and conditions as the Governor in Council may specify, to act as a substitute member for the time being.
-> R.S., 1985, c. 47 (4th Supp.), s. 8; 1999, c. 12, ss. 55(E), 61(E); 2012, c. 19, s. 488.
+- **(1.1)** If subsection (1) does not apply owing to the absence or incapacity of the Vice-chairperson or to the office of Vice-chairperson being vacant, the Minister may authorize another permanent member to act as Chairperson, and that member may exercise all the powers and perform all the duties and functions of the Chairperson.
+
+**Absence, etc. — Vice-chairperson**
+
+- **(1.2)** In the event of the absence or incapacity of the Vice-chairperson or if the office of Vice-chairperson is vacant, the Minister may authorize another permanent member to act as Vice-chairperson, and that member may exercise all the powers and perform all the duties and functions of the Vice-chairperson.
+
+**Approval of Governor in Council**
+
+- **(1.3)** No permanent member may be authorized by the Minister to act under subsection (1.1) or (1.2) for a period exceeding 60 days without the approval of the Governor in Council.
+
+**Absence, etc. — other members**
+
+- **(2)** In the event of the absence or incapacity of a temporary member or a permanent member other than the Chairperson or Vice-chairperson, the Governor in Council may appoint a person, on any terms and conditions that the Governor in Council specifies, to act as a substitute member for the time being.
+> R.S., 1985, c. 47 (4th Supp.), s. 8; 1999, c. 12, ss. 55(E), 61(E); 2012, c. 19, s. 488; 2018, c. 12, s. 246.
 
 
 
