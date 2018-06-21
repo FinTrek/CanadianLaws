@@ -53,7 +53,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**6** [Amendments]
+**6** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed before coming into force, 2018, c. 12, s. 41]
+
+- **(3)** [Amendment]
+
+- **(4)** [Related Provision]
+
+- **(5)** [Repealed, 2018, c. 12, s. 41]
+
+- **(6)** [Related Provision]
 
 
 
@@ -239,7 +251,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md)
 
 
-**45** [Amendments]
+**45** 
+
+- **(1) and (2)** [Amendments]
+
+- **(3)** [Repealed before coming into force, 2018, c. 12, s. 66]
+
+- **(4)** [Related Provision]
+
+- **(5)** [Repealed, 2018, c. 12, s. 66]
 
 
 
