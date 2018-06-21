@@ -800,6 +800,15 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 
 
+**Publication**
+
+**37.01** Une fois les procédures concernant une violation relative à l’article 983 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) terminées, le surintendant rend publics la nature de la violation, le nom de son auteur et le montant de la pénalité imposée.
+> 2018, ch. 12, art. 351.
+
+
+
+
+
 ## Remise de dettes et radiation de créances
 
 
