@@ -164,45 +164,53 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Le conseil d’administration est composé d’au plus dix-huit membres, dont le président.
+- **(1)** Le conseil d’administration est composé d’au plus dix-huit membres, dont le président du conseil d’administration nommé en application du paragraphe (3.1).
 
 **Nomination et mandat des membres**
 
-- **(2)** Le gouverneur en conseil nomme les membres initiaux — à l’exception du président — pour des mandats de trois ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus le tiers des membres. Les mandats des membres subséquents sont d’une durée de trois ans.
+- **(2)** Sous réserve de l’article 8, le gouverneur en conseil nomme les membres initiaux pour des mandats de trois ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus le tiers des membres. Les mandats des membres subséquents sont d’une durée de trois ans.
 
 **Renouvellement de mandat**
 
-- **(3)** Les membres sont nommés à titre amovible par le gouverneur en conseil et peuvent recevoir au plus deux mandats consécutifs.
+- **(3)** À l’exception du président du conseil d’administration nommé en application du paragraphe (3.1), les membres sont nommés à titre amovible par le gouverneur en conseil et peuvent recevoir au plus deux mandats consécutifs.
+
+**Président du conseil d’administration**
+
+- **(3.1)** Sous réserve du paragraphe (3.2), le gouverneur en conseil nomme le président du conseil d’administration à titre amovible pour un mandat renouvelable maximal de cinq ans.
+
+**Inadmissibilité**
+
+- **(3.2)** Le président d’IRSC ne peut être nommé président du conseil d’administration.
 
 **Critères de nomination**
 
 - **(4)** Le gouverneur en conseil nomme au conseil d’administration des femmes et des hommes capables de contribuer à la réalisation de la mission d’IRSC dans l’intérêt de toute la population canadienne. Il envisage la possibilité d’y nommer des femmes et des hommes reflétant les normes les plus élevées de l’excellence scientifique et des femmes et des hommes représentant les divers milieux et disciplines visés.
-> 2000, ch. 6, art. 7; 2010, ch. 12, art. 1693.
+> 2000, ch. 6, art. 7; 2010, ch. 12, art. 1693; 2018, ch. 12, art. 250.
 
 
 
 
 
-**Sous-ministre de la Santé**
+**Président d’IRSC et sous-ministre de la Santé**
 
-**8** Par dérogation au paragraphe 7(2), le sous-ministre de la Santé est membre d’office du conseil d’administration, avec voix consultative.
+**8** Le président d’IRSC et le sous-ministre de la Santé sont membres d’office du conseil d’administration, avec voix consultative.
+> 2000, ch. 6, art. 8; 2018, ch. 12, art. 251.
 
 
 
 
-**Président**
-
-**9** 
-
-- **(1)** Le président préside les réunions du conseil d’administration.
 
 **Vice-président**
 
-- **(2)** Le conseil d’administration choisit un vice-président en son sein.
+**9** 
+
+- **(1)** Le conseil d’administration choisit, parmi ses membres, autre que le président d’IRSC et le sous-ministre de la Santé, un vice-président.
 
 **Intérim — vice-président**
 
-- **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président.
+- **(2)** En cas d’absence ou d’empêchement du président du conseil d’administration ou de vacance de son poste, la présidence est assumée par le vice-président.
+> 2000, ch. 6, art. 9; 2018, ch. 12, art. 251.
+
 
 
 
@@ -237,13 +245,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Président**
+**Président d’IRSC**
 
-**12** Le président :
+**12** Le président d’IRSC :
 - **a)** reçoit la rémunération que fixe le gouverneur en conseil;
 - **b)** est réputé faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
 - **c)** a droit aux frais de déplacement et de séjour entraînés par l’exercice, hors de son lieu habituel de travail, de ses fonctions.
-> 2000, ch. 6, art. 12; 2003, ch. 22, art. 138(A).
+> 2000, ch. 6, art. 12; 2003, ch. 22, art. 138(A); 2018, ch. 12, art. 252(F).
 
 
 
@@ -268,21 +276,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Gestion d’IRSC**
 
 **14** Le conseil d’administration est chargé de la gestion d’IRSC et exerce notamment les attributions suivantes :
-- **a)** établir l’orientation stratégique, les objectifs et les politiques d’IRSC;
+- **a)** élaborer l’orientation stratégique et les objectifs d’IRSC;
 - **b)** évaluer le rendement global d’IRSC, notamment à l’égard de la réalisation de sa mission;
 - **c)** approuver le budget d’IRSC;
 - **d)** établir un système de revue par les pairs des projets de recherche soumis à IRSC;
 - **e)** approuver le financement des projets de recherche;
 - **f)** autoriser les dépenses supplémentaires en vue de réaliser la mission d’IRSC;
-- **g)** établir des politiques concernant la consultation des personnes et organismes qui s’intéressent à la recherche en matière de santé et la collaboration avec ces personnes ou organismes;
+- **g)** établir des politiques;
 - **h)** régler toute autre question qu’il estime liée aux activités d’IRSC.
+> 2000, ch. 6, art. 14; 2018, ch. 12, art. 253.
+
 
 
 
 
 **Délégation**
 
-**15** À l’exception de celles prévues aux alinéas 14a) et c), aux articles 16 et 19 à 21 et aux paragraphes 22(3) et 32(1), le conseil d’administration peut déléguer ses attributions à l’un de ses membres ou comités, au président ou aux instituts de recherche en santé, conseils consultatifs ou directeurs scientifiques visés au paragraphe 20(1).
+**15** 
+
+- **(1)** Sous réserve du paragraphe (2), le conseil d’administration peut déléguer ses attributions à l’un de ses membres ou comités ou au président d’IRSC.
+
+**Limite**
+
+- **(2)** Le conseil d’administration ne peut déléguer les attributions prévues aux alinéas 14a) et c), aux articles 16 et 19 à 21 et aux paragraphes 22(3) et 32(1).
+> 2000, ch. 6, art. 15; 2018, ch. 12, art. 254.
+
 
 
 
@@ -339,7 +357,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **20** 
 
 - **(1)** Le conseil d’administration :
-	- **a)** met sur pied des instituts de recherche en santé — qui sont des divisions d’IRSC —, veille à leur maintien et les dissout et fournit à chacun d’eux un mandat;
+	- **a)** met sur pied des instituts de recherche en santé, veille à leur maintien et les dissout et établit le mandat de chacun d’eux;
 	- **b)** dote chaque institut d’un conseil consultatif, dont il nomme les membres;
 	- **c)** nomme un directeur scientifique pour chaque institut.
 
@@ -354,6 +372,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères de nomination**
 
 - **(4)** Le conseil d’administration nomme aux conseils consultatifs des femmes et des hommes capables de contribuer à la réalisation de la mission d’IRSC dans l’intérêt de toute la population canadienne. Il envisage la possibilité d’y nommer des femmes et des hommes reflétant les normes les plus élevées de l’excellence scientifique et représentant les divers milieux et disciplines visés, notamment des chercheurs dans les domaines de la recherche biomédicale, de la recherche clinique et de la recherche sur les services et systèmes de santé, sur la santé des populations, sur les dimensions sociales et culturelles de la santé et sur les effets de l’environnement sur la santé.
+> 2000, ch. 6, art. 20; 2018, ch. 12, art. 255.
+
 
 
 
@@ -388,15 +408,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Président**
+**Président d’IRSC**
 
 **23** 
 
-- **(1)** Le président est le premier dirigeant d’IRSC; à ce titre, il assure la direction de ses affaires courantes et contrôle la gestion de son personnel.
+- **(1)** Le président d’IRSC en est le premier dirigeant; à ce titre, il assure la direction de ses affaires courantes et contrôle la gestion de son personnel.
 
 **Intérim du président**
 
-- **(2)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le conseil d’administration peut autoriser un dirigeant d’IRSC à assurer l’intérim; cependant l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+- **(2)** En cas d’absence ou d’empêchement du président d’IRSC ou de vacance de son poste, le conseil d’administration peut autoriser un dirigeant d’IRSC à assurer l’intérim; cependant, l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+> 2000, ch. 6, art. 23; 2018, ch. 12, art. 256(F).
+
 
 
 
