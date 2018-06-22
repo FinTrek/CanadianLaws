@@ -8166,7 +8166,9 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **137** 2-Naphthalenol, 1-[[4-(phenylazo)phenyl]azo]-, which has the molecular formula C<sub>22</sub>H<sub>16</sub>N<sub>4</sub>O
 - **138** Fuel Oil No. 2
 - **139** Natural gas condensates (a complex combination of hydrocarbons primarily in the carbon range of C<sub>5</sub> to C<sub>15</sub> that are condensed during production at a well head, in a natural gas processing plant, natural gas pipeline or straddle plant), including any of their liquid distillates that are primarily in the carbon range of C<sub>5</sub> to C<sub>15</sub>
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308; SOR/2017-113; SOR/2018-20, 67.
+- **140** Phenol, 5-chloro-2-(2,4-dichlorophenoxy)-, which has the molecular formula C<sub>12</sub>H<sub>7</sub>Cl<sub>3</sub>O<sub>2</sub>
+- **141** Acetamide, *N*-[4-[(2-hydroxy-5-methylphenyl)azo]phenyl]-, which has the molecular formula C<sub>15</sub>H<sub>15</sub>N<sub>3</sub>O<sub>2</sub>
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308; SOR/2017-113; SOR/2018-20, 67, 129, 130.
 
 
 
