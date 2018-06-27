@@ -2475,67 +2475,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**PARTIE 14** 
-## Loi sur les transports au Canada
+**466** [Abrogé avant d’entrer en vigueur, 2018, ch. 10, art. 91]
 
 
 
-### Modification de la loi
-
-
-**466** [Modification]
+**467** [Abrogé avant d’entrer en vigueur, 2018, ch. 10, art. 91]
 
 
 
-**467** [Modification]
+**468** [Abrogé, 2018, ch. 10, art. 91]
 
 
 
-
-### Entrée en vigueur
-
-
-
-**Décret**
-
-<sup><a href='#fn_IndBD42_hq_7138'>[*]</a></sup>**468** Les articles 466 et 467 entrent en vigueur à la date fixée par décret pris sur la recommandation du ministre des Transports.
-
-<a name='fn_IndBD42_hq_7138'><sup>*</sup></a>: [Note : Articles 466 et 467 non en vigueur.]<br />
+**469** [Abrogé avant d’entrer en vigueur, 2018, ch. 10, art. 91]
 
 
 
-
-**PARTIE 15** 
-## Loi sur la participation publique au capital d’air Canada
+**470** [Abrogé avant d’entrer en vigueur, 2018, ch. 10, art. 91]
 
 
 
-### Modification de la loi
-
-
-**469** [Modifications]
-
-
-
-
-### Dispositions transitoires
-
-
-**470** [Disposition transitoire]
-
-
-
-
-### Entrée en vigueur
-
-
-
-**Décret**
-
-<sup><a href='#fn_IndBDB2_hq_7140'>[*]</a></sup>**471** Les articles 469 et 470 entrent en vigueur à la date fixée par décret pris sur la recommandation du ministre des Finances.
-
-<a name='fn_IndBDB2_hq_7140'><sup>*</sup></a>: [Note : Articles 469 et 470 non en vigueur.]<br />
+**471** [Abrogé, 2018, ch. 10, art. 91]
 
 
 
