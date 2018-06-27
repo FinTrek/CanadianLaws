@@ -1357,39 +1357,44 @@ The parties may propose revisions to the transaction.
 
 - **(1)** In this Part,
 
-***aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md);
+***aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); (*aéronef*)
 
-***air service*** means a service, provided by means of an aircraft, that is publicly available for the transportation of passengers or goods, or both;
+***air service*** means a service, provided by means of an aircraft, that is publicly available for the transportation of passengers or goods, or both; (*service aérien*)
 
-***basic fare*** means
+***basic fare*** means
 - **(a)** the fare in the tariff of the holder of a domestic licence that has no restrictions and represents the lowest amount to be paid for one-way air transportation of an adult with reasonable baggage between two points in Canada, or
-- **(b)** where the licensee has more than one such fare between two points in Canada and the amount of any of those fares is dependent on the time of day or day of the week of travel, or both, the highest of those fares;
+- **(b)** where the licensee has more than one such fare between two points in Canada and the amount of any of those fares is dependent on the time of day or day of the week of travel, or both, the highest of those fares; (*prix de base*)
 
-***Canadian*** means a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), a government in Canada or an agent of such a government or a corporation or other entity that is incorporated or formed under the laws of Canada or a province, that is controlled in fact by Canadians and of which at least seventy-five per cent, or such lesser percentage as the Governor in Council may by regulation specify, of the voting interests are owned and controlled by Canadians;
+***Canadian*** means
+- **(a)** a Canadian citizen or a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md),
+- **(b)** a government in Canada or an agent or mandatary of such a government, or
+- **(c)** a corporation or entity that is incorporated or formed under the laws of Canada or a province, that is controlled in fact by Canadians and of which at least 51% of the voting interests are owned and controlled by Canadians and where
+	- **(i)** no more than 25% of the voting interests are owned directly or indirectly by any single non-Canadian, either individually or in affiliation with another person, and
+	- **(ii)** no more than 25% of the voting interests are owned directly or indirectly by one or more non-Canadians authorized to provide an air service in any jurisdiction, either individually or in affiliation with another person; (*Canadien*)
 
-***Canadian aviation document*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md);
+***Canadian aviation document*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); (*document d’aviation canadien*)
 
-Version anglaise seulement***domestic licence*** means a licence issued under section 61;
+***domestic licence*** means a licence issued under section 61; (***Version anglaise seulement***)
 
-***domestic service*** means an air service between points in Canada, from and to the same point in Canada or between Canada and a point outside Canada that is not in the territory of another country;
+***domestic service*** means an air service between points in Canada, from and to the same point in Canada or between Canada and a point outside Canada that is not in the territory of another country; (*service intérieur*)
 
-***international service*** means an air service between Canada and a point in the territory of another country;
+***international service*** means an air service between Canada and a point in the territory of another country; (*service international*)
 
-***licensee*** means the holder of a licence issued by the Agency under this Part;
+***licensee*** means the holder of a licence issued by the Agency under this Part; (*licencié*)
 
-Version anglaise seulement***non-scheduled international licence*** means a licence issued under subsection 73(1);
+***non-scheduled international licence*** means a licence issued under subsection 73(1); (***Version anglaise seulement***)
 
-***non-scheduled international service*** means an international service other than a scheduled international service;
+***non-scheduled international service*** means an international service other than a scheduled international service; (*service international à la demande*)
 
-***prescribed*** means prescribed by regulations made under section 86;
+***prescribed*** means prescribed by regulations made under section 86; (*règlement*)
 
-Version anglaise seulement***scheduled international licence*** means a licence issued under subsection 69(1);
+***scheduled international licence*** means a licence issued under subsection 69(1); (***Version anglaise seulement***)
 
-***scheduled international service*** means an international service that is a scheduled service pursuant to
+***scheduled international service*** means an international service that is a scheduled service pursuant to
 - **(a)** an agreement or arrangement for the provision of that service to which Canada is a party, or
-- **(b)** a determination made under section 70;
+- **(b)** a determination made under section 70; (*service international régulier*)
 
-***tariff*** means a schedule of fares, rates, charges and terms and conditions of carriage applicable to the provision of an air service and other incidental services.
+***tariff*** means a schedule of fares, rates, charges and terms and conditions of carriage applicable to the provision of an air service and other incidental services. (*tarif*)
 
 **Affiliation**
 
@@ -1418,8 +1423,8 @@ Version anglaise seulement***scheduled international licence*** means a licence 
 
 **Control in fact**
 
-- **(4)** For greater certainty, nothing in subsection (2) shall be construed to affect the meaning of the expression “controlled in fact” in the definition ***Canadian*** in subsection (1).
-> 1996, c. 10, s. 55; 2000, c. 15, s. 1; 2001, c. 27, s. 222.
+- **(4)** For greater certainty, nothing in subsection (2) shall be construed to affect the meaning of the expression “controlled in fact” in the definition Canadian in subsection (1).
+> 1996, c. 10, s. 55; 2000, c. 15, s. 1; 2001, c. 27, s. 222; 2018, c. 10, s. 15.
 
 
 
@@ -1433,7 +1438,7 @@ Version anglaise seulement***scheduled international licence*** means a licence 
 
 **Specialty service exclusion**
 
-- **(2)** This Part does not apply to the operation of an air flight training service, aerial inspection service, aerial construction service, aerial photography service, aerial forest fire management service, aerial spraying service or any other prescribed air service.
+- **(2)** This Part does not apply to the operation of specialty services provided by aircraft, including firefighting, flight training, sightseeing, spraying, surveying, mapping, photography, parachute jumping, glider towing, helicopter-lift for logging and construction, airborne agricultural, industrial and inspection services or any other prescribed service provided by aircraft.
 
 **Emergency service exclusion**
 
@@ -1446,7 +1451,7 @@ Version anglaise seulement***scheduled international licence*** means a licence 
 **Not a statutory instrument**
 
 - **(5)** The order is not a statutory instrument within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1996, c. 10, s. 56; 2007, c. 19, s. 14.
+> 1996, c. 10, s. 56; 2007, c. 19, s. 14; 2018, c. 10, s. 16.
 
 
 
