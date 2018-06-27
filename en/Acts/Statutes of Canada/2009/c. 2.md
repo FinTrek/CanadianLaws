@@ -2475,67 +2475,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**PART 14** 
-## Canada Transportation Act
+**466** [Repealed before coming into force, 2018, c. 10, s. 91]
 
 
 
-### Amendments to the Act
-
-
-**466** [Amendment]
+**467** [Repealed before coming into force, 2018, c. 10, s. 91]
 
 
 
-**467** [Amendment]
+**468** [Repealed, 2018, c. 10, s. 91]
 
 
 
-
-### Coming into Force
-
-
-
-**Order in council**
-
-<sup><a href='#fn_Ind1E20_hq_7108'>[*]</a></sup>**468** Sections 466 and 467 come into force on a day to be fixed by order of the Governor in Council made on the recommendation of the Minister of Transport.
-
-<a name='fn_Ind1E20_hq_7108'><sup>*</sup></a>: [Note: Sections 466 and 467 not in force.]<br />
+**469** [Repealed before coming into force, 2018, c. 10, s. 91]
 
 
 
-
-**PART 15** 
-## Air Canada Public Participation Act
+**470** [Repealed before coming into force, 2018, c. 10, s. 91]
 
 
 
-### Amendments to the Act
-
-
-**469** [Amendments]
-
-
-
-
-### Transitional Provisions
-
-
-**470** [Transitional Provision]
-
-
-
-
-### Coming into Force
-
-
-
-**Order in council**
-
-<sup><a href='#fn_Ind1E74_hq_7109'>[*]</a></sup>**471** Sections 469 and 470 come into force on a day to be fixed by order of the Governor in Council made on the recommendation of the Minister of Finance.
-
-<a name='fn_Ind1E74_hq_7109'><sup>*</sup></a>: *[Note: Sections 469 and 470 not in force.]<br />
+**471** [Repealed, 2018, c. 10, s. 91]
 
 
 
