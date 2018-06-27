@@ -107,21 +107,11 @@
 
 - **(1)** The articles of continuance of the Corporation shall contain
 	- **(a)** [Repealed, 2001, c. 35, s. 1]
-	- **(b)** provisions imposing constraints on the issue, transfer and ownership, including joint ownership, of voting shares of the Corporation to prevent non-residents from holding, beneficially owning or controlling, directly or indirectly, otherwise than by way of security only, in the aggregate voting shares to which are attached more than 25%, or any higher percentage that the Governor in Council may by regulation specify, of the votes that may ordinarily be cast to elect directors of the Corporation, other than votes that may be so cast by or on behalf of the Minister;
-	- **(c)** provisions respecting the counting or prorating of votes cast at any meeting of shareholders of the Corporation and attached to voting shares of the Corporation that are held, beneficially owned or controlled, directly or indirectly, by non-residents so as to limit the counting of those votes to not more than 25%, or any higher percentage specified for the purposes of paragraph (b), of the total number of votes cast by shareholders at that meeting;
+	- **(b) and (c)** [Repealed, 2018, c. 10, s. 90]
 	- **(d)** provisions requiring the Corporation to carry out or cause to be carried out aircraft maintenance activities, including maintenance of any type relating to airframes, engines, components, equipment or parts, in Ontario, Quebec and Manitoba; and
 	- **(e)** provisions specifying that the head office of the Corporation is to be situated in the Montreal Urban Community.
 
-**Enforcement of constraint provisions**
-
-- **(2)** The regulations made pursuant to subsection 174(6) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) apply, with any modifications that the circumstances require, in respect of the Corporation as if the constraints imposed pursuant to paragraph (1)(b) were a constraint referred to in paragraph 174(1)(a) of that Act.
-
-**Exceptions**
-
-- **(3)** No provision imposing constraints pursuant to paragraph (1)(b) and no regulation referred to in subsection (2) apply in respect of voting shares of the Corporation that are held
-	- **(a)** by the Minister in trust for Her Majesty in right of Canada;
-	- **(b)** by one or more underwriters solely for the purpose of distributing the shares to the public; or
-	- **(c)** by any person that is acting in relation to the shares solely in its capacity as an intermediary in the payment of funds or the delivery of securities, or both, in connection with trades in securities and that provides centralized facilities for the clearing of trades in securities.
+- **(2) and (3)** [Repealed, 2018, c. 10, s. 90]
 
 **Maintenance activities**
 
@@ -129,46 +119,12 @@
 
 - **(5)** [Repealed, 2001, c. 35, s. 1]
 
-**Control**
+**Definition of aircraft**
 
-- **(6)** For the purposes of this section,
-	- **(a)** a body corporate is controlled by a person if
-		- **(i)** securities of the body corporate to which are attached more than fifty per cent of the votes that may be cast to elect directors of the body corporate are held, otherwise than by way of security only, by or for the benefit of that person, and
-		- **(ii)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate; and
-	- **(b)** a partnership or unincorporated organization is controlled by a person if an ownership interest therein representing more than fifty per cent of the assets of the partnership or organization is held, otherwise than by way of security only, by or for the benefit of that person.
+- **(6)** In this section, ***aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
 
-**Specified percentage**
-
-- **(6.1)** The Governor in Council may make regulations specifying a percentage greater than 25% for the purposes of paragraph (1)(b).
-
-**Definitions**
-
-- **(7)** The following definitions apply in this section.
-
-***aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*aéronef*) 
-
-***corporation*** includes a body corporate, partnership and unincorporated organization. (*société*)
-
-***non-resident*** means
-- **(a)** an individual, other than a Canadian citizen, who is not ordinarily resident in Canada,
-- **(b)** a corporation incorporated, formed or otherwise organized outside Canada,
-- **(c)** a foreign government or an agency thereof,
-- **(d)** a corporation controlled by non-residents as defined in any of paragraphs (a) to (c),
-- **(e)** a trust
-	- **(i)** established by a non-resident as defined in any of paragraphs (b) to (d), other than a trust for the administration of a pension fund for the benefit of individuals a majority of whom are residents, or
-	- **(ii)** in which non-residents as defined in any of paragraphs (a) to (d) have more than fifty per cent of the beneficial interest, or
-- **(f)** a corporation that is controlled by a trust described in paragraph (e),
-
-but does not include
-- **(g)** a mutual company within the meaning of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), if its head office and chief place of business are situated in Canada and at least three quarters of its board of directors and each committee of its directors are Canadian citizens who are ordinarily resident in Canada, or
-- **(h)** a company within the meaning of that Act that is a subsidiary of a foreign institution within the meaning of that Act or a foreign company within the meaning of that Act, where the company or the foreign company is acquiring shares to form part of the assets of a segregated fund maintained pursuant to section 451 or 593 of that Act that has been established with respect to one or more policies or amounts for the administration of a pension fund for the benefit of individuals a majority of whom are residents. (*non-résident*)
-
-***person*** includes an individual, corporation, government or agency thereof, trustee, executor, administrator and other legal representative. (*personne*)
-
-***resident*** means an individual, corporation, government or agency thereof or trust that is not a non-resident. (*résident*)
-
-***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security. (*action avec droit de vote*)
-> R.S., 1985, c. 35 (4th Supp.), s. 6; 1993, c. 34, s. 3; 1994, c. 24, s. 34(F), c. 47, s. 220; 2000, c. 15, s. 17; 2001, c. 35, s. 1; 2016, c. 8, s. 1.
+- **(6.1) and (7)** [Repealed, 2018, c. 10, s. 90]
+> R.S., 1985, c. 35 (4th Supp.), s. 6; 1993, c. 34, s. 3; 1994, c. 24, s. 34(F), c. 47, s. 220; 2000, c. 15, s. 17; 2001, c. 35, s. 1; 2016, c. 8, s. 1; 2018, c. 10, s. 90.
 
 
 
