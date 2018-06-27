@@ -1351,48 +1351,53 @@ Elles peuvent proposer des modifications à la transaction.
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***aéronef*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***aéronef*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*aircraft*)
 
-***Canadien*** Citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md); la notion englobe également les administrations publiques du Canada ou leurs mandataires et les personnes ou organismes, constitués au Canada sous le régime de lois fédérales ou provinciales et contrôlés de fait par des Canadiens, dont au moins soixante-quinze pour cent — ou tel pourcentage inférieur désigné par règlement du gouverneur en conseil — des actions assorties du droit de vote sont détenues et contrôlées par des Canadiens.
+***Canadien***
+- **a)** Citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+- **b)** toute administration publique du Canada ou ses mandataires;
+- **c)** personne morale ou entité, constituée ou formée au Canada sous le régime de lois fédérales ou provinciales et contrôlée de fait par des Canadiens et dont au moins cinquante et un pour cent des intérêts avec droit de vote sont détenus et contrôlés par des Canadiens, étant toutefois entendu :
+	- **(i)** qu’au plus vingt-cinq pour cent de ses intérêts avec droit de vote peuvent être détenus directement ou indirectement par un non-Canadien, individuellement ou avec des personnes du même groupe,
+	- **(ii)** qu’au plus vingt-cinq pour cent de ses intérêts avec droit de vote peuvent être détenus directement ou indirectement par un ou plusieurs non-Canadiens autorisés à fournir un service aérien dans tout ressort, individuellement ou avec des personnes du même groupe. (*Canadian*)
 
-***document d’aviation canadien*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***document d’aviation canadien*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*Canadian aviation document*)
 
-***licencié*** Titulaire d’une licence délivrée par l’Office en application de la présente partie.
+***licencié*** Titulaire d’une licence délivrée par l’Office en application de la présente partie. (*licensee*)
 
 ***prix de base***
 - **a)** Prix du tarif du titulaire d’une licence intérieure qui est sans restriction et qui constitue le montant le moins élevé à payer pour le transport aller, entre deux points situés au Canada, d’un adulte accompagné d’une quantité normale de bagages;
-- **b)** dans les cas où un tel prix peut varier selon le moment du jour ou de la semaine, ou des deux, auquel s’effectue le voyage, le montant le plus élevé de ce prix.
+- **b)** dans les cas où un tel prix peut varier selon le moment du jour ou de la semaine, ou des deux, auquel s’effectue le voyage, le montant le plus élevé de ce prix. (*basic fare*)
 
-***règlement*** Règlement pris au titre de l’article 86.
+***règlement*** Règlement pris au titre de l’article 86. (*prescribed*)
 
-***service aérien*** Service offert, par aéronef, au public pour le transport des passagers, des marchandises, ou des deux.
+***service aérien*** Service offert, par aéronef, au public pour le transport des passagers, des marchandises, ou des deux. (*air service*)
 
-***service intérieur*** Service aérien offert soit à l’intérieur du Canada, soit entre un point qui y est situé et un point qui lui est extérieur sans pour autant faire partie du territoire d’un autre pays.
+***service intérieur*** Service aérien offert soit à l’intérieur du Canada, soit entre un point qui y est situé et un point qui lui est extérieur sans pour autant faire partie du territoire d’un autre pays. (*domestic service*)
 
-***service international*** Service aérien offert entre le Canada et l’étranger.
+***service international*** Service aérien offert entre le Canada et l’étranger. (*international service*)
 
-***service international à la demande*** Service international autre qu’un service international régulier.
+***service international à la demande*** Service international autre qu’un service international régulier. (*non-scheduled international service*)
 
-***service international régulier*** Service international exploité à titre de service régulier aux termes d’un accord ou d’une entente à cet effet dont le Canada est signataire ou sous le régime d’une qualification faite en application de l’article 70.
+***service international régulier*** Service international exploité à titre de service régulier aux termes d’un accord ou d’une entente à cet effet dont le Canada est signataire ou sous le régime d’une qualification faite en application de l’article 70. (*scheduled international service*)
 
-***tarif*** Barème des prix, taux, frais et autres conditions de transport applicables à la prestation d’un service aérien et des services connexes.
+***tarif*** Barème des prix, taux, frais et autres conditions de transport applicables à la prestation d’un service aérien et des services connexes. (*tariff*)
 
-French version only***texte d’application*** Arrêté ou règlement pris en application de la présente partie ou de telle de ses dispositions.
+***texte d’application*** Arrêté ou règlement pris en application de la présente partie ou de telle de ses dispositions. (***French version only***)
 
 **Groupe**
 
-- **(2)** Pour l’application de la présente partie :
+- **(2)** Pour l’application de la présente partie :
 	- **a)** des personnes morales sont du même groupe si l’une est la filiale de l’autre, si toutes deux sont des filiales d’une même personne morale ou si chacune d’elles est contrôlée par la même personne;
 	- **b)** si deux personnes morales sont du groupe d’une même personne morale au même moment, elles sont réputées être du même groupe;
 	- **c)** une société de personnes ou une entreprise individuelle est du groupe d’une autre société de personnes ou d’une autre entreprise individuelle si toutes deux sont contrôlées par la même personne;
 	- **d)** une personne morale est du groupe d’une société de personnes ou d’une entreprise individuelle si toutes deux sont contrôlées par la même personne;
 	- **e)** une personne morale est une filiale d’une autre personne morale si elle est contrôlée par cette autre personne morale ou par une filiale de celle-ci;
-	- **f)** une personne morale est contrôlée par une personne autre que Sa Majesté du chef du Canada ou d’une province si :
+	- **f)** une personne morale est contrôlée par une personne autre que Sa Majesté du chef du Canada ou d’une province si :
 		- **(i)** des valeurs mobilières de la personne morale conférant plus de cinquante pour cent des votes qui peuvent être exercés lors de l’élection des administrateurs de la personne morale en question sont détenues, directement ou indirectement, notamment par l’intermédiaire d’une ou de plusieurs filiales, autrement qu’à titre de garantie uniquement, par cette personne ou pour son bénéfice,
 		- **(ii)** les votes que comportent ces valeurs mobilières sont suffisants, en supposant leur exercice, pour élire une majorité des administrateurs de la personne morale;
-	- **g)** une personne morale est contrôlée par Sa Majesté du chef du Canada ou d’une province si :
+	- **g)** une personne morale est contrôlée par Sa Majesté du chef du Canada ou d’une province si :
 		- **(i)** la personne morale est contrôlée par Sa Majesté de la manière décrite à l’alinéa f),
-		- **(ii)** dans le cas d’une personne morale sans capital-actions, une majorité des administrateurs de la personne morale, autres que les administrateurs d’office, sont nommés par :
+		- **(ii)** dans le cas d’une personne morale sans capital-actions, une majorité des administrateurs de la personne morale, autres que les administrateurs d’office, sont nommés par :
 			- **(A)** soit le gouverneur en conseil ou le lieutenant-gouverneur en conseil de la province, selon le cas,
 			- **(B)** soit un ministre du gouvernement du Canada ou de la province, selon le cas;
 	- **h)** contrôle une société de personnes la personne qui détient dans cette société des titres de participation lui donnant droit de recevoir plus de cinquante pour cent des bénéfices de la société ou plus de cinquante pour cent des éléments d’actif de celle-ci au moment de sa dissolution.
@@ -1403,8 +1408,8 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 
 **Contrôle de fait**
 
-- **(4)** Il demeure entendu que le paragraphe (2) n’a pas pour effet de modifier le sens de l’expression « contrôle de fait » dans la définition de ***Canadien*** au paragraphe (1).
-> 1996, ch. 10, art. 55; 2000, ch. 15, art. 1; 2001, ch. 27, art. 222.
+- **(4)** Il demeure entendu que le paragraphe (2) n’a pas pour effet de modifier le sens de l’expression « contrôle de fait » dans la définition de Canadien au paragraphe (1).
+> 1996, ch. 10, art. 55; 2000, ch. 15, art. 1; 2001, ch. 27, art. 222; 2018, ch. 10, art. 15.
 
 
 
@@ -1418,7 +1423,7 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 
 **Exclusion — services spécialisés**
 
-- **(2)** La présente partie ne s’applique pas à l’exploitation d’un service aérien de formation en vol, d’inspection, de travaux publics ou de construction, de photographie, d’épandage, de contrôle des incendies de forêt ou autre service prévu par règlement.
+- **(2)** La présente partie ne s’applique pas à l’exploitation d’un service spécialisé offert par aéronef, tel que la lutte contre les incendies, la formation en vol, les excursions aériennes, l’épandage, les levés topographiques, la cartographie, la photographie, les sauts en parachute, le remorquage de planeurs, le transport héliporté pour l’exploitation forestière et la construction, les services aéroportés agricoles, industriels ou d’inspection ou les autres services offerts par aéronef prévus par règlement.
 
 **Exclusion — urgences**
 
@@ -1431,7 +1436,7 @@ French version only***texte d’application*** Arrêté ou règlement pris en ap
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(5)** Les arrêtés ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1996, ch. 10, art. 56; 2007, ch. 19, art. 14.
+> 1996, ch. 10, art. 56; 2007, ch. 19, art. 14; 2018, ch. 10, art. 16.
 
 
 
