@@ -60,10 +60,10 @@ Enabling authorities:
 
 ***anthropomorphic test device*** means, except in section 202 of Schedule IV, a representation of a human being used in the measurement of the conditions that a human being would experience in a vehicle when the vehicle is subjected to approved test methods; (*dispositif anthropomorphe d’essai*)
 
-***antilock brake system*** or ***ABS*** means the portion of a service brake system that automatically controls the degree of rotational wheel slip during braking by
+***antilock brake system*** or ***ABS*** means the portion of a service brake system that automatically controls the degree of rotational wheel slip during braking by
 - **(a)** sensing the rate of angular rotation of the wheels,
 - **(b)** transmitting signals regarding the rate of wheel angular rotation to one or more controlling devices that interpret those signals and generate responsive controlling output signals, and
-- **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein antiblocage**ou**ABS*)
+- **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein antiblocage**ou**ABS* )
 
 ***antilock system***[Repealed, SOR/97-200, s. 1]
 
@@ -182,7 +182,7 @@ Enabling authorities:
 
 ***compliance label*** means the label required to be applied to a completed vehicle under section 6 or 6.6; (*étiquette de conformité*)
 
-***compressed natural gas*** or ***CNG*** means natural gas, composed predominantly of methane, compressed at pressures up to 20 680 kPa (3,000 psi); (*gaz naturel comprimé**or**GNC* )
+***compressed natural gas*** or ***CNG*** means natural gas, composed predominantly of methane, compressed at pressures up to 20 680 kPa (3,000 psi); (*gaz naturel comprimé**or**GNC* )
 
 ***contactable surface***[Repealed, SOR/98-160, s. 1]
 
@@ -280,9 +280,9 @@ Enabling authorities:
 
 ***grade***[Repealed, SOR/2007-180, s. 1]
 
-***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu**or**PNBE* )
+***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu**or**PNBE* )
 
-***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule**or**PNBV* )
+***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule**or**PNBV* )
 
 ***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
 
@@ -358,7 +358,7 @@ Enabling authorities:
 
 ***light source***[Repealed, SOR/96-366, s. 1]
 
-***light-truck tire*** or ***LT tire*** means a tire designated by its manufacturer as primarily intended for use on lightweight trucks or multi-purpose passenger vehicles; (*pneu pour camion léger*)
+***light-truck tire*** or ***LT tire*** means a tire designated by its manufacturer as primarily intended for use on lightweight trucks or multi-purpose passenger vehicles; (*pneu pour camion léger*)
 
 ***limited-speed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
@@ -368,7 +368,7 @@ Enabling authorities:
 
 ***line*** means the name that a manufacturer applies to a family of vehicles within a make that have a degree of commonality of body, chassis, cab type or other features of construction; (*ligne*)
 
-***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié**ou**GPL* )
+***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié**ou**GPL* )
 
 ***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
 
@@ -541,6 +541,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***prime glazing material manufacturer***[Repealed, SOR/2002-187, s. 1]
 
+***prison bus*** means a bus that is specially designed for the purpose of transporting inmates; (*autobus pénitentiaire)*
+
 ***production options mass***[Repealed, SOR/2008-258, s. 1]
 
 ***production restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
@@ -631,7 +633,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***snub*** means the braking deceleration of a vehicle from a higher reference speed to a lower reference speed that is greater than zero; (*ralentissement*)
 
-***special driver accommodation*** includes a driver’s seat that is designed to be removable or that has extended adjustment capability to allow a person to transfer from a wheelchair to the driver’s seat; (*place du conducteur particulière*)
+***special driver accommodation*** includes a driver’s seat that is designed to be removable or that has extended adjustment capability to allow a person to transfer from a wheelchair to the driver’s seat; (*place du conducteur particulière*)
 
 ***speed attainable in 1.6 km (1 mile)*** means the speed attainable by accelerating at maximum rate from a standing start for 1.6 km on a level surface; (*vitesse à 1,6 km (1 mille)*)
 
@@ -769,7 +771,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** In these Regulations, if a document that is available in both official languages is incorporated by reference as amended from time to time, an amendment to one language version of that document is not incorporated until the corresponding amendment is made to the other language version.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1; SOR/2017-104, s. 1; SOR/2018-43, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1; SOR/2017-104, s. 1; SOR/2018-43, s. 1; SOR/2018-143-2, s. 1.
 
 
 
@@ -846,8 +848,13 @@ where
 
 - **(4)** Folding, removable and adjustable seats must be measured in the configuration that results in the largest seating surface width.
 
-- **(5)** The number of designated seating positions in a bench type seat in a school bus shall be the number of seating positions determined in accordance with subsection 222(5) of Schedule IV.
-> SOR/2009-318, s. 2; SOR/2011-264, s. 2.
+- **(5)** The number of designated seating positions in a bench type seat in a school bus shall be the number of seating positions determined in accordance with Technical Standards Document No. 222, School Bus Passenger Seating and Crash Protection.
+
+### Transitional Provision
+
+
+- **(6)** Until September 1, 2020, the number of designated seating positions referred to in subsection (5) may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
+> SOR/2009-318, s. 2; SOR/2011-264, s. 2; SOR/2018-143-2, s. 2.
 
 
 
@@ -1239,7 +1246,7 @@ where
 		- **(ii)** within the load-carrying capacity of the vehicle’s components when the altered vehicle is loaded for its intended use;
 	- **(b)** ensure that the vehicle conforms to the standards referred to in subsection 5(2), in respect of the work carried out by the company to alter the vehicle; and
 	- **(c)** subject to subsection (2), apply to the vehicle an additional label displaying
-		- **(i)** the words “THIS VEHICLE WAS ALTERED BY / *CE VÉHICULE A ÉTÉ MODIFIÉ PAR*” followed by the name of the company that altered the vehicle,
+		- **(i)** the words “THIS VEHICLE WAS ALTERED BY / *CE VÉHICLE A ÉTÉ MODIFIÉ PAR*” or “ALTERED BY / *MODIFIÉ PAR*” followed by the name of the company that altered the vehicle,
 		- **(ii)** the month and year during which the alteration of the vehicle was completed,
 		- **(iii)** the drawing referred to in paragraph 6(1)(c),
 		- **(iv)** in accordance with paragraph 6(1)(e), the new gross vehicle weight rating and gross axle weight ratings of the vehicle as altered, where they differ from those shown on the original compliance label,
@@ -1249,7 +1256,7 @@ where
 - **(2)** The drawing referred to in paragraph (1)(c) may be displayed on a label applied to the vehicle beside the compliance label.
 
 - **(3)** In the case of a motor home or a recreational trailer, the information referred to in subparagraph (1)(c)(vi) may be displayed on a separate label applied to the vehicle beside the compliance label or in a conspicuous or readily accessible location.
-> SOR/90-805, s. 2; SOR/91-425, s. 3; SOR/92-173, ss. 2, 5; SOR/95-147, s. 2; SOR/98-125, s. 5; SOR/2002-55, s. 8; SOR/2006-94, s. 4(E).
+> SOR/90-805, s. 2; SOR/91-425, s. 3; SOR/92-173, ss. 2, 5; SOR/95-147, s. 2; SOR/98-125, s. 5; SOR/2002-55, s. 8; SOR/2006-94, s. 4(E); SOR/2018-143-2, s. 3.
 
 
 
@@ -3541,15 +3548,15 @@ or
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -3581,23 +3588,23 @@ or
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)
 
-***plan view reference line*** means, 
+***plan view reference line*** means,
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
@@ -4139,11 +4146,11 @@ or
 
 - **(7)** The following definitions apply for the purposes of TSD 110.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
 
-***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
+***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*)
 
 #### Load Range Identification Symbol
 
@@ -4975,9 +4982,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
 
 #### Load Range Identification Symbol
 
@@ -5248,9 +5255,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
 - **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
-***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
+***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*)
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*)
 
 ***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
 - **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
@@ -5353,7 +5360,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every passenger car and three-wheeled vehicle, and every truck, bus and multi-purpose passenger vehicle — other than a walk-in van — with a GVWR of 4 536 kg or less and an unloaded vehicle mass of 2 495 kg or less, shall conform to the requirements of Technical Standards Document No. 204, Steering Control Rearward Displacement (TSD 204), as amended from time to time.
 
-- **(2)** For the purposes of this section, the words passenger car used in TSD 204 mean passenger car and three-wheeled vehicle.
+- **(2)** For the purposes of this section, the words ***passenger car*** used in TSD 204 mean passenger car and three-wheeled vehicle.
 
 - **(3)** Subsection (1) does not apply to a vehicle that conforms to the requirements of S5 and S14 of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
 
@@ -5497,8 +5504,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** In the case of a motor home, the number of designated seating positions with seat belts shall not be less than the number of sleeping positions.
 
-- **(5)** Every bus with a GVWR of 4 536 kg or less, other than a school bus, shall be equipped
-	- **(a)** at each front outboard designated seating position, and at each rear designated seating position except those referred to in paragraphs (b) to (d), with a Type 2 manual seat belt assembly that
+- **(5)** Every bus, other than a school bus, transit bus, perimeter-seating bus and prison bus, must be equipped
+	- **(a)** at each designated seating position, except those referred to in paragraphs (b) to (d), with a Type 2 manual seat belt assembly that
 		- **(i)** has an upper torso restraint that cannot be detached from the pelvic restraint,
 		- **(ii)** can be adjusted by means of an emergency-locking retractor, and
 		- **(iii)** cannot be detached from any anchorage point;
@@ -5522,19 +5529,12 @@ All spaces provided for in the vehicle identification number must be occupied by
 			- **(A)** can be adjusted by means of an emergency-locking retractor, an automatic-locking retractor or a manual adjusting device, and
 			- **(B)** cannot be detached from any anchorage point.
 
-- **(6)** Every bus with a GVWR greater than 4 536 kg shall be equipped, at the driver’s designated seating position,
-	- **(a)** with a Type 2 manual seat belt assembly that
-		- **(i)** has an upper torso restraint that cannot be detached from the pelvic restraint,
-		- **(ii)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor, and
-		- **(iii)** cannot be detached from any anchorage point; or
-	- **(b)** with a Type 1 manual seat belt assembly that
-		- **(i)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor, and
-		- **(ii)** cannot be detached from any anchorage point.
-
-- **(7)** Every school bus with a GVWR of 4 536 kg or less shall be equipped, at the driver’s designated seating position, with a Type 2 manual seat belt assembly that
+- **(6)** Every school bus, transit bus, perimeter-seating bus and prison bus must be equipped, at the driver’s designated seating position, with a Type 2 manual seat belt assembly that
 	- **(a)** has an upper torso restraint that cannot be detached from the pelvic restraint;
-	- **(b)** can be adjusted by means of an emergency-locking retractor; and
+	- **(b)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor; and
 	- **(c)** cannot be detached from any anchorage point.
+
+- **(7)** [Repealed, SOR/2018-143-2, s. 4]
 
 - **(8)** [Reserved]
 
@@ -5562,8 +5562,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(13)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle, and their owner’s manuals, shall conform to the requirements of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
 
 - **(14)** For the purposes of this section,
-	- **(a)** the words passenger car used in TSD 208 mean passenger car and three-wheeled vehicle; and
-	- **(b)** the word dummy used in the English version of TSD 208 means anthropomorphic test device.
+	- **(a)** the words ***passenger car*** used in TSD 208 mean passenger car and three-wheeled vehicle; and
+	- **(b)** the word ***dummy*** used in the English version of TSD 208 means anthropomorphic test device.
 
 - **(15)** Despite subsection (13), every vehicle with a front outboard designated seating position that is designed for a disabled person may, instead of conforming to the requirements of S5, S7.1, S7.2, S7.4 and S14 to S27 of TSD 208, display the following statement on one or more labels, permanently affixed in view of the occupants of the front designated seating positions, in letters of not less than six points in height: “The [here refer to the outboard designated seating position in the front row of designated seating positions that does not conform to the requirements set out in CMVSS 208] does not conform to all of the requirements set out in CMVSS 208. / *La [insérer ici la place assise désignée extérieure de la première rangée de places assises designées qui n’est pas conforme aux exigences prévues par la NSVAC 208] n’est pas conforme à toutes les exigences prévues par la NSVAC 208*.”
 
@@ -5597,8 +5597,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 #### Transitional Provision
 
 
-- **(26)** Until September 1, 2015, trucks, buses, enclosed motorcycles, multi-purpose passenger vehicles, passenger cars and three-wheeled vehicles may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F); SOR/2013-9, ss. 5, 6; SOR/2014-307, s. 18; SOR/2016-318, s. 10..
+- **(26)** Until September 1, 2020, buses may conform to the applicable requirements of this section as it read on the day before the day on which this subsection came into force.
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F); SOR/2013-9, ss. 5, 6; SOR/2014-307, s. 18; SOR/2016-318, s. 10; SOR/2018-143-2, s. 4..
 
 
 
@@ -5679,54 +5679,19 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **210** 
 
-- **(1)** The following seat belt anchorages shall be installed in a designated seating position in respect of which a seat belt assembly has been installed under section 208:
+- **(1)** The following seat belt anchorages must be installed in a designated seating position in respect of which a seat belt assembly has been installed under section 208:
 	- **(a)** if a Type 1 seat belt assembly has been installed, seat belt anchorages for a pelvic restraint; or
 	- **(b)** if a Type 2 seat belt assembly has been installed, seat belt anchorages for a combination pelvic and upper torso restraint.
 
-- **(2)** Only the strength test requirements set out in subsections (7) to (10) apply to enclosed motorcycles.
+- **(2)** The seat belt anchorages set out in subsection (1) and the owner’s manual for three-wheeled vehicles, passenger cars, multipurpose passenger vehicles, buses other than a school bus, and trucks with a GVWR of 4 536 kg or less must conform to the requirements of Technical Standards Document No. 210, Seat Belt Anchorages (TSD 210), as amended from time to time.
 
-- **(2.1)** [Repealed, SOR/2008-72, s. 7]
+- **(3)** Only the strength test requirement set out in S4.2 of TSD 210 applies to enclosed motorcycles.
 
-#### Anchorage Positioning Requirements
-
-
-- **(3)** A seat belt anchorage for the pelvic portion of a seat belt assembly shall be located at least 165 mm laterally from the other seat belt anchorage of that seat belt, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of such means.
-
-- **(4)** In the case of a seat belt assembly in which
-	- **(a)** the seat belt passes outside the seat or between the seat cushions without bearing on the seat structure, as illustrated in Figure 1 of SAE Recommended Practice J383 (June 1995), a line from
-		- **(i)** in the case of a seat that has no travel, the seating reference point,
-		- **(ii)** in the case of a seat with a travel of not more than 70 mm, where the travel is intended for use by an occupant, the H-point with the seat in its rearmost position within that range of travel, or
-		- **(iii)** in the case of a seat with a travel of more than 70 mm, a point 64 mm to the fore of, and 10 mm above, the seating reference point
-to the nearest contact point of the belt with the seat belt anchorage shall extend to the fore from that contact point at an angle to the horizontal of not less than 30° and not more than 75°;
-	- **(b)** the seat belt bears on the seat structure, as illustrated in Figure 3 of SAE Recommended Practice J383 (June 1995),
-		- **(i)** the seat belt anchorage shall be aft of the rearmost contact point of the belt on the seat frame with the seat in its rearmost position, and
-		- **(ii)** the line from the seating reference point to the nearest contact point of the seat belt with the seat frame shall extend to the fore from that contact point at an angle to the horizontal of not less than 30° and not more than 75°; and
-	- **(c)** the seat belt anchorage is on the seat structure, the line from the seating reference point to the nearest contact point of the belt with the anchorage shall extend to the fore from that contact point at an angle to the horizontal of not less than 30° and not more than 75°.
-
-- **(5)** In the case of each non-adjustable seat belt anchorage for the upper end of an upper torso restraint, the intersection of the longitudinal centreline of the bolt hole and the surface of the mounting structure or, in designs using another means of attachment to the vehicle structure, the centroid of the means shall be located within the range indicated in section 6.1 of SAE Recommended Practice J383, Motor Vehicle Seat Belt Anchorages — Design Recommendations (June 1995), with reference to an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), where
-	- **(a)** the H-Point of the template is located at the unique Design H-Point of the seat, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full rearward and full downward position of the seat; and
-	- **(b)** the torso line of the template is at the same angle to the vertical plane as the seat back with the seat adjusted to its full rearward and full downward position and the seat back in its most upright position.
-
-- **(6)** In the case of each adjustable seat belt anchorage for the upper end of an upper torso restraint, the mid-point of the range of adjustment of the anchorage or the position that is suitable for a 50th percentile adult male, if that position is specified in the owner’s manual, shall be located within the range referred to in subsection (5).
-
-#### Strength Requirements
+#### Transitional Provision
 
 
-- **(7)** When the seat belt anchorages for a Type 1 seat belt assembly or for the pelvic portion of a Type 2 seat belt assembly that is equipped with a detachable upper torso restraint are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2010) by applying a force of 22 241 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
-
-- **(8)** When the seat belt anchorages for the pelvic portion and for the upper torso portion of a Type 2 seat belt assembly are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2010) by simultaneously applying a force of 13 345 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
-
-- **(9)** [Repealed, SOR/2003-57, s. 1]
-
-- **(10)** Seat belt anchorages for designated seating positions that face in the same direction shall be tested by simultaneously loading the seat belt assemblies attached to the anchorages, where the anchorages are
-	- **(a)** common to the same seat; or
-	- **(b)** laterally adjacent but not common to the same seat and at least one of the anchorages is located within 305 mm of the anchorage for the adjacent seating position, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of those means.
-
-#### Information Respecting Restraint Systems
-
-
-- **(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less and rear designated seating positions, other than a school bus, shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
-> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14; SOR/2008-72, s. 7; SOR/2011-264, s. 6..
+- **(4)** Until September 1, 2020, the seat belt anchorages referred to in subsection (1) and the owner’s manuals referred to in subsection (2) may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
+> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14; SOR/2008-72, s. 7; SOR/2011-264, s. 6; SOR/2018-143-2, s. 5..
 
 
 
@@ -6376,9 +6341,9 @@ Note: Drawing not to scale
 
 - **(1)** The following definitions apply in this section.
 
-***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*) 
+***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*)
 
-***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*) 
+***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*)
 
 - **(2)** For the purposes of this section, a reference in TSD 209 to webbing, a belt buckle or a related piece of adjustment hardware that is part of a Type 1 seat belt assembly is to be read as a reference to webbing, a belt buckle or a related piece of adjustment hardware that is part of a built-in restraint system.
 
@@ -6471,13 +6436,13 @@ Note: Drawing not to scale
 	- **(c)** adjusting every part of the restraint system or booster seat that is designed to restrain the person.
 
 - **(22)** The instructions referred to in subsection (21) shall
-	- **(a)** explain the primary consequences of not following the warnings referred to in paragraph 19(b) or the instructions referred to in subsection (21); and
+	- **(a)** explain the primary consequences of not following them or the warnings referred to in subparagraph 19(b)(ii); and
 	- **(b)** in the case of a vehicle seat that is removable from the vehicle by means of a latch mechanism and that is equipped with a built-in restraint system or built-in booster seat, state that the vehicle seat, whether occupied or not, must be securely latched to the vehicle.
 
 - **(23)** [Repealed, SOR/2014-307, s. 20]
 
 - **(24)** Until September 1, 2013, a built-in restraint system or built-in booster seat may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
-> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18; SOR/2013-117, s. 11; SOR/2014-307, s. 20..
+> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18; SOR/2013-117, s. 11; SOR/2014-307, s. 20; SOR/2018-143-2, s. 6..
 
 
 
@@ -6569,7 +6534,7 @@ Note: Drawing not to scale
 		- **(i)** 1.25, where the distance is measured in centimetres, or
 		- **(ii)** 2, where the distance is measured in inches.
 
-- **(3)** Every bus, other than a school bus and a bus manufactured for the purpose of transporting persons under physical restraint, shall be provided with unobstructed openings for rapidly urgent egress, the combined areas of which, when measured
+- **(3)** Every bus, other than a school bus and a prison bus, must be provided with unobstructed openings for rapidly urgent egress, the combined areas of which, when measured
 	- **(a)** in square centimetres, is equal to at least 430 times the number of designated seating positions on the bus; or
 	- **(b)** in square inches, is equal to at least 67 times the number of designated seating positions on the bus.
 
@@ -6764,7 +6729,7 @@ whichever is the higher.
 
 > Image: Diagram showing the Head Form with measurements and descriptions
 
-> SOR/80-159, s. 1; SOR/86-978, s. 1; SOR/87-176, s. 1; SOR/92-122, s. 1; SOR/94-374, s. 5; SOR/94-692, s. 2; SOR/98-524, s. 4(F); SOR/99-215, s. 1(F); SOR/2009-330, s. 5..
+> SOR/80-159, s. 1; SOR/86-978, s. 1; SOR/87-176, s. 1; SOR/92-122, s. 1; SOR/94-374, s. 5; SOR/94-692, s. 2; SOR/98-524, s. 4(F); SOR/99-215, s. 1(F); SOR/2009-330, s. 5; SOR/2018-143-2, s. 7..
 
 
 
@@ -6803,17 +6768,17 @@ whichever is the higher.
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)
 
 - **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
@@ -6842,93 +6807,15 @@ whichever is the higher.
 
 **222** 
 
-- **(1)** In this section,
+- **(1)** Every school bus must conform to the requirements of Technical Standards Document No. 222, School Bus Passenger Seating and Crash Protection (TSD 222), as amended from time to time.
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
+- **(2)** If a school bus is equipped with a seat belt assembly at a rear designated seating position, the seat belt assembly must be Type 2 and it must conform to the requirements of TSD 222.
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
-- **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
-- **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
-- **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
-- **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
+#### Transitional Provision
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle; (*siège pour passager d’autobus scolaire*) 
-
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
-
-- **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
-
-- **(3)** Any particular passenger seat of a school bus used as a test specimen when the school bus is subjected to the test methods referred to in subsection (2), need not meet further requirements after having been subjected to the requirements of
-	- **(a)** subsections (6) and (9); or
-	- **(b)** subsection (7), (8), (11) or (12).
-
-- **(4)** Passenger seats on a school bus shall face directly either the front or the rear of the vehicle.
-
-- **(5)** The number of seating positions in a bench type seat shall be obtained by dividing the bench width measured in millimetres or inches by 381 mm or 15 inches, as the case may be, and rounding the quotient to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof.
-
-- **(6)** Every school bus passenger seat shall be equipped with a seat back having
-	- **(a)** a height of not less than
-		- **(i)** 508 mm (20 inches) above the seating reference point, where the seat faces the front of the vehicle, and
-		- **(ii)** 762 mm (30 inches) above the seating reference point, where the seat faces the rear of the vehicle; and
-	- **(b)** a front surface area of not less than 90 per cent of the seat bench width measured in millimetres or inches multiplied by 508 mm or 20 inches, as the case may be, that is
-		- **(i)** above the horizontal plane that passes through the seating reference point, and
-		- **(ii)** below the horizontal plane that passes through a point 508 mm or 20 inches above the seating reference point.
-
-- **(7)** Where a school bus passenger seat that has another seat behind it is subjected to forward performance tests as specified in the test methods referred to in subsection (2)
-	- **(a)** the seat back force/deflection curve shall fall within the zone specified in Figure 1;
-	- **(b)** the seat back deflection shall not exceed 356 mm (14 inches), as determined from the force/deflection curve;
-	- **(c)** the seat shall not deflect by an amount such that any part of the seat moves to within 100 mm (four inches) of any part of another school bus passenger seat or restraining barrier in its originally installed position;
-	- **(d)** the seat shall not separate from the vehicle at any attachment point;
-	- **(e)** the seat components shall not separate at any attachment point; and
-	- **(f)** the energy absorbed in deflecting the seat back shall be not less than 452W Nm (4000W inch-pounds), as determined from the force/deflection curve.
-
-- **(7.1)** In subsection (7), ***force/deflection curve*** means,
-	- **(a)** for the purposes of paragraphs (7)(a) and (b), the force applied by means of the upper loading bar and the forward travel distance of the pivot attachment point of the upper loading bar, measured from the point at which the initial application of 44.5 N (10 pounds) of force is attained; and
-	- **(b)** for the purposes of paragraph (7)(f), the force applied by means of the upper loading bar and the forward and rearward travel distance of the pivot attachment point of the upper loading bar measured from the position at which the initial application of 44.5 N (10 pounds) of force is attained.
-
-- **(8)** Where a school bus passenger seat that has another seat behind it is subjected to rearward performance tests as specified in the test methods referred to in subsection (2),
-	- **(a)** the seat back force shall not exceed 9 876 N (2,200 pounds), as determined from the force/deflection curve;
-	- **(b)** the seat back deflection shall not exceed 250 mm (10 inches), as determined by the force/deflection curve;
-	- **(c)** the seat shall not deflect by an amount such that any part of the seat moves to within 100 mm (four inches) of any part of another school bus passenger seat in its originally installed position;
-	- **(d)** the seat shall not separate from the vehicle at any attachment point;
-	- **(e)** the seat components shall not separate at any attachment point; and
-	- **(f)** the energy absorbed in deflecting the seat back shall be not less than 316.4 W Nm (2800W inch-pounds), as determined from the force/deflection curve.
-
-- **(8.1)** In subsection (8) ***force/deflection curve*** means
-	- **(a)** for the purposes of paragraphs (8)(a) and (b), the force applied by means of the loading bar and the rearward travel distance of the pivot attachment point of the loading bar measured from the point at which the initial application of 222.4 N (50 pounds) of force is attained; and
-	- **(b)** for the purposes of paragraph (8)(f), the force applied by means of the loading bar and the rearward and forward travel distance of the pivot attachment point of the loading bar measured from the position at which the initial application of 222.4 N (50 pounds) of force is attained.
-
-- **(9)** No seat cushion with which a school bus passenger seat is equipped shall, where all the manual attachment devices between the seat and the seat cushion are in the manufacturer’s designed position for attachment, separate from the seat at any attachment point when subjected to an upward force of five times the seat cushion weight, applied in any period of not less than one nor more than two seconds, and maintained for five seconds.
-
-- **(10)** A restraining barrier shall be provided forward of any designated seating position that does not have the rear surface of another school bus passenger seat within 610 mm (24 inches) of the seating reference point, measured along a horizontal line through the seating reference point in the forward direction, such that
-	- **(a)** the horizontal distance between the restraining barrier’s rear surface and the seating reference point of the seat in front of which it is required is not more than 610 mm (24 inches);
-	- **(b)** the position and rear surface area of the restraining barrier shall be such that, in a front projected view of the bus, each point of the barrier’s perimeter coincides with or lies outside of the perimeter of the seat back of the seat for which it is required; and
-	- **(c)** when subjected to a forward force, as specified in the test methods referred to in subsection (2), the restraining barrier shall meet all the requirements specified in paragraphs (7)(a), (b), (d), (e) and (f) as they apply to a seat, and the restraining barrier deflection shall not interfere with normal door operation.
-
-- **(11)** When any contactable surface of a school bus within the head protection zones is impacted from any direction by a head form test device, as specified in the test methods referred to in subsection (2),
-	- **(a)** at 6.7 m/s (22 feet per second),
-		- **(i)** the axial acceleration at the centre of gravity of the head form test device shall be such that the expression
-```
-
-> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device
-
-```
-shall not exceed 1,000, where “a” is the axial acceleration expressed as a multiple of “g” (the acceleration due to gravity), and t<sub>1</sub> and t<sub>2</sub> are any two points in time during the impact, and
-		- **(ii)** the energy necessary to deflect the impacted material shall be not less than 4.52 Nm (40 inch-pounds) before the force level on the head form test device exceeds 667 N (150 pounds); and
-	- **(b)** at 1.5 m/s (five feet per second) the contact area on the head form test device surface shall not be less than 1 935 mm<sup>2</sup> (three square inches).
-
-- **(12)** When any point on the rear surface of a part of a seat back or restraining barrier within the leg protection zone is impacted from any direction by a knee form test device, as specified in the test methods referred to in subsection (2) at 4.88 m/s (16 feet per second)
-	- **(a)** the resisting force of the impacted material shall not exceed 2 669 N (600 pounds); and
-	- **(b)** the contact area on the knee form test device surface shall not be less than 1 935 mm<sup>2</sup> (three square inches).
-
-- **(13)** Every school bus passenger seat shall be fastened to the floor of the bus by bolts that have nuts and locking devices such as lock washers.
-
-- 
-> Image: Diagram showing the Force / Deflection Zone
-
-> SOR/80-161, s. 4; SOR/86-4 53, s. 3; SOR/91-593, s. 1..
+- **(3)** Until September 1, 2020, school buses may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
+> SOR/80-161, s. 4; SOR/86-4 53, s. 3; SOR/91-593, s. 1; SOR/2018-143-2, s. 8..
 
 
 
@@ -6942,37 +6829,37 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point:  
 - **(a)** tail lamps;
 - **(b)** rubber bumpers;
 - **(c)** hinges and latches; and
 - **(d)** flexible aerodynamic devices that are capable of being folded to within 305 mm from the transverse vertical plane tangent to the rearmost surface of the horizontal member and that, while positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and that intersects a point located 1 210 mm rearward of the rearmost surface of the horizontal member and 1 740 mm above the ground. (*extrémité arrière*)
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)
 
 ### Application
 
@@ -7221,12 +7108,10 @@ where
 
 - **(3)** Instead of complying with S7.2.3 of TSD 305, a three-wheeled vehicle, including test devices and instrumentation, shall be loaded to its unloaded vehicle weight, except that the vehicle fuel tank shall be filled to not less than 90 per cent and not more than 95 per cent of the vehicle fuel tank capacity.
 
-- **(4)** Instead of being tested in accordance with S6.2 of TSD 305, a vehicle referred to in subsection (1), other than a three-wheeled vehicle, may be tested in accordance with the requirements of S6.2(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in S7.3(b) of TSD 301.
-
-- **(5)** A vehicle tested in accordance with subsection (4) shall conform to the requirements of S5.1, S5.2 and S5.3 of TSD 305.
+- **(4) and (5)** [Repealed, SOR/2018-143-2, s. 10]
 
 - **(6)** [Repealed, SOR/2014-307, s. 28]
-> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13; SOR/2011-238, s. 6; SOR/2014-307, s. 28..
+> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13; SOR/2011-238, s. 6; SOR/2014-307, s. 28; SOR/2018-143-2, s. 10..
 
 
 
@@ -7484,11 +7369,11 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)
 
 - **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
