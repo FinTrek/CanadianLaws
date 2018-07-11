@@ -70,6 +70,8 @@ Autorités habilitantes :
 
 ***autobus muni de sièges de périmètre*** Autobus qui comporte, à l’arrière de la place assise désignée du conducteur, sept places assises désignées ou moins qui font face à l’avant ou qui peuvent être changées de direction à laquelle elles font face sans l’aide d’outil; (*perimeter-seating bus*)
 
+***autobus pénitentiaire*** Autobus qui est spécialement conçu pour le transport des détenus; (*prison bus*)
+
 ***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école ou à des événements liés à celle-ci et en revenir; (*school bus*)
 
 ***autobus urbain*** Autobus qui est spécialement conçu avec un espace où des passagers peuvent se tenir debout et qui est muni d’un système d’arrêt sur demande; (*transit bus*)
@@ -125,7 +127,7 @@ Autorités habilitantes :
 
 Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carburant qui peut être pompé dans le goulot de remplissage ou dans l’espace au-dessus du goulot de remplissage; (*vehicle fuel tank capacity*)
 
-***cataphote*** Dispositif d’un véhicule qui est destiné à indiquer la position et les dimensions de celui-ci au conducteur d’un véhicule qui approche au moyen de la lumière réfléchie des feux du véhicule qui approche. (*reflex reflector*)
+***cataphote*** Dispositif d’un véhicule qui est destiné à indiquer la position et les dimensions de celui-ci au conducteur d’un véhicule qui approche au moyen de la lumière réfléchie des feux du véhicule qui approche; (*reflex reflector*)
 
 ***catégorie***[Abrogée, DORS/2007-180, art. 1]
 
@@ -224,7 +226,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 ***dispositif de frein antiblocage*** ou ***ABS*** S’entend de la partie d’un système de frein de service qui contrôle automatiquement le niveau de glissement d’une ou de plusieurs roues lors du freinage de la manière suivante :
 - **a)** en détectant la vitesse angulaire de rotation des roues;
 - **b)** en transmettant des signaux relatifs à la vitesse angulaire de rotation des roues à un ou plusieurs dispositifs de commande qui interprètent ces signaux et produisent en réaction des signaux de commande;
-- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux; (*antilock brake system** or **ABS*)
+- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux; (*antilock brake system**or**ABS* )
 
 ***dispositif de maintien du dossier***[Abrogée, DORS/2007-180, art. 1]
 
@@ -304,9 +306,9 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***fabricant intermédiaire*** Entreprise, autre que le fabricant de véhicules incomplets et le fabricant à l’étape finale, qui effectue des opérations de fabrication sur un véhicule incomplet; (*intermediate manufacturer*)
 
-***faisceau de croisement*** Faisceau destiné à éclairer, à l’avant d’un véhicule, la route et ses environs lorsque celui-ci croise ou suit de près un autre véhicule. (*lower beam*)
+***faisceau de croisement*** Faisceau destiné à éclairer, à l’avant d’un véhicule, la route et ses environs lorsque celui-ci croise ou suit de près un autre véhicule; (*lower beam*)
 
-***faisceau de route*** Faisceau destiné principalement à éclairer à distance, à l’avant d’un véhicule, lorsque celui-ci ne croise pas ou ne suit pas de près un autre véhicule. (*upper beam*)
+***faisceau de route*** Faisceau destiné principalement à éclairer à distance, à l’avant d’un véhicule, lorsque celui-ci ne croise pas ou ne suit pas de près un autre véhicule; (*upper beam*)
 
 ***fenêtre amovible*** désigne une fenêtre qui peut rapidement et complètement être enlevée d’un véhicule, sans l’aide d’outils, et comprend, dans le cas d’un autobus dont le PNBV dépasse 4 535,9 kg (10 000 livres), une fenêtre basculante ou une fenêtre aménagée dans une issue de secours qui peut manuellement être sortie de son cadre sans l’aide d’outils, même si elle demeure fixée d’un côté au véhicule par une charnière; (*readily removable window*)
 
@@ -314,7 +316,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***feu à compartiments multiples***[Abrogée, DORS/96-366, art. 1]
 
-***feu de jour*** Dispositif d’éclairage produisant un signal lumineux continu destiné à améliorer la visibilité d’un véhicule à l’avant et sur les côtés à l’avant. (*daytime running lamp*)
+***feu de jour*** Dispositif d’éclairage produisant un signal lumineux continu destiné à améliorer la visibilité d’un véhicule à l’avant et sur les côtés à l’avant; (*daytime running lamp*)
 
 ***feux combinés optiquement***[Abrogée, DORS/2018-43, art. 1]
 
@@ -326,9 +328,9 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***frein de stationnement*** désigne un mécanisme conçu pour empêcher le mouvement d’un véhicule en stationnement; (*parking brake*)
 
-***gaz de pétrole liquéfié*** ou ***GPL*** Produit aux hydrocarbures qui est conforme aux exigences de la norme nationale du Canada CAN/CGSB-3.14-M88, intitulée Gaz de pétrole liquéfié (propane) (août 1988); (*liquefied petroleum gas** or **LPG*)
+***gaz de pétrole liquéfié*** ou ***GPL*** Produit aux hydrocarbures qui est conforme aux exigences de la norme nationale du Canada CAN/CGSB-3.14-M88, intitulée Gaz de pétrole liquéfié (propane) (août 1988); (*liquefied petroleum gas**or**LPG* )
 
-***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas** or **CNG*)
+***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas**or**CNG* )
 
 ***gommage***[Abrogée, DORS/2007-180, art. 1]
 
@@ -358,7 +360,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***largeur de la surface de siège*** Largeur maximale de la surface de siège, mesurée dans une zone partant d’un plan vertical transversal situé à 150 mm derrière la surface avant du bord de cette surface de siège jusqu’à un plan vertical transversal situé à 250 mm derrière cette surface avant du bord, mesurée horizontalement et longitudinalement; (*seating surface width*)
 
-***largeur hors tout*** Sauf aux articles 104 et 108 de l’annexe IV, partie la plus large d’un véhicule dont les portes et les fenêtres sont fermées et dont les roues sont en ligne droite, à l’exclusion des feux de signalisation, des feux de position, des rétroviseurs extérieurs, des prolongements d’aile flexibles et des bavettes garde-boue. (*overall width*)
+***largeur hors tout*** Sauf aux articles 104 et 108 de l’annexe IV, partie la plus large d’un véhicule dont les portes et les fenêtres sont fermées et dont les roues sont en ligne droite, à l’exclusion des feux de signalisation, des feux de position, des rétroviseurs extérieurs, des prolongements d’aile flexibles et des bavettes garde-boue; (*overall width*)
 
 ***ligne*** désigne le nom qu’un fabricant donne à la famille de véhicules d’une marque dont la carrosserie, le châssis, le type de cabine ou d’autres caractéristiques de construction se ressemblent dans une certaine mesure; (*line*)
 
@@ -494,7 +496,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***plan d’orientation repère***[Abrogée, DORS/96-366, art. 1]
 
-***pneu pour camion léger*** Pneu désigné par son fabricant comme étant destiné principalement à être utilisé sur des camions légers ou des véhicules de tourisme à usages multiples; (*light-truck tire** or **LT tire*)
+***pneu pour camion léger*** Pneu désigné par son fabricant comme étant destiné principalement à être utilisé sur des camions légers ou des véhicules de tourisme à usages multiples; (*light-truck tire**or**LT tire* )
 
 ***pneu pour voiture de tourisme*** Pneu destiné à être utilisé sur des voitures de tourisme, véhicules de tourisme à usages multiples et camions dont le PNBV est de 4 536 kg ou moins; (*passenger car tire*)
 
@@ -504,9 +506,9 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***poids du véhicule sans charge*** désigne le poids du véhicule dont les réservoirs sont remplis à pleine capacité de tous les liquides nécessaires à son fonctionnement, mais sans chargement ni occupants; (*unloaded vehicle weight*)
 
-***poids nominal brut du véhicule*** ou ***PNBV*** désigne la valeur spécifiée par le fabricant comme poids d’un seul véhicule en charge; (*gross vehicle weight rating** or **GVWR*)
+***poids nominal brut du véhicule*** ou ***PNBV*** désigne la valeur spécifiée par le fabricant comme poids d’un seul véhicule en charge; (*gross vehicle weight rating**or**GVWR* )
 
-***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating** or **GAWR*)
+***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating**or**GAWR* )
 
 ***point de référence de l’épaule*** S’entend du point situé à 563 mm au-dessus du point H le long de la ligne de torse; (*shoulder reference point*)
 
@@ -526,7 +528,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***position de ralenti*** désigne la position du papillon des gaz lorsque celui-ci entre en contact avec la commande du ralenti réglée selon les conditions existantes et conformément aux recommandations du fabricant concernant les réglages de régime du moteur pour le départ à froid, la climatisation et les dispositifs antipollution, ainsi que les dispositifs de réglage du papillon des gaz; (*idle position*)
 
-***projecteur*** Phare produisant un faisceau de route ou un faisceau de croisement, ou les deux. (*headlamp*)
+***projecteur*** Phare produisant un faisceau de route ou un faisceau de croisement, ou les deux; (*headlamp*)
 
 ***projecteur à ampoule remplaçable***[Abrogée, DORS/96-366, art. 1]
 
@@ -771,7 +773,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Pour l’application du présent règlement, si un document disponible dans les deux langues officielles est incorporé par renvoi avec ses modifications successives, la modification apportée à ce document dans l’une des langues officielles n’est pas incorporée tant que la modification correspondante n’est pas apportée dans l’autre langue officielle.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1; DORS/2018-43, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1; DORS/2017-104, art. 1; DORS/2018-43, art. 1; DORS/2018-143-2, art. 1.
 
 
 
@@ -848,8 +850,13 @@ où :
 
 - **(4)** Les sièges pliants, amovibles et réglables sont mesurés selon la configuration qui donne la plus grande largeur de la surface de siège.
 
-- **(5)** Le nombre de places assises désignées d’une banquette dans un autobus scolaire correspond au nombre de places assises calculé conformément au paragraphe 222(5) de l’annexe IV.
-> DORS/2009-318, art. 2; DORS/2011-264, art. 2.
+- **(5)** Le nombre de places assises désignées d’une banquette dans un autobus scolaire correspond au nombre de places assises calculé conformément au Document de normes techniques no 222 — Sièges pour passager d’autobus scolaire et protection en cas de collison.
+
+### Disposition transitoire
+
+
+- **(6)** Jusqu’au 1<sup>er</sup> septembre 2020, le nombre de places assises désignées visé au paragraphe (5) peut être conforme aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/2009-318, art. 2; DORS/2011-264, art. 2; DORS/2018-143-2, art. 2.
 
 
 
@@ -1241,7 +1248,7 @@ où :
 		- **(ii)** dans les limites du poids en charge des pièces du véhicule, une fois le véhicule modifié chargé pour l’usage auquel il est destiné;
 	- **b)** veiller à ce que le véhicule soit, à l’égard des modifications apportées, conforme aux normes visées au paragraphe 5(2);
 	- **c)** sous réserve du paragraphe (2), apposer sur le véhicule une étiquette supplémentaire sur laquelle figurent :
-		- **(i)** la mention « *THIS VEHICLE WAS ALTERED BY* / CE VÉHICULE A ÉTÉ MODIFIÉ PAR », suivie du nom de l’entreprise qui a modifié le véhicule,
+		- **(i)** la mention « *THIS VEHICLE WAS ALTERED BY* / CE VÉHICULE A ÉTÉ MODIFIÉ PAR » ou « *ALTERED BY* / MODIFIÉ PAR », suivie du nom de l’entreprise qui a modifié le véhicule,
 		- **(ii)** le mois et l’année où la modification du véhicule a été apportée,
 		- **(iii)** le dessin visé à l’alinéa 6(1)c),
 		- **(iv)** en conformité avec l’alinéa 6(1)e), les nouvelles valeurs, si le poids nominal brut du véhicule ou le poids nominal brut sur l’un de ses essieux diffèrent de ceux qui figurent sur l’étiquette de conformité originale,
@@ -1251,7 +1258,7 @@ où :
 - **(2)** Le dessin visé à l’alinéa (1)c) peut figurer sur une étiquette qui est apposée sur le véhicule à côté de l’étiquette de conformité.
 
 - **(3)** Dans le cas d’une autocaravane ou d’une remorque de camping, les renseignements visés au sous-alinéa (1)c)(vi) peuvent figurer sur une étiquette distincte apposée sur le véhicule à côté de l’étiquette de conformité ou à un endroit bien en vue ou d’accès facile.
-> DORS/90-805, art. 2; DORS/91-425, art. 3; DORS/92-173, art. 2 et 5; DORS/95-147, art. 2; DORS/98-125, art. 5; DORS/2002-55, art. 8; DORS/2006-94, art. 4(A).
+> DORS/90-805, art. 2; DORS/91-425, art. 3; DORS/92-173, art. 2 et 5; DORS/95-147, art. 2; DORS/98-125, art. 5; DORS/2002-55, art. 8; DORS/2006-94, art. 4(A); DORS/2018-143-2, art. 3.
 
 
 
@@ -3545,20 +3552,15 @@ ou
 
 - **(1)** Dans le présent article,
 
-***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*) 
+***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*)
 
+***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*)
 
-***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*) 
+***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*)
 
+***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*)
 
-***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*) 
-
-
-***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*) 
-
-
-***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*) 
-
+***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*)
 
 - **(2)** Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
 
@@ -3590,30 +3592,23 @@ ou
 
 - **(1)** Dans le présent article,
 
-***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*) 
+***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*)
 
+***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*)
 
-***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*) 
-
-
-***ligne de référence longitudinale*** désigne 
-
+***ligne de référence longitudinale*** désigne
 - **a)** dans un véhicule à banquette avant, une ligne parallèle à l’axe longitudinal du véhicule, située à une distance du centre du volant, vers l’extérieur, égale aux 15 centièmes de la différence entre la moitié de l’espace d’épaules et la distance entre l’axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903a (mai 1966) de la SAE, et
 - **b)** dans un véhicule à sièges avant individuels,
 	- **(i)** une ligne parallèle à l’axe longitudinal du véhicule passant par le centre de la place assise désignée du conducteur, ou
 	- **(ii)** une ligne parallèle à l’axe longitudinal du véhicule située de manière que le centre géométrique des 95 pour cent du contour de portée visuelle se trouve sur l’axe longitudinal de la place assise désignée du conducteur; (*plan view reference line*)
 
-***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966); (*glazing surface reference line*) 
+***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966); (*glazing surface reference line*)
 
+***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*)
 
-***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*) 
+***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*)
 
-
-***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*) 
-
-
-***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*) 
-
+***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*)
 
 - **(2)** Pour l’application du présent article, dans le cadre de toute norme ou pratique recommandée de la SAE, les mentions « *manikin H-point* », « *manikin H-point with seat in rearmost position* » et « *H-point* » valent la mention « point de référence de position assise ».
 
@@ -4155,14 +4150,11 @@ ou
 
 - **(7)** Les définitions qui suivent s’appliquent au DNT 110.
 
-***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*) 
+***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*)
 
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*)
 
-***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
-
-
-***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
-
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*)
 
 #### Symbole d’identification de la limite de charge
 
@@ -4378,7 +4370,6 @@ où :
 
 - **(31)** Pour l’application des paragraphes (29) et (30) :
 	- **a)** système de visibilité arrière s’entend au sens de rear visibility system à la disposition S4 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives;
-
 	- **b)** les mentions de « *backing event* », « *environmental test fixture* », « *external component* », « *key* », « *rearview image* » et « *rear visibility system* » aux dispositions S4, S5.5, S6.2 et S14 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, s’entendent au sens de leur définition respective à la disposition S4;
 	- **c)** toute mention de « *starting system* » à la disposition S4, y compris sa définition, et à la disposition S14 de l’article 571.111, chapitre V, titre 49 du *Code of Federal Regulations* des États-Unis, avec ses modifications successives, vaut mention de « commutateur d’allumage ».
 
@@ -4995,11 +4986,9 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(4)** Les définitions qui suivent s’appliquent au DNT 120.
 
-***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*)
 
-
-***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
-
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*)
 
 #### Symbole d’identification de la limite de charge
 
@@ -5261,14 +5250,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Dans le présent article,
 
-***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po); (*measuring device*) 
+***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po); (*measuring device*)
 
-
-***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*) 
-
+***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*)
 
 ***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique : 
-
 - **a)** à chaque place assise désignée, placer le pivot de l’appareil de mesure,
 	- **(i)** pour les sièges réglables,
 		- **(A)** au point de référence de position assise, et
@@ -5278,7 +5264,6 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **c)** la tête factice de l’appareil de mesure étant placée à chaque point de contact mentionné à l’alinéa b) et l’appareil de mesure étant en position verticale s’il n’existe pas de point de contact pour un réglage particulier de la distance, faire pivoter l’appareil de mesure vers l’avant et vers le bas, lui faisant ainsi décrire tous les arcs possibles dans des plans verticaux de 90° de chaque côté du plan longitudinal passant par le point de référence de position assise, jusqu’à ce que la tête factice entre en contact avec une surface intérieure ou jusqu’à ce qu’elle soit tangente à un plan horizontal situé à 25 mm (1 pouce) au-dessus du point de référence de position assise, selon ce qui se produit en premier; (*head impact area*)
 
 ***zone d’impact pelvienne*** désigne la partie de la porte ou du panneau latéral intérieur de la carrosserie adjacent à n’importe laquelle des places assises désignées extérieures et délimitée par 
-
 - **a)** deux plans horizontaux situés à 180 mm (7 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise, et
 - **b)** deux plans verticaux et transversaux, situés à 200 mm (8 po) devant et à 50 mm (2 po) derrière le point de référence de position assise. (*pelvic impact area*)
 
@@ -5523,8 +5508,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(4)** Dans le cas des autocaravanes, le nombre de places assises désignées munies d’une ceinture de sécurité ne doit pas être inférieur à celui des places couchées.
 
-- **(5)** Les autobus, à l’exception des autobus scolaires, ayant un PNBV d’au plus 4 536 kg doivent être munis :
-	- **a)** aux places assises désignées extérieures avant et aux places assises désignées arrière, à l’exception de celles visées aux alinéas b) à d), d’une ceinture de sécurité manuelle de type 2 qui :
+- **(5)** Les autobus, à l’exception des autobus scolaires, des autobus urbains, des autobus munis de sièges de périmètre et des autobus pénitentiaires, doivent être munis :
+	- **a)** aux places désignées, à l’exception de celles visées aux alinéas b) à d), d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
@@ -5548,19 +5533,12 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
 			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(6)** Les autobus ayant un PNBV de plus de 4 536 kg doivent être munis, à la place assise désignée du conducteur :
-	- **a)** soit d’une ceinture de sécurité manuelle de type 2 qui :
-		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
-		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
-		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
-	- **b)** soit d’une ceinture de sécurité manuelle de type 1 qui :
-		- **(i)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
-		- **(ii)** ne peut se détacher d’aucun point d’ancrage.
-
-- **(7)** Les autobus scolaires ayant un PNBV d’au plus 4 536 kg doivent être munis, à la place assise désignée du conducteur, d’une ceinture de sécurité manuelle de type 2 qui :
+- **(6)** Les autobus scolaires, les autobus urbains, les autobus munis de sièges de périmètre et les autobus pénitentiaires doivent être munis, à la place désignée du conducteur, d’une ceinture de sécurité manuelle de type 2 qui :
 	- **a)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
-	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence;
+	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant;
 	- **c)** ne peut se détacher d’aucun point d’ancrage.
+
+- **(7)** [Abrogé, DORS/2018-143-2, art. 4]
 
 - **(8)** [Réservé]
 
@@ -5623,8 +5601,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 #### Disposition transitoire
 
 
-- **(26)** Jusqu’au 1<sup>er</sup> septembre 2015, les autobus, les camions, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les voitures de tourisme et les véhicules à trois roues peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18; DORS/2016-318, art. 10..
+- **(26)** Jusqu’au 1<sup>er</sup> septembre 2020, les autobus peuvent être conformes aux exigences applicables du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18; DORS/2016-318, art. 10; DORS/2018-143-2, art. 4..
 
 
 
@@ -5709,49 +5687,15 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 	- **a)** si une ceinture de sécurité de type 1 a été installée, des ancrages de ceinture de sécurité pour une ceinture sous-abdominale;
 	- **b)** si une ceinture de sécurité de type 2 a été installée, des ancrages de ceinture de sécurité pour une combinaison de ceinture sous-abdominale et de ceinture-baudrier.
 
-- **(2)** Seules les exigences de l’essai de résistance prévues aux paragraphes (7) à (10) s’appliquent aux motocyclettes à habitacle fermé.
+- **(2)** Les ancrages de ceintures de sécurité visés au paragraphe (1) et les manuels de l’usager des véhicules à trois roues, des voitures de tourisme, des véhicules de tourisme à usages multiples, des autobus autres que les autobus scolaires et des camions ayant un PNBV d’au plus 4 536 kg doivent satisfaire aux exigences du Document de normes techniques no 210 — Ancrages de ceinture de sécurité (DNT 210), avec ses modifications successives.
 
-- **(2.1)** [Abrogé, DORS/2008-72, art. 7]
+- **(3)** Seule l’exigence de l’essai de résistance prévue à la disposition S4.2 du DNT 210 s’applique aux motocyclettes à habitacle fermé.
 
-#### Positionnement des ancrages
-
-
-- **(3)** Les ancrages de ceinture de sécurité d’une ceinture sous-abdominale d’une ceinture de sécurité doivent être à une distance d’au moins 165 mm l’un de l’autre, mesurée transversalement à partir de l’axe vertical des trous de boulon ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, à partir du centroïde du dispositif.
-
-- **(4)** Toute ceinture de sécurité installée de la façon suivante doit respecter les conditions qui suivent :
-	- **a)** dans le cas où la ceinture passe à l’extérieur ou entre les coussins du siège sans porter sur la structure du siège, tel qu’il est illustré à la figure 1 de la pratique recommandée J383 de la SAE (juin 1995), la ligne allant du point de contact le plus proche de la ceinture avec l’ancrage de ceinture de sécurité jusqu’au point visé à l’un des sous-alinéas (i), (ii) ou (iii) forme, lorsqu’elle est prolongée vers le devant du siège à partir du point de contact, un angle d’au moins 30° et d’au plus 75° avec l’horizontale :
-		- **(i)** dans le cas d’un siège qui ne peut être avancé ou reculé, le point de référence de position assise,
-		- **(ii)** dans le cas d’un siège dont l’intervalle de déplacement maximal pour utilisation par un occupant est d’au plus 70 mm, le point H lorsque le siège se trouve dans sa position la plus reculée dans l’intervalle,
-		- **(iii)** dans le cas d’un siège dont l’intervalle de déplacement est de plus de 70 mm, un point situé à 64 mm en avant, et à 10 mm au-dessus, du point de référence de position assise;
-	- **b)** dans le cas où la ceinture porte sur la structure du siège, tel qu’il est illustré à la figure 3 de la pratique recommandée J383 de la SAE (juin 1995) :
-		- **(i)** l’ancrage de ceinture de sécurité se trouve à l’arrière du point de contact le plus reculé de la ceinture sur le bâti du siège lorsque le siège se trouve dans sa position la plus reculée,
-		- **(ii)** la ligne allant du point de référence de position assise jusqu’au point de contact le plus proche de la ceinture avec le bâti du siège forme, lorsqu’elle est prolongée vers le devant du siège à partir de ce point de contact, un angle d’au moins 30° et d’au plus 75° avec l’horizontale;
-	- **c)** dans le cas où l’ancrage de ceinture de sécurité se trouve sur la structure du siège, la ligne allant du point de référence de position assise jusqu’au point de contact le plus proche de la ceinture avec l’ancrage doit être prolongée vers le devant du siège à partir de ce point de contact en formant un angle d’au moins 30° et d’au plus 75° avec l’horizontale.
-
-- **(5)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier n’est pas réglable, l’intersection de l’axe longitudinal du trou de boulon de l’ancrage et de la surface de la structure de fixation ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, le centroïde du dispositif doit être situé dans les limites indiquées à l’article 6.1 de la pratique recommandée J383 de la SAE intitulée *Motor Vehicle Seat Belt Anchorages — Design Recommendations* (juin 1995) par rapport au gabarit point H décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) dont :
-	- **a)** d’une part, le point H du gabarit est situé à l’unique « *Design H-Point* » du siège, au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), lorsque le siège se trouve dans sa position la plus reculée et la plus basse;
-	- **b)** d’autre part, la ligne du torse forme le même angle, par rapport à la verticale, que le dossier du siège lorsque le siège se trouve dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite.
-
-- **(6)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier est réglable, le point milieu de l’intervalle de réglage ou la position appropriée pour le 50<sup>e</sup> percentile adulte du sexe masculin, si cette position est précisée dans le manuel de l’usager, doit être situé dans les limites visées au paragraphe (5).
-
-#### Résistance des ancrages de ceinture de sécurité
+#### Disposition transitoire
 
 
-- **(7)** Les ancrages de ceinture de sécurité d’une ceinture de sécurité de type 1 et de la ceinture sous-abdominale d’une ceinture de sécurité de type 2 avec ceinture-baudrier détachable ne doivent pas se séparer complètement de la structure du véhicule ou de la structure du siège, lorsqu’ils sont soumis, conformément à la Méthode d’essai 210 — Ancrages de ceinture de sécurité (janvier 2010), à un essai de résistance par l’application d’une force de 22 241 N.
-
-- **(8)** Les ancrages de ceinture de sécurité de la ceinture sous-abdominale et de la ceinture-baudrier d’une ceinture de sécurité de type 2 ne doivent pas se séparer complètement de la structure du véhicule ou de la structure du siège lorsqu’ils sont soumis, conformément à la Méthode d’essai 210 — Ancrages de ceinture de sécurité (janvier 2010), à un essai de résistance par l’application simultanée d’une force de 13 345 N.
-
-- **(9)** [Abrogé, DORS/2003-57, art. 1]
-
-- **(10)** Dans le cas de places assises désignées faisant face à la même direction, les ancrages de ceinture de sécurité doivent être mis à l’essai par l’application simultanée d’une charge sur les ceintures de sécurité fixées à ces ancrages, lorsque ceux-ci sont :
-	- **a)** soit communs à un même siège;
-	- **b)** soit latéralement adjacents mais non communs au même siège et que la distance entre au moins un des ancrages et l’ancrage pour la place assise adjacente est d’au plus 305 mm, mesurée à partir de l’axe vertical des trous de boulon ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, à partir du centroïde du dispositif.
-
-#### Ensembles de retenue
-
-
-- **(11)** Les versions française et anglaise du manuel de l’usager d’un véhicule à trois roues, d’une voiture de tourisme, d’un véhicule de tourisme à usages multiples, d’un autobus, autre qu’un autobus scolaire, ou d’un camion qui ont un PNBV de 4 536 kg ou moins et des places assises désignées arrière doivent contenir un énoncé indiquant que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant ou des ensembles de retenue pour bébé assujettis à une place assise arrière.
-> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A); DORS/2007-180, art. 14; DORS/2008-72, art. 7; DORS/2011-264, art. 6..
+- **(4)** Jusqu’au 1<sup>er</sup> septembre 2020, les ancrages de ceinture de sécurité visés au paragraphe (1) et les manuels de l’usager visés au paragraphe (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A); DORS/2007-180, art. 14; DORS/2008-72, art. 7; DORS/2011-264, art. 6; DORS/2018-143-2, art. 5..
 
 
 
@@ -6401,11 +6345,9 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
+***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*)
 
-
-***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
-
+***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*)
 
 - **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
 
@@ -6498,13 +6440,13 @@ Remarque : Le dessin n’est pas à l’échelle.
 	- **c)** ajuster toutes les parties de l’ensemble ou du siège d’appoint qui sont conçues pour retenir la personne.
 
 - **(22)** Les instructions visées au paragraphe (21) doivent :
-	- **a)** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
+	- **a)** expliquer les principales conséquences du fait de ne pas les suivre ou de ne pas tenir compte de l’avertissement visé au sous-alinéa (19)b)(ii);
 	- **b)** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
 
 - **(23)** [Abrogé, DORS/2014-307, art. 20]
 
 - **(24)** Jusqu’au 1<sup>er</sup> septembre 2013, les ensembles intégrés de retenue et les sièges d’appoint intégrés peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11; DORS/2014-307, art. 20..
+> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11; DORS/2014-307, art. 20; DORS/2018-143-2, art. 6..
 
 
 
@@ -6596,7 +6538,7 @@ Remarque : Le dessin n’est pas à l’échelle.
 		- **(i)** 1,25, lorsque la distance est mesurée en centimètres,
 		- **(ii)** 2, lorsque la distance est mesurée en pouces.
 
-- **(3)** Les autobus, autres que les autobus scolaires et ceux conçus pour le transport des détenus, doivent avoir des ouvertures non obstruées qui permettent la sortie des occupants en cas d’urgence et dont la superficie totale est,
+- **(3)** Les autobus, autres que les autobus scolaires et les autobus pénitentiaires, doivent avoir des ouvertures non obstruées qui permettent une sortie rapide en cas d’urgence et dont la superficie totale, lorsqu’elle est mesurée, est :
 	- **a)** en centimètres carrés, au moins 430 fois le nombre de places assises désignées; ou
 	- **b)** en pouces carrés, au moins 67 fois ce nombre.
 
@@ -6791,7 +6733,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 > Image: Diagramme montrant une forme de tête avec mesures et descriptions
 
-> DORS/80-159, art. 1; DORS/86-978, art. 1; DORS/87-176, art. 1; DORS/92-122, art. 1; DORS/94-374, art. 5; DORS/94-692, art. 2; DORS/98-524, art. 4(F); DORS/99-215, art. 1(F); DORS/2009-330, art. 5..
+> DORS/80-159, art. 1; DORS/86-978, art. 1; DORS/87-176, art. 1; DORS/92-122, art. 1; DORS/94-374, art. 5; DORS/94-692, art. 2; DORS/98-524, art. 4(F); DORS/99-215, art. 1(F); DORS/2009-330, art. 5; DORS/2018-143-2, art. 7..
 
 
 
@@ -6830,23 +6772,17 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*) 
+***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*)
 
+***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*)
 
-***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*) 
+***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*)
 
+***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*)
 
-***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*) 
+***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*)
 
-
-***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*) 
-
-
-***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*) 
-
-
-***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*) 
-
+***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*)
 
 - **(2)** Le présent article s’applique aux joints de panneau de carrosserie d’un autobus scolaire qui se trouvent à l’arrière du plan vertical transversal situé à 762 mm en avant du point de référence de position assise du siège pour passager le plus avancé, à l’exclusion de ceux qui sont joints ou attachés à l’un des éléments suivants ou sont rapprochés de celui-ci :
 	- **a)** les pièces telles les bandes de protection qui sont entièrement à l’extérieur des panneaux de carrosserie;
@@ -6875,98 +6811,15 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 **222** 
 
-- **(1)** Dans le présent article,
+- **(1)** Les autobus scolaires doivent satisfaire aux exigences du Document de normes techniques no 222 — Sièges pour passager d’autobus scolaire et protection en cas de collison (DNT 222), avec ses modifications successives.
 
-***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*) 
+- **(2)** Si un autobus scolaire est muni de ceintures de sécurité aux positions assises désignées arrière, celles-ci doivent être de type 2 et satisfaire aux exigences du DNT 222.
 
-
-***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*) 
-
-
-***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas; (*W*) 
+#### Disposition transitoire
 
 
-***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants : 
-
-- **a)** les plans horizontaux situés à 300 mm (12 po) et à 1 016 mm (40 po) au-dessus du point de référence de position assise,
-- **b)** un plan longitudinal vertical tangent au rebord intérieur (côté de l’allée) du siège,
-- **c)** un plan longitudinal vertical situé à 83 mm (3,25 po) à l’intérieur du rebord extérieur du siège, et
-- **d)** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
-
-***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*) 
-
-
-- **(2)** Les autobus scolaires, lorsqu’ils sont soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Siège pour passager d’autobus scolaire et protection en cas de collision » (19 décembre 1983) doivent, pour les places assises désignées autres que le siège du conducteur, satisfaire aux exigences des paragraphes (6) à (12).
-
-- **(3)** Tout siège d’un autobus scolaire qui sert d’échantillon d’essai lorsque l’autobus scolaire est soumis aux méthodes d’essai visées au paragraphe (2) n’a pas à satisfaire à d’autres exigences s’il répond à celles :
-	- **a)** soit des paragraphes (6) et (9);
-	- **b)** soit des paragraphes (7), (8), (11) ou (12).
-
-- **(4)** Les sièges pour passagers d’autobus scolaire doivent tous être orientés directement vers l’avant ou vers l’arrière du véhicule.
-
-- **(5)** Le nombre de places assises d’une banquette doit être égal au quotient obtenu en divisant sa largeur, mesurée en millimètres ou en pouces, par 381 mm ou 15 po, ou en arrondissant ce quotient à l’entier supérieur pour des résultats de cinq dixième et plus, et à l’entier inférieur dans les autres cas.
-
-- **(6)** Les sièges pour passager d’autobus scolaire sont munis de dossiers
-	- **a)** dont la hauteur dépasse :
-		- **(i)** d’au moins 508 mm (20 po) le point de référence de la position assise lorsque les sièges sont orientés vers l’avant du véhicule,
-		- **(ii)** d’au moins 762 mm (30 po) le point de référence de la position assise lorsque les sièges sont orientés vers l’arrière du véhicule;
-	- **b)** dont la surface avant est égale à au moins 90 % du produit de la largeur de la banquette, mesurée en millimètres ou en pouces, par 508 mm ou 20 po, et qui se trouve entre
-		- **(i)** un plan horizontal imaginaire passant par le point de référence de position assise, et
-		- **(ii)** un autre plan horizontal imaginaire situé à 508 mm ou 20 po au-dessus de ce même point.
-
-- **(7)** Lorsqu’un siège pour passager d’autobus scolaire, placé devant un autre, est soumis à une force de traction dirigée vers l’avant selon les essais de rendement prescrits dans les méthodes visées au paragraphe (2),
-	- **a)** la courbe force/flexion relative au dossier du siège doit être à l’intérieur de la zone indiquée dans la figure 1;
-	- **b)** la flexion du dossier du siège ne doit pas excéder 356 mm (14 po), déterminée selon la courbe force/flexion;
-	- **c)** les parties du siège, après sa flexion, doivent être distantes d’au moins 100 mm (4 po) d’un autre siège pour passager d’autobus scolaire ou d’une barrière de retenue, se trouvant dans leur position d’origine;
-	- **d)** le siège, à tous ses points d’attaches, doit demeurer fixé au véhicule;
-	- **e)** les éléments du siège ne doivent pas se séparer, même partiellement; et
-	- **f)** l’énergie utilisée pour déformer le dossier du siège ne doit pas être inférieure à 452 W m (4 000 W livres-pouces), déterminée selon la courbe force/flexion.
-
-- **(7.1)** Au paragraphe (7), l’expression ***courbe force/flexion*** désigne :
-	- **a)** pour l’application des alinéas (7)a) et b), la force exercée au moyen de la barre de force supérieure et le déplacement vers l’avant du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 44,5 N (10 lb);
-	- **b)** pour l’application de l’alinéa (7)f), la force exercée au moyen de la barre de force supérieure et le déplacement, tant vers l’avant que vers l’arrière, du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 44,5 N (10 lb).
-
-- **(8)** Lorsqu’un siège pour passager d’autobus scolaire, placé devant un autre, est soumis à une force de traction dirigée vers l’arrière selon les essais de rendement prescrits dans les Méthodes visées au paragraphe (2),
-	- **a)** la force exercée sur son dossier ne doit pas dépasser 9 786 N (2 200 lb), déterminée selon la courbe force/flexion;
-	- **b)** la flexion du dossier du siège ne doit pas excéder 250 mm (10 po), déterminée selon la courbe force/flexion;
-	- **c)** les parties du siège, après sa flexion, doivent être distantes d’au moins 100 mm (4 po) d’un autre siège pour passager d’autobus scolaire se trouvant dans sa position d’origine;
-	- **d)** le siège, à tous ses points d’attaches, doit demeurer fixé au véhicule;
-	- **e)** les éléments du siège ne doivent pas se séparer, même partiellement; et
-	- **f)** l’énergie utilisée pour déformer le dossier du siège ne doit pas être inférieure à 316,4 W Nm (2 800 W livres-pouces), telle que déterminée selon la courbe force/flexion.
-
-- **(8.1)** Au paragraphe (8), l’expression ***courbe force/flexion*** désigne :
-	- **a)** pour l’application des alinéas (8)a) et b), la force exercée au moyen de la barre de force et le déplacement vers l’arrière du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 222,4 N (50 lb);
-	- **b)** pour l’application de l’alinéa (8)f), la force exercée au moyen de la barre de force et le déplacement, tant vers l’avant que vers l’arrière, du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 222,4 N (50 lb).
-
-- **(9)** Les coussins de sièges pour passager d’autobus scolaire doivent, si les dispositifs les retenant sont dans la position prévue par le fabricant, demeurer en place même lorsqu’ils sont soumis à une force ascendante obtenue en un temps d’une à deux secondes, maintenue pendant cinq secondes, et égale à cinq fois leur poids.
-
-- **(10)** Devant chaque place assise désignée pour laquelle il n’y a pas de siège précédent ou pour laquelle le point de référence de position assise est situé horizontalement à plus de 610 mm (24 po) de la surface arrière du siège, une barrière de retenue doit être installée de manière que :
-	- **a)** la distance horizontale entre la surface arrière de la barrière de retenue et le point de référence de position assise du siège à l’égard duquel la barrière est exigée ne soit pas supérieure à 610 mm (24 po);
-	- **b)** la projection de son périmètre sur la surface du dossier du siège nécessitant une telle barrière, soit au moins égale à cette surface; et
-	- **c)** lorsque soumise à une force de traction avant, conformément aux méthodes d’essai visées au paragraphe (2), la barrière de retenue satisfasse aux exigences des alinéas (7)a), b), d), e) et f) qui ont trait aux sièges et que la déformation de la barrière ne gêne pas le fonctionnement normal de la porte.
-
-- **(11)** Lorsque, selon les Méthodes visées au paragraphe (2), une surface de contact, située dans la zone de protection de la tête, subit un impact causé par une tête factice se déplaçant,
-	- **a)** à la vitesse de 6,7 m/s (22 pi/s),
-		- **(i)** la valeur numérique de l’accélération axiale au centre de gravité de la tête factice, exprimée par la formule
-```
-
-> Image: Formule utilisée afin de déterminer les critères de blessure à la tête de chaque dispositif anthropomorphe d’essai
-
-```
-ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprimée en multiples de « g » (l’accélération due à la gravité), et t<sub>1</sub> et t<sub>2</sub> représentant deux moments durant l’impact,
-		- **(ii)** l’énergie nécessaire pour faire fléchir le matériau qui a subi l’impact doit être d’au moins 4,52 Nm (40 po-lb), avant que la force exercée sur la tête factice ne dépasse 667 N (150 lb); et
-	- **b)** à la vitesse 1,5 m/s (5 pi/s) la surface de contact sur la tête factice doit être d’au moins 1 935 mm<sup>2</sup> (3 po<sup>2</sup>).
-
-- **(12)** Lorsque, selon les Méthodes visées au paragraphe (2), un point sur la surface arrière d’un dossier de siège ou d’une barrière de retenue située dans une zone de protection des jambes subit un impact causé par un genou factice, se déplaçant à la vitesse de 4,88 m/s (16 pi/s),
-	- **a)** la force de résistance du matériau subissant l’impact ne doit pas dépasser 2 669 N (600 lb); et
-	- **b)** la surface de contact sur le genou factice doit être d’au moins 1 935 mm<sup>2</sup> (3 po<sup>2</sup>).
-
-- **(13)** Les sièges pour passagers d’autobus scolaire doivent être fixés au plancher de l’autobus par des boulons ayant des écrous et des dispositifs indesserrables tels des rondelles-freins.
-
-- 
-> Image: Diagramme montrant la force/zone de déformation
-
-> DORS/80-161, art. 4; DORS/86-453, art. 3; DORS/91-593, art. 1..
+- **(3)** Jusqu’au 1<sup>er</sup> septembre 2020, les autobus scolaires peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/80-161, art. 4; DORS/86-453, art. 3; DORS/91-593, art. 1; DORS/2018-143-2, art. 8..
 
 
 
@@ -6982,18 +6835,13 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 ***coins arrondis*** Les points limites de la pièce horizontale du dispositif de protection arrière qui sont courbés vers le haut. (*rounded corners*)
 
-
 ***dispositif de protection arrière*** Dispositif monté sur l’arrière ou près de l’arrière d’une remorque de façon à limiter, lorsqu’elle est heurtée par l’arrière par un véhicule, la distance sur laquelle glisse sous son extrémité arrière l’avant du véhicule qui la heurte. (*rear impact guard*)
-
 
 ***dispositif de protection hydraulique*** Dispositif de protection arrière conçu pour utiliser les propriétés des fluides en vue de produire une force de résistance à la déformation. (*hydraulic guard*)
 
-
 ***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*)
 
-
-***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière : 
-
+***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
 - **a)** les feux arrière;
 - **b)** les pare-chocs en caoutchouc;
 - **c)** les charnières et les loquets;
@@ -7001,30 +6849,21 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 ***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*)
 
-
 ***garde au sol*** La distance verticale à partir du bord inférieur de la pièce horizontale jusqu’au sol. (*ground clearance*)
-
 
 ***largeur du dispositif de protection*** À l’égard d’un dispositif de protection arrière monté sur une remorque, la dimension horizontale maximale du dispositif de protection arrière qui est perpendiculaire au plan vertical longitudinal passant par l’axe longitudinal de la remorque. (*guard width*)
 
-
 ***marchandises dangereuses*** S’entend au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md). (*dangerous goods*)
-
 
 ***pièce horizontale*** La pièce horizontale de charpente du dispositif de protection arrière. (*horizontal member*)
 
-
 ***remorque à châssis surbaissé*** Remorque dont le châssis se prolonge derrière le point le plus à l’arrière des pneus arrière et qui possède une surface arrière inférieure conforme aux exigences de configuration visées aux paragraphes (6) à (8). (*lowchassis trailer*)
-
 
 ***remorque à roues arrières reculées*** Remorque dont l’essieu le plus à l’arrière est fixé en permanence et est situé de façon que la surface la plus à l’arrière des pneus arrière qui sont de la taille recommandée par le fabricant de la remorque, pour cet essieu, se trouve à au plus 305 mm de l’avant du plan vertical transversal tangent à l’extrémité arrière de la remorque. (*wheels back trailer*)
 
-
 ***remorque-citerne*** Remorque qui est conçue exclusivement pour transporter des marchandises dangereuses et qui est conforme aux exigences sur la protection arrière de la norme nationale du Canada CAN/CSA-B620-98 intitulée Citernes routières et citernes amovibles pour le transport des marchandises dangereuses, (mai 1999), y compris les appendices A et B, modifiée en juillet 1999, en mars 2000, en septembre 2000, en octobre 2001, en novembre 2001 et en octobre 2002 et publiée par la CSA. (*tanker trailer*)
 
-
 ***remorque pour bois à pâte*** Remorque conçue exclusivement pour le transport de billes de bois coupées ou de bois à pâte et qui est construite avec un châssis-squelette n’ayant aucun dispositif permettant de fixer une plate-forme, une carrosserie ou un conteneur. (*pulpwood trailer*)
-
 
 ### Champ d’application
 
@@ -7273,12 +7112,10 @@ où :
 
 - **(3)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge d’un véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 % mais à au plus 95 % de sa capacité.
 
-- **(4)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, les véhicules visés au paragraphe (1), à l’exception des véhicules à trois roues, peuvent être soumis à un essai conformément aux exigences de la disposition S6.2(b) du DNT 301, sauf aux exigences relatives à l’écoulement de carburant, dans les conditions applicables prévues à la disposition S7.3(b) du DNT 301.
-
-- **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
+- **(4) et (5)** [Abrogés, DORS/2018-143-2, art. 10]
 
 - **(6)** [Abrogé, DORS/2014-307, art. 28]
-> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6; DORS/2014-307, art. 28..
+> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6; DORS/2014-307, art. 28; DORS/2018-143-2, art. 10..
 
 
 
@@ -7536,14 +7373,11 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*) 
+***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*)
 
+***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*)
 
-***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*) 
-
-
-***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*) 
-
+***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*)
 
 - **(2)** Le présent article s’applique aux remorques, conçues pour transporter des chargements, qui ont un PNBV égal ou supérieur à 10 000 kg, sont constituées d’un châssis porteur et d’une plate-forme de chargement et n’ont ni toit ni côtés permanents, telles que les remorques plateaux, les remorques lourdes, les remorques de manutention, les remorques porte-engins surbaissées et les remorques avec plancher surbaissé.
 
