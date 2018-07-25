@@ -13982,7 +13982,7 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 ## Sociétés d’état prévues par règlement
 
 
-**7100** Les sociétés d’État prévues pour l’application des paragraphes 27(2) et (3), de la définition de ***société privée*** au paragraphe 89(1) et du paragraphe 124(3) de la Loi sont les suivantes :
+**7100** Les sociétés d’État prévues pour l’application des paragraphes 27(2) et (3), de la définition de société privée au paragraphe 89(1) et du paragraphe 124(3) de la Loi sont les suivantes :
 - **a)** Société d’assurance-dépôts du Canada;
 - **b)** Société de gestion Canada Hibernia;
 - **c)** Société immobilière du Canada Limitée;
@@ -13992,8 +13992,9 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 - **g)** Société de développement du Cap-Breton;
 - **h)** Office de commercialisation du poisson d’eau douce;
 - **i)** Monnaie royale canadienne;
-- **j)** VIA Rail Canada Inc.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-744, art. 1; DORS/85-175, art. 1; DORS/86-1092, art. 18; 1991, ch. 10, art. 19; DORS/91-174, art. 1; DORS/91-557, art. 1; DORS/91-603, art. 1; DORS/94-405, art. 1; DORS/94-686, art. 39(F); DORS/97-28, art. 1; 2001, ch. 22, art. 22; DORS/2003-397, art. 1.
+- **j)** VIA Rail Canada Inc;
+- **k)** Project Deliver II Ltd.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-744, art. 1; DORS/85-175, art. 1; DORS/86-1092, art. 18; 1991, ch. 10, art. 19; DORS/91-174, art. 1; DORS/91-557, art. 1; DORS/91-603, art. 1; DORS/94-405, art. 1; DORS/94-686, art. 39(F); DORS/97-28, art. 1; 2001, ch. 22, art. 22; DORS/2003-397, art. 1; DORS/2018-160, art. 1.
 
 
 
