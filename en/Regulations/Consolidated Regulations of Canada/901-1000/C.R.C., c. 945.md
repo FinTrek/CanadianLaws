@@ -14063,7 +14063,7 @@ but does not include payments under an indexed debt obligation where, at any tim
 ## Prescribed Federal Crown Corporations
 
 
-**7100** For the purposes of subsections 27(2) and (3), the definition ***private corporation*** in subsection 89(1) and subsection 124(3) of the Act, the following are prescribed federal Crown corporations:
+**7100** For the purposes of subsections 27(2) and (3), the definition private corporation in subsection 89(1) and subsection 124(3) of the Act, the following are prescribed federal Crown corporations:
 - **(a)** Canada Deposit Insurance Corporation;
 - **(b)** Canada Hibernia Holding Corporation;
 - **(c)** Canada Lands Company Limited;
@@ -14072,9 +14072,10 @@ but does not include payments under an indexed debt obligation where, at any tim
 - **(f)** Canadian Broadcasting Corporation;
 - **(g)** Cape Breton Development Corporation;
 - **(h)** Freshwater Fish Marketing Corporation;
-- **(i)** Royal Canadian Mint; and
-- **(j)** VIA Rail Canada Inc.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-744, s. 1; SOR/85-175, s. 1; SOR/86-1092, s. 18; 1991, c. 10, s. 19; SOR/91-174, s. 1; SOR/91-557, s. 1; SOR/91-603, s. 1; SOR/94-405, s. 1; SOR/94-686, s. 39(F); SOR/97-28, s. 1; 2001, c. 22, s. 22; SOR/2003-397, s. 1.
+- **(i)** Royal Canadian Mint;
+- **(j)** VIA Rail Canada Inc; and
+- **(k)** Project Deliver II Ltd.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-744, s. 1; SOR/85-175, s. 1; SOR/86-1092, s. 18; 1991, c. 10, s. 19; SOR/91-174, s. 1; SOR/91-557, s. 1; SOR/91-603, s. 1; SOR/94-405, s. 1; SOR/94-686, s. 39(F); SOR/97-28, s. 1; 2001, c. 22, s. 22; SOR/2003-397, s. 1; SOR/2018-160, s. 1.
 
 
 
