@@ -262,6 +262,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**DIVISION 0.01** 
+### Biometric Information
+
+
+
+**Biometric information**
+
+**10.01** A person who makes a claim, application or request under this Act must follow the procedures set out in the regulations for the collection and verification of biometric information, including procedures for the collection of further biometric information for verification purposes after a person’s claim, application or request is allowed or accepted.
+> 2015, c. 36, s. 168.
+
+
+
+
+
+**Regulations**
+
+**10.02** The regulations may provide for any matter relating to the application of section 10.01 and may include provisions respecting
+- **(a)** restrictions on the persons to whom that section applies and on the claims, applications or requests to which it applies;
+- **(b)** the procedures for the collection and verification of biometric information;
+- **(c)** the biometric information that is to be collected;
+- **(d)** the circumstances in which a person is not required to provide certain biometric information;
+- **(e)** the processing of the collected biometric information, including the creation of biometric templates or the conversion of the information into digital biometric formats; and
+- **(f)** the circumstances in which a person is exempt from the application of that section.
+> 2015, c. 36, s. 168.
+
+
+
+
+
 **DIVISION 0.1** 
 ### Invitation to Make an Application
 
@@ -437,12 +466,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Biometric information**
-
-**11.1** A prescribed foreign national who makes an application for a temporary resident visa, study permit or work permit must follow the prescribed procedures for the collection of prescribed biometric information.
-> 2012, c. 17, s. 6.
-
+**11.1** [Repealed, 2015, c. 36, s. 170]
 
 
 
@@ -559,16 +583,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(f.1)** the power to inspect, including the power to require documents to be provided for inspection, for the purpose of verifying compliance with undertakings; and
 	- **(g)** any matter for which a recommendation to the Minister or a decision may or must be made by a designated person, institution or organization with respect to a foreign national or sponsor.
 
-- **(3)** [Repealed, 2015, c. 36, s. 171]
-
-**Biometric information**
-
-- **(4)** The regulations may provide for any matter relating to the application of section 11.1, including
-	- **(a)** the circumstances in which a foreign national is exempt from the requirement to follow the procedures prescribed under that section;
-	- **(b)** the circumstances in which a foreign national is not required to provide certain biometric information; and
-	- **(c)** the processing of the collected biometric information, including creating biometric templates or converting the information into digital biometric formats.
-
-- **(5)** [Repealed, 2015, c. 36, s. 171]
+- **(3) to (5)** [Repealed, 2015, c. 36, s. 171]
 > 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313; 2013, c. 16, s. 4; 2014, c. 20, s. 301; 2015, c. 36, s. 171.
 
 
@@ -4146,13 +4161,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the collection, retention, use, disclosure and disposal of information, including a Social Insurance Number, for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
 	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 or 5.1 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
 	- **(c)** the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications;
-	- **(d)** the retention, use, disclosure and disposal by the Royal Canadian Mounted Police of biometric information and any related personal information that is provided to it under this Act for the enforcement of any law of Canada or a province; and
+	- **(d)** the retention, use, disclosure and disposal by the Royal Canadian Mounted Police of biometric information and any related personal information that is collected under this Act and provided to it for the enforcement of any law of Canada or a province; and
 	- **(e)** the disclosure of information for the purposes of cooperation between the Government of Canada and the government of a province.
 
 **Conditions**
 
 - **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, use, disposal and disclosure may be made.
-> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4; 2012, c. 17, s. 47; 2014, c. 39, s. 313.
+> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4; 2012, c. 17, s. 47; 2014, c. 39, s. 313; 2015, c. 36, s. 174.
 
 
 
