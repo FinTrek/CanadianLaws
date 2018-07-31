@@ -1076,7 +1076,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndDEC9_hq_16028'>[*]</a></sup>**(1)** Sections 168 and 170, subsection 171(2) and section 174 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndDEC9_hq_16028'><sup>*</sup></a>: [Note: Sections 168 and 170, subsection 171(2) and section 174 not in force.]<br />
+<a name='fn_IndDEC9_hq_16028'><sup>*</sup></a>: [Note: Sections 168 and 170, subsection 171(2) and section 174 in force July 31, 2018, *see* SI/2018-47.]<br />
 
 **Order in council**
 
