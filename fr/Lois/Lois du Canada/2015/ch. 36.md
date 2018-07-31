@@ -1076,7 +1076,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndB1DD_hq_16040'>[*]</a></sup>**(1)** Les articles 168 et 170, le paragraphe 171(2) et l’article 174 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_IndB1DD_hq_16040'><sup>*</sup></a>: [Note : Articles 168 et 170, paragraphe 171(2) et article 174 non en vigueur.]<br />
+<a name='fn_IndB1DD_hq_16040'><sup>*</sup></a>: [Note : Articles 168 et 170, paragraphe 171(2) et article 174 en vigueur le 31 juillet 2018, *voir* TR/2018-47.]<br />
 
 **Décret**
 
