@@ -262,6 +262,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**SECTION 0.01** 
+### Renseignements biométriques
+
+
+
+**Renseignements biométriques**
+
+**10.01** L’auteur d’une demande au titre de la présente loi est tenu de suivre la procédure réglementaire de collecte et de vérification de renseignements biométriques, notamment celle de collecte de renseignements biométriques supplémentaires aux fins de vérification une fois la demande accordée.
+> 2015, ch. 36, art. 168.
+
+
+
+
+
+**Règlements**
+
+**10.02** Les règlements régissent l’application de l’article 10.01 et portent notamment sur :
+- **a)** les restrictions applicables quant aux personnes et aux demandes visées à cet article;
+- **b)** la procédure de collecte et de vérification de renseignements biométriques;
+- **c)** les renseignements biométriques à recueillir;
+- **d)** les cas où une personne n’est pas tenue de fournir certains renseignements biométriques;
+- **e)** le traitement des renseignements biométriques recueillis, notamment la création d’un modèle biométrique et la conversion des renseignements en format numérique biométrique;
+- **f)** les cas où une personne est soustraite à l’application de cet article.
+> 2015, ch. 36, art. 168.
+
+
+
+
+
 **SECTION 0.1** 
 ### Invitation à présenter une demande
 
@@ -437,12 +466,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Renseignements biométriques**
-
-**11.1** L’étranger visé par règlement qui présente une demande de visa de résident temporaire ou de permis d’études ou de travail est tenu de suivre la procédure réglementaire pour la collecte de renseignements biométriques réglementaires.
-> 2012, ch. 17, art. 6.
-
+**11.1** [Abrogé, 2015, ch. 36, art. 170]
 
 
 
@@ -559,16 +583,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f.1)** les pouvoirs d’inspection, notamment celui d’exiger la fourniture de tout document pour inspection, à des fins de vérification du respect des engagements;
 	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
 
-- **(3)** [Abrogé, 2015, ch. 36, art. 171]
-
-**Biométrie**
-
-- **(4)** Ils régissent l’application de l’article 11.1 et portent notamment sur :
-	- **a)** les cas où l’étranger est exempté de l’obligation de suivre la procédure prévue au titre de cet article;
-	- **b)** les cas où l’étranger n’a pas à fournir certains renseignements biométriques;
-	- **c)** le traitement des renseignements biométriques recueillis, notamment la création d’un modèle biométrique et la conversion des renseignements en format numérique biométrique.
-
-- **(5)** [Abrogé, 2015, ch. 36, art. 171]
+- **(3) à (5)** [Abrogés, 2015, ch. 36, art. 171]
 > 2001, ch. 27, art. 14; 2012, ch. 17, art. 9, ch. 31, art. 309 et 313; 2013, ch. 16, art. 4; 2014, ch. 20, art. 301; 2015, ch. 36, art. 171.
 
 
@@ -4114,13 +4129,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements, notamment le numéro d’assurance sociale, pour l’application de la présente loi ou de la législation frontalière au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md);
 	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 ou 5.1 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements;
 	- **c)** la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 91(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure — à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue d’assurer que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance;
-	- **d)** la conservation, l’utilisation, le retrait et la communication par la Gendarmerie royale du Canada de renseignements biométriques et des renseignements personnels qui y sont associés qui lui sont communiqués sous le régime de la présente loi pour le contrôle d’application des lois fédérales ou provinciales;
+	- **d)** la conservation, l’utilisation, le retrait et la communication par la Gendarmerie royale du Canada de renseignements biométriques et des renseignements personnels y étant associés, qui sont recueillis sous le régime de la présente loi et qui lui sont communiqués pour le contrôle d’application des lois fédérales ou provinciales;
 	- **e)** la communication de renseignements aux fins de coopération entre l’administration publique fédérale et celle d’une province.
 
 **Conditions**
 
 - **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements.
-> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4; 2012, ch. 17, art. 47; 2014, ch. 39, art. 313.
+> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4; 2012, ch. 17, art. 47; 2014, ch. 39, art. 313; 2015, ch. 36, art. 174.
 
 
 
