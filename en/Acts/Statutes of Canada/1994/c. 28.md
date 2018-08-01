@@ -39,20 +39,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***appropriate authority***, in respect of a province, means an appropriate authority designated for the province pursuant to subsection 3(1);
+***appropriate authority***, in respect of a province, means an appropriate authority designated for the province pursuant to subsection 3(1); (*autorité compétente*)
 
-***designated educational institution*** means an institution of learning designated pursuant to subsection 3(1), and includes a specified educational institution within the meaning of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md);
+***designated educational institution*** means an institution of learning designated pursuant to subsection 3(1), and includes a specified educational institution within the meaning of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md); (*établissement agréé*)
 
-***lender*** means a financial institution within the meaning of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or other corporation that is a party to an agreement with the Minister entered into under section 5;
+***lender*** means a financial institution within the meaning of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or other corporation that is a party to an agreement with the Minister entered into under section 5; (*prêteur*)
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister for the purposes of this Act; (*ministre*)
 
-Version anglaise seulement***prescribed***, in the case of a form or the information to be given on a form, means prescribed by the Minister and, in any other case, means prescribed by the regulations;
+***prescribed***, in the case of a form or the information to be given on a form, means prescribed by the Minister and, in any other case, means prescribed by the regulations; (***Version anglaise seulement***)
 
-***qualifying student*** means a person
-- **(a)** who is a Canadian citizen, a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or a protected person within the meaning of subsection 95(2) of that Act,
+***qualifying student*** means a person
+- **(a)** who is a Canadian citizen, a person registered as an Indian under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or a protected person within the meaning of subsection 95(2) of that Act,
 - **(b)** who is qualified for enrolment or is enrolled at a designated educational institution as a full-time student or part-time student for a period of studies at a post-secondary school level, and
-- **(c)** who intends to attend a designated educational institution as a full-time student or part-time student for a period of studies described in paragraph (b) if it is financially possible for that person to do so.
+- **(c)** who intends to attend a designated educational institution as a full-time student or part-time student for a period of studies described in paragraph (b) if it is financially possible for that person to do so. (*étudiant admissible*)
 
 **Other definitions**
 
@@ -65,7 +65,7 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 **Electronic documents and communication**
 
 - **(4)** A document or other communication under this Act or the regulations may be in electronic form, and a reference in this Act or the regulations to a document includes a document in electronic form.
-> 1994, c. 28, s. 2; 2001, c. 27, s. 219; 2003, c. 15, s. 9; 2008, c. 28, s. 101; 2011, c. 24, s. 152
+> 1994, c. 28, s. 2; 2001, c. 27, s. 219; 2003, c. 15, s. 9; 2008, c. 28, s. 101; 2011, c. 24, s. 152; 2017, c. 20, s. 116
 
 
 
