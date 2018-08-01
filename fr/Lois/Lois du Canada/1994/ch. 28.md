@@ -39,18 +39,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***autorité compétente*** Toute autorité désignée en vertu du paragraphe 3(1).
+***autorité compétente*** Toute autorité désignée en vertu du paragraphe 3(1). (*appropriate authority*)
 
-***établissement agréé*** Établissement d’enseignement agréé conformément au paragraphe 3(1) ou au sens de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
+***établissement agréé*** Établissement d’enseignement agréé conformément au paragraphe 3(1) ou au sens de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md). (*designated educational institution*)
 
-***étudiant admissible*** S’entend de quiconque, à la fois :
-- **a)** est un citoyen canadien, un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou une personne protégée au sens du paragraphe 95(2) de cette loi;
+***étudiant admissible*** S’entend de quiconque, à la fois :
+- **a)** est un citoyen canadien, une personne inscrite à titre d’Indien sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou une personne protégée au sens du paragraphe 95(2) de cette loi;
 - **b)** est inscrit ou remplit les conditions d’inscription à un établissement agréé, en qualité d’étudiant à temps plein ou d’étudiant à temps partiel, pour une période d’études au niveau postsecondaire;
-- **c)** a l’intention de suivre, à temps plein ou partiel, les cours d’un tel établissement, pour cette période d’études, s’il a les moyens financiers pour le faire.
+- **c)** a l’intention de suivre, à temps plein ou partiel, les cours d’un tel établissement, pour cette période d’études, s’il a les moyens financiers pour le faire. (*qualifying student*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***prêteur*** S’entend d’une institution financière au sens de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou autre personne morale qui est partie à un accord conclu avec le ministre en vertu de l’article 5.
+***prêteur*** S’entend d’une institution financière au sens de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou autre personne morale qui est partie à un accord conclu avec le ministre en vertu de l’article 5. (*lender*)
 
 **Autres définitions**
 
@@ -63,7 +63,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Documents et communications sous forme électronique**
 
 - **(4)** Dans la présente loi et les règlements, tout document ou autre forme de communication peut être établi sous forme électronique et la mention de tout document vise notamment sa version électronique.
-> 1994, ch. 28, art. 2; 2001, ch. 27, art. 219; 2003, ch. 15, art. 9; 2008, ch. 28, art. 101; 2011, ch. 24, art. 152
+> 1994, ch. 28, art. 2; 2001, ch. 27, art. 219; 2003, ch. 15, art. 9; 2008, ch. 28, art. 101; 2011, ch. 24, art. 152; 2017, ch. 20, art. 116
 
 
 
