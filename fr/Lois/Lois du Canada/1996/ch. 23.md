@@ -831,6 +831,25 @@ plus de 13 %
 
 
 
+**Présomption**
+
+**13.1** 
+
+- **(1)** Pour déterminer le délai de carence d’un prestataire, une semaine de chômage est réputée être une semaine de chômage pour laquelle une prestation devrait être versée, dans le cas où elle ne constituerait pas un délai de carence, si le montant de cette prestation, déduction faite de l’un ou l’autre des montants ci-après, était supérieur à 0 :
+	- **a)** le montant de la rémunération qui dépasse 50 $, si le taux de prestations hebdomadaires du prestataire est inférieur à 200 $;
+	- **b)** le montant de la rémunération qui dépasse 25 % du taux de prestations hebdomadaires du prestataire, si ce taux est égal ou supérieur à 200 $.
+
+**Références**
+
+- **(2)** Pour l’application du paragraphe (1) :
+	- **a)** le montant de la prestation est déterminé sans la déduction prévue au paragraphe 19(2);
+	- **b)** la rémunération est déterminée de la même manière que pour l’application du paragraphe 19(2).
+> 2018, ch. 12, art. 284.
+
+
+
+
+
 ### Taux de prestations
 
 
@@ -982,7 +1001,9 @@ plus de 13 %
 
 **Rémunération au cours de périodes de chômage**
 
-- **(2)** Sous réserve des paragraphes (3) et (4), si le prestataire reçoit une rémunération durant toute autre semaine de chômage, il est déduit des prestations qui lui sont payables un montant correspondant à la fraction de la rémunération reçue au cours de cette semaine qui dépasse 50 $, ou vingt-cinq pour cent de son taux de prestations hebdomadaires si celui-ci est de 200 $ ou plus.
+- **(2)** Sous réserve des paragraphes (3), (4), 21(3) et 22(5), si le prestataire reçoit une rémunération durant toute autre semaine de chômage, il est déduit des prestations qui doivent lui être payées un montant correspondant au total des sommes suivantes :
+	- **a)** 50 % de la rémunération jusqu’à concurrence de 90 % de la rémunération assurable hebdomadaire du prestataire;
+	- **b)** 100 % de la rémunération qui est supérieure à 90 % de la rémunération assurable hebdomadaire du prestataire.
 
 **Rémunération non déclarée**
 
@@ -995,6 +1016,8 @@ plus de 13 %
 **Rémunération dans le cadre d’une prestation d’emploi et allocation pour un cours ou programme**
 
 - **(4)** La rémunération qu’un prestataire reçoit pour un emploi dans le cadre d’une prestation d’emploi, de même que la rémunération ou l’allocation qu’il reçoit pour tout cours ou programme d’instruction ou de formation, ne sont déduites que conformément aux règlements.
+> 1996, ch. 23, art. 19; 2018, ch. 12, art. 285.
+
 
 
 
@@ -1028,8 +1051,8 @@ plus de 13 %
 
 **Déduction**
 
-- **(3)** Si le prestataire reçoit une rémunération pour une partie d’une semaine de chômage durant laquelle il est incapable de travailler par suite d’une maladie, d’une blessure ou d’une mise en quarantaine, le paragraphe 19(2) ne s’applique pas et, sous réserve du paragraphe 19(3), cette rémunération est déduite des prestations afférentes à cette semaine.
-> 1996, ch. 23, art. 21; 2012, ch. 27, art. 16.
+- **(3)** Sous réserve du paragraphe 19(3), lorsqu’une prestation doit être payée à un prestataire à l’égard d’une semaine de chômage par suite d’une maladie, d’une blessure ou d’une mise en quarantaine, il est déduit de cette prestation toute allocation, prestation ou autre somme qui doivent lui être payées à l’égard de cette semaine en vertu d’un régime couvrant des assurés exerçant un emploi au service d’un employeur pour lequel ce dernier a obtenu une réduction du taux de cotisation patronale aux termes d’un règlement pris en application du paragraphe 69(1).
+> 1996, ch. 23, art. 21; 2012, ch. 27, art. 16; 2018, ch. 12, art. 286.
 
 
 
@@ -1059,9 +1082,9 @@ plus de 13 %
 
 - **(4)** Pour l’application de l’article 13, l’article 18 ne s’applique pas à la semaine qui précède la période visée au paragraphe (2).
 
-**Rémunération à déduire**
+**Déduction**
 
-- **(5)** Si des prestations sont payables à une prestataire de la première catégorie en vertu du présent article et que celle-ci reçoit une rémunération pour une période tombant dans une semaine comprise dans la période visée au paragraphe (2), le paragraphe 19(2) ne s’applique pas et, sous réserve du paragraphe 19(3), cette rémunération est déduite des prestations afférentes à cette semaine.
+- **(5)** Sous réserve du paragraphe 19(3), lorsqu’une prestation doit, en vertu du présent article, être payée à une prestataire de la première catégorie à l’égard d’une semaine de chômage, il est déduit de cette prestation toute allocation, prestation ou autre somme qui doivent lui être payées à l’égard de cette semaine en vertu d’un régime couvrant des assurés exerçant un emploi au service d’un employeur pour lequel ce dernier a obtenu une réduction du taux de cotisation patronale aux termes d’un règlement pris en application du paragraphe 69(1).
 
 **Prolongation de la période**
 
@@ -1070,7 +1093,7 @@ plus de 13 %
 **Restriction**
 
 - **(7)** La période prolongée en vertu du paragraphe (6) ne peut excéder les cinquante-deux semaines qui suivent la semaine de l’accouchement.
-> 1996, ch. 23, art. 22; 2016, ch. 7, art. 214; 2017, ch. 20, art. 234.
+> 1996, ch. 23, art. 22; 2016, ch. 7, art. 214; 2017, ch. 20, art. 234; 2018, ch. 12, art. 287.
 
 
 
@@ -4472,12 +4495,12 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Déduction**
 
-- **(3)** Si des prestations doivent être payées à un travailleur indépendant en vertu du présent article et que celui-ci reçoit une rémunération pour une partie d’une semaine de chômage durant laquelle il est incapable de travailler à titre de travailleur indépendant par suite d’une maladie, d’une blessure ou d’une mise en quarantaine, le paragraphe 152.18(2) ne s’applique pas et, sous réserve du paragraphe 152.18(3), cette rémunération est déduite des prestations afférentes à cette semaine.
+- **(3)** Sous réserve du paragraphe 152.18(3), lorsqu’une prestation doit, en vertu du présent article, être payée à un travailleur indépendant à l’égard d’une semaine de chômage, il est déduit de cette prestation toute allocation, prestation ou autre somme qui doivent lui être payées à l’égard de cette semaine en vertu d’un régime couvrant des assurés exerçant un emploi au service d’un employeur pour lequel ce dernier a obtenu une réduction du taux de cotisation patronale aux termes d’un règlement pris en application du paragraphe 69(1).
 
 **Inadmissibilité**
 
 - **(4)** Le travailleur indépendant, autre que celui visé au paragraphe (1.1), n’est pas admissible au bénéfice des prestations au titre du paragraphe (1) si, n’était la maladie, la blessure ou la mise en quarantaine, il serait réputé, en conformité avec les règlements, ne pas travailler.
-> 2009, ch. 33, art. 16; 2012, ch. 27, art. 21; 2014, ch. 20, art. 248; 2017, ch. 20, art. 243.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 21; 2014, ch. 20, art. 248; 2017, ch. 20, art. 243; 2018, ch. 12, art. 288.
 
 
 
@@ -4507,9 +4530,9 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 - **(3.1)** Relativement à l’obligation de purger le délai de carence prévu à l’article 152.15, la semaine qui précède la période visée au paragraphe (2) est réputée être une semaine comprise dans cette période.
 
-**Rémunération à déduire**
+**Déduction**
 
-- **(4)** Si des prestations doivent être payées à une travailleuse indépendante en vertu du présent article et que celle-ci reçoit une rémunération pour une période tombant dans une semaine comprise dans la période visée au paragraphe (2), le paragraphe 152.18(2) ne s’applique pas et, sous réserve du paragraphe 152.18(3), cette rémunération est déduite des prestations afférentes à cette semaine.
+- **(4)** Sous réserve du paragraphe 152.18(3), lorsqu’une prestation doit, en vertu du présent article, être payée à une travailleuse indépendante à l’égard d’une semaine de chômage, il est déduit de cette prestation toute allocation, prestation ou autre somme qui doivent lui être payées à l’égard de cette semaine en vertu d’un régime couvrant des assurés exerçant un emploi au service d’un employeur pour lequel ce dernier a obtenu une réduction du taux de cotisation patronale aux termes d’un règlement pris en application du paragraphe 69(1).
 
 **Prolongation de la période**
 
@@ -4518,7 +4541,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Restriction**
 
 - **(6)** La période prolongée en vertu du paragraphe (5) ne peut excéder les cinquante-deux semaines qui suivent la semaine de l’accouchement.
-> 2009, ch. 33, art. 16; 2017, ch. 20, art. 244.
+> 2009, ch. 33, art. 16; 2017, ch. 20, art. 244; 2018, ch. 12, art. 289.
 
 
 
@@ -5106,6 +5129,25 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 
 
+**Présomption**
+
+**152.151** 
+
+- **(1)** Pour déterminer le délai de carence d’un travailleur indépendant, une semaine de chômage est réputée être une semaine de chômage pour laquelle une prestation devrait être versée, dans le cas où elle ne constituerait pas un délai de carence, si le montant de cette prestation, déduction faite de l’un ou l’autre des montants ci-après, était supérieur à 0 :
+	- **a)** le montant de la rémunération qui dépasse 50 $, si le taux de prestations hebdomadaires du travailleur indépendant est inférieur à 200 $;
+	- **b)** le montant de la rémunération qui dépasse 25 % du taux de prestations hebdomadaires du travailleur indépendant, si ce taux est égal ou supérieur à 200 $.
+
+**Références**
+
+- **(2)** Pour l’application du paragraphe (1) :
+	- **a)** le montant de la prestation est déterminé sans la déduction prévue au paragraphe 152.18(2);
+	- **b)** la rémunération est déterminée de la même manière que pour l’application du paragraphe 152.18(2).
+> 2018, ch. 12, art. 290.
+
+
+
+
+
 **Taux de prestations hebdomadaires**
 
 **152.16** 
@@ -5156,11 +5198,15 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 - **(1)** Si le travailleur indépendant reçoit une rémunération à l’égard d’une période comprise dans le délai de carence, une somme ne dépassant pas cette rémunération peut, ainsi qu’il est prévu par règlement, être déduite des prestations afférentes aux trois premières semaines pour lesquelles des prestations seraient sans cela versées.
 
-**Rémunération au cours de périodes de chômage**
+**Rémunération en périodes de chômage**
 
-- **(2)** Sous réserve du paragraphe (3), si le travailleur indépendant reçoit une rémunération durant toute autre semaine de chômage, il est déduit des prestations qui doivent lui être payées un montant correspondant à la fraction de la rémunération reçue au cours de cette semaine qui dépasse :
-	- **a)** 50 $, si son taux de prestations hebdomadaires est de moins de 200 $;
-	- **b)** vingt-cinq pour cent de son taux de prestations hebdomadaires, si celui-ci est de 200 $ ou plus.
+- **(2)** Sous réserve des paragraphes (3), 152.03(3) et 152.04(4), si le travailleur indépendant reçoit une rémunération durant toute autre semaine de chômage, il est déduit des prestations qui doivent lui être payées un montant correspondant au total des sommes suivantes :
+	- **a)** 50 % de la rémunération jusqu’à concurrence de 90 % du quotient obtenu par la division de la somme des montants visés aux alinéas 152.16(1)a) et b) par 52;
+	- **b)** 100 % de la rémunération qui est supérieure à 90 % du quotient obtenu par la division de la somme des montants visés aux alinéas 152.16(1)a) et b) par 52.
+
+**Limite**
+
+- **(2.1)** Pour l’application du paragraphe (2), il ne peut être tenu compte de la partie de la somme des montants visés aux alinéas 152.16(1)a) et b) qui dépasse le maximum de la rémunération annuelle assurable établi conformément à l’article 4.
 
 **Rémunération non déclarée**
 
@@ -5169,7 +5215,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 		- **(i)** à la rémunération non déclarée pour cette période, si elle estime qu’il a sciemment omis de déclarer tout ou partie de cette rémunération,
 		- **(ii)** dans tout autre cas, à celui obtenu par soustraction, du total de la rémunération non déclarée qu’il a reçue pour cette période, de la différence entre l’exemption à laquelle il a droit, pour cette période, au titre du paragraphe (2) et celle dont il a bénéficié;
 	- **b)** ce montant est déduit des prestations versées pour les semaines commençant par la première semaine à l’égard de laquelle la rémunération n’a pas été déclarée, de sorte que le montant de la déduction pour chaque semaine consécutive soit égal au montant des prestations versées au travailleur indépendant pour chacune de ces semaines.
-> 2009, ch. 33, art. 16.
+> 2009, ch. 33, art. 16; 2018, ch. 12, art. 291.
 
 
 
