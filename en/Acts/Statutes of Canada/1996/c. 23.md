@@ -853,6 +853,25 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 
 
+**Presumption**
+
+**13.1** 
+
+- **(1)** For the purpose of determining a claimant’s waiting period, a week of unemployment is deemed to be a week of unemployment for which benefits would otherwise be payable if — were the week not the waiting period — the amount of the benefits that would have been payable in that week after deducting the following would be greater than zero:
+	- **(a)** the amount of the earnings, if any, that is greater than $50, if the claimant’s rate of weekly benefits is less than $200; or
+	- **(b)** the amount of the earnings, if any, that is greater than 25% of the claimant’s rate of weekly benefits, if that rate is $200 or more.
+
+**References**
+
+- **(2)** For the purpose of subsection (1),
+	- **(a)** in determining the amount of the benefits that would have been payable, the deduction referred to in subsection 19(2) is to be excluded; and
+	- **(b)** a reference to earnings means earnings as determined for the purpose of subsection 19(2).
+> 2018, c. 12, s. 284.
+
+
+
+
+
 ### Rate of Benefits
 
 
@@ -1004,9 +1023,9 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Earnings in periods of unemployment**
 
-- **(2)** Subject to subsections (3) and (4), if the claimant has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount, if any, of the earnings that exceeds
-	- **(a)** $50, if the claimant’s rate of weekly benefits is less than $200; or
-	- **(b)** 25% of the claimant’s rate of weekly benefits, if that rate is $200 or more.
+- **(2)** Subject to subsections (3), (4), 21(3) and 22(5), if the claimant has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount equal to the total of
+	- **(a)** 50% of the earnings that are less than or equivalent to 90% of the claimant’s weekly insurable earnings, and
+	- **(b)** 100% of the earnings that are greater than 90% of the claimant’s weekly insurable earnings.
 
 **Undeclared earnings**
 
@@ -1023,6 +1042,8 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Earnings and allowances from employment benefits, courses and programs**
 
 - **(4)** Earnings from employment under employment benefits and earnings or allowances payable to a claimant for attending a course or program of instruction or training shall not be deducted under this section except in accordance with the regulations.
+> 1996, c. 23, s. 19; 2018, c. 12, s. 285.
+
 
 
 
@@ -1056,8 +1077,8 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Deduction**
 
-- **(3)** If earnings are received by a claimant for a period in a week of unemployment during which the claimant is incapable of work because of illness, injury or quarantine, subsection 19(2) does not apply and, subject to subsection 19(3), all those earnings shall be deducted from the benefits payable for that week.
-> 1996, c. 23, s. 21; 2012, c. 27, s. 16.
+- **(3)** Subject to subsection 19(3), if, as a result of illness, injury or quarantine, benefits are payable to a claimant for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the claimant for that week under a plan that covers insured persons employed by an employer and in respect of which the employer’s premium has been reduced in accordance with regulations made under subsection 69(1).
+> 1996, c. 23, s. 21; 2012, c. 27, s. 16; 2018, c. 12, s. 286.
 
 
 
@@ -1087,9 +1108,9 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 - **(4)** For the purposes of section 13, the provisions of section 18 do not apply to the week that immediately precedes the period described in subsection (2).
 
-**Earnings deducted**
+**Deduction**
 
-- **(5)** If benefits are payable under this section to a major attachment claimant who receives earnings for a period that falls in a week in the period described in subsection (2), the provisions of subsection 19(2) do not apply and, subject to subsection 19(3), all those earnings shall be deducted from the benefits paid for that week.
+- **(5)** Subject to subsection 19(3), if benefits are payable under this section to a major attachment claimant for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the claimant for that week under a plan that covers insured persons employed by an employer and in respect of which the employer’s premium has been reduced in accordance with regulations made under subsection 69(1).
 
 **Extension of period**
 
@@ -1098,7 +1119,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Limitation**
 
 - **(7)** The extended period shall end no later than 52 weeks after the week of confinement.
-> 1996, c. 23, s. 22; 2016, c. 7, s. 214; 2017, c. 20, s. 234.
+> 1996, c. 23, s. 22; 2016, c. 7, s. 214; 2017, c. 20, s. 234; 2018, c. 12, s. 287.
 
 
 
@@ -4603,12 +4624,12 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Deduction**
 
-- **(3)** If benefits are payable under this section to a self-employed person who receives earnings for a period in a week of unemployment during which the person is incapable of working as a self-employed person because of illness, injury or quarantine, subsection 152.18(2) does not apply and, subject to subsection 152.18(3), all those earnings shall be deducted from the benefits payable for that week.
+- **(3)** Subject to subsection 152.18(3), if benefits are payable under this section to a self-employed person for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the person for that week under a plan that covers insured persons employed by an employer and in respect of which the employer’s premium has been reduced in accordance with regulations made under subsection 69(1).
 
 **Disentitlement**
 
 - **(4)** A self-employed person, other than one referred to in subsection (1.1), is not entitled to benefits under subsection (1) if, were it not for the prescribed illness, injury or quarantine, the self-employed person would be deemed, in accordance with the regulations, to be not working.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 21; 2014, c. 20, s. 248; 2017, c. 20, s. 243.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 21; 2014, c. 20, s. 248; 2017, c. 20, s. 243; 2018, c. 12, s. 288.
 
 
 
@@ -4638,9 +4659,9 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 - **(3.1)** With regard to serving the waiting period under section 152.15, the week that immediately precedes the period described in subsection (2) is deemed to be a week that is included in that period.
 
-**Earnings deducted**
+**Deductions**
 
-- **(4)** If benefits are payable under this section to a self-employed person who receives earnings for a period that falls in a week in the period described in subsection (2), the provisions of subsection 152.18(2) do not apply and, subject to subsection 152.18(3), all those earnings shall be deducted from the benefits paid for that week.
+- **(4)** Subject to subsection 152.18(3), if benefits are payable under this section to a self-employed person for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the person for that week under a plan that covers insured persons employed by an employer and in respect of which the employer’s premium has been reduced in accordance with regulations made under subsection 69(1).
 
 **Extension of period**
 
@@ -4649,7 +4670,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Limitation**
 
 - **(6)** The extended period shall end no later than 52 weeks after the week of confinement.
-> 2009, c. 33, s. 16; 2017, c. 20, s. 244.
+> 2009, c. 33, s. 16; 2017, c. 20, s. 244; 2018, c. 12, s. 289.
 
 
 
@@ -5241,6 +5262,25 @@ and
 
 
 
+**Presumption**
+
+**152.151** 
+
+- **(1)** For the purpose of determining a self-employed person’s waiting period, a week of unemployment is deemed to be a week of unemployment for which benefits would otherwise be payable if — were the week not the waiting period — the amount of the benefits that would have been payable in that week after deducting the following would be greater than zero:
+	- **(a)** the amount of the earnings, if any, that is greater than $50, if the person’s rate of weekly benefits is less than $200; or
+	- **(b)** the amount of the earnings, if any, that is greater than 25% of the person’s rate of weekly benefits, if that rate is $200 or more.
+
+**References**
+
+- **(2)** For the purpose of subsection (1),
+	- **(a)** in determining the amount of the benefits that would have been payable, the deduction referred to in subsection 152.18(2) is to be excluded; and
+	- **(b)** a reference to earnings means earnings as determined for the purpose of subsection 152.18(2).
+> 2018, c. 12, s. 290.
+
+
+
+
+
 **Rate of weekly benefits**
 
 **152.16** 
@@ -5293,9 +5333,13 @@ and
 
 **Earnings in periods of unemployment**
 
-- **(2)** Subject to subsection (3), if the self-employed person has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount, if any, of the earnings that exceeds
-	- **(a)** $50, if their rate of weekly benefits is less than $200; or
-	- **(b)** 25% of their rate of weekly benefits, if that rate is $200 or more.
+- **(2)** Subject to subsections (3), 152.03(3) and 152.04(4), if the self-employed person has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount equal to the total of
+	- **(a)** 50% of the earnings that are less than or equal to 90% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) by 52, and
+	- **(b)** 100% of the earnings that are greater than 90% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) by 52.
+
+**Excess not to be included**
+
+- **(2.1)** Only the portion of the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) that does not exceed the maximum yearly insurable earnings as calculated under section 4 is to be taken into account for the purpose of subsection (2).
 
 **Undeclared earnings**
 
@@ -5308,7 +5352,7 @@ and
 	- **(b)** the deduction shall be made
 		- **(i)** from the benefits paid for a number of weeks that begins with the first week for which the earnings were not declared in that period, and
 		- **(ii)** in such a manner that the amount deducted in each consecutive week equals the person’s benefits paid for that week.
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2018, c. 12, s. 291.
 
 
 
