@@ -2421,9 +2421,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - ?Akisq’nuk First Nation
 - Algonquins of Pikwakanagan First Nation
 - Anishnaabeg of Naongashiing
+- Annapolis Valley First Nation
 - Atikameksheng Anishnawbek
 - Beardy’s and Okemasis
 - Bear River First Nation
+- Beausoleil First Nation
 - Beaver Lake Cree Nation
 - Beecher Bay
 - Behdzi Ahda″ First Nation
@@ -2439,6 +2441,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Chapleau Cree First Nation
 - Chawathil First Nation
 - Cheam
+- Cheslatta Carrier Nation
 - Chippewas of Georgina Island First Nation
 - Chippewas of Kettle and Stony Point First Nation
 - Chippewas of Rama First Nation
@@ -2454,6 +2457,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Doig River First Nation
 - Douglas
 - Driftpile Cree Nation
+- Eagle Lake First Nation
 - Ebb and Flow
 - Ehattesaht
 - Elsipogtog First Nation
@@ -2462,6 +2466,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Esquimalt Nation
 - Fisher River
 - Flying Dust First Nation
+- Fort McMurray #468 First Nation
 - Fort William
 - Gamblers
 - Garden Hill First Nation
@@ -2513,6 +2518,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Membertou First Nation
 - Metepenagiag Mi’kmaq Nation
 - Metlakatla First Nation
+- Miawpukek First Nation
 - Micmacs of Gesgapegiag
 - Millbrook Band
 - Misipawistik Cree Nation
@@ -2545,6 +2551,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Opaskwayak Cree Nation
 - Oromocto
 - Osoyoos Indian Band
+- Pacheedaht First Nation
 - Paqtnkek Mi’kmaw Nation
 - Pauingassi First Nation
 - Paul First Nation
@@ -2559,6 +2566,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Pine Creek
 - Popkum First Nation
 - Poplar River First Nation
+- Qalipu Mi’kmaq First Nation
 - Quatsino
 - Rainy River First Nations
 - Red Pheasant Cree Nation
@@ -2639,11 +2647,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Whitecap Dakota First Nation
 - Whitefish River First Nation
 - Williams Lake
+- Woodstock First Nation
 - Wunnumin
 - Wuskwi Sipihk First Nation
 - Xaxli’p
 - Yakweakwioose First Nation
+- Yale First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180.
 
 
