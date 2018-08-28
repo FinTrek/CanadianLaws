@@ -2418,9 +2418,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation ?Akisq’nuk
 - Première Nation Algonquins de Pikwakanagan
 - Anishnaabeg de Naongashiing
+- Première Nation de la vallée de l’Annapolis
 - Atikameksheng Anishnawbek
 - Beardy et Okemasis
 - Première Nation Bear River
+- Première Nation Beausoleil
 - Nation crie Beaver Lake
 - Beecher Bay
 - Première Nation Behdzi Ahda″
@@ -2432,6 +2434,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande Buctouche Micmac
 - Première Nation Buffalo Point
 - Bande indienne Campbell River
+- Nation des Carriers de Cheslatta
 - Bande indienne Cayoose Creek
 - Première Nation crie de Chapleau
 - Première nation Chawathil
@@ -2451,6 +2454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation de Doig River
 - Douglas
 - Nation crie Driftpile
+- Première Nation du lac Eagle
 - Ebb and Flow
 - Ehattesaht
 - Première nation Elsipogtog
@@ -2459,6 +2463,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation Esquimalt
 - Fisher River
 - Première Nation Flying Dust
+- Première Nation de Fort McMurray n<sup>o</sup> 468
 - Fort William
 - Gamblers
 - Première Nation Garden Hill
@@ -2509,6 +2514,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Membertou
 - Nation Metepenagiag Mi’kmaq
 - Première Nation Metlakatla
+- Première Nation Miawpukek
 - Micmacs de Gesgapegiag
 - Gouvernement des Micmacs de Listuguj
 - Bande Millbrook
@@ -2542,6 +2548,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation crie Opaskwayak
 - Oromocto
 - Bande indienne Osoyoos
+- Première Nation des Pacheedahts
 - Nation micmaque Paqtnkek
 - Première Nation Pauingassi
 - Première Nation Paul
@@ -2556,6 +2563,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Pine Creek
 - Première nation Popkum
 - Première Nation de Poplar River
+- Première Nation micmaque Qalipu
 - Quatsino
 - Premières Nations Rainy River
 - Nation crie Red Pheasant
@@ -2636,11 +2644,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Whitecap Dakota
 - Première Nation Whitefish River
 - Williams Lake
+- Première Nation de Woodstock
 - Wunnumin
 - Première Nation Wuskwi Sipihk
 - Xaxli’p
 - Première nation Yakweakwioose
+- Première Nation de Yale
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180.
 
 
