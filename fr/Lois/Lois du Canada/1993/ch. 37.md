@@ -82,21 +82,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Objet**
 
-**3** La présente loi a pour objet :
+**3** La présente loi a pour objet :
 - **a)** d’autoriser le ministre à fournir aux différents organismes chargés de l’application de la loi des services consultatifs et autres concernant la saisie ou le blocage de biens relativement à des infractions désignées, ou de biens qui sont ou pourraient être des biens infractionnels ou des produits de la criminalité;
-- **b)
-** d’attribuer au ministre l’administration de biens :
+- **b)** d’attribuer au ministre l’administration de biens :
 	- **(i)** saisis relativement à des infractions désignées,
-	- **(ii)** saisis en vertu d’un mandat délivré sous le régime des articles 83.13 ou 462.32 du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
-	- **(iii)** bloqués en vertu d’une ordonnance rendue sous le régime des articles 83.13, 462.33 ou 490.8 du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 14 de la 
-[Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md),
-	- **(iv)** confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la 
-[Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
+	- **(ii)** saisis en vertu d’un mandat délivré sous le régime des articles 83.13 ou 462.32 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+	- **(iii)** bloqués en vertu d’une ordonnance rendue sous le régime des articles 83.13, 462.33 ou 490.8 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 14 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md),
+	- **(iv)** confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md),
+	- **(v)** remis au titre du sous-alinéa 715.34(1)e)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **c)** de permettre au ministre, après confiscation au profit de Sa Majesté, d’administrer et d’aliéner les biens visés à l’alinéa b), les biens infractionnels et les produits de la criminalité;
 - **d)** de prévoir le partage, dans certains cas, du produit de l’aliénation des biens visés à l’alinéa c) ou des amendes perçues en application du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) avec les autorités dont les organismes chargés de l’application de la loi ont participé à l’enquête qui a mené à la confiscation des biens ou à la condamnation aux amendes.
-> 1993, ch. 37, art. 3; 1996, ch. 19, art. 86; 2000, ch. 17, art. 92; 2001, ch. 32, art. 74, ch. 41, art. 83, 106 et 135.
+> 1993, ch. 37, art. 3; 1996, ch. 19, art. 86; 2000, ch. 17, art. 92; 2001, ch. 32, art. 74, ch. 41, art. 83, 106 et 135; 2018, ch. 12, art. 407.
 
 
 
@@ -110,10 +106,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Lorsqu’il en prend possession ou qu’il en prend la charge, le ministre devient responsable de la garde et de l’administration des biens suivants :
+- **(1)** Lorsqu’il en prend possession ou qu’il en prend la charge, le ministre devient responsable de la garde et de l’administration des biens suivants :
 	- **a)** les biens saisis en vertu d’un mandat délivré à la demande du procureur général sous le régime des articles 83.13, 462.32 ou 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 11 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 15.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
 	- **b)** les biens bloqués en vertu d’une ordonnance rendue à la demande du procureur général sous le régime des articles 83.13, 462.33 ou 490.8 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 14 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et confiés à l’administration du ministre en application, respectivement, des paragraphes 83.13(3), 462.331(2) ou 490.81(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 15.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
 	- **b.1)** les biens confisqués, saisis ou payés respectivement aux termes des paragraphes 14(5) ou 18(1) ou (2) de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
+	- **b.2)** les biens remis au titre du sous-alinéa 715.34(1)e)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **c)** les biens visés par une ordonnance de prise en charge.
 
 **Maintien de la responsabilité**
@@ -126,8 +123,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application d’autres lois**
 
-- **(4)** Le présent article n’a pas pour effet de porter atteinte aux dispositions du* Code criminel*, de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de toute autre loi fédérale concernant les biens dont le ministre a la possession ou la charge.
-> 1993, ch. 37, art. 4; 1996, ch. 19, art. 87; 1997, ch. 18, art. 135(F); 2000, ch. 17, art. 93; 2001, ch. 32, art. 75, ch. 41, art. 84, 107 et 135; 2017, ch. 7, art. 70.
+- **(4)** Le présent article n’a pas pour effet de porter atteinte aux dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou de toute autre loi fédérale concernant les biens dont le ministre a la possession ou la charge.
+> 1993, ch. 37, art. 4; 1996, ch. 19, art. 87; 1997, ch. 18, art. 135(F); 2000, ch. 17, art. 93; 2001, ch. 32, art. 75, ch. 41, art. 84, 107 et 135; 2017, ch. 7, art. 70; 2018, ch. 12, art. 408.
 
 
 
