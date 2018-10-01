@@ -1325,7 +1325,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndE2A7_hq_21287'>[*]</a></sup>**(1)** Sections 230, 232 to 236, 239, 252, 253 and 255 to 258 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndE2A7_hq_21287'><sup>*</sup></a>: [Note: Sections 230, 232 to 236, 239, 252, 253 and 255 to 258 not in force.]<br />
+<a name='fn_IndE2A7_hq_21287'><sup>*</sup></a>: [Note: Sections 230, 232 to 236, 239, 252, 253 and 255 to 258 in force October 1, 2018, *see* SI/2018-83.]<br />
 
 **Order in council**
 
