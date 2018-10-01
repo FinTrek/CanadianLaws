@@ -116,7 +116,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Absence or inability**
 
-- **(2)** The senior judge, within the meaning of subsection 22(3) of the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md), of the Supreme Court of Yukon may act as Administrator during the Administrator’s absence or illness or other inability or when that office is vacant.
+- **(2)** The Chief Justice of the Supreme Court of Yukon may act as Administrator during the Administrator’s absence or illness or other inability or when that office is vacant.
+> 2002, c. 7, s. 5; 2017, c. 33, s. 257.
+
 
 
 
