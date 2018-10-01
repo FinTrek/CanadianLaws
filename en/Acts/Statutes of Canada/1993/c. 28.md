@@ -136,8 +136,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Absence or incapacity**
 
-**10** If both the Commissioner and the Deputy Commissioner are absent, ill or unable to act or both those offices are vacant, the senior judge, within the meaning of subsection 22(3) of the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md), of the Nunavut Court of Justice has and may exercise and perform all of the powers, duties and functions of the Commissioner.
-> 1993, c. 28, s. 10; 1999, c. 3, s. 1.
+**10** If both the Commissioner and the Deputy Commissioner are absent, ill or unable to act or both those offices are vacant, the Chief Justice of the Nunavut Court of Justice has and may exercise and perform all of the powers, duties and functions of the Commissioner.
+> 1993, c. 28, s. 10; 1999, c. 3, s. 1; 2017, c. 33, s. 256.
 
 
 
