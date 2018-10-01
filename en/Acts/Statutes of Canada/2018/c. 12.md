@@ -1550,7 +1550,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind2E93_hq_22328'>[*]</a></sup>**267** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2E93_hq_22328'><sup>*</sup></a>: [Note: Division 12 not in force.]<br />
+<a name='fn_Ind2E93_hq_22328'><sup>*</sup></a>: [Note: Division 12 in force October 1, 2018, *see* SI/2018-84.]<br />
 
 
 
