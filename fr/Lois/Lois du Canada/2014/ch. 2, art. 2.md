@@ -138,7 +138,9 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 
 **Intérim**
 
-- **(2)** En cas d’absence ou d’empêchement du commissaire adjoint ou de vacance de son poste, l’intérim est assuré par le juge principal — au sens du paragraphe 22(3) de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md) — de la Cour suprême des Territoires du Nord-Ouest.
+- **(2)** En cas d’absence ou d’empêchement du commissaire adjoint ou de vacance de son poste, l’intérim est assuré par le juge en chef de la Cour suprême des Territoires du Nord-Ouest.
+> 2014, ch. 2, art. 2 « 5 »; 2017, ch. 33, art. 258.
+
 
 
 
