@@ -1550,7 +1550,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndF15_hq_22344'>[*]</a></sup>**267** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndF15_hq_22344'><sup>*</sup></a>: [Note : Section 12 non en vigueur.]<br />
+<a name='fn_IndF15_hq_22344'><sup>*</sup></a>: [Note : Section 12 en vigueur le 1<sup>er</sup> octobre 2018, *voir* TR/2018-84.]<br />
 
 
 
