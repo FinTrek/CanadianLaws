@@ -113,7 +113,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Intérim**
 
-- **(2)** En cas d’absence ou d’empêchement de l’administrateur ou de vacance de son poste, l’intérim est assuré par le juge principal — au sens du paragraphe 22(3) de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md) — de la Cour suprême du Yukon.
+- **(2)** En cas d’absence ou d’empêchement de l’administrateur ou de vacance de son poste, l’intérim est assuré par le juge en chef de la Cour suprême du Yukon.
+> 2002, ch. 7, art. 5; 2017, ch. 33, art. 257.
+
 
 
 
