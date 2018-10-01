@@ -147,7 +147,9 @@ It does not include lands that lie seaward of the line of delimitation, other th
 
 **Absence, inability or vacancy**
 
-- **(2)** The senior judge, within the meaning of subsection 22(3) of the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md), of the Supreme Court of the Northwest Territories is authorized to act as Deputy Commissioner during the Deputy Commissioner’s absence or inability or when that office is vacant.
+- **(2)** The Chief Justice of the Supreme Court of the Northwest Territories is authorized to act as Deputy Commissioner during the Deputy Commissioner’s absence or inability or when that office is vacant.
+> 2014, c. 2, s. 2 “5”; 2017, c. 33, s. 258.
+
 
 
 
