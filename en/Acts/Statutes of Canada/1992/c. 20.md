@@ -5159,12 +5159,21 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(a)** section 5 (trafficking);
 - **(b)** section 6 (importing and exporting);
 - **(c)** section 7 (production).
-- **(d)** and (e) [Repealed, 2001, c. 32, s. 57]
+- **(d) and (e)** [Repealed, 2001, c. 32, s. 57]
 
 
-**4** The offence of conspiring, as provided by paragraph 465(1)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), to commit any of the offences referred to in items 1 to 3 of this schedule.
+**4** An offence under any of the following provisions of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) that was prosecuted by way of indictment:
+- **(a)** section 9 (distribution and possession for purpose of distributing);
+- **(b)** section 10 (selling and possession for purpose of selling);
+- **(c)** section 11 (importing and exporting and possession for purpose of exporting);
+- **(d)** section 12 (production);
+- **(e)** section 13 (possession, etc., for use in production or distribution of illicit cannabis); and
+- **(f)** section 14 (use of young person).
 
 
-> 1992, c. 20, Sch. II; 1995, c. 42, s. 68; 1996, c. 19, s. 64; 2001, c. 32, s. 57; 2011, c. 11, s. 9
+**5** The offence of conspiring, as provided by paragraph 465(1)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), to commit any of the offences referred to in items 1 to 4 of this schedule that was prosecuted by way of indictment.
+
+
+> 1992, c. 20, Sch. II; 1995, c. 42, s. 68; 1996, c. 19, s. 64; 2001, c. 32, s. 57; 2011, c. 11, s. 9; 2018, c. 16, s. 172
 
 
