@@ -1399,7 +1399,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **14** Cross-bows within the meaning of subsection 84(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 
-**15** Prohibited devices within the meaning of paragraphs (a) to (d) of the definition ***prohibited device*** in subsection 84(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+**15** Prohibited devices within the meaning of paragraphs (a) to (d) of the definition prohibited device in subsection 84(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 
 **16** Plants within the meaning of section 3 of the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), except for Jequirity beans (*abrus precatorius*).
@@ -1417,7 +1417,10 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **20** Animals within the meaning of subsection 2(1) of the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md).
 
 
-> 2010, c. 21, Sch. 1; 2018, c. 9, s. 76.
+**21** Cannabis as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md).
+
+
+> 2010, c. 21, Sch. 1; 2018, c. 9, s. 76, c. 16, s. 186.
 
 
 
