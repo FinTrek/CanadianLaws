@@ -1378,7 +1378,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **20** Animal au sens du paragraphe 2(1) de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md).
 
 
-> 2010, ch. 21, ann. 1; 2018, ch. 9, art. 76.
+**21** Cannabis au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md).
+
+
+> 2010, ch. 21, ann. 1; 2018, ch. 9, art. 76, ch. 16, art. 186.
 
 
 
