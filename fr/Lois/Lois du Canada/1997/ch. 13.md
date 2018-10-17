@@ -39,7 +39,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accessoire*** Produit qui peut être utilisé pour la consommation d’un produit du tabac, notamment une pipe, un fume-cigarette, un coupe-cigare, des allumettes ou un briquet. La présente définition vise également la pipe à eau. (*accessory*)
+***accessoire*** Produit qui peut être utilisé pour la consommation d’un produit du tabac, notamment une pipe, un fume-cigarette, un coupe-cigare, des allumettes ou un briquet. La présente définition vise également la pipe à eau, mais ne vise pas les accessoires au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*accessory*)
 
 ***additif*** S’entend, à l’égard d’un produit du tabac, d’un ingrédient autre que les feuilles de tabac. (*additive*)
 
@@ -85,14 +85,14 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 - **c)** des pièces pouvant être utilisées avec ces dispositifs;
 - **d)** de la substance ou du mélange de substances — contenant ou non de la nicotine — destiné à être utilisé avec ces dispositifs pour produire des émissions.
 
-Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou mélanges de substances exclus par règlement et les produits du tabac et leurs accessoires. (*vaping product*)
+Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou mélanges de substances exclus par règlement, le cannabis, au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), les accessoires, au sens de ce paragraphe, et les produits du tabac et leurs accessoires. (*vaping product*)
 
 ***produit du tabac*** Produit fait entièrement ou partiellement de tabac, y compris des feuilles; y sont assimilés les tubes, papiers et filtres destinés à être utilisés avec ce produit, les dispositifs, exception faite des pipes à eau, nécessaires à l’utilisation de ce produit et les pièces pouvant être utilisées avec ces dispositifs. (*tobacco product*)
 
 ***publicité de style de vie*** Publicité qui associe un produit à une façon de vivre — telle une façon de vivre intégrant notamment du prestige, des loisirs, de l’enthousiasme, de la vitalité, du risque ou de l’audace — ou qui évoque une émotion ou une image, positive ou négative, à l’égard d’une façon de vivre. (*lifestyle advertising*)
 
 ***vendre*** Vise notamment le fait de vendre en vue de l’exportation. Est assimilé à l’acte de vendre le fait de mettre en vente ou d’exposer pour la vente. (*sell*)
-> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2; 2018, ch. 9, art. 3.
+> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2; 2018, ch. 9, art. 3 et 79.1.
 
 
 
