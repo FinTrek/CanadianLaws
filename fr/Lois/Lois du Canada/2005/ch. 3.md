@@ -113,8 +113,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Les dispositions de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), des parties II.1 et XII.2 et des articles 487 à 490.01 et 490.1 à 490.9 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), de la [Loi sur les mesures économiques spéciales](/fr/Lois/Lois%20du%20Canada/1992/ch.%2017.md) et de la [Loi sur les Nations Unies](/fr/Lois/Lois%20révisées%20du%20Canada/U/U-2.md), ainsi que de leurs règlements d’application, l’emportent sur toute disposition incompatible de la présente loi ou des règlements ainsi que sur toute disposition incompatible de la Convention ou du Protocole aéronautique à laquelle l’article 4 donne force de loi.
-> 2005, ch. 3, art. 6; 2012, ch. 31, art. 412.
+- **(2)** Les dispositions de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), des parties II.1 et XII.2 et des articles 487 à 490.01 et 490.1 à 490.9 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), de la [Loi sur les mesures économiques spéciales](/fr/Lois/Lois%20du%20Canada/1992/ch.%2017.md) et de la [Loi sur les Nations Unies](/fr/Lois/Lois%20révisées%20du%20Canada/U/U-2.md), ainsi que de leurs règlements d’application, l’emportent sur toute disposition incompatible de la présente loi ou des règlements ainsi que sur toute disposition incompatible de la Convention ou du Protocole aéronautique à laquelle l’article 4 donne force de loi.
+> 2005, ch. 3, art. 6; 2012, ch. 31, art. 412; 2018, ch. 16, art. 185.
 
 
 
