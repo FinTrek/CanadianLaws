@@ -323,13 +323,13 @@
 - **(4)** Une fois homologuée :
 	- **a)** l’ordonnance de saisie de produits de la criminalité est exécutée comme si elle était un mandat délivré en vertu du paragraphe 462.32(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** l’ordonnance de blocage de produits de la criminalité est exécutée comme si elle était rendue en vertu du paragraphe 462.33(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-	- **c)** l’ordonnance de saisie de biens infractionnels est exécutée comme si elle était un mandat délivré en vertu du paragraphe 487(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 11(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
-	- **d)** l’ordonnance de blocage de biens infractionnels est exécutée comme si elle était rendue en vertu du paragraphe 490.8(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 14(3) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), selon le cas.
+	- **c)** l’ordonnance de saisie de biens infractionnels est exécutée comme si elle était un mandat délivré en vertu du paragraphe 487(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 11(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou du paragraphe 87(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), selon le cas;
+	- **d)** l’ordonnance de blocage de biens infractionnels est exécutée comme si elle était rendue en vertu du paragraphe 490.8(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 14(3) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou du paragraphe 91(3) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), selon le cas.
 
 **Dépôt des modifications**
 
 - **(5)** Lorsqu’une ordonnance est homologuée sur dépôt en vertu du paragraphe (2), ses modifications le sont de la même façon. Pour l’application de la présente loi, ces modifications n’ont d’effet qu’après leur homologation.
-> 2001, ch. 32, art. 65.
+> 2001, ch. 32, art. 65; 2018, ch. 16, art. 171.
 
 
 
@@ -343,7 +343,7 @@
 
 **Motifs de refus de la demande**
 
-- **(2)** Le ministre refuse la demande dans les cas suivants :
+- **(2)** Le ministre refuse la demande dans les cas suivants :
 	- **a)** il a des motifs raisonnables de croire que la demande est présentée dans le but de poursuivre ou de punir l’intéressé pour des motifs fondés sur la race, la nationalité, l’origine ethnique, la langue, la couleur, la religion, les convictions politiques, le sexe, l’orientation sexuelle, l’âge, le handicap physique ou mental ou les convictions politiques de l’intéressé;
 	- **b)** il estime que l’exécution de l’ordonnance nuirait au déroulement d’une procédure ou d’une enquête en cours;
 	- **c)** il estime que l’exécution de l’ordonnance entraînerait la mobilisation de ressources excessives par les autorités fédérales, provinciales ou territoriales;
@@ -360,16 +360,16 @@
 
 **Exigence**
 
-- **(5)** Avant d’homologuer sur dépôt une ordonnance, le procureur général du Canada ou d’une province doit être convaincu que :
+- **(5)** Avant d’homologuer sur dépôt une ordonnance, le procureur général du Canada ou d’une province doit être convaincu que :
 	- **a)** la personne a été accusée d’une infraction relevant de la compétence de l’État ou de l’entité;
 	- **b)** l’infraction serait un acte criminel si elle avait été commise au Canada;
 	- **c)** la condamnation et l’ordonnance ne sont plus susceptibles d’appel.
 
 **Effet de l’homologation**
 
-- **(6)** À compter de son dépôt aux termes du paragraphe (3) et sous réserve du paragraphe (4) :
+- **(6)** À compter de son dépôt aux termes du paragraphe (3) et sous réserve du paragraphe (4) :
 	- **a)** l’ordonnance de confiscation de produits de la criminalité est exécutée comme si elle était une ordonnance rendue en vertu des paragraphes 462.37(1) ou 462.38(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-	- **b)** l’ordonnance de confiscation de biens infractionnels est exécutée comme si elle était rendue en vertu des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), selon le cas.
+	- **b)** l’ordonnance de confiscation de biens infractionnels est exécutée comme si elle était rendue en vertu des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou des paragraphes 94(1) ou 95(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), selon le cas.
 
 **Dépôt des modifications**
 
@@ -377,15 +377,15 @@
 
 **Avis**
 
-- **(8)** Lorsqu’une ordonnance est homologuée sur dépôt en vertu du paragraphe (3) :
+- **(8)** Lorsqu’une ordonnance est homologuée sur dépôt en vertu du paragraphe (3) :
 	- **a)** l’ordonnance de confiscation de produits de la criminalité ne peut être exécutée que si un avis a été donné conformément au paragraphe 462.41(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à toute personne qui, de l’avis du tribunal, semble avoir un droit sur les biens visés;
-	- **b)** l’ordonnance de confiscation de biens infractionnels ne peut être exécutée que si, à la fois :
-		- **(i)** un avis a été donné conformément au paragraphe 490.41(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou au paragraphe 19.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) à toute personne qui habite une maison d’habitation — étant un bien infractionnel — et qui est membre de la famille immédiate de la personne accusée ou reconnue coupable de l’infraction liée à la confiscation éventuelle d’un bien,
-		- **(ii)** un avis a été donné conformément au paragraphe 490.4(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou au paragraphe 19(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) à toute personne qui, selon le tribunal, semble avoir un droit sur les biens visés.
+	- **b)** l’ordonnance de confiscation de biens infractionnels ne peut être exécutée que si, à la fois :
+		- **(i)** un avis a été donné conformément au paragraphe 490.41(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 19.1(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou au paragraphe 98(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) à toute personne qui habite une maison d’habitation — étant un bien infractionnel — et qui est membre de la famille immédiate de la personne accusée de l’infraction liée à la confiscation éventuelle d’un bien ou condamnée pour cette infraction,
+		- **(ii)** un avis a été donné conformément au paragraphe 490.4(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 19(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou au paragraphe 97(2) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) à toute personne qui, selon le tribunal, semble avoir un droit sur les biens visés.
 
 **Application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
-- **(9)** Le paragraphe 462.41(3) et l’article 462.42 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, à la personne qui prétend avoir un droit sur des produits de la criminalité, et les paragraphes 490.4(3) et 490.41(3) et l’article 490.5 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et les paragraphes 19(3) et 20(4) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) s’appliquent, avec les adaptations nécessaires, à la personne qui prétend avoir un droit sur des biens infractionnels.
+- **(9)** Le paragraphe 462.41(3) et l’article 462.42 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, à la personne qui prétend avoir un droit sur des produits de la criminalité, et les paragraphes 490.4(3) et 490.41(3) et l’article 490.5 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), les paragraphes 19(3) et 20(4) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et les paragraphes 97(3) et 99(4) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) s’appliquent, avec les adaptations nécessaires, à la personne qui prétend avoir un droit sur des biens infractionnels.
 
 **Présomption**
 
@@ -394,7 +394,7 @@
 **[Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md)**
 
 - **(11)** La [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md) s’applique aux biens confisqués au titre du présent article.
-> 2001, ch. 32, art. 65.
+> 2001, ch. 32, art. 65; 2018, ch. 16, art. 171.
 
 
 
