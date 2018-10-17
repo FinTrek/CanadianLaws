@@ -37,44 +37,44 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Attorney General*** means the Attorney General of Canada and the lawful deputy of the Attorney General of Canada;
+***Attorney General*** means the Attorney General of Canada and the lawful deputy of the Attorney General of Canada; (*procureur général*)
 
 ***designated drug offence***[Repealed, 1996, c. 19, s. 85]
 
-***designated offence*** has the same meaning as in subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***designated offence*** has the same meaning as in subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*infraction désignée*)
 
 ***designated substance offence***[Repealed, 2001, c. 32, s. 73]
 
 ***enterprise crime offence***[Repealed, 2001, c. 32, s. 73]
 
-***Her Majesty***, in relation to property forfeited to Her Majesty, means Her Majesty in right of Canada;
+***Her Majesty***, in relation to property forfeited to Her Majesty, means Her Majesty in right of Canada; (*Sa Majesté*)
 
-***judge*** means a judge within the meaning of section 552 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***judge*** means a judge within the meaning of section 552 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*juge*)
 
-***justice*** means a justice within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***justice*** means a justice within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*juge de paix*)
 
-***management order*** means an order made under subsection 7(1);
+***management order*** means an order made under subsection 7(1); (*ordonnance de prise en charge*)
 
-***Minister*** means the Minister of Public Works and Government Services;
+***Minister*** means the Minister of Public Works and Government Services; (*ministre*)
 
-***offence-related property*** has the meaning given that expression by subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+***offence-related property*** has the meaning given that expression by subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or by subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); (*biens infractionnels*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations;
+***prescribed*** means prescribed by the regulations; (***Version anglaise seulement***)
 
-***Proceeds Account*** means the Seized Property Proceeds Account established by subsection 13(1);
+***Proceeds Account*** means the Seized Property Proceeds Account established by subsection 13(1); (*compte des biens saisis*)
 
-***proceeds of crime*** has the same meaning as in subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***proceeds of crime*** has the same meaning as in subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*produits de la criminalité*)
 
-***proceeds of disposition*** means, in the case of forfeited property other than money, the proceeds of sale on the disposition of the property, and in the case of forfeited property that is money, the amount of the forfeited money;
+***proceeds of disposition*** means, in the case of forfeited property other than money, the proceeds of sale on the disposition of the property, and in the case of forfeited property that is money, the amount of the forfeited money; (*produit de l’aliénation*)
 
-***restrained property*** means any property that is the subject of a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+***restrained property*** means any property that is the subject of a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or section 91 of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); (*biens bloqués*)
 
-***seized property*** means any property seized under the authority of any Act of Parliament or pursuant to any warrant or any rule of law in connection with any designated offence;
+***seized property*** means any property seized under the authority of any Act of Parliament or pursuant to any warrant or any rule of law in connection with any designated offence; (*biens saisis*)
 
-***terrorism offence*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***terrorism offence*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*infraction de terrorisme*)
 
-***Working Capital Account*** means the Seized Property Working Capital Account established by subsection 12(1).
-> 1993, c. 37, s. 2; 1996, c. 16, s. 60, c. 19, s. 85; 1997, c. 23, s. 22; 2001, c. 32, s. 73, c. 41, ss. 105, 135.
+***Working Capital Account*** means the Seized Property Working Capital Account established by subsection 12(1). (*fonds de roulement*)
+> 1993, c. 37, s. 2; 1996, c. 16, s. 60, c. 19, s. 85; 1997, c. 23, s. 22; 2001, c. 32, s. 73, c. 41, ss. 105, 135; 2018, c. 16, s. 173.
 
 
 
@@ -91,12 +91,12 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 - **(b)** to authorize the Minister to manage certain property
 	- **(i)** seized in connection with designated offences,
 	- **(ii)** seized pursuant to a warrant issued under section 83.13 or 462.32 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
-	- **(iii)** restrained pursuant to a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md),
+	- **(iii)** restrained under a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or section 91 of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), or
 	- **(iv)** forfeited under subsection 14(5), seized under subsection 18(1) or paid under subsection 18(2) of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), or
 	- **(v)** forfeited under subparagraph 715.34(1)(e)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 - **(c)** to authorize the Minister to manage and dispose of property referred to in paragraph (b), and property that is proceeds of crime or offence-related property, when such property is forfeited to Her Majesty; and
 - **(d)** where property referred to in paragraph (c) is forfeited to Her Majesty and disposed of, or where a fine is imposed pursuant to subsection 462.37(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), to provide authority for the sharing, in certain circumstances, of the proceeds of disposition therefrom or the fine, as the case may be, with jurisdictions the law enforcement agencies of which participated in the investigations of the offences that led to the forfeiture or the imposition of the fine.
-> 1993, c. 37, s. 3; 1996, c. 19, s. 86; 2000, c. 17, s. 92; 2001, c. 32, s. 74, c. 41, ss. 83, 106, 135; 2018, c. 12, s. 407.
+> 1993, c. 37, s. 3; 1996, c. 19, s. 86; 2000, c. 17, s. 92; 2001, c. 32, s. 74, c. 41, ss. 83, 106, 135; 2018, c. 12, s. 407, c. 16, s. 174.
 
 
 
@@ -111,8 +111,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **4** 
 
 - **(1)** On taking possession or control thereof, the Minister shall be responsible for the custody and management of all property that is
-	- **(a)** seized under a warrant issued under section 83.13, 462.32 or 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 11 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 15.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be;
-	- **(b)** subject to a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 15.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be;
+	- **(a)** seized under a warrant issued under section 83.13, 462.32 or 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), section 11 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or section 87 of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 15.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 93(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as the case may be;
+	- **(b)** subject to a restraint order made under section 83.13, 462.33 or 490.8 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), section 14 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or section 91 of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 15.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 93(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as the case may be;
 	- **(b.1)** forfeited under subsection 14(5), seized under subsection 18(1) or paid under subsection 18(2) of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
 	- **(b.2)** forfeited under subparagraph 715.34(1)(e)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); or
 	- **(c)** subject to a management order.
@@ -127,8 +127,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Application of other Acts**
 
-- **(4)** Nothing in this section precludes the operation of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or any other Act of Parliament in respect of any property that is in the possession or under the control of the Minister.
-> 1993, c. 37, s. 4; 1996, c. 19, s. 87; 1997, c. 18, s. 135(F); 2000, c. 17, s. 93; 2001, c. 32, s. 75, c. 41, ss. 84, 107, 135; 2017, c. 7, s. 70; 2018, c. 12, s. 408.
+- **(4)** Nothing in this section precludes the operation of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) or any other Act of Parliament in respect of any property that is in the possession or under the control of the Minister.
+> 1993, c. 37, s. 4; 1996, c. 19, s. 87; 1997, c. 18, s. 135(F); 2000, c. 17, s. 93; 2001, c. 32, s. 75, c. 41, ss. 84, 107, 135; 2017, c. 7, s. 70; 2018, c. 12, s. 408, c. 16, ss. 175, 191.
 
 
 
@@ -138,14 +138,14 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **5** 
 
-- **(1)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2), 462.331(1) or 490.81(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 15.1(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 7(1) of this Act shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property or any part of the property that is needed as evidence or is necessary for the purposes of an investigation.
+- **(1)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2), 462.331(1) or 490.81(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 15.1(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), subsection 93(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) or subsection 7(1) of this Act shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property or any part of the property that is needed as evidence or is necessary for the purposes of an investigation.
 
 **Minister to report location**
 
 - **(2)** Where the Minister takes control of property pursuant to subsection (1) and detains the property in a location other than the location referred to in the report required to be filed pursuant to paragraph 462.32(4)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the Minister shall prepare a report in the prescribed form identifying the location of the property and cause the report to be filed in the prescribed manner with the clerk of the court that issued the warrant.
 
 - **(3)** [Repealed, 2015, c. 3, s. 152]
-> 1993, c. 37, s. 5; 2001, c. 32, s. 76, c. 41, ss. 108, 135; 2015, c. 3, s. 152; 2017, c. 7, s. 71.
+> 1993, c. 37, s. 5; 2001, c. 32, s. 76, c. 41, ss. 108, 135; 2015, c. 3, s. 152; 2017, c. 7, s. 71; 2018, c. 16, ss. 176, 191.
 
 
 
@@ -159,12 +159,12 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **6** 
 
-- **(1)** The Attorney General, or any other person with the written consent of the Attorney General, may apply to any judge or justice for a management order in respect of any seized property, other than a controlled substance within the meaning of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md).
+- **(1)** The Attorney General, or any other person with the written consent of the Attorney General, may apply to any judge or justice for a management order in respect of any seized property, other than a controlled substance as defined in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or cannabis as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md).
 
 **Order under section 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
 - **(2)** An application for a management order in respect of any seized property may be heard at the same time as an order is sought under paragraph 490(1)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in respect of the seized property.
-> 1993, c. 37, s. 6; 1996, c. 19, s. 88.
+> 1993, c. 37, s. 6; 1996, c. 19, s. 88; 2018, c. 16, s. 177.
 
 
 
@@ -242,21 +242,17 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **9** In carrying out the purposes of this Act, the Minister may
 - **(a)** provide consultative and other services to law enforcement agencies in relation to the seizure or restraint of any property in connection with designated offences, or any property that is or may be proceeds of crime or offence-related property;
-- **(b)** subject to the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) and any other Act of Parliament, manage any property referred to in any of subsections 4(1) to (3) in such manner as the Minister considers appropriate including, without restricting the generality of the foregoing, by advancing money at a commercial rate of interest to
+- **(b)** subject to the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) and any other Act of Parliament, manage any property referred to in any of subsections 4(1) to (3) in the manner that the Minister considers appropriate including, without restricting the generality of the foregoing, by advancing money at a commercial rate of interest to
 	- **(i)** maintain the ongoing operation of the property,
 	- **(ii)** satisfy the terms of any order concerning environmental, industrial, labour or property standards to which the property is subject, or
 	- **(iii)** make improvements to the property to preserve the property and its economic worth;
 - **(c)** notwithstanding any other Act of Parliament, but subject to the regulations and to the provisions of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) relating to public money, dispose of any property referred to in any of subsections 4(1) to (3) that is forfeited to Her Majesty;
 - **(d)** notwithstanding subsection 734.4(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and sections 125 and 126 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), where property referred to in any of subsections 4(1) to (3) is forfeited to Her Majesty, share the proceeds of disposition therefrom in accordance with this Act, the regulations and any agreement entered into pursuant to section 11;
-- **(e)** notwithstanding subsection 734.4(2) of the 
-*Criminal Code* and sections 125 and 126 of the 
-[Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), if a fine, or any portion of a fine, imposed under subsection 462.37(3) of the 
-*Criminal Code* in relation to proceedings commenced at the instance of the Government of Canada is paid or recovered or if a penalty is paid under subsection 18(2) of the 
-[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), share the amount of the fine or penalty in accordance with this Act, the regulations and any agreement entered into under section 11;
+- **(e)** notwithstanding subsection 734.4(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and sections 125 and 126 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), if a fine, or any portion of a fine, imposed under subsection 462.37(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to proceedings commenced at the instance of the Government of Canada is paid or recovered or if a penalty is paid under subsection 18(2) of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), share the amount of the fine or penalty in accordance with this Act, the regulations and any agreement entered into under section 11;
 - **(f)** at the request of the Attorney General, receive from foreign governments all moneys that are to be transferred to Canada pursuant to any agreement entered into pursuant to section 11 and share those moneys in accordance with the regulations;
 - **(g)** contract for the services of any person; and
 - **(h)** do any other thing that the Governor in Council may consider to be incidental to, or necessary or expedient for, carrying out the purposes of this Act.
-> 1993, c. 37, s. 9; 1995, c. 22, s. 18; 1996, c. 19, s. 89; 2000, c. 17, s. 94; 2001, c. 32, s. 78, c. 41, ss. 85, 109.
+> 1993, c. 37, s. 9; 1995, c. 22, s. 18; 1996, c. 19, s. 89; 2000, c. 17, s. 94; 2001, c. 32, s. 78, c. 41, ss. 85, 109; 2018, c. 16, s. 178.
 
 
 
@@ -271,7 +267,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **10** 
 
 - **(1)** Where a law enforcement agency in Canada has participated in the investigation of an offence that leads to
-	- **(a)** the forfeiture to Her Majesty of property pursuant to section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+	- **(a)** the forfeiture to Her Majesty of property under section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 94(1) or 95(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md),
 	- **(b)** the forfeiture to Her Majesty pursuant to subsection 490(9) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) of any property that is or was the subject of a management order, or
 	- **(c)** the imposition of a fine pursuant to subsection 462.37(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to proceedings commenced at the instance of the Government of Canada,
 the Minister shall, in accordance with the regulations, share the proceeds of disposition of that forfeited property, or any amount paid or recovered on account of the fine, as the case may be.
@@ -279,7 +275,7 @@ the Minister shall, in accordance with the regulations, share the proceeds of di
 **[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md)**
 
 - **(2)** If the participation of a law enforcement agency in Canada has led to the forfeiture to Her Majesty of property under the  [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) or the payment of a penalty under subsection 18(2) of that Act, the Minister shall, in accordance with the regulations, share the proceeds of disposition of that forfeited property or the penalty, as the case may be.
-> 1993, c. 37, s. 10; 1996, c. 19, s. 90; 1997, c. 23, s. 23; 2000, c. 17, s. 95;  2001, c. 41, ss. 86, 110; 2005, c. 44, s. 14.
+> 1993, c. 37, s. 10; 1996, c. 19, s. 90; 1997, c. 23, s. 23; 2000, c. 17, s. 95;  2001, c. 41, ss. 86, 110; 2005, c. 44, s. 14; 2018, c. 16, s. 179.
 
 
 
@@ -289,12 +285,12 @@ the Minister shall, in accordance with the regulations, share the proceeds of di
 
 **11** The Attorney General may, with the approval of the Governor in Council and in accordance with the regulations, enter into an agreement with the government of any foreign state respecting the reciprocal sharing of
 - **(a)** the proceeds of disposition of
-	- **(i)** property forfeited to Her Majesty pursuant to section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), or
+	- **(i)** property forfeited to Her Majesty under section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 94(1) or 95(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), or
 	- **(ii)** property that is or was the subject of a management order and that was forfeited under subsection 490(9) of the  [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
 and the proceeds arising from the disposition of property by that foreign state, and
 - **(b)** amounts paid or recovered on account of fines imposed under subsection 462.37(3) of the  [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to proceedings commenced at the instance of the Government of Canada, penalties paid under subsection 18(2) of the  [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) and amounts paid or recovered on account of fines imposed in lieu of forfeiture under the laws of that foreign state,
 if law enforcement agencies of that foreign state, or of Canada, as the case may be, have participated in the investigation of the offence or offences that led to the forfeiture of the property or the imposition of the fine or if the law enforcement agencies' participation led to the forfeiture of the property or the payment of the penalty under the  [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md).
-> 1993, c. 37, s. 11; 1996, c. 19, s. 91; 1997, c. 23, s. 24; 2000, c. 17, s. 96; 2001, c. 32, s. 79, c. 41, ss. 111, 120, 137; 2005, c. 44, s. 15.
+> 1993, c. 37, s. 11; 1996, c. 19, s. 91; 1997, c. 23, s. 24; 2000, c. 17, s. 96; 2001, c. 32, s. 79, c. 41, ss. 111, 120, 137; 2005, c. 44, s. 15; 2018, c. 16, s. 180.
 
 
 
@@ -358,8 +354,8 @@ if law enforcement agencies of that foreign state, or of Canada, as the case may
 
 **If costs are greater than proceeds**
 
-**14** If the proceeds of disposition available to Her Majesty from the forfeiture of any property pursuant to subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) are insufficient to cover the outstanding amounts charged to the Working Capital Account pursuant to subsection 12(2), and any interest on it, in respect of the property, there shall be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
-> 1993, c. 37, s. 14; 1996, c. 19, s. 92; 1997, c. 23, s. 25; 2005, c. 44, s. 16.
+**14** If the proceeds of disposition available to Her Majesty from the forfeiture of any property under subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 94(1) or 95(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) are insufficient to cover the outstanding amounts charged to the Working Capital Account under subsection 12(2), and any interest on it, in respect of the property, there is to be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
+> 1993, c. 37, s. 14; 1996, c. 19, s. 92; 1997, c. 23, s. 25; 2005, c. 44, s. 16; 2018, c. 16, s. 181.
 
 
 
