@@ -115,12 +115,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** A provision referred to in any of the following paragraphs (a) to (f) that is inconsistent with a provision of this Act or of the regulations, or with a provision of the Convention or Aircraft Protocol given force of law by section 4, prevails over the provision of this Act, the regulations, the Convention or the Aircraft Protocol to the extent of the inconsistency:
 	- **(a)** a provision of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+	- **(a.1)** a provision of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md);
 	- **(b)** a provision of Part II.1 or XII.2 or any of sections 487 to 490.01 and 490.1 to 490.9 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 	- **(c)** a provision of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md);
 	- **(d)** a provision of the [Special Economic Measures Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2017.md);
 	- **(e)** a provision of the [United Nations Act](/en/Acts/Revised%20Statutes%20of%20Canada/U/U-2.md);
 	- **(f)** a provision of any regulations made for the purposes of a provision referred to in any of paragraphs (a) to (e).
-> 2005, c. 3, s. 6; 2012, c. 31, s. 412.
+> 2005, c. 3, s. 6; 2012, c. 31, s. 412; 2018, c. 16, s. 185.
 
 
 
