@@ -175,9 +175,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 		- **(i)** for a first offence, to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months, or to both, and
 		- **(ii)** for a subsequent offence, to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding one year, or to both.
 
-**Punishment**
-
-- **(5)** Every person who contravenes subsection (1) where the subject-matter of the offence is a substance included in Schedule II in an amount that does not exceed the amount set out for that substance in Schedule VIII is guilty of an offence punishable on summary conviction and liable to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months, or to both.
+- **(5)** [Repealed, 2018, c. 16, s. 195]
 
 **Punishment**
 
@@ -199,35 +197,35 @@ from a practitioner, unless the person discloses to the practitioner particulars
 		- **(i)** for a first offence, to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months, or to both, and
 		- **(ii)** for a subsequent offence, to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding one year, or to both.
 
-**Determination of amount**
-
-- **(8)** For the purposes of subsection (5) and Schedule VIII, the amount of the substance means the entire amount of any mixture or substance, or the whole of any plant, that contains a detectable amount of the substance.
-
+- **(8)** [Repealed, 2018, c. 16, s. 195]
+> 1996, c. 19, s. 4; 2018, c. 16, s. 195.
 
 
 
-**Definition of overdose**
+
+
+**Definition of medical emergency**
 
 **4.1** 
 
-- **(1)** For the purposes of this section, ***overdose*** means a physiological event induced by the introduction of a controlled substance into the body of a person that results in a life-threatening situation and that a reasonable person would believe requires emergency medical or law enforcement assistance.
+- **(1)** For the purposes of this section, ***medical emergency*** means a physiological event induced by the introduction of a psychoactive substance into the body of a person that results in a life-threatening situation and in respect of which there are reasonable grounds to believe that the person requires emergency medical or law enforcement assistance.
 
-**Exemption from possession of substance charges**
+**Exemption — medical emergency**
 
-- **(2)** No one who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from an overdose is to be charged or convicted under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
+- **(2)** No person who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from a medical emergency is to be charged or convicted of an offence under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assist­ance or having remained at the scene.
 
-**Precision**
+**Exemption — persons at the scene**
 
-- **(3)** The exemption under subsection (2) also applies to any person, including the person suffering from the overdose, who is at the scene upon the arrival of the emergency medical or law enforcement assistance.
+- **(3)** The exemption under subsection (2) also applies to any person, including the person suffering from the medical emergency, who is at the scene on the arrival of the emergency medical or law enforcement assistance.
 
-**Exemption — violation of conditions or orders**
+**Exemption — evidence**
 
-- **(4)** No one who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from an overdose, or who is at the scene upon the arrival of the assistance, is to be charged with an offence concerning a violation of a pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
+- **(4)** No person who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from a medical emergency, or who is at the scene on the arrival of the assistance, is to be charged with an offence concerning a violation of any condition of a pre-trial release or probation order relating to an offence under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
 
-**Precision**
+**Deeming**
 
-- **(5)** Any condition of a person’s pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) that may be violated as a result of the person seeking emergency medical or law enforcement assistance for their, or another person’s, overdose, or as a result of having been at the scene upon the arrival of the assistance, is deemed not to be violated.
-> 2017, c. 4, s. 2.
+- **(5)** Any condition of a person’s pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) that may be violated as a result of the person seeking emergency medical or law enforcement assistance for their, or another person’s, medical emergency, or as a result of having been at the scene on the arrival of the assistance, is deemed not to be violated.
+> 2017, c. 4, s. 2; 2018, c. 16, s. 195.1.
 
 
 
@@ -246,7 +244,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Punishment**
 
 - **(3)** Every person who contravenes subsection (1) or (2)
-	- **(a)** subject to paragraph (a.1), if the subject matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life, and
+	- **(a)** if the subject matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life, and
 		- **(i)** to a minimum punishment of imprisonment for a term of one year if
 			- **(A)** the person committed the offence for the benefit of, at the direction of or in association with a criminal organization, as defined in subsection 467.1(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 			- **(B)** the person used or threatened to use violence in committing the offence,
@@ -256,7 +254,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 			- **(A)** the person committed the offence in or near a school, on or near school grounds or in or near any other public place usually frequented by persons under the age of 18 years,
 			- **(B)** the person committed the offence in a prison, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or on its grounds, or
 			- **(C)** the person used the services of a person under the age of 18 years, or involved such a person, in committing the offence;
-	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II in an amount that is not more than the amount set out for that substance in Schedule VII, is guilty of an indictable offence and liable to imprisonment for a term of not more than five years less a day;
+	- **(a.1)** [Repealed, 2018, c. 16, s. 196]
 	- **(b)** if the subject matter of the offence is a substance included in Schedule III or V,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
@@ -270,10 +268,8 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 - **(5)** For the purposes of applying subsection (3) in respect of an offence under subsection (1), a reference to a substance included in Schedule I, II, III, IV or V includes a reference to any substance represented or held out to be a substance included in that Schedule.
 
-**Interpretation**
-
-- **(6)** For the purposes of paragraph (3)(a.1) and Schedule VII, the amount of the substance means the entire amount of any mixture or substance, or the whole of any plant, that contains a detectable amount of the substance.
-> 1996, c. 19, s. 5; 2012, c. 1, s. 39; 2017, c. 7, s. 3.
+- **(6)** [Repealed, 2018, c. 16, s. 196]
+> 1996, c. 19, s. 5; 2012, c. 1, s. 39; 2017, c. 7, s. 3; 2018, c. 16, s. 196.
 
 
 
@@ -319,16 +315,10 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 - **(2)** Every person who contravenes subsection (1)
 	- **(a)** if the subject matter of the offence is a substance included in Schedule I, is guilty of an indictable offence and liable to imprisonment for life and to a minimum punishment of imprisonment for a term of three years if any of the factors set out in subsection (3) apply and for a term of two years in any other case;
-	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II, other than cannabis (marihuana), is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment
+	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II, is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment
 		- **(i)** for a term of one year if the production is for the purpose of trafficking, or
 		- **(ii)** for a term of 18 months if the production is for the purpose of trafficking and any of the factors set out in subsection (3) apply;
-	- **(b)** if the subject matter of the offence is cannabis (marihuana), is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years, and to a minimum punishment of
-		- **(i)** imprisonment for a term of six months if the number of plants produced is less than 201 and more than five, and the production is for the purpose of trafficking,
-		- **(ii)** imprisonment for a term of nine months if the number of plants produced is less than 201 and more than five, the production is for the purpose of trafficking and any of the factors set out in subsection (3) apply,
-		- **(iii)** imprisonment for a term of one year if the number of plants produced is more than 200 and less than 501,
-		- **(iv)** imprisonment for a term of 18 months if the number of plants produced is more than 200 and less than 501 and any of the factors set out in subsection (3) apply,
-		- **(v)** imprisonment for a term of two years if the number of plants produced is more than 500, or
-		- **(vi)** imprisonment for a term of three years if the number of plants produced is more than 500 and any of the factors set out in subsection (3) apply;
+	- **(b)** [Repealed, 2018, c. 16, s. 197]
 	- **(c)** if the subject matter of the offence is a substance included in Schedule III or V,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
@@ -338,12 +328,12 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 **Factors**
 
-- **(3)** The following factors must be taken into account in applying paragraphs (2)(a) to (b):
+- **(3)** The following factors must be taken into account in applying paragraphs (2)(a) and (a.1):
 	- **(a)** the person used real property that belongs to a third party in committing the offence;
 	- **(b)** the production constituted a potential security, health or safety hazard to persons under the age of 18 years who were in the location where the offence was committed or in the immediate area;
 	- **(c)** the production constituted a potential public safety hazard in a residential area; or
 	- **(d)** the person set or placed a trap, device or other thing that is likely to cause death or bodily harm to another person in the location where the offence was committed or in the immediate area, or permitted such a trap, device or other thing to remain or be placed in that location or area.
-> 1996, c. 19, s. 7; 2012, c. 1, s. 41; 2017, c. 7, s. 5.
+> 1996, c. 19, s. 7; 2012, c. 1, s. 41; 2017, c. 7, s. 5; 2018, c. 16, s. 197.
 
 
 
@@ -422,7 +412,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 		- **(ii)** used or threatened to use violence,
 		- **(iii)** trafficked in a substance included in Schedule I, II, III, IV or V, or possessed such a substance for the purpose of trafficking, in or near a school, on or near school grounds or in or near any other public place usually frequented by persons under the age of 18 years, or
 		- **(iv)** trafficked in a substance included in Schedule I, II, III, IV or V, or possessed such a substance for the purpose of trafficking, to a person under the age of 18 years;
-	- **(b)** was previously convicted of a designated substance offence; or
+	- **(b)** was previously convicted of a designated substance offence, as defined in subsection 2(1) of this Act, or a designated offence, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md);
 	- **(c)** used the services of a person under the age of eighteen years to commit, or involved such a person in the commission of, the offence.
 
 **Reasons**
@@ -438,7 +428,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Minimum punishment**
 
 - **(5)** If the offender successfully completes a program under subsection (4), the court is not required to impose the minimum punishment for the offence for which the person was convicted.
-> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43; 2017, c. 7, s. 7.
+> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43; 2017, c. 7, s. 7; 2018, c. 16, s. 198.
 
 
 
@@ -1783,10 +1773,10 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**Schedules**
+**Power to amend schedules**
 
-**60** The Governor in Council may, by order, amend any of Schedules I to IV and VI to IX by adding to them or deleting from them any item or portion of an item, if the Governor in Council considers the amendment to be necessary in the public interest.
-> 1996, c. 19, s. 60; 2017, c. 7, s. 45.
+**60** The Governor in Council may, by order, amend any of Schedules I to IV, VI and IX by adding to them or deleting from them any item or portion of an item, if the Governor in Council considers the amendment to be necessary in the public interest.
+> 1996, c. 19, s. 60; 2017, c. 7, s. 45; 2018, c. 16, ss. 203, 206.
 
 
 
@@ -2098,18 +2088,8 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 ### **SCHEDULE II** 
 **(Sections 2, 4 to 7.1, 10, 29, 55 and 60)**
-- **1** Cannabis, its preparations and derivatives, including
-- **(1)** Cannabis resin
-- **(2)** Cannabis (marihuana)
-- **(3)** Cannabidiol (2–[3–methyl–6–(1–methylethenyl)–2–cyclohexen–1–yl]–5–pentyl–1,3–benzenediol)
-- **(4)** Cannabinol (3–n–amyl–6,6,9–trimethyl–6–dibenzopyran–1–ol)
-- **(5) and (6)** [Repealed, SOR/2015-192, s. 1]
-- **(7)** Tetrahydrocannabinol (tetrahydro–6,6,9–trimethyl–3–pentyl–6H–dibenzo[b,d]pyran–1–ol)
-- **(7.1)** [Repealed, SOR/2015-192, s. 1]
-- but not including
-- **(8)** Non–viable Cannabis seed, with the exception of its derivatives
-- **(9)** Mature Cannabis stalks that do not include leaves, flowers, seeds or branches; and fiber derived from such stalks
-- **2** Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
+- **1** [Repealed, 2018, c. 16, s. 204]
+- **2** Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of any substance that is identical to any phytocannabinoid and with the exception of ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
 - **(1)** Any substance that has a 2-(cyclohexyl)phenol structure with substitution at the 1-position of the benzene ring by a hydroxy, ether or ester group and further substituted at the 5-position of the benzene ring, whether or not further substituted on the benzene ring to any extent, and substituted at the 3’-position of the cyclohexyl ring by an alkyl, carbonyl, hydroxyl, ether or ester, and whether or not further substituted on the cyclohexyl ring to any extent, including
 - **(i)** Nabilone ((±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo[b,d]pyran-9-one)
 - **(ii)** Parahexyl (3-hexyl-6,6,9-trimethyl-7,8,9,10-tetrahydro-6H-dibenzo[b,d]pyran-1-ol)
@@ -2155,7 +2135,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(9)** Any substance that has a 3-carboxamideindole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted at the carboxamide group to any extent, including
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192; 2017, c. 7, s. 47.
+> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192; 2017, c. 7, s. 47; 2018, c. 16, s. 204.
 
 
 
@@ -2460,43 +2440,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 ### **SCHEDULE VII** 
-**(Sections 5 and 60)**
-<table>
-<tr>
-<th>Substance</th>
-<th>Amount</th>
-</tr>
-<tr>
-<td>1 Cannabis resin</td>
-<td>3 kg</td>
-</tr>
-<tr>
-<td>2 Cannabis (marihuana)</td>
-<td>3 kg</td>
-</tr>
-</table>
+[Repealed, 2018, c. 16, s. 205]
 
 
 
 
 ### **SCHEDULE VIII** 
-**(Sections 4 and 60)**
-<table>
-<tr>
-<th>Substance</th>
-<th>Amount</th>
-</tr>
-<tr>
-<td>1 Cannabis resin</td>
-<td>1 g</td>
-</tr>
-<tr>
-<td>2 Cannabis (marihuana)</td>
-<td>30 g</td>
-</tr>
-</table>
-
-> 1996, c. 19, Sch. VIII; SOR/97-230, s. 16.
+[Repealed, 2018, c. 16, s. 205]
 
 
 
