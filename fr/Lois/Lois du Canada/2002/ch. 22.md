@@ -3154,7 +3154,24 @@ où :
 ### Production et estampillage du cannabis
 
 
-**158.02** [Non en vigueur]
+
+**Interdiction — production**
+
+**158.02** 
+
+- **(1)** Il est interdit, sauf en conformité avec une licence de cannabis, de produire des produits du cannabis.
+
+**Présomption — producteur**
+
+- **(2)** La personne qui, en échange d’une contrepartie ou autrement, fournit ou offre de fournir à son lieu d’affaires du matériel qu’une autre personne peut utiliser dans ce lieu pour produire un produit du cannabis est réputée produire le produit du cannabis, et l’autre personne est réputée ne pas le produire.
+
+**Exception**
+
+- **(3)** Le paragraphe (1) ne s’applique pas relativement à ce qui suit :
+	- **a)** la production de sous-produits de chanvre industriel par un producteur de chanvre industriel;
+	- **b)** la production de produits du cannabis visés par règlement ou d’une catégorie réglementaire par une personne visée par règlement dans des circonstances ou à des fins prévues par règlement.
+> 2018, ch. 12, art. 73.
+
 
 
 
@@ -3241,7 +3258,131 @@ où :
 
 
 
-**158.09 â 158.12** [Non en vigueur]
+
+**Sortie illégale**
+
+**158.09** 
+
+- **(1)** Sauf exception prévue à l’article 158.15, il est interdit de sortir un produit du cannabis des locaux d’un titulaire de licence de cannabis à moins qu’il ne soit emballé et :
+	- **a)** si le produit est destiné au marché des marchandises acquittées :
+		- **(i)** qu’il ne soit estampillé pour indiquer que le droit sur le cannabis a été acquitté,
+		- **(ii)** si un droit additionnel sur le cannabis relativement à une province déterminée est imposé sur le produit du cannabis, qu’il ne soit estampillé pour indiquer que ce droit a été acquitté;
+	- **b)** sinon, qu’il ne porte l’information prévue par règlement qui doit être imprimée ou apposée sur son contenant selon les modalités réglementaires.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas au titulaire de licence de cannabis qui sort des produits du cannabis de ses locaux :
+	- **a)** s’il sort les produits du cannabis :
+		- **(i)** pour livraison à un autre titulaire de licence de cannabis,
+		- **(ii)** pour exportation autorisée en vertu de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md),
+		- **(iii)** pour livraison à une personne en vue de la stérilisation conformément au sous-alinéa 158.11(3)a)(ii),
+		- **(iv)** pour livraison à une personne en vue de l’analyse ou de la destruction conformément au sous-alinéa 158.3a)(v);
+	- **b)** si le produit du cannabis est :
+		- **(i)** un produit du cannabis à faible teneur en THC,
+		- **(ii)** une drogue de cannabis sur ordonnance,
+		- **(iii)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire;
+	- **c)** dans des circonstances ou à des fins prévues par règlement.
+
+**Sortie par le ministre**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à la sortie d’un produit du cannabis en vue de l’analyse ou de la destruction :
+	- **a)** soit par le ministre;
+	- **b)** soit par le ministre, au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md).
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Interdiction — cannabis pour vente**
+
+**158.1** Il est interdit à une personne d’acheter ou de recevoir, pour le vendre :
+- **a)** un produit du cannabis d’un producteur dont elle sait ou devrait savoir qu’il n’est :
+	- **(i)** ni un titulaire de licence de cannabis,
+	- **(ii)** ni, dans le cas d’un sous-produit de chanvre industriel, un producteur de chanvre industriel;
+- **b)** un produit du cannabis qui, en contravention de la présente loi, n’est ni emballé ni estampillé;
+- **c)** un produit du cannabis dont elle sait ou devrait savoir qu’il est estampillé frauduleusement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Interdiction de cannabis non estampillé**
+
+**158.11** 
+
+- **(1)** Il est interdit à quiconque, sauf à un titulaire de licence de cannabis, de vendre, d’offrir en vente, d’acheter ou d’avoir en sa possession un produit du cannabis, ou d’en disposer, à moins que les conditions suivantes ne soient réunies :
+	- **a)** le produit est emballé;
+	- **b)** le produit est estampillé pour indiquer que le droit sur le cannabis a été acquitté.
+
+**Interdiction de cannabis non estampillé — province déterminée**
+
+- **(2)** Il est interdit à quiconque, sauf à un titulaire d’une licence de cannabis, de vendre, d’offrir en vente, d’acheter ou d’avoir en sa possession dans une province déterminée un produit du cannabis, ou d’en disposer, à moins que le produit ne soit estampillé pour indiquer que le droit additionnel sur le cannabis relativement à la province déterminée a été acquitté.
+
+**Exception — possession**
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à la possession d’un produit du cannabis :
+	- **a)** par les personnes suivantes :
+		- **(i)** une personne visée par règlement qui transporte le produit du cannabis dans les circonstances et les conditions prévues par règlement,
+		- **(ii)** une personne visée par règlement qui stérilise le produit du cannabis dans les circonstances et les conditions prévues par règlement,
+		- **(iii)** un particulier si le produit du cannabis est importé à ses propres fins médicales, conformément à la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), le cas échéant,
+		- **(iv)** une personne qui est en possession du produit du cannabis aux fins d’analyse ou de destruction conformément au sous-alinéa 158.3a)(v);
+	- **b)** si le produit du cannabis est :
+		- **(i)** un produit du cannabis à faible teneur en THC,
+		- **(ii)** une drogue de cannabis sur ordonnance,
+		- **(iii)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire;
+	- **c)** dans des circonstances ou à des fins prévues par règlement.
+
+**Exception — disposition, vente, etc.**
+
+- **(4)** Les paragraphes (1) et (2) ne s’appliquent pas à la disposition, à la vente, à l’offre en vente ou à l’achat de produits du cannabis :
+	- **a)** si le produit du cannabis est :
+		- **(i)** un produit du cannabis à faible teneur en THC,
+		- **(ii)** une drogue de cannabis sur ordonnance,
+		- **(iii)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire;
+	- **b)** dans des circonstances ou à des fins prévues par règlement.
+
+**Exception — chanvre industriel**
+
+- **(5)** Les paragraphes (1) et (2) ne s’appliquent pas aux situations suivantes :
+	- **a)** la possession d’un sous-produit de chanvre industriel par le producteur de chanvre industriel qui l’a produit, si le sous-produit de chanvre industriel :
+		- **(i)** se trouve sur la propriété du producteur de chanvre industriel,
+		- **(ii)** est transporté par le producteur de chanvre industriel pour être livré à un titulaire de licence de cannabis ou en raison d’un retour par ce dernier;
+	- **b)** la disposition, la vente ou l’offre en vente d’un sous-produit de chanvre industriel à un titulaire de licence de cannabis par le producteur de chanvre industriel qui l’a produit.
+
+**Exception — province déterminée**
+
+- **(6)** Le paragraphe (2) ne s’applique pas aux situations suivantes :
+	- **a)** la possession d’un produit du cannabis dans des circonstances ou à des fins prévues par règlement;
+	- **b)** la disposition, la vente, l’offre en vente ou l’achat d’un produit du cannabis dans des circonstances ou à des fins prévues par règlement.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Vente ou distribution par un titulaire de licence**
+
+**158.12** 
+
+- **(1)** Il est interdit au titulaire de licence de cannabis de distribuer, de vendre ou d’offrir en vente à une personne un produit du cannabis :
+	- **a)** qui n’est pas emballé;
+	- **b)** qui n’est pas estampillé de manière à indiquer que le droit sur le cannabis a été acquitté;
+	- **c)** qui, si un droit additionnel sur le cannabis relativement à une province déterminée est imposé sur le cannabis, n’est pas estampillé de manière à indiquer que ce droit a été acquitté.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la distribution, à la vente ou à l’offre en vente d’un produit du cannabis :
+	- **a)** à un titulaire de licence de cannabis;
+	- **b)** si le produit du cannabis est exporté par le titulaire de licence de cannabis conformément à la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
+	- **c)** si le produit du cannabis est :
+		- **(i)** un produit du cannabis à faible teneur en THC,
+		- **(ii)** une drogue de cannabis sur ordonnance,
+		- **(iii)** un produit du cannabis visé par règlement ou d’une catégorie réglementaire;
+	- **d)** dans des circonstances ou à des fins prévues par règlement.
+> 2018, ch. 12, art. 73.
+
 
 
 
@@ -3273,7 +3414,27 @@ où :
 
 
 
-**158.15 et 158.16** [Non en vigueur]
+
+**Sortie de déchets de cannabis**
+
+**158.15** 
+
+- **(1)** Nul n’est autorisé à sortir des déchets de produits du cannabis des locaux d’un titulaire de licence de cannabis, à l’exception de ce titulaire ou d’une personne autorisée par le ministre.
+
+**Modalités de sortie**
+
+- **(2)** Lorsque des déchets de produits du cannabis sont sortis des locaux d’un titulaire de licence de cannabis, ils doivent être traités de la manière autorisée par le ministre.
+> 2018, ch. 12, art. 73.
+
+
+
+
+
+**Cannabis façonné de nouveau ou détruit**
+
+**158.16** Le titulaire de licence de cannabis peut façonner de nouveau ou détruire, de la manière autorisée par le ministre, tout produit du cannabis.
+> 2018, ch. 12, art. 73.
+
 
 
 
@@ -5122,8 +5283,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Production, vente, etc., illégales**
 
-**214** Quiconque contrevient à l’un des articles 25, 25.2 à 25.4, 27 et 29, au paragraphe 32.1(1) ou à l’un des articles 60, 62, 158.04 à 158.06 et 158.08 commet une infraction passible, sur déclaration de culpabilité :
-- **a)** par mise en accusation, d’une amende d’au moins 50 000 $, sans dépasser 1 000 000 $, et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+**214** Quiconque contrevient à l’un des articles 25, 25.2 à 25.4, 27 et 29, au paragraphe 32.1(1) ou à l’un des articles 60, 62, 158.02, 158.04 à 158.06, 158.08 et 158.1 commet une infraction passible, sur déclaration de culpabilité :
+- **a)** par mise en accusation, d’une amende d’au moins 50 000 $, sans dépasser 1 000 000 $, et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 - **b)** par procédure sommaire, d’une amende d’au moins 10 000 $, sans dépasser 500 000 $, et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
 > 2002, ch. 22, art. 214; 2008, ch. 28, art. 60; 2010, ch. 12, art. 42; 2018, ch. 12, art. 79.
 
@@ -5242,6 +5403,53 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 		- **(ii)** le produit du nombre de litres de vin auxquels l’infraction se rapporte par 300 % du taux de droit applicable par litre de vin, prévu à l’alinéa c) de l’annexe 6, au moment de la perpétration de l’infraction;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 > 2002, ch. 22, art. 218; 2006, ch. 4, art. 45; 2007, ch. 18, art. 119; 2017, ch. 20, art. 53.
+
+
+
+
+
+**Peine — articles 158.11 et 158.12**
+
+**218.1** 
+
+- **(1)** Quiconque contrevient aux articles 158.11 ou 158.12 commet une infraction passible, sur déclaration de culpabilité :
+	- **a)** par mise en accusation, d’une amende au moins égale à la somme déterminée selon le paragraphe (2), sans dépasser la somme déterminée selon le paragraphe (3), et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** par procédure sommaire, d’une amende au moins égale à la somme déterminée selon le paragraphe (2), sans dépasser 500 000 $ ou, si elle est moins élevée, la somme déterminée selon le paragraphe (3), et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
+
+**Amende minimale**
+
+- **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
+	- **a)** la somme obtenue par la formule suivante :
+```
+(A + B + C) × 200 %
+```
+où :
+- **A** représente la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment où l’infraction a été commise, relativement aux produits du cannabis auxquels l’infraction se rapporte,
+- **B** :
+	- **(i)** si l’infraction est commise dans une province déterminée, 300 % de la valeur de l’élément A,
+	- **(ii)** sinon, zéro,
+- **C** :
+	- **(i)** si l’infraction est commise dans une province déterminée visée par règlement, 200 % de la valeur de l’élément A,
+	- **(ii)** sinon, zéro;
+	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+**Amende maximale**
+
+- **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
+	- **a)** la somme obtenue par la formule suivante :
+```
+(A + B + C) × 300 %
+```
+où :
+- **A** représente la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment où l’infraction a été commise, relativement aux produits du cannabis auxquels l’infraction se rapporte,
+- **B** :
+	- **(i)** si l’infraction est commise dans une province déterminée, 300 % de la valeur de l’élément A,
+	- **(ii)** sinon, zéro,
+- **C** :
+	- **(i)** si l’infraction est commise dans une province déterminée visée par règlement, 200 % de la valeur de l’élément A,
+	- **(ii)** sinon, zéro;
+	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+> 2018, ch. 12, art. 80.
 
 
 
@@ -5396,7 +5604,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **230** 
 
 - **(1)** Il est interdit à quiconque d’avoir en sa possession un bien, ou son produit, sachant qu’il provient, en tout ou en partie, directement ou indirectement :
-	- **a)** soit de la perpétration d’une infraction prévue à l’article 214 ou aux paragraphes 216(1), 218(1) ou 231(1);
+	- **a)** soit de la perpétration d’une infraction prévue à l’article 214 ou aux paragraphes 216(1), 218(1), 218.1(1) ou 231(1);
 	- **b)** soit du complot en vue de commettre une infraction visée à l’alinéa a), de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre ou du fait d’y participer.
 
 **Peine**
@@ -5408,6 +5616,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Exception**
 
 - **(3)** N’est pas coupable de l’infraction prévue au présent article l’agent de la paix — ou la personne qui agit sous sa direction — qui a en sa possession le bien, ou son produit, dans le cadre d’une enquête ou dans l’accomplissement de ses autres fonctions.
+> 2002, ch. 22, art. 230; 2018, ch. 12, art. 81.
+
 
 
 
@@ -5416,8 +5626,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **231** 
 
-- **(1)** Il est interdit à quiconque — de quelque façon que ce soit — d’utiliser, d’envoyer ou de livrer à une personne ou à un endroit, de transporter, de transmettre ou de modifier un bien ou son produit — ou d’en disposer ou d’en transférer la possession — , ou d’effectuer toute autre opération à son égard, dans l’intention de le cacher ou de le convertir, sachant qu’il provient, en tout ou en partie, directement ou indirectement :
-	- **a)** soit de la perpétration d’une infraction prévue à l’article 214 ou aux paragraphes 216(1) ou 218(1);
+- **(1)** Il est interdit à quiconque — de quelque façon que ce soit — d’utiliser, d’envoyer ou de livrer à une personne ou à un endroit, de transporter, de transmettre ou de modifier un bien ou son produit — ou d’en disposer ou d’en transférer la possession —, ou d’effectuer toute autre opération à son égard, dans l’intention de le cacher ou de le convertir, sachant qu’il provient, en tout ou en partie, directement ou indirectement :
+	- **a)** soit de la perpétration d’une infraction prévue à l’article 214 ou aux paragraphes 216(1), 218(1) ou 218.1(1);
 	- **b)** soit du complot en vue de commettre une infraction visée à l’alinéa a), de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre ou du fait d’y participer.
 
 **Peine**
@@ -5429,6 +5639,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Exception**
 
 - **(3)** N’est pas coupable d’une infraction prévue au présent article l’agent de la paix — ou la personne qui agit sous sa direction — qui fait l’un des actes mentionnés au paragraphe (1) dans le cadre d’une enquête ou dans l’accomplissement de ses autres fonctions.
+> 2002, ch. 22, art. 231; 2018, ch. 12, art. 82.
+
 
 
 
@@ -5437,11 +5649,13 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **232** 
 
-- **(1)** Les articles 462.3 et 462.32 à 462.5 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, aux procédures engagées à l’égard des infractions prévues à l’article 214, aux paragraphes 216(1) et 218(1) et aux articles 230 et 231.
+- **(1)** Les articles 462.3 et 462.32 à 462.5 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, aux procédures engagées à l’égard des infractions prévues à l’article 214, aux paragraphes 216(1), 218(1) et 218.1(1) et aux articles 230 et 231.
 
 **Mention d’une infraction de criminalité organisée**
 
 - **(2)** Pour l’application du paragraphe (1), la mention, aux articles 462.37 et 462.38 et au paragraphe 462.41(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), d’une infraction de criminalité organisée vaut également mention d’une infraction prévue au paragraphe (1).
+> 2002, ch. 22, art. 232; 2018, ch. 12, art. 83.
+
 
 
 
@@ -5479,11 +5693,11 @@ où :
 
 
 
-**Contravention — articles 38, 40, 49, 61, 62.1, 99, 149 ou 151**
+**Contravention — articles 38, 40, 49, 61, 62.1, 99, 149, 151 ou 158.15**
 
 **234** 
 
-- **(1)** Quiconque contrevient aux articles 38, 40, 49, 61, 62.1, 99, 149 ou 151 est passible d’une pénalité maximale de 25 000 $.
+- **(1)** Quiconque contrevient aux articles 38, 40, 49, 61, 62.1, 99, 149, 151 ou 158.15 est passible d’une pénalité maximale de 25 000 $.
 
 **Défaut de se conformer**
 
@@ -5491,8 +5705,30 @@ où :
 
 **Défaut de se conformer**
 
-- **(3)** Quiconque omet de retourner ou de détruire des timbres selon les instructions du ministre visées à l’alinéa 158.07b) est passible d’une pénalité maximale de 25 000 $.
+- **(3)** Quiconque omet de retourner ou de détruire des timbres selon les instructions du ministre visées à l’alinéa 158.07b), ou omet de façonner de nouveau ou de détruire un produit du cannabis de la manière autorisée par le ministre en vertu de l’article 158.16, est passible d’une pénalité maximale de 25 000 $.
 > 2002, ch. 22, art. 234; 2007, ch. 18, art. 121; 2010, ch. 12, art. 43; 2018, ch. 12, art. 85.
+
+
+
+
+
+**Contravention — articles 158.02, 158.1, 158.11 ou 158.12**
+
+**234.1** Quiconque contrevient à l’article 158.02, reçoit des produits du cannabis pour les vendre en contravention de l’article 158.1 ou vend ou offre en vente des produits du cannabis en contravention des articles 158.11 ou 158.12 est passible d’une pénalité égale à la somme obtenue par la formule suivante :
+```
+(A + B + C) × 200 %
+```
+où :
+- **A** représente la plus élevée des sommes suivantes :
+- **a)** la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment de la contravention, relativement aux produits du cannabis auxquels la contravention se rapporte,
+- **b)** la somme obtenue en multipliant la juste valeur marchande au moment de la contravention des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’article 4 de l’annexe 7, dans sa version applicable à ce moment;
+- **B** :
+- **a)** si la contravention est commise dans une province déterminée, 300 % de la valeur de l’élément A,
+- **b)** sinon, zéro;
+- **C** :
+- **a)** si la contravention est commise dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
+- **b)** sinon, zéro.
+> 2018, ch. 12, art. 86.
 
 
 
@@ -5574,9 +5810,11 @@ où :
 
 **Autres réaffectations**
 
-**239** Sauf en cas d’application de l’article 237, une personne est passible d’une pénalité égale au montant représentant 200 % des droits imposés sur de l’alcool emballé ou un produit du tabac si les conditions suivantes sont réunies :
-- **a)** elle a acquis l’alcool emballé ou le produit du tabac et les droits n’étaient pas exigibles en raison du but dans lequel elle les a acquis ou de leur destination;
+**239** Sauf en cas d’application de l’article 237, une personne est passible d’une pénalité égale au montant représentant 200 % des droits imposés sur de l’alcool emballé, un produit du tabac ou un produit du cannabis si les conditions suivantes sont réunies :
+- **a)** elle a acquis l’alcool emballé ou le produit et les droits n’étaient pas exigibles en raison du but dans lequel elle les a acquis ou de leur destination;
 - **b)** l’alcool ou le produit est vendu ou utilisé dans un but quelconque, ou est envoyé à une destination, dans des circonstances telles que les droits auraient été exigibles si, à l’origine, il avait été acquis dans ce but ou envoyé à cette destination.
+> 2002, ch. 22, art. 239; 2018, ch. 12, art. 88.
+
 
 
 
