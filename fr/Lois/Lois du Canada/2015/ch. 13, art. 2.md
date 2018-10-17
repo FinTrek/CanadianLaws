@@ -61,9 +61,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***infraction*** Infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) ou à la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), infraction désignée au sens du paragraphe 2(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou infraction prévue à l’article 91 ou à la partie 3 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md). 
+***infraction*** Infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) ou à la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), infraction désignée au sens du paragraphe 2(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), infraction désignée au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) ou infraction prévue à l’article 91 ou à la partie 3 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md). (*offence*)
 
-***victime*** Particulier qui a subi des dommages — matériels, corporels ou moraux — ou des pertes économiques par suite de la perpétration ou prétendue perpétration d’une infraction.
+***victime*** Particulier qui a subi des dommages — matériels, corporels ou moraux — ou des pertes économiques par suite de la perpétration ou prétendue perpétration d’une infraction. (*victim*)
+> 2015, ch. 13, art. 2 « 2 »; 2018, ch. 16, art. 187.
+
 
 
 
