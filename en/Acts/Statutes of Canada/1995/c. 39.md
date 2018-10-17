@@ -177,15 +177,16 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 	- **(a)** has been convicted or discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) of
 		- **(i)** an offence in the commission of which violence against another person was used, threatened or attempted,
 		- **(ii)** an offence under this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
-		- **(iii)** an offence under section 264 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (criminal harassment), or
-		- **(iv)** an offence relating to the contravention of subsection 5(1) or (2), 6(1) or (2) or 7(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+		- **(iii)** an offence under section 264 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (criminal harassment),
+		- **(iv)** an offence relating to the contravention of subsection 5(1) or (2), 6(1) or (2) or 7(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), or
+		- **(v)** an offence relating to the contravention of subsection 9(1) or (2), 10(1) or (2), 11(1) or (2), 12(1), (4), (5), (6) or (7), 13(1) or 14(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md);
 	- **(b)** has been treated for a mental illness, whether in a hospital, mental institute, psychiatric clinic or otherwise and whether or not the person was confined to such a hospital, institute or clinic, that was associated with violence or threatened or attempted violence on the part of the person against any person; or
 	- **(c)** has a history of behaviour that includes violence or threatened or attempted violence on the part of the person against any person.
 
 **Exception**
 
 - **(3)** Despite subsection (2), in determining whether a non-resident who is 18 years old or older and by or on behalf of whom an application is made for a 60-day licence authorizing the non-resident to possess non-restricted firearms is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section 74, a provincial court judge may but need not have regard to the criteria described in subsection (2).
-> 1995, c. 39, ss. 5, 137; 1996, c. 19, s. 76.1; 2003, c. 8, s. 10; 2015, c. 27, s. 3
+> 1995, c. 39, ss. 5, 137; 1996, c. 19, s. 76.1; 2003, c. 8, s. 10; 2015, c. 27, s. 3; 2018, c. 16, s. 182
 
 
 
