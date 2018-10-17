@@ -324,13 +324,13 @@ On being filed, the order shall be entered as a judgment of that court.
 - **(4)** On being filed,
 	- **(a)** an order for the seizure of proceeds of crime may be enforced as if it were a warrant issued under subsection 462.32(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 	- **(b)** an order for the restraint of proceeds of crime may be enforced as if it were an order made under subsection 462.33(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-	- **(c)** an order for the seizure of offence-related property may be enforced as if it were a warrant issued under subsection 487(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 11(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be; and
-	- **(d)** an order for the restraint of offence-related property may be enforced as if it were an order made under subsection 490.8(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 14(3) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be.
+	- **(c)** an order for the seizure of offence-related property may be enforced as if it were a warrant issued under subsection 487(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 11(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 87(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as the case may be; and
+	- **(d)** an order for the restraint of offence-related property may be enforced as if it were an order made under subsection 490.8(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 14(3) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 91(3) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as the case may be.
 
 **Filing of amendments**
 
 - **(5)** When an order is filed under subsection (2), a copy of any amendments made to the order may be filed in the same way as the order, and the amendments do not, for the purpose of this Act, have effect until they are registered.
-> 2001, c. 32, s. 65.
+> 2001, c. 32, s. 65; 2018, c. 16, s. 171.
 
 
 
@@ -370,7 +370,7 @@ On being filed, the order shall be entered as a judgment of that court.
 
 - **(6)** From the date it is filed under subsection (3), subject to subsection (4),
 	- **(a)** an order of forfeiture of proceeds of crime has the same effect as if it were an order under subsection 462.37(1) or 462.38(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
-	- **(b)** an order for the forfeiture of offence-related property has the same effect as if it were an order under subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), as the case may be.
+	- **(b)** an order for the forfeiture of offence-related property has the same effect as if it were an order under subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 94(1) or 95(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as the case may be.
 
 **Filing of amendments**
 
@@ -381,12 +381,12 @@ On being filed, the order shall be entered as a judgment of that court.
 - **(8)** When an order has been filed under subsection (3),
 	- **(a)** an order of forfeiture of proceeds of crime shall not be executed before notice in accordance with subsection 462.41(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) has been given to any person who, in the opinion of the court, appears to have a valid interest in the property; and
 	- **(b)** an order of forfeiture of offence-related property shall not be executed before
-		- **(i)** notice in accordance with subsection 490.41(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 19.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) has been given to any person who resides in a dwelling-house that is offence-related property and who is a member of the immediate family of the person charged with or convicted of the offence in relation to which property would be forfeited, and
-		- **(ii)** notice in accordance with subsection 490.4(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 19(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) has been given to any person who, in the opinion of the court, appears to have a valid interest in the property.
+		- **(i)** notice in accordance with subsection 490.41(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 19.1(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 98(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) has been given to any person who resides in a dwelling-house that is offence-related property and who is a member of the immediate family of the person charged with or convicted of the offence in relation to which property would be forfeited, and
+		- **(ii)** notice in accordance with subsection 490.4(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 19(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or subsection 97(2) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) has been given to any person who, in the opinion of the court, appears to have a valid interest in the property.
 
 **Application of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
-- **(9)** Subsection 462.41(3) and section 462.42 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with any modifications that the circumstances require, to a person who claims an interest in proceeds of crime, and subsections 490.4(3) and 490.41(3) and section 490.5 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and subsections 19(3) and 20(4) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) apply, with any modifications that the circumstances require, to a person who claims an interest in offence-related property.
+- **(9)** Subsection 462.41(3) and section 462.42 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with any modifications that the circumstances require, to a person who claims an interest in proceeds of crime, and subsections 490.4(3) and 490.41(3) and section 490.5 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsections 19(3) and 20(4) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) and subsections 97(3) and 99(4) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) apply, with any modifications that the circumstances require, to a person who claims an interest in offence-related property.
 
 **Presumption**
 
@@ -395,7 +395,7 @@ On being filed, the order shall be entered as a judgment of that court.
 **[Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md) applies**
 
 - **(11)** The provisions of the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md) apply in respect of all property forfeited under this section.
-> 2001, c. 32, s. 65.
+> 2001, c. 32, s. 65; 2018, c. 16, s. 171.
 
 
 
