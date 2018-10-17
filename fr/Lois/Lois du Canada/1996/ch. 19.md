@@ -158,9 +158,7 @@ Y est assimilée l’offre de produire. (*produce*)
 		- **(i)** s’il s’agit d’une première infraction, d’une amende maximale de mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
 		- **(ii)** en cas de récidive, d’une amende maximale de deux mille dollars et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
 
-**Peine — cas particuliers**
-
-- **(5)** Quiconque contrevient au paragraphe (1) commet, dans le cas de substances inscrites à la fois à l’annexe II et à l’annexe VIII, et ce pourvu que la quantité en cause n’excède pas celle mentionnée à cette dernière annexe, une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+- **(5)** [Abrogé, 2018, ch. 16, art. 195]
 
 **Peine**
 
@@ -182,35 +180,35 @@ Y est assimilée l’offre de produire. (*produce*)
 		- **(i)** s’il s’agit d’une première infraction, d’une amende maximale de mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
 		- **(ii)** en cas de récidive, d’une amende maximale de deux mille dollars et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
 
-**Interprétation**
-
-- **(8)** Pour l’application du paragraphe (5) et de l’annexe VIII, ***quantité*** s’entend du poids total de tout mélange, substance ou plante dans lequel on peut déceler la présence de la substance en cause.
-
+- **(8)** [Abrogé, 2018, ch. 16, art. 195]
+> 1996, ch. 19, art. 4; 2018, ch. 16, art. 195.
 
 
 
-**Définition de surdose**
+
+
+**Définition de urgence médicale**
 
 **4.1** 
 
-- **(1)** Pour l’application du présent article, ***surdose*** s’entend d’un phénomène physiologique attribuable à l’introduction d’une substance désignée dans le corps d’une personne qui met la vie de celle-ci en danger et à l’égard duquel il y a des motifs raisonnables de croire que l’intervention de professionnels de la santé ou d’agents d’application de la loi est nécessaire de toute urgence.
+- **(1)** Pour l’application du présent article, ***urgence médicale*** s’entend d’un phénomène physiologique attribuable à l’introduction d’une substance psychoactive dans le corps d’une personne qui met sa vie en danger et en raison duquel il y a des motifs raisonnables de croire que l’intervention de professionnels de la santé ou d’agents d’application de la loi est nécessaire de toute urgence.
 
-**Exemption — accusation de possession de substances**
+**Exemption — urgence médicale**
 
-- **(2)** Quiconque demande, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce que lui-même ou une autre personne est victime d’une surdose ne peut être accusé ou déclaré coupable d’une infraction prévue au paragraphe 4(1) si la preuve à l’appui de cette infraction a été obtenue ou découverte du fait qu’il a demandé de l’aide ou est resté sur les lieux.
+- **(2)** La personne qui demande, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même ou une autre personne est victime d’une urgence médicale ne peut être accusée, ni être déclarée coupable, d’une infraction prévue au paragraphe 4(1) si la preuve à l’appui de cette infraction a été obtenue ou recueillie du fait de la demande de secours ou de sa présence sur les lieux.
 
-**Précision**
+**Exemption — personnes sur les lieux**
 
-- **(3)** L’exemption prévue au paragraphe (2) s’applique aussi à toute personne qui se trouve sur les lieux à l’arrivée des professionnels de la santé ou des agents d’application de la loi, y compris la personne victime de la surdose.
+- **(3)** L’exemption prévue au paragraphe (2) s’applique aussi à toute personne qui se trouve sur les lieux à l’arrivée des professionnels de la santé ou des agents d’application de la loi, y compris la personne victime de l’urgence médicale.
 
-**Exemption — violation de conditions ou d’ordonnances**
+**Exemption — preuve**
 
-- **(4)** La personne qui demande, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même ou une autre personne est victime d’une surdose ou qui se trouve sur les lieux à l’arrivée des secours ne peut être accusée d’une infraction en lien avec la violation de conditions de mise en liberté provisoire, d’une ordonnance de probation, d’une ordonnance de sursis ou des modalités d’une libération conditionnelle relativement à une infraction prévue au paragraphe 4(1) si la preuve à l’appui de cette infraction a été obtenue ou révélée parce que cette personne a demandé du secours ou est restée sur les lieux.
+- **(4)** La personne qui demande, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même ou une autre personne est victime d’une urgence médicale et celle qui est présente sur les lieux à l’arrivée des secours ne peuvent être accusées d’une infraction en lien avec la violation de conditions de mise en liberté provisoire ou d’une ordonnance de probation relativement à une infraction prévue au paragraphe 4(1) si la preuve à l’appui de cette infraction a été obtenue ou recueillie du fait de la demande de secours ou de leur présence sur les lieux.
 
-**Précision**
+**Présomption**
 
-- **(5)** Est réputée n’avoir jamais eu lieu la violation, relativement à une infraction visée au paragraphe 4(1), de conditions de mise en liberté provisoire, d’une ordonnance de probation, d’une ordonnance de sursis ou des modalités d’une libération conditionnelle qui résulte du fait que la personne a demandé, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même ou une autre personne était victime d’une surdose ou est restée sur les lieux à l’arrivée des secours.
-> 2017, ch. 4, art. 2.
+- **(5)** Est réputée n’avoir jamais eu lieu la violation, relativement à une infraction visée au paragraphe 4(1), de conditions de mise en liberté provisoire, d’une ordonnance de probation, d’une ordonnance de sursis ou des modalités d’une libération conditionnelle qui résulte du fait que la personne a demandé, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même, ou une autre personne, était victime d’une urgence médicale ou est présente sur les lieux à l’arrivée des secours.
+> 2017, ch. 4, art. 2; 2018, ch. 16, art. 195.1.
 
 
 
@@ -229,7 +227,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Peine**
 
 - **(3)** Quiconque contrevient aux paragraphes (1) ou (2) commet :
-	- **a)** dans le cas de substances inscrites aux annexes I ou II, mais sous réserve de l’alinéa a.1), un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure :
+	- **a)** dans le cas de substances inscrites aux annexes I ou II, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure :
 		- **(i)** à un an, si la personne, selon le cas :
 			- **(A)** a commis l’infraction au profit ou sous la direction d’une organisation criminelle au sens du paragraphe 467.1(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou en association avec elle,
 			- **(B)** a eu recours ou a menacé de recourir à la violence lors de la perpétration de l’infraction,
@@ -241,7 +239,7 @@ Y est assimilée l’offre de produire. (*produce*)
 
 			- **(B)** a commis l’infraction à l’intérieur d’une prison au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou sur le terrain d’un tel établissement,
 			- **(C)** a eu recours aux services d’une personne de moins de dix-huit ans pour la perpétration de l’infraction ou l’y a mêlée;
-	- **a.1)** dans le cas de substances inscrites à la fois à l’annexe II et à l’annexe VII, et ce, pourvu que la quantité en cause n’excède pas celle mentionnée à cette dernière annexe, un acte criminel passible d’un emprisonnement maximal de cinq ans moins un jour;
+	- **a.1)** [Abrogé, 2018, ch. 16, art. 196]
 	- **b)** dans le cas de substances inscrites aux annexes III ou V :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
@@ -255,10 +253,8 @@ Y est assimilée l’offre de produire. (*produce*)
 
 - **(5)** Dans le cadre de l’application du paragraphe (3) à l’égard d’une infraction prévue au paragraphe (1), la mention d’une substance inscrite aux annexes I, II, III, IV ou V vaut également mention de toute substance présentée ou tenue pour telle.
 
-**Définition de quantité**
-
-- **(6)** Pour l’application de l’alinéa (3)a.1) et de l’annexe VII, ***quantité*** s’entend du poids total de tout mélange, substance ou plante dans lequel on peut déceler la présence de la substance en cause.
-> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39; 2017, ch. 7, art. 3.
+- **(6)** [Abrogé, 2018, ch. 16, art. 196]
+> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39; 2017, ch. 7, art. 3; 2018, ch. 16, art. 196.
 
 
 
@@ -304,16 +300,10 @@ Y est assimilée l’offre de produire. (*produce*)
 
 - **(2)** Quiconque contrevient au paragraphe (1) commet :
 	- **a)** dans le cas de substances inscrites à l’annexe I, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure à deux ans ou, si l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3), à trois ans;
-	- **a.1)** dans le cas de substances inscrites à l’annexe II, à l’exception du cannabis (marihuana), un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure :
+	- **a.1)** dans le cas de substances inscrites à l’annexe II, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure :
 		- **(i)** à un an, si l’infraction est commise à des fins de trafic,
 		- **(ii)** à dix-huit mois, si l’infraction est commise à des fins de trafic dans l’une ou l’autre des circonstances prévues au paragraphe (3);
-	- **b)** dans le cas du cannabis (marihuana), un acte criminel passible d’un emprisonnement maximal de quatorze ans, la durée de l’emprisonnement ne pouvant être inférieure :
-		- **(i)** à six mois, si l’infraction est commise à des fins de trafic et que le nombre de plantes en cause est inférieur à 201 et supérieur à cinq,
-		- **(ii)** à neuf mois, si l’infraction est commise à des fins de trafic dans l’une ou l’autre des circonstances prévues au paragraphe (3) et que le nombre de plantes en cause est inférieur à 201 et supérieur à cinq,
-		- **(iii)** à un an, si le nombre de plantes en cause est supérieur à 200 mais inférieur à 501,
-		- **(iv)** à dix-huit mois, si le nombre de plantes en cause est supérieur à 200 mais inférieur à 501 et que l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3),
-		- **(v)** à deux ans, si le nombre de plantes en cause est supérieur à 500,
-		- **(vi)** à trois ans, si le nombre de plantes en cause est supérieur à 500 et que l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3);
+	- **b)** [Abrogé, 2018, ch. 16, art. 197]
 	- **c)** dans le cas de substances inscrites aux annexes III ou V :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
@@ -323,12 +313,12 @@ Y est assimilée l’offre de produire. (*produce*)
 
 **Circonstances**
 
-- **(3)** Les circonstances ci-après sont prises en considération pour l’application des alinéas (2)a) à b) :
+- **(3)** Les circonstances ci-après sont prises en considération pour l’application des alinéas (2)a) et a.1) :
 	- **a)** la personne a utilisé des biens immeubles appartenant à autrui lors de la perpétration de l’infraction;
 	- **b)** la production a créé un risque d’atteinte à la santé ou à la sécurité de personnes de moins de dix-huit ans présentes dans le lieu où l’infraction a été commise ou à proximité;
 	- **c)** la production a créé un risque d’atteinte à la sécurité publique dans un secteur résidentiel;
 	- **d)** la personne a mis, dans le lieu où l’infraction a été commise ou à proximité, des trappes, appareils ou autres choses susceptibles de causer la mort ou des lésions corporelles à autrui ou a permis que de telles choses y soient mises ou y demeurent.
-> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41; 2017, ch. 7, art. 5.
+> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41; 2017, ch. 7, art. 5; 2018, ch. 16, art. 197.
 
 
 
@@ -407,7 +397,7 @@ Y est assimilée l’offre de produire. (*produce*)
 		- **(ii)** soit a eu recours ou a menacé de recourir à la violence,
 		- **(iii)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III, IV ou V — ou l’a eue en sa possession en vue d’en faire le trafic — à l’intérieur d’une école ou près de celle-ci, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieu public normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
 		- **(iv)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III, IV ou V — ou l’a eue en sa possession en vue d’en faire le trafic — auprès d’une personne de moins de dix-huit ans;
-	- **b)** a déjà été condamnée pour une infraction désignée;
+	- **b)** a déjà été reconnue coupable d’une infraction désignée au sens du paragraphe 2(1) de la présente loi ou d’une infraction désignée au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
 	- **c)** a eu recours aux services d’une personne de moins de dix-huit ans pour la perpétration de l’infraction ou l’y a mêlée.
 
 **Motifs du tribunal**
@@ -423,7 +413,7 @@ Y est assimilée l’offre de produire. (*produce*)
 **Peine minimale**
 
 - **(5)** Le tribunal n’est pas tenu d’infliger une peine minimale d’emprisonnement à la personne qui termine avec succès un programme visé au paragraphe (4).
-> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43; 2017, ch. 7, art. 7.
+> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43; 2017, ch. 7, art. 7; 2018, ch. 16, art. 198.
 
 
 
@@ -1751,10 +1741,10 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
-**Pouvoir**
+**Pouvoir de modifier les annexes**
 
-**60** Le gouverneur en conseil peut, par décret, modifier l’une ou l’autre des annexes I à IV et VI à IX pour y ajouter ou en supprimer tout ou partie d’un article dont l’adjonction ou la suppression lui paraît nécessaire dans l’intérêt public.
-> 1996, ch. 19, art. 60; 2017, ch. 7, art. 45.
+**60** Le gouverneur en conseil peut, par décret, modifier l’une ou l’autre des annexes I à IV, VI et IX pour y ajouter ou en supprimer tout ou partie d’un article dont l’adjonction ou la suppression lui paraît nécessaire dans l’intérêt public.
+> 1996, ch. 19, art. 60; 2017, ch. 7, art. 45; 2018, ch. 16, art. 203 et 206.
 
 
 
@@ -2064,18 +2054,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 ### **ANNEXE II** 
 **(articles 2, 4 à 7.1, 10, 29, 55 et 60)**
-- **1** Chanvre indien (Cannabis), ainsi que ses préparations et dérivés, notamment :
-- **(1)** résine de cannabis
-- **(2)** cannabis (marihuana)
-- **(3)** cannabidiol ([méthyl–3 (méthyl–1 éthenyl)–6 (cyclohexènyl–1)–2]–2 pentyl–5 benzènediol–1,3)
-- **(4)** cannabinol (n–amyl–3 hydroxy–1 triméthyl–6,6,9 6H–dibenzopyranne)
-- **(5) et (6)** [Abrogés, DORS/2015-192, art. 1]
-- **(7)** tétrahydrocannabinol (tétrahydro hydroxy–1 triméthyl–6,6,9 pentyl–3 6H–dibenzo[b,d]pyranne)
-- **(7.1)** [Abrogé, DORS/2015-192, art. 1]
-- mais non compris :
-- **(8)** graines de cannabis stériles — à l’exception des dérivés de ces graines
-- **(9)** tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
-- **2** Agonistes de synthèse des récepteurs cannabinoïdes de type 1, leurs sels, leurs dérivés et leurs isomères ainsi que les sels de leurs dérivés et isomères — à l’exclusion de ((3S)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-3) et ses sels —, notamment ceux qui entrent dans les catégories de structure chimique de base suivantes :
+- **1** [Abrogé, 2018, ch. 16, art. 204]
+- **2** Agonistes de synthèse des récepteurs cannabinoïdes de type 1, leurs sels, leurs dérivés et leurs isomères ainsi que les sels de leurs dérivés et isomères — à l’exclusion de toute substance identique à un phytocannabinoïde et de ((3S)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-3) et ses sels —, notamment ceux qui entrent dans les catégories de structure chimique de base suivantes :
 - **(1)** toute substance ayant une structure 2-(cyclohexyl)phénol substituée en position 1 du cycle benzénique par un groupe hydroxy, éther ou ester et substituée davantage en position 5 du cycle benzénique, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, et substituée en position 3’ du cycle cyclohexyle par un alkyle, un carbonyle, un hydroxyle, un éther ou un ester, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, notamment :
 - **(i)** nabilone ((±)-trans-3-(1,1-diméthylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-diméthyl-9H-dibenzo[b,d]pyran-9-one)
 - **(ii)** parahexyl (3-hexyl-6,6,9-triméthyl-7,8,9,10-tétrahydro-6H-dibenzo[b,d]pyran-1-ol)
@@ -2121,7 +2101,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(9)** toute substance ayant une structure 3-carboxamideindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192; 2017, ch. 7, art. 47.
+> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192; 2017, ch. 7, art. 47; 2018, ch. 16, art. 204.
 
 
 
@@ -2426,43 +2406,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 ### **ANNEXE VII** 
-**(articles 5 et 60)**
-<table>
-<tr>
-<th>Substance</th>
-<th>Quantité</th>
-</tr>
-<tr>
-<td>1 Résine de cannabis</td>
-<td>3 kg</td>
-</tr>
-<tr>
-<td>2 Cannabis (marihuana)</td>
-<td>3 kg</td>
-</tr>
-</table>
+[Abrogée, 2018, ch. 16, art. 205]
 
 
 
 
 ### **ANNEXE VIII** 
-**(articles 4 et 60)**
-<table>
-<tr>
-<th>Substance</th>
-<th>Quantité</th>
-</tr>
-<tr>
-<td>1 Résine de cannabis</td>
-<td>1 g</td>
-</tr>
-<tr>
-<td>2 Cannabis (marihuana)</td>
-<td>30 g</td>
-</tr>
-</table>
-
-> 1996, ch. 19, ann. VIII; DORS/97-230, art. 16.
+[Abrogée, 2018, ch. 16, art. 205]
 
 
 
