@@ -4077,6 +4077,14 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **c)** article 7 (production).
 
 
-> 2002, ch. 1, ann.; 2014, ch. 25, art. 43.
+**5** Une infraction prévue par l’une des dispositions suivantes de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md) :
+- **a)** article 9 (distribution et possession en vue de la distribution);
+- **b)** article 10 (vente et possession en vue de la vente);
+- **c)** article 11 (importation et exportation et possession en vue de l’exportation);
+- **d)** article 12 (production);
+- **e)** article 14 (assistance d’un jeune).
+
+
+> 2002, ch. 1, ann.; 2014, ch. 25, art. 43; 2018, ch. 16, art. 184.
 
 
