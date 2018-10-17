@@ -25,7 +25,9 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***employé*** Personne au service d’un employeur. (*employee*)
+***cannabis*** S’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*cannabis*)
+
+***fumer*** Fumer un produit à base de tabac ou du cannabis ou avoir par-devers soi un produit à base de tabac allumé ou du cannabis allumé ou vapoter au moyen d’un produit de vapotage. (*smoke*)
 
 ***employeur*** Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou, selon le cas :
 - **a)** le Conseil du Trésor, pour ce qui est des fonctionnaires appartenant à un secteur de l’administration publique fédérale spécifié aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
@@ -44,7 +46,7 @@
 ***produit à base de tabac*** Produit fabriqué à partir du tabac et destiné à être fumé. (*tobacco product*)
 
 ***produit de vapotage*** S’entend, à la fois :
-- **a)** du dispositif destiné à être utilisé pour simuler l’acte de fumer un produit à base de tabac et émettant un aérosol destiné à être inhalé, notamment une cigarette électronique, un cigare électronique et une pipe électronique;
+- **a)** du dispositif destiné à être utilisé pour simuler l’acte de fumer un produit à base de tabac ou du cannabis et émettant un aérosol destiné à être inhalé, notamment une cigarette électronique, un cigare électronique et une pipe électronique;
 - **b)** du dispositif que les règlements désignent comme un produit de vapotage. (*vaping product*)
 
 ***usage du tabac***[Abrogée, 2018, ch. 9, art. 82]
@@ -62,7 +64,7 @@
 **Non-application aux trains de banlieue**
 
 - **(4)** La présente loi ne s’applique pas aux lieux de travail situés à bord des trains de banlieue exploités par ou pour un gouvernement ou un organisme public provincial.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202; 2015, ch. 36, art. 143; 2017, ch. 20, art. 178; 2018, ch. 9, art. 82.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25; 2006, ch. 9, art. 19; 2013, ch. 40, art. 202; 2015, ch. 36, art. 143; 2017, ch. 20, art. 178; 2018, ch. 9, art. 82, ch. 16, art. 162 et 189.
 
 
 
@@ -151,8 +153,8 @@
 
 **Autres règles de droit**
 
-**6** Les articles 4 et 5 ne font pas obstacle à l’application des dispositions d’autres lois fédérales ou de leurs règlements, ou de toute autre règle de droit, relatives à la protection contre la fumée du tabac ou les émissions des produits de vapotage.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 6; 1989, ch. 7, art. 1; 2018, ch. 9, art. 83.
+**6** Les articles 4 et 5 ne font pas obstacle à l’application des dispositions d’autres lois fédérales ou de leurs règlements, ou de toute autre règle de droit, relatives à la protection contre la fumée du tabac ou du cannabis ou les émissions des produits de vapotage.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 6; 1989, ch. 7, art. 1; 2018, ch. 9, art. 83, ch. 16, art. 163 et 189.
 
 
 
@@ -162,13 +164,14 @@
 
 **7** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** déterminer les dimensions, le nombre, la surface proportionnelle, l’emplacement, l’utilisation, les critères quantitatifs d’occupation et les autres caractéristiques des fumoirs ou zones fumeurs visés au paragraphe 3(2);
 	- **a.1)** désigner tout dispositif comme étant un produit de vapotage pour l’application de la définition de ce terme;
 	- **b)** déterminer les critères relatifs au système de ventilation des fumoirs;
+	- **b.1)** désigner des espaces extérieurs, ou catégories d’espaces extérieurs, pour l’application de la définition de lieu de travail;
 	- **c)** permettre la désignation de fumoirs ou zones fumeurs à bord d’aéronefs, de trains, de véhicules automobiles ou de navires, soit de façon générale, soit pour des trajets ou des catégories de liaisons déterminés, et prévoir, sous réserve du paragraphe 5(2), la proportion maximale des places d’une même classe susceptibles d’être comprises dans des fumoirs ou zones fumeurs;
 	- **d)** prévoir, soit de façon générale, soit pour des trajets ou des catégories de liaisons déterminés, la proportion maximale de vols ou mouvements par des aéronefs, des trains, des véhicules automobiles ou des navires transportant des passagers à titre onéreux et susceptibles de comporter des fumoirs ou zones fumeurs pendant des périodes déterminées;
-	- **e)** fixer, soit de façon générale, soit pour des trajets ou des catégories de liaisons déterminés :
+	- **e)** fixer, soit de façon générale, soit pour des trajets ou des catégories de liaisons déterminés :
 		- **(i)** la durée supérieure prévue à l’alinéa 5(1)a),
 		- **(ii)** la durée minimale des vols, visés aux alinéas 5(1)b) ou c) ou sans passagers, susceptibles de comporter des zones fumeurs;
 	- **f)** prévoir l’obligation pour l’employeur d’informer les employés et le public de l’interdiction de fumer prévue à l’article 4 et de l’emplacement des fumoirs ou zones fumeurs, ainsi que fixer les modalités de cette information;
@@ -177,7 +180,7 @@
 **Champ d’application**
 
 - **(2)** Les règlements pris en vertu du présent article peuvent s’appliquer à l’ensemble des employeurs ou des lieux de travail, ou à toute catégorie d’entre eux.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 7; 1989, ch. 7, art. 1; 2018, ch. 9, art. 84.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 7; 1989, ch. 7, art. 1; 2018, ch. 9, art. 84, ch. 16, art. 163.1.
 
 
 
