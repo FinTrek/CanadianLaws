@@ -75,6 +75,8 @@
 
 ***Canada***[Abrogée, 1996, ch. 31, art. 73]
 
+***cannabis*** S’entend au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md). (*cannabis*)
+
 ***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4)b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange. (*Certificate of Origin*)
 
 ***Chili*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Chile*)
@@ -179,6 +181,8 @@
 
 ***président*** Le président de l’Agence, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md). (*President*)
 
+***produit du cannabis*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*cannabis product*)
+
 ***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*tobacco product*)
 
 ***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi. (*regulation*)
@@ -277,7 +281,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115, ch. 16, art. 169.
 
 
 
@@ -4636,13 +4640,13 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 - **(1)** Pour l’application du présent article, ***marchandises désignées*** s’entend notamment des armes à feu, des armes, des munitions et des autres marchandises classées dans le Chapitre 93 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou dans le n<sup>o</sup> tarifaire 9898.00.00 de cette liste.
 
-**Infraction liée à des produits du tabac ou à des marchandises désignées**
+**Infraction liée au tabac, au cannabis ou à des marchandises désignées**
 
 - **(2)** Est passible d’une pénalité quiconque :
-	- **a)** soit enlève ou fait enlever, contrairement à la présente loi, au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou à leurs règlements d’application, des produits du tabac ou des marchandises désignées d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes;
+	- **a)** soit enlève ou fait enlever, contrairement à la présente loi, au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou à leurs règlements d’application, des produits du tabac, des produits du cannabis ou des marchandises désignées d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes;
 	- **b)** soit vend ou utilise, contrairement à la présente loi, au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou à leurs règlements d’application, des produits du tabac ou des marchandises désignées désignés comme provisions de bord.
 Cette pénalité est égale soit au double du total des droits qui seraient payables sur des produits ou marchandises semblables dédouanés dans des conditions semblables au taux applicable à des produits ou marchandises semblables au moment de l’établissement de la pénalité, soit à un montant inférieur que le ministre peut fixer.
-> 1993, ch. 25, art. 80; 1995, ch. 41, art. 29; 1997, ch. 36, art. 184.
+> 1993, ch. 25, art. 80; 1995, ch. 41, art. 29; 1997, ch. 36, art. 184; 2018, ch. 12, art. 116.
 
 
 
@@ -4839,8 +4843,8 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 **Pas de restitution**
 
-- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le tabac en feuilles, les timbres d’accise et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137; 2010, ch. 12, art. 50.
+- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le cannabis, le tabac en feuilles, les timbres d’accise et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137; 2010, ch. 12, art. 50; 2018, ch. 16, art. 170.
 
 
 
