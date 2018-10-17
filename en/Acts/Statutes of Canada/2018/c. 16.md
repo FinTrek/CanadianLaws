@@ -2868,9 +2868,11 @@ The property must not be disposed of or otherwise dealt with until the expiry of
 
 
 
-**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
 
-**147** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee fixed under subsection 142(1).
+**147** The [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to a fee fixed under subsection 142(1).
+> 2018, c. 16, ss. 147, 192.
+
 
 
 
