@@ -2827,9 +2827,11 @@ En tout état de cause, il ne peut être disposé des biens qu’après le trent
 
 
 
-**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
 
-**147** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux prix fixés en vertu du paragraphe 142(1).
+**147** La [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux prix fixés en vertu du paragraphe 142(1).
+> 2018, ch. 16, art. 147 et 192.
+
 
 
 
