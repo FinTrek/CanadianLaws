@@ -25,6 +25,8 @@
 
 - **(1)** In this Act,
 
+***cannabis*** has the same meaning as in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); (*cannabis*) 
+
 ***designated smoking area*** means an area, other than an enclosed room, that is designated for smoking under subsection 3(2); (*zone fumeurs*)
 
 ***designated smoking room*** means an enclosed room that is designated for smoking under subsection 3(2); (*fumoir*)
@@ -39,12 +41,12 @@
 
 ***inspector*** means a person who is designated as an inspector under section 9; (*inspecteur*)
 
-***smoke*** means to smoke, hold or otherwise have control over an ignited tobacco product or to vape using a vaping product; (*fumer*)
+***smoke*** means to smoke, hold or otherwise have control over an ignited tobacco product or ignited cannabis or to vape using a vaping product; (*fumer*) 
 
 ***tobacco product*** means any product manufactured from tobacco and intended for use by smoking; (*produit à base de tabac*)
 
 ***vaping product*** means
-- **(a)** a device that is intended to be used to simulate the act of smoking a tobacco product and that emits an aerosol that is intended to be inhaled, including an electronic cigarette, an electronic cigar and an electronic pipe; and
+- **(a)** a device that is intended to be used to simulate the act of smoking a tobacco product or cannabis and that emits an aerosol that is intended to be inhaled, including an electronic cigarette, an electronic cigar and an electronic pipe; and
 - **(b)** a device that is designated to be a vaping product by the regulations; (*produit de vapotage*)
 
 ***work space*** means any indoor or other enclosed space in which employees perform the duties of their employment, and includes any adjacent corridor, lobby, stairwell, elevator, cafeteria, washroom or other common area frequented by such employees during the course of their employment. (*lieu de travail*)
@@ -60,7 +62,7 @@
 **Non-application to commuter trains**
 
 - **(4)** This Act does not apply in respect of a work space on a passenger train operated in commuter service by or for the account of the government of a province or an agency thereof.
-> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2001, c. 26, s. 312; 2003, c. 22, s. 176; 2004, c. 7, s. 25; 2006, c. 9, s. 19; 2013, c. 40, s. 202; 2015, c. 36, s. 143; 2017, c. 20, s. 178; 2018, c. 9, s. 82.
+> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2001, c. 26, s. 312; 2003, c. 22, s. 176; 2004, c. 7, s. 25; 2006, c. 9, s. 19; 2013, c. 40, s. 202; 2015, c. 36, s. 143; 2017, c. 20, s. 178; 2018, c. 9, s. 82, c. 16, ss. 162, 189.
 
 
 
@@ -149,8 +151,8 @@
 
 **Saving**
 
-**6** Nothing in section 4 or 5 affects the operation of any other Act of Parliament, any regulations made under any Act of Parliament, or any rule of law in relation to the protection of persons from exposure to tobacco smoke or any emission from a vaping product.
-> R.S., 1985, c. 15 (4th Supp.), s. 6; 1989, c. 7, s. 1; 2018, c. 9, s. 83.
+**6** Nothing in section 4 or 5 affects the operation of any other Act of Parliament, any regulations made under any Act of Parliament, or any rule of law in relation to the protection of persons from exposure to tobacco or cannabis smoke or any emission from a vaping product.
+> R.S., 1985, c. 15 (4th Supp.), s. 6; 1989, c. 7, s. 1; 2018, c. 9, s. 83, c. 16, ss. 163, 189.
 
 
 
@@ -164,6 +166,7 @@
 	- **(a)** respecting the size, number, proportionate floor space, location, use, number of occupants and other characteristics of rooms and areas that may be designated for smoking under subsection 3(2);
 	- **(a.1)** designating any device to be a vaping product for the purpose of the definition vaping product;
 	- **(b)** respecting the ventilation of designated smoking rooms;
+	- **(b.1)** designating outdoor spaces or classes of outdoor spaces for the purpose of the definition work space;
 	- **(c)** permitting the designation of the whole or any part of aircraft, trains, motor vehicles or ships as areas or rooms for smoking, either generally or on specified routes or in specified classes of service and, subject to subsection 5(2), prescribing the maximum proportion of accommodation of any class thereon that may be designated for smoking;
 	- **(d)** respecting the maximum proportion of aircraft flights, train schedules, motor vehicle trips or ship voyages operated for hire or reward in passenger service in respect of which designated smoking areas or rooms may be provided during any specified travel period, either generally or on specified routes or in specified classes of service;
 	- **(e)** prescribing, either generally or in respect of specified routes or specified classes of service,
@@ -175,7 +178,7 @@
 **Application of regulations**
 
 - **(2)** Regulations made pursuant to this section may be made applicable to all employers or to a class of employer and in respect of all work spaces or a class of work space.
-> R.S., 1985, c. 15 (4th Supp.), s. 7; 1989, c. 7, s. 1; 2018, c. 9, s. 84.
+> R.S., 1985, c. 15 (4th Supp.), s. 7; 1989, c. 7, s. 1; 2018, c. 9, s. 84, c. 16, s. 163.1.
 
 
 
