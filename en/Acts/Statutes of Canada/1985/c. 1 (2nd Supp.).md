@@ -41,6 +41,10 @@
 
 ***Canada-United States Free Trade Agreement***[Repealed, 1997, c. 14, s. 35]
 
+***cannabis*** has the same meaning as in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md); (*cannabis*)
+
+***cannabis product*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md); (*produit du cannabis*)
+
 ***carrier code*** means the unique identification number issued by the Minister either under subsection 12.1(4) or before the coming into force of that subsection; (*code de transporteur*)
 
 ***CCFTA*** has the same meaning as Agreement in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); (*ALÉCC*)
@@ -277,7 +281,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115, c. 16, s. 169.
 
 
 
@@ -4648,13 +4652,13 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 - **(1)** In this section, ***designated goods*** includes firearms, weapons, ammunition and any other goods classified under Chapter 93 of the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or under tariff item No. 9898.00.00 of that List.
 
-**Contravention relating to tobacco products and designated goods**
+**Contravention relating to tobacco, cannabis and designated goods**
 
-- **(2)** Every person who
-	- **(a)** removes tobacco products or designated goods or causes tobacco products or designated goods to be removed from a customs office, sufferance warehouse, bonded warehouse or duty free shop in contravention of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the regulations made under those Acts, or
+- **(2)** Every person that
+	- **(a)** removes tobacco products, cannabis products or designated goods or causes tobacco products, cannabis products or designated goods to be removed from a customs office, sufferance warehouse, bonded warehouse or duty free shop in contravention of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the regulations made under those Acts, or
 	- **(b)** sells or uses tobacco products or designated goods designated as ships’ stores in contravention of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the regulations made under those Acts,
-is liable to a penalty equal to double the total of the duties that would be payable on like tobacco products or designated goods released in like condition at the rates of duties applicable to like tobacco products or designated goods at the time the penalty is assessed, or to such lesser amount as the Minister may direct.
-> 1993, c. 25, s. 80; 1995, c. 41, s. 29; 1997, c. 36, s. 184.
+is liable to a penalty equal to double the total of the duties that would be payable on like tobacco products, cannabis products or designated goods released in like condition at the rates of duties applicable to like tobacco products, cannabis products or designated goods at the time the penalty is assessed, or to such lesser amount as the Minister may direct.
+> 1993, c. 25, s. 80; 1995, c. 41, s. 29; 1997, c. 36, s. 184; 2018, c. 12, s. 116.
 
 
 
@@ -4852,8 +4856,8 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 **No return of certain goods**
 
-- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, raw leaf tobacco, excise stamps or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
-> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137; 2010, c. 12, s. 50.
+- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, cannabis, raw leaf tobacco, excise stamps or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
+> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137; 2010, c. 12, s. 50; 2018, c. 16, s. 170.
 
 
 
