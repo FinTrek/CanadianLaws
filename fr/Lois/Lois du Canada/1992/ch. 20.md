@@ -4902,7 +4902,7 @@ Il est alors autorisé à faire prêter serment.
 
 ### **ANNEXE II** 
 **(paragraphes 107(1), 129(1), (2) et (9), 130(3) et (4) et 156(3))**
-**1** Une infraction prévue par l’une des dispositions suivantes de la Loi sur les stupéfiants, dans leur version antérieure à la date d’entrée en vigueur de l’article 64 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), et poursuivie par mise en accusation :
+**1** Une infraction prévue par l’une des dispositions suivantes de la Loi sur les stupéfiants, dans leur version antérieure à la date d’entrée en vigueur de l’article 64 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), et poursuivie par mise en accusation :
 - **a)** article 4 (trafic de stupéfiant);
 - **b)** article 5 (importation et exportation);
 - **c)** article 6 (culture);
@@ -4910,7 +4910,7 @@ Il est alors autorisé à faire prêter serment.
 - **e)** article 19.2 (recyclage des produits de la criminalité).
 
 
-**2** Une infraction prévue par l’une des dispositions suivantes de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure à la date d’entrée en vigueur de l’article 64 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), et poursuivie par mise en accusation :
+**2** Une infraction prévue par l’une des dispositions suivantes de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure à la date d’entrée en vigueur de l’article 64 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), et poursuivie par mise en accusation :
 - **a)** article 39 (trafic des drogues contrôlées);
 - **b)** article 44.2 (possession de biens obtenus par la perpétration d’une infraction);
 - **c)** article 44.3 (recyclage des produits de la criminalité);
@@ -4919,16 +4919,25 @@ Il est alors autorisé à faire prêter serment.
 - **f)** article 50.3 (recyclage des produits de la criminalité).
 
 
-**3** Une infraction prévue par l’une des dispositions suivantes de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), et poursuivie par mise en accusation :
+**3** Une infraction prévue par l’une des dispositions suivantes de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), et poursuivie par mise en accusation :
 - **a)** article 5 (trafic);
 - **b)** article 6 (importation et exportation);
 - **c)** article 7 (production).
 - **d)** et e) [Abrogés, 2001, ch. 32, art. 57]
 
 
-**4** L’infraction de complot prévue à l’alinéa 465(1)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), en vue de commettre une des infractions mentionnées aux articles 1 à 3 de la présente annexe, et poursuivie par mise en accusation.
+**4** Une infraction prévue par l’une des dispositions suivantes de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), et poursuivie par mise en accusation :
+- **a)** article 9 (distribution et possession en vue de la distribution);
+- **b)** article 10 (vente et possession en vue de la vente);
+- **c)** article 11 (importation et exportation et possession en vue de l’exportation);
+- **d)** article 12 (production);
+- **e)** article 13 (possession, etc., pour utilisation dans la production ou la distribution de cannabis illicite);
+- **f)** article14 (assistance d’un jeune).
 
 
-> 1992, ch. 20, ann. II; 1995, ch. 42, art. 68; 1996, ch. 19, art. 64; 2001, ch. 32, art. 57; 2011, ch. 11, art. 9
+**5** L’infraction de complot prévue à l’alinéa 465(1)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), en vue de commettre l’une des infractions mentionnées aux articles 1 à 4 de la présente annexe, et poursuivie par mise en accusation.
+
+
+> 1992, ch. 20, ann. II; 1995, ch. 42, art. 68; 1996, ch. 19, art. 64; 2001, ch. 32, art. 57; 2011, ch. 11, art. 9; 2018, ch. 16, art. 172
 
 
