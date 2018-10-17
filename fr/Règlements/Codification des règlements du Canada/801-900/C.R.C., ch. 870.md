@@ -27627,14 +27627,14 @@ VIOLET DE MANGANÈSE (C.I. n<sup>o</sup> 77742);
 
 **C.01.048** 
 
-- **(1)** Lorsqu’un médecin, un dentiste, un médecin-vétérinaire ou un pharmacien, dûment inscrit et autorisé à exercer sa profession dans une province, a signé une commande précisant la marque nominative, le nom propre ou le nom usuel et la quantité d’une drogue qui n’est pas :
-	- **a)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md),
-	- **b)** une drogue contrôlée au sens du paragraphe G.01.001(1), ni
-	- **c)** une drogue nouvelle pour laquelle l’avis de conformité prévu par l’article C.08.004 n’a pas été délivré,
-la personne qui reçoit la commande peut distribuer la drogue, à titre d’échantillon, audit médecin, dentiste, médecin-vétérinaire ou pharmacien, si la drogue est étiquetée conformément au présent règlement.
+- **(1)** La personne qui reçoit une commande signée par un médecin, un dentiste, un médecin-vétérinaire ou un pharmacien dûment inscrit et autorisé à exercer sa profession dans une province peut lui distribuer, sous forme d’échantillon, une drogue, autre que celles mentionnées ci-après, dont le nom propre ou le nom usuel, la marque nominative et la quantité sont précisés dans la commande, si la drogue est étiquetée conformément au présent règlement :
+	- **a)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md);
+	- **b)** une drogue contrôlée au sens du paragraphe G.01.001(1);
+	- **c)** une drogue nouvelle pour laquelle l’avis de conformité prévu par l’article C.08.004 n’a pas été délivré;
+	- **d)** une drogue sur ordonnance au sens du paragraphe 1(2) du [Règlement sur le cannabis](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/144.md).
 
 - **(2)** Une commande dont il est question au paragraphe (1) peut spécifier que ladite commande sera renouvelée à intervalles y indiqués pendant une période d’au plus six mois.
-> DORS/93-202, art. 9; DORS/97-228, art. 2.
+> DORS/93-202, art. 9; DORS/97-228, art. 2; DORS/2018-144, art. 366.
 
 
 
@@ -28442,7 +28442,8 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de
 ***grossiste*** Personne, autre qu’un distributeur visé à l’article C.01A.003, qui vend une ou plusieurs des drogues ci-après autrement qu’au détail :
 - **a)** toute drogue sous forme posologique visée aux annexes C ou D de la Loi, toute drogue qui est une drogue sur ordonnance ou toute drogue contrôlée au sens du paragraphe G.01.001(1);
 - **b)** un ingrédient actif;
-- **c)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md).
+- **c)** un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md);
+- **d)** une drogue contenant du cannabis au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md).
 
 L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
@@ -28482,7 +28483,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 	- **e)** la drogue utilisée uniquement pour une étude expérimentale menée conformément au certificat délivré en vertu de l’article C.08.015.
 
 - **(3)** Lorsque le ministre désigne d’autres classes de formes posologiques, il met la liste de ces classes à la disposition de quiconque en fait la demande.
-> DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2; DORS/2013-122, art. 14; DORS/2017-76, art. 7.
+> DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2; DORS/2013-122, art. 14; DORS/2017-76, art. 7; DORS/2018-144, art. 367.
 
 
 
@@ -28541,8 +28542,11 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 - **(2)** Une personne n’est pas tenue d’être titulaire d’une licence d’établissement pour effectuer les analyses exigées au titre 2 si elle est autorisée par une licence d’établissement à manufacturer, emballer-étiqueter, distribuer à titre de distributeur visé à l’alinéa C.01A.003b) ou importer une drogue.
 
-- **(3)** Il est interdit d’exercer une activité visée au paragraphe (1) à l’égard d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md) ou d’une drogue contrôlée au sens du paragraphe G.01.001(1) du présent règlement à moins d’être titulaire de la licence prévue pour ce stupéfiant ou cette drogue dans le règlement applicable.
-> DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4; DORS/2017-259, art. 13.
+- **(3)** Il est interdit d’exercer une activité visée au paragraphe (1), à moins d’être titulaire de l’une ou l’autre des licences suivantes :
+	- **a)** s’agissant d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md), la licence prévue pour ce stupéfiant dans ce même règlement;
+	- **b)** s’agissant d’une drogue contrôlée au sens du paragraphe G.01.001(1), la licence prévue pour cette drogue à la partie G;
+	- **c)** s’agissant d’une drogue contenant du cannabis au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), la licence prévue pour cette drogue afin d’exercer cette activité au titre du [Règlement sur le cannabis](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/144.md).
+> DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4; DORS/2017-259, art. 13; DORS/2018-144, art. 368.
 
 
 
@@ -28563,22 +28567,22 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 - **g)** l’adresse de chacun des bâtiments au Canada où le demandeur se propose de manufacturer, d’emballer-étiqueter, d’effectuer les analyses exigées au titre 2 ou d’entreposer des drogues, avec indication, pour chaque bâtiment, des activités et des catégories de drogues ainsi que, pour chaque catégorie de drogues, la classe de forme posologique, le cas échéant, et une mention indiquant s’il s’agit d’une drogue stérile;
 - **h)** l’adresse de chacun des bâtiments au Canada où seront conservés les dossiers;
 - **i)** pour tout bâtiment visé aux alinéas g) ou h), une mention indiquant s’il s’agit d’une maison d’habitation;
-- **j)** l’identification numérique, le cas échéant, ou le nom qui identifie clairement la drogue s’il s’agit :
-	- **(i)** d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md) ou d’une drogue contrôlée au sens du paragraphe G.01.001(1) du présent règlement, pour lequel la licence est demandée,
+- **j)** l’identification numérique, le cas échéant, ou le nom qui identifie clairement la drogue s’il s’agit :
+	- **(i)** d’un stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md), d’une drogue contrôlée au sens du paragraphe G.01.001(1) ou d’une drogue contenant du cannabis au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), pour lequel la licence est demandée,
 	- **(ii)** de toute autre drogue d’une catégorie visée par la demande, à moins que la licence ne vise les analyses effectuées conformément au titre 2, la distribution à titre de distributeur visé à l’alinéa C.01A.003a) ou la vente en gros;
 - **k)** la date de la dernière inspection des bâtiments visés à l’alinéa g), le cas échéant, effectuée aux termes de la Loi ou du présent règlement;
 - **l)** la preuve que les bâtiments, l’équipement et les méthodes et pratiques que le demandeur propose satisfont aux exigences applicables des titres 2 à 4;
 - **m)** dans le cas de l’importateur d’une drogue qui, dans un pays participant, est manufacturée, emballée-étiquetée ou analysée dans un bâtiment reconnu :
 	- **(i)** les nom et adresse de chaque manufacturier, emballeur-étiqueteur et analyste ainsi que l’adresse de chaque bâtiment où la drogue est manufacturée, emballée-étiquetée ou analysée, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que, pour chaque catégorie de drogues, la classe de forme posologique, le cas échéant, et une mention indiquant s’il s’agit d’une drogue stérile,
 	- **(ii)** à l’égard de chaque activité qui, dans un pays participant, est effectuée dans un bâtiment reconnu, le nom de l’autorité réglementaire désignée aux termes du paragraphe C.01A.019(1) à l’égard de cette activité pour cette drogue, qui reconnaît ce bâtiment comme satisfaisant à ses normes de bonnes pratiques de fabrication qui ont trait à cette activité pour cette drogue,
-	- **(iii)** à l’égard des autres activités, selon le cas :
+	- **(iii)** à l’égard des autres activités, selon le cas :
 		- **(A)** le certificat d’un inspecteur canadien indiquant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur ou de l’analyste satisfont aux exigences applicables des titres 2 à 4,
 		- **(B)** toute autre preuve établissant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur ou de l’analyste satisfont aux exigences applicables des titres 2 à 4;
 - **n)** dans le cas de tout autre importateur, les nom et adresse du manufacturier, de l’emballeur-étiqueteur et de l’analyste de qui il se propose d’importer la drogue, l’adresse de chaque bâtiment où elle sera manufacturée, emballée-étiquetée et analysée, avec indication, pour chaque bâtiment, de l’activité et de la catégorie de drogues ainsi que, pour chaque catégorie de drogues, la classe de forme posologique, le cas échéant, et une mention indiquant s’il s’agit d’une drogue stérile;
-- **o)** dans le cas de l’importateur visé à l’alinéa n), selon le cas :
+- **o)** dans le cas de l’importateur visé à l’alinéa n), selon le cas :
 	- **(i)** le certificat d’un inspecteur canadien indiquant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur et de l’analyste satisfont aux exigences applicables des titres 2 à 4,
 	- **(ii)** une autre preuve établissant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur et de l’analyste satisfont aux exigences applicables des titres 2 à 4.
-> DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2; DORS/2013-74, art. 5.
+> DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2; DORS/2013-74, art. 5; DORS/2018-144, art. 369.
 
 
 
@@ -28701,7 +28705,9 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 </tr>
 <tr>
 <td>6</td>
-<td>Drogue qui est une drogue sur ordonnance, drogue contrôlée au sens du paragraphe G.01.001(1), et stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md)</td>
+<td>Drogue qui est une drogue sur ordonnance, drogue contrôlée au sens du paragraphe G.01.001(1), stupéfiant au sens du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md), et drogue contenant du cannabis au sens du paragraphe 2(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md)
+
+</td>
 </tr>
 <tr>
 <td>7</td>
@@ -28709,7 +28715,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 </tr>
 </table>
 
-> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9; DORS/2017-259, art. 14.
+> DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9; DORS/2017-259, art. 14; DORS/2018-144, art. 370.
 
 
 
@@ -34457,93 +34463,93 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 - **(1)** Dans la présente partie,
 
-***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de drogues contrôlées. (*competent authority*)
+***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de drogues contrôlées. (*competent authority*)
 
 ***commande écrite***[Abrogée, DORS/85-550, art. 1]
 
-***commande verbale*** désigne une commande donnée de vive voix; (*verbal order*)
+***commande verbale*** désigne une commande donnée de vive voix; (*verbal order*)
 
-***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article G.02.003.2. (*licensed dealer*)
+***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article G.02.003.2. (*licensed dealer*)
 
-***drogue contrôlée*** Selon le cas :
+***drogue contrôlée*** Selon le cas :
 - **a)** toute drogue visée à l’annexe de la présente partie, y compris une préparation;
-- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute drogue visée à l’annexe de la présente partie, y compris une préparation, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération. (*controlled drug*)
+- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute drogue visée à l’annexe de la présente partie, y compris une préparation, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération. (*controlled drug*)
 
 ***hôpital***
 - **a)** Établissement qui fait l’objet d’un permis délivré par la province ou qui a été approuvé ou désigné par elle, en conformité avec ses lois, en vue d’assurer des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection;
-- **b)** établissement qui assure des soins de santé et qui appartient au gouvernement du Canada ou d’une province ou est exploité par lui; (*hospital*)
+- **b)** établissement qui assure des soins de santé et qui appartient au gouvernement du Canada ou d’une province ou est exploité par lui; (*hospital*)
 
-***implant agricole*** Produit qui est présenté sous une forme qui permet la libération lente d’un principe actif dans un délai donné et qui est destiné à être inséré sous la peau d’un animal producteur de denrées alimentaires aux fins de l’accroissement du gain pondéral et de l’indice de consommation. (*agricultural implant*)
+***implant agricole*** Produit qui est présenté sous une forme qui permet la libération lente d’un principe actif dans un délai donné et qui est destiné à être inséré sous la peau d’un animal producteur de denrées alimentaires aux fins de l’accroissement du gain pondéral et de l’indice de consommation. (*agricultural implant*)
 
-***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*nurse practitioner*)
+***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*nurse practitioner*)
 
 ***licence***[Abrogée, DORS/2004-238, art. 1]
 
-***nécessaire d’essai*** désigne un nécessaire
+***nécessaire d’essai*** désigne un nécessaire
 - **a)** contenant des réactifs, des substances-tampons ou les deux,
 - **b)** employé au cours d’une opération chimique ou analystique effectuée à des fins médicales, expérimentales, industrielles, éducatives ou scientifiques, et
-- **c)** dont le contenu n’est pas destiné à être administré à des humains; (*test kit*)
+- **c)** dont le contenu n’est pas destiné à être administré à des humains; (*test kit*)
 
-***nom propre*** désigne, à l’égard d’une drogue contrôlée, le nom en anglais ou en français
+***nom propre*** désigne, à l’égard d’une drogue contrôlée, le nom en anglais ou en français
 - **a)** attribué à la drogue dans l’article C.01.002,
 - **b)** figurant en caractères gras pour cette drogue dans les règlements et lorsque la drogue est distribuée sous une forme autre que celle qui est décrite à la partie C, le nom de la forme sous laquelle ladite drogue est distribuée, ou
-- **c)** attribué dans l’une des publications mentionnées à l’annexe B de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans le cas de drogues non visées aux alinéas a) ou b) de la présente définition. (*proper name*)
+- **c)** attribué dans l’une des publications mentionnées à l’annexe B de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans le cas de drogues non visées aux alinéas a) ou b) de la présente définition. (*proper name*)
 
-***nom usuel*** désigne, à l’égard d’une drogue contrôlée, le nom en anglais ou en français sous lequel ladite drogue contrôlée est généralement connue; (*common name*)
+***nom usuel*** désigne, à l’égard d’une drogue contrôlée, le nom en anglais ou en français sous lequel ladite drogue contrôlée est généralement connue; (*common name*)
 
-***obligation internationale*** Toute obligation relative à une drogue contrôlée prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (*international obligation*)
+***obligation internationale*** Toute obligation relative à une drogue contrôlée prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (*international obligation*)
 
-***ordonnance*** désigne une directive donnée par un praticien qu’une quantité déclarée d’une drogue contrôlée spécifiée soit dispensée à la personne nommée dans ladite ordonnance; (*prescription*)
+***ordonnance*** désigne une directive donnée par un praticien qu’une quantité déclarée d’une drogue contrôlée spécifiée soit dispensée à la personne nommée dans ladite ordonnance; (*prescription*)
 
-***permis*** désigne une autorisation délivrée en vertu de l’article G.02.008; (*permit*)
+***permis*** désigne une autorisation délivrée en vertu de l’article G.02.008; (*permit*)
 
-***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe G.02.001.2(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée. (*qualified person in charge*)
+***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe G.02.001.2(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée. (*qualified person in charge*)
 
 ***pharmacien***
 - **a)** désigne une personne inscrite et autorisée par les lois d’une province
 	- **(i)** à exercer la profession de pharmacien, et
 	- **(ii)** à exploiter ou diriger une pharmacie ou une officine, et qui exploite ou dirige une pharmacie ou une officine et exerce la profession de pharmacien en vertu desdites lois dans cette province, et
-- **b)** s’entend en outre, pour l’application des articles G.01.002, G.01.003, G.03.002 à G.03.008, G.03.014, G.03.015 et G.03.017 et des paragraphes G.05.003(3) et (4), d’une personne inscrite et autorisée en vertu des lois d’une province à exercer la pharmacie et qui exerce la pharmacie dans cette province. (*pharmacist*)
+- **b)** s’entend en outre, pour l’application des articles G.01.002, G.01.003, G.03.002 à G.03.008, G.03.014, G.03.015 et G.03.017 et des paragraphes G.05.003(3) et (4), d’une personne inscrite et autorisée en vertu des lois d’une province à exercer la pharmacie et qui exerce la pharmacie dans cette province. (*pharmacist*)
 
-***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*podiatrist*)
+***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*podiatrist*)
 
 ***praticien***[Abrogée, DORS/97-228, art. 7]
 
-***préparation*** désigne une drogue qui renferme une drogue contrôlée et un ou plusieurs ingrédients actifs de nature médicinale, en dose thérapeutique reconnue, autre qu’une drogue contrôlée; (*preparation*)
+***préparation*** désigne une drogue qui renferme une drogue contrôlée et un ou plusieurs ingrédients actifs de nature médicinale, en dose thérapeutique reconnue, autre qu’une drogue contrôlée; (*preparation*)
 
-***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*midwife*)
+***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*midwife*)
 
-***usage parentéral***, relativement à une drogue contrôlée, signifie l’administration au moyen d’une seringue ou d’une aiguille hypodermique ou autre instrument à travers ou dans la peau ou une muqueuse. (*parenteral use*)
+***usage parentéral***, relativement à une drogue contrôlée, signifie l’administration au moyen d’une seringue ou d’une aiguille hypodermique ou autre instrument à travers ou dans la peau ou une muqueuse. (*parenteral use*)
 
 - **(2)** Les définitions qui suivent s’appliquent à la présente partie et à la partie J.
 
-***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées (Exigences en matière de sécurité physique pour les substances désignées entreposées chez les distributeurs autorisés), publiée par le ministère, avec ses modifications successives. (*Security Directive*)
+***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées et les drogues contenant du cannabis, avec ses modifications successives, publiée par le gouvernement du Canada sur son site Web. (*Security Directive*)
 
-***emballage*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*package*)
+***emballage*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*package*)
 
-***étiquette*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*label*)
+***étiquette*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*label*)
 
-***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
+***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
 - **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated criminal offence*)
+- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated criminal offence*)
 
-***infraction désignée en matière de drogue*** S’entend de l’une des infractions suivantes :
+***infraction désignée en matière de drogue*** S’entend de l’une des infractions suivantes :
 - **a)** toute infraction prévue aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997;
 - **b)** toute infraction prévue aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, dans leur version antérieure au 14 mai 1997;
 - **c)** toute infraction prévue à la partie I de la Loi, à l’exception du paragraphe 4(1);
-- **d)** le complot ou la tentative de commettre une infraction visée aux alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated drug offence*)
+- **d)** le complot ou la tentative de commettre une infraction visée aux alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated drug offence*)
 
-***Loi*** La [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md). (*Act*)
+***Loi*** La [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md). (*Act*)
 
-***ministère*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*Department*)
+***ministère*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*Department*)
 
-***publicité*** ou ***annonce*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*advertisement*)
+***publicité*** ou ***annonce*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*advertisement*)
 
 - **(3)** Sauf indication contraire, les définitions figurant au paragraphe 2(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) s’appliquent à la présente partie et à la partie J.
-> DORS/78-220, art. 1; DORS/85-550, art. 1; DORS/86-91, art. 1; DORS/90-261, art. 1(F); DORS/92-386, art. 1; DORS/97-228, art. 7; DORS/97-515, art. 2; DORS/2003-135, art. 2; DORS/2004-238, art. 1; DORS/2012-230, art. 6.
+> DORS/78-220, art. 1; DORS/85-550, art. 1; DORS/86-91, art. 1; DORS/90-261, art. 1(F); DORS/92-386, art. 1; DORS/97-228, art. 7; DORS/97-515, art. 2; DORS/2003-135, art. 2; DORS/2004-238, art. 1; DORS/2012-230, art. 6; DORS/2018-147, art. 29.
 
 
 
