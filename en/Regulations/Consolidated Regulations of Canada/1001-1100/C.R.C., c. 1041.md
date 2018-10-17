@@ -30,11 +30,11 @@ Enabling authorities:
 
 ***advertisement*** means any representation by any means whatever for the purpose of promoting directly or indirectly the sale or disposal of a narcotic; (*annonce*)
 
-***cannabis*** means the substance set out in item 17 of the schedule; (*chanvre indien*)
+***cannabis***[Repealed, SOR/2018-147, s. 1]
 
-***cannabis medical document*** has the meaning assigned by the definition ***medical document*** in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*document médical concernant le chanvre indien*)
+***cannabis medical document***[Repealed, SOR/2018-147, s. 1]
 
-***cannabis oil*** has the same meaning as in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*huile de chanvre indien*)
+***cannabis oil***[Repealed, SOR/2018-147, s. 1]
 
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
@@ -55,17 +55,17 @@ Enabling authorities:
 
 ***diacetylmorphine (heroin)*** includes the salts of diacetylmorphine; (*diacétylmorphine (héroïne)*)
 
-***dried marihuana*** has the same meaning as in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*marihuana séchée*)
+***dried marihuana***[Repealed, SOR/2018-147, s. 1]
 
-***former Marihuana for Medical Purposes Regulations*** means the regulations made by Order in Council P.C. 2013-645 of June 6, 2013 and registered as SOR/2013-119; (*ancien Règlement sur la marihuana à des fins médicales*)
+***former Marihuana for Medical Purposes Regulations***[Repealed, SOR/2018-147, s. 1]
 
-***former Marihuana Medical Access Regulations*** means the regulations made by Order in Council P.C. 2001-1146 of June 14, 2001 and registered as SOR/2001-227; (*ancien Règlement sur l’accès à la marihuana à des fins médicales*).
+***former Marihuana Medical Access Regulations***[Repealed, SOR/2018-147, s. 1]
 
 ***former marihuana Regulations***[Repealed, SOR/2016-230, s. 261]
 
-***fresh marihuana*** has the same meaning as in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*marihuana fraîche*)
+***fresh marihuana***[Repealed, SOR/2018-147, s. 1]
 
-***health care practitioner*** has, except in section 59, the same meaning as in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*praticien de la santé*)
+***health care practitioner***[Repealed, SOR/2018-147, s. 1]
 
 ***hospital*** means a facility
 - **(a)** that is licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness, or
@@ -81,9 +81,9 @@ Enabling authorities:
 
 ***licensed dealer*** means the holder of a licence issued under section 9.2; (*distributeur autorisé*)
 
-***licensed producer*** has the same meaning as in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*producteur autorisé*)
+***licensed producer***[Repealed, SOR/2018-147, s. 1]
 
-***marihuana*** means the substance referred to as “Cannabis (marihuana)” in subitem 17(2) of the schedule; (*marihuana*)
+***marihuana***[Repealed, SOR/2018-147, s. 1]
 
 ***medical marihuana document***[Repealed, SOR/2016-230, s. 261]
 
@@ -119,7 +119,7 @@ Enabling authorities:
 
 ***qualified person in charge*** means the individual with the qualifications specified in subsection 8.3(2) who is responsible for supervising the activities carried out by a licensed dealer under their licence at the premises specified in the licence; (*personne qualifiée responsable*)
 
-***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances (Security Requirements for Licensed Dealers for the Storage of Controlled Substances) published by the Department, as amended from time to time; (*Directive en matière de sécurité*)
+***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances and Drugs Containing Cannabis, as amended from time to time and published by the Government of Canada on its website; (*Directive en matière de sécurité*)
 
 ***test kit*** means an apparatus
 - **(a)** that contains reagent systems or buffering agents or both,
@@ -140,7 +140,7 @@ Enabling authorities:
 - **(2)** Despite subitem 2(2) of the schedule, the following are not narcotics for the purposes of these Regulations:
 	- **(a)** a drug in dosage form, as defined in subsection C.01.005(3) of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), that contains cocaine (benzoylmethylecgonine) or any of its salts unless the drug has a drug identification number assigned to it under Division 1 of Part C of those Regulations, is authorized for sale under Division 5 of Part C of those Regulations or has been compounded by a pharmacist in accordance with or in anticipation of an authorization from a practitioner that a stated amount of the drug be dispensed for a person who is or will be named in the authorization; or
 	- **(b)** cocaine (benzoylmethylecgonine) or any of its salts, or any drug that is not in dosage form that contains such a substance, unless the cocaine, salt or drug is to be compounded by a pharmacist in accordance with or in anticipation of an authorization from a practitioner that a stated amount of the drug be dispensed for a person who is or will be named in the authorization.
-> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14; SOR/2013-119, s. 200; SOR/2013-172, s. 3; SOR/2015-132, s. 1; SOR/2016-230, ss. 261, 278; SOR/2016-239, s. 2.
+> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14; SOR/2013-119, s. 200; SOR/2013-172, s. 3; SOR/2015-132, s. 1; SOR/2016-230, ss. 261, 278; SOR/2016-239, s. 2; SOR/2018-147, s. 1.
 
 
 
@@ -164,9 +164,9 @@ Enabling authorities:
 	- **(c)** is a hospital employee or a practitioner in a hospital;
 	- **(d)** has obtained the narcotic for his or her own use
 		- **(i)** from a practitioner,
-		- **(ii)** pursuant to a prescription that is not issued or obtained in contravention of these Regulations,
-		- **(iii)** from a pharmacist pursuant to section 36, or
-		- **(iv)** pursuant to a cannabis medical document that is not provided or obtained in contravention of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md);
+		- **(ii)** pursuant to a prescription that is not issued or obtained in contravention of these Regulations, or
+		- **(iii)** from a pharmacist pursuant to section 36;
+		- **(iv)** [Repealed, SOR/2018-147, s. 2]
 	- **(e)** is a practitioner of medicine who received the narcotic pursuant to subsection 68(3) or (5) and his possession is for a purpose referred to in subsection 68(4) or (6);
 	- **(f)** is an agent or mandatary of a practitioner of medicine who received the narcotic pursuant to section 68(3) and his possession is for the purpose of complying with subsection 68(5);
 	- **(g)** is employed as an inspector, a member of the Royal Canadian Mounted Police, a police constable, peace officer or member of the technical or scientific staff of any department of the Government of Canada or of a province or university and such possession is for the purposes of and in connection with such employment;
@@ -180,7 +180,7 @@ Enabling authorities:
 	- **(b)** the possession of the narcotic is for the purpose of assisting that person in the enforcement or administration of an Act or regulation.
 
 - **(3)** [Repealed, SOR/2012-230, s. 15]
-> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15; SOR/2013-119, s. 202; SOR/2013-172, s. 4; SOR/2016-230, s. 263; SOR/2016-239, s. 3; SOR/2018-37, s. 1; SOR/2018-69, ss. 75, 76.
+> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15; SOR/2013-119, s. 202; SOR/2013-172, s. 4; SOR/2016-230, s. 263; SOR/2016-239, s. 3; SOR/2018-37, s. 1; SOR/2018-69, ss. 75, 76; SOR/2018-147, s. 2.
 
 
 
@@ -233,22 +233,22 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **8** 
 
-- **(1)** Subject to these Regulations and the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md), no person except a licensed dealer shall produce, make, assemble, import, export, sell, provide, transport, send or deliver a narcotic.
+- **(1)** Subject to these Regulations, no person except a licensed dealer shall produce, make, assemble, import, export, sell, provide, transport, send or deliver a narcotic.
 
 - **(2)** No licensed dealer shall import or export a narcotic without a permit.
 
-- **(3)** No licensed dealer shall cultivate, propagate or harvest marihuana other than for scientific purposes.
+- **(3)** [Repealed, SOR/2018-147, s. 3]
 
 - **(4)** [Repealed, SOR/2016-230, s. 264]
 
 - **(5)** No licensed dealer shall cultivate, propagate or harvest opium poppy other than for scientific purposes.
-> SOR/2004-237, s. 3; SOR/2013-119, s. 203; SOR/2016-123, s. 1; SOR/2016-230, ss. 264, 278.
+> SOR/2004-237, s. 3; SOR/2013-119, s. 203; SOR/2016-123, s. 1; SOR/2016-230, ss. 264, 278; SOR/2018-147, s. 3.
 
 
 
 
-**8.1** A licensed dealer is authorized to have a narcotic in their possession for the purpose of exporting the narcotic from Canada if they have obtained the narcotic in accordance with these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
-> SOR/97-514, s. 1; SOR/2013-119, s. 204; SOR/2016-230, s. 278.
+**8.1** A licensed dealer is authorized to have a narcotic in their possession for the purpose of exporting the narcotic from Canada if they have obtained the narcotic in accordance with these Regulations.
+> SOR/97-514, s. 1; SOR/2013-119, s. 204; SOR/2016-230, s. 278; SOR/2018-147, s. 4.
 
 
 
@@ -265,7 +265,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 **8.3** 
 
 - **(1)** A licensed dealer
-	- **(a)** shall designate one qualified person in charge, who may be the licensed dealer if the licensed dealer is an individual, who must work at the premises specified in the licence, have responsibility for supervising activities with respect to narcotics specified in the licence and for ensuring, on behalf of the licensed dealer, that those activities comply with these Regulations and the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); and
+	- **(a)** shall designate one qualified person in charge, who may be the licensed dealer if the licensed dealer is an individual, who must work at the premises specified in the licence, have responsibility for supervising activities with respect to narcotics specified in the licence and for ensuring, on behalf of the licensed dealer, that those activities comply with these Regulations; and
 	- **(b)** may designate an alternate qualified person in charge who must work at the premises specified in the licence and have authority to replace the qualified person in charge when that person is absent.
 
 - **(2)** The qualified person in charge and, if applicable, the alternate qualified person in charge
@@ -277,7 +277,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii).
-> SOR/2004-237, s. 4; SOR/2010-221, s. 2; SOR/2012-230, s. 16; SOR/2013-119, s. 205; SOR/2014-260, s. 26(F); SOR/2016-230, s. 278.
+> SOR/2004-237, s. 4; SOR/2010-221, s. 2; SOR/2012-230, s. 16; SOR/2013-119, s. 205; SOR/2014-260, s. 26(F); SOR/2016-230, s. 278; SOR/2018-147, s. 5.
 
 
 
@@ -391,7 +391,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(b)** an inspector who has requested an inspection has not been given the opportunity by the applicant to conduct an inspection under section 16;
 	- **(c)** false or misleading information or false or falsified documents were submitted in or with the application;
 	- **(d)** an activity for which the licence is requested would not be in compliance with an international obligation;
-	- **(d.1)** an activity for which the licence is requested is the cultivation, propagation or harvesting of marihuana other than for scientific purposes;
+	- **(d.1)** [Repealed, SOR/2018-147, s. 6]
 	- **(e)** information received from a competent authority or the United Nations raises a reasonable belief that the applicant has been involved in the diversion of a narcotic to an illicit market or use or has been involved in an activity that was not in compliance with an international obligation;
 	- **(f)** the applicant does not have in place the security measures set out in the Security Directive in respect of an activity for which the licence is requested;
 	- **(g)** the applicant is in contravention of or has contravened during the preceding 10 years,
@@ -407,8 +407,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not refuse to issue, renew or amend a licence under paragraph (1)(c) or (g) if the applicant
 	- **(a)** does not have a history of non-compliance with the Act or any regulation made or continued under it; and
-	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, these Regulations and the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md);
-> SOR/2004-237, s. 4; SOR/2010-221, ss. 5, 18(F); SOR/2013-119, s. 206; SOR/2016-230, ss. 265, 278.
+	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act and these Regulations.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 5, 18(F); SOR/2013-119, s. 206; SOR/2016-230, ss. 265, 278; SOR/2018-147, s. 6.
 
 
 
@@ -506,8 +506,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not revoke a dealer’s licence under paragraph (1)(a) or (b) if the licensed dealer
 	- **(a)** has no history of non-compliance with the Act and the regulations made or continued under it; and
-	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, these Regulations and the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
-> SOR/2004-237, s. 4; SOR/2010-221, ss. 7, 18(F); SOR/2013-119, s. 207; SOR/2014-260, ss. 26(F), 28(F); SOR/2016-230, s. 278.
+	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act and these Regulations.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 7, 18(F); SOR/2013-119, s. 207; SOR/2014-260, ss. 26(F), 28(F); SOR/2016-230, s. 278; SOR/2018-147, s. 7.
 
 
 
@@ -540,8 +540,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 
-**12** Every licence or permit issued under these Regulations is subject to the condition that the licensed dealer will comply with the provisions of these Regulations and the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
-> SOR/2013-119, s. 208; SOR/2016-230, s. 278.
+**12** Every licence or permit issued under these Regulations is subject to the condition that the licensed dealer will comply with the provisions of these Regulations.
+> SOR/2013-119, s. 208; SOR/2016-230, s. 278; SOR/2018-147, s. 8.
 
 
 
@@ -682,7 +682,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(2.1)** For the purpose of subsection (2), for greater certainty, a licensed dealer may sell or provide a narcotic to a midwife, nurse practitioner or podiatrist only if the midwife, nurse practitioner or podiatrist is permitted to prescribe or possess the narcotic, or to conduct an activity with it, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md).
 
-- **(2.2)** No licensed dealer shall sell or provide dried marihuana to any person referred to in paragraphs (2)(b) to (d).
+- **(2.2)** [Repealed, SOR/2018-147, s. 9]
 
 - **(3)** [Repealed, SOR/2018-37, s. 2]
 
@@ -694,8 +694,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(c.2)** a pharmacist; or
 	- **(d)** a person exempted under section 56 of the Act with respect to the possession of that narcotic for a scientific purpose.
 
-- **(5)** A licensed dealer may sell or provide cannabis to a licensed producer.
-> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18; SOR/2013-119, s. 209; SOR/2013-172, s. 5; SOR/2014-260, s. 22; SOR/2016-230, s. 266; SOR/2016-239, s. 4; SOR/2018-37, s. 2.
+- **(5)** [Repealed, SOR/2018-147, s. 9]
+> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18; SOR/2013-119, s. 209; SOR/2013-172, s. 5; SOR/2014-260, s. 22; SOR/2016-230, s. 266; SOR/2016-239, s. 4; SOR/2018-37, s. 2; SOR/2018-147, s. 9.
 
 
 
@@ -721,15 +721,15 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **27** 
 
-- **(1)** Subject to this section, a licensed dealer may, in accordance with the terms and conditions of their dealer’s licence, sell or provide a narcotic under subsection 24(2), (4) or (5) if the licensed dealer has, on the premises specified in the licence, received
+- **(1)** Subject to this section, a licensed dealer may, in accordance with the terms and conditions of their dealer’s licence, sell or provide a narcotic under subsections 24(2) or (4) if the licensed dealer has, on the premises specified in the licence, received
 	- **(a)** a written order,
 	- **(b)** an order sent through a computer from a remote input device, or
 	- **(c)** a verbal order for verbal prescription narcotics
 that specifies the name and quantity of the narcotic to be supplied.
 
-- **(2)** A licensed dealer who has received an order referred to in paragraph (1)(a) may sell or provide a narcotic under subsection 24(2), (4) or (5) if
+- **(2)** A licensed dealer who has received an order referred to in paragraph (1)(a) may sell or provide a narcotic under subsections 24(2) or (4) if
 	- **(a)** the order is signed and dated
-		- **(i)** if the narcotic is to be sold or provided to a person referred to in paragraph 24(2)(a), (b), (c) or (e) or 24(4)(a) or (d) or subsection 24(5), by that person, or
+		- **(i)** if the narcotic is to be sold or provided to a person referred to in paragraph 24(2)(a), (b), (c) or (e) or 24(4)(a) or (d), by that person, or
 		- **(ii)** if the narcotic is to be provided to a hospital employee or a practitioner in a hospital, by the pharmacist in charge of the dispensary of the hospital or by a practitioner authorized by the person in charge of the hospital to sign the order; and
 	- **(b)** the signature of the person referred to in paragraph (a), if unknown to the licensed dealer, has been verified.
 
@@ -764,7 +764,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(9)** If a licensed dealer has not obtained a receipt from a pharmacist or practitioner under subsection (8) within the time prescribed by that subsection, the licensed dealer shall not, until after obtaining the receipt, sell or provide a narcotic to the pharmacist or practitioner pursuant to any further
 	- **(a)** order sent through a computer from a remote input device referred to in paragraph (1)(b), or
 	- **(b)** verbal order referred to in paragraph (1)(c) from that pharmacist or practitioner who placed the order for which no receipt has been received.
-> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19; SOR/2013-119, s. 210; SOR/2013-172, s. 6; SOR/2014-260, ss. 23(E), 26(F); SOR/2016-239, s. 5; SOR/2018-37, s. 3.
+> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19; SOR/2013-119, s. 210; SOR/2013-172, s. 6; SOR/2014-260, ss. 23(E), 26(F); SOR/2016-239, s. 5; SOR/2018-37, s. 3; SOR/2018-147, s. 10.
 
 
 
@@ -783,11 +783,11 @@ that specifies the name and quantity of the narcotic to be supplied.
 ## Pharmacists
 
 
-**30** A pharmacist who receives a narcotic from a licensed dealer or fresh or dried marihuana or cannabis oil from a licensed producer shall immediately enter the following in a book, register or other record maintained for such purposes:
+**30** A pharmacist who receives a narcotic from a licensed dealer shall immediately enter the following in a book, register or other record maintained for such purposes:
 - **(a)** the name and quantity of the narcotic received;
 - **(b)** the date the narcotic was received; and
 - **(c)** the name and address of the person from whom the narcotic was received.
-> SOR/85-588, s. 8; SOR/2013-119, s. 211; SOR/2016-230, s. 267.
+> SOR/85-588, s. 8; SOR/2013-119, s. 211; SOR/2016-230, s. 267; SOR/2018-147, s. 11.
 
 
 
@@ -796,7 +796,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(1)** No pharmacist shall sell or provide narcotics except in accordance with this section and sections 34 to 36 and 45.
 
-- **(2)** A pharmacist may sell or provide a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to a person
+- **(2)** A pharmacist may sell or provide a narcotic to a person
 	- **(a)** if the person is exempted under section 56 of the Act with respect to the possession of that narcotic;
 	- **(b)** except in the case of diacetylmorphine (heroin), if the pharmacist has received a written order or prescription for the narcotic that is signed and dated by a practitioner and the signature of the practitioner, if not known to the pharmacist, has been verified by the pharmacist; or
 	- **(c)** in the case of diacetylmorphine (heroin), if the pharmacist has received a written order or prescription for the narcotic that is signed and dated by a practitioner of medicine or a nurse practitioner and the signature of the practitioner, if not known to the pharmacist, has been verified by the pharmacist.
@@ -809,8 +809,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(c)** a hospital employee; or
 	- **(d)** a practitioner.
 
-- **(4)** If authorized by the person in charge of the hospital, a pharmacist practising in a hospital may sell, provide or return fresh or dried marihuana or cannabis oil received from a licensed producer in accordance with subsection 65(2.1) or (3.1) or section 65.3.
-> SOR/81-361, s. 2; SOR/85-588, s. 9; SOR/99-124, s. 4; SOR/2004-237, s. 14; SOR/2012-230, s. 20; SOR/2013-119, s. 212; SOR/2014-51, s. 1; SOR/2016-230, s. 268; SOR/2018-37, s. 4.
+- **(4)** [Repealed, SOR/2018-147, s. 12]
+> SOR/81-361, s. 2; SOR/85-588, s. 9; SOR/99-124, s. 4; SOR/2004-237, s. 14; SOR/2012-230, s. 20; SOR/2013-119, s. 212; SOR/2014-51, s. 1; SOR/2016-230, s. 268; SOR/2018-37, s. 4; SOR/2018-147, s. 12.
 
 
 
@@ -955,19 +955,19 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**46** The Minister shall provide in writing any factual information about a pharmacist that has been obtained under the Act, these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md) to the provincial professional licensing authority responsible for the registration or authorization of the person to practise their profession
+**46** The Minister shall provide in writing any factual information about a pharmacist that has been obtained under the Act or these Regulations to the provincial professional licensing authority responsible for the registration or authorization of the person to practise their profession
 - **(a)** in the province in which the pharmacist is registered or entitled to practise if
 	- **(i)** the authority submits a written request that states the name and address of the pharmacist, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
 	- **(ii)** the Minister has reasonable grounds to believe that the pharmacist has
 		- **(A)** contravened a rule of conduct established by the authority,
-		- **(B)** been found guilty in a court of law of a designated drug offence or of a contravention of these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md), or
-		- **(C)** contravened a provision of these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); or
+		- **(B)** been found guilty in a court of law of a designated drug offence or of a contravention of these Regulations, or
+		- **(C)** contravened a provision of these Regulations; or
 - **(b)** in a province in which the pharmacist is not registered or entitled to practise, if the authority submits to the Minister
 	- **(i)** a written request for information that states
 		- **(A)** the name and address of the pharmacist, and
 		- **(B)** a description of the information being sought, and
 	- **(ii)** documentation that shows that the pharmacist has applied to that authority to practise in that province.
-> SOR/86-882, s. 1; SOR/2003-134, s. 4; SOR/2010-221, s. 17; SOR/2013-119, s. 214; SOR/2016-230, s. 278.
+> SOR/86-882, s. 1; SOR/2003-134, s. 4; SOR/2010-221, s. 17; SOR/2013-119, s. 214; SOR/2016-230, s. 278; SOR/2018-147, s. 13.
 
 
 
@@ -983,7 +983,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **48** 
 
-- **(1)** In the circumstances described in subsection (2), the Minister must issue a notice to the persons and authorities specified in subsection (3) advising them that licensed dealers, pharmacists practising in the notified pharmacies and licensed producers must not sell or provide to the pharmacist named in the notice one or more of the following:
+- **(1)** In the circumstances described in subsection (2), the Minister must issue a notice to the persons and authorities specified in subsection (3) advising them that licensed dealers and pharmacists practising in the notified pharmacies must not sell or provide to the pharmacist named in the notice one or more of the following:
 	- **(a)** a narcotic, other than a verbal prescription narcotic;
 	- **(b)** a verbal prescription narcotic, other than a preparation mentioned in section 36; or
 	- **(c)** a preparation mentioned in section 36.
@@ -991,11 +991,11 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(2)** The notice must be issued if the pharmacist named in the notice has
 	- **(a)** made a request to the Minister in accordance with section 47 to issue the notice;
 	- **(b)** contravened a rule of conduct established by the provincial professional licensing authority of the province in which the pharmacist is practising and that provincial professional licensing authority has requested the Minister in writing to issue the notice; or
-	- **(c)** been found guilty in a court of law of a designated drug offence or of an offence under these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
+	- **(c)** been found guilty in a court of law of a designated drug offence or of an offence under these Regulations.
 
 - **(3)** The notice must be issued to
 	- **(a)** all licensed dealers;
-	- **(a.1)** all licensed producers;
+	- **(a.1)** [Repealed, SOR/2018-147, s. 14]
 	- **(b)** all pharmacies within the province in which the pharmacist named in the notice is registered and practising;
 	- **(c)** the provincial professional licensing authority of the province in which the pharmacist named in the notice is registered or entitled to practise; and
 	- **(d)** any interested provincial professional licensing authority in another province that has made a request to the Minister to issue the notice.
@@ -1006,7 +1006,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(c)** has, on more than one occasion, self-administered a verbal prescription narcotic, other than a preparation mentioned in section 36, contrary to accepted pharmaceutical practice;
 	- **(d)** has, on more than one occasion, provided or administered a narcotic, other than a verbal prescription narcotic, to a person who is a spouse, common-law partner, parent or child of the pharmacist, including a child adopted in fact, contrary to accepted pharmaceutical practice;
 	- **(e)** has, on more than one occasion, provided or administered a verbal prescription narcotic, other than a preparation mentioned in section 36, to a person who is a spouse, common-law partner, parent or child of the pharmacist, including a child adopted in fact, contrary to accepted pharmaceutical practice; or
-	- **(f)** is unable to account for the quantity of narcotic for which the pharmacist was responsible under these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
+	- **(f)** is unable to account for the quantity of narcotic for which the pharmacist was responsible under these Regulations.
 
 - **(5)** In the circumstances described in subsection (4), the Minister must not issue the notice referred to in subsection (1) until the Minister has
 	- **(a)** consulted with the provincial professional licensing authority of the province in which the pharmacist to whom the notice relates is registered or entitled to practise;
@@ -1014,17 +1014,17 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(c)** considered
 		- **(i)** the compliance history of the pharmacist in respect of the Act and the regulations made or continued under it, and
 		- **(ii)** whether the actions of the pharmacist pose a significant security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use.
-> SOR/2003-134, s. 4; SOR/2010-221, ss. 17, 18(F); SOR/2013-119, s. 215; SOR/2016-230, s. 278.
+> SOR/2003-134, s. 4; SOR/2010-221, ss. 17, 18(F); SOR/2013-119, s. 215; SOR/2016-230, s. 278; SOR/2018-147, s. 14.
 
 
 
 
-**49** The Minister must provide the licensed dealers, licensed producers, pharmacies, and provincial professional licensing authorities who were issued a notice under subsection 48(1) with a notice of retraction of that notice if
+**49** The Minister must provide the licensed dealers, pharmacies and provincial professional licensing authorities who were issued a notice under subsection 48(1) with a notice of retraction of that notice if
 - **(a)** in the circumstance described in paragraph 48(2)(a), the requirements set out in subparagraphs (b)(i) and (ii) have been met and one year has elapsed since the notice was issued by the Minister; or
 - **(b)** in a circumstance described in any of paragraphs 48(2)(b) and (c) and (4)(a) to (f), the pharmacist named in the notice has
 	- **(i)** requested in writing that a retraction of the notice be issued, and
 	- **(ii)** provided a letter from the provincial professional licensing authority of the province, in which the pharmacist is registered or entitled to practise, in which the authority consents to the retraction of the notice.
-> SOR/2003-134, s. 4; SOR/2010-221, s. 17; SOR/2013-119, s. 216.
+> SOR/2003-134, s. 4; SOR/2010-221, s. 17; SOR/2013-119, s. 216; SOR/2018-147, s. 15.
 
 
 
@@ -1039,9 +1039,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **53** 
 
-- **(1)** No practitioner shall administer a narcotic to a person or animal, or prescribe, sell or provide a narcotic for a person or animal, except as authorized under this section or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
+- **(1)** No practitioner shall administer a narcotic to a person or animal, or prescribe, sell or provide a narcotic for a person or animal, except as authorized under this section.
 
-- **(2)** Subject to subsection 53(4), a practitioner may administer a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to a person or animal, or prescribe, sell or provide it for a person or animal, if
+- **(2)** Subject to subsection (4), a practitioner may administer a narcotic to a person or animal, or prescribe, sell or provide it for a person or animal, if
 	- **(a)** the person or animal is a patient under their professional treatment; and
 	- **(b)** the narcotic is required for the condition for which the person or animal is receiving treatment.
 
@@ -1049,22 +1049,20 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(4)** A practitioner of dentistry or veterinary medicine shall not administer diacetylmorphine (heroin) to an animal or to a person who is not an in-patient or out-patient of a hospital providing care or treatment to persons, and shall not prescribe, sell or provide diacetylmorphine (heroin) for an animal or such a person.
 
-- **(5)** A health care practitioner may administer fresh or dried marihuana or cannabis oil received from a licensed producer to a person or prescribe or transfer it for a person if
-	- **(a)** the person is a patient under their professional treatment; and
-	- **(b)** the substance is required for the condition for which the person is receiving treatment.
-> SOR/85-930, s. 7; SOR/99-124, s. 6; SOR/2001-227, s. 71; SOR/2004-237, s. 20; SOR/2012-230, s. 22; SOR/2013-119, s. 217; SOR/2013-172, s. 7; SOR/2016-230, ss. 269, 278; SOR/2016-239, s. 6; SOR/2018-37, s. 6.
+- **(5)** [Repealed, SOR/2018-147, s. 16]
+> SOR/85-930, s. 7; SOR/99-124, s. 6; SOR/2001-227, s. 71; SOR/2004-237, s. 20; SOR/2012-230, s. 22; SOR/2013-119, s. 217; SOR/2013-172, s. 7; SOR/2016-230, ss. 269, 278; SOR/2016-239, s. 6; SOR/2018-37, s. 6; SOR/2018-147, s. 16.
 
 
 
 
 **54** 
 
-- **(1)** A practitioner who sells or provides a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to a person for self-administration or for administration to an animal shall, whether or not the practitioner charges for the narcotic, keep a record showing the name and quantity of the narcotic sold or provided, the name and address of the person to whom it was sold or provided and the date on which it was sold or provided, if the quantity of the narcotic exceeds
+- **(1)** A practitioner who sells or provides a narcotic to a person for self-administration or for administration to an animal shall, whether or not the practitioner charges for the narcotic, keep a record showing the name and quantity of the narcotic sold or provided, the name and address of the person to whom it was sold or provided and the date on which it was sold or provided, if the quantity of the narcotic exceeds
 	- **(a)** three times the maximum daily dosage recommended by the producer, maker or assembler of the narcotic for that narcotic; or
 	- **(b)** three times the generally recognized maximum daily therapeutic dosage for the narcotic if the producer, maker or assembler has not recommended a maximum daily dosage
 
 - **(2)** The practitioner shall keep the record in a place, form and manner that will permit an inspector readily to examine and obtain information from it.
-> SOR/2004-237, s. 21; SOR/2013-119, s. 218; SOR/2016-230, s. 270.
+> SOR/2004-237, s. 21; SOR/2013-119, s. 218; SOR/2016-230, s. 270; SOR/2018-147, s. 17.
 
 
 
@@ -1072,15 +1070,15 @@ that specifies the name and quantity of the narcotic to be supplied.
 **55** A practitioner shall
 - **(a)** furnish to the Minister any information that the Minister may require respecting
 	- **(i)** the use by the practitioner of narcotics received — including the administering, selling or providing of them to a person,
-	- **(ii)** the prescriptions for narcotics issued by the practitioner, and
-	- **(iii)** the cannabis medical documents provided by the health care practitioner;
+	- **(ii)** the prescriptions for narcotics issued by the practitioner; and
+	- **(iii)** [Repealed, SOR/2018-147, s. 18]
 - **(b)** produce to an inspector on request any records that these Regulations require the practitioner to keep;
 - **(c)** permit an inspector to make copies of such records or to take extracts therefrom;
 - **(d)** permit an inspector to check all stocks of narcotics on the practitioner’s premises;
 - **(e)** retain in his possession for at least two years any record that these Regulations require him to keep;
 - **(f)** take adequate steps to protect narcotics in his possession from loss or theft; and
 - **(g)** report to the Minister any loss or theft of a narcotic within 10 days of the practitioner’s discovery of the loss or theft.
-> SOR/2004-237, s. 22; SOR/2013-119, s. 219; SOR/2016-230, s. 271.
+> SOR/2004-237, s. 22; SOR/2013-119, s. 219; SOR/2016-230, s. 271; SOR/2018-147, s. 18.
 
 
 
@@ -1089,37 +1087,31 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**57** 
-
-- **(1)** The Minister must provide in writing factual information about a practitioner that has been obtained under the Act, these Regulations, the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md), the former [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md) or the former [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) to the provincial professional licensing authority that is responsible for the registration or authorization of persons to practise the profession
-	- **(a)** in a province in which the practitioner is, or was, registered or entitled to practise if
-		- **(i)** the authority submits to the Minister a written request that sets out the practitioner’s name and address, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
-		- **(ii)** the Minister has reasonable grounds to believe that the practitioner
-			- **(A)** has contravened a rule of conduct established by the authority,
-			- **(B)** has been found guilty in a court of law of a designated drug offence or of a contravention of these Regulations, the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md) or the former [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md), or
-			- **(C)** has contravened a provision of these Regulations, the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md) or the former [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md); or
-	- **(b)** in a province in which the practitioner is not registered or entitled to practise, if the authority submits to the Minister
-		- **(i)** a written request that sets out the practitioner’s name and address and a description of the information being sought, and
-		- **(ii)** either
-			- **(A)** documentation that shows that the practitioner has applied to that authority to practise in that province, or
-			- **(B)** documentation that shows that the authority has reasonable grounds to believe that the practitioner is practising in that province without being authorized to do so.
-
-- **(2)** The Minister is authorized to provide, in respect of a practitioner of medicine who made a medical declaration that formed the basis for the issuance of an authorization to possess under the former [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md), the following information to the provincial professional licensing authority that is responsible for the registration or authorization of persons to practise medicine in the province identified in the declaration as the province in which the practitioner is authorized to practise:
-	- **(a)** the practitioner’s name and address; and
-	- **(b)** the number assigned to their authorization to practise medicine.
-> SOR/86-882, s. 2; SOR/2003-134, s. 5; SOR/2010-221, s. 17; SOR/2013-119, s. 220; SOR/2015-132, s. 2; SOR/2016-230, s. 272.
+**57** The Minister must provide in writing factual information about a practitioner that has been obtained under the Act or these Regulations to the provincial professional licensing authority that is responsible for the registration or authorization of persons to practise the profession
+- **(a)** in a province in which the practitioner is, or was, registered or entitled to practise if
+	- **(i)** the authority submits to the Minister a written request that sets out the practitioner’s name and address, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
+	- **(ii)** the Minister has reasonable grounds to believe that the practitioner
+		- **(A)** has contravened a rule of conduct established by the authority,
+		- **(B)** has been found guilty in a court of law of a designated drug offence or of a contravention of these Regulations, or
+		- **(C)** has contravened a provision of these Regulations; or
+- **(b)** in a province in which the practitioner is not registered or entitled to practise, if the authority submits to the Minister
+	- **(i)** a written request that sets out the practitioner’s name and address and a description of the information being sought, and
+	- **(ii)** either
+		- **(A)** documentation that shows that the practitioner has applied to that authority to practise in that province, or
+		- **(B)** documentation that shows that the authority has reasonable grounds to believe that the practitioner is practising in that province without being authorized to do so.
+> SOR/86-882, s. 2; SOR/2003-134, s. 5; SOR/2010-221, s. 17; SOR/2013-119, s. 220; SOR/2015-132, s. 2; SOR/2016-230, s. 272; SOR/2018-147, s. 19.
 
 
 
 
-**58** A practitioner may make a written request to the Minister to send to licensed dealers, licensed producers and pharmacies a notice, issued under section 59, advising them of one or more of the following requirements:
+**58** A practitioner may make a written request to the Minister to send to licensed dealers and pharmacies a notice, issued under section 59, advising them of one or more of the following requirements:
 - **(a)** recipients of the notice must not sell or provide a narcotic, other than a verbal prescription narcotic, to that practitioner;
 - **(b)** recipients of the notice must not sell or provide a verbal prescription narcotic to the practitioner;
-- **(c)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a narcotic, other than a verbal prescription narcotic, written by that practitioner;
-- **(d)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a verbal prescription narcotic from that practitioner; or
-- **(e)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide fresh or dried marihuana or cannabis oil on the basis of a cannabis medical document provided by that practitioner.
+- **(c)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a narcotic, other than a verbal prescription narcotic, written by that practitioner; or
+- **(d)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a verbal prescription narcotic from that practitioner.
+- **(e)** [Repealed, SOR/2018-147, s. 20]
 - **(f) and (g)** [Repealed, SOR/2013-119, s. 221]
-> SOR/2003-134, s. 5; SOR/2013-119, s. 221; SOR/2016-230, s. 273.
+> SOR/2003-134, s. 5; SOR/2013-119, s. 221; SOR/2016-230, s. 273; SOR/2018-147, s. 20.
 
 
 
@@ -1127,20 +1119,20 @@ that specifies the name and quantity of the narcotic to be supplied.
 **59** 
 
 - **(1)** In the circumstances described in subsection (2), the Minister must issue a notice to the persons and authorities specified in subsection (3) advising them that
-	- **(a)** licensed dealers and pharmacists practising in the notified pharmacies must not sell or provide to the practitioner named in the notice a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both;
-	- **(a.1)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not ship fresh or dried marihuana or cannabis oil to that practitioner;
-	- **(b)** pharmacists practising in the notified pharmacies must not fill a prescription or order from the practitioner named in the notice for a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both; or
-	- **(c)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide fresh or dried marihuana or cannabis oil on the basis of a cannabis medical document provided by that practitioner.
+	- **(a)** licensed dealers and pharmacists practising in the notified pharmacies must not sell or provide to the practitioner named in the notice a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both; or
+	- **(a.1)** [Repealed, SOR/2018-147, s. 21]
+	- **(b)** pharmacists practising in the notified pharmacies must not fill a prescription or order from the practitioner named in the notice for a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both.
+	- **(c)** [Repealed, SOR/2018-147, s. 21]
 	- **(d) and (e)** [Repealed, SOR/2013-119, s. 222]
 
 - **(2)** The notice must be issued if the practitioner named in the notice has
 	- **(a)** made a request to the Minister in accordance with section 58 to issue the notice;
 	- **(b)** contravened a rule of conduct established by the provincial professional licensing authority of the province in which the practitioner is practising and that provincial professional licensing authority has requested the Minister in writing to issue the notice; or
-	- **(c)** been found guilty in a court of law of a designated drug offence or of an offence under these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
+	- **(c)** been found guilty in a court of law of a designated drug offence or of an offence under these Regulations.
 
 - **(3)** The notice must be issued to
 	- **(a)** all licensed dealers;
-	- **(a.1)** all licensed producers;
+	- **(a.1)** [Repealed, SOR/2018-147, s. 21]
 	- **(b)** all pharmacies within the province in which the practitioner named in the notice is registered and practising;
 	- **(c)** the provincial professional licensing authority of the province in which the practitioner named in the notice is registered or entitled to practise;
 	- **(d)** any interested provincial professional licensing authority in another province that has made a request to the Minister for the notice; and
@@ -1148,13 +1140,12 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(4)** Subject to subsection (5), the Minister may issue the notice described in subsection (1) to the persons and authorities specified in subsection (3), if the Minister, on reasonable grounds, believes that the practitioner named in the notice
 	- **(a)** has contravened any of the provisions of section 53, 54 or 55 or paragraphs 70(a) and (b);
-	- **(a.1)** has performed an activity referred to in section 7 of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md) in regard to a person who is not under their professional treatment;
-	- **(a.2)** has contravened section 8 or 9 of those Regulations;
+	- **(a.1) and (a.2)** [Repealed, SOR/2018-147, s. 21]
 	- **(b)** has, on more than one occasion, self-administered a narcotic, other than a verbal prescription narcotic, under a self-directed prescription or order or, in the absence of a prescription or order, contrary to accepted medical, dental or veterinary practice;
 	- **(c)** has, on more than one occasion, self-administered a verbal prescription narcotic under a self-directed prescription or order or, in the absence of a prescription or order, contrary to accepted medical, dental or veterinary practice;
 	- **(d)** has, on more than one occasion, prescribed, provided or administered a narcotic, other than a verbal prescription narcotic, to a person who is a spouse, common-law partner, parent or child of the practitioner, including a child adopted in fact, contrary to accepted medical, dental or veterinary practice;
 	- **(e)** has, on more than one occasion, prescribed, provided or administered a verbal prescription narcotic to a person who is a spouse, common-law partner, parent or child of the practitioner, including a child adopted in fact, contrary to accepted medical, dental or veterinary practice; or
-	- **(f)** is unable to account for the quantity of narcotic for which the practitioner was responsible under these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
+	- **(f)** is unable to account for the quantity of narcotic for which the practitioner was responsible under these Regulations.
 
 - **(5)** In the circumstances described in subsection (4), the Minister must not issue the notice referred to in subsection (1) until the Minister has
 	- **(a)** consulted with the provincial professional licensing authority of the province in which the practitioner to whom the notice relates is registered or entitled to practise;
@@ -1163,20 +1154,18 @@ that specifies the name and quantity of the narcotic to be supplied.
 		- **(i)** the compliance history of the practitioner in respect of the Act and the regulations made or continued under it, and
 		- **(ii)** whether the actions of the practitioner pose a significant security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use.
 
-- **(6)** In this section, ***health care practitioner*** means
-	- **(a)** a person who is registered and entitled under the laws of a province to practise medicine in that province; or
-	- **(b)** a nurse practitioner within the meaning of section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md) who is permitted to prescribe fresh or dried marihuana or cannabis oil in the province in which they practise.
-> SOR/2003-134, s. 5; SOR/2010-221, ss. 17, 18(F); SOR/2013-119, s. 222; SOR/2016-230, ss. 274, 278; SOR/2017-18, s. 25.
+- **(6)** [Repealed, SOR/2018-147, s. 21]
+> SOR/2003-134, s. 5; SOR/2010-221, ss. 17, 18(F); SOR/2013-119, s. 222; SOR/2016-230, ss. 274, 278; SOR/2017-18, s. 25; SOR/2018-147, s. 21.
 
 
 
 
-**60** The Minister must provide the licensed dealers, licensed producers, pharmacies and provincial professional licensing authorities who were issued a notice under subsection 59(1) with a notice of retraction of that notice if
+**60** The Minister must provide the licensed dealers, pharmacies and provincial professional licensing authorities who were issued a notice under subsection 59(1) with a notice of retraction of that notice if
 - **(a)** in the circumstance described in paragraph 59(2)(a), the requirements set out in subparagraphs (b)(i) and (ii) have been met and one year has elapsed since the notice was issued by the Minister; or
 - **(b)** in a circumstance described in any of paragraphs 59(2)(b) and (c) and (4)(a) to (f), the practitioner named in the notice has
 	- **(i)** requested in writing that a retraction of the notice be issued, and
 	- **(ii)** provided a letter from the provincial professional licensing authority of the province, in which the practitioner is registered or entitled to practise, in which the authority consents to the retraction of the notice.
-> SOR/85-588, s. 20(E); SOR/2003-134, s. 5; SOR/2010-221, s. 17; SOR/2013-119, s. 223.
+> SOR/85-588, s. 20(E); SOR/2003-134, s. 5; SOR/2010-221, s. 17; SOR/2013-119, s. 223; SOR/2018-147, s. 22.
 
 
 
@@ -1195,15 +1184,13 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(ii)** the name and address of the person from whom any narcotic was received and the date received,
 	- **(iii)** the name and quantity of any narcotic used in the making or assembling of a product or compound containing that narcotic,
 	- **(iv)** the name and quantity of any product or compound that was made or assembled and that contains that narcotic and the date on which the product or compound was made or assembled,
-	- **(v)** the name of the patient for whom a narcotic, other than dextropropoxyphene or a verbal prescription narcotic, was dispensed;
-	- **(vi)** the name of the practitioner ordering or prescribing a narcotic, other than dextropropoxyphene or a verbal prescription narcotic;
+	- **(v)** the name of the patient for whom a narcotic, other than dextropropoxyphene or a verbal prescription narcotic, was dispensed,
+	- **(vi)** the name of the practitioner ordering or prescribing a narcotic, other than dextropropoxyphene or a verbal prescription narcotic, and
 	- **(vii)** the date a narcotic, other than dextropropoxyphene or a verbal prescription narcotic was ordered or prescribed and the form and quantity thereof;
-	- **(viii)** the name of the health care practitioner providing a cannabis medical document, the date on which the document was signed and the daily quantity and period of use specified in it,
-	- **(ix)** details concerning the return of fresh or dried marihuana or cannabis oil under paragraph 65.3(a) — namely, the name of the substance, the quantity returned, the name and address of the licensed producer to whom it was returned and the date on which it was returned, and
-	- **(x)** details concerning the sale or provision of fresh or dried marihuana or cannabis oil for destruction under paragraph 65.3(b) or (c) — namely, the name of the substance, the quantity sold or provided, the name and address of the licensed producer or licensed dealer to whom it was sold or provided and the date on which it was sold or provided;
+	- **(viii) to (x)** [Repealed, SOR/2018-147, s. 23]
 - **(b)** maintain the recorded information in such form as to enable an audit to be made from time to time for a period of not less than two years from the making thereof;
 - **(c)** take all necessary steps to protect narcotics in the hospital against loss or theft, and report to the Minister any loss or theft of narcotics within 10 days of his discovery thereof.
-> SOR/82-1073, s. 2; SOR/85-588, s. 21(E); SOR/2004-237, s. 24; SOR/2013-119, s. 224; SOR/2016-230, s. 275.
+> SOR/82-1073, s. 2; SOR/85-588, s. 21(E); SOR/2004-237, s. 24; SOR/2013-119, s. 224; SOR/2016-230, s. 275; SOR/2018-147, s. 23.
 
 
 
@@ -1218,76 +1205,41 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **65** 
 
-- **(1)** No person in charge of a hospital shall permit a narcotic to be sold, provided or administered except in accordance with this section or section 65.3.
+- **(1)** No person in charge of a hospital shall permit a narcotic to be sold, provided or administered except in accordance with this section.
 
-- **(2)** On receipt of a prescription or a written order, signed and dated by a practitioner, the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer or diacetylmorphine (heroin) — to be administered to a person or an animal under treatment as an in-patient or out-patient of the hospital, or to be sold or provided for the person or to the person in charge of the animal.
+- **(2)** On receipt of a prescription or a written order, signed and dated by a practitioner, the person in charge of a hospital may permit a narcotic, other than diacetylmorphine (heroin), to be administered to a person or an animal under treatment as an in-patient or out-patient of the hospital, or to be sold or provided for the person or to the person in charge of the animal.
 
-- **(2.1)** On receipt of a prescription, a written order or a cannabis medical document, signed and dated by a health care practitioner, the person in charge of a hospital may permit fresh or dried marihuana or cannabis oil received from a licensed producer
-	- **(a)** to be administered to a person under treatment as an in-patient or out-patient of the hospital or to be sold or provided to that person; or
-	- **(b)** to be sold or provided to an individual who is responsible for that person.
+- **(2.1)** [Repealed, SOR/2018-147, s. 24]
 
-- **(3)** Subject to subsection (5.1), the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to be provided, for emergency purposes, to a hospital employee or practitioner in another hospital on receipt of a written order signed and dated by a pharmacist in the other hospital or a practitioner authorized by the person in charge of the other hospital to sign the order.
+- **(3)** Subject to subsection (5.1), the person in charge of a hospital may permit a narcotic to be provided, for emergency purposes, to a hospital employee or practitioner in another hospital on receipt of a written order signed and dated by a pharmacist in the other hospital or a practitioner authorized by the person in charge of the other hospital to sign the order.
 
-- **(3.1)** Subject to subsection (5.2), the person in charge of a hospital may permit fresh or dried marihuana or cannabis oil received from a licensed producer to be provided, for emergency purposes, to a hospital employee or health care practitioner in another hospital on receipt of a written order signed and dated by a pharmacist in the other hospital or a health care practitioner authorized by the person in charge of the other hospital to sign the order.
+- **(3.1)** [Repealed, SOR/2018-147, s. 24]
 
-- **(4)** Subject to subsection (5.1), the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to be sold or provided, for emergency purposes, to a pharmacist on receipt of a written order signed and dated by the pharmacist.
+- **(4)** Subject to subsection (5.1), the person in charge of a hospital may permit a narcotic to be sold or provided, for emergency purposes, to a pharmacist on receipt of a written order signed and dated by the pharmacist.
 
 - **(5)** [Repealed, SOR/2018-37, s. 7]
 
 - **(5.1)** No person in charge of a hospital shall permit a narcotic to be sold or provided under subsection (3) or (4) unless the signature of the pharmacist in the other hospital or of the practitioner authorized by the person in charge of the other hospital to sign an order is known to the person who sells or provides the narcotic or has been verified.
 
-- **(5.2)** No person in charge of a hospital shall permit fresh or dried marihuana or cannabis oil to be sold or provided under subsection (3.1) unless the signature of the pharmacist in the other hospital or of the health care practitioner authorized by the person in charge of the other hospital to sign an order is known to the person who sells or provides the substance or has been verified.
+- **(5.2)** [Repealed, SOR/2018-147, s. 24]
 
 - **(6)** A person in charge of a hospital may permit a narcotic to be provided to a person who is exempted under section 56 of the Act with respect to the narcotic and who is employed in a research laboratory in the hospital for the purpose of research.
 
 - **(7)** The person in charge of a hospital providing care or treatment to persons may permit diacetylmorphine (heroin) to be sold, provided or administered to a person under treatment as an in-patient or out-patient of the hospital on receipt of a prescription or a written order signed and dated by a practitioner of medicine or dentistry or a nurse practitioner.
-> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23; SOR/2013-119, s. 225; SOR/2013-172, s. 8; SOR/2014-51, s. 2; SOR/2016-230, s. 276; SOR/2016-239, s. 7; SOR/2018-37, s. 7.
+> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23; SOR/2013-119, s. 225; SOR/2013-172, s. 8; SOR/2014-51, s. 2; SOR/2016-230, s. 276; SOR/2016-239, s. 7; SOR/2018-37, s. 7; SOR/2018-147, s. 24.
 
 
 
 
-**65.1** 
-
-- **(1)** The person in charge of a hospital who permits fresh or dried marihuana or cannabis oil to be sold or provided under subsection 65(2.1) to an out-patient or an individual responsible for that patient shall ensure that, taking into account the dried marihuana equivalency factor determined under section 79 of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md),
-	- **(a)** in a 30-day period the total quantity of the substance that is sold or provided to that person does not exceed the equivalent of 30 times the daily quantity referred to in subparagraph 65.2(c)(iii); and
-	- **(b)** the quantity of the substance that is sold or provided to that person at any one time does not exceed the equivalent of 150 g of dried marihuana.
-
-- **(2)** For the purposes of subsection (1), ***30-day period*** means
-	- **(a)** the 30-day period beginning on the day on which a substance is first sold or provided to the out-patient or the individual responsible for that patient; and
-	- **(b)** every 30-day period after the period referred to in paragraph (a).
-
-- **(3)** For the purpose of applying subsection (2), the first 30-day period begins on the day on which a substance is first sold or provided to the out-patient or the individual responsible for that patient after the day on which that subsection comes into force, even if a substance was previously sold or provided to them.
-
-- **(4)** If the person to whom the substance is sold or provided as described in subsection (1) returns it to the hospital, the person in charge of the hospital may, subject to paragraph (1)(b), permit it to be replaced with an equal quantity of the substance.
-
-- **(5)** The quantity of the substance that is replaced under subsection (4) is to be excluded for the purpose of calculating the total quantity referred to in paragraph (1)(a).
-> SOR/2013-119, s. 226; SOR/2014-51, s. 3(E); SOR/2016-230, s. 277.
+**65.1** [Repealed, SOR/2018-147, s. 25]
 
 
 
-
-**65.2** The person in charge of a hospital who permits fresh or dried marihuana or cannabis oil to be sold or provided under subsection 65(2.1) to an out-patient or an individual responsible for that patient shall ensure that
-- **(a)** the substance is sold or provided in the immediate container in which it was sold or provided by a licensed producer to an employee of the hospital referred to in subparagraph 22(4)(a)(ii) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md);
-- **(b)** the immediate container bears the label required under section 84 of those Regulations;
-- **(c)** a separate label is affixed to the immediate container that contains the following information:
-	- **(i)** the given name, surname and profession of the health care practitioner who signed and dated the prescription, written order or cannabis medical document,
-	- **(ii)** the given name and surname of the patient,
-	- **(iii)** the daily quantity of dried marihuana, expressed in grams, that is authorized for the patient, as specified in the prescription, written order or cannabis medical document, and
-	- **(iv)** the date on which the substance was sold or provided;
-- **(d)** the label required under paragraph (c) does not cover any portion of the label referred to in paragraph (b);
-- **(e)** the patient is provided with a copy of the current version of the document entitled Consumer Information — Cannabis (Marihuana, marijuana), published by the Department of Health; and
-- **(f)** the patient is provided with a separate document containing the information referred to in paragraph (c).
-> SOR/2013-119, s. 226; SOR/2016-230, s. 277.
+**65.2** [Repealed, SOR/2018-147, s. 25]
 
 
 
-
-**65.3** The person in charge of a hospital may, on receiving a written order for fresh or dried marihuana or cannabis oil, permit it to be
-- **(a)** returned to the licensed producer who sold or provided it to them, if the order is signed and dated by the producer;
-- **(b)** sold or provided, for destruction, to a licensed producer who is authorized to destroy fresh or dried marihuana or cannabis oil that the producer did not produce, sell or provide, if the order is signed and dated by the producer; or
-- **(c)** sold or provided, for destruction, to a licensed dealer who is authorized to destroy it, if the order is signed and dated by the licensed dealer.
-> SOR/2013-119, s. 226; SOR/2014-260, s. 25(E); SOR/2016-230, s. 277.
-
+**65.3** [Repealed, SOR/2018-147, s. 25]
 
 
 
@@ -1299,8 +1251,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**67** The Minister may, on application for it, issue a licence to any person who, in the opinion of the Minister, is qualified to cultivate, gather or produce opium poppy or cannabis for scientific purposes, on any terms and conditions that the Minister considers necessary.
-> SOR/2013-119, s. 227(E); SOR/2016-123, s. 2(F).
+**67** The Minister may, on application for it, issue a licence to any person who, in the opinion of the Minister, is qualified to produce opium poppy for scientific purposes, on any terms and conditions that the Minister considers necessary.
+> SOR/2013-119, s. 227(E); SOR/2016-123, s. 2(F); SOR/2018-147, s. 26.
 
 
 
@@ -1373,10 +1325,10 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 ***nursing statutory body*** means any provincial professional licensing authority that, under the laws of that province, registers, certifies or otherwise licenses a person for the practice of nursing. (*organisme régissant la profession d’infirmier*)
 
-- **(2)** The Minister may communicate to a nursing statutory body any information concerning any member of that body obtained under the Act, these Regulations or the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md).
+- **(2)** The Minister may communicate to a nursing statutory body any information concerning any member of that body obtained under the Act or these Regulations.
 
 - **(3)** Subsection (2) does not apply to a nurse practitioner.
-> SOR/82-121, s. 1; SOR/2010-221, s. 16; SOR/2012-230, s. 24; SOR/2013-119, s. 228; SOR/2016-230, s. 278.
+> SOR/82-121, s. 1; SOR/2010-221, s. 16; SOR/2012-230, s. 24; SOR/2013-119, s. 228; SOR/2016-230, s. 278; SOR/2018-147, s. 27.
 
 
 
@@ -1550,17 +1502,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(12)** Sufentanil (N-[4-(methoxymethyl)-1-[2-(2-thienyl)ethyl]-4- piperidyl] propionanilide)
 - **(13)** Thiofentanyl (N-[1-[2-(2-thienyl)ethyl]-4-piperidyl] propionanilide)
 - **16** Tilidine (ethyl 2-(dimethylamino)-1-phenyl-3-cyclohexene-1-carboxylate), its salts, derivatives and salts of derivatives
-- **17** Cannabis, its preparations and derivatives, including
-- **(1)** Cannabis resin
-- **(2)** Cannabis (marihuana)
-- **(3)** Cannabidiol (2-[3-methyl-6-(1-methylethenyl- 2-cyclohexen-1-yl]-5-pentyl-1,3-benzenediol)
-- **(4)** Cannabinol (3-n-amyl-6,6,9-trimethyl-6-dibenzo-pyran-1-ol)
-- **(5) and (6)** [Repealed, SOR/2015-191, s. 1]
-- **(7)** Tetrahydrocannabinol(tetrahydro-6,6,9-trimethyl-3- pentyl-6H-dibenzo[b,d]pyran-1-ol)
-- **(7.1)** [Repealed, SOR/2015-191, s. 1]
-- but not including
-- **(8)** Non-viable Cannabis seed, with the exception of its derivatives
-- **(9)** Mature Cannabis stalks that do not include leaves, flowers, seeds or branches; and fiber derived from such stalks
+- **17** [Repealed, SOR/2018-147, s. 28]
 - **18** Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
 - **(1)** Any substance that has a 2-(cyclohexyl)phenol structure with substitution at the 1-position of the benzene ring by a hydroxy, ether or ester group and further substituted at the 5-position of the benzene ring, whether or not further substituted on the benzene ring to any extent, and substituted at the 3’-position of the cyclohexyl ring by an alkyl, carbonyl, hydroxyl, ether or ester, and whether or not further substituted on the cyclohexyl ring to any extent, including
 - **(i)** Nabilone ((±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo[b,d]pyran-9-one)
@@ -1608,6 +1550,6 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1; SOR/2018-69, ss. 72, 73, 74(F).
+> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1; SOR/2018-69, ss. 72, 73, 74(F); SOR/2018-147, s. 28.
 
 
