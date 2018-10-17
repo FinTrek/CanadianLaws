@@ -3159,7 +3159,24 @@ where
 ### Cannabis Production and Stamping
 
 
-**158.02** [Not in force]
+
+**Production without licence prohibited**
+
+**158.02** 
+
+- **(1)** No person shall, other than in accordance with a cannabis licence issued to the person, produce cannabis products.
+
+**Deemed producer**
+
+- **(2)** A person that, whether for consideration or otherwise, provides or offers to provide in their place of business equipment for use in that place by another person in the production of a cannabis product is deemed to be producing the cannabis product and the other person is deemed not to be producing the cannabis product.
+
+**Exception**
+
+- **(3)** Subsection (1) does not apply in respect of
+	- **(a)** the production of industrial hemp by-products by an industrial hemp grower; and
+	- **(b)** a prescribed person that produces prescribed cannabis products, or cannabis products of a prescribed class, in prescribed circumstances or for a prescribed purpose.
+> 2018, c. 12, s. 73.
+
 
 
 
@@ -3246,7 +3263,131 @@ where
 
 
 
-**158.09 to 158.12** [Not in force]
+
+**Unlawful removal**
+
+**158.09** 
+
+- **(1)** Except as permitted under section 158.15, no person shall remove a cannabis product from the premises of a cannabis licensee unless it is packaged and
+	- **(a)** if the cannabis product is intended for the duty-paid market,
+		- **(i)** it is stamped to indicate that cannabis duty has been paid, and
+		- **(ii)** if additional cannabis duty in respect of a specified province is imposed on the cannabis product, it is stamped to indicate that the additional cannabis duty has been paid; or
+	- **(b)** if the cannabis product is not intended for the duty-paid market, all prescribed information is printed on or affixed to its container in a prescribed manner.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply to a cannabis licensee that removes from their premises a cannabis product
+	- **(a)** if the cannabis product is being removed
+		- **(i)** for delivery to another cannabis licensee,
+		- **(ii)** for export as permitted under the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md),
+		- **(iii)** for delivery to a person for sterilization in accordance with subparagraph 158.11(3)(a)(ii), or
+		- **(iv)** for delivery to a person for analysis or destruction in accordance with subparagraph 158.3(a)(v);
+	- **(b)** if the cannabis product is
+		- **(i)** a low-THC cannabis product,
+		- **(ii)** a prescription cannabis drug, or
+		- **(iii)** a prescribed cannabis product or a cannabis product of a prescribed class; or
+	- **(c)** in prescribed circumstances or for a prescribed purpose.
+
+**Removal by Minister**
+
+- **(3)** Subsection (1) does not apply to the removal of a cannabis product for analysis or destruction
+	- **(a)** by the Minister; or
+	- **(b)** by the Minister, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md).
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Prohibition — cannabis for sale**
+
+**158.1** No person shall purchase or receive for sale
+- **(a)** a cannabis product from a producer that the person knows, or ought to know, is not
+	- **(i)** a cannabis licensee, or
+	- **(ii)** in the case of an industrial hemp by-product, an industrial hemp grower;
+- **(b)** a cannabis product that is required under this Act to be packaged and stamped unless it is packaged and stamped in accordance with this Act; or
+- **(c)** a cannabis product that the person knows, or ought to know, is fraudulently stamped.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Selling, etc., unstamped cannabis**
+
+**158.11** 
+
+- **(1)** No person, other than a cannabis licensee, shall dispose of, sell, offer for sale, purchase or have in their possession a cannabis product unless
+	- **(a)** it is packaged; and
+	- **(b)** it is stamped to indicate that cannabis duty has been paid.
+
+**Selling, etc., unstamped cannabis — specified province**
+
+- **(2)** No person, other than a cannabis licensee, shall dispose of, sell, offer for sale, purchase or have in their possession a cannabis product in a specified province unless it is stamped to indicate that additional cannabis duty in respect of the specified province has been paid.
+
+**Exception — possession of cannabis**
+
+- **(3)** Subsections (1) and (2) do not apply to the possession of a cannabis product
+	- **(a)** by a person that
+		- **(i)** is a prescribed person that is transporting the cannabis product under prescribed circumstances and conditions,
+		- **(ii)** is a prescribed person that is sterilizing the cannabis product under prescribed circumstances and conditions,
+		- **(iii)** is an individual if the cannabis product was imported for their medical purposes in accordance with the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), as applicable, or
+		- **(iv)** possesses the cannabis product for analysis or destruction in accordance with subparagraph 158.3(a)(v);
+	- **(b)** if the cannabis product is
+		- **(i)** a low-THC cannabis product,
+		- **(ii)** a prescription cannabis drug, or
+		- **(iii)** a prescribed cannabis product or a cannabis product of a prescribed class; or
+	- **(c)** in prescribed circumstances or for a prescribed purpose.
+
+**Exception — disposal, sale, etc.**
+
+- **(4)** Subsections (1) and (2) do not apply to the disposal, sale, offering for sale or purchase of a cannabis product
+	- **(a)** if the cannabis product is
+		- **(i)** a low-THC cannabis product,
+		- **(ii)** a prescription cannabis drug, or
+		- **(iii)** a prescribed cannabis product or a cannabis product of a prescribed class; or
+	- **(b)** in prescribed circumstances or for a prescribed purpose.
+
+**Exception — industrial hemp**
+
+- **(5)** Subsections (1) and (2) do not apply to
+	- **(a)** the possession of an industrial hemp by-product by the industrial hemp grower that produced it, if the industrial hemp by-product
+		- **(i)** is on the industrial hemp grower’s property, or
+		- **(ii)** is being transported by the industrial hemp grower for delivery to or return from a cannabis licensee; and
+	- **(b)** the disposal, sale or offering for sale of an industrial hemp by-product to a cannabis licensee by the industrial hemp grower that produced it.
+
+**Exception — specified province**
+
+- **(6)** Subsection (2) does not apply to
+	- **(a)** the possession of a cannabis product in prescribed circumstances or for a prescribed purpose; or
+	- **(b)** the disposal, sale, offering for sale or purchase of a cannabis product in prescribed circumstances or for a prescribed purpose.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Sale or distribution by licensee**
+
+**158.12** 
+
+- **(1)** No cannabis licensee shall distribute a cannabis product or sell or offer for sale a cannabis product to a person unless
+	- **(a)** it is packaged;
+	- **(b)** it is stamped to indicate that cannabis duty has been paid; and
+	- **(c)** if additional cannabis duty in respect of a specified province is imposed on the cannabis product, it is stamped to indicate that the additional cannabis duty has been paid.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply to the distribution, sale or offering for sale of a cannabis product
+	- **(a)** to a cannabis licensee;
+	- **(b)** if the cannabis product is exported by the cannabis licensee in accordance with the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md);
+	- **(c)** if the cannabis product is
+		- **(i)** a low-THC cannabis product,
+		- **(ii)** a prescription cannabis drug, or
+		- **(iii)** a prescribed cannabis product or a cannabis product of a prescribed class; or
+	- **(d)** in prescribed circumstances or for a prescribed purpose.
+> 2018, c. 12, s. 73.
+
 
 
 
@@ -3278,7 +3419,27 @@ where
 
 
 
-**158.15 and 158.16** [Not in force]
+
+**Cannabis — waste removal**
+
+**158.15** 
+
+- **(1)** No person shall remove a cannabis product that is waste from the premises of a cannabis licensee other than the cannabis licensee or a person authorized by the Minister.
+
+**Removal requirements**
+
+- **(2)** If a cannabis product that is waste is removed from the premises of a cannabis licensee, it shall be dealt with in the manner authorized by the Minister.
+> 2018, c. 12, s. 73.
+
+
+
+
+
+**Re-working or destruction of cannabis**
+
+**158.16** A cannabis licensee may re-work or destroy a cannabis product in the manner authorized by the Minister.
+> 2018, c. 12, s. 73.
+
 
 
 
@@ -5153,7 +5314,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Unlawful production, sale, etc.**
 
-**214** Every person that contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60, 62, 158.04 to 158.06 and 158.08 is guilty of an offence and liable
+**214** Every person that contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60, 62, 158.02, 158.04 to 158.06, 158.08 and 158.1 is guilty of an offence and liable
 - **(a)** on conviction on indictment, to a fine of not less than $50,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; or
 - **(b)** on summary conviction, to a fine of not less than $10,000 and not more than $500,000 or to imprisonment for a term of not more than 18 months, or to both.
 > 2002, c. 22, s. 214; 2008, c. 28, s. 60; 2010, c. 12, s. 42; 2018, c. 12, s. 79.
@@ -5273,6 +5434,53 @@ It includes a person who is appointed to exercise the authority of a creditor un
 		- **(ii)** the number of litres of wine to which the offence relates multiplied by 300% of the rate of duty applicable to a litre of wine under paragraph (c) of Schedule 6 at the time the offence was committed, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
 > 2002, c. 22, s. 218; 2006, c. 4, s. 45; 2007, c. 18, s. 119; 2017, c. 20, s. 53.
+
+
+
+
+
+**Punishment — sections 158.11 and 158.12**
+
+**218.1** 
+
+- **(1)** Every person that contravenes section 158.11 or 158.12 is guilty of an offence and liable
+	- **(a)** on conviction on indictment, to a fine of not less than the amount determined under subsection (2) and not more than the amount determined under subsection (3) or to imprisonment for a term of not more than five years, or to both; or
+	- **(b)** on summary conviction, to a fine of not less than the amount determined under subsection (2) and not more than the lesser of $500,000 and the amount determined under subsection (3) or to imprisonment for a term of not more than 18 months, or to both.
+
+**Minimum amount**
+
+- **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
+	- **(a)** the amount determined by the formula
+```
+(A + B + C) × 200%
+```
+where
+- **A** is the amount determined under section 1 of Schedule 7, as that section read at the time the offence was committed, in respect of the cannabis products to which the offence relates,
+- **B** is
+	- **(i)** if the offence occurred in a specified province, 300% of the amount determined for A, and
+	- **(ii)** in any other case, 0, and
+- **C** is
+	- **(i)** if the offence occurred in a prescribed specified province, 200% of the amount determined for A, and
+	- **(ii)** in any other case, 0, and
+	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
+
+**Maximum amount**
+
+- **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
+	- **(a)** the amount determined by the formula
+```
+(A + B + C) × 300%
+```
+where
+- **A** is the amount determined under section 1 of Schedule 7, as that section read at the time the offence was committed, in respect of the cannabis products to which the offence relates,
+- **B** is
+	- **(i)** if the offence occurred in a specified province, 300% of the amount determined for A, and
+	- **(ii)** in any other case, 0, and
+- **C** is
+	- **(i)** if the offence occurred in a prescribed specified province, 200% of the amount determined for A, and
+	- **(ii)** in any other case, 0, and
+	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
+> 2018, c. 12, s. 80.
 
 
 
@@ -5429,7 +5637,7 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **230** 
 
 - **(1)** No person shall possess any property or any proceeds of any property knowing that all or any part of it was obtained or derived directly or indirectly as a result of
-	- **(a)** the commission of an offence under section 214 or subsection 216(1), 218(1) or 231(1); or
+	- **(a)** the commission of an offence under section 214 or subsection 216(1), 218(1), 218.1(1) or 231(1); or
 	- **(b)** a conspiracy or an attempt to commit, being a party to, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a).
 
 **Punishment**
@@ -5441,6 +5649,8 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **Exception**
 
 - **(3)** A peace officer or a person acting under the direction of a peace officer is not guilty of an offence under this section by reason only that the peace officer or person possesses property or the proceeds of property mentioned in subsection (1) for the purposes of an investigation or otherwise in the execution of the peace officer’s duties.
+> 2002, c. 22, s. 230; 2018, c. 12, s. 81.
+
 
 
 
@@ -5450,7 +5660,7 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **231** 
 
 - **(1)** No person shall use, transfer the possession of, send or deliver to any person or place, transport, transmit, alter, dispose of or otherwise deal with, in any manner or by any means, any property or any proceeds of any property with intent to conceal or convert that property or those proceeds, knowing that all or part of that property or those proceeds were obtained or derived directly or indirectly as a result of
-	- **(a)** the commission of an offence under section 214 or subsection 216(1) or 218(1); or
+	- **(a)** the commission of an offence under section 214 or subsection 216(1), 218(1) or 218.1(1); or
 	- **(b)** a conspiracy or an attempt to commit, being a party to, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a).
 
 **Punishment**
@@ -5462,6 +5672,8 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 **Exception**
 
 - **(3)** A peace officer or a person acting under the direction of a peace officer is not guilty of an offence under this section by reason only that the peace officer or person does any of the things mentioned in subsection (1) for the purposes of an investigation or otherwise in the execution of the peace officer’s duties.
+> 2002, c. 22, s. 231; 2018, c. 12, s. 82.
+
 
 
 
@@ -5470,11 +5682,13 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 **232** 
 
-- **(1)** Sections 462.3 and 462.32 to 462.5 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with any modifications that the circumstances require, in respect of proceedings for an offence under section 214, subsection 216(1) or 218(1) or section 230 or 231.
+- **(1)** Sections 462.3 and 462.32 to 462.5 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with any modifications that the circumstances require, in respect of proceedings for an offence under section 214, subsection 216(1), 218(1) or 218.1(1) or section 230 or 231.
 
 **Reference to enterprise crime offence**
 
 - **(2)** For the purpose of subsection (1), the references in sections 462.37 and 462.38 and subsection 462.41(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to an enterprise crime offence are deemed to include references to the offences referred to in subsection (1).
+> 2002, c. 22, s. 232; 2018, c. 12, s. 83.
+
 
 
 
@@ -5512,11 +5726,11 @@ where
 
 
 
-**Contravention of section 38, 40, 49, 61, 62.1, 99, 149 or 151**
+**Contravention of section 38, 40, 49, 61, 62.1, 99, 149, 151 or 158.15**
 
 **234** 
 
-- **(1)** Every person who contravenes section 38, 40, 49, 61, 62.1, 99, 149 or 151 is liable to a penalty of not more than $25,000.
+- **(1)** Every person that contravenes section 38, 40, 49, 61, 62.1, 99, 149, 151 or 158.15 is liable to a penalty of not more than $25,000.
 
 **Failure to comply**
 
@@ -5524,8 +5738,30 @@ where
 
 **Failure to comply**
 
-- **(3)** Every person that fails to return or destroy stamps as directed by the Minister under paragraph 158.07(b) is liable to a penalty of not more than $25,000.
+- **(3)** Every person that fails to return or destroy stamps as directed by the Minister under paragraph 158.07(b), or that fails to re-work or destroy a cannabis product in the manner authorized by the Minister under section 158.16, is liable to a penalty of not more than $25,000.
 > 2002, c. 22, s. 234; 2007, c. 18, s. 121; 2010, c. 12, s. 43; 2018, c. 12, s. 85.
+
+
+
+
+
+**Contravention of section 158.02, 158.1, 158.11 or 158.12**
+
+**234.1** Every person that contravenes section 158.02, that receives for sale cannabis products in contravention of section 158.1 or that sells or offers to sell cannabis products in contravention of section 158.11 or 158.12 is liable to a penalty equal to the amount determined by the formula
+```
+(A + B + C) × 200%
+```
+where
+- **A** is the greater of
+- **(a)** the amount determined under section 1 of Schedule 7, as that section read at the time the contravention occurred, in respect of the cannabis products to which the contravention relates, and
+- **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in section 4 of Schedule 7, as that section read at that time;
+- **B** is
+- **(a)** if the offence occurred in a specified province, 300% of the amount determined for A, and
+- **(b)** in any other case, 0; and
+- **C** is
+- **(a)** if the offence occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
+- **(b)** in any other case, 0.
+> 2018, c. 12, s. 86.
 
 
 
@@ -5607,9 +5843,11 @@ where
 
 **Other diversions**
 
-**239** Unless section 237 applies, every person is liable to a penalty equal to 200% of the duty that was imposed on packaged alcohol or a tobacco product if
+**239** Unless section 237 applies, every person is liable to a penalty equal to 200% of the duty that was imposed on packaged alcohol, a tobacco product or a cannabis product if
 - **(a)** it was acquired by the person and duty was not payable because of the purpose for which the person acquired it or because of its destination; and
 - **(b)** it is sold or used for a purpose or sent to a destination in circumstances in which duty would have been payable if it had originally been acquired for that purpose or sent to that destination.
+> 2002, c. 22, s. 239; 2018, c. 12, s. 88.
+
 
 
 
