@@ -487,6 +487,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** la personne ou entité condamnée par voie de mise en accusation ou condamnée plus d’une fois pour l’une ou l’autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un État étranger :
 		- **(i)** une infraction prévue à la partie X du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(ii)** une infraction prévue par la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md), à l’exception de celle prévue au paragraphe 4(1) de cette loi,
+		- **(ii.1)** une infraction prévue par la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md), à l’exception de celle prévue au paragraphe 8(1) de cette loi,
 		- **(iii)** une infraction prévue aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997,
 		- **(iv)** aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, chapitre N-1 des Lois révisées du Canada (1985), dans leur version antérieure au 14 mai 1997;
 	- **e)** l’entité qui est une personne morale dont l’un des administrateurs, le premier dirigeant, le président, ou toute personne qui détient ou contrôle, directement ou indirectement, au moins vingt pour cent des actions a été déclaré coupable, par mise en accusation, d’une infraction prévue par la présente loi ou la Loi sur le recyclage des produits de la criminalité, chapitre 26 des Lois du Canada (1991) ou a été condamnée pour une infraction essentiellement similaire prévue par les lois d’un État étranger;
@@ -495,7 +496,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(2)** Si le Centre prend connaissance du fait qu’une personne ou entité visée au paragraphe (1) est inscrite, il révoque l’inscription et en avise sans délai la personne ou entité.
-> 2006, ch. 12, art. 11; 2014, ch. 20, art. 262; 2017, ch. 20, art. 420.
+> 2006, ch. 12, art. 11; 2014, ch. 20, art. 262; 2017, ch. 20, art. 420; 2018, ch. 16, art. 183.
 
 
 
