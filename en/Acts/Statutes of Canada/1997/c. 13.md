@@ -39,7 +39,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***accessory*** means a product that may be used in the consumption of a tobacco product, including a pipe, cigarette holder, cigar clip, lighter and matches, and also means a water pipe. (*accessoire*)
+***accessory*** means a product that may be used in the consumption of a tobacco product, including a pipe, cigarette holder, cigar clip, lighter and matches, and also means a water pipe. It does not include cannabis accessories, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*accessoire*)
 
 ***additive***, in respect of tobacco products, means an ingredient other than tobacco leaves. (*additif*)
 
@@ -91,10 +91,10 @@ It includes any tobacco product that is designated by the regulations to be a li
 - **(c)** a part that may be used with those devices; and
 - **(d)** a substance or mixture of substances, whether or not it contains nicotine, that is intended for use with those devices to produce emissions.
 
-It does not include devices and substances or mixtures of substances that are excluded by the regulations, tobacco products or their accessories. (*produit de vapotage*)
+It does not include devices and substances or mixtures of substances that are excluded by the regulations, cannabis, as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), cannabis accessories, as defined in that subsection, tobacco products or their accessories. (*produit de vapotage*)
 
 ***young person*** means a person under eighteen years of age. (*jeune*)
-> 1997, c. 13, s. 2; 2009, c. 27, s. 2; 2018, c. 9, s. 3.
+> 1997, c. 13, s. 2; 2009, c. 27, s. 2; 2018, c. 9, ss. 3, 79.1.
 
 
 
