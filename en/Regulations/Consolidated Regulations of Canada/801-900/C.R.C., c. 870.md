@@ -27677,14 +27677,14 @@ ZINC OXIDE (C.I. No. 77947);
 
 **C.01.048** 
 
-- **(1)** Where a person who is a physician, dentist, veterinary surgeon or pharmacist registered and entitled to practise that person’s profession in a province has signed an order specifying the brand name, proper name or common name and the quantity of a drug, other than
-	- **(a)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md),
-	- **(b)** a controlled drug as defined in subsection G.01.001(1), or
-	- **(c)** a new drug in respect of which a notice of compliance has not been issued under section C.08.004,
-the person who receives the order may distribute the drug to the physician, dentist, veterinary surgeon or pharmacist as a sample if the drug is labelled in accordance with these Regulations.
+- **(1)** If a physician, dentist, veterinary surgeon or pharmacist registered and entitled to practise their profession in a province has signed an order specifying the proper name or common name, the brand name and the quantity of a drug, other than the following, the person who receives the order may distribute the drug as a sample to the physician, dentist, veterinary surgeon or pharmacist if the drug is labelled in accordance with these Regulations:
+	- **(a)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md);
+	- **(b)** a controlled drug as defined in subsection G.01.001(1);
+	- **(c)** a new drug in respect of which a notice of compliance has not been issued under section C.08.004; or
+	- **(d)** a prescription drug as defined in subsection 1(2) of the [Cannabis Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/144.md).
 
 - **(2)** An order referred to in subsection (1) may provide that the order be repeated at specified intervals during any period not exceeding six months.
-> SOR/93-202, s. 9; SOR/97-228, s. 2.
+> SOR/93-202, s. 9; SOR/97-228, s. 2; SOR/2018-144, s. 366.
 
 
 
@@ -28517,8 +28517,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 ***wholesaler*** means a person who is not a distributor described in section C.01A.003 and who sells any of the following drugs other than at retail sale: 
 - **(a)** a drug in dosage form that is listed in Schedule C or D to the Act, a drug that is a prescription drug or a controlled drug as defined in subsection G.01.001(1);
-- **(b)** an active ingredient; or
-- **(c)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md). (*grossiste*)
+- **(b)** an active ingredient;
+- **(c)** a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md); or
+- **(d)** a drug containing cannabis as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md). (*grossiste*)
 
 - **(2)** In this Division and in Division 2, drug does not include any of the following:
 	- **(a)** a dilute drug premix;
@@ -28528,7 +28529,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 	- **(e)** a drug that is used only for the purposes of an experimental study in accordance with a certificate issued under section C.08.015.
 
 - **(3)** Where the Minister designates additional dosage form classes, the Minister shall make a list of those classes available on request.
-> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14; SOR/2017-76, s. 7.
+> SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14; SOR/2017-76, s. 7; SOR/2018-144, s. 367.
 
 
 
@@ -28587,8 +28588,11 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(2)** A person does not require an establishment licence to perform tests under Division 2 if the person holds an establishment licence as a fabricator, a packager/labeller, a distributor referred to in paragraph C.01A.003(b) or an importer.
 
-- **(3)** No person shall carry on an activity referred to in subsection (1) in respect of a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or a controlled drug as defined in subsection G.01.001(1) unless the person holds a licence for that narcotic or drug under the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or Part G of these Regulations, as the case may be.
-> SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4; SOR/2017-259, s. 13.
+- **(3)** No person shall carry on an activity referred to in subsection (1) unless the person holds
+	- **(a)** in respect of a narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md), a licence for that narcotic under those Regulations;
+	- **(b)** in respect of a controlled drug as defined in subsection G.01.001(1), a licence for that drug under Part G; or
+	- **(c)** in respect of a drug containing cannabis as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), a licence for that drug to conduct that activity under the [Cannabis Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/144.md).
+> SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4; SOR/2017-259, s. 13; SOR/2018-144, s. 368.
 
 
 
@@ -28610,7 +28614,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(h)** the address of each building in Canada at which records will be maintained;
 - **(i)** whether any building referred to in paragraphs (g) and (h) is a dwelling-house;
 - **(j)** the drug identification number, if any, or a name that clearly identifies the drug,
-	- **(i)** for each narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) or each controlled drug as defined in subsection G.01.001(1) for which the licence is requested, and
+	- **(i)** for each narcotic as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md), each controlled drug as defined in subsection G.01.001(1) or each drug containing cannabis as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) for which the licence is requested, and
 	- **(ii)** for each other drug within a category of drugs for which the licence is requested, unless the licence is to perform tests required under Division 2, distribute as set out in paragraph C.01A.003(a), or wholesale;
 - **(k)** if any of the buildings referred to in paragraph (g) have been inspected under the Act or these Regulations, the date of the last inspection;
 - **(l)** evidence that the applicant’s buildings, equipment and proposed practices and procedures meet the applicable requirements of Divisions 2 to 4;
@@ -28624,7 +28628,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(o)** in the case of an importer referred to in paragraph (n),
 	- **(i)** a certificate from a Canadian inspector indicating that the fabricator’s, packager/labeller’s and tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4, or
 	- **(ii)** other evidence establishing that the fabricator’s, packager/labeller’s and tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4.
-> SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2; SOR/2013-74, s. 5.
+> SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2; SOR/2013-74, s. 5; SOR/2018-144, s. 369.
 
 
 
@@ -28747,7 +28751,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 <tr>
 <td>6</td>
-<td>Drugs that are prescription drugs, controlled drugs as defined in subsection G.01.001(1) and narcotics as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md)</td>
+<td>Drugs that are prescription drugs, controlled drugs as defined in subsection G.01.001(1), narcotics as defined in the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md) and drugs containing cannabis as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md)
+
+</td>
 </tr>
 <tr>
 <td>7</td>
@@ -28755,7 +28761,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 </tr>
 </table>
 
-> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9; SOR/2017-259, s. 14.
+> SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9; SOR/2017-259, s. 14; SOR/2018-144, s. 370.
 
 
 
@@ -34510,94 +34516,94 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 - **(1)** In this Part,
 
-***agricultural implant*** means a product that is presented in a form suitable to allow sustained release of an active ingredient over a certain period of time and that is intended for insertion under the skin of a food-producing animal for the purpose of increasing weight gain and improving feed efficiency; (*implant agricole*)
+***agricultural implant*** means a product that is presented in a form suitable to allow sustained release of an active ingredient over a certain period of time and that is intended for insertion under the skin of a food-producing animal for the purpose of increasing weight gain and improving feed efficiency; (*implant agricole*)
 
-***common name*** with reference to a controlled drug means the name in English or French by which the controlled drug is commonly known; (*nom usuel*)
+***common name*** with reference to a controlled drug means the name in English or French by which the controlled drug is commonly known; (*nom usuel*)
 
-***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of controlled drugs into or from the country; (*autorité compétente*)
+***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of controlled drugs into or from the country; (*autorité compétente*)
 
-***controlled drug*** means
+***controlled drug*** means
 - **(a)** a drug set out in the schedule to this Part, including a preparation; or
-- **(b)** in respect of a midwife, nurse practitioner or podiatrist, a drug set out in the schedule to this Part, including a preparation, that the midwife, nurse practitioner or podiatrist may prescribe, possess or conduct an activity with, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*drogue contrôlée*)
+- **(b)** in respect of a midwife, nurse practitioner or podiatrist, a drug set out in the schedule to this Part, including a preparation, that the midwife, nurse practitioner or podiatrist may prescribe, possess or conduct an activity with, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*drogue contrôlée*)
 
-***hospital*** means a facility
+***hospital*** means a facility
 - **(a)** that is licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness, or
-- **(b)** that is owned or operated by the Government of Canada or the government of a province and that provides health services; (*hôpital*)
+- **(b)** that is owned or operated by the Government of Canada or the government of a province and that provides health services; (*hôpital*)
 
-***international obligation*** means an obligation in respect of a controlled drug set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres; (*obligation internationale*)
+***international obligation*** means an obligation in respect of a controlled drug set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres; (*obligation internationale*)
 
 ***licence***[SOR/2004-238, s. 1]
 
-***licensed dealer*** means the holder of a licence issued under section G.02.003.2; (*distributeur autorisé*)
+***licensed dealer*** means the holder of a licence issued under section G.02.003.2; (*distributeur autorisé*)
 
-***midwife*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*sage-femme*)
+***midwife*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*sage-femme*)
 
-***nurse practitioner*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*infirmier praticien*)
+***nurse practitioner*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*infirmier praticien*)
 
-***parenteral use*** with reference to a controlled drug means administration by means of a hypodermic syringe, needle or other instrument through or into the skin of mucous membrane; (*usage parentéral*)
+***parenteral use*** with reference to a controlled drug means administration by means of a hypodermic syringe, needle or other instrument through or into the skin of mucous membrane; (*usage parentéral*)
 
-***permit*** means a permit issued under section G.02.008; (*permis*)
+***permit*** means a permit issued under section G.02.008; (*permis*)
 
 ***pharmacist***
 - **(a)** means a person who is registered and entitled under the laws of a province
 	- **(i)** to practise pharmacy, and
 	- **(ii)** to operate a pharmacy or dispensary
 and who is operating a pharmacy or dispensary and is practising pharmacy thereunder in that province, and
-- **(b)** includes, for the purposes of sections G.01.002, G.01.003, G.03.002 to G.03.008, G.03.014, G.03.015 and G.03.017 and subsections G.05.003(3) and (4), a person who is registered and entitled under the laws of a province to practise pharmacy and who is practising pharmacy in that province; (*pharmacien*)
+- **(b)** includes, for the purposes of sections G.01.002, G.01.003, G.03.002 to G.03.008, G.03.014, G.03.015 and G.03.017 and subsections G.05.003(3) and (4), a person who is registered and entitled under the laws of a province to practise pharmacy and who is practising pharmacy in that province; (*pharmacien*)
 
-***podiatrist*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*podiatre*)
+***podiatrist*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md); (*podiatre*)
 
 ***practitioner***[Repealed, SOR/97-228, s. 7]
 
-***preparation*** means a drug that contains a controlled drug and one or more active medicinal ingredients, in a recognized therapeutic dose, other than a controlled drug; (*préparation*)
+***preparation*** means a drug that contains a controlled drug and one or more active medicinal ingredients, in a recognized therapeutic dose, other than a controlled drug; (*préparation*)
 
-***prescription*** means a direction given by a practitioner that a stated amount of a specified controlled drug be dispensed for the person named therein; (*ordonnance*)
+***prescription*** means a direction given by a practitioner that a stated amount of a specified controlled drug be dispensed for the person named therein; (*ordonnance*)
 
-***proper name*** with reference to a controlled drug means the name in English or French
+***proper name*** with reference to a controlled drug means the name in English or French
 - **(a)** assigned to the drug in section C.01.002,
 - **(b)** that appears in bold face type for the drug in the Regulations and where the drug is dispensed in a form other than that described in Part C, the name of the dispensing form, or
-- **(c)** assigned in any of the publications mentioned in Schedule B to the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) in the case of a drug not included in paragraph (a) or (b) of this definition; (*nom propre*)
+- **(c)** assigned in any of the publications mentioned in Schedule B to the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) in the case of a drug not included in paragraph (a) or (b) of this definition; (*nom propre*)
 
-***qualified person in charge*** means the individual with the qualifications specified in subsection G.02.001.2(2) who is responsible for supervising the activities carried out by a licensed dealer under their licence at the premises specified in the licence; (*personne qualifiée responsable*)
+***qualified person in charge*** means the individual with the qualifications specified in subsection G.02.001.2(2) who is responsible for supervising the activities carried out by a licensed dealer under their licence at the premises specified in the licence; (*personne qualifiée responsable*)
 
-***test kit*** means an apparatus
+***test kit*** means an apparatus
 - **(a)** that contains reagent systems or buffering agents or both,
 - **(b)** that is used in the course of a chemical or analytical procedure for medical, laboratory, industrial, educational or research purposes, and
-- **(c)** the contents of which are not intended for administration to humans; (*nécessaire d’essai*)
+- **(c)** the contents of which are not intended for administration to humans; (*nécessaire d’essai*)
 
-***verbal order*** means an order given orally. (*commande verbale*)
+***verbal order*** means an order given orally. (*commande verbale*)
 
 ***written order***[Repealed, SOR/85-550, s. 1]
 
 - **(2)** The definitions in this subsection apply in this Part and Part J.
 
-***Act*** means the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) (*Loi*)
+***Act*** means the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md). (*Loi*)
 
-***advertisement*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*publicité ou annonce*)
+***advertisement*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*publicité ou annonce*)
 
-***Department*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*ministère*)
+***Department*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*ministère*)
 
-***designated criminal offence*** means
+***designated criminal offence*** means
 - **(a)** an offence involving the financing of terrorism against any of sections 83.02 to 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 - **(b)** an offence involving fraud against any of sections 380 to 382 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 - **(c)** the offence of laundering proceeds of crime against section 462.31 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 - **(d)** an offence involving a criminal organization against any of sections 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); or
-- **(e)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraphs (a) to (d). (*infraction désignée en matière criminelle*)
+- **(e)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraphs (a) to (d). (*infraction désignée en matière criminelle*)
 
-***designated drug offence*** means
+***designated drug offence*** means
 - **(a)** an offence against section 39, 44.2, 44.3, 48, 50.2 or 50.3 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), as those provisions read immediately before May 14, 1997,
 - **(b)** an offence against section 4, 5, 6, 19.1 or 19.2 of the Narcotic Control Act, as those provisions read immediately before May 14, 1997,
 - **(c)** an offence under Part I of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), except subsection 4(1), or
-- **(d)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (c); (*infraction désignée en matière de drogue*)
+- **(d)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (c). (*infraction désignée en matière de drogue*)
 
-***label*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*étiquette*)
+***label*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*étiquette*)
 
-***package*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*emballage*)
+***package*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md). (*emballage*)
 
-***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances (Security Requirements for Licensed Dealers for the Storage of Controlled Substances) published by the Department, as amended from time to time. (*Directive en matière de sécurité*)
+***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances and Drugs Containing Cannabis, as amended from time to time and published by the Government of Canada on its website. (*Directive en matière de sécurité*)
 
-- **(3)** Unless otherwise provided, the definitions in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) apply in this Part and Part J. 
-> SOR/78-220, s. 1; SOR/85-550, s. 1; SOR/86-91, s. 1; SOR/90-261, s. 1(F); SOR/92-386, s. 1; SOR/97-228, s. 7; SOR/97-515, s. 2; SOR/2003-135, s. 2; SOR/2004-238, s. 1; SOR/2012-230, s. 6.
+- **(3)** Unless otherwise provided, the definitions in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) apply in this Part and Part J.
+> SOR/78-220, s. 1; SOR/85-550, s. 1; SOR/86-91, s. 1; SOR/90-261, s. 1(F); SOR/92-386, s. 1; SOR/97-228, s. 7; SOR/97-515, s. 2; SOR/2003-135, s. 2; SOR/2004-238, s. 1; SOR/2012-230, s. 6; SOR/2018-147, s. 29.
 
 
 
