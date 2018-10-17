@@ -4135,6 +4135,14 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 - **(c)** section 7 (production of substance).
 
 
-> 2002, c. 1, Sch.; 2014, c. 25, s. 43.
+**5** An offence under any of the following provisions of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md):
+- **(a)** section 9 (distribution and possession for purpose of distributing);
+- **(b)** section 10 (selling and possession for purpose of selling);
+- **(c)** section 11 (importing and exporting and possession for purpose of exporting);
+- **(d)** section 12 (production); and
+- **(e)** section 14 (use of young person).
+
+
+> 2002, c. 1, Sch.; 2014, c. 25, s. 43; 2018, c. 16, s. 184.
 
 
