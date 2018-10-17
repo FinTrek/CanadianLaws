@@ -59,9 +59,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***offence*** means an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) or the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), a designated substance offence as defined in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or an offence under section 91 or Part 3 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md).
+***offence*** means an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) or the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), a designated substance offence as defined in subsection 2(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), a designated offence as defined in subsection 2(1) of the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md) or an offence under section 91 or Part 3 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md). (*infraction*)
 
-***victim*** means an individual who has suffered physical or emotional harm, property damage or economic loss as the result of the commission or alleged commission of an offence.
+***victim*** means an individual who has suffered physical or emotional harm, property damage or economic loss as the result of the commission or alleged commission of an offence. (*victime*)
+> 2015, c. 13, s. 2 “2”; 2018, c. 16, s. 187.
+
 
 
 
