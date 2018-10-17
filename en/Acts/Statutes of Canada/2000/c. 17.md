@@ -489,6 +489,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** a person or entity that has been convicted on indictment or convicted more than once of an offence under any of the following, or that has been convicted of an offence under the laws of a foreign state that is substantially similar to an offence under any of the following:
 		- **(i)** Part X of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 		- **(ii)** the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), except for the offence under subsection 4(1) of that Act,
+		- **(ii.1)** the [Cannabis Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2016.md), except for an offence under subsection 8(1) of that Act,
 		- **(iii)** section 39, 44.2, 44.3, 48, 50.2 or 50.3 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), as that section read immediately before May 14, 1997, or
 		- **(iv)** section 4, 5, 6, 19.1 or 19.2 of the Narcotic Control Act, chapter N-1 of the Revised Statutes of Canada, 1985, as that section read immediately before May 14, 1997;
 	- **(e)** an entity that is a corporation in respect of which a director, the chief executive officer, the president or a person who owns or controls, directly or indirectly, 20% or more of the shares has been convicted on indictment of an offence under this Act or the Proceeds of Crime (money laundering) Act, chapter 26 of the Statutes of Canada, 1991 or has been convicted of an offence under the laws of a foreign state that is substantially similar to an offence under either Act;
@@ -497,7 +498,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Revocation of registration**
 
 - **(2)** If the Centre becomes aware that a person or entity referred to in subsection (1) is registered, the Centre shall revoke the registration and shall, without delay, inform the person or entity of the revocation.
-> 2006, c. 12, s. 11; 2014, c. 20, s. 262; 2017, c. 20, s. 420.
+> 2006, c. 12, s. 11; 2014, c. 20, s. 262; 2017, c. 20, s. 420; 2018, c. 16, s. 183.
 
 
 
