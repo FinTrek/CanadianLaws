@@ -166,19 +166,20 @@ Sont visés par la présente définition les musées. (*business*)
 
 **Critères d’admissibilité**
 
-- **(2)** Pour l’application du paragraphe (1), le contrôleur des armes à feu ou, dans le cas d’un renvoi prévu à l’article 74, le juge de la cour provinciale tient compte, pour les cinq ans précédant la date de la demande, des éléments suivants :
-	- **a)** le demandeur a été déclaré coupable ou absous en application de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) d’une des infractions suivantes :
+- **(2)** Pour l’application du paragraphe (1), le contrôleur des armes à feu ou, dans le cas d’un renvoi prévu à l’article 74, le juge de la cour provinciale tient compte, pour les cinq ans précédant la date de la demande, des éléments suivants :
+	- **a)** le demandeur a été déclaré coupable ou absous en application de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) d’une des infractions suivantes :
 		- **(i)** une infraction commise avec usage, tentative ou menace de violence contre autrui,
 		- **(ii)** une infraction à la présente loi ou à la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(iii)** une infraction à l’article 264 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (harcèlement criminel),
-		- **(iv)** une infraction relative à la contravention des paragraphes 5(1) ou (2), 6(1) ou (2) ou 7(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+		- **(iv)** une infraction relative à la contravention des paragraphes 5(1) ou (2), 6(1) ou (2) ou 7(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md),
+		- **v)** une infraction relative à la contravention au paragraphe 9(1) ou (2), 10(1) ou (2), 11(1) ou (2), 12(1), (4), (5), (6) ou (7), 13(1) ou 14(1) de la [Loi sur le cannabis](/fr/Lois/Lois%20du%20Canada/2018/ch.%2016.md);
 	- **b)** qu’il ait été interné ou non, il a été traité, notamment dans un hôpital, un institut pour malades mentaux ou une clinique psychiatrique, pour une maladie mentale caractérisée par la menace, la tentative ou l’usage de violence contre lui-même ou autrui;
 	- **c)** l’historique de son comportement atteste la menace, la tentative ou l’usage de violence contre lui-même ou autrui.
 
 **Exception**
 
 - **(3)** Malgré le paragraphe (2), pour l’application du paragraphe (1) au non-résident âgé d’au moins dix-huit ans ayant déposé — ou fait déposer — une demande de permis de possession, pour une période de soixante jours, d’une arme à feu sans restriction, le contrôleur des armes à feu ou, dans le cas d’un renvoi prévu à l’article 74, le juge de la cour provinciale peut tenir compte des critères prévus au paragraphe (2), sans toutefois y être obligé.
-> 1995, ch. 39, art. 5 et 137; 1996, ch. 19, art. 76.1; 2003, ch. 8, art. 10; 2015, ch. 27, art. 3
+> 1995, ch. 39, art. 5 et 137; 1996, ch. 19, art. 76.1; 2003, ch. 8, art. 10; 2015, ch. 27, art. 3; 2018, ch. 16, art. 182
 
 
 
