@@ -6051,8 +6051,46 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 ### Provinces et zones pour l’application de la partie 2 de la loi
 
 
- 
 
+<table>
+<h4>Liste des provinces</h4>
+<tr>
+<th>Article</th>
+<th>Province</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nouveau-Brunswick</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Île-du-Prince-Édouard</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yukon</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nunavut</td>
+</tr>
+</table>
+
+
+
+> 2018, ch. 12, art. 186 « ann. 1 »; DORS/2018-212.
 
 
 
