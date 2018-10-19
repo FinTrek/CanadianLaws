@@ -6099,8 +6099,46 @@ but nothing in this subsection limits the liability of the transferor under this
 ### Provinces and Areas for the Purposes of Part 2 of the Act
 
 
- 
 
+<table>
+<h4>List of Provinces</h4>
+<tr>
+<th>Item</th>
+<th>Province</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>2</td>
+<td>New Brunswick</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Prince Edward Island</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yukon</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nunavut</td>
+</tr>
+</table>
+
+
+
+> 2018, c. 12, s. 186 “Sch. 1”; SOR/2018-212.
 
 
 
