@@ -237,7 +237,7 @@ Autorités habilitantes :
 
 
 
-### Honoraires d'analyse
+### Honoraires d’analyse
 
 
 **A.01.060** Les honoraires d’analyse de tout échantillon, autrement qu’aux fins de la présente Loi ou pour le compte d’un autre ministère du gouvernement du Canada aux fins de poursuites judiciaires, sont de 15 $.
@@ -245,7 +245,7 @@ Autorités habilitantes :
 
 
 
-### Étiquetage des contenants d'aliments et de drogues sous pression
+### Étiquetage des contenants d’aliments et de drogues sous pression
 
 
 **A.01.060.1** Les définitions qui suivent s’appliquent aux articles A.01.061 et A.01.062.
@@ -4265,7 +4265,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-##### Aliments utilisés dans la fabrication d'autres aliments
+##### Aliments utilisés dans la fabrication d’autres aliments
 
 
 **B.01.404** 
@@ -5053,7 +5053,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-##### Modèle composé — différents types d'aliments
+##### Modèle composé — différents types d’aliments
 
 
 **B.01.457** 
@@ -5189,7 +5189,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-##### Modèle double — différentes quantités d'aliments
+##### Modèle double — différentes quantités d’aliments
 
 
 **B.01.458** 
@@ -5320,7 +5320,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-##### Modèle composé — différentes quantités d'aliments
+##### Modèle composé — différentes quantités d’aliments
 
 
 **B.01.459** 
@@ -5472,7 +5472,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 ##### Modèles standard et horizontal — bébés âgés d’au moins six mois mais de moins d’un an
-> [DORS/2003-11, art. 20; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2016-305, art. 34]
+> [DORS/2003-11, art. 20; err.(A), Vol. 137, no 5; DORS/2016-305, art. 34]
 
 
 
@@ -22379,7 +22379,7 @@ il doit présenter les caractéristiques suivantes :
 
 
 **TITRE 21** 
-### Produits d'animaux marins et d'animaux d'eau douce
+### Produits d’animaux marins et d’animaux d’eau douce
 
 
 **B.21.001** Les aliments mentionnés dans le présent titre sont compris dans le terme *produits d’animaux marins et d’animaux d’eau douce*.
@@ -23276,7 +23276,7 @@ ne soit un succédané complet du régime total en ce qu’il satisfait aux beso
 
 
 
-#### Substituts de repas, suppléments nutritifs, repas préemballés et aliments vendus par les cliniques d'amaigrissement
+#### Substituts de repas, suppléments nutritifs, repas préemballés et aliments vendus par les cliniques d’amaigrissement
 
 
 **B.24.200** 
@@ -25983,17 +25983,37 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 - **(1)** L’espace principal de l’étiquette intérieure et de l’étiquette extérieure d’une drogue sous forme posologique indique l’identification numérique attribuée à la drogue, précédée de la mention « Drogue : identification numérique » ou de la mention « *Drug Identification Number* », ou des deux, ou de l’abréviation « DIN ».
 
-- **(2)** Le paragraphe (1) ne s’applique pas à une drogue
-	- **a)** préparée par un pharmacien, conformément à une ordonnance, ou par un praticien; ou
-	- **b)** vendue conformément à une ordonnance, si l’étiquette de cette drogue indique :
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** à la drogue sous forme posologique préparée par un pharmacien, conformément à une ordonnance, ou par un praticien;
+	- **b)** à la drogue sous forme posologique vendue conformément à une ordonnance si les renseignements ci-après figurent sur l’étiquette de la drogue :
 		- **(i)** le nom propre, le nom usuel ou la marque nominative de la drogue,
-		- **(ii)** l’activité de la drogue, et
+		- **(ii)** l’activité de la drogue,
 		- **(iii)** le nom du fabricant de la drogue.
 
-- **(3)** Aux fins du présent article et de l’article C.01.014, une ***drogue sous sa forme posologique*** s’entend d’une drogue prête pour la consommation sans autre transformation.
+- **(3)** Au présent article et aux articles C.01.005.1 et C.01.014, ***drogue sous forme posologique*** s’entend d’une drogue prête à être utilisée par le consommateur sans devoir faire l’objet d’aucun autre processus de fabrication.
 
 - **(4) et (5)** [Abrogés, DORS/81-248, art. 1]
-> DORS/81-248, art. 1; DORS/93-202, art. 3; DORS/98-423, art. 2; DORS/2001-181, art. 4; DORS/2017-259, art. 2; DORS/2018-69, art. 27.
+> DORS/81-248, art. 1; DORS/93-202, art. 3; DORS/98-423, art. 2; DORS/2001-181, art. 4; DORS/2017-259, art. 2; DORS/2018-69, art. 27; DORS/2018-77, art. 1.
+
+
+
+
+**C.01.005.1** 
+
+- **(1)** Il est interdit au pharmacien et au praticien de vendre tout opioïde de catégorie A, notamment tout opioïde de catégorie A préparé par un pharmacien, conformément à une ordonnance, ou par un praticien, sauf si les conditions suivantes sont réunies :
+	- **a)** un autocollant d’avertissement conforme aux spécifications prévues dans le document source est apposé sur l’emballage de la drogue;
+	- **b)** la drogue est accompagnée d’une fiche de renseignements à l’intention du patient conforme aux spécifications prévues dans le document source.
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’égard de la vente d’un opioïde de catégorie A par un pharmacien ou un praticien dans les cas suivants :
+	- **a)** l’opioïde sera ou est administré sous la surveillance d’un praticien;
+	- **b)** l’opioïde est vendu à un pharmacien ou à un praticien.
+
+- **(3)** Les définitions ci-après s’appliquent au présent article.
+
+***document source*** Document intitulé Information pour les patients concernant les opioïdes, publié par le gouvernement du Canada sur son site Web, avec ses modifications successives. (*source document*)
+
+***opioïde de catégorie A*** Drogue sous forme posologique figurant dans la partie A de la Liste des opioïdes, publiée par le gouvernement du Canada sur son site Web, avec ses modifications successives. (*Class A opioid*)
+> DORS/2018-77, art. 2.
 
 
 
@@ -26068,15 +26088,15 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
-#### Attribution et annulation de l'identification numérique des drogues
+#### Attribution et annulation de l’identification numérique des drogues
 
 
 **C.01.014** 
 
-- **(1)** Il est interdit à un fabricant de vendre, sous forme posologique, une drogue qui n’a pas fait l’objet d’une identification numérique, ou dont l’identification a été annulée selon l’article C.01.014.6.
+- **(1)** Il est interdit à tout fabricant de vendre une drogue sous forme posologique à laquelle une identification numérique n’a pas été attribuée ou dont l’identification numérique a été annulée en application de l’article C.01.014.6.
 
 - **(2)** Le paragraphe (1) ne s’applique pas au produit de santé animale, à la drogue destinée à l’étude au sens de l’article C.03.301, ni à l’aliment médicamenté au sens du paragraphe 2(1) du [Règlement de 1983 sur les aliments du bétail](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/593.md).
-> DORS/81-248, art. 2; DORS/97-12, art. 3; DORS/2013-179, art. 1; DORS/2017-259, art. 3.
+> DORS/81-248, art. 2; DORS/97-12, art. 3; DORS/2013-179, art. 1; DORS/2017-259, art. 3; DORS/2018-77, art. 3.
 
 
 
@@ -27651,6 +27671,38 @@ VIOLET DE MANGANÈSE (C.I. n<sup>o</sup> 77742);
 
 
 
+#### Renseignements — risque grave de préjudice à la santé humaine
+
+
+**C.01.050** 
+
+- **(1)** Le présent article s’applique au titulaire de l’une des autorisations relatives à un produit thérapeutique suivantes :
+	- **a)** l’identification numérique attribuée en application du paragraphe C.01.014.2(1);
+	- **b)** l’avis de conformité délivré en application des articles C.08.004 ou C.08.004.01.
+
+- **(2)** Le titulaire d’une autorisation relative à un produit thérapeutique délivrée à l’égard d’une drogue appartenant à l’une des catégories mentionnées au paragraphe (4) fournit au ministre les renseignements dont il a reçu communication ou a connaissance concernant tout risque grave de préjudice à la santé humaine et se rapportant à l’innocuité de la drogue en ce qui concerne :
+	- **a)** les risques communiqués, et la façon dont ils l’ont été, par toute autorité réglementaire étrangère mentionnée dans la partie A de la Liste des autorités réglementaires étrangères pour l’application de l’article C.01.050 du Règlement sur les aliments et drogues, publiée par le gouvernement du Canada sur son site Web, avec ses modifications successives, ou par toute personne autorisée à fabriquer ou à vendre une drogue sur le territoire relevant de la compétence d’une telle autorité;
+	- **b)** les changements apportés à l’étiquetage de toute drogue à la demande de toute autorité réglementaire étrangère mentionnée dans la partie B de la liste visée à l’alinéa a) ou communiqués à une telle autorité;
+	- **c)** les rappels, les réévaluations et les suspensions ou révocations d’autorisations, notamment de licences, relativement à toute drogue, sur le territoire relevant de la compétence de toute autorité réglementaire étrangère mentionnée dans la partie C de la liste visée à l’alinéa a).
+
+- **(3)** Il fournit ces renseignements au ministre au plus tard soixante-douze heures après en avoir reçu communication ou en avoir eu connaissance, selon la première des deux éventualités à survenir.
+
+- **(4)** Les catégories de drogues sont les suivantes :
+	- **a)** les drogues sur ordonnance;
+	- **b)** les drogues qui doivent être vendues conformément à une ordonnance aux termes de la partie G, du [Règlement sur les benzodiazépines et autres substances ciblées](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/217.md) ou du [Règlement sur les stupéfiants](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201041.md);
+	- **c)** les drogues qui peuvent être vendues sans ordonnance, mais à administrer uniquement sous la surveillance d’un praticien.
+
+- **(5)** Malgré le paragraphe (2), le titulaire d’une autorisation relative à un produit thérapeutique qui a fourni des renseignements en application :
+	- **a)** de l’alinéa (2)a) n’est pas tenu de fournir les mêmes renseignements de nouveau, en application de cet alinéa, dans le cas où il en a reçu communication ou en a connaissance relativement à une autorité réglementaire étrangère ou à une personne visées par cet alinéa;
+	- **b)** des alinéas (2)b) ou c) n’est pas tenu de fournir les mêmes renseignements de nouveau, en application de ces alinéas, dans le cas où il en a reçu communication ou en a connaissance relativement à une autorité réglementaire étrangère visée par cet alinéa.
+
+- **(6)** Au présent article, ***autorité réglementaire étrangère*** s’entend de tout organisme gouvernemental ou de toute autre entité, ailleurs qu’au Canada, qui est habilité à contrôler la fabrication, l’utilisation ou la vente de drogues sur le territoire relevant de sa compétence et qui peut prendre des mesures d’exécution pour veiller à ce que les drogues qui y sont commercialisées satisfassent aux exigences légales qui s’appliquent.
+> DORS/2018-84, art. 2.
+
+
+
+
+
 #### Retrait du marché
 
 
@@ -28205,7 +28257,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de
 
 
 
-#### Drogues d'application vétérinaire
+#### Drogues d’application vétérinaire
 
 
 **C.01.600** Il est interdit de vendre pour usage vétérinaire une drogue énumérée au tableau des doses limites des drogues pour adultes, sauf une drogue présentée sous une forme impropre à l’usage humain, si les étiquettes intérieure et extérieure de cette drogue ne portent pas toutes deux la mention « Pour usage vétérinaire seulement » ou « Usage vétérinaire seulement ».
@@ -28405,7 +28457,7 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de
 
 
 **TITRE 1A** 
-### Licence d'établissement
+### Licence d’établissement
 
 
 
@@ -29222,7 +29274,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 
 
-#### Analyse du matériel d'emballage
+#### Analyse du matériel d’emballage
 
 
 **C.02.016** 
@@ -29472,7 +29524,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 
 
-#### Drogues de l'annexe C
+#### Drogues de l’annexe C
 
 
 **C.03.001** Dans le présent titre,
@@ -30112,7 +30164,7 @@ où l’élément de filiation est séparé de l’élément mère,
 
 
 
-#### Drogues de l'annexe D
+#### Drogues de l’annexe D
 
 
 **C.04.001** Dans le présent titre,
@@ -31151,7 +31203,7 @@ jugés acceptables par le ministre.
 
 
 
-#### Suspension d'insuline-zinc d'absorption rapide
+#### Suspension d’insuline-zinc d’absorption rapide
 
 
 **C.04.557** La préparation insulinique appelée « Suspension d’insuline-zinc d’absorption rapide » doit être une suspension stérile, dans un milieu aqueux tamponné, d’insuline modifiée de telle façon par addition de zinc que le précipité en suspension soit une substance amorphe, doit avoir un pH d’au moins 7,0 et d’au plus 7,8 et doit renfermer,
@@ -31227,7 +31279,7 @@ jugés acceptables par le ministre.
 
 
 
-#### Suspension d'insuline-zinc d'absorption moyenne
+#### Suspension d’insuline-zinc d’absorption moyenne
 
 
 **C.04.563** La préparation insulinique appelée « Suspension d’insuline-zinc d’absorption moyenne » doit être une suspension stérile, dans un milieu aqueux tamponné, d’insuline modifiée de telle façon par addition de zinc que le précipité en suspension soit un mélange de cristaux et de substance amorphe dans une proportion approximative de sept parties de cristaux pour trois parties de substance amorphe, doit avoir un pH d’au moins 7,0 et d’au plus 7,8 et doit renfermer,
@@ -31304,7 +31356,7 @@ jugés acceptables par le ministre.
 
 
 
-#### Suspension d'insuline-zinc d'absorption prolongée
+#### Suspension d’insuline-zinc d’absorption prolongée
 
 
 **C.04.569** La préparation insulinique appelée « Suspension d’insuline-zinc d’absorption prolongée » doit être une suspension stérile, dans un milieu aqueux tamponné, d’insuline modifiée de telle façon par addition de zinc que le précipité en suspension consiste en cristaux et ne contienne au plus qu’une quantité infime de substance amorphe, doit avoir un pH d’au moins 7,0 et d’au plus 7,8 et doit renfermer,
@@ -32037,7 +32089,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-#### Champ d'application
+#### Champ d’application
 
 
 **C.05.002** 
@@ -32074,7 +32126,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-#### Demande d'autorisation
+#### Demande d’autorisation
 
 
 **C.05.005** La demande d’autorisation pour la vente ou l’importation d’une drogue destinée à un essai clinique sous le régime du présent titre est présentée au ministre par le promoteur, est signée et datée par le directeur médical ou scientifique du promoteur au Canada et par le premier dirigeant du promoteur et contient les renseignements et documents suivants :
@@ -32221,7 +32273,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-###### Bonnes pratiques cliniques
+#### Bonnes pratiques cliniques
 
 
 **C.05.010** Le promoteur doit veiller à ce que tout essai clinique soit mené conformément aux bonnes pratiques cliniques et, en particulier, veiller à ce que :
@@ -32243,7 +32295,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-###### Étiquetage
+#### Étiquetage
 
 
 **C.05.011** Malgré les autres dispositions du présent règlement relatives à l’étiquetage, le promoteur doit veiller à ce que la drogue porte une étiquette sur laquelle figurent, dans les deux langues officielles, les renseignements suivants :
@@ -32261,7 +32313,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-###### Registres
+#### Registres
 
 
 **C.05.012** 
@@ -32289,7 +32341,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-###### Présentation de renseignements et d'échantillons
+#### Présentation de renseignements et d’échantillons
 
 
 **C.05.013** 
@@ -32308,7 +32360,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-###### Rapport sur les réactions indésirables graves et imprévues à la drogue
+#### Rapport sur les réactions indésirables graves et imprévues à la drogue
 
 
 **C.05.014** 
@@ -32326,7 +32378,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-###### Cessation d'un essai clinique
+#### Cessation d’un essai clinique
 
 
 **C.05.015** 
@@ -32447,7 +32499,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-#### Comprimés d'oestrogènes conjugués
+#### Comprimés d’oestrogènes conjugués
 
 
 **C.06.004** **[N].** Les **comprimés d’oestrogènes conjugués** doivent être la drogue décrite dans la *Pharmacopeia of the United States of America*, XVIII (1970), sauf que
@@ -32535,7 +32587,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-#### Comprimés d'oestrogènes estérifiés
+#### Comprimés d’oestrogènes estérifiés
 
 
 **C.06.162** **[N].** Les **comprimés d’oestrogènes estérifiés** doivent être la drogue *esterified estrogens tablets* décrite dans la Pharmacopeia of the United States of America.
@@ -32599,7 +32651,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-**TITRE 7 ** 
+**TITRE 7** 
 ### Vente de drogues aux fins de mise en oeuvre de la décision du Conseil général
 
 
@@ -33163,7 +33215,7 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 
 
-#### Vente d'une drogue nouvelle pour un traitement d'urgence
+#### Vente d’une drogue nouvelle pour un traitement d’urgence
 
 
 **C.08.010** 
@@ -33198,7 +33250,7 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 
 
-#### Vente d'aliments médicamentés
+#### Vente d’aliments médicamentés
 
 
 **C.08.012** 
@@ -33253,7 +33305,7 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 
 
-##### Certificat d'études expérimentales
+##### Certificat d’études expérimentales
 
 
 **C.08.014** 
@@ -33331,7 +33383,7 @@ le ministre doit délivrer le certificat d’études expérimentales pour la con
 
 
 
-##### Suspension ou annulation du certificat d'études expérimentales
+##### Suspension ou annulation du certificat d’études expérimentales
 
 
 **C.08.018** 
@@ -34150,7 +34202,7 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 
 **TITRE 3** 
-### Addition de vitamines, de minéraux nutritifs ou d'acides aminés aux aliments
+### Addition de vitamines, de minéraux nutritifs ou d’acides aminés aux aliments
 
 
 **D.03.001** 
@@ -34625,7 +34677,7 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 
 
-#### Manière prescrite de présenter un avis de demande d'une ordonnance de restitution
+#### Manière prescrite de présenter un avis de demande d’une ordonnance de restitution
 
 
 **G.01.010** 
@@ -35653,7 +35705,7 @@ selon que peut l’exiger le ministre;
 
 
 
-#### Nécessaires d'essai contenant des drogues contrôlées
+#### Nécessaires d’essai contenant des drogues contrôlées
 
 
 **G.06.002.1** Toute personne peut vendre, posséder ou autrement manipuler un nécessaire d’essai contenant une drogue contrôlée si
@@ -35859,7 +35911,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 **PARTIE J** 
-## Drogues d'usage restreint
+## Drogues d’usage restreint
 
 
 
@@ -36300,7 +36352,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 
 
-#### Vente des drogues d'usage restreint
+#### Vente des drogues d’usage restreint
 
 
 **J.01.015** Un établissement peut, sous une forme approuvée par le ministre, faire à un distributeur autorisé ou au ministre, une demande d’achat d’une drogue d’usage restreint
@@ -36468,7 +36520,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 
 
-#### Nécessaires d'essai contenant des drogues d'usage restreint
+#### Nécessaires d’essai contenant des drogues d’usage restreint
 
 
 **J.01.033.1** Toute personne peut vendre, posséder ou autrement manipuler un nécessaire d’essai contenant une drogue d’usage restreint si
@@ -36510,7 +36562,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 
-#### Manière prescrite de présenter un avis de demande d'une ordonnance de restitution
+#### Manière prescrite de présenter un avis de demande d’une ordonnance de restitution
 
 
 **J.01.035** 
