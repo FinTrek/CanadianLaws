@@ -4249,7 +4249,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 ##### Foods for Infants Six Months of Age or Older but Less Than One Year of Age
-> [SOR/2016-305, s. 20] 
+> [SOR/2016-305, s. 20]
 
 
 
@@ -26003,17 +26003,37 @@ and only the L forms of the amino acids have been added.
 
 - **(1)** The principal display panel of both the inner label and outer label of a drug in dosage form shall show the drug identification number assigned for that drug, preceded by the expression “Drug Identification Number” or “*Drogue : identification numérique*”, or both, or the abbreviation “DIN”.
 
-- **(2)** Subsection (1) does not apply to a drug
-	- **(a)** compounded by a pharmacist pursuant to a prescription or by a practitioner; or
-	- **(b)** sold pursuant to a prescription, where the label of that drug indicates:
-		- **(i)** the proper name, the common name or the brand name of the drug,
-		- **(ii)** the potency of the drug, and
-		- **(iii)** the name of the manufacturer of the drug.
+- **(2)** Subsection (1) does not apply to
+	- **(a)** a drug in dosage form that is compounded by a pharmacist under a prescription or by a practitioner; or
+	- **(b)** a drug in dosage form that is sold under a prescription if the following information appears on the drug’s label:
+		- **(i)** the drug’s proper name, common name or brand name,
+		- **(ii)** the drug’s potency, and
+		- **(iii)** the name of the drug’s manufacturer.
 
-- **(3)** For the purposes of this section and section C.01.014, ***a drug in dosage form*** means a drug in a form in which it is ready for use by the consumer without requiring any further manufacturing.
+- **(3)** In this section and in sections C.01.005.1 and C.01.014, ***drug in dosage form*** means a drug in a form in which it is ready for use by the consumer without requiring any further manufacturing.
 
 - **(4) and (5)** [Repealed, SOR/81-248, s. 1]
-> SOR/81-248, s. 1; SOR/93-202, s. 3; SOR/98-423, s. 2; SOR/2001-181, s. 4; SOR/2017-259, s. 2; SOR/2018-69, s. 27.
+> SOR/81-248, s. 1; SOR/93-202, s. 3; SOR/98-423, s. 2; SOR/2001-181, s. 4; SOR/2017-259, s. 2; SOR/2018-69, s. 27; SOR/2018-77, s. 1.
+
+
+
+
+**C.01.005.1** 
+
+- **(1)** No pharmacist or practitioner shall sell a Class A opioid — including one that is compounded by a pharmacist under a prescription or by a practitioner — unless
+	- **(a)** the drug’s package has applied to it a warning sticker that meets the specifications set out in the source document; and
+	- **(b)** the drug is accompanied by a patient information handout that meets the specifications set out in the source document.
+
+- **(2)** Subsection (1) does not apply in respect of the sale of a Class A opioid by a pharmacist or practitioner if
+	- **(a)** the opioid will be, or is, administered under the supervision of a practitioner; or
+	- **(b)** the sale is to a pharmacist or practitioner.
+
+- **(3)** The following definitions apply in this section.
+
+***Class A opioid*** means a drug in dosage form set out in Part A of the List of Opioids, published by the Government of Canada on its website, as amended from time to time. (*opioïde de catégorie A*)
+
+***source document*** means the document entitled Information for Patients Concerning Opioids, published by the Government of Canada on its website, as amended from time to time. (*document source*)
+> SOR/2018-77, s. 2.
 
 
 
@@ -26093,10 +26113,10 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 
 **C.01.014** 
 
-- **(1)** No manufacturer shall sell a drug in dosage form unless a drug identification number has been assigned for that drug and the assignment of the number has not been cancelled pursuant to section C.01.014.6.
+- **(1)** No manufacturer shall sell a drug in dosage form unless a drug identification number has been assigned for that drug and the assignment of the number has not been cancelled under section C.01.014.6.
 
 - **(2)** Subsection (1) does not apply in respect of a veterinary health product, a study drug as defined in section C.03.301 or a medicated feed as defined in subsection 2(1) of the [Feeds Regulations, 1983](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/593.md).
-> SOR/81-248, s. 2; SOR/97-12, s. 3; SOR/2013-179, s. 1; SOR/2017-259, s. 3.
+> SOR/81-248, s. 2; SOR/97-12, s. 3; SOR/2013-179, s. 1; SOR/2017-259, s. 3; SOR/2018-77, s. 3.
 
 
 
@@ -27696,6 +27716,38 @@ ZINC OXIDE (C.I. No. 77947);
 	- **(iii)** the date upon which each such distribution was made; and
 - **(b)** keep those records and all orders received for drugs in accordance with section C.01.048 for a period of not less than two years from the date upon which the distribution referred to in the records was made.
 > SOR/93-202, s. 10.
+
+
+
+
+
+#### Information — Serious Risk of Injury to Human Health
+
+
+**C.01.050** 
+
+- **(1)** This section applies to a holder of one or more of the following therapeutic product authorizations:
+	- **(a)** a drug identification number that has been assigned under subsection C.01.014.2(1); and
+	- **(b)** a notice of compliance that has been issued under section C.08.004 or C.08.004.01.
+
+- **(2)** The holder of a therapeutic product authorization in respect of a drug that is part of a class of drugs set out in subsection (4) shall provide the Minister with information in respect of any serious risk of injury to human health that the holder receives or becomes aware of and that is relevant to the safety of the drug, regarding
+	- **(a)** risks that have been communicated by any foreign regulatory authority that is set out in Part A of the List of Foreign Regulatory Authorities for the Purposes of Section C.01.050 of the Food and Drug Regulations, published by the Government of Canada on its website, as amended from time to time, or by any person who is authorized to manufacture or sell a drug within the jurisdiction of such an authority, and the manner of the communication;
+	- **(b)** changes that have been made to the labelling of any drug and that have been communicated to or requested by any foreign regulatory authority that is set out in Part B of the list referred to in paragraph (a); and
+	- **(c)** recalls, reassessments and suspensions or revocations of authorizations, including licences, in respect of any drug, that have taken place within the jurisdiction of any foreign regulatory authority that is set out in Part C of the list referred to in paragraph (a).
+
+- **(3)** The information shall be provided to the Minister within 72 hours after the holder receives or becomes aware of it, whichever occurs first.
+
+- **(4)** The classes of drugs are
+	- **(a)** prescription drugs;
+	- **(b)** drugs that are required to be sold under a prescription by Part G, the [Benzodiazepines and Other Targeted Substances Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/217.md) or the [Narcotic Control Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201041.md); and
+	- **(c)** drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner.
+
+- **(5)** Despite subsection (2), a holder of a therapeutic product authorization who provided information in accordance with
+	- **(a)** paragraph (2)(a) is not required to provide the same information again under that paragraph in the case where the holder receives or becomes aware of that information in respect of a foreign regulatory authority or person referred to in that paragraph; or
+	- **(b)** paragraph (2)(b) or (c) is not required to provide the same information again under that paragraph in the case where the holder receives or becomes aware of that information in respect of a foreign regulatory authority referred to in that paragraph.
+
+- **(6)** In this section, ***foreign regulatory authority*** means a government agency or other entity outside Canada that has a legal right to control the manufacturing, use or sale of drugs within its jurisdiction and that may take enforcement action to ensure that drugs marketed within its jurisdiction comply with the applicable legal requirements.
+> SOR/2018-84, s. 2.
 
 
 
@@ -32272,7 +32324,7 @@ and if unpurified anterior pituitary extract
 
 
 
-###### Good Clinical Practices
+#### Good Clinical Practices
 
 
 **C.05.010** Every sponsor shall ensure that a clinical trial is conducted in accordance with good clinical practices and, without limiting the generality of the foregoing, shall ensure that
@@ -32294,7 +32346,7 @@ and if unpurified anterior pituitary extract
 
 
 
-###### Labelling
+#### Labelling
 
 
 **C.05.011** Despite any other provision of these Regulations respecting labelling, the sponsor shall ensure that the drug bears a label that sets out the following information in both official languages:
@@ -32312,7 +32364,7 @@ and if unpurified anterior pituitary extract
 
 
 
-###### Records
+#### Records
 
 
 **C.05.012** 
@@ -32340,7 +32392,7 @@ and if unpurified anterior pituitary extract
 
 
 
-###### Submission of Information and Samples
+#### Submission of Information and Samples
 
 
 **C.05.013** 
@@ -32359,7 +32411,7 @@ and if unpurified anterior pituitary extract
 
 
 
-###### Serious Unexpected Adverse Drug Reaction Reporting
+#### Serious Unexpected Adverse Drug Reaction Reporting
 
 
 **C.05.014** 
@@ -32377,7 +32429,7 @@ and if unpurified anterior pituitary extract
 
 
 
-###### Discontinuance of a Clinical Trial
+#### Discontinuance of a Clinical Trial
 
 
 **C.05.015** 
