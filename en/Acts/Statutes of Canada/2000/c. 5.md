@@ -509,6 +509,93 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 
 
 
+**DIVISION 1.1** 
+### Breaches of Security Safeguards
+
+
+
+**Report to Commissioner**
+
+**10.1** 
+
+- **(1)** An organization shall report to the Commissioner any breach of security safeguards involving personal information under its control if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to an individual.
+
+**Report requirements**
+
+- **(2)** The report shall contain the prescribed information and shall be made in the prescribed form and manner as soon as feasible after the organization determines that the breach has occurred.
+
+**Notification to individual**
+
+- **(3)** Unless otherwise prohibited by law, an organization shall notify an individual of any breach of security safeguards involving the individual’s personal information under the organization’s control if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to the individual.
+
+**Contents of notification**
+
+- **(4)** The notification shall contain sufficient information to allow the individual to understand the significance to them of the breach and to take steps, if any are possible, to reduce the risk of harm that could result from it or to mitigate that harm. It shall also contain any other prescribed information.
+
+**Form and manner**
+
+- **(5)** The notification shall be conspicuous and shall be given directly to the individual in the prescribed form and manner, except in prescribed circumstances, in which case it shall be given indirectly in the prescribed form and manner.
+
+**Time to give notification**
+
+- **(6)** The notification shall be given as soon as feasible after the organization determines that the breach has occurred.
+
+**Definition of significant harm**
+
+- **(7)** For the purpose of this section, ***significant harm*** includes bodily harm, humiliation, damage to reputation or relationships, loss of employment, business or professional opportunities, financial loss, identity theft, negative effects on the credit record and damage to or loss of property.
+
+**Real risk of significant harm — factors**
+
+- **(8)** The factors that are relevant to determining whether a breach of security safeguards creates a real risk of significant harm to the individual include
+	- **(a)** the sensitivity of the personal information involved in the breach;
+	- **(b)** the probability that the personal information has been, is being or will be misused; and
+	- **(c)** any other prescribed factor.
+> 2015, c. 32, s. 10.
+
+
+
+
+
+**Notification to organizations**
+
+**10.2** 
+
+- **(1)** An organization that notifies an individual of a breach of security safeguards under subsection 10.1(3) shall notify any other organization, a government institution or a part of a government institution of the breach if the notifying organization believes that the other organization or the government institution or part concerned may be able to reduce the risk of harm that could result from it or mitigate that harm, or if any of the prescribed conditions are satisfied.
+
+**Time to give notification**
+
+- **(2)** The notification shall be given as soon as feasible after the organization determines that the breach has occurred.
+
+**Disclosure of personal information**
+
+- **(3)** In addition to the circumstances set out in subsection 7(3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual if
+	- **(a)** the disclosure is made to the other organization, the government institution or the part of a government institution that was notified of the breach under subsection (1); and
+	- **(b)** the disclosure is made solely for the purposes of reducing the risk of harm to the individual that could result from the breach or mitigating that harm.
+
+**Disclosure without consent**
+
+- **(4)** Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in the circumstance set out in subsection (3).
+> 2015, c. 32, s. 10.
+
+
+
+
+
+**Records**
+
+**10.3** 
+
+- **(1)** An organization shall, in accordance with any prescribed requirements, keep and maintain a record of every breach of security safeguards involving personal information under its control.
+
+**Provision to Commissioner**
+
+- **(2)** An organization shall, on request, provide the Commissioner with access to, or a copy of, a record.
+> 2015, c. 32, s. 10.
+
+
+
+
+
 **DIVISION 2** 
 ### Remedies
 
@@ -522,7 +609,7 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 
 **11** 
 
-- **(1)** An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or for not following a recommendation set out in Schedule 1.
+- **(1)** An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or 1.1 or for not following a recommendation set out in Schedule 1.
 
 **Commissioner may initiate complaint**
 
@@ -535,6 +622,8 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 **Notice**
 
 - **(4)** The Commissioner shall give notice of a complaint to the organization against which the complaint was made.
+> 2000, c. 5, s. 11; 2015, c. 32, s. 11.
+
 
 
 
@@ -694,9 +783,11 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 **Remedies**
 
 **16** The Court may, in addition to any other remedies it may give,
-- **(a)** order an organization to correct its practices in order to comply with sections 5 to 10;
+- **(a)** order an organization to correct its practices in order to comply with Divisions 1 and 1.1;
 - **(b)** order an organization to publish a notice of any action taken or proposed to be taken to correct its practices, whether or not ordered to correct them under paragraph (a); and
 - **(c)** award damages to the complainant, including damages for any humiliation that the complainant has suffered.
+> 2000, c. 5, s. 16; 2015, c. 32, s. 14.
+
 
 
 
@@ -822,7 +913,11 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 
 **20** 
 
-- **(1)** Subject to subsections (2) to (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part.
+- **(1)** Subject to subsections (2) to (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part other than those referred to in subsection 10.1(1) or 10.3(2).
+
+**Confidentiality — reports and records**
+
+- **(1.1)** Subject to subsections (2) to (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information contained in a report made under subsection 10.1(1) or in a record obtained under subsection 10.3(2).
 
 **Public interest**
 
@@ -847,10 +942,14 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 
 - **(5)** The Commissioner may disclose to the Attorney General of Canada or of a province, as the case may be, information relating to the commission of an offence against any law of Canada or a province on the part of an officer or employee of an organization if, in the Commissioner’s opinion, there is evidence of an offence.
 
+**Disclosure of breach of security safeguards**
+
+- **(6)** The Commissioner may disclose, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose to a government institution or a part of a government institution, any information contained in a report made under subsection 10.1(1) or in a record obtained under subsection 10.3(2) if the Commissioner has reasonable grounds to believe that the information could be useful in the investigation of a contravention of the laws of Canada or a province that has been, is being or is about to be committed.
+
 **Disclosure**
 
-- **(6)** The Commissioner may disclose information, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose information, in the course of proceedings in which the Commissioner has intervened under paragraph 50(c) of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or in accordance with subsection 58(3) or 60(1) of that Act.
-> 2000, c. 5, s. 20; 2010, c. 23, s. 86; 2015, c. 32, s. 17.
+- **(7)** The Commissioner may disclose information, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose information, in the course of proceedings in which the Commissioner has intervened under paragraph 50(c) of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or in accordance with subsection 58(3) or 60(1) of that Act.
+> 2000, c. 5, s. 20; 2010, c. 23, s. 86; 2015, c. 32, ss. 17, 26.
 
 
 
@@ -956,8 +1055,10 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 **24** The Commissioner shall
 - **(a)** develop and conduct information programs to foster public understanding, and recognition of the purposes, of this Part;
 - **(b)** undertake and publish research that is related to the protection of personal information, including any such research that is requested by the Minister of Industry;
-- **(c)** encourage organizations to develop detailed policies and practices, including organizational codes of practice, to comply with sections 5 to 10; and
+- **(c)** encourage organizations to develop detailed policies and practices, including organizational codes of practice, to comply with Divisions 1 and 1.1; and
 - **(d)** promote, by any means that the Commissioner considers appropriate, the purposes of this Part.
+> 2000, c. 5, s. 24; 2015, c. 32, s. 19.
+
 
 
 
@@ -1004,11 +1105,13 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 
 **27** 
 
-- **(1)** Any person who has reasonable grounds to believe that a person has contravened or intends to contravene a provision of Division 1, may notify the Commissioner of the particulars of the matter and may request that their identity be kept confidential with respect to the notification.
+- **(1)** Any person who has reasonable grounds to believe that a person has contravened or intends to contravene a provision of Division 1 or 1.1 may notify the Commissioner of the particulars of the matter and may request that their identity be kept confidential with respect to the notification.
 
 **Confidentiality**
 
 - **(2)** The Commissioner shall keep confidential the identity of a person who has notified the Commissioner under subsection (1) and to whom an assurance of confidentiality has been provided by the Commissioner.
+> 2000, c. 5, s. 27; 2015, c. 32, s. 22.
+
 
 
 
@@ -1018,9 +1121,9 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 **27.1** 
 
 - **(1)** No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that
-	- **(a)** the employee, acting in good faith and on the basis of reasonable belief, has disclosed to the Commissioner that the employer or any other person has contravened or intends to contravene a provision of Division 1;
-	- **(b)** the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is a contravention of a provision of Division 1;
-	- **(c)** the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order that a provision of Division 1 not be contravened; or
+	- **(a)** the employee, acting in good faith and on the basis of reasonable belief, has disclosed to the Commissioner that the employer or any other person has contravened or intends to contravene a provision of Division 1 or 1.1;
+	- **(b)** the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is a contravention of a provision of Division 1 or 1.1;
+	- **(c)** the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order that a provision of Division 1 or 1.1 not be contravened; or
 	- **(d)** the employer believes that the employee will do anything referred to in paragraph (a), (b) or (c).
 
 **Saving**
@@ -1030,15 +1133,19 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 **Definitions**
 
 - **(3)** In this section, ***employee*** includes an independent contractor and ***employer*** has a corresponding meaning.
+> 2000, c. 5, s. 27.1; 2015, c. 32, s. 23.
+
 
 
 
 
 **Offence and punishment**
 
-**28** Every person who knowingly contravenes subsection 8(8) or 27.1(1) or who obstructs the Commissioner or the Commissioner’s delegate in the investigation of a complaint or in conducting an audit is guilty of
+**28** Every organization that knowingly contravenes subsection 8(8), section 10.1 or subsection 10.3(1) or 27.1(1) or that obstructs the Commissioner or the Commissioner’s delegate in the investigation of a complaint or in conducting an audit is guilty of
 - **(a)** an offence punishable on summary conviction and liable to a fine not exceeding $10,000; or
 - **(b)** an indictable offence and liable to a fine not exceeding $100,000.
+> 2000, c. 5, s. 28; 2015, c. 32, s. 24.
+
 
 
 
