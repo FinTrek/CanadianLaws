@@ -497,6 +497,90 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 
 
+**SECTION 1.1** 
+### Atteintes aux mesures de sécurité
+
+
+
+**Déclaration au commissaire**
+
+**10.1** 
+
+- **(1)** L’organisation déclare au commissaire toute atteinte aux mesures de sécurité qui a trait à des renseignements personnels dont elle a la gestion, s’il est raisonnable de croire, dans les circonstances, que l’atteinte présente un risque réel de préjudice grave à l’endroit d’un individu.
+
+**Modalités de la déclaration**
+
+- **(2)** La déclaration contient les renseignements prévus par règlement et est faite, selon les modalités réglementaires, le plus tôt possible après que l’organisation a conclu qu’il y a eu atteinte.
+
+**Avis à l’intéressé**
+
+- **(3)** À moins qu’une règle de droit ne l’interdise, l’organisation est tenue d’aviser l’intéressé de toute atteinte aux mesures de sécurité qui a trait à des renseignements personnels le concernant et dont elle a la gestion, s’il est raisonnable de croire, dans les circonstances, que l’atteinte présente un risque réel de préjudice grave à son endroit.
+
+**Contenu de l’avis**
+
+- **(4)** L’avis contient suffisamment d’information pour permettre à l’intéressé de comprendre l’importance, pour lui, de l’atteinte et de prendre, si cela est possible, des mesures pour réduire le risque de préjudice qui pourrait en résulter ou pour atténuer un tel préjudice. Il contient aussi tout autre renseignement réglementaire.
+
+**Modalités de l’avis**
+
+- **(5)** L’avis est manifeste et est donné à l’intéressé directement, selon les modalités réglementaires. Dans les circonstances prévues par règlement, il est donné indirectement, selon les modalités réglementaires.
+
+**Délai de l’avis**
+
+- **(6)** L’avis est donné le plus tôt possible après que l’organisation a conclu qu’il y a eu atteinte.
+
+**Définition de préjudice grave**
+
+- **(7)** Pour l’application du présent article, ***préjudice grave*** vise notamment la lésion corporelle, l’humiliation, le dommage à la réputation ou aux relations, la perte financière, le vol d’identité, l’effet négatif sur le dossier de crédit, le dommage aux biens ou leur perte, et la perte de possibilités d’emploi ou d’occasions d’affaires ou d’activités professionnelles.
+
+**Risque réel de préjudice grave : facteurs**
+
+- **(8)** Les éléments servant à établir si une atteinte aux mesures de sécurité présente un risque réel de préjudice grave à l’endroit de l’intéressé sont notamment le degré de sensibilité des renseignements personnels en cause, la probabilité que les renseignements aient été mal utilisés ou soient en train ou sur le point de l’être et tout autre élément prévu par règlement.
+> 2015, ch. 32, art. 10.
+
+
+
+
+
+**Avis à une organisation**
+
+**10.2** 
+
+- **(1)** L’organisation qui, en application du paragraphe 10.1(3), avise un individu d’une atteinte aux mesures de sécurité est tenue d’en aviser toute autre organisation, ou toute institution gouvernementale ou subdivision d’une telle institution, si elle croit que l’autre organisation, l’institution ou la subdivision peut être en mesure de réduire le risque de préjudice pouvant résulter de l’atteinte ou d’atténuer ce préjudice, ou s’il est satisfait à des conditions précisées par règlement.
+
+**Délai de l’avis**
+
+- **(2)** Elle le fait le plus tôt possible après avoir conclu qu’il y a eu atteinte.
+
+**Communication de renseignements personnels**
+
+- **(3)** En plus des cas visés au paragraphe 7(3), pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation peut communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement si :
+	- **a)** d’une part, la communication est faite à l’autre organisation, ou à l’institution gouvernementale ou la subdivision d’une telle institution qui a été avisée de l’atteinte en application du paragraphe (1);
+	- **b)** d’autre part, elle n’est faite que pour réduire le risque de préjudice pour l’intéressé qui pourrait résulter de l’atteinte ou atténuer ce préjudice.
+
+**Communication sans consentement**
+
+- **(4)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans le cas visé au paragraphe (3), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+> 2015, ch. 32, art. 10.
+
+
+
+
+
+**Registre**
+
+**10.3** 
+
+- **(1)** L’organisation tient et conserve, conformément aux règlements, un registre de toutes les atteintes aux mesures de sécurité qui ont trait à des renseignements personnels dont elle a la gestion.
+
+**Accès au registre ou copie**
+
+- **(2)** Sur demande du commissaire, l’organisation lui donne accès à son registre ou lui en remet copie.
+> 2015, ch. 32, art. 10.
+
+
+
+
+
 **SECTION 2** 
 ### Recours
 
@@ -510,7 +594,7 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 **11** 
 
-- **(1)** Tout intéressé peut déposer auprès du commissaire une plainte contre une organisation qui contrevient à l’une des dispositions de la section 1 ou qui omet de mettre en oeuvre une recommandation énoncée dans l’annexe 1.
+- **(1)** Tout intéressé peut déposer auprès du commissaire une plainte contre une organisation qui contrevient à l’une des dispositions des sections 1 ou 1.1, ou qui omet de mettre en oeuvre une recommandation énoncée dans l’annexe 1.
 
 **Plaintes émanant du commissaire**
 
@@ -518,11 +602,13 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 **Délai**
 
-- **(3)** Lorsqu’elle porte sur le refus d’acquiescer à une demande visée à l’article 8, la plainte doit être déposée dans les six mois suivant, selon le cas, le refus ou l’expiration du délai pour répondre à la demande, à moins que le commissaire n’accorde un délai supplémentaire.
+- **(3)** Lorsqu’elle porte sur le refus d’acquiescer à une demande visée à l’article 8, la plainte doit être déposée dans les six mois suivant, selon le cas, le refus ou l’expiration du délai pour répondre à la demande, à moins que le commissaire n’accorde un délai supplémentaire.
 
 **Avis**
 
 - **(4)** Le commissaire donne avis de la plainte à l’organisation visée par celle-ci.
+> 2000, ch. 5, art. 11; 2015, ch. 32, art. 11.
+
 
 
 
@@ -681,10 +767,12 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 **Réparations**
 
-**16** La Cour peut, en sus de toute autre réparation qu’elle accorde :
-- **a)** ordonner à l’organisation de revoir ses pratiques de façon à se conformer aux articles 5 à 10;
-- **b)** lui ordonner de publier un avis énonçant les mesures prises ou envisagées pour corriger ses pratiques, que ces dernières aient ou non fait l’objet d’une ordonnance visée à l’alinéa a);
+**16** La Cour peut, en sus de toute autre réparation qu’elle accorde :
+- **a)** ordonner à l’organisation de revoir ses pratiques en vue de se conformer aux sections 1 et 1.1;
+- **b)** lui ordonner de publier un avis énonçant les mesures prises ou envisagées pour corriger ses pratiques, que ces dernières aient ou non fait l’objet d’une ordonnance visée à l’alinéa a);
 - **c)** accorder au plaignant des dommages-intérêts, notamment en réparation de l’humiliation subie.
+> 2000, ch. 5, art. 16; 2015, ch. 32, art. 14.
+
 
 
 
@@ -808,7 +896,11 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 **20** 
 
-- **(1)** Sous réserve des paragraphes (2) à (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) et 23.1(1) et de l’article 25, le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance par suite de l’exercice des attributions que la présente partie confère au commissaire.
+- **(1)** Sous réserve des paragraphes (2) à (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) et 23.1(1) et de l’article 25, le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance par suite de l’exercice des attributions que la présente partie confère au commissaire, à l’exception de celles visées aux paragraphes 10.1(1) ou 10.3(2).
+
+**Secret — déclarations et registre**
+
+- **(1.1)** Sous réserve des paragraphes (2) à (7), 12(3), 12.2(3), 13(3), 19(1), 23(3) et 23.1(1) et de l’article 25, le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements figurant dans une déclaration obtenue en application du paragraphe 10.1(1) ou dans un registre obtenu en application du paragraphe 10.3(2).
 
 **Intérêt public**
 
@@ -823,8 +915,8 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 **Communication dans le cadre de certaines procédures**
 
 - **(4)** Il peut également communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements :
-	- **a)** dans le cadre des procédures intentées pour l’infraction visée à l’article 28;
-	- **b)** dans le cadre des procédures intentées pour l’infraction visée à l’article 132 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) se rapportant à une déclaration faite en vertu de la présente partie;
+	- **a)** dans le cadre des procédures intentées pour l’infraction visée à l’article 28;
+	- **b)** dans le cadre des procédures intentées pour l’infraction visée à l’article 132 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) se rapportant à une déclaration faite en vertu de la présente partie;
 	- **c)** lors d’une audience de la Cour prévue par cette partie;
 	- **d)** lors de l’appel de la décision rendue par la Cour;
 	- **e)** dans le cadre d’un contrôle judiciaire à l’égard de l’exercice des attributions que la présente partie confère au commissaire.
@@ -833,10 +925,14 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 - **(5)** Dans les cas où, à son avis, il existe des éléments de preuve touchant la perpétration d’infractions au droit fédéral ou provincial par un cadre ou employé d’une organisation, le commissaire peut faire part au procureur général du Canada ou d’une province, selon le cas, des renseignements qu’il détient à cet égard.
 
+**Communication — atteinte aux mesures de sécurité**
+
+- **(6)** Le commissaire peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — tout renseignement figurant dans une déclaration obtenue en application du paragraphe 10.1(1) ou dans un registre obtenu en application du paragraphe 10.3(2) à une institution gouvernementale ou à une subdivision d’une telle institution, si le commissaire a des motifs raisonnables de croire qu’il pourrait être utile à une enquête sur une contravention au droit fédéral ou provincial qui a été commise ou est en train ou sur le point de l’être.
+
 **Communication de renseignements**
 
-- **(6)** Le commissaire peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements soit dans le cadre des procédures où il est intervenu au titre de l’alinéa 50c) de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md), soit en conformité avec les paragraphes 58(3) ou 60(1) de cette loi.
-> 2000, ch. 5, art. 20; 2010, ch. 23, art. 86; 2015, ch. 32, art. 17.
+- **(7)** Le commissaire peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements soit dans le cadre des procédures où il est intervenu au titre de l’alinéa 50c) de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md), soit en conformité avec les paragraphes 58(3) ou 60(1) de cette loi.
+> 2000, ch. 5, art. 20; 2010, ch. 23, art. 86; 2015, ch. 32, art. 17 et 26.
 
 
 
@@ -935,11 +1031,13 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 **Promotion de l’objet de la partie**
 
-**24** Le commissaire :
+**24** Le commissaire :
 - **a)** offre au grand public des programmes d’information destinés à lui faire mieux comprendre la présente partie et son objet;
 - **b)** fait des recherches liées à la protection des renseignements personnels — et en publie les résultats —, notamment toutes telles recherches que le ministre de l’Industrie demande;
-- **c)** encourage les organisations à élaborer des politiques détaillées — notamment des codes de pratiques — en vue de se conformer aux articles 5 à 10;
+- **c)** encourage les organisations à élaborer des politiques détaillées — notamment des codes de pratiques — en vue de se conformer aux sections 1 et 1.1;
 - **d)** prend toute autre mesure indiquée pour la promotion de l’objet de la présente partie.
+> 2000, ch. 5, art. 24; 2015, ch. 32, art. 19.
+
 
 
 
@@ -986,11 +1084,13 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 
 **27** 
 
-- **(1)** Toute personne qui a des motifs raisonnables de croire qu’une autre personne a contrevenu à l’une des dispositions de la section 1, ou a l’intention d’y contrevenir, peut notifier au commissaire des détails sur la question et exiger l’anonymat relativement à cette dénonciation.
+- **(1)** Toute personne qui a des motifs raisonnables de croire qu’une autre personne a contrevenu à l’une des dispositions des sections 1 ou 1.1, ou a l’intention d’y contrevenir, peut notifier au commissaire des détails sur la question et exiger l’anonymat relativement à cette dénonciation.
 
 **Caractère confidentiel**
 
 - **(2)** Le commissaire est tenu de garder confidentielle l’identité du dénonciateur auquel il donne l’assurance de l’anonymat.
+> 2000, ch. 5, art. 27; 2015, ch. 32, art. 22.
+
 
 
 
@@ -1000,10 +1100,10 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 **27.1** 
 
 - **(1)** Il est interdit à l’employeur de congédier un employé, de le suspendre, de le rétrograder, de le punir, de le harceler ou de lui faire subir tout autre inconvénient, ou de le priver d’un avantage lié à son emploi parce que :
-	- **a)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a informé le commissaire que l’employeur ou une autre personne a contrevenu à l’une des dispositions de la section 1, ou a l’intention d’y contrevenir;
-	- **b)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une contravention à l’une des dispositions de la section 1;
-	- **c)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte nécessaire pour empêcher la contravention à l’une des dispositions de la section 1;
-	- **d)** l’employeur croit que l’employé accomplira un des actes prévus aux alinéas a), b) ou c).
+	- **a)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a informé le commissaire que l’employeur ou une autre personne a contrevenu à l’une des dispositions des sections 1 ou 1.1, ou a l’intention d’y contrevenir;
+	- **b)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une contravention à l’une des dispositions des sections 1 ou 1.1;
+	- **c)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte nécessaire pour empêcher la contravention à l’une des dispositions des sections 1 ou 1.1;
+	- **d)** l’employeur croit que l’employé accomplira un des actes prévus aux alinéas a), b) ou c).
 
 **Précision**
 
@@ -1012,15 +1112,19 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 **Définitions**
 
 - **(3)** Dans le présent article, ***employé*** s’entend notamment d’un travailleur autonome et ***employeur*** a un sens correspondant.
+> 2000, ch. 5, art. 27.1; 2015, ch. 32, art. 23.
+
 
 
 
 
 **Infraction et peine**
 
-**28** Quiconque contrevient sciemment aux paragraphes 8(8) ou 27.1(1) ou entrave l’action du commissaire — ou de son délégué — dans le cadre d’une vérification ou de l’examen d’une plainte commet une infraction et encourt, sur déclaration de culpabilité :
+**28** Quiconque contrevient sciemment au paragraphe 8(8), à l’article 10.1 ou aux paragraphes 10.3(1) ou 27.1(1) ou entrave l’action du commissaire — ou de son délégué — dans le cadre d’une vérification ou de l’examen d’une plainte commet une infraction et encourt, sur déclaration de culpabilité :
 - **a)** par procédure sommaire, une amende maximale de 10 000 $;
 - **b)** par mise en accusation, une amende maximale de 100 000 $.
+> 2000, ch. 5, art. 28; 2015, ch. 32, art. 24.
+
 
 
 
