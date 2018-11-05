@@ -426,7 +426,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind2F05_hq_16037'>[*]</a></sup>**(1)** Les articles 44, 45 et 47 à 49 entrent en vigueur à la date fixée par décret, mais cette date ne peut être antérieure à la date d’entrée en vigueur des articles 102 à 113 de la Loi no 2 sur le plan d’action économique de 2014.
 
-<a name='fn_Ind2F05_hq_16037'><sup>*</sup></a>: [Note : Articles 44, 45 et 47 à 49 non en vigueur.]<br />
+<a name='fn_Ind2F05_hq_16037'><sup>*</sup></a>: [Note : Articles 44, 45 et 47 à 49 en vigueur le 5 novembre 2018, *voir* TR/2018-45.]<br />
 
 **Décret — [Loi sur les brevets](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-4.md)**
 
@@ -444,7 +444,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndA7C6_hq_16034'>[*]</a></sup>**(4)** Les articles 46, 63 et 68 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndA7C6_hq_16034'><sup>*</sup></a>: [Note : Articles 46, 63 et 68 non en vigueur.]<br />
+<a name='fn_IndA7C6_hq_16034'><sup>*</sup></a>: [Note : Article 46 en vigueur le 5 novembre 2018, *voir* TR/2018-45; articles 63 et 68 en vigueur le 5 novembre 2018, *voir* TR/2018-49.]<br />
 
 **Douze mois après la date de sanction de la présente loi**
 
