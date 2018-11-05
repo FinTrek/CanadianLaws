@@ -426,7 +426,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind5447_hq_16020'>[*]</a></sup>**(1)** Sections 44, 45 and 47 to 49 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which sections 102 to 113 of the Economic Action Plan 2014 Act, No. 2 come into force.
 
-<a name='fn_Ind5447_hq_16020'><sup>*</sup></a>: [Note: Sections 44, 45 and 47 to 49 not in force.]<br />
+<a name='fn_Ind5447_hq_16020'><sup>*</sup></a>: [Note: Sections 44, 45 and 47 to 49 in force November 5, 2018, *see* SI/2018-45.]<br />
 
 **Order in council — [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md)**
 
@@ -444,7 +444,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind5447_hq_16023'>[*]</a></sup>**(4)** Sections 46, 63 and 68 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind5447_hq_16023'><sup>*</sup></a>: [Note: Sections 46, 63 and 68 not in force.]<br />
+<a name='fn_Ind5447_hq_16023'><sup>*</sup></a>: [Note: Section 46 in force November 5, 2018, *see* SI/2018-45; sections 63 and 68 in force November 5, 2018, *see* SI/2018-49.]<br />
 
 **Twelve months after royal assent**
 
