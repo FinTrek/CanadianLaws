@@ -2435,6 +2435,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Buffalo Point
 - Bande indienne Campbell River
 - Nation des Carriers de Cheslatta
+- Carry The Kettle
 - Bande indienne Cayoose Creek
 - Première Nation crie de Chapleau
 - Première nation Chawathil
@@ -2464,6 +2465,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Fisher River
 - Première Nation Flying Dust
 - Première Nation de Fort McMurray n<sup>o</sup> 468
+- Première Nation de Fort Nelson
 - Fort William
 - Gamblers
 - Première Nation Garden Hill
@@ -2481,6 +2483,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation de Jean Marie River
 - Première nation Kahkewistahaw
 - Kanaka Bar
+- Première Nation Katzie
 - Nation crie Kehewin
 - Première Nation The Key
 - Kingfisher
@@ -2492,6 +2495,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Kwaw-Kwaw Apilt
 - Première Nation Kwikwetlem
 - Bande indienne Lac La Ronge
+- Première Nation du lac Manitoba
+- Première Nation du lac Seul
 - Première Nation de Lake Cowichan
 - Lake St. Martin
 - Lax Kw’alaams
@@ -2563,6 +2568,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Pine Creek
 - Première nation Popkum
 - Première Nation de Poplar River
+- Première Nation Potlotek
 - Première Nation micmaque Qalipu
 - Quatsino
 - Premières Nations Rainy River
@@ -2570,6 +2576,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Red Sucker Lake
 - Première Nation Rolling River
 - Gouvernement de la Première Nation des Anishinabes Roseau River
+- Première Nation anishinabe Sagamok
 - Première Nation Saik’uz
 - Premières Nations Sakimay
 - Première Nation de Salt River n<sup>o</sup> 195
@@ -2606,6 +2613,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Splatsin
 - Nation Squamish
 - Première nation Squiala
+- Nation dakota Standing Buffalo
 - Première Nation de Stellat’en
 - Première nation St. Mary’s
 - Sts’ailes
@@ -2643,6 +2651,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation White Bear
 - Première Nation Whitecap Dakota
 - Première Nation Whitefish River
+- Wikwemikong
 - Williams Lake
 - Première Nation de Woodstock
 - Wunnumin
@@ -2651,6 +2660,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Yakweakwioose
 - Première Nation de Yale
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235.
 
 
