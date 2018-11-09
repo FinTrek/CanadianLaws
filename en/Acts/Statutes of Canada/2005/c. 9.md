@@ -2437,6 +2437,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Buctouche Mic Mac Band
 - Buffalo Point First Nation
 - Campbell River Indian Band
+- Carry the Kettle
 - Cayoose Creek Indian Band
 - Chapleau Cree First Nation
 - Chawathil First Nation
@@ -2467,6 +2468,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Fisher River
 - Flying Dust First Nation
 - Fort McMurray #468 First Nation
+- Fort Nelson First Nation
 - Fort William
 - Gamblers
 - Garden Hill First Nation
@@ -2484,6 +2486,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Jean Marie River First Nation
 - Kahkewistahaw First Nation
 - Kanaka Bar
+- Katzie First Nation
 - Kehewin Cree Nation
 - The Key First Nation
 - Kingfisher
@@ -2495,7 +2498,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Kwaw-Kwaw-Apilt First Nation
 - Kwikwetlem First Nation
 - Lac La Ronge Indian Band
+- Lac Seul First Nation
 - Lake Cowichan First Nation
+- Lake Manitoba First Nation
 - Lake St. Martin
 - Lax Kw’alaams
 - Leq’á:mel First Nation
@@ -2566,6 +2571,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Pine Creek
 - Popkum First Nation
 - Poplar River First Nation
+- Potlotek First Nation
 - Qalipu Mi’kmaq First Nation
 - Quatsino
 - Rainy River First Nations
@@ -2573,6 +2579,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Red Sucker Lake First Nation
 - Rolling River First Nation
 - Roseau River Anishinabe First Nation Government
+- Sagamok Anishnawbek
 - Saik’uz First Nation
 - Sakimay First Nations
 - Salt River First Nation #195
@@ -2609,6 +2616,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Splatsin First Nation
 - Squamish Nation
 - Squiala First Nation
+- Standing Buffalo Dakota Nation
 - Stellat’en First Nation
 - St. Mary’s First Nation
 - Sts’ailes
@@ -2646,6 +2654,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - White Bear First Nation
 - Whitecap Dakota First Nation
 - Whitefish River First Nation
+- Wikwemikong
 - Williams Lake
 - Woodstock First Nation
 - Wunnumin
@@ -2654,6 +2663,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Yakweakwioose First Nation
 - Yale First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180, 234, 235.
 
 
