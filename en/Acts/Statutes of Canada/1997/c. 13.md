@@ -183,12 +183,12 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **5.1** 
 
-- **(1)** No manufacturer shall use an additive set out in column 1 of the schedule in the manufacture of a tobacco product set out in column 2.
+- **(1)** No manufacturer shall use an additive set out in column 1 of Schedule 1 in the manufacture of a tobacco product set out in column 2.
 
 **Exception — trade-mark or marking**
 
 - **(2)** Subsection (1) does not prohibit the use of a colouring agent to depict a trade-mark on a tobacco product or to display a marking required under this or any other Act of Parliament or of the legislature of a province or for any other prescribed purpose.
-> 2009, c. 27, s. 4; 2018, c. 9, s. 7.
+> 2009, c. 27, s. 4; 2018, c. 9, ss. 7, 70.
 
 
 
@@ -198,12 +198,12 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **5.2** 
 
-- **(1)** No person shall sell a tobacco product set out in column 2 of the schedule that contains an additive set out in column 1.
+- **(1)** No person shall sell a tobacco product set out in column 2 of Schedule 1 that contains an additive set out in column 1.
 
 **Exception**
 
 - **(2)** Subsection (1) does not prohibit the sale of a tobacco product by reason only that the product contains a colouring agent used for a purpose referred to in subsection 5.1(2).
-> 2009, c. 27, s. 5.
+> 2009, c. 27, s. 5; 2018, c. 9, s. 70.
 
 
 
@@ -275,14 +275,14 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **7.1** 
 
-- **(1)** The Governor in Council may, by order, amend the schedule by adding, amending or deleting
+- **(1)** The Governor in Council may, by order, amend Schedule 1 by adding, amending or deleting
 	- **(a)** the name or description of an additive or tobacco product; or
 	- **(b)** a reference to all tobacco products, with or without exceptions.
 
 **Description**
 
 - **(2)** An additive or tobacco product may be described by reference to a document produced by a body or person other than the Minister, either as the document exists on a particular date or as it is amended from time to time.
-> 2009, c. 27, s. 9.
+> 2009, c. 27, s. 9; 2018, c. 9, s. 70.
 
 
 
@@ -297,6 +297,51 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **7.2** No manufacturer shall manufacture or sell a vaping product that does not conform with the standards established by the regulations.
 > 2018, c. 9, s. 12.
+
+
+
+
+
+**Prohibition — manufacture**
+
+**7.21** No manufacturer shall use an ingredient set out in column 1 of Schedule 2 in the manufacture of a vaping product set out in column 2.
+> 2018, c. 9, s. 13.
+
+
+
+
+
+**Prohibition — sale**
+
+**7.22** No manufacturer shall sell a vaping product set out in column 2 of Schedule 2 that contains an ingredient set out in column 1.
+> 2018, c. 9, s. 13.
+
+
+
+
+
+**Amendment of Schedule 2**
+
+**7.23** 
+
+- **(1)** The Governor in Council may, by order, amend Schedule 2 by adding, amending or deleting
+	- **(a)** the name or description of an ingredient or vaping product; or
+	- **(b)** a reference to all vaping products, with or without exceptions.
+
+**Description**
+
+- **(2)** An ingredient or vaping product may be described by reference to a document produced by a body or person other than the Minister, either as the document exists on a particular date or as it is amended from time to time.
+
+**Operation of amendments suspended**
+
+- **(3)** An order made under subsection (1) may provide that the operation of the amendments to Schedule 2 is suspended with respect to retailers for a period of 30 days after the day on which the order comes into force.
+
+**Consequences of suspension**
+
+- **(4)** During the period in which the operation of the amendments is suspended with respect to retailers,
+	- **(a)** Schedule 2, as it read immediately before the coming into force of the order, continues to apply with respect to retailers; and
+	- **(b)** no other amendment to Schedule 2 is to come into force.
+> 2018, c. 9, s. 13.
 
 
 
@@ -515,6 +560,10 @@ It does not include devices and substances or mixtures of substances that are ex
 
 - **(1)** No manufacturer or retailer shall sell a tobacco product unless the product and the package containing it display, in the prescribed form and manner, the information required by the regulations about the product and its emissions, and about the health hazards and health effects arising from the use of the product and from its emissions.
 
+**Information — packaging of tobacco products**
+
+- **(1.1)** No manufacturer shall package a tobacco product unless the product and the package containing it display, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
+
 **Information — leaflet**
 
 - **(2)** If required by the regulations, every manufacturer or retailer shall provide with a tobacco product, in the prescribed form and manner, a leaflet that displays the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
@@ -653,6 +702,17 @@ It does not include devices and substances or mixtures of substances that are ex
 
 
 
+**Comparison and prohibited elements**
+
+**20.1** No person shall promote a tobacco product, including by means of the packaging,
+- **(a)** in a manner that could cause a person to believe that the product or its emissions are less harmful than other tobacco products or their emissions; or
+- **(b)** by using terms, expressions, logos, symbols or illustrations that are prohibited by the regulations.
+> 2018, c. 9, s. 27.
+
+
+
+
+
 **Testimonials or endorsements**
 
 **21** 
@@ -723,12 +783,36 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **23.1** 
 
-- **(1)** No person shall package a tobacco product set out in column 2 of the schedule in a manner that suggests, including through illustrations, that it contains an additive set out in column 1.
+- **(1)** No person shall package a tobacco product set out in column 2 of Schedule 1 in a manner that suggests, including through illustrations, that it contains an additive set out in column 1.
 
 **Prohibition — sale**
 
-- **(2)** No person shall sell a tobacco product set out in column 2 of the schedule that is packaged in a manner prohibited by subsection (1).
-> 2009, c. 27, s. 12.
+- **(2)** No person shall sell a tobacco product set out in column 2 of Schedule 1 that is packaged in a manner prohibited by subsection (1).
+> 2009, c. 27, s. 12; 2018, c. 9, s. 70.
+
+
+
+
+
+**Prohibition — vaping product-related brand element**
+
+**23.2** 
+
+- **(1)** No person shall display a vaping product-related brand element on the package of a tobacco product.
+
+**Prohibition — sale**
+
+- **(2)** No person shall sell a tobacco product if a vaping product-related brand element is displayed on its package.
+> 2018, c. 9, s. 32.
+
+
+
+
+
+**Functions and sensory attributes**
+
+**23.3** No person shall promote or sell a device that is a tobacco product or a part that may be used with such a device, whether or not the device or part contains tobacco, if the device or part has an appearance, shape or other sensory attribute or a function for which there are reasonable grounds to believe that it could make the device or part appealing to young persons.
+> 2018, c. 9, s. 32.
 
 
 
@@ -854,6 +938,21 @@ It does not include devices and substances or mixtures of substances that are ex
 
 
 
+**Testimonials or endorsements**
+
+**30.21** 
+
+- **(1)** No person shall promote a vaping product through a testimonial or an endorsement, however displayed or communicated, including by means of the packaging.
+
+**Depiction of person**
+
+- **(2)** For the purposes of subsection (1), the depiction of a person, character or animal, whether real or fictional, is considered to be a testimonial for, or an endorsement of, the product.
+> 2018, c. 9, s. 37.
+
+
+
+
+
 **Sponsorship promotion**
 
 **30.3** 
@@ -873,6 +972,148 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **30.4** No person shall display a vaping product-related brand element or the name of a vaping product manufacturer on a permanent facility, as part of the name of the facility or otherwise, if the facility is used for a sports or cultural event or activity.
 > 2018, c. 9, s. 36.
+
+
+
+
+
+**Functions and sensory attributes**
+
+**30.41** No person shall promote or sell a vaping product that has an appearance, shape or other sensory attribute or a function for which there are reasonable grounds to believe that it could make the product appealing to young persons.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**False promotion**
+
+**30.42** 
+
+- **(1)** No person shall promote a vaping product, including by means of the packaging,
+	- **(a)** in a manner that is false, misleading or deceptive with respect to, or that is likely to create an erroneous impression about, the characteristics, health effects or health hazards of the vaping product or its emissions;
+	- **(b)** by using terms, expressions, logos, symbols or illustrations that are prohibited by the regulations; or
+	- **(c)** by using, in a manner that is contrary to the regulations, prescribed terms, expressions, logos, symbols or illustrations.
+
+**Considerations**
+
+- **(2)** The general impression conveyed by a promotion and the literal meaning of any statement contained in a promotion shall be taken into account in determining whether a promotion is made in a manner that is misleading or deceptive with respect to, or is likely to create an erroneous impression about, the characteristics, health effects or health hazards of the vaping product or its emissions.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Health benefits**
+
+**30.43** 
+
+- **(1)** Subject to subsection (3) and the regulations, no person shall promote a vaping product, including by means of the packaging, in a manner that could cause a person to believe that health benefits may be derived from the use of the product or from its emissions.
+
+**Comparisons**
+
+- **(2)** Subject to subsection (3) and the regulations, no person shall promote a vaping product, including by means of the packaging, by comparing the health effects arising from the use of the product or from its emissions with those arising from the use of a tobacco product or from its emissions.
+
+**Exception**
+
+- **(3)** Subsections (1) and (2) do not apply in respect of a vaping product that is the subject of an authorization, including a licence, issued under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) authorizing its sale.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Discouraging tobacco cessation**
+
+**30.44** No person shall promote a vaping product, including by means of the packaging, if there are reasonable grounds to believe that the promotion could discourage tobacco cessation or encourage the resumed use of tobacco products.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Packaging**
+
+**30.45** 
+
+- **(1)** No person shall package a vaping product in a manner that is contrary to the provisions of this Act or of the regulations.
+
+**Prohibition — sale**
+
+- **(2)** No person shall sell a vaping product that is packaged in a manner that is contrary to the provisions of this Act or of the regulations.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Indication or illustration**
+
+**30.46** 
+
+- **(1)** No person shall display on a vaping product or on its package an indication or illustration, including a brand element, that could cause a person to believe that the product is flavoured if there are reasonable grounds to believe that the indication or illustration could be appealing to young persons.
+
+**Prohibition — sale**
+
+- **(2)** No person shall sell a vaping product if an indication or illustration referred to in subsection (1) is displayed on the product or on its package.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Prohibited ingredients**
+
+**30.47** 
+
+- **(1)** No person shall promote a vaping product set out in column 2 of Schedule 2, including by means of the packaging, through an indication or illustration, including a brand element, that could cause a person to believe that the product contains an ingredient set out in column 1.
+
+**Prohibition — sale**
+
+- **(2)** No person shall sell a vaping product set out in column 2 of Schedule 2 if an indication or illustration referred to in subsection (1) is displayed on the product or on its package.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Flavours**
+
+**30.48** 
+
+- **(1)** No person shall promote a vaping product set out in column 2 of Schedule 3, including by means of the packaging, through an indication or illustration, including a brand element, that could cause a person to believe that the product has a flavour set out in column 1.
+
+**Prohibition — sale**
+
+- **(2)** No person shall sell a vaping product set out in column 2 of Schedule 3 if an indication or illustration referred to in subsection (1) is displayed on the product or on its package.
+> 2018, c. 9, s. 38.
+
+
+
+
+
+**Amendment of Schedule 3**
+
+**30.49** 
+
+- **(1)** The Governor in Council may, by order, amend Schedule 3 by adding, amending or deleting
+	- **(a)** the name or description of a flavour or vaping product; or
+	- **(b)** a reference to all vaping products, with or without exceptions.
+
+**Description**
+
+- **(2)** A flavour or vaping product may be described by reference to a document produced by a body or person other than the Minister, either as the document exists on a particular date or as it is amended from time to time.
+
+**Operation of amendments suspended**
+
+- **(3)** An order made under subsection (1) may provide that the operation of the amendments to Schedule 3 is suspended with respect to retailers for a period of 30 days after the day on which the order comes into force.
+
+**Consequences of suspension**
+
+- **(4)** During the period in which the operation of the amendments is suspended with respect to retailers,
+	- **(a)** Schedule 3, as it read immediately before the coming into force of the order, continues to apply with respect to retailers; and
+	- **(b)** no other amendment to Schedule 3 is to come into force.
+> 2018, c. 9, s. 38.
 
 
 
@@ -924,6 +1165,15 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **30.701** No person shall promote a vaping product or a vaping product-related brand element by means of advertising done in a manner that is contrary to the regulations.
 > 2018, c. 9, s. 36.
+
+
+
+
+
+**Tobacco product-related brand element**
+
+**30.71** No person shall furnish or promote a vaping product if a tobacco product-related brand element is displayed on the vaping product, on its package or in the advertising of the vaping product.
+> 2018, c. 9, s. 40.
 
 
 
@@ -981,10 +1231,14 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **33** The Governor in Council may make regulations
 - **(a)** respecting the promotion of tobacco products, the use and promotion of tobacco product-related brand elements and the packaging of tobacco products, including the form, manner and conditions of the promotion and packaging, and the promotion of services and things for the purposes of section 28;
+- **(a.1)** for the purposes of paragraph 20.1(b), prohibiting the use of terms, expressions, logos, symbols or illustrations in order to prevent the public from being deceived or misled with respect to the health effects or health hazards of tobacco products or their emissions;
 - **(b)** respecting the advertising of tobacco products for the purposes of subsection 22(2);
 - **(c)** respecting, for the purposes of subsection 26(1), the manner in which a tobacco product-related brand element may appear on an accessory;
 - **(d)** respecting the display of tobacco products and accessories at the point of sale;
 - **(e)** respecting signs that a retailer may post under subsection 30(2), including the placement of the signs and their number, size and content;
+- **(e.1)** for the purposes of section 30.42, prohibiting or respecting the use of terms, expressions, logos, symbols or illustrations in order to prevent the public from being deceived or misled with respect to the health effects or health hazards of vaping products or their emissions;
+- **(e.2)** respecting exceptions to the prohibitions under subsections 30.43(1) and (2);
+- **(e.3)** respecting, for the purposes of section 30.45, the packaging of vaping products, including by prohibiting the display of terms, expressions, logos, symbols or illustrations on the package that could be appealing to young persons;
 - **(f)** respecting exceptions to the prohibition under section 30.5;
 - **(g)** respecting, for the purposes of section 30.7, the information about vaping products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions that must be conveyed in advertising;
 - **(g.1)** respecting, for the purposes of section 30.701, the advertising of vaping products and vaping product-related brand elements;
@@ -1324,10 +1578,10 @@ It does not include devices and substances or mixtures of substances that are ex
 
 
 
-**Additives — manufacturer**
+**Prohibited additives and ingredients — manufacturer**
 
-**43.1** Every manufacturer who contravenes subsection 5.1(1) or 5.2(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
-> 2009, c. 27, s. 14; 2018, c. 9, s. 55.
+**43.1** Every manufacturer who contravenes subsection 5.1(1) or 5.2(1) or section 7.21 or 7.22 is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+> 2009, c. 27, s. 14; 2018, c. 9, ss. 55, 56.
 
 
 
@@ -1379,12 +1633,12 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **Offence by manufacturer**
 
-- **(2)** Every manufacturer who contravenes subsection 15(1) or (2), 15.1(1) or (4) or 15.3(1) or (2), section 29 or 30.5 or subsection 30.6(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
+- **(2)** Every manufacturer who contravenes subsection 15(1), (1.1) or (2), 15.1(1) or (4) or 15.3(1) or (2), section 29 or 30.5 or subsection 30.6(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
 **Offence**
 
 - **(3)** Every person who contravenes subsection 15.1(2) or (3) is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
-> 1997, c. 13, s. 46; 2018, c. 9, s. 61.
+> 1997, c. 13, s. 46; 2018, c. 9, ss. 61, 62.
 
 
 
@@ -1392,8 +1646,8 @@ It does not include devices and substances or mixtures of substances that are ex
 
 **General offence**
 
-**47** Every person who contravenes subsection 9.1(1) or (2), 20(1), 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 24(1) or (2), section 25, 27, 30.1 or 30.2, subsection 30.3(1) or (2), section 30.4 or 30.701 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
-> 1997, c. 13, s. 47; 2018, c. 9, s. 61.
+**47** Every person who contravenes subsection 9.1(1) or (2) or 20(1), section 20.1, subsection 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 23.2(1) or (2), section 23.3, subsection 24(1) or (2), section 25, 27, 30.1 or 30.2, subsection 30.21(1) or 30.3(1) or (2), section 30.4 or 30.41, subsection 30.42(1) or 30.43(1) or (2), section 30.44, subsection 30.45(1) or (2), 30.46(1) or (2), 30.47(1) or (2) or 30.48(1) or (2) or section 30.701 or 30.71 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
+> 1997, c. 13, s. 47; 2018, c. 9, ss. 61, 63.
 
 
 
@@ -1616,7 +1870,7 @@ It does not include devices and substances or mixtures of substances that are ex
 
 
 
-### **SCHEDULE** 
+### **SCHEDULE 1** 
 **(Sections 5.1, 5.2, 7.1 and 23.1)**
 <table>
 <h4>Prohibited Additives</h4>
@@ -1632,7 +1886,7 @@ It does not include devices and substances or mixtures of substances that are ex
 </tr>
 <tr>
 <td>1</td>
-<td>Additives that have flavouring properties or that enhance flavour, including
+<td>Additives that have flavouring properties or that enhance flavour (other than those set out in Column 1 of item 1.2), including
 
 **–** additives identified as flavouring agents by the Joint FAO/WHO Expert Committee on Food Additives in the Committee’s evaluations, as published from time to time in the WHO Technical Report Series
 
@@ -1737,6 +1991,11 @@ The following additives are excluded:
 <td>1.1</td>
 <td>The prohibited additives referred to in item 1, excluding those that impart a flavour that is generally attributed to port, wine, rum or whisky</td>
 <td>Cigars that have a wrapper fitted in spiral form and that weigh more than 1.4 g but not more than 6 g, excluding the weight of any mouthpiece or tip, other than those referred to in item 1 and those that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Menthol, including l-menthol, and menthone, including l-menthone</td>
+<td>Tobacco products, except those that are manufactured or sold for export</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1921,7 +2180,7 @@ The following additives are excluded:
 </tr>
 <tr>
 <td>9</td>
-<td>Spices, seasonings and herbs</td>
+<td>Spices, seasonings and herbs (other than those set out in Column 1 of item 9.1)</td>
 <td>Except those that are manufactured or sold for export, the following:
 
 **(1)** Cigarettes
@@ -1941,6 +2200,11 @@ The following additives are excluded:
 
 
 </td>
+</tr>
+<tr>
+<td>9.1</td>
+<td>Cloves</td>
+<td>Tobacco products, except those that are manufactured or sold for export</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2043,5 +2307,123 @@ The following additives are excluded:
 
 
 > 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7; 2017, c. 26, s. 20(F); SOR/2017-45; 2018, c. 9, s. 68.
+
+
+
+
+### **SCHEDULE 2** 
+**(Sections 7.21, 7.22, 7.23 and 30.47)**
+<table>
+<h4>Prohibited Ingredients</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Ingredient</th>
+<th>Vaping Product</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Amino acids</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Caffeine</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Colouring agents</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Essential fatty acids</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Glucuronolactone</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Probiotics</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Taurine</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vitamins</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Mineral nutrients</td>
+<td>Vaping substances, except prescription vaping substances and vaping substances that are manufactured or sold for export</td>
+</tr>
+</table>
+
+**Note:** In column 2, prescription has the same meaning as in subsection 13(2).
+
+
+> 2018, c. 9, s. 69.
+
+
+
+
+### **SCHEDULE 3** 
+**(Sections 30.48 and 30.49)**
+<table>
+<h4>Flavours</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Flavour</th>
+<th>Vaping Product</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Confectionery</td>
+<td>Vaping products, except prescription vaping products and vaping products that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dessert</td>
+<td>Vaping products, except prescription vaping products and vaping products that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Cannabis</td>
+<td>Vaping products, except vaping products that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Soft drink</td>
+<td>Vaping products, except vaping products that are manufactured or sold for export</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Energy drink</td>
+<td>Vaping products, except vaping products that are manufactured or sold for export</td>
+</tr>
+</table>
+
+**Note:** In column 2, prescription has the same meaning as in subsection 13(2).
+
+
+> 2018, c. 9, s. 69.
 
 
