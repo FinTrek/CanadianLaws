@@ -181,12 +181,12 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **5.1** 
 
-- **(1)** Il est interdit au fabricant d’utiliser un additif visé à la colonne 1 de l’annexe dans la fabrication d’un produit du tabac visé à la colonne 2.
+- **(1)** Il est interdit au fabricant d’utiliser un additif visé à la colonne 1 de l’annexe 1 dans la fabrication d’un produit du tabac visé à la colonne 2.
 
 **Exception — marque de commerce ou inscription**
 
 - **(2)** Le paragraphe (1) n’a pas pour effet d’interdire l’utilisation d’un agent colorant pour représenter une marque de commerce sur un produit du tabac, pour faire figurer sur un tel produit une inscription exigée sous le régime de la présente loi ou d’une autre loi fédérale ou provinciale ou pour tout autre motif prévu par règlement.
-> 2009, ch. 27, art. 4; 2018, ch. 9, art. 7.
+> 2009, ch. 27, art. 4; 2018, ch. 9, art. 7 et 70.
 
 
 
@@ -196,12 +196,12 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **5.2** 
 
-- **(1)** Il est interdit de vendre un produit du tabac visé à la colonne 2 de l’annexe qui contient un additif visé à la colonne 1.
+- **(1)** Il est interdit de vendre un produit du tabac visé à la colonne 2 de l’annexe 1 qui contient un additif visé à la colonne 1.
 
 **Exception**
 
 - **(2)** Le paragraphe (1) n’a pas pour effet d’interdire la vente d’un produit du tabac du seul fait qu’il contient un agent colorant pour l’un des motifs visés au paragraphe 5.1(2).
-> 2009, ch. 27, art. 5.
+> 2009, ch. 27, art. 5; 2018, ch. 9, art. 70.
 
 
 
@@ -273,14 +273,14 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **7.1** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, modifier l’annexe par adjonction, modification ou suppression :
+- **(1)** Le gouverneur en conseil peut, par décret, modifier l’annexe 1 par adjonction, modification ou suppression :
 	- **a)** du nom ou de la description d’un additif ou d’un produit du tabac;
 	- **b)** d’une mention générale visant tous les produits du tabac, avec ou sans exception.
 
 **Description**
 
 - **(2)** L’additif ou le produit du tabac peut être décrit par renvoi à un document produit par un organisme ou une personne autre que le ministre, soit dans sa version à une date donnée, soit avec ses modifications successives.
-> 2009, ch. 27, art. 9.
+> 2009, ch. 27, art. 9; 2018, ch. 9, art. 70.
 
 
 
@@ -295,6 +295,51 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **7.2** Il est interdit au fabricant de fabriquer ou de vendre un produit de vapotage qui n’est pas conforme aux normes établies par règlement.
 > 2018, ch. 9, art. 12.
+
+
+
+
+
+**Fabrication interdite**
+
+**7.21** Il est interdit au fabricant d’utiliser un ingrédient visé à la colonne 1 de l’annexe 2 dans la fabrication d’un produit de vapotage visé à la colonne 2.
+> 2018, ch. 9, art. 13.
+
+
+
+
+
+**Vente interdite**
+
+**7.22** Il est interdit au fabricant de vendre un produit de vapotage visé à la colonne 2 de l’annexe 2 qui contient un ingrédient visé à la colonne 1.
+> 2018, ch. 9, art. 13.
+
+
+
+
+
+**Modification de l’annexe 2**
+
+**7.23** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 par adjonction, modification ou suppression :
+	- **a)** du nom ou de la description d’un ingrédient ou d’un produit de vapotage;
+	- **b)** d’une mention générale visant tous les produits de vapotage, avec ou sans exception.
+
+**Description**
+
+- **(2)** L’ingrédient ou le produit de vapotage peut être décrit par renvoi à un document produit par un organisme ou une personne autre que le ministre, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Effet suspendu**
+
+- **(3)** Le décret peut prévoir que l’effet des modifications qu’il apporte à l’annexe 2 est suspendu à l’égard des détaillants pour la période de trente jours suivant la date de son entrée en vigueur.
+
+**Conséquences de la suspension**
+
+- **(4)** Durant la période où l’effet des modifications est suspendu à l’égard des détaillants :
+	- **a)** d’une part, l’annexe 2, dans sa version antérieure à l’entrée en vigueur du décret, continue à s’appliquer à leur égard;
+	- **b)** d’autre part, aucune autre modification à l’annexe 2 ne peut entrer en vigueur.
+> 2018, ch. 9, art. 13.
 
 
 
@@ -511,6 +556,10 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 - **(1)** Il est interdit au fabricant et au détaillant de vendre un produit du tabac à moins que ne figure sur le produit et l’emballage, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
 
+**Information — emballage de produits du tabac**
+
+- **(1.1)** Il est interdit au fabricant d’emballer un produit du tabac à moins que ne figure sur le produit et l’emballage, en la forme et selon les modalités réglementaires, l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
+
 **Information — prospectus**
 
 - **(2)** Si les règlements l’exigent, le fabricant ou le détaillant fournit avec le produit du tabac, en la forme et selon les modalités réglementaires, un prospectus comportant l’information exigée par les règlements sur le produit et ses émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage du produit et à ses émissions.
@@ -649,6 +698,17 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 
 
+**Comparaisons et éléments interdits**
+
+**20.1** Il est interdit de faire la promotion d’un produit du tabac, y compris au moyen de l’emballage, de l’une des manières suivantes :
+- **a)** d’une manière qui pourrait faire croire que le produit est moins nocif qu’un autre produit du tabac ou que ses émissions sont moins nocives que celles d’un autre produit du tabac;
+- **b)** en recourant à un terme, à une expression, à un logo, à un symbole ou à une illustration dont l’utilisation est interdite par règlement.
+> 2018, ch. 9, art. 27.
+
+
+
+
+
 **Attestations et témoignages**
 
 **21** 
@@ -719,12 +779,36 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **23.1** 
 
-- **(1)** Il est interdit d’emballer un produit du tabac visé à la colonne 2 de l’annexe d’une manière qui donne à penser, notamment en raison d’illustrations, qu’il contient un additif visé à la colonne 1.
+- **(1)** Il est interdit d’emballer un produit du tabac visé à la colonne 2 de l’annexe 1 d’une manière qui donne à penser, notamment en raison d’illustrations, qu’il contient un additif visé à la colonne 1.
 
 **Vente interdite**
 
-- **(2)** Il est interdit de vendre un produit du tabac visé à la colonne 2 de l’annexe s’il est ainsi emballé.
-> 2009, ch. 27, art. 12.
+- **(2)** Il est interdit de vendre un produit du tabac visé à la colonne 2 de l’annexe 1 s’il est ainsi emballé.
+> 2009, ch. 27, art. 12; 2018, ch. 9, art. 70.
+
+
+
+
+
+**Éléments de marque d’un produit de vapotage**
+
+**23.2** 
+
+- **(1)** Il est interdit de faire figurer un élément de marque d’un produit de vapotage sur l’emballage d’un produit du tabac.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit du tabac si un élément de marque d’un produit de vapotage figure sur son emballage.
+> 2018, ch. 9, art. 32.
+
+
+
+
+
+**Propriétés sensorielles et fonctions**
+
+**23.3** Il est interdit de faire la promotion d’un dispositif qui est un produit du tabac ou d’une pièce qui peut être utilisée avec ce dispositif, qu’ils contiennent ou non du tabac, ou de les vendre s’il existe des motifs raisonnables de croire que leur forme, leur apparence ou une autre de leurs propriétés sensorielles ou encore une fonction dont ils sont dotés pourraient les rendre attrayants pour les jeunes.
+> 2018, ch. 9, art. 32.
 
 
 
@@ -850,6 +934,21 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 
 
+**Attestations et témoignages**
+
+**30.21** 
+
+- **(1)** Il est interdit de faire la promotion d’un produit de vapotage par l’entremise d’attestations ou de témoignages, et ce, qu’ils soient exposés ou communiqués sur l’emballage ou de toute autre façon.
+
+**Représentation**
+
+- **(2)** Pour l’application du paragraphe (1), la représentation d’une personne, d’un personnage ou d’un animal, réel ou fictif, est considérée comme une attestation ou un témoignage.
+> 2018, ch. 9, art. 37.
+
+
+
+
+
 **Promotion de commandite**
 
 **30.3** 
@@ -869,6 +968,148 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **30.4** Il est interdit d’utiliser un élément de marque d’un produit de vapotage ou le nom d’un fabricant de produits de vapotage sur des installations permanentes qui servent à des manifestations ou activités sportives ou culturelles, notamment dans la dénomination de ces installations.
 > 2018, ch. 9, art. 36.
+
+
+
+
+
+**Propriétés sensorielles et fonctions**
+
+**30.41** Il est interdit de faire la promotion d’un produit de vapotage ou de le vendre s’il existe des motifs raisonnables de croire que sa forme, son apparence ou une autre de ses propriétés sensorielles ou encore une fonction dont il est doté pourrait le rendre attrayant pour les jeunes.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Promotion trompeuse**
+
+**30.42** 
+
+- **(1)** Il est interdit de faire la promotion d’un produit de vapotage, y compris au moyen de l’emballage, de l’une des manières suivantes :
+	- **a)** d’une manière fausse, trompeuse ou susceptible de créer une fausse impression quant aux caractéristiques, aux effets sur la santé ou aux dangers pour celle-ci du produit ou de ses émissions;
+	- **b)** en recourant à un terme, à une expression, à un logo, à un symbole ou à une illustration dont l’utilisation est interdite par règlement;
+	- **c)** en recourant, d’une manière contraire aux règlements, à un terme, à une expression, à un logo, à un symbole ou à une illustration visé par règlement.
+
+**Éléments à prendre en compte**
+
+- **(2)** Pour déterminer si la promotion est faite de manière trompeuse ou susceptible de créer une fausse impression quant aux caractéristiques, aux effets sur la santé ou aux dangers pour celle-ci du produit de vapotage ou de ses émissions, il faut tenir compte de l’impression générale que donne la promotion et, si elle contient un énoncé, du sens littéral de celui-ci.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Avantages pour la santé**
+
+**30.43** 
+
+- **(1)** Il est interdit, sous réserve du paragraphe (3) et des règlements, de faire la promotion d’un produit de vapotage, y compris au moyen de l’emballage, d’une manière qui pourrait faire croire que l’usage du produit ou ses émissions pourraient présenter des avantages pour la santé.
+
+**Comparaisons**
+
+- **(2)** Il est interdit, sous réserve du paragraphe (3) et des règlements, de faire la promotion d’un produit de vapotage, y compris au moyen de l’emballage, en comparant les effets sur la santé liés à l’usage de ce produit ou à ses émissions à ceux liés à l’usage de produits du tabac ou à leurs émissions.
+
+**Exception**
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’égard des produits de vapotage visés par une autorisation, notamment une licence, délivrée sous le régime de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) qui en permet la vente.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Dissuasion de l’abandon du tabac**
+
+**30.44** Il est interdit de faire la promotion d’un produit de vapotage, y compris au moyen de l’emballage, s’il existe des motifs raisonnables de croire qu’elle pourrait dissuader l’abandon du tabac ou encourager la reprise de l’usage des produits du tabac.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Emballage**
+
+**30.45** 
+
+- **(1)** Il est interdit d’emballer un produit de vapotage d’une manière non conforme aux dispositions de la présente loi et des règlements.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit de vapotage dont l’emballage n’est pas conforme aux dispositions de la présente loi et des règlements.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Mention ou illustration**
+
+**30.46** 
+
+- **(1)** Il est interdit de faire figurer sur le produit de vapotage ou sur son emballage une mention ou une illustration, notamment un élément de marque, qui pourrait faire croire que le produit est aromatisé s’il existe des motifs raisonnables de croire que la mention ou l’illustration pourrait être attrayante pour les jeunes.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit de vapotage si une mention ou illustration visée au paragraphe (1) figure sur celui-ci ou sur son emballage.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Ingrédients interdits**
+
+**30.47** 
+
+- **(1)** Il est interdit de faire la promotion d’un produit de vapotage visé à la colonne 2 de l’annexe 2, y compris au moyen de l’emballage, en recourant à une mention ou à une illustration, notamment un élément de marque, qui pourrait faire croire que le produit contient un ingrédient visé à la colonne 1.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit de vapotage visé à la colonne 2 de l’annexe 2 si une mention ou une illustration visée au paragraphe (1) figure sur celui-ci ou sur son emballage.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Arômes**
+
+**30.48** 
+
+- **(1)** Il est interdit de faire la promotion d’un produit de vapotage visé à la colonne 2 de l’annexe 3, y compris au moyen de l’emballage, en recourant à une mention ou à une illustration, notamment un élément de marque, qui pourrait faire croire que le produit possède un arôme visé à la colonne 1.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit de vapotage visé à la colonne 2 de l’annexe 3 si une mention ou une illustration visée au paragraphe (1) figure sur celui-ci ou sur son emballage.
+> 2018, ch. 9, art. 38.
+
+
+
+
+
+**Modification de l’annexe 3**
+
+**30.49** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, modifier l’annexe 3 par adjonction, modification ou suppression :
+	- **a)** du nom ou de la description d’un arôme ou d’un produit de vapotage;
+	- **b)** d’une mention générale visant tous les produits de vapotage, avec ou sans exception.
+
+**Description**
+
+- **(2)** L’arôme ou le produit de vapotage peut être décrit par renvoi à un document produit par un organisme ou une personne autre que le ministre, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Effet suspendu**
+
+- **(3)** Le décret peut prévoir que l’effet des modifications qu’il apporte à l’annexe 3 est suspendu à l’égard des détaillants pour la période de trente jours suivant la date de son entrée en vigueur.
+
+**Conséquences de la suspension**
+
+- **(4)** Durant la période où l’effet des modifications est suspendu à l’égard des détaillants :
+	- **a)** d’une part, l’annexe 3, dans sa version antérieure à l’entrée en vigueur du décret, continue à s’appliquer à leur égard;
+	- **b)** d’autre part, aucune autre modification à l’annexe 3 ne peut entrer en vigueur.
+> 2018, ch. 9, art. 38.
 
 
 
@@ -920,6 +1161,15 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **30.701** Il est interdit de faire la promotion d’un produit de vapotage ou d’un élément de marque d’un tel produit en recourant à de la publicité faite d’une manière non conforme aux règlements.
 > 2018, ch. 9, art. 36.
+
+
+
+
+
+**Éléments de marque d’un produit du tabac**
+
+**30.71** Il est interdit de fournir un produit de vapotage ou d’en faire la promotion si un élément de marque d’un produit du tabac figure sur le produit de vapotage, sur son emballage ou dans sa publicité.
+> 2018, ch. 9, art. 40.
 
 
 
@@ -977,10 +1227,14 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **33** Le gouverneur en conseil peut, par règlement :
 - **a)** régir l’emballage et la promotion des produits du tabac, l’utilisation et la promotion des éléments de marque de ces produits, y compris les modalités et les conditions applicables à l’emballage et à la promotion, et la promotion des choses et services visés à l’article 28;
+- **a.1)** afin d’empêcher que la population ne soit trompée ou induite en erreur au sujet des effets sur la santé ou des dangers pour celle-ci des produits du tabac ou de leurs émissions, interdire, pour l’application de l’alinéa 20.1b), l’utilisation de termes, d’expressions, de logos, de symboles ou d’illustrations;
 - **b)** régir la publicité des produits du tabac pour l’application du paragraphe 22(2);
 - **c)** régir, pour l’application du paragraphe 26(1), la manière dont un élément de marque d’un produit du tabac peut figurer sur un accessoire;
 - **d)** régir l’exposition des produits du tabac et des accessoires dans les points de vente;
 - **e)** régir, pour l’application du paragraphe 30(2), les affiches que le détaillant peut placer, notamment leur contenu, leur taille, leur nombre et les endroits où elles peuvent être placées;
+- **e.1)** afin d’empêcher que la population ne soit trompée ou induite en erreur au sujet des effets sur la santé ou des dangers pour celle-ci des produits de vapotage ou de leurs émissions, interdire ou régir, pour l’application de l’article 30.42, l’utilisation de termes, d’expressions, de logos, de symboles ou d’illustrations;
+- **e.2)** régir les exceptions aux interdictions prévues aux paragraphes 30.43(1) et (2);
+- **e.3)** régir, pour l’application de l’article 30.45, l’emballage des produits de vapotage, notamment en interdisant la présence sur l’emballage de termes, d’expressions, de logos, de symboles ou d’illustrations qui pourraient être attrayants pour les jeunes;
 - **f)** régir les exceptions à l’interdiction prévue à l’article 30.5;
 - **g)** régir, pour l’application de l’article 30.7, l’information sur les produits de vapotage et leurs émissions ainsi que sur les dangers pour la santé et les effets sur celle-ci liés à l’usage des produits et à leurs émissions qui doit être communiquée dans la publicité;
 - **g.1)** régir, pour l’application de l’article 30.701, la publicité des produits de vapotage ou des éléments de marque de tels produits;
@@ -1320,10 +1574,10 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 
 
-**Additifs — fabricants**
+**Additifs et ingrédients interdits — fabricants**
 
-**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1) ou 5.2(1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
-> 2009, ch. 27, art. 14; 2018, ch. 9, art. 55.
+**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1) ou 5.2(1) ou aux articles 7.21 ou 7.22 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 2009, ch. 27, art. 14; 2018, ch. 9, art. 55 et 56.
 
 
 
@@ -1375,12 +1629,12 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **Infractions — fabricants**
 
-- **(2)** Le fabricant qui contrevient aux paragraphes 15(1) ou (2), 15.1(1) ou (4) ou 15.3(1) ou (2), aux articles 29 ou 30.5 ou aux paragraphes 30.6(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+- **(2)** Le fabricant qui contrevient aux paragraphes 15(1), (1.1) ou (2), 15.1(1) ou (4) ou 15.3(1) ou (2), aux articles 29 ou 30.5 ou aux paragraphes 30.6(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
 
 **Infractions**
 
 - **(3)** Quiconque contrevient aux paragraphes 15.1(2) ou (3) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
-> 1997, ch. 13, art. 46; 2018, ch. 9, art. 61.
+> 1997, ch. 13, art. 46; 2018, ch. 9, art. 61 et 62.
 
 
 
@@ -1388,8 +1642,8 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 **Infractions**
 
-**47** Quiconque contrevient aux paragraphes 9.1(1) ou (2), 20(1), 21(1), 22(1), 23(1) ou (2), 23.1(1) ou (2) ou 24(1) ou (2), aux articles 25, 27, 30.1 ou 30.2, aux paragraphes 30.3(1) ou (2) ou aux articles 30.4 ou 30.701 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
-> 1997, ch. 13, art. 47; 2018, ch. 9, art. 61.
+**47** Quiconque contrevient aux paragraphes 9.1(1) ou (2) ou 20(1), à l’article 20.1, aux paragraphes 21(1), 22(1), 23(1) ou (2), 23.1(1) ou (2) ou 23.2(1) ou (2), à l’article 23.3, aux paragraphes 24(1) ou (2), aux articles 25, 27, 30.1 ou 30.2, aux paragraphes 30.21(1) ou 30.3(1) ou (2), aux articles 30.4 ou 30.41, aux paragraphes 30.42(1) ou 30.43(1) ou (2), à l’article 30.44, aux paragraphes 30.45(1) ou (2), 30.46(1) ou (2), 30.47(1) ou (2) ou 30.48(1) ou (2) ou aux articles 30.701 ou 30.71 commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 1997, ch. 13, art. 47; 2018, ch. 9, art. 61 et 63.
 
 
 
@@ -1612,7 +1866,7 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 
 
 
-### **ANNEXE** 
+### **ANNEXE 1** 
 **(articles 5.1, 5.2, 7.1 et 23.1)**
 <table>
 <h4>Additifs interdits</h4>
@@ -1628,7 +1882,7 @@ Ne sont toutefois pas des produits de vapotage les dispositifs et substances ou 
 </tr>
 <tr>
 <td>1</td>
-<td>Additif qui a des propriétés aromatisantes ou qui rehausse l’arôme, notamment :
+<td>Additif qui a des propriétés aromatisantes ou qui rehausse l’arôme (autres que ceux énumérés dans la colonne 1 de l’article 1.2), notamment :
 
 **–** tout additif qualifié d’aromatisant par le Comité mixte FAO/OMS d’experts des additifs alimentaires dans ses évaluations publiées dans la version à jour de la Série de rapports techniques de l’OMS
 
@@ -1733,6 +1987,11 @@ Ne sont toutefois pas visés les additifs suivants :
 <td>1.1</td>
 <td>Additifs interdits visés à l’article 1, sauf s’ils confèrent un arôme communément attribué au porto, au vin, au rhum ou au whisky</td>
 <td>Les cigares qui sont munis d’une cape apposée en hélice et pèsent plus de 1,4 g mais au plus 6 g, sans le poids des embouts, sauf ceux visés à l’article 1 et ceux fabriqués ou vendus en vue de leur exportation</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Menthol, y compris le l-menthol, et menthone, y compris la l-menthone</td>
+<td>Les produits du tabac, sauf ceux fabriqués ou vendus en vue de leur exportation</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1917,7 +2176,7 @@ Ne sont toutefois pas visés les additifs suivants :
 </tr>
 <tr>
 <td>9</td>
-<td>Épices, aromates et herbes</td>
+<td>Épices, aromates et herbes (autres que ceux énumérés dans la colonne 1 de l’article 9.1)</td>
 <td>Sauf s’ils sont fabriqués ou vendus en vue de leur exportation :
 
 **(1)** les cigarettes
@@ -1937,6 +2196,11 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 </td>
+</tr>
+<tr>
+<td>9.1</td>
+<td>Clou de girofle</td>
+<td>Les produits du tabac, sauf ceux fabriqués ou vendus en vue de leur exportation</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2039,5 +2303,123 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 > 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7; 2017, ch. 26, art. 20(F); DORS/2017-45; 2018, ch. 9, art. 68.
+
+
+
+
+### **ANNEXE 2** 
+**(articles 7.21, 7.22, 7.23 et 30.47)**
+<table>
+<h4>Ingrédients interdits</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Ingrédient</th>
+<th>Produit de vapotage</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Acides aminés</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Caféine</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Agents colorants</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Acides gras essentiels</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Glucuronolactone</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Probiotiques</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Taurine</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vitamines</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Minéraux nutritifs</td>
+<td>Substances de vapotage, sauf celles sur ordonnance et celles fabriquées ou vendues en vue de leur exportation</td>
+</tr>
+</table>
+
+**Note :** Dans la colonne 2, sur ordonnance s’entend au sens du paragraphe 13(2).
+
+
+> 2018, ch. 9, art. 69.
+
+
+
+
+### **ANNEXE 3** 
+**(articles 30.48 et 30.49)**
+<table>
+<h4>Arômes</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Arôme</th>
+<th>Produit de vapotage</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Confiserie</td>
+<td>Produits de vapotage, sauf ceux sur ordonnance et ceux fabriqués ou vendus en vue de leur exportation</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dessert</td>
+<td>Produits de vapotage, sauf ceux sur ordonnance et ceux fabriqués ou vendus en vue de leur exportation</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Cannabis</td>
+<td>Produits de vapotage, sauf ceux fabriqués ou vendus en vue de leur exportation</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Boisson gazeuse</td>
+<td>Produits de vapotage, sauf ceux fabriqués ou vendus en vue de leur exportation</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Boisson énergisante</td>
+<td>Produits de vapotage, sauf ceux fabriqués ou vendus en vue de leur exportation</td>
+</tr>
+</table>
+
+**Note :** Dans la colonne 2, sur ordonnance s’entend au sens du paragraphe 13(2).
+
+
+> 2018, ch. 9, art. 69.
 
 
