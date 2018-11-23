@@ -361,8 +361,8 @@ Autorités habilitantes :
 
 
 
-**12.1** Lorsque la longueur totale et la limite de prises quotidiennes et de possession prévues à la colonne III de la partie I de l’annexe III sont de 0, la personne qui prend un poisson de l’une des espèces prévues à la colonne II doit immédiatement le décrocher et le remettre à l’eau en évitant le plus possible de le blesser.
-> DORS/98-268, art. 4; DORS/2017-21, art. 3.
+**12.1** Lorsque la limite de prises quotidiennes et de possession prévue à la colonne III de la partie I de l’annexe III est de 0, la personne qui prend un poisson de l’une des espèces prévues à la colonne II doit immédiatement le décrocher et le remettre à l’eau en évitant le plus possible de le blesser.
+> DORS/98-268, art. 4; DORS/2017-21, art. 3; DORS/2018-250, art. 2.
 
 
 
@@ -2255,9 +2255,9 @@ Autorités habilitantes :
 <td>**b)** Saumon
 
 </td>
-<td>**(i)** La limite de prises quotidiennes est de 2 poissons (longueur à la fourche supérieure à 30 cm mais inférieure à 63 cm, mesurée en ligne droite de l’extrémité de la tête à la fourche de la queue)
+<td>**(i)** La limite de prises quotidiennes est de 2 poissons, d’une longueur totale supérieure à 30 cm mais inférieure à 63 cm
 
-**(ii)** La limite de possession équivaut à deux fois la limite de prises quotidiennes (longueur à la fourche supérieure à 30 cm mais inférieure à 63 cm, mesurée en ligne droite de l’extrémité de la tête à la fourche de la queue)
+**(ii)** La limite de possession équivaut à deux fois la limite de prises quotidiennes
 
 </td>
 </tr>
@@ -2580,7 +2580,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/79-333, art. 3; DORS/80-51, art. 11; DORS/82-523, art. 2; DORS/83-280, art. 4; DORS/86-378, art. 18; DORS/90-4, art. 25 à 34; DORS/91-402, art. 7 à 17; DORS/93-33, art. 18 à 30; DORS/94-314, art. 13 à 16, 20(A) et 21(F); DORS/96-245, art. 30; DORS/98-268, art. 13 à 26; DORS/99-352, art. 23(F) et 24 à 28; DORS/2003-54, art. 45 à 56; DORS/2005-206, art. 6 et 7; DORS/2009-322, art. 7(A) et 9(F); DORS/2017-21, art. 4 à 9.
+> DORS/79-333, art. 3; DORS/80-51, art. 11; DORS/82-523, art. 2; DORS/83-280, art. 4; DORS/86-378, art. 18; DORS/90-4, art. 25 à 34; DORS/91-402, art. 7 à 17; DORS/93-33, art. 18 à 30; DORS/94-314, art. 13 à 16, 20(A) et 21(F); DORS/96-245, art. 30; DORS/98-268, art. 13 à 26; DORS/99-352, art. 23(F) et 24 à 28; DORS/2003-54, art. 45 à 56; DORS/2005-206, art. 6 et 7; DORS/2009-322, art. 7(A) et 9(F); DORS/2017-21, art. 4 à 9; DORS/2018-250, art. 3.
 
 
 
