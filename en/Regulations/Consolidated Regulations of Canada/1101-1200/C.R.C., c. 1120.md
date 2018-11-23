@@ -359,8 +359,8 @@ Enabling authorities:
 
 
 
-**12.1** If the daily catch and possession limit and overall length set out in column III of Part I of Schedule III are 0, any person who catches a fish of a species set out in column II shall immediately unhook the fish and return it to the water with as little damage to the fish as possible.
-> SOR/98-268, s. 4; SOR/2017-21, s. 3.
+**12.1** If the daily catch and possession limit set out in column III of Part I of Schedule III is 0, any person who catches a fish of a species set out in column II shall immediately unhook the fish and return it to the water with as little damage to the fish as possible.
+> SOR/98-268, s. 4; SOR/2017-21, s. 3; SOR/2018-250, s. 2.
 
 
 
@@ -1947,7 +1947,7 @@ Enabling authorities:
 <td>**(a)** Grayling
 
 </td>
-<td>4, none from 40 to 48 cm in overall length, and only 1 over 48 cm in overall length</td>
+<td>4, none from 40 to 48 cm in overall length, and only 1 over 48 cm in overall length</td>
 </tr>
 <tr>
 <td>**(b)** Trout and charr (except Rainbow)
@@ -2116,14 +2116,14 @@ Enabling authorities:
 <td>10</td>
 </tr>
 <tr>
-<td>**(d)** Soft-shell  clam
+<td>**(d)** Soft-shell clam
 
 </td>
 <td>100, in the shell and all over 50 mm in overall length</td>
 </tr>
 <tr>
 <td>(2)</td>
-<td>Puzzle Lake and North Cranberry Lake, and all waters in the following watersheds,  namely, West River, Peskowesk Brook and Shelburne River</td>
+<td>Puzzle Lake and North Cranberry Lake, and all waters in the following watersheds, namely, West River, Peskowesk Brook and Shelburne River</td>
 <td>Brook or speckled trout</td>
 <td>0</td>
 </tr>
@@ -2171,7 +2171,7 @@ Enabling authorities:
 <td>**(b)** Atlantic salmon
 
 </td>
-<td>1, from 30 to 63 cm in overall lengt</td>
+<td>1, from 30 to 63 cm in overall lengt</td>
 </tr>
 <tr>
 <td>**(c)** Salmon (Ouananiche)
@@ -2253,9 +2253,9 @@ Enabling authorities:
 <td>**(b)** Salmon
 
 </td>
-<td>**(i)** Daily catch limit is 2 fish, with overall length greater than 30 cm fork length but less than 63 cm fork length, when measured in a straight line from the tip of the nose to the fork of the tail
+<td>**(i)** Daily catch limit is 2 fish, with overall length greater than 30 cm but less than 63 cm
 
-**(ii)** Possession limit is twice the daily catch limit, with overall length greater than 30 cm fork length but less than 63 cm fork length, when measured in a straight line from the tip of the nose to the fork of the tail
+**(ii)** Possession limit is twice the daily catch limit
 
 </td>
 </tr>
@@ -2578,7 +2578,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/79-333, s. 3; SOR/80-51, s. 11; SOR/82-523, s. 2; SOR/83-280, s. 4; SOR/86-378, s. 18; SOR/90-4, ss. 25 to 34; SOR/91-402, ss. 7 to 17; SOR/93-33, ss. 18 to 30; SOR/94-314, ss. 13 to 16, 20(E), 21(F); SOR/96-245, s. 30; SOR/98-268, ss. 13 to 26; SOR/99-352, ss. 23(F), 24 to 28; SOR/2003-54, ss. 45 to 56; SOR/2005-206, ss. 6, 7; SOR/2009-322, ss. 7(E), 9(F); SOR/2017-21, ss. 4 to 9.
+> SOR/79-333, s. 3; SOR/80-51, s. 11; SOR/82-523, s. 2; SOR/83-280, s. 4; SOR/86-378, s. 18; SOR/90-4, ss. 25 to 34; SOR/91-402, ss. 7 to 17; SOR/93-33, ss. 18 to 30; SOR/94-314, ss. 13 to 16, 20(E), 21(F); SOR/96-245, s. 30; SOR/98-268, ss. 13 to 26; SOR/99-352, ss. 23(F), 24 to 28; SOR/2003-54, ss. 45 to 56; SOR/2005-206, ss. 6, 7; SOR/2009-322, ss. 7(E), 9(F); SOR/2017-21, ss. 4 to 9; SOR/2018-250, s. 3.
 
 
 
