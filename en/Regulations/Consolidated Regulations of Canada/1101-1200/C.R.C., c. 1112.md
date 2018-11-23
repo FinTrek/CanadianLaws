@@ -763,7 +763,7 @@ In the Province of Prince Edward Island, in Queens County, in the Village of Par
 
 
 
-*Port-la-Joye–Fort Amherst National Historic Site of Canada* comprising the following described area:
+*Skmaqn–Port-la-Joye–Fort Amherst National Historic Site of Canada* comprising the following described area:
 
 In the Province of Prince Edward Island, in the county of Queens, in lot 65;
 
@@ -894,7 +894,7 @@ THENCE continuing along that lot boundary through boundary monuments 73L1000 and
 
 
 
-That parcel containing approximately 1 975 square kilometers (763 square miles).
+That parcel containing approximately 1 975 square kilometers (763 square miles).
 
 
 
@@ -1035,6 +1035,6 @@ All coordinates referred to are according to the 1983 North American Datum, Cana
 
 
 
-> SOR/78-238, s. 1; SOR/79-622, s. 1; SOR/80-308, s. 1; SOR/80-912, s. 1; SOR/81-8, s. 1; SOR/81-70, s. 1; SOR/81-877, s. 1; SOR/82-14, s. 1; SOR/82-111, ss. 1 to 5; SOR/82-664, s. 1; SOR/82-927, s. 1; SOR/83-281, s. 1; SOR/85-173, ss. 1 to 5; SOR/85-479, s. 1; SOR/86-520, s. 1; SOR/88-531, ss. 1 to 3; SOR/88-625, ss. 1, 2; SOR/89-100, s. 1; SOR/90-188, ss. 1 to 4; SOR/92-439, s. 1; SOR/93-34, ss. 1 to 4; SOR/93-89, s. 1; SOR/93-90, s. 1; SOR/93-137, s. 1; SOR/94-363, s. 3(F); SOR/95-292, s. 1; SOR/97-106, s. 1; SOR/97-193, s. 1; SOR/99-305, s. 1; SOR/2000-382, s. 1(F); SOR/2004-218, ss. 3 to 13 and 14(F); SOR/2011-319, s. 1; SOR/2015-88, s. 1; SOR/2017-273, s. 1.
+> SOR/78-238, s. 1; SOR/79-622, s. 1; SOR/80-308, s. 1; SOR/80-912, s. 1; SOR/81-8, s. 1; SOR/81-70, s. 1; SOR/81-877, s. 1; SOR/82-14, s. 1; SOR/82-111, ss. 1 to 5; SOR/82-664, s. 1; SOR/82-927, s. 1; SOR/83-281, s. 1; SOR/85-173, ss. 1 to 5; SOR/85-479, s. 1; SOR/86-520, s. 1; SOR/88-531, ss. 1 to 3; SOR/88-625, ss. 1, 2; SOR/89-100, s. 1; SOR/90-188, ss. 1 to 4; SOR/92-439, s. 1; SOR/93-34, ss. 1 to 4; SOR/93-89, s. 1; SOR/93-90, s. 1; SOR/93-137, s. 1; SOR/94-363, s. 3(F); SOR/95-292, s. 1; SOR/97-106, s. 1; SOR/97-193, s. 1; SOR/99-305, s. 1; SOR/2000-382, s. 1(F); SOR/2004-218, ss. 3 to 13 and 14(F); SOR/2011-319, s. 1; SOR/2015-88, s. 1; SOR/2017-273, s. 1; SOR/2018-250, s. 1.
 
 
