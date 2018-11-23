@@ -3872,7 +3872,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 **181** When a machine that is equipped with a self-indicating or semi-self-indicating means of registration is tested by one of the following methods, the acceptance limits of error and in-service limits of error are 1.5 times the limits of error set out in the tables to sections 176 and 177 and set out in sections 188 and 192:
 - **(a)** the removal of a known test load, in the case of a machine that is normally used for weighing following the addition of load; or
 - **(b)** the addition of a known test load, in the case of a machine that is normally used for weighing following the subtraction of load.
-> SOR/89-570, s. 6(F); SOR/2017-17, s. 8.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 8; SOR/2018-252, s. 4(F).
 
 
 
@@ -5061,7 +5061,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 
 **266** 
 
-- **(1)** Subject to subsections (4) and (5), the limits of error set out in the tables to subsections (2) and (3) apply to all positive displacement bulk volumetric liquid meters, including vehicle-mounted meters that are designed to measure volumes of 180 litres or more or 40 gallons or more of refined petroleum products such as gasoline and fuel oils, foodstuffs such as milk, liquid fertilizers of the solution type such as aqua ammonia or other liquids of low viscosity.
+- **(1)** Subject to subsections (4) and (5), the limits of error set out in the tables to subsections (2) and (3) apply to all positive displacement bulk volumetric liquid meters, including vehicle-mounted meters, that are designed to measure volumes of 180 litres or more, or 40 gallons or more, of refined petroleum products such as gasoline and fuel oils, foodstuffs such as milk, liquid fertilizers of the solution type such as aqua ammonia, or other liquids of low viscosity.
 
 - **(2)** The limits of error set out in the following table apply to meters, generally of a size 65 mm or 2½ inches or smaller that are designed to measure liquids of low viscosity:
 #### TABLE
@@ -5080,7 +5080,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 </tr>
 <tr>
 <td>1</td>
-<td>Any volume of 225 litres or more up to 900 litres or of 50 gallons or more up to 200 gallons</td>
+<td>Any volume of 225 litres or more up to 900 litres or of 50 gallons or more up to 200 gallons</td>
 <td>3/16% of known test quantity</td>
 <td>¼% of known test quantity</td>
 </tr>
@@ -5114,7 +5114,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 - **(4)** The acceptance limits of error and in-service limits of error set out in the tables to subsections (2) and (3) apply to known test quantities equal to or greater than that delivered by the meter in one minute at the maximum operating rate.
 
 - **(5)** The acceptance limits of error set out in Column II of the tables to subsections (2) and (3) apply only to tests made under controlled conditions such as bench tests and, for tests for acceptance limits of error under other conditions, the limits of error set out in Column III of those tables shall apply.
-> SOR/89-570, s. 6(F); SOR/2017-17, s. 16.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 16; SOR/2018-252, s. 5.
 
 
 
@@ -5140,7 +5140,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 </tr>
 <tr>
 <td>1</td>
-<td>Any volume of 225 litres or more up to 900 litres or of 50 gallons or more up to 200 gallons</td>
+<td>Any volume of 225 litres or more up to 900 litres or of 50 gallons or more up to 200 gallons</td>
 <td>¼% of known test quantity</td>
 <td>½% of known test quantity</td>
 </tr>
@@ -5174,7 +5174,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 - **(4)** The acceptance limits of error and in-service limits of error set out in the tables to subsections (2) and (3) apply to known test quantities equal to or greater than that delivered by the meter in one minute at maximum operating rate.
 
 - **(5)** The acceptance limits of error set out in Column II of the tables to subsections (2) and (3) apply only to tests under controlled conditions such as bench tests, and for tests for acceptance limits of error under other conditions, the limits of error set out in Column III of those tables shall apply.
-> SOR/89-570, s. 6(F); SOR/2017-17, s. 17.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 17; SOR/2018-252, s. 6(F).
 
 
 
@@ -9895,7 +9895,7 @@ where
 <tr>
 <td>2</td>
 <td>Expenses incurred by the inspector in relation to the provision of a service referred to in subsection 59(1) of these Regulations for accommodation, meals and incidental expenses and for transportation to and from the place where the service is provided</td>
-<td>the rates and allowances set out in the “Travel Directive” contained in the Treasury Board Manual</td>
+<td>In accordance with current Treasury Board guidelines</td>
 </tr>
 </table>
 
@@ -9928,7 +9928,7 @@ where
 <td>$20.00</td>
 </tr>
 <tr>
-<td>**(ii)** 2 700 L or more
+<td>**(ii)** 2 700 L or more
 
 </td>
 <td>$80.00</td>
@@ -10004,7 +10004,7 @@ where
 </tr>
 </table>
 
-> SOR/79-747, s. 2; SOR/85-736, s. 3; SOR/87-582, s. 5; SOR/93-413, s. 3; SOR/2014-111, s. 46.
+> SOR/79-747, s. 2; SOR/85-736, s. 3; SOR/87-582, s. 5; SOR/93-413, s. 3; SOR/2014-111, s. 46; SOR/2018-252, s. 7.
 
 
 
