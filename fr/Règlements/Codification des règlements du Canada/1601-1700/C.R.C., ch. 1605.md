@@ -3864,8 +3864,8 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 
 **181** La marge de tolérance à l’acceptation et la marge de tolérance en service sont 1,5 fois celles indiquées dans les tableaux des articles 176 et 177 et des articles 188 et 192 lorsqu’un appareil muni d’un dispositif indicateur à équilibre automatique ou semi-automatique est soumis à l’un des essais suivants :
 - **a)** l’enlèvement d’une charge de contrôle connue dans le cas d’un appareil servant habituellement à peser à la suite d’une addition de charge;
-- **b)** l’ajout une charge de contrôle connue dans le cas d’un appareil servant habituellement à peser à la suite d’un retrait de charge.
-> DORS/89-570, art. 6(F); DORS/2017-17, art. 8.
+- **b)** l’ajout d’une charge de contrôle connue dans le cas d’un appareil servant habituellement à peser à la suite d’un retrait de charge.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 8; DORS/2018-252, art. 4(F).
 
 
 
@@ -5052,7 +5052,7 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 
 **266** 
 
-- **(1)** Sous réserve des paragraphes (4) et (5), les marges de tolérance indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent à tous les compteurs de vrac à déplacement positif servant à mesurer le volume des liquides, y compris les compteurs sur véhicule, soit des volumes de 180 litres ou plus, de 40 gallons ou plus, de produits de raffinage du pétrole, comme l’essence et le mazout, de produits alimentaires comme le lait, d’engrais liquides du type en solution comme l’eau ammoniacale, ou de tout autre liquide de faible viscosité.
+- **(1)** Sous réserve des paragraphes (4) et (5), les marges de tolérance indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent à tous les compteurs de vrac à déplacement positif servant à mesurer le volume des liquides, y compris les compteurs sur véhicule, soit des volumes de 180 litres ou plus, ou de 40 gallons ou plus, de produits de raffinage du pétrole, comme l’essence et le mazout, de produits alimentaires comme le lait, d’engrais liquides du type en solution comme l’eau ammoniacale, ou de tout autre liquide de faible viscosité.
 
 - **(2)** Les marges de tolérance indiquées dans le tableau ci-après s’appliquent aux compteurs de 65 mm ou 2½ pouces, ou plus petits, servant à mesurer des liquides de faible viscosité :
 #### TABLEAU
@@ -5064,7 +5064,7 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 <th>Colonne III</th>
 </tr>
 <tr>
-<th>Quantité de contrôle </th>
+<th>Quantité de contrôle</th>
 <th>Marge de tolérance à l’acceptation</th>
 <th>Marge de tolérance en service</th>
 </tr>
@@ -5103,7 +5103,7 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 - **(4)** La marge de tolérance à l’acceptation et la marge de tolérance en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, au régime maximal.
 
 - **(5)** Les marges de tolérance à l’acceptation indiquées dans la colonne II des tableaux des paragraphes (2) et (3) s’appliquent uniquement aux essais réalisés sous contrôle, comme les bancs d’essai, et pour les essais réalisés dans d’autres conditions, les marges de tolérance à l’acceptation applicables sont celles qui figurent dans la colonne III de ces tableaux.
-> DORS/89-570, art. 6(F); DORS/2017-17, art. 16.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 16; DORS/2018-252, art. 5.
 
 
 
@@ -5158,10 +5158,10 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 </table>
 
 
-- **(4)** La marge de tolérance à l’acceptation et la marge de tolérance en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, à plein régime.
+- **(4)** La marge de tolérance à l’acceptation et la marge de tolérance en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, au régime maximal.
 
 - **(5)** Les marges de tolérance à l’acceptation indiquées dans la colonne II des tableaux des paragraphes (2) et (3) s’appliquent uniquement aux essais réalisés sous contrôle, comme les bancs d’essai et, quant aux essais réalisés dans d’autres conditions, les marges de tolérance à l’acceptation applicables sont celles qui figurent dans la colonne III des tableaux.
-> DORS/89-570, art. 6(F); DORS/2017-17, art. 17.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 17; DORS/2018-252, art. 6(F).
 
 
 
@@ -9848,7 +9848,7 @@ où :
 <tr>
 <td>2</td>
 <td>Dépenses afférentes à la prestation d’un service visé au paragraphe 59(1) du présent règlement, engagées par l’inspecteur pour le logement, les repas, ses faux frais et son transport à destination et en provenance du lieu de la prestation du service</td>
-<td>les taux et indemnités prévus dans la « Directive sur les voyages d’affaires » contenue dans le Manuel du Conseil du Trésor</td>
+<td>Le montant autorisé par les directives du Conseil du Trésor</td>
 </tr>
 </table>
 
@@ -9957,7 +9957,7 @@ où :
 </tr>
 </table>
 
-> DORS/79-747, art. 2; DORS/85-736, art. 3; DORS/87-582, art. 5; DORS/93-413, art. 3; DORS/2014-111, art. 46.
+> DORS/79-747, art. 2; DORS/85-736, art. 3; DORS/87-582, art. 5; DORS/93-413, art. 3; DORS/2014-111, art. 46; DORS/2018-252, art. 7.
 
 
 
