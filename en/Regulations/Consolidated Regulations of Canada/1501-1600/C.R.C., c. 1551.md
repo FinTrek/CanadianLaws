@@ -70,16 +70,16 @@ and where the information required by section 11 is shown in two labels pursuan
 **5** 
 
 - **(1)** Every representation label that is applied to a consumer textile article that is sold, imported into Canada or advertised by a dealer shall meet the requirements for a disclosure label unless
-	- **(a)** the article to which it is applied is exempted by these Regulations from the application of paragraph 3(b) of the Act; or
-	- **(b)** it meets the requirements set out in subsection (2).
+	- **(a)** the article to which it is applied is exempted by these Regulations from the application of paragraph 3(b) of the Act; or
+	- **(b)** it meets the requirements set out in subsection (2).
 
 - **(2)** A representation label that is applied to a consumer textile article that
 	- **(a)** is sold, imported into Canada or advertised by a dealer, and
 	- **(b)** has applied to it in the prescribed manner another representation label that is a disclosure label
 shall not contain any representation that
-	- **(c)** detracts from, qualifies or contradicts any representation in the disclosure label; or
-	- **(d)** contravenes section 5 of the Act.
-> SOR/89-505, s. 2.
+	- **(c)** detracts from, qualifies or contradicts any representation in the disclosure label.
+	- **(d)** [Repealed, SOR/2018-253, s. 1]
+> SOR/89-505, s. 2; SOR/2018-253, s. 1.
 
 
 
@@ -184,7 +184,7 @@ for use by the entity or for use by or resale to its employees or students or, i
 
 **12** 
 
-- **(1)** A dealer who resides in Canada may apply to the Minister for an identification number for use on the label of a consumer textile article in place of the dealer’s name and postal address where the dealer
+- **(1)** A dealer who resides in Canada may apply to the Commissioner for an identification number for use on the label of a consumer textile article in place of the dealer’s name and postal address if the dealer
 	- **(a)** manufactures or has manufactured on his or her behalf, processes, finishes or sells at retail consumer textile articles in Canada;
 	- **(b)** imports consumer textile articles into Canada; or
 	- **(c)** owns and distributes consumer textile articles in Canada.
@@ -195,34 +195,19 @@ for use by the entity or for use by or resale to its employees or students or, i
 		- **(i)** the name under which the dealer carries on business in Canada,
 		- **(ii)** the name of an official, employed by the dealer and residing in Canada, who is authorized by the dealer to make the application,
 		- **(iii)** the address and telephone number of the dealer’s place of business in Canada, or of the dealer’s head office where that office is in Canada, and
-		- **(iv)** the dealer’s postal address in Canada, where the address set out under subparagraph (iii) is not appropriate for postal delivery; and
+		- **(iv)** the dealer’s postal address in Canada, where the address set out under subparagraph (iii) is not appropriate for postal delivery; and
 	- **(c)** be accompanied by a fee of $100.
 
-- **(3)** The Minister shall assign an identification number to a dealer where the dealer meets the requirements set out in subsections (1) and (2).
+- **(3)** The Commissioner shall assign an identification number to a dealer if the dealer meets the requirements set out in subsections (1) and (2).
 
-- **(4)** A dealer to whom an identification number has been assigned or transferred in accordance with paragraph (5)(a) is entitled to use the identification number on the label of a consumer textile article in place of the dealer’s name and postal address until
-	- **(a)** the dealer’s business is transferred to another dealer who meets the requirements set out in subsection (1); or
-	- **(b)** the identification number is revoked.
+- **(4)** A dealer may use the identification number on the label of a consumer textile article in place of the dealer’s name and postal address if the information required by paragraph (2)(b) is up-to-date.
 
-- **(5)** A dealer who is entitled to use an identification number shall immediately give written notice to the Minister if the dealer
-	- **(a)** transfers the business carried on by the dealer to another dealer who meets the requirements set out in subsection (1);
-	- **(b)** changes the name under which the dealer carries on business or the address of the place of business or head office of the dealer; or
-	- **(c)** ceases to carry on business.
+- **(5)** If a dealer transfers the identification number to a subsequent dealer, the subsequent dealer may use the identification number in place of the subsequent dealer’s name and postal address if
+	- **a)** the subsequent dealer meets the requirements set out in subsection (1); and
+	- **b)** the information required by paragraph 2(b) is up-to-date.
 
-- **(6)** The Minister shall revoke a dealer’s identification number on receiving from the dealer
-	- **(a)** a notice under paragraph (5)(a), where the dealer to whom the business is transferred does not meet any of the requirements set out in subsection (1);
-	- **(b)** a notice under paragraph (5)(b), where the dealer, as a result of the change of name or address, no longer meets any of the requirements set out in subsection (1); or
-	- **(c)** a notice from the dealer under paragraph (5)(c).
-
-- **(7)** The Minister may revoke a dealer’s identification number if the Minister believes on reasonable grounds that the dealer
-	- **(a)** failed to give notice in accordance with subsection (5);
-	- **(b)** used the identification number in a false or misleading manner; or
-	- **(c)** on receiving an inquiry or complaint from any person, refused to admit or denied ownership of the identification number, where that number was applied on the label of a consumer textile article by or on behalf of that dealer.
-
-- **(8)** Where the Minister revokes a dealer’s identification number pursuant to subsection (6) or (7), the Minister shall immediately send to the dealer by registered mail a written notice of the revocation.
-
-- **(9)** The revocation of an identification number takes effect 10 days after the day on which the notice of revocation is sent by the Minister.
-> SOR/86-643, s. 1; SOR/87-247, s. 4; SOR/96-92, s. 2.
+- **(6) to (9)** [Repealed, SOR/2018-253, s. 2]
+> SOR/86-643, s. 1; SOR/87-247, s. 4; SOR/96-92, s. 2; SOR/2018-253, s. 2.
 
 
 
@@ -250,18 +235,18 @@ for use by the entity or for use by or resale to its employees or students or, i
 
 **14** 
 
-- **(1)** The information required by section 11 to be shown in a representation label that is applied to a consumer textile article, other than the information referred to in paragraph 11(1)(c), shall be shown
+- **(1)** The information required by section 11 to be shown in a representation label that is applied to a consumer textile article, other than the information referred to in paragraph 11(1)(c), shall be shown
 	- **(a)** together in one place thereon, where it is imprinted on the consumer textile article itself; and
-	- **(b)** subject to subsections (2), (3) and (4), in one label and on one side thereof, where it is shown on any material other than the consumer textile article.
+	- **(b)** subject to subsections (2), (3) and (4), in one label and on one side thereof, where it is shown on any material other than the consumer textile article.
 
-- **(2)** Where the label referred to in subsection (1) is attached at one end to the consumer textile article so that both sides of the label are readily accessible, part of the information required by section 11 may be shown on one side and the remainder on the other.
+- **(2)** Where the label referred to in subsection (1) is attached at one end to the consumer textile article so that both sides of the label are readily accessible, part of the information required by section 11 may be shown on one side and the remainder on the other.
 
-- **(3)** Where two representation labels are applied to any consumer textile article included in Schedule III,
-	- **(a)** the information required by paragraph 11(1)(a) may be shown in English on one label and in French on the other label, and the information required by paragraph 11(1)(b) and subsection 11(3) may be shown on either of the two labels; or
-	- **(b)** where the two labels are contiguous, any part of the information required by section 11 may be shown on one label and the remainder on the other label.
+- **(3)** Where two representation labels are applied to any consumer textile article included in Schedule III,
+	- **(a)** the information required by paragraph 11(1)(a) may be shown in English on one label and in French on the other label, and the information required by paragraph 11(1)(b) may be shown on either of the two labels; or
+	- **(b)** where the two labels are contiguous, any part of the information required by section 11 may be shown on one label and the remainder on the other label.
 
-- **(4)** Where two representation labels are applied to any article included in Schedule I and not included in Schedule III, part of the information required by section 11 may be shown on one label and the remainder on the other if the two labels are contiguous.
-> SOR/87-247, s. 6; SOR/94-247, s. 8.
+- **(4)** Where two representation labels are applied to any article included in Schedule I and not included in Schedule III, part of the information required by section 11 may be shown on one label and the remainder on the other if the two labels are contiguous.
+> SOR/87-247, s. 6; SOR/94-247, s. 8; SOR/2018-253, s. 3.
 
 
 
@@ -595,24 +580,24 @@ the word “all” or “pure” may be used in place of words or figures indica
 
 
 **31** The textile fibre content of a consumer textile article or constituent part shall be shown in the following manner:
-- **(a)** subject to section 32, each textile fibre that is present in the article or constituent part in an amount of five per cent or more by mass shall be shown
+- **(a)** subject to section 32, each textile fibre that is present in the article or constituent part in an amount of five per cent or more by mass shall be shown
 	- **(i)** by its generic name,
-	- **(ii)** subject to section 31.1, in order of predominance by mass, and
-	- **(iii)** subject to paragraph (d), section 31.01 and subsection 34(2), with the amount in which it is present preceding or immediately following the generic name of the fibre;
-- **(b)** subject to paragraphs (c) and (d), each textile fibre that is present in the article or constituent part in an amount less than five per cent by mass shall be shown
+	- **(ii)** subject to section 31.1, in order of predominance by mass, and
+	- **(iii)** subject to paragraph (d), section 31.01 and subsection 34(2), with the amount in which it is present preceding or immediately following the generic name of the fibre;
+- **(b)** subject to paragraphs (c) and (d), each textile fibre that is present in the article or constituent part in an amount less than five per cent by mass shall be shown
 	- **(i)** in the following manner, namely,
 		- **(A)** as “other fibre”,
-		- **(B)** immediately after the fibre or fibres shown in accordance with paragraph (a), and
-		- **(C)** subject to subsection 34(2), with the amount in which it is present immediately preceding or following the words “other fibre”, or
-	- **(ii)** as prescribed in paragraph (a);
-- **(c)** where there is more than one textile fibre present in the article or constituent part in an amount less than five per cent by mass, all such fibres that are not shown in a manner described in paragraph (a) shall be shown in the aggregate as “other fibres”
-	- **(i)** immediately after the fibre or fibres shown in accordance with paragraph (a), and
-	- **(ii)** subject to section 31.01 and subsection 34(2), with the aggregate amount immediately preceding or following the words “other fibres”; and
+		- **(B)** immediately after the fibre or fibres shown in accordance with paragraph (a), and
+		- **(C)** subject to subsection 34(2), with the amount in which it is present immediately preceding or following the words “other fibre”, or
+	- **(ii)** as prescribed in paragraph (a);
+- **(c)** where there is more than one textile fibre present in the article or constituent part in an amount less than five per cent by mass, all such fibres that are not shown in a manner described in paragraph (a) shall be shown in the aggregate as “other fibres”
+	- **(i)** immediately after the fibre or fibres shown in accordance with paragraph (a), and
+	- **(ii)** subject to section 31.01 and subsection 34(2), with the aggregate amount immediately preceding or following the words “other fibres”; and
 - **(d)** where the article or constituent part contains, as an integral part, ornamentation, an elastic yarn or a reinforcement yarn that comprises less than five per cent by mass of the article or constituent part, the textile fibre content of the article or constituent part may be shown exclusive of ornamentation, elastic yarn or reinforcement yarn if
-	- **(i)** the percentage by mass of each textile fibre present in the article or constituent part that is not part of the ornamentation, elastic yarn or reinforcement yarn is increased  proportionately so that the total percentage of all such fibres equals 100 per cent, and
-	- **(ii)** the words “exclusive of ornamentation”, “exclusive of elastic” or “exclusive of reinforcement”, as the case may be, are shown immediately after the percentage of fibres referred to in subparagraph (i).
+	- **(i)** the percentage by mass of each textile fibre present in the article or constituent part that is not part of the ornamentation, elastic yarn or reinforcement yarn is increased proportionately so that the total percentage of all such fibres equals 100 per cent, and
+	- **(ii)** the words “exclusive of ornamentation”, “exclusive of elastic” or “exclusive of reinforcement”, as the case may be, are shown immediately after the percentage of fibres referred to in subparagraph (i).
 - **(e)** [Revoked, SOR/91-477, s. 3]
-> SOR/79-656, s. 3; SOR/80-354, s. 1; SOR/87-247, s. 11; SOR/91-477, s. 3.
+> SOR/79-656, s. 3; SOR/80-354, s. 1; SOR/87-247, s. 11; SOR/91-477, s. 3; SOR/2018-253, s. 4(F).
 
 
 
