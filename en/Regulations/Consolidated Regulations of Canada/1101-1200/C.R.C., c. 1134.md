@@ -100,13 +100,13 @@ Enabling authorities:
 	- **(c)** make any connection with a sewer pipe connected to a sewer main,
 without the permission in writing of the superintendent.
 
-- **(2)** Before granting the permission, the superintendent shall consider
+- **(2)** The superintendent is authorized to grant the permission after taking into consideration
 	- **(a)** the capacity of the park’s sewer and water systems;
 	- **(b)** any technical or material constraints;
 	- **(c)** the preservation of the park’s natural resources and the protection of its cultural, historical and archaeological resources;
 	- **(d)** the safety, health and enjoyment of persons who are visiting or residing in the park; and
 	- **(e)** the preservation, control and management of the park.
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 4.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 4; SOR/2018-250, s. 4.
 
 
 
@@ -141,8 +141,8 @@ in or upon any area in a park that has been designated by the superintendent and
 
 - **(1)** No person shall construct or maintain any well in a park, for the supply of water for his own use, or the use of any other person, without the permission in writing of the superintendent.
 
-- **(2)** The superintendent may authorize the construction or maintenance of a well in a park if the water drawn from the well is to be used for geothermal purposes, or if the park has no water system to which a connection can be made.
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 6.
+- **(2)** The superintendent is authorized to grant permission for the construction or maintenance of a well in a park if the water drawn from the well is to be used for geothermal purposes or if the park has no water system to which a connection can be made.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 6; SOR/2018-250, s. 5.
 
 
 
@@ -157,13 +157,13 @@ in or upon any area in a park that has been designated by the superintendent and
 	- **(a)** plans and specifications of the proposed septic tank or sewer, including an estimate of the cost thereof; and
 	- **(b)** a fee of $1 for each $1,000 or fraction thereof of the cost of such septic tank or sewer as stated in the estimate referred to in paragraph (a).
 
-- **(4)** The superintendent may grant permission to install in a park a septic tank, dry privy or sewer if the park has no sewer system to which a connection can be made after taking into consideration the following:
+- **(4)** The superintendent is authorized to grant permission for the installation of a septic tank, dry privy or sewer in a park if the park has no sewer system to which a connection can be made, after taking into consideration
 	- **(a)** the capacity of the park’s sewer and water distribution systems;
 	- **(b)** any technical or material constraints;
 	- **(c)** the preservation of the park’s natural resources and the protection of its cultural, historical and archaeological resources;
 	- **(d)** the safety, health and enjoyment of persons who are visiting or residing in the park; and
 	- **(e)** the preservation, control and management of the park.
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 20(E); SOR/2001-320, s. 20(F); SOR/2010-140, s. 7.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 20(E); SOR/2001-320, s. 20(F); SOR/2010-140, s. 7; SOR/2018-250, s. 6.
 
 
 
