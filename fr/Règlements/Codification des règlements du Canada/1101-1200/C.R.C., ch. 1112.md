@@ -791,7 +791,7 @@ Dans l’Île-du-Prince-Édouard, dans le comté de Queens, dans le village de P
 
 
 
-*Lieu historique national du Canada de Port-la-Joye–Fort-Amherst* comprenant la zone décrite ci-après :
+*Lieu historique national du Canada de Skmaqn–Port-la-Joye–Fort-Amherst* comprenant la zone décrite ci-après :
 
 Dans l’Île-du-Prince-Édouard, dans le comté de Queens, dans le lot 65, la totalité de la parcelle de terre délimitée par une ligne grasse sur le plan n<sup>o</sup> 68583 des Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été versée sous le numéro 5012 au bureau d’enregistrement des titres fonciers, à Charlottetown, ladite parcelle étant grevée d’un droit de passage sur une bande de terre de 4,57 mètres de largeur et d’une servitude relative à une ligne de transmission d’électricité, selon ledit plan desdites archives; ladite parcelle ayant une superficie d’environ 91,26 hectares.
 
@@ -1055,6 +1055,6 @@ Toutes les coordonnées se rapportent au Système de référence géodésique de
 
 
 
-> DORS/78-238, art. 1; DORS/79-622, art. 1; DORS/80-308, art. 1; DORS/80-912, art. 1; DORS/81-8, art. 1; DORS/81-70, art. 1; DORS/81-877, art. 1; DORS/82-14, art. 1; DORS/82-111, art. 1 à 5; DORS/82-664, art. 1; DORS/82-927, art. 1; DORS/83-281, art. 1; DORS/85-173, art. 1 à 5; DORS/85-479, art. 1; DORS/86-520, art. 1; DORS/88-531, art. 1 à 3; DORS/88-625, art. 1 et 2; DORS/89-100, art. 1; DORS/90-188, art. 1 à 4; DORS/92-439, art. 1; DORS/93-34, art. 1 à 4; DORS/93-89, art. 1; DORS/93-90, art. 1; DORS/93-137, art. 1; DORS/94-363, art. 3(F); DORS/95-292, art. 1; DORS/97-106, art. 1; DORS/97-193, art. 1; DORS/99-305, art. 1; DORS/2000-382, art. 1(F); DORS/2004-218, art. 3 à 13 et 14(F); DORS/2011-319, art. 1; DORS/2015-88, art. 1; DORS/2017-273, art. 1.
+> DORS/78-238, art. 1; DORS/79-622, art. 1; DORS/80-308, art. 1; DORS/80-912, art. 1; DORS/81-8, art. 1; DORS/81-70, art. 1; DORS/81-877, art. 1; DORS/82-14, art. 1; DORS/82-111, art. 1 à 5; DORS/82-664, art. 1; DORS/82-927, art. 1; DORS/83-281, art. 1; DORS/85-173, art. 1 à 5; DORS/85-479, art. 1; DORS/86-520, art. 1; DORS/88-531, art. 1 à 3; DORS/88-625, art. 1 et 2; DORS/89-100, art. 1; DORS/90-188, art. 1 à 4; DORS/92-439, art. 1; DORS/93-34, art. 1 à 4; DORS/93-89, art. 1; DORS/93-90, art. 1; DORS/93-137, art. 1; DORS/94-363, art. 3(F); DORS/95-292, art. 1; DORS/97-106, art. 1; DORS/97-193, art. 1; DORS/99-305, art. 1; DORS/2000-382, art. 1(F); DORS/2004-218, art. 3 à 13 et 14(F); DORS/2011-319, art. 1; DORS/2015-88, art. 1; DORS/2017-273, art. 1; DORS/2018-250, art. 1.
 
 
