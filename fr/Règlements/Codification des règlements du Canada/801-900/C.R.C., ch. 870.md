@@ -27336,17 +27336,17 @@ et
 
 **C.01.040.2** 
 
-- **(1)** Il est interdit à un fabricant d’employer dans une drogue un colorant qui n’est pas prévu aux paragraphes (3) et (4).
+- **(1)** Il est interdit à un fabricant d’employer dans une drogue un colorant qui n’est pas prévu aux paragraphes (3) et (4).
 
-- **(2)** Il est interdit à quiconque d’importer à des fins de vente une drogue qui contient un colorant non prévu aux paragraphes (3) et (4).
+- **(2)** Il est interdit à quiconque d’importer à des fins de vente une drogue qui contient un colorant non prévu aux paragraphes (3) et (4).
 
-- **(2.1)** Les définitions qui suivent s’appliquent aux paragraphes (3) et (4).
+- **(2.1)** Les définitions qui suivent s’appliquent aux paragraphes (3) à (4.1) :
 
-***C.I. (indication du numéro)*** Désignation servant à identifier un colorant selon la publication intitulée Colour Index, publiée par *The Society of Dyers and Colourists*, avec ses modifications successives. (*C.I. (indication of the number)*)
+***C.I. (indication du numéro)*** Désignation servant à identifier un colorant selon la publication intitulée Colour Index, publiée par *The Society of Dyers and Colourists*, avec ses modifications successives. (*C.I. (indication of the number)*)
 
-***D&C (indication de la couleur et du numéro)*** Désignation servant à identifier un colorant pouvant être utilisé aux États-Unis dans les drogues et les cosmétiques, selon le Code of Federal Regulations des États-Unis. (*D & C (indication of the colour and the number)*)
+***D&C (indication de la couleur et du numéro)*** Désignation servant à identifier un colorant pouvant être utilisé aux États-Unis dans les drogues et les cosmétiques, selon le Code of Federal Regulations des États-Unis. (*D & C (indication of the colour and the number)*)
 
-***FD&C (indication de la couleur et du numéro)*** Désignation servant à identifier un colorant pouvant être utilisé aux États-Unis dans les aliments, les drogues et les cosmétiques, selon le Code of Federal Regulations des États-Unis. (*FD & C (indication of the colour and the number)*)
+***FD&C (indication de la couleur et du numéro)*** Désignation servant à identifier un colorant pouvant être utilisé aux États-Unis dans les aliments, les drogues et les cosmétiques, selon le Code of Federal Regulations des États-Unis. (*FD & C (indication of the colour and the number)*)
 
 - **(3)** Les colorants qui peuvent être employés dans les drogues à usage interne ou externe sont les suivants :
 	- **a)** AMARANTE (FD&C, Rouge n<sup>o</sup> 2, radié; C.I. n<sup>o</sup> 16185),ANTHOCYANINE PROVENANT DE JUS EXPRIMÉ DE FRUITS OU DE LÉGUMES COMESTIBLES FRAIS,
@@ -27418,7 +27418,7 @@ VERT D’ALIZARINE CYANINE F (D&C Vert n<sup>o</sup> 5; C.I. n<sup>o</sup> 615
 VERT SOLIDE FCF (FD&C Vert n<sup>o</sup> 3; C.I. n<sup>o</sup> 42053);
 
 
-	- **b)** les préparations effectuées par l’addition d’un des colorants énumérés à l’alinéa a) à un substrat
+	- **b)** les préparations effectuées par l’addition d’un des colorants énumérés à l’alinéa a) à un substrat
 		- **(i)** d’alumine,
 		- **(ii)** de blanc fixe,
 		- **(iii)** de blanc lustré,
@@ -27428,8 +27428,8 @@ VERT SOLIDE FCF (FD&C Vert n<sup>o</sup> 3; C.I. n<sup>o</sup> 42053);
 		- **(vii)** de colophane,
 		- **(viii)** de benzoate d’aluminium,
 		- **(ix)** de carbonate de calcium, ou
-		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix); et
-	- **c)** les préparations effectuées par l’addition d’un sel de sodium, de potassium, d’aluminium, de baryum, de calcium, de strontium ou de zirconium d’un des colorants énumérés à l’alinéa a) à un substrat
+		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix); et
+	- **c)** les préparations effectuées par l’addition d’un sel de sodium, de potassium, d’aluminium, de baryum, de calcium, de strontium ou de zirconium d’un des colorants énumérés à l’alinéa a) à un substrat
 		- **(i)** d’alumine,
 		- **(ii)** de blanc fixe,
 		- **(iii)** de blanc lustré,
@@ -27439,7 +27439,7 @@ VERT SOLIDE FCF (FD&C Vert n<sup>o</sup> 3; C.I. n<sup>o</sup> 42053);
 		- **(vii)** de colophane,
 		- **(viii)** de benzoate d’aluminium,
 		- **(ix)** de carbonate de calcium, ou
-		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix).
+		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix).
 
 - **(4)** Les colorants suivants peuvent être employés uniquement dans les drogues à usage externe :
 	- **a)** DIBROMOFLUORESCÉINE (ROUGE SOLVANT 72 (C.I. n<sup>o</sup> 45370:1) ORANGE n<sup>o</sup> 5 (D&C Orange n<sup>o</sup> 5)),FERROCYANURE FERRIQUE (C.I. n<sup>o</sup> 77510),
@@ -27487,8 +27487,8 @@ VIOLET DE MANGANÈSE (C.I. n<sup>o</sup> 77742);
 		- **(vii)** de colophane,
 		- **(viii)** de benzoate d’aluminium,
 		- **(ix)** de carbonate de calcium, ou
-		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix); et
-	- **c)** les préparations effectuées par l’addition d’un sel de sodium, de potassium, d’aluminium, de baryum, de calcium, de strontium ou de zirconium d’un des colorants énumérés à l’alinéa a) à un substrat
+		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix); et
+	- **c)** les préparations effectuées par l’addition d’un sel de sodium, de potassium, d’aluminium, de baryum, de calcium, de strontium ou de zirconium d’un des colorants énumérés à l’alinéa a) à un substrat
 		- **(i)** d’alumine,
 		- **(ii)** de blanc fixe,
 		- **(iii)** de blanc lustré,
@@ -27498,13 +27498,25 @@ VIOLET DE MANGANÈSE (C.I. n<sup>o</sup> 77742);
 		- **(vii)** de colophane,
 		- **(viii)** de benzoate d’aluminium,
 		- **(ix)** de carbonate de calcium, ou
-		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix).
+		- **(x)** d’une combinaison des substances visées aux sous-alinéas (i) à (ix).
 
-- **(5)** Les paragraphes (1) et (2) ne s’appliquent pas à une drogue qui est présentée comme étant destinée exclusivement, aux fins de la prévention des maladies, à la désinfection :
+- **(4.1)** Malgré le paragraphe (1), aucun fabricant ne peut employer dans une drogue une préparation effectuée par l’addition d’une des substances suivantes à un substrat de mica, sauf si les conditions prévues au paragraphe (4.3) sont réunies :
+	- **a)** dioxyde de titane (C.I. n<sup>o</sup> 77891);
+	- **b)** oxydes de fer (C.I. n<sup>os</sup> 77489, 77491, 77492, 77499);
+	- **c)** un oxyde mixte effectué avec des substances mentionnées à la fois aux alinéas a) et b).
+
+- **(4.2)** Malgré le paragraphe (2), il est interdit d’importer en vue de la vente d’une drogue contenant une préparation effectuée par l’addition à un substrat de mica d’une des substances mentionnées aux alinéas (4.1) a) à c), sauf si les conditions prévues au paragraphe (4.3) sont réunies.
+
+- **(4.3)** Les conditions visées aux paragraphes (4.1) et (4.2) sont les suivantes :
+	- **a)** la drogue est à usage externe ou se présente sous forme posologique solide destinée à l’administration orale ou sous forme posologique liquide destinée à l’administration orale;
+	- **b)** s’agissant d’une drogue se présentant sous forme posologique solide destinée à l’administration orale, elle contient au plus 3 % de la préparation;
+	- **c)** s’agissant d’une préparation effectuée avec des oxydes de fer, elle contient au plus 55 % d’oxydes de fer.
+
+- **(5)** Les paragraphes (1), (2), (4.1) et (4.2) ne s’appliquent pas à la drogue qui est présentée comme étant destinée exclusivement, aux fins de prévention des maladies, à la désinfection :
 	- **a)** des instruments médicaux;
 	- **b)** des établissements de soins de santé;
 	- **c)** des locaux où sont fabriqués, préparés ou gardés des aliments.
-> DORS/84-949, art. 1; DORS/86-590, art. 1(A); DORS/94-460, art. 1; DORS/95-431, art. 1; DORS/2002-369, art. 1; DORS/2005-95, art. 1.
+> DORS/84-949, art. 1; DORS/86-590, art. 1(A); DORS/94-460, art. 1; DORS/95-431, art. 1; DORS/2002-369, art. 1; DORS/2005-95, art. 1; DORS/2018-248, art. 1.
 
 
 
