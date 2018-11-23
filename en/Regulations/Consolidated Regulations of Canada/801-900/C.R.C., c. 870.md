@@ -27386,17 +27386,17 @@ in which the mercury or the salt or derivative thereof is present as a preservat
 
 **C.01.040.2** 
 
-- **(1)** No manufacturer shall use a colouring agent in a drug other than a colouring agent listed in subsections (3) and (4).
+- **(1)** No manufacturer shall use a colouring agent in a drug other than a colouring agent listed in subsections (3) and (4).
 
-- **(2)** No person shall import for sale a drug that contains a colouring agent other than a colouring agent listed in subsections (3) and (4).
+- **(2)** No person shall import for sale a drug that contains a colouring agent other than a colouring agent listed in subsections (3) and (4).
 
-- **(2.1)** In subsections (3) and (4),
+- **(2.1)** The following definitions apply in subsections (3) to (4.1):
 
-***C.I. (indication of the number)*** means the designation used to identify a colouring agent in the Colour Index published by The Society of Dyers and Colourists, as amended from time to time; (*C.I. (indication du numéro)*)
+***C.I. (indication of the number)*** means the designation used to identify a colouring agent in the Colour Index published by The Society of Dyers and Colourists, as amended from time to time; (*C.I. (indication du numéro)*)
 
-***D & C (indication of the colour and the number)*** means the designation used to identify, in accordance with the Code of Federal Regulations of the United States, a colouring agent that can be used in the United States in drugs and cosmetics; (*D&C (indication de la couleur et du numéro)*)
+***D & C (indication of the colour and the number)*** means the designation used to identify, in accordance with the Code of Federal Regulations of the United States, a colouring agent that can be used in the United States in drugs and cosmetics; (*D&C (indication de la couleur et du numéro)*)
 
-***FD & C (indication of the colour and the number)*** means the designation used to identify, in accordance with the Code of Federal Regulations of the United States, a colouring agent that can be used in the United States in food, drugs and cosmetics. (*FD&C (indication de la couleur et du numéro)*)
+***FD & C (indication of the colour and the number)*** means the designation used to identify, in accordance with the Code of Federal Regulations of the United States, a colouring agent that can be used in the United States in food, drugs and cosmetics. (*FD&C (indication de la couleur et du numéro)*)
 
 - **(3)** The following colouring agents are permitted in drugs for internal and external use, namely,
 	- **(a)** ACID FUCHSIN D (D & C Red No. 33; C.I. No. 17200),ALIZARIN CYANINE GREEN F (D & C Green No. 5; C.I. No. 61570),
@@ -27443,7 +27443,7 @@ INDIGO (D & C Blue No. 6; C.I. No. 73000),
 
 INDIGOTINE (FD & C Blue No. 2; C.I. No. 73015),
 
-IRON OXIDES (C.I. Nos . 77489, 77491, 77492, 77499),
+IRON OXIDES (C.I. Nos. 77489, 77491, 77492, 77499),
 
 LITHOL RUBIN B SODIUM SALT (D & C Red No. 6; C.I. No. 15850),
 
@@ -27478,7 +27478,7 @@ TITANIUM DIOXIDE (C.I. No. 77891);
 		- **(vii)** rosin,
 		- **(viii)** aluminum benzoate,
 		- **(ix)** calcium carbonate, or
-		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix); and
+		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix); and
 	- **(c)** preparations made by extending any sodium, potassium, aluminum, barium, calcium, strontium or zirconium salt of any of the colouring agents listed in paragraph (a) on a substratum of
 		- **(i)** alumina,
 		- **(ii)** blanc fixe,
@@ -27489,7 +27489,7 @@ TITANIUM DIOXIDE (C.I. No. 77891);
 		- **(vii)** rosin,
 		- **(viii)** aluminum benzoate,
 		- **(ix)** calcium carbonate, or
-		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix).
+		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix).
 
 - **(4)** The following colouring agents are permitted in drugs for external use, namely,
 	- **(a)** ACID VIOLET 43 (Ext. D & C Violet No. 2; C.I. No. 60730),ALIZUROL PURPLE SS (D&C Violet No. 2; C.I. No. 60725),
@@ -27527,7 +27527,7 @@ URANINE SODIUM SALT (D&C Yellow No. 8; C.I. No. 45350);
 ZINC OXIDE (C.I. No. 77947);
 
 
-	- **(b)** preparations made by extending any of the colouring agents listed in paragraph (a) on a substratum of
+	- **(b)** preparations made by extending any of the colouring agents listed in paragraph (a) on a substratum of
 		- **(i)** alumina,
 		- **(ii)** blanc fixe,
 		- **(iii)** gloss white,
@@ -27537,8 +27537,8 @@ ZINC OXIDE (C.I. No. 77947);
 		- **(vii)** rosin,
 		- **(viii)** aluminum benzoate,
 		- **(ix)** calcium carbonate, or
-		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix); and
-	- **(c)** preparations made by extending any sodium, potassium, aluminum, barium, calcium, strontium or zirconium salt of any of the colouring agents listed in paragraph (a) on a substratum of
+		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix); and
+	- **(c)** preparations made by extending any sodium, potassium, aluminum, barium, calcium, strontium or zirconium salt of any of the colouring agents listed in paragraph (a) on a substratum of
 		- **(i)** alumina,
 		- **(ii)** blanc fixe,
 		- **(iii)** gloss white,
@@ -27548,13 +27548,25 @@ ZINC OXIDE (C.I. No. 77947);
 		- **(vii)** rosin,
 		- **(viii)** aluminum benzoate,
 		- **(ix)** calcium carbonate, or
-		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix).
+		- **(x)** any combination of the substances listed in subparagraphs (i) to (ix).
 
-- **(5)** Subsections (1) and (2) do not apply in respect of a drug that is represented as being solely for use in the disinfection, for disease prevention, of
+- **(4.1)** Despite subsection (1), no manufacturer shall use a preparation made by extending any of the following substances on a substratum of mica in a drug unless the requirements in subsection (4.3) are met:
+	- **(a)** titanium dioxide (C.I. No. 77891);
+	- **(b)** iron oxides (C.I. Nos. 77489, 77491, 77492, 77499); or
+	- **(c)** a mixed oxide made from substances referred to in both paragraphs (a) and (b).
+
+- **(4.2)** Despite subsection (2), no person shall import for sale a drug that contains a preparation made by extending any of the substances referred to in paragraphs (4.1)(a) to (c) on a substratum of mica unless the requirements in subsection (4.3) are met.
+
+- **(4.3)** The requirements referred to in subsections (4.1) and (4.2) are the following:
+	- **(a)** the drug shall be in a solid dosage form intended for oral administration or in a liquid dosage form intended for oral administration or it shall be a drug intended for external use;
+	- **(b)** in the case where the drug is in a solid dosage form intended for oral administration, the drug shall not contain more than 3% of the preparation;
+	- **(c)** in the case where the preparation was made using iron oxides, the preparation shall not contain more than 55% iron oxides.
+
+- **(5)** Subsections (1), (2), (4.1) and (4.2) do not apply in respect of a drug that is represented as being solely for use in the disinfection, for disease prevention, of
 	- **(a)** medical devices;
 	- **(b)** health care facilities; or
 	- **(c)** premises in which food is manufactured, prepared or kept.
-> SOR/84-949, s. 1; SOR/86-590, s. 1(E); SOR/94-460, s. 1; SOR/95-431, s. 1; SOR/2002-369, s. 1; SOR/2005-95, s. 1.
+> SOR/84-949, s. 1; SOR/86-590, s. 1(E); SOR/94-460, s. 1; SOR/95-431, s. 1; SOR/2002-369, s. 1; SOR/2005-95, s. 1; SOR/2018-248, s. 1.
 
 
 
