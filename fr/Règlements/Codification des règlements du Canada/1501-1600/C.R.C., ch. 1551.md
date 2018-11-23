@@ -70,16 +70,16 @@ et, lorsque les renseignements exigés par l’article 11 figurent sur deux ét
 **5** 
 
 - **(1)** Chaque étiquette d’information apposée sur un article textile de consommation qu’un fournisseur vend, importe au Canada ou au sujet duquel il fait de la publicité, doit être conforme aux prescriptions relatives à l’étiquette de déclaration sauf
-	- **a)** si le présent règlement soustrait l’article sur lequel elle est apposée à l’application de l’alinéa 3b) de la Loi; ou
-	- **b)** si elle répond aux exigences énoncées au paragraphe (2).
+	- **a)** si le présent règlement soustrait l’article sur lequel elle est apposée à l’application de l’alinéa 3b) de la Loi; ou
+	- **b)** si elle répond aux exigences énoncées au paragraphe (2).
 
 - **(2)** Une étiquette d’information apposée sur un article textile de consommation
 	- **a)** qu’un fournisseur vend, importe au Canada ou au sujet duquel il fait de la publicité, et
 	- **b)** sur lequel est apposée, selon la manière prescrite, une autre étiquette d’information qui est une étiquette de déclaration
 ne doit contenir aucun renseignement qui
-	- **c)** altère, modifie ou contredit un renseignement que porte l’étiquette de déclaration, ou
-	- **d)** contrevient à l’article 5 de la Loi.
-> DORS/89-505, art. 2.
+	- **c)** altère, modifie ou contredit un renseignement que porte l’étiquette de déclaration.
+	- **d)** [Abrogé, DORS/2018-253, art. 1]
+> DORS/89-505, art. 2; DORS/2018-253, art. 1.
 
 
 
@@ -183,7 +183,7 @@ ne doit contenir aucun renseignement qui
 
 **12** 
 
-- **(1)** Tout fournisseur qui réside au Canada peut demander un numéro d’identification au ministre pour utilisation sur l’étiquetage d’un article textile de consommation à la place de ses nom et adresse postale si, selon le cas :
+- **(1)** Tout fournisseur qui réside au Canada peut demander un numéro d’identification au commissaire pour utilisation sur l’étiquetage d’un article textile de consommation à la place de ses nom et adresse postale si, selon le cas :
 	- **a)** il fabrique ou a fait fabriquer pour son compte, transforme, finit ou vend au détail des articles textiles de consommation au Canada;
 	- **b)** il importe des articles textiles de consommation au Canada;
 	- **c)** il possède et distribue au Canada des articles textiles de consommation.
@@ -194,34 +194,19 @@ ne doit contenir aucun renseignement qui
 		- **(i)** le nom de l’entreprise du fournisseur au Canada,
 		- **(ii)** le nom du représentant résidant au Canada qui est employé par le fournisseur et autorisé à faire la demande,
 		- **(iii)** l’adresse et le numéro de téléphone de l’établissement du fournisseur au Canada ou de son siège social, si celui-ci est situé au Canada,
-		- **(iv)** l’adresse postale du fournisseur au Canada, si l’adresse visée au sous-alinéa (iii) ne convient pas pour la livraison postale;
+		- **(iv)** l’adresse postale du fournisseur au Canada, si l’adresse visée au sous-alinéa (iii) ne convient pas pour la livraison postale;
 	- **c)** être accompagnée d’un droit de 100 $.
 
-- **(3)** Le ministre attribue un numéro d’identification au fournisseur si celui-ci satisfait aux exigences énoncées aux paragraphes (1) et (2).
+- **(3)** Le commissaire attribue un numéro d’identification au fournisseur si celui-ci satisfait aux exigences énoncées aux paragraphes (1) et (2).
 
-- **(4)** Le fournisseur à qui un numéro d’identification a été attribué ou cédé en application de l’alinéa (5)a) peut utiliser ce numéro d’identification sur l’étiquetage d’un article textile de consommation à la place de ses nom et adresse postale :
-	- **a)** soit jusqu’à ce qu’il cède son entreprise à un autre fournisseur qui satisfait aux exigences énoncées au paragraphe (1);
-	- **b)** soit jusqu’à ce que le numéro d’identification soit annulé.
+- **(4)** Le fournisseur peut utiliser le numéro d’identification sur l’étiquetage d’un article textile de consommation à la place de ses nom et adresse postale si les renseignements exigés à l’alinéa (2)b) sont à jour.
 
-- **(5)** Le fournisseur qui est autorisé à utiliser un numéro d’identification doit aviser le ministre par écrit dès qu’il, selon le cas :
-	- **a)** cède son entreprise à un autre fournisseur qui satisfait aux exigences énoncées au paragraphe (1);
-	- **b)** change le nom de son entreprise ou l’adresse de son établissement ou de son siège social;
-	- **c)** cesse d’exploiter son entreprise.
+- **(5)** Si le fournisseur cède le numéro d’identification à un autre fournisseur, ce dernier peut utiliser ce numéro d’identification à la place de ses nom et adresse postale si, à la fois :
+	- **a)** il satisfait aux exigences énoncées au paragraphe (1);
+	- **b)** les renseignements exigés à l’alinéa (2)b) sont à jour.
 
-- **(6)** Le ministre annule le numéro d’identification du fournisseur dans l’un ou l’autre des cas suivants :
-	- **a)** il reçoit du fournisseur l’avis visé à l’alinéa (5)a) et le fournisseur cessionnaire ne satisfait pas aux exigences énoncées au paragraphe (1);
-	- **b)** il reçoit du fournisseur l’avis visé à l’alinéa (5)b) et celui-ci ne satisfait plus aux exigences énoncées au paragraphe (1) par suite du changement de nom ou d’adresse;
-	- **c)** il reçoit du fournisseur l’avis visé à l’alinéa (5)c).
-
-- **(7)** Le ministre peut annuler le numéro d’identification du fournisseur s’il a des motifs raisonnables de croire que celui-ci, selon le cas :
-	- **a)** a omis de donner l’avis exigé au paragraphe (5);
-	- **b)** a employé le numéro d’identification d’une manière fausse ou trompeuse;
-	- **c)** après une enquête ou à la suite d’une plainte faite à son sujet, a refusé de reconnaître comme sien ou a désavoué le numéro d’identification qu’il a apposé ou fait apposer en son nom sur l’étiquetage d’un article textile de consommation.
-
-- **(8)** Lorsque le ministre annule le numéro d’identification d’un fournisseur en application des paragraphes (6) ou (7), il lui envoie aussitôt un avis d’annulation par courrier recommandé.
-
-- **(9)** L’annulation du numéro d’identification prend effet le 10<sup>e</sup> jour suivant la date d’envoi par courrier recommandé de l’avis d’annulation du ministre.
-> DORS/86-643, art. 1; DORS/87-247, art. 4; DORS/96-92, art. 2.
+- **(6) à (9)** [Abrogés, DORS/2018-253, art. 2]
+> DORS/86-643, art. 1; DORS/87-247, art. 4; DORS/96-92, art. 2; DORS/2018-253, art. 2.
 
 
 
@@ -249,18 +234,18 @@ ne doit contenir aucun renseignement qui
 
 **14** 
 
-- **(1)** Les renseignements devant figurer sur l’étiquette d’information d’un article textile de consommation selon l’article 11, sauf ceux visés à l’alinéa 11(1)c), doivent :
+- **(1)** Les renseignements devant figurer sur l’étiquette d’information d’un article textile de consommation selon l’article 11, sauf ceux visés à l’alinéa 11(1)c), doivent :
 	- **a)** s’ils sont imprimés directement sur l’article textile de consommation, être groupés au même endroit; et
-	- **b)** sous réserve des dispositions des paragraphes (2), (3) et (4), s’ils sont inscrits ailleurs que sur l’article textile de consommation, être groupés sur le même côté d’une seule étiquette.
+	- **b)** sous réserve des dispositions des paragraphes (2), (3) et (4), s’ils sont inscrits ailleurs que sur l’article textile de consommation, être groupés sur le même côté d’une seule étiquette.
 
-- **(2)** Si l’étiquette visée au paragraphe (1) est attachée à un bout de l’article textile de consommation de sorte que les deux côtés de l’étiquette sont facilement accessibles, une partie des renseignements exigés à l’article 11 peut figurer sur un côté de l’étiquette, et le reste sur l’autre.
+- **(2)** Si l’étiquette visée au paragraphe (1) est attachée à un bout de l’article textile de consommation de sorte que les deux côtés de l’étiquette sont facilement accessibles, une partie des renseignements exigés à l’article 11 peut figurer sur un côté de l’étiquette, et le reste sur l’autre.
 
-- **(3)** Si deux étiquettes d’information sont apposées sur un article textile de consommation mentionné à l’annexe III :
-	- **a)** les renseignements exigés à l’alinéa 11(1)a) peuvent figurer en anglais sur une étiquette et en français sur l’autre étiquette, et ceux exigés à l’alinéa 11(1)b) et au paragraphe 11(3) peuvent figurer sur l’une ou l’autre des deux étiquettes;
-	- **b)** dans les cas où les deux étiquettes sont contiguës, une partie des renseignements exigés à l’article 11 peut figurer sur une étiquette et le reste, sur l’autre étiquette.
+- **(3)** Si deux étiquettes d’information sont apposées sur un article textile de consommation mentionné à l’annexe III :
+	- **a)** les renseignements exigés à l’alinéa 11(1)a) peuvent figurer en anglais sur une étiquette et en français sur l’autre étiquette, et ceux exigés à l’alinéa 11(1)b) peuvent figurer sur l’une ou l’autre des deux étiquettes;
+	- **b)** dans les cas où les deux étiquettes sont contiguës, une partie des renseignements exigés à l’article 11 peut figurer sur une étiquette et le reste, sur l’autre étiquette.
 
-- **(4)** Si deux étiquettes d’information sont apposées sur un article mentionné à l’annexe I mais non mentionné à l’annexe III, une partie des renseignements exigés à l’article 11 peut figurer sur une étiquette, et le reste sur l’autre, si les deux étiquettes sont contiguës.
-> DORS/87-247, art. 6; DORS/94-247, art. 8.
+- **(4)** Si deux étiquettes d’information sont apposées sur un article mentionné à l’annexe I mais non mentionné à l’annexe III, une partie des renseignements exigés à l’article 11 peut figurer sur une étiquette, et le reste sur l’autre, si les deux étiquettes sont contiguës.
+> DORS/87-247, art. 6; DORS/94-247, art. 8; DORS/2018-253, art. 3.
 
 
 
@@ -591,24 +576,24 @@ une demande en vue de faire prescrire un nom générique à l’égard de cette 
 
 
 **31** La teneur en fibres textiles d’un article textile de consommation ou de l’une de ses parties constituantes doit être indiquée de la manière suivante :
-- **a)** sous réserve de l’article 32, chaque fibre textile qui constitue cinq pour cent ou plus de la masse de l’article ou de l’une de ses parties constituantes doit être mentionnée
+- **a)** sous réserve de l’article 32, chaque fibre textile qui constitue cinq pour cent ou plus de la masse de l’article ou de l’une de ses parties constituantes doit être mentionnée
 	- **(i)** sous son nom générique,
-	- **(ii)** dans l’ordre de prédominance selon la masse, et
-	- **(iii)** sous réserve de l’alinéa d), de l’article 31.01 et du paragraphe 34(2), avec une indication de sa teneur immédiatement avant ou après le nom générique de la fibre;
-- **b)** sous réserve des alinéas c) et d), chaque fibre textile qui représente moins de 5 pour cent en masse de l’article ou de la partie constituante doit être mentionnée :
+	- **(ii)** sous réserve de l’article 31.1, dans l’ordre de prédominance selon la masse, et
+	- **(iii)** sous réserve de l’alinéa d), de l’article 31.01 et du paragraphe 34(2), avec une indication de sa teneur immédiatement avant ou après le nom générique de la fibre;
+- **b)** sous réserve des alinéas c) et d), chaque fibre textile qui représente moins de 5 pour cent en masse de l’article ou de la partie constituante doit être mentionnée :
 	- **(i)** soit de la manière suivante :
 		- **(A)** sous la désignation « autre fibre »,
-		- **(B)** immédiatement après la ou les fibres indiquées conformément à l’alinéa a),
-		- **(C)** sous réserve du paragraphe 34(2), avec une indication de sa teneur immédiatement avant ou après la désignation « autre fibre »,
-	- **(ii)** soit de la manière prévue à l’alinéa a);
-- **c)** lorsque plus d’une fibre textile est contenue dans l’article ou la partie constituante dans une proportion de moins de 5 pour cent en masse, celles de ces fibres qui ne sont pas indiquées de la manière prévue à l’alinéa a) doivent être indiquées globalement sous la désignation « autres fibres » :
-	- **(i)** immédiatement après la ou les fibres indiquées conformément à l’alinéa a),
-	- **(ii)** sous réserve de l’article 31.01 et du paragraphe 34(2), avec une indication de leur teneur globale immédiatement avant ou après la désignation « autres fibres »;
+		- **(B)** immédiatement après la ou les fibres indiquées conformément à l’alinéa a),
+		- **(C)** sous réserve du paragraphe 34(2), avec une indication de sa teneur immédiatement avant ou après la désignation « autre fibre »,
+	- **(ii)** soit de la manière prévue à l’alinéa a);
+- **c)** lorsque plus d’une fibre textile est contenue dans l’article ou la partie constituante dans une proportion de moins de 5 pour cent en masse, celles de ces fibres qui ne sont pas indiquées de la manière prévue à l’alinéa a) doivent être indiquées globalement sous la désignation « autres fibres » :
+	- **(i)** immédiatement après la ou les fibres indiquées conformément à l’alinéa a),
+	- **(ii)** sous réserve de l’article 31.01 et du paragraphe 34(2), avec une indication de leur teneur globale immédiatement avant ou après la désignation « autres fibres »;
 - **d)** lorsque l’article ou la partie constituante comprend comme partie intégrante un ornement, un fil élastique ou un fil de renforcement qui représente moins de 5 pour cent en masse de l’article ou de la partie constituante, la teneur en fibres textiles de l’article ou de la partie constituante peut être indiquée sans mention du pourcentage que représente l’ornement, le fil élastique ou le fil de renforcement si :
 	- **(i)** d’une part, le pourcentage en masse de chaque fibre textile contenue dans l’article ou la partie constituante et ne faisant pas partie de l’ornement, du fil élastique ou du fil de renforcement est augmenté proportionnellement de manière à ce que le pourcentage total de telles fibres soit égal à 100 pour cent,
-	- **(ii)** d’autre part, les termes « à l’exclusion de l’ornement », « à l’exclusion de l’élastique » ou « à l’exclusion du renforcement », selon le cas, sont inscrits immédiatement après le pourcentage des fibres visé au sous-alinéa (i).
+	- **(ii)** d’autre part, les termes « à l’exclusion de l’ornement », « à l’exclusion de l’élastique » ou « à l’exclusion du renforcement », selon le cas, sont inscrits immédiatement après le pourcentage des fibres visé au sous-alinéa (i).
 - **e)** [Abrogé, DORS/91-477, art. 3]
-> DORS/79-656, art. 3; DORS/80-354, art. 1; DORS/87-247, art. 11; DORS/91-477, art. 3.
+> DORS/79-656, art. 3; DORS/80-354, art. 1; DORS/87-247, art. 11; DORS/91-477, art. 3; DORS/2018-253, art. 4(F).
 
 
 
