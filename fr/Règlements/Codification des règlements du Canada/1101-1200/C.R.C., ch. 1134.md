@@ -102,13 +102,13 @@ Autorités habilitantes :
 	- **c)** de faire un raccordement avec une conduite d’égout raccordée à un égout collecteur,
 sans en avoir obtenu la permission par écrit du directeur.
 
-- **(2)** Pour l’application du paragraphe (1), le directeur tient compte des éléments suivants :
+- **(2)** Le directeur est autorisé à accorder la permission visée au paragraphe (1) après avoir tenu compte des éléments suivants :
 	- **a) ** la capacité du réseau d’égouts et de distribution d’eau du parc;
 	- **b) ** les contraintes techniques ou matérielles;
 	- **c) ** la préservation des ressources naturelles et la protection des ressources culturelles, historiques ou archéologiques du parc;
 	- **d) ** la sécurité, la santé et l’agrément des visiteurs et des résidents du parc;
 	- **e) ** la préservation, la gestion et l’administration du parc.
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 4.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 4; DORS/2018-250, art. 4.
 
 
 
@@ -143,8 +143,8 @@ dans toute superficie d’un parc que le directeur a désignée et marquée à l
 
 - **(1)** Il est interdit de construire ou de maintenir dans un parc un puits quelconque pour son propre approvisionnement d’eau ou pour l’usage de quelque autre personne, sans en avoir obtenu la permission écrite du directeur.
 
-- **(2)** Le directeur peut autoriser la construction ou le maintien dans un parc d’un puits si l’eau qui en est extraite est utilisée à des fins géothermiques ou s’il n’est pas possible de faire un raccordement au réseau de distribution d’eau d’un parc.
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 6.
+- **(2)** Le directeur est autorisé à permettre la construction ou le maintien dans un parc d’un puits si l’eau qui en est extraite est utilisée à des fins géothermiques ou s’il n’est pas possible de faire un raccordement au réseau de distribution d’eau d’un parc.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 6; DORS/2018-250, art. 5.
 
 
 
@@ -159,13 +159,13 @@ dans toute superficie d’un parc que le directeur a désignée et marquée à l
 	- **a)** des plans et devis relatifs à la fosse septique ou à l’égout que l’on projette d’aménager, ainsi qu’une estimation du coût de cette fosse septique ou de cet égout; et
 	- **b)** d’un droit de 1 $ par 1 000 $ ou fraction de ce montant que représente le coût de cette fosse septique ou de cet égout, tel qu’il est spécifié dans l’estimation mentionnée à l’alinéa a).
 
-- **(4)** Le directeur peut autoriser l’installation dans un parc d’une fosse septique, de cabinets à sec ou d’un égout s’il n’est pas possible de faire un raccordement au réseau d’égouts du parc, en tenant compte des éléments suivants :
+- **(4)** Le directeur est autorisé à permettre l’installation dans un parc d’une fosse septique, de cabinets à sec ou d’un égout si le raccordement au réseau d’égouts du parc est impossible, après avoir tenu compte des éléments suivants :
 	- **a)** la capacité du réseau d’égouts et du réseau de distribution d’eau du parc;
 	- **b)** les contraintes techniques ou matérielles;
 	- **c)** la préservation des ressources naturelles et la protection des ressources culturelles, historiques ou archéologiques du parc;
 	- **d)** la sécurité, la santé et l’agrément des visiteurs et des résidents du parc;
 	- **e)** la préservation, la gestion et l’administration du parc.
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 20(A); DORS/2001-320, art. 20(F); DORS/2010-140, art. 7.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 20(A); DORS/2001-320, art. 20(F); DORS/2010-140, art. 7; DORS/2018-250, art. 6.
 
 
 
