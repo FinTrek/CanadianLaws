@@ -1899,7 +1899,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 #### Public Service Labour Relations Act
 
 
-**308** [Amendment]
+**308** [Repealed before coming into force, 2018, c. 24, s. 34]
 
 
 
@@ -1915,18 +1915,15 @@ In all other respects, the employee is governed by the terms and conditions of e
 #### Coming into Force
 
 
-
-**Section 308**
-
 **310** 
 
-- <sup><a href='#fn_IndE8A7_hq_14294'>[*]</a></sup>**(1)** Section 308 comes into force on the day on which subsection 326(1) of the [Economic Action Plan 2013 Act, No. 2](/en/Acts/Statutes%20of%20Canada/2013/c.%2040.md) comes into force.
-
-<a name='fn_IndE8A7_hq_14294'><sup>*</sup></a>: [Note: Section 308 not in force.]<br />
+- **(1)** [Repealed, 2018, c. 24, s. 35]
 
 **Section 309**
 
 - **(2)** Section 309 is deemed to have come into force on December 12, 2013.
+> 2014, c. 20, s. 310; 2018, c. 24, s. 35.
+
 
 
 
