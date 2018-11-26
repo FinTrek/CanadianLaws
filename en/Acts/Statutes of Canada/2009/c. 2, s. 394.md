@@ -345,10 +345,10 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Arbitration**
+**Request for arbitration**
 
-**17** If arbitration has been chosen under subsection 104(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) as, or is, by reason of subsection 104(2) or section 238.18 of that Act, the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
-> 2009, c. 2, s. 394 “17”; 2013, c. 40, s. 361; 2017, c. 9, s. 52.
+**17** If arbitration has been chosen under subsection 103(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) as, or is, by reason of section 238.18 of that Act, the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
+> 2009, c. 2, s. 394 “17”; 2013, c. 40, s. 361; 2017, c. 9, s. 52; 2018, c. 24, s. 28.
 
 
 
@@ -388,10 +388,10 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Conciliation**
+**Request for conciliation**
 
-**20** If conciliation is the process for the resolution of disputes by reason of section 103 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), questions concerning the provision of equitable compensation to employees may be the subject of a request for conciliation under subsection 161(1) of that Act.
-> 2009, c. 2, s. 394 “20”; 2013, c. 40, s. 362; 2017, c. 9, s. 55.
+**20** If conciliation has been chosen under subsection 103(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) as the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for conciliation under subsection 161(1) of that Act.
+> 2009, c. 2, s. 394 “20”; 2013, c. 40, s. 362; 2017, c. 9, s. 55; 2018, c. 24, s. 29.
 
 
 
