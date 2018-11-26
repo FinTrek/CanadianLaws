@@ -1462,285 +1462,87 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**253** [Repealed, 2018, c. 24, s. 36]
 
-**DIVISION 20** 
-### Sick Leave and Disability Programs
 
 
+**254** [Repealed, 2018, c. 24, s. 36]
 
-#### Interpretation
 
 
+**255** [Repealed, 2018, c. 24, s. 36]
 
-**Definitions**
 
-**253** 
 
-- **(1)** The following definitions apply in this Division.
+**256** [Repealed, 2018, c. 24, s. 36]
 
-***application period*** means the period of four years that begins on the effective date. (*période d’application*)
 
-***effective date*** means the date specified in an order made under section 266 on which the short-term disability program becomes effective. (*date de mise en oeuvre*)
 
-***employee*** means a person employed in the core public administration, other than a person referred to in any of paragraphs (b) to (g) and (j) of the definition employee in subsection 2(1) of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md). (*fonctionnaire*)
+**257** [Repealed, 2018, c. 24, s. 36]
 
-***short-term disability program*** means the program established under section 260. (*programme d’invalidité de courte durée*)
 
-**Same meaning**
 
-- **(2)** Unless a contrary intention appears, words and expressions used in this Division have the same meaning as in the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
-> 2015, c. 36, s. 253; 2017, c. 9, s. 55.
+**258** [Repealed, 2018, c. 24, s. 36]
 
 
 
+**259** [Repealed, 2018, c. 24, s. 36]
 
 
-#### Sick Leave
 
+**260** [Repealed, 2018, c. 24, s. 36]
 
 
-**Sick leave**
 
-**254** 
+**261** [Repealed, 2018, c. 24, s. 36]
 
-- **(1)** Despite the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Treasury Board may, during the period that begins on a day to be fixed by order made under subsection (3) and that ends immediately before the effective date, in the exercise of its responsibilities under section 11.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), establish terms and conditions of employment related to the sick leave of employees in any particular bargaining unit and modify any such term or condition that is established during that period.
 
-**Clarification**
 
-- **(2)** The terms and conditions of employment may include ones that are related to
-	- **(a)** the number of hours of sick leave to which an employee is entitled in a fiscal year;
-	- **(b)** the maximum number of hours of unused sick leave that an employee may carry over from one fiscal year to the next fiscal year; and
-	- **(c)** the disposition of unused hours of sick leave that stand to an employee’s credit immediately before the effective date.
+**262** [Repealed, 2018, c. 24, s. 36]
 
-**Order in council**
 
-- **(3)** The Governor in Council may, by order made on the recommendation of the President of the Treasury Board, specify a day for the purposes of subsection (1).
-> 2015, c. 36, s. 254; 2017, c. 9, s. 55.
 
+**263** [Repealed, 2018, c. 24, s. 36]
 
 
 
+**264** [Repealed, 2018, c. 24, s. 36]
 
-**Contractual language**
 
-**255** Every term and condition of employment that is established or modified as permitted by section 254 must be drafted in a manner that permits its incorporation into a collective agreement or arbitral award that is binding on the employees in the bargaining unit.
 
+**265** [Repealed, 2018, c. 24, s. 36]
 
 
 
-**Incorporation into collective agreement and arbitral award**
+**266** [Repealed, 2018, c. 24, s. 36]
 
-**256** Every term and condition of employment that is established or modified as permitted by section 254 is deemed, on the effective date, to be incorporated, as it is drafted to comply with section 255, into any collective agreement or arbitral award that is binding on the employees in the bargaining unit and that is in force on that date. That term or condition applies despite any provision to the contrary in the collective agreement or arbitral award.
 
 
+**267** [Repealed, 2018, c. 24, s. 36]
 
 
-**Replacement of terms and conditions**
 
-**257** Every term and condition of employment of the employees in the bargaining unit that is continued in force, on the effective date, by section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and that is inconsistent with a term or condition of employment that is established as permitted by section 254 in respect of those employees is, on the effective date, replaced by that term or condition, as it is drafted to comply with section 255.
-> 2015, c. 36, s. 257; 2017, c. 9, s. 55.
+**268** [Repealed, 2018, c. 24, s. 36]
 
 
 
+**269** [Repealed, 2018, c. 24, s. 36]
 
 
-**Provisions are of no effect — arbitral awards during application period**
 
-**258** 
+**270** [Repealed, 2018, c. 24, s. 36]
 
-- **(1)** If an arbitral award that is binding on the employees in the bargaining unit is made during the application period and it contains a provision that is inconsistent with the terms and conditions of employment related to sick leave that applied to those employees immediately before the day on which the arbitral award is made, that provision is of no effect in relation to any period during the application period.
 
-**Application**
 
-- **(2)** Subsection (1) applies only in respect of terms and conditions of employment that are established or modified as permitted by section 254 in respect of the employees in the bargaining unit.
+**271** [Repealed, 2018, c. 24, s. 36]
 
 
 
+**272** [Repealed, 2018, c. 24, s. 36]
 
-**Provisions are of no effect — arbitral awards after application period**
 
-**259** 
 
-- **(1)** If an arbitral award that is binding on the employees in the bargaining unit is made after the expiry of the application period and it contains a provision that applies retroactively in relation to any period during the application period, any such provision that is inconsistent with the terms and conditions of employment related to sick leave that applied to those employees immediately before the expiry of the application period is of no effect in relation to that period during the application period.
-
-**Application**
-
-- **(2)** Subsection (1) applies only in respect of terms and conditions of employment that are established or modified as permitted by section 254 in respect of the employees in the bargaining unit.
-
-
-
-
-#### Short-term Disability Program
-
-
-
-**Establishment**
-
-**260** 
-
-- **(1)** Despite the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Treasury Board may, in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), establish a short-term disability program for employees in the bargaining units specified by order made by the Treasury Board, and for any other persons or classes of persons that the Treasury Board may designate, and take any measure necessary for that purpose. It may also, during the period that begins on the day on which the program is established and that ends on the expiry of the application period, and after taking into account the recommendations of the committee established under section 265, modify the program.
-
-**Time specification can be made**
-
-- **(2)** The Treasury Board may specify a bargaining unit for the purposes of subsection (1) at the time it establishes the short-term disability program or at any time afterwards, and section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) includes that power until the program is abolished or replaced.
-
-**Deeming**
-
-- **(3)** Every bargaining unit of employees that has not been specified by the Treasury Board for the purposes of subsection (1) before the effective date is deemed to have been specified by order of the Treasury Board made immediately before the effective date.
-> 2015, c. 36, s. 260; 2017, c. 9, s. 55.
-
-
-
-
-
-**Mandatory contents**
-
-**261** 
-
-- **(1)** The short-term disability program must provide for the following:
-	- **(a)** the rate or rates of benefits and the period during which the rate, or each rate, as the case may be, applies;
-	- **(b)** the maximum period for which benefits may be paid; and
-	- **(c)** provisions respecting the case management services that are to be provided.
-
-**Optional contents**
-
-- **(2)** The short-term disability program may provide for a period during which benefits under it are not to be paid and any other matter that the Treasury Board considers appropriate.
-
-
-
-
-**Application of program**
-
-**262** 
-
-- **(1)** The short-term disability program applies to the employees referred to in subsection 260(1), and to the other persons referred to in that subsection, during the application period despite
-	- **(a)** any provision to the contrary of any collective agreement or arbitral award that is binding on those employees and that is in force on the effective date; and
-	- **(b)** any terms and conditions of employment of those employees that are continued in force by section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and that are in force on the effective date.
-
-**Provisions are of no effect**
-
-- **(2)** Every provision of any collective agreement that is entered into — and of any arbitral award that is made — on or after the effective date that is binding on employees referred to in subsection 260(1) and that is inconsistent with the program is of no effect during the application period.
-
-**Program continues**
-
-- **(3)** The short-term disability program continues to apply to employees referred to in subsection 260(1), and to the other persons referred to in that subsection, after the expiry of the application period and until the program is abolished or replaced.
-> 2015, c. 36, s. 262; 2017, c. 9, s. 55.
-
-
-
-
-
-**No retroactive application**
-
-**263** No modification to the short-term disability program that is made by the Treasury Board in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) after the expiry of the application period may, in relation to any period during the application period, retroactively affect the program.
-
-
-
-
-**Non-application**
-
-**264** Subsection 7.1(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply in respect of the short-term disability program.
-
-
-
-
-**Committee**
-
-**265** 
-
-- **(1)** The Treasury Board must, on the effective date, establish a committee consisting of representatives of the employer and representatives of the bargaining agents for employees.
-
-**Purpose**
-
-- **(2)** The purpose of the committee is to make joint recommendations regarding modifications to the short-term disability program, including modifications to
-	- **(a)** membership in the program;
-	- **(b)** the matters referred to in section 261;
-	- **(c)** the conditions for continuing to receive benefits under the program; and
-	- **(d)** the reasons for which benefits under the program may be denied.
-
-
-
-
-**Order — effective date**
-
-**266** The Treasury Board may, by order made on the recommendation of the President of the Treasury Board, specify the date on which the short-term disability program becomes effective.
-
-
-
-
-#### Long-term Disability Programs
-
-
-
-**Modifications**
-
-**267** Despite the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md), the Treasury Board may, during the period that begins on the day on which the short-term disability program is established and that ends on the expiry of the application period, in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), modify any long-term disability program in respect of the period during which an employee is not entitled to be paid benefits under the program.
-> 2015, c. 36, s. 267; 2017, c. 9, s. 55.
-
-
-
-
-
-**Application of modifications**
-
-**268** 
-
-- **(1)** The modifications made as permitted by section 267 apply to employees during the application period despite
-	- **(a)** every provision to the contrary of any collective agreement or arbitral award that is binding on the employees and that is in force on the effective date; and
-	- **(b)** any terms and conditions of employment of the employees that are continued in force by section 107 of the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) and that are in force on the effective date.
-
-**Provisions are of no effect**
-
-- **(2)** Every provision of any collective agreement that is entered into — and of any arbitral award that is made — on or after the effective date that is inconsistent with any modifications that are made as permitted by section 267 is of no effect during the application period.
-
-**Provisions continue**
-
-- **(3)** Every provision of any long-term disability program that is modified as permitted by section 267 continues to apply to employees after the expiry of the application period until the provision is struck out or replaced.
-> 2015, c. 36, s. 268; 2017, c. 9, s. 55.
-
-
-
-
-
-**No retroactive application**
-
-**269** No modification to a long-term disability program that is made by the Treasury Board in the exercise of its powers under section 7.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) after the expiry of the application period may, in relation to any period during the application period, retroactively affect the provisions of that program that are modified as permitted by section 267.
-
-
-
-
-#### General
-
-
-
-**Right to bargain collectively**
-
-**270** Subject to the other provisions of this Division, the right to bargain collectively under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md) is continued.
-> 2015, c. 36, s. 270; 2017, c. 9, s. 55.
-
-
-
-
-
-**Right to strike**
-
-**271** Nothing in this Division affects the right to strike under the [Federal Public Sector Labour Relations Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20s.%202.md).
-> 2015, c. 36, s. 271; 2017, c. 9, s. 55.
-
-
-
-
-
-**Amendments permitted**
-
-**272** Nothing in this Division precludes the bargaining agents for employees who are bound by a collective agreement or arbitral award and the employer of those employees from amending, by agreement in writing, or from making a joint application to amend, any provision of the collective agreement or arbitral award, as the case may be, so long as the amendment is not contrary to this Division.
-
-
-
-
-**Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
-
-**273** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to orders made under sections 254, 260 and 266. However, each of those orders must be published in the Canada Gazette.
+**273** [Repealed, 2018, c. 24, s. 36]
 
 
 
