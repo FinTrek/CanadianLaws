@@ -1800,7 +1800,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**307** [Modifications]
+**307** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 30]
 
 
 
@@ -1836,7 +1840,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**316** [Modifications]
+**316** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 31]
 
 
 
@@ -1872,55 +1880,55 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**325** [Modifications]
+**325** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**326** [Modifications]
+**326** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**327** [Modification]
+**327** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**328** [Modification]
+**328** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**329** [Modification]
+**329** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**330** [Modification]
+**330** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**331** [Modification]
+**331** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**332** [Modification]
+**332** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
 **333** 
 
-- **(1)** [Abrogé avant d'entrer en vigueur, 2014, ch. 39, art. 382]
+- **(1)** [Abrogé avant d’entrer en vigueur, 2014, ch. 39, art. 382]
 
-- **(2)** [Modification]
-
-
-
-**334** [Modification]
+- **(2)** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**335** [Modification]
+**334** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
-**336** [Modifications]
+**335** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
+
+
+
+**336** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 32]
 
 
 
@@ -1936,115 +1944,91 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**339** [Disposition transitoire]
+**339** [Abrogé, 2018, ch. 24, art. 33]
 
 
 
+**340** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
-#### [Loi canadienne sur les droits de la personne](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-6.md)
 
 
+**341** [Abrogé, 2018, ch. 24, art. 33]
 
-##### Modification de la loi
 
 
-**340** [Modification]
+**342** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
+**343** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
-##### Disposition transitoire
 
 
-**341** [Disposition transitoire]
+**344** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
+**345** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
-#### [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)
 
 
+**346** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
-##### Modification de la loi
 
 
-**342** [Modifications]
+**347** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**343** [Modification]
+**348** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**344** [Modification]
+**349** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**345** [Modification]
+**350** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**346** [Modification]
+**351** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**347** [Modification]
+**352** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**348** [Modification]
+**353** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**349** [Modifications]
+**354** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**350** [Modification]
+**355** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**351** [Modification]
+**356** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**352** [Modification]
+**357** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**353** [Modification]
+**358** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**354** [Modification]
+**359** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 33]
 
 
 
-**355** [Modification]
-
-
-
-**356** [Modification]
-
-
-
-**357** [Modification]
-
-
-
-**358** [Modification]
-
-
-
-**359** [Modifications]
-
-
-
-
-##### Disposition transitoire
-
-
-**360** [Disposition transitoire]
+**360** [Abrogé, 2018, ch. 24, art. 33]
 
 
 
@@ -2079,13 +2063,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind4169_hq_13127'>[*]</a></sup>**(1)** Les paragraphes 307(2) et 316(2) entrent en vigueur à la date d’entrée en vigueur de l’article 17 de la [Loi sur l’équité dans la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/2009/ch.%202,%20art.%20394.md).
 
-<a name='fn_Ind4169_hq_13127'><sup>*</sup></a>: [Note : Paragraphes 307(2) et 316(2) non en vigueur.]<br />
+<a name='fn_Ind4169_hq_13127'><sup>*</sup></a>: [Note : Paragraphes 307(2) et 316(2) abrogés avant d’entrer en vigueur, *voir* 2018, ch. 24, art. 30 et 31.]<br />
 
 **Articles 325 à 336, 340 et 342 à 359**
 
 - <sup><a href='#fn_Ind4169_hq_13128'>[*]</a></sup>**(2)** Les articles 325 à 336, 340 et 342 à 359 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4169_hq_13128'><sup>*</sup></a>: [Note : Articles 325 à 336, 340 et 342 à 359 non en vigueur.]<br />
+<a name='fn_Ind4169_hq_13128'><sup>*</sup></a>: [Note : Articles 325 à 336, 340 et 342 à 359 abrogés avant d’entrer en vigueur, *voir* 2018, ch. 24, art. 32 et 33.]<br />
 
 
 
