@@ -345,10 +345,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Arbitrage**
+**Demande d’arbitrage**
 
-**17** Si l’arbitrage est choisi comme mode de règlement du différend au titre du paragraphe 104(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ou s’il s’agit du mode de règlement applicable au titre du paragraphe 104(2) ou de l’article 238.18 de cette loi, toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande d’arbitrage présentée en vertu du paragraphe 136(1) de cette loi.
-> 2009, ch. 2, art. 394 « 17 »; 2013, ch. 40, art. 361; 2017, ch. 9, art. 52.
+**17** Si l’arbitrage a été choisi comme mode de règlement du différend au titre du paragraphe 103(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md) ou s’il s’agit du mode de règlement applicable au titre de l’article 238.18 de cette loi, toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande d’arbitrage présentée en vertu du paragraphe 136(1) de cette loi.
+> 2009, ch. 2, art. 394 « 17 »; 2013, ch. 40, art. 361; 2017, ch. 9, art. 52; 2018, ch. 24, art. 28.
 
 
 
@@ -390,8 +390,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conciliation**
 
-**20** Si la conciliation est le mode de règlement du différend au titre de l’article 103 de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande de conciliation présentée en vertu du paragraphe 161(1) de cette loi.
-> 2009, ch. 2, art. 394 « 20 »; 2013, ch. 40, art. 362; 2017, ch. 9, art. 55.
+**20** Si la conciliation a été choisie comme mode de règlement du différend au titre du paragraphe 103(1) de la [Loi sur les relations de travail dans le secteur public fédéral](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%202.md), toute question relative à la rémunération équitable à verser aux employés peut faire l’objet de la demande de conciliation présentée en vertu du paragraphe 161(1) de cette loi.
+> 2009, ch. 2, art. 394 « 20 »; 2013, ch. 40, art. 362; 2017, ch. 9, art. 55; 2018, ch. 24, art. 29.
 
 
 
