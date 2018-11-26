@@ -1800,7 +1800,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**307** [Amendments]
+**307** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed before coming into force, 2018, c. 24, s. 30]
 
 
 
@@ -1836,7 +1840,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**316** [Amendments]
+**316** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed before coming into force, 2018, c. 24, s. 31]
 
 
 
@@ -1872,35 +1880,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**325** [Amendments]
+**325** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**326** [Amendments]
+**326** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**327** [Amendment]
+**327** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**328** [Amendment]
+**328** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**329** [Amendment]
+**329** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**330** [Amendment]
+**330** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**331** [Amendment]
+**331** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**332** [Amendment]
+**332** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
@@ -1908,19 +1916,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** [Repealed before coming into force, 2014, c. 39, s. 382]
 
-- **(2)** [Amendment]
+- **(2)** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**334** [Amendment]
+**334** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**335** [Amendment]
+**335** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
-**336** [Amendments]
+**336** [Repealed before coming into force, 2018, c. 24, s. 32]
 
 
 
@@ -1936,115 +1944,91 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**339** [Transitional Provision]
+**339** [Repealed, 2018, c. 24, s. 33]
 
 
 
+**340** [Repealed before coming into force, 2018, c. 24, s. 33]
 
-#### [Canadian Human Rights Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-6.md)
 
 
+**341** [Repealed, 2018, c. 24, s. 33]
 
-##### Amendments to the Act
 
 
-**340** [Amendment]
+**342** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
+**343** [Repealed before coming into force, 2018, c. 24, s. 33]
 
-##### Transitional Provision
 
 
-**341** [Transitional Provision]
+**344** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
+**345** [Repealed before coming into force, 2018, c. 24, s. 33]
 
-#### [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)
 
 
+**346** [Repealed before coming into force, 2018, c. 24, s. 33]
 
-##### Amendments to the Act
 
 
-**342** [Amendments]
+**347** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**343** [Amendment]
+**348** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**344** [Amendment]
+**349** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**345** [Amendment]
+**350** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**346** [Amendment]
+**351** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**347** [Amendment]
+**352** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**348** [Amendment]
+**353** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**349** [Amendments]
+**354** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**350** [Amendment]
+**355** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**351** [Amendment]
+**356** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**352** [Amendment]
+**357** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**353** [Amendment]
+**358** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**354** [Amendment]
+**359** [Repealed before coming into force, 2018, c. 24, s. 33]
 
 
 
-**355** [Amendment]
-
-
-
-**356** [Amendment]
-
-
-
-**357** [Amendment]
-
-
-
-**358** [Amendment]
-
-
-
-**359** [Amendments]
-
-
-
-
-##### Transitional Provision
-
-
-**360** [Transitional Provision]
+**360** [Repealed, 2018, c. 24, s. 33]
 
 
 
@@ -2079,13 +2063,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndE4BE_hq_13125'>[*]</a></sup>**(1)** Subsections 307(2) and 316(2) come into force on the day on which section 17 of the [Public Sector Equitable Compensation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%202,%20s.%20394.md) comes into force.
 
-<a name='fn_IndE4BE_hq_13125'><sup>*</sup></a>: [Note: Subsections 307(2) and 316(2) not in force.]<br />
+<a name='fn_IndE4BE_hq_13125'><sup>*</sup></a>: [Note: Subsections 307(2) and 316(2) repealed before coming into force, *see* 2018, c. 24, ss. 30 and 31.]<br />
 
 **Sections 325 to 336, 340 and 342 to 359**
 
 - <sup><a href='#fn_IndE4BE_hq_13126'>[*]</a></sup>**(2)** Sections 325 to 336, 340 and 342 to 359 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndE4BE_hq_13126'><sup>*</sup></a>: [Note: Sections 325 to 336, 340 and 342 to 359 not in force.]<br />
+<a name='fn_IndE4BE_hq_13126'><sup>*</sup></a>: [Note: Sections 325 to 336, 340 and 342 to 359 repealed before coming into force, *see* 2018, c. 24, ss. 32 and 33.]<br />
 
 
 
