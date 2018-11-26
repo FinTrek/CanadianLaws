@@ -1899,7 +1899,7 @@ où :
 #### [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)
 
 
-**308** [Modification]
+**308** [Abrogé avant d’entrer en vigueur, 2018, ch. 24, art. 34]
 
 
 
@@ -1915,18 +1915,15 @@ où :
 #### Entrée en vigueur
 
 
-
-**Article 308**
-
 **310** 
 
-- <sup><a href='#fn_Ind6DD1_hq_14288'>[*]</a></sup>**(1)** L’article 308 entre en vigueur à la date d’entrée en vigueur du paragraphe 326(1) de la Loi no 2 sur le plan d’action économique de 2013.
-
-<a name='fn_Ind6DD1_hq_14288'><sup>*</sup></a>: [Note : Article 308 non en vigueur.]<br />
+- **(1)** [Abrogé, 2018, ch. 24, art. 35]
 
 **Article 309**
 
 - **(2)** L’article 309 est réputé être entré en vigueur le 12 décembre 2013.
+> 2014, ch. 20, art. 310; 2018, ch. 24, art. 35.
+
 
 
 
