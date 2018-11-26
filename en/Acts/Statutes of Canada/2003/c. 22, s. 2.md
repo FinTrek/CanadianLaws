@@ -184,9 +184,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Part.
 
-***essential service*** means a service, facility or activity of the Government of Canada that has been determined under subsection 119(1) to be essential. (*services essentiels*)
+***essential service*** means a service, facility or activity of the Government of Canada that is or will be, at any time, necessary for the safety or security of the public or a segment of the public. (*services essentiels*)
 
-***essential services agreement***[Repealed, 2013, c. 40, s. 294]
+***essential services agreement*** means an agreement between the employer and the bargaining agent for a bargaining unit that identifies 
+- **(a)** the types of positions in the bargaining unit that are necessary for the employer to provide essential services;
+- **(b)** the number of those positions that are necessary for that purpose; and
+- **(c)** the specific positions that are necessary for that purpose. (*entente sur les services essentiels*)
 
 ***mediator*** means a person appointed as a mediator under subsection 108(1). (*médiateur*)
 
@@ -196,8 +199,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***public interest commission*** means a commission established under Division 10. (*commission de l’intérêt public*)
 
-- **(2)** [Repealed, 2013, c. 40, s. 294]
-> 2003, c. 22, s. 2 “4”; 2013, c. 40, s. 294; 2017, c. 9, s. 4.
+**When position is necessary**
+
+- **(2)** A position that is necessary for the employer to provide essential services for the purposes of paragraph (a) of the definition essential services agreement in subsection (1) includes a position the occupant of which is required, at any time,
+	- **(a)** to perform the duties of the position that relate to the provision of essential services; or
+	- **(b)** to be available during his or her off-duty hours to report to work without delay to perform those duties if required to do so by the employer.
+> 2003, c. 22, s. 2 “4”; 2013, c. 40, s. 294; 2017, c. 9, s. 4; 2018, c. 24, s. 1.
 
 
 
@@ -439,14 +446,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(e)** the manner of making applications under sections 71 and 77, the time and manner of providing copies of those applications and the time and manner of the filing of objections in respect of any positions referred to in applications under section 71;
 - **(f)** the rights, privileges and duties that are acquired or retained by an employee organization in respect of a bargaining unit or any employee included in a bargaining unit when there is a merger, an amalgamation or a transfer of jurisdiction between two or more employee organizations;
 - **(g)** the revocation of certification of a bargaining agent, including the rights and privileges that have accrued to and are retained by any employee despite the revocation;
-- **(h)** [Repealed, 2013, c. 40, s. 297]
+- **(h)** the manner of giving notices referred to in subsection 103(1), and the form of those notices, and the manner of making applications referred to in subsection 104(1), and the form of those applications;
 - **(i) to (k)** [Repealed, 2013, c. 40, s. 368]
 - **(l)** the circumstances in which the following evidence may be received by it as evidence that any employees wish or do not wish to have a particular employee organization represent them as their bargaining agent, and the circumstances in which it must not make public any evidence so received:
 	- **(i)** evidence as to membership of employees in an employee organization,
 	- **(ii)** evidence of objection by employees to certification of an employee organization, and
 	- **(iii)** evidence of signification by employees that they no longer wish to be represented by an employee organization; and
 - **(m)** any other matter that is incidental or conducive to the attainment of the objects of this Part or Division 1 of Part 2.1.
-> 2003, c. 22, s. 2 “39”; 2013, c. 40, ss. 297, 368; 2017, c. 9, s. 6.
+> 2003, c. 22, s. 2 “39”; 2013, c. 40, ss. 297, 368; 2017, c. 9, s. 6; 2018, c. 24, s. 2.
 
 
 
@@ -743,10 +750,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **67** Certification of an employee organization as the bargaining agent for a bargaining unit has the following effects:
 - **(a)** the employee organization has exclusive authority to bargain collectively on behalf of the employees in the bargaining unit;
 - **(b)** the certification of any employee organization that was previously certified as the bargaining agent for any employees in the bargaining unit is deemed to be revoked to the extent that the certification relates to those employees;
-- **(c)** the employee organization is substituted as a party to any collective agreement or arbitral award that affects any employees in the bargaining unit, to the extent that the agreement or award relates to those employees, in the place of the bargaining agent named in the collective agreement or its successor; and
-- **(d)** the employee organization is deemed to be the bargaining agent for the purposes of section 107.
-- **(e)** [Repealed, 2013, c. 40, s. 299]
-> 2003, c. 22, s. 2 “67”; 2013, c. 40, s. 299.
+- **(c)** the employee organization is substituted as a party to any collective agreement or arbitral award that affects any employees in the bargaining unit, to the extent that the agreement or award relates to those employees, in the place of the bargaining agent named in the collective agreement or its successor;
+- **(d)** the employee organization is deemed to be the bargaining agent for the purposes of section 107; and
+- **(e)** the employee organization is substituted as a party to any essential services agreement that is in force, in the place of the bargaining agent named in the agreement or its successor.
+> 2003, c. 22, s. 2 “67”; 2013, c. 40, s. 299; 2018, c. 24, s. 3.
 
 
 
@@ -899,16 +906,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **79** 
 
-- **(1)** If, by reason of a merger or an amalgamation of employee organizations or a transfer of jurisdiction among employee organizations, other than as a result of a revocation of certification, an employee organization succeeds another one that, at the time of the merger, amalgamation or transfer of jurisdiction, is a bargaining agent, the successor is deemed to have acquired the rights, privileges and duties of its predecessor, whether under a collective agreement, an arbitral award or otherwise.
+- **(1)** If, by reason of a merger or an amalgamation of employee organizations or a transfer of jurisdiction among employee organizations, other than as a result of a revocation of certification, an employee organization succeeds another one that, at the time of the merger, amalgamation or transfer of jurisdiction, is a bargaining agent, the successor is deemed to have acquired the rights, privileges and duties of its predecessor, whether under a collective agreement, an arbitral award, an essential services agreement or otherwise.
 
 **Board to determine questions**
 
-- **(2)** If any question arises in respect of the merger, amalgamation or transfer of jurisdiction concerning the rights, privileges and duties of an employee organization under this Part or Division 1 of Part 2.1 or under a collective agreement or an arbitral award in respect of a bargaining unit or an employee in a bargaining unit, the Board, on application by the employer or any person or employee organization concerned, must determine what rights, privileges and duties have been acquired or are retained.
+- **(2)** If any question arises in respect of a merger, amalgamation or transfer of jurisdiction referred to in subsection (1) concerning the rights, privileges and duties of an employee organization under this Part or Division 1 of Part 2.1 or under a collective agreement, an arbitral award or an essential services agreement in respect of a bargaining unit or an employee in a bargaining unit, the Board, on application by the employer or any person or employee organization concerned, must determine what rights, privileges and duties have been acquired or are retained.
 
 **Inquiry and votes**
 
 - **(3)** Before making a determination on the application, the Board may make any inquiry or direct that a representation vote be taken among the employees to be affected by the determination. The provisions of subsection 65(2) apply in relation to the taking of the vote.
-> 2003, c. 22, s. 2 “79”; 2013, c. 40, s. 300; 2017, c. 9, s. 12.
+> 2003, c. 22, s. 2 “79”; 2013, c. 40, s. 300; 2017, c. 9, s. 12; 2018, c. 24, s. 4.
 
 
 
@@ -1135,14 +1142,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **101** 
 
 - **(1)** Revocation of the certification of an employee organization certified as the bargaining agent for a bargaining unit has the following effects:
-	- **(a)** subject to paragraph 67(c), any collective agreement or arbitral award that is binding on the employees in the bargaining unit ceases to be in force; and
-	- **(b)** subject to subsection (2), any rights or privileges flowing from the certification are terminated.
-	- **(c)** [Repealed, 2013, c. 40, s. 301]
+	- **(a)** subject to paragraph 67(c), any collective agreement or arbitral award that is binding on the employees in the bargaining unit ceases to be in force;
+	- **(b)** subject to subsection (2), any rights or privileges flowing from the certification are terminated; and
+	- **(c)** subject to paragraph 67(e), any essential services agreement that is in force in respect of positions in the bargaining unit ceases to be in force.
 
 **Determination of rights of bargaining agent**
 
 - **(2)** If the certification of an employee organization is revoked by the Board under section 96, any of sections 98 to 100 or section 238.17, the Board must, on application by the employee organization or any employee organization that is substituted in the place of a bargaining agent under paragraph 67(c), determine any question as to any right or duty of the employee organization or of the substituted employee organization.
-> 2003, c. 22, s. 2 “101”; 2013, c. 40, s. 301; 2017, c. 9, s. 14.
+> 2003, c. 22, s. 2 “101”; 2013, c. 40, s. 301; 2017, c. 9, s. 14; 2018, c. 24, s. 5.
 
 
 
@@ -1156,29 +1163,43 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **DIVISION 6** 
-### Process for Dispute Resolution
+### Choice of Process for Dispute Resolution
 
 
 
-**Conciliation**
+**Choice of process**
 
-**103** Subject to section 104, the process for the resolution of disputes between an employer and the bargaining agent for a bargaining unit is conciliation.
-> 2003, c. 22, s. 2 “103”; 2013, c. 40, s. 302.
+**103** 
+
+- **(1)** A bargaining agent for a bargaining unit must notify the Board, in accordance with the regulations, of the process it has chosen — either arbitration or conciliation — to be the process for the resolution of disputes to which it may be a party.
+
+**Recording of process**
+
+- **(2)** The Board must record the process chosen by the bargaining agent for the resolution of disputes.
+
+**Period during which process to apply**
+
+- **(3)** The process recorded by the Board applies to the bargaining unit for the resolution of all disputes from the day on which a notice to bargain collectively in respect of the bargaining unit is given after the process is chosen, and it applies until the process is changed in accordance with section 104.
+> 2003, c. 22, s. 2 “103”; 2013, c. 40, s. 302; 2018, c. 24, s. 6.
 
 
 
 
 
-**Arbitration  — agreement**
+**Change of process**
 
 **104** 
 
-- **(1)** The employer and the bargaining agent for a bargaining unit may, by agreement in writing, choose arbitration as the process for the resolution of disputes. If the employer is a separate agency, it may enter into such an agreement only with the approval of the President of the Treasury Board.
+- **(1)** A bargaining agent for a bargaining unit that wishes to change the process for the resolution of a dispute that is applicable to the bargaining unit may apply to the Board, in accordance with the regulations, to record the change.
 
-**Arbitration  — essential services**
+**Recording of change**
 
-- **(2)** If, on the day on which notice to bargain collectively may be given, 80% or more of the positions in the bargaining unit have been designated under section 120, the process for the resolution of disputes between the employer and the bargaining agent is arbitration.
-> 2003, c. 22, s. 2 “104”; 2013, c. 40, s. 302.
+- **(2)** On receiving the application, the Board must record the change of process.
+
+**Effective date and duration**
+
+- **(3)** A change in the process for the resolution of a dispute becomes effective on the day that a notice to bargain collectively is given after the change is recorded and remains in force until the process is changed in accordance with this section.
+> 2003, c. 22, s. 2 “104”; 2013, c. 40, s. 302; 2018, c. 24, s. 6.
 
 
 
@@ -1201,22 +1222,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **105** 
 
-- **(1)** After the Board has certified an employee organization as the bargaining agent for a bargaining unit, the bargaining agent or the employer may, by notice in writing, require the other to commence bargaining collectively with a view to entering into, renewing or revising a collective agreement.
+- **(1)** After the Board has certified an employee organization as the bargaining agent for a bargaining unit and the process for the resolution of a dispute applicable to that bargaining unit has been recorded by the Board, the bargaining agent or the employer may, by notice in writing, require the other to commence bargaining collectively with a view to entering into, renewing or revising a collective agreement.
 
 **When notice may be given**
 
-- **(2)** Subject to subsection (2.1), the notice to bargain collectively may be given
+- **(2)** The notice to bargain collectively may be given
 	- **(a)** at any time, if no collective agreement or arbitral award is in force and no request for arbitration has been made by either of the parties in accordance with this Part; or
-	- **(b)** if a collective agreement or arbitral award is in force, within the 12 months before it ceases to be in force.
+	- **(b)** if a collective agreement or arbitral award is in force, within the four months before it ceases to be in force.
 
-**Exception**
-
-- **(2.1)** In the case of the bargaining agent for a bargaining unit that has never been bound by a collective agreement or arbitral award to which the employer is a party, the notice to bargain collectively may not be given until the expiry of 60 days after the day on which the employer gives to the bargaining agent the notice required by section 121.
+- **(2.1)** [Repealed, 2018, c. 24, s. 7]
 
 **Copy of notice to Board**
 
 - **(3)** A party that has given a notice to bargain collectively to another party must send a copy of the notice to the Board.
-> 2003, c. 22, s. 2 “105”; 2013, c. 40, s. 303.
+> 2003, c. 22, s. 2 “105”; 2013, c. 40, s. 303; 2018, c. 24, s. 7.
 
 
 
@@ -1237,10 +1256,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Duty to observe terms and conditions**
 
-**107** Unless the parties otherwise agree, and subject to subsection 125(1), after the notice to bargain collectively is given, each term and condition of employment applicable to the employees in the bargaining unit to which the notice relates that may be included in a collective agreement, and that is in force on the day on which the notice is given, is continued in force and must be observed by the employer, the bargaining agent for the bargaining unit and the employees in the bargaining unit until a collective agreement is entered into in respect of that term or condition or
+**107** Unless the parties otherwise agree, and subject to section 132, after the notice to bargain collectively is given, each term and condition of employment applicable to the employees in the bargaining unit to which the notice relates that may be included in a collective agreement, and that is in force on the day the notice is given, is continued in force and must be observed by the employer, the bargaining agent for the bargaining unit and the employees in the bargaining unit until a collective agreement is entered into in respect of that term or condition or
 - **(a)** if the process for the resolution of a dispute is arbitration, an arbitral award is rendered; or
 - **(b)** if the process for the resolution of a dispute is conciliation, a strike could be declared or authorized without contravening subsection 194(1).
-> 2003, c. 22, s. 2 “107”; 2013, c. 40, s. 304.
+> 2003, c. 22, s. 2 “107”; 2013, c. 40, s. 304; 2018, c. 24, s. 8.
 
 
 
@@ -1394,69 +1413,173 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Employer’s right to determine essential service**
+**Application of Division**
 
-**119** 
-
-- **(1)** The employer has the exclusive right to determine whether any service, facility or activity of the Government of Canada is essential because it is or will be necessary for the safety or security of the public or a segment of the public.
-
-**Employer’s right**
-
-- **(2)** Nothing in this Act is to be construed as limiting the employer’s right under subsection (1).
-> 2003, c. 22, s. 2 “119”; 2013, c. 40, s. 305.
+**119** This Division applies to the employer and the bargaining agent for a bargaining unit when the process for the resolution of a dispute applicable to the bargaining unit is conciliation.
+> 2003, c. 22, s. 2 “119”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
 
 
-**Employer’s right to designate positions**
+**Employer determines levels of service**
 
-**120** 
-
-- **(1)** The employer has the exclusive right to designate the positions in a bargaining unit that include duties that, in whole or in part, are or will be necessary for the employer to provide essential services, and the employer may exercise that right at any time.
-
-**Employer’s right**
-
-- **(2)** Nothing in this Act is to be construed as limiting the employer’s right under subsection (1).
-> 2003, c. 22, s. 2 “120”; 2013, c. 40, s. 305.
+**120** The employer has the exclusive right to determine the level at which an essential service is to be provided to the public, or a segment of the public, at any time, including the extent to which and the frequency with which the service is to be provided. Nothing in this Division is to be construed as limiting that right.
+> 2003, c. 22, s. 2 “120”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
 
 
-**Notice to bargaining agent**
+**Proportion of duties may vary during strike**
 
 **121** 
 
-- **(1)** The employer must notify in writing a bargaining agent that represents a bargaining unit that the employer either has, or has not, under section 120 designated positions in the bargaining unit.
+- **(1)** For the purpose of identifying the number of positions that are necessary for the employer to provide an essential service, the employer and the bargaining agent may agree that some employees in the bargaining unit will be required by the employer to perform their duties that relate to the provision of the essential service in a greater proportion during a strike than they do normally.
 
-**Identification of designated positions**
+**Determination of number of necessary employees**
 
-- **(2)** If the notice is to the effect that the employer has designated positions, the notice must identify the designated positions.
-
-**When notice must be given**
-
-- **(3)** The notice must be given not later than three months before the first day on which a notice to bargain collectively may be given. However, in the case of an employee organization that is certified as the bargaining agent for a bargaining unit after the day on which this section comes into force, the notice must be given within 60 days after the certification.
-
-**Notice to Board**
-
-- **(4)** The employer must notify the Board of the date the notice was given under subsection (1) to the bargaining agent.
-> 2003, c. 22, s. 2 “121”; 2013, c. 40, s. 305.
+- **(2)** For the purposes of subsection (1), the number of employees in the bargaining unit that are necessary to provide the essential service is to be determined
+	- **(a)** without regard to the availability of other persons to provide the essential service during a strike; and
+	- **(b)** on the basis that the employer is not required to change, in order to provide the essential service during a strike, the manner in which the employer operates normally, including the normal hours of work, the extent of the employer’s use of overtime and the equipment used in the employer’s operations.
+> 2003, c. 22, s. 2 “121”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
 
 
-**Consultations**
+**Obligation to negotiate**
 
 **122** 
 
-- **(1)** If the notice under subsection 121(1) is to the effect that the employer has designated positions, the employer must, after giving the notice, without delay, begin consultations with the bargaining agent about the designated positions that are identified in the notice. Those consultations must end 60 days after the day on which the notice is given.
+- **(1)** If the employer has given to the bargaining agent a notice in writing that the employer considers that employees in the bargaining unit occupy positions that are necessary for the employer to provide essential services, the employer and the bargaining agent must make every reasonable effort to enter into an essential services agreement as soon as feasible.
 
-**Employer’s determination**
+**Timing**
 
-- **(2)** Within the 30 days that follow the end of the 60 days, the employer must notify the bargaining agent of the positions in the bargaining unit that the employer has or will designate under section 120.
-> 2003, c. 22, s. 2 “122”; 2013, c. 40, s. 305.
+- **(2)** The notice may be given at any time but not later than 20 days after the day a notice to bargain collectively is given.
+> 2003, c. 22, s. 2 “122”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Application to the Board**
+
+**123** 
+
+- **(1)** If the employer and the bargaining agent are unable to enter into an essential services agreement, either of them may apply to the Board to determine any unresolved matter that may be included in an essential services agreement. The application may be made at any time but not later than
+	- **(a)** 15 days after the day a request for conciliation is made by either party; or
+	- **(b)** 15 days after the day the parties are notified by the Chairperson under subsection 163(2) of his or her intention to recommend the establishment of a public interest commission.
+
+**Delay**
+
+- **(2)** The Board may delay dealing with the application until it is satisfied that the employer and the bargaining agent have made every reasonable effort to enter into an essential services agreement.
+
+**Powers of Board**
+
+- **(3)** After considering the application, the Board may determine any matter that the employer and the bargaining agent have not agreed on that may be included in an essential services agreement and make an order
+	- **(a)** deeming the matter determined by it to be part of an essential services agreement between the employer and the bargaining agent; and
+	- **(b)** deeming that the employer and the bargaining agent have entered into an essential services agreement.
+
+**Restriction**
+
+- **(4)** The order must not require the employer to change the level at which an essential service is to be provided to the public, or a segment of the public, at any time, including the extent to which and the frequency with which the service is to be provided.
+
+**Proportion of duties may vary during strike**
+
+- **(5)** The Board may, for the purpose of identifying the number of positions that are necessary for the employer to provide an essential service, take into account that some employees in the bargaining unit may be required by the employer to perform those of their duties that relate to the provision of the essential service in a greater proportion during a strike than they do normally.
+
+**Determination of number of necessary employees**
+
+- **(6)** For the purposes of subsection (5), the number of employees in the bargaining unit that are necessary to provide the essential service is to be determined
+	- **(a)** without regard to the availability of other persons to provide the essential service during a strike; and
+	- **(b)** on the basis that the employer is not required to change, in order to provide the essential service during a strike, the manner in which the employer operates normally, including the normal hours of work, the extent of the employer’s use of overtime and the equipment used in the employer’s operations.
+
+**Application relating to specific position**
+
+- **(7)** If the application relates to a specific position to be identified in the essential services agreement, the employer’s proposal in respect of the position is to prevail, unless the position is determined by the Board not to be of the type necessary for the employer to provide essential services.
+> 2003, c. 22, s. 2 “123”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Coming into force of agreement**
+
+**124** The essential services agreement comes into force on the day it is signed by the parties or, in the case of an essential services agreement that the employer and the bargaining agent are deemed to have entered into by an order made under paragraph 123(3)(b), the day the order was made.
+> 2003, c. 22, s. 2 “124”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Duration**
+
+**125** An essential services agreement continues in force until the parties jointly determine that there are no employees in the bargaining unit who occupy positions that are necessary for the employer to provide essential services.
+> 2003, c. 22, s. 2 “125”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Notice to negotiate amendment**
+
+**126** 
+
+- **(1)** If a party to an essential services agreement gives a notice in writing to the other party that the party giving the notice seeks to amend the essential services agreement, the parties must make every reasonable effort to amend it as soon as feasible.
+
+**Timing**
+
+- **(2)** If a collective agreement or arbitral award is in force, the notice may be given at any time except that, if a notice to bargain collectively has been given with a view to renewing or revising the collective agreement, the notice may only be given during the 60 days following the day the notice to bargain collectively was given.
+> 2003, c. 22, s. 2 “126”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Application to Board**
+
+**127** 
+
+- **(1)** If the employer and the bargaining agent are unable to amend the essential services agreement, either of them may apply to the Board to amend the essential services agreement. The application may be made at any time but not later than
+	- **(a)** 15 days after the day a request for conciliation is made by either party; or
+	- **(b)** 15 days after the day the parties are notified by the Chairperson under subsection 163(2) of his or her intention to recommend the establishment of a public interest commission.
+
+**Delay**
+
+- **(2)** The Board may delay dealing with the application until it is satisfied that the employer and the bargaining agent have made every reasonable effort to amend the essential services agreement.
+
+**Amendment by Board**
+
+- **(3)** The Board may, by order, amend the essential services agreement if it considers that the amendment is necessary for the employer to provide essential services.
+
+**Restriction**
+
+- **(4)** The order must not require the employer to change the level at which an essential service is to be provided to the public, or a segment of the public, at any time, including the extent to which and the frequency with which the service is to be provided.
+
+**Proportion of duties may vary during strike**
+
+- **(5)** The Board may, for the purpose of identifying the number of positions that are necessary for the employer to provide an essential service, take into account that some employees in the bargaining unit may be required by the employer to perform their duties that relate to the provision of the essential service in a greater proportion during a strike than they do normally.
+
+**Determination of number of necessary employees**
+
+- **(6)** For the purposes of subsection (5), the number of employees in the bargaining unit that are necessary to provide the essential service is to be determined
+	- **(a)** without regard to the availability of other persons to provide the essential service during a strike; and
+	- **(b)** on the basis that the employer is not required to change, in order to provide the essential service during a strike, the manner in which the employer operates normally, including the normal hours of work, the extent of the employer’s use of overtime and the equipment used in the employer’s operations.
+
+**Application relating to specific position**
+
+- **(7)** If the application relates to a specific position to be identified in the essential services agreement, the employer’s proposal in respect of the position is to prevail, unless the position is determined by the Board not to be of the type necessary for the employer to provide essential services.
+> 2003, c. 22, s. 2 “127”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Coming into force of amendment**
+
+**128** An amendment to an essential services agreement comes into force on the day the agreement containing the amendment is signed by the parties or, in the case of an amendment made by order of the Board under subsection 127(3), the day the order was made.
+> 2003, c. 22, s. 2 “128”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
@@ -1464,8 +1587,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Replacement positions**
 
-**123** If a position that is designated by the employer under section 120 becomes vacant, the employer may identify a position of the same type as a replacement position. If the employer does so, the employer must provide the bargaining agent with a notice of replacement.
-> 2003, c. 22, s. 2 “123”; 2013, c. 40, s. 305.
+**129** 
+
+- **(1)** If, at any time while an essential services agreement is in force, a position identified in it becomes vacant, the employer may identify a position of the same type as a replacement position. If the employer does so, the employer must file a notice of replacement with the Board and provide a copy to the bargaining agent.
+
+**Effect of notice**
+
+- **(2)** On the filing of the notice, the replacement position is deemed to be a position identified in the essential services agreement and the position it replaced is deemed to be no longer identified.
+> 2003, c. 22, s. 2 “129”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
@@ -1473,14 +1602,23 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Notification of employees**
 
-**124** 
+**130** 
 
-- **(1)** As soon as feasible after designating a position under section 120, the employer must provide the employee who occupies the position with a notice informing the employee that they occupy such a position.
+- **(1)** The employer must provide every employee who occupies a position that has been identified in an essential services agreement as being a position that is necessary for the employer to provide essential services with a notice informing the employee that the employee occupies such a position.
 
 **Notification of change**
 
-- **(2)** A notice given under this section remains valid as long as the employee continues to occupy the position unless the employer notifies the employee that the position occupied by them is no longer necessary for the employer to provide essential services.
-> 2003, c. 22, s. 2 “124”; 2013, c. 40, s. 305.
+- **(2)** A notice given under this section remains valid so long as the employee continues to occupy the position unless the employer notifies the employee that the position occupied by the employee is no longer necessary for the employer to provide essential services.
+> 2003, c. 22, s. 2 “130”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
+
+
+
+
+
+**Emergency application**
+
+**131** Despite any provision in this Division, if either the employer or the bargaining agent is of the opinion that a temporary amendment to an essential services agreement, or its suspension, is necessary because of an emergency but the parties are unable to agree to do so, either of them may, at any time, apply to the Board for an order temporarily amending, or suspending, the agreement.
+> 2003, c. 22, s. 2 “131”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
@@ -1488,51 +1626,27 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Duty to observe terms and conditions**
 
-**125** 
-
-- **(1)** Unless the parties otherwise agree, every term and condition of employment applicable to employees in a bargaining unit in respect of which a notice to bargain collectively is given that may be included in a collective agreement and that is in force on the day on which the notice is given remains in force in respect of any employee who occupies a position that is designated under section 120 and must be observed by the employer, the bargaining agent for the bargaining unit and the employee until a collective agreement is entered into.
-
-**Saving**
-
-- **(2)** Nothing in this Act is to be construed as limiting the employer’s right to require that an employee who occupies a position that is designated under section 120 perform all of the duties assigned to that position and be available during his or her off-duty hours to report to work without delay to perform those duties if required to do so by the employer.
-> 2003, c. 22, s. 2 “125”; 2013, c. 40, s. 305.
+**132** Unless the parties otherwise agree, every term and condition of employment applicable to employees in a bargaining unit in respect of which a notice to bargain collectively is given that may be included in a collective agreement and that is in force on the day the notice is given remains in force in respect of any employee who occupies a position that is identified in an essential services agreement and must be observed by the employer, the bargaining agent for the bargaining unit and the employee until a collective agreement is entered into.
+> 2003, c. 22, s. 2 “132”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
 
-**126** [Repealed, 2013, c. 40, s. 305]
+
+**Extension of time**
+
+**133** The Board may, on the application of either party, extend any period referred to in this Division.
+> 2003, c. 22, s. 2 “133”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
 
 
-**127** [Repealed, 2013, c. 40, s. 305]
 
 
+**Filing of essential services agreement**
 
-**128** [Repealed, 2013, c. 40, s. 305]
+**134** Either party to an essential services agreement may file a copy of it with the Board. When filed, it has the same effect as an order of the Board.
+> 2003, c. 22, s. 2 “134”; 2013, c. 40, s. 305; 2018, c. 24, s. 9.
 
-
-
-**129** [Repealed, 2013, c. 40, s. 305]
-
-
-
-**130** [Repealed, 2013, c. 40, s. 305]
-
-
-
-**131** [Repealed, 2013, c. 40, s. 305]
-
-
-
-**132** [Repealed, 2013, c. 40, s. 305]
-
-
-
-**133** [Repealed, 2013, c. 40, s. 305]
-
-
-
-**134** [Repealed, 2013, c. 40, s. 305]
 
 
 
@@ -1741,22 +1855,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Preponderant factors**
+**Factors to be considered**
 
-**148** 
-
-- **(1)** In determining whether compensation levels and other terms and conditions represent a prudent use of public funds and are sufficient to allow the employer to meet its operational needs, the arbitration board is to be guided by and to give preponderance to the following factors in the conduct of its proceedings and in making an arbitral award:
-	- **(a)** the necessity of attracting competent persons to, and retaining them in, the public service in order to meet the needs of Canadians; and
-	- **(b)** Canada’s fiscal circumstances relative to its stated budgetary policies.
-
-**Other factors**
-
-- **(2)** If relevant to the making of a determination under subsection (1), the arbitration board may take any of the following factors into account:
-	- **(a)** relationships with compensation and other terms and conditions of employment as between different classification levels within an occupation and as between occupations in the public service;
-	- **(b)** the compensation and other terms and conditions of employment relative to employees in similar occupations in the private and public sectors, including any geographical, industrial or other variations that the arbitration board considers relevant;
-	- **(c)** compensation and other terms and conditions of employment that are reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered; and
-	- **(d)** the state of the Canadian economy.
-> 2003, c. 22, s. 2 “148”; 2013, c. 40, s. 307.
+**148** In the conduct of its proceedings and in making an arbitral award, the arbitration board must take into account the following factors, in addition to any other factors that it considers relevant:
+- **(a)** the necessity of attracting competent persons to, and retaining them in, the public service in order to meet the needs of Canadians;
+- **(b)** the necessity of offering compensation and other terms and conditions of employment in the public service that are comparable to those of employees in similar occupations in the private and public sectors, including any geographic, industrial or other variations that the arbitration board considers relevant;
+- **(c)** the need to maintain appropriate relationships with respect to compensation and other terms and conditions of employment as between different classification levels within an occupation and as between occupations in the public service;
+- **(d)** the need to establish compensation and other terms and conditions of employment that are fair and reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered; and
+- **(e)** the state of the Canadian economy and the Government of Canada’s fiscal circumstances.
+> 2003, c. 22, s. 2 “148”; 2013, c. 40, s. 307; 2018, c. 24, s. 10.
 
 
 
@@ -1766,16 +1873,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **149** 
 
-- **(1)** The arbitration board must make an arbitral award as soon as feasible in respect of all the matters in dispute that are referred to it and set out in the award the reasons for its decision in respect of each of those matters.
+- **(1)** The arbitration board must make an arbitral award as soon as feasible in respect of all the matters in dispute that are referred to it.
 
-**Terms of employment to be considered**
-
-- **(1.1)** The arbitration board must not make an arbitral award without having taken into account all terms and conditions of employment of, and benefits provided to, the employees in the bargaining unit to which the award relates, including salaries, bonuses, allowances, vacation pay, employer contributions to pension funds or plans and all forms of health plans and dental insurance plans.
+- **(1.1)** [Repealed, 2018, c. 24, s. 11]
 
 **Award to be signed**
 
 - **(2)** The arbitral award must be signed by the chairperson of the arbitration board, or by the single member, as the case may be, and a copy must be sent to the Chairperson.
-> 2003, c. 22, s. 2 “149”; 2013, c. 40, s. 309.
+> 2003, c. 22, s. 2 “149”; 2013, c. 40, s. 309; 2018, c. 24, s. 11.
 
 
 
@@ -1902,34 +2007,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-#### Review
-
-
-
-**Review**
-
-**158.1** 
-
-- **(1)** Within seven days after the day on which an arbitral award is made, the Chairperson may direct the arbitration board to review the arbitral award, or any part of it, if in the Chairperson’s opinion, the arbitral award, or any part of it, does not represent a reasonable application of the factors referred to in section 148 and, if applicable, the factor referred to in section 238.21, based on a full consideration of the written submissions provided to the arbitration board.
-
-**Review — application**
-
-- **(2)** On application by either party to an arbitral award, made within seven days after the day on which the arbitral award is made, the Chairperson may, within seven days after the day on which the application is made, direct the arbitration board to review the arbitral award, or any part of it, if in the Chairperson’s opinion, the arbitral award, or any part of it, does not represent a reasonable application of the factors referred to in section 148 and, if applicable, the factor referred to in section 238.21, based on a full consideration of the written submissions provided to the arbitration board.
-
-**Duty to confirm or amend**
-
-- **(3)** Within 30 days after the day on which the Chairperson directs it to review the arbitral award, or any part of it, the arbitration board must either confirm the award or amend it and provide the Chairperson with reasons in writing for doing so. If the arbitral award is amended, the arbitration board must also provide the Chairperson with a copy of the amended arbitral award.
-
-**Notice**
-
-- **(4)** The Chairperson must, without delay, inform the parties of the arbitration board’s decision and provide them with a copy of that board’s reasons in writing. If the arbitral award is amended, the Chairperson must also provide the parties with a copy of the amended arbitral award.
-
-**Restriction**
-
-- **(5)** For greater certainty, the arbitration board’s power to amend the arbitral award is restricted to amending it only in relation to the matters in dispute that were originally referred to it.
-> 2013, c. 40, s. 310; 2017, c. 9, s. 20.
-
+**158.1** [Repealed, 2018, c. 24, s. 12]
 
 
 
@@ -2034,12 +2112,29 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **164** 
 
-- **(1)** The public interest commission consists of either a single member appointed in accordance with section 165 or, subject to subsection (2), three members, appointed in accordance with section 167.
+- **(1)** The public interest commission consists of either a single member appointed in accordance with section 166 or, subject to subsection (2), three members, appointed in accordance with section 167.
 
 **Request for commission of three members**
 
 - **(2)** The public interest commission is to consist of three members only if one of the parties requests it.
-> 2003, c. 22, s. 2 “164”; 2013, c. 40, s. 312.
+> 2003, c. 22, s. 2 “164”; 2013, c. 40, s. 312; 2018, c. 24, s. 13.
+
+
+
+
+
+**List**
+
+**165** 
+
+- **(1)** For the purposes of sections 166 and 167, the Chairperson must, after consultation with the parties, prepare a list of names of persons who could be selected to act as a public interest commission that consists of a single member, or as the chairperson of a public interest commission that consists of three members.
+
+**Contents**
+
+- **(2)** The list must set out
+	- **(a)** the names of all eligible persons jointly recommended by the parties; and
+	- **(b)** if the Chairperson is of the opinion that the parties have not jointly recommended a sufficient number of persons, the names of any other eligible persons whom the Chairperson considers suitable.
+> 2003, c. 22, s. 2 “165”; 2013, c. 40, s. 313; 2018, c. 24, s. 14.
 
 
 
@@ -2047,19 +2142,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Commission with single member**
 
-**165** 
+**166** 
 
-- **(1)** If the public interest commission is to consist of a single member, the Chairperson must submit to the Minister the name of a person jointly recommended by the bargaining agent and the employer. If no person is so recommended, the Chairperson may, at his or her discretion, recommend the appointment of a particular person.
+- **(1)** If the public interest commission is to consist of a single member, the Chairperson must submit to the Minister the list prepared under subsection 165(1). The Chairperson may, at his or her discretion, also recommend the appointment of a particular person named in the list.
 
 **Appointment**
 
-- **(2)** After receiving the recommendation, the Minister must, without delay, appoint the person recommended.
-> 2003, c. 22, s. 2 “165”; 2013, c. 40, s. 313.
+- **(2)** After receiving the list, the Minister must, without delay, appoint a person named in the list.
+> 2003, c. 22, s. 2 “166”; 2013, c. 40, s. 313; 2018, c. 24, s. 14.
 
-
-
-
-**166** [Repealed, 2013, c. 40, s. 313]
 
 
 
@@ -2076,16 +2167,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Appointment of chairperson nominated by parties**
 
-- **(3)** Within five days after the day on which the second member is appointed, the two members must nominate a person to be the chairperson and third member of the public interest commission, and the Chairperson must recommend to the Minister the appointment of that person. The Minister must appoint the person, without delay, as chairperson and third member of the commission.
+- **(3)** Within five days after the day on which the second member is appointed, the two members must nominate to be chairperson and third member of the public interest commission a person from the list prepared under subsection 165(1), and the Chairperson must recommend to the Minister the appointment of that person. The Minister must appoint the person without delay as chairperson and third member of the commission.
 
 **Failure to nominate**
 
-- **(4)** If the two members fail to make a nomination under subsection (3), the Chairperson must, without delay, recommend to the Minister the appointment of a particular person as the chairperson and third member of the public interest commission.
+- **(4)** If the two members fail to make a nomination under subsection (3), the Chairperson must, without delay, submit to the Minister the list prepared under subsection 165(1). The Chairperson may, at his or her discretion, also recommend to the Minister the appointment of a particular person named in the list as the chairperson and third member of the public interest commission.
 
 **Appointment**
 
-- **(5)** After receiving the recommendation, the Minister must, without delay, appoint the person recommended as the chairperson and third member of the public interest commission.
-> 2003, c. 22, s. 2 “167”; 2013, c. 40, s. 314.
+- **(5)** After receiving the list, the Minister must, without delay, appoint a person named in the list as the chairperson and third member of the public interest commission.
+> 2003, c. 22, s. 2 “167”; 2013, c. 40, s. 314; 2018, c. 24, s. 15.
 
 
 
@@ -2115,12 +2206,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **170** 
 
-- **(1)** In the event of the death, incapacity or resignation of the member of a public interest commission that consists of a single member before the commission makes a report to the Chairperson, the Chairperson must recommend to the Minister the appointment of another person under section 165 and the Minister must, without delay, appoint that person. That person must recommence the conciliation proceedings from the beginning.
+- **(1)** In the event of the death, incapacity or resignation of the member of a public interest commission that consists of a single member before the commission makes a report to the Chairperson, the Chairperson must recommend to the Minister the appointment of another person from the list submitted under section 166 and the Minister must, without delay, appoint that person or another person on the list. That person must recommence the conciliation proceedings from the beginning.
 
 **Vacancy — commission with three members**
 
 - **(2)** If a vacancy occurs in the membership of a public interest commission that consists of three members before the commission makes a report to the Chairperson, the vacancy must be filled by the Minister, on the recommendation of the Chairperson, by appointment in the manner provided for in section 167 for the selection of the person in respect of whom the vacancy arose.
-> 2003, c. 22, s. 2 “170”; 2013, c. 40, s. 315.
+> 2003, c. 22, s. 2 “170”; 2013, c. 40, s. 315; 2018, c. 24, s. 16.
 
 
 
@@ -2172,22 +2263,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Preponderant factors**
+**Factors to be considered**
 
-**175** 
-
-- **(1)** In determining whether compensation levels and other terms and conditions represent a prudent use of public funds and are sufficient to allow the employer to meet its operational needs, the public interest commission is to be guided by and to give preponderance to the following factors in the conduct of its proceedings and in making a report to the Chairperson:
-	- **(a)** the necessity of attracting competent persons to, and retaining them in, the public service in order to meet the needs of Canadians; and
-	- **(b)** Canada’s fiscal circumstances relative to its stated budgetary policies.
-
-**Other factors**
-
-- **(2)** If relevant to the making of a determination under subsection (1), the public interest commission may take any of the following factors into account:
-	- **(a)** relationships with compensation and other terms and conditions of employment as between different classification levels within an occupation and as between occupations in the public service;
-	- **(b)** the compensation and other terms and conditions of employment relative to employees in similar occupations in the private and public sectors, including any geographical, industrial or other variations that the public interest commission considers relevant;
-	- **(c)** compensation and other terms and conditions of employment that are reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered; and
-	- **(d)** the state of the Canadian economy.
-> 2003, c. 22, s. 2 “175”; 2013, c. 40, s. 316.
+**175** In the conduct of its proceedings and in making a report to the Chairperson, the public interest commission must take into account the following factors, in addition to any other factors that it considers relevant:
+- **(a)** the necessity of attracting competent persons to, and retaining them in, the public service in order to meet the needs of Canadians;
+- **(b)** the necessity of offering compensation and other terms and conditions of employment in the public service that are comparable to those of employees in similar occupations in the private and public sectors, including any geographic, industrial or other variations that the public interest commission considers relevant;
+- **(c)** the need to maintain appropriate relationships with respect to compensation and other terms and conditions of employment as between different classification levels within an occupation and as between occupations in the public service;
+- **(d)** the need to establish compensation and other terms and conditions of employment that are fair and reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered; and
+- **(e)** the state of the Canadian economy and the Government of Canada’s fiscal circumstances.
+> 2003, c. 22, s. 2 “175”; 2013, c. 40, s. 316; 2018, c. 24, s. 17.
 
 
 
@@ -2203,18 +2287,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The public interest commission must submit a report to the Chairperson as to its success or failure in assisting the parties to the dispute and as to its findings and recommendations within 30 days after it is established, or within any longer period that may be agreed on by the parties or determined by the Chairperson.
 
-**Reasons**
-
-- **(1.1)** The public interest commission must set out in the report the reasons for each of its recommendations.
-
-**Terms of employment to be considered**
-
-- **(1.2)** The public interest commission must not submit its report without having taken into account all terms and conditions of employment of, and benefits provided to, the employees in the bargaining unit to which the report relates, including salaries, bonuses, allowances, vacation pay, employer contributions to pension funds or plans and all forms of health plans and dental insurance plans.
+- **(1.1) and (1.2)** [Repealed, 2018, c. 24, s. 18]
 
 **Report to be signed**
 
 - **(2)** The report must be signed by the chairperson of the public interest commission, or by the single member, as the case may be.
-> 2003, c. 22, s. 2 “176”; 2013, c. 40, s. 317.
+> 2003, c. 22, s. 2 “176”; 2013, c. 40, s. 317; 2018, c. 24, s. 18.
 
 
 
@@ -2252,8 +2330,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Reconsideration of matters contained in report**
 
-**179** The Chairperson may direct the public interest commission to reconsider and clarify or amplify its report or any part of it if in his or her opinion section 175 has not been properly applied.
-> 2003, c. 22, s. 2 “179”; 2013, c. 40, s. 318.
+**179** The Chairperson may direct the public interest commission to reconsider and clarify or amplify its report or any part of the report.
+> 2003, c. 22, s. 2 “179”; 2013, c. 40, s. 318; 2018, c. 24, s. 19.
 
 
 
@@ -2281,7 +2359,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **182** 
 
-- **(1)** Despite any other provision of this Part, the employer and the bargaining agent for a bargaining unit may, at any time in the negotiation of a collective agreement, agree to refer any term or condition of employment of employees in the bargaining unit that may be included in a collective agreement to any eligible person for final and binding determination by whatever process the employer and the bargaining agent agree to. If the employer is a separate agency, it may enter into such an agreement to refer a term or condition for final and binding determination only with the approval of the President of the Treasury Board.
+- **(1)** Despite any other provision of this Part, the employer and the bargaining agent for a bargaining unit may, at any time in the negotiation of a collective agreement, agree to refer any term or condition of employment of employees in the bargaining unit that may be included in a collective agreement to any eligible person for final and binding determination by whatever process the employer and the bargaining agent agree to.
 
 **Alternate process applicable only to terms referred to it**
 
@@ -2304,7 +2382,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Eligibility**
 
 - **(6)** A person is not eligible to be appointed as a person who makes a final and binding determination under this section if the person has, at any time during the six months before their date of appointment, acted in respect of any matter concerning employer-employee relations as solicitor, counsel or agent of the employer or of any employee organization that has an interest in the term or condition referred for final and binding determination.
-> 2003, c. 22, s. 2 “182”; 2013, c. 40, s. 319.
+> 2003, c. 22, s. 2 “182”; 2013, c. 40, s. 319; 2018, c. 24, s. 20.
 
 
 
@@ -2480,7 +2558,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** the employer, a bargaining agent or an employee has failed to comply with section 107 (duty to observe terms and conditions);
 	- **(d)** the employer, a bargaining agent or a deputy head has failed to comply with subsection 110(3) (duty to bargain in good faith);
 	- **(e)** the employer or an employee organization has failed to comply with section 117 (duty to implement provisions of the collective agreement) or 157 (duty to implement provisions of the arbitral award);
-	- **(f)** the employer, a bargaining agent or an employee has failed to comply with subsection 125(1) (duty to observe terms and conditions); or
+	- **(f)** the employer, a bargaining agent or an employee has failed to comply with section 132 (duty to observe terms and conditions); or
 	- **(g)** the employer, an employee organization or any person has committed an unfair labour practice within the meaning of section 185.
 
 **Time for making complaint**
@@ -2501,7 +2579,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(4)** The Board may, on application to it by a complainant, determine a complaint in respect of an alleged failure by an employee organization to comply with paragraph 188(b) or (c) that has not been presented as a grievance or appeal to the employee organization, if the Board is satisfied that
 	- **(a)** the action or circumstance giving rise to the complaint is such that the complaint should be dealt with without delay; or
 	- **(b)** the employee organization has not given the complainant ready access to a grievance or appeal procedure.
-> 2003, c. 22, s. 2 “190”; 2013, c. 40, s. 320.
+> 2003, c. 22, s. 2 “190”; 2013, c. 40, s. 320; 2018, c. 24, s. 21.
 
 
 
@@ -2531,7 +2609,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **192** 
 
 - **(1)** If the Board determines that a complaint referred to in subsection 190(1) is well founded, the Board may make any order that it considers necessary in the circumstances against the party complained of, including any of the following orders:
-	- **(a)** if the employer has failed to comply with section 107 or subsection 125(1), an order requiring the employer to pay to any employee compensation that is not more than the amount that, in the Board’s opinion, is equivalent to the remuneration that would, but for that failure, have been paid by the employer to the employee;
+	- **(a)** if the employer has failed to comply with section 107 or 132, an order requiring the employer to pay to any employee compensation that is not more than the amount that, in the Board’s opinion, is equivalent to the remuneration that would, but for that failure, have been paid by the employer to the employee;
 	- **(b)** if the employer has failed to comply with paragraph 186(2)(a), an order requiring the employer to
 		- **(i)** employ, continue to employ or permit to return to the duties of their employment any person whom the employer or any person acting on the employer’s behalf has refused to employ or continue to employ, has suspended, transferred, laid off, discharged for the promotion of economy and efficiency in the Royal Canadian Mounted Police or otherwise discriminated against, or discharged contrary to that paragraph,
 		- **(ii)** pay to any person affected by that failure compensation in an amount that is not more than, in the Board’s opinion, the remuneration that would, but for that failure, have been paid by the employer to that person, and
@@ -2548,7 +2626,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Person acting on behalf of employee organization**
 
 - **(3)** If the order is directed to a person who has acted or purported to act on behalf of an employee organization, the order must also be directed to the chief officer of that employee organization.
-> 2003, c. 22, s. 2 “192”; 2013, c. 40, s. 321; 2017, c. 9, s. 25(E).
+> 2003, c. 22, s. 2 “192”; 2013, c. 40, s. 321; 2017, c. 9, s. 25(E); 2018, c. 24, s. 22.
 
 
 
@@ -2584,8 +2662,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** no collective agreement is in force, and no notice to bargain collectively has been given, in respect of the bargaining unit;
 	- **(d)** no collective agreement is in force, and a notice to bargain collectively has been given, in respect of the bargaining unit, and no request for conciliation has been made under section 161;
 	- **(e)** the process for resolution of a dispute applicable to the bargaining unit is arbitration;
-	- **(f)** the process for resolution of a dispute applicable to the bargaining unit is conciliation and a notice has been given under section 121 to the effect that the employer has, under section 120, designated positions in the bargaining unit and the employer has not notified the bargaining agent under subsection 122(2);
-	- **(g) to (j)** [Repealed, 2013, c. 40, s. 322]
+	- **(f)** the process for resolution of a dispute applicable to the bargaining unit is conciliation and a notice to enter into an essential services agreement has been given under section 122 by the employer or the employee organization, as bargaining agent for the bargaining unit, and no essential services agreement is in force in respect of the bargaining unit;
+	- **(g)** the process for resolution of a dispute in respect of the bargaining unit is conciliation and a notice to amend an essential services agreement has been given under section 126 by the employer or the employee organization, as bargaining agent for the bargaining unit, and
+		- **(i)** the essential services agreement has not been amended as a result of that notice, or
+		- **(ii)** if an application referred to in subsection 127(1) was made by the employer or the employee organization, the application has not been finally disposed of by the Board;
+	- **(h)** the process for resolution of a dispute in respect of the bargaining unit is conciliation and less than 30 clear days have elapsed since
+		- **(i)** the date an essential services agreement came into force in respect of the bargaining unit, or
+		- **(ii)** the date an application referred to in subsection 123(1) made by the employer or the employee organization as bargaining agent for the bargaining unit was finally disposed of by the Board, if such an application was made;
+	- **(i)** the process for resolution of a dispute in respect of the bargaining unit is conciliation and the employer or the employee organization, as bargaining agent for the bargaining unit, has given a notice to amend an essential services agreement and less than 30 clear days have elapsed since
+		- **(i)** the date of the coming into force of the amendment to the essential services agreement as a result of that notice, or
+		- **(ii)** the date the application referred to in subsection 127(1) made by the employer or the employee organization was finally disposed of by the Board, if such an application was made;
+	- **(j)** an essential services agreement binding on the employee organization and the employer has been suspended by order under section 131;
 	- **(k)** the process for resolution of a dispute in respect of the bargaining unit is conciliation and a public interest commission has not been established to assist the employer and the employee organization, as bargaining agent for the bargaining unit, to enter into or revise a collective agreement, unless the employee organization has been notified under subsection 162(3) that a public interest commission will not be established;
 	- **(l)** the employee organization, as bargaining agent for the bargaining unit, has been notified under subsection 162(3) that a public interest commission will not be established to assist the employer and the employee organization to enter into or revise a collective agreement and less than seven clear days have elapsed since the date the notice was given under that subsection;
 	- **(m)** a public interest commission has been established to assist the employer and the employee organization, as bargaining agent for the bargaining unit, to enter into or revise a collective agreement and the Chairperson has not yet sent the commission’s report or reconsidered report, as the case may be, to the parties, or, if it has been sent, less than seven clear days have elapsed since it was sent;
@@ -2599,8 +2686,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Essential services**
 
-- **(2)** No employee organization shall declare or authorize a strike the effect of which is or would be to involve the participation of any employee who occupies a position that is designated under section 120, and no officer or representative of an employee organization shall counsel or procure the declaration or authorization of a strike in respect of a bargaining unit or the participation of those employees in a strike.
-> 2003, c. 22, s. 2 “194”; 2013, c. 40, s. 322.
+- **(2)** No employee organization shall declare or authorize a strike the effect of which is or would be to involve the participation of any employee who occupies a position that is necessary under an essential services agreement for the employer to provide essential services, and no officer or representative of an employee organization shall counsel or procure the participation of those employees in a strike.
+> 2003, c. 22, s. 2 “194”; 2013, c. 40, s. 322; 2018, c. 24, s. 23.
 
 
 
@@ -2621,9 +2708,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** is included in a bargaining unit in respect of which no collective agreement is in force and for which no notice to bargain collectively has been given;
 - **(d)** is included in a bargaining unit in respect of which no collective agreement is in force and for which a notice to bargain collectively has been given and in respect of which no request for conciliation has been made under section 161;
 - **(e)** is included in a bargaining unit for which the process for resolution of a dispute is arbitration;
-- **(f)** is included in a bargaining unit for which the process for resolution of a dispute is conciliation and in respect of which a notice has been given under section 121 to the effect that the employer has, under section 120, designated positions in the bargaining unit and the employer has not notified the bargaining agent under subsection 122(2);
-- **(g)** occupies a position that has been designated under section 120;
-- **(h) to (k)** [Repealed, 2013, c. 40, s. 323]
+- **(f)** is included in a bargaining unit for which the process for resolution of a dispute is conciliation and in respect of which a notice to enter into an essential services agreement has been given under section 122 by the employer or the bargaining agent for the bargaining unit, and no essential services agreement is in force in respect of the bargaining unit;
+- **(g)** is included in a bargaining unit for which the process for resolution of a dispute is conciliation and in respect of which a notice to amend an essential services agreement has been given under section 126 by the employer or the bargaining agent for the bargaining unit, and
+	- **(i)** the essential services agreement has not been amended as a result of that notice, or
+	- **(ii)** if an application referred to in subsection 127(1) was made by the employer or the bargaining agent, the application has not been finally disposed of by the Board;
+- **(h)** is included in a bargaining unit for which the process for resolution of a dispute is conciliation and less than 30 clear days have elapsed since
+	- **(i)** the date an essential services agreement came into force in respect of the bargaining unit, or
+	- **(ii)** the date an application referred to in subsection 123(1) made by the employer or the bargaining agent for the bargaining unit was finally disposed of by the Board, if such an application was made;
+- **(i)** is included in a bargaining unit for which the process for resolution of a dispute is conciliation and in respect of which the employer or the bargaining agent for the bargaining unit has given a notice to amend an essential services agreement and less than 30 clear days have elapsed since
+	- **(i)** the date of the coming into force of the amendment to the essential services agreement as a result of that notice, or
+	- **(ii)** the date the application referred to in subsection 127(1) made by the employer or the employee organization was finally disposed of by the Board, if such an application was made;
+- **(j)** occupies a position that is necessary under an essential services agreement for the employer to provide essential services;
+- **(k)** is included in a bargaining unit in respect of which an essential services agreement binding on the bargaining agent for the bargaining unit and the employer has been suspended by order under section 131;
 - **(l)** is included in a bargaining unit for which the process for resolution of a dispute is conciliation and in respect of which a public interest commission has not been established to assist the employer and the bargaining agent for the bargaining unit to enter into or revise a collective agreement, unless the bargaining agent has been notified under subsection 162(3) that a public interest commission will not be established;
 - **(m)** is included in a bargaining unit in respect of which the bargaining agent for the bargaining unit has been notified under subsection 162(3) that a public interest commission will not be established to assist the employer and the bargaining agent to enter into or revise a collective agreement and less than seven clear days have elapsed from the date the notice was given under that subsection;
 - **(n)** is included in a bargaining unit in respect of which a public interest commission has been established to assist the employer and the bargaining agent for the bargaining unit to enter into or revise a collective agreement, and the Chairperson has not yet sent the commission’s report or reconsidered report, as the case may be, to the parties, or, if it has been sent, less than seven clear days have elapsed since it was sent;
@@ -2634,7 +2730,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(s)** is included in a bargaining unit whose bargaining agent has conducted a secret ballot vote in accordance with section 184 and
 	- **(i)** the bargaining agent has not received the approval of a majority of the employees who voted, or
 	- **(ii)** if the bargaining agent has received the approval of a majority of the employees who voted and the bargaining agent has declared or authorized the strike after 60 clear days have elapsed, or after any longer period that may be agreed to in writing by the bargaining agent and the employer has elapsed, since the day the vote was held.
-> 2003, c. 22, s. 2 “196”; 2013, c. 40, s. 323.
+> 2003, c. 22, s. 2 “196”; 2013, c. 40, s. 323; 2018, c. 24, s. 24.
 
 
 
@@ -2701,8 +2797,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Obstruction**
 
-**199** No person shall impede or prevent or attempt to impede or prevent an employee from entering or leaving the employee’s place of work if the employee occupies a position that is designated under section 120.
-> 2003, c. 22, s. 2 “199”; 2013, c. 40, s. 324.
+**199** No person shall impede or prevent or attempt to impede or prevent an employee from entering or leaving the employee’s place of work if the employee occupies a position that is necessary under an essential services agreement for the employer to provide essential services.
+> 2003, c. 22, s. 2 “199”; 2013, c. 40, s. 324; 2018, c. 24, s. 25.
 
 
 
@@ -3727,8 +3823,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Arbitral award — additional factor**
 
-**238.21** In addition to the factors set out in subsection 148(2), the arbitration board may, if relevant to making a determination under subsection 148(1) in regards to a collective agreement that applies to the bargaining unit determined under section 238.14, take into account the impact of the determination on the operational effectiveness of the Royal Canadian Mounted Police.
-> 2017, c. 9, s. 33.
+**238.21** In addition to the factors set out in section 148, the arbitration board may, if relevant to making a determination under that section in regards to a collective agreement that applies to the bargaining unit determined under section 238.14, take into account the impact of the determination on the operational effectiveness of the Royal Canadian Mounted Police.
+> 2017, c. 9, s. 33; 2018, c. 24, s. 26.
 
 
 
