@@ -2414,12 +2414,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **(paragraphes 2(1) et (3))**
 - Acadia
 - Bande indienne Adams Lake
+- Première Nation des Ahousahts
 - Première nation Aitchelitz
 - Première nation ?Akisq’nuk
 - Première Nation Algonquins de Pikwakanagan
 - Anishnaabeg de Naongashiing
 - Première Nation de la vallée de l’Annapolis
 - Atikameksheng Anishnawbek
+- Première Nation des Atikamekw d’Opitciwan
+- Première Nation des Atikamekw de Wemotaci
 - Beardy et Okemasis
 - Première Nation Bear River
 - Première Nation Beausoleil
@@ -2431,11 +2434,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bingwi Neyaashi Anishinaabek
 - Première Nation Black River
 - Nation Brokenhead Ojibway
+- Première Nation Brunswick House
 - Bande Buctouche Micmac
 - Première Nation Buffalo Point
 - Bande indienne Campbell River
 - Nation des Carriers de Cheslatta
 - Carry The Kettle
+- Première Nation du lac Cat
 - Bande indienne Cayoose Creek
 - Première Nation crie de Chapleau
 - Première nation Chawathil
@@ -2450,6 +2455,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Conseil des Montagnais du Lac Saint-Jean
 - Cook’s Ferry
 - Première Nation Cowichan Tribes
+- Première Nation des Cris du lac Canoe
 - Première Nation Cross Lake
 - Dakota Tipi
 - Première Nation de Doig River
@@ -2459,6 +2465,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Ebb and Flow
 - Ehattesaht
 - Première nation Elsipogtog
+- Première Nation English River
 - Nation crie Enoch #440
 - Première Nation Esdilagh
 - Nation Esquimalt
@@ -2476,6 +2483,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Glooscap
 - Première Nation Halalt
 - Heiltsuk
+- Première Nation Henvey Inlet
 - Première nation Indian Island
 - Innue Essipit
 - Bande des Innus de Pessamit
@@ -2488,6 +2496,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation The Key
 - Kingfisher
 - Nation saulteaux Kinistin
+- Première Nation de Kispiox
 - Première nation Kitselas
 - Première nation K’ómoks
 - Kwadacha
@@ -2500,6 +2509,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation de Lake Cowichan
 - Lake St. Martin
 - Lax Kw’alaams
+- Première Nation de l’île Lennox
 - Première nation Leq’á:mel
 - Lheidli T’enneh
 - Nation Lhtako Dene
@@ -2546,9 +2556,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation crie Norway House
 - Nquatqua
 - Obashkaandagaang
+- Première Nation Ocean Man
 - Ochapowace
 - O’Chiese
+- Nation ojibwée Ochiichagwebabigoining
 - Bande indienne Okanagan
+- Première Nation Okanese
 - Nation crie Onion Lake
 - Nation crie Opaskwayak
 - Oromocto
@@ -2590,8 +2603,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Serpent River
 - Seton Lake
 - Première Nation Shackan
+- Première Nation Shawanaga
 - Première Nation Sheguiandah
 - Première Nation Sheshegwaning
+- Première Nation du lac Shoal n<sup>o</sup> 40
 - Première nation Shuswap
 - Première nation Shxwhá:y Village
 - Première nation Shxw’ow’hamel
@@ -2625,6 +2640,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Sweetgrass
 - Première Nation Taku River Tlingit
 - Nation Taykwa Tagamou
+- Nation crie Tataskweyak
+- Première Nation Temagami
 - Première nation Thunderchild
 - Première Nation Timiskaming
 - T’it’q’et
@@ -2641,6 +2658,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation Tsuu T’ina
 - Première nation Tzeachten
 - Bande indienne Upper Nicola
+- Première Nation Wagmatcook
 - Wahgoshig
 - Première Nation Wasagamack
 - Première Nation Wasauksing
@@ -2660,6 +2678,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Yakweakwioose
 - Première Nation de Yale
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260.
 
 
