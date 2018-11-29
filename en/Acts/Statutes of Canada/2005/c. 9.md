@@ -2417,12 +2417,15 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **(Subsections 2(1) and (3))**
 - Acadia
 - Adams Lake Indian Band
+- Ahousaht First Nation
 - Aitchelitz First Nation
 - ?Akisq’nuk First Nation
 - Algonquins of Pikwakanagan First Nation
 - Anishnaabeg of Naongashiing
 - Annapolis Valley First Nation
 - Atikameksheng Anishnawbek
+- Atikamekw of Opitciwan First Nation
+- Atikamekw of Wemotaci First Nation
 - Beardy’s and Okemasis
 - Bear River First Nation
 - Beausoleil First Nation
@@ -2434,10 +2437,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Bingwi Neyaashi Anishinaabek
 - Black River First Nation
 - Brokenhead Ojibway Nation
+- Brunswick House First Nation
 - Buctouche Mic Mac Band
 - Buffalo Point First Nation
 - Campbell River Indian Band
+- Canoe Lake Cree First Nation
 - Carry the Kettle
+- Cat Lake First Nation
 - Cayoose Creek Indian Band
 - Chapleau Cree First Nation
 - Chawathil First Nation
@@ -2462,6 +2468,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Ebb and Flow
 - Ehattesaht
 - Elsipogtog First Nation
+- English River First Nation
 - Enoch Cree Nation #440
 - Esdilagh First Nation
 - Esquimalt Nation
@@ -2479,6 +2486,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Glooscap First Nation
 - Halalt First Nation
 - Heiltsuk
+- Henvey Inlet First Nation
 - Indian Island First Nation
 - Innue Essipit
 - Bande des Innus de Pessamit
@@ -2491,6 +2499,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - The Key First Nation
 - Kingfisher
 - Kinistin Saulteaux Nation
+- Kispiox First Nation
 - Kitselas First Nation
 - K’ómoks First Nation
 - Kwadacha
@@ -2503,6 +2512,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Lake Manitoba First Nation
 - Lake St. Martin
 - Lax Kw’alaams
+- Lennox Island First Nation
 - Leq’á:mel First Nation
 - Lheidli T’enneh
 - Lhtako Dene Nation
@@ -2549,9 +2559,12 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Norway House Cree Nation
 - N’Quatqua
 - Obashkaandagaang
+- Ocean Man First Nation
 - Ochapowace
 - O’Chiese
+- Ochiichagwe’babigo’ining Ojibway Nation
 - Okanagan Indian Band
+- Okanese First Nation
 - Onion Lake Cree Nation
 - Opaskwayak Cree Nation
 - Oromocto
@@ -2593,8 +2606,10 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Serpent River First Nation
 - Seton Lake
 - Shackan First Nation
+- Shawanaga First Nation
 - Sheguiandah First Nation
 - Sheshegwaning First Nation
+- Shoal Lake No. 40 First Nation
 - Shuswap First Nation
 - Shxwhá:y Village First Nation
 - Shxw’ow’hamel First Nation
@@ -2627,7 +2642,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Sunchild First Nation
 - Sweetgrass
 - Taku River Tlingit First Nation
+- Tataskweyak Cree Nation
 - Taykwa Tagamou Nation
+- Temagami First Nation
 - Thunderchild First Nation
 - Timiskaming First Nation
 - T’it’q’et
@@ -2644,6 +2661,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Tsuu T’ina Nation
 - Tzeachten First Nation
 - Upper Nicola Indian Band
+- Wagmatcook First Nation
 - Wahgoshig
 - Wasagamack First Nation
 - Wasauksing First Nation
@@ -2663,6 +2681,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Yakweakwioose First Nation
 - Yale First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180, 234, 235.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180, 234, 235, 260.
 
 
