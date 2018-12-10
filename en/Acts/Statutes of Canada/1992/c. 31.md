@@ -130,25 +130,25 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **Repositioning of empty containers**
 
-- **(2.1)** Subsection (1) does not apply in respect of carriage between one place in Canada and another, without consideration, by any of the following ships, of empty containers that are owned or leased by the ship’s owner and any ancillary equipment that is permanently affixed to the containers:
-	- **(a)** a non-duty paid ship whose owner is a Canadian entity or an EU entity;
-	- **(b)** a foreign ship that is registered in the first, or domestic, register of a member state of the European Union and whose owner is a Canadian entity, an EU entity or an entity that is under Canadian or European control;
-	- **(c)** a foreign ship that is registered in a second, or international, register of a member state of the European Union and whose owner is a Canadian entity, an EU entity or an entity under Canadian or European control; and
-	- **(d)** a foreign ship that is registered in a register other than the Canadian Register of Vessels or a register referred to in paragraph (b) or (c), and whose owner is a Canadian entity or an EU entity.
+- **(2.1)** Subsection (1) does not apply in respect of carriage between one place in Canada and another, without consideration, of empty containers that are owned or leased by the ship’s owner and of any ancillary equipment that is necessary to ensure the safety, security, containment and preservation of the goods that may be carried in those containers.
 
 **Dredging activities**
 
-- **(2.2)** Subsection (1) does not apply in respect of dredging activities — other than dredging activities that are provided under an agreement with Her Majesty in right of Canada or with an entity which is listed in Annex 19-1, as amended from time to time, of Chapter Nineteen of CETA — carried out by a ship described in any of paragraphs (2.1)(a) to (d).
+- **(2.2)** Subsection (1) does not apply in respect of dredging activities — other than dredging activities that are provided under an agreement with Her Majesty in right of Canada or with an entity which is listed in Annex 19-1, as amended from time to time, of Chapter Nineteen of CETA — carried out by any of the following ships:
+	- **(a)** a non-duty paid ship whose owner is a Canadian entity or an EU entity;
+	- **(b)** a foreign ship that is registered in the first, or domestic, register of a member state of the European Union and whose owner is a Canadian entity, an EU entity or an entity that is under Canadian or European control;
+	- **(c)** a foreign ship that is registered in a second, or international, register of a member state of the European Union and whose owner is a Canadian entity, an EU entity or an entity that is under Canadian or European control; and
+	- **(d)** a foreign ship that is registered in a register other than the Canadian Register of Vessels or a register referred to in paragraph (b) or (c), and whose owner is a Canadian entity or an EU entity.
 
 **Feeder services — continual or single trip**
 
 - **(2.3)** Subsection (1) does not apply in respect of
-	- **(a)** the carriage of goods by a ship that is described in paragraph (2.1)(b), from the port of Halifax — where the goods are loaded — to the port of Montreal, or vice versa, if that carriage is one leg of the importation of the goods into Canada; or
+	- **(a)** the carriage of goods by a ship that is described in paragraph (2.2)(b), from the port of Halifax — where the goods are loaded — to the port of Montreal, or vice versa, if that carriage is one leg of the importation of the goods into Canada; or
 	- **(b)** the carriage of goods by the ship from the port of Montreal — where the goods are loaded — to the port of Halifax, or vice versa, if that carriage is one leg of the exportation of the goods from Canada.
 
 **Feeder services — single trip**
 
-- **(2.4)** Subject to subsection (2.5), subsection (1) does not apply in respect of the carriage, by a ship that is described in paragraph (2.1)(c), of goods in a container from the port of Montreal to the port of Halifax, or vice versa, if
+- **(2.4)** Subject to subsection (2.5), subsection (1) does not apply in respect of the carriage, by a ship that is described in paragraph (2.2)(c), of goods in a container from the port of Montreal to the port of Halifax, or vice versa, if
 	- **(a)** that carriage is one leg of the importation of the goods into or exportation from Canada; and
 	- **(b)** the container is at least 6.1 metres in length and has an internal volume of at least 14 cubic metres, is designed for carrying goods more than once and by one or more modes of transportation, and does not have wheels or is not otherwise built for being driven or drawn.
 
@@ -158,7 +158,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **Provision of information**
 
-- **(2.6)** Before a ship engages, without a licence, in any activities referred to in subsections (2.1) to (2.4) and for which the owner of the ship intends to rely on an exemption under any one of those subsections, the owner shall provide information to an enforcement officer, in the form and manner specified by the Minister, establishing that the ship meets the applicable conditions under any of paragraphs (2.1)(a) to (d).
+- **(2.6)** Before a ship engages, without a licence, in any activities referred to in subsections (2.2) to (2.4) and for which the owner of the ship intends to rely on an exemption under any one of those subsections, the owner shall provide information to an enforcement officer, in the form and manner specified by the Minister, establishing that the ship meets the applicable conditions under any of paragraphs (2.2)(a) to (d).
 
 **Assistance in cases of distress**
 
@@ -178,7 +178,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **Control**
 
-- **(7)** For the purposes of paragraphs (2.1)(b) and (c), an entity is under Canadian or European control
+- **(7)** For the purposes of paragraphs (2.2)(b) and (c), an entity is under Canadian or European control
 	- **(a)** in the case of a third party entity that is a corporation, if securities of the corporation to which are attached more than 50% of the votes that may be cast to elect directors of the corporation are directly or indirectly held, otherwise than through a subsidiary or by way of security only, by or for the benefit of any of, or any combination of, the following individuals:
 		- **(i)** a Canadian citizen,
 		- **(ii)** a permanent resident as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
@@ -190,7 +190,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 - **(8)** For the purposes of subsection (7), ***third party entity*** means
 	- **(a)** a corporation, other than an entity referred to in paragraph (a) of the definition of either Canadian entity or EU entity, that is not incorporated under the law of the United States; or
 	- **(b)** a trust, partnership, joint venture or other association, other than an entity referred to in paragraph (b) of the definition of either Canadian entity or EU entity, that is not formed under the law of the United States.
-> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290; 2012, c. 19, s. 531; 2014, c. 29, s. 78; 2017, c. 6, s. 92.
+> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290; 2012, c. 19, s. 531; 2014, c. 29, s. 78; 2017, c. 6, s. 92; 2018, c. 10, s. 70.
 
 
 
@@ -233,13 +233,13 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **5.1** 
 
 - **(1)** The following provisions do not apply with respect to licence applications relating to dredging activities that are to be provided under an agreement with Her Majesty in right of Canada or with an entity which is listed in Annex 19-1, as amended from time to time, of Chapter Nineteen of CETA:
-	- **(a)** for an application made on behalf of a ship described in paragraph 3(2.1)(a), paragraph 5(a); and
-	- **(b)** for an application made on behalf of a ship described in paragraph 3(2.1)(b) or (c), paragraph 4(1)(a).
+	- **(a)** for an application made on behalf of a ship described in paragraph 3(2.2)(a), paragraph 5(a); and
+	- **(b)** for an application made on behalf of a ship described in paragraph 3(2.2)(b) or (c), paragraph 4(1)(a).
 
 **Total value of agreement**
 
 - **(2)** Subsection (1) applies only if the total value of the agreement of which the dredging activities form a part is equal to or greater than the threshold — the sum in Canadian dollars which the Minister for International Trade determines to be equivalent, for a period which he or she determines, to 5 million special drawing rights issued by the International Monetary Fund — that is applicable on the day of the issuance of the call or request for bids or tenders related to the activities.
-> 2017, c. 6, s. 93.
+> 2017, c. 6, s. 93; 2018, c. 10, s. 71.
 
 
 
@@ -274,9 +274,9 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **7** The Governor in Council may, by regulation
 - **(a)** specify that a territory is, or is not, a territory referred to in the definition of territory of the European Union in subsection 2(1);
-- **(b)** indicate, for the purpose of paragraph 3(2.1)(c), the registers that are second, or international, registers of member states of the European Union; and
+- **(b)** indicate, for the purpose of paragraph 3(2.2)(c), the registers that are second, or international, registers of member states of the European Union; and
 - **(c)** fix the maximum number of licences that may be issued under sections 4 and 5.
-> 1992, c. 31, s. 7; 2017, c. 6, s. 94.
+> 1992, c. 31, s. 7; 2017, c. 6, s. 94; 2018, c. 10, s. 72.
 
 
 
