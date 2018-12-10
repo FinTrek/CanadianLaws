@@ -119,7 +119,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Champ d’application**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à l’égard des navires étrangers ou des navires non dédouanés qui, selon le cas, sont utilisés :
+- **(2)** Le paragraphe (1) ne s’applique pas à l’égard des navires étrangers ou des navires non dédouanés qui, selon le cas, sont utilisés :
 	- **a)** comme bateaux de pêche au sens de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md) dans le cadre d’activités régies par cette loi, et ne transportent pas de passagers ou de marchandises sauf dans le cadre de ces activités;
 	- **b)** pour des activités de recherches océanographiques demandées par le ministère des Pêches et des Océans;
 	- **c)** pour des activités de recherches océanographiques conduites ou commanditées par un gouvernement étranger si celui-ci a obtenu l’autorisation du ministre des Affaires étrangères;
@@ -129,25 +129,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Repositionnement de conteneurs vides**
 
-- **(2.1)** Le paragraphe (1) ne s’applique pas au transport entre des lieux au Canada, sans contrepartie, par l’un ou l’autre des navires ci-après, de conteneurs vides appartenant au propriétaire du navire ou loués par celui-ci, ainsi que de tout accessoire fixé à ceux-ci de manière permanente :
-	- **a)** le navire non dédouané dont le propriétaire est une entité canadienne ou une entité de l’Union européenne;
-	- **b)** le navire étranger qui est immatriculé dans le registre national — aussi appelé « premier registre » — d’un État membre de l’Union européenne et dont le propriétaire est une entité canadienne, une entité de l’Union européenne ou une entité sous contrôle canadien ou européen;
-	- **c)** le navire étranger qui est immatriculé dans un registre international — aussi appelé « second registre » — d’un État membre de l’Union européenne et dont le propriétaire est une entité canadienne, une entité de l’Union européenne ou une entité sous contrôle canadien ou européen;
-	- **d)** le navire étranger qui est immatriculé dans un registre autre que le Registre canadien d’immatriculation des bâtiments ou que tout registre visé aux alinéas b) ou c) et dont le propriétaire est une entité canadienne ou une entité de l’Union européenne.
+- **(2.1)** Le paragraphe (1) ne s’applique pas au transport entre des lieux au Canada, sans contrepartie, de conteneurs vides appartenant au propriétaire du navire ou loués par celui-ci, ainsi que de tout accessoire qui est nécessaire à la sûreté, à la sécurité, à la retenue et à la conservation des marchandises qui peuvent être transportées dans ces conteneurs.
 
 **Activités de dragage**
 
-- **(2.2)** Le paragraphe (1) ne s’applique pas aux activités de dragage — autres que celles effectuées aux termes d’un accord conclu avec Sa Majesté du chef du Canada ou avec une entité qui figure à l’Annexe 19-1, avec ses modifications successives, du chapitre Dix-neuf de l’AÉCG — effectuées au moyen d’un navire visé à l’un ou l’autre des alinéas (2.1)a) à d).
+- **(2.2)** Le paragraphe (1) ne s’applique pas aux activités de dragage — autres que celles effectuées aux termes d’un accord conclu avec Sa Majesté du chef du Canada ou avec une entité qui figure à l’Annexe 19-1, avec ses modifications successives, du chapitre Dix-neuf de l’AÉCG — effectuées au moyen de l’un ou l’autre des navires suivants :
+	- **a)** le navire non dédouané dont le propriétaire est une entité canadienne ou une entité de l’Union européenne;
+	- **b)** le navire étranger qui est immatriculé dans le registre national — aussi appelé « premier registre » — d’un État membre de l’Union européenne et dont le propriétaire est une entité canadienne, une entité de l’Union européenne ou une entité sous contrôle canadien ou européen;
+	- **c)** le navire étranger qui est immatriculé dans un registre international — aussi appelé « second registre » — d’un État membre de l’Union européenne et dont le propriétaire est une entité canadienne, une entité de l’Union européenne ou une entité sous contrôle canadien ou européen;
+	- **d)** le navire étranger qui est immatriculé dans un registre autre que le Registre canadien d’immatriculation des bâtiments ou que tout registre visé aux alinéas b) ou c) et dont le propriétaire est une entité canadienne ou une entité de l’Union européenne.
 
 **Service d’apport — continuel ou aller simple**
 
-- **(2.3)** Le paragraphe (1) ne s’applique pas aux activités ci-après effectuées au moyen du navire visé à l’alinéa (2.1)b) :
+- **(2.3)** Le paragraphe (1) ne s’applique pas aux activités ci-après effectuées au moyen d’un navire visé à l’alinéa (2.2)b) :
 	- **a)** le transport de marchandises du port d’Halifax — où leur chargement a eu lieu — à celui de Montréal, ou inversement, si ce transport fait partie intégrante de l’itinéraire d’importation de ces marchandises au Canada;
 	- **b)** le transport de marchandises du port de Montréal — où leur chargement a eu lieu — à celui d’Halifax, ou inversement, si ce transport fait partie intégrante de l’itinéraire d’exportation de ces marchandises à partir du Canada.
 
 **Service d’apport — aller simple**
 
-- **(2.4)** Sous réserve du paragraphe (2.5), le paragraphe (1) ne s’applique pas au transport de marchandises dans des conteneurs du port de Montréal au port d’Halifax, ou inversement, effectué au moyen du navire visé à l’alinéa (2.1)c) lorsque les conditions suivantes sont remplies :
+- **(2.4)** Sous réserve du paragraphe (2.5), le paragraphe (1) ne s’applique pas au transport de marchandises dans des conteneurs du port de Montréal au port d’Halifax, ou inversement, effectué au moyen d’un navire visé à l’alinéa (2.2)c) lorsque les conditions suivantes sont remplies :
 	- **a)** le transport fait partie intégrante de l’itinéraire d’importation ou d’exportation de ces marchandises;
 	- **b)** les conteneurs — d’une longueur de 6,1 mètres ou plus et d’un volume intérieur d’au moins 14 mètres cubes — qui sont conçus pour transporter des marchandises par un ou plusieurs moyens de transport et pour être utilisés de nouveau et ne sont ni munis de roues, ni autrement fabriqués pour être mûs ou tirés.
 
@@ -157,7 +157,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fourniture de renseignements**
 
-- **(2.6)** Avant qu’un navire ne soit utilisé sans licence pour une activité visée à l’un ou l’autre des paragraphes (2.1) à (2.4) pour laquelle son propriétaire compte se prévaloir d’une exemption prévue à l’un ou l’autre de ces paragraphes, ce dernier fournit à l’agent de l’autorité, selon les modalités précisées par le ministre, des renseignements permettant d’établir que le navire remplit les conditions applicables prévues aux alinéas (2.1)a) à d).
+- **(2.6)** Avant qu’un navire ne soit utilisé sans licence pour une activité visée à l’un ou l’autre des paragraphes (2.2) à (2.4) pour laquelle son propriétaire compte se prévaloir d’une exemption prévue à l’un ou l’autre de ces paragraphes, ce dernier fournit à l’agent de l’autorité, selon les modalités précisées par le ministre, des renseignements permettant d’établir que le navire remplit les conditions applicables prévues aux alinéas (2.2)a) à d).
 
 **Non-interdiction de porter secours**
 
@@ -177,7 +177,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contrôle**
 
-- **(7)** Pour l’application des alinéas (2.1)b) et c), une entité est sous contrôle canadien ou européen dans les cas suivants :
+- **(7)** Pour l’application des alinéas (2.2)b) et c), une entité est sous contrôle canadien ou européen dans les cas suivants :
 	- **a)** s’agissant d’une entité tierce qui est une personne morale, des valeurs mobilières de cette personne morale comportant plus de cinquante pour cent des votes pouvant être exercés lors de l’élection de ses administrateurs sont détenues, directement ou indirectement — mais sans l’intermédiaire d’une filiale et autrement qu’à titre de garantie uniquement — par les individus ci-après, seuls ou en groupe, ou au profit de ceux-ci :
 		- **(i)** le citoyen canadien,
 		- **(ii)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md),
@@ -189,7 +189,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(8)** Pour l’application du paragraphe (7), ***entité tierce*** s’entend, selon le cas :
 	- **a)** d’une personne morale, autre que celles visées aux alinéas a) des définitions de entité canadienne et entité de l’Union européenne, qui n’est pas constituée sous le régime du droit des États-Unis;
 	- **b)** d’une fiducie, société de personnes, coentreprise ou autre association, autre que celles visées aux alinéas b) des définitions de entité canadienne et entité de l’Union européenne, qui n’est pas formée sous le régime du droit des États-Unis.
-> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290; 2012, ch. 19, art. 531; 2014, ch. 29, art. 78; 2017, ch. 6, art. 92.
+> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290; 2012, ch. 19, art. 531; 2014, ch. 29, art. 78; 2017, ch. 6, art. 92; 2018, ch. 10, art. 70.
 
 
 
@@ -231,14 +231,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5.1** 
 
-- **(1)** Les dispositions ci-après ne s’appliquent pas à l’égard de la demande de licence portant sur des activités de dragage devant être effectuées aux termes d’un accord conclu avec Sa Majesté du chef du Canada ou avec une entité qui figure à l’Annexe 19-1, avec ses modifications successives, du chapitre Dix-neuf de l’AÉCG :
-	- **a)** dans le cas d’une demande faite au nom d’un navire visé à l’alinéa 3(2.1)a), l’alinéa 5a);
-	- **b)** dans le cas d’une demande faite au nom d’un navire visé aux alinéas 3(2.1)b) ou c), l’alinéa 4(1)a).
+- **(1)** Les dispositions ci-après ne s’appliquent pas à l’égard de la demande de licence portant sur des activités de dragage devant être effectuées aux termes d’un accord conclu avec Sa Majesté du chef du Canada ou avec une entité qui figure à l’Annexe 19-1, avec ses modifications successives, du chapitre Dix-neuf de l’AÉCG :
+	- **a)** dans le cas d’une demande faite au nom d’un navire visé à l’alinéa 3(2.2)a), l’alinéa 5a);
+	- **b)** dans le cas d’une demande faite au nom d’un navire visé aux alinéas 3(2.2)b) ou c), l’alinéa 4(1)a).
 
 **Valeur totale de l’accord**
 
 - **(2)** Le paragraphe (1) s’applique seulement si la valeur totale de l’accord dont font partie les activités de dragage est égale ou supérieure au seuil — la somme en dollars canadiens que le ministre du Commerce international détermine être équivalente, pour la période qu’il précise, à 5 millions en droits de tirage spéciaux du Fonds monétaire international — applicable à la date où l’appel ou la demande d’offres ou de soumissions relatifs à ces activités a été fait.
-> 2017, ch. 6, art. 93.
+> 2017, ch. 6, art. 93; 2018, ch. 10, art. 71.
 
 
 
@@ -269,11 +269,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**7** Le gouverneur en conseil peut, par règlement :
+**7** Le gouverneur en conseil peut, par règlement :
 - **a)** préciser si un territoire est visé par la définition de territoire de l’Union européenne au paragraphe 2(1);
-- **b)** indiquer, pour l’application de l’alinéa 3(2.1)c), les registres qui sont des registres internationaux ou des seconds registres d’États membres de l’Union européenne;
+- **b)** indiquer, pour l’application de l’alinéa 3(2.2)c), les registres qui sont des registres internationaux ou des seconds registres d’États membres de l’Union européenne;
 - **c)** fixer le nombre maximal de licences qui peuvent être délivrées en vertu des articles 4 et 5.
-> 1992, ch. 31, art. 7; 2017, ch. 6, art. 94.
+> 1992, ch. 31, art. 7; 2017, ch. 6, art. 94; 2018, ch. 10, art. 72.
 
 
 
