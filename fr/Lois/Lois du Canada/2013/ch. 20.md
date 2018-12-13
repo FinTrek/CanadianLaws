@@ -300,7 +300,7 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 
 - **(2)** Ils ne s’appliquent à la première nation au sens du paragraphe 2(1) de la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md) que si, à la fois :
 	- **a)** à la date d’entrée en vigueur du présent paragraphe, le code foncier qu’elle adopte en vertu de l’article 6 de cette loi n’est pas en vigueur;
-	- **b)** les textes législatifs qu’elle adopte en vertu de l’article 7 ou les règles qu’elle établit en vertu de l’article 17 de cette loi ne sont pas en vigueur.
+	- **b)** les textes législatifs qu’elle adopte en vertu de l’article 7 de la présente loi ou qu’elle prend sous le régime de l’alinéa 20(1)c) de cette loi ne sont pas en vigueur.
 
 **Accord d’autonomie gouvernementale**
 
@@ -319,6 +319,8 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 **Avis au ministre**
 
 - **(6)** À l’entrée en vigueur des textes législatifs mentionnés à l’article 7 qu’une telle première nation adopte en vertu de cet article ou de l’accord, la première nation en avise sans délai le ministre par écrit.
+> 2013, ch. 20, art. 12; 2018, ch. 27, art. 384.
+
 
 
 
