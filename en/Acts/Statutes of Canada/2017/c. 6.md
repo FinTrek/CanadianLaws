@@ -807,7 +807,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**135** [Amendments]
+**135** 
+
+- **(1) to (10)** [Amendments]
+
+- **(11)** [Repealed, 2018, c. 27, s. 209]
 
 
 
