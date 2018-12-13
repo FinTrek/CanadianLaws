@@ -168,7 +168,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application de la présente partie**
 
-**8** La présente partie s’applique à l’égard des bâtiments canadiens où qu’ils soient et des bâtiments étrangers dans les eaux canadiennes. Toutefois, les règlements concernant la pollution pris en application de l’alinéa 35(1)d) s’appliquent, s’ils le prévoient, à l’égard des bâtiments étrangers dans la zone économique exclusive du Canada.
+**8** La présente partie s’applique à l’égard des bâtiments canadiens où qu’ils soient et des bâtiments étrangers dans les eaux canadiennes. Toutefois :
+- **a)** les règlements concernant la pollution pris en application de l’alinéa 35(1)d) s’appliquent aussi, s’ils le prévoient, à l’égard des bâtiments étrangers dans les eaux de la zone économique exclusive du Canada;
+- **b)** les paragraphes 10(2.1) et 35.1(1) s’appliquent aussi à l’égard :
+	- **(i)** des bâtiments étrangers dans les eaux de la zone économique exclusive du Canada,
+	- **(ii)** des embarcations de plaisance qui ne sont pas des bâtiments canadiens dans les eaux canadiennes ou dans les eaux de la zone économique exclusive du Canada.
+> 2001, ch. 26, art. 8; 2018, ch. 27, art. 688.
+
 
 
 
@@ -195,24 +201,71 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le ministre des Transports ou le ministre des Pêches et des Océans peut, à l’égard des responsabilités que lui confère la présente loi :
 	- **a)** constituer des organismes de consultation;
 	- **b)** établir des bulletins, des lignes directrices et des normes;
-	- **c)** conclure des accords ou des arrangements concernant l’application de la présente loi ou des règlements et autoriser toute personne ou organisation qui est partie à un accord ou à un arrangement à exercer les attributions prévues sous le régime de la présente loi que précise l’accord ou l’arrangement.
+	- **c)** conclure des accords ou des arrangements concernant l’application de la présente loi ou des règlements et autoriser toute personne ou organisation, notamment un gouvernement provincial, une administration locale et une entité — gouvernement, conseil ou autre — autorisée à agir pour le compte d’un groupe autochtone, qui est partie à un accord ou à un arrangement à exercer les attributions prévues sous le régime de la présente loi que précise l’accord ou l’arrangement.
 
 **Pouvoir de dispense des ministres**
 
 - **(2)** Le ministre des Transports ou le ministre des Pêches et des Océans peut, à l’égard des responsabilités que lui confère la présente loi, aux conditions qu’il estime indiquées et pour une période donnée, dispenser le représentant autorisé, le capitaine, un bâtiment ou une catégorie de bâtiments, l’exploitant d’une installation de manutention d’hydrocarbures, une installation de manutention d’hydrocarbures ou une catégorie d’installations de manutention d’hydrocarbures de l’application d’une disposition de la présente loi ou des règlements, s’il l’estime nécessaire soit pour la protection de biens ou de l’environnement, soit pour la santé ou la sécurité publiques.
 
+**Pouvoir de dispense du ministre des Transports**
+
+- **(2.1)** Le ministre des Transports peut, à l’égard des responsabilités que lui confère la présente loi, aux conditions qu’il estime indiquées et pour une période n’excédant pas trois ans, dispenser une personne ou catégorie de personnes ou un bâtiment ou catégorie de bâtiments de l’application d’une disposition de la présente loi ou des règlements, si la dispense permettrait de procéder à des activités de recherche et de développement, notamment des activités relatives aux types de bâtiments, aux technologies, aux systèmes, aux composantes et aux pratiques et procédures, qui, de l’avis du ministre, pourraient renforcer la sécurité maritime ou la protection de l’environnement.
+
+**Publication**
+
+- **(2.2)** Dès que possible après l’octroi de la dispense prévue au paragraphe (2.1), le ministre des Transports publie un avis de l’octroi de celle-ci sur le site Web de son ministère ou par tout autre moyen qu’il estime indiqué.
+
 **Dispense**
 
 - **(3)** Le ministre des Transports peut dispenser, aux conditions qu’il estime indiquées et pour une période donnée, tout bâtiment ou toute catégorie de bâtiments de l’application d’une disposition des parties 3 (personnel), 4 (sécurité) ou 9 (prévention de la pollution — ministère des Transports) s’il estime que, dans le cas d’un bâtiment ou de bâtiments d’une catégorie déterminée qui se trouvent dans les eaux canadiennes et se dirigent vers un port étranger ou en proviennent, la disposition est essentiellement similaire à celle d’une loi étrangère à laquelle le bâtiment ou la catégorie de bâtiments sont assujettis.
 
-**Publication**
+**Publication — Gazette du Canada**
 
-- **(4)** Chacune des dispenses prévues aux paragraphes (2) et (3) fait l’objet d’un avis dans la Gazette du Canada.
+- **(4)** Chacune des dispenses prévues aux paragraphes (2), (2.1) et (3) fait l’objet d’un avis dans la Gazette du Canada.
 
 **Autorisation**
 
 - **(5)** Le ministre des Transports ou le ministre des Pêches et des Océans peut, s’il le juge indiqué, autoriser un agent de l’administration publique fédérale ou un officier ou agent de police ou toute autre personne employée à la préservation de la paix publique, individuellement ou au titre de son appartenance à une catégorie, à exercer tout ou partie des attributions que lui confère la présente loi.
-> 2001, ch. 26, art. 10; 2003, ch. 22, art. 224(A).
+> 2001, ch. 26, art. 10; 2003, ch. 22, art. 224(A); 2018, ch. 27, art. 689.
+
+
+
+
+
+**Arrêtés d’urgence — ministre des Transports**
+
+**10.1** 
+
+- **(1)** Le ministre des Transports peut prendre un arrêté d’urgence pouvant comporter les mêmes dispositions qu’un règlement pris, en vertu de la présente loi, sur sa recommandation uniquement s’il estime qu’une intervention immédiate est nécessaire pour parer à un risque — direct ou indirect — à la sécurité maritime ou au milieu marin.
+
+**Période de validité**
+
+- **(2)** L’arrêté prend effet dès sa prise et cesse d’avoir effet à celui des moments ci-après qui est antérieur aux autres :
+	- **a)** le jour de son abrogation;
+	- **b)** le jour de l’entrée en vigueur d’un règlement au même effet pris en vertu de la présente loi;
+	- **c)** un an — ou la période plus courte qui y est précisée — après sa prise, à moins que sa durée de validité ne soit prorogée par le gouverneur en conseil;
+	- **d)** si sa durée de validité est prorogée par le gouverneur en conseil, le jour que ce dernier précise par décret.
+
+**Prorogation — gouverneur en conseil**
+
+- **(3)** Le gouverneur en conseil ne peut proroger la durée de validité de l’arrêté que pour une période maximale de deux ans à compter de l’expiration de la période visée à l’alinéa (2)c).
+
+**Respect de l’arrêté d’urgence**
+
+- **(4)** Les personnes et les bâtiments visés par l’arrêté sont tenus de s’y conformer.
+
+**Violation d’un arrêté non publié**
+
+- **(5)** Aucune sanction ne peut découler du non-respect d’un arrêté qui, au moment du fait reproché, n’avait pas été publié dans la Gazette du Canada, sauf s’il est établi qu’à ce moment l’arrêté avait été porté à la connaissance du contrevenant ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(6)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté, mais celui-ci est publié dans la Gazette du Canada dans les vingt-trois jours suivant sa prise.
+
+**Dépôt devant les chambres du Parlement**
+
+- **(7)** Le ministre des Transports veille à ce qu’une copie de l’arrêté soit déposée devant chaque chambre du Parlement dans les quinze jours suivant sa prise. La copie est communiquée au greffier de cette chambre dans le cas où celle-ci ne siège pas.
+> 2018, ch. 27, art. 690.
 
 
 
@@ -831,7 +884,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(2)** L’ordre est réputé ne pas être un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+- **(2)** L’ordre n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2001, ch. 26, art. 34; 2018, ch. 27, art. 691.
+
 
 
 
@@ -873,6 +928,47 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** régir les avis prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
 	- **d)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application des parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties, et des règlements pris en vertu du paragraphe 136(2).
 > 2001, ch. 26, art. 35, ch. 29, art. 72; 2005, ch. 29, art. 16; 2012, ch. 31, art. 159.
+
+
+
+
+
+**Règlements — protection du milieu marin**
+
+**35.1** 
+
+- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre des Transports, prendre des règlements relativement à la protection du milieu marin contre les répercussions des activités de navigation et de transport maritimes, notamment des règlements :
+	- **a)** régissant la conception, la construction, la fabrication et l’entretien des bâtiments ou catégories de bâtiments;
+	- **b)** précisant les machines, l’équipement et les approvisionnements qui doivent être à bord des bâtiments ou catégories de bâtiments et les machines, l’équipement et les approvisionnements qu’il est interdit d’y avoir;
+	- **c)** concernant la conception, la construction, la fabrication, l’entretien, l’entreposage, la vérification, l’approbation, l’emplacement et l’utilisation de l’équipement, des machines et des approvisionnements des bâtiments ou catégories de bâtiments;
+	- **d)** concernant les exigences que doivent remplir les bâtiments — ou catégories de bâtiments —, leurs machines et leur équipement;
+	- **e)** exigeant l’obtention de certificats attestant que les exigences visées à l’alinéa d) sont remplies;
+	- **f)** précisant les modalités dont sont assortis les certificats visés à l’alinéa e);
+	- **g)** régissant l’inspection et la vérification des bâtiments — ou catégories de bâtiments —, de leurs machines, de leur équipement et des approvisionnements à bord;
+	- **h)** concernant les pratiques et procédures à suivre;
+	- **i)** concernant l’élaboration, la tenue et la mise à exécution de systèmes de gestion qui énoncent la façon dont les mesures visant à protéger le milieu marin seront mises en oeuvre dans le cadre des activités de navigation et de transport maritimes courantes, les critères auxquels ces systèmes de gestion doivent se conformer ainsi que les composantes qui doivent être incluses dans ceux-ci;
+	- **j)** concernant les routes obligatoires et les routes recommandées;
+	- **k)** réglementant ou interdisant l’utilisation, la navigation, le mouillage et l’amarrage des bâtiments ou catégories de bâtiments;
+	- **l)** réglementant ou interdisant les opérations de chargement ou de déchargement des bâtiments ou catégories de bâtiments.
+
+**Modification par le ministre des Transports**
+
+- **(2)** Les règlements pris en vertu de l’un des alinéas (1)h), j) ou k) peuvent autoriser le ministre des Transports à procéder par arrêté pour les modifier et prévoir les conditions selon lesquelles ils peuvent être modifiés au titre de cet arrêté.
+
+**Période de validité de l’arrêté**
+
+- **(3)** L’arrêté prend effet dès sa prise et cesse d’avoir effet à celui des moments ci-après qui est antérieur aux autres :
+	- **a)** le jour de son abrogation;
+	- **b)** un an — ou la période plus courte qui y est précisée — après sa prise.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’arrêté visé au paragraphe (2).
+
+**Publication de l’arrêté**
+
+- **(5)** Dès que possible après la prise d’un arrêté visé au paragraphe (2), le ministre des Transports publie un avis de la prise de celui-ci sur le site Web de son ministère ou par tout autre moyen qu’il estime indiqué.
+> 2018, ch. 27, art. 692.
 
 
 
@@ -1011,6 +1107,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt sur déclaration de culpabilité par procédure sommaire une amende maximale de 10 000 $.
 > 2001, ch. 26, art. 40; 2017, ch. 26, art. 40.
+
+
+
+
+
+**Contravention aux arrêtés d’urgence et aux règlements**
+
+**40.1** 
+
+- **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
+	- **a)** au paragraphe 10.1(4) (respect de l’arrêté d’urgence);
+	- **b)** à toute disposition d’un règlement pris en vertu du paragraphe 35.1(1).
+
+**Peine**
+
+- **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
+> 2018, ch. 27, art. 693.
 
 
 
@@ -2580,6 +2693,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infractions aux règlements**
 
 - **(5)** Malgré l’article 105, l’alinéa 121(1)s) s’applique à l’égard des infractions aux règlements pris sous le régime des paragraphes (3) ou (4).
+> 2001, ch. 26, art. 120; 2018, ch. 27, art. 694(A).
+
 
 
 
@@ -2765,15 +2880,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Désignation de coordonnateurs de sauvetage**
+**Désignation de coordonnateurs de mission de recherche et de sauvetage**
 
 **130** 
 
-- **(1)** Le ministre peut désigner des coordonnateurs de sauvetage chargés des opérations de recherche et de sauvetage.
+- **(1)** Le ministre peut désigner des coordonnateurs de mission de recherche et de sauvetage chargés des opérations de recherche et de sauvetage.
 
-**Autorité des coordonnateurs de sauvetage**
+**Autorité des coordonnateurs de mission de recherche et de sauvetage**
 
-- **(2)** Dès qu’il est informé qu’une personne, un bâtiment ou un aéronef sont en détresse, ou manquent à l’appel dans les eaux canadiennes ou en haute mer au large du littoral du Canada dans des circonstances indiquant que la personne, le bâtiment ou l’aéronef peuvent être en détresse, le coordonnateur de sauvetage peut :
+- **(2)** Dès qu’il est informé qu’une personne, un bâtiment ou un aéronef sont en détresse, ou manquent à l’appel dans les eaux canadiennes ou en haute mer au large du littoral du Canada dans des circonstances indiquant que la personne, le bâtiment ou l’aéronef peuvent être en détresse, le coordonnateur de mission de recherche et de sauvetage peut :
 	- **a)** ordonner à tous les bâtiments se trouvant dans le rayon qu’il spécifie de lui signaler leur position;
 	- **b)** ordonner à tout bâtiment de participer à la recherche de la personne, du bâtiment ou de l’aéronef ou de leur porter secours d’une autre façon;
 	- **c)** donner les autres ordres qu’il juge nécessaires pour les opérations de recherche et de sauvetage de la personne, du bâtiment ou de l’aéronef;
@@ -2782,6 +2897,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de se conformer aux ordres**
 
 - **(3)** Tout bâtiment dans les eaux canadiennes et toute personne à son bord et tout bâtiment, où qu’il soit, dont le capitaine est une personne qualifiée et toute personne à son bord sont tenus de se conformer aux ordres qui leur sont donnés en vertu du paragraphe (2).
+> 2001, ch. 26, art. 130; 2018, ch. 27, art. 695.
+
 
 
 
@@ -2913,7 +3030,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** au paragraphe 126(6) (obligation de demeurer dans un port ou de naviguer jusqu’à celui-ci);
 	- **g)** au paragraphe 129(1) (obligation d’informer du déplacement ou bris d’une aide à la navigation);
 	- **h)** au paragraphe 129(2) (obligation d’informer d’un danger pour la navigation);
-	- **i)** au paragraphe 130(3) (obligation de se conformer aux ordres d’un coordonnateur de sauvetage);
+	- **i)** au paragraphe 130(3) (obligation de se conformer aux ordres d’un coordonnateur de mission de recherche et de sauvetage);
 	- **j)** à toute disposition d’un règlement d’application de la présente partie.
 
 **Peines**
@@ -2927,6 +3044,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détention d’un bâtiment**
 
 - **(4)** Le ministre ou la personne qu’il désigne pour l’application du présent paragraphe peut ordonner la détention d’un bâtiment s’il a des motifs raisonnables de croire qu’une infraction visée au paragraphe (1) a été commise par ce bâtiment ou à son égard. Dans ce cas, l’article 222 (détention de bâtiments) s’applique avec les adaptations nécessaires.
+> 2001, ch. 26, art. 138; 2018, ch. 27, art. 696.
+
 
 
 
@@ -3063,7 +3182,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit à la compensation non atteint**
 
-**147** L’observation des articles 130 (désignation de coordonnateurs de sauvetage), 131 (signaux de détresse) et 132 (secours) ne porte pas atteinte au droit du capitaine à la compensation de sauvetage ni à celui d’une autre personne.
+**147** L’observation des articles 130 (désignation de coordonnateurs de mission de recherche et de sauvetage), 131 (signaux de détresse) et 132 (secours) ne porte pas atteinte au droit du capitaine à la compensation de sauvetage ni à celui d’une autre personne.
+> 2001, ch. 26, art. 147; 2018, ch. 27, art. 697.
+
 
 
 
@@ -3389,22 +3510,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **165** Les définitions qui suivent s’appliquent à la présente partie.
 
-***dommages dus à la pollution*** À l’égard d’un bâtiment ou d’une installation de manutention d’hydrocarbures, les pertes ou dommages extérieurs au bâtiment ou à l’installation et causés par une contamination résultant d’un rejet par ce bâtiment ou cette installation.
+***dommages dus à la pollution*** À l’égard d’un bâtiment ou d’une installation de manutention d’hydrocarbures, les pertes ou dommages extérieurs au bâtiment ou à l’installation et causés par une contamination résultant d’un rejet par ce bâtiment ou cette installation. (*pollution damage*)
 
-***événement de pollution par les hydrocarbures*** Fait ou ensemble de faits ayant la même origine, dont résulte ou est susceptible de résulter un rejet d’hydrocarbures.
+***événement de pollution par les hydrocarbures*** Fait ou ensemble de faits ayant la même origine, dont résulte ou pourrait résulter un rejet d’hydrocarbures. (*oil pollution incident*)
 
-***hydrocarbures*** Le pétrole sous toutes ses formes, notamment le pétrole brut, le fioul, les boues, les résidus d’hydrocarbures et les produits raffinés.
+***hydrocarbures*** Le pétrole sous toutes ses formes, notamment le pétrole brut, le fioul, les boues, les résidus d’hydrocarbures et les produits raffinés. (*oil*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***organisme d’intervention*** Toute personne qualifiée agréée par le ministre en vertu du paragraphe 169(1).
+***organisme d’intervention*** Toute personne qualifiée agréée par le ministre en vertu du paragraphe 169(1). (*response organization*)
 
-***polluant*** Les substances désignées par règlement, nommément ou par catégorie, comme polluantes pour l’application de la présente partie, les hydrocarbures et notamment les substances suivantes :
+***polluant*** Les substances désignées par règlement, nommément ou par catégorie, comme polluantes pour l’application de la présente partie, les hydrocarbures et notamment les substances suivantes :
 - **a)** celles qui, ajoutées à l’eau, produiraient, directement ou non, une dégradation ou altération de la qualité de celle-ci de nature à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains;
-- **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains.
+- **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains. (*pollutant*)
 
-***rejet*** Rejet d’un polluant depuis un bâtiment, ou d’hydrocarbures depuis une installation de manutention d’hydrocarbures engagée dans des opérations de chargement ou de déchargement d’un bâtiment, qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion.
-> 2001, ch. 26, art. 165; 2005, ch. 29, art. 21.
+***rejet*** Rejet d’un polluant depuis un bâtiment, ou d’hydrocarbures depuis une installation de manutention d’hydrocarbures engagée dans des opérations de chargement ou de déchargement d’un bâtiment, qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion. (*discharge*)
+> 2001, ch. 26, art. 165; 2005, ch. 29, art. 21; 2018, ch. 27, art. 698.
 
 
 
@@ -3510,10 +3631,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mesures du ministre**
 
-**168.3** Le ministre peut, s’il a des motifs raisonnables de croire que l’installation de manutention d’hydrocarbures a rejeté, rejette ou risque de rejeter des hydrocarbures, que le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures de l’installation ne satisfait pas aux exigences prévues par règlement ou que l’exploitant de l’installation n’a pas à sa disposition, pour usage immédiat en cas de rejet d’hydrocarbures pendant le chargement ou le déchargement d’un bâtiment, la procédure, l’équipement et les ressources prévus par règlement :
+**168.3** Le ministre peut, s’il a des motifs raisonnables de croire que l’installation de manutention d’hydrocarbures a rejeté, rejette ou pourrait rejeter des hydrocarbures, que le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures de l’installation ne satisfait pas aux exigences prévues par règlement ou que l’exploitant de l’installation n’a pas à sa disposition, pour usage immédiat en cas de rejet d’hydrocarbures pendant le chargement ou le déchargement d’un bâtiment, la procédure, l’équipement et les ressources prévus par règlement :
 - **a)** surveiller l’application de toute mesure prise par toute personne en vue de prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution;
 - **b)** dans le cas où il l’estime nécessaire, ordonner à l’exploitant de prendre les mesures qu’il estime nécessaires pour prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution, notamment de cesser le chargement ou le déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci.
-> 2014, ch. 29, art. 63.
+> 2014, ch. 29, art. 63; 2018, ch. 27, art. 699.
 
 
 
@@ -3675,10 +3796,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le ministre des Pêches et des Océans remet à chaque agent d’intervention environnementale un certificat attestant sa qualité; l’agent dont les pouvoirs sont restreints au titre du paragraphe (1) reçoit un certificat où sont énumérés ceux qu’il est autorisé à exercer.
 
-**Immunité**
-
-- **(3)** Les agents d’intervention environnementale sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi aux termes de la présente partie.
-> 2005, ch. 29, art. 23.
+- **(3)** [Abrogé, 2018, ch. 27, art. 700]
+> 2005, ch. 29, art. 23; 2018, ch. 27, art. 700.
 
 
 
@@ -3701,7 +3820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs en cas de rejet de polluants**
 
-- **(2)** Dans le cas où il a des motifs raisonnables de croire qu’un bâtiment pourrait rejeter ou avoir rejeté un polluant, l’agent d’intervention environnementale peut :
+- **(2)** Dans le cas où il a des motifs raisonnables de croire qu’un bâtiment a rejeté, rejette ou pourrait rejeter un polluant, l’agent d’intervention environnementale peut :
 	- **a)** ordonner au bâtiment qui est sur le point d’entrer dans les eaux auxquelles la présente partie s’applique ou qui s’y trouve déjà de traverser ces eaux sans dépasser la vitesse maximale qu’il fixe, par la route qu’il spécifie;
 	- **b)** monter à bord du bâtiment et y prélever des échantillons de toute substance qu’il croit être le polluant;
 	- **c)** ordonner au bâtiment qui est sur le point d’entrer dans les eaux auxquelles la présente partie s’applique ou qui s’y trouve déjà :
@@ -3732,7 +3851,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(7)** Le certificat ou le rapport n’est recevable en preuve que si la partie qui entend le produire donne de son intention à la partie qu’elle vise un préavis suffisant, accompagné d’un double du certificat ou du rapport.
-> 2005, ch. 29, art. 23.
+> 2005, ch. 29, art. 23; 2018, ch. 27, art. 701.
 
 
 
@@ -3857,33 +3976,89 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 
 
-**Mesures du ministre**
+**Mesures du ministre des Pêches et des Océans**
 
 **180** 
 
-- **(1)** Le ministre des Pêches et des Océans peut, s’il a des motifs raisonnables de croire qu’un bâtiment ou une installation de manutention d’hydrocarbures a rejeté, rejette ou risque de rejeter un polluant :
-	- **a)** prendre les mesures qu’il estime nécessaires pour prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution, voire enlever ou détruire le bâtiment et son contenu, et disposer du bâtiment et de son contenu;
-	- **b)** surveiller l’application de toute mesure prise par toute personne en vue de prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution;
+- **(1)** Le ministre des Pêches et des Océans peut, s’il a des motifs raisonnables de croire qu’un bâtiment ou une installation de manutention d’hydrocarbures a rejeté, rejette ou pourrait rejeter un polluant :
+	- **a)** prendre les mesures qu’il estime nécessaires pour prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution, voire enlever le bâtiment ou son contenu et disposer, notamment par vente, démantèlement ou destruction, du bâtiment ou de son contenu;
+	- **b)** surveiller l’application des mesures prises par toute personne ou tout bâtiment en vue de prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution;
 	- **c)** dans le cas où il l’estime nécessaire, ordonner à toute personne ou à tout bâtiment de prendre les mesures visées à l’alinéa a) ou de s’abstenir de les prendre.
+
+**Titre libre**
+
+- **(2)** Lorsqu’il dispose d’un bâtiment ou de son contenu en vertu de l’alinéa 180(1)a), le ministre des Pêches et des Océans peut remettre à l’acquéreur un titre de propriété libéré des hypothèques, des privilèges maritimes ou de tout autre droit ou intérêt existant au moment de la disposition.
+
+**Aux risques et frais du propriétaire**
+
+- **(2.1)** La disposition est aux risques et aux frais du propriétaire du bâtiment ou de son contenu.
 
 **Affectation du produit de la disposition**
 
-- **(2)** Le produit de la disposition d’un bâtiment ou de son contenu effectuée en vertu de l’alinéa (1) a) est affecté aux frais engagés par la prise de mesures que vise cet alinéa; le surplus est remis au propriétaire du bâtiment ou du contenu, selon le cas.
+- **(2.2)** Une fois déduits les frais entraînés par la disposition d’un bâtiment, ou de son contenu, effectuée en application de l’alinéa 180(1)a), le solde créditeur du produit de cette disposition est réparti, d’une part, entre le ministre des Pêches et des Océans, pour couvrir les frais engagés par la prise des autres mesures que vise la présente partie, et, d’autre part, les détenteurs, s’ils sont connus au moment de la disposition, d’hypothèques, de privilèges maritimes ou de tout autre droit ou intérêt existant, au moment de la disposition, sur le bâtiment ou son contenu, le reste étant remis au propriétaire du bâtiment ou du contenu ayant fait l’objet de la disposition.
+
+**Directives de la Cour fédérale**
+
+- **(2.3)** Le ministre des Pêches et des Océans peut demander à la Cour fédérale de lui donner des directives relativement à la répartition du solde créditeur à effectuer en application du paragraphe (2.2).
 
 **Indemnité**
 
-- **(3)** Sa Majesté du chef du Canada indemnise les personnes et les bâtiments qui obéissent aux ordres donnés en vertu de l’alinéa (1) c), à l’exception des exploitants d’installations de manutention d’hydrocarbures et des bâtiments qui avaient rejeté, rejetaient ou risquaient de rejeter le polluant.
-> 2001, ch. 26, art. 180; 2005, ch. 29, art. 27.
+- **(3)** Sa Majesté du chef du Canada indemnise les personnes et les bâtiments qui obéissent aux ordres donnés en vertu de l’alinéa (1)c), à l’exception des exploitants d’installations de manutention d’hydrocarbures et des bâtiments qui avaient rejeté, rejetaient ou pourraient avoir rejeté le polluant.
+
+**Préséance**
+
+- **(4)** Les ordres donnés par le ministre des Pêches et des Océans en vertu de l’alinéa (1)c) l’emportent, dans la mesure de leur incompatibilité, sur les ordres ou les directives donnés sous le régime de toute loi fédérale.
+> 2001, ch. 26, art. 180; 2005, ch. 29, art. 27; 2018, ch. 27, art. 702.
 
 
 
 
 
-**Immunité**
+**Entrée dans une propriété privée**
+
+**180.1** 
+
+- **(1)** Le ministre des Pêches et des Océans et les agents d’intervention environnementale peuvent, afin d’exercer les attributions qui leur sont conférées sous le régime de la présente partie, pénétrer dans une propriété privée, autre qu’une maison d’habitation, et y circuler, y compris au moyen de véhicules et avec de l’équipement.
+
+**Personnes qui accompagnent**
+
+- **(2)** Lorsque le ministre des Pêches et des Océans ou l’agent d’intervention environnementale pénètre dans une propriété privée et y circule, il peut être accompagné de toute personne qu’il estime nécessaire pour l’aider dans l’exercice de ses attributions sous le régime de la présente partie.
+
+**Utilisation de toute propriété**
+
+- **(3)** Si nécessaire, le ministre des Pêches et des Océans et les agents d’intervention environnementale peuvent utiliser une propriété située aux abords ou dans le voisinage d’un bâtiment ou d’une installation de manutention d’hydrocarbures — autre qu’une maison d’habitation — afin d’exercer les attributions qui leur sont conférées sous le régime de la présente partie. La personne qui accompagne le ministre des Pêches et des Océans ou tout agent d’intervention environnementale peut aussi utiliser la propriété afin d’aider celui-ci à exercer les attributions qui lui sont conférées sous le régime de la présente partie.
+
+**Indemnisation**
+
+- **(4)** Sa Majesté du chef du Canada peut indemniser le propriétaire des propriétés utilisées en application du paragraphe (3), ou toute personne jouissant, en vertu de la loi ou d’un contrat, des droits du propriétaire quant à la possession et à l’utilisation de ces propriétés, des pertes ou dommages causés par l’utilisation de ces propriétés en application de ce paragraphe qui excèdent les avantages que ce propriétaire ou cette personne tire de cette utilisation.
+> 2018, ch. 27, art. 703.
+
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**180.2** Les ordres, ordonnances ou directives donnés par le ministre des Pêches et des Océans ou un agent d’intervention environnementale en application de la présente partie ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2018, ch. 27, art. 703.
+
+
+
+
+
+**Immunité — personnes et bâtiments qui prennent des mesures**
 
 **181** 
 
-- **(1)** Les personnes tenues, au titre de l’alinéa 180(1)c), de prendre certaines mesures ou de s’en abstenir n’encourent aucune responsabilité personnelle, ni civile ni pénale, pour tout acte ou omission découlant de l’exécution de l’obligation qui leur est ainsi imposée, sauf s’il est établi que leur conduite n’était pas raisonnable en l’occurrence.
+- **(1)** Les personnes et les bâtiments à qui le ministre des Pêches et des Océans a donné l’ordre de prendre, au titre de l’alinéa 180(1)c), certaines mesures ou de s’en abstenir n’encourent aucune responsabilité personnelle, ni civile ni pénale, pour tout acte ou omission découlant de l’ordre, sauf s’il est établi que leur conduite n’était pas raisonnable en l’occurrence.
+
+**Immunité — personnes qui fournissent aide ou conseils**
+
+- **(1.1)** Les personnes qui fournissent aide ou conseils quant aux mesures à prendre ou à s’abstenir de prendre au titre de l’article 180 n’encourent aucune responsabilité personnelle, ni civile ni pénale, pour tout acte ou omission constatés à cette occasion, sauf s’il est établi que leur conduite n’était pas raisonnable en l’occurrence.
+
+**Immunité — personnes qui accompagnent**
+
+- **(1.2)** Les personnes qui accompagnent le ministre des Pêches et des Océans ou les agents d’intervention environnementale au titre des paragraphes 180.1(2) ou (3) n’encourent aucune responsabilité personnelle, ni civile ni pénale, pour tout acte ou omission commis dans l’exercice des pouvoirs prévus à ces paragraphes, sauf s’il est établi que leur conduite n’était pas raisonnable en l’occurrence.
 
 **Immunité**
 
@@ -3891,12 +4066,25 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Exception**
 
-- **(3)** Le paragraphe (1) n’a pas pour effet d’exonérer le propriétaire d’un bâtiment de sa responsabilité à l’égard de l’événement ayant donné lieu à l’intervention ou de diminuer cette responsabilité.
+- **(3)** Le paragraphe (1) n’a aucun effet sur le propriétaire d’un bâtiment qui avait rejeté, rejetait ou pourrait avoir rejeté le polluant ou un bâtiment qui avait rejeté, rejetait ou pourrait avoir rejeté le polluant en ce qui concerne :
+	- **a)** sa responsabilité à l’égard de l’événement qui a entraîné la prise des mesures visées au paragraphe 180(1);
+	- **b)** sa responsabilité pour tout acte ou omission découlant de l’ordre qui lui a été donné au titre de l’alinéa 180(1)c).
 
 **Définition de intervention**
 
 - **(4)** Au présent article, ***intervention*** s’entend de toutes les activités entreprises à la suite d’un rejet ou d’une menace grave et imminente de rejet d’un bâtiment ou d’une installation de manutention d’hydrocarbures, notamment les activités relatives ou afférentes à la surveillance et à l’évaluation des secteurs de pollution, à la mobilisation et à l’enlèvement d’équipement et de ressources d’intervention, aux barrières de confinement, au confinement, à la récupération, à la dispersion ou à la destruction du polluant, aux mesures d’atténuation et de remise en état du littoral, au transport et à l’élimination du polluant récupéré ou des déchets et à la planification et à la supervision des activités liées à l’intervention.
-> 2001, ch. 26, art. 181; 2014, ch. 29, art. 68.
+> 2001, ch. 26, art. 181; 2014, ch. 29, art. 68; 2018, ch. 27, art. 704.
+
+
+
+
+
+**Immunité — responsabilité civile**
+
+**181.1** Les personnes ci-après n’encourent aucune responsabilité civile en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente partie :
+- **a)** les préposés de l’État, au sens de la définition de ces termes à l’article 2 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md);
+- **b)** les agents d’intervention environnementale.
+> 2018, ch. 27, art. 705.
 
 
 
@@ -3996,16 +4184,16 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **185** Les définitions qui suivent s’appliquent à la présente partie.
 
-***événement de pollution par les hydrocarbures*** Fait ou ensemble de faits ayant la même origine, dont résulte ou est susceptible de résulter un rejet d’hydrocarbures.
+***événement de pollution par les hydrocarbures*** Fait ou ensemble de faits ayant la même origine, dont résulte ou pourrait résulter un rejet d’hydrocarbures. (*oil pollution incident*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***polluant*** Les substances désignées par règlement, nommément ou par catégorie, comme polluantes pour l’application de la partie 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), les hydrocarbures et notamment les substances suivantes : 
+***polluant*** Les substances désignées par règlement, nommément ou par catégorie, comme polluantes pour l’application de la partie 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), les hydrocarbures et notamment les substances suivantes :
 - **a)** celles qui, ajoutées à l’eau, produiraient, directement ou non, une dégradation ou altération de la qualité de celle-ci de nature à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains;
-- **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains.
+- **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains. (*pollutant*)
 
-***rejet*** Rejet d’un polluant qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion.
-> 2001, ch. 26, art. 185; 2005, ch. 29, art. 29.
+***rejet*** Rejet d’un polluant qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion. (*discharge*)
+> 2001, ch. 26, art. 185; 2005, ch. 29, art. 29; 2018, ch. 27, art. 706.
 
 
 
@@ -4096,6 +4284,8 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Application des règlements**
 
 - **(2)** Un bâtiment utilisable dans le cadre d’activités de forage, de production, de rationalisation de l’exploitation ou de traitement du pétrole ou du gaz n’est assujetti aux règlements pris en vertu du paragraphe (1) que si ceux-ci le prévoient et ont été pris sur recommandation conjointe du ministre et du ministre des Ressources naturelles.
+> 2001, ch. 26, art. 190; 2018, ch. 27, art. 707(A).
+
 
 
 
@@ -5181,7 +5371,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Montant des peines en cas d’accord**
 
-**243** Dans le cas d’une violation pour contravention à une disposition de la partie 4 (sécurité) ou des règlements pris sous son régime, le montant des sanctions imposé au titre de l’alinéa 244h) est doublé si la violation visée est commise pendant la période de validité d’un accord ou arrangement — conclu par le ministre avec le représentant autorisé d’un bâtiment canadien — confiant à ce dernier ou à une personne ou à une organisation agissant pour son compte les inspections du bâtiment destinées à vérifier l’application de la disposition en question.
+**243** Dans le cas d’une violation pour contravention à une disposition des parties 4, 8 ou 9, ou des règlements pris sous leur régime, le montant des sanctions imposé au titre de l’alinéa 244h) est doublé si la violation visée est commise pendant la période de validité d’un accord ou arrangement — conclu par le ministre avec le représentant autorisé d’un bâtiment canadien — confiant à ce dernier ou à une personne ou à une organisation agissant pour son compte les inspections du bâtiment destinées à vérifier l’application de la disposition en question.
+> 2001, ch. 26, art. 243; 2018, ch. 27, art. 708.
+
 
 
 
@@ -5200,11 +5392,11 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **e)** régir la vente des bâtiments en vertu de l’article 226, y compris les mesures à prendre préalablement à celle-ci et la présentation, l’établissement et l’ordre de priorité des réclamations à l’égard des bâtiments;
 - **f)** désigner comme violation punissable au titre des articles 229 à 242 la contravention — si elle constitue une infraction à la présente loi — à une disposition visée ou à un ordre ou à une directive donné en vertu d’une telle disposition;
 - **g)** désigner les violations pour lesquelles il est compté des violations distinctes pour chacun des jours au cours desquels elles se continuent;
-- **h)** désigner les violations qui peuvent faire l’objet d’un procès-verbal et fixer le montant — notamment par barème — de la sanction applicable à chacune de ces violations, qui ne peut dépasser 25 000 $ ni le montant de l’amende maximale dont la violation aurait été passible si elle avait été poursuivie par procédure sommaire;
+- **h)** désigner les violations qui peuvent faire l’objet d’un procès-verbal et fixer le montant — notamment par barème — de la sanction applicable à chacune de ces violations, qui ne peut dépasser 250 000 $ ni le montant de l’amende maximale dont la violation aurait été passible si elle avait été poursuivie par procédure sommaire;
 - **i)** régir les procédures en matière d’urgence et de sécurité pour l’application de l’alinéa 211(4)d.1);
 - **j)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification ou notification des documents autorisés ou exigés par la présente partie;
 - **k)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
-> 2001, ch. 26, art. 244, ch. 29, art. 72; 2014, ch. 29, art. 75.
+> 2001, ch. 26, art. 244, ch. 29, art. 72; 2014, ch. 29, art. 75; 2018, ch. 27, art. 709.
 
 
 
@@ -5594,8 +5786,8 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Responsabilité civile**
 
-**268.1** Malgré l’article 10 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md), les paragraphes 11(5) et 12(5), l’article 45 et les paragraphes 154(3) et 195(3) ne dégagent pas l’État de la responsabilité civile — délictuelle ou extracontractuelle — qu’il serait autrement tenu d’assumer.
-> 2001, ch. 26, art. 268.1; 2014, ch. 29, art. 77.
+**268.1** Malgré l’article 10 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md), les paragraphes 11(5) et 12(5), l’article 45, le paragraphe 154(3), l’alinéa 181.1a) et le paragraphe 195(3) ne dégagent pas l’État de la responsabilité civile — délictuelle ou extracontractuelle — qu’il serait autrement tenu d’assumer.
+> 2001, ch. 26, art. 268.1; 2014, ch. 29, art. 77; 2018, ch. 27, art. 710.
 
 
 
