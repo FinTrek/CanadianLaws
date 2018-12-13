@@ -12173,47 +12173,49 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(1)** The following definitions apply in this Part.
 
-***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are 
+***business growth fund*** means Canadian Business Growth Fund (GP) Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md). (*fonds de croissance des entreprises*)
+
+***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are
 - **(a)** fixed in number and distributed to the public in an offering under a preliminary prospectus, prospectus, short-form prospectus or similar document in accordance with the laws of a province or a foreign jurisdiction;
 - **(b)** traded on an exchange or an over-the-counter market; and
-- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis.
+- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis. (*fonds d’investissement à capital fixe*)
 
-***factoring entity*** means a factoring entity as defined in the regulations.
+***factoring entity*** means a factoring entity as defined in the regulations. (*entité s’occupant d’affacturage*)
 
-***finance entity*** means a finance entity as defined in the regulations.
+***finance entity*** means a finance entity as defined in the regulations. (*entité s’occupant de financement*)
 
-***financial leasing entity*** means an entity
+***financial leasing entity*** means an entity
 - **(a)** the activities of which are limited to the financial leasing of personal property and such related activities as are prescribed and whose activities conform to such restrictions and limitations thereon as are prescribed; and
 - **(b)** that, in conducting the activities referred to in paragraph (a) in Canada, does not
 	- **(i)** direct its customers or potential customers to particular dealers in the leased property or the property to be leased,
 	- **(ii)** enter into lease agreements with persons in respect of any motor vehicle having a gross vehicle weight, as that expression is defined by the regulations, of less than twenty-one tonnes, or
-	- **(iii)** enter into lease agreements with natural persons in respect of personal household property, as that expression is defined by the regulations.
+	- **(iii)** enter into lease agreements with natural persons in respect of personal household property, as that expression is defined by the regulations. (*entité s’occupant de crédit-bail*)
 
- ou ***loan*** includes an acceptance, endorsement or other guarantee, a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit but does not include investments in securities.
+***loan*** includes an acceptance, endorsement or other guarantee, a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit but does not include investments in securities. (*prêt* ou *emprunt*)
 
-***motor vehicle*** means a motorized vehicle designed to be used primarily on a public highway for the transportation of persons or things, but does not include
+***motor vehicle*** means a motorized vehicle designed to be used primarily on a public highway for the transportation of persons or things, but does not include
 - **(a)** a fire-engine, bus, ambulance or utility truck; or
-- **(b)** any other special purpose motorized vehicle that contains significant special features that make it suitable for a specific purpose.
+- **(b)** any other special purpose motorized vehicle that contains significant special features that make it suitable for a specific purpose. (*véhicule à moteur*)
 
-***mutual fund distribution entity*** means an entity whose principal activity is acting as a selling agent of units, shares or other interests in a mutual fund and acting as a collecting agent in the collection of payments for any such interests if
+***mutual fund distribution entity*** means an entity whose principal activity is acting as a selling agent of units, shares or other interests in a mutual fund and acting as a collecting agent in the collection of payments for any such interests if
 - **(a)** the proceeds of the sales of any such interests, less any sales commissions and service fees, are paid to the mutual fund; and
-- **(b)** the existence of a sales commission and service fee in respect of the sale of any such interest is disclosed to the purchaser of the interest before the purchase of the interest.
+- **(b)** the existence of a sales commission and service fee in respect of the sale of any such interest is disclosed to the purchaser of the interest before the purchase of the interest. (*courtier de fonds mutuels*)
 
-***mutual fund entity*** means an entity
+***mutual fund entity*** means an entity
 - **(a)** whose activities are limited to the investing of the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities; and
-- **(b)** whose securities entitle their holders to receive, on demand, or within a specified period after demand, an amount computed by reference to the value of a proportionate interest in the whole or in a part of its net assets, including a separate fund or trust account of the entity.
+- **(b)** whose securities entitle their holders to receive, on demand, or within a specified period after demand, an amount computed by reference to the value of a proportionate interest in the whole or in a part of its net assets, including a separate fund or trust account of the entity. (*entité s’occupant de fonds mutuels*)
 
-***participating share*** means a share of a body corporate that carries the right to participate in the earnings of the body corporate to an unlimited degree and to participate in a distribution of the remaining property of the body corporate on dissolution and includes a membership share.
+***participating share*** means a share of a body corporate that carries the right to participate in the earnings of the body corporate to an unlimited degree and to participate in a distribution of the remaining property of the body corporate on dissolution and includes a membership share. (*action participante*)
 
-***permitted entity*** means an entity in which a bank is permitted to acquire a substantial investment under section 468.
+***permitted entity*** means an entity in which a bank is permitted to acquire a substantial investment under section 468. (*entité admissible*)
 
-***prescribed subsidiary*** means a subsidiary that is one of a prescribed class of subsidiaries.
+***prescribed subsidiary*** means a subsidiary that is one of a prescribed class of subsidiaries. (*filiale réglementaire*)
 
-***real property brokerage entity*** means an entity that is primarily engaged in
+***real property brokerage entity*** means an entity that is primarily engaged in
 - **(a)** acting as an agent for vendors, purchasers, mortgagors, mortgagees, lessors or lessees of real property; and
-- **(b)** the provision of consulting or appraisal services in respect of real property.
+- **(b)** the provision of consulting or appraisal services in respect of real property. (*courtier immobilier*)
 
-***specialized financing entity*** means a specialized financing entity as defined in the regulations.
+***specialized financing entity*** means a specialized financing entity as defined in the regulations. (*entité s’occupant de financement spécial*)
 
 **Members of a bank’s group**
 
@@ -12228,7 +12230,7 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(3)** This Part does not apply in respect of
 	- **(a)** the holding of a security interest in real property, unless the security interest is prescribed under paragraph 479(a) to be an interest in real property; or
 	- **(b)** the holding of a security interest in securities of an entity.
-> 1991, c. 46, ss. 464, 603; 1993, c. 34, s. 9(F); 1997, c. 15, s. 56; 2001, c. 9, s. 127; 2007, c. 6, s. 38; 2010, c. 12, s. 2077.
+> 1991, c. 46, ss. 464, 603; 1993, c. 34, s. 9(F); 1997, c. 15, s. 56; 2001, c. 9, s. 127; 2007, c. 6, s. 38; 2010, c. 12, s. 2077; 2018, c. 27, s. 138.
 
 
 
@@ -12247,11 +12249,26 @@ is sufficient justification and authority for giving effect to the transmission 
 
 
 
+**Limit — business growth fund**
+
+**465.1** 
+
+- **(1)** The aggregate value of all ownership interests in the business growth fund and the entities that the business growth fund controls that a bank and its subsidiaries hold must not exceed $200,000,000.
+
+**Application**
+
+- **(2)** For the purposes of subsection (1), the value of an ownership interest is determined by the amount paid for it at the time of its issuance.
+> 2018, c. 27, s. 139.
+
+
+
+
+
 **Restriction on control and substantial investments**
 
 **466** 
 
-- **(1)** Subject to subsections (2) to (4), no bank shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+- **(1)** Subject to subsections (2) to (4.4), no bank shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
 **Exception: indirect investments**
 
@@ -12272,6 +12289,29 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(4)** A bank may, subject to Part XI, acquire control of, or hold, acquire or increase a substantial investment in, an entity other than a permitted entity if it does so in accordance with regulations made under paragraph 467(d) concerning specialized financing.
 
+**Business growth fund**
+
+- **(4.1)** Subject to section 465.1, subsections (4.2) to (4.4) and Part XI, a bank may hold, acquire or increase a substantial investment in the business growth fund or any entity that the business growth fund controls.
+
+**For greater certainty**
+
+- **(4.2)** For greater certainty, a bank is prohibited from acquiring control of the business growth fund or any entity that the business growth fund controls.
+
+**Prohibition — entity**
+
+- **(4.3)** A bank is prohibited from holding or acquiring a substantial investment in the business growth fund or any entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds or acquires shares of, or other ownership interests in, any of the following entities, or in any entity that controls any of the following entities:
+	- **(a)** an entity referred to in any of paragraphs 468(1)(a) to (j);
+	- **(b)** an entity that is primarily engaged in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle;
+	- **(c)** an entity that is primarily engaged in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property;
+	- **(d)** an entity that acts as an insurance broker or agent in Canada; or
+	- **(e)** an entity that is engaged in any prescribed activity.
+
+**Prohibition — capital and loans**
+
+- **(4.4)** A bank is prohibited from holding or acquiring a substantial investment in the business growth fund or any entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds shares of, or other ownership interests in, an entity or holds a loan made to an entity and, in respect of that entity and its affiliates, the aggregate value of the following exceeds $100,000,000:
+	- **(a)** all ownership interests that are held by the bank, the bank’s subsidiaries, the business growth fund or the entities that the business growth fund controls, the value of those ownership interests as determined by the amount paid for them at the time each was first acquired by any of those entities; and
+	- **(b)** the outstanding principal of all loans held by the business growth fund or the entities that the business growth fund controls.
+
 **Exception: uncontrolled event**
 
 - **(5)** A bank is deemed not to contravene subsection (1) if the bank acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the bank.
@@ -12291,7 +12331,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Timing of deemed acquisition**
 
 - **(7)** If a bank decides to exercise its right under subsection (6), the bank is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 46, s. 466; 1997, c. 15, s. 57; 2001, c. 9, s. 127; 2007, c. 6, s. 39; 2013, c. 40, s. 168.
+> 1991, c. 46, s. 466; 1997, c. 15, s. 57; 2001, c. 9, s. 127; 2007, c. 6, s. 39; 2013, c. 40, s. 168; 2018, c. 27, s. 140.
 
 
 
@@ -12344,7 +12384,7 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(d)** engaging in any activity that a bank is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the bank or any member of the bank’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity***, ***mutual fund entity*** or ***real property brokerage entity*** in subsection 464(1); and
+	- **(e)** engaging in the activities referred to in the definition closed-end fund, mutual fund distribution entity, mutual fund entity or real property brokerage entity in subsection 464(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction**
@@ -12418,8 +12458,38 @@ where
 
 - **(7)** Subsection (6) does not apply in respect of a particular transaction if
 	- **(a)** the bank is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the bank would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
-	- **(b)** the bank is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
-	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 469(1).
+	- **(b)** the bank is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity;
+	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 469(1);
+	- **(d)** subject to subsection (7.1), the bank is acquiring control of an entity (referred to in this paragraph as the “target entity”) referred to in paragraph (4)(c) or (d) and
+```
+A/B < C
+```
+where
+- **A** is the aggregate of the values, as they would have been reported in the bank’s annual financial statements if those statements were prepared on the day of the acquisition of control of the target entity, of
+	- **(i)** the target entity’s consolidated assets,
+	- **(ii)** the assets of the bank and of any subsidiary of the bank that were acquired, at any time within the 12 months preceding the acquisition of control of the target entity, from any entity that, at that time, held any of the assets referred to in subparagraph (i), and
+	- **(iii)** the consolidated assets of any entity referred to in paragraph (4)(c) or (d) the control of which is acquired by the bank at the same time as the acquisition of control of the target entity — or within the 12 months preceding the acquisition of control of the target entity if, at any time within those 12 months, that entity and the target entity were affiliates — excluding any assets referred to in subparagraph (i) or (ii) and the consolidated assets of an entity in respect of which no approval of the Superintendent is required under any of paragraphs (a) to (c),
+- **B** is the value of the bank’s consolidated assets, as shown in its last annual statement prepared before the acquisition of control of the target entity, and
+- **C** is
+	- **(i)** 0.01, in the case of a bank with equity of 12 billion dollars or more, or
+	- **(ii)** 0.02, in the case of any other bank; or
+	- **(e)** the bank is acquiring or increasing a substantial investment in an entity (referred to in this paragraph as the “target entity”) without acquiring control of it, and
+```
+A/B < C
+```
+where
+- **A** is the aggregate of the values, as they would have been reported in the bank’s annual financial statements if those statements were prepared on the day of the acquisition or increase of the substantial investment in the target entity, of
+	- **(i)** the shares of, or other ownership interests in, the target entity that the bank or a subsidiary of the bank is acquiring in the transaction that results in the acquisition or increase of a substantial investment in the target entity, and the shares of, or other ownership interests in, the target entity that are held by an entity the control of which the bank is acquiring in the transaction that results in the acquisition or increase of a substantial investment in the target entity,
+	- **(ii)** the shares of, or other ownership interests in, the target entity that are held by the bank or a subsidiary of the bank and that were acquired by the bank or the subsidiary within the 12 months preceding the transaction referred to in subparagraph (i), and
+	- **(iii)** the shares of, or other ownership interests in, the target entity that are held by a subsidiary of the bank the control of which was acquired by the bank within the 12 months preceding the transaction referred to in subparagraph (i), excluding any shares or other ownership interests referred to in subparagraph (ii),
+- **B** is the value of the bank’s consolidated assets, as shown in its last annual statement prepared before the transaction that results in the acquisition or increase of the substantial investment in the target entity, and
+- **C** is
+	- **(i)** 0.005, in the case of a bank with equity of 12 billion dollars or more, or
+	- **(ii)** 0.01, in the case of any other bank.
+
+**No exception for deemed acquisition**
+
+- **(7.1)** The exception in paragraph (7)(d) does not apply with respect to a deemed acquisition of control under subsection 466(7).
 
 **Control not required**
 
@@ -12442,7 +12512,7 @@ where
 **Subsections do not apply**
 
 - **(12)** If a bank controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the bank of its substantial investment in the entity so long as the bank continues to control the entity.
-> 1991, c. 46, s. 468; 1997, c. 15, s. 58; 1999, c. 28, s. 26; 2001, c. 9, s. 127; 2007, c. 6, ss. 40, 134(F); 2012, c. 5, s. 53.
+> 1991, c. 46, s. 468; 1997, c. 15, s. 58; 1999, c. 28, s. 26; 2001, c. 9, s. 127; 2007, c. 6, ss. 40, 134(F); 2012, c. 5, s. 53; 2018, c. 27, s. 131.
 
 
 
@@ -13494,53 +13564,55 @@ would exceed 50 per cent of the regulatory capital of the bank.
 
 - **(1)** The following definitions apply in this Part.
 
+***business growth fund*** means Canadian Business Growth Fund (GP) Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md). (*fonds de croissance des entreprises*)
+
 ***designated foreign bank***[Repealed, 2007, c. 6, s. 48]
 
 ***designation order***[Repealed, 2007, c. 6, s. 48]
 
 ***exemption order***[Repealed, 2007, c. 6, s. 48]
 
-***finance entity*** means a Canadian entity that is a finance entity as defined in the regulations.
+***finance entity*** means a Canadian entity that is a finance entity as defined in the regulations. (*entité s’occupant de financement*)
 
-***financial leasing entity*** means a Canadian entity that is a financial leasing entity as defined in subsection 464(1).
+***financial leasing entity*** means a Canadian entity that is a financial leasing entity as defined in subsection 464(1). (*entité s’occupant de crédit-bail*)
 
-***financial services entity*** means an entity, other than an entity referred to in any of paragraphs 468(1)(a) to (i) or a leasing entity, that engages in activities at least the prescribed portion — or if no portion is prescribed, 10 per cent — of which, determined in the prescribed manner, consists of one or more of the following activities:
+***financial services entity*** means an entity, other than an entity referred to in any of paragraphs 468(1)(a) to (i) or a leasing entity, that engages in activities at least the prescribed portion — or if no portion is prescribed, 10 per cent — of which, determined in the prescribed manner, consists of one or more of the following activities:
 - **(a)** providing any financial service;
 - **(b)** acting as a financial agent;
 - **(c)** providing investment counselling and portfolio management services;
 - **(d)** issuing payment, credit or charge cards and, in cooperation with others, including other financial institutions, operating a payment, credit or charge card plan;
-- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity*** or ***mutual fund entity*** in subsection 464(1);
+- **(e)** engaging in the activities referred to in the definition closed-end fund, mutual fund distribution entity or mutual fund entity in subsection 464(1);
 - **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed;
 - **(g)** engaging in any activity referred to in paragraphs (a) to (f) as an agent for another entity referred to in any of those paragraphs or in any of paragraphs 468(1)(a) to (j); or
-- **(h)** acquiring or holding control of, or becoming a major owner of, an entity referred to in any of paragraphs (a) to (g) or any of paragraphs 468(1)(a) to (j).
+- **(h)** acquiring or holding control of, or becoming a major owner of, an entity referred to in any of paragraphs (a) to (g) or any of paragraphs 468(1)(a) to (j). (*entité s’occupant de services financiers*)
 
-***foreign cooperative credit society*** means an entity that is incorporated or formed, and regulated, otherwise than by or under an Act of Parliament or of the legislature of a province, and that, outside Canada, engages in or carries on the business of a cooperative credit society.
+***foreign cooperative credit society*** means an entity that is incorporated or formed, and regulated, otherwise than by or under an Act of Parliament or of the legislature of a province, and that, outside Canada, engages in or carries on the business of a cooperative credit society. (*société coopérative de crédit étrangère*)
 
-***foreign insurance company*** means a foreign company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md).
+***foreign insurance company*** means a foreign company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md). (*société d’assurances étrangère*)
 
-***foreign securities dealer*** means an entity that is incorporated or formed, and regulated, otherwise than by or under an Act of Parliament or of the legislature of a province, and that, outside Canada, engages in or carries on the business of dealing in securities.
+***foreign securities dealer*** means an entity that is incorporated or formed, and regulated, otherwise than by or under an Act of Parliament or of the legislature of a province, and that, outside Canada, engages in or carries on the business of dealing in securities. (*courtier de valeurs mobilières étranger*)
 
-***leasing activities*** means
+***leasing activities*** means
 - **(a)** the financial leasing of personal property and the related activities that a financial leasing entity may engage in; and
-- **(b)** all other leasing of personal property.
+- **(b)** all other leasing of personal property. (*activités de location*)
 
-***leasing entity*** means an entity that engages in only
+***leasing entity*** means an entity that engages in only
 - **(a)** leasing activities; or
-- **(b)** leasing activities and activities other than those described in paragraphs (a) to (h) of the definition ***financial services entity***.
+- **(b)** leasing activities and activities other than those described in paragraphs (a) to (h) of the definition financial services entity. (*entité s’occupant de location*)
 
-***limited commercial entity*** means a Canadian entity that a foreign bank or an entity associated with a foreign bank may control in accordance with subsection 522.09(1) or (2), or in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment in accordance with that subsection.
+***limited commercial entity*** means a Canadian entity that a foreign bank or an entity associated with a foreign bank may control in accordance with subsection 522.09(1) or (2), or in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment in accordance with that subsection. (*entité à activités commerciales restreintes*)
 
-***non-bank affiliate of a foreign bank*** means a Canadian entity, other than a bank,
+***non-bank affiliate of a foreign bank*** means a Canadian entity, other than a bank,
 - **(a)** in which a foreign bank or an entity associated with a foreign bank holds a substantial investment, or
 - **(b)** that is controlled by a foreign bank or an entity associated with a foreign bank,
 
-but a Canadian entity is not a non-bank affiliate of a foreign bank by reason only that a bank that is a subsidiary of the foreign bank or of the entity associated with a foreign bank controls, or holds a substantial investment in, the Canadian entity.
+but a Canadian entity is not a non-bank affiliate of a foreign bank by reason only that a bank that is a subsidiary of the foreign bank or of the entity associated with a foreign bank controls, or holds a substantial investment in, the Canadian entity. (*établissement affilié à une banque étrangère*)
 
-***permitted Canadian entity*** means a Canadian entity that a foreign bank or an entity associated with a foreign bank may control in accordance with section 522.08, or in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment in accordance with that section.
+***permitted Canadian entity*** means a Canadian entity that a foreign bank or an entity associated with a foreign bank may control in accordance with section 522.08, or in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment in accordance with that section. (*entité canadienne admissible*)
 
-***representative office*** means an office established to represent a foreign bank in Canada that is not subject to the direction of, or management by, an entity incorporated or formed by or under an Act of Parliament or of the legislature of a province, and the personnel of which are employed directly or indirectly by the foreign bank.
+***representative office*** means an office established to represent a foreign bank in Canada that is not subject to the direction of, or management by, an entity incorporated or formed by or under an Act of Parliament or of the legislature of a province, and the personnel of which are employed directly or indirectly by the foreign bank. (*bureau de représentation*)
 
-***specialized financing entity*** means a Canadian entity that is a specialized financing entity as defined in the regulations.
+***specialized financing entity*** means a Canadian entity that is a specialized financing entity as defined in the regulations. (*entité s’occupant de financement spécial*)
 
 **Entity associated with foreign bank**
 
@@ -13667,7 +13739,7 @@ would, if they were one person, control the Canadian entity.
 **Publication**
 
 - **(19)** If the Minister makes an order referred to in paragraph (17)(b) or subsection (18), the Minister shall publish in the Canada Gazette a notice of the making of the order.
-> 1991, c. 46, s. 507; 1997, c. 15, s. 76; 1999, c. 28, s. 27; 2001, c. 9, s. 132; 2007, c. 6, s. 48.
+> 1991, c. 46, s. 507; 1997, c. 15, s. 76; 1999, c. 28, s. 27; 2001, c. 9, s. 132; 2007, c. 6, s. 48; 2018, c. 27, s. 141.
 
 
 
@@ -13784,6 +13856,51 @@ where
 
 - **(5)** Paragraphs (1)(a) and (b) do not apply to a Canadian entity that is an entity associated with a foreign bank and that is held or acquired in accordance with this Part.
 > 1991, c. 46, s. 510; 1996, c. 6, s. 9; 1997, c. 15, s. 77; 2001, c. 9, s. 132; 2007, c. 6, s. 50.
+
+
+
+
+
+**Limit — business growth fund**
+
+**510.01** 
+
+- **(1)** The aggregate value of all ownership interests in the business growth fund and the entities that the business growth fund controls that a foreign bank and the entities associated with it hold must not exceed $200,000,000.
+
+**Application**
+
+- **(2)** For the purposes of subsection (1), the value of an ownership interest is determined by the amount paid for it at the time of its issuance.
+> 2018, c. 27, s. 142.
+
+
+
+
+
+**Business growth fund**
+
+**510.02** 
+
+- **(1)** Subject to section 510.01 and subsections (2) to (4), a foreign bank or an entity associated with a foreign bank may hold or acquire a substantial investment in the business growth fund or a Canadian entity that the business growth fund controls.
+
+**For greater certainty**
+
+- **(2)** For greater certainty, a foreign bank or an entity associated with a foreign bank is prohibited from acquiring control of the business growth fund or any Canadian entity that the business growth fund controls.
+
+**Prohibition — entity**
+
+- **(3)** A foreign bank or an entity associated with a foreign bank is prohibited from holding or acquiring a substantial investment in the business growth fund or any Canadian entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds or acquires shares of, or other ownership interests in, any of the following entities, or in any entity that controls any of the following entities:
+	- **(a)** an entity referred to in any of paragraphs 468(1)(a) to (j);
+	- **(b)** an entity that is primarily engaged in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle;
+	- **(c)** an entity that is primarily engaged in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property;
+	- **(d)** an entity that acts as an insurance broker or agent in Canada; or
+	- **(e)** an entity that is engaged in any prescribed activity.
+
+**Prohibition — capital and loans**
+
+- **(4)** A foreign bank or an entity associated with a foreign bank is prohibited from holding or acquiring a substantial investment in the business growth fund or any Canadian entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds shares of, or other ownership interests in, an entity or holds a loan made to an entity and, in respect of that entity and its affiliates, the aggregate value of the following exceeds $100,000,000:
+	- **(a)** all ownership interests that are held by the foreign bank, the entities associated with the foreign bank, the business growth fund or the entities that the business growth fund controls, the value of those ownership interests as determined by the amount paid for them at the time each was first acquired by any of those entities; and
+	- **(b)** the outstanding principal of all loans held by the business growth fund or the entities that the business growth fund controls.
+> 2018, c. 27, s. 142.
 
 
 
@@ -16913,6 +17030,23 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
+**No waiver**
+
+**608.1** 
+
+- **(1)** For greater certainty, the disclosure by an authorized foreign bank — or by a person who controls an authorized foreign bank or by an entity that is affiliated with an authorized foreign bank — to the Superintendent of any information that is subject to a privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of any of those privileges or that secrecy.
+
+**No disclosure**
+
+- **(2)** The Superintendent shall not disclose any information referred to in subsection (1) to any person whose powers, duties or functions include
+	- **(a)** the investigation or prosecution of an offence under any Act of Parliament or of the legislature of a province; or
+	- **(b)** the investigation of, or conduct of proceedings in respect of, a violation under an Act referred to in paragraph (a).
+> 2018, c. 27, s. 169.
+
+
+
+
+
 **Disclosure by Superintendent**
 
 **609** 
@@ -17510,6 +17644,23 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 - **(6)** The Governor in Council may, for the purposes of subsection (3), make regulations respecting the circumstances in which prescribed supervisory information may be used as evidence.
 > 1999, c. 28, s. 43; 2007, c. 6, s. 104; 2015, c. 36, s. 234.
+
+
+
+
+
+**No waiver**
+
+**638.1** 
+
+- **(1)** For greater certainty, the disclosure by a bank — or by a person who controls a bank or by an entity that is affiliated with a bank — to the Superintendent of any information that is subject to a privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of any of those privileges or that secrecy.
+
+**No disclosure**
+
+- **(2)** The Superintendent shall not disclose any information referred to in subsection (1) to any person whose powers, duties or functions include
+	- **(a)** the investigation or prosecution of an offence under any Act of Parliament or of the legislature of a province; or
+	- **(b)** the investigation of, or conduct of proceedings in respect of, a violation under an Act referred to in paragraph (a).
+> 2018, c. 27, s. 170.
 
 
 
@@ -23102,11 +23253,26 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 
+**Limit — business growth fund**
+
+**927.1** 
+
+- **(1)** The aggregate value of all ownership interests in the business growth fund and the entities that the business growth fund controls that a bank holding company and its subsidiaries hold must not exceed $200,000,000.
+
+**Application**
+
+- **(2)** For the purposes of subsection (1), the value of an ownership interest is determined by the amount paid for it at the time of its issuance.
+> 2018, c. 27, s. 143.
+
+
+
+
+
 **Restriction on control and substantial investments**
 
 **928** 
 
-- **(1)** Subject to subsections (2) and (3), no bank holding company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+- **(1)** Subject to subsections (2) to (3.4), no bank holding company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
 **Exception: indirect investments**
 
@@ -23122,6 +23288,29 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 	- **(a)** a temporary investment permitted by section 933;
 	- **(b)** an acquisition of shares of a body corporate or of ownership interests in an unincorporated entity permitted by section 934; or
 	- **(c)** a realization of security permitted by section 935.
+
+**Business growth fund**
+
+- **(3.1)** Subject to section 927.1 and subsections (3.2) to (3.4), a bank holding company may hold, acquire or increase a substantial investment in the business growth fund or any entity that the business growth fund controls.
+
+**For greater certainty**
+
+- **(3.2)** For greater certainty, a bank holding company is prohibited from acquiring control of the business growth fund or any entity that the business growth fund controls.
+
+**Prohibition — entity**
+
+- **(3.3)** A bank holding company is prohibited from holding or acquiring a substantial investment in the business growth fund or any entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls hold or acquires shares of, or other ownership interests in, any of the following entities, or in any entity that controls any of the following entities:
+	- **(a)** an entity referred to in any of paragraphs 930(1)(a) to (j);
+	- **(b)** an entity that is primarily engaged in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle;
+	- **(c)** an entity that is primarily engaged in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property;
+	- **(d)** an entity that acts as an insurance broker or agent in Canada; or
+	- **(e)** an entity that is engaged in any prescribed activity.
+
+**Prohibition — capital and loans**
+
+- **(3.4)** A bank holding company is prohibited from holding or acquiring a substantial investment in the business growth fund or any entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds shares of, or other ownership interests in, an entity or holds a loan made to an entity and, in respect of that entity and its affiliates, the aggregate value of the following exceeds $100,000,000:
+	- **(a)** all ownership interests that are held by the bank holding company, the bank holding company’s subsidiaries, the business growth fund or the entities that the business growth fund controls, the value of those ownership interests as determined by the amount paid for them at the time each was first acquired by any of those entities; and
+	- **(b)** the outstanding principal of all loans held by the business growth fund or the entities that the business growth fund controls.
 
 **Exception: uncontrolled event**
 
@@ -23142,7 +23331,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Timing of deemed acquisition**
 
 - **(6)** If a bank holding company decides to exercise its right under subsection (5), the bank holding company is deemed to be acquiring the control or the substantial investment under the other provision.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 121; 2013, c. 40, s. 169.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 121; 2013, c. 40, s. 169; 2018, c. 27, s. 144.
 
 
 
@@ -23195,7 +23384,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 	- **(d)** engaging in any activity that a bank is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any member of the bank holding company’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity***, ***mutual fund entity*** or ***real property brokerage entity*** in subsection 464(1); and
+	- **(e)** engaging in the activities referred to in the definition closed-end fund, mutual fund distribution entity, mutual fund entity or real property brokerage entity in subsection 464(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction**
@@ -23269,8 +23458,38 @@ where
 
 - **(7)** Subsection (6) does not apply in respect of a particular transaction if
 	- **(a)** the bank holding company is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the bank holding company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
-	- **(b)** the bank holding company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
-	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 931(1).
+	- **(b)** the bank holding company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity;
+	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 931(1);
+	- **(d)** subject to subsection (7.1), the bank holding company is acquiring control of an entity (referred to in this paragraph as the “target entity”) referred to in paragraph (4)(c) or (d) and
+```
+A/B < C
+```
+where
+- **A** is the aggregate of the values, as they would have been reported in the bank holding company’s annual financial statements if those statements were prepared on the day of the acquisition of control of the target entity, of
+	- **(i)** the target entity’s consolidated assets,
+	- **(ii)** the assets of the bank holding company and of any subsidiary of the bank holding company that were acquired, at any time within the 12 months preceding the acquisition of control of the target entity, from any entity that, at that time, held any of the assets referred to in subparagraph (i), and
+	- **(iii)** the consolidated assets of any entity referred to in paragraph 4(c) or (d) the control of which is acquired by the bank holding company at the same time as the acquisition of control of the target entity — or within the 12 months preceding the acquisition of control of the target entity if, at any time within those 12 months, that entity and the target entity were affiliates — excluding any assets referred to in subparagraph (i) or (ii) and the consolidated assets of an entity in respect of which no approval of the Superintendent is required under any of paragraphs (a) to (c),
+- **B** is the value of the bank holding company’s consolidated assets, as shown in its last annual statement prepared before the acquisition of control of the target entity, and
+- **C** is
+	- **(i)** 0.01, in the case of a bank holding company with equity of 12 billion dollars or more, or
+	- **(ii)** 0.02, in the case of any other bank holding company; or
+	- **(e)** the bank holding company is acquiring or increasing a substantial investment in an entity (referred to in this paragraph as the “target entity”) without acquiring control of it, and
+```
+A/B < C
+```
+where
+- **A** is the aggregate of the values, as they would have been reported in the bank holding company’s annual financial statements if those statements were prepared on the day of the acquisition or increase of the substantial investment in the target entity, of
+	- **(i)** the shares of, or other ownership interests in, the target entity that the bank holding company or a subsidiary of the bank holding company is acquiring in the transaction that results in the acquisition or increase of a substantial investment in the target entity, and the shares of, or other ownership interests in, the target entity that are held by an entity the control of which the bank holding company is acquiring in the transaction that results in the acquisition or increase of a substantial investment in the target entity,
+	- **(ii)** the shares of, or other ownership interests in, the target entity that are held by the bank holding company or a subsidiary of the bank holding company and that were acquired by the bank holding company or the subsidiary within the 12 months preceding the transaction referred to in subparagraph (i), and
+	- **(iii)** the shares of, or other ownership interests in, the target entity that are held by a subsidiary of the bank holding company the control of which was acquired by the bank holding company within the 12 months preceding the transaction referred to in subparagraph (i), excluding any shares or other ownership interests referred to in subparagraph (ii),
+- **B** is the value of the bank holding company’s consolidated assets, as shown in its last annual statement prepared before the transaction that results in the acquisition or increase of the substantial investment in the target entity, and
+- **C** is
+	- **(i)** 0.005, in the case of a bank holding company with equity of 12 billion dollars or more, or
+	- **(ii)** 0.01, in the case of any other bank holding company.
+
+**No exception for deemed acquisition**
+
+- **(7.1)** The exception in paragraph (7)(d) does not apply with respect to a deemed acquisition of control under subsection 928(6).
 
 **Control not required**
 
@@ -23293,7 +23512,7 @@ where
 **Subsections do not apply**
 
 - **(12)** If a bank holding company controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the bank holding company of its substantial investment in the entity so long as the bank holding company continues to control the entity.
-> 2001, c. 9, s. 183; 2007, c. 6, ss. 122, 134(F); 2012, c. 5, s. 101.
+> 2001, c. 9, s. 183; 2007, c. 6, ss. 122, 134(F); 2012, c. 5, s. 101; 2018, c. 27, s. 132.
 
 
 
@@ -23924,6 +24143,23 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 - **(6)** The Governor in Council may, for the purposes of subsection (3), make regulations respecting the circumstances in which prescribed supervisory information may be used as evidence.
 > 2015, c. 36, s. 235.
+
+
+
+
+
+**No waiver**
+
+**956.2** 
+
+- **(1)** For greater certainty, the disclosure by a bank holding company — or by a person who controls a bank holding company or by an entity that is affiliated with a bank holding company — to the Superintendent of any information that is subject to a privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of any of those privileges or that secrecy.
+
+**No disclosure**
+
+- **(2)** The Superintendent shall not disclose any information referred to in subsection (1) to any person whose powers, duties or functions include
+	- **(a)** the investigation or prosecution of an offence under any Act of Parliament or of the legislature of a province; or
+	- **(b)** the investigation of, or conduct of proceedings in respect of, a violation under an Act referred to in paragraph (a).
+> 2018, c. 27, s. 171.
 
 
 
@@ -25161,10 +25397,14 @@ together with such other information about the background, business record and e
 	- **(b)** the electronic document is, unless otherwise prescribed, provided to the designated information system; and
 	- **(c)** the prescribed requirements are complied with.
 
+**Consent and notice in electronic form**
+
+- **(1.1)** Despite subsection (1), the requirements referred to in paragraph (1)(c) may provide that the consent referred to in paragraph (1)(a) and any notice related to that consent may be provided in electronic form.
+
 **Regulations — revocation of consent**
 
 - **(2)** The Governor in Council may make regulations respecting the revocation of the consent referred to in paragraph (1)(a).
-> 2005, c. 54, s. 138.
+> 2005, c. 54, s. 138; 2018, c. 27, s. 153.
 
 
 
