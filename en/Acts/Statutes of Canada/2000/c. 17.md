@@ -153,13 +153,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(j)** persons and entities engaged in a prescribed business or profession, while carrying out a prescribed activity;
 - **(k)** the government of a province that, in accordance with paragraph 207(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 	- **(i)** in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games, or
-	- **(ii)** in any other permanent establishment, conducts and manages games that are operated on or through a slot machine, as defined in subsection 198(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or any other similar electronic gaming device, if there are more than 50 of those machines or other devices in the establishment;
+	- **(ii)** in any other permanent establishment, conducts and manages games that are operated on or through a slot machine, as defined in subsection 207(4.01) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or any other similar electronic gaming device, if there are more than 50 of those machines or other devices in the establishment;
 - **(k.1)** the government of a province that, in accordance with paragraph 207(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), conducts and manages a lottery scheme, other than bingo or the sale of lottery tickets, that is accessible to the public through the Internet or other digital network, except if the network is an internal network within an establishment described in subparagraph (k)(ii);
 - **(k.2)** an organization that, in accordance with paragraph 207(1)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games, unless the organization is a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and the lottery scheme is conducted or managed for a period of not more than two consecutive days at a time;
 - **(k.3)** the board of a fair or of an exhibition, or the operator of a concession leased by such a board, that, in accordance with paragraph 207(1)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in a permanent establishment that is held out to be a casino, conducts and manages a lottery scheme that includes games of roulette or card games;
 - **(l)** departments and agents or mandataries of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that issue or sell money orders to, or redeem them from, the public or that sell prescribed precious metals, while carrying out a prescribed activity; and
 - **(m)** for the purposes of section 7, employees of a person or entity referred to in any of paragraphs (a) to (l).
-> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256; 2017, c. 20, s. 408.
+> 2000, c. 17, s. 5; 2001, c. 41, s. 51; 2006, c. 12, s. 3; 2014, c. 20, s. 256; 2017, c. 20, s. 408; 2018, c. 29, s. 78.
 
 
 
@@ -899,10 +899,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Decision not to proceed with importing or exporting**
-
-**13** A person or an entity that is required to report currency or monetary instruments may, at any time before they are retained under subsection 14(1) or forfeited as a result of a contravention of subsection 12(1), decide not to proceed further with importing or exporting them.
+**13** [Repealed, 2018, c. 27, s. 174]
 
 
 
@@ -923,20 +920,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Limitation**
 
-- **(3)** Currency or monetary instruments may no longer be retained under subsection (1) if, during the period referred to in that subsection,
-	- **(a)** the officer is satisfied that the currency or monetary instruments have been reported under subsection 12(1); or
-	- **(b)** the importer or exporter of the currency or monetary instruments advises the officer that they have decided not to proceed further with importing or exporting them.
+- **(3)** Currency or monetary instruments may no longer be retained under subsection (1) if the officer is satisfied that the currency or monetary instruments have been reported under subsection 12(1).
 
 **Content of notice**
 
 - **(4)** The notice referred to in subsection (1) must state
 	- **(a)** the period for which the currency or monetary instruments may be retained;
-	- **(b)** that if, within that period, the currency or monetary instruments are reported under subsection 12(1) or the importer or exporter decides not to proceed further with importing or exporting them, they may no longer be retained; and
+	- **(b)** that if, within that period, the currency or monetary instruments are reported under subsection 12(1), they may no longer be retained; and
 	- **(c)** that currency or monetary instruments retained at the end of that period are forfeited to Her Majesty in right of Canada at that time.
 
 **Forfeiture and report to Centre**
 
 - **(5)** Currency or monetary instruments that are retained by an officer under subsection (1) are forfeited to Her Majesty in right of Canada at the end of the period referred to in that subsection, and the officer shall send any incomplete report in respect of the forfeited currency or monetary instruments made under subsection 12(1) to the Centre.
+> 2000, c. 17, s. 14; 2018, c. 27, s. 175.
+
 
 
 
