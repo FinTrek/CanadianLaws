@@ -835,7 +835,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Contenu de l’avis**
 
-- **(2)** L’avis doit :
+- **(2)** L’avis doit :
 	- **a)** indiquer le délai raisonnable, d’au moins quatre-vingt-dix jours, dans lequel les renseignements ou les registres doivent être livrés;
 	- **b)** décrire les renseignements ou les registres recherchés;
 	- **c)** préciser les conséquences, prévues au paragraphe (7), du non-respect de la mise en demeure.
@@ -854,13 +854,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Suspension du délai**
 
-- **(6)** La période commençant le jour où une requête est présentée et se terminant le jour où il est décidé de la requête est exclue du calcul des délais suivants :
+- **(6)** Le délai qui court entre le jour où une requête est présentée et le jour où la requête est définitivement réglée ne compte pas dans le calcul des délais suivants :
 	- **a)** le délai indiqué dans la mise en demeure qui a donné lieu à la requête;
 	- **b)** le délai dans lequel une cotisation peut être établie en application de l’article 42.
 
 **Conséquence du défaut**
 
 - **(7)** Tout tribunal saisi d’une affaire civile portant sur l’exécution ou le contrôle d’application de la présente loi doit, sur requête du ministre, refuser le dépôt en preuve par une personne de tout renseignement ou registre visé par une mise en demeure qui n’est pas déclarée sans effet dans le cas où la personne ne s’est pas conformée, en substance, à la mise en demeure.
+> 2002, ch. 9, art. 5 « 38 »; 2018, ch. 27, art. 62.
+
 
 
 
