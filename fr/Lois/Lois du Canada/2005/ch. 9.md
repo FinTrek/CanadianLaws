@@ -36,10 +36,10 @@ que les premières nations ont entrepris une initiative qui a mené à l’élab
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
-> 2005, ch. 9, préambule; 2012, ch. 19, art. 657..
+> 2005, ch. 9, préambule; 2012, ch. 19, art. 657; 2018, ch. 27, art. 413(A) et 414(A)..
 
 
 
@@ -76,9 +76,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***conseil de la première nation*** S’entend au sens de « conseil de la bande » au paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*council*)
 
+***droit*** S’agissant de terres de réserve situées au Québec, tout droit de quelque nature que ce soit portant sur celles-ci, notamment tout droit d’occupation, de possession ou d’usage sur elles et, par assimilation, tout droit du locataire; est cependant exclu le titre de propriété détenu par Sa Majesté. (*right*) 
+
 ***Gazette des premières nations*** La publication prévue à l’article 34. (*First Nations Gazette*)
 
+***immobilisation*** S’entend notamment d’une infrastructure. (*capital assets*) 
+
 ***Institut de la statistique des premières nations***[Abrogée, 2012, ch. 19, art. 659]
+
+***intérêt*** S’agissant de terres de réserve situées au Canada mais ailleurs qu’au Québec, tout domaine, droit ou autre intérêt portant sur celles-ci, notamment tout droit d’occupation, de possession ou d’usage sur elles; est cependant exclu le titre de propriété détenu par Sa Majesté. (*interest*) 
 
 ***membre emprunteur*** Première nation qui a été acceptée comme membre emprunteur en vertu du paragraphe 76(2) et n’a pas cessé de l’être dans le cadre de l’article 77. (*borrowing member*)
 
@@ -99,13 +105,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modification de l’annexe**
 
 - **(3)** À la demande du conseil d’une bande, le ministre peut, par arrêté, modifier l’annexe pour :
-	- **a)** ajouter ou changer le nom de la bande; 
+	- **a)** ajouter ou changer le nom de la bande;
 	- **b)** retrancher le nom de la bande, pourvu que toutes les sommes dues par celle-ci à l’Administration financière des premières nations aient été payées.
 
 **Précision**
 
-- **(4)** Il est entendu que la présente loi n’a pas pour effet d’exiger que les infrastructures et les immobilisations destinées à la prestation de services locaux soient situées sur les terres de réserve.
-> 2005, ch. 9, art. 2; 2012, ch. 19, art. 659; 2015, ch. 36, art. 177.
+- **(4)** Il est entendu que la présente loi n’a pas pour effet d’exiger que les immobilisations destinées à la prestation de services locaux soient situées sur les terres de réserve.
+> 2005, ch. 9, art. 2; 2012, ch. 19, art. 659; 2015, ch. 36, art. 177; 2018, ch. 27, art. 385 et 414(A).
 
 
 
@@ -118,6 +124,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 **3** Il est entendu que la présente loi ne porte pas atteinte aux droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la Loi constitutionnelle de 1982.
+> 2005, ch. 9, art. 3; 2018, ch. 27, art. 413(A).
+
 
 
 
@@ -130,6 +138,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Texte législatif en matière de gestion financière**
 
 **4** Le conseil de la première nation ne peut prendre un texte législatif en vertu de l’alinéa 5(1)d) que s’il a déjà pris un texte législatif sur la gestion financière en vertu de l’alinéa 9(1)a) et que celui-ci a été approuvé par le Conseil de gestion financière des premières nations.
+> 2005, ch. 9, art. 4; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -138,9 +148,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Le conseil de la première nation peut, sous réserve des paragraphes (2) à (6), des articles 4 et 6 et des règlements pris en vertu de l’alinéa 36(1)d), prendre des textes législatifs :
-	- **a)** concernant l’imposition de taxes à des fins locales sur les terres de réserve, ainsi que sur les intérêts ou les droits d’occupation, de possession et d’usage sur celles-ci, y compris :
-		- **(i)** l’évaluation de ces terres, intérêts et droits, la demande des renseignements nécessaires à l’évaluation et l’inspection aux fins d’évaluation, sous réserve de la procédure fixée par règlement, des terres imposables à des fins locales,
+- **(1)** Le conseil de la première nation peut, sous réserve des paragraphes (2) à (5), des articles 4 et 6 et des règlements pris en vertu de l’alinéa 36(1)d), prendre des textes législatifs :
+	- **a)** concernant l’imposition de taxes à des fins locales sur les terres de réserve et sur les droits ou intérêts sur celles-ci, y compris :
+		- **(i)** l’évaluation de ces terres et de ces droits ou intérêts, la demande des renseignements nécessaires à l’évaluation et l’inspection aux fins d’évaluation, conformément à la procédure fixée par règlement, des terres imposables à des fins locales,
 		- **(ii)** le mode de fixation des taux d’imposition applicables à leur valeur imposable,
 		- **(iii)** l’imposition de taxes pour les services fournis relativement aux terres de réserve,
 		- **(iv)** l’imposition de taxes à l’égard des activités commerciales sur les terres de réserve,
@@ -150,10 +160,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** concernant la procédure par laquelle les intérêts des contribuables peuvent lui être présentés;
 	- **d)** concernant l’emprunt de fonds auprès de l’Administration financière des premières nations, y compris l’autorisation de conclure avec elle un accord relatif à un tel emprunt;
 	- **e)** concernant, sous réserve de la procédure et des conditions fixées par règlement, le contrôle d’application des textes législatifs pris en vertu des alinéas a) et a.1) en matière de taxes ou de droits en souffrance, notamment par :
-		- **(i)** la création d’un privilège sur les terres de réserve ou sur les intérêts ou les droits sur ces terres,
+		- **(i)** la création d’un privilège ou, au Québec, d’une priorité ou d’une hypothèque légale sur les terres de réserve et sur les droits ou intérêts sur ces terres,
 		- **(ii)** l’obligation de verser des intérêts ou des pénalités sur les sommes en souffrance sous le régime d’un texte législatif pris en vertu de cet alinéa, la fixation du taux d’intérêt et du montant des pénalités et le recouvrement des intérêts et des pénalités,
-		- **(iii)** sous réserve du paragraphe (7), la saisie, la confiscation et la cession d’intérêts ou de droits sur les terres de réserve,
-		- **(iv)** la saisie et la vente de biens meubles situés sur les terres de réserve, autres que les biens situés dans une maison d’habitation,
+		- **(iii)** sous réserve du paragraphe (7), la saisie, la confiscation et la cession de droits ou intérêts sur les terres de réserve,
+		- **(iv)** la saisie et la vente de biens meubles ou personnels situés sur les terres de réserve, autres que les biens situés dans une maison d’habitation,
 		- **(v)** la cessation de la fourniture des services,
 		- **(vi)** le recouvrement des frais engagés par la première nation pour le contrôle d’application de ces textes législatifs;
 	- **f)** prévoyant la délégation à une personne ou à un organisme du pouvoir de prendre des textes législatifs en vertu des alinéas a) à e);
@@ -175,13 +185,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** [Abrogé, 2015, ch. 36, art. 178]
 
-**Taxe spéciale**
+- **(6)** [Abrogé, 2018, ch. 27, art. 386]
 
-- **(6)** Le texte législatif relatif à l’imposition foncière d’un membre emprunteur doit prévoir que ce dernier est tenu de prendre un texte législatif en vertu de l’alinéa (1)a) pour recouvrer les sommes visées à l’alinéa 84(5)b).
+**Cession d’un droit ou intérêt**
 
-**Cession d’un intérêt ou d’un droit**
-
-- **(7)** Malgré la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et l’acte conférant un intérêt ou un droit sur les terres de réserve, la première nation peut procéder à la cession de l’intérêt ou du droit conformément à la procédure et aux conditions fixées par règlement dans les cas où les taxes exigibles aux termes d’un texte législatif pris en vertu de l’alinéa (1)a) sont en souffrance depuis plus de deux ans.
+- **(7)** Malgré la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et l’acte conférant un droit ou intérêt sur les terres de réserve, la première nation peut procéder à la cession du droit ou intérêt conformément à la procédure et aux conditions fixées par règlement dans les cas où les taxes exigibles aux termes d’un texte législatif pris en vertu de l’alinéa (1)a) sont en souffrance depuis plus de deux ans.
 
 **Admission d’office**
 
@@ -190,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(9)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux textes législatifs sur les recettes locales et aux textes législatifs pris en vertu de l’article 9.
-> 2005, ch. 9, art. 5; 2015, ch. 36, art. 178.
+> 2005, ch. 9, art. 5; 2015, ch. 36, art. 178; 2018, ch. 27, art. 386 et 414(A).
 
 
 
@@ -220,7 +228,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise en compte des observations**
 
 - **(4)** Le conseil de la première nation est tenu, avant la prise d’un texte législatif en vertu des alinéas 5(1)a), a.1) ou c), de prendre en compte les observations présentées au titre de l’alinéa (3)c) ou lors de l’assemblée visée à l’alinéa (3)d).
-> 2005, ch. 9, art. 6; 2015, ch. 36, art. 179.
+> 2005, ch. 9, art. 6; 2015, ch. 36, art. 179; 2018, ch. 27, art. 414(A).
 
 
 
@@ -228,9 +236,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres observations**
 
-**7** En même temps qu’il transmet pour agrément à la Commission de la fiscalité des premières nations un texte législatif relatif à l’imposition foncière ou un texte législatif pris en vertu de l’alinéa 5(1)c), le conseil de la première nation :
+**7** En même temps qu’il transmet pour agrément à la Commission de la fiscalité des premières nations un texte législatif pris en vertu des alinéas 5(1)a), a.1) ou c), à l’exception d’un texte législatif visé au paragraphe 10(1), le conseil de la première nation :
 - **a)** en fournit une copie à ceux qui ont présenté des observations écrites au titre de l’alinéa 6(3)c);
 - **b)** invite ces derniers à présenter toute autre observation par écrit à la Commission de la fiscalité des premières nations dans les trente jours suivant la date de la réception de cette copie.
+> 2005, ch. 9, art. 7; 2018, ch. 27, art. 387.
+
 
 
 
@@ -240,8 +250,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **8** 
 
 - **(1)** Les renseignements à fournir à la Commission de la fiscalité des premières nations avec la demande d’agrément d’un texte législatif relatif à l’imposition foncière ou d’un texte législatif apportant à celui-ci une modification sont les suivants :
-	- **a)** la désignation des terres, intérêts et droits qui font l’objet du texte législatif;
-	- **b)** les méthodes d’évaluation de chaque catégorie de terres, d’intérêts et de droits qui font l’objet du texte législatif;
+	- **a)** la désignation des terres et des droits ou intérêts qui font l’objet du texte législatif;
+	- **b)** les méthodes d’évaluation de chaque catégorie de terres et de droits ou intérêts qui font l’objet du texte législatif;
 	- **c)** les services à fournir sur les recettes locales ou dont la fourniture est prévue dans les accords de prestation de services actuels ou en cours de négociation au moment de la prise du texte législatif;
 	- **d)** la teneur des préavis transmis et des consultations tenues avant la prise du texte législatif;
 	- **e)** la preuve que le texte législatif a été pris en bonne et due forme par le conseil de la première nation.
@@ -266,7 +276,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** à l’examen d’un texte législatif sur les recettes locales;
 	- **b)** à la prise d’une décision quant à la conformité d’un tel texte avec la présente loi ou les règlements, ou les normes visées au paragraphe 35(1);
 	- **c)** à l’accomplissement de ses autres fonctions.
-> 2005, ch. 9, art. 8; 2015, ch. 36, art. 180.
+> 2005, ch. 9, art. 8; 2015, ch. 36, art. 180; 2018, ch. 27, art. 388 et 414(A).
 
 
 
@@ -309,7 +319,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Admission d’office**
 
 - **(6)** Le texte législatif pris en vertu du paragraphe (1) et agréé par le Conseil de gestion financière des premières nations au titre du paragraphe (2) peut être admis d’office dans toute instance.
-> 2005, ch. 9, art. 9; 2015, ch. 36, art. 181.
+> 2005, ch. 9, art. 9; 2015, ch. 36, art. 181; 2018, ch. 27, art. 414(A).
 
 
 
@@ -328,12 +338,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le conseil de la première nation qui prend un texte législatif relatif à l’imposition foncière exigeant qu’un taux soit fixé chaque année est également tenu de prendre, au moins une fois par an, au plus tard à la date prévue par règlement ou, à défaut, à celle prévue par une norme établie en vertu du paragraphe 35(1), un texte législatif en vertu de l’alinéa 5(1)a) fixant le taux d’imposition applicable à la valeur imposable de chaque catégorie de terres, d’intérêts ou de droits.
+- **(1)** Le conseil de la première nation qui prend un texte législatif relatif à l’imposition foncière exigeant qu’un taux soit fixé chaque année est tenu de prendre également, au moins une fois par an, au plus tard à la date prévue par règlement ou, à défaut, à celle prévue par une norme établie en vertu du paragraphe 35(1), un texte législatif en vertu de l’alinéa 5(1)a) fixant le taux d’imposition applicable à la valeur imposable de chaque catégorie de terres et de droits ou intérêts.
 
 **Textes législatifs visés à l’alinéa 5(1)b)**
 
 - **(2)** Le conseil de la première nation qui prend un texte législatif relatif à l’imposition foncière ou qui prend un texte législatif en vertu de l’alinéa 5(1)a.1) est également tenu de prendre, au moins une fois par an, au plus tard à la date prévue par règlement ou, à défaut, au plus tard à celle prévue par une norme établie en vertu du paragraphe 35(1), un texte législatif en vertu de l’alinéa 5(1)b) établissant le budget relatif aux dépenses sur les recettes locales.
-> 2005, ch. 9, art. 10; 2015, ch. 36, art. 182.
+> 2005, ch. 9, art. 10; 2015, ch. 36, art. 182; 2018, ch. 27, art. 389 et 414(A).
 
 
 
@@ -380,7 +390,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Équilibre budgétaire**
 
 - **(3)** Les dépenses prévues par un texte législatif pris en vertu de l’alinéa 5(1)b) ne peuvent excéder les recettes locales de l’année au cours de laquelle elles doivent être faites, moins le déficit accumulé pour les années antérieures.
-> 2005, ch. 9, art. 13; 2015, ch. 36, art. 184.
+> 2005, ch. 9, art. 13; 2015, ch. 36, art. 184; 2018, ch. 27, art. 414(A).
 
 
 
@@ -391,7 +401,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **13.1** Malgré le paragraphe 13(2), la première nation peut engager des dépenses sur les recettes locales autrement qu’au titre d’un texte législatif pris à cet effet en vertu de l’alinéa 5(1)b) dans les cas suivants :
 - **a)** si aucun texte législatif établissant un budget n’a été pris en vertu de cet alinéa pour l’année au cours de laquelle les dépenses ont été engagées, la première nation prend, après les avoir engagées, un tel texte législatif pour autoriser ces dépenses;
 - **b)** si un texte législatif établissant un budget a été pris en vertu de cet alinéa pour l’année au cours de laquelle les dépenses ont été engagées, la première nation est convaincue que l’engagement des dépenses constitue une mesure d’urgence et elle modifie le texte législatif, dans les meilleurs délais après avoir engagé les dépenses, pour les autoriser.
-> 2015, ch. 36, art. 185.
+> 2015, ch. 36, art. 185; 2018, ch. 27, art. 414(A).
 
 
 
@@ -411,10 +421,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le rapport financier vérifié ou les états financiers annuels vérifiés, selon le cas, sont accessibles :
 	- **a)** aux membres de la première nation;
-	- **b)** aux personnes qui ont un intérêt ou un droit d’occupation, d’usage ou de possession sur les terres de réserve de la première nation;
+	- **b)** aux personnes qui ont un droit ou intérêt sur les terres de réserve de la première nation;
 	- **c)** à la Commission de la fiscalité des premières nations, au Conseil de gestion financière des premières nations et à l’Administration financière des premières nations;
 	- **d)** au ministre.
-> 2005, ch. 9, art. 14; 2015, ch. 36, art. 186.
+> 2005, ch. 9, art. 14; 2015, ch. 36, art. 186; 2018, ch. 27, art. 390 et 414(A).
 
 
 
@@ -423,7 +433,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de certaines dispositions**
 
 **15** Les alinéas 83(1)a) et b) à g) et l’article 84 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ne s’appliquent pas aux premières nations et les règlements pris en vertu de l’alinéa 73(1)m) de cette loi ne s’appliquent pas non plus à celles-ci en ce qui concerne l’emprunt de fonds sous le régime d’un texte législatif pris en vertu de l’alinéa 5(1)d).
-> 2005, ch. 9, art. 15; 2015, ch. 36, art. 187.
+> 2005, ch. 9, art. 15; 2015, ch. 36, art. 187; 2018, ch. 27, art. 414(A).
 
 
 
@@ -461,11 +471,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Capacité juridique**
 
-- **(2)** La Commission a la capacité d’une personne physique; elle peut notamment :
+- **(2)** La Commission a la capacité d’une personne physique et les droits, pouvoirs et privilèges de celle-ci; elle peut notamment :
 	- **a)** conclure des contrats;
-	- **b)** acquérir et détenir des droits ou des intérêts sur des biens, ou en disposer;
+	- **b)** acquérir et détenir des biens ou des droits ou intérêts sur des biens, ou en disposer, ou louer des biens;
 	- **c)** prélever, placer ou emprunter des fonds;
 	- **d)** ester en justice.
+> 2005, ch. 9, art. 17; 2018, ch. 27, art. 391.
+
 
 
 
@@ -517,6 +529,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualités requises**
 
 - **(5)** La Commission est composée de femmes et d’hommes, notamment de membres des premières nations, — provenant de différentes régions du Canada — voués à la mise en oeuvre du régime d’imposition foncière des premières nations et possédant une compétence ou une expérience propre à aider la Commission à remplir sa mission.
+> 2005, ch. 9, art. 20; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -566,11 +580,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **26** 
 
-- **(1)** Le siège de la Commission est situé sur les terres de réserve de la bande Kamloops ou au lieu fixé par le gouverneur en conseil.
+- **(1)** Le siège de la Commission est situé sur les terres de réserve de la bande Tk’emlúps te Secwépemc ou au lieu fixé par le gouverneur en conseil.
 
 **Autre bureau**
 
 - **(2)** La Commission ouvre un autre bureau dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
+> 2005, ch. 9, art. 26; 2018, ch. 27, art. 392.
+
 
 
 
@@ -613,6 +629,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** d’encourager la transparence du régime d’imposition foncière des premières nations de façon à garantir la prévisibilité aux contribuables;
 - **h)** de favoriser la compréhension des régimes d’imposition foncière des premières nations;
 - **i)** de conseiller le ministre quant au développement du cadre dans lequel les textes législatifs sur les recettes locales sont pris.
+> 2005, ch. 9, art. 29; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -624,6 +642,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs**
 
 **30** Dans le cadre de sa mission, la Commission peut s’engager dans des partenariats et entreprises à frais partagés avec des organisations nationales et internationales à des fins de consultation ou de commercialisation en matière de produits ou de services mis au point pour les premières nations qui ont pris des textes législatifs relatifs à l’imposition foncière.
+> 2005, ch. 9, art. 30; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -636,7 +656,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Observations écrites**
 
-- **(2)** Avant d’agréer un texte législatif sur les recettes locales, la Commission prend en compte, en conformité avec les règlements éventuellement pris en vertu de l’alinéa 36(1)b), les observations qui lui sont présentées par les membres de la première nation dans le cadre de l’alinéa 7b) ainsi que par les autres personnes qui ont des intérêts ou des droits d’occupation, de possession ou d’usage sur les terres de réserve de la première nation.
+- **(2)** Avant d’agréer un texte législatif pris en vertu des alinéas 5(1)a), a.1) ou c), à l’exception d’un texte législatif visé au paragraphe 10(1), la Commission prend en compte, en conformité avec les règlements éventuellement pris en vertu de l’alinéa 36(1)b), les observations sur le texte qui lui sont présentées dans le cadre de l’alinéa 7b).
 
 **Agrément**
 
@@ -645,6 +665,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Registre**
 
 - **(4)** La Commission tient un registre de tous les textes législatifs qu’elle agrée en vertu du présent article et de tous les textes législatifs pris en vertu de l’article 9.
+> 2005, ch. 9, art. 31; 2018, ch. 27, art. 393.
+
 
 
 
@@ -653,24 +675,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **32** 
 
-- **(1)** La Commission ne peut agréer un texte législatif pris en vertu de l’alinéa 5(1)d) pour le financement de projets d’infrastructure destinés à la prestation de services locaux sur les terres de réserve que si les conditions suivantes sont réunies :
+- **(1)** La Commission ne peut agréer un texte législatif pris en vertu de l’alinéa 5(1)d) pour le financement d’immobilisations destinées à la prestation de services locaux sur les terres de réserve que si les conditions ci-après sont réunies :
 	- **a)** la première nation lui a transmis le certificat relatif à son rendement financier délivré par le Conseil de gestion financière des premières nations au titre du paragraphe 50(3);
 	- **b)** la première nation n’a pas utilisé la totalité de sa capacité d’emprunt.
 
 **Documents à fournir**
 
-- **(2)** Après avoir agréé un texte législatif pris en vertu de l’alinéa 5(1)d) pour le financement de projets d’infrastructure destinés à la prestation de services locaux sur les terres de réserve, la Commission fournit à l’Administration financière des premières nations :
+- **(2)** Après avoir agréé un texte législatif pris en vertu de l’alinéa 5(1)d) pour le financement d’immobilisations destinées à la prestation de services locaux sur les terres de réserve, la Commission fournit à l’Administration financière des premières nations :
 	- **a)** une copie certifiée du texte législatif enregistré aux termes du paragraphe 31(4);
 	- **b)** un certificat indiquant que le texte législatif remplit les conditions prévues par la présente loi et ses règlements.
 
 **Révision judiciaire**
 
-- **(3)** Si elle apprend qu’un recours en révision judiciaire est exercé à l’égard du texte législatif pris en vertu de l’alinéa 5(1)d) pour le financement de projets d’infrastructure destinés à la prestation de services locaux sur les terres de réserve, la Commission en informe sans délai l’Administration financière des premières nations.
+- **(3)** Si elle apprend qu’un recours en révision judiciaire est exercé à l’égard du texte législatif pris en vertu de l’alinéa 5(1)d) pour le financement d’immobilisations destinées à la prestation de services locaux sur les terres de réserve, la Commission en informe sans délai l’Administration financière des premières nations.
 
 **Preuve**
 
 - **(4)** Le certificat visé à l’alinéa (2)b) fait foi de son contenu en justice, sauf preuve contraire.
-> 2005, ch. 9, art. 32; 2015, ch. 36, art. 188.
+> 2005, ch. 9, art. 32; 2015, ch. 36, art. 188; 2018, ch. 27, art. 394 et 414(A).
 
 
 
@@ -680,7 +702,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **33** 
 
-- **(1)** La Commission procède à un examen conformément aux règlements sur demande écrite d’un membre de la première nation ou d’une personne ayant des intérêts ou des droits d’occupation, de possession ou d’usage sur les terres de réserve qui, à la fois :
+- **(1)** La Commission procède à un examen conformément aux règlements sur demande écrite d’un membre de la première nation ou d’une personne ayant des droits ou intérêts sur les terres de réserve qui, à la fois :
 	- **a)** est d’avis que la première nation n’a pas observé la présente partie ou la partie 1, ou les règlements pris en vertu de ces parties ou des articles 141 ou 142 ou qu’un texte législatif a été mal ou injustement appliqué;
 	- **b)** a demandé au conseil de la première nation de rectifier la situation;
 	- **c)** est d’avis que celui-ci n’a pas rectifié la situation.
@@ -694,6 +716,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Si, à l’issue de son examen, elle estime qu’une première nation n’a pas observé la présente partie ou la partie 1, ou les règlements pris en vertu de ces parties ou des articles 141 ou 142 ou qu’un texte législatif a été mal ou injustement appliqué, la Commission :
 	- **a)** ordonne à la première nation de prendre les mesures nécessaires pour rectifier la situation;
 	- **b)** peut, si la première nation ne prend pas les mesures dans le délai imparti, exiger, par avis écrit, du Conseil de gestion financière des premières nations soit qu’il impose à la première nation un arrangement de cogestion avec lui, soit qu’il prenne en charge la gestion des recettes locales de la première nation afin de rectifier la situation.
+> 2005, ch. 9, art. 33; 2018, ch. 27, art. 395 et 414(A).
+
 
 
 
@@ -722,7 +746,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** La Commission peut établir des normes, dans la mesure où elles ne sont pas incompatibles avec les règlements, en ce qui concerne :
 	- **a)** la forme et le contenu des textes législatifs sur les recettes locales;
 	- **b)** les mesures de contrôle d’application à inclure dans ces textes législatifs;
-	- **c)** les critères applicables à l’agrément des textes législatifs pris en vertu de l’alinéa 5(1)d);
+	- **c)** les critères applicables à l’agrément des textes législatifs pris en vertu des alinéas 5(1)d) ou f);
+	- **c.01)** les critères applicables à l’agrément des textes législatifs sur les recettes locales relatifs à des terres de réserve mises de côté à l’usage et au profit de plusieurs premières nations, notamment des critères relatifs à la conclusion d’accords concernant l’application de ces textes législatifs et des critères relatifs à ces accords;
 	- **c.1)** les préavis relatifs aux textes législatifs sur les recettes locales, notamment les délais applicables à ces préavis;
 	- **d)** la forme dans laquelle les renseignements visés à l’article 8 doivent lui être fournis;
 	- **e)** la date à laquelle le conseil de la première nation est tenu de prendre, au plus tard, les textes législatifs visés à l’article 10.
@@ -733,12 +758,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la présentation pour agrément des textes législatifs sur les recettes locales;
 	- **b)** l’agrément de ces textes législatifs;
 	- **c)** la prise en compte des intérêts des contribuables dans ses décisions;
-	- **d)** le règlement des différends avec les premières nations quant à l’imposition des intérêts et des droits sur les terres de réserve.
+	- **d)** le règlement des différends avec les premières nations quant à l’imposition des droits ou intérêts sur les terres de réserve.
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux normes établies en vertu du paragraphe (1) ni à la procédure établie en vertu du paragraphe (2).
-> 2005, ch. 9, art. 35; 2015, ch. 36, art. 189.
+> 2005, ch. 9, art. 35; 2015, ch. 36, art. 189; 2018, ch. 27, art. 396 et 414(A).
 
 
 
@@ -780,7 +805,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas d’incompatibilité**
 
 - **(4)** Les dispositions de tout règlement pris en vertu du paragraphe (1) l’emportent sur les dispositions incompatibles d’un texte législatif pris en vertu du paragraphe 5(1).
-> 2005, ch. 9, art. 36; 2015, ch. 36, art. 190.
+> 2005, ch. 9, art. 36; 2015, ch. 36, art. 190; 2018, ch. 27, art. 414(A).
 
 
 
@@ -814,12 +839,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Capacité juridique**
 
-- **(2)** Le Conseil a la capacité d’une personne physique; il peut notamment :
+- **(2)** Le Conseil a la capacité d’une personne physique et les droits, pouvoirs et privilèges de celle-ci; il peut notamment :
 	- **a)** conclure des contrats;
-	- **b)** acquérir et détenir des droits ou des intérêts sur des biens, ou en disposer;
+	- **b)** acquérir et détenir des biens ou des droits ou intérêts sur des biens, ou en disposer, ou louer des biens;
 	- **c)** prélever, placer ou emprunter des fonds;
 	- **d)** ester en justice.
-> 2005, ch. 9, art. 38; 2010, ch. 12, art. 1733.
+> 2005, ch. 9, art. 38; 2010, ch. 12, art. 1733; 2018, ch. 27, art. 397.
 
 
 
@@ -856,7 +881,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualités requises**
 
 - **(4)** Le conseil d’administration est composé de femmes et d’hommes, notamment de membres des premières nations, — provenant de différentes régions du Canada — voués au développement de la gestion financière des premières nations et possédant une compétence ou une expérience propre à aider le Conseil à remplir sa mission.
-> 2005, ch. 9, art. 41; 2010, ch. 12, art. 1734; 2017, ch. 26, art. 50.
+> 2005, ch. 9, art. 41; 2010, ch. 12, art. 1734; 2017, ch. 26, art. 50; 2018, ch. 27, art. 414(A).
 
 
 
@@ -947,6 +972,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** de fournir des services de surveillance en matière de gestion et de rendement financiers des premières nations;
 - **h)** de fournir des services de cogestion et de gestion des recettes locales;
 - **i)** de fournir des services de recherche en matière d’orientations, des services d’examen et d’évaluation ainsi que des conseils concernant l’élaboration des arrangements fiscaux entre les premières nations et les autres autorités administratives.
+> 2005, ch. 9, art. 49; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -989,7 +1016,47 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caractère définitif**
 
 - **(7)** La décision du Conseil prise dans le cadre du présent article est définitive et sans appel.
-> 2005, ch. 9, art. 50; 2015, ch. 36, art. 191.
+> 2005, ch. 9, art. 50; 2015, ch. 36, art. 191; 2018, ch. 27, art. 414(A).
+
+
+
+
+
+**Examen des méthodes — entités non énumérées à l’annexe**
+
+**50.1** 
+
+- **(1)** Le Conseil peut, sur demande de l’une des entités ci-après, procéder à l’examen du régime de gestion financière ou du rendement financier de celle-ci, ou de l’un des textes législatifs ou règlements administratifs sur la gestion financière pris par elle, pour décider s’il est conforme, à tous égards importants, aux normes établies en vertu du paragraphe (3) :
+	- **a)** une bande dont le nom ne figure pas à l’annexe;
+	- **b)** un conseil tribal;
+	- **c)** un groupe autochtone qui est partie à un traité, à un accord sur des revendications territoriales ou à un accord sur l’autonomie gouvernementale avec le Canada ou une province, ou une entité constituée sous le régime d’un tel traité ou accord ou en conséquence de celui-ci;
+	- **d)** une entité — qui est contrôlée par une ou plusieurs premières nations ou entités visées aux alinéas a), b) ou c) ou qui leur appartient — dont la mission première est de promouvoir le bien-être ou l’épanouissement des Autochtones;
+	- **e)** une organisation sans but lucratif établie pour fournir des services publics — notamment en matière de protection sociale, de logement, d’activités récréatives ou culturelles, de santé ou d’éducation — à des groupes autochtones ou à des Autochtones.
+
+**Rapport**
+
+- **(2)** À l’issue de son examen, le Conseil présente à l’entité un rapport où il expose :
+	- **a)** l’étendue de son examen;
+	- **b)** son avis indiquant si l’entité se conforme, à tous égards importants, aux normes ou, à défaut, les éléments non respectés.
+
+**Normes**
+
+- **(3)** Le Conseil peut établir des normes, dans la mesure où elles ne sont pas incompatibles avec les règlements, en ce qui concerne :
+	- **a)** le régime de gestion financière et le rendement financier des entités visées au paragraphe (1);
+	- **b)** la forme et le contenu des textes législatifs ou règlements administratifs sur la gestion financière pris par ces entités.
+
+**Procédure**
+
+- **(4)** Le Conseil peut établir la procédure applicable à l’examen visé au paragraphe (1).
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(5)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux normes établies en vertu du paragraphe (3) ni à la procédure établie en vertu du paragraphe (4).
+
+**Gazette des premières nations**
+
+- **(6)** Les normes établies en vertu du paragraphe (3) sont publiées dans la Gazette des premières nations.
+> 2018, ch. 27, art. 398.
 
 
 
@@ -998,6 +1065,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intervention requise**
 
 **51** Sur réception de l’avis visé à l’alinéa 33(3)b) ou au paragraphe 86(4), le Conseil doit soit exiger de la première nation qu’elle conclue avec lui un arrangement de cogestion en conformité avec l’article 52, soit prendre en charge la gestion des recettes locales en conformité avec l’article 53.
+> 2005, ch. 9, art. 51; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -1035,6 +1104,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(5)** Le Conseil avise l’Administration financière des premières nations et la Commission de la fiscalité des premières nations de la mise en oeuvre d’un arrangement de cogestion ou de la cessation de celui-ci.
+> 2005, ch. 9, art. 52; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -1052,11 +1123,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** S’il prend en charge une telle gestion, le Conseil a le pouvoir exclusif :
 	- **a)** sous réserve du paragraphe (3), d’agir à la place du conseil de la première nation pour prendre des textes législatifs en vertu des alinéas 5(1)a) à f) et du paragraphe 9(1);
-	- **b)** d’agir à la place du conseil de la première nation sous le régime des textes législatifs pris en vertu des alinéas 5(1)a) à e) et de gérer le compte de recettes locales, y compris emprunter les fonds nécessaires;
-	- **b.1)** d’agir à la place du conseil de la première nation pour remplir les attributions et les obligations de celui-ci prévues par un texte législatif relatif à l’imposition foncière ou par la présente loi;
-	- **c)** de prévoir la mise en oeuvre de programmes et la fourniture de services financés par les recettes locales;
-	- **d)** de céder des droits ou des intérêts en application du paragraphe 5(7);
-	- **e)** d’exercer tout pouvoir qui lui est délégué par un texte législatif de la première nation ou par un accord entre la première nation et lui ou entre la première nation et l’Administration financière des premières nations.
+	- **b)** d’agir à la place du conseil de la première nation pour :
+		- **(i)** exercer les attributions de celui-ci prévues par la présente loi ou ses règlements ou par un texte législatif pris en vertu des alinéas 5(1)a) à e),
+		- **(ii)** gérer les recettes locales, notamment le compte de recettes locales, de la première nation,
+		- **(iii)** emprunter les fonds nécessaires pour remédier à la situation pour laquelle la gestion a été exigée,
+		- **(iv)** prévoir la mise en oeuvre de programmes et la fourniture de services financés par les recettes locales, gérer les actifs liés à ces programmes et services et conclure ou résilier des accords concernant ces programmes, services et actifs;
+	- **b.1)** [Abrogé, 2018, ch. 27, art. 399]
+	- **c)** de céder des droits ou intérêts en vertu du paragraphe 5(7);
+	- **d)** d’exercer toute attribution qui lui est déléguée par un texte législatif de la première nation ou par un accord entre la première nation et lui ou entre la première nation et l’Administration financière des premières nations.
+	- **e)** [Abrogé, 2018, ch. 27, art. 399]
 
 **Délégation : consentement du conseil de la première nation requis**
 
@@ -1084,7 +1159,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(8)** Le Conseil avise l’Administration financière des premières nations et la Commission de la fiscalité des premières nations de la prise en charge de la gestion et de la fin de celle-ci.
-> 2005, ch. 9, art. 53; 2015, ch. 36, art. 192.
+> 2005, ch. 9, art. 53; 2015, ch. 36, art. 192; 2018, ch. 27, art. 399 et 414(A).
 
 
 
@@ -1093,6 +1168,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renseignements requis**
 
 **54** La première nation qui a pris un texte législatif sur les recettes locales fournit au Conseil, sur demande, les renseignements concernant son régime de gestion financière et son rendement financier dont celui-ci a besoin pour prendre une décision concernant la cogestion ou la gestion prise en charge par le Conseil.
+> 2005, ch. 9, art. 54; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -1125,6 +1202,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Gazette des premières nations**
 
 - **(4)** Les textes législatifs en matière de gestion financière agréés par le Conseil et les normes établies en vertu du paragraphe (1) sont publiés dans la Gazette des premières nations.
+> 2005, ch. 9, art. 55; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -1138,6 +1217,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **56** Le gouverneur en conseil peut, par règlement, sur recommandation du ministre et après que celui-ci a pris en compte les observations du Conseil à cet égard :
 - **a)** régir la mise en oeuvre d’un arrangement de cogestion ou de la gestion des recettes locales par le Conseil, notamment l’obligation des premières nations de fournir l’accès aux documents comptables;
 - **b)** fixer les droits que peut imposer le Conseil relativement à la prestation de services, notamment les droits imposés aux premières nations pour les services de cogestion et de gestion des recettes locales par le Conseil, ainsi que les modalités de leur recouvrement.
+> 2005, ch. 9, art. 56; 2018, ch. 27, art. 414(A).
+
+
+
+
+
+**Règlements**
+
+**56.1** Le gouverneur en conseil peut, afin de donner à une entité visée à l’un des alinéas 50.1(1)a) à e) la possibilité d’obtenir les services du Conseil — autres que des services de cogestion et de gestion des recettes locales —, prendre les règlements qu’il estime nécessaires, et notamment :
+- **a)** adapter toute disposition de la présente loi ou de ses règlements;
+- **b)** restreindre l’application de toute disposition de la présente loi ou de ses règlements.
+> 2018, ch. 27, art. 400.
+
 
 
 
@@ -1170,7 +1262,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***représentant*** S’agissant d’une première nation qui a la qualité de membre, chef ou conseiller de la première nation désigné comme représentant par résolution du conseil de celle-ci. (*representative*)
 
 ***titre*** Titre émis par l’Administration en vertu de l’alinéa 75(1)b). (*security*)
-> 2005, ch. 9, art. 57; 2015, ch. 36, art. 193.
+> 2005, ch. 9, art. 57; 2015, ch. 36, art. 193; 2018, ch. 27, art. 414(A).
 
 
 
@@ -1213,17 +1305,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **61** 
 
-- **(1)** L’Administration est dirigée par un conseil d’administration composé de cinq à onze administrateurs, dont le président et le vice-président.
+- **(1)** L’Administration est dirigée par un conseil d’administration composé de cinq à onze administrateurs, dont le président et le vice-président, choisis parmi les représentants des membres emprunteurs.
 
 **Mise en candidature**
 
-- **(2)** Tout représentant d’un membre emprunteur peut proposer :
-	- **a)** la candidature d’un représentant d’un membre emprunteur à l’élection des postes de président ou de vice-président;
-	- **b)** la candidature de tout représentant à l’élection d’un poste d’administrateur autre que les postes de président ou de vice-président.
+- **(2)** Tout représentant d’un membre emprunteur peut proposer la candidature d’un représentant d’un membre emprunteur à l’élection des postes de président ou de vice-président ou d’un poste d’administrateur autre que ces postes.
 
 **Élection des administrateurs**
 
 - **(3)** Les administrateurs sont élus par les représentants des membres emprunteurs.
+> 2005, ch. 9, art. 61; 2018, ch. 27, art. 401.
+
 
 
 
@@ -1248,9 +1340,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fin du mandat**
 
 - **(3)** L’administrateur cesse d’occuper son poste dans l’une ou l’autre des situations suivantes :
-	- **a)** il cesse d’être chef ou conseiller d’une première nation qui est un membre emprunteur ou un membre investisseur;
+	- **a)** il cesse d’être chef ou conseiller d’une première nation qui est un membre emprunteur;
 	- **b)** sa désignation comme représentant est révoquée par résolution du conseil de la première nation;
 	- **c)** il est révoqué avant l’expiration de son mandat par résolution extraordinaire du conseil d’administration.
+> 2005, ch. 9, art. 63; 2018, ch. 27, art. 402.
+
 
 
 
@@ -1390,13 +1484,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **74** L’Administration a pour mission :
 - **a)** de trouver pour ses membres emprunteurs, par l’utilisation de recettes fiscales foncières :
-	- **(i)** du financement à long terme pour les infrastructures destinées à la prestation de services locaux sur les terres de réserve,
-	- **(ii)** du financement-location d’immobilisations pour la prestation de services locaux sur les terres de réserve,
+	- **(i)** du financement à long terme ou du financement-location pour les immobilisations destinées à la prestation de services locaux sur les terres de réserve,
+	- **(ii)** [Abrogé, 2018, ch. 27, art. 403]
 	- **(iii)** du financement à court terme pour couvrir les besoins de flux de trésorerie prévus aux textes législatifs pris en vertu de l’alinéa 5(1)b) ou pour refinancer une dette à court terme à des fins d’immobilisation;
 - **b)** de trouver pour ses membres emprunteurs, par l’utilisation d’autres recettes réglementaires, du financement à toute fin prévue par règlement;
 - **c)** de trouver les meilleures conditions possibles de crédit pour ses membres emprunteurs;
-- **d)** de fournir des services de placement à ses membres et aux organismes des premières nations;
+- **d)** de fournir des services de placement aux premières nations et à toute entité visée à l’un des alinéas 50.1(1)a) à e);
 - **e)** de donner des conseils sur l’élaboration par les premières nations de mécanismes de financement à long terme.
+> 2005, ch. 9, art. 74; 2018, ch. 27, art. 403 et 414(A).
+
 
 
 
@@ -1464,7 +1560,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères**
 
 - **(2)** L’Administration ne peut accepter une première nation comme membre emprunteur que si le Conseil de gestion financière des premières nations lui a délivré le certificat relatif à son rendement financier prévu au paragraphe 50(3) et ne l’a pas révoqué.
-> 2005, ch. 9, art. 76; 2015, ch. 36, art. 194.
+> 2005, ch. 9, art. 76; 2015, ch. 36, art. 194; 2018, ch. 27, art. 414(A).
 
 
 
@@ -1479,7 +1575,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Perte de la qualité de membre emprunteur**
 
 - **(2)** La première nation qui a obtenu du financement garanti par d’autres recettes ne peut perdre la qualité de membre emprunteur qu’avec le consentement de tous les autres membres emprunteurs ayant obtenu du financement garanti par ces autres recettes.
-> 2005, ch. 9, art. 77; 2015, ch. 36, art. 195.
+> 2005, ch. 9, art. 77; 2015, ch. 36, art. 195; 2018, ch. 27, art. 414(A).
 
 
 
@@ -1489,21 +1585,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **78** 
 
-- **(1)** L’Administration a priorité sur tous les autres créanciers d’une première nation insolvable pour les sommes dont le versement à l’Administration est autorisé par un texte législatif pris en vertu des alinéas 5(1)b) ou d), par un accord régissant un compte de recettes en fiducie garanti ou par la présente loi, en ce qui concerne toute créance qui prend naissance à la date à laquelle la première nation reçoit le versement initial du premier prêt qu’elle a obtenu auprès de l’Administration ou après cette date.
+- **(1)** L’Administration a priorité sur tous les autres créanciers d’une première nation insolvable pour les sommes dont le versement à l’Administration est autorisé par un texte législatif pris en vertu des alinéas 5(1)b) ou d), par un accord régissant un compte de recettes garanties en fiducie ou en fidéicommis ou par la présente loi, en ce qui concerne toute créance qui prend naissance à la date à laquelle la première nation reçoit le versement initial du premier prêt qu’elle a obtenu auprès de l’Administration ou après cette date.
 
 **Dettes envers Sa Majesté**
 
 - **(2)** Il est entendu que le paragraphe (1) ne s’applique pas à Sa Majesté.
-> 2005, ch. 9, art. 78; 2015, ch. 36, art. 196.
+> 2005, ch. 9, art. 78; 2015, ch. 36, art. 196; 2018, ch. 27, art. 404 et 414(A).
 
 
 
 
 
-**Infrastructures : restrictions relatives aux prêts**
+**Restrictions relatives aux prêts**
 
-**79** L’Administration ne peut consentir à un membre emprunteur un prêt à long terme dont l’objet est lié à un projet d’infrastructure destiné à la prestation de services locaux sur les terres de réserve que si la Commission de la fiscalité des premières nations a agréé un texte législatif du membre emprunteur pris en vertu de l’alinéa 5(1)d).
-> 2005, ch. 9, art. 79; 2015, ch. 36, art. 197.
+**79** L’Administration ne peut consentir à un membre emprunteur un prêt à long terme dont l’objet est lié au financement d’immobilisations destinées à la prestation de services locaux sur les terres de réserve que si la Commission de la fiscalité des premières nations a agréé un texte législatif du membre emprunteur pris en vertu de l’alinéa 5(1)d).
+> 2005, ch. 9, art. 79; 2015, ch. 36, art. 197; 2018, ch. 27, art. 405.
 
 
 
@@ -1591,15 +1687,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Responsabilité**
 
 - **(5)** Les règles ci-après s’appliquent si les paiements effectués sur un fonds de réserve réduisent son solde :
-	- **a)** si la réduction est de moins de cinquante pour cent des sommes versées par les membres emprunteurs ayant obtenu d’elle du financement pour lequel est établi le fonds, l’Administration peut, conformément aux règlements, exiger de ces derniers qu’ils versent les sommes suffisantes pour renflouer le fonds;
-	- **b)** si la réduction est de cinquante pour cent ou plus des sommes versées par les membres emprunteurs ayant obtenu d’elle du financement pour lequel est établi le fonds :
-		- **(i)** l’Administration est tenue, conformément aux règlements, d’exiger de ces derniers qu’ils versent sans délai les sommes suffisantes pour renflouer le fonds,
-		- **(ii)** les membres emprunteurs ayant obtenu du financement pour lequel est établi le fonds de réserve visé à l’alinéa (1)a), le cas échéant, recouvrent les sommes au moyen de leur texte législatif relatif à l’imposition foncière.
+	- **a)** si la réduction est de moins de cinquante pour cent des sommes versées par les membres emprunteurs ayant obtenu d’elle du financement pour lequel est établi le fonds, l’Administration peut, conformément aux règlements, exiger de ces derniers qu’ils versent sans délai les sommes suffisantes pour renflouer le fonds;
+	- **b)** si la réduction est de cinquante pour cent ou plus des sommes versées par les membres emprunteurs ayant obtenu d’elle du financement pour lequel est établi le fonds, l’Administration est tenue, conformément aux règlements, d’exiger de ces derniers qu’ils versent sans délai les sommes suffisantes pour renflouer le fonds.
 
 **Remboursement**
 
 - **(6)** L’Administration rembourse au membre emprunteur les sommes qu’il a versées à un fonds de réserve, ainsi que les revenus de placement de celles-ci, qui ne lui ont pas été remboursés lorsque toutes les obligations relatives au titre pour lequel les sommes ont été versées ont été remplies.
-> 2005, ch. 9, art. 84; 2015, ch. 36, art. 199.
+> 2005, ch. 9, art. 84; 2015, ch. 36, art. 199; 2018, ch. 27, art. 406.
 
 
 
@@ -1658,6 +1752,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** L’Administration peut exiger du Conseil de gestion financière des premières nations, par avis écrit, soit qu’il impose un arrangement de cogestion des recettes locales au membre emprunteur, soit qu’il prenne en charge la gestion de celles-ci, dans l’un ou l’autre des cas suivants :
 	- **a)** le membre emprunteur omet de faire à l’Administration un paiement prévu par un accord d’emprunt conclu avec celle-ci, ou de payer les frais qu’elle lui impose en vertu de la présente partie;
 	- **b)** elle reçoit l’avis et la recommandation du Conseil prévus au paragraphe (3).
+> 2005, ch. 9, art. 86; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -1707,39 +1803,123 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **89** Le gouverneur en conseil peut, par règlement, sur recommandation du ministre, qui aura consulté l’Administration :
 - **a)** prendre les mesures d’ordre réglementaire prévues par le paragraphe 82(1) et les alinéas 85(3)c) et (4)b) et 87(2)f);
 - **b)** fixer un pourcentage, relativement à la somme à retenir sur un prêt visé au paragraphe 84(2), qui peut être inférieur ou supérieur à celui prévu à ce paragraphe et peut varier selon qu’il s’agisse d’un prêt garanti par les recettes fiscales foncières ou par d’autres recettes;
-- **c)** régir l’imposition de droits au titre du paragraphe 84(5), notamment le mode de calcul de ceux-ci et la part qui doit être supportée par chaque membre emprunteur;
-- **d)** étendre l’application des dispositions de la présente partie, avec les adaptations nécessaires, à des organisations sans but lucratif établies pour fournir des services en matière de protection sociale, de logement ou d’activités récréatives ou culturelles aux premières nations ou à leurs membres sur les terres de réserve.
-> 2005, ch. 9, art. 89; 2015, ch. 36, art. 201.
+- **c)** régir l’imposition de droits au titre du paragraphe 84(5), notamment le mode de calcul de ceux-ci et la part qui doit être supportée par chaque membre emprunteur.
+- **d)** [Abrogé, 2018, ch. 27, art. 407]
+> 2005, ch. 9, art. 89; 2015, ch. 36, art. 201; 2018, ch. 27, art. 407.
 
 
 
 
 
 **PARTIE 5** 
-## [Abrogée, 2012, ch. 19, art. 660]
-
-
-**90** [Abrogé, 2012, ch. 19, art. 660]
+## Versement de fonds
 
 
 
-**91** [Abrogé, 2012, ch. 19, art. 660]
+**Résolution du conseil**
+
+**90** 
+
+- **(1)** Le conseil de la première nation peut, par présentation d’une résolution au ministre, demander le versement à la première nation, à la fois :
+	- **a)** des fonds détenus par Sa Majesté à l’usage et au profit de la première nation;
+	- **b)** des fonds qui seront par la suite perçus ou reçus par Sa Majesté à l’usage et au profit de la première nation.
+
+**Preuve jointe à la résolution**
+
+- **(2)** Le conseil de la première nation joint à la résolution qu’il présente au ministre une preuve du fait que, à la fois :
+	- **a)** il a pris un texte législatif sur la gestion financière de la première nation en vertu de l’alinéa 9(1)a) et le texte a été agréé par le Conseil de gestion financière des premières nations;
+	- **b)** il a obtenu des avis juridique et financier indépendants au sujet des risques associés au versement des fonds à la première nation;
+	- **c)** le versement des fonds à la première nation a été approuvé au titre de l’article 91.
+> 2005, ch. 9, art. 90; 2012, ch. 19, art. 660; 2018, ch. 27, art. 408.
 
 
 
-**92** [Abrogé, 2012, ch. 19, art. 660]
+
+
+**Approbation des membres**
+
+**91** 
+
+- **(1)** S’il a l’intention de demander le versement des fonds visés au paragraphe 90(1), le conseil de la première nation procède à la tenue d’un vote des électeurs admissibles pour faire approuver ce versement.
+
+**Électeurs admissibles**
+
+- **(2)** Est électeur admissible tout membre de la première nation âgé d’au moins dix-huit ans à la date du vote, qu’il réside ou non dans une réserve de celle-ci.
+
+**Avis juridiques et financiers**
+
+- **(3)** Le conseil est tenu, avant de procéder à la tenue du vote, d’obtenir des avis juridique et financier indépendants au sujet des risques associés au versement des fonds à la première nation.
+
+**Devoir d’information**
+
+- **(4)** Il est également tenu, avant de procéder à la tenue du vote, de prendre les mesures utiles conformes aux usages de la première nation pour informer les électeurs admissibles :
+	- **a)** de leur droit de vote et des modalités d’exercice de ce droit;
+	- **b)** du fait qu’il a obtenu les avis juridique et financier prévus au paragraphe (3);
+	- **c)** des incidences du versement des fonds et des raisons pour lesquelles celui-ci est à l’avantage de la première nation;
+	- **d)** du fait qu’il a pris un texte législatif sur la gestion financière de la première nation en vertu de l’alinéa 9(1)a).
+
+**Approbation par la majorité**
+
+- **(5)** Le versement des fonds à la première nation est tenu pour approuvé s’il reçoit l’appui de la majorité des voix exprimées lors du scrutin.
+
+**Participation minimale**
+
+- **(6)** Cependant, l’approbation du versement n’est valide que si au moins vingt-cinq pour cent des électeurs admissibles participent effectivement au scrutin.
+
+**Pourcentage supérieur**
+
+- **(7)** Le conseil peut, par résolution adoptée avant le vote, fixer un pourcentage supérieur à celui prévu au paragraphe (6).
+> 2005, ch. 9, art. 91; 2012, ch. 19, art. 660; 2018, ch. 27, art. 408.
 
 
 
-**93** [Abrogé, 2012, ch. 19, art. 660]
+
+
+**Versement initial**
+
+**92** 
+
+- **(1)** Après la présentation au ministre d’une résolution par le conseil de la première nation au titre du paragraphe 90(1), les fonds détenus par Sa Majesté à l’usage et au profit de la première nation sont versés à celle-ci sur le Trésor si le ministre est convaincu, à la fois :
+	- **a)** que le conseil a pris un texte législatif sur la gestion financière de la première nation en vertu de l’alinéa 9(1)a) et que le texte a été agréé par le Conseil de gestion financière des premières nations;
+	- **b)** que le conseil a obtenu des avis juridique et financier indépendants au sujet des risques associés au versement des fonds à la première nation;
+	- **c)** que le versement des fonds à la première nation a été approuvé au titre de l’article 91.
+
+**Fonds perçus après le versement initial**
+
+- **(2)** Après le versement prévu au paragraphe (1), les fonds perçus et reçus par la suite par Sa Majesté à l’usage et au profit de la première nation sont versés à celle-ci sur le Trésor.
+
+**Cessation d’application du paragraphe (2)**
+
+- **(3)** Le paragraphe (2) cesse de s’appliquer si le texte législatif visé à l’alinéa (1)a) est abrogé et que, au moment de son abrogation, il n’est pas simultanément remplacé par un autre texte législatif sur la gestion financière de la première nation pris en vertu de l’alinéa 9(1)a) qui a été approuvé par le Conseil de gestion financière des premières nations.
+> 2005, ch. 9, art. 92; 2012, ch. 19, art. 660; 2018, ch. 27, art. 408.
 
 
 
-**94** [Abrogé, 2012, ch. 19, art. 660]
+
+
+**Gestion ultérieure**
+
+**93** Une fois le versement de fonds effectué en application de l’article 92, Sa Majesté n’est pas responsable en ce qui touche la gestion de ces fonds.
+> 2005, ch. 9, art. 93; 2012, ch. 19, art. 660; 2018, ch. 27, art. 408.
 
 
 
-**95** [Abrogé, 2012, ch. 19, art. 660]
+
+
+**Responsabilité pour les actes passés**
+
+**94** La présente loi n’a aucun effet sur la responsabilité de Sa Majesté ou de la première nation pour tout acte ou toute omission en ce qui a trait aux fonds survenus avant le versement visé à l’article 93.
+> 2005, ch. 9, art. 94; 2010, ch. 12, art. 1735; 2012, ch. 19, art. 660; 2018, ch. 27, art. 408.
+
+
+
+
+
+**[Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
+
+**95** Les articles 61 à 69 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ne s’appliquent pas aux fonds versés à la première nation en application de l’article 92.
+> 2005, ch. 9, art. 95; 2012, ch. 19, art. 660; 2018, ch. 27, art. 408.
+
 
 
 
@@ -2027,6 +2207,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation d’obtenir les renseignements**
 
 - **(2)** S’ils n’ont pas les renseignements et éclaircissements, les commissaires ou conseillers d’une institution doivent, à la demande du vérificateur ou de l’examinateur, les obtenir et les lui remettre.
+> 2005, ch. 9, art. 125; 2018, ch. 27, art. 409(A).
+
 
 
 
@@ -2180,10 +2362,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Limite de responsabilité**
+**Limite de responsabilité — commissaires, conseillers, employés, etc.**
 
-**136** Les commissaires ou les employés de la Commission de la fiscalité des premières nations ou les conseillers ou les employés du Conseil de gestion financière des premières nations bénéficient de l’immunité en matière civile pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice effectif ou censé tel des attributions qui leur sont conférées en vertu de la présente loi.
-> 2005, ch. 9, art. 136; 2012, ch. 19, art. 663.
+**136** Les commissaires ou les employés de la Commission de la fiscalité des premières nations, les conseillers ou les employés du Conseil de gestion financière des premières nations ou les personnes agissant au nom de la Commission de la fiscalité des premières nations ou du Conseil de gestion financière des premières nations bénéficient de l’immunité en matière civile pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice effectif ou censé tel des attributions qui leur sont conférées en vertu de la présente loi ou de ses règlements.
+> 2005, ch. 9, art. 136; 2012, ch. 19, art. 663; 2018, ch. 27, art. 410.
+
+
+
+
+
+**Limite de responsabilité — arrangement de cogestion et gestion par le Conseil**
+
+**136.1** Par dérogation au droit fédéral et provincial, s’il exige d’une première nation qu’elle conclue avec lui un arrangement de cogestion en conformité avec l’article 52 ou s’il prend en charge la gestion des recettes locales d’une première nation en conformité avec l’article 53, le Conseil de gestion financière des premières nations n’est pas de ce seul fait responsable des obligations de la première nation. Il en est de même pour ses conseillers et employés et les personnes agissant en son nom.
+> 2018, ch. 27, art. 410.
+
+
+
+
+
+**Limites de responsabilité — frais**
+
+**136.2** Les conseillers et les employés du Conseil de gestion financière des premières nations et les personnes agissant au nom de celui-ci ne sont pas personnellement responsables :
+- **a)** des frais adjugés dans le cadre d’une poursuite civile intentée contre un ou plusieurs d’entre eux pour les faits — actes ou omissions — accomplis dans l’exercice effectif ou censé tel des attributions qui leur sont conférées ou qui sont conférées au Conseil en vertu de la présente loi ou de ses règlements, à moins que le tribunal n’en décide autrement;
+- **b)** des frais adjugés contre le Conseil dans le cadre d’une poursuite civile.
+> 2018, ch. 27, art. 410.
 
 
 
@@ -2192,6 +2394,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limite de responsabilité**
 
 **137** Les membres du conseil d’une première nation et les employés de celle-ci bénéficient de l’immunité en matière civile pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice effectif ou censé tel des attributions qui leur sont conférées en vertu de la présente loi, de ses règlements d’application ou d’un texte législatif pris par le conseil d’une première nation en vertu de la présente loi.
+> 2005, ch. 9, art. 137; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -2205,6 +2409,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Primauté**
 
 - **(2)** Les dispositions de tout texte législatif pris en vertu de la présente loi l’emportent sur les dispositions incompatibles d’un texte législatif, à l’exception d’un code, d’une première nation pris en vertu d’une autre loi fédérale.
+> 2005, ch. 9, art. 138; 2018, ch. 27, art. 414(A).
+
 
 
 
@@ -2241,9 +2447,41 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**141** Le gouverneur en conseil peut, afin de donner à tout groupe autochtone qui n’est pas une bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) mais qui est partie à un traité, à un accord sur des revendications territoriales ou à un accord sur l’autonomie gouvernementale avec le Canada la possibilité de profiter des dispositions de la présente loi ou d’obtenir les services d’un organisme constitué par la présente loi, prendre les règlements qu’il estime nécessaires, et notamment :
+**141** 
+
+- **(1)** Le gouverneur en conseil peut, afin de donner à tout groupe autochtone qui n’est pas une bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) mais qui est partie à un traité, à un accord sur des revendications territoriales ou à un accord sur l’autonomie gouvernementale avec le Canada la possibilité de profiter des dispositions de la présente loi ou d’obtenir les services d’un organisme constitué par la présente loi, prendre les règlements qu’il estime nécessaires, et notamment :
+	- **a)** adapter toute disposition de la présente loi ou de ses règlements;
+	- **b)** restreindre l’application de toute disposition de la présente loi ou de ses règlements.
+
+**Modification des annexes des règlements**
+
+- **(2)** Si un règlement pris en vertu du paragraphe (1) comprend une annexe énumérant les groupes autochtones assujettis au règlement, le ministre peut, par arrêté, modifier l’annexe, à la demande du corps dirigeant d’un groupe autochtone visé à ce paragraphe, pour :
+	- **a)** ajouter ou changer le nom du groupe autochtone;
+	- **b)** retrancher le nom du groupe, pourvu que toutes les sommes dues par celui-ci à l’Administration financière des premières nations aient été payées.
+> 2005, ch. 9, art. 141; 2018, ch. 27, art. 411 et 413(A).
+
+
+
+
+
+**Règlements — organisations visées à l’alinéa 50.1(1)e)**
+
+**141.1** Le gouverneur en conseil peut, afin de donner à une organisation visée à l’alinéa 50.1(1)e) la possibilité de profiter des dispositions de la présente loi, autres que celles des parties 1, 2 et 5, ou d’obtenir les services du Conseil de gestion financière des premières nations ou de l’Administration financière des premières nations, prendre les règlements qu’il estime nécessaires, et notamment :
 - **a)** adapter toute disposition de la présente loi ou de ses règlements;
 - **b)** restreindre l’application de toute disposition de la présente loi ou de ses règlements.
+> 2018, ch. 27, art. 412.
+
+
+
+
+
+**Règlements — terres de réserve mises de côté à l’usage et au profit de plusieurs premières nations**
+
+**141.2** Le gouverneur en conseil peut, afin de donner à une première nation la possibilité de profiter des dispositions de la présente loi, ou d’obtenir les services d’un organisme constitué par la présente loi, relativement aux terres de réserve mises de côté à son usage et à son profit et à l’usage et au profit d’une ou de plusieurs autres premières nations, prendre les règlements qu’il estime nécessaires, et notamment :
+- **a)** adapter toute disposition de la présente loi ou de ses règlements;
+- **b)** restreindre l’application de toute disposition de la présente loi ou de ses règlements.
+> 2018, ch. 27, art. 412.
+
 
 
 
@@ -2299,7 +2537,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-application de l’article**
 
 - **(3)** Le présent article ne s’applique pas aux premières nations dont le nom est inscrit à l’annexe à la date d’entrée en vigueur de l’article 145.1 ou après celle-ci.
-> 2005, ch. 9, art. 145; 2015, ch. 36, art. 203.
+> 2005, ch. 9, art. 145; 2015, ch. 36, art. 203; 2018, ch. 27, art. 414(A).
 
 
 
@@ -2322,7 +2560,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Maintien des règlements administratifs existants**
 
 - **(4)** Les règlements administratifs en matière de gestion financière pris par une première nation en vertu des alinéas 83(1)b) ou c) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) qui sont en vigueur à la date d’entrée en vigueur du présent article demeurent en vigueur tant qu’ils ne sont pas abrogés ou que la première nation ne prend pas un texte législatif qui est agréé au titre du paragraphe 9(2).
-> 2015, ch. 36, art. 204.
+> 2015, ch. 36, art. 204; 2018, ch. 27, art. 414(A).
 
 
 
