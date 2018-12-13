@@ -805,7 +805,17 @@ if the Superintendent is satisfied that the information will be treated as confi
 **Certificate of Superintendent**
 
 - **(2)** A document appearing to have been issued by the Superintendent, certifying the day on which the subject-matter of any proceedings became known to the Superintendent, is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
-> R.S., 1985, c. 18 (3rd Supp.), s. 37; 2001, c. 9, s. 476.
+
+**No use of privileged information**
+
+- **(3)** The Superintendent shall not use privileged information as evidence in a proceeding in respect of a violation if the privileged information was disclosed to the Superintendent by
+	- **(a)** a financial institution, bank holding company or insurance holding company; or
+	- **(b)** a person who controls, or an entity that is affiliated with, an entity referred to in paragraph (a).
+
+**Definition of privileged information**
+
+- **(4)** In subsection (3), ***privileged information*** means information that is subject to a privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+> R.S., 1985, c. 18 (3rd Supp.), s. 37; 2001, c. 9, s. 476; 2018, c. 27, s. 167.
 
 
 
