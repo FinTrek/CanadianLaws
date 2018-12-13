@@ -151,13 +151,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **j)** les personnes et entités qui se livrent à l’exploitation d’une entreprise ou à l’exercice d’une profession, si l’entreprise ou la profession est prévue par règlement, lorsque ces personnes ou entités exercent les activités prévues par règlement;
 - **k)** le gouvernement d’une province qui, dans le cadre de l’alinéa 207(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
 	- **(i)** met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes,
-	- **(ii)** met sur pied et exploite des jeux au moyen d’un appareil à sous, au sens du paragraphe 198(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ou autre dispositif de jeu électronique semblable dans tout autre établissement permanent où se trouvent plus de cinquante de ces appareils à sous ou autres dispositifs semblables;
+	- **(ii)** met sur pied et exploite des jeux au moyen d’un appareil à sous, au sens du paragraphe 207(4.01) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ou autre dispositif de jeu électronique semblable dans tout autre établissement permanent où se trouvent plus de cinquante de ces appareils à sous ou autres dispositifs semblables;
 - **k.1)** le gouvernement d’une province qui, dans le cadre de l’alinéa 207(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie, à l’exclusion d’un bingo ou de la vente de billets de loterie, accessible au public par Internet ou autre réseau numérique, à l’exception d’un réseau numérique interne d’un établissement visé au sous-alinéa k)(ii);
 - **k.2)** l’organisme qui, dans le cadre de l’alinéa 207(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes, sauf dans le cas où l’organisme en question est un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et que la loterie est mise sur pied et exploitée pendant deux jours consécutifs ou moins à la fois;
 - **k.3)** le conseil d’une foire ou d’une exposition, ou l’exploitant d’une concession louée auprès du conseil, qui, dans le cadre de l’alinéa 207(1)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), met sur pied et exploite une loterie dans un établissement permanent présenté comme étant un casino où l’on peut notamment jouer à la roulette ou à des jeux de cartes;
 - **l)** les ministères et les mandataires de Sa Majesté du chef du Canada ou d’une province qui acceptent des dépôts, qui émettent ou vendent des mandats-poste au public ou les rachètent du public ou qui vendent des métaux précieux réglementaires, lorsqu’ils exercent les activités prévues par règlement;
 - **m)** les employés des personnes et entités visées à l’un des alinéas a) à l), pour l’application de l’article 7.
-> 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256; 2017, ch. 20, art. 408.
+> 2000, ch. 17, art. 5; 2001, ch. 41, art. 51; 2006, ch. 12, art. 3; 2014, ch. 20, art. 256; 2017, ch. 20, art. 408; 2018, ch. 29, art. 78.
 
 
 
@@ -897,10 +897,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Cas de non-importation ou de non-exportation**
-
-**13** La personne ou l’entité qui a l’obligation de déclarer les effets ou espèces peut, en tout temps avant leur rétention en application du paragraphe 14(1) ou leur confiscation résultant d’une contravention au paragraphe 12(1), renoncer à poursuivre leur importation ou exportation.
+**13** [Abrogé, 2018, ch. 27, art. 174]
 
 
 
@@ -921,20 +918,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Restriction**
 
-- **(3)** Les espèces ou effets ne peuvent plus être retenus en application du paragraphe (1) si, durant la période visée à ce paragraphe, l’un des événements suivants se produit :
-	- **a)** l’agent constate qu’ils ont été déclarés en conformité avec le paragraphe 12(1);
-	- **b)** l’importateur ou l’exportateur informe l’agent qu’il a renoncé à poursuivre leur importation ou exportation.
+- **(3)** Les espèces ou effets ne peuvent plus être retenus en application du paragraphe (1) si l’agent constate qu’ils ont été déclarés en conformité avec le paragraphe 12(1).
 
 **Contenu de l’avis**
 
-- **(4)** L’avis doit contenir les éléments suivants :
+- **(4)** L’avis doit contenir les éléments suivants :
 	- **a)** la période de rétention;
-	- **b)** la mention qu’il est mis fin à la rétention des espèces ou effets si, pendant cette période, ils sont déclarés conformément au paragraphe 12(1) ou l’importateur ou l’exportateur renonce à poursuivre leur importation ou exportation;
+	- **b)** la mention qu’il est mis fin à la rétention des espèces ou effets si, pendant cette période, ils sont déclarés conformément au paragraphe 12(1);
 	- **c)** la mention qu’à la fin de cette période, les espèces ou effets retenus seront confisqués au profit de Sa Majesté du chef du Canada.
 
 **Confiscation**
 
 - **(5)** Les espèces ou effets retenus en vertu du paragraphe (1) sont confisqués au profit de Sa Majesté du chef du Canada à l’expiration de la période visée à ce paragraphe et l’agent transmet au Centre toute déclaration incomplète entreprise dans le cadre du paragraphe 12(1) à l’égard de ces espèces ou effets.
+> 2000, ch. 17, art. 14; 2018, ch. 27, art. 175.
+
 
 
 
