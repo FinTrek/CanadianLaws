@@ -399,7 +399,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**69** [Modifications]
+**69** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé avant d’entrer en vigueur, 2018, ch. 27, art. 239]
 
 
 
