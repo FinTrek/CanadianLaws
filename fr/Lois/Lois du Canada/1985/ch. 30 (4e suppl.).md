@@ -33,39 +33,41 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** Traité, convention ou autre accord international qui porte en tout ou en partie sur l’entraide juridique en matière criminelle, auquel le Canada est partie et qui est en vigueur.
+***accord***
+- **a)** Traité, convention ou autre accord international qui porte en tout ou en partie sur l’entraide juridique en matière criminelle, auquel le Canada est partie et qui est en vigueur;
+- **b)** dans la mesure où ils s’appliquent à des enquêtes ou à des poursuites en matière criminelle et sauf pour l’application des parties II et III de la présente loi, la Convention concernant l’assistance administrative mutuelle en matière fiscale, conclue à Strasbourg le 25 janvier 1988 et modifiée par tout protocole ou autre instrument international, ratifié par le Canada, tout accord général d’échange de renseignements fiscaux en vigueur auquel le Canada est partie ou tout traité fiscal, au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*agreement*)
 
-***autorité compétente*** Le procureur général du Canada, le procureur général d’une province ainsi que toute personne ou tout organisme chargé au Canada de la recherche ou de la poursuite des infractions.
+***autorité compétente*** Le procureur général du Canada, le procureur général d’une province ainsi que toute personne ou tout organisme chargé au Canada de la recherche ou de la poursuite des infractions. (*competent authority*)
 
-***Cour pénale internationale*** La Cour pénale internationale au sens du paragraphe 2(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md).
+***Cour pénale internationale*** La Cour pénale internationale au sens du paragraphe 2(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md). (*International Criminal Court*)
 
-***demande*** Demande d’assistance présentée en application d’un accord.
+***demande*** Demande d’assistance présentée en application d’un accord. (*request*)
 
-***document*** Tout support sur lequel sont enregistrées ou inscrites des données.
+***document*** Tout support sur lequel sont enregistrées ou inscrites des données. (*record*)
 
-***données*** Représentations, notamment signes, signaux ou symboles, qui peuvent être comprises par une personne physique ou traitées par un ordinateur ou un autre dispositif.
+***données*** Représentations, notamment signes, signaux ou symboles, qui peuvent être comprises par une personne physique ou traitées par un ordinateur ou un autre dispositif. (*data*)
 
 ***État étranger***[Abrogée, 1999, ch. 18, art. 97]
 
 ***État ou entité***
 - **a)** S’il est partie à un accord qui lie le Canada, un État, ses provinces, États ou autres subdivisions politiques similaires; ses colonies, dépendances, possessions, territoires gérés en condominium ou placés sous son protectorat, sa tutelle ou, d’une façon générale, sa dépendance;
-- **b)** tout tribunal pénal international dont le nom figure à l’annexe.
+- **b)** tout tribunal pénal international dont le nom figure à l’annexe. (*state or entity*)
 
-***infraction*** Infraction au sens de l’accord applicable.
+***infraction*** Infraction au sens de l’accord applicable. (*offence*)
 
 ***juge***
 - **a)** En Ontario, la Cour supérieure de justice;
 - **a.1)** dans l’Île-du-Prince-Édouard, un juge de la section de première instance de la Cour suprême;
 - **b)** au Québec, un juge de la Cour supérieure;
 - **c)** au Nouveau-Brunswick, au Manitoba, en Alberta et en Saskatchewan, un juge de la Cour du banc de la Reine;
-- **d)** en Nouvelle-Écosse, en Colombie-Britannique et à Terre-Neuve, ainsi qu’au Yukon et dans les Territoires du Nord-Ouest, un juge de la Cour suprême et, au Nunavut, un juge de la Cour de justice.
+- **d)** en Nouvelle-Écosse, en Colombie-Britannique et à Terre-Neuve, ainsi qu’au Yukon et dans les Territoires du Nord-Ouest, un juge de la Cour suprême et, au Nunavut, un juge de la Cour de justice. (*judge*)
 
-***ministre*** Le ministre de la Justice.
+***ministre*** Le ministre de la Justice. (*Minister*)
 
 ***traité***[Abrogée, 1999, ch. 18, art. 97]
 
 - **(2)** [Abrogé, 1999, ch. 18, art. 97]
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 2; 1992, ch. 51, art. 58; 1998, ch. 30, art. 14; 1999, ch. 3, art. 80, ch. 18, art. 97; 2000, ch. 24, art. 56; 2002, ch. 7, art. 209(A); 2014, ch. 31, art. 36.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 2; 1992, ch. 51, art. 58; 1998, ch. 30, art. 14; 1999, ch. 3, art. 80, ch. 18, art. 97; 2000, ch. 24, art. 56; 2002, ch. 7, art. 209(A); 2014, ch. 31, art. 36; 2018, ch. 27, art. 29.
 
 
 
@@ -113,7 +115,7 @@
 
 **5** 
 
-- **(1)** À moins qu’ils ne soient publiés en conformité avec le paragraphe (2), l’accord ou les dispositions d’une convention ou autre accord international qui traitent de l’entraide juridique en matière criminelle sont publiés dans la Gazette du Canada, dans les soixante jours suivant leur entrée en vigueur.
+- **(1)** À moins qu’ils ne soient publiés en conformité avec le paragraphe (2), l’accord visé à l’alinéa a) de la définition de ce terme au paragraphe 2(1) ou les dispositions d’une convention ou autre accord international qui traitent de l’entraide juridique en matière criminelle sont publiés dans la Gazette du Canada dans les soixante jours suivant leur entrée en vigueur.
 
 **Recueil des traités du Canada**
 
@@ -122,7 +124,7 @@
 **Notoriété publique**
 
 - **(3)** L’accord et les dispositions ainsi publiés dans la Gazette du Canada ou dans le Recueil des traités du Canada sont de notoriété publique.
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 5; 1999, ch. 18, art. 99.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 5; 1999, ch. 18, art. 99; 2018, ch. 27, art. 30.
 
 
 
@@ -171,12 +173,16 @@
 
 **7** 
 
-- **(1)** Le ministre est chargé de la mise en oeuvre des accords et de l’application de la présente loi.
+- **(1)** Le ministre est chargé de la mise en oeuvre de tout accord visé à l’alinéa a) de la définition de ce terme au paragraphe 2(1) et de l’application de la présente loi.
 
 **Suivi des demandes**
 
-- **(2)** Le ministre donne suite aux demandes d’un État ou entité, ou d’une autorité compétente canadienne, en conformité avec l’accord applicable et la présente loi.
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 18, art. 101.
+- **(2)** Le ministre donne suite aux demandes qui sont faites par un État ou une entité, ou par une autorité compétente canadienne au titre d’un accord visé à l’alinéa a) de la définition de ce terme au paragraphe 2(1), en conformité avec l’accord et la présente loi.
+
+**Suivi des demandes**
+
+- **(3)** Le ministre donne suite aux demandes qui sont faites par un État ou une entité au titre d’un accord visé à l’alinéa b) de la définition de ce terme au paragraphe 2(1), et qui lui sont présentées par le ministre du Revenu national, en conformité avec l’accord et la présente loi.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 18, art. 101; 2018, ch. 27, art. 31.
 
 
 
@@ -195,12 +201,12 @@
 
 **8** 
 
-- **(1)** Le ministre ne peut mettre en oeuvre les dispositions de la présente partie pour donner suite à une demande que si l’accord applicable prévoit l’entraide juridique à l’égard de l’objet de la demande.
+- **(1)** Le ministre ne peut mettre en oeuvre les dispositions de la présente partie pour donner suite à une demande que si l’accord prévoit l’entraide à l’égard de l’objet de la demande.
 
 **Mise en oeuvre de la présente partie**
 
 - **(2)** Le ministre peut mettre en oeuvre les dispositions de la présente partie pour donner suite à une demande d’un État ou entité dont le nom figure à l’annexe relativement à n’importe quel objet.
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 18, art. 101.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 8; 1999, ch. 18, art. 101; 2018, ch. 27, art. 32.
 
 
 
@@ -785,6 +791,25 @@
 
 **22.05** L’article 487.0198 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique aux ordonnances rendues en vertu du paragraphe 22.03(1) de la manière prévue à l’un des articles 487.015 à 487.018 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 > 2014, ch. 31, art. 41.
+
+
+
+
+
+**Ordonnance d’obtention de renseignements fiscaux**
+
+**22.06** 
+
+- **(1)** Le juge d’une province saisi de la requête prévue au paragraphe 17(2) peut, dans le cadre d’une enquête ou d’une poursuite portant sur des actes ou des omissions qui, s’ils étaient commis au Canada, constitueraient une infraction visée au paragraphe 462.48(1.1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), rendre une ordonnance pour l’obtention de renseignements ou de documents visés à l’alinéa 462.48(2)c) de cette loi.
+
+**Application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
+
+- **(2)** Sous réserve du paragraphe (3), l’ordonnance peut être obtenue et rendue conformément aux paragraphes 462.48(1) à (5) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et exécutée de la manière prévue par cette loi, avec les adaptations nécessaires.
+
+**Dispositions applicables à l’ordonnance**
+
+- **(3)** Les alinéas 18(2)b) et c), les paragraphes 18(3) à (9) et les articles 19 à 22, exception faite de l’alinéa 19(1)a), s’appliquent, avec les adaptations nécessaires, à toute ordonnance prévue au paragraphe (1) et l’emportent sur toute disposition incompatible du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2018, ch. 27, art. 33.
 
 
 
