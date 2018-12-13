@@ -1984,7 +1984,7 @@ where
 
 
 
-**359** [Amendment]
+**359** [Repealed before coming into force, 2018, c. 27, s. 508]
 
 
 
@@ -2184,7 +2184,7 @@ where
 
 
 
-**401** [Amendments]
+**401** [Repealed, 2018, c. 27, s. 510]
 
 
 
@@ -2197,43 +2197,50 @@ where
 
 **402** 
 
-- <sup><a href='#fn_Ind36F1_hq_20461'>[*]</a></sup>**(1)** Subsections 318(1), 320(1) and 322(1), section 323, subsections 324(2) and 325(1) and (2), sections 326 to 328, subsections 329(1) and (2), sections 330 to 337, subsection 338(1), sections 339 to 349 and 351 to 355, subsections 356(2) and (3), 363(8) and 364(2), section 365, subsection 368(1) and sections 370, 378 to 383, 387 and 391 to 397 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the days fixed in accordance with subsections (2) and (6).
+- <sup><a href='#fn_Ind36F1_hq_20461'>[*]</a></sup>**(1)
+** Subsections 318(1), 320(1) and 322(1), section 323, subsections 324(2) and 325(1) and (2), sections 326 to 328, subsections 329(1) and (2), sections 330 to 337, subsection 338(1), sections 339 to 349 and 351 to 355, subsections 356(2) and (3), 363(8) and 364(2), section 365, subsection 368(1) and sections 370, 378 to 383, 387 and 391 to 397 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the days fixed in accordance with subsections (2) and (6).
 
 <a name='fn_Ind36F1_hq_20461'><sup>*</sup></a>: [Note: Subsections 318(1), 320(1) and 322(1), section 323, subsections 324(2) and 325(1) and (2), sections 326 to 328, subsections 329(1) and (2), sections 330 to 337, subsection 338(1), sections 339 to 349 and 351 to 355, subsections 356(2) and (3), 363(8) and 364(2), section 365, subsection 368(1) and sections 370, 378 to 383, 387 and 391 to 397 not in force.]<br />
 
 **Order in council**
 
-- <sup><a href='#fn_Ind36F1_hq_20455'>[*]</a></sup>**(2)** Subsection 318(2), section 319, subsections 338(2) and 356(1) and section 384 come into force on a day to be fixed by order of the Governor in Council.
+- <sup><a href='#fn_Ind36F1_hq_20455'>[*]</a></sup>**(2)
+** Subsection 318(2), section 319, subsections 338(2) and 356(1) and section 384 come into force on a day to be fixed by order of the Governor in Council.
 
 <a name='fn_Ind36F1_hq_20455'><sup>*</sup></a>: [Note: Subsection 318(2), section 319, subsections 338(2) and 356(1) and section 384 not in force.]<br />
 
 **Order in council**
 
-- <sup><a href='#fn_Ind36F1_hq_20456'>[*]</a></sup>**(3)** Subsections 320(2), 322(2), 325(3) and 329(3), section 360, subsections 363(2), (5), (6) and (9) and 364(3) and sections 373, 377, 386 and 390 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (1).
+- <sup><a href='#fn_Ind36F1_hq_20456'>[*]</a></sup>**(3)
+** Subsections 320(2), 322(2), 325(3) and 329(3), section 360, subsections 363(2), (5), (6) and (9) and 364(3) and sections 373, 377, 386 and 390 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (1).
 
 <a name='fn_Ind36F1_hq_20456'><sup>*</sup></a>: [Note: Subsections 320(2), 322(2), 325(3) and 329(3), section 360, subsections 363(2), (5), (6) and (9) and 364(3) and sections 373, 377, 386 and 390 not in force.]<br />
 
 **Order in council**
 
-- <sup><a href='#fn_Ind36F1_hq_20457'>[*]</a></sup>**(4)** Sections 350 and 376 come into force on a day to be fixed by order of the Governor in Council.
+- <sup><a href='#fn_Ind36F1_hq_20457'>[*]</a></sup>**(4)
+** Sections 350 and 376 come into force on a day to be fixed by order of the Governor in Council.
 
 <a name='fn_Ind36F1_hq_20457'><sup>*</sup></a>: [Note: Sections 350 and 376 not in force.]<br />
 
 **Order in council**
 
-- <sup><a href='#fn_Ind36F1_hq_20458'>[*]</a></sup>**(5)** Sections 357 and 359, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 come into force on a day to be fixed by order of the Governor in Council.
+- <sup><a href='#fn_Ind36F1_hq_20458'>[*]</a></sup>**(5)
+** Sections 357 and 359, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind36F1_hq_20458'><sup>*</sup></a>: [Note: Sections 357 and 359, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 not in force.]<br />
+<a name='fn_Ind36F1_hq_20458'><sup>*</sup></a>: [Note: Section 359 repealed before coming into force, *see* 2018, c. 27, s. 508; section 357, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 not in force.]<br />
 
 **Order in council**
 
-- <sup><a href='#fn_Ind36F1_hq_20459'>[*]</a></sup>**(6)** Section 358, subsection 361(2) and sections 369, 372 and 375 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (5).
+- <sup><a href='#fn_Ind36F1_hq_20459'>[*]</a></sup>**(6)
+** Section 358, subsection 361(2) and sections 369, 372 and 375 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (5).
 
 <a name='fn_Ind36F1_hq_20459'><sup>*</sup></a>: [Note: Section 358, subsection 361(2) and sections 369, 372 and 375 not in force.]<br />
 
 **Order in council**
 
-- <sup><a href='#fn_Ind36F1_hq_20460'>[*]</a></sup>**(7)** Subsections 363(3) and 364(4), sections 366 and 367, subsection 368(2) and sections 388 and 389 come into force on a day to be fixed by order of the Governor in Council.
+- <sup><a href='#fn_Ind36F1_hq_20460'>[*]</a></sup>**(7)
+** Subsections 363(3) and 364(4), sections 366 and 367, subsection 368(2) and sections 388 and 389 come into force on a day to be fixed by order of the Governor in Council.
 
 <a name='fn_Ind36F1_hq_20460'><sup>*</sup></a>: [Note: Subsections 363(3) and 364(4), sections 366 and 367, subsection 368(2) and sections 388 and 389 not in force.]<br />
 
