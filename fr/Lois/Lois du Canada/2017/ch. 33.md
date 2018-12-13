@@ -981,7 +981,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**205** [Modification]
+**205** [Abrogé avant d’entrer en vigueur, 2018, ch. 27, art. 513]
 
 
 
@@ -1029,7 +1029,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Dispositions de coordination
 
 
-**215** [Modifications]
+**215** 
+
+- **(1)** [Abrogé, 2018, ch. 27, art. 516]
+
+- **(2)** [Modification]
 
 
 
@@ -1044,13 +1048,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind47C3_hq_21316'>[*]</a></sup>**(1)** Les articles 195 à 204 et 210 à 214 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind47C3_hq_21316'><sup>*</sup></a>: [Note : Articles 195 à 204 et 210 à 214 non en vigueur.]<br />
+<a name='fn_Ind47C3_hq_21316'><sup>*</sup></a>: [Note : Articles 195 à 204 et 210 à 214 non en vigueur.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind47C3_hq_21317'>[*]</a></sup>**(2)** Les articles 205 à 209 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind47C3_hq_21317'><sup>*</sup></a>: [Note : Articles 205 à 209 non en vigueur.]<br />
+<a name='fn_Ind47C3_hq_21317'><sup>*</sup></a>: [Note : Article 205 abrogé avant d’entrer en vigueur, *voir* 2018, ch. 27, art. 513; articles 206 à 209 non en vigueur.]<br />
 
 
 
