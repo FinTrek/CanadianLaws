@@ -340,6 +340,17 @@ où :
 
 
 
+**Somme passible de droits — contrepartie**
+
+**2.1** Les règles ci-après s’appliquent à la détermination d’un montant de contrepartie pour l’application de la définition de somme passible de droits à l’article 2 :
+- **a)** les dispositions de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) portant que la contrepartie, ou une partie de la contrepartie, d’une fourniture est réputée ne pas en être une, qu’une fourniture est réputée effectuée sans contrepartie ou qu’une personne est réputée ne pas avoir effectué une fourniture ne s’appliquent pas à cette détermination;
+- **b)** le paragraphe 155(1) de cette loi s’applique compte non tenu du passage « et que l’acquéreur n’est pas un inscrit qui acquiert le bien ou le service pour le consommer, l’utiliser ou le fournir exclusivement dans le cadre de ses activités commerciales ».
+> 2018, ch. 27, art. 63.
+
+
+
+
+
 **Renvois à d’autres textes**
 
 **3** Le renvoi, dans la présente loi, à un texte abrogé d’une province ou d’un territoire, ou à une partie abrogée d’un tel texte, à propos de faits ultérieurs à l’abrogation, équivaut à un renvoi aux dispositions correspondantes du texte ou de la partie de remplacement. À défaut de telles dispositions ou d’un texte ou d’une partie de remplacement, le texte ou la partie abrogé est considéré comme étant encore en vigueur dans la mesure nécessaire pour donner effet au renvoi.
@@ -4954,6 +4965,17 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 
 
+**Suspension du délai**
+
+**209.1** Les délais suivants ne comptent pas dans le calcul du délai dans lequel une cotisation peut être établie pour une personne en vertu des articles 188 ou 189 :
+- **a)** si l’avis visé au paragraphe 208(1) est signifié à la personne, le délai qui court entre le jour où une demande de contrôle judiciaire est présentée relativement à l’avis et le jour où la demande est définitivement réglée;
+- **b)** lorsque la demande visée au paragraphe 209(1) est déposée par le ministre pour qu’il soit ordonné à la personne de fournir tout accès, toute aide ou tous renseignements ou registres, le délai qui court entre le jour où la personne dépose un avis de comparution, ou conteste par ailleurs la demande, et le jour où la demande est définitivement réglée.
+> 2018, ch. 27, art. 64.
+
+
+
+
+
 **Renseignement ou registre étranger**
 
 **210** 
@@ -4985,13 +5007,15 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Suspension du délai**
 
-- **(7)** Le délai qui court entre le jour où une requête est présentée et le jour où il est décidé de la requête ne compte pas dans le calcul des délais suivants :
+- **(7)** Le délai qui court entre le jour où une requête est présentée et le jour où la requête est définitivement réglée ne compte pas dans le calcul des délais suivants :
 	- **a)** le délai indiqué dans la mise en demeure qui a donné lieu à la requête;
 	- **b)** le délai dans lequel une cotisation peut être établie en application des articles 188 ou 189.
 
 **Conséquence du défaut**
 
 - **(8)** Tout tribunal saisi d’une affaire civile portant sur l’exécution ou le contrôle d’application de la présente loi doit, sur requête du ministre, refuser le dépôt en preuve par une personne de tout renseignement ou registre étranger visé par une mise en demeure qui n’est pas déclarée sans effet dans le cas où la personne ne s’est pas conformée, en substance, à la mise en demeure.
+> 2002, ch. 22, art. 210; 2018, ch. 27, art. 65.
+
 
 
 
@@ -5082,7 +5106,12 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 	- **b)** fournir à une personne un renseignement confidentiel qu’il est raisonnable de considérer comme nécessaire à la détermination de toute somme dont la personne est redevable ou de tout remboursement ou autre paiement auquel elle a droit, ou pourrait avoir droit, en vertu de la présente loi;
 	- **c)** fournir, ou permettre que soit fourni, un renseignement confidentiel à toute personne autorisée par le ministre ou faisant partie d’une catégorie de personnes ainsi autorisée, sous réserve de conditions précisées par le ministre, ou lui en permettre l’examen ou l’accès;
 	- **d)** fournir un renseignement confidentiel à toute personne qui y a légalement droit par l’effet d’une loi fédérale, ou lui en permettre l’examen ou l’accès, mais uniquement aux fins auxquelles elle y a droit;
-	- **d.1)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, en conformité avec l’alinéa 33.1a) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), mais uniquement pour son application;
+	- **d.1)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, en conformité avec les dispositions ou documents ci-après, mais uniquement pour leur application :
+		- **(i)** l’alinéa 33.1a) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md),
+		- **(ii)** une ordonnance rendue en vertu du paragraphe 462.48(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+		- **(iii)** une ordonnance rendue sous le régime de la [Loi sur l’entraide juridique en matière criminelle](/fr/Lois/Lois%20du%20Canada/1985/ch.%2030%20(4e%20suppl.).md) pour l’obtention ou la transmission de renseignements dans le cadre d’une enquête ou d’une poursuite portant sur des actes ou des omissions qui, s’ils étaient commis au Canada, constitueraient une infraction pour laquelle une ordonnance pourrait être obtenue en vertu du paragraphe 462.48(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), en réponse à une demande présentée :
+			- **(A)** soit conformément à une entente administrative conclue en vertu de l’article 6 de la [Loi sur l’entraide juridique en matière criminelle](/fr/Lois/Lois%20du%20Canada/1985/ch.%2030%20(4e%20suppl.).md),
+			- **(B)** soit conformément à un accord bilatéral visant l’entraide juridique en matière criminelle, auquel le Canada est partie;
 	- **e)** fournir un renseignement confidentiel :
 		- **(i)** à un fonctionnaire du ministère des Finances, mais uniquement en vue de la formulation ou de l’évaluation de la politique fiscale,
 		- **(ii)** à un fonctionnaire, mais uniquement en vue de la mise à exécution de la politique fiscale ou en vue de l’exécution ou du contrôle d’application de la Loi sur l’assurance-chômage, du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou d’une loi fédérale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
@@ -5110,7 +5139,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 		- **(i)** il est raisonnable de considérer que le renseignement est nécessaire pour confirmer les circonstances dans lesquelles une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peut avoir été commise, ou l’identité d’une personne pouvant avoir commis une infraction, à l’égard d’un fonctionnaire ou de toute personne qui lui est liée,
 		- **(ii)** le fonctionnaire est ou était chargé de l’application ou de l’exécution de la présente loi,
 		- **(iii)** il est raisonnable de considérer que l’infraction est liée à l’application ou à l’exécution de la présente loi;
-	- **l)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, mais uniquement pour l’application d’une disposition figurant dans un accord international désigné;
+	- **l)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, mais uniquement pour l’application d’une disposition figurant dans un traité fiscal (au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)) ou dans un accord international désigné;
 	- **m)** fournir un renseignement confidentiel à toute personne, mais uniquement en vue de permettre au statisticien en chef, au sens de l’article 2 de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), de fournir à un organisme de la statistique d’une province des données portant sur les activités d’entreprise exercées dans la province, à condition que le renseignement soit utilisé par l’organisme uniquement aux fins de recherche et d’analyse et que l’organisme soit autorisé en vertu des lois de la province à recueillir, pour son propre compte, le même renseignement ou un renseignement semblable relativement à ces activités;
 	- **n)** fournir des renseignements confidentiels à une personne qui a conclu, dans le cadre d’un programme administré par l’Agence du revenu du Canada qui permet d’obtenir des renseignements concernant l’inobservation fiscale, un contrat pour la fourniture de renseignements à l’Agence du revenu du Canada, dans la mesure nécessaire pour informer la personne de toute somme qu’elle pourrait recevoir en vertu du contrat et de l’état de son dossier en vertu du contrat.
 
@@ -5184,7 +5213,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75; 2018, ch. 12, art. 78.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75; 2018, ch. 12, art. 78, ch. 27, art. 66.
 
 
 
@@ -5682,12 +5711,12 @@ où :
 - **a)** la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment de la contravention, relativement aux produits du cannabis auxquels la contravention se rapporte,
 - **b)** la somme obtenue en multipliant la juste valeur marchande au moment de la contravention des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’article 4 de l’annexe 7, dans sa version applicable à ce moment;
 - **B** :
-- **a)** si la contravention est commise dans une province déterminée, 300 % de la valeur de l’élément A,
+- **a)** si la contravention a lieu dans une province déterminée, 300 % de la valeur de l’élément A,
 - **b)** sinon, zéro;
 - **C** :
-- **a)** si la contravention est commise dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
+- **a)** si la contravention a lieu dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
 - **b)** sinon, zéro.
-> 2018, ch. 12, art. 84.
+> 2018, ch. 12, art. 84, ch. 27, art. 67.
 
 
 
@@ -5723,12 +5752,12 @@ où :
 - **a)** la somme déterminée selon l’article 1 de l’annexe 7, dans sa version applicable au moment de la contravention, relativement aux produits du cannabis auxquels la contravention se rapporte,
 - **b)** la somme obtenue en multipliant la juste valeur marchande au moment de la contravention des produits du cannabis auxquels la contravention se rapporte par le pourcentage visé à l’article 4 de l’annexe 7, dans sa version applicable à ce moment;
 - **B** :
-- **a)** si la contravention est commise dans une province déterminée, 300 % de la valeur de l’élément A,
+- **a)** si la contravention a lieu dans une province déterminée, 300 % de la valeur de l’élément A,
 - **b)** sinon, zéro;
 - **C** :
-- **a)** si la contravention est commise dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
+- **a)** si la contravention a lieu dans une province déterminée visée par règlement, 200 % de la somme déterminée à l’alinéa b) de l’élément A,
 - **b)** sinon, zéro.
-> 2018, ch. 12, art. 86.
+> 2018, ch. 12, art. 86, ch. 27, art. 68.
 
 
 
