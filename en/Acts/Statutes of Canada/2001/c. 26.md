@@ -168,7 +168,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application of this Part**
 
-**8** This Part applies in respect of Canadian vessels everywhere and in respect of foreign vessels in Canadian waters, but regulations made under paragraph 35(1)(d) in respect of pollution apply, if they so state, in respect of foreign vessels in waters in the exclusive economic zone of Canada.
+**8** This Part applies in respect of Canadian vessels everywhere and in respect of foreign vessels in Canadian waters. However
+- **(a)** regulations made under paragraph 35(1)(d) in respect of pollution also apply, if they so state, in respect of foreign vessels in waters in the exclusive economic zone of Canada; and
+- **(b)** subsections 10(2.1) and 35.1(1) also apply in respect of
+	- **(i)** foreign vessels in waters in the exclusive economic zone of Canada, and
+	- **(ii)** pleasure craft that are not Canadian vessels in Canadian waters or in waters in the exclusive economic zone of Canada.
+> 2001, c. 26, s. 8; 2018, c. 27, s. 688.
+
 
 
 
@@ -195,24 +201,71 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** The Minister of Transport or the Minister of Fisheries and Oceans may, with respect to that Minister’s responsibilities under this Act,
 	- **(a)** establish consultative bodies;
 	- **(b)** issue bulletins, guidelines and standards; and
-	- **(c)** enter into agreements or arrangements respecting the administration or enforcement of any provision of this Act or the regulations and authorize any person or organization with whom an agreement or arrangement is entered into to exercise the powers or perform the duties under this Act that are specified in the agreement or arrangement.
+	- **(c)** enter into agreements or arrangements respecting the administration or enforcement of any provision of this Act or the regulations and authorize any person or organization — including a provincial government, a local authority and a government, council or other entity authorized to act on behalf of an Indigenous group — with whom or which an agreement or arrangement is entered into to exercise the powers or perform the duties and functions under this Act that are specified in the agreement or arrangement.
 
 **Exemption power of Ministers**
 
 - **(2)** The Minister of Transport or the Minister of Fisheries and Oceans may, with respect to that Minister’s responsibilities under this Act, exempt for a specified period any authorized representative, master, vessel, class of vessels, operator of an oil handling facility, oil handling facility or class of oil handling facility from the application of any provision of this Act or the regulations, subject to any conditions that that Minister considers appropriate, if that Minister is of the opinion that the exemption is in the interest of preventing damage to property or the environment or is in the interest of public health or safety.
 
+**Exemption power of Minister of Transport**
+
+- **(2.1)** The Minister of Transport may, with respect to his or her responsibilities under this Act, exempt for a period of not more than three years any person or vessel or class of persons or vessels from the application of any provisions of this Act or the regulations, subject to any conditions that the Minister considers appropriate, if the exemption would allow the undertaking of research and development, including in respect of any type of vessels, technologies, systems, components or procedures and practices that may, in the Minister’s opinion, enhance marine safety or environmental protection.
+
+**Publication**
+
+- **(2.2)** The Minister of Transport shall publish, on the Department of Transport’s Internet site or by any other means that the Minister of Transport considers appropriate, a notice of every exemption granted under subsection (2.1), as soon as feasible after it is granted.
+
 **Exemption**
 
 - **(3)** Subject to any conditions that the Minister of Transport considers appropriate, the Minister may exempt for a specified period any vessel, or class of vessels, that is en route through Canadian waters but is not en route to or departing from a port in Canada, from the application of any provision of Part 3 (Personnel), 4 (Safety) or 9 (Pollution Prevention — Department of Transport) if the Minister is of the opinion that the provision is substantially similar to a provision of the laws of another state to which the vessel or class of vessels is subject.
 
-**Publication**
+**Publication — Canada Gazette**
 
-- **(4)** Notice of every exemption granted under subsection (2) or (3) must be published in the Canada Gazette.
+- **(4)** Notice of every exemption granted under subsection (2), (2.1) or (3) must be published in the Canada Gazette.
 
 **Authorization**
 
 - **(5)** The Minister of Transport or the Minister of Fisheries and Oceans may authorize any person employed in the federal public administration or any police officer, police constable, constable or other person employed for the preservation and maintenance of the public peace, or any class of any of those persons, that that Minister considers proper to exercise any of the powers and perform any of the duties and functions that may be or are required to be exercised or performed by that Minister under this Act.
-> 2001, c. 26, s. 10; 2003, c. 22, s. 224(E).
+> 2001, c. 26, s. 10; 2003, c. 22, s. 224(E); 2018, c. 27, s. 689.
+
+
+
+
+
+**Interim order — Minister of Transport**
+
+**10.1** 
+
+- **(1)** The Minister of Transport may make an interim order that contains any provision that may be contained in a regulation made, under this Act, on the recommendation of only that Minister, if he or she believes that immediate action is required to deal with a direct or indirect risk to marine safety or to the marine environment.
+
+**Cessation of effect**
+
+- **(2)** An interim order made under this section has effect from the time that it is made but ceases to have effect on the earliest of
+	- **(a)** the day on which it is repealed;
+	- **(b)** the day on which a regulation made under this Act that has the same effect as the interim order comes into force;
+	- **(c)** one year after the interim order is made or any shorter period that may be specified in the interim order, unless the effective period is extended by the Governor in Council; and
+	- **(d)** the day that is specified in the order of the Governor in Council, if the Governor in Council extends the effective period of the interim order.
+
+**Extension — Governor in Council**
+
+- **(3)** The Governor in Council may extend the effective period of the interim order for a period of no more than two years after the end of the applicable period referred to in paragraph (2)(c).
+
+**Compliance with interim order**
+
+- **(4)** Every person or vessel subject to an interim order shall comply with it.
+
+**Contravention of unpublished order**
+
+- **(5)** No person or vessel may be found guilty of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person or vessel had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons or vessels likely to be affected by it.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(6)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an interim order. However, the interim order shall be published in the Canada Gazette within 23 days after it is made.
+
+**Tabling of order**
+
+- **(7)** The Minister of Transport shall ensure that a copy of each interim order is tabled in each House of Parliament within 15 days after it is made. The copy is to be sent to the Clerk of the House if the House is not sitting.
+> 2018, c. 27, s. 690.
 
 
 
@@ -838,7 +891,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-- **(2)** An order or direction referred to in subsection (1) is deemed not to be a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+- **(2)** An order or direction referred to in subsection (1) is not a statutory instrument as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2001, c. 26, s. 34; 2018, c. 27, s. 691.
+
 
 
 
@@ -882,6 +937,49 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(i)** Part 5 (Navigation Services) or 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans), to the extent that the Minister of Fisheries and Oceans is responsible for those Parts, or
 		- **(ii)** regulations made under subsection 136(2).
 > 2001, c. 26, s. 35, c. 29, s. 72; 2005, c. 29, s. 16; 2012, c. 31, s. 159.
+
+
+
+
+
+**Regulations — protection of marine environment**
+
+**35.1** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister of Transport, make regulations respecting the protection of the marine environment from the impacts of navigation and shipping activities, including regulations
+	- **(a)** respecting the design, construction, manufacture and maintenance of vessels or classes of vessels;
+	- **(b)** specifying the machinery, equipment and supplies that are required or prohibited on board vessels or classes of vessels;
+	- **(c)** respecting the design, construction, manufacture, maintenance, storage, testing, approval, arrangement and use of the machinery, equipment and supplies of vessels or classes of vessels;
+	- **(d)** respecting the requirements that vessels, or classes of vessels, and their machinery and equipment are to meet;
+	- **(e)** requiring the obtaining of certificates certifying that any of the requirements referred to in paragraph (d) are met;
+	- **(f)** specifying the terms and conditions of certificates referred to in paragraph (e);
+	- **(g)** respecting the inspections and testing of vessels, or classes of vessels, and their machinery, equipment and supplies;
+	- **(h)** respecting procedures and practices that are to be followed;
+	- **(i)** respecting the development, maintenance and implementation of a management system that sets out the manner in which marine environment protection measures are to be integrated into day-to-day navigation and shipping operations and the criteria to which that management system is to conform as well as the components that are to be included in the system;
+	- **(j)** respecting compulsory routes and recommended routes;
+	- **(k)** regulating or prohibiting the operation, navigation, anchoring, mooring or berthing of vessels or classes of vessels; and
+	- **(l)** regulating or prohibiting the loading or unloading of a vessel or a class of vessels.
+
+**Amendment by Minister of Transport**
+
+- **(2)** A regulation made under any of paragraphs (1)(h), (j) and (k) may
+	- **(a)** authorize the Minister of Transport to amend, by order, that regulation; and
+	- **(b)** set out the terms and conditions under which the regulation may be amended by that order.
+
+**Cessation of effect of order**
+
+- **(3)** An order referred to in subsection (2) has effect from the time that it is made and ceases to have effect on the earliest of
+	- **(a)** the day on which it is repealed; and
+	- **(b)** one year after the order is made or any shorter period that may be specified in the order.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order referred to in subsection (2).
+
+**Publication of order**
+
+- **(5)** The Minister of Transport shall publish, on the Department of Transport’s Internet site or by any other means that the Minister of Transport considers appropriate, a notice of every order referred to in subsection (2), as soon as feasible after it is made.
+> 2018, c. 27, s. 692.
 
 
 
@@ -1020,6 +1118,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000.
 > 2001, c. 26, s. 40; 2017, c. 26, s. 40.
+
+
+
+
+
+**Contravention of interim order or regulations**
+
+**40.1** 
+
+- **(1)** Every person who, or vessel that, contravenes any of the following commits an offence:
+	- **(a)** subsection 10.1(4) (compliance with interim order); or
+	- **(b)** a provision of a regulation made under subsection 35.1(1).
+
+**Punishment**
+
+- **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both.
+> 2018, c. 27, s. 693.
 
 
 
@@ -2559,7 +2674,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** respecting the requirements that vessels, or classes of vessels, and their machinery and equipment must meet;
 	- **(e)** requiring the obtaining of certificates certifying that any of the requirements referred to in paragraph (d) are met;
 	- **(f)** specifying the terms and conditions of certificates issued under this Part;
-	- **(g)** respecting inspections and the testing of vessels, or classes of vessels, and their machinery, equipment and supplies;
+	- **(g)** respecting the inspection and testing of vessels, or classes of vessels, and their machinery, equipment and supplies;
 	- **(h)** respecting load lines and draught marks on vessels or classes of vessels;
 	- **(i)** respecting procedures and practices that must be followed;
 	- **(j)** respecting compulsory routes and recommended routes;
@@ -2589,6 +2704,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contraventions of regulations**
 
 - **(5)** Despite section 105, paragraph 121(1)(s) applies in respect of contraventions of regulations made under subsection (3) or (4).
+> 2001, c. 26, s. 120; 2018, c. 27, s. 694(E).
+
 
 
 
@@ -2775,23 +2892,25 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 
 
-**Designation of rescue coordinators**
+**Designation — search and rescue mission coordinators**
 
 **130** 
 
-- **(1)** The Minister may designate persons as rescue coordinators to organize search and rescue operations.
+- **(1)** The Minister may designate persons as search and rescue mission coordinators to organize search and rescue operations.
 
-**Power of rescue coordinators**
+**Powers — search and rescue mission coordinators**
 
-- **(2)** On being informed that a person, a vessel or an aircraft is in distress or is missing in Canadian waters or on the high seas off any of the coasts of Canada under circumstances that indicate that they may be in distress, a rescue coordinator may
-	- **(a)** direct all vessels within an area that the rescue coordinator specifies to report their positions;
+- **(2)** On being informed that a person, a vessel or an aircraft is in distress or is missing in Canadian waters or on the high seas off any of the coasts of Canada under circumstances that indicate that they may be in distress, a search and rescue mission coordinator may
+	- **(a)** direct all vessels within an area that the search and rescue mission coordinator specifies to report their positions;
 	- **(b)** direct any vessel to take part in a search for that person, vessel or aircraft or to otherwise render assistance;
-	- **(c)** give any other directions that the rescue coordinator considers necessary to carry out search and rescue operations for that person, vessel or aircraft; and
+	- **(c)** give any other directions that the search and rescue mission coordinator considers necessary to carry out search and rescue operations for that person, vessel or aircraft; and
 	- **(d)** use any lands if it is necessary to do so for the purpose of saving the life of a shipwrecked person.
 
 **Duty to comply**
 
 - **(3)** Every vessel or person on board a vessel in Canadian waters and every vessel or person on board a vessel in any waters that has a master who is a qualified person shall comply with a direction given to it or them under subsection (2).
+> 2001, c. 26, s. 130; 2018, c. 27, s. 695.
+
 
 
 
@@ -2923,7 +3042,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 	- **(f)** subsection 126(6) (remain at port or proceed to safe port);
 	- **(g)** subsection 129(1) (report disturbance of aid to navigation);
 	- **(h)** subsection 129(2) (report navigation hazard);
-	- **(i)** subsection 130(3) (comply with direction of rescue coordinator); or
+	- **(i)** subsection 130(3) (comply with direction of search and rescue mission coordinator); or
 	- **(j)** a provision of the regulations made under this Part.
 
 **Punishment**
@@ -2937,6 +3056,8 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 **Vessel may be detained**
 
 - **(4)** If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require.
+> 2001, c. 26, s. 138; 2018, c. 27, s. 696.
+
 
 
 
@@ -3075,7 +3196,9 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 **Salvage**
 
-**147** Compliance with section 130 (direction of rescue coordinator), 131 (distress signals) or 132 (assisting a person found at sea) does not affect the right of a master or of any other person to salvage.
+**147** Compliance with section 130 (direction of search and rescue mission coordinator), 131 (distress signals) or 132 (assisting a person found at sea) does not affect the right of a master or of any other person to salvage.
+> 2001, c. 26, s. 147; 2018, c. 27, s. 697.
+
 
 
 
@@ -3405,24 +3528,24 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 **165** The definitions in this section apply in this Part.
 
-***discharge*** means a discharge of a pollutant from a vessel, or a discharge of oil from an oil handling facility engaged in loading to or unloading from a vessel, that directly or indirectly results in the pollutant entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
+***discharge*** means a discharge of a pollutant from a vessel, or a discharge of oil from an oil handling facility engaged in loading to or unloading from a vessel, that directly or indirectly results in the pollutant entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping. (*rejet*)
 
-***Minister*** means the Minister of Transport.
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***oil*** means petroleum in any form, including crude oil, fuel oil, sludge, oil refuse and refined products.
+***oil*** means petroleum in any form, including crude oil, fuel oil, sludge, oil refuse and refined products. (*hydrocarbures*)
 
-***oil pollution incident*** means an occurrence, or a series of occurrences having the same origin, that results or is likely to result in a discharge of oil.
+***oil pollution incident*** means an occurrence, or a series of occurrences having the same origin, that results or may result in a discharge of oil. (*événement de pollution par les hydrocarbures*)
 
-***pollutant*** means
+***pollutant*** means
 - **(a)** a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans; and
 - **(b)** any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans.
 
-It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant.
+It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. (*polluant*)
 
-***pollution damage***, in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility.
+***pollution damage***, in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. (*dommages dus à la pollution*)
 
-***response organization*** means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1).
-> 2001, c. 26, s. 165; 2005, c. 29, s. 21.
+***response organization*** means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). (*organisme d’intervention*)
+> 2001, c. 26, s. 165; 2005, c. 29, s. 21; 2018, c. 27, s. 698.
 
 
 
@@ -3528,10 +3651,10 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Minister may take measures**
 
-**168.3** If the Minister believes on reasonable grounds that an oil handling facility has discharged, is discharging or is likely to discharge oil, that the oil pollution prevention plan or the oil pollution emergency plan for an oil handling facility does not meet the requirements set out in the regulations or that the operator of an oil handling facility does not have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel, the Minister may
+**168.3** If the Minister believes on reasonable grounds that an oil handling facility has discharged, is discharging or may discharge oil, that the oil pollution prevention plan or the oil pollution emergency plan for an oil handling facility does not meet the requirements set out in the regulations or that the operator of an oil handling facility does not have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel, the Minister may
 - **(a)** monitor the measures taken by any person to repair, remedy, minimize or prevent pollution damage from the oil handling facility; or
 - **(b)** if he or she considers it necessary, direct the operator of the oil handling facility to take the measures that the Minister considers necessary to repair, remedy, minimize or prevent pollution damage from the oil handling facility, including to stop loading or unloading oil to or from vessels.
-> 2014, c. 29, s. 63.
+> 2014, c. 29, s. 63; 2018, c. 27, s. 699.
 
 
 
@@ -3693,10 +3816,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(2)** The Minister of Fisheries and Oceans must furnish every pollution response officer with a certificate of designation and, if the officer’s powers are limited under subsection (1), the certificate must specify the powers that the officer may exercise.
 
-**Immunity**
-
-- **(3)** Pollution response officers are not personally liable for anything they do or omit to do in good faith under this Part.
-> 2005, c. 29, s. 23.
+- **(3)** [Repealed, 2018, c. 27, s. 700]
+> 2005, c. 29, s. 23; 2018, c. 27, s. 700.
 
 
 
@@ -3719,7 +3840,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Powers — discharge of pollutant**
 
-- **(2)** If the pollution response officer believes on reasonable grounds that a vessel might discharge, or might have discharged, a pollutant, he or she may
+- **(2)** If the pollution response officer believes on reasonable grounds that a vessel has discharged, is discharging or may discharge a pollutant, he or she may
 	- **(a)** direct a vessel that is within or about to enter waters in respect of which this Part applies to proceed through those waters by the route, and at a speed not in excess of the speed, that he or she may specify;
 	- **(b)** go on board and take samples of any substance that he or she believes to be the pollutant;
 	- **(c)** if the vessel is within or about to enter waters in respect of which this Part applies, direct the vessel to
@@ -3750,7 +3871,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Notice**
 
 - **(7)** The certificate or report may be admitted in evidence only if the party who intends to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate or report.
-> 2005, c. 29, s. 23.
+> 2005, c. 29, s. 23; 2018, c. 27, s. 701.
 
 
 
@@ -3876,33 +3997,89 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-**Minister may take necessary measures**
+**Minister of Fisheries and Oceans — measures**
 
 **180** 
 
-- **(1)** If the Minister of Fisheries and Oceans believes on reasonable grounds that a vessel or an oil handling facility has discharged, is discharging or is likely to discharge a pollutant, he or she may
-	- **(a)** take the measures that he or she considers necessary to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility, including, in the case of a vessel, the removal or destruction of the vessel and its contents, and may sell or otherwise dispose of the vessel and its contents;
-	- **(b)** monitor the measures taken by any person to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility; or
+- **(1)** If the Minister of Fisheries and Oceans believes on reasonable grounds that a vessel or an oil handling facility has discharged, is discharging or may discharge a pollutant, he or she may
+	- **(a)** take the measures that he or she considers necessary to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility, including, in the case of a vessel, by removing — or by selling, dismantling, destroying or otherwise disposing of — the vessel or its contents;
+	- **(b)** monitor the measures taken by any person or vessel to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility; or
 	- **(c)** if he or she considers it necessary to do so, direct any person or vessel to take measures referred to in paragraph (a) or to refrain from doing so.
 
-**Application of proceeds of disposition**
+**Clear title**
 
-- **(2)** The proceeds from the sale or other disposal of a vessel or its contents under paragraph (1)(a) must be applied towards meeting the costs and expenses incurred in taking the measures under that paragraph, and any surplus must be paid to the vessel’s owner or the owner of the contents of the vessel, as the case may be.
+- **(2)** When a vessel or its contents are disposed of under paragraph 180(1)(a), the Minister of Fisheries and Oceans may give the person acquiring them a valid title to the vessel or its contents free from any mortgage, hypothec, maritime lien or other interest or right that is in existence at the time of the disposition.
+
+**At risk and expense of owner**
+
+- **(2.1)** The disposition is at the risk, cost and expense of the owner of the vessel or its contents.
+
+**Payment of proceeds**
+
+- **(2.2)** When a vessel or its contents are disposed of under paragraph 180(1)(a), any surplus remaining from the proceeds of the disposition after deducting the costs and expenses incurred in respect of the disposition shall be paid to the Minister of Fisheries and Oceans, in respect of all costs and expenses incurred in taking any other measures under this Part, and to the holders, if known at the time of the disposition, of any mortgages, hypothecs, maritime liens or other interests or rights that are in existence at the time of the disposition, and any amount that remains after paying the Minister of Fisheries and Oceans and the holders shall be paid to the owner of the vessel or the contents.
+
+**Federal Court directions**
+
+- **(2.3)** The Minister of Fisheries and Oceans may apply to the Federal Court for directions as to the allocation of the surplus referred to in subsection (2.2).
 
 **Compensation**
 
-- **(3)** Compensation shall be paid by Her Majesty in right of Canada for the services of any vessel or person, other than a vessel or the operator of an oil handling facility that had discharged, was discharging or was likely to discharge a pollutant, that has complied with a direction issued under paragraph (1)(c).
-> 2001, c. 26, s. 180; 2005, c. 29, s. 27.
+- **(3)** Compensation shall be paid by Her Majesty in right of Canada for the services of any person or vessel, other than the operator of an oil handling facility or vessel that had discharged, was discharging or may have discharged a pollutant, that has complied with a direction issued under paragraph (1)(c).
+
+**Priority**
+
+- **(4)** A direction made by the Minister of Fisheries and Oceans under paragraph (1)(c) prevails over an order or direction made under any Act of Parliament, to the extent of any inconsistency.
+> 2001, c. 26, s. 180; 2005, c. 29, s. 27; 2018, c. 27, s. 702.
 
 
 
 
 
-**Civil or criminal liability**
+**Entry on private property**
+
+**180.1** 
+
+- **(1)** The Minister of Fisheries and Oceans or a pollution response officer may enter private property – other than a dwelling-house – and pass through it, including with vehicles and equipment, for the purposes of exercising their powers or performing their duties or functions under this Part.
+
+**Accompanying persons**
+
+- **(2)** If the Minister of Fisheries and Oceans or a pollution response officer enters private property and passes through it, they may be accompanied by any person who they believe is necessary to help them in exercising their powers or performing their duties or functions under this Part.
+
+**Use of property**
+
+- **(3)** If required, the Minister of Fisheries and Oceans or the pollution response officer may use property adjacent to or in the vicinity of a vessel or oil handling facility — other than a dwelling-house — for the purposes of exercising their powers or performing their duties or functions under this Part, and any person accompanying that Minister or the pollution response officer may use such property to help that Minister or officer exercise their powers or perform their duties or functions under this Part.
+
+**Compensation**
+
+- **(4)** Her Majesty in right of Canada may compensate the owner of the property referred to in subsection (3), or any person that has, either by law or by contract, the rights of the owner of that property in respect of its possession and use, for any loss or damage caused by the use of that property under subsection (3) that exceeds the value of the benefit derived by the owner or person from that use.
+> 2018, c. 27, s. 703.
+
+
+
+
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+**180.2** An order or direction given under this Part by the Minister of Fisheries and Oceans or a pollution response officer is not a statutory instrument as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2018, c. 27, s. 703.
+
+
+
+
+
+**Immunity — taking or refraining from taking measures**
 
 **181** 
 
-- **(1)** A person who is directed to take or refrain from taking measures under paragraph 180(1)(c) is not personally liable, either civilly or criminally, in respect of any act or omission in the course of complying with the direction or doing anything incidental to it, unless it is shown that the person’s conduct was not reasonable in the circumstances.
+- **(1)** A person who, or vessel that, is directed to take or refrain from taking measures under paragraph 180(1)(c) is not personally liable, either civilly or criminally, for anything they do or omit to do in the course of complying with the direction, unless it is established that the act or omission was not reasonable in the circumstances.
+
+**Immunity — providing assistance**
+
+- **(1.1)** A person who provides assistance or advice in taking or refraining from taking any measure under section 180 is not personally liable, either civilly or criminally, for anything that they do or omit to do in the course of providing the assistance or advice, unless it is established that the act or omission was not reasonable in the circumstances.
+
+**Immunity — accompanying Minister or officer**
+
+- **(1.2)** A person who accompanies the Minister of Fisheries and Oceans or a pollution response officer under subsection 180.1(2) or (3) is not personally liable, either civilly or criminally, for anything that they do or omit to do in the exercise of their powers under that subsection in accompanying the Minister or officer, unless it is established that the act or omission was not reasonable in the circumstances.
 
 **Civil or criminal liability**
 
@@ -3910,12 +4087,25 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Exception**
 
-- **(3)** Nothing in subsection (1) exempts or lessens the liability of the owner of a vessel for the occurrence that necessitated the response operation.
+- **(3)** Nothing in subsection (1) affects the liability of the owner of a vessel, or of the vessel, that had discharged, was discharging or may have discharged a pollutant in respect of
+	- **(a)** the occurrence that resulted in the taking of the measures referred to in subsection 180(1); and
+	- **(b)** any act or omission in the course of complying with a direction given under paragraph 180(1)(c).
 
 **Definition of response operation**
 
 - **(4)** In this section, ***response operation*** means the activities undertaken following a discharge, or a grave and imminent threat of a discharge, from a vessel or an oil handling facility, including activities related to or connected with surveillance of and assessing areas of pollution, mobilizing and demobilizing response equipment and resources, protective booming, containment, recovery, dispersal or destruction of the pollutant, shoreline mitigation and restoration, transporting and disposing of recovered pollutant or waste materials and planning and supervising activities related to the response operation.
-> 2001, c. 26, s. 181; 2014, c. 29, s. 68.
+> 2001, c. 26, s. 181; 2014, c. 29, s. 68; 2018, c. 27, s. 704.
+
+
+
+
+
+**Immunity — civil liability**
+
+**181.1** The following persons are not civilly liable for anything they do or omit to do in good faith under this Part:
+- **(a)** a servant of the Crown, as those terms are defined in section 2 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md); and
+- **(b)** a pollution response officer.
+> 2018, c. 27, s. 705.
 
 
 
@@ -4015,18 +4205,18 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **185** The definitions in this section apply in this Part.
 
-***discharge*** means a discharge of a pollutant that directly or indirectly results in the pollutant entering waters, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
+***discharge*** means a discharge of a pollutant that directly or indirectly results in the pollutant entering waters, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping. (*rejet*)
 
-***Minister*** means the Minister of Transport.
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***oil pollution incident*** means an occurrence, or a series of occurrences having the same origin, that results or is likely to result in a discharge of oil.
+***oil pollution incident*** means an occurrence, or a series of occurrences having the same origin, that results or may result in a discharge of oil. (*événement de pollution par les hydrocarbures*)
 
-***pollutant*** means
+***pollutant*** means
 - **(a)** a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans; and
 - **(b)** any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans.
 
-It includes oil and any substance or class of substances that is prescribed for the purpose of Part 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to be a pollutant.
-> 2001, c. 26, s. 185; 2005, c. 29, s. 29.
+It includes oil and any substance or class of substances that is prescribed for the purpose of Part 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to be a pollutant. (*polluant*)
+> 2001, c. 26, s. 185; 2005, c. 29, s. 29; 2018, c. 27, s. 706.
 
 
 
@@ -4112,11 +4302,13 @@ It includes oil and any substance or class of substances that is prescribed for 
 	- **(j)** respecting the design, construction, manufacture, maintenance, storage, testing, arrangement and use of vessels’ or classes of vessels’ machinery, equipment and supplies;
 	- **(k)** respecting the requirements that vessels, or classes of vessels, and their machinery and equipment must meet;
 	- **(l)** requiring the obtaining of certificates certifying that any of the requirements referred to in paragraph (k) are met; and
-	- **(m)** respecting inspections and the testing of vessels, or classes of vessels, and their machinery, equipment and supplies.
+	- **(m)** respecting the inspection and testing of vessels, or classes of vessels, and their machinery, equipment and supplies.
 
 **Application of regulations**
 
 - **(2)** Regulations made under subsection (1) apply in respect of vessels that are capable of engaging in the drilling for, or the production, conservation or processing of, oil or gas only if the regulations so state and were made on the joint recommendation of the Minister and the Minister of Natural Resources.
+> 2001, c. 26, s. 190; 2018, c. 27, s. 707(E).
+
 
 
 
@@ -5215,7 +5407,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **When compliance agreement in effect**
 
-**243** If a violation arising out of the contravention of any provision of Part 4 or the regulations made under that Part is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with that provision will be carried out by the authorized representative or a person or an organization acting on their behalf, the penalty or range of penalties fixed under paragraph 244(h) in respect of the violation is doubled.
+**243** If a violation arising out of the contravention of any provision of Part 4, 8 or 9 or the regulations made under those Parts is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with that provision will be carried out by the authorized representative or a person or an organization acting on their behalf, the penalty or range of penalties fixed under paragraph 244(h) in respect of the violation is doubled.
+> 2001, c. 26, s. 243; 2018, c. 27, s. 708.
+
 
 
 
@@ -5234,11 +5428,11 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(e)** respecting the sale of a vessel under section 226, including measures that must be taken before the vessel is sold and the manner of establishing, and the priority of payment of, claims against the vessel;
 - **(f)** designating as a violation that may be proceeded with in accordance with sections 229 to 242 the contravention of a relevant provision, or the contravention of a direction given under a relevant provision, that is an offence under this Act;
 - **(g)** designating violations that, if continued on more than one day, constitute a separate violation for each day on which they are continued;
-- **(h)** designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $25,000 but in any event not greater than the maximum fine if the violation were proceeded with by way of summary conviction;
+- **(h)** designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $250,000 but in any event not greater than the maximum fine if the violation were proceeded with by way of summary conviction;
 - **(i)** respecting emergency and safety procedures for the purpose of paragraph 211(4)(d.1);
 - **(j)** respecting the service of documents required or authorized to be served under this Part, including the manner of serving them, the proof of their service and the circumstances under which they are deemed to have been served; and
 - **(k)** prescribing anything that by this Part is to be prescribed.
-> 2001, c. 26, s. 244, c. 29, s. 72; 2014, c. 29, s. 75.
+> 2001, c. 26, s. 244, c. 29, s. 72; 2014, c. 29, s. 75; 2018, c. 27, s. 709.
 
 
 
@@ -5630,8 +5824,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Crown not relieved**
 
-**268.1** Subsections 11(5) and 12(5), section 45 and subsections 154(3) and 195(3) do not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
-> 2001, c. 26, s. 268.1; 2014, c. 29, s. 77.
+**268.1** Subsections 11(5) and 12(5), section 45, subsection 154(3), paragraph 181.1(a) and subsection 195(3) do not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
+> 2001, c. 26, s. 268.1; 2014, c. 29, s. 77; 2018, c. 27, s. 710.
 
 
 
