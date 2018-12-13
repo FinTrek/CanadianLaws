@@ -343,6 +343,17 @@ where
 
 
 
+**Dutiable amount — consideration**
+
+**2.1** The following rules apply in determining an amount of consideration for the purposes of the definition dutiable amount in section 2:
+- **(a)** if a provision of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) deems the consideration, or part of the consideration, for a supply not to be consideration for the supply, a supply to be made for no consideration or a supply not to have been made by a person, that deeming does not apply for that determination; and
+- **(b)** subsection 155(1) of that Act is to be read without reference to “and the recipient of the supply is not a registrant who is acquiring the property or service for consumption, use or supply exclusively in the course of commercial activities of the recipient,”.
+> 2018, c. 27, s. 63.
+
+
+
+
+
 **References to other enactments**
 
 **3** A reference in this Act to a repealed enactment, or a portion of it, of the legislature of a province or territory shall, with respect to a subsequent transaction, matter or thing, be read as a reference to the provisions of any enactment replacing the repealed enactment or portion that relate to the same subject-matter as the repealed enactment or portion. If there is no replacement enactment or portion, or if there are no provisions in the replacement enactment that relate to the same subject-matter, the repealed enactment or portion shall be read as unrepealed in so far as is necessary to maintain or give effect to the reference.
@@ -4982,6 +4993,17 @@ and ending on the day on which the refund is paid to the person.
 
 
 
+**Time period not to count**
+
+**209.1** The following periods of time shall not be counted in the computation of the period of time within which an assessment of a person may be made under section 188 or 189:
+- **(a)** if the person is served a notice of a requirement under subsection 208(1), the period of time between the day on which an application for judicial review in respect of the requirement is made and the day on which the application is finally disposed of; and
+- **(b)** if an application is commenced by the Minister under subsection 209(1) to order the person to provide any access, assistance, information or record, the period of time between the day on which the person files a notice of appearance, or otherwise opposes the application, and the day on which the application is finally disposed of.
+> 2018, c. 27, s. 64.
+
+
+
+
+
 **Meaning of foreign-based information or record**
 
 **210** 
@@ -5014,15 +5036,17 @@ and ending on the day on which the refund is paid to the person.
 
 - **(6)** For the purposes of subsection (5), a requirement to provide information or a record shall not be considered to be unreasonable because the information or record is under the control of or available to a non-resident person that is not controlled by the person served with the notice of the requirement if that person is related to the non-resident person.
 
-**Time during consideration not to count**
+**Time period not to count**
 
-- **(7)** The period between the day on which an application for the review of a requirement is made and the day on which the review is decided shall not be counted in the computation of
+- **(7)** The period between the day on which an application for the review of a requirement is made and the day on which the application is finally disposed of shall not be counted in the computation of
 	- **(a)** the period set out in the notice of the requirement; and
 	- **(b)** the period within which an assessment may be made under section 188 or 189.
 
 **Consequence of failure**
 
 - **(8)** If a person fails to comply substantially with a notice served under subsection (2) and the notice is not set aside under subsection (5), any court having jurisdiction in a civil proceeding relating to the administration or enforcement of this Act shall, on the motion of the Minister, prohibit the introduction by that person of any foreign-based information or record described in that notice.
+> 2002, c. 22, s. 210; 2018, c. 27, s. 65.
+
 
 
 
@@ -5113,7 +5137,12 @@ It excludes information that does not directly or indirectly reveal the identity
 	- **(b)** provide a person with confidential information that can reasonably be regarded as necessary for the purposes of determining any liability or obligation of the person or any refund or other payment to which the person is or may become entitled under this Act;
 	- **(c)** provide, allow to be provided, or allow inspection of or access to any confidential information to or by any person, or any person within a class of persons, that the Minister may authorize, subject to any conditions that the Minister may specify;
 	- **(d)** provide any person who is legally entitled under an Act of Parliament to confidential information with, or access to, that information, solely for the purposes for which the person is entitled to the information;
-	- **(d.1)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, under, and solely for the purpose of, paragraph 33.1(a) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md);
+	- **(d.1)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, under, and solely for the purpose of,
+		- **(i)** paragraph 33.1(a) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md),
+		- **(ii)** an order made under subsection 462.48(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or
+		- **(iii)** an order made under the [Mutual Legal Assistance in Criminal Matters Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2030%20(4th%20Supp.).md) to gather or send information, for the purposes of an investigation or prosecution relating to an act or omission that, if it had occurred in Canada, would constitute an offence for which an order could be obtained under subsection 462.48(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in response to a request made pursuant to
+			- **(A)** an administrative arrangement entered into under section 6 of the [Mutual Legal Assistance in Criminal Matters Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2030%20(4th%20Supp.).md), or
+			- **(B)** a bilateral agreement for mutual legal assistance in criminal matters to which Canada is a party;
 	- **(e)** provide confidential information
 		- **(i)** to an official of the Department of Finance solely for the purpose of the formulation or evaluation of fiscal policy,
 		- **(ii)** to an official solely for the purpose of the initial implementation of a fiscal policy or for the purposes of the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the Unemployment Insurance Act or an Act of Parliament that provides for the imposition or collection of a tax or duty,
@@ -5141,7 +5170,7 @@ It excludes information that does not directly or indirectly reveal the identity
 		- **(i)** the information can reasonably be regarded as being relevant for the purpose of ascertaining the circumstances in which an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may have been committed, or the identity of the person or persons who may have committed an offence, with respect to an official, or with respect to any person related to that official,
 		- **(ii)** the official was or is engaged in the administration or enforcement of this Act, and
 		- **(iii)** the offence can reasonably be considered to be related to that administration or enforcement;
-	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a listed international agreement;
+	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a tax treaty (as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)) or in a listed international agreement;
 	- **(m)** provide confidential information to any person solely for the purpose of enabling the Chief Statistician, within the meaning assigned by section 2 of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), to provide to a statistical agency of a province data concerning business activities carried on in the province, if the information is used by the statistical agency solely for research and analysis and the statistical agency is authorized under the law of the province to collect the same or similar information on its own behalf in respect of such activities; or
 	- **(n)** provide confidential information to a person who has — under a program administered by the Canada Revenue Agency to obtain information relating to tax non-compliance — entered into a contract to provide information to the Canada Revenue Agency, to the extent necessary to inform the person of any amount they may be entitled to under the contract and of the status of their claim under the contract.
 
@@ -5215,7 +5244,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75; 2018, c. 12, s. 78.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75; 2018, c. 12, s. 78, c. 27, s. 66.
 
 
 
@@ -5715,12 +5744,12 @@ where
 - **(a)** the amount determined under section 1 of Schedule 7, as that section read at the time the contravention occurred, in respect of the cannabis products to which the contravention relates, and
 - **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in section 4 of Schedule 7, as that section read at that time;
 - **B** is
-- **(a)** if the offence occurred in a specified province, 300% of the amount determined for A, and
+- **(a)** if the contravention occurred in a specified province, 300% of the amount determined for A, and
 - **(b)** in any other case, 0; and
 - **C** is
-- **(a)** if the offence occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
+- **(a)** if the contravention occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
 - **(b)** in any other case, 0.
-> 2018, c. 12, s. 84.
+> 2018, c. 12, s. 84, c. 27, s. 67.
 
 
 
@@ -5756,12 +5785,12 @@ where
 - **(a)** the amount determined under section 1 of Schedule 7, as that section read at the time the contravention occurred, in respect of the cannabis products to which the contravention relates, and
 - **(b)** the amount obtained by multiplying the fair market value, at the time the contravention occurred, of the cannabis products to which the contravention relates by the percentage set out in section 4 of Schedule 7, as that section read at that time;
 - **B** is
-- **(a)** if the offence occurred in a specified province, 300% of the amount determined for A, and
+- **(a)** if the contravention occurred in a specified province, 300% of the amount determined for A, and
 - **(b)** in any other case, 0; and
 - **C** is
-- **(a)** if the offence occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
+- **(a)** if the contravention occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
 - **(b)** in any other case, 0.
-> 2018, c. 12, s. 86.
+> 2018, c. 12, s. 86, c. 27, s. 68.
 
 
 
