@@ -45,10 +45,18 @@ Assented to on 25 November 2005
 ***eligible wages*** means
 - **(a)** wages other than termination pay and severance pay that were earned during the longer of the following periods:
 	- **(i)** the six-month period ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer, and
-	- **(ii)** the period beginning on the day that is six months before the day on which a proposal under Division I of Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) is filed by or in respect of the employer or the day on which proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) are commenced and ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer; and
-- **(b)** termination pay and severance pay that relate to employment that ended during the period referred to in paragraph (a). (*salaire admissible*)
+	- **(ii)** the period beginning on the day that is six months before one of the following days and ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer:
+		- **(A)** the day on which a proposal is filed by or in respect of the employer under Division I of Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or, if a notice of intention to make a proposal is filed by or in respect of the employer under that Division, the day on which the notice of intention is filed,
+		- **(B)** the day on which the most recent proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) are commenced; and
+- **(b)** termination pay and severance pay that relate to employment that ended
+	- **(i)** during the period referred to in paragraph (a), or
+	- **(ii)** during the period beginning on the day after the day on which the period referred to in paragraph (a) ends and ending on the day on which the trustee is discharged or the receiver completes their duties, as the case may be. (*salaire admissible*)
 
 ***wages*** includes salaries, commissions, compensation for services rendered, vacation pay, termination pay, severance pay and any other amounts prescribed by regulation. (*salaire*)
+
+**Precision**
+
+- **(1.1)** For the purpose of the definition eligible wages, a proposal does not include a proposal for which a certificate is given under section 65.3 of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a notice of intention to make a proposal does not include a notice of intention in respect of a proposal for which such a certificate is given.
 
 **Employers subject to a receivership**
 
@@ -67,7 +75,7 @@ Assented to on 25 November 2005
 - **(5)** Despite subsection 4(5) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md),
 	- **(a)** for the purposes of paragraph 6(d), an individual is considered to deal at arm’s length with a related person if the Minister is satisfied that, having regard to the circumstances — including the terms and conditions of the individual’s employment with the former employer, their remuneration and the duration, nature and importance of the work performed for the former employer — it is reasonable to conclude that the individual would have entered into a substantially similar contract of employment with the former employer if they had been dealing with each other at arm’s length; and
 	- **(b)** for the purposes of subsection 21(4), individuals who are related to each other are, in the absence of evidence to the contrary, deemed not to deal with each other at arm’s length while so related.
-> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342; 2011, c. 24, s. 163; 2012, c. 19, s. 697(E); 2017, c. 26, s. 52.
+> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342; 2011, c. 24, s. 163; 2012, c. 19, s. 697(E); 2017, c. 26, s. 52; 2018, c. 27, s. 627.
 
 
 
@@ -122,7 +130,7 @@ Assented to on 25 November 2005
 	- **(i)** an officer or director of the former employer,
 	- **(ii)** a person who had a controlling interest within the meaning of the regulations in the business of the former employer, or
 	- **(iii)** an individual who occupied a managerial position within the meaning of the regulations with the former employer.
-> 2005, c. 47, s. 1 “6”; 2007, c. 36, s. 85; 2009, c. 2, s. 344.
+> 2005, c. 47, s. 1 “6”; 2007, c. 36, s. 85; 2009, c. 2, s. 344; 2018, c. 27, s. 630(F).
 
 
 
@@ -136,12 +144,12 @@ Assented to on 25 November 2005
 
 **7** 
 
-- **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of an amount equal to four times the maximum weekly insurable earnings under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), less any amount prescribed by regulation.
+- **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of an amount equal to seven times the maximum weekly insurable earnings under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), less any amount prescribed by regulation.
 
 **Bankruptcy and receivership**
 
 - **(2)** If the former employer is both bankrupt and subject to a receivership, the amount that may be paid is the greater of the amount determined in respect of the bankruptcy and the amount determined in respect of the receivership.
-> 2005, c. 47, s. 1 “7”; 2007, c. 36, s. 86; 2009, c. 2, s. 345; 2017, c. 26, s. 53.
+> 2005, c. 47, s. 1 “7”; 2007, c. 36, s. 86; 2009, c. 2, s. 345; 2017, c. 26, s. 53; 2018, c. 27, s. 631.
 
 
 
@@ -154,7 +162,7 @@ Assented to on 25 November 2005
 **Application**
 
 **8** To receive a payment, an individual is to apply to the Minister in the manner and during the period provided for in the regulations.
-> 2005, c. 47, s. 1 “8”; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “8”; 2007, c. 36, s. 87; 2018, c. 27, s. 632(F).
 
 
 
@@ -171,8 +179,14 @@ Assented to on 25 November 2005
 
 **Notification**
 
-**10** The Minister is to inform the applicant of their eligibility or ineligibility to receive a payment.
-> 2005, c. 47, s. 1 “10”; 2007, c. 36, s. 87.
+**10** 
+
+- **(1)** The Minister is to inform the applicant of their eligibility or ineligibility to receive a payment.
+
+**Notification to trustee or receiver**
+
+- **(2)** The Minister is to inform the trustee or receiver of the applicant’s eligibility or ineligibility to receive a payment.
+> 2005, c. 47, s. 1 “10”; 2007, c. 36, s. 87; 2018, c. 27, s. 633.
 
 
 
@@ -195,6 +209,15 @@ Assented to on 25 November 2005
 
 **12** The Minister may confirm, vary or rescind a determination of eligibility made under section 9. If the Minister varies the determination, the Minister shall make any payment resulting from the variation.
 > 2005, c. 47, s. 1 “12”; 2007, c. 36, s. 87.
+
+
+
+
+
+**Notification**
+
+**12.1** The Minister is to inform the applicant and the trustee or receiver of a decision made under section 12.
+> 2018, c. 27, s. 634.
 
 
 
@@ -249,15 +272,17 @@ Assented to on 25 November 2005
 
 **Copies of decision**
 
-**18** The adjudicator must send a copy of his or her decision, and the reasons for it, to each party to the appeal.
+**18** The adjudicator must send a copy of his or her decision, and the reasons for it, to each party to the appeal and to the trustee or receiver.
+> 2005, c. 47, s. 1 “18”; 2018, c. 27, s. 635.
+
 
 
 
 
 **No review by certiorari, etc.**
 
-**19** No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise — an action of an adjudicator under this Act.
-> 2005, c. 47, s. 1 “19”; 2007, c. 36, s. 89.
+**19** No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise — an action of an adjudicator under any of sections 14 to 18.
+> 2005, c. 47, s. 1 “19”; 2007, c. 36, s. 89; 2018, c. 27, s. 636.
 
 
 
@@ -288,7 +313,7 @@ Assented to on 25 November 2005
 	- **(a)** identify each individual who is owed eligible wages;
 	- **(b)** determine the amount of eligible wages owing to each individual;
 	- **(c)** inform each individual other than one who is in a class prescribed by regulation of the existence of the program established by section 4 and of the conditions under which payments may be made under this Act;
-	- **(d)** provide the Minister and each individual other than one who is in a class prescribed by regulation with the information prescribed by regulation in relation to the individual and with the amount of eligible wages owing to the individual; and
+	- **(d)** provide the Minister and each individual other than one who is in a class prescribed by regulation with the amount of eligible wages owing to the individual and any other information prescribed by regulation;
 	- **(e)** inform the Minister of when the trustee is discharged or the receiver completes their duties, as the case may be.
 
 **Compliance with directions**
@@ -301,8 +326,10 @@ Assented to on 25 November 2005
 
 **Duty to assist — payroll contractors**
 
-- **(4)** In the case of a person who is dealing at arm’s length with and providing payroll services to a bankrupt or insolvent person, they shall provide a description of the information that they do not have access to, an estimate of the cost of providing the information that they have and an estimate of the cost of providing the information that they only have access to.
-> 2005, c. 47, s. 1 “21”; 2007, c. 36, s. 89; 2009, c. 2, s. 346.
+- **(4)** A person who is dealing at arm’s length with and providing payroll services to a bankrupt or insolvent person and who has or has access to information described in paragraph (1)(d) shall,
+	- **(a)** if requested by the trustee or receiver, provide the trustee or receiver with a description of the information described in paragraph (1)(d) that they have or have access to and an estimate of the cost of providing the information; and
+	- **(b)** if requested by the trustee or receiver, provide the trustee or receiver with the information described in paragraph (1)(d) that they have or have access to.
+> 2005, c. 47, s. 1 “21”; 2007, c. 36, s. 89; 2009, c. 2, s. 346; 2018, c. 27, s. 637.
 
 
 
@@ -310,14 +337,17 @@ Assented to on 25 November 2005
 
 **Fees and expenses**
 
-**22** 
+**22** Subject to section 22.1, the trustee’s or receiver’s fees and expenses, in relation to the performance of their duties under this Act, are to be paid out of the estate of the bankrupt employer or the property of the insolvent employer, as the case may be.
+> 2005, c. 47, s. 1 “22”; 2007, c. 36, s. 89; 2018, c. 27, s. 638.
 
-- **(1)** The trustee’s or receiver’s fees and expenses, in relation to the performance of their duties under this Act, are to be paid out of the estate of the bankrupt employer or the property of the insolvent employer, as the case may be.
+
+
+
 
 **Minister to pay fees and expenses**
 
-- **(2)** The Minister shall, in the circumstances prescribed by regulation, pay the fees or expenses that are prescribed by regulation.
-> 2005, c. 47, s. 1 “22”; 2007, c. 36, s. 89.
+**22.1** The Minister shall, in the circumstances prescribed by regulation, pay any fees or expenses of the trustee or receiver that are prescribed by regulation in relation to the performance of their duties under this Act or the performance of their duties and functions or the exercise of their powers under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+> 2018, c. 27, s. 638.
 
 
 
@@ -418,7 +448,7 @@ Assented to on 25 November 2005
 **Social Insurance Number**
 
 **29** No person may knowingly use, communicate or allow to be communicated a Social Insurance Number that was obtained for a purpose related to an application for a payment under this Act except for the purpose of the administration or enforcement of this Act or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2005, c. 47, s. 1 “29”; 2007, c. 36, s. 90.
+> 2005, c. 47, s. 1 “29”; 2007, c. 36, s. 90; 2018, c. 27, s. 640(F).
 
 
 
@@ -452,6 +482,19 @@ Assented to on 25 November 2005
 
 
 
+**No payment or partial payment**
+
+**31.1** If the Minister determines that an individual did not receive all or part of a payment that they were eligible to receive, the Minister shall make a payment to them in an amount equal to the amount that they did not receive.
+> 2018, c. 27, s. 641.
+
+
+
+
+
+### Overpayments
+
+
+
 **Determination of overpayment**
 
 **32** 
@@ -460,14 +503,126 @@ Assented to on 25 November 2005
 	- **(a)** informing them of the determination; and
 	- **(b)** specifying the amount that they were not eligible to receive.
 
+**Notification**
+
+- **(2)** The Minister shall also inform the trustee or receiver of the determination and the amount that the individual was not eligible to receive.
+
+- **(3)** [Repealed, 2018, c. 27, s. 642]
+> 2005, c. 47, s. 1 “32”; 2007, c. 36, s. 91; 2018, c. 27, s. 642.
+
+
+
+
+
+**Request for review**
+
+**32.1** An individual who is informed of the Minister’s determination under subsection 32(1), other than a determination made as a result of a review under section 12, may request a review of the determination.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Review**
+
+**32.2** The Minister may confirm, vary or rescind a determination made under subsection 32(1).
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Notification**
+
+**32.3** The Minister shall inform the individual and the trustee or receiver of a decision made under section 32.2.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Review is final**
+
+**32.4** Subject to the right of appeal under section 32.5, the Minister’s confirmation, variation or rescission, as the case may be, is final and may not be questioned or reviewed in any court.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Appeal on question of law or jurisdiction**
+
+**32.5** The individual may appeal the decision made by the Minister under section 32.2 to an adjudicator only on a question of law or jurisdiction.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Appointment of adjudicator**
+
+**32.6** An appeal is to be heard by an adjudicator appointed by the Minister.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Appeal on the record**
+
+**32.7** The appeal is to be an appeal on the record and no new evidence is admissible.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Adjudicator’s decision**
+
+**32.8** The adjudicator may confirm, vary or rescind the decision made by the Minister under section 32.2.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Copies of decision**
+
+**32.9** The adjudicator must send a copy of his or her decision, and the reasons for it, to each party to the appeal and to the trustee or receiver.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**No review by certiorari, etc.**
+
+**32.91** No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise — an action of an adjudicator under any of sections 32.5 to 32.9.
+> 2018, c. 27, s. 643.
+
+
+
+
+
+**Decision is final**
+
+**32.92** The adjudicator’s decision is final and may not be questioned or reviewed in any court.
+> 2018, c. 27, s. 643.
+
+
+
+
+
 **Debt due to Her Majesty**
 
-- **(2)** The amount specified in the notice constitutes a debt due to Her Majesty in right of Canada and may be recovered by the Minister of National Revenue.
+**32.93** 
+
+- **(1)** An amount determined to be owing under section 32, 32.2 or 32.8 constitutes a debt due to Her Majesty in right of Canada and the debt may be recovered by the Minister of National Revenue.
 
 **Certificate of default**
 
-- **(3)** The amount of any debt referred to in subsection (2) that remains unpaid 30 days after the day on which the notice is sent may be certified by the Minister, and registration of the certificate in the Federal Court has the same effect as a judgment of that Court for the amount specified in the certificate and all related registration costs.
-> 2005, c. 47, s. 1 “32”; 2007, c. 36, s. 91.
+- **(2)** The amount of any debt referred to in subsection (1) may be certified by the Minister, and registration of the certificate in the Federal Court has the same effect as a judgment of that Court for the amount specified in the certificate and all related registration costs.
+> 2018, c. 27, s. 643.
 
 
 
@@ -475,17 +630,17 @@ Assented to on 25 November 2005
 
 **Garnishment**
 
-**33** If the Minister is of the opinion that a person is or is about to become liable to pay an amount to an individual who is indebted to Her Majesty under section 32, the Minister may, by written notice, order the person to pay to the Receiver General on account of the individual’s liability all or part of the amount otherwise payable to the individual.
-> 2005, c. 47, s. 1 “33”; 2007, c. 36, s. 91.
+**33** If the Minister is of the opinion that a person is or is about to become liable to pay an amount to an individual who is indebted to Her Majesty under subsection 32.93(1), the Minister may, by written notice, order the person to pay to the Receiver General on account of the individual’s liability all or part of the amount otherwise payable to the individual.
+> 2005, c. 47, s. 1 “33”; 2007, c. 36, s. 91; 2018, c. 27, s. 643.
 
 
 
 
 
-**No payment or partial payment**
+**When debt may be recovered**
 
-**34** If the Minister determines that an individual did not receive all or part of a payment that they were eligible to receive, the Minister shall make a payment to them in an amount equal to the amount that they did not receive.
-> 2005, c. 47, s. 1 “34”; 2007, c. 36, s. 92(E).
+**34** Any action to recover a debt under subsection 32.93(2) or section 33 may be taken only after the end of the period within which an individual may request a review under section 32.1 or, if the individual requests a review within that period, after final disposition of the review and any appeals.
+> 2005, c. 47, s. 1 “34”; 2007, c. 36, s. 92(E); 2018, c. 27, s. 643.
 
 
 
@@ -506,14 +661,39 @@ Assented to on 25 November 2005
 
 **36** 
 
-- **(1)** If a payment is made under this Act to an individual in respect of unpaid wages, Her Majesty in right of Canada is, to the extent of the amount of the payment, subrogated to any rights the individual may have in respect of the unpaid wages against
+- **(1)** If a payment is made under this Act to an individual in respect of eligible wages, Her Majesty in right of Canada is, to the extent of the amount of the payment, subrogated to any rights the individual may have in respect of the eligible wages against
 	- **(a)** the bankrupt or insolvent employer; and
 	- **(b)** if the bankrupt or insolvent employer is a corporation, a director of the corporation.
+
+**Notice to Minister**
+
+- **(1.1)** Unless the Minister directs otherwise, an individual who received a payment under this Act shall notify the Minister, in writing, of any action or other proceeding, other than the one in respect of which the individual received the payment, to recover eligible wages, including an action or other proceeding that is commenced by another person or organization and of which the individual is aware. The notice shall contain any information prescribed by regulation.
+
+**Notice to Minister — decision or order**
+
+- **(1.2)** Unless the Minister directs otherwise, an individual who received a payment under this Act shall also notify the Minister, in writing, of any final decision or order, of which they are aware, respecting the recovery of eligible wages. The notice shall contain any information prescribed by regulation.
 
 **Maintaining an action**
 
 - **(2)** For the purposes of subsection (1), Her Majesty in right of Canada may maintain an action in the name of the individual or Her Majesty in right of Canada.
-> 2005, c. 47, s. 1 “36”; 2007, c. 36, s. 93.
+> 2005, c. 47, s. 1 “36”; 2007, c. 36, s. 93; 2018, c. 27, s. 646.
+
+
+
+
+
+**Payment to Her Majesty in right of Canada**
+
+**36.1** 
+
+- **(1)** If, under a court judgment or for any other reason, a trustee, receiver or any other person is required to pay eligible wages to an individual who the trustee, receiver or other person has reason to believe has received a payment under this Act, the trustee, receiver or other person shall
+	- **(a)** ascertain whether Her Majesty in right of Canada is subrogated to any rights the individual may have in respect of the eligible wages; and
+	- **(b)** if Her Majesty in right of Canada is subrogated, pay to Her Majesty the amount in respect of which Her Majesty is subrogated before making any payment to the individual in respect of eligible wages.
+
+**Components of wages**
+
+- **(2)** A trustee, receiver or other person who makes a payment under paragraph (1)(b) shall provide the Minister with information respecting the components of wages to which the payment relates.
+> 2018, c. 27, s. 647.
 
 
 
@@ -597,12 +777,13 @@ Assented to on 25 November 2005
 - **(d)** prescribing an amount for the purposes of subsection 7(1);
 - **(e)** respecting the allocation of payments to the different components of wages;
 - **(f)** respecting the period during which and the manner in which applications for payments are to be made under section 8;
-- **(g)** respecting the period during which and the manner in which a review may be requested under section 11 or an appeal may be made under section 14;
+- **(g)** respecting the period during which and the manner in which a review may be requested under section 11 or 32.1 or an appeal may be made under section 14 or 32.5;
 - **(h)** prescribing the classes of individuals that the trustee or receiver is not required to inform under paragraph 21(1)(c) or to whom they are not required to provide information under paragraph 21(1)(d);
 - **(i)** respecting the information that is to be provided by trustees and receivers to the Minister and to individuals for the purposes of paragraph 21(1)(d) and respecting the period during which and the manner in which that information is to be provided;
-- **(j)** respecting the period during which and the manner in which the information referred to in paragraph 21(1)(c) and subsections 21(3) and (4) is to be provided; and
-- **(k)** prescribing fees and expenses for the purposes of subsection 22(2) and the circumstances in which they are to be paid.
-> 2005, c. 47, s. 1 “41”; 2007, c. 36, s. 94; 2009, c. 2, s. 347.
+- **(j)** respecting the period during which and the manner in which the information referred to in paragraph 21(1)(c) and subsections 21(3) and (4) is to be provided;
+- **(k)** prescribing fees and expenses for the purposes of section 22.1 and the circumstances in which they are to be paid; and
+- **(l)** prescribing the period during which and the manner in which the Minister must be notified under subsection 36(1.1) or (1.2) and the information that must be contained in the notice.
+> 2005, c. 47, s. 1 “41”; 2007, c. 36, s. 94; 2009, c. 2, s. 347; 2018, c. 27, s. 648.
 
 
 
