@@ -301,7 +301,7 @@ It excludes interests or rights that were received from a person as a gift or le
 
 - **(2)** Sections 13 to 52 only apply to a First Nation, as defined in subsection 2(1) of the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md), if
 	- **(a)** on the day on which this subsection comes into force, the land code that the First Nation adopts under section 6 of that Act is not in force; and
-	- **(b)** the First Nation laws that it enacts under section 7 of this Act or the rules and procedures that it establishes under section 17 of that Act are not in force.
+	- **(b)** the First Nation laws that it enacts under section 7 of this Act or paragraph 20(1)(c) of that Act are not in force.
 
 **Self-governing First Nations that retain reserve land**
 
@@ -320,6 +320,8 @@ It excludes interests or rights that were received from a person as a gift or le
 **Notice on coming into force**
 
 - **(6)** If a First Nation in respect of which the Minister has made a declaration enacts the First Nation laws referred to in section 7 under that section or under the self-government agreement, and those laws come into force, the First Nation must notify the Minister in writing without delay.
+> 2013, c. 20, s. 12; 2018, c. 27, s. 384.
+
 
 
 
