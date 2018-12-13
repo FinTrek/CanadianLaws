@@ -11930,9 +11930,12 @@ is of
 
 ***controlled foreign affiliate*** has the meaning assigned by subsection 95(1) of the Act; (*société étrangère affiliée contrôlée*)
 
-***designated person or partnership***, in respect of a taxpayer at any time, means the taxpayer or a person or partnership that is at that time
-- **(a)** a person (other than a partnership) that does not, at that time, deal at arm’s length with the taxpayer, or
-- **(b)** a partnership a member of which is, at that time, a designated person or partnership in respect of the taxpayer under this definition; (*personne ou société de personnes désignée*)
+***designated person or partnership***, in respect of a taxpayer at any time, means
+- **(a)** the taxpayer,
+- **(b)** a person or partnership that is at that time
+	- **(i)** a person (other than a partnership) that does not, at that time, deal at arm’s length with the taxpayer, or
+	- **(ii)** a partnership a member of which is, at that time, a designated person or partnership in respect of the taxpayer under this definition, and
+- **(c)** if a foreign affiliate of the taxpayer is an original corporation that undergoes a division in respect of which subsection 15(1.5) of the Act applies, a new corporation in respect of the division; (*personne ou société de personnes désignée*)
 
 ***earnings*** of a foreign affiliate of a taxpayer resident in Canada for a taxation year of the affiliate from an active business means
 - **(a)** in the case of an active business carried on by it in a country,
@@ -12468,7 +12471,7 @@ exceeds
 	- **(e)** any loss of the affiliate for a preceding or a subsequent taxation year so deducted,
 	- **(f)** any revenue, income or profit (other than an amount referred to in paragraph (f.1), (h) or (i)) of the affiliate derived in the year from such business carried on in that country to the extent that such revenue, income or profit
 		- **(i)** is not otherwise required to be included in computing the earnings amount of the affiliate for any taxation year by the income tax law that is relevant in computing that amount, and
-		- **(ii)** subject to subsection (2.01), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
+		- **(ii)** subject to subsections (2.01) and (2.011), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
 			- **(A)** to a person or partnership that was, at the time of the disposition, a designated person or partnership in respect of the taxpayer, and
 			- **(B)** to which a tax deferral, rollover or similar tax postponement provision of the income tax laws that are relevant in computing the earnings amount of the affiliate applied, and
 	- **(f.1)** any assistance from a government, municipality or other public authority (other than any such assistance that reduced the amount of an expenditure for purposes of computing the earnings amount for any taxation year) that the affiliate received or became entitled to receive in the year in connection with such business carried on in that country that is not otherwise required to be included in computing the earnings amount for the year or for any other taxation year,
@@ -12480,7 +12483,7 @@ and there shall be deducted such portion of the following amounts as were includ
 		- **(i)** such loss, outlay or expense is not otherwise permitted to be deducted in computing the earnings amount of the affiliate for any taxation year by the income tax law that is relevant in computing that amount, or
 		- **(ii)** such outlay or expense can reasonably be regarded as applicable to any revenue added to the earnings amount of the affiliate under paragraph (f),
 where such loss, outlay or expense
-		- **(iii)** subject to subsection (2.01), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
+		- **(iii)** subject to subsections (2.01) and (2.011), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
 			- **(A)** to a person or partnership that was, at the time of the disposition, a designated person or partnership in respect of the taxpayer, and
 			- **(B)** to which a loss deferral or similar loss postponement provision of the income tax laws that are relevant in computing the earnings amount of the affiliate applied, and
 		- **(iv)** is not
@@ -12493,6 +12496,11 @@ where such loss, outlay or expense
 - **(2.01)** Subparagraphs (2)(f)(ii) and (j)(iii) and subsection (5.1) do not apply to a particular disposition of property (referred to in this subsection as the “affiliate property”) by a particular foreign affiliate of a taxpayer if
 	- **(a)** the only consideration received in respect of the particular disposition is shares of the capital stock of another foreign affiliate of the taxpayer;
 	- **(b)** all of the shares of the capital stock of the other affiliate that are, immediately after the particular disposition, owned by the particular affiliate are disposed of, at a particular time that is within 90 days of the day that includes the time of the particular disposition, to a person or partnership that at the particular time is not a designated person or partnership in respect of the taxpayer; and
+	- **(c)** the affiliate property is not disposed of by the other affiliate as part of a series of transactions or events that includes the particular disposition.
+
+- **(2.011)** Subparagraphs (2)(f)(ii) and (j)(iii) and subsection (5.1) do not apply to a particular disposition of property (referred to in this subsection as the “affiliate property”) by a particular foreign affiliate of a taxpayer to another foreign affiliate of the taxpayer if
+	- **(a)** the particular disposition is a disposition referred to in subparagraph 15(1.5)(c)(i) of the Act;
+	- **(b)** all of the shares of the capital stock of the other affiliate are owned, at a particular time that is within 180 days after the day that includes the time of the particular disposition, by a person or partnership that at the particular time is not a designated person or partnership in respect of the taxpayer; and
 	- **(c)** the affiliate property is not disposed of by the other affiliate as part of a series of transactions or events that includes the particular disposition.
 
 - **(2.02)** If an amount or a portion of an amount would, in the absence of this subsection, be included in computing the exempt earnings, or deducted in computing the exempt loss, of a foreign affiliate of a corporation in respect of the corporation for a taxation year of the affiliate and the amount or portion arises from a disposition of property (other than money), at any time, to a person or partnership that was, at that time, a designated person or partnership in respect of the corporation where that disposition is a transaction (within the meaning of subsection 245(1) of the Act) that is, or would be (if the amount or portion were a tax benefit for the purposes of section 245 of the Act), an avoidance transaction (within the meaning of subsection 245(3) of the Act), the following rules apply:
@@ -12719,7 +12727,7 @@ exceeds
 	- **(a)** the amount (determined on the assumption that the notional actual disposition occurred at the time of the deemed disposition) that can reasonably be considered to be the amount of income or profits tax that the affiliate would, because of the notional actual disposition, have had refunded to it by the government of a particular country (other than Canada), in addition to any other income or profits tax otherwise refundable by that government, in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition
 exceeds
 	- **(b)** the amount that can reasonably be considered to be the portion of the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition (determined on the assumptions that the notional actual disposition occurred immediately after the time that is immediately after the time of the deemed disposition and that the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the notional actual disposition is equal to the amount determined by paragraph (a)) that, because of a comprehensive agreement or convention for the elimination of double taxation on income between the government of the particular country and the government of any other country, would not have been refundable by the government of the particular country.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401; 2014, c. 39, s. 88; 2017, c. 33, s. 97.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401; 2014, c. 39, s. 88; 2017, c. 33, s. 97; 2018, c. 27, s. 39.
 
 
 
