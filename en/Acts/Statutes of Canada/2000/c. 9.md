@@ -14368,25 +14368,24 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **509** 
 
-- **(1)** The Commissioner of Canada Elections shall be appointed by the Director of Public Prosecutions to hold office during good behaviour for a term of seven years and may be removed by the Director of Public Prosecutions for cause.
+- **(1)** The Commissioner of Canada Elections shall be appointed by the Chief Electoral Officer, after consultation with the Director of Public Prosecutions, to hold office during good behaviour for a non-renewable term of 10 years and may be removed by the Chief Electoral Officer for cause.
 
-**No consultation**
+**Remuneration**
 
-- **(2)** The Director of Public Prosecutions shall not consult the Chief Electoral Officer with respect to the appointment of the Commissioner.
+- **(2)** The Commissioner shall be paid the remuneration that is fixed by the Chief Electoral Officer, after consultation with the Director of Public Prosecutions.
 
 **Ineligibility**
 
 - **(3)** A person is not eligible to be appointed as Commissioner if the person is or has been
 	- **(a)** a candidate;
-	- **(b)** an employee of a registered party or a person whose services have been engaged by the registered party to support its electoral or political financing activities;
-	- **(c)** a member of the staff referred to in any of paragraphs 4(2)(a) to (f) of the [Parliamentary Employment and Staff Relations Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2033%20(2nd%20Supp.).md) or a person referred to in paragraph 4(2)(g) of that Act;
-	- **(d)** the Chief Electoral Officer, a member of his or her staff or a person whose services have been engaged under subsection 20(1); or
-	- **(e)** an election officer referred to in any of paragraphs 22(1)(a) to (b).
+	- **(b)** an employee of a registered party or a person whose services have been engaged by the registered party to support its electoral or political financing activities; or
+	- **(c)** a member of the staff referred to in any of paragraphs 4(2)(a) to (f) of the [Parliamentary Employment and Staff Relations Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2033%20(2nd%20Supp.).md) or a person referred to in paragraph 4(2)(g) of that Act.
+	- **(d) and (e)** [Repealed, 2018, c. 31, s. 351]
 
 **No re-appointment**
 
 - **(4)** A person who has served as Commissioner is not eligible for re-appointment to that office.
-> 2000, c. 9, s. 509; 2014, c. 12, ss. 108, 154.
+> 2000, c. 9, s. 509; 2014, c. 12, ss. 108, 154; 2018, c. 31, s. 351.
 
 
 
