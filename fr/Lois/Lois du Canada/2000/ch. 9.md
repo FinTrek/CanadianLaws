@@ -14308,25 +14308,24 @@ La demande est notifiée au directeur général des élections.
 
 **509** 
 
-- **(1)** Le commissaire aux élections fédérales est nommé à titre inamovible pour un mandat de sept ans par le directeur des poursuites pénales, sous réserve de révocation motivée de sa part.
+- **(1)** Le commissaire aux élections fédérales est nommé à titre inamovible pour un mandat non renouvelable de dix ans par le directeur général des élections, après consultation du directeur des poursuites pénales, sous réserve de révocation motivée de la part du directeur général des élections.
 
-**Absence de consultation**
+**Rémunération**
 
-- **(2)** Le directeur des poursuites pénales ne peut consulter le directeur général des élections relativement à la nomination du commissaire.
+- **(2)** Il reçoit la rémunération que fixe le directeur général des élections, après consultation du directeur des poursuites pénales.
 
 **Inéligibilité**
 
 - **(3)** Ne peut être nommé commissaire quiconque est ou a été :
 	- **a)** un candidat;
 	- **b)** un employé d’un parti enregistré ou une personne dont les services ont été retenus par le parti enregistré au soutien de ses activités électorales ou de ses activités de financement politique;
-	- **c)** un membre du personnel visé à l’un ou l’autre des alinéas 4(2)a) à g) de la [Loi sur les relations de travail au Parlement](/fr/Lois/Lois%20du%20Canada/1985/ch.%2033%20(2e%20suppl.).md);
-	- **d)** le directeur général des élections, un membre de son personnel ou une personne dont les services ont été retenus au titre du paragraphe 20(1);
-	- **e)** un fonctionnaire électoral visé à l’un ou l’autre des alinéas 22(1)a) à b).
+	- **c)** un membre du personnel visé à l’un ou l’autre des alinéas 4(2)a) à g) de la [Loi sur les relations de travail au Parlement](/fr/Lois/Lois%20du%20Canada/1985/ch.%2033%20(2e%20suppl.).md).
+	- **d) et e)** [Abrogés, 2018, ch. 31, art. 351]
 
 **Commissaire ne peut être nommé**
 
 - **(4)** La personne qui a servi à titre de commissaire ne peut être nommée à nouveau à ce poste.
-> 2000, ch. 9, art. 509; 2014, ch. 12, art. 108 et 154.
+> 2000, ch. 9, art. 509; 2014, ch. 12, art. 108 et 154; 2018, ch. 31, art. 351.
 
 
 
