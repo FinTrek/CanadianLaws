@@ -47,8 +47,16 @@ Sanctionnée sur le 25 novembre 2005
 ***salaire admissible***
 - **a)** Le salaire — autre que l’indemnité de préavis et l’indemnité de départ — qui a été gagné au cours de la plus longue des périodes suivantes :
 	- **(i)** la période de six mois se terminant à la date de la faillite ou de l’entrée en fonctions du séquestre,
-	- **(ii)** la période commençant à la date précédant de six mois la date du dépôt d’une proposition concordataire faite au titre de la section I de la partie III de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou celle de l’introduction d’une procédure sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) et se terminant à la date de la faillite ou de l’entrée en fonctions du séquestre;
-- **b)** l’indemnité de préavis et l’indemnité de départ se rapportant à l’emploi qui a pris fin au cours de la période mentionnée à l’alinéa a). (*eligible wages*)
+	- **(ii)** la période se terminant à la date de la faillite ou de l’entrée en fonctions du séquestre et commençant :
+		- **(A)** soit à la date précédant de six mois la date du dépôt d’une proposition concordataire visant l’employeur et faite au titre de la section I de la partie III de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ou, s’il y a dépôt d’un avis d’intention, au titre de cette section, visant l’employeur, la date précédant de six mois la date du dépôt de l’avis,
+		- **(B)** soit à la date précédant de six mois la date de l’introduction de la plus récente procédure sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md);
+- **b)** l’indemnité de préavis et l’indemnité de départ se rapportant à l’emploi qui a pris fin :
+	- **(i)** soit au cours de la période visée à l’alinéa a),
+	- **(ii)** soit au cours de la période commençant le jour suivant la date de la fin de la période visée à l’alinéa a) et se terminant à la date à laquelle le syndic est libéré ou à la date à laquelle le séquestre a complété l’exécution des fonctions dont il a été chargé, selon le cas. (*eligible wages*)
+
+**Précision**
+
+- **(1.1)** Sont exclus de la définition de salaire admissible, les propositions qui font l’objet d’un certificat d’exécution intégrale remis en application de l’article 65.3 de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ainsi que les avis d’intention à l’égard des propositions qui font l’objet d’un tel certificat.
 
 **Employeur faisant l’objet d’une mise sous séquestre**
 
@@ -65,9 +73,9 @@ Sanctionnée sur le 25 novembre 2005
 **Personnes liées**
 
 - **(5)** Malgré le paragraphe 4(5) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) :
-	- **a)** pour l’application de l’alinéa 6d), il est réputé n’exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d’emploi de la personne auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l’importance du travail accompli, qu’il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu’elle aurait conclu n’eût été le lien de dépendance;
+	- **a)** pour l’application de l’alinéa 6d), il est réputé n’exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d’emploi de la personne physique auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l’importance du travail accompli, qu’il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu’elle aurait conclu n’eût été le lien de dépendance;
 	- **b)** pour l’application du paragraphe 21(4), les personnes physiques liées entre elles sont, sauf preuve contraire, réputées avoir un lien de dépendance tant qu’elles sont ainsi liées.
-> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A); 2017, ch. 26, art. 52.
+> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A); 2017, ch. 26, art. 52; 2018, ch. 27, art. 627.
 
 
 
@@ -114,12 +122,12 @@ Sanctionnée sur le 25 novembre 2005
 
 **Exceptions**
 
-**6** La personne n’est pas admissible au versement de prestations à l’égard de tout salaire gagné au cours d’une période — ou qui s’y rapporte autrement — durant laquelle, selon le cas :
+**6** La personne physique n’est pas admissible au versement de prestations à l’égard de tout salaire gagné au cours d’une période — ou qui s’y rapporte autrement — durant laquelle, selon le cas :
 - **a)** elle occupait un poste de dirigeant ou d’administrateur auprès de son ancien employeur;
 - **b)** elle avait une participation lui assurant le contrôle, au sens des règlements, dans les affaires de son ancien employeur;
 - **c)** elle occupait un poste de cadre, au sens des règlements, auprès de son ancien employeur;
 - **d)** elle avait un lien de dépendance avec une personne physique occupant un poste de dirigeant ou d’administrateur auprès de son ancien employeur, ou de cadre auprès de celui-ci au sens des règlements, ou avec une personne qui avait une participation lui assurant le contrôle, au sens des règlements, dans les affaires de son ancien employeur.
-> 2005, ch. 47, art. 1 « 6 »; 2007, ch. 36, art. 85; 2009, ch. 2, art. 344.
+> 2005, ch. 47, art. 1 « 6 »; 2007, ch. 36, art. 85; 2009, ch. 2, art. 344; 2018, ch. 27, art. 630(F).
 
 
 
@@ -133,12 +141,12 @@ Sanctionnée sur le 25 novembre 2005
 
 **7** 
 
-- **(1)** Le montant des prestations à verser à une personne au titre de la présente loi est égal au salaire admissible qui lui est dû jusqu’à concurrence de la somme correspondant à quatre fois le maximum de la rémunération hebdomadaire assurable, au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), défalcation faite de toute somme réglementaire.
+- **(1)** Le montant des prestations à verser à une personne physique au titre de la présente loi est égal au salaire admissible qui lui est dû jusqu’à concurrence de la somme correspondant à sept fois le maximum de la rémunération hebdomadaire assurable, au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), défalcation faite de toute somme réglementaire.
 
 **Faillite et mise sous séquestre**
 
 - **(2)** Si l’ancien employeur à la fois est en faillite et fait l’objet d’une mise sous séquestre, le montant à verser est le plus élevé de celui qui est déterminé dans le cas de la faillite et de celui qui est déterminé dans le cas de la mise sous séquestre.
-> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345; 2017, ch. 26, art. 53.
+> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345; 2017, ch. 26, art. 53; 2018, ch. 27, art. 631.
 
 
 
@@ -150,8 +158,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Demande**
 
-**8** Pour obtenir des prestations, la personne présente une demande au ministre selon les modalités — de temps et autres — prévues par règlement.
-> 2005, ch. 47, art. 1 « 8 »; 2007, ch. 36, art. 87.
+**8** Pour obtenir des prestations, la personne physique présente une demande au ministre selon les modalités — de temps et autres — prévues par règlement.
+> 2005, ch. 47, art. 1 « 8 »; 2007, ch. 36, art. 87; 2018, ch. 27, art. 632(F).
 
 
 
@@ -168,8 +176,14 @@ Sanctionnée sur le 25 novembre 2005
 
 **Notification**
 
-**10** Le ministre informe le demandeur de sa décision, qu’elle lui soit favorable ou non.
-> 2005, ch. 47, art. 1 « 10 »; 2007, ch. 36, art. 87.
+**10** 
+
+- **(1)** Le ministre informe le demandeur de sa décision, qu’elle lui soit favorable ou non.
+
+**Notification : syndic ou séquestre**
+
+- **(2)** Le ministre informe le syndic ou le séquestre de sa décision, qu’elle soit favorable ou non au demandeur.
+> 2005, ch. 47, art. 1 « 10 »; 2007, ch. 36, art. 87; 2018, ch. 27, art. 633.
 
 
 
@@ -192,6 +206,15 @@ Sanctionnée sur le 25 novembre 2005
 
 **12** Le ministre peut confirmer, modifier ou infirmer sa décision et, s’il la modifie, il verse toute prestation à laquelle le demandeur est admissible par suite de la modification.
 > 2005, ch. 47, art. 1 « 12 »; 2007, ch. 36, art. 87.
+
+
+
+
+
+**Notification**
+
+**12.1** Le ministre informe le demandeur ainsi que le syndic ou le séquestre de la décision visée à l’article 12.
+> 2018, ch. 27, art. 634.
 
 
 
@@ -246,15 +269,17 @@ Sanctionnée sur le 25 novembre 2005
 
 **Remise de la décision**
 
-**18** L’arbitre transmet une copie de sa décision motivée aux parties à l’appel.
+**18** L’arbitre transmet une copie de sa décision motivée aux parties à l’appel ainsi qu’au syndic ou au séquestre.
+> 2005, ch. 47, art. 1 « 18 »; 2018, ch. 27, art. 635.
+
 
 
 
 
 **Interdiction de recours extraordinaire**
 
-**19** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre dans le cadre de la présente loi.
-> 2005, ch. 47, art. 1 « 19 »; 2007, ch. 36, art. 89.
+**19** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre prise en vertu de l’un des articles 14 à 18.
+> 2005, ch. 47, art. 1 « 19 »; 2007, ch. 36, art. 89; 2018, ch. 27, art. 636.
 
 
 
@@ -282,10 +307,10 @@ Sanctionnée sur le 25 novembre 2005
 **21** 
 
 - **(1)** Pour l’application de la présente loi, il incombe au syndic ou au séquestre, selon le cas :
-	- **a)** d’identifier chaque personne qui est titulaire d’une créance au titre du salaire admissible;
-	- **b)** de déterminer le montant du salaire admissible qui est dû à chaque personne;
-	- **c)** d’informer chaque personne, sauf celle qui fait partie d’une catégorie réglementaire, de l’existence du programme établi à l’article 4 et des conditions auxquelles les prestations peuvent être versées au titre de la présente loi;
-	- **d)** de transmettre au ministre et à chaque personne, sauf celle qui fait partie d’une catégorie réglementaire, les renseignements réglementaires la concernant et le montant du salaire admissible qui lui est dû;
+	- **a)** d’identifier chaque personne physique qui est titulaire d’une créance au titre du salaire admissible;
+	- **b)** de déterminer le montant du salaire admissible qui est dû à chaque personne physique;
+	- **c)** d’informer chaque personne physique, sauf celle qui fait partie d’une catégorie réglementaire, de l’existence du programme établi à l’article 4 et des conditions auxquelles les prestations peuvent être versées au titre de la présente loi;
+	- **d)** de transmettre au ministre et à chaque personne physique, sauf celle qui fait partie d’une catégorie réglementaire, le montant du salaire admissible qui est dû à cette personne et tout autre renseignement réglementaire;
 	- **e)** d’informer le ministre lorsque le syndic est libéré ou que le séquestre a complété l’exécution des fonctions dont il a été chargé.
 
 **Obligation de se conformer aux instructions**
@@ -294,12 +319,14 @@ Sanctionnée sur le 25 novembre 2005
 
 **Obligation d’assistance**
 
-- **(3)** Sur demande, toute personne, autre que celle qui est visée au paragraphe (4), qui est en possession de renseignements visés à l’alinéa (1)d) ou a accès à de tels renseignements est tenue de les communiquer au syndic ou au séquestre, selon le cas.
+- **(3)** Sur demande, toute personne, autre que celle qui est visée au paragraphe (4), qui est en possession de renseignements visés à l’alinéa (1)d) ou a accès à de tels renseignements est tenue de les fournir au syndic ou au séquestre, selon le cas.
 
 **Obligation d’assistance — service de la paie**
 
-- **(4)** Sur demande, toute personne qui est en possession de renseignements visés à l’alinéa (1)d) ou a accès à de tels renseignements et qui fournit un service de la paie à un failli ou à une personne insolvable avec qui elle n’a aucun lien de dépendance est tenue d’indiquer au syndic ou au séquestre, selon le cas, les renseignements auxquels elle n’a pas accès et de lui fournir une estimation des frais liés à la fourniture des renseignements qu’elle a en sa possession et une estimation des frais liés à la fourniture de ceux auxquels elle a accès.
-> 2005, ch. 47, art. 1 « 21 »; 2007, ch. 36, art. 89; 2009, ch. 2, art. 346.
+- **(4)** Toute personne qui est en possession de renseignements visés à l’alinéa (1)d) ou a accès à de tels renseignements et qui fournit un service de la paie à un failli ou à une personne insolvable avec qui elle n’a aucun lien de dépendance est tenue :
+	- **a)** sur demande du syndic ou du séquestre, de lui fournir une description des renseignements visés à l’alinéa (1)d) qui sont en sa possession ou auxquels elle a accès et une estimation des frais liés à la fourniture de ces renseignements;
+	- **b)** sur demande du syndic ou du séquestre, de lui fournir les renseignements visés à l’alinéa (1)d) qui sont en sa possession ou auxquels elle a accès.
+> 2005, ch. 47, art. 1 « 21 »; 2007, ch. 36, art. 89; 2009, ch. 2, art. 346; 2018, ch. 27, art. 637.
 
 
 
@@ -307,14 +334,17 @@ Sanctionnée sur le 25 novembre 2005
 
 **Honoraires et dépenses**
 
-**22** 
+**22** Sous réserve de l’article 22.1, les honoraires et les dépenses entraînés par l’accomplissement des fonctions du syndic ou du séquestre en application de la présente loi sont à payer sur l’actif de l’employeur en faillite ou sur les biens de l’employeur insolvable, selon le cas.
+> 2005, ch. 47, art. 1 « 22 »; 2007, ch. 36, art. 89; 2018, ch. 27, art. 638.
 
-- **(1)** Les honoraires et les dépenses entraînés par l’accomplissement des fonctions du syndic ou du séquestre en application de la présente loi sont à payer sur l’actif de l’employeur en faillite ou sur les biens de l’employeur insolvable, selon le cas.
+
+
+
 
 **Paiement par le ministre**
 
-- **(2)** Dans les circonstances réglementaires, le ministre acquitte les honoraires et les dépenses réglementaires du syndic et du séquestre.
-> 2005, ch. 47, art. 1 « 22 »; 2007, ch. 36, art. 89.
+**22.1** Dans les circonstances réglementaires, le ministre acquitte les honoraires ou les dépenses du syndic ou du séquestre prévus par règlement entraînés par l’accomplissement de leurs fonctions en application de la présente loi ou par l’accomplissement de leurs attributions en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+> 2018, ch. 27, art. 638.
 
 
 
@@ -410,8 +440,8 @@ Sanctionnée sur le 25 novembre 2005
 
 **Numéro d’assurance sociale**
 
-**29** Nul ne peut sciemment utiliser, communiquer ou permettre que soit communiqué le numéro d’assurance sociale d’une personne qui a été obtenu à une fin liée à une demande de prestations au titre de la présente loi, si ce n’est pour l’application de celle-ci ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
-> 2005, ch. 47, art. 1 « 29 »; 2007, ch. 36, art. 90.
+**29** Nul ne peut sciemment utiliser, communiquer ou permettre que soit communiqué le numéro d’assurance sociale d’une personne physique qui a été obtenu à une fin liée à une demande de prestations au titre de la présente loi, si ce n’est pour l’application de celle-ci ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+> 2005, ch. 47, art. 1 « 29 »; 2007, ch. 36, art. 90; 2018, ch. 27, art. 640(F).
 
 
 
@@ -445,22 +475,147 @@ Sanctionnée sur le 25 novembre 2005
 
 
 
+**Non-versement ou versement partiel des prestations**
+
+**31.1** Si le ministre conclut qu’une personne physique n’a pas reçu tout ou partie des prestations auxquelles elle était admissible, il verse à celle-ci une somme égale aux prestations manquantes.
+> 2018, ch. 27, art. 641.
+
+
+
+
+
+### Trop-perçu
+
+
+
 **Trop-perçu**
 
 **32** 
 
-- **(1)** S’il décide qu’une personne a perçu des sommes en trop, le ministre lui fait parvenir un avis écrit :
+- **(1)** S’il décide qu’une personne physique a perçu des sommes en trop, le ministre lui fait parvenir un avis écrit :
 	- **a)** l’informant de sa décision;
 	- **b)** précisant le montant du trop-perçu.
 
+**Avis**
+
+- **(2)** Le ministre informe le syndic ou le séquestre de sa décision et du montant du trop-perçu.
+
+- **(3)** [Abrogé, 2018, ch. 27, art. 642]
+> 2005, ch. 47, art. 1 « 32 »; 2007, ch. 36, art. 91; 2018, ch. 27, art. 642.
+
+
+
+
+
+**Demande de révision**
+
+**32.1** La personne physique informée d’une décision visée au paragraphe 32(1) peut en demander la révision, sauf s’il s’agit d’une décision rendue à la suite d’une révision en vertu de l’article 12.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Révision**
+
+**32.2** Le ministre peut confirmer, modifier ou infirmer sa décision rendue au titre du paragraphe 32(1).
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Notification**
+
+**32.3** Le ministre informe la personne physique ainsi que le syndic ou le séquestre de sa décision rendue en vertu de l’article 32.2.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Caractère définitif de la révision**
+
+**32.4** Sous réserve du droit d’appel prévu à l’article 32.5, toute confirmation, modification ou infirmation de la décision rendue par le ministre est définitive et insusceptible de recours judiciaires.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Appel sur une question de droit ou de compétence**
+
+**32.5** La personne physique peut interjeter appel auprès d’un arbitre de la décision rendue par le ministre en vertu de l’article 32.2, et ce uniquement sur une question de droit ou de compétence.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Désignation d’un arbitre**
+
+**32.6** L’appel est entendu par un arbitre désigné par le ministre.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Appel sur dossier**
+
+**32.7** L’appel est tranché sur dossier et aucun nouvel élément de preuve n’est admissible.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Décision de l’arbitre**
+
+**32.8** L’arbitre peut confirmer, modifier ou infirmer la décision rendue par le ministre en vertu de l’article 32.2.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Remise de la décision**
+
+**32.9** L’arbitre transmet une copie de sa décision motivée aux parties à l’appel ainsi qu’au syndic ou au séquestre.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Interdiction de recours extraordinaire**
+
+**32.91** Il n’est admis aucun recours — notamment par voie d’injonction, de *certiorari*, de prohibition ou de *quo warranto* — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre prise en vertu de l’un des articles 32.5 à 32.9.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
+**Caractère définitif des décisions**
+
+**32.92** Les décisions de l’arbitre sont définitives et insusceptibles de recours judiciaires.
+> 2018, ch. 27, art. 643.
+
+
+
+
+
 **Créance de Sa Majesté**
 
-- **(2)** La somme précisée dans l’avis constitue une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi par le ministre du Revenu national.
+**32.93** 
+
+- **(1)** Le montant dû aux termes d’une décision visée à l’un des articles 32, 32.2 ou 32.8 constitue une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi par le ministre du Revenu national.
 
 **Certificat de non-paiement**
 
-- **(3)** Le ministre peut établir un certificat de non-paiement pour toute partie de la créance visée au paragraphe (2) qui demeure impayée à l’expiration d’un délai de trente jours après la date d’envoi de l’avis. L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais d’enregistrement.
-> 2005, ch. 47, art. 1 « 32 »; 2007, ch. 36, art. 91.
+- **(2)** Le ministre peut établir un certificat de non-paiement pour toute partie de la créance visée au paragraphe (1). L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais d’enregistrement.
+> 2018, ch. 27, art. 643.
 
 
 
@@ -468,17 +623,17 @@ Sanctionnée sur le 25 novembre 2005
 
 **Saisie-arrêt**
 
-**33** Le ministre peut, par avis écrit, ordonner à tout tiers qui, selon lui, doit ou est sur le point de devoir verser une somme à une personne qui est débitrice d’une créance au titre de l’article 32 de remettre la somme au receveur général, en acquittement total ou partiel de la créance.
-> 2005, ch. 47, art. 1 « 33 »; 2007, ch. 36, art. 91.
+**33** Le ministre peut, par avis écrit, ordonner à toute personne qui, selon lui, doit ou est sur le point de devoir verser une somme à une personne physique qui est débitrice d’une créance au titre du paragraphe 32.93(1) de remettre la somme au receveur général, en acquittement total ou partiel de la créance.
+> 2005, ch. 47, art. 1 « 33 »; 2007, ch. 36, art. 91; 2018, ch. 27, art. 643.
 
 
 
 
 
-**Non-versement ou versement partiel des prestations**
+**Période de recouvrement**
 
-**34** Si le ministre conclut qu’une personne n’a pas reçu tout ou partie des prestations auxquelles elle était admissible, il approuve le versement à celle-ci d’une somme égale aux prestations manquantes.
-> 2005, ch. 47, art. 1 « 34 »; 2007, ch. 36, art. 92(A).
+**34** Une créance ne peut être recouvrée en vertu du paragraphe 32.93(2) ou de l’article 33 qu’à l’expiration de la période pendant laquelle une révision peut être demandée au titre de l’article 32.1 ou, si la personne physique demande une révision pendant cette période, jusqu’à ce qu’il soit disposé de l’affaire.
+> 2005, ch. 47, art. 1 « 34 »; 2007, ch. 36, art. 92(A); 2018, ch. 27, art. 643.
 
 
 
@@ -499,14 +654,39 @@ Sanctionnée sur le 25 novembre 2005
 
 **36** 
 
-- **(1)** Lorsque des prestations sont versées au titre de la présente loi à une personne qui est titulaire d’une créance salariale, Sa Majesté du chef du Canada est subrogée, jusqu’à concurrence de la somme versée, dans les droits du titulaire de la créance salariale contre les personnes suivantes :
+- **(1)** Lorsque des prestations sont versées au titre de la présente loi à une personne physique qui est titulaire d’une créance au titre de salaires admissibles, Sa Majesté du chef du Canada est subrogée, jusqu’à concurrence de la somme versée, dans les droits du titulaire de la créance au titre des salaires admissibles contre les personnes suivantes :
 	- **a)** l’employeur en faillite ou insolvable;
 	- **b)** si l’employeur en faillite ou insolvable est une personne morale, les administrateurs de celle-ci.
+
+**Avis au ministre**
+
+- **(1.1)** Sauf instruction contraire du ministre, la personne physique visée au paragraphe (1) avise par écrit le ministre de toute action ou procédure intentée pour le recouvrement de salaires admissibles — sauf une procédure à la suite de laquelle ont été versées à la personne physique des prestations au titre de la présente loi —, notamment toute action ou procédure dont elle a connaissance et qui est intentée par une autre personne ou organisation. L’avis contient les renseignements prévus par règlement.
+
+**Avis au ministre : décisions et ordonnances**
+
+- **(1.2)** Sauf instruction contraire du ministre, la personne physique visée au paragraphe (1) avise par écrit le ministre des décisions et des ordonnances définitives prises à l’égard du recouvrement de salaires admissibles dont elle a connaissance. L’avis contient les renseignements prévus par règlement.
 
 **Actions en justice**
 
 - **(2)** Pour l’application du paragraphe (1), Sa Majesté du chef du Canada peut ester en justice sous son propre nom ou celui du titulaire de la créance.
-> 2005, ch. 47, art. 1 « 36 »; 2007, ch. 36, art. 93.
+> 2005, ch. 47, art. 1 « 36 »; 2007, ch. 36, art. 93; 2018, ch. 27, art. 646.
+
+
+
+
+
+**Versement à Sa Majesté du chef du Canada**
+
+**36.1** 
+
+- **(1)** Lorsque, soit en application du jugement d’un tribunal, soit pour toute autre raison, une personne — notamment un syndic ou un séquestre — est tenue de verser des salaires admissibles à une personne physique dont la personne, le syndic ou le séquestre a des raisons de croire qu’elle a obtenu des prestations au titre de la présente loi, la personne, le syndic ou le séquestre :
+	- **a)** vérifie si Sa Majesté du chef du Canada est subrogée dans les droits que la personne physique peut avoir à l’égard de ces salaires admissibles;
+	- **b)** dans l’affirmative, verse à Sa Majesté du chef du Canada les salaires admissibles, jusqu’à concurrence du montant subrogé, avant d’effectuer tout versement au titulaire de créances salariales.
+
+**Éléments du salaire**
+
+- **(2)** Lorsqu’une personne — notamment un syndic ou un séquestre — effectue un versement en application de l’alinéa (1)b), la personne, le syndic ou le séquestre informe le ministre des différents éléments du salaire visés par le versement.
+> 2018, ch. 27, art. 647.
 
 
 
@@ -590,12 +770,13 @@ Sanctionnée sur le 25 novembre 2005
 - **d)** prévoir les sommes à défalquer pour l’application du paragraphe 7(1);
 - **e)** régir l’affectation des prestations versées aux différents éléments du salaire;
 - **f)** régir les modalités — de temps et autres — applicables à la présentation des demandes de prestations visée à l’article 8;
-- **g)** régir les modalités — de temps et autres — applicables aux demandes de révision visées à l’article 11 et à la formation des appels visés à l’article 14;
-- **h)** prévoir les catégories de personnes que le syndic ou le séquestre est dispensé d’informer en application de l’alinéa 21(1)c) et celles à qui il est dispensé de transmettre les renseignements visés à l’alinéa 21(1)d);
-- **i)** régir les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne pour l’application de l’alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
+- **g)** régir les modalités — de temps et autres — applicables aux demandes de révision visées aux articles 11 et 32.1 et à la formation des appels visés aux articles 14 et 32.5;
+- **h)** prévoir les catégories de personnes physiques que le syndic ou le séquestre est dispensé d’informer en application de l’alinéa 21(1)c) et celles à qui il est dispensé de transmettre les renseignements visés à l’alinéa 21(1)d);
+- **i)** régir les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne physique pour l’application de l’alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
 - **j)** régir les modalités — de temps et autres — applicables à la fourniture des renseignements visés à l’alinéa 21(1)c) et aux paragraphes 21(3) et (4);
-- **k)** prévoir les honoraires et dépenses visés au paragraphe 22(2) et les circonstances dans lesquelles ils doivent être acquittés.
-> 2005, ch. 47, art. 1 « 41 »; 2007, ch. 36, art. 94; 2009, ch. 2, art. 347.
+- **k)** prévoir les honoraires et dépenses visés à l’article 22.1 et les circonstances dans lesquelles ils doivent être acquittés;
+- **l)** prévoir les modalités — de temps et autres — applicables à la fourniture des avis au ministre en application des paragraphes 36(1.1) et (1.2) et les renseignements qu’ils doivent contenir.
+> 2005, ch. 47, art. 1 « 41 »; 2007, ch. 36, art. 94; 2009, ch. 2, art. 347; 2018, ch. 27, art. 648.
 
 
 
