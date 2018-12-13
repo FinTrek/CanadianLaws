@@ -1051,7 +1051,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les renseignements fournis par le demandeur ou le titulaire et utilisés pour fixer les limites maximales de résidus;
 	- **e)** les renseignements relatifs à chaque produit homologué et examinés par le ministre en application des alinéas 7(6)b) et 19(1)c);
 	- **f)** les rapports d’évaluation établis par le ministre quant à la valeur d’un produit antiparasitaire homologué et aux risques sanitaires et environnementaux qu’il présente;
-	- **g)** tout avis donné par une personne ou un organisme visé à l’alinéa 44(1)f), sauf si sa communication peut être refusée en vertu de l’article 23 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md);
+	- **g)** tout avis donné par une personne ou un organisme visé à l’alinéa 44(1)f), sauf si sa communication peut être refusée en vertu des articles 23 ou 23.1 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md);
 	- **h)** l’état des homologations, notamment leur révocation, auxquelles la présente loi s’applique;
 	- **i)** les renseignements fournis au ministre au titre du paragraphe 8(5);
 	- **j)** les avis remis en vertu des paragraphes 12(1), 16(3) et 18(1) et de l’alinéa 19(1)a);
@@ -1087,6 +1087,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** les rapports des activités d’harmonisation internationale visant la réglementation des produits antiparasitaires;
 	- **d)** les règlements et projets de règlement émanant de la présente loi et publiés dans la Gazette du Canada;
 	- **e)** les politiques, lignes directrices et codes de pratique visant la réglementation des produits antiparasitaires, lorsqu’ils sont proposés pour consultation publique, et leur texte définitif une fois adoptés.
+> 2002, ch. 28, art. 42; 2018, ch. 27, art. 275.
+
 
 
 
