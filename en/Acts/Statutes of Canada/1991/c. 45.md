@@ -9155,12 +9155,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(1)** The following definitions apply in this Part.
 
-***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are 
+***business growth fund*** means Canadian Business Growth Fund (GP) Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md). (*fonds de croissance des entreprises*)
+
+***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are 
 - **(a)** fixed in number and distributed to the public in an offering under a preliminary prospectus, prospectus, short-form prospectus or similar document in accordance with the laws of a province or a foreign jurisdiction;
 - **(b)** traded on an exchange or an over-the-counter market; and
-- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis.
+- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis. (*fonds d’investissement à capital fixe*)
 
-***commercial loan*** means
+***commercial loan*** means
 - **(a)** any loan made or acquired by a company, other than
 	- **(i)** a loan to a natural person in an amount of two hundred and fifty thousand dollars or less,
 	- **(ii)** a loan to the Government of Canada, the government of a province, a municipality, or to any agency thereof, or to the government of a foreign country or any political subdivision thereof, or any agency thereof, or to a prescribed international agency,
@@ -9197,40 +9199,40 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(c)** an investment in shares of a body corporate or ownership interests in an unincorporated entity, other than
 	- **(i)** shares or ownership interests that are widely distributed, as that expression is defined by the regulations,
 	- **(ii)** shares or ownership interests of an entity controlled by the company, or
-	- **(iii)** participating shares.
+	- **(iii)** participating shares. (*prêt commercial*)
 
-***factoring entity*** means a factoring entity as defined in the regulations.
+***factoring entity*** means a factoring entity as defined in the regulations. (*entité s’occupant d’affacturage*)
 
-***finance entity*** means a finance entity as defined in the regulations.
+***finance entity*** means a finance entity as defined in the regulations. (*entité s’occupant de financement*)
 
-***financial leasing entity*** means an entity
+***financial leasing entity*** means an entity
 - **(a)** the activities of which are limited to the financial leasing of personal property and such related activities as are prescribed and whose activities conform to such restrictions and limitations thereon as are prescribed; and
 - **(b)** that, in conducting the activities referred to in paragraph (a) in Canada, does not
 	- **(i)** direct its customers or potential customers to particular dealers in the leased property or the property to be leased,
 	- **(ii)** enter into lease agreements with persons in respect of any motor vehicle having a gross vehicle weight, as that expression is defined by the regulations, of less than twenty-one tonnes, or
-	- **(iii)** enter into lease agreements with natural persons in respect of personal household property, as that expression is defined by the regulations.
+	- **(iii)** enter into lease agreements with natural persons in respect of personal household property, as that expression is defined by the regulations. (*entité s’occupant de crédit-bail*)
 
- ou ***loan*** includes an acceptance, endorsement or other guarantee, a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit but does not include investments in securities.
+***loan*** includes an acceptance, endorsement or other guarantee, a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit but does not include investments in securities. (*prêt* ou *emprunt*)
 
-***motor vehicle*** means a motorized vehicle designed to be used primarily on a public highway for the transportation of persons or things, but does not include
+***motor vehicle*** means a motorized vehicle designed to be used primarily on a public highway for the transportation of persons or things, but does not include
 - **(a)** a fire-engine, bus, ambulance or utility truck; or
-- **(b)** any other special purpose motorized vehicle that contains significant special features that make it suitable for a specific purpose.
+- **(b)** any other special purpose motorized vehicle that contains significant special features that make it suitable for a specific purpose. (*véhicule à moteur*)
 
-***mutual fund distribution entity*** means an entity whose principal activity is acting as a selling agent of units, shares or other interests in a mutual fund and acting as a collecting agent in the collection of payments for any such interests if
+***mutual fund distribution entity*** means an entity whose principal activity is acting as a selling agent of units, shares or other interests in a mutual fund and acting as a collecting agent in the collection of payments for any such interests if
 - **(a)** the proceeds of the sales of any such interests, less any sales commissions and service fees, are paid to the mutual fund; and
-- **(b)** the existence of a sales commission and service fee in respect of the sale of any such interest is disclosed to the purchaser of the interest before the purchase of the interest.
+- **(b)** the existence of a sales commission and service fee in respect of the sale of any such interest is disclosed to the purchaser of the interest before the purchase of the interest. (*courtier de fonds mutuels*)
 
-***mutual fund entity*** means an entity
+***mutual fund entity*** means an entity
 - **(a)** whose activities are limited to the investing of the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities; and
-- **(b)** whose securities entitle their holders to receive, on demand, or within a specified period after demand, an amount computed by reference to the value of a proportionate interest in the whole or in a part of its net assets, including a separate fund or trust account of the entity.
+- **(b)** whose securities entitle their holders to receive, on demand, or within a specified period after demand, an amount computed by reference to the value of a proportionate interest in the whole or in a part of its net assets, including a separate fund or trust account of the entity. (*entité s’occupant de fonds mutuels*)
 
-***participating share*** means a share of a body corporate that carries the right to participate in the earnings of the body corporate to an unlimited degree and to participate in a distribution of the remaining property of the body corporate on dissolution.
+***participating share*** means a share of a body corporate that carries the right to participate in the earnings of the body corporate to an unlimited degree and to participate in a distribution of the remaining property of the body corporate on dissolution. (*action participante*)
 
-***permitted entity*** means an entity in which a company is permitted to acquire a substantial investment under section 453.
+***permitted entity*** means an entity in which a company is permitted to acquire a substantial investment under section 453. (*entité admissible*)
 
-***prescribed subsidiary*** means a subsidiary that is one of a prescribed class of subsidiaries.
+***prescribed subsidiary*** means a subsidiary that is one of a prescribed class of subsidiaries. (*filiale réglementaire*)
 
-***specialized financing entity*** means a specialized financing entity as defined in the regulations.
+***specialized financing entity*** means a specialized financing entity as defined in the regulations. (*entité s’occupant de financement spécial*)
 
 **Members of a company’s group**
 
@@ -9246,7 +9248,7 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(a)** money or other assets held in trust by a company, other than guaranteed trust money and assets held in respect thereof;
 	- **(b)** the holding of a security interest in real property, unless the security interest is prescribed pursuant to paragraph 467(a) to be an interest in real property; or
 	- **(c)** the holding of a security interest in securities of an entity.
-> 1991, c. 45, ss. 449, 560; 1993, c. 34, s. 128(F); 1997, c. 15, s. 386; 2001, c. 9, s. 550; 2007, c. 6, s. 369; 2008, c. 28, s. 163.
+> 1991, c. 45, ss. 449, 560; 1993, c. 34, s. 128(F); 1997, c. 15, s. 386; 2001, c. 9, s. 550; 2007, c. 6, s. 369; 2008, c. 28, s. 163; 2018, c. 27, s. 135.
 
 
 
@@ -9265,11 +9267,26 @@ is sufficient justification and authority for giving effect to the transmission 
 
 
 
+**Limit — business growth fund**
+
+**450.1** 
+
+- **(1)** The aggregate value of all ownership interests in the business growth fund and the entities that the business growth fund controls that a company and its subsidiaries hold must not exceed $200,000,000.
+
+**Application**
+
+- **(2)** For the purposes of subsection (1), the value of an ownership interest is determined by the amount paid for it at the time of its issuance.
+> 2018, c. 27, s. 136.
+
+
+
+
+
 **Restriction on control and substantial investments**
 
 **451** 
 
-- **(1)** Subject to subsections (2) to (4), no company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+- **(1)** Subject to subsections (2) to (4.4), no company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
 **Exception: indirect investments**
 
@@ -9290,6 +9307,29 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(4)** A company may, subject to Part XI, acquire control of, or hold, acquire or increase a substantial investment in, an entity other than a permitted entity if it does so in accordance with regulations made under paragraph 452(d) concerning specialized financing.
 
+**Business growth fund**
+
+- **(4.1)** Subject to section 450.1, subsections (4.2) to (4.4) and Part XI, a company may hold, acquire or increase a substantial investment in the business growth fund or any entity that the business growth fund controls.
+
+**For greater certainty**
+
+- **(4.2)** For greater certainty, a company is prohibited from acquiring control of the business growth fund or any entity that the business growth fund controls.
+
+**Prohibition — entity**
+
+- **(4.3)** A company is prohibited from holding or acquiring a substantial investment in the business growth fund or any entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds or acquires shares of, or other ownership interests in, any of the following entities, or in any entity that controls any of the following entities:
+	- **(a)** an entity referred to in any of paragraphs 453(1)(a) to (j);
+	- **(b)** an entity that is primarily engaged in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle;
+	- **(c)** an entity that is primarily engaged in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property;
+	- **(d)** an entity that acts as an insurance broker or agent in Canada; or
+	- **(e)** an entity that is engaged in any prescribed activity.
+
+**Prohibition — capital and loans**
+
+- **(4.4)** A company is prohibited from holding or acquiring a substantial investment in the business growth fund or any entity that the business growth fund controls if the business growth fund or any entity that the business growth fund controls holds shares of, or other ownership interests in, an entity or holds a loan made to an entity and, in respect of that entity and its affiliates, the aggregate value of the following exceeds $100,000,000:
+	- **(a)** all ownership interests that are held by the company, the company’s subsidiaries, the business growth fund or the entities that the business growth fund controls, the value of those ownership interests as determined by the amount paid for them at the time each was first acquired by any of those entities; and
+	- **(b)** the outstanding principal of all loans held by the business growth fund or the entities that the business growth fund controls.
+
 **Exception: uncontrolled event**
 
 - **(5)** A company is deemed not to contravene subsection (1) if the company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the company.
@@ -9309,7 +9349,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Timing of deemed acquisition**
 
 - **(7)** If a company decides to exercise its right under subsection (6), the company is deemed to be acquiring the control or the substantial investment under the other provision.
-> 1991, c. 45, s. 451; 1997, c. 15, s. 387; 2001, c. 9, s. 550; 2007, c. 6, s. 370; 2013, c. 40, s. 167.
+> 1991, c. 45, s. 451; 1997, c. 15, s. 387; 2001, c. 9, s. 550; 2007, c. 6, s. 370; 2013, c. 40, s. 167; 2018, c. 27, s. 137.
 
 
 
@@ -9435,8 +9475,38 @@ where
 
 - **(7)** Subsection (6) does not apply in respect of a particular transaction if
 	- **(a)** the company is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
-	- **(b)** the company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
-	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 454(1).
+	- **(b)** the company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity;
+	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 454(1);
+	- **(d)** subject to subsection (7.1), the company is acquiring control of an entity (referred to in this paragraph as the “target entity”) referred to in paragraph (4)(b) or (c) and
+```
+A/B < C
+```
+where
+- **A** is the aggregate of the values, as they would have been reported in the company’s annual financial statements if those statements were prepared on the day of the acquisition of control of the target entity, of
+	- **(i)** the target entity’s consolidated assets,
+	- **(ii)** the assets of the company and of any subsidiary of the company that were acquired, at any time within the 12 months preceding the acquisition of control of the target entity, from any entity that, at that time, held any of the assets referred to in subparagraph (i), and
+	- **(iii)** the consolidated assets of any entity referred to in paragraph (4)(b) or (c) the control of which is acquired by the company at the same time as the acquisition of control of the target entity — or within the 12 months preceding the acquisition of control of the target entity if, at any time within those 12 months, that entity and the target entity were affiliates — excluding any assets referred to in subparagraph (i) or (ii) and the consolidated assets of an entity in respect of which no approval of the Superintendent is required under any of paragraphs (a) to (c),
+- **B** is the value of the company’s consolidated assets, as shown in its last annual statement prepared before the acquisition of control of the target entity, and
+- **C** is
+	- **(i)** 0.01, in the case of a company with equity of 12 billion dollars or more, or
+	- **(ii)** 0.02, in the case of any other company; or
+	- **(e)** the company is acquiring or increasing a substantial investment in an entity (referred to in this paragraph as the “target entity”) without acquiring control of it, and
+```
+A/B < C
+```
+where
+- **A** is the aggregate of the values, as they would have been reported in the company’s annual financial statements if those statements were prepared on the day of the acquisition or increase of the substantial investment in the target entity, of
+	- **(i)** the shares of, or other ownership interests in, the target entity that the company or a subsidiary of the company is acquiring in the transaction that results in the acquisition or increase of a substantial investment in the target entity, and the shares of, or other ownership interests in, the target entity that are held by an entity the control of which the company is acquiring in the transaction that results in the acquisition or increase of a substantial investment in the target entity,
+	- **(ii)** the shares of, or other ownership interests in, the target entity that are held by the company or a subsidiary of the company and that were acquired by the company or the subsidiary within the 12 months preceding the transaction referred to in subparagraph (i), and
+	- **(iii)** the shares of, or other ownership interests in, the target entity that are held by a subsidiary of the company the control of which was acquired by the company within the 12 months preceding the transaction referred to in subparagraph (i), excluding any shares or other ownership interests referred to in subparagraph (ii),
+- **B** is the value of the company’s consolidated assets, as shown in its last annual statement prepared before the transaction that results in the acquisition or increase of the substantial investment in the target entity, and
+- **C** is
+	- **(i)** 0.005, in the case of a company with equity of 12 billion dollars or more, or
+	- **(ii)** 0.01, in the case of any other company.
+
+**No exception for deemed acquisition**
+
+- **(7.1)** The exception in paragraph (7)(d) does not apply with respect to a deemed acquisition of control under subsection 451(7).
 
 **Control not required**
 
@@ -9455,7 +9525,7 @@ where
 **Subsections do not apply**
 
 - **(11)** If a company controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the company of its substantial investment in the entity so long as the company continues to control the entity.
-> 1991, c. 45, s. 453; 1997, c. 15, s. 388; 1999, c. 28, s. 141; 2001, c. 9, s. 550; 2007, c. 6, s. 371; 2012, c. 5, s. 179.
+> 1991, c. 45, s. 453; 1997, c. 15, s. 388; 1999, c. 28, s. 141; 2001, c. 9, s. 550; 2007, c. 6, s. 371; 2012, c. 5, s. 179; 2018, c. 27, s. 130.
 
 
 
@@ -10608,6 +10678,23 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
+**No waiver**
+
+**504.01** 
+
+- **(1)** For greater certainty, the disclosure by a company — or by a person who controls a company or by an entity that is affiliated with a company — to the Superintendent of any information that is subject to a privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of any of those privileges or that secrecy.
+
+**No disclosure**
+
+- **(2)** The Superintendent shall not disclose any information referred to in subsection (1) to any person whose powers, duties or functions include
+	- **(a)** the investigation or prosecution of an offence under any Act of Parliament or of the legislature of a province; or
+	- **(b)** the investigation of, or conduct of proceedings in respect of, a violation under an Act referred to in paragraph (a).
+> 2018, c. 27, s. 168.
+
+
+
+
+
 **Disclosure by Superintendent**
 
 **504.1** 
@@ -11753,10 +11840,14 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 	- **(b)** the electronic document is, unless otherwise prescribed, provided to the designated information system; and
 	- **(c)** the prescribed requirements are complied with.
 
+**Consent and notice in electronic form**
+
+- **(1.1)** Despite subsection (1), the requirements referred to in paragraph (1)(c) may provide that the consent referred to in paragraph (1)(a) and any notice related to that consent may be provided in electronic form.
+
 **Regulations — revocation of consent**
 
 - **(2)** The Governor in Council may make regulations respecting the revocation of the consent referred to in paragraph (1)(a).
-> 2005, c. 54, s. 452.
+> 2005, c. 54, s. 452; 2018, c. 27, s. 152.
 
 
 
