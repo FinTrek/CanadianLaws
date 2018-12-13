@@ -83,7 +83,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Responsabilité : personnes à charge
+### Responsabilité : personnes à charge
 
 
 
@@ -897,10 +897,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Responsabilité en matière de pollution et frais connexes**
 
-**51** La responsabilité du propriétaire d’un navire à l’égard des mesures de sauvegarde prévue par la Convention sur la responsabilité civile vise également :
-- **a)** les frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), toute autre personne au Canada ou toute personne d’un État étranger partie à cette convention pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution causée par le navire, y compris les mesures en prévision de rejets d’hydrocarbures causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures;
-- **b)** s’agissant des hydrocarbures, les frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et les frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures.
-> 2001, ch. 6, art. 51, ch. 26, art. 324; 2009, ch. 21, art. 11.
+**51** 
+
+- **(1)** La responsabilité du propriétaire d’un navire à l’égard des mesures de sauvegarde prévue par la Convention sur la responsabilité civile vise également :
+	- **a)** les frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), toute autre personne au Canada ou toute personne d’un État étranger partie à cette convention pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution causée par le navire, y compris les mesures en prévision de rejets d’hydrocarbures causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures;
+	- **b)** s’agissant des hydrocarbures, les frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et les frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures.
+
+**Responsabilité — menace grave et imminente de pollution**
+
+- **(2)** Pour l’application du paragraphe (1), la responsabilité du propriétaire d’un navire à l’égard des frais supportés par le ministre des Pêches et des Océans ou par toute autre personne, notamment à l’égard des mesures de sauvegarde visées à l’alinéa (1)b), ne peut être engagée qu’à l’égard des frais qui ont trait à tout fait ou tout ensemble de faits ayant la même origine qui cause des dommages par pollution ou qui constitue une menace grave et imminente de causer de tels dommages.
+> 2001, ch. 6, art. 51, ch. 26, art. 324; 2009, ch. 21, art. 11; 2018, ch. 27, art. 713.
 
 
 
@@ -1172,10 +1178,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Responsabilité en matière de pollution et frais connexes**
 
-**71** La responsabilité du propriétaire d’un navire à l’égard des mesures de sauvegarde prévue par la Convention sur les hydrocarbures de soute vise également :
-- **a)** les frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), toute autre personne au Canada ou toute personne d’un État étranger partie à cette convention pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution causée par le navire, y compris les mesures en prévision de rejets d’hydrocarbures de soute causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures;
-- **b)** s’agissant des hydrocarbures de soute, les frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et les frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures.
-> 2001, ch. 6, art. 71; 2009, ch. 21, art. 11.
+**71** 
+
+- **(1)** La responsabilité du propriétaire d’un navire à l’égard des mesures de sauvegarde prévue par la Convention sur les hydrocarbures de soute vise également :
+	- **a)** les frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), toute autre personne au Canada ou toute personne d’un État étranger partie à cette convention pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution causée par le navire, y compris les mesures en prévision de rejets d’hydrocarbures de soute causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures;
+	- **b)** s’agissant des hydrocarbures de soute, les frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et les frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures.
+
+**Responsabilité — menace grave et imminente de pollution**
+
+- **(2)** Pour l’application du paragraphe (1), la responsabilité du propriétaire d’un navire à l’égard des frais supportés par le ministre des Pêches et des Océans ou par toute autre personne, notamment à l’égard des mesures de sauvegarde visées à l’alinéa (1)b), ne peut être engagée qu’à l’égard des frais qui ont trait à tout fait ou tout ensemble de faits ayant la même origine qui cause des dommages par pollution ou qui constitue une menace grave et imminente de causer de tels dommages.
+> 2001, ch. 6, art. 71; 2009, ch. 21, art. 11; 2018, ch. 27, art. 714.
 
 
 
@@ -1360,7 +1372,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le propriétaire d’un navire est responsable :
 	- **a)** des dommages dus à la pollution par les hydrocarbures causée par le navire;
 	- **b)** des frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ou toute autre personne au Canada pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution par les hydrocarbures causée par le navire, y compris des mesures en prévision de rejets d’hydrocarbures causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que des pertes ou dommages causés par ces mesures;
-	- **c)** des frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et des frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que des pertes ou dommages causés par ces mesures.
+	- **c)** s’agissant des polluants, des frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et des frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que des pertes ou dommages causés par ces mesures.
+
+**Responsabilité — menace grave et imminente de pollution**
+
+- **(1.1)** Pour l’application du paragraphe (1), la responsabilité du propriétaire d’un navire à l’égard des frais supportés par le ministre des Pêches et des Océans ou par toute autre personne, notamment à l’égard des mesures de sauvegarde visées à l’alinéa (1)c), ne peut être engagée qu’à l’égard des frais qui ont trait à tout fait ou tout ensemble de faits ayant la même origine qui cause des dommages dus à la pollution ou qui constitue une menace grave et imminente de causer de tels dommages.
+
+**Termes**
+
+- **(1.2)** Pour l’application du paragraphe (1.1), les termes non définis s’entendent au sens de la Convention sur la responsabilité civile, au sens du paragraphe 47(1).
 
 **Responsabilité : dommage à l’environnement**
 
@@ -1386,7 +1406,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Les actions fondées sur la responsabilité prévue au paragraphe (1) se prescrivent :
 	- **a)** s’il y a eu dommages dus à la pollution, par trois ans à compter du jour de leur survenance ou par six ans à compter du jour de l’événement qui les a causés ou, si cet événement s’est produit en plusieurs étapes, du jour de la première de ces étapes, selon que l’un ou l’autre délai expire le premier;
 	- **b)** sinon, par six ans à compter du jour de l’événement.
-> 2001, ch. 6, art. 77; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 77; 2009, ch. 21, art. 11; 2018, ch. 27, art. 715.
 
 
 
@@ -1622,27 +1642,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Caisse d’indemnisation*** La Caisse d’indemnisation des dommages dus à la pollution par les hydrocarbures causée par les navires prorogée par l’article 92.
+***Caisse d’indemnisation*** La Caisse d’indemnisation des dommages dus à la pollution par les hydrocarbures causée par les navires prorogée par l’article 92. (*Ship-source Oil Pollution Fund*)
 
-***dommages dus à la pollution par les hydrocarbures*** S’agissant d’un navire, pertes ou dommages extérieurs au navire et causés par une contamination résultant du rejet d’hydrocarbures par ce navire.
+***dommages dus à la pollution par les hydrocarbures*** S’agissant d’un navire, pertes ou dommages extérieurs au navire et causés par une contamination résultant du rejet d’hydrocarbures par ce navire. (*oil pollution damage*)
 
-***en vrac*** Dans une cale ou une citerne faisant partie de la structure du navire, sans contenant intermédiaire.
+***en vrac*** Dans une cale ou une citerne faisant partie de la structure du navire, sans contenant intermédiaire. (*in bulk*)
 
-***hydrocarbures*** Les hydrocarbures de toutes sortes sous toutes leurs formes, notamment le pétrole, le fioul, les boues, les résidus d’hydrocarbures et les hydrocarbures mélangés à des déchets, à l’exclusion des déblais de dragage.
+***événement significatif*** Rejet d’hydrocarbures qui, en raison de sa gravité, de son ampleur ou de l’endroit où il a lieu et de ses répercussions réelles ou potentielles sur l’environnement, requiert des ressources extraordinaires pour y faire face. (*significant incident*)
 
-***navire*** Bâtiment ou embarcation conçus, utilisés ou utilisables, exclusivement ou non, pour la navigation, indépendamment de leur mode de propulsion ou de l’absence de propulsion. Y sont assimilés les navires en construction à partir du moment où ils peuvent flotter, les navires échoués ou coulés ainsi que les épaves et toute partie d’un navire qui s’est brisé.
+***hydrocarbures*** Les hydrocarbures de toutes sortes sous toutes leurs formes, notamment le pétrole, le fioul, les boues, les résidus d’hydrocarbures et les hydrocarbures mélangés à des déchets, à l’exclusion des déblais de dragage. (*oil*) 
+
+***navire*** Bâtiment ou embarcation conçus, utilisés ou utilisables, exclusivement ou non, pour la navigation, indépendamment de leur mode de propulsion ou de l’absence de propulsion. Y sont assimilés les navires en construction à partir du moment où ils peuvent flotter, les navires échoués ou coulés ainsi que les épaves et toute partie d’un navire qui s’est brisé. (*ship*)
 
 ***propriétaire***
 - **a)** S’agissant d’un navire assujetti à la Convention sur la responsabilité civile, s’entend au sens de l’article premier de cette convention;
-- **b)** s’agissant d’un navire assujetti à la Convention sur les hydrocarbures de soute, s’entend au sens de ***propriétaire du navire*** à l’article 1 de cette convention;
-- **c)** s’agissant de tout autre navire, s’entend de la personne qui a, au moment considéré, en vertu de la loi ou d’un contrat, les droits du propriétaire du navire en ce qui a trait à la possession et à l’usage de celui-ci.
+- **b)** s’agissant d’un navire assujetti à la Convention sur les hydrocarbures de soute, s’entend au sens de propriétaire du navire à l’article 1 de cette convention;
+- **c)** s’agissant de tout autre navire, s’entend de la personne qui a, au moment considéré, en vertu de la loi ou d’un contrat, les droits du propriétaire du navire en ce qui a trait à la possession et à l’usage de celui-ci. (*owner*)
 
-***rejet*** S’agissant d’un hydrocarbure, rejet de celui-ci qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion.
+***réceptionnaire*** S’entend au sens du paragraphe 4a) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses. (*receiver*)
+
+***rejet*** S’agissant d’un hydrocarbure, rejet de celui-ci qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion. (*discharge*)
 
 **Autres définitions**
 
-- **(2)** Dans la présente partie, ***Convention sur la responsabilité civile***, ***Convention sur le Fonds international***, ***Convention sur les hydrocarbures de soute***, ***Convention sur les substances nocives et potentiellement dangereuses***, ***Fonds complémentaire***, ***Fonds international***, ***Fonds SNPD*** et ***Protocole portant création d’un Fonds complémentaire*** s’entendent au sens du paragraphe 47(1).
-> 2001, ch. 6, art. 91; 2009, ch. 21, art. 11; 2014, ch. 29, art. 40.
+- **(2)** Dans la présente partie, Convention sur la responsabilité civile, Convention sur le Fonds international, Convention sur les hydrocarbures de soute, Convention sur les substances nocives et potentiellement dangereuses, Fonds complémentaire, Fonds international, Fonds SNPD et Protocole portant création d’un Fonds complémentaire s’entendent au sens du paragraphe 47(1).
+> 2001, ch. 6, art. 91; 2009, ch. 21, art. 11; 2014, ch. 29, art. 40; 2018, ch. 27, art. 716.
 
 
 
@@ -1661,20 +1685,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Crédits**
 
 - **(2)** Ce compte est crédité des sommes suivantes :
-	- **a)** les versements reçus en vertu des articles 112 et 115;
+	- **a)** les versements reçus au titre des articles 114.1 et 114.2 et les sommes recouvrées au titre de l’article 115;
 	- **b)** l’intérêt calculé en conformité avec l’article 93;
-	- **c)** les sommes qu’obtient l’administrateur en vertu de l’alinéa 106(3)c).
+	- **b.1)** les sommes portées au crédit du compte en application de l’article 93.1 ou des paragraphes 111(1) ou 111.1(1), (2) ou (3);
+	- **c)** les sommes qu’obtient l’administrateur en vertu des alinéas 106(3)c) ou 106.3(5)b);
+	- **d)** les sommes qu’obtient l’administrateur par suite de l’avis envoyé en vertu du paragraphe 106.4(3) ou de l’alinéa 106.6(1)b) ou celles recouvrées au titre de l’article 106.7;
+	- **e)** l’intérêt calculé en conformité avec l’article 111.2.
 
 **Débits**
 
 - **(3)** Il est débité des sommes suivantes :
-	- **a)** les sommes que l’administrateur verse en application des alinéas 106(3)a) ou 108(1)a), du paragraphe 108(6) ou de l’article 117 ou conformément à une transaction;
-	- **b)** les sommes que l’administrateur est tenu de payer en application du paragraphe 117(3);
+	- **a)** les sommes nécessaires au remboursement, conformément aux modalités précisées par le ministre des Finances, des sommes portées au débit du Trésor en vertu de l’article 93.1;
+	- **a.1)** les sommes versées en application de l’alinéa 106(3)a), du paragraphe 106.3(4), de l’alinéa 108(1)a), du paragraphe 108(6) ou de l’article 117 ou conformément à une transaction;
+	- **a.2)** les sommes portées au débit du compte en application des paragraphes 110(1) ou (2);
+	- **b)** les sommes que l’administrateur est tenu de payer en application du paragraphe 117.2(4);
 	- **c)** les intérêts à verser en conformité avec l’article 116;
-	- **d)** les frais et honoraires dont le paiement est prévu à l’article 98;
+	- **d)** les sommes payées sur le Trésor en application du paragraphe 98(1.2);
 	- **e)** la rémunération et les indemnités des évaluateurs dont le versement est prévu au paragraphe 108(2);
 	- **f)** les sommes qu’un tribunal ordonne à la Caisse d’indemnisation de payer, dans un jugement rendu contre elle, ainsi que les dépens auxquels le tribunal la condamne.
-> 2001, ch. 6, art. 92; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 92; 2009, ch. 21, art. 11; 2018, ch. 27, art. 717.
 
 
 
@@ -1684,6 +1713,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **93** Le ministre des Finances porte au crédit de la Caisse d’indemnisation, aux moments que décrète le gouverneur en conseil, des intérêts, au taux fixé par ce dernier, calculés sur le solde créditeur de la Caisse.
 > 2001, ch. 6, art. 93; 2009, ch. 21, art. 11.
+
+
+
+
+
+**Transfert du Trésor**
+
+**93.1** En cas d’insuffisance de fonds dans la Caisse d’indemnisation pour payer toute somme qui est débitée de ce compte au titre de l’un des alinéas 92(3)a) à f), le ministre des Finances peut, sous réserve des modalités qu’il estime indiquées, ordonner que soit portée au débit du Trésor et au crédit de la Caisse d’indemnisation une somme suffisante pour y remédier.
+> 2018, ch. 27, art. 718.
 
 
 
@@ -1736,31 +1774,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Fonctions incompatibles**
+**Conflit d’intérêts**
 
 **97** 
 
-- **(1)** L’administrateur et l’administrateur adjoint ne peuvent occuper une charge ou un emploi incompatible avec leurs attributions prévues par la présente partie.
+- **(1)** L’administrateur et l’administrateur adjoint ne peuvent accepter ni occuper de charge ou d’emploi — ni exercer d’activité — incompatibles avec les attributions que leur confère la présente partie.
 
 **Conséquences d’une contravention**
 
-- **(2)** Le mandat de l’administrateur ou de l’administrateur adjoint qui contrevient au paragraphe (1) prend fin à la date fixée par le gouverneur en conseil, cette date suivant de trente jours au maximum la réception par le ministre d’un avis l’informant de la contravention; celle-ci n’a aucun effet sur la validité des actions accomplies par l’administrateur ou l’administrateur adjoint au nom de la Caisse d’indemnisation entre la date de la contravention et celle où son mandat prend fin.
-> 2001, ch. 6, art. 97; 2009, ch. 21, art. 11.
+- **(2)** Le mandat de l’administrateur ou de l’administrateur adjoint qui contrevient au paragraphe (1) prend fin à la date fixée par le gouverneur en conseil, au plus tard trente jours après la date de la réception par le ministre d’un avis l’informant de la contravention; celle-ci n’a aucun effet sur la validité des actions accomplies par l’administrateur ou l’administrateur adjoint en vertu de la présente partie entre la date de la contravention et celle où son mandat prend fin.
+> 2001, ch. 6, art. 97; 2009, ch. 21, art. 11; 2018, ch. 27, art. 719.
 
 
 
 
 
-**Frais et honoraires**
+**Rémunération**
 
 **98** 
 
-- **(1)** Sur directive du ministre des Finances, les frais engagés par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente partie, de même que leurs honoraires, calculés en conformité avec le tarif réglementaire, sont payés sur le Trésor et portés au débit de la Caisse d’indemnisation.
+- **(1)** L’administrateur et l’administrateur adjoint reçoivent, pour l’exercice de leurs attributions, la rémunération que fixe le gouverneur en conseil.
+
+**Frais**
+
+- **(1.1)** Ils sont indemnisés, conformément aux directives du Conseil du Trésor, des frais de déplacement, de séjour et autres entraînés par l’exercice des attributions que leur confère la présente partie hors de leur lieu habituel de travail.
+
+**Paiement sur le Trésor**
+
+- **(1.2)** Sur directive du ministre des Finances, la rémunération et les frais visés aux paragraphes (1) et (1.1) et les autres frais engagés par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente partie sont payés sur le Trésor et portés au débit de la Caisse d’indemnisation en application de l’alinéa 92(3)d).
 
 **Taxation**
 
-- **(2)** Les officiers taxateurs de la Cour d’amirauté peuvent, à la demande du ministre de la Justice, taxer les comptes de frais ou honoraires présentés par l’administrateur ou l’administrateur adjoint au ministre des Finances comme si l’administrateur ou l’administrateur adjoint représentait Sa Majesté dans une instance devant le tribunal; cependant, cette façon de procéder ne peut jamais permettre que des honoraires supérieurs à ceux que prévoit le tarif réglementaire visé au paragraphe (1) soient accordés.
-> 2001, ch. 6, art. 98; 2009, ch. 21, art. 11.
+- **(2)** Les officiers taxateurs de la Cour d’amirauté peuvent, à la demande du ministre de la Justice, taxer les comptes de frais — à l’exception des frais visés au paragraphe (1.1) — engagés par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente partie comme si l’administrateur ou l’administrateur adjoint représentait Sa Majesté dans une instance devant ce tribunal.
+> 2001, ch. 6, art. 98; 2009, ch. 21, art. 11; 2018, ch. 27, art. 719.
 
 
 
@@ -1794,11 +1840,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Processus d’indemnisation
+
+
+
 **Responsabilités de la Caisse d’indemnisation**
 
 **101** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, la Caisse d’indemnisation assume les responsabilités prévues aux articles 51, 71 et 77 en rapport avec les hydrocarbures, à l’article III de la Convention sur la responsabilité civile et à l’article 3 de la Convention sur les hydrocarbures de soute dans les cas suivants :
+- **(1)** Sous réserve des autres dispositions de la présente partie, la Caisse d’indemnisation assume, en rapport avec les hydrocarbures, les responsabilités prévues aux articles 51, 71 et 77, à l’article III de la Convention sur la responsabilité civile et à l’article 3 de la Convention sur les hydrocarbures de soute pour tout type de frais, pertes ou dommages — notamment le préjudice économique dû à la pollution par les hydrocarbures subi par des personnes dont les biens n’ont pas été pollués — dans les cas suivants :
 	- **a)** malgré la prise de toutes les mesures raisonnables dans les circonstances, il a été impossible d’obtenir une indemnité de la part du propriétaire du navire ou, dans le cas d’un navire au sens de l’article premier de la Convention sur la responsabilité civile, de la part du Fonds international et du Fonds complémentaire;
 	- **b)** d’une part, le propriétaire du navire n’est pas responsable en raison de l’une des défenses mentionnées au paragraphe 77(3), à l’article III de la Convention sur la responsabilité civile ou à l’article 3 de la Convention sur les hydrocarbures de soute et, d’autre part, le Fonds international et le Fonds complémentaire ne sont pas responsables non plus;
 	- **c)** la créance excède :
@@ -1810,6 +1860,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **g)** la cause des dommages dus à la pollution par les hydrocarbures est inconnue et l’administrateur est incapable d’établir que l’événement qui est à l’origine des dommages n’est pas imputable à un navire;
 	- **h)** l’administrateur est partie à la transaction d’une affaire conclue en vertu de l’article 109.
 
+**Responsabilité supplémentaire de la Caisse d’indemnisation**
+
+- **(1.1)** Sous réserve des autres dispositions de la présente partie, la Caisse d’indemnisation assume les frais supportés par le ministre des Pêches et des Océans ou par toute autre personne à l’égard des mesures visées au paragraphe 180(1) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ayant trait aux hydrocarbures, ainsi que les pertes ou dommages causés par ces mesures, pour lesquels ni le propriétaire du navire, ni le Fonds international, ni le Fonds complémentaire ne sont responsables en raison du fait que les faits ou l’ensemble de faits pour lesquels les frais ont été engagés ne constituent pas une menace grave et imminente de causer des dommages dus à la pollution par les hydrocarbures.
+
 **Exception : opérations de forage**
 
 - **(2)** La présente partie ne s’applique pas, eu égard à la fuite ou au rejet d’hydrocarbures, aux navires de forage situés sur un emplacement de forage qui sont utilisés dans le cadre d’activités d’exploration ou d’exploitation du fond ou du sous-sol marin, si le rejet provient de ces activités.
@@ -1817,7 +1871,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception : unité flottante de stockage**
 
 - **(3)** La présente partie ne s’applique pas à une unité flottante de stockage ou à une unité flottante de production, de stockage et de déchargement, sauf si elle transporte des hydrocarbures comme cargaison entre ports ou terminaux à l’extérieur des limites d’un champ pétrolifère extracôtier.
-> 2001, ch. 6, art. 101; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 101; 2009, ch. 21, art. 11; 2018, ch. 27, art. 721.
 
 
 
@@ -1827,18 +1881,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **102** 
 
-- **(1)** En cas d’événement dont la responsabilité est imputable au propriétaire d’un navire au titre des articles 51, 71 ou 77, de l’article III de la Convention sur la responsabilité civile ou de l’article 3 de la Convention sur les hydrocarbures de soute, l’administrateur peut, même avant d’avoir reçu la demande visée à l’article 103, intenter une action réelle contre le navire qui fait l’objet de la demande ou à l’égard du produit de la vente de celui-ci déposé au tribunal, et, à cette occasion, peut, sous réserve du paragraphe (3), demander une garantie d’un montant au moins égal à la responsabilité maximale cumulée du propriétaire calculée conformément aux articles 71 ou 77 ou à l’article V de la Convention sur la responsabilité civile.
+- **(1)** En cas d’événement dont la responsabilité est imputable au propriétaire d’un navire au titre des articles 51, 71 ou 77, de l’article III de la Convention sur la responsabilité civile ou de l’article 3 de la Convention sur les hydrocarbures de soute, l’administrateur peut :
+	- **a)** d’une part, même avant d’avoir reçu la demande visée aux articles 103 ou 106.1, intenter une action réelle contre le navire qui fait l’objet de la demande ou à l’égard du produit de la vente de celui-ci déposé au tribunal;
+	- **b)** d’autre part, sous réserve du paragraphe (3), demander, à cette occasion, une garantie d’un montant au moins égal à la responsabilité maximale cumulée du propriétaire calculée conformément aux articles 71 ou 77 ou à l’article V de la Convention sur la responsabilité civile.
 
 **Subrogation**
 
-- **(2)** L’administrateur ne peut continuer cette action que s’il est subrogé dans les droits du demandeur aux termes de l’alinéa 106(3)c).
+- **(2)** L’administrateur ne peut continuer cette action que s’il est subrogé dans les droits du demandeur aux termes des alinéas 106(3)c) ou 106.3(5)b).
 
 **Demande de garantie non fondée**
 
 - **(3)** L’administrateur ne peut demander la garantie visée au paragraphe (1) si :
 	- **a)** dans le cas d’un navire au sens de l’article premier de la Convention sur la responsabilité civile, le fonds visé au paragraphe 52(2) a été constitué;
 	- **b)** dans le cas d’un autre navire, le fonds visé à l’article 11 de la Convention au sens de l’article 24 a été constitué.
-> 2001, ch. 6, art. 102; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 102; 2009, ch. 21, art. 11; 2018, ch. 27, art. 722.
 
 
 
@@ -1848,18 +1904,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **103** 
 
-- **(1)** En plus des droits qu’elle peut exercer contre la Caisse d’indemnisation en vertu de l’article 101, toute personne qui a subi des pertes ou des dommages ou qui a engagé des frais mentionnés aux articles 51, 71 ou 77, à l’article III de la Convention sur la responsabilité civile ou à l’article 3 de la Convention sur les hydrocarbures de soute à cause de dommages — réels ou prévus — dus à la pollution par les hydrocarbures peut présenter à l’administrateur une demande en recouvrement de créance à l’égard de ces dommages, pertes et frais.
+- **(1)** En plus des droits qu’elle peut exercer contre la Caisse d’indemnisation en vertu de l’article 101, toute personne qui a subi des pertes ou des dommages ou qui a engagé des frais visés aux articles 51, 71 ou 77, à l’article III de la Convention sur la responsabilité civile ou à l’article 3 de la Convention sur les hydrocarbures de soute pour tout type de frais, pertes ou dommages, en raison des dommages, réels ou prévus, dus à la pollution par les hydrocarbures — notamment le préjudice économique dû à la pollution par les hydrocarbures subi par des personnes dont les biens n’ont pas été pollués — peut présenter à l’administrateur une demande en recouvrement de créance à l’égard de ces frais, pertes ou dommages.
 
-**Délais**
+**Dépôt des demandes auprès de l’administrateur — frais visés au paragraphe 101(1.1)**
 
-- **(2)** Sous réserve du pouvoir donné à la Cour d’amirauté à l’alinéa 111a), la demande en recouvrement de créance doit être faite :
+- **(1.1)** En plus des droits qui peuvent être exercés contre la Caisse d’indemnisation en vertu du paragraphe 101(1.1), si le ministre des Pêches et des Océans ou toute autre personne engage des frais visés à ce paragraphe ou subit des pertes ou des dommages visés à celui-ci, ce ministre ou cette personne peut présenter à l’administrateur une demande en recouvrement de créance à l’égard de ces frais, pertes ou dommages.
+
+**Prescription**
+
+- **(2)** La demande en recouvrement de créance doit être faite :
 	- **a)** s’il y a eu des dommages dus à la pollution par les hydrocarbures, dans les deux ans suivant la date où ces dommages se sont produits et dans les cinq ans suivant l’événement qui les a causés;
 	- **b)** sinon, dans les cinq ans suivant l’événement à l’égard duquel des dommages ont été prévus.
 
+**Plusieurs faits liés au même événement**
+
+- **(2.1)** Pour l’application du paragraphe (2), lorsque des dommages dus à la pollution par les hydrocarbures ou des dommages prévus résultent d’un événement constitué d’un ensemble de faits, le délai de cinq ans court à compter du premier de ces faits.
+
 **Exceptions**
 
-- **(3)** Le paragraphe (1) ne s’applique pas à un organisme d’intervention visé aux alinéas 51a), 71a) ou 77(1)b) ou à une personne dans un État étranger.
-> 2001, ch. 6, art. 103, ch. 26, art. 324; 2009, ch. 21, art. 11.
+- **(3)** Les paragraphes (1) et (1.1) ne s’appliquent pas à un organisme d’intervention visé aux alinéas 51(1)a), 71(1)a) ou 77(1)b) ou à une personne dans un État étranger.
+> 2001, ch. 6, art. 103, ch. 26, art. 324; 2009, ch. 21, art. 11; 2018, ch. 27, art. 723.
 
 
 
@@ -1891,7 +1955,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Facteurs à considérer**
 
 - **(3)** Dans le cadre de l’enquête et de l’évaluation, l’administrateur ne prend en considération que la question de savoir :
-	- **a)** d’une part, si la créance est visée par le paragraphe 103(1);
+	- **a)** d’une part, si la créance est visée par le paragraphe 103(1) ou (1.1), selon le cas;
 	- **b)** d’autre part, si la créance résulte, en tout ou en partie :
 		- **(i)** soit d’une action ou omission du demandeur visant à causer un dommage,
 		- **(ii)** soit de sa négligence.
@@ -1905,7 +1969,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(5)** L’administrateur réduit proportionnellement ou éteint la créance s’il est convaincu que l’événement à l’origine de celle-ci est attribuable :
 	- **a)** soit à une action ou omission du demandeur visant à causer un dommage;
 	- **b)** soit à sa négligence.
-> 2001, ch. 6, art. 105; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 105; 2009, ch. 21, art. 11; 2018, ch. 27, art. 724.
 
 
 
@@ -1934,6 +1998,194 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Processus d’indemnisation accéléré
+
+
+
+**Processus accéléré — petites réclamations**
+
+**106.1** 
+
+- **(1)** Toute personne peut présenter à l’administrateur, au titre du présent article, une demande en recouvrement de créance qui remplit les conditions suivantes :
+	- **a)** la demande vise des frais, pertes ou dommages visés aux paragraphes 103(1) — à l’exception du préjudice économique visé à ce paragraphe — ou (1.1), engagés ou subis par le demandeur;
+	- **b)** la demande est la première demande que le demandeur a présentée relativement à un fait donné pour les frais, pertes ou dommages visés à l’alinéa a) et le montant de la demande ne dépasse pas trente-cinq mille dollars ou, si un montant différent est fixé par règlement pris en vertu de l’alinéa 106.8b), ce montant;
+	- **c)** la demande ne résulte pas, en tout ou en partie, soit d’une action ou omission du demandeur visant à causer un dommage, soit de sa négligence.
+
+**Contenu de la demande**
+
+- **(2)** La demande comprend :
+	- **a)** une description du fait à l’origine de la demande ainsi que des frais, pertes ou dommages engagés ou subis par le demandeur visés par la demande;
+	- **b)** la somme réclamée pour les frais, pertes et dommages;
+	- **c)** une attestation du demandeur précisant :
+		- **(i)** que tous les faits mentionnés dans la demande sont vrais,
+		- **(ii)** qu’il n’a aucune raison de croire que le fait n’a pas été causé par un navire,
+		- **(iii)** qu’il peut fournir à l’administrateur, sur demande, les pièces justificatives concernant les frais, pertes et dommages,
+		- **(iv)** tout autre renseignement prévu par règlement;
+	- **d)** tout autre renseignement prévu par règlement.
+
+**Événement significatif — augmentation du seuil de la demande**
+
+- **(3)** S’il est d’avis que le rejet d’hydrocarbures d’un navire constitue un événement significatif, l’administrateur peut fixer par arrêté le montant visé à l’alinéa (1)b) pour une demande relative à cet événement significatif à cinquante mille dollars ou, si un montant différent est fixé par règlement pris en vertu de l’alinéa 106.8d), à ce montant. Le cas échéant, il veille à ce qu’un avis à cet effet soit accessible au public.
+
+**Prescription**
+
+- **(4)** La demande visée au paragraphe (1) doit être faite :
+	- **a)** s’il y a eu des dommages dus à la pollution par les hydrocarbures, dans l’année suivant la date du fait qui les a causés;
+	- **b)** sinon, dans l’année suivant le fait à l’égard duquel des dommages ont été prévus.
+
+**Plusieurs faits liés au même événement**
+
+- **(5)** Pour l’application du paragraphe (4), lorsque des dommages dus à la pollution par les hydrocarbures ou des dommages prévus résultent d’un événement constitué d’un ensemble de faits, le délai d’un an court à compter de la date suivant le premier de ces faits.
+
+**Exceptions**
+
+- **(6)** Le paragraphe (1) ne s’applique pas à un organisme d’intervention visé aux alinéas 51(1)a), 71(1)a) ou 77(1)b) ou à une personne dans un État étranger.
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Responsabilité — exception**
+
+**106.2** L’article 106.1 ne s’applique pas aux dommages — réels ou prévus — dus à la pollution par les hydrocarbures qui se produisent dans les endroits visés aux alinéas 104a) et b).
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Fonctions de l’administrateur**
+
+**106.3** 
+
+- **(1)** Dans le délai de soixante jours qui court à compter de la date de réception d’une demande présentée en vertu du paragraphe 106.1(1), l’administrateur évalue la demande.
+
+**Rejet de la demande**
+
+- **(2)** S’il a des motifs de soupçonner que la demande ne remplit pas une ou plusieurs des conditions visées au paragraphe 106.1(1) ou ne se conforme pas au paragraphe 106.1(2), dans le délai de soixante jours, l’administrateur rejette la demande et en avise le demandeur par écrit.
+
+**Demande rejetée — autres droits préservés**
+
+- **(3)** Le rejet de la demande au titre du paragraphe (2) n’empêche pas le demandeur de faire valoir ses droits au titre de la présente loi, autrement qu’au titre de l’article 106.1, relativement aux frais, pertes et dommages visés par la demande rejetée.
+
+**Versement de la somme réclamée**
+
+- **(4)** Si l’administrateur n’a pas de motifs de soupçonner que la demande ne remplit pas une ou plusieurs des conditions visées au paragraphe 106.1(1) ou ne se conforme pas au paragraphe 106.1(2), dans le délai visé au paragraphe (1), l’administrateur ordonne que la somme demandée soit versée au demandeur par prélèvement sur la Caisse d’indemnisation.
+
+**Subrogation**
+
+- **(5)** Lorsque l’administrateur ordonne que la somme demandée soit versée au demandeur :
+	- **a)** le demandeur ne peut plus faire valoir les droits qu’il pouvait avoir contre la Caisse d’indemnisation ou qui que ce soit à l’égard des questions visées aux articles 51, 71 et 77, aux paragraphes 101(1.1) et 103(1.1), à l’article III de la Convention sur la responsabilité civile et à l’article 3 de la Convention sur les hydrocarbures de soute en ce qui concerne le fait auquel se rapporte le versement, sauf à l’égard du préjudice économique visé au paragraphe 103(1);
+	- **b)** dans la limite de la somme versée au demandeur, l’administrateur est subrogé dans les droits de ce dernier pour la partie de la somme versée qui peut être recouvrée du propriétaire du navire, du Fonds international, du Fonds complémentaire ou de toute autre personne responsable.
+
+**Recouvrement de la somme versée**
+
+- **(6)** S’il ordonne que la somme demandée soit versée au demandeur au titre du paragraphe (4), l’administrateur prend toute mesure raisonnable pour recouvrer la partie de la somme versée visée à l’alinéa (5)b) et, à cette fin, peut notamment intenter une action en son nom ou au nom du demandeur, réaliser toute garantie donnée à celui-ci ainsi qu’intenter une action contre le fonds du propriétaire constitué aux termes de la Convention sur la responsabilité civile.
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Pièces justificatives**
+
+**106.4** 
+
+- **(1)** S’il ordonne que la somme demandée soit versée au demandeur au titre du paragraphe 106.3(4), l’administrateur peut, dans les trois ans suivant la date du fait pour lequel la somme demandée a été versée, demander au demandeur de lui fournir les pièces justificatives visées au sous-alinéa 106.1(2)c)(iii).
+
+**Délai pour fournir les pièces justificatives**
+
+- **(2)** Si l’administrateur demande au demandeur de lui fournir les pièces justificatives ce dernier a trente jours à compter de la date de réception de la demande — ou tout délai plus long convenu avec l’administrateur — pour les lui fournir.
+
+**Omission de fournir les pièces justificatives**
+
+- **(3)** Si le demandeur ne fournit pas les pièces justificatives demandées dans le délai applicable, l’administrateur peut lui envoyer un avis indiquant qu’il est tenu de lui rembourser la somme versée au titre du paragraphe 106.3(4) dans le délai et selon les modalités qui y sont précisés.
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Réévaluation et enquête**
+
+**106.5** 
+
+- **(1)** Si la somme demandée est versée au demandeur au titre du paragraphe 106.3(4), l’administrateur peut, dans les trois ans suivant la date du fait pour lequel la demande a été faite, enquêter au sujet de cette demande et la réévaluer.
+
+**Pouvoirs de l’administrateur**
+
+- **(2)** Aux fins d’enquête et de réévaluation, l’administrateur a les pouvoirs d’un commissaire nommé en vertu de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md).
+
+**Facteurs à considérer**
+
+- **(3)** Dans le cadre de l’enquête et de la réévaluation, l’administrateur ne prend en considération que la question de savoir si la demande remplit les conditions visées au paragraphe 106.1(1).
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Résultat de l’enquête et de la réévaluation**
+
+**106.6** 
+
+- **(1)** Au terme de l’enquête et de la réévaluation de la demande, l’administrateur envoie dès que possible un avis au demandeur indiquant :
+	- **a)** soit que l’administrateur ne prendra aucune autre mesure relativement à la demande;
+	- **b)** soit que le demandeur est tenu de payer à l’administrateur le trop-payé précisé dans l’avis, dans le délai et selon les modalités qui y sont précisés.
+
+**Trop-payé**
+
+- **(2)** Les sommes ci-après versées au titre du paragraphe 106.3(4) constituent un trop-payé au demandeur :
+	- **a)** la somme versée relativement à une demande au sujet de laquelle l’administrateur est convaincu qu’elle ne visait pas des frais, pertes ou dommages visés à l’alinéa 106.1(1)a);
+	- **b)** la somme versée relativement à une demande au sujet de laquelle l’administrateur est convaincu qu’il ne s’agissait pas de la première demande présentée par le demandeur relativement à un fait donné pour les frais, pertes ou dommages visés à cet alinéa;
+	- **c)** la somme versée relativement à une demande au sujet de laquelle l’administrateur est convaincu qu’elle est attribuable à une action ou omission du demandeur visant à causer un dommage ou à sa négligence;
+	- **d)** la somme versée relativement à une demande si la preuve convainc l’administrateur que le fait à l’origine de la demande n’a pas été causé par un navire.
+
+**Trop-payé — dépassement des délais**
+
+- **(3)** S’il est convaincu qu’une demande — pour laquelle une somme a été versée au titre du paragraphe 106.3(4) — n’a pas été présentée dans le délai prévu au paragraphe 106.1(4), l’administrateur peut, à sa discrétion, déterminer que la somme versée constitue un trop-payé au demandeur.
+
+**Appel à la Cour d’amirauté**
+
+- **(4)** Le demandeur peut, dans les soixante jours suivant la date de réception de l’avis visé à l’alinéa(1)b), interjeter appel devant la Cour d’amirauté.
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Créances de Sa Majesté**
+
+**106.7** Sauf si le demandeur au titre du paragraphe 106.1(1) est un ministre fédéral, les sommes et les trop-payés à verser en application du paragraphe 106.4(3) ou de l’alinéa 106.6(1)b), respectivement, constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement auprès des personnes qui sont tenues de les verser peut être poursuivi devant tout tribunal compétent.
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Règlements**
+
+**106.8** Le gouverneur en conseil peut prendre des règlements :
+- **a)** concernant les demandes présentées en vertu du paragraphe 106.1(1);
+- **b)** fixant un montant pour l’application de l’alinéa 106.1(1)b);
+- **c)** prévoyant tout renseignement pour l’application du sous-alinéa 106.1(2)c)(iv) ou de l’alinéa 106.1(2)d);
+- **d)** fixant un montant pour l’application du paragraphe 106.1(3).
+> 2018, ch. 27, art. 725.
+
+
+
+
+
+**Définitions**
+
+**106.9** Pour l’application des articles 106.1 à 106.6, ***fait*** et ***événement*** s’entendent au sens de la définition de événement à l’article premier de la Convention sur la responsabilité civile.
+> 2018, ch. 27, art. 725.
+
+
+
+
+
 ### Demandes d’indemnisation des pertes de revenus
 
 
@@ -1942,7 +2194,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **107** 
 
-- **(1)** Au présent article, ***bateau de pêche***, ***pêche*** et ***poissons*** s’entendent au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+- **(1)** Au présent article, bateau de pêche, pêche et poissons s’entendent au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
 
 **Définition de demandeur**
 
@@ -1959,7 +2211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demandes d’indemnisation des pertes de revenus**
 
-- **(3)** Sous réserve des autres dispositions du présent article, les demandeurs qui subissent une perte de revenus, présents ou futurs, ou qui, dans le cas des particuliers visés à l’alinéa (2)d), perdent leur source d’approvisionnement en nourriture ou en pelleteries, à cause d’un rejet d’hydrocarbures provenant d’un navire, et qui ne peuvent être indemnisés en vertu de la partie 6 peuvent présenter à l’administrateur une demande en recouvrement de créance à l’égard de cette perte :
+- **(3)** Sous réserve des autres dispositions du présent article, les demandeurs qui subissent une perte de revenus, présents ou futurs, ou qui, dans le cas des particuliers visés à l’alinéa (2)d), perdent leur source d’approvisionnement en nourriture ou en pelleteries, à cause d’un rejet d’hydrocarbures provenant d’un navire, et qui ne peuvent être indemnisés au titre de la partie 6 ou d’une autre disposition de la présente partie peuvent présenter à l’administrateur une demande en recouvrement de créance à l’égard de cette perte :
 	- **a)** dans les trois ans suivant le début du rejet d’hydrocarbures ou le moment où l’on peut raisonnablement présumer qu’ils en ont eu connaissance;
 	- **b)** dans les six ans suivant l’événement qui a entraîné le rejet.
 
@@ -1973,10 +2225,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Bien que le demandeur ne soit pas tenu de démontrer que l’événement a été causé par un navire, l’administrateur rejette la demande si la preuve le convainc autrement.
 
-**Délai**
-
-- **(6)** La Cour d’amirauté peut, en vertu de l’alinéa 111a), réduire, par ordonnance, le délai prévu au paragraphe (3).
-> 2001, ch. 6, art. 107; 2009, ch. 21, art. 11.
+- **(6)** [Abrogé, 2018, ch. 27, art. 726]
+> 2001, ch. 6, art. 107; 2009, ch. 21, art. 11; 2018, ch. 27, art. 726.
 
 
 
@@ -2044,47 +2294,95 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Limite de responsabilité de la Caisse d’indemnisation
+### Fonds en cas d’urgence
 
 
 
-**Limite de la Caisse d’indemnisation pour la première année**
+**Fonds demandés par le ministre des Pêches et des Océans — dix millions de dollars**
 
 **110** 
 
-- **(1)** Pour un même événement, la somme totale maximale que la Caisse d’indemnisation peut payer à l’égard de toutes les demandes en recouvrement de créance qui lui sont présentées en vertu des articles 101, 103 et 107, ainsi qu’en raison de transactions, est l’une des sommes suivantes :
-	- **a)** 100 000 000 $, si l’événement survient durant l’année se terminant le 31 mars 1990;
-	- **b)** une somme calculée en conformité avec le paragraphe (2), si l’événement survient après cette année.
+- **(1)** Si, de l’avis du ministre des Pêches et des Océans, des fonds d’urgence sont nécessaires pour répondre à un événement significatif mettant en cause le rejet d’hydrocarbures par un navire, le ministre des Transports peut, après avoir consulté l’administrateur, ordonner que soit portée au débit de la Caisse d’indemnisation pour que le ministre des Pêches et des Océans puisse répondre à cet événement significatif une somme équivalant aux fonds demandés par le ministre des Pêches et des Océans, ou une somme inférieure, jusqu’à concurrence de dix millions de dollars par exercice.
 
-**Rajustement annuel de la limite**
+**Fonds supplémentaires — cinquante millions de dollars**
 
-- **(2)** La somme maximale mentionnée à l’alinéa (1)a) est rajustée annuellement; elle est rajustée de telle sorte que, à l’égard de tout événement se produisant au cours de toute année subséquente, la limite de responsabilité devienne égale au produit des éléments suivants :
-	- **a)** la limite de responsabilité qui aurait été applicable à cette année subséquente si aucun rajustement n’avait été fait à son égard aux termes du présent article;
-	- **b)** le rapport entre l’indice des prix à la consommation, à l’exclusion des facteurs énergétique et alimentaire, pour l’année civile qui précède l’année pour laquelle le rajustement est calculé et cet indice des prix en ce qui concerne l’année précédente.
+- **(2)** Si la somme maximale fixée au titre du paragraphe (1) a été portée au débit de la Caisse d’indemnisation au titre de ce paragraphe et que, de l’avis du ministre des Pêches et des Océans, des fonds d’urgence supplémentaires sont nécessaires, pour le même exercice, pour répondre à un événement significatif mettant en cause le rejet d’hydrocarbures par un navire, le gouverneur en conseil peut, par décret, sur recommandation du ministre des Transports après que celui-ci ait consulté l’administrateur, ordonner que soit portée au débit de la Caisse d’indemnisation pour que le ministre des Pêches et des Océans puisse répondre à cet événement significatif une somme équivalant aux fonds supplémentaires demandés par le ministre des Pêches et des Océans, ou une somme inférieure, jusqu’à concurrence de cinquante millions de dollars par exercice.
 
-**Indice des prix à la consommation**
+**Exceptions**
 
-- **(3)** Pour l’application du présent article, les règles suivantes s’appliquent :
-	- **a)** toute mention de ***l’indice des prix à la consommation, à l’exclusion des facteurs énergétique et alimentaire,*** s’entend, pour une période de douze mois, de la moyenne des indices des prix à la consommation pour le Canada, à l’exclusion des facteurs énergétique et alimentaire, pour chaque mois de cette période, publiés par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
-	- **b)** le gouverneur en conseil peut, sur la recommandation du ministre, prendre des règlements sur le mode de détermination de la moyenne des indices des prix à la consommation, à l’exclusion des facteurs énergétique et alimentaire, pour une période donnée de douze mois et sur la façon d’exprimer cette moyenne quand il s’agit d’une fraction d’un nombre entier;
-	- **c)** dans les cas où l’indice des prix à la consommation pour le Canada, tel qu’il est publié par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), est ajusté pour refléter une nouvelle base de temps, un ajustement correspondant est fait à l’indice des prix à la consommation, à l’exclusion des facteurs énergétique et alimentaire, à l’égard de toute période de douze mois servant au calcul de la limite de responsabilité de la Caisse d’indemnisation en application du présent article;
-	- **d)** un ajustement de l’indice des prix à la consommation pour le Canada pour refléter une nouvelle base quant au contenu n’a aucun effet sur l’application du présent article.
+- **(3)** Il est entendu que le ministre des Pêches et des Océans ne peut faire une demande au titre des paragraphes (1) ou (2) dans les cas suivants :
+	- **a)** des mesures prises ou à prendre en vertu de l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) qui concernent uniquement un rejet d’hydrocarbures par un petit bateau délabré ou abandonné;
+	- **b)** le ministre des Pêches et des Océans joue uniquement un rôle de surveillance mineure de l’application de mesures effectuée en vertu de l’alinéa 180(1)b) de la même loi.
 
-**Publication de la limite rajustée**
+**Utilisation des fonds d’urgence**
 
-- **(4)** Chaque année, dès que la limite de responsabilité visée au paragraphe (1) est rajustée conformément au présent article, le ministre la fait publier dans la Gazette du Canada et elle devient alors admissible en preuve dans toute action intentée en vertu de la présente partie; la limite ainsi publiée fait foi de la limite de responsabilité pour l’année en question.
-> 2001, ch. 6, art. 110; 2009, ch. 21, art. 11.
+- **(4)** Le ministre des Pêches et des Océans ne peut utiliser les fonds d’urgence que pour répondre à un événement significatif mettant en cause le rejet d’hydrocarbures par un navire, notamment pour payer des tiers. Il est entendu qu’il ne peut utiliser ces fonds pour la prise :
+	- **a)** de mesures visées à l’alinéa 180(1)a) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) qui concernent uniquement un rejet d’hydrocarbures par un petit bateau délabré ou abandonné;
+	- **b)** de mesures visées au paragraphe 101(1.1).
+> 2001, ch. 6, art. 110; 2009, ch. 21, art. 11; 2018, ch. 27, art. 727.
 
 
 
 
 
-**Demandes de directives judiciaires**
+**Remboursement des fonds d’urgence**
 
-**111** Dans le cas où elle est convaincue que, à l’égard d’un événement en particulier, la responsabilité totale de la Caisse d’indemnisation qui découle des articles 101, 103 et 107, ainsi que du paragraphe 109(2), peut dépasser la limite fixée en vertu de l’article 110, la Cour d’amirauté peut par ordonnance, sur demande de l’administrateur et sur préavis aux autres parties intéressées qu’elle estime juste dans les circonstances :
-- **a)** exclure les demandeurs qui ne présentent pas leurs demandes à l’administrateur dans le délai qu’elle impose;
-- **b)** prévoir le paiement différé et le paiement au prorata — ou l’un de ces modes de paiement — des créances établies.
-> 2001, ch. 6, art. 111; 2009, ch. 21, art. 11.
+**111** 
+
+- **(1)** Si des fonds d’urgence sont portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2), la Caisse d’indemnisation est créditée d’une somme équivalant aux fonds d’urgence à même les crédits du ministère des Pêches et des Océans affectés au titre d’une loi de crédit du Parlement, dans un délai de deux ans suivant la date où les dommages dus à la pollution par les hydrocarbures, résultant de l’événement significatif, se sont produits, ou tout délai plus long convenu avec l’administrateur.
+
+**Droits préservés**
+
+- **(2)** Le paragraphe (1) n’a pas pour effet d’empêcher le ministre des Pêches et des Océans d’exercer ses droits au titre des articles 51, 71, 77 et 101, de l’article III de la Convention sur la responsabilité civile et de l’article 3 de la Convention sur les hydrocarbures de soute en ce qui a trait aux frais engagés et aux dommages et pertes subis qui sont relatifs à l’événement significatif.
+> 2001, ch. 6, art. 111; 2009, ch. 21, art. 11; 2018, ch. 27, art. 727.
+
+
+
+
+
+**Droits exercés au titre de l’article 103**
+
+**111.1** 
+
+- **(1)** Malgré le paragraphe 111(1), si le ministre des Pêches et des Océans présente une demande en recouvrement de créance en vertu de l’article 103 pour les frais engagés ou les dommages ou pertes subis qui sont relatifs à l’événement significatif pour lequel des fonds d’urgence ont été portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2), seule la partie inutilisée de ces fonds au moment de la présentation de la demande est créditée à la Caisse d’indemnisation dans un délai de deux ans suivant la date où les dommages dus à la pollution par les hydrocarbures, résultant de l’événement significatif, se sont produits, ou tout délai plus long convenu avec l’administrateur.
+
+**Offre d’indemnité négative**
+
+- **(2)** Si l’offre d’indemnité faite au ministre des Pêches et des Océans au titre de l’alinéa 105(1)b) est inférieure à zéro, la Caisse d’indemnisation est créditée, dans un délai de six mois suivant la réception de l’offre d’indemnité par ce ministre, ou tout délai plus long convenu avec l’administrateur, à même les crédits du ministère des Pêches et des Océans affectés au titre d’une loi de crédit du Parlement, d’une somme équivalant à l’offre d’indemnité faite à moins qu’il n’interjette appel au titre du paragraphe 106(2).
+
+**Refus de l’offre d’indemnité**
+
+- **(3)** Si le ministre des Pêches et des Océans refuse l’offre d’indemnité faite au titre de l’alinéa 105(1)b), la Caisse d’indemnisation est créditée dès que possible après la réception de l’offre d’indemnité par ce ministre à même les crédits du ministère des Pêches et des Océans affectés au titre d’une loi de crédit du Parlement d’une somme équivalant aux fonds d’urgence portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2), moins toute partie inutilisée des fonds d’urgence créditée à la Caisse d’indemnisation au titre du paragraphe (1).
+
+**Définition de offre d’indemnité**
+
+- **(4)** Si des fonds d’urgence sont portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2), pour l’application des articles 105, 106 et du présent article, ***offre d’indemnité*** s’entend, à l’égard du ministre des Pêches et des Océans, de la somme obtenue par la formule suivante :
+```
+A – (B – C)
+```
+où :
+- **A** représente le montant évalué par l’administrateur au titre de l’alinéa 105(1)a);
+- **B** les fonds d’urgence portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2);
+- **C** la partie inutilisée des fonds d’urgence créditée à la Caisse d’indemnisation au titre du paragraphe (1).
+> 2018, ch. 27, art. 727.
+
+
+
+
+
+**Intérêts**
+
+**111.2** Des intérêts sont calculés sur le solde des sommes qui doit être crédité au titre des paragraphes 111(1), 111.1(1) et (2) et qui n’est pas crédité dans les délais prévus à ces paragraphes, au taux fixé conformément aux règlements pris en application de l’alinéa 155.1(6)a) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à compter de la date où les fonds d’urgence ont été portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2).
+> 2018, ch. 27, art. 727.
+
+
+
+
+
+**Frais engagés à même les fonds d’urgence**
+
+**111.3** Le ministre des Pêches et des Océans fournit au ministre des Transports et à l’administrateur, sur demande du ministre des Transports, des renseignements relatifs aux frais engagés à même les fonds d’urgence portés au débit de la Caisse d’indemnisation au titre des paragraphes 110(1) ou (2).
+> 2018, ch. 27, art. 727.
 
 
 
@@ -2094,40 +2392,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Définition de hydro­carbures**
+**Définitions**
 
-**112** 
+**112** Les définitions qui suivent s’appliquent aux articles 113, 114.1, 117.1 et 117.3.
 
-- **(1)** Pour l’application du présent article et des articles 115 et 118, ***hydrocarbures*** s’entend des ***hydrocarbures donnant lieu à contribution*** au sens du paragraphe 3 de l’article premier de la Convention sur le Fonds international dans le cas de la contribution à verser au titre de cette convention ou du paragraphe 7 de l’article premier du Protocole portant création d’un Fonds complémentaire dans le cas de celle à verser au titre de ce protocole.
+***hydrocarbures donnant lieu à contribution*** S’entend au sens du paragraphe 3 de l’article premier de la Convention sur le Fonds international. (*contributing oil*)
 
-**Contributions**
-
-- **(2)** Si elle est imposée ou rétablie par le ministre en vertu du paragraphe 114(1), la contribution déterminée en conformité avec l’article 113 est versée au receveur général pour :
-	- **a)** chaque tonne métrique, au-delà de 300 tonnes métriques, d’une cargaison en vrac d’hydrocarbures importée au Canada sur un navire;
-	- **b)** chaque tonne métrique, au-delà de 300 tonnes métriques, d’une cargaison en vrac d’hydrocarbures expédiée par navire d’un endroit au Canada.
-
-**Moment du paiement**
-
-- **(3)** La contribution visée au paragraphe (2), ou une sûreté jugée acceptable par le ministre quant à son montant et à sa forme, est versée aux moments suivants :
-	- **a)** avant le déchargement, dans le cas visé à l’alinéa (2)a);
-	- **b)** avant l’appareillage du lieu de chargement, dans le cas visé à l’alinéa (2)b).
-
-**Créances de Sa Majesté**
-
-- **(4)** Les sommes à verser en application du paragraphe (2) et les intérêts afférents constituent des créances de Sa Majesté, dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent; le remboursement peut être réclamé :
-	- **a)** en cas d’importation au Canada, sur un navire, d’une cargaison en vrac d’hydrocarbures, au propriétaire, au destinataire ou au chargeur des hydrocarbures;
-	- **b)** en cas d’expédition d’un endroit au Canada, sur un navire, d’une cargaison en vrac d’hydrocarbures, au propriétaire, à l’expéditeur ou au chargeur des hydrocarbures.
-> 2001, ch. 6, art. 112; 2009, ch. 21, art. 11.
+***hydrocarbures non persistants*** S’entend des hydrocarbures visés au paragraphe 1a)ii) de l’article 19 de la Convention sur les substances nocives et potentiellement dangereuses. (*non-persistent oil*)
+> 2001, ch. 6, art. 112; 2009, ch. 21, art. 11; 2018, ch. 27, art. 728.
 
 
 
 
 
-**Montant de la contribution pendant la première année**
+**Montant de la contribution**
 
 **113** 
 
-- **(1)** La contribution visée au paragraphe 112(2) est de trente cents pendant l’année se terminant le 31 mars 1990.
+- **(1)** La contribution est de 52,38 cents pendant l’année se terminant le 31 mars 2019 pour chaque tonne métrique d’hydrocarbures donnant lieu à contribution ou d’hydrocarbures non persistants reçue ou exportée, selon le cas, en vrac en tant que cargaison.
 
 **Rajustement annuel de la contribution**
 
@@ -2143,34 +2425,92 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** dans les cas où l’indice des prix à la consommation pour le Canada, tel qu’il est publié par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), est ajusté pour refléter une nouvelle base de temps, un ajustement correspondant est fait à l’indice des prix à la consommation, à l’exclusion des facteurs énergétique et alimentaire, à l’égard de toute période de douze mois servant au calcul des contributions en application du présent article;
 	- **d)** un ajustement de l’indice des prix à la consommation pour le Canada pour refléter une nouvelle base quant au contenu n’a aucun effet sur l’application du présent article.
 
-**Publication du montant rajusté**
+**Publication annuelle de la contribution rajustée**
 
-- **(4)** Chaque année, dès que le montant de la contribution visée au paragraphe 112(2) est rajusté conformément au présent article, le ministre le fait publier dans la Gazette du Canada et il devient alors admissible en preuve dans toute action intentée en vertu de la présente partie; le montant ainsi publié fait foi de la contribution pour l’année en question.
-> 2001, ch. 6, art. 113; 2009, ch. 21, art. 11.
-
-
+- **(4)** Chaque année, dès que la contribution visée au paragraphe (1) est rajustée conformément au présent article, le ministre la fait publier dans la Gazette du Canada et elle devient alors admissible en preuve dans toute action intentée en vertu de la présente loi; la contribution ainsi publiée fait foi de la contribution pour l’année en question.
+> 2001, ch. 6, art. 113; 2009, ch. 21, art. 11; 2018, ch. 27, art. 729.
 
 
 
-**Suspension et nouvelle imposition**
+
+
+**Imposition et suspension de la contribution**
 
 **114** 
 
-- **(1)** Le ministre peut par arrêté, après consultation du ministre des Pêches et des Océans et du ministre de l’Environnement, soit imposer la contribution visée au paragraphe 112(2), soit en suspendre l’exigibilité, soit la rétablir.
+- **(1)** Le ministre peut par arrêté, après consultation du ministre des Pêches et des Océans, soit imposer la contribution visée à l’article 113, soit en suspendre l’exigibilité, soit la rétablir, pour une période indéfinie ou pour la période qu’il précise dans l’arrêté.
+
+**Contenu de l’arrêté**
+
+- **(1.1)** L’arrêté qui impose ou rétablit la contribution précise :
+	- **a)** dans le cas de l’année où la contribution est imposée ou rétablie, la date limite à laquelle la contribution doit être versée;
+	- **b)** dans le cas de toute année subséquente pour laquelle la contribution est imposée ou rétablie, la date de référence pour la contribution à verser au cours de cette année.
+
+**Date limite du versement de la contribution — année subséquente**
+
+- **(1.2)** La date limite à laquelle la contribution doit être versée au cours d’une année subséquente visée à l’alinéa (1.1)b) est le soixantième jour — ou le jour précisé dans l’arrêté qui impose ou rétablit la contribution — après la date de référence.
 
 **Aucune conséquence sur le rajustement annuel**
 
 - **(2)** La suspension faite en vertu du paragraphe (1) n’a aucun effet sur l’application de l’article 113.
-> 2001, ch. 6, art. 114; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 114; 2009, ch. 21, art. 11; 2018, ch. 27, art. 730.
 
 
 
 
 
-**Intérêt sur les sommes non versées**
+**Montant de la contribution — règles applicables**
 
-**115** Le solde de la contribution qui n’est pas versée selon les modalités prévues au paragraphe 112(3) peut être majoré d’un intérêt au taux fixé par le gouverneur en conseil sur recommandation du ministre des Finances, à compter du moment où les hydrocarbures sont déchargés ou de celui où le navire quitte les installations de chargement, selon le cas.
-> 2001, ch. 6, art. 115; 2009, ch. 21, art. 11.
+**114.1** 
+
+- **(1)** Pour l’application des alinéas (2)a) et b), la somme à verser au titre de ces alinéas est établie, pour l’année où la contribution doit être versée, en fonction de ce qui suit :
+	- **a)** dans le cas de l’année où la contribution est imposée ou rétablie au titre du paragraphe 114(1) :
+		- **(i)** les quantités d’hydrocarbures devant être déclarées dans la déclaration de renseignements qui était, à la date de la prise de l’arrêté, la plus récemment requise au titre de l’article 117.1,
+		- **(ii)** la contribution visée au paragraphe 113(1), ajustée conformément au paragraphe 113(2), en vigueur à la date de la prise de l’arrêté;
+	- **b)** dans le cas de toute année subséquente visée par l’arrêté :
+		- **(i)** les quantités d’hydrocarbures devant être déclarées dans la déclaration de renseignements la plus récemment requise au titre de l’article 117.1 à la date de référence précisée dans l’arrêté pour cette année,
+		- **(ii)** la contribution visée au paragraphe 113(1), ajustée conformément au paragraphe 113(2), en vigueur à la date de référence précisée dans l’arrêté pour cette année.
+
+**Versement de la contribution**
+
+- **(2)** Si une contribution déterminée en conformité avec l’article 113 est imposée ou rétablie par arrêté pris en vertu du paragraphe 114(1), les personnes ci-après versent au receveur général une somme équivalant à la contribution :
+	- **a)** les personnes visées à l’article 10 de la Convention sur le Fonds international;
+	- **b)** les personnes qui sont des réceptionnaires et qui reçoivent, au cours d’une année civile, plus de 20 000 tonnes métriques — ou, si une quantité différente inférieure est fixée par règlement pris en application de l’alinéa 125b), cette quantité — d’hydrocarbures non persistants en vrac en tant que cargaison.
+
+**Personnes associées**
+
+- **(3)** Au paragraphe (2), le terme personne vise notamment les personnes associées.
+
+**Définition de personnes associées**
+
+- **(4)** Au paragraphe (3), ***personnes associées*** s’entend :
+	- **a)** s’agissant des personnes visées à l’article 10 de la Convention sur le Fonds international, des personnes qui sont réputées être des personnes associées en vertu de l’article 60;
+	- **b)** s’agissant des personnes qui sont des réceptionnaires, des personnes qui sont réputées être des personnes associées en vertu de l’article 74.3.
+> 2018, ch. 27, art. 731.
+
+
+
+
+
+**Contribution additionnelle**
+
+**114.2** 
+
+- **(1)** Lorsqu’une somme est portée au débit du Trésor au titre de l’article 93.1, le ministre peut, par arrêté, imposer une contribution additionnelle qu’il précise dans l’arrêté — qu’une contribution au titre du paragraphe 114(1) ait été imposée ou non, ou rétablie ou non —, aux personnes visées aux alinéas 114.1(2)a) et b). Le cas échéant, ces personnes versent au receveur général, conformément à l’arrêté, une somme équivalant à la contribution additionnelle.
+
+**Abrogation**
+
+- **(2)** Le ministre abroge l’arrêté dès que possible lorsqu’une somme équivalant à celle portée au débit du Trésor au titre de l’article 93.1 est créditée au Trésor à partir du solde créditeur de la Caisse d’indemnisation et qu’il est convaincu que les modalités établies à l’égard de l’inscription de cette somme au débit du Trésor en vertu de cet article ont été respectées.
+> 2018, ch. 27, art. 731.
+
+
+
+
+
+**Créances de Sa Majesté**
+
+**115** Les sommes à verser en application des articles 114.1 et 114.2 constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement auprès des personnes qui sont tenues de les verser peut être poursuivi devant tout tribunal compétent.
+> 2001, ch. 6, art. 115; 2009, ch. 21, art. 11; 2018, ch. 27, art. 732.
 
 
 
@@ -2202,87 +2542,125 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’administrateur effectue au profit du Fonds international et du Fonds complémentaire des versements qui proviennent de la Caisse d’indemnisation, en conformité avec les articles 10, 12 et 13 de la Convention sur le Fonds international et des articles 10 à 13 du Protocole portant création d’un Fonds complémentaire.
 
-**Définition de personne**
+- **(1.1) à (7)** [Abrogés, 2018, ch. 27, art. 733]
+> 2001, ch. 6, art. 117; 2009, ch. 21, art. 11; 2014, ch. 29, art. 50; 2018, ch. 27, art. 733.
 
-- **(1.1)** Pour l’application du paragraphe (1.2), ***personne*** s’entend au sens de l’article premier de la Convention sur la responsabilité civile.
 
-**Déclarations de renseignements — hydrocarbures donnant lieu à contribution**
 
-- **(1.2)** Les personnes qui sont tenues de faire des contributions au titre de l’article 10 de la Convention sur le Fonds international et de l’article 10 du Protocole portant création d’un Fonds complémentaire déposent, en conformité avec les règlements, auprès du ministre ou de l’administrateur des déclarations de renseignements permettant à l’administrateur de s’acquitter de ses obligations prévues aux paragraphes 117(1) et (2).
 
-**Définition de réceptionnaire**
 
-- **(1.3)** Pour l’application du paragraphe (1.4), ***réceptionnaire*** s’entend au sens du paragraphe 4a) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses.
+**Déclarations de renseignements — réceptionnaires**
 
-**Déclarations de renseignements — substances nocives et potentiellement dangereuses**
+**117.1** 
 
-- **(1.4)** Les réceptionnaires déposent, en conformité avec les règlements, auprès du ministre ou de l’administrateur des déclarations de renseignements concernant les quantités d’hydrocarbures visés au paragraphe 5a)i) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses qu’ils ont reçues.
+- **(1)** Les personnes ci-après déposent, en conformité avec les règlements, auprès du ministre ou de l’administrateur des déclarations de renseignements concernant les hydrocarbures en cause :
+	- **a)** les personnes visées à l’article 10 de la Convention sur le Fonds international;
+	- **b)** les personnes qui sont des réceptionnaires et qui reçoivent, au cours d’une année civile, des hydrocarbures non persistants en quantité supérieure à celle fixée par les règlements pris en application de l’alinéa (4)b).
+
+**Personnes associées**
+
+- **(2)** Au paragraphe (1), le terme personne vise notamment les personnes associées.
+
+**Définition de personnes associées**
+
+- **(3)** Au paragraphe (2), ***personnes associées*** s’entend :
+	- **a)** s’agissant des personnes visées à l’article 10 de la Convention sur le Fonds international, des personnes qui sont réputées être des personnes associées en vertu de l’article 60;
+	- **b)** s’agissant des personnes qui sont des réceptionnaires, des personnes qui sont réputées être des personnes associées en vertu de l’article 74.3.
 
 **Règlements**
 
-- **(1.5)** Pour l’application des paragraphes (1.2) et (1.4), le gouverneur en conseil peut prendre des règlements concernant les déclarations de renseignements.
+- **(4)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** pour l’application du paragraphe (1), concernant les déclarations de renseignements;
+	- **b)** pour l’application de l’alinéa (1)b), concernant la quantité d’hydrocarbures non persistants.
+> 2018, ch. 27, art. 734.
+
+
+
+
 
 **Communication des renseignements**
 
-- **(2)** L’administrateur fournit au ministre et à l’administrateur du Fonds international ou à l’administrateur du Fonds complémentaire, selon le cas, en conformité avec l’article 15 de la Convention sur le Fonds international ou l’article 13 du Protocole portant création d’un Fonds complémentaire, selon le cas, les renseignements qui y sont prévus.
+**117.2** 
 
-**Communication des renseignements : ministre**
+- **(1)** L’administrateur fournit au ministre et à l’administrateur du Fonds international ou à l’administrateur du Fonds complémentaire, en conformité avec l’article 15 de la Convention sur le Fonds international ou l’article 13 du Protocole portant création d’un Fonds complémentaire, selon le cas, les renseignements qui y sont prévus.
 
-- **(2.1)** L’administrateur fournit au ministre les renseignements visés au paragraphe 74.4(4) ayant trait aux hydrocarbures visés au paragraphe 5a)i) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses qui permettent à celui-ci de s’acquitter de son obligation prévue au paragraphe 74.4(4).
+**Communication des renseignements : ministre**
 
-**Communication des renseignements : ministre et administrateur du Fonds SNPD**
+- **(2)** L’administrateur fournit au ministre les renseignements visés au paragraphe 74.4(4) ayant trait aux hydrocarbures visés au paragraphe 5a)i) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses qui lui permettent de s’acquitter de son obligation prévue au paragraphe 74.4(4).
 
-- **(2.2)** L’administrateur fournit au ministre et à l’administrateur du Fonds SNPD, en conformité avec l’article 21 de la Convention sur les substances nocives et potentiellement dangereuses, les renseignements qui y sont visés et qui ont trait aux hydrocarbures visés au paragraphe 5a)i) de l’article premier de cette convention.
+**Communication des renseignements : ministre et administrateur du Fonds SNPD**
+
+- **(3)** L’administrateur fournit au ministre et à l’administrateur du Fonds SNPD, en conformité avec l’article 21 de la Convention sur les substances nocives et potentiellement dangereuses, les renseignements qui y sont visés et qui ont trait aux hydrocarbures visés au paragraphe 5a)i) de l’article premier de cette convention.
 
 **Obligation de l’administrateur**
 
-- **(3)** Il est tenu d’indemniser ces Fonds de toute perte financière causée par l’omission de remplir cette obligation.
+- **(4)** Il est tenu d’indemniser ces Fonds de toute perte financière causée par l’omission de remplir cette obligation.
+> 2018, ch. 27, art. 734.
+
+
+
+
 
 **Pouvoirs de l’administrateur**
 
-- **(4)** L’administrateur peut, pour l’application des paragraphes (1.2), (1.4), (2), (2.1) ou (2.2) :
-	- **a)** à toute heure convenable, procéder à la visite de tout lieu où il a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents relatifs aux renseignements prévus à l’article 15 de la Convention sur le Fonds international, à l’article 13 du Protocole portant création d’un Fonds complémentaire ou à l’article 21 ou 45 de la Convention sur les substances nocives et potentiellement dangereuses;
-	- **b)** examiner tout ce qui s’y trouve et copier, ou emporter pour les copier ou les examiner ultérieurement, les registres, livres comptables, comptes, pièces justificatives ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent de tels renseignements;
-	- **c)** obliger le propriétaire, l’occupant ou le responsable du lieu visité à lui prêter toute l’assistance possible dans le cadre de l’examen, à répondre à toutes les questions pertinentes relatives à l’examen et, à cette fin, à l’accompagner dans le lieu.
+**117.3** 
+
+- **(1)** L’administrateur peut :
+	- **a)** pour l’application des paragraphes 117.1(1) ou 117.2(1), (2) ou (3), à toute heure convenable, procéder à la visite de tout lieu où il a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents relatifs aux renseignements prévus à l’article 15 de la Convention sur le Fonds international, à l’article 13 du Protocole portant création d’un Fonds complémentaire ou aux articles 21 ou 45 de la Convention sur les substances nocives et potentiellement dangereuses;
+	- **b)** pour l’application des paragraphes 117.1(1) ou 117.2(1), (2) ou (3), examiner tout ce qui s’y trouve et copier, ou emporter pour les copier ou les examiner ultérieurement, les registres, livres comptables, comptes, pièces justificatives ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent de tels renseignements;
+	- **c)** pour l’application des paragraphes 117.1(1) ou 117.2(1), (2) ou (3), obliger le propriétaire, l’occupant ou le responsable du lieu visité à lui prêter toute l’assistance possible dans le cadre de l’examen, à répondre à toutes les questions pertinentes relatives à l’examen et, à cette fin, à l’accompagner dans le lieu.
 
 **Entrave**
 
-- **(5)** Il est interdit d’entraver l’action de l’administrateur dans l’exercice des pouvoirs que lui confère le paragraphe (4), ou de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
+- **(2)** Il est interdit de sciemment entraver l’action de l’administrateur dans l’exercice des pouvoirs que lui confère le paragraphe (1), ou de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
 
 **Mandat : local d’habitation**
 
-- **(6)** Dans le cas d’un local d’habitation, l’administrateur ne peut procéder à la visite sans l’autorisation de l’occupant que s’il est muni du mandat décerné en vertu du paragraphe (7).
+- **(3)** Dans le cas d’un local d’habitation, l’administrateur ne peut procéder à la visite sans l’autorisation de l’occupant que s’il est muni du mandat décerné en vertu du paragraphe (4).
 
 **Mandat : autorisation**
 
-- **(7)** Sur demande *ex parte*, tout juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut décerner un mandat autorisant l’administrateur, sous réserve des conditions qui y sont éventuellement fixées, à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
-	- **a)** le local d’habitation est un lieu visé à l’alinéa (4)a);
-	- **b)** la visite est nécessaire pour l’application des paragraphes (1.2), (1.4), (2), (2.1) ou (2.2);
+- **(4)** Sur demande *ex parte*, tout juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut décerner un mandat autorisant l’administrateur, sous réserve des conditions qui y sont éventuellement fixées, à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+	- **a)** le local d’habitation est un lieu visé à l’alinéa (1)a);
+	- **b)** la visite est nécessaire pour l’application des paragraphes 117.1(1) ou 117.2(1), (2) ou (3);
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
-> 2001, ch. 6, art. 117; 2009, ch. 21, art. 11; 2014, ch. 29, art. 50.
+> 2018, ch. 27, art. 734.
 
 
 
 
 
-**Registre et livres comptables**
+**Registre — personnes tenues de déposer une déclaration de renseignements**
 
 **118** 
 
-- **(1)** Les personnes visées au paragraphe 112(4) de qui une contribution peut être exigée en vertu de l’article 112 tiennent, à leur établissement au Canada ou à un autre endroit, au Canada, désigné par le ministre, des registres et livres comptables qui contiennent les renseignements suivants :
-	- **a)** les sommes qu’elles doivent verser aux termes de cet article;
-	- **b)** les types et quantités d’hydrocarbures auxquels se rapportent ces sommes;
-	- **c)** les date et lieu où ces sommes ont été payées ou une sûreté remise à leur égard en conformité avec le paragraphe 112(3);
-	- **d)** les autres renseignements que le ministre peut exiger pour déterminer ces sommes et le moment où elles doivent être payées.
+- **(1)** Les personnes tenues de déposer une déclaration de renseignements au titre du paragraphe 117.1(1) tiennent, à leur établissement au Canada ou à un autre endroit, au Canada, désigné par le ministre, des registres qui contiennent, relativement aux hydrocarbures faisant l’objet de cette déclaration :
+	- **a)** les types et quantités d’hydrocarbures reçus ou exportés, selon le cas;
+	- **b)** les autres renseignements ou documents exigés d’elles par le ministre au titre de l’article 118.1.
+
+**Registre et livres comptables — personnes tenues de verser une contribution**
+
+- **(1.1)** Les personnes visées au paragraphe (1) qui sont tenues de verser une somme au titre des articles 114.1 ou 114.2 tiennent, à leur établissement au Canada ou à un autre endroit, au Canada, désigné par le ministre, des registres et livres comptables qui contiennent, en plus des informations visées au paragraphe (1), les renseignements suivants :
+	- **a)** les sommes qu’elles doivent verser au titre des articles 114.1 ou 114.2 à l’égard des types et quantités d’hydrocarbures visés au paragraphe (1);
+	- **b)** une preuve de chaque versement d’une somme visée à l’alinéa a), notamment la date de chaque versement.
 
 **Destruction**
 
-- **(2)** Les personnes tenues, en application du présent article, de garder des registres et des livres comptables doivent, sauf autorisation contraire du ministre, conserver ceux-ci, de même que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent, jusqu’à l’expiration d’une période de six ans suivant la fin de l’année à laquelle se rapportent les registres et livres comptables.
+- **(2)** Les personnes tenues, en application du présent article, de tenir des registres ou des livres comptables doivent, sauf autorisation contraire du ministre, les conserver, de même que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent, jusqu’à l’expiration d’une période de six ans suivant la fin de l’année à laquelle se rapportent les registres ou livres comptables.
 
 **Accès**
 
 - **(3)** Elles doivent, à toute heure convenable, permettre aux personnes désignées par écrit par le ministre d’examiner les registres et livres comptables, ainsi que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent; elles doivent aussi leur fournir les moyens nécessaires à cet examen.
-> 2001, ch. 6, art. 118; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 118; 2009, ch. 21, art. 11; 2018, ch. 27, art. 735.
+
+
+
+
+
+**Demande de renseignements**
+
+**118.1** La personne visée au paragraphe 118(1) fournit au ministre, en la forme et dans le délai qu’il précise, tout renseignement ou document que celui-ci exige et qu’il estime nécessaire pour assurer le respect de la présente partie.
+> 2018, ch. 27, art. 736.
 
 
 
@@ -2292,7 +2670,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **119** 
 
-- **(1)** La personne désignée par écrit à cette fin par le ministre peut, à toute heure convenable, procéder à la visite de tout lieu où elle a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents ayant rapport à la contribution visée à l’article 112 et peut :
+- **(1)** La personne désignée par écrit à cette fin par le ministre peut, à toute heure convenable, procéder à la visite de tout lieu où elle a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents visés à l’article 118 et peut :
 	- **a)** examiner tout ce qui s’y trouve et copier, ou emporter pour les copier ou les examiner ultérieurement, les registres, livres comptables, comptes, pièces justificatives ou autres documents dont elle a des motifs raisonnables de croire qu’ils contiennent des renseignements utiles à l’application de la présente partie;
 	- **b)** obliger le propriétaire, l’occupant ou le responsable du lieu visité à lui prêter toute l’assistance possible dans le cadre de l’examen prévu à l’alinéa a), à répondre à toutes les questions pertinentes relatives à l’examen et, à cette fin, à l’accompagner dans le lieu.
 
@@ -2330,7 +2708,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrave, fausses déclarations**
 
 - **(9)** Il est interdit d’entraver l’action de quiconque dans l’exercice des fonctions que lui confère le présent article, ou de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 2001, ch. 6, art. 119; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 119; 2009, ch. 21, art. 11; 2018, ch. 27, art. 737.
 
 
 
@@ -2345,16 +2723,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **120** 
 
 - **(1)** L’administrateur veille :
-	- **a)** à faire tenir des documents comptables;
-	- **b)** à mettre en oeuvre, en matière de finances et de gestion, des moyens de contrôle et d’information et à faire appliquer des méthodes de gestion.
+	- **a)** à faire tenir des registres et livres comptables concernant la Caisse d’indemnisation;
+	- **b)** à faire mettre en oeuvre des moyens de contrôle et d’information et à faire appliquer des méthodes de gestion concernant les finances et la gestion de la Caisse d’indemnisation.
 
 **Responsabilité de l’administrateur**
 
-- **(2)** Pour l’application du paragraphe (1), l’administrateur veille, dans la mesure du possible, à ce que :
-	- **a)** les actifs de la Caisse d’indemnisation soient protégés et contrôlés;
-	- **b)** les opérations de la Caisse d’indemnisation se fassent en conformité avec la présente partie;
-	- **c)** la gestion des ressources financières, humaines et matérielles de la Caisse d’indemnisation soit menée de façon économique et efficiente et à ce que ses opérations soient réalisées avec efficacité.
-> 2001, ch. 6, art. 120; 2009, ch. 21, art. 11.
+- **(2)** Pour l’application du paragraphe (1), l’administrateur garantit, dans la mesure du possible, que :
+	- **a)** l’exercice par lui et l’administrateur adjoint des attributions que leur confère la présente partie se fait avec efficacité et en conformité avec la présente partie;
+	- **b)** les actifs qu’ils utilisent sont protégés et contrôlés;
+	- **c)** les ressources financières, humaines et matérielles qu’ils utilisent sont gérées de façon économique et efficiente.
+> 2001, ch. 6, art. 120; 2009, ch. 21, art. 11; 2018, ch. 27, art. 738.
 
 
 
@@ -2364,15 +2742,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **121** 
 
-- **(1)** Le plus tôt possible, mais au plus tard dans les trois mois suivant la fin de chaque exercice, l’administrateur présente au ministre, en la forme prévue par celui-ci, un rapport annuel de ses activités pour l’exercice précédent; le ministre en fait déposer un exemplaire devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+- **(1)** Le plus tôt possible, mais au plus tard dans les trois mois suivant la fin de chaque exercice, l’administrateur présente au ministre, en la forme prévue par celui-ci le cas échéant, un rapport annuel de ses activités pour l’exercice précédent; le ministre en fait déposer un exemplaire devant chaque chambre du Parlement dans leurs quinze premiers jours de séance suivant sa réception.
 
 **Présentation matérielle et contenu**
 
 - **(2)** Le rapport annuel comporte notamment les éléments suivants :
-	- **a)** les états financiers de la Caisse d’indemnisation;
-	- **b)** le rapport du vérificateur sur ces états financiers;
-	- **c)** les coûts de préparation du rapport du vérificateur.
-> 2001, ch. 6, art. 121; 2009, ch. 21, art. 11.
+	- **a)** un état des sommes portées au crédit ou au débit de la Caisse d’indemnisation au cours de l’exercice;
+	- **a.1)** un état des frais engagés au cours de l’exercice par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente partie;
+	- **a.2)** un état des honoraires pour les services rendus par l’administrateur et l’administrateur adjoint au cours de l’exercice;
+	- **b)** le rapport du vérificateur sur les états visés aux alinéas a) à a.2);
+	- **c)** les frais de préparation du rapport du vérificateur.
+> 2001, ch. 6, art. 121; 2009, ch. 21, art. 11; 2018, ch. 27, art. 739.
 
 
 
@@ -2382,19 +2762,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **122** 
 
-- **(1)** L’administrateur fait procéder à un examen spécial des opérations de la Caisse d’indemnisation afin de vérifier si, pendant la période considérée, les moyens et les méthodes visés à l’alinéa 120(1)b) ont été, selon le cas, mis en oeuvre ou appliqués d’une façon garantissant qu’ils étaient, dans la mesure du possible, conformes aux alinéas 120(2)a) et c).
+- **(1)** L’administrateur fait procéder à un examen spécial des opérations de la Caisse d’indemnisation afin de vérifier si, pendant la période considérée, les moyens et les méthodes visés à l’alinéa 120(1)b) ont été, selon le cas, mis en oeuvre ou appliqués d’une façon garantissant qu’ils étaient, dans la mesure du possible, conformes aux alinéas 120(2)b) et c).
 
 **Périodicité**
 
-- **(2)** Les examens spéciaux par l’administrateur sont au moins quinquennaux; des examens spéciaux complémentaires peuvent avoir lieu à la demande du gouverneur en conseil ou du ministre.
+- **(2)** Les examens spéciaux par l’administrateur sont au moins quinquennaux; des examens spéciaux complémentaires ont lieu à la demande du gouverneur en conseil ou du ministre.
 
 **Examinateur**
 
-- **(3)** L’administrateur ou la personne qui demande l’examen nomme, à titre d’examinateur, la personne qui est chargée de l’examen spécial.
+- **(3)** L’administrateur — ou, s’il demande la tenue de l’examen spécial, le gouverneur en conseil ou le ministre — nomme, à titre d’examinateur, la personne qui est chargée de l’examen spécial.
 
-**Fonctions incompatibles**
+**Conflit d’intérêts**
 
-- **(4)** L’examinateur ne peut occuper une charge ou un emploi incompatible avec les attributions prévues au présent article et à l’article 123.
+- **(4)** L’examinateur ne peut accepter ni occuper de charge ou d’emploi — ni exercer d’activité — incompatibles avec les attributions que lui confèrent le présent article et l’article 123.
 
 **Plan d’action**
 
@@ -2403,7 +2783,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Désaccord**
 
 - **(6)** Les désaccords entre l’examinateur et l’administrateur sur le plan d’action sont tranchés par le ministre.
-> 2001, ch. 6, art. 122; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 122; 2009, ch. 21, art. 11; 2018, ch. 27, art. 740.
 
 
 
@@ -2413,14 +2793,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **123** 
 
-- **(1)** Au terme de l’examen, l’examinateur établit un rapport de ses résultats et le soumet au ministre et à l’administrateur.
+- **(1)** Au terme de l’examen spécial, l’examinateur rédige un rapport sur ses conclusions et le soumet au ministre et à l’administrateur.
 
 **Contenu**
 
 - **(2)** Le rapport comporte notamment les éléments suivants :
 	- **a)** un énoncé indiquant si, selon l’examinateur, compte tenu des critères établis en conformité avec le paragraphe 122(5), il peut être garanti que, dans la mesure du possible, les moyens et méthodes étudiés n’ont pas de défauts graves;
 	- **b)** un énoncé indiquant dans quelle mesure l’examinateur s’est fié aux résultats d’une vérification interne.
-> 2001, ch. 6, art. 123; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 123; 2009, ch. 21, art. 11; 2018, ch. 27, art. 741.
 
 
 
@@ -2430,17 +2810,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **124** 
 
-- **(1)** L’administrateur, l’administrateur adjoint ou les salariés ou mandataires de la Caisse d’indemnisation, ou leurs prédécesseurs, doivent, à la demande de l’examinateur :
-	- **a)** lui fournir des renseignements et des éclaircissements;
-	- **b)** lui donner accès aux registres, livres comptables, comptes, pièces justificatives et autres documents de la Caisse d’indemnisation.
-Ils se conforment à la demande dans la mesure où l’examinateur l’estime nécessaire pour établir les rapports prévus par la présente partie et où il leur est normalement possible de le faire.
+- **(1)** L’examinateur peut ordonner à l’administrateur, à l’administrateur adjoint ou à leurs employés ou mandataires ou à leurs prédécesseurs — dans la mesure où l’examinateur l’estime nécessaire pour établir les rapports prévus par la présente partie et où il leur est normalement possible de le faire — de lui fournir des renseignements et des éclaircissements et de lui donner accès aux registres, livres comptables, comptes, pièces justificatives et autres documents relatifs à la Caisse d’indemnisation.
 
 **Responsabilité de l’administrateur**
 
-- **(2)** L’administrateur doit, à la demande de l’examinateur :
+- **(2)** L’administrateur doit, lorsque l’examinateur l’ordonne :
 	- **a)** fournir les renseignements et les éclaircissements que l’examinateur estime nécessaires pour lui permettre d’établir les rapports prévus par la présente partie et qu’il peut normalement fournir;
-	- **b)** recueillir auprès de l’administrateur adjoint, des salariés ou mandataires, de leurs prédécesseurs ou de l’administrateur précédent, les renseignements et les éclaircissements que ces personnes peuvent norma-lement fournir et que l’examinateur estime nécessaires pour lui permettre d’établir les rapports prévus par la présente partie et les fournir à l’examinateur.
-> 2001, ch. 6, art. 124; 2009, ch. 21, art. 11.
+	- **b)** recueillir auprès de l’administrateur adjoint, des employés ou mandataires, de leurs prédécesseurs ou de tout administrateur précédent, les renseignements et les éclaircissements que ces personnes peuvent normalement fournir et que l’examinateur estime nécessaires pour lui permettre d’établir les rapports exigés par la présente partie et les fournir à l’examinateur.
+> 2001, ch. 6, art. 124; 2009, ch. 21, art. 11; 2018, ch. 27, art. 742.
 
 
 
@@ -2453,11 +2830,13 @@ Ils se conforment à la demande dans la mesure où l’examinateur l’estime n�
 **Gouverneur en conseil**
 
 **125** Le gouverneur en conseil peut par règlement :
-- **a)** prévoir la façon de verser la contribution prévue à l’article 112;
-- **b)** prévoir le dépôt, auprès du ministre, de déclarations de renseignements par toute personne visée aux alinéas 112(4)a) ou b) de qui la contribution peut être exigée;
-- **c)** [Abrogé, 2014, ch. 29, art. 51]
+- **a)** régir le versement de la contribution visée à l’article 114.1 ou de la contribution additionnelle visée à l’article 114.2;
+- **b)** prévoir, pour l’application de l’alinéa 114.1(2)b), une quantité d’hydrocarbures inférieure à celle prévue à cet alinéa;
+- **c)** soustraire des catégories de personnes de l’application des alinéas 114.1(2) a) ou b);
+- **c.1)** prévoir des catégories de personnes pour l’application des règlements pris en application de l’alinéa c);
+- **c.2)** modifier la définition de réceptionnaire au paragraphe 91(1);
 - **d)** d’une façon générale, prendre toute autre mesure d’application de la présente partie.
-> 2001, ch. 6, art. 125; 2009, ch. 21, art. 11; 2014, ch. 29, art. 51.
+> 2001, ch. 6, art. 125; 2009, ch. 21, art. 11; 2014, ch. 29, art. 51; 2018, ch. 27, art. 743.
 
 
 
@@ -2579,45 +2958,470 @@ Il fixe les modalités de présentation de la demande de déplacement et donne �
 
 
 
+### Sanctions administratives pécuniaires
+
+
+
+#### Transaction et Procès-verbal
+
+
+
+**Violation**
+
+**130.01** 
+
+- **(1)** Commet une violation et s’expose à une pénalité quiconque contrevient :
+	- **a)** aux paragraphes 74.4(2) ou (3), aux alinéas 114.1(2)a) ou b), aux paragraphes 114.2(1), 117.1(1), 117.3(2) ou 118(1) ou (1.1), à l’article 118.1 ou au paragraphe 129(7);
+	- **b)** à une disposition de la présente loi ou des règlements dont la contravention est désignée comme violation en vertu d’un règlement pris en application de l’alinéa 130.19a).
+
+**Pénalité**
+
+- **(2)** Le montant de la pénalité applicable à chaque violation visée au paragraphe (1) est plafonné, dans le cas des personnes physiques, à 50 000 $ et, dans le cas de toute autre personne, à 250 000 $.
+
+**Précision**
+
+- **(3)** Toute contravention qualifiable à la fois de violation et d’infraction peut être réprimée soit comme violation, soit comme infraction, les poursuites pour violation et celles pour infraction s’excluant toutefois mutuellement.
+
+**Nature de la violation**
+
+- **(4)** Il est entendu que les violations n’ont pas valeur d’infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Défense de prise des précautions voulues**
+
+- **(5)** Nul ne peut être tenu responsable d’une violation prévue sous le régime de la présente loi, sauf pour contravention aux paragraphes 117.3(2) ou 118(1) ou (1.1), s’il prouve qu’il a pris toutes les précautions voulues pour en prévenir la commission.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Transaction ou procès-verbal**
+
+**130.02** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’une violation a été commise, le ministre peut :
+	- **a)** soit conclure avec le contrevenant une transaction en vue de l’observation, dans le délai précisé et aux conditions fixées, de la disposition enfreinte et fixer le montant et la forme de la garantie à remettre pour garantir l’exécution de la transaction ainsi que le montant de la pénalité qu’il aurait eu à payer s’il n’avait pas conclu la transaction;
+	- **b)** soit dresser un procès-verbal — qu’il fait signifier au contrevenant — comportant, outre le nom du contrevenant et les faits reprochés, le montant de la pénalité à payer, ainsi que le délai, soit trente jours après la date de la signification de l’avis, et les modalités de paiement ou de requête en révision.
+
+**Prorogation du délai**
+
+- **(2)** S’il est convaincu que le contrevenant ne peut exécuter la transaction dans le délai précisé pour des raisons indépendantes de sa volonté, le ministre peut proroger ce délai.
+
+**Description abrégée**
+
+- **(3)** Il peut établir, pour toute violation, une description abrégée à utiliser dans les procès-verbaux.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Commission de la violation**
+
+**130.03** 
+
+- **(1)** Sauf s’il présente une requête en révision au titre du paragraphe (2), le contrevenant qui conclut une transaction au titre de l’alinéa 130.02(1)a) est réputé avoir commis la violation en cause.
+
+**Requête en révision**
+
+- **(2)** Le contrevenant qui conclut une transaction peut, dans les quarante-huit heures suivant la signature de celle-ci, mais avant la signification de l’avis de défaut visé au paragraphe 130.05(1), déposer auprès du Tribunal d’appel des transports du Canada une requête en révision des faits reprochés, auquel cas la transaction est réputée être un procès-verbal et le contrevenant est réputé avoir déposé une requête en révision des faits reprochés et du montant de la pénalité en vertu de l’alinéa 130.09(1)b).
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Avis d’exécution**
+
+**130.04** S’il est convaincu que le contrevenant a exécuté la transaction au titre de l’alinéa 130.02(1)a), le ministre veille à ce qu’il en soit avisé. Sur signification de l’avis :
+- **a)** aucune poursuite ne peut être intentée contre le contrevenant pour la même violation;
+- **b)** toute garantie remise au titre de l’alinéa 130.02(1)a) est remise au contrevenant.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Avis de défaut d’exécution**
+
+**130.05** 
+
+- **(1)** S’il estime que le contrevenant n’a pas exécuté la transaction au titre de l’alinéa 130.02(1)a), le ministre peut lui faire signifier un avis de défaut qui l’informe que, sauf si le conseiller ou le comité du Tribunal d’appel des transports du Canada conclut au titre des articles 130.07 ou 130.1 respectivement que la transaction a été exécutée :
+	- **a)** soit il paie le double du montant de la pénalité prévue par la transaction;
+	- **b)** soit la garantie remise au titre de l’alinéa 130.02(1)a) est confisquée au profit de Sa Majesté du chef du Canada.
+
+**Contenu de l’avis**
+
+- **(2)** Sont indiqués dans l’avis notamment le lieu et la date limite, à savoir trente jours après la date de la signification de l’avis, du dépôt d’une éventuelle requête en révision ainsi que la procédure à suivre pour déposer une requête en révision.
+
+**Effet de l’inexécution**
+
+- **(3)** Sur signification de l’avis de défaut, le contrevenant perd tout droit de déduire de la somme due les sommes exposées dans le cadre de la transaction.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Méthodes de signification**
+
+**130.06** 
+
+- **(1)** Le procès-verbal visé à l’article 130.02 et les avis visés aux articles 130.04, 130.05 et 130.18 sont signifiés selon l’une des méthodes suivantes :
+	- **a)** dans le cas d’une personne physique :
+		- **(i)** par remise d’une copie en main propre ou par remise d’une copie à quiconque semble être un membre adulte du même ménage à la dernière adresse connue ou au lieu de résidence habituel de cette personne ou, s’agissant d’une personne de moins de dix-huit ans, par remise d’une copie à ses parents ou à la personne en ayant la garde ou exerçant l’autorité parentale,
+		- **(ii)** par envoi d’une copie par courrier recommandé, par service de messagerie ou par moyen électronique à la dernière adresse connue ou au lieu de résidence habituel de cette personne;
+	- **b)** dans le cas d’une autre personne :
+		- **(i)** par remise d’une copie à son représentant ou à un dirigeant ou à une autre personne physique qui semble diriger ou gérer le siège ou l’établissement de la personne ou celui de son représentant,
+		- **(ii)** par envoi d’une copie par courrier recommandé, par service de messagerie ou par moyen électronique à l’une ou l’autre des personnes visées au sous-alinéa (i) ou au siège ou à l’établissement de la personne ou à celui de son représentant.
+
+**Preuve de signification**
+
+- **(2)** La signification est établie par l’un ou l’autre des documents suivants :
+	- **a)** un accusé de réception indiquant le lieu et la date de signification, signé par la personne l’ayant reçu, en son nom ou au nom d’une autre personne;
+	- **b)** un certificat de signification signé par la personne qui fait la signification et sur lequel sont indiqués le nom de la personne à qui a été faite la signification, ainsi que le moyen et la date de la signification;
+	- **c)** un relevé de transmission électronique indiquant la date et l’heure de transmission.
+
+**Prise d’effet de la signification**
+
+- **(3)** En l’absence d’accusé de réception ou de certificat de signification, la signification prend effet à l’une des dates suivantes :
+	- **a)** dans le cas d’une copie transmise par courrier recommandé ou par service de messagerie, le dixième jour suivant la date indiquée sur le récépissé du bureau de poste ou du service de messagerie;
+	- **b)** dans le cas d’une copie transmise par moyen électronique, la date indiquée sur le relevé de transmission.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Requête en révision**
+
+**130.07** 
+
+- **(1)** Le contrevenant à qui un avis a été signifié au titre du paragraphe 130.05(1) peut faire réviser la décision du ministre prise en vertu de ce paragraphe en déposant une requête en révision auprès du Tribunal d’appel des transports du Canada, au plus tard à la date limite qui est indiquée sur l’avis ou dans le délai supérieur octroyé à sa demande par ce tribunal, le cas échéant.
+
+**Date, heure et lieu de l’audience**
+
+- **(2)** Le Tribunal d’appel des transports du Canada, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(4)** Il incombe au ministre d’établir la responsabilité du contrevenant, ce dernier n’étant cependant pas tenu de témoigner.
+
+**Exclusion de certains moyens de défense**
+
+- **(5)** Malgré le paragraphe 130.01(5), le contrevenant ne peut invoquer en défense le fait qu’il a pris les précautions voulues pour exécuter la transaction.
+
+**Décision du conseiller**
+
+- **(6)** Après audition des parties, le conseiller confirme la décision du ministre ou conclut que la transaction a été exécutée par le contrevenant. Sans délai après avoir pris sa décision, il en informe le contrevenant et le ministre.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Restitution de la garantie**
+
+**130.08** La garantie remise par le contrevenant au titre de l’alinéa 130.02(1)a) lui est restituée :
+- **a)** en cas de signification de l’avis mentionné au paragraphe 130.05(1), lorsque le contrevenant paie le double du montant de la pénalité prévue par la transaction;
+- **b)** lorsque le conseiller en vertu du paragraphe 130.07(6) ou le comité du Tribunal d’appel des transports du Canada en vertu du paragraphe 130.1(3) conclut que la transaction a été exécutée.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Option découlant du procès-verbal**
+
+**130.09** 
+
+- **(1)** Le contrevenant à qui a été signifié un procès-verbal dressé par le ministre en application de l’alinéa 130.02(1)b) est tenu :
+	- **a)** soit de payer le montant de la pénalité infligée;
+	- **b)** soit, dans les trente jours suivant la signification du procès-verbal ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal d’appel des transports du Canada, de déposer auprès de celui-ci une requête en révision des faits reprochés ou du montant de la pénalité.
+
+**Paiement ou aucune requête**
+
+- **(2)** Vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure, selon le cas :
+	- **a)** l’omission de déposer une requête en révision dans le délai visé à l’alinéa (1)b);
+	- **b)** le paiement du montant de la pénalité infligée.
+
+**Date, heure et lieu de l’audience**
+
+- **(3)** Le Tribunal d’appel des transports du Canada, sur réception de la requête visée à l’alinéa (1)b), fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(4)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(5)** S’agissant d’une requête portant sur les faits reprochés, il incombe au ministre d’établir la responsabilité du contrevenant, ce dernier n’étant cependant pas tenu de témoigner.
+
+**Décision du conseiller**
+
+- **(6)** Après audition des parties, le conseiller informe par écrit sans délai le contrevenant et le ministre de sa décision.
+
+**Décision — pas de contravention**
+
+- **(7)** Si le conseiller décide qu’il n’y a pas eu contravention, sous réserve de l’article 130.1, aucune autre poursuite ne peut être intentée à cet égard sous le régime de la présente loi.
+
+**Décision — contravention**
+
+- **(8)** Si le conseiller décide qu’il y a eu contravention, il précise, sous réserve du paragraphe 130.01(2) et des règlements pris en application de l’alinéa 130.19b), de la somme, fixée par le conseiller, à payer au Tribunal d’appel des transports du Canada par le contrevenant ou en son nom et du délai imparti pour effectuer le paiement.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Droit d’appel**
+
+**130.1** 
+
+- **(1)** Le ministre ou le contrevenant peut, dans les trente jours suivant la décision rendue en vertu des paragraphes 130.07(6) ou 130.09(6), faire appel au Tribunal d’appel des transports du Canada de cette décision.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Décision sur l’appel**
+
+- **(3)** Après audition des parties, le comité du Tribunal d’appel des transports du Canada :
+	- **a)** dans le cas d’une décision visée au paragraphe 130.07(6), rejette l’appel ou y fait droit et substitue sa propre décision à celle en cause;
+	- **b)** dans le cas d’une décision visée au paragraphe 130.09(6), rejette l’appel ou y fait droit et, sous réserve du paragraphe 130.01(2) et des règlements pris en application de l’alinéa 130.19b), substitue sa propre décision à celle en cause.
+Sans délai après avoir pris sa décision, il informe le contrevenant et le ministre de sa décision et du délai imparti pour effectuer, s’il y a lieu, le paiement de la somme, qu’il fixe, à payer au Tribunal d’appel des transports du Canada.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+#### Recouvrement des créances
+
+
+
+**Créances de Sa Majesté**
+
+**130.11** 
+
+- **(1)** Constituent une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant la Cour d’amirauté ou tout autre tribunal compétent :
+	- **a)** sauf en cas de présentation d’une requête en révision au titre de l’alinéa 130.09(1)b), le montant de la pénalité précisé dans le procès-verbal visé à l’alinéa 130.02(1)b), à compter de la date d’expiration du délai prévu dans celui-ci;
+	- **b)** sauf en cas de présentation d’une requête en révision au titre du paragraphe 130.07(1), la somme à payer au titre de l’avis de défaut visé au paragraphe 130.05(1), à compter la date de la signification de l’avis;
+	- **c)** le montant de la pénalité fixé par le conseiller ou le comité du Tribunal d’appel des transports du Canada dans le cadre de la requête prévue aux articles 130.09 ou 130.1, à compter de la date d’expiration du délai prévu par la décision;
+	- **d)** le montant des frais visé au paragraphe (3).
+
+**Prescription**
+
+- **(2)** Le recouvrement de toute créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible aux termes du paragraphe (1).
+
+**Responsabilité relative au recouvrement**
+
+- **(3)** La personne tenue de payer le montant visé aux alinéas (1)a) ou c) ou la somme visée à l’alinéa (1)b) est également tenue de payer le montant des frais engagés en vue du recouvrement de ce montant ou de cette somme.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**130.12** 
+
+- **(1)** Le ministre ou le Tribunal d’appel des transports du Canada, selon le cas, peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 130.11(1).
+
+**Effet de l’enregistrement**
+
+- **(2)** La Cour d’amirauté enregistre tout certificat visé au paragraphe (1) déposé auprès d’elle. L’enregistrement confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+#### Dispositions générales
+
+
+
+**Coauteur d’une violation par une personne morale**
+
+**130.13** En cas de perpétration d’une violation sous le régime de la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation, que la personne morale ait été ou non identifiée ou poursuivie aux termes des articles 130.02 à 130.12.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Responsabilité indirecte — fait des employés et mandataires**
+
+**130.14** L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire, que celui-ci soit ou non connu ou poursuivi aux termes de la présente loi.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Prescription**
+
+**130.15** Le procès-verbal ne peut être dressé plus de deux ans après la date à laquelle le ministre a eu connaissance des éléments constitutifs de la violation.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Certificat**
+
+**130.16** Le certificat paraissant délivré par le ministre et attestant la date à laquelle il a eu connaissance des éléments visés à l’article 130.15 est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire et, sauf preuve contraire, fait foi de son contenu.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+#### Registre public
+
+
+
+**Procès-verbaux et avis de défaut**
+
+**130.17** Le ministre peut tenir un registre public des procès-verbaux et avis de défaut, comprenant notamment la nature des violations ou défauts d’exécution, le nom de l’auteur de chacune de ces violations ou de chacun de ces défauts d’exécution et le montant des pénalités applicables.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+**Radiation des mentions**
+
+**130.18** 
+
+- **(1)** À moins que le ministre n’estime que cela est contraire à l’intérêt public, les mentions relatives à une violation qui a été commise par un contrevenant ou à un défaut d’exécution sont radiées du registre public des procès-verbaux et des avis de défaut au cinquième anniversaire de la date à laquelle le contrevenant a payé toutes les pénalités exigibles aux termes de la présente loi.
+
+**Avis**
+
+- **(2)** Lorsqu’il estime que la radiation est contraire à l’intérêt public, le ministre en avise par écrit le contrevenant en y indiquant les motifs à l’appui.
+
+**Contenu de l’avis**
+
+- **(3)** Sont notamment indiqués dans l’avis visé au paragraphe (2) le lieu et la date limite, à savoir trente jours après la date de la signification de l’avis, du dépôt d’une éventuelle requête en révision ainsi que la procédure à suivre pour déposer une requête en révision.
+
+**Requête en révision**
+
+- **(4)** Le contrevenant peut faire réviser la décision du ministre prise en vertu du paragraphe (2) en déposant une requête en révision auprès du Tribunal d’appel des transports du Canada au plus tard à la date limite indiquée dans l’avis ou dans le délai supérieur octroyé à sa demande par ce tribunal, le cas échéant.
+
+**Date, heure et lieu de l’audience**
+
+- **(5)** Le Tribunal d’appel des transports du Canada, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(6)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de justice naturelle.
+
+**Décision du conseiller**
+
+- **(7)** Le conseiller confirme la décision du ministre ou lui renvoie l’affaire pour réexamen.
+
+**Droit d’appel**
+
+- **(8)** Le contrevenant peut, dans les trente jours suivant la décision du conseiller rendue en vertu du paragraphe (7), faire appel au Tribunal d’appel des transports du Canada de cette décision.
+
+**Perte du droit d’appel**
+
+- **(9)** Le contrevenant qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
+
+**Décision sur l’appel**
+
+- **(10)** Le comité du Tribunal d’appel des transports du Canada rejette l’appel ou renvoie l’affaire au ministre pour réexamen.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
+#### Règlements
+
+
+
+**Gouverneur en conseil**
+
+**130.19** Pour l’application des articles 130.01 à 130.18, le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
+- **a)** désigner comme violation la contravention à toute disposition précisée de la présente loi ou des règlements;
+- **b)** établir le montant, notamment par barème, des pénalités applicables aux violations, lequel montant ne peut dépasser le montant prévu au paragraphe 130.01(2);
+- **c)** lorsque le montant d’une pénalité est établi par barème en application de l’alinéa b), prévoir la méthode de son établissement, y compris les critères dont il faut tenir compte.
+> 2018, ch. 27, art. 744.
+
+
+
+
+
 ### Infractions
 
 
 
 **Infractions**
 
-**131** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ la personne ou le navire qui contrevient aux paragraphes 55(1) ou (2), 73(1) ou (2), 128(2) ou 129(6) ou (7) ou aux règlements pris en application de l’article 39.
-> 2001, ch. 6, art. 131; 2009, ch. 21, art. 11.
+**131** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $ la personne ou le navire qui contrevient aux paragraphes 55(1) ou (2), 73(1) ou (2), 128(2) ou 129(6) ou (7) ou aux règlements pris en application de l’article 39.
+> 2001, ch. 6, art. 131; 2009, ch. 21, art. 11; 2018, ch. 27, art. 745.
 
 
 
 
 
-**Fait de se soustraire au paiement**
+**Défaut de payer**
 
 **132** 
 
-- **(1)** La personne qui volontairement se soustrait ou tente de se soustraire au paiement d’une somme à verser en application de l’article 112 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $.
+- **(1)** La personne qui contrevient à l’alinéa 114.1(2)a) ou b) ou au paragraphe 114.2(1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $.
 
-**Omission de fournir des renseignements**
+**Déclaration de renseignements fausse ou trompeuse — réceptionnaire**
 
-- **(2)** La personne qui omet de déposer la déclaration de renseignements visée à l’alinéa 125b) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 $ pour chaque jour que dure cette omission.
+- **(2)** Le réceptionnaire qui dépose auprès du ministre une déclaration de renseignements au titre du paragraphe 74.4(2) alors qu’il sait ou devrait normalement savoir qu’elle est fausse ou trompeuse sur un point important commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $.
 
 **Falsification ou destruction des registres**
 
-- **(3)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ la personne qui inscrit sciemment une fausse déclaration ou une fausse écriture dans un registre, livre comptable ou autre document visé à l’article 118 qu’elle est tenue de conserver, ou la détruit, la détériore ou la falsifie sciemment.
+- **(3)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $ la personne qui inscrit sciemment une déclaration fausse ou trompeuse ou une fausse écriture ou une écriture trompeuse dans un registre ou un livre comptable devant être tenu au titre des paragraphes 118(1) ou (1.1) ou qui détruit, détériore ou falsifie sciemment un tel registre ou livre comptable.
+
+**Omission — registres**
+
+- **(3.1)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $ la personne qui omet sciemment de consigner une déclaration ou une écriture significative dans un registre ou un livre comptable devant être tenu au titre des paragraphes 118(1) ou (1.1).
 
 **Infractions**
 
-- **(4)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ la personne qui contrevient au paragraphe 74.4(7) ou 117(5), à l’article 118 ou au paragraphe 119(9).
+- **(4)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $ la personne qui contrevient aux paragraphes 74.4(7) ou 117.3(2), à l’article 118 ou au paragraphe 119(9).
 
-**Omission de fournir des renseignements**
+**Omission de déposer des déclarations de renseignements — réceptionnaire**
 
-- **(4.1)** La personne qui omet de déposer la déclaration de renseignements visée aux paragraphes 74.4(2) ou 117(1.2) ou (1.4) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 $ pour chaque jour que dure cette omission.
+- **(4.1)** Le réceptionnaire qui contrevient au paragraphe 74.4(2) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $.
 
-**Définition de personne**
+**Renseignements faux ou trompeurs**
 
-- **(5)** Pour l’application du paragraphe (4.1), ***personne*** s’entend au sens de l’article premier de la Convention sur la responsabilité civile au sens du paragraphe 47(1); toutefois, dans le contexte de la Convention sur les substances nocives et potentiellement dangereuses, ***personne*** s’entend au sens de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses au sens du paragraphe 47(1).
-> 2009, ch. 21, art. 11; 2014, ch. 29, art. 54.
+- **(5)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $ la personne qui présente une demande au titre du paragraphe 106.1(1) qui inclut des renseignements alors qu’elle sait ou devrait normalement savoir qu’ils sont faux ou trompeurs.
+
+**Omission de déposer des déclarations de renseignements — personne**
+
+- **(6)** La personne qui contrevient au paragraphe 117.1(1) ou à l’article 118.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $.
+
+**Déclaration de renseignements fausse ou trompeuse — personne**
+
+- **(7)** La personne qui dépose auprès du ministre une déclaration de renseignements au titre du paragraphe 117.1(1) alors qu’elle sait ou devrait normalement savoir qu’elle est fausse ou trompeuse sur un point important commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $.
+
+**Renseignements exigés faux ou trompeurs**
+
+- **(8)** La personne qui fournit au ministre les renseignements ou les documents exigés au titre de l’article 118.1 alors qu’elle sait ou devrait normalement savoir qu’ils sont faux ou trompeurs sur un point important commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 250 000 $.
+> 2009, ch. 21, art. 11; 2014, ch. 29, art. 54; 2018, ch. 27, art. 745.
+
+
+
+
+
+**Défense de prise des précautions voulues**
+
+**132.1** Nul ne peut être déclaré coupable d’une infraction prévue à l’article 131 ou aux paragraphes 132(1), (4.1) ou (6) s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+> 2018, ch. 27, art. 745.
 
 
 
