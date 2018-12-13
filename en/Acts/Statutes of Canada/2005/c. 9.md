@@ -14,30 +14,30 @@ Assented to on 23 March 2005
 
 **Preamble**
 
-Whereas the Government of Canada has adopted a policy recognizing the inherent right of self-government as an aboriginal right and providing for the negotiation of self-government;
+Whereas the Government of Canada has adopted a policy recognizing the inherent right of self-government as an Aboriginal right and providing for the negotiation of self-government;
 
 Whereas this Act is not intended to define the nature and scope of any right of self-government or to prejudge the outcome of any self-government negotiation;
 
-Whereas the creation of national aboriginal institutions will assist first nations that choose to exercise real property taxation jurisdiction on reserve lands;
+Whereas the creation of national Aboriginal institutions will assist First Nations that choose to exercise real property taxation jurisdiction on reserve lands;
 
 Whereas economic development through the application of real property tax revenues and other local revenues to support borrowing on capital markets for the development of public infrastructure is available to other governments in Canada;
 
-Whereas real property taxation regimes on reserves should recognize both the interests of on-reserve taxpayers and the rights of members of first nations communities;
+Whereas real property taxation regimes on reserves should recognize both the interests of on-reserve taxpayers and the rights of members of First Nations communities;
 
-Whereas first nations led an initiative that resulted in 1988 in an amendment to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) so that their jurisdiction over real property taxation on reserve could be exercised and the Indian Taxation Advisory Board was created to assist in the exercise of that jurisdiction;
+Whereas First Nations led an initiative that resulted in 1988 in an amendment to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) so that their jurisdiction over real property taxation on reserve could be exercised and the Indian Taxation Advisory Board was created to assist in the exercise of that jurisdiction;
 
 Whereas, in 1995, the First Nations Finance Authority Inc. was incorporated for the purposes of issuing debentures using real property tax revenues and providing investment opportunities;
 
-Whereas, by 1999, first nations and the Government of Canada recognized the benefits of establishing statutory institutions as part of a comprehensive fiscal management system;
+Whereas, by 1999, First Nations and the Government of Canada recognized the benefits of establishing statutory institutions as part of a comprehensive fiscal management system;
 
-And whereas first nations have led an initiative culminating in the introduction of this Act;
+And whereas First Nations have led an initiative culminating in the introduction of this Act;
 
 
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
-> 2005, c. 9, Preamble; 2012, c. 19, s. 657..
+> 2005, c. 9, Preamble; 2012, c. 19, s. 657; 2018, c. 27, ss. 413(E), 414(E)..
 
 
 
@@ -66,11 +66,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***borrowing member*** means a first nation that has been accepted as a borrowing member under subsection 76(2) and has not ceased to be a borrowing member under section 77. (*membre emprunteur*)
+***borrowing member*** means a First Nation that has been accepted as a borrowing member under subsection 76(2) and has not ceased to be a borrowing member under section 77. (*membre emprunteur*)
 
-***council*** has the same meaning as ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil de la première nation*)
+***capital assets*** includes capital infrastructure. (*immobilisation*)
 
-***first nation*** means a band named in the schedule. (*première nation*)
+***council*** has the same meaning as council of the band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil de la première nation*)
+
+***First Nation*** means a band named in the schedule. (*première nation*)
 
 ***First Nations Finance Authority*** means the corporation established under section 58. (*Administration financière des premières nations*)
 
@@ -82,15 +84,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***First Nations Tax Commission*** means the commission established under subsection 17(1). (*Commission de la fiscalité des premières nations*)
 
+***interest***, in relation to reserve lands in Canada elsewhere than in Quebec, means any estate, right or interest of any nature in or to the lands, including any right to occupy, possess or use the lands, but does not include title to the lands that is held by her Majesty. (*intérêt*)
+
 ***local revenue law*** means a law made under subsection 5(1). (*texte législatif sur les recettes locales*)
 
-***local revenues*** means moneys raised under a local revenue law and payments made to a first nation in lieu of a tax imposed by a law made under paragraph 5(1)(a). (*recettes locales*)
+***local revenues*** means moneys raised under a local revenue law and payments made to a First Nation in lieu of a tax imposed by a law made under paragraph 5(1)(a). (*recettes locales*)
 
 ***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
 ***property taxation law*** means a law made under paragraph 5(1)(a). (*texte législatif relatif à l’imposition foncière*)
 
-***third-party management*** means the management of a first nation’s local revenues under section 53.
+***right***, in relation to reserve lands in Quebec, means any right of any nature in or to the lands, including any right to occupy, possess or use the lands and any right of a lessee, but does not include title to the lands that is held by her Majesty. (*droit*)
+
+***third-party management*** means the management of a First Nation’s local revenues under section 53.
 
 **[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) definitions**
 
@@ -104,8 +110,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **For greater certainty**
 
-- **(4)** For greater certainty, nothing in this Act shall be construed as requiring capital infrastructure or capital assets for the provision of local services on reserve lands to be located on reserve lands.
-> 2005, c. 9, s. 2; 2012, c. 19, s. 659; 2015, c. 36, s. 177.
+- **(4)** For greater certainty, nothing in this Act shall be construed as requiring capital assets for the provision of local services on reserve lands to be located on reserve lands.
+> 2005, c. 9, s. 2; 2012, c. 19, s. 659; 2015, c. 36, s. 177; 2018, c. 27, ss. 385, 414(E).
 
 
 
@@ -117,7 +123,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Aboriginal and treaty rights**
 
-**3** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from any existing aboriginal or treaty rights of the aboriginal peoples of Canada under section 35 of the Constitution Act, 1982.
+**3** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from any existing Aboriginal or treaty rights of the Aboriginal peoples of Canada under section 35 of the Constitution Act, 1982.
+> 2005, c. 9, s. 3; 2018, c. 27, s. 413(E).
+
 
 
 
@@ -129,7 +137,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Financial administration laws**
 
-**4** The council of a first nation may not make a law under paragraph 5(1)(d) until the council has made a law respecting the financial administration of the first nation under paragraph 9(1)(a) and that law has been approved by the First Nations Financial Management Board.
+**4** The council of a First Nation may not make a law under paragraph 5(1)(d) until the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a) and that law has been approved by the First Nations Financial Management Board.
+> 2005, c. 9, s. 4; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -138,10 +148,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **5** 
 
-- **(1)** Subject to subsections (2) to (6), sections 4 and 6 and any regulations made under paragraph 36(1)(d), the council of a first nation may make laws
-	- **(a)** respecting taxation for local purposes of reserve lands, interests in reserve lands or rights to occupy, possess or use reserve lands, including
-		- **(i)** the assessment of the value of those lands, interests and rights, the requisition of any information necessary to conduct the assessment and the inspection, in accordance with procedures prescribed by regulation, for assessment purposes of any reserve lands that are subject to taxation for local purposes,
-		- **(ii)** a mechanism to establish tax rates and apply them to the assessed value of those lands, interests and rights,
+- **(1)** Subject to subsections (2) to (5), sections 4 and 6 and any regulations made under paragraph 36(1)(d), the council of a First Nation may make laws
+	- **(a)** respecting taxation for local purposes of reserve lands and interests or rights in reserve lands, including
+		- **(i)** the assessment of the value of those lands and interests or rights, the requisition of any information necessary to conduct the assessment and the inspection, in accordance with procedures prescribed by regulation, for assessment purposes of any reserve lands that are subject to taxation for local purposes,
+		- **(ii)** a mechanism to establish tax rates and apply them to the assessed value of those lands and interests or rights,
 		- **(iii)** taxation for the provision of services in respect of reserve lands,
 		- **(iv)** the taxation of business activities on reserve lands, and
 		- **(v)** the imposition of development cost charges;
@@ -150,14 +160,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** respecting procedures by which the interests of taxpayers may be represented to the council;
 	- **(d)** respecting the borrowing of money from the First Nations Finance Authority, including any authorization to enter into a particular borrowing agreement with that Authority;
 	- **(e)** subject to any conditions and procedures prescribed by regulation, respecting the enforcement of laws made under paragraphs (a) and (a.1) in respect of outstanding taxes, charges or fees, including
-		- **(i)** the creation of liens on reserve lands and interests in reserve lands,
+		- **(i)** the creation of liens or, in Quebec, prior claims or legal hypothecs on reserve lands and on interests or rights in reserve lands,
 		- **(ii)** the imposition and recovery of interest and penalties on an amount payable pursuant to a law made under that paragraph, where the amount is not paid when it is due, and the rate of interest or the amount of the penalty, as the case may be,
 		- **(iii)** subject to subsection (7), the seizure, forfeiture and assignment of interests or rights in reserve lands,
-		- **(iv)** the seizure and sale of personal property located on reserve lands, other than property located in a dwelling,
+		- **(iv)** the seizure and sale of personal or movable property located on reserve lands, other than property located in a dwelling,
 		- **(v)** the discontinuance of services, and
-		- **(vi)** the recovery of costs that are incurred by the first nation for the enforcement of those laws;
+		- **(vi)** the recovery of costs that are incurred by the First Nation for the enforcement of those laws;
 	- **(f)** delegating to any person or body any of the council’s powers to make laws under any of paragraphs (a) to (e); and
-	- **(g)** delegating to the First Nations Financial Management Board any other of the council’s powers that are required to give effect to a co-management arrangement entered into under section 52 or to give effect to third-party management of the first nation’s local revenues.
+	- **(g)** delegating to the First Nations Financial Management Board any other of the council’s powers that are required to give effect to a co-management arrangement entered into under section 52 or to give effect to third-party management of the First Nation’s local revenues.
 
 **Approval required**
 
@@ -177,13 +187,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(5)** [Repealed, 2015, c. 36, s. 178]
 
-**Special levy**
+- **(6)** [Repealed, 2018, c. 27, s. 386]
 
-- **(6)** A property taxation law of a borrowing member shall provide that the borrowing member must make a law under paragraph (1)(a) in order to recover amounts payable under paragraph 84(5)(b).
+**Assignment of interest or right**
 
-**Assignment of right or interest**
-
-- **(7)** Notwithstanding the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or any instrument conferring a right or interest in reserve lands, if there are outstanding taxes payable pursuant to a law made under paragraph (1)(a) for more than two years, the first nation may assign the right or interest in accordance with the conditions and procedures prescribed by regulation.
+- **(7)** Despite the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or any instrument or act conferring an interest or right in reserve lands, if there are outstanding taxes payable under a law made under paragraph (1)(a) for more than two years, the First Nation may assign the interest or right in accordance with the conditions and procedures prescribed by regulation.
 
 **Judicial notice**
 
@@ -192,7 +200,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(9)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of local revenue laws or laws made under section 9.
-> 2005, c. 9, s. 5; 2015, c. 36, s. 178.
+> 2005, c. 9, s. 5; 2015, c. 36, s. 178; 2018, c. 27, ss. 386, 414(E).
 
 
 
@@ -202,14 +210,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **6** 
 
-- **(1)** At least 30 days — or any longer period fixed by a standard made under subsection 35(1) — before making a law under paragraph 5(1)(a), (a.1) or (c), including a law repealing or amending such a law, other than a law referred to in subsection 10(1), the council of a first nation shall
+- **(1)** At least 30 days — or any longer period fixed by a standard made under subsection 35(1) — before making a law under paragraph 5(1)(a), (a.1) or (c), including a law repealing or amending such a law, other than a law referred to in subsection 10(1), the council of a First Nation shall
 	- **(a)** publish a notice of the proposed law in the First Nations Gazette;
-	- **(b)** post the notice in a public place on the reserve lands of the first nation; and
+	- **(b)** post the notice in a public place on the reserve lands of the First Nation; and
 	- **(c)** send the notice, by mail or electronic means, to the First Nations Tax Commission.
 
 **Exemption**
 
-- **(2)** The First Nations Tax Commission may exempt a first nation from the requirements of subsection (1) in respect of an amendment of a law if the Commission considers that the amendment is not significant.
+- **(2)** The First Nations Tax Commission may exempt a First Nation from the requirements of subsection (1) in respect of an amendment of a law if the Commission considers that the amendment is not significant.
 
 **Content of notice**
 
@@ -221,8 +229,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Council to consider representations**
 
-- **(4)** Before making a law under paragraph 5(1)(a), (a.1) or (c), the council of a first nation shall consider any representations that were made in accordance with paragraph (3)(c) or at a meeting referred to in paragraph (3)(d).
-> 2005, c. 9, s. 6; 2015, c. 36, s. 179.
+- **(4)** Before making a law under paragraph 5(1)(a), (a.1) or (c), the council of a First Nation shall consider any representations that were made in accordance with paragraph (3)(c) or at a meeting referred to in paragraph (3)(d).
+> 2005, c. 9, s. 6; 2015, c. 36, s. 179; 2018, c. 27, s. 414(E).
 
 
 
@@ -230,9 +238,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Further representations**
 
-**7** When the council of a first nation sends a property taxation law or a law made under paragraph 5(1)(c) to the First Nations Tax Commission for its approval, the council shall
+**7** When the council of a First Nation sends a law made under paragraph 5(1)(a), (a.1) or (c), other than a law referred to in subsection 10(1), to the First Nations Tax Commission for its approval, the council shall
 - **(a)** provide a copy of the law to any persons who made representations under paragraph 6(3)(c); and
 - **(b)** invite those persons to make written representations to the Commission within 30 days after the day on which they receive the copy of the law.
+> 2005, c. 9, s. 7; 2018, c. 27, s. 387.
+
 
 
 
@@ -242,15 +252,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **8** 
 
 - **(1)** A property taxation law — including an amendment of a property taxation law — shall, when submitted to the First Nations Tax Commission for approval, be accompanied by
-	- **(a)** a description of the lands, interests or rights subject to the law;
-	- **(b)** a description of the assessment practices to be applied to each class of land, interest or right;
+	- **(a)** a description of the lands and interests or rights subject to the law;
+	- **(b)** a description of the assessment practices to be applied to each class of land and interest or right;
 	- **(c)** information regarding services to be provided from local revenues, existing service agreements and any service agreement negotiations under way at the time the law was made;
 	- **(d)** a description of the notices that were given and any consultation undertaken by the council before making the law; and
 	- **(e)** evidence that the law was duly made by the council.
 
 **Exemption**
 
-- **(2)** The First Nations Tax Commission may exempt a first nation from the requirements of subsection (1) in respect of an amendment of a property taxation law if the Commission considers that the amendment is not significant.
+- **(2)** The First Nations Tax Commission may exempt a First Nation from the requirements of subsection (1) in respect of an amendment of a property taxation law if the Commission considers that the amendment is not significant.
 
 **Accompanying information**
 
@@ -264,11 +274,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Additional information on request**
 
-- **(5)** At the request of the First Nations Tax Commission, a first nation shall provide any documents that the Commission requires in order to
+- **(5)** At the request of the First Nations Tax Commission, a First Nation shall provide any documents that the Commission requires in order to
 	- **(a)** review a local revenue law;
 	- **(b)** determine that the law was made in accordance with this Act, the regulations or any standards made under subsection 35(1); or
 	- **(c)** perform any of its other functions under this Act.
-> 2005, c. 9, s. 8; 2015, c. 36, s. 180.
+> 2005, c. 9, s. 8; 2015, c. 36, s. 180; 2018, c. 27, ss. 388, 414(E).
 
 
 
@@ -278,8 +288,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **9** 
 
-- **(1)** Subject to subsections (2) and (3), the council of a first nation may make laws
-	- **(a)** respecting the financial administration of the first nation; and
+- **(1)** Subject to subsections (2) and (3), the council of a First Nation may make laws
+	- **(a)** respecting the financial administration of the First Nation; and
 	- **(b)** delegating to any person or body its powers to make laws under paragraph (a).
 
 **Approval required**
@@ -303,7 +313,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Additional information on request**
 
-- **(5)** At the request of the First Nations Financial Management Board, a first nation shall provide any documents that the Board requires in order to
+- **(5)** At the request of the First Nations Financial Management Board, a First Nation shall provide any documents that the Board requires in order to
 	- **(a)** review a financial administration law submitted to the Board;
 	- **(b)** determine that the law was made in accordance with this Act, the regulations or any standards made under subsection 55(1); or
 	- **(c)** perform any of its other functions under this Act.
@@ -311,7 +321,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Judicial notice**
 
 - **(6)** In any proceedings, judicial notice may be taken of a law that is made under subsection (1) and approved by the First Nations Financial Management Board under subsection (2).
-> 2005, c. 9, s. 9; 2015, c. 36, s. 181.
+> 2005, c. 9, s. 9; 2015, c. 36, s. 181; 2018, c. 27, s. 414(E).
 
 
 
@@ -330,12 +340,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **10** 
 
-- **(1)** A council of a first nation that makes a property taxation law that requires a rate of tax to be set annually shall also make a law under paragraph 5(1)(a) setting the rate of tax to be applied to the assessed value of each class of lands, interests or rights at least once each year on or before the date prescribed by regulation or, if none is so prescribed, on or before the date fixed by standards established under subsection 35(1).
+- **(1)** A council of a First Nation that makes a property taxation law that requires a rate of tax to be set annually shall also make a law under paragraph 5(1)(a) setting the rate of tax to be applied to the assessed value of each class of lands and interests or rights at least once each year on or before the date prescribed by regulation or, if none is so prescribed, on or before the date fixed by standards established under subsection 35(1).
 
 **Law under paragraph 5(1)(b)**
 
-- **(2)** A council of a first nation that makes a property taxation law or that makes a law under paragraph 5(1)(a.1) shall also make a law under paragraph 5(1)(b) establishing a budget for the expenditure of local revenues at least once each year on or before the date prescribed by regulation or, if none is so prescribed, on or before the date fixed by standards established under subsection 35(1).
-> 2005, c. 9, s. 10; 2015, c. 36, s. 182.
+- **(2)** A council of a First Nation that makes a property taxation law or that makes a law under paragraph 5(1)(a.1) shall also make a law under paragraph 5(1)(b) establishing a budget for the expenditure of local revenues at least once each year on or before the date prescribed by regulation or, if none is so prescribed, on or before the date fixed by standards established under subsection 35(1).
+> 2005, c. 9, s. 10; 2015, c. 36, s. 182; 2018, c. 27, ss. 389, 414(E).
 
 
 
@@ -373,7 +383,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **13** 
 
-- **(1)** Local revenues of a first nation shall be placed in a local revenue account with a financial institution, separate from other moneys of the first nation.
+- **(1)** Local revenues of a First Nation shall be placed in a local revenue account with a financial institution, separate from other moneys of the First Nation.
 
 **Restriction on expenditures**
 
@@ -382,7 +392,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Balanced budget**
 
 - **(3)** Expenditures provided for in a law made under paragraph 5(1)(b) shall not exceed the local revenues estimated for the year in which those expenditures are to be made, less any deficit accumulated from prior years.
-> 2005, c. 9, s. 13; 2015, c. 36, s. 184.
+> 2005, c. 9, s. 13; 2015, c. 36, s. 184; 2018, c. 27, s. 414(E).
 
 
 
@@ -390,10 +400,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Expenditure not authorized by law**
 
-**13.1** Despite subsection 13(2), a first nation is authorized to make an expenditure of local revenues other than under the authority of a law made under paragraph 5(1)(b) in one of the following circumstances:
-- **(a)** in the case where no law has already been made under that paragraph establishing a budget for the year in which that expenditure is made, the first nation, after making that expenditure, makes a law under that paragraph that authorizes the making of that expenditure; or
-- **(b)** in the case where a law has already been made under that paragraph establishing a budget for the year in which that expenditure is made, the first nation is satisfied that the making of that expenditure constitutes an urgent measure and the first nation, as soon as feasible after making the expenditure, amends that law to authorize the making of that expenditure.
-> 2015, c. 36, s. 185.
+**13.1** Despite subsection 13(2), a First Nation is authorized to make an expenditure of local revenues other than under the authority of a law made under paragraph 5(1)(b) in one of the following circumstances:
+- **(a)** in the case where no law has already been made under that paragraph establishing a budget for the year in which that expenditure is made, the First Nation, after making that expenditure, makes a law under that paragraph that authorizes the making of that expenditure; or
+- **(b)** in the case where a law has already been made under that paragraph establishing a budget for the year in which that expenditure is made, the First Nation is satisfied that the making of that expenditure constitutes an urgent measure and the First Nation, as soon as feasible after making the expenditure, amends that law to authorize the making of that expenditure.
+> 2015, c. 36, s. 185; 2018, c. 27, s. 414(E).
 
 
 
@@ -403,20 +413,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **14** 
 
-- **(1)** Local revenues of a first nation shall be reported on and accounted for separately from other moneys of the first nation in compliance with the standards established under paragraph 55(1)(d).
+- **(1)** Local revenues of a First Nation shall be reported on and accounted for separately from other moneys of the First Nation in compliance with the standards established under paragraph 55(1)(d).
 
 **Audited reports**
 
-- **(1.1)** For the purposes of subsection (1), the first nation shall prepare a financial report on its local revenues that shall be audited at least once each year. However, if it is authorised by a standard established under paragraph 55(1)(d), the first nation may instead report on its local revenues in its audited annual financial statements as a distinct segment of the activities that appear in the statements.
+- **(1.1)** For the purposes of subsection (1), the First Nation shall prepare a financial report on its local revenues that shall be audited at least once each year. However, if it is authorised by a standard established under paragraph 55(1)(d), the First Nation may instead report on its local revenues in its audited annual financial statements as a distinct segment of the activities that appear in the statements.
 
 **Access to report**
 
 - **(2)** The audited financial report or the audited annual financial statements, as the case may be, shall be made available to
-	- **(a)** the members of the first nation;
-	- **(b)** any other persons who have an interest in, or the right to occupy, possess or use, the first nation’s reserve lands;
+	- **(a)** the members of the First Nation;
+	- **(b)** any other persons who have an interest or right in the First Nation’s reserve lands;
 	- **(c)** the First Nations Tax Commission, the First Nations Financial Management Board and the First Nations Finance Authority; and
 	- **(d)** the Minister.
-> 2005, c. 9, s. 14; 2015, c. 36, s. 186.
+> 2005, c. 9, s. 14; 2015, c. 36, s. 186; 2018, c. 27, ss. 390, 414(E).
 
 
 
@@ -424,8 +434,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of certain provisions**
 
-**15** Paragraphs 83(1)(a) and (b) to (g) and section 84 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) do not apply to a first nation. In addition, any regulations made under paragraph 73(1)(m) of that Act do not apply to a first nation in respect of the borrowing of money under a law made under paragraph 5(1)(d).
-> 2005, c. 9, s. 15; 2015, c. 36, s. 187.
+**15** Paragraphs 83(1)(a) and (b) to (g) and section 84 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) do not apply to a First Nation. In addition, any regulations made under paragraph 73(1)(m) of that Act do not apply to a First Nation in respect of the borrowing of money under a law made under paragraph 5(1)(d).
+> 2005, c. 9, s. 15; 2015, c. 36, s. 187; 2018, c. 27, s. 414(E).
 
 
 
@@ -465,9 +475,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** The Commission has the capacity, rights, powers and privileges of a natural person, including the capacity to
 	- **(a)** enter into contracts;
-	- **(b)** acquire, hold and dispose of property or an interest in property;
+	- **(b)** acquire, hold and dispose of property or an interest or right in property, or lease property;
 	- **(c)** raise, invest or borrow money; and
 	- **(d)** sue and be sued.
+> 2005, c. 9, s. 17; 2018, c. 27, s. 391.
+
 
 
 
@@ -518,7 +530,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Qualifications**
 
-- **(5)** The Commission shall be composed of men and women from across Canada, including members of first nations, who are committed to the development of a system of first nations real property taxation and who have the experience or capacity to enable the Commission to fulfil its mandate.
+- **(5)** The Commission shall be composed of men and women from across Canada, including members of First Nations, who are committed to the development of a system of First Nations real property taxation and who have the experience or capacity to enable the Commission to fulfil its mandate.
+> 2005, c. 9, s. 20; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -568,11 +582,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **26** 
 
-- **(1)** The head office of the Commission shall be on the reserve lands of the Kamloops Band or at any other location that the Governor in Council determines.
+- **(1)** The head office of the Commission shall be on the reserve lands of the Tk’emlúps te Secwépemc or at any other location that the Governor in Council determines.
 
 **Additional office**
 
 - **(2)** The Commission shall maintain an additional office in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+> 2005, c. 9, s. 26; 2018, c. 27, s. 392.
+
 
 
 
@@ -606,15 +622,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Mandate**
 
 **29** The purposes of the Commission are to
-- **(a)** ensure the integrity of the system of first nations real property taxation and promote a common approach to first nations real property taxation nationwide, having regard to variations in provincial real property taxation systems;
-- **(b)** ensure that the real property taxation systems of first nations reconcile the interests of taxpayers with the responsibilities of chiefs and councils to govern the affairs of first nations;
+- **(a)** ensure the integrity of the system of First Nations real property taxation and promote a common approach to First Nations real property taxation nationwide, having regard to variations in provincial real property taxation systems;
+- **(b)** ensure that the real property taxation systems of First Nations reconcile the interests of taxpayers with the responsibilities of chiefs and councils to govern the affairs of First Nations;
 - **(c)** prevent, or provide for the timely resolution of, disputes in relation to the application of local revenue laws;
-- **(d)** assist first nations in the exercise of their jurisdiction over real property taxation on reserve lands and build capacity in first nations to administer their taxation systems;
-- **(e)** develop training programs for first nation real property tax administrators;
-- **(f)** assist first nations to achieve sustainable economic development through the generation of stable local revenues;
-- **(g)** promote a transparent first nations real property taxation regime that provides certainty to taxpayers;
-- **(h)** promote understanding of the real property taxation systems of first nations; and
+- **(d)** assist First Nations in the exercise of their jurisdiction over real property taxation on reserve lands and build capacity in First Nations to administer their taxation systems;
+- **(e)** develop training programs for First Nation real property tax administrators;
+- **(f)** assist First Nations to achieve sustainable economic development through the generation of stable local revenues;
+- **(g)** promote a transparent First Nations real property taxation regime that provides certainty to taxpayers;
+- **(h)** promote understanding of the real property taxation systems of First Nations; and
 - **(i)** provide advice to the Minister regarding future development of the framework within which local revenue laws are made.
+> 2005, c. 9, s. 29; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -625,7 +643,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Powers**
 
-**30** In furtherance of the purposes set out in section 29, the Commission may enter into cooperative arrangements and shared-cost ventures with national and international organizations to consult on or sell products or services developed for first nations who have made property taxation laws.
+**30** In furtherance of the purposes set out in section 29, the Commission may enter into cooperative arrangements and shared-cost ventures with national and international organizations to consult on or sell products or services developed for First Nations who have made property taxation laws.
+> 2005, c. 9, s. 30; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -638,7 +658,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Written submissions**
 
-- **(2)** Before approving a local revenue law, the Commission shall consider, in accordance with any regulations made under paragraph 36(1)(b), any representations made to it under paragraph 7(b) in respect of the law by members of the first nation or others who have interests in the reserve lands of the first nation or rights to occupy, possess or use those lands.
+- **(2)** Before approving a law made under paragraph 5(1)(a), (a.1) or (c), other than a law referred to in subsection 10(1), the Commission shall consider, in accordance with any regulations made under paragraph 36(1)(b), any representations made to it under paragraph 7(b) in respect of the law.
 
 **Local revenue law approval**
 
@@ -647,6 +667,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Registry**
 
 - **(4)** The Commission shall maintain a registry of every law approved by it under this section and every financial administration law made under section 9.
+> 2005, c. 9, s. 31; 2018, c. 27, s. 393.
+
 
 
 
@@ -655,24 +677,24 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **32** 
 
-- **(1)** The Commission shall not approve a law made under paragraph 5(1)(d) for financing capital infrastructure for the provision of local services on reserve lands unless
-	- **(a)** the first nation has obtained and forwarded to the Commission a certificate in respect of their financial performance, issued by the First Nations Financial Management Board under subsection 50(3); and
-	- **(b)** the first nation has unutilized borrowing capacity.
+- **(1)** The Commission shall not approve a law made under paragraph 5(1)(d) for financing of capital assets for the provision of local services on reserve lands unless
+	- **(a)** the First Nation has obtained and forwarded to the Commission a certificate in respect of their financial performance, issued by the First Nations Financial Management Board under subsection 50(3); and
+	- **(b)** the First Nation has unutilized borrowing capacity.
 
 **Copy and certificate**
 
-- **(2)** On approving a law made by a first nation under paragraph 5(1)(d) for financing capital infrastructure for the provision of local services on reserve lands, the Commission shall provide the First Nations Finance Authority with
+- **(2)** On approving a law made by a First Nation under paragraph 5(1)(d) for financing of capital assets for the provision of local services on reserve lands, the Commission shall provide the First Nations Finance Authority with
 	- **(a)** a true copy of the law registered under subsection 31(4); and
 	- **(b)** a certificate stating that the law meets all the requirements of this Act and the regulations made under this Act.
 
 **Notice of judicial review**
 
-- **(3)** If the Commission becomes aware that judicial review proceedings have been undertaken in respect of a law made by a first nation under paragraph 5(1)(d) for financing capital infrastructure for the provision of local services on reserve lands, the Commission shall without delay inform the First Nations Finance Authority of those proceedings.
+- **(3)** If the Commission becomes aware that judicial review proceedings have been undertaken in respect of a law made by a First Nation under paragraph 5(1)(d) for financing of capital assets for the provision of local services on reserve lands, the Commission shall without delay inform the First Nations Finance Authority of those proceedings.
 
 **Certificate is evidence**
 
 - **(4)** A certificate referred to in paragraph (2)(b) is, in the absence of evidence to the contrary, conclusive evidence in any judicial proceedings of the facts contained in it.
-> 2005, c. 9, s. 32; 2015, c. 36, s. 188.
+> 2005, c. 9, s. 32; 2015, c. 36, s. 188; 2018, c. 27, ss. 394, 414(E).
 
 
 
@@ -682,21 +704,23 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **33** 
 
-- **(1)** On the request in writing by a member of a first nation, or by a person who holds an interest in reserve lands or has a right to occupy, possess or use the reserve lands, who
-	- **(a)** is of the opinion that the first nation has not complied with this Part or Part 1 or with a regulation made under either Part or section 141 or 142 or that a law has been unfairly or improperly applied,
-	- **(b)** has requested the council of the first nation to remedy the situation, and
+- **(1)** On the request in writing by a member of a First Nation, or by a person who holds an interest or right in reserve lands, who
+	- **(a)** is of the opinion that the First Nation has not complied with this Part or Part 1 or with a regulation made under either Part or section 141 or 142 or that a law has been unfairly or improperly applied,
+	- **(b)** has requested the council of the First Nation to remedy the situation, and
 	- **(c)** is of the opinion that the council has not remedied the situation,
 the Commission shall conduct a review of the matter in accordance with the regulations.
 
 **Independent review**
 
-- **(2)** If the Commission is of the opinion that a first nation has not complied with this Part or Part 1 or with a regulation made under either Part or section 141 or 142 or that a law has been unfairly or improperly applied, it shall conduct a review of the matter in accordance with the regulations.
+- **(2)** If the Commission is of the opinion that a First Nation has not complied with this Part or Part 1 or with a regulation made under either Part or section 141 or 142 or that a law has been unfairly or improperly applied, it shall conduct a review of the matter in accordance with the regulations.
 
 **Remedy**
 
-- **(3)** If, after conducting a review, the Commission considers that a first nation has not complied with this Part or Part 1 or with a regulation made under either Part or section 141 or 142 or that a law has been unfairly or improperly applied, the Commission
-	- **(a)** shall order the first nation to remedy the situation; and
-	- **(b)** may, if the first nation does not remedy the situation within the time set out in the order, by notice in writing, require the First Nations Financial Management Board to either — at the Board’s discretion — impose a co-management arrangement on the first nation or assume third-party management of the first nation’s local revenues to remedy the situation.
+- **(3)** If, after conducting a review, the Commission considers that a First Nation has not complied with this Part or Part 1 or with a regulation made under either Part or section 141 or 142 or that a law has been unfairly or improperly applied, the Commission
+	- **(a)** shall order the First Nation to remedy the situation; and
+	- **(b)** may, if the First Nation does not remedy the situation within the time set out in the order, by notice in writing, require the First Nations Financial Management Board to either — at the Board’s discretion — impose a co-management arrangement on the First Nation or assume third-party management of the First Nation’s local revenues to remedy the situation.
+> 2005, c. 9, s. 33; 2018, c. 27, ss. 395, 414(E).
+
 
 
 
@@ -725,10 +749,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - **(1)** The Commission may establish standards, not inconsistent with the regulations, respecting
 	- **(a)** the form and content of local revenue laws;
 	- **(b)** enforcement procedures to be included in those laws;
-	- **(c)** criteria for the approval of laws made under paragraph 5(1)(d);
+	- **(c)** criteria for the approval of laws made under paragraph 5(1)(d) or (f);
+	- **(c.01)** criteria for the approval of local revenue laws respecting reserve lands that have been set apart for the use and benefit of more than one First Nation, including criteria in relation to the First Nations entering into agreements in relation to the administration of those local revenue laws and criteria in respect of those agreements;
 	- **(c.1)** notices relating to local revenue laws, including any minimum periods applicable to the notices;
 	- **(d)** the form in which information required under section 8 is to be provided to the Commission; and
-	- **(e)** the dates on or before which laws must be made by a council of a first nation under section 10.
+	- **(e)** the dates on or before which laws must be made by a council of a First Nation under section 10.
 
 **Procedures**
 
@@ -736,12 +761,12 @@ the Commission shall conduct a review of the matter in accordance with the regul
 	- **(a)** submission for approval of local revenue laws;
 	- **(b)** approval of those laws;
 	- **(c)** representation of taxpayers’ interests in the decisions of the Commission; and
-	- **(d)** resolution of disputes with first nations concerning the taxation of rights and interests on reserve lands.
+	- **(d)** resolution of disputes with First Nations concerning the taxation of interests or rights on reserve lands.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to a standard established under subsection (1) or a procedure established under subsection (2).
-> 2005, c. 9, s. 35; 2015, c. 36, s. 189.
+> 2005, c. 9, s. 35; 2015, c. 36, s. 189; 2018, c. 27, ss. 396, 414(E).
 
 
 
@@ -758,11 +783,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - **(1)** The Governor in Council may, on the recommendation of the Minister made having regard to any representations by the Commission, make regulations
 	- **(a)** prescribing anything that is to be prescribed under subparagraph 5(1)(a)(i), paragraph 5(1)(e) or (4)(a), subsection 5(7) or section 10;
 	- **(b)** establishing procedures to be followed for the purposes of section 31 or 33, including procedures
-		- **(i)** for requiring the production of documents from a first nation or person requesting a review under subsection 33(1),
+		- **(i)** for requiring the production of documents from a First Nation or person requesting a review under subsection 33(1),
 		- **(ii)** for conducting hearings, and
 		- **(iii)** authorizing the Commission to apply to a justice of the peace for a subpoena compelling a person to appear before the Commission to give evidence and bring any documents specified in the subpoena, and to pay associated travel expenses;
-	- **(c)** prescribing fees to be charged by the Commission for services to first nations and other organizations; and
-	- **(d)** respecting the exercise of the law-making powers of first nations under subsection 5(1).
+	- **(c)** prescribing fees to be charged by the Commission for services to First Nations and other organizations; and
+	- **(d)** respecting the exercise of the law-making powers of First Nations under subsection 5(1).
 
 **Provincial differences**
 
@@ -771,7 +796,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Authority to vary**
 
 - **(3)** Regulations made under paragraph (1)(b) may authorize the Commission to
-	- **(a)** vary the procedures to accommodate the customs or culture of a first nation in respect of which a hearing is being held;
+	- **(a)** vary the procedures to accommodate the customs or culture of a First Nation in respect of which a hearing is being held;
 	- **(b)** extend or shorten any period provided for in those regulations;
 	- **(c)** dispense with compliance with any procedure provided for in the regulations in the interest of securing a just, expeditious and inexpensive hearing of a complaint; and
 	- **(d)** delegate any of the powers of the Commission under section 31 or 33 to a panel consisting of one or more commissioners.
@@ -783,7 +808,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Inconsistencies**
 
 - **(4)** In the event of an inconsistency between a law made under subsection 5(1) and regulations made under subsection (1), the regulations prevail to the extent of the inconsistency.
-> 2005, c. 9, s. 36; 2015, c. 36, s. 190.
+> 2005, c. 9, s. 36; 2015, c. 36, s. 190; 2018, c. 27, s. 414(E).
 
 
 
@@ -819,10 +844,10 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 - **(2)** The Board has the capacity, rights, powers and privileges of a natural person, including the capacity to
 	- **(a)** enter into contracts;
-	- **(b)** acquire, hold and dispose of property or an interest in property;
+	- **(b)** acquire, hold and dispose of property or an interest or right in property, or lease property;
 	- **(c)** raise, invest or borrow money; and
 	- **(d)** sue and be sued.
-> 2005, c. 9, s. 38; 2010, c. 12, s. 1733.
+> 2005, c. 9, s. 38; 2010, c. 12, s. 1733; 2018, c. 27, s. 397.
 
 
 
@@ -858,8 +883,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Qualifications**
 
-- **(4)** The board of directors shall be composed of men and women from across Canada, including members of first nations, who are committed to the strengthening of first nation financial management and who have the experience or capacity to enable the Board to fulfil its mandate.
-> 2005, c. 9, s. 41; 2010, c. 12, s. 1734; 2017, c. 26, s. 50.
+- **(4)** The board of directors shall be composed of men and women from across Canada, including members of First Nations, who are committed to the strengthening of First Nation financial management and who have the experience or capacity to enable the Board to fulfil its mandate.
+> 2005, c. 9, s. 41; 2010, c. 12, s. 1734; 2017, c. 26, s. 50; 2018, c. 27, s. 414(E).
 
 
 
@@ -941,15 +966,17 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Mandate**
 
 **49** The purposes of the Board are to
-- **(a)** assist first nations in developing the capacity to meet their financial management requirements;
-- **(b)** assist first nations in their dealings with other governments respecting financial management, including matters of accountability and shared fiscal responsibility;
-- **(c)** assist first nations in the development, implementation and improvement of financial relationships with financial institutions, business partners and other governments, to enable the economic and social development of first nations;
-- **(d)** develop and support the application of general credit rating criteria to first nations;
-- **(e)** provide review and audit services respecting first nation financial management;
-- **(f)** provide assessment and certification services respecting first nation financial management and financial performance;
-- **(g)** provide financial monitoring services respecting first nation financial management and financial performance;
+- **(a)** assist First Nations in developing the capacity to meet their financial management requirements;
+- **(b)** assist First Nations in their dealings with other governments respecting financial management, including matters of accountability and shared fiscal responsibility;
+- **(c)** assist First Nations in the development, implementation and improvement of financial relationships with financial institutions, business partners and other governments, to enable the economic and social development of First Nations;
+- **(d)** develop and support the application of general credit rating criteria to First Nations;
+- **(e)** provide review and audit services respecting First Nation financial management;
+- **(f)** provide assessment and certification services respecting First Nation financial management and financial performance;
+- **(g)** provide financial monitoring services respecting First Nation financial management and financial performance;
 - **(h)** provide co-management and third-party management services; and
-- **(i)** provide advice, policy research and review and evaluative services on the development of fiscal arrangements between first nations’ governments and other governments.
+- **(i)** provide advice, policy research and review and evaluative services on the development of fiscal arrangements between First Nations’ governments and other governments.
+> 2005, c. 9, s. 49; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -962,24 +989,24 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **50** 
 
-- **(1)** On the request of the council of a first nation, the Board may review the first nation’s financial management system or financial performance for compliance with the standards established under subsection 55(1).
+- **(1)** On the request of the council of a First Nation, the Board may review the First Nation’s financial management system or financial performance for compliance with the standards established under subsection 55(1).
 
 **Report**
 
-- **(2)** On completion of a review under subsection (1), the Board shall provide to the first nation a report setting out
+- **(2)** On completion of a review under subsection (1), the Board shall provide to the First Nation a report setting out
 	- **(a)** the scope of the review undertaken; and
-	- **(b)** an opinion as to whether the first nation was in compliance with the standards or as to which aspects of the standards were not complied with by the first nation.
+	- **(b)** an opinion as to whether the First Nation was in compliance with the standards or as to which aspects of the standards were not complied with by the First Nation.
 
 **Issuance of certificate**
 
-- **(3)** If after completing a review under subsection (1) the Board is of the opinion that the first nation was in compliance, in all material respects, with the standards, it shall issue to the first nation a certificate to that effect.
+- **(3)** If after completing a review under subsection (1) the Board is of the opinion that the First Nation was in compliance, in all material respects, with the standards, it shall issue to the First Nation a certificate to that effect.
 
 **Revocation of certificate**
 
 - **(4)** The Board may, on giving notice to a council, revoke a certificate issued under subsection (3) if, on the basis of financial or other information available to the Board, it is of the opinion that
 	- **(a)** the basis on which the certificate was issued has materially changed;
-	- **(b)** the first nation provided information that is incomplete or incorrect or made misrepresentations to the Board; or
-	- **(c)** the first nation is no longer in compliance, in all material respects, with the standards.
+	- **(b)** the First Nation provided information that is incomplete or incorrect or made misrepresentations to the Board; or
+	- **(c)** the First Nation is no longer in compliance, in all material respects, with the standards.
 
 **Form and content**
 
@@ -992,7 +1019,47 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Opinion final**
 
 - **(7)** An opinion of the Board referred to in this section is final and conclusive and is not subject to appeal.
-> 2005, c. 9, s. 50; 2015, c. 36, s. 191.
+> 2005, c. 9, s. 50; 2015, c. 36, s. 191; 2018, c. 27, s. 414(E).
+
+
+
+
+
+**Review of financial management system — non-scheduled entities**
+
+**50.1** 
+
+- **(1)** On the request of any of the following entities, the Board may review the entity’s financial management system, financial performance or laws or by-laws respecting financial administration to determine whether it is in compliance, in all material respects, with the standards established under subsection (3):
+	- **(a)** a band that is not named in the schedule;
+	- **(b)** a tribal council;
+	- **(c)** an Aboriginal group that is a party to a treaty, land claims agreement or self-government agreement with Canada or with a province, or an entity established under, or as a result of, such a treaty or agreement;
+	- **(d)** an entity — owned or controlled by one or more First Nations or entities referred to in paragraphs (a), (b) or (c) — whose mandate is primarily to promote the well-being or advancement of Aboriginal people; or
+	- **(e)** a not-for-profit organization established to provide public services, including social welfare, housing, recreational, cultural, health or educational services, to Aboriginal groups or Aboriginal persons.
+
+**Report**
+
+- **(2)** On completion of a review under subsection (1), the Board shall provide to the entity a report setting out
+	- **(a)** the scope of the review undertaken; and
+	- **(b)** an opinion as to whether the entity was in compliance, in all material respects, with the standards or as to which aspects of the standards were not complied with by the entity.
+
+**Standards**
+
+- **(3)** The Board may establish standards, not inconsistent with the regulations, respecting
+	- **(a)** financial management systems and financial performance of entities referred to in subsection (1); and
+	- **(b)** the form and content of laws or by-laws respecting financial administration of entities referred to in subsection (1).
+
+**Procedures**
+
+- **(4)** The Board may establish procedures respecting the review referred to in subsection (1).
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(5)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to a standard established under subsection (3) or a procedure established under subsection (4).
+
+**First Nations Gazette**
+
+- **(6)** All standards established by the Board under subsection (3) shall be published in the First Nations Gazette.
+> 2018, c. 27, s. 398.
 
 
 
@@ -1000,7 +1067,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Required intervention**
 
-**51** On receipt of a notice from the First Nations Tax Commission under paragraph 33(3)(b) or from the First Nations Finance Authority under subsection 86(4), the Board shall either require the first nation to enter into a co-management arrangement in accordance with section 52 or assume third-party management of the first nation’s local revenues in accordance with section 53, as the Board sees fit.
+**51** On receipt of a notice from the First Nations Tax Commission under paragraph 33(3)(b) or from the First Nations Finance Authority under subsection 86(4), the Board shall either require the First Nation to enter into a co-management arrangement in accordance with section 52 or assume third-party management of the First Nation’s local revenues in accordance with section 53, as the Board sees fit.
+> 2005, c. 9, s. 51; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -1009,27 +1078,27 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **52** 
 
-- **(1)** The Board may, on giving notice to the council of a first nation, require the first nation to enter into a co-management arrangement in respect of the first nation’s local revenues, including its local revenue account,
-	- **(a)** if, in the opinion of the Board, there is a serious risk that the first nation will default on an obligation to the First Nations Finance Authority; or
+- **(1)** The Board may, on giving notice to the council of a First Nation, require the First Nation to enter into a co-management arrangement in respect of the First Nation’s local revenues, including its local revenue account,
+	- **(a)** if, in the opinion of the Board, there is a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority; or
 	- **(b)** on receipt of a request or demand to do so under paragraph 33(3)(b) or subsection 86(4).
 
 **Powers**
 
 - **(2)** Under a co-management arrangement, the Board may
-	- **(a)** recommend amendments to a law of the first nation made under this Act;
-	- **(b)** recommend changes to the first nation’s expenditures or budgets;
-	- **(c)** recommend improvements to the first nation’s financial management system;
+	- **(a)** recommend amendments to a law of the First Nation made under this Act;
+	- **(b)** recommend changes to the First Nation’s expenditures or budgets;
+	- **(c)** recommend improvements to the First Nation’s financial management system;
 	- **(d)** recommend changes to the delivery of programs and services;
-	- **(e)** order that expenditures of local revenues of the first nation be approved by, or paid with cheques co-signed by, a manager appointed by the Board; and
-	- **(f)** exercise any powers delegated to the Board under a law of the first nation or under an agreement between the first nation and the Board or the first nation and the First Nations Finance Authority.
+	- **(e)** order that expenditures of local revenues of the First Nation be approved by, or paid with cheques co-signed by, a manager appointed by the Board; and
+	- **(f)** exercise any powers delegated to the Board under a law of the First Nation or under an agreement between the First Nation and the Board or the First Nation and the First Nations Finance Authority.
 
 **Termination by Board**
 
-- **(3)** The Board may terminate a co-management arrangement with a first nation on giving notice to its council that the Board is of the opinion that
-	- **(a)** there is no longer a serious risk that the first nation will default on an obligation to the First Nations Finance Authority;
-	- **(b)** where the first nation was in default of a payment obligation to the First Nations Finance Authority, the first nation has remedied the default;
+- **(3)** The Board may terminate a co-management arrangement with a First Nation on giving notice to its council that the Board is of the opinion that
+	- **(a)** there is no longer a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority;
+	- **(b)** where the First Nation was in default of a payment obligation to the First Nations Finance Authority, the First Nation has remedied the default;
 	- **(c)** a co-management arrangement requested or demanded under paragraph 33(3)(b) or subsection 86(4) is no longer required; or
-	- **(d)** third-party management of the first nation’s local revenues is required.
+	- **(d)** third-party management of the First Nation’s local revenues is required.
 
 **Opinion final**
 
@@ -1038,6 +1107,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Notice**
 
 - **(5)** The Board shall advise the First Nations Finance Authority and the First Nations Tax Commission of the commencement or termination of a co-management arrangement.
+> 2005, c. 9, s. 52; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -1046,39 +1117,43 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **53** 
 
-- **(1)** The Board may, on giving notice to the council of a first nation and to the Minister, assume management of the first nation’s local revenues, including its local revenue account,
+- **(1)** The Board may, on giving notice to the council of a First Nation and to the Minister, assume management of the First Nation’s local revenues, including its local revenue account,
 	- **(a)** if, in the opinion of the Board, a co-management arrangement under section 52 has not been effective;
-	- **(b)** if, in the opinion of the Board, there is a serious risk that the first nation will default on an obligation to the First Nations Finance Authority; or
+	- **(b)** if, in the opinion of the Board, there is a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority; or
 	- **(c)** on receipt of a request or demand to do so under paragraph 33(3)(b) or subsection 86(4).
 
 **Powers**
 
-- **(2)** If the Board assumes third-party management of the local revenues of a first nation, the Board has the exclusive right to
-	- **(a)** subject to subsection (3), act in the place of the council of the first nation to make laws under paragraphs 5(1)(a) to (f) and subsection 9(1);
-	- **(b)** act in the place of the council of the first nation under laws made under paragraphs 5(1)(a) to (e) and manage the first nation’s local revenue account, including any necessary borrowing;
-	- **(b.1)** act in the place of the council of the first nation to fulfil any of the powers and obligations of the council under any property taxation law and under this Act;
-	- **(c)** provide for the delivery of programs and services that are paid for out of local revenues;
-	- **(d)** assign rights or interests under subsection 5(7); and
-	- **(e)** exercise any powers delegated to the Board under a law of the first nation or an agreement between the first nation and the Board or between the first nation and the First Nations Finance Authority.
+- **(2)** If the Board assumes third-party management of the local revenues of a First Nation, the Board has the exclusive right to
+	- **(a)** subject to subsection (3), act in the place of the council of the First Nation to make laws under paragraphs 5(1)(a) to (f) and subsection 9(1);
+	- **(b)** act in the place of the council of the First Nation to
+		- **(i)** exercise any powers and fulfil any obligations of the council under this Act, the regulations made under this Act or any laws made under paragraphs 5(1)(a) to (e),
+		- **(ii)** manage the First Nation’s local revenues, including the local revenue account,
+		- **(iii)** undertake any necessary borrowing for the purpose of remedying the situation for which third-party management was required, and
+		- **(iv)** provide for the delivery of programs and services that are paid for out of local revenues, manage assets related to those programs and services and enter into or terminate agreements in respect of those programs, services and assets;
+	- **(b.1)** [Repealed, 2018, c. 27, s. 399]
+	- **(c)** assign interests or rights under subsection 5(7); and
+	- **(d)** exercise any powers or fulfil any obligations delegated to the Board under a law of the First Nation or an agreement between the First Nation and the Board or between the First Nation and the First Nations Finance Authority.
+	- **(e)** [Repealed, 2018, c. 27, s. 399]
 
 **Delegation — consent of council required**
 
-- **(3)** The Board shall not make a law under paragraph 5(1)(f) or 9(1)(b) that delegates a power to a person or body to whom a power was not delegated at the time the Board assumed third-party management of the local revenues of a first nation, unless the council of the first nation gives its consent.
+- **(3)** The Board shall not make a law under paragraph 5(1)(f) or 9(1)(b) that delegates a power to a person or body to whom a power was not delegated at the time the Board assumed third-party management of the local revenues of a First Nation, unless the council of the First Nation gives its consent.
 
 **Prohibition**
 
-- **(4)** The council of the first nation shall not, during the time that the board assumes third-party management of the first nation’s local revenues, repeal any law made under paragraph 5(1)(g).
+- **(4)** The council of the First Nation shall not, during the time that the board assumes third-party management of the First Nation’s local revenues, repeal any law made under paragraph 5(1)(g).
 
 **Review every six months**
 
-- **(5)** Where the Board has assumed third-party management of a first nation’s local revenues, it shall review the need for third-party management at least once every six months and advise the First Nations Finance Authority, the First Nations Tax Commission and the council of the first nation of the results of its review.
+- **(5)** Where the Board has assumed third-party management of a First Nation’s local revenues, it shall review the need for third-party management at least once every six months and advise the First Nations Finance Authority, the First Nations Tax Commission and the council of the First Nation of the results of its review.
 
 **Termination by Board**
 
-- **(6)** The Board may terminate third-party management of a first nation’s local revenues, on giving notice to the council of the first nation, if
-	- **(a)** it is of the opinion that there is no longer a serious risk that the first nation will default on an obligation to the First Nations Finance Authority and the Authority consents to the termination in writing;
-	- **(b)** where the first nation was in default of an obligation to the First Nations Finance Authority, it is of the opinion that the first nation has remedied the default and the Authority consents to the termination in writing; or
-	- **(c)** it is of the opinion that the situation for which third-party management of the first nation’s local revenues was required under paragraph 33(3)(b) or subsection 86(4) has been remedied.
+- **(6)** The Board may terminate third-party management of a First Nation’s local revenues, on giving notice to the council of the First Nation, if
+	- **(a)** it is of the opinion that there is no longer a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority and the Authority consents to the termination in writing;
+	- **(b)** where the First Nation was in default of an obligation to the First Nations Finance Authority, it is of the opinion that the First Nation has remedied the default and the Authority consents to the termination in writing; or
+	- **(c)** it is of the opinion that the situation for which third-party management of the First Nation’s local revenues was required under paragraph 33(3)(b) or subsection 86(4) has been remedied.
 
 **Opinion final**
 
@@ -1086,8 +1161,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Notice**
 
-- **(8)** The Board shall advise the First Nations Finance Authority and First Nations Tax Commission of the assumption or termination of third-party management of a first nation’s local revenues.
-> 2005, c. 9, s. 53; 2015, c. 36, s. 192.
+- **(8)** The Board shall advise the First Nations Finance Authority and First Nations Tax Commission of the assumption or termination of third-party management of a First Nation’s local revenues.
+> 2005, c. 9, s. 53; 2015, c. 36, s. 192; 2018, c. 27, ss. 399, 414(E).
 
 
 
@@ -1095,7 +1170,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Required information**
 
-**54** At the request of the Board, a first nation that has made a local revenue law shall provide to the Board any information about the first nation’s financial management system and financial performance that the Board requires for a decision regarding a co-management arrangement or third-party management of the first nation’s local revenues.
+**54** At the request of the Board, a First Nation that has made a local revenue law shall provide to the Board any information about the First Nation’s financial management system and financial performance that the Board requires for a decision regarding a co-management arrangement or third-party management of the First Nation’s local revenues.
+> 2005, c. 9, s. 54; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -1111,7 +1188,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - **(1)** The Board may establish standards, not inconsistent with the regulations, respecting
 	- **(a)** the form and content of laws made under section 9;
 	- **(b)** approvals of the Board under Part 1;
-	- **(c)** certification of first nations under section 50; and
+	- **(c)** certification of First Nations under section 50; and
 	- **(d)** financial reporting under subsection 14(1).
 
 **Procedures**
@@ -1119,7 +1196,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - **(2)** The Board may establish procedures respecting
 	- **(a)** the submission for approval and approval of laws made under section 9;
 	- **(b)** the issuance of a certificate under subsection 50(3); and
-	- **(c)** the implementation or termination of a co-management arrangement or third-party management of a first nation’s local revenues.
+	- **(c)** the implementation or termination of a co-management arrangement or third-party management of a First Nation’s local revenues.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
@@ -1128,6 +1205,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **First Nations Gazette**
 
 - **(4)** All laws made under section 9 and approved by the Board and all standards established by the Board under subsection (1) shall be published in the First Nations Gazette.
+> 2005, c. 9, s. 55; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -1139,8 +1218,21 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Regulations**
 
 **56** The Governor in Council may, on the recommendation of the Minister made having regard to any representations by the Board, make regulations
-- **(a)** respecting the implementation of a co-management arrangement or third-party management of a first nation’s local revenues, including the obligations of affected first nations to provide access to financial records; and
-- **(b)** fixing fees that the Board may charge for services, including fees to first nations for co-management and third-party management services, and the manner in which the fees may be recovered.
+- **(a)** respecting the implementation of a co-management arrangement or third-party management of a First Nation’s local revenues, including the obligations of affected First Nations to provide access to financial records; and
+- **(b)** fixing fees that the Board may charge for services, including fees to First Nations for co-management and third-party management services, and the manner in which the fees may be recovered.
+> 2005, c. 9, s. 56; 2018, c. 27, s. 414(E).
+
+
+
+
+
+**Regulations**
+
+**56.1** For the purpose of enabling an entity referred to in any of paragraphs 50.1(1)(a) to (e) to obtain the services of the Board, other than co-management and third-party management services, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
+- **(a)** adapting any provision of this Act or of any regulation made under this Act; and
+- **(b)** restricting the application of any provision of this Act or of any regulation made under this Act.
+> 2018, c. 27, s. 400.
+
 
 
 
@@ -1160,20 +1252,20 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 ***Authority*** means the First Nations Finance Authority. (*Administration*)
 
-***investing member*** means a first nation that has invested in a short-term investment pool managed by the Authority. (*membre investisseur*)
+***investing member*** means a First Nation that has invested in a short-term investment pool managed by the Authority. (*membre investisseur*)
 
 ***long-term loan*** means a loan the term of which is one year or longer. (*prêt à long terme*)
 
 ***member*** means a borrowing member or investing member. (*membre*)
 
-***property tax revenues*** means moneys raised under laws made under paragraphs 5(1)(a) and (a.1) and payments made to a first nation in lieu of a tax imposed by a law made under paragraph 5(1)(a). (*recettes fiscales foncières*)
+***property tax revenues*** means moneys raised under laws made under paragraphs 5(1)(a) and (a.1) and payments made to a First Nation in lieu of a tax imposed by a law made under paragraph 5(1)(a). (*recettes fiscales foncières*)
 
-***representative***, in respect of a first nation that is a member, means the chief or a councillor of the first nation who is designated as a representative by a resolution of its council. (*représentant*)
+***representative***, in respect of a First Nation that is a member, means the chief or a councillor of the First Nation who is designated as a representative by a resolution of its council. (*représentant*)
 
 ***security*** means a security of the Authority issued under paragraph 75(1)(b). (*titre*)
 
 ***short-term loan*** means a loan the term of which is less than one year. (*prêt à court terme*)
-> 2005, c. 9, s. 57; 2015, c. 36, s. 193.
+> 2005, c. 9, s. 57; 2015, c. 36, s. 193; 2018, c. 27, s. 414(E).
 
 
 
@@ -1216,17 +1308,17 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **61** 
 
-- **(1)** The Authority shall be managed by a board of directors, consisting of from 5 to 11 directors, including a Chairperson and Deputy Chairperson.
+- **(1)** The Authority shall be managed by a board of directors, consisting of from 5 to 11 directors, including a Chairperson and Deputy Chairperson, elected from among the representatives of borrowing members.
 
 **Nomination of directors**
 
-- **(2)** A representative of a borrowing member may nominate
-	- **(a)** a representative of a borrowing member for election as Chairperson or Deputy Chairperson; and
-	- **(b)** any representative for election as a director other than the Chairperson or Deputy Chairperson.
+- **(2)** A representative of a borrowing member may nominate a representative of a borrowing member for election as Chairperson or Deputy Chairperson or as a director other than the Chairperson or Deputy Chairperson.
 
 **Election of directors**
 
 - **(3)** Directors shall be elected by representatives of borrowing members.
+> 2005, c. 9, s. 61; 2018, c. 27, s. 401.
+
 
 
 
@@ -1251,9 +1343,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Ceasing to be director**
 
 - **(3)** A person ceases to be a director when
-	- **(a)** the person ceases to hold office as a chief or councillor of a first nation that is a borrowing member or investing member;
-	- **(b)** the person’s designation as a representative of a borrowing member or investing member is revoked by a resolution of the council of that first nation; or
+	- **(a)** the person ceases to hold office as a chief or councillor of a First Nation that is a borrowing member;
+	- **(b)** the person’s designation as a representative of a borrowing member is revoked by a resolution of the council of that First Nation; or
 	- **(c)** the person is removed from office before the expiry of the term of the appointment by a special resolution of the board of directors.
+> 2005, c. 9, s. 63; 2018, c. 27, s. 402.
+
 
 
 
@@ -1393,13 +1487,15 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **74** The purposes of the Authority are to
 - **(a)** secure for its borrowing members, through the use of property tax revenues,
-	- **(i)** long-term financing of capital infrastructure for the provision of local services on reserve lands,
-	- **(ii)** lease financing of capital assets for the provision of local services on reserve lands, or
+	- **(i)** long-term financing or lease financing of capital assets for the provision of local services on reserve lands, or
+	- **(ii)** [Repealed, 2018, c. 27, s. 403]
 	- **(iii)** short-term financing to meet cash-flow requirements for operating or capital purposes under a law made under paragraph 5(1)(b), or to refinance a short-term debt incurred for capital purposes;
 - **(b)** secure for its borrowing members, through the use of other revenues prescribed by regulation, financing for any purpose prescribed by regulation;
 - **(c)** secure the best possible credit terms for its borrowing members;
-- **(d)** provide investment services to its members and first nations organizations; and
-- **(e)** provide advice regarding the development of long-term financing mechanisms for first nations.
+- **(d)** provide investment services to First Nations and entities referred to in any of paragraphs 50.1(1)(a) to (e); and
+- **(e)** provide advice regarding the development of long-term financing mechanisms for First Nations.
+> 2005, c. 9, s. 74; 2018, c. 27, ss. 403, 414(E).
+
 
 
 
@@ -1462,12 +1558,12 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **76** 
 
-- **(1)** A first nation may apply to the Authority to become a borrowing member.
+- **(1)** A First Nation may apply to the Authority to become a borrowing member.
 
 **Criteria**
 
-- **(2)** The Authority shall accept a first nation as a borrowing member only if the First Nations Financial Management Board has issued to the first nation a certificate in respect of their financial performance under subsection 50(3) and has not subsequently revoked it.
-> 2005, c. 9, s. 76; 2015, c. 36, s. 194.
+- **(2)** The Authority shall accept a First Nation as a borrowing member only if the First Nations Financial Management Board has issued to the First Nation a certificate in respect of their financial performance under subsection 50(3) and has not subsequently revoked it.
+> 2005, c. 9, s. 76; 2015, c. 36, s. 194; 2018, c. 27, s. 414(E).
 
 
 
@@ -1477,12 +1573,12 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **77** 
 
-- **(1)** A first nation that has obtained financing secured by property tax revenues may cease to be a borrowing member only with the consent of all other borrowing members that have obtained financing secured by such revenues.
+- **(1)** A First Nation that has obtained financing secured by property tax revenues may cease to be a borrowing member only with the consent of all other borrowing members that have obtained financing secured by such revenues.
 
 **Ceasing to be borrowing member**
 
-- **(2)** A first nation that has obtained financing secured by other revenues may cease to be a borrowing member only with the consent of all other borrowing members that have obtained financing secured by such other revenues.
-> 2005, c. 9, s. 77; 2015, c. 36, s. 195.
+- **(2)** A First Nation that has obtained financing secured by other revenues may cease to be a borrowing member only with the consent of all other borrowing members that have obtained financing secured by such other revenues.
+> 2005, c. 9, s. 77; 2015, c. 36, s. 195; 2018, c. 27, s. 414(E).
 
 
 
@@ -1492,21 +1588,21 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **78** 
 
-- **(1)** If a first nation is insolvent, the Authority has priority over all other creditors of the first nation for any moneys that are authorized to be paid to the Authority under a law made under paragraph 5(1)(b) or (d), under an agreement governing a secured revenues trust account or under the Act, but the priority is only in respect of any debt that arises on or after the date on which the first nation receives the initial disbursement of the first loan that it obtained from the Authority.
+- **(1)** If a First Nation is insolvent, the Authority has priority over all other creditors of the First Nation for any moneys that are authorized to be paid to the Authority under a law made under paragraph 5(1)(b) or (d), under an agreement governing a secured revenues trust account or under the Act, but the priority is only in respect of any debt that arises on or after the date on which the First Nation receives the initial disbursement of the first loan that it obtained from the Authority.
 
 **Debts to the Crown**
 
 - **(2)** For greater certainty, subsection (1) does not apply to Her Majesty.
-> 2005, c. 9, s. 78; 2015, c. 36, s. 196.
+> 2005, c. 9, s. 78; 2015, c. 36, s. 196; 2018, c. 27, ss. 404(F), 414(E).
 
 
 
 
 
-**Limitations — infrastructure loans**
+**Limitations — loans**
 
-**79** The Authority shall not make a long-term loan to a borrowing member for the purpose of financing capital infrastructure for the provision of local services on reserve lands unless the First Nations Tax Commission has approved a law made by the borrowing member under paragraph 5(1)(d).
-> 2005, c. 9, s. 79; 2015, c. 36, s. 197.
+**79** The Authority shall not make a long-term loan to a borrowing member for the purpose of financing capital assets for the provision of local services on reserve lands unless the First Nations Tax Commission has approved a law made by the borrowing member under paragraph 5(1)(d).
+> 2005, c. 9, s. 79; 2015, c. 36, s. 197; 2018, c. 27, s. 405.
 
 
 
@@ -1594,15 +1690,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Liability for shortfall**
 
 - **(5)** If payments from a debt reserve fund reduce its balance
-	- **(a)** by less than 50% of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established, the Authority may, in accordance with the regulations, require those borrowing members to pay amounts sufficient to replenish the debt reserve fund; and
-	- **(b)** by 50% or more of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established,
-		- **(i)** the Authority shall, in accordance with the regulations, require those borrowing members to pay without delay amounts sufficient to replenish the debt reserve fund, and
-		- **(ii)** in the case of a debt reserve fund described in paragraph (1)(a), those borrowing members shall recover those amounts under their property taxation laws.
+	- **(a)** by less than 50% of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established, the Authority may, in accordance with the regulations, require those borrowing members to pay without delay amounts sufficient to replenish the debt reserve fund; and
+	- **(b)** by 50% or more of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established, the Authority shall, in accordance with the regulations, require those borrowing members to pay without delay amounts sufficient to replenish the debt reserve fund.
 
 **Repayment**
 
 - **(6)** Money contributed by a borrowing member to a debt reserve fund, and any investment income received on it, that has not already been repaid to the borrowing member by the Authority shall be repaid when all obligations in respect of the security in respect of which the money was contributed have been satisfied.
-> 2005, c. 9, s. 84; 2015, c. 36, s. 199.
+> 2005, c. 9, s. 84; 2015, c. 36, s. 199; 2018, c. 27, s. 406.
 
 
 
@@ -1658,9 +1752,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Required intervention**
 
-- **(4)** The Authority may, by notice in writing, require the First Nations Financial Management Board to either — at the Board’s discretion — impose a co-management arrangement on a borrowing member or assume third-party management of the first nation’s local revenues
+- **(4)** The Authority may, by notice in writing, require the First Nations Financial Management Board to either — at the Board’s discretion — impose a co-management arrangement on a borrowing member or assume third-party management of the First Nation’s local revenues
 	- **(a)** where the borrowing member fails to make a payment to the Authority under a borrowing agreement with the Authority, or to pay a charge imposed by the Authority under this Part; or
 	- **(b)** on receipt of a report of the Board under subsection (3) in respect of the borrowing member.
+> 2005, c. 9, s. 86; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -1709,40 +1805,124 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **89** The Governor in Council may, on the recommendation of the Minister after consultation by the Minister with the Authority, make regulations
 - **(a)** prescribing anything that is to be prescribed under subsection 82(1) and paragraphs 85(3)(c) and (4)(b) and 87(2)(f);
-- **(b)** fixing a percentage in respect of an amount to be withheld from a loan under subsection 84(2), which may be a higher or lower percentage than the percentage set out in that subsection and may vary according to whether the loan is secured by property tax revenues or by other revenues;
-- **(c)** respecting the imposition of charges under subsection 84(5), including the manner of calculating those charges and the share of those charges to be paid by each borrowing member; and
-- **(d)** extending the application of this Part to any non-profit organization established to provide social welfare, housing, recreational or cultural services to first nations or their members on reserve lands and making any adaptations to the provisions of this Act that are necessary for that purpose.
-> 2005, c. 9, s. 89; 2015, c. 36, s. 201.
+- **(b)** fixing a percentage in respect of an amount to be withheld from a loan under subsection 84(2), which may be a higher or lower percentage than the percentage set out in that subsection and may vary according to whether the loan is secured by property tax revenues or by other revenues; and
+- **(c)** respecting the imposition of charges under subsection 84(5), including the manner of calculating those charges and the share of those charges to be paid by each borrowing member.
+- **(d)** [Repealed, 2018, c. 27, s. 407]
+> 2005, c. 9, s. 89; 2015, c. 36, s. 201; 2018, c. 27, s. 407.
 
 
 
 
 
 **PART 5** 
-## [Repealed, 2012, c. 19, s. 660]
-
-
-**90** [Repealed, 2012, c. 19, s. 660]
+## Payment of Moneys
 
 
 
-**91** [Repealed, 2012, c. 19, s. 660]
+**Council resolution**
+
+**90** 
+
+- **(1)** The council of a First Nation may submit to the Minister a resolution of the council requesting the payment to the First Nation of
+	- **(a)** moneys held by Her Majesty for the use and benefit of the First Nation; and
+	- **(b)** moneys to be collected or received in future by Her Majesty for the use and benefit of the First Nation.
+
+**Information to accompany resolution**
+
+- **(2)** The resolution shall be accompanied by proof that
+	- **(a)** the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a) and the law has been approved by the First Nations Financial Management Board;
+	- **(b)** the council has obtained independent legal advice and independent financial advice with respect to the risks of the payment of the moneys to the First Nation; and
+	- **(c)** the payment of the moneys to the First Nation has been approved under section 91.
+> 2005, c. 9, s. 90; 2012, c. 19, s. 660; 2018, c. 27, s. 408.
 
 
 
-**92** [Repealed, 2012, c. 19, s. 660]
+
+
+**Approval by members**
+
+**91** 
+
+- **(1)** If the council of a First Nation intends to request the payment of moneys under subsection 90(1), the council shall conduct a vote among the First Nation’s eligible voters on the approval of the payment of the moneys.
+
+**Eligible voters**
+
+- **(2)** Every First Nation member, whether resident on a reserve of the First Nation or not, is an eligible voter if the member is at least 18 years old on the date of the vote.
+
+**Independent legal and financial advice**
+
+- **(3)** Before conducting the vote under subsection (1), the council shall obtain independent legal advice and independent financial advice with respect to the risks of the payment of the moneys to the First Nation.
+
+**Information to be provided**
+
+- **(4)** Before conducting the vote under subsection (1), the council shall also take reasonable measures that are in accordance with the First Nation’s practices to inform eligible voters of
+	- **(a)** their right to vote and the means of exercising that right;
+	- **(b)** the fact that council has obtained the legal and financial advice referred to in subsection (3);
+	- **(c)** the implications of the payment of the moneys and the reasons why the payment is for the benefit of the First Nation; and
+	- **(d)** the fact that the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a).
+
+**Majority approval**
+
+- **(5)** The payment of the moneys to the First Nation is approved if a majority of eligible voters who participated voted to approve the payment.
+
+**Minimum participation**
+
+- **(6)** Despite subsection (5), the payment is not approved unless at least 25% of all eligible voters participated in the vote.
+
+**Increased percentage**
+
+- **(7)** The council may, by resolution adopted before the vote, increase the percentage of eligible voters required under subsection (6).
+> 2005, c. 9, s. 91; 2012, c. 19, s. 660; 2018, c. 27, s. 408.
 
 
 
-**93** [Repealed, 2012, c. 19, s. 660]
+
+
+**Initial payment of moneys**
+
+**92** 
+
+- **(1)** After the resolution is submitted to the Minister by the council of the First Nation under subsection 90(1), the moneys held by Her Majesty for the First Nation’s use and benefit shall be paid to the First Nation out of the Consolidated Revenue Fund, if the Minister is satisfied that
+	- **(a)** the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a) and the law has been approved by the First Nations Financial Management Board;
+	- **(b)** the council has obtained independent legal advice and independent financial advice with respect to the risks of the payment of the moneys to the First Nation; and
+	- **(c)** the payment of the moneys to the First Nation has been approved under section 91.
+
+**Subsequent payment**
+
+- **(2)** Following a payment of moneys under subsection (1), all moneys subsequently collected or received by Her Majesty for the use and benefit of the First Nation shall be paid out of the Consolidated Revenue Fund to the First Nation.
+
+**Subsection (2) ceases to apply**
+
+- **(3)** Subsection (2) shall cease to apply if the law referred to in paragraph (1)(a) is repealed, and at the time of its repeal, it is not concurrently replaced by a law respecting the financial administration of the First Nation made under paragraph 9(1)(a) that has been approved by the First Nations Financial Management Board.
+> 2005, c. 9, s. 92; 2012, c. 19, s. 660; 2018, c. 27, s. 408.
 
 
 
-**94** [Repealed, 2012, c. 19, s. 660]
+
+
+**Liability for future management**
+
+**93** Following the payment of moneys under section 92, Her Majesty is not liable for the management of those moneys.
+> 2005, c. 9, s. 93; 2012, c. 19, s. 660; 2018, c. 27, s. 408.
 
 
 
-**95** [Repealed, 2012, c. 19, s. 660]
+
+
+**Past liability**
+
+**94** This Act does not affect the liability of Her Majesty or a First Nation for any act or omission in respect of moneys occurring before a payment referred to in section 93.
+> 2005, c. 9, s. 94; 2010, c. 12, s. 1735; 2012, c. 19, s. 660; 2018, c. 27, s. 408.
+
+
+
+
+
+**[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
+
+**95** Sections 61 to 69 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) do not apply in respect of moneys paid to a First Nation under section 92 of this Act.
+> 2005, c. 9, s. 95; 2012, c. 19, s. 660; 2018, c. 27, s. 408.
+
 
 
 
@@ -2025,11 +2205,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **125** 
 
-- **(1)** At the request of the auditor or examiner of an institution, the present or former commissioners, directors, officers, employees or agents of the institution shall provide any information and explanations, and give access to any records, documents, books, accounts and vouchers of the institution that are under their control, that the auditor or examiner considers necessary to prepare a report required under this Act.
+- **(1)** At the request of the auditor or examiner of an institution, the present or former commissioners, directors, officers, employees or agents or mandataries of the institution shall provide any information and explanations, and give access to any records, documents, books, accounts and vouchers of the institution that are under their control, that the auditor or examiner considers necessary to prepare a report required under this Act.
 
 **Obligation to inform**
 
 - **(2)** If a commissioner or director of an institution does not have information or an explanation requested by an auditor or examiner under subsection (1), the commissioner or director shall obtain the information or explanation and provide it to the auditor or examiner.
+> 2005, c. 9, s. 125; 2018, c. 27, s. 409(E).
+
 
 
 
@@ -2183,18 +2365,40 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 
 
+**Limit of liability — commissioner, director, employee, etc.**
+
+**136** No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, a director or employee of the First Nations Financial Management Board or a person acting on behalf of the Commission or Board for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act or regulations made under this Act.
+> 2005, c. 9, s. 136; 2012, c. 19, s. 663; 2018, c. 27, s. 410.
+
+
+
+
+
+**Limit of liability — co-management or third-party management**
+
+**136.1** Despite anything in federal or provincial law, if the First Nations Financial Management Board has required a First Nation to enter into a co-management arrangement in respect of the First Nation’s local revenues in accordance with section 52 or has assumed management of a First Nation’s local revenues in accordance with section 53, neither the Board nor any director or employee of the Board or person acting on behalf of the Board is by reason of that fact liable for any liability of the First Nation.
+> 2018, c. 27, s. 410.
+
+
+
+
+
+**Personal liability for costs**
+
+**136.2** No director or employee of the First Nations Financial Management Board or person acting on behalf of the Board is personally liable for costs
+- **(a)** awarded in any civil proceedings brought against any of them in relation to anything done, or omitted to be done, in the exercise or purported exercise of any power, or in the performance or purported performance of any duty, of that person or the Board in accordance with this Act or the regulations made under this Act, unless a court otherwise directs; or
+- **(b)** awarded against the Board in any civil proceedings.
+> 2018, c. 27, s. 410.
+
+
+
+
+
 **Limit of liability**
 
-**136** No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, or any director or employee of the First Nations Financial Management Board, for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act.
-> 2005, c. 9, s. 136; 2012, c. 19, s. 663.
+**137** No civil proceedings lie against a member of a council or an employee of a First Nation for anything done, or omitted to be done, during the course of the exercise or purported exercise in good faith of any power, or the performance or purported performance in good faith of any duty, of that member or employee in accordance with this Act, regulations made under this Act or a law made by the council of a First Nation under this Act.
+> 2005, c. 9, s. 137; 2018, c. 27, s. 414(E).
 
-
-
-
-
-**Limit of liability**
-
-**137** No civil proceedings lie against a member of a council or an employee of a first nation for anything done, or omitted to be done, during the course of the exercise or purported exercise in good faith of any power, or the performance or purported performance in good faith of any duty, of that member or employee in accordance with this Act, regulations made under this Act or a law made by the council of a first nation under this Act.
 
 
 
@@ -2203,11 +2407,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **138** 
 
-- **(1)** In the event of a conflict between a local revenue law and an Act of Parliament or any regulations made under an Act of Parliament or a code made by a first nation under another Act of Parliament, the Act, regulations or code prevails to the extent of the conflict.
+- **(1)** In the event of a conflict between a local revenue law and an Act of Parliament or any regulations made under an Act of Parliament or a code made by a First Nation under another Act of Parliament, the Act, regulations or code prevails to the extent of the conflict.
 
-**Conflict with other first nation laws**
+**Conflict with other First Nation laws**
 
-- **(2)** In the event of a conflict between a law made by a first nation under this Act and a law, other than a code, made by the first nation under another Act of Parliament, the law made by the first nation under this Act prevails to the extent of the conflict.
+- **(2)** In the event of a conflict between a law made by a First Nation under this Act and a law, other than a code, made by the First Nation under another Act of Parliament, the law made by the First Nation under this Act prevails to the extent of the conflict.
+> 2005, c. 9, s. 138; 2018, c. 27, s. 414(E).
+
 
 
 
@@ -2244,9 +2450,41 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Regulations**
 
-**141** For the purpose of enabling an aborig­inal group that is not a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) but is a party to a treaty, land claims agreement or self-government agreement with Canada to benefit from the provisions of this Act or obtain the services of any body established under this Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
+**141** 
+
+- **(1)** For the purpose of enabling an Aboriginal group that is not a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) but is a party to a treaty, land claims agreement or self-government agreement with Canada to benefit from the provisions of this Act or obtain the services of any body established under this Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
+	- **(a)** adapting any provision of this Act or of any regulation made under this Act; and
+	- **(b)** restricting the application of any provision of this Act or of any regulation made under this Act.
+
+**Amendments to schedule in regulations**
+
+- **(2)** If the regulations made under subsection (1) include a schedule listing the Aboriginal groups that are subject to those regulations, the Minister may, by order, at the request of the governing body of an Aboriginal group referred to in that subsection, amend the schedule in order to
+	- **(a)** add or change the name of the Aboriginal group; or
+	- **(b)** delete the name of the Aboriginal group, as long as there are no amounts owing by the Aboriginal group to the First Nations Finance Authority that remain unpaid.
+> 2005, c. 9, s. 141; 2018, c. 27, ss. 411, 413(E).
+
+
+
+
+
+**Regulations — organizations referred to in paragraph 50.1(1)(e)**
+
+**141.1** For the purpose of enabling an organization referred to in paragraph 50.1(1)(e) to benefit from the provisions of this Act, other than Parts 1, 2 and 5, or obtain the services of the First Nations Financial Management Board or the First Nations Finance Authority, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
 - **(a)** adapting any provision of this Act or of any regulation made under this Act; and
 - **(b)** restricting the application of any provision of this Act or of any regulation made under this Act.
+> 2018, c. 27, s. 412.
+
+
+
+
+
+**Regulations — joint reserve lands**
+
+**141.2** For the purpose of enabling a First Nation to benefit from the provisions of this Act, or obtain the services of any body established under this Act, in respect of reserve lands that have been set apart for the use and benefit of that First Nation and one or more other First Nations, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
+- **(a)** adapting any provision of this Act or of any regulation made under this Act; and
+- **(b)** restricting the application of any provision of this Act or of any regulation made under this Act.
+> 2018, c. 27, s. 412.
+
 
 
 
@@ -2293,7 +2531,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **145** 
 
-- **(1)** By-laws made by a first nation under paragraph 83(1)(a), or any of paragraphs 83(1)(d) to (g), of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which the name of the first nation is added to the schedule are deemed to be laws made under section 5 or 9, as the case may be, to the extent that they are not inconsistent with section 5 or 9, and remain in force until they are repealed or replaced.
+- **(1)** By-laws made by a First Nation under paragraph 83(1)(a), or any of paragraphs 83(1)(d) to (g), of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which the name of the First Nation is added to the schedule are deemed to be laws made under section 5 or 9, as the case may be, to the extent that they are not inconsistent with section 5 or 9, and remain in force until they are repealed or replaced.
 
 **Amendment of existing by-laws**
 
@@ -2301,8 +2539,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Non-application of section**
 
-- **(3)** This section does not apply if the name of the first nation is added to the schedule on or after the day on which section 145.1 comes into force.
-> 2005, c. 9, s. 145; 2015, c. 36, s. 203.
+- **(3)** This section does not apply if the name of the First Nation is added to the schedule on or after the day on which section 145.1 comes into force.
+> 2005, c. 9, s. 145; 2015, c. 36, s. 203; 2018, c. 27, s. 414(E).
 
 
 
@@ -2312,20 +2550,20 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **145.1** 
 
-- **(1)** By-laws made by a first nation under any of paragraphs 83(1)(a) and (b) to (g) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which the name of the first nation is added to the schedule, except those described in subsection (2), are deemed to be laws made under section 5 to the extent that they are not inconsistent with section 5, and they remain in force until they are replaced by a law made by the first nation under section 5 or are repealed.
+- **(1)** By-laws made by a First Nation under any of paragraphs 83(1)(a) and (b) to (g) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which the name of the First Nation is added to the schedule, except those described in subsection (2), are deemed to be laws made under section 5 to the extent that they are not inconsistent with section 5, and they remain in force until they are replaced by a law made by the First Nation under section 5 or are repealed.
 
 **Continuation of existing by-laws**
 
-- **(2)** By-laws in respect of financial administration made by a first nation under any of paragraphs 83(1)(a) and (b) to (g) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which the name of the first nation is added to the schedule remain in force until they are repealed or until the first nation makes a law that is approved under subsection 9(2).
+- **(2)** By-laws in respect of financial administration made by a First Nation under any of paragraphs 83(1)(a) and (b) to (g) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which the name of the First Nation is added to the schedule remain in force until they are repealed or until the First Nation makes a law that is approved under subsection 9(2).
 
 **Continuation of existing by-laws**
 
-- **(3)** By-laws made by a first nation under paragraph 83(1)(b) or (c) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which this section comes into force, except those described in subsection (4), are deemed to be laws made under section 5 to the extent that they are not inconsistent with section 5, and they remain in force until they are replaced by a law made by the first nation under section 5 or are repealed.
+- **(3)** By-laws made by a First Nation under paragraph 83(1)(b) or (c) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which this section comes into force, except those described in subsection (4), are deemed to be laws made under section 5 to the extent that they are not inconsistent with section 5, and they remain in force until they are replaced by a law made by the First Nation under section 5 or are repealed.
 
 **Continuation of existing by-laws**
 
-- **(4)** By-laws in respect of financial administration made by a first nation under paragraph 83(1)(b) or (c) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which this section comes into force remain in force until they are repealed or until the first nation makes a law that is approved under subsection 9(2).
-> 2015, c. 36, s. 204.
+- **(4)** By-laws in respect of financial administration made by a First Nation under paragraph 83(1)(b) or (c) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) that are in force on the day on which this section comes into force remain in force until they are repealed or until the First Nation makes a law that is approved under subsection 9(2).
+> 2015, c. 36, s. 204; 2018, c. 27, s. 414(E).
 
 
 
