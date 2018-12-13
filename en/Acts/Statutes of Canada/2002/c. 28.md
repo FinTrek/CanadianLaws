@@ -1066,7 +1066,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(d)** information provided by applicants and registrants that is used to specify maximum residue limits;
 	- **(e)** information, in respect of each registered pest control product, that is considered by the Minister under paragraphs 7(6)(b) and 19(1)(c);
 	- **(f)** any reports of the evaluation of the health and environmental risks and the value of registered pest control products prepared by the Minister;
-	- **(g)** any advice from a person or body referred to in paragraph 44(1)(f), unless disclosure of the advice may be refused under section 23 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md);
+	- **(g)** any advice from a person or body referred to in paragraph 44(1)(f), unless disclosure of the advice may be refused under section 23 or 23.1 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md);
 	- **(h)** the status, including cancelled status, of all registrations to which this Act applies;
 	- **(i)** information provided to the Minister pursuant to subsection 8(5);
 	- **(j)** notices delivered under subsections 12(1), 16(3) and 18(1) and paragraph 19(1)(a);
@@ -1102,6 +1102,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** reports of international harmonization activities relating to the regulation of pest control products;
 	- **(d)** regulations and proposed regulations under this Act when published in the Canada Gazette; and
 	- **(e)** policies, guidelines and codes of practice relating to the regulation of pest control products when proposed for public consultation, and their final texts when adopted.
+> 2002, c. 28, s. 42; 2018, c. 27, s. 275.
+
 
 
 
