@@ -11,7 +11,7 @@ Sanctionnée sur le 29 juin 2000
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -299,7 +299,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Code canadien du travail
 
 
-**42 et 43** [Modifications]
+**42** [Modification]
+
+
+
+**43** [Abrogé, 2018, ch. 27, art. 529]
 
 
 
