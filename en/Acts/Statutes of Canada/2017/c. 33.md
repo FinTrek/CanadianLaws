@@ -981,7 +981,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**205** [Amendment]
+**205** [Repealed before coming into force, 2018, c. 27, s. 513]
 
 
 
@@ -1029,7 +1029,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Coordinating Amendments
 
 
-**215** [Amendments]
+**215** 
+
+- **(1)** [Repealed, 2018, c. 27, s. 516]
+
+- **(2)** [Amendment]
 
 
 
@@ -1050,7 +1054,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndA5B2_hq_21285'>[*]</a></sup>**(2)** Sections 205 to 209 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA5B2_hq_21285'><sup>*</sup></a>: [Note: Sections 205 to 209 not in force.]<br />
+<a name='fn_IndA5B2_hq_21285'><sup>*</sup></a>: [Note: Section 205 repealed before coming into force, *see* 2018, c. 27, s. 513; sections 206 to 209 not in force.]<br />
 
 
 
