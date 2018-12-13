@@ -33,39 +33,41 @@
 
 - **(1)** In this Act,
 
-***agreement*** means a treaty, convention or other international agreement that is in force, to which Canada is a party and that contains a provision respecting mutual legal assistance in criminal matters;
+***agreement*** means
+- **(a)** a treaty, convention or other international agreement that is in force, to which Canada is a party and that contains a provision respecting mutual legal assistance in criminal matters, or
+- **(b)** to the extent of their application to criminal investigations or prosecutions and except for the purposes of Parts II and III of this Act, the Convention on Mutual Administrative Assistance in Tax Matters, concluded at Strasbourg on January 25, 1988, as amended from time to time by a protocol or other international instrument, as ratified by Canada, or a comprehensive tax information exchange agreement that has effect and to which Canada is a party or a tax treaty, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); (*accord*)
 
-***competent authority*** means the Attorney General of Canada, the attorney general of a province or any person or authority with responsibility in Canada for the investigation or prosecution of offences;
+***competent authority*** means the Attorney General of Canada, the attorney general of a province or any person or authority with responsibility in Canada for the investigation or prosecution of offences; (*autorité compétente*)
 
-***data*** means representations, including signs, signals or symbols, that are capable of being understood by an individual or processed by a computer system or other device;
+***data*** means representations, including signs, signals or symbols, that are capable of being understood by an individual or processed by a computer system or other device; (*données*)
 
 ***foreign state***[Repealed, 1999, c. 18, s. 97]
 
-***International Criminal Court*** means the International Criminal Court as defined in subsection 2(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md);
+***International Criminal Court*** means the International Criminal Court as defined in subsection 2(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md); (*Cour pénale internationale*)
 
-***judge*** means
+***judge*** means
 - **(a)** in Ontario, a judge of the Superior Court of Justice,
 - **(a.1)** in Prince Edward Island, a judge of the trial division of the Supreme Court,
 - **(b)** in Quebec, a judge of the Superior Court,
 - **(c)** in New Brunswick, Manitoba, Alberta and Saskatchewan, a judge of the Court of Queen’s Bench, and
-- **(d)** in Nova Scotia, British Columbia, Newfoundland, Yukon and the Northwest Territories, a judge of the Supreme Court, and in Nunavut, a judge of the Nunavut Court of Justice;
+- **(d)** in Nova Scotia, British Columbia, Newfoundland, Yukon and the Northwest Territories, a judge of the Supreme Court, and in Nunavut, a judge of the Nunavut Court of Justice; (*juge*)
 
-***Minister*** means the Minister of Justice;
+***Minister*** means the Minister of Justice; (*ministre*)
 
-***offence*** means an offence within the meaning of the relevant agreement;
+***offence*** means an offence within the meaning of the relevant agreement; (*infraction*)
 
-***record*** means a medium on which data is registered or marked;
+***record*** means a medium on which data is registered or marked; (*document*)
 
-***request*** means a request for assistance presented pursuant to an agreement;
+***request*** means a request for assistance presented pursuant to an agreement; (*demande*)
 
-***state or entity*** means
+***state or entity*** means
 - **(a)** a state, a province, state or political subdivision of the state, or a colony, dependency, possession, protectorate, condominium, trust territory or any territory falling under the jurisdiction of the state, that is a party to an agreement with Canada, or
-- **(b)** an international criminal court or tribunal, the name of which appears in the schedule.
+- **(b)** an international criminal court or tribunal, the name of which appears in the schedule. (*État ou entité*)
 
 ***treaty***[Repealed, 1999, c. 18, s. 97]
 
 - **(2)** [Repealed, 1999, c. 18, s. 97]
-> R.S., 1985, c. 30 (4th Supp.), s. 2; 1992, c. 51, s. 58; 1998, c. 30, s. 14; 1999, c. 3, s. 80, c. 18, s. 97; 2000, c. 24, s. 56; 2002, c. 7, s. 209(E); 2014, c. 31, s. 36.
+> R.S., 1985, c. 30 (4th Supp.), s. 2; 1992, c. 51, s. 58; 1998, c. 30, s. 14; 1999, c. 3, s. 80, c. 18, s. 97; 2000, c. 24, s. 56; 2002, c. 7, s. 209(E); 2014, c. 31, s. 36; 2018, c. 27, s. 29.
 
 
 
@@ -113,7 +115,7 @@
 
 **5** 
 
-- **(1)** Unless the agreement has been published under subsection (2), an agreement — or the provisions respecting mutual legal assistance in criminal matters contained in a convention or other international agreement — must be published in the Canada Gazette no later than 60 days after it comes into force.
+- **(1)** Unless the agreement has been published under subsection (2), an agreement referred to in paragraph (a) of the definition agreement in subsection 2(1) — or the provisions respecting mutual legal assistance in criminal matters contained in a convention or other international agreement — must be published in the Canada Gazette no later than 60 days after it comes into force.
 
 **Publication in Canada Treaty Series**
 
@@ -122,7 +124,7 @@
 **Judicial notice**
 
 - **(3)** Agreements and provisions published in the Canada Gazette or the Canada Treaty Series are to be judicially noticed.
-> R.S., 1985, c. 30 (4th Supp.), s. 5; 1999, c. 18, s. 99.
+> R.S., 1985, c. 30 (4th Supp.), s. 5; 1999, c. 18, s. 99; 2018, c. 27, s. 30.
 
 
 
@@ -171,12 +173,16 @@
 
 **7** 
 
-- **(1)** The Minister is responsible for the implementation of every agreement and the administration of this Act.
+- **(1)** The Minister is responsible for the implementation of every agreement referred to in paragraph (a) of the definition agreement in subsection 2(1) and for the administration of this Act.
 
-**Agreement and Act to apply**
+**How request dealt with**
 
-- **(2)** When a request is presented to the Minister by a state or entity or a Canadian competent authority, the Minister shall deal with the request in accordance with the relevant agreement and this Act.
-> R.S., 1985, c. 30 (4th Supp.), s. 7; 1999, c. 18, s. 101.
+- **(2)** When a request is made to the Minister under an agreement referred to in paragraph (a) of the definition agreement in subsection 2(1) by a state or entity or a Canadian competent authority, the Minister shall deal with the request in accordance with the agreement and this Act.
+
+**How request dealt with**
+
+- **(3)** When a request made by a state or entity under an agreement referred to in paragraph (b) of the definition agreement in subsection 2(1) is presented to the Minister by the Minister of National Revenue, the Minister shall deal with the request in accordance with the agreement and this Act.
+> R.S., 1985, c. 30 (4th Supp.), s. 7; 1999, c. 18, s. 101; 2018, c. 27, s. 31.
 
 
 
@@ -195,12 +201,12 @@
 
 **8** 
 
-- **(1)** If a request for mutual legal assistance is made under an agreement, the Minister may not give effect to the request by means of the provisions of this Part unless the agreement provides for mutual legal assistance with respect to the subject-matter of the request.
+- **(1)** If a request for mutual legal assistance is made under an agreement, the Minister may not give effect to the request by means of the provisions of this Part unless the agreement provides for assistance with respect to the subject-matter of the request.
 
 **Request by state or entity in schedule**
 
 - **(2)** If a request for mutual legal assistance is made by a state or entity whose name appears in the schedule, the Minister may give effect by means of the provisions of this Part to a request with respect to any subject-matter.
-> R.S., 1985, c. 30 (4th Supp.), s. 8; 1999, c. 18, s. 101.
+> R.S., 1985, c. 30 (4th Supp.), s. 8; 1999, c. 18, s. 101; 2018, c. 27, s. 32.
 
 
 
@@ -790,6 +796,25 @@ On being filed, the order shall be entered as a judgment of that court.
 
 **22.05** Section 487.0198 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies to everyone who is subject to an order made under subsection 22.03(1) in the manner provided for under any of sections 487.015 to 487.018 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 > 2014, c. 31, s. 41.
+
+
+
+
+
+**Orders to gather tax information**
+
+**22.06** 
+
+- **(1)** A judge of the province to whom an application is made under subsection 17(2) with respect to an investigation or prosecution relating to an act or omission that, if it had occurred in Canada, would have constituted an offence referred to in subsection 462.48(1.1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may make an order for the gathering of the information or documents referred to in paragraph 462.48(2)(c) of that Act.
+
+**[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies**
+
+- **(2)** Subject to subsection (3), an order made under subsection (1) may be obtained and made in accordance with subsections 462.48(1) to (5) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and executed in the manner provided for in that Act, with any necessary modifications.
+
+**Provisions applicable to order**
+
+- **(3)** Paragraphs 18(2)(b) and (c), subsections 18(3) to (9) and sections 19 to 22, other than paragraph 19(1)(a), apply, with any necessary modifications, in respect of an order made under subsection (1) and prevail over any provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that are inconsistent with them.
+> 2018, c. 27, s. 33.
 
 
 
