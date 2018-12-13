@@ -299,7 +299,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### Canada Labour Code
 
 
-**42 and 43** [Amendments]
+**42** [Amendment]
+
+
+
+**43** [Repealed, 2018, c. 27, s. 529]
 
 
 
