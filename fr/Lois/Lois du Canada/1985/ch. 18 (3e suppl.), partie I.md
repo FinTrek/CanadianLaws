@@ -794,7 +794,17 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Certificat du surintendant**
 
 - **(2)** Tout document apparemment délivré par le surintendant et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 37; 2001, ch. 9, art. 476.
+
+**Interdiction d’utiliser un renseignement protégé**
+
+- **(3)** Il est interdit au surintendant d’utiliser un renseignement protégé comme élément de preuve dans le cadre d’une procédure en violation si ce renseignement lui a été communiqué :
+	- **a)** par une institution financière, une société de portefeuille bancaire ou une société de portefeuille d’assurances;
+	- **b)** par une personne qui contrôle une entité visée à l’alinéa a) ou par une entité qui appartient au groupe de l’entité.
+
+**Définition de renseignement protégé**
+
+- **(4)** Au paragraphe (3), ***renseignement protégé*** s’entend d’un renseignement protégé par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 37; 2001, ch. 9, art. 476; 2018, ch. 27, art. 167.
 
 
 
