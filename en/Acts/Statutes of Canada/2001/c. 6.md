@@ -906,12 +906,18 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **Liability for pollution and related costs**
 
-**51** The liability of the owner of a ship in relation to preventive measures, for the purposes of the Civil Liability Convention, also includes
-- **(a)** the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
-- **(b)** in relation to oil, the costs and expenses incurred by
-	- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
-	- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
-> 2001, c. 6, s. 51, c. 26, s. 324; 2009, c. 21, s. 11.
+**51** 
+
+- **(1)** The liability of the owner of a ship in relation to preventive measures, for the purposes of the Civil Liability Convention, also includes
+	- **(a)** the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+	- **(b)** in relation to oil, the costs and expenses incurred by
+		- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
+		- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
+
+**Liability — grave and imminent threat of pollution damage**
+
+- **(2)** For the purposes of subsection (1), with respect to the costs and expenses incurred by the Minister of Fisheries and Oceans or any other person, including in respect of preventive measures referred to in paragraph (1)(b), the owner of a ship is liable only for the costs and expenses related to an occurrence — or series of occurrences having the same origin — that causes pollution damage or creates a grave and imminent threat of causing such damage.
+> 2001, c. 6, s. 51, c. 26, s. 324; 2009, c. 21, s. 11; 2018, c. 27, s. 713.
 
 
 
@@ -1185,12 +1191,18 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **Liability for pollution and related costs**
 
-**71** The liability of the owner of a ship in relation to preventive measures, for the purposes of the Bunkers Convention, also includes
-- **(a)** the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the Canada Shipping Act, 2001, any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of bunker oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
-- **(b)** in relation to bunker oil, the costs and expenses incurred by
-	- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
-	- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
-> 2001, c. 6, s. 71; 2009, c. 21, s. 11.
+**71** 
+
+- **(1)** The liability of the owner of a ship in relation to preventive measures, for the purposes of the Bunkers Convention, also includes
+	- **(a)** the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the Canada Shipping Act, 2001, any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of bunker oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+	- **(b)** in relation to bunker oil, the costs and expenses incurred by
+		- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
+		- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
+
+**Liability — grave and imminent threat of pollution damage**
+
+- **(2)** For the purposes of subsection (1), with respect to the costs and expenses incurred by the Minister of Fisheries and Oceans or any other person, including in respect of preventive measures referred to in paragraph (1)(b), the owner of a ship is liable only for the costs and expenses related to an occurrence — or series of occurrences having the same origin — that causes pollution damage or creates a grave and imminent threat of causing such damage.
+> 2001, c. 6, s. 71; 2009, c. 21, s. 11; 2018, c. 27, s. 714.
 
 
 
@@ -1379,9 +1391,17 @@ but does not include an air cushion vehicle or a floating platform constructed f
 - **(1)** The owner of a ship is liable
 	- **(a)** for oil pollution damage from the ship;
 	- **(b)** for the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or any other person in Canada in respect of measures taken to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
-	- **(c)** for the costs and expenses incurred by
+	- **(c)** in relation to pollutants, for the costs and expenses incurred by
 		- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
 		- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
+
+**Liability — grave and imminent threat of pollution damage**
+
+- **(1.1)** For the purposes of subsection (1), with respect to the costs and expenses incurred by the Minister of Fisheries and Oceans or any other person, including in respect of preventive measures referred to in paragraph (1)(c), the owner of a ship is liable only for the costs and expenses related to an occurrence — or series of occurrences having the same origin — that causes pollution damage or creates a grave and imminent threat of causing such damage.
+
+**Words and expressions defined**
+
+- **(1.2)** For the purposes of subsection (1.1), words and expressions used in that subsection have the same meaning as in the Civil Liability Convention, as defined in subsection 47(1).
 
 **Liability for environmental damage**
 
@@ -1409,7 +1429,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 		- **(i)** three years after the day on which the pollution damage occurs, and
 		- **(ii)** six years after the occurrence that causes the pollution damage or, if the pollution damage is caused by more than one occurrence having the same origin, six years after the first of the occurrences; or
 	- **(b)** if no pollution damage occurs, within six years after the occurrence.
-> 2001, c. 6, s. 77; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 77; 2009, c. 21, s. 11; 2018, c. 27, s. 715.
 
 
 
@@ -1645,29 +1665,33 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 - **(1)** The following definitions apply in this Part.
 
-***discharge***, in relation to oil, means a discharge of oil that directly or indirectly results in the oil entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
+***discharge***, in relation to oil, means a discharge of oil that directly or indirectly results in the oil entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping. (*rejet*)
 
-***in bulk*** means in a hold or tank that is part of a ship’s structure, without any intermediate form of containment.
+***in bulk*** means in a hold or tank that is part of a ship’s structure, without any intermediate form of containment. (*en vrac*)
 
-***oil*** means oil of any kind or in any form and includes petroleum, fuel oil, sludge, oil refuse and oil mixed with wastes but does not include dredged spoil.
+***oil*** means oil of any kind or in any form and includes petroleum, fuel oil, sludge, oil refuse and oil mixed with wastes but does not include dredged spoil. (*hydro­carbures*)
 
-***oil pollution damage***, in relation to a ship, means loss or damage outside the ship caused by contamination resulting from the discharge of oil from the ship.
+***oil pollution damage***, in relation to a ship, means loss or damage outside the ship caused by contamination resulting from the discharge of oil from the ship. (*dommages dus à la pollution par les hydrocarbures*)
 
 ***owner***
 - **(a)** in relation to a ship subject to the Civil Liability Convention, has the same meaning as in Article I of that Convention;
 - **(b)** in relation to a ship subject to the Bunkers Convention, has the same meaning as the definition ***Shipowner*** in Article 1 of that Convention; and
-- **(c)** in relation to any other ship, means the person who has for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use.
+- **(c)** in relation to any other ship, means the person who has for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use. (*propriétaire*)
 
-***ship*** means any vessel or craft designed, used or capable of being used solely or partly for navigation, without regard to its method of propulsion or lack of propulsion, and includes
+***receiver*** means a receiver as defined in paragraph 4(a) of Article 1 of the Hazardous and Noxious Substances Convention. (*réceptionnaire*)
+
+***ship*** means any vessel or craft designed, used or capable of being used solely or partly for navigation, without regard to its method of propulsion or lack of propulsion, and includes
 - **(a)** a ship in the process of construction from the time that it is capable of floating; and
-- **(b)** a ship that has been stranded, wrecked or sunk and any part of a ship that has broken up.
+- **(b)** a ship that has been stranded, wrecked or sunk and any part of a ship that has broken up. (*navire*)
 
-***Ship-source Oil Pollution Fund*** means the Ship-source Oil Pollution Fund continued by section 92.
+***Ship-source Oil Pollution Fund*** means the Ship-source Oil Pollution Fund continued by section 92. (*Caisse d’indemnisation*)
+
+***significant incident*** means a discharge of oil that, due to its severity, size or location and to its impact — actual or potential — on the environment, requires extraordinary resources to respond to it. (*événement significatif*) 
 
 **Other definitions**
 
-- **(2)** In this Part, ***Bunkers Convention***, ***Civil Liability Convention***, ***Fund Convention***, ***Hazardous and Noxious Substances Convention***, ***HNS Fund***, ***International Fund***, ***Supplementary Fund*** and ***Supplementary Fund Protocol*** have the same meaning as in subsection 47(1).
-> 2001, c. 6, s. 91; 2009, c. 21, s. 11; 2014, c. 29, s. 40.
+- **(2)** In this Part, Bunkers Convention, Civil Liability Convention, Fund Convention, Hazardous and Noxious Substances Convention, HNS Fund, International Fund, Supplementary Fund and Supplementary Fund Protocol have the same meaning as in subsection 47(1).
+> 2001, c. 6, s. 91; 2009, c. 21, s. 11; 2014, c. 29, s. 40; 2018, c. 27, s. 716.
 
 
 
@@ -1686,20 +1710,25 @@ but does not include an air cushion vehicle or a floating platform constructed f
 **Credits**
 
 - **(2)** The following shall be credited to the Ship-source Oil Pollution Fund:
-	- **(a)** all payments received under sections 112 and 115;
-	- **(b)** interest computed in accordance with section 93; and
-	- **(c)** any amounts recovered by the Administrator under paragraph 106(3)(c).
+	- **(a)** all payments received under sections 114.1 and 114.2 and amounts recovered under section 115;
+	- **(b)** interest computed in accordance with section 93;
+	- **(b.1)** the amount of every sum credited to that Fund under section 93.1 or subsection 111(1) or 111.1(1), (2) or (3);
+	- **(c)** any amounts recovered by the Administrator under paragraph 106(3)(c) or 106.3(5)(b);
+	- **(d)** any amounts received by the Administrator further to the notice given under subsection 106.4(3) or paragraph 106.6(1)(b) or recovered under section 106.7; and
+	- **(e)** interest computed in accordance with section 111.2.
 
 **Charges**
 
 - **(3)** The following shall be charged to the Ship-source Oil Pollution Fund:
-	- **(a)** all amounts that are directed by the Administrator to be paid under paragraph 106(3)(a) or 108(1)(a), subsection 108(6) or section 117 or under a settlement;
-	- **(b)** all amounts for which the Administrator is liable under subsection 117(3);
+	- **(a)** an amount equal to every amount required to repay, in accordance with any terms and conditions specified by the Minister of Finance, an amount charged to the Consolidated Revenue Fund under section 93.1;
+	- **(a.1)** all amounts that are directed to be paid under paragraph 106(3)(a), subsection 106.3(4), paragraph 108(1)(a), subsection 108(6) or section 117 or under a settlement;
+	- **(a.2)** all amounts that are charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2);
+	- **(b)** all amounts for which the Administrator is liable under subsection 117.2(4);
 	- **(c)** all interest to be paid under section 116;
-	- **(d)** all costs and expenses that are directed to be paid under section 98;
+	- **(d)** every amount paid out of the Consolidated Revenue Fund under subsection 98(1.2);
 	- **(e)** the remuneration and expenses of assessors that are directed to be paid under subsection 108(2); and
-	- **(f)** the amount of any judgment and any costs awarded against that Fund in litigation.
-> 2001, c. 6, s. 92; 2009, c. 21, s. 11.
+	- **(f)** the amount of any judgment and any costs awarded against the Ship-source Oil Pollution Fund in litigation.
+> 2001, c. 6, s. 92; 2009, c. 21, s. 11; 2018, c. 27, s. 717.
 
 
 
@@ -1709,6 +1738,15 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **93** The Minister of Finance shall, at the times that the Governor in Council directs, credit to the Ship-source Oil Pollution Fund interest at a rate fixed by the Governor in Council on the balance from time to time of that Fund.
 > 2001, c. 6, s. 93; 2009, c. 21, s. 11.
+
+
+
+
+
+**Consolidated Revenue Fund**
+
+**93.1** If the amount to the credit of the Ship-source Oil Pollution Fund is insufficient to pay any amount that is charged to that Fund under any of paragraphs 92(3)(a) to (f), the Minister of Finance may, subject to any terms and conditions that he or she considers appropriate, direct that a sum equal to the amount required to be paid be charged to the Consolidated Revenue Fund and credited to the Ship-source Oil Pollution Fund.
+> 2018, c. 27, s. 718.
 
 
 
@@ -1761,31 +1799,39 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
-**Independent of Crown**
+**Conflict of interest**
 
 **97** 
 
-- **(1)** The Administrator or Deputy Administrator shall not, while holding office, accept or hold any office or employment inconsistent with his or her duties and functions under this Part.
+- **(1)** The Administrator or Deputy Administrator shall not accept or hold any office or employment, or carry on any activity, that is inconsistent with his or her powers, duties and functions under this Part.
 
-**Effect of contravention of subsection (1)**
+**Effect of contravention**
 
-- **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a date fixed by the Governor in Council that is not later than 30 days after notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, on behalf of the Ship-source Oil Pollution Fund between the date of the contravention and the date that the appointment is terminated.
-> 2001, c. 6, s. 97; 2009, c. 21, s. 11.
-
-
+- **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a date fixed by the Governor in Council that is not later than 30 days after the day on which the notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, under this Part between the date of the contravention and the date that the appointment is terminated.
+> 2001, c. 6, s. 97; 2009, c. 21, s. 11; 2018, c. 27, s. 719.
 
 
 
-**Costs, expenses and fees**
+
+
+**Remuneration**
 
 **98** 
 
-- **(1)** On the direction of the Minister of Finance, all costs and expenses incurred by the Administrator and the Deputy Administrator in performing their duties and functions under this Part, and any fees for services rendered by the Administrator or Deputy Administrator calculated in accordance with a tariff prescribed by the regulations, shall be paid out of the Consolidated Revenue Fund and charged to the Ship-source Oil Pollution Fund.
+- **(1)** The Administrator and the Deputy Administrator are to be paid, for the exercise of their powers and the performance of their duties and functions, the remuneration fixed by the Governor in Council.
+
+**Travelling, living and other expenses**
+
+- **(1.1)** The Administrator and the Deputy Administrator are to be paid, in accordance with Treasury Board directives, reasonable travel, living and other expenses incurred in exercising their powers or performing their duties and functions under this Part while absent from their ordinary place of work.
+
+**Payment out of Consolidated Revenue Fund**
+
+- **(1.2)** On the direction of the Minister of Finance, the remuneration and expenses referred to in subsections (1) and (1.1) and all other costs and expenses incurred by the Administrator and the Deputy Administrator in exercising their powers and performing their duties and functions under this Part are to be paid out of the Consolidated Revenue Fund and charged to the Ship-source Oil Pollution Fund as provided for by paragraph 92(3)(d).
 
 **Taxation**
 
-- **(2)** The Admiralty Court’s assessment officers may, at the request of the Minister of Justice, tax any account for costs, expenses or fees submitted by the Administrator or Deputy Administrator to the Minister of Finance as if the Administrator or Deputy Administrator were acting for the Crown in proceedings in that Court, but, on any such taxation, no fee may be allowed in excess of that set out in the tariff referred to in subsection (1).
-> 2001, c. 6, s. 98; 2009, c. 21, s. 11.
+- **(2)** The Admiralty Court’s assessment officers may, at the Minister of Justice’s request, tax any account for costs and expenses, other than expenses referred to in subsection (1.1), incurred by the Administrator and the Deputy Administrator in exercising their powers or performing their duties and functions as if they were acting for Her Majesty in proceedings in that Court.
+> 2001, c. 6, s. 98; 2009, c. 21, s. 11; 2018, c. 27, s. 719.
 
 
 
@@ -1819,11 +1865,15 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
+#### Process for Claims
+
+
+
 **Liability of Ship-source Oil Pollution Fund**
 
 **101** 
 
-- **(1)** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable for the matters referred to in sections 51, 71 and 77 in relation to oil, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention, if
+- **(1)** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable in relation to oil for the matters referred to in sections 51, 71 and 77, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention in respect of any kind of loss, damage, costs or expenses — including economic loss caused by oil pollution suffered by persons whose property has not been polluted — if
 	- **(a)** all reasonable steps have been taken to recover payment of compensation from the owner of the ship or, in the case of a ship within the meaning of Article I of the Civil Liability Convention, from the International Fund and the Supplementary Fund, and those steps have been unsuccessful;
 	- **(b)** the owner of a ship is not liable by reason of any of the defences described in subsection 77(3), Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention and neither the International Fund nor the Supplementary Fund are liable;
 	- **(c)** the claim exceeds
@@ -1835,6 +1885,10 @@ but does not include an air cushion vehicle or a floating platform constructed f
 	- **(g)** the cause of the oil pollution damage is unknown and the Administrator has been unable to establish that the occurrence that gave rise to the damage was not caused by a ship; or
 	- **(h)** the Administrator is a party to a settlement under section 109.
 
+**Additional liability of Ship-source Oil Pollution Fund**
+
+- **(1.1)** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable for the costs and expenses incurred by the Minister of Fisheries and Oceans or any other person in respect of measures taken under subsection 180(1) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) with respect to oil, or for loss or damage caused by those measures, for which neither the owner of a ship, the International Fund nor the Supplementary Fund is liable by reason of the fact that the occurrence or series of occurrences for which those costs and expenses were incurred did not create a grave and imminent threat of causing oil pollution damage.
+
 **Exception — drilling activities**
 
 - **(2)** This Part does not apply to a drilling ship that is on location and engaged in the exploration or exploitation of the seabed or its subsoil in so far as an escape or discharge of oil emanates from those activities.
@@ -1842,7 +1896,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 **Exception — floating storage units**
 
 - **(3)** This Part does not apply to a floating storage unit or floating production, storage and off­loading unit unless it is carrying oil as a cargo on a voyage to or from a port or terminal outside an offshore oil field.
-> 2001, c. 6, s. 101; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 101; 2009, c. 21, s. 11; 2018, c. 27, s. 721.
 
 
 
@@ -1853,19 +1907,19 @@ but does not include an air cushion vehicle or a floating platform constructed f
 **102** 
 
 - **(1)** If there is an occurrence that gives rise to the liability of an owner of a ship under section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention,
-	- **(a)** the Administrator may, either before or after receiving a claim under section 103, commence an action *in rem* against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court; and
+	- **(a)** the Administrator may, either before or after receiving a claim under section 103 or 106.1, commence an action *in rem* against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court; and
 	- **(b)** subject to subsection (3), the Administrator is entitled in any such action to claim security in an amount not less than the owner’s maximum aggregate liability determined in accordance with section 71 or 77, or Article V of the Civil Liability Convention.
 
 **Subrogation**
 
-- **(2)** The Administrator may continue the action only if he or she has become subrogated to the rights of the claimant under paragraph 106(3)(c).
+- **(2)** The Administrator may continue the action only if he or she has become subrogated to the rights of the claimant under paragraph 106(3)(c) or 106.3(5)(b).
 
 **Entitlement to claim security**
 
 - **(3)** The Administrator is not entitled to claim security under subsection (1) if
 	- **(a)** in the case of a ship within the meaning of Article I of the Civil Liability Convention, a fund has been constituted under subsection 52(2); and
 	- **(b)** in the case of any other ship, a fund has been constituted under Article 11 of the Convention as defined in section 24.
-> 2001, c. 6, s. 102; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 102; 2009, c. 21, s. 11; 2018, c. 27, s. 722.
 
 
 
@@ -1875,18 +1929,26 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **103** 
 
-- **(1)** In addition to any right against the Ship-source Oil Pollution Fund under section 101, a person who has suffered loss or damage or incurred costs or expenses referred to in section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention in respect of actual or anticipated oil pollution damage may file a claim with the Administrator for the loss, damage, costs or expenses.
+- **(1)** In addition to any right against the Ship-source Oil Pollution Fund under section 101, a person may file a claim with the Administrator for the loss, damage, costs or expenses if the person has suffered loss or damage, or incurred costs or expenses, referred to in section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention in respect of any kind of loss, damage, costs or expenses arising out of actual or anticipated oil pollution damage, including economic loss caused by oil pollution suffered by persons whose property has not been polluted.
 
-**Limitation period**
+**Claims filed with Administrator — costs or expenses under subsection 101(1.1)**
 
-- **(2)** Unless the Admiralty Court fixes a shorter period under paragraph 111(a), a claim must be made
+- **(1.1)** In addition to any right against the Ship-source Oil Pollution Fund under subsection 101(1.1), if the Minister of Fisheries and Oceans or any other person has suffered loss or damage, or incurred costs or expenses, referred to in that subsection, that Minister or that person may file a claim with the Administrator for the loss, damage, costs or expenses.
+
+**Limitation or prescription period**
+
+- **(2)** The claim must be made
 	- **(a)** within two years after the day on which the oil pollution damage occurs and five years after the occurrence that causes that damage; or
 	- **(b)** if no oil pollution damage occurs, within five years after the occurrence in respect of which oil pollution damage is anticipated.
 
+**Multiple occurrences**
+
+- **(2.1)** For the purposes of subsection (2), if an incident as a result of which oil pollution damage occurs or in respect of which oil pollution damage is anticipated consists of a series of occurrences, the period of five years referred to in that subsection begins on the day of the first occurrence in that series.
+
 **Exception**
 
-- **(3)** Subsection (1) does not apply to a response organization referred to in paragraph 51(a), 71(a) or 77(1)(b) or a person in a state other than Canada.
-> 2001, c. 6, s. 103, c. 26, s. 324; 2009, c. 21, s. 11.
+- **(3)** Subsections (1) and (1.1) do not apply to a response organization referred to in paragraph 51(1)(a), 71(1)(a) or 77(1)(b) or to a person in a state other than Canada.
+> 2001, c. 6, s. 103, c. 26, s. 324; 2009, c. 21, s. 11; 2018, c. 27, s. 723.
 
 
 
@@ -1918,7 +1980,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 **Factors to be considered**
 
 - **(3)** When investigating and assessing a claim, the Administrator may consider only
-	- **(a)** whether it is for loss, damage, costs or expenses referred to in subsection 103(1); and
+	- **(a)** whether it is for loss, damage, costs or expenses referred to in subsection 103(1) or (1.1), as the case may be; and
 	- **(b)** whether it resulted wholly or partially from
 		- **(i)** an act done or omitted to be done by the claimant with intent to cause damage, or
 		- **(ii)** the claimant’s negligence.
@@ -1932,7 +1994,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 - **(5)** The Administrator shall reduce or nullify any amount that he or she would have otherwise assessed in proportion to the degree to which he or she is satisfied that the claim resulted from
 	- **(a)** an act done or omitted to be done by the claimant with intent to cause damage; or
 	- **(b)** the claimant’s negligence.
-> 2001, c. 6, s. 105; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 105; 2009, c. 21, s. 11; 2018, c. 27, s. 724.
 
 
 
@@ -1961,6 +2023,194 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
+#### Expedited Process for Small Claims
+
+
+
+**Expedited claims — small amounts**
+
+**106.1** 
+
+- **(1)** A person may file a claim with the Administrator under this section if the claim meets the following conditions:
+	- **(a)** the claim is for loss, damage, costs or expenses referred to in subsection 103(1) — other than economic loss referred to in that subsection — or (1.1) suffered or incurred by the claimant;
+	- **(b)** the claim is the first one that the claimant has filed in respect of a given occurrence for loss, damage, costs or expenses referred to in paragraph (a) and does not exceed $35,000 or, if any other amount is fixed by regulations made under paragraph 106.8(b), that amount; and
+	- **(c)** the claim did not result, wholly or partially, from an act done or omitted to be done by the claimant with intent to cause damage or from the claimant’s negligence.
+
+**Contents of claim**
+
+- **(2)** The claim must set out
+	- **(a)** a description of the occurrence that gives rise to the claim, as well as of the loss or damage suffered, or costs or expenses incurred, by the claimant that the claim is for;
+	- **(b)** the amount claimed for the loss, damage, costs and expenses;
+	- **(c)** the claimant’s attestation to
+		- **(i)** the truth of the facts set out in the claim,
+		- **(ii)** their having no reason to believe that the occurrence was not caused by a ship,
+		- **(iii)** their ability to provide the Administrator, on request, with supporting documents in respect of the loss, damage, costs or expenses, and
+		- **(iv)** any other information prescribed by the regulations; and
+	- **(d)** any other information prescribed by the regulations.
+
+**Significant incident — increased claim limit**
+
+- **(3)** If, in the Administrator’s opinion, a discharge of oil from a ship constitutes a significant incident, the Administrator may, by order, specify that the amount set out in paragraph (1)(b) for a claim in respect of that significant incident is $50,000 or, if any other amount is fixed by regulations made under paragraph 106.8(d), that amount. If the Administrator makes the order, then he or she shall ensure that a notice to that effect is made available to the public.
+
+**Limitation or prescription period**
+
+- **(4)** A claim under subsection (1) must be made
+	- **(a)** within one year after the day of the occurrence that causes the oil pollution damage; or
+	- **(b)** if no oil pollution damage occurs, within one year after the occurrence in respect of which oil pollution damage is anticipated.
+
+**Multiple occurrences**
+
+- **(5)** For the purposes of subsection (4), if an incident as a result of which oil pollution damage occurs or in respect of which oil pollution damage is anticipated consists of a series of occurrences, the one-year period referred to in that subsection is the year after the day of the first occurrence in that series.
+
+**Exception**
+
+- **(6)** Subsection (1) does not apply to a response organization referred to in paragraph 51(1)(a), 71(1)(a) or 77(1)(b) or to a person in a state other than Canada.
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Liability — exception**
+
+**106.2** Section 106.1 does not apply in respect of actual or anticipated oil pollution damage on or in any place referred to in paragraph 104(a) or (b).
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Administrator’s duties**
+
+**106.3** 
+
+- **(1)** Within 60 days beginning on the day of receipt of a claim under subsection 106.1(1), the Administrator shall assess the claim.
+
+**Disallowance of claim**
+
+- **(2)** If the Administrator has reason to suspect that the claim does not meet one or more of the conditions set out in subsection 106.1(1) or does not comply with subsection 106.1(2), the Administrator shall, within the 60-day period, disallow the claim and notify the claimant of its disallowance in writing.
+
+**Disallowed claim — other rights unaffected**
+
+- **(3)** The disallowance of a claim under subsection (2) does not prevent the claimant from exercising their rights under this Act — other than under section 106.1 — in respect of the loss, damage, costs and expenses for which the disallowed claim was filed.
+
+**Payment of claim**
+
+- **(4)** If the Administrator does not have reason to suspect that the claim does not meet one or more of the conditions set out in subsection 106.1(1) or does not comply with subsection 106.1(2), the Administrator shall, within the period referred to in subsection (1), direct payment to be made to the claimant of the amount of the claim out of the Ship-source Oil Pollution Fund.
+
+**Subrogation**
+
+- **(5)** Once the Administrator directs the payment to be made,
+	- **(a)** the claimant is precluded from pursuing any rights — except for economic loss referred to in subsection 103(1) — that they may have had against the Ship-source Oil Pollution Fund or any person in respect of matters referred to in sections 51, 71 and 77, subsections 101(1.1) and 103(1.1), Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention in relation to the occurrence to which the payment relates; and
+	- **(b)** the Administrator is, to the extent of the payment to the claimant, subrogated to any of the claimant’s rights for any part of that payment that may be recovered from the owner of the ship, the International Fund, the Supplementary Fund or any other person liable.
+
+**Recovery of amount of payment**
+
+- **(6)** If the Administrator directs a payment to be made under subsection (4), he or she shall take all reasonable measures to recover the part of the payment referred to in paragraph (5)(b) and, for that purpose, may, among other things, commence an action in the Administrator’s or the claimant’s name, commence a claim against the fund of the owner of a ship established under the Civil Liability Convention and enforce any security provided to or enforceable by the claimant.
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Supporting documents**
+
+**106.4** 
+
+- **(1)** If the Administrator directs a payment to be made to a claimant under subsection 106.3(4), the Administrator may, within three years after the day of the occurrence in respect of which the payment was directed to be made, request the claimant to provide the Administrator with the supporting documents referred to in subparagraph 106.1(2)(c)(iii).
+
+**Period**
+
+- **(2)** If the Administrator requests supporting documents under subsection (1), the claimant must provide them to the Administrator within 30 days beginning on the day on which the claimant receives the request or within any longer period agreed to by the Administrator and the claimant.
+
+**Failure to provide supporting documents**
+
+- **(3)** If the claimant does not provide the Administrator with the supporting documents within the applicable period, the Administrator may give the claimant a notice that they are required to repay to the Administrator the amount of the payment made to them under subsection 106.3(4), in the manner and within the period set out in the notice.
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Post-payment investigation and reassessment**
+
+**106.5** 
+
+- **(1)** The Administrator may, within three years after the day of the occurrence in respect of which the claim was made, investigate and reassess any claim for which a payment was made under subsection 106.3(4).
+
+**Administrator’s powers**
+
+- **(2)** For the purpose of investigating and reassessing a claim, the Administrator has the powers of a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
+
+**Factors to be considered**
+
+- **(3)** When investigating and reassessing a claim, the Administrator may consider only whether the claim meets the conditions set out in subsection 106.1(1).
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Result of investigation and reassessment**
+
+**106.6** 
+
+- **(1)** As soon as feasible after completing the investigation and reassessment, the Administrator shall give the claimant notice that
+	- **(a)** the Administrator will take no further action in respect of the claimant’s claim; or
+	- **(b)** the claimant is required to pay to the Administrator the overpayment set out in the notice, in the manner and within the period set out in the notice.
+
+**Overpayments**
+
+- **(2)** The following amounts paid under subsection 106.3(4) constitute an overpayment to the claimant:
+	- **(a)** an amount paid in respect of a claim that the Administrator is satisfied was not for loss, damage, costs or expenses referred to in paragraph 106.1(1)(a);
+	- **(b)** an amount that was paid in respect of a claim that the Administrator is satisfied was not the first one that the claimant has filed in respect of a given occurrence for loss, damage, costs or expenses referred to in that paragraph;
+	- **(c)** an amount that was paid in respect of a claim that the Administrator is satisfied resulted from an act done or omitted to be done by the claimant with intent to cause damage or from the claimant’s negligence; and
+	- **(d)** an amount that was paid in respect of a claim, if the Administrator is satisfied on the evidence that the occurrence that gave rise to the claim was not caused by a ship.
+
+**Overpayments — limitation or prescription period exceeded**
+
+- **(3)** The Administrator may, in his or her discretion, determine that an amount paid under subsection 106.3(4) constitutes an overpayment to the claimant if the Administrator is satisfied that the amount was paid in respect of a claim that was not filed within the period set out in subsection 106.1(4).
+
+**Appeal to Admiralty Court**
+
+- **(4)** A claimant may, within 60 days after receiving a notice under paragraph (1)(b), appeal to the Admiralty Court the requirement to pay the overpayment set out in the notice referred to in that paragraph.
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Debts due to Her Majesty**
+
+**106.7** Unless the claimant under subsection 106.1(1) is a minister of the Crown in right of Canada, all amounts and overpayments payable under subsection 106.4(3) or paragraph 106.6(1)(b), respectively, constitute debts due to Her Majesty in right of Canada that may be recovered in a court of competent jurisdiction from the person who is required to pay them.
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Regulations**
+
+**106.8** The Governor in Council may make regulations
+- **(a)** respecting claims filed under subsection 106.1(1);
+- **(b)** fixing an amount for the purposes of paragraph 106.1(1)(b);
+- **(c)** prescribing information for the purposes of subparagraph 106.1(2)(c)(iv) or paragraph 106.1(2)(d); and
+- **(d)** fixing an amount for the purposes of subsection 106.1(3).
+> 2018, c. 27, s. 725.
+
+
+
+
+
+**Definitions**
+
+**106.9** In sections 106.1 to 106.6, ***incident*** and ***occurrence*** have the meaning assigned by the definition incident in Article I of the Civil Liability Convention.
+> 2018, c. 27, s. 725.
+
+
+
+
+
 ### Claims for Loss of Income
 
 
@@ -1969,7 +2219,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **107** 
 
-- **(1)** In this section, ***fish***, ***fishing*** and ***fishing vessel*** have the same meaning as in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+- **(1)** In this section, fish, fishing and fishing vessel have the same meaning as in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
 
 **Definition of claimant**
 
@@ -1983,7 +2233,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **Filing of claim with Administrator**
 
-- **(3)** Subject to this section, a claimant who suffers or will suffer a loss of income, or in the case of an individual described in paragraph (2)(d), a loss of a source of food or animal skins, resulting from a discharge of oil from a ship that is not recoverable under Part 6 may file a claim with the Administrator for that loss or future loss
+- **(3)** Subject to this section, a claimant who suffers or will suffer a loss of income, or in the case of an individual described in paragraph (2)(d), a loss of a source of food or animal skins, resulting from a discharge of oil from a ship that is not recoverable under Part 6 or any other provision of this Part may file a claim with the Administrator for that loss or future loss
 	- **(a)** within three years after the day on which the discharge of the oil occurs or first occurred, as the case may be, or could reasonably be expected to have become known to the claimant; and
 	- **(b)** within six years after the occurrence that causes the discharge.
 
@@ -1999,10 +2249,8 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 - **(5)** A claimant is not required to satisfy the Administrator that the occurrence was caused by a ship, but the Administrator shall dismiss a claim if he or she is satisfied on the evidence that the occurrence was not caused by a ship.
 
-**Period for filing claim may be shortened**
-
-- **(6)** The Admiralty Court may, by an order made under paragraph 111(a), shorten the period referred to in subsection (3) for filing a claim under that subsection.
-> 2001, c. 6, s. 107; 2009, c. 21, s. 11.
+- **(6)** [Repealed, 2018, c. 27, s. 726]
+> 2001, c. 6, s. 107; 2009, c. 21, s. 11; 2018, c. 27, s. 726.
 
 
 
@@ -2070,48 +2318,95 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
-### Limit of Liability of Ship-source Oil Pollution Fund
+### Emergency Funds
 
 
 
-**Limit of liability in first year**
+**Request by Minister of Fisheries and Oceans for funds — $10 million**
 
 **110** 
 
-- **(1)** The maximum aggregate liability of the Ship-source Oil Pollution Fund under sections 101, 103 and 107 and under any settlement, in respect of any particular occurrence, is
-	- **(a)** $100,000,000 if the occurrence took place in the year ending March 31, 1990; or
-	- **(b)** an amount calculated in accordance with subsection (2), if the occurrence takes place in any following year.
+- **(1)** If, in the opinion of the Minister of Fisheries and Oceans, emergency funds are necessary to respond to a significant incident involving the discharge of oil from a ship, the Minister of Transport may, after consultation with the Administrator, direct the amount of funds requested by the Minister of Fisheries and Oceans, or a lesser amount, to be charged to the Ship-source Oil Pollution Fund to enable the Minister of Fisheries and Oceans to respond to the significant incident, to a maximum of $10 million per fiscal year.
 
-**Annual adjustment of limit of liability**
+**Additional funds — $50 million**
 
-- **(2)** The $100,000,000 limit of liability shall be adjusted annually so that the limit of liability arising out of any given occurrence that takes place in any following year is an amount equal to the product obtained by multiplying
-	- **(a)** the limit of liability that would have been applicable for that following year if no adjustment had been made under this section with respect to that following year
-by
-	- **(b)** the ratio that the Consumer Price Index, excluding the food and energy components, for the 12-month period ending on December 31 next before that following year bears to the Consumer Price Index, excluding the food and energy components, for the 12-month period next before that 12-month period.
+- **(2)** If the maximum amount has been charged to the Ship-source Oil Pollution Fund under subsection (1) and, in the opinion of the Minister of Fisheries and Oceans, additional emergency funds are necessary to respond to a significant incident in that fiscal year involving the discharge of oil from a ship, the Governor in Council may, on the recommendation of the Minister of Transport made after consultation with the Administrator, issue an order in council directing the additional funds requested by the Minister of Fisheries and Oceans, or a lesser amount, to be charged to the Ship-source Oil Pollution Fund to enable the Minister of Fisheries and Oceans to respond to the significant incident, to a maximum of $50 million per fiscal year.
 
-**Consumer Price Index**
+**Exclusions**
 
-- **(3)** For the purpose of this section,
-	- **(a)** a reference to the “Consumer Price Index, excluding the food and energy components,” for any 12-month period means the average of the Consumer Price Index for Canada, excluding the food and energy components, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that 12-month period;
-	- **(b)** the Governor in Council may, on the recommendation of the Minister, make regulations prescribing the manner in which the average of the Consumer Price Index, excluding the food and energy components, for any 12-month period is to be determined and the manner of expressing any such average that is determined to be a fraction of a whole number;
-	- **(c)** if at any time the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), is adjusted to reflect a new time basis, a corresponding adjustment shall be made in the Consumer Price Index, excluding the food and energy components, for any 12-month period that is used for the purpose of calculating the limit of liability of the Ship-source Oil Pollution Fund under this section; and
-	- **(d)** if at any time the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), is modified to reflect a new content basis, that modification does not affect the operation of this section.
+- **(3)** For greater certainty, the Minister of Fisheries and Oceans may not request emergency funds under subsection (1) or (2) for
+	- **(a)** measures taken or to be taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) in respect only of a discharge of oil by a small vessel that is dilapidated or abandoned; or
+	- **(b)** the carrying out by that Minister of only minor monitoring of measures under paragraph 180(1)(b) of that Act.
 
-**Adjusted limit to be published annually**
+**Use of emergency funds**
 
-- **(4)** The Minister shall cause the limit of liability referred to in subsection (1), adjusted in accordance with this section, to be published in the Canada Gazette each year as soon as it is available, and the limit of liability so published is admissible in any proceeding under this Part as conclusive proof of that limit of liability for the year in question.
-> 2001, c. 6, s. 110; 2009, c. 21, s. 11.
+- **(4)** The Minister of Fisheries and Oceans may use emergency funds only to respond to a significant incident involving the discharge of oil from a ship, including paying third parties. For greater certainty, that Minister may not use such funds for any
+	- **(a)** measures taken or to be taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) in respect only of a discharge of oil by a small vessel that is dilapidated or abandoned; or
+	- **(b)** measures referred to in subsection 101(1.1).
+> 2001, c. 6, s. 110; 2009, c. 21, s. 11; 2018, c. 27, s. 727.
 
 
 
 
 
-**Applying to Admiralty Court for directions**
+**Reimbursement of amount of emergency funds**
 
-**111** If the Admiralty Court, on the application of the Administrator and on notice to other interested parties that that Court considers just in the circumstances, is satisfied that, in respect of a particular occurrence, the aggregate liability of the Ship-source Oil Pollution Fund under sections 101, 103 and 107 and subsection 109(2) may exceed its limit of liability under section 110, that Court may
-- **(a)** order the exclusion of any claimants who do not file their claims with the Administrator within the period that that Court directs; and
-- **(b)** order that payment out of the Ship-source Oil Pollution Fund of established claims be prorated or postponed, or any combination of prorating and postponement.
-> 2001, c. 6, s. 111; 2009, c. 21, s. 11.
+**111** 
+
+- **(1)** If emergency funds are charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2), the amount of the emergency funds shall be credited to the Ship-source Oil Pollution Fund, out of appropriations for the Department of Fisheries and Oceans under an appropriation Act, within two years after the day on which the oil pollution damage resulting from the significant incident occurs or within any longer period agreed to by the Administrator and the Minister of Fisheries and Oceans.
+
+**Rights unaffected**
+
+- **(2)** Nothing in subsection (1) affects the rights of the Minister of Fisheries and Oceans under sections 51, 71, 77 and 101, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention with respect to loss and damage suffered, and costs and expenses incurred, in respect of the significant incident.
+> 2001, c. 6, s. 111; 2009, c. 21, s. 11; 2018, c. 27, s. 727.
+
+
+
+
+
+**Claim under section 103**
+
+**111.1** 
+
+- **(1)** If the Minister of Fisheries and Oceans files a claim with the Administrator under section 103 for loss and damage suffered, and costs and expenses incurred, in respect of the significant incident for which emergency funds were charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2), then, despite subsection 111(1), it is only any portion of the emergency funds that is unused at the time of the filing of the claim that is to be credited to the Ship-source Oil Pollution Fund within two years after the day on which the oil pollution damage resulting from the significant incident occurs or within any longer period agreed to by the Administrator and the Minister of Fisheries and Oceans.
+
+**Offer of compensation less than zero**
+
+- **(2)** If the offer of compensation made by the Administrator to the Minister of Fisheries and Oceans under paragraph 105(1)(b) is less than zero, then, unless that Minister appeals the adequacy of the offer under subsection 106(2), an amount equal to the amount of the offer shall be credited to the Ship-source Oil Pollution Fund, out of appropriations for the Department of Fisheries and Oceans under an appropriation Act, within six months after the day on which that Minister receives the offer or within any longer period agreed to by the Administrator and that Minister.
+
+**Offer of compensation refused**
+
+- **(3)** If the Minister of Fisheries and Oceans refuses the offer of compensation made under paragraph 105(1)(b), then, as soon as feasible after that Minister receives the offer, an amount equal to the amount of the emergency funds charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2) shall be credited to the Ship-source Oil Pollution Fund, out of appropriations for the Department of Fisheries and Oceans under an appropriation Act, less any unused portion of the emergency funds credited to the Ship-source Oil Pollution Fund under subsection (1).
+
+**Definition of offer of compensation**
+
+- **(4)** If emergency funds are charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2), then, for the purposes of sections 105, 106 and this section, ***offer of compensation*** means, with respect to the Minister of Fisheries and Oceans, the amount determined in accordance with the formula
+```
+A – (B – C)
+```
+where
+- **A** is the amount that the Administrator assessed under paragraph 105(1)(a);
+- **B** is the amount of emergency funds charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2); and
+- **C** is the amount of any unused portion of emergency funds credited to the Ship-source Oil Pollution Fund under subsection (1).
+> 2018, c. 27, s. 727.
+
+
+
+
+
+**Interest**
+
+**111.2** Interest accrues, at a rate determined in accordance with regulations made under paragraph 155.1(6)(a) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), beginning on the day on which the emergency funds were charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2), on any portion of those funds that are required to be credited to the Ship-source Oil Pollution Fund under subsection 111(1) or 111.1(1) or (2) and have not been so credited within the time within which they are required to be so credited under that subsection.
+> 2018, c. 27, s. 727.
+
+
+
+
+
+**Reports**
+
+**111.3** On request by the Minister of Transport, the Minister of Fisheries and Oceans shall provide the Minister of Transport and the Administrator with information about costs and expenses incurred with emergency funds charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2).
+> 2018, c. 27, s. 727.
 
 
 
@@ -2121,40 +2416,24 @@ by
 
 
 
-**Definition of oil**
+**Definitions**
 
-**112** 
+**112** The definitions in this section apply in sections 113, 114.1, 117.1 and 117.3.
 
-- **(1)** In this section and sections 115 and 118, ***oil*** means ***Contributing Oil*** as defined in paragraph 3 of Article 1 of the Fund Convention if a levy is to be paid under that Convention or as defined in paragraph 7 of Article 1 of the Supplementary Fund Protocol if a levy is to be paid under that Protocol.
+***contributing oil*** has the same meaning as in paragraph 3 of Article 1 of the Fund Convention. (*hydrocarbures donnant lieu à contribution*)
 
-**Levy on shipments of oil in bulk**
-
-- **(2)** If a levy determined in accordance with section 113 is imposed or re-imposed by the Minister under subsection 114(1), it shall be paid to the Receiver General
-	- **(a)** in respect of each metric ton of oil in excess of 300 metric tons imported by ship into Canada in bulk as cargo; and
-	- **(b)** in respect of each metric ton of oil in excess of 300 metric tons shipped from a place in Canada in bulk as cargo of a ship.
-
-**When payable**
-
-- **(3)** The amounts payable under subsection (2) shall be paid, or security for payment of those amounts in an amount and form that is satisfactory to the Minister shall be given,
-	- **(a)** in the case of oil imported by ship into Canada in bulk as cargo, before the oil is unloaded from the ship; and
-	- **(b)** in the case of oil shipped from a place in Canada in bulk as cargo of a ship, before the ship leaves the facility where the oil is loaded on board the ship.
-
-**Debts due to Her Majesty**
-
-- **(4)** All amounts payable under subsection (2) and any interest payable on those amounts are debts due to Her Majesty in right of Canada and are recoverable in any court of competent jurisdiction from
-	- **(a)** in the case of oil imported by ship into Canada in bulk as cargo, the owner, consignee or shipper of the oil; and
-	- **(b)** in the case of oil shipped from a place in Canada in bulk as cargo of a ship, the owner, consignor or shipper of the oil.
-> 2001, c. 6, s. 112; 2009, c. 21, s. 11.
+***non-persistent oil*** means the oils that are referred to in paragraph 1(a)(ii) of Article 19 of the Hazardous and Noxious Substances Convention. (*hydrocarbures non persistants*)
+> 2001, c. 6, s. 112; 2009, c. 21, s. 11; 2018, c. 27, s. 728.
 
 
 
 
 
-**Amount of levy in first year**
+**Amount of levy**
 
 **113** 
 
-- **(1)** The levy referred to in subsection 112(2) is 30 cents in the year ending on March 31, 1990.
+- **(1)** The levy is 52.38 cents in the year ending on March 31, 2019 in respect of each metric ton of contributing oil or non-persistent oil received or exported, as the case may be, in bulk as cargo.
 
 **Annual adjustment of levy**
 
@@ -2173,32 +2452,90 @@ by
 
 **Adjusted levy to be published annually**
 
-- **(4)** The Minister shall cause the levy referred to in subsection 112(2), adjusted in accordance with this section, to be published in the Canada Gazette each year as soon as it is available, and the levy so published is admissible in any proceeding under this Part as conclusive proof of the levy for the year in question.
-> 2001, c. 6, s. 113; 2009, c. 21, s. 11.
+- **(4)** The Minister shall cause the levy referred to in subsection (1) to be published in the Canada Gazette each year as soon as it is adjusted in accordance with this section, and the levy so published is admissible in any proceeding under this Act as conclusive proof of the levy for the year in question.
+> 2001, c. 6, s. 113; 2009, c. 21, s. 11; 2018, c. 27, s. 729.
 
 
 
 
 
-**Discontinuation or re-imposition of levy**
+**Imposition and discontinuation of levy**
 
 **114** 
 
-- **(1)** The Minister, after consultation with the Minister of Fisheries and Oceans and the Minister of the Environment, may, by order, impose, discontinue or re-impose the levy referred to in subsection 112(2).
+- **(1)** The Minister, after consultation with the Minister of Fisheries and Oceans, may, by order, impose, discontinue or re-impose the levy referred to in section 113, indefinitely or until a time specified in the order.
+
+**Contents of order**
+
+- **(1.1)** An order imposing or re-imposing the levy shall set out
+	- **(a)** the day by which an amount equal to the amount of the levy is to be paid in the year in which the levy is imposed or re-imposed; and
+	- **(b)** in respect of each subsequent year — if any — for which the levy is imposed or re-imposed, a reference date for the purposes of the levy in that year.
+
+**Reference date**
+
+- **(1.2)** In any year referred to in paragraph (1.1)(b), the day by which an amount equal to the amount of the levy is to be paid is the 60th day after the reference date, or any other day after the reference date that is specified in the order imposing or re-imposing the levy.
 
 **Annual adjustment of levy unaffected**
 
 - **(2)** The discontinuation of the levy under subsection (1) does not affect the operation of section 113.
-> 2001, c. 6, s. 114; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 114; 2009, c. 21, s. 11; 2018, c. 27, s. 730.
 
 
 
 
 
-**Interest on unpaid amounts**
+**Amount of levy — general rules**
 
-**115** If any portion of a levy is not paid as required by subsection 112(3), interest may be charged on the amount from time to time outstanding, at a rate fixed by the Governor in Council on the recommendation of the Minister of Finance, calculated from the time when the oil is unloaded from the ship or when the ship on which the oil is loaded leaves the facility at which it is loaded, as the case may be.
-> 2001, c. 6, s. 115; 2009, c. 21, s. 11.
+**114.1** 
+
+- **(1)** For the purposes of paragraphs (2)(a) and (b), the amount to be paid under those paragraphs in respect of the levy for a given year is determined by the following rules:
+	- **(a)** in the year in which the levy is imposed or re-imposed by order made under subsection 114(1),
+		- **(i)** the number of metric tons of oil is the number that was required to be reported in the most recent information return that, on the day on which the order is made, was required to be filed under section 117.1, and
+		- **(ii)** the levy referred to in subsection 113(1), as adjusted under subsection 113(2), is the levy that is in effect on the day on which the order is made; and
+	- **(b)** in any subsequent year for which the levy is imposed or re-imposed by the order,
+		- **(i)** the number of metric tons of oil is the number that was required to be reported in the most recent information return that, on the reference date set out in the order for that year, was required to be filed under section 117.1, and
+		- **(ii)** the levy referred to in subsection 113(1), as adjusted under subsection 113(2), is the levy that is in effect on the reference date set out in the order for that year.
+
+**Obligation to pay**
+
+- **(2)** If a levy determined in accordance with section 113 is imposed or re-imposed by an order made under subsection 114(1), then the following persons shall pay to the Receiver General an amount equal to the amount of the levy:
+	- **(a)** every person who is referred to in Article 10 of the Fund Convention; and
+	- **(b)** every person who is a receiver and receives, in a calendar year, more than 20 000 metric tons — or, if any lesser quantity is fixed by regulations made under paragraph 125(b), that quantity — of non-persistent oil in bulk as cargo.
+
+**Definition of person**
+
+- **(3)** In subsection (2), ***person*** includes two or more persons who are associated persons.
+
+**Definition of associated persons**
+
+- **(4)** In subsection (3), ***associated persons*** means
+	- **(a)** persons who are deemed to be associated persons under section 60, in the case of persons who are referred to in Article 10 of the Fund Convention; and
+	- **(b)** persons who are deemed to be associated persons under section 74.3, in the case of persons who are receivers.
+> 2018, c. 27, s. 731.
+
+
+
+
+
+**Additional levy**
+
+**114.2** 
+
+- **(1)** If an amount is charged to the Consolidated Revenue Fund under section 93.1, the Minister may, by order, impose an additional levy — whether or not he or she has made an order under subsection 114(1) imposing or re-imposing a levy — that the Minister specifies in the order on every person referred to in paragraphs 114.1(2)(a) and (b), in which case each of those persons shall pay to the Receiver General, in accordance with the order, an amount equal to the amount of the additional levy.
+
+**Revocation**
+
+- **(2)** If such an order is made, the Minister shall revoke it as soon as feasible after an amount equal to the amount charged to the Consolidated Revenue Fund under section 93.1 has been credited to the Consolidated Revenue Fund out of amounts standing to the credit of the Ship-source Oil Pollution Fund and the Minister is satisfied that the terms and conditions in relation to the charging of that amount under that section have been met.
+> 2018, c. 27, s. 731.
+
+
+
+
+
+**Debt due to Her Majesty**
+
+**115** All amounts payable under sections 114.1 and 114.2 are debts due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction from the person who is required to pay them.
+> 2001, c. 6, s. 115; 2009, c. 21, s. 11; 2018, c. 27, s. 732.
 
 
 
@@ -2230,89 +2567,127 @@ by
 
 - **(1)** The Administrator shall direct payments to be made out of the Ship-source Oil Pollution Fund to the International Fund in accordance with Articles 10, 12 and 13 of the Fund Convention and to the Supplementary Fund in accordance with Articles 10 to 13 of the Supplementary Fund Protocol.
 
-**Meaning of person**
+- **(1.1) to (7)** [Repealed, 2018, c. 27, s. 733]
+> 2001, c. 6, s. 117; 2009, c. 21, s. 11; 2014, c. 29, s. 50; 2018, c. 27, s. 733.
 
-- **(1.1)** For the purposes of subsection (1.2), ***person*** has the same meaning as in Article I of the Civil Liability Convention.
 
-**Information returns — contributing oil**
 
-- **(1.2)** A person who is required to make contributions under Article 10 of the Fund Convention or Article 10 of the Supplementary Fund Protocol shall file with the Minister or the Administrator, in accordance with the regulations, information returns necessary to enable the Administrator to discharge his or her obligations under subsections 117(1) and (2).
 
-**Meaning of receiver**
 
-- **(1.3)** For the purposes of subsection (1.4), the term ***receiver*** has the meaning assigned by paragraph 4(a) of Article 1 of the Hazardous and Noxious Substances Convention.
+**Information returns — receivers**
 
-**Information returns — hazardous and noxious substances**
+**117.1** 
 
-- **(1.4)** Receivers shall file with the Minister or the Administrator, in accordance with the regulations, information returns in respect of quantities of oils, as described in paragraph 5(a)(i) of Article 1 of the Hazardous and Noxious Substances Convention, received.
+- **(1)** The following persons shall file with the Minister or the Administrator, in accordance with the regulations, information returns in respect of the oil in question:
+	- **(a)** every person who is referred to in Article 10 of the Fund Convention; and
+	- **(b)** every person who is a receiver and receives non-persistent oil in a calendar year in a quantity that is greater than that prescribed by regulations made under paragraph (4)(b).
+
+**Definition of person**
+
+- **(2)** In subsection (1), ***person*** includes two or more persons who are associated persons.
+
+**Definition of associated persons**
+
+- **(3)** In subsection (2), ***associated persons*** means
+	- **(a)** persons who are deemed to be associated persons under section 60, in the case of persons who are referred to in Article 10 of the Fund Convention; and
+	- **(b)** persons who are deemed to be associated persons under section 74.3, in the case of persons who are receivers.
 
 **Regulations**
 
-- **(1.5)** The Governor in Council may make regulations respecting information returns for the purposes of subsections (1.2) and (1.4).
+- **(4)** The Governor in Council may make regulations
+	- **(a)** respecting, for the purposes of subsection (1), information returns; and
+	- **(b)** respecting, for the purposes of paragraph (1)(b), a quantity of non-persistent oil.
+> 2018, c. 27, s. 734.
+
+
+
+
 
 **Communication of information**
 
-- **(2)** The Administrator shall communicate to the Minister and
-	- **(a)** the Director of the International Fund, the information referred to in Article 15 of the Fund Convention, in accordance with that Article; or
-	- **(b)** the Director of the Supplementary Fund, the information referred to in Article 13 of the Supplementary Fund Protocol, in accordance with that Article.
+**117.2** 
+
+- **(1)** The Administrator shall,
+	- **(a)** in accordance with Article 15 of the Fund Convention, communicate the information referred to in that Article to the Minister and the Director of the International Fund; and
+	- **(b)** in accordance with Article 13 of the Supplementary Fund Protocol, communicate the information referred to in that Article to the Minister and the Director of the Supplementary Fund.
 
 **Communication to Minister**
 
-- **(2.1)** The Administrator shall communicate to the Minister the information referred to in subsection 74.4(4) that relates to oils described in paragraph 5(a)(i) of Article 1 of the Hazardous and Noxious Substances Convention and that is necessary to enable the Minister to discharge his or her obligation under that subsection.
+- **(2)** The Administrator shall communicate to the Minister the information referred to in subsection 74.4(4) that relates to oils described in paragraph 5(a)(i) of Article 1 of the Hazardous and Noxious Substances Convention and that is necessary to enable the Minister to discharge his or her obligation under that subsection.
 
 **Communication to Minister and Director of HNS Fund**
 
-- **(2.2)** The Administrator shall communicate to the Minister and the Director of the HNS Fund, in accordance with Article 21 of the Hazardous and Noxious Substances Convention, the information referred to in that Article that relates to oils described in paragraph 5(a)(i) of Article 1 of that Convention.
+- **(3)** The Administrator shall, in accordance with Article 21 of the Hazardous and Noxious Substances Convention, communicate to the Minister and the Director of the HNS Fund the information referred to in that Article that relates to oils described in paragraph 5(a)(i) of Article 1 of that Convention.
 
 **Administrator’s liability**
 
-- **(3)** The Administrator is liable for any financial loss to the International Fund or the Supplementary Fund, as the case may be, as a result of a failure to communicate the information.
+- **(4)** The Administrator is liable for any financial loss to the International Fund or the Supplementary Fund, as the case may be, as a result of a failure to communicate the information.
+> 2018, c. 27, s. 734.
+
+
+
+
 
 **Administrator’s powers**
 
-- **(4)** The Administrator may, for the purposes of subsection (1.2), (1.4), (2), (2.1) or (2.2),
-	- **(a)** at any reasonable time, enter a place in which he or she has reasonable grounds to believe there are any records, books of account, accounts, vouchers or other documents relating to information referred to in Article 15 of the Fund Convention, Article 13 of the Supplementary Fund Protocol or Article 21 or 45 of the Hazardous and Noxious Substances Convention, as the case may be;
-	- **(b)** examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that he or she believes, on reasonable grounds, contains any such information; and
-	- **(c)** require the owner, occupier or person in charge of the place to give the Administrator all reasonable assistance in connection with the examination and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at the place with the Administrator.
+**117.3** 
+
+- **(1)** The Administrator may,
+	- **(a)** for the purposes of subsection 117.1(1) or 117.2(1), (2) or (3), at any reasonable time, enter a place in which he or she has reasonable grounds to believe there are any records, books of account, accounts, vouchers or other documents relating to information referred to in Article 15 of the Fund Convention, Article 13 of the Supplementary Fund Protocol or Article 21 or 45 of the Hazardous and Noxious Substances Convention, as the case may be;
+	- **(b)** for the purposes of subsection 117.1(1) or 117.2(1), (2) or (3), examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that he or she has reasonable grounds to believe contains any such information; and
+	- **(c)** for the purposes of subsection 117.1(1) or 117.2(1), (2) or (3), require the owner, occupier or person in charge of the place to give the Administrator all reasonable assistance in connection with the examination and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at the place with the Administrator.
 
 **No obstruction or false statements**
 
-- **(5)** No person shall obstruct or hinder the Administrator in the exercise of any powers under subsection (4) or knowingly make a false or misleading statement, either orally or in writing, to the Administrator while he or she is exercising those powers.
+- **(2)** No person shall knowingly obstruct or hinder the Administrator in the exercise of any powers under subsection (1) or knowingly make a false or misleading statement, either orally or in writing, to the Administrator while he or she is exercising those powers.
 
 **Warrant required to enter dwelling place**
 
-- **(6)** A dwelling place may not be entered under subsection (4) unless it is entered with the occupant’s consent or under the authority of a warrant issued under subsection (7).
+- **(3)** A dwelling place may not be entered under subsection (1) unless it is entered with the occupant’s consent or under the authority of a warrant issued under subsection (4).
 
 **Authority to issue warrant**
 
-- **(7)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the Administrator to enter a dwelling place, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
-	- **(a)** the dwelling place is a place referred to in paragraph (4)(a);
-	- **(b)** entry to the dwelling place is necessary for the purposes of subsection (1.2), (1.4), (2), (2.1) or (2.2); and
+- **(4)** On *ex parte* application, a justice, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the Administrator to enter a dwelling place, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the dwelling place is a place referred to in paragraph (1)(a);
+	- **(b)** entry to the dwelling place is necessary for the purposes of subsection 117.1(1) or 117.2(1), (2) or (3); and
 	- **(c)** entry to the dwelling place has been refused or there are reasonable grounds to believe that it will be refused.
-> 2001, c. 6, s. 117; 2009, c. 21, s. 11; 2014, c. 29, s. 50.
+> 2018, c. 27, s. 734.
 
 
 
 
 
-**Records and books of account**
+**Records — filers of information returns**
 
 **118** 
 
-- **(1)** Every person referred to in subsection 112(4) from whom the levy payable under section 112 may be recovered shall keep at their place of business in Canada, or at any other place in Canada that may be designated by the Minister, records and books of account that set out
-	- **(a)** the amounts that are payable by that person under that section;
-	- **(b)** the type and quantity of the oil in respect of which the amounts referred to in paragraph (a) are payable;
-	- **(c)** the time when and place where the amounts referred to in paragraph (a) were paid or security for their payment was given in accordance with subsection 112(3); and
-	- **(d)** any other information that the Minister may require to determine the amounts referred to in paragraph (a) and the time when they become payable.
+- **(1)** Every person who is required to file information returns under subsection 117.1(1) shall keep at their place of business in Canada, or at any other place in Canada that is designated by the Minister, in relation to the oil that they are required to file information returns in respect of, records that
+	- **(a)** set out the type and quantity of the oil received or exported, as the case may be; and
+	- **(b)** contain any other information or documents that the Minister directs them to provide under section 118.1.
+
+**Records and books of account — payers of levy**
+
+- **(1.1)** Every person referred to in subsection (1) who is required to pay an amount under section 114.1 or 114.2 shall keep at their place of business in Canada, or at any other place in Canada that is designated by the Minister, records and books of account that set out, in addition to the information referred to in subsection (1),
+	- **(a)** the amounts that are payable by that person under section 114.1 or 114.2 in respect of the types and quantities of oil referred to in subsection (1); and
+	- **(b)** proof of payment for each payment made with respect to an amount referred to in paragraph (a), including the date of each payment made.
 
 **Disposal of records**
 
-- **(2)** Every person who is required by this section to keep records and books of account shall, unless otherwise authorized by the Minister, retain those records and books of account, and every account or voucher necessary to verify the information contained in them, until the expiry of six years after the end of the year to which the records or books of account relate.
+- **(2)** Every person who is required by this section to keep records or books of account shall, unless otherwise authorized by the Minister, retain those records or books of account, and every account or voucher necessary to verify the information contained in them, until the expiry of six years after the end of the year to which the records or books of account relate.
 
 **Examination of records**
 
-- **(3)** Every person who is required by this section to keep records and books of account shall, at all reasonable times, make the records and books of account, and every account or voucher necessary to verify the information contained in them, available to any person designated in writing by the Minister and give that person every facility necessary to examine them.
-> 2001, c. 6, s. 118; 2009, c. 21, s. 11.
+- **(3)** Every person who is required by this section to keep records or books of account shall, at all reasonable times, make the records or books of account, and every account or voucher necessary to verify the information contained in them, available to any person designated in writing by the Minister and give that person every facility necessary to examine them.
+> 2001, c. 6, s. 118; 2009, c. 21, s. 11; 2018, c. 27, s. 735.
+
+
+
+
+
+**Power to require information**
+
+**118.1** If the Minister directs that a person referred to in subsection 118(1) provide, in the specified form and within the specified period, information or documents that the Minister considers necessary for the purposes of ensuring compliance with this Part, the person shall provide that information in that form and within that period.
+> 2018, c. 27, s. 736.
 
 
 
@@ -2322,7 +2697,7 @@ by
 
 **119** 
 
-- **(1)** Any person designated in writing by the Minister for the purpose may, at any reasonable time, enter any place where the person believes on reasonable grounds that there are any records, books of account, accounts, vouchers or other documents relating to amounts payable under section 112 and
+- **(1)** Any person so designated in writing by the Minister may, at any reasonable time, enter any place in which the person has reasonable grounds to believe that there are any records, books of account, accounts, vouchers or other documents referred to in section 118 and
 	- **(a)** examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that they believe, on reasonable grounds, contains any information relevant to the enforcement of this Part; and
 	- **(b)** require the owner, occupier or person in charge of the place to give the designated person all reasonable assistance in connection with the examination under paragraph (a) and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at that place with the designated person.
 
@@ -2360,7 +2735,7 @@ by
 **Obstruction and false statements**
 
 - **(9)** No person shall obstruct or hinder anyone engaged in carrying out their duties and functions under this section, or knowingly make a false or misleading statement, either orally or in writing, to any person so engaged.
-> 2001, c. 6, s. 119; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 119; 2009, c. 21, s. 11; 2018, c. 27, s. 737.
 
 
 
@@ -2375,16 +2750,16 @@ by
 **120** 
 
 - **(1)** The Administrator shall cause
-	- **(a)** books of account and records in relation to them to be kept; and
-	- **(b)** control and information systems and management practices, related to financial and management matters, to be maintained.
+	- **(a)** records and books of account to be kept in relation to the Ship-source Oil Pollution Fund; and
+	- **(b)** control and information systems and management practices, in respect of financial and management matters, to be maintained in relation to the Ship-source Oil Pollution Fund.
 
 **Administrator’s responsibilities**
 
-- **(2)** The books, records, systems and practices shall be kept or maintained, as the case may be, in a manner that provides reasonable assurance that
-	- **(a)** the assets of the Ship-source Oil Pollution Fund are safeguarded and controlled;
-	- **(b)** the transactions of the Ship-source Oil Pollution Fund are conducted in accordance with this Part; and
-	- **(c)** the financial, human and physical resources of the Ship-source Oil Pollution Fund are managed economically and efficiently and the operations of that Fund are carried out effectively.
-> 2001, c. 6, s. 120; 2009, c. 21, s. 11.
+- **(2)** The Administrator shall cause the books, records, systems and practices to be kept or maintained, as the case may be, in a manner that provides reasonable assurance that
+	- **(a)** the Administrator’s and Deputy Administrator’s powers, duties and functions under this Part are exercised and performed effectively and in accordance with this Part;
+	- **(b)** the assets used by them are safeguarded and controlled; and
+	- **(c)** the financial, human and physical resources used by them are managed economically and efficiently.
+> 2001, c. 6, s. 120; 2009, c. 21, s. 11; 2018, c. 27, s. 738.
 
 
 
@@ -2394,15 +2769,17 @@ by
 
 **121** 
 
-- **(1)** The Administrator shall, as soon as feasible, but in any case within three months after the end of each fiscal year, submit an annual report, in any form that the Minister may direct, on the Administrator’s operations in that year to the Minister who shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
+- **(1)** The Administrator shall as soon as feasible, but in any case within three months after the end of each fiscal year, submit an annual report, in any form that the Minister directs, on the Administrator’s activities in that year to the Minister, who shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
 
 **Form and content**
 
 - **(2)** The annual report must include
-	- **(a)** the financial statements of the Ship-source Oil Pollution Fund;
-	- **(b)** the auditor’s report with respect to the Ship-source Oil Pollution Fund’s financial statements; and
+	- **(a)** a statement of the amounts charged and credited to the Ship-source Oil Pollution Fund during the fiscal year;
+	- **(a.1)** a statement of the costs and expenses incurred during the fiscal year by the Administrator and the Deputy Administrator in exercising their powers and performing their duties and functions under this Part;
+	- **(a.2)** a statement of the fees for services rendered by the Administrator and the Deputy Administrator during the fiscal year;
+	- **(b)** the auditor’s report with respect to the statements referred to in paragraphs (a) to (a.2); and
 	- **(c)** the costs of preparing the auditor’s report.
-> 2001, c. 6, s. 121; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 121; 2009, c. 21, s. 11; 2018, c. 27, s. 739.
 
 
 
@@ -2412,7 +2789,7 @@ by
 
 **122** 
 
-- **(1)** The Administrator shall cause a special examination to be carried out in respect of the Ship-source Oil Pollution Fund to determine if the Fund’s systems and practices referred to in paragraph 120(1)(b) were, in the period under examination, maintained in a manner that provided reasonable assurance that they met the requirements of paragraphs 120(2)(a) and (c).
+- **(1)** The Administrator shall cause a special examination to be carried out in respect of the Ship-source Oil Pollution Fund to determine if the Fund’s systems and practices referred to in paragraph 120(1)(b) were, in the period under examination, maintained in a manner that provided reasonable assurance that they met the requirements of paragraphs 120(2)(b) and (c).
 
 **Time for examination**
 
@@ -2420,11 +2797,11 @@ by
 
 **Examiner**
 
-- **(3)** The Governor in Council, Minister or Administrator shall appoint a person to act as an examiner for the purpose of conducting a special examination.
+- **(3)** The Administrator shall appoint a person to act as examiner for the purpose of conducting a special examination. However, if a special examination is required by the Governor in Council or the Minister, the Governor in Council or the Minister, as the case may be, shall make the appointment.
 
-**Independence of examiner**
+**Conflict of interest**
 
-- **(4)** The examiner shall not accept or hold any office or employment inconsistent with their functions under this section and section 123.
+- **(4)** The examiner shall not accept or hold any office or employment, or carry on any activity, that is inconsistent with their duties and functions under this section and section 123.
 
 **Plan**
 
@@ -2433,7 +2810,7 @@ by
 **Resolution of disagreements**
 
 - **(6)** Any disagreement between the examiner and the Administrator with respect to the plan shall be resolved by the Minister.
-> 2001, c. 6, s. 122; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 122; 2009, c. 21, s. 11; 2018, c. 27, s. 740.
 
 
 
@@ -2443,14 +2820,14 @@ by
 
 **123** 
 
-- **(1)** On the conclusion of the special examination, an examiner shall provide a report of their findings to the Minister and the Administrator.
+- **(1)** On the conclusion of the special examination, an examiner shall provide a written report of their findings to the Minister and the Administrator.
 
 **Contents**
 
 - **(2)** The examiner’s report must include
 	- **(a)** a statement whether in their opinion, with respect to the criteria established under subsection 122(5), there is reasonable assurance that there are no significant deficiencies in the systems and practices examined; and
 	- **(b)** a statement of the extent to which they relied on internal audits.
-> 2001, c. 6, s. 123; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 123; 2009, c. 21, s. 11; 2018, c. 27, s. 741.
 
 
 
@@ -2460,16 +2837,16 @@ by
 
 **124** 
 
-- **(1)** If the examiner considers it necessary to enable them to prepare a report as required by this Part, they may request that present or former Administrators, Deputy Administrators, employees, agents or mandataries of the Ship-source Oil Pollution Fund provide the examiner with the following to the extent they are reasonably able to do so:
+- **(1)** If the examiner considers it necessary to enable them to prepare a report as required by this Part, they may direct that present or former Administrators, Deputy Administrators, employees or agents or mandataries of the Ship-source Oil Pollution Fund provide the examiner with the following to the extent they are reasonably able to do so:
 	- **(a)** information and explanations; and
-	- **(b)** access to that Fund’s records, books of account, accounts, vouchers and other documents.
+	- **(b)** access to any records, books of account, accounts, vouchers and other documents related to the Fund.
 
 **Administrator’s responsibilities**
 
-- **(2)** On the examiner’s request, the Administrator shall
+- **(2)** On receiving the examiner’s direction, the Administrator shall
 	- **(a)** provide any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the Administrator is reasonably able to provide; and
-	- **(b)** obtain from the former Administrator or the present or former Deputy Administrator, employees, agents or mandataries of that Fund any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the former Administrator or the present or former Deputy Administrator, employees, agents or mandataries are reasonably able to provide and provide the examiner with the information and explanations so obtained.
-> 2001, c. 6, s. 124; 2009, c. 21, s. 11.
+	- **(b)** obtain from any former Administrator or the present or any former Deputy Administrator, employees or agents or mandataries of that Fund any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the former Administrator or the present or former Deputy Administrator, employees or agents or mandataries are reasonably able to provide and provide the examiner with the information and explanations so obtained.
+> 2001, c. 6, s. 124; 2009, c. 21, s. 11; 2018, c. 27, s. 742.
 
 
 
@@ -2482,11 +2859,13 @@ by
 **Governor in Council**
 
 **125** The Governor in Council may make regulations
-- **(a)** prescribing the manner in which the levy payable under section 112 is to be paid;
-- **(b)** respecting the filing with the Minister of information returns by the persons referred to in paragraph 112(4)(a) or (b) from whom the levy may be recovered; and
-- **(c)** [Repealed, 2014, c. 29, s. 51]
+- **(a)** respecting the payment of the levy under section 114.1 and of the additional levy under section 114.2;
+- **(b)** prescribing, for the purposes of paragraph 114.1(2)(b), a quantity of oil that is less than the quantity set out in that paragraph;
+- **(c)** exempting classes of persons from the application of paragraph 114.1(2)(a) or (b);
+- **(c.1)** prescribing classes of persons for the purposes of regulations made under paragraph (c);
+- **(c.2)** amending the definition receiver in subsection 91(1); and
 - **(d)** generally for carrying out the purposes and provisions of this Part.
-> 2001, c. 6, s. 125; 2009, c. 21, s. 11; 2014, c. 29, s. 51.
+> 2001, c. 6, s. 125; 2009, c. 21, s. 11; 2014, c. 29, s. 51; 2018, c. 27, s. 743.
 
 
 
@@ -2609,45 +2988,474 @@ by
 
 
 
+### Administrative Monetary Penalties
+
+
+
+#### Assurances of Compliance and Notices of Violation
+
+
+
+**Violation**
+
+**130.01** 
+
+- **(1)** Every person who contravenes any of the following provisions commits a violation and is liable to a penalty:
+	- **(a)** subsections 74.4(2) and (3), paragraphs 114.1(2)(a) and (b), subsections 114.2(1), 117.1(1), 117.3(2) and 118(1) and (1.1), section 118.1 and subsection 129(7); and
+	- **(b)** a provision of this Act or of the regulations the contravention of which is designated as a violation by a regulation made under paragraph 130.19(a).
+
+**Penalty**
+
+- **(2)** The maximum amount payable as the penalty for each violation set out in subsection (1) is, in the case of an individual, $50,000 and, in the case of any other person, $250,000.
+
+**Clarification**
+
+- **(3)** If a contravention of a provision may be proceeded with as a violation or as an offence, proceeding with it in one manner precludes proceeding with it in the other.
+
+**Nature of violation**
+
+- **(4)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
+
+**Due diligence defence**
+
+- **(5)** A person shall not be found to be liable for a violation under this Act, other than in relation to a contravention of subsection 117.3(2) or 118(1) or (1.1), if they establish that they exercised due diligence to prevent its commission.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Assurance of compliance or notice of violation**
+
+**130.02** 
+
+- **(1)** If the Minister has reasonable grounds to believe that a person has committed a violation, the Minister may
+	- **(a)** enter into an assurance of compliance with the person that
+		- **(i)** identifies the violation and provides that the person will comply with the provision to which the violation relates within the period, and be subject to the terms and conditions, specified in the assurance,
+		- **(ii)** sets out the amount and form of any security that, pending compliance with the assurance, is to be deposited with the Minister, and
+		- **(iii)** sets out the penalty that the person would have been liable to pay for the violation if the assurance had not been entered into; or
+	- **(b)** issue, and cause to be served on the person, a notice of violation that names them, identifies the violation and sets out
+		- **(i)** the penalty that the person is liable to pay for the violation,
+		- **(ii)** the period, being 30 days after the day on which the notice is served, within which the penalty is to be paid or a review is to be requested, and
+		- **(iii)** particulars of the manner in which, and the address at which, the penalty is to be paid or a review is to be requested.
+
+**Extension of period**
+
+- **(2)** The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person is unable to comply with the assurance of compliance for reasons beyond the person’s control.
+
+**Short-form descriptions in notices of violation**
+
+- **(3)** The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Deemed violation**
+
+**130.03** 
+
+- **(1)** A person who enters into an assurance of compliance under paragraph 130.02(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into.
+
+**Request for review**
+
+- **(2)** A person who enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under subsection 130.05(1), file a request with the Transportation Appeal Tribunal of Canada for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and the person is deemed to have filed a written request for a review of the facts of the violation and the amount of the penalty under paragraph 130.09(1)(b).
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**When assurance of compliance complied with**
+
+**130.04** If the Minister is satisfied that a person who has entered into an assurance of compliance under paragraph 130.02(1)(a) has complied with it, he or she shall cause a notice to that effect to be served on the person and, on the service of the notice,
+- **(a)** no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and
+- **(b)** any security deposited under subparagraph 130.02(1)(a)(ii) shall be returned to the person.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**When assurance of compliance not complied with**
+
+**130.05** 
+
+- **(1)** If the Minister is of the opinion that a person who has entered into an assurance of compliance under paragraph 130.02(1)(a) has not complied with it, he or she may cause a notice of default to be served on the person to the effect that, unless a member of the Transportation Appeal Tribunal of Canada determines under section 130.07 that the assurance has been complied with, or an appeal panel of that Tribunal decides under section 130.1 that the assurance has been complied with,
+	- **(a)** the person is liable to pay double the amount of the penalty set out in the assurance; or
+	- **(b)** the security deposited under subparagraph 130.02(1)(a)(ii) is forfeited to Her Majesty in right of Canada.
+
+**Contents of notice**
+
+- **(2)** The notice shall include the address at which, and the date — being 30 days after the day on which the notice is served — on or before which, a request for a review may be filed and the particulars concerning the procedure for requesting a review.
+
+**Effect of notice of default**
+
+- **(3)** Once served with the notice of default, the person may not deduct from the amount set out in the notice any amount that the person spent under the assurance of compliance.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Manner of service**
+
+**130.06** 
+
+- **(1)** A notice referred to in any of sections 130.02, 130.04, 130.05 and 130.18 is to be served
+	- **(a)** in the case of an individual,
+		- **(i)** by leaving a copy of it with the individual at any place or with someone who appears to be an adult member of the same household at the individual’s last known address or usual place of residence or, in the case of an individual under the age of 18, with a parent or other person having custody of them or exercising parental authority over them, or
+		- **(ii)** by sending a copy of it by registered mail, courier or electronic means to the individual’s last known address or usual place of residence; and
+	- **(b)** in the case of a person other than an individual,
+		- **(i)** by leaving a copy of it with their representative or with an officer or other individual who appears to control or manage the person’s or representative’s head office or place of business, or
+		- **(ii)** by sending a copy of it by registered mail, courier or electronic means to their representative, to an individual referred to in subparagraph (i) or to the person’s or representative’s head office or place of business.
+
+**Proof of service**
+
+- **(2)** Service may be proved by
+	- **(a)** an acknowledgement of service signed by or on behalf of the person served, specifying the date and location of service;
+	- **(b)** a certificate of service, signed by the person who effected the service, indicating the name of the person served and the means by which and day on which service was effected; or
+	- **(c)** a record of electronic transmission setting out the date and time of transmission.
+
+**Date service effective**
+
+- **(3)** In the absence of an acknowledgement of service or a certificate of service, service is considered effective,
+	- **(a)** in the case of service by registered mail or courier, on the 10th day after the day on which the notice is sent, as indicated on the receipt issued by the postal or courier service; and
+	- **(b)** in the case of service by electronic means, on the day on which it is sent, as indicated on the record of transmission.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Request for review**
+
+**130.07** 
+
+- **(1)** A person served with a notice under subsection 130.05(1) may, no later than the date specified in the notice or within any further time that the Transportation Appeal Tribunal of Canada on application allows, file a written request for a review of the Minister’s decision made under that subsection with the Tribunal.
+
+**Time and place for review**
+
+- **(2)** On receipt of the request, the Transportation Appeal Tribunal of Canada shall specify a time and place for the review and notify the Minister and the person who filed the request of that time and place in writing.
+
+**Review procedure**
+
+- **(3)** The member of the Transportation Appeal Tribunal of Canada who is assigned to conduct the review shall provide the Minister and the person with an opportunity that is consistent with procedural fairness and natural justice to present evidence and make representations at the review.
+
+**Burden of proof**
+
+- **(4)** The burden is on the Minister to establish that the person did not comply with the assurance of compliance referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter.
+
+**Certain defences not available**
+
+- **(5)** Despite subsection 130.01(5), a person does not have a defence by reason that the person exercised due diligence to comply with the assurance of compliance.
+
+**Determination by member**
+
+- **(6)** At the conclusion of the review, the member who conducts the review shall confirm the Minister’s decision or determine that the person has complied with the assurance of compliance and shall without delay inform the parties of his or her decision.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Return of security**
+
+**130.08** Any security deposited under subparagraph 130.02(1)(a)(ii) shall be returned to the person if
+- **(a)** a notice is served under subsection 130.05(1) and the person pays double the amount of the penalty set out in the assurance of compliance; or
+- **(b)** a member of the Transportation Appeal Tribunal of Canada determines under subsection 130.07(6), or an appeal panel of that Tribunal decides under subsection 130.1(3), that the assurance has been complied with.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Notice of violation — options**
+
+**130.09** 
+
+- **(1)** A person served with a notice of violation under paragraph 130.02(1)(b) shall
+	- **(a)** pay the amount of the penalty; or
+	- **(b)** within 30 days after the day on which the notice is served or any further time that the Transportation Appeal Tribunal of Canada on application allows, file with the Tribunal a written request for a review of the facts of the violation or the amount of the penalty.
+
+**Amount paid or no review requested**
+
+- **(2)** If a review is not requested within the period referred to in paragraph (1)(b), or the amount of the penalty is paid, the person is considered to have committed the violation in respect of which the notice was served and any proceedings in respect of the violation are ended.
+
+**Time and place for review**
+
+- **(3)** On receipt of a request filed under paragraph (1)(b), the Transportation Appeal Tribunal of Canada shall specify a time and place for the review and notify the Minister and the person who filed the request of that time and place in writing.
+
+**Review procedure**
+
+- **(4)** The member of the Transportation Appeal Tribunal of Canada who is assigned to conduct the review shall provide the Minister and the person with an opportunity that is consistent with procedural fairness and natural justice to present evidence and make representations at the review.
+
+**Burden of proof**
+
+- **(5)** In every case when the facts of a violation are reviewed, the burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter.
+
+**Determination by member**
+
+- **(6)** At the conclusion of the review, the member who conducts the review shall, without delay and in writing, inform the Minister and the person who is alleged to have committed a violation of the member’s determination.
+
+**Determination — no violation**
+
+- **(7)** If the member determines that the person has not committed a violation, then, subject to section 130.1, no further proceedings under this Act may be taken against the person in respect of the alleged violation.
+
+**Determination — violation**
+
+- **(8)** If the member determines that the person has committed a violation, then the member shall inform the Minister and the person, subject to subsection 130.01(2) and regulations made under paragraph 130.19(b), of the amount determined by the member to be payable to the Transportation Appeal Tribunal of Canada by or on behalf of the person and the period within which it is to be paid.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Right of appeal**
+
+**130.1** 
+
+- **(1)** The Minister or the person who requested the review may, within 30 days after the day on which a determination is made under subsection 130.07(6) or 130.09(6), appeal the determination to the Transportation Appeal Tribunal of Canada.
+
+**Loss of right of appeal**
+
+- **(2)** A party that does not appear at the review hearing is not entitled to appeal the determination, unless they establish that there was sufficient reason to justify their absence.
+
+**Disposition of appeal**
+
+- **(3)** At the conclusion of the review, the appeal panel of the Transportation Appeal Tribunal of Canada that is assigned to hear the appeal shall
+	- **(a)** in the case of a determination made under subsection 130.07(6), dismiss the appeal or allow the appeal and substitute its own decision; or
+	- **(b)** in the case of a determination made under subsection 130.09(6), dismiss the appeal or allow the appeal and, subject to subsection 130.01(2) and regulations made under paragraph 130.19(b), substitute its own decision.
+The appeal panel shall inform the parties of its decision without delay and specify the period within which any amount determined by the appeal panel to be payable to the Transportation Appeal Tribunal of Canada is to be paid.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+#### Recovery of Debts
+
+
+
+**Debts due to Her Majesty**
+
+**130.11** 
+
+- **(1)** The following amounts constitute debts due to Her Majesty in right of Canada that may be recovered in the Admiralty Court or any other court of competent jurisdiction:
+	- **(a)** the amount of a penalty set out in a notice of violation referred to in paragraph 130.02(1)(b), from the expiry of the period specified in the notice for the payment of that amount, unless a review is requested under paragraph 130.09(1)(b);
+	- **(b)** the amount referred to in paragraph 130.05(1)(a) that a person is liable to pay, from the time the notice of default referred to in subsection 130.05(1) is served, unless a review is requested under subsection 130.07(1);
+	- **(c)** the amount of a penalty determined by a member under section 130.09 or an appeal panel under section 130.1, from the expiry of the period specified in the decision for the payment of that amount; and
+	- **(d)** the amount of any costs and expenses referred to in subsection (3).
+
+**Limitation or prescription period**
+
+- **(2)** Proceedings to recover a debt referred to in subsection (1) may be commenced no later than five years after the day on which the debt becomes payable.
+
+**Liability**
+
+- **(3)** A person who is liable to pay an amount referred to in any of paragraphs (1)(a) to (c) is also liable for the amount of any costs and expenses incurred in attempting to recover that amount.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Certificate of default**
+
+**130.12** 
+
+- **(1)** All or part of a debt referred to in subsection 130.11(1) in respect of which there is a default of payment may be certified by the Minister or the Transportation Appeal Tribunal of Canada, as the case may be.
+
+**Effect of registration**
+
+- **(2)** On production to the Admiralty Court, a certificate made under subsection (1) is to be registered in that Court and, when registered, has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment obtained in that Court for a debt of the amount specified in it and all costs and expenses attendant on its registration.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+#### General
+
+
+
+**Party to violation committed by corporation**
+
+**130.13** If a corporation commits a violation under this Act, any director, officer or agent or mandatary of the corporation that directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to and liable for the violation, whether or not the corporation has been identified or proceeded against under sections 130.02 to 130.12.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Violation by employee or agent or mandatary**
+
+**130.14** A person is liable for a violation that is committed by the person’s employee or agent or mandatary, whether or not the employee or agent or mandatary who actually committed the violation is identified or proceeded against under this Act.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Limitation or prescription period**
+
+**130.15** No notice of violation may be issued more than two years after the day on which the Minister becomes aware of the violation.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Certificate**
+
+**130.16** A document that purports to have been issued by the Minister and that certifies the day on which he or she became aware of the violation is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and, in the absence of any evidence to the contrary, is evidence that the Minister became aware of the violation on that day.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+#### Public Record
+
+
+
+**Notices of violation and of default**
+
+**130.17** The Minister may keep a public record of notices of violation and notices of default, including, with respect to each violation or default, the nature of the violation or default, the name of the person who committed it and the amount of the penalty.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+**Notations removed**
+
+**130.18** 
+
+- **(1)** Unless the Minister is of the opinion that it is not in the public interest to do so, the Minister shall remove from the public record of notices of violation and notices of default, on the fifth anniversary of the day on which a person has paid every penalty that they are liable to pay under this Act, the notice of violation or notice of default along with all the other information kept in the public record with respect to the violation or default.
+
+**Notice**
+
+- **(2)** If the Minister is of the opinion that the removal is not in the public interest, he or she shall give notice of that fact to the person in writing and provide the grounds for that opinion.
+
+**Contents of notice**
+
+- **(3)** The notice shall include the address at which, and the date — being 30 days after the day on which the notice is served — on or before which, a request for a review may be filed and the particulars concerning the procedure for requesting a review.
+
+**Request for review**
+
+- **(4)** The person may, no later than the date specified in the notice or within any further time that the Transportation Appeal Tribunal of Canada on application may allow, file with the Tribunal a written request for a review of the Minister’s decision made under subsection (2).
+
+**Time and place for review**
+
+- **(5)** On receipt of the request, the Transportation Appeal Tribunal of Canada shall specify a time and place for the review and notify the Minister and the person who filed the request of that time and place in writing.
+
+**Review procedure**
+
+- **(6)** The member of the Transportation Appeal Tribunal of Canada who is assigned to conduct the review shall provide the Minister and the person with an opportunity that is consistent with procedural fairness and natural justice to present evidence and make representations at the review.
+
+**Determination by member**
+
+- **(7)** The member who conducts the review shall confirm the Minister’s decision or refer the matter back to the Minister for reconsideration.
+
+**Right of appeal**
+
+- **(8)** The person who requested the review may, within 30 days after the day on which a determination is made under subsection (7), appeal the determination to the Transportation Appeal Tribunal of Canada.
+
+**Loss of right of appeal**
+
+- **(9)** If the person does not appear at the review hearing, the person is not entitled to appeal the determination, unless they establish that there was sufficient reason to justify their absence.
+
+**Disposition of appeal**
+
+- **(10)** The appeal panel of the Transportation Appeal Tribunal of Canada that is assigned to hear the appeal shall dismiss it or refer the matter back to the Minister for reconsideration.
+> 2018, c. 27, s. 744.
+
+
+
+
+
+#### Regulations
+
+
+
+**Governor in Council**
+
+**130.19** For the purposes of sections 130.01 to 130.18, the Governor in Council may, on the recommendation of the Minister, make regulations
+- **(a)** designating as a violation the contravention of any specified provision of this Act or of the regulations;
+- **(b)** establishing a penalty or a range of penalties in respect of a violation up to the maximum amount set out in subsection 130.01(2); and
+- **(c)** if a range of penalties is established by regulations made under paragraph (b), respecting the method of determining the amount payable as the penalty for the violation, including the criteria to be taken into account.
+> 2018, c. 27, s. 744.
+
+
+
+
+
 ### Offences
 
 
 
 **Contraventions**
 
-**131** Every person who, or ship that, contravenes subsection 55(1) or (2), 73(1) or (2), 128(2) or 129(6) or (7) or regulations made under section 39 is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
-> 2001, c. 6, s. 131; 2009, c. 21, s. 11.
+**131** Every person or ship that contravenes subsection 55(1) or (2), 73(1) or (2), 128(2) or 129(6) or (7) or regulations made under section 39 is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
+> 2001, c. 6, s. 131; 2009, c. 21, s. 11; 2018, c. 27, s. 745.
 
 
 
 
 
-**Evading payment**
+**Failure to pay**
 
 **132** 
 
-- **(1)** Any person who wilfully evades or attempts to evade payment of an amount payable under section 112 is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
+- **(1)** Every person who contravenes paragraph 114.1(2)(a) or (b) or subsection 114.2(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
-**Failure to file information return**
+**False or misleading information return — receiver**
 
-- **(2)** Any person who fails to file the information return referred to in paragraph 125(b) is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000 for each day of default.
+- **(2)** Every receiver who files an information return under subsection 74.4(2) that contains a material statement that they know or ought reasonably to know is false or misleading is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
 **Falsifying or destroying books of account**
 
-- **(3)** Any person who knowingly destroys, mutilates or falsifies, or who knowingly makes any false entry or statement in, any record, book of account or other document required to be kept under section 118 is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
+- **(3)** Every person who knowingly destroys, mutilates or falsifies, or who knowingly makes any false or misleading entry or statement in, any record or book of account required to be kept under subsection 118(1) or (1.1) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
+
+**Omission from books of account**
+
+- **(3.1)** Every person who knowingly omits a material entry or statement from any record or book of account required to be kept under subsection 118(1) or (1.1) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
 **Contraventions**
 
-- **(4)** Every person who contravenes subsection 74.4(7) or 117(5), section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
+- **(4)** Every person who contravenes subsection 74.4(7) or 117.3(2), section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
-**Failure to file information return**
+**Failure to file information return — receiver**
 
-- **(4.1)** Any person who fails to file an information return required under subsection 74.4(2) or 117(1.2) or (1.4) is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000 for each day of default.
+- **(4.1)** Every receiver who contravenes subsection 74.4(2) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
-**Definition of person**
+**False or misleading information**
 
-- **(5)** For the purposes of subsection (4.1), ***person*** has the same meaning as in Article I of the Civil Liability Convention, as defined in subsection 47(1), except that, in the context of the Hazardous and Noxious Substances Convention, as defined in that subsection, ***person*** has the same meaning as in Article 1 of that Convention.
-> 2009, c. 21, s. 11; 2014, c. 29, s. 54.
+- **(5)** Every person who files a claim under subsection 106.1(1) that includes information that they know or ought reasonably to know is false or misleading is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
+
+**Failure to file information return — person**
+
+- **(6)** Every person who contravenes subsection 117.1(1) or section 118.1 is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
+
+**False or misleading information return — person**
+
+- **(7)** Every person who files an information return under subsection 117.1(1) that contains a material statement that they know or ought reasonably to know is false or misleading is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
+
+**False or misleading information**
+
+- **(8)** Every person who provides information or a document under section 118.1 that contains a material statement that they know or ought reasonably to know is false or misleading is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
+> 2009, c. 21, s. 11; 2014, c. 29, s. 54; 2018, c. 27, s. 745.
+
+
+
+
+
+**Due diligence defence**
+
+**132.1** A person shall not be found guilty of an offence under section 131 or any of subsections 132(1), (4.1) and (6) if they establish that they exercised due diligence to prevent the commission of the offence.
+> 2018, c. 27, s. 745.
 
 
 
