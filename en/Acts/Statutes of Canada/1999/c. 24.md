@@ -16,12 +16,16 @@ Assented to on 17 June 1999
 
 WHEREAS Her Majesty in right of Canada and a specific group of first nations concluded the Framework Agreement on First Nation Land Management on February 12, 1996 in relation to the management by those first nations of their lands;
 
-AND WHEREAS the ratification of the Agreement by Her Majesty requires the enactment of an Act of Parliament;
+WHEREAS the ratification of the Agreement by Her Majesty requires the enactment of an Act of Parliament;
+
+AND WHEREAS the Government of Canada is committed to implementing the United Nations Declaration on the Rights of Indigenous Peoples;
 
 
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
+
+> 1999, c. 24, preamble; 2018, c. 27, s. 352..
 
 
 
@@ -48,37 +52,39 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***council***, in relation to a First Nation, has the same meaning as the expression council of the band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council***, in relation to a First Nation, has the same meaning as the expression council of the band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil*)
 
-***eligible voter*** means a First Nation member who is eligible to vote under subsection 10(2).
+***eligible voter*** means a First Nation member who is eligible to vote under subsection 10(2). (*électeur*)
 
-***First Nation*** means a band named in the schedule.
+***First Nation*** means a band named in Schedule 1. (*première nation)*
 
-***First Nation land*** means reserve land to which a land code applies and includes all the interests or rights in, and resources of, the land that are within the legislative authority of Parliament.
+***First Nation land*** means reserve land or lands set aside to which a land code applies. It includes all the interests or rights in, and resources of, the land that are within the legislative authority of Parliament. (*terres de la première nation*)
 
-***First Nation law*** means a law referred to in section 20.
+***First Nation law*** means a law referred to in section 20. (*texte législatif*)
 
-***First Nation member*** means a person whose name appears on the band list of a First Nation or who is entitled to have their name appear on that list.
+***First Nation member*** means a person whose name appears on the band list of a First Nation or who is entitled to have their name appear on that list. (*membre de la première nation*)
 
-***Framework Agreement*** means the Framework Agreement on First Nation Land Management concluded between Her Majesty in right of Canada and the First Nations on February 12, 1996, and includes any amendments to the Agreement made pursuant to its provisions.
+***Framework Agreement*** means the Framework Agreement on First Nation Land Management concluded between Her Majesty in right of Canada and the First Nations on February 12, 1996, and includes any amendments to the Agreement made pursuant to its provisions. (*accord-cadre*)
 
-***individual agreement*** means an agreement with a First Nation entered into under subsection 6(3).
+***individual agreement*** means an agreement with a First Nation entered into under subsection 6(3). (*accord spécifique*)
 
-***interest***, in relation to First Nation land in Canada elsewhere than in Quebec, means any estate, right or interest of any nature in or to the land, but does not include title to the land.
+***interest***, in relation to First Nation land in Canada elsewhere than in Quebec, means any estate, right or interest of any nature in or to the land, but does not include title to the land. (*intérêt*)
 
-***land code*** means a land code of a First Nation referred to in subsection 6(1).
+***land code*** means a land code of a First Nation referred to in subsection 6(1). (*code foncier*)
+
+***lands set aside*** means land in Yukon that is reserved or set aside by notation in the property records of the Department of Indian Affairs and Northern Development for the use of Indigenous peoples in Yukon. (*terres mises de côté*) 
 
 ***licence***, in relation to First Nation land, means
 - **(a)** in Canada elsewhere than in Quebec, any right of use or occupation of the land other than an interest in that land;
-- **(b)** in Quebec, any right to use or occupy the land other than a right as defined in this subsection.
+- **(b)** in Quebec, any right to use or occupy the land other than a right as defined in this subsection. (*permis*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***project*** has the same meaning as in subsection 2(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+***project*** has the same meaning as in subsection 2(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md). (*projet d’exploitation*)
 
-***right***, in relation to First Nation land in Quebec, means any right of any nature in or to that land, including the rights of a lessee, but does not include title to the land.
+***right***, in relation to First Nation land in Quebec, means any right of any nature in or to that land, including the rights of a lessee, but does not include title to the land. (*droit*)
 
-***Surveyor General*** has the same meaning as in subsection 2(1) of the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md).
+***Surveyor General*** has the same meaning as in subsection 2(1) of the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md). (*arpenteur général*)
 
 **Words and expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
@@ -87,7 +93,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Not land claims agreement**
 
 - **(3)** For greater certainty, neither the Framework Agreement nor this Act is a land claims agreement referred to in section 35 of the Constitution Act, 1982.
-> 1999, c. 24, s. 2; 2007, c. 17, s. 1; 2012, c. 19, ss. 627, 652(E).
+> 1999, c. 24, s. 2; 2007, c. 17, s. 1; 2012, c. 19, ss. 627, 652(E); 2018, c. 27, s. 353.
 
 
 
@@ -125,9 +131,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **5** For greater certainty, except for First Nation land exchanged in accordance with section 27,
 - **(a)** title to First Nation land is not affected by the Framework Agreement or this Act;
-- **(b)** First Nation land continues to be set apart for the use and benefit of the First Nation for which it was set apart; and
-- **(c)** First Nation land continues to be land reserved for the Indians within the meaning of Class 24 of section 91 of the Constitution Act, 1867.
-> 1999, c. 24, s. 5; 2012, c. 19, s. 652(E).
+- **(b)** reserve land to which a land code applies continues to be set apart for the use and benefit of the First Nation for which it was set apart; and
+- **(c)** reserve land to which a land code applies continues to be land reserved for the Indians within the meaning of Class 24 of section 91 of the Constitution Act, 1867.
+> 1999, c. 24, s. 5; 2012, c. 19, s. 652(E); 2018, c. 27, s. 354.
+
+
+
+
+
+**Lands set aside**
+
+**5.1** For greater certainty, lands set aside to which a land code applies are not a reserve.
+> 2018, c. 27, s. 354.
 
 
 
@@ -145,7 +160,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **6** 
 
-- **(1)** A First Nation that wishes to establish a land management regime in accordance with the Framework Agreement and this Act shall adopt a land code applicable to all land in a reserve of the First Nation, which land code must include the following matters:
+- **(1)** A First Nation that wishes to establish a land management regime in accordance with the Framework Agreement and this Act shall adopt a land code applicable to all land in a reserve of, or in a parcel of lands set aside for, the First Nation and that land code shall include the following matters:
 	- **(a)** a description of the land that is to be subject to the land code that the Surveyor General may prepare or cause to be prepared or any other description that is, in the Surveyor General’s opinion, sufficient to identify those lands;
 	- **(b)** the general rules and procedures applicable to the use and occupancy of First Nation land, including use and occupancy under
 		- **(i)** licences and leases, and
@@ -153,18 +168,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(c)** the procedures that apply to the transfer, by testamentary disposition or succession, of any interest or right in First Nation land;
 	- **(d)** the general rules and procedures respecting revenues from natural resources obtained from First Nation land;
 	- **(e)** the requirements for accountability to First Nation members for the management of First Nation land and moneys derived from First Nation land;
-	- **(f)** a community consultation process for the development of general rules and procedures respecting, in cases of breakdown of marriage, the use, occupation and possession of First Nation land and the division of interests or rights in First Nation land;
+	- **(f)** [Repealed, 2018, c. 27, s. 355]
 	- **(g)** the rules that apply to the enactment and publication of First Nation laws;
 	- **(h)** the rules that apply to conflicts of interest in the management of First Nation land;
 	- **(i)** the establishment or identification of a forum for the resolution of disputes in relation to interests or rights in First Nation land;
 	- **(j)** the general rules and procedures that apply in respect of the granting or expropriation by the First Nation of interests or rights in First Nation land;
 	- **(k)** the general rules and procedures for the delegation, by the council of the First Nation, of its authority to manage First Nation land;
-	- **(l)** the procedures that apply to an approval of an exchange of First Nation land; and
-	- **(m)** the procedures for amending the land code.
+	- **(l)** the procedures that apply to an approval of an exchange of First Nation land;
+	- **(m)** the day on which the land code will come into force, which may be the day on which the validity of the land code is certified or a later day that is within six months after that day; and
+	- **(n)** the procedures for amending the land code.
 
-**Land management regime**
+**For greater certainty**
 
-- **(2)** For greater certainty, if more than one reserve has been set apart for the use and benefit of a First Nation, the First Nation may establish a land management regime for any or all of its reserves.
+- **(2)** For greater certainty, a First Nation may establish a land management regime for any or all of its reserves or parcels of lands set aside.
 
 **Individual agreement**
 
@@ -173,7 +189,40 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** a description of the interests or rights and licences that have been granted by Her Majesty in or in relation to that land, and the date and other terms of the transfer to the First Nation of Her Majesty’s rights and obligations as grantor of those interests or rights and licences;
 	- **(c)** the environmental assessment process that will apply to projects on that land until the enactment of First Nation laws in relation to that subject; and
 	- **(d)** any other relevant matter.
-> 1999, c. 24, s. 6; 2007, c. 17, s. 2; 2012, c. 19, ss. 628, 652(E).
+> 1999, c. 24, s. 6; 2007, c. 17, s. 2; 2012, c. 19, ss. 628, 652(E); 2018, c. 27, s. 355.
+
+
+
+
+
+**Reserve set apart for more than one First Nation**
+
+**6.01** 
+
+- **(1)** All of the First Nations for whose use and benefit a reserve has been set apart may, in accordance with the Framework Agreement and this Act, establish a land management regime applicable to all land in the reserve if
+	- **(a)** each of those First Nations has a land code in force;
+	- **(b)** each of those First Nations amends their land code to include
+		- **(i)** a description of the land that the Surveyor General may prepare or cause to be prepared or any other description that is, in the Surveyor General’s opinion, sufficient to identify the land,
+		- **(ii)** uniform rules and procedures for the management of the land, including the matters described in paragraphs 6(1)(b) to (l), and
+		- **(iii)** uniform rules and procedures for the resolution of disputes between the First Nations concerning the management of the land; and
+	- **(c)** the individual agreements between each of those First Nations and the Minister are amended to include a description of the land in the reserve and to provide for the matters described in paragraphs 6(3)(a) to (d) in relation to that land.
+
+**Coming into force of amendments**
+
+- **(2)** The amendments to the land codes come into force on the first day on which all of the amended individual agreements have been signed by the First Nations and the Minister or on a later date that is agreed to by all of the First Nations and the Minister.
+
+**Uniformity**
+
+- **(3)** The land codes of the First Nations referred to in subsection (1) shall, to the extent that the land codes apply to the reserve referred to in that subsection, remain uniform.
+
+**Powers, duties or functions**
+
+- **(4)** Any powers, duties or functions that may be exercised or performed under this Act by a First Nation or its council in relation to a reserve referred to in subsection (1) shall be exercised or performed jointly, in accordance with their land codes, by all of the First Nations for whose use and benefit the reserve has been set apart, by their councils or by a person or body to whom a power, duty or function is delegated by those First Nations.
+
+**Coming into force of land code**
+
+- **(5)** For the purposes of section 16, subsection 31(2) and sections 34, 38 and 39, as they apply in relation to a reserve referred to in subsection (1), the coming into force of the land code is deemed to be the day on which the amendments to the land codes come into force in accordance with subsection (2).
+> 2018, c. 27, s. 356.
 
 
 
@@ -181,8 +230,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Survey not mandatory**
 
-**6.1** If the Surveyor General prepares or causes to be prepared a description of lands under paragraph 6(1)(a), the Surveyor General may, if he or she considers it appropriate, survey or have those lands surveyed in accordance with the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md).
-> 2012, c. 19, s. 629.
+**6.1** If the Surveyor General prepares or causes to be prepared a description of lands under paragraph 6(1)(a) or 6.01(1)(b), the Surveyor General may, if he or she considers it appropriate, survey or have those lands surveyed in accordance with the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md).
+> 2012, c. 19, s. 629; 2018, c. 27, s. 356.
 
 
 
@@ -192,7 +241,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **7** 
 
-- **(1)** Despite subsection 6(1), a portion of a reserve may be excluded from the application of a land code if
+- **(1)** Despite subsections 6(1) and 6.01(1), a portion of a reserve or of a parcel of lands set aside may be excluded from the application of a land code if
 	- **(a)** it is in an environmentally unsound condition that cannot be remedied by measures that are technically and financially feasible before the date that the land code is to be submitted for community approval under subsection 10(1);
 	- **(b)** it is the subject of litigation that is unlikely to be resolved before the date referred to in paragraph (a);
 	- **(c)** it is uninhabitable or unusable as a result of a natural disaster; or
@@ -200,20 +249,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Condition**
 
-- **(2)** A portion of a reserve may not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease, other interest or a right in that land in more than one land management regime.
+- **(2)** A portion of a reserve or of a parcel of lands set aside shall not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease, other interest or a right in that land in more than one land management regime.
 
 - **(3)** [Repealed, 2012, c. 19, s. 630]
-> 1999, c. 24, s. 7; 2007, c. 17, s. 3; 2012, c. 19, ss. 630, 652(E).
+> 1999, c. 24, s. 7; 2007, c. 17, s. 3; 2012, c. 19, ss. 630, 652(E); 2018, c. 27, s. 357.
 
 
 
 
 
-**Exclusion — boundaries of reserve uncertain**
+**Exclusion — boundaries uncertain**
 
 **7.1** 
 
-- **(1)** Despite subsection 6(1), land may be excluded from the application of a land code if it is uncertain whether the land is located within the boundaries of the reserve.
+- **(1)** Despite subsections 6(1) and 6.01(1), land may be excluded from the application of a land code if it is uncertain whether the land is located within the boundaries of the reserve or of the parcel of lands set aside.
 
 **Land subject to lease, other interest or right**
 
@@ -221,8 +270,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Limitation — effects of exclusion**
 
-- **(3)** The exclusion of the land does not preclude the First Nation or Her Majesty from asserting in an action, a lawsuit or other proceeding that the land is part of the reserve.
-> 2012, c. 19, s. 631.
+- **(3)** The exclusion of the land does not preclude the First Nation or Her Majesty from asserting in an action, a lawsuit or other proceeding that the land is part of the reserve or of the parcel of lands set aside.
+> 2012, c. 19, s. 631; 2018, c. 27, s. 358.
 
 
 
@@ -230,8 +279,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Inclusion of previously excluded land**
 
-**7.2** A First Nation shall amend the description of First Nation land in its land code to include a portion of a reserve excluded under subsection 7(1) or land excluded under subsection 7.1(1) if the First Nation and the Minister agree that the condition that justified the exclusion no longer exists, and the individual agreement shall be amended accordingly.
-> 2012, c. 19, s. 631.
+**7.2** A First Nation shall amend the description of First Nation land in its land code to include a portion of a reserve or of a parcel of lands set aside that was excluded under subsection 7(1) or land that was excluded under subsection 7.1(1) if the First Nation and the Minister agree that the condition that justified the exclusion no longer exists, and the individual agreement shall be amended accordingly.
+> 2012, c. 19, s. 631; 2018, c. 27, s. 359.
 
 
 
@@ -247,13 +296,22 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The Minister and a First Nation shall jointly appoint a verifier, to be chosen from a list established in accordance with the Framework Agreement, who shall
 	- **(a)** determine whether a proposed land code and the proposed process for the approval of the land code and an individual agreement are in accordance with the Framework Agreement and this Act and, if they are in accordance, confirm them;
-	- **(b)** determine whether the conduct of a community approval process is in accordance with the process confirmed under paragraph (a); and
+	- **(b)** determine whether the conduct of a community approval process is in accordance with the process confirmed under paragraph (a), unless a ratification officer is appointed under section 8.1; and
 	- **(c)** certify the validity of a land code that has been approved in accordance with the Framework Agreement and this Act.
 
 **Disputes**
 
-- **(2)** The verifier shall determine any dispute arising between a First Nation and the Minister before a land code comes into force regarding the terms of the transfer of administration of land or the exclusion of a portion of a reserve from the application of a land code.
-> 1999, c. 24, s. 8; 2012, c. 19, s. 652(E).
+- **(2)** The verifier shall determine any dispute arising between a First Nation and the Minister before a land code comes into force regarding the terms of the transfer of administration of land or the exclusion of a portion of a reserve or of a parcel of lands set aside from the application of a land code.
+> 1999, c. 24, s. 8; 2012, c. 19, s. 652(E); 2018, c. 27, s. 360.
+
+
+
+
+
+**Appointment of ratification officer**
+
+**8.1** A First Nation may appoint a ratification officer who shall determine whether the conduct of a community approval process is in accordance with the process confirmed under paragraph 8(1)(a).
+> 2018, c. 27, s. 361.
 
 
 
@@ -286,16 +344,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Eligibility to vote**
 
-- **(2)** Every person who is eighteen years of age or over and a First Nation member, whether or not resident on the reserve of the First Nation, is eligible to vote in the community approval process.
+- **(2)** Every person who is 18 years of age or over and who is a First Nation member, whether or not resident on the land that is subject to the proposed land code, is eligible to vote in the community approval process.
 
 **Information to be provided**
 
-- **(3)** The council shall, before proceeding to obtain community approval, take reasonable measures, such as those described in the Framework Agreement, to locate voters and inform them of their right to vote, the means of exercising that right and the content of the Framework Agreement, this Act, the proposed land code and the individual agreement.
+- **(3)** The council shall, before proceeding to obtain community approval, take reasonable measures, such as those described in the Framework Agreement, to locate voters and inform them of their right to vote, the means of exercising that right and the content of the Framework Agreement, this Act, any resolutions made under subsection 12(2), the proposed land code and the individual agreement.
+
+**Vote using electronic means**
+
+- **(3.1)** The council may conduct a vote by electronic means.
 
 **Third parties**
 
 - **(4)** If other persons have an interest or right in the land that is to be subject to the proposed land code, the council shall, within a reasonable time before the vote, take appropriate measures to inform those persons of the proposed land code, this Act and the date of the vote.
-> 1999, c. 24, s. 10; 2007, c. 17, s. 4; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 10; 2007, c. 17, s. 4; 2012, c. 19, s. 652(E); 2018, c. 27, s. 362.
 
 
 
@@ -320,40 +382,44 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Ratification officer**
+
+**11.1** If a ratification officer is appointed under section 8.1, he or she shall perform the duties and functions of the verifier that are set out in section 11. The ratification officer shall also send the report referred to in subsection 11(3) to the verifier.
+> 2018, c. 27, s. 363.
+
+
+
+
+
 **Approval by members**
 
 **12** 
 
-- **(1)** A proposed land code and an individual agreement that have been submitted for community approval are approved if
-	- **(a)** a majority of eligible voters participated in the vote and a majority of those voters voted to approve them;
-	- **(b)** all those eligible voters who signified, in a manner determined by the First Nation, their intention to vote have been registered and a majority of the registered voters voted to approve them; or
-	- **(c)** they are approved by the community in any other manner agreed on by the First Nation and the Minister.
+- **(1)** Subject to subsection (2), a proposed land code and an individual agreement that have been submitted for community approval are approved if a majority of eligible voters who participated in the vote voted to approve them.
 
-**Minimum participation**
+**Resolutions**
 
-- **(2)** Notwithstanding subsection (1), a proposed land code and an individual agreement are not approved unless more than twenty-five per cent of the eligible voters voted to approve them.
-
-**Increased percentage**
-
-- **(3)** A council may, by resolution, increase the percentage of votes required under subsection (2).
-> 1999, c. 24, s. 12; 2012, c. 19, s. 652(E).
+- **(2)** A council may, by resolution,
+	- **(a)** fix the minimum percentage of eligible voters who are required to participate in a vote in order for the proposed land code and individual agreement to be approved; and
+	- **(b)** fix an approval rate that is greater than what is required by subsection (1).
+> 1999, c. 24, s. 12; 2012, c. 19, s. 652(E); 2018, c. 27, s. 363.
 
 
 
 
 
-**Copy and declaration**
+**Copy**
 
 **13** 
 
 - **(1)** If a First Nation votes to approve a land code and an individual agreement, its council shall, after the conclusion of the vote, send to the verifier
-	- **(a)** without delay, a copy of the approved code and a declaration that the code and agreement were approved in accordance with section 12; and
+	- **(a)** without delay, a copy of the approved code; and
 	- **(b)** as soon as the circumstances permit, a copy of the individual agreement signed by the First Nation and the Minister.
 
 **Report of irregularity**
 
-- **(2)** The Minister or an eligible voter may, within five days after the conclusion of a vote, report any irregularity in the voting process to the verifier.
-> 1999, c. 24, s. 13; 2012, c. 19, s. 632.
+- **(2)** An eligible voter may, within five days after the conclusion of a vote, report any irregularity in the voting process to the verifier.
+> 1999, c. 24, s. 13; 2012, c. 19, s. 632; 2018, c. 27, s. 364.
 
 
 
@@ -363,9 +429,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **14** 
 
-- **(1)** The verifier shall, after receiving the documents referred to in subsection 13(1), certify the validity of the land code unless the verifier, after giving the First Nation and the Minister a reasonable opportunity to make submissions on the matter but within 10 days after the conclusion of the vote, is of the opinion that
+- **(1)** The verifier shall, after receiving the documents referred to in subsection 13(1), certify the validity of the land code unless the verifier, after giving the First Nation a reasonable opportunity to make submissions on the matter but within 10 days after the conclusion of the vote, is of the opinion that
 	- **(a)** the community approval process confirmed under paragraph 8(1)(a) was not followed or the community approval was otherwise irregular; and
 	- **(b)** the land code might not have been approved but for that irregularity.
+
+**Report of ratification officer**
+
+- **(1.1)** If a ratification officer is appointed under section 8.1, the verifier shall certify the validity of the land code only after receiving the ratification officer’s report under section 11.1. The 10-day period referred to in subsection (1) begins after the day on which the verifier receives that report.
 
 **Transmittal**
 
@@ -374,7 +444,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Presumption**
 
 - **(3)** A certified land code is deemed to have been validly approved by the First Nation.
-> 1999, c. 24, s. 14; 2012, c. 19, ss. 633(E), 652(E).
+> 1999, c. 24, s. 14; 2012, c. 19, ss. 633(E), 652(E); 2018, c. 27, s. 365.
 
 
 
@@ -388,16 +458,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **15** 
 
-- **(1)** Subject to subsection (1.1), a land code comes into force and has the force of law on the day on which it is certified or on any other later date that may be specified in or under the land code, and judicial notice shall be taken of the land code in any proceedings from the date of the coming into force of that land code.
+- **(1)** Subject to subsection (1.1), a land code comes into force and has the force of law on the day that is specified in the land code, and judicial notice shall be taken of the land code in any proceedings from the date of the coming into force of that land code.
 
 **Limitation**
 
 - **(1.1)** A land code is not to come into force before the day on which the individual agreement is signed by the First Nation and the Minister.
 
-**Access to land code**
+**Land code accessible to public**
 
-- **(2)** A copy of the land code of a First Nation shall be maintained by the council for public inspection at a place designated by the council.
-> 1999, c. 24, s. 15; 2012, c. 19, ss. 634, 652(E).
+- **(2)** Without delay after the coming into force of the land code of a First Nation or of any amendment to the land code, the First Nation shall publish the land code on its website, if it has one. The First Nation shall also make a copy of it available, on request, to any person.
+> 1999, c. 24, s. 15; 2012, c. 19, ss. 634, 652(E); 2018, c. 27, s. 366.
 
 
 
@@ -420,31 +490,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Interests and rights of First Nation members**
 
 - **(4)** Interests or rights in First Nation land held on the coming into force of a land code by First Nation members pursuant to allotments under subsection 20(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or pursuant to the custom of the First Nation are subject to the provisions of the land code governing the transfer and lease of interests or rights in First Nation land and sharing in natural resource revenues.
-> 1999, c. 24, s. 16; 2007, c. 17, s. 5; 2012, c. 19, s. 652(E).
+
+**Designations under [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
+
+- **(5)** The terms of any designations made under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) before the coming into force of a land code do not restrict the First Nation and the holder of an interest or right in or a licence in relation to First Nation land from modifying that interest, right or licence after the coming into force of the land code.
+> 1999, c. 24, s. 16; 2007, c. 17, s. 5; 2012, c. 19, s. 652(E); 2018, c. 27, s. 367.
 
 
 
 
-
-### Rules on Breakdown of Marriage
-
-
-
-**Obligation of First Nation**
-
-**17** 
-
-- **(1)** A First Nation shall, in accordance with the Framework Agreement and following the community consultation process provided for in its land code, establish general rules and procedures, in cases of breakdown of marriage, respecting the use, occupation and possession of First Nation land and the division of interests or rights in First Nation land.
-
-**Establishment of rules and procedures**
-
-- **(2)** The First Nation shall, within twelve months after its land code comes into force, incorporate the general rules and procedures into its land code or enact a First Nation law containing the general rules and procedures.
-
-**Disputes**
-
-- **(3)** The First Nation or the Minister may refer any dispute relating to the establishment of the general rules and procedures to an arbitrator in accordance with the Framework Agreement.
-> 1999, c. 24, s. 17; 2007, c. 17, s. 6; 2012, c. 19, s. 652(E).
-
+**17** [Repealed, 2018, c. 27, s. 368]
 
 
 
@@ -491,8 +546,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Transfer of moneys**
 
-**19** On the coming into force of the land code of a First Nation, all revenue moneys collected, received or held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation.
-> 1999, c. 24, s. 19; 2012, c. 19, s. 652(E).
+**19** 
+
+- **(1)** Subject to section 46.1, on the coming into force of the land code of a First Nation, all revenue moneys and capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation. All revenue moneys and capital moneys collected or received by Her Majesty for the use and benefit of the First Nation or its First Nation members after the transfer are not Indian moneys and shall be transferred to the First Nation.
+
+**Her Majesty not liable**
+
+- **(2)** Her Majesty is not liable in respect of anything done or omitted to be done in relation to the management of revenue moneys or capital moneys transferred to a First Nation under this Act by the First Nation or any person or body authorized by the First Nation to act in relation to those moneys.
+> 1999, c. 24, s. 19; 2012, c. 19, s. 652(E); 2018, c. 27, s. 369.
 
 
 
@@ -508,8 +569,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The council of a First Nation has, in accordance with its land code, the power to enact laws respecting
 	- **(a)** interests or rights in and licences in relation to First Nation land;
-	- **(b)** the development, conservation, protection, management, use and possession of First Nation land; and
-	- **(c)** any matter arising out of or ancillary to the exercise of that power.
+	- **(b)** the development, conservation, protection, management, use and possession of First Nation land;
+	- **(c)** the rules and procedures that apply, during a conjugal relationship, when that relationship breaks down or on the death of a spouse or common-law partner, with respect to
+		- **(i)** the use, occupation and possession of family homes on First Nation land,
+		- **(ii)** the division of the value of any interests or rights held by spouses or common-law partners in or to First Nation land or structures on First Nation land, and
+		- **(iii)** the period of cohabitation in a conjugal relationship required for an individual to be a common-law partner;
+	- **(d)** limits on the liability of, and defences and immunities for, any person or body in respect of an act or omission occurring in the exercise of a power or the performance of a duty or function under a First Nation law or the land code; and
+	- **(e)** any matter arising out of or ancillary to the exercise of the power to enact laws under paragraphs (a) to (d).
 
 **Particular powers**
 
@@ -520,14 +586,52 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(d)** the provision of local services in relation to First Nation land and the imposition of equitable user charges for those services; and
 	- **(e)** the provision of services for the resolution of disputes in relation to First Nation land.
 
+**Contents of First Nation law**
+
+- **(2.1)** A First Nation law enacted under paragraph (1)(c) may include, despite subsection 89(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), provisions for enforcing, on First Nation land, an order of a court that includes one or more provisions made under the law or a decision made or an agreement reached under the law.
+
+**Notice to provincial Attorney General**
+
+- **(2.2)** If the council of a First Nation intends to enact a First Nation law under paragraph (1)(c), the council shall so notify the Attorney General of the province in which the First Nation land is situated. If the First Nation law is enacted, the council shall, without delay, send a copy to that Attorney General.
+
+**[Family Homes on Reserves and Matrimonial Interests or Rights Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2020.md)**
+
+- **(2.3)** In the event of any inconsistency or conflict between the provisions of a First Nation law enacted under paragraph (1)(c) and the provisions of a law enacted under section 7 of the [Family Homes on Reserves and Matrimonial Interests or Rights Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2020.md), the provisions of the First Nation law enacted under paragraph (1)(c) prevail to the extent of the inconsistency or conflict.
+
+**Limit — liability, defences and immunities**
+
+- **(2.4)** A First Nation law enacted under paragraph (1)(d) shall not provide for greater limits on liability, defences and immunities than those that would apply to a person or body exercising a similar power or performing a similar duty or function under the laws of the province in which the First Nation land is situated.
+
 **Enforcement measures**
 
-- **(3)** A First Nation law may provide for enforcement measures, consistent with federal laws, such as the power to inspect, search and seize and to order compulsory sampling, testing and the production of information.
+- **(3)** A First Nation law may provide for enforcement measures, consistent with federal laws or the laws of the province in which the First Nation land is situated, such as the power to inspect, search and seize and to order compulsory sampling, testing and the production of information.
+
+**Enforcement of payment of amounts**
+
+- **(3.1)** If a First Nation has, under another Act of Parliament, enacted laws or made by-laws respecting the enforcement of laws or by-laws respecting the taxation for local purposes of reserve lands, interests or rights in reserve lands or rights to occupy, possess or use reserve lands, the First Nation may use the enforcement measures provided for in those laws or by-laws to enforce the payment of any amount payable to the First Nation under its First Nation laws or its land code.
+
+**Non-application**
+
+- **(3.2)** Subsection (3.1) does not apply to the enforcement of the payment of any amount payable to a First Nation under
+	- **(a)** a First Nation law that applies to a reserve referred to in subsection 6.01(1); or
+	- **(b)** the land code of a First Nation to the extent that it applies to a reserve referred to in subsection 6.01(1).
+
+**Agreements**
+
+- **(3.3)** A First Nation may enter into an agreement with a government or government agency respecting the collection of any amount payable to the First Nation under its First Nation laws or its land code.
 
 **Inconsistency**
 
 - **(4)** In the event of any inconsistency or conflict between the land code of a First Nation and the provisions of a First Nation law or of a by-law made by its council under section 81 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the land code prevails to the extent of the inconsistency or conflict.
-> 1999, c. 24, s. 20; 2007, c. 17, s. 8; 2012, c. 19, s. 652(E).
+
+**Definitions**
+
+- **(5)** The following definitions apply in this section.
+
+***family home*** means a structure — that need not be affixed but that must be situated on First Nation land — where the spouses or common-law partners habitually reside or, if they have ceased to cohabit or one of them has died, where they habitually resided on the day on which they ceased to cohabit or the death occurred. If the structure is normally used for a purpose in addition to a residential purpose, this definition includes only the portion of the structure that may reasonably be regarded as necessary for the residential purpose. (*foyer familial*)
+
+***spouse*** has the same meaning as in subsection 2(1) of the [Family Homes on Reserves and Matrimonial Interests or Rights Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2020.md). (*époux*)
+> 1999, c. 24, s. 20; 2007, c. 17, s. 8; 2012, c. 19, s. 652(E); 2018, c. 27, s. 370.
 
 
 
@@ -566,9 +670,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** A First Nation may, in relation to prosecutions of contraventions of First Nation laws,
 	- **(a)** retain its own prosecutors;
-	- **(b)** enter into an agreement with Her Majesty and a provincial government for the use of provincial prosecutors; or
+	- **(b)** enter into an agreement with a provincial government for the use of provincial prosecutors; or
 	- **(c)** enter into an agreement with Her Majesty for the use of agents engaged by Her Majesty.
-> 1999, c. 24, s. 22; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 22; 2012, c. 19, s. 652(E); 2018, c. 27, s. 371.
 
 
 
@@ -576,8 +680,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Evidence**
 
-**23** In any proceedings, a copy of a First Nation law appearing to be certified as a true copy by an officer of the First Nation is, without proof of the officer’s signature or official character, evidence of its enactment on the date specified in the law.
-> 1999, c. 24, s. 23; 2012, c. 19, s. 652(E).
+**23** In any proceedings, a copy of a First Nation law appearing to be certified as a true copy by an officer of the First Nation — or, in the case of a First Nation law that applies to First Nation land that is a reserve referred to in subsection 6.01(1), by an officer of any of the First Nations for whose use and benefit the reserve has been set apart — is, without proof of the officer’s signature or official character, evidence of its enactment on the date specified in the law.
+> 1999, c. 24, s. 23; 2012, c. 19, s. 652(E); 2018, c. 27, s. 372.
 
 
 
@@ -620,18 +724,77 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The Minister shall establish a register to be known as the First Nation Land Register.
 
-**Administration of Register**
-
-- **(2)** The First Nation Land Register is to be administered, subject to this section, in the same manner as the Reserve Land Register established under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+- **(2)** [Repealed, 2018, c. 27, s. 373]
 
 **Regulations**
 
 - **(3)** The Governor in Council may, on the recommendation of the Minister and in accordance with the Framework Agreement, make regulations respecting the administration of the First Nation Land Register, the registration of interests or rights in it and the recording of any other matter, including but not limited to regulations respecting
 	- **(a)** the effects of registering interests or rights, including priorities;
 	- **(b)** the payment of fees for the registration of interests or rights and for any other service in relation to the Register;
-	- **(c)** the appointment, remuneration, powers, functions and duties of officers and employees who administer the Register; and
-	- **(d)** the keeping, by officers and employees, of documents that are not registrable.
-> 1999, c. 24, s. 25; 2007, c. 17, s. 9; 2012, c. 19, s. 652(E).
+	- **(c)** the appointment, remuneration, powers, functions and duties of officers and employees who administer the Register;
+	- **(d)** the keeping, by officers and employees, of documents that are not registrable; and
+	- **(e)** the transfer of the administration of the Register to any person or body and the disclosure of personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) for that purpose.
+> 1999, c. 24, s. 25; 2007, c. 17, s. 9; 2012, c. 19, s. 652(E); 2018, c. 27, s. 373.
+
+
+
+
+
+### Additions to First Nation Land
+
+
+
+**Setting lands apart**
+
+**25.1** 
+
+- **(1)** The Minister may, by order, at the request of a First Nation that has a land code in force, set apart as a reserve for the use and benefit of that First Nation any lands the title to which is vested in Her Majesty or for which Her Majesty has the administration and control.
+
+**First Nation land**
+
+- **(2)** The lands that are the subject of the order become First Nation land on the day on which the order is made. The land code of the First Nation and the individual agreement between the First Nation and the Minister are deemed, on that day, to be amended to include a description of those lands.
+
+**Powers of First Nation**
+
+- **(3)** Before the order is made, the First Nation may, in accordance with its land code,
+	- **(a)** grant interests or rights in and licences in relation to the lands that are subject to the request referred to in subsection (1); and
+	- **(b)** enact laws respecting any matters referred to in section 20 that will apply to those lands.
+
+**Taking effect**
+
+- **(4)** Any interests, rights or licences granted by the First Nation under subsection (3) take effect on the day on which the order is made and any laws enacted by the First Nation under that subsection come into force on that day.
+
+**Copy of order in First Nation Land Register**
+
+- **(5)** The Minister shall record a copy of the order in the First Nation Land Register.
+
+**Coming into force of land code**
+
+- **(6)** For the purposes of sections 16, 34 and 38, as those sections apply in relation to First Nation land that was the subject of the order, the coming into force of the land code is deemed to be the day on which the order is made.
+> 2018, c. 27, s. 374.
+
+
+
+
+
+**First Nation not liable**
+
+**25.2** 
+
+- **(1)** A First Nation is not liable in respect of anything done or omitted to be done, before the day on which an order is made under subsection 25.1(1), by Her Majesty or any person or body authorized by Her Majesty to act in relation to the granting of interests or rights in or licences in relation to the lands that are the subject of the order or the obtaining of discharges of any of those interests, rights or licences.
+
+**Indemnification of First Nation**
+
+- **(2)** Her Majesty shall indemnify a First Nation for any loss suffered by the First Nation as a result of an act or omission described in subsection (1).
+
+**Her Majesty not liable**
+
+- **(3)** Her Majesty is not liable in respect of anything done or omitted to be done under paragraph 25.1(3)(a) by the First Nation or any person or body authorized by the First Nation to act under that paragraph.
+
+**Indemnification of Her Majesty**
+
+- **(4)** The First Nation shall indemnify Her Majesty for any loss suffered by Her Majesty as a result of an act or omission described in subsection (3).
+> 2018, c. 27, s. 374.
 
 
 
@@ -661,7 +824,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **27** 
 
 - **(1)** A First Nation may exchange First Nation land only if
-	- **(a)** compensation for the First Nation land includes land that Her Majesty has agreed will be set apart as a reserve and that is to become First Nation land; and
+	- **(a)** compensation for the First Nation land includes land that Her Majesty has agreed will be set apart as a reserve or set aside as a parcel of lands set aside and that is to become First Nation land; and
 	- **(b)** the Minister has approved the form of the exchange.
 
 **Additional compensation**
@@ -675,7 +838,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Community approval**
 
 - **(4)** The exchange of First Nation land must be approved by First Nation members in accordance with the land code of the First Nation and must be completed in accordance with the Framework Agreement.
-> 1999, c. 24, s. 27; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 27; 2012, c. 19, s. 652(E); 2018, c. 27, s. 375.
 
 
 
@@ -766,9 +929,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** land that, when accepted by that First Nation, will become First Nation land; and
 	- **(b)** any additional compensation required to achieve the total compensation determined under subsection (3).
 
-**Land of a lesser area**
+**Land of lesser area**
 
-- **(2)** Land provided to a First Nation as compensation may be of an area that is less than the area of the land in which an interest or right has been expropriated if the total area of the land comprised in a reserve of the First Nation is not less following the expropriation than at the coming into force of its land code.
+- **(2)** Land provided to a First Nation as compensation may be of an area that is less than the area of the land in which an interest or right has been expropriated if the total area of the land comprised in a reserve of or in the lands set aside for the First Nation is not less following the expropriation than at the coming into force of its land code.
 
 **Determination of compensation**
 
@@ -791,7 +954,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Limit**
 
 - **(6)** Any claim or encumbrance in respect of an interest expropriated by Her Majesty may only be made or discharged against the compensation paid under this section. In Quebec, any right, charge or claim in respect of a right expropriated by Her Majesty may only be made or discharged against the compensation paid under this section.
-> 1999, c. 24, s. 31; 2007, c. 17, s. 14; 2012, c. 19, s. 652(E).
+> 1999, c. 24, s. 31; 2007, c. 17, s. 14; 2012, c. 19, s. 652(E); 2018, c. 27, s. 376.
 
 
 
@@ -858,7 +1021,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Immunity**
 
-**35** No criminal or civil proceedings lie against an arbitrator, mediator, neutral evaluator or verifier appointed under the Framework Agreement or this Act or any member of a board established by section 38 of the Framework Agreement who is, in good faith, exercising a power or performing a duty or function in accordance with the Framework Agreement or this Act for anything done or omitted to be done during the course of the exercise or purported exercise of any power or the performance or purported performance of any duty or function of that person in accordance with the Framework Agreement or this Act.
+**35** No criminal or civil proceedings lie against an arbitrator, mediator, neutral evaluator, verifier or ratification officer appointed under the Framework Agreement or this Act or any member of a board established by section 38 of the Framework Agreement who is, in good faith, exercising a power or performing a duty or function in accordance with the Framework Agreement or this Act for anything done or omitted to be done during the course of the exercise or purported exercise of any power or the performance or purported performance of any duty or function of that person in accordance with the Framework Agreement or this Act.
+> 1999, c. 24, s. 35; 2018, c. 27, s. 377.
+
 
 
 
@@ -867,16 +1032,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **36** 
 
-- **(1)** Every determination under this Act or the Framework Agreement by a verifier or arbitrator is final, and no order shall be made, process entered or proceedings taken in any court, whether by way of injunction, *certiorari*, prohibition, *mandamus*, *quo warranto* or otherwise, to question, review or prohibit such a determination.
+- **(1)** Every determination under this Act or the Framework Agreement by a verifier, ratification officer or arbitrator is final, and no order shall be made, process entered or proceedings taken in any court, whether by way of injunction, *certiorari*, prohibition, *mandamus*, *quo warranto* or otherwise, to question, review or prohibit such a determination.
 
 **Actions final**
 
-- **(2)** No order shall be made, process entered or proceedings taken in any court, whether by way of injunction, *certiorari*, prohibition, *mandamus*, *quo warranto* or otherwise, to question, review or prohibit any other action under this Act or the Framework Agreement by a verifier or arbitrator or any action under the Framework Agreement by a neutral evaluator.
+- **(2)** No order shall be made, process entered or proceedings taken in any court, whether by way of injunction, *certiorari*, prohibition, *mandamus*, *quo warranto* or otherwise, to question, review or prohibit any other action under this Act or the Framework Agreement by a verifier, ratification officer or arbitrator or any action under the Framework Agreement by a neutral evaluator.
 
 **Review by Federal Court**
 
-- **(3)** Notwithstanding subsections (1) and (2), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) on any of the grounds referred to in paragraph 18.1(4)(a) or (b) of that Act for any relief against a verifier, arbitrator or neutral evaluator by way of an injunction or declaration or by way of an order in the nature of *certiorari*, prohibition, *mandamus* or *quo warranto*.
-> 1999, c. 24, s. 36; 2002, c. 8, s. 182.
+- **(3)** Despite subsections (1) and (2), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) on any of the grounds referred to in paragraph 18.1(4)(a) or (b) of that Act for any relief against a verifier, ratification officer, arbitrator or neutral evaluator by way of an injunction or declaration or by way of an order in the nature of *certiorari*, prohibition, *mandamus* or *quo warranto*.
+> 1999, c. 24, s. 36; 2002, c. 8, s. 182; 2018, c. 27, s. 377.
 
 
 
@@ -899,8 +1064,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** On the coming into force of the land code of a First Nation, the following cease to apply to the First Nation, First Nation members and First Nation land:
 	- **(a)** sections 18 to 20, 22 to 28, 30 to 35, 37 to 41 and 49, subsection 50(4) and sections 53 to 60, 66, 69, 71 and 93 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md);
+	- **(a.1)** sections 61 to 65, 67 and 68 of that Act, other than in respect of moneys collected, received or held by Her Majesty under that Act for the use and benefit of an individual;
 	- **(b)** any regulations made under section 57 of that Act; and
 	- **(c)** to the extent of any inconsistency or conflict with the Framework Agreement, the land code or First Nation laws, any regulations made under sections 42 and 73 of that Act.
+
+**Non-application**
+
+- **(1.1)** If the individual agreement between a First Nation and the Minister is amended to provide for the transfer of capital moneys in accordance with subsection 46.1(1), then sections 61 to 65, 67 and 68 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) cease to apply to the First Nation, First Nation members and First Nation land, other than in respect of moneys collected, received or held by Her Majesty under that Act for the use and benefit of an individual.
 
 **Leasehold interests or leases**
 
@@ -908,8 +1078,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Application**
 
-- **(3)** A land code may extend the application of subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or any portion of it, to other leasehold interests or leases in First Nation land.
-> 1999, c. 24, s. 38; 2007, c. 17, s. 17; 2012, c. 19, s. 652(E).
+- **(3)** A land code may extend the application of subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or any portion of it, to other leasehold interests or leases in reserve land to which a land code applies.
+> 1999, c. 24, s. 38; 2007, c. 17, s. 17; 2012, c. 19, s. 652(E); 2018, c. 27, s. 378.
 
 
 
@@ -920,13 +1090,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **39** 
 
 - **(1)** The [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md)
-	- **(a)** continues to apply in respect of any First Nation land that was subject to that Act on the coming into force of the land code of a First Nation; and
-	- **(b)** applies in respect of an interest or right in First Nation land that is granted to Her Majesty for the exploitation of oil and gas pursuant to a land code.
+	- **(a)** continues to apply in respect of any reserve land to which a land code applies that was subject to that Act on the coming into force of the land code; and
+	- **(b)** applies in respect of an interest or right in reserve land to which a land code applies that is granted to Her Majesty for the exploitation of oil and gas under the land code.
 
 **Royalties**
 
-- **(2)** For greater certainty, the provisions of the [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md) respecting the payment of royalties to Her Majesty in trust for a First Nation apply, notwithstanding any other provision of this Act, in respect of First Nation land referred to in subsection (1).
-> 1999, c. 24, s. 39; 2007, c. 17, s. 18; 2012, c. 19, s. 652(E).
+- **(2)** For greater certainty, the provisions of the [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md) respecting the payment of royalties to Her Majesty in trust for a First Nation apply, despite any other provision of this Act, in respect of reserve land referred to in subsection (1).
+> 1999, c. 24, s. 39; 2007, c. 17, s. 18; 2012, c. 19, s. 652(E); 2018, c. 27, s. 379.
 
 
 
@@ -984,7 +1154,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-## Amendment of Schedule
+## Amendment of Schedules
 
 
 
@@ -992,22 +1162,26 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **45** 
 
-- **(1)** The Governor in Council may, by order, add the name of a band to the schedule if he or she is satisfied that the signing of the Framework Agreement on the band’s behalf has been duly authorized and that the Framework Agreement has been signed.
+- **(1)** The Minister may, by order, add the name of a band to Schedule 1 if he or she is satisfied that the signing of the Framework Agreement on the band’s behalf has been duly authorized and that the Framework Agreement has been signed.
 
-**Coming-into-force date of land code**
+**Coming into force of land code**
 
-- **(2)** The Minister may, by order, add to the schedule the date on which a land code comes into force with respect to First Nation lands.
+- **(2)** The Minister may, by order, add to Schedule 2 the name of a First Nation that has a land code in force and the date on which the land code comes into force with respect to First Nation land.
 
-**Deletion of band name**
+**Amendment**
 
-- **(3)** The Governor in Council may, by order, delete from the schedule the name of a First Nation and the date on which a land code comes into force with respect to the First Nation’s lands, if that First Nation is no longer subject to this Act under the terms of a land claims agreement or a self-government agreement.
-> 1999, c. 24, s. 45; 2012, c. 19, s. 636.
+- **(3)** The Minister may, by order, amend Schedule 1 or 2 to amend the name of a First Nation.
+
+**Deletion**
+
+- **(4)** The Minister may, by order, delete from Schedule 1 or 2 the name of a First Nation and delete from Schedule 2 the date on which a land code comes into force with respect to the First Nation’s lands, if that First Nation is no longer subject to this Act under the terms of a land claims agreement or a self-government agreement.
+> 1999, c. 24, s. 45; 2012, c. 19, s. 636; 2018, c. 27, s. 380.
 
 
 
 
 
-## Transitional Provision
+## Transitional Provisions
 
 
 
@@ -1024,7 +1198,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-## Conditional Amendment
+**Transfer of capital moneys**
+
+**46.1** 
+
+- **(1)** If a First Nation’s land code comes into force before the day on which this section comes into force, all capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation if the individual agreement between the First Nation and the Minister is amended to provide for it. All capital moneys collected or received by Her Majesty for the use and benefit of the First Nation or its First Nation members after the transfer are not Indian moneys and shall be transferred to the First Nation.
+
+**Duty to inform members**
+
+- **(2)** The council of the First Nation shall, at least 30 days before the individual agreement is amended, inform the First Nation members of the council’s intention to amend the individual agreement and of the amount of capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members.
+> 2018, c. 27, s. 382.
+
+
 
 
 **47** [Amendment]
@@ -1045,653 +1230,853 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### **SCHEDULE** 
-**(Sections 2 and 45)**
+### **SCHEDULE 1** 
+**(Subsections 2(1) and 45(1), (3) and (4))**
 <table>
-<h4>Names of First Nations and Coming-into-Force Dates of Land Codes</h4>
+<h4>Names of First Nations that Have Signed Framework Agreement</h4>
 <tr>
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
+<th>Province</th>
+<th>First Nation</th>
 </tr>
 <tr>
-<th>Item</th>
-<th>First Nation that has signed the Framework Agreement</th>
-<th>Land code coming-into-force date</th>
-</tr>
-<tr>
-<td>1</td>
-<td>[Repealed, SOR/2012-291, s. 1]</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Musqueam</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Fort George (also known as Lheit-Lit’en and Lheidli T’enneh)</td>
-<td>November 1, 2000</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Anderson Lake (also known as N’Quatqua)</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Squamish</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Siksika Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>John Smith (also known as Muskoday)</td>
-<td>January 1, 2000</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Cowessess</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>The Pas (also known as Opaskwayak Cree)</td>
-<td>August 1, 2002</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Nipissing Band of Ojibways (also known as Nipissing)</td>
-<td>July 1, 2003</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Scugog (also known as Mississaugas of Scugog Island)</td>
-<td>January 1, 2000</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Chippewas of Rama (also known as Chippewas of Mnjikaning)</td>
-<td></td>
-</tr>
-<tr>
-<td>13</td>
-<td>Chippewas of Georgina Island</td>
-<td>January 1, 2000</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Saint Mary’s</td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>Garden River</td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Moose Deer Point</td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>Whitecap No. 94</td>
-<td>January 1, 2004</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Kinistin</td>
-<td>February 1, 2005</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Mississauga</td>
-<td>August 1, 2009</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Whitefish Lake</td>
-<td>March 1, 2009</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Songhees</td>
-<td>October 1, 2011</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Beecher Bay</td>
-<td>August 1, 2003</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Pavilion</td>
-<td>May 1, 2004</td>
-</tr>
-<tr>
-<td>24</td>
-<td>[Repealed, 2008, c. 32, s. 27]</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Tsawout</td>
-<td>May 29, 2007</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Kingsclear</td>
-<td></td>
-</tr>
-<tr>
-<td>27</td>
-<td>Skeetchestn</td>
-<td></td>
-</tr>
-<tr>
-<td>28</td>
-<td>Muskeg Lake</td>
-<td>September 1, 2005</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Burrard</td>
-<td>June 6, 2007</td>
-</tr>
-<tr>
-<td>30</td>
-<td>[Repealed, 2014, c. 11, s. 25]</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Osoyoos</td>
-<td></td>
-</tr>
-<tr>
-<td>32</td>
-<td>Chippewas of Kettle and Stony Point</td>
-<td></td>
-</tr>
-<tr>
-<td>33</td>
-<td>Dokis</td>
-<td>April 1, 2014</td>
-</tr>
-<tr>
-<td>34</td>
-<td>[Repealed, 2012, c. 19, s. 646]</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Kitselas</td>
-<td>November 25, 2005</td>
-</tr>
-<tr>
-<td>36</td>
-<td>McLeod Lake</td>
-<td>May 20, 2003</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Shxwhá:y Village (also known as Sqay Village)</td>
-<td>January 8, 2007</td>
-</tr>
-<tr>
-<td>38</td>
-<td>T’Sou-ke (also known as Tsouke)</td>
-<td>February 1, 2007</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Leq’á:mel (also known as Leqamel)</td>
-<td>February 1, 2010</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Flying Dust</td>
-<td>October 6, 2013</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Swan Lake</td>
-<td>October 1, 2010</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Henvey Inlet</td>
-<td>January 1, 2010</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Matsqui</td>
-<td>February 26, 2009</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Seabird Island</td>
-<td>September 1, 2009</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Squiala</td>
-<td>July 29, 2008</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Tzeachten</td>
-<td>August 21, 2008</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Pasqua</td>
-<td></td>
-</tr>
-<tr>
-<td>48</td>
-<td>We Wai Kai (also known as Cape Mudge)</td>
-<td>December 7, 2009</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Chemawawin</td>
-<td>September 6, 2010</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Kahkewistahaw</td>
-<td>December 22, 2011</td>
-</tr>
-<tr>
-<td>51</td>
+<td>Ontario</td>
 <td>Alderville</td>
-<td></td>
 </tr>
 <tr>
-<td>52</td>
-<td>Big Island (also known as Anishnaabeg of Naongashiing)</td>
-<td>August 1, 2011</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Fort McKay First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>54</td>
-<td>Innue Essipit</td>
-<td></td>
-</tr>
-<tr>
-<td>55</td>
-<td>Nanoose</td>
-<td>March 1, 2015</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Campbell River</td>
-<td>January 31, 2013</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Sumas</td>
-<td></td>
-</tr>
-<tr>
-<td>58</td>
-<td>Skawahlook</td>
-<td>August 5, 2010</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Cowichan Tribes</td>
-<td></td>
-</tr>
-<tr>
-<td>60</td>
-<td>Haisla</td>
-<td>November 6, 2015</td>
-</tr>
-<tr>
-<td>61</td>
-<td>St. Mary’s</td>
-<td>July 1, 2014</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Shuswap</td>
-<td>February 1, 2015</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Stz’uminus</td>
-<td>August 30, 2014</td>
-</tr>
-<tr>
-<td>64</td>
-<td>Williams Lake</td>
-<td>July 1, 2014</td>
-</tr>
-<tr>
-<td>65</td>
-<td>Skowkale</td>
-<td>May 1, 2014</td>
-</tr>
-<tr>
-<td>66</td>
-<td>Yakweakwioose</td>
-<td>May 1, 2014</td>
-</tr>
-<tr>
-<td>67</td>
-<td>Aitchelitz</td>
-<td>May 1, 2014</td>
-</tr>
-<tr>
-<td>68</td>
-<td>Alexis Nakota Sioux</td>
-<td></td>
-</tr>
-<tr>
-<td>69</td>
-<td>Tsuu T’ina</td>
-<td></td>
-</tr>
-<tr>
-<td>70</td>
-<td>One Arrow</td>
-<td>September 1, 2014</td>
-</tr>
-<tr>
-<td>71</td>
-<td>Long Plain</td>
-<td></td>
-</tr>
-<tr>
-<td>72</td>
-<td>Buffalo Point</td>
-<td></td>
-</tr>
-<tr>
-<td>73</td>
-<td>Bingwi Neyaashi Anishinaabek</td>
-<td>April 1, 2015</td>
-</tr>
-<tr>
-<td>74</td>
-<td>Beausoleil</td>
-<td></td>
-</tr>
-<tr>
-<td>75</td>
-<td>Montagnais du Lac St-Jean</td>
-<td></td>
-</tr>
-<tr>
-<td>76</td>
-<td>Miawpukek</td>
-<td></td>
-</tr>
-<tr>
-<td>77</td>
-<td>Membertou</td>
-<td></td>
-</tr>
-<tr>
-<td>78</td>
-<td>Kwantlen</td>
-<td>November 1, 2015</td>
-</tr>
-<tr>
-<td>79</td>
-<td>Mount Currie</td>
-<td></td>
-</tr>
-<tr>
-<td>80</td>
-<td>Neskonlith</td>
-<td></td>
-</tr>
-<tr>
-<td>81</td>
-<td>Shxw’ow’hamel</td>
-<td>March 25, 2015</td>
-</tr>
-<tr>
-<td>82</td>
-<td>George Gordon</td>
-<td></td>
-</tr>
-<tr>
-<td>83</td>
-<td>Brokenhead Ojibway</td>
-<td>April 1, 2015</td>
-</tr>
-<tr>
-<td>84</td>
 <td>Algonquins of Pikwakanagan</td>
-<td></td>
 </tr>
 <tr>
-<td>85</td>
-<td>Shawanaga</td>
-<td>July 1, 2015</td>
+<td>Animbiigoo Zaagi’igan Anishinaabek</td>
 </tr>
 <tr>
-<td>86</td>
-<td>Nak’azdli</td>
-<td></td>
+<td>Beausoleil</td>
 </tr>
 <tr>
-<td>87</td>
-<td>Metlakatla</td>
-<td></td>
+<td>Big Grassy First Nation</td>
 </tr>
 <tr>
-<td>88</td>
-<td>Malahat First Nation</td>
-<td>March 31, 2015</td>
+<td>Big Island (also known as Anishnaabeg of Naongashiing)</td>
 </tr>
 <tr>
-<td>89</td>
-<td>?Akisq’nuk First Nation</td>
-<td></td>
+<td>Bingwi Neyaashi Anishinaabek</td>
 </tr>
 <tr>
-<td>90</td>
-<td>Tahltan</td>
-<td></td>
-</tr>
-<tr>
-<td>91</td>
-<td>Homalco</td>
-<td></td>
-</tr>
-<tr>
-<td>92</td>
-<td>K’ómoks First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>93</td>
-<td>Lower Nicola</td>
-<td></td>
-</tr>
-<tr>
-<td>94</td>
-<td>Katzie</td>
-<td></td>
-</tr>
-<tr>
-<td>95</td>
-<td>Cheam</td>
-<td></td>
-</tr>
-<tr>
-<td>96</td>
-<td>Scowlitz</td>
-<td></td>
-</tr>
-<tr>
-<td>97</td>
-<td>Soowahlie</td>
-<td></td>
-</tr>
-<tr>
-<td>98</td>
-<td>Chawathil</td>
-<td></td>
-</tr>
-<tr>
-<td>99</td>
-<td>Yellow Quill</td>
-<td></td>
-</tr>
-<tr>
-<td>100</td>
-<td>Mistawasis</td>
-<td></td>
-</tr>
-<tr>
-<td>101</td>
-<td>English River First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>102</td>
-<td>Fort Alexander</td>
-<td></td>
-</tr>
-<tr>
-<td>103</td>
-<td>Fisher River</td>
-<td></td>
-</tr>
-<tr>
-<td>104</td>
-<td>Norway House Cree Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>105</td>
-<td>Nisichawayasihk Cree Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>106</td>
-<td>Magnetawan</td>
-<td>September 1, 2015</td>
-</tr>
-<tr>
-<td>107</td>
-<td>Chippewas of the Thames First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>108</td>
-<td>Wasauksing First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>109</td>
-<td>M’Chigeeng First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>110</td>
-<td>Long Lake No. 58 First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>111</td>
-<td>Temagami First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>112</td>
-<td>Première Nation des Abénakis de Wôlinak</td>
-<td></td>
-</tr>
-<tr>
-<td>113</td>
-<td>Madawaska Maliseet First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>114</td>
-<td>Penticton</td>
-<td></td>
-</tr>
-<tr>
-<td>115</td>
-<td>Wahpeton Dakota Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>116</td>
-<td>Misipawistik Cree Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>117</td>
-<td>Serpent River</td>
-<td></td>
-</tr>
-<tr>
-<td>118</td>
-<td>Fort William</td>
-<td></td>
-</tr>
-<tr>
-<td>119</td>
-<td>Odanak</td>
-<td></td>
-</tr>
-<tr>
-<td>120</td>
-<td>Kitsumkalum</td>
-<td></td>
-</tr>
-<tr>
-<td>121</td>
-<td>Lake Cowichan First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>122</td>
-<td>Namgis First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>123</td>
-<td>Okanagan</td>
-<td></td>
-</tr>
-<tr>
-<td>124</td>
-<td>Sts’ailes</td>
-<td></td>
-</tr>
-<tr>
-<td>125</td>
-<td>Tsartlip First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>126</td>
-<td>Fort Nelson First Nation</td>
-<td></td>
-</tr>
-<tr>
-<td>127</td>
 <td>Brunswick House</td>
+</tr>
+<tr>
+<td>Chapleau Cree First Nation</td>
+</tr>
+<tr>
+<td>Chippewas of Georgina Island</td>
+</tr>
+<tr>
+<td>Chippewas of Kettle and Stony Point</td>
+</tr>
+<tr>
+<td>Chippewas of Rama (also known as Chippewas of Mnjikaning)</td>
+</tr>
+<tr>
+<td>Chippewas of the Thames First Nation</td>
+</tr>
+<tr>
+<td>Dokis</td>
+</tr>
+<tr>
+<td>Fort William</td>
+</tr>
+<tr>
+<td>Garden River</td>
+</tr>
+<tr>
+<td>Henvey Inlet</td>
+</tr>
+<tr>
+<td>Hiawatha First Nation</td>
+</tr>
+<tr>
+<td>Long Lake No. 58 First Nation</td>
+</tr>
+<tr>
+<td>Magnetawan</td>
+</tr>
+<tr>
+<td>Mattagami First Nation</td>
+</tr>
+<tr>
+<td>M’Chigeeng First Nation</td>
+</tr>
+<tr>
+<td>Mississauga</td>
+</tr>
+<tr>
+<td>Moose Deer Point</td>
+</tr>
+<tr>
+<td>Nipissing Band of Ojibways (also known as Nipissing)</td>
+</tr>
+<tr>
+<td>Rainy River First Nations</td>
+</tr>
+<tr>
+<td>Saugeen First Nation</td>
+</tr>
+<tr>
+<td>Scugog (also known as Mississaugas of Scugog Island)</td>
+</tr>
+<tr>
+<td>Serpent River</td>
+</tr>
+<tr>
+<td>Shawanaga</td>
+</tr>
+<tr>
+<td>Sheshegwaning First Nation</td>
+</tr>
+<tr>
+<td>Temagami First Nation</td>
+</tr>
+<tr>
+<td>Wasauksing First Nation</td>
+</tr>
+<tr>
+<td>Wiikwemkoong Unceded Territory</td>
+</tr>
+<tr>
+<td>Whitefish Lake</td>
+</tr>
+<tr>
+<td>Quebec</td>
+<td>Innue Essipit</td>
+</tr>
+<tr>
+<td>Listuguj Mi’gmaq Government</td>
+</tr>
+<tr>
+<td>Montagnais du Lac St-Jean</td>
+</tr>
+<tr>
+<td>Odanak</td>
+</tr>
+<tr>
+<td>Première Nation des Abénakis de Wôlinak</td>
+</tr>
+<tr>
+<td>Nova Scotia</td>
+<td>Membertou</td>
+</tr>
+<tr>
+<td>Paq’tnkek Mi’kmaw Nation</td>
+</tr>
+<tr>
+<td>New Brunswick</td>
+<td>Kingsclear</td>
+</tr>
+<tr>
+<td>Madawaska Maliseet First Nation</td>
+</tr>
+<tr>
+<td>Saint Mary’s</td>
+</tr>
+<tr>
+<td>Woodstock First Nation</td>
+</tr>
+<tr>
+<td>Manitoba</td>
+<td>Brokenhead Ojibway</td>
+</tr>
+<tr>
+<td>Buffalo Point</td>
+</tr>
+<tr>
+<td>Chemawawin</td>
+</tr>
+<tr>
+<td>Fisher River</td>
+</tr>
+<tr>
+<td>Fort Alexander</td>
+</tr>
+<tr>
+<td>Long Plain</td>
+</tr>
+<tr>
+<td>Misipawistik Cree Nation</td>
+</tr>
+<tr>
+<td>Nisichawayasihk Cree Nation</td>
+</tr>
+<tr>
+<td>Norway House Cree Nation</td>
+</tr>
+<tr>
+<td>Swan Lake</td>
+</tr>
+<tr>
+<td>The Pas (also known as Opaskwayak Cree)</td>
+</tr>
+<tr>
+<td>British Columbia</td>
+<td>?Akisq’nuk First Nation</td>
+</tr>
+<tr>
+<td>Aitchelitz</td>
+</tr>
+<tr>
+<td>Anderson Lake (also known as N’Quatqua)</td>
+</tr>
+<tr>
+<td>Beecher Bay</td>
+</tr>
+<tr>
+<td>Burrard</td>
+</tr>
+<tr>
+<td>Campbell River</td>
+</tr>
+<tr>
+<td>Chawathil</td>
+</tr>
+<tr>
+<td>Cheam</td>
+</tr>
+<tr>
+<td>Cowichan Tribes</td>
+</tr>
+<tr>
+<td>Ditidaht First Nation</td>
+</tr>
+<tr>
+<td>Fort George (also known as Lheit-Lit’en and Lheidli T’enneh)</td>
+</tr>
+<tr>
+<td>Fort Nelson First Nation</td>
+</tr>
+<tr>
+<td>Haisla</td>
+</tr>
+<tr>
+<td>Homalco</td>
+</tr>
+<tr>
+<td>Iskut Band</td>
+</tr>
+<tr>
+<td>Katzie</td>
+</tr>
+<tr>
+<td>Kitselas</td>
+</tr>
+<tr>
+<td>Kitsumkalum</td>
+</tr>
+<tr>
+<td>K’ómoks First Nation</td>
+</tr>
+<tr>
+<td>Kwantlen</td>
+</tr>
+<tr>
+<td>Kwaw-kwaw-Apilt First Nation</td>
+</tr>
+<tr>
+<td>Lake Cowichan First Nation</td>
+</tr>
+<tr>
+<td>Leq’á:mel (also known as Leqamel)</td>
+</tr>
+<tr>
+<td>Lower Nicola</td>
+</tr>
+<tr>
+<td>Lytton First Nation</td>
+</tr>
+<tr>
+<td>Malahat First Nation</td>
+</tr>
+<tr>
+<td>Matsqui</td>
+</tr>
+<tr>
+<td>McLeod Lake</td>
+</tr>
+<tr>
+<td>Metlakatla</td>
+</tr>
+<tr>
+<td>Mount Currie</td>
+</tr>
+<tr>
+<td>Musqueam</td>
+</tr>
+<tr>
+<td>Nak’azdli</td>
+</tr>
+<tr>
+<td>Namgis First Nation</td>
+</tr>
+<tr>
+<td>Nanoose</td>
+</tr>
+<tr>
+<td>Neskonlith</td>
+</tr>
+<tr>
+<td>Okanagan</td>
+</tr>
+<tr>
+<td>Osoyoos</td>
+</tr>
+<tr>
+<td>Pavilion</td>
+</tr>
+<tr>
+<td>Penelakut Tribe</td>
+</tr>
+<tr>
+<td>Penticton</td>
+</tr>
+<tr>
+<td>Scowlitz</td>
+</tr>
+<tr>
+<td>Seabird Island</td>
+</tr>
+<tr>
+<td>Shuswap</td>
+</tr>
+<tr>
+<td>Shxwhá:y Village (also known as Sqay Village)</td>
+</tr>
+<tr>
+<td>Shxw’ow’hamel</td>
+</tr>
+<tr>
+<td>Skawahlook</td>
+</tr>
+<tr>
+<td>Skeetchestn</td>
+</tr>
+<tr>
+<td>Skowkale</td>
+</tr>
+<tr>
+<td>Songhees</td>
+</tr>
+<tr>
+<td>Soowahlie</td>
+</tr>
+<tr>
+<td>Splatsin Indian Band</td>
+</tr>
+<tr>
+<td>Squamish</td>
+</tr>
+<tr>
+<td>Squiala</td>
+</tr>
+<tr>
+<td>St. Mary’s</td>
+</tr>
+<tr>
+<td>Sts’ailes</td>
+</tr>
+<tr>
+<td>Stz’uminus</td>
+</tr>
+<tr>
+<td>Sumas</td>
+</tr>
+<tr>
+<td>Tahltan</td>
+</tr>
+<tr>
+<td>T’it’q’et First Nation</td>
+</tr>
+<tr>
+<td>Tsartlip First Nation</td>
+</tr>
+<tr>
+<td>Tsawout</td>
+</tr>
+<tr>
+<td>T’Sou-ke (also known as Tsouke)</td>
+</tr>
+<tr>
+<td>Tzeachten</td>
+</tr>
+<tr>
+<td>We Wai Kai (also known as Cape Mudge)</td>
+</tr>
+<tr>
+<td>Williams Lake</td>
+</tr>
+<tr>
+<td>Yakweakwioose</td>
+</tr>
+<tr>
+<td>Prince Edward Island</td>
+<td></td>
+</tr>
+<tr>
+<td>Saskatchewan</td>
+<td>Carry The Kettle</td>
+</tr>
+<tr>
+<td>Cowessess</td>
+</tr>
+<tr>
+<td>English River First Nation</td>
+</tr>
+<tr>
+<td>Flying Dust</td>
+</tr>
+<tr>
+<td>George Gordon</td>
+</tr>
+<tr>
+<td>James Smith Cree Nation</td>
+</tr>
+<tr>
+<td>John Smith (also known as Muskoday)</td>
+</tr>
+<tr>
+<td>Kahkewistahaw</td>
+</tr>
+<tr>
+<td>Kinistin</td>
+</tr>
+<tr>
+<td>Lac La Ronge Indian Band</td>
+</tr>
+<tr>
+<td>Mistawasis</td>
+</tr>
+<tr>
+<td>Muskeg Lake</td>
+</tr>
+<tr>
+<td>One Arrow</td>
+</tr>
+<tr>
+<td>Pasqua</td>
+</tr>
+<tr>
+<td>Sakimay First Nations</td>
+</tr>
+<tr>
+<td>Wahpeton Dakota Nation</td>
+</tr>
+<tr>
+<td>Whitecap No. 94</td>
+</tr>
+<tr>
+<td>Yellow Quill</td>
+</tr>
+<tr>
+<td>Alberta</td>
+<td>Alexis Nakota Sioux</td>
+</tr>
+<tr>
+<td>Enoch Cree Nation</td>
+</tr>
+<tr>
+<td>Fort McKay First Nation</td>
+</tr>
+<tr>
+<td>Fort McMurray #468 First Nation</td>
+</tr>
+<tr>
+<td>Loon River First Nation</td>
+</tr>
+<tr>
+<td>Siksika Nation</td>
+</tr>
+<tr>
+<td>Tsuu T’ina</td>
+</tr>
+<tr>
+<td>Newfoundland and Labrador</td>
+<td>Miawpukek</td>
+</tr>
+<tr>
+<td>Yukon</td>
+<td></td>
+</tr>
+<tr>
+<td>Northwest Territories</td>
+<td>K’at’l’Odeeche First Nation</td>
+</tr>
+<tr>
+<td>Nunavut</td>
 <td></td>
 </tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67; SOR/2017-46.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67; SOR/2017-46; 2018, c. 27, s. 383.
+
+
+
+
+### **SCHEDULE 2** 
+**(Subsections 45(2), (3) and (4))**
+<table>
+<h4>Names of First Nations and Coming-into-force Dates of Land Codes</h4>
+<tr>
+<th>Province</th>
+<th>First Nation</th>
+<th>Land Code Coming-into-force Date</th>
+</tr>
+<tr>
+<td>Ontario</td>
+<td>Big Island (also known as Anishnaabeg of Naongashiing)</td>
+<td>August 1, 2011</td>
+</tr>
+<tr>
+<td>Bingwi Neyaashi Anishinaabek</td>
+<td>April 1, 2015</td>
+</tr>
+<tr>
+<td>Chippewas of Georgina Island</td>
+<td>January 1, 2000</td>
+</tr>
+<tr>
+<td>Chippewas of Rama (also known as Chippewas of Mnjikaning)</td>
+<td>May 1, 2018</td>
+</tr>
+<tr>
+<td>Dokis</td>
+<td>April 1, 2014</td>
+</tr>
+<tr>
+<td>Henvey Inlet</td>
+<td>January 1, 2010</td>
+</tr>
+<tr>
+<td>Long Lake No. 58 First Nation</td>
+<td>April 1, 2017</td>
+</tr>
+<tr>
+<td>Magnetawan</td>
+<td>September 1, 2015</td>
+</tr>
+<tr>
+<td>Mississauga</td>
+<td>August 1, 2009</td>
+</tr>
+<tr>
+<td>Nipissing Band of Ojibways (also known as Nipissing)</td>
+<td>July 1, 2003</td>
+</tr>
+<tr>
+<td>Scugog (also known as Mississaugas of Scugog Island)</td>
+<td>January 1, 2000</td>
+</tr>
+<tr>
+<td>Shawanaga</td>
+<td>July 1, 2015</td>
+</tr>
+<tr>
+<td>Temagami First Nation</td>
+<td>September 1, 2017</td>
+</tr>
+<tr>
+<td>Wasauksing First Nation</td>
+<td>June 1, 2017</td>
+</tr>
+<tr>
+<td>Whitefish Lake</td>
+<td>March 1, 2009</td>
+</tr>
+<tr>
+<td>Quebec</td>
+<td>Première Nation des Abénakis de Wôlinak</td>
+<td>April 1, 2017</td>
+</tr>
+<tr>
+<td>Nova Scotia</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>New Brunswick</td>
+<td>Madawaska Maliseet First Nation</td>
+<td>January 1, 2018</td>
+</tr>
+<tr>
+<td>Manitoba</td>
+<td>Brokenhead Ojibway</td>
+<td>April 1, 2015</td>
+</tr>
+<tr>
+<td>Chemawawin</td>
+<td>September 6, 2010</td>
+</tr>
+<tr>
+<td>Long Plain</td>
+<td>April 1, 2018</td>
+</tr>
+<tr>
+<td>Misipawistik Cree Nation</td>
+<td>June 1, 2017</td>
+</tr>
+<tr>
+<td>Nisichawayasihk Cree Nation</td>
+<td>October 23, 2017</td>
+</tr>
+<tr>
+<td>Swan Lake</td>
+<td>October 1, 2010</td>
+</tr>
+<tr>
+<td>The Pas (also known as Opaskwayak Cree)</td>
+<td>August 1, 2002</td>
+</tr>
+<tr>
+<td>British Colombia</td>
+<td>Aitchelitz</td>
+<td>May 1, 2014</td>
+</tr>
+<tr>
+<td>Beecher Bay</td>
+<td>August 1, 2003</td>
+</tr>
+<tr>
+<td>Burrard</td>
+<td>June 6, 2007</td>
+</tr>
+<tr>
+<td>Campbell River</td>
+<td>January 31, 2013</td>
+</tr>
+<tr>
+<td>Chawathil</td>
+<td>November 25, 2016</td>
+</tr>
+<tr>
+<td>Cheam</td>
+<td>September 1, 2016</td>
+</tr>
+<tr>
+<td>Fort George (also known as Lheit-Lit’en and Lheidli T’enneh)</td>
+<td>November 1, 2000</td>
+</tr>
+<tr>
+<td>Haisla</td>
+<td>November 6, 2015</td>
+</tr>
+<tr>
+<td>Katzie</td>
+<td>December 1, 2017</td>
+</tr>
+<tr>
+<td>Kitselas</td>
+<td>November 25, 2005</td>
+</tr>
+<tr>
+<td>K’ómoks First Nation</td>
+<td>November 30, 2016</td>
+</tr>
+<tr>
+<td>Kwantlen</td>
+<td>November 1, 2015</td>
+</tr>
+<tr>
+<td>Kwaw-kwaw-Apilt First Nation</td>
+<td>June 1, 2018</td>
+</tr>
+<tr>
+<td>Lake Cowichan First Nation</td>
+<td>June 9, 2017</td>
+</tr>
+<tr>
+<td>Leq’á:mel (also known as Leqamel)</td>
+<td>February 1, 2010</td>
+</tr>
+<tr>
+<td>Lower Nicola</td>
+<td>December 1, 2016</td>
+</tr>
+<tr>
+<td>Malahat First Nation</td>
+<td>March 31, 2015</td>
+</tr>
+<tr>
+<td>Matsqui</td>
+<td>February 26, 2009</td>
+</tr>
+<tr>
+<td>McLeod Lake</td>
+<td>May 20, 2003</td>
+</tr>
+<tr>
+<td>Metlakatla</td>
+<td>December 1, 2016</td>
+</tr>
+<tr>
+<td>Musqueam</td>
+<td>June 5, 2017</td>
+</tr>
+<tr>
+<td>Nak’azdli</td>
+<td>December 1, 2016</td>
+</tr>
+<tr>
+<td>Nanoose</td>
+<td>March 1, 2015</td>
+</tr>
+<tr>
+<td>Pavilion</td>
+<td>May 1, 2004</td>
+</tr>
+<tr>
+<td>Scowlitz</td>
+<td>September 1, 2016</td>
+</tr>
+<tr>
+<td>Seabird Island</td>
+<td>September 1, 2009</td>
+</tr>
+<tr>
+<td>Shuswap</td>
+<td>February 1, 2015</td>
+</tr>
+<tr>
+<td>Shxwhá:y Village (also known as Sqay Village)</td>
+<td>January 8, 2007</td>
+</tr>
+<tr>
+<td>Shxw’ow’hamel</td>
+<td>March 25, 2015</td>
+</tr>
+<tr>
+<td>Skawahlook</td>
+<td>August 5, 2010</td>
+</tr>
+<tr>
+<td>Skowkale</td>
+<td>May 1, 2014</td>
+</tr>
+<tr>
+<td>Songhees</td>
+<td>October 1, 2011</td>
+</tr>
+<tr>
+<td>Soowahlie</td>
+<td>June 1, 2016</td>
+</tr>
+<tr>
+<td>Squiala</td>
+<td>July 29, 2008</td>
+</tr>
+<tr>
+<td>St. Mary’s</td>
+<td>July 1, 2014</td>
+</tr>
+<tr>
+<td>Sts’ailes</td>
+<td>October 23, 2018</td>
+</tr>
+<tr>
+<td>Stz’uminus</td>
+<td>August 30, 2014</td>
+</tr>
+<tr>
+<td>Sumas</td>
+<td>November 11, 2011</td>
+</tr>
+<tr>
+<td>Tsawout</td>
+<td>May 29, 2007</td>
+</tr>
+<tr>
+<td>T’Sou-ke (also known as Tsouke)</td>
+<td>February 1, 2007</td>
+</tr>
+<tr>
+<td>Tzeachten</td>
+<td>August 21, 2008</td>
+</tr>
+<tr>
+<td>We Wai Kai (also known as Cape Mudge)</td>
+<td>December 7, 2009</td>
+</tr>
+<tr>
+<td>Williams Lake</td>
+<td>July 1, 2014</td>
+</tr>
+<tr>
+<td>Yakweakwioose</td>
+<td>May 1, 2014</td>
+</tr>
+<tr>
+<td>Prince Edward Island</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Saskatchewan</td>
+<td>Flying Dust</td>
+<td>October 6, 2013</td>
+</tr>
+<tr>
+<td>John Smith (also known as Muskoday)</td>
+<td>January 1, 2000</td>
+</tr>
+<tr>
+<td>Kahkewistahaw</td>
+<td>December 22, 2011</td>
+</tr>
+<tr>
+<td>Kinistin</td>
+<td>February 1, 2005</td>
+</tr>
+<tr>
+<td>Mistawasis</td>
+<td>April 1, 2017</td>
+</tr>
+<tr>
+<td>Muskeg Lake</td>
+<td>September 1, 2005</td>
+</tr>
+<tr>
+<td>One Arrow</td>
+<td>September 1, 2014</td>
+</tr>
+<tr>
+<td>Whitecap No. 94</td>
+<td>January 1, 2004</td>
+</tr>
+<tr>
+<td>Yellow Quill</td>
+<td>March 22, 2017</td>
+</tr>
+<tr>
+<td>Alberta</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Newfoundland and Labrador</td>
+<td>Miawpukek</td>
+<td>December 1, 2017</td>
+</tr>
+<tr>
+<td>Yukon</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Northwest Territories</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nunavut</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> 2018, c. 27, s. 383.
 
 
