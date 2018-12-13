@@ -862,15 +862,17 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 - **(5)** For the purposes of subsection (4), a requirement to provide information or a record shall not be considered to be unreasonable solely because the information or record is under the control of or available to a person who is not resident in Canada, if that person is related, for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), to the person served with the notice of the requirement.
 
-**Time during consideration not to count**
+**Time period not to count**
 
-- **(6)** The period between the day on which an application for the review of a requirement is made and the day on which the review is decided shall not be counted in the computation of
+- **(6)** The period between the day on which an application for the review of a requirement is made and the day on which the application is finally disposed of shall not be counted in the computation of
 	- **(a)** the period set out in the notice of the requirement; or
 	- **(b)** the period within which an assessment may be made under section 42.
 
 **Consequence of failure**
 
 - **(7)** If a person fails to comply substantially with a notice served under subsection (1) and the notice is not set aside under subsection (4), any court having jurisdiction in a civil proceeding relating to the administration or enforcement of this Act shall, on the motion of the Minister, prohibit the introduction by that person of any information or record described in that notice.
+> 2002, c. 9, s. 5 “38”; 2018, c. 27, s. 62.
+
 
 
 
