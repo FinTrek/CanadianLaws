@@ -24,7 +24,7 @@ qu’il est souhaitable et dans l’intérêt national d’établir des normes n
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 > 2012, ch. 19, art. 525.
@@ -12020,49 +12020,51 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***action participante*** Action d’une personne morale, y compris une part sociale, qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution.
+***action participante*** Action d’une personne morale, y compris une part sociale, qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution. (*participating share*)
 
-***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
+***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
 - **a)** le produit de la vente soit versé au fonds, déduction faite de la commission de vente et des frais de service;
-- **b)** le fait que la vente comporte une commission et des frais de service soit porté à la connaissance de l’acquéreur avant l’achat.
+- **b)** le fait que la vente comporte une commission et des frais de service soit porté à la connaissance de l’acquéreur avant l’achat. (*mutual fund distribution entity*)
 
-***courtier immobilier*** Entité dont l’activité consiste principalement :
+***courtier immobilier*** Entité dont l’activité consiste principalement :
 - **a)** à agir en qualité de mandataire pour des acheteurs, des vendeurs, des créanciers ou débiteurs hypothécaires, des locataires ou des bailleurs de biens immeubles;
-- **b)** à fournir des services de consultation et d’évaluation en matière de biens immeubles.
+- **b)** à fournir des services de consultation et d’évaluation en matière de biens immeubles. (*real property brokerage entity*)
 
-***entité admissible*** Entité dans laquelle la banque est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 468.
+***entité admissible*** Entité dans laquelle la banque est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 468. (*permitted entity*)
 
-***entité s’occupant d’affacturage*** S’entend au sens des règlements.
+***entité s’occupant d’affacturage*** S’entend au sens des règlements. (*factoring entity*)
 
-***entité s’occupant de crédit-bail*** Entité dont l’activité est limitée au crédit-bail de biens meubles et aux activités connexes prévues aux règlements et est conforme à ceux-ci et qui, dans l’exercice de son activité au Canada, s’abstient :
+***entité s’occupant de crédit-bail*** Entité dont l’activité est limitée au crédit-bail de biens meubles et aux activités connexes prévues aux règlements et est conforme à ceux-ci et qui, dans l’exercice de son activité au Canada, s’abstient :
 - **a)** de diriger ses clients, présents ou potentiels, vers des marchands donnés de tels biens;
 - **b)** de conclure des contrats de location portant sur des véhicules à moteur dont le poids brut, au sens des règlements, est inférieur à vingt et une tonnes;
-- **c)** de conclure avec des personnes physiques des contrats de location portant sur des meubles meublants, au sens des règlements.
+- **c)** de conclure avec des personnes physiques des contrats de location portant sur des meubles meublants, au sens des règlements. (*financial leasing entity*)
 
-***entité s’occupant de financement*** S’entend au sens des règlements.
+***entité s’occupant de financement*** S’entend au sens des règlements. (*finance entity*)
 
-***entité s’occupant de financement spécial*** S’entend au sens des règlements.
+***entité s’occupant de financement spécial*** S’entend au sens des règlements. (*specialized financing entity*)
 
-***entité s’occupant de fonds mutuels*** Entité qui réunit les conditions suivantes :
+***entité s’occupant de fonds mutuels*** Entité qui réunit les conditions suivantes :
 - **a)** son activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres;
-- **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie.
+- **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie. (*mutual fund entity*)
 
-***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
+***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement. (*prescribed subsidiary*)
 
-***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
+***fonds de croissance des entreprises*** Canadian Business Growth Fund (GP) Inc., société constituée en personne morale sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md). (*business growth fund*)
+
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres :
 - **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
 - **b)** sont négociés en bourse ou sur les marchés hors cote;
-- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres. (*closed-end fund*)
 
- ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat.
+***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat. (*loan*)
 
-***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
+***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
 - **a)** autobus, ambulances, camions utilitaires ou voitures de pompiers;
-- **b)** véhicules motorisés destinés à un usage particulier, qui comportent d’importants éléments spéciaux de nature à les rendre propres à un usage spécifique.
+- **b)** véhicules motorisés destinés à un usage particulier, qui comportent d’importants éléments spéciaux de nature à les rendre propres à un usage spécifique. (*motor vehicle*)
 
 **Membre du groupe d’une banque**
 
-- **(2)** Pour l’application de la présente partie, est membre du groupe d’une banque :
+- **(2)** Pour l’application de la présente partie, est membre du groupe d’une banque :
 	- **a)** toute entité visée à l’un ou l’autre des alinéas 468(1)a) à f) qui contrôle la banque;
 	- **b)** une filiale de la banque ou de toute entité visée à l’un ou l’autre des alinéas 468(1)a) à f) qui contrôle la banque;
 	- **c)** une entité dans laquelle la banque ou toute entité visée à l’un ou l’autre des alinéas 468(1)a) à f) qui contrôle la banque ont un intérêt de groupe financier;
@@ -12070,10 +12072,10 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Non-application**
 
-- **(3)** La présente partie ne s’applique pas :
+- **(3)** La présente partie ne s’applique pas :
 	- **a)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 479a);
 	- **b)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 46, art. 464 et 603; 1993, ch. 34, art. 9(F); 1997, ch. 15, art. 56; 2001, ch. 9, art. 127; 2007, ch. 6, art. 38; 2010, ch. 12, art. 2077.
+> 1991, ch. 46, art. 464 et 603; 1993, ch. 34, art. 9(F); 1997, ch. 15, art. 56; 2001, ch. 9, art. 127; 2007, ch. 6, art. 38; 2010, ch. 12, art. 2077; 2018, ch. 27, art. 138.
 
 
 
@@ -12092,32 +12094,70 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 
+**Limite : fonds de croissance des entreprises**
+
+**465.1** 
+
+- **(1)** La valeur totale des titres de participation dans le fonds de croissance des entreprises et dans les entités que ce fonds contrôle détenus par la banque et ses filiales ne peut excéder deux cents millions de dollars.
+
+**Application**
+
+- **(2)** Pour l’application du paragraphe (1), la valeur d’un titre de participation correspond à la somme payée pour ce titre au moment de son émission.
+> 2018, ch. 27, art. 139.
+
+
+
+
+
 **Intérêt de groupe financier et contrôle**
 
 **466** 
 
-- **(1)** Sous réserve des paragraphes (2) à (4), il est interdit à la banque d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
+- **(1)** Sous réserve des paragraphes (2) à (4.4), il est interdit à la banque d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
-**Exception : placements indirects**
+**Exception : placements indirects**
 
-- **(2)** La banque peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
+- **(2)** La banque peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 468(1)a) à j), ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
-	- **b)** soit d’actions ou de titres de participation de l’entité par :
+	- **b)** soit d’actions ou de titres de participation de l’entité par :
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 468(1)a) à j), ou une entité visée par règlement, que contrôle la banque,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 468(1)a) à j), ou une entité visée par règlement, que contrôle la banque.
 
-**Exception : placements temporaires**
+**Exception : placements temporaires**
 
-- **(3)** La banque peut, sous réserve de la partie XI, acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
+- **(3)** La banque peut, sous réserve de la partie XI, acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 471;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 472;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 473.
 
-**Exception : règlements**
+**Exception : règlements**
 
 - **(4)** La banque peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible ou détenir, acquérir ou augmenter un intérêt de groupe financier dans une telle entité à condition de le faire conformément aux règlements, pris en vertu de l’alinéa 467d), relatifs au financement spécial.
 
-**Exception : fait involontaire**
+**Fonds de croissance des entreprises**
+
+- **(4.1)** La banque peut, sous réserve de l’article 465.1, des paragraphes (4.2) à (4.4) et de la partie XI, détenir, acquérir ou augmenter un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle.
+
+**Précision**
+
+- **(4.2)** Il est entendu que la banque ne peut acquérir le contrôle du fonds de croissance des entreprises ou de toute entité que ce fonds contrôle.
+
+**Interdiction : entités**
+
+- **(4.3)** Il est interdit à la banque de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si le fonds ou toute entité que ce fonds contrôle détient ou acquière des actions ou d’autres titres de participation dans une des entités ci-après ou dans toute entité qui contrôle une des entités suivantes :
+	- **a)** une entité qui est visée à l’un ou l’autre des alinéas 468(1)a) à j);
+	- **b)** une entité dont l’activité principale est le crédit-bail de véhicules à moteur au Canada dans le but de faire crédit à un client ou de financer l’acquisition d’un véhicule à moteur par un client;
+	- **c)** une entité dont l’activité principale consiste à accorder provisoirement la possession de biens meubles, notamment des véhicules à moteur, à des clients au Canada dans un but autre que celui de financer l’acquisition par ceux-ci de ces biens;
+	- **d)** une entité qui agit à titre de courtier ou d’agent d’assurances au Canada;
+	- **e)** une entité qui exerce les activités prévues par règlement.
+
+**Interdiction : capitaux et prêts**
+
+- **(4.4)** Il est interdit à la banque de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si ce fonds ou toute entité que ce fonds contrôle détient des actions ou d’autres titres de participation dans une entité, ou détient un prêt fait à une entité, et, qu’à l’égard de cette entité et des entités de son groupe, le total des éléments ci-après excède cent millions de dollars :
+	- **a)** les sommes payées pour l’acquisition des titres de participation détenus par la banque, par ses affiliés, par le fonds de croissance des entreprises ou par toute entité que ce fonds contrôle au moment où chacun de ces titres a été acquis pour la première fois par l’un de ceux-ci;
+	- **b)** le principal impayé de tous les prêts détenus par le fonds de croissance ou par toute entité que ce fonds contrôle.
+
+**Exception : fait involontaire**
 
 - **(5)** La banque est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
@@ -12136,7 +12176,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Assimilation**
 
 - **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la banque est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 46, art. 466; 1997, ch. 15, art. 57; 2001, ch. 9, art. 127; 2007, ch. 6, art. 39; 2013, ch. 40, art. 168.
+> 1991, ch. 46, art. 466; 1997, ch. 15, art. 57; 2001, ch. 9, art. 127; 2007, ch. 6, art. 39; 2013, ch. 40, art. 168; 2018, ch. 27, art. 140.
 
 
 
@@ -12189,7 +12229,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **d)** toute activité qu’une banque peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la banque ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***courtier immobilier***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 464(1);
+	- **e)** les activités visées aux définitions de courtier de fonds mutuels, courtier immobilier, entité s’occupant de fonds mutuels ou fonds d’investissement à capital fixe au paragraphe 464(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -12264,7 +12304,37 @@ où :
 - **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
 	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
-	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 469(1).
+	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 469(1);
+	- **d)** sous réserve du paragraphe (7.1), l’entité dont le contrôle est acquis (appelée « entité cible » au présent alinéa) est une entité visée à l’un ou l’autre des alinéas (4)c) et d) et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la banque s’ils avaient été établis à la date d’acquisition du contrôle de l’entité cible :
+	- **(i)** l’actif consolidé de l’entité cible,
+	- **(ii)** les actifs de la banque et de toute filiale de celle-ci qui ont été acquis, au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, auprès d’une entité qui, au même moment, détenait des actifs visés au sous-alinéa (i),
+	- **(iii)** l’actif consolidé de toute entité visée à l’un ou l’autre des alinéas (4)c) et d) dont le contrôle est acquis par la banque en même temps qu’est acquis le contrôle de l’entité cible, ou au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, si, au cours de cette période, l’entité était du même groupe que l’entité cible, à l’exception des actifs visés aux sous-alinéas (i) ou (ii) et de l’actif consolidé d’une entité à l’égard de laquelle la banque n’a pas à obtenir l’agrément du surintendant aux termes de l’un ou l’autre des alinéas a) à c),
+- **B** la valeur de l’actif consolidé de la banque figurant dans le dernier rapport annuel établi avant la date d’acquisition du contrôle de l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,01, dans le cas où la banque est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,02, dans les autres cas;
+	- **e)** l’acquisition ou l’augmentation d’un intérêt de groupe financier dans l’entité (appelée « entité cible » au présent alinéa), sans acquérir le contrôle de celle-ci, et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la banque s’ils avaient été établis à la date d’acquisition ou d’augmentation de l’intérêt de groupe financier dans l’entité cible :
+	- **(i)** les actions ou les autres titres de participation de l’entité cible acquis par la banque ou sa filiale, et les actions ou les autres titres de participation de l’entité cible détenus par une entité dont le contrôle est acquis par la banque, dans le cadre de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+	- **(ii)** les actions ou les autres titres de participation de l’entité cible détenus par la banque ou sa filiale et acquis par la banque ou la filiale au cours des douze mois précédant l’opération visée au sous-alinéa (i),
+	- **(iii)** les actions ou les autres titres de participation de l’entité cible détenus par une filiale de la banque dont le contrôle a été acquis par celle-ci au cours des douze mois précédant l’opération visée au sous-alinéa (i), à l’exception des actions ou des autres titres de participation visés au sous-alinéa (ii),
+- **B** la valeur de l’actif consolidé de la banque figurant dans le dernier rapport annuel établi avant la date de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,005, dans le cas où la banque est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,01, dans les autres cas.
+
+**Aucune exception pour les acquisitions réputées**
+
+- **(7.1)** L’exception prévue à l’alinéa (7)d) ne s’applique pas à l’égard de l’acquisition du contrôle réputée qui est visée au paragraphe 466(7).
 
 **Contrôle non requis**
 
@@ -12287,7 +12357,7 @@ où :
 **Présomption d’agrément**
 
 - **(12)** Si la banque contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la banque de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 46, art. 468; 1997, ch. 15, art. 58; 1999, ch. 28, art. 26; 2001, ch. 9, art. 127; 2007, ch. 6, art. 40 et 134(F); 2012, ch. 5, art. 53.
+> 1991, ch. 46, art. 468; 1997, ch. 15, art. 58; 1999, ch. 28, art. 26; 2001, ch. 9, art. 127; 2007, ch. 6, art. 40 et 134(F); 2012, ch. 5, art. 53; 2018, ch. 27, art. 131.
 
 
 
@@ -13308,7 +13378,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 ***activités de location***
 - **a)** Le crédit-bail mobilier et les activités connexes qu’une entité s’occupant de crédit-bail peut exercer;
-- **b)** toute autre location de biens meubles.
+- **b)** toute autre location de biens meubles. (*leasing activities*)
 
 ***arrêté de désignation***[Abrogée, 2007, ch. 6, art. 48]
 
@@ -13316,43 +13386,45 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 ***banque étrangère désignée***[Abrogée, 2007, ch. 6, art. 48]
 
-***bureau de représentation*** Bureau établi pour représenter une banque étrangère au Canada qui n’est pas sous la direction ou la gestion d’une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont le personnel est, directement ou non, employé par la banque étrangère.
+***bureau de représentation*** Bureau établi pour représenter une banque étrangère au Canada qui n’est pas sous la direction ou la gestion d’une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont le personnel est, directement ou non, employé par la banque étrangère. (*representative office*)
 
-***courtier de valeurs mobilières étranger*** Entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui, à l’étranger, fait le commerce des valeurs mobilières.
+***courtier de valeurs mobilières étranger*** Entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui, à l’étranger, fait le commerce des valeurs mobilières. (*foreign securities dealer*)
 
-***entité à activités commerciales restreintes*** Entité canadienne que, conformément aux paragraphes 522.09(1) ou (2), la banque étrangère ou l’entité liée à une banque étrangère peuvent contrôler ou dans laquelle elles peuvent avoir un intérêt de groupe financier.
+***entité à activités commerciales restreintes*** Entité canadienne que, conformément aux paragraphes 522.09(1) ou (2), la banque étrangère ou l’entité liée à une banque étrangère peuvent contrôler ou dans laquelle elles peuvent avoir un intérêt de groupe financier. (*limited commercial entity*)
 
-***entité canadienne admissible*** Entité canadienne que, conformément à l’article 522.08, la banque étrangère ou l’entité liée à une banque étrangère peuvent contrôler ou dans laquelle elles peuvent avoir un intérêt de groupe financier.
+***entité canadienne admissible*** Entité canadienne que, conformément à l’article 522.08, la banque étrangère ou l’entité liée à une banque étrangère peuvent contrôler ou dans laquelle elles peuvent avoir un intérêt de groupe financier. (*permitted Canadian entity*)
 
-***entité s’occupant de crédit-bail*** Entité canadienne qui est une entité s’occupant de crédit-bail au sens du paragraphe 464(1).
+***entité s’occupant de crédit-bail*** Entité canadienne qui est une entité s’occupant de crédit-bail au sens du paragraphe 464(1). (*financial leasing entity*)
 
-***entité s’occupant de financement*** Entité canadienne qui est une entité s’occupant de financement au sens des règlements.
+***entité s’occupant de financement*** Entité canadienne qui est une entité s’occupant de financement au sens des règlements. (*finance entity*)
 
-***entité s’occupant de financement spécial*** Entité canadienne qui est une entité s’occupant de financement spécial au sens des règlements.
+***entité s’occupant de financement spécial*** Entité canadienne qui est une entité s’occupant de financement spécial au sens des règlements. (*specialized financing entity*)
 
-***entité s’occupant de location*** Entité qui n’exerce que les activités suivantes :
+***entité s’occupant de location*** Entité qui n’exerce que les activités suivantes :
 - **a)** des activités de location;
-- **b)** des activités de location et des activités autres que celles qui sont mentionnées aux alinéas a) à h) de la définition de ***entité s’occupant de services financiers***.
+- **b)** des activités de location et des activités autres que celles qui sont mentionnées aux alinéas a) à h) de la définition de ***entité s’occupant de services financiers***. (*leasing entity*)
 
-***entité s’occupant de services financiers*** Entité, autre qu’une entité visée à l’un des alinéas 468(1)a) à i) ou qu’une entité s’occupant de location, dont au moins la partie réglementaire ou, faute de partie réglementaire, au moins dix pour cent des activités — déterminés selon les modalités réglementaires — consistent à exercer une ou plusieurs des activités suivantes :
+***entité s’occupant de services financiers*** Entité, autre qu’une entité visée à l’un des alinéas 468(1)a) à i) ou qu’une entité s’occupant de location, dont au moins la partie réglementaire ou, faute de partie réglementaire, au moins dix pour cent des activités — déterminés selon les modalités réglementaires — consistent à exercer une ou plusieurs des activités suivantes :
 - **a)** fournir des services financiers;
 - **b)** agir à titre d’agent financier;
 - **c)** fournir des services de conseil en placement et de gestion de portefeuille;
 - **d)** émettre des cartes de paiement, de crédit ou de débit et, conjointement avec d’autres établissements, y compris les institutions financières, utiliser un système de telles cartes;
-- **e)** exercer les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 464(1);
+- **e)** exercer les activités visées aux définitions de courtier de fonds mutuels, entité s’occupant de fonds mutuels ou fonds d’investissement à capital fixe au paragraphe 464(1);
 - **f)** exercer les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement;
 - **g)** exercer les activités visées à l’un des alinéas a) à f) à titre de mandataire d’une entité visée à l’un de ces alinéas ou des alinéas 468(1)a) à j);
-- **h)** acquérir ou détenir le contrôle, ou devenir un propriétaire important, d’une entité visée à l’un des alinéas a) à g) ou 468(1)a) à j).
+- **h)** acquérir ou détenir le contrôle, ou devenir un propriétaire important, d’une entité visée à l’un des alinéas a) à g) ou 468(1)a) à j). (*financial services entity*)
 
-***établissement affilié à une banque étrangère*** Entité canadienne — autre qu’une banque :
+***établissement affilié à une banque étrangère*** Entité canadienne — autre qu’une banque :
 - **a)** soit dans laquelle une banque étrangère ou une entité liée à une banque étrangère détiennent un intérêt de groupe financier;
 - **b)** soit qui est contrôlée par une banque étrangère ou une entité liée à une banque étrangère.
 
-Toutefois, l’entité canadienne n’est pas un tel établissement du simple fait qu’une banque qui est une filiale de la banque étrangère ou de l’entité liée à une banque étrangère la contrôle ou y détient un intérêt de groupe financier.
+Toutefois, l’entité canadienne n’est pas un tel établissement du simple fait qu’une banque qui est une filiale de la banque étrangère ou de l’entité liée à une banque étrangère la contrôle ou y détient un intérêt de groupe financier. (*non-bank affiliate of a foreign bank*)
 
-***société coopérative de crédit étrangère*** Entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui, à l’étranger, exerce les activités d’une société coopérative de crédit.
+***fonds de croissance des entreprises*** Canadian Business Growth Fund (GP) Inc., société constituée en personne morale sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md). (*business growth fund*)
 
-***société d’assurances étrangère*** Société étrangère au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+***société coopérative de crédit étrangère*** Entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui, à l’étranger, exerce les activités d’une société coopérative de crédit. (*foreign cooperative credit society*)
+
+***société d’assurances étrangère*** Société étrangère au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*foreign insurance company*)
 
 **Liens**
 
@@ -13467,7 +13539,7 @@ Toutefois, l’entité canadienne n’est pas un tel établissement du simple fa
 **Publication**
 
 - **(19)** Le ministre publie dans la Gazette du Canada avis de la prise de l’arrêté visé à l’alinéa (17)b) ou au paragraphe (18).
-> 1991, ch. 46, art. 507; 1997, ch. 15, art. 76; 1999, ch. 28, art. 27; 2001, ch. 9, art. 132; 2007, ch. 6, art. 48.
+> 1991, ch. 46, art. 507; 1997, ch. 15, art. 76; 1999, ch. 28, art. 27; 2001, ch. 9, art. 132; 2007, ch. 6, art. 48; 2018, ch. 27, art. 141.
 
 
 
@@ -13584,6 +13656,51 @@ où :
 
 - **(5)** Les alinéas (1)a) et b) ne s’appliquent pas aux entités canadiennes qui sont liées à une banque étrangère et qui sont acquises ou détenues en conformité avec la présente partie.
 > 1991, ch. 46, art. 510; 1996, ch. 6, art. 9; 1997, ch. 15, art. 77; 2001, ch. 9, art. 132; 2007, ch. 6, art. 50.
+
+
+
+
+
+**Limite : fonds de croissance des entreprises**
+
+**510.01** 
+
+- **(1)** La valeur globale des titres de participation dans le fonds de croissance des entreprises et dans les entités que ce fonds contrôle détenus par la banque étrangère et les entités liées à celle-ci ne peut excéder deux cents millions de dollars.
+
+**Application**
+
+- **(2)** Pour l’application du paragraphe (1), la valeur d’un titre de participation correspond à la somme payée pour ce titre au moment de son émission.
+> 2018, ch. 27, art. 142.
+
+
+
+
+
+**Fonds de croissance des entreprises**
+
+**510.02** 
+
+- **(1)** La banque étrangère ou l’entité liée à une banque étrangère peut, sous réserve de l’article 510.01 et des paragraphes (2) à (4), détenir ou acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité canadienne que ce fonds contrôle.
+
+**Précision**
+
+- **(2)** Il est entendu que la banque étrangère ou l’entité liée à une banque étrangère ne peut acquérir le contrôle du fonds de croissance des entreprises ou de toute entité canadienne que ce fonds contrôle.
+
+**Interdiction : entités**
+
+- **(3)** Il est interdit à la banque étrangère ou à l’entité liée à une banque étrangère de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité canadienne que ce fonds contrôle si le fonds ou toute entité canadienne que ce fonds contrôle détient ou acquière des actions ou d’autres titres de participation dans une des entités ci-après ou dans toute entité qui contrôle une des entités suivantes :
+	- **a)** une entité qui est visée à l’un ou l’autre des alinéas 468(1)a) à j);
+	- **b)** une entité dont l’activité principale est le crédit-bail de véhicules à moteur au Canada dans le but de faire crédit à un client ou de financer l’acquisition d’un véhicule à moteur par un client;
+	- **c)** une entité dont l’activité principale consiste à accorder provisoirement la possession de biens meubles, notamment des véhicules à moteur, à des clients au Canada dans un but autre que celui de financer l’acquisition par ceux-ci de ces biens;
+	- **d)** une entité qui agit à titre de courtier ou d’agent d’assurances au Canada;
+	- **e)** une entité qui exerce les activités prévues par règlement.
+
+**Interdiction : capitaux et prêts**
+
+- **(4)** Il est interdit à la banque étrangère ou à l’entité liée à une banque étrangère de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité canadienne que ce fonds contrôle si ce fonds ou toute entité canadienne que ce fonds contrôle détient des actions ou d’autres titres de participation dans une entité, ou détient un prêt fait à une entité, et, qu’à l’égard de cette entité et des entités de son groupe, le total des éléments ci-après excède cent millions de dollars :
+	- **a)** les sommes payées pour l’acquisition des titres de participation détenus par la banque étrangère, par les entités liées à celle-ci, par le fonds de croissance des entreprises ou par toute entité que ce fonds contrôle au moment où chacun de ces titres a été acquis pour la première fois par l’un de ceux-ci;
+	- **b)** le principal impayé de tous les prêts détenus par le fonds de croissance ou par toute entité que ce fonds contrôle.
+> 2018, ch. 27, art. 142.
 
 
 
@@ -16653,6 +16770,21 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 
+**Non-renonciation**
+
+**608.1** 
+
+- **(1)** Il est entendu que la communication au surintendant par une banque étrangère autorisée — ou par une personne qui contrôle la banque étrangère ou par une entité qui appartient au groupe de celle-ci — de renseignements protégés par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation à l’immunité, au secret professionnel ou au privilège.
+
+**Aucune divulgation**
+
+- **(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l’enquête ou la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
+> 2018, ch. 27, art. 169.
+
+
+
+
+
 **Divulgation du surintendant**
 
 **609** 
@@ -17048,7 +17180,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 **PARTIE XIII** 
-## Réglementation des banques : surintendant
+## Réglementation des banques : surintendant
 
 
 
@@ -17230,6 +17362,21 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(6)** Pour l’application du paragraphe (3), le gouverneur en conseil peut prendre des règlements concernant les circonstances dans lesquelles les renseignements visés au paragraphe (1) peuvent servir de preuve.
 > 1999, ch. 28, art. 43; 2007, ch. 6, art. 104; 2015, ch. 36, art. 234.
+
+
+
+
+
+**Non-renonciation**
+
+**638.1** 
+
+- **(1)** Il est entendu que la communication au surintendant par une banque — ou par une personne qui contrôle la banque ou par une entité qui appartient au groupe de celle-ci — de renseignements protégés par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation à l’immunité, au secret professionnel ou au privilège.
+
+**Aucune divulgation**
+
+- **(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l’enquête ou la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
+> 2018, ch. 27, art. 170.
 
 
 
@@ -22759,28 +22906,66 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
+**Limite : fonds de croissance des entreprises**
+
+**927.1** 
+
+- **(1)** La valeur totale des titres de participation dans le fonds de croissance des entreprises et dans les entités que ce fonds contrôle détenus par la société de portefeuille bancaire et ses filiales ne peut excéder deux cents millions de dollars.
+
+**Application**
+
+- **(2)** Pour l’application du paragraphe (1), la valeur d’un titre de participation correspond à la somme payée pour ce titre au moment de son émission.
+> 2018, ch. 27, art. 143.
+
+
+
+
+
 **Intérêt de groupe financier et contrôle**
 
 **928** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit à la société de portefeuille bancaire d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
+- **(1)** Sous réserve des paragraphes (2) à (3.4), il est interdit à la société de portefeuille bancaire d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
-**Exception : placements indirects**
+**Exception : placements indirects**
 
-- **(2)** La société de portefeuille bancaire peut acquérir le contrôle d’une entité autre qu’une entité admissible, ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
+- **(2)** La société de portefeuille bancaire peut acquérir le contrôle d’une entité autre qu’une entité admissible, ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 930(1)a) à j), d’une entité s’occupant de financement spécial ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
-	- **b)** soit d’actions ou de titres de participation de l’entité par :
+	- **b)** soit d’actions ou de titres de participation de l’entité par :
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 930(1)a) à j), une entité s’occupant de financement spécial ou une entité visée par règlement, que contrôle la société de portefeuille bancaire,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 930(1)a) à j), une entité s’occupant de financement spécial ou une entité visée par règlement, que contrôle la société de portefeuille bancaire.
 
-**Exception : placements temporaires**
+**Exception : placements temporaires**
 
-- **(3)** La société de portefeuille bancaire peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
+- **(3)** La société de portefeuille bancaire peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 933;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 934;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 935.
 
-**Exception : fait involontaire**
+**Fonds de croissance des entreprises**
+
+- **(3.1)** La société de portefeuille bancaire peut, sous réserve de l’article 927.1 et des paragraphes (3.2) à (3.4), détenir, acquérir ou augmenter un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle.
+
+**Précision**
+
+- **(3.2)** Il est entendu que la société de portefeuille bancaire ne peut acquérir le contrôle du fonds de croissance des entreprises ou de toute entité que ce fonds contrôle.
+
+**Interdiction : entités**
+
+- **(3.3)** Il est interdit à la société de portefeuille bancaire de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si le fonds ou toute entité que ce fonds contrôle détient ou acquière des actions ou d’autres titres de participation dans une des entités ci-après ou dans toute entité qui contrôle une des entités suivantes :
+	- **a)** une entité qui est visée à l’un ou l’autre des alinéas 930(1)a) à j);
+	- **b)** une entité dont l’activité principale est le crédit-bail de véhicules à moteur au Canada dans le but de faire crédit à un client ou de financer l’acquisition d’un véhicule à moteur par un client;
+	- **c)** une entité dont l’activité principale consiste à accorder provisoirement la possession de biens meubles, notamment des véhicules à moteur, à des clients au Canada dans un but autre que celui de financer l’acquisition par ceux-ci de ces biens;
+	- **d)** une entité qui agit à titre de courtier ou d’agent d’assurances au Canada;
+	- **e)** une entité qui exerce les activités prévues par règlement.
+
+**Interdiction : capitaux et prêts**
+
+- **(3.4)** Il est interdit à la société de portefeuille bancaire de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si ce fonds ou toute entité que ce fonds contrôle détient des actions ou d’autres titres de participation dans une entité, ou détient un prêt fait à une entité, et, qu’à l’égard de cette entité et des entités de son groupe, le total des éléments ci-après excède cent millions de dollars :
+	- **a)** les sommes payées pour l’acquisition des titres de participation détenus par la société de portefeuille bancaire, par ses affiliés, par le fonds de croissance des entreprises ou par toute entité que ce fonds contrôle au moment où chacun de ces titres a été acquis pour la première fois par l’un de ceux-ci;
+	- **b)** le principal impayé de tous les prêts détenus par le fonds de croissance ou par toute entité que ce fonds contrôle.
+
+**Exception : fait involontaire**
 
 - **(4)** La société de portefeuille bancaire est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
@@ -22799,7 +22984,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Assimilation**
 
 - **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de portefeuille bancaire est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 121; 2013, ch. 40, art. 169.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 121; 2013, ch. 40, art. 169; 2018, ch. 27, art. 144.
 
 
 
@@ -22826,7 +23011,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **930** 
 
-- **(1)** Sous réserve des paragraphes (4) à (6), la société de portefeuille bancaire peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
+- **(1)** Sous réserve des paragraphes (4) à (6), la société de portefeuille bancaire peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
 	- **a)** une banque;
 	- **b)** une société de portefeuille bancaire;
 	- **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
@@ -22840,28 +23025,28 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Placements autorisés**
 
-- **(2)** Sous réserve des paragraphes (3) à (6), la société de portefeuille bancaire peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à j), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
+- **(2)** Sous réserve des paragraphes (3) à (6), la société de portefeuille bancaire peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à j), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
 	- **a)** la prestation de services financiers qu’une banque est autorisée à exercer dans le cadre des alinéas 409(2)a) à d) ou toute autre activité qu’une banque est autorisée à exercer dans le cadre des articles 410 ou 411;
 	- **b)** la détention et l’acquisition d’actions ou d’autres titres de participation dans des entités dans lesquelles une société de portefeuille bancaire est autorisée, dans le cadre de la présente section, à acquérir ou détenir de tels actions ou titres;
-	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la société de portefeuille bancaire elle-même ou à un membre de son groupe :
+	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la société de portefeuille bancaire elle-même ou à un membre de son groupe :
 		- **(i)** la société de portefeuille bancaire elle-même,
 		- **(ii)** un membre de son groupe,
 		- **(iii)** une entité dont l’activité commerciale principale consiste en la prestation de services financiers,
 		- **(iv)** une entité admissible dans laquelle une entité visée au sous-alinéa (iii) a un intérêt de groupe financier,
 		- **(v)** une personne visée par règlement — pourvu que la prestation se fasse selon les modalités éventuellement fixées par règlement;
-	- **d)** toute activité qu’une banque peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
+	- **d)** toute activité qu’une banque peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par un membre du groupe de la société de portefeuille bancaire,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***courtier immobilier***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 464(1);
+	- **e)** les activités visées aux définitions de courtier de fonds mutuels, courtier immobilier, entité s’occupant de fonds mutuels ou fonds d’investissement à capital fixe au paragraphe 464(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
 
-- **(3)** La société de portefeuille bancaire ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
+- **(3)** La société de portefeuille bancaire ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
 	- **a)** des activités qu’une banque est empêchée d’exercer par les articles 412, 417 et 418;
 	- **b)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (2)e) ou une banque peut le faire dans le cadre de l’alinéa 409(2)c);
 	- **c)** dans les cas où l’entité exerce les activités d’une entité s’occupant de financement ou d’une autre entité visée par règlement, des activités qu’une banque est empêchée d’exercer par l’article 416;
-	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
+	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
 		- **(i)** dans le cas où l’entité est contrôlée par la société de portefeuille bancaire, l’acquisition par une banque d’un intérêt de groupe financier dans l’autre entité serait permise aux termes de la partie IX,
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société de portefeuille bancaire, l’acquisition par une banque d’un intérêt de groupe financier dans l’autre entité serait permise aux termes du paragraphe 466(2), des alinéas 466(3)b) ou c) ou des paragraphes 466(4) ou 468(1) ou (2);
 	- **e)** des activités prévues par règlement.
@@ -22877,26 +23062,26 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Contrôle**
 
-- **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société de portefeuille bancaire du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
-	- **a)** s’agissant d’une entité visée aux alinéas (1)a) ou b), elle ne peut le faire que si :
+- **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société de portefeuille bancaire du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
+	- **a)** s’agissant d’une entité visée aux alinéas (1)a) ou b), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens des alinéas 3(1)a) et d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité visée aux alinéas (1)c) à j), elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité visée aux alinéas (1)c) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt;
-	- **d)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+	- **d)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée à l’un ou l’autre des alinéas a) à c) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
 
 **Agrément du ministre**
 
-- **(5)** Sous réserve des règlements, la société de portefeuille bancaire ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
+- **(5)** Sous réserve des règlements, la société de portefeuille bancaire ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
 	- **a)** acquérir auprès d’une personne qui n’est pas un membre de son groupe le contrôle d’une entité visée aux alinéas (1)g) à i);
-	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)c), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
+	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)c), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **b.1)** acquérir le contrôle d’une entité visée à l’alinéa (1)j), si, d’une part, la société de portefeuille bancaire est dotée de capitaux propres égaux ou supérieurs à deux milliards de dollars et, d’autre part :
@@ -22924,10 +23109,40 @@ où :
 
 **Exception**
 
-- **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
+- **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
 	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
-	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 931(1).
+	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 931(1);
+	- **d)** sous réserve du paragraphe (7.1), l’entité dont le contrôle est acquis (appelée « entité cible » au présent alinéa) est une entité visée à l’un ou l’autre des alinéas (4)c) et d) et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la société de portefeuille bancaire s’ils avaient été établis à la date d’acquisition du contrôle de l’entité cible :
+	- **(i)** l’actif consolidé de l’entité cible,
+	- **(ii)** les actifs de la société de portefeuille bancaire et de toute filiale de celle-ci qui ont été acquis, au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, auprès d’une entité qui, au même moment, détenait des actifs visés au sous-alinéa (i),
+	- **(iii)** l’actif consolidé de toute entité visée à l’un ou l’autre des alinéas (4)c) et d) dont le contrôle est acquis par la société de portefeuille bancaire en même temps qu’est acquis le contrôle de l’entité cible, ou au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, si, au cours de cette période, l’entité était du même groupe que l’entité cible, à l’exception des actifs visés aux sous-alinéas (i) ou (ii) et de l’actif consolidé d’une entité à l’égard de laquelle la société de portefeuille bancaire n’a pas à obtenir l’agrément du surintendant aux termes de l’un ou l’autre des alinéas a) à c),
+- **B** la valeur de l’actif consolidé de la société de portefeuille bancaire figurant dans le dernier rapport annuel établi avant la date d’acquisition du contrôle de l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,01, dans le cas où la société de portefeuille bancaire est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,02, dans les autres cas;
+	- **e)** l’acquisition ou l’augmentation d’un intérêt de groupe financier dans l’entité (appelée « entité cible » au présent alinéa), sans acquérir le contrôle de celle-ci, et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la société de portefeuille bancaire s’ils avaient été établis à la date d’acquisition ou d’augmentation de l’intérêt de groupe financier dans l’entité cible :
+	- **(i)** les actions ou les autres titres de participation de l’entité cible acquis par la société de portefeuille bancaire ou sa filiale, et les actions ou les autres titres de participation de l’entité cible détenus par une entité dont le contrôle est acquis par la société de portefeuille bancaire, dans le cadre de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+	- **(ii)** les actions ou les autres titres de participation de l’entité cible détenus par la société de portefeuille bancaire ou sa filiale et acquis par la société ou la filiale au cours des douze mois précédant l’opération visée au sous-alinéa (i),
+	- **(iii)** les actions ou les autres titres de participation de l’entité cible détenus par une filiale de la société de portefeuille bancaire dont le contrôle a été acquis par celle-ci au cours des douze mois précédant l’opération visée au sous-alinéa (i), à l’exception des actions ou des autres titres de participation visés au sous-alinéa (ii),
+- **B** la valeur de l’actif consolidé de la société de portefeuille bancaire figurant dans le dernier rapport annuel établi avant la date de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,005, dans le cas où la société de portefeuille bancaire est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,01, dans les autres cas.
+
+**Aucune exception pour les acquisitions réputées**
+
+- **(7.1)** L’exception prévue à l’alinéa (7)d) ne s’applique pas à l’égard de l’acquisition du contrôle réputée qui est visée au paragraphe 928(6).
 
 **Contrôle non requis**
 
@@ -22943,14 +23158,14 @@ où :
 
 **Aliénation d’actions**
 
-- **(11)** La société de portefeuille bancaire qui contrôle une entité en vertu du paragraphe (4) peut, avec l’agrément préalable du surintendant donné par écrit, se départir du contrôle tout en maintenant dans celle-ci un intérêt de groupe financier si :
+- **(11)** La société de portefeuille bancaire qui contrôle une entité en vertu du paragraphe (4) peut, avec l’agrément préalable du surintendant donné par écrit, se départir du contrôle tout en maintenant dans celle-ci un intérêt de groupe financier si :
 	- **a)** soit elle-même y est autorisée par règlement pris en vertu de l’alinéa 936c);
 	- **b)** soit l’entité remplit les conditions visées au sous-alinéa (4)d)(iii).
 
 **Présomption d’agrément**
 
 - **(12)** Si la société de portefeuille bancaire contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de portefeuille bancaire de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 122 et 134(F); 2012, ch. 5, art. 101.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 122 et 134(F); 2012, ch. 5, art. 101; 2018, ch. 27, art. 132.
 
 
 
@@ -23553,6 +23768,21 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(6)** Pour l’application du paragraphe (3), le gouverneur en conseil peut prendre des règlements concernant les circonstances dans lesquelles les renseignements visés au paragraphe (1) peuvent servir de preuve.
 > 2015, ch. 36, art. 235.
+
+
+
+
+
+**Non-renonciation**
+
+**956.2** 
+
+- **(1)** Il est entendu que la communication au surintendant par une société de portefeuille bancaire — ou par une personne qui contrôle la société de portefeuille bancaire ou par une entité qui appartient au groupe de celle-ci — de renseignements protégés par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation à l’immunité, au secret professionnel ou au privilège.
+
+**Aucune divulgation**
+
+- **(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l’enquête ou la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
+> 2018, ch. 27, art. 171.
 
 
 
@@ -24790,10 +25020,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **b)** le document électronique est transmis au système de traitement de l’information ainsi désigné, sauf disposition réglementaire à l’effet contraire;
 	- **c)** les exigences réglementaires sont observées.
 
+**Consentement et avis par voie électronique**
+
+- **(1.1)** Malgré le paragraphe (1), les exigences réglementaires visées à l’alinéa (1)c) peuvent prévoir que le consentement visé à l’alinéa (1)a) et tout avis relatif à ce consentement peuvent être donnés par voie électronique.
+
 **Règlements — révocation du consentement**
 
 - **(2)** Le gouverneur en conseil peut prendre des règlements concernant la révocation du consentement.
-> 2005, ch. 54, art. 138.
+> 2005, ch. 54, art. 138; 2018, ch. 27, art. 153.
 
 
 
