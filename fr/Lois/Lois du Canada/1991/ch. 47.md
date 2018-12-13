@@ -11,7 +11,7 @@ Sanctionnée sur le 13 décembre 1991
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -10491,39 +10491,41 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***action participante*** Action d’une personne morale qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution.
+***action participante*** Action d’une personne morale qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution. (*participating share*)
 
-***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
+***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
 - **a)** le produit de la vente soit versé au fonds, déduction faite de la commission de vente et des frais de service;
-- **b)** le fait que la vente comporte une commission et des frais de service soit porté à la connaissance de l’acquéreur avant l’achat.
+- **b)** le fait que la vente comporte une commission et des frais de service soit porté à la connaissance de l’acquéreur avant l’achat. (*mutual fund distribution entity*)
 
-***entité admissible*** Entité dans laquelle la société est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 495.
+***entité admissible*** Entité dans laquelle la société est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 495. (*permitted entity*)
 
-***entité s’occupant d’affacturage*** S’entend au sens des règlements.
+***entité s’occupant d’affacturage*** S’entend au sens des règlements. (*factoring entity*)
 
-***entité s’occupant de crédit-bail*** Entité dont l’activité est limitée au crédit-bail de biens meubles et aux activités connexes prévues aux règlements et est conforme à ceux-ci et qui, dans l’exercice de son activité au Canada, s’abstient :
+***entité s’occupant de crédit-bail*** Entité dont l’activité est limitée au crédit-bail de biens meubles et aux activités connexes prévues aux règlements et est conforme à ceux-ci et qui, dans l’exercice de son activité au Canada, s’abstient :
 - **a)** de diriger ses clients, présents ou potentiels, vers des marchands donnés de tels biens;
 - **b)** de conclure des contrats de location portant sur des véhicules à moteur dont le poids brut, au sens des règlements, est inférieur à vingt et une tonnes;
-- **c)** de conclure avec des personnes physiques des contrats de location portant sur des meubles meublants, au sens des règlements.
+- **c)** de conclure avec des personnes physiques des contrats de location portant sur des meubles meublants, au sens des règlements. (*financial leasing entity*)
 
-***entité s’occupant de financement*** S’entend au sens des règlements.
+***entité s’occupant de financement*** S’entend au sens des règlements. (*finance entity*)
 
-***entité s’occupant de financement spécial*** S’entend au sens des règlements.
+***entité s’occupant de financement spécial*** S’entend au sens des règlements. (*specialized financing entity*)
 
-***entité s’occupant de fonds mutuels*** Entité qui réunit les conditions suivantes :
+***entité s’occupant de fonds mutuels*** Entité qui réunit les conditions suivantes :
 - **a)** son activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres;
-- **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie.
+- **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie. (*mutual fund entity*)
 
-***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
+***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement. (*prescribed subsidiary*)
 
-***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres :
+***fonds de croissance des entreprises*** Canadian Business Growth Fund (GP) Inc., société constituée en personne morale sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md). (*business growth fund*)
+
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres :
 - **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
 - **b)** sont négociés en bourse ou sur les marchés hors cote;
-- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres. (*closed-end fund*)
 
- ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat et l’avance garantie par une police ou par la valeur de rachat de celle-ci.
+***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat et l’avance garantie par une police ou par la valeur de rachat de celle-ci. (*loan*)
 
-***prêt commercial*** Selon le cas :
+***prêt commercial*** Selon le cas :
 - **a)** prêt consenti ou acquis par une société, à l’exception du prêt :
 	- **(i)** de deux cent cinquante mille dollars ou moins à une personne physique,
 	- **(ii)** fait soit au gouvernement du Canada ou d’une province ou à une municipalité — ou à un de leurs organismes —, soit au gouvernement d’un pays étranger ou d’une de ses subdivisions politiques — ou à un de leurs organismes —, soit à un organisme international prévu par règlement,
@@ -10552,15 +10554,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 - **c)** placement dans des actions d’une personne morale ou des titres de participation d’une entité non constituée en personne morale, à l’exception :
 	- **(i)** des actions et titres qui sont largement distribués au sens des règlements,
 	- **(ii)** des actions ou titres de participation d’une entité contrôlée par la société,
-	- **(iii)** des actions participantes.
+	- **(iii)** des actions participantes. (*commercial loan*)
 
-***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
+***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
 - **a)** autobus, ambulances, camions utilitaires ou voitures de pompiers;
-- **b)** véhicules motorisés destinés à un usage particulier, qui comportent d’importants éléments spéciaux de nature à les rendre propres à un usage spécifique.
+- **b)** véhicules motorisés destinés à un usage particulier, qui comportent d’importants éléments spéciaux de nature à les rendre propres à un usage spécifique. (*motor vehicle*)
 
 **Membre du groupe d’une société**
 
-- **(2)** Pour l’application de la présente partie, est membre du groupe d’une société :
+- **(2)** Pour l’application de la présente partie, est membre du groupe d’une société :
 	- **a)** toute entité visée à l’un ou l’autre des alinéas 495(1)a) à f) qui contrôle la société;
 	- **b)** une filiale de la société ou de toute entité visée à l’un ou l’autre des alinéas 495(1)a) à f) qui contrôle la société;
 	- **c)** une entité dans laquelle la société ou toute entité visée à l’un ou l’autre des alinéas 495(1)a) à f) qui contrôle la société ont un intérêt de groupe financier;
@@ -10571,7 +10573,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 - **(3)** Dans la présente partie, la mention de l’actif ou du passif de la société ne comprend pas :
 	- **a)** l’actif de la caisse séparée tenue aux termes de l’article 451;
 	- **b)** les éléments du passif de la société liés aux polices et sommes à l’égard desquelles cette caisse est tenue.
-> 1991, ch. 47, art. 490 et 760; 1993, ch. 34, art. 81(F); 1997, ch. 15, art. 264; 2001, ch. 9, art. 426; 2007, ch. 6, art. 233; 2008, ch. 28, art. 154.
+> 1991, ch. 47, art. 490 et 760; 1993, ch. 34, art. 81(F); 1997, ch. 15, art. 264; 2001, ch. 9, art. 426; 2007, ch. 6, art. 233; 2008, ch. 28, art. 154; 2018, ch. 27, art. 145.
 
 
 
@@ -10602,11 +10604,26 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
+**Limite : fonds de croissance des entreprises**
+
+**492.1** 
+
+- **(1)** La valeur globale des titres de participation dans le fonds de croissance des entreprises et dans les entités que ce fonds contrôle détenus par la société et ses filiales ne peut excéder deux cents millions de dollars.
+
+**Application**
+
+- **(2)** Pour l’application du paragraphe (1), la valeur d’un titre de participation correspond à la somme payée pour ce titre au moment de son émission.
+> 2018, ch. 27, art. 146.
+
+
+
+
+
 **Intérêt de groupe financier et contrôle**
 
 **493** 
 
-- **(1)** Sous réserve des paragraphes (2) à (4), il est interdit à la société d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
+- **(1)** Sous réserve des paragraphes (2) à (4.4), il est interdit à la société d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
 **Exception : placements indirects**
 
@@ -10627,6 +10644,29 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(4)** La société d’assurance-vie peut, sous réserve de la partie XI, acquérir le contrôle d’une entité autre qu’une entité admissible ou détenir, acquérir ou augmenter un intérêt de groupe financier dans une telle entité à condition de le faire conformément aux règlements, pris en vertu de l’alinéa 494d), relatifs au financement spécial.
 
+**Fonds de croissance des entreprises**
+
+- **(4.1)** La société peut, sous réserve de l’article 492.1, des paragraphes (4.2) à (4.4) et de la partie XI, détenir, acquérir ou augmenter un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle.
+
+**Précision**
+
+- **(4.2)** Il est entendu que la société ne peut acquérir le contrôle du fonds de croissance des entreprises ou de toute entité que ce fonds contrôle.
+
+**Interdiction : entités**
+
+- **(4.3)** Il est interdit à la société de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si le fonds ou toute entité que ce fonds contrôle détient ou acquière des actions ou d’autres titres de participation dans une des entités ci-après ou dans toute entité qui contrôle une des entités suivantes :
+	- **a)** une entité qui est visée à l’un ou l’autre des alinéas 495(1)a) à j);
+	- **b)** une entité dont l’activité principale est le crédit-bail de véhicules à moteur au Canada dans le but de faire crédit à un client ou de financer l’acquisition d’un véhicule à moteur par un client;
+	- **c)** une entité dont l’activité principale consiste à accorder provisoirement la possession de biens meubles, notamment des véhicules à moteur, à des clients au Canada dans un but autre que celui de financer l’acquisition par ceux-ci de ces biens;
+	- **d)** une entité qui agit à titre de courtier ou d’agent d’assurances au Canada;
+	- **e)** une entité qui exerce les activités prévues par règlement.
+
+**Interdiction : capitaux et prêts**
+
+- **(4.4)** Il est interdit à la société de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si ce fonds ou toute entité que ce fonds contrôle détient des actions ou d’autres titres de participation dans une entité, ou détient un prêt fait à une entité, et, qu’à l’égard de cette entité et des entités de son groupe, le total des éléments ci-après excède cent millions de dollars :
+	- **a)** les sommes payées pour l’acquisition des titres de participation détenus par la société, par ses affiliés, par le fonds de croissance des entreprises ou par toute entité que ce fonds contrôle au moment où chacun de ces titres a été acquis pour la première fois par l’un de ceux-ci;
+	- **b)** le principal impayé de tous les prêts détenus par le fonds de croissance ou par toute entité que ce fonds contrôle.
+
 **Exception : fait involontaire**
 
 - **(5)** La société est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
@@ -10646,7 +10686,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Assimilation**
 
 - **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la société est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 47, art. 493; 1997, ch. 15, art. 265; 2001, ch. 9, art. 426; 2007, ch. 6, art. 234; 2013, ch. 40, art. 170.
+> 1991, ch. 47, art. 493; 1997, ch. 15, art. 265; 2001, ch. 9, art. 426; 2007, ch. 6, art. 234; 2013, ch. 40, art. 170; 2018, ch. 27, art. 147.
 
 
 
@@ -10699,7 +10739,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **d)** toute activité qu’une société d’assurance-vie peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la société d’assurance-vie ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
+	- **e)** les activités visées aux définitions de courtier de fonds mutuels, entité s’occupant de fonds mutuels ou fonds d’investissement à capital fixe au paragraphe 490(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -10736,7 +10776,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **d)** toute activité qu’une société d’assurances multirisques ou une société d’assurance maritime peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, à la promotion, à la livraison ou à la distribution d’un service ou d’un produit financiers fournis par la société ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, à la promotion, à la livraison ou à la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste dans la prestation de services financiers;
-	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
+	- **e)** les activités visées aux définitions de courtier de fonds mutuels, entité s’occupant de fonds mutuels ou fonds d’investissement à capital fixe au paragraphe 490(1);
 	- **f)** les activités prévues par règlement, à condition qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -10808,7 +10848,37 @@ où :
 - **(9)** Le paragraphe (8) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
 	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b) ou (4)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
-	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (7) ou il est réputé l’avoir agréée dans le cadre du paragraphe 496(1).
+	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (7) ou il est réputé l’avoir agréée dans le cadre du paragraphe 496(1);
+	- **d)** sous réserve du paragraphe (9.1), l’entité dont le contrôle est acquis (appelée « entité cible » au présent alinéa) est une entité visée à l’un ou l’autre des alinéas (6)b) et c) et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la société s’ils avaient été établis à la date d’acquisition du contrôle de l’entité cible :
+	- **(i)** l’actif consolidé de l’entité cible,
+	- **(ii)** les actifs de la société et de toute filiale de celle-ci qui ont été acquis, au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, auprès d’une entité qui, au même moment, détenait des actifs visés au sous-alinéa (i),
+	- **(iii)** l’actif consolidé de toute entité visée à l’un ou l’autre des alinéas (6)b) et c) dont le contrôle est acquis par la société en même temps qu’est acquis le contrôle de l’entité cible, ou au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, si, au cours de cette période, l’entité était du même groupe que l’entité cible, à l’exception des actifs visés aux sous-alinéas (i) ou (ii) et de l’actif consolidé d’une entité à l’égard de laquelle la société n’a pas à obtenir l’agrément du surintendant aux termes de l’un ou l’autre des alinéas a) à c),
+- **B** la valeur de l’actif consolidé de la société figurant dans le dernier rapport annuel établi avant la date d’acquisition du contrôle de l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,01, dans le cas où la société est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,02, dans les autres cas;
+	- **e)** l’acquisition ou l’augmentation d’un intérêt de groupe financier dans l’entité (appelée « entité cible » au présent alinéa), sans acquérir le contrôle de celle-ci, et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la société s’ils avaient été établis à la date d’acquisition ou d’augmentation de l’intérêt de groupe financier dans l’entité cible :
+	- **(i)** les actions ou les autres titres de participation de l’entité cible acquis par la société ou sa filiale, et les actions ou les autres titres de participation de l’entité cible détenus par une entité dont le contrôle est acquis par la société, dans le cadre de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+	- **(ii)** les actions ou les autres titres de participation de l’entité cible détenus par la société ou sa filiale et acquis par la société ou la filiale au cours des douze mois précédant l’opération visée au sous-alinéa (i),
+	- **(iii)** les actions ou les autres titres de participation de l’entité cible détenus par une filiale de la société dont le contrôle a été acquis par la société au cours des douze mois précédant l’opération visée au sous-alinéa (i), à l’exception des actions ou des autres titres de participation visés au sous-alinéa (ii),
+- **B** la valeur de l’actif consolidé de la société figurant dans le dernier rapport annuel établi avant la date de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,005, dans le cas où la société est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,01, dans les autres cas.
+
+**Aucune exception pour les acquisitions réputées**
+
+- **(9.1)** L’exception prévue à l’alinéa (9)d) ne s’applique pas à l’égard de l’acquisition du contrôle réputée qui est visée au paragraphe 493(7).
 
 **Contrôle non requis**
 
@@ -10827,7 +10897,7 @@ où :
 **Présomption d’agrément**
 
 - **(13)** Si la société contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (7) et (8) ne s’appliquent pas aux augmentations postérieures par la société de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 47, art. 495; 1997, ch. 15, art. 266; 1999, ch. 28, art. 122; 2001, ch. 9, art. 426; 2007, ch. 6, art. 235 et 336(F); 2012, ch. 5, art. 140.
+> 1991, ch. 47, art. 495; 1997, ch. 15, art. 266; 1999, ch. 28, art. 122; 2001, ch. 9, art. 426; 2007, ch. 6, art. 235 et 336(F); 2012, ch. 5, art. 140; 2018, ch. 27, art. 133.
 
 
 
@@ -11016,7 +11086,7 @@ où :
 
 
 
-### Prêts commerciaux : sociétés d’assurance-vie
+### Prêts commerciaux : sociétés d’assurance-vie
 
 
 
@@ -12301,13 +12371,28 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 
+**Limite : fonds de croissance des entreprises**
+
+**551.1** 
+
+- **(1)** La valeur totale des titres de participation dans le fonds de croissance des entreprises et dans les entités que ce fonds contrôle détenus par la société de secours et ses filiales ne peut excéder deux cents millions de dollars.
+
+**Application**
+
+- **(2)** Pour l’application du paragraphe (1), la valeur d’un titre de participation correspond à la somme payée pour ce titre au moment de son émission.
+> 2018, ch. 27, art. 148.
+
+
+
+
+
 **Intérêt de groupe financier et contrôle**
 
 **552** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit à la société de secours d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
+- **(1)** Sous réserve des paragraphes (2) à (3.4), il est interdit à la société de secours d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
-**Exception : placements indirects**
+**Exception : placements indirects**
 
 - **(2)** La société de secours peut acquérir le contrôle d’une entité autre qu’une entité admissible ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité par l’acquisition :
 	- **a)** soit du contrôle d’une entité visée à l’un ou l’autre des alinéas 554(1)a) à c), ou d’une entité visée par règlement, qui contrôle l’entité ou a un intérêt de groupe financier dans celle-ci;
@@ -12315,14 +12400,37 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 		- **(i)** soit une entité visée à l’un ou l’autre des alinéas 554(1)a) à c), ou une entité visée par règlement, que contrôle la société de secours,
 		- **(ii)** soit une entité que contrôle une entité visée à l’un ou l’autre des alinéas 554(1)a) à c), ou une entité visée par règlement, que contrôle la société de secours.
 
-**Exception : placements temporaires**
+**Exception : placements temporaires**
 
 - **(3)** La société de secours peut acquérir le contrôle d’une entité ou acquérir ou augmenter un intérêt de groupe financier dans une entité :
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 557;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 558;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 559.
 
-**Exception : fait involontaire**
+**Fonds de croissance des entreprises**
+
+- **(3.1)** La société de secours peut, sous réserve de l’article 551.1 et des paragraphes (3.2) à (3.4), détenir, acquérir ou augmenter un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle.
+
+**Précision**
+
+- **(3.2)** Il est entendu que la société de secours ne peut acquérir le contrôle du fonds de croissance des entreprises ou de toute entité que ce fonds contrôle.
+
+**Interdiction : entités**
+
+- **(3.3)** Il est interdit à la société de secours de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si le fonds ou toute entité que ce fonds contrôle détient ou acquière des actions ou d’autres titres de participation dans une des entités ci-après ou dans toute entité qui contrôle une des entités suivantes :
+	- **a)** une entité qui est visée à l’un ou l’autre des alinéas 495(1)a) à j);
+	- **b)** une entité dont l’activité principale est le crédit-bail de véhicules à moteur au Canada dans le but de faire crédit à un client ou de financer l’acquisition d’un véhicule à moteur par un client;
+	- **c)** une entité dont l’activité principale consiste à accorder provisoirement la possession de biens meubles, notamment des véhicules à moteur, à des clients au Canada dans un but autre que celui de financer l’acquisition par ceux-ci de ces biens;
+	- **d)** une entité qui agit à titre de courtier ou d’agent d’assurances au Canada;
+	- **e)** une entité qui exerce les activités prévues par règlement.
+
+**Interdiction : capitaux et prêts**
+
+- **(3.4)** Il est interdit à la société de secours de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si ce fonds ou toute entité que ce fonds contrôle détient des actions ou d’autres titres de participation dans une entité, ou détient un prêt fait à une entité, et, qu’à l’égard de cette entité et des entités de son groupe, le total des éléments ci-après excède cent millions de dollars :
+	- **a)** les sommes payées pour l’acquisition des titres de participation détenus par la société de secours, par ses affiliés, par le fonds de croissance des entreprises ou par toute entité que ce fonds contrôle au moment où chacun de ces titres a été acquis pour la première fois par l’un de ceux-ci;
+	- **b)** le principal impayé de tous les prêts détenus par le fonds de croissance ou par toute entité que ce fonds contrôle.
+
+**Exception : fait involontaire**
 
 - **(4)** La société de secours est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
 
@@ -12341,7 +12449,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 **Assimilation**
 
 - **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de secours est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 1991, ch. 47, art. 552; 1997, ch. 15, art. 290; 1999, ch. 31, art. 144; 2001, ch. 9, art. 437; 2007, ch. 6, art. 252; 2013, ch. 40, art. 171.
+> 1991, ch. 47, art. 552; 1997, ch. 15, art. 290; 1999, ch. 31, art. 144; 2001, ch. 9, art. 437; 2007, ch. 6, art. 252; 2013, ch. 40, art. 171; 2018, ch. 27, art. 149.
 
 
 
@@ -15142,7 +15250,7 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 
 **PARTIE XV** 
-## Réglementation des sociétés, sociétés de secours, sociétés étrangères et sociétés provinciales : surintendant
+## Réglementation des sociétés, sociétés de secours, sociétés étrangères et sociétés provinciales : surintendant
 
 
 
@@ -15374,6 +15482,21 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(6)** Pour l’application du paragraphe (3), le gouverneur en conseil peut prendre des règlements concernant les circonstances dans lesquelles les renseignements visés au paragraphe (1) peuvent servir de preuve.
 > 2015, ch. 36, art. 236.
+
+
+
+
+
+**Non-renonciation**
+
+**672.3** 
+
+- **(1)** Il est entendu que la communication au surintendant par la société — ou par une personne qui contrôle la société ou par une entité qui appartient au groupe de celle-ci — de renseignements protégés par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation à l’immunité, au secret professionnel ou au privilège.
+
+**Aucune divulgation**
+
+- **(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l’enquête ou la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
+> 2018, ch. 27, art. 172.
 
 
 
@@ -15976,7 +16099,7 @@ où :
 
 
 **PARTIE XVI** 
-## Réglementation des sociétés et sociétés étrangères : commissaire
+## Réglementation des sociétés et sociétés étrangères : commissaire
 
 
 
@@ -21493,11 +21616,26 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
+**Limite : fonds de croissance des entreprises**
+
+**968.1** 
+
+- **(1)** La valeur totale des titres de participation dans le fonds de croissance des entreprises et dans les entités que ce fonds contrôle détenus par la société de portefeuille d’assurances et ses filiales ne peut excéder deux cents millions de dollars.
+
+**Application**
+
+- **(2)** Pour l’application du paragraphe (1), la valeur d’un titre de participation correspond à la somme payée pour ce titre au moment de son émission.
+> 2018, ch. 27, art. 150.
+
+
+
+
+
 **Intérêt de groupe financier et contrôle**
 
 **969** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit à la société de portefeuille d’assurances d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
+- **(1)** Sous réserve des paragraphes (2) à (3.4), il est interdit à la société de portefeuille d’assurances d’acquérir le contrôle d’une entité autre qu’une entité admissible ou de détenir, d’acquérir ou d’augmenter un intérêt de groupe financier dans une telle entité.
 
 **Exception : placements indirects**
 
@@ -21513,6 +21651,29 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 	- **a)** soit en raison d’un placement temporaire prévu à l’article 974;
 	- **b)** soit par l’acquisition d’actions d’une personne morale, ou de titres de participation d’une entité non constituée en personne morale, aux termes de l’article 975;
 	- **c)** soit par la réalisation d’une sûreté aux termes de l’article 976.
+
+**Fonds de croissance des entreprises**
+
+- **(3.1)** La société de portefeuille d’assurances peut, sous réserve de l’article 968.1 et des paragraphes (3.2) à (3.4), détenir, acquérir ou augmenter un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle.
+
+**Précision**
+
+- **(3.2)** Il est entendu que la société de portefeuille d’assurances ne peut acquérir le contrôle du fonds de croissance des entreprises ou de toute entité que ce fonds contrôle.
+
+**Interdiction : entités**
+
+- **(3.3)** Il est interdit à la société de portefeuille d’assurances de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si le fonds ou toute entité que ce fonds contrôle détient ou acquière des actions ou d’autres titres de participation dans une des entités ci-après ou dans toute entité qui contrôle une des entités suivantes :
+	- **a)** une entité qui est visée à l’un ou l’autre des alinéas 971(1)a) à j);
+	- **b)** une entité dont l’activité principale est le crédit-bail de véhicules à moteur au Canada dans le but de faire crédit à un client ou de financer l’acquisition d’un véhicule à moteur par un client;
+	- **c)** une entité dont l’activité principale consiste à accorder provisoirement la possession de biens meubles, notamment des véhicules à moteur, à des clients au Canada dans un but autre que celui de financer l’acquisition par ceux-ci de ces biens;
+	- **d)** une entité qui agit à titre de courtier ou d’agent d’assurances au Canada;
+	- **e)** une entité qui exerce les activités prévues par règlement.
+
+**Interdiction : capitaux et prêts**
+
+- **(3.4)** Il est interdit à la société de portefeuille d’assurances de détenir ou d’acquérir un intérêt de groupe financier dans le fonds de croissance des entreprises ou dans toute entité que ce fonds contrôle si ce fonds ou toute entité que ce fonds contrôle détient des actions ou d’autres titres de participation dans une entité, ou détient un prêt fait à une entité, et, qu’à l’égard de cette entité et des entités de son groupe, le total des éléments ci-après excède cent millions de dollars :
+	- **a)** les sommes payées pour l’acquisition des titres de participation détenus par la société de portefeuille d’assurances, par ses affiliés, par le fonds de croissance des entreprises ou par toute entité que ce fonds contrôle au moment où chacun de ces titres a été acquis pour la première fois par l’un de ceux-ci;
+	- **b)** le principal impayé de tous les prêts détenus par le fonds de croissance ou par toute entité que ce fonds contrôle.
 
 **Exception : fait involontaire**
 
@@ -21533,7 +21694,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Assimilation**
 
 - **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de portefeuille d’assurances est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
-> 2001, ch. 9, art. 465; 2007, ch. 6, art. 325; 2013, ch. 40, art. 172.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 325; 2013, ch. 40, art. 172; 2018, ch. 27, art. 151.
 
 
 
@@ -21586,7 +21747,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 	- **d)** toute activité qu’une société d’assurance-vie peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par un membre du groupe de la société de portefeuille d’assurances,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
+	- **e)** les activités visées aux définitions de courtier de fonds mutuels, entité s’occupant de fonds mutuels ou fonds d’investissement à capital fixe au paragraphe 490(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -21615,7 +21776,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 977a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d);
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 977a) à acquérir ou augmenter l’intérêt;
 	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
@@ -21658,7 +21819,37 @@ où :
 - **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
 	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
-	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 972(1).
+	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 972(1);
+	- **d)** sous réserve du paragraphe (7.1), l’entité dont le contrôle est acquis (appelée « entité cible » au présent alinéa) est une entité visée à l’un ou l’autre des alinéas (4)b) et c) et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la société de portefeuille d’assurances s’ils avaient été établis à la date d’acquisition du contrôle de l’entité cible :
+	- **(i)** l’actif consolidé de l’entité cible,
+	- **(ii)** les actifs de la société de portefeuille d’assurances et de toute filiale de celle-ci qui ont été acquis, au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, auprès d’une entité qui, au même moment, détenait des actifs visés au sous-alinéa (i),
+	- **(iii)** l’actif consolidé de toute entité visée à l’un ou l’autre des alinéas (4)b) et c) dont le contrôle est acquis par la société de portefeuille d’assurances en même temps qu’est acquis le contrôle de l’entité cible, ou au cours des douze mois précédant l’acquisition du contrôle de l’entité cible, si, au cours de cette période, l’entité était du même groupe que l’entité cible, à l’exception des actifs visés aux sous-alinéas (i) ou (ii) et de l’actif consolidé d’une entité à l’égard de laquelle la société de portefeuille d’assurances n’a pas à obtenir l’agrément du surintendant aux termes de l’un ou l’autre des alinéas a) à c),
+- **B** la valeur de l’actif consolidé de la société de portefeuille d’assurances figurant dans le dernier rapport annuel établi avant la date d’acquisition du contrôle de l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,01, dans le cas où la société de portefeuille d’assurances est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,02, dans les autres cas;
+	- **e)** l’acquisition ou l’augmentation d’un intérêt de groupe financier dans l’entité (appelée « entité cible » au présent alinéa), sans acquérir le contrôle de celle-ci, et :
+```
+A/B < C
+```
+où :
+- **A** représente la somme de la valeur des éléments ci-après qui aurait été déclarée dans les états financiers annuels de la société de portefeuille d’assurances s’ils avaient été établis à la date d’acquisition ou d’augmentation de l’intérêt de groupe financier dans l’entité cible :
+	- **(i)** les actions ou les autres titres de participation de l’entité cible acquis par la société de portefeuille d’assurances ou sa filiale, et les actions ou les autres titres de participation de l’entité cible détenus par une entité dont le contrôle est acquis par la société de portefeuille d’assurances, dans le cadre de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+	- **(ii)** les actions ou les autres titres de participation de l’entité cible détenus par la société de portefeuille d’assurances ou sa filiale et acquis par la société ou sa filiale au cours des douze mois précédant l’opération visée au sous-alinéa (i),
+	- **(iii)** les actions ou les autres titres de participation de l’entité cible détenus par une filiale de la société de portefeuille d’assurances dont le contrôle a été acquis par celle-ci au cours des douze mois précédant l’opération visée au sous-alinéa (i), à l’exception des actions ou des autres titres de participation visés au sous-alinéa (ii),
+- **B** la valeur de l’actif consolidé de la société de portefeuille d’assurances figurant dans le dernier rapport annuel établi avant la date de l’opération qui résulte en l’acquisition ou l’augmentation de l’intérêt de groupe financier dans l’entité cible,
+- **C** est égal :
+	- **(i)** à 0,005, dans le cas où la société de portefeuille d’assurances est dotée de capitaux propres égaux ou supérieurs à douze milliards de dollars,
+	- **(ii)** à 0,01, dans les autres cas.
+
+**Aucune exception pour les acquisitions réputées**
+
+- **(7.1)** L’exception prévue à l’alinéa (7)d) ne s’applique pas à l’égard de l’acquisition du contrôle réputée qui est visée au paragraphe 969(6).
 
 **Contrôle non requis**
 
@@ -21677,7 +21868,7 @@ où :
 **Présomption d’agrément**
 
 - **(11)** Si la société de portefeuille d’assurances contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de portefeuille d’assurances de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 2001, ch. 9, art. 465; 2007, ch. 6, art. 326 et 336(F); 2012, ch. 5, art. 158.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 326 et 336(F); 2012, ch. 5, art. 158; 2018, ch. 27, art. 134.
 
 
 
@@ -22276,6 +22467,21 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(6)** Pour l’application du paragraphe (3), le gouverneur en conseil peut prendre des règlements concernant les circonstances dans lesquelles les renseignements visés au paragraphe (1) peuvent servir de preuve.
 > 2015, ch. 36, art. 237.
+
+
+
+
+
+**Non-renonciation**
+
+**999.2** 
+
+- **(1)** Il est entendu que la communication au surintendant par la société de portefeuille d’assurances — ou par une personne qui contrôle la société de portefeuille d’assurances ou par une entité qui appartient au groupe de celle-ci — de renseignements protégés par toute immunité reconnue par le droit de la preuve, par le secret professionnel de l’avocat ou du notaire ou par le privilège relatif au litige ne constitue pas une renonciation à l’immunité, au secret professionnel ou au privilège.
+
+**Aucune divulgation**
+
+- **(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l’enquête ou la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
+> 2018, ch. 27, art. 173.
 
 
 
@@ -23233,10 +23439,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **b)** le document électronique est transmis au système de traitement de l’information ainsi désigné, sauf disposition réglementaire à l’effet contraire;
 	- **c)** les exigences réglementaires sont observées.
 
+**Consentement et avis par voie électronique**
+
+- **(1.1)** Malgré le paragraphe (1), les exigences réglementaires visées à l’alinéa (1)c) peuvent prévoir que le consentement visé à l’alinéa (1)a) et tout avis relatif à ce consentement peuvent être donnés par voie électronique.
+
 **Règlements — révocation du consentement**
 
 - **(2)** Le gouverneur en conseil peut prendre des règlements concernant la révocation du consentement.
-> 2005, ch. 54, art. 367.
+> 2005, ch. 54, art. 367; 2018, ch. 27, art. 154.
 
 
 
