@@ -2273,7 +2273,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind23CB_hq_22332'>[*]</a></sup>**(2)** This Division, other than subsections 361(1) and (2), sections 365 and 371 and subsections 372(3), (5) and (6), 392(1), 399(2) and 401(3), comes into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind23CB_hq_22332'><sup>*</sup></a>: [Note: Division 19, other than subsections 361(1) and (2), sections 365 and 371 and subsections 372(3), (5) and (6), 392(1), 399(2) and 401(3), not in force.]<br />
+<a name='fn_Ind23CB_hq_22332'><sup>*</sup></a>: [Note: Division 19, other than subsections 361(1) and (2), sections 365 and 371 and subsections 372(3), (5) and (6), 392(1), 399(2) and 401(3), in force December 15, 2018, *see* SI/2018-114.]<br />
 
 
 
