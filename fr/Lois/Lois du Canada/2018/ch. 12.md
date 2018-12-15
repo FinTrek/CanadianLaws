@@ -2273,7 +2273,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind733D_hq_22348'>[*]</a></sup>**(2)** La présente section, à l’exception des paragraphes 361(1) et (2), des articles 365 et 371 et des paragraphes 372(3), (5) et (6), 392(1), 399(2) et 401(3), entre en vigueur, conformément au paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à la date fixée par décret.
 
-<a name='fn_Ind733D_hq_22348'><sup>*</sup></a>: [Note : Section 19, à l’exception des paragraphes 361(1) et (2), des articles 365 et 371 et des paragraphes 372(3), (5) et (6), 392(1), 399(2) et 401(3), non en vigueur.]<br />
+<a name='fn_Ind733D_hq_22348'><sup>*</sup></a>: [Note : Section 19, à l’exception des paragraphes 361(1) et (2), des articles 365 et 371 et des paragraphes 372(3), (5) et (6), 392(1), 399(2) et 401(3), en vigueur le 15 décembre 2018, *voir* TR/2018-114.]<br />
 
 
 
