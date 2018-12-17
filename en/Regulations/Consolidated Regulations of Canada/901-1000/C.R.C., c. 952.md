@@ -470,11 +470,12 @@ may lodge an appeal by forwarding by registered mail to the Assistant Deputy Min
 
 
 
-**14** Where it appears that
-- **(a)** there was corrupt practice in connection with an election,
-- **(b)** there was a violation of the Act or these Regulations that might have affected the result of an election, or
-- **(c)** a person nominated to be a candidate in an election was ineligible to be a candidate,
-the Minister shall report to the Governor in Council accordingly.
+**14** The Minister shall report to the Governor in Council when the Minister is satisfied that
+- **(a)** there was corrupt practice in connection with an election;
+- **(b)** there was a contravention of the Act or these Regulations that might have affected the result of an election; or
+- **(c)** a person nominated to be a candidate in an election was ineligible to be a candidate.
+> SOR/2018-285, s. 1.
+
 
 
 
