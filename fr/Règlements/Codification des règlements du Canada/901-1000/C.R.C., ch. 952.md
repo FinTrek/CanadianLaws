@@ -470,11 +470,12 @@ il peut interjeter appel en faisant parvenir au sous-ministre adjoint, par courr
 
 
 
-**14** Lorsqu’il y a lieu de croire
-- **a)** qu’il y a eu manoeuvre corruptrice à l’égard d’une élection,
-- **b)** qu’il y a eu violation de la Loi ou du présent règlement qui puisse porter atteinte au résultat d’une élection, ou
-- **c)** qu’une personne présentée comme candidat à une élection était inadmissible à la candidature,
-le Ministre doit alors faire rapport au gouverneur en conseil.
+**14** Le Ministre fait rapport au gouverneur en conseil lorsqu’il est convaincu :
+- **a)** soit qu’il y a eu des manoeuvres frauduleuses à l’égard d’une élection;
+- **b)** soit qu’il y a eu violation de la Loi ou du présent règlement pouvant influer sur le résultat d’une élection;
+- **c)** soit qu’une personne présentée comme candidat à une élection ne possédait pas les qualités requises pour être admissible à la candidature.
+> DORS/2018-285, art. 1.
+
 
 
 
