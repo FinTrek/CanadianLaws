@@ -2049,10 +2049,10 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Annulation ou modification d’une ordonnance**
 
-**109** La Commission peut, sur demande, annuler ou modifier en cours d’exécution toute ordonnance d’interdiction rendue aux termes de l’article 259 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), après une période :
+**109** La Commission peut, sur demande, annuler ou modifier en cours d’exécution toute ordonnance d’interdiction rendue aux termes de l’article 320.24 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ou de l’article 259 de cette loi, dans sa version antérieure à la date d’entrée en vigueur de l’article 14 de la Loi modifiant le Code criminel (infractions relatives aux moyens de transport) et apportant des modifications corrélatives à d’autres lois, après une période :
 - **a)** de dix ans à compter du début de l’interdiction, dans le cas où celle-ci est perpétuelle;
 - **b)** de cinq ans à compter du début de l’interdiction, dans le cas où celle-ci est imposée pour une période de plus de cinq ans sans être perpétuelle.
-> 1992, ch. 20, art. 109; 2006, ch. 14, art. 8
+> 1992, ch. 20, art. 109; 2006, ch. 14, art. 8; 2018, ch. 21, art. 47
 
 
 
@@ -4807,12 +4807,7 @@ Il est alors autorisé à faire prêter serment.
 - **s)** article 246 (fait de vaincre la résistance à la perpétration d’une infraction);
 - **s.01)** article 247 (trappes susceptibles de causer des lésions corporelles);
 - **s.02)** article 248 (fait de nuire aux moyens de transport);
-- **s.1)** paragraphes 249(3) et (4) (conduite dangereuse causant ainsi des lésions corporelles et conduite de façon dangereuse causant ainsi la mort);
-- **s.11)** paragraphes 249.1(3) et (4) (fuite causant des lésions corporelles ou la mort);
-- **s.12)** article 249.2 (causer la mort par négligence criminelle — course de rue);
-- **s.13)** article 249.3 (causer des lésions corporelles par négligence criminelle — course de rue);
-- **s.14)** article 249.4 (conduite dangereuse d’un véhicule à moteur — course de rue);
-- **s.2)** paragraphes 255(2) et (3) (capacité de conduite affaiblie);
+- **s.1) à s.2)** [Abrogés, 2018, ch. 21, art. 48]
 - **s.3)** article 264 (harcèlement criminel);
 - **s.4)** article 264.1 (proférer des menaces);
 - **t)** article 266 (voies de fait);
@@ -4829,12 +4824,17 @@ Il est alors autorisé à faire prêter serment.
 - **z.11)** article 273.3 (passage d’enfants à l’étranger);
 - **z.2)** article 279 (enlèvement, séquestration);
 - **z.201)** article 279.011 (traite de personnes âgées de moins de dix-huit ans);
-- **z.202)** paragraphe 279.02(2) (avantage matériel—traite de personnes âgées de moins de dix-huit ans);
-- **z.203)** paragraphe 279.03(2) (rétention ou destruction de documents—traite de personnes âgées de moins de dix-huit ans);
+- **z.202)** paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans);
+- **z.203)** paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans);
 - **z.21)** article 279.1 (prise d’otages);
-- **z.22) ** paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution  —  personne âgée de moins de dix-huit ans);
-- **z.23) ** paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans);
-- **z.24) ** paragraphe 286.3(2) (proxénétisme  — personne âgée de moins de dix-huit ans);
+- **z.22)** paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans);
+- **z.23)** paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans);
+- **z.24)** paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
+- **z.25)** article 320.13 (conduite dangereuse);
+- **z.26)** paragraphes 320.14(1), (2) et (3) (capacité de conduire affaiblie);
+- **z.27)** article 320.15 (omission ou refus d’obtempérer);
+- **z.28)** article 320.16 (omission de s’arrêter à la suite d’un accident);
+- **z.29)** article 320.17 (fuite);
 - **z.3)** articles 343 et 344 (vol qualifié);
 - **z.301)** article 346 (extorsion);
 - **z.31)** paragraphe 430(2) (méfait qui cause un danger réel pour la vie des gens);
@@ -4845,6 +4845,15 @@ Il est alors autorisé à faire prêter serment.
 - **z.5)** article 434.1 (incendie criminel : biens propres);
 - **z.6)** article 436 (incendie criminel par négligence);
 - **z.7)** alinéa 465(1)a) (complot en vue de commettre un meurtre).
+
+
+**1.1** Une infraction prévue par l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans toute version antérieure à la date d’entrée en vigueur du présent article, et poursuivie par mise en accusation :
+- **a)** paragraphes 249(3) et (4) (conduite dangereuse causant des lésions corporelles et conduite de façon dangereuse causant la mort);
+- **b)** paragraphe 249.1(3) (fuite causant des lésions corporelles ou la mort);
+- **c)** article 249.2 (causer la mort par négligence criminelle — course de rue);
+- **d)** article 249.3 (causer des lésions corporelles par négligence criminelle — course de rue);
+- **e)** article 249.4 (conduite dangereuse d’un véhicule à moteur — course de rue);
+- **f)** paragraphes 255(2) et (3) (conduite avec capacités affaiblies causant des lésions corporelles ou la mort).
 
 
 **2** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans leur version antérieure au 1<sup>er</sup> juillet 1990, et poursuivie par mise en accusation :
@@ -4883,9 +4892,9 @@ Il est alors autorisé à faire prêter serment.
 
 
 **5.2** Une infraction prévue à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans toute version antérieure à la date d’entrée en vigueur du présent article, et poursuivie par mise en accusation :
-- **a) ** paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
-- **b) ** paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
-- **c) ** paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans).
+- **a)** paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+- **b)** paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+- **c)** paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans).
 
 
 **6** Une infraction visée par l’une des dispositions suivantes de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) :
@@ -4895,7 +4904,7 @@ Il est alors autorisé à faire prêter serment.
 - **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
 
 
-> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42; 2015, ch. 20, art. 30
+> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42; 2015, ch. 20, art. 30; 2018, ch. 21, art. 48 à 50
 
 
 
