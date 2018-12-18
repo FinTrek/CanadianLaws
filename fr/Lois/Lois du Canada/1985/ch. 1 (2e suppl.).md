@@ -5854,7 +5854,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Pouvoirs à l’égard des infractions de conduite avec capacités affaiblies**
 
-- **(2)** L’agent des douanes désigné a, dans le cadre de l’exercice normal de ses attributions à un bureau de douane ou s’il agit en conformité avec l’article 99.1, les pouvoirs et obligations que les articles 254 et 256 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) confèrent à un agent de la paix; il peut en outre, dans le cas où, en vertu du paragraphe 254(3) de cette loi, il ordonne à une personne de fournir des échantillons d’haleine ou de sang ou, dans le cas où, en vertu du paragraphe 254(3.1) de cette loi, il ordonne à une personne de se soumettre à une évaluation ou de fournir des échantillons de sang, lui ordonner, à cette fin, de suivre un agent de la paix visé à l’alinéa c) de la définition de agent de la paix à l’article 2 de la même loi.
+- **(2)** L’agent des douanes désigné a, dans le cadre de l’exercice normal de ses attributions à un bureau de douane ou s’il agit en conformité avec l’article 99.1, les pouvoirs et obligations que les articles 320.27 à 320.29 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) confèrent à un agent de la paix; il peut en outre, dans le cas où il ordonne à une personne de fournir des échantillons d’haleine ou de sang ou de se soumettre à une évaluation, lui ordonner, à cette fin, de suivre un agent de la paix visé à l’alinéa c) de la définition de agent de la paix à l’article 2 de la même loi.
 
 **Pouvoir de détention**
 
@@ -5863,7 +5863,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Restriction**
 
 - **(4)** L’agent des douanes désigné ne peut recourir à ses pouvoirs d’application de la présente loi uniquement pour rechercher des éléments de preuve d’infraction criminelle à une autre loi fédérale.
-> 1998, ch. 7, art. 1; 2001, ch. 25, art. 84; 2008, ch. 6, art. 59; 2018, ch. 21, art. 11.
+> 1998, ch. 7, art. 1; 2001, ch. 25, art. 84; 2008, ch. 6, art. 59; 2018, ch. 21, art. 11 et 45.
 
 
 
