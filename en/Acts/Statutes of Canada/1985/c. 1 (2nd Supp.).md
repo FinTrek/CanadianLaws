@@ -5872,9 +5872,9 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 - **(1)** In addition to the powers conferred on an officer for the enforcement of this Act, a designated officer who is at a customs office and is performing the normal duties of an officer or is acting in accordance with section 99.1 has, in relation to a criminal offence under any other Act of Parliament, the powers and obligations of a peace officer under sections 495 to 497 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and subsections 495(3) and 497(3) of that Act apply to the designated officer as if he or she were a peace officer.
 
-**Impaired driving offences**
+**Powers relating to impaired driving offences**
 
-- **(2)** A designated officer who is at a customs office performing the normal duties of an officer or is acting in accordance with section 99.1 has the powers and obligations of a peace officer under sections 254 and 256 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If, by demand, they require a person to provide samples of blood or breath under subsection 254(3) of that Act, or to submit to an evaluation or to provide samples of blood under subsection 254(3.1) of that Act, they may also require the person to accompany a peace officer referred to in paragraph (c) of the definition peace officer in section 2 of that Act, for that purpose.
+- **(2)** A designated officer who is at a customs office performing the normal duties of an officer or is acting in accordance with section 99.1 has the powers and obligations of a peace officer under sections 320.27 to 320.29 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If, by demand, they require a person to provide samples of blood or breath or to submit to an evaluation, they may also require the person to accompany a peace officer referred to in paragraph (c) of the definition peace officer in section 2 of that Act, for that purpose.
 
 **Power to detain**
 
@@ -5883,7 +5883,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Limitation on powers**
 
 - **(4)** A designated officer may not use any power conferred on the officer for the enforcement of this Act for the sole purpose of looking for evidence of a criminal offence under any other Act of Parliament.
-> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59; 2018, c. 21, s. 11.
+> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59; 2018, c. 21, ss. 11, 45.
 
 
 
