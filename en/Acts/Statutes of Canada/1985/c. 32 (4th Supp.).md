@@ -2343,8 +2343,8 @@ raises, or may raise, issues of public interest relating to safe railway operati
 
 **Admissibility of evidence**
 
-- **(7)** Evidence relating to the presence or concentration of alcohol or a drug in a sample of a bodily substance obtained under any provision of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) is admissible in proceedings taken against a person under this Act in respect of a contravention of a rule or regulation respecting the use of alcohol or a drug, and section 258 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies to those proceedings with any modifications that the circumstances require.
-> R.S., 1985, c. 32 (4th Supp.), s. 41; 1999, c. 9, s. 31; 2008, c. 6, s. 60; 2012, c. 7, s. 32; 2015, c. 31, s. 32.
+- **(7)** Evidence relating to the presence or concentration of alcohol or a drug in a sample of a bodily substance obtained under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) is admissible in proceedings taken against a person under this Act in respect of a contravention of a rule or regulation respecting the use of alcohol or a drug, and sections 320.31 to 320.35 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)  apply to those proceedings with any modifications that the circumstances require.
+> R.S., 1985, c. 32 (4th Supp.), s. 41; 1999, c. 9, s. 31; 2008, c. 6, s. 60; 2012, c. 7, s. 32; 2015, c. 31, s. 32; 2018, c. 21, s. 46.
 
 
 
