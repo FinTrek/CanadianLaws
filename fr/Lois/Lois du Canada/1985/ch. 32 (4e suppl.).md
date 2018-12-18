@@ -2151,7 +2151,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Contravention aux règlements, aux injonctions ministérielles, etc.**
 
-- **(2)** Commet une infraction quiconque contrevient :
+- **(2)** Commet une infraction quiconque contrevient :
 	- **a)** à un règlement pris en vertu du paragraphe 7(1) ou des articles 7.1, 18, 24, 37, 47 ou 47.1;
 	- **b)** à l’ordre de l’inspecteur de la sécurité ferroviaire donné dans un avis transmis en vertu de l’article 31, à l’avis du ministre transmis en vertu de l’article 32, ou à l’arrêté du ministre pris en vertu des paragraphes 7(2), 19(1) ou de l’article 32.01;
 	- **b.1)** à une norme technique;
@@ -2190,10 +2190,10 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 - **(6)** Tous les frais entraînés par l’enregistrement peuvent être recouvrés comme s’ils avaient été enregistrés avec la déclaration de culpabilité.
 
-**Admissibilité**
+**Admissibilité en preuve**
 
-- **(7)** Les résultats des analyses servant à déterminer la concentration ou la présence d’alcool ou de drogue dans les échantillons de substances corporelles prélevés sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées au titre de la présente loi pour violation des règles ou règlements concernant la consommation d’alcool ou de drogue. L’article 258 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique, compte tenu des adaptations nécessaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32; 2015, ch. 31, art. 32.
+- **(7)** Les résultats des analyses servant à établir la présence ou la concentration d’alcool ou de drogue dans les échantillons de substances corporelles prélevés sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées au titre de la présente loi pour violation des règles ou règlements concernant la consommation d’alcool ou de drogue. Les articles 320.31 à 320.35 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)  s’appliquent, compte tenu des adaptations nécessaires, à ces poursuites.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32; 2015, ch. 31, art. 32; 2018, ch. 21, art. 46.
 
 
 
