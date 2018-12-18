@@ -2202,12 +2202,12 @@ but does not include a person whose only sentence is a sentence being served int
 
 
 
-**Prohibition orders re vehicles, etc.**
+**Cancellation or variation of prohibition orders**
 
-**109** The Board may, on application, cancel or vary the unexpired portion of a prohibition order made under section 259 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) after a period of
+**109** The Board may, on application, cancel or vary the unexpired portion of a prohibition order made under section 320.24 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)  or section 259 of that Act, as it read immediately before the day on which section 14 of An Act to amend the Criminal Code (offences relating to conveyances) and to make consequential amendments to other Acts comes into force, after a period of
 - **(a)** ten years after the commencement of the order, in the case of a prohibition for life; or
 - **(b)** five years after the commencement of the order, in the case of a prohibition for more than five years but less than life.
-> 1992, c. 20, s. 109; 2006, c. 14, s. 8
+> 1992, c. 20, s. 109; 2006, c. 14, s. 8; 2018, c. 21, s. 47
 
 
 
@@ -5043,12 +5043,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(s)** section 246 (overcoming resistance to commission of offence);
 - **(s.01)** section 247 (traps likely to cause bodily harm);
 - **(s.02)** section 248 (interfering with transportation facilities);
-- **(s.1)** subsections 249(3) and (4) (dangerous operation causing bodily harm and dangerous operation causing death);
-- **(s.11)** subsections 249.1(3) and (4) (flight causing bodily harm or death);
-- **(s.12)** section 249.2 (causing death by criminal negligence (street racing));
-- **(s.13)** section 249.3 (causing bodily harm by criminal negligence (street racing));
-- **(s.14)** section 249.4 (dangerous operation of motor vehicle while street racing);
-- **(s.2)** subsections 255(2) and (3) (impaired driving causing bodily harm and impaired driving causing death);
+- **(s.1) to (s.2)** [Repealed, 2018, c. 21, s. 48]
 - **(s.3)** section 264 (criminal harassment);
 - **(s.4)** section 264.1 (uttering threats);
 - **(t)** section 266 (assault);
@@ -5064,13 +5059,18 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(z.1)** section 273 (aggravated sexual assault);
 - **(z.11)** section 273.3 (removal of child from Canada);
 - **(z.2)** section 279 (kidnapping and forcible confinement);
-- **(z.201)** section 279.011 (trafficking  —  person under 18 years);
-- **(z.202)** subsection 279.02(2) (material benefit  —  trafficking of person under 18 years);
-- **(z.203)** subsection 279.03(2) (withholding or destroying documents  —  trafficking of person under 18 years);
+- **(z.201)** section 279.011 (trafficking — person under 18 years);
+- **(z.202)** subsection 279.02(2) (material benefit — trafficking of person under 18 years);
+- **(z.203)** subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years);
 - **(z.21)** section 279.1 (hostage taking);
 - **(z.22)** subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years);
 - **(z.23)** subsection 286.2(2) (material benefit from sexual services provided by person under 18 years);
-- **(z.24)** subsection 286.3(2) (procuring  — person under 18 years);
+- **(z.24)** subsection 286.3(2) (procuring — person under 18 years);
+- **(z.25)** section 320.13 (dangerous operation);
+- **(z.26)** subsections 320.14(1), (2) and (3) (operation while impaired);
+- **(z.27)** section 320.15 (failure or refusal to comply with demand);
+- **(z.28)** section 320.16 (failure to stop after accident);
+- **(z.29)** section 320.17 (flight from peace officer);
 - **(z.3)** sections 343 and 344 (robbery);
 - **(z.301)** section 346 (extortion);
 - **(z.31)** subsection 430(2) (mischief that causes actual danger to life);
@@ -5081,6 +5081,15 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(z.5)** section 434.1 (arson — own property);
 - **(z.6)** section 436 (arson by negligence); and
 - **(z.7)** paragraph 465(1)(a) (conspiracy to commit murder).
+
+
+**1.1** An offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as they read from time to time before the day on which this section comes into force, that was prosecuted by way of indictment:
+- **(a)** subsections 249(3) and (4) (dangerous operation causing bodily harm and dangerous operation causing death);
+- **(b)** subsection 249.1(3) (flight causing bodily harm or death);
+- **(c)** section 249.2 (causing death by criminal negligence — street racing);
+- **(d)** section 249.3 (causing bodily harm by criminal negligence — street racing);
+- **(e)** section 249.4 (dangerous operation of motor vehicle while street racing); and
+- **(f)** subsections 255(2) and (3) (impaired driving causing bodily harm and impaired driving causing death).
 
 
 **2** An offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as they read immediately before July 1, 1990, that was prosecuted by way of indictment:
@@ -5131,7 +5140,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(d)** section 7 (breach of responsibility committed outside Canada by military commanders or other superiors).
 
 
-> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42; 2015, c. 20, s. 30
+> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42; 2015, c. 20, s. 30; 2018, c. 21, ss. 48 to 50
 
 
 
