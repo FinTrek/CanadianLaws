@@ -39,41 +39,41 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***advance poll*** means a vote held under Part 10.
+***advance poll*** means a vote held under Part 10. (*vote par anticipation*)
 
-***advance polling station*** means a polling station established under subsection 168(3).
+***advance polling station*** means a polling station established under subsection 168(3). (*bureau de vote par anticipation*)
 
-***broadcaster*** means a person who is licensed by the Canadian Radio-television and Telecommunications Commission under the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md) to carry on a programming undertaking.
+***broadcaster*** means a person who is licensed by the Canadian Radio-television and Telecommunications Commission under the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md) to carry on a programming undertaking. (*radiodiffuseur*)
 
-***broadcasting*** means broadcasting, as defined in subsection 2(1) of the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md), that is regulated and supervised by the Canadian Radio-television and Telecommunications Commission pursuant to section 5 of that Act.
+***broadcasting*** means broadcasting, as defined in subsection 2(1) of the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md), that is regulated and supervised by the Canadian Radio-television and Telecommunications Commission pursuant to section 5 of that Act. (*radiodiffusion*)
 
-***Broadcasting Arbitrator*** means the person appointed as Broadcasting Arbitrator under subsection 332(1).
+***Broadcasting Arbitrator*** means the person appointed as Broadcasting Arbitrator under subsection 332(1). (*arbitre*)
 
-***by-election*** means an election other than a general election.
+***by-election*** means an election other than a general election. (*élection partielle*)
 
-***candidate*** means a person whose nomination as a candidate at an election has been confirmed under subsection 71(1) and who, or whose official agent, has not yet complied with sections 477.59 to 477.72 and 477.8 to 477.84 in respect of that election.
+***candidate*** means a person whose nomination as a candidate at an election has been confirmed under subsection 71(1) and who, or whose official agent, has not yet complied with sections 477.59 to 477.72 and 477.8 to 477.84 in respect of that election. (*candidat*)
 
-***capital asset*** means any property with a commercial value of more than $200 that is normally used outside an election period other than for the purposes of an election.
+***capital asset*** means any property with a commercial value of more than $200 that is normally used outside an election period other than for the purposes of an election. (*bien immobilisé*)
 
-***chief agent*** means the chief agent named in the application of a political party to become a registered party as required under paragraph 385(2)(h) or a chief agent’s replacement appointed under subsection 400(1).
+***chief agent*** means the chief agent named in the application of a political party to become a registered party as required under paragraph 385(2)(h) or a chief agent’s replacement appointed under subsection 400(1). (*agent principal*)
 
-***close of nominations*** means the deadline for the receipt of nominations set out in subsection 70(2).
+***close of nominations*** means the deadline for the receipt of nominations set out in subsection 70(2). (*clôture des candidatures*)
 
-***closing day for nominations*** means the day referred to in section 69.
+***closing day for nominations*** means the day referred to in section 69. (*jour de clôture*)
 
 ***commercial value***, in relation to property or a service, means the lowest amount charged at the time that it was provided for the same kind and quantity of property or service or for the same usage of property or money, by
 - **(a)** the person who provided it, if the person is in the business of providing that property or service; or
-- **(b)** another person who provides that property or service on a commercial basis in the area where it was provided, if the person who provided the property or service is not in that business.
+- **(b)** another person who provides that property or service on a commercial basis in the area where it was provided, if the person who provided the property or service is not in that business. (*valeur commerciale*)
 
-***Commissioner*** means the Commissioner of Canada Elections appointed under subsection 509(1).
+***Commissioner*** means the Commissioner of Canada Elections appointed under subsection 509(1). (*commissaire*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year.
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year. (*conjoint de fait*)
 
-***contribution*** means a monetary contribution or a non-monetary contribution.
+***contribution*** means a monetary contribution or a non-monetary contribution. (*contribution*)
 
-***election*** means an election of a member to serve in the House of Commons.
+***election*** means an election of a member to serve in the House of Commons. (*élection*)
 
-***election documents*** means the following documents:
+***election documents*** means the following documents:
 - **(a)** the writ with the return of the election endorsed on it;
 - **(b)** the nomination papers filed by the candidates;
 - **(c)** the reserve supply of undistributed blank ballot papers;
@@ -86,21 +86,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(iv)** a packet of rejected ballot papers,
 	- **(v)** a packet containing the list of electors used at the polling station, the written authorizations of candidates’ representatives and the used transfer certificates, if any, and
 	- **(vi)** a packet containing the registration certificates;
-- **(g)** the prescribed forms referred to in section 162 and any other prescribed form to be used at a polling station that contains personal information relating to an elector.
+- **(g)** the prescribed forms referred to in section 162 and any other prescribed form to be used at a polling station that contains personal information relating to an elector. (*documents électoraux*)
 
-***election officer*** means a person referred to in subsection 22(1).
+***election officer*** means a person referred to in subsection 22(1). (*fonctionnaire électoral*)
 
-***election period*** means the period beginning with the issue of the writ and ending on polling day or, if the writ is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on the day that the writ is withdrawn or deemed to be withdrawn.
+***election period*** means the period beginning with the issue of the writ and ending on polling day or, if the writ is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on the day that the writ is withdrawn or deemed to be withdrawn. (*période électorale*)
 
-***elector*** means a person who is qualified as an elector under section 3.
+***elector*** means a person who is qualified as an elector under section 3. (*électeur*)
 
-***electoral district*** means a place or territorial area that is represented by a member in the House of Commons.
+***electoral district*** means a place or territorial area that is represented by a member in the House of Commons. (*circonscription*)
 
-***electoral district agent*** means a person appointed under subsection 456(1), and includes the financial agent of a registered association.
+***electoral district agent*** means a person appointed under subsection 456(1), and includes the financial agent of a registered association. (*agent de circonscription*)
 
-***electoral district association*** means an association of members of a political party in an electoral district.
+***electoral district association*** means an association of members of a political party in an electoral district. (*association de circonscription*)
 
-***eligible party*** means a political party that satisfies the criteria for registration set out in section 387.
+***eligible party*** means a political party that satisfies the criteria for registration set out in section 387. (*parti admissible*)
 
 ***judge***, when used to define the judicial officer on whom is conferred specific powers, means
 - **(a)** in relation to the Province of Ontario, a judge of the Superior Court of Justice;
@@ -114,75 +114,75 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(i)** in relation to any place or territory in Canada,
 	- **(i)** if a vacancy exists or arises in the office of any such judge or if such a judge is unable to act by reason of illness or absence from their judicial district, the judge exercising the jurisdiction of that judge,
 	- **(ii)** if there is more than one judge exercising that jurisdiction, the senior of them, and
-	- **(iii)** if no judge is exercising that jurisdiction, a judge designated for the purpose by the Minister of Justice.
+	- **(iii)** if no judge is exercising that jurisdiction, a judge designated for the purpose by the Minister of Justice. (*juge*)
 
-***leadership campaign agent*** means a person appointed under subsection 478.5(1), and includes the financial agent of a leadership contestant.
+***leadership campaign agent*** means a person appointed under subsection 478.5(1), and includes the financial agent of a leadership contestant. (*agent de campagne à la direction*)
 
-***leadership campaign expense*** means an expense reasonably incurred by or on behalf of a leadership contestant during a leadership contest as an incidence of the contest, including a personal expense as defined in section 478.
+***leadership campaign expense***[Repealed, 2018, c. 20, s. 1]
 
-***leadership contest*** means a competition for the selection of the leader of a registered party.
+***leadership contest*** means a competition for the selection of the leader of a registered party. (*course à la direction*)
 
-***leadership contestant*** means a person who has been registered in the registry of leadership contestants referred to in section 478.4 in respect of a leadership contest and who, or whose financial agent, has not yet complied with sections 478.8 to 478.97 in respect of that leadership contest.
+***leadership contestant*** means a person who has been registered in the registry of leadership contestants referred to in section 478.4 in respect of a leadership contest and who, or whose financial agent, has not yet complied with sections 478.8 to 478.97 in respect of that leadership contest. (*candidat à la direction*)
 
-***list of electors*** means the list showing the surname, given names, civic address and mailing address of every elector in a polling division and the identifier that is assigned to the elector by the Chief Electoral Officer. 
+***list of electors*** means the list showing the surname, given names, civic address and mailing address of every elector in a polling division and the identifier that is assigned to the elector by the Chief Electoral Officer.  (*liste électorale*)
 
-***member*** means a member of the House of Commons.
+***member*** means a member of the House of Commons. (*député*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada designated by the Governor in Council for the purposes of this Act.
+***Minister*** means the member of the Queen’s Privy Council for Canada designated by the Governor in Council for the purposes of this Act. (*ministre*)
 
-***monetary contribution*** means an amount of money provided that is not repayable.
+***monetary contribution*** means an amount of money provided that is not repayable. (*contribution monétaire*)
 
-***nomination campaign expense*** means an expense reasonably incurred by or on behalf of a nomination contestant during a nomination contest as an incidence of the contest, including a personal expense as defined in section 476.
+***nomination campaign expense***[Repealed, 2018, c. 20, s. 1]
 
-***nomination contest*** means a competition for the selection of a person to be proposed to a registered party for its endorsement as its candidate in an electoral district.
+***nomination contest*** means a competition for the selection of a person to be proposed to a registered party for its endorsement as its candidate in an electoral district. (*course à l’investiture*)
 
-***nomination contestant*** means a person who is named as a nomination contestant under paragraph 476.1(1)(c) in a report filed in accordance with subsection 476.1(1) in respect of a nomination contest and who, or whose financial agent, has not yet complied with sections 476.75 to 476.94 in respect of that nomination contest.
+***nomination contestant*** means a person who is named as a nomination contestant under paragraph 476.1(1)(c) in a report filed in accordance with subsection 476.1(1) in respect of a nomination contest and who, or whose financial agent, has not yet complied with sections 476.75 to 476.94 in respect of that nomination contest. (*candidat à l’investiture*)
 
-***non-monetary contribution*** means the commercial value of a service, other than volunteer labour, or of property or of the use of property or money to the extent that they are provided without charge or at less than their commercial value.
+***non-monetary contribution*** means the commercial value of a service, other than volunteer labour, or of property or of the use of property or money to the extent that they are provided without charge or at less than their commercial value. (*contribution non monétaire*)
 
-***oath*** includes a solemn affirmation and a statutory declaration.
+***oath*** includes a solemn affirmation and a statutory declaration. (*serment*)
 
-***official agent*** means a person appointed under subsection 477.1(1) or an official agent’s replacement appointed under section 477.42.
+***official agent*** means a person appointed under subsection 477.1(1) or an official agent’s replacement appointed under section 477.42. (*agent officiel*)
 
-***official list of electors*** means the list of electors prepared by the returning officer under section 106.
+***official list of electors*** means the list of electors prepared by the returning officer under section 106. (*liste électorale officielle*)
 
-***periodical publication*** means a paper, magazine or periodical that is published periodically or in parts or numbers and that contains public news, intelligence or reports of events, or advertisements.
+***periodical publication*** means a paper, magazine or periodical that is published periodically or in parts or numbers and that contains public news, intelligence or reports of events, or advertisements. (*publication périodique*)
 
-***personal information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+***personal information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). (*renseignements personnels*)
 
-***political affiliation***, in respect of a candidate, means the name of the political party that has endorsed him or her or the word “independent”, as the case may be, included in the nomination paper in accordance with subparagraph 66(1)(a)(v).
+***political affiliation***, in respect of a candidate, means the name of the political party that has endorsed him or her or the word “independent”, as the case may be, included in the nomination paper in accordance with subparagraph 66(1)(a)(v). (*appartenance politique*)
 
-***political party*** means an organization one of whose fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election.
+***political party*** means an organization one of whose fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election. (*parti politique*)
 
-***polling day***, in relation to an election, means the date fixed under paragraph 57(1.2)(c) for voting at the election.
+***polling day***, in relation to an election, means the date fixed under paragraph 57(1.2)(c) for voting at the election. (*jour du scrutin*)
 
-***polling division*** means a polling division referred to in section 538.
+***polling division*** means a polling division referred to in section 538. (*section de vote*)
 
-***polling station*** means a place established under section 120, 122, 125, 205, 206, 207, 253 or 255 for electors to cast their votes.
+***polling station*** means a place established under section 120, 122, 125, 205, 206, 207, 253 or 255 for electors to cast their votes. (*bureau de scrutin*)
 
-***preliminary list of electors*** means the list of electors prepared by the Chief Electoral Officer under subsection 93(1).
+***preliminary list of electors*** means the list of electors prepared by the Chief Electoral Officer under subsection 93(1). (*liste électorale préliminaire*)
 
-***prescribed***, in relation to a form or an oath, means one that is authorized by the Chief Electoral Officer.
+***prescribed***, in relation to a form or an oath, means one that is authorized by the Chief Electoral Officer. (*prescrit*)
 
-***recount*** means a recount of votes by a judge under Part 14.
+***recount*** means a recount of votes by a judge under Part 14. (*dépouillement judiciaire*)
 
-***registered agent*** means a person appointed under subsection 396(1), and includes the chief agent of a registered party.
+***registered agent*** means a person appointed under subsection 396(1), and includes the chief agent of a registered party. (*agent enregistré*)
 
-***registered association*** means an electoral district association that is registered in the registry of electoral district associations referred to in section 455.
+***registered association*** means an electoral district association that is registered in the registry of electoral district associations referred to in section 455. (*association enregistrée*)
 
-***registered party*** means a political party that is registered in the registry of political parties referred to in section 394 as a registered party.
+***registered party*** means a political party that is registered in the registry of political parties referred to in section 394 as a registered party. (*parti enregistré*)
 
-***Register of Electors*** means the Register of Electors established under section 44.
+***Register of Electors*** means the Register of Electors established under section 44. (*Registre des électeurs*)
 
-***revised list of electors*** means the list of electors prepared by the returning officer under section 105.
+***revised list of electors*** means the list of electors prepared by the returning officer under section 105. (*liste électorale révisée*)
 
 ***spoiled***, in relation to a ballot or a special ballot as defined in section 177, means
 - **(a)** one that has not been deposited in the ballot box but has been found by the deputy returning officer to be soiled or improperly printed; or
-- **(b)** one that is dealt with under subsection 152(1), including in relation to advance polls by virtue of subsection 171(1), or subsection 213(4), 242(1) or 258(3).
+- **(b)** one that is dealt with under subsection 152(1), including in relation to advance polls by virtue of subsection 171(1), or subsection 213(4), 242(1) or 258(3). (*annulé*)
 
-***volunteer labour*** means any service provided free of charge by a person outside their working hours, but does not include such a service provided by a person who is self-employed if the service is one that is normally charged for by that person.
+***volunteer labour*** means any service provided free of charge by a person outside their working hours, but does not include such a service provided by a person who is self-employed if the service is one that is normally charged for by that person. (*travail bénévole*)
 
-***writ*** means a writ of election.
+***writ*** means a writ of election. (*bref*)
 
 **Commercial value of capital assets**
 
@@ -211,7 +211,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of polling day**
 
 - **(6)** If a writ for an election is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), then, in Parts 16.1 and 17 and Divisions 1, 2, 4 and 5 of Part 18, ***polling day*** means the day that the writ is withdrawn or deemed to be withdrawn.
-> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, ss. 2, 155.
+> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, ss. 2, 155; 2018, c. 20, s. 1.
 
 
 
@@ -7857,7 +7857,290 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 
 
-**384.1** [Repealed, 2014, c. 12, s. 86]
+
+**DIVISION 1.1** 
+### Regulated Fundraising Events
+
+
+
+#### Interpretation
+
+
+
+**Definition of regulated fundraising event**
+
+**384.1** 
+
+- **(1)** In this Division, ***regulated fundraising event*** means an event
+	- **(a)** that is organized for the financial benefit of
+		- **(i)** a registered party that is represented in the House of Commons on the day the event occurs or, if Parliament is dissolved, on the date of dissolution, or
+		- **(ii)** a registered association, nomination contestant, candidate or leadership contestant of a registered party described in subparagraph (i); and
+	- **(b)** that is attended by
+		- **(i)** a leader, interim leader or leadership contestant of the registered party for whose financial benefit the event is organized or the registered party described in subparagraph (a)(ii), or a minister of the Crown or minister of state who is a member of the registered party for whose financial benefit the event is organized or the registered party described in that subparagraph, and
+		- **(ii)** at least one person who, in order to attend it, is required
+			- **(A)** to have made a contribution or contributions of a total amount of more than $200 to the registered party or any of its registered associations, nomination contestants, candidates or leadership contestants, or to any combination of them, or to be the guest of a person who has made such a contribution or contributions, or
+			- **(B)** to have paid more than $200, the amount including a contribution to the registered party or any of its registered associations, nomination contestants, candidates or leadership contestants, or to any combination of them, or to be the guest of a person who has made such a payment.
+
+**Exclusion — conventions and leadership contestant debates**
+
+- **(2)** Despite subsection (1), a regulated fundraising event does not include a convention, including a leadership convention, of a registered party referred to in subparagraph (1)(a)(i), or a leadership contestants’ debate.
+
+**Inclusion — fundraising events that are part of conventions**
+
+- **(3)** Despite subsection (2), a regulated fundraising event includes an event that is part of a convention referred to in that subsection if the event is attended by at least one person who, in order to attend it, is required
+	- **(a)** to make a contribution or contributions — in addition to any amount that they were required to pay to attend the convention — of a total amount of more than $200 to the registered party or any of its registered associations, nomination contestants, candidates or leadership contestants, or to any combination of them, or to be the guest of a person who has made such a contribution or contributions; or
+	- **(b)** to pay more than $200 — in addition to any amount that they were required to pay to attend the convention — to attend the event, the amount including a contribution to the registered party or any of its registered associations, nomination contestants, candidates or leadership contestants, or to any combination of them, or to be the guest of a person who has made such a payment.
+
+**Exclusion — contributor appreciation events**
+
+- **(4)** Despite subsection (3), a regulated fundraising event does not include any event that is part of a convention referred to in subsection (2) and that is organized to express appreciation for persons who have made a contribution to the registered party or any of its registered associations, nomination contestants, candidates or leadership contestants.
+> 2004, c. 24, s. 16; 2014, c. 12, s. 86; 2018, c. 20, s. 2.
+
+
+
+
+
+#### Publication and Report
+
+
+
+**Regulated fundraising event organized by registered party**
+
+**384.2** 
+
+- **(1)** If a registered party organizes all or part of a regulated fundraising event for its own financial benefit or for the financial benefit of one of its registered associations, nomination contestants, candidates or leadership contestants, the registered party shall publish the information set out in subsection (2) in a prominent location on its Internet site for the period beginning five days before the day the regulated fundraising event takes place and ending at the time the event starts.
+
+**Information**
+
+- **(2)** The information to be published under subsection (1) and provided under subsection (3) is the following:
+	- **(a)** the date, time and location of the regulated fundraising event;
+	- **(b)** the name of each entity or person referred to in paragraph 384.1(1)(a) for whose financial benefit the event is organized;
+	- **(c)** the name of each person referred to in subparagraph 384.1(1)(b)(i) who will be attending the event;
+	- **(d)** the total amount of contributions that a person will be required to have made, or the amount that they will be required to have paid, in order to attend the event; and
+	- **(e)** the contact information of an individual who may be contacted and from whom further information about the event may be obtained.
+
+**Regulated fundraising event not organized by registered party**
+
+- **(3)** If a regulated fundraising event is organized entirely by one or more persons or entities other than the registered party for whose financial benefit the event is organized, or for the financial benefit of whose registered association, nomination contestant, candidate or leadership contestant the event is organized, each person or entity that organizes the event or any part of it shall provide the information set out in subsection (2) to the registered party in time for the registered party to be able to publish the information as required under subsection (4).
+
+**Registered party to publish information**
+
+- **(4)** If at least one person or entity referred to in subsection (3) complies with the obligation under that subsection — to provide information to the registered party in time for the registered party to be able to publish it — the registered party shall publish that information in a prominent location on its Internet site for the period beginning five days before the day the regulated fundraising event takes place and ending at the time the event starts.
+
+**Registered party to notify Chief Electoral Officer**
+
+- **(4.1)** If a registered party is required to publish information under subsection (1) or (4), it shall also notify the Chief Electoral Officer of the regulated fundraising event no later than five days before the day the event takes place.
+
+**Updating published information**
+
+- **(5)** If a registered party referred to in subsection (1) or (4) becomes aware, after publishing information under this section, of any change to that information, the registered party shall replace the old information on its Internet site with the new information as soon as feasible after becoming aware of the change.
+
+**Updating information provided**
+
+- **(6)** If a person or entity referred to in subsection (3) becomes aware, after providing information to a registered party under this section, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
+
+**Updating published information**
+
+- **(7)** If new information is provided to a registered party under subsection (6), the registered party shall replace the old information on its Internet site with the new information as soon as feasible after being provided with it.
+
+**Exception — election period**
+
+- **(8)** Subsections (1) to (7) do not apply in respect of a regulated fundraising event that takes place during the election period of a general election.
+> 2018, c. 20, s. 2.
+
+
+
+
+
+**Report on regulated fundraising event organized by registered party**
+
+**384.3** 
+
+- **(1)** If a registered party organizes all or part of a regulated fundraising event for its own financial benefit or for the financial benefit of one of its registered associations, nomination contestants, candidates or leadership contestants, the registered party’s chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event.
+
+**Contents of report**
+
+- **(2)** Subject to subsection (3), the report referred to in subsection (1) shall set out the following:
+	- **(a)** the date, time and location of the regulated fundraising event;
+	- **(b)** the name of each entity or person referred to in paragraph 384.1(1)(a) for whose financial benefit the event was organized;
+	- **(c)** the name of each person referred to in subparagraph 384.1(1)(b)(i) who attended the event;
+	- **(d)** the name of each person — other than any person referred to in paragraph (c) — who attended the event, along with the name of their municipality or its equivalent, their province and their postal code;
+	- **(e)** the total amount of contributions that a person was required to have made, or the amount that they were required to have paid, in order to attend the event; and
+	- **(f)** the name of each person or entity that organized the event or any part of it.
+
+**Information not to be included in report**
+
+- **(3)** The registered party’s chief agent shall not include in the report referred to in subsection (1) the name of any of the following persons who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code:
+	- **(a)** any person who was under 18 years of age on the day on which the event took place;
+	- **(a.1)** any person who attended the event solely to assist a person with a disability;
+	- **(b)** any person who attended the event solely because they were employed in the organization of the event;
+	- **(c)** any of the following persons who attended the event solely in the course of their employment:
+		- **(i)** an employee or other representative of any media organization, as well as any freelance journalist, and
+		- **(ii)** a member of the support staff, including security staff, of any person referred to in subparagraph 384.1(1)(b)(i) who attended the event; and
+	- **(d)** any person who attended the event solely in order to provide volunteer labour.
+
+**Regulated fundraising event not organized by registered party**
+
+- **(4)** If a regulated fundraising event is organized entirely by one or more persons or entities other than the registered party for whose financial benefit the event is organized, or for the financial benefit of whose registered association, nomination contestant, candidate or leadership contestant the event is organized, each person or entity that organizes the event or any part of it shall, subject to subsection (5), provide the information set out in subsection (2) to the registered party in time for the registered party’s chief agent to be able to provide the Chief Electoral Officer with a report on the event as required under subsection (6).
+
+**Updating information provided**
+
+- **(4.1)** If a person or entity referred to in subsection (4) becomes aware, after providing information to a registered party under that subsection or this subsection, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
+
+**Information not to be provided**
+
+- **(5)** No person or entity referred to in subsection (4) or (4.1) shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
+
+**Report on regulated fundraising event**
+
+- **(6)** If at least one person or entity referred to in subsection (4) complies with the obligation under that subsection — to provide information to the registered party in time for the registered party’s chief agent to be able to provide the Chief Electoral Officer with the report — that chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event setting out that information.
+
+**Period for providing report**
+
+- **(6.1)** The registered party’s chief agent shall provide the Chief Electoral Officer with the reports referred to in subsections (1) and (6) within 30 days after the day the regulated fundraising event takes place.
+
+**Exception — election period**
+
+- **(7)** Subsections (1) to (6.1) do not apply in respect of a regulated fundraising event that takes place during the election period of a general election.
+
+**Election period**
+
+- **(8)** A registered party’s chief agent shall provide the Chief Electoral Officer with a single report, in the prescribed form, on all the regulated fundraising events that were held during the election period for a general election and
+	- **(a)** all or part of which were organized by the registered party for its own financial benefit or for the financial benefit of one of its registered associations, nomination contestants, candidates or leadership contestants; or
+	- **(b)** in respect of which at least one person or entity that organized the event or any part of it complied with the obligation under subsection (9).
+
+**Period for providing report**
+
+- **(8.1)** The registered party’s chief agent shall provide the Chief Electoral Officer with the report referred to in subsection (8) within 60 days after polling day at the general election.
+
+**Regulated fundraising event not organized by registered party**
+
+- **(9)** If a regulated fundraising event that was held during the election period for a general election was organized entirely by one or more persons or entities other than the registered party for whose financial benefit the event was organized, or for the financial benefit of whose registered association, nomination contestant, candidate or leadership contestant the event was organized, each person or entity that organized the event or any part of it shall, subject to subsection (10), provide the information set out in subsection (2) to the registered party in time for the registered party’s chief agent to be able to provide the Chief Electoral Officer with the report as required under subsection (8).
+
+**Updating information provided**
+
+- **(9.1)** If a person or entity referred to in subsection (9) becomes aware, after providing information to a registered party under that subsection or this subsection, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
+
+**Information not to be provided**
+
+- **(10)** No person or entity referred to in subsection (9) or (9.1) shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
+
+**Contents of report**
+
+- **(11)** Subject to subsection (12), the report referred to in subsection (8) shall set out the information referred to in subsection (2) for each regulated fundraising event referred to in subsection (8).
+
+**Information not to be included in report**
+
+- **(12)** The registered party’s chief agent shall not include in the report referred to in subsection (8), in respect of a given regulated fundraising event, the name of any person referred to in paragraphs (3)(a) to (d) who attended that event, nor the name of their municipality or its equivalent, their province or their postal code.
+
+**Publication of reports**
+
+- **(13)** The Chief Electoral Officer shall publish reports provided under subsections (1), (6) and (8), and any corrected or revised versions of those reports, as soon as feasible after receiving them, in the manner that he or she considers appropriate.
+> 2018, c. 20, s. 2.
+
+
+
+
+
+#### Contributions
+
+
+
+**Return of contributions**
+
+**384.4** If a registered party, a registered association, a nomination contestant, a candidate or a leadership contestant receives a contribution in respect of a regulated fundraising event in respect of which section 384.2 or 384.3 is not complied with, the chief agent of the registered party, the financial agent of the registered association, the official agent of the candidate or the financial agent of the nomination contestant or leadership contestant, as the case may be, shall, within 30 days after becoming aware of the non-compliance, return the contribution unused to the contributor or, if that is not possible, pay the amount of it — or, in the case of a non-monetary contribution, an amount of money equal to its commercial value — to the Chief Electoral Officer, who shall forward that amount to the Receiver General.
+> 2018, c. 20, s. 2.
+
+
+
+
+
+#### Corrections, Revisions and Extended Reporting Periods
+
+
+
+**Minor corrections — Chief Electoral Officer**
+
+**384.5** The Chief Electoral Officer may correct a report referred to in subsection 384.3(1), (6) or (8) if the correction does not materially affect its substance.
+> 2018, c. 20, s. 2.
+
+
+
+
+
+**Extensions — Chief Electoral Officer**
+
+**384.6** 
+
+- **(1)** The Chief Electoral Officer, on the written application of a registered party’s chief agent or, if the chief agent is absent or unable to perform their duties, its leader, shall authorize the extension of the period referred to in subsection 384.3(6.1) or (8.1) unless he or she is satisfied that the chief agent’s failure to provide the report was deliberate or was the result of the chief agent’s failure to exercise due diligence.
+
+**Deadline**
+
+- **(2)** The application may be made within the period referred to in subsection 384.3(6.1) or (8.1) or within two weeks after the end of that period.
+> 2018, c. 20, s. 2.
+
+
+
+
+
+**Corrections or revisions — Chief Electoral Officer**
+
+**384.7** 
+
+- **(1)** The Chief Electoral Officer, on the written application of a registered party’s chief agent or, if the chief agent is absent or unable to perform their duties, its leader, shall authorize the correction or revision of a report referred to in subsection 384.3(1), (6) or (8) if he or she is satisfied by the evidence submitted by the applicant that the correction or revision is necessary in order for the requirements of this Act to be complied with.
+
+**Application made without delay**
+
+- **(2)** The application shall be made immediately after the applicant becomes aware of the need for correction or revision.
+
+**Deadline for corrections or revisions**
+
+- **(3)** The applicant shall provide the Chief Electoral Officer with the corrected or revised version of the report within 30 days after the day on which the correction or revision is authorized or within any extension of that period authorized under subsection (4) or (5).
+
+**New deadline**
+
+- **(4)** The Chief Electoral Officer, on the written application of the applicant made within two weeks after the end of the 30-day period referred to in subsection (3), shall authorize the extension of that period, unless he or she is satisfied that the applicant’s failure to provide the corrected or revised version of the report was deliberate or was the result of the applicant’s failure to exercise due diligence.
+
+**Extension of new deadline**
+
+- **(5)** The Chief Electoral Officer, on the written application of the applicant made within two weeks after the end of an extension authorized under subsection (4) or under this subsection, shall authorize the further extension of that period, unless he or she is satisfied that the applicant’s failure to provide the corrected or revised version of the report was deliberate or was the result of the applicant’s failure to exercise due diligence.
+> 2018, c. 20, s. 2.
+
+
+
+
+
+**Extensions, corrections or revisions — judge**
+
+**384.8** 
+
+- **(1)** The chief agent of a registered party or, if the chief agent is absent or unable to perform their duties, its leader, may apply to a judge for an order
+	- **(a)** authorizing an extension referred to in subsection 384.6(1); or
+	- **(b)** authorizing a correction or revision referred to in subsection 384.7(1).
+The applicant shall notify the Chief Electoral Officer that the application has been made.
+
+**Deadline**
+
+- **(2)** The application may be made
+	- **(a)** under paragraph (1)(a), within two weeks after, as the case may be,
+		- **(i)** if an application for an extension is not made to the Chief Electoral Officer within the period referred to in subsection 384.6(2), the end of the two-week period referred to in that subsection,
+		- **(ii)** the rejection of an application for an extension made in accordance with section 384.6, or
+		- **(iii)** the end of the extended period referred to in subsection 384.6(1); or
+	- **(b)** under paragraph (1)(b), within two weeks after the rejection of an application for a correction or revision made in accordance with section 384.7.
+
+**Grounds — extension**
+
+- **(3)** The judge shall grant an order authorizing an extension unless the judge is satisfied that the chief agent’s failure to provide the required report was deliberate or was the result of the chief agent’s failure to exercise due diligence.
+
+**Grounds — corrections or revisions**
+
+- **(4)** The judge shall grant an order authorizing a correction or revision if the judge is satisfied by the evidence submitted by the applicant that the correction or revision is necessary in order for the requirements of this Act to be complied with.
+
+**Contents of order**
+
+- **(5)** The order may require that the applicant satisfy any condition that the judge considers necessary for carrying out the purposes of this Act.
+> 2018, c. 20, s. 2.
+
 
 
 
@@ -10256,6 +10539,14 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
+**476.01** [Repealed, 2018, c. 31, s. 399]
+
+
+
+**476.02** [Repealed, 2018, c. 31, s. 399]
+
+
+
 
 **SUBDIVISION A** 
 #### Nomination Contest Report
@@ -10453,12 +10744,12 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
-**Limits on expenses**
+**Limits on nomination contest expenses**
 
-**476.67** The limit for nomination campaign expenses — other than personal expenses — that is allowed for a nomination contestant in an electoral district is the amount
+**476.67** The limit for nomination contest expenses that is allowed for a nomination contestant in an electoral district is the amount
 - **(a)** that is 20% of the election expenses limit that was calculated under section 477.49 for that electoral district during the immediately preceding general election, if the boundaries for the electoral district have not changed since then; or
 - **(b)** that the Chief Electoral Officer determines, in any other case.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 4.
 
 
 
@@ -10468,14 +10759,14 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **476.68** 
 
-- **(1)** No nomination contestant and no financial agent of a nomination contestant shall incur total nomination campaign expenses — other than personal expenses — in an amount that is more than the limit allowed for that electoral district under section 476.67.
+- **(1)** No nomination contestant and no financial agent of a nomination contestant shall incur total nomination contest expenses in an amount that is more than the limit allowed for that electoral district under section 476.67.
 
 **Prohibition — collusion**
 
 - **(2)** No person or entity shall
 	- **(a)** circumvent, or attempt to circumvent, the limit referred to in section 476.67; or
 	- **(b)** act in collusion with another person or entity for that purpose.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 5.
 
 
 
@@ -10574,7 +10865,8 @@ The nomination contestant shall notify the Chief Electoral Officer that the proc
 **Contents of return**
 
 - **(2)** The nomination campaign return shall set out
-	- **(a)** a statement of nomination campaign expenses;
+	- **(a)** a statement of nomination contest expenses;
+	- **(a.1)** a statement of nomination campaign expenses, other than nomination contest expenses;
 	- **(b)** a statement of claims that are the subject of proceedings under section 476.74;
 	- **(c)** a statement of unpaid claims, including those resulting from loans made to the nomination contestant under section 373;
 	- **(d)** a statement of the terms and conditions of each loan made to the nomination contestant under section 373, including the amount of the loan, the interest rate, the lender’s name and address, the dates and amounts of repayments of principal and payments of interest, the unpaid principal remaining at the end of each calendar year and, if there is a guarantor, the guarantor’s name and address and the amount guaranteed;
@@ -10649,7 +10941,7 @@ The nomination contestant shall notify the Chief Electoral Officer that the proc
 **Selection date**
 
 - **(16)** In applying subsections (7), (8), (11) and (12), if the selection date of a nomination contest falls within an election period for that electoral district or the 30 days before it, then a reference to “selection date” is to be read as a reference to “polling day”.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 6.
 
 
 
@@ -12275,11 +12567,11 @@ The candidate shall notify the Chief Electoral Officer that the application has 
 
 
 
-**478.01** [Repealed, 2014, c. 12, s. 86]
+**478.01** [Repealed, 2018, c. 31, s. 399]
 
 
 
-**478.02** [Repealed, 2014, c. 12, s. 86]
+**478.02** [Repealed, 2018, c. 31, s. 399]
 
 
 
@@ -12829,7 +13121,8 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 **Contents of return**
 
 - **(2)** The leadership campaign return shall set out
-	- **(a)** a statement of leadership campaign expenses;
+	- **(a)** a statement of leadership contest expenses;
+	- **(a.1)** a statement of leadership campaign expenses, other than leadership contest expenses;
 	- **(b)** a statement of claims that are the subject of proceedings under section 478.79;
 	- **(c)** a statement of unpaid claims, including those resulting from loans made to the leadership contestant under section 373;
 	- **(d)** a statement of the terms and conditions of each loan made to the leadership contestant under section 373, including the amount of the loan, the interest rate, the lender’s name and address, the dates and amounts of repayments of principal and payments of interest, the unpaid principal remaining at the end of each calendar year and, if there is a guarantor, the guarantor’s name and address and the amount guaranteed;
@@ -12900,7 +13193,7 @@ The leadership contestant shall notify the Chief Electoral Officer that the proc
 **Irregular claims and payments**
 
 - **(15)** The leadership contestant’s financial agent shall provide the Chief Electoral Officer with a report in the prescribed form on the payment of a claim that was subject to an authorization to pay under section 478.77 or 478.78 or an order to pay resulting from proceedings commenced under section 478.79. The financial agent shall provide the report within 30 days after the day on which the payment is made and shall include in it information indicating the source of the funds used to pay the claim.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, s. 86; 2018, c. 20, s. 8.
 
 
 
@@ -13754,6 +14047,32 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
+##### Offences under Division 1.1 of Part 18 (Regulated Fundraising Events)
+
+
+
+**Strict liability offences — summary conviction**
+
+**497.01** Every person is guilty of an offence who
+- **(a)** being a registered party, contravenes subsection 384.2(1) or (4) (failure to publish information about regulated fundraising event);
+- **(b)** being a person or entity, contravenes subsection 384.2(3) (failure to provide information about regulated fundraising event);
+- **(b.1)** being a registered party, contravenes subsection 384.2(4.1) (failure to notify Chief Electoral Officer of regulated fundraising event);
+- **(c)** being a registered party, contravenes subsection 384.2(5) or (7) (failure to replace old information about regulated fundraising event on its Internet site);
+- **(d)** being a person or entity, contravenes subsection 384.2(6) (failure to provide new information about regulated fundraising event);
+- **(e)** being a chief agent, contravenes subsection 384.3(1), (6) or (6.1) (failure to provide report on regulated fundraising event);
+- **(f)** being a chief agent, contravenes subsection 384.3(3) (including prohibited name or address in report on regulated fundraising event);
+- **(g)** being a person or entity, contravenes subsection 384.3(4), (4.1), (9) or (9.1) (failure to provide information about regulated fundraising event);
+- **(h)** being a person or entity, contravenes subsection 384.3(5) or (10) (including prohibited name or address in information about regulated fundraising event);
+- **(i)** being a chief agent, contravenes subsection 384.3(8) or (8.1) (failure to provide report on all regulated fundraising events);
+- **(j)** being a chief agent, contravenes subsection 384.3(12) (including prohibited name or address in report on all regulated fundraising events);
+- **(k)** being the chief agent of a registered party, the financial agent of a registered association, the official agent of a candidate or the financial agent of a nomination contestant or leadership contestant, contravenes section 384.4 (failure to return or pay amount of contribution); or
+- **(l)** being a chief agent or the leader of a registered party, contravenes subsection 384.7(3) (failure to provide corrected or revised report within 30-day period or any extension of that period).
+> 2018, c. 20, s. 9.
+
+
+
+
+
 ##### Offences under Division 2 of Part 18 (Political Parties)
 
 
@@ -13882,7 +14201,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(c)** being a nomination contestant, contravenes section 476.5, 476.6 or 476.61 (failure to comply with requirements re: appointment of financial agent);
 	- **(d)** being a nomination contestant, contravenes subsection 476.63(1) or (2) (failure to report changes in nomination contestant information);
 	- **(e)** being the financial agent of a nomination contestant, contravenes section 476.65 (failure to satisfy bank account requirements);
-	- **(f)** being a nomination contestant or the financial agent of one, contravenes subsection 476.68(1) (exceeding nomination campaign expenses limit);
+	- **(f)** being a nomination contestant or the financial agent of one, contravenes subsection 476.68(1) (exceeding nomination contest expenses limit);
 	- **(g)** being a nomination contestant or the financial agent of one, contravenes subsection 476.7(1) or (2) (failure to pay recoverable claim within three years or paying without authorization);
 	- **(h)** being the financial agent of a nomination contestant, contravenes subsection 476.75(1), (2), (5) or (7) (failure to provide nomination campaign return or related documents);
 	- **(i)** being the financial agent of a nomination contestant, fails to comply with a requirement of the Chief Electoral Officer under subsection 476.75(4);
@@ -13907,8 +14226,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(d)** being a person or entity other than the financial agent of a nomination contestant, knowingly contravenes subsection 476.66(2) (while ineligible, accepting provision of goods or services or transfer of funds or transferring funds);
 	- **(e)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.66(3) (accepting prohibited contribution);
 	- **(f)** being a person or entity, knowingly contravenes subsection 476.66(4), (5) or (6) (paying or incurring expenses for specified purposes or paying personal expenses while ineligible);
-	- **(g)** being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.68(1) (exceeding nomination campaign expenses limit);
-	- **(h)** being a person or entity, contravenes subsection 476.68(2) (circumventing nomination campaign expenses limit);
+	- **(g)** being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.68(1) (exceeding nomination contest expenses limit);
+	- **(h)** being a person or entity, contravenes subsection 476.68(2) (circumventing nomination contest expenses limit);
 	- **(i)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.75(1), (2), (5) or (7) (failure to provide nomination campaign return or related documents);
 	- **(j)** being the financial agent of a nomination contestant, knowingly fails to comply with a requirement of the Chief Electoral Officer under subsection 476.75(4);
 	- **(k)** being a nomination contestant, knowingly contravenes subsection 476.75(8) (failure to send declaration re: nomination campaign return to financial agent) or subsection 476.81(1) (failure to provide Chief Electoral Officer with declaration re: nomination campaign return);
@@ -13921,7 +14240,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(r)** being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.85(3) (failure to provide corrected or revised document within 30-day period or any extension of that period);
 	- **(s)** being a nomination contestant or the financial agent of one, contravenes paragraph 476.9(a) or knowingly contravenes paragraph 476.9(b) (providing document that contains false or misleading information or that is substantially incomplete); or
 	- **(t)** being the financial agent of a nomination contestant, knowingly contravenes subsection 476.92(2) or (3) or section 476.93 (failure to dispose of surplus nomination campaign funds).
-> 2014, c. 12, s. 99.
+> 2014, c. 12, s. 99; 2018, c. 20, s. 10.
 
 
 
@@ -14094,6 +14413,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(1)** Every person who is guilty of an offence under any of subsections 484(1), 486(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 496(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1) and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
 
+**Punishment — strict liability offences**
+
+- **(1.1)** Every person who is guilty of an offence under section 497.01 is liable on summary conviction to a fine of not more than $1,000.
+
 **Punishment — offences requiring intent (summary conviction)**
 
 - **(2)** Every person who is guilty of an offence under any of subsections 484(2) and 486(2), paragraph 487(1)(a), subsections 488(1), 489(2) and 491(2), section 493 and subsections 495(2) and (3), 497.1(2) and 497.2(2) is liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both.
@@ -14117,7 +14440,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Additional punishment — third parties**
 
 - **(6)** Every third party that is guilty of an offence under paragraph 496(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the election advertising expense limit in question.
-> 2000, c. 9, s. 500; 2007, c. 21, s. 39.1; 2014, c. 12, s. 100.
+> 2000, c. 9, s. 500; 2007, c. 21, s. 39.1; 2014, c. 12, s. 100; 2018, c. 20, s. 11.
 
 
 
