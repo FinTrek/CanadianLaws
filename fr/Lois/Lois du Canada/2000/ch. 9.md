@@ -39,67 +39,67 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de campagne à la direction*** Personne nommée en vertu du paragraphe 478.5(1), y compris l’agent financier d’un candidat à la direction.
+***agent de campagne à la direction*** Personne nommée en vertu du paragraphe 478.5(1), y compris l’agent financier d’un candidat à la direction. (*leadership campaign agent*)
 
-***agent de circonscription*** Personne nommée en vertu du paragraphe 456(1), y compris l’agent financier d’une association enregistrée.
+***agent de circonscription*** Personne nommée en vertu du paragraphe 456(1), y compris l’agent financier d’une association enregistrée. (*electoral district agent*)
 
-***agent enregistré*** Personne nommée en vertu du paragraphe 396(1), y compris l’agent principal d’un parti enregistré.
+***agent enregistré*** Personne nommée en vertu du paragraphe 396(1), y compris l’agent principal d’un parti enregistré. (*registered agent*)
 
-***agent officiel*** Personne nommée au titre du paragraphe 477.1(1) ou remplaçant de celle-ci nommé au titre de l’article 477.42.
+***agent officiel*** Personne nommée au titre du paragraphe 477.1(1) ou remplaçant de celle-ci nommé au titre de l’article 477.42. (*official agent*)
 
-***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 385(2)h) ou remplaçant de celle-ci nommé au titre du paragraphe 400(1).
+***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 385(2)h) ou remplaçant de celle-ci nommé au titre du paragraphe 400(1). (*chief agent*)
 
-***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 :
+***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 :
 - **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
-- **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation — , 213(4), 242(1) ou 258(3).
+- **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation —, 213(4), 242(1) ou 258(3). (*spoiled*)
 
-***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v).
+***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v). (*political affiliation*)
 
-***arbitre*** Personne nommée en vertu du paragraphe 332(1).
+***arbitre*** Personne nommée en vertu du paragraphe 332(1). (*Broadcasting Arbitrator*)
 
-***association de circonscription*** Regroupement des membres d’un parti politique dans une circonscription.
+***association de circonscription*** Regroupement des membres d’un parti politique dans une circonscription. (*electoral district association*)
 
-***association enregistrée*** Association de circonscription inscrite dans le registre des associations de circonscription visé à l’article 455.
+***association enregistrée*** Association de circonscription inscrite dans le registre des associations de circonscription visé à l’article 455. (*registered association*)
 
-***bien immobilisé*** Bien d’une valeur commerciale supérieure à 200 $ normalement utilisé en dehors d’une période électorale à des fins autres qu’électorales.
+***bien immobilisé*** Bien d’une valeur commerciale supérieure à 200 $ normalement utilisé en dehors d’une période électorale à des fins autres qu’électorales. (*capital asset*)
 
-***bref*** Bref d’élection.
+***bref*** Bref d’élection. (*writ*)
 
-***bureau de scrutin*** Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255.
+***bureau de scrutin*** Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255. (*polling station*)
 
-***bureau de vote par anticipation*** Bureau de vote établi en vertu du paragraphe 168(3).
+***bureau de vote par anticipation*** Bureau de vote établi en vertu du paragraphe 168(3). (*advance polling station*)
 
-***candidat*** Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1), mais qui ne s’est pas encore conformée — ou dont l’agent officiel ne s’est pas encore conformé —, relativement à cette élection, aux articles 477.59 à 477.72 et 477.8 à 477.84.
+***candidat*** Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1), mais qui ne s’est pas encore conformée — ou dont l’agent officiel ne s’est pas encore conformé —, relativement à cette élection, aux articles 477.59 à 477.72 et 477.8 à 477.84. (*candidate*)
 
-***candidat à la direction*** Personne inscrite dans le registre des candidats à la direction visé à l’article 478.4 relativement à une course à la direction, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé —, relativement à cette course, aux articles 478.8 à 478.97.
+***candidat à la direction*** Personne inscrite dans le registre des candidats à la direction visé à l’article 478.4 relativement à une course à la direction, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé —, relativement à cette course, aux articles 478.8 à 478.97. (*leadership contestant*)
 
-***candidat à l’investiture*** Personne visée à l’alinéa 476.1(1)c) dont le nom figure à titre de candidat à l’investiture dans le rapport déposé au titre du paragraphe 476.1(1) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé —, relativement à cette course, aux articles 476.75 à 476.94.
+***candidat à l’investiture*** Personne visée à l’alinéa 476.1(1)c) dont le nom figure à titre de candidat à l’investiture dans le rapport déposé au titre du paragraphe 476.1(1) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé —, relativement à cette course, aux articles 476.75 à 476.94. (*nomination contestant*)
 
-***circonscription*** Division territoriale représentée par un député à la Chambre des communes.
+***circonscription*** Division territoriale représentée par un député à la Chambre des communes. (*electoral district*)
 
-***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2).
+***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2). (*close of nominations*)
 
-***commissaire*** Le commissaire aux élections fédérales nommé au titre du paragraphe 509(1).
+***commissaire*** Le commissaire aux élections fédérales nommé au titre du paragraphe 509(1). (*Commissioner*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***contribution*** Toute contribution monétaire et toute contribution non monétaire.
+***contribution*** Toute contribution monétaire et toute contribution non monétaire. (*contribution*)
 
-***contribution monétaire*** Toute somme d’argent versée et non remboursable.
+***contribution monétaire*** Toute somme d’argent versée et non remboursable. (*monetary contribution*)
 
-***contribution non monétaire*** La valeur commerciale d’un service, sauf d’un travail bénévole, ou de biens ou de l’usage de biens ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale.
+***contribution non monétaire*** La valeur commerciale d’un service, sauf d’un travail bénévole, ou de biens ou de l’usage de biens ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale. (*non-monetary contribution*)
 
-***course à la direction*** Compétition en vue de la désignation du chef d’un parti enregistré.
+***course à la direction*** Compétition en vue de la désignation du chef d’un parti enregistré. (*leadership contest*)
 
-***course à l’investiture*** Compétition visant à choisir la personne qui sera proposée à un parti enregistré en vue de l’obtention de son soutien comme candidat dans une circonscription.
+***course à l’investiture*** Compétition visant à choisir la personne qui sera proposée à un parti enregistré en vue de l’obtention de son soutien comme candidat dans une circonscription. (*nomination contest*)
 
-***dépense de campagne à la direction*** Dépense raisonnable entraînée par une course à la direction et engagée par un candidat à la direction ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 478.
+***dépense de campagne à la direction***[Abrogée, 2018, ch. 20, art. 1]
 
-***dépense de campagne d’investiture*** Dépense raisonnable entraînée par une course à l’investiture et engagée par un candidat à l’investiture ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 476.
+***dépense de campagne d’investiture***[Abrogée, 2018, ch. 20, art. 1]
 
-***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14.
+***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14. (*recount*)
 
-***député*** Membre de la Chambre des communes.
+***député*** Membre de la Chambre des communes. (*member*)
 
 ***documents électoraux***
 - **a)** Le bref et le rapport figurant à l’endos;
@@ -114,21 +114,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iv)** un paquet des bulletins de vote rejetés,
 	- **(v)** un paquet contenant la liste électorale utilisée au bureau de scrutin, les autorisations écrites des représentants des candidats et, le cas échéant, les certificats de transfert utilisés,
 	- **(vi)** un paquet contenant les certificats d’inscription;
-- **g)** les formulaires prescrits visés à l’article 162 ainsi que tout autre formulaire prescrit à utiliser au bureau de scrutin qui comportent des renseignements personnels concernant un électeur.
+- **g)** les formulaires prescrits visés à l’article 162 ainsi que tout autre formulaire prescrit à utiliser au bureau de scrutin qui comportent des renseignements personnels concernant un électeur. (*election documents*)
 
-***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3.
+***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3. (*elector*)
 
-***élection*** L’élection d’un député à la Chambre des communes.
+***élection*** L’élection d’un député à la Chambre des communes. (*election*)
 
-***élection partielle*** Élection autre qu’une élection générale.
+***élection partielle*** Élection autre qu’une élection générale. (*by-election*)
 
-***fonctionnaire électoral*** Personne visée au paragraphe 22(1).
+***fonctionnaire électoral*** Personne visée au paragraphe 22(1). (*election officer*)
 
-***jour de clôture*** Le jour prévu à l’article 69.
+***jour de clôture*** Le jour prévu à l’article 69. (*closing day for nominations*)
 
-***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1.2)c).
+***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1.2)c). (*polling day*)
 
-***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
+***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
 - **b)** relativement à la province de Québec, un juge de la cour supérieure du Québec;
 - **c)** relativement aux provinces de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard, un juge de la Cour suprême de la province;
@@ -140,49 +140,49 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **i)** relativement à tout endroit ou territoire du Canada :
 	- **(i)** dans lequel il existe ou se produit une vacance au poste d’un juge, ou dans lequel un juge est incapable d’agir pour cause de maladie ou d’absence de son district judiciaire, le juge qui exerce la juridiction d’un tel juge,
 	- **(ii)** s’il y a plus d’un juge exerçant une telle juridiction, le doyen,
-	- **(iii)** si aucun juge n’exerce cette juridiction, tout juge désigné à cette fin par le ministre de la Justice.
+	- **(iii)** si aucun juge n’exerce cette juridiction, tout juge désigné à cette fin par le ministre de la Justice. (*judge*)
 
-***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur ainsi que l’identificateur attribué à l’électeur par le directeur général des élections.
+***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur ainsi que l’identificateur attribué à l’électeur par le directeur général des élections. (*list of electors*)
 
-***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106.
+***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106. (*official list of electors*)
 
-***liste électorale préliminaire*** Liste électorale dressée par le directeur général des élections au titre du paragraphe 93(1).
+***liste électorale préliminaire*** Liste électorale dressée par le directeur général des élections au titre du paragraphe 93(1). (*preliminary list of electors*)
 
-***liste électorale révisée*** Liste électorale dressée par le directeur du scrutin au titre de l’article 105.
+***liste électorale révisée*** Liste électorale dressée par le directeur du scrutin au titre de l’article 105. (*revised list of electors*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné par le gouverneur en conseil pour la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné par le gouverneur en conseil pour la présente loi. (*Minister*)
 
-***parti admissible*** Parti politique répondant aux critères liés à l’enregistrement et prévus à l’article 387.
+***parti admissible*** Parti politique répondant aux critères liés à l’enregistrement et prévus à l’article 387. (*eligible party*)
 
-***parti enregistré*** Parti politique inscrit à titre de parti enregistré dans le registre des partis politiques visé à l’article 394.
+***parti enregistré*** Parti politique inscrit à titre de parti enregistré dans le registre des partis politiques visé à l’article 394. (*registered party*)
 
-***parti politique*** Organisation dont l’un des objectifs essentiels consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres.
+***parti politique*** Organisation dont l’un des objectifs essentiels consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres. (*political party*)
 
-***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
+***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md). (*election period*)
 
-***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment.
+***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment. (*prescribed*)
 
-***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces.
+***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces. (*periodical publication*)
 
-***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation.
+***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation. (*broadcaster*)
 
-***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi.
+***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi. (*broadcasting*)
 
-***Registre des électeurs*** Registre tenu au titre de l’article 44.
+***Registre des électeurs*** Registre tenu au titre de l’article 44. (*Register of Electors*)
 
-***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*personal information*)
 
-***section de vote*** Zone territoriale visée à l’article 538.
+***section de vote*** Zone territoriale visée à l’article 538. (*polling division*)
 
-***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle.
+***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle. (*oath*)
 
-***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération.
+***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération. (*volunteer labour*)
 
-***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par :
+***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par :
 - **a)** leur fournisseur, dans le cas où il exploite une entreprise qui les fournit;
-- **b)** une autre personne qui les fournit sur une échelle commerciale dans la région où ils ont été fournis, dans le cas où leur fournisseur n’exploite pas une telle entreprise.
+- **b)** une autre personne qui les fournit sur une échelle commerciale dans la région où ils ont été fournis, dans le cas où leur fournisseur n’exploite pas une telle entreprise. (*commercial value*)
 
-***vote par anticipation*** Scrutin tenu dans le cadre de la partie 10.
+***vote par anticipation*** Scrutin tenu dans le cadre de la partie 10. (*advance poll*)
 
 **Valeur commerciale des biens immobilisés**
 
@@ -209,7 +209,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de jour du scrutin**
 
 - **(6)** Si le bref délivré pour une élection est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), ***jour du scrutin*** s’entend, aux parties 16.1 et 17 et aux sections 1, 2, 4 et 5 de la partie 18, du jour où le bref est retiré ou est réputé l’être.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2 et 155.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2 et 155; 2018, ch. 20, art. 1.
 
 
 
@@ -7807,7 +7807,290 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-**384.1** [Abrogé, 2014, ch. 12, art. 86]
+
+**SECTION 1.1** 
+### Activités de financement réglementées
+
+
+
+#### Définition et interprétation
+
+
+
+**Définition de activité de financement réglementée**
+
+**384.1** 
+
+- **(1)** Dans la présente section, ***activité de financement réglementée*** s’entend d’une activité :
+	- **a)** d’une part, organisée afin qu’en retire un gain financier :
+		- **(i)** soit un parti enregistré qui — à la date de l’activité ou, si l’activité a lieu alors que le Parlement est dissout, à la date de la dissolution — est représenté à la Chambre des communes,
+		- **(ii)** soit une association enregistrée, un candidat à l’investiture, un candidat ou un candidat à la direction d’un parti enregistré visé au sous-alinéa (i);
+	- **b)** d’autre part, à laquelle assiste, à la fois :
+		- **(i)** le chef, le chef intérimaire ou tout candidat à la direction du parti enregistré qui doit retirer un gain financier de l’activité ou du parti enregistré visé au sous-alinéa a)(ii), ou un ministre fédéral ou un ministre d’État qui est membre du parti enregistré qui doit retirer un gain financier de l’activité ou du parti enregistré visé à ce sous-alinéa,
+		- **(ii)** au moins une personne qui, afin d’y assister, est tenue :
+			- **(A)** soit d’avoir fait une ou plusieurs contributions d’une valeur totale supérieure à 200 $ au parti enregistré ou à l’une de ses associations enregistrées, à l’un de ses candidats à l’investiture, à l’un de ses candidats ou à l’un de ses candidats à la direction, ou à plusieurs d’entre eux, ou d’être l’invitée d’une personne ayant fait une telle contribution ou de telles contributions,
+			- **(B)** soit d’avoir payé un montant de plus de 200 $ incluant une contribution au parti enregistré ou à l’une de ses associations enregistrées, à l’un de ses candidats à l’investiture, à l’un de ses candidats ou à l’un de ses candidats à la direction, ou à plusieurs d’entre eux, ou d’être l’invitée d’une personne ayant payé un tel montant.
+
+**Activités exclues : congrès et débats des candidats à la direction**
+
+- **(2)** Malgré le paragraphe (1), une activité de financement réglementée ne comprend pas le congrès d’un parti enregistré visé au sous-alinéa (1)a)(i), notamment le congrès à la direction, et le débat des candidats à la direction.
+
+**Activités incluses : activités de financement qui font partie des congrès**
+
+- **(3)** Malgré le paragraphe (2), constitue une activité de financement réglementée l’activité qui fait partie du congrès visé à ce paragraphe et à laquelle assiste au moins une personne qui, afin d’y assister, est tenue :
+	- **a)** soit de faire — indépendamment de toute somme qu’elle était tenue de payer pour assister au congrès — une ou plusieurs contributions d’une valeur totale supérieure à 200 $ au parti enregistré ou à l’une de ses associations enregistrées, à l’un de ses candidats à l’investiture, à l’un de ses candidats ou à l’un de ses candidats à la direction, ou à plusieurs d’entre eux, ou d’être l’invitée d’une personne ayant fait une telle contribution ou de telles contributions;
+	- **b)** soit de payer — indépendamment de tout montant qu’elle était tenue de payer pour assister au congrès — un montant de plus de 200 $ incluant une contribution au parti enregistré ou à l’une de ses associations enregistrées, à l’un de ses candidats à l’investiture, à l’un de ses candidats ou à l’un de ses candidats à la direction, ou à plusieurs d’entre eux, ou d’être l’invitée d’une personne ayant payé un tel montant.
+
+**Activités exclues : reconnaissance des donateurs**
+
+- **(4)** Malgré le paragraphe (3), ne constitue pas une activité de financement réglementée toute activité qui fait partie du congrès visé au paragraphe (2) et qui est organisée en gage de reconnaissance envers les personnes qui ont fait une contribution au parti enregistré ou à l’une de ses associations enregistrées, à l’un de ses candidats à l’investiture, à l’un de ses candidats ou à l’un de ses candidats à la direction.
+> 2004, ch. 24, art. 16; 2014, ch. 12, art. 86; 2018, ch. 20, art. 2.
+
+
+
+
+
+#### Publication et production de rapports
+
+
+
+**Activité de financement réglementée organisée par le parti enregistré**
+
+**384.2** 
+
+- **(1)** Le parti enregistré qui organise tout ou partie d’une activité de financement réglementée afin que lui-même — ou l’une de ses associations enregistrées, l’un de ses candidats à l’investiture, l’un de ses candidats ou l’un de ses candidats à la direction — en retire un gain financier est tenu de publier les renseignements prévus au paragraphe (2) à un endroit bien en vue sur son site Internet pendant le jour de l’activité, jusqu’à ce que celle-ci débute, ainsi que pendant les cinq jours précédents.
+
+**Renseignements**
+
+- **(2)** Les renseignements à publier en application du paragraphe (1) et à fournir en application du paragraphe (3) sont les suivants :
+	- **a)** la date, l’heure et le lieu de l’activité de financement réglementée;
+	- **b)** le nom de chaque entité ou personne visée à l’alinéa 384.1(1)a) qui doit retirer un gain financier de l’activité;
+	- **c)** le nom de chaque personne visée au sous-alinéa 384.1(1)b)(i) qui assistera à l’activité;
+	- **d)** la valeur totale des contributions que toute personne sera tenue d’avoir faites ou des sommes qu’elle sera tenue d’avoir payées afin d’assister à l’activité;
+	- **e)** les coordonnées d’une personne physique avec qui on peut communiquer et qui peut fournir d’autres renseignements sur l’activité.
+
+**Activité de financement réglementée non organisée par le parti enregistré**
+
+- **(3)** Si l’ensemble d’une activité de financement réglementée est organisée par une ou plusieurs personnes ou entités autres que le parti enregistré qui doit en retirer un gain financier — ou dont l’association enregistrée, le candidat à l’investiture, le candidat ou le candidat à la direction doit en retirer un tel gain —, chaque personne ou entité qui l’organise en tout ou en partie est tenue de fournir à ce parti les renseignements prévus au paragraphe (2) dans un délai lui permettant de publier ces renseignements en conformité avec le paragraphe (4).
+
+**Renseignements à publier par le parti enregistré**
+
+- **(4)** Lorsqu’au moins une personne ou entité visée au paragraphe (3) se conforme à l’obligation que lui impose ce paragraphe — de fournir les renseignements au parti enregistré dans un délai lui permettant de les publier —, le parti enregistré est tenu de publier ces renseignements à un endroit bien en vue sur son site Internet pendant le jour de l’activité, jusqu’à ce que celle-ci débute, ainsi que pendant les cinq jours précédents.
+
+**Notification du parti enregistré au directeur général des élections**
+
+- **(4.1)** Le parti enregistré tenu de publier des renseignements en application des paragraphes (1) ou (4) est également tenu de notifier au directeur général des élections la tenue de l’activité de financement réglementée au plus tard cinq jours avant la date de sa tenue.
+
+**Mise à jour des renseignements publiés**
+
+- **(5)** Le parti enregistré visé au paragraphe (1) ou (4) qui prend connaissance de changements apportés aux renseignements publiés en application du présent article est tenu de remplacer les anciens renseignements par les nouveaux sur son site Internet dès que possible après en avoir pris connaissance.
+
+**Mise à jour des renseignements fournis**
+
+- **(6)** La personne ou l’entité visée au paragraphe (3) qui prend connaissance de changements apportés aux renseignements fournis en application du présent article est tenue de fournir les nouveaux renseignements au parti enregistré dès que possible après en avoir pris connaissance.
+
+**Mise à jour des renseignements publiés**
+
+- **(7)** Le parti enregistré auquel de nouveaux renseignements sont fournis en application du paragraphe (6) est tenu de remplacer les anciens renseignements par les nouveaux sur son site Internet dès que possible après leur fourniture.
+
+**Exception : période électorale**
+
+- **(8)** Les paragraphes (1) à (7) ne s’appliquent pas relativement à l’activité de financement réglementée qui se déroule pendant la période électorale d’une élection générale.
+> 2018, ch. 20, art. 2.
+
+
+
+
+
+**Rapport sur l’activité de financement réglementée organisée par le parti enregistré**
+
+**384.3** 
+
+- **(1)** L’agent principal du parti enregistré qui organise tout ou partie d’une activité de financement réglementée afin que le parti — ou l’une de ses associations enregistrées, l’un de ses candidats à l’investiture, l’un de ses candidats ou l’un de ses candidats à la direction — en retire un gain financier produit auprès du directeur général des élections un rapport portant sur l’activité, selon le formulaire prescrit.
+
+**Contenu du rapport**
+
+- **(2)** Sous réserve du paragraphe (3), le rapport visé au paragraphe (1) comporte les renseignements suivants :
+	- **a)** la date, l’heure et le lieu de l’activité de financement réglementée;
+	- **b)** le nom de chaque entité ou personne visée à l’alinéa 384.1(1)a) qui doit retirer un gain financier de l’activité;
+	- **c)** le nom de chaque personne visée au sous-alinéa 384.1(1)b)(i) qui a assisté à l’activité;
+	- **d)** les noms de chaque personne — autre qu’une personne visée à l’alinéa c) — qui a assisté à l’activité et de la municipalité, ou lieu équivalent, et province de celle-ci, ainsi que le code postal de celle-ci;
+	- **e)** la valeur totale des contributions que toute personne était tenue d’avoir faites ou des sommes qu’elle était tenue d’avoir payées afin d’assister à l’activité;
+	- **f)** le nom de chaque personne ou entité qui a organisé tout ou partie de l’activité.
+
+**Renseignements à ne pas inclure dans le rapport**
+
+- **(3)** Il est interdit à l’agent principal du parti enregistré d’inclure dans le rapport visé au paragraphe (1) les noms des personnes ci-après qui ont assisté à l’activité de financement réglementée, ou de la municipalité, ou lieu équivalent, ou province de celles-ci, ou le code postal de celles-ci :
+	- **a)** les personnes qui étaient âgées de moins de 18 ans à la date de l’activité;
+	- **a.1)** celles qui y ont assisté uniquement dans le but d’aider une personne ayant une déficience;
+	- **b)** celles qui y ont assisté uniquement parce qu’elles sont employées dans le cadre de l’organisation de l’activité;
+	- **c)** celles qui y ont assisté uniquement dans le cadre de leur travail à titre :
+		- **(i)** d’employé ou autre représentant d’une organisation médiatique, ou de journaliste indépendant,
+		- **(ii)** de membre du personnel de soutien, notamment le personnel de sécurité, de toute personne visée au sous-alinéa 384.1(1)b)(i) qui a assisté à l’activité;
+	- **d)** celles qui y ont assisté uniquement pour y faire du travail bénévole.
+
+**Activité de financement réglementée non organisée par le parti enregistré**
+
+- **(4)** Si l’ensemble d’une activité de financement réglementée est organisée par une ou plusieurs personnes ou entités autres que le parti enregistré qui doit en retirer un gain financier — ou dont l’association enregistrée, le candidat à l’investiture, le candidat ou le candidat à la direction doit en retirer un tel gain —, chaque personne ou entité qui l’organise en tout ou en partie est tenue, sous réserve du paragraphe (5), de fournir à ce parti les renseignements prévus au paragraphe (2) dans un délai permettant à l’agent principal du parti de produire auprès du directeur général des élections le rapport visé au paragraphe (6).
+
+**Mise à jour des renseignements fournis**
+
+- **(4.1)** La personne ou l’entité visée au paragraphe (4) qui prend connaissance de changements apportés aux renseignements fournis en application de ce paragraphe ou du présent paragraphe est tenue de fournir les nouveaux renseignements au parti enregistré dès que possible après en avoir pris connaissance.
+
+**Renseignements à ne pas fournir**
+
+- **(5)** Il est interdit à la personne ou entité visée au paragraphe (4) ou (4.1) d’inclure dans les renseignements fournis au parti enregistré en application de ce paragraphe les noms des personnes visées aux alinéas (3)a) à d) qui ont assisté à l’activité de financement réglementée, ou de la municipalité, ou lieu équivalent, ou province de celles-ci, ou le code postal de celles-ci.
+
+**Rapport sur l’activité de financement réglementée**
+
+- **(6)** Lorsqu’au moins une personne ou entité visée au paragraphe (4) se conforme à l’obligation que lui impose ce paragraphe — de fournir les renseignements au parti enregistré dans un délai permettant à l’agent principal du parti enregistré de produire un rapport auprès du directeur général des élections —, cet agent est tenu de produire auprès du directeur général des élections un rapport portant sur l’activité et comportant les renseignements ainsi fournis, selon le formulaire prescrit.
+
+**Délai de production**
+
+- **(6.1)** Les rapports visés aux paragraphes (1) et (6) doivent être produits auprès du directeur général des élections dans les trente jours qui suivent la date de l’activité de financement réglementée.
+
+**Exception : période électorale**
+
+- **(7)** Les paragraphes (1) à (6.1) ne s’appliquent pas relativement à l’activité de financement réglementée qui se déroule pendant la période électorale d’une élection générale.
+
+**Période électorale**
+
+- **(8)** L’agent principal du parti enregistré produit auprès du directeur général des élections un seul rapport, selon le formulaire prescrit, portant sur l’ensemble des activités de financement réglementées qui ont eu lieu au cours de la période électorale d’une élection générale et :
+	- **a)** soit qui ont été organisées en tout ou en partie par ce parti afin que lui-même ou l’une de ses associations enregistrées, l’un de ses candidats à l’investiture, l’un de ses candidats ou l’un de ses candidats à la direction en retire un gain financier;
+	- **b)** soit à l’égard desquelles au moins une personne ou entité les ayant organisées en tout ou en partie s’est conformée au paragraphe (9).
+
+**Délai de production**
+
+- **(8.1)** Le rapport visé au paragraphe (8) doit être produit auprès du directeur général des élections dans les soixante jours suivant le jour du scrutin de l’élection générale.
+
+**Activité de financement réglementée non organisée par le parti enregistré**
+
+- **(9)** Si l’ensemble d’une activité de financement réglementée qui a eu lieu au cours de la période électorale d’une élection générale a été organisée par une ou plusieurs personnes ou entités autres que le parti enregistré qui doit en retirer un gain financier — ou dont l’association enregistrée, le candidat à l’investiture, le candidat ou le candidat à la direction doit en retirer un tel gain —, chaque personne ou entité qui l’a organisée en tout ou en partie est tenue, sous réserve du paragraphe (10), de fournir à ce parti les renseignements prévus au paragraphe (2) dans un délai permettant à l’agent principal du parti de produire auprès du directeur général des élections le rapport visé au paragraphe (8).
+
+**Mise à jour des renseignements fournis**
+
+- **(9.1)** La personne ou l’entité visée au paragraphe (9) qui prend connaissance de changements apportés aux renseignements fournis en application de ce paragraphe ou du présent paragraphe est tenue de fournir les nouveaux renseignements au parti enregistré dès que possible après en avoir pris connaissance.
+
+**Renseignements à ne pas fournir**
+
+- **(10)** Il est interdit à la personne ou entité visée au paragraphe (9) ou (9.1) d’inclure dans les renseignements fournis au parti enregistré en application de ce paragraphe les noms des personnes visées aux alinéas (3)a) à d) qui ont assisté à l’activité de financement réglementée, ou de la municipalité, ou lieu équivalent, ou province de celles-ci, ou le code postal de celles-ci.
+
+**Contenu du rapport**
+
+- **(11)** Sous réserve du paragraphe (12), le rapport visé au paragraphe (8) comporte, relativement à chaque activité de financement réglementée sur laquelle il porte, les renseignements prévus au paragraphe (2).
+
+**Renseignements à ne pas inclure dans le rapport**
+
+- **(12)** Il est interdit à l’agent principal du parti enregistré d’inclure dans le rapport visé au paragraphe (8), relativement à une activité de financement réglementée donnée, les noms des personnes visées aux alinéas (3)a) à d) qui ont assisté à l’activité, ou de la municipalité, ou lieu équivalent, ou province de celles-ci, ou le code postal de celles-ci.
+
+**Publication des rapports**
+
+- **(13)** Le directeur général des élections publie, selon les modalités qu’il estime indiquées et dès que possible après leur réception, les rapports produits en application des paragraphes (1), (6) et (8), ainsi que les versions corrigées ou révisées de ceux-ci.
+> 2018, ch. 20, art. 2.
+
+
+
+
+
+#### Contributions
+
+
+
+**Remise de contributions**
+
+**384.4** Si un parti enregistré, une association enregistrée, un candidat à l’investiture, un candidat ou un candidat à la direction reçoit une contribution visant une activité de financement réglementée à l’égard de laquelle l’un des articles 384.2 ou 384.3 n’est pas respecté, l’agent principal du parti, l’agent financier de l’association, l’agent officiel du candidat ou l’agent financier du candidat à l’investiture ou du candidat à la direction, dans les trente jours suivant le moment où il prend connaissance du non-respect de l’un de ces articles, remet la contribution inutilisée au donateur ou, si cela est impossible, remet celle-ci — ou une somme égale à sa valeur commerciale dans le cas d’une contribution non monétaire — au directeur général des élections, qui la remet au receveur général.
+> 2018, ch. 20, art. 2.
+
+
+
+
+
+#### Correction et révision du rapport et prorogation des délais
+
+
+
+**Corrections mineures : directeur général des élections**
+
+**384.5** Le directeur général des élections peut apporter au rapport visé aux paragraphes 384.3(1), (6) ou (8) des corrections qui n’en modifient pas le fond sur un point important.
+> 2018, ch. 20, art. 2.
+
+
+
+
+
+**Prorogation du délai : directeur général des élections**
+
+**384.6** 
+
+- **(1)** Sur demande écrite de l’agent principal d’un parti enregistré ou, si celui-ci est absent ou empêché d’agir, du chef du parti, le directeur général des élections autorise la prorogation du délai prévu aux paragraphes 384.3(6.1) ou (8.1), sauf s’il est convaincu que l’omission de produire le rapport exigé est intentionnelle ou résulte du fait que l’agent principal n’a pas pris les mesures nécessaires pour le produire.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande est présentée dans le délai prévu aux paragraphes 384.3(6.1) ou (8.1) ou dans les deux semaines suivant l’expiration de ce délai.
+> 2018, ch. 20, art. 2.
+
+
+
+
+
+**Correction ou révision : directeur général des élections**
+
+**384.7** 
+
+- **(1)** Sur demande écrite de l’agent principal d’un parti enregistré ou, si celui-ci est absent ou empêché d’agir, du chef du parti, le directeur général des élections autorise la correction ou la révision du rapport visé aux paragraphes 384.3(1), (6) ou (8) s’il est convaincu par la preuve produite par le demandeur que la correction ou la révision est nécessaire pour assurer le respect des exigences de la présente loi.
+
+**Délai de présentation de la demande**
+
+- **(2)** La demande est présentée dès que le demandeur prend connaissance de la nécessité d’apporter une correction ou d’effectuer une révision.
+
+**Délai de production de la version corrigée ou révisée**
+
+- **(3)** Le demandeur produit auprès du directeur général des élections la version corrigée ou révisée du rapport dans les trente jours suivant la date de l’autorisation ou dans le délai prorogé au titre des paragraphes (4) ou (5).
+
+**Prorogation du délai de production de la version corrigée ou révisée**
+
+- **(4)** Sur demande écrite du demandeur présentée dans les deux semaines suivant l’expiration du délai de trente jours visé au paragraphe (3), le directeur général des élections autorise la prorogation de ce délai, sauf s’il est convaincu que l’omission de produire la version corrigée ou révisée du rapport est intentionnelle ou résulte du fait que le demandeur n’a pas pris les mesures nécessaires pour la produire.
+
+**Nouvelle prorogation**
+
+- **(5)** Sur demande écrite du demandeur présentée dans les deux semaines suivant l’expiration du délai prorogé au titre du paragraphe (4) ou du présent paragraphe, le directeur général des élections autorise une prorogation supplémentaire de ce délai, sauf s’il est convaincu que l’omission de produire la version corrigée ou révisée du rapport est intentionnelle ou résulte du fait que le demandeur n’a pas pris les mesures nécessaires pour la produire.
+> 2018, ch. 20, art. 2.
+
+
+
+
+
+**Prorogation du délai, correction ou révision : juge**
+
+**384.8** 
+
+- **(1)** L’agent principal d’un parti enregistré ou, si celui-ci est absent ou empêché d’agir, le chef du parti peut demander à un juge de rendre une ordonnance autorisant :
+	- **a)** la prorogation visée au paragraphe 384.6(1);
+	- **b)** la correction ou la révision visées au paragraphe 384.7(1).
+La demande est notifiée au directeur général des élections.
+
+**Délais**
+
+- **(2)** La demande peut être présentée :
+	- **a)** au titre de l’alinéa (1)a), dans les deux semaines suivant :
+		- **(i)** soit, si aucune demande de prorogation n’a été présentée au directeur général des élections dans le délai visé au paragraphe 384.6(2), l’expiration du délai de deux semaines visé à ce paragraphe,
+		- **(ii)** soit le rejet de la demande de prorogation présentée au titre de l’article 384.6,
+		- **(iii)** soit l’expiration du délai prorogé au titre du paragraphe 384.6(1);
+	- **b)** au titre de l’alinéa (1)b), dans les deux semaines suivant le rejet de la demande de correction ou de révision présentée au titre de l’article 384.7.
+
+**Motifs : prorogation du délai**
+
+- **(3)** Le juge rend l’ordonnance autorisant la prorogation du délai, sauf s’il est convaincu que l’omission de produire le rapport est intentionnelle ou résulte du fait que l’agent principal n’a pas pris les mesures nécessaires pour le produire.
+
+**Motifs : correction ou révision**
+
+- **(4)** Il rend l’ordonnance autorisant la correction ou la révision s’il est convaincu par la preuve produite par le demandeur que la correction ou la révision est nécessaire pour assurer le respect des exigences de la présente loi.
+
+**Conditions**
+
+- **(5)** Il peut assortir son ordonnance des conditions qu’il estime nécessaires à l’application de la présente loi.
+> 2018, ch. 20, art. 2.
+
 
 
 
@@ -10204,6 +10487,14 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**476.01** [Abrogé, 2018, ch. 31, art. 399]
+
+
+
+**476.02** [Abrogé, 2018, ch. 31, art. 399]
+
+
+
 
 **SOUS-SECTION A** 
 #### Rapport de course à l’investiture
@@ -10401,12 +10692,12 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Plafond des dépenses électorales**
+**Plafond des dépenses de course à l’investiture**
 
-**476.67** Le plafond des dépenses de campagne d’investiture — à l’exclusion des dépenses personnelles — pour les candidats à l’investiture dans une circonscription est le suivant :
+**476.67** Le plafond des dépenses de course à l’investiture pour les candidats à l’investiture dans une circonscription est le suivant :
 - **a)** 20 % du plafond des dépenses électorales établi au titre de l’article 477.49 pour l’élection d’un candidat dans cette circonscription lors de l’élection générale précédente, dans le cas où les limites de la circonscription n’ont pas été modifiées depuis lors;
 - **b)** le plafond établi par le directeur général des élections, dans les autres cas.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 4.
 
 
 
@@ -10416,14 +10707,14 @@ La demande est notifiée au directeur général des élections.
 
 **476.68** 
 
-- **(1)** Il est interdit au candidat à l’investiture et à son agent financier d’engager des dépenses de campagne d’investiture — à l’exclusion des dépenses personnelles — dont le total dépasse le plafond établi pour la circonscription au titre de l’article 476.67.
+- **(1)** Il est interdit au candidat à l’investiture et à son agent financier d’engager des dépenses de course à l’investiture dont le total dépasse le plafond établi pour la circonscription au titre de l’article 476.67.
 
 **Interdiction d’esquiver les plafonds**
 
 - **(2)** Il est interdit à toute personne ou entité :
 	- **a)** d’esquiver ou de tenter d’esquiver le plafond visé à l’article 476.67;
 	- **b)** d’agir de concert avec une autre personne ou entité en vue d’accomplir ce fait.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 5.
 
 
 
@@ -10522,7 +10813,8 @@ Le cas échéant, le candidat à l’investiture en informe le directeur génér
 **Contenu du compte**
 
 - **(2)** Le compte comporte les renseignements suivants :
-	- **a)** un état des dépenses de campagne d’investiture;
+	- **a)** un état des dépenses de course à l’investiture;
+	- **a.1)** un état des dépenses de campagne d’investiture, autres que les dépenses de course à l’investiture;
 	- **b)** un état des créances faisant l’objet d’une poursuite en vertu de l’article 476.74;
 	- **c)** un état des créances impayées, y compris celles découlant des prêts consentis au candidat au titre de l’article 373;
 	- **d)** un état de tout prêt consenti au candidat au titre de l’article 373, indiquant notamment le montant de celui-ci, le taux d’intérêt, les nom et adresse du prêteur, les dates et montants des remboursements du principal et des paiements d’intérêts et le solde du principal à la fin de chaque année civile ainsi que, le cas échéant, les nom et adresse de toute caution et la somme qu’elle garantit;
@@ -10597,7 +10889,7 @@ Le cas échéant, le candidat à l’investiture en informe le directeur génér
 **Date de désignation**
 
 - **(16)** Aux paragraphes (7), (8), (11) et (12), dans le cas où la date de désignation d’une course à l’investiture tombe dans les trente jours précédant une période électorale pour la circonscription ou pendant celle-ci, la mention de la date de désignation vaut mention du jour du scrutin.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 6.
 
 
 
@@ -12215,11 +12507,11 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**478.01** [Abrogé, 2014, ch. 12, art. 86]
+**478.01** [Abrogé, 2018, ch. 31, art. 399]
 
 
 
-**478.02** [Abrogé, 2014, ch. 12, art. 86]
+**478.02** [Abrogé, 2018, ch. 31, art. 399]
 
 
 
@@ -12769,7 +13061,8 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 **Contenu du compte**
 
 - **(2)** Le compte comporte les renseignements suivants :
-	- **a)** un état des dépenses de campagne à la direction;
+	- **a)** un état des dépenses de course à la direction;
+	- **a.1)** un état des dépenses de campagne à la direction, autres que les dépenses de course à la direction;
 	- **b)** un état des créances faisant l’objet d’une poursuite en vertu de l’article 478.79;
 	- **c)** un état des créances impayées, y compris celles découlant des prêts consentis au candidat au titre de l’article 373;
 	- **d)** un état de tout prêt consenti au candidat au titre de l’article 373, indiquant notamment le montant de celui-ci, le taux d’intérêt, les nom et adresse du prêteur, les dates et montants des remboursements du principal et des paiements d’intérêts et le solde du principal à la fin de chaque année civile ainsi que, le cas échéant, les nom et adresse de toute caution et la somme qu’elle garantit;
@@ -12840,7 +13133,7 @@ Le cas échéant, le candidat à la direction en informe le directeur général 
 **Paiements tardifs**
 
 - **(15)** L’agent financier du candidat produit auprès du directeur général des élections, selon le formulaire prescrit, un rapport faisant état du paiement de toute créance visée par une autorisation de paiement ou une ordonnance de paiement prévues aux articles 478.77 ou 478.78, respectivement, ou une ordonnance obtenue dans le cadre d’une poursuite prévue à l’article 478.79, dans les trente jours suivant la date du paiement. Le rapport indique notamment la provenance des fonds utilisés pour payer la créance.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86; 2018, ch. 20, art. 8.
 
 
 
@@ -13694,6 +13987,32 @@ La demande est notifiée au directeur général des élections.
 
 
 
+##### Infractions à la section 1.1 de la partie 18 (activités de financement réglementées)
+
+
+
+**Responsabilité stricte : déclaration sommaire**
+
+**497.01** Commet une infraction :
+- **a)** le parti enregistré qui contrevient au paragraphe 384.2(1) ou (4) (omission de publier les renseignements relatifs à l’activité de financement réglementée);
+- **b)** la personne ou l’entité qui contrevient au paragraphe 384.2(3) (omission de fournir les renseignements relatifs à l’activité de financement réglementée);
+- **b.1)** le parti enregistré qui contrevient au paragraphe 384.2(4.1) (omission de notifier au directeur général des élections la tenue de l’activité de financement réglementée);
+- **c)** le parti enregistré qui contrevient au paragraphe 384.2(5) ou (7) (omission de remplacer sur son site Internet les anciens renseignements relatifs à l’activité de financement réglementée);
+- **d)** la personne ou l’entité qui contrevient au paragraphe 384.2(6) (omission de fournir les nouveaux renseignements relatifs à l’activité de financement réglementée);
+- **e)** l’agent principal qui contrevient au paragraphe 384.3(1), (6) ou (6.1) (omission de produire le rapport portant sur l’activité de financement réglementée);
+- **f)** l’agent principal qui contrevient au paragraphe 384.3(3) (inclure dans le rapport portant sur l’activité de financement réglementée des noms et adresses qui ne doivent pas y figurer);
+- **g)** la personne ou l’entité qui contrevient au paragraphe 384.3(4), (4.1), (9) ou (9.1) (omission de fournir les renseignements relatifs à l’activité de financement réglementée);
+- **h)** la personne ou l’entité qui contrevient au paragraphe 384.3(5) ou (10) (inclure dans les renseignements relatifs à l’activité de financement réglementée des noms et adresses qui ne doivent pas l’être);
+- **i)** l’agent principal qui contrevient au paragraphe 384.3(8) ou (8.1) (omission de produire le rapport portant sur l’ensemble des activités de financement réglementées);
+- **j)** l’agent principal qui contrevient au paragraphe 384.3(12) (inclure dans le rapport portant sur l’ensemble des activités de financement réglementées des noms et adresses qui ne doivent pas y figurer);
+- **k)** l’agent principal d’un parti enregistré, l’agent financier d’une association enregistrée, l’agent officiel d’un candidat ou l’agent financier d’un candidat à l’investiture ou d’un candidat à la direction qui contrevient à l’article 384.4 (omission de remettre une contribution);
+- **l)** l’agent principal ou le chef du parti enregistré qui contrevient au paragraphe 384.7(3) (omission de produire la version corrigée ou révisée du rapport dans le délai de trente jours ou dans le délai prorogé).
+> 2018, ch. 20, art. 9.
+
+
+
+
+
 ##### Infractions à la section 2 de la partie 18 (partis politiques)
 
 
@@ -13822,7 +14141,7 @@ La demande est notifiée au directeur général des élections.
 	- **c)** le candidat à l’investiture qui contrevient aux articles 476.5, 476.6 ou 476.61 (omission d’observer les exigences relatives à la nomination de l’agent financier);
 	- **d)** le candidat à l’investiture qui contrevient aux paragraphes 476.63(1) ou (2) (omission de faire rapport sur la modification des renseignements concernant le candidat à l’investiture);
 	- **e)** l’agent financier d’un candidat à l’investiture qui contrevient à l’article 476.65 (omission d’observer les exigences relatives au compte bancaire);
-	- **f)** le candidat à l’investiture ou son agent financier qui contrevient au paragraphe 476.68(1) (engager des dépenses de campagne d’investiture qui dépassent le plafond);
+	- **f)** le candidat à l’investiture ou son agent financier qui contrevient au paragraphe 476.68(1) (engager des dépenses de course à l’investiture qui dépassent le plafond);
 	- **g)** le candidat à l’investiture ou son agent financier qui contrevient aux paragraphes 476.7(1) ou (2) (omission de payer les créances dans le délai de trois ans ou paiement sans autorisation);
 	- **h)** l’agent financier d’un candidat à l’investiture qui contrevient aux paragraphes 476.75(1), (2), (5) ou (7) (omission de produire le compte de campagne d’investiture ou un rapport ou un document afférents);
 	- **i)** l’agent financier d’un candidat à l’investiture qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 476.75(4);
@@ -13847,8 +14166,8 @@ La demande est notifiée au directeur général des élections.
 	- **d)** la personne ou l’entité, autre que l’agent financier d’un candidat à l’investiture, qui contrevient sciemment au paragraphe 476.66(2) (accepter la fourniture de produits ou services ou la cession de fonds ou céder des fonds, sans y être autorisée);
 	- **e)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment au paragraphe 476.66(3) (accepter des contributions de source interdite);
 	- **f)** la personne ou l’entité qui contrevient sciemment aux paragraphes 476.66(4), (5) ou (6) (paiement et engagement de dépenses de campagne d’investiture et paiement de dépenses personnelles sans y être autorisée);
-	- **g)** le candidat à l’investiture ou son agent financier qui contrevient sciemment au paragraphe 476.68(1) (engager des dépenses de campagne d’investiture qui dépassent le plafond);
-	- **h)** la personne ou l’entité qui contrevient au paragraphe 476.68(2) (esquiver le plafond des dépenses de campagne d’investiture);
+	- **g)** le candidat à l’investiture ou son agent financier qui contrevient sciemment au paragraphe 476.68(1) (engager des dépenses de course à l’investiture qui dépassent le plafond);
+	- **h)** la personne ou l’entité qui contrevient au paragraphe 476.68(2) (esquiver le plafond des dépenses de course à l’investiture);
 	- **i)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment aux paragraphes 476.75(1), (2), (5) ou (7) (omission de produire le compte de campagne d’investiture ou un rapport ou un document afférents);
 	- **j)** l’agent financier d’un candidat à l’investiture qui omet sciemment de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 476.75(4);
 	- **k)** le candidat à l’investiture qui contrevient sciemment au paragraphe 476.75(8) (omission d’envoyer à son agent financier la déclaration concernant un compte de campagne d’investiture) ou au paragraphe 476.81(1) (omission de produire auprès du directeur général des élections la déclaration concernant un compte de campagne d’investiture);
@@ -13861,7 +14180,7 @@ La demande est notifiée au directeur général des élections.
 	- **r)** le candidat à l’investiture ou son agent financier qui contrevient sciemment au paragraphe 476.85(3) (omission de produire la version corrigée ou révisée du document dans le délai de trente jours ou dans le délai prorogé);
 	- **s)** le candidat à l’investiture ou son agent financier qui contrevient à l’alinéa 476.9a) ou qui contrevient sciemment à l’alinéa 476.9b) (production d’un document contenant des renseignements faux ou trompeurs ou d’un document incomplet);
 	- **t)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment aux paragraphes 476.92(2) ou (3) ou à l’article 476.93 (omission de disposer d’un excédent de fonds de course à l’investiture).
-> 2014, ch. 12, art. 99.
+> 2014, ch. 12, art. 99; 2018, ch. 20, art. 10.
 
 
 
@@ -14034,6 +14353,10 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Quiconque commet une infraction visée à l’un ou l’autre des paragraphes 484(1), 486(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 496(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1) et 499(1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
 
+**Peine — responsabilité stricte**
+
+- **(1.1)** Quiconque commet une infraction visée à l’article 497.01 est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $.
+
 **Peine — infractions intentionnelles (déclaration sommaire)**
 
 - **(2)** Quiconque commet une infraction visée à l’une des dispositions suivantes : les paragraphes 484(2) et 486(2), l’alinéa 487(1)a), les paragraphes 488(1), 489(2) et 491(2), l’article 493 et les paragraphes 495(2) et (3), 497.1(2) et 497.2(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
@@ -14057,7 +14380,7 @@ La demande est notifiée au directeur général des élections.
 **Peine supplémentaire — tiers**
 
 - **(6)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 496(1)a) ou (2)a) une amende correspondant au quintuple de l’excédent du montant des dépenses de publicité électorale sur le plafond autorisé.
-> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1; 2014, ch. 12, art. 100.
+> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1; 2014, ch. 12, art. 100; 2018, ch. 20, art. 11.
 
 
 
