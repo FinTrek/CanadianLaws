@@ -27129,24 +27129,26 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 **C.01.029** 
 
 - **(1)** Sous réserve des paragraphes C.01.031.2(1) et (2), une mise en garde spécifiant qu’il faut conserver la drogue hors de la portée des enfants doit figurer sur les étiquettes intérieure et extérieure d’une drogue :
-	- **a)** qui contient l’un des ingrédients suivants :
+	- **a)** qui contient l’un des ingrédients suivants :
 		- **(i)** de l’acide salicylique, un de ses sels ou de la salicylamide,
 		- **(ii)** de l’acide acétylsalicylique, un de ses sels ou dérivés,
 		- **(iii)** de l’acétaminophène,
-		- **(iv)** plus de cinq pour cent de salicylate d’alkyle; ou
-	- **b)** qui est dans un emballage qui renferme :
+		- **(iv)** plus de cinq pour cent de salicylate d’alkyle;
+	- **a.1)** qui contient de la nicotine ou l’un de ses sels et est un produit de vapotage au sens de l’article 2 de la [Loi sur le tabac et les produits de vapotage](/fr/Lois/Lois%20du%20Canada/1997/ch.%2013.md), mais n’est pas visée aux alinéas 2b) ou c) ou à l’article 3 du [Règlement soustrayant certains produits de vapotage régis par la Loi sur les aliments et drogues à l’application de la Loi sur le tabac et les produits de vapotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/133.md);
+	- **b)** qui est dans un emballage qui renferme :
 		- **(i)** soit plus que l’équivalent de 250 mg de fer élément,
 		- **(ii)** soit plus que l’équivalent de 120 mg d’ion fluorure, à moins que la drogue ne soit réservée à l’usage des cabinets de dentiste.
 
-- **(2)** Sous réserve des paragraphes C.01.031.2(1) et (2), une mise en garde spécifiant que la quantité de drogue contenue dans l’emballage est suffisante pour causer des torts sérieux à un enfant, doit figurer sur les étiquettes intérieure et extérieure d’un emballage qui renferme
+- **(2)** Sous réserve des paragraphes C.01.031.2(1) et (2), doit figurer sur l’étiquette intérieure et l’étiquette extérieure une mise en garde spécifiant que la quantité de drogue contenue dans l’emballage est suffisante pour causer un préjudice sérieux à un enfant lorsque l’emballage renferme, selon le cas :
 	- **a)** plus de 1,5 g d’acide salicylique ou d’une quantité équivalente de l’un de ses sels ou de la salicylamide;
 	- **b)** plus de 2,0 g d’acide acétylsalicylique ou d’une quantité équivalente de l’un de ses sels ou dérivés;
 	- **c)** plus de 3,2 g d’acétaminophène;
-	- **d)** plus de l’équivalent de 250 mg de fer élément; ou
-	- **e)** plus que l’équivalent de 120 mg d’ion fluorure, à moins que la drogue ne soit réservée à l’usage des cabinets de dentiste.
+	- **d)** plus de l’équivalent de 250 mg de fer élément;
+	- **e)** plus que l’équivalent de 120 mg d’ion fluorure, à moins que la drogue ne soit réservée à l’usage des cabinets de dentiste;
+	- **f)** dans le cas où la drogue est un produit de vapotage au sens de l’article 2 de la [Loi sur le tabac et les produits de vapotage](/fr/Lois/Lois%20du%20Canada/1997/ch.%2013.md) mais n’est pas visée aux alinéas 2b) ou c) ou à l’article 3 du [Règlement soustrayant certains produits de vapotage régis par la Loi sur les aliments et drogues à l’application de la Loi sur le tabac et les produits de vapotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/133.md), 0,1 mg/ml de nicotine, ou une quantité équivalente de l’un de ses sels, ou plus.
 
 - **(3)** Les mises en garde exigées aux paragraphes (1) et (2) doivent être précédées d’un symbole bien en évidence de forme octogonale et de couleur frappante sur fond de couleur contrastante.
-> DORS/86-93, art. 2; DORS/87-484, art. 2; DORS/88-323, art. 3(F); DORS/90-587, art. 2; DORS/93-468, art. 1.
+> DORS/86-93, art. 2; DORS/87-484, art. 2; DORS/88-323, art. 3(F); DORS/90-587, art. 2; DORS/93-468, art. 1; DORS/2018-132, art. 1.
 
 
 
@@ -27160,11 +27162,12 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 - **(1)** Sous réserve de l’article C.01.031.2,
 	- **a)** est interdite la vente d’une drogue mentionnée au paragraphe C.01.029(1) à moins
 		- **(i)** qu’elle ne soit emballée dans un emballage protège-enfants lorsque la drogue est recommandée exclusivement pour les enfants,
-		- **(ii)** qu’elle ne soit offerte dans au moins un format d’emballage protège-enfants lorsque la drogue n’est pas recommandée exclusivement pour les enfants;
+		- **(ii)** qu’elle ne soit offerte dans au moins un format d’emballage protège-enfants lorsque la drogue n’est pas recommandée exclusivement pour les enfants, sauf s’il s’agit d’une drogue qui est visée au sous-alinéa (iii),
+		- **(iii)** qu’elle ne soit emballée dans un emballage protège-enfants lorsque la drogue est un produit de vapotage visé à l’alinéa C.01.029(1)a.1);
 	- **b)** lorsqu’une drogue mentionnée au paragraphe C.01.029(1) est emballée dans un emballage qui n’est pas un emballage protège-enfants, l’étiquette extérieure doit indiquer que la drogue est disponible dans un emballage protège-enfants.
 
-- **(2)** [Abrogé, DORS/93-468, art. 2]
-> DORS/86-93, art. 2; DORS/87-16, art. 1; DORS/93-468, art. 2.
+- **(2)** Le paragraphe C.01.031.2(2) et l’alinéa C.01.031.2(3)a) ne s’appliquent pas à une drogue visée à l’alinéa C.01.029(1)a.1).
+> DORS/86-93, art. 2; DORS/87-16, art. 1; DORS/93-468, art. 2; DORS/2018-132, art. 2.
 
 
 
