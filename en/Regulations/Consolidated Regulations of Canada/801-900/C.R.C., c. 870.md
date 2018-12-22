@@ -27177,22 +27177,23 @@ Accurate dosagesmay be expressed in either metric units or imperial units. If th
 		- **(i)** salicylic acid, a salt thereof or salicylamide,
 		- **(ii)** acetylsalicylic acid, or any of its salts or derivatives,
 		- **(iii)** acetaminophen, or
-		- **(iv)** more than five per cent alkyl salicylates, or
+		- **(iv)** more than five per cent alkyl salicylates,
+	- **(a.1)** that contains nicotine or any of its salts and is a vaping product as defined in section 2 of the [Tobacco and Vaping Products Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md) but that is not referred to in paragraph 2(b) or (c) or section 3 of the [Regulations Excluding Certain Vaping Products Regulated Under the Food and Drugs Act from the Application of the Tobacco and Vaping Products Act](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/133.md), or
 	- **(b)** that is in a package that contains
 		- **(i)** more than the equivalent of 250 mg of elemental iron, or
 		- **(ii)** more than the equivalent of 120 mg of fluoride ion, unless the drug is intended solely for use in dentists’ offices,
 shall carry a cautionary statement to the effect that the drug should be kept out of the reach of children.
 
-- **(2)** Subject to subsections C.01.031.2(1) and (2), the inner and outer labels of a drug that is in a package that contains
+- **(2)** Subject to subsections C.01.031.2(1) and (2), the inner label and outer label of a drug that is in a package shall carry a cautionary statement, to the effect that there is enough drug in the package to seriously harm a child, if the package contains
 	- **(a)** more than 1.5 g of salicylic acid or the equivalent quantity of any of its salts or salicylamide,
 	- **(b)** more than 2 g of acetylsalicylic acid or the equivalent quantity of any of its salts or derivatives,
 	- **(c)** more than 3.2 g of acetaminophen,
-	- **(d)** more than the equivalent of 250 mg of elemental iron, or
-	- **(e)** more than the equivalent of 120 mg of fluoride ion, unless the drug is intended solely for use in dentists’ offices,
-shall carry a cautionary statement to the effect that there is enough drug in the package to seriously harm a child.
+	- **(d)** more than the equivalent of 250 mg of elemental iron,
+	- **(e)** more than the equivalent of 120 mg of fluoride ion, unless the drug is intended solely for use in dentists’ offices, or
+	- **(f)** in the case where the drug is a vaping product as defined in section 2 of the [Tobacco and Vaping Products Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2013.md) but is not referred to in paragraph 2(b) or (c) or section 3 of the [Regulations Excluding Certain Vaping Products Regulated Under the Food and Drugs Act from the Application of the Tobacco and Vaping Products Act](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/133.md), 0.1 mg/ml or more of nicotine or the equivalent quantity of any of its salts.
 
 - **(3)** The cautionary statements required under subsections (1) and (2) shall be preceded by a prominently displayed symbol that is octagonal in shape, conspicuous in colour and on a background of a contrasting colour.
-> SOR/86-93, s. 2; SOR/87-484, s. 2; SOR/88-323, s. 3(F); SOR/90-587, s. 2; SOR/93-468, s. 1.
+> SOR/86-93, s. 2; SOR/87-484, s. 2; SOR/88-323, s. 3(F); SOR/90-587, s. 2; SOR/93-468, s. 1; SOR/2018-132, s. 1.
 
 
 
@@ -27205,12 +27206,13 @@ shall carry a cautionary statement to the effect that there is enough drug in th
 
 - **(1)** Subject to section C.01.031.2,
 	- **(a)** no person shall sell a drug described in subsection C.01.029(1) unless
-		- **(i)** where the drug is recommended solely for children, it is packaged in a child resistant package, or
-		- **(ii)** where the drug is not recommended solely for children, at least one of the sizes of packages available for sale is packaged in a child resistant package; and
+		- **(i)** where the drug is recommended solely for children, it is packaged in a child resistant package,
+		- **(ii)** where the drug is not recommended solely for children, other than a drug referred to in subparagraph (iii), at least one of the sizes of packages available for sale is packaged in a child resistant package, and
+		- **(iii)** where the drug is a vaping product referred to in paragraph C.01.029(1)(a.1), it is packaged in a child resistant package; and
 	- **(b)** where a drug described in subsection C.01.029(1) is packaged in a package that is not a child resistant package, the outer label shall carry a statement that the drug is available in a child resistant package.
 
-- **(2)** [Repealed, SOR/93-468, s. 2]
-> SOR/86-93, s. 2; SOR/87-16, s. 1; SOR/93-468, s. 2.
+- **(2)** Subsection C.01.031.2(2) and paragraph C.01.031.2(3)(a) do not apply to a drug referred to in paragraph C.01.029(1)(a.1).
+> SOR/86-93, s. 2; SOR/87-16, s. 1; SOR/93-468, s. 2; SOR/2018-132, s. 2.
 
 
 
