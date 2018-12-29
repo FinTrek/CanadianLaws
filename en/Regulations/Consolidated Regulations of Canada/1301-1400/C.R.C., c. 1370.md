@@ -45,13 +45,23 @@ Enabling authorities:
 
 
 
+## Importation
+
+
+**3.1** Any person who imports for sale or lease a device that is a medical device within the meaning of the [Medical Devices Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/282.md) and that is not labelled in accordance with these Regulations shall, before selling or leasing the device, ensure that the manufacturer of the device has relabelled it in accordance with these Regulations within three months after the date of its importation.
+> SOR/2018-226, s. 1.
+
+
+
+
+
 ## Detention of Seized Devices
 
 
 **4** 
 
 - **(1)** An inspector who seizes a device or a component of a device pursuant to subsection 10(1) of the Act may
-	- **(a)** detain the device or component for such time as is necessary for him to ascertain whether the device or component complies with the standards prescribed therefor;
+	- **(a)** detain the device or component for the time that is necessary to determine whether the device or component complies with the requirements set out in these Regulations;
 	- **(b)** keep or store the device or component in the building or place where it was seized or remove it to any other place for testing to ascertain whether or not the component or device complies with the standards prescribed therefor; or
 	- **(c)** release the device or component unconditionally or on the condition that
 		- **(i)** it be destroyed forthwith or retained by the owner until it is destroyed, or
@@ -59,7 +69,7 @@ Enabling authorities:
 			- **(A)** to the country from which it was exported, or
 			- **(B)** to the manufacturer, distributor or importer thereof and be made to comply with the standards prescribed therefor.
 
-- **(2)** An inspector who seizes a device or a component of a device pursuant to subsection 10(1) of the Act shall keep a written record of any such seizure, signed by him and setting out
+- **(2)** An inspector who seizes a device or a component of a device under subsection 10(1) of the Act shall sign and keep a written record of the seizure that sets out
 	- **(a)** the place, date and hour of the seizure;
 	- **(b)** the name of the person who owns the device or component or on whose premises the device or component was seized;
 	- **(c)** the name of the manufacturer, the model number and the date and place of manufacture of the device or component;
@@ -69,6 +79,8 @@ Enabling authorities:
 - **(3)** The person who owns a device or a component of a device seized pursuant to subsection 10(1) of the Act or on whose premises the device or component was seized or an employee or an agent of such person shall sign the record kept pursuant to subsection (2) and shall receive a copy thereof.
 
 - **(4)** Where a device or a component of a device has been released pursuant to paragraph (1)(c) on a condition and the condition has not been complied with, the inspector may again seize and detain the device or component.
+> SOR/2018-226, s. 2.
+
 
 
 
