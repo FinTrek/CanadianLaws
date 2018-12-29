@@ -45,13 +45,23 @@ Autorités habilitantes :
 
 
 
+## Importation
+
+
+**3.1** La personne qui importe, à des fins de vente ou de location, un dispositif qui est un instrument médical au sens du [Règlement sur les instruments médicaux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/282.md) et qui n’est pas étiqueté conformément au présent règlement veille, avant de vendre ou de louer l’instrument, à ce que celui-ci ait fait l’objet d’un nouvel étiquetage par son fabricant, conformément au présent règlement, dans les trois mois suivant la date de l’importation.
+> DORS/2018-226, art. 1.
+
+
+
+
+
 ## Rétention des dispositifs saisis
 
 
 **4** 
 
 - **(1)** Un inspecteur qui saisit un dispositif ou l’un des éléments d’un dispositif en vertu du paragraphe 10(1) de la Loi peut
-	- **a)** retenir ce dispositif ou cet élément le temps qu’il lui faut pour constater si le dispositif ou l’élément est conforme aux normes prescrites qui lui sont applicables;
+	- **a)** retenir ce dispositif ou cet élément pendant la période nécessaire pour établir si le dispositif ou l’élément est conforme aux exigences prévues au présent règlement;
 	- **b)** garder ou conserver le dispositif ou l’élément dans le bâtiment ou à l’endroit où il a été saisi ou le transporter à un autre endroit pour essai afin de constater si le dispositif ou l’élément est conforme aux normes prescrites qui lui sont applicables; ou
 	- **c)** libérer le dispositif ou l’élément sans conditions ou à la condition
 		- **(i)** qu’il soit détruit sans délai ou retenu par le propriétaire jusqu’à ce qu’il soit détruit, ou
@@ -69,6 +79,8 @@ Autorités habilitantes :
 - **(3)** Lorsqu’un dispositif ou un élément d’un tel dispositif a été saisi en vertu du paragraphe 10(1) de la Loi, la personne à qui appartient le dispositif ou l’élément ou les locaux où la saisie a été faite, ou un employé ou mandataire de cette personne, doit signer le rapport à garder conformément au paragraphe (2) et doit en recevoir copie.
 
 - **(4)** Lorsqu’un dispositif ou un élément d’un tel dispositif a été libéré en vertu de l’alinéa (1)c) à une condition et que cette condition n’a pas été remplie, l’inspecteur peut de nouveau saisir le dispositif ou l’élément et le retenir.
+> DORS/2018-226, art. 2.
+
 
 
 
