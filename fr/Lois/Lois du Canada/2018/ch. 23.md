@@ -405,9 +405,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#fn_Ind58C_hq_23500'>[*]</a></sup>**50** La présente loi, à l’exception de l’article 49, entre en vigueur à la date fixée par décret.
+<sup><a href='#fn_Ind7C68_hq_23661'>[*]</a></sup>**50 ** La présente loi, à l’exception de l’article 49, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind58C_hq_23500'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 49, non en vigueur.]<br />
+<a name='fn_Ind7C68_hq_23661'><sup>*</sup></a>: [Note: Loi, à l’exception de l’article 49, en vigueur le 30 décembre 2018, *voir* TR/2018-101 et TR/2018-108.]<br />
 
 
 
