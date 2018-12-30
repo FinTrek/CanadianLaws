@@ -8267,10 +8267,15 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 - **16** Mercury compounds, including inorganic mercury compounds, alkyl mercury compounds and alkyloxyalkyl and aryl mercury compounds
 - **17** Pentachlorophenol and its salts and esters
 - **18** Monocrotophos (CAS 6923-22-4)
-- **19** Methamidophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient / L) (CAS 10265-92-6)
+- **19** Methamidophos (CAS 10265-92-6)
 - **20** Emulsifiable concentrates containing methyl parathion at or above 19.5% and dusts containing methyl parathion at or above 1.5% (CAS 298-00-0)
 - **21** Parathion (CAS 56-38-2)
-- **22** Crocidolite (CAS 12001-28-4)
+- **22** The following types of asbestos:
+- **(a)** Actinolite (CAS 77536-66-4)
+- **(b)** Anthophyllite (CAS 77536-67-5)
+- **(c)** Amosite (CAS 12172-73-5)
+- **(d)** Crocidolite (CAS 12001-28-4)
+- **(e)** Tremolite (CAS 77536-68-6)
 - **23** Polychlorinated biphenyls (PCB) (CAS 1336-36-3)
 - **24** Tris (2,3-dibromopropyl) phosphate (CAS 126-72-7)
 - **25** [Repealed, SOR/2012-164, s. 8]
@@ -8311,15 +8316,13 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-- **1** Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub> where “n” is less than or equal to 3 and “x” is greater than or equal to 1 and less than “2n+2” and also represents the number of atoms
+- **1** [Repealed, SOR/2018-193, s. 3]
 - **2** Allyl alcohol (2-propen-1-ol) (CAS 107-18-6)
-- **3** Carbon tetrachloride (tetrachloromethane) (CAS 56-23-5)
+- **3** [Repealed, SOR/2018-193, s. 3]
 - **4** DBCP (1,2-dibromo-3-chloropropane) (CAS 96-12-8)
 - **5** Lead arsenate, which has the molecular formula PbHAsO<sub>4</sub>, and its basic form, which has the molecular formula Pb<sub>4</sub>(PbOH)(AsO<sub>4</sub>)<sub>3</sub> (CAS 7784-40-9; CAS 1327-31-7)
 - **6** Strychnine (CAS 57-24-9)
-- **7** Bromochlorodifluoromethane that has the molecular formula CF<sub>2</sub>BrCl (CAS 353-59-3)
-- **8** Bromotrifluoromethane that has the molecular formula CF<sub>3</sub>Br (CAS 75-63-8)
-- **9** Dibromotetrafluoroethane that has the molecular formula C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub> (CAS 124-73-2)
+- **7 to 9** [Repealed, SOR/2018-193, s. 3]
 - **10** Tributyltetradecylphosphonium chloride (CAS 81741-28-8)
 - **11** Benzidine and benzidine dihydrochloride, which have the molecular formulas C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> and C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>×2HCl, respectively (CAS 92-87-5; CAS 531-85-1)
 - **12** 2-Methoxyethanol, which has the molecular formula C<sub>3</sub>H<sub>8</sub>O<sub>2</sub> (CAS 109-86-4)
@@ -8328,9 +8331,10 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 - **15 to 17** [Repealed, SOR/2015-8, s. 3]
 - **18** Phorate (CAS 298-02-2)
 - **19** Terbufos (CAS 13071-79-9)
+- **20** Chrysotile asbestos (CAS 12001-29-5)
 
 
-> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164; SOR/2013-99; SOR/2015-8; SOR/2016-327.
+> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164; SOR/2013-99; SOR/2015-8; SOR/2016-327; SOR/2018-193.
 
 
 
