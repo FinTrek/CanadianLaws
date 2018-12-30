@@ -1598,8 +1598,16 @@ the Minister may send a demand to the non-Canadian, requiring the non-Canadian, 
 </td>
 <td>Article 1.8</td>
 </tr>
+<tr>
+<td>Agreement within the meaning of section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md)
+
+</td>
+<td>Article 1.3 of the TPP within the meaning of section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md)
+
+</td>
+</tr>
 </table>
 
-> 2017, c. 6, s. 81.
+> 2017, c. 6, s. 81; 2018, c. 23, s. 19.
 
 
