@@ -47,7 +47,7 @@
 
 ***serious injury***, in relation to domestic producers of like or directly competitive goods, means a significant overall impairment in the position of the domestic producers; (*dommage grave*)
 
-***textile and apparel goods*** means the textile and apparel goods set out in Appendix 1.1 of Annex 300-B of the Agreement, in Appendix 1.1 of Annex C-00-B of the CCFTA, in Appendix III.1.1.1 of Annex III.1 of the CCRFTA or in section 1 of Annex 3.1 of the CHFTA, as the case may be; (*produits textiles et vêtements*)
+***textile and apparel goods*** means the textile and apparel goods set out in Appendix 1.1 of Annex 300-B of the Agreement, in Appendix 1.1 of Annex C-00-B of the CCFTA, in Appendix III.1.1.1 of Annex III.1 of the CCRFTA, in section 1 of Annex 3.1 of the CHFTA or in Annex 4-A or Appendix 1 to Annex 4-A of the TPP, as the case may be; (*produits textiles et vêtements*)
 
 ***threat of serious injury*** means serious injury that, on the basis of facts, and not merely of allegation, conjecture or remote possibility, is clearly imminent; (*menace de dommage grave*)
 
@@ -118,6 +118,14 @@
 
 - **(4.6)** In this Act, ***Ukraine Tariff*** means the rates of customs duty referred to in section 52.5 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
+**Definitions**
+
+- **(4.7)** In this Act,
+	- **(a)** ***CPTPP*** has the meaning assigned by the definition Agreement in section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md);
+	- **(b)** ***TPP*** has the same meaning as in section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md);
+	- **(c)** ***CPTPP country*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
+	- **(d)** ***CPTPP tariff*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+
 **Goods imported from certain countries**
 
 - **(5)** For the purposes of this Act, goods are imported from one of the following countries if they are shipped directly to Canada from that country, within the meaning of sections 17 and 18 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md):a NAFTA country
@@ -129,6 +137,8 @@ Chile
 Colombia
 
 Costa Rica
+
+CPTPP country
 
 Honduras
 
@@ -143,7 +153,7 @@ Peru
 Ukraine
 
 
-> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54; 2009, c. 6, s. 16, c. 16, ss. 16, 56; 2010, c. 4, s. 16; 2012, c. 18, s. 16, c. 26, ss. 16, 62; 2014, c. 14, s. 31, c. 28, s. 33; 2017, c. 8, s. 27.
+> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54; 2009, c. 6, s. 16, c. 16, ss. 16, 56; 2010, c. 4, s. 16; 2012, c. 18, s. 16, c. 26, ss. 16, 62; 2014, c. 14, s. 31, c. 28, s. 33; 2017, c. 8, s. 27; 2018, c. 23, s. 32.
 
 
 
@@ -810,6 +820,33 @@ Ukraine
 
 
 
+**Definition of principal cause**
+
+**19.0193** 
+
+- **(1)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is no less important than any other cause of the serious injury or threat.
+
+**Emergency measures — CPTPP country**
+
+- **(2)** The Tribunal shall inquire into and report to the Governor in Council on the question whether goods of a CPTPP country, alone or together with the imported goods of other CPTPP countries, that are entitled to the benefit of a CPTPP tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, if the Governor in Council, on the recommendation of the Minister, refers the question to it for an inquiry and report.
+
+**Terms of reference**
+
+- **(3)** The Tribunal shall conduct an inquiry under subsection (2) and prepare its report in accordance with the terms of reference established by the Governor in Council or the Minister, as the case may be.
+
+**Tabling of report**
+
+- **(4)** The Minister shall cause a copy of each report submitted to the Governor in Council or the Minister to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is so submitted.
+
+**Notice of report**
+
+- **(5)** The Tribunal shall cause notice of the submission of a report to be published in the Canada Gazette.
+> 2018, c. 23, s. 33.
+
+
+
+
+
 **Mid-term review**
 
 **19.02** 
@@ -1198,6 +1235,14 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 - **(1.081)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the Panama Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
 
+**Filing of complaint — CPTPP Tariff**
+
+- **(1.082)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to a CPTPP tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods of a CPTPP country, alone or together with the imported goods of other CPTPP countries, are being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
+
+**Filing of complaint — textile and apparel goods**
+
+- **(1.083)** Any domestic producer of any textile and apparel goods that are like or directly competitive with any textile and apparel goods being imported into Canada and that are entitled under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) to a CPTPP tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods of a CPTPP country, alone or together with the imported goods of other CPTPP countries are being imported in such increased quantities, in absolute terms or relative to the domestic market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile or apparel goods.
+
 **Filing of complaint — Iceland Tariff**
 
 - **(1.09)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the Iceland Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities and under such conditions as to alone constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
@@ -1254,7 +1299,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Receipt to be acknowledged**
 
 - **(4)** The Tribunal shall, forthwith after the receipt of a complaint, notify the complainant in writing of the receipt and date of receipt thereof.
-> R.S., 1985, c. 47 (4th Supp.), s. 23; 1988, c. 65, s. 56; 1993, c. 44, s. 40; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 21; 1997, c. 14, s. 24, c. 36, s. 196; 2001, c. 28, s. 22; 2009, c. 6, s. 19, c. 16, ss. 20, 56; 2010, c. 4, s. 20; 2012, c. 18, s. 19, c. 26, s. 20; 2014, c. 14, s. 35, c. 28, s. 37; 2017, c. 8, s. 30.
+> R.S., 1985, c. 47 (4th Supp.), s. 23; 1988, c. 65, s. 56; 1993, c. 44, s. 40; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 21; 1997, c. 14, s. 24, c. 36, s. 196; 2001, c. 28, s. 22; 2009, c. 6, s. 19, c. 16, ss. 20, 56; 2010, c. 4, s. 20; 2012, c. 18, s. 19, c. 26, s. 20; 2014, c. 14, s. 35, c. 28, s. 37; 2017, c. 8, s. 30; 2018, c. 23, s. 34.
 
 
 
@@ -1284,12 +1329,12 @@ that the Governor in Council refers to the Tribunal for inquiry.
 - **(2)** Where the Tribunal determines under subsection (1) that a complaint is properly documented, it shall forthwith
 	- **(a)** notify the complainant in writing that the complaint is properly documented;
 	- **(b)** notify each other interested party in writing of the receipt of the complaint and that the complaint is properly documented; and
-	- **(c)** in the case of a complaint filed under subsection 23(1.03), (1.06), (1.08), (1.09), (1.091), (1.092) or (1.096), send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
+	- **(c)** in the case of a complaint filed under subsection 23(1.03), (1.06), (1.08), (1.083), (1.09), (1.091), (1.092) or (1.096), send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
 
 **Idem**
 
 - **(3)** Where the Tribunal determines under subsection (1) that a complaint is not properly documented, it shall forthwith notify the complainant in writing that the complaint is not properly documented and of its reasons for so concluding.
-> R.S., 1985, c. 47 (4th Supp.), s. 25; 1993, c. 44, s. 41; 1997, c. 14, s. 25; 2001, c. 28, s. 23; 2009, c. 6, s. 20; 2014, c. 14, s. 36.
+> R.S., 1985, c. 47 (4th Supp.), s. 25; 1993, c. 44, s. 41; 1997, c. 14, s. 25; 2001, c. 28, s. 23; 2009, c. 6, s. 20; 2014, c. 14, s. 36; 2018, c. 23, s. 35.
 
 
 
@@ -1312,6 +1357,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 		- **(i.7)** in the case of a complaint filed under subsection 23(1.07), the goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
 		- **(i.8)** in the case of a complaint filed under subsection 23(1.08), the textile and apparel goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
 		- **(i.81)** in the case of a complaint filed under subsection 23(1.081), the goods that are entitled to the Panama Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
+		- **(i.82)** in the case of a complaint filed under subsection 23(1.082), the goods that are entitled to a CPTPP tariff, taken individually for each CPTPP country concerned, are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to domestic production of like or directly competitive goods, and under such conditions as to constitute a cause, when considered collectively, of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
+		- **(i.83)** in the case of a complaint filed under subsection 23(1.083), the textile and apparel goods that are entitled to a CPTPP tariff are as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
 		- **(i.9)** in the case of a complaint filed under subsection 23(1.093), the goods that are entitled to the Iceland Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
 		- **(i.91)** in the case of a complaint filed under subsection 23(1.091), the goods that are entitled to the Norway Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
 		- **(i.92)** in the case of a complaint filed under subsection 23(1.092), the goods that are entitled to the Switzerland–Liechtenstein Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
@@ -1363,7 +1410,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Time limit on inquiry**
 
 - **(7)** If subsection 55(5) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) prohibits the making of an order under subsection 55(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than one hundred and eighty days before the end of the period.
-> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55; 2009, c. 6, s. 21, c. 16, ss. 21, 56; 2010, c. 4, s. 21; 2012, c. 18, s. 20, c. 26, s. 21; 2014, c. 14, s. 37, c. 28, s. 38; 2017, c. 8, s. 31.
+> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55; 2009, c. 6, s. 21, c. 16, ss. 21, 56; 2010, c. 4, s. 21; 2012, c. 18, s. 20, c. 26, s. 21; 2014, c. 14, s. 37, c. 28, s. 38; 2017, c. 8, s. 31; 2018, c. 23, s. 36.
 
 
 
@@ -1385,6 +1432,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 	- **(a.7)** in the case of a complaint filed under subsection 23(1.07), the goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods;
 	- **(a.8)** in the case of a complaint filed under subsection 23(1.08), the textile and apparel goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods;
 	- **(a.81)** in the case of a complaint filed under subsection 23(1.081), the goods that are entitled to the Panama Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
+	- **(a.82)** in the case of a complaint filed under subsection 23(1.082), the goods that are entitled to a CPTPP tariff, taken individually for each CPTPP country concerned, are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to constitute a principal cause, when considered collectively, of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
+	- **(a.83)** in the case of a complaint filed under subsection 23(1.083), the textile and apparel goods that are entitled to a CPTPP tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods;
 	- **(a.9)** in the case of a complaint filed under subsection 23(1.093), the goods that are entitled to the Iceland Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
 	- **(a.91)** in the case of a complaint filed under subsection 23(1.091), the goods that are entitled to the Norway Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
 	- **(a.92)** in the case of a complaint filed under subsection 23(1.092), the goods that are entitled to the Switzerland–Liechtenstein Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
@@ -1415,7 +1464,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Other matters**
 
 - **(3)** The Tribunal shall, in an inquiry into a complaint, examine any other matter in relation to the complaint that the Governor in Council refers to it for examination.
-> R.S., 1985, c. 47 (4th Supp.), s. 27; 1988, c. 65, s. 58; 1993, c. 44, s. 43; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 23; 1997, c. 14, s. 27, c. 36, s. 198; 2001, c. 28, s. 25; 2009, c. 6, s. 22, c. 16, ss. 22, 56; 2010, c. 4, s. 22; 2012, c. 18, s. 21, c. 26, s. 22; 2014, c. 14, s. 38, c. 28, s. 39; 2017, c. 8, s. 32.
+> R.S., 1985, c. 47 (4th Supp.), s. 27; 1988, c. 65, s. 58; 1993, c. 44, s. 43; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 23; 1997, c. 14, s. 27, c. 36, s. 198; 2001, c. 28, s. 25; 2009, c. 6, s. 22, c. 16, ss. 22, 56; 2010, c. 4, s. 22; 2012, c. 18, s. 21, c. 26, s. 22; 2014, c. 14, s. 38, c. 28, s. 39; 2017, c. 8, s. 32; 2018, c. 23, s. 37.
 
 
 
@@ -1667,15 +1716,17 @@ the Tribunal may extend that period by not more than ninety days and, where it d
 
 **30.03** 
 
-- **(1)** The Tribunal shall cause to be published in the Canada Gazette a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1) or 74(1) or (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), but no notice shall be published if
+- **(1)** The Tribunal shall cause to be published in the Canada Gazette a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1), 74(1) or (2), 76(1) or 77(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), but no notice shall be published if
 	- **(a)** the order is repealed or ceases to have effect under subsection 56(1) or (2), 59(2) or 63(5) or section 64 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or is revoked under subsection 5(4.4) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) before the end of the effective period specified in the order;
-	- **(b)** the total of the effective period specified in the order and any periods during which the goods were subject to any related orders made under subsection 55(1), section 60 or subsection 63(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) is eight years; or
-	- **(c)** the total of the effective period specified in the order and any periods during which the goods were subject to a surtax imposed by an order made under subsection 74(1) or (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) is four years.
+	- **(b)** the total of the effective period specified in the order and any periods during which the goods were subject to any related orders made under subsection 55(1), section 60 or subsection 63(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) is eight years;
+	- **(c)** the total of the effective period specified in the order and any periods during which the goods were subject to a surtax imposed by an order made under subsection 74(1) or (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) is four years;
+	- **(d)** the total of the effective period specified in the order and any periods during which the goods were subject to a surtax imposed by an order made under subsection 76(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) is, in the case of motor vehicles of heading No. 87.03 imported from Japan, five years or in the case of any other goods, three years; or
+	- **(e)** the total of the effective period specified in the order and any periods during which the goods were subject to a surtax imposed by an order made under subsection 77(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) is four years.
 
 **Manner and contents of publication**
 
 - **(2)** The notice shall be published in accordance with the rules and shall state the final date for filing an extension request in respect of the order.
-> 1994, c. 47, s. 38; 1996, c. 33, s. 25; 1997, c. 14, s. 29, c. 36, s. 202; 2014, c. 28, s. 40.
+> 1994, c. 47, s. 38; 1996, c. 33, s. 25; 1997, c. 14, s. 29, c. 36, s. 202; 2014, c. 28, s. 40; 2018, c. 23, s. 38.
 
 
 
@@ -1685,7 +1736,7 @@ the Tribunal may extend that period by not more than ninety days and, where it d
 
 **30.04** 
 
-- **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1) or 74(7) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.2) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
+- **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1), 74(7), 76(3) or 77(3) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.2) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
 
 **Time limit for filing extension request**
 
@@ -1694,7 +1745,7 @@ the Tribunal may extend that period by not more than ninety days and, where it d
 **Receipt to be acknowledged**
 
 - **(3)** The Tribunal shall, forthwith after receipt of an extension request, notify the requester in writing of its receipt and the date of its receipt.
-> 1994, c. 47, s. 38; 1996, c. 33, s. 26; 1997, c. 14, s. 30, c. 36, s. 203; 2014, c. 28, s. 41.
+> 1994, c. 47, s. 38; 1996, c. 33, s. 26; 1997, c. 14, s. 30, c. 36, s. 203; 2014, c. 28, s. 41; 2018, c. 23, s. 39.
 
 
 
