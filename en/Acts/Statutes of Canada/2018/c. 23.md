@@ -407,7 +407,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind3526_hq_23499'>[*]</a></sup>**50** This Act, other than section 49, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind3526_hq_23499'><sup>*</sup></a>: [Note: Act, other than section 49, not in force.]<br />
+<a name='fn_Ind3526_hq_23499'><sup>*</sup></a>: [Note: Act, other than section 49, in force December 30, 2018, *see* SI/2018-101 and SI/2018-108.]<br />
 
 
 
