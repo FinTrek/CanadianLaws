@@ -45,7 +45,7 @@
 
 ***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md). (*President*)
 
-***produits textiles et vêtements*** Les produits textiles et les vêtements qui figurent, selon le cas, à l’appendice 1.1 de l’annexe 300-B de l’Accord, à l’appendice 1.1 de l’annexe C-00-B de l’ALÉCC, à l’appendice III.1.1.1 de l’annexe III.1 de l’ALÉCCR ou à la section 1 de l’annexe 3.1 de l’ALÉCH. (*textile and apparel goods*)
+***produits textiles et vêtements*** Les produits textiles et les vêtements qui figurent, selon le cas, à l’appendice 1.1 de l’annexe 300-B de l’Accord, à l’appendice 1.1 de l’annexe C-00-B de l’ALÉCC, à l’appendice III.1.1.1 de l’annexe III.1 de l’ALÉCCR, à la section 1 de l’annexe 3.1 de l’ALÉCH ou à l’annexe 4-A du PTP ou à l’appendice 1 de cette annexe. (*textile and apparel goods*)
 
 ***Tribunal*** Le Tribunal canadien du commerce extérieur constitué par le paragraphe 3(1). (*Tribunal*)
 
@@ -112,6 +112,14 @@
 
 - **(4.6)** Dans la présente loi, ***tarif de l’Ukraine*** s’entend des taux de droits de douane visés à l’article 52.5 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
+**Terminologie**
+
+- **(4.7)** Dans la présente loi :
+	- **a)** ***PTPGP*** s’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md);
+	- **b)** ***PTP*** s’entend au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md);
+	- **c)** ***pays PTPGP*** s’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
+	- **d)** ***tarif PTPGP*** s’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 **Marchandises importées de certains pays**
 
 - **(5)** Pour l’application de la présente loi, sont des marchandises importées d’un pays mentionné ci-après les marchandises expédiées directement au Canada de ce pays, conformément aux articles 17 et 18 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) :Chili
@@ -132,12 +140,14 @@ Panama
 
 pays ALÉNA
 
+pays PTPGP
+
 Pérou
 
 Ukraine
 
 
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54; 2009, ch. 6, art. 16, ch. 16, art. 16 et 56; 2010, ch. 4, art. 16; 2012, ch. 18, art. 16, ch. 26, art. 16 et 62; 2014, ch. 14, art. 31, ch. 28, art. 33; 2017, ch. 8, art. 27.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54; 2009, ch. 6, art. 16, ch. 16, art. 16 et 56; 2010, ch. 4, art. 16; 2012, ch. 18, art. 16, ch. 26, art. 16 et 62; 2014, ch. 14, art. 31, ch. 28, art. 33; 2017, ch. 8, art. 27; 2018, ch. 23, art. 32.
 
 
 
@@ -802,6 +812,33 @@ Ukraine
 
 
 
+**Définition de cause principale**
+
+**19.0193** 
+
+- **(1)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mesures d’urgence : pays PTPGP**
+
+- **(2)** Le Tribunal, saisi par le gouverneur en conseil sur recommandation du ministre, enquête et fait rapport au gouverneur en conseil sur la question de savoir si des marchandises en provenance d’un ou de plusieurs pays du PTPGP sont, en conséquence du fait qu’elles bénéficient d’un tarif PTPGP, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+
+**Mandat**
+
+- **(3)** Le Tribunal mène l’enquête visée au paragraphe (2) et établit le rapport correspondant dans le strict cadre du mandat dont il est investi par le gouverneur en conseil ou le ministre, selon le cas.
+
+**Dépôt au Parlement**
+
+- **(4)** Le ministre dépose le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa transmission à son destinataire.
+
+**Avis**
+
+- **(5)** Le Tribunal fait publier dans la Gazette du Canada un avis de transmission du rapport.
+> 2018, ch. 23, art. 33.
+
+
+
+
+
 **Examen**
 
 **19.02** 
@@ -1184,6 +1221,14 @@ Ukraine
 
 - **(1.081)** Lorsqu’il estime que certaines marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Panama, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave — ou de la menace d’un tel dommage — qui lui est ainsi porté, le producteur national de marchandises similaires ou directement concurrentes, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
 
+**Dépôt : tarif PTPGP**
+
+- **(1.082)** Lorsqu’il estime que certaines marchandises sont, en conséquence du fait qu’elles bénéficient d’un tarif PTPGP, importées d’un ou de plusieurs pays PTPGP en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave — ou de la menace d’un tel dommage — qui est ainsi porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, un producteur national de telles marchandises, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
+
+**Dépôt : produits textiles et vêtements**
+
+- **(1.083)** Lorsqu’il estime que certains produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient d’un tarif PTPGP, conformément au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), importés d’un ou de plusieurs pays PTPGP en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation cause un préjudice grave ou menace réellement de causer un tel préjudice aux producteurs nationaux de produits textiles et de vêtements similaires ou directement concurrents, un producteur national de telles marchandises ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
+
 **Dépôt : Tarif de l’Islande**
 
 - **(1.09)** Lorsqu’il estime que certaines marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Islande, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave — ou de la menace d’un tel dommage — qui lui est ainsi porté, le producteur national de marchandises similaires ou directement concurrentes, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
@@ -1235,7 +1280,7 @@ Ukraine
 **Accusé de réception**
 
 - **(4)** Le Tribunal accuse, sans délai et par écrit, réception de la plainte auprès de son auteur et lui en précise la date.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 23; 1988, ch. 65, art. 56; 1993, ch. 44, art. 40; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 21; 1997, ch. 14, art. 24, ch. 36, art. 196; 2001, ch. 28, art. 22; 2009, ch. 6, art. 19, ch. 16, art. 20 et 56; 2010, ch. 4, art. 20; 2012, ch. 18, art. 19, ch. 26, art. 20; 2014, ch. 14, art. 35, ch. 28, art. 37; 2017, ch. 8, art. 30.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 23; 1988, ch. 65, art. 56; 1993, ch. 44, art. 40; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 21; 1997, ch. 14, art. 24, ch. 36, art. 196; 2001, ch. 28, art. 22; 2009, ch. 6, art. 19, ch. 16, art. 20 et 56; 2010, ch. 4, art. 20; 2012, ch. 18, art. 19, ch. 26, art. 20; 2014, ch. 14, art. 35, ch. 28, art. 37; 2017, ch. 8, art. 30; 2018, ch. 23, art. 34.
 
 
 
@@ -1262,12 +1307,12 @@ Ukraine
 
 **Dossier complet**
 
-- **(2)** Dans le cas d’une décision positive, le Tribunal la notifie sans délai au plaignant ainsi qu’aux autres intéressés. S’il s’agit d’une plainte visée aux paragraphes 23(1.03), (1.06), (1.08), (1.09), (1.091), (1.092) ou (1.096), il transmet au ministre une copie de la plainte, ainsi que les renseignements et documents pertinents à l’appui de celle-ci.
+- **(2)** Dans le cas d’une décision positive, le Tribunal la notifie par écrit et sans délai au plaignant ainsi qu’aux autres intéressés. S’il s’agit d’une plainte visée aux paragraphes 23(1.03), (1.06), (1.08), (1.083), (1.09), (1.091), (1.092) ou (1.096), il transmet au ministre une copie de la plainte, ainsi que les renseignements et documents pertinents à l’appui de celle-ci.
 
 **Décision négative**
 
 - **(3)** Dans le cas contraire, il notifie sans délai sa décision motivée au plaignant seulement.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 25; 1993, ch. 44, art. 41; 1997, ch. 14, art. 25; 2001, ch. 28, art. 23; 2009, ch. 6, art. 20; 2014, ch. 14, art. 36.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 25; 1993, ch. 44, art. 41; 1997, ch. 14, art. 25; 2001, ch. 28, art. 23; 2009, ch. 6, art. 20; 2014, ch. 14, art. 36; 2018, ch. 23, art. 35.
 
 
 
@@ -1290,6 +1335,8 @@ Ukraine
 		- **(i.7)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.07), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Costa Rica, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace d’un tel dommage,
 		- **(i.8)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.08), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Costa Rica, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice,
 		- **(i.81)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.081), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Panama, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
+		- **(i.82)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.082), que les marchandises sont, en conséquence du fait qu’elles bénéficient d’un tarif PTPGP, importées en quantité tellement accrue de chaque pays PTPGP en cause, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que l’ensemble de ces importations constitue une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
+		- **(i.83)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.083), que les produits textiles et les vêtements sont, en conséquence du fait qu’ils bénéficient d’un tarif PTPGP, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice,
 		- **(i.9)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.09), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Islande, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
 		- **(i.91)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.091), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Norvège, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
 		- **(i.92)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.092), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de Suisse-Liechtenstein, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
@@ -1334,7 +1381,7 @@ Ukraine
 **Délai pour ouvrir une enquête**
 
 - **(7)** Lorsque, en raison du paragraphe 55(5) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou du paragraphe 5(3.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), le décret visé au paragraphe 5(3) de cette loi ou au paragraphe 55(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ne peut être pris, pendant une période donnée, à l’égard de marchandises, le Tribunal peut ouvrir l’enquête prévue au paragraphe (1) au plus tôt dans les cent quatre-vingts jours précédant la fin de la période en question.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55; 2009, ch. 6, art. 21, ch. 16, art. 21 et 56; 2010, ch. 4, art. 21; 2012, ch. 18, art. 20, ch. 26, art. 21; 2014, ch. 14, art. 37, ch. 28, art. 38; 2017, ch. 8, art. 31.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55; 2009, ch. 6, art. 21, ch. 16, art. 21 et 56; 2010, ch. 4, art. 21; 2012, ch. 18, art. 20, ch. 26, art. 21; 2014, ch. 14, art. 37, ch. 28, art. 38; 2017, ch. 8, art. 31; 2018, ch. 23, art. 36.
 
 
 
@@ -1356,6 +1403,8 @@ Ukraine
 	- **a.7)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.07), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Costa Rica, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.8)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.08), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Costa Rica, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice;
 	- **a.81)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.081), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Panama, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
+	- **a.82)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.082), que les marchandises sont, en conséquence du fait qu’elles bénéficient d’un tarif PTPGP, importées en quantité tellement accrue de chaque pays PTPGP en cause et dans des conditions telles que l’ensemble de ces importations constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
+	- **a.83)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.083), que les produits textiles et les vêtements sont, en conséquence du fait qu’ils bénéficient d’un tarif PTPGP, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice;
 	- **a.9)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.09), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Islande, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.91)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.091), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Norvège, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.92)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.092), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de Suisse-Liechtenstein, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
@@ -1386,7 +1435,7 @@ Ukraine
 **Autres questions**
 
 - **(3)** Au cours de l’enquête, le Tribunal étudie les questions connexes dont le saisit le gouverneur en conseil.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 27; 1988, ch. 65, art. 58; 1993, ch. 44, art. 43; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 23; 1997, ch. 14, art. 27, ch. 36, art. 198; 2001, ch. 28, art. 25; 2009, ch. 6, art. 22, ch. 16, art. 22 et 56; 2010, ch. 4, art. 22; 2012, ch. 18, art. 21, ch. 26, art. 22; 2014, ch. 14, art. 38, ch. 28, art. 39; 2017, ch. 8, art. 32.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 27; 1988, ch. 65, art. 58; 1993, ch. 44, art. 43; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 23; 1997, ch. 14, art. 27, ch. 36, art. 198; 2001, ch. 28, art. 25; 2009, ch. 6, art. 22, ch. 16, art. 22 et 56; 2010, ch. 4, art. 22; 2012, ch. 18, art. 21, ch. 26, art. 22; 2014, ch. 14, art. 38, ch. 28, art. 39; 2017, ch. 8, art. 32; 2018, ch. 23, art. 37.
 
 
 
@@ -1634,15 +1683,17 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 
 **30.03** 
 
-- **(1)** En cas de prise d’un décret assujettissant des marchandises à la surtaxe visée au paragraphe 55(1), à l’article 60, aux paragraphes 63(1) ou 74(1) ou (2) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou les portant sur la liste des marchandises d’importation contrôlée en application des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), le Tribunal publie, dans la Gazette du Canada, un avis mentionnant la date d’expiration prévue par le décret; il ne doit toutefois pas le faire lorsque :
+- **(1)** En cas de prise d’un décret assujettissant des marchandises à la surtaxe visée au paragraphe 55(1), à l’article 60, aux paragraphes 63(1), 74(1) ou (2), 76(1) ou 77(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou les portant sur la liste des marchandises d’importation contrôlée en application des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), le Tribunal publie, dans la Gazette du Canada, un avis mentionnant la date d’expiration prévue par le décret; il ne doit toutefois pas le faire lorsque :
 	- **a)** soit le décret a cessé de s’appliquer avant cette date en raison des paragraphes 56(1) ou (2), 59(2) ou 63(5) ou de l’article 64 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou du paragraphe 5(4.4) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md);
 	- **b)** soit la période spécifiée dans le décret et les périodes pendant lesquelles la surtaxe ou l’inscription a été en vigueur, par suite des décrets pris en vertu du paragraphe 55(1), de l’article 60 ou du paragraphe 63(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), totalisent huit ans;
-	- **c)** soit la période spécifiée dans le décret et les périodes pendant lesquelles la surtaxe a été en vigueur, par suite des décrets pris en vertu des paragraphes 74(1) ou (2) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), totalisent quatre ans.
+	- **c)** soit la période spécifiée dans le décret et les périodes pendant lesquelles la surtaxe a été en vigueur, par suite des décrets pris en vertu des paragraphes 74(1) ou (2) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), totalisent quatre ans;
+	- **d)** soit la période spécifiée dans le décret et les périodes pendant lesquelles la surtaxe a été en vigueur, par suite des décrets pris en vertu du paragraphe 76(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), totalisent cinq ans dans le cas où les marchandises en cause sont des véhicules automobiles de la position 87.03 importés du Japon ou trois ans dans le cas de toute autre marchandise;
+	- **e)** soit la période spécifiée dans le décret et les périodes pendant lesquelles la surtaxe a été en vigueur, par suite des décrets pris en vertu du paragraphe 77(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), totalisent quatre ans.
 
 **Modalités de publication**
 
 - **(2)** L’avis doit être publié selon les règles du Tribunal et préciser la date limite de dépôt d’une demande de prorogation.
-> 1994, ch. 47, art. 38; 1996, ch. 33, art. 25; 1997, ch. 14, art. 29, ch. 36, art. 202; 2014, ch. 28, art. 40.
+> 1994, ch. 47, art. 38; 1996, ch. 33, art. 25; 1997, ch. 14, art. 29, ch. 36, art. 202; 2014, ch. 28, art. 40; 2018, ch. 23, art. 38.
 
 
 
@@ -1652,7 +1703,7 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 
 **30.04** 
 
-- **(1)** Le producteur de marchandises similaires ou faisant directement concurrence à des marchandises auxquelles s’applique le décret visé au paragraphe 30.03(1), de même que toute personne ou association le représentant, peut déposer auprès du Tribunal une demande écrite visant à obtenir la prise du décret visé aux paragraphes 63(1) ou 74(7) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou au paragraphe 5(3.2) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) parce qu’un décret continue d’être nécessaire pour éviter qu’un dommage grave ne soit causé aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou pour réparer un tel dommage.
+- **(1)** Le producteur de marchandises similaires ou faisant directement concurrence à des marchandises auxquelles s’applique le décret visé au paragraphe 30.03(1), de même que toute personne ou association le représentant, peut déposer auprès du Tribunal une demande écrite visant à obtenir la prise du décret visé aux paragraphes 63(1), 74(7), 76(3) ou 77(3) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou au paragraphe 5(3.2) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) parce qu’un décret continue d’être nécessaire pour éviter qu’un dommage grave ne soit causé aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou pour réparer un tel dommage.
 
 **Délai de dépôt**
 
@@ -1661,7 +1712,7 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 **Accusé de réception**
 
 - **(3)** Le Tribunal accuse, sans délai et par écrit, réception de la demande auprès de son auteur et lui en précise la date.
-> 1994, ch. 47, art. 38; 1996, ch. 33, art. 26; 1997, ch. 14, art. 30, ch. 36, art. 203; 2014, ch. 28, art. 41.
+> 1994, ch. 47, art. 38; 1996, ch. 33, art. 26; 1997, ch. 14, art. 30, ch. 36, art. 203; 2014, ch. 28, art. 41; 2018, ch. 23, art. 39.
 
 
 
