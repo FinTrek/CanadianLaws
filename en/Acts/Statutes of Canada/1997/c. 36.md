@@ -74,9 +74,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Colombia*** means the land territory, both continental and insular, the air space and the maritime areas over which the Republic of Colombia exercises sovereignty, or sovereign rights or jurisdiction, in accordance with its domestic law and international law. (*Colombie*)
 
+***Comprehensive and Progressive Agreement for Trans-Pacific Partnership*** has the meaning assigned by the definition Agreement in section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md). (*Accord de partenariat transpacifique global et progressiste*)
+
 ***Costa Rica*** means the territory and air space, and the maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which it exercises, in accordance with international law and its domestic law, sovereign rights with respect to the natural resources of such areas; (*Costa Rica*)
 
 ***country***, unless the context otherwise requires, includes an external or dependent territory of a country and any other prescribed territory. (*pays*)
+
+***CPTPP country*** means a party to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership. (*pays PTPGP*)
+
+***CPTPP tariff*** means any of the following tariff treatments:
+- **(a)** the Comprehensive and Progressive Trans-Pacific Partnership Tariff;
+- **(b)** the Comprehensive and Progressive Australia Tariff;
+- **(c)** the Comprehensive and Progressive Brunei Tariff;
+- **(d)** the Comprehensive and Progressive Chile Tariff;
+- **(e)** the Comprehensive and Progressive Japan Tariff;
+- **(f)** the Comprehensive and Progressive Malaysia Tariff;
+- **(g)** the Comprehensive and Progressive Mexico Tariff;
+- **(h)** the Comprehensive and Progressive New Zealand Tariff;
+- **(i)** the Comprehensive and Progressive Peru Tariff;
+- **(j)** the Comprehensive and Progressive Singapore Tariff; and
+- **(k)** the Comprehensive and Progressive Vietnam Tariff. (*tarif PTPGP*)
 
 ***customs duty***, except for the purposes of Part 3, other than sections 82 and 122, means a duty imposed under section 20. (*droits de douane*)
 
@@ -97,7 +114,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Honduras*** means the land, maritime areas, and air space under the sovereignty of the Republic of Honduras and the exclusive economic zone and the continental shelf within which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law. (*Honduras*)
 
-***Iceland*** means 
+***Iceland*** means
 - **(a)** the land territory, air space, internal waters and territorial sea of Iceland; and
 - **(b)** the exclusive economic zone and continental shelf of Iceland. (*Islande*)
 
@@ -179,7 +196,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition country in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 6, s. 95, c. 8, s. 33.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64; 2017, c. 6, s. 95, c. 8, s. 33; 2018, c. 23, s. 40.
 
 
 
@@ -337,12 +354,14 @@ Switzerland
 		- **(xiv)** subsection 74(1),
 		- **(xv)** subsection 74(2),
 		- **(xvi)** subsection 75(1),
-		- **(xvii)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+		- **(xvii)** subsection 76(1),
+		- **(xviii)** subsection 77(1),
+		- **(xix)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45; 2017, c. 8, s. 34.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45; 2017, c. 8, s. 34; 2018, c. 23, s. 41.
 
 
 
@@ -659,6 +678,28 @@ Switzerland
 
 ***COLT*** refers to the Colombia Tariff. (*TCOL*)
 
+***CPAUT*** refers to the Comprehensive and Progressive Australia Tariff. (*TAUGP*)
+
+***CPBNT*** refers to the Comprehensive and Progressive Brunei Tariff. (*TBNGP*) 
+
+***CPCLT*** refers to the Comprehensive and Progressive Chile Tariff. (*TCLGP*) 
+
+***CPJPT*** refers to the Comprehensive and Progressive Japan Tariff. (*TJPGP*) 
+
+***CPMXT*** refers to the Comprehensive and Progressive Mexico Tariff. (*TMXGP*) 
+
+***CPMYT*** refers to the Comprehensive and Progressive Malaysia Tariff. (*TMYGP*) 
+
+***CPNZT*** refers to the Comprehensive and Progressive New Zealand Tariff. (*TNZGP*) 
+
+***CPPET*** refers to the Comprehensive and Progressive Peru Tariff. (*TPEGP*) 
+
+***CPSGT*** refers to the Comprehensive and Progressive Singapore Tariff. (*TSGGP*) 
+
+***CPTPT*** refers to the Comprehensive and Progressive Trans-Pacific Partnership Tariff. (*TPTGP*) 
+
+***CPVNT*** refers to the Comprehensive and Progressive Vietnam Tariff. (*TVNGP*) 
+
 ***CRT*** refers to the Costa Rica Tariff. (*TCR*)
 
 ***CT*** refers to the Chile Tariff. (*TC*)
@@ -694,7 +735,7 @@ Switzerland
 ***UAT*** refers to the Ukraine Tariff. (*TUA*)
 
 ***UST*** refers to the United States Tariff. (*TÉU*)
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 6, s. 96, c. 8, s. 35.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46; 2017, c. 6, s. 96, c. 8, s. 35; 2018, c. 23, s. 42.
 
 
 
@@ -2040,6 +2081,1227 @@ Switzerland
 
 
 
+#### Comprehensive and Progressive Trans-Pacific Partnership Tariff
+
+
+
+**Application of CPTPT**
+
+**52.6** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Trans-Pacific Partnership Tariff are entitled to the Comprehensive and Progressive Trans-Pacific Partnership Tariff rates of customs duty.
+
+**“A” final rate for CPTPT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPTPT” in relation to goods entitled to the Comprehensive and Progressive Trans-Pacific Partnership Tariff, the Comprehensive and Progressive Trans-Pacific Partnership Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPTPT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPTPT” in relation to goods entitled to the Comprehensive and Progressive Trans-Pacific Partnership Tariff, the Comprehensive and Progressive Trans-Pacific Partnership Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPTPT**
+
+- **(4)** If “X1”, “X2”, “X3”, “X4”, “X5”, “X6” or “X7” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPTPT” in relation to goods entitled to the Comprehensive and Progressive Trans-Pacific Partnership Tariff, the Comprehensive and Progressive Trans-Pacific Partnership Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X1” is set out,
+		- **(i)** effective on the coming into force of the Comprehensive and Progressive Trans-Pacific Partnership Agreement, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that Agreement comes into force, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that Agreement comes into force, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that Agreement comes into force, to the final rate of “Free”;
+	- **(b)** if “X2” is set out,
+		- **(i)** effective on the coming into force of the Comprehensive and Progressive Trans-Pacific Partnership Agreement, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that Agreement comes into force, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that Agreement comes into force, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that Agreement comes into force, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that Agreement comes into force, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that Agreement comes into force, to the final rate of “Free”;
+	- **(c)** if “X3” is set out,
+		- **(i)** effective on the coming into force of the Comprehensive and Progressive Trans-Pacific Partnership Agreement, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that Agreement comes into force, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that Agreement comes into force, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that Agreement comes into force, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that Agreement comes into force, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that Agreement comes into force, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that Agreement comes into force, to the final rate of “Free”;
+	- **(d)** if “X4” is set out,
+		- **(i)** effective on the coming into force of the Comprehensive and Progressive Trans-Pacific Partnership Agreement, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that Agreement comes into force, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that Agreement comes into force, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that Agreement comes into force, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that Agreement comes into force, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that Agreement comes into force, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that Agreement comes into force, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that Agreement comes into force, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that Agreement comes into force, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that Agreement comes into force, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that Agreement comes into force, to the final rate of “Free”;
+	- **(e)** if “X5” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the Comprehensive and Progressive Trans-Pacific Partnership Agreement comes into force, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that Agreement comes into force, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that Agreement comes into force, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that Agreement comes into force, to the final rate of “Free”;
+	- **(f)** if “X6” is set out,
+		- **(i)** effective on the coming into force of the Comprehensive and Progressive Trans-Pacific Partnership Agreement, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that Agreement comes into force, to the final rate of “Free”; and
+	- **(g)** if “X7” is set out,
+		- **(i)** effective on the coming into force of the Comprehensive and Progressive Trans-Pacific Partnership Agreement, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that Agreement comes into force, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that Agreement comes into force, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that Agreement comes into force, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that Agreement comes into force, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.61** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Trans-Pacific Partnership Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before this section comes into force.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Trans-Pacific Partnership Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Australia Tariff
+
+
+
+**Application of CPAUT**
+
+**52.62** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Australia Tariff are entitled to the Comprehensive and Progressive Australia Tariff rates of customs duty.
+
+**“A” final rate for CPAUT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPAUT” in relation to goods entitled to the Comprehensive and Progressive Australia Tariff, the Comprehensive and Progressive Australia Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPAUT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPAUT” in relation to goods entitled to the Comprehensive and Progressive Australia Tariff, the Comprehensive and Progressive Australia Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPAUT**
+
+- **(4)** If “X8”, “X9”, “X10”, “X11”, “X12”, “X13” or “X14” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPAUT” in relation to goods entitled to the Comprehensive and Progressive Australia Tariff, the Comprehensive and Progressive Australia Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X8” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X9” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X10” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X11” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X12” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X13” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X14” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts – fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.63** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Australia Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Australia.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Australia Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Brunei Tariff
+
+
+
+**Application of CPBNT**
+
+**52.64** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Brunei Tariff are entitled to the Comprehensive and Progressive Brunei Tariff rates of customs duty.
+
+**“A” final rate for CPBNT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPBNT” in relation to goods entitled to the Comprehensive and Progressive Brunei Tariff, the Comprehensive and Progressive Brunei Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPBNT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPBNT” in relation to goods entitled to the Comprehensive and Progressive Brunei Tariff, the Comprehensive and Progressive Brunei Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPBNT**
+
+- **(4)** If “X15”, “X16”, “X17”, “X18”, “X19”, “X20” or “X21” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPBNT” in relation to goods entitled to the Comprehensive and Progressive Brunei Tariff, the Comprehensive and Progressive Brunei Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X15” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X16” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X17” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X18” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X19” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X20” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X21” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.65** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Brunei Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Brunei.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Brunei Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Chile Tariff
+
+
+
+**Application of CPCLT**
+
+**52.66** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Chile Tariff are entitled to the Comprehensive and Progressive Chile Tariff rates of customs duty.
+
+**“A” final rate for CPCLT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPCLT” in relation to goods entitled to the Comprehensive and Progressive Chile Tariff, the Comprehensive and Progressive Chile Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPCLT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPCLT” in relation to goods entitled to the Comprehensive and Progressive Chile Tariff, the Comprehensive and Progressive Chile Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPCLT**
+
+- **(4)** If “X22”, “X23”, “X24”, “X25”, “X26”, “X27” or “X28” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPCLT” in relation to goods entitled to the Comprehensive and Progressive Chile Tariff, the Comprehensive and Progressive Chile Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X22” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X23” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X24” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X25” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X26” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X27” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X28” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.67** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Chile Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Chile.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Chile Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Japan Tariff
+
+
+
+**Application of CPJPT**
+
+**52.68** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Japan Tariff are entitled to the Comprehensive and Progressive Japan Tariff rates of customs duty.
+
+**“A” final rate for CPJPT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPJPT” in relation to goods entitled to the Comprehensive and Progressive Japan Tariff, the Comprehensive and Progressive Japan Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPJPT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPJPT” in relation to goods entitled to the Comprehensive and Progressive Japan Tariff, the Comprehensive and Progressive Japan Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPJPT**
+
+- **(4)** If “X29”, “X30”, “X31”, “X32”, “X33”, “X34” or “X35” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPJPT” in relation to goods entitled to the Comprehensive and Progressive Japan Tariff, the Comprehensive and Progressive Japan Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X29” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X30” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X31” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X32” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X33” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X34” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X35” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.69** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Japan Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Japan.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Japan Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Malaysia Tariff
+
+
+
+**Application of CPMYT**
+
+**52.7** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Malaysia Tariff are entitled to the Comprehensive and Progressive Malaysia Tariff rates of customs duty.
+
+**“A” final rate for CPMYT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPMYT” in relation to goods entitled to the Comprehensive and Progressive Malaysia Tariff, the Comprehensive and Progressive Malaysia Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPMYT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPMYT” in relation to goods entitled to the Comprehensive and Progressive Malaysia Tariff, the Comprehensive and Progressive Malaysia Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPMYT**
+
+- **(4)** If “X36”, “X37”, “X38”, “X39”, “X40”, “X41” or “X42” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPMYT” in relation to goods entitled to the Comprehensive and Progressive Malaysia Tariff, the Comprehensive and Progressive Malaysia Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X36” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X37” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X38” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X39” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X40” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X41” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X42” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.71** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Malaysia Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Malaysia.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Malaysia Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Mexico Tariff
+
+
+
+**Application of CPMXT**
+
+**52.72** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Mexico Tariff are entitled to the Comprehensive and Progressive Mexico Tariff rates of customs duty.
+
+**“A” final rate for CPMXT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPMXT” in relation to goods entitled to the Comprehensive and Progressive Mexico Tariff, the Comprehensive and Progressive Mexico Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPMXT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPMXT” in relation to goods entitled to the Comprehensive and Progressive Mexico Tariff, the Comprehensive and Progressive Mexico Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPMXT**
+
+- **(4)** If “X43”, “X44”, “X45”, “X46”, “X47”, “X48” or “X49” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPMXT” in relation to goods entitled to the Comprehensive and Progressive Mexico Tariff, the Comprehensive and Progressive Mexico Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X43” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X44” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X45” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X46” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X47” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X48” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X49” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.73** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Mexico Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Mexico.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Mexico Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive New Zealand Tariff
+
+
+
+**Application of CPNZT**
+
+**52.74** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive New Zealand Tariff are entitled to the Comprehensive and Progressive New Zealand Tariff rates of customs duty.
+
+**“A” final rate for CPNZT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPNZT” in relation to goods entitled to the Comprehensive and Progressive New Zealand Tariff, the Comprehensive and Progressive New Zealand Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPNZT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPNZT” in relation to goods entitled to the Comprehensive and Progressive New Zealand Tariff, the Comprehensive and Progressive New Zealand Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPNZT**
+
+- **(4)** If “X50”, “X51”, “X52”, “X53”, “X54”, “X55” or “X56” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPNZT” in relation to goods entitled to the Comprehensive and Progressive New Zealand Tariff, the Comprehensive and Progressive New Zealand Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X50” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X51” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X52” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X53” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X54” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X55” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X56” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.75** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive New Zealand Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and New Zealand.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive New Zealand Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Peru Tariff
+
+
+
+**Application of CPPET**
+
+**52.76** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Peru Tariff are entitled to the Comprehensive and Progressive Peru Tariff rates of customs duty.
+
+**“A” final rate for CPPET**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPPET” in relation to goods entitled to the Comprehensive and Progressive Peru Tariff, the Comprehensive and Progressive Peru Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPPET**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPPET” in relation to goods entitled to the Comprehensive and Progressive Peru Tariff, the Comprehensive and Progressive Peru Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPPET**
+
+- **(4)** If “X57”, “X58”, “X59”, “X60”, “X61”, “X62” or “X63” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPPET” in relation to goods entitled to the Comprehensive and Progressive Peru Tariff, the Comprehensive and Progressive Peru Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X57” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X58” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X59” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X60” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X61” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X62” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X63” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.77** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Peru Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Peru.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Peru Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Singapore Tariff
+
+
+
+**Application of CPSGT**
+
+**52.78** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Singapore Tariff are entitled to the Comprehensive and Progressive Singapore Tariff rates of customs duty.
+
+**“A” final rate for CPSGT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPSGT” in relation to goods entitled to the Comprehensive and Progressive Singapore Tariff, the Comprehensive and Progressive Singapore Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPSGT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPSGT” in relation to goods entitled to the Comprehensive and Progressive Singapore Tariff, the Comprehensive and Progressive Singapore Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPSGT**
+
+- **(4)** If “X64”, “X65”, “X66”, “X67”, “X68”, “X69” or “X70” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPSGT” in relation to goods entitled to the Comprehensive and Progressive Singapore Tariff, the Comprehensive and Progressive Singapore Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X64” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X65” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X66” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X67” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X68” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X69” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X70” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.79** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Singapore Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Singapore.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Singapore Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+#### Comprehensive and Progressive Vietnam Tariff
+
+
+
+**Application of CPVNT**
+
+**52.8** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Comprehensive and Progressive Vietnam Tariff are entitled to the Comprehensive and Progressive Vietnam Tariff rates of customs duty.
+
+**“A” final rate for CPVNT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPVNT” in relation to goods entitled to the Comprehensive and Progressive Vietnam Tariff, the Comprehensive and Progressive Vietnam Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for CPVNT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPVNT” in relation to goods entitled to the Comprehensive and Progressive Vietnam Tariff, the Comprehensive and Progressive Vietnam Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for CPVNT**
+
+- **(4)** If “X71”, “X72”, “X73”, “X74”, “X75”, “X76” or “X77” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CPVNT” in relation to goods entitled to the Comprehensive and Progressive Vietnam Tariff, the Comprehensive and Progressive Vietnam Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “X71” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(b)** if “X72” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam, to five sixths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to two thirds of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to one third of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to one sixth of the initial rate, and
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(c)** if “X73” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(d)** if “X74” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam, to ten elevenths of the initial rate,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to nine elevenths of the initial rate,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to eight elevenths of the initial rate,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to seven elevenths of the initial rate,
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to six elevenths of the initial rate,
+		- **(vi)** effective on January 1 of the fifth year after the year in which that first day occurs, to five elevenths of the initial rate,
+		- **(vii)** effective on January 1 of the sixth year after the year in which that first day occurs, to four elevenths of the initial rate,
+		- **(viii)** effective on January 1 of the seventh year after the year in which that first day occurs, to three elevenths of the initial rate,
+		- **(ix)** effective on January 1 of the eighth year after the year in which that first day occurs, to two elevenths of the initial rate,
+		- **(x)** effective on January 1 of the ninth year after the year in which that first day occurs, to one eleventh of the initial rate, and
+		- **(xi)** effective on January 1 of the tenth year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(e)** if “X75” is set out,
+		- **(i)** effective on January 1 of the eighth year after the year in which the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam occurs, to three quarters of the initial rate,
+		- **(ii)** effective on January 1 of the ninth year after the year in which that first day occurs, to one half of the initial rate,
+		- **(iii)** effective on January 1 of the tenth year after the year in which that first day occurs, to one quarter of the initial rate, and
+		- **(iv)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”;
+	- **(f)** if “X76” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam, to one quarter of the initial rate, and
+		- **(ii)** effective on January 1 of the eleventh year after the year in which that first day occurs, to the final rate of “Free”; and
+	- **(g)** if “X77” is set out,
+		- **(i)** effective on the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam, to a rate of 5.5 per cent,
+		- **(ii)** effective on January 1 of the first year after the year in which that first day occurs, to a rate of 5.0 per cent,
+		- **(iii)** effective on January 1 of the second year after the year in which that first day occurs, to a rate of 2.5 per cent,
+		- **(iv)** effective on January 1 of the third year after the year in which that first day occurs, to a rate of 2.0 per cent, and
+		- **(v)** effective on January 1 of the fourth year after the year in which that first day occurs, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent, the resulting percentage shall be rounded down to the nearest one tenth of one per cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(7)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) or a rounding of rates under subsection (6) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than 2%**
+
+- **(8)** If, for any goods other than motor vehicles of heading No. 87.01, 87.02, 87.03, 87.04 or 87.05, a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2018, c. 23, s. 43.
+
+
+
+
+
+**Extension of entitlement**
+
+**52.81** 
+
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to extend entitlement to the Comprehensive and Progressive Vietnam Tariff to any goods that originate in a CPTPP country.
+
+**Retroactivity**
+
+- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before the first day on which the Comprehensive and Progressive Trans-Pacific Partnership Agreement is in effect between Canada and Vietnam.
+
+**Content of order**
+
+- **(3)** An order made under subsection (1)
+	- **(a)** must specify the date on which the order becomes effective;
+	- **(b)** must, if the order partially extends entitlement to the Comprehensive and Progressive Vietnam Tariff, indicate the goods to which entitlement to that Tariff is extended; and
+	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 2018, c. 23, s. 43.
+
+
+
+
+
 **DIVISION 4** 
 ### Special Measures, Emergency Measures and Safeguards
 
@@ -3122,7 +4384,47 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
-**76** [Repealed, 2011, c. 24, s. 128]
+
+#### Emergency Measures — CPTPP Countries
+
+
+
+**Order by Governor in Council**
+
+**76** 
+
+- **(1)** Subject to subsections (2) to (5), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.0193(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.082) of that Act, that goods that are entitled to a CPTPP tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to domestic production, and under such conditions as to cause or threaten to cause serious injury to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of the provision of this Act that gives effect to that CPTPP Tariff; and
+	- **(b)** make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the applicable rate of customs duty that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection.
+
+**Duration of order**
+
+- **(2)** An order under subsection (1) remains in effect for the period that is specified in the order, which shall not exceed
+	- **(a)** three years in the case of motor vehicles of heading No. 87.03 imported from Japan; and
+	- **(b)** two years in the case of any other goods.
+
+**Extension of order**
+
+- **(3)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made under subsection (1), if it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under section 30.07 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) that the order continues to be necessary to prevent or remedy serious injury and to facilitate the adjustment of domestic producers of like or directly competitive goods. The total period of the order is not to exceed
+	- **(a)** five years in the case of motor vehicles of heading No. 87.03 imported from Japan; and
+	- **(b)** three years in the case of any other goods.
+
+**Terms and conditions**
+
+- **(4)** An order made under subsection (1)
+	- **(a)** is not to be made more than once in respect of goods of any particular kind with the exception of motor vehicles of heading No. 87.03 imported from Japan;
+	- **(b)** may be in effect during the period beginning on the day on which this subsection comes into force and ending
+		- **(i)** on the third anniversary of the first day on which the Comprehensive and Progressive Agreement on Trans-Pacific Partnership is in effect, if the order is in respect of goods, other than motor vehicles of heading No. 87.03 imported from Japan, for which the applicable CPTPP tariff rate of customs duty is at its final rate of “Free” on that anniversary,
+		- **(ii)** on the day on which the applicable CPTPP tariff rate of customs duty is reduced to its final rate of “Free”, if the order is in respect of goods, other than motor vehicles of heading No. 87.03 imported from Japan, for which the applicable CPTPP tariff rate of customs duty is not at its final rate of “Free” on the anniversary referred to in subparagraph (i), and
+		- **(iii)** if the order is in respect of motor vehicles of heading No. 87.03 imported from Japan, on the twelfth anniversary of the day on which that CPTPP tariff rate of customs duty for those goods is reduced to the final rate of “Free”.
+
+**Rate of duty when an order ceases to have effect**
+
+- **(5)** When an order made under subsection (1) ceases to have effect, the rate of customs duty applicable to the goods is the rate of customs duty that is applicable in accordance with the provision of this Act that gives effect to the CPTPP Tariff to which the goods are entitled.
+> 1997, c. 36, s. 76; 2011, c. 24, s. 128; 2018, c. 23, s. 44.
+
 
 
 
@@ -3130,7 +4432,38 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
-**77** [Repealed, 2011, c. 24, s. 128]
+
+#### Emergency Measures for Textile and Apparel Goods Imported from CPTPP Countries
+
+
+
+**Order by governor in Council**
+
+**77** 
+
+- **(1)** Subject to subsections (2) to (5), if at any time it appears to the satisfaction of the Governor in Council, on the basis of a report of the Minister further to a complaint filed under subsection 23(1.083) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or as a result of an inquiry made by the Canadian International Trade Tribunal under subparagraph 26(1)(a)(i.83) of that Act, that textile or apparel goods set out in Annex 4-A of the TPP, as defined in section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md), that are entitled to a CPTPP tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic market for that good, and under such conditions as to cause serious damage or an actual threat of serious damage to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the applicable rate of customs duty specified in the CPTPP Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+	- **(a)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+	- **(b)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection.
+
+**Duration of order**
+
+- **(2)** An order under subsection (1) remains in effect for the period that is specified in the order, which shall not exceed two years.
+
+**Extension of order**
+
+- **(3)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made under subsection (1). The total period of the order is not to exceed four years.
+
+**Terms and conditions**
+
+- **(4)** An order made under subsection (1)
+	- **(a)** is not to be made more than once in respect of goods of any particular kind; and
+	- **(b)** may be in effect during the period beginning on the day on which this subsection comes into force and ending on the fifth anniversary of the day on which the CPTPP rate of customs duty on those goods is reduced to the final rate of “Free”.
+
+**Rate of duty when an order ceases to have effect**
+
+- **(5)** When an order made under subsection (1) ceases to have effect, the rate of customs duty applicable to the goods is the rate of customs duty that is applicable in accordance with the provision of this Act that gives effect to the CPTPP Tariff to which the goods are entitled.
+> 1997, c. 36, s. 77; 2011, c. 24, s. 128; 2018, c. 23, s. 44.
+
 
 
 
@@ -3491,7 +4824,11 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Limitation**
 
 - **(6)** Subsection (5) ceases to have effect on January 1 of the seventh year after the year in which this subsection comes into force.
-> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53; 2017, c. 6, s. 99.
+
+**Goods of tariff item No. 9971.00.00 — CPTPP country**
+
+- **(7)** Despite subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00 that are entitled to a CPTPP tariff is the value of the repairs or alterations made to those goods in a CPTPP country.
+> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53; 2017, c. 6, s. 99; 2018, c. 23, s. 45.
 
 
 
@@ -4443,6 +5780,8 @@ Colombia
 
 Costa Rica
 
+CPTPP country
+
 Honduras
 
 Iceland
@@ -4474,6 +5813,8 @@ Colombia
 
 Costa Rica
 
+CPTPP country
+
 Honduras
 
 Israel or another CIFTA beneficiary
@@ -4492,7 +5833,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F); 2017, c. 6, s. 106.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F); 2017, c. 6, s. 106; 2018, c. 23, s. 46.
 
 
 
