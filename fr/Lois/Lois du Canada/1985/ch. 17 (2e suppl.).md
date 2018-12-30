@@ -857,8 +857,12 @@ Si le tribunal arbitral considère que la demande est justifiée, il fait la rec
 <td>Articles 8.18 ou 8.19</td>
 <td>Accord de libre-échange entre le Canada et la République de Corée, fait à Ottawa le 22 septembre 2014 </td>
 </tr>
+<tr>
+<td>Article 9.19 de l’Accord de partenariat transpacifique dont le texte est incorporé par renvoi à l’accord au titre de son article 1</td>
+<td>Accord de partenariat transpacifique global et progressiste entre le Canada, l’Australie, le Brunéi, le Chili, le Japon, la Malaisie, le Mexique, la Nouvelle-Zélande, le Pérou, Singapour et le Vietnam, fait à Santiago le 8 mars 2018</td>
+</tr>
 </table>
 
-> 2012, ch. 26, art. 26; 2014, ch. 14, art. 30, ch. 28, art. 32.
+> 2012, ch. 26, art. 26; 2014, ch. 14, art. 30, ch. 28, art. 32; 2018, ch. 23, art. 31.
 
 
