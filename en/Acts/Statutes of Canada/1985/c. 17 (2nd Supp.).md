@@ -857,8 +857,12 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 <td>Article 8.18 or 8.19</td>
 <td>Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014</td>
 </tr>
+<tr>
+<td>Article 9.19 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1</td>
+<td>Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018</td>
+</tr>
 </table>
 
-> 2012, c. 26, s. 26; 2014, c. 14, s. 30, c. 28, s. 32.
+> 2012, c. 26, s. 26; 2014, c. 14, s. 30, c. 28, s. 32; 2018, c. 23, s. 31.
 
 
