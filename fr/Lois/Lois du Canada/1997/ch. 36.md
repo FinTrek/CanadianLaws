@@ -70,6 +70,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*North American Free Trade Agreement*)
 
+***Accord de partenariat transpacifique global et progressiste*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md). (*Comprehensive and Progressive Agreement for Trans-Pacific Partnership*) 
+
 ***Accord économique et commercial global entre le Canada et l’Union européenne*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord économique et commercial global entre le Canada et l’Union européenne](/fr/Lois/Lois%20du%20Canada/2017/ch.%206.md). (*Canada–European Union Comprehensive Economic and Trade Agreement*)
 
 ***Accord sur l’Organisation mondiale du commerce*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*World Trade Organization Agreement*)
@@ -86,7 +88,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Costa Rica*** Le territoire, l’espace aérien et les zones maritimes, y compris les fonds marins et leur sous-sol adjacents à la limite extérieure des eaux territoriales, de même que leurs ressources naturelles, sur lesquels il exerce des droits souverains conformément au droit international et à son droit interne. (*Costa Rica*)
 
-***devant servir dans*** ou ***devant servir à*** Mention dans un numéro tarifaire, applicable aux marchandises qui y sont classées et qui doivent entrer dans la composition d’autres marchandises mentionnées dans ce numéro tarifaire par voie d’ouvraison, de fixation ou d’incorporation. (*for use in*)
+***devant servir dans*** ou ***devant servir à*** Mention dans un numéro tarifaire, applicable aux marchandises qui y sont classées et qui doivent entrer dans la composition d’autres marchandises mentionnées dans ce numéro tarifaire par voie d’ouvraison, de fixation ou d’incorporation. (*for use in*)
 
 ***dommage grave*** Tout dommage causant une dégradation générale notable de la situation des producteurs nationaux de marchandises similaires ou directement concurrentes. (*serious injury*)
 
@@ -145,6 +147,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*** S’entend au sens des règlements. (*EU country or other CETA beneficiary*)
 
+***pays PTPGP*** Pays partie à l’Accord de partenariat transpacifique global et progressiste. (*CPTPP country*)
+
 ***Pérou*** Le territoire terrestre, les îles, les zones maritimes et l’espace aérien surjacent sur lesquels la République du Pérou exerce sa souveraineté ou a des droits souverains et a compétence conformément à sa législation interne et au droit international. (*Peru*)
 
 ***position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à quatre chiffres, y compris la dénomination des marchandises des sous-positions et des numéros tarifaires dont le numéro commence par les quatre chiffres du numéro de position. (*heading*)
@@ -160,6 +164,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***tableau des échelonnements*** La Liste des taux intermédiaires et des taux finals pour les numéros tarifaires de la catégorie d’échelonnement « F » figurant à l’annexe. (*“F” Staging List*)
 
 ***tableau des traitements tarifaires*** La Liste des pays — avec les traitements tarifaires qui leur sont accordés — figurant à l’annexe. (*List of Countries*)
+
+***tarif PTPGP*** s’entend, selon le cas, des traitements tarifaires suivants :
+- **a)** Tarif du partenariat transpacifique global et progessiste;
+- **b)** Tarif global et progressiste de l’Australie;
+- **c)** Tarif global et progressiste du Brunéi;
+- **d)** Tarif global et progressiste du Chili;
+- **e)** Tarif global et progressiste du Japon;
+- **f)** Tarif global et progressiste de la Malaisie;
+- **g)** Tarif global et progressiste du Mexique;
+- **h)** Tarif global et progressiste de la Nouvelle-Zélande;
+- **i)** Tarif global et progressiste du Pérou;
+- **j)** Tarif global et progressiste de Singapour;
+- **k)** Tarif global et progressiste du Vietnam. (*CPTPP tariff*)
 
 ***taux*** Le taux de droits de douane. (***French version only***)
 
@@ -179,7 +196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de pays, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 6, art. 95, ch. 8, art. 33.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64; 2017, ch. 6, art. 95, ch. 8, art. 33; 2018, ch. 23, art. 40.
 
 
 
@@ -337,12 +354,14 @@ Suisse
 		- **(xiv)** le paragraphe 74(1),
 		- **(xv)** le paragraphe 74(2),
 		- **(xvi)** le paragraphe 75(1),
-		- **(xvii)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+		- **(xvii)** le paragraphe 76(1),
+		- **(xviii)** le paragraphe 77(1),
+		- **(xix)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45; 2017, ch. 8, art. 34.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45; 2017, ch. 8, art. 34; 2018, ch. 23, art. 41.
 
 
 
@@ -653,7 +672,13 @@ Suisse
 
 ***TAU*** Tarif de l’Australie. (*AUT*)
 
+***TAUGP***   Tarif global et progressiste de l’Australie. (*CPAUT*)
+
+***TBNGP***   Tarif global et progressiste du Brunéi. (*CPBNT*)
+
 ***TC*** Tarif du Chili. (*CT*)
+
+***TCLGP***   Tarif global et progressiste du Chili. (*CPCLT*)
 
 ***TCOL*** Tarif de la Colombie. (*COLT*)
 
@@ -669,15 +694,23 @@ Suisse
 
 ***TJ*** Tarif de la Jordanie. (*JT*)
 
+***TJPGP***   Tarif global et progressiste du Japon. (*CPJPT*)
+
 ***TKR*** Tarif de la Corée. (*KRT*)
 
 ***TM*** Tarif du Mexique. (*MT*)
 
 ***TMÉU*** Tarif Mexique–États-Unis. (*MUST*)
 
+***TMXGP***   Tarif global et progressiste du Mexique. (*CPMXT*)
+
+***TMYGP***   Tarif global et progressiste de la Malaisie. (*CPMYT*)
+
 ***TN*** Tarif de la Norvège. (*NT*)
 
 ***TNZ*** Tarif de la Nouvelle-Zélande. (*NZT*)
+
+***TNZGP***  Tarif global et progressiste de la Nouvelle-Zélande. (*CPNZT*)
 
 ***TP*** Tarif du Pérou. (*PT*)
 
@@ -685,14 +718,22 @@ Suisse
 
 ***TPAC*** Tarif des pays antillais du Commonwealth. (*CCCT*)
 
+***TPEGP***   Tarif global et progressiste du Pérou. (*CPPET*)
+
 ***TPG*** Tarif de préférence général. (*GPT*)
 
 ***TPMD*** Tarif des pays les moins développés. (*LDCT*)
 
+***TPTGP***   Tarif du partenariat transpacifique global et progressiste. (*CPTPT*)
+
+***TSGGP***   Tarif global et progressiste de Singapour. (*CPSGT*)
+
 ***TSL*** Tarif de Suisse-Liechtenstein. (*SLT*)
 
 ***TUA*** Tarif de l’Ukraine. (*UAT*)
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 6, art. 96, ch. 8, art. 35.
+
+***TVNGP***   Tarif global et progressiste du Vietnam. (*CPVNT*)
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46; 2017, ch. 6, art. 96, ch. 8, art. 35; 2018, ch. 23, art. 42.
 
 
 
@@ -2038,6 +2079,1227 @@ Suisse
 
 
 
+#### Tarif du partenariat transpacifique global et progressiste
+
+
+
+**Application du TPTGP**
+
+**52.6** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif du partenariat transpacifique global et progressiste sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TPTGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPTGP » pour des marchandises qui bénéficient du tarif du partenariat transpacifique global et progressiste, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TPTGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPTGP » pour des marchandises qui bénéficient du tarif du partenariat transpacifique global et progressiste, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TPTGP**
+
+- **(4)** Dans les cas où « X1 », « X2 », « X3 », « X4 », « X5 », « X6 » ou « X7 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPTGP » pour des marchandises qui bénéficient du tarif du partenariat transpacifique global et progressiste, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X1 » :
+		- **(i)** à compter de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur de cet accord, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur de cet accord, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X2 » :
+		- **(i)** à compter de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur de cet accord, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur de cet accord, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur de cet accord, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur de cet accord, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X3 » :
+		- **(i)** à compter de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur de cet accord, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur de cet accord, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur de cet accord, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur de cet accord, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur de cet accord, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X4 » :
+		- **(i)** à compter de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur de cet accord, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur de cet accord, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur de cet accord, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur de cet accord, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur de cet accord, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur de cet accord, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur de cet accord, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de l’entrée en vigueur de cet accord, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de l’entrée en vigueur de cet accord, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X5 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de l’entrée en vigueur de cet accord, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de l’entrée en vigueur de cet accord, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X6 » :
+		- **(i)** à compter de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X7 » :
+		- **(i)** à compter de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur de cet accord, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur de cet accord, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur de cet accord, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur de cet accord, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.61** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif du partenariat transpacifique global et progressiste à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif du partenariat transpacifique global et progressiste;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste de l’Australie
+
+
+
+**Application du TAUGP**
+
+**52.62** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste de l’Australie sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TAUGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TAUGP » pour des marchandises qui bénéficient du tarif global et progressiste de l’Australie, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TAUGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TAUGP » pour des marchandises qui bénéficient du tarif global et progressiste de l’Australie, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TAUGP**
+
+- **(4)** Dans les cas où « X8 », « X9 », « X10 », « X11 », « X12 », « X13 » ou « X14 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TAUGP » pour des marchandises qui bénéficient du tarif global et progressiste de l’Australie, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X8 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X9 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X10 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X11 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X12 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X13 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X14 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.63** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste de l’Australie à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et l’Australie.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de l’Australie;
+	- **c)** peut soustraire les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste du Brunéi
+
+
+
+**Application du TBNGP**
+
+**52.64** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste du Brunéi sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TBNGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TBNGP » pour des marchandises qui bénéficient du tarif global et progressiste du Brunéi, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TBNGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TBNGP » pour des marchandises qui bénéficient du tarif global et progressiste du Brunéi, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TBNGP**
+
+- **(4)** Dans les cas où « X15 », « X16 », « X17 », « X18 », « X19 », « X20 » ou « X21 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TBNGP » pour des marchandises qui bénéficient du tarif global et progressiste du Brunéi, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X15 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X16 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X17 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X18 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X19 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X20 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X21 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.65** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste du Brunéi à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Brunéi.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Brunéi;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste du Chili
+
+
+
+**Application du TCLGP**
+
+**52.66** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste du Chili sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TCLGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCLGP » pour des marchandises qui bénéficient du tarif global et progressiste du Chili, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TCLGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCLGP » pour des marchandises qui bénéficient du tarif global et progressiste du Chili, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TCLGP**
+
+- **(4)** Dans les cas où « X22 », « X23 », « X24 », « X25 », « X26 », « X27 » ou « X28 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCLGP » pour des marchandises qui bénéficient du tarif global et progressiste du Chili, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X22 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X23 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X24 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X25 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X26 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X27 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X28 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.67** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste du Chili à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Chili.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Chili;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste du Japon
+
+
+
+**Application du TJPGP**
+
+**52.68** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste du Japon sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TJPGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TJPGP » pour des marchandises qui bénéficient du tarif global et progressiste du Japon, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TJPGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TJPGP » pour des marchandises qui bénéficient du tarif global et progressiste du Japon, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TJPGP**
+
+- **(4)** Dans les cas où « X29 », « X30 », « X31 », « X32 », « X33 », « X34 » ou « X35 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TJPGP » pour des marchandises qui bénéficient du tarif global et progressiste du Japon, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X29 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X30 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X31 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X32 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X33 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X34 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X35 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.69** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste du Japon à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Japon.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Japon;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste de la Malaisie
+
+
+
+**Application du TMYGP**
+
+**52.7** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste de la Malaisie sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TMYGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TMYGP » pour des marchandises qui bénéficient du tarif global et progressiste de la Malaisie, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TMYGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TMYGP » pour des marchandises qui bénéficient du tarif global et progressiste de la Malaisie, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TMYGP**
+
+- **(4)** Dans les cas où « X36 », « X37 », « X38 », « X39 », « X40 », « X41 » ou « X42 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TMYGP » pour des marchandises qui bénéficient du tarif global et progressiste de la Malaisie, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X36 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X37 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X38 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X39 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X40 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X41 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X42 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.71** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste de la Malaisie à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Malaisie.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de la Malaisie;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste du Mexique
+
+
+
+**Application du TMXGP**
+
+**52.72** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste du Mexique sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TMXGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TMXGP » pour des marchandises qui bénéficient du tarif global et progressiste du Mexique, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TMXGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TMXGP » pour des marchandises qui bénéficient du tarif global et progressiste du Mexique, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TMXGP**
+
+- **(4)** Dans les cas où « X43 », « X44 », « X45 », « X46 », « X47 », « X48 » ou « X49 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TMXGP » pour des marchandises qui bénéficient du tarif global et progressiste du Mexique, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X43 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X44 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X45 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X46 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X47 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X48 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X49 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.73** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste du Mexique à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Mexique.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Mexique;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste de la Nouvelle-Zélande
+
+
+
+**Application du TNZGP**
+
+**52.74** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste de la Nouvelle-Zélande sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TNZGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TNZGP » pour des marchandises qui bénéficient du tarif global et progressiste de la Nouvelle-Zélande, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TNZGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TNZGP » pour des marchandises qui bénéficient du tarif global et progressiste de la Nouvelle-Zélande, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TNZGP**
+
+- **(4)** Dans les cas où « X50 », « X51 », « X52 », « X53 », « X54 », « X55 » ou « X56 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TNZGP » pour des marchandises qui bénéficient du tarif global et progressiste de la Nouvelle-Zélande, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X50 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X51 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X52 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X53 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X54 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X55 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X56 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.75** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste de la Nouvelle-Zélande à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et la Nouvelle-Zélande.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de la Nouvelle-Zélande;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste du Pérou
+
+
+
+**Application du TPEGP**
+
+**52.76** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste du Pérou sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TPEGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPEGP » pour des marchandises qui bénéficient du tarif global et progressiste du Pérou, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TPEGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPEGP » pour des marchandises qui bénéficient du tarif global et progressiste du Pérou, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TPEGP**
+
+- **(4)** Dans les cas où « X57 », « X58 », « X59 », « X60 », « X61 », « X62 » ou « X63 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TPEGP » pour des marchandises qui bénéficient du tarif global et progressiste du Pérou, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X57 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X58 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X59 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X60 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X61 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X62 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X63 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.77** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste du Pérou à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Pérou.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Pérou;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste de Singapour
+
+
+
+**Application du TSGGP**
+
+**52.78** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste de Singapour sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TSGGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TSGGP » pour des marchandises qui bénéficient du tarif global et progressiste de Singapour, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TSGGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TSGGP » pour des marchandises qui bénéficient du tarif global et progressiste de Singapour, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TSGGP**
+
+- **(4)** Dans les cas où « X64 », « X65 », « X66 », « X67 », « X68 », « X69 » ou « X70 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TSGGP » pour des marchandises qui bénéficient du tarif global et progressiste de Singapour, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X64 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X65 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X66 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X67 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X68 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X69 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X70 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.79** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste de Singapour à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et Singapour.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste de Singapour;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+#### Tarif global et progressiste du Vietnam
+
+
+
+**Application du TVNGP**
+
+**52.8** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif global et progressiste du Vietnam sont passibles des taux de ce tarif.
+
+**Taux final « A » pour le TVNGP**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TVNGP » pour des marchandises qui bénéficient du tarif global et progressiste du Vietnam, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TVNGP**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TVNGP » pour des marchandises qui bénéficient du tarif global et progressiste du Vietnam, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TVNGP**
+
+- **(4)** Dans les cas où « X71 », « X72 », « X73 », « X74 », « X75 », « X76 » ou « X77 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TVNGP » pour des marchandises qui bénéficient du tarif global et progressiste du Vietnam, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « X71 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **b)** dans le cas de « X72 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, aux cinq sixièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux deux tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, au tiers du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au sixième du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **c)** dans le cas de « X73 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **d)** dans le cas de « X74 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, aux dix onzièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, aux neuf onzièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, aux huit onzièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, aux sept onzièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, aux six onzièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de la prise d’effet, aux cinq onzièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de la prise d’effet, aux quatre onzièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de la prise d’effet, aux trois onzièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet, aux deux onzièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, au onzième du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **e)** dans le cas de « X75 » :
+		- **(i)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, aux trois quarts du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de la prise d’effet, à la moitié du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de la prise d’effet, au quart du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **f)** dans le cas de « X76 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, au quart du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de la prise d’effet, au taux final, la franchise en douane;
+	- **g)** dans le cas de « X77 » :
+		- **(i)** à compter de la date de prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam, à un taux de 5,5 pour cent,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de la prise d’effet, à un taux de 5,0 pour cent,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de la prise d’effet, à un taux de 2,5 pour cent,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de la prise d’effet, à un taux de 2,0 pour cent,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de la prise d’effet, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction de un pour cent**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent, il est arrondi au dixième de un pour cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) ou arrondi en application du paragraphe (6) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(8)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement, sauf en ce qui concerne les véhicules automobiles des positions n<sup>os</sup> 87.01, 87.02, 87.03, 87.04 ou 87.05.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
+**Octroi du bénéfice**
+
+**52.81** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour accorder le bénéfice du tarif global et progressiste du Vietnam à tout ou partie des marchandises originaires d’un pays PTPGP.
+
+**Rétroactivité des décrets**
+
+- **(2)** Les décrets pris en vertu du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date de la prise d’effet de l’Accord de partenariat transpacifique global et progressiste entre le Canada et le Vietnam.
+
+**Contenu du décret**
+
+- **(3)** Le cas échéant, le décret :
+	- **a)** précise la date de sa prise d’effet;
+	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif global et progressiste du Vietnam;
+	- **c)** peut exempter les marchandises des conditions prévues au paragraphe 24(1) et fixer les conditions de l’exemption.
+> 2018, ch. 23, art. 43.
+
+
+
+
+
 **SECTION 4** 
 ### Mesures spéciales, mesures d’urgence et mesures de sauvegarde
 
@@ -2451,7 +3713,7 @@ Pérou
 
 
 
-#### Mesures d’urgence bilatérales : Chili
+#### Mesures d’urgence bilatérales : Chili
 
 
 
@@ -2533,7 +3795,7 @@ Pérou
 
 
 
-#### Mesures d’urgence bilatérales : Costa Rica
+#### Mesures d’urgence bilatérales : Costa Rica
 
 
 
@@ -3052,7 +4314,45 @@ Pérou
 
 
 
-**76** [Abrogé, 2011, ch. 24, art. 128]
+
+#### Mesures d’urgence : Pays PTPGP
+
+
+
+**Décret de mesures temporaires**
+
+**76** 
+
+- **(1)** Sous réserve des paragraphes (2) à (5), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.0193(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.082) de cette loi, que des marchandises sont, du fait qu’elles bénéficient d’un tarif PTPGP, importées en quantité tellement accrue, dans l’absolu ou par rapport à la production nationale, et dans des conditions telles qu’elles constituent une cause de dommage grave, ou de menace d’un dommage grave, pour une branche de production nationale qui produit un produit similaire ou directement concurrent, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises en vertu des dispositions de la présente loi donnant effet à ce tarif PTPGP;
+	- **b)** assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est au moment de la prise du décret.
+
+**Période d’application**
+
+- **(2)** Le décret visé au paragraphe (1) demeure en vigueur pour la période qui y est spécifiée et qui ne peut dépasser :
+	- **a)** trois ans, dans le cas où les marchandises en cause sont des véhicules automobiles de la position 87.03 importés du Japon;
+	- **b)** deux ans, dans le cas de toute autre marchandise.
+
+**Prorogation de la période d’application**
+
+- **(3)** Si, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur sur une plainte déposée en vertu de l’article 30.07 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), le gouverneur en conseil est convaincu que la prorogation est nécessaire afin de prévenir ou de réparer un dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes et de leur permettre de procéder à des ajustements, il peut, sur recommandation du ministre, par décret, proroger la période d’application d’un décret pris en vertu du paragraphe (1), la période totale ne pouvant toutefois dépasser, selon le cas :
+	- **a)** cinq ans, dans le cas où les marchandises en cause sont des véhicules automobiles de la position 87.03 importés du Japon;
+	- **b)** trois ans, dans le cas de toute autre marchandise.
+
+**Modalités**
+
+- **(4)** Le décret visé au paragraphe (1) :
+	- **a)** ne peut être pris plus d’une fois à l’égard des marchandises d’une nature donnée, à l’exception des véhicules automobiles de la position 87.03 importés du Japon;
+	- **b)** peut être en vigueur pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant :
+		- **(i)** s’il a trait à des marchandises — à l’exclusion des véhicules automobiles de la position 87.03 importés du Japon — pour lesquelles le taux du tarif PTPGP applicable est réduit au taux final, la franchise en douane, à la date du troisième anniversaire de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste,
+		- **(ii)** s’il a trait à des marchandises — à l’exclusion des véhicules automobiles de la position 87.03 importés du Japon — pour lesquelles, à la date du troisième anniversaire de l’entrée en vigueur de l’Accord de partenariat transpacifique global et progressiste, le taux du tarif PTPGP applicable n’est pas réduit au taux final, la franchise en douane, à la date où le taux du tarif PTPGP applicable est réduit au taux final, la franchise en douane,
+		- **(iii)** s’il a trait à des véhicules automobiles de la position 87.03 importés du Japon, à la date du douzième anniversaire du jour où le taux d’un tarif PTPGP à l’égard de ces marchandises est réduit au taux final, la franchise en douane.
+
+**Taux à la cessation d’effet**
+
+- **(5)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui qui s’applique conformément aux dispositions de la présente loi donnant effet au tarif PTPGP applicable à ces marchandises.
+> 1997, ch. 36, art. 76; 2011, ch. 24, art. 128; 2018, ch. 23, art. 44.
+
 
 
 
@@ -3060,7 +4360,36 @@ Pérou
 
 
 
-**77** [Abrogé, 2011, ch. 24, art. 128]
+
+#### Mesures d’urgences visant les produits textiles et vêtements importés d’un pays PTPGP
+
+
+
+**Décret**
+
+**77** 
+
+- **(1)** Sous réserve des paragraphes (2) à (5), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement soit d’un rapport du ministre établi par suite d’une plainte déposée en vertu du paragraphe 23(1.083) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), soit d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.83) de cette loi, que des produits textiles et vêtements bénéficiant d’un tarif PTPGP et figurant à l’annexe 4-A du PTP, au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md), sont importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur pour de telles marchandises, et dans des conditions telles que leur importation cause un préjudice grave ou menace réellement de causer un tel préjudice aux producteurs nationaux de marchandises similaires ou directement concurrentes, il peut, sur recommandation du ministre, par décret assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est au moment de la prise du décret.
+
+**Période d’application**
+
+- **(2)** Le décret visé au paragraphe (1) demeure en vigueur pendant la période, d’au plus deux ans, qui y est spécifiée.
+
+**Prorogation de la période d’application**
+
+- **(3)** Le gouverneur en conseil peut, sur recommandation du ministre, par décret, proroger la période d’application d’un décret pris en vertu du paragraphe (1), la période totale ne pouvant toutefois dépasser quatre ans.
+
+**Modalités**
+
+- **(4)** Le décret visé au paragraphe (1) :
+	- **a)** ne peut être pris plus d’une fois à l’égard des marchandises d’une nature donnée;
+	- **b)** peut être en vigueur pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant à la date du cinquième anniversaire du jour où le taux d’un tarif PTPGP à l’égard de ces marchandises est réduit au taux final, la franchise en douane.
+
+**Taux à la cessation d’effet**
+
+- **(5)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui qui s’applique conformément aux dispositions de la présente loi donnant effet au tarif PTPGP applicable à ces marchandises.
+> 1997, ch. 36, art. 77; 2011, ch. 24, art. 128; 2018, ch. 23, art. 44.
+
 
 
 
@@ -3412,7 +4741,11 @@ Pérou
 **Cessation d’effet**
 
 - **(6)** Le paragraphe (5) cesse d’avoir effet à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur du présent paragraphe.
-> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53; 2017, ch. 6, art. 99.
+
+**Marchandises du n<sup>o</sup> tarifaire 9971.00.00 — pays PTPGP**
+
+- **(7)** Malgré le paragraphe 20(2), la valeur en douane des marchandises du n<sup>o</sup> tarifaire 9971.00.00 qui bénéficient d’un tarif PTPGP est la valeur des réparations ou modifications dont elles ont fait l’objet dans un pays PTPGP.
+> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53; 2017, ch. 6, art. 99; 2018, ch. 23, art. 45.
 
 
 
@@ -4375,6 +5708,8 @@ pays ALÉNA
 
 pays de l’Union européenne ou autre bénéficiaire de l’AÉCG
 
+pays PTPGP
+
 Pérou
 
 Suisse
@@ -4400,6 +5735,8 @@ pays ALÉNA
 
 pays de l’Union européenne ou autre bénéficiaire de l’AÉCG
 
+pays PTPGP
+
 Pérou
 
 
@@ -4408,7 +5745,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F); 2017, ch. 6, art. 106.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F); 2017, ch. 6, art. 106; 2018, ch. 23, art. 46.
 
 
 
