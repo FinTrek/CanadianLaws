@@ -85,6 +85,10 @@
 
 ***CPFTA*** has the same meaning as Agreement in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md); (*ALÉCP*)
 
+***CPTPP*** has the same meaning as Agreement in section 2 of the [Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](/en/Acts/Statutes%20of%20Canada/2018/c.%2023.md); (*PTPGP*)
+
+***CPTPP country*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); (*pays PTPGP*)
+
 ***CUFTA*** has the same meaning as Agreement in section 2 of the [Canada–Ukraine Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2017/c.%208.md); (*ALÉCU*)
 
 ***customs office*** means a place designated as a customs office by the Minister under section 5; (*bureau de douane*)
@@ -281,7 +285,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115, c. 16, s. 169.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26; 2017, c. 6, s. 82, c. 8, s. 20; 2018, c. 12, s. 115, c. 16, s. 169, c. 23, s. 20.
 
 
 
@@ -1568,6 +1572,10 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 - **(3)** Subject to any regulations made under subsection (4), proof of origin of goods shall be furnished under subsection (1) by the importer or owner thereof.
 
+**Certificate of origin completed by importer**
+
+- **(3.1)** If an importer of goods for which preferential tariff treatment under the CPTPP will be claimed is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, the importer shall do so in writing, in the prescribed form and containing the prescribed information, and on the basis of supporting documents that the importer has or supporting documents that are provided by the exporter or producer.
+
 **Regulations**
 
 - **(4)** The Governor in Council, on the recommendation of the Minister and the Minister of Finance, may make regulations
@@ -1580,7 +1588,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(5)** Preferential tariff treatment under a free trade agreement may be denied or withdrawn in respect of goods for which that treatment is claimed if the importer, owner or other person required to furnish proof of origin of the goods under this section fails to comply with any provision of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or any regulation made under either of those Acts, concerning that preferential tariff treatment.
 
 - **(6)** [Repealed, 1997, c. 14, s. 37]
-> 1988, c. 65, s. 69; 1992, c. 28, s. 9; 1993, c. 44, s. 84; 1996, c. 33, s. 30; 1997, c. 14, s. 37; 2012, c. 18, s. 25(F).
+> 1988, c. 65, s. 69; 1992, c. 28, s. 9; 1993, c. 44, s. 84; 1996, c. 33, s. 30; 1997, c. 14, s. 37; 2012, c. 18, s. 25(F); 2018, c. 23, s. 21.
 
 
 
@@ -1804,7 +1812,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Withdrawal of preferential tariff treatment**
 
-- **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
+- **(2)** If an exporter, producer or prescribed importer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
 
 **Withdrawal of preferential tariff treatment under CEFTA**
 
@@ -1814,7 +1822,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(a.2)** in the case of CETA, if the EU country or other CETA beneficiary of export fails to conduct a verification or provide a written report as to whether the goods are originating;
 	- **(b)** if an officer or other person designated under subsection (1.1) is unable to determine whether the goods are originating; or
 	- **(c)** in any other prescribed circumstances.
-> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 6, s. 83, c. 8, ss. 21, 43.
+> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24; 2017, c. 6, s. 83, c. 8, ss. 21, 43; 2018, c. 23, s. 22.
 
 
 
@@ -1828,12 +1836,12 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **42.2** 
 
-- **(1)** On completion of a verification of origin under paragraph 42.1(1)(a), an officer designated under subsection 42.1(1) shall provide the exporter or producer whose goods are subject to the verification of origin with a statement as to whether the goods are eligible, under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), for the preferential tariff treatment that was claimed.
+- **(1)** On completion of a verification of origin under paragraph 42.1(1)(a), an officer designated under subsection 42.1(1) shall provide the exporter, producer or prescribed importer whose goods are subject to the verification of origin with a statement as to whether the goods are eligible, under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), for the preferential tariff treatment that was claimed.
 
 **Basis of statement**
 
 - **(2)** A statement referred to in subsection (1) must include any findings of fact or law on which it was based.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 162; 2012, c. 18, s. 26(F).
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 162; 2012, c. 18, s. 26(F); 2018, c. 23, s. 23.
 
 
 
@@ -1886,8 +1894,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Denial or withdrawal of benefit — specified countries**
 
-- **(2)** Notwithstanding section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter or producer of the goods has made false representations that identical goods exported or produced by that exporter or producer and for which that treatment was claimed were eligible for that treatment.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 164; 2001, c. 28, s. 27; 2009, c. 16, s. 32; 2010, c. 4, s. 26; 2012, c. 18, s. 27.
+- **(2)** Despite section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter, producer or prescribed importer of the goods has made false representations that identical goods exported, produced or imported by that exporter, producer or prescribed importer and for which that treatment was claimed were eligible for that treatment.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 164; 2001, c. 28, s. 27; 2009, c. 16, s. 32; 2010, c. 4, s. 26; 2012, c. 18, s. 27; 2018, c. 23, s. 24.
 
 
 
@@ -3066,14 +3074,20 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 - **(1)** Every exporter of goods to a free trade partner for which preferential tariff treatment under a free trade agreement will be claimed in accordance with the laws of that free trade partner shall certify in writing in the prescribed form and containing the prescribed information that goods exported or to be exported from Canada to that free trade partner meet the rules of origin set out in, or contemplated by, the applicable free trade agreement and, if the exporter is not the producer of the goods, the certificate shall be completed and signed by the exporter on the basis of the prescribed criteria.
 
+**Certificate of Origin — CPTPP**
+
+- **(1.1)** If an exporter or producer of goods for which preferential tariff treatment under the CPTPP will be claimed in accordance with the laws of a CPTPP country is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, the exporter or producer shall do so in writing, in the prescribed form and containing the prescribed information, and
+	- **(a)** in the case of an exporter, on the basis of supporting information that the exporter has or by relying on supporting information that the producer has; and
+	- **(b)** in the case of a producer, on the basis of supporting information that the producer has.
+
 **Provision of copy of Certificate of Origin**
 
-- **(2)** Every exporter or producer of goods who, for the purpose of enabling any person to comply with the applicable laws relating to customs of a free trade partner, completes and signs a certificate in accordance with subsection (1) shall, at the request of an officer, provide the officer with a copy of the certificate.
+- **(2)** Every exporter or producer of goods who, for the purpose of enabling any person to comply with the applicable laws relating to customs of a free trade partner, completes and signs a certificate in accordance with subsection (1) or (1.1) shall, at the request of an officer, provide the officer with a copy of the certificate.
 
 **Notification of correct information**
 
-- **(3)** A person who has completed and signed a certificate in accordance with subsection (1) and who has reason to believe that it contains incorrect information shall immediately notify all persons to whom the certificate was given of the correct information.
-> 1988, c. 65, s. 78; 1997, c. 14, s. 44; 2001, c. 25, s. 56(F).
+- **(3)** A person who has completed and signed a certificate in accordance with subsection (1) or (1.1) and who has reason to believe that it contains incorrect information shall immediately notify each person and CPTPP country to whom the certificate was given of the correct information.
+> 1988, c. 65, s. 78; 1997, c. 14, s. 44; 2001, c. 25, s. 56(F); 2018, c. 23, s. 25.
 
 
 
@@ -3087,12 +3101,12 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 **97.2** 
 
-- **(1)** Every person who exports goods or causes them to be exported for sale or for any industrial, occupational, commercial, institutional or other like use or any other use that may be prescribed, and every other person who has completed and signed a certificate in accordance with subsection 97.1(1), shall keep at the person’s place of business in Canada or at any other place that may be designated by the Minister any records in respect of those goods in the manner and for the period that may be prescribed and shall, if an officer requests, make them available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of the records.
+- **(1)** Every person who exports goods or causes them to be exported for sale or for any industrial, occupational, commercial, institutional or other like use or any other use that may be prescribed, and every other person who has completed and signed a certificate in accordance with subsection 97.1(1) or (1.1), shall keep at the person’s place of business in Canada or at any other place that may be designated by the Minister any records in respect of those goods in the manner and for the period that may be prescribed and shall, if an officer requests, make them available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of the records.
 
 **Idem**
 
 - **(2)** Subsection 40(2) and sections 42 and 43 apply, with such modifications as the circumstances require, to a person required to keep records pursuant to subsection (1).
-> 1988, c. 65, s. 78; 1993, c. 44, s. 104; 1996, c. 33, s. 38; 1997, c. 14, s. 45; 2001, c. 25, s. 57.
+> 1988, c. 65, s. 78; 1993, c. 44, s. 104; 1996, c. 33, s. 38; 1997, c. 14, s. 45; 2001, c. 25, s. 57; 2018, c. 23, s. 26.
 
 
 
@@ -6098,6 +6112,11 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Costa Rica Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
 </tr>
 <tr>
+<td>CPTPP country</td>
+<td>CPTPP</td>
+<td>CPTPP tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
+</tr>
+<tr>
 <td>EFTA State</td>
 <td>CEFTA</td>
 <td>Iceland Tariff, Norway Tariff or Switzerland– Liechtenstein Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)</td>
@@ -6192,6 +6211,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Article 423</td>
 </tr>
 <tr>
+<td>CPTPP</td>
+<td>paragraph 12 of Article 3.27 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1</td>
+</tr>
+<tr>
 <td>NAFTA</td>
 <td>Article 514</td>
 </tr>
@@ -6270,6 +6293,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <tr>
 <td>Costa Rica</td>
 <td>CCRFTA</td>
+</tr>
+<tr>
+<td>CPTPP country</td>
+<td>CPTPP</td>
 </tr>
 <tr>
 <td>EFTA State</td>
@@ -6356,6 +6383,10 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 <td>Chapter Four</td>
 </tr>
 <tr>
+<td>CPTPP</td>
+<td>Chapters 3 to 5 of the Trans-Pacific Partnership Agreement as incorporated by reference into the Agreement by Article 1</td>
+</tr>
+<tr>
 <td>CUFTA</td>
 <td>Chapters 3 and 4</td>
 </tr>
@@ -6365,6 +6396,6 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 </tr>
 </table>
 
-> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 6, ss. 86 to 89, c. 8, ss. 23 to 26.
+> R.S., 1985, c. 1 (2nd Supp.), Sch.; 2012, c. 18, s. 31, c. 26, ss. 37, 62; 2014, c. 14, ss. 25 to 29, c. 28, s. 27 to 31; 2017, c. 6, ss. 86 to 89, c. 8, ss. 23 to 26; 2018, c. 23, ss. 27 to 30.
 
 
