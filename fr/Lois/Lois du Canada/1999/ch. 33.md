@@ -7985,10 +7985,15 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 - **16** Composés du mercure, y compris composés inorganiques et composés du type alkylmercure, alkyloxyalkyle et arylmercure
 - **17** Pentachlorophénol et ses sels et esters
 - **18** Monocrotophos (CAS 6923-22-4)
-- **19** Methamidophos (formulations liquides solubles de la substance qui contiennent plus de 600 g de principe actif par litre) (CAS 10265-92-6)
+- **19** Méthamidophos (CAS 10265-92-6)
 - **20** Concentrés émulsifiables contenant 19,5 % ou plus de méthyle parathion et poudres contenant 1,5 % ou plus de méthyle parathion (CAS 298-00-0)
 - **21** Parathion (CAS 56-38-2)
-- **22** Crocidolite (CAS 12001-28-4)
+- **22** Les formes d’amiante suivantes :
+- **a)** l’actinolite (CAS 77536-66-4)
+- **b)** l’anthophyllite (CAS 77536-67-5)
+- **c)** l’amosite (CAS 12172-73-5)
+- **d)** la crocidolite (CAS 12001-28-4)
+- **e)** la trémolite (CAS 77536-68-6)
 - **23** Biphényles polychlorés (BPC) (CAS 1336-36-3)
 - **24** Phosphate de tri - 2,3 dibromopropyle (CAS 126-72-7)
 - **25** [Abrogé, DORS/2012-164, art. 8]
@@ -8029,15 +8034,13 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 
 
 
-- **1** Les chlorofluorocarbures complètement halogénés dont la formule moléculaire est C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub> où « n » est plus petit ou égal à 3 et « x » est plus grand ou égal à 1 et plus petit que « 2n+2 », « x » représentant également le nombre d’atomes
+- **1** [Abrogé, DORS/2018-193, art. 3]
 - **2** Alcool allylique (2-propène-1-ol) (CAS 107-18-6)
-- **3** Tétrachlorure de carbone (tétrachlorométhane) (CAS 56-23-5)
+- **3** [Abrogé, DORS/2018-193, art. 3]
 - **4** DBCP (dibromo-1,2 chloro-3 propane) (CAS 96-12-8)
 - **5** Arséniate de plomb, dont la formule moléculaire est PbHAsO<sub>4</sub>, et sa forme basique, dont la formule moléculaire est Pb<sub>4</sub>(PbOH)(AsO<sub>4</sub>)<sub>3</sub> (CAS 7784-40-9; CAS 1327-31-7)
 - **6** Strychnine (CAS 57-24-9)
-- **7** Bromochlorodifluorométhane dont la formule moléculaire est CF<sub>2</sub>BrCl (CAS 353-59-3)
-- **8** Bromotrifluorométhane dont la formule moléculaire est CF<sub>3</sub>Br (CAS 75-63-8)
-- **9** Dibromotétrafluoroéthane dont la formule moléculaire est C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub> (CAS 124-73-2)
+- **7 à 9** [Abrogés, DORS/2018-193, art. 3]
 - **10** Chlorure de tributyltétradécylphosphonium (CAS 81741-28-8)
 - **11** Benzidine et dichlorhydrate de benzidine, dont les formules moléculaires sont respectivement C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> et C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>×2HCl (CAS 92-87-5; CAS 531-85-1)
 - **12** 2-Méthoxyéthanol, dont la formule moléculaire est C<sub>3</sub>H<sub>8</sub>O<sub>2</sub> (CAS 109-86-4)
@@ -8046,9 +8049,10 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 - **15 à 17** [Abrogés, DORS/2015-8, art. 3]
 - **18** Phorate (CAS 298-02-2)
 - **19** Terbufos (CAS 13071-79-9)
+- **20** Amiante chrysotile (CAS 12001-29-5)
 
 
-> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99; DORS/2015-8; DORS/2016-327.
+> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99; DORS/2015-8; DORS/2016-327; DORS/2018-193.
 
 
 
