@@ -1507,7 +1507,7 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 <th>Disposition</th>
 </tr>
 <tr>
-<td>Accord ALÉNA au sens du paragraphe 24(4) de la présente loi 
+<td>Accord ALÉNA au sens du paragraphe 24(4) de la présente loi
 
 </td>
 <td>Article 201</td>
@@ -1548,8 +1548,16 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 </td>
 <td>Article 1.8</td>
 </tr>
+<tr>
+<td>Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md)
+
+</td>
+<td>Article 1.3 du PTP au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md)
+
+</td>
+</tr>
 </table>
 
-> 2017, ch. 6, art. 81.
+> 2017, ch. 6, art. 81; 2018, ch. 23, art. 19.
 
 
