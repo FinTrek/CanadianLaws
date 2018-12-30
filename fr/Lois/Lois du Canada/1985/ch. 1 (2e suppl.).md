@@ -173,6 +173,8 @@
 
 ***pays de l’Union européenne ou autre bénéficiaire de l’AÉCG*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*EU country or other CETA beneficiary*)
 
+***pays PTPGP*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*CPTPP country*) 
+
 ***Pérou*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Peru*)
 
 ***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. (*person*)
@@ -184,6 +186,8 @@
 ***produit du cannabis*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*cannabis product*)
 
 ***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*tobacco product*)
+
+***PTPGP*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de partenariat transpacifique global et progressiste](/fr/Lois/Lois%20du%20Canada/2018/ch.%2023.md). (*CPTPP*) 
 
 ***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi. (*regulation*)
 
@@ -228,7 +232,7 @@
 
 ***traitement tarifaire préférentiel de l’ALÉNA***[Abrogée, 2012, ch. 18, art. 24]
 
-***Ukraine*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Ukraine*)
+***Ukraine*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*Ukraine*)
 
 ***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*licensed user*)
 
@@ -281,7 +285,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115, ch. 16, art. 169.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26; 2017, ch. 6, art. 82, ch. 8, art. 20; 2018, ch. 12, art. 115, ch. 16, art. 169, ch. 23, art. 20.
 
 
 
@@ -1560,6 +1564,10 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 - **(3)** Sous réserve des règlements d’application du paragraphe (4), l’importateur ou le propriétaire des marchandises est tenu d’en justifier l’origine dans les conditions prévues au paragraphe (1).
 
+**Certification de l’origine par l’importateur**
+
+- **(3.1)** L’importateur de marchandises pour lesquelles sera demandé le traitement tarifaire préférentiel découlant du PTPGP qui certifie que ces marchandises sont conformes aux règles d’origine prévues par le PTPGP, le fait par écrit en la forme et avec les renseignements déterminés par le ministre et en se fondant sur les documents justificatifs en sa possession ou ceux fournis par l’exportateur ou le producteur.
+
 **Règlements**
 
 - **(4)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre et du ministre des Finances :
@@ -1572,7 +1580,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **(5)** Le traitement tarifaire préférentiel découlant d’un accord de libre-échange peut être refusé ou retiré à des marchandises pour lesquelles ce traitement est demandé dans le cas où leur importateur ou leur propriétaire, ou la personne tenue de justifier leur origine en application du présent article, ne se conforme pas à une disposition quelconque de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou des règlements d’application de l’une ou l’autre de ces lois concernant l’application de ce traitement à ces marchandises.
 
 - **(6)** [Abrogé, 1997, ch. 14, art. 37]
-> 1988, ch. 65, art. 69; 1992, ch. 28, art. 9; 1993, ch. 44, art. 84; 1996, ch. 33, art. 30; 1997, ch. 14, art. 37; 2012, ch. 18, art. 25(F).
+> 1988, ch. 65, art. 69; 1992, ch. 28, art. 9; 1993, ch. 44, art. 84; 1996, ch. 33, art. 30; 1997, ch. 14, art. 37; 2012, ch. 18, art. 25(F); 2018, ch. 23, art. 21.
 
 
 
@@ -1796,7 +1804,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Retrait du traitement tarifaire préférentiel**
 
-- **(2)** Dans le cas où l’exportateur ou le producteur ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé en vertu d’un accord de libre-échange qui n’est pas un accord de libre-échange mentionné au paragraphe (1.1) peut être refusé ou retiré aux marchandises en cause.
+- **(2)** Dans le cas où l’exportateur, le producteur, ou l’importateur visé par règlement, ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé en vertu d’un accord de libre-échange qui n’est pas un accord de libre-échange mentionné au paragraphe (1.1) peut être refusé ou retiré aux marchandises en cause.
 
 **Retrait du traitement tarifaire préférentiel : certains accords**
 
@@ -1806,7 +1814,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **a.2)** s’agissant de l’AÉCG, l’État d’exportation — pays de l’Union européenne ou autre bénéficiaire de l’AÉCG — omet d’effectuer une vérification ou de fournir un rapport écrit indiquant si les marchandises sont originaires;
 	- **b)** l’agent ou l’autre personne visé au paragraphe (1.1) n’est pas en mesure d’établir si les marchandises sont originaires;
 	- **c)** tout autre cas prévu par règlement.
-> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 6, art. 83, ch. 8, art. 21 et 43.
+> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24; 2017, ch. 6, art. 83, ch. 8, art. 21 et 43; 2018, ch. 23, art. 22.
 
 
 
@@ -1820,12 +1828,12 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **42.2** 
 
-- **(1)** Dès l’achèvement de la vérification de l’origine en application de l’alinéa 42.1(1)a), l’agent désigné, en application du paragraphe 42.1(1), fournit à l’exportateur ou au producteur des marchandises en cause une déclaration établissant si celles-ci sont admissibles, au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), au traitement tarifaire préférentiel demandé.
+- **(1)** Dès l’achèvement de la vérification de l’origine en application de l’alinéa 42.1(1)a), l’agent désigné, en application du paragraphe 42.1(1), fournit à l’exportateur, au producteur, ou à l’importateur visé par règlement, des marchandises en cause une déclaration établissant si celles-ci sont admissibles, au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), au traitement tarifaire préférentiel demandé.
 
 **Fondements de la déclaration**
 
 - **(2)** La déclaration prévue au paragraphe (1) énonce les faits et les éléments de droit sur lesquels elle est fondée.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 162; 2012, ch. 18, art. 26(F).
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 162; 2012, ch. 18, art. 26(F); 2018, ch. 23, art. 23.
 
 
 
@@ -1878,8 +1886,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Refus ou retrait : certains pays**
 
-- **(2)** Par dérogation à l’article 24 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), le ministre peut refuser ou retirer, sous réserve des conditions réglementaires éventuelles, le traitement tarifaire préférentiel prévu par un accord mentionné à la colonne 1 de la partie 2 de l’annexe à des marchandises pour lesquelles ce traitement est demandé dans le cas où l’exportateur ou le producteur des marchandises a fait de fausses déclarations sur l’application de ce traitement à des marchandises identiques exportées ou produites par lui pour lesquelles ce traitement avait été demandé.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 164; 2001, ch. 28, art. 27; 2009, ch. 16, art. 32; 2010, ch. 4, art. 26; 2012, ch. 18, art. 27.
+- **(2)** Malgré l’article 24 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), le ministre peut refuser ou retirer, sous réserve des conditions réglementaires, le traitement tarifaire préférentiel prévu par un accord mentionné à la colonne 1 de la partie 2 de l’annexe à des marchandises pour lesquelles ce traitement est demandé dans le cas où l’exportateur, le producteur, ou l’importateur visé par règlement, des marchandises a fait de fausses déclarations sur l’application de ce traitement à des marchandises identiques exportées, produites ou importées par lui pour lesquelles ce traitement avait été demandé.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 164; 2001, ch. 28, art. 27; 2009, ch. 16, art. 32; 2010, ch. 4, art. 26; 2012, ch. 18, art. 27; 2018, ch. 23, art. 24.
 
 
 
@@ -3055,6 +3063,10 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 - **(1)** Quiconque exporte vers un partenaire de libre-échange des marchandises pour lesquelles sera demandé le traitement tarifaire préférentiel découlant d’un accord de libre-échange conformément aux lois du lieu d’exportation est tenu de certifier par écrit, selon les modalités réglementaires, en la forme et avec les renseignements déterminés par le ministre, que les marchandises en cause sont conformes aux règles d’origine prévues par l’accord de libre-échange applicable; dans le cas où l’exportateur des marchandises n’en est pas le producteur, il remplit et signe le certificat conformément aux critères réglementaires.
 
+**Certification de l’origine : PTPGP**
+
+- **(1.1)** L’exportateur ou le producteur de marchandises pour lesquelles sera demandé, conformément aux lois du lieu d’exportation, le traitement tarifaire préférentiel découlant du PTPGP, qui certifie que ces marchandises sont conformes aux règles d’origine prévues par le PTPGP, le fait par écrit, en la forme et avec les renseignements déterminés par le ministre, et en se fondant sur les renseignements justificatifs qu’il a et, dans le cas de l’exportateur, en se fiant également à ceux du producteur.
+
 **Exemplaire du certificat**
 
 - **(2)** Tout exportateur ou producteur de marchandises qui, afin de permettre à une personne de se conformer aux lois douanières applicables au lieu d’exportation des marchandises, remplit et signe le certificat est tenu d’en fournir un exemplaire à l’agent qui en fait la demande.
@@ -3062,7 +3074,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Modification du certificat**
 
 - **(3)** La personne qui a rempli et signé le certificat et qui a des motifs de croire que celui-ci contient des renseignements inexacts communique sans délai à tout destinataire du certificat les renseignements corrigés.
-> 1988, ch. 65, art. 78; 1997, ch. 14, art. 44; 2001, ch. 25, art. 56(F).
+> 1988, ch. 65, art. 78; 1997, ch. 14, art. 44; 2001, ch. 25, art. 56(F); 2018, ch. 23, art. 25.
 
 
 
@@ -3076,12 +3088,12 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **97.2** 
 
-- **(1)** La personne qui exporte ou fait exporter des marchandises en vue de leur vente ou d’usages industriels, professionnels, commerciaux ou collectifs, ou à d’autres fins analogues ou prévues par règlement, et la personne qui a rempli et signé le certificat prévu au paragraphe 97.1(1) sont tenues de conserver en leur établissement au Canada ou en tout autre lieu désigné par le ministre, selon les modalités et pendant le délai réglementaires, les documents relatifs à ces marchandises et, à la demande de l’agent et dans le délai qu’il précise, de lui communiquer ces documents et de répondre véridiquement aux questions qu’il leur pose au sujet de ces documents.
+- **(1)** La personne qui exporte ou fait exporter des marchandises en vue de leur vente ou d’usages industriels, professionnels, commerciaux ou collectifs, ou à d’autres fins analogues ou prévues par règlement, et la personne qui a rempli et signé le certificat prévu aux paragraphes 97.1(1) ou (1.1) sont tenues de conserver en leur établissement au Canada ou en tout autre lieu désigné par le ministre, selon les modalités et pendant le délai réglementaires, les documents relatifs à ces marchandises et, à la demande de l’agent et dans le délai qu’il précise, de lui communiquer ces documents et de répondre véridiquement aux questions qu’il leur pose au sujet de ces documents.
 
 **Idem**
 
 - **(2)** Le paragraphe 40(2) et les articles 42 et 43 s’appliquent, compte tenu des adaptations de circonstance, à la personne tenue de conserver des documents en vertu du paragraphe (1).
-> 1988, ch. 65, art. 78; 1993, ch. 44, art. 104; 1996, ch. 33, art. 38; 1997, ch. 14, art. 45; 2001, ch. 25, art. 57.
+> 1988, ch. 65, art. 78; 1993, ch. 44, art. 104; 1996, ch. 33, art. 38; 1997, ch. 14, art. 45; 2001, ch. 25, art. 57; 2018, ch. 23, art. 26.
 
 
 
@@ -6118,6 +6130,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Taux de droits de douane du tarif Canada–Union européenne visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
 </tr>
 <tr>
+<td>pays PTPGP</td>
+<td>PTPGP</td>
+<td>Taux de droits de douane d’un tarif PTPGP visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) </td>
+</tr>
+<tr>
 <td>Pérou</td>
 <td>ALÉCP</td>
 <td>Taux de droits de douane du tarif du Pérou visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
@@ -6174,6 +6191,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <tr>
 <td>ALÉNA</td>
 <td>Article 514</td>
+</tr>
+<tr>
+<td>PTPGP</td>
+<td>Paragraphe 12 de l’article 3.27 de l’Accord de partenariat transpacifique dont le texte est incorporé par renvoi à l’accord au titre de son article 1</td>
 </tr>
 </table>
 
@@ -6276,6 +6297,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>AÉCG</td>
 </tr>
 <tr>
+<td>pays PTPGP</td>
+<td>PTPGP</td>
+</tr>
+<tr>
 <td>Pérou</td>
 <td>ALÉCP</td>
 </tr>
@@ -6343,8 +6368,12 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>ALÉNA</td>
 <td>Chapitres 3 et 5</td>
 </tr>
+<tr>
+<td>PTPGP</td>
+<td>Chapitres 3 à 5 de l’Accord de partenariat transpacifique dont le texte est incorporé par renvoi à l’accord au titre de son article 1</td>
+</tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 6, art. 86 à 89, ch. 8, art. 23 à 26.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31; 2017, ch. 6, art. 86 à 89, ch. 8, art. 23 à 26; 2018, ch. 23, art. 27 à 30.
 
 
