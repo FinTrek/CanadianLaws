@@ -4748,6 +4748,15 @@ Toutefois, le présent paragraphe ne limite en rien l’obligation du cédant d�
 
 
 
+**Non-application**
+
+**189.1** Malgré l’article 164.2 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador, dans le cas où zone extracôtière, au sens de l’article 2 de cette loi, est mentionnée à la partie 2 de l’annexe 1 de la présente loi, cet article 164.2 ne s’applique pas.
+> 2018, ch. 27, art. 178.
+
+
+
+
+
 **Modification de l’annexe 3**
 
 **190** 
