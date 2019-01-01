@@ -4786,6 +4786,15 @@ but nothing in this subsection limits the liability of the transferor under this
 
 
 
+**Non-application**
+
+**189.1** Despite section 164.2 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md), if the offshore area, as defined in section 2 of that Act, is mentioned in Part 2 of Schedule 1 to this Act, section 164.2 of that Act does not apply.
+> 2018, c. 27, s. 178.
+
+
+
+
+
 **Amendments to Schedule 3**
 
 **190** 
