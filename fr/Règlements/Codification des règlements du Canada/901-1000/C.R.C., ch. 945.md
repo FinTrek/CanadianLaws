@@ -784,8 +784,11 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 
 
-**203** [Abrogé, DORS/2003-5, art. 3]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2003-5, art. 3.
+
+**Obligation de produire**
+
+**203** Tout établissement qui est un établissement d’enseignement agréé, au sens du paragraphe 118.6(1) de la Loi, par l’effet de l’alinéa a) de cette définition doit présenter une déclaration de renseignements sur le formulaire prescrit relativement à chaque particulier inscrit à cet établissement qui est un étudiant admissible, au sens du même paragraphe, pour un mois d’une année d’imposition.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2003-5, art. 3; 2018, ch. 27, art. 35.
 
 
 
@@ -860,6 +863,10 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(3)** Pour l’application du paragraphe 162(7.01) de la Loi, les types de déclarations de renseignements ci-après sont visés :
 <table>
+<tr>
+<td>Certificat pour frais de scolarité et d’inscription</td>
+<td></td>
+</tr>
 <tr>
 <td>Déclaration annuelle de renseignements du compte d’épargne libre d’impôt (CELI)</td>
 <td></td>
@@ -966,7 +973,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 </tr>
 </table>
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2013-199, art. 1; DORS/2015-170, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2013-199, art. 1; DORS/2015-170, art. 2; 2018, ch. 27, art. 36.
 
 
 
@@ -979,6 +986,10 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(1)** Pour l’application du paragraphe 162(7.02) de la Loi, les types de déclarations de renseignements ci-après sont visés et, lorsque plus de 50 déclarations de renseignements d’un type de déclaration visé doivent être produites pour une année civile, les déclarations de ce type doivent être produites par Internet :
 <table>
+<tr>
+<td>Certificat pour frais de scolarité et d’inscription</td>
+<td></td>
+</tr>
 <tr>
 <td>Déclaration annuelle de renseignements du compte d’épargne libre d’impôt (CELI)</td>
 <td></td>
@@ -1083,7 +1094,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 	- **b)** une société non-résidente;
 	- **c)** la société qui produit sa déclaration en monnaie fonctionnelle au sens du paragraphe 261(1) de la Loi;
 	- **d)** la société exonérée de l’impôt en application de l’article 149 de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-20, art. 1; DORS/2011-295, art. 1; DORS/2015-140, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-20, art. 1; DORS/2011-295, art. 1; DORS/2015-140, art. 1; 2018, ch. 27, art. 37.
 
 
 
@@ -1128,7 +1139,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 **209** 
 
-- **(1)** La personne qui est tenue par les articles 200, 201, 202, 204, 212, 214, 215, 217 ou 218, par le paragraphe 223(2) ou par les articles 228, 229, 230, 232, 233 ou 234 de remplir une déclaration de renseignements doit transmettre à chaque contribuable visé par la déclaration deux copies de la partie de celle-ci qui le concerne.
+- **(1)** La personne qui est tenue par les articles 200, 201, 202, 203, 204, 212, 214, 215, 217 ou 218, par le paragraphe 223(2) ou par les articles 228, 229, 230, 232, 233 ou 234 de remplir une déclaration de renseignements doit transmettre à chaque contribuable visé par la déclaration deux copies de la partie de celle-ci qui le concerne.
 
 - **(2)** Les copies mentionnées au paragraphe (1) doivent être expédiées à la dernière adresse connue du contribuable ou lui être remises de main à main au plus tard à la date où la déclaration doit être produite au ministre.
 
@@ -1136,13 +1147,13 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(4)** Pour l’application du paragraphe (3), ***consentement exprès*** s’entend d’un consentement donné par écrit ou transmis par voie électronique.
 
-- **(5)** La personne qui est tenue de transmettre à un contribuable deux copies d’une déclaration de renseignements intitulée État de la rémunération payée (T4) selon le paragraphe (1) peut plutôt fournir par voie électronique une copie au contribuable au plus tard à la date où elle doit produire la déclaration au ministre, sauf si, selon le cas :
+- **(5)** La personne qui est tenue de transmettre à un contribuable deux copies de la déclaration de renseignements intitulée État de la rémunération payée (T4) ou du Certificat pour frais de scolarité et d’inscription, comme le prévoit le paragraphe (1), peut plutôt lui en fournir une copie par voie électronique au plus tard à la date où elle doit produire la déclaration au ministre, sauf si, selon le cas :
 	- **a)** l’un des critères déterminés selon l’article 221.01 de la Loi n’est pas rempli;
 	- **b)** le contribuable a demandé une copie papier de la déclaration;
 	- **c)** à la date où la déclaration doit être fournie, l’un des énoncés ci-après se vérifie :
-		- **(i)** le contribuable est absent pour une période prolongée ou n’est plus l’employé de la personne,
+		- **(i)** si la déclaration est un T4, le contribuable est absent pour une période prolongée ou n’est plus l’employé de la personne,
 		- **(ii)** on ne peut raisonnablement s’attendre à ce que le contribuable ait accès à la déclaration par voie électronique.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 1; DORS/87-512, art. 1; DORS/89-519, art. 1; DORS/92-455, art. 1; DORS/93-527, art. 3; DORS/2003-5, art. 4; 2009, ch. 2, art. 85; DORS/2010-93, art. 3; 2017, ch. 20, art. 31.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 1; DORS/87-512, art. 1; DORS/89-519, art. 1; DORS/92-455, art. 1; DORS/93-527, art. 3; DORS/2003-5, art. 4; 2009, ch. 2, art. 85; DORS/2010-93, art. 3; 2017, ch. 20, art. 31; 2018, ch. 27, art. 38.
 
 
 
@@ -10101,7 +10112,7 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 
 **4802** 
 
-- **(1)** Pour l’application de la division 149(1)o.2)(iv)(D) de la Loi, sont des personnes prescrites :
+- **(1)** Pour l’application de la division 149(1)o.2)(iv)(D) de la Loi, sont des personnes prescrites :
 	- **a)** une fiducie dont tous les bénéficiaires sont des fiducies visées à la division 149(1)o.2)(iv)(B) de la Loi;
 	- **b)** une société constituée avant le 17 novembre 1978 uniquement en rapport avec quelque régime de pension agréé ou à seule fin de gérer un tel régime ou une telle caisse;
 	- **c)** une fiducie ou société constituée par une loi provinciale ou en vertu d’une telle loi et dont les activités principales consistent à administrer, gérer ou placer les fonds d’un régime ou d’une caisse de pensions constitué en vertu d’une loi provinciale ou d’un décret ou règlement pris en application d’une telle loi;
@@ -10110,11 +10121,11 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 	- **c.3)** les régimes de pension agréés collectifs;
 	- **d)** une fiducie ou société constituée par une loi provinciale ou en vertu d’une telle loi en rapport avec un régime ou programme d’indemnisation des travailleurs blessés lors d’un accident survenu par le fait ou à l’occasion de leur travail;
 	- **e)** Sa Majesté du chef d’une province;
-	- **f)** une fiducie dont les bénéficiaires sont constitués d’une ou plusieurs des entités suivantes :
+	- **f)** une fiducie dont les bénéficiaires sont constitués d’une ou plusieurs des entités suivantes :
 		- **(i)** régimes de pension agréés,
 		- **(ii)** fiducies visées aux divisions 149(1)o.2)(iv)(B) ou (C) de la Loi,
 		- **(iii)** personnes visées au présent paragraphe;
-	- **g)** une société dont l’ensemble des actions du capital-actions appartiennent à une ou plusieurs des entités suivantes :
+	- **g)** une société dont l’ensemble des actions du capital-actions appartiennent à une ou plusieurs des entités suivantes :
 		- **(i)** régimes de pension agréés,
 		- **(ii)** fiducies visées aux divisions 149(1)o.2)(iv)(B) ou (C) de la Loi,
 		- **(iii)** personnes visées au présent paragraphe.
@@ -10126,11 +10137,8 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 	- **d)** elle n’a jamais accepté de dépôts;
 	- **e)** chacun de ses bénéficiaires est une fiducie régie par un régime de participation différée aux bénéfices, un régime de pension agréé ou un régime de pension agréé collectif.
 
-- **(2)** Pour l’application de l’alinéa 149(1)t) de la Loi, les assureurs visés sont :
-	- **a)** Union Québécoise, compagnie d’assurances générales inc.;
-	- **b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.;
-	- **c)** Laurentienne Agricole, Compagnie d’Assurance inc.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5; DORS/2011-188, art. 18; 2012, ch. 31, art. 67.
+- **(2)** [Abrogé, 2017, ch. 20, art. 33]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5; DORS/2011-188, art. 18; 2012, ch. 31, art. 67; 2017, ch. 20, art. 33.
 
 
 
