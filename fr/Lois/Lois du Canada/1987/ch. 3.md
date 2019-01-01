@@ -670,10 +670,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Remise des droits et redevances**
+**Remise des droits et redevances — partage**
 
-**29.3** La moitié des droits et redevances perçus conformément aux règlements pris en vertu de l’article 29.1 est déposée au crédit du receveur général, et l’autre moitié est déposée au crédit de Sa Majesté du chef de la province, selon les délais et modalités qui sont prévus à ces règlements.
-> 2015, ch. 4, art. 39.
+**29.3** 
+
+- **(1)** Sous réserve du paragraphe (2), la moitié des droits et redevances perçus conformément aux règlements pris en vertu de l’article 29.1 est déposée au crédit du receveur général, et l’autre moitié est déposée au crédit de Sa Majesté du chef de la province, selon les délais et modalités qui sont prévus à ces règlements.
+
+**Remise des droits et redevances à la province**
+
+- **(2)** Si les droits et les redevances ainsi perçus sont liés aux attributions de l’Office pour l’application du régime de tarification des émissions de gaz à effet de serre visé au paragraphe 164.3(1), ils sont déposés entièrement au crédit de Sa Majesté du chef de la province.
+> 2015, ch. 4, art. 39; 2018, ch. 27, art. 176.
 
 
 
@@ -3848,6 +3854,79 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Obligation**
 
 - **(3)** L’Office encourage la mise en oeuvre de mécanismes de compensation pour les pêcheurs commandités par le secteur de la pêche à l’égard des dommages non imputables.
+
+
+
+
+#### Tarification des émissions de gaz à effet de serre
+
+
+
+**Définitions**
+
+**164.1** Les définitions qui suivent s’appliquent aux articles 164.2 et 164.3.
+
+***gaz à effet de serre*** S’entend au sens attribué au terme greenhouse gas à l’alinéa 2f) de la loi intitulée Management of Greenhouse Gas Act, S.N.L. 2016, ch. M-1.001. (*greenhouse gas*)
+
+***texte provincial*** La loi intitulée Management of Greenhouse Gas Act, S.N.L. 2016, ch. M-1.001 et ses règlements, avec leurs modifications successives. (*Management of Greenhouse Gas Act*)
+> 2018, ch. 27, art. 177.
+
+
+
+
+
+**Application**
+
+**164.2** 
+
+- **(1)** Sous réserve du paragraphe (2), les dispositions du texte provincial portant sur la tarification des émissions de gaz à effet de serre s’appliquent, avec les adaptations nécessaires lesquelles peuvent être précisées par règlement, aux activités autorisées sous le régime de la présente partie qui sont exercées dans la zone extracôtière.
+
+**Restriction**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux dispositions du texte provincial en vertu desquelles est imposée une taxe.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(3)** Les textes pris par un fonctionnaire ou organisme provincial sous le régime des dispositions du texte provincial incorporées par renvoi au titre du paragraphe (1) ne sont pas assujettis à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
+
+- **(4)** Il est entendu que la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’applique pas aux frais, droits ou redevances fixés en vertu des dispositions du texte provincial incorporées par renvoi au titre du paragraphe (1).
+
+**[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md)**
+
+- **(5)** Tout fonctionnaire ou organisme qui exerce des attributions conférées par les dispositions du texte provincial incorporées par renvoi au titre du paragraphe (1) ne constitue pas un office fédéral au sens de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+
+**Appel ou contrôle judiciaire devant les tribunaux provinciaux**
+
+- **(6)** L’exercice de toute attribution conférée par les dispositions du texte provincial incorporées par renvoi au titre du paragraphe (1) est susceptible d’appel ou de contrôle judiciaire devant les tribunaux de la province, de la manière et dans les circonstances prévues par le droit de la province.
+
+**Paiements perçus**
+
+- **(7)** Les paiements perçus en application des dispositions du texte provincial incorporées par renvoi au titre du paragraphe (1) par tout fonctionnaire ou organisme appartiennent à Sa Majesté du chef de la province et ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2018, ch. 27, art. 177.
+
+
+
+
+
+**Attributions de l’Office**
+
+**164.3** 
+
+- **(1)** L’Office peut, en vertu d’une entente conclue avec le ministre provincial compétent ou conformément au texte provincial, exercer les attributions qui y sont prévues pour veiller à l’exécution et au contrôle d’application, dans la zone extracôtière, du régime de tarification des émissions de gaz à effet de serre prévu par les dispositions du texte provincial incorporées par renvoi au titre du paragraphe 164.2(1).
+
+**Responsabilité — actes ou omissions**
+
+- **(2)** À l’égard des actes ou omissions survenant dans l’exercice des attributions conférées au paragraphe (1) :
+	- **a)** Sa Majesté du chef du Canada bénéficie des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont Sa Majesté du chef de la province bénéficierait si elle exerçait ces attributions en vertu du droit de cette province;
+	- **b)** toute personne ou tout organisme exerçant ces attributions bénéficient des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont ils bénéficieraient s’ils exerçaient ces attributions en vertu du droit de la province.
+
+**Communication de renseignements**
+
+- **(3)** Dans l’exercice de ses attributions au titre du paragraphe (1), l’Office peut obtenir du ministre provincial compétent les renseignements relatifs à l’application du texte provincial et lui communiquer de tels renseignements.
+> 2018, ch. 27, art. 177.
+
 
 
 
