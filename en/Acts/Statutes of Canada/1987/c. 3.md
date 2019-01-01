@@ -705,10 +705,16 @@ whichever occurs earlier.
 
 
 
-**Remittance of fees and charges**
+**Remittance of fees and charges: shared**
 
-**29.3** One half of the amounts of the fees and charges obtained in accordance with regulations made under section 29.1 shall be paid to the credit of the Receiver General and the other half shall be paid to the credit of Her Majesty in right of the Province, in the time and manner prescribed under those regulations.
-> 2015, c. 4, s. 39.
+**29.3** 
+
+- **(1)** Subject to subsection (2), one half of the amounts of the fees and charges obtained in accordance with regulations made under section 29.1 shall be paid to the credit of the Receiver General and the other half shall be paid to the credit of Her Majesty in right of the Province, in the time and manner prescribed under those regulations.
+
+**Remittance of fees and charges to the Province**
+
+- **(2)** If the fees and charges referred to in subsection (1) are related to the powers, duties or functions of the Board for the administration of the pricing mechanisms for greenhouse gas emissions referred to in subsection 164.3(1), they shall be paid in their entirety to the credit of Her Majesty in right of the Province.
+> 2015, c. 4, s. 39; 2018, c. 27, s. 176.
 
 
 
@@ -3964,6 +3970,79 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Promotion of compensation policies**
 
 - **(3)** The Board shall promote and monitor compensation policies for fishermen sponsored by the fishing industry respecting damages of a non-attributable nature.
+
+
+
+
+#### Pricing for Greenhouse Gas Emissions
+
+
+
+**Definitions**
+
+**164.1** The following definitions apply in sections 164.2 and 164.3.
+
+***greenhouse gas*** has the same meaning as the definition of greenhouse gas in paragraph 2(f) of the Management of Greenhouse Gas Act, S.N.L. 2016, c. M-1.001. (*gaz à effet de serre*)
+
+***Management of Greenhouse Gas Act*** means the Management of Greenhouse Gas Act, S.N.L. 2016, c. M-1.001, and its regulations, as amended from time to time. (*texte provincial*)
+> 2018, c. 27, s. 177.
+
+
+
+
+
+**Application**
+
+**164.2** 
+
+- **(1)** Subject to subsection (2), the provisions of the Management of Greenhouse Gas Act relating to greenhouse gas emissions pricing apply, with any modifications that the circumstances require and that may be prescribed, to a work or activity authorized under this Part that is carried out within the offshore area.
+
+**Limitation**
+
+- **(2)** Subsection (1) does not apply to any provision of the Management of Greenhouse Gas Act that imposes a tax.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to any instrument made by a provincial official or body under the authority of the provisions of the Management of Greenhouse Gas Act that are incorporated by reference under subsection (1).
+
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
+
+- **(4)** For greater certainty, the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) does not apply to any fee, charge or levy that is fixed under the provisions of the Management of Greenhouse Gas Act that are incorporated by reference under subsection (1).
+
+**[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)**
+
+- **(5)** Any official or body that exercises a power or performs a duty or function under the provisions of the Management of Greenhouse Gas Act that are incorporated by reference under subsection (1) is not a federal board, commission or other tribunal for the purposes of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+
+**Review or appeal in Provincial courts**
+
+- **(6)** If a power is conferred or a duty or function is imposed by the provisions of the Management of Greenhouse Gas Act that are incorporated by reference under subsection (1), the exercise of the power or the performance of the duty or function is subject to review by, or appeal to, the courts of the Province in the same manner and to the same extent as if the laws of the Province applied.
+
+**Amounts collected**
+
+- **(7)** Payments collected by an official or body under the provisions of the Management of Greenhouse Gas Act that are incorporated by reference under subsection (1) belong to Her Majesty in right of the Province and are not public money for the purposes of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+> 2018, c. 27, s. 177.
+
+
+
+
+
+**Powers, duties and functions of Board**
+
+**164.3** 
+
+- **(1)** The Board may, under an agreement with the appropriate provincial Minister or in accordance with the Management of Greenhouse Gas Act, exercise any power or perform any duty or function set out in that agreement or Act to ensure, within the offshore area, the administration and enforcement of the pricing mechanisms for greenhouse gas emissions set out in the provisions of that Act that are incorporated by reference under subsection 164.2(1).
+
+**Liability for acts and omissions**
+
+- **(2)** In respect of any act or omission occurring in the exercise of a power or the performance of a duty or function under subsection (1),
+	- **(a)** Her Majesty in right of Canada is entitled to the same limits on liability, defences and immunities as those that would apply to Her Majesty in right of the Province when Her Majesty in right of the Province exercises such a power or performs such a duty or function under the law that applies in the Province; and
+	- **(b)** any person or body exercising the power or performing the duty or function is entitled to the same limits on liability, defences and immunities as those that would apply to a person or body when the person or body exercises such a power or performs such a duty or function under the law that applies in the Province.
+
+**Disclosure of information**
+
+- **(3)** In exercising its powers and performing its duties and functions under subsection (1), the Board may obtain from the appropriate provincial Minister and disclose to that Minister any information with respect to the administration of the Management of Greenhouse Gas Act.
+> 2018, c. 27, s. 177.
+
 
 
 
