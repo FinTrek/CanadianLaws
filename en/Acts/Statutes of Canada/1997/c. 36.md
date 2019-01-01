@@ -523,27 +523,27 @@ Switzerland
 
 **21** The definitions in this section apply in sections 21.1 to 21.3.
 
- or  ou ***beer*** or ***malt liquor*** means beer or malt liquor, within the meaning of section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), of tariff item No. 2202.90.10 or heading 22.03, that is classified under that heading or tariff item or with the container in which it is imported.
+***beer*** or ***malt liquor*** means beer or malt liquor, within the meaning of section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), of tariff item No. 2202.91.00 or heading 22.03, that is classified under that heading or tariff item or with the container in which it is imported. (*bière* ou *liqueur de malt*)
 
-***bulk*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***bulk*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*en vrac*)
 
-***excise warehouse*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***excise warehouse*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*entrepôt d’accise*)
 
-***excise warehouse licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***excise warehouse licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*exploitant agréé d’entrepôt d’accise*)
 
-***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*utilisateur agréé*)
 
-***packaged*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***packaged*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*emballé*)
 
-***specified premises*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+***specified premises*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*local déterminé*)
 
-***spirits*** means spirits, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md),
-- **(a)** of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported;
+***spirits*** means spirits, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md),
+- **(a)** of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported;
 - **(a.1)** of an alcoholic strength by volume exceeding 11.9%, of heading No. 22.03, that are classified under that heading or with the container in which they are imported; or
-- **(b)** of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.12, 2207.20.90 or 2208.90.30, that are classified under that heading or with the container in which they are imported.
+- **(b)** of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.12, 2207.20.90 or 2208.90.30, that are classified under that heading or with the container in which they are imported. (*spiritueux*)
 
-***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported.
-> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142; 2008, c. 28, s. 70.
+***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported. (*vin*)
+> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142; 2008, c. 28, s. 70; 2018, c. 27, s. 69.
 
 
 
@@ -3696,7 +3696,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(5)** For the purposes of paragraph (2)(a), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 1997, c. 36, s. 69; 2018, c. 27, s. 70.
+
 
 
 
@@ -3746,7 +3748,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(7)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 1997, c. 36, s. 70; 2018, c. 27, s. 71.
+
 
 
 
@@ -3788,15 +3792,17 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect, if the rate of customs duty had been reduced in accordance with section 46, reduced for subsequent years in accordance with that section; or
 	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to the final rate in accordance with section 46.
 
-**Definition of “principal cause”**
+**Definition of principal cause**
 
-- **(6)** In this section, “principal cause” means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+- **(6)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
 
 **Reference to customs duty in effect**
 
 - **(7)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 1997, c. 36, s. 71; 2018, c. 27, s. 72.
+
 
 
 
@@ -3889,8 +3895,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(8)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
-> 2001, c. 28, s. 38.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 2001, c. 28, s. 38; 2018, c. 27, s. 73.
 
 
 
@@ -3920,7 +3926,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Certain tariff items**
 
 - **(3)** An order under subsection (1)
-	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
 	- **(b)** may not, in the case of tariff item Nos. 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 and 8905.90.90, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 15 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order.
 
 **Rate of duty when order ceases to have effect**
@@ -3943,8 +3949,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
-> 2009, c. 6, s. 34.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 2009, c. 6, s. 34; 2018, c. 27, s. 74.
 
 
 
@@ -3974,7 +3980,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Certain tariff items**
 
 - **(3)** An order under subsection (1)
-	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
 	- **(b)** may not, in the case of tariff item Nos. 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 and 8905.90.90, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 15 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order.
 
 **Rate of duty when order ceases to have effect**
@@ -3997,12 +4003,12 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 **Non-application**
 
 - **(8)** This section does not apply in respect of goods of the territory of Svalbard.
-> 2009, c. 6, s. 34.
+> 2009, c. 6, s. 34; 2018, c. 27, s. 75.
 
 
 
@@ -4032,7 +4038,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Certain tariff items**
 
 - **(3)** An order under subsection (1)
-	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
 	- **(b)** may not, in the case of tariff item Nos. 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 and 8905.90.90, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 15 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order.
 
 **Rate of duty when order ceases to have effect**
@@ -4055,8 +4061,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
-> 2009, c. 6, s. 34.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 2009, c. 6, s. 34; 2018, c. 27, s. 76.
 
 
 
@@ -4173,8 +4179,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(6)** For the purposes of paragraph (1)(b), the Most-Favoured Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is,
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
-> 2012, c. 18, s. 37.
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
+> 2012, c. 18, s. 37; 2018, c. 27, s. 77.
 
 
 
@@ -5847,8 +5853,8 @@ Peru
 
 **Other orders**
 
-- **(2)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 4(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 4(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
-> 1997, c. 36, s. 134; 1999, c. 17, s. 131; 2005, c. 38, ss. 141, 142, 145.
+- **(2)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 3(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 3(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
+> 1997, c. 36, s. 134; 1999, c. 17, s. 131; 2005, c. 38, ss. 141, 142, 145; 2018, c. 27, s. 78.
 
 
 
