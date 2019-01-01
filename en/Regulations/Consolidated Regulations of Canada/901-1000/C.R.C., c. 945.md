@@ -787,8 +787,11 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
-**203** [Repealed, SOR/2003-5, s. 3]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2003-5, s. 3.
+
+**Requirement to file**
+
+**203** Every institution that is a designated educational institution (as defined in subsection 118.6(1) of the Act) because of paragraph (a) of that definition shall make an information return in prescribed form in respect of each individual enrolled at that institution who is a qualifying student (as defined in subsection 118.6(1)) for a month in a taxation year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2003-5, s. 3; 2018, c. 27, s. 35.
 
 
 
@@ -964,12 +967,16 @@ shall, in addition to any other return required by the Act or these Regulations,
 <td></td>
 </tr>
 <tr>
+<td>Tuition and Enrolment Certificate</td>
+<td></td>
+</tr>
+<tr>
 <td>Universal Child Care Benefit Statement</td>
 <td>RC62</td>
 </tr>
 </table>
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2013-199, s. 1; SOR/2015-170, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2013-199, s. 1; SOR/2015-170, s. 2; 2018, c. 27, s. 36.
 
 
 
@@ -1075,6 +1082,10 @@ shall, in addition to any other return required by the Act or these Regulations,
 <td></td>
 </tr>
 <tr>
+<td>Tuition and Enrolment Certificate</td>
+<td></td>
+</tr>
+<tr>
 <td>Universal Child Care Benefit Statement</td>
 <td>RC62</td>
 </tr>
@@ -1086,7 +1097,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(b)** a non-resident corporation;
 	- **(c)** a corporation reporting in functional currency as defined in subsection 261(1) of the Act; or
 	- **(d)** a corporation that is exempt under section 149 of the Act from tax payable.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-20, s. 1; SOR/2011-295, s. 1; SOR/2015-140, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-20, s. 1; SOR/2011-295, s. 1; SOR/2015-140, s. 1; 2018, c. 27, s. 37.
 
 
 
@@ -1131,7 +1142,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 **209** 
 
-- **(1)** A person who is required by section 200, 201, 202, 204, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
+- **(1)** A person who is required by section 200, 201, 202, 203, 204, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
 
 - **(2)** The copies referred to in subsection (1) shall be sent to the taxpayer at his last known address or delivered to him in person, on or before the date the return is required to be filed with the Minister.
 
@@ -1139,13 +1150,13 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(4)** In subsection (3), ***express consent*** means consent given in writing or in an electronic format.
 
-- **(5)** A person may provide a Statement of Remuneration Paid (T4) information return, as required under subsection (1), as a single document in an electronic format (instead of the two copies required under subsection (1)) to the taxpayer to whom the return relates, on or before the date on which the return is to be filed with the Minister, unless
+- **(5)** A person may provide a Statement of Remuneration Paid (T4) information return or a Tuition and Enrolment Certificate, as required under subsection (1), as a single document in an electronic format (instead of the two copies required under subsection (1)) to the taxpayer to whom the return relates, on or before the date on which the return is to be filed with the Minister, unless
 	- **(a)** the specified criteria referred to in section 221.01 of the Act are not met;
 	- **(b)** the taxpayer has requested that the information return be provided in paper format; or
 	- **(c)** at the time the return is required to be issued,
-		- **(i)** the taxpayer is on extended leave or is no longer an employee of the person, or
+		- **(i)** if the return is a T4, the taxpayer is on extended leave or is no longer an employee of the person, or
 		- **(ii)** the taxpayer cannot reasonably be expected to have access to the information return in electronic format.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85; SOR/2010-93, s. 3; 2017, c. 20, s. 31.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85; SOR/2010-93, s. 3; 2017, c. 20, s. 31; 2018, c. 27, s. 38.
 
 
 
@@ -10171,11 +10182,8 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(d)** it never accepted deposits; and
 	- **(e)** each of the beneficiaries of the trust was a trust governed by a deferred profit sharing plan, a pooled registered pension plan or a registered pension plan.
 
-- **(2)** For the purposes of paragraph 149(1)(t) of the Act, the following are prescribed insurers:
-	- **(a)** Union Québécoise, compagnie d’assurances générales inc.;
-	- **(b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.; and
-	- **(c)** Laurentian Farm Insurance Company Inc.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5; SOR/2011-188, s. 18; 2012, c. 31, s. 67.
+- **(2)** [Repealed, 2017, c. 20, s. 33]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5; SOR/2011-188, s. 18; 2012, c. 31, s. 67; 2017, c. 20, s. 33.
 
 
 
