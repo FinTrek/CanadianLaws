@@ -100,11 +100,15 @@ et comprend tous les services incidents à l’exécution de l’une quelconque 
 
 **3** Les définitions qui suivent s’appliquent à la présente partie.
 
-***cotisation de l’employé*** désigne un montant établi en conformité des articles 5 et 6; (*employee’s contribution*)
+***cotisation de base maximale pour l’année*** Le montant égal au produit du taux de cotisation d’une personne pour l’année par la différence entre le maximum de ses gains ouvrant droit à pension et son exemption de base. (*year’s maximum base contribution*)
+
+***cotisation de l’employé*** Tout montant établi en conformité avec les articles 5, 5.1 et 6. (*employee’s contribution*)
 
 ***cotisation de l’employeur*** désigne un montant établi en conformité de l’article 7; (*employer’s contribution*)
 
-***cotisation maximale pour l’année*** Le produit unit du taux de cotisation de la personne pour l’année multiplié par la différence entre le maximum de ses gains ouvrant droit à pension et son exemption de base. (*year’s maximum contribution*)
+***cotisation maximale pour l’année***[Abrogée, DORS/2019-41, art. 1]
+
+***deuxième cotisation supplémentaire maximale pour l’année*** Le montant égal au produit du deuxième taux de cotisation supplémentaire d’une personne pour l’année par la différence entre le maximum supplémentaire de ses gains ouvrant droit à pension et le maximum de ses gains ouvrant droit à pension. (*year’s maximum second additional contribution*)
 
 ***exerçant un emploi de façon non continue***[Abrogée, DORS/85-39, art. 1]
 
@@ -116,10 +120,12 @@ et comprend tous les services incidents à l’exécution de l’une quelconque 
 
 et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’une journée; (*pay period*)
 
+***première cotisation supplémentaire maximale pour l’année*** Le montant égal au produit du premier taux de cotisation supplémentaire d’une personne pour l’année par la différence entre le maximum de ses gains ouvrant droit à pension et son exemption de base. (*year’s maximum first additional contribution*)
+
 ***rémunération*** S’entend au sens de « traitement et salaire cotisables », à l’article 12 de la Loi. (*remuneration*)
 
 ***rémunération ordinaire*** désigne la rémunération versée à un employé un jour de paie, à l’égard d’emploi au cours de la période de paie correspondante, et comprend les jetons de présence payés à un administrateur de corporation, si aucune autre rémunération n’est payable audit administrateur par la corporation. (*ordinary remuneration*)
-> DORS/78-142, art. 1; DORS/78-935, art. 1; DORS/80-133, art. 1; DORS/81-99, art. 1; DORS/82-290, art. 1; DORS/83-270, art. 1; DORS/84-115, art. 1; DORS/85-39, art. 1; DORS/85-1164, art. 1; DORS/86-1134, art. 1; DORS/87-721, art. 1; DORS/88-639, art. 1; DORS/89-580, art. 1; DORS/90-829, art. 1; DORS/90-832, art. 1; DORS/92-36, art. 1; DORS/92-736, art. 1; DORS/94-173, art. 1; DORS/95-156, art. 1; DORS/96-262, art. 1; DORS/97-384, art. 1; DORS/98-258, art. 1; DORS/99-60, art. 1; DORS/2000-61, art. 1; DORS/2001-135, art. 1; DORS/2002-245, art. 1.
+> DORS/78-142, art. 1; DORS/78-935, art. 1; DORS/80-133, art. 1; DORS/81-99, art. 1; DORS/82-290, art. 1; DORS/83-270, art. 1; DORS/84-115, art. 1; DORS/85-39, art. 1; DORS/85-1164, art. 1; DORS/86-1134, art. 1; DORS/87-721, art. 1; DORS/88-639, art. 1; DORS/89-580, art. 1; DORS/90-829, art. 1; DORS/90-832, art. 1; DORS/92-36, art. 1; DORS/92-736, art. 1; DORS/94-173, art. 1; DORS/95-156, art. 1; DORS/96-262, art. 1; DORS/97-384, art. 1; DORS/98-258, art. 1; DORS/99-60, art. 1; DORS/2000-61, art. 1; DORS/2001-135, art. 1; DORS/2002-245, art. 1; DORS/2019-41, art. 1.
 
 
 
@@ -128,8 +134,8 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 ### Calcul de la cotisation de l’employé
 
 
-**4** Pour l’application du paragraphe 21(1) de la Loi, les règles visées à l’article 5 sont prescrites pour la détermination du montant que l’employeur doit, à titre de cotisation de l’employé, déduire de tout paiement de rémunération qu’il verse à un employé au cours d’une année.
-> DORS/85-39, art. 2; DORS/90-829, art. 2.
+**4** Pour l’application du paragraphe 21(1) de la Loi, les règles visées aux articles 5 et 5.1 sont prescrites pour la détermination du montant que l’employeur est tenu, à titre de cotisation de l’employé, de déduire de tout paiement de rémunération qu’il verse à un employé au cours d’une année.
+> DORS/85-39, art. 2; DORS/90-829, art. 2; DORS/2019-41, art. 2.
 
 
 
@@ -138,16 +144,17 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 
 - **(1)** Aux fins du présent article, ***paiement de rémunération admissible*** désigne la fraction d’un paiement de rémunération qui correspond à la rémunération ordinaire d’un emploi ouvrant droit à pension.
 
-- **(2)** Sous réserve des paragraphes (6) à (8), le montant que l’employeur doit, à titre de cotisation de l’employé, déduire d’un paiement de rémunération admissible qu’il verse à l’employé à l’égard d’une période de paie pendant l’année se calcule selon la formule ci-après et, s’il y a lieu, le résultat obtenu est arrondi au plus proche multiple de 0,01 $ ou, si le montant est équidistant de deux multiples, au plus élevé des deux :
+- **(2)** Sous réserve des paragraphes (6) à (8), le montant que l’employeur est tenu, à titre de cotisation de base d’employé et de première cotisation supplémentaire d’employé, de déduire d’un paiement de rémunération admissible qu’il verse à l’employé à l’égard d’une période de paie pendant l’année est calculé selon la formule ci-après et le résultat obtenu est arrondi au plus proche multiple de 0,01 $ ou, si le montant est équidistant de deux multiples, au plus élevé des deux :
 ```
-(A - B) × C
+(A – B) × (C + D)
 ```
- où :
+où :
 - **A** représente le paiement de rémunération admissible à l’égard de la période de paie;
 - **B** l’exemption de base de l’employé qui s’applique à la période de paie;
-- **C** le taux de cotisation des employés pour l’année.
+- **C** le taux de cotisation des employés pour l’année;
+- **D** le premier taux de cotisation supplémentaire des employés pour l’année.
 
-- **(3)** Sous réserve des paragraphes (7) et (8), le montant de la cotisation de l’employé qui se rapporte à la fraction d’un paiement de rémunération d’un emploi ouvrant droit à pension qui n’est pas un paiement de rémunération admissible est égal au produit de cette fraction multipliée par le taux de cotisation des employés pour l’année, arrondi de la façon indiquée au paragraphe (2).
+- **(3)** Sous réserve des paragraphes (7) et (8), le montant de la cotisation de base d’employé et de la première cotisation supplémentaire d’employé qui se rapporte à la fraction d’un paiement de rémunération d’un emploi ouvrant droit à pension qui n’est pas un paiement de rémunération admissible est égal au produit de cette fraction par la somme du taux de cotisation des employés et du premier taux de cotisation supplémentaire des employés pour l’année, arrondi de la façon prévue au paragraphe (2).
 
 - **(4)** [Abrogé, DORS/2002-245, art. 2]
 
@@ -171,15 +178,42 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 		- **(i)** le produit obtenu par la multiplication de 3 500 $ par la fraction que représente le nombre de jours de la période sur 365,
 		- **(ii)** 67,30 $.
 
-- **(6)** S’il y a vingt-sept périodes de paie de deux semaines ou cinquante-trois périodes de paie hebdomadaires se terminant dans l’année, il est ajouté à la cotisation de l’employé, par ailleurs déterminée conformément au paragraphe (2) pour chaque période de paie, un montant calculé comme suit :
+- **(6)** S’il y a vingt-sept périodes de paie de deux semaines ou cinquante-trois périodes de paie hebdomadaires se terminant dans l’année, il est ajouté aux cotisations de l’employé, par ailleurs déterminées conformément au paragraphe (2) pour chaque période de paie, un montant calculé comme suit :
 	- **a)** diviser l’exemption de base de l’employé pour l’année par 27 ou 53, selon le cas, sans tenir compte des montants inférieurs à 0,01 $;
 	- **b)** soustraire de l’exemption de base applicable déterminée conformément au paragraphe (5) le résultat obtenu à l’alinéa a);
-	- **c)** multiplier le montant obtenu selon l’alinéa b) par le taux de cotisation des employés pour l’année, arrondir le résultat au plus proche multiple de 0,01 $ ou, si le résultat est équidistant de deux multiples, au plus élevé des deux.
+	- **c)** multiplier le résultat obtenu selon l’alinéa b) par la somme du taux de cotisation des employés et du premier taux de cotisation supplémentaire des employés pour l’année, arrondir le résultat de la multiplication au plus proche multiple de 0,01 $ ou, si ce résultat est équidistant de deux multiples, au plus élevé des deux.
 
-- **(7)** Si un paiement de rémunération d’un emploi ouvrant droit à pension qui est versé à l’égard d’une période de paie de l’année dépasse l’exemption de base de l’employé pour la période de paie, la cotisation de l’employé relative à ce paiement est d’au moins 0,01 $.
+- **(7)** Si le paiement de rémunération d’un emploi ouvrant droit à pension qui est versé à l’égard d’une période de paie de l’année dépasse l’exemption de base de l’employé pour la période de paie, les cotisations de l’employé relatives à ce paiement sont d’au moins 0,01 $.
 
-- **(8)** Le total des cotisations de l’employé pour l’année qui sont déduites par l’employeur à l’égard de la rémunération d’un emploi ouvrant droit à pension ne doit pas dépasser la cotisation maximale pour l’année.
-> DORS/78-142, art. 2; DORS/78-935, art. 2; DORS/80-133, art. 2; DORS/81-99, art. 2; DORS/82-290, art. 2; DORS/83-270, art. 2; DORS/84-115, art. 2; DORS/85-39, art. 2; DORS/85-1164, art. 2; DORS/86-1134, art. 2; DORS/87-721, art. 2; DORS/88-639, art. 2; DORS/89-580, art. 2; DORS/90-832, art. 2; DORS/92-36, art. 2; DORS/92-736, art. 2; DORS/94-173, art. 2; DORS/96-262, art. 2; DORS/2002-245, art. 2; DORS/2004-223, art. 1(F).
+- **(8)** Le total des cotisations de l’employé pour l’année qui sont déduites par l’employeur à l’égard de la rémunération d’un emploi ouvrant droit à pension à titre de cotisation de base d’employé et de première cotisation supplémentaire d’employé ne doit pas dépasser la somme de la cotisation de base maximale pour l’année et de la première cotisation supplémentaire maximale pour l’année.
+> DORS/78-142, art. 2; DORS/78-935, art. 2; DORS/80-133, art. 2; DORS/81-99, art. 2; DORS/82-290, art. 2; DORS/83-270, art. 2; DORS/84-115, art. 2; DORS/85-39, art. 2; DORS/85-1164, art. 2; DORS/86-1134, art. 2; DORS/87-721, art. 2; DORS/88-639, art. 2; DORS/89-580, art. 2; DORS/90-832, art. 2; DORS/92-36, art. 2; DORS/92-736, art. 2; DORS/94-173, art. 2; DORS/96-262, art. 2; DORS/2002-245, art. 2; DORS/2004-223, art. 1(F); DORS/2019-41, art. 3.
+
+
+
+
+**5.1** 
+
+- **(1)** Sous réserve du paragraphe (3), pour l’année 2024 et chaque année subséquente, le montant que l’employeur est tenu de déduire, à titre de deuxième cotisation supplémentaire d’employé, d’un paiement de rémunération qu’il verse à l’employé pendant l’année est calculé conformément au paragraphe (2), lorsque le résultat du calcul ci-après est supérieur à zéro :
+```
+(A + B) − C
+```
+où :
+- **A** représente le paiement de rémunération qu’il verse à l’employé;
+- **B** le total de la rémunération versée à l’employé par l’employeur pour l’année à ce jour;
+- **C** le plus élevé des montants suivants :
+- **a)** le total de la rémunération versée à l’employé par l’employeur pour l’année à ce jour;
+- **b)** le montant du maximum des gains ouvrant droit à pension de l’employé pour l’année.
+
+- **(2)** Le montant de la deuxième cotisation supplémentaire d’employé est calculé selon la formule ci-après et le résultat obtenu est arrondi au plus proche multiple de 0,01 $ ou, si le résultat est équidistant de deux multiples, au plus élevé des deux :
+```
+E × F
+```
+où :
+- **E** représente le résultat du calcul effectué selon le paragraphe (1);
+- **F** le deuxième taux de cotisation supplémentaire des employés pour l’année.
+
+- **(3)** Le total des cotisations de l’employé pour l’année qui sont déduites par l’employeur à l’égard de la rémunération d’un emploi ouvrant droit à pension à titre de deuxième cotisation supplémentaire ne doit pas dépasser la deuxième cotisation supplémentaire maximale pour l’année.
+> DORS/2019-41, art. 4.
 
 
 
@@ -190,10 +224,20 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 
 **6** 
 
-- **(1)** Lorsqu’un employé a versé une cotisation pour l’année en vertu d’un régime provincial de pensions, à l’égard des traitement et salaire que lui a versés un employeur, le montant de la cotisation de l’employé établie en vertu de l’article 5, à l’égard d’un paiement de rémunération qui lui a été effectué dans ladite année par ledit employeur, ne doit pas dépasser le montant obtenu en soustrayant de la cotisation maximum pour l’année l’ensemble des cotisations dudit employé que l’employeur était tenu de retenir dans ladite année en vertu de la présente partie ou en vertu d’un régime provincial de pensions.
+- **(1)** Si un employé a versé une cotisation de base d’employé et une première cotisation supplémentaire d’employé pour l’année en vertu d’un régime provincial de pensions à l’égard des traitement et salaire que lui a versés un employeur, le montant de la cotisation de base d’employé et de la première cotisation supplémentaire d’employé établi en vertu de l’article 5, à l’égard d’un paiement de rémunération qui lui a été versé dans l’année par l’employeur, ne doit pas dépasser la différence entre la somme de la cotisation de base maximale pour l’année et de la première cotisation supplémentaire maximale pour l’année et l’ensemble des cotisations de l’employé que l’employeur était tenu de retenir dans l’année à ce titre en vertu de la présente partie ou d’un régime provincial de pensions.
 
-- **(2)** Pour l’application des articles 10 et 13 de la Loi, les traitements et le salaire sur lesquels une cotisation a été versée par un particulier pour l’année, en vertu d’un régime provincial de pensions, correspondent à un montant égal à l’ensemble de toutes les cotisations qu’il était tenu de verser pendant l’année, en vertu d’un régime provincial de pensions, à l’égard des traitements et du salaire, divisé par le taux de cotisation des employés pour l’année.
-> DORS/86-1134, art. 3; DORS/90-829, art. 3.
+- **(2)** Aux fins du calcul prévu au paragraphe (1), le montant des cotisations que l’employeur était tenu de retenir en vertu d’un régime provincial de pensions correspond au produit du montant de ces cotisations par le rapport entre la somme du taux de cotisation des employés et du premier taux de cotisation supplémentaire des employés prévus par la Loi et la somme des taux correspondants du régime provincial de pensions.
+
+- **(3)** Si un employé a versé une deuxième cotisation supplémentaire d’employé pour l’année en vertu d’un régime provincial de pensions à l’égard des traitement et salaire que lui a versés un employeur, le montant de la deuxième cotisation supplémentaire d’employé établi en vertu de l’article 5.1, à l’égard d’un paiement de rémunération qui lui a été versé dans l’année par l’employeur, ne doit pas dépasser la différence entre la deuxième cotisation supplémentaire maximale pour l’année et le total des cotisations d’employé que l’employeur était tenu de retenir dans l’année à ce titre en vertu de la présente partie ou d’un régime provincial de pensions.
+
+- **(4)** Aux fins du calcul prévu au paragraphe (3), le montant des cotisations que l’employeur était tenu de retenir en vertu d’un régime provincial de pensions correspond au produit du montant de ces cotisations par le rapport entre le deuxième taux de cotisation supplémentaire des employés prévu par la Loi et le taux correspondant du régime provincial de pensions.
+> DORS/86-1134, art. 3; DORS/90-829, art. 3; DORS/2019-41, art. 5.
+
+
+
+
+**6.1** Pour l’application des paragraphes 10(1) et 13(3) de la Loi, les traitement et salaire sur lesquels a été versée une cotisation de base par un particulier pour l’année, en vertu d’un régime provincial de pensions, correspondent à un montant égal à l’ensemble de toutes les cotisations de base qu’il était tenu de verser pendant l’année, en vertu d’un régime provincial de pensions, à l’égard des traitement et salaire, divisé par le taux de cotisation de base des employés pour l’année en vertu de ce régime.
+> DORS/2019-41, art. 5.
 
 
 
@@ -202,7 +246,9 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 ### Cotisation de l’employeur
 
 
-**7** Le montant que doit remettre l’employeur, à titre de cotisation de l’employeur, à l’égard d’un paiement de rémunération qu’il a effectué à un employé qu’il occupe dans un emploi ouvrant droit à pension, est un montant égal à la cotisation de l’employé dont la retenue est exigée en vertu de la présente partie à l’égard dudit paiement de rémunération.
+**7** Le montant que doit remettre l’employeur, à titre de cotisation de l’employeur, à l’égard d’un paiement de rémunération qu’il a versé à un employé qui occupe un emploi ouvrant droit à pension, est égal aux cotisations de l’employé dont la retenue est exigée en vertu de la présente partie à l’égard de ce paiement de rémunération.
+> DORS/2019-41, art. 7.
+
 
 
 
@@ -212,19 +258,19 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 
 **8** 
 
-- **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12), (1.13) et (2), la cotisation de l’employé et la cotisation de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
+- **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12), (1.13) et (2), les cotisations de l’employé et les cotisations de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
 
 - **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
-	- **a)** égale ou supérieure à 25 000 $ et inférieure à 100 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur :
+	- **a)** égale ou supérieure à 25 000 $ et inférieure à 100 000 $, l’employeur est tenu de remettre au receveur général les cotisations de l’employé et les cotisations de l’employeur :
 		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
 		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant;
-	- **b)** égale ou supérieure à 100 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur au plus tard le troisième jour  — samedis et jours fériés non compris  —  suivant la fin des périodes ci-après au cours desquelles la rémunération a été payée :
+	- **b)** égale ou supérieure à 100 000 $, l’employeur est tenu de remettre au receveur général les cotisations de l’employé et les cotisations de l’employeur au plus tard le troisième jour — samedis et jours fériés non compris — suivant la fin des périodes ci-après au cours desquelles la rémunération a été payée :
 		- **(i)** la période commençant le 1<sup>er</sup> jour et se terminant le 7<sup>e</sup> jour d’un mois de l’année civile donnée,
 		- **(ii)** la période commençant le 8<sup>e</sup> jour et se terminant le 14<sup>e</sup> jour d’un mois de l’année civile donnée,
 		- **(iii)** la période commençant le 15<sup>e</sup> jour et se terminant le 21<sup>e</sup> jour d’un mois de l’année civile donnée,
 		- **(iv)** la période commençant le 22<sup>e</sup> jour et se terminant le dernier jour d’un mois de l’année civile donnée.
 
-- **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre la cotisation de l’employé et la cotisation de l’employeur pour une année civile donnée conformément à l’un ou l’autre de ces alinéas peut choisir de les remettre :
+- **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre les cotisations de l’employé et les cotisations de l’employeur pour une année civile donnée conformément à l’un ou l’autre de ces alinéas peut choisir de les remettre :
 	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 25 000 $ et s’il informe le ministre de son choix;
 	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 25 000 $ et inférieure à 100 000 $ et s’il informe le ministre de son choix :
 		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
@@ -253,20 +299,20 @@ les cotisations payables au cours d’un mois qui se termine après le moment do
 
 - **(2)** L’employeur qui exploite une entreprise ou exerce une activité à l’égard de laquelle il occupe des employés dans des emplois ouvrant droit à pension doit, s’il cesse d’exploiter cette entreprise ou d’exercer cette activité, faire remise au receveur général, dans les sept jours d’une telle cessation, de toutes les cotisations de l’employé et de l’employeur dont il est tenu de faire remise à l’égard desdits employés.
 
-- **(3)** Tout paiement fait par l’employeur au titre de la cotisation de l’employé ou de la cotisation de l’employeur doit être accompagné d’une déclaration en la forme prescrite.
-> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90; 2014, ch. 20, art. 38; 2015, ch. 36, art. 27.
+- **(3)** Tout paiement fait par l’employeur au titre des cotisations de l’employé ou des cotisations de l’employeur doit être accompagné d’une déclaration en la forme prescrite.
+> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90; 2014, ch. 20, art. 38; 2015, ch. 36, art. 27; DORS/2019-41, art. 8.
 
 
 
 
 **8.1** 
 
-- **(1)** Toute personne qui paie en totalité ou en partie la rémunération d’un employé pour des services accomplis dans le cadre d’un emploi ouvrant droit à pension est, aux fins du calcul des traitement et salaire cotisables de l’employé, de la tenue de registres, de la production de déclarations ainsi que du paiement, de la retenue et du versement des cotisations payables en vertu de la Loi et du présent règlement, réputée être l’employeur de cet employé en plus de son véritable employeur.
+- **(1)** Toute personne qui paie en totalité ou en partie la rémunération d’un employé à l’égard d’un emploi ouvrant droit à pension est, aux fins du calcul des traitement et salaire cotisables de l’employé, de la tenue de registres, de la production de déclarations ainsi que du paiement, de la retenue et du versement des cotisations payables en vertu de la Loi et du présent règlement, réputée être l’employeur de cet employé en plus de son véritable employeur.
 
 - **(1.1)** Le montant des cotisations payées par la personne réputée être l’employeur en vertu du paragraphe (1) est recouvrable par celle-ci auprès du véritable employeur.
 
-- **(2)** Lorsqu’une personne qui est réputée être un employeur en vertu du paragraphe (1) omet de payer, de retenir ou de verser les contributions qu’un employeur est tenu de payer, de retenir et de verser en vertu de la Loi et du présent règlement, les dispositions de la Partie I de la Loi s’appliquent à cette personne comme s’il s’agissait du véritable employeur.
-> DORS/79-402, art. 1; DORS/98-258, art. 2.
+- **(2)** Lorsqu’une personne qui est réputée être un employeur en vertu du paragraphe (1) omet de payer, de retenir ou de verser les cotisations qu’un employeur est tenu de payer, de retenir et de verser en vertu de la Loi et du présent règlement, les dispositions de la Partie I de la Loi s’appliquent à cette personne comme s’il s’agissait du véritable employeur.
+> DORS/79-402, art. 1; DORS/98-258, art. 2; DORS/2019-41, art. 9.
 
 
 
@@ -361,6 +407,12 @@ Cette présomption s’applique tant que demeure impayé un montant que la perso
 - **(1)** Toute personne, qui est tenue par l’article 10 ou 12 de produire pour une année une déclaration de renseignements auprès du ministre, doit fournir, à chaque employé dont la rémunération fait l’objet de la déclaration, deux copies de la partie de la déclaration qui intéresse ledit employé.
 
 - **(2)** Les copies mentionnées au paragraphe (1) doivent, le ou avant le jour où la déclaration de renseignements doit être produite auprès du ministre, être expédiées par la poste à l’employé à sa dernière adresse connue ou lui être délivrées en main propre.
+
+- **(3)** Avec le consentement exprès de l’employé, donné par écrit ou transmis par voie électronique, la personne peut lui transmettre la déclaration de renseignements visée au paragraphe (1) par voie électronique; une seule copie de la déclaration de renseignements est alors transmise à l’employé au plus tard à la date où elle doit être produite au ministre.
+
+- **(4)** La personne qui n’a pas reçu le consentement exprès de l’employé conformément au paragraphe (3) peut tout de même lui transmettre la déclaration de renseignements visée au paragraphe (1) par voie électronique, sauf si elle est empêchée de transmettre une déclaration de renseignements par voie électronique à un employé selon le paragraphe 209(5) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md). Une seule copie de la déclaration de renseignements est alors transmise à l’employé au plus tard à la date où elle doit être produite au ministre.
+> DORS/2019-41, art. 10.
+
 
 
 
@@ -656,8 +708,8 @@ lorsque l’employé, au cours d’une année,
 - **c)** est un résident du Canada au cours de l’année pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 - **d)** n’a pas, à l’égard du même emploi, un emploi ouvrant droit à pension en vertu d’aucune autre disposition de la Loi ou du présent règlement;
 - **e)** exerce le choix visé au paragraphe 13(3) de la Loi pour l’application de l’article 10 de la Loi;
-- **f)** paie la cotisation visée à l’article 10 de la Loi au cours de l’année qui suit le 30 avril de l’année suivante ou qui suit la date à laquelle lui est remboursé tout montant visé à l’article 38 de la Loi.
-> DORS/90-829, art. 5; DORS/2011-299, art. 1.
+- **f)** paie les cotisations visées à l’article 10 de la Loi au cours de l’année qui suit le 30 avril de l’année suivante ou qui suit la date à laquelle lui est remboursé tout montant visé à l’article 38 de la Loi.
+> DORS/90-829, art. 5; DORS/2011-299, art. 1; DORS/2019-41, art. 11.
 
 
 
@@ -672,8 +724,8 @@ lorsque l’employé, au cours d’une année,
 	- **a)** l’Indien est un résident du Canada pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **b)** aucune autre disposition de la Loi ou du présent règlement ne fait de cet emploi un emploi ouvrant droit à pension;
 	- **c)** l’Indien fait le choix visé au paragraphe 13(3) de la Loi;
-	- **d)** l’Indien verse la cotisation visée à l’article 10 de la Loi au cours de l’année qui suit le 30 avril de l’année suivante ou qui suit la date à laquelle lui est remboursé tout montant visé à l’article 38 de la Loi.
-> DORS/88-631, art. 1; DORS/90-829, art. 6; DORS/2011-299, art. 2.
+	- **d)** l’Indien verse les cotisations visées à l’article 10 de la Loi au cours de l’année qui suit le 30 avril de l’année suivante ou qui suit la date à laquelle lui est remboursé tout montant visé à l’article 38 de la Loi.
+> DORS/88-631, art. 1; DORS/90-829, art. 6; DORS/2011-299, art. 2; DORS/2019-41, art. 12.
 
 
 
@@ -693,16 +745,18 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 
-**33** Pour plus de précision, lorsque l’emploi, vu que l’employé s’est conformé aux alinéas 29c) à f), est compris dans l’emploi ouvrant droit à pension visé à l’un ou l’autre des articles 29 à 32, l’employeur n’est pas tenu de verser une contribution d’employeur à l’égard de l’emploi.
+**33** Pour plus de précision, lorsque l’emploi, vu que l’employé s’est conformé aux alinéas 29c) à f), est compris dans l’emploi ouvrant droit à pension visé à l’un ou l’autre des articles 29 à 32, l’employeur n’est pas tenu de verser des cotisations d’employeur à l’égard de l’emploi.
+> DORS/2019-41, art. 13(F).
+
 
 
 
 **34** 
 
-- **(1)** Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+- **(1)** Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne en ce qui a trait à la tenue de dossiers, la production des déclarations, le paiement, la déduction et le versement des cotisations payables, selon la Loi et le présent règlement, par la personne et en son nom.
 
 - **(2)** Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
-> DORS/78-142, art. 3.
+> DORS/78-142, art. 3; DORS/2019-41, art. 14(F).
 
 
 
@@ -829,13 +883,14 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 ### Traitement et salaire sur lesquels une cotisation a été versée aux termes d’un régime provincial de pensions
 
 
-**41** Pour l’application de la division 53(1)b)(ii)(A) de la Loi, les traitement et salaire sur lesquels un cotisant a versé une cotisation pour l’année aux termes d’un régime provincial de pensions est le montant égal à l’ensemble de toutes les cotisations qu’il était tenu de verser pour cette année en vertu de ce régime à l’égard des traitement et salaire, multiplié par 100 et divisé par :
-- **a)** 2,4, pour l’année 1992;
-- **b)** 2,5, pour l’année 1993;
-- **c)** 2,6, pour l’année 1994;
-- **d)** 2,7, pour l’année 1995;
-- **e)** 2,8, pour l’année 1996.
-> DORS/86-1133, art. 2; DORS/96-522, art. 5; DORS/2013-83, art. 1.
+**41** 
+
+- **(1)** Pour l’application de la division 53(1)b)(ii)(A) de la Loi, les traitement et salaire sur lesquels un cotisant a versé une cotisation de base pour l’année 2019 et pour chaque année subséquente aux termes d’un régime provincial de pensions est le montant égal à l’ensemble de toutes les cotisations de base qu’il était tenu de verser pour cette année à l’égard des traitement et salaire, multiplié par 100 et divisé par la moitié du taux de cotisation de base pour l’année aux termes du régime provincial de pensions.
+
+- **(2)** Pour l’application de la division 53.1(1)b)(ii)(A) de la Loi, les traitement et salaire sur lesquels un cotisant a versé une première cotisation supplémentaire pour l’année 2019 et pour chaque année subséquente aux termes d’un régime provincial de pensions est le montant égal à l’ensemble de toutes les premières cotisations supplémentaires qu’il était tenu de verser pour cette année à l’égard des traitement et salaire, multiplié par 100 et divisé par la moitié du premier taux de cotisation supplémentaire pour l’année aux termes du régime provincial de pensions.
+
+- **(3)** Pour l’application de la division 53.2(1)b)(ii)(A) de la Loi, les traitement et salaire sur lesquels un cotisant a versé une deuxième cotisation supplémentaire pour l’année 2024 et pour chaque année subséquente aux termes d’un régime provincial de pensions est le montant égal à l’ensemble de toutes les deuxièmes cotisations supplémentaires qu’il était tenu de verser pour cette année à l’égard des traitement et salaire, multiplié par 100 et divisé par la moitié du deuxième taux de cotisation supplémentaire pour l’année aux termes du régime provincial de pensions.
+> DORS/86-1133, art. 2; DORS/96-522, art. 5; DORS/2013-83, art. 1; DORS/2018-281, art. 1.
 
 
 
@@ -856,14 +911,14 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 **43** 
 
-- **(1)** La demande de prestations, la demande de partage des gains non ajustés ouvrant droit à pension en application des articles 55 ou 55.1 de la Loi ou la demande de cession d’une partie de la pension de retraite visée à l’article 65.1 de la Loi doit être présentée par écrit à tout bureau du ministère du Développement des ressources humaines ou du ministère de l’Emploi et du Développement social.
+- **(1)** La demande de prestations, la demande de partage des gains non ajustés ouvrant droit à pension en application des articles 55 ou 55.1 de la Loi ou la demande de cession d’une partie de la pension de retraite visée à l’article 65.1 de la Loi est présentée par écrit au ministre.
 
 - **(1.1)** Si le requérant se voit refuser une demande de pension d’invalidité et qu’il atteint l’âge de 60 ans entre la date de la demande et celle du refus, ou aurait eu droit à une pension de retraite s’il en avait fait la demande à la date de la demande de pension d’invalidité, cette dernière est, sur présentation d’une requête par le requérant ou en son nom, réputée être une demande de pension de retraite si elle est faite :
-	- **a)** par écrit à tout bureau du ministère du Développement des ressources humaines;
+	- **a)** par écrit au ministre;
 	- **b)** dans les 90 jours suivant la fin du mois où le requérant est avisé du refus ou, si celui-ci est porté en appel et confirmé, dans les 90 jours suivant le jour où le requérant est avisé de la confirmation définitive du refus.
 
 - **(2)** Lorsque, en raison de l’article 80 de la Loi et d’un accord intervenu en vertu de cet article avec une province disposant d’un régime général de pensions, le montant global d’une prestation payable à un requérant est réputé payable selon ce régime ou lorsque le partage des gains non ajustés ouvrant droit à pension peut être déterminé selon ce régime conformément à l’accord, le ministre doit, aussitôt que possible après avoir reçu la demande, la transmettre, ainsi qu’une attestation de la date de sa réception, à l’autorité chargée, en vertu de ce régime, de recevoir les demandes, de calculer le partage des gains non ajustés ouvrant droit à pension et de verser les prestations.
-> DORS/79-751, art. 1(A); DORS/86-1133, art. 3; DORS/89-345, art. 2; DORS/90-829, art. 14; DORS/93-290, art. 1; DORS/96-522, art. 23 et 24; DORS/2004-249, art. 2; 2013, ch. 40, art. 237.
+> DORS/79-751, art. 1(A); DORS/86-1133, art. 3; DORS/89-345, art. 2; DORS/90-829, art. 14; DORS/93-290, art. 1; DORS/96-522, art. 23 et 24; DORS/2004-249, art. 2; 2013, ch. 40, art. 237; DORS/2018-281, art. 2.
 
 
 
@@ -938,12 +993,16 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 - **(1)** Un bénéficiaire peut demander la cessation d’une prestation en présentant au ministre une demande écrite à cet effet dans les six mois suivant la date où le paiement de la prestation a commencé.
 
-- **(2)** Malgré le paragraphe (1), lorsque le requérant qui a demandé une pension d’invalidité conformément à la Loi ou des prestations comparables aux termes d’un régime provincial de pensions est réputé être devenu invalide afin d’y être admissible, qu’il reçoit une pension de retraite et que la date à laquelle il est réputé être devenu invalide est antérieure au jour où la pension de retraite est devenue payable, il peut demander la cessation de la pension de retraite en présentant au ministre une demande écrite à cet effet au cours de la période commençant à la date du premier versement de la pension de retraite et se terminant le 60<sup>e</sup> jour après qu’il a reçu avis de la décision de le réputer invalide.
+- **(2)** Lorsque le requérant ayant demandé une pension d’invalidité reçoit une pension de retraite et qu’il est réputé être devenu invalide afin d’être admissible à la pension d’invalidité avant le mois au cours duquel la pension de retraite est devenue payable, la demande de pension d’invalidité est réputée être une demande de cessation de la pension de retraite.
 
-- **(3)** Sur réception de la demande visée aux paragraphes (1) ou (2), le ministre l’étudie et, selon les critères applicables, l’accepte ou la refuse.
+- **(2.1)** Malgré le paragraphe (1), lorsque le requérant ayant demandé des prestations aux termes d’un régime provincial de pensions comparables à une pension d’invalidité reçoit une pension de retraite et que la date à laquelle il est réputé être devenu invalide afin d’être admissible aux prestations est antérieure au mois au cours duquel la pension de retraite est devenue payable, il peut demander la cessation de la pension de retraite en présentant au ministre une demande écrite durant la période commençant à la date du premier versement de la pension de retraite et se terminant le 90<sup>e</sup> jour suivant la date à laquelle il a reçu avis de la décision de le réputer invalide.
+
+- **(2.2)** Le requérant visé au paragraphe (2) peut demander la cessation de la pension d’invalidité et le rétablissement de la pension de retraite en présentant au ministre une demande écrite dans les 60 jours suivant la réception de l’avis d’admissibilité à la pension d’invalidité.
+
+- **(3)** Le ministre accorde les demandes présentées conformément aux paragraphes (1), (2.1) ou (2.2) ainsi que celles réputées être présentées conformément au paragraphe (2).
 
 - **(4)** Dans les cas où la demande visée au paragraphe 66.1(2) de la Loi est acceptée conformément au présent article, le montant de la prestation versée doit être retourné dans les six mois suivant la date d’acceptation de la demande.
-> DORS/86-1133, art. 6; DORS/90-829, art. 19; DORS/93-290, art. 3; DORS/96-522, art. 9 et 23; DORS/99-192, art. 3.
+> DORS/86-1133, art. 6; DORS/90-829, art. 19; DORS/93-290, art. 3; DORS/96-522, art. 9 et 23; DORS/99-192, art. 3; DORS/2018-281, art. 3.
 
 
 
@@ -1263,7 +1322,7 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 **64** 
 
-- **(1)** Dans le cas visé à l’alinéa 71(2)a) de la Loi ou lorsque les ayants droit d’un cotisant n’ont pas demandé la prestation de décès dans les 60 jours suivant le décès du cotisant ou que le montant de la prestation de décès est inférieur aux deux tiers de 10 % du maximum des gains annuels ouvrant droit à pension pour l’année de son décès, s’il est décédé avant le 1<sup>er</sup> janvier 1998, ou est inférieur à 2 387 $, s’il est décédé après le 31 décembre 1997, la directive émise en application du paragraphe 71(2) de la Loi peut, sous réserve des paragraphes (2) et (3), prévoir le paiement de la prestation de décès :
+- **(1)** Dans le cas visé à l’alinéa 71(2)a) de la Loi ou lorsque les ayants droit d’un cotisant n’ont pas demandé la prestation de décès dans les 60 jours suivant le décès du cotisant ou que le montant de la prestation de décès est inférieur aux deux tiers de 10 % du maximum des gains annuels ouvrant droit à pension pour l’année de son décès, s’il est décédé avant le 1<sup>er</sup> janvier 1998, ou est inférieur à 2 387 $, s’il est décédé après le 31 décembre 1997 et avant le 1<sup>er</sup> janvier 2019, la directive émise en application du paragraphe 71(2) de la Loi peut, sous réserve des paragraphes (2) et (3), prévoir le paiement de la prestation de décès :
 	- **a)** à la personne ou à l’établissement qui a payé les frais funéraires du cotisant décédé ou en est responsable;
 	- **b)** à défaut de la personne ou de l’établissement visés à l’alinéa a), au survivant du cotisant décédé;
 	- **c)** à défaut de personne ou d’établissement visé à l’alinéa a) ou de survivant visé à l’alinéa b), au plus proche parent du cotisant décédé.
@@ -1271,7 +1330,7 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 - **(2)** Le paiement effectué en application de l’alinéa (1)a) ne peut dépasser le montant des frais funéraires réels.
 
 - **(3)** Si le paiement effectué en application de l’alinéa (1)a) est inférieur au montant de la prestation de décès, une directive peut être émise pour prévoir le paiement du reliquat de la prestation à la personne visée à l’alinéa (1)b) ou c), selon le cas.
-> DORS/86-1133, art. 14; DORS/90-829, art. 27; DORS/96-522, art. 15(A); DORS/99-192, art. 6; DORS/2000-411, art. 11 et 18.
+> DORS/86-1133, art. 14; DORS/90-829, art. 27; DORS/96-522, art. 15(A); DORS/99-192, art. 6; DORS/2000-411, art. 11 et 18; DORS/2018-281, art. 4.
 
 
 
@@ -1422,36 +1481,36 @@ qu’il peut indiquer.
 
 
 
-### Demande de rétablissement de la pension d’invalidité et de prestation d’enfant de cotisant invalide
-> [DORS/2010-45, art. 5]
+### Demande de rétablissement de la pension d’invalidité, de la pension d’invalidité après-retraite ou de la prestation d’enfant de cotisant invalide
+> [DORS/2018-281, art. 5]
 
 
 
 **71** 
 
-- **(1)** La demande de rétablissement de la pension d’invalidité prévue à l’article 70.1 de la Loi est présentée par écrit à tout bureau du ministère du Développement des ressources humaines ou du ministère de l’Emploi et du Développement social.
+- **(1)** La demande de rétablissement de la pension d’invalidité ou de la pension d’invalidité après-retraite prévue à l’article 70.1 de la Loi est présentée par écrit au ministre.
 
 - **(2)** Elle est présentée dans les douze mois suivant le mois au cours duquel l’intéressé est redevenu incapable de travailler.
-> DORS/2005-38, art. 1; 2013, ch. 40, art. 237.
+> DORS/2005-38, art. 1; 2013, ch. 40, art. 237; DORS/2018-281, art. 6.
 
 
 
 
 **72** 
 
-- **(1)** Pour établir si la personne a droit au rétablissement de la pension d’invalidité, le ministre se fonde sur les renseignements et la preuve qui lui sont fournis conformément au paragraphe (2).
+- **(1)** Pour établir si la personne a droit au rétablissement de la pension d’invalidité ou de la pension d’invalidité après-retraite, le ministre se fonde sur les renseignements et la preuve qui lui sont fournis conformément au paragraphe (2).
 
 - **(2)** Le requérant ou quiconque présente la demande en son nom fournit au ministre les renseignements et la preuve qui suivent :
 	- **a)** les nom, adresse et numéro d’assurance sociale du requérant et, le cas échéant, les nom et adresse de quiconque présente la demande en son nom ainsi que son lien avec le requérant;
-	- **b)** le mois au cours duquel le requérant a cessé de recevoir la pension d’invalidité;
+	- **b)** le mois au cours duquel le requérant a cessé de recevoir la pension d’invalidité ou la pension d’invalidité après-retraite;
 	- **c)** le mois au cours duquel le requérant est redevenu incapable de travailler;
 	- **d)** la date à laquelle le requérant a cessé de travailler;
-	- **e)** la déclaration d’une personne habile à pratiquer la médecine confirmant que le requérant est atteint d’une invalidité physique ou mentale grave et prolongée et que cette invalidité est la même que celle qui a donné droit à la pension d’invalidité dont le rétablissement est demandé ou qu’elle y est reliée;
+	- **e)** la déclaration d’une personne habile à pratiquer la médecine confirmant que le requérant est atteint d’une invalidité physique ou mentale grave et prolongée et que cette invalidité est la même que celle qui a donné droit à la pension d’invalidité ou à la pension d’invalidité après-retraite dont le rétablissement est demandé ou qu’elle y est reliée;
 	- **f)** le nom de chacun des enfants à charge du requérant et le fait que l’enfant vit ou non chez le requérant;
 	- **g)** si la demande comprend une demande de rétablissement de la prestation d’enfant de cotisant invalide à l’égard de tout enfant du requérant qui est âgé de dix-huit ans ou plus :
 		- **(i)** les nom, adresse et numéro d’assurance sociale de l’enfant,
 		- **(ii)** la preuve, établie conformément à l’article 67, que l’enfant fréquente une école ou une université à temps plein.
-> DORS/2005-38, art. 1; DORS/2010-45, art. 6.
+> DORS/2005-38, art. 1; DORS/2010-45, art. 6; DORS/2018-281, art. 7.
 
 
 
@@ -1566,13 +1625,13 @@ d’une somme égale à ce paiement excédentaire.
 
 **76.1** 
 
-- **(1)** Pour l’application du paragraphe 65(3) de la Loi, le ministre peut retenir la somme visée à ce paragraphe sur une prestation payable à une personne en vertu de l’alinéa 44(1)b) de la Loi et payer cette somme à un administrateur agréé par lui si les conditions suivantes sont réunies :
+- **(1)** Pour l’application du paragraphe 65(3) de la Loi, le ministre peut retenir la somme visée à ce paragraphe sur une prestation payable à une personne en vertu des alinéas 44(1)b) et h) de la Loi et payer cette somme à un administrateur agréé par lui si les conditions suivantes sont réunies :
 	- **a)** l’administrateur remet au ministre un relevé du paiement fait en vertu du régime ou du programme d’assurance-invalidité ainsi que le consentement irrévocable écrit, émanant de la personne, d’effectuer la retenue et le paiement;
 	- **b)** le ministre reçoit les documents visés à l’alinéa a) dans l’année qui suit la date de signature de l’autorisation;
 	- **c)** la somme est supérieure à 50 $.
 
 - **(2)** Pour l’application du paragraphe 65(3) de la Loi, lorsque, pour un motif quelconque, aucune retenue n’a été faite ou qu’une retenue et un paiement ont été faits pour un montant moindre que celui qui aurait pu être payé selon ce paragraphe, le ministre ne peut pas autoriser d’autres retenues et paiements.
-> DORS/93-290, art. 7; DORS/99-192, art. 8; DORS/2002-221, art. 4.
+> DORS/93-290, art. 7; DORS/99-192, art. 8; DORS/2002-221, art. 4; DORS/2018-281, art. 8.
 
 
 
