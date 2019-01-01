@@ -521,27 +521,27 @@ Suisse
 
 **21** Les définitions qui suivent s’appliquent aux articles 21.1 à 21.3.
 
- ou  or ***bière*** ou ***liqueur de malt*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), du n<sup>o</sup> tarifaire 2202.90.10 ou de la position 22.03, classée dans ce numéro tarifaire ou cette position ou avec le contenant dans lequel elle est importée.
+***bière*** ou ***liqueur de malt*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), du n<sup>o</sup> tarifaire 2202.91.00 ou de la position 22.03, classée dans ce numéro tarifaire ou cette position ou avec le contenant dans lequel elle est importée. (*beer* or *malt liquor*)
 
-***emballé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***emballé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*packaged*)
 
-***entrepôt d’accise*** entrepôt d’accise S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***entrepôt d’accise*** entrepôt d’accise S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*excise warehouse*)
 
-***en vrac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***en vrac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*bulk*)
 
-***exploitant agréé d’entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***exploitant agréé d’entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*excise warehouse licensee*)
 
-***local déterminé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***local déterminé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*specified premises*)
 
-***spiritueux*** Spiritueux, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) :
-- **a)** d’un titre alcoométrique volumique excédant 22,9 %, des n<sup>os</sup>  tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 ou 2206.00.93, classés dans ces numéros tarifaires ou avec le contenant dans lequel ils sont importés;
+***spiritueux*** Spiritueux, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) :
+- **a)** d’un titre alcoométrique volumique excédant 22,9 %, des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 ou 2206.00.93, classés dans ces numéros tarifaires ou avec le contenant dans lequel ils sont importés;
 - **a.1)** d’un titre alcoométrique volumique excédant 11,9 %, de la position n<sup>o</sup> 22.03, classés dans cette position ou avec le contenant dans lequel ils sont importés;
-- **b)** des positions n<sup>os</sup>  22.07 ou 22.08, à l’exception des n<sup>os</sup>  tarifaires 2207.20.11, 2207.20.12, 2207.20.90 et 2208.90.30, classés dans ces positions ou avec le contenant dans lequel ils sont importés.
+- **b)** des positions n<sup>os</sup>  22.07 ou 22.08, à l’exception des n<sup>os</sup>  tarifaires 2207.20.11, 2207.20.12, 2207.20.90 et 2208.90.30, classés dans ces positions ou avec le contenant dans lequel ils sont importés. (*spirits*)
 
-***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*licensed user*)
 
-***vin*** Vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), des positions 22.04, 22.05 ou 22.06, à l’exception des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 et 2206.00.93, classé dans ces positions ou avec le contenant dans lequel il est importé.
-> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45; 2007, ch. 18, art. 142; 2008, ch. 28, art. 70.
+***vin*** Vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), des positions 22.04, 22.05 ou 22.06, à l’exception des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 et 2206.00.93, classé dans ces positions ou avec le contenant dans lequel il est importé. (*wine*)
+> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45; 2007, ch. 18, art. 142; 2008, ch. 28, art. 70; 2018, ch. 27, art. 69.
 
 
 
@@ -3660,7 +3660,9 @@ Pérou
 
 - **(5)** Pour l’application de l’alinéa (2)a), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 1997, ch. 36, art. 69; 2018, ch. 27, art. 70.
+
 
 
 
@@ -3708,7 +3710,9 @@ Pérou
 
 - **(7)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 1997, ch. 36, art. 70; 2018, ch. 27, art. 71.
+
 
 
 
@@ -3756,7 +3760,9 @@ Pérou
 
 - **(7)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 1997, ch. 36, art. 71; 2018, ch. 27, art. 72.
+
 
 
 
@@ -3845,8 +3851,8 @@ Pérou
 
 - **(8)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 2001, ch. 28, art. 38.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 2001, ch. 28, art. 38; 2018, ch. 27, art. 73.
 
 
 
@@ -3874,7 +3880,7 @@ Pérou
 **Certains numéros tarifaires**
 
 - **(3)** Le décret :
-	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
 	- **b)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 et  8905.90.90,  être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et  se terminant la veille de la date du quinzième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée.
 
 **Taux à la cessation d’effet**
@@ -3897,8 +3903,8 @@ Pérou
 
 - **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 2009, ch. 6, art. 34.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 2009, ch. 6, art. 34; 2018, ch. 27, art. 74.
 
 
 
@@ -3926,7 +3932,7 @@ Pérou
 **Certains numéros tarifaires**
 
 - **(3)** Le décret :
-	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
 	- **b)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 et  8905.90.90,  être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et  se terminant la veille de la date du quinzième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée.
 
 **Taux à la cessation d’effet**
@@ -3949,12 +3955,12 @@ Pérou
 
 - **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
 
 **Non application**
 
 - **(8)** Cet article ne s’applique pas aux marchandises du territoire de Svalbard.
-> 2009, ch. 6, art. 34.
+> 2009, ch. 6, art. 34; 2018, ch. 27, art. 75.
 
 
 
@@ -3982,7 +3988,7 @@ Pérou
 **Certains numéros tarifaires**
 
 - **(3)** Le décret :
-	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
 	- **b)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 et  8905.90.90,  être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et  se terminant la veille de la date du quinzième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée.
 
 **Taux à la cessation d’effet**
@@ -4005,8 +4011,8 @@ Pérou
 
 - **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-> 2009, ch. 6, art. 34.
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 2009, ch. 6, art. 34; 2018, ch. 27, art. 76.
 
 
 
@@ -4117,8 +4123,8 @@ Pérou
 
 - **(6)** Pour l’application de l’alinéa (1)b), le taux de droits de douane du tarif de la nation la plus favorisée en vigueur est :
 	- **a)** à l’égard des légumes frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires qui leur est applicable;
-	- **b)** à l’égard des fruits frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires qui leur est applicable.
-> 2012, ch. 18, art. 37.
+	- **b)** à l’égard des fruits frais, le taux spécifié au numéro tarifaire mentionné à la Note supplémentaire 3b) du Chapitre 8 de la liste des dispositions tarifaires qui leur est applicable.
+> 2012, ch. 18, art. 37; 2018, ch. 27, art. 77.
 
 
 
@@ -5759,8 +5765,8 @@ Pérou
 
 **Arrêtés**
 
-- **(2)** Le ministre de la Sécurité publique et de la Protection civile ou le président de l’Agence des services frontaliers du Canada peuvent, par arrêté, suspendre pendant une période donnée l’application d’un numéro tarifaire visé à la Note supplémentaire 4c) du Chapitre 8 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 4 b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
-> 1997, ch. 36, art. 134; 1999, ch. 17, art. 131; 2005, ch. 38, art. 141, 142 et 145.
+- **(2)** Le ministre de la Sécurité publique et de la Protection civile ou le président de l’Agence des services frontaliers du Canada peuvent, par arrêté, suspendre pendant une période donnée l’application d’un numéro tarifaire visé à la Note supplémentaire 3c) du Chapitre 8 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 3b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
+> 1997, ch. 36, art. 134; 1999, ch. 17, art. 131; 2005, ch. 38, art. 141, 142 et 145; 2018, ch. 27, art. 78.
 
 
 
