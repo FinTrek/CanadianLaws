@@ -1055,7 +1055,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**160** [Amendment]
+**160** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -1090,7 +1090,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** Subject to subsection (2), the provisions of this Part, other than sections 148, 149, 151 to 155, 157 to 159, 161 and 163, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1DFF_hq_4906'><sup>*</sup></a>: [Note: Sections 148, 149, 151 to 155, 157 to 159, 161 and 163 in force on assent June 18, 2008; sections 146 and 147 in force August 5, 2008, *see* SI/2008-84.]<br />
+<a name='fn_Ind1DFF_hq_4906'><sup>*</sup></a>: [Note: Sections 148, 149, 151 to 155, 157 to 159, 161 and 163 in force on assent June 18, 2008; sections 146 and 147 in force August 5, 2008, *see* SI/2008-84; section 160 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 **Deemed coming into force**
 
