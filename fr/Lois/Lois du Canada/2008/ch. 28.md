@@ -1061,7 +1061,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**160** [Modification]
+**160** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -1096,7 +1096,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sous réserve du paragraphe (2), les dispositions de la présente partie, à l’exception des articles 148, 149, 151 à 155, 157 à 159, 161 et 163, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind7E40_hq_4909'><sup>*</sup></a>: [Note : Articles 148, 149, 151 à 155, 157 à 159, 161 et 163 en vigueur à la sanction le 18 juin 2008; articles 146 et 147 en vigueur le 5 août 2008, *voir* TR/2008-84.]<br />
+<a name='fn_Ind7E40_hq_4909'><sup>*</sup></a>: [Note : Articles 148, 149, 151 à 155, 157 à 159, 161 et 163 en vigueur à la sanction le 18 juin 2008; articles 146 et 147 en vigueur le 5 août 2008, *voir* TR/2008-84; article 160 abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 **Présomption**
 
