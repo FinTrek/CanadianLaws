@@ -102,7 +102,7 @@ and includes all services incidental to the carrying on of any of the operations
 
 ***employed on a non-continuous basis***[Repealed, SOR/85-39, s. 1]
 
-***employee’s contribution*** means an amount determined in accordance with sections 5 and 6; (*cotisation de l’employé*)
+***employee’s contribution*** means any amount determined in accordance with sections 5, 5.1 and 6; (*cotisation de l’employé*)
 
 ***employer’s contribution*** means an amount determined in accordance with section 7; (*cotisation de l’employeur*)
 
@@ -118,8 +118,14 @@ and for the purposes of paragraphs (a) and (b) includes a period of an hour or a
 
 ***remuneration*** has the same meaning as the expression “contributory salary and wages” as used in section 12 of the Act; (*rémunération*)
 
-***year’s maximum contribution*** means an amount calculated by multiplying the person’s contribution rate for the year by the difference between the amount of the person’s maximum pensionable earnings, and the amount of the person’s basic exemption. (*cotisation maximale pour l’année*)
-> SOR/78-142, s. 1; SOR/78-935, s. 1; SOR/80-133, s. 1; SOR/81-99, s. 1; SOR/82-290, s. 1; SOR/83-270, s. 1; SOR/84-115, s. 1; SOR/85-39, s. 1; SOR/85-1164, s. 1; SOR/86-1134, s. 1; SOR/87-721, s. 1; SOR/88-639, s. 1; SOR/89-580, s. 1; SOR/90-829, s. 1; SOR/90-832, s. 1; SOR/92-36, s. 1; SOR/92-736, s. 1; SOR/94-173, s. 1; SOR/95-156, s. 1; SOR/96-262, s. 1; SOR/97-384, s. 1; SOR/98-258, s. 1; SOR/99-60, s. 1; SOR/2000-61, s. 1; SOR/2001-135, s. 1; SOR/2002-245, s. 1.
+***year’s maximum base contribution*** means an amount calculated by multiplying a person’s contribution rate for the year by the difference between the amount of the person’s maximum pensionable earnings and the amount of the person’s basic exemption; (*cotisation de base maximale pour l’année*)
+
+***year’s maximum contribution***[Repealed, SOR/2019-41, s. 1]
+
+***year’s maximum first additional contribution*** means an amount calculated by multiplying a person’s first additional contribution rate for the year by the difference between the amount of the person’s maximum pensionable earnings and the amount of the person’s basic exemption; (*première cotisation supplémentaire maximale pour l’année*)
+
+***year’s maximum second additional contribution*** means an amount calculated by multiplying a person’s second additional contribution rate for the year by the difference between the amount of the person’s additional maximum pensionable earnings and the amount of the person’s maximum pensionable earnings. (*deuxième cotisation supplémentaire maximale pour l’année*)
+> SOR/78-142, s. 1; SOR/78-935, s. 1; SOR/80-133, s. 1; SOR/81-99, s. 1; SOR/82-290, s. 1; SOR/83-270, s. 1; SOR/84-115, s. 1; SOR/85-39, s. 1; SOR/85-1164, s. 1; SOR/86-1134, s. 1; SOR/87-721, s. 1; SOR/88-639, s. 1; SOR/89-580, s. 1; SOR/90-829, s. 1; SOR/90-832, s. 1; SOR/92-36, s. 1; SOR/92-736, s. 1; SOR/94-173, s. 1; SOR/95-156, s. 1; SOR/96-262, s. 1; SOR/97-384, s. 1; SOR/98-258, s. 1; SOR/99-60, s. 1; SOR/2000-61, s. 1; SOR/2001-135, s. 1; SOR/2002-245, s. 1; SOR/2019-41, s. 1.
 
 
 
@@ -128,8 +134,8 @@ and for the purposes of paragraphs (a) and (b) includes a period of an hour or a
 ### Computation of Employee’s Contribution
 
 
-**4** For the purposes of subsection 21(1) of the Act, the rules set out in section 5 are hereby prescribed for the purposes of determining an employee’s contribution to be deducted by the employee’s employer from any payment of remuneration in a year.
-> SOR/85-39, s. 2; SOR/90-829, s. 2.
+**4** For the purposes of subsection 21(1) of the Act, the rules set out in sections 5 and 5.1 are prescribed for the purposes of determining an employee’s contribution to be deducted by the employee’s employer from any payment of remuneration in a year.
+> SOR/85-39, s. 2; SOR/90-829, s. 2; SOR/2019-41, s. 2.
 
 
 
@@ -138,16 +144,17 @@ and for the purposes of paragraphs (a) and (b) includes a period of an hour or a
 
 - **(1)** For the purposes of this section, a ***qualifying payment of remuneration*** is that portion of a payment of remuneration that is ordinary remuneration from pensionable employment.
 
-- **(2)** Subject to subsections (6) to (8), the amount of an employee’s contribution to be deducted by their employer from any qualifying payment of remuneration in a pay period in a year shall be determined using the following formula and rounding the result to the nearest multiple of $0.01 or, where that result is equidistant from two such multiples, to the higher thereof:
+- **(2)** Subject to subsections (6) to (8), the amount of an employee’s base contribution and an employee’s first additional contribution to be deducted by their employer from any qualifying payment of remuneration in a pay period in a year shall be determined using the following formula and rounding the result to the nearest multiple of $0.01 or, if that result is equidistant from two such multiples, to the higher of them:
 ```
-(A - B) x C
+(A − B) × (C + D)
 ```
 where
 - **A** is the qualifying payment of remuneration for the pay period;
-- **B** is the employee’s basic exemption in respect of the pay period; and
-- **C** is the contribution rate for employees for the year.
+- **B** is the employee’s basic exemption in respect of the pay period;
+- **C** is the contribution rate for employees for the year; and
+- **D** is the first additional contribution rate for employees for the year.
 
-- **(3)** Subject to subsections (7) and (8), the amount of an employee’s contribution in respect of that portion of a payment of remuneration from pensionable employment that is not a qualifying payment of remuneration is the product of that portion multiplied by the contribution rate for employees for the year, rounded in the manner set out in subsection (2).
+- **(3)** Subject to subsections (7) and (8), the amount of an employee’s base contribution and an employee’s first additional contribution in respect of that portion of a payment of remuneration from pensionable employment that is not a qualifying payment of remuneration is the product of that portion multiplied by the sum of the contribution rate for employees and the first additional contribution rate for employees for the year, rounded in the manner set out in subsection (2).
 
 - **(4)** [Repealed, SOR/2002-245, s. 2]
 
@@ -171,15 +178,42 @@ where
 		- **(i)** the product obtained when $3,500 is multiplied by the fraction that the number of days in the period is of 365, and
 		- **(ii)** $67.30.
 
-- **(6)** Where there are 27 bi-weekly or 53 weekly pay periods ending in a year, there shall be added to the employee’s contribution otherwise determined under subsection (2) for each pay period an amount equal to the amount determined when
+- **(6)** If there are 27 bi-weekly or 53 weekly pay periods ending in a year, there shall be added to the employee’s contributions otherwise determined under subsection (2) for each pay period an amount equal to the amount determined when
 	- **(a)** the employee’s basic exemption for the year is divided by 27 or 53, as the case may be, without taking into consideration amounts less than $0.01;
 	- **(b)** the amount determined under paragraph (a) is subtracted from the amount of the applicable basic exemption determined under subsection (5); and
-	- **(c)** the amount determined under paragraph (b) is multiplied by the contribution rate for employees for the year and the product obtained thereby is rounded to the nearest multiple of $0.01, or where that product is equidistant from two such multiples, to the higher thereof.
+	- **(c)** the amount determined under paragraph (b) is multiplied by the sum of the contribution rate for employees and the first additional contribution rate for employees for the year, and the product obtained is rounded to the nearest multiple of $0.01, or if that product is equidistant from two such multiples, to the higher of them.
 
-- **(7)** Where a payment of remuneration in respect of an employee’s pensionable employment for a pay period in a year exceeds the amount of the employee’s basic exemption for the pay period, the amount of the employee’s contribution in respect of that payment shall be at least $0.01.
+- **(7)** If a payment of remuneration in respect of an employee’s pensionable employment for a pay period in a year exceeds the amount of the employee’s basic exemption for the pay period, the amount of the employee’s contributions in respect of that payment shall be at least $0.01.
 
-- **(8)** The aggregate of an employee’s contributions for a year deducted by an employer in respect of pensionable employment with the employer shall not exceed the year’s maximum contribution.
-> SOR/78-142, s. 2; SOR/78-935, s. 2; SOR/80-133, s. 2; SOR/81-99, s. 2; SOR/82-290, s. 2; SOR/83-270, s. 2; SOR/84-115, s. 2; SOR/85-39, s. 2; SOR/85-1164, s. 2; SOR/86-1134, s. 2; SOR/87-721, s. 2; SOR/88-639, s. 2; SOR/89-580, s. 2; SOR/90-832, s. 2; SOR/92-36, s. 2; SOR/92-736, s. 2; SOR/94-173, s. 2; SOR/96-262, s. 2; SOR/2002-245, s. 2; SOR/2004-223, s. 1(F).
+- **(8)** The aggregate of an employee’s base contributions and an employee’s first additional contributions for a year deducted by an employer in respect of pensionable employment with the employer shall not exceed the sum of the year’s maximum base contribution and the year’s maximum first additional contribution.
+> SOR/78-142, s. 2; SOR/78-935, s. 2; SOR/80-133, s. 2; SOR/81-99, s. 2; SOR/82-290, s. 2; SOR/83-270, s. 2; SOR/84-115, s. 2; SOR/85-39, s. 2; SOR/85-1164, s. 2; SOR/86-1134, s. 2; SOR/87-721, s. 2; SOR/88-639, s. 2; SOR/89-580, s. 2; SOR/90-832, s. 2; SOR/92-36, s. 2; SOR/92-736, s. 2; SOR/94-173, s. 2; SOR/96-262, s. 2; SOR/2002-245, s. 2; SOR/2004-223, s. 1(F); SOR/2019-41, s. 3.
+
+
+
+
+**5.1** 
+
+- **(1)** Subject to paragraph (3), for the year 2024 and each subsequent year, the amount of an employee’s second additional contribution to be deducted by their employer from a payment of remuneration paid to the employee in a year shall be determined in accordance with subsection (2) when the result of the following formula exceeds zero:
+```
+(A + B) − C
+```
+where 
+- **A** is the payment of remuneration that the employer pays to the employee;
+- **B** is the total remuneration paid by the employer to that employee for the year up to the date of the payment; and
+- **C** is the greater of
+- **(a)** the total of the remuneration paid by the employer to that employee for the year up to the date of the payment; and
+- **(b)** the amount of the employee’s maximum pensionable earnings for the year.
+
+- **(2)** The amount of the employee’s second additional contribution is determined by using the following formula and rounding the result to the nearest multiple of $0.01 or, if that result is equidistant from two such multiples, to the higher of them:
+```
+E × F
+```
+where
+- **E** is the result of the calculation as set out under subsection (1); and
+- **F** is the second additional contribution rate for employees for the year.
+
+- **(3)** The aggregate of an employee’s second additional contributions for a year deducted by the person’s employer from a payment of remuneration in respect of pensionable employment shall not exceed the year’s maximum second additional contribution.
+> SOR/2019-41, s. 4.
 
 
 
@@ -190,10 +224,20 @@ where
 
 **6** 
 
-- **(1)** Where an employee has made a contribution for the year under a provincial pension plan in respect of salary and wages paid to him by an employer, the amount of the employee’s contribution determined under section 5 in respect of a payment of remuneration to him in that year by that employer shall not exceed the amount remaining after subtracting from the year’s maximum contribution the aggregate of that employee’s contributions previously required to be deducted in that year by that employer under this Part or under a provincial pension plan.
+- **(1)** If an employee has made a base contribution and a first additional contribution for the year under a provincial pension plan in respect of salary and wages paid to the employee by an employer, the amount of the employee’s base contribution and the employee’s first additional contribution determined under section 5, in respect of a payment of remuneration to the employee in that year by that employer, shall not exceed the amount remaining after subtracting from the sum of the year’s maximum base contribution and the year’s maximum first additional contribution the aggregate of that employee’s base contributions and first additional contributions previously required to be deducted in that year by that employer under this Part or under a provincial pension plan.
 
-- **(2)** For the purposes of sections 10 and 13 of the Act, the salary and wages on which a contribution has been made for the year by an individual under a provincial pension plan is an amount equal to the aggregate of all contributions required to be made by the individual in that year under a provincial pension plan in respect of salary and wages, divided by the contribution rate for employees for the year.
-> SOR/86-1134, s. 3; SOR/90-829, s. 3.
+- **(2)** For the purposes of the calculation under subsection (1), the amount of contributions previously required to be deducted by the employer under a provincial pension plan is equal to the amount determined by multiplying the amount of those contributions by the ratio that the sum of the contribution rate for employees and the first additional contribution rate for employees under the Act bears to the sum of the corresponding rates of the provincial pension plan.
+
+- **(3)** If an employee has made a second additional contribution for the year under a provincial pension plan in respect of salary and wages paid to the employee by an employer, the amount of the employee’s second additional contribution determined under section 5.1, in respect of a payment of remuneration to the employee in that year by that employer, shall not exceed the amount remaining after subtracting from the year’s maximum second additional contribution the aggregate of that employee’s second additional contributions previously required to be deducted in that year by that employer under this Part or under a provincial pension plan.
+
+- **(4)** For the purposes of the calculation under subsection (3), the amount of contributions previously required to be deducted by the employer under a provincial pension plan is equal to the amount determined by multiplying the amount of those contributions by the ratio that the second additional contribution rate for employees under the Act bears to the corresponding rate under the provincial pension plan.
+> SOR/86-1134, s. 3; SOR/90-829, s. 3; SOR/2019-41, s. 5.
+
+
+
+
+**6.1** For the purposes of subsections 10(1) and 13(3) of the Act, the salary and wages on which a base contribution has been made for the year by an individual under a provincial pension plan is an amount equal to the aggregate of all base contributions required to be made by the individual in that year under a provincial pension plan in respect of salary and wages, divided by the base contribution rate for employees under the provincial plan for the year.
+> SOR/2019-41, s. 5.
 
 
 
@@ -202,7 +246,9 @@ where
 ### Employer’s Contribution
 
 
-**7** The amount that an employer shall remit as the employer’s contribution in respect of a payment of remuneration made by him to an employee employed by him in pensionable employment is an amount equal to the employee’s contribution required to be deducted under this Part in respect of that payment of remuneration.
+**7** The amount that an employer shall remit as the employer’s contribution in respect of a payment of remuneration made by the employer to an employee in pensionable employment is an amount equal to the employee’s contributions required to be deducted under this Part in respect of that payment of remuneration.
+> SOR/2019-41, s. 7.
+
 
 
 
@@ -212,19 +258,19 @@ where
 
 **8** 
 
-- **(1)** Subject to subsections (1.1), (1.11), (1.12), (1.13) and (2), the employee’s contribution and the employer’s contribution shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
+- **(1)** Subject to subsections (1.1), (1.11), (1.12), (1.13) and (2), the employee’s contributions and the employer’s contributions shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
 
 - **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
-	- **(a)** equal to or greater than $25,000 and less than $100,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General
+	- **(a)** equal to or greater than $25,000 and less than $100,000, the employer shall remit the employee’s contributions and the employer’s contributions to the Receiver General
 		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
 		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month; or
-	- **(b)** equal to or greater than $100,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which remuneration was paid,
+	- **(b)** equal to or greater than $100,000, the employer shall remit the employee’s contributions and the employer’s contributions to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which remuneration was paid,
 		- **(i)** the period beginning on the first day of a month in the particular calendar year and ending on the 7th day of the month,
 		- **(ii)** the period beginning on the 8th day of a month in the particular calendar year and ending on the 14th day of the month,
 		- **(iii)** the period beginning on the 15th day of a month in the particular calendar year and ending on the 21st day of the month, and
 		- **(iv)** the period beginning on the 22nd day of a month in the particular calendar year and ending on the last day of the month.
 
-- **(1.11)** Where an employer referred to in paragraph (1.1)(a) or (b) would otherwise be required to remit the employee’s contribution and employer’s contribution in respect of a particular calendar year in accordance with that paragraph, the employer may elect to remit those contributions
+- **(1.11)** If an employer referred to in paragraph (1.1)(a) or (b) would otherwise be required to remit the employee’s contributions and employer’s contributions in respect of a particular calendar year in accordance with that paragraph, the employer may elect to remit those contributions
 	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $25,000 and the employer has advised the Minister that the employer has so elected; or
 	- **(b)** if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is equal to or greater than $25,000 and less than $100,000 and the employer has advised the Minister that the employer has so elected,
 		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
@@ -251,22 +297,22 @@ contributions payable in a month that ends after that time and that is in the pa
 	- **(b)** the determination as to whether an employer is a new employer is made in accordance with subsections 108(1.4) and (1.41) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md); and
 	- **(c)** the monthly withholding amount in respect of a new employer for a month is determined in accordance with subsection 108(1.21) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
 
-- **(2)** An employer carrying on a business or activity with respect to which he employs employees in pensionable employment shall, if he ceases to carry on that business or activity, within seven days of so ceasing remit to the Receiver General any employee’s contribution and any employer’s contribution that he is required to remit with respect to those employees.
+- **(2)** If an employer carrying on a business or activity with respect to which they employ employees in pensionable employment ceases to carry on that business or activity, the employer shall, within seven days of ceasing to carry on that business or activity, remit to the Receiver General any employee’s contributions and any employer’s contributions that the employer is required to remit with respect to those employees.
 
-- **(3)** Every payment by an employer of an employee’s contribution or an employer’s contribution shall be accompanied by a return in prescribed form.
-> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90; 2014, c. 20, s. 38; 2015, c. 36, s. 27.
+- **(3)** Every payment by an employer of an employee’s contributions or an employer’s contributions shall be accompanied by a return in prescribed form.
+> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90; 2014, c. 20, s. 38; 2015, c. 36, s. 27; SOR/2019-41, s. 8.
 
 
 
 
 **8.1** 
 
-- **(1)** Every person by whom the remuneration of an employee for services performed in pensionable employment is paid either wholly or in part is, for the purpose of calculating the employee’s contributory salary and wages, maintaining records and filing returns, and paying, deducting and remitting the contributions payable thereon under the Act and these Regulations, deemed to be an employer of that employee in addition to the actual employer of that employee.
+- **(1)** Every person by whom the remuneration of an employee in respect of pensionable employment is paid either wholly or in part is, for the purpose of calculating the employee’s contributory salary and wages, maintaining records and filing returns, and paying, deducting and remitting the contributions payable under the Act and these Regulations, deemed to be an employer of that employee in addition to the actual employer of that employee.
 
 - **(1.1)** The amount of any contributions paid by the person who is deemed to be the employer under subsection (1) is recoverable by that person from the actual employer.
 
 - **(2)** Where a person who is deemed by subsection (1) to be an employer fails to pay, deduct or remit the contributions that an employer is required to pay, deduct and remit under the Act and these Regulations, the provisions of Part I of the Act shall apply to that person as if he were the actual employer.
-> SOR/79-402, s. 1; SOR/98-258, s. 2.
+> SOR/79-402, s. 1; SOR/98-258, s. 2; SOR/2019-41, s. 9.
 
 
 
@@ -361,6 +407,12 @@ so long as any amount deemed under any enactment administered by the Minister, o
 - **(1)** Every person required by section 10 or 12 to file an information return for a year with the Minister shall supply, to each employee in respect of whose remuneration the return relates, two copies of the portion of the return relating to that employee.
 
 - **(2)** The copies referred to in subsection (1) shall, on or before the day the information return is required to be filed with the Minister, be sent to the employee by mail at his latest known address or be delivered to him in person.
+
+- **(3)** A person may send an information return, as required under subsection (1), in an electronic format if the person has received the express consent of the employee in writing or in an electronic format and, in that case, the person shall send a single copy of the information return to the employee on or before the date on which the return is to be filed with the Minister.
+
+- **(4)** A person who has not received the express consent of the employee in accordance with subsection (3) may still provide the information return to the employee, as required under subsection (1), in an electronic format unless the person is precluded from doing so under subsection 209(5) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md). The person shall send a single copy of the information return to the employee, on or before the date on which the return is to be filed with the Minister.
+> SOR/2019-41, s. 10.
+
 
 
 
@@ -656,8 +708,8 @@ of an employee in a year who
 - **(c)** is resident in Canada in the year for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 - **(d)** is not, in respect of that employment, in pensionable employment by virtue of any other provision of the Act or these Regulations;
 - **(e)** elects in accordance with subsection 13(3) of the Act for the purposes of section 10 thereof; and
-- **(f)** pays the contribution referred to in section 10 of the Act within one year from April 30 of the following year or within one year from the day on which an amount is refunded to the employee under section 38 of the Act.
-> SOR/90-829, s. 5; SOR/2011-299, s. 1.
+- **(f)** pays the contributions referred to in section 10 of the Act within one year after April 30 of the following year or within one year after the day on which an amount is refunded to the employee under section 38 of the Act.
+> SOR/90-829, s. 5; SOR/2011-299, s. 1; SOR/2019-41, s. 11.
 
 
 
@@ -672,8 +724,8 @@ of an employee in a year who
 	- **(a)** the Indian is resident in Canada for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(b)** the employment is not pensionable employment by virtue of any other provision of the Act or these Regulations;
 	- **(c)** the Indian makes an election in accordance with subsection 13(3) of the Act; and
-	- **(d)** the Indian pays the contribution referred to in section 10 of the Act within one year after April 30 of the following year or within one year after the day on which an amount is refunded to the employee under section 38 of the Act.
-> SOR/88-631, s. 1; SOR/90-829, s. 6; SOR/2011-299, s. 2.
+	- **(d)** the Indian pays the contributions referred to in section 10 of the Act within one year after April 30 of the following year or within one year after the day on which an amount is refunded to the employee under section 38 of the Act.
+> SOR/88-631, s. 1; SOR/90-829, s. 6; SOR/2011-299, s. 2; SOR/2019-41, s. 12.
 
 
 
@@ -694,6 +746,8 @@ if the employee complies with the requirements of paragraphs 29(c) to (f) in re
 
 
 **33** For greater certainty, where the employment of an employee is, by virtue of the employee’s compliance with the requirements of paragraphs 29(c) to (f) included in a pensionable employment under any of sections 29 to 32, the employer of that employee is not required to pay an employer’s contribution in respect of the employment.
+> SOR/2019-41, s. 13(F).
+
 
 
 
@@ -702,7 +756,7 @@ if the employee complies with the requirements of paragraphs 29(c) to (f) in re
 - **(1)** Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
 
 - **(2)** For the purposes of subsection (1), ***placement or employment agency*** includes any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
-> SOR/78-142, s. 3.
+> SOR/78-142, s. 3; SOR/2019-41, s. 14(F).
 
 
 
@@ -829,13 +883,14 @@ and ends on the day on which the amount is so refunded or applied.
 ### Salary and Wages on which a Contribution has been made under a Provincial Pension Plan
 
 
-**41** For the purposes of clause 53(1)(b)(ii)(A) of the Act, the salary and wages on which a contribution has been made for the year by a contributor under a provincial pension plan is an amount equal to the aggregate of all contributions required to be made by the contributor in that year under the provincial pension plan in respect of salary and wages, multiplied by 100 and divided,
-- **(a)** in respect of the year 1992, by 2.4;
-- **(b)** in respect of the year 1993, by 2.5;
-- **(c)** in respect of the year 1994, by 2.6;
-- **(d)** in respect of the year 1995, by 2.7; and
-- **(e)** in respect of the year 1996, by 2.8.
-> SOR/86-1133, s. 2; SOR/96-522, s. 5; SOR/2013-83, s. 1.
+**41** 
+
+- **(1)** For the purposes of clause 53(1)(b)(ii)(A) of the Act, the salary and wages on which a base contribution has been made for the year 2019 and each subsequent year by a contributor under a provincial pension plan is an amount equal to the aggregate of all base contributions required to be made by the contributor in that year under the provincial pension plan in respect of salary and wages, multiplied by 100 and divided by one half of the base contribution rate for that year under the provincial pension plan.
+
+- **(2)** For the purposes of clause 53.1(1)(b)(ii)(A) of the Act, the salary and wages on which a first additional contribution has been made for the year 2019 and each subsequent year by a contributor under a provincial pension plan is an amount equal to the aggregate of all first additional contributions required to be made by the contributor in that year under the provincial pension plan in respect of salary and wages, multiplied by 100 and divided by one half of the first additional contribution rate for that year under the provincial pension plan.
+
+- **(3)** For the purposes of clause 53.2(1)(b)(ii)(A) of the Act, the salary and wages on which a second additional contribution has been made for the year 2024 and each subsequent year by a contributor under a provincial pension plan is an amount equal to the aggregate of all second additional contributions required to be made by the contributor in that year under the provincial pension plan in respect of salary and wages, multiplied by 100 and divided by one half of the second additional contribution rate for that year under the provincial pension plan.
+> SOR/86-1133, s. 2; SOR/96-522, s. 5; SOR/2013-83, s. 1; SOR/2018-281, s. 1.
 
 
 
@@ -856,14 +911,14 @@ and ends on the day on which the amount is so refunded or applied.
 
 **43** 
 
-- **(1)** An application for a benefit, for a division of unadjusted pensionable earnings under section 55 or 55.1 of the Act or for an assignment of a portion of a retirement pension under section 65.1 of the Act shall be made in writing at any office of the Department of Human Resources Development or the Department of Employment and Social Development.
+- **(1)** An application for a benefit, for a division of unadjusted pensionable earnings under section 55 or 55.1 of the Act or for an assignment of a portion of a retirement pension under section 65.1 of the Act shall be made by submitting it to the Minister in writing.
 
 - **(1.1)** Where an application for a disability pension has been denied, and the applicant has reached 60 years of age between the time of the application and the time of its denial or would have been entitled to a retirement pension if he had applied therefor at the time of application for the disability pension, that application shall, on request made by or on behalf of the applicant, be deemed to be an application for a retirement pension if the request is made
-	- **(a)** in writing at the location of any office of the Department of Human Resources Development; and
+	- **(a)** in writing to the Minister; and
 	- **(b)** within 90 days following the month in which the applicant is notified of the denial or, where the denial is finally confirmed on appeal, within 90 days after the day on which the applicant is notified of the confirmation.
 
 - **(2)** Where by reason of section 80 of the Act and an agreement under that section with a province providing a comprehensive pension plan the whole amount of any benefit payable to an applicant is deemed to be payable under that plan or where the division of unadjusted pensionable earnings can be determined under that plan in accordance with the agreement, the Minister shall, as soon as possible after an application is received, forward the application, together with a statement of the date on which it was received, to the authority charged under that plan with the duty of receiving applications, calculating the division of unadjusted pensionable earnings and paying benefits.
-> SOR/79-751, s. 1(E); SOR/86-1133, s. 3; SOR/89-345, s. 2; SOR/90-829, s. 14; SOR/93-290, s. 1; SOR/96-522, ss. 23, 24; SOR/2004-249, s. 2; 2013, c. 40, s. 237.
+> SOR/79-751, s. 1(E); SOR/86-1133, s. 3; SOR/89-345, s. 2; SOR/90-829, s. 14; SOR/93-290, s. 1; SOR/96-522, ss. 23, 24; SOR/2004-249, s. 2; 2013, c. 40, s. 237; SOR/2018-281, s. 2.
 
 
 
@@ -938,12 +993,16 @@ and ends on the day on which the amount is so refunded or applied.
 
 - **(1)** A beneficiary may submit to the Minister, within the interval between the date of commencement of payment of the benefit and the expiration of six months after that date, a request in writing that the benefit be cancelled.
 
-- **(2)** Despite subsection (1), if there is a determination that an applicant for a disability pension under the Act or a comparable benefit under a provincial pension plan is deemed to have become disabled for the purpose of entitlement to the disability pension or benefit and is in receipt of a retirement pension, and the time when the applicant is deemed to be disabled is before the date on which the retirement pension became payable, the applicant may submit to the Minister, within the period beginning on the day of commencement of payment of the retirement pension and ending 60 days after the receipt by the applicant of the notice of the determination, a request in writing that the retirement pension be cancelled.
+- **(2)** If an applicant for a disability pension is in receipt of a retirement pension and they are deemed to have become disabled for the purpose of entitlement to the disability pension before the month in which the retirement pension became payable, the application for the disability pension is deemed to be a request for the cancellation of the retirement pension.
 
-- **(3)** The Minister shall consider a request received pursuant to subsection (1) or (2) and, according to the applicable criteria, shall grant or refuse it.
+- **(2.1)** Despite subsection (1), if an applicant for a benefit under a provincial pension plan that is comparable to a disability pension is in receipt of a retirement pension and they are deemed to have become disabled for the purpose of entitlement to the benefit before the month in which the retirement pension became payable, the applicant may request cancellation of the retirement pension by submitting a written request to the Minister within the period beginning on the day of commencement of payment of the retirement pension and ending 90 days after the day on which the applicant receives notice of the decision deeming them to be disabled.
+
+- **(2.2)** An applicant referred to in subsection (2) may request cancellation of the disability pension and reinstatement of the retirement pension by submitting a written request to the Minister within 60 days after receipt of notice of their entitlement to the disability pension.
+
+- **(3)** The Minister shall grant a request submitted in accordance with subsection (1), (2.1) or (2.2) or deemed to be made under subsection (2).
 
 - **(4)** Where a request referred to in subsection 66.1(2) of the Act is granted under this section, the amount described in that subsection shall, for the purposes thereof, be repayable within the time beginning on the granting of the request and ending on the expiration of six months following the month in which the request is granted.
-> SOR/86-1133, s. 6; SOR/90-829, s. 19; SOR/93-290, s. 3; SOR/96-522, ss. 9, 23; SOR/99-192, s. 3.
+> SOR/86-1133, s. 6; SOR/90-829, s. 19; SOR/93-290, s. 3; SOR/96-522, ss. 9, 23; SOR/99-192, s. 3; SOR/2018-281, s. 3.
 
 
 
@@ -1263,7 +1322,7 @@ and ends on the day on which the amount is so refunded or applied.
 
 **64** 
 
-- **(1)** When paragraph 71(2)(a) of the Act applies or when the estate of a deceased contributor has not applied for the death benefit within the interval of 60 days after the contributor’s death, or when the amount of the death benefit is less than two thirds of 10% of the Year’s Maximum Pensionable Earnings for the year in which the contributor died, in the case of a death that occurred before January 1, 1998, or less than $2,387, in the case of a death that occurred after December 31, 1997, a direction under subsection 71(2) of the Act may, subject to subsections (2) and (3), be given for payment of the death benefit
+- **(1)** If paragraph 71(2)(a) of the Act applies or the estate of a deceased contributor has not applied for the death benefit within 60 days after the contributor’s death, or if the amount of the death benefit is less than two thirds of 10% of the Year’s Maximum Pensionable Earnings for the year in which the contributor died, in the case of a death that occurred before January 1, 1998, or less than $2,387, in the case of a death that occurred after December 31, 1997 and before January 1, 2019, a direction under subsection 71(2) of the Act may, subject to subsections (2) and (3), be given for payment of the death benefit
 	- **(a)** to the individual or institution who has paid or is responsible for the payment of the deceased contributor’s funeral expenses;
 	- **(b)** in the absence of an individual or institution described in paragraph (a), to the survivor of the deceased contributor; or
 	- **(c)** in the absence of an individual or institution referred to in paragraph (a) and a survivor referred to in paragraph (b), to the next of kin of the deceased contributor.
@@ -1271,7 +1330,7 @@ and ends on the day on which the amount is so refunded or applied.
 - **(2)** No amount in excess of the actual funeral expenses shall be paid pursuant to paragraph (1)(a).
 
 - **(3)** Where, by virtue of subsection (2), an amount paid pursuant to paragraph (1)(a) is less than the amount of the death benefit, a direction pursuant to subsection (1), in so far as it relates to the remainder of the death benefit, may be given as if in the absence of an individual or institution described in that paragraph.
-> SOR/86-1133, s. 14; SOR/90-829, s. 27; SOR/96-522, s. 15(E); SOR/99-192, s. 6; SOR/2000-411, ss. 11, 18.
+> SOR/86-1133, s. 14; SOR/90-829, s. 27; SOR/96-522, s. 15(E); SOR/99-192, s. 6; SOR/2000-411, ss. 11, 18; SOR/2018-281, s. 4.
 
 
 
@@ -1422,36 +1481,36 @@ as the Minister may specify.
 
 
 
-### Request for Reinstatement of Disability Pension and Disabled Contributor’s Child Benefit
-> [SOR/2010-45, s. 5]
+### Request for Reinstatement of Disability Pension, Post-Retirement Disability Benefit or Disabled Contributor’s Child Benefit
+> [SOR/2018-281, s. 5]
 
 
 
 **71** 
 
-- **(1)** A request for reinstatement of a disability pension under section 70.1 of the Act shall be made in writing at any office of the Department of Human Resources Development or the Department of Employment and Social Development.
+- **(1)** A request for reinstatement of a disability pension or a post-retirement disability benefit under section 70.1 of the Act shall be made by submitting it to the Minister in writing.
 
 - **(2)** The request shall be made within 12 months after the month in which the person became incapable again of working.
-> SOR/2005-38, s. 1; 2013, c. 40, s. 237.
+> SOR/2005-38, s. 1; 2013, c. 40, s. 237; SOR/2018-281, s. 6.
 
 
 
 
 **72** 
 
-- **(1)** The determination as to whether a person is entitled to have a disability pension reinstated shall be made by the Minister on the basis of the information and the evidence provided to the Minister under subsection (2).
+- **(1)** The determination as to whether a person is entitled to have a disability pension or a post-retirement disability benefit reinstated shall be made by the Minister on the basis of the information and the evidence provided to the Minister under subsection (2).
 
 - **(2)** The applicant or the person making a request on the applicant’s behalf shall furnish the Minister with the following information and evidence:
 	- **(a)** the applicant’s name, address and Social Insurance Number and, if applicable, the name and address of the person making the request on the applicant’s behalf and that person’s relationship to the applicant;
-	- **(b)** the month in which the applicant ceased to receive the disability pension;
+	- **(b)** the month in which the applicant ceased to receive the disability pension or post-retirement disability benefit;
 	- **(c)** the month in which the applicant became incapable again of working;
 	- **(d)** the date that the applicant stopped working;
-	- **(e)** the statement of a person qualified to practise medicine confirming that the applicant has a severe and prolonged mental or physical disability that is the same as, or is related to, the disability that entitled the applicant to receive the disability pension that is the subject of the request;
+	- **(e)** the statement of a person qualified to practise medicine confirming that the applicant has a severe and prolonged mental or physical disability that is the same as, or is related to, the disability that entitled the applicant to receive the disability pension or post-retirement disability benefit that is the subject of the request;
 	- **(f)** the name of each dependent child of the applicant and whether the child is living with or apart from the applicant; and
 	- **(g)** if the request includes a request to reinstate the disabled contributor’s child benefit in respect of each of the applicant’s children who are 18 years of age or more,
 		- **(i)** the child’s name, address and Social Insurance Number, and
 		- **(ii)** evidence, established in accordance with section 67, that the child is in full-time attendance at a school or university.
-> SOR/2005-38, s. 1; SOR/2010-45, s. 6.
+> SOR/2005-38, s. 1; SOR/2010-45, s. 6; SOR/2018-281, s. 7.
 
 
 
@@ -1566,13 +1625,13 @@ of an amount equal to the amount of the excess payment.
 
 **76.1** 
 
-- **(1)** For the purposes of subsection 65(3) of the Act, the Minister may deduct an amount as described in that subsection from a benefit payable to a person under paragraph 44(1)(b) of the Act and pay that amount to an administrator approved by the Minister where the following terms and conditions are met:
+- **(1)** For the purposes of subsection 65(3) of the Act, the Minister may deduct an amount as described in that subsection from a benefit payable to a person under paragraph 44(1)(b) or (h) of the Act and pay that amount to an administrator approved by the Minister if
 	- **(a)** the administrator submits to the Minister a record of the payment made under the disability income program, together with the person’s irrevocable written consent to the deduction and payment;
 	- **(b)** the documents referred to in paragraph (a) are received by the Minister within one year after the date on which the consent is signed; and
 	- **(c)** the amount exceeds $50.
 
 - **(2)** For the purpose of subsection 65(3) of the Act, if, for any reason, no deduction has been made or a deduction and payment have been made by the Minister for an amount that is less than the amount that might have been paid under that subsection, the Minister shall not authorize any other deduction and payment.
-> SOR/93-290, s. 7; SOR/99-192, s. 8; SOR/2002-221, s. 4.
+> SOR/93-290, s. 7; SOR/99-192, s. 8; SOR/2002-221, s. 4; SOR/2018-281, s. 8.
 
 
 
