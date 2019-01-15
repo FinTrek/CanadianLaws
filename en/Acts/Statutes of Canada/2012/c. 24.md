@@ -1299,6 +1299,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind9EFE_hq_13638'>[*]</a></sup>**111** This Act, except sections 73, 94, 109 and 110, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9EFE_hq_13638'><sup>*</sup></a>: [Note: Sections 73, 94, 109 and 110 in force on assent November 22, 2012.]<br />
+<a name='fn_Ind9EFE_hq_13638'><sup>*</sup></a>: [Note: Sections 73, 94, 109 and 110 in force on assent November 22, 2012; Act, other than sections 73, 94, 109 and 110, in force January 15, 2019, *see* SI/2018-39.]<br />
 
 
