@@ -41,14 +41,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***législation frontalière*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application :
 - **a)** dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer et contrôler l’application, notamment la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md);
-- **b)** dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à contrôler l’application, notamment la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md);
+- **b)** dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à contrôler l’application, notamment la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md);
 - **c)** en vertu desquels le ministre ou un autre ministre autorise l’Agence, le président ou un employé de l’Agence à appliquer un programme ou à exercer une activité;
 - **d)** en vertu desquels des droits ou des taxes versés et perçus au titre de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) sont imposés. (*program legislation*)
 
 ***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
 ***président*** Le président de l’Agence nommé en application du paragraphe 7(1). (*President*)
-> 2005, ch. 38, art. 2 et 145.
+> 2005, ch. 38, art. 2 et 145; 2012, ch. 24, art. 107.
 
 
 
@@ -165,11 +165,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Il peut désigner toute personne, nommément ou au titre de son appartenance à une catégorie donnée :
 	- **a)** comme agent au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), en vue de l’exercice des attributions de ce poste qu’il peut préciser;
-	- **b)** comme inspecteur — vétérinaire ou non — ou autre agent d’exécution pour le contrôle d’application de tout ou partie de toute loi ou de ses textes d’application dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à contrôler l’application, notamment la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
+	- **b)** comme inspecteur — vétérinaire ou non — ou autre agent d’exécution pour le contrôle d’application de tout ou partie de toute loi ou de ses textes d’application dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à contrôler l’application, notamment la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
 **Pouvoir de désignation**
 
 - **(3)** Il peut exercer les pouvoirs de désignation des agents éventuellement conférés au ministre en vertu du paragraphe 6(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md).
+> 2005, ch. 38, art. 9; 2012, ch. 24, art. 108.
+
 
 
 
