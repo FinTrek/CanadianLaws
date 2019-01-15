@@ -1284,6 +1284,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind4C44_hq_13639'>[*]</a></sup>**111** La présente loi, à l’exception des articles 73, 94, 109 et 110, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4C44_hq_13639'><sup>*</sup></a>: [Note : Articles 73, 94, 109 et 110 en vigueur à la sanction le 22 novembre 2012.]<br />
+<a name='fn_Ind4C44_hq_13639'><sup>*</sup></a>: [Note : Articles 73, 94, 109 et 110 en vigueur à la sanction le 22 novembre 2012; loi, à l’exception des articles 73, 94, 109 et 110, en vigueur le 15 janvier 2019, *voir* TR/2018-39.]<br />
 
 
