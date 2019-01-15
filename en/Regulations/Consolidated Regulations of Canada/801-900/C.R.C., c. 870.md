@@ -430,7 +430,7 @@ but does not include
 ***close proximity*** means, with reference to the common name, immediately adjacent to the common name without any intervening printed, written or graphic matter; (*à proximité*)
 
 ***common name*** means, with reference to a food,
-- **(a)** the name of the food printed in boldface type in these Regulations,
+- **(a)** the name of the food printed in boldface type, but not in italics, in a provision of these Regulations,
 - **(b)** the name prescribed by any other regulation, or
 - **(c)** if the name of the food is not so printed or prescribed, the name by which the food is generally known; (*nom usuel*)
 
@@ -532,9 +532,9 @@ but does not include
 ***prepackaged product*** means any food that is contained in a package in the manner in which it is ordinarily sold to or used or purchased by a person; (*produit préemballé*)
 
 ***principal display panel*** means, despite the meaning assigned to that term in section A.01.010,
-- **(a)** in the case of a label applied to a prepackaged product that is subject to the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md) the principal display panel as defined in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md),
-- **(b)** in the case of a label applied to a prepackaged product that is not subject to the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md), that part of the label applied to all or part of the side or surface of the container that is displayed or visible under normal or customary conditions of sale or use, and where the container does not have such a side or surface, that part of the label applied to any part of the container, except the bottom, if any, and
-- **(c)** in the case of a label applied to a food that is not a prepackaged product, that part of the label applied to all or part of the side or surface of the food that is displayed or visible under normal or customary conditions of sale or use; (*espace principal*)
+- **(a)** in the case of a label that is applied to a consumer prepackaged food within the meaning of section 1 of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md), the principal display panel as described in paragraphs (a) to (c) of the definition of that term in that section,
+- **(b)** in the case of a label that is applied to a prepackaged product other than a consumer prepackaged food subject to the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md), the part of the label that is applied to all or part of any side or surface of the container that is displayed or visible under normal or customary conditions of sale or use and, if the container does not have such a side or surface, the part of the label that is applied to any part of the container except on the bottom, or
+- **(c)** in the case of a label that is applied to a food that is not a prepackaged product, the part of the label that is applied to all or part of the side or surface of the food that is displayed or visible under normal or customary conditions of sale or use; (*espace principal*)
 
 ***reasonable daily intake***, in respect of a food set out in Column I of an item of Schedule K, means the amount of that food set out in Column II of that item; (*ration quotidienne raisonnable*)
 
@@ -583,7 +583,7 @@ but does not include
 ***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
 ***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1; SOR/2016-74, s. 1; SOR/2016-305, s. 1.
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1; SOR/2016-74, s. 1; SOR/2016-305, s. 1; SOR/2018-108, s. 393.
 
 
 
@@ -1683,14 +1683,14 @@ the list of ingredients for the 12-month period commencing from the time the lab
 
 
 **B.01.014** The label of a food, other than a sweetener, that contains aspartame shall carry the following information:
-- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains aspartame or is sweetened with aspartame, in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains aspartame or is sweetened with aspartame, in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 - **(b)** in the case where other sweeteners are used in conjunction with aspartame, a statement on the principal display panel to the effect that the food
 	- **(i)** contains aspartame and (naming the other sweeteners), or
 	- **(ii)** is sweetened with aspartame and (naming the other sweeteners),
-in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 - **(c)** a statement on any part of the label to the effect that aspartame contains phenylalanine; and
 - **(d)** a statement setting out the aspartame content expressed in milligrams per serving of stated size.
-> SOR/81-617, s. 2; SOR/88-559, s. 5; SOR/2003-11, s. 6; SOR/2016-305, s. 75(F).
+> SOR/81-617, s. 2; SOR/88-559, s. 5; SOR/2003-11, s. 6; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
@@ -1698,22 +1698,22 @@ in letters of at least the same size and prominence as the letters used in the n
 **B.01.015** 
 
 - **(1)** The label of a food that is a sweetener that contains aspartame shall carry the following information:
-	- **(a)** a statement on the principal display panel to the effect that the food contains aspartame or is sweetened with aspartame, in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+	- **(a)** a statement on the principal display panel to the effect that the food contains aspartame or is sweetened with aspartame, in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 	- **(b)** a statement on any part of the label to the effect that aspartame contains phenylalanine;
 	- **(c)** a statement on any part of the label of the sweetness per serving expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness; and
 	- **(d)** a statement setting out the aspartame content expressed in milligrams per serving of stated size.
 
 - **(2)** [Repealed, SOR/2007-176, s. 1]
-> SOR/81-617, s. 2; SOR/88-559, s. 6; SOR/2003-11, s. 7; SOR/2007-176, s. 1; SOR/2016-305, s. 75(F).
+> SOR/81-617, s. 2; SOR/88-559, s. 6; SOR/2003-11, s. 7; SOR/2007-176, s. 1; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
 
 **B.01.016** The label of a food, other than a table-top sweetener, that contains sucralose shall carry the following information:
-- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains sucralose or is sweetened with sucralose, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains sucralose or is sweetened with sucralose, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 - **(b)** where sucralose is used in conjunction with another sweetener or a sweetening agent or both, the names thereof shown in a statement on the principal display panel to the effect that the food contains, or is sweetened with, sucralose and the other sweetener or the sweetening agent or both, as the case may be, in letters as described in paragraph (a); and
 - **(c)** a statement setting out the sucralose content expressed in milligrams per serving of stated size.
-> SOR/91-527, s. 2; SOR/94-625, s. 1; SOR/2003-11, s. 8; SOR/2016-305, s. 75(F).
+> SOR/91-527, s. 2; SOR/94-625, s. 1; SOR/2003-11, s. 8; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
@@ -1721,12 +1721,12 @@ in letters of at least the same size and prominence as the letters used in the n
 **B.01.017** 
 
 - **(1)** The label of a food that is a table-top sweetener that contains sucralose shall carry the following information:
-	- **(a)** a statement on the principal display panel to the effect that the food contains sucralose or is sweetened with sucralose, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+	- **(a)** a statement on the principal display panel to the effect that the food contains sucralose or is sweetened with sucralose, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 	- **(b)** a statement on any part of the label setting out the sweetness per serving expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness; and
 	- **(c)** a statement setting out the sucralose content expressed in milligrams per serving of stated size.
 
 - **(2)** [Repealed, SOR/2007-176, s. 2]
-> SOR/91-527, s. 2; SOR/94-625, s. 2; SOR/2003-11, s. 9; SOR/2007-176, s. 2; SOR/2016-305, s. 75(F).
+> SOR/91-527, s. 2; SOR/94-625, s. 2; SOR/2003-11, s. 9; SOR/2007-176, s. 2; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
@@ -1738,10 +1738,10 @@ in letters of at least the same size and prominence as the letters used in the n
 
 
 **B.01.019** The label of a food, other than a table-top sweetener, that contains acesulfame-potassium shall carry the following information:
-- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains acesulfame-potassium or is sweetened with acesulfame-potassium, in letters of at least the same size and prominence as the characters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains acesulfame-potassium or is sweetened with acesulfame-potassium, in letters of at least the same size and prominence as the characters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 - **(b)** where acesulfame-potassium is used in conjunction with another sweetener or a sweetening agent or both, the names thereof shown in a statement on the principal display panel to the effect that the food contains, or is sweetened with, acesulfame-potassium and the other sweetener or the sweetening agent or both, as the case may be, in letters as described in paragraph (a); and
 - **(c)** a statement setting out the acesulfame-potassium content expressed in milligrams per serving of stated size.
-> SOR/94-625, s. 3; SOR/2003-11, s. 11; SOR/2016-305, s. 75(F).
+> SOR/94-625, s. 3; SOR/2003-11, s. 11; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
@@ -1749,12 +1749,12 @@ in letters of at least the same size and prominence as the letters used in the n
 **B.01.020** 
 
 - **(1)** The label of a food that is a table-top sweetener that contains acesulfame-potassium shall carry the following information:
-	- **(a)** a statement, on the principal display panel, to the effect that the food contains acesulfame-potassium or is sweetened with acesulfame-potassium, in letters of at least the same size and prominence as the characters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+	- **(a)** a statement, on the principal display panel, to the effect that the food contains acesulfame-potassium or is sweetened with acesulfame-potassium, in letters of at least the same size and prominence as the characters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 	- **(b)** a statement, on any part of the label, setting out the sweetness per serving, expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness; and
 	- **(c)** a statement setting out the acesulfame-potassium content expressed in milligrams per serving of stated size.
 
 - **(2)** [Repealed, SOR/2007-176, s. 3]
-> SOR/94-625, s. 3; SOR/2003-11, s. 12; SOR/2007-176, s. 3; SOR/2016-305, s. 75(F).
+> SOR/94-625, s. 3; SOR/2003-11, s. 12; SOR/2007-176, s. 3; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
@@ -1770,8 +1770,8 @@ in letters of at least the same size and prominence as the letters used in the n
 
 
 **B.01.022** The label of a food, other than a table-top sweetener, that contains neotame shall carry the following information:
-- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains neotame or is sweetened with neotame, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
-- **(b)** in the case where other sweeteners or sweetening agents are used in conjunction with neotame, a statement on the principal display panel, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md), to the effect that the food
+- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains neotame or is sweetened with neotame, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
+- **(b)** in the case where other sweeteners or sweetening agents are used in conjunction with neotame, a statement on the principal display panel, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md), to the effect that the food
 	- **(i)** contains neotame and (naming the other sweeteners and the sweetening agents), or
 	- **(ii)** is sweetened with neotame and (naming the other sweeteners and the sweetening agents);
 - **(c)** if the label of the food carries a nutrition facts table, a statement setting out the neotame content expressed in milligrams per serving of stated size; and
@@ -1779,20 +1779,20 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(i)** the energy value, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
 	- **(ii)** the protein, fat and carbohydrate content, expressed in grams, and
 	- **(iii)** the neotame content, expressed in milligrams.
-> SOR/2007-176, s. 4; SOR/2016-305, s. 75(F).
+> SOR/2007-176, s. 4; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
 
 **B.01.023** The label of a food that is a table-top sweetener that contains neotame shall carry the following information:
-- **(a)** a statement on the principal display panel to the effect that the food contains neotame or is sweetened with neotame, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+- **(a)** a statement on the principal display panel to the effect that the food contains neotame or is sweetened with neotame, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
 - **(b)** a statement on any part of the label of the sweetness per serving expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness;
 - **(c)** if the label of the food carries a nutrition facts table, a statement setting out the neotame content expressed in milligrams per serving of stated size; and
 - **(d)** if the label of the food does not carry a nutrition facts table, a statement setting out the following energy value and contents of the food, per serving of stated size, grouped together and given equal prominence on any part of the label:
 	- **(i)** the energy value, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
 	- **(ii)** the protein, fat and carbohydrate content, expressed in grams, and
 	- **(iii)** the neotame content, expressed in milligrams.
-> SOR/2007-176, s. 4; SOR/2016-305, s. 75(F).
+> SOR/2007-176, s. 4; SOR/2016-305, s. 75(F); SOR/2018-108, s. 400.
 
 
 
@@ -1834,7 +1834,7 @@ in letters of at least the same size and prominence as the letters used in the n
 
 - **(5)** For the purposes of subsections (1) to (3), the symbol that indicates the irradiated food shall
 	- **(a)** have an outer diameter
-		- **(i)** in the case referred to in subsection (1), equal to or greater than the height of the numerical quantity prescribed by section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md) for the declaration of net quantity of the package, and
+		- **(i)** in the case referred to in subsection (1), equal to or greater than the height of the numerical quantity prescribed by paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md) for the declaration of net quantity of the package, and
 		- **(ii)** in the case referred to in subsection (2), not less than 5 cm; and
 	- **(b)** be in the following form:
 > Image: Symbol for irradiated food consisting of a plant in a circle in which the top half of the circle is dashed.
@@ -1849,7 +1849,7 @@ in letters of at least the same size and prominence as the letters used in the n
 - **(9)** Any advertising of an irradiated food referred to in column 1 of the table to Division 26 shall identify the food as having been irradiated.
 
 - **(10)** The statements referred to in subsections (3) and (6) to (8) shall be in both official languages in accordance with subsection B.01.012(2).
-> SOR/89-172, s. 1; SOR/2017-16, s. 1.
+> SOR/89-172, s. 1; SOR/2017-16, s. 1; SOR/2018-108, s. 400.
 
 
 
@@ -2168,12 +2168,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**B.01.302** 
-
-- **(1)** If the label of a multiple-serving prepackaged product indicates that the product contains or, when prepared as directed in or on the package, provides a specified number of servings or portions, that information must be based on the serving of stated size set out in the nutrition facts table for the product.
-
-- **(2)** Despite subsection (1), the label of the multiple-serving prepackaged product shall not include the information referred to in that subsection if the serving of stated size set out in the nutrition facts table for the product is expressed in cups or tablespoons.
-> SOR/2016-305, s. 15.
+**B.01.302** If the label of a multiple-serving prepackaged product indicates that the product contains or, if prepared as directed in or on the package, provides a specified number of servings or portions, that information must be based on the serving of stated size set out in the nutrition facts table for the product.
+> SOR/2016-305, s. 15; SOR/2018-108, s. 394.
 
 
 
@@ -2935,7 +2931,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(7)** The nutrition facts table shall show the amount of any vitamin or mineral nutrient that is declared as a component of one of the prepackaged product’s ingredients other than flour.
 
-- **(8)** Despite subsection (1) and item 1 of the table to this section, the nutrition facts table shall not include information on the number of servings per package if the serving of stated size is expressed in cups or tablespoons.
+- **(8)** [Repealed, SOR/2018-108, s. 395]
 
 - **(9)** If information set out in column 1 of the table to this section is included in the nutrition facts table, it shall be shown
 	- **(a)** in English and French; or
@@ -4242,7 +4238,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 </table>
 
-> SOR/2003-11, s. 20; err., Vol. 137, No. 5; SOR/2005-98, s. 2(F); SOR/2016-305, ss. 19, 75(F).
+> SOR/2003-11, s. 20; err., Vol. 137, No. 5; SOR/2005-98, s. 2(F); SOR/2016-305, ss. 19, 75(F); SOR/2018-108, s. 395.
 
 
 
@@ -6195,7 +6191,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(c)** in the case of the product referred to in subparagraph B.01.401(3)(e)(ii), a statement or claim set out in column 4 of item 37 of the table following section B.01.513 for the subject “Free of sugars” set out in column 1 that appears on the label is
 		- **(i)** legibly set out on the principal display panel,
 		- **(ii)** in lower case letters except for the first letter of each word of the statement or claim, which may be an upper case letter,
-		- **(iii)** of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md), and
+		- **(iii)** of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under paragraph 229(1)(a) and subsections 229(2) and (3) of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md), and
 		- **(iv)** displayed in a colour contrasting with the background of the label.
 
 - **(3)** An indication referred to in subsection (1)
@@ -6215,7 +6211,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 		- **(ii)** in a version of that format that is listed in column 1 of item 1 of any Part of the table to the applicable section referred to in subparagraph (i).
 
 - **(5)** In this section, ***official languages*** means the English language and the French language.
-> SOR/2003-11, s. 20; SOR/2016-305, s. 44.
+> SOR/2003-11, s. 20; SOR/2016-305, s. 44; SOR/2018-108, s. 400.
 
 
 
@@ -6304,8 +6300,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(2)** Subsection (1) does not apply to
 	- **(a)** a representation otherwise provided for in these Regulations;
-	- **(b)** a representation provided for by section 35 of the [Processed Products Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20291.md);
-	- **(c)** a representation provided for by subsection 94(4) of the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md);
+	- **(b)** a representation provided for by paragraph 272(1)(f) or section 273 of the [Safe Food for Canadians Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2018/108.md);
+	- **(c)** a representation provided for by column 1 of Table 2 to Volume 7 of the document entitled Canadian Standards of Identity, prepared by the Canadian Food Inspection Agency and published on its website, as amended from time to time;
 	- **(d)** a representation that characterizes the amount of lactose in a food;
 	- **(e)** a representation that characterizes the addition of salt to a food, other than any statement or claim set out in column 4 of the table following section B.01.513;
 	- **(f)** a representation that characterizes the addition of sugars to a food, other than any statement or claim set out in column 4 of the table following section B.01.513;
@@ -6315,7 +6311,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(j)** a representation that characterizes the amount of alcohol in beverages that contain more than 0.5% alcohol;
 	- **(k)** the representation “light salted” with respect to fish; or
 	- **(l)** the English representation “lean” with respect to a prepackaged meal represented for use in a weight reduction diet or a weight maintenance diet.
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2018-108, s. 396.
 
 
 
@@ -6475,9 +6471,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 		- **(ii)** be adjacent to, without any intervening printed, written or graphic material, the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once, and
 		- **(iii)** be shown in letters of at least the same size and prominence as those of the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once.
 
-- **(2)** Subsection (1) does not apply to
-	- **(a)** the English statement or claim “light” when used in accordance with subsection 12(1) of the [Maple Products Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20289.md); or
-	- **(b)** the statement or claim “light” or “*léger*” when used with respect to rum.
+- **(2)** Subsection (1) does not apply to the statement or claim “light” or “*léger*” when it is used with respect to rum.
 #### TABLE
 <table>
 <tr>
@@ -7580,7 +7574,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 </table>
 
-> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2007-176, s. 6; SOR/2016-305, s. 75(F).
+> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2007-176, s. 6; SOR/2016-305, s. 75(F); SOR/2018-108, s. 397.
 
 
 
@@ -13184,13 +13178,13 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 **B.14.018** 
 
 - **(1)** Subject to subsection (2), if a carcass of beef or veal, or a portion of a carcass of beef or veal that weighs 7 kg or more, is advertised for sale, the advertisement shall indicate
-	- **(a)** in the case of a carcass other than an imported carcass, the grade that was assigned to the carcass by a grading authority established under the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md) or a provincial law;
-	- **(b)** in the case of an imported beef carcass, the grade that was assigned to the carcass by a grading authority established under the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md) or a provincial law or the grade that was assigned to the carcass by a grading authority established under the laws of the country from which the carcass was imported;
+	- **(a)** in the case of a carcass other than an imported carcass, the grade that was assigned to the carcass under the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) or a provincial law;
+	- **(b)** in the case of an imported beef carcass, the grade that was assigned to the carcass under the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) or a provincial law or the grade that was assigned to the carcass by a grading authority established under the laws of the country from which the carcass was imported;
 	- **(c)** in the case of an imported veal carcass, the grade that was assigned to the carcass by a grading authority established under the laws of the country from which the carcass was imported; and
-	- **(d)** in the case of a beef carcass, the yield class, if any, that was assigned to the carcass by a grading authority established under the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
+	- **(d)** in the case of a beef carcass, the yield class, if any, that was assigned to the carcass under the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md).
 
 - **(2)** Where, in the case of a carcass referred to in subsection (1), no grade has been assigned thereto as described in that subsection and the carcass or portion thereof that weighs 7 kg or more is advertised for sale, the advertisement shall clearly indicate that the carcass has not been graded.
-> SOR/92-626, s. 15; SOR/2003-6, s. 79.
+> SOR/92-626, s. 15; SOR/2003-6, s. 79; SOR/2018-108, s. 398.
 
 
 
@@ -24956,11 +24950,11 @@ and only the L forms of the amino acids have been added.
 - **(1)** No person shall sell a low-acid food packaged in a hermetically sealed container unless the food is commercially sterile.
 
 - **(2)** Subsection (1) does not apply in respect of a low-acid food packaged in a hermetically sealed container where
-	- **(a)** the low-acid food is kept under refrigeration and the statement “Keep Refrigerated” and “*Garder au froid*” is carried on the principal display panel of the label of its container, as well as on the label of its shipping container; or
+	- **(a)** the low-acid food is kept under refrigeration and the statement “Keep Refrigerated” and “*Garder réfrigéré*” is carried on the principal display panel of the label of its container, as well as on the label of its shipping container; or
 	- **(b)** the low-acid food is kept frozen and the statement “Keep Frozen” and “*Garder congelé*” is carried on the principal display panel of the label of its container, as well as on the label of its shipping container.
 
 - **(3)** Subsection (1) does not apply in respect of tomatoes or tomato products packaged in hermetically sealed containers where the tomatoes or tomato products have a pH of 4.7 or less after heat processing.
-> SOR/89-309, s. 1; SOR/91-149, s. 7.
+> SOR/89-309, s. 1; SOR/91-149, s. 7; SOR/2018-108, s. 399.
 
 
 
