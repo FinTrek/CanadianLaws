@@ -1176,7 +1176,10 @@ as soon as practicable, and in any event within thirty days, after the person do
 
 ### **SCHEDULE** 
 **(Section 84)**
-**1 to 7.1** [Amendments]
+**1** [Repealed, 2012, c. 24, s. 96]
+
+
+**2 to 7.1** [Amendments]
 
 
 **8** [Repealed, 2000, c. 32, s. 47]
