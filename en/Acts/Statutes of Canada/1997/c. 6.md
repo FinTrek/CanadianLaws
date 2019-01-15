@@ -173,11 +173,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **11** 
 
-- **(1)** The Agency is responsible for the administration and enforcement of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), [Fish Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-12.md), [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), [Plant Breeders’ Rights Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2020.md), Plant Protection Act and Seeds Act.
+- **(1)** The Agency is responsible for the administration and enforcement of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), [Plant Breeders’ Rights Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2020.md), [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) and [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md).
 
-**[Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md)**
-
-- **(2)** The Agency is responsible for the enforcement of the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md) as it relates to food, as that term is defined in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md).
+- **(2)** [Repealed, 2012, c. 24, s. 103]
 
 **[Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md)**
 
@@ -192,7 +190,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Role of Canada Border Services Agency**
 
 - **(5)** The Canada Border Services Agency is responsible for the enforcement of the program legislation referred to in paragraph (b) of the definition program legislation in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) as that program legislation relates to the delivery of passenger and initial import inspection services performed at airports and other Canadian border points other than import service centres.
-> 1997, c. 6, s. 11; 2005, c. 38, s. 53.
+> 1997, c. 6, s. 11; 2005, c. 38, s. 53; 2012, c. 24, s. 103.
 
 
 
@@ -275,7 +273,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-## Recall Orders
+## Recalls
 
 
 
@@ -292,6 +290,75 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Notification of order**
 
 - **(3)** For greater certainty, a recall order is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but no person shall be convicted of an offence under subsection (2) unless the person was notified of the order.
+
+
+
+
+**Regulations**
+
+**19.1** The Governor in Council may make regulations respecting the recall of products regulated under an Act or provision that the Agency enforces or administers by virtue of section 11.
+> 2012, c. 24, s. 105.
+
+
+
+
+
+## Review of Certain Measures
+
+
+
+**Review officer**
+
+**19.2** The Minister may designate as review officers any individual or class of individuals that are qualified to conduct reviews under section 19.3.
+> 2012, c. 24, s. 105.
+
+
+
+
+
+**Request for review**
+
+**19.3** 
+
+- **(1)** On the request of a prescribed person in relation to a prescribed decision made under an Act or provision that the Agency enforces or administers by virtue of section 11, a review officer must conduct a review of the decision in the prescribed manner subject to the regulations and the other provisions of this section.
+
+**Contents of request**
+
+- **(2)** The request must be made in the prescribed manner, contain the prescribed information and be made in the prescribed time after the making of the decision.
+
+**Ineligibility**
+
+- **(3)** The review officer must be a person other than the one who made the decision.
+
+**Restriction**
+
+- **(4)** The review is restricted to questions of fact alone or questions of mixed law and fact.
+
+**No authority to review**
+
+- **(5)** The review is not to be conducted if the request does not comply with subsection (2) or is frivolous, vexatious or not made in good faith.
+
+**Reasons for refusal**
+
+- **(6)** If subsection (5) applies, the person who made the request is to be, without delay, notified in writing of the reasons for the review not being conducted.
+
+**Decision not stayed**
+
+- **(7)** The conduct of the review does not stay the decision unless the review officer decides otherwise.
+
+**Decision on completion of review**
+
+- **(8)** On completion of the review, the review officer must confirm, vary or cancel the decision.
+
+**Notice**
+
+- **(9)** The person who made the request must, without delay, be notified in writing of the reasons for the review officer’s decision under subsection (8).
+
+**Regulations**
+
+- **(10)** The Governor in Council may make regulations prescribing anything that by this section is to be prescribed.
+> 2012, c. 24, s. 105.
+
 
 
 
@@ -379,6 +446,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Fees for products, rights and privileges**
 
 **25** Subject to the regulations, the Minister may fix fees in respect of products, rights and privileges provided by the Agency.
+
+
+
+
+**[Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md)**
+
+**25.1** Sections 3 to 15 of the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md) do not apply to a fee fixed under section 24 for a service or the use of a facility provided by the Agency under the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) or to a fee fixed under section 25 in respect of products, rights and privileges provided by the Agency under that Act.
+> 2014, c. 20, s. 252; 2017, c. 20, s. 453.
+
 
 
 
