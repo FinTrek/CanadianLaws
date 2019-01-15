@@ -37,7 +37,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***agri-food Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md); (*loi agroalimentaire*)
+***agri-food Act*** means the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) or the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md); (*loi agroalimentaire*)
 
 ***Minister*** means the Minister of Agriculture and Agri-Food, except that 
 - **(a)** it means the Minister of Health in relation to a violation involving a contravention of
@@ -49,8 +49,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md). (*Commission*)
-> 1995, c. 40, s. 2; 1997, c. 21, s. 30; 2002, c. 28, s. 82; 2005, c. 38, ss. 30, 145; 2015, c. 2, s. 113.
+***Tribunal*** means the Review Tribunal continued by subsection 27(1); (*Commission*)
+> 1995, c. 40, s. 2; 1997, c. 21, s. 30; 2002, c. 28, s. 82; 2005, c. 38, ss. 30, 145; 2012, c. 24, s. 98; 2015, c. 2, s. 113.
 
 
 
@@ -79,7 +79,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** designating as a violation that may be proceeded with in accordance with this Act
 		- **(i)** the contravention of any specified provision of an agri-food Act or of a regulation made under an agri-food Act,
 		- **(ii)** the contravention of any specified order, or class of orders, made by the Minister under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), or
-		- **(iii)** the refusal or neglect to perform any specified duty, or class of duties, imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md);
+		- **(iii)** the refusal or neglect to perform any specified duty, or class of duties, imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md);
 if the contravention, or the failure or neglect to perform the duty, as the case may be, is an offence under an agri-food Act;
 	- **(b)** classifying each violation as a minor violation, a serious violation or a very serious violation;
 	- **(b.1)** establishing, in respect of each violation, a short-form description to be used in notices of violation;
@@ -103,7 +103,7 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 	- **(a)** the degree of intention or negligence on the part of the person who committed the violation;
 	- **(b)** the harm done by the violation; and
 	- **(c)** the history of the person who committed the violation of prior violations or convictions under agri-food Acts within the five year period immediately before the violation.
-> 1995, c. 40, s. 4; 2015, c. 2, s. 114; 2016, c. 9, s. 70.
+> 1995, c. 40, s. 4; 2012, c. 24, s. 99; 2015, c. 2, s. 114; 2016, c. 9, ss. 70, 72.
 
 
 
@@ -136,7 +136,7 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 - **(1)** Every person who
 	- **(a)** contravenes any provision of an agri-food Act or of a regulation made under an agri-food Act,
 	- **(b)** contravenes any order made by the Minister under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), or
-	- **(c)** refuses or neglects to perform any duty imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md)
+	- **(c)** refuses or neglects to perform any duty imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md)
 the contravention of which, or the refusal or neglect of which, is designated to be a violation by a regulation made under paragraph 4(1)(a) commits a violation and is liable to a warning or to a penalty in accordance with this Act.
 
 **Issuance of notice of violation**
@@ -151,7 +151,7 @@ the contravention of which, or the refusal or neglect of which, is designated to
 **Summary of rights**
 
 - **(3)** A notice of violation must clearly summarize, in plain language, the rights and obligations under this Act of the person on whom it is served, including the right to have the facts of the violation reviewed by the Minister or the Tribunal, and the procedure for requesting such a review.
-> 1995, c. 40, s. 7; 2015, c. 2, s. 116(E); 2016, c. 9, s. 71(E).
+> 1995, c. 40, s. 7; 2012, c. 24, s. 100(E); 2015, c. 2, s. 116(E); 2016, c. 9, ss. 71(E), 72(E).
 
 
 
@@ -346,8 +346,8 @@ and the Tribunal shall cause a notice of any order made under this subsection to
 
 **Debt final**
 
-- **(3)** A debt referred to in subsection (1) is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 9 to 14 of this Act and subsection 12(2) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
-> 1995, c. 40, s. 15; 2015, c. 2, s. 118(F).
+- **(3)** A debt referred to in subsection (1) is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 9 to 14.
+> 1995, c. 40, s. 15; 2012, c. 24, s. 101; 2015, c. 2, s. 118(F).
 
 
 
@@ -474,22 +474,264 @@ unless the removal from the record would not in the opinion of the Minister be i
 
 
 
-## Related and Consequential Amendments
-
-
-**27 to 89** [Amendments]
+## Review Tribunal
 
 
 
-
-## Coming into Force
-
+### Composition
 
 
-**Coming into force**
 
-<sup><a href='#A-8.8_en_1'>[*]</a></sup>**90** This Act or any of its provisions, or any provision enacted or amended by this Act, comes into force on a day or days to be fixed by order of the Governor in Council.
+**Review Tribunal continued**
 
-<a name='A-8.8_en_1'><sup>*</sup></a>: [Note: Act in force July 30, 1997, *see* SI/97-89.]<br />
+**27** 
+
+- **(1)** The Review Tribunal, continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), chapter 20 of the 4th Supplement to the Revised Statutes of Canada, 1985, is continued.
+
+**Composition**
+
+- **(2)** The Tribunal consists of members to be appointed by the Governor in Council, one of whom is to be appointed as Chairperson.
+> 1995, c. 40, s. 27; 2012, c. 24, s. 102.
+
+
+
+
+
+**Qualifications**
+
+**28** A person is not eligible to be appointed as a member unless the person is knowledgeable about or has experience related to agriculture or agri-food and the Chairperson and at least one other member must, in addition, be a lawyer of at least ten years’ standing at the bar of any province or a notary of at least ten years’ standing at the Chambre des notaires du Québec.
+> 1995, c. 40, s. 28; 2012, c. 24, s. 102.
+
+
+
+
+
+**Membership**
+
+**29** The Chairperson is to be appointed as a full-time member and the other members are to be appointed as either full-time members or part-time members.
+> 1995, c. 40, s. 29; 2012, c. 24, s. 102.
+
+
+
+
+
+**Tenure**
+
+**30** 
+
+- **(1)** Each member is to be appointed for a term of not more than five years and holds office during good behaviour, but may be removed by the Governor in Council for cause.
+
+**Re-appointment**
+
+- **(2)** Each member may be re-appointed as a member in the same or another capacity.
+> 1995, c. 40, s. 30; 2012, c. 24, s. 102.
+
+
+
+
+
+**No other federal public administration**
+
+**31** A member must not hold any other office in the federal public administration.
+> 1995, c. 40, s. 31; 2012, c. 24, s. 102.
+
+
+
+
+
+**Conflict of interest**
+
+**32** A member must not accept or hold any office or employment that is inconsistent with the member’s duties or take part in any matter before the Tribunal in which the member has an interest.
+> 1995, c. 40, s. 32; 2012, c. 24, s. 102.
+
+
+
+
+
+### Chairperson
+
+
+
+**Duties of Chairperson**
+
+**33** 
+
+- **(1)** The Chairperson apportions work among the Tribunal’s members.
+
+**Absence or incapacity of Chairperson**
+
+- **(2)** If the Chairperson is absent or unable to act or the Chairperson’s position becomes vacant, the members must designate a member with the legal qualifications described in section 28 to act as Chairperson pending the appointment of a replacement, but no person may so act for a period exceeding 60 days without the approval of the Governor in Council.
+> 1995, c. 40, s. 33; 2012, c. 24, s. 102; 2014, c. 20, s. 480.
+
+
+
+
+
+### Remuneration and Expenses
+
+
+
+**Remuneration**
+
+**34** 
+
+- **(1)** Each full-time member is to be paid the salary that is fixed by the Governor in Council and each part-time member is entitled to be paid the fees or other remuneration that is fixed by the Governor in Council.
+
+**Travel and living expenses**
+
+- **(2)** Members are entitled to be paid, in accordance with Treasury Board directives, reasonable travel and living expenses incurred in the performance of their duties and functions while absent from their ordinary place of work, in the case of full-time members, or from their ordinary place of residence, in the case of part-time members.
+> 1995, c. 40, s. 34; 2012, c. 24, s. 102.
+
+
+
+
+**35** [Repealed, 2014, c. 20, s. 480]
+
+
+
+**36** [Repealed, 2014, c. 20, s. 480]
+
+
+
+
+### Head Office
+
+
+
+**Head office**
+
+**37** 
+
+- **(1)** The head office of the Tribunal is to be in the National Capital Region as defined in section 2 of the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+
+**Sittings**
+
+- **(2)** The Tribunal is to sit at the places in Canada that may be specified by the Governor in Council.
+> 1995, c. 40, s. 37; 2012, c. 24, s. 102.
+
+
+
+
+
+### Jurisdiction
+
+
+
+**Tribunal**
+
+**38** 
+
+- **(1)** The Tribunal has sole and exclusive jurisdiction to hear and determine all questions of fact or law in relation to any matter over which it is given jurisdiction under this Act or any other Act of Parliament.
+
+**Review by Federal Court**
+
+- **(2)** An order of the Tribunal may only be reviewed under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> 1995, c. 40, s. 38; 2012, c. 24, s. 102.
+
+
+
+
+
+**Chairperson**
+
+**39** 
+
+- **(1)** The jurisdiction of the Tribunal in relation to the following matters is to be exercised by the Chairperson:
+	- **(a)** requests under subsection 8(1) or 12(2) for a review in respect of a notice of violation that contains a warning; and
+	- **(b)** requests under paragraph 9(2)(c) or 13(2)(b) for a review in respect of a notice of violation that sets out a penalty of less than $2,000.
+
+**Other legally qualified members**
+
+- **(2)** The jurisdiction of the Tribunal in relation to a matter referred to in subsection (1) may be exercised, if the Chairperson so directs, by any member of the Tribunal with the legal qualifications described in section 28.
+> 1995, c. 40, s. 39; 2012, c. 24, s. 102.
+
+
+
+
+
+**Reviews**
+
+**40** Reviews by the Tribunal are to be heard by a single member.
+> 1995, c. 40, s. 40; 2012, c. 24, s. 102.
+
+
+
+
+
+### Powers
+
+
+
+**Court of record**
+
+**41** 
+
+- **(1)** The Tribunal is a court of record with an official seal that must be judicially noticed.
+
+**Examination of witnesses, etc.**
+
+- **(2)** In addition to the powers conferred by subsection (1), the Tribunal has, with respect to the appearance, swearing and examination of witnesses, the production and inspection of documents and other things, the enforcement of its orders and other matters necessary or proper for the due exercise of its jurisdiction, all the powers, rights and privileges that are vested in a superior court of record and, without limiting the generality of the foregoing, it may
+	- **(a)** issue a summons requiring a person
+		- **(i)** to appear at the time and place stated in the summons to testify to all matters within the person’s knowledge relative to any subject matter before the Tribunal, and
+		- **(ii)** to bring and produce any document, book or paper in the person’s possession or under the person’s control relative to that subject matter;
+	- **(b)** administer oaths and examine any person on oath; and
+	- **(c)** during a hearing, receive any evidence that it considers relevant and trustworthy.
+> 1995, c. 40, s. 41; 2012, c. 24, s. 102.
+
+
+
+
+
+### Rules
+
+
+
+**Rules**
+
+**42** The Tribunal may, with the approval of the Governor in Council, make rules governing
+- **(a)** the practice and procedure in respect of hearings;
+- **(b)** the time and manner in which applications and notices must be made or given; and
+- **(c)** the work of the Tribunal under this or any other Act of Parliament.
+> 1995, c. 40, s. 42; 2012, c. 24, s. 102.
+
+
+
+
+
+### General
+
+
+
+**Consultations**
+
+**43** The members of the Tribunal may consult with other members of the Tribunal in respect of any matter before it.
+> 1995, c. 40, s. 43; 2012, c. 24, s. 102.
+
+
+
+
+
+**Rules of evidence**
+
+**44** The Tribunal is not bound by any legal or technical rules of evidence in conducting any matter that comes before it. It must deal with matters that come before it as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit.
+> 1995, c. 40, s. 44; 2012, c. 24, s. 102.
+
+
+
+
+
+**Privileged evidence not receivable**
+
+**45** The Tribunal is not entitled to receive or accept as evidence anything that would be inadmissible in a court by reason of any privilege under the law of evidence.
+> 1995, c. 40, s. 45; 2012, c. 24, s. 102.
+
+
+
+
+**46 to 89** [Repealed, 2012, c. 24, s. 102]
+
+
+
+**90** [Repealed, 2012, c. 24, s. 102]
 
 
