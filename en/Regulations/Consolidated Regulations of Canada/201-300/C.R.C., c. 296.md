@@ -105,7 +105,7 @@ Enabling authorities:
 ***country of origin*** means
 - **(a)** with respect to an animal, the country from which the animal was imported into Canada, where the animal has lived for no less than 60 days in that country in association with other animals of its own species and, in any other case, means the country in which the animal was born,
 - **(b)** with respect to an animal embryo, animal product or animal by-product, the country in which the animal embryo, animal product or animal by-product was taken from an animal, or
-- **(c)** with respect to an animal product or animal by-product — other than non-fertilized ova, semen and meat as defined in subsection 2(1) of the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md) — that has undergone processing that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product or by-product was derived is susceptible and that can be transmitted by the product or by-product, the country in which the product or by-product underwent that processing; (*pays d’origine*)
+- **(c)** with respect to an animal product or animal by-product — other than non-fertilized ova, semen and meat — that has undergone processing that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product or by-product was derived is susceptible and that can be transmitted by the product or by-product, the country in which the product or by-product underwent that processing; (*pays d’origine*)
 
 ***disease*** means, for the purposes of Parts III and IV, any reportable disease or other serious epizootic disease to which an animal or germplasm is susceptible and which can be transmitted by the animal or germplasm; (*maladie*)
 
@@ -171,6 +171,8 @@ Enabling authorities:
 
 ***manure*** includes guano, feces with or without urine and anything containing feces from any bird, ruminant or porcine; (*fumier*)
 
+***meat*** means the edible part of a carcass that is the muscle associated with the skeleton, tongue, diaphragm, heart, gizzard or mammalian oesophagus, with or without accompanying and overlying fat, together with those parts of the bones, skin, sinews, nerves, blood vessels and other tissues that normally accompany the muscle and are not ordinarily removed in dressing a carcass, but does not include the muscle associated with the lips, snout, scalp or ears; (*viande*)
+
 ***meat meal*** or ***tankage*** means the rendered and dried carcass or part of the carcass of an animal; (*farine de viande*or*résidus de graisse*)
 
 ***milk*** means the lacteal secretion obtained from the mammary gland of any ruminant, in concentrated, dried, frozen, reconstituted or fresh form; (*lait*)
@@ -210,7 +212,7 @@ Enabling authorities:
 
 ***raw wool, hair or bristles*** means wool, hair or bristles taken from an animal but does not include wool tops, wool waste, wool noils, wool laps, small trade samples of wool, lime pulled wool and hair, scoured wool and hair and carbonized wool and hair; (*laine, poils et soies bruts*)
 
-***registered processed egg station*** has the same meaning as in the [Processed Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20290.md); (*poste enregistré d’oeufs transformés*)
+***registered processed egg station***[Repealed, SOR/2018-108, s. 403]
 
 ***ruminant*** means an animal of the suborder *Ruminatiae* and includes an animal of the family *Camelidae*; (*ruminant*)
 
@@ -245,7 +247,7 @@ Enabling authorities:
 ***Veterinary Inspection, Operations***[Repealed, SOR/97-85, s. 1]
 
 ***veterinary inspector***[Repealed, SOR/97-85, s. 1]
-> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3; SOR/2014-23, s. 1.
+> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3; SOR/2014-23, s. 1; SOR/2018-108, s. 403.
 
 
 
@@ -305,9 +307,9 @@ in such a manner, at such a place or places, under such conditions and within su
 - **(2)** Every person who receives an order referred to in subsection (1) shall comply with the order.
 
 - **(3)** Where an order referred to in subsection (1) requiring an animal to be destroyed or destroyed and disposed of is not complied with within the time specified therein, a veterinary inspector may have the animal
-	- **(a)** removed to and destroyed at an establishment registered under the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md); or
+	- **(a)** removed to and destroyed at an establishment where food animals are slaughtered by the holder of a licence that is issued under paragraph 20(1)(b) of the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md); or
 	- **(b)** destroyed at a time and place determined by him, and have its carcass disposed of as determined by him.
-> SOR/79-839, s. 4; SOR/81-348, s. 1.
+> SOR/79-839, s. 4; SOR/81-348, s. 1; SOR/2018-108, s. 404.
 
 
 
@@ -648,8 +650,10 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(b)** the person produces a certificate of origin signed by an official of the government of the country of origin that shows that the country of origin or part of such a country is the designated country or part thereof referred to in paragraph (a); and
 	- **(c)** the eggs are packed in containers that are clean and free from dirt and residue of eggs.
 
-- **(3)** Paragraph (2)(a) does not apply to eggs imported into Canada if they are transported under seal of an inspector direct from the place of entry to a registered processed egg station approved by the Minister.
-> SOR/78-69, s. 21; SOR/92-650, s. 1; SOR/97-85, s. 28.
+- **(3)** Paragraph (2)(a) does not apply to eggs imported into Canada if they are transported under seal of an inspector direct from the place of entry to a processed egg product establishment approved by the Minister.
+
+- **(4)** In subsection (3), ***processed egg product establishment*** means an establishment where eggs or processed egg products are processed, treated or preserved by the holder of a licence that is issued under paragraph 20(1)(b) of the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md).
+> SOR/78-69, s. 21; SOR/92-650, s. 1; SOR/97-85, s. 28; SOR/2018-108, s. 405.
 
 
 
@@ -3173,7 +3177,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(c)** the reason for removal; and
 	- **(d)** the name and address of the owner or person having the possession, care or control of the ovine at the destination to which it is removed.
 
-- **(2)** Subsection (1) does not apply to an ovine transported directly for slaughter to an establishment registered under the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md) or under an Act of the legislature of a province that provides for the inspection of ovine carcasses.
+- **(2)** Subsection (1) does not apply in respect of an ovine that is transported directly for slaughter either to an establishment where food animals are slaughtered by the holder of a licence that is issued under paragraph 20(1)(b) of the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) or to an establishment that is registered under an Act of a province that provides for the inspection of ovine carcasses.
 
 - **(3)** The operator of a site who receives or causes the reception of a bred ovine shall keep a record of
 	- **(a)** the identification number on the approved tag that is applied  to the ovine;
@@ -3181,7 +3185,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(c)** the name and address of the owner or person who had the possession, care or control of the ovine at the site from which it was removed.
 
 - **(4)** Every person who is required to keep a record under this section shall keep the record for a period of at least five years.
-> SOR/2003-409, s. 3; SOR/2005-192, s. 4(E); SOR/2014-23, s. 11.
+> SOR/2003-409, s. 3; SOR/2005-192, s. 4(E); SOR/2014-23, s. 11; SOR/2018-108, s. 406.
 
 
 
