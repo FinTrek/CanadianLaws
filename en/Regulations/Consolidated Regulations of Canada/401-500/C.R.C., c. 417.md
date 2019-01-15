@@ -45,9 +45,9 @@ Enabling authorities:
 - **(d)** in the case of a container that is a bag with sides of equal dimensions, the total area of one of the sides,
 - **(e)** in the case of a container that is a bag with sides of more than one size, the total area of one of the largest sides,
 - **(f)** in the case of a container that is a wrapper or confining band that is so narrow in relation to the size of the product contained that it cannot reasonably be said to have any side or surface that is displayed or visible under normal or customary conditions of sale or use, the total area of one side of a ticket or tag attached to such container, and
-- **(g)** despite paragraphs (a) to (f) of this definition, in the case of a container of wine in which the wine is displayed for sale to consumers, any part of the surface of the container, excluding its top and bottom, that can be seen without having to turn the container; (*principale surface exposée*)
+- **(g)** despite paragraphs (a) to (f) of this definition, in the case of a container of wine in which the wine is displayed for sale to consumers, any part of the surface of the container, excluding its top and bottom, that can be seen without having to turn the container. (*principale surface exposée*)
 
-***wine*** is an alcoholic beverage that meets the standard for wine set out in section B.02.100 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
+***wine***[Repealed, SOR/2018-108, s. 379]
 
 - **(2)** For the purposes of the Act and these Regulations,
 
@@ -55,7 +55,7 @@ Enabling authorities:
 - **(a)** in the case of a container that is mounted on a display card, that part of the label applied to all or part of the principal display surface of the container or to all or part of the side of the display card that is displayed or visible under normal or customary conditions of sale or use or to both such parts of the container and the display card,
 - **(b)** in the case of an ornamental container, that part of the label applied to all or part of the bottom of the container or to all or part of the principal display surface or to all or part of a tag that is attached to the container, and
 - **(c)** in the case of all other containers, that part of the label applied to all or part of the principal display surface. (*espace principal*)
-> SOR/96-278, s. 1; SOR/2014-8, s. 1.
+> SOR/96-278, s. 1; SOR/2014-8, s. 1; SOR/2018-108, s. 379.
 
 
 
@@ -83,24 +83,12 @@ are exempt from all the provisions of the Act.
 
 
 
-## Exemptions from Sections 4, 5, 6, 8 and 10 of the Act
+## Exemptions from Sections 4, 5, 6 and 10 of the Act
 
 
-**4** 
+**4** Prepackaged products that are subject to regulations respecting packaging, labelling and marking under the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md) or [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) are exempt from sections 4, 5, 6 and 10 of the Act.
+> SOR/2018-108, s. 380.
 
-- **(1)** Prepackaged products that are subject to regulations respecting packaging, labelling and marking under the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md) are exempt from sections 4, 5, 6, 8 and 10 of the Act.
-
-- **(2)** A prepackaged product that is a soft drink the container of which is
-	- **(a)** re-used by a dealer as a soft drink container,
-	- **(b)** permanently labelled with any information required to be shown thereon by or under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), and
-	- **(c)** manufactured before March 1, 1974 or during a period of 12 months after March 1, 1974,
-is exempt from sections 4, 5, 6, 8 and 10 of the Act.
-
-- **(3)** Prepackaged products, commonly known as one-bite confections, that are usually sold individually to a consumer are exempt from sections 4, 5, 6, 8 and 10 of the Act.
-
-- **(4)** Prepackaged products consisting of fresh fruits or fresh vegetables that are packaged in a wrapper or confining band of less than 1/2 inch in width are exempt from sections 4, 5, 6, 8 and 10 of the Act.
-
-- **(5)** Prepackaged products consisting of raspberries or strawberries that are packaged in the field in containers having a capacity of 1.14 litres or less are exempt from sections 4, 5, 6, 8 and 10 of the Act.
 
 
 
@@ -111,14 +99,14 @@ is exempt from sections 4, 5, 6, 8 and 10 of the Act.
 **5** 
 
 - **(1)** A prepackaged product that
-	- **(a)** does not consist of food,
+	- **(a)** [Repealed, SOR/2018-108, s. 381]
 	- **(b)** is usually sold to a consumer by numerical count,
 	- **(c)** is packaged in such a manner that the product contents are visible and identifiable, and
 	- **(d)** has a label applied to it in accordance with sections 7 to 11 that shows the information referred to in subparagraph 10(b)(i) of the Act in the form and manner prescribed by these Regulations,
 is exempt from subparagraph 10(b)(ii) of the Act.
 
 - **(2)** A prepackaged product that
-	- **(a)** does not consist of food,
+	- **(a)** [Repealed, SOR/2018-108, s. 381]
 	- **(b)** is usually sold to a consumer by numerical count,
 	- **(c)** is packaged in such a manner that the product contents are visible and identifiable,
 	- **(d)** consists of less than seven articles or consists of less than 13 articles and the actual number of those articles can be readily ascertained by an examination of the product without opening it, and
@@ -126,12 +114,14 @@ is exempt from subparagraph 10(b)(ii) of the Act.
 is exempt from section 4 of the Act.
 
 - **(3)** A prepackaged product that
-	- **(a)** does not consist of food,
+	- **(a)** [Repealed, SOR/2018-108, s. 381]
 	- **(b)** consists of a single article or consists of more than one article where the articles are packaged as a set,
 	- **(c)** is usually sold to a consumer by numerical count,
 	- **(d)** has on the principal display panel a pictorial representation which adequately indicates the identity and quantity of the product contents, and
 	- **(e)** has a label applied to it in accordance with sections 7 to 11 that shows the information referred to in subparagraph 10(b)(i) of the Act in the form and manner prescribed by these Regulations,
 is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
+> SOR/2018-108, s. 381.
+
 
 
 
@@ -158,11 +148,9 @@ is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
 
 ***official languages*** means the English language and the French language; (*langues officielles*)
 
-***specialty product*** means a prepackaged product that is
-- **(a)** a food or beverage that has special religious significance and is used in religious ceremonies, or
-- **(b)** an imported product
-	- **(i)** that is not widely used by the population as a whole in Canada, and
-	- **(ii)** for which there is no readily available substitute that is manufactured, processed, produced or packaged in Canada and that is generally accepted as being a comparable substitute; (*produit spécial*)
+***specialty product*** means a prepackaged product that is an imported product
+- **(a)** that is not widely used by the population as a whole in Canada; and
+- **(b)** for which there is no readily available substitute that is manufactured, processed, produced or packaged in Canada and that is generally accepted as being a comparable substitute; (*produit spécial*)
 
 ***test market product*** means a prepackaged product that, prior to the date of the notice of intention respecting that product referred to in subsection (5), was not sold in Canada in that form and that differs substantially from any other product sold in Canada with respect to its composition, function, state or packaging form. (*produit d’essai*)
 
@@ -187,6 +175,8 @@ is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
 	- **(b)** books;
 	- **(c)** talking toys;
 	- **(d)** games in which a knowledge of the language used is a basic factor essential to the use of the game.
+> SOR/2018-108, s. 382.
+
 
 
 
@@ -252,8 +242,8 @@ is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
 
 - **(4)** All information in the declaration of net quantity other than the information referred to in subsection (2), shall be shown in letters of not less than 1/16 inch (1.6 millimetres) in height.
 
-- **(5)** Despite subsections (2) to (4), in the case of the label on a 750 millilitre container, no taller than 360 millimetres, in which wine is displayed for sale to consumers, the declaration of net quantity may be shown in letters of not less than 3.3 millimetres in height.
-> SOR/2014-8, s. 2.
+- **(5)** [Repealed, SOR/2018-108, s. 383]
+> SOR/2014-8, s. 2; SOR/2018-108, s. 383.
 
 
 
@@ -274,22 +264,7 @@ is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
 
 
 
-
-## Exemption from Net Quantity Declaration
-
-
-**18** 
-
-- **(1)** For the purposes of this section and section 27.1, ***catch-weight product*** means a class of food product that because of its nature cannot normally be portioned to a predetermined quantity and is, as a result, usually sold in packages of varying quantity.
-
-- **(2)** Subject to subsection (3), the following types of transactions are exempt from section 4 of the Act:
-	- **(a)** sales by automatic vending machines or mobile canteens of prepackaged individual servings of food that are prepared by a commissary;
-	- **(b)** sales to a retailer by a manufacturer, processor or producer of prepackaged catchweight products;
-	- **(c)** sales of prepackaged individual portions of food that are served by a restaurant or other commercial enterprise with meals or snacks.
-
-- **(3)** A prepackaged product referred to in subsection (2) shall have a label applied to it in accordance with sections 7 to 11 and the label shall show the information referred to in subparagraphs 10(b)(i) and (ii) of the Act in the form and manner prescribed by these Regulations.
-> SOR/82-411, s. 1.
-
+**18** [Repealed, SOR/2018-108, s. 384]
 
 
 
@@ -305,14 +280,14 @@ is exempt from section 4 and subparagraph 10(b)(ii) of the Act.
 
 ***floor covering*** means floor covering within the meaning of section 342 of the [Weights and Measures Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1601-1700/C.R.C.,%20c.%201605.md); (*couvre-plancher*)
 
-***individually measured commodity*** means an individually measured commodity within the meaning of section 45 of the [Weights and Measures Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1601-1700/C.R.C.,%20c.%201605.md). (*marchandise mesurée individuellement*)
+***individually measured commodity***[Repealed, SOR/2018-108, s. 385]
 
-- **(2)** Subject to subsection (3), prepackaged products packaged from bulk on a retail premises, other than wallpaper or floor covering, are exempt from paragraphs 4(1)(b) and 8(b) of the Act and from section 14 of these Regulations, if the net quantity of the product is clearly shown on the principal display panel of the label thereon in terms of a Canadian unit.
+- **(2)** Prepackaged products that are packaged from bulk on a retail premises, other than wallpaper or floor covering, are exempt from paragraph 4(1)(b) of the Act and from section 14 of these Regulations, if the net quantity of the product is clearly shown on the principal display panel of its label in terms of a Canadian unit.
 
-- **(3)** Prepackaged food that is an individually measured commodity is exempt from paragraphs 4(1)(b) and 8(b) of the Act and from section 14 of these Regulations in each area described in Column I of an item of the table to section 341 of the [Weights and Measures Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1601-1700/C.R.C.,%20c.%201605.md) prior to the applicable date set out in Column III of that item, if the net quantity of the product is clearly shown on the principal display panel of the label thereon in terms of a Canadian unit.
+- **(3)** [Repealed, SOR/2018-108, s. 385]
 
-- **(4)** Prepackaged food that is an individually measured commodity is exempt from section 14 of these Regulations in each area described in Column I of an item of the table to section 341 of the [Weights and Measures Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1601-1700/C.R.C.,%20c.%201605.md) on and after the applicable date set out in Column III of that item.
-> SOR/78-789, s. 1; SOR/80-840, s. 1; SOR/82-411, s. 2.
+- **(4)** [Repealed, SOR/2018-108, s. 385]
+> SOR/78-789, s. 1; SOR/80-840, s. 1; SOR/82-411, s. 2; SOR/2018-108, s. 385.
 
 
 
@@ -334,310 +309,8 @@ unless it is the established trade practice to show the net quantity of the prod
 
 
 
-**22** 
-
-- **(1)** The declaration of net quantity of a prepackaged product listed in the table to this subsection shall show the net quantity of the product by weight.
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Product</th>
-</tr>
-<tr>
-<td>1</td>
-<td>products packed for dispensing in aerosol form</td>
-</tr>
-<tr>
-<td>2</td>
-<td>honey</td>
-</tr>
-<tr>
-<td>3</td>
-<td>peanut butter</td>
-</tr>
-<tr>
-<td>4</td>
-<td>[Repealed, SOR/78-789, s. 3]</td>
-</tr>
-<tr>
-<td>5</td>
-<td>maple butter</td>
-</tr>
-<tr>
-<td>6</td>
-<td>[Repealed, SOR/78-171, s. 2]</td>
-</tr>
-<tr>
-<td>7</td>
-<td>cooking molasses</td>
-</tr>
-<tr>
-<td>8</td>
-<td>table molasses</td>
-</tr>
-<tr>
-<td>9</td>
-<td>fancy molasses</td>
-</tr>
-<tr>
-<td>10</td>
-<td>[Repealed, SOR/81-580, s. 1]</td>
-</tr>
-<tr>
-<td>11</td>
-<td>cottage cheese</td>
-</tr>
-<tr>
-<td>12</td>
-<td>yogurt</td>
-</tr>
-<tr>
-<td>13</td>
-<td>dips</td>
-</tr>
-<tr>
-<td>14</td>
-<td>whipped butter</td>
-</tr>
-<tr>
-<td>15</td>
-<td>liquid whole egg, egg-yolk or egg albumen or mixtures of two or more of those products</td>
-</tr>
-<tr>
-<td>16</td>
-<td>frozen liquid whole egg, egg-yolk or egg albumen or mixtures of two or more of those products.</td>
-</tr>
-</table>
-
-
-- **(2)** The declaration of net quantity of a prepackaged product listed in the table to this subsection shall show the net quantity of the product by weight of the edible contents in the container exclusive of the free liquid or glaze content.
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Product</th>
-</tr>
-<tr>
-<td>1</td>
-<td>canned shellfish</td>
-</tr>
-<tr>
-<td>2</td>
-<td>canned crustaceans</td>
-</tr>
-<tr>
-<td>3</td>
-<td>meat packed in brine or vinegar solutions</td>
-</tr>
-<tr>
-<td>4</td>
-<td>frozen glazed fish</td>
-</tr>
-</table>
-
-
-- **(3)** The declaration of net quantity of a prepackaged product listed in the table to this subsection shall show the net quantity of the product by volume.
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Product</th>
-</tr>
-<tr>
-<td>1</td>
-<td>canned fruits</td>
-</tr>
-<tr>
-<td>2</td>
-<td>canned vegetables</td>
-</tr>
-<tr>
-<td>3</td>
-<td>pickles</td>
-</tr>
-<tr>
-<td>4</td>
-<td>relishes</td>
-</tr>
-<tr>
-<td>5</td>
-<td>olives</td>
-</tr>
-<tr>
-<td>6</td>
-<td>creamed mushrooms</td>
-</tr>
-<tr>
-<td>7</td>
-<td>mushrooms in brine</td>
-</tr>
-<tr>
-<td>8</td>
-<td>maraschino cherries</td>
-</tr>
-<tr>
-<td>9</td>
-<td>creme de menthe cherries</td>
-</tr>
-<tr>
-<td>10</td>
-<td>cocktail cherries</td>
-</tr>
-<tr>
-<td>11</td>
-<td>beans with pork</td>
-</tr>
-<tr>
-<td>12</td>
-<td>infant foods</td>
-</tr>
-<tr>
-<td>13</td>
-<td>junior foods</td>
-</tr>
-<tr>
-<td>14</td>
-<td>spaghetti in tomato sauce</td>
-</tr>
-<tr>
-<td>15</td>
-<td>ice cream and products containing ice cream</td>
-</tr>
-<tr>
-<td>16</td>
-<td>ice milk and products containing ice milk</td>
-</tr>
-<tr>
-<td>17</td>
-<td>sherbet and products containing sherbet</td>
-</tr>
-<tr>
-<td>18</td>
-<td>fruit pie filling</td>
-</tr>
-<tr>
-<td>19</td>
-<td>fountain fruits</td>
-</tr>
-<tr>
-<td>20</td>
-<td>tomato paste</td>
-</tr>
-<tr>
-<td>21</td>
-<td>tomato puree</td>
-</tr>
-<tr>
-<td>22</td>
-<td>soup</td>
-</tr>
-<tr>
-<td>23</td>
-<td>condensed soup</td>
-</tr>
-<tr>
-<td>24</td>
-<td>jam and jam with pectin</td>
-</tr>
-<tr>
-<td>25</td>
-<td>jelly and jelly with pectin</td>
-</tr>
-<tr>
-<td>26</td>
-<td>marmalade and marmalade with pectin</td>
-</tr>
-<tr>
-<td>27</td>
-<td>preserves</td>
-</tr>
-<tr>
-<td>28</td>
-<td>frozen liquid foods other than the products described in item 16 of the Table to subsection 22(1)</td>
-</tr>
-<tr>
-<td>29</td>
-<td>tomato catsup</td>
-</tr>
-<tr>
-<td>30</td>
-<td>tomato chili sauce</td>
-</tr>
-<tr>
-<td>31</td>
-<td>tomato sauce</td>
-</tr>
-<tr>
-<td>32</td>
-<td>tomato pulp</td>
-</tr>
-<tr>
-<td>33</td>
-<td>tomato juice, concentrated</td>
-</tr>
-<tr>
-<td>34</td>
-<td>cranberries, cranberry sauce</td>
-</tr>
-<tr>
-<td>35</td>
-<td>mincemeat</td>
-</tr>
-<tr>
-<td>36</td>
-<td>ice cream cake</td>
-</tr>
-<tr>
-<td>37</td>
-<td>sour cream</td>
-</tr>
-<tr>
-<td>38</td>
-<td>fruit spreads</td>
-</tr>
-<tr>
-<td>39</td>
-<td>canned concentrated milk products</td>
-</tr>
-<tr>
-<td>40</td>
-<td>maple syrup</td>
-</tr>
-</table>
-
-
-- **(4)** The declaration of net quantity of a prepackaged product listed in the table to this subsection shall show the net quantity of the product in terms of numerical count.
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Product</th>
-</tr>
-<tr>
-<td>1</td>
-<td>canned or frozen corn-on-the-cob</td>
-</tr>
-</table>
-
-
-- **(5)** The declaration of net quantity of a prepackaged product listed in the table to this subsection shall show the net quantity of the product by weight, volume, or in terms of numerical count.
-#### TABLE
-<table>
-<tr>
-<th>Item</th>
-<th>Product</th>
-</tr>
-<tr>
-<td>1</td>
-<td>fresh fruits</td>
-</tr>
-<tr>
-<td>2</td>
-<td>fresh vegetables</td>
-</tr>
-</table>
-
-> SOR/78-171, ss. 2, 3; SOR/78-789, ss. 3, 4; SOR/81-580, s. 1.
+**22** The declaration of net quantity of a prepackaged product that is packed for dispensing in aerosol form shall show the net quantity of the product by weight.
+> SOR/78-171, ss. 2, 3; SOR/78-789, ss. 3, 4; SOR/81-580, s. 1; SOR/2018-108, s. 386.
 
 
 
@@ -715,7 +388,9 @@ is less than 1 000 grams and the declaration of net quantity is shown in terms o
 	- **(b)** the total net quantity of products in each class in the unit or the individual net quantity of each identical product in the class in the unit; and
 	- **(c)** if a class of product in the unit contains only one product, the net quantity of that product.
 
-- **(2)** Notwithstanding subsection (1), where a prepackaged product referred to in that subsection consists of less than seven identical products that are packaged separately and such products are labelled to show all the information required by the Act and these Regulations and that information is clearly visible at the time of sale, no information is required to be shown on the prepackaged product being sold as one unit and that prepackaged product is exempt from sections 4, 8 and 10 of the Act.
+- **(2)** Despite subsection (1), if a prepackaged product referred to in that subsection consists of less than seven identical products that are packaged separately and those products are labelled to show all of the information required by the Act and these Regulations and that information is clearly visible at the time of sale, no information is required to be shown on the prepackaged product being sold as one unit and the prepackaged product is exempt from sections 4 and 10 of the Act.
+> SOR/2018-108, s. 387.
+
 
 
 
@@ -763,53 +438,15 @@ is less than 1 000 grams and the declaration of net quantity is shown in terms o
 
 
 
-
-## Exemption from Subparagraphs 10(b)(i) and (ii) of the Act
-
-
-**32** 
-
-- **(1)** Where prepackaged products consisting of fresh fruits or fresh vegetables are prepackaged on retail premises in such a manner that the fruits or vegetables are visible and identifiable in the package, such prepackaged products are exempt from subparagraphs 10(b)(i) and (ii) of the Act.
-
-- **(2)** Where prepackaged products consisting of fresh fruits or fresh vegetables are prepackaged at a level of trade other than retail in such a manner that the fruits or vegetables are visible and identifiable in the package, such prepackaged products are exempt from subparagraph 10(b)(ii) of the Act.
-
-- **(3)** Where prepackaged products consisting of fresh apples or fresh pears are prepackaged at any level of trade in such a manner that the name of the variety of the product as required by subsection 10(3) of the [Fresh Fruit and Vegetable Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20285.md) appears on any part of the label except that part of the label, if any, applied to the bottom of the container, such prepackaged products are exempt from subparagraph 10(b)(ii) of the Act.
-> SOR/78-171, s. 4.
+**32** [Repealed, SOR/2018-108, s. 388]
 
 
 
-
-
-## Representation as to Number of Servings
-
-
-**33** 
-
-- **(1)** Where the label applied to an edible or potable prepackaged product contains a representation in respect of the number of servings of the product, the declaration of net quantity of each serving shall be shown
-	- **(a)** in accordance with the requirements prescribed by sections 17, 21, 24, 25, 26, 27 and 29 respecting the manner of declaring the net quantity of a prepackaged product;
-	- **(b)** immediately adjacent to the representation; and
-	- **(c)** in letters and figures of the same size as those in which the representation is shown.
-
-- **(2)** An edible or potable prepackaged product containing a representation in respect of the number of servings of the product in cupsful or tablespoonsful is exempt from section 8 of the Act if the net quantity of the serving is shown in accordance with paragraphs (1)(b) and (c) and subsection (3).
-
-- **(3)** Where a representation in respect of the number of servings of the product is made in terms of cupsful or tablespoonsful, one cupful shall be used as being equivalent to eight fluid ounces (227.3 millilitres) and one tablespoonful shall be used as being equivalent to 1/2 fluid ounce (14.21 millilitres).
+**33** [Repealed, SOR/2018-108, s. 388]
 
 
 
-
-## Pictorial Representations on Food Labels
-
-
-**34** 
-
-- **(1)** Where a flavouring ingredient is added to a prepackaged product that is a food and the ingredient is not derived from such natural substances as meat, fish, poultry, fruits, vegetables, edible yeast, herbs, spices, bark, buds, roots, leaves or other plant material and the label of the prepackaged product shows a pictorial representation that connotes the natural food flavour that is being simulated by the added flavouring ingredient, the label shall contain information that the added flavouring ingredient is imitation, artificial or simulated.
-
-- **(2)** The information referred to in subsection (1) shall be easily legible and in letters at least the same size as the sizes prescribed in subsection 14(2).
-
-- **(3)** Where a pictorial representation referred to in subsection (1) appears
-	- **(a)** on the principal display panel, the information referred to in that subsection shall be shown on or adjacent to the pictorial representation;
-	- **(b)** on a part of the label other than the principal display panel, the information shall be shown on the principal display panel, adjacent to the common name of the prepackaged product; or
-	- **(c)** on the principal display panel and on any other part of the label, the information shall be shown on or adjacent to the pictorial representation on the principal display panel.
+**34** [Repealed, SOR/2018-108, s. 388]
 
 
 
@@ -825,29 +462,15 @@ is less than 1 000 grams and the declaration of net quantity is shown in terms o
 
 **36** 
 
-- **(1)** Subject to subsection (3), a prepackaged product consisting of
-	- **(a)** facial tissue, that is manufactured before January 1, 1997, may only be sold in a container the size of which corresponds to a net quantity of product
-		- **(i)** of less than a numerical count of 50,
-		- **(ii)** of a numerical count of 50, 60, 100, 120, 150 or 200, or
-		- **(iii)** of a numerical count of more than 200, if the container is of a size that corresponds to a net quantity of product that is a multiple of 100 units;
-	- **(b)** peanut butter may only be sold in a container the size of which corresponds to a net quantity of product
-		- **(i)** of 250, 375, 500 or 750 g, or
-		- **(ii)** of 1, 1.5 or 2 kg;
-	- **(c)** wine may only be sold in a container the size of which corresponds to a net quantity of product
-		- **(i)** of 50, 100, 200, 250, 375, 500 or 750 mL, or
-		- **(ii)** of 1, 1.5, 2, 3 or 4 L; and
-	- **(d)** glucose syrup and refined sugar syrup may only be sold in a container the size of which corresponds to a net quantity of product
-		- **(i)** of 125, 250, 375, 500 or 750 mL,
-		- **(ii)** of 1 or 1.5 L, or
-		- **(iii)** of 2 L or more, if the container is of a size that corresponds to a net quantity of product that is a multiple of 1 L.
+- **(1)** Subject to subsection (3), a prepackaged product consisting of facial tissue, that is manufactured before January 1, 1997, may only be sold in a container whose size corresponds to a net quantity of product
+	- **(a)** of a numerical count of less than 50;
+	- **(b)** of a numerical count of 50, 60, 100, 120, 150 or 200; or
+	- **(c)** of a numerical count of more than 200, if the container is of a size that corresponds to a net quantity of product that is a multiple of 100 units.
 
-- **(2)** Subject to subsection (3), the net quantity of a prepackaged product referred to in
-	- **(a)** paragraph (1)(a) shall be shown in terms of numerical count;
-	- **(b)** paragraph (1)(b) shall be shown by weight given in metric units of measurement; and
-	- **(c)** paragraphs (1)(c) and (d) shall be shown by volume given in metric units of measurement.
+- **(2)** Subject to subsection (3), the net quantity of a prepackaged product referred to in subsection (1) shall be shown in terms of numerical count.
 
 - **(3)** Subsections (1) and (2) do not apply in respect of a test market product as defined in subsection 6(1), if the dealer who intends to conduct the test marketing of the product has, six weeks before conducting the test marketing, filed with the Minister a notice of intention, in a form established by the Minister.
-> SOR/78-171, ss. 5 to 7; SOR/78-789, s. 5; SOR/79-683, s. 1; SOR/81-580, s. 2; SOR/81-621, s. 1; SOR/83-33, s. 1; SOR/84-161, s. 1; SOR/85-441, s. 1; SOR/96-278, s. 5.
+> SOR/78-171, ss. 5 to 7; SOR/78-789, s. 5; SOR/79-683, s. 1; SOR/81-580, s. 2; SOR/81-621, s. 1; SOR/83-33, s. 1; SOR/84-161, s. 1; SOR/85-441, s. 1; SOR/96-278, s. 5; SOR/2018-108, s. 389.
 
 
 
@@ -903,9 +526,9 @@ is less than 1 000 grams and the declaration of net quantity is shown in terms o
 
 
 
-**40** When an inspection is made of a prepackaged product
-- **(a)** consisting of liquid, the net quantity of the prepackaged product shall be determined on the basis that the liquid is at a temperature of 68°F(20°C); or
-- **(b)** consisting of a frozen liquid food that is normally sold and consumed in a frozen state, the net quantity of the prepackaged product shall be determined when that food is frozen.
+**40** If a prepackaged product consisting of liquid is inspected, the net quantity of the prepackaged product shall be determined on the basis of the assumption that the liquid is at a temperature of 20°C (68°F).
+> SOR/2018-108, s. 390.
+
 
 
 
