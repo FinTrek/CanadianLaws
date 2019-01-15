@@ -85,11 +85,9 @@ Autorités habilitantes :
 
 ***étiquette officielle*** Étiquette délivrée ou approuvée par l’Agence à l’égard d’une semence de qualité Généalogique. (*official tag*)
 
-***laboratoire reconnu officiellement*** Laboratoire d’analyse des semences qui est désigné par le ministre à titre de laboratoire agréé en application de l’article 14 de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*officially recognized laboratory*)
+***laboratoire reconnu officiellement*** Laboratoire d’analyse des semences auquel le ministre a attribué la qualité de laboratoire agréé en vertu de l’article 2.1 de la Loi. (*officially recognized laboratory*)
 
-***Loi***
-- **a)** Pour les parties I et III, la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md);
-- **b)** pour la partie IV, la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
+***Loi*** La [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md). (*Act*)
 
 ***lot de semence*** Quantité de semence dont chaque portion est, dans des limites raisonnables, uniforme relativement à la pureté, à la germination, à la variété, au type et à la qualité. (*seed lot*)
 
@@ -156,10 +154,10 @@ Autorités habilitantes :
 - **a)** se distinguent par des caractéristiques communes d’ordre morphologique, physiologique, cytologique, chimique ou autre;
 - **b)** conservent leurs caractéristiques distinctives après multiplication. (*variety*)
 
-- **(3)** Les parties I à III sont prises en vertu de la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
+- **(3)** [Abrogé, DORS/2018-108, art. 401]
 
-- **(4)** La partie IV est prise en vertu de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
-> DORS/86-850, art. 1; DORS/87-62, art. 1; DORS/91-609, art. 1; DORS/93-162, art. 1; DORS/96-252, art. 2; DORS/97-292, art. 33; DORS/97-534, art. 1; DORS/2000-184, art. 82; DORS/2001-93, art. 1; DORS/2003-6, art. 100; DORS/2007-223, art. 1; DORS/2012-13, art. 1.
+- **(4)** [Abrogé, DORS/2018-108, art. 401]
+> DORS/86-850, art. 1; DORS/87-62, art. 1; DORS/91-609, art. 1; DORS/93-162, art. 1; DORS/96-252, art. 2; DORS/97-292, art. 33; DORS/97-534, art. 1; DORS/2000-184, art. 82; DORS/2001-93, art. 1; DORS/2003-6, art. 100; DORS/2007-223, art. 1; DORS/2012-13, art. 1; DORS/2018-108, art. 401.
 
 
 
@@ -501,7 +499,7 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve des paragraphes (2) et (4), le registraire suspend l’agrément d’un classificateur ou d’un échantillonneur dans les cas suivants :
 	- **a)** des renseignements faux ou trompeurs ont été fournis à l’appui de la demande d’agrément;
-	- **b)** le classificateur ou l’échantillonneur ne se conforme pas à la Loi, à la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou au présent règlement.
+	- **b)** le classificateur ou l’échantillonneur ne se conforme pas aux dispositions de la Loi ou du présent règlement.
 
 - **(2)** Le registraire ne peut suspendre l’agrément d’un classificateur ou d’un échantillonneur si celui-ci, avant d’être entendu aux termes de l’alinéa (4)b), a pris des mesures correctives et que l’inspecteur s’en est assuré.
 
@@ -532,7 +530,7 @@ Autorités habilitantes :
 - **(8)** [Abrogé, DORS/2007-223, art. 10]
 
 - **(9)** En cas de l’annulation de l’agrément de classificateur ou d’échantillonneur d’une personne pour l’un des motifs visés aux alinéas (3)b) à e), le registraire rejette toute demande d’agrément de cette personne pendant les vingt-quatre mois suivant l’annulation, et n’agrée cette personne par la suite que si celle-ci safisfait aux conditions visées aux paragraphes 13.1(1) à (2.1).
-> DORS/96-252, art. 2; DORS/2001-93, art. 3; DORS/2003-6, art. 108; DORS/2007-223, art. 10.
+> DORS/96-252, art. 2; DORS/2001-93, art. 3; DORS/2003-6, art. 108; DORS/2007-223, art. 10; DORS/2018-108, art. 402.
 
 
 
