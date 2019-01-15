@@ -94,7 +94,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***toxic substance*** means a substance prescribed as toxic by the Minister; (*substance toxique*)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Commission*)
+***Tribunal*** means the Review Tribunal continued by subsection 27(1) of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md); (*Commission*)
 
 ***vector*** means an animal that has the potential to transmit a disease, directly or indirectly, from one animal or its excreta to another animal; (*vecteur*)
 
@@ -120,7 +120,7 @@ that may be proceeded with in accordance with the [Agriculture and Agri-Food Adm
 - **(3)** Toxic substances may be prescribed
 	- **(a)** in terms of the quantity or concentration in which substances are contained in other substances; and
 	- **(b)** by reference to substances specified in any published document, as amended from time to time.
-> 1990, c. 21, s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 54; 1997, c. 6, s. 67; 2001, c. 4, s. 173(F); 2015, c. 2, s. 84.
+> 1990, c. 21, s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 54; 1997, c. 6, s. 67; 2001, c. 4, s. 173(F); 2012, c. 24, s. 93; 2015, c. 2, s. 84.
 
 
 
