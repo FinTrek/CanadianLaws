@@ -1454,12 +1454,12 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **53.2** 
 
-- **(1)** Le propriétaire d’un produit antiparasitaire ou autre objet saisi en vertu de la présente loi qui a donné lieu à une poursuite, ou la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, peut, sous réserve du paragraphe 55(1), demander à la Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou au tribunal chargé de l’affaire, selon qu’il s’agit d’une poursuite pour violation ou pour infraction, qu’il lui soit restitué.
+- **(1)** Le propriétaire d’un produit antiparasitaire ou autre objet saisi en vertu de la présente loi qui a donné lieu à une poursuite, ou la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, peut, sous réserve du paragraphe 55(1), demander à la Commission de révision prorogée par le paragraphe 27(1) de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md) ou au tribunal chargé de l’affaire, selon qu’il s’agit d’une poursuite pour violation ou pour infraction, qu’il lui soit restitué.
 
 **Ordonnance de restitution**
 
 - **(2)** La juridiction peut faire droit à la demande si elle est convaincue qu’il existe ou qu’il peut être obtenu suffisamment d’éléments de preuve pour rendre inutile la rétention du produit antiparasitaire ou autre objet, sous réserve des conditions jugées utiles pour assurer sa conservation dans un but ultérieur.
-> 2016, ch. 9, art. 52.
+> 2016, ch. 9, art. 52 et 72.
 
 
 
@@ -1574,14 +1574,14 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Confiscation par ordonnance**
 
-- **(2)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité pour infraction à la présente loi, tout produit antiparasitaire ou autre objet — saisi ou non en vertu de la présente loi — qui a servi ou donné lieu à la violation ou à l’infraction en cause est, en sus de la pénalité ou de la peine infligée, confisqué au profit de Sa Majesté du chef du Canada, si, selon qu’il s’agit d’une violation ou d’une infraction, la Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou le tribunal l’ordonne.
+- **(2)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité pour infraction à la présente loi, tout produit antiparasitaire ou autre objet — saisi ou non en vertu de la présente loi — qui a servi ou donné lieu à la violation ou à l’infraction en cause est, en sus de la pénalité ou de la peine infligée, confisqué au profit de Sa Majesté du chef du Canada, si, selon qu’il s’agit d’une violation ou d’une infraction, la Commission de révision prorogée par le paragraphe 27(1) de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md) ou le tribunal l’ordonne.
 
 **Instructions du ministre**
 
 - **(3)** Il peut être disposé du produit antiparasitaire ou autre objet confisqué en vertu du paragraphe (2), conformément aux instructions du ministre :
 	- **a)** à défaut de saisie, aux frais du propriétaire;
 	- **b)** en cas de saisie, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie.
-> 2002, ch. 28, art. 55; 2016, ch. 9, art. 52.
+> 2002, ch. 28, art. 55; 2012, ch. 24, art. 106; 2016, ch. 9, art. 52 et 72.
 
 
 
