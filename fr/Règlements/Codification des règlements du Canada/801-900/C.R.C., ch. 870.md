@@ -475,9 +475,9 @@ Autorités habilitantes :
 ***emballage décoratif*** désigne un emballage sur lequel ne figure, sauf sur le dessous, aucune indication promotionnelle ou publicitaire autre qu’une marque de commerce ou un nom usuel et qui, à cause d’un dessin figurant sur sa surface ou à cause de sa forme ou de son apparence, semble être décoratif et est vendu à titre d’objet décoratif en plus d’être vendu comme emballage du produit; (*ornamental container*)
 
 ***espace principal*** Malgré la définition de ce terme à l’article A.01.010, vise :
-- **a)** dans le cas d’une étiquette apposée sur un produit préemballé visé par la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md), l’espace principal défini dans le [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md),
-- **b)** dans le cas d’une étiquette apposée sur un produit préemballé non visé par la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md), la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’emballage qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, et dans les cas où l’emballage ne possède pas une telle face ou surface, la portion de l’étiquette apposée sur toute partie de l’emballage, à l’exclusion du dessous de l’emballage, le cas échéant, et
-- **c)** dans le cas d’une étiquette apposée sur un aliment qui n’est pas un produit préemballé, la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’aliment qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation; (*principal display panel*)
+- **a)** dans le cas d’une étiquette apposée sur un aliment de consommation préemballé, au sens de l’article 1 du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md), l’espace principal visé à l’un des alinéas a) à c) de la définition de ce terme à cet article;
+- **b)** dans le cas d’une étiquette apposée sur un produit préemballé autre qu’un aliment de consommation préemballé visé par le [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md), la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’emballage qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, et dans les cas où l’emballage ne possède pas une telle face ou surface, la portion de l’étiquette apposée sur toute partie de l’emballage, à l’exclusion du dessous de l’emballage, le cas échéant;
+- **c)** dans le cas d’une étiquette apposée sur un aliment qui n’est pas un produit préemballé, la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’aliment qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation. (*principal display panel*)
 
 ***ingrédient*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire, à une ou plusieurs autres unités alimentaires pour former une denrée alimentaire intégrale vendue comme produit préemballé; (*ingredient*)
 
@@ -489,7 +489,7 @@ Autorités habilitantes :
 ***Liste de contaminants et d’autres substances adultérantes dans les aliments*** La Liste de contaminants et d’autres substances adultérantes dans les aliments, publiée par le ministère de la Santé sur son site Web, avec ses modifications successives; (*List of Contaminants and Other Adulterating Substances in Foods*)
 
 ***nom usuel***, en ce qui a trait à un aliment, désigne
-- **a)** le nom de l’aliment imprimé en caractères gras dans le présent règlement,
+- **a)** le nom de l’aliment imprimé en caractères gras mais non italiques dans une disposition du présent règlement,
 - **b)** le nom prescrit par un autre règlement, ou
 - **c)** si le nom de l’aliment n’est pas ainsi imprimé ou prescrit, le nom sous lequel l’aliment est généralement connu; (*common name*)
 
@@ -583,7 +583,7 @@ Sont toutefois exclus :
 ***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
 ***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1; DORS/2016-74, art. 1; DORS/2016-305, art. 1.
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1; DORS/2016-74, art. 1; DORS/2016-305, art. 1; DORS/2018-108, art. 393.
 
 
 
@@ -1683,14 +1683,14 @@ la liste des ingrédients, pour la période de 12 mois à partir du moment où l
 
 
 **B.01.014** L’étiquette d’un aliment autre qu’un édulcorant et qui contient de l’aspartame doit porter les renseignements suivants :
-- **a)** sous réserve de l’alinéa b), une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique que la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+- **a)** sous réserve de l’alinéa b), une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique que la déclaration de la quantité nette, comme l’exigent l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
 - **b)** dans le cas où d’autres édulcorants sont utilisés avec l’aspartame, une déclaration sur l’espace principal indiquant que l’aliment
 	- **(i)** contient de l’aspartame et (nom des autres édulcorants), ou
 	- **(ii)** est édulcoré avec de l’aspartame et (nom des autres édulcorants),
-et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exigent l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
 - **c)** sur la surface de l’étiquette, une déclaration indiquant que l’aspartame contient de la phénylalanine; et
 - **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion indiquée.
-> DORS/81-617, art. 2; DORS/88-559, art. 5; DORS/2003-11, art. 6; DORS/2016-305, art. 75(F).
+> DORS/81-617, art. 2; DORS/88-559, art. 5; DORS/2003-11, art. 6; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
@@ -1698,22 +1698,22 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 **B.01.015** 
 
 - **(1)** L’étiquette d’un édulcorant qui contient de l’aspartame doit porter les renseignements suivants :
-	- **a)** une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+	- **a)** une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exigent l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
 	- **b)** sur la surface de l’étiquette, une déclaration indiquant que l’aspartame contient de la phénylalanine;
 	- **c)** sur la surface de l’étiquette, une déclaration sur le pouvoir édulcorant d’une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d’édulcoration équivalent; et
 	- **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion indiquée.
 
 - **(2)** [Abrogé, DORS/2007-176, art. 1]
-> DORS/81-617, art. 2; DORS/88-559, art. 6; DORS/2003-11, art. 7; DORS/2007-176, art. 1; DORS/2016-305, art. 75(F).
+> DORS/81-617, art. 2; DORS/88-559, art. 6; DORS/2003-11, art. 7; DORS/2007-176, art. 1; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
 
 **B.01.016** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient du sucralose doit porter les renseignements suivants :
-- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
 - **b)** dans le cas où le sucralose est utilisé en combinaison avec un autre édulcorant ou un agent édulcorant, ou les deux, le nom de ceux-ci figurant dans une mention sur l’espace principal qui indique, en caractères conformes aux exigences de l’alinéa a), que l’aliment contient du sucralose et cet autre édulcorant ou cet agent édulcorant, ou les deux, selon le cas, ou est édulcoré avec ceux-ci;
 - **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion indiquée.
-> DORS/91-527, art. 2; DORS/94-625, art. 1; DORS/2003-11, art. 8; DORS/2016-305, art. 75(F).
+> DORS/91-527, art. 2; DORS/94-625, art. 1; DORS/2003-11, art. 8; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
@@ -1721,12 +1721,12 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 **B.01.017** 
 
 - **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant du sucralose doit porter les renseignements suivants :
-	- **a)** une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+	- **a)** une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
 	- **b)** sur toute partie de l’étiquette, une mention de la capacité édulcorante d’une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d’édulcoration équivalent;
 	- **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion indiquée.
 
 - **(2)** [Abrogé, DORS/2007-176, art. 2]
-> DORS/91-527, art. 2; DORS/94-625, art. 2; DORS/2003-11, art. 9; DORS/2007-176, art. 2; DORS/2016-305, art. 75(F).
+> DORS/91-527, art. 2; DORS/94-625, art. 2; DORS/2003-11, art. 9; DORS/2007-176, art. 2; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
@@ -1738,10 +1738,10 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 **B.01.019** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient de l’acésulfame-potassium doit porter les renseignements suivants :
-- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame- potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md), et qui sont aussi en évidence que ceux-ci;
+- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame-potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md), et qui sont aussi en évidence que ceux-ci;
 - **b)** dans le cas où l’acésulfame-potassium est utilisé en combinaison avec un autre édulcorant ou un agent édulcorant, ou les deux, le nom de ceux-ci figurant dans une mention sur l’espace principal qui indique, en caractères conformes aux exigences de l’alinéa a), que l’aliment contient de l’acésulfame-potassium et cet autre édulcorant ou cet agent édulcorant, ou les deux, selon le cas, ou est édulcoré avec ceux-ci;
 - **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion indiquée.
-> DORS/94-625, art. 3; DORS/2003-11, art. 11; DORS/2016-305, art. 75(F).
+> DORS/94-625, art. 3; DORS/2003-11, art. 11; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
@@ -1749,12 +1749,12 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 **B.01.020** 
 
 - **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant de l’acésulfame-potassium doit porter les renseignements suivants :
-	- **a)** une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame-potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md) et qui sont aussi en évidence que ceux-ci;
+	- **a)** une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame-potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md) et qui sont aussi en évidence que ceux-ci;
 	- **b)** sur toute partie de l’étiquette, une mention de la capacité édulcorante d’une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d’édulcoration équivalent;
 	- **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion indiquée.
 
 - **(2)** [Abrogé, DORS/2007-176, art. 3]
-> DORS/94-625, art. 3; DORS/2003-11, art. 12; DORS/2007-176, art. 3; DORS/2016-305, art. 75(F).
+> DORS/94-625, art. 3; DORS/2003-11, art. 12; DORS/2007-176, art. 3; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
@@ -1770,8 +1770,8 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 **B.01.022** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient du néotame doit porter les renseignements suivants :
-- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
-- **b)** dans le cas où d’autres édulcorants ou des agents édulcorants sont utilisés en combinaison avec le néotame, une mention sur l’espace principal indiquant, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md), que l’aliment, selon le cas :
+- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
+- **b)** dans le cas où d’autres édulcorants ou des agents édulcorants sont utilisés en combinaison avec le néotame, une mention sur l’espace principal indiquant, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md), que l’aliment, selon le cas :
 	- **(i)** contient du néotame et (noms des autres édulcorants et des agents édulcorants),
 	- **(ii)** est édulcoré avec du néotame et (noms des autres édulcorants et des agents édulcorants);
 - **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion indiquée;
@@ -1779,20 +1779,20 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 	- **(i)** la valeur énergétique exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
 	- **(ii)** la teneur en protéines, en matières grasses et en glucides, exprimée en grammes,
 	- **(iii)** la teneur en néotame exprimée en milligrammes.
-> DORS/2007-176, art. 4; DORS/2016-305, art. 75(F).
+> DORS/2007-176, art. 4; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
 
 **B.01.023** L’étiquette d’un aliment qui est un édulcorant de table contenant du néotame doit porter les renseignements suivants :
-- **a)** une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+- **a)** une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
 - **b)** sur toute partie de l’étiquette, une mention sur le pouvoir édulcorant d’une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d’édulcoration équivalent;
 - **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion indiquée;
 - **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion indiquée, regroupées et en caractères d’égale importance :
 	- **(i)** la valeur énergétique exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
 	- **(ii)** la teneur en protéines, en matières grasses et en glucides, exprimée en grammes,
 	- **(iii)** la teneur en néotame exprimée en milligrammes.
-> DORS/2007-176, art. 4; DORS/2016-305, art. 75(F).
+> DORS/2007-176, art. 4; DORS/2016-305, art. 75(F); DORS/2018-108, art. 400.
 
 
 
@@ -1834,7 +1834,7 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 - **(5)** Pour l’application des paragraphes (1) à (3), le symbole désignant l’aliment irradié doit :
 	- **a)** avoir un diamètre extérieur :
-		- **(i)** dans le cas visé au paragraphe (1), égal ou supérieur à la hauteur des données numériques de la déclaration de quantité nette visée à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md),
+		- **(i)** dans le cas visé au paragraphe (1), égal ou supérieur à la hauteur des données numériques de la déclaration de quantité nette visée à l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md),
 		- **(ii)** dans le cas visé au paragraphe (2), d’au moins 5 cm;
 	- **b)** revêtir la forme suivante :
 > Image: Symbole pour aliments irradiés qui consiste en une plante à l’intérieur d’un cercle dont la moitié supérieure est en pointillés.
@@ -1849,7 +1849,7 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 - **(9)** Toute annonce concernant un aliment irradié visé à la colonne 1 du tableau du titre 26 doit indiquer que cet aliment a été irradié.
 
 - **(10)** Les mentions visées aux paragraphes (3) et (6) à (8) doivent figurer dans les deux langues officielles, conformément au paragraphe B.01.012(2).
-> DORS/89-172, art. 1; DORS/2017-16, art. 1.
+> DORS/89-172, art. 1; DORS/2017-16, art. 1; DORS/2018-108, art. 400.
 
 
 
@@ -2168,12 +2168,8 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**B.01.302** 
-
-- **(1)** Si l’étiquette d’un produit préemballé à portions multiples indique le nombre de portions que contient le produit, ou celui qui sera obtenu si l’aliment est préparé selon les instructions fournies dans ou sur l’emballage, ces renseignements doivent être déclarés sur le fondement de la portion indiquée figurant dans le tableau de la valeur nutritive du produit.
-
-- **(2)** Malgré le paragraphe (1), l’étiquette d’un produit préemballé à portions multiples ne peut indiquer les renseignements visés à ce paragraphe, si la portion indiquée dans le tableau de la valeur nutritive de ce produit est exprimée en tasses ou en cuillères à soupe.
-> DORS/2016-305, art. 15.
+**B.01.302** Si l’étiquette d’un produit préemballé à portions multiples indique le nombre de portions que contient le produit, ou celui qui sera obtenu si l’aliment est préparé selon les instructions fournies dans ou sur l’emballage, ce renseignement doit être déclaré sur le fondement de la portion indiquée figurant dans le tableau de la valeur nutritive du produit.
+> DORS/2016-305, art. 15; DORS/2018-108, art. 394.
 
 
 
@@ -2935,7 +2931,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(7)** Le tableau de la valeur nutritive de tout produit préemballé dont un ingrédient, autre que de la farine, contient une vitamine ou un minéral nutritif déclaré comme constituant de cet ingrédient en indique la teneur.
 
-- **(8)** Malgré le paragraphe (1) et l’article 1 du tableau du présent article, le tableau de la valeur nutritive ne peut contenir de renseignements concernant le nombre de portions par emballage si la portion indiquée est exprimée en tasses ou en cuillères à soupe.
+- **(8)** [Abrogé, DORS/2018-108, art. 395]
 
 - **(9)** Si les renseignements visés à la colonne 1 du tableau du présent article paraissent dans le tableau de la valeur nutritive, ils figurent :
 	- **a)** soit en français et en anglais;
@@ -4226,7 +4222,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 </table>
 
-> DORS/2003-11, art. 20; err., Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 2(F); DORS/2016-305, art. 19 et 75(F).
+> DORS/2003-11, art. 20; err., Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 2(F); DORS/2016-305, art. 19 et 75(F); DORS/2018-108, art. 395.
 
 
 
@@ -6182,7 +6178,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 	- **c)** s’agissant des produits visés au sous-alinéa B.01.401(3)e)(ii), toute mention ou allégation figurant à la colonne 4 de l’article 37 du tableau suivant l’article B.01.513 en regard du sujet « sans sucre » visé à la colonne 1 qui figure sur leur étiquette, à la fois :
 		- **(i)** est lisible sur l’espace principal,
 		- **(ii)** est en minuscules, à l’exception de la première lettre de chaque mot de la mention ou de l’allégation qui peut être majuscule,
-		- **(iii)** est en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md),
+		- **(iii)** est en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exigent l’alinéa 229(1)a) et les paragraphes 229(2) et (3) du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md),
 		- **(iv)** est d’une couleur faisant contraste avec le fond de l’étiquette.
 
 - **(3)** Les indications visées au paragraphe (1) répondent aux critères suivants :
@@ -6202,7 +6198,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 		- **(ii)** selon l’une des versions de ce modèle figurant à la colonne 1 de l’article 1 de toute partie du tableau de l’article applicable visé au sous-alinéa (i).
 
 - **(5)** Dans le présent article, ***langues officielles*** s’entend du français et de l’anglais.
-> DORS/2003-11, art. 20; DORS/2016-305, art. 44.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 44; DORS/2018-108, art. 400.
 
 
 
@@ -6291,8 +6287,8 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** aux déclarations prévues par le présent règlement;
-	- **b)** aux déclarations prévues à l’article 35 du [Règlement sur les produits transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20291.md);
-	- **c)** aux déclarations prévues au paragraphe 94(4) du [Règlement de 1990 sur l’inspection des viandes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/288.md);
+	- **b)** à la déclaration prévue à l’alinéa 272(1)f) ou à l’article 273 du [Règlement sur la salubrité des aliments au Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2018/108.md);
+	- **c)** aux déclarations prévues à la colonne 1 du tableau 2 du volume 7 du document intitulé Normes d’identité canadiennes, préparé par l’Agence canadienne d’inspection des aliments et publié sur son site Web, avec ses modifications successives;
 	- **d)** aux déclarations caractérisant la teneur en lactose d’un aliment;
 	- **e)** aux déclarations caractérisant l’adjonction de sel dans un aliment, autres que les mentions ou les allégations figurant à la colonne 4 du tableau suivant l’article B.01.513;
 	- **f)** aux déclarations caractérisant l’adjonction de sucres dans un aliment, autres que les mentions ou les allégations figurant à la colonne 4 du tableau suivant l’article B.01.513;
@@ -6302,7 +6298,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 	- **j)** aux déclarations caractérisant la teneur en alcool des boissons contenant plus de 0,5 % d’alcool;
 	- **k)** à la déclaration « légèrement salé » faite à l’égard du poisson;
 	- **l)** à la déclaration anglaise « *lean* » faite à l’égard d’un repas préemballé présenté comme étant conçu pour un régime amaigrissant ou un régime de maintien du poids.
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2018-108, art. 396.
 
 
 
@@ -6462,9 +6458,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 		- **(ii)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence,
 		- **(iii)** figure en caractères d’une taille au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence.
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** à la mention ou à l’allégation anglaise « *light* » faite conformément au paragraphe 12(1) du [Règlement sur les produits de l’érable](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20289.md);
-	- **b)** à la mention ou à l’allégation « léger » ou « *light* » faite à l’égard du rhum.
+- **(2)** Le paragraphe (1) ne s’applique pas à la mention ou à l’allégation « léger » ou « *light* » faite à l’égard du rhum.
 #### TABLEAU
 <table>
 <tr>
@@ -7567,7 +7561,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 </table>
 
-> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup> 5; DORS/2007-176, art. 6; DORS/2016-305, art. 75(F).
+> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup> 5; DORS/2007-176, art. 6; DORS/2016-305, art. 75(F); DORS/2018-108, art. 397.
 
 
 
@@ -13169,13 +13163,13 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 **B.14.018** 
 
 - **(1)** Sous réserve du paragraphe (2), l’annonce pour la vente d’une carcasse de boeuf ou de veau ou d’une partie de celle-ci pesant au moins 7 kg doit indiquer :
-	- **a)** s’il s’agit d’une carcasse autre qu’une carcasse importée, la catégorie qui a été attribuée à la carcasse par l’autorité responsable constituée en vertu de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou d’une loi provinciale;
-	- **b)** s’il s’agit d’une carcasse de boeuf importée, la catégorie qui a été attribuée à la carcasse par l’autorité responsable constituée en vertu de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou d’une loi provinciale ou la catégorie qui a été attribuée à la carcasse par l’autorité responsable constituée en vertu des lois du pays d’origine;
+	- **a)** s’il s’agit d’une carcasse autre qu’une carcasse importée, la catégorie qui a été attribuée à la carcasse en application de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) ou d’une loi provinciale;
+	- **b)** s’il s’agit d’une carcasse de boeuf importée, la catégorie qui a été attribuée à la carcasse en application de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) ou d’une loi provinciale ou la catégorie qui a été attribuée à la carcasse par l’autorité responsable constituée en vertu des lois du pays d’origine;
 	- **c)** s’il s’agit d’une carcasse de veau importée, la catégorie qui a été attribuée à la carcasse par l’autorité responsable constituée en vertu des lois du pays d’origine;
-	- **d)** s’il s’agit d’une carcasse de boeuf, la catégorie de rendement qui a été attribuée à la carcasse, le cas échéant, par l’autorité responsable constituée en vertu de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+	- **d)** s’il s’agit d’une carcasse de boeuf, la catégorie de rendement qui a été attribuée à la carcasse, le cas échéant, en application de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md).
 
 - **(2)** Si la carcasse visée au paragraphe (1) n’a fait l’objet d’aucune classification et que toute la carcasse ou partie de celle-ci pesant au moins 7 kilogrammes est annoncée pour la vente, l’annonce doit indiquer clairement que la carcasse n’a pas été classée.
-> DORS/92-626, art. 15; DORS/2003-6, art. 79.
+> DORS/92-626, art. 15; DORS/2003-6, art. 79; DORS/2018-108, art. 398.
 
 
 
@@ -24936,11 +24930,11 @@ si seulement des acides aminés de forme L ont été ajoutés.
 - **(1)** Il est interdit de vendre un aliment peu acide emballé dans un récipient hermétiquement fermé à moins que cet aliment ne soit dans un état de stérilité commerciale.
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux aliments peu acides emballés dans des récipients hermétiquement fermés lorsque, selon le cas :
-	- **a)** ces aliments sont gardés réfrigérés et l’espace principal de l’étiquette du récipient et l’étiquette du contenant d’expédition portent la mention « Garder au froid » et « *Keep Refrigerated* »;
+	- **a)** ces aliments sont gardés réfrigérés et l’espace principal de l’étiquette du récipient et l’étiquette du contenant d’expédition portent la mention « Garder réfrigéré » et « *Keep Refrigerated* »;
 	- **b)** ces aliments sont gardés congelés et l’espace principal de l’étiquette du récipient et l’étiquette du contenant d’expédition portent la mention « Garder congelé » et « *Keep Frozen* ».
 
 - **(3)** Le paragraphe (1) ne s’applique pas aux tomates et aux produits de tomates dont le pH est égal ou inférieur à 4,7 après le traitement thermique, qui sont emballés dans des récipients hermétiquement fermés.
-> DORS/89-309, art. 1; DORS/91-149, art. 7.
+> DORS/89-309, art. 1; DORS/91-149, art. 7; DORS/2018-108, art. 399.
 
 
 
