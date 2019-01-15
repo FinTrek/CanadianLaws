@@ -52,7 +52,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***choses*** Y sont assimilés les végétaux et les parasites. (*thing*)
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
+***Commission*** La Commission de révision prorogée par le paragraphe 27(1) de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*Tribunal*)
 
 ***document*** Tout support sur lequel sont enregistrés ou inscrits des éléments d’information pouvant être compris par une personne ou lus par un ordinateur ou tout autre dispositif. (*document*)
 
@@ -75,7 +75,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***véhicule*** Tout moyen de transport — notamment les aéronefs, voitures, véhicules à moteur, remorques, wagons et navires — , y compris les conteneurs. (*conveyance*)
 
 ***violation*** Toute contravention à la présente loi, à ses règlements ou à un arrêté ministériel, ou tout refus ou omission d’accomplir une obligation imposée sous le régime de la présente loi, punissables sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*violation*)
-> 1990, ch. 22, art. 3; 1994, ch. 38, art. 25; 1995, ch. 40, art. 75; 1997, ch. 6, art. 81; 2001, ch. 4, art. 173(F); 2015, ch. 2, art. 99.
+> 1990, ch. 22, art. 3; 1994, ch. 38, art. 25; 1995, ch. 40, art. 75; 1997, ch. 6, art. 81; 2001, ch. 4, art. 173(F); 2012, ch. 24, art. 95; 2015, ch. 2, art. 99.
 
 
 
