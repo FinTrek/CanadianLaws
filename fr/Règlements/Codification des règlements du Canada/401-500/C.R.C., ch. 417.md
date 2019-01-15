@@ -43,9 +43,9 @@ Autorités habilitantes :
 
 ***unité canadienne*** désigne une unité de mesure indiquée à l’annexe II de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*Canadian unit*)
 
-***unité métrique*** désigne une unité de mesure indiquée à l’annexe I de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*metric unit*)
+***unité métrique*** désigne une unité de mesure indiquée à l’annexe I de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md). (*metric unit*)
 
-***vin*** Boisson alcoolique conforme à la norme du vin prescrite à l’article B.02.100 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
+***vin***[Abrogée, DORS/2018-108, art. 379]
 
 ***volume nominal***[Abrogée, DORS/96-278, art. 1]
 
@@ -55,7 +55,7 @@ Autorités habilitantes :
 - **a)** dans le cas d’un emballage qui comprend une carte réclame, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée de l’emballage ou entièrement ou en partie sur le côté de la carte réclame qui est exposé ou visible dans les conditions normales ou habituelles de vente ou d’utilisation ou sur ces deux parties de l’emballage et de la carte réclame,
 - **b)** dans le cas d’un emballage décoratif, la partie de l’étiquette apposée, entièrement ou en partie sur le dessous de l’emballage, sur la principale surface exposée, ou sur une étiquette mobile fixée à l’emballage, et
 - **c)** dans le cas de tous les autres emballages, la partie de l’étiquette apposée entièrement ou en partie sur la principale surface exposée. (*principal display panel*)
-> DORS/96-278, art. 1; DORS/2014-8, art. 1.
+> DORS/96-278, art. 1; DORS/2014-8, art. 1; DORS/2018-108, art. 379.
 
 
 
@@ -83,24 +83,12 @@ sont exemptés de toutes les dispositions de la Loi.
 
 
 
-## Exemption de l’application des articles 4, 5, 6, 8 et 10 de la loi
+## Exemption de l’application des articles 4, 5, 6 et 10 de la Loi
 
 
-**4** 
+**4** Les produits préemballés qui sont visés par des règlements concernant l’emballage, l’étiquetage et le marquage et établis en vertu de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), de la Loi sur les engrais chimiques, de la Loi relative aux semences ou de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) sont exemptés de l’application des articles 4, 5, 6 et 10 de la Loi.
+> DORS/2018-108, art. 380.
 
-- **(1)** Les produits préemballés qui sont visés par des règlements concernant l’emballage, l’étiquetage et le marquage et établis en vertu de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), de la Loi sur les engrais chimiques, de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de la Loi relative aux semences sont exemptés de l’application des articles 4, 5, 6, 8 et 10 de la Loi.
-
-- **(2)** Un produit préemballé qui est une boisson gazeuse et dont l’emballage est
-	- **a)** réutilisé par un fournisseur comme emballage d’une boisson gazeuse,
-	- **b)** étiqueté d’une manière permanente avec tous les renseignements qui doivent y être indiqués aux termes de la Loi des aliments et drogues, et
-	- **c)** fabriqué avant le 1<sup>er</sup> mars 1974 ou au cours d’une période de 12 mois après le 1<sup>er</sup> mars 1974,
-est exempté des dispositions des articles 4, 5, 6, 8 et 10 de la Loi.
-
-- **(3)** Les produits préemballés, communément appelés confiseries d’une bouchée, vendues individuellement au consommateur, sont exemptés des dispositions des articles 4, 5, 6, 8 et 10 de la Loi.
-
-- **(4)** Les produits préemballés qui sont des fruits frais ou des légumes frais et qui sont emballés dans une enveloppe ou une bande dont la largeur est de moins de 1/2 pouce sont exemptés des dispositions des articles 4, 5, 6, 8 et 10 de la Loi.
-
-- **(5)** Les produits préemballés composés de framboises ou de fraises emballées sur le champ dans les emballages d’une capacité de 1,14 litre ou moins sont exemptés des articles 4, 5, 6, 8 et 10 de la Loi.
 
 
 
@@ -111,14 +99,14 @@ est exempté des dispositions des articles 4, 5, 6, 8 et 10 de la Loi.
 **5** 
 
 - **(1)** Un produit préemballé qui
-	- **a)** n’est pas de la nourriture,
+	- **a)** [Abrogé, DORS/2018-108, art. 381]
 	- **b)** est normalement vendu à l’unité au consommateur,
 	- **c)** une fois emballé, demeure visible et identifiable, et
 	- **d)** porte, conformément aux articles 7 à 11, une étiquette où figurent, selon les modalités prévues par le présent règlement, les renseignements mentionnés au sous-alinéa 10b)(i) de la Loi,
 est exempté des dispositions du sous-alinéa 10b)(ii) de la Loi.
 
 - **(2)** Un produit préemballé qui
-	- **a)** n’est pas de la nourriture,
+	- **a)** [Abrogé, DORS/2018-108, art. 381]
 	- **b)** est normalement vendu à l’unité au consommateur,
 	- **c)** une fois emballé, demeure visible et identifiable,
 	- **d)** contient moins de 7 ou de 13 articles et leur nombre exact peut être déterminé par un simple examen du produit, sans en ouvrir l’emballage, et
@@ -126,12 +114,14 @@ est exempté des dispositions du sous-alinéa 10b)(ii) de la Loi.
 est exempté des dispositions de l’article 4 de la Loi.
 
 - **(3)** Un produit préemballé qui
-	- **a)** n’est pas de la nourriture,
+	- **a)** [Abrogé, DORS/2018-108, art. 381]
 	- **b)** ne contient qu’un seul article ou contient plus d’un article lorsque les articles sont emballés comme un ensemble,
 	- **c)** est normalement vendu à l’unité au consommateur,
 	- **d)** porte sur l’espace principal une illustration qui indique d’une manière adéquate l’identité et la quantité du produit contenu, et
 	- **e)** porte, conformément aux articles 7 à 11, une étiquette où figurent, selon les modalités prévues par le présent règlement, les renseignements mentionnés au sous-alinéa 10b)(i) de la Loi,
 est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
+> DORS/2018-108, art. 381.
+
 
 
 
@@ -160,11 +150,9 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 - **b)** dans une ou plusieurs collectivités locales situées dans le voisinage immédiat de la collectivité où il est fabriqué, transformé, produit ou emballé, ou
 - **c)** dans la collectivité locale où il est fabriqué, transformé, produit ou emballé et dans une ou plusieurs collectivités locales situées dans le voisinage immédiat de cette collectivité; (*local product*)
 
-***produit spécial*** désigne un produit préemballé qui est
-- **a)** un aliment ou une boisson ayant un caractère religieux particulier et utilisé pour les cérémonies religieuses, ou
-- **b)** un produit importé
-	- **(i)** dont l’usage n’est pas largement répandu chez la population du Canada général, et
-	- **(ii)** dont il n’existe aucun succédané facilement accessible, qui soit fabriqué, transformé, produit ou emballé au Canada qui soit généralement reconnu comme un succédané valable. (*specialty product*)
+***produit spécial*** Produit préemballé qui est un produit importé :
+- **a)** d’une part, dont l’usage n’est pas largement répandu dans l’ensemble de la population au Canada;
+- **b)** d’autre part, pour lequel il n’existe aucun succédané facilement accessible qui est fabriqué, transformé, produit ou emballé au Canada et qui est généralement reconnu comme un succédané valable. (*specialty product*)
 
 - **(2)** Tous les renseignements devant figurer sur l’étiquette d’un produit préemballé aux termes de la Loi et du présent règlement doivent être indiqués dans les deux langues officielles, à l’exception du nom et du principal établissement de la personne par ou pour qui le produit préemballé a été fabriqué, transformé, produit ou emballé pour la revente, qui peuvent être indiqués dans l’une ou l’autre des langues officielles.
 
@@ -187,6 +175,8 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 	- **b)** livres;
 	- **c)** jouets parlants;
 	- **d)** jeux dont l’élément essentiel de fonctionnement est l’usage d’une langue.
+> DORS/2018-108, art. 382.
+
 
 
 
@@ -252,8 +242,8 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 
 - **(4)** Tous les renseignements que porte la déclaration de quantité nette, sauf ceux dont il est question au paragraphe (2), doivent être indiqués en caractères d’au moins 1/16 de pouce (1,6 millimètre) de hauteur.
 
-- **(5)** Malgré les paragraphes (2) à (4), la déclaration de la quantité nette, sur l’étiquette d’un contenant de 750 millilitres qui mesure au plus 360 millimètres de hauteur et dans lequel un vin est exposé pour vente au consommateur, peut être indiquée en caractères d’au moins 3,3 millimètres de hauteur.
-> DORS/2014-8, art. 2.
+- **(5)** [Abrogé, DORS/2018-108, art. 383]
+> DORS/2014-8, art. 2; DORS/2018-108, art. 383.
 
 
 
@@ -274,22 +264,7 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 
 
 
-
-## Exemption de la déclaration de quantité nette
-
-
-**18** 
-
-- **(1)** Aux fins du présent article et de l’article 27.1, ***produits à poids variable*** désigne une catégorie de produits alimentaires qui ne peuvent, à cause de leur nature, être répartis en une quantité fixée d’avance et qui sont, en conséquence, normalement vendus en emballages à quantité variable.
-
-- **(2)** Sous réserve du paragraphe (3), les genres de transactions suivants sont exemptés de l’application de l’article 4 de la Loi :
-	- **a)** ventes au moyen de distributeurs automatiques ou de cantines mobiles de portions individuelles d’aliments préemballées qui sont préparées par un traiteur;
-	- **b)** ventes à un détaillant par un fabricant, un conditionneur ou un producteur de produits à poids variable;
-	- **c)** ventes de portions individuelles d’aliments préemballées qui sont servies avec des repas ou casse-croûte par un restaurant ou autre établissement commercial.
-
-- **(3)** Un produit préemballé visé au paragraphe (2) doit porter une étiquette conformément aux articles 7 à 11 et l’étiquette doit indiquer les renseignements visés aux alinéas 10b)(i) et (ii) de la Loi sous la forme et de la manière prescrites par le présent règlement.
-> DORS/82-411, art. 1.
-
+**18** [Abrogé, DORS/2018-108, art. 384]
 
 
 
@@ -303,16 +278,16 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 
 ***couvre-plancher*** a le même sens qu’à l’article 342 du [Règlement sur les poids et mesures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1601-1700/C.R.C.,%20ch.%201605.md); (*floor covering*)
 
-***marchandise mesurée individuellement*** a le même sens qu’à l’article 45 du [Règlement sur les poids et mesures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1601-1700/C.R.C.,%20ch.%201605.md); (*individually measured commodity*)
+***marchandise mesurée individuellement***[Abrogée, DORS/2018-108, art. 385]
 
 ***région*** a le même sens qu’au paragraphe 337(1) du [Règlement sur les poids et mesures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1601-1700/C.R.C.,%20ch.%201605.md). (*area*)
 
-- **(2)** Sous réserve du paragraphe (3), tout produit préemballé, sauf le papier peint et les couvre-planchers, qui est emballé à partir de produits en vrac chez un détaillant, est exempté de l’application des alinéas 4(1)b) et 8b) de la Loi et de l’article 14 du présent règlement, si la quantité nette qu’il contient est clairement indiquée dans l’espace principal de l’étiquette en unités de mesure canadiennes.
+- **(2)** Tout produit préemballé, sauf le papier peint et les couvre-planchers, qui est emballé à partir de produits en vrac chez un détaillant est exempté de l’application de l’alinéa 4(1)b) de la Loi et de l’article 14 du présent règlement si la quantité nette qu’il contient est clairement indiquée dans l’espace principal de l’étiquette en unités de mesure canadiennes.
 
-- **(3)** Dans chaque région énumérée à la colonne I du tableau de l’article 341 du [Règlement sur les poids et mesures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1601-1700/C.R.C.,%20ch.%201605.md), avant la date prévue à la colonne III de ce tableau, tout aliment préemballé qui est une marchandise mesurée individuellement est exempté de l’application des alinéas 4(1)b) et 8b) de la Loi et de l’article 14 du présent règlement, si la quantité nette qu’il contient est clairement indiquée dans l’espace principal de l’étiquette en unités de mesure canadiennes.
+- **(3)** [Abrogé, DORS/2018-108, art. 385]
 
-- **(4)** Dans chaque région énumérée à la colonne I du tableau de l’article 341 du [Règlement sur les poids et mesures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1601-1700/C.R.C.,%20ch.%201605.md), à la date prévue à la colonne III de ce tableau ou après cette date, tout aliment préemballé qui est une marchandise mesurée individuellement est exempté de l’application de l’article 14 du présent règlement.
-> DORS/78-789, art. 1; DORS/80-840, art. 1; DORS/82-411, art. 2.
+- **(4)** [Abrogé, DORS/2018-108, art. 385]
+> DORS/78-789, art. 1; DORS/80-840, art. 1; DORS/82-411, art. 2; DORS/2018-108, art. 385.
 
 
 
@@ -334,310 +309,8 @@ est exempté de l’article 4 et du sous-alinéa 10b)(ii) de la Loi.
 
 
 
-**22** 
-
-- **(1)** La déclaration de quantité nette d’un produit préemballé mentionné dans le tableau du présent paragraphe doit indiquer la quantité nette du produit en poids.
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Produit</th>
-</tr>
-<tr>
-<td>1</td>
-<td>produits emballés pour distribution en aérosol</td>
-</tr>
-<tr>
-<td>2</td>
-<td>miel</td>
-</tr>
-<tr>
-<td>3</td>
-<td>beurre d’arachide</td>
-</tr>
-<tr>
-<td>4</td>
-<td>[Abrogé, DORS/78-789, art. 3]</td>
-</tr>
-<tr>
-<td>5</td>
-<td>beurre d’érable</td>
-</tr>
-<tr>
-<td>6</td>
-<td>[Abrogé, DORS/78-171, art. 2]</td>
-</tr>
-<tr>
-<td>7</td>
-<td>mélasse de cuisine</td>
-</tr>
-<tr>
-<td>8</td>
-<td>mélasse de table</td>
-</tr>
-<tr>
-<td>9</td>
-<td>mélasse de fantaisie</td>
-</tr>
-<tr>
-<td>10</td>
-<td>[Abrogé, DORS/81-580, art. 1]</td>
-</tr>
-<tr>
-<td>11</td>
-<td>fromage cottage</td>
-</tr>
-<tr>
-<td>12</td>
-<td>yaourt, yogourt</td>
-</tr>
-<tr>
-<td>13</td>
-<td>trempettes</td>
-</tr>
-<tr>
-<td>14</td>
-<td>beurre fouetté</td>
-</tr>
-<tr>
-<td>15</td>
-<td>oeuf entier, jaune ou albumen d’oeuf sous forme liquide ou un mélange de plusieurs de ces produits</td>
-</tr>
-<tr>
-<td>16</td>
-<td>oeuf entier, jaune ou albumen d’oeuf, sous forme d’un liquide congelé, ou un mélange de plusieurs de ces produits.</td>
-</tr>
-</table>
-
-
-- **(2)** La déclaration de quantité d’un produit préemballé mentionné dans le tableau du présent paragraphe doit indiquer la quantité nette du produit en termes du poids du contenu comestible de l’emballage, à l’exclusion du liquide ou de la gelée.
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Produit</th>
-</tr>
-<tr>
-<td>1</td>
-<td>mollusques en conserve</td>
-</tr>
-<tr>
-<td>2</td>
-<td>crustacés en conserve</td>
-</tr>
-<tr>
-<td>3</td>
-<td>viandes marinées ou saumurées</td>
-</tr>
-<tr>
-<td>4</td>
-<td>poisson congelé en gelée</td>
-</tr>
-</table>
-
-
-- **(3)** La déclaration de quantité nette d’un produit préemballé mentionné dans le tableau du présent paragraphe doit indiquer la quantité nette du produit en mesure de volume.
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Produit</th>
-</tr>
-<tr>
-<td>1</td>
-<td>fruits en conserve</td>
-</tr>
-<tr>
-<td>2</td>
-<td>légumes en conserve</td>
-</tr>
-<tr>
-<td>3</td>
-<td>cornichons</td>
-</tr>
-<tr>
-<td>4</td>
-<td>relish</td>
-</tr>
-<tr>
-<td>5</td>
-<td>olives</td>
-</tr>
-<tr>
-<td>6</td>
-<td>champignons à la crème</td>
-</tr>
-<tr>
-<td>7</td>
-<td>champignons marinés</td>
-</tr>
-<tr>
-<td>8</td>
-<td>cerises au marasquin</td>
-</tr>
-<tr>
-<td>9</td>
-<td>cerises à la crème de menthe</td>
-</tr>
-<tr>
-<td>10</td>
-<td>cerises à cocktails</td>
-</tr>
-<tr>
-<td>11</td>
-<td>fèves au lard, haricots au lard</td>
-</tr>
-<tr>
-<td>12</td>
-<td>aliments pour bébés</td>
-</tr>
-<tr>
-<td>13</td>
-<td>aliments pour enfants</td>
-</tr>
-<tr>
-<td>14</td>
-<td>spaghetti à la sauce tomate</td>
-</tr>
-<tr>
-<td>15</td>
-<td>crème glacée et produits qui contiennent de la crème glacée</td>
-</tr>
-<tr>
-<td>16</td>
-<td>lait glacé et produits qui contiennent du lait glacé</td>
-</tr>
-<tr>
-<td>17</td>
-<td>sorbet et produits qui contiennent du sorbet</td>
-</tr>
-<tr>
-<td>18</td>
-<td>garniture de tarte aux fruits</td>
-</tr>
-<tr>
-<td>19</td>
-<td>fruits de garniture</td>
-</tr>
-<tr>
-<td>20</td>
-<td>pâte de tomate</td>
-</tr>
-<tr>
-<td>21</td>
-<td>purée de tomate</td>
-</tr>
-<tr>
-<td>22</td>
-<td>soupe</td>
-</tr>
-<tr>
-<td>23</td>
-<td>soupe condensée</td>
-</tr>
-<tr>
-<td>24</td>
-<td>confiture et confiture avec pectine</td>
-</tr>
-<tr>
-<td>25</td>
-<td>gelée et gelée avec pectine</td>
-</tr>
-<tr>
-<td>26</td>
-<td>marmelade et marmelade avec pectine</td>
-</tr>
-<tr>
-<td>27</td>
-<td>conserves de fruits</td>
-</tr>
-<tr>
-<td>28</td>
-<td>aliments liquides congelés, sauf les produits décrits à l’article 16 du tableau du paragraphe 22(1)</td>
-</tr>
-<tr>
-<td>29</td>
-<td>catsup aux tomates</td>
-</tr>
-<tr>
-<td>30</td>
-<td>sauce chili aux tomates</td>
-</tr>
-<tr>
-<td>31</td>
-<td>sauce tomate</td>
-</tr>
-<tr>
-<td>32</td>
-<td>pulpe de tomate</td>
-</tr>
-<tr>
-<td>33</td>
-<td>jus de tomate, concentré</td>
-</tr>
-<tr>
-<td>34</td>
-<td>canneberges, sauce de canneberges</td>
-</tr>
-<tr>
-<td>35</td>
-<td>mincemeat</td>
-</tr>
-<tr>
-<td>36</td>
-<td>gâteau à la crème glacée</td>
-</tr>
-<tr>
-<td>37</td>
-<td>crème sûre</td>
-</tr>
-<tr>
-<td>38</td>
-<td>tartinades aux fruits</td>
-</tr>
-<tr>
-<td>39</td>
-<td>produits laitiers concentrés en conserve</td>
-</tr>
-<tr>
-<td>40</td>
-<td>sirop d’érable</td>
-</tr>
-</table>
-
-
-- **(4)** La déclaration de quantité nette d’un produit préemballé mentionné dans le tableau du présent paragraphe doit indiquer la quantité nette du produit en nombre.
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Produit</th>
-</tr>
-<tr>
-<td>1</td>
-<td>maïs en épi, en conserve ou congelé</td>
-</tr>
-</table>
-
-
-- **(5)** La déclaration de quantité nette d’un produit préemballé mentionné dans le tableau du présent paragraphe doit indiquer la quantité nette du produit en poids, en volume ou en nombre.
-#### TABLEAU
-<table>
-<tr>
-<th>Article</th>
-<th>Produit</th>
-</tr>
-<tr>
-<td>1</td>
-<td>fruits frais</td>
-</tr>
-<tr>
-<td>2</td>
-<td>légumes frais</td>
-</tr>
-</table>
-
-> DORS/78-171, art. 2 et 3; DORS/78-789, art. 3 et 4; DORS/81-580, art. 1.
+**22** La déclaration de quantité nette des produits préemballés pour la distribution sous forme d’aérosol doit indiquer la quantité nette du produit en poids.
+> DORS/78-171, art. 2 et 3; DORS/78-789, art. 3 et 4; DORS/81-580, art. 1; DORS/2018-108, art. 386.
 
 
 
@@ -715,7 +388,9 @@ est inférieur à 1 000 grammes et la déclaration de quantité nette est faite
 	- **b)** la quantité nette totale des produits dans chaque catégorie d’une même unité ou la quantité individuelle nette de chaque produit identique d’une même catégorie de l’unité; et
 	- **c)** si une catégorie de produits dans l’unité ne contient qu’un produit, la quantité nette de ce produit.
 
-- **(2)** Nonobstant le paragraphe (1), lorsqu’un produit préemballé visé par ledit paragraphe se compose de moins de sept produits identiques emballés séparément et dont l’étiquette porte tous les renseignements requis par la Loi et le présent règlement et que ces renseignements sont clairement visibles au moment de la vente, aucun renseignement n’est requis sur le produit préemballé qui est vendu comme une seule unité et ce produit préemballé est exempté de l’application des articles 4, 8 et 10 de la Loi.
+- **(2)** Malgré le paragraphe (1), lorsqu’un produit préemballé visé par ce paragraphe consiste en moins de sept produits identiques emballés séparément et dont l’étiquette porte tous les renseignements requis par la Loi et le présent règlement et que ces renseignements sont clairement visibles au moment de la vente, aucun renseignement n’est requis sur le produit préemballé qui est vendu comme une seule unité et ce produit préemballé est exempté de l’application des articles 4 et 10 de la Loi.
+> DORS/2018-108, art. 387.
+
 
 
 
@@ -763,53 +438,15 @@ est inférieur à 1 000 grammes et la déclaration de quantité nette est faite
 
 
 
-
-## Exemption des sous-alinéas 10b)(i) et (ii) de la loi
-
-
-**32** 
-
-- **(1)** Lorsque des produits préemballés composés de fruits ou légumes frais sont préemballés chez le détaillant de telle manière que les fruits ou légumes sont visibles et identifiables dans l’emballage, ces produits sont exemptés des sous-alinéas 10b) (i) et (ii) de la Loi.
-
-- **(2)** Lorsque des produits préemballés composés de fruits ou de légumes frais sont préemballés ailleurs que chez le détaillant de telle manière que les fruits ou légumes sont visibles et identifiables dans l’emballage, ces produits préemballés sont exemptés du sous-alinéa 10b)(ii) de la Loi.
-
-- **(3)** Sont exemptés de l’alinéa 10b)(ii) de la Loi, les produits préemballés composés de pommes ou de poires fraîches qui sont préemballés à n’importe quel niveau commercial de telle manière que le nom de la variété, comme l’exige le paragraphe 10(3) du [Règlement sur les fruits et les légumes frais](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20285.md), soit indiqué sur toute partie de l’étiquette, à l’exception de cette partie de l’étiquette qui est appliquée, le cas échéant, en dessous du contenant.
-> DORS/78-171, art. 4.
+**32** [Abrogé, DORS/2018-108, art. 388]
 
 
 
-
-
-## Déclaration du nombre de portions
-
-
-**33** 
-
-- **(1)** Lorsque l’étiquette apposée sur un produit préemballé comestible ou potable contient une déclaration relative au nombre de portions du produit, la déclaration de quantité nette de chaque portion doit être indiquée
-	- **a)** selon les prescriptions des articles 17, 21, 24, 25, 26, 27 et 29 concernant la manière de déclarer la quantité nette d’un produit préemballé;
-	- **b)** tout près de la déclaration relative au nombre de portions; et
-	- **c)** en lettres et en chiffres de la même taille que ceux utilisés pour indiquer la déclaration.
-
-- **(2)** Un produit préemballé comestible ou potable qui contient une déclaration relative au nombre de portions du produit, exprimées en tasses ou cuillerées à table, est exempté de l’application de l’article 8 de la Loi si la quantité nette de la portion est indiquée conformément aux alinéas (1)b) et c) et au paragraphe (3).
-
-- **(3)** Lorsqu’une déclaration relative au nombre de portions du produit est formulée en tasses ou en cuillerées à table, une tasse équivaut à huit onces liquides (227,3 millilitres) et une cuillerée à table équivaut à 1/2 once liquide (14,21 millilitres).
+**33** [Abrogé, DORS/2018-108, art. 388]
 
 
 
-
-## Images sur les étiquettes de produits alimentaires
-
-
-**34** 
-
-- **(1)** Lorsqu’un ingrédient aromatisant est ajouté à un produit préemballé qui est un aliment et que cet ingrédient n’est pas tiré de substances naturelles telles que la viande, le poisson, la volaille, les fruits, les légumes, la levure comestible, les fines herbes, les épices, l’écorce, les bourgeons, les racines, les feuilles ou toutes autres matières végétales et que l’étiquette du produit préemballé porte une image qui suggère la saveur alimentaire naturelle simulée par l’ingrédient aromatisant ajouté, l’étiquette doit porter l’indication que l’ingrédient aromatisant est artificiel ou simulé ou est une imitation.
-
-- **(2)** L’indication requise au paragraphe (1) doit être facilement lisible et en lettre ayant au moins la même taille que les tailles prescrites par le paragraphe 14(2).
-
-- **(3)** Lorsqu’une image visée au paragraphe (1) figure
-	- **a)** sur l’espace principal, l’indication mentionnée audit paragraphe doit figurer sur l’image ou tout près d’elle;
-	- **b)** sur une autre partie de l’étiquette que l’espace principal, l’indication doit figurer sur l’espace principal tout près du nom commun du produit préemballé; ou
-	- **c)** sur l’espace principal et sur une autre partie de l’étiquette, l’indication doit figurer sur l’image ou tout près d’elle dans l’espace principal.
+**34** [Abrogé, DORS/2018-108, art. 388]
 
 
 
@@ -825,29 +462,15 @@ est inférieur à 1 000 grammes et la déclaration de quantité nette est faite
 
 **36** 
 
-- **(1)** Sous réserve du paragraphe (3), un produit préemballé qui est :
-	- **a)** du papier mouchoir fabriqué avant le 1<sup>er</sup> janvier 1997 ne peut être vendu que dans un contenant d’un format correspondant à une quantité nette du produit :
-		- **(i)** soit inférieure à 50 unités,
-		- **(ii)** soit de 50, 60, 100, 120, 150 ou 200 unités,
-		- **(iii)** soit supérieure à 200 unités, si la quantité nette du produit est un multiple de 100 unités;
-	- **b)** du beurre de cacahuètes ne peut être vendu que dans un contenant d’un format correspondant à une quantité nette du produit :
-		- **(i)** soit de 250, 375, 500 ou 750 g,
-		- **(ii)** soit de 1, 1,5 ou 2 kg;
-	- **c)** du vin ne peut être vendu que dans un contenant d’un format correspondant à une quantité nette du produit :
-		- **(i)** soit de 50, 100, 200, 250, 375, 500 ou 750 mL,
-		- **(ii)** soit de 1, 1,5, 2, 3 ou 4 L;
-	- **d)** du sirop de glucose ou du sirop de sucre raffiné ne peut être vendu que dans un contenant d’un format correspondant à une quantité nette du produit :
-		- **(i)** soit de 125, 250, 375, 500 ou 750 mL,
-		- **(ii)** soit de 1 ou 1,5 L,
-		- **(iii)** soit de 2 L ou plus, si la quantité nette du produit est un multiple de 1 L.
+- **(1)** Sous réserve du paragraphe (3), un produit préemballé qui est du papier mouchoir fabriqué avant le 1<sup>er</sup> janvier 1997 ne peut être vendu que dans un contenant d’un format correspondant à une quantité nette du produit :
+	- **a)** soit inférieure à 50 unités;
+	- **b)** soit de 50, 60, 100, 120, 150 ou 200 unités;
+	- **c)** soit supérieure à 200 unités, si la quantité nette du produit est un multiple de 100 unités.
 
-- **(2)** Sous réserve du paragraphe (3), la quantité nette d’un produit préemballé visé :
-	- **a)** à l’alinéa (1)a) doit être indiquée en nombre d’unités;
-	- **b)** à l’alinéa (1)b) doit être indiquée en poids, en unités de mesure métriques;
-	- **c)** aux alinéas (1)c) et d) doit être indiquée en volume, en unités de mesure métriques.
+- **(2)** Sous réserve du paragraphe (3), la quantité nette d’un produit préemballé visé au paragraphe (1) doit être indiquée en nombre d’unités.
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas au produit d’essai au sens du paragraphe 6(1), si le fournisseur qui a l’intention de sonder le marché du produit a déposé auprès du ministre, six semaines avant la date du sondage, un avis d’intention en la forme établie par celui-ci.
-> DORS/78-171, art. 5 à 7; DORS/78-789, art. 5; DORS/79-683, art. 1; DORS/81-580, art. 2; DORS/81-621, art. 1; DORS/83-33, art. 1; DORS/84-161, art. 1; DORS/85-441, art. 1; DORS/96-278, art. 5.
+> DORS/78-171, art. 5 à 7; DORS/78-789, art. 5; DORS/79-683, art. 1; DORS/81-580, art. 2; DORS/81-621, art. 1; DORS/83-33, art. 1; DORS/84-161, art. 1; DORS/85-441, art. 1; DORS/96-278, art. 5; DORS/2018-108, art. 389.
 
 
 
@@ -903,9 +526,9 @@ est inférieur à 1 000 grammes et la déclaration de quantité nette est faite
 
 
 
-**40** Lorsque se fait l’inspection d’un produit préemballé
-- **a)** qui est un liquide, pour calculer la quantité nette du produit préemballé, on prend pour hypothèse que le liquide est à une température de 68 °F (20 °C); ou
-- **b)** qui est un produit alimentaire liquide qui se vend et se consomme normalement à l’état congelé, la quantité nette du produit préemballé doit être établie à l’état congelé.
+**40** Lorsque se fait l’inspection d’un produit préemballé qui est un liquide, pour calculer la quantité nette du produit préemballé, on prend pour hypothèse que le liquide est à une température de 20 °C (68 °F).
+> DORS/2018-108, art. 390.
+
 
 
 
