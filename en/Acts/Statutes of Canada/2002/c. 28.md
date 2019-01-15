@@ -1482,12 +1482,12 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **53.2** 
 
-- **(1)** Subject to subsection 55(1), if proceedings are instituted in relation to a pest control product or other thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md) or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
+- **(1)** Subject to subsection 55(1), if proceedings are instituted in relation to a pest control product or other thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the Review Tribunal continued by subsection 27(1) of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
 
 **Order for return**
 
 - **(2)** If the Review Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the pest control product or other thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
-> 2016, c. 9, s. 52.
+> 2016, c. 9, ss. 52, 72.
 
 
 
@@ -1602,14 +1602,14 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Forfeiture by court order**
 
-- **(2)** If the Review Tribunal, continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that the pest control product or other thing that was involved in the violation or offence be forfeited to Her Majesty in right of Canada, regardless of whether the product or thing was seized under this Act or not.
+- **(2)** If the Review Tribunal, continued by subsection 27(1) of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that the pest control product or other thing that was involved in the violation or offence be forfeited to Her Majesty in right of Canada, regardless of whether the product or thing was seized under this Act or not.
 
 **Directions of Minister**
 
 - **(3)** A pest control product or other thing that is forfeited under subsection (2) may be disposed of as the Minister directs, at the expense of,
 	- **(a)** if it was not seized, its owner; or
 	- **(b)** if it was seized, its owner or the person having possession, care or control of it at the time of its seizure.
-> 2002, c. 28, s. 55; 2016, c. 9, s. 52.
+> 2002, c. 28, s. 55; 2012, c. 24, s. 106; 2016, c. 9, ss. 52, 72.
 
 
 
