@@ -1160,7 +1160,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(article 84)**
-**1 à 7.1** [Modifications]
+**1** [Abrogé, 2012, ch. 24, art. 96]
+
+
+**2 à 7.1** [Modifications]
 
 
 **8** [Abrogé, 2000, ch. 32, art. 47]
