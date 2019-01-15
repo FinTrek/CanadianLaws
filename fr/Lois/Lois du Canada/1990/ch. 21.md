@@ -53,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***atelier d’équarrissage*** Lieu où sont transportés soit des sous-produits animaux, soit les animaux infirmes, malades ou morts, non destinés à la consommation humaine. (*animal deadyard*)
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
+***Commission*** La Commission de révision prorogée par le paragraphe 27(1) de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*Tribunal*)
 
 ***contamination*** Contamination proprement dite, ainsi que le fait, pour un animal, d’être malade ou porteur. (***French version only***)
 
@@ -111,7 +111,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incorporation par renvoi**
 
 - **(3)** La désignation des substances toxiques peut se faire en fonction de la quantité ou concentration de certains de leurs composants; en outre, il peut être précisé, dans les règlements ministériels incorporant par renvoi des listes de substances toxiques, qu’elles sont incorporées avec leurs modifications successives.
-> 1990, ch. 21, art. 2; 1994, ch. 38, art. 25; 1995, ch. 40, art. 54; 1997, ch. 6, art. 67; 2001, ch. 4, art. 173(F); 2015, ch. 2, art. 84.
+> 1990, ch. 21, art. 2; 1994, ch. 38, art. 25; 1995, ch. 40, art. 54; 1997, ch. 6, art. 67; 2001, ch. 4, art. 173(F); 2012, ch. 24, art. 93; 2015, ch. 2, art. 84.
 
 
 
