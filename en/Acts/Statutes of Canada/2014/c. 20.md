@@ -1614,7 +1614,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_Ind9D39_hq_14289'>[*]</a></sup>**253** This Division comes into force on the day on which section 103 of the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md) comes into force or, if it is later, on the day on which this Act receives royal assent.
 
-<a name='fn_Ind9D39_hq_14289'><sup>*</sup></a>: [Note: Division 18 not in force.]<br />
+<a name='fn_Ind9D39_hq_14289'><sup>*</sup></a>: [Note: Division 18 in force January 15, 2019, *see* SI/2018-39.]<br />
 
 
 
