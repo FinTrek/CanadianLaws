@@ -175,11 +175,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** L’Agence est chargée d’assurer et de contrôler l’application des lois suivantes : la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des obtentions végétales](/fr/Lois/Lois%20du%20Canada/1990/ch.%2020.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
+- **(1)** L’Agence est chargée d’assurer et de contrôler l’application des lois suivantes : la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur la protection des obtentions végétales](/fr/Lois/Lois%20du%20Canada/1990/ch.%2020.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
-**[Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md)**
-
-- **(2)** L’Agence est chargée de contrôler l’application de la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md) en ce qui a trait aux aliments, au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
+- **(2)** [Abrogé, 2012, ch. 24, art. 103]
 
 **[Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md)**
 
@@ -194,7 +192,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Agence des services frontaliers du Canada**
 
 - **(5)** L’Agence des services frontaliers du Canada est chargée du contrôle d’application de la législation frontalière visée à l’alinéa b) de la définition de ce terme à l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) en ce qui a trait à l’inspection en première ligne des voyageurs et des produits importés dans les aéroports et dans les postes frontaliers canadiens, à l’exclusion des centres de service à l’importation.
-> 1997, ch. 6, art. 11; 2005, ch. 38, art. 53.
+> 1997, ch. 6, art. 11; 2005, ch. 38, art. 53; 2012, ch. 24, art. 103.
 
 
 
@@ -298,6 +296,75 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Règlements**
+
+**19.1** Le gouverneur en conseil peut prendre des règlements concernant le rappel d’un produit régi par une loi ou disposition dont l’Agence est chargée d’assurer ou de contrôler l’application aux termes de l’article 11.
+> 2012, ch. 24, art. 105.
+
+
+
+
+
+## Révision de certaines mesures
+
+
+
+**Réviseurs**
+
+**19.2** Le ministre peut désigner à titre de réviseur tout individu — personnellement ou au titre de son appartenance à une catégorie donnée — compétent pour procéder aux révisions prévues à l’article 19.3.
+> 2012, ch. 24, art. 105.
+
+
+
+
+
+**Demande de révision**
+
+**19.3** 
+
+- **(1)** Sur demande de toute personne visée par règlement relativement à une décision réglementaire prise en vertu d’une loi ou disposition dont l’Agence est chargée d’assurer ou de contrôler l’application aux termes de l’article 11, le réviseur procède à la révision de la décision de la manière réglementaire sous réserve des règlements et des autres dispositions du présent article.
+
+**Contenu de la demande**
+
+- **(2)** La demande est présentée, de la manière réglementaire, dans le délai réglementaire et énonce les renseignements réglementaires.
+
+**Inadmissibilité**
+
+- **(3)** Le réviseur ne peut être la personne qui a pris la décision.
+
+**Limite**
+
+- **(4)** La révision ne porte que sur des questions de fait ou des questions mixtes de droit et de fait.
+
+**Refus**
+
+- **(5)** La révision est refusée si la demande ne satisfait pas au paragraphe (2) ou si elle est frivole, vexatoire ou entachée de mauvaise foi.
+
+**Motifs du refus**
+
+- **(6)** Le refus est communiqué sans délai par écrit au demandeur, motifs à l’appui.
+
+**Absence de suspension**
+
+- **(7)** À moins que le réviseur n’en décide autrement, la révision n’a pas pour effet de suspendre la décision.
+
+**Issue de la révision**
+
+- **(8)** Au terme de la révision, le réviseur confirme, modifie ou annule la décision.
+
+**Avis**
+
+- **(9)** Un avis écrit et motivé de la décision prise au titre du paragraphe (8) est communiqué sans délai au demandeur.
+
+**Règlements**
+
+- **(10)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application du présent article.
+> 2012, ch. 24, art. 105.
+
+
+
+
+
 ## Création de sociétés fédéro-provinciales
 
 
@@ -381,6 +448,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Facturation des produits, droits et avantages**
 
 **25** Le ministre peut, sous réserve des règlements, fixer le prix à payer pour la fourniture de produits ou l’attribution de droits ou d’avantages par l’Agence.
+
+
+
+
+**[Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md)**
+
+**25.1** Les articles 3 à 15 de la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md) ne s’appliquent pas aux prix fixés dans le cadre des articles 24 ou 25 pour la fourniture de services, d’installations ou de produits ou l’attribution de droits ou d’avantages par l’Agence en vertu de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md).
+> 2014, ch. 20, art. 252; 2017, ch. 20, art. 453.
+
 
 
 
