@@ -76,13 +76,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***thing*** includes a plant and a pest; (*choses*)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Commission*)
+***Tribunal*** means the Review Tribunal continued by subsection 27(1) of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md); (*Commission*)
 
 ***violation*** means any of the following that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md):
 - **(a)** any contravention of any provision of this Act or of a regulation made under this Act,
 - **(b)** any contravention of any order made by the Minister under this Act, and
 - **(c)** any refusal or neglect to perform any duty imposed by or under this Act. (*violation*)
-> 1990, c. 22, s. 3; 1994, c. 38, s. 25; 1995, c. 40, s. 75; 1997, c. 6, s. 81; 2001, c. 4, s. 173(F); 2015, c. 2, s. 99.
+> 1990, c. 22, s. 3; 1994, c. 38, s. 25; 1995, c. 40, s. 75; 1997, c. 6, s. 81; 2001, c. 4, s. 173(F); 2012, c. 24, s. 95; 2015, c. 2, s. 99.
 
 
 
