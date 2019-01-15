@@ -1614,7 +1614,7 @@ où :
 
 <sup><a href='#fn_IndE17B_hq_14290'>[*]</a></sup>**253** La présente section entre en vigueur à la date d’entrée en vigueur de l’article 103 de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) ou, si elle est postérieure, à la date de sanction de la présente loi.
 
-<a name='fn_IndE17B_hq_14290'><sup>*</sup></a>: [Note : Section 18 non en vigueur.]<br />
+<a name='fn_IndE17B_hq_14290'><sup>*</sup></a>: [Note : Section 18 en vigueur le 15 janvier 2019, *voir* TR/2018-39.]<br />
 
 
 
