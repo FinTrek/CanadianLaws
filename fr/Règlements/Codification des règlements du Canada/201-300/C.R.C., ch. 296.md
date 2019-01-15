@@ -148,7 +148,7 @@ Autorités habilitantes :
 ***pays d’origine***
 - **a)** Dans le cas d’un animal, le pays d’où il a été importé, s’il y a séjourné pendant au moins 60 jours en contact avec d’autres animaux de sa propre espèce et, dans tous les autres cas, le pays où il est né;
 - **b)** dans le cas d’un embryon animal, d’un produit animal ou d’un sous-produit animal, le pays où il a été tiré de l’animal;
-- **c)** dans le cas d’un produit animal ou d’un sous-produit animal — autre que les ovules non fertilisées, le sperme et la viande au sens du paragraphe 2(1) du [Règlement de 1990 sur l’inspection des viandes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/288.md) —, le pays où il a subi un traitement de nature à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui. (*country of origin*)
+- **c)** dans le cas d’un produit animal ou d’un sous-produit animal — autre que les ovules non fertilisés, le sperme et la viande —, le pays où il a subi un traitement de nature à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui. (*country of origin*)
 
 ***peau ou cuir non tannés*** Couverture extérieure d’un ruminant, d’un ratite, d’un équidé ou d’un porc qui est à l’état brut et qui n’a subi aucun traitement chimique visant à en faire un cuir permanent et durable. (*untanned hide or skin*)
 
@@ -162,7 +162,7 @@ Autorités habilitantes :
 
 ***poste de quarantaine*** désigne un endroit indiqué dans l’annexe I où il existe des installations de mise en quarantaine des animaux. (*quarantine port*)
 
-***poste enregistré d’oeufs transformés*** a le sens que lui donne le [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md). (*registered processed egg station*)
+***poste enregistré d’oeufs transformés***[Abrogée, DORS/2018-108, art. 403]
 
 ***poussin*** S’entend, à l’égard de toute espèce, d’un oiseau âgé d’au plus soixante-douze heures qui n’a été ni nourri ni abreuvé. (*chick*)
 
@@ -230,6 +230,8 @@ Autorités habilitantes :
 
 ***vétérinaire officiel*** Sauf pour l’application de la partie II, vétérinaire qui, dans un pays, est employé par le gouvernement de ce pays. (*official veterinarian*)
 
+***viande*** Partie comestible d’une carcasse, à savoir le muscle lié au squelette, la langue, le diaphragme, le coeur, le gésier ou l’oesophage mammalien, avec ou sans le gras qui les accompagne et qui les recouvre, ainsi que les parties des os, de la peau, des tendons, des nerfs, des vaisseaux sanguins et des autres tissus qui accompagnent normalement le muscle et qui ne sont pas normalement enlevés au cours de l’habillage de la carcasse. Sont exclus de la présente définition les muscles liés aux lèvres, au museau, aux oreilles et à la peau de la tête. (*meat*)
+
 ***volaille*** Tout oiseau en captivité, notamment les oiseaux de basse-cour et les pigeons. (*poultry*)
 
 ***zone accréditée pour la brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la brucellose en vertu du paragraphe 75(1). (*brucellosis-accredited area*)
@@ -243,7 +245,7 @@ Autorités habilitantes :
 ***zone exempte de brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de brucellose en vertu du paragraphe 75(3). (*brucellosis-free area*)
 
 ***zone exempte de tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de tuberculose en vertu du paragraphe 74(5). (*tuberculosis-free area*)
-> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1; DORS/2009-18, art. 3; DORS/2014-23, art. 1.
+> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1; DORS/2009-18, art. 3; DORS/2014-23, art. 1; DORS/2018-108, art. 403.
 
 
 
@@ -303,9 +305,9 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(2)** Toute personne visée par l’ordonnance prévue au paragraphe (1) doit s’y conformer.
 
 - **(3)** Si une ordonnance visée au paragraphe (1) n’est pas exécutée dans le délai y prescrit, un inspecteur-vétérinaire peut faire en sorte que l’animal
-	- **a)** soit transporté à un établissement enregistré aux termes de la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md) et y soit abattu; ou
+	- **a)** soit transporté pour abattage à l’établissement où des animaux pour alimentation humaine sont abattus par le titulaire d’une licence délivrée au titre de l’alinéa 20(1)b) de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) et y être abattu;
 	- **b)** soit abattu au moment et à l’endroit qu’il fixe, et son cadavre détruit comme il en décide.
-> DORS/79-839, art. 4; DORS/81-348, art. 1.
+> DORS/79-839, art. 4; DORS/81-348, art. 1; DORS/2018-108, art. 404.
 
 
 
@@ -644,8 +646,10 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **b)** de produire un certificat d’origine signé par un fonctionnaire du gouvernement du pays d’origine du produit attestant que le pays d’origine ou la partie de ce pays est celui visé à l’alinéa a);
 	- **c)** que les oeufs ne soient emballés dans des contenants propres et exempts de saleté et de résidus d’oeufs.
 
-- **(3)** L’alinéa (2)a) ne s’applique pas à des oeufs importés et transportés, sous le sceau d’un inspecteur, directement du point d’entrée à un poste enregistré de produits d’oeufs approuvé par le ministre.
-> DORS/78-69, art. 21; DORS/92-650, art. 1; DORS/97-85, art. 28.
+- **(3)** L’alinéa (2)a) ne s’applique pas à des oeufs importés et transportés, sous le sceau d’un inspecteur, directement du point d’entrée à un établissement de produits d’oeufs transformés approuvé par le ministre.
+
+- **(4)** Pour l’application du paragraphe (3), ***établissement de produits d’oeufs transformés*** s’entend de l’établissement où des oeufs ou des produits d’oeufs transformés sont transformés, traités ou conservés par le titulaire d’une licence délivrée au titre de l’alinéa 20(1)b) de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md).
+> DORS/78-69, art. 21; DORS/92-650, art. 1; DORS/97-85, art. 28; DORS/2018-108, art. 405.
 
 
 
@@ -3174,7 +3178,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **c)** les motifs du retrait;
 	- **d)** le nom et l’adresse du propriétaire ou de la personne qui a la possession, la garde ou la charge des soins de l’ovin à l’endroit où il est envoyé.
 
-- **(2)** Le paragraphe (1) ne s’applique pas à l’ovin qui est transporté directement pour abattage à un établissement agréé aux termes de la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md) ou d’une loi provinciale régissant l’inspection des carcasses ovines.
+- **(2)** Le paragraphe (1) ne s’applique pas à l’ovin qui est transporté directement pour abattage à l’établissement où des animaux pour alimentation humaine sont abattus par le titulaire d’une licence délivrée au titre de l’alinéa 20(1)b) de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) ou à l’établissement agréé en vertu d’une loi provinciale régissant l’inspection des carcasses d’ovin.
 
 - **(3)** L’exploitant d’une installation qui y reçoit ou y fait livrer un ovin sailli tient un registre contenant les renseignements suivants :
 	- **a)** le numéro d’identification de l’étiquette approuvée apposée sur l’ovin;
@@ -3182,7 +3186,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **c)** le nom et l’adresse du propriétaire ou de la personne qui avait la possession, la garde ou la charge des soins de l’ovin dans l’installation d’où il a été retiré.
 
 - **(4)** Quiconque tient un registre en application du présent article le conserve pour une période d’au moins cinq ans.
-> DORS/2003-409, art. 3; DORS/2005-192, art. 4(A); DORS/2014-23, art. 11.
+> DORS/2003-409, art. 3; DORS/2005-192, art. 4(A); DORS/2014-23, art. 11; DORS/2018-108, art. 406.
 
 
 
