@@ -42,9 +42,7 @@ Enabling authorities:
 
 ***accredited grader*** means a person who is accredited pursuant to section 13.1; (*classificateur agréé*)
 
-***Act*** means
-- **(a)** in Parts I and III, the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md), and
-- **(b)** in Part IV, the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
+***Act*** means the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md); (*Loi*)
 
 ***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
@@ -104,7 +102,7 @@ Enabling authorities:
 
 ***official tag*** means a label that is issued or approved by the Agency in respect of seed having pedigreed status. (*étiquette officielle*)
 
-***officially recognized laboratory*** means a seed testing laboratory that is designated by the Minister as an accredited laboratory under section 14 of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md). (*laboratoire reconnu officiellement*) 
+***officially recognized laboratory*** means a seed testing laboratory that is designated by the Minister as an accredited laboratory under section 2.1 of the Act; (*laboratoire reconnu officiellement*)
 
 ***officially-recognized laboratory*** [Repealed, SOR/2007-223, s. 1]
 
@@ -162,10 +160,10 @@ Enabling authorities:
 
 ***variety name*** includes a word, a number or a letter and number combination used to designate a variety. (*nom de variété*)
 
-- **(3)** Parts I to III are made under the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md).
+- **(3)** [Repealed, SOR/2018-108, s. 401]
 
-- **(4)** Part IV is made under the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
-> SOR/86-850, s. 1; SOR/87-62, s. 1; SOR/91-609, s. 1; SOR/93-162, s. 1; SOR/96-252, s. 2; SOR/97-292, s. 33; SOR/97-534, s. 1; SOR/2000-184, s. 82; SOR/2001-93, s. 1; SOR/2003-6, s. 100; SOR/2007-223, s. 1; SOR/2012-13, s. 1.
+- **(4)** [Repealed, SOR/2018-108, s. 401]
+> SOR/86-850, s. 1; SOR/87-62, s. 1; SOR/91-609, s. 1; SOR/93-162, s. 1; SOR/96-252, s. 2; SOR/97-292, s. 33; SOR/97-534, s. 1; SOR/2000-184, s. 82; SOR/2001-93, s. 1; SOR/2003-6, s. 100; SOR/2007-223, s. 1; SOR/2012-13, s. 1; SOR/2018-108, s. 401.
 
 
 
@@ -507,7 +505,7 @@ Enabling authorities:
 
 - **(1)** Subject to subsections (2) and (4), the Registrar shall suspend the accreditation of a grader or the licence of a sampler if
 	- **(a)** false or misleading information has been submitted in support of the application for the accreditation or licence; or
-	- **(b)** the grader or sampler does not comply with a provision of the Act, the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md) or these Regulations.
+	- **(b)** the grader or sampler does not comply with a provision of the Act or these Regulations.
 
 - **(2)** The Registrar shall not suspend the accreditation of a grader or the licence of a sampler if, before the grader or sampler is heard under paragraph (4)(b), the grader or sampler takes corrective measures and an inspector verifies that those measures have been taken.
 
@@ -538,7 +536,7 @@ Enabling authorities:
 - **(8)** [Repealed, SOR/2007-223, s. 10]
 
 - **(9)** If an individual’s accreditation as a grader or licence as a sampler has been cancelled for a reason set out in any of paragraphs (3)(b) to (e), the Registrar shall not accept an application from the individual to be accredited or licensed again unless 24 months have gone by since the cancellation and the individual satisfies the conditions set out in subsections 13.1(1) to (2.1).
-> SOR/96-252, s. 2; SOR/2001-93, s. 3; SOR/2003-6, s. 108; SOR/2007-223, s. 10.
+> SOR/96-252, s. 2; SOR/2001-93, s. 3; SOR/2003-6, s. 108; SOR/2007-223, s. 10; SOR/2018-108, s. 402.
 
 
 
