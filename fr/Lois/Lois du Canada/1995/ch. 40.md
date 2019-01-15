@@ -37,9 +37,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
+***Commission*** La Commission de révision prorogée par le paragraphe 27(1). (*Tribunal*)
 
-***loi agroalimentaire*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md). (*agri-food Act*)
+***loi agroalimentaire*** La [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) ou la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md). (*agri-food Act*)
 
 ***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire ou :
 - **a)** le ministre de la Santé, pour toute violation relative à une contravention :
@@ -48,7 +48,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** le ministre de la Sécurité publique et de la Protection civile, pour toute question relative aux procès-verbaux relatifs aux contraventions à la législation frontalière visée au paragraphe 11(5) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Minister*)
 
 ***sanction*** Sanction administrative pécuniaire infligée pour une violation. (*penalty*)
-> 1995, ch. 40, art. 2; 1997, ch. 21, art. 30; 2002, ch. 28, art. 82; 2005, ch. 38, art. 30 et 145; 2015, ch. 2, art. 113.
+> 1995, ch. 40, art. 2; 1997, ch. 21, art. 30; 2002, ch. 28, art. 82; 2005, ch. 38, art. 30 et 145; 2012, ch. 24, art. 98; 2015, ch. 2, art. 113.
 
 
 
@@ -77,7 +77,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** désigner comme violation punissable au titre de la présente loi la contravention — si elle constitue une infraction à une loi agroalimentaire :
 		- **(i)** aux dispositions spécifiées d’une loi agroalimentaire ou de ses règlements,
 		- **(ii)** à tout arrêté spécifié pris par le ministre au titre de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), ou à toute catégorie de ces arrêtés,
-		- **(iii)** à toute obligation ou catégorie d’obligations spécifiée — par refus ou omission de l’accomplir — découlant de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md);
+		- **(iii)** à toute obligation ou catégorie d’obligations spécifiée — par refus ou omission de l’accomplir — découlant de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md);
 	- **b)** qualifier les violations, selon le cas, de mineures, de graves ou de très graves;
 	- **b.1)** établir le sommaire caractérisant la violation dans les procès-verbaux;
 	- **c)** fixer le montant — notamment par barème — de la sanction applicable à chaque violation;
@@ -98,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la nature de l’intention ou de la négligence du contrevenant;
 	- **b)** la gravité du tort causé par la violation;
 	- **c)** les antécédents du contrevenant relatifs aux violations d’une loi agroalimentaire ou aux condamnations pour infraction à une telle loi dans les cinq ans précédant la violation.
-> 1995, ch. 40, art. 4; 2015, ch. 2, art. 114; 2016, ch. 9, art. 70.
+> 1995, ch. 40, art. 4; 2012, ch. 24, art. 99; 2015, ch. 2, art. 114; 2016, ch. 9, art. 70 et 72.
 
 
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sommaire des droits**
 
 - **(3)** Figurent aussi au procès-verbal en langage clair un sommaire des droits et obligations du contrevenant prévus par la présente loi, notamment le droit de contester les faits reprochés auprès du ministre ou de la Commission et la procédure pour le faire.
-> 1995, ch. 40, art. 7; 2015, ch. 2, art. 116(A); 2016, ch. 9, art. 71(A).
+> 1995, ch. 40, art. 7; 2012, ch. 24, art. 100(A); 2015, ch. 2, art. 116(A); 2016, ch. 9, art. 71(A) et 72(A).
 
 
 
@@ -305,8 +305,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions de révision**
 
-- **(3)** La créance est définitive et n’est susceptible de contestation ou de révision que dans la mesure et selon les modalités prévues aux articles 9 à 14 de la présente loi et au paragraphe 12(2) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
-> 1995, ch. 40, art. 15; 2015, ch. 2, art. 118(F).
+- **(3)** La créance est définitive et n’est susceptible de contestation ou de révision que dans la mesure et selon les modalités prévues aux articles 9 à 14.
+> 1995, ch. 40, art. 15; 2012, ch. 24, art. 101; 2015, ch. 2, art. 118(F).
 
 
 
@@ -423,22 +423,262 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Modifications connexes
-
-
-**27 à 89** [Modifications]
+## Commission de révision
 
 
 
-
-## Entrée en vigueur
-
+### Composition
 
 
-**Entrée en vigueur**
 
-<sup><a href='#A-8.8_fr_1'>[*]</a></sup>**90** La présente loi ou telle de ses dispositions, ou telle des dispositions édictées par la présente loi, entre en vigueur à la date ou aux dates fixées par décret.
+**Prorogation de la Commission**
 
-<a name='A-8.8_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 30 juillet 1997, *voir* TR/97-89.]<br />
+**27** 
+
+- **(1)** Est prorogée la Commission de révision prorogée par le paragraphe 4.1(1) la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), chapitre 20 du 4<sup>e</sup> supplément des Lois révisées du Canada (1985).
+
+**Composition**
+
+- **(2)** La Commission est composée des membres, dont le président, nommés par le gouverneur en conseil.
+> 1995, ch. 40, art. 27; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Compétences**
+
+**28** Les membres sont nommés en raison de leurs connaissances ou de leur expérience dans le domaine de l’agriculture ou de l’agroalimentaire et le président et au moins un autre membre sont obligatoirement choisis parmi les avocats ou notaires inscrits respectivement, depuis au moins dix ans, au barreau d’une province ou à la Chambre des notaires du Québec.
+> 1995, ch. 40, art. 28; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Exercice des fonctions**
+
+**29** Le président exerce ses fonctions à temps plein; les autres membres, à temps plein ou à temps partiel.
+> 1995, ch. 40, art. 29; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Mandat**
+
+**30** 
+
+- **(1)** Les membres occupent leur poste à titre inamovible pour un mandat maximal de cinq ans, sous réserve de révocation motivée prononcée par le gouverneur en conseil.
+
+**Nouveau mandat**
+
+- **(2)** Les membres peuvent recevoir un nouveau mandat, aux fonctions identiques ou non.
+> 1995, ch. 40, art. 30; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Incompatibilité de fonctions**
+
+**31** La charge de membre est incompatible avec d’autres fonctions dans l’administration publique fédérale.
+> 1995, ch. 40, art. 31; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Conflits d’intérêts**
+
+**32** Les membres ne peuvent accepter ni occuper de charge ou d’emploi incompatibles avec leurs fonctions, ni se saisir d’une affaire dans laquelle ils ont un intérêt.
+> 1995, ch. 40, art. 32; 2012, ch. 24, art. 102.
+
+
+
+
+
+### Président
+
+
+
+**Fonctions du président**
+
+**33** 
+
+- **(1)** Le président de la Commission répartit les tâches entre les membres.
+
+**Absence ou empêchement**
+
+- **(2)** En cas d’absence ou d’empêchement du président, ou de vacance de son poste, les autres membres confient l’intérim à l’un des membres dotés de la compétence juridique prévue à l’article 28. Cependant, l’intérim ne peut dépasser soixante jours sans l’approbation du gouverneur en conseil.
+> 1995, ch. 40, art. 33; 2012, ch. 24, art. 102; 2014, ch. 20, art. 480.
+
+
+
+
+
+### Indemnités et frais
+
+
+
+**Indemnités**
+
+**34** 
+
+- **(1)** Les membres à temps plein reçoivent le traitement, et les autres membres reçoivent les honoraires ou toute autre rémunération, que fixe le gouverneur en conseil.
+
+**Frais**
+
+- **(2)** Les membres sont indemnisés des frais de déplacement et de séjour entraînés par l’exercice de leurs attributions hors de leur lieu habituel soit de travail, s’ils sont à temps plein, soit de résidence, s’ils sont à temps partiel, conformément aux directives du Conseil du Trésor.
+> 1995, ch. 40, art. 34; 2012, ch. 24, art. 102.
+
+
+
+
+**35** [Abrogé, 2014, ch. 20, art. 480]
+
+
+
+**36** [Abrogé, 2014, ch. 20, art. 480]
+
+
+
+
+### Siège
+
+
+
+**Siège**
+
+**37** 
+
+- **(1)** Le siège de la Commission est fixé dans la région de la capitale nationale au sens de l’article 2 de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
+
+**Réunions**
+
+- **(2)** La Commission siège en tout lieu du Canada fixé par le gouverneur en conseil.
+> 1995, ch. 40, art. 37; 2012, ch. 24, art. 102.
+
+
+
+
+
+### Compétence
+
+
+
+**Commission**
+
+**38** 
+
+- **(1)** La Commission a compétence exclusive pour les affaires relevant des domaines qui lui sont attribués sous le régime de la présente loi ou de toute autre loi fédérale.
+
+**Révision en Cour fédérale**
+
+- **(2)** Les ordonnances de la Commission ne sont susceptibles de révision qu’au titre de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 1995, ch. 40, art. 38; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Président**
+
+**39** 
+
+- **(1)** Le président de la Commission a seul compétence pour entendre :
+	- **a)** les demandes touchant les avertissements formées au titre des paragraphes 8(1) ou 12(2);
+	- **b)** les demandes touchant les sanctions de moins de 2 000 $ formées au titre de l’alinéa 9(2)c) ou du paragraphe 13(2).
+
+**Délégation**
+
+- **(2)** Le président peut déléguer aux autres membres ses attributions relativement aux demandes mentionnées au paragraphe (1) s’ils sont dotés de la compétence juridique prévue à l’article 28.
+> 1995, ch. 40, art. 39; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Révision**
+
+**40** Les demandes de révision sont entendues par un membre seul.
+> 1995, ch. 40, art. 40; 2012, ch. 24, art. 102.
+
+
+
+
+
+### Pouvoirs
+
+
+
+**Cour d’archives**
+
+**41** 
+
+- **(1)** La Commission est une cour d’archives; elle a un sceau officiel, dont l’authenticité est admise d’office.
+
+**Interrogatoire des témoins**
+
+- **(2)** En outre, la Commission a, pour la comparution, la prestation des serments et l’interrogatoire des témoins, ainsi que pour la production et l’examen des documents et autres pièces, l’exécution de ses ordonnances et toutes autres questions relevant de sa compétence, les attributions d’une juridiction supérieure d’archives. Elle peut notamment :
+	- **a)** par citation adressée aux personnes ayant connaissance de faits se rapportant à l’affaire dont elle est saisie, leur enjoindre de comparaître comme témoins aux date, heure et lieu indiqués et d’apporter et de produire tous documents, livres ou pièces utiles à l’affaire, dont elles ont la possession ou la responsabilité;
+	- **b)** faire prêter serment et interroger sous serment;
+	- **c)** recevoir en cours d’audition les éléments de preuve supplémentaires qu’elle estime utiles et dignes de foi.
+> 1995, ch. 40, art. 41; 2012, ch. 24, art. 102.
+
+
+
+
+
+### Règles
+
+
+
+**Règles**
+
+**42** La Commission peut, avec l’agrément du gouverneur en conseil, établir des règles régissant :
+- **a)** la pratique et la procédure des audiences;
+- **b)** les modalités, y compris les délais, d’établissement des demandes et des avis à donner;
+- **c)** de façon générale, l’exercice de ses activités sous le régime de la présente loi ou de toute autre loi fédérale.
+> 1995, ch. 40, art. 42; 2012, ch. 24, art. 102.
+
+
+
+
+
+### Généralités
+
+
+
+**Consultations**
+
+**43** Les membres peuvent, dans le cadre des affaires dont la Commission est saisie, consulter d’autres membres.
+> 1995, ch. 40, art. 43; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Règles en matière de preuve**
+
+**44** La Commission n’est pas liée par les règles juridiques ou techniques applicables en matière de preuve lors des audiences. Dans la mesure où les circonstances, l’équité et la justice naturelle le permettent, il lui appartient d’agir rapidement et sans formalités.
+> 1995, ch. 40, art. 44; 2012, ch. 24, art. 102.
+
+
+
+
+
+**Exception en matière de preuve**
+
+**45** La Commission ne peut recevoir ni admettre en preuve les éléments protégés par le droit de la preuve et rendus, de ce fait, inadmissibles en justice devant un tribunal judiciaire.
+> 1995, ch. 40, art. 45; 2012, ch. 24, art. 102.
+
+
+
+
+**46 à 89** [Abrogés, 2012, ch. 24, art. 102]
+
+
+
+**90** [Abrogé, 2012, ch. 24, art. 102]
 
 
