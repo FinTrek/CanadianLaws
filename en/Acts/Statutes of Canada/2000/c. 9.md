@@ -132,6 +132,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***monetary contribution*** means an amount of money provided that is not repayable. (*contribution monétaire*)
 
+***National Capital Region*** means the National Capital Region as described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md). (*région de la capitale nationale*)
+
 ***nomination campaign expense***[Repealed, 2018, c. 20, s. 1]
 
 ***nomination contest*** means a competition for the selection of a person to be proposed to a registered party for its endorsement as its candidate in an electoral district. (*course à l’investiture*)
@@ -154,7 +156,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***political party*** means an organization one of whose fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election. (*parti politique*)
 
-***polling day***, in relation to an election, means the date fixed under paragraph 57(1.2)(c) for voting at the election. (*jour du scrutin*)
+***polling day***, in relation to an election, means the date fixed for voting at the election under paragraph 57(1.2)(c) or subsection 59(4) or 77(2). (*jour du scrutin*)
 
 ***polling division*** means a polling division referred to in section 538. (*section de vote*)
 
@@ -198,7 +200,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Satisfactory proof of identity and residence**
 
-- **(3)** For the purposes of this Act, satisfactory proof of an elector’s identity and satisfactory proof of residence are established by the documentary proof of the elector’s identity and residence that is prescribed by the Chief Electoral Officer.
+- **(3)** For the purposes of this Act, satisfactory proof of identity and satisfactory proof of residence are established in the manner determined by the Chief Electoral Officer.
 
 **Time**
 
@@ -211,7 +213,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of polling day**
 
 - **(6)** If a writ for an election is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), then, in Parts 16.1 and 17 and Divisions 1, 2, 4 and 5 of Part 18, ***polling day*** means the day that the writ is withdrawn or deemed to be withdrawn.
-> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, ss. 2, 155; 2018, c. 20, s. 1.
+> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, ss. 2, 155; 2018, c. 20, s. 1; 2018, c. 31, s. 2; 2018, c. 31, s. 399.
 
 
 
@@ -386,7 +388,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **15** 
 
-- **(1)** The Chief Electoral Officer shall rank as and have all the powers of a deputy head of a department, shall perform the duties of the office on a full-time basis and shall not hold any other office under Her Majesty or engage in any other employment.
+- **(1)** Subject to subsections 509.1(2) and (3), the Chief Electoral Officer shall rank as and have all the powers of a deputy head of a department, shall perform the duties of the office on a full-time basis and shall not hold any other office under Her Majesty or engage in any other employment.
 
 **Salary and expenses of Chief Electoral Officer**
 
@@ -399,7 +401,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Communication with Governor in Council**
 
 - **(4)** The Chief Electoral Officer shall communicate with the Governor in Council through the Minister for the purposes of this Act.
-> 2000, c. 9, s. 15; 2002, c. 8, s. 116; 2003, c. 22, s. 101(E).
+> 2000, c. 9, s. 15; 2002, c. 8, s. 116; 2003, c. 22, s. 101(E); 2018, c. 31, s. 8.
 
 
 
@@ -430,28 +432,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Consultations**
 
-- **(3)** Before issuing a guideline or interpretation note, the Chief Electoral Officer shall provide a copy of the proposed guideline or interpretation note to the Commissioner and to the members of the Advisory Committee of Political Parties established by subsection 21.1(1). The Commissioner and those members may provide their written comments to the Chief Electoral Officer within 15 days after the day on which the copy is sent.
+- **(3)** Before issuing a guideline or interpretation note, the Chief Electoral Officer shall provide a copy of the proposed guideline or interpretation note to the Commissioner and to the members of the Advisory Committee of Political Parties established by subsection 21.1(1). The Commissioner and those members may provide their written comments to the Chief Electoral Officer within 45 days after the day on which the copy is sent.
 
 **Comments**
 
 - **(4)** The Chief Electoral Officer shall, in preparing the guideline or interpretation note, take into consideration any comments received under subsection (3).
 
-**Pre-publication**
+- **(5)** [Repealed, 2018, c. 31, s. 9]
 
-- **(5)** The Chief Electoral Officer shall publish on his or her Internet site for a period of 30 days the guideline or interpretation note as well as a notice stating that the guideline or interpretation note will be issued at the expiry of that period.
-
-**Pre-publication — additional requirement**
-
-- **(6)** In the case of an application made under subsection (2), the guideline or interpretation note and the notice shall be published under subsection (5) within 60 days after the day on which the application is made. However, if the 60-day period coincides or overlaps with the election period of a general election, they shall be published under subsection (5) no later than 60 days after polling day for that election.
+- **(6)** [Repealed, 2018, c. 31, s. 9]
 
 **Issuance**
 
-- **(7)** On the expiry of the period referred to in subsection (5), the Chief Electoral Officer shall issue the guideline or interpretation note by registering it in the registry referred to in section 16.4.
+- **(7)** The Chief Electoral Officer shall issue the guideline or interpretation note by registering it in the registry referred to in section 16.4 as soon as possible after preparing it.
 
 **Nature of guidelines and interpretation notes**
 
 - **(8)** The guidelines and interpretation notes are issued for information purposes only. They are not binding on registered parties, registered associations, nomination contestants, candidates or leadership contestants.
-> 2014, c. 12, ss. 5, 153.
+> 2014, c. 12, ss. 5, 153; 2018, c. 31, s. 9.
 
 
 
@@ -465,7 +463,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Consultations**
 
-- **(2)** Before issuing an opinion, the Chief Electoral Officer shall provide a copy of the proposed opinion to the Commissioner and to the members of the Advisory Committee of Political Parties established by subsection 21.1(1). The Commissioner and those members may provide their written comments to the Chief Electoral Officer within 15 days after the day on which the copy is sent.
+- **(2)** Before issuing an opinion, the Chief Electoral Officer shall provide a copy of the proposed opinion to the Commissioner and to the members of the Advisory Committee of Political Parties established by subsection 21.1(1). The Commissioner and those members may provide their written comments to the Chief Electoral Officer within 30 days after the day on which the copy is sent.
 
 **Comments**
 
@@ -473,7 +471,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Pre-publication**
 
-- **(4)** Within 60 days after the day on which the application is made, the Chief Electoral Officer shall publish on his or her Internet site for a period of 30 days the opinion as well as a notice stating that the opinion will be issued at the expiry of that period. However, if the 60-day period coincides or overlaps with the election period of a general election, the opinion and the notice shall be published no later than 60 days after polling day for that election.
+- **(4)** Within 90 days after the day on which the application is made, the Chief Electoral Officer shall publish on his or her Internet site for a period of 30 days the opinion as well as a notice stating that the opinion will be issued at the expiry of that period. However, if the 90-day period coincides or overlaps with the election period of a general election, the opinion and the notice shall be published no later than 90 days after polling day for that election.
 
 **Issuance**
 
@@ -490,7 +488,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contrary interpretation**
 
 - **(8)** The opinion remains binding in accordance with subsection (6), and has the precedential value referred to in subsection (7), for as long as a contrary interpretation has not been subsequently issued by means of a guideline or interpretation note issued under section 16.1 or an opinion issued under this section.
-> 2014, c. 12, ss. 5, 153.
+> 2014, c. 12, ss. 5, 153; 2018, c. 31, s. 10.
 
 
 
@@ -498,8 +496,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **New interpretation**
 
-**16.3** An interpretation of a provision of the Act in a guideline or interpretation note that is published under subsection 16.1(5) or in an opinion that is published under subsection 16.2(4) that contradicts an interpretation of that provision provided in a previously issued guideline, interpretation note or opinion does not replace the interpretation in that previously issued guideline, interpretation note or opinion until the date that the guideline or interpretation note is issued under section 16.1 or the opinion is issued under section 16.2.
-> 2014, c. 12, s. 5.
+**16.3** If an opinion that is published under subsection 16.2(4) interprets a provision of the Act in a way that contradicts an interpretation of that provision provided in a previously issued opinion, the new interpretation does not replace the former interpretation until the date that the new opinion is issued under section 16.2.
+> 2014, c. 12, s. 5; 2018, c. 31, s. 11.
 
 
 
@@ -549,39 +547,42 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**17.1** [Repealed, 2018, c. 31, s. 13]
+
+
+
 
 **Public education and information programs**
 
-**17.1** The Chief Electoral Officer may implement public education and information programs to make the electoral process better known to students at the primary and secondary levels.
-> 2014, c. 12, s. 7.
-
-
-
-
-
-**Advertising**
-
 **18** 
 
-- **(1)** The Chief Electoral Officer may transmit or cause to be transmitted advertising messages, both inside and outside Canada, to inform electors about the exercise of their democratic rights. Such advertising messages shall only address
+- **(1)** The Chief Electoral Officer may implement public education and information programs to make the electoral process better known to the public, particularly to those persons and groups most likely to experience difficulties in exercising their democratic rights.
+
+**Communication with public**
+
+- **(1.1)** The Chief Electoral Officer may, using any media or other means that he or she considers appropriate, provide the public, both inside and outside Canada, with information relating to Canada’s electoral process and the democratic rights to vote and to be a candidate.
+
+**Information outside Canada**
+
+- **(1.2)** The Chief Electoral Officer may establish programs to disseminate information outside Canada concerning how to vote under Part 11.
+
+**Communication with electors with a disability**
+
+- **(2)** The Chief Electoral Officer shall ensure that any information on the following that is provided under subsections (1) to (1.2) in an advertising message is accessible to electors with a disability:
 	- **(a)** how to become a candidate;
-	- **(b)** how an elector may have their name added to a list of electors and may have corrections made to information respecting the elector on the list;
+	- **(b)** how an elector may have their name added to a list of electors and may have corrections made to information respecting them on the list;
 	- **(c)** how an elector may vote under section 127 and the times, dates and locations for voting;
-	- **(d)** how an elector may establish their identity and residence in order to vote, including the pieces of identification that they may use to that end; and
+	- **(d)** how an elector may prove their identity and residence in order to vote, including the pieces of identification that they may use to that end; and
 	- **(e)** the measures for assisting electors with a disability to access a polling station or advance polling station or to mark a ballot.
 
-**Clarification**
+**Communication with future electors with a disability**
 
-- **(1.1)** For greater certainty, subsection (1) does not prevent the Chief Electoral Officer from transmitting or causing to be transmitted advertising messages for any other purpose relating to his or her mandate.
-
-**Communication with electors with disabilities**
-
-- **(2)** The Chief Electoral Officer shall ensure that any information provided under subsection (1) is accessible to electors with disabilities.
+- **(2.1)** If the Chief Electoral Officer provides, in an advertising message, any information under subsections (1) and (1.1) on how a future elector may have their name added to the Register of Future Electors and may have corrections made to information respecting them in that register, the Chief Electoral Officer shall ensure that the information is accessible to future electors with a disability.
 
 **Unsolicited calls**
 
 - **(3)** The Chief Electoral Officer shall not provide information under this section by the use of calls, as defined in section 348.01, that are unsolicited.
-> 2000, c. 9, s. 18; 2014, c. 12, s. 7.
+> 2000, c. 9, s. 18; 2014, c. 12, s. 7; 2018, c. 31, s. 14.
 
 
 
@@ -589,17 +590,31 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **International cooperation**
 
-**18.01** The Chief Electoral Officer may, at the Governor in Council’s request, provide assistance and cooperation in electoral matters to electoral agencies in other countries or to international organizations.
-> 2014, c. 12, s. 8.
+**18.01** The Chief Electoral Officer may provide assistance and cooperation in electoral matters to electoral agencies in other countries or to international organizations.
+> 2014, c. 12, s. 8; 2018, c. 31, s. 15.
 
 
 
 
 
-**Alternative voting process**
+**Voting studies**
 
-**18.1** The Chief Electoral Officer may carry out studies on voting, including studies respecting alternative voting processes, and may devise and test an alternative voting process for future use in a general election or a by-election. Such a process may not be used for an official vote without the prior approval of the committees of the Senate and of the House of Commons that normally consider electoral matters or, in the case of an alternative electronic voting process, without the prior approval of the Senate and the House of Commons.
-> 2000, c. 9, s. 18.1; 2001, c. 21, s. 2; 2014, c. 12, s. 8.
+**18.1** 
+
+- **(1)** The Chief Electoral Officer may carry out studies on voting, including studies respecting alternative voting means.
+
+**Alternative voting**
+
+- **(2)** The Chief Electoral Officer may devise and test an alternative voting process for future use in an election.
+
+**Voting technology — electors with a disability**
+
+- **(3)** The Chief Electoral Officer shall develop, obtain or adapt voting technology for use by electors with a disability, and may test the technology for future use in an election.
+
+**Prior approval**
+
+- **(4)** Neither an alternative voting process nor voting technology tested under subsection (2) or (3) may be used in an election without the prior approval of the committees of the Senate and of the House of Commons that normally consider electoral matters.
+> 2000, c. 9, s. 18.1; 2001, c. 21, s. 2; 2014, c. 12, s. 8; 2018, c. 31, s. 15.
 
 
 
@@ -609,7 +624,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **18.2** 
 
-- **(1)** The Chief Electoral Officer may enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the Chief Electoral Officer’s name.
+- **(1)** The Chief Electoral Officer may enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the Chief Electoral Officer’s name in the exercise or performance of his or her powers, duties and functions under this Act or any other Act of Parliament.
 
 **Leases**
 
@@ -622,7 +637,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Goods and services**
 
 - **(4)** Despite section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Chief Electoral Officer may procure goods and services from outside the federal public administration.
-> 2014, c. 12, s. 8.
+> 2014, c. 12, s. 8; 2018, c. 31, s. 16.
 
 
 
@@ -637,20 +652,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-### Assistant Chief Electoral Officer and Staff
+### Staff
 
 
 
 **Staff**
 
-**19** 
-
-- **(1)** The staff of the Chief Electoral Officer shall consist of an officer known as the Assistant Chief Electoral Officer, appointed by the Governor in Council, and any other officers, clerks and employees that may be required, who shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Superannuation and compensation**
-
-- **(2)** The Assistant Chief Electoral Officer is deemed to be a person employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and is deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 2000, c. 9, s. 19; 2003, c. 22, s. 102(E).
+**19** The staff of the Chief Electoral Officer consists of employees appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+> 2000, c. 9, s. 19; 2003, c. 22, s. 102(E); 2018, c. 31, s. 17.
 
 
 
@@ -664,16 +673,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Casual and temporary staff**
 
-- **(2)** Any additional officers, clerks and employees that the Chief Electoral Officer considers necessary for the exercise or performance of his or her powers, duties and functions under this Act that are related to the preparation for, and the conduct of, an election may be employed on a casual or temporary basis in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-> 2000, c. 9, s. 20; 2014, c. 12, s. 10.
+- **(2)** Any additional employees that the Chief Electoral Officer considers necessary for the exercise or performance of his or her powers, duties and functions under this Act that are related to the preparation for, and the conduct of, an election may be employed on a casual or temporary basis in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+> 2000, c. 9, s. 20; 2014, c. 12, s. 10; 2018, c. 31, s. 18.
 
 
 
 
 
-**Delegation by Chief Electoral Officer**
+**Delegation**
 
-**21** The Chief Electoral Officer may authorize the Assistant Chief Electoral Officer or any other officer on his or her staff to perform any of the Chief Electoral Officer’s functions under this Act.
+**21** The Chief Electoral Officer may delegate to any member of his or her staff, subject to any limitations that he or she may specify, any of his or her powers, duties and functions under this or any other Act of Parliament, except the power to delegate.
+> 2000, c. 9, s. 21; 2018, c. 31, s. 19.
+
 
 
 
@@ -722,7 +733,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** field liaison officers appointed under section 23.2;
 	- **(a.1)** returning officers appointed under subsection 24(1);
 	- **(b)** assistant returning officers appointed under subsection 26(1) or 28(5) and additional assistant returning officers appointed under subsection 30(1);
-	- **(c)** persons authorized by a returning officer under section 27 to perform duties under this Act;
+	- **(c)** persons authorized by a returning officer under section 27 to exercise powers or perform duties under this Act;
 	- **(c.1)** persons designated pursuant to subsection 28(3.1);
 	- **(d)** revising agents appointed under paragraph 32(a);
 	- **(e)** deputy returning officers appointed under paragraphs 32(b) and (c) and subsection 273(1);
@@ -751,7 +762,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** a judge or deputy judge of any superior court or any bankruptcy or insolvency court and, in Yukon and the Northwest Territories, a judge of the Supreme Court;
 	- **(d.1)** a person who was a candidate at the last general election or at a by-election held since the last general election;
 	- **(e)** a person who has served in Parliament in the session immediately before the election or in the session in progress at the time of the election; and
-	- **(f)** a person who, within seven years before the proposed appointment, has been found guilty of any offence under this Act, the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md) or any Act of the legislature of a province relating to provincial, municipal or school board elections.
+	- **(f)** a person who, within seven years before the proposed appointment, has been found guilty of any offence under this Act or the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md), or a regulation made under the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md), or under an Act of the legislature of a province, or a regulation made under an Act of the legislature of a province, relating to provincial, municipal or school board elections.
 
 **Qualifications**
 
@@ -766,7 +777,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — acting as election officer**
 
 - **(6)** No person shall act as an election officer knowing that they do not meet the requirements for an election officer set out in this section.
-> 2000, c. 9, s. 22; 2002, c. 7, s. 91; 2006, c. 9, s. 173; 2014, c. 2, s. 48, c. 12, s. 12.
+> 2000, c. 9, s. 22; 2002, c. 7, s. 91; 2006, c. 9, s. 173; 2014, c. 2, s. 48, c. 12, s. 12; 2018, c. 31, s. 20.
 
 
 
@@ -844,10 +855,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Removal from office**
 
 - **(9)** The Chief Electoral Officer may remove from office any field liaison officer who
-	- **(a)** is incapable, by reason of illness, physical or mental disability or otherwise, of satisfactorily performing their duties and functions under this Act;
-	- **(b)** fails to discharge competently a field liaison officer’s duties and functions under this Act or to comply with an instruction of the Chief Electoral Officer issued under paragraph 16(c); or
-	- **(c)** contravenes subsection (8), whether or not the contravention occurs in the performance of their duties and functions under this Act.
-> 2014, c. 12, s. 13.
+	- **(a)** is incapable, by reason of illness, disability or otherwise, of satisfactorily exercising their powers or performing their duties under this Act;
+	- **(b)** fails to competently exercise a field liaison officer’s powers or competently perform a field liaison officer’s duties under this Act or to comply with an instruction of the Chief Electoral Officer issued under paragraph 16(c); or
+	- **(c)** contravenes subsection (8), whether or not the contravention occurs in the exercise of their powers or the performance of their duties under this Act.
+> 2014, c. 12, s. 13; 2018, c. 31, s. 22.
 
 
 
@@ -910,19 +921,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Removal from office**
 
 - **(7)** The Chief Electoral Officer may remove from office any returning officer who
-	- **(a)** is incapable, by reason of illness, physical or mental disability or otherwise, of satisfactorily performing his or her duties under this Act;
-	- **(b)** fails to discharge competently a duty of a returning officer under this Act or to comply with an instruction of the Chief Electoral Officer described in paragraph 16(c);
+	- **(a)** is incapable, by reason of illness, disability or otherwise, of satisfactorily exercising his or her powers or performing his or her duties under this Act;
+	- **(b)** fails to competently exercise a returning officer’s power or competently perform a returning officer’s duty under this Act or to comply with an instruction of the Chief Electoral Officer described in paragraph 16(c);
 	- **(c)** fails to complete the revision of the boundaries of the polling divisions in their electoral district as instructed by the Chief Electoral Officer under subsection 538(3); or
-	- **(d)** contravenes subsection (6), whether or not the contravention occurs in the exercise of his or her duties under this Act.
+	- **(d)** contravenes subsection (6), whether or not the contravention occurs in the exercise of his or her powers or the performance of his or her duties under this Act.
 
 **Temporary suspension**
 
-- **(8)** During an election period, the Chief Electoral Officer may temporarily suspend from office a returning officer for any grounds set out in subsection (7).
+- **(8)** The Chief Electoral Officer may temporarily suspend from office a returning officer for any grounds set out in subsection (7).
 
 **Duration of suspension**
 
-- **(9)** The period of suspension expires on the day that is 120 days after the end of the election period, or at the end of any shorter period that the Chief Electoral Officer considers appropriate. However, if a procedure is commenced — either before or during the period of suspension — that could lead to the returning officer’s removal, the period of suspension expires on the day on which the Chief Electoral Officer makes his or her final decision in that regard.
-> 2000, c. 9, s. 24; 2003, c. 19, s. 2; 2006, c. 9, s. 174; 2011, c. 26, s. 13; 2014, c. 12, s. 14.
+- **(9)** The period of suspension expires at the end of the period that the Chief Electoral Officer considers appropriate. However, if a procedure is commenced — either before or during the period of suspension — that could lead to the returning officer’s removal, the period of suspension expires on the day on which the Chief Electoral Officer makes his or her final decision in that regard.
+> 2000, c. 9, s. 24; 2003, c. 19, s. 2; 2006, c. 9, s. 174; 2011, c. 26, s. 13; 2014, c. 12, s. 14; 2018, c. 31, s. 23.
 
 
 
@@ -979,13 +990,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** Subject to subsection 24(1.5), if a returning officer is absent or unable to act or if a returning officer’s office is vacant, the assistant returning officer shall act in place of the returning officer.
 
-**Designated person to act**
+**Designated person to act — suspension of returning officer**
 
-- **(3.01)** If a returning officer is under suspension during an election period, the Chief Electoral Officer may designate a person to act in the returning officer’s place, and that person may, during and after that period, perform the duties and functions of a returning officer in relation to that election.
+- **(3.01)** If a returning officer is under suspension during the six months before the day set in accordance with subsection 56.1(2) for the holding of a general election or during any election period that falls in whole or in part outside that six-month period, the Chief Electoral Officer may designate a person to act in the returning officer’s place, and that person may, during and after that period, exercise the powers and perform the duties of a returning officer in relation to that election.
 
-**Designated person to act**
+**Designated person to act — absence of returning and assistant returning officers**
 
-- **(3.1)** If a returning officer and an assistant returning officer are both absent or unable to act or if both their offices are vacant during an election period, the Chief Electoral Officer shall designate a person to act in place of the returning officer, and that person may, during and after that period, perform the duties of a returning officer in relation to that election.
+- **(3.1)** If, during the six months before the day set in accordance with subsection 56.1(2) for the holding of a general election or during any election period that falls in whole or in part outside that six-month period, a returning officer is absent or unable to act or a returning officer’s office is vacant and, at the same time, the assistant returning officer is absent or unable to act or the assistant returning officer’s office is vacant, the Chief Electoral Officer shall designate a person to act in place of the returning officer, and that person may, during and after that period, exercise the powers and perform the duties of a returning officer in relation to that election.
 
 **Appointment within limited period**
 
@@ -994,7 +1005,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Appointment of assistant returning officer**
 
 - **(5)** Every assistant returning officer who is required to act as a returning officer under subsection (3) shall appoint an assistant returning officer without delay.
-> 2000, c. 9, s. 28; 2006, c. 9, s. 176; 2014, c. 12, s. 16.
+> 2000, c. 9, s. 28; 2006, c. 9, s. 176; 2014, c. 12, s. 16; 2018, c. 31, s. 26.
 
 
 
@@ -1039,7 +1050,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Further limitation**
 
-- **(4)** An assistant returning officer appointed under subsection (2) may not perform the functions described in subsections 28(1), 60(2), 70(1) and 293(1).
+- **(4)** An assistant returning officer appointed under subsection (2) is not an assistant returning officer for the purposes of subsections 28(1), 60(2), 70(1) and 293(1).
+> 2000, c. 9, s. 30; 2018, c. 31, s. 28.
+
 
 
 
@@ -1236,18 +1249,14 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** When a new electoral district is established, the Chief Electoral Officer shall transpose the results from the previous general election to the polling divisions that are in the new electoral district in order to determine which registered parties’ candidates, registered associations or registered parties have the right to provide the returning officer for that electoral district with lists of persons to be appointed as election officers.
 
-**Special case**
+- **(2)** [Repealed, 2018, c. 31, s. 30]
 
-- **(2)** If the Chief Electoral Officer cannot transpose the results from the previous general election to a portion of the new electoral district because no candidate was returned in respect of that portion due to an equality of votes, the Chief Electoral Officer shall transpose the results from the by-election that was subsequently held under subsection 29(1.1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md) in respect of that portion.
-
-**Exception**
-
-- **(3)** If, in a case to which subsection (2) applies, a general election is held before the by-election, the registered parties that have the right to provide the returning officer with lists of names of suitable persons to be appointed as election officers in respect of that general election are the same registered parties as those that had that right for the purposes of the election that resulted in the equality of votes.
+- **(3)** [Repealed, 2018, c. 31, s. 30]
 
 **Notice**
 
-- **(4)** When the Chief Electoral Officer has determined which candidates, registered associations or registered parties have the right to provide lists of names under subsection (1), (2) or (3), he or she shall notify those registered parties without delay of that right.
-> 2000, c. 9, s. 41; 2014, c. 12, s. 22.
+- **(4)** When the Chief Electoral Officer has determined which candidates, registered associations or registered parties have the right to provide lists of names under subsection (1), he or she shall notify those registered parties without delay of that right.
+> 2000, c. 9, s. 41; 2014, c. 12, s. 22; 2018, c. 31, s. 30.
 
 
 
@@ -1271,9 +1280,11 @@ If the candidate, registered association and registered party do not, as a group
 **Prohibitions**
 
 **43** No person shall
-- **(a)** wilfully obstruct an election officer in the performance of his or her duties;
-- **(b)** without authority, use identification simulating that used by a revising agent or intended to replace that prescribed by the Chief Electoral Officer for that purpose; or
-- **(c)** having been replaced as an election officer, fail to give to their replacement or to an authorized person any election documents or other election materials that the person has received or prepared in the performance of his or her duties.
+- **(a)** knowingly obstruct an election officer in the exercise of his or her powers or the performance of his or her duties;
+- **(b)** without authority, use identification simulating that used by an election officer or intended to replace that prescribed by the Chief Electoral Officer for that purpose; or
+- **(c)** having been removed or replaced as an election officer, fail to return any election documents or election materials in his or her possession to the returning officer or to an authorized person.
+> 2000, c. 9, s. 43; 2018, c. 31, s. 32.
+
 
 
 
@@ -1282,12 +1293,12 @@ If the candidate, registered association and registered party do not, as a group
 
 **43.1** 
 
-- **(1)** No person who is in control of an apartment building, condominium building or other multiple-residence building or a gated community may prevent an election officer or a member of the staff of a returning officer from obtaining access to the building or gated community, as the case may be, between 9:00 a.m. and 9:00 p.m., to perform his or her duties under this Act.
+- **(1)** No person who is in control of an apartment building, condominium building or other multiple-residence building or a gated community shall prevent an election officer or a member of the staff of a returning officer from obtaining access to the building or gated community, as the case may be, between 9:00 a.m. and 9:00 p.m., to exercise his or her powers or perform his or her duties under this Act.
 
 **Exception**
 
 - **(2)** Subsection (1) does not apply in respect of a person who is in control of a multiple-residence building whose residents’ physical or emotional well-being may be harmed as a result of permitting the activities referred to in that subsection.
-> 2007, c. 21, s. 3.
+> 2007, c. 21, s. 3; 2018, c. 31, s. 33(E).
 
 
 
@@ -1372,6 +1383,20 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(2)** The Chief Electoral Officer may at any time amend Schedule 2 by adding, changing or deleting the name of an Act of the legislature of a province or of any other source of information, but no such amendment comes into force until notice of it is published in the Canada Gazette.
 > 2000, c. 9, s. 46; 2007, c. 21, s. 6.
+
+
+
+
+
+**Information from Minister of Citizenship and Immigration**
+
+**46.01** Despite subparagraph 46(1)(a)(ii), for the purpose of assisting the Chief Electoral Officer in updating the Register of Electors, including by deleting the name of a person who is not an elector, the Minister of Citizenship and Immigration may, at the request of the Chief Electoral Officer in writing, provide the Chief Electoral Officer with any of the following information, in relation to a person, that is contained in databases maintained by the Department of Citizenship and Immigration that relate to permanent residents and foreign nationals as those terms are defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and with the date when the information referred to in paragraph (d) was included or updated in those databases:
+- **(a)** his or her surname and given names;
+- **(b)** his or her gender;
+- **(c)** his or her date of birth;
+- **(d)** his or her addresses; and
+- **(e)** any unique identifier that that Minister has assigned to him or her under that Act.
+> 2018, c. 31, s. 40.
 
 
 
@@ -1616,7 +1641,7 @@ If the candidate, registered association and registered party do not, as a group
 - **(1.2)** The proclamation or order shall
 	- **(a)** direct the Chief Electoral Officer to issue a writ to the returning officer for each electoral district to which the proclamation or order applies;
 	- **(b)** fix the date of issue of the writ; and
-	- **(c)** fix the date for voting at the election, which date must be at least 36 days after the issue of the writ.
+	- **(c)** fix the date for voting at the election, which date must be no earlier than the 36th day and no later than the 50th day after the day on which the writ was issued.
 
 **General election**
 
@@ -1636,7 +1661,7 @@ If the candidate, registered association and registered party do not, as a group
 **Times when polling day is a Tuesday**
 
 - **(5)** If the day fixed for the vote is a Tuesday because of subsection (4) or section 56.2, any time period specified under this Act before or after polling day is to be calculated as if polling day were the Monday.
-> 2000, c. 9, s. 57; 2001, c. 21, s. 5; 2007, c. 10, s. 2.
+> 2000, c. 9, s. 57; 2001, c. 21, s. 5; 2007, c. 10, s. 2; 2018, c. 31, s. 47.
 
 
 
@@ -1659,24 +1684,45 @@ If the candidate, registered association and registered party do not, as a group
 
 **Duties of Chief Electoral Officer**
 
-- **(2)** If the Governor in Council orders the withdrawal of a writ, the Chief Electoral Officer shall publish a notice of the withdrawal in the Canada Gazette and issue a new writ ordering an election within three months after publication of the notice.
+- **(2)** If the Governor in Council orders the withdrawal of a writ, the Chief Electoral Officer shall publish a notice of the withdrawal in the Canada Gazette and, on being ordered by the Governor in Council to do so, shall, within three months after the date of publication of the notice, issue a new writ ordering an election to be held.
 
 **Polling day**
 
-- **(3)** The day named in the new writ for polling day may not be later than three months after the issue of the new writ.
+- **(3)** The day named in the new writ for polling day is determined by the Governor in Council, but may be no later than the 50th day after the day on which the new writ was issued.
+
+**Postponement of election and new polling day**
+
+- **(4)** If the Chief Electoral Officer certifies that by reason of a flood, fire or other disaster it is impracticable to carry out the provisions of this Act with regard to an electoral district, but the Governor in Council is of the opinion that the withdrawal of the writ under subsection (1) is not warranted, the Governor in Council may, by order, postpone the election by up to seven days for that electoral district and, correspondingly, extend the election period and fix the date for the new polling day.
+
+**Postponement of election — rules**
+
+- **(5)** If the Governor in Council orders the postponement of an election for an electoral district under subsection (4), then, in respect of that electoral district, the following rules apply in respect of any time period before polling day specified under this Act:
+	- **(a)** if this Act authorizes or requires anything to be done on a day that is a certain number of days before polling day or done within a period that ends before polling day, and the day occurs or the period ends before the day on which the postponement order is made, then polling day is deemed to still be the day fixed under paragraph 57(1.2)(c) and not the day fixed under subsection (4);
+	- **(b)** if this Act authorizes or requires anything to be done within a period that ends on or before polling day and the period ends on or after the day on which the postponement order is made, then
+		- **(i)** anything done as authorized or required on or before the day on which the postponement order is made is valid, and
+		- **(ii)** in respect of anything not done as authorized or required on or before that day, the period during which the thing is authorized or required to be done is extended by the number of days by which the election is postponed;
+	- **(c)** if this Act authorizes or requires anything to be done on a day that is a certain number of days before polling day and that day occurs on the day on which the postponement order is made, then
+		- **(i)** anything done as authorized or required on that day is valid, and
+		- **(ii)** in respect of anything not done as authorized or required on that day, the day on which the thing is authorized or required to be done is postponed by the number of days by which the election is postponed;
+	- **(d)** if a period is extended under subparagraph (b)(ii) or a day is postponed under subparagraph (c)(ii), then any mention of a number of days before polling day prevails over any mention of a day of the week before polling day; and
+	- **(e)** for the purposes of this subsection, if the original polling day fixed under paragraph 57(1.2)(c) is a Tuesday because of section 56.2 or subsection 57(4), it is deemed to be a Monday.
+> 2000, c. 9, s. 59; 2018, c. 31, s. 48.
 
 
 
 
-**Returning officer to open and maintain an office**
+
+**Returning officer to open and maintain office**
 
 **60** 
 
-- **(1)** Every returning officer shall, without delay after receiving the writ or notice by the Chief Electoral Officer of the issue of the writ, open an office in premises with level access in a convenient place in the electoral district and shall maintain the office throughout the election period.
+- **(1)** Every returning officer shall, without delay after receiving the writ or notice by the Chief Electoral Officer of the issue of the writ, open an office in premises that are accessible to electors with a disability in a convenient place in the electoral district and shall maintain the office throughout the election period.
 
 **Hours**
 
 - **(2)** The Chief Electoral Officer may fix the hours that the office must be open and the minimum number of hours of compulsory attendance at it by the returning officer and the assistant returning officer.
+> 2000, c. 9, s. 60; 2018, c. 31, s. 49.
+
 
 
 
@@ -1825,7 +1871,7 @@ If the candidate, registered association and registered party do not, as a group
 **Notification and determination**
 
 - **(4)** If the returning officer is of the opinion that a nickname referred to in paragraph (2)(b) could be confused with the name of a political party, he or she shall notify the Chief Electoral Officer, who shall determine whether the nickname may be used as provided in that paragraph.
-> 2000, c. 9, s. 66; 2001, c. 21, s. 7; 2014, c. 12, s. 26.
+> 2000, c. 9, s. 66; 2001, c. 21, s. 7; 2014, c. 12, s. 26; 2018, c. 31, s. 53(F).
 
 
 
@@ -1921,16 +1967,7 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-
-**Deposit to Receiver General**
-
-**72** 
-
-- **(1)** On receipt of the deposit, the returning officer shall issue a receipt to the witness and shall without delay send the deposit to the Chief Electoral Officer who shall without delay send it to the Receiver General.
-
-**Refund of deposit**
-
-- **(2)** If a returning officer refuses to accept a nomination, the deposit that was filed in support of it shall be refunded to the person in respect of whom the nomination paper was filed.
+**72** [Repealed, 2018, c. 31, s. 59]
 
 
 
@@ -2098,18 +2135,28 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-**Publishing false statements to affect election results**
+**Publishing false statement to affect election results**
 
-**91** No person shall, with the intention of affecting the results of an election, knowingly make or publish any false statement of fact in relation to the personal character or conduct of a candidate or prospective candidate.
-> 2000, c. 9, s. 91; 2001, c. 21, s. 10(E).
+**91** 
+
+- **(1)** No person or entity shall, with the intention of affecting the results of an election, make or publish, during the election period,
+	- **(a)** a false statement that a candidate, a prospective candidate, the leader of a political party or a public figure associated with a political party has committed an offence under an Act of Parliament or a regulation made under such an Act — or under an Act of the legislature of a province or a regulation made under such an Act — or has been charged with or is under investigation for such an offence; or
+	- **(b)** a false statement about the citizenship, place of birth, education, professional qualifications or membership in a group or association of a candidate, a prospective candidate, the leader of a political party or a public figure associated with a political party.
+
+**Clarification**
+
+- **(2)** Subsection (1) applies regardless of the place where the election is held or the place where the false statement is made or published.
+> 2000, c. 9, s. 91; 2001, c. 21, s. 10(E); 2018, c. 31, s. 61.
 
 
 
 
 
-**False statement of withdrawal of candidate**
+**Publishing false statement of candidate’s withdrawal**
 
-**92** No person shall knowingly publish a false statement of the withdrawal of a candidate.
+**92** No person or entity shall publish a false statement that indicates that a candidate has withdrawn.
+> 2000, c. 9, s. 92; 2018, c. 31, s. 61.
+
 
 
 
@@ -2351,55 +2398,11 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-
-### Objection Procedure
-
-
-
-**Objection by elector**
-
-**103** 
-
-- **(1)** No later than the 14th day before polling day, an elector whose name appears on a list of electors for an electoral district may make an objection before the returning officer respecting the inclusion of the name of another person on a list of electors for that electoral district.
-
-**Affidavit of objection**
-
-- **(2)** An elector who wishes to make an objection under subsection (1) shall complete an affidavit of objection in the prescribed form, alleging that the other person is not entitled to vote in that electoral district, and shall submit the affidavit to the returning officer.
-
-**Notice to be sent to person objected to**
-
-- **(3)** The returning officer shall, on the day on which he or she receives an affidavit of objection or on the following day, send to the person objected to, at his or her address given on the list of electors and also at any other address given on the affidavit, a notice in the prescribed form advising the person that he or she may give evidence to show that he or she is entitled to vote in the electoral district in question by
-	- **(a)** appearing personally or by representative before the returning officer at a specified time no later than the 11th day before polling day; or
-	- **(b)** sending the returning officer, before that time, any documentation that the person considers appropriate.
-
-**Notice to candidates**
-
-- **(4)** The returning officer shall, as soon as possible, send to each candidate in the electoral district a copy of the notice referred to in subsection (3).
-
-**Presence of candidates’ representatives**
-
-- **(5)** If the person objected to decides to appear before the returning officer under paragraph (3)(a), the returning officer shall permit one representative of each candidate in the electoral district to be present, but no representative has the right to intervene, except with the permission of the returning officer.
+**103** [Repealed, 2018, c. 31, s. 68]
 
 
 
-
-**Examination by returning officer**
-
-**104** 
-
-- **(1)** When an objection is made under subsection 103(1), the returning officer may examine on oath the elector who made the objection, the person against whom it was made — if that person wishes to present their position — and any witness present, and make a decision on the basis of the information so obtained.
-
-**Evidence**
-
-- **(2)** The onus of presenting sufficient evidence to warrant the deletion of a name from a list of electors is on the elector who makes the objection.
-
-**Elector to substantiate case**
-
-- **(3)** The non-attendance before the returning officer at the time an objection is dealt with, or the failure of the person against whom the objection is made to send proof that he or she is entitled to vote in the electoral district, does not relieve the elector who makes the objection from proving, to the returning officer on a balance of probabilities, that the name of the person objected to should not appear on the list of electors.
-
-**Outcome of objection**
-
-- **(4)** After an objection is dealt with by the returning officer, he or she shall either delete the name of the person objected to from the list of electors on which the name appears or allow the name to stay on that list.
+**104** [Repealed, 2018, c. 31, s. 68]
 
 
 
@@ -2550,8 +2553,8 @@ If the candidate, registered association and registered party do not, as a group
 - **(e)** wilfully apply to have included in a list of electors the name of an animal or thing; or
 - **(f)** knowingly use personal information that is recorded in a list of electors for a purpose other than
 	- **(i)** to enable registered parties, eligible parties, members or candidates to communicate with electors in accordance with section 110, or
-	- **(ii)** a federal election or referendum.
-> 2000, c. 9, s. 111; 2014, c. 12, s. 39.
+	- **(ii)** for the purposes of the administration and enforcement of this Act or the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md).
+> 2000, c. 9, s. 111; 2014, c. 12, s. 39; 2018, c. 31, s. 74.
 
 
 
@@ -2641,6 +2644,8 @@ If the candidate, registered association and registered party do not, as a group
 **Printer’s name and affidavit**
 
 - **(6)** Ballots shall bear the name of the printer who, on delivering them to the returning officer, shall include an affidavit in the prescribed form that sets out a description of the ballots, the number of ballots delivered to the returning officer and the fact that all ballots were provided, and all paper returned, as required by subsection (5).
+> 2000, c. 9, s. 116; 2018, c. 31, s. 79(F).
+
 
 
 
@@ -2668,7 +2673,7 @@ If the candidate, registered association and registered party do not, as a group
 **Address or occupation on ballot**
 
 - **(5)** The ballot shall list under the candidate’s name the address or occupation of a candidate who makes a written request to that effect to the returning officer before 5:00 p.m. on the closing day for nominations, if the candidate and another candidate on the ballot have the same name and both candidates have chosen under subparagraph 66(1)(a)(v) to either have the word “independent” or no designation of political affiliation under their names in election documents.
-> 2000, c. 9, s. 117; 2001, c. 21, s. 12; 2004, c. 24, s. 2; 2007, c. 21, s. 20; 2014, c. 12, s. 40.
+> 2000, c. 9, s. 117; 2001, c. 21, s. 12; 2004, c. 24, s. 2; 2007, c. 21, s. 20; 2014, c. 12, s. 40; 2018, c. 31, s. 80(F).
 
 
 
@@ -3119,7 +3124,7 @@ If the candidate, registered association and registered party do not, as a group
 **Proof of identity and residence**
 
 - **(2)** If the poll clerk determines that the elector’s name and address appear on the list of electors or that the elector is allowed to vote under section 146, 147, 148 or 149, then the elector shall provide the deputy returning officer and the poll clerk with the following proof of the elector’s identity and, subject to subsection (3), his or her residence:
-	- **(a)** one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of that government, that contains a photograph of the elector and his or her name and address; or
+	- **(a)** one piece of identification issued by a Canadian government, whether federal, provincial or local, or an agency of such a government, that contains a photograph of the elector and his or her name and address; or
 	- **(b)** two pieces of identification of a type authorized under subsection (2.1), each of which establishes the elector’s name and at least one of which establishes the elector’s address.
 
 **Authorized types of identification**
@@ -3168,7 +3173,7 @@ If the candidate, registered association and registered party do not, as a group
 **Publication**
 
 - **(7)** The Chief Electoral Officer shall publish each year, and within three days after the issue of a writ, in a manner that he or she considers appropriate, a notice setting out the types of identification that are authorized for the purpose of paragraph (2)(b). The first annual notice shall be published no later than six months after the coming into force of this subsection.
-> 2000, c. 9, s. 143; 2007, c. 21, s. 21, c. 37, s. 1; 2014, c. 12, s. 46.
+> 2000, c. 9, s. 143; 2007, c. 21, s. 21, c. 37, s. 1; 2014, c. 12, s. 46; 2018, c. 31, s. 93(E).
 
 
 
@@ -3349,7 +3354,10 @@ If the candidate, registered association and registered party do not, as a group
 
 **155** 
 
-- **(1)** If an elector requires assistance to vote, a friend, the spouse, the common-law partner or a relative of the elector or a relative of the elector’s spouse or common-law partner may accompany the elector into the voting compartment and assist the elector to mark his or her ballot.
+- **(1)** If an elector requires assistance to vote, one of the following persons may accompany the elector into the voting compartment and assist the elector to mark his or her ballot:
+	- **(a)** a friend of the elector;
+	- **(b)** the elector’s spouse or common-law partner; or
+	- **(c)** a relative of the elector or of the elector’s spouse or common-law partner.
 
 **Exception**
 
@@ -3366,7 +3374,7 @@ If the candidate, registered association and registered party do not, as a group
 **Prohibition — failure to maintain secrecy**
 
 - **(4)** No person who assists an elector under this section shall, directly or indirectly, disclose the candidate for whom the elector voted.
-> 2000, c. 9, s. 155, c. 12, s. 40.
+> 2000, c. 9, s. 155, c. 12, s. 40; 2018, c. 31, s. 101(E).
 
 
 
@@ -3683,20 +3691,24 @@ If the candidate, registered association and registered party do not, as a group
 
 **Combining advance polling districts**
 
-- **(4)** When a request is made to a returning officer not later than four days after the issue of the writ, the returning officer may, with the permission of the Chief Electoral Officer, combine two advance polling districts into one district.
+- **(4)** When a request is made to a returning officer not later than four days after the issue of the writ, the returning officer may, with the prior approval of the Chief Electoral Officer, combine two advance polling districts into one district.
 
 **Request to move an advance polling station**
 
 - **(5)** When a request is made to a returning officer not later than four days after the issue of the writ to change the location of an advance polling station, the returning officer, with the prior approval of the Chief Electoral Officer, may do so.
 
-**Level access**
+**Accessibility**
 
-- **(6)** An advance polling station shall be in premises with level access.
+- **(6)** An advance polling station shall be in premises that are accessible to electors with a disability.
 
 **Exception**
 
-- **(7)** If a returning officer is unable to secure suitable premises with level access for use as an advance polling station, the returning officer may, with the prior approval of the Chief Electoral Officer, locate the advance polling station in premises without level access.
-> 2000, c. 9, s. 168; 2007, c. 21, s. 29.
+- **(7)** If a returning officer is unable to secure suitable premises for an advance polling station that are accessible to electors with a disability, the returning officer may, with the prior approval of the Chief Electoral Officer, establish the advance polling station in premises that are not accessible to such electors.
+
+**Advance polling station in more than one premises**
+
+- **(8)** If the returning officer is of the opinion that an advance polling district consists of or includes remote, isolated or low-density communities, the returning officer may, with the prior approval of the Chief Electoral Officer and in accordance with the Chief Electoral Officer’s instructions, establish the advance polling station for that district in premises in more than one such community, and have the election officers who are assigned to the advance polling station — along with the ballot box, ballots and other necessary election documents — be at given ones of those premises on different days of advance polling to take electors’ votes. For greater certainty, subsections (5) to (7) apply to the advance polling station.
+> 2000, c. 9, s. 168; 2007, c. 21, s. 29; 2018, c. 31, s. 115.
 
 
 
@@ -3996,10 +4008,7 @@ If the candidate, registered association and registered party do not, as a group
 ### Administration and General Procedures
 
 
-
-**Establishment of voting territories**
-
-**180** For the purpose of this Part, a voting territory with headquarters in Ottawa is hereby established. The Chief Electoral Officer may establish any additional voting territories or administrative centres in or outside Canada that he or she considers appropriate.
+**180** [Repealed, 2018, c. 31, s. 125]
 
 
 
@@ -4075,6 +4084,15 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
+**Distribution of election materials**
+
+**186.1** Without delay after the writs are issued, the special voting rules administrator shall distribute to commanding officers and, as the special voting rules administrator considers appropriate, to any other person or to any place the election materials necessary to carry out the purposes and provisions of this Part, including materials for the purpose of determining in which electoral district an elector is entitled to vote.
+> 2018, c. 31, s. 127.
+
+
+
+
+
 **List of candidates**
 
 **187** The Chief Electoral Officer shall establish a list of candidates nominated in each electoral district and, in accordance with section 117, set out the political affiliation of each of them.
@@ -4084,16 +4102,13 @@ If the candidate, registered association and registered party do not, as a group
 
 **Delivery of list of candidates**
 
-**188** Without delay after a list of candidates is established under section 187, the Chief Electoral Officer shall deliver a sufficient number of copies of it to the liaison officers.
+**188** Without delay after a list of candidates is established, the special voting rules administrator shall provide the list to the coordinating officer, to every liaison officer and commanding officer and, as the special voting rules administrator considers appropriate, to any other person.
+> 2000, c. 9, s. 188; 2018, c. 31, s. 128.
 
 
 
 
-**Distribution of election materials, etc.**
-
-**189** The special voting rules administrator shall distribute to commanding officers and, as the special voting rules administrator considers appropriate, to any other person or to any place
-- **(a)** without delay after the writs are issued, a sufficient quantity of election materials, including street indexes and guides to electoral districts for the purpose of determining in which electoral district an elector is entitled to vote; and
-- **(b)** without delay after a list of candidates is established under section 187, a sufficient number of copies of it.
+**189** [Repealed, 2018, c. 31, s. 128]
 
 
 
@@ -4103,7 +4118,7 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-#### Definitions
+#### Interpretation
 
 
 
@@ -4691,7 +4706,9 @@ If the candidate, registered association and registered party do not, as a group
 
 **Deadline for return of vote**
 
-**229** The special ballot must arrive at the office of the Chief Electoral Officer in Ottawa not later than 6:00 p.m. on polling day in order to be counted.
+**229** The special ballot must be received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on polling day in order to be counted.
+> 2000, c. 9, s. 229; 2018, c. 31, s. 156.
+
 
 
 
@@ -4886,28 +4903,32 @@ If the candidate, registered association and registered party do not, as a group
 
 **243** 
 
-- **(1)** When an elector personally goes to the office of the returning officer and is unable to read or because of a physical disability is unable to vote in the manner described in this Division, the designated election officer shall assist the elector by
+- **(1)** When an elector personally goes to the office of the returning officer and is unable to read or because of a disability is unable to vote in the manner described in this Division, the designated election officer shall assist the elector by
 	- **(a)** completing the declaration on the outer envelope and writing the elector’s name where his or her signature is to be written; and
-	- **(b)** marking the ballot as directed by the elector in his or her presence.
+	- **(b)** marking the ballot as directed by the elector in the elector’s presence.
 
 **Note on outer envelope**
 
 - **(2)** An election officer who assists an elector under subsection (1) shall indicate, by signing the note on the outer envelope, that the elector was assisted.
+> 2000, c. 9, s. 243; 2018, c. 31, s. 164.
 
 
 
 
-**Registration, voting at home**
+
+**Voting at home**
 
 **243.1** 
 
-- **(1)** On application of an elector who is unable to read, or who is unable to vote in the manner described in this Division because of a physical disability, and who is unable to personally go to the office of the returning officer because of a physical disability, the designated election officer shall go to the elector’s dwelling place and, in the presence of a witness who is chosen by the elector, assist the elector by
-	- **(a)** completing the declaration on the outer envelope and writing the elector’s name where the elector’s signature is to be written; and
+- **(1)** On application of an elector who is unable to read — or who is unable to vote in the manner described in this Division because of a disability — and who is unable to personally go to the office of the returning officer because of a disability, an election officer shall go to the elector’s dwelling place and, in the presence of a witness who is chosen by the elector, assist the elector by
+	- **(a)** completing the declaration referred to in paragraph 227(2)(c) and writing the elector’s name where the elector’s signature is to be written; and
 	- **(b)** marking the ballot as directed by the elector in the elector’s presence.
 
 **Note on outer envelope**
 
 - **(2)** The election officer and the witness who assist an elector under subsection (1) shall indicate, by signing the note on the outer envelope, that the elector was assisted.
+> 2000, c. 9, s. 243.1; 2018, c. 31, s. 166.
+
 
 
 
@@ -5121,13 +5142,15 @@ If the candidate, registered association and registered party do not, as a group
 
 **259** 
 
-- **(1)** If an elector is unable to read or because of a physical disability is unable to vote under this Division, the deputy returning officer shall assist the elector by
+- **(1)** If an elector is unable to read or because of a disability is unable to vote in the manner described in this Division, an election officer who is assigned to the polling station shall assist the elector by
 	- **(a)** completing the declaration on the outer envelope and writing the elector’s name where his or her signature is to be written; and
-	- **(b)** marking the special ballot as directed by the elector in his or her presence and in the presence of the poll clerk.
+	- **(b)** marking the special ballot as directed by the elector in his or her presence and in the presence of another election officer who is assigned to the polling station.
 
 **Note on outer envelope**
 
-- **(2)** The deputy returning officer and the poll clerk shall sign a note on the outer envelope indicating that the elector was assisted.
+- **(2)** The election officers shall sign a note on the outer envelope indicating that the elector was assisted.
+> 2000, c. 9, s. 259; 2018, c. 31, s. 179.
+
 
 
 
@@ -5204,7 +5227,7 @@ If the candidate, registered association and registered party do not, as a group
 	- **(a)** the information concerning the elector, as described on the outer envelope, does not correspond with the information on the application for registration and special ballot;
 	- **(b)** the envelope, other than an envelope in respect of an elector who has taken a vote under section 216, 243 or 259, does not bear the signature of an elector;
 	- **(c)** the correct electoral district of the elector whose ballot is contained in the outer envelope cannot be ascertained;
-	- **(d)** the outer envelope has been received in Ottawa by the special voting rules administrator after 6:00 p.m. on polling day; or
+	- **(d)** the outer envelope has been received by the special voting rules administrator in the National Capital Region after 6:00 p.m. on polling day; or
 	- **(e)** the outer envelope relates to an electoral district for which the election was postponed in accordance with section 77.
 
 **Procedure when elector votes more than once**
@@ -5221,6 +5244,8 @@ If the candidate, registered association and registered party do not, as a group
 **Special report**
 
 - **(4)** The special voting rules administrator shall prepare a report in respect of the number of outer envelopes that are laid aside under this Division.
+> 2000, c. 9, s. 267; 2018, c. 31, s. 182.
+
 
 
 
@@ -5376,6 +5401,8 @@ If the candidate, registered association and registered party do not, as a group
 **Noting of reasons for setting aside**
 
 - **(3)** When an outer envelope is set aside unopened as described in subsection (1), the deputy returning officer shall note on it the reasons for the rejection. The deputy returning officer and the poll clerk shall initial the envelope.
+> 2000, c. 9, s. 277; 2018, c. 31, s. 187(F).
+
 
 
 
@@ -5821,6 +5848,10 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** An elector may, within four days after the day on which a returning officer issues a certificate under section 297 and after notifying the returning officer in writing, apply to a judge for a recount.
 
+**Notice to candidates**
+
+- **(1.1)** The returning officer shall notify each candidate or his or her official agent in writing of the application for a recount.
+
 **Grounds for recount**
 
 - **(2)** The judge shall fix a date for a recount if it appears, on the affidavit of a credible witness, that
@@ -5842,7 +5873,7 @@ If the candidate, registered association and registered party do not, as a group
 **Returning officer required to attend**
 
 - **(6)** A returning officer to whom a summons is directed under subsection (4) shall obey it and shall be present throughout the recount.
-> 2000, c. 9, s. 301; 2014, c. 12, s. 67.
+> 2000, c. 9, s. 301; 2014, c. 12, s. 67; 2018, c. 31, s. 201.
 
 
 
@@ -5921,9 +5952,10 @@ If the candidate, registered association and registered party do not, as a group
 
 **308** At the conclusion of a recount, the judge shall
 - **(a)** seal the ballots in a separate envelope for each polling station and without delay prepare a certificate in the prescribed form that sets out the number of votes cast for each candidate;
-- **(b)** deliver the original of the certificate to the returning officer and a copy of it to each candidate; and
-- **(c)** return to the returning officer the election documents or other election materials brought for the purpose of the recount under subsection 300(4) and deliver to him or her the reports created in the course of the recount.
-> 2000, c. 9, s. 308; 2014, c. 12, s. 70.
+- **(b)** deliver the original of the certificate to the returning officer and a copy of it to each candidate;
+- **(c)** return to the returning officer the election documents or election materials brought under subsection 300(4) or 301(4) for the purpose of the recount; and
+- **(d)** deliver to the returning officer the reports created in the course of the recount.
+> 2000, c. 9, s. 308; 2014, c. 12, s. 70; 2018, c. 31, s. 203.
 
 
 
@@ -5990,7 +6022,7 @@ If the candidate, registered association and registered party do not, as a group
 **Affidavits may be filed in reply**
 
 - **(4)** The judge complained of and any interested party may file in the office of the clerk, registrar or prothonotary of the court of the judge to whom the application is made affidavits in reply to those filed by the applicant and shall provide the applicant with copies of them on demand.
-> 2000, c. 9, s. 311; 2002, c. 7, s. 93; 2014, c. 12, s. 71.
+> 2000, c. 9, s. 311; 2002, c. 7, s. 93; 2014, c. 12, s. 71; 2018, c. 31, s. 204(F).
 
 
 
@@ -6148,16 +6180,7 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-
-**Government means of transmission**
-
-**321** 
-
-- **(1)** No person shall knowingly conduct election advertising or cause it to be conducted using a means of transmission of the Government of Canada.
-
-**Application**
-
-- **(2)** For the purpose of subsection (1), a person includes a group within the meaning of Part 17.
+**321** [Repealed, 2018, c. 31, s. 207]
 
 
 
@@ -6179,7 +6202,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **323** 
 
-- **(1)** No person shall knowingly transmit election advertising to the public in an electoral district on polling day before the close of all of the polling stations in the electoral district.
+- **(1)** No person shall transmit election advertising to the public in an electoral district on polling day before the close of all of the polling stations in the electoral district.
 
 **Interpretation**
 
@@ -6188,6 +6211,8 @@ If the candidate, registered association and registered party do not, as a group
 **Definition of person**
 
 - **(3)** For the purpose of subsection (1), a person includes a registered party and a group within the meaning of Part 17.
+> 2000, c. 9, s. 323; 2018, c. 31, s. 208.
+
 
 
 
@@ -6274,7 +6299,7 @@ If the candidate, registered association and registered party do not, as a group
 
 **328** 
 
-- **(1)** No person shall knowingly cause to be transmitted to the public, in an electoral district on polling day before the close of all of the polling stations in that electoral district, the results of an election survey that have not previously been transmitted to the public.
+- **(1)** No person shall cause to be transmitted to the public, in an electoral district on polling day before the close of all of the polling stations in that electoral district, the results of an election survey that have not previously been transmitted to the public.
 
 **Prohibition — transmission of election survey results during blackout period**
 
@@ -6283,6 +6308,8 @@ If the candidate, registered association and registered party do not, as a group
 **Application**
 
 - **(3)** For the purpose of this section, a person includes a group within the meaning of Part 17.
+> 2000, c. 9, s. 328; 2018, c. 31, s. 211.
+
 
 
 
@@ -6299,11 +6326,17 @@ If the candidate, registered association and registered party do not, as a group
 
 **330** 
 
-- **(1)** No person shall, with intent to influence persons to vote or refrain from voting or vote or refrain from voting for a particular candidate at an election, use, aid, abet, counsel or procure the use of a broadcasting station outside Canada, during an election period, for the broadcasting of any matter having reference to an election.
+- **(1)** No person shall, with intent to influence persons to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election, use a broadcasting station outside Canada, or aid, abet, counsel or procure the use of a broadcasting station outside Canada, during an election period, for the broadcasting of any matter having reference to an election.
+
+**Exception**
+
+- **(1.1)** Subsection (1) does not apply in respect of any matter that is broadcast if the broadcasting signals originated in Canada.
 
 **Prohibition — broadcasting outside Canada**
 
 - **(2)** During an election period, no person shall broadcast, outside Canada, election advertising with respect to an election.
+> 2000, c. 9, s. 330; 2018, c. 31, s. 212.
+
 
 
 
@@ -13657,9 +13690,9 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(b.1)** being a field liaison officer, contravenes subsection 23.2(8) (engaging in politically partisan conduct);
 	- **(c)** being a returning officer, contravenes subsection 24(6) (engaging in politically partisan conduct);
 	- **(d)** being a returning officer or assistant returning officer, wilfully contravenes section 31 (acting in another capacity);
-	- **(e)** contravenes paragraph 43(a) (obstruction of election officer) or wilfully contravenes paragraph 43(b) (impersonation of revising agent); or
+	- **(e)** contravenes paragraph 43(a) (obstruction of election officer) or knowingly contravenes paragraph 43(b) (impersonation of election officer); or
 	- **(f)** being a former election officer, wilfully contravenes paragraph 43(c) (failure to return election documents and election materials).
-> 2000, c. 9, s. 484; 2007, c. 21, s. 36; 2014, c. 12, s. 90.
+> 2000, c. 9, s. 484; 2007, c. 21, s. 36; 2014, c. 12, s. 90; 2018, c. 31, s. 325.
 
 
 
@@ -13698,10 +13731,16 @@ The contestant shall notify the Chief Electoral Officer that the application has
 - **(3)** Every person is guilty of an offence who
 	- **(a)** contravenes section 89 (signing of nomination paper when ineligible);
 	- **(b)** [Repealed, 2014, c. 12, s. 91]
-	- **(c)** contravenes section 91 (making false statement re candidate); or
-	- **(d)** contravenes section 92 (publication of false statement of withdrawal of candidate).
+	- **(c)** contravenes subsection 91(1) (making or publishing false statement to affect election results); or
+	- **(d)** knowingly contravenes section 92 (publishing false statement of withdrawal of candidate).
 	- **(e) to (g)** [Repealed, 2014, c. 12, s. 91]
-> 2000, c. 9, s. 486; 2006, c. 9, s. 56; 2007, c. 21, s. 37; 2014, c. 12, s. 91.
+
+**Offences requiring intent — dual procedure**
+
+- **(4)** Every entity is guilty of an offence that
+	- **(a)** contravenes subsection 91(1) (making or publishing false statement to affect election results); or
+	- **(b)** knowingly contravenes section 92 (publishing false statement of candidate’s withdrawal).
+> 2000, c. 9, s. 486; 2006, c. 9, s. 56; 2007, c. 21, s. 37; 2014, c. 12, s. 91; 2018, c. 31, s. 327.
 
 
 
@@ -13920,10 +13959,10 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Offences requiring intent — dual procedure**
 
-- **(5)** Every person is guilty of an offence who contravenes
-	- **(a)** subsection 321(1) (conducting election advertising using government means of transmission) or subsection 323(1) (conducting election advertising during blackout period); or
-	- **(b)** subsection 328(1) (causing transmission of election survey results during blackout period).
-> 2000, c. 9, s. 495; 2014, c. 12, s. 95.
+- **(5)** Every person is guilty of an offence who
+	- **(a)** knowingly contravenes subsection 323(1) (conducting election advertising during blackout period);
+	- **(b)** knowingly contravenes subsection 328(1) (causing transmission of election survey results during blackout period).
+> 2000, c. 9, s. 495; 2014, c. 12, s. 95; 2018, c. 31, s. 333.
 
 
 
@@ -14808,10 +14847,141 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(2)** As soon as feasible after beginning an investigation, the Commissioner shall give written notice of the investigation to the person whose conduct is being investigated. The notice is not to be given if, in the Commissioner’s opinion, to do so might compromise or hinder the investigation or any other investigation.
 
-**Independence**
+**Public officer — [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
-- **(3)** The Commissioner is to conduct the investigation independently of the Director of Public Prosecutions.
-> 2000, c. 9, s. 510; 2014, c. 12, s. 108.
+- **(3)** For the purposes of Part XV of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), any person who is charged by the Commissioner with duties relating to the administration or enforcement of this Act is deemed to be a public officer.
+> 2000, c. 9, s. 510; 2014, c. 12, s. 108; 2018, c. 31, s. 356.
+
+
+
+
+
+**Order requiring testimony or written return**
+
+**510.01** 
+
+- **(1)** If, on application of the Commissioner or his or her authorized representative, a judge is satisfied by information on oath that there are reasonable grounds to believe that this Act has been contravened or is about to be contravened and that an individual has or is likely to have information that will provide evidence of the contravention, the judge may order the individual to
+	- **(a)** attend as specified in the order and be examined on oath by the Commissioner or the authorized representative on any matter that is relevant to the contravention before an individual, in sections 510.02 to 510.04 referred to as a “presiding officer”, designated in the order; or
+	- **(b)** make and deliver to the Commissioner or the authorized representative, within the time specified in the order, a written return under oath showing in detail the information that is required by the order.
+
+**Date for hearing and notice**
+
+- **(2)** On receipt of the application, the judge shall fix a date for the hearing of the application and direct that notice of the hearing be given, in the manner that the judge may specify, to the individual against whom the order is sought.
+
+**Restriction**
+
+- **(3)** No order may be made under subsection (1) against an individual who is alleged to have committed, or who is about to commit, the contravention to which the application relates.
+
+**When hearing may proceed ex parte**
+
+- **(4)** A judge may proceed *ex parte* to hear and determine the application in the absence of the individual against whom the order is sought if
+	- **(a)** the Commissioner or the authorized representative establishes to the satisfaction of the judge that the disclosure of any information set out in the application would
+		- **(i)** compromise the identity of a confidential informant,
+		- **(ii)** compromise the nature and extent of an ongoing investigation,
+		- **(iii)** endanger an individual engaged in particular intelligence-gathering techniques and thereby prejudice future investigations in which similar techniques would be used, or
+		- **(iv)** prejudice the interests of an innocent individual; or
+	- **(b)** the judge is satisfied for any reason that the ends of justice would be subverted by the disclosure of the information set out in the application.
+
+**Sealing packet of documents**
+
+- **(5)** If an order made under subsection (1) is issued *ex parte*, all documents relating to the application shall, subject to any terms and conditions that the judge considers desirable in the circumstances, including any term or condition concerning the duration of the prohibition, partial disclosure of a document, deletion of any information or the occurrence of a condition, be placed in a packet and sealed by the judge immediately on determination of the application, and that packet shall be kept in the custody of the court in a place to which the public has no access or in any other place that the judge may authorize and shall not be dealt with except in accordance with the terms and conditions specified in the order or as varied under subsection (7).
+
+**Order prohibiting disclosure**
+
+- **(6)** If the order made under subsection (1) is issued *ex parte*, the judge shall make an order prohibiting a person or entity from disclosing, during the period set out in the order,
+	- **(a)** the existence of the application;
+	- **(b)** the existence of the order made under subsection (1); and
+	- **(c)** the content of any testimony given or of any written return made under the order made under subsection (1).
+
+**Application for variance of order**
+
+- **(7)** An application to terminate an order made under subsection (6) or to vary any of its terms and conditions may be made to the judge who made the order or a judge of the same court.
+
+**Effect of order**
+
+- **(8)** An order made under this section has effect anywhere in Canada.
+> 2018, c. 31, s. 357.
+
+
+
+
+
+**Witness competent and compellable**
+
+**510.02** 
+
+- **(1)** An individual who is the subject of an order under paragraph 510.01(1)(a) is competent and may be compelled to give evidence.
+
+**No individual excused from complying with order**
+
+- **(2)** No individual shall be excused from complying with an order that is made under subsection 510.01(1) on the ground that the testimony or written return required of the individual may tend to incriminate the individual or subject them to any proceeding or penalty.
+
+**Attendance of individual whose conduct is being investigated**
+
+- **(3)** An individual whose conduct is being investigated during an examination conducted under an order under paragraph 510.01(1)(a), and their counsel, may attend the examination unless the Commissioner or the authorized representative, or the individual being examined, establishes to the satisfaction of the presiding officer that the presence of the individual whose conduct is being investigated would be prejudicial to the effective conduct of the examination or the investigation.
+
+**Exception**
+
+- **(4)** Subsection (3) does not apply in respect of an examination conducted under an order that was issued *ex parte*.
+
+**Testimony, evidence and return not receivable**
+
+- **(5)** Subject to subsection (6), no testimony given by an individual under an order made under paragraph 510.01(1)(a), or written return made by an individual under an order made under paragraph 510.01(1)(b), and no evidence derived from the testimony or written return, shall be used or received against that individual in any civil or criminal proceedings instituted against them, other than a prosecution for an offence under section 482.1 of this Act or section 132 or 136 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Part XV of the Criminal Code**
+
+- **(6)** Information contained in the testimony or written return referred to in subsection (5) and information derived from such information may be used in an application under Part XV of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Fees**
+
+- **(7)** An individual who is the subject of an order made under paragraph 510.01(1)(a) is entitled to the fees and allowances for so doing as if they were summoned to attend before a superior court of the province in which the individual is summoned to attend.
+
+**Representation by counsel**
+
+- **(8)** A presiding officer shall permit an individual who is being examined under an order made under paragraph 510.01(1)(a) to be represented by counsel.
+> 2018, c. 31, s. 357.
+
+
+
+
+
+**Presiding officer**
+
+**510.03** 
+
+- **(1)** Any individual who is a barrister or advocate of at least ten years standing at the bar of a province, or who has been a barrister or advocate at the bar of a province for at least ten years, may be designated as a presiding officer.
+
+**Remuneration and expenses**
+
+- **(2)** A presiding officer is to be paid the remuneration fixed in the order designating them as such, and is entitled to be paid the travel and living expenses, incurred in the performance of their duties under this Act, in accordance with Treasury Board directives.
+> 2018, c. 31, s. 357.
+
+
+
+
+
+**Administration of oaths**
+
+**510.04** 
+
+- **(1)** The presiding officer may administer oaths for the purpose of examinations conducted under an order made under paragraph 510.01(1)(a).
+
+**Orders of presiding officer**
+
+- **(2)** A presiding officer may make any order that they consider to be proper for the conduct of an examination under an order made under paragraph 510.01(1)(a).
+
+**Examination to be in private**
+
+- **(3)** The examination before the presiding officer shall be conducted in private.
+
+**Application to judge**
+
+- **(4)** A judge may, on application by a presiding officer, order any individual to comply with an order made by the presiding officer under subsection (2).
+
+**Notice**
+
+- **(5)** No order may be made under subsection (4) unless the presiding officer has given the individual in respect of whom the order is sought and the Commissioner 24 hours’ notice of the hearing of the application for the order, or any shorter notice that the judge to whom the application is made considers reasonable.
+> 2018, c. 31, s. 357.
 
 
 
@@ -15373,7 +15543,9 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Institutions**
 
-- **(5)** A returning officer may, with the approval of the Chief Electoral Officer, constitute polling divisions that consist of two or more institutions where seniors or persons with a physical disability reside.
+- **(5)** A returning officer may, with the approval of the Chief Electoral Officer, constitute polling divisions that consist of two or more institutions where seniors or persons with a disability reside.
+> 2000, c. 9, s. 538; 2018, c. 31, s. 368(E).
+
 
 
 
@@ -15394,7 +15566,9 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Time**
 
-- **(2)** No amendment to the list of electoral districts set out in Schedule 3 may be made later than seven days after a representation order and no such amendment becomes effective until notice of it has been published in the Canada Gazette.
+- **(2)** No amendment to the list of electoral districts set out in Schedule 3 may be made later than seven days after the day on which a representation order comes into force and no such amendment becomes effective until notice of it has been published in the Canada Gazette.
+> 2000, c. 9, s. 539; 2018, c. 31, s. 369.
+
 
 
 
@@ -15450,11 +15624,11 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-**Inspection of instructions, correspondence and other reports**
+**Inspection of instructions and other reports**
 
 **541** 
 
-- **(1)** All documents referred to in section 432, 437, 475.4, 476.75, 477.59 or 478.8, all other reports or statements, other than election documents received from election officers, all instructions issued by the Chief Electoral Officer under this Act, all decisions by him or her on points arising under this Act and all correspondence with election officers or others in relation to an election are public records and may be inspected by any person on request during business hours.
+- **(1)** All documents referred to in section 359, 432, 437, 475.4, 476.75, 477.59 or 478.8, all other reports or statements, other than election documents received from election officers, all instructions issued by the Chief Electoral Officer under this Act and all decisions by him or her on points arising under this Act are public records and may be inspected by any person on request during business hours.
 
 **Extracts**
 
@@ -15463,7 +15637,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Evidence**
 
 - **(3)** Any copies of documents referred to in subsection (1) purporting to be certified by the Chief Electoral Officer are admissible in evidence without further proof.
-> 2000, c. 9, s. 541; 2003, c. 19, s. 64; 2014, c. 12, s. 118.
+> 2000, c. 9, s. 541; 2003, c. 19, s. 64; 2014, c. 12, s. 118; 2018, c. 31, s. 370.
 
 
 
@@ -15637,12 +15811,12 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **553** The following shall be paid out of unappropriated moneys forming part of the Consolidated Revenue Fund:
 - **(a)** any amount payable under section 15;
-- **(b)** the remuneration paid to a person employed under section 20, any additional remuneration paid to staff referred to in subsection 19(1) for overtime work to enable the Chief Electoral Officer to exercise his or her powers and discharge his or her duties under this Act and any administration expenses that are incurred for that purpose;
+- **(b)** the remuneration paid to a person engaged or employed under section 20, any remuneration paid to staff referred to in section 19 for overtime work to enable the Chief Electoral Officer to exercise his or her powers and perform his or her duties and functions under this Act and any administration expenses that are incurred for that purpose;
 - **(c)** any expenses incurred by the Chief Electoral Officer to acquire information referred to in paragraph 46(1)(b);
 - **(d)** any fees, costs, allowances or expenses referred to in subsection 542(1) or (4);
 - **(e)** any expenses incurred by the Chief Electoral Officer for preparing and printing election material and for the purchase of election supplies.
 - **(f)** [Repealed, 2014, c. 12, s. 123]
-> 2000, c. 9, s. 553; 2014, c. 12, s. 123.
+> 2000, c. 9, s. 553; 2014, c. 12, s. 123; 2018, c. 31, s. 373.
 
 
 
@@ -16193,7 +16367,7 @@ Yukon
 
 *Northwest Territories*
 
-Western Arctic
+Northwest Territories
 
 
 
@@ -16212,7 +16386,7 @@ Nunavut
 
 
 
-> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95; Canada Gazette Part I, Extra Volume 138, No. 5; Canada Gazette Part I, Extra Volume 149, No. 2.
+> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95; Canada Gazette Part I, Extra Volume 138, No. 5; Canada Gazette Part I, Extra Volume 149, No. 2; 2018, c. 31, s. 376.
 
 
 
