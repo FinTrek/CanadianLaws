@@ -53,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
 - **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation —, 213(4), 242(1) ou 258(3). (*spoiled*)
 
-***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v). (*political affiliation*)
+***appartenance politique*** S’agissant d’un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant(e) », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v). (*political affiliation*)
 
 ***arbitre*** Personne nommée en vertu du paragraphe 332(1). (*Broadcasting Arbitrator*)
 
@@ -126,7 +126,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***jour de clôture*** Le jour prévu à l’article 69. (*closing day for nominations*)
 
-***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1.2)c). (*polling day*)
+***jour du scrutin*** Le jour fixé pour la tenue du scrutin au titre de l’alinéa 57(1.2)c) ou du paragraphe 59(4) ou 77(2). (*polling day*)
 
 ***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
@@ -168,6 +168,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi. (*broadcasting*)
 
+***région de la capitale nationale*** Région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md). (*National Capital Region*)
+
 ***Registre des électeurs*** Registre tenu au titre de l’article 44. (*Register of Electors*)
 
 ***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*personal information*)
@@ -196,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve suffisante d’identité ou de résidence**
 
-- **(3)** Pour l’application de la présente loi, la preuve suffisante d’identité et la preuve suffisante de résidence sont établies par la production de pièces d’identité déterminées par le directeur général des élections.
+- **(3)** Pour l’application de la présente loi, la preuve suffisante d’identité et la preuve suffisante de résidence sont établies de la manière déterminée par le directeur général des élections.
 
 **Heure**
 
@@ -209,7 +211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de jour du scrutin**
 
 - **(6)** Si le bref délivré pour une élection est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), ***jour du scrutin*** s’entend, aux parties 16.1 et 17 et aux sections 1, 2, 4 et 5 de la partie 18, du jour où le bref est retiré ou est réputé l’être.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2 et 155; 2018, ch. 20, art. 1.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2 et 155; 2018, ch. 20, art. 1; 2018, ch. 31, art. 2; 2018, ch. 31, art. 399.
 
 
 
@@ -384,7 +386,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Le directeur général des élections a rang et statut d’administrateur général de ministère. Il exerce ses fonctions à temps plein et ne peut occuper aucune autre charge au service de Sa Majesté ni aucun autre poste.
+- **(1)** Sous réserve des paragraphes 509.1(2) et (3), le directeur général des élections a rang et statut d’administrateur général de ministère. Il exerce ses fonctions à temps plein et ne peut occuper aucune autre charge au service de Sa Majesté ni aucun autre poste.
 
 **Traitement et frais**
 
@@ -397,7 +399,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication avec le gouverneur en conseil**
 
 - **(4)** Il communique, pour l’application de la présente loi, avec le gouverneur en conseil par l’intermédiaire du ministre.
-> 2000, ch. 9, art. 15; 2002, ch. 8, art. 116; 2003, ch. 22, art. 101(A).
+> 2000, ch. 9, art. 15; 2002, ch. 8, art. 116; 2003, ch. 22, art. 101(A); 2018, ch. 31, art. 8.
 
 
 
@@ -428,28 +430,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultations**
 
-- **(3)** Avant d’établir une ligne directrice ou une note d’interprétation, le directeur général des élections en fournit l’ébauche au commissaire ainsi qu’aux membres du comité consultatif des partis politiques constitué par le paragraphe 21.1(1). Le commissaire et les membres peuvent, dans les quinze jours suivant la date d’envoi de l’ébauche, lui fournir leurs observations écrites à ce sujet.
+- **(3)** Avant d’établir une ligne directrice ou une note d’interprétation, le directeur général des élections en fournit l’ébauche au commissaire ainsi qu’aux membres du comité consultatif des partis politiques constitué par le paragraphe 21.1(1). Le commissaire et les membres peuvent, dans les quarante-cinq jours suivant la date d’envoi de l’ébauche, lui fournir leurs observations écrites à ce sujet.
 
 **Observations**
 
 - **(4)** Le directeur général des élections rédige la ligne directrice ou la note d’interprétation en tenant compte de toutes les observations reçues conformément au paragraphe (3).
 
-**Prépublication**
+- **(5)** [Abrogé, 2018, ch. 31, art. 9]
 
-- **(5)** Le directeur général des élections publie sur son site Internet, pour une période de trente jours, la ligne directrice ou la note d’interprétation et un avis précisant que la ligne directrice ou la note d’interprétation sera établie à l’expiration de cette période.
-
-**Prépublication — exigence supplémentaire**
-
-- **(6)** Lorsqu’une ligne directrice ou une note d’interprétation est rédigée à la suite d’une demande faite au titre du paragraphe (2), la ligne directrice ou la note d’interprétation et l’avis sont publiés, en application du paragraphe (5), dans les soixante jours suivant le jour où la demande a été faite. Cependant, si cette période de soixante jours coïncide, en tout ou en partie, avec la période électorale d’une élection générale, ils sont publiés, en application du paragraphe (5), au plus tard soixante jours après le jour du scrutin.
+- **(6)** [Abrogé, 2018, ch. 31, art. 9]
 
 **Établissement**
 
-- **(7)** À l’expiration de la période visée au paragraphe (5), le directeur général des élections établit la ligne directrice ou la note d’interprétation en la versant au registre mentionné à l’article 16.4.
+- **(7)** Le directeur général des élections établit la ligne directrice ou la note d’interprétation en la versant dès que possible après l’avoir rédigée au registre mentionné à l’article 16.4.
 
 **Nature des lignes directrices et notes d’interprétation**
 
 - **(8)** Les lignes directrices et les notes d’interprétation sont établies à titre d’information. Elles ne lient pas les partis enregistrés, les associations enregistrées, les candidats à l’investiture, les candidats ou les candidats à la direction.
-> 2014, ch. 12, art. 5 et 153.
+> 2014, ch. 12, art. 5 et 153; 2018, ch. 31, art. 9.
 
 
 
@@ -463,7 +461,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultations**
 
-- **(2)** Avant de donner son avis, le directeur général des élections en fournit l’ébauche au commissaire ainsi qu’aux membres du comité consultatif des partis politiques constitué par le paragraphe 21.1(1). Le commissaire et les membres peuvent, dans les quinze jours suivant la date d’envoi de l’ébauche, lui fournir leurs observations écrites à ce sujet.
+- **(2)** Avant de donner son avis, le directeur général des élections en fournit l’ébauche au commissaire ainsi qu’aux membres du comité consultatif des partis politiques constitué par le paragraphe 21.1(1). Le commissaire et les membres peuvent, dans les trente jours suivant la date d’envoi de l’ébauche, lui fournir leurs observations écrites à ce sujet.
 
 **Observations**
 
@@ -471,7 +469,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prépublication**
 
-- **(4)** Dans les soixante jours suivant le jour où la demande a été faite, le directeur général des élections publie sur son site Internet, pour une période de trente jours, son avis et une notification portant que cet avis sera donné à l’expiration de cette période. Cependant, si cette période de soixante jours coïncide, en tout ou en partie, avec la période électorale d’une élection générale, la publication est faite au plus tard soixante jours après le jour du scrutin.
+- **(4)** Dans les quatre-vingt-dix jours suivant le jour où la demande a été faite, le directeur général des élections publie sur son site Internet, pour une période de trente jours, son avis et une notification portant que cet avis sera donné à l’expiration de cette période. Cependant, si cette période de quatre-vingt-dix jours coïncide, en tout ou en partie, avec la période électorale d’une élection générale, la publication est faite au plus tard quatre-vingt-dix jours après le jour du scrutin.
 
 **Avis donné**
 
@@ -488,7 +486,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation contraire**
 
 - **(8)** L’avis est contraignant aux termes du paragraphe (6) et constitue un précédent en application du paragraphe (7) tant qu’une interprétation contraire n’a pas été subséquemment formulée au moyen d’une ligne directrice ou d’une note d’interprétation établie en application de l’article 16.1 ou d’un avis donné en application du présent article.
-> 2014, ch. 12, art. 5 et 153.
+> 2014, ch. 12, art. 5 et 153; 2018, ch. 31, art. 10.
 
 
 
@@ -496,8 +494,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Nouvelle interprétation**
 
-**16.3** L’interprétation de toute disposition de la loi formulée dans une ligne directrice ou une note d’interprétation publiée en application du paragraphe 16.1(5) ou dans un avis publié en application du paragraphe 16.2(4) qui contredit une interprétation antérieure — formulée dans une ligne directrice, une note d’interprétation ou un avis, établies ou donné antérieurement — ne remplace cette interprétation antérieure qu’à compter de la date à laquelle la ligne directrice ou la note d’interprétation est établie en application de l’article 16.1 ou l’avis est donné en application de l’article 16.2.
-> 2014, ch. 12, art. 5.
+**16.3** L’interprétation de toute disposition de la loi formulée dans un avis publié en application du paragraphe 16.2(4) qui contredit une interprétation antérieure — formulée dans un avis donné antérieurement — ne remplace cette interprétation antérieure qu’à compter de la date à laquelle le nouvel avis est donné en application de l’article 16.2.
+> 2014, ch. 12, art. 5; 2018, ch. 31, art. 11.
 
 
 
@@ -545,39 +543,42 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**17.1** [Abrogé, 2018, ch. 31, art. 13]
+
+
+
 
 **Programmes d’information et d’éducation populaire**
 
-**17.1** Le directeur général des élections peut mettre en oeuvre des programmes d’information et d’éducation populaire visant à mieux faire connaître le processus électoral aux élèves du primaire et du secondaire.
-> 2014, ch. 12, art. 7.
-
-
-
-
-
-**Publicité**
-
 **18** 
 
-- **(1)** Le directeur général des élections peut diffuser ou faire diffuser des messages publicitaires, au Canada ou à l’étranger, en vue d’informer les électeurs sur l’exercice de leurs droits démocratiques. Ces messages ne peuvent porter que sur :
+- **(1)** Le directeur général des élections peut mettre en oeuvre des programmes d’information et d’éducation populaire visant à mieux faire connaître le processus électoral à la population, particulièrement aux personnes et aux groupes de personnes susceptibles d’avoir des difficultés à exercer leurs droits démocratiques.
+
+**Communication au public**
+
+- **(1.1)** Il peut communiquer au public, au Canada ou à l’étranger, par les médias ou par tout autre moyen qu’il estime indiqué, des renseignements sur le processus électoral canadien de même que sur les droits démocratiques de voter et de se porter candidat à une élection.
+
+**Programmes d’information à l’étranger**
+
+- **(1.2)** Il peut aussi mettre en oeuvre des programmes de diffusion d’information à l’étranger portant sur la façon de voter dans le cadre de la partie 11.
+
+**Accessibilité des renseignements aux électeurs ayant une déficience**
+
+- **(2)** Il rend accessibles aux électeurs ayant une déficience les renseignements ci-après communiqués au titre des paragraphes (1) à (1.2) dans le cadre d’un message publicitaire :
 	- **a)** la façon de se porter candidat;
 	- **b)** la façon pour les électeurs de faire ajouter leur nom à une liste électorale et de faire corriger les renseignements les concernant qui y sont contenus;
 	- **c)** la façon dont les électeurs peuvent, en vertu de l’article 127, exercer leur droit de vote et les lieux, dates et heures pour le faire;
 	- **d)** la façon pour les électeurs d’établir leur identité et leur résidence pour voter, notamment les pièces d’identité qui peuvent être utilisées à cette fin;
-	- **e)** les mesures visant à aider les électeurs ayant un handicap à avoir accès à un bureau de scrutin ou à un bureau de vote par anticipation ou à marquer leur bulletin de vote.
+	- **e)** les mesures visant à aider les électeurs ayant une déficience à avoir accès à un bureau de scrutin ou à un bureau de vote par anticipation ou à marquer leur bulletin de vote.
 
-**Précision**
+**Accessibilité des renseignements aux futurs électeurs ayant une déficience**
 
-- **(1.1)** Il est entendu que le paragraphe (1) n’a pas pour effet d’empêcher le directeur général des élections de diffuser ou de faire diffuser des messages publicitaires à d’autres fins relatives à son mandat.
-
-**Accessibilité des renseignements aux électeurs handicapés**
-
-- **(2)** Le directeur général des élections rend accessibles aux électeurs handicapés les renseignements communiqués au titre du paragraphe (1).
+- **(2.1)** Si, dans le cadre d’un message publicitaire, le directeur général des élections communique des renseignements au titre des paragraphes (1) et (1.1) sur la façon pour les futurs électeurs de faire ajouter leur nom au Registre des futurs électeurs et de faire corriger les renseignements les concernant qui y sont contenus, il rend ces renseignements accessibles aux futurs électeurs ayant une déficience.
 
 **Appels non sollicités**
 
 - **(3)** Le directeur général des élections ne peut communiquer des renseignements au titre du présent article au moyen d’appels, au sens de l’article 348.01, non sollicités.
-> 2000, ch. 9, art. 18; 2014, ch. 12, art. 7.
+> 2000, ch. 9, art. 18; 2014, ch. 12, art. 7; 2018, ch. 31, art. 14.
 
 
 
@@ -585,27 +586,41 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Coopération internationale**
 
-**18.01** Le directeur général des élections peut, à la demande du gouverneur en conseil, fournir aux organismes électoraux d’autres pays ou à des organisations internationales, son aide et sa collaboration en matière électorale.
-> 2014, ch. 12, art. 8.
+**18.01** Le directeur général des élections peut fournir son aide et sa collaboration en matière électorale aux organismes électoraux d’autres pays ou à des organisations internationales.
+> 2014, ch. 12, art. 8; 2018, ch. 31, art. 15.
 
 
 
 
 
-**Nouvelle manière de voter**
+**Études sur la tenue d’un scrutin**
 
-**18.1** Le directeur général des élections peut mener des études sur la tenue d’un scrutin, notamment sur de nouveaux processus de vote, concevoir et mettre à l’essai un nouveau processus de vote pour usage à une élection générale ou partielle ultérieure. Un tel processus ne peut être utilisé pour un vote officiel sans l’agrément préalable des comités du Sénat et de la Chambre des communes qui traitent habituellement des questions électorales ou, s’agissant d’un nouveau processus de vote électronique, sans l’agrément préalable du Sénat et de la Chambre des communes.
-> 2000, ch. 9, art. 18.1; 2001, ch. 21, art. 2; 2014, ch. 12, art. 8.
+**18.1** 
+
+- **(1)** Le directeur général des élections peut mener des études sur la tenue d’un scrutin, notamment sur de nouvelles manières de voter.
+
+**Nouveau processus de vote**
+
+- **(2)** Il peut concevoir et mettre à l’essai un nouveau processus de vote en vue d’une élection ultérieure.
+
+**Technologie de vote — personnes ayant une déficience**
+
+- **(3)** Il est tenu de développer, d’obtenir ou d’adapter une technologie de vote à l’intention des électeurs ayant une déficience et peut mettre à l’essai cette technologie en vue d’une élection ultérieure.
+
+**Agrément préalable**
+
+- **(4)** Ni le nouveau processus de vote ni la technologie de vote mis à l’essai en vertu des paragraphes (2) ou (3) ne peuvent être utilisés lors d’une élection sans l’agrément préalable des comités du Sénat et de la Chambre des communes qui traitent habituellement des questions électorales.
+> 2000, ch. 9, art. 18.1; 2001, ch. 21, art. 2; 2014, ch. 12, art. 8; 2018, ch. 31, art. 15.
 
 
 
 
 
-**Contrats**
+**Pouvoir de contracter**
 
 **18.2** 
 
-- **(1)** Le directeur général des élections peut conclure des contrats, des ententes ou d’autres arrangements en son nom ou au nom de Sa Majesté du chef du Canada.
+- **(1)** Le directeur général des élections peut, dans l’exercice des attributions que lui confèrent la présente loi ou une autre loi fédérale, conclure des contrats, des ententes ou d’autres arrangements en son nom ou au nom de Sa Majesté du chef du Canada.
 
 **Baux**
 
@@ -618,7 +633,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Biens et services**
 
 - **(4)** Malgré l’article 9 de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md), le directeur général des élections peut obtenir des biens et services à l’extérieur de l’administration publique fédérale.
-> 2014, ch. 12, art. 8.
+> 2014, ch. 12, art. 8; 2018, ch. 31, art. 16.
 
 
 
@@ -633,20 +648,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Directeur général adjoint des élections et personnel
+### Personnel
 
 
 
 **Personnel**
 
-**19** 
-
-- **(1)** Le personnel du directeur général des élections se compose d’un cadre appelé directeur général adjoint des élections, nommé par le gouverneur en conseil, et, selon les besoins, d’autres cadres et employés nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Pension de retraite et indemnité**
-
-- **(2)** Le directeur général adjoint des élections est réputé appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2000, ch. 9, art. 19; 2003, ch. 22, art. 102(A).
+**19** Le personnel du directeur général des élections se compose d’employés nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 2000, ch. 9, art. 19; 2003, ch. 22, art. 102(A); 2018, ch. 31, art. 17.
 
 
 
@@ -660,8 +669,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Personnel nommé à titre temporaire**
 
-- **(2)** Les cadres et employés supplémentaires que le directeur général des élections estime nécessaires à l’exercice des attributions que lui confère la présente loi relativement à la préparation et à la tenue d’une élection peuvent être engagés à titre temporaire ou à titre d’employés occasionnels conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-> 2000, ch. 9, art. 20; 2014, ch. 12, art. 10.
+- **(2)** Les employés supplémentaires que le directeur général des élections estime nécessaires à l’exercice des attributions que lui confère la présente loi relativement à la préparation et à la tenue d’une élection peuvent être engagés à titre temporaire ou à titre d’employés occasionnels conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 2000, ch. 9, art. 20; 2014, ch. 12, art. 10; 2018, ch. 31, art. 18.
 
 
 
@@ -669,7 +678,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Délégation**
 
-**21** Le directeur général des élections peut autoriser le directeur général adjoint des élections ou tout autre cadre de son personnel à exercer les fonctions que lui confère la présente loi.
+**21** Le directeur général des élections peut, dans les limites qu’il fixe, déléguer à tout membre de son personnel les attributions que lui confèrent la présente loi ou une autre loi fédérale, sauf le pouvoir de déléguer.
+> 2000, ch. 9, art. 21; 2018, ch. 31, art. 19.
+
 
 
 
@@ -718,7 +729,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les agents de liaison locaux nommés en vertu de l’article 23.2;
 	- **a.1)** les directeurs du scrutin nommés en vertu du paragraphe 24(1);
 	- **b)** les directeurs adjoints du scrutin nommés en vertu des paragraphes 26(1) et 28(5) et les directeurs adjoints du scrutin supplémentaires nommés en vertu du paragraphe 30(1);
-	- **c)** les personnes à qui le directeur du scrutin a délégué des fonctions au titre de l’article 27;
+	- **c)** les personnes à qui le directeur du scrutin a délégué des attributions au titre de l’article 27;
 	- **c.1)** les personnes désignées au titre du paragraphe 28(3.1);
 	- **d)** les agents réviseurs nommés en vertu de l’alinéa 32a);
 	- **e)** les scrutateurs nommés en vertu des alinéas 32b) et c) et du paragraphe 273(1);
@@ -747,7 +758,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les juges et les juges adjoints ou suppléants soit de toute cour supérieure ou de tout tribunal de faillite, soit, au Yukon ou dans les Territoires du Nord-Ouest, de la Cour suprême de ces territoires;
 	- **d.1)** les personnes qui se sont portées candidat à la dernière élection générale ou à une élection partielle ayant été tenue depuis la dernière élection générale;
 	- **e)** les parlementaires qui ont occupé leur poste pendant la session précédant l’élection ou qui l’occupent pendant la session en cours au moment du déclenchement de l’élection;
-	- **f)** les personnes déclarées coupables d’une infraction à la présente loi, à la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou à toute loi provinciale relative aux élections provinciales, municipales ou scolaires dans les sept ans qui précèdent.
+	- **f)** les personnes déclarées coupables, dans les sept ans qui précèdent, d’une infraction à la présente loi ou à la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou à l’un des règlements de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou d’une infraction à toute loi provinciale relative aux élections provinciales, municipales ou scolaires ou à un de ses règlements.
 
 **Qualité d’électeur des fonctionnaires électoraux**
 
@@ -762,7 +773,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 - **(6)** Il est interdit à quiconque d’agir à titre de fonctionnaire électoral, sachant que le présent article le rend inhabile à le faire.
-> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91; 2006, ch. 9, art. 173; 2014, ch. 2, art. 48, ch. 12, art. 12.
+> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91; 2006, ch. 9, art. 173; 2014, ch. 2, art. 48, ch. 12, art. 12; 2018, ch. 31, art. 20.
 
 
 
@@ -838,10 +849,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Destitution**
 
 - **(9)** L’agent de liaison local peut être destitué par le directeur général des élections pour l’un ou l’autre des motifs suivants :
-	- **a)** il est incapable, notamment pour cause de maladie ou d’incapacité physique ou mentale, de s’acquitter d’une manière satisfaisante des attributions que lui confère la présente loi;
-	- **b)** il ne s’est pas acquitté de façon compétente des attributions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections données en vertu de l’alinéa 16c);
+	- **a)** il est incapable, notamment pour cause de maladie ou d’incapacité, d’exercer de manière satisfaisante les attributions que lui confère la présente loi;
+	- **b)** il n’a pas exercé de façon compétente les attributions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections visées à l’alinéa 16c);
 	- **c)** il a contrevenu au paragraphe (8), que ce soit ou non dans l’exercice des attributions que lui confère la présente loi.
-> 2014, ch. 12, art. 13.
+> 2014, ch. 12, art. 13; 2018, ch. 31, art. 22.
 
 
 
@@ -902,19 +913,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation**
 
 - **(7)** Le directeur du scrutin peut être révoqué par le directeur général des élections pour l’un ou l’autre des motifs valables suivants :
-	- **a)** il est incapable, notamment pour cause de maladie ou d’incapacité physique ou mentale, de s’acquitter d’une manière satisfaisante des fonctions que lui confère la présente loi;
-	- **b)** il ne s’est pas acquitté de façon compétente des fonctions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections visées à l’alinéa 16c);
+	- **a)** il est incapable, notamment pour cause de maladie ou d’incapacité, d’exercer de manière satisfaisante les attributions que lui confère la présente loi;
+	- **b)** il n’a pas exercé de façon compétente les attributions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections visées à l’alinéa 16c);
 	- **c)** il n’a pas terminé la révision des limites des sections de vote situées dans sa circonscription conformément à l’instruction donnée en ce sens par le directeur général des élections en application du paragraphe 538(3);
-	- **d)** il a contrevenu au paragraphe (6), que ce soit ou non dans l’exercice de ses fonctions.
+	- **d)** il a contrevenu au paragraphe (6), que ce soit ou non dans l’exercice de ses attributions.
 
 **Suspension temporaire**
 
-- **(8)** Durant la période électorale, le directeur général des élections peut suspendre temporairement le directeur du scrutin de ses fonctions pour l’un des motifs visés au paragraphe (7).
+- **(8)** Le directeur général des élections peut suspendre temporairement le directeur du scrutin pour l’un des motifs visés au paragraphe (7).
 
 **Durée de la suspension**
 
-- **(9)** La suspension est levée cent vingt jours après la fin de la période électorale ou la fin de toute période plus courte que le directeur général des élections juge appropriée. Toutefois, dans le cas où une procédure de destitution du directeur du scrutin est entamée avant ou pendant la suspension, celle-ci n’est levée que lorsque le directeur général des élections rend sa décision finale à cet égard.
-> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2; 2006, ch. 9, art. 174; 2011, ch. 26, art. 13; 2014, ch. 12, art. 14.
+- **(9)** La suspension est levée à l’expiration de la période que le directeur général des élections juge appropriée. Toutefois, dans le cas où une procédure de destitution du directeur du scrutin est entamée avant ou pendant la suspension, celle-ci n’est levée que lorsque le directeur général des élections rend sa décision finale à cet égard.
+> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2; 2006, ch. 9, art. 174; 2011, ch. 26, art. 13; 2014, ch. 12, art. 14; 2018, ch. 31, art. 23.
 
 
 
@@ -971,13 +982,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Sous réserve du paragraphe 24(1.5), en cas d’absence ou d’empêchement du directeur du scrutin ou de vacance de son poste, le directeur adjoint du scrutin assure l’intérim.
 
-**Exercice de l’intérim par une autre personne**
+**Exercice de l’intérim par une autre personne — suspension du directeur du scrutin**
 
-- **(3.01)** En cas de suspension du directeur du scrutin pendant la période électorale, le directeur général des élections peut désigner une personne pour assurer l’intérim à l’égard de l’élection, tant pendant qu’après cette période.
+- **(3.01)** En cas de suspension du directeur du scrutin pendant la période de six mois précédant le jour fixé conformément au paragraphe 56.1(2) pour la tenue d’une élection générale ou pendant toute période électorale qui tombe, en tout ou en partie, en dehors de cette période de six mois, le directeur général des élections peut désigner une personne pour assurer l’intérim à l’égard de l’élection, tant pendant qu’après la période en cause.
 
-**Exercice de l’intérim par une autre personne**
+**Exercice de l’intérim par une autre personne — absence du directeur du scrutin et du directeur adjoint du scrutin**
 
-- **(3.1)** En cas d’absence ou d’empêchement du directeur du scrutin et du directeur adjoint du scrutin, ou de vacance simultanée de leurs postes, pendant la période électorale, le directeur général des élections désigne une personne pour assurer l’intérim à l’égard de l’élection, tant pendant qu’après cette période.
+- **(3.1)** Si, pendant la période de six mois précédant le jour fixé conformément au paragraphe 56.1(2) pour la tenue d’une élection générale ou pendant toute période électorale qui tombe, en tout ou en partie, en dehors de cette période de six mois, le directeur du scrutin est absent ou empêché ou son poste est vacant, et, au même moment, le directeur adjoint du scrutin est absent ou empêché ou son poste est vacant, le directeur général des élections désigne une personne pour assurer l’intérim à l’égard de l’élection, tant pendant qu’après la période en cause.
 
 **Vacance**
 
@@ -986,7 +997,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination d’un nouveau directeur adjoint du scrutin**
 
 - **(5)** Le directeur adjoint du scrutin qui assure l’intérim nomme sans délai un directeur adjoint du scrutin.
-> 2000, ch. 9, art. 28; 2006, ch. 9, art. 176; 2014, ch. 12, art. 16.
+> 2000, ch. 9, art. 28; 2006, ch. 9, art. 176; 2014, ch. 12, art. 16; 2018, ch. 31, art. 26.
 
 
 
@@ -1029,7 +1040,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Restriction**
 
-- **(4)** Il ne peut toutefois exercer les fonctions prévues aux paragraphes 28(1), 60(2), 70(1) et 293(1).
+- **(4)** Il n’est pas, toutefois, un directeur adjoint du scrutin pour l’application des paragraphes 28(1), 60(2), 70(1) et 293(1).
+> 2000, ch. 9, art. 30; 2018, ch. 31, art. 28.
+
 
 
 
@@ -1226,18 +1239,14 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** Lorsqu’une nouvelle circonscription est établie, le directeur général des élections transpose les résultats obtenus lors de la dernière élection générale dans les sections de vote comprises dans la nouvelle circonscription afin de déterminer quels candidats des partis enregistrés, quelles associations enregistrées ou quels partis enregistrés ont le droit de fournir au directeur du scrutin de cette circonscription les noms de personnes aptes à être nommées aux postes de fonctionnaires électoraux.
 
-**Cas spécial**
+- **(2)** [Abrogé, 2018, ch. 31, art. 30]
 
-- **(2)** S’il ne peut, pour une partie de la nouvelle circonscription, transposer les résultats de la dernière élection générale parce qu’aucun candidat n’a été élu en raison du partage des voix, le directeur général des élections transpose, pour cette partie, les résultats de l’élection qui a été déclenchée ultérieurement dans le cadre du paragraphe 29(1.1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md).
-
-**Exception**
-
-- **(3)** Si, dans le cas visé au paragraphe (2), l’élection partielle n’a pas lieu avant qu’une élection générale soit déclenchée, les partis enregistrés qui ont le droit pour cette élection générale de fournir au directeur du scrutin les noms de personnes aptes à être nommées aux postes de fonctionnaires électoraux sont les mêmes que ceux qui l’avaient pour l’élection qui s’est terminée par le partage des voix.
+- **(3)** [Abrogé, 2018, ch. 31, art. 30]
 
 **Avis**
 
-- **(4)** Dès qu’il a déterminé quels candidats, quelles associations enregistrées ou quels partis enregistrés ont le droit de fournir des noms en vertu des paragraphes (1), (2) ou (3), le directeur général des élections en avise ces partis.
-> 2000, ch. 9, art. 41; 2014, ch. 12, art. 22.
+- **(4)** Dès qu’il a déterminé quels candidats, quelles associations enregistrées ou quels partis enregistrés ont le droit de fournir des noms en vertu du paragraphe (1), le directeur général des élections en avise ces partis.
+> 2000, ch. 9, art. 41; 2014, ch. 12, art. 22; 2018, ch. 31, art. 30.
 
 
 
@@ -1261,9 +1270,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Interdictions**
 
 **43** Il est interdit :
-- **a)** d’entraver volontairement l’action d’un fonctionnaire électoral dans l’exercice de ses fonctions;
-- **b)** d’utiliser sans autorisation des pièces d’identité simulant celles des agents réviseurs ou visant à remplacer celles prescrites par le directeur général des élections;
-- **c)** dans le cas d’un fonctionnaire électoral qui a été démis de ses fonctions, de ne pas remettre à son remplaçant ou à la personne autorisée les documents et autres accessoires électoraux qu’il a reçus ou établis dans le cadre de ses fonctions.
+- **a)** d’entraver sciemment l’action d’un fonctionnaire électoral dans l’exercice de ses attributions;
+- **b)** d’utiliser sans autorisation des pièces d’identité simulant celles des fonctionnaires électoraux ou visant à remplacer celles prescrites par le directeur général des élections;
+- **c)** dans le cas d’un fonctionnaire électoral qui a été révoqué ou remplacé, de ne pas remettre au directeur du scrutin ou à la personne autorisée les documents électoraux et le matériel électoral en sa possession.
+> 2000, ch. 9, art. 43; 2018, ch. 31, art. 32.
+
 
 
 
@@ -1277,7 +1288,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas au responsable d’un immeuble à logements multiples si le fait de permettre les activités visées à ce paragraphe peut mettre en danger la santé physique ou affective des résidants de l’immeuble.
-> 2007, ch. 21, art. 3.
+> 2007, ch. 21, art. 3; 2018, ch. 31, art. 33(A).
 
 
 
@@ -1362,6 +1373,20 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(2)** Le directeur général des élections peut modifier l’annexe 2 pour ajouter, modifier ou retrancher la mention d’une loi provinciale ou de toute autre source de renseignements. Aucune modification de ce genre n’entre en vigueur avant la publication d’un avis en ce sens dans la Gazette du Canada.
 > 2000, ch. 9, art. 46; 2007, ch. 21, art. 6.
+
+
+
+
+
+**Renseignements — ministre de la Citoyenneté et de l’Immigration**
+
+**46.01** Malgré le sous-alinéa 46(1)a)(ii), le ministre de la Citoyenneté et de l’Immigration peut, à la demande écrite du directeur général des élections et en vue d’aider celui-ci à mettre à jour le Registre des électeurs, notamment en y radiant le nom des personnes qui ne sont pas des électeurs, lui communiquer les renseignements ci-après sur une personne qui sont contenus dans les banques de données que le ministère de la Citoyenneté et de l’Immigration tient concernant les résidents permanents et les étrangers, au sens donné à ces termes au paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), et la date où les renseignements visés à l’alinéa d) ont été inclus ou mis à jour dans ces banques :
+- **a)** nom et prénoms;
+- **b)** genre;
+- **c)** date de naissance;
+- **d)** adresses;
+- **e)** identificateur unique assigné par ce ministre sous le régime de cette loi.
+> 2018, ch. 31, art. 40.
 
 
 
@@ -1601,7 +1626,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 - **(1.2)** La proclamation ou le décret :
 	- **a)** ordonne au directeur général des élections de délivrer un bref au directeur du scrutin de chacune des circonscriptions visées;
 	- **b)** fixe la date de délivrance du bref;
-	- **c)** fixe la date de tenue du scrutin, laquelle doit être éloignée d’au moins trente-six jours de la délivrance du bref.
+	- **c)** fixe la date de tenue du scrutin, laquelle date doit tomber au plus tôt le trente-sixième jour suivant la date de délivrance du bref et au plus tard le cinquantième jour suivant cette date.
 
 **Élection générale**
 
@@ -1621,7 +1646,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Calcul des délais si le jour du scrutin est un mardi**
 
 - **(5)** Lorsque le jour du scrutin est un mardi en raison du paragraphe (4) ou de l’article 56.2, les délais fixés par la présente loi pour l’accomplissement de tout acte avant ou après le jour du scrutin sont calculés comme si le jour du scrutin était le lundi.
-> 2000, ch. 9, art. 57; 2001, ch. 21, art. 5; 2007, ch. 10, art. 2.
+> 2000, ch. 9, art. 57; 2001, ch. 21, art. 5; 2007, ch. 10, art. 2; 2018, ch. 31, art. 47.
 
 
 
@@ -1644,11 +1669,30 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Mesures à prendre par le directeur général des élections**
 
-- **(2)** Dans les cas visés au paragraphe (1), le directeur général des élections publie dans la Gazette du Canada un avis de retrait du bref et délivre un nouveau bref dans les trois mois qui suivent la date de publication de l’avis de retrait.
+- **(2)** Dans les cas visés au paragraphe (1), le directeur général des élections publie dans la Gazette du Canada un avis de retrait du bref et, sur ordre du gouverneur en conseil, délivre un nouveau bref dans les trois mois qui suivent la date de publication de l’avis de retrait.
 
 **Jour du scrutin**
 
-- **(3)** Le nouveau jour du scrutin ne peut être éloigné de plus de trois mois de la délivrance du nouveau bref.
+- **(3)** Le nouveau jour du scrutin est fixé par le gouverneur en conseil et tombe au plus tard le cinquantième jour suivant la date de la délivrance du nouveau bref.
+
+**Report du scrutin et nouveau jour du scrutin**
+
+- **(4)** Si le directeur général des élections certifie à l’égard d’une circonscription qu’il est pratiquement impossible, par suite d’une inondation, d’un incendie ou de toute autre calamité, d’appliquer la présente loi, le gouverneur en conseil peut, s’il est d’avis que le retrait du bref en vertu du paragraphe (1) n’est pas justifié, ordonner que le scrutin soit ajourné d’au plus sept jours — et que la période électorale soit prolongée d’un nombre de jours correspondant — pour la circonscription. Il fixe alors la date du nouveau jour du scrutin.
+
+**Règles applicables en cas de report du scrutin**
+
+- **(5)** Lorsque le gouverneur en conseil ordonne que le scrutin soit ajourné pour une circonscription au titre du paragraphe (4), les règles ci-après s’appliquent pour cette circonscription relativement à tout délai fixé par la présente loi pour l’accomplissement de tout acte avant le jour du scrutin :
+	- **a)** si une chose doit ou peut être accomplie au titre de la présente loi un jour qui est un certain nombre de jours précédant le jour du scrutin ou à l’intérieur d’une période précédant le jour du scrutin et que ce jour a lieu ou que cette période se termine avant le jour où le gouverneur ordonne l’ajournement, le jour du scrutin est réputé être le jour fixé au titre de l’alinéa 57(1.2)c) et non pas le jour fixé au titre du paragraphe (4);
+	- **b)** si une chose doit ou peut être accomplie au titre de la présente loi à l’intérieur d’une période qui se termine le jour du scrutin ou avant ce jour et que cette période se termine le jour où le gouverneur ordonne l’ajournement — ou après cette date — :
+		- **(i)** la chose accomplie conformément à la présente loi le jour où le gouverneur ordonne l’ajournement ou avant cette date est valide,
+		- **(ii)** sous réserve du sous-alinéa (i), la chose doit ou peut dorénavant être accomplie à l’intérieur d’une période, prolongée du nombre de jours correspondant au nombre de jours visé par l’ajournement du scrutin;
+	- **c)** si une chose doit ou peut être accomplie au titre de la présente loi un jour qui est un certain nombre de jours précédant le jour du scrutin et que ce jour a lieu le jour où le gouverneur ordonne l’ajournement :
+		- **(i)** la chose accomplie conformément à la présente loi le jour où le gouverneur ordonne l’ajournement est valide,
+		- **(ii)** sous réserve du sous-alinéa (i), le jour où la chose doit ou peut dorénavant être accomplie est reporté du nombre de jours correspondant au nombre de jours visé par l’ajournement du scrutin;
+	- **d)** lorsqu’une période est prolongée au titre du sous-alinéa b)(ii) ou qu’un jour est reporté au titre du sous-alinéa c)(ii), toute mention d’un nombre de jours précédant le jour du scrutin l’emporte sur toute mention d’un jour de la semaine précédant le jour du scrutin;
+	- **e)** pour l’application du présent paragraphe, si le jour du scrutin initial fixé au titre de l’alinéa 57(1.2)c) est un mardi en raison de l’article 56.2 ou du paragraphe 57(4), ce jour est réputé être un lundi.
+> 2000, ch. 9, art. 59; 2018, ch. 31, art. 48.
+
 
 
 
@@ -1657,11 +1701,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **60** 
 
-- **(1)** Dès la réception du bref ou dès que le directeur général des élections lui en a notifié l’existence, le directeur du scrutin ouvre en un lieu approprié de la circonscription un bureau avec accès de plain-pied, pour toute la période électorale.
+- **(1)** Dès réception du bref ou dès que le directeur général des élections lui en a notifié l’existence, le directeur du scrutin ouvre, pour toute la période électorale, en un lieu approprié de la circonscription un bureau situé dans un local qui est accessible aux électeurs ayant une déficience.
 
 **Présence au bureau**
 
 - **(2)** Le directeur général des élections peut fixer les heures d’ouverture du bureau, de même que le nombre minimal d’heures de présence obligatoire du directeur du scrutin et du directeur adjoint du scrutin au bureau.
+> 2000, ch. 9, art. 60; 2018, ch. 31, art. 49.
+
 
 
 
@@ -1787,7 +1833,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 		- **(ii)** l’adresse indiquée pour la signification de documents sous le régime de la présente loi,
 		- **(iii)** les nom et adresse de son agent officiel,
 		- **(iv)** les nom, adresse et profession du vérificateur nommé en conformité avec le paragraphe 477.1(2),
-		- **(v)** le nom du parti politique qui la soutient ou, faute de soutien, son intention d’être désignée par la mention « indépendant » ou de n’avoir aucune désignation d’appartenance politique dans les documents électoraux;
+		- **(v)** le nom du parti politique qui la soutient ou, faute de soutien, son intention d’être désignée par la mention « indépendant(e) » ou de n’avoir aucune désignation d’appartenance politique dans les documents électoraux;
 	- **b)** une déclaration sous serment de la personne qui désire se porter candidat attestant qu’elle consent à la candidature, signée devant un témoin ayant qualité d’électeur, la personne devant laquelle elle prête serment ne pouvant toutefois agir comme témoin;
 	- **c)** la signature du témoin visé à l’alinéa b);
 	- **d)** une déclaration signée par l’agent officiel attestant qu’il a accepté d’agir à ce titre;
@@ -1810,7 +1856,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Notification et détermination**
 
 - **(4)** Si le directeur du scrutin estime que le surnom d’un candidat visé à l’alinéa (2)b) est susceptible d’être confondu avec le nom d’un parti politique, il notifie le directeur général des élections qui détermine si, à son avis, le surnom est conforme à cet alinéa.
-> 2000, ch. 9, art. 66; 2001, ch. 21, art. 7; 2014, ch. 12, art. 26.
+> 2000, ch. 9, art. 66; 2001, ch. 21, art. 7; 2014, ch. 12, art. 26; 2018, ch. 31, art. 53(F).
 
 
 
@@ -1906,16 +1952,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-
-**Transmission du cautionnement**
-
-**72** 
-
-- **(1)** Dès réception du cautionnement, le directeur du scrutin, après avoir donné un reçu au témoin, le transmet sans délai au directeur général des élections, lequel le remet, sans délai, au receveur général.
-
-**Remboursement du cautionnement**
-
-- **(2)** En cas de rejet de la candidature, le cautionnement est remboursé à la personne qui désirait se porter candidat.
+**72** [Abrogé, 2018, ch. 31, art. 59]
 
 
 
@@ -2083,18 +2120,28 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Publication de fausses déclarations concernant le candidat**
+**Publication de fausses déclarations pour influencer le résultat d’une élection**
 
-**91** Il est interdit de faire ou de publier sciemment une fausse déclaration concernant la réputation ou la conduite personnelle d’un candidat ou d’une personne qui désire se porter candidat avec l’intention d’influencer les résultats de l’élection.
-> 2000, ch. 9, art. 91; 2001, ch. 21, art. 10(A).
+**91** 
+
+- **(1)** Il est interdit à toute personne ou entité, pendant la période électorale, de faire ou de publier avec l’intention d’influencer les résultats d’une élection :
+	- **a)** une fausse déclaration selon laquelle un candidat, une personne qui désire se porter candidat, le chef d’un parti politique ou une personnalité publique associée à un parti politique a commis une infraction à une loi fédérale ou provinciale ou à un règlement d’une telle loi, a été accusé d’une telle infraction ou fait l’objet d’une enquête relativement à une telle infraction;
+	- **b)** une fausse déclaration concernant la citoyenneté, le lieu de naissance, les études, les qualifications professionnelles ou l’appartenance à un groupe ou à une association d’un candidat, d’une personne qui désire se porter candidat, du chef d’un parti politique ou d’une personnalité publique associée à un parti politique.
+
+**Précision**
+
+- **(2)** Le paragraphe (1) s’applique quel que soit le lieu de l’élection ou celui où la déclaration a été faite ou publiée.
+> 2000, ch. 9, art. 91; 2001, ch. 21, art. 10(A); 2018, ch. 31, art. 61.
 
 
 
 
 
-**Fausse déclaration**
+**Publication de fausses déclarations relatives au désistement**
 
-**92** Il est interdit de publier sciemment une fausse déclaration au sujet du désistement d’un candidat.
+**92** Il est interdit à toute personne ou entité de publier une fausse déclaration portant que le candidat s’est désisté.
+> 2000, ch. 9, art. 92; 2018, ch. 31, art. 61.
+
 
 
 
@@ -2336,55 +2383,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-
-### Oppositions
-
-
-
-**Oppositions**
-
-**103** 
-
-- **(1)** Au plus tard le quatorzième jour précédant le jour du scrutin, tout électeur inscrit sur une liste électorale peut faire opposition, auprès du directeur du scrutin, à l’inscription d’une autre personne sur une des listes électorales de sa circonscription.
-
-**Procédure d’opposition**
-
-- **(2)** L’électeur souscrit sous serment une déclaration d’opposition, selon le formulaire prescrit, alléguant l’inhabilité de la personne à voter dans cette circonscription et la fait parvenir au directeur du scrutin.
-
-**Transmission à l’intéressé**
-
-- **(3)** Sur réception de la déclaration ou le lendemain, le directeur du scrutin envoie à la personne visée par l’opposition, à l’adresse de celle-ci figurant sur la liste électorale ainsi qu’à toute autre adresse indiquée dans la déclaration, un avis, selon le formulaire prescrit, l’informant qu’elle peut établir qu’elle est un électeur habile à voter dans la circonscription :
-	- **a)** soit en comparaissant devant lui, en personne ou par représentant, à la date précisée dans l’avis, celle-ci ne pouvant toutefois être postérieure au onzième jour précédant le jour du scrutin;
-	- **b)** soit en lui fournissant, avant cette échéance, tout document qu’elle estime approprié.
-
-**Transmission aux candidats**
-
-- **(4)** Le directeur du scrutin envoie dans les meilleurs délais une copie de l’avis à chacun des candidats de la circonscription.
-
-**Présence des représentants des candidats**
-
-- **(5)** Si la personne visée par l’opposition décide de comparaître devant lui conformément à l’alinéa (3)a), le directeur du scrutin doit autoriser la présence d’un représentant de chaque candidat de la circonscription. Cependant, aucun représentant n’a le droit d’intervenir sans sa permission.
+**103** [Abrogé, 2018, ch. 31, art. 68]
 
 
 
-
-**Interrogatoire sous serment**
-
-**104** 
-
-- **(1)** Après avoir envoyé l’avis à la personne visée par l’opposition, le directeur du scrutin peut interroger sous serment l’auteur de celle-ci, la personne visée — si elle désire présenter des observations — , ainsi que tout témoin présent; il fonde alors sa décision sur les éléments de preuve recueillis.
-
-**Charge de la preuve**
-
-- **(2)** Il incombe à l’auteur de l’opposition de faire la preuve qu’il existe un motif suffisant pour radier le nom d’une personne d’une liste électorale.
-
-**Obligation de présenter des éléments de preuve**
-
-- **(3)** Le fait que la personne visée par l’opposition ne se présente pas devant le directeur du scrutin lorsque celui-ci étudie l’opposition ou ne lui fournit aucune preuve établissant qu’elle est habile à voter dans la circonscription ne dispense pas l’auteur de l’opposition de présenter au directeur du scrutin des éléments de preuve établissant, selon la prépondérance des probabilités, que le nom de la personne visée ne devrait pas figurer sur la liste électorale.
-
-**Décision**
-
-- **(4)** Après étude de l’opposition, le directeur du scrutin soit radie le nom de la personne visée de la liste électorale sur laquelle il figure, soit permet qu’il y soit maintenu.
+**104** [Abrogé, 2018, ch. 31, art. 68]
 
 
 
@@ -2535,8 +2538,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 - **e)** de demander volontairement l’inscription sur une liste électorale du nom d’une chose ou d’un animal;
 - **f)** d’utiliser sciemment un renseignement personnel figurant à une liste électorale à une fin autre que les fins suivantes :
 	- **(i)** la communication, conformément à l’article 110, des partis enregistrés, des partis admissibles, des députés et des candidats avec des électeurs,
-	- **(ii)** une élection ou un référendum fédéral.
-> 2000, ch. 9, art. 111; 2014, ch. 12, art. 39.
+	- **(ii)** l’exécution et le contrôle d’application de la présente loi ou de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md).
+> 2000, ch. 9, art. 111; 2014, ch. 12, art. 39; 2018, ch. 31, art. 74.
 
 
 
@@ -2625,7 +2628,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Nom de l’imprimeur et affidavit**
 
-- **(6)** Les bulletins de vote doivent porter le nom de l’imprimeur qui doit, lorsqu’il les livre au directeur du scrutin, lui remettre une déclaration sous serment, selon le formulaire prescrit, précisant leur description, le nombre qu’il lui livre et le fait qu’il s’est conformé au paragraphe (5).
+- **(6)** Les bulletins de vote doivent porter le nom de l’imprimeur qui doit, lorsqu’il les livre au directeur du scrutin, lui remettre un affidavit, selon le formulaire prescrit, précisant leur description, le nombre qu’il lui livre et le fait qu’il s’est conformé au paragraphe (5).
+> 2000, ch. 9, art. 116; 2018, ch. 31, art. 79(F).
+
 
 
 
@@ -2644,16 +2649,16 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **c)** au plus tard dans les quarante-huit heures suivant la clôture des candidatures, le parti est enregistré.
 	- **d)** [Abrogé, 2004, ch. 24, art. 2]
 
-**Mention « indépendant »**
+**Mention « indépendant(e) »**
 
-- **(3)** Le bulletin de vote porte la mention « indépendant » sous le nom du candidat qui l’a demandé conformément au sous-alinéa 66(1)a)(v), et seulement dans ce cas.
+- **(3)** Le bulletin de vote porte la mention « indépendant(e) » sous le nom du candidat qui l’a demandé conformément au sous-alinéa 66(1)a)(v), et seulement dans ce cas.
 
 - **(4)** [Abrogé, 2001, ch. 21, art. 12]
 
 **Mention de l’adresse ou de la profession**
 
-- **(5)** Dans les cas où au moins deux candidats ont le même nom et ont indiqué leur intention d’être désignés par la mention « indépendant » ou de n’avoir aucune désignation de parti dans le cadre du sous-alinéa 66(1)a)(v), les bulletins de vote mentionnent l’adresse ou la profession de ces candidats s’ils en font la demande par écrit au directeur du scrutin, au plus tard à 17 h le jour de clôture.
-> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2; 2007, ch. 21, art. 20; 2014, ch. 12, art. 40.
+- **(5)** Dans les cas où au moins deux candidats ont le même nom et ont indiqué leur intention d’être désignés par la mention « indépendant(e) » ou de n’avoir aucune désignation de parti dans le cadre du sous-alinéa 66(1)a)(v), les bulletins de vote mentionnent l’adresse ou la profession de ces candidats s’ils en font la demande par écrit au directeur du scrutin avant 17 h le jour de clôture.
+> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2; 2007, ch. 21, art. 20; 2014, ch. 12, art. 40; 2018, ch. 31, art. 80(F).
 
 
 
@@ -3153,7 +3158,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Publication**
 
 - **(7)** Chaque année et dans les trois jours suivant la date de délivrance du bref, le directeur général des élections publie, selon les modalités qu’il estime indiquées, un avis indiquant les types de pièces autorisés pour l’application de l’alinéa (2)b). Le premier avis annuel est publié au plus tard six mois après l’entrée en vigueur du présent paragraphe.
-> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21, ch. 37, art. 1; 2014, ch. 12, art. 46.
+> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21, ch. 37, art. 1; 2014, ch. 12, art. 46; 2018, ch. 31, art. 93(A).
 
 
 
@@ -3351,7 +3356,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Secret**
 
 - **(4)** Il est interdit à la personne qui aide un électeur en vertu du présent article de divulguer directement ou indirectement le vote de l’électeur.
-> 2000, ch. 9, art. 155, ch. 12, art. 40.
+> 2000, ch. 9, art. 155, ch. 12, art. 40; 2018, ch. 31, art. 101(A).
 
 
 
@@ -3666,20 +3671,24 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Fusion de districts de vote par anticipation**
 
-- **(4)** Le directeur du scrutin peut, sur demande présentée au plus tard quatre jours après la délivrance du bref et avec l’agrément du directeur général des élections, fusionner deux districts de vote par anticipation.
+- **(4)** Le directeur du scrutin peut, sur demande présentée au plus tard quatre jours après la délivrance du bref et avec l’agrément préalable du directeur général des élections, fusionner deux districts de vote par anticipation.
 
 **Demande de modification de l’emplacement d’un bureau de vote par anticipation**
 
-- **(5)** Si une demande de modification de l’emplacement d’un bureau de vote par anticipation est présentée au directeur du scrutin au plus tard quatre jours après la délivrance du bref, le directeur du scrutin peut, avec l’agrément du directeur général des élections, prendre des dispositions en vue de changer le bureau de place.
+- **(5)** Si une demande de modification de l’emplacement d’un bureau de vote par anticipation est présentée au directeur du scrutin au plus tard quatre jours après la délivrance du bref, celui-ci peut, avec l’agrément préalable du directeur général des élections, prendre des dispositions en vue de changer le bureau de place.
 
-**Accès de plain-pied**
+**Accès**
 
-- **(6)** Le bureau de vote par anticipation doit fournir un accès de plain-pied.
+- **(6)** Le bureau de vote par anticipation doit être situé dans un local qui est accessible aux électeurs ayant une déficience.
 
 **Exception**
 
-- **(7)** Lorsque le directeur du scrutin est incapable d’obtenir un local convenable avec accès de plain-pied, il peut, avec l’agrément du directeur général des élections, établir un bureau de vote par anticipation dans un local qui n’a pas d’accès de plain-pied.
-> 2000, ch. 9, art. 168; 2007, ch. 21, art. 29.
+- **(7)** Lorsqu’il est incapable d’obtenir un local convenable qui est accessible aux électeurs ayant une déficience, le directeur du scrutin peut, avec l’agrément préalable du directeur général des élections, établir un bureau de vote par anticipation dans un local qui n’est pas ainsi accessible.
+
+**Bureau de vote par anticipation situé dans plus d’un local**
+
+- **(8)** S’il estime que le district de vote par anticipation est constitué, en tout ou en partie, de collectivités éloignées, isolées ou à faible densité, le directeur du scrutin peut, avec l’agrément préalable du directeur général des élections et en conformité avec les instructions de celui-ci, établir le bureau de vote par anticipation de ce district dans des locaux situés dans plus d’une de ces collectivités et faire en sorte que les fonctionnaires électoraux affectés à ce bureau se présentent, avec l’urne, les bulletins de vote et les autres documents électoraux nécessaires, à l’un ou l’autre de ces différents locaux à différents jours du vote par anticipation en vue de recueillir les votes des électeurs. Il est entendu que les paragraphes (5) à (7) s’appliquent à ce bureau.
+> 2000, ch. 9, art. 168; 2007, ch. 21, art. 29; 2018, ch. 31, art. 115.
 
 
 
@@ -3979,10 +3988,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 ### Administration et formalités préliminaires
 
 
-
-**Établissement des territoires de vote**
-
-**180** Pour l’application de la présente partie, est établi un territoire de vote dont le bureau central est situé à Ottawa. Le directeur général des élections peut, s’il l’estime indiqué, établir d’autres territoires de vote ou des centres administratifs, au Canada ou à l’étranger.
+**180** [Abrogé, 2018, ch. 31, art. 125]
 
 
 
@@ -4058,6 +4064,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
+**Distribution du matériel électoral**
+
+**186.1** Sans délai après la délivrance des brefs, l’administrateur des règles électorales spéciales envoie aux commandants et aux autres personnes, ou lieux, qu’il estime indiqués le matériel électoral nécessaire à l’application de la présente partie, y compris le matériel servant à déterminer la circonscription dans laquelle l’électeur peut voter.
+> 2018, ch. 31, art. 127.
+
+
+
+
+
 **Liste des candidats**
 
 **187** Le directeur général des élections établit la liste des candidats par circonscription et, après le nom de chaque candidat, indique l’appartenance politique de celui-ci conformément à l’article 117.
@@ -4065,18 +4080,15 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Transmission de la liste des candidats**
+**Fourniture de la liste des candidats**
 
-**188** Le directeur général des élections transmet sans délai à chacun des agents de liaison un nombre suffisant d’exemplaires de la liste des candidats.
+**188** Sans délai après l’établissement de la liste des candidats, l’administrateur des règles électorales spéciales fournit cette liste à l’agent coordonnateur, à chaque agent de liaison et commandant, ainsi qu’aux autres personnes qu’il estime indiqués.
+> 2000, ch. 9, art. 188; 2018, ch. 31, art. 128.
 
 
 
 
-**Distribution du matériel électoral**
-
-**189** L’administrateur des règles électorales spéciales envoie aux commandants et aux autres personnes qu’il estime indiquées ou aux lieux qu’il estime indiqués :
-- **a)** sans délai après la délivrance des brefs, une quantité suffisante de matériel électoral, y compris les indicateurs de rues et le guide des circonscriptions servant à déterminer la circonscription pour laquelle l’électeur peut voter;
-- **b)** sans délai après qu’elle est établie, un nombre suffisant d’exemplaires de la liste des candidats.
+**189** [Abrogé, 2018, ch. 31, art. 128]
 
 
 
@@ -4086,7 +4098,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-#### Définitions
+#### Définitions et interprétation
 
 
 
@@ -4668,7 +4680,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Délai**
 
-**229** Pour être compté, le bulletin de vote spécial doit parvenir au bureau du directeur général des élections, à Ottawa, au plus tard à 18 h le jour du scrutin.
+**229** Pour être compté, le bulletin de vote spécial doit parvenir à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, au plus tard à 18 h le jour du scrutin.
+> 2000, ch. 9, art. 229; 2018, ch. 31, art. 156.
+
 
 
 
@@ -4853,32 +4867,36 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Limitation fonctionnelle**
+**Aide**
 
 **243** 
 
-- **(1)** Lorsqu’un électeur qui se présente en personne au bureau du directeur du scrutin ne peut lire ou a une limitation fonctionnelle qui le rend incapable de voter de la manière prévue par la présente section, le fonctionnaire électoral désigné l’aide :
+- **(1)** Lorsqu’un électeur qui se présente en personne au bureau du directeur du scrutin ne peut lire ou a une déficience qui le rend incapable de voter de la manière prévue par la présente section, le fonctionnaire électoral désigné l’aide :
 	- **a)** en remplissant la déclaration figurant sur l’enveloppe extérieure et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
 	- **b)** en marquant le bulletin de vote selon le choix de l’électeur, en présence de celui-ci.
 
 **Note**
 
 - **(2)** Le fonctionnaire électoral en présence duquel est donné le vote de l’électeur en vertu du paragraphe (1) indique que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure.
+> 2000, ch. 9, art. 243; 2018, ch. 31, art. 164.
 
 
 
 
-**Limitation fonctionnelle : à domicile**
+
+**Vote à domicile**
 
 **243.1** 
 
-- **(1)** Sur demande d’un électeur incapable, à la fois, de se présenter en personne au bureau du directeur du scrutin et de voter de la manière prévue par la présente section à cause d’une limitation fonctionnelle ou parce qu’il ne peut lire, le fonctionnaire électoral désigné se rend au lieu d’habitation de l’électeur et, en présence d’un témoin choisi par celui-ci, l’aide :
-	- **a)** en remplissant la déclaration figurant sur l’enveloppe extérieure et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
+- **(1)** Sur demande d’un électeur qui, d’une part, a une déficience qui le rend incapable de se présenter en personne au bureau du directeur du scrutin et, d’autre part, ne peut lire ou a une déficience qui le rend incapable de voter de la manière prévue par la présente section, un fonctionnaire électoral se rend au lieu d’habitation de l’électeur et, en présence d’un témoin choisi par celui-ci, l’aide :
+	- **a)** en remplissant la déclaration visée à l’alinéa 227(2)c) et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
 	- **b)** en marquant le bulletin de vote selon le choix de l’électeur, en présence de celui-ci.
 
 **Note**
 
 - **(2)** Le fonctionnaire électoral et le témoin en présence desquels est donné le vote de l’électeur en vertu du paragraphe (1) indiquent que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure.
+> 2000, ch. 9, art. 243.1; 2018, ch. 31, art. 166.
+
 
 
 
@@ -5088,17 +5106,19 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Limitation fonctionnelle**
+**Aide**
 
 **259** 
 
-- **(1)** Lorsqu’un électeur ne peut lire ou a une limitation fonctionnelle qui le rend incapable de voter de la manière prévue par la présente section, le scrutateur l’aide :
+- **(1)** Lorsqu’un électeur ne peut lire ou a une déficience qui le rend incapable de voter de la manière prévue par la présente section, un fonctionnaire électoral affecté au bureau de scrutin l’aide :
 	- **a)** en remplissant la déclaration figurant sur l’enveloppe extérieure et en inscrivant le nom de l’électeur à l’endroit prévu pour sa signature;
-	- **b)** en inscrivant sur le bulletin de vote spécial le nom du candidat indiqué par l’électeur, en présence de celui-ci et du greffier du scrutin.
+	- **b)** en marquant le bulletin de vote spécial conformément aux instructions de l’électeur, en présence de celui-ci et d’un autre fonctionnaire électoral affecté au bureau.
 
 **Note**
 
-- **(2)** Le scrutateur et le greffier du scrutin indiquent que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure.
+- **(2)** Les fonctionnaires électoraux indiquent que l’électeur a été aidé en signant la note figurant sur l’enveloppe extérieure.
+> 2000, ch. 9, art. 259; 2018, ch. 31, art. 179.
+
 
 
 
@@ -5175,7 +5195,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **a)** les renseignements relatifs à l’électeur qui y figurent ne correspondent pas à ceux qui figurent sur la demande d’inscription et de bulletin de vote spécial;
 	- **b)** sauf cas visés aux articles 216, 243 et 259, elle ne porte pas la signature de l’électeur;
 	- **c)** il est impossible de déterminer la circonscription de l’électeur dont le bulletin est contenu dans l’enveloppe;
-	- **d)** elle a été reçue à Ottawa par l’administrateur des règles électorales spéciales après 18 h le jour du scrutin;
+	- **d)** l’enveloppe extérieure est parvenue à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, après 18 h le jour du scrutin;
 	- **e)** elle se rapporte à une circonscription pour laquelle le scrutin a été ajourné dans les circonstances visées à l’article 77.
 
 **Électeur qui a voté plus d’une fois**
@@ -5192,6 +5212,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Rapport**
 
 - **(4)** L’administrateur des règles électorales spéciales établit un rapport du nombre d’enveloppes extérieures mises de côté.
+> 2000, ch. 9, art. 267; 2018, ch. 31, art. 182.
+
 
 
 
@@ -5338,7 +5360,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **a)** les renseignements relatifs à l’électeur qui y figurent ne correspondent pas à ceux qui figurent sur la demande d’inscription et de bulletin de vote spécial;
 	- **b)** sauf les cas visés aux articles 243 ou 243.1, elle ne porte pas la signature de l’électeur;
 	- **c)** plus d’un bulletin de vote a été délivré à l’électeur;
-	- **d)** elle est reçue après le délai fixé.
+	- **d)** l’enveloppe extérieure est reçue après le délai fixé.
 
 **Oppositions**
 
@@ -5347,6 +5369,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Indication des motifs de mise de côté**
 
 - **(3)** Le scrutateur indique sur l’enveloppe extérieure mise de côté le motif pour lequel elle l’est et la paraphe en même temps que le greffier du scrutin.
+> 2000, ch. 9, art. 277; 2018, ch. 31, art. 187(F).
+
 
 
 
@@ -5789,9 +5813,13 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** Tout électeur peut, dans les quatre jours qui suivent la délivrance du certificat visé à l’article 297 et après en avoir avisé par écrit le directeur du scrutin, présenter une requête en dépouillement à un juge.
 
+**Avis**
+
+- **(1.1)** Le directeur du scrutin donne avis par écrit de la requête à chaque candidat ou à son agent officiel.
+
 **Motifs du dépouillement**
 
-- **(2)** Le juge fixe la date du dépouillement s’il appert, d’après la déclaration sous serment souscrite par un témoin digne de foi que l’une ou l’autre des situations suivantes existe :
+- **(2)** Le juge fixe la date du dépouillement s’il appert, d’après l’affidavit d’un témoin digne de foi, que l’une ou l’autre des situations suivantes existe :
 	- **a)** un scrutateur, en comptant les votes, a mal compté ou rejeté par erreur des bulletins de vote ou le nombre qu’il a inscrit sur le relevé du scrutin comme étant le nombre de bulletins de vote déposés en faveur d’un candidat n’est pas exact;
 	- **b)** le directeur du scrutin a mal additionné les résultats figurant sur les relevés du scrutin.
 
@@ -5810,7 +5838,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Obligation de comparaître**
 
 - **(6)** Le directeur du scrutin est tenu d’obéir à l’assignation à comparaître visée au paragraphe (4) et doit être présent au dépouillement judiciaire jusqu’à la fin de celui-ci.
-> 2000, ch. 9, art. 301; 2014, ch. 12, art. 67.
+> 2000, ch. 9, art. 301; 2014, ch. 12, art. 67; 2018, ch. 31, art. 201.
 
 
 
@@ -5890,8 +5918,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **308** Une fois le dépouillement terminé, le juge :
 - **a)** scelle tous les bulletins de vote dans des enveloppes distinctes pour chaque bureau de scrutin et certifie sans délai, par écrit et selon le formulaire prescrit, le nombre de votes obtenus par chaque candidat;
 - **b)** remet le certificat au directeur du scrutin et une copie à chaque candidat;
-- **c)** remet au directeur du scrutin les documents et autres accessoires électoraux apportés aux fins du dépouillement judiciaire au titre du paragraphe 300(4) ainsi que les rapports établis lors de ce dépouillement.
-> 2000, ch. 9, art. 308; 2014, ch. 12, art. 70.
+- **c)** remet au directeur du scrutin les documents électoraux et le matériel électoral apportés, aux fins du dépouillement judiciaire, au titre des paragraphes 300(4) ou 301(4);
+- **d)** remet au directeur du scrutin les rapports établis lors de ce dépouillement.
+> 2000, ch. 9, art. 308; 2014, ch. 12, art. 70; 2018, ch. 31, art. 203.
 
 
 
@@ -5944,9 +5973,9 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **d)** dans les provinces du Manitoba et de la Saskatchewan, à un juge de la Cour du Banc de la Reine de la province;
 	- **e)** dans la province de Terre-Neuve-et-Labrador, à un juge de la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador.
 
-**Requête appuyée d’une déclaration sous serment**
+**Requête appuyée par un affidavit**
 
-- **(2)** La requête peut être appuyée par une déclaration sous serment, qu’il n’est pas nécessaire d’intituler d’aucune manière, exposant les faits qui se rattachent au défaut de conformité.
+- **(2)** La requête peut être appuyée par un affidavit, qu’il n’est pas nécessaire d’intituler d’aucune manière, exposant les faits qui se rattachent au défaut de conformité.
 
 **Ordonnance du juge**
 
@@ -5955,10 +5984,10 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 	- **b)** requérant la présence de toutes les parties intéressées à l’audition;
 	- **c)** fixant le mode de signification de cette ordonnance et de la requête au juge défaillant et aux autres parties intéressées.
 
-**Production des déclarations sous serment**
+**Production des affidavits**
 
-- **(4)** Le juge visé ou toute partie intéressée peuvent déposer au bureau du greffier, du registraire ou du protonotaire du tribunal du juge auquel la requête a été présentée, des déclarations sous serment en réponse à celles que le requérant a produites; sur demande, ils en fournissent des copies au requérant.
-> 2000, ch. 9, art. 311; 2002, ch. 7, art. 93; 2014, ch. 12, art. 71.
+- **(4)** Le juge visé ou toute partie intéressée peuvent déposer au bureau du greffier, du registraire ou du protonotaire du tribunal du juge auquel la requête a été présentée des affidavits en réponse à ceux que le requérant a produits; sur demande, ils en fournissent des copies au requérant.
+> 2000, ch. 9, art. 311; 2002, ch. 7, art. 93; 2014, ch. 12, art. 71; 2018, ch. 31, art. 204(F).
 
 
 
@@ -6114,16 +6143,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-
-**Support gouvernemental**
-
-**321** 
-
-- **(1)** Il est interdit à toute personne de sciemment diffuser ou faire diffuser de la publicité électorale sur un support du gouvernement du Canada.
-
-**Définition de personne**
-
-- **(2)** Pour l’application du paragraphe (1), sont assimilés à des personnes les groupes au sens de la partie 17.
+**321** [Abrogé, 2018, ch. 31, art. 207]
 
 
 
@@ -6145,7 +6165,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **323** 
 
-- **(1)** Il est interdit à toute personne de sciemment diffuser de la publicité électorale dans une circonscription le jour du scrutin, avant la fermeture de tous les bureaux de scrutin de celle-ci.
+- **(1)** Il est interdit à toute personne de diffuser de la publicité électorale dans une circonscription le jour du scrutin, avant la fermeture de tous les bureaux de scrutin de celle-ci.
 
 **Interprétation**
 
@@ -6154,6 +6174,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Définition de personne**
 
 - **(3)** Pour l’application du paragraphe (1), sont assimilés à des personnes les partis enregistrés et les groupes au sens de la partie 17.
+> 2000, ch. 9, art. 323; 2018, ch. 31, art. 208.
+
 
 
 
@@ -6240,7 +6262,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **328** 
 
-- **(1)** Il est interdit à toute personne de faire sciemment diffuser dans une circonscription, le jour du scrutin avant la fermeture de tous les bureaux de scrutin de celle-ci, les résultats d’un sondage électoral qui n’ont pas été diffusés antérieurement.
+- **(1)** Il est interdit à toute personne de faire diffuser dans une circonscription, le jour du scrutin avant la fermeture de tous les bureaux de scrutin de celle-ci, les résultats d’un sondage électoral qui n’ont pas été diffusés antérieurement.
 
 **Période d’interdiction pour les sondages électoraux**
 
@@ -6249,6 +6271,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Définition de personne**
 
 - **(3)** Pour l’application du présent article, sont assimilés à des personnes les partis enregistrés et les groupes au sens de la partie 17.
+> 2000, ch. 9, art. 328; 2018, ch. 31, art. 211.
+
 
 
 
@@ -6265,11 +6289,17 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **330** 
 
-- **(1)** Il est interdit à quiconque, avec l’intention d’inciter des personnes à voter ou à s’abstenir de voter ou à voter ou à s’abstenir de voter pour un candidat donné, d’utiliser une station de radiodiffusion à l’étranger, ou d’aider, d’encourager ou d’inciter quelqu’un à utiliser ou de lui conseiller d’utiliser une telle station, pendant la période électorale, pour la diffusion de toute matière se rapportant à une élection.
+- **(1)** Il est interdit à quiconque, avec l’intention d’exercer une influence sur une personne afin qu’elle vote ou s’abstienne de voter ou vote ou s’abstienne de voter pour un candidat donné ou un parti enregistré donné à une élection, d’utiliser une station de radiodiffusion à l’étranger, ou d’aider ou d’encourager quelqu’un à utiliser, ou de lui conseiller d’utiliser ou de mettre à sa disposition pour son utilisation une telle station, pendant la période électorale, pour la diffusion de toute matière se rapportant à une élection.
+
+**Exception**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à la matière diffusée par des signaux de radiodiffusion provenant du Canada.
 
 **Interdiction de radiodiffuser à l’étranger**
 
 - **(2)** Il est interdit à quiconque, pendant la période électorale, de radiodiffuser à l’étranger de la publicité électorale.
+> 2000, ch. 9, art. 330; 2018, ch. 31, art. 212.
+
 
 
 
@@ -13581,7 +13611,7 @@ La demande est notifiée au directeur général des élections.
 
 **484** 
 
-- **(1)** Commet une infraction l’ancien fonctionnaire électoral qui contrevient à l’alinéa 43c) (défaut de remettre des documents et autres accessoires électoraux).
+- **(1)** Commet une infraction l’ancien fonctionnaire électoral qui contrevient à l’alinéa 43c) (défaut de remettre des documents électoraux et du matériel électoral).
 
 **Infraction exigeant une intention — déclaration sommaire**
 
@@ -13597,9 +13627,9 @@ La demande est notifiée au directeur général des élections.
 	- **b.1)** l’agent de liaison local qui contrevient au paragraphe 23.2(8) (faire preuve de partialité politique);
 	- **c)** le directeur du scrutin qui contrevient au paragraphe 24(6) (faire preuve de partialité politique);
 	- **d)** le directeur du scrutin ou le directeur adjoint du scrutin qui contrevient volontairement à l’article 31 (cumul de fonctions);
-	- **e)** quiconque contrevient à l’alinéa 43a) (entraver l’action d’un fonctionnaire électoral) ou contrevient volontairement à l’alinéa 43b) (se faire passer pour un agent réviseur);
-	- **f)** l’ancien fonctionnaire électoral qui contrevient volontairement à l’alinéa 43c) (défaut de remettre des documents et autres accessoires électoraux).
-> 2000, ch. 9, art. 484; 2007, ch. 21, art. 36; 2014, ch. 12, art. 90.
+	- **e)** quiconque contrevient à l’alinéa 43a) (entraver l’action d’un fonctionnaire électoral) ou contrevient sciemment à l’alinéa 43b) (se faire passer pour un fonctionnaire électoral);
+	- **f)** l’ancien fonctionnaire électoral qui contrevient sciemment à l’alinéa 43c) (défaut de remettre des documents électoraux et du matériel électoral).
+> 2000, ch. 9, art. 484; 2007, ch. 21, art. 36; 2014, ch. 12, art. 90; 2018, ch. 31, art. 325.
 
 
 
@@ -13638,10 +13668,16 @@ La demande est notifiée au directeur général des élections.
 - **(3)** Commet une infraction :
 	- **a)** quiconque contrevient à l’article 89 (signature d’un acte de candidature par une personne inéligible);
 	- **b)** [Abrogé, 2014, ch. 12, art. 91]
-	- **c)** quiconque contrevient à l’article 91 (fausse déclaration à propos d’un candidat);
-	- **d)** quiconque contrevient à l’article 92 (publication d’une fausse déclaration relative à un désistement).
+	- **c)** la personne qui contrevient au paragraphe 91(1) (faire ou publier de fausses déclarations concernant le candidat);
+	- **d)** la personne qui contrevient sciemment à l’article 92 (publication de fausses déclarations relatives au désistement).
 	- **e) à g)** [Abrogés, 2014, ch. 12, art. 91]
-> 2000, ch. 9, art. 486; 2006, ch. 9, art. 56; 2007, ch. 21, art. 37; 2014, ch. 12, art. 91.
+
+**Infraction exigeant une intention — double procédure**
+
+- **(4)** Commet une infraction :
+	- **a)** l’entité qui contrevient au paragraphe 91(1) (faire ou publier de fausses déclarations concernant le candidat);
+	- **b)** l’entité qui contrevient sciemment à l’article 92 (publication de fausses déclarations relatives au désistement).
+> 2000, ch. 9, art. 486; 2006, ch. 9, art. 56; 2007, ch. 21, art. 37; 2014, ch. 12, art. 91; 2018, ch. 31, art. 327.
 
 
 
@@ -13861,9 +13897,9 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — double procédure**
 
 - **(5)** Commet une infraction :
-	- **a)** quiconque contrevient aux paragraphes 321(1) (publicité électorale sur un support gouvernemental) ou 323(1) (faire diffuser de la publicité électorale pendant la période d’interdiction);
-	- **b)** quiconque contrevient au paragraphe 328(1) (faire diffuser les résultats d’un sondage électoral pendant la période d’interdiction).
-> 2000, ch. 9, art. 495; 2014, ch. 12, art. 95.
+	- **a)** la personne qui contrevient sciemment au paragraphe 323(1) (faire diffuser de la publicité électorale pendant la période d’interdiction);
+	- **b)** la personne qui contrevient sciemment au paragraphe 328(1) (faire diffuser les résultats d’un sondage électoral pendant la période d’interdiction).
+> 2000, ch. 9, art. 495; 2014, ch. 12, art. 95; 2018, ch. 31, art. 333.
 
 
 
@@ -14748,10 +14784,141 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** Lorsque la conduite d’une personne fait l’objet d’une enquête, le commissaire en avise celle-ci par écrit dans les meilleurs délais après le début de l’enquête, pour autant qu’il soit d’avis qu’une telle mesure ne risque pas de compromettre l’enquête, ni toute autre enquête, ou de nuire à celle-ci.
 
-**Indépendance**
+**Fonctionnaire public — [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
-- **(3)** Le commissaire mène ses enquêtes de façon indépendante du directeur des poursuites pénales.
-> 2000, ch. 9, art. 510; 2014, ch. 12, art. 108.
+- **(3)** Pour l’application de la partie XV du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute personne chargée par le commissaire d’attributions relatives à l’exécution ou au contrôle d’application de la présente loi est réputée être un fonctionnaire public.
+> 2000, ch. 9, art. 510; 2014, ch. 12, art. 108; 2018, ch. 31, art. 356.
+
+
+
+
+
+**Ordonnance exigeant un témoignage ou une déclaration écrite**
+
+**510.01** 
+
+- **(1)** Sur demande du commissaire ou de son représentant autorisé, un juge peut, lorsqu’il est convaincu d’après une dénonciation faite sous serment qu’il existe des motifs raisonnables de croire qu’il y a eu — ou qu’il y aura — contravention à la présente loi et qu’un particulier détient ou détient vraisemblablement des renseignements qui permettront de prouver la contravention en question, ordonner à ce particulier :
+	- **a)** soit de comparaître, selon ce que prévoit l’ordonnance de sorte que, sous serment, il puisse, concernant toute question pertinente dans le cadre de la contravention, être interrogé par le commissaire ou son représentant autorisé devant un particulier désigné dans l’ordonnance qui, pour l’application des articles 510.02 à 510.04, est appelé « fonctionnaire d’instruction »;
+	- **b)** soit de préparer et de donner au commissaire ou à son représentant autorisé, dans le délai que prévoit l’ordonnance, une déclaration écrite faite sous serment et énonçant en détail les renseignements visés.
+
+**Date d’audition et avis**
+
+- **(2)** Sur réception de la demande, le juge fixe la date d’audition et ordonne que le particulier visé par l’ordonnance demandée en soit avisé de la manière qu’il indique.
+
+**Restriction**
+
+- **(3)** L’ordonnance visée au paragraphe (1) ne peut être rendue à l’égard du particulier qui aurait commis ou qui est sur le point de commettre la contravention en cause.
+
+**Audition ex parte**
+
+- **(4)** Le juge peut procéder à l’audition *ex parte* de la demande et trancher en l’absence du particulier visé dans l’un ou l’autre des cas suivants :
+	- **a)** le commissaire ou son représentant autorisé établit, à la satisfaction du juge, que la communication des renseignements mentionnés dans la demande :
+		- **(i)** compromettrait la confidentialité de l’identité d’un informateur,
+		- **(ii)** compromettrait la nature et l’étendue des enquêtes en cours,
+		- **(iii)** mettrait en danger ceux qui pratiquent des techniques secrètes d’obtention de renseignements et compromettrait ainsi la tenue d’enquêtes ultérieures au cours desquelles de telles techniques seraient utilisées,
+		- **(iv)** causerait un préjudice à un innocent;
+	- **b)** le juge est convaincu, pour quelque raison que ce soit, que la communication des renseignements mentionnés dans la demande serait préjudiciable aux fins de la justice.
+
+**Paquet scellé contenant les documents**
+
+- **(5)** Si l’ordonnance visée au paragraphe (1) est rendue *ex parte*, tous les documents relatifs à la demande sont, sous réserve des modalités que le juge estime indiquées dans les circonstances, notamment quant à la durée de l’interdiction, la communication partielle de tout document, la suppression de certains passages ou la survenance d’une condition, placés dans un paquet scellé par le juge auquel la demande est faite dès que cette demande est tranchée; ce paquet est gardé par le tribunal en un lieu non accessible au public ou en tout autre lieu que le juge peut autoriser et il ne peut en être disposé que conformément aux modalités fixées par le juge dans l’ordonnance ou dans l’ordonnance modifiée au titre du paragraphe (7).
+
+**Ordonnance de non-divulgation**
+
+- **(6)** Si l’ordonnance visée au paragraphe (1) est rendue *ex parte*, le juge rend une ordonnance interdisant à toute personne ou entité de révéler, pendant la période indiquée dans l’ordonnance :
+	- **a)** l’existence de la demande;
+	- **b)** l’existence de l’ordonnance visée au paragraphe (1);
+	- **c)** le contenu de tout témoignage qu’un particulier a rendu — ou de toute déclaration écrite qu’il a faite — conformément à l’ordonnance visée au paragraphe (1).
+
+**Demande visant à modifier l’ordonnance**
+
+- **(7)** Toute demande visant à mettre fin à l’ordonnance rendue en application du paragraphe (6) ou à en modifier les modalités peut être présentée au juge qui a rendu l’ordonnance en question ou à un juge du même tribunal.
+
+**Effet des ordonnances**
+
+- **(8)** Les ordonnances rendues au titre du présent article ont effet partout au Canada.
+> 2018, ch. 31, art. 357.
+
+
+
+
+
+**Particuliers habiles à témoigner**
+
+**510.02** 
+
+- **(1)** Tout particulier qui fait l’objet de l’ordonnance visée à l’alinéa 510.01(1)a) est habile à agir comme témoin et peut être contraint à témoigner.
+
+**Nul n’est dispensé de se conformer à l’ordonnance**
+
+- **(2)** Nul n’est dispensé de se conformer à l’ordonnance visée au paragraphe 510.01(1) au motif que le témoignage ou la déclaration écrite exigé peut tendre à l’incriminer ou à l’exposer à quelque procédure ou pénalité.
+
+**Présence du particulier dont la conduite fait l’objet d’une enquête**
+
+- **(3)** Le particulier dont la conduite fait l’objet d’une enquête lors de l’interrogatoire effectué aux termes de l’ordonnance rendue en vertu de l’alinéa 510.01(1)a) et son avocat peuvent assister à cet interrogatoire à moins que le commissaire, le représentant autorisé de ce dernier ou le particulier interrogé n’établisse, à la satisfaction du fonctionnaire d’instruction, que la présence du particulier dont la conduite fait l’objet de l’enquête entraverait le bon déroulement de l’interrogatoire ou de l’enquête.
+
+**Exception**
+
+- **(4)** Le paragraphe (3) ne s’applique pas aux interrogatoires effectués aux termes d’une ordonnance rendue *ex parte*.
+
+**Témoignage, déclaration ou preuve non recevable**
+
+- **(5)** Sous réserve du paragraphe (6), le témoignage qu’un particulier rend conformément à l’ordonnance rendue en vertu de l’alinéa 510.01(1)a), la déclaration écrite qu’il fait en conformité avec l’ordonnance rendue en vertu de l’alinéa 510.01(1)b) ou la preuve découlant de ce témoignage ou de cette déclaration ne peut être utilisé ou admis contre le particulier dans le cadre d’actions civiles ou de poursuites pénales intentées contre lui sauf en ce qui concerne les poursuites pour toute infraction prévue à l’article 482.1 de la présente loi ou à l’article 132 ou 136 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Partie XV du Code criminel**
+
+- **(6)** Les renseignements contenus dans le témoignage ou la déclaration écrite visé au paragraphe (5) et les renseignements découlant de ceux-ci peuvent être utilisés dans toute demande visée à la partie XV du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Honoraires**
+
+- **(7)** Tout particulier qui fait l’objet de l’ordonnance visée à l’alinéa 510.01(1)a) a droit aux mêmes honoraires et allocations pour ce faire comme s’il avait été assigné à comparaître devant une cour supérieure de la province où il doit comparaître aux termes de l’assignation.
+
+**Représentation par avocat**
+
+- **(8)** Les fonctionnaires d’instructions permettent que soit représenté par avocat tout particulier interrogé aux termes de l’ordonnance rendue en vertu de l’alinéa 510.01(1)a).
+> 2018, ch. 31, art. 357.
+
+
+
+
+
+**Fonctionnaire d’instruction**
+
+**510.03** 
+
+- **(1)** Peut être désigné fonctionnaire d’instruction quiconque est membre en règle du barreau d’une province depuis au moins dix ans ou l’a été pendant au moins dix ans.
+
+**Rémunération et frais**
+
+- **(2)** Les fonctionnaires d’instruction reçoivent la rémunération fixée dans l’ordonnance de désignation et ont droit, conformément aux directives du Conseil du Trésor, aux frais de déplacement et de séjour qu’ils engagent dans l’exercice des fonctions qui leur sont confiées en application de la présente loi.
+> 2018, ch. 31, art. 357.
+
+
+
+
+
+**Prestation des serments**
+
+**510.04** 
+
+- **(1)** Les fonctionnaires d’instructions peuvent recevoir les serments dans le cadre des interrogatoires effectués aux termes de l’ordonnance rendue en vertu de l’alinéa 510.01(1)a).
+
+**Ordonnances des fonctionnaires d’instruction**
+
+- **(2)** Les fonctionnaires d’instructions peuvent rendre toutes les ordonnances qu’ils jugent utiles pour la conduite des interrogatoires effectués aux termes d’une ordonnance rendue en vertu de l’alinéa 510.01(1)a).
+
+**Interrogatoires en privé**
+
+- **(3)** Les interrogatoires effectués devant le fonctionnaire d’instruction le sont en privé.
+
+**Demande au juge**
+
+- **(4)** Le juge peut, à la demande du fonctionnaire d’instruction, ordonner à tout particulier de se conformer à l’ordonnance rendue par le fonctionnaire d’instruction en vertu du paragraphe (2).
+
+**Avis**
+
+- **(5)** Aucune ordonnance ne peut être rendue en vertu du paragraphe (4) à moins que le fonctionnaire d’instruction n’ait donné au particulier, à l’égard duquel l’ordonnance est demandée ainsi qu’au commissaire, soit un préavis de vingt-quatre heures de l’audition de la demande, soit un préavis plus bref jugé raisonnable par le juge à qui la demande est faite.
+> 2018, ch. 31, art. 357.
 
 
 
@@ -15308,6 +15475,8 @@ La demande est notifiée au directeur général des élections.
 **Section de vote formée d’établissements**
 
 - **(5)** Il peut, avec l’agrément du directeur général des élections, créer une section de vote constituée d’au moins deux établissements où résident des personnes âgées ou ayant une déficience.
+> 2000, ch. 9, art. 538; 2018, ch. 31, art. 368(A).
+
 
 
 
@@ -15328,7 +15497,9 @@ La demande est notifiée au directeur général des élections.
 
 **Délai**
 
-- **(2)** Toute modification de l’annexe 3 doit être faite dans les sept jours qui suivent l’entrée en vigueur du décret de représentation électorale et ne peut entrer en vigueur avant qu’avis n’en soit publié dans la Gazette du Canada.
+- **(2)** Toute modification de l’annexe 3 doit être faite dans les sept jours qui suivent la date d’entrée en vigueur du décret de représentation électorale et ne peut entrer en vigueur avant qu’avis n’en soit publié dans la Gazette du Canada.
+> 2000, ch. 9, art. 539; 2018, ch. 31, art. 369.
+
 
 
 
@@ -15384,11 +15555,11 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Examen des instructions, de la correspondance et des rapports**
+**Examen des instructions et des rapports**
 
 **541** 
 
-- **(1)** Les documents visés aux articles 432, 437, 475.4, 476.75, 477.59 ou 478.8, tous autres rapports ou états à l’exception des documents électoraux reçus des fonctionnaires électoraux, les instructions données par le directeur général des élections en application de la présente loi, les décisions qu’il rend sur des questions qui se posent dans l’application de la présente loi, de même que toute la correspondance avec des fonctionnaires électoraux ou d’autres personnes à l’égard d’une élection sont des documents publics. Quiconque peut les consulter, sur demande, pendant les heures de bureau.
+- **(1)** Les documents visés aux articles 359, 432, 437, 475.4, 476.75, 477.59 ou 478.8, tous autres rapports ou états à l’exception des documents électoraux reçus des fonctionnaires électoraux, les instructions données par le directeur général des élections en application de la présente loi de même que les décisions qu’il rend sur des questions qui se posent dans l’application de la présente loi sont des documents publics. Quiconque peut les consulter, sur demande, pendant les heures de bureau.
 
 **Extraits**
 
@@ -15397,7 +15568,7 @@ La demande est notifiée au directeur général des élections.
 **Admissibilité en preuve**
 
 - **(3)** Les copies des documents mentionnés au paragraphe (1) apparemment certifiées par le directeur général des élections sont admissibles en preuve sans autre preuve à cet égard.
-> 2000, ch. 9, art. 541; 2003, ch. 19, art. 64; 2014, ch. 12, art. 118.
+> 2000, ch. 9, art. 541; 2003, ch. 19, art. 64; 2014, ch. 12, art. 118; 2018, ch. 31, art. 370.
 
 
 
@@ -15571,12 +15742,12 @@ La demande est notifiée au directeur général des élections.
 
 **553** Sont acquittés sur les fonds non attribués du Trésor :
 - **a)** les sommes à verser en vertu de l’article 15;
-- **b)** la rémunération des cadres et employés visés à l’article 20, la rémunération versée au personnel visé au paragraphe 19(1) au titre des heures supplémentaires consacrées à l’exercice des attributions du directeur général des élections dans le cadre de la présente loi et les frais d’administration exposés à cette même fin;
+- **b)** la rémunération des personnes visées à l’article 20, la rémunération versée au personnel visé à l’article 19 au titre des heures supplémentaires consacrées à l’exercice des attributions du directeur général des élections dans le cadre de la présente loi et les frais d’administration exposés à cette même fin;
 - **c)** les frais exposés par le directeur général des élections pour l’obtention des renseignements visés à l’alinéa 46(1)b);
 - **d)** les honoraires, frais et indemnités visés aux paragraphes 542(1) ou (4);
 - **e)** les dépenses faites par le directeur général des élections pour l’impression, la préparation et l’achat du matériel électoral.
 - **f)** [Abrogé, 2014, ch. 12, art. 123]
-> 2000, ch. 9, art. 553; 2014, ch. 12, art. 123.
+> 2000, ch. 9, art. 553; 2014, ch. 12, art. 123; 2018, ch. 31, art. 373.
 
 
 
@@ -16127,7 +16298,7 @@ Yukon
 
 *Territoires du Nord-Ouest*
 
-Western Arctic
+Territoires du Nord-Ouest
 
 
 
@@ -16146,7 +16317,7 @@ Nunavut
 
 
 
-> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95; Gazette du Canada Partie I, édition spéciale volume 138, n<sup>o</sup> 5; Gazette du Canada Partie I, édition spéciale volume 149, n<sup>o</sup> 2.
+> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95; Gazette du Canada Partie I, édition spéciale volume 138, n<sup>o</sup> 5; Gazette du Canada Partie I, édition spéciale volume 149, n<sup>o</sup> 2; 2018, ch. 31, art. 376.
 
 
 
