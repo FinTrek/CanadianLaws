@@ -2650,6 +2650,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(paragraphes 2(1) et (3))**
+- Première Nation des Abénakis de Wôlinak
 - Acadia
 - Bande indienne Adams Lake
 - Première Nation des Ahousahts
@@ -2712,6 +2713,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation de Fort McMurray n<sup>o</sup> 468
 - Première Nation de Fort Nelson
 - Fort William
+- Première Nation de Frog Lake
 - Gamblers
 - Première Nation Garden Hill
 - Première Nation George Gordon
@@ -2754,6 +2756,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Little Saskatchewan
 - Bande indienne de Little Shuswap Lake
 - Première Nation Long Plain
+- Première Nation de Longue-Pointe
 - Bande indienne Lower Kootenay
 - Bande indienne Lower Nicola
 - Lower Similkameen
@@ -2916,6 +2919,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Yakweakwioose
 - Première Nation de Yale
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260; DORS/2019-15, art. 1.
 
 
