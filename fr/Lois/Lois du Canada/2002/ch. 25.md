@@ -636,6 +636,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Côte d’Ivoire
 - Émirats arabes unis
 - États-Unis d’Amérique
+- Gabon
 - Ghana
 - Guinée
 - Guyane
@@ -675,6 +676,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Venezuela
 - Vietnam
 - Zimbabwe
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156; DORS/2014-313; DORS/2016-6; DORS/2017-95.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156; DORS/2014-313; DORS/2016-6; DORS/2017-95; DORS/2019-24, art. 1.
 
 
