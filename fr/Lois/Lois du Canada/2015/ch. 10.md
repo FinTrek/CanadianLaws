@@ -1006,15 +1006,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### **ANNEXE** 
 **(articles 4 et 14 et paragraphe 16(3))**
 ## Parc urbain national de la Rouge
-Dans la province d’Ontario, dans le canton géographique de Markham, toutes les terres, y compris les mines et minéraux qui s’y trouvent, plus particulièrement décrites comme suit :
+
+### Ville de Markham
+
+
+**1** Dans la province d’Ontario, dans le canton géographique de Markham, maintenant ville de Markham, toutes les terres, y compris les mines et minéraux qui s’y trouvent, plus particulièrement décrites comme suit :
 
 Premièrement :
 
-Parcelle 1, telle qu’elle figure sur le plan 102393 CLSR enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie de la moitié ouest du lot 31, concession 9,
+Parcelle 1, telle qu’elle figure sur le plan 102393 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie de la moitié ouest du lot 31, concession 9,
 
 
 
-comprenant 17,07 hectares, plus ou moins.
+comprenant 17,07 ha, soit 0,1707 km<sup>2</sup>, plus ou moins.
 
 
 
@@ -1022,11 +1026,11 @@ comprenant 17,07 hectares, plus ou moins.
 
 Deuxièmement :
 
-Parcelle 1, telle qu’elle figure sur le plan 102394 CLSR enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 26, 27, 28 et 29, concession 8,
+Parcelle 1, telle qu’elle figure sur le plan 102394 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 26, 27, 28 et 29, concession 8,
 
 
 
-comprenant 25,56 hectares, plus ou moins.
+comprenant 25,56 ha, soit 0,2556 km<sup>2</sup>, plus ou moins.
 
 
 
@@ -1034,53 +1038,183 @@ comprenant 25,56 hectares, plus ou moins.
 
 Troisièmement :
 
-Parcelle 1, telle qu’elle figure sur le plan 102395 CLSR enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 18, 19 et 20, concession 9,
+Parcelle 1, telle qu’elle figure sur le plan 102395 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 18, 19 et 20, concession 9,
 
 
 
-comprenant 163,30 hectares, plus ou moins.
-
-
-
-
-
-Quatrièmement :
-
-Les parcelles 1, 2, 3 et 4, plan 105195 CLSR, étant une partie des lots 26, 27, 28, 29 et une partie du 3/4 est du lot 30, concession 8, une partie des lots 26, 27, 28, 29 et 30, concession 9, et la totalité des lots 26, 27, 28, 29 et 30, concession 10,
-
-
-
-contenant 773, 68 hectares, soit 7,7368 kilomètres carrés, plus ou moins.
+comprenant 163,30 ha, soit 1,633 km<sup>2</sup>, plus ou moins.
 
 
 
 
 
-Cinquièmement :
+Quatrièmement :
 
-Les parcelles 1 et 2, plan 105196 CLSR, étant une partie des lots 21, 22, 23, 24 et 25, concession 9, et la totalité des lots 21, 22 et 23, la totalité de la demie sud du lot 24, la totalité de la demie nord du lot 24, la totalité de la demie ouest du lot 25 et la totalité de la partie est du lot 25, concession 10,
-
-
-
-contenant 678 hectares, soit 6,78 kilomètres carrés, plus ou moins.
+Les parcelles 1, 2, 3 et 4, telles qu’elles figurent sur le plan 105195 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 26, 27, 28, 29 et une partie du 3/4 est du lot 30, concession 8, une partie des lots 26, 27, 28, 29 et 30, concession 9, et la totalité des lots 26, 27, 28, 29 et 30, concession 10,
 
 
 
-
-
-Sixièmement :
-
-La parcelle 1, plan 105197 CLSR, étant une partie du lot 17 et la totalité des lots 18, 19 et 20, concession 10,
-
-
-
-contenant 217 hectares, soit 2,17 kilomètres carrés, plus ou moins.
+comprenant 773, 68 ha, soit 7,7368 km<sup>2</sup>, plus ou moins.
 
 
 
 
 
+Cinquièmement :
 
-> 2015, ch. 10, ann.; 2017, ch. 10, art. 3.
+Les parcelles 1 et 2, telles qu’elles figurent sur le plan 105196 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 21, 22, 23, 24 et 25, concession 9, et la totalité des lots 21, 22 et 23, la totalité de la demie sud du lot 24, la totalité de la demie nord du lot 24, la totalité de la demie ouest du lot 25 et la totalité de la partie est du lot 25, concession 10,
+
+
+
+comprenant 678 ha, soit 6,78 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Sixièmement :
+
+La parcelle 1, telle qu’elle figure sur le plan 105197 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie du lot 17 et la totalité des lots 18, 19 et 20, concession 10,
+
+
+
+comprenant 217 ha, soit 2,17 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Septièmement :
+
+Parcelle 2, telle qu’elle figure sur le plan 107544 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie du lot 16, concession 10,
+
+
+
+comprenant 34,9 ha, soit 0,349 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Huitièmement :
+
+Les parcelles 3 et 4, telles qu’elles figurent sur le plan 107552 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 13, 14 et 15, concession 10,
+
+
+
+comprenant 103,9 ha, soit 1,039 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Neuvièmement :
+
+Les parcelles 2 et 3, telles qu’elles figurent sur le plan 107553 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 11, 12 et 13, concession 10,
+
+
+
+comprenant 59,8 ha, soit 0,598 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Dixièmement :
+
+Les parcelles 2 et 4, telles qu’elles figurent sur le plan 107554 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 9 et 10, concession 10,
+
+
+
+comprenant 33,63 ha, soit 0,3363 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Onzièmement :
+
+Les parcelles 2, 4 et 5, telles qu’elles figurent sur le plan 107548 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 6, 7, 8 et 9, concessions 10 et 11, et une partie du lot 7, concession 9,
+
+
+
+comprenant 139,9 ha, soit 1,399 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Douzièmement :
+
+Les parcelles 4, 5 et 6, telles qu’elles figurent sur le plan 107547 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 2, 3, 4 et 5, concessions 10 et 11, et une partie du lot 1, concession 11,
+
+
+
+comprenant 244,7 ha, soit 2,447 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+
+
+### Ville de Pickering
+
+
+**2** Dans la province d’Ontario, dans le canton géographique de Pickering, maintenant ville de Pickering, toutes les terres, y compris les mines et minéraux qui s’y trouvent, plus particulièrement décrites comme suit :
+
+Premièrement :
+
+Les parcelles 1 à 8, telles qu’elles figurent sur le plan 107432 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 22 à 35, concession 9,
+
+
+
+comprenant 933 ha, soit 9,33 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Deuxièmement :
+
+Les parcelles 1 à 3, telles qu’elles figurent sur le plan 107431 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 28 à 31, la totalité du lot 32, une partie des lots 33 à 35, une partie des allocations de route entre les lots 28 et 29, 30 et 31, et 32 et 33, concession 8,
+
+
+
+comprenant 550 ha, soit 5,50 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+Troisièmement :
+
+Les parcelles 1 et 2, telles qu’elles figurent sur le plan 107430 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 33 et 34 et la totalité du lot 35, concession 7,
+
+
+
+comprenant 173 ha, soit 1,73 km<sup>2</sup>, plus ou moins.
+
+
+
+
+
+
+
+### Canton géographique d’Uxbridge
+
+
+**3** Dans la province d’Ontario, dans le canton géographique d’Uxbridge, toutes les terres, y compris les mines et minéraux qui s’y trouvent, plus particulièrement décrites comme suit :
+
+Les parcelles 1 et 2, telles qu’elles figurent sur le plan 107433 enregistré dans les Archives d’arpentage des terres du Canada, à Ottawa, étant une partie des lots 1 à 5, concession 1, la totalité du lot 1, et une partie des lots 2, 3, 4 et 5, concession 2,
+
+
+
+comprenant 404 ha, soit 4,04 km<sup>2</sup>, plus ou moins.
+
+
+
+
+> 2015, ch. 10, ann.; 2017, ch. 10, art. 3; DORS/2019-39, art. 1.
 
 
