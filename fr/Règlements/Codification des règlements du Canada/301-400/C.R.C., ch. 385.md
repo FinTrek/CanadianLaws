@@ -236,8 +236,14 @@ où :
 
 
 
-**6.1** Pour l’application des paragraphes 10(1) et 13(3) de la Loi, les traitement et salaire sur lesquels a été versée une cotisation de base par un particulier pour l’année, en vertu d’un régime provincial de pensions, correspondent à un montant égal à l’ensemble de toutes les cotisations de base qu’il était tenu de verser pendant l’année, en vertu d’un régime provincial de pensions, à l’égard des traitement et salaire, divisé par le taux de cotisation de base des employés pour l’année en vertu de ce régime.
-> DORS/2019-41, art. 5.
+**6.1** 
+
+- **(1)** Pour l’application des paragraphes 10(1) et 13(3) de la Loi, les traitement et salaire sur lesquels a été versée une cotisation de base par un particulier pour l’année, en vertu d’un régime provincial de pensions, correspondent à un montant égal à l’ensemble de toutes les cotisations de base qu’il était tenu de verser pendant l’année, en vertu d’un régime provincial de pensions, à l’égard des traitement et salaire, divisé par le taux de cotisation de base des employés pour l’année en vertu de ce régime.
+
+- **(2)** Pour l’application des paragraphes 10(1.1) et 13(3.1) et (3.2) de la Loi, les traitement et salaire sur lesquels a été versée une première cotisation supplémentaire par un particulier pour l’année, en vertu d’un régime provincial de pensions, correspondent à un montant égal à l’ensemble de toutes les premières cotisations supplémentaires qu’il était tenu de verser pendant l’année, en vertu d’un régime provincial de pensions, à l’égard des traitement et salaire, divisé par le premier taux de cotisation supplémentaire des employés pour l’année en vertu de ce régime.
+
+- **(3)** Pour l’application des paragraphes 10(1.2) et 13(3.2) de la Loi, les traitement et salaire sur lesquels a été versée une deuxième cotisation supplémentaire par un particulier pour l’année, en vertu d’un régime provincial de pensions, correspondent à un montant égal à l’ensemble de toutes les deuxièmes cotisations supplémentaires qu’il était tenu de verser pendant l’année, en vertu d’un régime provincial de pensions, à l’égard des traitement et salaire, divisé par le deuxième taux de cotisation supplémentaire des employés pour l’année en vertu de ce régime.
+> DORS/2019-41, art. 5; DORS/2019-41, art. 6.
 
 
 
