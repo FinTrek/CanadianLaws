@@ -236,8 +236,14 @@ where
 
 
 
-**6.1** For the purposes of subsections 10(1) and 13(3) of the Act, the salary and wages on which a base contribution has been made for the year by an individual under a provincial pension plan is an amount equal to the aggregate of all base contributions required to be made by the individual in that year under a provincial pension plan in respect of salary and wages, divided by the base contribution rate for employees under the provincial plan for the year.
-> SOR/2019-41, s. 5.
+**6.1** 
+
+- **(1)** For the purposes of subsections 10(1) and 13(3) of the Act, the salary and wages on which a base contribution has been made for the year by an individual under a provincial pension plan is an amount equal to the aggregate of all base contributions required to be made by the individual in that year under a provincial pension plan in respect of salary and wages, divided by the base contribution rate for employees under the provincial plan for the year.
+
+- **(2)** For the purposes of subsections 10(1.1) and 13(3.1) and (3.2) of the Act, the salary and wages on which a first additional contribution has been made for the year by an individual under a provincial pension plan is an amount equal to the aggregate of all first additional contributions required to be made by the individual in that year under a provincial pension plan in respect of salary and wages, divided by the first additional contribution rate for employees under the provincial pension plan for the year.
+
+- **(3)** For the purposes of subsections 10(1.2) and 13(3.2) of the Act, the salary and wages on which a second additional contribution has been made for the year by an individual under a provincial pension plan is an amount equal to the aggregate of all second additional contributions required to be made by the individual in that year under a provincial pension plan in respect of salary and wages, divided by the second additional contribution rate for employees under the provincial pension plan for the year.
+> SOR/2019-41, s. 5; SOR/2019-41, s. 6.
 
 
 
