@@ -25530,7 +25530,7 @@ together with such other information about the background, business record and e
 ### **SCHEDULE I** 
 **(Section 14)**
 <table>
-<h4>As at December 31, 2017</h4>
+<h4>As at December 31, 2018</h4>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
@@ -25572,6 +25572,10 @@ together with such other information about the background, business record and e
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Coast Capital Savings Federal Credit Union</td>
+<td>British Columbia</td>
+</tr>
+<tr>
 <td>Concentra Bank</td>
 <td>Saskatchewan</td>
 </tr>
@@ -25604,11 +25608,15 @@ together with such other information about the background, business record and e
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Haventree Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Home Bank</td>
 <td>Ontario</td>
 </tr>
 <tr>
-<td>HomEquity Bank</td>
+<td>HomeEquity Bank</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25617,6 +25625,10 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Manulife Bank of Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Motus Bank</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25665,7 +25677,7 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 152, page 752.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 153, page 473.
 
 
 
@@ -25673,7 +25685,7 @@ together with such other information about the background, business record and e
 ### **SCHEDULE II** 
 **(Section 14)**
 <table>
-<h4>As at December 31, 2017</h4>
+<h4>As at December 31, 2018</h4>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
@@ -25764,7 +25776,7 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 152, page 752.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 153, page 473.
 
 
 
@@ -25772,7 +25784,7 @@ together with such other information about the background, business record and e
 ### **SCHEDULE III** 
 **(Section 14.1)**
 <table>
-<h4>As at December 31, 2017</h4>
+<h4>As at December 31, 2018</h4>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
 <th>Name under which FB is permitted to carry on business in Canada</th>
@@ -25794,12 +25806,6 @@ together with such other information about the background, business record and e
 <tr>
 <td>Bank of New York Mellon (The)</td>
 <td>Bank of New York Mellon (The)</td>
-<td>Full-service</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Bank of Tokyo-Mitsubishi UFJ, Ltd. (The)</td>
-<td>Bank of Tokyo-Mitsubishi UFJ, Ltd., Canada Branch (The)</td>
 <td>Full-service</td>
 <td>Ontario</td>
 </tr>
@@ -25846,8 +25852,8 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>*Crédit Agricole* Corporate and Investment Bank</td>
-<td>*Crédit Agricole* Corporate and Investment Bank (Canada Branch)</td>
+<td>Crédit Agricole Corporate and Investment Bank</td>
+<td>Crédit Agricole Corporate and Investment Bank (Canada Branch)</td>
 <td>Lending</td>
 <td>Quebec</td>
 </tr>
@@ -25906,10 +25912,10 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>MUFG Union Bank, National Association</td>
-<td>Union Bank, Canada Branch</td>
-<td>Lending</td>
-<td>Alberta</td>
+<td>MUFG Bank, Ltd.</td>
+<td>MUFG Bank, Ltd., Canada Branch</td>
+<td>Full-service</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Natixis</td>
@@ -25927,6 +25933,12 @@ together with such other information about the background, business record and e
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
 <td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Silicon Valley Bank</td>
+<td>Silicon Valley Bank</td>
+<td>Lending</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25975,6 +25987,6 @@ together with such other information about the background, business record and e
 
 
 <a name='fn_FBB'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 152, page 752.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 153, page 473.
 
 
