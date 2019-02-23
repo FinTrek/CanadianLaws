@@ -25153,7 +25153,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE I** 
 **(article 14)**
 <table>
-<h4>au 31 décembre 2017</h4>
+<h4>au 31 décembre 2018</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -25195,6 +25195,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Coopérative de crédit fédérale Coast Capital Savings</td>
+<td>Colombie-Britannique</td>
+</tr>
+<tr>
 <td>Banque Concentra</td>
 <td>Saskatchewan</td>
 </tr>
@@ -25227,11 +25231,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Banque Haventree</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Home</td>
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque HomEquity</td>
+<td>Banque HomeEquity</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25240,6 +25248,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque Manuvie du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Banque Motus</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25288,7 +25300,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 152, page 752.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 153, page 473.
 
 
 
@@ -25296,7 +25308,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE II** 
 **(article 14)**
 <table>
-<h4>au 31 décembre 2017</h4>
+<h4>au 31 décembre 2018</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -25387,7 +25399,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 152, page 752.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 153, page 473.
 
 
 
@@ -25395,11 +25407,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE III** 
 **(article 14.1)**
 <table>
-<h4>au 31 décembre 2017</h4>
+<h4>au 31 décembre 2018</h4>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
 <th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
-<th>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></th>
+<th>Genre de succursale de banque étrangère<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></th>
 <th>Bureau principal</th>
 </tr>
 <tr>
@@ -25417,12 +25429,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Bank of New York Mellon (The)</td>
 <td>Bank of New York Mellon (The)</td>
-<td>Services complets</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Bank of Tokyo-Mitsubishi UFJ, Ltd. (The)</td>
-<td>Banque de Tokyo-Mitsubishi UFJ Ltée, succursale canadienne (La)</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -25529,10 +25535,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>MUFG Union Bank, National Association</td>
-<td>Union Bank, Canada Branch</td>
-<td>Prêt</td>
-<td>Alberta</td>
+<td>MUFG Bank, Ltd.</td>
+<td>Banque MUFG Ltée, succursale canadienne</td>
+<td>Services complets</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Natixis</td>
@@ -25550,6 +25556,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
 <td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Silicon Valley Bank</td>
+<td>Banque Silicon Valley</td>
+<td>Prêt</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25598,6 +25610,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 152, page 752.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 153, page 473.
 
 
