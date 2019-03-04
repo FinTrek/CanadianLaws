@@ -33038,16 +33038,16 @@ and if unpurified anterior pituitary extract
 
 - **(1)** Subject to section C.08.004.1, the Minister shall, after completing an examination of a new drug submission or abbreviated new drug submission or a supplement to either submission,
 	- **(a)** if that submission or supplement complies with section C.08.002, C.08.002.1 or C.08.003, as the case may be, and section C.08.005.1, issue a notice of compliance; or
-	- **(b)** if that submission or supplement does not comply with section C.08.002, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, notify the manufacturer that the submission or supplement does not so comply.
+	- **(b)** if that submission or supplement does not comply with section C.08.002, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, issue a notice to the manufacturer to that effect.
 
-- **(2)** Where a new drug submission or abbreviated new drug submission or a supplement to either submission does not comply with section C.08.002, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, the manufacturer who filed the submission or supplement may amend the submission or supplement by filing additional information or material.
+- **(2)** If a new drug submission or an abbreviated new drug submission or a supplement to either submission does not comply with section C.08.002, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, the manufacturer who filed the submission or supplement may amend the submission or supplement by filing additional information or material within 90 days after the day on which the Minister issues a notice to the manufacturer under paragraph C.08.004(1)(b) or within any longer period specified by the Minister.
 
 - **(3)** Subject to section C.08.004.1, the Minister shall, after completing an examination of any additional information or material filed in respect of a new drug submission or an abbreviated new drug submission or a supplement to either submission,
 	- **(a)** if that submission or supplement complies with section C.08.002, C.08.002.1 or C.08.003, as the case may be, and section C.08.005.1, issue a notice of compliance; or
-	- **(b)** if that submission or supplement does not comply with the requirements of section C.08.002, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, notify the manufacturer that the submission or supplement does not so comply.
+	- **(b)** if that submission or supplement does not comply with section C.08.002, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, issue a notice to the manufacturer to that effect.
 
 - **(4)** A notice of compliance issued in respect of a new drug on the basis of information and material contained in a submission filed pursuant to section C.08.002.1 shall state the name of the Canadian reference product referred to in the submission and shall constitute a declaration of equivalence for that new drug.
-> SOR/84-267, ss. 1 to 3; SOR/85-143, s. 3; SOR/86-1009, s. 1; SOR/86-1101, s. 1; SOR/88-42, s. 1; SOR/88-257, s. 1; SOR/95-411, s. 6.
+> SOR/84-267, ss. 1 to 3; SOR/85-143, s. 3; SOR/86-1009, s. 1; SOR/86-1101, s. 1; SOR/88-42, s. 1; SOR/88-257, s. 1; SOR/95-411, s. 6; SOR/2019-62, s. 1.
 
 
 
@@ -33056,16 +33056,16 @@ and if unpurified anterior pituitary extract
 
 - **(1)** Subject to section C.08.004.1, the Minister shall, after completing an examination of an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission,
 	- **(a)** if that submission or supplement complies with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, and section C.08.005.1, issue a notice of compliance; or
-	- **(b)** if that submission or supplement does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, notify the manufacturer that the submission or supplement does not so comply.
+	- **(b)** if that submission or supplement does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, issue a notice to the manufacturer to that effect.
 
-- **(2)** Where an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, the manufacturer who filed the submission or supplement may amend the submission or supplement by filing additional information or material.
+- **(2)** If an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, the manufacturer who filed the submission or supplement may amend the submission or supplement by filing additional information or material within 90 days after the day on which the Minister issues a notice to the manufacturer under paragraph C.08.004.01(1)(b) or within any longer period specified by the Minister.
 
 - **(3)** Subject to section C.08.004.1, the Minister shall, after completing an examination of any additional information or material filed in respect of an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission,
 	- **(a)** if that submission or supplement complies with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, and section C.08.005.1, issue a notice of compliance; or
-	- **(b)** if that submission or supplement does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, notify the manufacturer that the submission or supplement does not so comply.
+	- **(b)** if that submission or supplement does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, issue a notice to the manufacturer to that effect.
 
 - **(4)** A notice of compliance issued in respect of a new drug for extraordinary use on the basis of information and material contained in a submission filed pursuant to section C.08.002.1 shall state the name of the Canadian reference product referred to in the submission and shall constitute a declaration of equivalence for that new drug.
-> SOR/2011-88, s. 15.
+> SOR/2011-88, s. 15; SOR/2019-62, s. 2.
 
 
 
@@ -33269,6 +33269,41 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 
 - **(8)** Where the Minister has received the findings and recommendations of a New Drug Committee, he may reconsider the decision to which those findings and recommendations relate.
 > SOR/95-411, s. 12; SOR/2001-203, s. 9; SOR/2011-88, s. 21.
+
+
+
+
+
+#### Disclosure of Information in Respect of Clinical Trials
+
+
+**C.08.009.1** 
+
+- **(1)** In sections C.08.009.2 and C.08.009.3, ***information in respect of a clinical trial*** means information in respect of a clinical trial, within the meaning of section C.05.001, that is contained in a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission for a new drug for human use filed under section C.08.002, C.08.002.01 or C.08.002.1 or in a supplement to any of those submissions filed under section C.08.003.
+
+- **(2)** For greater certainty, the definition information in respect of a clinical trial  includes information that is contained in a submission or supplement referred to in that definition and that is in respect of clinical testing involving human subjects in regards to which an application was filed under this Division before September 1, 2001.
+> SOR/2019-62, s. 3.
+
+
+
+
+**C.08.009.2** 
+
+- **(1)** Information in respect of a clinical trial that is confidential business information ceases to be confidential business information when one of the following circumstances occurs with respect to the submission or supplement:
+	- **(a)** the Minister issues a notice of compliance under section C.08.004 or C.08.004.01;
+	- **(b)** in the case where the Minister issues a notice to the manufacturer under paragraph C.08.004(1)(b) or C.08.004.01(1)(b) and the manufacturer does not amend the submission or supplement under subsection C.08.004(2) or C.08.004.01(2), the applicable period referred to in the relevant subsection expires;
+	- **(c)** the Minister issues a notice to the manufacturer under paragraph C.08.004(3)(b) or C.08.004.01(3)(b).
+
+- **(2)** Subsection (1) does not apply to information in respect of a clinical trial that
+	- **(a)** was not used by the manufacturer in the submission or supplement to support the proposed conditions of use for the new drug or the purpose for which the new drug is recommended; or
+	- **(b)** describes tests, methods or assays that are used exclusively by the manufacturer.
+> SOR/2019-62, s. 3.
+
+
+
+
+**C.08.009.3** The Minister may disclose, without notifying the person to whose business or affairs the information relates or obtaining their consent, any information in respect of a clinical trial that has ceased to be confidential business information.
+> SOR/2019-62, s. 3.
 
 
 
