@@ -32988,16 +32988,16 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(1)** Sous réserve de l’article C.08.004.1, après avoir terminé l’examen d’une présentation de drogue nouvelle, d’une présentation abrégée de drogue nouvelle ou d’un supplément à l’une de ces présentations, le ministre :
 	- **a)** si la présentation ou le supplément est conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, et à l’article C.08.005.1, délivre un avis de conformité;
-	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, en informe le fabricant.
+	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, délivre un avis à cet effet au fabricant.
 
-- **(2)** Lorsqu’une présentation de drogue nouvelle, une présentation abrégée de drogue nouvelle ou un supplément à l’une de ces présentations n’est pas conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, le fabricant qui l’a déposé peut le modifier en déposant des renseignements ou du matériel supplémentaires.
+- **(2)** Le fabricant qui a déposé une présentation de drogue nouvelle, une présentation abrégée de drogue nouvelle ou un supplément à l’une de ces présentations non conformes aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, peut modifier la présentation ou le supplément en déposant des renseignements ou du matériel supplémentaires dans les quatre-vingt-dix jours suivant la date à laquelle le ministre lui délivre un avis en application de l’alinéa C.08.004(1)b) ou dans tout délai plus long imparti par le ministre.
 
 - **(3)** Sous réserve de l’article C.08.004.1, après avoir terminé l’examen des renseignements et du matériel supplémentaires déposés relativement à une présentation de drogue nouvelle, à une présentation abrégée de drogue nouvelle ou à un supplément à l’une de ces présentations, le ministre :
 	- **a)** si la présentation ou le supplément est conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, et à l’article C.08.005.1, délivre un avis de conformité;
-	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, en informe le fabricant.
+	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, délivre un avis à cet effet au fabricant.
 
 - **(4)** L’avis de conformité délivré à l’égard d’une drogue nouvelle d’après les renseignements et le matériel contenus dans la présentation déposée conformément à l’article C.08.002.1 indique le nom du produit de référence canadien mentionné dans la présentation et constitue la déclaration d’équivalence de cette drogue.
-> DORS/84-267, art. 1 à 3; DORS/85-143, art. 3; DORS/86-1009, art. 1; DORS/86-1101, art. 1; DORS/88-42, art. 1; DORS/88-257, art. 1; DORS/95-411, art. 6.
+> DORS/84-267, art. 1 à 3; DORS/85-143, art. 3; DORS/86-1009, art. 1; DORS/86-1101, art. 1; DORS/88-42, art. 1; DORS/88-257, art. 1; DORS/95-411, art. 6; DORS/2019-62, art. 1.
 
 
 
@@ -33006,16 +33006,16 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(1)** Sous réserve de l’article C.08.004.1, après avoir terminé l’examen d’une présentation de drogue nouvelle pour usage exceptionnel, d’une présentation abrégée de drogue nouvelle pour usage exceptionnel ou d’un supplément à l’une de ces présentations, le ministre :
 	- **a)** si la présentation ou le supplément est conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, et à l’article C.08.005.1, délivre un avis de conformité;
-	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, en informe le fabricant.
+	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, délivre un avis à cet effet au fabricant.
 
-- **(2)** Lorsqu’une présentation de drogue nouvelle pour usage exceptionnel ou une présentation abrégée de drogue nouvelle pour usage exceptionnel ou un supplément à l’une de ces présentations n’est pas conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, le fabricant qui l’a déposé peut le modifier en déposant des renseignements ou du matériel supplémentaires.
+- **(2)** Le fabricant qui a déposé une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle pour usage exceptionnel ou un supplément à l’une de ces présentations non conformes aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, peut modifier la présentation ou le supplément en déposant des renseignements ou du matériel supplémentaires dans les quatre-vingt-dix jours suivant la date à laquelle le ministre lui délivre un avis en application de l’alinéa C.08.004.01(1)b) ou dans tout délai plus long imparti par le ministre.
 
 - **(3)** Sous réserve de l’article C.08.004.1, après avoir terminé l’examen des renseignements et du matériel supplémentaires déposés relativement à une présentation de drogue nouvelle pour usage exceptionnel, à une présentation abrégée de drogue nouvelle pour usage exceptionnel ou à un supplément à l’une de ces présentations, le ministre :
 	- **a)** si la présentation ou le supplément est conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, et à l’article C.08.005.1, délivre un avis de conformité;
-	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, en informe le fabricant.
+	- **b)** si la présentation ou le supplément n’est pas conforme aux articles C.08.002.01, C.08.002.1 ou C.08.003, selon le cas, ou à l’article C.08.005.1, délivre un avis à cet effet au fabricant.
 
 - **(4)** L’avis de conformité délivré à l’égard d’une drogue nouvelle pour usage exceptionnel d’après les renseignements et le matériel contenus dans la présentation déposée aux termes de l’article C.08.002.1 indique le nom du produit de référence canadien mentionné dans la présentation et constitue la déclaration d’équivalence de cette drogue.
-> DORS/2011-88, art. 15.
+> DORS/2011-88, art. 15; DORS/2019-62, art. 2.
 
 
 
@@ -33219,6 +33219,41 @@ le fabricant peut s’il n’est pas satisfait de cette décision, demander au m
 
 - **(8)** Lorsque le ministre a reçu les constatations et recommandations du Comité des drogues nouvelles, il peut revenir sur la décision qui fait l’objet de ces constatations et recommandations.
 > DORS/95-411, art. 12; DORS/2001-203, art. 9; DORS/2011-88, art. 21.
+
+
+
+
+
+#### Communication de renseignements relatifs à des essais cliniques
+
+
+**C.08.009.1** 
+
+- **(1)** Aux articles C.08.009.2 et C.08.009.3, ***renseignements relatifs à un essai clinique*** s’entend des renseignements relatifs à un essai clinique, au sens de l’article C.05.001, qui sont contenus dans une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle ou une présentation abrégée de drogue nouvelle pour usage exceptionnel déposées à l’égard d’une drogue nouvelle pour usage humain aux termes des articles C.08.002, C.08.002.01 ou C.08.002.1 ou dans un supplément à l’une de ces présentations déposé aux termes de l’article C.08.003.
+
+- **(2)** Il est entendu que la définition de renseignements relatifs à un essai clinique vise notamment les renseignements qui sont contenus dans une présentation ou un supplément visés dans cette définition et qui sont relatifs à un essai clinique sur des sujets humains relativement auquel une demande a été déposée en application du présent titre avant le 1<sup>er</sup> septembre 2001.
+> DORS/2019-62, art. 3.
+
+
+
+
+**C.08.009.2** 
+
+- **(1)** Les renseignements relatifs à un essai clinique qui sont des renseignements commerciaux confidentiels cessent d’être des renseignements commerciaux confidentiels au moment où l’une des circonstances ci-après survient relativement à la présentation ou au supplément :
+	- **a)** le ministre délivre un avis de conformité en application des articles C.08.004 ou C.08.004.01;
+	- **b)** dans le cas où le ministre délivre un avis au fabricant, en application des alinéas C.08.004(1)b) ou C.08.004.01(1)b), et que le fabricant ne modifie pas la présentation ou le supplément en vertu des paragraphes C.08.004(2) ou C.08.004.01(2), celui des délais visés au paragraphe pertinent qui s’applique expire;
+	- **c)** le ministre délivre un avis au fabricant, en application des alinéas C.08.004(3)b) ou C.08.004.01(3)b).
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux renseignements relatifs à un essai clinique suivants :
+	- **a)** ceux que le fabricant n’a pas utilisés dans la présentation ou le supplément pour étayer le mode d’emploi proposé de la nouvelle drogue ou les fins pour lesquelles celle-ci est recommandée;
+	- **b)** ceux qui décrivent les tests, méthodes et essais utilisés exclusivement par le fabricant.
+> DORS/2019-62, art. 3.
+
+
+
+
+**C.08.009.3** Le ministre peut communiquer les renseignements relatifs à un essai clinique qui se rapportent à l’entreprise d’une personne ou à ses activités et qui ont cessé d’être des renseignements commerciaux confidentiels, et ce sans obtenir son consentement et sans l’aviser.
+> DORS/2019-62, art. 3.
 
 
 
