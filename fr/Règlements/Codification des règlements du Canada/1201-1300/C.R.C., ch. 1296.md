@@ -26,7 +26,7 @@ Autorités habilitantes :
 
 **2** Les définitions qui suivent s’appliquent au présent règlement.
 
-***Convention postale universelle*** La Convention postale universelle rédigée par l’Union postale universelle à son 25<sup>e</sup> Congrès en 2012. (*Universal Postal Convention*)
+***Convention postale universelle*** La Convention postale universelle rédigée par l’Union postale universelle à son 26<sup>e</sup> Congrès en 2016. (*Universal Postal Convention*)
 
 ***établissement postal*** Locaux dont la Société autorise l’emploi pour le dépôt ou l’acceptation des objets, ou pour le tri, la manutention, la transmission ou la distribution des envois. (*postal facility*) 
 
@@ -39,7 +39,7 @@ Autorités habilitantes :
 ***service contre remboursement*** ou ***service C.R.***[Abrogée, DORS/91-635, art. 1]
 
 ***service de manutention spéciale***[Abrogée, DORS/90-17, art. 1]
-> DORS/81-386, art. 1; DORS/86-241, art. 1; DORS/90-17, art. 1; DORS/90-800, art. 1; DORS/91-628, art. 1; DORS/91-635, art. 1; DORS/98-559, art. 1; DORS/2003-378, art. 1; DORS/2003-382, art. 4; DORS/2005-360, art. 1; DORS/2009-335, art. 1; DORS/2014-53, art. 1.
+> DORS/81-386, art. 1; DORS/86-241, art. 1; DORS/90-17, art. 1; DORS/90-800, art. 1; DORS/91-628, art. 1; DORS/91-635, art. 1; DORS/98-559, art. 1; DORS/2003-378, art. 1; DORS/2003-382, art. 4; DORS/2005-360, art. 1; DORS/2009-335, art. 1; DORS/2014-53, art. 1; DORS/2018-276, art. 1.
 
 
 
