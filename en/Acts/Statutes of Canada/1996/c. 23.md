@@ -795,11 +795,15 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 - **(4)** The maximum number of weeks for which benefits may be paid
 	- **(a)** for a single pregnancy is 15; and
-	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, in accordance with the election under section 23, 35 or 61.
+	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is,
+		- **(i)** if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 40, or
+		- **(ii)** if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 69.
 
 **Maximum — parental benefits**
 
-- **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, in accordance with the election under section 23, 35 or 61.
+- **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is,
+	- **(a)** if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 40; or
+	- **(b)** if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 69.
 
 **Maximum — compassionate care benefits**
 
@@ -838,7 +842,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Adoption**
 
 - **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
-> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6; 2012, c. 27, s. 14; 2015, c. 36, s. 74; 2016, c. 7, s. 212; 2017, c. 20, s. 231.
+> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6; 2012, c. 27, s. 14; 2015, c. 36, s. 74; 2016, c. 7, s. 212; 2017, c. 20, s. 231; 2018, c. 27, s. 303.
 
 
 
@@ -1196,11 +1200,17 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Division of weeks of benefits**
 
-- **(4)** If two major attachment claimants each make a claim for benefits under this section — or if one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of 35, if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+- **(4)** If two major attachment claimants each make a claim for benefits under this section — or if one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, the weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of 40, if the maximum number of weeks that has been elected under subsection (1.1) or 152.05(1.1) is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of 69, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum number of weeks that can be divided**
 
-- **(4.1)** For greater certainty, if, in respect of the same child, a major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed 35, if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii).
+- **(4.1)** For greater certainty, if, in respect of the same child or children, a major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed
+	- **(a)** 40, if the maximum number of weeks that has been elected under subsection (1.1) or 152.05(1.1) is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i); or
+	- **(b)** 69, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii).
+
+**Maximum number of weeks per claimant**
+
+- **(4.11)** Even if the weeks of benefits payable are divided in accordance with subsections (4) and (4.1), the maximum number of weeks for which benefits may be paid to a claimant is 35 or 61 weeks, in accordance with the election made under subsection (1.1) or 152.05(1.1).
 
 **Deferral of waiting period**
 
@@ -1215,7 +1225,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 - **(6)** If a major attachment claimant makes a claim under section 22 or this section and an individual makes a claim under section 152.04 or 152.05 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
 	- **(a)** if the major attachment claimant is not the one who served or elected to serve the waiting period, that claimant is not required to serve a waiting period; or
 	- **(b)** if the individual is not the one who served or elected to serve the waiting period, that claimant may have his or her waiting period deferred in accordance with section 152.05.
-> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7; 2010, c. 9, s. 3; 2012, c. 27, s. 17; 2017, c. 20, s. 235.
+> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7; 2010, c. 9, s. 3; 2012, c. 27, s. 17; 2017, c. 20, s. 235; 2018, c. 27, s. 304.
 
 
 
@@ -4732,11 +4742,17 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Division of weeks of benefits**
 
-- **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of 35, if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+- **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of 40, if the maximum number of weeks that has been elected under subsection (1.1) or 23(1.1) is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of 69, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum number of weeks that can be divided**
 
-- **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed 35, if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii).
+- **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed
+	- **(a)** 40, if the maximum number of weeks that has been elected under subsection (1.1) or 23(1.1) is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i); or
+	- **(b)** 69, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii).
+
+**Maximum number of weeks per claimant**
+
+- **(13.01)** Even if the weeks of benefits payable are divided in accordance with subsections (12) and (13), the maximum number of weeks for which benefits may be paid to a claimant is 35 or 61 weeks, in accordance with the election made under subsection (1.1) or 23(1.1).
 
 **Deferral of waiting period**
 
@@ -4751,7 +4767,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 - **(15)** If a self-employed person makes a claim under this Part and another person makes a claim under section 22 or 23 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
 	- **(a)** if the self-employed person is not the one who served or elected to serve the waiting period, the self-employed person is not required to serve a waiting period; or
 	- **(b)** if the person making the claim under section 22 or 23 is not the one who served or elected to serve the waiting period, the person may have his or her waiting period deferred in accordance with section 23.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 22; 2017, c. 20, s. 245.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 22; 2017, c. 20, s. 245; 2018, c. 27, s. 305.
 
 
 
@@ -5212,9 +5228,11 @@ and
 
 **Maximum — single pregnancy or placement**
 
-- **(2)** The maximum number of weeks for which benefits under this Part may be paid to a self-employed person
+- **(2)** The maximum number of weeks for which benefits under this Part may be paid
 	- **(a)** for a single pregnancy is 15; and
-	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, in accordance with the election under section 152.05, 35 or 61.
+	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is,
+		- **(i)** if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 40, or
+		- **(ii)** if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 69.
 
 **Adoption**
 
@@ -5222,7 +5240,9 @@ and
 
 **Maximum — parental benefits**
 
-- **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, in accordance with the election under section 152.05, 35 or 61.
+- **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is,
+	- **(a)** if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 40; or
+	- **(b)** if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 69.
 
 **Maximum — compassionate care benefits**
 
@@ -5247,7 +5267,7 @@ and
 **Combined weeks of benefits**
 
 - **(8)** In a self-employed person’s benefit period, the self-employed person may, subject to the applicable maximums, combine weeks of benefits to which they are entitled because of a reason mentioned in subsection (1), but the maximum number of combined weeks is 50. However, if the benefit period is extended under subsection 152.11(14), the maximum number of combined weeks equals the maximum number of weeks in the benefit period calculated under subsection 152.11(16) less two weeks.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 25; 2015, c. 36, s. 78; 2017, c. 20, s. 251.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 25; 2015, c. 36, s. 78; 2017, c. 20, s. 251; 2018, c. 27, s. 306.
 
 
 
