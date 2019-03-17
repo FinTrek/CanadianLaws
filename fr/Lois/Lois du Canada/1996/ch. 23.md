@@ -771,13 +771,19 @@ plus de 13 %
 	- **e)** dans le cas de soins ou de soutien à donner à un ou plusieurs enfants gravement malades visés au paragraphe 23.2(1), trente-cinq semaines;
 	- **f)** dans le cas de soins ou de soutien à donner à un ou plusieurs adultes gravement malades visés au paragraphe 23.3(1), quinze semaines.
 
-**Prestations spéciales**
+**Maximum : prestations spéciales**
 
-- **(4)** Les prestations ne peuvent être versées pendant plus de quinze semaines dans le cas d’une seule et même grossesse, ou, conformément au choix visé à l’article 23, pendant plus de trente-cinq ou de soixante et une semaines dans le cas de soins à donner à un ou plusieurs nouveau-nés d’une même grossesse ou du placement de un ou plusieurs enfants chez le prestataire en vue de leur adoption.
+- **(4)** Les prestations ne peuvent être versées :
+	- **a)** dans le cas d’une seule et même grossesse, pendant plus de quinze semaines;
+	- **b)** dans le cas de soins à donner à un ou plusieurs nouveau-nés d’une même grossesse ou du placement d’un ou de plusieurs enfants en vue de leur adoption pendant plus du nombre de semaines ci-après :
+		- **(i)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 23(1.1) est prévu au sous-alinéa (3)b)(i), trente-cinq semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 23, quarante semaines,
+		- **(ii)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 23(1.1) est prévu au sous-alinéa (3)b)(ii), soixante et une semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 23, soixante-neuf semaines.
 
 **Maximum : prestations parentales**
 
-- **(4.01)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés au paragraphe (4) et qu’une demande de prestations est présentée au titre de l’article 152.05 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées, conformément au choix visé à l’article 23, pendant plus de trente-cinq ou de soixante et une semaines.
+- **(4.01)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés à l’alinéa (4)b) et qu’une demande de prestations est présentée au titre de l’article 152.05 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées pendant plus du nombre de semaines ci-après :
+	- **a)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 23(1.1) est prévu au sous-alinéa (3)b)(i), trente-cinq semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 23, quarante semaines;
+	- **b)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 23(1.1) est prévu au sous-alinéa (3)b)(ii), soixante et une semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 23, soixante-neuf semaines.
 
 **Maximum : prestations de soignant**
 
@@ -816,7 +822,7 @@ plus de 13 %
 **Adoption**
 
 - **(8)** Pour l’application du présent article, le placement auprès d’un prestataire de la première catégorie, au même moment ou presque au même moment, de deux enfants ou plus en vue de leur adoption est considéré comme un seul placement d’un ou plusieurs enfants en vue de leur adoption.
-> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14; 2015, ch. 36, art. 74; 2016, ch. 7, art. 212; 2017, ch. 20, art. 231.
+> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14; 2015, ch. 36, art. 74; 2016, ch. 7, art. 212; 2017, ch. 20, art. 231; 2018, ch. 27, art. 303.
 
 
 
@@ -1163,11 +1169,17 @@ plus de 13 %
 
 **Partage des semaines de prestations**
 
-- **(4)** Si deux prestataires de la première catégorie présentent chacun une demande de prestations au titre du présent article — ou si un prestataire de la première catégorie présente une telle demande et qu’un particulier présente une demande de prestations au titre de l’article 152.05 — relativement au même enfant ou aux mêmes enfants, les semaines de prestations qui doivent être payées au titre du présent article, de l’article 152.05 ou de ces deux articles peuvent être partagées entre eux, jusqu’à concurrence de trente-cinq semaines lorsque le nombre maximal de semaines applicable est prévu aux sous-alinéas 12(3)b)(i) ou 152.14(1)b)(i) ou de soixante et une semaines lorsque ce nombre est prévu aux sous-alinéas 12(3)b)(ii) ou 152.14(1)b)(ii). S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations doit être effectué conformément aux règles prévues par règlement.
+- **(4)** Si deux prestataires de la première catégorie présentent chacun une demande de prestations au titre du présent article — ou si un prestataire de la première catégorie présente une telle demande et qu’un particulier présente une demande de prestations au titre de l’article 152.05 — relativement au même enfant ou aux mêmes enfants, les semaines de prestations qui doivent être payées au titre du présent article, de l’article 152.05 ou de ces deux articles peuvent être partagées entre eux, jusqu’à concurrence de quarante semaines lorsque le nombre maximal de semaines choisi aux termes des paragraphes (1.1) ou 152.05(1.1) est prévu aux sous-alinéas 12(3)b)(i) ou 152.14(1)b)(i) ou de soixante-neuf semaines lorsque ce nombre est prévu aux sous-alinéas 12(3)b)(ii) ou 152.14(1)b)(ii). S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations doit être effectué conformément aux règles prévues par règlement.
 
 **Nombre maximal de semaines pouvant être partagées**
 
-- **(4.1)** Il est entendu que dans le cas où un prestataire de la première catégorie présente une demande de prestations au titre du présent article et où un particulier présente une demande de prestations au titre de l’article 152.05 relativement au même enfant, le nombre total de semaines de prestations qui doivent être payées au titre du présent article et de l’article 152.05 qui peuvent être partagées entre eux ne peut dépasser trente-cinq semaines lorsque le nombre maximal de semaines applicable est prévu aux sous-alinéas 12(3)b)(i) ou 152.14(1)b)(i) ou soixante et une semaines lorsque ce nombre est prévu aux sous-alinéas 12(3)b)(ii) ou 152.14(1)b)(ii).
+- **(4.1)** Il est entendu que, dans le cas où un prestataire de la première catégorie présente une demande de prestations au titre du présent article et où un particulier présente une demande de prestations au titre de l’article 152.05 relativement au même enfant ou aux mêmes enfants, le nombre total de semaines de prestations qui doivent être payées au titre du présent article et de l’article 152.05 qui peuvent être partagées entre eux ne peut dépasser :
+	- **a)** quarante semaines lorsque le nombre maximal de semaines choisi aux termes des paragraphes (1.1) ou 152.05(1.1) est prévu aux sous-alinéas 12(3)b)(i) ou 152.14(1)b)(i);
+	- **b)** soixante-neuf semaines lorsque ce nombre est prévu aux sous-alinéas 12(3)b)(ii) ou 152.14(1)b)(ii).
+
+**Nombre maximal de semaines par prestataire**
+
+- **(4.11)** Même lorsqu’il y a partage conformément aux paragraphes (4) et (4.1), le nombre maximal de semaines pour lesquelles des prestations peuvent être versées à un prestataire est de trente-cinq ou de soixante et une semaines, conformément au choix visé aux paragraphes (1.1) ou 152.05(1.1).
 
 **Report du délai de carence**
 
@@ -1182,7 +1194,7 @@ plus de 13 %
 - **(6)** Si un prestataire de la première catégorie présente une demande de prestations au titre de l’article 22 ou du présent article et qu’un particulier présente une demande de prestations au titre des articles 152.04 ou 152.05 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
 	- **a)** dans le cas où le prestataire de la première catégorie ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
 	- **b)** dans le cas où le particulier ne l’a pas purgé ou n’a pas choisi de le purger, il peut faire reporter cette obligation en conformité avec l’article 152.05.
-> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7; 2010, ch. 9, art. 3; 2012, ch. 27, art. 17; 2017, ch. 20, art. 235.
+> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7; 2010, ch. 9, art. 3; 2012, ch. 27, art. 17; 2017, ch. 20, art. 235; 2018, ch. 27, art. 304.
 
 
 
@@ -4603,11 +4615,17 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Partage des semaines de prestations**
 
-- **(12)** Si deux travailleurs indépendants présentent chacun une demande de prestations au titre du présent article — ou si un travailleur indépendant présente une telle demande et qu’une autre personne présente une demande de prestations au titre de l’article 23 — relativement au même enfant ou aux mêmes enfants, les semaines de prestations qui doivent être payées au titre du présent article, de l’article 23 ou de ces deux articles, peuvent être partagées entre eux, jusqu’à concurrence de trente-cinq semaines lorsque le nombre maximal de semaines applicable est prévu aux sous-alinéas 152.14(1)b)(i) ou 12(3)b)(i) ou de soixante et une semaines lorsque ce nombre est prévu aux sous-alinéas 152.14(1)b)(ii) ou 12(3)b)(ii). S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations doit être effectué conformément aux règles prévues par règlement.
+- **(12)** Si deux travailleurs indépendants présentent chacun une demande de prestations au titre du présent article — ou si un travailleur indépendant présente une telle demande et qu’une autre personne présente une demande de prestations au titre de l’article 23 — relativement au même enfant ou aux mêmes enfants, les semaines de prestations qui doivent être payées au titre du présent article, de l’article 23 ou de ces deux articles peuvent être partagées entre eux, jusqu’à concurrence de quarante semaines lorsque le nombre maximal de semaines choisi aux termes des paragraphes (1.1) ou 23(1.1) est prévu aux sous-alinéas 152.14(1)b)(i) ou 12(3)b)(i) ou de soixante-neuf semaines lorsque ce nombre est prévu aux sous-alinéas 152.14(1)b)(ii) ou 12(3)b)(ii). S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations doit être effectué conformément aux règles prévues par règlement.
 
 **Nombre maximal de semaines pouvant être partagées**
 
-- **(13)** Il est entendu que dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, le nombre total de semaines de prestations qui doivent être payées au titre du présent article et de l’article 23 qui peuvent être partagées entre eux ne peut dépasser trente-cinq semaines lorsque le nombre maximal de semaines applicable est prévu aux sous-alinéas 152.14(1)b)(i) ou 12(3)b)(i) ou de soixante et une semaines lorsque ce nombre est prévu aux sous-alinéas 152.14(1)b)(ii) ou 12(3)b)(ii).
+- **(13)** Il est entendu que, dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, le nombre total de semaines de prestations qui doivent être payées au titre du présent article et de l’article 23 qui peuvent être partagées entre eux ne peut dépasser :
+	- **a)** quarante semaines lorsque le nombre maximal de semaines choisi aux termes des paragraphes (1.1) ou 23(1.1) est prévu aux sous-alinéas 152.14(1)b)(i) ou 12(3)b)(i);
+	- **b)** soixante-neuf semaines lorsque ce nombre est prévu aux sous-alinéas 152.14(1)b)(ii) ou 12(3)b)(ii).
+
+**Nombre maximal de semaines par prestataire**
+
+- **(13.01)** Même lorsqu’il y a partage conformément aux paragraphes (12) et (13), le nombre maximal de semaines pour lesquelles des prestations peuvent être versées à un prestataire est de trente-cinq ou de soixante et une semaines, conformément au choix visé aux paragraphes (1.1) ou 23(1.1).
 
 **Report du délai de carence**
 
@@ -4622,7 +4640,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 - **(15)** Si un travailleur indépendant présente une demande de prestations au titre de la présente partie et qu’une autre personne présente une demande de prestations au titre des articles 22 ou 23 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
 	- **a)** dans le cas où le travailleur indépendant ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
 	- **b)** dans le cas où la personne qui présente une demande de prestations au titre des articles 22 ou 23 ne l’a pas purgé ou n’a pas choisi de le purger, elle peut faire reporter cette obligation en conformité avec l’article 23.
-> 2009, ch. 33, art. 16; 2012, ch. 27, art. 22; 2017, ch. 20, art. 245.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 22; 2017, ch. 20, art. 245; 2018, ch. 27, art. 305.
 
 
 
@@ -5079,9 +5097,11 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Maximum : cas d’une seule et même grossesse ou du placement de l’enfant**
 
-- **(2)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au titre de la présente partie à un travailleur indépendant est :
+- **(2)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au titre de la présente partie est :
 	- **a)** dans le cas d’une seule et même grossesse, quinze semaines;
-	- **b)** dans le cas de soins à donner à un ou plusieurs nouveau-nés d’une même grossesse ou du placement de un ou plusieurs enfants chez lui en vue de leur adoption, trente-cinq ou soixante et une semaines, conformément au choix visé à l’article 152.05.
+	- **b)** dans le cas de soins à donner à un ou plusieurs nouveau-nés d’une même grossesse ou du placement de un ou plusieurs enfants en vue de leur adoption :
+		- **(i)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 152.05(1.1) est prévu à l’alinéa (1)b)(i), trente-cinq semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 152.05, quarante semaines,
+		- **(ii)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 152.05(1.1) est prévu à l’alinéa (1)b)(ii), soixante et une semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 152.05, soixante-neuf semaines.
 
 **Adoption**
 
@@ -5089,7 +5109,9 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Maximum : prestations parentales**
 
-- **(4)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés à l’alinéa (2)b) et qu’une demande de prestations est présentée au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées, conformément au choix visé à l’article 152.05, pendant plus de trente-cinq ou de soixante et une semaines.
+- **(4)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés à l’alinéa (2)b) et qu’une demande de prestations est présentée au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées pendant plus du nombre de semaines ci-après :
+	- **a)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 152.05(1.1) est prévu au sous-alinéa (1)b)(i), trente-cinq semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 152.05, de quarante semaines;
+	- **b)** dans le cas où le nombre maximal de semaines choisi aux termes du paragraphe 152.05(1.1) est prévu au sous-alinéa (1)b)(ii), soixante et une semaines ou, si les semaines de prestations qui peuvent être versées sont partagées en conformité avec cet article 152.05, de soixante-neuf semaines.
 
 **Maximum : prestations de soignant**
 
@@ -5114,7 +5136,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Cumul des raisons particulières**
 
 - **(8)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (1). Toutefois, le nombre maximal de semaines de prestations pour lesquelles elles peuvent être versées au titre de ce paragraphe ne peut dépasser cinquante ou, si la période de prestations est prolongée au titre du paragraphe 152.11(14), le nombre maximal de semaines de la période de prestations calculé conformément au paragraphe 152.11(16) moins deux semaines.
-> 2009, ch. 33, art. 16; 2012, ch. 27, art. 25; 2015, ch. 36, art. 78; 2017, ch. 20, art. 251.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 25; 2015, ch. 36, art. 78; 2017, ch. 20, art. 251; 2018, ch. 27, art. 306.
 
 
 
