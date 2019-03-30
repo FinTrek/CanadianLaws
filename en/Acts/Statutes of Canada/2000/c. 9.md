@@ -16194,6 +16194,10 @@ Canada Post Corporation’s National Change of Address Database
 
 
 
+Immigration, Refugees and Citizenship Canada
+
+
+
 Info-direct<sup>TM</sup>
 
 
@@ -16201,7 +16205,7 @@ Info-direct<sup>TM</sup>
 Public Curator (Quebec)
 
 
-> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, pages 283, 976, 1329; Canada Gazette Part I, Volume 140, page 3630; Canada Gazette Part I, Volume 142, pages 2159 to 2161; Canada Gazette Part I, Volume 148, page 623.
+> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, pages 283, 976, 1329; Canada Gazette Part I, Volume 140, page 3630; Canada Gazette Part I, Volume 142, pages 2159 to 2161; Canada Gazette Part I, Volume 148, page 623; Canada Gazette Part I, Volume 153, page 1248.
 
 
 
