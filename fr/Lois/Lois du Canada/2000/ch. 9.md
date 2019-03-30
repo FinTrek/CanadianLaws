@@ -16125,6 +16125,10 @@ Curateur public (Québec)
 
 
 
+Immigration, Réfugiés et Citoyenneté Canada
+
+
+
 Info-direct<sup>TM</sup>
 
 
@@ -16132,7 +16136,7 @@ Info-direct<sup>TM</sup>
 La base de données du Programme national sur les changements d’adresse de la Société canadienne des postes
 
 
-> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup> 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup> 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, pages 283, 976 et 1329; Gazette du Canada Partie I, volume 140, page 3630; Gazette du Canada Partie I, volume 142, pages 2159 à 2161; Gazette du Canada Partie I, volume 148, page 623.
+> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup> 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup> 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, pages 283, 976 et 1329; Gazette du Canada Partie I, volume 140, page 3630; Gazette du Canada Partie I, volume 142, pages 2159 à 2161; Gazette du Canada Partie I, volume 148, page 623; Gazette du Canada Partie I, volume 153, page 1248.
 
 
 
