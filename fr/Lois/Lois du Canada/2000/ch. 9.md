@@ -124,6 +124,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***fonctionnaire électoral*** Personne visée au paragraphe 22(1). (*election officer*)
 
+***futur électeur*** Citoyen canadien âgé de quatorze ans ou plus, mais de moins de dix-huit ans. (*future elector*)
+
 ***jour de clôture*** Le jour prévu à l’article 69. (*closing day for nominations*)
 
 ***jour du scrutin*** Le jour fixé pour la tenue du scrutin au titre de l’alinéa 57(1.2)c) ou du paragraphe 59(4) ou 77(2). (*polling day*)
@@ -170,7 +172,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***région de la capitale nationale*** Région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md). (*National Capital Region*)
 
-***Registre des électeurs*** Registre tenu au titre de l’article 44. (*Register of Electors*)
+***Registre des électeurs*** Registre des électeurs tenu en application de l’alinéa 44(1)a). (*Register of Electors*)
+
+***Registre des futurs électeurs*** Registre des futurs électeurs tenu en application de l’alinéa 44(1)b). (*Register of Future Electors*)
 
 ***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*personal information*)
 
@@ -509,17 +513,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Pouvoir de communiquer des renseignements ou documents**
-
 **16.5** 
 
-- **(1)** Le directeur général des élections peut communiquer au commissaire tout document ou renseignement qu’il obtient sous le régime de la présente loi et qu’il estime utile pour l’exercice des attributions de celui-ci sous le régime de la présente loi.
+- **(1)** [Abrogé, 2018, ch. 31, art. 12]
 
 **Obligation de communiquer des renseignements ou documents**
 
 - **(2)** Le directeur général des élections communique au commissaire, à la demande de celui-ci, tout document ou renseignement qu’il a obtenu sous le régime de la présente loi et que le commissaire estime nécessaire pour l’exercice de ses attributions sous le régime de la présente loi.
-> 2014, ch. 12, art. 5.1.
+> 2014, ch. 12, art. 5.1; 2018, ch. 31, art. 12.
 
 
 
@@ -1295,7 +1296,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 **PARTIE 4** 
-## Registre des électeurs
+## Registre des électeurs et Registre des futurs électeurs
 
 
 
@@ -1303,24 +1304,34 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Directeur général des élections**
+**Tenue des registres**
 
 **44** 
 
-- **(1)** Le directeur général des élections tient le Registre des électeurs, un registre des Canadiens ayant qualité d’électeur.
+- **(1)** Le directeur général des élections tient :
+	- **a)** le Registre des électeurs, un registre des personnes ayant qualité d’électeur;
+	- **b)** le Registre des futurs électeurs, un registre des personnes ayant qualité de futur électeur.
 
 **Contenu**
 
-- **(2)** Le Registre des électeurs contient les nom, prénoms, sexe, date de naissance et adresses municipale et postale de chaque électeur inscrit et tous autres renseignements fournis dans le cadre des paragraphes 49(2), 194(7), 195(7), 223(2), 233(2) et 251(3).
+- **(2)** Le Registre des électeurs et le Registre des futurs électeurs contiennent les nom, prénoms, genre, date de naissance et adresses municipale et postale de chaque électeur ou futur électeur inscrit, selon le cas, et tous autres renseignements fournis dans le cadre des paragraphes 49(2), 211.2(4), 223(2), 233(2) et 251(3).
 
 **Identificateur**
 
-- **(2.1)** Le Registre des électeurs contient également l’identificateur unique, généré de façon aléatoire, que le directeur général des élections attribue à chaque électeur.
+- **(3)** Le Registre des électeurs et le Registre des futurs électeurs contiennent également l’identificateur unique, généré de façon aléatoire, que le directeur général des élections attribue à chaque électeur ou futur électeur, selon le cas.
+
+**Futurs électeurs devenus électeurs**
+
+- **(4)** Sous réserve du paragraphe (5), le Registre des futurs électeurs peut continuer à contenir des renseignements concernant un futur électeur après qu’il soit devenu électeur, et ce, jusqu’à ce qu’il soit inscrit au Registre des électeurs.
 
 **Inscription facultative**
 
-- **(3)** L’inscription au Registre des électeurs est facultative.
-> 2000, ch. 9, art. 44; 2001, ch. 21, art. 4; 2007, ch. 21, art. 4.
+- **(5)** L’inscription au Registre des électeurs et au Registre des futurs électeurs est facultative.
+
+**Consentement parental non requis**
+
+- **(6)** L’inscription d’un futur électeur au Registre des futurs électeurs n’est pas subordonnée au consentement de ses mère ou père ou tuteur.
+> 2000, ch. 9, art. 44; 2001, ch. 21, art. 4; 2007, ch. 21, art. 4; 2018, ch. 31, art. 36.
 
 
 
@@ -1357,22 +1368,26 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **46** 
 
-- **(1)** Le Registre des électeurs est mis à jour à partir :
+- **(1)** Le Registre des électeurs et le Registre des futurs électeurs sont mis à jour à partir :
 	- **a)** des renseignements :
-		- **(i)** soit communiqués par les électeurs au directeur général des élections,
-		- **(ii)** soit détenus par un ministère ou organisme fédéral et dont les électeurs autorisent expressément la communication au directeur général des élections;
-	- **b)** des renseignements que le directeur général des élections estime fiables et nécessaires à la mise à jour des nom, prénoms, sexe, date de naissance et adresses municipale et postale des électeurs qui y sont inscrits et qui :
+		- **(i)** soit communiqués par les électeurs ou les futurs électeurs, selon le cas, au directeur général des élections,
+		- **(ii)** soit détenus par un ministère ou organisme fédéral et dont les électeurs ou les futurs électeurs, selon le cas, autorisent expressément la communication au directeur général des élections;
+	- **b)** des renseignements que le directeur général des élections estime fiables et nécessaires à la mise à jour des nom, prénoms, genre, date de naissance et adresses municipale et postale des électeurs et des futurs électeurs qui y sont inscrits et qui :
 		- **(i)** soit sont détenus au titre d’une loi provinciale mentionnée à l’annexe 2,
 		- **(ii)** soit proviennent de toute autre source mentionnée à cette annexe.
 
+**Source de renseignements : le Registre des futurs électeurs**
+
+- **(1.01)** Le Registre des électeurs est mis à jour à partir des renseignements détenus par le directeur général des élections dans le Registre des futurs électeurs concernant des futurs électeurs qui deviennent des électeurs.
+
 **Conservation de certains renseignements**
 
-- **(1.1)** Le directeur général des élections peut conserver les renseignements recueillis au titre de l’alinéa (1)b) qui ne figurent pas au Registre des électeurs pour permettre la corrélation entre les renseignements qui seront recueillis subséquemment et ceux qui figurent au Registre des électeurs.
+- **(1.1)** Le directeur général des élections peut conserver les renseignements recueillis au titre de l’alinéa (1)b) qui ne figurent pas au Registre des électeurs ou au Registre des futurs électeurs pour permettre la corrélation entre les renseignements qui seront recueillis subséquemment et ceux qui figurent au registre en cause.
 
 **Modification de l’annexe 2**
 
 - **(2)** Le directeur général des élections peut modifier l’annexe 2 pour ajouter, modifier ou retrancher la mention d’une loi provinciale ou de toute autre source de renseignements. Aucune modification de ce genre n’entre en vigueur avant la publication d’un avis en ce sens dans la Gazette du Canada.
-> 2000, ch. 9, art. 46; 2007, ch. 21, art. 6.
+> 2000, ch. 9, art. 46; 2007, ch. 21, art. 6; 2018, ch. 31, art. 39.
 
 
 
@@ -1394,8 +1409,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Renseignements concernant la citoyenneté**
 
-**46.1** Dans la déclaration de revenu visée au paragraphe 150(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), le ministre du Revenu national peut demander aux personnes qui produisent la déclaration au titre de l’alinéa 150(1)d) de cette loi d’y indiquer si elles ont la citoyenneté canadienne en vue d’aider le directeur général des élections à mettre à jour le Registre des électeurs.
-> 2007, ch. 21, art. 7.
+**46.1** Dans la déclaration de revenu visée au paragraphe 150(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), le ministre du Revenu national peut demander aux personnes qui produisent la déclaration au titre de l’alinéa 150(1)d) de cette loi d’y indiquer si elles ont la citoyenneté canadienne en vue d’aider le directeur général des élections à mettre à jour le Registre des électeurs ou le Registre des futurs électeurs.
+> 2007, ch. 21, art. 7; 2018, ch. 31, art. 40.
 
 
 
@@ -1403,8 +1418,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Renseignements concernant les personnes décédées**
 
-**46.2** Le ministre du Revenu national communique, à la demande du directeur général des élections et en vue de mettre à jour le Registre des électeurs, les nom, date de naissance et adresse de toute personne à laquelle l’alinéa 150(1)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique, si, dans sa dernière déclaration de revenu produite au titre de l’alinéa 150(1)d) de cette loi, cette personne avait autorisé le ministre du Revenu national à communiquer ces renseignements au directeur général des élections aux fins du Registre des électeurs.
-> 2007, ch. 21, art. 7.
+**46.2** Le ministre du Revenu national communique, à la demande du directeur général des élections et en vue de mettre à jour le Registre des électeurs ou le Registre des futurs électeurs, les nom, date de naissance et adresse de toute personne à laquelle l’alinéa 150(1)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique, si, dans sa dernière déclaration de revenu produite au titre de l’alinéa 150(1)d) de cette loi, cette personne avait autorisé le ministre du Revenu national à communiquer ces renseignements au directeur général des élections pour les besoins du registre en cause.
+> 2007, ch. 21, art. 7; 2018, ch. 31, art. 40.
 
 
 
@@ -1417,30 +1432,33 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
-**Autre responsabilité du directeur du scrutin**
+**Autres responsabilités du directeur du scrutin**
 
-**47.1** Entre les périodes électorales, le directeur du scrutin de chaque circonscription exerce les attributions qui lui sont conférées par le directeur général des élections relativement à la mise à jour du Registre des électeurs.
-> 2007, ch. 21, art. 8.
-
-
+**47.1** Entre les périodes électorales, le directeur du scrutin de chaque circonscription exerce les fonctions qui lui sont conférées par le directeur général des élections relativement à la mise à jour du Registre des électeurs ou du Registre des futurs électeurs.
+> 2007, ch. 21, art. 8; 2018, ch. 31, art. 41.
 
 
 
-**Inscription d’un nouvel électeur**
+
+
+**Inscription d’un électeur ou d’un futur électeur**
 
 **48** 
 
-- **(1)** Avant de procéder à l’inscription d’un nouvel électeur, le directeur général des élections lui fait parvenir les renseignements dont il dispose à son égard et lui demande s’il désire être inscrit.
+- **(1)** Avant de procéder à l’inscription d’un électeur au Registre des électeurs ou d’un futur électeur au Registre des futurs électeurs, le directeur général des élections lui fait parvenir les renseignements dont il dispose à son égard et lui demande s’il désire être inscrit.
 
-**Obligation de l’électeur**
+**Obligation de l’électeur ou du futur électeur**
 
-- **(2)** S’il désire être inscrit, l’électeur confirme, corrige ou complète par écrit les renseignements le concernant et les renvoie au directeur général des élections avec l’attestation — portant sa signature — de sa qualité d’électeur au titre de l’article 3.
+- **(2)** S’il désire être inscrit, l’électeur ou le futur électeur confirme, corrige ou complète par écrit les renseignements le concernant et les renvoie au directeur général des élections avec l’attestation — portant sa signature — de sa qualité d’électeur ou de futur électeur, selon le cas.
 
 **Exceptions**
 
-- **(3)** Est soustraite à l’application du présent article l’inscription d’un nouvel électeur qui, selon le cas :
-	- **a)** est faite à la demande de ce dernier;
-	- **b)** est fondée sur des listes électorales établies au titre d’une loi provinciale, dans la mesure où elles comportent les renseignements que le directeur général des élections estime suffisants pour l’inscription.
+- **(3)** Est soustraite à l’application du présent article l’inscription d’un électeur ou d’un futur électeur qui, selon le cas :
+	- **a)** est faite à la demande de celui-ci;
+	- **b)** est fondée sur des listes d’électeurs ou de futurs électeurs établies au titre d’une loi provinciale, dans la mesure où elles comportent les renseignements que le directeur général des élections estime suffisants pour l’inscription;
+	- **c)** est faite à partir des renseignements qui servent à mettre à jour le Registre des électeurs au titre du paragraphe 46(1.01).
+> 2000, ch. 9, art. 48; 2018, ch. 31, art. 41.
+
 
 
 
@@ -1449,25 +1467,31 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **49** 
 
-- **(1)** Toute personne peut à tout moment demander au directeur général des élections d’être inscrite au Registre des électeurs si elle atteste par sa signature sa qualité d’électeur, lui communique ses nom, prénoms, sexe, date de naissance et adresses municipale et postale et lui fournit une preuve suffisante de son identité.
+- **(1)** Toute personne peut à tout moment demander au directeur général des élections d’être inscrite au Registre des électeurs ou au Registre des futurs électeurs si elle atteste par sa signature sa qualité d’électeur ou de futur électeur, selon le cas, lui communique ses nom, prénoms, genre, date de naissance et adresses municipale et postale et lui fournit une preuve suffisante de son identité.
 
-**Renseignements dont la communication est facultative**
+**Renseignements facultatifs**
 
-- **(2)** Le directeur général des élections peut demander à l’électeur de lui communiquer tous renseignements supplémentaires qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
+- **(2)** Le directeur général des élections peut demander à l’électeur ou au futur électeur de lui communiquer tous renseignements supplémentaires qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
+> 2000, ch. 9, art. 49; 2018, ch. 31, art. 41.
+
 
 
 
 
 **Corrections**
 
-**50** L’électeur peut communiquer au directeur général des élections tout changement à l’égard des renseignements le concernant qui figurent au Registre des électeurs. Le directeur général des élections apporte alors les corrections nécessaires.
+**50** L’électeur ou le futur électeur peut communiquer au directeur général des élections tout changement à l’égard des renseignements le concernant qui figurent au Registre des électeurs ou au Registre des futurs électeurs, selon le cas. Le directeur général des élections apporte alors les corrections nécessaires.
+> 2000, ch. 9, art. 50; 2018, ch. 31, art. 41.
+
 
 
 
 
 **Vérification**
 
-**51** Le directeur général des élections peut communiquer avec l’électeur pour vérifier l’exactitude des renseignements le concernant dont il dispose et lui demander de les confirmer, de les corriger ou de les compléter, et de les lui renvoyer dans les soixante jours suivant réception de la demande.
+**51** Le directeur général des élections peut communiquer avec l’électeur ou le futur électeur pour vérifier l’exactitude des renseignements dont il dispose le concernant et lui demander de les confirmer, de les corriger ou de les compléter, et de les lui renvoyer dans les soixante jours suivant réception de la demande.
+> 2000, ch. 9, art. 51; 2018, ch. 31, art. 41.
+
 
 
 
@@ -1476,11 +1500,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **52** 
 
-- **(1)** Le directeur général des élections radie du Registre des électeurs le nom de la personne qui, selon le cas :
+- **(1)** Le directeur général des élections radie du Registre des électeurs ou du Registre des futurs électeurs le nom de la personne qui, selon le cas :
 	- **a)** est décédée;
-	- **b)** n’est pas un électeur;
+	- **b)** n’est pas un électeur ou un futur électeur, selon le cas, sous réserve du paragraphe 44(4);
 	- **c)** lui en fait la demande par écrit;
-	- **d)** est soumise à un régime de protection établi par ordonnance d’un tribunal, notamment la tutelle ou la curatelle à la personne, si le représentant dûment autorisé à la représenter sous ce régime lui en fait la demande par écrit.
+	- **d)** est soumise, pour cause d’incapacité mentale, à un régime de protection établi par ordonnance d’un tribunal, notamment la tutelle ou la curatelle à la personne, si le représentant dûment autorisé à la représenter sous ce régime lui en fait la demande par écrit;
+	- **e)** est un futur électeur ayant une incapacité mentale, si sa mère ou son père lui en fait la demande par écrit.
 
 **Conditions à la radiation**
 
@@ -1488,8 +1513,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Radiation**
 
-- **(2)** Le directeur général des élections peut radier du Registre des électeurs le nom de la personne qui ne donne pas suite dans le délai imparti à la demande qui lui est faite au titre de l’article 51.
-> 2000, ch. 9, art. 52; 2014, ch. 12, art. 23.
+- **(2)** Le directeur général des élections peut radier du Registre des électeurs ou du Registre des futurs électeurs le nom de la personne qui ne donne pas suite dans le délai imparti à la demande qui lui est faite au titre de l’article 51.
+> 2000, ch. 9, art. 52; 2014, ch. 12, art. 23; 2018, ch. 31, art. 42.
 
 
 
@@ -1497,14 +1522,26 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **Utilisation restreinte des renseignements**
 
-**53** Si l’électeur en fait la demande par écrit au directeur général des élections, les renseignements le concernant qui figurent au Registre des électeurs ne sont utilisés qu’à des fins électorales ou référendaires fédérales.
+**53** 
+
+- **(1)** Si l’électeur en fait la demande par écrit au directeur général des élections, les renseignements le concernant qui figurent au Registre des électeurs ne sont utilisés qu’à des fins électorales ou référendaires fédérales.
+
+**Utilisation restreinte des renseignements — Registre des futurs électeurs**
+
+- **(2)** Si le futur électeur en fait la demande par écrit au directeur général des élections, les renseignements le concernant qui figurent au Registre des futurs électeurs ne sont utilisés qu’aux fins suivantes :
+	- **a)** la mise à jour du Registre des électeurs;
+	- **b)** la communication d’un renseignement transmis dans le cadre des programmes d’information et d’éducation populaire visés au paragraphe 18(1).
+> 2000, ch. 9, art. 53; 2018, ch. 31, art. 43.
+
 
 
 
 
 **Accès aux renseignements personnels**
 
-**54** Sur demande écrite de l’électeur, le directeur général des élections lui communique tous les renseignements le concernant dont il dispose.
+**54** Sur demande écrite de l’électeur ou du futur électeur, le directeur général des élections lui communique tous les renseignements dont il dispose le concernant.
+> 2000, ch. 9, art. 54; 2018, ch. 31, art. 44.
+
 
 
 
@@ -1517,7 +1554,11 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **55** 
 
-- **(1)** Le directeur général des élections peut conclure avec tout organisme chargé, au titre d’une loi provinciale, d’établir une liste électorale un accord visant la communication des renseignements qui figurent au Registre des électeurs ou celle des renseignements que le directeur général des élections a l’intention d’inclure dans ce registre et qui sont visés aux paragraphes 44(2) ou (2.1), si ces renseignements sont nécessaires à l’établissement d’une telle liste.
+- **(1)** Le directeur général des élections peut conclure avec tout organisme chargé, au titre d’une loi provinciale, d’établir une liste d’électeurs ou de futurs électeurs un accord visant la communication des renseignements qui figurent au Registre des électeurs ou au Registre des futurs électeurs ou celle des renseignements que le directeur général des élections a l’intention d’inclure dans l’un ou l’autre de ces registres et qui sont visés aux paragraphes 44(2) ou (3), si ces renseignements sont nécessaires à l’établissement d’une telle liste.
+
+**Exception**
+
+- **(1.1)** Malgré le paragraphe (1), le directeur général des élections ne peut conclure — avec tout organisme tenu, au titre d’une loi provinciale, de communiquer aux partis politiques, aux entités associées à un parti politique ou aux députés d’une assemblée législative des renseignements concernant de futurs électeurs ou de mettre de tels renseignements à leur disposition — un accord visant la communication des renseignements qui figurent au Registre des futurs électeurs ou celle des renseignements visés aux paragraphes 44(2) ou (3) concernant de futurs électeurs.
 
 **Restrictions**
 
@@ -1528,7 +1569,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Contrepartie**
 
 - **(4)** L’accord peut prévoir toute contrepartie valable pour la communication des renseignements.
-> 2000, ch. 9, art. 55; 2007, ch. 21, art. 9.
+> 2000, ch. 9, art. 55; 2007, ch. 21, art. 9; 2018, ch. 31, art. 45.
 
 
 
@@ -1541,16 +1582,21 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 **Interdictions**
 
 **56** Il est interdit à quiconque :
-- **a)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à sa qualité d’électeur ou au sujet des autres renseignements visés à l’article 49;
-- **b)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à la qualité d’électeur, aux nom, prénoms, sexe ou adresses municipale ou postale d’une autre personne, ou encore à l’identificateur qui lui a été attribué par le directeur général des élections en vue de la faire radier du Registre des électeurs;
-- **c)** de demander que soit inscrit au Registre des électeurs le nom d’une personne sachant que celle-ci n’a pas qualité d’électeur;
-- **d)** de demander volontairement que soit inscrit au Registre des électeurs le nom d’une chose ou d’un animal;
+- **a)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à sa qualité d’électeur ou de futur électeur ou au sujet des autres renseignements visés à l’article 49;
+- **b)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à la qualité d’électeur ou de futur électeur, aux nom, prénoms, genre ou adresses municipale ou postale d’une autre personne, ou encore à l’identificateur qui lui a été attribué par le directeur général des élections, et ce, en vue de la faire radier du Registre des électeurs ou du Registre des futurs électeurs, selon le cas;
+- **c)** de demander que soit inscrit au Registre des électeurs ou au Registre des futurs électeurs le nom d’une personne sachant que celle-ci n’a pas qualité d’électeur ou de futur électeur, selon le cas;
+- **d)** de demander sciemment que soit inscrit au Registre des électeurs ou au Registre des futurs électeurs le nom d’une chose ou d’un animal;
 - **e)** d’utiliser sciemment un renseignement personnel tiré du Registre des électeurs sauf :
 	- **(i)** pour permettre, conformément à l’article 110, aux partis enregistrés, aux députés et aux candidats de communiquer avec des électeurs,
-	- **(ii)** pour les besoins d’une élection ou d’un référendum fédéral,
+	- **(ii)** pour l’exécution et le contrôle d’application de la présente loi ou de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md),
 	- **(iii)** pour la communication d’un renseignement transmis dans le cadre de l’accord prévu à l’article 55, conformément aux conditions prévues par celui-ci;
+- **e.1)** d’utiliser sciemment un renseignement personnel tiré du Registre des futurs électeurs sauf :
+	- **(i)** pour la mise à jour du Registre des électeurs,
+	- **(ii)** pour la communication d’un renseignement transmis dans le cadre des programmes d’information et d’éducation populaire visés au paragraphe 18(1),
+	- **(iii)** pour l’exécution et le contrôle d’application de la présente loi ou de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md),
+	- **(iv)** pour la communication d’un renseignement transmis dans le cadre de l’accord prévu à l’article 55, conformément aux conditions prévues par celui-ci;
 - **f)** d’utiliser sciemment tout autre renseignement personnel transmis dans le cadre d’un accord prévu à l’article 55, sauf conformément aux conditions prévues dans l’accord.
-> 2000, ch. 9, art. 56; 2007, ch. 21, art. 10.
+> 2000, ch. 9, art. 56; 2007, ch. 21, art. 10; 2018, ch. 31, art. 46.
 
 
 
@@ -3933,7 +3979,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 ***agent coordonnateur*** Personne désignée, selon le cas, par le ministre de la Défense nationale en vertu du paragraphe 199(1) ou par le ministre responsable des services correctionnels dans une province en vertu de l’article 246. (*coordinating officer*)
 
-***agent de liaison*** Selon le cas, électeur des Forces canadiennes désigné en vertu de l’article 201 ou personne nommée en vertu du paragraphe 248(1). (*liaison officer*)
+***agent de liaison*** Selon le cas, électeur désigné au titre du paragraphe 199.2(1) ou personne nommée en vertu du paragraphe 248(1). (*liaison officer*)
 
 ***agent des bulletins de vote spéciaux*** Personne nommée par le directeur général des élections conformément aux articles 183 ou 184. (*special ballot officer*)
 
@@ -3960,6 +4006,8 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 ***territoire de vote*** Toute zone établie en vertu de l’article 180. (*voting territory*)
 
 ***unité*** S’entend au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et vise notamment une base ou un autre élément. (*unit*)
+> 2000, ch. 9, art. 177; 2018, ch. 31, art. 124.
+
 
 
 
@@ -4292,40 +4340,56 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 
+#### Agents de liaison
+
+
+
+**Désignation d’agents de liaison**
+
+**199.2** 
+
+- **(1)** Le ministre de la Défense nationale désigne un ou plusieurs électeurs pour remplir les fonctions d’agent de liaison et travailler, tant au cours de la période électorale qu’entre les périodes électorales, avec le directeur général des élections et l’agent coordonnateur à l’application de la présente section.
+
+**Obligation de l’agent coordonnateur**
+
+- **(2)** À la suite de la désignation d’un agent de liaison, l’agent coordonnateur transmet son nom et son adresse au directeur général des élections.
+> 2018, ch. 31, art. 136.
+
+
+
+
+
 #### Opérations préparatoires au scrutin
 
 
 
 **Obligation du directeur général des élections**
 
-**200** Sans délai après la délivrance des brefs, le directeur général des élections avise le ministre de la Défense nationale et l’agent coordonnateur de la délivrance des brefs et du lieu où sont situés les territoires de vote et les centres administratifs.
+**200** Sans délai après la délivrance des brefs, le directeur général des élections avise le ministre de la Défense nationale et l’agent coordonnateur de la délivrance des brefs.
+> 2000, ch. 9, art. 200; 2018, ch. 31, art. 137.
 
 
 
 
-**Obligation du ministre de la Défense nationale**
-
-**201** Sur réception de l’information, le ministre de la Défense nationale désigne un ou plusieurs électeurs pour remplir les fonctions d’agents de liaison pour la tenue du scrutin.
+**201** [Abrogé, 2018, ch. 31, art. 137]
 
 
 
 
 **Obligation de l’agent coordonnateur**
 
-**202** Sur réception de l’information, l’agent coordonnateur avise les commandants de la délivrance des brefs et informe le directeur général des élections des nom et adresse de chacun des agents de liaison.
+**202** Sans délai après avoir été avisé de la délivrance des brefs, l’agent coordonnateur avise les agents de liaison et les commandants de la délivrance des brefs.
+> 2000, ch. 9, art. 202; 2018, ch. 31, art. 137.
 
 
 
 
-**Obligation de l’agent de liaison — communication**
 
-**203** 
+**Obligation de l’agent de liaison — renseignements**
 
-- **(1)** Dès qu’il est désigné, l’agent de liaison communique avec les commandants des unités pour lesquelles il est responsable et leur fournit tous les renseignements utiles à la tenue du scrutin.
+**203** Sans délai après avoir été avisé de la délivrance des brefs, l’agent de liaison fournit aux commandants des unités desquelles il est responsable tous les renseignements utiles à l’application de la présente section.
+> 2000, ch. 9, art. 203; 2018, ch. 31, art. 137.
 
-**Obligation de l’agent de liaison — coopération**
-
-- **(2)** L’agent de liaison coopère avec le directeur général des élections pour la tenue du scrutin.
 
 
 
@@ -8157,17 +8221,53 @@ La demande est notifiée au directeur général des élections.
 	- **g)** les nom et adresse du vérificateur du parti et la déclaration signée attestant son acceptation de la charge;
 	- **h)** les nom et adresse de l’agent principal du parti et la déclaration signée attestant son acceptation de la charge;
 	- **i)** les nom et adresse de deux cent cinquante électeurs et la déclaration de ceux-ci, établie selon le formulaire prescrit, attestant qu’ils sont membres du parti et qu’ils appuient la demande d’enregistrement du parti;
-	- **j)** la déclaration du chef du parti, établie selon le formulaire prescrit, confirmant que, compte tenu de tous les éléments permettant d’établir les objectifs du parti, notamment ceux mentionnés au paragraphe 521.1(5), l’un des objectifs essentiels du parti consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres.
+	- **j)** la déclaration du chef du parti, établie selon le formulaire prescrit, confirmant que, compte tenu de tous les éléments permettant d’établir les objectifs du parti, notamment ceux mentionnés au paragraphe 521.1(5), l’un des objectifs essentiels du parti consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres;
+	- **k)** la politique sur la protection des renseignements personnels du parti, notamment :
+		- **(i)** une déclaration indiquant les types de renseignements personnels que le parti recueille et la façon dont il recueille ces renseignements,
+		- **(ii)** une déclaration indiquant les mesures qu’il prend pour protéger les renseignements personnels dont il a le contrôle,
+		- **(iii)** une déclaration indiquant comment le parti utilise les renseignements personnels dont il a le contrôle et dans quelles circonstances ceux-ci peuvent être vendus à des personnes ou des entités,
+		- **(iv)** une déclaration indiquant la formation qui doit être donnée à tout employé du parti qui pourrait avoir accès à des renseignements personnels dont le parti a le contrôle, en ce qui a trait à la collecte et à l’utilisation de renseignements personnels,
+		- **(v)** une déclaration indiquant les pratiques du parti relatives :
+			- **(A)** à la collecte et à l’utilisation de renseignements personnels créés sur la base d’activités en ligne,
+			- **(B)** à l’utilisation de témoins par le parti,
+		- **(vi)** les nom et coordonnées de la personne à qui toute question relative à la politique sur la protection des renseignements personnels du parti peut être posée;
+	- **l)** l’adresse de la page — accessible au public — se trouvant sur le site Internet du parti où sa politique sur la protection des renseignements personnels est publiée au titre du paragraphe (4).
 
 **Renseignements supplémentaires**
 
 - **(3)** Le directeur général des élections peut, pour vérifier si le parti compte parmi ses objectifs essentiels celui qui est mentionné à l’alinéa (2)j), demander au chef du parti de lui communiquer tous renseignements utiles, notamment ceux visés au paragraphe 521.1(5).
-> 2000, ch. 9, art. 385; 2003, ch. 19, art. 13; 2004, ch. 24, art. 16; 2014, ch. 12, art. 86.
+
+**Publication de la politique sur la protection des renseignements personnels**
+
+- **(4)** Avant que son chef ne demande l’enregistrement du parti politique au titre du présent article, le parti publie sur son site Internet sa politique sur la protection des renseignements personnels visée à l’alinéa (2)k).
+> 2000, ch. 9, art. 385; 2003, ch. 19, art. 13; 2004, ch. 24, art. 16; 2014, ch. 12, art. 86; 2018, ch. 31, art. 254.
 
 
 
 
-**385.1** [Abrogé, 2014, ch. 12, art. 86]
+
+**Politique sur la protection des renseignements personnels — parti déjà enregistré, etc.**
+
+**385.1** 
+
+- **(1)** Dans les trois mois suivant la date d’entrée en vigueur du présent article, le chef d’un parti politique fournit au directeur général des élections la politique du parti sur la protection des renseignements personnels visée à l’alinéa 385(2)k) ainsi que l’adresse Internet visée à l’alinéa 385(2)l) si, selon le cas :
+	- **a)** avant la date de l’entrée en vigueur du présent article, le chef du parti a demandé l’enregistrement du parti au titre de l’article 385 mais, à cette date, le directeur général des élections n’a pas encore avisé le chef du parti au titre du paragraphe 389(1) de l’admissibilité ou de l’inadmissibilité du parti au titre de l’article 387;
+	- **b)** à la date de l’entrée en vigueur du présent article :
+		- **(i)** le parti est un parti admissible,
+		- **(ii)** le parti est un parti enregistré.
+
+**Défaut de se conformer**
+
+- **(2)** Si le chef du parti politique ne se conforme pas au paragraphe (1) :
+	- **a)** dans le cas d’un parti visé à l’alinéa (1)a), le parti n’est pas admissible à l’enregistrement au titre de l’article 387;
+	- **b)** dans le cas d’un parti visé au sous-alinéa (1)b)(i), le parti ne peut être enregistré au titre de l’article 390;
+	- **c)** dans le cas d’un parti visé au sous-alinéa (1)b)(ii), le directeur général des élections met en oeuvre la procédure de radiation non volontaire prévue aux articles 415, 416 et 418.
+
+**Renseignements réputés faire partie de la demande d’enregistrement**
+
+- **(3)** Si le chef du parti politique fournit la politique et l’adresse visées au paragraphe (1) au directeur général des élections conformément à ce paragraphe ou conformément à l’article 415, la demande d’enregistrement visée au paragraphe 385(2) relative au parti est réputée comporter cette politique et cette adresse, à compter de la date où elles sont fournies.
+> 2004, ch. 24, art. 16; 2014, ch. 12, art. 86; 2018, ch. 31, art. 255.
+
 
 
 
@@ -8304,8 +8404,8 @@ La demande est notifiée au directeur général des élections.
 
 **Registre des partis politiques**
 
-**394** Le directeur général des élections tient un registre des partis politiques où il inscrit les renseignements visés aux alinéas 385(2)a) à h) et aux paragraphes 396(2) et 418(2).
-> 2000, ch. 9, art. 394; 2014, ch. 12, art. 86.
+**394** Le directeur général des élections tient un registre des partis politiques où il inscrit les renseignements visés aux alinéas 385(2)a) à h), k) et l) et aux paragraphes 396(2) et 418(2).
+> 2000, ch. 9, art. 394; 2014, ch. 12, art. 86; 2018, ch. 31, art. 257.
 
 
 
@@ -8702,7 +8802,12 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**405.1** [Abrogé, 2014, ch. 12, art. 86]
+
+**Publication des modifications à la politique sur la protection des renseignements personnels**
+
+**405.1** Dans les meilleurs délais après la production d’un rapport écrit auprès du directeur général des élections au titre du paragraphe 405(1) faisant état d’une modification à sa politique sur la protection des renseignements personnels, le parti enregistré ou le parti admissible publie sur son site Internet une version à jour de sa politique, incorporant la modification indiquée dans le rapport.
+> 2003, ch. 19, art. 25; 2006, ch. 9, art. 47; 2014, ch. 12, art. 81 et 86; 2018, ch. 31, art. 258.
+
 
 
 
@@ -8841,17 +8946,27 @@ La demande est notifiée au directeur général des élections.
 
 **Radiation : manquements**
 
-**412** Le directeur général des élections peut radier un parti enregistré pour manquement à l’une ou l’autre des obligations suivantes :
-- **a)** la production d’un des documents visés à l’article 392;
-- **b)** la production d’un rapport, au titre du paragraphe 396(2), sur la nomination d’un agent enregistré;
-- **c)** la production d’un document, au titre des paragraphes 400(2) ou 405(1) ou (4), sur le remplacement de l’agent principal ou du vérificateur;
-- **d)** la production d’un document, au titre des paragraphes 405(1) et (3), sur le remplacement du chef;
-- **e)** la production d’un rapport, au titre du paragraphe 405(2), sur les changements apportés au nom intégral ou abrégé, à l’abréviation du nom ou au logo du parti visés aux alinéas 385(2)a) à c);
-- **f)** la production d’un rapport, au titre du paragraphe 405(1), sur la modification d’autres renseignements concernant le parti;
-- **g)** la confirmation, au titre du paragraphe 406(1) ou de l’article 407, de l’exactitude des renseignements;
-- **h)** le dépôt d’un rapport au titre du paragraphe 476.1(1), dans le cas où l’obligation incombe au parti enregistré;
-- **i)** le dépôt d’une déclaration au titre des paragraphes 478.1(1) ou (2).
-> 2000, ch. 9, art. 412; 2003, ch. 19, art. 30; 2014, ch. 12, art. 86.
+**412** 
+
+- **(1)** Le directeur général des élections peut radier un parti enregistré pour manquement à l’une ou l’autre des obligations suivantes :
+	- **a)** la production d’un des documents visés à l’article 392;
+	- **b)** la production d’un rapport, au titre du paragraphe 396(2), sur la nomination d’un agent enregistré;
+	- **c)** la production d’un document, au titre des paragraphes 400(2) ou 405(1) ou (4), sur le remplacement de l’agent principal ou du vérificateur;
+	- **d)** la production d’un document, au titre des paragraphes 405(1) et (3), sur le remplacement du chef;
+	- **e)** la production d’un rapport, au titre du paragraphe 405(2), sur les changements apportés au nom intégral ou abrégé, à l’abréviation du nom ou au logo du parti visés aux alinéas 385(2)a) à c);
+	- **f)** la production d’un rapport, au titre du paragraphe 405(1), sur la modification d’autres renseignements concernant le parti;
+	- **g)** la confirmation, au titre du paragraphe 406(1) ou de l’article 407, de l’exactitude des renseignements;
+	- **h)** le dépôt d’un rapport au titre du paragraphe 476.1(1), dans le cas où l’obligation incombe au parti enregistré;
+	- **i)** le dépôt d’une déclaration au titre des paragraphes 478.1(1) ou (2).
+
+**Radiation : défaut de publier une version à jour de la politique sur la protection des renseignements personnels**
+
+- **(2)** Le directeur général des élections peut radier un parti enregistré si ce dernier fait défaut de publier sur son site Internet une version à jour de sa politique sur la protection des renseignements personnels comme l’exige l’article 405.1.
+
+**Radiation : défaut de maintenir une politique sur la protection des renseignements personnels**
+
+- **(3)** Le directeur général des élections peut radier un parti enregistré si ce dernier fait défaut de maintenir une politique sur la protection des renseignements personnels visée à l’alinéa 385(2)k).
+> 2000, ch. 9, art. 412; 2003, ch. 19, art. 30; 2014, ch. 12, art. 86; 2018, ch. 31, art. 260.
 
 
 
@@ -13635,7 +13750,7 @@ La demande est notifiée au directeur général des élections.
 
 
 
-#### Infractions à la partie 4 (Registre des électeurs)
+#### Infractions à la partie 4 (Registre des électeurs et Registre des futurs électeurs)
 
 
 
@@ -13643,11 +13758,13 @@ La demande est notifiée au directeur général des élections.
 
 **485** 
 
-- **(1)** Commet une infraction quiconque contrevient à l’alinéa 56e) (utilisation de renseignements personnels figurant au Registre des électeurs à des fins non autorisées).
+- **(1)** Commet une infraction quiconque contrevient aux alinéas 56e) ou e.1) (utilisation de renseignements personnels figurant au Registre des électeurs ou au Registre des futurs électeurs à des fins non autorisées).
 
 **Infraction exigeant une intention — double procédure**
 
-- **(2)** Commet une infraction quiconque contrevient à l’un ou l’autre des alinéas 56a) à d) (actions interdites relatives au Registre des électeurs).
+- **(2)** Commet une infraction quiconque contrevient à l’un ou l’autre des alinéas 56a) à d) (actions interdites relatives au Registre des électeurs ou au Registre des futurs électeurs).
+> 2000, ch. 9, art. 485; 2018, ch. 31, art. 326.
+
 
 
 
@@ -14690,20 +14807,20 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Position — Bureau du directeur des poursuites pénales**
+**Poste — bureau du directeur général des élections**
 
 **509.1** 
 
-- **(1)** Le commissaire occupe son poste au sein du Bureau du directeur des poursuites pénales.
+- **(1)** Le commissaire occupe son poste au sein du bureau du directeur général des élections.
 
 **Administrateur général — [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
-- **(2)** Pour l’application des articles 11 à 13 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le commissaire est l’administrateur général à l’égard des secteurs de l’administration publique fédérale faisant partie du Bureau du directeur des poursuites pénales dans lesquels les employés visés à l’article 509.3 occupent un poste.
+- **(2)** Pour l’application des articles 11 à 13 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le commissaire est l’administrateur général à l’égard des secteurs de l’administration publique fédérale faisant partie du bureau du directeur général des élections dans lesquels les employés visés à l’article 509.3 occupent un poste.
 
 **Administrateur général — [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
 
-- **(3)** Pour l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le commissaire est l’administrateur général dans les secteurs de l’administration publique fédérale faisant partie du Bureau du directeur des poursuites pénales dans lesquels les employés visés à l’article 509.3 occupent un poste.
-> 2014, ch. 12, art. 108.
+- **(3)** Pour l’application de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le commissaire est l’administrateur général dans les secteurs de l’administration publique fédérale faisant partie du bureau du directeur général des élections dans lesquels les employés visés à l’article 509.3 occupent un poste.
+> 2014, ch. 12, art. 108; 2018, ch. 31, art. 352.
 
 
 
@@ -14711,8 +14828,37 @@ La demande est notifiée au directeur général des élections.
 
 **Fonction du commissaire**
 
-**509.2** Le commissaire est chargé de veiller à l’observation et au contrôle d’application de la présente loi, à l’exception de la section 1.1 de la partie 16.1.
-> 2014, ch. 12, art. 108 et 157.
+**509.2** Le commissaire est chargé de veiller à l’observation et au contrôle d’application de la présente loi, à l’exception de la section 1.1 de la partie 16.1, en prenant toute mesure prévue par la présente loi, notamment :
+- **a)** mener des enquêtes;
+- **b)** engager des poursuites pour infraction à la présente loi;
+- **c)** conclure des transactions;
+- **d)** [Non en vigueur]
+- **e)** [Non en vigueur]
+> 2014, ch. 12, art. 108 et 157; 2018, ch. 31, art. 352.
+
+
+
+
+
+**Indépendance**
+
+**509.21** 
+
+- **(1)** Toute activité exercée ou toute décision prise par le commissaire en vertu d’une disposition de la partie 19 est exercée ou prise de façon indépendante du directeur général des élections.
+
+**Précision**
+
+- **(2)** Le paragraphe (1) n’a pas pour effet d’empêcher le commissaire de consulter le directeur général des élections à l’égard de toute question qu’il estime indiquée.
+> 2018, ch. 31, art. 352.
+
+
+
+
+
+**Prise de mesures**
+
+**509.22** Le commissaire peut prendre toute mesure qu’il estime dans l’intérêt public, notamment engager des dépenses dans l’exercice de ses attributions au titre de la présente partie.
+> 2018, ch. 31, art. 352.
 
 
 
@@ -14748,8 +14894,8 @@ La demande est notifiée au directeur général des élections.
 
 **Autorisation**
 
-**509.5** Le commissaire peut autoriser toute personne employée au sein du Bureau du directeur des poursuites pénales à l’aider à exercer, aux conditions qu’il fixe, les attributions découlant de l’application des paragraphes 509.1(2) ou (3) ou prévues à l’article 509.4.
-> 2014, ch. 12, art. 108.
+**509.5** Le commissaire peut autoriser toute personne employée au sein du bureau du directeur général des élections à l’aider à exercer, aux conditions qu’il fixe, les attributions découlant de l’application des paragraphes 509.1(2) ou (3) ou prévues à l’article 509.4.
+> 2014, ch. 12, art. 108; 2018, ch. 31, art. 353.
 
 
 
@@ -14761,16 +14907,16 @@ La demande est notifiée au directeur général des élections.
 
 **Dépenses, indemnités et salaires**
 
-**509.6** Sont acquittés sur les fonds non attribués du Trésor, sur présentation du certificat du directeur des poursuites pénales :
+**509.6** Sont acquittés sur les fonds non attribués du Trésor, sur présentation du certificat du directeur général des élections :
 - **a)** la rémunération du commissaire ou des employés visés au paragraphe 509.3(2) et la rémunération versée aux employés visés au paragraphe 509.3(1) au titre des heures supplémentaires consacrées à l’exercice des attributions du commissaire dans le cadre de la présente loi;
 - **b)** les frais engagés par le commissaire, en son nom ou à son égard, au titre des autres dispositions de la présente partie.
-> 2014, ch. 12, art. 108.
+> 2014, ch. 12, art. 108; 2018, ch. 31, art. 354.
 
 
 
 
 
-### Enquêtes et poursuites
+### Enquêtes
 
 
 
@@ -14935,7 +15081,7 @@ La demande est notifiée au directeur général des élections.
 - **(2)** Le commissaire peut communiquer — ou autoriser toute personne agissant sous son autorité à communiquer — les renseignements suivants :
 	- **a)** avec le consentement de l’intéressé, le nom du plaignant, de la personne dont la conduite fait l’objet de l’enquête ou d’un témoin;
 	- **b)** les renseignements qui, à son avis, sont nécessaires pour mener une enquête;
-	- **c)** les renseignements requis par le directeur des poursuites pénales, lorsqu’on lui renvoie une affaire en application du paragraphe 511(1);
+	- **c)** les renseignements requis par le directeur des poursuites pénales, lorsque des poursuites ont été engagées en vertu du paragraphe 511(1);
 	- **d)** les renseignements dont la communication est nécessaire dans le cadre des poursuites relatives à une infraction à la présente loi;
 	- **e)** les renseignements dont la communication est requise par toute autre loi fédérale;
 	- **f)** les renseignements qui, à son avis, sont nécessaires pour conclure ou modifier une transaction;
@@ -14947,26 +15093,26 @@ La demande est notifiée au directeur général des élections.
 	- **a)** le droit à la vie privée de l’intéressé;
 	- **b)** le droit à la présomption d’innocence, jusqu’à ce que la preuve de culpabilité ait été établie conformément au droit, de la personne sous enquête;
 	- **c)** la confiance du public dans l’équité du processus électoral.
-> 2014, ch. 12, art. 108.
+> 2014, ch. 12, art. 108; 2018, ch. 31, art. 358.
 
 
 
 
 
-**Poursuites par le directeur des poursuites pénales**
+### Poursuites
+
+
+
+**Poursuites engagées par le commissaire**
 
 **511** 
 
-- **(1)** S’il a des motifs raisonnables de croire qu’une infraction à la présente loi a été commise, le commissaire renvoie l’affaire au directeur des poursuites pénales qui décide s’il y a lieu d’engager des poursuites visant à la sanctionner.
+- **(1)** S’il a des motifs raisonnables de croire qu’une infraction à la présente loi a été commise, le commissaire peut engager ou faire engager des poursuites visant à la sanctionner.
 
 **Dépôt d’une dénonciation**
 
-- **(2)** S’il y a lieu d’engager des poursuites, le directeur des poursuites pénales demande au commissaire de faire déposer une dénonciation par écrit et sous serment devant un juge de paix au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-
-**Perquisition et saisie**
-
-- **(3)** Pour l’application de l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute personne chargée par le commissaire d’attributions relatives à l’application ou à l’exécution de la présente loi est réputée être un fonctionnaire public.
-> 2000, ch. 9, art. 511; 2003, ch. 19, art. 62; 2006, ch. 9, art. 130.
+- **(2)** Les poursuites pour infraction à la présente loi sont engagées par le dépôt d’une dénonciation écrite faite sous serment devant un juge de paix au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2000, ch. 9, art. 511; 2003, ch. 19, art. 62; 2006, ch. 9, art. 130; 2018, ch. 31, art. 360.
 
 
 
@@ -14976,7 +15122,7 @@ La demande est notifiée au directeur général des élections.
 
 **512** 
 
-- **(1)** L’autorisation écrite du directeur des poursuites pénales doit être préalablement obtenue avant que soient engagées les poursuites pour infraction à la présente loi.
+- **(1)** L’autorisation écrite du directeur des poursuites pénales doit être préalablement obtenue, après consultation du commissaire, avant que des poursuites pour infraction à la présente loi ne soient engagées par une personne autre que le commissaire ou qu’une personne agissant sous son autorité.
 
 **Exception**
 
@@ -14985,17 +15131,12 @@ La demande est notifiée au directeur général des élections.
 **Preuve de l’autorisation**
 
 - **(3)** L’autorisation fait foi de son contenu, sous réserve de sa contestation par le directeur des poursuites pénales ou quiconque agit pour son compte ou celui de Sa Majesté.
-> 2000, ch. 9, art. 512; 2006, ch. 9, art. 131.
+> 2000, ch. 9, art. 512; 2006, ch. 9, art. 131; 2018, ch. 31, art. 361.
 
 
 
 
-
-**Intervention du commissaire**
-
-**513** S’il estime que l’intérêt public le justifie, le commissaire peut prendre les mesures nécessaires, notamment en engageant les dépenses voulues relativement aux enquêtes, injonctions et transactions prévues par la présente loi.
-> 2000, ch. 9, art. 513; 2006, ch. 9, art. 132.
-
+**513** [Abrogé, 2018, ch. 31, art. 362]
 
 
 
@@ -15067,11 +15208,11 @@ La demande est notifiée au directeur général des élections.
 
 **517** 
 
-- **(1)** Sous réserve du paragraphe (7), le commissaire peut, s’il a des motifs raisonnables de croire à l’existence, à l’imminence ou à la probabilité d’un fait — acte ou omission — pouvant constituer une infraction à la présente loi, conclure avec l’intéressé une transaction visant à faire respecter la présente loi.
+- **(1)** Sous réserve du paragraphe (7), le commissaire peut, s’il a des motifs raisonnables de croire à l’existence, à l’imminence ou à la probabilité d’un fait — acte ou omission — pouvant constituer une infraction à la présente loi, conclure avec une personne ou une entité une transaction visant à faire respecter la présente loi.
 
 **Conditions**
 
-- **(2)** La transaction est assortie des conditions qu’il estime nécessaires pour faire respecter la présente loi.
+- **(2)** La transaction est assortie des conditions qu’il estime nécessaires, notamment de l’obligation, pour la personne ou l’entité, de payer la somme qui y est mentionnée.
 
 **Obligations du commissaire**
 
@@ -15087,17 +15228,15 @@ La demande est notifiée au directeur général des élections.
 
 - **(5)** La transaction et la déclaration ne sont pas admissibles en preuve dans les actions civiles ou les poursuites pénales dirigées contre l’intéressé.
 
-**Effet de la transaction : aucun renvoi**
+- **(6)** [Abrogé, 2018, ch. 31, art. 363]
 
-- **(6)** Si l’affaire n’a pas encore été renvoyée au directeur des poursuites pénales, la conclusion de la transaction a pour effet, sauf en cas d’inexécution, d’empêcher le renvoi.
+**Renvoi malgré l’ouverture de poursuites**
 
-**Affaire ayant fait l’objet d’un renvoi**
-
-- **(7)** Toutefois, si l’affaire a déjà fait l’objet d’un renvoi au directeur des poursuites pénales, que ce dernier ait engagé ou non des poursuites, il peut, s’il estime, après consultation du commissaire, que la conclusion d’une transaction servirait mieux l’intérêt public, lui renvoyer l’affaire pour qu’il prenne les mesures indiquées.
+- **(7)** Toutefois, si des poursuites ont déjà été engagées, le directeur des poursuites pénales peut, s’il estime, après consultation du commissaire, que la conclusion d’une transaction servirait mieux l’intérêt public, suspendre les poursuites et lui renvoyer l’affaire pour qu’il prenne les mesures indiquées.
 
 **Effet de la transaction**
 
-- **(8)** La conclusion de la transaction a alors pour effet, sauf en cas d’inexécution, soit d’empêcher le directeur d’engager contre l’intéressé des poursuites pénales pour les faits reprochés, soit de suspendre celles déjà engagées contre lui pour ces faits.
+- **(8)** La conclusion de la transaction a alors pour effet, sauf en cas d’inexécution, soit d’empêcher quiconque d’engager contre l’intéressé des poursuites pénales pour les faits reprochés, soit de suspendre celles déjà engagées contre lui pour ces faits.
 
 **Possibilité de modification**
 
@@ -15105,8 +15244,8 @@ La demande est notifiée au directeur général des élections.
 
 **Copie**
 
-- **(10)** Dès la conclusion d’une transaction ou sa modification dans le cadre du paragraphe (9), le commissaire en transmet une copie à l’intéressé et, si l’affaire a fait l’objet d’un renvoi au directeur des poursuites pénales, à celui-ci.
-> 2000, ch. 9, art. 517; 2001, ch. 21, art. 25(A); 2006, ch. 9, art. 133.
+- **(10)** Dès la conclusion d’une transaction ou sa modification dans le cadre du paragraphe (9), le commissaire en transmet une copie à l’intéressé et, si des poursuites ont déjà été engagées contre l’intéressé, au directeur des poursuites pénales.
+> 2000, ch. 9, art. 517; 2001, ch. 21, art. 25(A); 2006, ch. 9, art. 133; 2018, ch. 31, art. 363.
 
 
 
@@ -15116,12 +15255,12 @@ La demande est notifiée au directeur général des élections.
 
 **518** 
 
-- **(1)** S’il estime la transaction exécutée, le commissaire fait signifier à l’intéressé un avis à cet effet. Si l’affaire a déjà fait l’objet d’un renvoi au directeur des poursuites pénales, il lui en transmet une copie.
+- **(1)** S’il estime la transaction exécutée, le commissaire fait signifier à l’intéressé un avis à cet effet. Si des poursuites pour les faits reprochés ont déjà été engagées contre l’intéressé, le commissaire transmet une copie de l’avis au directeur des poursuites pénales.
 
 **Effet de la signification**
 
-- **(2)** La signification a pour effet, selon le cas, soit d’empêcher le commissaire de renvoyer l’affaire au directeur des poursuites pénales, soit d’empêcher ce dernier d’engager des poursuites contre l’intéressé pour les faits reprochés, soit encore de mettre fin à celles déjà engagées contre lui pour ces faits.
-> 2000, ch. 9, art. 518; 2006, ch. 9, art. 134.
+- **(2)** La signification a pour effet, selon le cas, soit d’empêcher quiconque d’engager des poursuites contre l’intéressé pour les faits reprochés, soit encore de mettre fin à celles déjà engagées contre lui pour ces faits.
+> 2000, ch. 9, art. 518; 2006, ch. 9, art. 134; 2018, ch. 31, art. 364.
 
 
 
@@ -15129,24 +15268,35 @@ La demande est notifiée au directeur général des élections.
 
 **Avis de défaut d’exécution**
 
-**519** S’il estime la transaction inexécutée, le commissaire fait signifier à l’intéressé un avis de défaut qui l’informe, selon le cas, soit qu’il renvoie l’affaire au directeur des poursuites pénales pour que celui-ci prenne les mesures qu’il considère indiquées, soit, s’il y a eu suspension au titre du paragraphe 517(8), que les poursuites pourront reprendre. Si l’affaire a fait l’objet d’un renvoi au directeur des poursuites pénales, il transmet copie de l’avis à celui-ci.
-> 2000, ch. 9, art. 519; 2006, ch. 9, art. 134.
+**519** 
+
+- **(1)** S’il estime la transaction inexécutée, le commissaire fait signifier à l’intéressé un avis de défaut l’informant, selon le cas :
+	- **a)** [Non en vigueur]
+	- **b)** soit que des poursuites peuvent être engagées contre lui pour les faits reprochés;
+	- **c)** soit, s’il y a eu suspension au titre du paragraphe 517(8), que les poursuites pourront reprendre.
+
+**Copie au directeur des poursuites pénales**
+
+- **(2)** Si des poursuites pour les faits reprochés ont déjà été engagées contre l’intéressé, le commissaire transmet une copie de l’avis au directeur des poursuites pénales.
+> 2000, ch. 9, art. 519; 2006, ch. 9, art. 134; 2018, ch. 31, art. 364.
 
 
 
 
 
-**Rejet de la poursuite**
+**Rejet des poursuites**
 
-**520** Le tribunal rejette la poursuite lorsqu’il est convaincu, selon la prépondérance des probabilités, de l’exécution complète de la transaction. En cas d’exécution partielle, il la rejette s’il l’estime injuste eu égard aux circonstances et peut, avant de rendre sa décision, tenir compte du comportement de l’intéressé dans l’exécution de la transaction.
+**520** Le tribunal rejette les poursuites lorsqu’il est convaincu, selon la prépondérance des probabilités, de l’exécution complète de la transaction. En cas d’exécution partielle, il les rejette s’il les estime injustes, après avoir tenu compte du comportement de l’intéressé dans l’exécution de la transaction.
+> 2000, ch. 9, art. 520; 2018, ch. 31, art. 364.
+
 
 
 
 
 **Publication**
 
-**521** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de l’intéressé, les faits reprochés et le texte de la transaction, à l’exception de la signature des parties.
-> 2000, ch. 9, art. 521; 2014, ch. 12, art. 110.
+**521** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de l’intéressé, les faits reprochés et le texte de la transaction, à l’exception de la signature des particuliers qui l’ont signée.
+> 2000, ch. 9, art. 521; 2014, ch. 12, art. 110; 2018, ch. 31, art. 364.
 
 
 
@@ -15194,6 +15344,44 @@ La demande est notifiée au directeur général des élections.
 
 - **(7)** L’agent principal, l’agent financier ou la personne précisée par le tribunal effectue la liquidation ordonnée au titre du paragraphe (3) conformément aux paragraphes 501(4) à (7).
 > 2004, ch. 24, art. 23.
+
+
+
+
+
+**Créance de Sa Majesté**
+
+**521.31** 
+
+- **(1)** Constituent une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+	- **a)** si l’intéressé conclut une transaction avec le commissaire qui stipule qu’une somme doit être versée au receveur général, la partie de cette somme qui demeure impayée après l’expiration du délai qui y est prévu;
+	- **b)** [Non en vigueur]
+	- **c)** [Non en vigueur]
+	- **d)** [Non en vigueur]
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible aux termes du paragraphe (1).
+
+**Créance définitive**
+
+- **(3)** La créance est définitive et n’est pas susceptible de contestation ou de révision.
+> 2018, ch. 31, art. 365.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**521.32** 
+
+- **(1)** Le commissaire peut établir un certificat de non-paiement pour la partie impayée des créances visées au paragraphe 521.31(1).
+
+**Enregistrement à la Cour fédérale**
+
+- **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents. Dès lors, toutes les procédures d’exécution applicables à un tel jugement peuvent être engagées à son égard.
+> 2018, ch. 31, art. 365.
 
 
 
@@ -15392,7 +15580,9 @@ La demande est notifiée au directeur général des élections.
 
 **Rapport sur les modifications souhaitables**
 
-**535** Dans les meilleurs délais suivant une élection générale, le directeur général des élections fait au président de la Chambre des communes un rapport signalant les modifications qu’il est souhaitable, à son avis, d’apporter à la présente loi pour en améliorer l’application.
+**535** Dans les meilleurs délais suivant une élection générale, le directeur général des élections fait au président de la Chambre des communes un rapport signalant les modifications qu’il est souhaitable, à son avis, d’apporter à la présente loi pour en améliorer l’application et, de façon distincte, toute modification signalée dans le rapport du commissaire visé à l’article 537.2.
+> 2000, ch. 9, art. 535; 2018, ch. 31, art. 366.
+
 
 
 
@@ -15446,6 +15636,28 @@ La demande est notifiée au directeur général des élections.
 **Inclusion dans un rapport**
 
 - **(2)** S’il l’estime indiqué, le directeur général des élections peut inclure dans les rapports visés aux articles 534 ou 535 l’intégralité, une partie ou un résumé des documents afférents aux plaintes ou propositions visées au paragraphe (1).
+
+
+
+
+### Rapport du commissaire
+
+
+
+**Rapport annuel**
+
+**537.1** Dans les meilleurs délais suivant la fin de chaque année, le commissaire publie, selon les modalités qu’il estime indiquées, le rapport des activités de son bureau au cours de l’année précédente. Il ne peut toutefois y inclure de détails relatifs aux enquêtes.
+> 2018, ch. 31, art. 367.
+
+
+
+
+
+**Rapport sur les modifications souhaitables**
+
+**537.2** Dans les meilleurs délais suivant une élection générale, le commissaire fait au directeur général des élections un rapport signalant les modifications qu’il est souhaitable, à son avis, d’apporter à la présente loi pour en améliorer l’observation et le contrôle d’application.
+> 2018, ch. 31, art. 367.
+
 
 
 
@@ -15505,6 +15717,15 @@ La demande est notifiée au directeur général des élections.
 
 
 ### Garde des documents électoraux et des documents relatifs au Registre des électeurs
+
+
+
+**Mention**
+
+**539.1** À l’article 540, toute mention de Registre des électeurs vaut mention de Registre des futurs électeurs.
+> 2018, ch. 31, art. 369.1.
+
+
 
 
 
