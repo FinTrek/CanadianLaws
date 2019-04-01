@@ -926,8 +926,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**50.1** Malgré le paragraphe 50(2), l’employé occasionnel peut être nommé au bureau du directeur général des élections en vue d’une élection tenue en vertu de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), ou d’un référendum tenu en vertu de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md), pour une période ne dépassant pas 165 jours ouvrables par année civile.
-> 2007, ch. 21, art. 40.
+
+**Exception — bureau du directeur général des élections**
+
+**50.1** Malgré le paragraphe 50(2), l’employé occasionnel peut être nommé au bureau du directeur général des élections — y compris les secteurs de l’administration publique fédérale faisant partie de ce bureau dans lesquels les employés visés à l’article 509.3 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) occupent un poste — en vue d’une élection tenue en vertu de cette loi, ou d’un référendum tenu en vertu de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md), pour une période ne dépassant pas 165 jours ouvrables par année civile.
+> 2007, ch. 21, art. 40; 2018, ch. 31, art. 379.
 
 
 
