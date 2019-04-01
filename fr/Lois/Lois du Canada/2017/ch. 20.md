@@ -2224,19 +2224,19 @@ où :
 
 - <sup><a href='#fn_Ind10D2_hq_20500'>[*]</a></sup>**(5)** Les articles 357 et 359, les paragraphes 361(1), (3) et (4), l’article 362, les paragraphes 363(1), (4) et (7) et 364(1) et les articles 371, 374 et 385 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind10D2_hq_20500'><sup>*</sup></a>: [Note : Article 359 abrogé avant d’entrer en vigueur, *voir* 2018, ch. 27, art. 508; article 357, paragraphes 361(1), (3) et (4), article 362, paragraphes 363(1), (4) et (7) et 364(1) et articles 371, 374 et 385 non en vigueur.]<br />
+<a name='fn_Ind10D2_hq_20500'><sup>*</sup></a>: [Note : Article 359 abrogé avant d’entrer en vigueur, *voir* 2018, ch. 27, art. 508; article 357, paragraphes 361(1), (3) et (4), article 362, paragraphes 363(1), (4) et (7) et 364(1) et articles 371, 374 et 385 en vigueur le 1<sup>er</sup> avril 2019, *voir* TR/2019-4.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind10D2_hq_20501'>[*]</a></sup>**(6)** L’article 358, le paragraphe 361(2) et les articles 369, 372 et 375 entrent en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date fixée au titre du paragraphe (5).
 
-<a name='fn_Ind10D2_hq_20501'><sup>*</sup></a>: [Note : Article 358, paragraphe 361(2) et articles 369, 372 et 375 non en vigueur.]<br />
+<a name='fn_Ind10D2_hq_20501'><sup>*</sup></a>: [Note : Article 358, paragraphe 361(2) et articles 369, 372 et 375 en vigueur le 1<sup>er</sup> avril 2019, *voir* TR/2019-4.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind10D2_hq_20502'>[*]</a></sup>**(7)** Les paragraphes 363(3) et 364(4), les articles 366 et 367, le paragraphe 368(2) et les articles 388 et 389 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind10D2_hq_20502'><sup>*</sup></a>: [Note : Paragraphes 363(3) et 364(4), articles 366 et 367, paragraphe 368(2) et articles 388 et 389 non en vigueur.]<br />
+<a name='fn_Ind10D2_hq_20502'><sup>*</sup></a>: [Note : Paragraphes 363(3) et 364(4), articles 366 et 367, paragraphe 368(2) et articles 388 et 389 en vigueur le 1<sup>er</sup> avril 2019, *voir* TR/2019-4.]<br />
 
 
 
