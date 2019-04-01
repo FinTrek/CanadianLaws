@@ -5387,20 +5387,60 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.24 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.24 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.30 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.47 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** in the case of cigarettes, the number of cigarettes to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(A/5) × 2
+```
+where
+- **A** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes at the time the offence was committed,
+		- **(ii)** in the case of tobacco sticks, the number of tobacco sticks to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+B × 2
+```
+where
+- **B** is the rate of duty applicable under section 2 of Schedule 1 per tobacco stick at the time the offence was committed,
+		- **(iii)** in the case of manufactured tobacco other than cigarettes or tobacco sticks, the number of grams of manufactured tobacco to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(C/50) × 2
+```
+where
+- **C** is the rate of duty applicable under section 3 of Schedule 1 per 50 grams at the time the offence was committed, and
+		- **(iv)** in the case of cigars, the number of cigars to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+D × 5
+```
+where
+- **D** is the rate of duty applicable under paragraph (a) of Schedule 2 per cigar at the time the offence was committed, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.36 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.36 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.45 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.93 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** in the case of cigarettes, the number of cigarettes to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(A/5) × 3
+```
+where
+- **A** is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes at the time the offence was committed,
+		- **(ii)** in the case of tobacco sticks, the number of tobacco sticks to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+B × 3
+```
+where
+- **B** is the rate of duty applicable under section 2 of Schedule 1 per tobacco stick at the time the offence was committed,
+		- **(iii)** in the case of manufactured tobacco other than cigarettes or tobacco sticks, the number of grams of manufactured tobacco to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(C/50) × 3
+```
+where
+- **C** is the rate of duty applicable under section 3 of Schedule 1 per 50 grams at the time the offence was committed, and
+		- **(iv)** in the case of cigars, the number of cigars to which the offence relates multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+D × 10
+```
+where
+- **D** is the rate of duty applicable under paragraph (a) of Schedule 2 per cigar that applied at the time the offence was committed, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
 > 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61; 2013, c. 33, s. 54; 2014, c. 20, s. 76; 2017, c. 20, s. 51; 2018, c. 12, s. 52.
 
@@ -5884,9 +5924,27 @@ where
 **Contravention of subsection 50(5)**
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
-- **(a)** $0.43 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.43 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $537.48 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+- **(a)** in the case of cigarettes, the number of cigarettes that were removed in contravention of that subsection multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(A/5 + B) × 2
+```
+where
+- **A** is the rate of duty set out in section 1 of Schedule 1 that applied at the time the cigarettes were removed, and
+- **B** is the rate of duty set out in paragraph 4(a) of Schedule 3 that applied at the time the cigarettes were removed,
+- **(b)** in the case of tobacco sticks, the number of tobacco sticks that were removed in contravention of that subsection multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(C + D) × 2
+```
+where
+- **C** is the rate of duty set out in section 2 of Schedule 1 that applied at the time the tobacco sticks were removed, and
+- **D** is the rate of duty set out in paragraph 4(b) of Schedule 3 that applied at the time the tobacco sticks were removed, and
+- **(c)** in the case of manufactured tobacco other than cigarettes and tobacco sticks, the number of kilograms of manufactured tobacco that were removed in contravention of that subsection multiplied by the amount, rounded to the nearest one-hundredth, or, if the amount is equidistant from two consecutive one-hundredths, rounded to the higher one-hundredth, determined by the formula
+```
+(E + F) × 40
+```
+where
+- **E** is the rate of duty set out in section 3 of Schedule 1 that applied at the time the manufactured tobacco was removed, and
+- **F** is the rate of duty set out in paragraph 4(c) of Schedule 3 that applied at the time the manufactured tobacco was removed.
 > 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62; 2013, c. 33, s. 55; 2014, c. 20, s. 78; 2017, c. 20, s. 54; 2018, c. 12, s. 53.
 
 
@@ -7779,7 +7837,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 ### **SCHEDULE 1** 
-**(Sections 42, 43.1 and 58.2)**
+**(Sections 42, 43.1 and 58.2, subsections 216(2) and (3) and section 240)**
 ## Rates of Duty on Tobacco Products
 **1** Cigarettes: for each five cigarettes or fraction of five cigarettes contained in any package,
 
@@ -7834,7 +7892,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 ### **SCHEDULE 2** 
-**(Sections 43 and 43.1)**
+**(Sections 43 and 43.1 and subsections 216(2) and (3))**
 ## Additional Duty on Cigars
 Cigars: per cigar, the greater of
 
@@ -7861,7 +7919,7 @@ Cigars: per cigar, the greater of
 
 
 ### **SCHEDULE 3** 
-**(Sections 53, 54, 56 and 58.2)**
+**(Sections 53, 54, 56, 58.2 and 240)**
 ## Rates of Special Duties on Certain Manufactured Tobacco
 **1** Special duty on imported manufactured tobacco:
 
