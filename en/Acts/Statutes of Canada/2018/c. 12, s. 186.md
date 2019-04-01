@@ -6100,7 +6100,32 @@ but nothing in this subsection limits the liability of the transferor under this
 ### Provinces and Areas for the Purposes of Part 1 of the Act
 
 
- 
+
+#### TABLE 1
+<table>
+<h4>List of Provinces</h4>
+<tr>
+<th>Item</th>
+<th>Name of Province</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>2</td>
+<td>New Brunswick</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Saskatchewan</td>
+</tr>
+</table>
+
 
 
 
@@ -6147,7 +6172,7 @@ but nothing in this subsection limits the liability of the transferor under this
 
 
 
-> 2018, c. 12, s. 186 “Sch. 1”; SOR/2018-212.
+> 2018, c. 12, s. 186 “Sch. 1”; SOR/2018-212; SOR/2019-79, s. 1.
 
 
 
@@ -6157,7 +6182,7 @@ but nothing in this subsection limits the liability of the transferor under this
 ## Charge Rates
 #### TABLE 1
 <table>
-<h4>Rates of charge applicable in 2018</h4>
+<h4>Rates of charge applicable for the period beginning on April 1, 2019 and ending on March 31, 2020</h4>
 <tr>
 <th>Column 1</th>
 <th>Column 2</th>
@@ -6176,334 +6201,601 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>1</td>
 <td>Aviation gasoline</td>
 <td>$/litre</td>
-<td></td>
-<td>0.0249</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Aviation turbo fuel</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0258</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Butane</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0178</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Ethane</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0102</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Gas liquids</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0167</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Gasoline</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0221</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Heavy fuel oil</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0319</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Kerosene</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0258</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Light fuel oil</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0268</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Methanol</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0110</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Naphtha</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0225</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Petroleum coke</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0384</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Pentanes plus</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0178</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Propane</td>
-<td>$/litre</td>
-<td></td>
-<td>0.0155</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Coke oven gas</td>
-<td>$/cubic metre</td>
-<td></td>
-<td>0.0070</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Marketable natural gas</td>
-<td>$/cubic metre</td>
-<td></td>
-<td>0.0196</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Non-marketable natural gas</td>
-<td>$/cubic metre</td>
-<td></td>
-<td>0.0259</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Still gas</td>
-<td>$/cubic metre</td>
-<td></td>
-<td>0.0270</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Coke</td>
-<td>$/tonne</td>
-<td></td>
-<td>31.80</td>
-</tr>
-<tr>
-<td>20</td>
-<td>High heat value coal</td>
-<td>$/tonne</td>
-<td></td>
-<td>22.52</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Low heat value coal</td>
-<td>$/tonne</td>
-<td></td>
-<td>17.72</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Combustible waste</td>
-<td>$/tonne</td>
-<td></td>
-<td>19.97</td>
-</tr>
-</table>
+<td>**(a)** Ontario
 
-#### TABLE 2 
-<table>
-<h4>Rates of charge applicable in 2019</h4>
-<tr>
-<th>Column 1</th>
-<th>Column 2</th>
-<th>Column 3</th>
-<th>Column 4</th>
-<th>Column 5</th>
+</td>
+<td>0.0498</td>
 </tr>
 <tr>
-<th>Item</th>
-<th>Type</th>
-<th>Unit</th>
-<th>Listed Province</th>
-<th>Rate</th>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0498</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Aviation gasoline</td>
-<td>$/litre</td>
-<td></td>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0498</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0498</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0516</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0356</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Ethane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0204</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0204</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0204</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0204</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0333</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0333</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0333</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0333</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0442</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0442</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0442</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0442</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0637</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0637</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0637</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0637</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Kerosene</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0516</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0516</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0537</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0537</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0537</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0537</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Methanol</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0220</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0220</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0220</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0220</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0451</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0451</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0451</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0451</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Petroleum coke</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0767</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0767</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0767</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0767</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0356</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0356</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Propane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0310</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0310</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0310</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0310</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0140</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0140</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0140</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0140</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0391</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0391</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0391</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0391</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0517</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0517</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0517</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0517</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Still gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0540</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0540</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0540</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0540</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>63.59</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>63.59</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>63.59</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>63.59</td>
 </tr>
 <tr>
 <td>20</td>
 <td>High heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>45.03</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>45.03</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>45.03</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>45.03</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>35.45</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>35.45</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>35.45</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>35.45</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>39.95</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>39.95</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>39.95</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>39.95</td>
 </tr>
 </table>
 
-#### TABLE 3 
+#### TABLE 2
 <table>
-<h4>Rates of charge applicable in 2020</h4>
+<h4>Rates of charge applicable for the period beginning on April 1, 2020 and ending on March 31, 2021</h4>
 <tr>
 <th>Column 1</th>
 <th>Column 2</th>
@@ -6522,161 +6814,601 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>1</td>
 <td>Aviation gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0747</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0747</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0747</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0747</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0775</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0534</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Ethane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0306</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0306</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0306</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0306</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0499</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0499</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0499</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0499</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0663</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0663</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0663</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0663</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0956</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0956</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0956</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0956</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Kerosene</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0775</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0775</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0805</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0805</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0805</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0805</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Methanol</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0329</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0329</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0329</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0329</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0676</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0676</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0676</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0676</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Petroleum coke</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1151</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1151</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1151</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1151</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0534</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0534</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Propane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0464</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0464</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0464</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0464</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0210</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0210</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0210</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0210</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0587</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0587</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0587</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0587</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0776</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0776</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0776</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0776</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Still gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0810</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0810</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0810</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0810</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>95.39</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>95.39</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>95.39</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>95.39</td>
 </tr>
 <tr>
 <td>20</td>
 <td>High heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>67.55</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>67.55</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>67.55</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>67.55</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>53.17</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>53.17</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>53.17</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>53.17</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>59.92</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>59.92</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>59.92</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>59.92</td>
 </tr>
 </table>
 
-#### TABLE 4 
+#### TABLE 3
 <table>
-<h4>Rates of charge applicable in 2021</h4>
+<h4>Rates of charge applicable for the period beginning on April 1, 2021 and ending on March 31, 2022</h4>
 <tr>
 <th>Column 1</th>
 <th>Column 2</th>
@@ -6695,161 +7427,601 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>1</td>
 <td>Aviation gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0995</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0995</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0995</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0995</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1033</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0712</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Ethane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0408</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0408</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0408</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0408</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0666</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0666</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0666</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0666</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0884</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0884</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0884</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0884</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1275</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1275</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1275</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1275</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Kerosene</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1033</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1033</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1073</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1073</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1073</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1073</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Methanol</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0439</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0439</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0439</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0439</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0902</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0902</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0902</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0902</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Petroleum coke</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1535</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1535</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1535</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1535</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0712</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0712</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Propane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0619</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0619</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0619</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0619</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0280</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0280</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0280</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0280</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0783</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0783</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0783</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0783</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1034</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1034</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1034</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1034</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Still gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1080</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1080</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1080</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1080</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>127.19</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>127.19</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>127.19</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>127.19</td>
 </tr>
 <tr>
 <td>20</td>
 <td>High heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>90.07</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>90.07</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>90.07</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>90.07</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>70.90</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>70.90</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>70.90</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>70.90</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>79.89</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>79.89</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>79.89</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>79.89</td>
 </tr>
 </table>
 
-#### TABLE 5 
+#### TABLE 4
 <table>
-<h4>Rates of charge applicable after 2021</h4>
+<h4>Rates of charge applicable after March 31, 2022</h4>
 <tr>
 <th>Column 1</th>
 <th>Column 2</th>
@@ -6868,157 +8040,602 @@ but nothing in this subsection limits the liability of the transferor under this
 <td>1</td>
 <td>Aviation gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1244</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1244</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1244</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1244</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Aviation turbo fuel</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1291</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Butane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0890</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Ethane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0509</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0509</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0509</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0509</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Gas liquids</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0832</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0832</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0832</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0832</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Gasoline</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1105</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1105</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1105</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1105</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Heavy fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1593</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1593</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1593</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1593</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Kerosene</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1291</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1291</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Light fuel oil</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1341</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1341</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1341</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1341</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Methanol</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0549</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0549</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0549</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0549</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Naphtha</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1127</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1127</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1127</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1127</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Petroleum coke</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1919</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1919</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1919</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1919</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Pentanes plus</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0890</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0890</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Propane</td>
 <td>$/litre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0774</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0774</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0774</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0774</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Coke oven gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0350</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0350</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0350</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0350</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.0979</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.0979</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.0979</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.0979</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Non-marketable natural gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1293</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1293</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1293</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1293</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Still gas</td>
 <td>$/cubic metre</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>0.1350</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>0.1350</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>0.1350</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>0.1350</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Coke</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>158.99</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>158.99</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>158.99</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>158.99</td>
 </tr>
 <tr>
 <td>20</td>
 <td>High heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>112.58</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>112.58</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>112.58</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>112.58</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Low heat value coal</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>88.62</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>88.62</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>88.62</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>88.62</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Combustible waste</td>
 <td>$/tonne</td>
-<td></td>
+<td>**(a)** Ontario
+
+</td>
+<td>99.87</td>
+</tr>
+<tr>
+<td>**(b)** New Brunswick
+
+</td>
+<td>99.87</td>
+</tr>
+<tr>
+<td>**(c)** Manitoba
+
+</td>
+<td>99.87</td>
+</tr>
+<tr>
+<td>**(d)** Saskatchewan
+
+</td>
 <td>99.87</td>
 </tr>
 </table>
+
+**TABLE 5** [Repealed, SOR/2019-79, s. 3]
+
+
+> 2018, c. 12, s. 186 “Sch. 2”; SOR/2019-79, s. 3.
 
 
 
