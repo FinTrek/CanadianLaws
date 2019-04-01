@@ -5356,20 +5356,60 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** le total des produits suivants :
-		- **(i)** le produit de 0,24 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,24 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,30 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,47 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** s’agissant de cigarettes, le nombre de cigarettes auxquelles l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(A/5) × 2
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes au moment de l’infraction, prévu à l’article 1 de l’annexe 1,
+		- **(ii)** s’agissant de bâtonnets de tabac, le nombre de bâtonnets de tabac auxquels l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+B × 2
+```
+où :
+- **B** représente le taux de droit applicable à chaque bâtonnet de tabac au moment de l’infraction, prévu à l’article 2 de l’annexe 1,
+		- **(iii)** s’agissant de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, le nombre de grammes de tabac fabriqué auxquels l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(C/50) × 2
+```
+où :
+- **C** représente le taux de droit applicable à chaque quantité de 50 grammes au moment de l’infraction, prévu à l’article 3 de l’annexe 1,
+		- **(iv)** s’agissant de cigares, le nombre de cigares auxquels l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+D × 5
+```
+où :
+- **D** représente le taux de droit applicable à chaque cigare au moment de l’infraction, prévu à l’alinéa a) de l’annexe 2;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** le total des produits suivants :
-		- **(i)** le produit de 0,36 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,36 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,45 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,93 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** s’agissant de cigarettes, le nombre de cigarettes auxquelles l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(A/5) × 3
+```
+où :
+- **A** représente le taux de droit applicable à chaque quantité de cinq cigarettes au moment de l’infraction, prévu à l’article 1 de l’annexe 1,
+		- **(ii)** s’agissant de bâtonnets de tabac, le nombre de bâtonnets de tabac auxquels l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+B × 3
+```
+où :
+- **B** représente le taux de droit applicable à chaque bâtonnet de tabac au moment de l’infraction, prévu à l’article 2 de l’annexe 1,
+		- **(iii)** s’agissant de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, le nombre de grammes de tabac fabriqué auxquels l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(C/50) × 3
+```
+où :
+- **C** représente le taux de droit applicable à chaque quantité de 50 grammes au moment de l’infraction, prévu à l’article 3 de l’annexe 1,
+		- **(iv)** s’agissant de cigares, le nombre de cigares auxquels l’infraction se rapporte par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+D × 10
+```
+où :
+- **D** représente le taux de droit applicable à chaque cigare au moment de l’infraction, prévu à l’alinéa a) de l’annexe 2;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 > 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61; 2013, ch. 33, art. 54; 2014, ch. 20, art. 76; 2017, ch. 20, art. 51; 2018, ch. 12, art. 52.
 
@@ -5851,9 +5891,27 @@ où :
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,43 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,43 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 537,48 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+- **a)** s’agissant de cigarettes, le nombre de cigarettes retirées en contravention avec ce paragraphe par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(A/5 + B) × 2
+```
+où :
+- **A** représente le taux de droit prévu à l’article 1 de l’annexe 1 qui s’est appliqué au moment du retrait des cigarettes,
+- **B** le taux de droit prévu à l’alinéa 4a) de l’annexe 3 qui s’est appliqué au moment du retrait des cigarettes;
+- **b)** s’agissant de bâtonnets de tabac, le nombre de bâtonnets de tabac retirés en contravention avec ce paragraphe par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(C + D) × 2
+```
+où :
+- **C** représente le taux de droit prévu à l’article 2 de l’annexe 1 qui s’est appliqué au moment du retrait des bâtonnets de tabac,
+- **D** le taux de droit prévu à l’alinéa 4b) de l’annexe 3 qui s’est appliqué au moment du retrait des bâtonnets de tabac;
+- **c)** s’agissant de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, le nombre de kilogrammes de tabac fabriqué retirés en contravention avec ce paragraphe par la somme  —  arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure  —  obtenue par la formule suivante :
+```
+(E + F) × 40
+```
+où :
+- **E** représente le taux de droit prévu à l’article 3 de l’annexe 1 qui s’est appliqué au moment du retrait du tabac fabriqué,
+- **F** le taux de droit prévu à l’alinéa 4c) de l’annexe 3 qui s’est appliqué au moment du retrait du tabac fabriqué.
 > 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62; 2013, ch. 33, art. 55; 2014, ch. 20, art. 78; 2017, ch. 20, art. 54; 2018, ch. 12, art. 53.
 
 
@@ -7724,7 +7782,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 ### **ANNEXE 1** 
-**(article 42, 43.1 et 58.2)**
+**(articles 42, 43.1 et 58.2, paragraphes 216(2) et (3) et article 240)**
 ## Taux du droit sur les produits du tabac
 **1** Cigarettes, par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet :
 
@@ -7779,7 +7837,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 ### **ANNEXE 2** 
-**(article 43 et 43.1)**
+**(articles 43 et 43.1 et paragraphes 216(2) et (3))**
 ## Droit additionnel sur les cigares
 Cigares, par cigare, la plus élevée des sommes suivantes :
 
@@ -7806,7 +7864,7 @@ Cigares, par cigare, la plus élevée des sommes suivantes :
 
 
 ### **ANNEXE 3** 
-**(articles 53, 54, 56 et 58.2)**
+**(articles 53, 54, 56, 58.2 et 240)**
 ## Taux des droits spéciaux sur certains produits de tabac fabriqué
 **1** Droit spécial sur le tabac fabriqué importé :
 
