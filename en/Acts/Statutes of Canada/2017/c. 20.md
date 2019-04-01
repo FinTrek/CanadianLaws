@@ -2228,21 +2228,21 @@ where
 - <sup><a href='#fn_Ind36F1_hq_20458'>[*]</a></sup>**(5)
 ** Sections 357 and 359, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind36F1_hq_20458'><sup>*</sup></a>: [Note: Section 359 repealed before coming into force, *see* 2018, c. 27, s. 508; section 357, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 not in force.]<br />
+<a name='fn_Ind36F1_hq_20458'><sup>*</sup></a>: [Note: Section 359 repealed before coming into force, *see* 2018, c. 27, s. 508; section 357, subsections 361(1), (3) and (4), section 362, subsections 363(1), (4) and (7) and 364(1) and sections 371, 374 and 385 in force April 1, 2019, *see* SI/2019-4.]<br />
 
 **Order in council**
 
 - <sup><a href='#fn_Ind36F1_hq_20459'>[*]</a></sup>**(6)
 ** Section 358, subsection 361(2) and sections 369, 372 and 375 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (5).
 
-<a name='fn_Ind36F1_hq_20459'><sup>*</sup></a>: [Note: Section 358, subsection 361(2) and sections 369, 372 and 375 not in force.]<br />
+<a name='fn_Ind36F1_hq_20459'><sup>*</sup></a>: [Note: Section 358, subsection 361(2) and sections 369, 372 and 375 in force April 1, 2019, *see* SI/2019-4.]<br />
 
 **Order in council**
 
 - <sup><a href='#fn_Ind36F1_hq_20460'>[*]</a></sup>**(7)
 ** Subsections 363(3) and 364(4), sections 366 and 367, subsection 368(2) and sections 388 and 389 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind36F1_hq_20460'><sup>*</sup></a>: [Note: Subsections 363(3) and 364(4), sections 366 and 367, subsection 368(2) and sections 388 and 389 not in force.]<br />
+<a name='fn_Ind36F1_hq_20460'><sup>*</sup></a>: [Note: Subsections 363(3) and 364(4), sections 366 and 367, subsection 368(2) and sections 388 and 389 in force April 1, 2019, *see* SI/2019-4.]<br />
 
 
 
