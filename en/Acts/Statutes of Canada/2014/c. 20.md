@@ -545,7 +545,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **102** 
 
-- **(1)** A person who received an earnings loss benefit under subsection 18(1) or 22(1) of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md) for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for that period had not been taken into account — is entitled to receive an amount determined in accordance with the formula
+- **(1)** A person who received an earnings loss benefit under subsection 18(1) or 22(1) of the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md), as it read immediately before April 1, 2019, for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for that period had not been taken into account — is entitled to receive an amount determined in accordance with the formula
 ```
 A – B – C
 ```
@@ -556,8 +556,8 @@ where
 
 **Payment**
 
-- **(2)** Any amount paid or payable under subsection (1) is deemed to be an earnings loss benefit paid or payable under the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md).
-> 2014, c. 20, s. 102; 2017, c. 20, s. 292.
+- **(2)** Any amount paid or payable under subsection (1) is deemed to be an income replacement benefit paid or payable under the [Veterans Well-being Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md).
+> 2014, c. 20, s. 102; 2017, c. 20, s. 292; 2018, c. 12, s. 182.
 
 
 
