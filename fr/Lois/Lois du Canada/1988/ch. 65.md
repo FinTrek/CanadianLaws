@@ -239,10 +239,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Dispositions transitoires
 
 
-
-**Disposition transitoire**
-
-**149** Il demeure entendu que, peu importe la date à laquelle la Commission certifie pour la première fois un tarif au titre de l’alinéa 70.63(1)d) de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), la prise d’effet de celui-ci est le 1<sup>er</sup> janvier 1990.
+**149** [Abrogé, 2018, ch. 27, art. 298]
 
 
 
