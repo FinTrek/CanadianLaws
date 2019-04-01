@@ -59,7 +59,7 @@ Assented to on 12 December 2006
 
 **Rank and status**
 
-- **(2)** Subject to subsections 509.1(2) and (3) of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), the Director has the rank and status of a deputy head of a department.
+- **(2)** The Director has the rank and status of a deputy head of a department.
 
 **Duties and functions**
 
@@ -90,12 +90,12 @@ Assented to on 12 December 2006
 
 **Duties — election-related matters**
 
-- **(8)** The Director initiates and conducts prosecutions on behalf of the Crown with respect to any offences under the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), as well as any appeal or other proceeding related to such a prosecution.
+- **(8)** The Director conducts prosecutions on behalf of the Crown with respect to any offences under the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), as well as any appeal or other proceeding related to such a prosecution.
 
 **Other powers, duties and functions**
 
 - **(9)** The Director may, under and on behalf of the Attorney General, exercise any powers or perform any duties or functions of the Attorney General under the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md) or the [Mutual Legal Assistance in Criminal Matters Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2030%20(4th%20Supp.).md).
-> 2006, c. 9, s. 121 “3”; 2014, c. 12, s. 150.
+> 2006, c. 9, s. 121 “3”; 2014, c. 12, s. 150; 2018, c. 31, s. 395.
 
 
 
@@ -176,8 +176,8 @@ Assented to on 12 December 2006
 
 **Other powers, duties and functions**
 
-- **(4)** Under the supervision of the Director, a Deputy Director may also act for or on behalf of the Director in the exercise of any of the other powers or the performance of any of the other duties or functions that the Director is authorized to exercise or perform under this or any other Act of Parliament, except for the powers under subsection 509(1) of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md).
-> 2006, c. 9, s. 121 “6”; 2014, c. 12, s. 151.
+- **(4)** Under the supervision of the Director, a Deputy Director may also act for or on behalf of the Director in the exercise of any of the other powers or the performance of any of the other duties or functions that the Director is authorized to exercise or perform under this or any other Act of Parliament.
+> 2006, c. 9, s. 121 “6”; 2014, c. 12, s. 151; 2018, c. 31, s. 396.
 
 
 
@@ -318,16 +318,14 @@ Assented to on 12 December 2006
 
 **16** 
 
-- **(1)** The Director shall, not later than June 30 of each year, provide a report to the Attorney General on the activities of the office of the Director in the immediately preceding fiscal year.
+- **(1)** The Director shall, not later than June 30 of each year, provide a report to the Attorney General on the activities of the office of the Director — except in relation to matters referred to in subsection 3(8) — in the immediately preceding fiscal year.
 
-**Commissioner of Canada Elections**
-
-- **(1.1)** In addition, the report shall include a section, provided by the Commissioner of Canada Elections, on his or her activities under the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) in that fiscal year. The Commissioner shall not include the details of any investigation.
+- **(1.1)** [Repealed, 2018, c. 31, s. 397]
 
 **Tabling in Parliament**
 
 - **(2)** The Attorney General shall cause a copy of the Director’s report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives the report.
-> 2006, c. 9, s. 121 “16”; 2014, c. 12, s. 152.
+> 2006, c. 9, s. 121 “16”; 2014, c. 12, s. 152; 2018, c. 31, s. 397.
 
 
 
