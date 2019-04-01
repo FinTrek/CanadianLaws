@@ -239,10 +239,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ### Transitional
 
 
-
-**First certified statements of royalties**
-
-**149** For greater certainty, the royalties in the first statements certified under paragraph 70.63(1)(d) of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md) become effective on January 1, 1990 regardless of when the statements are so certified.
+**149** [Repealed, 2018, c. 27, s. 298]
 
 
 
