@@ -58,7 +58,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées. (*Canadian Forces*)
 
-***indemnisation*** Allocation pour études et formation, prime à l’achèvement des études ou de la formation, allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour incidence sur la carrière, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation de reconnaissance pour aidant prévues par la présente loi. (*compensation*) 
+***indemnisation*** Allocation pour études et formation, prime à l’achèvement des études ou de la formation, prestation de remplacement du revenu, allocation de soutien du revenu, indemnité pour blessure grave, indemnité d’invalidité, indemnité pour douleur et souffrance, indemnité supplémentaire pour douleur et souffrance, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation de reconnaissance pour aidant prévues par la présente loi. (*compensation*)
+
+***indemnité d’invalidité*** L’indemnité d’invalidité versée au titre des articles 45, 47 ou 48 de la présente loi, dans sa version antérieure au 1<sup>er</sup> avril 2019. (*disability award*)
 
 ***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental. (*disability*)
 
@@ -83,7 +85,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*personal information*)
 
-***services de réadaptation*** L’ensemble des services visant la réadaptation médicale, psychosociale et professionnelle d’une personne. (*rehabilitation services*)
+***services de réadaptation*** L’ensemble des services visant la réadaptation médicale, psychosociale ou professionnelle d’une personne. (*rehabilitation services*)
 
 ***service spécial*** Service effectué par un militaire soit dans une zone de service spécial désignée au titre de l’article 69, soit dans le cadre d’une opération de service spécial désignée au titre de l’article 70, pendant la période visée par la désignation. Sont assimilés au service spécial, s’ils ont lieu pendant cette période mais au plus tôt le 11 septembre 2001 :
 - **a)** la formation reçue spécialement en vue du service spécial dans la zone ou dans le cadre de l’opération, sans égard au lieu où elle est reçue;
@@ -126,7 +128,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption — aide médicale à mourir**
 
 - **(7)** Pour l’application de la présente loi, le militaire ou le vétéran qui a reçu l’aide médicale à mourir est réputé être décédé en raison de la maladie, de l’affection ou du handicap pour lequel il a été jugé admissible à cette aide au titre de l’alinéa 241.2(3)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9, ch. 7, art. 97; 2017, ch. 20, art. 271.
+> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9, ch. 7, art. 97; 2017, ch. 20, art. 271; 2018, ch. 12, art. 123.
 
 
 
@@ -172,7 +174,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Les services de réorientation professionnelle ne peuvent être fournis au vétéran que si, à la fois :
 	- **a)** le vétéran réside au Canada;
 	- **b)** le ministre est convaincu que de l’aide est nécessaire pour la réintégration du vétéran dans la population active civile;
-	- **c)** il ne reçoit pas de services de réadaptation ni d’assistance professionnelle au titre de la partie 2.
+	- **c)** le vétéran ne reçoit pas de services de réadaptation au titre de la partie 2.
 
 **Limites : époux, conjoint de fait et survivant**
 
@@ -183,7 +185,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(5)** L’époux ou conjoint de fait du vétéran qui a terminé son entraînement de base et qui a été libéré des Forces canadiennes le 1<sup>er</sup> avril 2006 ou après cette date peut recevoir des services de réorientation professionnelle jusqu’au dernier en date des moments suivants :
 	- **a)** le 31 mars 2020;
 	- **b)** le deuxième anniversaire de la libération du vétéran.
-> 2005, ch. 21, art. 3; 2011, ch. 12, art. 3; 2017, ch. 20, art. 272.
+> 2005, ch. 21, art. 3; 2011, ch. 12, art. 3; 2017, ch. 20, art. 272; 2018, ch. 12, art. 124.
 
 
 
@@ -339,8 +341,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Aucun versement : autres services ou allocations**
 
-**5.7** L’allocation pour études et formation ne peut être versée au vétéran à qui de l’assistance professionnelle ou des services de réadaptation sont fournis au titre de la partie 2 ou qui a droit à l’allocation de soutien du revenu au titre de cette partie.
-> 2017, ch. 20, art. 274.
+**5.7** L’allocation pour études et formation ne peut être versée au vétéran à qui des services de réadaptation sont fournis au titre de la partie 2 ou qui a droit à l’allocation de soutien du revenu au titre de cette partie.
+> 2017, ch. 20, art. 274; 2018, ch. 12, art. 125.
 
 
 
@@ -448,9 +450,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le ministre peut, sur demande, fournir des services de réadaptation au vétéran si celui-ci présente un problème de santé physique ou mentale qui découle principalement de son service dans les Forces canadiennes et entrave sa réinsertion dans la vie civile.
 
-**Décision du ministre**
+**Facteurs à considérer**
 
-- **(2)** Pour établir, d’une part, si le problème de santé physique ou mentale du vétéran découle principalement de son service dans les Forces canadiennes et, d’autre part, s’il entrave sa réinsertion dans la vie civile, le ministre tient compte de tout facteur qu’il juge pertinent, notamment :
+- **(2)** Pour établir, d’une part, si le problème de santé physique ou mentale du vétéran découle principalement de son service dans les Forces canadiennes et, d’autre part, s’il entrave sa réinsertion dans la vie civile, le ministre tient compte, pour l’application des paragraphes (1) et 18(1), de tout facteur qu’il juge pertinent, notamment :
 	- **a)** tout dossier ou bilan médical concernant le problème de santé;
 	- **b)** tout document concernant le service militaire du vétéran;
 	- **c)** tout document fourni par celui-ci concernant son problème de santé;
@@ -458,7 +460,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Présomption**
 
-- **(3)** Le problème de santé physique ou mentale pour lequel le vétéran a reçu l’indemnité d’invalidité prévue à l’article 45 ou pour lequel une pension lui a été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) est réputé découler principalement de son service dans les Forces canadiennes.
+- **(3)** Pour l’application des paragraphes (1) et 18(1), le problème de santé physique ou mentale pour lequel l’indemnité d’invalidité ou l’indemnité pour douleur et souffrance prévue à l’article 45 a été accordée au vétéran ou pour lequel une pension lui a été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) est réputé découler principalement de son service dans les Forces canadiennes.
+> 2005, ch. 21, art. 8; 2018, ch. 12, art. 126.
+
 
 
 
@@ -467,7 +471,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Le ministre peut, sur demande, fournir des services de réadaptation ou de l’assistance professionnelle au vétéran qui a été libéré pour des raisons de santé au titre du chapitre 15 des Ordonnances et règlements royaux applicables aux Forces canadiennes.
+- **(1)** Le ministre peut, sur demande, fournir des services visant la réadaptation médicale ou psychosociale au vétéran qui a été libéré pour des raisons de santé au titre du chapitre 15 des Ordonnances et règlements royaux applicables aux Forces canadiennes, si le problème de santé physique ou mentale qui a mené à la libération de ce dernier ne découle pas principalement de son service dans les Forces canadiennes.
 
 **Rejet de la demande**
 
@@ -476,6 +480,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Le paragraphe (1) ne s’applique pas au vétéran qui appartenait à une catégorie réglementaire au moment où le problème de santé physique ou mentale qui a mené à sa libération s’est déclaré.
+> 2005, ch. 21, art. 9; 2018, ch. 12, art. 127.
+
 
 
 
@@ -484,7 +490,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** S’il approuve la demande présentée au titre des articles 8 ou 9, le ministre évalue les besoins du vétéran en matière de réadaptation médicale, psychosociale et professionnelle et, dans le cas du vétéran qui a présenté une demande au titre de l’article 9 et qui n’a aucun besoin en matière de réadaptation, ses besoins en matière d’assistance professionnelle.
+- **(1)** S’il approuve la demande présentée au titre de l’article 8, le ministre évalue les besoins du vétéran en matière de réadaptation médicale, psychosociale et professionnelle et, s’il approuve la demande présentée au titre de l’article 9, ceux en matière de réadaptation médicale et psychosociale.
 
 **Programme de réadaptation**
 
@@ -493,16 +499,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Le programme de réadaptation vise uniquement :
-	- **a)** dans le cas du vétéran libéré pour des raisons de santé, le problème de santé physique ou mentale qui a mené à sa libération;
-	- **b)** dans les autres cas, le problème de santé physique ou mentale qui découle principalement de son service dans les Forces canadiennes et entrave sa réinsertion dans la vie civile.
-
-**Programme d’assistance professionnelle**
-
-- **(4)** Le ministre peut élaborer et mettre en oeuvre un programme d’assistance professionnelle visant à combler les besoins déterminés à cet égard lors de l’évaluation.
+	- **a)** dans le cas du vétéran à l’égard duquel la demande présentée au titre de l’article 8 a été approuvée, le problème de santé physique ou mentale qui découle principalement de son service dans les Forces canadiennes et entrave sa réinsertion dans la vie civile;
+	- **b)** dans le cas du vétéran à l’égard duquel la demande présentée au titre de l’article 9 a été approuvée, le problème de santé physique ou mentale qui a mené à sa libération.
 
 **Considérations**
 
-- **(5)** Dans l’élaboration du programme de réadaptation et du programme d’assistance professionnelle, le ministre tient compte des principes et facteurs réglementaires et des résultats de recherches récentes dans ces domaines.
+- **(4)** Dans l’élaboration du programme de réadaptation, le ministre tient compte des principes et facteurs réglementaires et des résultats de recherches récentes dans le domaine de la réadaptation.
+
+- **(5)** [Abrogé, 2018, ch. 12, art. 129]
+> 2005, ch. 21, art. 10; 2018, ch. 12, art. 129.
+
 
 
 
@@ -512,13 +518,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **11** 
 
 - **(1)** Le ministre peut, sur demande, fournir des services de réadaptation et de l’assistance professionnelle à l’époux ou conjoint de fait du vétéran si, à la fois :
-	- **a)** il a approuvé la demande de services de réadaptation présentée par le vétéran;
+	- **a)** il a approuvé la demande de services de réadaptation présentée par le vétéran au titre de l’article 8;
 	- **b)** il constate, en se fondant sur l’évaluation des besoins du vétéran, que celui-ci ne tirerait aucun avantage de la réadaptation professionnelle du fait que le problème de santé physique ou mentale à l’origine de la demande de services de réadaptation a entraîné une diminution de sa capacité de gain.
 
 **Continuation**
 
 - **(2)** Dans le cas où le vétéran décède après l’approbation de la demande présentée au titre du paragraphe (1), le survivant continue d’être admissible aux services de réadaptation et à l’assistance professionnelle.
-> 2005, ch. 21, art. 11; 2016, ch. 7, art. 80.
+> 2005, ch. 21, art. 11; 2016, ch. 7, art. 80; 2018, ch. 12, art. 130.
 
 
 
@@ -604,43 +610,76 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Allocation pour perte de revenus
+### Prestation de remplacement du revenu
 
 
 
-**Admissibilité : vétéran**
+#### Vétérans
+
+
+
+**Admissibilité**
 
 **18** 
 
-- **(1)** Le ministre peut, sur demande, verser une allocation pour perte de revenus au vétéran s’il décide, par suite de l’évaluation des besoins de celui-ci conformément au paragraphe 10(1), qu’un programme de réadaptation ou d’assistance professionnelle devrait être élaboré à son égard.
+- **(1)** Le ministre peut, sur demande, verser au vétéran, en conformité avec les articles 19 ou 19.1, une prestation de remplacement du revenu si ce dernier présente une demande en vertu de l’article 8 et présente un problème de santé physique ou mentale qui découle principalement de son service dans les Forces canadiennes et entrave sa réinsertion dans la vie civile.
 
-**Début de l’allocation**
+**Participation du vétéran**
 
-- **(2)** L’allocation est exigible à compter du jour où le ministre décide qu’un programme de réadaptation ou d’assistance professionnelle devrait être élaboré. S’il prend cette décision à l’égard d’un militaire, il est entendu que l’allocation n’est exigible qu’à compter du lendemain de la libération de celui-ci des Forces canadiennes.
+- **(2)** Sous réserve du paragraphe (9), le vétéran qui est avisé par le ministre de son droit à la prestation est tenu :
+	- **a)** de participer à l’évaluation de ses besoins au titre du paragraphe 10(1);
+	- **b)** si le ministre décide, à la suite de cette évaluation, qu’un programme de réadaptation devrait être élaboré à son égard, de participer à l’élaboration et à la mise en oeuvre du programme.
 
-**Fin de l’allocation**
+**Début des versements**
 
-- **(3)** Sous réserve du paragraphe (4) et de l’article 21, le vétéran n’a plus droit à l’allocation à partir du premier en date des jours suivants :
-	- **a)** celui où le vétéran termine le programme de réadaptation ou d’assistance professionnelle;
-	- **b)** celui où le programme est annulé;
-	- **c)** celui où le vétéran atteint l’âge de soixante-cinq ans.
+- **(3)** Sous réserve du paragraphe (4), la prestation est exigible à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois au cours duquel le ministre décide que le vétéran lui a communiqué tous les renseignements réglementaires;
+	- **b)** un an avant le premier jour du mois au cours duquel le ministre décide que le vétéran a droit à la prestation.
 
-**Continuation de l’allocation**
+**Libération des Forces canadiennes**
 
-- **(4)** Si le ministre est d’avis que le vétéran présente un problème de santé physique ou mentale pour lequel un programme de réadaptation a été élaboré et que ce problème de santé entraîne une diminution de sa capacité de gain, l’allocation continue d’être versée même si le vétéran a terminé le programme ou si celui-ci a été annulé, et ce jusqu’au premier en date des jours suivants :
-	- **a)** celui où le ministre est d’avis que le vétéran ne présente plus le problème de santé qui a entraîné la diminution de sa capacité de gain;
-	- **b)** celui où le vétéran atteint l’âge de soixante-cinq ans.
-> 2005, ch. 21, art. 18; 2015, ch. 36, art. 208; 2016, ch. 7, art. 81.
+- **(4)** Si la décision visée à l’alinéa (3)a) est prise avant la date de libération du vétéran des Forces canadiennes, le jour visé à cet alinéa est le premier jour du mois au cours duquel il est libéré ou, s’il est libéré le dernier jour du mois, le premier jour du mois suivant ce mois.
+
+**Décision — diminution de la capacité de gain**
+
+- **(5)** Dans le cas où un programme de réadaptation est élaboré en vertu de l’article 10, à l’égard du vétéran qui a droit à la prestation, pour le problème de santé physique ou mentale visé au paragraphe (1), le ministre décide en conformité avec les règlements, avant le jour où le vétéran termine le programme de réadaptation ou, s’il est antérieur, le jour où ce dernier atteint l’âge de soixante-cinq ans, si le problème de santé physique ou mentale entraîne une diminution de la capacité de gain du vétéran.
+
+**Fin des versements**
+
+- **(6)** Sous réserve des paragraphes (7) et 20(2) et de l’article 21, la prestation de remplacement du revenu cesse d’être versée le premier en date des jours suivants :
+	- **a)** le premier jour du mois suivant le mois au cours duquel le ministre décide, à la suite de l’évaluation des besoins du vétéran au titre du paragraphe 10(1), qu’un programme de réadaptation ne devrait pas être élaboré à son égard;
+	- **b)** le premier jour du mois suivant le mois au cours duquel le vétéran termine le programme de réadaptation visé au paragraphe (5) ou ce programme est annulé;
+	- **c)** le premier jour du mois suivant le mois au cours duquel le vétéran atteint l’âge de soixante-cinq ans;
+	- **d)** le premier jour du mois suivant le mois au cours duquel le vétéran décède.
+
+**Continuation**
+
+- **(7)** Si le ministre décide au titre du paragraphe (5) que le problème de santé physique ou mentale visé au paragraphe (1) que présente le vétéran entraîne une diminution de sa capacité de gain, la prestation continue d’être versée au vétéran même s’il a terminé le programme de réadaptation ou a atteint l’âge de soixante-cinq ans ou si celui-ci a été annulé, mais elle cesse de l’être le premier en date des jours suivants :
+	- **a)** le premier jour du mois suivant le mois au cours duquel le ministre décide que le problème de santé n’entraîne plus la diminution de la capacité de gain du vétéran;
+	- **b)** le premier jour du mois suivant le mois au cours duquel le vétéran décède.
+
+**Présomption**
+
+- **(8)** Si la décision visée au paragraphe (5) est prise après le jour où le vétéran atteint l’âge de soixante-cinq ans parce que, de l’avis du ministre, il existait dans les circonstances un motif raisonnable justifiant de retarder la décision, celle-ci est réputée avoir été prise avant ce jour pour l’application du paragraphe (7).
+
+**Non-application — paragraphe (2)**
+
+- **(9)** Le paragraphe (2) ne s’applique pas au vétéran si le ministre décide au titre du paragraphe (5) que le problème de santé physique ou mentale qu’il présente entraîne une diminution de sa capacité de gain.
+
+**Non-application — alinéa (7)a)**
+
+- **(10)** L’alinéa (7)a) ne s’applique pas au vétéran qui a atteint l’âge de soixante-cinq ans.
+> 2005, ch. 21, art. 18; 2015, ch. 36, art. 208; 2016, ch. 7, art. 81; 2018, ch. 12, art. 131.
 
 
 
 
 
-**Montant de l’allocation**
+**Montant de la prestation — vétéran âgé de moins de soixante-cinq ans**
 
 **19** 
 
-- **(1)** Sous réserve des règlements, le montant de l’allocation pour perte de revenus exigible mensuellement au titre de l’article 18 correspond au résultat obtenu par la formule suivante :
+- **(1)** Sous réserve des règlements, le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 18 par un vétéran âgé de moins de soixante-cinq ans — ou par un vétéran âgé de soixante-cinq ans pour le mois de son soixante-cinquième anniversaire — correspond au résultat obtenu par la formule suivante :
 ```
 A - B
 ```
@@ -651,11 +690,40 @@ où :
 **Règlements**
 
 - **(2)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** régissant la détermination du revenu attribué à l’égard d’une catégorie de vétérans;
-	- **b)** prévoyant les montants maximum et minimum du revenu attribué à l’égard d’une catégorie de vétérans;
-	- **c)** prévoyant le rajustement périodique de la valeur des éléments A et B de la formule figurant au paragraphe (1);
-	- **d)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le vétéran pour un mois.
-> 2005, ch. 21, art. 19; 2016, ch. 7, art. 82.
+	- **a)** concernant la détermination, pour l’application du paragraphe (1), du revenu attribué à l’égard d’une catégorie de vétérans, notamment le rajustement périodique — y compris en fonction d’un facteur de cheminement de carrière — de la solde militaire mensuelle utilisée dans cette détermination;
+	- **b)** prévoyant le montant minimum du revenu attribué à l’égard d’une catégorie de vétérans et le rajustement périodique de ce montant;
+	- **c)** concernant la détermination, pour l’application de l’élément B de la formule figurant au paragraphe (1), de toute somme exigible par une catégorie de vétérans pour un mois.
+	- **d)** [Abrogé, 2018, ch. 12, art. 132]
+
+**Facteur de cheminement de carrière**
+
+- **(3)** Si les règlements pris en vertu de l’alinéa (2)a) prévoient le rajustement périodique de la solde militaire mensuelle d’un vétéran en fonction d’un facteur de cheminement de carrière, ce rajustement ne peut se faire que dans le cas où le ministre décide, au titre du paragraphe 18(5), que le problème de santé physique ou mentale que présente le vétéran entraîne une diminution de sa capacité de gain; le cas échéant, il ne peut se faire après le premier en date des jours suivants :
+	- **a)** le dernier jour du nombre réglementaire d’années de service dans les Forces canadiennes du vétéran;
+	- **b)** la veille du jour du soixantième anniversaire du vétéran.
+> 2005, ch. 21, art. 19; 2016, ch. 7, art. 82; 2018, ch. 12, art. 132.
+
+
+
+
+
+**Montant de la prestation — vétéran âgé de soixante-cinq ans ou plus**
+
+**19.1** 
+
+- **(1)** Sous réserve des règlements et de l’article 19, le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 18 par un vétéran qui a atteint l’âge de soixante-cinq ans correspond au résultat obtenu par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente soixante-dix pour cent de la prestation de remplacement du revenu à laquelle le vétéran aurait eu droit pour le mois de son soixante-cinquième anniversaire si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) n’avaient pas été prises en compte;
+- **B** toute somme exigible d’une source réglementaire par le vétéran pour un mois.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant le rajustement périodique de la valeur de l’élément A de la formule figurant au paragraphe (1);
+	- **b)** concernant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par une catégorie de vétérans pour un mois.
+> 2018, ch. 12, art. 133.
 
 
 
@@ -665,108 +733,202 @@ où :
 
 **20** 
 
-- **(1)** Le ministre peut exiger du vétéran qui, en raison d’une diminution de sa capacité de gain, reçoit — ou recevrait n’était le niveau de son revenu — l’allocation pour perte de revenus au titre de l’article 18 que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
+- **(1)** Le ministre peut, dans le but d’établir si un vétéran a encore droit à la prestation de remplacement du revenu au titre de l’article 18, exiger de ce dernier qu’il subisse un examen médical ou une évaluation fait par la personne que le ministre précise.
 
 **Défaut**
 
-- **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler l’allocation.
-> 2005, ch. 21, art. 20; 2016, ch. 7, art. 83.
+- **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut suspendre la prestation. S’il ne s’y est toujours pas présenté trente jours après la date de la prise d’effet de la suspension, le ministre peut annuler la prestation.
+> 2005, ch. 21, art. 20; 2016, ch. 7, art. 83; 2018, ch. 12, art. 133.
 
 
 
 
 
-**Annulation**
+**Suspension ou annulation**
 
-**21** Le ministre peut, dans les circonstances réglementaires, annuler l’allocation pour perte de revenus versée au titre de l’article 18.
+**21** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler la prestation de remplacement du revenu versée au titre de l’article 18.
+> 2005, ch. 21, art. 21; 2018, ch. 12, art. 133.
 
 
 
 
-**Admissibilité : survivant et orphelins**
+
+#### Survivants et orphelins
+
+
+
+**Admissibilité : décès lié au service avant l’âge de soixante-cinq ans**
 
 **22** 
 
-- **(1)** Le ministre peut, sur demande, verser au survivant ou à l’orphelin, en conformité avec l’article 23, une allocation pour perte de revenus si le militaire ou vétéran est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service.
+- **(1)** Le ministre peut, sur demande, verser au survivant ou à l’orphelin, en conformité avec l’article 23, une prestation de remplacement du revenu si le militaire ou vétéran est décédé avant le jour de son soixante-cinquième anniversaire en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service.
 
 **Début des versements**
 
-- **(2)** L’allocation est exigible à compter du dernier en date des moments suivants :
-	- **a)** le lendemain du décès du militaire ou vétéran;
-	- **b)** un an avant l’approbation de la demande.
+- **(2)** La prestation est exigible à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois suivant le mois au cours duquel le militaire ou vétéran décède;
+	- **b)** un an avant le premier jour du mois au cours duquel le ministre décide que le survivant ou l’orphelin a droit à la prestation.
 
 **Fin des versements**
 
-- **(3)** L’allocation cesse d’être versée le jour où le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans.
+- **(3)** Sous réserve de l’article 26.2, la prestation cesse d’être versée :
+	- **a)** au survivant, le premier jour du mois suivant le mois au cours duquel il décède;
+	- **b)** à l’orphelin, le premier en date des jours suivants :
+		- **(i)** le premier jour du mois suivant le mois au cours duquel il cesse d’être un orphelin,
+		- **(ii)** le premier jour du mois suivant le mois au cours duquel il décède.
+> 2005, ch. 21, art. 22; 2018, ch. 12, art. 133.
 
-
-
-
-**Montant de l’allocation**
-
-**23** 
-
-- **(1)** Sous réserve des règlements, le montant de l’allocation pour perte de revenus exigible mensuellement au titre de l’article 22 correspond à quatre-vingt-dix pour cent du revenu attribué du militaire ou vétéran pour un mois.
-
-**Répartition de l’allocation**
-
-- **(2)** Les règles ci-après s’appliquent à la répartition de l’allocation pour perte de revenus accordée au survivant ou à l’orphelin :
-	- **a)** s’il y a un survivant mais aucun orphelin, l’allocation est versée en entier au survivant;
-	- **b)** s’il y a un survivant et un ou plusieurs orphelins :
-		- **(i)** le survivant reçoit soixante pour cent du montant de l’allocation,
-		- **(ii)** chaque orphelin reçoit la somme résultant de la division de quarante pour cent du montant de l’allocation par le nombre d’orphelins;
-	- **c)** s’il y a un ou plusieurs orphelins mais pas de survivant, chaque orphelin reçoit la moindre des sommes suivantes :
-		- **(i)** quarante pour cent du montant de l’allocation,
-		- **(ii)** la somme résultant de la division du montant de l’allocation par le nombre d’orphelins.
-
-**Réduction**
-
-- **(3)** Sous réserve des règlements, le versement mensuel de l’allocation accordée au survivant est réduit de toute somme que celui-ci peut exiger d’une source réglementaire pour un mois à l’égard du militaire ou vétéran.
-
-**Règlements**
-
-- **(4)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** régissant la détermination du revenu attribué à l’égard d’une catégorie de militaires ou vétérans;
-	- **b)** prévoyant les montants maximum et minimum du revenu attribué à l’égard d’une catégorie de militaires ou vétérans;
-	- **c)** prévoyant le rajustement périodique du montant de l’allocation visé au paragraphe (1) et de la somme visée au paragraphe (3);
-	- **d)** régissant la détermination, pour l’application du paragraphe (3), de toute somme exigible par le survivant pour un mois.
-> 2005, ch. 21, art. 23; 2016, ch. 7, art. 84.
-
-
-
-
-
-**Versement au prorata**
-
-**24** Toute allocation pour perte de revenus exigible pour une partie de mois est calculée au prorata sur la base d’un mois de trente jours.
-
-
-
-
-### Prestation de retraite supplémentaire
-
-
-
-**Admissibilité : vétéran**
-
-**25** 
-
-- **(1)** Le ministre peut, sur demande, verser une prestation de retraite supplémentaire au vétéran qui a reçu — ou aurait reçu n’eût été le niveau de son revenu — l’allocation pour perte de revenus au titre du paragraphe 18(4), si celui-ci n’a plus droit à cette allocation.
-
-**Admissibilité : survivant**
-
-- **(2)** Le ministre peut, sur demande, verser une prestation de retraite supplémentaire au survivant du vétéran qui, au moment de son décès, recevait — ou aurait reçu n’eût été le niveau de son revenu — l’allocation pour perte de revenus au titre du paragraphe 18(4), à la condition que le survivant n’ait pas lui-même droit à cette allocation en vertu de l’article 22.
-
-**Admissibilité : survivant**
-
-- **(3)** Le ministre peut, sur demande, verser la prestation de retraite supplémentaire au survivant qui recevait l’allocation pour perte de revenus en vertu de l’article 22 si celui-ci n’a plus droit à cette allocation.
 
 
 
 
 **Montant de la prestation**
 
-**26** Le gouverneur en conseil peut prendre des règlements prévoyant le montant de la prestation de retraite supplémentaire à verser à l’égard d’une ou de plusieurs catégories de vétérans ou de survivants.
+**23** 
+
+- **(1)** Sous réserve des règlements, le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 22 correspond :
+	- **a)** pour le mois au cours duquel le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans et tout mois précédant ce mois, à quatre-vingt-dix pour cent du revenu attribué du militaire ou vétéran pour un mois;
+	- **b)** pour tout mois suivant le mois au cours duquel le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans, à soixante-dix pour cent du montant correspondant au résultat obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente soixante-dix pour cent;
+- **B** quatre-vingt-dix pour cent du revenu attribué du militaire ou vétéran pour un mois.
+
+**Répartition de l’allocation**
+
+- **(2)** Les règles ci-après s’appliquent à la répartition de la prestation de remplacement du revenu à verser au survivant ou à l’orphelin :
+	- **a)** s’il y a un survivant mais aucun orphelin, le survivant reçoit la prestation en entier;
+	- **b)** s’il y a un survivant et un ou plusieurs orphelins :
+		- **(i)** le survivant reçoit cinquante pour cent du montant de la prestation,
+		- **(ii)** chaque orphelin reçoit la somme résultant de la division de cinquante pour cent du montant de la prestation par le nombre d’orphelins;
+	- **c)** s’il y a un ou plusieurs orphelins mais pas de survivant, chaque orphelin reçoit la somme résultant de la division du montant de la prestation par le nombre d’orphelins.
+
+**Réduction — survivant**
+
+- **(3)** Sous réserve des règlements, le versement mensuel de la prestation accordée au survivant est réduit de toute somme que celui-ci peut exiger d’une source réglementaire pour un mois à l’égard du militaire ou vétéran.
+
+**Règlements**
+
+- **(4)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** concernant la détermination, pour l’application des alinéas (1)a) et b), du revenu attribué à l’égard d’une catégorie de militaires ou vétérans, notamment le rajustement périodique — y compris en fonction d’un facteur de cheminement de carrière — de la solde militaire mensuelle utilisée dans cette détermination;
+	- **b)** prévoyant le montant minimum du revenu attribué à l’égard d’une catégorie de militaires ou vétérans et le rajustement périodique de ce montant;
+	- **c)** prévoyant le rajustement périodique du montant de la prestation visé au paragraphe (1);
+	- **d)** concernant la détermination, pour l’application du paragraphe (3), de toute somme exigible par une catégorie de survivants pour un mois.
+
+**Facteur de cheminement de carrière**
+
+- **(5)** Si les règlements pris en vertu de l’alinéa (4)a) prévoient le rajustement périodique de la solde militaire mensuelle d’un militaire ou vétéran en fonction d’un facteur de cheminement de carrière, ce rajustement ne peut se faire après le premier en date des jours suivants :
+	- **a)** le dernier jour du nombre réglementaire d’années de service dans les Forces canadiennes du militaire ou vétéran;
+	- **b)** la veille du jour où le militaire ou vétéran aurait atteint l’âge de soixante ans.
+> 2005, ch. 21, art. 23; 2016, ch. 7, art. 84; 2018, ch. 12, art. 134.
+
+
+
+
+
+**Admissibilité : décès non lié au service avant l’âge de soixante-cinq ans**
+
+**24** 
+
+- **(1)** Le ministre peut, sur demande, verser au survivant ou à l’orphelin, en conformité avec l’article 25, une prestation de remplacement du revenu si le vétéran, à la fois :
+	- **a)** est décédé avant le jour de son soixante-cinquième anniversaire en raison d’une blessure ou maladie autre qu’une blessure ou maladie liée au service ou une blessure ou maladie non liée au service dont l’aggravation est due au service;
+	- **b)** avait droit à la prestation de remplacement du revenu au moment de son décès.
+
+**Somme forfaitaire**
+
+- **(2)** La prestation est versée en une somme forfaitaire.
+> 2005, ch. 21, art. 24; 2018, ch. 12, art. 135.
+
+
+
+
+
+**Montant de la prestation**
+
+**25** 
+
+- **(1)** Le montant de la prestation de remplacement du revenu exigible au titre de l’article 24 correspond :
+	- **a)** soit à vingt-quatre fois le montant de la prestation de remplacement du revenu à laquelle le vétéran aurait eu droit pour le mois de son décès si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) n’avaient pas été prises en compte;
+	- **b)** soit, dans le cas où le vétéran avait droit, au moment de son décès, à la prestation de remplacement du revenu par application de l’article 99, à vingt-quatre fois le montant de la prestation de remplacement du revenu à laquelle il aurait eu droit pour le mois de son décès si les paragraphes 99(3) à (5) ne s’étaient jamais appliqués à lui et si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) n’avaient pas été prises en compte.
+
+**Répartition de l’allocation**
+
+- **(2)** Les règles ci-après s’appliquent à la répartition de la prestation de remplacement du revenu à verser au survivant ou à l’orphelin :
+	- **a)** s’il y a un survivant mais aucun orphelin, le survivant reçoit la prestation en entier;
+	- **b)** s’il y a un survivant et un ou plusieurs orphelins :
+		- **(i)** le survivant reçoit cinquante pour cent du montant de la prestation,
+		- **(ii)** chaque orphelin reçoit la somme résultant de la division de cinquante pour cent du montant de la prestation par le nombre d’orphelins;
+	- **c)** s’il y a un ou plusieurs orphelins mais pas de survivant, chaque orphelin reçoit la somme résultant de la division du montant de la prestation par le nombre d’orphelins.
+> 2005, ch. 21, art. 25; 2018, ch. 12, art. 135.
+
+
+
+
+
+**Admissibilité : décès du vétéran âgé de soixante-cinq ans ou plus**
+
+**26** 
+
+- **(1)** Le ministre peut, sur demande, verser au survivant ou à l’orphelin, en conformité avec l’article 26.1, une prestation de remplacement du revenu si le vétéran est décédé le jour de son soixante-cinquième anniversaire ou après ce jour alors qu’il avait droit, au moment du décès, à la prestation de remplacement du revenu.
+
+**Début des versements**
+
+- **(2)** La prestation est exigible à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois suivant le mois au cours duquel le vétéran décède;
+	- **b)** un an avant le premier jour du mois au cours duquel le ministre décide que le survivant ou l’orphelin a droit à la prestation.
+
+**Fin des versements**
+
+- **(3)** Sous réserve de l’article 26.2, la prestation cesse d’être versée :
+	- **a)** au survivant, le premier jour du mois suivant le mois au cours duquel il décède;
+	- **b)** à l’orphelin, le premier en date des jours suivants :
+		- **(i)** le premier jour du mois suivant le mois au cours duquel il cesse d’être un orphelin,
+		- **(ii)** le premier jour du mois suivant le mois au cours duquel il décède.
+> 2005, ch. 21, art. 26; 2018, ch. 12, art. 135.
+
+
+
+
+
+**Montant de la prestation**
+
+**26.1** 
+
+- **(1)** Sous réserve des règlements, le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 26 correspond :
+	- **a)** soit à soixante-dix pour cent de la prestation de remplacement du revenu à laquelle le vétéran aurait eu droit pour le mois de son décès — ou, s’il est décédé le mois de son soixante-cinquième anniversaire, pour le mois suivant ce mois — si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19.1(1) n’avaient pas été prises en compte;
+	- **b)** soit, dans le cas où le vétéran avait droit, au moment de son décès, à la prestation de remplacement du revenu par application de l’article 99, à soixante-dix pour cent de la prestation de remplacement du revenu à laquelle il aurait eu droit pour le mois de son décès — ou, s’il est décédé le mois de son soixante-cinquième anniversaire, pour le mois suivant ce mois — si les paragraphes 99(3) à (5) ne s’étaient jamais appliqués à lui et si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19.1(1) n’avaient pas été prises en compte.
+
+**Répartition de l’allocation**
+
+- **(2)** Les règles ci-après s’appliquent à la répartition de la prestation de remplacement du revenu à verser au survivant ou à l’orphelin :
+	- **a)** s’il y a un survivant mais aucun orphelin, le survivant reçoit la prestation en entier;
+	- **b)** s’il y a un survivant et un ou plusieurs orphelins :
+		- **(i)** le survivant reçoit cinquante pour cent du montant de la prestation,
+		- **(ii)** chaque orphelin reçoit la somme résultant de la division de cinquante pour cent du montant de la prestation par le nombre d’orphelins;
+	- **c)** s’il y a un ou plusieurs orphelins mais pas de survivant, chaque orphelin reçoit la somme résultant de la division du montant de la prestation par le nombre d’orphelins.
+
+**Réduction — survivant**
+
+- **(3)** Sous réserve des règlements, le versement mensuel de la prestation accordée au survivant est réduit de toute somme que celui-ci peut exiger d’une source réglementaire pour un mois à l’égard du vétéran.
+
+**Règlements**
+
+- **(4)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant le rajustement périodique du montant de la prestation visé au paragraphe (1);
+	- **b)** concernant la détermination, pour l’application du paragraphe (3), de toute somme exigible par une catégorie de survivants pour un mois.
+> 2018, ch. 12, art. 135.
+
+
+
+
+
+**Suspension ou annulation**
+
+**26.2** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler la prestation de remplacement du revenu versée au titre des articles 22 ou 26.
+> 2018, ch. 12, art. 135.
+
 
 
 
@@ -777,10 +939,12 @@ où :
 
 **Admissibilité : vétéran**
 
-**27** Le ministre peut, sur demande présentée dans le délai réglementaire, verser une allocation de soutien du revenu au vétéran qui a reçu — ou aurait reçu n’eût été le niveau de son revenu — l’allocation pour perte de revenus visée à l’article 18 si, à la fois :
-- **a)** le vétéran n’a plus droit à l’allocation pour perte de revenus;
+**27** Le ministre peut, sur demande présentée dans le délai réglementaire, verser une allocation de soutien du revenu au vétéran qui a reçu — ou aurait reçu n’eût été le niveau de son revenu — la prestation de remplacement du revenu visée à l’article 18 si, à la fois :
+- **a)** le vétéran n’a plus droit à cette prestation;
 - **b)** il remplit les conditions réglementaires relatives à l’emploi;
 - **c)** pour le mois au cours duquel la demande est présentée, le résultat obtenu par la formule figurant au paragraphe 37(1) est supérieur à zéro.
+> 2005, ch. 21, art. 27; 2018, ch. 12, art. 136.
+
 
 
 
@@ -921,221 +1085,31 @@ où :
 
 
 
+**38** [Abrogé, 2018, ch. 12, art. 137]
 
-### Allocation pour incidence sur la carrière
 
 
+**39** [Abrogé, 2018, ch. 12, art. 137]
 
-**Admissibilité**
 
-**38** 
 
-- **(1)** Le ministre peut, sur demande, verser une allocation pour incidence sur la carrière au vétéran qui présente un ou plusieurs problèmes de santé physique ou mentale lui occasionnant une déficience grave et permanente si, à la fois, à l’égard de chacun des problèmes de santé :
-	- **a)** une demande de services de réadaptation a déjà été approuvée;
-	- **b)** soit il a reçu l’indemnité d’invalidité prévue à la partie 3 ou la pension pour invalidité prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), soit il l’aurait reçue mais ne la reçoit pas parce que, selon le cas :
-		- **(i)** le total de ses degrés d’invalidité estimés ou réputés excède cent pour cent,
-		- **(ii)** aux termes de l’article 53, l’indemnité n’est pas encore exigible.
+**40** [Abrogé, 2018, ch. 12, art. 137]
 
-**Inadmissibilité : allocation d’incapacité exceptionnelle**
 
-- **(1.1)** Le vétéran qui a reçu ou reçoit l’allocation d’incapacité exceptionnelle prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ne peut recevoir l’allocation pour incidence sur la carrière.
 
-**Montant de l’allocation**
+**40.1** [Abrogé, 2018, ch. 12, art. 137]
 
-- **(2)** Le ministre fixe le montant de l’allocation à verser au cours d’une année selon les minimum et maximum prévus à la colonne 2 de l’annexe 2 en regard respectivement des articles 1 et 2 et en tenant compte des incidences que la déficience grave et permanente pourrait avoir sur les possibilités d’avancement de carrière du vétéran.
 
-**Diminution de la capacité de gain**
 
-- **(3)** Le ministre peut, sur demande, augmenter le montant de l’allocation pour incidence sur la carrière à verser au vétéran de la somme figurant à la colonne 2 de l’annexe 2 en regard de l’article 2.1 s’il constate une diminution de la capacité de gain du vétéran.
-> 2005, ch. 21, art. 38; 2011, ch. 12, art. 8; 2016, ch. 7, art. 85 et 97.
+**40.2** [Abrogé, 2018, ch. 12, art. 137]
 
 
 
+**40.3** [Abrogé, 2018, ch. 12, art. 137]
 
 
-**Début des versements**
 
-**39** L’allocation pour incidence sur la carrière prévue au paragraphe 38(2) et l’augmentation de celle-ci prévue au paragraphe 38(3) sont exigibles à compter du dernier en date des moments suivants :
-- **a)** le jour où la demande d’allocation ou d’augmentation de celle-ci, selon le cas, a été présentée;
-- **b)** un an avant l’approbation de la demande en question;
-- **c)** le lendemain de la libération du militaire des Forces canadiennes.
-> 2005, ch. 21, art. 39; 2011, ch. 12, art. 9; 2015, ch. 36, art. 209; 2016, ch. 7, art. 97.
-
-
-
-
-
-**Examen médical et évaluation**
-
-**40** 
-
-- **(1)** Le ministre peut exiger du vétéran qui reçoit l’allocation pour incidence sur la carrière que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
-
-**Défaut**
-
-- **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler l’allocation.
-> 2005, ch. 21, art. 40; 2016, ch. 7, art. 86(A) et 97.
-
-
-
-
-
-### Allocation de sécurité du revenu de retraite
-
-
-
-**Admissibilité : vétéran admissible à l’allocation pour perte de revenus**
-
-**40.1** 
-
-- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au vétéran qui, à la fois :
-	- **a)** a atteint l’âge de soixante-cinq ans;
-	- **b)** était, la veille de son soixante-cinquième anniversaire, admissible à continuer de recevoir une allocation pour perte de revenus au titre du paragraphe 18(4);
-	- **c)** est admissible à une indemnité d’invalidité au titre de l’article 45 ou à une pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
-
-**Début des versements**
-
-- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
-	- **a)** le lendemain du soixante-cinquième anniversaire du vétéran;
-	- **b)** un an avant le jour où le ministre décide que le vétéran y a droit.
-
-**Fin des versements**
-
-- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le vétéran décède.
-
-**Montant de l’allocation**
-
-- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
-```
-(A + B) – C
-```
-où : 
-- **A** représente soixante-dix pour cent de l’allocation pour perte de revenus à laquelle le vétéran aurait droit pour le mois de son soixante-cinquième anniversaire si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le vétéran des sources réglementaires visées au paragraphe 19(1) n’étaient pas prises en compte;
-- **B** soixante-dix pour cent de l’allocation pour incidence sur la carrière, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
-- **C** le total des sommes exigibles de sources réglementaires par lui pour un mois.
-
-**Règlements**
-
-- **(5)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** prévoyant le rajustement périodique du montant obtenu par l’addition des éléments A et B de la formule figurant au paragraphe (4);
-	- **b)** régissant la détermination, pour l’application de l’élément C de cette formule, de toute somme exigible par le vétéran pour un mois.
-> 2015, ch. 36, art. 210; 2016, ch. 7, art. 97.
-
-
-
-
-
-**Admissibilité : vétéran recevant une prestation d’assurance-invalidité prolongée**
-
-**40.2** 
-
-- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au vétéran qui, à la fois :
-	- **a)** a atteint l’âge de soixante-cinq ans après le 31 mars 2006 mais avant la date fixée par règlement;
-	- **b)** recevait, la veille de son soixante-cinquième anniversaire, une prestation d’assurance-invalidité prolongée au titre du Régime d’assurance-revenu militaire en raison d’une invalidité totale;
-	- **c)** est admissible à une indemnité d’invalidité au titre de l’article 45 ou à une pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
-
-**Début des versements**
-
-- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
-	- **a)** le lendemain du soixante-cinquième anniversaire du vétéran;
-	- **b)** un an avant le jour où le ministre décide que le vétéran y a droit.
-
-**Fin des versements**
-
-- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le vétéran décède.
-
-**Montant de l’allocation**
-
-- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
-```
-(A + B) – C
-```
-où : 
-- **A** représente soixante-dix pour cent de l’allocation pour perte de revenus à laquelle le vétéran, s’il avait présenté une demande, aurait eu droit pour le mois de son soixante-cinquième anniversaire si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le vétéran des sources réglementaires visées au paragraphe 19(1) n’étaient pas prises en compte;
-- **B** soixante-dix pour cent de l’allocation pour incidence sur la carrière, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
-- **C** le total des sommes exigibles de sources réglementaires par lui pour un mois.
-
-**Règlements**
-
-- **(5)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** prévoyant le rajustement périodique du montant obtenu par l’addition des éléments A et B de la formule figurant au paragraphe (4);
-	- **b)** régissant la détermination, pour l’application de l’élément C de cette formule, de toute somme exigible par le vétéran pour un mois.
-> 2015, ch. 36, art. 210; 2016, ch. 7, art. 97.
-
-
-
-
-
-**Admissibilité : survivant du vétéran admissible**
-
-**40.3** 
-
-- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au survivant d’un vétéran si ce dernier était admissible à l’allocation de sécurité du revenu de retraite au moment de son décès ou l’aurait été s’il avait présenté une demande.
-
-**Début des versements**
-
-- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
-	- **a)** le premier jour du mois suivant celui au cours duquel le vétéran est décédé;
-	- **b)** un an avant le jour où le ministre décide que le survivant y a droit.
-
-**Fin des versements**
-
-- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le survivant décède.
-
-**Montant de l’allocation**
-
-- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
-```
-A – B
-```
-où : 
-- **A** représente cinquante pour cent de l’allocation de sécurité du revenu de retraite à laquelle le vétéran aurait droit — ou à laquelle il aurait eu droit s’il avait présenté une demande — pour le mois de son décès si les sommes exigibles par le vétéran des sources réglementaires visées à l’élément C de la formule figurant aux paragraphes 40.1(4) ou 40.2(4), selon le cas, n’étaient pas prises en compte;
-- **B** le total des sommes exigibles de sources réglementaires par le survivant, à l’égard du vétéran, pour un mois.
-
-**Règlements**
-
-- **(5)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** prévoyant le rajustement périodique de l’élément A de la formule figurant au paragraphe (4);
-	- **b)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le survivant pour un mois.
-> 2015, ch. 36, art. 210.
-
-
-
-
-
-**Admissibilité : survivant admissible à l’allocation pour perte de revenus**
-
-**40.4** 
-
-- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au survivant qui cesse d’être admissible à l’allocation pour perte de revenus en application du paragraphe 22(3).
-
-**Début des versements**
-
-- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
-	- **a)** le lendemain du jour où le militaire ou le vétéran aurait atteint l’âge de soixante-cinq ans;
-	- **b)** un an avant le jour où le ministre décide que le survivant y a droit.
-
-**Fin des versements**
-
-- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le survivant décède.
-
-**Montant de l’allocation**
-
-- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
-```
-A/2 – B
-```
-où : 
-- **A** représente soixante-dix pour cent de l’allocation pour perte de revenus qui serait exigible au titre du paragraphe 23(1) pour le mois où le militaire ou le vétéran aurait atteint l’âge de soixante-cinq ans si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le survivant, à l’égard du militaire ou vétéran, des sources réglementaires visées au paragraphe 23(3) n’étaient pas prises en compte;
-- **B** le total des sommes exigibles de sources réglementaires par le survivant, à l’égard du militaire ou vétéran, pour un mois.
-
-**Règlements**
-
-- **(5)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** prévoyant le rajustement périodique de l’élément A de la formule figurant au paragraphe (4);
-	- **b)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le survivant pour un mois.
-> 2015, ch. 36, art. 210.
-
+**40.4** [Abrogé, 2018, ch. 12, art. 137]
 
 
 
@@ -1143,12 +1117,7 @@ où :
 
 
 
-
-**Suspension ou annulation**
-
-**40.6** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’allocation de sécurité du revenu de retraite.
-> 2015, ch. 36, art. 210.
-
+**40.6** [Abrogé, 2018, ch. 12, art. 137]
 
 
 
@@ -1160,21 +1129,23 @@ où :
 **Gouverneur en conseil**
 
 **41** Le gouverneur en conseil peut prendre des règlements :
-- **a)** prévoyant, dans le cas de toute personne qui reçoit l’allocation pour perte de revenus, l’allocation de soutien du revenu ou l’allocation de sécurité du revenu de retraite, la procédure de notification au ministre de toute modification du revenu, des avantages ou de la somme exigible d’une source réglementaire visée aux paragraphes 19(1), 23(3), 40.1(4), 40.2(4), 40.3(4) ou 40.4(4), ainsi que les répercussions de la modification sur le calcul de l’indemnisation, et exigeant la présentation d’un relevé estimatif sur le revenu, les avantages ou la somme exigible;
-- **b)** concernant ce qui constitue une entrave à la réinsertion dans la vie civile et une diminution de la capacité de gain;
+- **a)** prévoyant, dans le cas de toute personne qui a droit à la prestation de remplacement du revenu ou à l’allocation de soutien du revenu, la procédure de notification au ministre de toute modification du revenu, des avantages ou de la somme exigible d’une source réglementaire visée aux paragraphes 19(1), 19.1(1), 23(3) ou 26.1(3), ainsi que les répercussions de la modification sur le calcul de l’indemnisation, et exigeant la présentation d’un relevé estimatif sur le revenu, les avantages ou la somme exigible;
+- **b)** concernant ce qui constitue une diminution de la capacité de gain;
+- **b.1)** concernant la méthode à suivre pour décider si un problème de santé physique ou mentale que présente un vétéran entraîne une diminution de sa capacité de gain;
+- **b.2)** concernant, pour l’application des paragraphes 19(3) et 23(5), ce qui constitue une année de service dans les Forces canadiennes;
 - **c)** définissant, pour l’application de l’article 37, année civile de base, période de paiement et revenu;
 - **d)** prévoyant le rajustement des taux prévus à la colonne 2 de l’annexe 1 en cas d’augmentation du montant de la pension ou du supplément, au sens de l’article 2 de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), apportée par une modification de cette loi;
 - **e)** prévoyant le paiement de frais entraînés par la participation à un programme de réadaptation ou d’assistance professionnelle;
-- **f)** précisant, pour l’application des articles 33 et 34, ce qui constitue la résidence et les intervalles d’absence du Canada qui sont réputés ne pas interrompre la résidence au Canada;
-- **g)** concernant, pour l’application de l’article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l’existence et l’ampleur d’une telle déficience chez le vétéran.
-> 2005, ch. 21, art. 41; 2015, ch. 36, art. 211; 2016, ch. 7, art. 87.
+- **f)** précisant, pour l’application des articles 33 et 34, ce qui constitue la résidence et les intervalles d’absence du Canada qui sont réputés ne pas interrompre la résidence au Canada.
+- **g)** [Abrogé, 2018, ch. 12, art. 138]
+> 2005, ch. 21, art. 41; 2015, ch. 36, art. 211; 2016, ch. 7, art. 87; 2018, ch. 12, art. 138.
 
 
 
 
 
 **PARTIE 3** 
-## Blessure grave, invalidité, décès et captivité
+## Blessure grave, douleur et souffrance, décès et captivité
 
 
 
@@ -1182,10 +1153,10 @@ où :
 
 
 
-**Application de la présente partie**
+**Non-application de la présente partie**
 
-**42** La présente partie, exception faite des articles 44.1 et 44.2, ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
-> 2005, ch. 21, art. 42; 2015, ch. 36, art. 213; 2017, ch. 20, art. 276.
+**42** La présente partie, exception faite des articles 44.1, 44.2 et 56.6 à 56.8, ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+> 2005, ch. 21, art. 42; 2015, ch. 36, art. 213; 2017, ch. 20, art. 276; 2018, ch. 12, art. 140.
 
 
 
@@ -1247,7 +1218,7 @@ où :
 
 
 
-### Indemnité d’invalidité
+### Indemnité pour douleur et souffrance
 
 
 
@@ -1255,13 +1226,15 @@ où :
 
 **45** 
 
-- **(1)** Le ministre peut, sur demande, verser une indemnité d’invalidité au militaire ou vétéran qui démontre qu’il souffre d’une invalidité causée :
+- **(1)** Le ministre peut, sur demande, verser une indemnité pour douleur et souffrance au militaire ou vétéran qui démontre qu’il souffre d’une invalidité causée :
 	- **a)** soit par une blessure ou maladie liée au service;
 	- **b)** soit par une blessure ou maladie non liée au service dont l’aggravation est due au service.
 
 **Fraction**
 
-- **(2)** Pour l’application de l’alinéa (1)b), seule la fraction — calculée en cinquièmes — du degré d’invalidité qui représente l’aggravation due au service donne droit à une indemnité d’invalidité.
+- **(2)** Pour l’application de l’alinéa (1)b), seule la fraction — calculée en cinquièmes — de l’invalidité qui représente l’aggravation due au service donne droit à une indemnité pour douleur et souffrance.
+> 2005, ch. 21, art. 45; 2018, ch. 12, art. 142.
+
 
 
 
@@ -1278,22 +1251,24 @@ où :
 
 **Fraction**
 
-- **(2)** Pour l’application du paragraphe 45(1), si l’invalidité est causée par une blessure ou maladie réputée liée au service au titre du paragraphe (1), seule la fraction — calculée en cinquièmes — du degré d’invalidité qui représente la proportion de cette blessure ou maladie qui est la conséquence d’une autre blessure ou maladie liée au service ou réputée l’être donne droit à une indemnité d’invalidité.
-> 2005, ch. 21, art. 46; 2015, ch. 36, art. 215.
+- **(2)** Pour l’application du paragraphe 45(1), si l’invalidité est causée par une blessure ou maladie réputée liée au service au titre du paragraphe (1), seule la fraction — calculée en cinquièmes — de l’invalidité qui représente la proportion de cette blessure ou maladie qui est la conséquence d’une autre blessure ou maladie liée au service ou réputée l’être donne droit à une indemnité pour douleur et souffrance.
+> 2005, ch. 21, art. 46; 2015, ch. 36, art. 215; 2018, ch. 12, art. 143.
 
 
 
 
 
-**Indemnité d’invalidité pour perte de l’un des organes ou membres pairs**
+**Indemnité pour perte de l’un des organes ou membres pairs**
 
 **47** 
 
-- **(1)** Le ministre peut, sur demande, verser une indemnité d’invalidité au militaire ou vétéran qui a reçu une indemnité d’invalidité en raison de la perte de l’un de ses organes ou membres pairs ou de la perte en permanence de l’usage d’un tel organe ou membre si, antérieurement ou postérieurement à cette perte, pour quelque cause que ce soit, il subit la perte, la perte d’usage ou l’affaiblissement de l’autre organe ou membre de la paire.
+- **(1)** Le ministre peut, sur demande, verser une indemnité pour douleur et souffrance au militaire ou vétéran à qui une indemnité d’invalidité ou une indemnité pour douleur et souffrance a été versée — ou pour qui une indemnité pour douleur et souffrance est exigible — en raison de la perte de l’un de ses organes ou membres pairs ou de la perte en permanence de l’usage d’un tel organe ou membre si, antérieurement ou postérieurement à cette perte, pour quelque cause que ce soit, il subit la perte, la perte en permanence de l’usage ou l’affaiblissement de l’autre organe ou membre de la paire.
 
 **Estimation du degré d’invalidité**
 
-- **(2)** Le degré d’invalidité estimé dans ce cas est égal à cinquante pour cent du degré d’invalidité qui aurait été estimé si la perte de l’organe ou membre ou la perte en permanence de l’usage ou l’affaiblissement de celui-ci était survenu dans des circonstances telles qu’une indemnité aurait été versée au titre de l’article 45.
+- **(2)** Le degré d’invalidité estimé dans ce cas est égal à cinquante pour cent du degré d’invalidité qui aurait été estimé si la perte de l’organe ou membre ou la perte en permanence de l’usage ou l’affaiblissement de cet organe ou de ce membre était survenu dans des circonstances telles qu’une indemnité pour douleur et souffrance aurait été exigible au titre de l’article 45.
+> 2005, ch. 21, art. 47; 2018, ch. 12, art. 144.
+
 
 
 
@@ -1302,44 +1277,16 @@ où :
 
 **48** 
 
-- **(1)** Si le militaire ou vétéran qui a reçu, en tout ou en partie, l’indemnité d’invalidité au titre des articles 45 ou 47 démontre qu’il y a eu une augmentation du degré d’invalidité, le ministre peut, sur demande, lui verser une indemnité d’invalidité correspondant à cette augmentation.
+- **(1)** Si le militaire ou vétéran à qui une indemnité d’invalidité ou une indemnité pour douleur et souffrance a été versée ou pour qui une indemnité pour douleur et souffrance est exigible démontre qu’il y a eu une augmentation du degré d’invalidité pour lequel l’indemnité a été versée ou est exigible, le ministre peut, sur demande, lui verser une indemnité pour douleur et souffrance.
 
 **Fraction à indemniser : aggravation**
 
-- **(2)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 45(2) donne droit, dans le cas d’une blessure ou maladie non liée au service dont l’aggravation est due au service, à l’indemnité d’invalidité.
+- **(2)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 45(2) donne droit, dans le cas d’une blessure ou maladie non liée au service dont l’aggravation est due au service, à l’indemnité pour douleur et souffrance.
 
 **Fraction à indemniser : blessure ou maladie réputée liée au service**
 
-- **(3)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 46(2) donne droit, dans le cas d’une blessure ou maladie qui est la conséquence d’une autre blessure ou maladie, à l’indemnité d’invalidité.
-> 2005, ch. 21, art. 48; 2011, ch. 12, art. 10.
-
-
-
-
-
-**Décès du militaire ou vétéran : blessure ou maladie**
-
-**49** Le militaire ou vétéran décédé d’une blessure ou maladie pour laquelle il a reçu, en tout ou en partie, ou aurait pu recevoir une indemnité d’invalidité au titre de l’article 45 est réputé, au moment de son décès, souffrir d’une invalidité dont le degré est estimé à cent pour cent si le décès survient plus de trente jours après le jour où il a subi la blessure ou contracté la maladie ou celui où la blessure ou maladie s’est aggravée.
-> 2005, ch. 21, art. 49; 2011, ch. 12, art. 11.
-
-
-
-
-
-**Décès du militaire ou vétéran : demande non présentée**
-
-**50** 
-
-- **(1)** Si le militaire ou vétéran décède avant d’avoir présenté la demande d’indemnité visée aux articles 45, 47 ou 48, le ministre peut, sur demande, verser au survivant ou à toute autre personne qui au moment du décès est un enfant à charge, en conformité avec l’article 55, l’indemnité à laquelle le militaire ou vétéran aurait eu droit au titre de l’article en question.
-
-**Militaire ou vétéran décédé : continuation de la demande**
-
-- **(2)** Si le militaire ou vétéran qui a demandé l’indemnité visée aux articles 45, 47 ou 48 décède avant qu’une décision ne soit prise par le ministre relativement à sa demande, ce dernier peut verser au survivant ou à toute autre personne qui au moment du décès est un enfant à charge, en conformité avec l’article 55, l’indemnité à laquelle le militaire ou vétéran aurait eu droit au titre de l’article en question.
-
-**Droits du demandeur**
-
-- **(3)** Le survivant ou l’enfant a, à l’égard de la demande visée au paragraphe (2), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé, à l’exception du droit de faire un choix en vertu du paragraphe 52.1(1).
-> 2005, ch. 21, art. 50; 2011, ch. 12, art. 12.
+- **(3)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 46(2) donne droit, dans le cas d’une blessure ou maladie qui est la conséquence d’une autre blessure ou maladie, à l’indemnité pour douleur et souffrance.
+> 2005, ch. 21, art. 48; 2011, ch. 12, art. 10; 2018, ch. 12, art. 144.
 
 
 
@@ -1347,101 +1294,168 @@ où :
 
 **Estimation du degré d’invalidité**
 
-**51** 
+**49** 
 
 - **(1)** Les estimations du degré d’invalidité s’effectuent conformément aux instructions du ministre et sont basées sur la table des invalidités qu’il établit pour aider quiconque les effectue.
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(2)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux instructions ni à la table des invalidités.
+> 2005, ch. 21, art. 49; 2011, ch. 12, art. 11; 2018, ch. 12, art. 144.
+
 
 
 
 
 **Montant de l’indemnité**
 
-**52** 
+**50** 
 
-- **(1)** Sous réserve de l’article 54, le montant de l’indemnité d’invalidité à verser correspond au résultat obtenu par la formule suivante :
+- **(1)** Sous réserve de l’article 56.4, le montant de l’indemnité pour douleur et souffrance exigible mensuellement par le militaire ou vétéran au titre des articles 45, 47 ou 48 correspond au résultat obtenu par la formule suivante :
 ```
-A - B
+A – B
 ```
 où :
-- **A** représente la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi;
-- **B** la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond à ce qui était le total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi immédiatement avant le moment où l’indemnité d’invalidité devient exigible.
+- **A** représente la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au total des degrés d’invalidité du militaire ou vétéran pour lesquels une indemnité d’invalidité a été versée ou une indemnité pour douleur et souffrance a été versée en une somme forfaitaire ou est exigible;
+- **B** la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au total des degrés d’invalidité du militaire ou vétéran pour lesquels une indemnité d’invalidité a été versée ou une indemnité pour douleur et souffrance a été versée en une somme forfaitaire.
 
 **Fraction**
 
-- **(2)** Pour l’application du paragraphe (1), si seulement une fraction du degré d’invalidité donne droit à l’indemnité en vertu des paragraphes 45(2), 46(2) ou 48(2) ou (3), il est tenu compte uniquement de cette fraction du degré d’invalidité.
+- **(2)** Pour l’application du paragraphe (1), si seulement une fraction de l’invalidité a donné ou donne droit à l’indemnité d’invalidité ou à l’indemnité pour douleur et souffrance, il est tenu compte uniquement de cette fraction de l’invalidité.
+> 2005, ch. 21, art. 50; 2011, ch. 12, art. 12; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Début des versements**
+
+**51** 
+
+- **(1)** L’indemnité pour douleur et souffrance est exigible au titre des articles 45, 47 ou 48 à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois au cours duquel la demande d’indemnité a été présentée;
+	- **b)** trois ans avant le premier jour du mois au cours duquel l’indemnité est accordée.
+
+**Versement supplémentaire**
+
+- **(2)** Malgré le paragraphe (1), lorsqu’il est d’avis que, n’eût été les retards dans l’obtention des dossiers militaires ou autres ou d’autres difficultés administratives indépendantes de la volonté du militaire ou vétéran, l’indemnité aurait été accordée à une date antérieure, le ministre ou, dans le cas d’une demande de révision ou d’un appel prévus par la [Loi sur le Tribunal des anciens combattants (révision et appel)](/fr/Lois/Lois%20du%20Canada/1995/ch.%2018.md), le Tribunal peut accorder au militaire ou vétéran un versement supplémentaire dont le montant ne dépasse pas celui de l’indemnité pour douleur et souffrance qui est exigible par ce dernier pour deux années.
+
+**Versement supplémentaire réputé être une indemnisation**
+
+- **(3)** Le versement supplémentaire est réputé, pour l’application des articles 88 à 90 et 92 et du paragraphe 93(1), être une indemnisation.
+> 2005, ch. 21, art. 51; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Fin des versements**
+
+**52** Sous réserve de l’article 52.1, l’indemnité pour douleur et souffrance cesse d’être versée au titre articles 45, 47 ou 48 le premier en date des jours suivants :
+- **a)** le premier jour du mois suivant le mois au cours duquel le militaire ou vétéran fait le choix prévu à l’article 53;
+- **b)** le premier jour du mois suivant le mois au cours duquel le militaire ou vétéran décède.
+> 2005, ch. 21, art. 52; 2016, ch. 7, art. 88; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Suspension ou annulation**
+
+**52.1** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’indemnité pour douleur et souffrance versée au titre des articles 45, 47 ou 48.
+> 2011, ch. 12, art. 13; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Choix relativement à une somme forfaitaire**
+
+**53** 
+
+- **(1)** Le militaire ou vétéran pour qui une indemnité pour douleur et souffrance est exigible au titre des articles 45, 47 ou 48 peut choisir, selon les modalités prévues par règlement, de recevoir l’indemnité pour douleur et souffrance en une somme forfaitaire plutôt que sous forme de versements mensuels.
+
+**Montant de la somme forfaitaire**
+
+- **(2)** Le montant de l’indemnité pour douleur et souffrance versée en une somme forfaitaire correspond au résultat obtenu par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente la somme prévue à la colonne 4 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au total des degrés d’invalidité du militaire ou vétéran pour lesquels une indemnité pour douleur et souffrance est exigible;
+- **B** le montant correspondant à la somme du produit obtenu — à l’égard de chaque indemnité pour douleur et souffrance qui est devenue exigible par le militaire ou vétéran, autre que celle pour laquelle ce dernier a déjà fait le choix prévu au présent article — par multiplication de la somme prévue à l’alinéa a) par le nombre prévu à l’alinéa b) :
+- **a)** la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au degré d’invalidité du militaire ou vétéran pour lequel l’indemnité pour douleur et souffrance a été versée;
+- **b)** le nombre de mois pendant lesquels l’indemnité pour douleur et souffrance a été versée.
+
+**Choix irrévocable**
+
+- **(3)** Le choix fait au titre du paragraphe (1) est irrévocable et s’applique à l’égard du total des degrés d’invalidité du militaire ou vétéran pour lesquels l’indemnité pour douleur et souffrance est exigible au moment où il fait son choix.
+> 2005, ch. 21, art. 53; 2016, ch. 7, art. 89; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Décès du militaire ou vétéran**
+
+**54** Si le militaire ou vétéran décède alors qu’une indemnité pour douleur et souffrance est exigible par lui au titre des articles 45, 47 ou 48, le ministre peut, sur demande et en conformité avec l’article 56.1, verser, en une somme forfaitaire, au survivant ou à toute personne qui, au moment du décès, est un enfant à charge, toute indemnité pour douleur et souffrance qui aurait été exigible par le militaire ou vétéran au titre de l’article 53 s’il avait fait le choix prévu à cet article le jour précédant son décès.
+> 2005, ch. 21, art. 54; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Militaire ou vétéran décédé : continuation de la demande**
+
+**55** 
+
+- **(1)** Si le militaire ou vétéran qui a présenté une demande d’indemnité pour douleur et souffrance au titre des articles 45, 47 ou 48 décède avant qu’une décision ne soit prise par le ministre relativement à sa demande, ce dernier peut, en conformité avec l’article 56.1, verser, en une somme forfaitaire, au survivant ou à toute personne qui, au moment du décès, est un enfant à charge, une indemnité pour douleur et souffrance égale à la somme prévue à la colonne 4 de l’annexe 3 en regard du taux mensuel visé à la colonne 3 correspondant au montant de l’indemnité pour douleur et souffrance qui, par suite de la demande, aurait été exigible mensuellement par le militaire ou vétéran au titre de l’article en question.
+
+**Droits du survivant et de l’enfant à charge**
+
+- **(2)** Le survivant ou l’enfant à charge a, à l’égard de la demande visée au paragraphe (1), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé.
+> 2005, ch. 21, art. 55; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Décès du militaire ou vétéran : demande non présentée**
+
+**56** Si le militaire ou vétéran décède avant d’avoir présenté une demande d’indemnité pour douleur et souffrance au titre des articles 45, 47 ou 48, le ministre peut, sur demande et en conformité avec l’article 56.1, verser, en une somme forfaitaire, au survivant ou à toute personne qui, au moment du décès, est un enfant à charge, une indemnité pour douleur et souffrance égale à la somme prévue à la colonne 4 de l’annexe 3 en regard du taux mensuel visé à la colonne 3 qui correspond au montant de l’indemnité pour douleur et souffrance qui aurait été exigible mensuellement par le militaire ou vétéran au titre de l’article en question s’il avait présenté une demande.
+> 2005, ch. 21, art. 56; 2011, ch. 12, art. 14; 2018, ch. 12, art. 144.
+
+
+
+
+
+**Répartition de l’indemnité**
+
+**56.1** Les règles ci-après s’appliquent à la répartition de l’indemnité pour douleur et souffrance à verser au survivant ou à toute personne qui, au moment du décès, est un enfant à charge :
+- **a)** s’il y a un survivant mais aucun enfant à charge, le survivant reçoit l’indemnité en entier;
+- **b)** s’il y a un survivant et un ou plusieurs enfants à charge :
+	- **(i)** le survivant reçoit cinquante pour cent de l’indemnité,
+	- **(ii)** chaque enfant à charge reçoit la somme résultant de la division de cinquante pour cent de l’indemnité par le nombre d’enfants à charge;
+- **c)** s’il y a un ou plusieurs enfants à charge mais pas de survivant, chaque enfant à charge reçoit la somme résultant de la division de l’indemnité par le nombre d’enfants à charge.
+> 2018, ch. 12, art. 144.
+
+
+
+
+
+**Degré d’invalidité réputé**
+
+**56.2** Pour l’application des articles 55 et 56, le militaire ou vétéran décédé d’une blessure ou maladie pour laquelle une indemnité d’invalidité a été versée ou pour laquelle une indemnité pour douleur et souffrance a été versée, est exigible ou aurait pu être exigible est réputé, le jour précédant son décès, souffrir d’une invalidité dont le degré est estimé à cent pour cent à l’égard de cette blessure ou maladie si le décès survient plus de trente jours après le jour où il a subi la blessure ou contracté la maladie ou celui où la blessure ou maladie s’est aggravée.
+> 2018, ch. 12, art. 144.
+
+
+
+
 
 **Réduction**
 
-- **(3)** Le ministre peut retrancher la somme prévue par règlement de l’indemnité d’invalidité exigible en raison du décès ou de l’invalidité du militaire ou vétéran par toute personne qui, pour la même raison, a reçu ou est en droit de recevoir des sommes d’une source réglementaire.
-> 2005, ch. 21, art. 52; 2016, ch. 7, art. 88.
-
-
-
-
-
-**Choix relativement au versement de l’indemnité**
-
-**52.1** 
-
-- **(1)** Sous réserve des paragraphes (4) et (7), le militaire ou vétéran à qui une indemnité d’invalidité doit être versée en vertu des articles 45, 47 ou 48 peut choisir, selon les modalités — de temps ou autres — prévues par règlement :
-	- **a)** soit de recevoir le versement de l’indemnité en une somme forfaitaire;
-	- **b)** soit, plutôt que de recevoir un tel versement, de se voir verser, à chaque année, pendant le nombre d’années qu’il indique une somme correspondant au résultat obtenu par la formule suivante :
-```
-A/B + C
-```
-où :
-- **A** représente le montant de l’indemnité,
-- **B** le nombre d’années que le militaire ou vétéran indique,
-- **C** l’intérêt pour l’année en cause, déterminé selon les modalités prévues par règlement;
-	- **c)** soit de se voir verser en une somme forfaitaire la partie, qu’il indique, de l’indemnité et, plutôt que de recevoir le solde, de se voir verser à chaque année, pendant le nombre d’années qu’il indique, une somme correspondant au résultat obtenu par la formule prévue à l’alinéa b), où l’élément A représente la différence entre le montant de l’indemnité et la partie de celle-ci qu’il choisit de se voir verser en une somme forfaitaire.
-
-**Avis**
-
-- **(2)** Le ministre avise le militaire ou le vétéran, selon les modalités prévues par règlement, de son droit de faire un choix en vertu du paragraphe (1).
-
-**Défaut de faire un choix**
-
-- **(3)** Le militaire ou vétéran qui ne fait pas de choix reçoit le versement du montant de l’indemnité d’invalidité en une somme forfaitaire.
-
-**Versement forfaitaire si l’invalidité est inférieure à cinq pour cent**
-
-- **(4)** Si le degré d’invalidité pour lequel l’indemnité d’invalidité doit être versée est inférieur à cinq pour cent de l’invalidité totale, le militaire ou vétéran ne peut se voir verser l’indemnité qu’en une somme forfaitaire.
-
-**Choix relativement aux versements restants**
-
-- **(5)** Le militaire ou vétéran qui a choisi de recevoir des versements annuels et qui a reçu au moins un de ces versements peut choisir, selon les modalités prévues par règlement, de recevoir, plutôt que les versements annuels restants, une somme forfaitaire déterminée selon les modalités prévues par règlement.
-
-**Choix réputé avoir été fait en cas de décès**
-
-- **(6)** Le militaire ou vétéran qui décède après avoir choisi de recevoir des versements annuels est réputé avoir choisit, le jour précédant son décès, de recevoir, plutôt que les versements annuels restants, une somme forfaitaire déterminée selon les modalités prévues par règlement.
-
-**Militaire ou vétéran recevant déjà des versements annuels**
-
-- **(7)** Les règles ci-après s’appliquent si le militaire ou vétéran à qui une indemnité d’invalidité doit être versée en vertu des articles 45, 47 ou 48 reçoit déjà des versements annuels relativement à une autre indemnité d’invalidité et fait un choix visé aux alinéas (1)b) ou c) relativement à la nouvelle indemnité :
-	- **a)** aux fins du calcul des versements annuels relatifs à la nouvelle indemnité :
-		- **(i)** s’agissant du choix visé à l’alinéa (1)b), l’élément A représente, plutôt que ce qui est prévu à cet alinéa, la somme de la nouvelle indemnité et de la somme forfaitaire qui aurait été versée au militaire ou vétéran si celui-ci avait fait le choix visé au paragraphe (5) relativement à l’autre indemnité,
-		- **(ii)** s’agissant du choix visé à l’alinéa (1)c), l’élément A figurant à l’alinéa (1)b) représente, plutôt que ce qui est prévu à l’alinéa (1)c), la différence entre la somme de la nouvelle indemnité et de la somme forfaitaire qui aurait été versée au militaire ou vétéran si celui-ci avait fait le choix visé au paragraphe (5) relativement à l’autre indemnité et la partie de la nouvelle indemnité devant lui être versée en une somme forfaitaire;
-	- **b)** aucun versement supplémentaire n’est effectué relativement à l’autre indemnité.
-
-**Sommes réputées être des indemnisations**
-
-- **(8)** Les sommes obtenues par application des alinéas (1)b) et c) et la somme forfaitaire visée aux paragraphes (5) ou (6) sont réputées être des indemnisations au titre de la présente loi.
-> 2011, ch. 12, art. 13.
-
-
-
-
-
-**Exigibilité de l’indemnité**
-
-**53** L’indemnité d’invalidité visée aux articles 45, 47 ou 48 devient exigible au moment où les conditions ci-après sont réunies :
-- **a)** l’invalidité est, de l’avis du ministre, stabilisée;
-- **b)** l’estimation du degré d’invalidité a été effectuée.
-> 2005, ch. 21, art. 53; 2016, ch. 7, art. 89.
+**56.3** Le ministre peut retrancher la somme déterminée conformément aux règlements de l’indemnité pour douleur et souffrance exigible en raison du décès ou de l’invalidité du militaire ou vétéran par toute personne qui, pour la même raison, a reçu ou est en droit de recevoir des sommes d’une source réglementaire.
+> 2018, ch. 12, art. 144.
 
 
 
@@ -1449,43 +1463,106 @@ où :
 
 **Degré maximal**
 
-**54** 
+**56.4** 
 
-- **(1)** Pour l’application des articles 45, 47 et 48, aucune indemnité d’invalidité n’est accordée pour toute partie du total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran excédant cent pour cent.
-
-**Estimation au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md)**
-
-- **(2)** Dans le calcul du total des degrés d’invalidité, il est tenu compte de tout degré d’invalidité estimé au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+- **(1)** Aucune indemnité pour douleur et souffrance n’est versée pour toute partie du total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi — relativement à une indemnité d’invalidité ou à une indemnité pour douleur et souffrance — ou de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) excédant cent pour cent.
 
 **Fraction**
 
-- **(3)** Si seulement une fraction du degré d’invalidité donne droit à l’indemnité d’invalidité en vertu des paragraphes 45(2), 46(2) ou 48(2) ou (3) ou donne droit à une pension au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), il est tenu compte uniquement de cette fraction du degré d’invalidité dans le calcul du total des degrés d’invalidité.
+- **(2)** Si seulement une fraction de l’invalidité a donné ou donne droit à l’indemnité d’invalidité ou à l’indemnité pour douleur et souffrance ou donne droit à une pension au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), il est tenu compte uniquement de cette fraction de l’invalidité dans le calcul du total des degrés d’invalidité.
+> 2018, ch. 12, art. 144.
 
 
 
 
-**Répartition de l’indemnité**
 
-**55** Les règles ci-après s’appliquent à la répartition de l’indemnité d’invalidité accordée au survivant ou à toute autre personne qui au moment du décès est un enfant à charge :
-- **a)** s’il y a un survivant mais aucun enfant à charge, l’indemnité est versée en entier au survivant;
-- **b)** s’il y a un survivant et un ou plusieurs enfants à charge :
-	- **(i)** le survivant reçoit cinquante pour cent du montant de l’indemnité,
-	- **(ii)** chaque enfant à charge reçoit la somme résultant de la division de cinquante pour cent du montant de l’indemnité par le nombre d’enfants à charge;
-- **c)** s’il y a un ou plusieurs enfants à charge mais pas de survivant, chaque enfant à charge reçoit la somme résultant de la division du montant de l’indemnité par le nombre d’enfants à charge.
+**Aucune indemnité : décision prise en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md)**
+
+**56.5** 
+
+- **(1)** Aucune indemnité pour douleur et souffrance n’est accordée à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie qui a déjà fait l’objet d’une décision du ministre ou de la Commission, au sens de l’article 79 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), relativement à l’attribution d’une pension au titre de cette loi.
+
+**Aucune indemnité : problèmes de santé liés**
+
+- **(2)** L’indemnité n’est pas accordée non plus si le ministre établit que la blessure ou maladie ou l’aggravation d’une blessure ou maladie est indissociable, pour l’estimation du degré d’invalidité, de la blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension a déjà été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+> 2018, ch. 12, art. 144.
 
 
 
 
-**Aucune indemnité : demande présentée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md)**
 
-**56** 
+### Indemnité supplémentaire pour douleur et souffrance
 
-- **(1)** Aucune indemnité d’invalidité n’est accordée à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie qui a déjà fait l’objet d’une décision du ministre ou de la Commission, au sens de l’article 79 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), relativement à l’attribution d’une pension au titre de cette loi.
 
-**Problèmes de santé liés**
 
-- **(2)** L’indemnité n’est pas accordée non plus si le ministre établit que la blessure ou maladie ou l’aggravation d’une blessure ou maladie qui fait l’objet de la demande au titre de la présente partie est indissociable, pour l’estimation du degré d’invalidité, de la blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension a déjà été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
-> 2005, ch. 21, art. 56; 2011, ch. 12, art. 14.
+**Admissibilité**
+
+**56.6** 
+
+- **(1)** Le ministre peut, sur demande, verser une indemnité supplémentaire pour douleur et souffrance au vétéran qui souffre d’une ou de plusieurs invalidités lui occasionnant une déficience grave et permanente et entravant sa réinsertion dans la vie civile, si, à l’égard de chacune des invalidités, une indemnité d’invalidité, une indemnité pour douleur et souffrance ou une pension pour invalidité prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) a été accordée au vétéran.
+
+**Non-application du paragraphe (1)**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’égard d’une invalidité causée par une blessure ou maladie — ou l’aggravation d’une blessure ou maladie — qui découle :
+	- **a)** du service dans les Forces canadiennes accompli avant le 2 avril 1947;
+	- **b)** du service accompli pendant la guerre de Corée, au sens du paragraphe 3(1) de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+**Inadmissibilité : allocation d’incapacité exceptionnelle**
+
+- **(3)** Le vétéran qui reçoit l’allocation d’incapacité exceptionnelle prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ne peut recevoir l’indemnité supplémentaire pour douleur et souffrance.
+
+**Évaluation de l’importance de la déficience**
+
+- **(4)** Le ministre évalue l’importance de la déficience grave et permanente du vétéran.
+
+**Montant de l’indemnité**
+
+- **(5)** Le montant de l’indemnité supplémentaire pour douleur et souffrance exigible mensuellement correspond à la somme prévue à la colonne 2 de l’annexe 4 en regard du niveau d’importance de la déficience grave et permanente visé à la colonne 1 qui correspond à celui du vétéran.
+
+**Début des versements**
+
+- **(6)** Sous réserve du paragraphe (8), l’indemnité est exigible à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois au cours duquel la demande d’indemnité a été présentée;
+	- **b)** un an avant le premier jour du mois au cours duquel il est décidé que le vétéran a droit à l’indemnité;
+	- **c)** le premier jour du mois au cours duquel le vétéran est libéré des Forces canadiennes ou, s’il est libéré le dernier jour du mois, le premier jour du mois suivant ce mois.
+
+**Réévaluation de l’importance de la déficience**
+
+- **(7)** En cas de changement de circonstances à l’égard du vétéran pour qui l’indemnité supplémentaire pour douleur et souffrance est exigible, le ministre peut, sur demande, réévaluer l’importance de la déficience grave et permanente du vétéran. Il peut, de sa propre initiative, procéder à cette réévaluation.
+
+**Début des versements — réévaluation**
+
+- **(8)** S’il est décidé, au terme de la réévaluation, que l’importance de la déficience grave et permanente du vétéran a changé, l’indemnité résultant de la réévaluation est exigible :
+	- **a)** si la réévaluation a été effectuée sur demande et que la déficience s’est aggravée, à compter du dernier en date des moments suivants :
+		- **(i)** le premier jour du mois au cours duquel la demande de réévaluation a été présentée,
+		- **(ii)** un an avant le premier jour du mois au cours duquel la décision a été prise;
+	- **b)** si la réévaluation a été effectuée sur demande et que la déficience a diminué, à compter du premier jour du mois suivant le mois au cours duquel la décision a été prise;
+	- **c)** si la réévaluation a été effectuée à l’initiative du ministre, à compter du premier jour du mois suivant le mois au cours duquel la décision a été prise.
+
+**Fin des versements**
+
+- **(9)** Sous réserve de l’article 56.8, l’indemnité cesse d’être versée le premier en date des jours suivants :
+	- **a)** le premier jour du mois suivant le mois au cours duquel le ministre décide que le vétéran n’a plus droit à l’indemnité;
+	- **b)** le premier jour du mois suivant le mois au cours duquel le vétéran décède.
+> 2018, ch. 12, art. 144.
+
+
+
+
+
+**Examen médical et évaluation**
+
+**56.7** Le ministre peut, dans le but d’établir si un vétéran a encore droit à l’indemnité supplémentaire pour douleur et souffrance au titre de l’article 56.6 ou si l’importance de la déficience grave et permanente du vétéran a changé, exiger de ce dernier qu’il subisse un examen médical ou une évaluation fait par la personne que le ministre précise.
+> 2018, ch. 12, art. 144.
+
+
+
+
+
+**Suspension ou annulation**
+
+**56.8** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’indemnité supplémentaire pour douleur et souffrance.
+> 2018, ch. 12, art. 144.
 
 
 
@@ -1541,11 +1618,11 @@ où :
 
 **60** 
 
-- **(1)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité par suite de l’amputation d’une ou des deux jambes au niveau du sillon de Symes ou à un niveau supérieur une allocation vestimentaire pour chaque amputation afin de compenser l’usure des vêtements occasionnée par cette invalidité.
+- **(1)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité ou une indemnité pour douleur et souffrance par suite de l’amputation d’une ou des deux jambes au niveau du sillon de Symes ou à un niveau supérieur une allocation vestimentaire pour chaque amputation afin de compenser l’usure des vêtements occasionnée par cette invalidité.
 
 **Allocation : amputation**
 
-- **(2)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité par suite de l’amputation d’un ou des deux bras au niveau du poignet ou à un niveau supérieur une allocation vestimentaire pour chaque amputation afin de compenser l’usure des vêtements occasionnée par cette invalidité.
+- **(2)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité ou une indemnité pour douleur et souffrance par suite de l’amputation d’un ou des deux bras au niveau du poignet ou à un niveau supérieur une allocation vestimentaire pour chaque amputation afin de compenser l’usure des vêtements occasionnée par cette invalidité.
 
 **Allocation : deux amputations**
 
@@ -1553,11 +1630,13 @@ où :
 
 **Allocation : autre invalidité**
 
-- **(4)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité pour une invalidité qui n’est pas visée aux paragraphes (1) ou (2) une allocation vestimentaire afin de compenser l’usure des vêtements occasionnée par cette invalidité.
+- **(4)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité ou une indemnité pour douleur et souffrance pour une invalidité qui n’est pas visée aux paragraphes (1) ou (2) une allocation vestimentaire afin de compenser l’usure des vêtements occasionnée par cette invalidité.
 
-**Articles d’habillement**
+**Articles d’habillement spéciaux**
 
-- **(5)** Le ministre peut également, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité, en plus de toute allocation à laquelle il a droit en vertu du présent article, une allocation vestimentaire pour l’achat d’articles d’habillement spéciaux rendus nécessaires par cette invalidité.
+- **(5)** Le ministre peut également, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité ou une indemnité pour douleur et souffrance, en plus de toute allocation à laquelle il a droit en vertu du présent article, une allocation vestimentaire pour l’achat d’articles d’habillement spéciaux rendus nécessaires par cette invalidité.
+> 2005, ch. 21, art. 60; 2018, ch. 12, art. 145.
+
 
 
 
@@ -1584,8 +1663,11 @@ où :
 
 **Gouverneur en conseil**
 
-**63** Le gouverneur en conseil peut prendre des règlements établissant les règles de preuve et les présomptions applicables aux demandes d’indemnité pour blessure grave, d’indemnité d’invalidité et d’indemnité de décès.
-> 2005, ch. 21, art. 63; 2015, ch. 36, art. 216.
+**63** Le gouverneur en conseil peut prendre des règlements :
+- **a)** concernant les règles de preuve et les présomptions applicables aux demandes d’indemnité pour blessure grave, d’indemnité pour douleur et souffrance et d’indemnité de décès;
+- **b)** concernant la détermination, pour l’application de l’article 56.3, de la somme qui peut être retranchée de l’indemnité pour douleur et souffrance;
+- **c)** concernant ce qui constitue une déficience grave et permanente et la méthode à suivre pour établir l’existence et l’importance d’une telle déficience chez le vétéran.
+> 2005, ch. 21, art. 63; 2015, ch. 36, art. 216; 2018, ch. 12, art. 146.
 
 
 
@@ -1647,7 +1729,7 @@ où :
 **65.1** 
 
 - **(1)** Le ministre peut, sur demande du vétéran, verser à la personne désignée par celui-ci une allocation de reconnaissance pour aidant si les conditions suivantes sont remplies :
-	- **a)** le vétéran a présenté une demande d’indemnité d’invalidité au titre de l’article 45 et celle-ci a déjà été approuvée;
+	- **a)** le vétéran a présenté une demande d’indemnité d’invalidité ou d’indemnité pour douleur et souffrance et celle-ci a déjà été approuvée;
 	- **b)** en raison de l’invalidité à l’égard de laquelle la demande d’indemnité a été approuvée, le vétéran a besoin de recevoir des soins de façon continue;
 	- **b.1)** aucune pension ou indemnité, au sens de ces termes au paragraphe 3(1) de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), n’a été accordée au vétéran;
 	- **c)** la personne désignée est âgée d’au moins dix-huit ans et joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins sans être rémunérée pour ce faire;
@@ -1662,7 +1744,7 @@ où :
 - **(3)** Pour établir si la personne désignée joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins, le ministre tient compte uniquement des facteurs prévus par règlement.
 
 - **(4)** [Abrogé, 2017, ch. 20, art. 279]
-> 2015, ch. 36, art. 217; 2017, ch. 20, art. 279.
+> 2015, ch. 36, art. 217; 2017, ch. 20, art. 279; 2018, ch. 12, art. 147.
 
 
 
@@ -1884,6 +1966,8 @@ où :
 **Règlement**
 
 - **(2)** Le gouverneur en conseil peut, par règlement, prévoir les indemnités à verser pour les frais de déplacement et de séjour.
+> 2005, ch. 21, art. 74; 2018, ch. 12, art. 148(A).
+
 
 
 
@@ -2067,8 +2151,8 @@ où :
 
 **Numéro d’assurance sociale**
 
-**82** Le ministre peut, dans le but d’établir si une personne a droit de recevoir l’allocation pour perte de revenus, l’allocation de soutien du revenu ou l’allocation de sécurité du revenu de retraite, obtenir son numéro d’assurance sociale et le communiquer à tout ministère ou organisme fédéral.
-> 2005, ch. 21, art. 82; 2015, ch. 36, art. 219.
+**82** Le ministre peut, dans le but d’établir si une personne a droit à la prestation de remplacement du revenu ou à l’allocation de soutien du revenu, obtenir son numéro d’assurance sociale et le communiquer à tout ministère ou organisme fédéral.
+> 2005, ch. 21, art. 82; 2015, ch. 36, art. 219; 2018, ch. 12, art. 149.
 
 
 
@@ -2164,12 +2248,12 @@ où :
 
 **Indemnisation erronée**
 
-- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour études et formation, de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour incidence sur la carrière, de l’allocation de sécurité du revenu de retraite, de l’allocation vestimentaire ou de l’allocation de reconnaissance pour aidant dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ou depuis au moins trois ans dans le cas de l’allocation pour études et formation, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour études et formation, de la prestation de remplacement du revenu, de l’allocation de soutien du revenu, de l’indemnité pour douleur et souffrance, de l’indemnité supplémentaire pour douleur et souffrance, de l’allocation vestimentaire ou de l’allocation de reconnaissance pour aidant dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ou depuis au moins trois ans dans le cas de l’allocation pour études et formation, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
 
 **Recouvrement**
 
 - **(5)** Le montant de l’indemnisation versé après le décès du militaire ou vétéran alors que celui-ci n’y était plus admissible peut être déduit de toute indemnisation accordée à la personne qui l’a retenu.
-> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221; 2016, ch. 7, art. 97; 2017, ch. 20, art. 284.
+> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221; 2016, ch. 7, art. 97; 2017, ch. 20, art. 284; 2018, ch. 12, art. 150.
 
 
 
@@ -2194,8 +2278,8 @@ où :
 
 **Intérêt**
 
-**90** À l’exception des sommes à verser au militaire ou au vétéran qui fait un choix visé aux alinéas 52.1(1)b) ou c) ou au paragraphe 52.1(5) ou qui est réputé en avoir fait un aux termes du paragraphe 52.1(6), aucune somme exigible à titre d’indemnisation ne porte intérêt.
-> 2005, ch. 21, art. 90; 2011, ch. 12, art. 16.
+**90** Aucune somme exigible à titre d’indemnisation ne porte intérêt.
+> 2005, ch. 21, art. 90; 2011, ch. 12, art. 16; 2018, ch. 12, art. 151.
 
 
 
@@ -2244,21 +2328,22 @@ où :
 
 **94** Le gouverneur en conseil peut prendre des règlements :
 - **a)** prévoyant les modalités — de temps ou autres — de présentation d’une demande de services de réorientation professionnelle, de services de réadaptation, d’assistance professionnelle ou d’indemnisation et les renseignements et autres éléments à fournir avec la demande;
+- **a.1)** concernant ce qui constitue une entrave à la réinsertion dans la vie civile;
 - **b)** prévoyant les modalités — de temps ou autres — de versement de toute indemnisation;
-- **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 3;
+- **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 4;
 - **d)** prévoyant le paiement ou remboursement de frais associés aux services de conseillers financiers;
-- **e)** concernant la communication de tout renseignement, de toute déclaration ou de tout document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, l’allocation pour études et formation, la prime à l’achèvement des études ou de la formation, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour incidence sur la carrière, l’allocation de sécurité du revenu de retraite ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation ou de la prime dans l’attente du renseignement, de la déclaration ou du document;
+- **e)** concernant la communication de tout renseignement, de toute déclaration ou de tout document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, l’allocation pour études et formation, la prime à l’achèvement des études ou de la formation, des services de réadaptation, de l’assistance professionnelle, la prestation de remplacement du revenu, l’allocation de soutien du revenu, l’indemnité pour douleur et souffrance, l’indemnité supplémentaire pour douleur et souffrance ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation, de la prime, de la prestation ou de l’indemnité dans l’attente du renseignement, de la déclaration ou du document;
 - **e.1)** concernant la communication de tout renseignement, de toute déclaration ou de tout document au ministre par tout vétéran qui présente une demande d’allocation de reconnaissance pour aidant au titre du paragraphe 65.1(1) ou par toute personne qui y est désignée, et autorisant le ministre à suspendre le versement de l’allocation dans l’attente du renseignement, de la déclaration ou du document;
 - **f)** concernant les modalités de suspension ou d’annulation des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
 - **g)** concernant la révision de toute décision prise au titre des parties 1, 1.1, 2 ou 3.1 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
 - **h)** prévoyant les modalités — de temps ou autres — de présentation de la demande de révision au titre des articles 83 ou 84;
 - **i)** prévoyant la procédure à suivre par le ministre pour prendre ses décisions;
-- **i.1)** régissant la détermination de l’intérêt pour l’application de l’élément C dans la formule prévue à l’alinéa 52.1(1)b);
-- **i.2)** régissant la détermination des sommes forfaitaires pour l’application des paragraphes 52.1(5) et (6);
+- **i.1)** [Abrogé, 2018, ch. 12, art. 152]
+- **i.2)** [Abrogé, 2018, ch. 12, art. 152]
 - **j)** concernant toute mesure d’ordre réglementaire prévue par la présente loi;
 - **j.1)** précisant la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
 - **k)** concernant toute autre mesure d’application de la présente loi.
-> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222; 2016, ch. 7, art. 97; 2017, ch. 20, art. 285.
+> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222; 2016, ch. 7, art. 97; 2017, ch. 20, art. 285; 2018, ch. 12, art. 152.
 
 
 
@@ -2277,19 +2362,19 @@ où :
 
 **Rétroactivité**
 
-**94.1** Les règlements concernant l’allocation de sécurité du revenu de retraite ou l’allocation de reconnaissance pour aidant pris en vertu des paragraphes 40.1(5), 40.2(5), 40.3(5) ou 40.4(5) ou des articles 41, 65.4 ou 94 peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
-> 2015, ch. 36, art. 223; 2017, ch. 20, art. 286.
+**94.1** Les règlements concernant l’allocation de reconnaissance pour aidant pris en vertu des articles 65.4 ou 94 peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+> 2015, ch. 36, art. 223; 2017, ch. 20, art. 286; 2018, ch. 12, art. 153.
 
 
 
 
 
 **PARTIE 5** 
-## Dispositions transitoires, modifications connexes, disposition de coordination et entrée en vigueur
+## Dispositions transitoires
 
 
 
-### Dispositions transitoires
+### Limites
 
 
 
@@ -2297,6 +2382,10 @@ où :
 
 **95** Les articles 12, 22, 29 à 31 et 57 ne s’appliquent pas à l’égard du survivant, de l’orphelin ou de toute autre personne qui au moment du décès est un enfant à charge, si le militaire ou vétéran est décédé avant l’entrée en vigueur du présent article.
 
+
+
+
+### Zones de service spécial et opérations de service spécial
 
 
 
@@ -2313,132 +2402,810 @@ où :
 
 
 
-**98** [Abrogé, 2016, ch. 7, art. 91]
 
+### Dispositions transitoires relatives à l’allocation de remplacement du revenu
 
 
 
-### Modifications connexes
+#### Définitions
 
 
 
-#### Loi sur l’aide en matière d’éducation aux enfants des anciens combattants décédés
+**Définitions**
 
+**98** Les définitions qui suivent s’appliquent au présent article et aux articles 99 à 129.
 
-**99** [Modifications]
+***ancienne loi*** La présente loi, dans sa version antérieure au 1<sup>er</sup> avril 2019. (*former Act*)
 
+***indexé*** Rajusté annuellement le 1<sup>er</sup> janvier, en fonction de l’augmentation annuelle en pourcentage de l’indice des prix à la consommation arrondie au dixième près et mesurée le 31 octobre de l’année précédente. (*indexed*)
 
+***indice des prix à la consommation*** L’indice d’ensemble des prix à la consommation établi selon une moyenne annuelle (non désaisonnalisée) pour le Canada publié par Statistique Canada. (*Consumer Price Index*)
 
+***nouvelle loi*** La présente loi, dans sa version au 1<sup>er</sup> avril 2019. (*new Act*)
+> 2005, ch. 21, art. 98; 2016, ch. 7, art. 91; 2018, ch. 12, art. 157.
 
-#### Loi sur le ministère des Anciens Combattants
 
 
-**100** [Modification]
 
 
+#### Allocation pour perte de revenus
 
 
-#### Loi de l’impôt sur le revenu
 
+##### Militaires et vétérans
 
-**101** [Modification]
 
 
+**Vétérans réputés avoir droit à la prestation de remplacement du revenu**
 
-**102** [Modification]
+**99** 
 
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a décidé, à la suite de l’évaluation des besoins d’un vétéran au titre du paragraphe 10(1) de l’ancienne loi, qu’un programme de réadaptation ou d’assistance professionnelle devait être élaboré à son égard pour un problème de santé physique ou mentale et que, en conséquence de cette décision, une allocation pour perte de revenus était exigible le 31 mars 2019 par le vétéran au titre de l’article 18 de l’ancienne loi, ce dernier est réputé, le 1<sup>er</sup> avril 2019, avoir droit à la prestation de remplacement du revenu au titre de l’article 18 de la nouvelle loi relativement à ce problème et les règles ci-après s’appliquent à son égard :
+	- **a)** pour l’application du paragraphe 18(2) de la nouvelle loi, il est réputé, le 1<sup>er</sup> avril 2019, être avisé du fait qu’il a droit à la prestation;
+	- **b)** malgré le paragraphe 18(3) de la nouvelle loi, la prestation est exigible par lui à compter du 1<sup>er</sup> avril 2019;
+	- **c)** le problème de santé physique ou mentale relativement auquel il est réputé avoir droit à la prestation est réputé être celui visé aux paragraphes 18(5) ou (7) de la nouvelle loi;
+	- **d)** toute décision du ministre prise à une date donnée avant le 1<sup>er</sup> avril 2019 et portant que le problème de santé physique ou mentale relativement auquel le vétéran est réputé avoir droit à la prestation entraîne une diminution de la capacité de gain de ce dernier est réputée avoir été prise, à cette date donnée, au titre du paragraphe 18(5) de la nouvelle loi;
+	- **e)** si, le 31 mars 2019, le vétéran avait le droit de continuer à recevoir l’allocation pour perte de revenus au titre du paragraphe 18(4) de l’ancienne loi, il est réputé, le 1<sup>er</sup> avril 2019, avoir le droit de continuer à recevoir la prestation de remplacement du revenu au titre du paragraphe 18(7) de la nouvelle loi;
+	- **f)** le montant de la prestation de remplacement du revenu exigible mensuellement par lui au titre de l’article 18 de la nouvelle loi correspond à celui déterminé au titre des paragraphes 19(1) ou 19.1(1) de cette loi, sous réserve des paragraphes (2) à (5).
 
+**Restriction — facteur de cheminement de carrière**
 
-**103** [Modification]
+- **(2)** Si le problème de santé physique ou mentale relativement auquel le vétéran est réputé, au titre du paragraphe (1), avoir droit à la prestation de remplacement du revenu ne découle pas principalement de son service dans les Forces canadiennes et qu’une augmentation de l’allocation pour incidence sur la carrière n’était pas exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, il n’est pas tenu compte, dans le calcul au titre du paragraphe 19(1) de la nouvelle loi du montant de la prestation exigible mensuellement par lui au titre de l’article 18 de cette loi, du rajustement périodique en fonction d’un facteur de cheminement de carrière.
 
+**Montant protégé — vétéran âgé de moins de soixante-cinq ans**
 
+- **(3)** Si, dans le calcul du montant de la prestation de remplacement du revenu exigible par le vétéran pour un mois donné, la valeur de l’élément A de la formule figurant au paragraphe 19(1) de la nouvelle loi est inférieure au montant correspondant à la somme des montants ci-après — indexé jusqu’au moment où la prestation est exigible —, la valeur de l’élément A est remplacée par ce montant :
+	- **a)** le montant correspondant à la valeur de l’élément A de la formule figurant au paragraphe 19(1) de l’ancienne loi qui a servi au calcul du montant de l’allocation pour perte de revenus exigible par le vétéran au titre de l’article 18 de cette loi pour le mois de mars 2019;
+	- **b)** si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le montant de l’augmentation qu’il a reçue pour le mois de mars 2019 ou, si l’augmentation n’était exigible par lui que pour une partie de ce mois, le montant de l’augmentation qu’il aurait reçue au titre de ce paragraphe pour ce mois si elle avait été exigible pour tout le mois.
 
+**Montant protégé — vétéran âgé de soixante-cinq ans ou plus**
 
-#### Loi d’indemnisation des militaires ayant subi des blessures
+- **(4)** Si, dans le calcul du montant de la prestation de remplacement du revenu exigible par le vétéran pour un mois donné, la valeur de l’élément A de la formule figurant au paragraphe 19.1(1) de la nouvelle loi — indexée jusqu’au moment où la prestation est exigible — est inférieure au montant correspondant à soixante-dix pour cent de la somme des montants ci-après — indexé jusqu’au moment où la prestation est exigible —, la valeur de l’élément A est remplacée par ce montant :
+	- **a)** le montant correspondant à la valeur de l’élément A de la formule figurant au paragraphe 19(1) de l’ancienne loi qui a servi au calcul du montant de l’allocation pour perte de revenus exigible par le vétéran au titre de l’article 18 de cette loi pour le mois de mars 2019;
+	- **b)** si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le montant de l’augmentation qu’il a reçue pour le mois de mars 2019 ou, si l’augmentation n’était exigible par lui que pour une partie de ce mois, le montant de l’augmentation qu’il aurait reçue au titre de ce paragraphe pour ce mois si elle avait été exigible pour tout le mois.
 
+**Montant minimum de la prestation**
 
-**104** [Modification]
+- **(5)** Malgré les paragraphes (3) et (4), si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le montant de la prestation de remplacement du revenu exigible mensuellement par lui au titre de l’article 18 de la nouvelle loi ne peut être inférieur au montant suivant :
+	- **a)** si l’augmentation était exigible pour tout le mois de mars 2019, le montant de l’augmentation qu’il a reçue pour ce mois, indexé jusqu’au moment où la prestation est exigible;
+	- **b)** si l’augmentation n’était exigible que pour une partie du mois de mars 2019, le montant de l’augmentation qu’il aurait reçue au titre du paragraphe 38(3) de l’ancienne loi pour ce mois si elle avait été exigible pour tout le mois, indexé jusqu’au moment où la prestation est exigible.
 
+**Somme versée**
 
+- **(6)** Si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran visé au paragraphe (1) au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le ministre lui verse, pour chaque mois pour lequel la prestation de remplacement du revenu n’est pas exigible par lui et qui est compris dans la période commençant au mois d’avril 2019 et se terminant le mois de son décès, une somme correspondant au montant suivant :
+	- **a)** si l’augmentation était exigible pour tout le mois de mars 2019, le montant de l’augmentation qu’il a reçue pour ce mois, indexé jusqu’au moment où la somme est exigible;
+	- **b)** si l’augmentation n’était exigible que pour une partie du mois de mars 2019, le montant de l’augmentation qu’il aurait reçue au titre du paragraphe 38(3) de l’ancienne loi pour ce mois si elle avait été exigible pour tout ce mois, indexé jusqu’au moment où la somme est exigible.
 
+**Non-application du paragraphe (6)**
 
-#### Loi sur les pensions
+- **(7)** Le paragraphe (6) ne s’applique pas si le ministre décide que l’admissibilité du vétéran à la somme exigible au titre de ce paragraphe résulte d’une déclaration trompeuse ou de la dissimulation de faits importants. La décision est réputée prise au titre de la partie 2.
 
+**Somme réputée être une indemnisation**
 
-**105** [Modification]
+- **(8)** La somme versée ou à verser au titre du paragraphe (6) est réputée, pour l’application des articles 88 à 90 et du paragraphe 93(1), être une indemnisation.
 
+**Application du paragraphe 88(4)**
 
+- **(9)** Le paragraphe 88(4) s’applique à toute somme versée au titre du paragraphe (6).
+> 2005, ch. 21, art. 99; 2018, ch. 12, art. 157.
 
-**106** [Modification]
 
 
 
-**107** [Modification]
 
+**Demandes pendantes — allocation pour perte de revenus et services de réadaptation**
 
+**100** Si, avant le 1<sup>er</sup> avril 2019, un vétéran a présenté, au titre du paragraphe 18(1) de l’ancienne loi, une demande d’allocation pour perte de revenus relativement à un problème de santé physique ou mentale et, au titre des articles 8 ou 9 de l’ancienne loi, une demande de services de réadaptation ou d’assistance professionnelle relativement à ce problème, mais que, avant cette date, le ministre n’a pas pris de décision à l’égard de l’une et l’autre des demandes, le vétéran est réputé avoir présenté une demande de prestation de remplacement du revenu, au titre du paragraphe 18(1) de la nouvelle loi, à cette date.
+> 2005, ch. 21, art. 100; 2018, ch. 12, art. 157.
 
-**108** [Modification]
 
 
 
 
-#### Loi sur la pension de retraite de la Gendarmerie royale du Canada
+**Demandes pendantes — allocation pour perte de revenus**
 
+**101** 
 
-**109** [Modifications]
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a approuvé une demande de services de réadaptation ou d’assistance professionnelle présentée par un vétéran, au titre des articles 8 ou 9 de l’ancienne loi, relativement à un problème de santé physique ou mentale, mais que, avant cette date, il n’a pas pris de décision à l’égard d’une demande d’allocation pour perte de revenus présentée par le vétéran, au titre du paragraphe 18(1) de l’ancienne loi, relativement à ce problème, il prend la décision à l’égard de cette dernière demande au titre de ce paragraphe.
 
+**Demande approuvée — versement de l’allocation**
 
+- **(2)** S’il approuve la demande, le ministre verse au vétéran, au titre de l’article 18 de l’ancienne loi, l’allocation pour perte de revenus à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 18(2) de cette loi et se terminant le 31 mars 2019.
+> 2005, ch. 21, art. 101; 2018, ch. 12, art. 157.
 
 
-#### Loi sur le Tribunal des anciens combattants (révision et appel)
 
 
-**110** [Modification]
 
+**Révision**
 
+**102** 
 
-**111** [Modification]
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a décidé de rejeter une demande d’allocation pour perte de revenus présentée par un vétéran au titre du paragraphe 18(1) de l’ancienne loi, mais que, à cette date ou après cette date, à la suite de la révision de sa décision au titre de l’article 83, le ministre décide de façon définitive d’approuver la demande relativement à un problème de santé physique ou mentale, le vétéran est réputé, le jour de la décision définitive, avoir droit à la prestation de remplacement du revenu au titre de l’article 18 de la nouvelle loi relativement à ce problème et les règles ci-après s’appliquent à son égard :
+	- **a)** pour l’application du paragraphe 18(2) de la nouvelle loi, il est réputé, le jour de la décision définitive, être avisé du fait qu’il a droit à la prestation;
+	- **b)** malgré le paragraphe 18(3) de la nouvelle loi, la prestation est exigible par lui à compter du premier jour du mois au cours duquel la décision définitive est prise;
+	- **c)** le problème de santé physique ou mentale relativement auquel il est réputé avoir droit à la prestation est réputé être celui visé aux paragraphes 18(5) ou (7) de la nouvelle loi;
+	- **d)** le montant de la prestation exigible mensuellement par lui au titre de l’article 18 de la nouvelle loi correspond à celui déterminé au titre des paragraphes 19(1) ou 19.1(1) de cette loi, sous réserve du paragraphe (2).
 
+**Restriction — facteur de cheminement de carrière**
 
+- **(2)** Si le problème de santé physique ou mentale relativement auquel le vétéran est réputé, au titre du paragraphe (1), avoir droit à la prestation de remplacement du revenu ne découle pas principalement de son service dans les Forces canadiennes et qu’une augmentation de l’allocation pour incidence sur la carrière n’était pas exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, il n’est pas tenu compte, dans le calcul au titre du paragraphe 19(1) de la nouvelle loi du montant de la prestation exigible mensuellement par lui au titre de l’article 18 de cette loi, du rajustement périodique en fonction d’un facteur de cheminement de carrière.
 
-**112** [Modification]
+**Non-application du paragraphe (1)**
 
+- **(3)** Le paragraphe (1) ne s’applique pas au vétéran si la décision définitive visée à ce paragraphe est prise après le jour où ce dernier atteint l’âge de soixante-cinq ans.
+> 2005, ch. 21, art. 102; 2018, ch. 12, art. 157.
 
 
-**113** [Modifications]
 
 
 
-**114** [Modification]
+**Révision — diminution de la capacité de gain**
 
+**103** Si, à une date donnée avant le 1<sup>er</sup> avril 2019, le ministre a décidé que le problème de santé physique ou mentale relativement auquel un vétéran a droit à l’allocation pour perte de revenus au titre de l’article 18 de l’ancienne loi n’entraîne pas de diminution de la capacité de gain de ce dernier, mais que, le 1<sup>er</sup> avril 2019 ou après cette date, à la suite de la révision de sa décision au titre de l’article 83, il décide de façon définitive que ce problème entraîne une telle diminution, les règles ci-après s’appliquent à l’égard du vétéran :
+- **a)** le ministre est réputé avoir pris la décision définitive à cette date donnée;
+- **b)** si, avant le 1<sup>er</sup> avril 2019, le vétéran n’avait plus droit à l’allocation pour perte de revenus relativement au problème :
+	- **(i)** le vétéran est réputé, à compter de la date où il a cessé d’avoir droit à l’allocation, avoir le droit de continuer à la recevoir au titre du paragraphe 18(4) de l’ancienne loi,
+	- **(ii)** le ministre verse au vétéran, au titre de l’article 18 de l’ancienne loi, l’allocation pour perte de revenus à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date visée au sous-alinéa (i) et se terminant le 31 mars 2019 ou, si cette date est antérieure, à la date où le vétéran atteint l’âge de soixante-cinq ans,
+	- **(iii)** si le vétéran a atteint l’âge de soixante-cinq ans pendant la période qui commence à la date visée au sous-alinéa (i) et se termine le 30 mars 2019, le vétéran est réputé avoir présenté une demande d’allocation de sécurité du revenu de retraite, au titre du paragraphe 40.1(1) de l’ancienne loi, à la date où il a atteint l’âge de soixante-cinq ans;
+- **c)** si une allocation pour incidence sur la carrière était exigible par le vétéran au titre du paragraphe 38(1) de l’ancienne loi le 31 mars 2019, que le ministre, avant le 1<sup>er</sup> avril 2019, a décidé de rejeter une demande d’augmentation du montant de l’allocation présentée par le vétéran au titre du paragraphe 38(3) de la présente loi, dans ses versions antérieures à cette date, que cette décision ne fait pas l’objet d’une révision au titre de l’article 83 le 31 mars 2019 et que le vétéran n’a pas, avant le 1<sup>er</sup> avril 2019, présenté de nouvelle demande d’augmentation au titre de ce paragraphe 38(3), ce dernier est réputé avoir présenté une demande d’augmentation du montant de l’allocation, au titre du paragraphe 38(3) de l’ancienne loi, le 31 mars 2019.
+> 2005, ch. 21, art. 103; 2018, ch. 12, art. 157.
 
 
 
-#### Loi sur l’emploi dans la fonction publique
 
 
-**115** [Modification]
+**Militaires — décisions réputées ne pas avoir été prises**
 
+**104** Si, avant le 1<sup>er</sup> avril 2019, le ministre a pris une décision à l’égard d’une demande d’allocation pour perte de revenu présentée, au titre du paragraphe 18(1) de l’ancienne loi, par un militaire qui n’était pas libéré des Forces canadiennes avant le 31 mars 2019, la demande est réputée ne pas avoir été présentée et la décision est réputée ne pas avoir été prise.
+> 2005, ch. 21, art. 104; 2018, ch. 12, art. 157.
 
 
 
-### Disposition de coordination
 
 
-**116** [Modification]
+**Militaires — demandes pendantes**
 
+**105** Si, avant le 1<sup>er</sup> avril 2019, un militaire a présenté, au titre du paragraphe 18(1) de l’ancienne loi, une demande d’allocation pour perte de revenus à l’égard de laquelle le ministre n’a pas pris de décision avant cette date et que le militaire n’était pas libéré des Forces canadiennes avant le 31 mars 2019, la demande est réputée ne pas avoir été présentée.
+> 2005, ch. 21, art. 105; 2018, ch. 12, art. 157.
 
 
 
-### Entrée en vigueur
 
 
+##### Survivants et orphelins
 
-**Décret**
 
-<sup><a href='#C-16.8_f_s117'>[*]</a></sup>**117** La présente loi, à l’exception de l’article 116, entre en vigueur à la date fixée par décret.
 
-<a name='C-16.8_f_s117'><sup>*</sup></a>: [Note : Article 116 en vigueur à la sanction le 13 mai 2005; loi, à l’exception de l’article 116, en vigueur le 1<sup>er</sup> avril 2006, *voir* TR/2006-54.]<br />
+**Survivants et orphelins réputés avoir droit à la prestation de remplacement du revenu**
+
+**106** 
+
+- **(1)** Le survivant ou l’orphelin pour qui l’allocation pour perte de revenus était exigible le 31 mars 2019 au titre de l’article 22 de l’ancienne loi est réputé, le 1<sup>er</sup> avril 2019, avoir droit à la prestation de remplacement du revenu au titre de l’article 22 de la nouvelle loi et les règles ci-après s’appliquent à son égard :
+	- **a)** malgré le paragraphe 22(2) de la nouvelle loi, la prestation est exigible par le survivant ou l’orphelin à compter du 1<sup>er</sup> avril 2019;
+	- **b)** le montant de la prestation exigible mensuellement au titre de l’article 22 de la nouvelle loi par le survivant ou l’orphelin est déterminé au titre de l’article 23 de cette loi, sous réserve des paragraphes (2) à (7).
+
+**Survivants — montant protégé pour un mois visé à l’alinéa 23(1)a)**
+
+- **(2)** Si le montant de la prestation de remplacement du revenu qui est exigible par le survivant au titre de l’article 22 de la nouvelle loi pour un mois visé à l’alinéa 23(1)a) de cette loi et qui est déterminé au titre de l’article 23 de celle-ci — compte non tenu de toute réduction effectuée au titre du paragraphe 23(3) de cette loi — est inférieur au montant de l’allocation pour perte de revenus qui était exigible par lui au titre de l’article 22 de l’ancienne loi pour le mois de mars 2019 et qui a été déterminé au titre de l’article 23 de cette loi — compte non tenu de toute réduction effectuée au titre du paragraphe 23(3) de celle-ci —, le premier montant mentionné ci-dessus est remplacé par le dernier.
+
+**Survivants — montant protégé pour un mois visé à l’alinéa 23(1)b)**
+
+- **(3)** Si le montant de la prestation de remplacement du revenu qui est exigible par le survivant au titre de l’article 22 de la nouvelle loi pour un mois visé à l’alinéa 23(1)b) de cette loi et qui est déterminé au titre de l’article 23 de celle-ci — compte non tenu de toute réduction effectuée au titre du paragraphe 23(3) de cette loi — est inférieur au montant correspondant au résultat obtenu par la formule ci-après, le premier montant mentionné ci-dessus est remplacé par le dernier :
+```
+A × B
+```
+où :
+- **A** représente soixante-dix pour cent;
+- **B** soixante-dix pour cent du montant de l’allocation pour perte de revenus qui était exigible par le survivant au titre de l’article 22 de l’ancienne loi pour le mois de mars 2019 et qui a été déterminé au titre de l’article 23 de cette loi, compte non tenu de toute réduction effectuée au titre du paragraphe 23(3) de celle-ci.
+
+**Non-application des paragraphes (2) et (3)**
+
+- **(4)** Les paragraphes (2) et (3) cessent de s’appliquer au survivant le premier jour du mois suivant le mois au cours duquel les faits qui ont servi à déterminer le pourcentage de la prestation de remplacement du revenu qui lui est versée selon la répartition prévue au paragraphe 23(2) de la nouvelle loi diffèrent de ceux qui ont servi à déterminer le pourcentage de l’allocation pour perte de revenus qui lui a été versée pour le mois de mars 2019 selon la répartition prévue au paragraphe 23(2) de l’ancienne loi.
+
+**Montant protégé — orphelins**
+
+- **(5)** Si le montant de la prestation de remplacement du revenu qui est exigible par l’orphelin au titre de l’article 22 de la nouvelle loi pour un mois visé à l’alinéa 23(1)a) de cette loi et qui est déterminé au titre de l’article 23 de celle-ci est inférieur au montant de l’allocation pour perte de revenus qui était exigible par lui au titre de l’article 22 de l’ancienne loi pour le mois de mars 2019 et qui a été déterminé au titre de l’article 23 de cette loi, le premier montant mentionné ci-dessus est remplacé par le dernier.
+
+**Non-application du paragraphe (5)**
+
+- **(6)** Le paragraphe (5) cesse de s’appliquer à l’orphelin le premier jour du mois suivant le mois au cours duquel les faits qui ont servi à déterminer le pourcentage de la prestation de remplacement du revenu qui lui est versée selon la répartition prévue au paragraphe 23(2) de la nouvelle loi diffèrent de ceux qui ont servi à déterminer le pourcentage de l’allocation pour perte de revenus qui lui a été versée pour le mois de mars 2019 selon la répartition prévue au paragraphe 23(2) de l’ancienne loi.
+
+**Indexation**
+
+- **(7)** Pour l’application des paragraphes (2) et (5), le montant de l’allocation pour perte de revenus qui est visé à ces paragraphes et, pour l’application du paragraphe (3), le montant qui correspond au résultat obtenu par la formule figurant à ce paragraphe sont indexés jusqu’au moment où la prestation de remplacement du revenu est exigible.
+> 2005, ch. 21, art. 106; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Demandes pendantes**
+
+**107** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, un survivant ou un orphelin a présenté, au titre du paragraphe 22(1) de l’ancienne loi, une demande d’allocation pour perte de revenus à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre de ce paragraphe. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’allocation**
+
+- **(2)** S’il approuve la demande, le ministre verse au survivant ou à l’orphelin, au titre de l’article 22 de l’ancienne loi, l’allocation pour perte de revenus à laquelle l’intéressé a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 22(2) de cette loi et se terminant le 31 mars 2019.
+
+**Demande d’allocation de sécurité du revenu de retraite réputée présentée**
+
+- **(3)** Si l’allocation pour perte de revenus versée au survivant visé au paragraphe (2) cesse d’être exigible avant le 31 mars 2019, ce dernier est réputé avoir présenté une demande d’allocation de sécurité du revenu de retraite, au titre du paragraphe 40.4(1) de l’ancienne loi, le jour où le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans.
+> 2005, ch. 21, art. 107; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Révision**
+
+**108** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a décidé de rejeter une demande d’allocation pour perte de revenus présentée par un survivant ou un orphelin au titre du paragraphe 22(1) de l’ancienne loi, mais que, à cette date ou après cette date, à la suite de la révision de sa décision au titre de l’article 83, le ministre décide de façon définitive d’approuver la demande :
+	- **a)** la décision définitive, si elle est prise après le 31 mars 2020, est réputée prise à cette date;
+	- **b)** le ministre verse au survivant ou à l’orphelin, au titre de l’article 22 de l’ancienne loi, l’allocation pour perte de revenus à laquelle l’intéressé a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 22(2) de cette loi et se terminant le 31 mars 2019.
+
+**Demande d’allocation de sécurité du revenu de retraite réputée présentée**
+
+- **(2)** Si l’allocation pour perte de revenus versée au survivant visé à l’alinéa (1)b) cesse d’être exigible avant le 31 mars 2019, ce dernier est réputé avoir présenté une demande d’allocation de sécurité du revenu de retraite, au titre du paragraphe 40.4(1) de l’ancienne loi, le jour où le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans.
+> 2005, ch. 21, art. 108; 2018, ch. 12, art. 157.
+
+
+
+
+
+#### Allocation pour incidence sur la carrière
+
+
+
+**Somme versée — vétérans qui recevaient l’augmentation**
+
+**109** 
+
+- **(1)** Si une augmentation de l’allocation pour incidence sur la carrière était exigible par un vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, mais que ni une allocation pour perte de revenus ni une allocation de sécurité du revenu de retraite n’étaient exigibles par lui à cette date respectivement au titre de l’article 18 et des articles 40.1 ou 40.2 de cette loi, le ministre lui verse, pour chaque mois pour lequel la prestation de remplacement du revenu n’est pas exigible par lui au titre de l’article 18 de la nouvelle loi et qui est compris dans la période commençant au mois d’avril 2019 et se terminant le mois de son décès, une somme correspondant au montant suivant :
+	- **a)** si l’augmentation était exigible pour tout le mois de mars 2019, le montant de l’augmentation qu’il a reçue pour ce mois, indexé jusqu’au moment où la somme est exigible;
+	- **b)** si l’augmentation n’était exigible que pour une partie du mois de mars 2019, le montant de l’augmentation qu’il aurait reçue au titre du paragraphe 38(3) de l’ancienne loi si elle avait été exigible pour tout ce mois, indexé jusqu’au moment où la somme est exigible.
+
+**Non-application du paragraphe (1)**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si le ministre décide que l’admissibilité du vétéran à la somme exigible au titre de ce paragraphe résulte d’une déclaration trompeuse ou de la dissimulation de faits importants. La décision est réputée prise au titre de la partie 2.
+
+**Montant minimum de la prestation de remplacement du revenu**
+
+- **(3)** Si un vétéran a reçu une somme au titre du paragraphe (1) pour un mois donné et que, pour tout mois subséquent, une prestation de remplacement du revenu est exigible par lui au titre de l’article 18 de la nouvelle loi, le montant de cette prestation exigible mensuellement par lui ne peut, malgré les paragraphes 19(1) et 19.1(1) de la nouvelle loi, être inférieur au montant suivant :
+	- **a)** si l’augmentation de l’allocation pour incidence sur la carrière qu’il a reçue au titre du paragraphe 38(3) de l’ancienne loi pour le mois de mars 2019 était exigible pour tout ce mois, le montant de l’augmentation reçue pour ce mois, indexé jusqu’au moment où la prestation est exigible;
+	- **b)** si l’augmentation n’était exigible que pour une partie du mois de mars 2019, le montant de l’augmentation qu’il aurait reçue au titre du paragraphe 38(3) de l’ancienne loi pour ce mois si elle avait été exigible pour tout le mois, indexé jusqu’au moment où la prestation est exigible.
+
+**Somme réputée être une indemnisation**
+
+- **(4)** La somme versée ou à verser au titre du paragraphe (1) est réputée, pour l’application des articles 88 à 90 et du paragraphe 93(1), être une indemnisation.
+
+**Application du paragraphe 88(4)**
+
+- **(5)** Le paragraphe 88(4) s’applique à toute somme versée au titre du paragraphe (1).
+> 2005, ch. 21, art. 109; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Demandes pendantes**
+
+**110** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, un vétéran a présenté, au titre du paragraphe 38(1) de la présente loi, dans ses versions antérieures à cette date, une demande d’allocation pour incidence sur la carrière à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre du paragraphe 38(1) de l’ancienne loi. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’allocation**
+
+- **(2)** S’il approuve la demande, le ministre :
+	- **a)** fixe, au titre du paragraphe 38(2) de l’ancienne loi, le montant de l’allocation pour incidence sur la carrière à verser au vétéran au cours d’une année;
+	- **b)** verse au vétéran, au titre de l’article 38 de l’ancienne loi, l’allocation pour incidence sur la carrière à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre de l’article 39 de cette loi et se terminant le 31 mars 2019.
+
+**Demandes d’augmentation pendantes**
+
+- **(3)** Si, avant le 1<sup>er</sup> avril 2019, un vétéran a présenté, au titre du paragraphe 38(3) de la présente loi, dans ses versions antérieures à cette date, une demande d’augmentation du montant de l’allocation pour incidence sur la carrière à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre du paragraphe 38(3) de l’ancienne loi. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’augmentation**
+
+- **(4)** S’il approuve la demande, le ministre augmente le montant de l’allocation pour incidence sur la carrière à verser au vétéran au titre de l’article 38 de l’ancienne loi de la somme figurant à la colonne 2 de l’annexe 2 de l’ancienne loi en regard de l’article 2.1, mais uniquement pour la période commençant à la date à compter de laquelle l’augmentation est exigible au titre de l’article 39 de cette loi et se terminant le 31 mars 2019.
+> 2005, ch. 21, art. 110; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Révision relative aux demandes d’allocation**
+
+**111** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a décidé de rejeter une demande d’allocation pour incidence sur la carrière présentée par un vétéran au titre du paragraphe 38(1) de la présente loi, dans ses versions antérieures à cette date, mais que, à cette date ou après cette date, à la suite de la révision de sa décision au titre de l’article 83, le ministre décide de façon définitive d’approuver la demande :
+	- **a)** la décision définitive, si elle est prise après le 31 mars 2020, est réputée prise à cette date;
+	- **b)** le ministre fixe, au titre du paragraphe 38(2) de l’ancienne loi, le montant de l’allocation pour incidence sur la carrière à verser au vétéran au cours d’une année;
+	- **c)** il verse au vétéran, au titre de l’article 38 de l’ancienne loi, l’allocation pour incidence sur la carrière à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre de l’article 39 de cette loi et se terminant le 31 mars 2019.
+
+**Révision relative aux demandes d’augmentation**
+
+- **(2)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a décidé de rejeter une demande d’augmentation du montant de l’allocation pour incidence sur la carrière présentée par un vétéran au titre du paragraphe 38(3) de la présente loi, dans ses versions antérieures à cette date, mais que, à cette date ou après cette date, à la suite de la révision de sa décision au titre de l’article 83, le ministre décide de façon définitive d’approuver la demande :
+	- **a)** la décision définitive, si elle est prise après le 31 mars 2020, est réputée prise à cette date;
+	- **b)** le ministre augmente le montant de l’allocation pour incidence sur la carrière à verser au vétéran au titre de l’article 38 de l’ancienne loi de la somme figurant à la colonne 2 de l’annexe 2 de l’ancienne loi en regard de l’article 2.1, mais uniquement pour la période commençant à la date à compter de laquelle l’augmentation est exigible au titre de l’article 39 de cette loi et se terminant le 31 mars 2019.
+> 2005, ch. 21, art. 111; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Révision relative au montant de l’allocation**
+
+**112** Si, après avoir approuvé une demande d’allocation pour incidence sur la carrière présentée par un vétéran au titre du paragraphe 38(1) de la présente loi, dans ses versions antérieures au 1<sup>er</sup> avril 2019, le ministre a fixé, au titre du paragraphe 38(2) de la présente loi, dans ces versions antérieures, le montant de l’allocation pour incidence sur la carrière à verser au vétéran au cours d’une année, mais que, le 1<sup>er</sup> avril 2019 ou après cette date, à la suite de la révision de sa décision au titre de l’article 83 à l’égard du montant fixé, le ministre décide de façon définitive d’augmenter le montant de l’allocation à verser :
+- **a)** la décision définitive, si elle est prise après le 31 mars 2020, est réputée prise à cette date;
+- **b)** le ministre augmente le montant de l’allocation pour incidence sur la carrière à verser au vétéran au titre de l’article 38 de l’ancienne loi d’une somme correspondant à l’excédent du montant de l’allocation précisé dans la décision définitive sur celui qui avait été fixé, mais uniquement pour la période commençant à compter du dernier en date des moments ci-après et se terminant le 31 mars 2019 :
+	- **(i)** le jour où la demande d’allocation a été présentée au titre de ce paragraphe 38(1),
+	- **(ii)** un an avant le jour de la décision définitive;
+	- **(iii)** le lendemain de la libération du vétéran des Forces canadiennes.
+> 2005, ch. 21, art. 112; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Militaires — décisions prises au titre du paragraphe 38(1) de l’ancienne loi**
+
+**113** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a pris une décision à l’égard d’une demande d’allocation pour incidence sur la carrière présentée au titre du paragraphe 38(1) de la présente loi, dans ses versions antérieures à cette date, par un militaire qui n’était pas libéré des Forces canadiennes avant le 31 mars 2019 :
+	- **a)** dans le cas d’une décision approuvant la demande :
+		- **(i)** celle-ci est réputée ne pas avoir été présentée et la décision est réputée ne pas avoir été prise,
+		- **(ii)** le militaire est réputé avoir présenté une demande d’indemnité supplémentaire pour douleur et souffrance, au titre du paragraphe 56.6(1) de la nouvelle loi, le 1<sup>er</sup> avril 2019;
+	- **b)** dans le cas d’une décision rejetant la demande, celle-ci est réputée ne pas avoir été présentée et la décision est réputée ne pas avoir été prise.
+
+**Militaires — décisions prises au titre du paragraphe 38(3) de l’ancienne loi**
+
+- **(2)** Si, avant le 1<sup>er</sup> avril 2019, le ministre a pris une décision à l’égard d’une demande d’augmentation du montant de l’allocation pour incidence sur la carrière présentée au titre du paragraphe 38(3) de la présente loi, dans ses versions antérieures à cette date, par un militaire qui n’était pas libéré des Forces canadiennes avant le 31 mars 2019, la demande est réputée ne pas avoir été présentée et la décision est réputée ne pas avoir été prise.
+> 2005, ch. 21, art. 113; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Militaires — demandes d’allocation pendantes**
+
+**114** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, un militaire a présenté, au titre du paragraphe 38(1) de la présente loi, dans ses versions antérieures à cette date, une demande d’allocation pour incidence sur la carrière à l’égard de laquelle le ministre n’a pas pris de décision avant cette date et que le militaire n’était pas libéré des Forces canadiennes avant le 31 mars 2019, la demande est réputée ne pas avoir été présentée et le militaire est réputé avoir présenté une demande d’indemnité supplémentaire pour douleur et souffrance, au titre du paragraphe 56.6(1) de la nouvelle loi, le 1<sup>er</sup> avril 2019.
+
+**Militaires — demandes d’augmentation pendantes**
+
+- **(2)** Si, avant le 1<sup>er</sup> avril 2019, un militaire a présenté, au titre du paragraphe 38(3) de la présente loi, dans ses versions antérieures à cette date, une demande d’augmentation du montant de l’allocation pour incidence sur la carrière à l’égard de laquelle le ministre n’a pas pris de décision avant cette date et que le militaire n’était pas libéré des Forces canadiennes avant le 31 mars 2019, la demande est réputée ne pas avoir été présentée.
+> 2005, ch. 21, art. 114; 2018, ch. 12, art. 157.
+
+
+
+
+
+#### Allocation de sécurité du revenu de retraite
+
+
+
+##### Vétérans
+
+
+
+**Vétérans réputés avoir droit à la prestation de remplacement du revenu**
+
+**115** 
+
+- **(1)** Le vétéran pour qui l’allocation de sécurité du revenu de retraite était exigible le 31 mars 2019 au titre des articles 40.1 ou 40.2 de l’ancienne loi est réputé, le 1<sup>er</sup> avril 2019, avoir droit à la prestation de remplacement du revenu au titre de l’article 18 de la nouvelle loi et les règles ci-après s’appliquent à son égard :
+	- **a)** malgré le paragraphe 18(3) de la nouvelle loi, la prestation est exigible par le vétéran à compter du 1<sup>er</sup> avril 2019;
+	- **b)** le vétéran est réputé, le 1<sup>er</sup> avril 2019, avoir le droit de continuer à recevoir la prestation au titre du paragraphe 18(7) de la nouvelle loi;
+	- **c)** le montant de la prestation exigible mensuellement par lui au titre de l’article 18 de la nouvelle loi correspond à celui déterminé au titre du paragraphe 19.1(1) de cette loi, sous réserve des paragraphes (2) à (4).
+
+**Valeur de l’élément A de la formule figurant au paragraphe 19.1(1)**
+
+- **(2)** Dans la formule figurant au paragraphe 19.1(1) de la nouvelle loi, la valeur de l’élément A représente soixante-dix pour cent de la prestation de remplacement du revenu à laquelle le vétéran aurait eu droit pour le mois de mars 2019 si cette prestation avait été exigible par lui pour ce mois, s’il avait atteint l’âge de soixante-cinq ans pendant ce mois et si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) n’avaient pas été prises en compte.
+
+**Montant protégé**
+
+- **(3)** Si, dans le calcul du montant de la prestation de remplacement du revenu exigible par le vétéran pour un mois donné, la valeur de l’élément A de la formule figurant au paragraphe 19.1(1) de la nouvelle loi — indexée jusqu’au moment où la prestation est exigible — est inférieure au montant correspondant à la somme des montants ci-après — indexé jusqu’au moment où la prestation est exigible —, la valeur de l’élément A est remplacée par ce montant :
+	- **a)** le montant correspondant à la valeur de l’élément A de la formule figurant aux paragraphes 40.1(4) ou 40.2(4) de l’ancienne loi, selon le cas, qui a servi au calcul du montant de l’allocation de sécurité du revenu de retraite exigible par le vétéran au titre des paragraphes 40.1(1) ou 40.2(1) de cette loi, selon le cas, pour le mois de mars 2019;
+	- **b)** si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le montant correspondant à soixante-dix pour cent du montant de l’augmentation qu’il a reçue pour le mois de mars 2019 ou, si l’augmentation n’était exigible par lui que pour une partie de ce mois, à soixante-dix pour cent du montant de l’augmentation qu’il aurait reçue au titre de ce paragraphe pour ce mois si elle avait été exigible pour tout le mois.
+
+**Montant minimum de la prestation**
+
+- **(4)** Malgré le paragraphe (2), si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le montant de la prestation de remplacement du revenu exigible mensuellement par lui au titre de l’article 18 de la nouvelle loi ne peut être inférieur au montant suivant :
+	- **a)** si l’augmentation était exigible pour tout le mois de mars 2019, le montant de l’augmentation qu’il a reçue pour ce mois, indexé jusqu’au moment où la prestation est exigible;
+	- **b)** si l’augmentation n’était exigible que pour une partie du mois de mars 2019, le montant de l’augmentation qu’il aurait reçue au titre du paragraphe 38(3) de l’ancienne loi pour ce mois si elle avait été exigible pour tout le mois, indexé jusqu’au moment où la prestation est exigible.
+
+**Somme versée**
+
+- **(5)** Si une augmentation de l’allocation pour incidence sur la carrière était exigible par le vétéran visé au paragraphe (1) au titre du paragraphe 38(3) de l’ancienne loi le 31 mars 2019, le ministre lui verse, pour chaque mois pour lequel la prestation de remplacement du revenu n’est pas exigible par le vétéran et qui est compris dans la période commençant au mois d’avril 2019 et se terminant le mois de son décès, une somme correspondant au montant suivant :
+	- **a)** si l’augmentation était exigible pour tout le mois de mars 2019, le montant de l’augmentation qu’il a reçue pour ce mois, indexé jusqu’au moment où la somme est exigible;
+	- **b)** si l’augmentation n’était exigible que pour une partie du mois de mars 2019, le montant de l’augmentation qu’il aurait reçue au titre du paragraphe 38(3) de l’ancienne loi pour ce mois si elle avait été exigible pour tout ce mois, indexé jusqu’au moment où la somme est exigible.
+
+**Non-application du paragraphe (5)**
+
+- **(6)** Le paragraphe (5) ne s’applique pas si le ministre décide que l’admissibilité du vétéran à la somme exigible au titre de ce paragraphe résulte d’une déclaration trompeuse ou de la dissimulation de faits importants. La décision est réputée prise au titre de la partie 2.
+
+**Somme réputée être une indemnisation**
+
+- **(7)** La somme versée ou à verser au titre du paragraphe (5) est réputée, pour l’application des articles 88 à 90 et du paragraphe 93(1), être une indemnisation.
+
+**Application du paragraphe 88(4)**
+
+- **(8)** Le paragraphe 88(4) s’applique à toute somme versée au titre du paragraphe (5).
+> 2005, ch. 21, art. 115; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Demandes pendantes — paragraphe 40.1(1) de l’ancienne loi**
+
+**116** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, un vétéran a présenté, au titre du paragraphe 40.1(1) de l’ancienne loi, une demande d’allocation de sécurité du revenu de retraite à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre de ce paragraphe. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’allocation**
+
+- **(2)** S’il approuve la demande, le ministre verse au vétéran, au titre de l’article 40.1 de l’ancienne loi, l’allocation de sécurité du revenu de retraite à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 40.1(2) de cette loi et se terminant le 31 mars 2019.
+> 2005, ch. 21, art. 116; 2018, ch. 12, art. 157.
+
+
+
+
+
+**Demandes pendantes — paragraphe 40.2(1) de l’ancienne loi**
+
+**117** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, un vétéran a présenté, au titre du paragraphe 40.2(1) de l’ancienne loi, une demande d’allocation de sécurité du revenu de retraite à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre de ce paragraphe. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’allocation**
+
+- **(2)** S’il approuve la demande, le ministre verse au vétéran, au titre de l’article 40.2 de l’ancienne loi, l’allocation de sécurité du revenu de retraite à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 40.2(2) de cette loi et se terminant le 31 mars 2019.
+> 2005, ch. 21, art. 117; 2018, ch. 12, art. 157.
+
+
+
+
+
+##### Survivants
+
+
+
+**Survivants réputés avoir droit à la prestation de remplacement du revenu — article 40.3 de l’ancienne loi**
+
+**118** 
+
+- **(1)** Le survivant pour qui l’allocation de sécurité du revenu de retraite était exigible le 31 mars 2019 au titre de l’article 40.3 de l’ancienne loi est réputé, le 1<sup>er</sup> avril 2019, avoir droit à la prestation de remplacement du revenu au titre de l’article 26 de la nouvelle loi et les règles ci-après s’appliquent à son égard :
+	- **a)** malgré le paragraphe 26(2) de la nouvelle loi, la prestation est exigible par le survivant à compter du 1<sup>er</sup> avril 2019;
+	- **b)** le montant de la prestation exigible mensuellement au titre de l’article 26 de la nouvelle loi par le survivant est déterminé au titre de l’article 26.1 de cette loi, sous réserve des paragraphes (2) et (3);
+	- **c)** le paragraphe 26.1(2) de la nouvelle loi ne s’applique pas.
+
+**Montant prévu à l’alinéa 26.1(1)a)**
+
+- **(2)** Le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 26 de la nouvelle loi qui est déterminé au titre de l’alinéa 26.1(1)a) de cette loi correspond au résultat obtenu par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente soixante-dix pour cent;
+- **B** soixante-dix pour cent de la prestation de remplacement du revenu à laquelle le vétéran aurait eu droit pour le mois de mars 2019 si cette prestation avait été exigible par lui pour ce mois, s’il avait atteint l’âge de soixante-cinq ans pendant ce mois et si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) n’avaient pas été prises en compte.
+
+**Montant protégé**
+
+- **(3)** Si le montant de la prestation de remplacement du revenu qui est exigible par le survivant au titre de l’article 26 de la nouvelle loi pour un mois donné et qui est déterminé au titre de l’article 26.1 de cette loi — compte non tenu de toute réduction effectuée au titre du paragraphe 26.1(3) de celle-ci — est inférieur au montant correspondant à la valeur de l’élément A de la formule figurant au paragraphe 40.3(4) de l’ancienne loi qui a servi au calcul du montant de l’allocation de sécurité du revenu de retraite exigible par le survivant au titre de l’article 40.3 de cette loi pour le mois de mars 2019, le premier montant mentionné ci-dessus est remplacé par le dernier.
+
+**Indexation**
+
+- **(4)** Pour l’application du paragraphe (3), le montant de la prestation de remplacement du revenu qui est visé à ce paragraphe ainsi que le montant qui y est visé et qui correspond à la valeur de l’élément A de la formule sont indexés jusqu’au moment où la prestation de remplacement du revenu est exigible.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Survivants réputés avoir droit à la prestation de remplacement du revenu — article 40.4 de l’ancienne loi**
+
+**119** 
+
+- **(1)** Le survivant pour qui l’allocation de sécurité du revenu de retraite était exigible le 31 mars 2019 au titre de l’article 40.4 de l’ancienne loi est réputé, le 1<sup>er</sup> avril 2019, avoir droit à la prestation de remplacement du revenu au titre de l’article 22 de la nouvelle loi et les règles ci-après s’appliquent à son égard :
+	- **a)** malgré le paragraphe 22(2) de la nouvelle loi, la prestation est exigible par le survivant à compter du 1<sup>er</sup> avril 2019;
+	- **b)** le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 22 de la nouvelle loi par le survivant est déterminé au titre de l’article 23 de cette loi, sous réserve du paragraphe (2);
+	- **c)** le paragraphe 23(2) de la nouvelle loi ne s’applique pas.
+
+**Montant protégé**
+
+- **(2)** Si le montant de la prestation de remplacement du revenu qui est exigible par le survivant au titre de l’article 22 de la nouvelle loi pour un mois visé à l’alinéa 23(1)b) de cette loi et qui est déterminé au titre de l’article 23 de celle-ci — compte non tenu de toute réduction effectuée au titre du paragraphe 23(3) de cette loi — est inférieur au montant correspondant à la moitié de la valeur de l’élément A de la formule figurant au paragraphe 40.4(4) de l’ancienne loi qui a servi au calcul du montant de l’allocation de sécurité du revenu de retraite exigible par le survivant au titre de l’article 40.4 de cette loi pour le mois de mars 2019, le premier montant mentionné ci-dessus est remplacé par le dernier.
+
+**Indexation**
+
+- **(3)** Pour l’application du paragraphe (2), le montant qui est visé à ce paragraphe et qui correspond à la moitié de la valeur de l’élément A de la formule est indexé jusqu’au moment où la prestation de remplacement du revenu est exigible.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Demandes pendantes — paragraphe 40.3(1) de l’ancienne loi**
+
+**120** 
+
+- **(1)** Sous réserve du paragraphe (3), si, avant le 1<sup>er</sup> avril 2019, un survivant a présenté, au titre du paragraphe 40.3(1) de l’ancienne loi, une demande d’allocation de sécurité du revenu de retraite à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre de ce paragraphe. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’allocation**
+
+- **(2)** S’il approuve la demande, le ministre verse au survivant, au titre de l’article 40.3 de l’ancienne loi, l’allocation de sécurité du revenu de retraite à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 40.3(2) de cette loi et se terminant le 31 mars 2019.
+
+**Vétéran décédé au cours du mois de mars 2019**
+
+- **(3)** Si le vétéran à l’égard duquel le survivant a présenté la demande visée au paragraphe (1) est décédé au cours du mois de mars 2019, ce dernier est réputé ne pas avoir présenté la demande.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Demandes pendantes — paragraphe 40.4(1) de l’ancienne loi**
+
+**121** 
+
+- **(1)** Si, avant le 1<sup>er</sup> avril 2019, un survivant a présenté, au titre du paragraphe 40.4(1) de l’ancienne loi, une demande d’allocation de sécurité du revenu de retraite à l’égard de laquelle le ministre n’a pas pris de décision avant cette date, ce dernier prend la décision à l’égard de la demande au titre de ce paragraphe. Si la décision est prise après le 31 mars 2020, elle est réputée prise à cette date.
+
+**Demande approuvée — versement de l’allocation**
+
+- **(2)** S’il approuve la demande, le ministre verse au survivant, au titre de l’article 40.4 de l’ancienne loi, l’allocation de sécurité du revenu de retraite à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 40.4(2) de cette loi et se terminant le 31 mars 2019.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Révision**
+
+**122** Si, avant le 1<sup>er</sup> avril 2019, le ministre a décidé de rejeter une demande d’allocation de sécurité du revenu de retraite présentée par un survivant au titre du paragraphe 40.3(1) de l’ancienne loi, mais que, à cette date ou après cette date, à la suite de la révision de sa décision au titre de l’article 83, le ministre décide de façon définitive d’approuver la demande :
+- **a)** la décision définitive, si elle est prise après le 31 mars 2020, est réputée prise à cette date;
+- **b)** le ministre verse au survivant, au titre de l’article 40.3 de l’ancienne loi, l’allocation de sécurité du revenu de retraite à laquelle ce dernier a droit, mais uniquement pour la période commençant à la date à compter de laquelle l’allocation est exigible au titre du paragraphe 40.3(2) de cette loi et se terminant le 31 mars 2019.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Aucune demande — paragraphe 40.3(1) de l’ancienne loi**
+
+**123** Si le vétéran qui est décédé avant le 1<sup>er</sup> avril 2019 était admissible, au titre des articles 40.1 ou 40.2 de l’ancienne loi, à l’allocation de sécurité du revenu de retraite au moment de son décès ou l’aurait été s’il avait présenté une demande et que le survivant n’a pas, avant cette date, présenté de demande d’allocation de sécurité du revenu de retraite au titre du paragraphe 40.3(1) de cette loi, les règles ci-après s’appliquent au survivant :
+- **a)** si le vétéran est décédé avant le 1<sup>er</sup> mars 2019, le survivant est réputé avoir présenté une demande d’allocation de sécurité du revenu de retraite, au titre du paragraphe 40.3(1) de l’ancienne loi, le 31 mars 2019;
+- **b)** si le vétéran est décédé au cours du mois de mars 2019 :
+	- **(i)** le survivant est réputé avoir présenté une demande de prestation de remplacement du revenu, au titre du paragraphe 26(1) de la nouvelle loi, le 1<sup>er</sup> avril 2019,
+	- **(ii)** pour les besoins de cette demande, le vétéran est réputé avoir eu droit, au moment de son décès, à la prestation de remplacement du revenu,
+	- **(iii)** si le ministre approuve cette demande :
+		- **(A)** le jour visé à l’alinéa 26(2)a) de la nouvelle loi est le 1<sup>er</sup> avril 2019,
+		- **(B)** le montant de la prestation de remplacement du revenu exigible mensuellement au titre de l’article 26 de la nouvelle loi par le survivant est déterminé au titre de l’article 26.1 de cette loi, sous réserve du paragraphe 118(2),
+		- **(C)** le paragraphe 26.1(2) de celle-ci ne s’applique pas.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+#### Prestation de retraite supplémentaire
+
+
+
+**Somme versée — vétérans**
+
+**124** 
+
+- **(1)** Le ministre verse la somme visée au paragraphe (2) :
+	- **a)** au vétéran qui, d’une part, a déjà eu le droit de continuer à recevoir l’allocation pour perte de revenus au titre du paragraphe 18(4) de l’ancienne loi, mais n’avait plus droit à cette allocation le 31 mars 2019 et qui, d’autre part, n’a pas reçu la prestation de retraite supplémentaire à laquelle il a droit au titre du paragraphe 25(1) de cette loi avant le 1<sup>er</sup> avril 2019;
+	- **b)** au vétéran qui, le 31 mars 2019, avait le droit de continuer à recevoir l’allocation pour perte de revenus au titre du paragraphe 18(4) de l’ancienne loi.
+
+**Calcul de la somme**
+
+- **(2)** La somme en cause correspond à deux pour cent du total des sommes qui auraient été exigibles par le vétéran jusqu’au 31 mars 2019, en vertu de l’article 18 de l’ancienne loi, au titre de l’allocation pour perte de revenus si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) de cette loi n’avaient pas été prises en compte.
+
+**Réduction**
+
+- **(3)** La somme visée au paragraphe (2) est réduite de toute somme qui a été versée au vétéran avant le 1<sup>er</sup> avril 2019 au titre de la prestation de retraite supplémentaire.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Somme versée — survivants visés au paragraphe 25(2) de l’ancienne loi**
+
+**125** 
+
+- **(1)** Le ministre verse la somme visée au paragraphe (2) au survivant qui, à la fois :
+	- **a)** est le survivant d’un vétéran qui, au moment de son décès, avait le droit de continuer à recevoir l’allocation pour perte de revenus au titre du paragraphe 18(4) de l’ancienne loi;
+	- **b)** n’avait pas droit, le 31 mars 2019, à l’allocation pour perte de revenus visée à l’article 22 de cette loi;
+	- **c)** n’a pas reçu la prestation de retraite supplémentaire visée au paragraphe 25(2) de cette loi avant le 1<sup>er</sup> avril 2019.
+
+**Calcul de la somme**
+
+- **(2)** La somme en cause correspond à deux pour cent du total des sommes qui auraient été exigibles par le vétéran jusqu’à son décès, en vertu de l’article 18 de l’ancienne loi, au titre de l’allocation pour perte de revenus si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) de cette loi n’avaient pas été prises en compte.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Somme versée — survivants visés au paragraphe 25(3) de l’ancienne loi**
+
+**126** 
+
+- **(1)** Le ministre verse la somme visée au paragraphe (2) :
+	- **a)** au survivant qui, d’une part, a déjà eu droit à l’allocation pour perte de revenus au titre de l’article 22 de l’ancienne loi, mais ne l’avait plus le 31 mars 2019 et qui, d’autre part, n’a pas reçu la prestation de retraite supplémentaire visée au paragraphe 25(3) de cette loi avant le 1<sup>er</sup> avril 2019;
+	- **b)** au survivant qui, le 31 mars 2019, avait droit à l’allocation pour perte de revenus au titre de l’article 22 de cette loi.
+
+**Calcul de la somme**
+
+- **(2)** La somme en cause correspond :
+	- **a)** s’agissant du survivant d’un militaire, à deux pour cent du total des sommes qui auraient été exigibles par le survivant jusqu’au 31 mars 2019, en vertu de l’article 22 de l’ancienne loi, au titre de l’allocation pour perte de revenus si les sommes exigibles par lui des sources réglementaires visées au paragraphe 23(3) de cette loi n’avaient pas été prises en compte;
+	- **b)** s’agissant du survivant d’un vétéran, à deux pour cent de la somme des montants ci-après :
+		- **(i)** le montant correspondant au total des sommes qui auraient été exigibles par le vétéran jusqu’à son décès, en vertu de l’article 18 de l’ancienne loi, au titre de l’allocation pour perte de revenus si les sommes exigibles par lui des sources réglementaires visées au paragraphe 19(1) de cette loi n’avaient pas été prises en compte,
+		- **(ii)** le montant correspondant au total des sommes qui auraient été exigibles par le survivant jusqu’au 31 mars 2019, en vertu de l’article 22 de cette loi, au titre de l’allocation pour perte de revenus si les sommes exigibles par lui des sources réglementaires visées au paragraphe 23(3) de cette loi n’avaient pas été prises en compte.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Somme forfaitaire**
+
+**127** Toute somme à verser en application de l’un des articles 124 à 126 est versée en une somme forfaitaire.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Pouvoir d’exiger la communication de renseignements**
+
+**128** Pour établir si une personne a droit à une somme au titre de l’un des articles 124 à 126, le ministre peut exiger qu’elle lui communique les renseignements ou documents qu’il précise.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Présomptions**
+
+**129** La somme versée ou à verser au titre de l’un des articles 124 à 126 est réputée, pour l’application des articles 88 à 90 et du paragraphe 93(1), être une indemnisation.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+### Dispositions transitoires relatives à l’indemnité pour douleur et souffrance
+
+
+
+**Définition de ancienne loi**
+
+**130** Aux articles 131 et 132, ***ancienne loi*** s’entend de la présente loi, dans sa version antérieure au 1<sup>er</sup> avril 2019.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Militaires ou vétérans ayant fait un choix**
+
+**131** 
+
+- **(1)** L’article 52.1 de l’ancienne loi continue de s’appliquer à tout militaire ou vétéran qui, avant le 1<sup>er</sup> avril 2019, a fait le choix visé aux alinéas 52.1(1)b) ou c) de cette loi et qui, le 31 mars 2019, avait toujours le droit de recevoir des versements en conformité avec cet article.
+
+**Militaires ou vétérans ayant le droit de faire un choix**
+
+- **(2)** Si le militaire ou vétéran à qui une indemnité d’invalidité doit être versée en vertu des articles 45, 47 ou 48 de l’ancienne loi n’a pas, avant 1<sup>er</sup> avril 2019, fait un choix en vertu du paragraphe 52.1(1) de cette loi et que, avant cette date, le délai prévu par règlement pour faire le choix n’a pas expiré, le militaire ou vétéran peut faire le choix en vertu de ce paragraphe. S’il fait le choix visé aux alinéas 52.1(1)b) ou c) de cette loi, l’article 52.1 de celle-ci s’applique à lui.
+
+**Versement**
+
+- **(3)** Le ministre peut verser au militaire ou vétéran l’indemnité d’invalidité pour laquelle ce dernier a fait le choix.
+
+**Non-application de l’article 90**
+
+- **(4)** L’article 90 ne s’applique pas à l’égard de l’indemnité d’invalidité versée au titre du paragraphe (3) au militaire ou vétéran qui a fait le choix visé aux alinéas 52.1(1)b) ou c) de l’ancienne loi.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** concernant la détermination de l’intérêt pour l’application de l’élément C dans la formule prévue à l’alinéa 52.1(1)b) de l’ancienne loi;
+	- **b)** concernant la détermination des sommes forfaitaires pour l’application des paragraphes 52.1(5) et (6) de cette loi;
+	- **c)** concernant toute mesure d’ordre réglementaire prévue par l’article 52.1 de cette loi.
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+**Somme versée mensuellement**
+
+**132** 
+
+- **(1)** Pour chaque mois compris dans la période commençant au mois d’avril 2019 et se terminant le mois du décès du militaire ou vétéran, le ministre verse au militaire ou vétéran à qui une indemnité d’invalidité a été versée et qui est vivant le 1<sup>er</sup> avril 2019 la somme correspondant au résultat obtenu par la formule suivante :
+```
+A – [(B – C)/D]
+```
+où :
+- **A** représente la somme prévue à la colonne 3 de l’annexe 3 de la présente loi, dans sa version au 1<sup>er</sup> avril 2019, en regard du degré d’invalidité visé à la colonne 2 qui correspond au degré d’invalidité du militaire ou vétéran pour lequel l’indemnité d’invalidité a été versée;
+- **B** le montant correspondant à la somme des montants suivants :
+- **a)** le montant de l’indemnité d’invalidité qui était exigible par le militaire ou vétéran en vertu du paragraphe 52(1) de l’ancienne loi ou, si ce dernier a fait le choix visé aux alinéas 52.1(1)b) ou c) de cette loi, le montant de l’indemnité d’invalidité qui aurait été exigible par lui s’il avait fait le choix visé à l’alinéa 52.1(1)a) de cette loi;
+- **b)** le montant correspondant à la somme versée au militaire ou vétéran, en application de l’article 100 de la Loi no 1 d’exécution du budget de 2016, à l’égard de l’indemnité d’invalidité;
+- **C** le produit obtenu par multiplication de la somme prévue à l’alinéa a) par le nombre prévu à l’alinéa b) :
+- **a)** la somme prévue à la colonne 3 de l’annexe 3 de la présente loi, dans sa version au 1<sup>er</sup> avril 2019, en regard du degré d’invalidité visé à la colonne 2 qui correspond au degré d’invalidité du militaire ou vétéran pour lequel l’indemnité d’invalidité a été versée;
+- **b)** le nombre de mois compris dans la période commençant le mois au cours duquel l’indemnité d’invalidité a été versée et se terminant le mois de mars 2019;
+- **D** le nombre déterminé conformément aux règlements.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la détermination du nombre visé à l’élément D de la formule figurant au paragraphe (1).
+
+**Rajustement périodique**
+
+- **(3)** La somme à verser au titre du paragraphe (1) est rajustée périodiquement de la même manière que les sommes prévues à la colonne 3 de l’annexe 3.
+
+**Militaires ou vétérans recevant des versements annuels**
+
+- **(4)** Les règles ci-après s’appliquent au militaire ou vétéran à qui une somme doit être versée au titre du paragraphe (1) à l’égard d’une indemnité d’invalidité :
+	- **a)** s’agissant d’un militaire ou vétéran qui, avant le 1<sup>er</sup> avril 2019, a fait le choix visé aux alinéas 52.1(1)b) ou c) de l’ancienne loi à l’égard de l’indemnité d’invalidité et qui, le 31 mars 2019, avait toujours le droit de recevoir des versements en conformité avec l’article 52.1 de cette loi, il est réputé, le 1<sup>er</sup> avril 2019, avoir fait le choix visé au paragraphe 52.1(5) de celle-ci;
+	- **b)** s’agissant d’un militaire ou vétéran visé au paragraphe 131(2), il est réputé, malgré ce paragraphe, avoir fait le choix visé à l’alinéa 52.1(1)a) de l’ancienne loi.
+
+**Pouvoir d’exiger la communication de renseignements**
+
+- **(5)** Le ministre peut exiger que le militaire ou vétéran à qui une somme doit être versée au titre du paragraphe (1) lui communique des renseignements ou documents.
+
+**Somme versée réputée être une indemnisation**
+
+- **(6)** La somme versée ou à verser au titre du paragraphe (1) est réputée, pour l’application des articles 88 à 90 et du paragraphe 93(1), être une indemnisation.
+
+**Application du paragraphe 88(4)**
+
+- **(7)** Le paragraphe 88(4) s’applique à toute somme versée au titre du paragraphe (1).
+> 2018, ch. 12, art. 157.
+
+
+
+
+
+### Dispositions transitoires relatives à l’indemnité supplémentaire pour douleur et souffrance
+
+
+
+**Définitions**
+
+**133** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article :
+
+***ancienne loi*** La présente loi, dans sa version antérieure au 1<sup>er</sup> avril 2019. (*former Act*)
+
+***nouvelle loi*** La présente loi, dans sa version au 1<sup>er</sup> avril 2019. (*new Act*)
+
+**Vétérans réputés avoir droit à l’indemnité supplémentaire pour douleur et souffrance**
+
+- **(2)** Si une allocation pour incidence sur la carrière était exigible le 31 mars 2019 par un vétéran au titre de l’article 38 de l’ancienne loi, ce dernier est réputé, le 1<sup>er</sup> avril 2019, avoir droit à l’indemnité supplémentaire pour douleur et souffrance au titre de l’article 56.6 de la nouvelle loi et les règles ci-après s’appliquent à son égard :
+	- **a)** les problèmes de santé physique ou mentale relativement auxquels il a reçu l’allocation sont réputés être les invalidités relativement auxquelles il est réputé avoir droit à l’indemnité;
+	- **b)** le montant de l’indemnité exigible mensuellement par lui au titre de l’article 56.6 de la nouvelle loi correspond à celui prévu au paragraphe 56.6(5) de cette loi, sous réserve des paragraphes (3) et (4);
+	- **c)** malgré le paragraphe 56.6(6) de la nouvelle loi, la prestation est exigible par lui à compter du 1<sup>er</sup> avril 2019.
+
+**Importance de la déficience grave et permanente du vétéran**
+
+- **(3)** L’importance de la déficience grave et permanente du vétéran dont il est tenu compte pour fixer le montant de l’indemnité exigible par lui pour le mois d’avril 2019 est évaluée de la façon suivante :
+	- **a)** le niveau 1 prévu à l’annexe 4 de la nouvelle loi est attribué au vétéran pour qui le montant maximum de l’allocation pour incidence sur la carrière était exigible au titre de l’article 38 de l’ancienne loi le 31 mars 2019, compte non tenu de toute augmentation de l’allocation prévue au paragraphe 38(3) de cette loi;
+	- **b)** le niveau 3 prévu à l’annexe 4 de la nouvelle loi est attribué au vétéran pour qui le montant minimum de l’allocation pour incidence sur la carrière était exigible au titre de l’article 38 de l’ancienne loi le 31 mars 2019, compte non tenu de toute augmentation de l’allocation prévue au paragraphe 38(3) de cette loi;
+	- **c)** le niveau 2 prévu à l’annexe 4 de la nouvelle loi est attribué à tout autre vétéran.
+
+**Montant protégé**
+
+- **(4)** Pour tout mois suivant le mois d’avril 2019 pour lequel le vétéran a droit, par application du paragraphe (2), à l’indemnité supplémentaire pour douleur et souffrance au titre de l’article 56.6 de la nouvelle loi, le montant de l’indemnité exigible par lui au titre de cet article ne peut être inférieur au montant de l’indemnité exigible par lui pour le mois d’avril 2019.
+> 2018, ch. 12, art. 157.
+
 
 
 
@@ -2492,7 +3259,7 @@ où :
 
 
 ### **ANNEXE 2** 
-**(paragraphes 38(2) et (3), article 44.2, paragraphe 58(1), articles 61 et 65.2 et alinéa 94c))**
+**(article 44.2, paragraphe 58(1), articles 61 et 65.2, alinéa 94c), paragraphe 110(4) et alinéa 111(2)b))**
 <table>
 <h4>Allocations et indemnité</h4>
 <tr>
@@ -2507,18 +3274,15 @@ où :
 </tr>
 <tr>
 <td>1</td>
-<td>Montant minimum de l’allocation pour incidence sur la carrière</td>
-<td>6 000,00 (annuel)</td>
+<td>[Abrogé, 2018, ch. 12, art. 159]</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Montant maximum de l’allocation pour incidence sur la carrière</td>
-<td>18 000,00 (annuel)</td>
+<td>[Abrogé, 2018, ch. 12, art. 159]</td>
 </tr>
 <tr>
 <td>2.1</td>
-<td>Supplément à l’allocation pour incidence sur la carrière en cas de diminution de la capacité de gain</td>
-<td>12 000,00 (annuel)</td>
+<td>[Abrogé, 2018, ch. 12, art. 159]</td>
 </tr>
 <tr>
 <td>2.2</td>
@@ -2542,25 +3306,29 @@ où :
 </tr>
 </table>
 
-> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225; 2016, ch. 7, art. 93 à 95 et 97; 2017, ch. 20, art. 287.
+> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225; 2016, ch. 7, art. 93 à 95 et 97; 2017, ch. 20, art. 287; 2018, ch. 12, art. 158; 2018, ch. 12, art. 159.
 
 
 
 
 ### **ANNEXE 3** 
-**(paragraphe 52(1) et alinéa 94c))**
+**(paragraphes 50(1), 53(2) et 55(1), article 56, alinéa 94c) et paragraphes 132(1) et (3))**
 <table>
-<h4>Indemnité d’invalidité</h4>
+<h4>Indemnité pour douleur et souffrance</h4>
 <tr>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
+<th>Colonne 4</th>
 </tr>
 <tr>
 <th>Taux d’indemnité(%)
 
 </th>
 <th>Degré d’invalidité(%)
+
+</th>
+<th>Taux mensuel($)
 
 </th>
 <th>Somme forfaitaire($)
@@ -2570,125 +3338,182 @@ où :
 <tr>
 <td>100</td>
 <td>98-100</td>
-<td>360 000,00</td>
+<td>1 150,00</td>
+<td>365 400,00</td>
 </tr>
 <tr>
 <td>95</td>
 <td>93-97</td>
-<td>342 000,00</td>
+<td>1 092,50</td>
+<td>347 130,00</td>
 </tr>
 <tr>
 <td>90</td>
 <td>88-92</td>
-<td>324 000,00</td>
+<td>1 035,00</td>
+<td>328 860,00</td>
 </tr>
 <tr>
 <td>85</td>
 <td>83-87</td>
-<td>306 000,00</td>
+<td>977,50</td>
+<td>310 590,00</td>
 </tr>
 <tr>
 <td>80</td>
 <td>78-82</td>
-<td>288 000,00</td>
+<td>920,00</td>
+<td>292 320,00</td>
 </tr>
 <tr>
 <td>75</td>
 <td>73-77</td>
-<td>270 000,00</td>
+<td>862,50</td>
+<td>274 050,00</td>
 </tr>
 <tr>
 <td>70</td>
 <td>68-72</td>
-<td>252 000,00</td>
+<td>805,00</td>
+<td>255 780,00</td>
 </tr>
 <tr>
 <td>65</td>
 <td>63-67</td>
-<td>234 000,00</td>
+<td>747,50</td>
+<td>237 510,00</td>
 </tr>
 <tr>
 <td>60</td>
 <td>58-62</td>
-<td>216 000,00</td>
+<td>690,00</td>
+<td>219 240,00</td>
 </tr>
 <tr>
 <td>55</td>
 <td>53-57</td>
-<td>198 000,00</td>
+<td>632,50</td>
+<td>200 970,00</td>
 </tr>
 <tr>
 <td>50</td>
 <td>48-52</td>
-<td>180 000,00</td>
+<td>575,00</td>
+<td>182 700,00</td>
 </tr>
 <tr>
 <td>45</td>
 <td>43-47</td>
-<td>162 000,00</td>
+<td>517,50</td>
+<td>164 430,00</td>
 </tr>
 <tr>
 <td>40</td>
 <td>38-42</td>
-<td>144 000,00</td>
+<td>460,00</td>
+<td>146 160,00</td>
 </tr>
 <tr>
 <td>35</td>
 <td>33-37</td>
-<td>126 000,00</td>
+<td>402,50</td>
+<td>127 890,00</td>
 </tr>
 <tr>
 <td>30</td>
 <td>28-32</td>
-<td>108 000,00</td>
+<td>345,00</td>
+<td>109 620,00</td>
 </tr>
 <tr>
 <td>25</td>
 <td>23-27</td>
-<td>90 000,00</td>
+<td>287,50</td>
+<td>91 350,00</td>
 </tr>
 <tr>
 <td>20</td>
 <td>18-22</td>
-<td>72 000,00</td>
+<td>230,00</td>
+<td>73 080,00</td>
 </tr>
 <tr>
 <td>15</td>
 <td>13-17</td>
-<td>54 000,00</td>
+<td>172,50</td>
+<td>54 810,00</td>
 </tr>
 <tr>
 <td>10</td>
 <td>8-12</td>
-<td>36 000,00</td>
+<td>115,00</td>
+<td>36 540,00</td>
 </tr>
 <tr>
 <td>5</td>
 <td>5-7</td>
-<td>18 000,00</td>
+<td>57,50</td>
+<td>18 270,00</td>
 </tr>
 <tr>
 <td>4</td>
 <td>4</td>
-<td>14 400,00</td>
+<td>46,00</td>
+<td>14 616,00</td>
 </tr>
 <tr>
 <td>3</td>
 <td>3</td>
-<td>10 800,00</td>
+<td>34,50</td>
+<td>10 962,00</td>
 </tr>
 <tr>
 <td>2</td>
 <td>2</td>
-<td>7 200,00</td>
+<td>23,00</td>
+<td>7 308,00</td>
 </tr>
 <tr>
 <td>1</td>
 <td>1</td>
-<td>3 600,00</td>
+<td>11,50</td>
+<td>3 654,00</td>
 </tr>
 </table>
 
-> 2005, ch. 21, ann. 3; 2016, ch. 7, art. 96.
+> 2005, ch. 21, ann. 3; 2016, ch. 7, art. 96; 2018, ch. 12, art. 160.
+
+
+
+
+### **ANNEXE 4** 
+**(paragraphe 56.6(5) et alinéas 94c) et 133(3)a) à c))**
+<table>
+<h4>Indemnité supplémentaire pour douleur et souffrance</h4>
+<tr>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Importance de la déficience grave et permanente</th>
+<th>Taux mensuel($)
+
+</th>
+</tr>
+<tr>
+<td>Niveau 1</td>
+<td>1 500,00</td>
+</tr>
+<tr>
+<td>Niveau 2</td>
+<td>1 000,00</td>
+</tr>
+<tr>
+<td>Niveau 3</td>
+<td>500,00</td>
+</tr>
+</table>
+
+> 2018, ch. 12, art. 161.
 
 
