@@ -102,6 +102,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***eligible party*** means a political party that satisfies the criteria for registration set out in section 387. (*parti admissible*)
 
+***future elector*** means a Canadian citizen who is 14 years of age or older but under 18 years of age. (*futur électeur*)
+
 ***judge***, when used to define the judicial officer on whom is conferred specific powers, means
 - **(a)** in relation to the Province of Ontario, a judge of the Superior Court of Justice;
 - **(b)** in relation to the Province of Quebec, a judge of the Superior Court of Quebec;
@@ -174,7 +176,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***registered party*** means a political party that is registered in the registry of political parties referred to in section 394 as a registered party. (*parti enregistré*)
 
-***Register of Electors*** means the Register of Electors established under section 44. (*Registre des électeurs*)
+***Register of Electors*** means the Register of Electors established under paragraph 44(1)(a). (*Registre des électeurs*)
+
+***Register of Future Electors*** means the Register of Future Electors established under paragraph 44(1)(b). (*Registre des futurs électeurs*)
 
 ***revised list of electors*** means the list of electors prepared by the returning officer under section 105. (*liste électorale révisée*)
 
@@ -511,17 +515,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Power to disclose documents and information**
-
 **16.5** 
 
-- **(1)** The Chief Electoral Officer may disclose to the Commissioner any document or information that he or she has obtained under this Act and that he or she considers useful to the Commissioner in the exercise or performance of his or her powers, duties and functions under this Act.
+- **(1)** [Repealed, 2018, c. 31, s. 12]
 
 **Obligation to disclose documents and information**
 
 - **(2)** On the request of the Commissioner, the Chief Electoral Officer shall disclose to the Commissioner any document or information that the Chief Electoral Officer obtained under this Act and that the Commissioner considers necessary to the exercise or performance of his or her powers, duties and functions under this Act.
-> 2014, c. 12, s. 5.1.
+> 2014, c. 12, s. 5.1; 2018, c. 31, s. 12.
 
 
 
@@ -1305,32 +1306,42 @@ If the candidate, registered association and registered party do not, as a group
 
 
 **PART 4** 
-## Register of Electors
+## Register of Electors and Register of Future Electors
 
 
 
-### Maintenance and Communication of Register
+### Maintenance and Communication
 
 
 
-**Register of Electors**
+**Maintenance of Registers**
 
 **44** 
 
-- **(1)** The Chief Electoral Officer shall maintain a register of Canadians who are qualified as electors, to be known as the Register of Electors.
+- **(1)** The Chief Electoral Officer shall maintain
+	- **(a)** a register of persons who are qualified as electors, to be known as the Register of Electors; and
+	- **(b)** a register of persons who are qualified as future electors, to be known as the Register of Future Electors.
 
-**Contents of Register**
+**Contents of Registers**
 
-- **(2)** The Register of Electors shall contain, for each elector who is included in it, his or her surname, given names, sex, date of birth, civic address, mailing address and any other information that is provided under subsections 49(2), 194(7), 195(7), 223(2), 233(2) and 251(3).
+- **(2)** The Register of Electors and the Register of Future Electors shall contain, for each elector or future elector who is included in it, as the case may be, his or her surname, given names, gender, date of birth, civic address, mailing address and any other information that is provided under subsections 49(2), 211.2(4), 223(2), 233(2) and 251(3).
 
 **Identifier**
 
-- **(2.1)** The Register of Electors must also contain, for each elector, a unique, randomly generated identifier that is assigned by the Chief Electoral Officer.
+- **(3)** The Register of Electors and the Register of Future Electors shall also contain, for each elector or future elector, as the case may be, a unique, randomly generated identifier that is assigned by the Chief Electoral Officer.
+
+**Future electors becoming electors**
+
+- **(4)** Subject to subsection (5), the Register of Future Electors may continue to contain information about a former future elector after he or she becomes an elector until he or she is included in the Register of Electors.
 
 **Inclusion optional**
 
-- **(3)** Inclusion in the Register of Electors is at the option of the elector.
-> 2000, c. 9, s. 44; 2001, c. 21, s. 4; 2007, c. 21, s. 4.
+- **(5)** Inclusion in the Register of Electors and the Register of Future Electors is optional.
+
+**Parental consent not necessary**
+
+- **(6)** A future elector’s inclusion in the Register of Future Electors does not require the consent of the future elector’s parents or guardian or tutor.
+> 2000, c. 9, s. 44; 2001, c. 21, s. 4; 2007, c. 21, s. 4; 2018, c. 31, s. 36.
 
 
 
@@ -1359,7 +1370,7 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
-### Updating the Register
+### Updates
 
 
 
@@ -1367,22 +1378,26 @@ If the candidate, registered association and registered party do not, as a group
 
 **46** 
 
-- **(1)** The Register of Electors shall be updated from
+- **(1)** The Register of Electors and the Register of Future Electors shall be updated from
 	- **(a)** information
-		- **(i)** that electors have given the Chief Electoral Officer, or
-		- **(ii)** that is held by a federal department or body and that electors have expressly authorized to be given to the Chief Electoral Officer; and
-	- **(b)** information that the Chief Electoral Officer considers reliable and necessary for updating the surname, given names, sex, date of birth, civic address and mailing address of electors included in the Register of Electors and that
+		- **(i)** that electors or future electors, as the case may be, have given the Chief Electoral Officer, or
+		- **(ii)** that is held by a federal department or body and that electors or future electors, as the case may be, have expressly authorized to be given to the Chief Electoral Officer; and
+	- **(b)** information that the Chief Electoral Officer considers reliable and necessary for updating the surname, given names, gender, date of birth, civic address and mailing address of electors and future electors included in the Register of Electors or Register of Future Electors, as the case may be, and that
 		- **(i)** is held under an Act of the legislature of a province mentioned in Schedule 2, or
 		- **(ii)** comes from any other source mentioned in Schedule 2.
 
+**Source of information: Register of Future Electors**
+
+- **(1.01)** The Register of Electors shall be updated from information that the Chief Electoral Officer holds in the Register of Future Electors about future electors who become electors.
+
 **Retention of certain information**
 
-- **(1.1)** The Chief Electoral Officer may retain information collected under paragraph (1)(b), but not included in the Register of Electors, for the purpose of correlating information subsequently collected with information already contained in the Register of Electors.
+- **(1.1)** The Chief Electoral Officer may retain information collected under paragraph (1)(b), but not included in the Register of Electors or Register of Future Electors, for the purpose of correlating information subsequently collected with information already contained in the relevant register.
 
 **Amendments to Schedule 2**
 
 - **(2)** The Chief Electoral Officer may at any time amend Schedule 2 by adding, changing or deleting the name of an Act of the legislature of a province or of any other source of information, but no such amendment comes into force until notice of it is published in the Canada Gazette.
-> 2000, c. 9, s. 46; 2007, c. 21, s. 6.
+> 2000, c. 9, s. 46; 2007, c. 21, s. 6; 2018, c. 31, s. 39.
 
 
 
@@ -1404,8 +1419,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Citizenship information**
 
-**46.1** For the purpose of assisting the Chief Electoral Officer in updating the Register of Electors, the Minister of National Revenue may, on a return of income referred to in subsection 150(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), request that an individual who is filing a return of income under paragraph 150(1)(d) of that Act indicate in the return whether he or she is a Canadian citizen.
-> 2007, c. 21, s. 7.
+**46.1** For the purpose of assisting the Chief Electoral Officer in updating the Register of Electors or Register of Future Electors, the Minister of National Revenue may, on a return of income referred to in subsection 150(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), request that an individual who is filing a return of income under paragraph 150(1)(d) of that Act indicate in the return whether he or she is a Canadian citizen.
+> 2007, c. 21, s. 7; 2018, c. 31, s. 40.
 
 
 
@@ -1413,8 +1428,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Information in respect of deceased individuals**
 
-**46.2** For the purpose of updating the Register of Electors, the Minister of National Revenue shall, at the request of the Chief Electoral Officer, provide the name, date of birth and address of any individual to whom paragraph 150(1)(b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) applies if that individual has, in his or her last return of income filed under paragraph 150(1)(d) of that Act, authorized that Minister to provide his or her name, date of birth and address to the Chief Electoral Officer for the Register of Electors.
-> 2007, c. 21, s. 7.
+**46.2** For the purpose of updating the Register of Electors or Register of Future Electors, the Minister of National Revenue shall, at the request of the Chief Electoral Officer, provide the name, date of birth and address of any individual to whom paragraph 150(1)(b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) applies if that individual has, in his or her last return of income filed under paragraph 150(1)(d) of that Act, authorized that Minister to provide his or her name, date of birth and address to the Chief Electoral Officer for the relevant register.
+> 2007, c. 21, s. 7; 2018, c. 31, s. 40.
 
 
 
@@ -1429,28 +1444,31 @@ If the candidate, registered association and registered party do not, as a group
 
 **Other duties**
 
-**47.1** Between election periods, a returning officer shall perform any duties related to the updating of the Register of Electors that are requested by the Chief Electoral Officer.
-> 2007, c. 21, s. 8.
+**47.1** Between election periods, a returning officer shall perform any duties related to the updating of the Register of Electors or Register of Future Electors that are requested by the Chief Electoral Officer.
+> 2007, c. 21, s. 8; 2018, c. 31, s. 41.
 
 
 
 
 
-**New electors**
+**Adding electors and future electors**
 
 **48** 
 
-- **(1)** The Chief Electoral Officer shall, before including a new elector in the Register of Electors, send the elector the Chief Electoral Officer’s information relating to him or her and ask if he or she wishes to be included in the Register of Electors.
+- **(1)** The Chief Electoral Officer shall, before including an elector in the Register of Electors or a future elector in the Register of Future Electors, send him or her the Chief Electoral Officer’s information relating to him or her and ask if he or she wishes to be included in the relevant register.
 
-**Obligation of elector**
+**Obligation of elector or future elector**
 
-- **(2)** A new elector who wishes to be included in the Register of Electors shall confirm, correct or complete the information, in writing, and give it to the Chief Electoral Officer along with a signed certification that he or she is qualified as an elector under section 3.
+- **(2)** An elector or future elector who wishes to be included in the relevant register shall confirm, correct or complete the information, in writing, and give it to the Chief Electoral Officer along with a signed certification that he or she is qualified as an elector or as a future elector, as the case may be.
 
 **Exceptions**
 
-- **(3)** This section does not apply in respect of the inclusion of a new elector
-	- **(a)** at the elector’s request; or
-	- **(b)** based on lists of electors established under provincial law, if those lists contain the information that the Chief Electoral Officer considers sufficient for the inclusion of the elector.
+- **(3)** This section does not apply in respect of the inclusion of an elector or future elector that is
+	- **(a)** done at his or her request;
+	- **(b)** done using information from lists of electors or future electors established under provincial law that contain information that the Chief Electoral Officer considers sufficient for the elector’s or future elector’s inclusion; or
+	- **(c)** done using information to update the Register of Electors under subsection 46(1.01).
+> 2000, c. 9, s. 48; 2018, c. 31, s. 41.
+
 
 
 
@@ -1459,30 +1477,36 @@ If the candidate, registered association and registered party do not, as a group
 
 **49** 
 
-- **(1)** Any person may at any time request the Chief Electoral Officer to include him or her in the Register of Electors, by providing
-	- **(a)** a signed certification that he or she is qualified as an elector;
-	- **(b)** his or her surname, given names, sex, date of birth, civic address and mailing address; and
+- **(1)** Any person may at any time request the Chief Electoral Officer to include him or her in the Register of Electors or Register of Future Electors, by providing
+	- **(a)** a signed certification that he or she is qualified as an elector or as a future elector, as the case may be;
+	- **(b)** his or her surname, given names, gender, date of birth, civic address and mailing address; and
 	- **(c)** satisfactory proof of identity.
 
 **Optional information**
 
-- **(2)** In addition to the information referred to in subsection (1), the Chief Electoral Officer may invite the elector to give any other information that the Chief Electoral Officer considers necessary to implement any agreements entered into under section 55, but the elector is not required to do so.
+- **(2)** In addition to the information referred to in subsection (1), the Chief Electoral Officer may invite the elector or future elector to give any other information that the Chief Electoral Officer considers necessary to implement any agreements entered into under section 55, but the elector or future elector is not required to do so.
+> 2000, c. 9, s. 49; 2018, c. 31, s. 41.
+
 
 
 
 
 **Corrections**
 
-**50** An elector may give the Chief Electoral Officer changes to the information in the Register of Electors relating to the elector, and the Chief Electoral Officer shall make the necessary corrections to the Register of Electors.
+**50** An elector or future elector may inform the Chief Electoral Officer of changes to the information in the Register of Electors or Register of Future Electors, as the case may be, relating to him or her, and the Chief Electoral Officer shall make the necessary corrections to the relevant register.
+> 2000, c. 9, s. 50; 2018, c. 31, s. 41.
+
 
 
 
 
 **Verification**
 
-**51** The Chief Electoral Officer may at any time
-- **(a)** contact an elector to verify the Chief Electoral Officer’s information relating to him or her; and
-- **(b)** request the elector to confirm, correct or complete the information within 60 days after receiving the request.
+**51** The Chief Electoral Officer may
+- **(a)** contact an elector or future elector to verify the Chief Electoral Officer’s information relating to him or her; and
+- **(b)** request the elector or future elector to confirm, correct or complete the information within 60 days after receiving the request.
+> 2000, c. 9, s. 51; 2018, c. 31, s. 41.
+
 
 
 
@@ -1491,11 +1515,12 @@ If the candidate, registered association and registered party do not, as a group
 
 **52** 
 
-- **(1)** The Chief Electoral Officer shall delete from the Register of Electors the name of any person who
+- **(1)** The Chief Electoral Officer shall delete from the Register of Electors or Register of Future Electors the name of any person who
 	- **(a)** is dead;
-	- **(b)** is not an elector; or
+	- **(b)** is not an elector or future elector, as the case may be, subject to subsection 44(4);
 	- **(c)** requests in writing to have his or her name deleted;
-	- **(d)** is under a court-ordered protective regime, including guardianship, tutorship or curatorship, and whose authorized representative under the regime requests in writing that the person’s name be deleted.
+	- **(d)** is, by reason of mental incapacity, under a court-ordered protective regime, including guardianship, tutorship or curatorship, and whose authorized representative under the regime requests in writing that the person’s name be deleted; or
+	- **(e)** is a future elector with a mental incapacity whose parent requests in writing that the future elector’s name be deleted.
 
 **Conditions**
 
@@ -1503,8 +1528,8 @@ If the candidate, registered association and registered party do not, as a group
 
 **Deletion of name — discretionary**
 
-- **(2)** The Chief Electoral Officer may delete from the Register of Electors the name of any person who fails to comply with a request referred to in paragraph 51(b) within the 60 days.
-> 2000, c. 9, s. 52; 2014, c. 12, s. 23.
+- **(2)** The Chief Electoral Officer may delete from the Register of Electors or Register of Future Electors the name of any person who fails to comply with a request referred to in paragraph 51(b) within the 60 days.
+> 2000, c. 9, s. 52; 2014, c. 12, s. 23; 2018, c. 31, s. 42.
 
 
 
@@ -1512,14 +1537,26 @@ If the candidate, registered association and registered party do not, as a group
 
 **Restrictions**
 
-**53** If an elector so requests the Chief Electoral Officer in writing, information in the Register of Electors relating to that elector shall be used only for federal electoral or referendum purposes.
+**53** 
+
+- **(1)** If an elector so requests the Chief Electoral Officer in writing, information in the Register of Electors relating to that elector shall be used only for federal electoral or referendum purposes.
+
+**Restriction — Register of Future Electors**
+
+- **(2)** If a future elector so requests the Chief Electoral Officer in writing, information in the Register of Future Electors relating to the future elector shall be used only for the purposes of
+	- **(a)** updating the Register of Electors; or
+	- **(b)** the transmission of information in the course of public education and information programs implemented under subsection 18(1).
+> 2000, c. 9, s. 53; 2018, c. 31, s. 43.
+
 
 
 
 
 **Access to personal information**
 
-**54** At the written request of an elector, the Chief Electoral Officer shall send the elector all the information in the Chief Electoral Officer’s possession relating to him or her.
+**54** At the written request of an elector or future elector, the Chief Electoral Officer shall send him or her all the information in the Chief Electoral Officer’s possession relating to him or her.
+> 2000, c. 9, s. 54; 2018, c. 31, s. 44.
+
 
 
 
@@ -1532,7 +1569,11 @@ If the candidate, registered association and registered party do not, as a group
 
 **55** 
 
-- **(1)** The Chief Electoral Officer may enter into an agreement with any body responsible under provincial law for establishing a list of electors, governing the giving of information contained in the Register of Electors, or the giving of information referred to in subsection 44(2) or (2.1) that the Chief Electoral Officer intends to include in the Register of Electors, if that information is needed for establishing such a list.
+- **(1)** The Chief Electoral Officer may enter into an agreement with any body responsible under provincial law for establishing a list of electors or future electors, governing the giving of information contained in the Register of Electors or Register of Future Electors, or the giving of information referred to in subsection 44(2) or (3) that the Chief Electoral Officer intends to include in either register, if that information is needed for establishing such a list.
+
+**Exception**
+
+- **(1.1)** Despite subsection (1), the Chief Electoral Officer shall not enter into an agreement governing the giving of information contained in the Register of Future Electors, or the giving of information referred to in subsection 44(2) or (3) in relation to future electors, with any body that is required under provincial law to give or to make available to political parties, entities associated with a political party or members of a legislature information relating to future electors.
 
 **Conditions**
 
@@ -1543,7 +1584,7 @@ If the candidate, registered association and registered party do not, as a group
 **Valuable consideration**
 
 - **(4)** An agreement mentioned in subsection (1) may require valuable consideration to be provided in exchange for the information given.
-> 2000, c. 9, s. 55; 2007, c. 21, s. 9.
+> 2000, c. 9, s. 55; 2007, c. 21, s. 9; 2018, c. 31, s. 45.
 
 
 
@@ -1556,16 +1597,21 @@ If the candidate, registered association and registered party do not, as a group
 **Prohibitions**
 
 **56** No person shall
-- **(a)** knowingly make a false or misleading statement, orally or in writing, relating to their qualification as an elector or relating to any other information referred to in section 49;
-- **(b)** knowingly make a false or misleading statement, orally or in writing, relating to another person’s qualification as an elector, to the surname, given names, sex, civic address or mailing address of that person, or to the identifier assigned to that person by the Chief Electoral Officer, for the purpose of having that person’s name deleted from the Register of Electors;
-- **(c)** request the listing in the Register of Electors of the name of a person who is not qualified as an elector, knowing that the person is not so qualified;
-- **(d)** wilfully apply to have included in the Register of Electors the name of an animal or thing;
+- **(a)** knowingly make a false or misleading statement, orally or in writing, relating to their qualification as an elector or as a future elector or relating to any other information referred to in section 49;
+- **(b)** knowingly make a false or misleading statement, orally or in writing, relating to another person’s qualification as an elector or as a future elector, to that other person’s surname, given names, gender, civic address or mailing address, or to the identifier assigned to that other person by the Chief Electoral Officer, for the purpose of having that other person’s name deleted from the Register of Electors or Register of Future Electors, as the case may be;
+- **(c)** request the listing in the Register of Electors or Register of Future Electors of the name of a person who is not qualified as an elector or as a future elector, as the case may be, knowing that the person is not so qualified;
+- **(d)** knowingly apply to have included in the Register of Electors or Register of Future Electors the name of an animal or thing;
 - **(e)** knowingly use personal information that is obtained from the Register of Electors except as follows:
 	- **(i)** to enable registered parties, members or candidates to communicate with electors in accordance with section 110,
-	- **(ii)** for the purpose of a federal election or referendum, or
-	- **(iii)** in accordance with the conditions included in an agreement made under section 55, in the case of information that is transmitted in accordance with the agreement; or
+	- **(ii)** for the purposes of the administration and enforcement of this Act or the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md), or
+	- **(iii)** in accordance with the conditions included in an agreement made under section 55, in the case of information that is transmitted in accordance with the agreement,
+- **(e.1)** knowingly use personal information that is obtained from the Register of Future Electors except as follows:
+	- **(i)** for the purposes of updating the Register of Electors,
+	- **(ii)** for the purposes of the transmission of information in the course of public education and information programs implemented under subsection 18(1),
+	- **(iii)** for the purposes of the administration and enforcement of this Act or the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md), or
+	- **(iv)** in accordance with the conditions included in an agreement made under section 55, in the case of information that is transmitted in accordance with the agreement; or
 - **(f)** knowingly use other personal information that is transmitted in accordance with an agreement made under section 55 except in accordance with the conditions included in the agreement.
-> 2000, c. 9, s. 56; 2007, c. 21, s. 10.
+> 2000, c. 9, s. 56; 2007, c. 21, s. 10; 2018, c. 31, s. 46.
 
 
 
@@ -3965,7 +4011,7 @@ If the candidate, registered association and registered party do not, as a group
 
 ***inner envelope*** means an envelope that is supplied by the Chief Electoral Officer in which a ballot is to be enclosed after it has been marked. (*enveloppe intérieure*)
 
-***liaison officer*** means a Canadian Forces elector designated under section 201 or a person appointed under subsection 248(1). (*agent de liaison*)
+***liaison officer*** means an elector designated as a liaison officer under subsection 199.2(1) or a person appointed as a liaison officer under subsection 248(1). (*agent de liaison*)
 
 ***outer envelope*** means an envelope that is supplied by the Chief Electoral Officer for the transmission of a ballot after it has been marked and enclosed in an inner envelope. (*enveloppe extérieure*)
 
@@ -3980,6 +4026,8 @@ If the candidate, registered association and registered party do not, as a group
 ***unit*** has the same meaning as in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and includes a base or other element. (*unité*)
 
 ***voting territory*** means an area that is established by or under section 180. (*territoire de vote*)
+> 2000, c. 9, s. 177; 2018, c. 31, s. 124.
+
 
 
 
@@ -4314,42 +4362,56 @@ If the candidate, registered association and registered party do not, as a group
 
 
 
+#### Liaison Officers
+
+
+
+**Designation**
+
+**199.2** 
+
+- **(1)** The Minister of National Defence shall designate one or more electors as liaison officers to work, during and between election periods, with the Chief Electoral Officer and the coordinating officer in carrying out the purposes and provisions of this Division.
+
+**Duty of coordinating officer**
+
+- **(2)** The coordinating officer shall provide the Chief Electoral Officer with the name and address of each liaison officer as each one is designated.
+> 2018, c. 31, s. 136.
+
+
+
+
+
 #### Steps to Prepare for Vote
 
 
 
-**Duties of Chief Electoral Officer**
+**Duty of Chief Electoral Officer**
 
-**200** Without delay after the issue of the writs, the Chief Electoral Officer shall inform the Minister of National Defence and the coordinating officer of their issue and of the location of voting territories and administrative centres.
-
-
-
-
-**Duties of Minister of National Defence**
-
-**201** On being informed of the issue of the writs, the Minister of National Defence shall designate one or more electors to act as liaison officers for the vote.
+**200** Without delay after the issue of the writs, the Chief Electoral Officer shall inform the Minister of National Defence and the coordinating officer of their issue.
+> 2000, c. 9, s. 200; 2018, c. 31, s. 137.
 
 
 
 
-**Duties of coordinating officer**
-
-**202** On being informed of the issue of the writs, the coordinating officer shall
-- **(a)** inform each commanding officer of their issue; and
-- **(b)** inform the Chief Electoral Officer of the name and address of each liaison officer.
+**201** [Repealed, 2018, c. 31, s. 137]
 
 
 
 
-**Duty of liaison officers to communicate with unit**
+**Duty of coordinating officer**
 
-**203** 
+**202** On being informed of the issue of the writs, the coordinating officer shall inform each liaison officer and commanding officer of their issue.
+> 2000, c. 9, s. 202; 2018, c. 31, s. 137.
 
-- **(1)** On being designated, a liaison officer shall communicate with each commanding officer in respect of whose unit the liaison officer has liaison duties, with respect to any matter that relates to the vote.
 
-**Duty to cooperate with Chief Electoral Officer**
 
-- **(2)** A liaison officer shall cooperate with the Chief Electoral Officer in the administration of the vote.
+
+
+**Duty of liaison officers — information**
+
+**203** On being informed of the issue of the writs, a liaison officer shall give each commanding officer in respect of whose unit the liaison officer has liaison duties all necessary information for carrying out the purposes and provisions of this Division.
+> 2000, c. 9, s. 203; 2018, c. 31, s. 137.
+
 
 
 
@@ -8209,18 +8271,54 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(f)** the names and addresses of the party’s officers and their signed consent to act in that capacity;
 	- **(g)** the name and address of the party’s auditor and their signed consent to act in that capacity;
 	- **(h)** the name and address of the party’s chief agent and their signed consent to act in that capacity;
-	- **(i)** the names and addresses of 250 electors and their declarations in the prescribed form that they are members of the party and support the party’s application for registration; and
-	- **(j)** the leader’s declaration in the prescribed form that, having considered all of the factors — including those described in subsection 521.1(5) — relevant to determining the party’s purposes, one of the party’s fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election.
+	- **(i)** the names and addresses of 250 electors and their declarations in the prescribed form that they are members of the party and support the party’s application for registration;
+	- **(j)** the leader’s declaration in the prescribed form that, having considered all of the factors — including those described in subsection 521.1(5) — relevant to determining the party’s purposes, one of the party’s fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election;
+	- **(k)** the party’s policy for the protection of personal information, including
+		- **(i)** a statement indicating the types of personal information that the party collects and how it collects that information,
+		- **(ii)** a statement indicating how the party protects personal information under its control,
+		- **(iii)** a statement indicating how the party uses personal information under its control and under what circumstances that personal information may be sold to any person or entity,
+		- **(iv)** a statement indicating the training concerning the collection and use of personal information to be given to any employee of the party who could have access to personal information under the party’s control,
+		- **(v)** a statement indicating the party’s practices concerning
+			- **(A)** the collection and use of personal information created from online activity, and
+			- **(B)** its use of cookies, and
+		- **(vi)** the name and contact information of a person to whom concerns regarding the party’s policy for the protection of personal information can be addressed; and
+	- **(l)** the address of the page — accessible to the public — on the party’s Internet site where its policy for the protection of personal information is published under subsection (4).
 
 **Additional information**
 
 - **(3)** To confirm that the purpose referred to in paragraph (2)(j) is one of the party’s fundamental purposes, the Chief Electoral Officer may ask the party’s leader to provide any relevant information, including information about the factors described in subsection 521.1(5).
-> 2000, c. 9, s. 385; 2003, c. 19, s. 13; 2004, c. 24, s. 16; 2014, c. 12, s. 86.
+
+**Publication of policy for the protection of personal information**
+
+- **(4)** A political party shall publish on its Internet site its policy for the protection of personal information referred to in paragraph (2)(k) before its leader applies under this section for the party to become a registered party.
+> 2000, c. 9, s. 385; 2003, c. 19, s. 13; 2004, c. 24, s. 16; 2014, c. 12, s. 86; 2018, c. 31, s. 254.
 
 
 
 
-**385.1** [Repealed, 2014, c. 12, s. 86]
+
+**Policy for the protection of personal information — parties already registered, etc.**
+
+**385.1** 
+
+- **(1)** Within three months after the day on which this section comes into force, the leader of a political party shall provide the Chief Electoral Officer with the party’s policy for the protection of personal information referred to in paragraph 385(2)(k) and the Internet address referred to in paragraph 385(2)(l), if
+	- **(a)** before the day on which this section comes into force, the leader of the party has applied under section 385 for the party to become a registered party but, as of that day, the Chief Electoral Officer has not yet informed the leader under subsection 389(1) whether or not the party is eligible for registration under section 387; or
+	- **(b)** on the day on which this section comes into force, the party is
+		- **(i)** an eligible party, or
+		- **(ii)** a registered party.
+
+**Failure to comply**
+
+- **(2)** If the leader of the political party does not comply with subsection (1), then
+	- **(a)** in the case of a party referred to in paragraph (1)(a), the party is not eligible for registration under section 387;
+	- **(b)** in the case of a party referred to in subparagraph (1)(b)(i), the party may not become a registered party under section 390; and
+	- **(c)** in the case of a party referred to in subparagraph (1)(b)(ii), the Chief Electoral Officer shall implement the procedure for non-voluntary deregistration set out in sections 415, 416 and 418.
+
+**Deemed inclusion in application for registration**
+
+- **(3)** If the leader of a political party provides the Chief Electoral Officer with the policy and the address referred to in subsection (1) in compliance with that subsection, or in compliance with section 415, then the policy and the address are deemed, as of the day on which they are provided, to be included in the application for registration referred to in subsection 385(2) in respect of the party.
+> 2004, c. 24, s. 16; 2014, c. 12, s. 86; 2018, c. 31, s. 255.
+
 
 
 
@@ -8357,8 +8455,8 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **Registry of political parties**
 
-**394** The Chief Electoral Officer shall maintain a registry of political parties that contains the information referred to in paragraphs 385(2)(a) to (h) and subsections 396(2) and 418(2).
-> 2000, c. 9, s. 394; 2014, c. 12, s. 86.
+**394** The Chief Electoral Officer shall maintain a registry of political parties that contains the information referred to in paragraphs 385(2)(a) to (h), (k) and (l) and subsections 396(2) and 418(2).
+> 2000, c. 9, s. 394; 2014, c. 12, s. 86; 2018, c. 31, s. 257.
 
 
 
@@ -8757,7 +8855,12 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 
-**405.1** [Repealed, 2014, c. 12, s. 86]
+
+**Publication of changes to policy for the protection of personal information**
+
+**405.1** As soon as feasible after reporting a change in its policy for the protection of personal information to the Chief Electoral Officer in writing under subsection 405(1), a registered party or an eligible party shall publish on its Internet site the updated version of the policy, incorporating the change set out in the report.
+> 2003, c. 19, s. 25; 2006, c. 9, s. 47; 2014, c. 12, ss. 81, 86; 2018, c. 31, s. 258.
+
 
 
 
@@ -8896,17 +8999,27 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **Deregistration — failure to provide documents**
 
-**412** The Chief Electoral Officer may deregister a registered party if the party fails to provide
-- **(a)** any of the documents referred to in section 392;
-- **(b)** a report under subsection 396(2) concerning the appointment of a registered agent;
-- **(c)** any of the documents referred to in subsection 400(2) or 405(1) or (4) with respect to a replacement of its auditor or chief agent;
-- **(d)** either of the documents referred to in subsections 405(1) and (3) with respect to a change of its leader;
-- **(e)** a report in accordance with subsection 405(2) of a change in the registered information on its name, short-form name, abbreviation or logo mentioned in paragraphs 385(2)(a) to (c);
-- **(f)** a report under subsection 405(1) concerning a change in any other registered information;
-- **(g)** confirmation under subsection 406(1) or section 407 of the validity of the registered information;
-- **(h)** a report that is required to be filed under subsection 476.1(1) by the registered party; or
-- **(i)** a statement that is required under subsection 478.1(1) or (2).
-> 2000, c. 9, s. 412; 2003, c. 19, s. 30; 2014, c. 12, s. 86.
+**412** 
+
+- **(1)** The Chief Electoral Officer may deregister a registered party if the party fails to provide
+	- **(a)** any of the documents referred to in section 392;
+	- **(b)** a report under subsection 396(2) concerning the appointment of a registered agent;
+	- **(c)** any of the documents referred to in subsection 400(2) or 405(1) or (4) with respect to a replacement of its auditor or chief agent;
+	- **(d)** either of the documents referred to in subsections 405(1) and (3) with respect to a change of its leader;
+	- **(e)** a report in accordance with subsection 405(2) of a change in the registered information on its name, short-form name, abbreviation or logo mentioned in paragraphs 385(2)(a) to (c);
+	- **(f)** a report under subsection 405(1) concerning a change in any other registered information;
+	- **(g)** confirmation under subsection 406(1) or section 407 of the validity of the registered information;
+	- **(h)** a report that is required to be filed under subsection 476.1(1) by the registered party; or
+	- **(i)** a statement that is required under subsection 478.1(1) or (2).
+
+**Deregistration — failure to publish updated policy for the protection of personal information**
+
+- **(2)** The Chief Electoral Officer may deregister a registered party if the party fails to publish an updated version of its policy for the protection of personal information on its Internet site in accordance with section 405.1.
+
+**Deregistration — failure to continue to have policy for the protection of personal information**
+
+- **(3)** The Chief Electoral Officer may deregister a registered party if the party fails to continue to have a policy for the protection of personal information referred to in paragraph 385(2)(k).
+> 2000, c. 9, s. 412; 2003, c. 19, s. 30; 2014, c. 12, s. 86; 2018, c. 31, s. 260.
 
 
 
@@ -13698,7 +13811,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-#### Offences under Part 4 (Register of Electors)
+#### Offences under Part 4 (Register of Electors and Register of Future Electors)
 
 
 
@@ -13706,11 +13819,13 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **485** 
 
-- **(1)** Every person who contravenes paragraph 56(e) (unauthorized use of personal information recorded in Register of Electors) is guilty of an offence.
+- **(1)** Every person who contravenes paragraph 56(e) or (e.1) (unauthorized use of personal information recorded in Register of Electors or Register of Future Electors) is guilty of an offence.
 
 **Offences requiring intent — dual procedure**
 
-- **(2)** Every person who contravenes any of paragraphs 56(a) to (d) (forbidden acts re Register of Electors) is guilty of an offence.
+- **(2)** Every person who contravenes any of paragraphs 56(a) to (d) (forbidden acts re Register of Electors or Register of Future Electors) is guilty of an offence.
+> 2000, c. 9, s. 485; 2018, c. 31, s. 326.
+
 
 
 
@@ -14753,20 +14868,20 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-**Position within Office of the Director of Public Prosecutions**
+**Position within Office of Chief Electoral Officer**
 
 **509.1** 
 
-- **(1)** The position of Commissioner of Canada Elections is within the Office of the Director of Public Prosecutions.
+- **(1)** The position of Commissioner of Canada Elections is within the Office of the Chief Electoral Officer.
 
 **Deputy head — [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
-- **(2)** For the purposes of sections 11 to 13 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Commissioner is the deputy head in relation to the portions of the federal public administration in the Office of the Director of Public Prosecutions in which the employees referred to in section 509.3 occupy their positions.
+- **(2)** For the purposes of sections 11 to 13 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Commissioner is the deputy head in relation to the portions of the federal public administration in the Office of the Chief Electoral Officer in which the employees referred to in section 509.3 occupy their positions.
 
 **Deputy head — [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
 
-- **(3)** For the purposes of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Commissioner is the deputy head in relation to the portions of the federal public administration in the Office of the Director of Public Prosecutions in which the employees referred to in section 509.3 occupy their positions.
-> 2014, c. 12, s. 108.
+- **(3)** For the purposes of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Commissioner is the deputy head in relation to the portions of the federal public administration in the Office of the Chief Electoral Officer in which the employees referred to in section 509.3 occupy their positions.
+> 2014, c. 12, s. 108; 2018, c. 31, s. 352.
 
 
 
@@ -14774,8 +14889,37 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Duty**
 
-**509.2** The Commissioner’s duty is to ensure that this Act, other than Division 1.1 of Part 16.1, is complied with and enforced.
-> 2014, c. 12, ss. 108, 157.
+**509.2** The Commissioner’s duty is to ensure that this Act, other than Division 1.1 of Part 16.1, is complied with and enforced by taking any measure that is provided for in this Act, including by
+- **(a)** conducting investigations;
+- **(b)** instituting prosecutions for offences under this Act;
+- **(c)** entering into compliance agreements;
+- **(d)** [Not in force]
+- **(e)** [Not in force]
+> 2014, c. 12, ss. 108, 157; 2018, c. 31, s. 352.
+
+
+
+
+
+**Independence**
+
+**509.21** 
+
+- **(1)** All decisions made and actions taken by the Commissioner under any provision of Part 19 are to be made or taken independently of the Chief Electoral Officer.
+
+**Clarification**
+
+- **(2)** Nothing in subsection (1) precludes the Commissioner from consulting with the Chief Electoral Officer in respect of any matter if the Commissioner considers it appropriate to do so.
+> 2018, c. 31, s. 352.
+
+
+
+
+
+**Power to take measures**
+
+**509.22** The Commissioner, if he or she considers it to be in the public interest, may take any measures, including incurring any expenses, when exercising or performing any of his or her powers, duties and functions under this Part.
+> 2018, c. 31, s. 352.
 
 
 
@@ -14811,8 +14955,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Authorization to assist**
 
-**509.5** The Commissioner may authorize a person employed in the Office of the Director of Public Prosecutions to assist him or her in the exercise or performance of any of his or her powers, duties and functions arising from subsections 509.1(2) and (3) and in the exercise of his or her power under section 509.4, subject to the terms and conditions that the Commissioner sets.
-> 2014, c. 12, s. 108.
+**509.5** The Commissioner may authorize a person employed in the Office of the Chief Electoral Officer to assist the Commissioner in the exercise or performance of any of his or her powers, duties and functions arising from subsections 509.1(2) and (3) and in the exercise of his or her power under section 509.4, subject to the terms and conditions that the Commissioner sets.
+> 2014, c. 12, s. 108; 2018, c. 31, s. 353.
 
 
 
@@ -14824,16 +14968,16 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Amounts to be paid out of C.R.F.**
 
-**509.6** The following shall be paid out of unappropriated moneys forming part of the Consolidated Revenue Fund on the certificate of the Director of Public Prosecutions:
+**509.6** The following shall be paid out of unappropriated moneys forming part of the Consolidated Revenue Fund on the certificate of the Chief Electoral Officer:
 - **(a)** the remuneration paid to the Commissioner or to a person employed under subsection 509.3(2) and any additional remuneration paid to employees referred to in subsection 509.3(1) for overtime work to enable the Commissioner to exercise or perform his or her powers, duties and functions under this Act; and
 - **(b)** any expenses incurred by, on behalf of or in relation to the Commissioner under any other provision of this Part.
-> 2014, c. 12, s. 108.
+> 2014, c. 12, s. 108; 2018, c. 31, s. 354.
 
 
 
 
 
-### Investigations and Prosecutions
+### Investigations
 
 
 
@@ -14998,7 +15142,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 - **(2)** The Commissioner may disclose or may authorize any person acting under his or her direction to disclose
 	- **(a)** with the consent of the person in question, the name of any of the following: the complainant, if any, the person whose conduct is being investigated and any witness;
 	- **(b)** information that, in the Commissioner’s opinion, is necessary to carry out an investigation;
-	- **(c)** when a matter is referred to the Director of Public Prosecutions under subsection 511(1), information that the Director of Public Prosecutions requires;
+	- **(c)** when a prosecution has been instituted under subsection 511(1), information that the Director of Public Prosecutions requires;
 	- **(d)** information that is required to be disclosed in the course of a prosecution for an offence under this Act;
 	- **(e)** information that is required to be disclosed under any other Act of Parliament;
 	- **(f)** information that, in the Commissioner’s opinion, is necessary in order to enter into or renegotiate a compliance agreement; and
@@ -15010,26 +15154,26 @@ The contestant shall notify the Chief Electoral Officer that the application has
 	- **(a)** the privacy rights of any person who is the subject of the disclosure;
 	- **(b)** the right of the person under investigation to be presumed innocent until proved guilty according to law; and
 	- **(c)** public confidence in the fairness of the electoral process.
-> 2014, c. 12, s. 108.
+> 2014, c. 12, s. 108; 2018, c. 31, s. 358.
 
 
 
 
 
-**Director of Public Prosecutions may prosecute**
+### Prosecutions
+
+
+
+**Commissioner may institute a prosecution**
 
 **511** 
 
-- **(1)** If the Commissioner believes on reasonable grounds that an offence under this Act has been committed, the Commissioner may refer the matter to the Director of Public Prosecutions who shall decide whether to initiate a prosecution.
+- **(1)** If the Commissioner believes on reasonable grounds that an offence under this Act has been committed, the Commissioner may institute a prosecution or cause one to be instituted.
 
 **Information**
 
-- **(2)** If the Director decides to initiate a prosecution, the Director shall request the Commissioner to cause an information in writing and under oath or solemn declaration to be laid before a justice, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-
-**Search and seizure**
-
-- **(3)** For the purposes of section 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), any person charged by the Commissioner with duties relating to the administration or enforcement of this Act is deemed to be a public officer.
-> 2000, c. 9, s. 511; 2003, c. 19, s. 62; 2006, c. 9, s. 130.
+- **(2)** A prosecution for an offence under this Act is instituted by the laying of an information in writing and under oath before a justice, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2000, c. 9, s. 511; 2003, c. 19, s. 62; 2006, c. 9, s. 130; 2018, c. 31, s. 360.
 
 
 
@@ -15039,7 +15183,7 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **512** 
 
-- **(1)** No prosecution for an offence under this Act may be instituted by a person other than the Director of Public Prosecutions without the Director’s prior written consent.
+- **(1)** No prosecution for an offence under this Act may be instituted by a person, other than the Commissioner or a person acting under his or her direction, without the prior written consent of the Director of Public Prosecutions provided after consultation with the Commissioner.
 
 **Exception**
 
@@ -15048,17 +15192,12 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Proof of consent**
 
 - **(3)** Every document purporting to be the Director’s consent under subsection (1) is deemed to be that consent unless it is called into question by the Director or by someone acting for the Director or for Her Majesty.
-> 2000, c. 9, s. 512; 2006, c. 9, s. 131.
+> 2000, c. 9, s. 512; 2006, c. 9, s. 131; 2018, c. 31, s. 361.
 
 
 
 
-
-**Commissioner may intervene**
-
-**513** The Commissioner, where he or she considers it to be in the public interest, may take any measures, including incurring any expenses, in relation to an inquiry, injunction or compliance agreement under this Act.
-> 2000, c. 9, s. 513; 2006, c. 9, s. 132.
-
+**513** [Repealed, 2018, c. 31, s. 362]
 
 
 
@@ -15126,50 +15265,50 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 
-**Compliance agreements**
+**Power to enter into compliance agreement**
 
 **517** 
 
-- **(1)** Subject to subsection (7), if the Commissioner believes on reasonable grounds that a person has committed, is about to commit or is likely to commit an act or omission that could constitute an offence under this Act, the Commissioner may enter into a compliance agreement, aimed at ensuring compliance with this Act, with that person (in this section and sections 518 to 521 called the “contracting party”).
+- **(1)** Subject to subsection (7), if the Commissioner believes on reasonable grounds that a person or entity has committed, is about to commit or is likely to commit an act or omission that could constitute an offence under this Act, the Commissioner may enter into a compliance agreement, aimed at ensuring compliance with this Act, with the person or entity (in this section and sections 518 to 521 called the “contracting party”).
 
 **Terms and conditions**
 
-- **(2)** A compliance agreement may contain any terms and conditions that the Commissioner considers necessary to ensure compliance with this Act.
+- **(2)** A compliance agreement may contain any terms and conditions that the Commissioner considers necessary, including a requirement that the contracting party pay a specified amount.
 
 **Obligations of Commissioner**
 
 - **(3)** Before entering into a compliance agreement, the Commissioner shall
-	- **(a)** advise the prospective contracting party of the right to be represented by counsel and give him or her an opportunity to obtain counsel; and
+	- **(a)** advise the prospective contracting party of the right to be represented by counsel and give it an opportunity to obtain counsel; and
 	- **(b)** obtain the consent of the prospective contracting party to the publication of the agreement under section 521.
 
 **Admission of responsibility**
 
-- **(4)** A compliance agreement may include a statement by the contracting party in which he or she admits responsibility for the act or omission that constitutes the offence.
+- **(4)** A compliance agreement may include a statement by the contracting party in which it admits responsibility for the act or omission that constitutes the offence.
 
 **Inadmissible in evidence**
 
 - **(5)** The fact that a compliance agreement was entered into, and any statement referred to in subsection (4), is not admissible in evidence against the contracting party in any civil or criminal proceedings.
 
-**Effect of compliance agreement — no referral**
+- **(6)** [Repealed, 2018, c. 31, s. 363]
 
-- **(6)** If a matter has not yet been referred to the Director of Public Prosecutions when a compliance agreement is entered into, no such referral may be made for an act or omission that led to the agreement unless there is non-compliance with it.
+**Remittal of matter despite institution of prosecution**
 
-**Matter that has been referred**
-
-- **(7)** If a matter has already been referred to the Director of Public Prosecutions, whether or not a prosecution has been initiated, the Director may — if, after consultation with the Commissioner, the Director considers that a compliance agreement would better serve the public interest — remit the matter back to the Commissioner so that it may be so dealt with.
+- **(7)** If a prosecution has been instituted, the Director of Public Prosecutions may — if, after consultation with the Commissioner, the Director considers that a compliance agreement would better serve the public interest — suspend the prosecution and remit the matter back to the Commissioner so that it may be dealt with in that way.
 
 **Effect of compliance agreement**
 
-- **(8)** When a compliance agreement is entered into, any prosecution of the contracting party for an act or omission that led to it is suspended and, unless there is non-compliance with it, the Director of Public Prosecutions may not institute such a prosecution.
+- **(8)** When a compliance agreement is entered into,
+	- **(a)** no prosecution may be instituted against the contracting party for an act or omission that led to the agreement unless there is non-compliance with it; and
+	- **(b)** any prosecution of the contracting party instituted before the agreement was entered into for an act or omission that led to the agreement is suspended unless there is non-compliance with the agreement.
 
 **Renegotiation**
 
 - **(9)** The Commissioner and the contracting party may renegotiate the terms of the compliance agreement at the request of the Commissioner or contracting party at any time before it is fully executed.
 
-**Copy to be provided**
+**Copy**
 
-- **(10)** The Commissioner shall provide the contracting party with a copy of a compliance agreement, without delay after it is entered into or renegotiated under subsection (9). If the matter has been referred to the Director of Public Prosecutions, the Commissioner shall also provide a copy of the compliance agreement to the Director.
-> 2000, c. 9, s. 517; 2001, c. 21, s. 25(E); 2006, c. 9, s. 133.
+- **(10)** The Commissioner shall provide the contracting party with a copy of the compliance agreement, without delay after it is entered into or renegotiated under subsection (9). The Commissioner shall also provide a copy of the compliance agreement to the Director of Public Prosecutions if a prosecution of the contracting party had been instituted before the agreement was entered into.
+> 2000, c. 9, s. 517; 2001, c. 21, s. 25(E); 2006, c. 9, s. 133; 2018, c. 31, s. 363.
 
 
 
@@ -15179,12 +15318,12 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **518** 
 
-- **(1)** If the Commissioner is of the opinion that the compliance agreement has been complied with, the Commissioner shall cause a notice to that effect to be served on the contracting party. If the matter has been referred to the Director of Public Prosecutions, the Commissioner shall also provide a copy of the notice to the Director.
+- **(1)** If the Commissioner is of the opinion that the compliance agreement has been complied with, the Commissioner shall cause a notice to that effect to be served on the contracting party. The Commissioner shall also provide a copy of the notice to the Director of Public Prosecutions if a prosecution of the contracting party for an act or omission that led to the agreement had been instituted before the agreement was entered into.
 
-**Effect of notice**
+**Effect of service**
 
-- **(2)** Service of the notice terminates any prosecution of the contracting party that is based on the act or omission in question and prevents the Commissioner from referring the matter to the Director of Public Prosecutions and the Director from instituting such a prosecution.
-> 2000, c. 9, s. 518; 2006, c. 9, s. 134.
+- **(2)** Service of the notice terminates any prosecution of the contracting party that is based on the act or omission in question and prevents the institution of any prosecution of the contracting party for the act or omission.
+> 2000, c. 9, s. 518; 2006, c. 9, s. 134; 2018, c. 31, s. 364.
 
 
 
@@ -15192,8 +15331,17 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **If agreement not complied with**
 
-**519** If the Commissioner is of the opinion that a contracting party has not complied with a compliance agreement, the Commissioner shall cause a notice of default to be served on the contracting party, informing him or her that, as the case may be, the Commissioner may refer the matter to the Director of Public Prosecutions for any action the Director considers appropriate or, if a prosecution was suspended by virtue of subsection 517(8), it may be resumed. If the matter has been referred to the Director of Public Prosecutions, the Commissioner shall also provide a copy of the notice to the Director.
-> 2000, c. 9, s. 519; 2006, c. 9, s. 134.
+**519** 
+
+- **(1)** If the Commissioner is of the opinion that a contracting party has not complied with a provision of a compliance agreement, the Commissioner shall cause a notice of default to be served on the contracting party, informing it that, as the case may be,
+	- **(a)** [Not in force]
+	- **(b)** a prosecution may be instituted against the contracting party in respect of any act or omission that led to the agreement; or
+	- **(c)** if a prosecution in respect of any act or omission that led to the agreement was suspended by virtue of subsection 517(8), it may be resumed.
+
+**Copy to Director of Public Prosecutions**
+
+- **(2)** The Commissioner shall also provide a copy of the notice to the Director of Public Prosecutions if a prosecution in respect of any act or omission that led to the agreement had been instituted before the agreement was entered into.
+> 2000, c. 9, s. 519; 2006, c. 9, s. 134; 2018, c. 31, s. 364.
 
 
 
@@ -15201,15 +15349,17 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Dismissal of proceedings**
 
-**520** The court shall dismiss proceedings against a contracting party if it is satisfied on a balance of probabilities that he or she has totally complied with the compliance agreement or, in the case of partial compliance and taking into account the contracting party’s performance with respect to the agreement, is of the opinion that the proceedings would be unfair.
+**520** The court shall dismiss proceedings against a contracting party if it is satisfied on a balance of probabilities that the contracting party has totally complied with the compliance agreement or, in the case of partial compliance and taking into account the contracting party’s performance with respect to the agreement, is of the opinion that the proceedings would be unfair.
+> 2000, c. 9, s. 520; 2018, c. 31, s. 364.
+
 
 
 
 
 **Publication**
 
-**521** The Commissioner shall publish, in the manner and form that he or she considers appropriate, a notice that sets out the contracting party’s name, the act or omission in question and the text — other than the parties’ signatures — of the compliance agreement.
-> 2000, c. 9, s. 521; 2014, c. 12, s. 110.
+**521** The Commissioner shall publish, in the manner and form that he or she considers appropriate, a notice that sets out the contracting party’s name, the act or omission in question and the text of the compliance agreement, other than the signatures of the individuals who signed it.
+> 2000, c. 9, s. 521; 2014, c. 12, s. 110; 2018, c. 31, s. 364.
 
 
 
@@ -15257,6 +15407,44 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 - **(7)** If a chief agent, a financial agent or a person specified by the court is, under subsection (3), directed to liquidate, they shall carry out the liquidation in accordance with subsections 501(4) to (7).
 > 2004, c. 24, s. 23.
+
+
+
+
+
+**Debts to Her Majesty**
+
+**521.31** 
+
+- **(1)** The following amounts constitute debts due to Her Majesty in right of Canada that may be recovered in the Federal Court:
+	- **(a)** if a person or entity has entered into a compliance agreement with the Commissioner under the terms of which the person or entity is to pay an amount to the Receiver General, any portion of that amount that remains unpaid after the expiry of the time set out in the agreement to pay that amount;
+	- **(b)** [Not in force]
+	- **(c)** [Not in force]
+	- **(d)** [Not in force]
+
+**Limitation period or prescription**
+
+- **(2)** No proceedings to recover a debt referred to in subsection (1) may be commenced after the expiry of five years after the day on which the debt became payable.
+
+**Debt final**
+
+- **(3)** A debt referred to in subsection (1) is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with.
+> 2018, c. 31, s. 365.
+
+
+
+
+
+**Certificate of default**
+
+**521.32** 
+
+- **(1)** Any debt referred to in subsection 521.31(1) in respect of which there is a default of payment, or the part of any such debt that has not been paid, may be certified by the Commissioner.
+
+**Judgment**
+
+- **(2)** A certificate made under subsection (1) that is registered in Federal Court has the same force and effect as if it were a judgment obtained in that Court for a debt of the amount specified in it and all reasonable costs and charges associated with the registration of the certificate and all proceedings may be taken in respect of the certificate.
+> 2018, c. 31, s. 365.
 
 
 
@@ -15461,7 +15649,9 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Report on proposed legislative amendments**
 
-**535** The Chief Electoral Officer shall, as soon as possible after a general election, make a report to the Speaker of the House of Commons that sets out any amendments that, in his or her opinion, are desirable for the better administration of this Act.
+**535** The Chief Electoral Officer shall, as soon as possible after a general election, make a report to the Speaker of the House of Commons that sets out any amendments that, in his or her opinion, are desirable for the better administration of this Act, and that also sets out, separately, any amendments that are set out in the Commissioner’s report under section 537.2.
+> 2000, c. 9, s. 535; 2018, c. 31, s. 366.
+
 
 
 
@@ -15515,6 +15705,28 @@ The contestant shall notify the Chief Electoral Officer that the application has
 **Inclusion in a report**
 
 - **(2)** If the Chief Electoral Officer considers it appropriate, the Chief Electoral Officer may include in a report referred to in section 534 or 535 any document or a part or a summary of one that relates to a complaint or suggestion received under subsection (1).
+
+
+
+
+### Report of Commissioner
+
+
+
+**Annual report**
+
+**537.1** The Commissioner shall, as soon as possible after the end of each year, publish, in the manner and form that he or she considers appropriate, a report on the activities of his or her office during that year. The Commissioner shall not include the details of any investigation.
+> 2018, c. 31, s. 367.
+
+
+
+
+
+**Report on proposed legislative amendments**
+
+**537.2** The Commissioner shall, as soon as possible after a general election, make a report to the Chief Electoral Officer that sets out any amendments that, in the Commissioner’s opinion, are desirable for better compliance with, and the better enforcement of, this Act.
+> 2018, c. 31, s. 367.
+
 
 
 
@@ -15574,6 +15786,15 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 
 ### Custody of Election Documents and Documents Relating to the Register of Electors
+
+
+
+**Reference**
+
+**539.1** In section 540, a reference to the Register of Electors includes a reference to the Register of Future Electors.
+> 2018, c. 31, s. 369.1.
+
+
 
 
 
