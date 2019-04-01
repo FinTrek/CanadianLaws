@@ -1913,9 +1913,14 @@ Une organisation doit faire enquête sur toutes les plaintes. Si une plainte est
 <td>[Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)</td>
 <td>Paragraphe 254(1)</td>
 </tr>
+<tr>
+<td>3</td>
+<td>[Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md)</td>
+<td>Paragraphe 3(2)</td>
+</tr>
 </table>
 
-> 2000, ch. 5, ann. 2; DORS/2004-309, art. 1; DORS/2008-114.
+> 2000, ch. 5, ann. 2; DORS/2004-309, art. 1; DORS/2008-114; DORS/2019-84, art. 1.
 
 
 
