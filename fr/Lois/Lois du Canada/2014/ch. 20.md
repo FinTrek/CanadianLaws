@@ -545,7 +545,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **102** 
 
-- **(1)** Est versée à la personne qui a reçu une allocation pour perte de revenus en vertu des paragraphes 18(1) ou 22(1) de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md) pour la période commençant le 29 mai 2012 et se terminant le 30 septembre 2012 — ou qui aurait été admissible à recevoir une telle allocation si la pension d’invalidité lui ayant été versée en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour cette période n’avait pas été prise en compte — la somme correspondant au résultat du calcul suivant :
+- **(1)** Est versée à la personne qui a reçu une allocation pour perte de revenus en vertu des paragraphes 18(1) ou 22(1) de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md), dans sa version antérieure au 1<sup>er</sup> avril 2019, pour la période commençant le 29 mai 2012 et se terminant le 30 septembre 2012 — ou qui aurait été admissible à recevoir une telle allocation si la pension d’invalidité lui ayant été versée en vertu de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour cette période n’avait pas été prise en compte — la somme correspondant au résultat du calcul suivant :
 ```
 A – B – C
 ```
@@ -556,8 +556,8 @@ où :
 
 **Versement**
 
-- **(2)** Toute somme versée ou à verser au titre du paragraphe (1) est réputée être une allocation pour perte de revenus versée ou à verser en vertu de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md).
-> 2014, ch. 20, art. 102; 2017, ch. 20, art. 292.
+- **(2)** Toute somme versée ou à verser au titre du paragraphe (1) est réputée être une prestation de remplacement du revenu versée ou à verser en vertu de la [Loi sur le bien-être des vétérans](/fr/Lois/Lois%20du%20Canada/2005/ch.%2021.md).
+> 2014, ch. 20, art. 102; 2017, ch. 20, art. 292; 2018, ch. 12, art. 182.
 
 
 
