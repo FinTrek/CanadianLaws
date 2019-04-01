@@ -1934,9 +1934,14 @@ An organization shall investigate all complaints. If a complaint is found to be 
 <td>[Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)</td>
 <td>Subsection 254(1)</td>
 </tr>
+<tr>
+<td>3</td>
+<td>[Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md)</td>
+<td>Subsection 3(2)</td>
+</tr>
 </table>
 
-> 2000, c. 5, Sch. 2; SOR/2004-309, s. 1; SOR/2008-114.
+> 2000, c. 5, Sch. 2; SOR/2004-309, s. 1; SOR/2008-114; SOR/2019-84, s. 1.
 
 
 
