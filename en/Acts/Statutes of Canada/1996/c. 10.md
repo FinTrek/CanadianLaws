@@ -1325,6 +1325,275 @@ The parties may propose revisions to the transaction.
 
 
 
+### Review of Arrangements Involving Two or More Transportation Undertakings Providing Air Services
+
+
+
+**Definitions**
+
+**53.7** The following definitions apply in sections 53.71 to 53.84.
+
+***arrangement*** means an agreement or arrangement, other than a transaction referred to in subsection 53.1(1), involving two or more transportation undertakings providing air services, as defined in subsection 55(1), to, from or within Canada, to coordinate on any aspect of the operation or marketing of such services, including prices, routes, schedules, capacity or ancillary services and to share costs or revenues or other resources or benefits. (*entente*)
+
+***party*** means any person who proposes to enter into or has entered into an arrangement for which a notice has been given under subsection 53.71(1). (*partie*)
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Notice**
+
+**53.71** 
+
+- **(1)** Every person who proposes to enter into an arrangement may notify the Minister of that arrangement. If the person so notifies the Minister, they shall at the same time provide a copy of the notice to the Commissioner of Competition.
+
+**Information**
+
+- **(2)** A notice given under subsection (1) shall contain any information that is required under the guidelines that are issued and published by the Minister, including information that relates to considerations respecting competition.
+
+**Guidelines**
+
+- **(3)** The guidelines referred to in subsection (2) shall be developed in consultation with the Competition Bureau and shall include factors that may be considered by the Minister to determine whether a proposed arrangement raises significant considerations with respect to the public interest under subsection (6) and, if applicable, to render a final decision regarding the arrangement under subsection 53.73(8).
+
+**Not statutory instruments**
+
+- **(4)** The guidelines referred to in subsection (2) are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+
+**Further information**
+
+- **(5)** The Minister or the Commissioner may, after receiving a notice or copy of a notice under subsection (1), require any party to provide further information.
+
+**Minister’s response**
+
+- **(6)** The Minister shall, within 45 days after the day on which he or she receives the notice with the information referred to in subsection (2), inform the parties and the Commissioner as to whether, in his or her opinion, the proposed arrangement raises significant considerations with respect to the public interest.
+
+**No significant public interest considerations**
+
+- **(7)** If the Minister is of the opinion that the proposed arrangement does not raise significant considerations with respect to the public interest, sections 53.72 to 53.79 do not apply to that arrangement.
+
+**Significant public interest considerations**
+
+- **(8)** If the Minister is of the opinion that the proposed arrangement raises significant considerations with respect to the public interest, the arrangement is subject to the review process set out in section 53.73.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Prohibition**
+
+**53.72** If a notice has been given under subsection 53.71(1), the proposed arrangement shall not be completed without the Minister’s authorization under subsection 53.73(8).
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Review process**
+
+**53.73** 
+
+- **(1)** The Minister, or a person designated by the Minister, shall examine the proposed arrangement, if it is subject to the review process.
+
+**Commissioner’s report**
+
+- **(2)** The Commissioner of Competition shall, within 120 days after the day on which he or she receives a copy of the notice under subsection 53.71(1) with the information referred to in subsection 53.71(2), report to the Minister and the parties on any concerns regarding potential prevention or lessening of competition that may occur as a result of the proposed arrangement.
+
+**Summary**
+
+- **(3)** Unless a notice is withdrawn or is deemed to have been withdrawn under section 53.8, the Commissioner shall make public a summary of the conclusions of the report that does not include any confidential information.
+
+**Communicating concerns**
+
+- **(4)** The Minister shall, within 150 days after the day on which he or she receives the notice with the information referred to in subsection 53.71(2), report to the parties on any concerns with respect to the public interest that may occur as a result of the proposed arrangement and provide a copy of the report to the Commissioner.
+
+**Measures to address concerns**
+
+- **(5)** The parties shall, within 30 days after the day on which they receive the report under subsection (4), respond in writing to the Minister, addressing any concerns with respect to the public interest and competition raised by the Minister and the Commissioner and informing the Minister, among other things, of any measures they are prepared to undertake to address those concerns. The parties may propose amendments to the arrangement.
+
+**Preliminary decision**
+
+- **(6)** The Minister shall, after consulting with the Commissioner and within 45 days after the day on which he or she receives the response from the parties under subsection (5), render a preliminary decision regarding the proposed arrangement and specify any terms and conditions relating to the public interest and competition under which an authorization could be given under subsection (8).
+
+**Response to preliminary decision**
+
+- **(7)** The parties shall, within 30 days after the day on which they receive the Minister’s preliminary decision, provide a response in writing to the Minister and the response may include proposed amendments to the terms and conditions specified in the decision.
+
+**Final decision**
+
+- **(8)** The Minister shall, within 30 days after the day on which he or she receives a response from the parties under subsection (7), render a final decision and make public a summary of that decision that does not include any confidential information. The Minister may, if satisfied that the proposed arrangement is in the public interest, authorize it and specify any terms and conditions relating to the public interest and competition that the Minister considers appropriate.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Canadian**
+
+**53.74** An authorization given by the Minister under subsection 53.73(8) does not affect any requirement that a transportation undertaking providing air services, as defined in subsection 55(1), be Canadian, as defined in that subsection.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Varying or rescinding terms and conditions**
+
+**53.75** On application by any party who is subject to terms and conditions of an authorization, the Minister may, after consulting with the Commissioner of Competition, vary or rescind the terms and conditions and shall make public a summary of that decision that does not include any confidential information.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Proposed amendment to arrangement**
+
+**53.76** 
+
+- **(1)** The parties to an authorized arrangement may propose an amendment to that arrangement to the Minister and he or she may, after consulting with the Commissioner of Competition and considering the significance of the amendment,
+	- **(a)** authorize the amendment, subject to any terms and conditions that the Minister may impose; or
+	- **(b)** require the parties to submit a new notice under subsection 53.71(1) for review of the proposed amended arrangement, unless the parties decide not to proceed with the amendment.
+
+**No confidential information made public**
+
+- **(2)** If the Minister authorizes the amendment under paragraph (1)(a), he or she shall make public a summary of that decision that does not include any confidential information.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Concerns regarding authorized arrangement**
+
+**53.77** 
+
+- **(1)** The Minister may, at any time after the second anniversary of the day on which an arrangement is authorized, notify the parties of any concerns raised by the arrangement with respect to the public interest and competition.
+
+**Measures to address concerns**
+
+- **(2)** The parties shall, within 45 days after the day on which they receive the notice under subsection (1), provide a response in writing to the Minister, specifying, among other things, any measures they are prepared to undertake to address those concerns. The parties may propose amendments to the arrangement.
+
+**Continuing the authorization**
+
+- **(3)** If, after consulting with the Commissioner, the Minister determines that the arrangement is still in the public interest, the authorization is continued subject to any new or amended terms and conditions specified by the Minister to address the concerns referred to in subsection (1).
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Obligation to comply with terms and conditions**
+
+**53.78** Every person who is subject to terms and conditions under subsection 53.73(8), section 53.75, paragraph 53.76(a) or subsection 53.77(3) shall comply with them.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Revoking authorization — false or misleading information**
+
+**53.79** 
+
+- **(1)** The Minister may revoke an authorization at any time if it was granted on the basis of information that is false or misleading in a material respect or if the parties fail to comply with any of the authorization’s terms or conditions.
+
+**Revoking authorization — other grounds**
+
+- **(2)** The Minister may also revoke the authorization of an arrangement if
+	- **(a)** that arrangement is significantly amended without prior authorization; or
+	- **(b)** the Minister, after considering any response of the parties to the concerns raised under subsection 53.77(1), is no longer satisfied that the arrangement is in the public interest.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Withdrawing notice**
+
+**53.8** 
+
+- **(1)** A notice given under subsection 53.71(1) may be withdrawn at any time before a final decision is rendered under subsection 53.73(8).
+
+**Deemed withdrawal**
+
+- **(2)** A notice is deemed to have been withdrawn if the parties fail to respond to the Minister within any period specified in subsection 53.73(5) or (7) or any extended period, as the case may be.
+
+**Effect of withdrawal**
+
+- **(3)** If a notice given under subsection 53.71(1) is withdrawn or is deemed to have been withdrawn, section 53.72 no longer applies to the proposed arrangement.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Extension of time**
+
+**53.81** The Minister may, at the request of the parties or on the Minister’s own initiative, extend any period specified in section 53.71, 53.73 or 53.77 if the Minister considers it appropriate in the circumstances, including when the arrangement is exceptionally complex.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Order**
+
+**53.82** If a person contravenes sections 53.72 or 53.78, a superior court may, on application by the Minister, order the person to cease the contravention or do any thing that is required to be done, and may make any other order that it considers appropriate, including an order requiring the divestiture of assets. The Minister shall notify the Commissioner of Competition before making an application.
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Offence — section 53.72 or 53.78**
+
+**53.83** 
+
+- **(1)** Every person who contravenes section 53.72 or 53.78 is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years or to a fine of not more than $10,000,000, or to both.
+
+**Continuing offence**
+
+- **(2)** If an offence under subsection (1) for the contravention of section 53.78 is committed or continued on more than one day, the person who commits it is liable to be convicted for a separate offence for each day on which it is committed or continued.
+
+**Officers, etc., of corporations**
+
+- **(3)** If a corporation commits an offence under subsection (1), any officer, director or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+
+**Sections 174 and 175 do not apply**
+
+- **(4)** Sections 174 and 175 do not apply in respect of an offence committed under subsection (1).
+> 2018, c. 10, s. 14.
+
+
+
+
+
+**Cost recovery**
+
+**53.84** 
+
+- **(1)** The Governor in Council may make regulations respecting
+	- **(a)** the fees to be paid by the parties to an arrangement for any activities undertaken by the Minister under sections 53.71 to 53.76 that are related to the arrangement, including the method of calculating the fees; and
+	- **(b)** the refund of all or part of any fee referred to in paragraph (a), including the method of calculating the refund.
+
+**Amounts not to exceed cost**
+
+- **(2)** The fees referred to in paragraph (1)(a) shall not exceed the costs related to the activities undertaken by the Minister under sections 53.71 to 53.76 that are related to the arrangement.
+
+**Remittance of fees and charges**
+
+- **(3)** The fees paid in accordance with regulations made under subsection (1) shall be deposited to the credit of the Receiver General in the time and manner prescribed under those regulations.
+
+**Spending authority**
+
+- **(4)** The Minister may spend the amounts deposited under subsection (3) in the fiscal year in which they are paid or in the next fiscal year.
+> 2018, c. 10, s. 14.
+
+
+
+
+
 ### General
 
 
