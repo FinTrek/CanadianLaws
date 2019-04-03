@@ -1319,6 +1319,275 @@ Elles peuvent proposer des modifications à la transaction.
 
 
 
+### Examen des ententes entre au moins deux entreprises de transport offrant des services aériens
+
+
+
+**Définitions**
+
+**53.7** Les définitions qui suivent s’appliquent aux articles 53.71 à 53.84.
+
+***entente*** S’entend d’une entente ou d’un accord, autre qu’une transaction visée au paragraphe 53.1(1), entre au moins deux entreprises de transport qui offrent des services aériens, au sens du paragraphe 55(1), à destination, en provenance ou à l’intérieur du Canada et visant la coordination de tout aspect de l’exploitation ou de la commercialisation de tels services — prix, itinéraires, horaires, capacité, services accessoires ou autres — et le partage des coûts ou des revenus ou autres ressources ou avantages. (*arrangement*)
+
+***partie*** Toute personne se proposant de conclure ou ayant conclu une entente à l’égard de laquelle un avis a été donné au titre du paragraphe 53.71(1). (*party*)
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Avis**
+
+**53.71** 
+
+- **(1)** Les personnes qui se proposent de conclure une entente peuvent donner avis de celle-ci au ministre. Le cas échéant, elles fournissent en même temps une copie de l’avis au commissaire de la concurrence.
+
+**Renseignements**
+
+- **(2)** L’avis donné au titre du paragraphe (1) comprend les renseignements exigés au titre des lignes directrices que le ministre établit et publie. Ces renseignements peuvent notamment porter sur les questions de concurrence.
+
+**Lignes directrices**
+
+- **(3)** Les lignes directrices sont élaborées de concert avec le Bureau de la concurrence et comprennent notamment les facteurs que le ministre peut prendre en compte pour établir si l’entente soulève d’importantes questions d’intérêt public aux termes du paragraphe (6) et, le cas échéant, pour rendre sa décision définitive en application du paragraphe 53.73(8).
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** Les lignes directrices ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+**Renseignements supplémentaires**
+
+- **(5)** Le ministre ou le commissaire peuvent, après réception de l’avis ou de la copie de l’avis, exiger de toute partie qu’elle fournisse des renseignements supplémentaires.
+
+**Réponse du ministre**
+
+- **(6)** Dans les quarante-cinq jours suivant la date de réception de l’avis comportant les renseignements visés au paragraphe (2), le ministre fait savoir aux parties et au commissaire si, selon lui, l’entente soulève d’importantes questions d’intérêt public.
+
+**Aucune importante question d’intérêt public**
+
+- **(7)** Si le ministre estime que l’entente ne soulève aucune importante question d’intérêt public, les articles 53.72 à 53.79 ne s’appliquent pas à l’entente.
+
+**Question importante d’intérêt public**
+
+- **(8)** S’il estime que l’entente soulève d’importantes questions d’intérêt public, celle-ci est soumise au processus d’examen prévu à l’article 53.73.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Interdiction**
+
+**53.72** Lorsqu’un avis a été donné au titre du paragraphe 53.71(1), il est interdit de conclure l’entente visée sans avoir obtenu l’autorisation du ministre au titre du paragraphe 53.73(8).
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Processus d’examen**
+
+**53.73** 
+
+- **(1)** Le ministre ou une personne désignée par lui examine toute entente soumise au processus d’examen.
+
+**Rapport du commissaire de la concurrence**
+
+- **(2)** Dans les cent vingt jours suivant la date de réception de la copie de l’avis visé au paragraphe 53.71(1) comportant les renseignements visés au paragraphe 53.71(2), le commissaire de la concurrence soumet au ministre et aux parties un rapport de ses préoccupations relatives à l’empêchement ou à la diminution de la concurrence qui pourrait résulter de l’entente visée.
+
+**Sommaire**
+
+- **(3)** Sauf si l’avis a été retiré ou est réputé avoir été retiré aux termes de l’article 53.8, le commissaire rend public un sommaire qui fait état des conclusions du rapport et qui ne comporte aucun renseignement confidentiel.
+
+**Communication des préoccupations**
+
+- **(4)** Dans les cent cinquante jours suivant la date de réception de l’avis comportant les renseignements visés au paragraphe 53.71(2), le ministre fait rapport aux parties des préoccupations d’intérêt public soulevées par l’entente et donne copie du rapport au commissaire.
+
+**Prise de mesures par les parties**
+
+- **(5)** Les parties disposent d’un délai de trente jours suivant la date de réception du rapport visé au paragraphe (4) pour répondre au ministre, par écrit, quant aux préoccupations d’intérêt public et de concurrence soulevées par lui et le commissaire et préciser notamment les mesures qu’elles sont disposées à prendre pour y répondre. Elles peuvent proposer des modifications à l’entente.
+
+**Décision préliminaire**
+
+- **(6)** Après consultation du commissaire, dans les quarante-cinq jours suivant la date de réception de la réponse des parties, le ministre rend une décision préliminaire concernant l’entente, dans laquelle il précise les conditions qui portent sur les questions d’intérêt public et de concurrence auxquelles l’autorisation visée au paragraphe (8) pourrait être subordonnée.
+
+**Réponse à la décision préliminaire**
+
+- **(7)** Les parties disposent d’un délai de trente jours suivant la date de réception de la décision préliminaire pour répondre par écrit au ministre. Elles peuvent notamment proposer des modifications aux conditions précisées dans la décision.
+
+**Décision définitive relative à son autorisation**
+
+- **(8)** Dans les trente jours suivant la date de réception de la réponse prévue au paragraphe (7), le ministre rend une décision définitive et rend public un sommaire de sa décision qui ne comporte aucun renseignement confidentiel. Il peut, s’il est convaincu que l’entente servirait l’intérêt public, autoriser celle-ci selon les conditions, portant sur les questions d’intérêt public et de concurrence, qu’il estime indiquées.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Qualité de Canadien**
+
+**53.74** L’autorisation donnée par le ministre en vertu du paragraphe 53.73(8) ne dispense en rien l’entreprise de transport qui offre des services aériens au sens du paragraphe 55(1) de l’exigence d’avoir la qualité de Canadien au sens de ce paragraphe.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Modification ou annulation des conditions**
+
+**53.75** Le ministre peut, après avoir consulté le commissaire de la concurrence, modifier ou annuler les conditions de l’autorisation, à la demande de toute partie tenue de s’y conformer. Il rend public un sommaire de sa décision qui ne comporte aucun renseignement confidentiel.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Modification à une entente autorisée**
+
+**53.76** 
+
+- **(1)** Les parties à une entente autorisée peuvent proposer au ministre une modification à cette entente et ce dernier peut, après consultation du commissaire de la concurrence et eu égard à l’importance de la modification :
+	- **a)** soit autoriser celle-ci aux conditions qu’il impose;
+	- **b)** soit exiger que les parties donnent un nouvel avis au titre du paragraphe 53.71(1) pour examen de l’entente telle qu’elle serait modifiée, sauf si elles décident ne pas donner suite à la modification.
+
+**Aucun renseignement confidentiel rendu public**
+
+- **(2)** S’il autorise la modification au titre de l’alinéa (1)a), le ministre rend public un sommaire de cette décision qui ne comporte aucun renseignement confidentiel.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Préoccupations relatives à une entente autorisée**
+
+**53.77** 
+
+- **(1)** Le ministre peut, en tout temps après le deuxième anniversaire de la date où l’entente a été autorisée, aviser les parties des préoccupations d’intérêt public et de concurrence qu’elle soulève.
+
+**Prise de mesures par les parties**
+
+- **(2)** Les parties disposent d’un délai de quarante-cinq jours suivant la date de réception de l’avis prévu au paragraphe (1) pour répondre par écrit au ministre et préciser notamment les mesures qu’elles sont disposées à prendre pour répondre à ces préoccupations. Elles peuvent proposer des modifications à l’entente.
+
+**Maintien de l’autorisation**
+
+- **(3)** Si, après avoir consulté le commissaire de la concurrence, le ministre décide que l’entente sert toujours l’intérêt public, l’autorisation est maintenue sous réserve des conditions ou des modifications aux conditions existantes qu’il peut préciser pour répondre aux préoccupations visées au paragraphe (1).
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Obligation de se conformer aux conditions**
+
+**53.78** Toute personne assujettie aux conditions visées au paragraphe 53.73(8), à l’article 53.75, à l’alinéa 53.76a) ou au paragraphe 53.77(3) est tenue de s’y conformer.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Révocation de l’autorisation — renseignements faux ou trompeurs**
+
+**53.79** 
+
+- **(1)** Si l’autorisation du ministre a été donnée à la lumière de renseignements qui sont faux ou trompeurs sur un point important ou si les parties omettent de se conformer aux conditions de l’autorisation, celle-ci peut être révoquée par le ministre en tout temps.
+
+**Révocation de l’autorisation — autres motifs**
+
+- **(2)** Le ministre peut aussi révoquer l’autorisation donnée à l’égard d’une entente dans l’un ou l’autre des cas suivants :
+	- **a)** l’entente est modifiée de façon importante sans autorisation préalable;
+	- **b)** le ministre n’est plus convaincu, compte tenu de la réponse des parties aux préoccupations visées au paragraphe 53.77(1), que l’entente sert l’intérêt public.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Retrait de l’avis**
+
+**53.8** 
+
+- **(1)** L’avis donné au titre du paragraphe 53.71(1) peut être retiré en tout temps avant que le ministre ne rende sa décision définitive en application du paragraphe 53.73(8).
+
+**Retrait réputé**
+
+- **(2)** Si les parties ne répondent pas au ministre dans les délais prévus aux paragraphes 53.73(5) ou (7) ou dans le délai prorogé, selon le cas, l’avis est réputé avoir été retiré.
+
+**Conséquence du retrait**
+
+- **(3)** L’article 53.72 cesse de s’appliquer à l’entente à l’égard de laquelle un avis a été donné au titre du paragraphe 53.71(1) si cet avis est retiré ou réputé l’être.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Prorogation des délais**
+
+**53.81** À la demande des parties ou de sa propre initiative, le ministre peut proroger les délais prévus aux articles 53.71, 53.73 ou 53.77 s’il l’estime justifié dans les circonstances, notamment lorsque l’entente est exceptionnellement complexe.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Ordonnance**
+
+**53.82** En cas de contravention aux articles 53.72 ou 53.78, toute cour supérieure peut, à la demande du ministre, enjoindre au contrevenant de mettre fin à la contravention ou d’y remédier et rendre toute autre ordonnance qu’elle estime indiquée, notamment pour obliger une personne à se départir d’éléments d’actif. Le ministre avise le commissaire de la concurrence avant de présenter la demande.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Infraction : articles 53.72 ou 53.78**
+
+**53.83** 
+
+- **(1)** Quiconque contrevient aux articles 53.72 ou 53.78 commet un acte criminel passible d’un emprisonnement maximal de cinq ans et d’une amende maximale de 10 000 000 $, ou de l’une de ces peines.
+
+**Infractions continues**
+
+- **(2)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction visée au paragraphe (1) pour une contravention à l’article 53.78.
+
+**Administrateurs, dirigeants et mandataires**
+
+- **(3)** En cas de perpétration par une personne morale d’une infraction visée au paragraphe (1), ceux de ses administrateurs, dirigeants ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme coauteurs de l’infraction et sont passibles, sur déclaration de culpabilité, de la peine prévue pour l’infraction en cause, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+**Non-application des articles 174 et 175**
+
+- **(4)** Les articles 174 et 175 ne s’appliquent pas à l’infraction visée au paragraphe (1).
+> 2018, ch. 10, art. 14.
+
+
+
+
+
+**Recouvrement des frais**
+
+**53.84** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant :
+	- **a)** les frais à payer par les parties pour les activités exercées par le ministre au titre des articles 53.71 à 53.76 relativement à une entente, notamment leur méthode de calcul;
+	- **b)** le remboursement complet ou partiel des frais visés à l’alinéa a), notamment sa méthode de calcul.
+
+**Limite**
+
+- **(2)** Les frais visés à l’alinéa (1)a) ne peuvent excéder les coûts relatifs aux activités exercées par le ministre au titre des articles 53.71 à 53.76 relativement à l’entente.
+
+**Fonds publics**
+
+- **(3)** Les frais versés conformément aux règlements pris en vertu du paragraphe (1) sont déposés au crédit du receveur général, selon les délais et les modalités qui y sont prévus.
+
+**Dépenses**
+
+- **(4)** Le ministre peut dépenser les sommes ainsi déposées au cours de l’exercice où elles sont versées ou de l’exercice suivant.
+> 2018, ch. 10, art. 14.
+
+
+
+
+
 ### Dispositions générales
 
 
