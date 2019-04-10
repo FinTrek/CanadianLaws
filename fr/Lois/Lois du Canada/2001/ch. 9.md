@@ -39,7 +39,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3. (*Agency*)
 
-***chef du développement de la littératie financière*** La personne nommée en application de l’article 4.1. (*Financial Literacy Leader*)
+***chef du développement de la littératie financière***[Abrogée, 2018, ch. 27, art. 336]
 
 ***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4. (*Commissioner*)
 
@@ -82,7 +82,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*bank holding company*)
 
 ***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*insurance holding company*)
-> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835, ch. 25, art. 156; 2012, ch. 5, art. 217 et 222; 2013, ch. 1, art. 2.
+> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835, ch. 25, art. 156; 2012, ch. 5, art. 217 et 222; 2013, ch. 1, art. 2; 2018, ch. 27, art. 336.
 
 
 
@@ -123,7 +123,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Commissaire de l’agence et chef du développement de la littératie financière
+## Commissaire de l’agence
 
 
 
@@ -161,43 +161,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Nomination du chef du développement de la littératie financière**
-
-**4.1** 
-
-- **(1)** Le gouverneur en conseil nomme le chef du développement de la littératie financière, qui se conforme aux directives du commissaire.
-
-**Mandat et révocation**
-
-- **(2)** Le chef du développement de la littératie financière occupe sa charge à titre amovible pour un mandat maximal de cinq ans.
-
-**Nouveau mandat**
-
-- **(3)** Son mandat est renouvelable plus d’une fois.
-
-**Absence ou empêchement**
-
-- **(4)** En cas d’absence ou d’empêchement du chef du développement de la littératie financière ou de vacance de son poste, ses attributions peuvent être confiées à une personne compétente nommée par le ministre; cependant l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
-
-**Rémunération**
-
-- **(5)** Le chef du développement de la littératie financière reçoit la rémunération que fixe le gouverneur en conseil.
-
-**Frais**
-
-- **(6)** Le chef du développement de la littératie financière et toute personne chargée de l’intérim en vertu du paragraphe (4) sont indemnisés des frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail.
-
-**Statut**
-
-- **(7)** Le chef du développement de la littératie financière et toute personne chargée de l’intérim en vertu du paragraphe (4) sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2013, ch. 1, art. 5.
+**4.1** [Abrogé, 2018, ch. 27, art. 340]
 
 
 
 
-
-## Attributions du commissaire et du chef du développement de la littératie financière
+## Attributions du commissaire
 
 
 
@@ -243,12 +212,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Attributions du chef du développement de la littératie financière**
-
-**5.01** Le chef du développement de la littératie financière assume un rôle de premier plan à l’échelon national en ce qui a trait au renforcement de la littératie financière des Canadiens; il peut à cette fin exercer toutes les activités qu’il estime nécessaires dans le cadre du paragraphe 3(2).
-> 2013, ch. 1, art. 7.
-
+**5.01** [Abrogé, 2018, ch. 27, art. 342]
 
 
 
@@ -294,18 +258,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Incompatibilité de fonctions : chef du développement de la littératie financière**
-
-**6.1** 
-
-- **(1)** Les attributions du chef du développement de la littératie financière prévues à l’article 5.01 sont incompatibles avec toutes autres fonctions.
-
-**Exception**
-
-- **(2)** Par dérogation au paragraphe (1), le chef du développement de la littératie financière peut occuper tout autre poste ou exercer toutes autres fonctions, à titre gratuit, sous l’autorité ou au service de Sa Majesté.
-> 2013, ch. 1, art. 10.
-
+**6.1** [Abrogé, 2018, ch. 27, art. 343]
 
 
 
@@ -810,8 +763,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Immunité judiciaire**
 
-**33** Sa Majesté, le ministre, le commissaire, le chef du développement de la littératie financière, les commissaires adjoints, les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, bénéficient de l’immunité judiciaire pour les actes ou omissions commis de bonne foi dans l’exercice — autorisé ou requis — des attributions que leur confère une loi fédérale.
-> 2001, ch. 9, art. 33; 2013, ch. 1, art. 13.
+**33** Sa Majesté, le ministre, le commissaire, les commissaires adjoints, les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, bénéficient de l’immunité judiciaire pour les actes ou omissions commis de bonne foi dans l’exercice — autorisé ou requis — des attributions que leur confère une loi fédérale.
+> 2001, ch. 9, art. 33; 2013, ch. 1, art. 13; 2018, ch. 27, art. 348.
 
 
 
@@ -823,8 +776,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-assignation**
 
-**33.1** Le commissaire, le chef du développement de la littératie financière, les commissaires adjoints et les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, ne sont pas des témoins contraignables dans le cadre de toute procédure civile en ce qui touche les questions venues à leur connaissance dans l’exercice des attributions que leur confère la présente loi ou toute loi mentionnée à l’annexe 1.
-> 2012, ch. 5, art. 220; 2013, ch. 1, art. 15.
+**33.1** Le commissaire, les commissaires adjoints et les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, ne sont pas des témoins contraignables dans le cadre de toute procédure civile en ce qui touche les questions venues à leur connaissance dans l’exercice des attributions que leur confère la présente loi ou toute loi mentionnée à l’annexe 1.
+> 2012, ch. 5, art. 220; 2013, ch. 1, art. 15; 2018, ch. 27, art. 349.
 
 
 
