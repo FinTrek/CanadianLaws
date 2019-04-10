@@ -66,7 +66,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(e)** a company or foreign company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies; and
 - **(f)** Green Shield Canada. (*institution financière*)
 
-***Financial Literacy Leader*** means the person appointed under section 4.1. (*chef du développement de la littératie financière*)
+***Financial Literacy Leader***[Repealed, 2018, c. 27, s. 336]
 
 ***governing statute*** means
 - **(a)** in relation to a bank or authorized foreign bank as defined in the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), that Act;
@@ -84,7 +84,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***penalty*** means an administrative monetary penalty. (*pénalité*)
 
 ***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
-> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835, c. 25, s. 156; 2012, c. 5, ss. 217, 222; 2013, c. 1, s. 2.
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835, c. 25, s. 156; 2012, c. 5, ss. 217, 222; 2013, c. 1, s. 2; 2018, c. 27, s. 336.
 
 
 
@@ -129,7 +129,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-## Commissioner of Agency and Financial Literacy Leader
+## Commissioner of Agency
 
 
 
@@ -167,43 +167,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Appointment of Financial Literacy Leader**
-
-**4.1** 
-
-- **(1)** The Governor in Council shall appoint an officer to be called the Financial Literacy Leader who shall act under the instructions of the Commissioner.
-
-**Tenure of office and removal**
-
-- **(2)** The Financial Literacy Leader holds office during pleasure for a term of not more than five years.
-
-**Further terms**
-
-- **(3)** The Financial Literacy Leader, on the expiry of any term of office, is eligible to be re-appointed for a further term of office.
-
-**Absence or incapacity**
-
-- **(4)** In the event of the absence or incapacity of the Financial Literacy Leader, or if the office of Financial Literacy Leader is vacant, the Minister may appoint a qualified person to exercise the powers and perform the duties and functions of the Financial Literacy Leader, but no person may be so appointed for a term of more than 90 days without the approval of the Governor in Council.
-
-**Remuneration**
-
-- **(5)** The Financial Literacy Leader shall be paid the remuneration fixed by the Governor in Council.
-
-**Expenses**
-
-- **(6)** The Financial Literacy Leader and any person appointed under subsection (4) are entitled to be paid reasonable travel and living expenses incurred in the course of performing their duties while absent from their ordinary place of work.
-
-**Deemed employment**
-
-- **(7)** The Financial Literacy Leader and any person appointed under subsection (4) are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 2013, c. 1, s. 5.
+**4.1** [Repealed, 2018, c. 27, s. 340]
 
 
 
 
-
-## Powers, Duties and Functions of Commissioner and of Financial Literacy Leader
+## Powers, Duties and Functions of Commissioner
 
 
 
@@ -249,12 +218,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Powers, duties and functions of Financial Literacy Leader**
-
-**5.01** The Financial Literacy Leader shall exercise leadership at the national level to strengthen the financial literacy of Canadians. He or she may carry on any activity that he or she considers necessary in furtherance of that purpose, within the objects described in subsection 3(2).
-> 2013, c. 1, s. 7.
-
+**5.01** [Repealed, 2018, c. 27, s. 342]
 
 
 
@@ -300,18 +264,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Duties and functions of Financial Literacy Leader generally**
-
-**6.1** 
-
-- **(1)** The Financial Literacy Leader shall engage exclusively in the duties and functions of the Financial Literacy Leader referred to in section 5.01.
-
-**Other duties**
-
-- **(2)** Despite subsection (1), the Financial Literacy Leader may hold any other office under Her Majesty or perform any other duties for Her Majesty, but not for reward.
-> 2013, c. 1, s. 10.
-
+**6.1** [Repealed, 2018, c. 27, s. 343]
 
 
 
@@ -816,8 +769,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **No liability**
 
-**33** No action lies against Her Majesty, the Minister, the Commissioner, the Financial Literacy Leader, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed.
-> 2001, c. 9, s. 33; 2013, c. 1, s. 13.
+**33** No action lies against Her Majesty, the Minister, the Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed.
+> 2001, c. 9, s. 33; 2013, c. 1, s. 13; 2018, c. 27, s. 348.
 
 
 
@@ -829,8 +782,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Not compellable**
 
-**33.1** The Commissioner, the Financial Literacy Leader, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the instructions of the Commissioner, is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or the Acts listed in Schedule 1.
-> 2012, c. 5, s. 220; 2013, c. 1, s. 15.
+**33.1** The Commissioner, Deputy Commissioner, any officer or employee of the Agency or any person acting under the instructions of the Commissioner is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or the Acts listed in Schedule 1.
+> 2012, c. 5, s. 220; 2013, c. 1, s. 15; 2018, c. 27, s. 349.
 
 
 
