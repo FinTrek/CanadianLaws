@@ -1335,7 +1335,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_IndE2A7_hq_21288'>[*]</a></sup>**(2)** Sections 237, 238 and 240 to 251 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndE2A7_hq_21288'><sup>*</sup></a>: [Note: Sections 237, 238 and 240 to 251 not in force.]<br />
+<a name='fn_IndE2A7_hq_21288'><sup>*</sup></a>: [Note: Sections 237, 238 and 240 to 251 in force April 12, 2019, *see* SI/2019-19.]<br />
 
 
 
