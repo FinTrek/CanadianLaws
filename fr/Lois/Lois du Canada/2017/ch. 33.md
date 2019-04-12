@@ -1335,7 +1335,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndEDF9_hq_21319'>[*]</a></sup>**(2)** Les articles 237, 238 et 240 à 251 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_IndEDF9_hq_21319'><sup>*</sup></a>: [Note : Articles 237, 238 et 240 à 251 non en vigueur.]<br />
+<a name='fn_IndEDF9_hq_21319'><sup>*</sup></a>: [Note : Articles 237, 238 et 240 à 251 en vigueur le 12 avril 2019, *voir* TR/2019-19.]<br />
 
 
 
