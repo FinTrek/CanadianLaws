@@ -234,18 +234,18 @@ Autorités habilitantes :
 
 ***volaille*** Tout oiseau en captivité, notamment les oiseaux de basse-cour et les pigeons. (*poultry*)
 
-***zone accréditée pour la brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la brucellose en vertu du paragraphe 75(1). (*brucellosis-accredited area*)
+***zone accréditée pour la brucellose***[Abrogée, DORS/2019-99, art. 1]
 
-***zone accréditée pour la tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée pour la tuberculose en vertu du paragraphe 74(1). (*tuberculosis-accredited area*)
+***zone accréditée pour la tuberculose***[Abrogée, DORS/2019-99, art. 1]
 
-***zone accréditée supérieure pour la tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone accréditée supérieure pour la tuberculose en vertu du paragraphe 74(3). (*tuberculosis-accredited advanced area*)
+***zone accréditée supérieure pour la tuberculose***[Abrogée, DORS/2019-99, art. 1]
 
 ***zone d’éradication***[Abrogée, DORS/79-295, art. 1]
 
-***zone exempte de brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de brucellose en vertu du paragraphe 75(3). (*brucellosis-free area*)
+***zone exempte de brucellose***[Abrogée, DORS/2019-99, art. 1]
 
-***zone exempte de tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de tuberculose en vertu du paragraphe 74(5). (*tuberculosis-free area*)
-> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1; DORS/2009-18, art. 3; DORS/2014-23, art. 1; DORS/2018-108, art. 403.
+***zone exempte de tuberculose***[Abrogée, DORS/2019-99, art. 1]
+> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1; DORS/2009-18, art. 3; DORS/2014-23, art. 1; DORS/2018-108, art. 403; DORS/2019-99, art. 1.
 
 
 
@@ -266,12 +266,12 @@ Autorités habilitantes :
 - **(1)** Lorsqu’un animal
 	- **a)** est atteint ou soupçonné d’être atteint d’une maladie transmissible,
 	- **b)** a été en contact avec un animal atteint ou soupçonné d’être atteint d’une maladie transmissible,
-	- **c)** se trouve dans une zone d’éradication, ou
+	- **c)** se trouve dans une zone de contrôle ou d’éradication, ou
 	- **d)** est importé ou présenté à l’importation,
 un inspecteur peut ordonner à la personne qui a la garde de l’animal, de l’isoler et de le détenir dans un endroit et d’une façon permettant d’inspecter l’animal et de le soumettre à des épreuves au cours du délai spécifié par l’inspecteur.
 
 - **(2)** Toute personne visée par l’ordonnance prévue au paragraphe (1) doit s’y conformer.
-> DORS/78-69, art. 2(F); DORS/79-839, art. 3.
+> DORS/78-69, art. 2(F); DORS/79-839, art. 3; DORS/2019-99, art. 2.
 
 
 
@@ -287,16 +287,16 @@ un inspecteur peut ordonner à la personne qui a la garde de l’animal, de l’
 **4** Un inspecteur peut inspecter au Canada tout animal qui
 - **a)** est atteint ou soupçonné d’être atteint d’une maladie transmissible;
 - **b)** a été en contact avec un animal atteint ou soupçonné d’être atteint d’une maladie transmissible;
-- **c)** est dans une zone d’éradication; ou
+- **c)** se trouve dans une zone de contrôle ou d’éradication; ou
 - **d)** est importé ou présenté à l’importation.
-> DORS/78-69, art. 4(F); DORS/79-839, art. 4.
+> DORS/78-69, art. 4(F); DORS/79-839, art. 4; DORS/2019-99, art. 3.
 
 
 
 
 **5** 
 
-- **(1)** Un inspecteur-vétérinaire peut ordonner à quiconque a la garde d’un animal atteint d’une maladie transmissible, soupçonné de l’être ou ayant été en contact avec un tel animal,
+- **(1)** Un vétérinaire-inspecteur peut ordonner à quiconque a la garde d’un animal atteint d’une maladie transmissible, soupçonné de l’être ou ayant été en contact avec un tel animal,
 	- **a)** de mettre l’animal en quarantaine, de l’isoler ou de le traiter,
 	- **b)** d’abattre l’animal, ou
 	- **c)** d’abattre l’animal et d’en détruire le cadavre,
@@ -304,10 +304,10 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(2)** Toute personne visée par l’ordonnance prévue au paragraphe (1) doit s’y conformer.
 
-- **(3)** Si une ordonnance visée au paragraphe (1) n’est pas exécutée dans le délai y prescrit, un inspecteur-vétérinaire peut faire en sorte que l’animal
+- **(3)** Si une ordonnance visée au paragraphe (1) n’est pas exécutée dans le délai y prescrit, un vétérinaire-inspecteur peut faire en sorte que l’animal
 	- **a)** soit transporté pour abattage à l’établissement où des animaux pour alimentation humaine sont abattus par le titulaire d’une licence délivrée au titre de l’alinéa 20(1)b) de la [Loi sur la salubrité des aliments au Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2024.md) et y être abattu;
 	- **b)** soit abattu au moment et à l’endroit qu’il fixe, et son cadavre détruit comme il en décide.
-> DORS/79-839, art. 4; DORS/81-348, art. 1; DORS/2018-108, art. 404.
+> DORS/79-839, art. 4; DORS/81-348, art. 1; DORS/2018-108, art. 404; DORS/2019-99, art. 18(F).
 
 
 
@@ -1074,7 +1074,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 **69** 
 
 - **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit d’exporter des animaux de ferme, de la volaille, des embryons animaux ou du sperme animal, à moins que les conditions suivantes ne soient réunies :
-	- **a)** l’exportateur a obtenu un certificat délivré par un vétérinaire-inspecteur ou un certificat délivré par un vétérinaire accrédité et contresigné par un vétérinaire-inspecteur avant l’expédition, qui identifie clairement les animaux de ferme, la volaille, les embryons animaux ou le sperme animal et indique :
+	- **a)** l’exportateur a obtenu, avant l’expédition, un certificat délivré par un vétérinaire-inspecteur ou un certificat délivré par un vétérinaire accrédité et approuvé par écrit par un vétérinaire-inspecteur, qui identifie clairement les animaux de ferme, la volaille, les embryons animaux ou le sperme animal et indique :
 		- **(i)** qu’un vétérinaire-inspecteur ou un vétérinaire accrédité les a inspectés et les a trouvés exempts de toute maladie transmissible,
 		- **(ii)** les date et lieu de l’inspection,
 		- **(iii)** lorsque des tests de dépistage ont été effectués, la nature de chaque test, et le fait qu’ils y ont réagi négativement;
@@ -1086,14 +1086,14 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(3)** Il est interdit d’exporter des animaux de ferme, de la volaille, des embryons animaux ou du sperme animal à moins que le certificat visé au paragraphe (1) ne porte le timbre d’exportation officiel visé au paragraphe (4).
 
-- **(4)** Le timbre d’exportation officiel exigé par le présent article doit porter la mention « Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS — Government of Canada — CANADIAN FOOD INSPECTION AGENCY » et ne doit être apposé sur un certificat que par un inspecteur vétérinaire ou une personne autorisée par lui.
+- **(4)** Le timbre d’exportation officiel exigé par le présent article doit porter la mention « Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS — *Government of Canada — CANADIAN FOOD INSPECTION AGENCY* » et ne doit être apposé sur un certificat que par un vétérinaire-inspecteur ou une personne autorisée par lui.
 
-- **(5)** Seuls un inspecteur-vétérinaire ou une personne autorisée par lui peuvent détenir un timbre d’exportation officiel ou un fac-similé de celui-ci.
+- **(5)** Seuls un vétérinaire-inspecteur ou une personne autorisée par lui peuvent détenir un timbre d’exportation officiel ou un fac-similé de celui-ci.
 
 - **(6)** Pour l’application du présent article, ***embryon animal*** s’entend de l’ovule fécondé d’un mammifère avant son implantation dans un mammifère.
 
 - **(7)** L’alinéa (1)a) et le paragraphe (3) ne s’appliquent pas à l’animal réglementé, autre qu’un porc, qui est transporté directement de Rainy River (Ontario) à Sprague (Manitoba) via l’État du Minnesota, dans un véhicule dont toutes les issues d’où il pourrait s’échapper ont été scellées par un fonctionnaire du gouvernement du Canada ou des États-Unis.
-> DORS/79-839, art. 16; DORS/83-899, art. 3; DORS/85-689, art. 5; DORS/94-491, art. 2; DORS/97-85, art. 50; DORS/97-292, art. 28; DORS/97-478, art. 14(F); DORS/2000-184, art. 68; DORS/2001-210, art. 5.
+> DORS/79-839, art. 16; DORS/83-899, art. 3; DORS/85-689, art. 5; DORS/94-491, art. 2; DORS/97-85, art. 50; DORS/97-292, art. 28; DORS/97-478, art. 14(F); DORS/2000-184, art. 68; DORS/2001-210, art. 5; DORS/2019-99, art. 4; DORS/2019-99, art. 18(F).
 
 
 
@@ -1101,18 +1101,18 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 **70** 
 
 - **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit d’exporter des produits d’une usine de traitement, des engrais, des suppléments d’engrais ou des aliments pour animaux contenant des produits d’une usine de traitement à moins que les conditions ci-après ne soient réunies :
-	- **a)** l’exportateur a obtenu un certificat, délivré par un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre avant l’expédition, qui les identifie clairement et qui mentionne :
-		- **(i)** qu’un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre les a inspectés, de même que l’usine de traitement ou la fabrique où ils sont préparés,
+	- **a)** l’exportateur a obtenu un certificat, délivré par un inspecteur, un vétérinaire-inspecteur ou la personne autorisée par l’un ou l’autre avant l’expédition, qui les identifie clairement et qui mentionne :
+		- **(i)** qu’un inspecteur, un vétérinaire-inspecteur ou la personne autorisée par l’un ou l’autre les a inspectés, de même que l’usine de traitement ou la fabrique où ils sont préparés,
 		- **(ii)** les date et lieu de leur inspection,
 		- **(iii)** si des tests de dépistage ont été effectués, la nature de chaque test, et le fait qu’ils y ont réagi négativement ou qu’ils sont conformes aux normes du pays destinataire;
 	- **b)** les exigences d’importation du pays importateur ont été respectées.
 
 - **(2)** Il est interdit d’exporter des produits d’une usine de traitement, des engrais, des suppléments d’engrais ou des aliments pour animaux contenant des produits d’une usine de traitement à moins que le certificat visé au paragraphe (1) ne porte le timbre d’exportation officiel visé au paragraphe (3).
 
-- **(3)** Le timbre d’exportation officiel exigé par le présent article doit porter la mention « Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS — Government of Canada — CANADIAN FOOD INSPECTION AGENCY » et ne peut être apposé sur un certificat que par un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre.
+- **(3)** Le timbre d’exportation officiel exigé par le présent article doit porter la mention « Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS — *Government of Canada — CANADIAN FOOD INSPECTION AGENCY* » et ne peut être apposé sur un certificat que par un inspecteur, un vétérinaire-inspecteur ou la personne autorisée par l’un ou l’autre.
 
-- **(4)** Seuls un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre peuvent avoir en leur possession un timbre d’exportation officiel ou un facsimilé de celui-ci.
-> DORS/2006-147, art. 17.
+- **(4)** Seuls un inspecteur, un vétérinaire-inspecteur ou la personne autorisée par l’un ou l’autre peuvent avoir en leur possession un timbre d’exportation officiel ou un facsimilé de celui-ci.
+> DORS/2006-147, art. 17; DORS/2019-99, art. 18(F).
 
 
 
@@ -1139,68 +1139,24 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 **PARTIE IX** 
-## Éradication des maladies
+## Éradication et maîtrise des maladies
 
 
 
-### Zones d’éradication
+### Épreuves de dépistage
 
 
-**73** Chaque province constitue une zone d’éradication au sein de laquelle :
-- **a)** les ruminants, les équidés et les porcs peuvent être inspectés, isolés et soumis à des tests de dépistage de la tuberculose ou de la brucellose;
-- **b)** sont instaurés, par zone et par troupeau, des programmes d’éradication de la tuberculose et de la brucellose chez les ruminants.
-> DORS/79-295, art. 7; DORS/79-839, art. 18; DORS/97-85, art. 52.
+**73** [Abrogé, DORS/2019-99, art. 5]
 
 
 
-
-**73.1** Tout propriétaire ou gardien d’animaux se trouvant dans une zone d’éradication doit, sur la demande d’un inspecteur-vétérinaire ou celle d’un vétérinaire accrédité contresignée par un inspecteur-vétérinaire, permettre que les animaux soient soumis à des épreuves pour dépister toute maladie transmissible.
-> DORS/79-839, art. 18.
+**73.1** Tout propriétaire ou gardien d’animaux se trouvant dans une zone de contrôle ou d’éradication permet, sur demande d’un vétérinaire-inspecteur ou sur demande d’un vétérinaire accrédité approuvée par un vétérinaire-inspecteur, que les animaux soient soumis à des épreuves pour dépister toute maladie transmissible.
+> DORS/79-839, art. 18; DORS/2019-99, art. 5.
 
 
 
 
-
-### Tuberculose bovine
-
-
-**74** 
-
-- **(1)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est une zone accréditée pour la tuberculose, pour une période de une année, s’il est convaincu :
-	- **a)** soit :
-		- **(i)** sur le fondement d’épreuves ou d’analyses statistiques, que le nombre de troupeaux de bovins ou de cervidés d’élevage atteints de tuberculose bovine dans la zone ou la partie de zone visée au cours de l’année précédente ne dépasse pas 0,1 % du nombre de troupeaux de bovins ou de cervidés d’élevage qui y vivent,
-		- **(ii)** qu’un programme adéquat de dépistage de la tuberculose bovine y sera mis en oeuvre durant cette période;
-	- **b)** soit, dans le cas où la zone ou la partie de zone visée compte moins de dix mille troupeaux de bovins d’élevage :
-		- **(i)** sur le fondement d’épreuves ou d’analyses statistiques, que le nombre de troupeaux de bovins ou de cervidés d’élevage atteints de tuberculose bovine dans la zone ou la partie de zone visée au cours de l’année précédente ne dépasse pas dix,
-		- **(ii)** qu’un programme adéquat de dépistage de la tuberculose bovine y sera mis en oeuvre durant cette période,
-		- **(iii)** que des mesures appropriées de maîtrise et d’éradication de la tuberculose bovine y seront prises durant cette période.
-
-- **(2)** Le ministre révoque toute déclaration faite en vertu du paragraphe (1) si les conditions nécessaires à celle-ci n’existent plus.
-
-- **(3)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est une zone accréditée supérieure pour la tuberculose, pour une période de une année, s’il est convaincu :
-	- **a)** soit :
-		- **(i)** sur le fondement d’épreuves ou d’analyses statistiques, que le nombre de troupeaux de bovins ou de cervidés d’élevage atteints de tuberculose bovine dans la zone ou la partie de zone visée au cours de chacune des deux années précédentes ne dépasse pas 0,01 % du nombre de troupeaux de bovins ou de cervidés d’élevage qui y vivent,
-		- **(ii)** qu’un programme adéquat de dépistage de la tuberculose bovine y sera mis en oeuvre durant cette période;
-	- **b)** soit, dans le cas où la zone ou la partie de zone visée compte moins de trente mille troupeaux de bovins d’élevage :
-		- **(i)** sur le fondement d’épreuves ou d’analyses statistiques, que le nombre de troupeaux de bovins ou de cervidés d’élevage atteints de tuberculose bovine dans la zone ou la partie de zone visée au cours de chacune des deux années précédentes ne dépasse pas trois,
-		- **(ii)** qu’un programme adéquat de dépistage de la tuberculose bovine y sera mis en oeuvre durant cette période,
-		- **(iii)** que des mesures appropriées de maîtrise et d’éradication de la tuberculose bovine y seront prises durant cette période.
-
-- **(4)** Le ministre révoque toute déclaration faite en vertu du paragraphe (3) si les conditions nécessaires à celle-ci n’existent plus.
-
-- **(5)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est une zone exempte de tuberculose, pour une période de une année, s’il est convaincu :
-	- **a)** soit :
-		- **(i)** sur le fondement d’épreuves ou d’analyses statistiques, qu’aucun cas de tuberculose bovine n’y a été décelé parmi les troupeaux de bovins ou de cervidés d’élevage au cours des cinq années précédentes,
-		- **(ii)** qu’un programme adéquat de dépistage de la tuberculose bovine y sera mis en oeuvre durant cette période;
-	- **b)** soit, dans le cas où la zone ou la partie de zone visée a déjà été déclarée zone exempte de tuberculose :
-		- **(i)** sur le fondement d’épreuves ou d’analyses statistiques, qu’aucun cas de tuberculose bovine n’y a été décelé parmi les troupeaux de bovins ou de cervidés d’élevage au cours des trois années précédentes,
-		- **(ii)** qu’un programme adéquat de dépistage de la tuberculose bovine y sera mis en oeuvre durant cette période.
-
-- **(6)** Le ministre révoque toute déclaration faite en vertu du paragraphe (5) si, au cours d’une période de quarante-huit mois débutant à tout moment après la dernière fois où la zone ou la partie de zone visée est devenue exempte de tuberculose, deux ou plusieurs troupeaux atteints de tuberculose bovine y ont été décelés.
-
-- **(7)** Pour l’application du présent article, un troupeau est considéré comme étant atteint de tuberculose bovine si au moins un cas de cette maladie y est décelé.
-> DORS/79-295, art. 8; DORS/79-839, art. 19; DORS/84-828, art. 2; DORS/97-85, art. 53; DORS/2002-444, art. 2.
-
+**74** [Abrogé, DORS/2019-99, art. 5]
 
 
 
@@ -1208,27 +1164,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-
-### Brucellose bovine
-
-
-**75** 
-
-- **(1)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est une zone accréditée pour la brucellose, pour une période de trois années, s’il est convaincu :
-	- **a)** sur le fondement d’épreuves ou d’analyses statistiques, que le nombre de troupeaux de bovins ou de cervidés d’élevage atteints de brucellose bovine dans la zone ou la partie de zone visée au cours de chacune des trois années précédentes ne dépasse pas 0,1 % du nombre de troupeaux de bovins ou de cervidés d’élevage qui y vivent;
-	- **b)** qu’un programme adéquat de dépistage de la brucellose bovine y sera mis en oeuvre durant cette période.
-
-- **(2)** Le ministre révoque toute déclaration faite en vertu du paragraphe (1) si les conditions nécessaires à celle-ci n’existent plus.
-
-- **(3)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est une zone exempte de brucellose, pour une période de trois années, s’il est convaincu :
-	- **a)** sur le fondement d’épreuves ou d’analyses statistiques, qu’aucun cas de brucellose bovine n’y a été décelé parmi les troupeaux de bovins ou de cervidés d’élevage au cours des cinq années précédentes;
-	- **b)** qu’un programme adéquat de dépistage de la brucellose bovine y sera mis en oeuvre durant cette période.
-
-- **(4)** Le ministre révoque toute déclaration faite en vertu du paragraphe (3) si, au cours d’une période de soixante mois débutant à tout moment après la dernière fois où la zone ou la partie de zone visée est devenue exempte de brucellose, deux ou plusieurs troupeaux atteints de brucellose bovine ont été décelés dans la zone ou la partie de zone visée.
-
-- **(5)** Pour l’application du présent article, un troupeau est considéré comme étant atteint de brucellose bovine si au moins un cas de cette maladie y est décelé.
-> DORS/78-205, art. 2; DORS/79-295, art. 9; DORS/79-839, art. 20; DORS/85-139, art. 1; DORS/92-585, art. 2; DORS/97-85, art. 54; DORS/2002-444, art. 2.
-
+**75** [Abrogé, DORS/2019-99, art. 5]
 
 
 
@@ -1238,16 +1174,12 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **76** 
 
-- **(1)** Il est interdit, sans un permis délivré par le ministre en vertu de l’article 160, de déplacer ou de faire déplacer :
-	- **a)** un membre de la famille des cervidés, d’un point à un autre au Canada;
-	- **b)** un bovin d’une zone accréditée pour la tuberculose à une zone accréditée supérieure pour la tuberculose ou une zone exempte de tuberculose;
-	- **c)** un bovin d’une zone accréditée supérieure pour la tuberculose à une zone exempte de tuberculose;
-	- **d)** un bovin d’une zone accréditée pour la brucellose à une zone exempte de brucellose.
+- **(1)** Il est interdit, sans un permis délivré par le ministre en vertu de l’article 160, de déplacer ou de faire déplacer un membre de la famille des cervidés, d’un point à un autre au Canada.
 
 - **(2)** Il est interdit, sans un permis délivré par le ministre en vertu de l’article 160, de recevoir ou d’avoir en sa possession un animal qui a été déplacé en contravention au paragraphe (1).
 
-- **(3)** Toute personne à qui est délivré le permis visé aux paragraphes (1) ou (2) ainsi que toute personne ayant un établissement vers lequel est déplacé un membre de la famille des cervidés ou un bovin provenant d’une zone accréditée pour la tuberculose, d’une zone accréditée supérieure pour la tuberculose ou d’une zone accréditée pour la brucellose doivent conserver une copie du permis.
-> DORS/79-295, art. 10; DORS/79-839, art. 22(F); DORS/97-85, art. 55; DORS/2002-444, art. 2.
+- **(3)** Toute personne à qui est délivré le permis visé aux paragraphes (1) ou (2) ou qui a un lieu vers lequel un membre de la famille des cervidés est déplacé en vertu d’un permis doit conserver une copie du permis.
+> DORS/79-295, art. 10; DORS/79-839, art. 22(F); DORS/97-85, art. 55; DORS/2002-444, art. 2; DORS/2019-99, art. 6.
 
 
 
@@ -1276,75 +1208,61 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 ### La pullorose et la typhose aviaire
 
 
-**79** Dans le présent article et les articles 79.1 à 79.2,
+**79** Les définitions qui suivent s’appliquent au présent article et aux articles 79.14 à 79.2.
 
 ***couvoir***[Abrogée, DORS/2000-184, art. 69]
 
 ***couvoir contrôlé*** désigne un couvoir pour lequel un permis a été délivré par le ministre conformément
 - **a)** au présent règlement, ou
-- **b)** au [Règlement sur les couvoirs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201023.md); (*health monitored hatchery*)
+- **b)** au [Règlement sur les couvoirs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201023.md). (*health monitored hatchery*)
 
 ***couvoir enregistré***[Abrogée, DORS/83-901, art. 1]
 
-***dindon*** désigne tout sujet de l’espèce *Melaegris gallopavo*; (*turkey*)
+***dindon*** désigne tout sujet de l’espèce *Melaegris gallopavo*. (*turkey*)
 
 ***directeur vétérinaire régional***[Abrogée, DORS/2000-184, art. 69]
 
-***duvet*** désigne les petites plumes de poussin et la poussière qui se déposent à l’intérieur de l’éclosoir pendant l’incubation; (*fluff*)
+***duvet*** désigne les petites plumes de poussin et la poussière qui se déposent à l’intérieur de l’éclosoir pendant l’incubation. (*fluff*)
 
-***éclosoir*** désigne tout appareil dans lequel les oeufs éclosent; (*hatcher*)
+***éclosoir*** désigne tout appareil dans lequel les oeufs éclosent. (*hatcher*)
 
-***étiquette d’identification*** désigne une étiquette sur laquelle sont inscrits des lettres ou des chiffres servant à identifier un poulet, un dindon ou un gibier à plumes; (*identification tag*)
+***étiquette d’identification*** désigne une étiquette sur laquelle sont inscrits des lettres ou des chiffres servant à identifier un poulet, un dindon ou un gibier à plumes. (*identification tag*)
 
-***foire*** désigne un concours ou une exposition où des poulets, des dindons et des gibiers à plumes sont évalués selon leurs caractéristiques de catégorie, de race et de variété, telles que stipulées dans le American Standard of Perfection publié par l’American Poultry Association Inc.; (*show*)
+***foire*** désigne un concours ou une exposition où des poulets, des dindons et des gibiers à plumes sont évalués selon leurs caractéristiques de catégorie, de race et de variété, telles que stipulées dans le *American Standard of Perfection* publié par l’*American Poultry Association Inc.* (*show*)
 
 ***gibier à plumes***[Abrogée, DORS/97-85, art. 56]
 
-***laboratoire approuvé*** désigne un établissement ou un véhicule approuvé par le ministre pour l’examen des volailles, de leurs produits ou de leurs sous-produits; (*approved laboratory*)
+***laboratoire approuvé*** désigne un établissement ou un véhicule approuvé par le ministre pour l’examen des volailles, de leurs produits ou de leurs sous-produits. (*approved laboratory*)
 
-***poulet*** désigne tout sujet de l’espèce *Gallus gallus*; (*chicken*)
+***poulet*** désigne tout sujet de l’espèce *Gallus gallus*. (*chicken*)
 
 ***troupeau approuvé fournisseur de couvoirs*** désigne un troupeau de poulets ou de dindons qui :
 - **a)** est un troupeau primaire de reproduction ou un troupeau issu d’un troupeau primaire de reproduction, et
-- **b)** est désigné troupeau approuvé fournisseur de couvoirs conformément aux règlements de la province où se trouve le troupeau; (*approved hatchery supply flock*)
+- **b)** est désigné troupeau approuvé fournisseur de couvoirs conformément aux règlements de la province où se trouve le troupeau. (*approved hatchery supply flock*)
 
-***troupeau de foire*** désigne un groupe de poulets, de dindons ou de gibier à plumes qui sert de façon habituelle ou occasionnelle, à représenter un troupeau d’oiseaux lors d’une foire; (*show flock*)
+***troupeau de foire*** désigne un groupe de poulets, de dindons ou de gibier à plumes qui sert de façon habituelle ou occasionnelle, à représenter un troupeau d’oiseaux lors d’une foire. (*show flock*)
 
-***troupeau primaire de reproduction*** désigne un troupeau composé d’une ou de plusieurs générations de poulets ou de dindons et élevé dans le but de créer, de perpétuer ou d’améliorer des lignées parentales; (*primary breeding flock*)
+***troupeau primaire de reproduction*** désigne un troupeau composé d’une ou de plusieurs générations de poulets ou de dindons et élevé dans le but de créer, de perpétuer ou d’améliorer des lignées parentales. (*primary breeding flock*)
 
-***zone d’éradication*** désigne une zone d’éradication de la pullorose et de la typhose aviaire, établie selon l’article 79.1. (*eradication area*)
-> DORS/78-69, art. 30; DORS/79-839, art. 24; DORS/82-670, art. 2; DORS/83-900, art. 5; DORS/83-901, art. 1; DORS/85-689, art. 6(A); DORS/97-85, art. 56; DORS/2000-184, art. 69.
-
-
-
-
-**79.1** L’île de Vancouver, le reste de la Colombie-Britannique et chaque autre province constituent chacun une zone d’éradication où les volailles, leurs produits et leurs sous-produits peuvent être inspectés, isolés et soumis à des épreuves de dépistage de la pullorose et de la typhose aviaire, et où des programmes d’éradication de ces deux maladies sont instaurés.
-> DORS/82-670, art. 2; DORS/98-415, art. 1.
+***zone d’éradication***[Abrogée, DORS/2019-99, art. 7]
+> DORS/78-69, art. 30; DORS/79-839, art. 24; DORS/82-670, art. 2; DORS/83-900, art. 5; DORS/83-901, art. 1; DORS/85-689, art. 6(A); DORS/97-85, art. 56; DORS/2000-184, art. 69; DORS/2019-99, art. 7.
 
 
 
 
-**79.11** Quiconque possède des volailles ou en a la charge dans une zone d’éradication doit, à la demande d’un inspecteur-vétérinaire, permettre que les volailles, leurs produits et leurs sous-produits soient soumis à des épreuves en vue du dépistage des maladies transmissibles.
-> DORS/82-670, art. 2.
+**79.1** [Abrogé, DORS/2019-99, art. 8]
 
 
 
-
-**79.12** 
-
-- **(1)** Le ministre peut déclarer une zone d’éradication exempte de la pullorose et de la typhose aviaire si les épreuves bactériologiques ou les études épidémiologiques qui y ont été menées au cours des trois années précédentes n’ont révélé aucune incidence de ces maladies dans les troupeaux approuvés fournisseurs de couvoirs.
-
-- **(2)** Le ministre peut révoquer la déclaration faite selon le paragraphe (1), s’il est convaincu
-	- **a)** qu’une personne dans la zone d’éradication a dérogé ou omis de se conformer aux articles 79.11, 79.13, 79.14, 79.15, 79.16, 79.17, 79.18, 79.19, ou 79.2; ou
-	- **b)** que la présence de la pullorose ou de la typhose aviaire a été décelée dans un troupeau de poulets, de dindons ou de gibier à plumes se trouvant dans la zone d’éradication, et que la maladie s’est propagée à un autre troupeau de la même espèce et n’a pu être éliminée au cours de l’année qui a suivi la date de son dépistage.
-> DORS/82-670, art. 2.
+**79.11** [Abrogé, DORS/2019-99, art. 8]
 
 
 
+**79.12** [Abrogé, DORS/2019-99, art. 8]
 
-**79.13** Il est interdit de transporter ou d’autoriser le transport de poussins d’un jour ou d’oeufs d’incubation d’une zone d’éradication non déclarée exempte de la pullorose ou de la typhose aviaire vers une zone déclarée exempte de ces maladies, à moins que l’expédition de poussins ou d’oeufs ne soit accompagnée d’un certificat signé par un inspecteur ou par une personne nommée à cette fin par la province d’où proviennent les poussins ou les oeufs, indiquant que le troupeau de provenance a fait l’objet d’un échantillonnage et d’une épreuve sérologique, conformément au paragraphe 79.17(1), au cours des 15 mois précédents, et qu’il a réagi négativement aux épreuves effectuées pour le dépistage de la pullorose et de la typhose aviaire.
-> DORS/82-670, art. 2.
 
+
+**79.13** [Abrogé, DORS/2019-99, art. 8]
 
 
 
@@ -1403,7 +1321,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **79.19** 
 
-- **(1)** Il est interdit d’exploiter un couvoir dans une zone d’éradication, à moins
+- **(1)** Il est interdit d’exploiter un couvoir, à moins :
 	- **a)** que le couvoir ne soit un couvoir contrôlé; et
 	- **b)** que le propriétaire ou l’exploitant du couvoir ne soumette, toutes les six semaines à un laboratoire approuvé, des échantillons de duvet ou tout autre échantillon exigé par un inspecteur, prélevés dans chaque éclosoir du couvoir de la façon suivante :
 		- **(i)** dans le cas d’un couvoir qui compte moins de quatre éclosions par semaine, des échantillons doivent être prélevés dans chaque éclosoir d’où sont tirés des poussins au cours de la sixième semaine, et
@@ -1426,7 +1344,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(7)** Il est interdit de vendre ou d’enlever des poussins d’un couvoir qui n’est pas conforme aux exigences des alinéas (1)a) et b), à moins d’avoir obtenu la permission écrite du ministre.
 
 - **(8)** L’exploitant d’un couvoir doit veiller à ce que l’abattage de tout poussin ou embryon non éclos dans le couvoir soit effectué sans cruauté.
-> DORS/82-670, art. 2; DORS/83-901, art. 3; DORS/85-689, art. 8; DORS/97-85, art. 57.
+> DORS/82-670, art. 2; DORS/83-901, art. 3; DORS/85-689, art. 8; DORS/97-85, art. 57; DORS/2019-99, art. 9.
 
 
 
@@ -1438,25 +1356,12 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-### Graves foyers de maladies transmissibles
+### Foyers de maladies transmissibles
+> [DORS/2019-99, art. 10]
 
 
-**80** 
 
-- **(1)** Sous réserve du paragraphe (3), lorsque le ministre a déclaré une partie d’un pays comme étant contrôlée en vertu du paragraphe 27(1) de la Loi, il peut désigner les animaux ou les choses susceptibles d’être atteints de la maladie ou contaminés par celle-ci et, dès lors, il est interdit, sans la permission d’un inspecteur ou d’une autre personne que le ministre peut désigner, de déplacer :
-	- **a)** un animal ou une chose désigné
-		- **(i)** dans la zone désignée,
-		- **(ii)** hors de la zone désignée, ou
-		- **(iii)** d’un endroit à un autre dans la zone désignée, sauf dans un endroit voisin occupé par la même personne; ou
-	- **b)** la chair, le cuir, les sabots, les cornes ou les autres parties des animaux visés par l’ordonnance ou, dans le cas de la volaille, leurs oeufs, ou le foin, la paille, les fourrages, les céréales ni d’autres choses servant à l’alimentation et au soin de ces animaux
-		- **(i)** hors de la zone désignée, ou
-		- **(ii)** d’un endroit à un autre de la zone désignée, sauf dans un endroit voisin occupé par la même personne.
-
-- **(2)** Une permission, accordée par un inspecteur ou par une autre personne désignée par le ministre pour le transport d’un animal ou d’une autre chose visée au paragraphe (1) peut être générale ou particulière.
-
-- **(3)** Le paragraphe (1) ne s’applique pas au transport, hors de la zone désignée, du contenu d’un élévateur, tel que défini dans la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md), à la date d’entrée en vigueur de l’ordonnance du ministre.
-> DORS/97-85, art. 58.
-
+**80** [Abrogé, DORS/2019-99, art. 10]
 
 
 
@@ -1509,11 +1414,11 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-### Éradication de maladies spécifiées par le ministre
+### Isolation et inspection
 
 
-**90** Le ministre peut ordonner au propriétaire d’une volaille, d’un ruminant, d’un équidé ou d’un porc se trouvant dans une zone d’éradication, ou à la personne en ayant la possession, la responsabilité ou la charge des soins, d’isoler l’animal et de le faire inspecter selon des modalités et pour toute maladie transmissible que le ministre peut spécifier.
-> DORS/97-85, art. 61.
+**90** Le ministre peut ordonner au propriétaire d’une volaille, d’un ruminant, d’un équidé ou d’un porc, ou à la personne en ayant la possession, la charge des soins ou la responsabilité, d’isoler l’animal et de le faire inspecter de la façon et pour toute maladie transmissible qu’il peut préciser.
+> DORS/97-85, art. 61; DORS/2019-99, art. 11.
 
 
 
@@ -1726,15 +1631,15 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **104** 
 
-- **(1)** Lorsqu’un inspecteur-vétérinaire découvre ou soupçonne qu’un animal est atteint ou est mort d’une maladie transmissible, il peut
+- **(1)** Lorsqu’un vétérinaire-inspecteur découvre ou soupçonne qu’un animal est atteint ou est mort d’une maladie transmissible, il peut
 	- **a)** ordonner
 		- **(i)** au propriétaire ou à l’occupant d’un bâtiment, d’une étable, d’un parc ou d’un autre lieu contaminé par une maladie transmissible ou soupçonné de l’être, et
 		- **(ii)** au propriétaire ou à l’exploitant d’un aéronef, wagon de chemin de fer, véhicule ou navire contaminé par une maladie transmissible ou soupçonné de l’être,
 de nettoyer et désinfecter ce bâtiment, cette étable, ce parc, cet autre lieu, cet aéronef, ce wagon de chemin de fer, ce véhicule ou ce navire; ou
 	- **b)** ordonner à toute personne entrant dans un bâtiment, une étable, un parc ou un autre lieu contaminé par une maladie transmissible ou soupçonné de l’être, ou en sortant, de nettoyer et désinfecter ses chaussures, ses vêtements ou les autres choses qu’elle porte.
 
-- **(2)** Lorsqu’un animal doit être détruit selon les articles 37 ou 48 de la Loi, le responsable du véhicule utilisé pour le transport de l’animal nettoie et désinfecte le véhicule, immédiatement après le débarquement de l’animal et sous la surveillance d’un inspecteur, au plus proche endroit pourvu des installations nécessaires à cette fin.
-> DORS/92-585, art. 2.
+- **(2)** Lorsqu’un animal doit être détruit selon les articles 27.6, 37 ou 48 de la Loi, le responsable du véhicule utilisé pour le transport de l’animal nettoie et désinfecte le véhicule, immédiatement après le débarquement de l’animal et sous la surveillance d’un inspecteur, au plus proche endroit pourvu des installations nécessaires à cette fin.
+> DORS/92-585, art. 2; DORS/2019-99, art. 12; DORS/2019-99, art. 18(F).
 
 
 
@@ -1802,9 +1707,11 @@ importées d’un pays autre que les États-Unis sont nettoyées, désinfectées
 
 **109** 
 
-- **(1)** Un inspecteur-vétérinaire peut ordonner à la personne responsable d’une vente, d’une enchère ou d’un marché publics d’animaux de ferme de nettoyer et de désinfecter l’endroit des transactions sous la surveillance ou à la satisfaction d’un inspecteur et dans le délai prescrit par l’inspecteur-vétérinaire.
+- **(1)** Un vétérinaire-inspecteur peut ordonner à la personne responsable d’une vente, d’une enchère ou d’un marché publics d’animaux de ferme de nettoyer et de désinfecter l’endroit des transactions sous la surveillance ou à la satisfaction d’un inspecteur et dans le délai prescrit par le vétérinaire-inspecteur.
 
-- **(2)** Nulle vente, nulle enchère ou nul marché publics d’animaux de ferme ne peut être tenu, sans le consentement du ministre, à un endroit qui n’est pas parfaitement nettoyé ou désinfecté selon l’avis de l’inspecteur-vétérinaire.
+- **(2)** Nulle vente, nulle enchère ou nul marché publics d’animaux de ferme ne peut être tenu, sans le consentement du ministre, à un endroit qui n’est pas parfaitement nettoyé ou désinfecté selon l’avis du vétérinaire-inspecteur.
+> DORS/2019-99, art. 18(F).
+
 
 
 
@@ -1853,8 +1760,8 @@ importées d’un pays autre que les États-Unis sont nettoyées, désinfectées
 ### Élimination des cadavres contaminés
 
 
-**114** Un inspecteur-vétérinaire peut ordonner au propriétaire d’un animal mort ou soupçonné d’être mort d’une maladie transmissible ou qui est détruit selon les articles 37 ou 48 de la Loi, ou à la personne qui en a la possession, la charge des soins ou la responsabilité, d’éliminer le cadavre de l’animal de la façon qu’il peut prescrire.
-> DORS/92-585, art. 2; DORS/95-475, art. 4(A).
+**114** Le vétérinaire-inspecteur peut ordonner au propriétaire d’un animal qui est mort ou soupçonné d’être mort d’une maladie transmissible ou qui est détruit en vertu des articles 27.6, 37 ou 48 de la Loi, ou à la personne qui en a la possession, la charge des soins ou la responsabilité, d’éliminer le cadavre de l’animal de la façon qu’il peut préciser.
+> DORS/92-585, art. 2; DORS/95-475, art. 4(A); DORS/2019-99, art. 13.
 
 
 
@@ -2102,9 +2009,9 @@ et le ministre peut les relever des exigences du paragraphe (1) qu’il juge à 
 - **(3)** Le ministre fournit au demandeur visé au paragraphe (1) un rapport indiquant le résultat de toute épreuve effectuée sur l’échantillon fourni selon l’alinéa (1)a).
 
 - **(4)** Le titulaire d’un permis d’importation :
-	- **a)** tient et met à la disposition d’un inspecteur vétérinaire pour fins d’inspection, un registre dont la forme est approuvée par le ministre, et qui donne le détail de l’importation, de la vente et de la distribution du produit vétérinaire biologique, et conserve ce registre pendant au moins deux ans après la date de péremption dudit produit; et
+	- **a)** tient et met à la disposition d’un vétérinaire-inspecteur pour fins d’inspection, un registre dont la forme est approuvée par le ministre, et qui donne le détail de l’importation, de la vente et de la distribution du produit vétérinaire biologique, et conserve ce registre pendant au moins deux ans après la date de péremption dudit produit; et
 	- **b)** remet au ministre les échantillons du produit qu’il peut exiger.
-> DORS/78-597, art. 14; DORS/82-590, art. 6; DORS/95-54, art. 5; DORS/2002-438, art. 12(F) et 18(F).
+> DORS/78-597, art. 14; DORS/82-590, art. 6; DORS/95-54, art. 5; DORS/2002-438, art. 12(F) et 18(F); DORS/2019-99, art. 18(F).
 
 
 
@@ -2171,7 +2078,7 @@ et le ministre peut les relever des exigences du paragraphe (1) qu’il juge à 
 	- **b)** s’immunise contre les maladies susceptibles d’y exister; et
 	- **c)** se pourvoit d’un habillement et d’un équipement suffisants pour se protéger contre les dangers inhérents à l’établissement.
 
-- **(4)** Sauf autorisation d’un inspecteur-vétérinaire, nul ne peut mettre à l’épreuve un produit vétérinaire biologique dans un établissement agréé, si ce n’est dans une salle ou un bâtiment séparé utilisé exclusivement à cette fin.
+- **(4)** Sauf autorisation d’un vétérinaire-inspecteur, nul ne peut mettre à l’épreuve un produit vétérinaire biologique dans un établissement agréé, si ce n’est dans une salle ou un bâtiment séparé utilisé exclusivement à cette fin.
 
 - **(5)** Nul ne peut effectuer un examen ou un diagnostic comprenant l’utilisation
 	- **a)** d’un animal mort ou malade,
@@ -2179,8 +2086,8 @@ et le ministre peut les relever des exigences du paragraphe (1) qu’il juge à 
 	- **c)** d’une culture non identifiée de micro-organismes, de champignons ou de moisissures
 dans un établissement agréé, si ce n’est dans une salle ou un local séparé de tout local ou salle de préparation, de fabrication, de conservation, d’entreposage ou de mise à l’épreuve d’un produit vétérinaire biologique et ne communiquant pas avec cette salle ou ce local.
 
-- **(6)** Sauf autorisation d’un inspecteur-vétérinaire, nul ne peut effectuer des recherches ou des expériences dans un établissement agréé, si ce n’est dans une salle ou un local séparé de tout local ou salle de préparation, de fabrication, de conservation, d’entreposage ou de mise à l’épreuve d’un produit vétérinaire biologique et ne communiquant pas avec cette salle ou ce local.
-> DORS/97-85, art. 73; DORS/2002-438, art. 13(F) et 18(F); DORS/2012-286, art. 59.
+- **(6)** Sauf autorisation d’un vétérinaire-inspecteur, nul ne peut effectuer des recherches ou des expériences dans un établissement agréé, si ce n’est dans une salle ou un local séparé de tout local ou salle de préparation, de fabrication, de conservation, d’entreposage ou de mise à l’épreuve d’un produit vétérinaire biologique et ne communiquant pas avec cette salle ou ce local.
+> DORS/97-85, art. 73; DORS/2002-438, art. 13(F) et 18(F); DORS/2012-286, art. 59; DORS/2019-99, art. 18(F).
 
 
 
@@ -2188,11 +2095,11 @@ dans un établissement agréé, si ce n’est dans une salle ou un local sépar�
 **129** 
 
 - **(1)** Le titulaire d’un permis de fabrication
-	- **a)** tient et met à la disposition d’un inspecteur-vétérinaire, pour inspection, les registres relatifs à la préparation, à la fabrication, à la conservation, à l’entreposage, à la mise à l’épreuve, à la vente et à la distribution de tout produit vétérinaire biologique fabriqué selon ce permis et de tout diluant à utiliser avec le produit; et
+	- **a)** tient et met à la disposition d’un vétérinaire-inspecteur, pour inspection, les registres relatifs à la préparation, à la fabrication, à la conservation, à l’entreposage, à la mise à l’épreuve, à la vente et à la distribution de tout produit vétérinaire biologique fabriqué selon ce permis et de tout diluant à utiliser avec le produit; et
 	- **b)** fournit au ministre les échantillons du produit vétérinaire biologique qu’il peut exiger.
 
 - **(2)** Les registres visés à l’alinéa (1)a) sont conservés par le titulaire du permis pendant au moins deux ans de la date de péremption du produit vétérinaire biologique.
-> DORS/2002-438, art. 18(F).
+> DORS/2002-438, art. 18(F); DORS/2019-99, art. 18(F).
 
 
 
@@ -2565,7 +2472,9 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Déclaration d’animaux blessés
 
 
-**150** À la fin du voyage ou du vol, le transporteur aérien ou maritime fait rapport à l’inspecteur-vétérinaire, au port d’embarquement, de tout animal mort, tué ou gravement blessé au cours du voyage, indiquant dans chaque cas la cause de la mort ou de la blessure.
+**150** À la fin du voyage ou du vol, le transporteur aérien ou maritime fait rapport au vétérinaire-inspecteur, au port d’embarquement, de tout animal mort, tué ou gravement blessé au cours du voyage, indiquant dans chaque cas la cause de la mort ou de la blessure.
+> DORS/2019-99, art. 18(F).
+
 
 
 
@@ -2613,11 +2522,13 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **d)** un vétérinaire qualifié, s’il y a plus de 25 équidés; et
 	- **e)** un préposé pour chaque groupe de 50 têtes ou fraction de ce nombre, à l’exception des équidés.
 
-- **(2)** Sur demande écrite du ministre, un transporteur maritime ou aérien dispose d’un inspecteur-vétérinaire sur le bateau ou l’aéronef affecté au transport des animaux.
+- **(2)** Sur demande écrite du ministre, un transporteur maritime ou aérien dispose d’un vétérinaire-inspecteur sur le bateau ou l’aéronef affecté au transport des animaux.
 
-- **(3)** Le transporteur maritime avise un inspecteur-vétérinaire de l’heure du départ du navire affecté au transport des animaux et, au moins six heures avant le départ, lui fournit les noms du contremaître, de son adjoint et des préposés aux soins des animaux à bord du navire.
+- **(3)** Le transporteur maritime avise un vétérinaire-inspecteur de l’heure du départ du navire affecté au transport des animaux et, au moins six heures avant le départ, lui fournit les noms du contremaître, de son adjoint et des préposés aux soins des animaux à bord du navire.
 
-- **(4)** Le contremaître, son adjoint et les préposés aux soins des animaux à bord du navire se présentent à l’inspecteur-vétérinaire au moins six heures avant le départ du navire.
+- **(4)** Le contremaître, son adjoint et les préposés aux soins des animaux à bord du navire se présentent au vétérinaire-inspecteur au moins six heures avant le départ du navire.
+> DORS/2019-99, art. 18(F).
+
 
 
 
@@ -2661,7 +2572,9 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Enclos réservés
 
 
-**155** Un inspecteur-vétérinaire peut ordonner à un transporteur maritime de garder libres à bord du navire les enclos qu’il désigne pour loger des animaux blessés, malades ou autrement inaptes au transport au cours du voyage.
+**155** Un vétérinaire-inspecteur peut ordonner à un transporteur maritime de garder libres à bord du navire les enclos qu’il désigne pour loger des animaux blessés, malades ou autrement inaptes au transport au cours du voyage.
+> DORS/2019-99, art. 18(F).
+
 
 
 
@@ -2718,25 +2631,27 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **160** 
 
-- **(1)** La demande d’un permis ou d’une licence qu’exige le présent règlement est présentée selon une formule approuvée par le ministre.
+- **(1)** La demande visant à obtenir un permis ou une licence exigés sous le régime de la Loi est présentée dans une forme approuvée par le ministre.
 
-- **(1.1)** Sous réserve de l’alinéa 37(1)b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), le ministre délivre tout permis ou licence exigé par le présent règlement s’il est d’avis que, autant qu’il sache, l’activité visée par le permis ou la licence n’entraînera pas ou qu’il est peu probable qu’elle entraîne l’introduction ou la propagation de vecteurs, de maladies, ou de substances toxiques au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
+- **(1.1)** Le ministre délivre un permis ou une licence exigés sous le régime de la Loi s’il conclut que l’activité visée par le permis ou la licence n’entraînera pas ou qu’il est peu probable qu’elle entraîne l’introduction ou la propagation de vecteurs, de maladies ou de substances toxiques au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
 
-- **(2)** Le permis ou la licence qu’exige le présent règlement
+- **(1.2)** Tout permis ou toute licence délivrés par le ministre en vertu du présent règlement peut être délivré, à titre de permis ou de licence d’application générale, aux propriétaires ou aux personnes qui ont la possession, la responsabilité ou la charge des soins d’animaux ou de choses visés par le permis ou la licence.
+
+- **(2)** Tout permis ou licence exigés sous le régime de la Loi :
 	- **a)** est dans une forme approuvée par le ministre; et
 	- **b)** renferme les conditions nécessaires pour empêcher l’introduction et la propagation de maladies transmissibles au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
 
-- **(3)** Le ministre peut annuler ou suspendre un permis ou une licence délivrés en vertu du présent règlement s’il a des raisons de croire que
+- **(3)** Le ministre peut annuler ou suspendre un permis ou une licence délivrés sous le régime de la Loi s’il a des raisons de croire que :
 	- **a)** les conditions de délivrance du permis ou de la licence ou les conditions qui y sont contenues n’ont pas été respectées;
 	- **b)** les dispositions de la Loi ou du présent règlement n’ont pas été respectées; ou
-	- **c)** autrement, un vecteur, une maladie ou une substance toxique pourrait être introduit au Canada et s’y propager ou s’introduire dans tout autre pays, en provenance du Canada.
-> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19; DORS/2012-286, art. 60; DORS/2017-94, art. 14.
+	- **c)** autrement, un vecteur, une maladie ou une substance toxique pourrait être introduit au Canada ou s’y propager ou s’introduire dans tout autre pays, en provenance du Canada.
+> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19; DORS/2012-286, art. 60; DORS/2017-94, art. 14; DORS/2019-99, art. 14.
 
 
 
 
-**160.1** La personne à qui est délivré un permis ou une licence en vertu du présent règlement doit se conformer aux conditions qui y sont contenues.
-> DORS/93-159, art. 18.
+**160.1** Toute personne visée par un permis ou une licence délivrés sous le régime de la Loi doit se conformer aux conditions qui y sont contenues.
+> DORS/93-159, art. 18; DORS/2019-99, art. 15.
 
 
 
@@ -2755,6 +2670,16 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(4)** Ce permis est incessible.
 > DORS/78-597, art. 16.
+
+
+
+
+
+### Modification
+
+
+**161.1** Le ministre peut, de sa propre initiative ou à la demande du titulaire, modifier un permis ou une licence délivrés sous le régime de la Loi si la modification est effectuée en raison de nouveaux renseignements ou d’un changement de circonstances portés à sa connaissance et si elle n’augmente pas le risque d’introduction ou de propagation d’un vecteur, d’une maladie ou d’une substance toxique au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
+> DORS/2019-99, art. 16.
 
 
 
@@ -3662,8 +3587,8 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 
 
-**197** Le propriétaire ou la personne ayant la possession, la responsabilité ou la charge des soins d’animaux aquatiques ou choses qui se trouvent dans une zone d’éradication permet, sur demande d’un inspecteur vétérinaire, d’un inspecteur ou d’un vétérinaire agréé à cette fin par un inspecteur vétérinaire, que ces animaux aquatiques ou choses subissent des épreuves de dépistage de toute maladie visée à l’annexe du [Règlement sur les maladies déclarables](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/91/2.md).
-> DORS/2010-296, art. 5.
+**197** Le propriétaire ou la personne ayant la possession, la responsabilité ou la charge des soins d’animaux aquatiques ou de choses qui se trouvent dans une zone d’éradication permet, sur demande d’un vétérinaire-inspecteur ou d’un inspecteur ou sur demande d’un vétérinaire accrédité approuvée par un vétérinaire-inspecteur, que ces animaux aquatiques ou ces choses subissent des épreuves de dépistage de toute maladie visée à l’annexe du [Règlement sur les maladies déclarables](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/91/2.md).
+> DORS/2010-296, art. 5; DORS/2019-99, art. 17.
 
 
 
@@ -3671,13 +3596,13 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 **198** 
 
 - **(1)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est contaminée par une maladie des animaux aquatiques visée à l’annexe du [Règlement sur les maladies déclarables](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/91/2.md) si la maladie a été diagnostiquée dans la zone ou partie de zone, et peut désigner les animaux aquatiques susceptibles de contracter la maladie, sauf si :
-	- **a)** les animaux atteints de la maladie et toutes les choses qui ont été exposées à la maladie ont été traités ou éliminés de manière à convaincre l’inspecteur vétérinaire que la maladie a été éliminée de la zone ou partie de zone et, à la lumière des résultats d’un examen épidémiologique, l’inspecteur vétérinaire responsable de l’examen conclut que la maladie a été éradiquée de la zone ou partie de zone;
+	- **a)** les animaux atteints de la maladie et toutes les choses qui ont été exposées à la maladie ont été traités ou éliminés de manière à convaincre le vétérinaire-inspecteur que la maladie a été éliminée de la zone ou partie de zone et, à la lumière des résultats d’un examen épidémiologique, le vétérinaire-inspecteur responsable de l’examen conclut que la maladie a été éradiquée de la zone ou partie de zone;
 	- **b)** les animaux, les choses ou les maladies se trouvent dans une installation de confinement.
 
 - **(2)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est exempte de toute maladie des animaux aquatiques visée à l’annexe du [Règlement sur les maladies déclarables](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/91/2.md) s’il est convaincu  :
 	- **a)** sur le fondement de l’un ou plusieurs des facteurs ci-après, que la zone ou partie de zone est exempte de cette maladie :
 		- **(i)** le temps écoulé depuis que la maladie a été diagnostiquée pour la dernière fois dans la zone ou partie de zone,
-		- **(ii)** l’examen de tous les foyers soupçonnés de la maladie et la décision de l’inspecteur vétérinaire de déclarer la maladie absente,
+		- **(ii)** l’examen de tous les foyers soupçonnés de la maladie et la décision du vétérinaire-inspecteur de déclarer la maladie absente,
 		- **(iii)** les mesures prises pour éradiquer la maladie, si elle a été diagnostiquée, et la réussite de ces mesures, selon les situations énoncées aux alinéas (1)a) et b),
 		- **(iv)** les activités de dépistage sont suffisantes pour détecter la présence de la maladie,
 		- **(v)** les mesures prises pour empêcher l’introduction de la maladie dans la zone ou partie de zone, et la capacité d’appliquer ces mesures,
@@ -3691,7 +3616,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 - **(4)** Le ministre peut déclarer qu’une zone d’éradication, ou une partie d’une telle zone, est une zone temporairement exempte de toute maladie visée à l’annexe du [Règlement sur les maladies déclarables](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/91/2.md) s’il ne s’agit pas d’une zone contaminée, d’une zone exempte ni d’une zone tampon.
 
 - **(5)** Toute déclaration faite en vertu du présent article contient une description de la zone d’éradication ou d’une partie d’une telle zone, le nom de la maladie sur laquelle est fondée la déclaration ainsi que la liste des espèces d’animaux aquatiques et des carcasses ou parties de carcasses susceptibles d’être contaminées par la maladie.
-> DORS/2010-296, art. 5.
+> DORS/2010-296, art. 5; DORS/2019-99, art. 18(F).
 
 
 
