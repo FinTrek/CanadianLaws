@@ -53,10 +53,10 @@ Autorités habilitantes :
 
 **3** 
 
-- **(1)** Lors de l’octroi au survivant ou à l’enfant d’un juge ou d’un juge à la retraite d’une pension prévue par la Loi, il peut être demandé par écrit au Ministre, par le survivant ou l’enfant, ou en son nom, que soient acquittés, par prélèvement sur le Trésor, tout ou partie des droits sur les successions ou sur les legs, appelés « droits successoraux » au présent article, que le survivant ou l’enfant doit payer sur cette pension.
+- **(1)** Lors du versement au survivant ou à l’enfant d’un juge ou d’un juge à la retraite d’une pension prévue par la Loi, il peut être demandé par écrit au Ministre, par le survivant ou l’enfant, ou en son nom, que soient acquittés, par prélèvement sur le Trésor, tout ou partie des droits sur les successions ou sur les legs, appelés « droits successoraux » au présent article, que le survivant ou l’enfant doit payer sur cette pension.
 
 - **(2)** Le ministre des Finances peut, à la requête du Ministre, conformément à la demande présentée en vertu du paragraphe (1), ordonner que soient acquittés pour le survivant ou l’enfant, par prélèvement sur le Trésor, les droits successoraux afférents à sa pension, à concurrence du montant correspondant au rapport entre les valeurs suivantes :
-	- **a)** la valeur de la pension accordée au survivant ou à l’enfant;
+	- **a)** la valeur de la pension versée au survivant ou à l’enfant;
 	- **b)** la valeur des biens sur lesquels le survivant ou l’enfant doit payer des droits successoraux à la suite du décès du juge ou du juge à la retraite.
 
 - **(3)** La valeur des biens visés à l’alinéa (2)b) est celle sur laquelle est fondée la détermination définitive des droits successoraux que le survivant ou l’enfant doit payer à leur égard.
@@ -64,7 +64,7 @@ Autorités habilitantes :
 - **(4)** Dans le cas où le ministre des Finances ordonne la mesure prévue au paragraphe (2), il doit être défalqué, pendant la période indiquée par le survivant ou l’enfant dans la demande prévue au paragraphe (1) ou, à défaut, pendant toute la durée du versement de la pension, un douzième de la somme obtenue par division de la valeur des droits successoraux à acquitter pour le survivant ou l’enfant sur le Trésor par celle d’une pension de 1 $ par an payable mensuellement pendant la période indiquée dans la demande prévue au paragraphe (1) ou, à défaut, pendant la période de versement d’une pension à une personne de l’âge du survivant ou de l’enfant à la date du paiement des droits successoraux sur le Trésor, calculée :
 	- **a)** dans le cas d’une pension due au survivant, conformément à la table « a(f) Ultimate Table » du « Mortality of Annuitants, 1900-1920 », publiée pour le compte de l’Institute of Actuaries et de la Faculty of Actuaries en Écosse en 1924, ainsi que l’intérêt au taux de 4 % l’an;
 	- **b)** dans le cas d’une pension due à l’enfant, au taux de 4 % l’an, indépendamment de son espérance de vie.
-> DORS/2003-276, art. 4.
+> DORS/2003-276, art. 4; DORS/2019-103, art. 1.
 
 
 
