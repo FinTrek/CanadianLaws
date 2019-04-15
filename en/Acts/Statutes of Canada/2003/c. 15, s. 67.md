@@ -846,6 +846,11 @@ where
 </td>
 </tr>
 <tr>
+<td>Huu-ay-aht First Nations</td>
+<td>Huu-ay-aht First Nations Government</td>
+<td>Maanulth Lands, as defined in the [Maanulth First Nations Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2018.md), S.C. 2009, c. 18, of the Huu-ay-aht First Nations</td>
+</tr>
+<tr>
 <td>Innue Essipit
 
 </td>
@@ -888,6 +893,11 @@ where
 <td>Each reserve of Kamloops that is not shared with another band
 
 </td>
+</tr>
+<tr>
+<td>Ka:’yu:’k’t’h’/Che:k’tles7et’h’ First Nations</td>
+<td>Ka:’yu:’k’t’h’/Che:k’tles7et’h’ First Nations Government</td>
+<td>Maanulth Lands, as defined in the [Maanulth First Nations Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2018.md), S.C. 2009, c. 18, of the Ka:’yu:’k’t’h’/Che:k’tles7et’h’ First Nations</td>
 </tr>
 <tr>
 <td>Kluane First Nation
@@ -1198,6 +1208,11 @@ where
 </td>
 </tr>
 <tr>
+<td>Toquaht Nation</td>
+<td>Toquaht Nation Government</td>
+<td>Maanulth Lands, as defined in the [Maanulth First Nations Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2018.md), S.C. 2009, c. 18, of the Toquaht Nation</td>
+</tr>
+<tr>
 <td>Tr’ondëk Hwëch’in
 
 </td>
@@ -1240,6 +1255,11 @@ where
 <td>Each reserve of Tzeachten that is not shared with another band
 
 </td>
+</tr>
+<tr>
+<td>Uchucklesaht Tribe</td>
+<td>Uchucklesaht Tribe Government</td>
+<td>Maanulth Lands, as defined in the [Maanulth First Nations Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2018.md), S.C. 2009, c. 18, of the Uchucklesaht Tribe</td>
 </tr>
 <tr>
 <td>Vuntut Gwitchin First Nation
@@ -1296,9 +1316,14 @@ where
 
 </td>
 </tr>
+<tr>
+<td>Yuułuʔiłʔatḥ First Nation (also known as the Ucluelet First Nation)</td>
+<td>Yuułuʔiłʔatḥ First Nation Government</td>
+<td>Maanulth Lands, as defined in the [Maanulth First Nations Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2018.md), S.C. 2009, c. 18, of the Yuułuʔiłʔatḥ First Nation</td>
+</tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; 2015, c. 24, s. 41; SOR/2015-28; SOR/2016-97, 127, 301.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; 2015, c. 24, s. 41; SOR/2015-28; SOR/2016-97, 127, 301; SOR/2019-102, s. 1.
 
 
 
