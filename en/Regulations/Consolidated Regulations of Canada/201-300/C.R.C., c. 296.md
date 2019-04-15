@@ -78,9 +78,9 @@ Enabling authorities:
 
 ***bovine*** means cattle or bison domestically raised or kept, but for the purposes of the import reference document does not include a bison that has ever been in contact with or part of a wild herd; (*bovin*)
 
-***brucellosis-accredited area*** means an eradication area, or a part of one, that is declared to be a brucellosis-accredited area under subsection 75(1); (*zone accréditée pour la brucellose*)
+***brucellosis-accredited area***[Repealed, SOR/2019-99, s. 1]
 
-***brucellosis-free area*** means an eradication area, or a part of one, that is declared to be a brucellosis-free area under subsection 75(3); (*zone exempte de brucellose*)
+***brucellosis-free area***[Repealed, SOR/2019-99, s. 1]
 
 ***brucellosis free listed herd***[Repealed, SOR/97-85, s. 1]
 
@@ -228,13 +228,13 @@ Enabling authorities:
 - **(a)** the collection of body tissue or fluid from an animal, and
 - **(b)** the injection of an animal for the purpose of determining that animal’s freedom from or infection with disease; (*épreuve*)
 
-***tuberculosis-accredited advanced area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-accredited advanced area under subsection 74(3); (*zone accréditée supérieure pour la tuberculose*)
+***tuberculosis-accredited advanced area***[Repealed, SOR/2019-99, s. 1]
 
-***tuberculosis-accredited area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-accredited area under subsection 74(1); (*zone accréditée pour la tuberculose*)
+***tuberculosis-accredited area***[Repealed, SOR/2019-99, s. 1]
 
 ***tuberculosis-accredited herd***[Repealed, SOR/97-85, s. 1]
 
-***tuberculosis-free area*** means an eradication area, or a part of one, that is declared to be a tuberculosis-free area under subsection 74(5); (*zone exempte de tuberculose*)
+***tuberculosis-free area***[Repealed, SOR/2019-99, s. 1]
 
 ***United States*** means the states of the United States that are on the mainland of the North American continent and the state of Hawaii; (*États-Unis*)
 
@@ -247,7 +247,7 @@ Enabling authorities:
 ***Veterinary Inspection, Operations***[Repealed, SOR/97-85, s. 1]
 
 ***veterinary inspector***[Repealed, SOR/97-85, s. 1]
-> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3; SOR/2014-23, s. 1; SOR/2018-108, s. 403.
+> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3; SOR/2014-23, s. 1; SOR/2018-108, s. 403; SOR/2019-99, s. 1.
 
 
 
@@ -268,12 +268,12 @@ Enabling authorities:
 - **(1)** Where an animal
 	- **(a)** is affected or suspected of being affected with a communicable disease,
 	- **(b)** has been in contact with an animal so affected or suspected of being so affected,
-	- **(c)** is in an eradication area, or
+	- **(c)** is in an eradication area or control zone, or
 	- **(d)** is imported or tendered for import into Canada,
 an inspector may order the person having the possession, care or custody of the animal to keep separate the animal in a place and manner suitable for inspection and testing within the period of time specified by the inspector.
 
 - **(2)** Every person who receives an order referred to in subsection (1) shall comply with the order.
-> SOR/78-69, s. 2(F); SOR/79-839, s. 3.
+> SOR/78-69, s. 2(F); SOR/79-839, s. 3; SOR/2019-99, s. 2.
 
 
 
@@ -289,9 +289,9 @@ an inspector may order the person having the possession, care or custody of the 
 **4** An inspector may inspect any animal in Canada that
 - **(a)** is affected or suspected of being affected with a communicable disease;
 - **(b)** has been in contact with an animal so affected or suspected of being so affected;
-- **(c)** is in an eradication area; or
+- **(c)** is in an eradication area or control zone; or
 - **(d)** is imported or tendered for import into Canada.
-> SOR/78-69, s. 4(F); SOR/79-839, s. 4.
+> SOR/78-69, s. 4(F); SOR/79-839, s. 4; SOR/2019-99, s. 3.
 
 
 
@@ -309,7 +309,7 @@ in such a manner, at such a place or places, under such conditions and within su
 - **(3)** Where an order referred to in subsection (1) requiring an animal to be destroyed or destroyed and disposed of is not complied with within the time specified therein, a veterinary inspector may have the animal
 	- **(a)** removed to and destroyed at an establishment where food animals are slaughtered by the holder of a licence that is issued under paragraph 20(1)(b) of the [Safe Food for Canadians Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2024.md); or
 	- **(b)** destroyed at a time and place determined by him, and have its carcass disposed of as determined by him.
-> SOR/79-839, s. 4; SOR/81-348, s. 1; SOR/2018-108, s. 404.
+> SOR/79-839, s. 4; SOR/81-348, s. 1; SOR/2018-108, s. 404; SOR/2019-99, s. 18(F).
 
 
 
@@ -1076,7 +1076,7 @@ the inspector may order the person who owns or has possession, care or control o
 **69** 
 
 - **(1)** Subject to this Part, no person shall export out of Canada livestock, poultry, animal embryos or animal semen unless
-	- **(a)** the person has obtained a certificate of a veterinary inspector or a certificate of an accredited veterinarian endorsed by a veterinary inspector issued before shipment that clearly identifies the livestock, poultry, animal embryos or animal semen and shows
+	- **(a)** the person has obtained, before shipment, a certificate issued by a veterinary inspector or a certificate issued by an accredited veterinarian that is approved in writing by a veterinary inspector, that clearly identifies the livestock, poultry, animal embryos or animal semen and shows
 		- **(i)** that a veterinary inspector or an accredited veterinarian has inspected the livestock, poultry, animal embryos or animal semen and found it to be free from any communicable diseases,
 		- **(ii)** the date and place of inspection, and
 		- **(iii)** where tests have been performed, the nature of each test and that the livestock, poultry, animal embryos or animal semen proved negative to such tests; and
@@ -1095,7 +1095,7 @@ the inspector may order the person who owns or has possession, care or control o
 - **(6)** For the purpose of this section, ***animal embryo*** means a fertilized ovum of a mammal before it is implanted into a mammal.
 
 - **(7)** Paragraph (1)(a) and subsection (3) do not apply to a regulated animal, other than a porcine, if it is transported directly between Rainy River, Ontario and Sprague, Manitoba via the state of Minnesota by means of a conveyance that has had all exits by which the animal could leave the conveyance sealed by an official of the government of Canada or of the United States.
-> SOR/79-839, s. 16; SOR/83-899, s. 3; SOR/85-689, s. 5; SOR/94-491, s. 2; SOR/97-85, s. 50; SOR/97-292, s. 28; SOR/97-478, s. 14(F); SOR/2000-184, s. 68; SOR/2001-210, s. 5.
+> SOR/79-839, s. 16; SOR/83-899, s. 3; SOR/85-689, s. 5; SOR/94-491, s. 2; SOR/97-85, s. 50; SOR/97-292, s. 28; SOR/97-478, s. 14(F); SOR/2000-184, s. 68; SOR/2001-210, s. 5; SOR/2019-99, s. 4; SOR/2019-99, s. 18(F).
 
 
 
@@ -1114,7 +1114,7 @@ the inspector may order the person who owns or has possession, care or control o
 - **(3)** The official export stamp required by this section shall contain the words “Government of Canada — CANADIAN FOOD INSPECTION AGENCY — Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS” and it shall be applied on a certificate only by an inspector, a veterinary inspector or a person authorized by an inspector or a veterinary inspector.
 
 - **(4)** No person except an inspector, a veterinary inspector or a person authorized by an inspector or a veterinary inspector shall have in his or her possession an official export stamp or any facsimile of one.
-> SOR/2006-147, s. 17.
+> SOR/2006-147, s. 17; SOR/2019-99, s. 18(F).
 
 
 
@@ -1141,68 +1141,24 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 **PART IX** 
-## Eradication of Diseases
+## Eradication and Control of Diseases
 
 
 
-### Eradication Areas
+### Screening Tests
 
 
-**73** Each province is established as an eradication area wherein
-- **(a)** any ruminant, equine or porcine animal may be inspected, segregated and tested for tuberculosis or brucellosis; and
-- **(b)** area and herd disease eradication programs are instituted for the eradication of tuberculosis and brucellosis in ruminants.
-> SOR/79-295, s. 7; SOR/79-839, s. 18; SOR/97-85, s. 52.
+**73** [Repealed, SOR/2019-99, s. 5]
 
 
 
-
-**73.1** Every owner or person in charge of animals in an eradication area shall, when requested to do so by a veterinary inspector or an accredited veterinarian endorsed by a veterinary inspector, permit tests for communicable disease to be conducted on the animals.
-> SOR/79-839, s. 18.
+**73.1** Every owner or person in charge of animals in an eradication area or control zone shall, when requested to do so by a veterinary inspector or by an accredited veterinarian with the approval of a veterinary inspector, permit tests for communicable disease to be conducted on the animals.
+> SOR/79-839, s. 18; SOR/2019-99, s. 5.
 
 
 
 
-
-### Bovine Tuberculosis
-
-
-**74** 
-
-- **(1)** The Minister may declare an eradication area, or a part of one, to be a tuberculosis-accredited area for a period of one year if
-	- **(a)** he or she is satisfied
-		- **(i)** from tests or statistical analysis that the number of herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, affected with bovine tuberculosis during the previous year does not exceed 0.1% of the number of herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, and
-		- **(ii)** that a surveillance program sufficient to ensure the discovery of bovine tuberculosis in the eradication area, or part of it, will be maintained during that period; or
-	- **(b)** the eradication area, or part of it, has fewer than 10,000 bovine herds and he or she is satisfied
-		- **(i)** from tests or statistical analysis that the number of herds of farmed bovines or farmed cervidae in the eradication area, or part of it, affected with bovine tuberculosis during the previous year does not exceed ten affected herds,
-		- **(ii)** that a surveillance program sufficient to ensure the discovery of bovine tuberculosis in the eradication area, or part of it, will be maintained during that period, and
-		- **(iii)** that adequate bovine tuberculosis control and eradication measures in the eradication area, or part of it, will be maintained during that period.
-
-- **(2)** The Minister shall revoke a declaration made under subsection (1) if the conditions for making the declaration are no longer met.
-
-- **(3)** The Minister may declare an eradication area, or a part of one, to be a tuberculosis-accredited advanced area for a period of one year if
-	- **(a)** he or she is satisfied
-		- **(i)** from tests or statistical analysis that the number of herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, affected with bovine tuberculosis during each of the two previous years does not exceed 0.01% of the number of herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, and
-		- **(ii)** that a surveillance program sufficient to ensure the discovery of bovine tuberculosis in the eradication area, or part of it, will be maintained during that period; or
-	- **(b)** the eradication area, or part of it, has fewer than 30,000 bovine herds and he or she is satisfied
-		- **(i)** from tests or statistical analysis that the number of herds of farmed bovines or farmed cervidae in the eradication area, or part of it, affected with bovine tuberculosis during each of the two previous years does not exceed three affected herds,
-		- **(ii)** that a surveillance program sufficient to ensure the discovery of bovine tuberculosis in the eradication area, or part of it, will be maintained during that period, and
-		- **(iii)** that adequate bovine tuberculosis control and eradication measures in the eradication area, or part of it, will be maintained during that period.
-
-- **(4)** The Minister shall revoke a declaration made under subsection (3) if the conditions for making the declaration are no longer met.
-
-- **(5)** The Minister may declare an eradication area, or a part of one, to be a tuberculosis-free area for a period of one year if
-	- **(a)** he or she is satisfied
-		- **(i)** from tests or statistical analysis that no cases of bovine tuberculosis have occurred among the herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, during the previous five years, and
-		- **(ii)** that a surveillance program sufficient to ensure the discovery of bovine tuberculosis in the eradication area, or part of it, will be maintained during that period; or
-	- **(b)** the eradication area, or part of it, was previously declared to be a tuberculosis-free area and he or she is satisfied
-		- **(i)** from tests or statistical analysis that no cases of bovine tuberculosis have occurred among the herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, during the previous three years, and
-		- **(ii)** that a surveillance program sufficient to ensure the discovery of bovine tuberculosis in the eradication area, or part of it, will be maintained during that period.
-
-- **(6)** The Minister shall revoke a declaration made under subsection (5) if two or more herds affected with bovine tuberculosis have been detected in the eradication area, or part of it, within a period of 48 months beginning at any time after the area last became a tuberculosis-free area.
-
-- **(7)** For the purposes of this section, a herd is considered to be affected by bovine tuberculosis if at least one case of bovine tuberculosis has been detected in the herd.
-> SOR/79-295, s. 8; SOR/79-839, s. 19; SOR/84-828, s. 2; SOR/97-85, s. 53; SOR/2002-444, s. 2.
-
+**74** [Repealed, SOR/2019-99, s. 5]
 
 
 
@@ -1210,27 +1166,7 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-
-### Bovine Brucellosis
-
-
-**75** 
-
-- **(1)** The Minister may declare an eradication area, or a part of one, to be a brucellosis-accredited area for a period of three years if he or she is satisfied
-	- **(a)** from tests or statistical analysis that the number of herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, affected with bovine brucellosis during each of the previous three years does not exceed 0.1% of the number of herds of farmed bovines or farmed Cervidae in the eradication area, or part of it; and
-	- **(b)** that a surveillance program sufficient to ensure the discovery of bovine brucellosis in the eradication area, or part of it, will be maintained during that period.
-
-- **(2)** The Minister shall revoke a declaration made under subsection (1) if the conditions for making the declaration are no longer met.
-
-- **(3)** The Minister may declare an eradication area, or a part of one, to be a brucellosis-free area for a period of three years if he or she is satisfied
-	- **(a)** from tests or statistical analysis that no cases of bovine brucellosis have occurred among the herds of farmed bovines or farmed Cervidae in the eradication area, or part of it, during the previous five years; and
-	- **(b)** that a surveillance program sufficient to ensure the discovery of bovine brucellosis in the eradication area, or part of it, will be maintained during that period.
-
-- **(4)** The Minister shall revoke a declaration made under subsection (3) if two or more herds affected with bovine brucellosis have been detected in the eradication area, or part of it, within a period of 60 months beginning at any time after the area last became a brucellosis-free area.
-
-- **(5)** For the purposes of this section, a herd is considered to be affected by bovine brucellosis if at least one case of bovine brucellosis has been detected in the herd.
-> SOR/78-205, s. 2; SOR/79-295, s. 9; SOR/79-839, s. 20; SOR/85-139, s. 1; SOR/92-585, s. 2; SOR/97-85, s. 54; SOR/2002-444, s. 2.
-
+**75** [Repealed, SOR/2019-99, s. 5]
 
 
 
@@ -1240,16 +1176,12 @@ the inspector may order the person who owns or has possession, care or control o
 
 **76** 
 
-- **(1)** No person shall, without a permit issued by the Minister under section 160, move, or cause to be moved,
-	- **(a)** a member of the Cervidae family from one place in Canada to another place in Canada;
-	- **(b)** a bovine from a tuberculosis-accredited to a tuberculosis-accredited advanced area or a tuberculosis-free area;
-	- **(c)** a bovine from a tuberculosis-accredited advanced area to a tuberculosis-free area; or
-	- **(d)** a bovine from a brucellosis-accredited area to a brucellosis-free area.
+- **(1)** No person shall, without a permit issued by the Minister under section 160, move, or cause to be moved, a member of the Cervidae family from one place in Canada to another place in Canada.
 
 - **(2)** No person shall receive, or possess, without a permit issued by the Minister under section 160, an animal that has been moved in contravention of subsection (1).
 
-- **(3)** Every person to whom a permit mentioned in subsection (1) or (2) is issued, and every person to whose premises a member of the Cervidae family, or a bovine originating from a tuberculosis-accredited area, tuberculosis-accredited advanced area or a brucellosis-accredited area, is moved, shall keep a copy of the permit.
-> SOR/79-295, s. 10; SOR/79-839, s. 22(F); SOR/97-85, s. 55; SOR/2002-444, s. 2.
+- **(3)** Every person to whom a permit referred to in subsection (1) or (2) is issued, and every person to whose premises a member of the Cervidae family is moved under a permit, shall keep a copy of the permit.
+> SOR/79-295, s. 10; SOR/79-839, s. 22(F); SOR/97-85, s. 55; SOR/2002-444, s. 2; SOR/2019-99, s. 6.
 
 
 
@@ -1278,75 +1210,61 @@ the inspector may order the person who owns or has possession, care or control o
 ### Pullorum Disease and Fowl Typhoid
 
 
-**79** In this section and sections 79.1 to 79.2,
+**79** The following definitions apply in this section and sections 79.14 to 79.2.
 
 ***approved hatchery supply flock*** means a flock of chickens or turkeys that is
 - **(a)** a primary breeding flock or a flock descended from a primary breeding flock, and
-- **(b)** designated as an approved hatchery supply flock in accordance with any regulations in force in the province in which the flock is located; (*troupeau approuvé fournisseur de couvoirs*)
+- **(b)** designated as an approved hatchery supply flock in accordance with any regulations in force in the province in which the flock is located. (*troupeau approuvé fournisseur de couvoirs*)
 
-***approved laboratory*** means an establishment or a vehicle approved by the Minister for use in carrying out examinations of poultry, poultry products or poultry by-products; (*laboratoire approuvé*)
+***approved laboratory*** means an establishment or a vehicle approved by the Minister for use in carrying out examinations of poultry, poultry products or poultry by-products. (*laboratoire approuvé*)
 
-***chicken*** means any bird of the species *Gallus gallus*; (*poulet*)
+***chicken*** means any bird of the species *Gallus gallus*. (*poulet*)
 
-***eradication area*** means a pullorum disease and fowl typhoid eradication area established under section 79.1; (*zone d’éradication*)
+***eradication area***[Repealed, SOR/2019-99, s. 7]
 
-***fluff*** means the chick down and dust produced in a hatcher during the hatching process; (*duvet*)
+***fluff*** means the chick down and dust produced in a hatcher during the hatching process. (*duvet*)
 
 ***game bird***[Repealed, SOR/97-85, s. 56]
 
-***hatcher*** means any equipment in which eggs hatch; (*éclosoir*)
+***hatcher*** means any equipment in which eggs hatch. (*éclosoir*)
 
 ***hatchery***[Repealed, SOR/2000-184, s. 69]
 
 ***health monitored hatchery*** means a hatchery in respect of which a permit has been issued by the Minister
 - **(a)** pursuant to these Regulations, or
-- **(b)** pursuant to the [Hatchery Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201023.md); (*couvoir contrôlé*)
+- **(b)** pursuant to the [Hatchery Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201023.md). (*couvoir contrôlé*)
 
-***identification tag*** means a tag on which letters or numbers are inscribed for the purpose of identifying a chicken, turkey or game bird; (*étiquette d’identification*)
+***identification tag*** means a tag on which letters or numbers are inscribed for the purpose of identifying a chicken, turkey or game bird. (*étiquette d’identification*)
 
-***primary breeding flock*** means a flock of chickens or turkeys comprising one or more generations of chickens or turkeys that is maintained for the purpose of establishing, continuing or improving parent lines; (*troupeau primaire de reproduction*)
+***primary breeding flock*** means a flock of chickens or turkeys comprising one or more generations of chickens or turkeys that is maintained for the purpose of establishing, continuing or improving parent lines. (*troupeau primaire de reproduction*)
 
 ***Regional Veterinary Director***[Repealed, SOR/2000-184, s. 69]
 
 ***registered hatchery***[Repealed, SOR/83-901, s. 1]
 
-***show*** means a competition or an exhibition in which chickens, turkeys or game birds are judged according to their class, breed or variety characteristics as set out in the American Standard of Perfection published by the American Poultry Association Inc.; (*foire*)
+***show*** means a competition or an exhibition in which chickens, turkeys or game birds are judged according to their class, breed or variety characteristics as set out in the American Standard of Perfection published by the American Poultry Association Inc. (*foire*)
 
-***show flock*** means a flock of chickens, turkeys or game birds from which birds of the flock are occasionally or regularly exhibited in shows; (*troupeau de foire*)
+***show flock*** means a flock of chickens, turkeys or game birds from which birds of the flock are occasionally or regularly exhibited in shows. (*troupeau de foire*)
 
 ***turkey*** means any bird of the species *Meleagris gallopavo*. (*dindon*)
-> SOR/78-69, s. 30; SOR/79-839, s. 24; SOR/82-670, s. 2; SOR/83-900, s. 5; SOR/83-901, s. 1; SOR/85-689, s. 6(E); SOR/97-85, s. 56; SOR/2000-184, s. 69.
+> SOR/78-69, s. 30; SOR/79-839, s. 24; SOR/82-670, s. 2; SOR/83-900, s. 5; SOR/83-901, s. 1; SOR/85-689, s. 6(E); SOR/97-85, s. 56; SOR/2000-184, s. 69; SOR/2019-99, s. 7.
 
 
 
 
-**79.1** Vancouver Island, the remainder of British Columbia and each province are established as eradication areas wherein poultry, poultry products and poultry by-products may be inspected segregated and tested for pullorum disease and fowl typhoid and wherein eradication programs are instituted for pullorum disease and fowl typhoid.
-> SOR/82-670, s. 2; SOR/98-415, s. 1.
+**79.1** [Repealed, SOR/2019-99, s. 8]
 
 
 
-
-**79.11** Every owner or person in charge of poultry in an eradication area shall, when requested to do so by a veterinary inspector, permit tests for communicable diseases to be conducted on the poultry, their products or by-products.
-> SOR/82-670, s. 2.
+**79.11** [Repealed, SOR/2019-99, s. 8]
 
 
 
-
-**79.12** 
-
-- **(1)** The Minister may declare an eradication area to be free of pullorum disease or fowl typhoid if bacteriological tests or epidemiological studies conducted in the area during the previous three years have not identified pullorum disease or fowl typhoid in any approved hatchery supply flock in the area.
-
-- **(2)** The Minister may revoke a declaration made under subsection (1) if he is satisfied that
-	- **(a)** any person in the eradication area has contravened or failed to comply with section 79.11, 79.13, 79.14, 79.15, 79.16, 79.17, 79.18, 79.19 or 79.2; or
-	- **(b)** pullorum disease or fowl typhoid infection has been identified in and has spread from a flock of chickens, turkeys or game birds in the eradication area to any other flock of chickens, turkeys or game birds and has not been eradicated within one year of the date that the infection was identified.
-> SOR/82-670, s. 2.
+**79.12** [Repealed, SOR/2019-99, s. 8]
 
 
 
-
-**79.13** No person shall transport or permit to be transported day old chicks or hatching eggs into an eradication area that has been declared by the Minister to be free of pullorum disease or fowl typhoid from an eradication area that has not been so declared unless the chicks or eggs are accompanied by a certificate, signed by an inspector or an individual appointed for that purpose by the province from which the chicks or eggs originate, indicating that the flock of origin has been sampled and tested serologically in accordance with subsection 79.17(1) during the previous 15 months and the tests have proven negative for pullorum disease and fowl typhoid.
-> SOR/82-670, s. 2.
-
+**79.13** [Repealed, SOR/2019-99, s. 8]
 
 
 
@@ -1405,7 +1323,7 @@ the inspector may order the person who owns or has possession, care or control o
 
 **79.19** 
 
-- **(1)** No person shall operate a hatchery in an eradication area unless
+- **(1)** No person shall operate a hatchery unless
 	- **(a)** the hatchery is a health monitored hatchery; and
 	- **(b)** individual fluff samples or such other samples as may be required by an inspector from each hatcher in the hatchery are submitted by the owner or operator of the hatchery to an approved laboratory for testing every sixth week as follows:
 		- **(i)** in respect of a hatchery that hatches less than four times a week, samples shall be submitted from all hatchers from which chicks are removed during the sixth week, and
@@ -1428,7 +1346,7 @@ the inspector may order the person who owns or has possession, care or control o
 - **(7)** No person shall sell or remove chicks from a hatchery that does not meet the requirements of paragraphs (1)(a) and (b) unless he has the permission of the Minister in writing.
 
 - **(8)** Every operator of a hatchery shall ensure that any chick or unhatched embryo that is killed in the hatchery is killed in a humane manner.
-> SOR/82-670, s. 2; SOR/83-901, s. 3; SOR/85-689, s. 8; SOR/97-85, s. 57.
+> SOR/82-670, s. 2; SOR/83-901, s. 3; SOR/85-689, s. 8; SOR/97-85, s. 57; SOR/2019-99, s. 9.
 
 
 
@@ -1440,25 +1358,12 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-### Serious Outbreaks of Communicable Diseases
+### Outbreaks of Communicable Diseases
+> [SOR/2019-99, s. 10]
 
 
-**80** 
 
-- **(1)** Subject to subsection (3), where the Minister has declared a control area pursuant to subsection 27(1) of the Act, the Minister may designate the animals or things likely to be infected or contaminated by the disease and, from the time the Minister makes the designation, no person shall, without the permission of an inspector or such other person as the Minister may designate, move
-	- **(a)** any designated animal or thing
-		- **(i)** into the designated area,
-		- **(ii)** out of the designated area, or
-		- **(iii)** from a place in the designated area except to a contiguous place in the designated area occupied by the same person; or
-	- **(b)** any flesh, hides, hoofs, horns or other parts of animals designated in the order, or, in the case of poultry, the eggs thereof, or any hay, straw, fodder, cereal grain or other things used for feeding or caring for such animals
-		- **(i)** out of the designated area, or
-		- **(ii)** from a place in the designated area except to a contiguous place in the designated area occupied by the same person.
-
-- **(2)** Any permission to move an animal or any other thing referred to in subsection (1) given by an inspector or such other person designated by the Minister may be general or particular.
-
-- **(3)** Subsection (1) does not apply in respect of the movement out of the designated area of anything that is in an elevator, as defined in the [Canadian Wheat Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-24.md), on the date the Minister’s order comes into force.
-> SOR/97-85, s. 58.
-
+**80** [Repealed, SOR/2019-99, s. 10]
 
 
 
@@ -1511,11 +1416,11 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-### Eradication of Diseases Specified by Minister
+### Segregation and Inspection
 
 
-**90** The Minister may order the owner or the person having the possession, care or control in an eradication area of any poultry, ruminant, or equine or porcine animal, to segregate the animal and to have the animal inspected in such manner and for such communicable disease as the Minister may specify.
-> SOR/97-85, s. 61.
+**90** The Minister may order a person who owns or has the possession, care or control of any poultry, ruminant, or equine or porcine animal to segregate the animal and to have the animal inspected in any manner and for any communicable disease that the Minister specifies.
+> SOR/97-85, s. 61; SOR/2019-99, s. 11.
 
 
 
@@ -1735,8 +1640,8 @@ the inspector may order the person who owns or has possession, care or control o
 to clean and disinfect such outhouse, stable, yard or other place or such aircraft, railway car, vehicle or vessel; or
 	- **(b)** order any person entering or leaving any outhouse, stable, yard or other place affected or suspected of being affected with a communicable disease to clean and disinfect any footwear, clothing or other thing worn or carried by him.
 
-- **(2)** Where an animal is required to be destroyed pursuant to section 37 or 48 of the Act, every person in charge of a conveyance in which the animal is thereafter carried shall, immediately after the animal is unloaded from the conveyance, clean and disinfect the conveyance under the supervision of an inspector, at the nearest place where facilities for that purpose are available.
-> SOR/92-585, s. 2.
+- **(2)** If an animal is required to be destroyed under section 27.6, 37 or 48 of the Act, every person in charge of a conveyance in which the animal is subsequently carried shall, immediately after the animal is unloaded from the conveyance, clean and disinfect the conveyance under the supervision of an inspector at the nearest place where facilities for that purpose are available.
+> SOR/92-585, s. 2; SOR/2019-99, s. 12; SOR/2019-99, s. 18(F).
 
 
 
@@ -1807,6 +1712,8 @@ has been imported into Canada from any country other than the United States, it 
 - **(1)** A veterinary inspector may order the person conducting a public sale, auction or market of livestock to clean and disinfect the place where such sale, auction or market is conducted, under the supervision or to the satisfaction of an inspector within a time specified by the veterinary inspector.
 
 - **(2)** If the place where a public sale, auction or market of livestock is held is not thoroughly cleaned and disinfected in accordance with the notice of a veterinary inspector, no sale, auction or market of livestock shall be held in such place without the consent of the Minister.
+> SOR/2019-99, s. 18(F).
+
 
 
 
@@ -1855,8 +1762,8 @@ has been imported into Canada from any country other than the United States, it 
 ### Disposal of Diseased Carcasses
 
 
-**114** A veterinary inspector may order a person who owns or has the possession, care or control of an animal that dies of, or is suspected of having died of, a communicable disease or that is destroyed pursuant to section 37 or 48 of the Act to dispose of the carcass in any manner that the veterinary inspector may specify.
-> SOR/92-585, s. 2; SOR/95-475, s. 4(E).
+**114** A veterinary inspector may order a person who owns or has the possession, care or control of an animal that has died of, or is suspected of having died of, a communicable disease or that is destroyed under section 27.6, 37 or 48 of the Act to dispose of the carcass in any manner that the veterinary inspector specifies.
+> SOR/92-585, s. 2; SOR/95-475, s. 4(E); SOR/2019-99, s. 13.
 
 
 
@@ -2104,7 +2011,7 @@ and that person is exempt from any of the requirements of subsection (1) as the 
 - **(4)** Every person to whom a permit is issued to import a veterinary biologic shall
 	- **(a)** keep and make available for inspection by a veterinary inspector a record in a form approved by the Minister with respect to the importation, sale and distribution of the veterinary biologic and retain that record for at least two years following the expiration date of the veterinary biologic to which the record relates; and
 	- **(b)** furnish the Minister with such samples of the veterinary biologic as the Minister may require from time to time.
-> SOR/78-597, s. 14; SOR/82-590, s. 6; SOR/95-54, s. 5; SOR/2002-438, ss. 12(F), 18(F).
+> SOR/78-597, s. 14; SOR/82-590, s. 6; SOR/95-54, s. 5; SOR/2002-438, ss. 12(F), 18(F); SOR/2019-99, s. 18(F).
 
 
 
@@ -2180,7 +2087,7 @@ and that person is exempt from any of the requirements of subsection (1) as the 
 shall be conducted in a licensed establishment except in a room or area separate from and not leading into any room or area used for preparing, manufacturing, preserving, storing or testing a veterinary biologic.
 
 - **(6)** Unless otherwise permitted by a veterinary inspector, no research or experimentation shall be conducted in a licensed establishment except in a room or area separate from and not leading into any room or area used for preparing, manufacturing, preserving, storing or testing a veterinary biologic.
-> SOR/97-85, s. 73; SOR/2002-438, ss. 13(F), 18(F); SOR/2012-286, s. 59.
+> SOR/97-85, s. 73; SOR/2002-438, ss. 13(F), 18(F); SOR/2012-286, s. 59; SOR/2019-99, s. 18(F).
 
 
 
@@ -2192,7 +2099,7 @@ shall be conducted in a licensed establishment except in a room or area separate
 	- **(b)** furnish the Minister with such samples of the veterinary biologic as the Minister may require from time to time.
 
 - **(2)** Every record referred to in paragraph (1)(a) shall be retained by the licensee for at least two years following the expiration date of the veterinary biologic to which it relates.
-> SOR/2002-438, s. 18(F).
+> SOR/2002-438, s. 18(F); SOR/2019-99, s. 18(F).
 
 
 
@@ -2565,6 +2472,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 **150** Every air carrier and sea carrier shall, on the completion of a voyage or flight, make a report to the veterinary inspector at the port of embarkation respecting every animal that has died or was killed or seriously injured during the flight or voyage, stating in each case the cause of the death or injury.
+> SOR/2019-99, s. 18(F).
+
 
 
 
@@ -2617,6 +2526,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 - **(3)** Every sea carrier shall notify a veterinary inspector of the time of departure of a vessel transporting animals and shall, not less than six hours before such time, supply him with the names of the foreman, assistant foreman and attendants provided to care for animals on board the vessel.
 
 - **(4)** The foreman, assistant foreman and attendants caring for animals on board a vessel shall report to a veterinary inspector at least six hours before the time of departure of the vessel.
+> SOR/2019-99, s. 18(F).
+
 
 
 
@@ -2661,6 +2572,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 **155** A veterinary inspector may order a sea carrier to keep empty such pens on a vessel as are designated by a veterinary inspector in order to accommodate animals that are injured or become ill or otherwise unfit for transport during the voyage.
+> SOR/2019-99, s. 18(F).
+
 
 
 
@@ -2717,25 +2630,27 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **160** 
 
-- **(1)** Any application for a permit or licence required under these Regulations shall be in a form approved by the Minister.
+- **(1)** Any application for a permit or licence required under the Act shall be in a form approved by the Minister.
 
-- **(1.1)** Subject to paragraph 37(1)(b) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), the Minister shall issue a permit or licence required under these Regulations if the Minister is satisfied that, to the best of the Minister’s knowledge and belief, the activity for which the permit or licence is issued would not, or would not be likely to, result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
+- **(1.1)** The Minister shall issue a permit or licence required under the Act if the Minister determines that the activity for which the permit or licence is issued would not, or would not be likely to, result in the introduction into or spread within Canada of a vector, disease or toxic substance or its introduction into another country from Canada.
 
-- **(2)** Any permit or licence required under these Regulations shall
+- **(1.2)** A permit or licence issued by the Minister under these Regulations may be issued as a general permit or licence to owners or persons having the possession, care or control of an animal or thing for which the permit or licence is issued.
+
+- **(2)** Any permit or licence required under the Act shall
 	- **(a)** be in a form approved by the Minister; and
 	- **(b)** contain such conditions as are necessary to prevent the introduction of communicable disease into Canada or into any other country from Canada and the spread of communicable disease within Canada.
 
-- **(3)** The Minister may cancel or suspend a permit or licence issued under these Regulations if he has reason to believe that,
+- **(3)** The Minister may cancel or suspend a permit or licence issued under the Act if he or she has reason to believe that
 	- **(a)** any condition under which the permit or licence was issued or any condition contained in the permit or licence has not been complied with;
 	- **(b)** any provision of the Act or these Regulations has not been complied with; or
-	- **(c)** failure to do so could result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
-> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19; SOR/2012-286, s. 60; SOR/2017-94, s. 14.
+	- **(c)** failure to do so could result in the introduction into or spread within Canada of a vector, disease or toxic substance or its introduction into another country from Canada.
+> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19; SOR/2012-286, s. 60; SOR/2017-94, s. 14; SOR/2019-99, s. 14.
 
 
 
 
-**160.1** Every person to whom a permit or licence is issued under these Regulations shall comply with the conditions contained in the permit or licence.
-> SOR/93-159, s. 18.
+**160.1** Every person who is subject to a permit or licence issued under the Act shall comply with the conditions contained in the permit or licence.
+> SOR/93-159, s. 18; SOR/2019-99, s. 15.
 
 
 
@@ -2754,6 +2669,16 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(4)** No person shall sell or transfer a licence issued pursuant to subsection (1) to any other person.
 > SOR/78-597, s. 16.
+
+
+
+
+
+### Amendment
+
+
+**161.1** The Minister may, whether on his or her own initiative or on the application of the holder, amend a permit or licence issued under the Act if the amendment is made as the result of new information, or a change in circumstance, that has been brought to the Minister’s attention and does not increase the risk of the introduction into or spread within Canada of a vector, disease or toxic substance or its introduction into another country from Canada.
+> SOR/2019-99, s. 16.
 
 
 
@@ -3661,8 +3586,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 
-**197** Every owner or person having the possession, care or control of an aquatic animal or a thing in an eradication area shall, when requested by a veterinary inspector, an inspector or an accredited veterinarian endorsed by a veterinary inspector, permit tests for any of the diseases listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) to be conducted on the aquatic animal or the thing.
-> SOR/2010-296, s. 5.
+**197** Every owner or person having the possession, care or control of an aquatic animal or a thing in an eradication area shall, when requested to do so by a veterinary inspector, by an inspector or by an accredited veterinarian with the approval of a veterinary inspector, permit tests to be conducted on the aquatic animal or the thing for any of the diseases listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md).
+> SOR/2010-296, s. 5; SOR/2019-99, s. 17.
 
 
 
@@ -3690,7 +3615,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 - **(4)** The Minister may declare an eradication area, or a part of one, to be a provisionally free area for any of the diseases listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) if the eradication area or part of it is not an infected area, free area or buffer area.
 
 - **(5)** Any declaration under this section shall include a description of the eradication area, or part of it, the name of the disease on which the declaration is based and the list of the species of aquatic animals and carcasses or parts of carcasses of those aquatic animals that are susceptible to that disease.
-> SOR/2010-296, s. 5.
+> SOR/2010-296, s. 5; SOR/2019-99, s. 18(F).
 
 
 
