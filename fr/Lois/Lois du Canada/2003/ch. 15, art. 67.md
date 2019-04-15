@@ -845,6 +845,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Premières Nations des Huuayahts (aussi connues sous le nom de Premières Nations des Huu-ay-ahts)
+
+</td>
+<td>Gouvernement des Premières Nations des Huuayahts
+
+</td>
+<td>Terres maanulthes, au sens de la [Loi sur l’accord définitif concernant les premières nations maanulthes](/fr/Lois/Lois%20du%20Canada/2009/ch.%2018.md), L.C. 2009, ch. 18, des Premières Nations des Huuayahts
+
+</td>
+</tr>
+<tr>
 <td>Innue Essipit
 
 </td>
@@ -918,6 +929,17 @@ où :
 
 </td>
 <td>Toute réserve de Kwaw-kwaw-Apilt non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
+<td>Premières Nations des Kyuquots et Cheklesahts (aussi connues sous le nom de Premières Nations des Ka :’yu :’k’t’h’/Che :k’tles7et’h’)
+
+</td>
+<td>Gouvernement des Premières Nations des Kyuquots et Cheklesahts
+
+</td>
+<td>Terres maanulthes, au sens de la [Loi sur l’accord définitif concernant les premières nations maanulthes](/fr/Lois/Lois%20du%20Canada/2009/ch.%2018.md), L.C. 2009, ch. 18, des Premières Nations des Kyuquots et Cheklesahts
 
 </td>
 </tr>
@@ -1208,6 +1230,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Nation des Toquahts
+
+</td>
+<td>Gouvernement de la Nation des Toquahts
+
+</td>
+<td>Terres maanulthes, au sens de la [Loi sur l’accord définitif concernant les premières nations maanulthes](/fr/Lois/Lois%20du%20Canada/2009/ch.%2018.md), L.C. 2009, ch. 18, de la Nation des Toquahts
+
+</td>
+</tr>
+<tr>
 <td>Tr’ondëk Hwëch’in
 
 </td>
@@ -1248,6 +1281,28 @@ où :
 
 </td>
 <td>Toute réserve de Tzeachten non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
+<td>Tribu des Uchucklesahts
+
+</td>
+<td>Gouvernement de la Tribu des Uchucklesahts
+
+</td>
+<td>Terres maanulthes, au sens de la [Loi sur l’accord définitif concernant les premières nations maanulthes](/fr/Lois/Lois%20du%20Canada/2009/ch.%2018.md), L.C. 2009, ch. 18, de la Tribu des Uchucklesahts
+
+</td>
+</tr>
+<tr>
+<td>Première Nation des Ucluelets (aussi connue sous le nom de Yuułuʔiłʔatḥ First Nation)
+
+</td>
+<td>Gouvernement de la Première Nation des Ucluelets
+
+</td>
+<td>Terres maanulthes, au sens de la [Loi sur l’accord définitif concernant les premières nations maanulthes](/fr/Lois/Lois%20du%20Canada/2009/ch.%2018.md), L.C. 2009, ch. 18, de la Première Nation des Ucluelets
 
 </td>
 </tr>
@@ -1297,7 +1352,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; 2015, ch. 24, art. 41; DORS/2015-28; DORS/2016-97, 127, 301.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; 2015, ch. 24, art. 41; DORS/2015-28; DORS/2016-97, 127, 301; DORS/2019-102, art. 1.
 
 
 
