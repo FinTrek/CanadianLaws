@@ -1437,7 +1437,7 @@ but does not include
 
 - **(4)** Subsection (2) does not apply to a to a food allergen or gluten that is present in a prepackaged product referred to in paragraphs B.01.008(2)(a) to (e) unless a list of ingredients is shown on the product’s label.
 
-- **(5)** Subsection (2) does not apply to a food allergen or gluten that is present in a prepackaged product for which a standard is prescribed by section B.02.130 or B.02.131 unless a list of ingredients is shown on the product’s label.
+- **(5)** [Repealed, SOR/2019-98, s. 1]
 
 - **(6)** The source of a food allergen required to be shown under subsection (2) must be shown
 	- **(a)** for a food allergen from a food referred to in one of paragraphs (a), (b) and (e) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph, expressed in the singular or plural;
@@ -1469,7 +1469,7 @@ but does not include
 	- **(b)** in the food allergen source, gluten source and added sulphites statement.
 
 - **(11)** For greater certainty, nothing in subsection (8) affects how an ingredient or component may be shown in the list of ingredients under paragraph B.01.010(3)(b).
-> SOR/2011-28, s. 4; SOR/2016-305, ss. 7, 72.
+> SOR/2011-28, s. 4; SOR/2016-305, ss. 7, 72; SOR/2019-98, s. 1.
 
 
 
@@ -1486,7 +1486,7 @@ but does not include
 
 - **(4)** Subsection (3) does not apply to sulphites present in the prepackaged products referred to in paragraphs B.01.008(2)(a) to (e) unless a list of ingredients is shown on the product’s label.
 
-- **(5)** Subsection (3) does not apply to sulphites present in a prepackaged product for which a standard is prescribed by section B.02.130 or B.02.131 unless a list of ingredients is shown on the product’s label.
+- **(5)** [Repealed, SOR/2019-98, s. 2]
 
 - **(6)** Sulphites that are shown on a label of the product under subsection (3) must be shown as follows:
 	- **(a)** if the sulphites are shown in the list of ingredients,
@@ -1507,7 +1507,7 @@ but does not include
 		- **(i)** the term “sulfite” or “sulphite” appears in the common name of another sulphite, or
 		- **(ii)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in parentheses following another sulphite; or
 	- **(b)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in a food allergen source, gluten source and added sulphites statement on the label of the product.
-> SOR/2011-28, s. 4; SOR/2016-305, ss. 8, 72.
+> SOR/2011-28, s. 4; SOR/2016-305, ss. 8, 72; SOR/2019-98, s. 2.
 
 
 
@@ -8615,46 +8615,32 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 #### Beer
 
 
-**B.02.130** **[S]. Beer**
-- **(a)** shall be the product of the alcoholic fermentation by yeast of an infusion of barley or wheat malt and hops or hop extract in potable water and shall be brewed in such a manner as to possess the aroma, taste and character commonly attributed to beer; and
-- **(b)** may have added to it during the course of manufacture any of the following ingredients:
-	- **(i)** cereal grain,
-	- **(ii)** carbohydrate matter,
-	- **(iii)** salt,
-	- **(iv)** hop oil,
-	- **(v)** hop extract, if the hop extract is added to the wort before or during cooking,
-	- **(vi)** pre-isomerized hop extract,
-	- **(vi.1)** reduced isomerized hop extract,
-	- **(vii)** Irish moss seaweed of the species *Chondrus crispus*,
-	- **(viii)** carbon dioxide,
-	- **(ix)** caramel,
-	- **(x)** dextrin,
-	- **(xi)** food enzymes,
-	- **(xii)** stabilizing agents,
-	- **(xiii)** pH adjusting and water correcting agents,
-	- **(xiv)** Class I preservatives,
-	- **(xv)** Class II preservatives,
-	- **(xvi)** sequestering agent,
-	- **(xvii)** yeast foods,
-	- **(xviii)** any of the following fining agents: acacia gum, activated carbon, aluminum silicate, bentonite, calcium silicate, cellulose, China clay, diatomaceous earth, gelatin, isinglass, magnesium silicate, Nylon 66, polyvinylpolypyrrolidone, silica gel and wood shavings derived from beech, cherry, hazelnut and oak wood,
-	- **(xix)** polyvinylpyrrolidone,
-	- **(xx)** ammonium persulphate,
-	- **(xxi)** in the case of wort, dimethylpolysiloxane, and
-	- **(xxii)** in the case of mash, hydrogen peroxide.
-> SOR/88-418, s. 2; SOR/92-92, s. 1; SOR/96-483, s. 1; SOR/2006-91, s. 3.
+**B.02.130** 
+
+- **[S]. (1)** **Beer**
+	- **(a)** shall be the product of the alcoholic fermentation by yeast, or a mixture of yeast and other micro-organisms, an infusion of barley or wheat malt and hops or hop extract in potable water;
+	- **(b)** shall contain at most 4% of residual sugars; and
+	- **(c)** may have added to it during the course of manufacture any of the following ingredients:
+		- **(i)** cereal grain,
+		- **(ii)** honey, maple syrup, fruit, fruit juice or any other source of carbohydrates,
+		- **(iii)** herbs and spices,
+		- **(iv)** salt,
+		- **(v)** flavouring preparations,
+		- **(vi)** pre-isomerized hop extract,
+		- **(vii)** reduced isomerized hop extract, and
+		- **(viii)** food additives to which a marketing authorization applies and that are set out in the Lists of Permitted Food Additives published on the Health Canada website.
+
+- **(2)** The name of any flavouring preparation added to a beer shall form part of the common name of the beer.
+> SOR/88-418, s. 2; SOR/92-92, s. 1; SOR/96-483, s. 1; SOR/2006-91, s. 3; SOR/2019-98, s. 3.
 
 
 
 
-**B.02.131** **[S]. Ale, Stout, Porter** or **Malt Liquor**
-- **(a)** shall be the product of the alcoholic fermentation by yeast of an infusion of barley or wheat malt and hops or hop extract in potable water and shall be brewed in such a manner as to possess the aroma, taste and character commonly attributed to ale, stout, porter, or malt liquor, respectively; and
-- **(b)** may have added to it during the course of manufacture any of the ingredients referred to in paragraph B.02.130(b).
-> SOR/88-418, s. 2.
+**B.02.131** [Repealed, SOR/2019-98, s. 4]
 
 
 
-
-**B.02.132** Where a beer, ale, stout, porter or malt liquor contains the percentage of alcohol by volume set out in Column I of an item of the table, the qualified common name or common name set out in Column II of that item shall be used in any advertisement of and on the label of the beer, ale, stout, porter or malt liquor.
+**B.02.132** The qualified common name or common name set out in column II of the table to this section shall be used in any advertisement and on the label of a beer that contains the percentage of alcohol by volume set out in column I.
 #### TABLE
 <table>
 <tr>
@@ -8664,37 +8650,37 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 </tr>
 <tr>
 <th>Item</th>
-<th>Percentage alcohol by volume</th>
-<th>Qualified common name or Common name</th>
+<th>Percentage Alcohol by Volume</th>
+<th>Qualified Common Name or Common Name</th>
 </tr>
 <tr>
 <td>1</td>
 <td>1.1 to 2.5</td>
-<td>Extra Light Beer, Extra Light Ale, Extra Light Stout, Extra Light Porter</td>
+<td>Extra Light Beer</td>
 </tr>
 <tr>
 <td>2</td>
 <td>2.6 to 4.0</td>
-<td>Light Beer, Light Ale, Light Stout, Light Porter</td>
+<td>Light Beer</td>
 </tr>
 <tr>
 <td>3</td>
 <td>4.1 to 5.5</td>
-<td>Beer, Ale, Stout, Porter</td>
+<td>Beer</td>
 </tr>
 <tr>
 <td>4</td>
 <td>5.6 to 8.5</td>
-<td>Strong Beer, Strong Ale, Strong Stout, Strong Porter, Malt Liquor</td>
+<td>Strong Beer</td>
 </tr>
 <tr>
 <td>5</td>
 <td>8.6 or more</td>
-<td>Extra Strong Beer, Extra Strong Ale, Extra Strong Stout, Extra Strong Porter, Strong Malt Liquor</td>
+<td>Extra Strong Beer</td>
 </tr>
 </table>
 
-> SOR/88-418, s. 2.
+> SOR/88-418, s. 2; SOR/2019-98, s. 5.
 
 
 
