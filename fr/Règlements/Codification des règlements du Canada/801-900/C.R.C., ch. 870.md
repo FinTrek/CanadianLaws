@@ -1437,7 +1437,7 @@ Sont toutefois exclus :
 
 - **(4)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé visé à l’un des alinéas B.01.008(2)a) à e), sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
 
-- **(5)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
+- **(5)** [Abrogé, DORS/2019-98, art. 1]
 
 - **(6)** La source de l’allergène alimentaire devant figurer en application du paragraphe (2) est indiquée :
 	- **a)** s’agissant d’un allergène alimentaire provenant d’un aliment mentionné à l’un des alinéas a), b) et e) de la définition de ***allergène alimentaire***, au paragraphe (1), ou dérivé d’un tel aliment, par le nom de l’aliment tel qu’il est indiqué à l’alinéa applicable, écrit au singulier ou au pluriel;
@@ -1469,7 +1469,7 @@ Sont toutefois exclus :
 	- **b)** sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés.
 
 - **(11)** Il est entendu que le paragraphe (8) est sans effet sur la façon dont les ingrédients ou constituants peuvent être indiqués dans la liste des ingrédients en vertu de l’alinéa B.01.010(3)b).
-> DORS/2011-28, art. 4; DORS/2016-305, art. 7 et 72.
+> DORS/2011-28, art. 4; DORS/2016-305, art. 7 et 72; DORS/2019-98, art. 1.
 
 
 
@@ -1486,7 +1486,7 @@ Sont toutefois exclus :
 
 - **(4)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans les produits préemballés visés aux alinéas B.01.008(2)a) à e), sauf si l’étiquette de ces produits porte une liste des ingrédients.
 
-- **(5)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette de ce produit porte une liste des ingrédients.
+- **(5)** [Abrogé, DORS/2019-98, art. 2]
 
 - **(6)** Les sulfites devant figurer sur l’étiquette du produit en application du paragraphe (3) sont indiqués :
 	- **a)** s’ils figurent dans la liste des ingrédients :
@@ -1507,7 +1507,7 @@ Sont toutefois exclus :
 		- **(i)** la mention « sulfite » figure dans le nom usuel d’un autre sulfite,
 		- **(ii)** l’un des noms usuels « agents de sulfitage » ou « sulfites » figure entre parenthèses à la suite d’un autre sulfite;
 	- **b)** sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, l’un des noms usuels « agents de sulfitage » ou « sulfites » figure sur l’étiquette du produit.
-> DORS/2011-28, art. 4; DORS/2016-305, art. 8 et 72.
+> DORS/2011-28, art. 4; DORS/2016-305, art. 8 et 72; DORS/2019-98, art. 2.
 
 
 
@@ -8598,46 +8598,32 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 #### Bière
 
 
-**B.02.130** **[N].** La **bière**
-- **a)** doit être le produit de la fermentation alcoolique, au moyen de levure, d’une infusion de malt d’orge ou de malt de blé et de houblon ou d’extrait de houblon dans de l’eau potable et être brassée de manière à avoir l’arôme, le goût et les caractéristiques communément attribués à la bière;
-- **b)** peut, au cours de sa fabrication, être additionnée d’un ou de plusieurs des ingrédients suivants :
-	- **(i)** grains de céréale,
-	- **(ii)** matières glucidiques,
-	- **(iii)** sel,
-	- **(iv)** essence de houblon,
-	- **(v)** extrait de houblon, à condition qu’il soit ajouté au moût avant ou pendant la cuisson,
-	- **(vi)** extrait de houblon pré-isomérisé,
-	- **(vi.1)** extrait de houblon isomérisé réduit,
-	- **(vii)** carragheen (algue rouge de l’espèce *Chondrus crispus*),
-	- **(viii)** dioxyde de carbone,
-	- **(ix)** caramel,
-	- **(x)** dextrine,
-	- **(xi)** enzymes alimentaires,
-	- **(xii)** agents stabilisants,
-	- **(xiii)** rajusteurs de pH et agents correcteurs de l’eau,
-	- **(xiv)** agents de conservation de la catégorie I,
-	- **(xv)** agents de conservation de la catégorie II,
-	- **(xvi)** agents séquestrants,
-	- **(xvii)** nourriture de levures,
-	- **(xviii)** un ou plusieurs des agents de collage suivants : bentonite, cellulose, charbon activé, colle de poisson, copeaux de cerisier, de chêne, de hêtre et de noisetier, gélatine, gel de silice, gomme arabique, kaolin, nylon 66, polyvinylpolypyrrolidone, silicate d’aluminium, silicate de calcium, silicate de magnésium et terre de diatomées,
-	- **(xix)** polyvinylpyrrolidone,
-	- **(xx)** persulfate d’ammonium,
-	- **(xxi)** dans le cas du moût, diméthylpolysiloxane,
-	- **(xxii)** dans le cas de la pâte, peroxyde d’hydrogène.
-> DORS/88-418, art. 2; DORS/92-92, art. 1; DORS/96-483, art. 1; DORS/2006-91, art. 3.
+**B.02.130** 
+
+- **[N]. (1)** La **bière**
+	- **a)** doit être le produit de la fermentation alcoolique, au moyen de levure ou d’un mélange de levures et d’autres micro-organismes, d’une infusion de malt d’orge ou de malt de blé et de houblon ou d’extrait de houblon dans de l’eau potable;
+	- **b)** doit contenir au plus quatre pour cent de sucre résiduel;
+	- **c)** peut, au cours de sa fabrication, être additionnée d’un ou de plusieurs des ingrédients suivants :
+		- **(i)** grains de céréales,
+		- **(ii)** miel, sirop d’érable, fruit, jus de fruit ou toute autre source de glucides,
+		- **(iii)** herbes et épices,
+		- **(iv)** sel,
+		- **(v)** préparations aromatisantes,
+		- **(vi)** extrait de houblon pré-isomérisé,
+		- **(vii)** extrait de houblon isomérisé réduit,
+		- **(viii)** additifs alimentaires visés par une autorisation de mise en marché et figurant aux Listes des additifs alimentaires autorisés publiées sur le site Web de Santé Canada.
+
+- **(2)** Le nom de toute préparation aromatisante ajoutée à une bière fait partie du nom usuel de cette dernière.
+> DORS/88-418, art. 2; DORS/92-92, art. 1; DORS/96-483, art. 1; DORS/2006-91, art. 3; DORS/2019-98, art. 3.
 
 
 
 
-**B.02.131** **[N].** L’**ale**, le **stout**, le **porter** ou la **liqueur de malt**
-- **a)** doit être le produit de la fermentation alcoolique, au moyen de levure, d’une infusion de malt d’orge ou de malt de blé et de houblon ou d’extrait de houblon dans de l’eau potable et être brassé de manière à avoir l’arôme, le goût et les caractéristiques communément attribués à l’ale, au stout, au porter ou à la liqueur de malt, selon le cas;
-- **b)** peut, au cours de sa fabrication, être additionné d’un ou de plusieurs des ingrédients mentionnés à l’alinéa B.02.130b).
-> DORS/88-418, art. 2.
+**B.02.131** [Abrogé, DORS/2019-98, art. 4]
 
 
 
-
-**B.02.132** Les noms à employer pour désigner la bière, l’ale, le stout, le porter ou la liqueur de malt dans la publicité qui s’y rapporte ou sur leur étiquette sont les noms usuels, avec ou sans qualificatif, selon le cas, indiqués à la colonne II du tableau, suivant la teneur en alcool mentionnée à la colonne I.
+**B.02.132** Les noms à employer pour désigner la bière dans la publicité qui s’y rapporte ou sur l’étiquette sont les noms usuels, avec ou sans qualificatif, selon le cas, indiqués à la colonne II du tableau du présent article, suivant la teneur en alcool par volume mentionnée à la colonne I.
 #### TABLEAU
 <table>
 <tr>
@@ -8647,37 +8633,37 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 </tr>
 <tr>
 <th>Article</th>
-<th>Pourcentage d’alcool par volume</th>
+<th>Teneur en alcool par volume</th>
 <th>Nom usuel</th>
 </tr>
 <tr>
 <td>1</td>
 <td>de 1,1 à 2,5</td>
-<td>bière extra-légère, ale extra-légère, stout extra-léger, porter extra-léger</td>
+<td>bière extra-légère</td>
 </tr>
 <tr>
 <td>2</td>
 <td>de 2,6 à 4,0</td>
-<td>bière légère, ale légère, stout léger, porter léger</td>
+<td>bière légère</td>
 </tr>
 <tr>
 <td>3</td>
 <td>de 4,1 à 5,5</td>
-<td>bière, ale, stout, porter</td>
+<td>bière</td>
 </tr>
 <tr>
 <td>4</td>
 <td>de 5,6 à 8,5</td>
-<td>bière forte, ale forte, stout fort, porter fort, liqueur de malt</td>
+<td>bière forte</td>
 </tr>
 <tr>
 <td>5</td>
 <td>8,6 et plus</td>
-<td>bière extra-forte, ale extra-forte, stout extra-fort, porter extra-fort, liqueur de malt forte</td>
+<td>bière extra-forte</td>
 </tr>
 </table>
 
-> DORS/88-418, art. 2.
+> DORS/88-418, art. 2; DORS/2019-98, art. 5.
 
 
 
