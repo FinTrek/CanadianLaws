@@ -2629,7 +2629,7 @@ où :
 
 - <sup><a href='#fn_Ind852A_hq_20495'>[*]</a></sup>**(2)** L’article 22 de la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md), édicté par l’article 451 de la présente loi, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind852A_hq_20495'><sup>*</sup></a>: [Note : Article 22 de la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md), édicté par l’article 451, non en vigueur.]<br />
+<a name='fn_Ind852A_hq_20495'><sup>*</sup></a>: [Note : Article 22 de la [Loi sur les frais de service](/fr/Lois/Lois%20du%20Canada/2017/ch.%2020,%20art.%20451.md), édicté par l’article 451, en vigueur le 1<sup>er</sup> mai 2019, *voir* TR/2019-20.]<br />
 
 
 
