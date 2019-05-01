@@ -8,7 +8,7 @@
 Sanctionnée sur le 22 juin 2017
 
 ```
-[Édictée par l’article 451 du chapitre 20 des Lois du Canada (2017), articles 16 à 18 et alinéa 20(1)g) en vigueur le 1<sup>er</sup> avril 2018, article 22 non en vigueur.]
+[Édictée par l’article 451 du chapitre 20 des Lois du Canada (2017), articles 16 à 18 et alinéa 20(1)g) en vigueur le 1<sup>er</sup> avril 2018, article 22 en vigueur le 1<sup>er</sup> mai 2019, voir TR/2019-20.]
 ```
 ----------
 
