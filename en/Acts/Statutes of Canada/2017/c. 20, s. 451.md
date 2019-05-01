@@ -8,7 +8,7 @@
 Assented to on 22 June 2017
 
 ```
-[Enacted by section 451 of chapter 20 of the Statutes of Canada, 2017, sections 16 to 18 and paragraph 20(1)(g) in force April 1, 2018, section 22 not in force.]
+[Enacted by section 451 of chapter 20 of the Statutes of Canada, 2017, sections 16 to 18 and paragraph 20(1)(g) in force April 1, 2018, section 22 in force May 1, 2019, see SI/2019-20.]
 ```
 ----------
 
