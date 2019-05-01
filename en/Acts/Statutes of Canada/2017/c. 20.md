@@ -2635,7 +2635,7 @@ where
 
 - <sup><a href='#fn_Ind4689_hq_20465'>[*]</a></sup>**(2)** Section 22 of the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md), as enacted by section 451 of this Act, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4689_hq_20465'><sup>*</sup></a>: [Note: Section 22 of the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md), as enacted by section 451, not in force.]<br />
+<a name='fn_Ind4689_hq_20465'><sup>*</sup></a>: [Note: Section 22 of the [Service Fees Act](/en/Acts/Statutes%20of%20Canada/2017/c.%2020,%20s.%20451.md), as enacted by section 451, in force May 1, 2019, *see* SI/2019-20.]<br />
 
 
 
