@@ -2660,6 +2660,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Aitchelitz First Nation
 - ?Akisq’nuk First Nation
 - Algonquins of Pikwakanagan First Nation
+- Animakee Wa Zhing #37 First Nation
 - Anishnaabeg of Naongashiing
 - Annapolis Valley First Nation
 - Atikameksheng Anishnawbek
@@ -2673,6 +2674,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Behdzi Ahda″ First Nation
 - Berens River
 - Bigstone Cree Nation
+- Biinjitiwaabik Zaaging Anishinaabek First Nation
 - Bingwi Neyaashi Anishinaabek
 - Black River First Nation
 - Brokenhead Ojibway Nation
@@ -2781,6 +2783,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Misipawistik Cree Nation
 - Mississaugas of Scugog Island First Nation
 - Mistawasis
+- Mitaanjigamiing First Nation
 - Mohawks of Akwesasne
 - Mohawks of the Bay of Quinte
 - Moosomin
@@ -2924,6 +2927,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Yakweakwioose First Nation
 - Yale First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180, 234, 235, 260; SOR/2019-15, s. 1; SOR/2019-31, s. 1; SOR/2019-73, s. 1; SOR/2019-85, s. 1.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74, 186; SOR/2018-50, 180, 234, 235, 260; SOR/2019-15, s. 1; SOR/2019-31, s. 1; SOR/2019-73, s. 1; SOR/2019-85, s. 1; SOR/2019-112, s. 1.
 
 
