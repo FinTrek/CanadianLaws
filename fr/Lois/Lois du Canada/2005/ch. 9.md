@@ -2657,6 +2657,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Aitchelitz
 - Première nation ?Akisq’nuk
 - Première Nation Algonquins de Pikwakanagan
+- Première Nation Animakee Wa Zhing n<sup>o</sup> 37
+- Première Nation anishinabe Biinjitiwaabik Zaaging
 - Anishnaabeg de Naongashiing
 - Première Nation de la vallée de l’Annapolis
 - Atikameksheng Anishnawbek
@@ -2778,6 +2780,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation crie Misipawistik
 - Première Nation des Mississaugas de Scugog Island
 - Mistawasis
+- Première Nation Mitaanjigamiing
 - Mohawks of Akwesasne
 - Mohawks of the Bay of Quinte
 - Moosomin
@@ -2921,6 +2924,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Yakweakwioose
 - Première Nation de Yale
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260; DORS/2019-15, art. 1; DORS/2019-31, art. 1; DORS/2019-73, art. 1; DORS/2019-85, art. 1.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74, 186; DORS/2018-50, 180, 234, 235, 260; DORS/2019-15, art. 1; DORS/2019-31, art. 1; DORS/2019-73, art. 1; DORS/2019-85, art. 1; DORS/2019-112, art. 1.
 
 
