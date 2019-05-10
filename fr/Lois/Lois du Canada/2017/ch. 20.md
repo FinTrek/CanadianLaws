@@ -623,7 +623,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_IndBC3A_hq_20481'>[*]</a></sup>**(1)** L’article 110 entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndBC3A_hq_20481'><sup>*</sup></a>: [Note : Article 110 non en vigueur.]<br />
+<a name='fn_IndBC3A_hq_20481'><sup>*</sup></a>: [Note : Article 110 en vigueur le 10 mai 2019, *voir* TR/2019-26.]<br />
 
 **
 > 2016, ch. 7 ou sanction.
