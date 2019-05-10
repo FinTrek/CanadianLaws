@@ -6107,6 +6107,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 **29** International Convention on Oil Pollution Preparedness Response and Cooperation, 1990
 
 
+**29.1** International Convention on Standards of Training, Certification and Watchkeeping for Fishing Vessel Personnel, 1995
+
+
 **30** Protocol of 1997 relating to the International Convention for the Prevention of Pollution from Ships
 
 
@@ -6119,7 +6122,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **31** Maritime Labour Convention, 2006
 
 
-> 2001, c. 26, Sch. 1; SOR/2007-109; SOR/2009-154.
+> 2001, c. 26, Sch. 1; SOR/2007-109; SOR/2009-154; SOR/2019-136, s. 1.
 
 
 
