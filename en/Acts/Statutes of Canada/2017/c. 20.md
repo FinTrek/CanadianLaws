@@ -622,7 +622,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind8F4F_hq_20449'>[*]</a></sup>**(1)** Section 110 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind8F4F_hq_20449'><sup>*</sup></a>: [Note: Section 110 not in force.]<br />
+<a name='fn_Ind8F4F_hq_20449'><sup>*</sup></a>: [Note: Section 110 in force May 10, 2019, *see* SI/2019-26.]<br />
 
 **
 > 2016, c. 7 or royal assent.
