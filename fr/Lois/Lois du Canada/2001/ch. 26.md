@@ -6069,6 +6069,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **29** Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures
 
 
+**29.1** Convention internationale de 1995 sur les normes de formation du personnel des navires de pêche, de délivrance des brevets et de veille
+
+
 **30** Protocole de 1997 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires
 
 
@@ -6081,7 +6084,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **31** Convention du travail maritime, 2006
 
 
-> 2001, ch. 26, ann. 1; DORS/2007-109; DORS/2009-154.
+> 2001, ch. 26, ann. 1; DORS/2007-109; DORS/2009-154; DORS/2019-136, art. 1.
 
 
 
