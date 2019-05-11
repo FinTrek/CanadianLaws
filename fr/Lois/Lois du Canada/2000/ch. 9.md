@@ -276,6 +276,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Une personne ne peut avoir qu’un seul lieu de résidence habituelle; elle ne peut le perdre que si elle en acquiert un autre.
 
+**Personne résidant à l’étranger**
+
+- **(2.1)** Le lieu de résidence habituelle de la personne qui réside à l’étranger est son dernier lieu de résidence habituelle au Canada.
+
 **Absence temporaire**
 
 - **(3)** Une absence temporaire du lieu de résidence habituelle n’entraîne pas la perte ni le changement de celui-ci.
@@ -291,6 +295,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Refuges**
 
 - **(6)** Les refuges, les centres d’accueil et les autres établissements de même nature qui offrent le gîte, le couvert ou d’autres services sociaux aux personnes sans abri sont les lieux de résidence habituelle de ces personnes.
+> 2000, ch. 9, art. 8; 2018, ch. 31, art. 5.
+
 
 
 
@@ -312,18 +318,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Partie 11**
-
-**11** Peuvent voter dans le cadre de la partie 11 :
-- **a)** les électeurs des Forces canadiennes;
-- **b)** les électeurs qui appartiennent à l’administration publique fédérale ou d’une province en poste à l’étranger;
-- **c)** les électeurs qui sont en poste à l’étranger auprès d’organismes internationaux dont le Canada est membre et auxquels il verse une contribution;
-- **d)** les électeurs qui sont absents du Canada depuis moins de cinq années consécutives et qui ont l’intention de revenir résider au Canada;
-- **e)** les électeurs incarcérés au sens de cette partie;
-- **f)** tout autre électeur au Canada qui désire se prévaloir des dispositions de cette partie.
-> 2000, ch. 9, art. 11; 2003, ch. 22, art. 100.
-
+**11** [Abrogé, 2018, ch. 31, art. 7]
 
 
 
@@ -4618,7 +4613,7 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 
 **SECTION 3** 
-### Électeurs résidant temporairement à l’étranger
+### Électeurs résidant à l’étranger
 
 
 
@@ -4626,37 +4621,30 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 **220** Les définitions qui suivent s’appliquent à la présente section.
 
-***électeur*** Électeur résidant à l’étranger temporairement, à l’exclusion d’un électeur des Forces canadiennes. (*elector*)
+***électeur*** Électeur résidant à l’étranger. (*elector*)
 
-***registre*** Le registre visé au paragraphe 222(1). (*register*)
+***registre*** Le registre visé à l’article 222. (*register*)
+> 2000, ch. 9, art. 220; 2018, ch. 31, art. 151.
 
 
 
 
-**Inscription sur le registre**
 
-**221** Un électeur a le droit de voter à une élection en vertu de la présente section si sa demande d’inscription et de bulletin de vote spécial est reçue à Ottawa au plus tard à 18 h le sixième jour précédant le jour du scrutin et si son nom est inscrit au registre.
+**Inscription au registre**
+
+**221** Un électeur a le droit de voter à une élection en vertu de la présente section si, à la fois :
+- **a)** sa demande d’inscription et de bulletin de vote spécial parvient à l’administrateur des règles électorales spéciales, dans la région de la capitale nationale, au plus tard à 18 h le sixième jour précédant le jour du scrutin;
+- **b)** son nom est inscrit au registre.
+> 2000, ch. 9, art. 221; 2018, ch. 31, art. 152.
+
 
 
 
 
 **Registre**
 
-**222** 
-
-- **(1)** Le directeur général des élections tient un registre des électeurs résidant temporairement à l’étranger où il inscrit les nom, date de naissance, sexe, adresses municipale et postale et circonscription des électeurs qui ont présenté une demande d’inscription et de bulletin de vote spécial et qui satisfont aux conditions suivantes :
-	- **a)** avoir résidé au Canada antérieurement à la présentation de la demande;
-	- **b)** résider à l’étranger depuis moins de cinq années consécutives au moment de la présentation de la demande;
-	- **c)** avoir l’intention de rentrer au Canada pour y résider.
-
-**Exceptions**
-
-- **(2)** L’alinéa (1)b) ne s’applique pas aux électeurs qui :
-	- **a)** appartiennent à l’administration publique fédérale ou d’une province en poste à l’étranger;
-	- **b)** sont, à l’étranger, au service d’organismes internationaux dont le Canada est membre et auxquels il verse une contribution;
-	- **c)** demeurent avec des personnes visées aux alinéas a) ou b);
-	- **d)** demeurent avec des membres des Forces canadiennes ou des personnes visées à l’alinéa 191d).
-> 2000, ch. 9, art. 222; 2003, ch. 22, art. 103.
+**222** Le directeur général des élections tient un registre des électeurs où il inscrit les nom, prénoms, genre, date de naissance, adresses municipale et postale et circonscription des électeurs qui ont présenté une demande d’inscription et de bulletin de vote spécial pour voter au titre de la présente section et qui ont résidé au Canada antérieurement à la présentation de la demande.
+> 2000, ch. 9, art. 222; 2003, ch. 22, art. 103; 2018, ch. 31, art. 152.
 
 
 
@@ -4668,18 +4656,18 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 
 - **(1)** La demande d’inscription et de bulletin de vote spécial est faite selon le formulaire prescrit et doit contenir les éléments suivants, en ce qui concerne l’électeur :
 	- **a)** une preuve suffisante de son identité;
-	- **b)** si l’alinéa 222(1)b) ne s’applique pas à lui, une preuve du fait qu’une exception prévue au paragraphe 222(2) s’applique à lui;
+	- **b)** [Abrogé, 2018, ch. 31, art. 153]
 	- **c)** sa date de naissance;
-	- **d)** la date à laquelle il a quitté le Canada;
-	- **e)** l’adresse soit du lieu de sa résidence habituelle au Canada avant son départ pour l’étranger, soit du lieu de la résidence habituelle au Canada de son époux, de son conjoint de fait, d’un parent, d’un parent de son époux ou de son conjoint de fait, d’une personne à la charge de qui il est ou de la personne avec laquelle il demeurerait s’il ne résidait pas temporairement à l’étranger;
-	- **f)** la date à laquelle il a l’intention de rentrer au Canada pour y résider;
+	- **d)** [Abrogé, 2018, ch. 31, art. 153]
+	- **e)** l’adresse du lieu de sa résidence habituelle;
+	- **f)** [Abrogé, 2018, ch. 31, art. 153]
 	- **g)** son adresse postale à l’étranger;
 	- **h)** tout autre renseignement que le directeur général des élections estime nécessaire pour déterminer si l’électeur est habile à voter ou la circonscription dans laquelle il peut voter.
 
 **Renseignements dont la communication est facultative**
 
 - **(2)** En sus des renseignements prévus au paragraphe (1), le directeur général des élections peut demander à l’électeur de lui communiquer tous autres renseignements qu’il estime nécessaires à la mise en oeuvre d’accords qu’il peut conclure au titre de l’article 55. La communication de ces renseignements est toutefois facultative.
-> 2000, ch. 9, art. 223, ch. 12, art. 40.
+> 2000, ch. 9, art. 223, ch. 12, art. 40; 2018, ch. 31, art. 153.
 
 
 
@@ -4706,29 +4694,33 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 - **b)** l’électeur lui envoie une demande de radiation signée;
 - **c)** une demande de radiation, accompagnée du certificat de décès ou d’un autre document attestant le décès de l’électeur, lui est présentée;
 - **d)** l’électeur rentre au Canada pour y résider;
-- **e)** l’électeur ne peut être rejoint;
-- **f)** sauf s’il est visé au paragraphe 222(2), l’électeur a résidé à l’étranger pendant cinq années consécutives ou plus.
+- **e)** l’électeur ne peut être rejoint.
+- **f)** [Abrogé, 2018, ch. 31, art. 154]
+> 2000, ch. 9, art. 226; 2018, ch. 31, art. 154.
 
 
 
 
-**Envoi du bulletin de vote spécial**
+
+**Bulletin de vote spécial**
 
 **227** 
 
-- **(1)** Après l’approbation de la demande d’inscription et de bulletin de vote spécial et la délivrance des brefs, le directeur général des élections transmet à l’électeur dont le nom figure au registre un bulletin de vote spécial, l’enveloppe intérieure et l’enveloppe extérieure. L’envoi se fait à l’adresse donnée dans le cadre de l’alinéa 223(1)g).
+- **(1)** Après l’approbation de la demande d’inscription et de bulletin de vote spécial et la délivrance des brefs, le directeur général des élections fournit un bulletin de vote spécial à l’électeur dont le nom figure au registre.
 
 **Vote**
 
 - **(2)** L’électeur vote de la façon suivante :
 	- **a)** il inscrit sur le bulletin de vote spécial le nom du candidat de son choix;
 	- **b)** il met le bulletin de vote dans l’enveloppe intérieure et la scelle;
-	- **c)** il met l’enveloppe intérieure dans l’enveloppe extérieure;
-	- **d)** il signe la déclaration figurant sur l’enveloppe extérieure et la scelle.
+	- **c)** il signe la déclaration prescrite par le directeur général des élections;
+	- **d)** il met l’enveloppe intérieure et la déclaration, si elle ne figure pas sur l’enveloppe extérieure, dans l’enveloppe extérieure et la scelle.
 
 **Façon d’indiquer le nom du candidat**
 
 - **(3)** Le candidat est désigné par son prénom ou ses initiales et son nom de famille ainsi que, si plusieurs candidats ont le même nom, par son appartenance politique.
+> 2000, ch. 9, art. 227; 2018, ch. 31, art. 155.
+
 
 
 
