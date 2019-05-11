@@ -278,6 +278,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** A person can have only one place of ordinary residence and it cannot be lost until another is gained.
 
+**Person residing outside Canada**
+
+- **(2.1)** The place of ordinary residence of a person who resides outside Canada is their last place of ordinary residence in Canada.
+
 **Temporary absence**
 
 - **(3)** Temporary absence from a place of ordinary residence does not cause a loss or change of place of ordinary residence.
@@ -293,6 +297,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Temporary residential quarters**
 
 - **(6)** A shelter, hostel or similar institution that provides food, lodging or other social services to a person who has no dwelling place is that person’s place of ordinary residence.
+> 2000, c. 9, s. 8; 2018, c. 31, s. 5.
+
 
 
 
@@ -314,18 +320,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Part 11**
-
-**11** Any of the following persons may vote in accordance with Part 11:
-- **(a)** a Canadian Forces elector;
-- **(b)** an elector who is an employee in the federal public administration or the public service of a province and who is posted outside Canada;
-- **(c)** a Canadian citizen who is employed by an international organization of which Canada is a member and to which Canada contributes and who is posted outside Canada;
-- **(d)** a person who has been absent from Canada for less than five consecutive years and who intends to return to Canada as a resident;
-- **(e)** an incarcerated elector within the meaning of that Part; and
-- **(f)** any other elector in Canada who wishes to vote in accordance with that Part.
-> 2000, c. 9, s. 11; 2003, c. 22, s. 100.
-
+**11** [Repealed, 2018, c. 31, s. 7]
 
 
 
@@ -4642,7 +4637,7 @@ If the candidate, registered association and registered party do not, as a group
 
 
 **DIVISION 3** 
-### Electors Temporarily Resident Outside Canada
+### Electors Resident Outside Canada
 
 
 
@@ -4650,37 +4645,30 @@ If the candidate, registered association and registered party do not, as a group
 
 **220** The definitions in this section apply in this Division.
 
-***elector*** means an elector, other than a Canadian Forces elector, who resides temporarily outside Canada. (*électeur*)
+***elector*** means an elector who resides outside Canada. (*électeur*)
 
-***register*** means the register referred to in subsection 222(1). (*registre*)
+***register*** means the register referred to in section 222. (*registre*)
+> 2000, c. 9, s. 220; 2018, c. 31, s. 151.
 
 
 
 
-**Inclusion in register of electors temporarily resident outside Canada**
 
-**221** An elector may vote under this Division if his or her application for registration and special ballot is received in Ottawa by 6:00 p.m. on the 6th day before polling day and his or her name is entered on the register.
+**Inclusion in register of electors resident outside Canada**
+
+**221** An elector may vote under this Division if
+- **(a)** his or her application for registration and special ballot is received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on the 6th day before polling day; and
+- **(b)** his or her name is entered on the register.
+> 2000, c. 9, s. 221; 2018, c. 31, s. 152.
+
 
 
 
 
 **Register of electors**
 
-**222** 
-
-- **(1)** The Chief Electoral Officer shall maintain a register of electors who are temporarily resident outside Canada in which is entered the name, date of birth, civic and mailing addresses, sex and electoral district of each elector who has filed an application for registration and special ballot and who
-	- **(a)** at any time before making the application, resided in Canada;
-	- **(b)** has been residing outside Canada for less than five consecutive years immediately before making the application; and
-	- **(c)** intends to return to Canada to resume residence in the future.
-
-**Exception**
-
-- **(2)** Paragraph (1)(b) does not apply to an elector who is
-	- **(a)** employed outside Canada in the federal public administration or the public service of a province;
-	- **(b)** employed outside Canada by an international organization of which Canada is a member and to which Canada contributes;
-	- **(c)** a person who lives with an elector referred to in paragraph (a) or (b); or
-	- **(d)** a person who lives with a member of the Canadian Forces or with a person referred to in paragraph 191(d).
-> 2000, c. 9, s. 222; 2003, c. 22, s. 103.
+**222** The Chief Electoral Officer shall maintain a register of electors in which is entered the surname, given names, gender, date of birth, civic address, mailing address and electoral district of each elector who has filed an application for registration and special ballot in order to vote under this Division and who, at any time before making the application, resided in Canada.
+> 2000, c. 9, s. 222; 2003, c. 22, s. 103; 2018, c. 31, s. 152.
 
 
 
@@ -4692,18 +4680,18 @@ If the candidate, registered association and registered party do not, as a group
 
 - **(1)** An application for registration and special ballot may be made by an elector. It shall be in the prescribed form and shall include
 	- **(a)** satisfactory proof of the elector’s identity;
-	- **(b)** if paragraph 222(1)(b) does not apply in respect of the elector, proof of the applicability of an exception set out in subsection 222(2);
+	- **(b)** [Repealed, 2018, c. 31, s. 153]
 	- **(c)** the elector’s date of birth;
-	- **(d)** the date the elector left Canada;
-	- **(e)** the address of the elector’s last place of ordinary residence in Canada before he or she left Canada or the address of the place of ordinary residence in Canada of the spouse, the common-law partner or a relative of the elector, a relative of the elector’s spouse or common-law partner, a person in relation to whom the elector is a dependant or a person with whom the elector would live but for his or her residing temporarily outside Canada;
-	- **(f)** the date on which the elector intends to resume residence in Canada;
+	- **(d)** [Repealed, 2018, c. 31, s. 153]
+	- **(e)** the address of the elector’s place of ordinary residence;
+	- **(f)** [Repealed, 2018, c. 31, s. 153]
 	- **(g)** the elector’s mailing address outside Canada; and
 	- **(h)** any other information that the Chief Electoral Officer considers necessary to determine the elector’s entitlement to vote or the electoral district in which he or she may vote.
 
 **Optional information**
 
 - **(2)** In addition to the information specified in subsection (1), the Chief Electoral Officer may request that the elector provide other information that the Chief Electoral Officer considers necessary for implementing agreements made under section 55, but the elector is not required to provide that information.
-> 2000, c. 9, s. 223, c. 12, s. 40.
+> 2000, c. 9, s. 223, c. 12, s. 40; 2018, c. 31, s. 153.
 
 
 
@@ -4729,30 +4717,34 @@ If the candidate, registered association and registered party do not, as a group
 - **(a)** does not provide the information referred to in section 225 within the time fixed by the Chief Electoral Officer;
 - **(b)** makes a signed request to the Chief Electoral Officer to have his or her name deleted from the register;
 - **(c)** has died and concerning whom a request has been received to have the elector’s name deleted from the register, to which request is attached a death certificate or other documentary evidence of the death;
-- **(d)** returns to Canada to reside;
-- **(e)** cannot be contacted; or
-- **(f)** except for an elector to whom any of paragraphs 222(2)(a) to (d) applies, has resided outside Canada for five consecutive years or more.
+- **(d)** returns to Canada to reside; or
+- **(e)** cannot be contacted.
+- **(f)** [Repealed, 2018, c. 31, s. 154]
+> 2000, c. 9, s. 226; 2018, c. 31, s. 154.
 
 
 
 
-**Sending of special ballot and envelopes**
+
+**Special ballot**
 
 **227** 
 
-- **(1)** After approving an application for registration and special ballot and after the issue of the writs, the Chief Electoral Officer shall send a special ballot, an inner envelope and an outer envelope to every elector whose name is entered in the register, at the address referred to in paragraph 223(1)(g).
+- **(1)** After approving an application for registration and special ballot and after the issue of the writs, the Chief Electoral Officer shall provide a special ballot to every elector whose name is entered in the register.
 
 **Voting by special ballot**
 
 - **(2)** An elector shall vote by special ballot by
 	- **(a)** writing the name of the candidate of his or her choice on the ballot;
-	- **(b)** placing the ballot in the inner envelope and sealing it;
-	- **(c)** placing the inner envelope in the outer envelope; and
-	- **(d)** signing the declaration on the outer envelope and sealing it.
+	- **(b)** placing the ballot in an inner envelope and sealing it;
+	- **(c)** signing the declaration prescribed by the Chief Electoral Officer; and
+	- **(d)** placing the inner envelope and the declaration — if it is not on the outer envelope — in the outer envelope and sealing it.
 
 **Writing candidate’s name**
 
 - **(3)** The candidate shall be indicated on a special ballot by writing the candidate’s given name or initials and surname. If two or more candidates have the same name, their political affiliation shall be indicated.
+> 2000, c. 9, s. 227; 2018, c. 31, s. 155.
+
 
 
 
