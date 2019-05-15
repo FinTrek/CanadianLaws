@@ -1501,6 +1501,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(11.1)** Remifentanil (dimethyl 4-carboxy-4-(N-phenylpropionamido)-1-piperidinepropionate)
 - **(12)** Sufentanil (N-[4-(methoxymethyl)-1-[2-(2-thienyl)ethyl]-4- piperidyl] propionanilide)
 - **(13)** Thiofentanyl (N-[1-[2-(2-thienyl)ethyl]-4-piperidyl] propionanilide)
+- **(14)** 4-Anilino-N-phenethylpiperidine (ANPP) (N-phenyl-1-(2-phenylethyl)piperidine-4-amine), its derivatives and analogues and salts of derivatives and analogues
 - **16** Tilidine (ethyl 2-(dimethylamino)-1-phenyl-3-cyclohexene-1-carboxylate), its salts, derivatives and salts of derivatives
 - **17** [Repealed, SOR/2018-147, s. 28]
 - **18** Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
@@ -1550,6 +1551,6 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1; SOR/2018-69, ss. 72, 73, 74(F); SOR/2018-147, s. 28.
+> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9; SOR/2017-276, s. 1; SOR/2018-69, ss. 72, 73, 74(F); SOR/2018-147, s. 28; SOR/2019-120, s. 1.
 
 
