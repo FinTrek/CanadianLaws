@@ -2038,6 +2038,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(11.1)** Remifentanil (dimethyl 4-carboxy-4-(N-phenylpropionamido)-1-piperidinepropionate)
 - **(12)** Sufentanil (N–[4–(methoxymethyl)–1–[2–(2–thienyl)ethyl]–4–piperidyl] propionanilide)
 - **(13)** Thiofentanyl (N–[1–[2–(2–thienyl)ethyl]–4–piperidyl] propionanilide)
+- **(14)** 4-Anilino-N-phenethylpiperidine (ANPP) (N-phenyl-1-(2-phenylethyl)piperidine-4-amine), its derivatives and analogues and salts of derivatives and analogues
 - **17** Tilidine (ethyl2–(dimethylamino)–1–phenyl–3–cyclohexene–1–carboxylate), its salts, derivatives and salts of derivatives
 - **17.1** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
 - **18** Methamphetamine (N,α-dimethylbenzeneethanamine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
@@ -2081,7 +2082,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(3)** U-48520 (4-chloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide)
 - **(4)** U-50211 (N-(2-(dimethylamino)cyclohexyl)-4-hydroxy-N-methylbenzamide)
 - **(5)** U-77891 (3,4-dibromo-N-methyl-N-(1-methyl-1-azaspiro[4.5]decan-6-yl)benzamide)
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1; SOR/2018-70, ss. 1, 2, 3(F).
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5; SOR/2017-275; SOR/2017-277, s. 1; SOR/2018-70, ss. 1, 2, 3(F); SOR/2019-121, s. 1.
 
 
 
@@ -2374,9 +2375,12 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **6** Ergotamine (12′-hydroxy-2′-methyl-5′-(phenylmethyl)ergotaman-3′,6′,18-trione) and its salts
 - **7** Isosafrole (5-(1-propenyl)-1,3-benzodioxole)
 - **8** Lysergic acid (9,10-didehydro-6-methylergoline-8-carboxylic acid) and its salts
-- **9** 3,4-Methylenedioxyphenyl-2-propanone (1-(1,3-benzodioxole)-2-propanone)
+- **9** 3,4-Methylenedioxyphenyl-2-propanone (1-(1,3-benzodioxole)-2-propanone), its derivatives and analogues and salts of derivatives and analogues, including:
+- **(1)** methyl 3-(1,3 benzodioxol-5-yl)-2-methyloxirane-2-carboxylate (MMDMG)
 - **10** Norephedrine (Phenylpropanolamine) and its salts
-- **11** 1-Phenyl-2-propanone
+- **11** 1-Phenyl-2-propanone, its derivatives and analogues and salts of derivatives and analogues, including:
+- **(1)** methyl 2-methyl-3-phenyloxirane-2-carboxylate (BMK methyl glycidate)
+- **(2)** 3-oxo-2-phenylbutanamide (α- phenylacetoacetamide-APAA)
 - **12** Phenylacetic acid and its salts
 - **13** Piperidine and its salts
 - **14** Piperonal (1,3-benzodioxole-5-carboxaldehyde)
@@ -2393,10 +2397,11 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **25** Propionyl chloride
 - **26** 1-Phenethyl-4-piperidone and its salts
 - **27** 4-Piperidone and its salts
-- **28** Norfentanyl (N-phenyl-N-piperidin-4-ylpropanamide) and its salts
+- **28** Norfentanyl (N-phenyl-N-piperidin-4-ylpropanamide), its salts, derivatives and analogues and salts of derivatives and analogues
 - **29** 1-Phenethylpiperidin-4-ylidenephenylamine and its salts
 - **30** N-Phenyl-4-piperidinamine and its salts
 - **31** N<sup>1</sup>,N<sup>1</sup>,N<sup>2</sup>-trimethylcyclohexane-1,2-diamine and its salts
+- **32** Benzylfentanyl (N-(1-benzylpiperidin-4-yl)-N-phenylpropionamide), its salts, derivatives and analogues and salts of derivatives and analogues
 
 
 
@@ -2434,7 +2439,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **1** Any preparation or mixture that contains a precursor set out in Part 1, except items 20 to 23, or in Part 2.
 
 
-> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295; SOR/2017-277, s. 2.
+> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295; SOR/2017-277, s. 2; SOR/2019-121, s. 2; SOR/2019-121, s. 3; SOR/2019-121, s. 4; SOR/2019-121, s. 5.
 
 
 
