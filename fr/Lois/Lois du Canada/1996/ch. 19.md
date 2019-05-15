@@ -2004,6 +2004,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(11.1)** rémifentanil (méthyle carboxy-4 [(oxo-1 propyl)phénylamino]-4 pipéridinepropanoate-1)
 - **(12)** sufentanil (N–[(méthoxyméthyl)–4 [(thiényl–2)–2 éthyl]–1 pipéridinyl–4] propionanilide)
 - **(13)** thiofentanyl (N–[[(thiényl–2)–2 éthyl]–1 pipéridyl–4] propionanilide)
+- **(14)** 4-Anilino-N-phénéthylpipéridine (ANPP) (N-phényl-1-(2-phényléthyl)pipéridine-4-amine), ses dérivés et analogues, ainsi que les sels de ses dérivés et analogues
 - **17** Tilidine (ester éthylique de l’acide diméthylamino–2 phényl–1 cyclohexène–3 carboxylate–1), ses sels et dérivés, ainsi que les sels de ses dérivés
 - **17.1** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 - **18** Méthamphétamine (N,α-diméthylbenzèneéthanamine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
@@ -2047,7 +2048,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(3)** U-48520 (4-chloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide)
 - **(4)** U-50211 (N-(2-(diméthylamino)cyclohexyl)-4-hydroxy-N-méthylbenzamide)
 - **(5)** U-77891 (3,4-dibromo-N-méthyl-N-(1-méthyl-1-azaspiro[4.5]déc-6-yl)benzamide)
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1; DORS/2018-70, art. 1, 2 et 3(F).
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5; DORS/2017-275; DORS/2017-277, art. 1; DORS/2018-70, art. 1, 2 et 3(F); DORS/2019-121, art. 1.
 
 
 
@@ -2340,9 +2341,12 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **6** Ergotamine (hydroxy-12′ méthyl-2′ phénylméthyl-5′ergotamantrione-3′,6′,18) et ses sels
 - **7** Isosafrole (propényl-1)-5 benzodioxole-1,3)
 - **8** Acide lysergique (acide didéhydro-9,10 méthyl-6 ergoline carboxylique-8) et ses sels
-- **9** Méthylènedioxyphényle-3,4 propanone-2 ((benzodioxole-1,3)-1 propanone-2)
+- **9** Méthylènedioxyphényle-3,4 propanone-2 ((benzodioxole-1,3)-1 propanone-2), ses dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
+- **(1)** méthyl 3-(1,3-benzodioxol-5-yl)-2-méthyloxirane-2-carboxylate (MMDMG)
 - **10** Noréphédrine (phénylpropanolamine) et ses sels
-- **11** Phényl-1 propanone-2
+- **11** Phényl-1 propanone-2, ses dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
+- **(1)** méthyl-2-méthyl-3-phényloxirane-2-carboxylate de méthyle (glycidate de méthyle-BMC)
+- **(2)** 3-oxo-2-phénylbutanamide (α-phénylacétoacétamide-APAA)
 - **12** Acide phénylacétique et ses sels
 - **13** Pipéridine et ses sels
 - **14** Pipéronal (benzodioxole-1,3 carboxaldehyde-5)
@@ -2359,10 +2363,11 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **25** Chlorure de propionyle
 - **26** Phénéthyl-1 pipéridone-4 et ses sels
 - **27** Pipéridone-4 et ses sels
-- **28** Norfentanyl (N-phényl-N-(pipéridinyl-4)propanamide) et ses sels
+- **28** Norfentanyl (N-phényl-N- (pipéridinyl-4)propanamide), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues
 - **29** N-(Phénéthyl-1 pipéridinylidene-4) phénylamine et ses sels
 - **30** N-Phényl pipéridinamine-4 et ses sels
 - **31** N<sup>1</sup>,N<sup>1</sup>,N<sup>2</sup>-triméthylcyclohexane-1,2-diamine et ses sels
+- **32** Benzylfentanyl (N-(1-benzylpipéridin-4-yl)-N-phénylpropionamide), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues
 
 
 
@@ -2400,7 +2405,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **1** Toute préparation ou tout mélange qui contient l’un des précurseurs visés à la partie 1, à l’exception des articles 20 à 23, ou à la partie 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295; DORS/2017-277, art. 2.
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295; DORS/2017-277, art. 2; DORS/2019-121, art. 2; DORS/2019-121, art. 3; DORS/2019-121, art. 4; DORS/2019-121, art. 5.
 
 
 
