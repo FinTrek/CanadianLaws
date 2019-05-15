@@ -1499,6 +1499,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(11.1)** rémifentanil (méthyle carboxy-4 [(oxo-1 propyl) phénylamino]-4 pipéridinepropanoate-1)
 - **(12)** sufentanil (N-[(méthoxyméthyl)-4 [(thiényl-2)-2 éthyl]-1 pipéridinyl-4] propionanilide)
 - **(13)** thiofentanyl (N-[[(thiényl-2)-2 éthyl]-1 pipéridyl-4] propionanilide)
+- **(14)** 4-Anilino-N-phénéthylpipéridine (ANPP) (N-phényl-1-(2-phényléthyl)pipéridine-4-amine), ses dérivés et analogues, ainsi que les sels de ses dérivés et analogues
 - **16** Tilidine (ester éthylique de l’acide diméthylamino-2 phényl-1 cyclohexène-3 carboxylate-1), ses sels et dérivés, ainsi que les sels de ses dérivés
 - **17** [Abrogé, DORS/2018-147, art. 28]
 - **18** Agonistes de synthèse des récepteurs cannabinoïdes de type 1, leurs sels, leurs dérivés et leurs isomères ainsi que les sels de leurs dérivés et isomères — à l’exclusion de ((3S)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-3) et ses sels —, notamment ceux qui entrent dans les catégories de structure chimique de base suivantes :
@@ -1548,6 +1549,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9; DORS/2017-276, art. 1; DORS/2018-69, art. 72, 73 et 74(F); DORS/2018-147, art. 28.
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9; DORS/2017-276, art. 1; DORS/2018-69, art. 72, 73 et 74(F); DORS/2018-147, art. 28; DORS/2019-120, art. 1.
 
 
