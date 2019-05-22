@@ -2677,8 +2677,6 @@ Alouette hausse-col de la sous-espèce *strigata* (*Eremophila alpestris strigat
 
 Bécasseau maubèche de la sous-espèce *rufa* (*Calidris canutus rufa*)<br />- <i>Knot *rufa* subspecies, Red</i>
 
-Bec-croisé des sapins de la sous-espèce *percna* (*Loxia curvirostra percna*)<br />- <i>Crossbill percna subspecies, Red</i>
-
 Bruant de Henslow (*Ammodramus henslowii*)<br />- <i>Sparrow, Henslow’s</i>
 
 Bruant vespéral de la sous-espèce *affinis* (*Pooecetes gramineus affinis*)<br />- <i>Sparrow *affinis* subspecies, Vesper</i>
@@ -2696,6 +2694,8 @@ Effraie des clochers (*Tyto alba*) population de l’Est<br />- <i>Owl, Barn Eas
 Grèbe esclavon (*Podiceps auritus*) population des îles de la Madeleine<br />- <i>Grebe, Horned Magdalen Islands population</i>
 
 Grue blanche (*Grus americana*)<br />- <i>Crane, Whooping</i>
+
+Martinet sombre (*Cypseloides niger*)<br />- <i>Swift, Black</i>
 
 Moqueur des armoises (*Oreoscoptes montanus*)<br />- <i>Thrasher, Sage</i>
 
@@ -2724,6 +2724,8 @@ Pluvier montagnard (*Charadrius montanus*)<br />- <i>Plover, Mountain</i>
 Pluvier siffleur de la sous-espèce *circumcinctus* (*Charadrius melodus circumcinctus*)<br />- <i>Plover *circumcinctus* subspecies, Piping</i>
 
 Pluvier siffleur de la sous-espèce *melodus* (*Charadrius melodus melodus*)<br />- <i>Plover *melodus* subspecies, Piping</i>
+
+Puffin à pieds roses (*Ardenna creatopus*)<br />- <i>Shearwater, Pink-footed</i>
 
 Râle élégant (*Rallus elegans*)<br />- <i>Rail, King</i>
 
@@ -3253,7 +3255,11 @@ Autour des palombes de la sous-espèce *laingi* (*Accipiter gentilis laingi*)<br
 
 Bécasseau maubèche du type *roselaari* (*Calidris canutus roselaari* type)<br />- <i>Knot *roselaari* type, Red</i>
 
+Bec-croisé des sapins de la sous-espèce *percna* (*Loxia curvirostra percna*)<br />- <i>Crossbill percna subspecies, Red</i>
+
 Bruant à ventre noir (*Calcarius ornatus*)<br />- <i>Longspur, Chestnut-collared</i>
+
+Bruant noir et blanc (*Calamospiza melanocorys*)<br />- <i>Bunting, Lark</i>
 
 Buse rouilleuse (*Buteo regalis*)<br />- <i>Hawk, Ferruginous</i>
 
@@ -3285,6 +3291,8 @@ Paruline à ailes dorées (*Vermivora chrysoptera*)<br />- <i>Warbler, Golden-wi
 
 Paruline du Canada (*Wilsonia canadensis*)<br />- <i>Warbler, Canada</i>
 
+Paruline hochequeue (*Parkesia motacilla*)<br />- <i>Waterthrush, Louisiana</i>
+
 Petit Blongios (*Ixobrychus exilis*)<br />- <i>Bittern, Least</i>
 
 Petit-duc des montagnes de la sous-espèce *kennicottii* (*Megascops kennicottii kennicottii*)<br />- <i>Screech-owl *kennicottii* subspecies, Western</i>
@@ -3301,7 +3309,7 @@ Pie-grièche migratrice de la sous-espèce excubitorides (*Lanius ludovicianus e
 
 Pipit de Sprague (*Anthus spragueii*)<br />- <i>Pipit, Sprague’s</i>
 
-Puffin à pieds roses (*Puffinus creatopus*)<br />- <i>Shearwater, Pink-footed</i>
+Plectrophane de McCown (*Rhynchophanes mccownii*)<br />- <i>Longspur, McCown’s</i>
 
 Sturnelle des prés (*Sturnella magna*)<br />- <i>Meadowlark, Eastern</i>
 
@@ -3595,8 +3603,6 @@ Bécasseau roussâtre (*Tryngites subruficollis*)<br />- <i>Sandpiper, Buff-brea
 
 Bruant de Baird (*Ammodramus bairdii*)<br />- <i>Sparrow, Baird’s</i>
 
-Bruant de McCown (*Calcarius mccownii*)<br />- <i>Longspur, McCown’s</i>
-
 Bruant des prés de la sous-espèce *princeps* (*Passerculus sandwichensis princeps*)<br />- <i>Sparrow princeps subspecies, Savannah</i>
 
 Bruant sauterelle de la sous-espèce de l’Est (*Ammodramus savannarum pratensis*)<br />- <i>Sparrow pratensis subspecies, Grasshopper</i>
@@ -3615,13 +3621,15 @@ Grèbe élégant (*Aechmophorus occidentalis*)<br />- <i>Grebe, Western</i>
 
 Grèbe esclavon (*Podiceps auritus*) population de l’Ouest<br />- <i>Grebe, Horned Western population</i>
 
+Gros-bec errant (*Coccothraustes vespertinus*)<br />- <i>Grosbeak, Evening</i>
+
 Guillemot à cou blanc (*Synthliboramphus antiquus*)<br />- <i>Murrelet, Ancient</i>
 
 Hibou des marais (*Asio flammeus*)<br />- <i>Owl, Short-eared</i>
 
-Paruline hochequeue (*Seiurus motacilla*)<br />- <i>Waterthrush, Louisiana</i>
-
 Petit-duc nain (*Otus flammeolus*)<br />- <i>Owl, Flammulated</i>
+
+Phalarope à bec étroit (*Phalaropus lobatus*)<br />- <i>Phalarope, Red-necked</i>
 
 Pigeon à queue barrée (*Patagioenas fasciata*)<br />- <i>Pigeon, Band-tailed</i>
 
@@ -3630,6 +3638,8 @@ Pioui de l’Est (*Contopus virens*)<br />- <i>Wood-pewee, Eastern</i>
 Quiscale rouilleux (*Euphagus carolinus*)<br />- <i>Blackbird, Rusty</i>
 
 Râle jaune (*Coturnicops noveboracensis*)<br />- <i>Rail, Yellow</i>
+
+Starique de Cassin (*Ptychoramphus aleuticus*)<br />- <i>Auklet, Cassin’s</i>
 
 
 
@@ -3924,7 +3934,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229; DORS/2018-10, 112; DORS/2019-52, art. 1; DORS/2019-52, art. 2; DORS/2019-52, art. 3; DORS/2019-52, art. 4; DORS/2019-52, art. 5; DORS/2019-52, art. 6; DORS/2019-52, art. 7; DORS/2019-52, art. 8; DORS/2019-52, art. 9; DORS/2019-52, art. 10; DORS/2019-52, art. 11; DORS/2019-52, art. 12; DORS/2019-52, art. 13; DORS/2019-52, art. 14; DORS/2019-52, art. 15; DORS/2019-52, art. 16; DORS/2019-52, art. 17; DORS/2019-52, art. 18; DORS/2019-52, art. 19; DORS/2019-52, art. 20; DORS/2019-52, art. 21; DORS/2019-52, art. 22.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112, 130, 229; DORS/2018-10, 112; DORS/2019-52, art. 1; DORS/2019-52, art. 2; DORS/2019-52, art. 3; DORS/2019-52, art. 4; DORS/2019-52, art. 5; DORS/2019-52, art. 6; DORS/2019-52, art. 7; DORS/2019-52, art. 8; DORS/2019-52, art. 9; DORS/2019-52, art. 10; DORS/2019-52, art. 11; DORS/2019-52, art. 12; DORS/2019-52, art. 13; DORS/2019-52, art. 14; DORS/2019-52, art. 15; DORS/2019-52, art. 16; DORS/2019-52, art. 17; DORS/2019-52, art. 18; DORS/2019-52, art. 19; DORS/2019-52, art. 20; DORS/2019-52, art. 21; DORS/2019-52, art. 22; DORS/2019-145, art. 1; DORS/2019-145, art. 2; DORS/2019-145, art. 3; DORS/2019-145, art. 4; DORS/2019-145, art. 5; DORS/2019-145, art. 6.
 
 
 
