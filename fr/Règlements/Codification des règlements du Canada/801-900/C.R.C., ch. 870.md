@@ -8056,6 +8056,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
+**B.02.004** 
+
+- **(1)** Il est interdit de vendre de l’alcool purifié aromatisé dans un contenant dont la capacité est d’au plus 1 000 mL, à moins que le contenant ne contienne 25,6 mL ou moins d’alcool.
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’égard de l’alcool purifié aromatisé vendu dans un contenant de verre dont la capacité est d’au moins 750 mL.
+
+- **(3)** Pour l’application du présent article, ***alcool purifié aromatisé*** s’entend d’une boisson alcoolique :
+	- **a)** qui est obtenue à partir d’une base d’alcool qui a été purifiée en cours de fabrication par un processus autre que la distillation et dont la plupart des substances naturellement présentes, autres que l’alcool et l’eau, ont été éliminées;
+	- **b)** à laquelle a été ajouté, en cours de fabrication, toute substance ou tout mélange de substances qui lui donne un arôme.
+> DORS/2019-147, art. 1.
+
+
+
+
 
 #### Whisky
 
