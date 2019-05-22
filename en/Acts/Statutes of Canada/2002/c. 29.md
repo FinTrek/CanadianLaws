@@ -2680,8 +2680,6 @@ Chat *virens* subspecies, Yellow-breasted (*Icteria virens virens*)<br />- <i>Pa
 
 Crane, Whooping (*Grus americana*)<br />- <i>Grue blanche</i>
 
-Crossbill *percna* subspecies, Red (*Loxia curvirostra percna*)<br />- <i>Bec-croisé des sapins de la sous-espèce percna</i>
-
 Curlew, Eskimo (*Numenius borealis*)<br />- <i>Courlis esquimau</i>
 
 Flycatcher, Acadian (*Empidonax virescens*)<br />- <i>Moucherolle vert</i>
@@ -2712,11 +2710,15 @@ Sage-Grouse *urophasianus* subspecies, Greater (*Centrocercus urophasianus uroph
 
 Sapsucker, Williamson’s (*Sphyrapicus thyroideus*)<br />- <i>Pic de Williamson</i>
 
+Shearwater, Pink-footed (*Ardenna creatopus*)<br />- <i>Puffin à pieds roses</i>
+
 Shrike *migrans* subspecies, Loggerhead (*Lanius ludovicianus migrans*)<br />- <i>Pie-grièche migratrice de la sous-espèce migrans</i>
 
 Sparrow *affinis* subspecies, Vesper (*Pooecetes gramineus affinis*)<br />- <i>Bruant vespéral de la sous-espèce *affinis*</i>
 
 Sparrow, Henslow’s (*Ammodramus henslowii*)<br />- <i>Bruant de Henslow</i>
+
+Swift, Black (*Cypseloides niger*)<br />- <i>Martinet sombre</i>
 
 Tern, Roseate (*Sterna dougallii*)<br />- <i>Sterne de Dougall</i>
 
@@ -3252,6 +3254,10 @@ Bittern, Least (*Ixobrychus exilis*)<br />- <i>Petit Blongios</i>
 
 Bobolink (*Dolichonyx oryzivorus*)<br />- <i>Goglu des prés</i>
 
+Bunting, Lark (*Calamospiza melanocorys*)<br />- <i>Bruant noir et blanc</i>
+
+Crossbill *percna* subspecies, Red (*Loxia curvirostra percna*)<br />- <i>Bec-croisé des sapins de la sous-espèce percna</i>
+
 Flycatcher, Olive-sided (*Contopus cooperi*)<br />- <i>Moucherolle à côtés olive</i>
 
 Goshawk *laingi* subspecies, Northern (*Accipiter gentilis laingi*)<br />- <i>Autour des palombes de la sous-espèce laingi</i>
@@ -3263,6 +3269,8 @@ Hawk, Ferruginous (*Buteo regalis*)<br />- <i>Buse rouilleuse</i>
 Knot *roselaari* type, Red (*Calidris canutus roselaari* type)<br />- <i>Bécasseau maubèche du type *roselaari*</i>
 
 Longspur, Chestnut-collared (*Calcarius ornatus*)<br />- <i>Bruant à ventre noir</i>
+
+Longspur, McCown’s (*Rhynchophanes mccownii*)<br />- <i>Plectrophane de McCown</i>
 
 Meadowlark, Eastern (*Sturnella magna*)<br />- <i>Sturnelle des prés</i>
 
@@ -3280,8 +3288,6 @@ Screech-owl *kennicottii* subspecies, Western (*Megascops kennicottii kennicotti
 
 Screech-owl *macfarlanei* subspecies, Western (*Megascops kennicottii macfarlanei*)<br />- <i>Petit-duc des montagnes de la sous-espèce macfarlanei</i>
 
-Shearwater, Pink-footed (*Puffinus creatopus*)<br />- <i>Puffin à pieds roses</i>
-
 Shrike *excubitorides* subspecies, Loggerhead (*Lanius ludovicianus excubitorides*)<br />- <i>Pie-grièche migratrice de la sous-espèce excubitorides</i>
 
 Swallow, Bank (*Riparia riparia*)<br />- <i>Hirondelle de rivage</i>
@@ -3297,6 +3303,8 @@ Thrush, Wood (*Hylocichla mustelina*)<br />- <i>Grive des bois</i>
 Warbler, Canada (*Wilsonia canadensis*)<br />- <i>Paruline du Canada</i>
 
 Warbler, Golden-winged (*Vermivora chrysoptera*)<br />- <i>Paruline à ailes dorées</i>
+
+Waterthrush, Louisiana (*Parkesia motacilla*)<br />- <i>Paruline hochequeue</i>
 
 Whip-poor-will (*Caprimulgus vociferus*)<br />- <i>Engoulevent bois-pourri</i>
 
@@ -3586,6 +3594,8 @@ Wolverine (*Gulo gulo*)<br />- <i>Carcajou</i>
 
 Albatross, Black-footed (*Phoebastria nigripes*)<br />- <i>Albatros à pieds noirs</i>
 
+Auklet, Cassin’s (*Ptychoramphus aleuticus*)<br />- <i>Starique de Cassin</i>
+
 Blackbird, Rusty (*Euphagus carolinus*)<br />- <i>Quiscale rouilleux</i>
 
 Curlew, Long-billed (*Numenius americanus*)<br />- <i>Courlis à long bec</i>
@@ -3602,17 +3612,19 @@ Grebe, Horned (*Podiceps auritus*) Western population<br />- <i>Grèbe esclavon 
 
 Grebe, Western (*Aechmophorus occidentalis*)<br />- <i>Grèbe élégant</i>
 
+Grosbeak, Evening (*Coccothraustes vespertinus*)<br />- <i>Gros-bec errant</i>
+
 Heron *fannini* subspecies, Great Blue (*Ardea herodias fannini*)<br />- <i>Grand héron de la sous-espèce *fannini*</i>
 
 Knot *islandica* subspecies, Red (*Calidris canutus islandica*)<br />- <i>Bécasseau maubèche de la sous-espèce *islandica*</i>
-
-Longspur, McCown’s (*Calcarius mccownii*)<br />- <i>Bruant de McCown</i>
 
 Murrelet, Ancient (*Synthliboramphus antiquus*)<br />- <i>Guillemot à cou blanc </i>
 
 Owl, Flammulated (*Otus flammeolus*)<br />- <i>Petit-duc nain</i>
 
 Owl, Short-eared (*Asio flammeus*)<br />- <i>Hibou des marais</i>
+
+Phalarope, Red-necked (*Phalaropus lobatus*)<br />- <i>Phalarope à bec étroit</i>
 
 Pigeon, Band-tailed (*Patagioenas fasciata*)<br />- <i>Pigeon à queue barrée</i>
 
@@ -3625,8 +3637,6 @@ Sparrow, Baird’s (*Ammodramus bairdii*)<br />- <i>Bruant de Baird</i>
 Sparrow *pratensis* subspecies, Grasshopper (*Ammodramus savannarum pratensis*)<br />- <i>Bruant sauterelle de la sous-espèce de l’Est</i>
 
 Sparrow *princeps* subspecies, Savannah (*Passerculus sandwichensis princeps*)<br />- <i>Bruant des prés de la sous-espèce princeps</i>
-
-Waterthrush, Louisiana (*Seiurus motacilla*)<br />- <i>Paruline hochequeue</i>
 
 Wood-pewee, Eastern (*Contopus virens*)<br />- <i>Pioui de l’Est</i>
 
@@ -3923,7 +3933,7 @@ Mountain Crab-eye (*Acroscyphus sphaerophoroides*)<br />- <i>Acroscyphe des mont
 Waterfan, Western (*Peltigera gowardii*)<br />- <i>Peltigère éventail d’eau de l’Ouest</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112; SOR/2019-52, s. 1; SOR/2019-52, s. 2; SOR/2019-52, s. 3; SOR/2019-52, s. 4; SOR/2019-52, s. 5; SOR/2019-52, s. 6; SOR/2019-52, s. 7; SOR/2019-52, s. 8; SOR/2019-52, s. 9; SOR/2019-52, s. 10; SOR/2019-52, s. 11; SOR/2019-52, s. 12; SOR/2019-52, s. 13; SOR/2019-52, s. 14; SOR/2019-52, s. 15; SOR/2019-52, s. 16; SOR/2019-52, s. 17; SOR/2019-52, s. 18; SOR/2019-52, s. 19; SOR/2019-52, s. 20; SOR/2019-52, s. 21; SOR/2019-52, s. 22.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10, 59, 112, 130, 229; SOR/2018-10, 112; SOR/2019-52, s. 1; SOR/2019-52, s. 2; SOR/2019-52, s. 3; SOR/2019-52, s. 4; SOR/2019-52, s. 5; SOR/2019-52, s. 6; SOR/2019-52, s. 7; SOR/2019-52, s. 8; SOR/2019-52, s. 9; SOR/2019-52, s. 10; SOR/2019-52, s. 11; SOR/2019-52, s. 12; SOR/2019-52, s. 13; SOR/2019-52, s. 14; SOR/2019-52, s. 15; SOR/2019-52, s. 16; SOR/2019-52, s. 17; SOR/2019-52, s. 18; SOR/2019-52, s. 19; SOR/2019-52, s. 20; SOR/2019-52, s. 21; SOR/2019-52, s. 22; SOR/2019-145, s. 1; SOR/2019-145, s. 2; SOR/2019-145, s. 3; SOR/2019-145, s. 4; SOR/2019-145, s. 5; SOR/2019-145, s. 6.
 
 
 
