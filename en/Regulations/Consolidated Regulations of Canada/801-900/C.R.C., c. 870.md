@@ -8073,6 +8073,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
+**B.02.004** 
+
+- **(1)** No person shall sell flavoured purified alcohol in a container with a capacity of 1,000 mL or less unless it contains 25.6 mL or less of alcohol.
+
+- **(2)** Subsection (1) does not apply to flavoured purified alcohol that is sold in a glass container with a capacity of at least 750 mL.
+
+- **(3)** For the purposes of this section, ***flavoured purified alcohol*** means an alcoholic beverage
+	- **(a)** that is obtained from an alcohol base that has been purified during the course of manufacture through a process other than distillation and from which most of the naturally occurring substances other than alcohol and water have been removed; and
+	- **(b)** to which has been added during the course of manufacture any substance or mixture of substances that imparts flavour.
+> SOR/2019-147, s. 1.
+
+
+
+
 
 #### Whisky
 
