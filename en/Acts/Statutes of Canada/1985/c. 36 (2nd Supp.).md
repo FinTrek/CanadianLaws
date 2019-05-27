@@ -221,11 +221,11 @@ but does not include the adjoining area, as defined in section 2 of the [Yukon A
 
 **12** 
 
-- **(1)** The Governor in Council may, in the case of
-	- **(a)** a disagreement with any government concerning the location of an international boundary,
-	- **(b)** an environmental or social problem of a serious nature, or
-	- **(c)** dangerous or extreme weather conditions affecting the health or safety of people or the safety of equipment,
-by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on the frontier lands or any portion thereof that are subject to the interest of that interest owner.
+- **(1)** The Governor in Council may, by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on the frontier lands or any portion of them that are subject to the interest of that interest owner, in the case of
+	- **(a)** a disagreement with any government concerning the location of an international boundary;
+	- **(b)** an environmental or social problem of a serious nature;
+	- **(c)** dangerous or extreme weather conditions affecting the health or safety of people or the safety of equipment; or
+	- **(d)** the designation of a marine protected area under subsection 35(3) or 35.1(2) of the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md).
 
 **Suspension of requirements in relation to interest**
 
@@ -238,7 +238,62 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Relieving authority not affected**
 
 - **(4)** Nothing in this section affects the authority of the Minister to relieve a person from any requirement in relation to an interest or under this Act or the regulations.
-> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F).
+> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F); 2019, c. 8, s. 19.
+
+
+
+
+
+**Negotiations for compensation**
+
+**12.1** 
+
+- **(1)** The Minister may enter into negotiations with an interest owner, in respect of all or any portion of the frontier lands subject to the interest, for a determination of any compensation that may be granted to the interest owner for the surrender of the interest to Her Majesty in right of Canada, if
+	- **(a)** the interest is located in a marine protected area that is designated under the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md) or in an area of the sea that, in the opinion of the Minister of Fisheries and Oceans, may be designated as a marine protected area under that Act; and
+	- **(b)** the Minister of Fisheries and Oceans recommends that the interest be cancelled to give effect to the purpose of the designation or proposed designation of the marine protected area under section 35 of the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md).
+
+**Notice**
+
+- **(2)** For the purposes of subsection (1), the Minister shall send a notice to the interest owner informing the interest owner of the Minister’s intent to enter into negotiations with the interest owner within the period specified in the notice.
+
+**Power to cancel**
+
+- **(3)** The Minister may, by order, cancel the interest in respect of all or any portion of the frontier lands, if
+	- **(a)** the interest owner did not enter into negotiations with the Minister within the period specified in the notice sent to the interest owner;
+	- **(b)** in the opinion of the Minister, the compensation to be granted to the interest owner for the surrender of the interest has not been determined during the negotiations within a reasonable time; or
+	- **(c)** in the opinion of the Minister, the negotiations do not result in the surrender of the interest by the interest owner within a reasonable time even though the compensation to be granted to the interest owner has been determined during the negotiations.
+
+**Amount of compensation**
+
+- **(4)** The Minister shall, in the order, specify the amount of the compensation to be granted to the interest owner in respect of the cancellation of the interest.
+
+**Interest becomes reserve lands**
+
+- **(5)** If the interest referred to in subsection (1) is surrendered or cancelled in respect of all or any portion of the frontier lands, the lands or portions of lands that are subject to the interest become Crown reserve lands.
+
+**Return of deposit**
+
+- **(6)** If the interest referred to in subsection (1) is surrendered or cancelled, any deposit balance with respect to the interest held by Her Majesty in right of Canada on behalf of the interest owner shall be returned to the interest owner, less any liability, either direct or by way of indemnity, owed by the interest owner to Her Majesty in right of Canada at the time of the surrender or cancellation.
+> 2019, c. 8, s. 20.
+
+
+
+
+
+**Compensation — surrender**
+
+**12.2** 
+
+- **(1)** If the interest owner surrenders an interest referred to in subsection 12.1(1), Her Majesty in right of Canada may grant any compensation that is determined by negotiations with the Minister.
+
+**Compensation — cancellation**
+
+- **(2)** If the Minister cancels an interest referred to in subsection 12.1(1), Her Majesty in right of Canada may grant to the interest owner the compensation that is specified in an order made by the Minister under subsection 12.1(3), subject to section 106 in respect of the amount of that compensation.
+
+**No compensation**
+
+- **(3)** A person shall not have any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any servant or agent or mandatary of Her Majesty in right of Canada for any acquired, vested, future or potential right or entitlement that is affected by a surrender or cancellation of an interest referred to in subsection 12.1(1), other than compensation that may be granted to an interest owner under this section.
+> 2019, c. 8, s. 20.
 
 
 
