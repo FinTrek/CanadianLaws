@@ -220,7 +220,8 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 - **(1)** Le gouverneur en conseil peut, par décret, interdire à tout titulaire d’entreprendre ou de poursuivre des activités sur tout ou partie des terres domaniales visées par son titre s’il l’estime nécessaire dans les cas suivants :
 	- **a)** désaccord avec un gouvernement à l’égard de l’emplacement d’une frontière;
 	- **b)** problème environnemental ou social grave;
-	- **c)** conditions climatiques trop rigoureuses ou trop dangereuses pour la santé ou la sécurité des personnes ou la sécurité de l’équipement.
+	- **c)** conditions climatiques trop rigoureuses ou trop dangereuses pour la santé ou la sécurité des personnes ou la sécurité de l’équipement;
+	- **d)** désignation d’une zone de protection marine en vertu des paragraphes 35(3) ou 35.1(2) de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md).
 
 **Suspension des obligations**
 
@@ -233,7 +234,62 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Exception**
 
 - **(4)** Le présent article n’a pas pour effet d’empêcher le ministre, s’il en a le pouvoir, de libérer quiconque de l’exécution d’obligations liées à un titre ou imposées par la présente loi ou ses règlements.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F).
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F); 2019, ch. 8, art. 19.
+
+
+
+
+
+**Négociation pour une indemnité**
+
+**12.1** 
+
+- **(1)** Lorsqu’un titre répond aux conditions ci-après, le ministre peut entamer des négociations avec le titulaire intéressé pour déterminer toute indemnité à lui accorder pour l’abandon, au profit de Sa Majesté du chef du Canada, d’un titre à l’égard de tout ou partie des terres domaniales :
+	- **a)** le titre vise des terres domaniales situées dans une zone de protection marine désignée en vertu de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md) ou dans un espace maritime qui, de l’avis du ministre des Pêches et Océans, pourrait être désigné comme zone de protection marine en vertu de cette loi;
+	- **b)** le ministre des Pêches et Océans recommande que le titre soit annulé pour donner effet à l’objet de la désignation, ou de la désignation envisagée, de la zone de protection marine en vertu de l’article 35 de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md).
+
+**Avis au titulaire**
+
+- **(2)** Pour l’application du paragraphe (1), le ministre envoie au titulaire un avis indiquant qu’il désire entamer les négociations dans le délai prévu dans l’avis.
+
+**Pouvoir d’annuler**
+
+- **(3)** Le ministre peut, par arrêté, annuler le titre à l’égard de tout ou partie des terres domaniales visées si :
+	- **a)** le titulaire n’a pas entamé de négociations avec le ministre dans le délai prévu dans l’avis que celui-ci lui a envoyé;
+	- **b)** de l’avis du ministre, les négociations n’ont pas mené à la détermination de l’indemnité dans un délai raisonnable;
+	- **c)** de l’avis du ministre, les négociations n’ont pas mené à l’abandon du titre dans un délai raisonnable, quoiqu’une indemnité ait été déterminée au terme des négociations.
+
+**Montant de l’indemnité**
+
+- **(4)** Le ministre précise dans l’arrêté le montant de l’indemnité à accorder au titulaire à l’égard de l’annulation.
+
+**Réserves de l’État**
+
+- **(5)** Lorsqu’un titre visé au paragraphe (1) est abandonné ou annulé à l’égard de tout ou partie des terres domaniales, les terres ou les parties des terres domaniales visées deviennent des réserves de l’État.
+
+**Remboursement de la garantie**
+
+- **(6)** Si un titre visé au paragraphe (1) est abandonné ou annulé, le solde de la garantie relativement au titre est remboursé au titulaire par Sa Majesté du chef du Canada, déduction faite du montant correspondant à toute obligation non satisfaite par lui au moment de l’abandon ou de l’annulation.
+> 2019, ch. 8, art. 20.
+
+
+
+
+
+**Indemnité en cas d’abandon**
+
+**12.2** 
+
+- **(1)** Si le titulaire abandonne un titre visé au paragraphe 12.1(1), Sa Majesté du chef du Canada peut lui accorder toute indemnité déterminée aux termes des négociations avec le ministre pour l’abandon du titre.
+
+**Indemnité en cas d’annulation**
+
+- **(2)** Si le ministre annule un titre visé au paragraphe 12.1(1), Sa Majesté du chef du Canada peut accorder au titulaire l’indemnité précisée dans l’arrêté pris en vertu du paragraphe 12.1(3). L’arrêté est assujetti à l’article 106 à l’égard du montant de l’indemnité.
+
+**Aucun recours**
+
+- **(3)** À l’exception de toute indemnité accordée en vertu du présent article, nul ne peut réclamer ou recevoir quelque dédommagement de Sa Majesté du chef du Canada ou de ses préposés ou mandataires en rapport avec des droits, acquis ou dévolus, actuels ou éventuels, visés par l’abandon ou l’annulation de titres visés au paragraphe 12.1(1).
+> 2019, ch. 8, art. 20.
 
 
 
