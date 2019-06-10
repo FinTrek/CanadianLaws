@@ -8168,12 +8168,14 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **139** Natural gas condensates (a complex combination of hydrocarbons primarily in the carbon range of C<sub>5</sub> to C<sub>15</sub> that are condensed during production at a well head, in a natural gas processing plant, natural gas pipeline or straddle plant), including any of their liquid distillates that are primarily in the carbon range of C<sub>5</sub> to C<sub>15</sub>
 - **140** Phenol, 5-chloro-2-(2,4-dichlorophenoxy)-, which has the molecular formula C<sub>12</sub>H<sub>7</sub>Cl<sub>3</sub>O<sub>2</sub>
 - **141** Acetamide, *N*-[4-[(2-hydroxy-5-methylphenyl)azo]phenyl]-, which has the molecular formula C<sub>15</sub>H<sub>15</sub>N<sub>3</sub>O<sub>2</sub>
+- **142** Cobalt and soluble cobalt compounds
+- **143** N,N′-mixed phenyl and tolyl derivatives of 1,4-benzenediamine
 - **147** Benzene, 1,1′-methylenebis[4-isocyanato-, which has the molecular formula C<sub>15</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>
 - **148** Benzene, 1,1′-methylenebis[2-isocyanato-, which has the molecular formula C<sub>15</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>
 - **149** Benzene, 1-isocyanato-2-[(4-isocyanatophenyl)methyl]-, which has the molecular formula C<sub>15</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>
 - **150** Benzene, 1,1′-methylenebis[isocyanato- (non-isomeric-specific), which has the molecular formula C<sub>15</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>
 - **151** Isocyanic acid, polymethylenepolyphenylene ester, which has the molecular formula C<sub>15</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>•[C<sub>8</sub>H<sub>5</sub>NO]<sub>n</sub> in which 0≤n≤4
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308; SOR/2017-113; SOR/2018-20, 67, 129, 130; SOR/2019-115, s. 1.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308; SOR/2017-113; SOR/2018-20, 67, 129, 130; SOR/2019-115, s. 1; SOR/2019-197, s. 1; SOR/2019-198, s. 1.
 
 
 
